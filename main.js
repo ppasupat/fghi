@@ -10,7 +10,9 @@ $(function () {
   });
   $('#btn-all').click();
 
-  function generate(grid_raw, hsk_raw, vocab_raw) {
+  var currentChar = null;
+
+  function generate(grid_raw, hsk_raw) {
     var charToLevel = {};
     [1, 2, 3, 4, 5, 6].forEach(function (level) {
       var levelChars = hsk_raw[level];
@@ -27,20 +29,23 @@ $(function () {
       }
     });
     grid.on('click', 'td', function (event) {
-      var cell = $(this), char = cell.text();
+      var cell = $(this), char = cell.text(), code = char.charCodeAt(0);
       $('#chars-pane .selected').removeClass('selected');
       cell.addClass('selected');
-      $('#words-pane').empty();
-      var wordsList = $('<div class=words-list>').appendTo('#words-pane');
-      [1, 2, 3, 4, 5, 6].forEach(function (level) {
-        vocab_raw[level].forEach(function (word) {
-          var c = word.indexOf(char), p = word.indexOf('（');
-          if (c != -1 && (p == -1 || c < p)) {
-            wordsList.append(
-              $('<div>').addClass('h' + level)
-              .append($('<span class=level>').text(level))
-              .append($('<span class=word>').text(word)));
-          };
+      currentChar = char;
+      // Load data
+      $.get('data/vocab/' + code + '.json', function (charData) {
+        if (charData.char !== currentChar) return;
+        $('#words-pane').empty();
+        var wordsList = $('<div class=words-list>').appendTo('#words-pane');
+        charData.words.forEach(function (entry) {
+          wordsList.append(
+            $('<div>').addClass('h' + entry[1])
+              .append($('<span class=level>').text(entry[1]))
+              .append($('<span class=word>').text(entry[0]))
+              .append($('<span class=pron>').text(entry[2]))
+              .append($('<div class=gloss>').text(entry[3]))
+          );
         });
       });
     });
@@ -48,9 +53,7 @@ $(function () {
 
   $.get('data/grid.json', function (grid_raw) {
     $.get('data/hsk.json', function (hsk_raw) {
-      $.get('data/vocab.json', function (vocab_raw) {
-        generate(grid_raw, hsk_raw, vocab_raw);
-      });
+      generate(grid_raw, hsk_raw);
     });
   });
 
