@@ -1,0 +1,100 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+#toolbar {
+  height: 35px;
+  line-height: 35px;
+  padding: 3px 0;
+  width: 100%;
+  background-color: #eee;
+  box-shadow: 0 1px 5px #ccc;
+  text-align: center;
+}
+#toolbar button {
+  margin: 0 3px;
+  padding: 4px 12px;
+  font-size: 100%;
+  background-color: #ccc;
+  border: none;
+  cursor: pointer;
+}
+#toolbar button.selected {
+  background-color: #eaa;
+}
+
+#wrapper {
+  height: 0;
+  flex: 1 1 auto;
+  width: 100%;
+  font-size: 28px;
+  line-height: 42px;
+  display: flex;
+  flex-direction: row;
+}
+#chars-pane {
+  flex: 1 1 60%;
+  overflow-y: scroll;
+}
+#words-pane {
+  flex: 1 1 40%;
+  overflow-y: scroll;
+}
+
+#chars-pane table {
+  margin: 15px auto;
+}
+#chars-pane td {
+  padding-left: 5px;
+  padding-right: 5px;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+#chars-pane td:hover{
+  border: 2px solid pink;
+}
+#chars-pane td.selected {
+  border: 2px solid red;
+}
+
+#words-pane .words-list {
+  margin: 15px 0;
+}
+#words-pane .level {
+  width: 30px;
+  font-size: 80%;
+  display: inline-block;
+  text-align: right;
+  padding-right: 20px;
+}
+
+#wrapper.d1 .h2,
+#wrapper.d1 .h3,
+#wrapper.d1 .h4,
+#wrapper.d1 .h5,
+#wrapper.d1 .h6,
+#wrapper.d1 .hx,
+#wrapper.d2 .h3,
+#wrapper.d2 .h4,
+#wrapper.d2 .h5,
+#wrapper.d2 .h6,
+#wrapper.d2 .hx,
+#wrapper.d3 .h4,
+#wrapper.d3 .h5,
+#wrapper.d3 .h6,
+#wrapper.d3 .hx,
+#wrapper.d4 .h5,
+#wrapper.d4 .h6,
+#wrapper.d4 .hx,
+#wrapper.d5 .h6,
+#wrapper.d5 .hx,
+#wrapper.d6 .hx {
+  color: #ddd;
+}
