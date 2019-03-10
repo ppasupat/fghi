@@ -39,12 +39,13 @@ $(function () {
         $('#words-pane').empty();
         var wordsList = $('<div class=words-list>').appendTo('#words-pane');
         charData.words.forEach(function (entry) {
+          // Simp, Trad, Level, Pron, Gloss
           wordsList.append(
-            $('<div>').addClass('h' + entry[1])
-              .append($('<span class=level>').text(entry[1]))
+            $('<div>').addClass('h' + entry[2])
+              .append($('<span class=level>').text(entry[2]))
               .append($('<span class=word>').text(entry[0]))
-              .append($('<span class=pron>').text(entry[2]))
-              .append($('<div class=gloss>').text(entry[3]))
+              .append($('<span class=pron>').text(entry[3]))
+              .append($('<div class=gloss>').text(entry[4]))
           );
         });
       });
