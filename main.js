@@ -1,5 +1,12 @@
 $(function () {
 
+  /** Generate a tag in SVG namespace */
+  function S(tag, attr) {
+    return $(document.createElementNS(
+      "http://www.w3.org/2000/svg", tag.replace(/[<>]/g, '')))
+      .attr(attr || {});
+  }
+
   $('#toolbar').append('Display up to HSK ');
   [1, 2, 3, 4, 5, 6, 'all'].forEach(function (level) {
     $('<button>').attr('id', 'btn-' + level).text(level).click(function () {
@@ -11,6 +18,37 @@ $(function () {
   $('#btn-all').click();
 
   var currentChar = null;
+
+  function populateData(charData) {
+    if (charData.char !== currentChar) return;
+    $('#words-pane').empty();
+    // char
+    var charInfoBox = $('<div class=char-info>').appendTo('#words-pane');
+    var svg = $('<svg class=char-img>').attr({
+      'width': 256, 'height': 256,
+    }).appendTo(charInfoBox);
+    var svgOuterGroup = S('g', {
+      'transform': 'scale(.25)',
+    }).appendTo(svg);
+    var svgGroup = S('g', {
+      'transform': 'scale(1, -1) translate(0, -900)',
+    }).appendTo(svgOuterGroup);
+    charData.strokes.forEach(function (d, i) {
+      S('path', {'d': d}).appendTo(svgGroup);
+    });
+    // words
+    var wordsList = $('<div class=words-list>').appendTo('#words-pane');
+    charData.words.forEach(function (entry) {
+      // Simp, Trad, Level, Pron, Gloss
+      wordsList.append(
+        $('<div>').addClass('h' + entry[2])
+          .append($('<span class=level>').text(entry[2]))
+          .append($('<span class=word>').text(entry[0]))
+          .append($('<span class=pron>').text(entry[3]))
+          .append($('<div class=gloss>').text(entry[4]))
+      );
+    });
+  }
 
   function generate(grid_raw, hsk_raw) {
     var charToLevel = {};
@@ -33,22 +71,7 @@ $(function () {
       $('#chars-pane .selected').removeClass('selected');
       cell.addClass('selected');
       currentChar = char;
-      // Load data
-      $.get('data/vocab/' + code + '.json', function (charData) {
-        if (charData.char !== currentChar) return;
-        $('#words-pane').empty();
-        var wordsList = $('<div class=words-list>').appendTo('#words-pane');
-        charData.words.forEach(function (entry) {
-          // Simp, Trad, Level, Pron, Gloss
-          wordsList.append(
-            $('<div>').addClass('h' + entry[2])
-              .append($('<span class=level>').text(entry[2]))
-              .append($('<span class=word>').text(entry[0]))
-              .append($('<span class=pron>').text(entry[3]))
-              .append($('<div class=gloss>').text(entry[4]))
-          );
-        });
-      });
+      $.get('data/vocab/' + code + '.json', populateData);
     });
   }
 
