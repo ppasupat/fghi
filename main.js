@@ -43,12 +43,22 @@ $(function () {
       wordsList.append(
         $('<div>').addClass('h' + entry[2])
           .append($('<span class=level>').text(entry[2]))
-          .append($('<span class=word>').text(entry[0]))
+          .append(genWordSpan(entry[0]))
           .append($('<span class=pron>').text(entry[3]))
           .append($('<div class=gloss>').text(entry[4]))
       );
     });
   }
+
+  function genWordSpan(word) {
+    var span = $('<span class=word>');
+    for (var i = 0; i < word.length; i++) {
+      $('<span class=wc>').text(word.charAt(i)).appendTo(span);
+    }
+    return span;
+  }
+
+  var charToTd = {};
 
   function generate(grid_raw, hsk_raw) {
     var charToLevel = {};
@@ -63,7 +73,8 @@ $(function () {
       var row = $('<tr>').appendTo(grid);
       for (var i = 0; i < row_raw.length; i++) {
         var x = row_raw.charAt(i);
-        row.append($('<td>').text(x).addClass('h' + charToLevel[x]));
+        charToTd[x] = $('<td>')
+          .text(x).addClass('h' + charToLevel[x]).appendTo(row);
       }
     });
     grid.on('click', 'td', function (event) {
@@ -74,6 +85,14 @@ $(function () {
       $.get('data/vocab/' + code + '.json', populateData);
     });
   }
+
+  $('#words-pane').on('click', '.wc', function () {
+    var td = charToTd[$(this).text()];
+    if (!td) return;
+    $('#chars-pane').animate({ scrollTop: td.position().top });
+    td.addClass('flash');
+    setTimeout(function () { td.removeClass('flash'); }, 1000);
+  });
 
   $.get('data/grid.json', function (grid_raw) {
     $.get('data/hsk.json', function (hsk_raw) {

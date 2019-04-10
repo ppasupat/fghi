@@ -19,6 +19,7 @@ body {
   background-color: #eee;
   box-shadow: 0 1px 5px #ccc;
   text-align: center;
+  font-family: Arial, sans-serif;
 }
 #toolbar #about-link {
   position: absolute;
@@ -37,6 +38,9 @@ body {
   background-color: #ccc;
   border: none;
   cursor: pointer;
+  font-family: Arial, sans-serif;
+  border-radius: 5px;
+  height: 1.7em;
 }
 #toolbar button.selected {
   background-color: #eaa;
@@ -68,6 +72,9 @@ body {
   cursor: pointer;
   border: 2px solid transparent;
 }
+#chars-pane td.flash {
+  background-color: yellow;
+}
 #chars-pane td:hover{
   border: 2px solid pink;
 }
@@ -92,6 +99,9 @@ body {
   display: inline-block;
   text-align: right;
   padding-right: 20px;
+}
+#words-pane .wc {
+  cursor: pointer;
 }
 #words-pane .pron {
   font-size: 80%;
