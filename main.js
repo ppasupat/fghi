@@ -8,7 +8,7 @@ $(function () {
   }
 
   $('#toolbar').append('Display up to HSK ');
-  [1, 2, 3, 4, 5, 6, 'all'].forEach(function (level) {
+  [1, 2, 3, 4, 5, 6, 'C', 'all'].forEach(function (level) {
     $('<button>').attr('id', 'btn-' + level).text(level).click(function () {
       $('#wrapper').removeClass().addClass('d' + level);
       $('#toolbar button').removeClass();
@@ -61,20 +61,29 @@ $(function () {
   var charToTd = {};
 
   function generate(grid_raw, hsk_raw) {
-    var charToLevel = {};
+    var charToLevel = {}, commonChars = {};
     [1, 2, 3, 4, 5, 6].forEach(function (level) {
       var levelChars = hsk_raw[level];
       for (var i = 0; i < levelChars.length; i++) {
         charToLevel[levelChars[i]] = level;
       }
     });
+    for (var i = 0; i < hsk_raw['C'].length; i++) {
+      commonChars[hsk_raw['C'][i]] = true;
+    }
+    // Create the grid
     var grid = $('<table>').appendTo('#chars-pane');
     grid_raw.forEach(function (row_raw) {
       var row = $('<tr>').appendTo(grid);
       for (var i = 0; i < row_raw.length; i++) {
         var x = row_raw.charAt(i);
-        charToTd[x] = $('<td>')
-          .text(x).addClass('h' + charToLevel[x]).appendTo(row);
+        charToTd[x] = $('<td>').text(x).appendTo(row);
+        if (charToLevel[x] !== undefined)
+          charToTd[x].addClass('h' + charToLevel[x]);
+        else
+          charToTd[x].addClass('hx');
+        if (commonChars[x] === undefined)
+          charToTd[x].addClass('hC');
       }
     });
     grid.on('click', 'td', function (event) {
