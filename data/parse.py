@@ -27,7 +27,7 @@ def main():
 
     print('Reading words and chars')
     char_to_words = defaultdict(list)
-    hsk = [None] * 7
+    hsk = [None] * 8
     hsk_so_far = set()
     for level in (1,2,3,4,5,6):
         print('HSK level', level)
@@ -42,6 +42,13 @@ def main():
                     if char not in hsk_so_far:
                         hsk[level].add(char)
         hsk_so_far.update(hsk[level])
+
+    # Read the extra characters
+    with open('hsk.json') as fin:
+        all_chars = set(''.join(json.load(fin).values()))
+    for level in (1,2,3,4,5,6):
+        all_chars -= set(hsk[level])
+    hsk[7] = sorted(all_chars)
 
     print('Reading characters')
     for level, chars in enumerate(hsk):
