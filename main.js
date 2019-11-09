@@ -25,6 +25,13 @@ $(function () {
 
   var currentChar = null;
 
+  function clearData(unknownChar) {
+    if (unknownChar !== currentChar) return;
+    $('#words-pane').empty();
+    $('<div class=char-info>').appendTo('#words-pane')
+      .append('Character ' + unknownChar + ' not found!');
+  }
+
   function populateData(charData) {
     if (charData.char !== currentChar) return;
     $('#words-pane').empty();
@@ -98,7 +105,9 @@ $(function () {
       $('#chars-pane .selected').removeClass('selected');
       cell.addClass('selected');
       currentChar = char;
-      $.get('data/vocab/' + code + '.json', populateData);
+      $.get('data/vocab/' + code + '.json', populateData).fail(function () {
+        clearData(char);
+      });
     });
   }
 
