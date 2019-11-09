@@ -1,5 +1,11 @@
 $(function () {
 
+  function gup(name) {
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)");
+    var results = regex.exec(window.location.href);
+    return results === null ? "" : decodeURIComponent(results[1]);
+  }
+
   /** Generate a tag in SVG namespace */
   function S(tag, attr) {
     return $(document.createElementNS(
@@ -75,8 +81,9 @@ $(function () {
     var grid = $('<table>').appendTo('#chars-pane');
     grid_raw.forEach(function (row_raw) {
       var row = $('<tr>').appendTo(grid);
-      for (var i = 0; i < row_raw.length; i++) {
-        var x = row_raw.charAt(i);
+      $('<th>').text(row_raw[0]).appendTo(row);
+      for (var i = 0; i < row_raw[1].length; i++) {
+        var x = row_raw[1].charAt(i);
         charToTd[x] = $('<td>').text(x).appendTo(row);
         if (charToLevel[x] !== undefined)
           charToTd[x].addClass('h' + charToLevel[x]);
@@ -103,7 +110,8 @@ $(function () {
     setTimeout(function () { td.removeClass('flash'); }, 1000);
   });
 
-  $.get('data/grid.json', function (grid_raw) {
+  var gridName = gup('grid') || 'fghi';
+  $.get('data/grid-' + gridName + '.json', function (grid_raw) {
     $.get('data/hsk.json', function (hsk_raw) {
       generate(grid_raw, hsk_raw);
     });

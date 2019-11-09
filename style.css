@@ -66,6 +66,10 @@ body {
 #chars-pane table {
   margin: 15px auto;
 }
+#chars-pane th {
+  text-align: right;
+  padding-right: 10px;
+}
 #chars-pane td {
   padding-left: 5px;
   padding-right: 5px;
