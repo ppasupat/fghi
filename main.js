@@ -1,8 +1,8 @@
 $(function () {
 
   function gup(name) {
-    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)");
-    var results = regex.exec(window.location.href);
+    let regex = new RegExp("[\\?&]" + name + "=([^&#]*)");
+    let results = regex.exec(window.location.href);
     return results === null ? "" : decodeURIComponent(results[1]);
   }
 
@@ -23,7 +23,7 @@ $(function () {
   });
   $('#btn-all').click();
 
-  var currentChar = null;
+  let currentChar = null;
 
   function clearData(unknownChar) {
     if (unknownChar !== currentChar) return;
@@ -32,65 +32,76 @@ $(function () {
       .append('Character ' + unknownChar + ' not found!');
   }
 
+  function createWordEntry(parentDiv, word, level, pron, gloss) {
+    let wordDiv = (
+      $('<div>')
+        .append($('<span class=level>').text(level))
+        .append(genWordSpan(word))
+        .append($('<span class=pron>').text(pron))
+        .append($('<div class=gloss>').text(gloss))
+        .appendTo(parentDiv)
+    );
+    if (level && level.length) {
+      wordDiv.addClass('h' + level);
+    }
+  }
+
   function populateData(charData) {
     if (charData.char !== currentChar) return;
     $('#words-pane').empty();
     // char
-    var charInfoBox = $('<div class=char-info>').appendTo('#words-pane');
-    var svg = $('<svg class=char-img>').attr({
+    let charInfoBox = $('<div class=char-info>').appendTo('#words-pane');
+    let svg = $('<svg class=char-img>').attr({
       'width': 256, 'height': 256,
     }).appendTo(charInfoBox);
-    var svgOuterGroup = S('g', {
+    let svgOuterGroup = S('g', {
       'transform': 'scale(.25)',
     }).appendTo(svg);
-    var svgGroup = S('g', {
+    let svgGroup = S('g', {
       'transform': 'scale(1, -1) translate(0, -900)',
     }).appendTo(svgOuterGroup);
     charData.strokes.forEach(function (d, i) {
       S('path', {'d': d}).appendTo(svgGroup);
     });
     // words
-    var wordsList = $('<div class=words-list>').appendTo('#words-pane');
+    let wordsList = $('<div class=words-list>').appendTo('#words-pane');
+    createWordEntry(wordsList, charData.char, '', charData.info.pron,
+      'Char Meanings: ' + charData.info.gloss);
+    wordsList.append('<hr>');
     charData.words.forEach(function (entry) {
       // Simp, Trad, Level, Pron, Gloss
-      wordsList.append(
-        $('<div>').addClass('h' + entry[2])
-          .append($('<span class=level>').text(entry[2]))
-          .append(genWordSpan(entry[0]))
-          .append($('<span class=pron>').text(entry[3]))
-          .append($('<div class=gloss>').text(entry[4]))
-      );
+      createWordEntry(wordsList, entry[0], entry[2], entry[3], entry[4]);
     });
   }
 
   function genWordSpan(word) {
-    var span = $('<span class=word>');
-    for (var i = 0; i < word.length; i++) {
+    let span = $('<span class=word>');
+    for (let i = 0; i < word.length; i++) {
       $('<span class=wc>').text(word.charAt(i)).appendTo(span);
     }
     return span;
   }
 
-  var charToTd = {};
+  let charToTd = {};
 
   function generate(grid_raw, hsk_raw) {
-    var charToLevel = {}, commonChars = {};
+    let charToLevel = {}, commonChars = {};
     [1, 2, 3, 4, 5, 6].forEach(function (level) {
-      var levelChars = hsk_raw[level];
-      for (var i = 0; i < levelChars.length; i++) {
+      let levelChars = hsk_raw[level];
+      for (let i = 0; i < levelChars.length; i++) {
         charToLevel[levelChars[i]] = level;
       }
     });
-    for (var i = 0; i < hsk_raw['C'].length; i++) {
+    for (let i = 0; i < hsk_raw['C'].length; i++) {
       commonChars[hsk_raw['C'][i]] = true;
     }
     // Create the grid
-    var grid = $('<table>').appendTo('#chars-pane');
+    let grid = $('<table>').appendTo('#chars-pane');
     grid_raw.forEach(function (row_raw) {
-      var row = $('<tr>').appendTo(grid);
+      let row = $('<tr>').appendTo(grid);
       $('<th>').text(row_raw[0]).appendTo(row);
-      for (var i = 0; i < row_raw[1].length; i++) {
-        var x = row_raw[1].charAt(i);
+      for (let i = 0; i < row_raw[1].length; i++) {
+        let x = row_raw[1].charAt(i);
         charToTd[x] = $('<td>').text(x).appendTo(row);
         if (charToLevel[x] !== undefined)
           charToTd[x].addClass('h' + charToLevel[x]);
@@ -101,7 +112,7 @@ $(function () {
       }
     });
     grid.on('click', 'td', function (event) {
-      var cell = $(this), char = cell.text(), code = char.charCodeAt(0);
+      let cell = $(this), char = cell.text(), code = char.charCodeAt(0);
       $('#chars-pane .selected').removeClass('selected');
       cell.addClass('selected');
       currentChar = char;
@@ -112,14 +123,14 @@ $(function () {
   }
 
   $('#words-pane').on('click', '.wc', function () {
-    var td = charToTd[$(this).text()];
+    let td = charToTd[$(this).text()];
     if (!td) return;
     $('#chars-pane').animate({ scrollTop: td.position().top });
     td.addClass('flash');
     setTimeout(function () { td.removeClass('flash'); }, 1000);
   });
 
-  var gridName = gup('grid') || 'fghi';
+  let gridName = gup('grid') || 'fghi';
   $.get('data/grid-' + gridName + '.json', function (grid_raw) {
     $.get('data/hsk.json', function (hsk_raw) {
       generate(grid_raw, hsk_raw);

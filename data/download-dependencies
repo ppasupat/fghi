@@ -1,18 +1,54 @@
 #!/bin/bash
 [[ -d raw ]] || mkdir raw
 
-echo Updating makemeahanzi ...
-if [[ ! -d raw/makemeahanzi ]]; then
-  cd raw && git clone --depth 1 git@github.com:skishore/makemeahanzi.git && cd ..
-fi
-cd raw/makemeahanzi && git pull && cd ../..
-
-echo Updating hskhsk ...
-[[ -d raw/hskhsk ]] || mkdir raw/hskhsk
-for i in {1..6}; do
-  if [[ ! -f raw/hskhsk/$i.tsv ]]; then
-    wget -O raw/hskhsk/$i.tsv "https://raw.githubusercontent.com/glxxyz/hskhsk.com/main/data/lists/HSK%20Official%20With%20Definitions%202012%20L${i}.txt"
-  else
-    echo $i.tsv already downloaded.
+update_makemehanzi() {
+  echo Updating makemeahanzi ...
+  local dir=raw/makemeahanzi
+  if [[ ! -d "${dir}" ]]; then
+    cd raw && git clone --depth 1 git@github.com:skishore/makemeahanzi.git && cd ..
   fi
-done
+  cd "${dir}" && git pull && cd ../..
+}
+
+update_hskhsk() {
+  echo Updating hskhsk ...
+  local dir=raw/hskhsk
+  mkdir -p "${dir}"
+  for i in {1..6}; do
+    wget -O "${dir}/${i}.tsv" "https://raw.githubusercontent.com/glxxyz/hskhsk.com/main/data/lists/HSK%20Official%20With%20Definitions%202012%20L${i}.txt"
+  done
+}
+
+update_cc_cedict() {
+  echo Updating CC-CEDICT ...
+  local dir=raw/cc-cedict
+  mkdir -p "${dir}"
+  wget -O "${dir}/cc-cedict.zip" 'https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.zip'
+  unzip -d "${dir}" "${dir}/cc-cedict.zip"
+}
+
+update_unihan() {
+  echo Updating Unihan ...
+  local dir=raw/unihan
+  mkdir -p "${dir}"
+  wget -O "${dir}/unihan.zip" 'https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip'
+  unzip -d "${dir}" "${dir}/unihan.zip"
+}
+
+case "$1" in
+  make)
+    update_makemehanzi
+    ;;
+  hsk)
+    update_hskhsk
+    ;;
+  cc)
+    update_cc_cedict
+    ;;
+  unihan)
+    update_unihan
+    ;;
+  *)
+    echo "Unknown resource '$1'"
+    ;;
+esac
