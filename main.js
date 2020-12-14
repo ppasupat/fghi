@@ -35,13 +35,13 @@ $(function () {
   function createWordEntry(parentDiv, word, level, pron, gloss) {
     let wordDiv = (
       $('<div>')
-        .append($('<span class=level>').text(level))
+        .append($('<span class=level>').text(level === null ? '' : level))
         .append(genWordSpan(word))
         .append($('<span class=pron>').text(pron))
         .append($('<div class=gloss>').text(gloss))
         .appendTo(parentDiv)
     );
-    if (level && level.length) {
+    if (level !== null) {
       wordDiv.addClass('h' + level);
     }
   }
@@ -65,7 +65,7 @@ $(function () {
     });
     // words
     let wordsList = $('<div class=words-list>').appendTo('#words-pane');
-    createWordEntry(wordsList, charData.char, '', charData.info.pron,
+    createWordEntry(wordsList, charData.char, null, charData.info.pron,
       'Char Meanings: ' + charData.info.gloss);
     wordsList.append('<hr>');
     charData.words.forEach(function (entry) {
