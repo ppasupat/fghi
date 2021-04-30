@@ -67,68 +67,7 @@
 "interrupt; break off"
 ]
 ],
-"extraWords": [
-[
-"打断",
-2568,
-"da3 duan4",
-"to interrupt; to break off; to break (a bone)"
-],
-[
-"切断",
-3574,
-"qie1 duan4",
-"to cut off (a supply etc)"
-],
-[
-"推断",
-8015,
-"tui1 duan4",
-"to infer; to deduce; to predict; to extrapolate"
-],
-[
-"判断力",
-8142,
-"pan4 duan4 li4",
-"ability to judge; judgment"
-],
-[
-"折断",
-9623,
-"zhe2 duan4",
-"to snap sth off; to break"
-],
-[
-"割断",
-9754,
-"ge1 duan4",
-"to cut off; to sever"
-],
-[
-"断层",
-12131,
-"duan4 ceng2",
-"\"geologic fault; CL:道[dao4],\""
-],
-[
-"断裂",
-12597,
-"duan4 lie4",
-"fracture; rupture"
-],
-[
-"间断",
-14034,
-"jian4 duan4",
-"disconnected; interrupted; suspended"
-],
-[
-"断电",
-14968,
-"duan4 dian4",
-"power cut; electric power failure"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 248 605 Q 264 584 279 559 Q 286 547 299 545 Q 308 544 313 553 Q 320 563 318 587 Q 315 612 253 642 Q 241 646 236 646 Q 232 645 231 634 Q 232 625 248 605 Z",
 "M 454 654 Q 448 638 421 591 Q 414 578 427 582 Q 452 597 489 623 Q 502 636 520 647 Q 535 656 526 668 Q 514 681 494 689 Q 475 698 465 695 Q 455 694 460 683 Q 464 670 454 654 Z",

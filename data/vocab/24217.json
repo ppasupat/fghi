@@ -13,32 +13,7 @@
 "temple; monastery"
 ]
 ],
-"extraWords": [
-[
-"庙",
-11654,
-"miao4",
-"temple; monastery"
-],
-[
-"神庙",
-14998,
-"shen2 miao4",
-"a temple (not specific)"
-],
-[
-"宗庙",
-27970,
-"zong1 miao4",
-"temple; ancestral shrine"
-],
-[
-"圣庙",
-76094,
-"sheng4 miao4",
-"shrine to a sage (esp. Confucius)"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 486 807 Q 526 782 570 749 Q 586 737 602 740 Q 612 741 617 756 Q 620 772 607 802 Q 589 841 475 857 Q 459 858 452 855 Q 448 851 450 837 Q 454 827 486 807 Z",
 "M 331 612 Q 386 603 411 608 Q 756 671 774 683 Q 784 690 779 700 Q 772 712 742 720 Q 709 729 629 700 Q 473 657 324 645 C 294 642 301 617 331 612 Z",

@@ -13,56 +13,7 @@
 "detective"
 ]
 ],
-"extraWords": [
-[
-"侦察",
-7613,
-"zhen1 cha2",
-"to investigate a crime; detection; a scout"
-],
-[
-"侦查",
-8098,
-"zhen1 cha2",
-"detect; investigate"
-],
-[
-"侦",
-10588,
-"zhen1",
-"to scout; to spy; to detect"
-],
-[
-"侦破",
-13603,
-"zhen1 po4",
-"to investigate (as detective); to solve (crime); to uncover (a plot); to sniff out; to break in and analyze; detective work; to scout"
-],
-[
-"侦察兵",
-19523,
-"zhen1 cha2 bing1",
-"a scout; spy"
-],
-[
-"侦察机",
-23198,
-"zhen1 cha2 ji1",
-"surveillance aircraft"
-],
-[
-"侦察员",
-40058,
-"zhen1 cha2 yuan2",
-"detective; investigator; scout; spy"
-],
-[
-"侦缉",
-40059,
-"zhen1 qi1",
-"to track down; to investigate and arrest"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 252 512 Q 295 569 343 644 Q 370 693 395 717 Q 405 727 400 742 Q 396 755 365 780 Q 337 799 318 799 Q 299 798 307 774 Q 320 741 309 713 Q 270 620 212 534 Q 157 452 79 360 Q 69 350 66 343 Q 62 331 77 334 Q 114 338 218 469 Q 222 476 229 482 L 252 512 Z",
 "M 229 482 Q 232 472 238 462 Q 253 431 255 325 Q 255 214 226 99 Q 216 54 250 3 Q 251 3 253 0 Q 271 -16 283 11 Q 298 51 297 98 Q 297 363 305 424 Q 312 451 303 462 Q 260 508 252 512 C 229 531 218 510 229 482 Z",

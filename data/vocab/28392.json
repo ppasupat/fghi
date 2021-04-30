@@ -13,50 +13,7 @@
 "shore; seaside"
 ]
 ],
-"extraWords": [
-[
-"滨",
-23374,
-"bin1",
-"shore; beach; coast; bank"
-],
-[
-"河滨",
-26239,
-"he2 bin1",
-"brook; rivulet"
-],
-[
-"横滨",
-26861,
-"Heng2 bin1",
-"\"Yokohama, major port city in Shinagawa prefecture 神奈川县[Shen2 nai4 chuan1 xian4], Japan\""
-],
-[
-"哈尔滨",
-29336,
-"Ha1 er3 bin1",
-"\"Harbin, prefecture level city and capital of Heilongjiang province 黑龙江[Hei1 long2 jiang1] in northeast China\""
-],
-[
-"滨海",
-34607,
-"Bin1 hai3",
-"\"(N) Binhai (place in Jiangsu); Binhai, subprovincial district of Tianjin\""
-],
-[
-"湖滨",
-46578,
-"hu2 bin1",
-"lake front"
-],
-[
-"滨州",
-64704,
-"Bin1 zhou1",
-"Binzhou prefecture level city in Shandong"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 200 698 Q 222 674 245 647 Q 258 632 275 632 Q 285 631 293 645 Q 299 660 292 692 Q 288 711 259 726 Q 193 757 176 751 Q 170 747 171 734 Q 174 722 200 698 Z",
 "M 111 514 Q 162 463 200 446 Q 215 443 223 457 Q 229 469 225 485 Q 210 527 124 551 Q 123 552 122 552 Q 106 556 97 552 Q 91 551 94 539 Q 95 527 111 514 Z",

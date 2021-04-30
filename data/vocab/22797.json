@@ -79,68 +79,7 @@
 "restoration; repair"
 ]
 ],
-"extraWords": [
-[
-"复仇",
-3025,
-"fu4 chou2",
-"avenge; vengeance"
-],
-[
-"康复",
-3488,
-"kang1 fu4",
-"to recuperate; to recover (health); to convalesce"
-],
-[
-"回复",
-4390,
-"hui2 fu4",
-"Re:; in reply to (email); return (to some condition)"
-],
-[
-"复",
-6690,
-"fu4",
-"to go and return; to return; to resume; to return to a normal or original state; to repeat; again; to recover; to restore; to turn over; to reply; to answer; to reply to a letter; to retaliate; to carry out; to repeat; to double; to overlap; complex (not simple); compound; composite; double; diplo-; duplicate; overlapping; to duplicate"
-],
-[
-"复原",
-7521,
-"fu4 yuan2",
-"heal; recovery; restitution; reconstruction"
-],
-[
-"复活节",
-7817,
-"Fu4 huo2 jie2",
-"Easter"
-],
-[
-"复合",
-7957,
-"fu4 he2",
-"complex; compound; hybrid"
-],
-[
-"复苏",
-8070,
-"fu4 su1",
-"\"recovery (health, economic)\""
-],
-[
-"复职",
-11950,
-"fu4 zhi2",
-"to resume a post"
-],
-[
-"复生",
-12575,
-"fu4 sheng1",
-"to be reborn"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 394 746 Q 410 771 430 792 Q 440 805 427 820 Q 387 856 358 854 Q 348 853 348 837 Q 357 747 242 631 Q 226 616 218 604 Q 208 589 224 593 Q 240 594 264 610 Q 336 659 378 723 Q 378 724 379 725 L 394 746 Z",
 "M 379 725 Q 388 716 422 709 Q 450 703 483 712 Q 721 764 731 771 Q 740 778 735 788 Q 728 800 698 807 Q 671 813 573 780 Q 479 756 394 746 C 364 742 354 741 379 725 Z",

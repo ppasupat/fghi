@@ -31,68 +31,7 @@
 "organize; organization"
 ]
 ],
-"extraWords": [
-[
-"小组",
-1643,
-"xiao3 zu3",
-"a group"
-],
-[
-"组建",
-8601,
-"zu3 jian4",
-"to organize; to set up; to establish"
-],
-[
-"重组",
-8606,
-"chong2 zu3",
-"to reorganize; to recombine; recombination"
-],
-[
-"组装",
-11483,
-"zu3 zhuang1",
-"assemble and install"
-],
-[
-"组长",
-14364,
-"zu3 zhang3",
-"group leader"
-],
-[
-"机组",
-14846,
-"ji1 zu3",
-"flight crew (on a plane)"
-],
-[
-"分组",
-14918,
-"fen1 zu3",
-"to divide into groups; subgroup"
-],
-[
-"组织者",
-22279,
-"zu3 zhi1 zhe3",
-"organizer"
-],
-[
-"软组织",
-22334,
-"ruan3 zu3 zhi1",
-"soft tissue"
-],
-[
-"组件",
-25264,
-"zu3 jian4",
-"module; unit; component; assembly"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 343 482 Q 340 482 337 481 Q 285 481 243 480 Q 209 480 227 501 Q 299 619 368 706 Q 383 724 380 732 Q 379 747 338 780 Q 322 793 302 790 Q 292 787 297 771 Q 315 728 221 563 Q 202 526 159 489 Q 140 474 142 462 Q 146 443 161 423 Q 171 413 185 419 Q 209 434 325 457 C 354 463 373 484 343 482 Z",
 "M 325 457 Q 223 318 200 305 Q 187 296 189 282 Q 190 269 217 250 Q 227 238 242 251 Q 308 299 418 335 Q 437 341 439 349 Q 442 359 422 355 Q 361 343 285 320 Q 258 310 276 333 Q 318 393 418 515 Q 445 552 470 573 Q 482 583 476 593 Q 466 612 433 630 Q 417 640 407 637 Q 397 633 400 618 Q 403 576 343 482 L 325 457 Z",

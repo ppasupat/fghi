@@ -31,68 +31,7 @@
 "bullet; cartridge"
 ]
 ],
-"extraWords": [
-[
-"炸弹",
-1260,
-"zha4 dan4",
-"bomb"
-],
-[
-"弹",
-1387,
-"dan4/tan2",
-"crossball; bullet; shot; shell; ball; impeach; to pluck a string; to play (a stringed musical instrument with fingers); to snap"
-],
-[
-"核弹",
-4279,
-"he2 dan4",
-"nuclear warhead"
-],
-[
-"中弹",
-6358,
-"zhong4 dan4",
-"hit by a bullet; shot"
-],
-[
-"弹药",
-6415,
-"dan4 yao4",
-"ammunition"
-],
-[
-"弹壳",
-7784,
-"dan4 ke2",
-"ammunition case"
-],
-[
-"原子弹",
-7954,
-"yuan2 zi3 dan4",
-"atom bomb"
-],
-[
-"手榴弹",
-8045,
-"shou3 liu2 dan4",
-"hand grenade; shot put (athletics event)"
-],
-[
-"弹道",
-8273,
-"dan4 dao4",
-"trajectory (of projectile); ballistic"
-],
-[
-"炮弹",
-8870,
-"pao4 dan4",
-"artillery shell"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 335 570 Q 360 643 384 664 Q 408 688 386 703 Q 368 716 342 734 Q 324 747 280 723 Q 234 707 169 698 Q 157 698 159 692 Q 160 686 173 679 Q 186 672 242 680 Q 303 692 310 683 Q 317 676 307 643 Q 297 612 286 576 C 277 547 325 542 335 570 Z",
 "M 205 518 Q 212 518 221 520 Q 258 530 343 543 Q 353 544 353 553 Q 353 560 335 570 L 286 576 Q 282 576 280 574 Q 234 558 197 548 C 168 540 175 517 205 518 Z",

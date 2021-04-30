@@ -13,44 +13,7 @@
 "short; low"
 ]
 ],
-"extraWords": [
-[
-"矮子",
-9064,
-"ai3 zi5",
-"short person; dwarf"
-],
-[
-"矮小",
-17846,
-"ai3 xiao3",
-"short and small; low and small; undersized"
-],
-[
-"矮胖",
-24268,
-"ai3 pang4",
-"short and stout; dumpy; roly-poly"
-],
-[
-"白矮星",
-46768,
-"bai2 ai3 xing1",
-"white dwarf"
-],
-[
-"矮个儿",
-50770,
-"ai3 ge4 r5",
-"a person of short stature; a short person"
-],
-[
-"低矮",
-59055,
-"di1 ai3",
-"short; low"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 228 534 Q 231 540 236 545 Q 276 596 319 672 Q 337 708 354 726 Q 361 736 357 750 Q 351 763 322 783 Q 294 799 276 798 Q 257 795 267 774 Q 288 738 216 596 Q 182 533 133 463 Q 123 453 122 446 Q 119 434 133 438 Q 157 445 210 511 L 228 534 Z",
 "M 291 505 Q 298 509 411 545 Q 435 552 438 557 Q 445 566 440 573 Q 433 583 403 587 Q 373 588 346 574 Q 321 562 291 552 Q 260 542 228 534 C 199 527 181 520 210 511 Q 228 505 252 501 C 272 497 272 497 291 505 Z",

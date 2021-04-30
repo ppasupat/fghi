@@ -19,68 +19,7 @@
 "make purchases for an organization; go shopping"
 ]
 ],
-"extraWords": [
-[
-"购买",
-5002,
-"gou4 mai3",
-"purchase"
-],
-[
-"购",
-7919,
-"gou4",
-"to buy; to purchase"
-],
-[
-"收购",
-8423,
-"shou1 gou4",
-"to purchase (from various places); to acquire (a company)"
-],
-[
-"订购",
-11144,
-"ding4 gou4",
-"to order; to subscribe; subscriber"
-],
-[
-"并购",
-17582,
-"bing4 gou4",
-"merger and acquisition (M and A); acquisition; to take over"
-],
-[
-"邮购",
-21269,
-"you2 gou4",
-"mail order; to purchase by mail"
-],
-[
-"抢购",
-26150,
-"qiang3 gou4",
-"panic buying; rushing to buy"
-],
-[
-"定购",
-30190,
-"ding4 gou4",
-"to order goods; to place an order"
-],
-[
-"购置",
-33705,
-"gou4 zhi4",
-"to purchase"
-],
-[
-"采购员",
-37922,
-"cai3 gou4 yuan2",
-"buyer; purchasing agent"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 220 707 Q 201 723 179 729 Q 170 730 165 723 Q 162 719 169 708 Q 212 575 171 390 Q 158 363 164 337 Q 171 307 182 295 Q 192 283 201 296 Q 225 326 226 438 Q 226 631 233 680 C 235 696 235 696 220 707 Z",
 "M 370 357 Q 363 335 376 313 Q 389 285 398 286 Q 411 287 427 319 Q 442 344 441 363 Q 429 457 432 605 Q 432 648 456 684 Q 466 699 458 708 Q 433 730 390 748 Q 375 754 354 746 Q 306 724 220 707 C 191 701 204 672 233 680 Q 350 713 368 703 Q 380 678 383 607 Q 383 397 370 357 Z",

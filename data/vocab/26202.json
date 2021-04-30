@@ -22,63 +22,69 @@
 "extraWords": [
 [
 "今晚",
-261,
+422.64,
 "jin1 wan3",
 "tonight"
 ],
 [
 "晚",
-428,
+237.58,
 "wan3",
 "evening; night; late"
 ],
 [
 "昨晚",
-607,
+161.98,
 "zuo2 wan3",
 "yesterday evening; last night"
 ],
 [
 "晚安",
-823,
+113.16,
 "wan3 an1",
 "Good night!; Good evening!"
 ],
 [
 "晚餐",
-1207,
+71.78,
 "wan3 can1",
-"evening meal; dinner"
-],
-[
-"晚饭",
-1669,
-"wan3 fan4",
-"evening meal; dinner; supper"
+"evening meal; dinner; CL:份[fen4],頓|顿[dun4],次[ci4]"
 ],
 [
 "夜晚",
-2062,
+36.28,
 "ye4 wan3",
-"night"
+"night; CL:個|个[ge4]"
 ],
 [
-"晚点",
-3207,
-"wan3 dian3",
-"late; delayed; a little later; behind schedule"
+"明晚",
+19.76,
+"ming2 wan3",
+"tomorrow evening"
 ],
 [
-"晚会",
-3278,
-"wan3 hui4",
-"evening party"
+"晚宴",
+12.4,
+"wan3 yan4",
+"banquet; dinner party; soiree"
 ],
 [
-"当晚",
-4391,
-"dang4 wan3",
-"that evening; the same evening"
+"早晚",
+11.37,
+"zao3 wan3",
+"morning and evening; sooner or later"
+],
+[
+"晚期",
+9.24,
+"wan3 qi1",
+"later period; end stage; terminal"
+],
+[
+"晚年",
+5.77,
+"wan3 nian2",
+"one's later years"
 ]
 ],
 "strokes": [

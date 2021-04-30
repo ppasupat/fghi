@@ -25,68 +25,7 @@
 "diameter"
 ]
 ],
-"extraWords": [
-[
-"口径",
-4800,
-"kou3 jing4",
-"caliber; diameter of opening"
-],
-[
-"捷径",
-9085,
-"jie2 jing4",
-"a shortcut"
-],
-[
-"半径",
-11640,
-"ban4 jing4",
-"radius"
-],
-[
-"行径",
-11691,
-"xing2 jing4",
-"bad act; misdeed"
-],
-[
-"径直",
-11960,
-"jing4 zhi2",
-"directly"
-],
-[
-"路径",
-13569,
-"lu4 jing4",
-"path; route (also in computer networking)"
-],
-[
-"小径",
-20140,
-"xiao3 jing4",
-"alley"
-],
-[
-"径",
-24628,
-"jing4",
-"path"
-],
-[
-"门径",
-41822,
-"men2 jing4",
-"access"
-],
-[
-"径自",
-43058,
-"jing4 zi4",
-"without leave; without consulting anyone"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 316 790 Q 329 751 241 645 Q 201 596 146 543 Q 136 536 133 530 Q 129 520 141 521 Q 192 521 338 684 Q 357 714 385 732 Q 395 739 392 753 Q 389 765 367 789 Q 345 808 328 811 Q 312 811 316 790 Z",
 "M 257 370 Q 386 526 387 534 Q 386 537 386 538 Q 383 551 358 577 Q 333 598 315 599 Q 296 599 302 577 Q 311 550 292 510 Q 213 372 50 214 Q 38 204 36 199 Q 32 189 46 189 Q 94 195 231 342 L 257 370 Z",

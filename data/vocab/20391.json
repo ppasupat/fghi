@@ -13,68 +13,7 @@
 "side; profile; flank; face in profile"
 ]
 ],
-"extraWords": [
-[
-"侧",
-3310,
-"ce4/ze4/zhai1",
-"the side; to incline towards; to lean; inclined; lateral; side; lean on one side"
-],
-[
-"左侧",
-10706,
-"zuo3 ce4",
-"left side"
-],
-[
-"右侧",
-10928,
-"you4 ce4",
-"right side"
-],
-[
-"两侧",
-16911,
-"liang3 ce4",
-"two sides; both sides"
-],
-[
-"外侧",
-27296,
-"wai4 ce4",
-"outer side"
-],
-[
-"西侧",
-28327,
-"xi1 ce4",
-"west side; west face"
-],
-[
-"北侧",
-35347,
-"bei3 ce4",
-"north side; north face"
-],
-[
-"南侧",
-38357,
-"nan2 ce4",
-"south side; south face"
-],
-[
-"侧耳",
-42251,
-"ce4 er3",
-"to bend an ear (to); to listen"
-],
-[
-"侧重",
-42252,
-"ce4 zhong4",
-"place extra emphasis on"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 229 536 Q 266 594 306 667 Q 331 719 354 746 Q 364 758 358 772 Q 352 785 322 807 Q 292 825 273 823 Q 254 820 263 797 Q 279 764 269 735 Q 235 638 180 544 Q 128 456 53 357 Q 43 345 41 339 Q 38 326 53 330 Q 92 340 188 478 Q 195 490 206 502 L 229 536 Z",
 "M 206 502 Q 230 441 231 386 Q 231 239 202 127 Q 192 82 226 31 Q 227 31 229 28 Q 247 12 259 39 Q 274 79 273 126 Q 273 388 281 448 Q 288 475 279 486 Q 237 531 229 536 C 207 556 196 530 206 502 Z",

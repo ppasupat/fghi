@@ -43,68 +43,7 @@
 "community"
 ]
 ],
-"extraWords": [
-[
-"区",
-957,
-"ou1/qu1",
-"surname Ou; area; region; district; small; distinguish"
-],
-[
-"市区",
-5602,
-"shi4 qu1",
-"urban district; downtown; city center"
-],
-[
-"特区",
-7535,
-"te4 qu1",
-"Special administrative region; abbr. for 特别行政区"
-],
-[
-"东区",
-8887,
-"Dong1 qu1",
-"east district of city; east zone; Tung east district of a Taiwanese city"
-],
-[
-"教区",
-9122,
-"jiao4 qu1",
-"parish"
-],
-[
-"西区",
-10456,
-"Xi1 qu1",
-"west district of city; west zone; Hsi west district of a Taiwanese city"
-],
-[
-"贫民区",
-11021,
-"pin2 min2 qu1",
-"slum area; ghetto"
-],
-[
-"小区",
-11808,
-"xiao3 qu1",
-"neighborhood; district"
-],
-[
-"辖区",
-12724,
-"xia2 qu1",
-"administrative region"
-],
-[
-"禁区",
-13251,
-"jin4 qu1",
-"restricted area; forbidden region"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 309 675 Q 345 656 428 666 Q 551 687 681 707 Q 744 720 753 728 Q 763 737 759 746 Q 752 759 719 770 Q 685 777 581 746 Q 428 713 310 704 C 280 702 281 687 309 675 Z",
 "M 619 373 Q 653 425 687 501 Q 700 529 719 557 Q 728 567 722 578 Q 716 590 684 609 Q 662 622 652 621 Q 637 618 638 602 Q 644 512 575 405 L 549 366 Q 480 282 352 187 Q 345 180 351 176 Q 358 173 371 177 Q 441 204 502 249 Q 551 283 587 329 L 619 373 Z",

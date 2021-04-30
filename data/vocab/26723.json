@@ -31,38 +31,7 @@
 "grade; quality; class; level"
 ]
 ],
-"extraWords": [
-[
-"档",
-3211,
-"dang4",
-"official records; grade (of goods); file; records; shelves; cross-piece; (classifier for cross-pieces)"
-],
-[
-"文档",
-11255,
-"wen2 dang4",
-"(computer) file"
-],
-[
-"归档",
-14694,
-"gui1 dang4",
-"to file away; to place on file"
-],
-[
-"存档",
-17568,
-"cun2 dang4",
-"to file; to save a file (computer)"
-],
-[
-"档案馆",
-21470,
-"dang4 an4 guan3",
-"archive library"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 339 534 Q 355 540 375 544 Q 411 554 416 559 Q 425 568 420 576 Q 413 588 382 594 Q 360 598 340 591 L 296 575 Q 202 545 128 534 Q 91 527 118 511 Q 157 490 230 507 Q 252 513 278 519 L 339 534 Z",
 "M 336 422 Q 337 474 339 534 L 340 591 Q 340 690 362 764 Q 377 789 351 807 Q 335 819 306 837 Q 282 855 261 839 Q 257 835 262 818 Q 295 769 295 720 Q 295 653 296 575 L 292 428 Q 285 221 275 175 Q 253 73 265 43 Q 269 30 275 14 Q 282 -4 290 -7 Q 296 -14 304 -5 Q 331 11 332 77 Q 331 117 336 394 L 336 422 Z",

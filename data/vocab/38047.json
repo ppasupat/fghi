@@ -13,68 +13,7 @@
 "minute; (measure word for time)"
 ]
 ],
-"extraWords": [
-[
-"闹钟",
-8921,
-"nao4 zhong1",
-"alarm clock"
-],
-[
-"一见钟情",
-9918,
-"yi1 jian4 zhong1 qing2",
-"love at first sight (idiom)"
-],
-[
-"时钟",
-11464,
-"shi2 zhong1",
-"clock"
-],
-[
-"警钟",
-17880,
-"jing3 zhong1",
-"alarm bell"
-],
-[
-"情有独钟",
-21074,
-"qing2 you3 du2 zhong1",
-"\"to have a feeling for sth (affection, sympathy, passion etc)\""
-],
-[
-"丧钟",
-38122,
-"sang1 zhong1",
-"knell"
-],
-[
-"生物钟",
-39235,
-"sheng1 wu4 zhong1",
-"biological clock"
-],
-[
-"挂钟",
-43199,
-"gua4 zhong1",
-"wall clock"
-],
-[
-"原子钟",
-48667,
-"yuan2 zi3 zhong1",
-"atomic clock"
-],
-[
-"定时钟",
-78398,
-"ding4 shi2 zhong1",
-"timer; timing clock; alarm clock"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 298 639 Q 355 733 377 752 Q 387 762 382 776 Q 378 789 350 812 Q 325 830 305 830 Q 286 829 294 807 Q 309 773 295 746 Q 229 593 59 394 Q 49 384 47 378 Q 43 368 57 370 Q 106 376 268 594 Q 272 603 279 610 L 298 639 Z",
 "M 279 610 Q 318 600 359 614 Q 401 627 444 641 Q 463 647 466 650 Q 473 659 468 666 Q 461 676 433 679 Q 408 680 337 650 Q 316 646 298 639 C 270 629 250 617 279 610 Z",

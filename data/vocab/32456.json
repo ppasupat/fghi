@@ -43,68 +43,7 @@
 "stop; cease; terminate (legal)"
 ]
 ],
-"extraWords": [
-[
-"最终",
-1073,
-"zui4 zhong1",
-"final; ultimate"
-],
-[
-"终",
-4029,
-"zhong1",
-"end; finish"
-],
-[
-"终结",
-4678,
-"zhong1 jie2",
-"end"
-],
-[
-"终极",
-5717,
-"zhong1 ji2",
-"last rites (Christian ceremony)"
-],
-[
-"终结者",
-10015,
-"Zhong1 jie2 zhe3",
-"The Terminator"
-],
-[
-"临终",
-10027,
-"lin2 zhong1",
-"approaching one's end; with one foot in the grave"
-],
-[
-"告终",
-13306,
-"gao4 zhong1",
-"end; reach an end"
-],
-[
-"终端",
-13902,
-"zhong1 duan1",
-"end; terminal"
-],
-[
-"终日",
-14486,
-"zhong1 ri4",
-"all day long"
-],
-[
-"自始至终",
-15308,
-"zi4 shi3 zhi4 zhong1",
-"from start to finish"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 311 482 Q 310 483 306 482 Q 257 483 218 485 Q 181 485 201 507 Q 274 630 344 721 Q 357 737 356 745 Q 353 760 315 791 Q 299 804 280 801 Q 270 798 275 783 Q 293 741 199 571 Q 180 532 136 495 Q 117 482 119 470 Q 123 451 136 433 Q 146 423 159 429 Q 195 447 293 458 C 323 462 341 482 311 482 Z",
 "M 293 458 Q 194 332 176 322 Q 163 313 165 299 Q 166 286 192 266 Q 202 254 217 266 Q 280 311 386 344 Q 405 348 407 357 Q 410 367 390 364 Q 332 354 262 335 Q 234 325 252 348 Q 291 400 380 504 Q 408 541 433 561 Q 446 571 439 581 Q 429 600 397 619 Q 381 628 372 625 Q 362 622 364 607 Q 367 571 311 482 L 293 458 Z",

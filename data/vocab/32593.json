@@ -37,68 +37,7 @@
 "network"
 ]
 ],
-"extraWords": [
-[
-"网上",
-2473,
-"wang3 shang4",
-"on-line"
-],
-[
-"网",
-2809,
-"wang3",
-"net; network"
-],
-[
-"网页",
-9777,
-"wang3 ye4",
-"web page"
-],
-[
-"铁丝网",
-13473,
-"tie3 si1 wang3",
-"wire netting"
-],
-[
-"视网膜",
-14623,
-"shi4 wang3 mo2",
-"retina"
-],
-[
-"因特网",
-15381,
-"yin1 te4 wang3",
-"Internet"
-],
-[
-"蜘蛛网",
-16197,
-"zhi1 zhu1 wang3",
-"cobweb; spider web"
-],
-[
-"一网打尽",
-16559,
-"yi1 wang3 da3 jin4",
-"to catch everything in one net (idiom); to eliminate at one stroke; to solve the problem at one fell swoop"
-],
-[
-"电网",
-16667,
-"dian4 wang3",
-"electrical network"
-],
-[
-"网路",
-18075,
-"wang3 lu4",
-"network"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 266 678 Q 241 699 212 708 Q 202 711 194 701 Q 190 694 199 682 Q 226 616 226 544 Q 232 259 188 121 Q 178 93 184 70 Q 194 33 207 17 Q 220 2 230 18 Q 267 57 268 275 Q 268 533 280 634 C 283 664 283 665 266 678 Z",
 "M 280 634 Q 287 634 295 635 Q 476 672 695 696 Q 722 700 734 685 Q 749 676 755 609 Q 773 383 762 126 Q 762 87 748 77 Q 729 64 635 83 Q 616 86 618 75 Q 619 68 635 61 Q 719 13 764 -26 Q 788 -47 801 -43 Q 814 -39 826 -8 Q 842 43 838 115 Q 805 613 829 663 Q 842 687 831 700 Q 819 716 768 742 Q 746 752 725 748 Q 563 700 266 678 C 236 676 250 629 280 634 Z",

@@ -55,68 +55,7 @@
 "athlete; contestant; player"
 ]
 ],
-"extraWords": [
-[
-"选",
-504,
-"xuan3",
-"to choose; to pick; to select; to elect"
-],
-[
-"人选",
-3477,
-"ren2 xuan3",
-"person selected (for a job etc)"
-],
-[
-"挑选",
-3881,
-"tiao1 xuan3",
-"choose; select"
-],
-[
-"候选人",
-4583,
-"hou4 xuan3 ren2",
-"candidate"
-],
-[
-"选票",
-5116,
-"xuan3 piao4",
-"a vote; ballot"
-],
-[
-"选出",
-6539,
-"xuan3 chu1",
-"to pick out; to select; to elect"
-],
-[
-"选民",
-8476,
-"xuan3 min2",
-"voter; chosen people"
-],
-[
-"入选",
-10173,
-"ru4 xuan3",
-"to be chosen; to be elected as"
-],
-[
-"大选",
-11519,
-"da4 xuan3",
-"general election"
-],
-[
-"选项",
-11773,
-"xuan3 xiang4",
-"options (as in computer software settings)"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 489 587 Q 504 614 518 634 Q 525 646 513 657 Q 473 682 453 678 Q 444 677 447 663 Q 462 603 405 524 Q 392 505 384 494 Q 378 481 391 486 Q 427 492 479 570 L 489 587 Z",
 "M 637 575 Q 677 588 723 598 Q 756 608 760 613 Q 769 620 764 629 Q 757 639 728 645 Q 697 649 641 625 L 589 608 Q 546 596 495 589 Q 491 589 489 587 C 460 579 458 579 479 570 Q 525 549 590 563 L 637 575 Z",

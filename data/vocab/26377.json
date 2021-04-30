@@ -81,64 +81,286 @@
 ],
 "extraWords": [
 [
-"还有",
-122,
-"hai2 you3",
-"furthermore; in addition; still; also"
-],
-[
 "有人",
-365,
+294.43,
 "you3 ren2",
 "someone; people; anyone; there is someone there; occupied (as in restroom)"
 ],
 [
+"具有",
+292.32,
+"ju4 you3",
+"to have; to possess"
+],
+[
 "有些",
-387,
+284.59,
 "you3 xie1",
 "some; somewhat"
 ],
 [
-"有点",
-564,
-"you3 dian3",
-"a little"
-],
-[
-"有关",
-761,
-"you3 guan1",
-"to have sth to do with; to relate to; related to; to concern; concerning"
-],
-[
-"有意思",
-997,
-"you3 yi4 si5",
-"interesting; meaningful; enjoyable; fun"
-],
-[
-"有时",
-1132,
-"you3 shi2",
-"sometimes; now and then"
-],
-[
-"有时候",
-1188,
-"you3 shi2 hou5",
-"sometimes"
+"有效",
+180.5,
+"you3 xiao4",
+"effective; in effect; valid"
 ],
 [
 "有的",
-1865,
+171.34,
 "you3 de5",
 "(there are) some (who are...); some (exist)"
 ],
 [
+"有限公司",
+93.76,
+"you3 xian4 gong1 si1",
+"limited company; corporation"
+],
+[
 "有所",
-1883,
+91.59,
 "you3 suo3",
 "somewhat; to some extent"
+],
+[
+"有意思",
+90.29,
+"you3 yi4 si5",
+"interesting; meaningful; enjoyable; fun"
+],
+[
+"持有",
+54.71,
+"chi2 you3",
+"to hold (passport, views etc)"
+],
+[
+"有限",
+53.76,
+"you3 xian4",
+"limited; finite"
+],
+[
+"共有",
+52.32,
+"gong4 you3",
+"to have altogether; in all"
+],
+[
+"有望",
+37.71,
+"you3 wang4",
+"hopeful; promising"
+],
+[
+"有力",
+35.06,
+"you3 li4",
+"powerful; forceful; vigorous"
+],
+[
+"含有",
+33.94,
+"han2 you3",
+"to contain; including"
+],
+[
+"原有",
+28.41,
+"yuan2 you3",
+"original; former"
+],
+[
+"股份有限公司",
+26.88,
+"gu3 fen4 you3 xian4 gong1 si1",
+"joint-stock limited company; corporation"
+],
+[
+"有空",
+24.83,
+"you3 kong4",
+"to have time (to do sth)"
+],
+[
+"富有",
+23.29,
+"fu4 you3",
+"rich; full of"
+],
+[
+"享有",
+19.98,
+"xiang3 you3",
+"to enjoy (rights, privileges etc)"
+],
+[
+"有意",
+19.25,
+"you3 yi4",
+"to intend; intentionally; interested in"
+],
+[
+"有用",
+18.33,
+"you3 yong4",
+"useful"
+],
+[
+"有事",
+18.04,
+"you3 shi4",
+"to be occupied with sth; to have sth on one's mind; there is something the matter"
+],
+[
+"既有",
+17.96,
+"ji4 you3",
+"existing"
+],
+[
+"有能力",
+17.87,
+"you3 neng2 li4",
+"able"
+],
+[
+"有待",
+17.38,
+"you3 dai4",
+"not yet (done); pending"
+],
+[
+"有害",
+15.32,
+"you3 hai4",
+"destructive; harmful; damaging"
+],
+[
+"有益",
+13.98,
+"you3 yi4",
+"useful; beneficial; profitable"
+],
+[
+"特有",
+13.96,
+"te4 you3",
+"specific (to); characteristic (of); distinctive"
+],
+[
+"有期徒刑",
+13.13,
+"you3 qi1 tu2 xing2",
+"limited term of imprisonment (i.e. anything less than life imprisonment)"
+],
+[
+"前所未有",
+12.08,
+"qian2 suo3 wei4 you3",
+"unprecedented"
+],
+[
+"公有制",
+11.7,
+"gong1 you3 zhi4",
+"public ownership"
+],
+[
+"大有",
+11.57,
+"da4 you3",
+"there is much; (literary) abundance"
+],
+[
+"有道理",
+11.51,
+"you3 dao4 li5",
+"to make sense; reasonable"
+],
+[
+"持有人",
+9.84,
+"chi2 you3 ren2",
+"holder"
+],
+[
+"有的是",
+9.79,
+"you3 de5 shi4",
+"have plenty of; there's no lack of"
+],
+[
+"有毒",
+9.1,
+"you3 du2",
+"poisonous"
+],
+[
+"有希望",
+8.98,
+"you3 xi1 wang4",
+"hopeful; promising; prospective"
+],
+[
+"所有制",
+8.49,
+"suo3 you3 zhi4",
+"ownership of the means of production (in Marxism); system of ownership"
+],
+[
+"少有",
+8.07,
+"shao3 you3",
+"rare; infrequent"
+],
+[
+"有心",
+7.84,
+"you3 xin1",
+"to have a mind to; to intend to; deliberately; considerate"
+],
+[
+"有理",
+6.49,
+"you3 li3",
+"reasonable; justified; right; (math.) rational"
+],
+[
+"有如",
+6.47,
+"you3 ru2",
+"to be like sth; similar to; alike"
+],
+[
+"有幸",
+6.39,
+"you3 xing4",
+"fortunately"
+],
+[
+"有所不同",
+6.09,
+"you3 suo3 bu4 tong2",
+"to differ to some extent (idiom)"
+],
+[
+"有效期",
+5.89,
+"you3 xiao4 qi1",
+"period of validity; sell-by date"
+],
+[
+"所有者",
+5.44,
+"suo3 you3 zhe3",
+"proprietor; owner"
+],
+[
+"有效性",
+5.43,
+"you3 xiao4 xing4",
+"validity"
 ]
 ],
 "strokes": [

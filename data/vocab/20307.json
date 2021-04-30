@@ -157,68 +157,7 @@
 "liquid"
 ]
 ],
-"extraWords": [
-[
-"体",
-2133,
-"ti1/ti3",
-"body; form; style; system"
-],
-[
-"体内",
-2891,
-"ti3 nei4",
-"within the body; in vivo (vs in vitro); internal to"
-],
-[
-"裸体",
-3519,
-"luo3 ti3",
-"naked"
-],
-[
-"全体",
-3799,
-"quan2 ti3",
-"all; entire"
-],
-[
-"人体",
-4135,
-"ren2 ti3",
-"human body"
-],
-[
-"体重",
-4292,
-"ti3 zhong4",
-"body weight"
-],
-[
-"肉体",
-5467,
-"rou4 ti3",
-"physical body"
-],
-[
-"体力",
-5816,
-"ti3 li4",
-"physical strength; physical power"
-],
-[
-"气体",
-5839,
-"qi4 ti3",
-"gas (i.e. gaseous substance)"
-],
-[
-"物体",
-5898,
-"wu4 ti3",
-"object; body; substance"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 228 516 Q 274 573 324 650 Q 349 696 373 718 Q 383 728 379 743 Q 375 756 346 780 Q 318 799 299 799 Q 280 798 288 775 Q 301 744 290 718 Q 253 630 198 550 Q 144 472 71 387 Q 61 377 58 371 Q 55 359 69 362 Q 102 366 201 483 L 228 516 Z",
 "M 201 483 Q 222 449 224 355 Q 223 346 223 336 Q 223 230 196 123 Q 184 72 218 33 Q 219 30 222 28 Q 238 12 250 38 Q 265 78 264 123 Q 264 378 272 435 Q 279 462 270 472 Q 233 512 228 516 C 207 537 188 510 201 483 Z",

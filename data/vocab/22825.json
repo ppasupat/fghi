@@ -118,63 +118,261 @@
 "extraWords": [
 [
 "天",
-87,
+1510.14,
 "tian1",
 "day; sky; heaven"
 ],
 [
 "每天",
-767,
+217.62,
 "mei3 tian1",
 "every day; everyday"
 ],
 [
 "那天",
-777,
+120.22,
 "na4 tian1",
 "that day; the other day"
 ],
 [
+"天天",
+65.02,
+"tian1 tian1",
+"every day"
+],
+[
 "老天",
-1374,
+61.5,
 "lao3 tian1",
 "God; Heavens"
 ],
 [
+"冬天",
+61.05,
+"dong1 tian1",
+"winter; CL:個|个[ge4]"
+],
+[
+"天下",
+59.51,
+"tian1 xia4",
+"land under heaven; the whole world; the whole of China; realm; rule"
+],
+[
+"天津",
+58.39,
+"Tian1 jin1",
+"Tianjin, a municipality in northeast China, abbr. 津"
+],
+[
 "天使",
-1570,
+51.66,
 "tian1 shi3",
 "angel"
 ],
 [
-"整天",
-2222,
-"zheng3 tian1",
-"all day long; all"
+"第二天",
+40.62,
+"di4 er4 tian1",
+"next day; the morrow"
 ],
 [
 "夏天",
-2295,
+34.46,
 "xia4 tian1",
-"summer"
+"summer; CL:個|个[ge4]"
 ],
 [
-"谢天谢地",
-2432,
-"xie4 tian1 xie4 di4",
-"Thank heavens!; Thank goodness that's worked out so well!"
+"整天",
+33.09,
+"zheng3 tian1",
+"all day long; whole day"
 ],
 [
 "白天",
-3605,
+32.66,
 "bai2 tian1",
-"daytime; during the day; day"
+"daytime; during the day; day; CL:個|个[ge4]"
 ],
 [
-"老天爷",
-4043,
-"Lao3 tian1 ye2",
-"God; Heavens"
+"天然",
+30.93,
+"tian1 ran2",
+"natural"
+],
+[
+"半天",
+26.21,
+"ban4 tian1",
+"half of the day; a long time; quite a while; midair; CL:個|个[ge4]"
+],
+[
+"春天",
+25.82,
+"chun1 tian1",
+"spring (season); CL:個|个[ge4]"
+],
+[
+"天秤座",
+25.02,
+"Tian1 cheng4 zuo4",
+"Libra (constellation and sign of the zodiac)"
+],
+[
+"天地",
+20.36,
+"tian1 di4",
+"heaven and earth; world; scope; field of activity"
+],
+[
+"前天",
+18.84,
+"qian2 tian1",
+"the day before yesterday"
+],
+[
+"星期天",
+13.95,
+"Xing1 qi1 tian1",
+"Sunday; CL:個|个[ge4]"
+],
+[
+"天上",
+13.27,
+"tian1 shang4",
+"celestial; heavenly"
+],
+[
+"秋天",
+12.16,
+"qiu1 tian1",
+"autumn; CL:個|个[ge4]"
+],
+[
+"天涯",
+11.5,
+"tian1 ya2",
+"the other end of the world; a faraway place"
+],
+[
+"上天",
+10.63,
+"shang4 tian1",
+"Heaven; Providence; God; the day before; the sky above; to fly to the sky; to take off and fly into space; to die; to pass away"
+],
+[
+"天津市",
+10.17,
+"Tian1 jin1 shi4",
+"Tianjin, a municipality in northeast China, abbr. 津"
+],
+[
+"天朝",
+8.78,
+"Tian1 chao2",
+"Celestial Empire, tributary title conferred on imperial China; Taiping Heavenly Kingdom"
+],
+[
+"天王",
+8.71,
+"tian1 wang2",
+"emperor; god; Hong Xiuquan's self-proclaimed title; see also 洪秀全[Hong2 Xiu4 quan2]"
+],
+[
+"天亮",
+7.37,
+"tian1 liang4",
+"dawn; daybreak"
+],
+[
+"天花板",
+6.98,
+"tian1 hua1 ban3",
+"ceiling"
+],
+[
+"天分",
+6.95,
+"tian1 fen4",
+"natural gift; talent"
+],
+[
+"天主教",
+6.89,
+"Tian1 zhu3 jiao4",
+"Catholicism"
+],
+[
+"先天",
+6.86,
+"xian1 tian1",
+"inborn; innate; natural"
+],
+[
+"改天",
+6.41,
+"gai3 tian1",
+"another day; some other time; to find another day (for appointment etc); to take a rain check"
+],
+[
+"天河",
+6.3,
+"Tian1 he2",
+"Milky Way; Tianhe district of Guangzhou city 廣州市|广州市[Guang3 zhou1 shi4], Guangdong"
+],
+[
+"露天",
+6.25,
+"lu4 tian1",
+"outdoors; al fresco; in the open"
+],
+[
+"天子",
+6.09,
+"tian1 zi3",
+"the (rightful) emperor; \"Son of Heaven\" (traditional English translation)"
+],
+[
+"晴天",
+5.99,
+"qing2 tian1",
+"clear sky; sunny day"
+],
+[
+"先天性",
+5.86,
+"xian1 tian1 xing4",
+"congenital; intrinsic; innateness"
+],
+[
+"天山",
+5.66,
+"Tian1 shan1",
+"Tianshan mountain range between XinJiang and Mongolia and Kyrgyzstan"
+],
+[
+"天性",
+5.4,
+"tian1 xing4",
+"nature; innate tendency"
+],
+[
+"天大",
+5.33,
+"tian1 da4",
+"gargantuan; as big as the sky; enormous"
+],
+[
+"天平",
+5.09,
+"tian1 ping2",
+"scales (to weigh things)"
+],
+[
+"天主教徒",
+5.01,
+"Tian1 zhu3 jiao4 tu2",
+"Catholic; follower of Catholicism"
 ]
 ],
 "strokes": [

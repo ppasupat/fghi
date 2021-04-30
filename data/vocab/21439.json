@@ -13,68 +13,7 @@
 "county; district"
 ]
 ],
-"extraWords": [
-[
-"县政府",
-21366,
-"xian4 zheng4 fu3",
-"county administration; county regional government"
-],
-[
-"叶县",
-38402,
-"Ye4 xian4",
-"Ye county in Henan"
-],
-[
-"县长",
-40255,
-"xian4 zhang3",
-"county's head commisioner"
-],
-[
-"林县",
-55239,
-"Lin2 xian4",
-"Lin county in Henan"
-],
-[
-"静冈县",
-57937,
-"Jing4 gang1 xian4",
-"\"Shizuoka prefecture southwest of Tōkyō, Japan\""
-],
-[
-"万县",
-58341,
-"wan4 xian4",
-"Wanxian County in Sichuan Province"
-],
-[
-"冲绳县",
-59519,
-"Chong1 sheng2 xian4",
-"\"Okinawa prefecture, Japan\""
-],
-[
-"华县",
-59877,
-"Hua2 xian4",
-"Hua county in Shaanxi"
-],
-[
-"县城",
-60141,
-"xian4 cheng2",
-"county seat; county town"
-],
-[
-"沙县",
-64342,
-"Sha1 xian4",
-"Sha county in Fujian"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 397 734 Q 376 752 357 759 Q 345 762 336 758 Q 327 754 331 742 Q 350 703 354 685 Q 357 655 370 295 C 371 265 414 270 414 300 Q 413 364 412 423 L 411 449 Q 410 506 410 556 L 410 581 Q 410 608 409 698 C 409 725 409 725 397 734 Z",
 "M 676 331 Q 680 670 708 704 Q 729 729 665 769 Q 656 775 646 781 Q 630 793 565 767 Q 468 742 397 734 C 367 730 380 690 409 698 Q 410 699 418 701 Q 542 731 593 735 Q 612 739 619 732 Q 631 713 621 324 C 620 294 676 301 676 331 Z",

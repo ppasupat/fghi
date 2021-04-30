@@ -19,62 +19,7 @@
 "feel puzzled; bewildered"
 ]
 ],
-"extraWords": [
-[
-"郁闷",
-4621,
-"yu4 men4",
-"gloomy; depressed"
-],
-[
-"闷",
-5141,
-"men1/men4",
-"stuffy; shut indoors; to smother; to cover tightly; melancholy; depressing"
-],
-[
-"闷闷不乐",
-12733,
-"men4 men4 bu4 le4",
-"depressed; sulky; moody; unhappy"
-],
-[
-"纳闷",
-15452,
-"na4 men4",
-"puzzled; bewildered"
-],
-[
-"苦闷",
-23450,
-"ku3 men4",
-"depressed; gloomy"
-],
-[
-"解闷",
-27019,
-"jie3 men4",
-"to relieve boredom or melancholy; a diversion"
-],
-[
-"闷热",
-27080,
-"men1 re4",
-"sultry; sultriness; hot and stuffy; stifling hot"
-],
-[
-"烦闷",
-31390,
-"fan2 men1",
-"anguish"
-],
-[
-"憋闷",
-81218,
-"bie1 men1",
-"feel oppressed; be depressed; be dejected"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 304 745 Q 361 669 390 665 Q 406 664 414 684 Q 415 699 406 723 Q 396 742 369 752 Q 329 773 311 776 Q 301 777 298 765 Q 297 755 304 745 Z",
 "M 176 688 Q 231 541 186 227 Q 156 104 157 94 Q 157 63 179 37 Q 192 22 202 37 Q 239 76 240 242 Q 240 569 257 653 Q 258 672 242 683 Q 217 704 189 712 Q 179 715 172 706 Q 168 699 176 688 Z",

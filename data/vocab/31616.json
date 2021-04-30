@@ -55,68 +55,7 @@
 "simplify; reduce"
 ]
 ],
-"extraWords": [
-[
-"简",
-4154,
-"jian3",
-"simple"
-],
-[
-"简短",
-7994,
-"jian3 duan3",
-"brief; short-duration"
-],
-[
-"简报",
-8053,
-"jian3 bao4",
-"presentation"
-],
-[
-"简称",
-10729,
-"jian3 cheng1",
-"abbreviation"
-],
-[
-"简洁",
-15003,
-"jian3 jie2",
-"concise; succinct; pithy"
-],
-[
-"简易",
-15744,
-"jian3 yi4",
-"simple; easy"
-],
-[
-"简而言之",
-18724,
-"jian3 er2 yan2 zhi1",
-"in a nutshell; to put it briefly"
-],
-[
-"简介",
-20543,
-"jian3 jie4",
-"summary; brief introduction"
-],
-[
-"简单化",
-22271,
-"jian3 dan1 hua4",
-"simplification; simplify"
-],
-[
-"简约",
-23073,
-"jian3 yue1",
-"sketchy; concise; abbreviated"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 327 709 Q 340 731 354 749 Q 364 761 350 775 Q 313 806 285 803 Q 275 800 276 786 Q 289 708 207 612 Q 195 600 173 572 Q 166 557 180 562 Q 195 563 214 579 Q 277 625 312 684 Q 313 687 315 689 L 327 709 Z",
 "M 315 689 Q 351 673 413 687 Q 446 696 483 704 Q 502 708 504 712 Q 511 719 507 726 Q 500 736 475 741 Q 456 744 380 718 Q 355 712 327 709 C 297 706 287 700 315 689 Z",

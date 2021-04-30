@@ -13,38 +13,7 @@
 "rule; custom"
 ]
 ],
-"extraWords": [
-[
-"循规蹈矩",
-14443,
-"xun2 gui1 dao3 ju3",
-"to follow the compass and go with the set square (idiom); to follow the rules inflexibly; to act according to convention"
-],
-[
-"矩",
-15449,
-"ju3",
-"carpenter's square; a rule; regulation; pattern; to carve"
-],
-[
-"矩阵",
-18058,
-"ju3 zhen4",
-"array; matrix (math.)"
-],
-[
-"矩形",
-39292,
-"ju3 xing2",
-"rectangle"
-],
-[
-"力矩",
-73219,
-"li4 ju3",
-"torque"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 251 555 Q 279 594 301 634 Q 328 685 353 727 Q 363 742 347 757 Q 293 793 268 786 Q 255 782 259 766 Q 281 661 170 519 Q 161 515 124 462 Q 117 444 133 450 Q 166 457 234 533 L 251 555 Z",
 "M 330 526 Q 333 527 338 529 Q 468 566 474 571 Q 481 580 476 588 Q 469 600 438 604 Q 407 608 377 593 Q 349 581 319 571 Q 288 562 251 555 C 222 549 207 545 234 533 Q 235 533 238 531 Q 253 525 281 520 L 330 526 Z",

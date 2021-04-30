@@ -13,68 +13,7 @@
 "biscuit; cracker; cookie"
 ]
 ],
-"extraWords": [
-[
-"饼",
-1713,
-"bing3",
-"round flat cake; cookie; cake; pastry"
-],
-[
-"馅饼",
-3380,
-"xian4 bing3",
-"Chinese meat pie; pasty"
-],
-[
-"薄饼",
-7022,
-"bao2 bing3",
-"thin flat cake; pancake; pizza"
-],
-[
-"肉饼",
-12072,
-"rou4 bing3",
-"meat patty"
-],
-[
-"比萨饼",
-12688,
-"bi3 sa4 bing3",
-"pizza"
-],
-[
-"玉米饼",
-13894,
-"yu4 mi3 bing3",
-"corn cake; Mexican tortilla"
-],
-[
-"烙饼",
-26901,
-"lao4 bing3",
-"pancake; flat bread; griddle cake"
-],
-[
-"大饼",
-40431,
-"da4 bing3",
-"large flat bread"
-],
-[
-"烧饼",
-41155,
-"shao1 bing5",
-"baked seseme seed coated cake"
-],
-[
-"馅儿饼",
-52038,
-"xian4 r5 bing3",
-"erhua variant of ??|馅饼; Chinese meat pie; pasty"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 292 581 Q 325 645 369 743 Q 376 762 383 770 Q 390 776 387 786 Q 375 814 332 821 Q 310 825 299 821 Q 290 817 295 805 Q 328 715 196 506 Q 193 503 191 499 Q 154 442 55 328 Q 48 321 59 321 Q 123 337 232 480 Q 275 552 280 559 L 292 581 Z",
 "M 280 559 Q 301 556 392 577 Q 402 580 405 577 Q 409 574 405 565 Q 377 498 358 467 Q 351 454 350 448 Q 349 438 360 444 Q 372 450 427 513 Q 461 553 494 577 Q 510 587 499 599 Q 486 611 450 628 Q 434 634 421 623 Q 411 619 332 591 Q 314 585 292 581 C 263 575 250 560 280 559 Z",

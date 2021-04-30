@@ -19,68 +19,7 @@
 "currency; money"
 ]
 ],
-"extraWords": [
-[
-"硬币",
-3671,
-"ying4 bi4",
-"a coin"
-],
-[
-"金币",
-8173,
-"jin1 bi4",
-"gold coin"
-],
-[
-"币",
-9313,
-"bi4",
-"money; coins; currency"
-],
-[
-"银币",
-15772,
-"yin2 bi4",
-"silver coinage"
-],
-[
-"纸币",
-18966,
-"zhi3 bi4",
-"bank notes; paper currency"
-],
-[
-"钱币",
-20323,
-"qian2 bi4",
-"money"
-],
-[
-"外币",
-40411,
-"wai4 bi4",
-"foreign currency"
-],
-[
-"铸币",
-41803,
-"zhu4 bi4",
-"coin; to mint (coins)"
-],
-[
-"国际货币基金组织",
-45378,
-"guo2 ji4 huo4 bi4 ji1 jin1 zu3 zhi1",
-"International Monetary Fund; IMF"
-],
-[
-"币值",
-49366,
-"bi4 zhi2",
-"value of a currency"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 503 689 Q 647 731 679 733 Q 719 739 721 741 Q 727 751 715 766 Q 654 823 618 823 Q 609 819 607 808 Q 603 772 396 700 Q 342 682 279 665 Q 272 655 278 652 Q 299 646 437 676 Q 444 677 454 679 L 503 689 Z",
 "M 312 511 Q 293 530 256 528 Q 243 524 249 511 Q 285 441 255 315 Q 233 281 260 230 Q 263 224 269 217 Q 276 204 288 210 Q 318 234 320 348 Q 321 441 325 470 C 328 498 328 498 312 511 Z",

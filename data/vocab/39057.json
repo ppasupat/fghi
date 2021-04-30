@@ -31,68 +31,7 @@
 "video"
 ]
 ],
-"extraWords": [
-[
-"音频",
-11624,
-"yin1 pin2",
-"sound frequency; audio frequency"
-],
-[
-"频",
-13175,
-"pin2",
-"frequency; frequently; repetitious"
-],
-[
-"调频",
-19732,
-"tiao2 pin2",
-"frequency modulation; FM"
-],
-[
-"频频",
-26477,
-"pin2 pin2",
-"repeatedly; again and again"
-],
-[
-"频段",
-29150,
-"pin2 duan4",
-"(radio) band; frequency band"
-],
-[
-"高频",
-31744,
-"gao1 pin2",
-"high frequency"
-],
-[
-"声频",
-35477,
-"sheng1 pin2",
-"audio frequency"
-],
-[
-"频谱",
-52012,
-"pin2 pu3",
-"frequency spectrum; spectrum; spectrogram"
-],
-[
-"甚高频",
-56038,
-"shen4 gao1 pin2",
-"very high frequency (VHF)"
-],
-[
-"频带",
-68576,
-"pin2 dai4",
-"frequency range; bandwidth"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 375 544 Q 378 595 381 642 L 383 671 Q 383 689 398 793 Q 401 803 384 816 Q 353 832 331 835 Q 318 838 310 830 Q 303 823 311 810 Q 329 788 329 770 Q 339 661 338 533 C 338 503 373 514 375 544 Z",
 "M 381 642 L 494 668 Q 515 674 506 685 Q 494 698 470 699 Q 431 702 383 671 C 358 655 352 635 381 642 Z",

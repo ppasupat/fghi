@@ -13,68 +13,7 @@
 "tax"
 ]
 ],
-"extraWords": [
-[
-"税收",
-12284,
-"shui4 shou1",
-"taxation"
-],
-[
-"税务",
-12799,
-"shui4 wu4",
-"taxation services; state revenue service"
-],
-[
-"纳税人",
-12801,
-"na4 shui4 ren2",
-"taxpayer"
-],
-[
-"纳税",
-14135,
-"na4 shui4",
-"to pay taxes"
-],
-[
-"免税",
-15207,
-"mian3 shui4",
-"tax free; duty free (shop)"
-],
-[
-"逃税",
-16705,
-"tao2 shui4",
-"tax evasion"
-],
-[
-"税务局",
-20827,
-"shui4 wu4 ju2",
-"Inland Revenue Department (Hong Kong)"
-],
-[
-"税款",
-21174,
-"shui4 kuan3",
-"tax payments"
-],
-[
-"减税",
-25000,
-"jian3 shui4",
-"tax cut"
-],
-[
-"报税",
-26151,
-"bao4 shui4",
-"to declare dutiable goods (at customs); to make a tax declaration"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 315 676 Q 435 733 445 736 Q 461 737 465 746 Q 466 756 455 766 Q 398 800 362 796 Q 355 792 356 781 Q 357 739 172 635 Q 168 626 174 624 Q 187 624 272 659 Q 278 662 286 664 L 315 676 Z",
 "M 344 493 Q 381 502 423 509 Q 438 512 438 519 Q 439 531 422 538 Q 395 547 345 532 L 303 520 Q 170 487 98 475 Q 88 474 85 466 Q 82 456 96 447 Q 132 425 169 438 Q 238 463 284 477 Q 285 478 287 477 L 344 493 Z",

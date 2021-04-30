@@ -19,68 +19,7 @@
 "jade (Kangxi radical 96)"
 ]
 ],
-"extraWords": [
-[
-"玉米饼",
-13894,
-"yu4 mi3 bing3",
-"corn cake; Mexican tortilla"
-],
-[
-"玉米粉",
-20525,
-"yu4 mi3 fen3",
-"cornflour; corn starch"
-],
-[
-"玉石",
-28201,
-"yu4 shi2",
-"precious stones; jade and stone"
-],
-[
-"宝玉",
-30191,
-"bao3 yu4",
-"precious jade; treasures"
-],
-[
-"金玉良言",
-39726,
-"jin1 yu4 liang2 yan2",
-"gems of wisdom (idiom); priceless advice"
-],
-[
-"软玉",
-41708,
-"ruan3 yu4",
-"\"nephrite; Ca(Mg,Fe)3(SiO3)4\""
-],
-[
-"玉树",
-50589,
-"Yu4 shu4",
-"Yushu Tibetan autonomous prefecture in Qinghai"
-],
-[
-"玉蜀黍",
-50591,
-"yu4 shu3 shu3",
-"corn"
-],
-[
-"金玉",
-51776,
-"jin1 yu4",
-"gold and jade; precious"
-],
-[
-"抛砖引玉",
-54734,
-"pao1 zhuan1 yin3 yu4",
-"\"lit. to throw a brick to attract jade (idiom); fig. I offer a humble remark, please give us your valued opinion (e.g. commonplace remarks as a foreword to a distinguished speech)\""
-]
-],
+"extraWords": [],
 "strokes": [
 "M 522 647 Q 597 660 675 672 Q 736 684 745 692 Q 755 701 751 710 Q 744 725 711 734 Q 675 743 586 714 Q 439 680 317 673 Q 275 669 304 648 Q 347 621 431 633 Q 447 636 466 638 L 522 647 Z",
 "M 537 386 Q 589 396 646 404 Q 701 414 709 421 Q 719 430 715 439 Q 708 452 677 461 Q 644 470 612 458 Q 575 448 538 437 L 484 425 Q 408 413 320 407 Q 280 403 308 383 Q 353 355 412 367 Q 446 373 483 377 L 537 386 Z",

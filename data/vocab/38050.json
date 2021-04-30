@@ -19,68 +19,7 @@
 "steel"
 ]
 ],
-"extraWords": [
-[
-"钢琴",
-3028,
-"gang1 qin2",
-"piano"
-],
-[
-"钢",
-8442,
-"gang1/gang4",
-"steel"
-],
-[
-"钢笔",
-11288,
-"gang1 bi3",
-"fountain pen"
-],
-[
-"钢丝",
-16884,
-"gang1 si1",
-"steel wire; tightrope"
-],
-[
-"钢管",
-17291,
-"gang1 guan3",
-"steel pipe"
-],
-[
-"钢琴家",
-17683,
-"gang1 qin2 jia1",
-"pianist"
-],
-[
-"钢板",
-20322,
-"gang1 ban3",
-"steel plate"
-],
-[
-"不锈钢",
-20954,
-"bu4 xiu4 gang1",
-"stainless steel"
-],
-[
-"钢琴师",
-22353,
-"gang1 qin2 shi1",
-"pianist"
-],
-[
-"走钢丝",
-28352,
-"zou3 gang1 si1",
-"to walk a tightrope; fig. to take a risk"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 292 626 Q 358 737 378 755 Q 388 765 383 779 Q 379 792 350 816 Q 322 834 303 834 Q 284 833 293 809 Q 306 778 295 749 Q 256 656 199 570 Q 144 486 67 395 Q 57 385 54 379 Q 51 367 65 370 Q 116 376 278 605 L 292 626 Z",
 "M 278 605 Q 309 590 382 603 Q 409 609 438 616 Q 454 620 456 622 Q 463 629 459 637 Q 452 647 425 653 Q 398 657 338 635 L 292 626 C 263 620 250 617 278 605 Z",

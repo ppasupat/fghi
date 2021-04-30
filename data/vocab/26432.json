@@ -19,68 +19,7 @@
 "write off; erase; remove from evidence"
 ]
 ],
-"extraWords": [
-[
-"谋杀",
-781,
-"mou2 sha1",
-"murder; premeditated murder"
-],
-[
-"杀死",
-980,
-"sha1 si3",
-"to kill"
-],
-[
-"杀人",
-985,
-"sha1 ren2",
-"homicide; to murder; to kill (a person)"
-],
-[
-"自杀",
-1008,
-"zi4 sha1",
-"to kill oneself; to commit suicide"
-],
-[
-"杀手",
-1144,
-"sha1 shou3",
-"killer"
-],
-[
-"杀害",
-1814,
-"sha1 hai4",
-"murder"
-],
-[
-"谋杀案",
-2316,
-"mou2 sha1 an4",
-"murder case"
-],
-[
-"杀人犯",
-3156,
-"sha1 ren2 fan4",
-"murderer; homicide"
-],
-[
-"屠杀",
-4647,
-"tu2 sha1",
-"massacre"
-],
-[
-"暗杀",
-5019,
-"an4 sha1",
-"assassinate"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 566 629 Q 572 641 673 739 Q 686 749 676 769 Q 639 814 613 816 Q 601 816 600 801 Q 591 729 523 650 L 489 615 Q 480 609 473 601 Q 418 549 356 513 Q 304 483 276 464 Q 263 451 280 451 Q 308 450 351 471 Q 453 520 528 590 L 566 629 Z",
 "M 528 590 Q 705 470 708 469 Q 715 469 720 478 Q 729 491 712 525 Q 697 564 566 629 L 523 650 Q 408 705 343 730 Q 336 733 335 722 Q 336 712 347 704 Q 414 665 489 615 L 528 590 Z",

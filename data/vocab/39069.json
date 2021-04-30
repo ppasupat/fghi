@@ -25,68 +25,7 @@
 "amount; sum of money; fixed number"
 ]
 ],
-"extraWords": [
-[
-"额",
-4993,
-"e2",
-"volume; amount; quantity; forehead; quota"
-],
-[
-"额头",
-7923,
-"e2 tou2",
-"forehead"
-],
-[
-"金额",
-10416,
-"jin1 e2",
-"money amount; monetary value"
-],
-[
-"前额",
-10598,
-"qian2 e2",
-"forehead"
-],
-[
-"巨额",
-10653,
-"ju4 e2",
-"large sum (of money); a huge amount; large sum (of money); a huge amount"
-],
-[
-"焦头烂额",
-16826,
-"jiao1 tou2 lan4 e2",
-"lit. beaten head and scorched brow (idiom); beaten black and blue; fig. in trouble; in terrible shape; hard pressed; overwrought"
-],
-[
-"销售额",
-19492,
-"xiao1 shou4 e2",
-"sales figure; total income from sales; turnover"
-],
-[
-"高额",
-19508,
-"gao1 e2",
-"high quota; large amount"
-],
-[
-"份额",
-20074,
-"fen4 e2",
-"share; portion"
-],
-[
-"总额",
-22142,
-"zong3 e2",
-"total (amount or value)"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 333 782 Q 363 757 396 727 Q 409 715 423 716 Q 433 716 437 728 Q 441 741 433 769 Q 424 800 328 826 Q 313 829 308 827 Q 304 823 305 811 Q 308 801 333 782 Z",
 "M 206 639 Q 196 658 185 665 Q 169 675 168 655 Q 174 622 129 568 Q 114 547 139 502 Q 152 481 168 505 Q 171 511 207 616 C 211 629 211 629 206 639 Z",

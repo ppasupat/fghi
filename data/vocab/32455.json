@@ -25,68 +25,7 @@
 "spinning and weaving; textile"
 ]
 ],
-"extraWords": [
-[
-"织",
-6407,
-"zhi1",
-"to weave; to knit"
-],
-[
-"织物",
-20270,
-"zhi1 wu4",
-"cloth; woven material; textiles"
-],
-[
-"交织",
-20367,
-"jiao1 zhi1",
-"to interweave"
-],
-[
-"组织者",
-22279,
-"zu3 zhi1 zhe3",
-"organizer"
-],
-[
-"软组织",
-22334,
-"ruan3 zu3 zhi1",
-"soft tissue"
-],
-[
-"针织",
-25881,
-"zhen1 zhi1",
-"knitting; knitted garment"
-],
-[
-"纺织品",
-31517,
-"fang3 zhi1 pin3",
-"textile; fabrics"
-],
-[
-"纺织厂",
-33541,
-"fang3 zhi1 chang3",
-"textile factory; cotton mill"
-],
-[
-"织机",
-34758,
-"zhi1 ji1",
-"loom"
-],
-[
-"织布",
-36149,
-"zhi1 bu4",
-"woven cloth; to weave"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 305 470 Q 253 470 210 470 Q 176 470 194 491 Q 270 615 343 709 Q 358 725 355 733 Q 354 748 315 779 Q 299 792 281 790 Q 269 787 275 771 Q 293 731 194 557 Q 173 517 129 480 Q 110 467 111 454 Q 115 435 129 417 Q 139 407 152 413 Q 179 426 271 442 Q 278 443 285 443 C 315 446 335 470 305 470 Z",
 "M 285 443 Q 195 326 172 314 Q 159 305 160 292 Q 161 279 187 258 Q 197 246 212 258 Q 273 298 373 328 Q 392 332 395 341 Q 398 351 378 348 Q 326 341 259 325 Q 229 315 249 339 Q 369 499 425 541 Q 437 551 431 560 Q 421 579 389 599 Q 373 608 364 606 Q 354 603 356 587 Q 359 551 305 470 L 285 443 Z",

@@ -25,68 +25,7 @@
 "chain (store etc); to interlock"
 ]
 ],
-"extraWords": [
-[
-"锁定",
-4323,
-"suo3 ding4",
-"\"to lock (a door); to close with a latch; to lock into place; a lock; a latch; to lock a computer file (to prevent it being overwritten); to lock (denying access to a computer system or device or files, e.g. by password-protection); to focus attention on; to target\""
-],
-[
-"门锁",
-6292,
-"men2 suo3",
-"door lock"
-],
-[
-"锁门",
-8341,
-"suo3 men2",
-"to lock the door"
-],
-[
-"连锁店",
-12554,
-"lian2 suo3 dian4",
-"chain store"
-],
-[
-"锁链",
-14514,
-"suo3 lian4",
-"chains; shackles"
-],
-[
-"锁骨",
-14893,
-"suo3 gu3",
-"collarbone; clavicle"
-],
-[
-"枷锁",
-15420,
-"jia1 suo3",
-"stocks and chain; in fetters"
-],
-[
-"连锁反应",
-20900,
-"lian2 suo3 fan3 ying4",
-"chain reaction"
-],
-[
-"锁匠",
-20912,
-"suo3 jiang5",
-"locksmith"
-],
-[
-"挂锁",
-37184,
-"gua4 suo3",
-"padlock"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 287 626 Q 348 728 365 742 Q 374 752 370 765 Q 366 778 338 800 Q 313 818 294 817 Q 276 816 284 794 Q 299 760 285 733 Q 213 567 47 374 Q 37 364 35 358 Q 31 348 45 350 Q 99 359 267 595 L 287 626 Z",
 "M 267 595 Q 294 592 370 611 Q 394 620 420 626 Q 439 633 442 636 Q 449 643 444 650 Q 437 660 411 663 Q 393 664 322 637 Q 321 637 287 626 C 258 617 237 597 267 595 Z",

@@ -31,68 +31,7 @@
 "compass"
 ]
 ],
-"extraWords": [
-[
-"针",
-2512,
-"zhen1",
-"injection; needle; pin"
-],
-[
-"别针",
-10527,
-"bie2 zhen1",
-"pin"
-],
-[
-"针灸",
-14512,
-"zhen1 jiu3",
-"acupuncture and moxibustion; to give or have acupuncture and moxibustion"
-],
-[
-"大海捞针",
-17381,
-"da4 hai3 lao1 zhen1",
-"to fish a needle from the sea (idiom); a needle in a haystack"
-],
-[
-"针锋相对",
-18310,
-"zhen1 feng1 xiang1 dui4",
-"to oppose each other with equal harshness (idiom); tit for tat"
-],
-[
-"指针",
-19888,
-"zhi3 zhen1",
-"pointer on a gauge; clock hand; cursor"
-],
-[
-"探针",
-22570,
-"tan4 zhen1",
-"probe"
-],
-[
-"撞针",
-25624,
-"zhuang4 zhen1",
-"firing pin"
-],
-[
-"针织",
-25881,
-"zhen1 zhi1",
-"knitting; knitted garment"
-],
-[
-"扎针",
-26143,
-"zha1 zhen1",
-"to give or have an acupuncture treatment"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 332 651 Q 390 747 413 768 Q 423 778 418 792 Q 414 805 386 828 Q 361 846 341 846 Q 322 845 330 823 Q 345 789 331 760 Q 289 663 226 574 Q 165 489 83 394 Q 73 384 71 378 Q 67 368 81 370 Q 141 379 301 606 Q 307 615 313 623 L 332 651 Z",
 "M 313 623 Q 350 611 413 626 Q 453 638 496 647 Q 518 654 521 657 Q 528 664 524 673 Q 517 683 487 689 Q 463 692 382 662 Q 355 656 332 651 C 303 645 284 631 313 623 Z",

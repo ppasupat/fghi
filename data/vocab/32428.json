@@ -13,50 +13,7 @@
 "warp and woof; longitude and latitude; main points"
 ]
 ],
-"extraWords": [
-[
-"北纬",
-18144,
-"bei3 wei3",
-"latitude north"
-],
-[
-"纬度",
-19982,
-"wei3 du4",
-"latitude"
-],
-[
-"纬",
-31513,
-"wei3",
-"latitude; woof (horizontal thread in weaving); weft"
-],
-[
-"南纬",
-35357,
-"nan2 wei3",
-"latitude south"
-],
-[
-"纬线",
-46987,
-"wei3 xian4",
-"woof; line of latitude; parallel"
-],
-[
-"经纬线",
-90571,
-"jing1 wei3 xian4",
-"lines of latitude and longitude; warp and woof"
-],
-[
-"高纬度",
-98403,
-"gao1 wei3 du4",
-"high latitude (i.e. near the poles)"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 304 498 Q 256 499 216 499 Q 180 499 199 520 Q 269 632 336 714 Q 351 732 348 740 Q 347 755 306 788 Q 290 801 271 799 Q 259 796 265 780 Q 272 762 266 735 Q 253 686 191 579 Q 172 543 132 509 Q 113 494 114 482 Q 118 463 132 444 Q 142 432 156 439 Q 184 454 276 469 Q 280 470 284 469 C 314 472 334 497 304 498 Z",
 "M 284 469 Q 185 343 163 331 Q 150 321 152 307 Q 153 294 180 273 Q 190 260 206 273 Q 260 315 353 347 Q 372 351 375 361 Q 378 371 357 368 Q 311 361 253 345 Q 226 335 243 357 Q 280 408 369 508 Q 400 545 426 567 Q 439 577 432 587 Q 422 608 388 627 Q 372 637 362 635 Q 352 631 354 615 Q 355 582 304 498 L 284 469 Z",

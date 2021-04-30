@@ -133,68 +133,7 @@
 "crisis"
 ]
 ],
-"extraWords": [
-[
-"机",
-1197,
-"ji1",
-"machine; opportunity; secret"
-],
-[
-"机器人",
-1997,
-"ji1 qi4 ren2",
-"mechanical person; robot"
-],
-[
-"直升机",
-2531,
-"zhi2 sheng1 ji1",
-"helicopter"
-],
-[
-"摄像机",
-2966,
-"she4 xiang4 ji1",
-"camera; video camera"
-],
-[
-"相机",
-3779,
-"xiang4 ji1",
-"a camera; variant of 照相机"
-],
-[
-"机票",
-4127,
-"ji1 piao4",
-"air ticket; passenger ticket"
-],
-[
-"计算机",
-4603,
-"ji4 suan4 ji1",
-"computer; calculator"
-],
-[
-"扳机",
-5146,
-"ban1 ji1",
-"trigger"
-],
-[
-"电视机",
-5625,
-"dian4 shi4 ji1",
-"television set; CL: 台[tai2]"
-],
-[
-"随机",
-5832,
-"sui2 ji1",
-"according to the situation; pragmatic; random"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 331 513 Q 418 540 420 541 Q 427 548 423 557 Q 416 567 388 574 Q 360 578 332 568 L 286 551 Q 178 520 96 508 Q 62 501 87 486 Q 123 465 192 481 Q 226 490 267 497 L 331 513 Z",
 "M 282 421 Q 278 336 277 241 Q 271 165 250 93 Q 238 54 263 -9 Q 270 -28 278 -31 Q 284 -38 292 -29 Q 299 -25 310 -4 Q 320 21 320 52 Q 319 100 331 513 L 332 568 Q 332 569 333 570 Q 334 667 354 731 Q 363 747 360 760 Q 353 770 298 805 Q 274 823 253 807 Q 249 803 254 787 Q 285 738 286 689 Q 286 625 286 551 L 282 421 Z",

@@ -13,68 +13,7 @@
 "turn a corner; make a turn"
 ]
 ],
-"extraWords": [
-[
-"弯",
-4613,
-"wan1",
-"bend; bent"
-],
-[
-"转弯",
-6665,
-"zhuan3 wan1",
-"turn (around)"
-],
-[
-"弯曲",
-9809,
-"wan1 qu1",
-"to bend; to curve around; curved; crooked; to wind; to warp"
-],
-[
-"弯腰",
-11881,
-"wan1 yao1",
-"stoop"
-],
-[
-"拐弯抹角",
-15408,
-"guai3 wan1 mo4 jiao3",
-"lit. (of road) winding and turning (idiom); to speak in a roundabout way; to equivocate; to beat about the bush"
-],
-[
-"急转弯",
-18399,
-"ji2 zhuan3 wan1",
-"to make a sudden turn"
-],
-[
-"绕弯子",
-29745,
-"rao4 wan1 zi5",
-"lit. to go on a long detour; fig. to speak vaguely around the topic without getting to the point; to beat about the bush"
-],
-[
-"弯弯曲曲",
-43042,
-"wan1 wan1 qu1 qu1",
-"curved; meandering; zigzagging"
-],
-[
-"走弯路",
-57393,
-"zou3 wan1 lu4",
-"to take an indirect route"
-],
-[
-"绕弯儿",
-90592,
-"rao4 wan1 r5",
-"to go for a walk around; fig. to speak in a roundabout way"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 465 810 Q 495 789 528 765 Q 543 755 559 756 Q 569 757 573 772 Q 576 788 563 816 Q 550 844 453 857 Q 437 858 432 855 Q 428 851 430 838 Q 436 828 465 810 Z",
 "M 591 689 Q 612 693 826 709 Q 839 706 850 721 Q 853 734 826 749 Q 787 771 757 766 Q 517 718 302 704 Q 251 703 199 697 Q 165 696 190 673 Q 227 640 261 646 Q 321 656 392 665 L 424 668 Q 485 678 554 685 L 591 689 Z",

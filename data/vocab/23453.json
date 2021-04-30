@@ -19,68 +19,7 @@
 "valuable; precious; value"
 ]
 ],
-"extraWords": [
-[
-"宝宝",
-1943,
-"bao3 bao3",
-"darling; baby"
-],
-[
-"宝",
-2906,
-"bao3",
-"a jewel or gem; a treasure; precious"
-],
-[
-"珠宝",
-3572,
-"zhu1 bao3",
-"pearls; jewels; precious stones"
-],
-[
-"宝藏",
-5420,
-"bao3 zang4",
-"precious (mineral) deposits; (budd.) the treasure of Buddha's law"
-],
-[
-"财宝",
-5830,
-"cai2 bao3",
-"money and valuables"
-],
-[
-"宝石",
-6512,
-"bao3 shi2",
-"precious stone; gem"
-],
-[
-"宝马",
-10989,
-"bao3 ma3",
-"precious horse; BMW (car company)"
-],
-[
-"珍宝",
-13246,
-"zhen1 bao3",
-"a treasure"
-],
-[
-"宝剑",
-13622,
-"bao3 jian4",
-"a double-edged sword"
-],
-[
-"宝物",
-14316,
-"bao3 wu4",
-"treasure"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 460 785 Q 508 730 547 709 Q 563 706 574 721 Q 581 734 579 754 Q 567 802 477 827 Q 476 828 475 828 Q 456 832 446 829 Q 439 828 441 814 Q 442 801 460 785 Z",
 "M 279 614 Q 266 636 256 644 Q 235 659 234 631 Q 238 598 204 551 Q 158 500 182 446 Q 183 442 187 435 Q 203 407 224 437 Q 227 443 281 578 Q 282 581 283 583 C 289 598 289 598 279 614 Z",

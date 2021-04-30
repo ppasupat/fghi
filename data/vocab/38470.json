@@ -25,68 +25,7 @@
 "to land; come ashore; sign/log in"
 ]
 ],
-"extraWords": [
-[
-"着陆",
-5359,
-"zhuo2 lu4",
-"landing; touchdown; to land; to touch down"
-],
-[
-"大陆",
-5517,
-"da4 lu4",
-"continent; mainland (esp. of China); mainland China; refers to People's Republic of China 中华人民共和国"
-],
-[
-"陆军",
-6667,
-"lu4 jun1",
-"army"
-],
-[
-"陆",
-13581,
-"liu4/lu4",
-"six (banker's anti-fraud numeral); surname Lu; shore; land; continent"
-],
-[
-"内陆",
-19811,
-"nei4 lu4",
-"inland; interior"
-],
-[
-"陆上",
-25895,
-"lu4 shang4",
-"land based; on land"
-],
-[
-"新大陆",
-28079,
-"xin1 da4 lu4",
-"the New World; the Americas as opposed to the Old World 旧大陆[jiu4 da4 lu4] or Eurasia"
-],
-[
-"陆路",
-31704,
-"lu4 lu4",
-"land route; to go by surface transport"
-],
-[
-"光怪陆离",
-38251,
-"guang1 guai4 lu4 li2",
-"monstrous and multicolored; grotesque and variegated"
-],
-[
-"大陆架",
-45508,
-"da4 lu4 jia4",
-"continental shelf"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 236 687 Q 270 694 307 713 Q 323 723 333 713 Q 337 707 330 690 Q 314 653 300 615 Q 287 591 301 571 Q 335 520 346 491 Q 352 475 344 466 Q 338 454 314 457 Q 284 461 252 460 Q 228 460 255 446 Q 312 421 364 389 Q 379 376 391 390 Q 404 400 411 424 Q 423 475 358 556 Q 315 589 343 631 Q 386 698 410 713 Q 429 726 419 740 Q 406 758 367 777 Q 346 784 332 773 Q 284 734 212 715 C 183 707 207 680 236 687 Z",
 "M 212 715 Q 190 731 164 739 Q 154 742 146 732 Q 142 725 151 713 Q 199 611 187 322 Q 186 309 185 295 Q 181 201 153 109 Q 144 79 150 57 Q 160 20 174 5 Q 187 -10 198 6 Q 231 43 232 204 Q 226 612 236 680 Q 236 684 236 687 C 237 699 237 699 212 715 Z",

@@ -13,62 +13,7 @@
 "wall"
 ]
 ],
-"extraWords": [
-[
-"墙壁",
-6776,
-"qiang2 bi4",
-"wall"
-],
-[
-"防火墙",
-9603,
-"fang2 huo3 qiang2",
-"firewall"
-],
-[
-"城墙",
-12339,
-"cheng2 qiang2",
-"city wall"
-],
-[
-"围墙",
-12493,
-"wei2 qiang2",
-"enclosure"
-],
-[
-"墙角",
-17972,
-"qiang2 jiao3",
-"corner (junction of two walls)"
-],
-[
-"火墙",
-43638,
-"huo3 qiang2",
-"firewall"
-],
-[
-"铜墙铁壁",
-47656,
-"tong2 qiang2 tie3 bi4",
-"\"copper wall, iron bastion (idiom); impenetrable defense\""
-],
-[
-"骑墙",
-52085,
-"qi2 qiang2",
-"to sit on the fence; to take both sides in a dispute"
-],
-[
-"墙根",
-76794,
-"qiang2 gen1",
-"foot of a wall"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 281 483 Q 368 510 369 511 Q 376 520 372 528 Q 365 540 334 545 Q 306 549 283 539 L 235 520 Q 114 493 107 491 Q 70 482 98 467 Q 140 446 200 463 Q 215 467 235 471 L 281 483 Z",
 "M 273 317 Q 277 402 281 483 L 283 539 Q 284 627 303 714 Q 307 726 286 740 Q 252 759 226 763 Q 210 766 202 757 Q 195 750 203 735 Q 228 698 230 671 Q 234 598 235 520 L 235 471 Q 234 389 231 299 C 230 269 272 287 273 317 Z",

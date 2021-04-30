@@ -19,56 +19,7 @@
 "keyboard"
 ]
 ],
-"extraWords": [
-[
-"键",
-5720,
-"jian4",
-"(door lock) key; key (on piano or keyboard)"
-],
-[
-"关键词",
-15502,
-"guan1 jian4 ci2",
-"keyword"
-],
-[
-"按键",
-18413,
-"an4 jian4",
-"\"a button or key (on keyboard, touchpad, piano etc); a keystroke; to press (a button)\""
-],
-[
-"琴键",
-36020,
-"qin2 jian4",
-"a piano key"
-],
-[
-"关键字",
-40132,
-"guan1 jian4 zi4",
-"keyword"
-],
-[
-"化学键",
-42432,
-"hua4 xue2 jian4",
-"chemical bond"
-],
-[
-"共价键",
-59441,
-"gong4 jia4 jian4",
-"(chem.) covalent bond"
-],
-[
-"回车键",
-60652,
-"hui2 che1 jian4",
-"carriage return"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 179 479 Q 180 482 182 483 Q 222 535 263 605 L 281 637 Q 332 731 349 749 Q 358 761 352 774 Q 348 786 318 807 Q 290 823 272 823 Q 253 820 263 799 Q 279 765 268 737 Q 213 581 49 363 Q 39 353 38 346 Q 35 334 49 338 Q 86 348 171 468 L 179 479 Z",
 "M 263 605 Q 314 599 421 634 Q 424 635 426 637 Q 433 646 428 653 Q 421 663 391 667 Q 369 670 305 644 Q 299 644 281 637 C 253 626 233 608 263 605 Z",

@@ -214,63 +214,549 @@
 "extraWords": [
 [
 "女人",
-257,
+428.9,
 "nu:3 ren2",
 "woman"
 ],
 [
+"女人",
+428.9,
+"nu:3 ren5",
+"wife"
+],
+[
+"人民",
+353.77,
+"ren2 min2",
+"the people; CL:個|个[ge4]"
+],
+[
 "男人",
-305,
+346.03,
 "nan2 ren2",
-"a man; a male; men"
+"a man; a male; men; CL:個|个[ge4]"
 ],
 [
 "有人",
-365,
+294.43,
 "you3 ren2",
 "someone; people; anyone; there is someone there; occupied (as in restroom)"
 ],
 [
-"人们",
-427,
-"ren2 men5",
-"people"
-],
-[
-"任何人",
-850,
-"ren4 he2 ren2",
-"anyone"
-],
-[
 "病人",
-906,
+101.77,
 "bing4 ren2",
-"sick person; [medical] patient; invalid"
+"sick person; patient; invalid; CL:個|个[ge4]"
 ],
 [
-"杀人",
-985,
-"sha1 ren2",
-"homicide; to murder; to kill (a person)"
+"老人",
+95.6,
+"lao3 ren2",
+"old man or woman; the elderly; one's aged parents or grandparents"
+],
+[
+"令人",
+91.8,
+"ling4 ren2",
+"to cause one (to do sth); to make one (angry, delighted etc)"
 ],
 [
 "家人",
-1044,
+85.85,
 "jia1 ren2",
 "household; (one's) family"
 ],
 [
 "大人",
-1075,
+82.99,
 "da4 ren5",
-"adult; grownup"
+"adult; grownup; title of respect toward superiors"
 ],
 [
-"证人",
-1149,
-"zheng4 ren2",
-"witness"
+"主持人",
+69.06,
+"zhu3 chi2 ren2",
+"TV or radio presenter; host; anchor"
+],
+[
+"黑人",
+61.79,
+"hei1 ren2",
+"black person; an illegal"
+],
+[
+"他人",
+51.01,
+"ta1 ren2",
+"another; sb else; other people"
+],
+[
+"人群",
+51.0,
+"ren2 qun2",
+"crowd"
+],
+[
+"白人",
+49.04,
+"bai2 ren2",
+"white man or woman; Caucasian"
+],
+[
+"受害人",
+38.9,
+"shou4 hai4 ren2",
+"victim"
+],
+[
+"人均",
+36.21,
+"ren2 jun1",
+"per capita"
+],
+[
+"嫌疑人",
+35.63,
+"xian2 yi2 ren2",
+"a suspect"
+],
+[
+"人人",
+35.28,
+"ren2 ren2",
+"everyone; every person"
+],
+[
+"某人",
+34.85,
+"mou3 ren2",
+"someone; a certain person; some people; I (self-address after one's surname)"
+],
+[
+"犯人",
+31.0,
+"fan4 ren2",
+"convict; prisoner; criminal"
+],
+[
+"名人",
+30.97,
+"ming2 ren2",
+"personage; celebrity"
+],
+[
+"陌生人",
+25.43,
+"mo4 sheng1 ren2",
+"stranger"
+],
+[
+"新人",
+24.67,
+"xin1 ren2",
+"newcomer; fresh talent; newlywed, esp. new bride; bride and groom"
+],
+[
+"每人",
+24.32,
+"mei3 ren2",
+"each person; everybody; per person"
+],
+[
+"外星人",
+23.43,
+"wai4 xing1 ren2",
+"space alien; extraterrestrial"
+],
+[
+"人文",
+23.43,
+"ren2 wen2",
+"humanities; human affairs; culture"
+],
+[
+"情人",
+22.95,
+"qing2 ren2",
+"lover; sweetheart"
+],
+[
+"做人",
+22.91,
+"zuo4 ren2",
+"to conduct oneself; to behave with integrity"
+],
+[
+"人大",
+22.73,
+"Ren2 da4",
+"(Chinese) National People's Congress (abbr. for 全國人民代表大會|全国人民代表大会[Quan2 guo2 Ren2 min2 Dai4 biao3 Da4 hui4]); Renmin University of China (abbr. for 中國人民大學|中国人民大学[Zhong1 guo2 Ren2 min2 Da4 xue2])"
+],
+[
+"合伙人",
+22.0,
+"he2 huo3 ren2",
+"partner; associate"
+],
+[
+"美人",
+21.59,
+"mei3 ren2",
+"beauty; belle"
+],
+[
+"用人",
+20.26,
+"yong4 ren2",
+"servant; to employ sb for a job; to manage people; to be in need of staff"
+],
+[
+"商人",
+18.65,
+"shang1 ren2",
+"merchant; businessman"
+],
+[
+"超人",
+18.6,
+"Chao1 ren2",
+"Superman, comic book superhero"
+],
+[
+"超人",
+18.6,
+"chao1 ren2",
+"superhuman; exceptional"
+],
+[
+"人心",
+18.23,
+"ren2 xin1",
+"popular feeling; the will of the people"
+],
+[
+"老年人",
+18.03,
+"lao3 nian2 ren2",
+"old people; the elderly"
+],
+[
+"成年人",
+16.99,
+"cheng2 nian2 ren2",
+"adult person"
+],
+[
+"日本人",
+16.56,
+"Ri4 ben3 ren2",
+"Japanese person or people"
+],
+[
+"人民法院",
+16.34,
+"ren2 min2 fa3 yuan4",
+"people's court (of law); people's tribunal"
+],
+[
+"委托人",
+16.31,
+"wei3 tuo1 ren2",
+"(law) client; trustor"
+],
+[
+"人力",
+16.25,
+"ren2 li4",
+"manpower; labor power"
+],
+[
+"怪人",
+15.41,
+"guai4 ren2",
+"strange person; eccentric"
+],
+[
+"死人",
+15.19,
+"si3 ren2",
+"dead person; (coll.) to die; (of a death) to happen"
+],
+[
+"人品",
+14.32,
+"ren2 pin3",
+"moral standing; moral quality; character; personality; appearance; looks (colloquial); bearing"
+],
+[
+"感人",
+14.24,
+"gan3 ren2",
+"touching; moving"
+],
+[
+"小人",
+14.08,
+"xiao3 ren2",
+"person of low social status (old); I, me (used to refer humbly to oneself); nasty person; vile character"
+],
+[
+"一家人",
+13.88,
+"yi1 jia1 ren2",
+"household; the whole family"
+],
+[
+"老人家",
+13.49,
+"lao3 ren2 jia1",
+"polite term for old woman or man"
+],
+[
+"真人",
+13.21,
+"zhen1 ren2",
+"a real person; Daoist spiritual master"
+],
+[
+"被告人",
+13.04,
+"bei4 gao4 ren2",
+"defendant (in legal case)"
+],
+[
+"普通人",
+12.34,
+"pu3 tong1 ren2",
+"ordinary person; private citizen; people; the person in the street"
+],
+[
+"路人",
+11.84,
+"lu4 ren2",
+"passer-by; stranger"
+],
+[
+"巨人",
+11.54,
+"ju4 ren2",
+"giant"
+],
+[
+"世人",
+11.49,
+"shi4 ren2",
+"people (in general); people around the world; everyone"
+],
+[
+"未成年人",
+11.37,
+"wei4 cheng2 nian2 ren2",
+"minor (i.e. person under 18)"
+],
+[
+"人身",
+11.29,
+"ren2 shen1",
+"person; personal; human body"
+],
+[
+"被害人",
+11.27,
+"bei4 hai4 ren2",
+"victim"
+],
+[
+"代理人",
+11.23,
+"dai4 li3 ren2",
+"agent"
+],
+[
+"持有人",
+9.84,
+"chi2 you3 ren2",
+"holder"
+],
+[
+"富人",
+9.84,
+"fu4 ren2",
+"rich person; the rich"
+],
+[
+"代言人",
+9.78,
+"dai4 yan2 ren2",
+"spokesperson"
+],
+[
+"人性化",
+9.6,
+"ren2 xing4 hua4",
+"(of a system or product etc) adapted to human needs; people-oriented; user-friendly"
+],
+[
+"人手",
+9.55,
+"ren2 shou3",
+"manpower; staff; human hand"
+],
+[
+"外人",
+9.35,
+"wai4 ren2",
+"outsider; foreigner; stranger"
+],
+[
+"中人",
+8.9,
+"zhong1 ren2",
+"go-between; mediator; intermediary"
+],
+[
+"走人",
+8.82,
+"zou3 ren2",
+"(coll.) to leave; to beat it"
+],
+[
+"引人注目",
+8.6,
+"yin3 ren2 zhu4 mu4",
+"to attract attention; eye-catching; conspicuous"
+],
+[
+"人流",
+7.91,
+"ren2 liu2",
+"stream of people; abortion; abbr. for 人工流產|人工流产[ren2 gong1 liu2 chan3]"
+],
+[
+"古人",
+7.75,
+"gu3 ren2",
+"people from ancient times; the ancients; the late (i.e. person who has passed away)"
+],
+[
+"熟人",
+7.16,
+"shu2 ren2",
+"acquaintance; friend"
+],
+[
+"人中",
+7.04,
+"ren2 zhong1",
+"philtrum; infranasal depression; the \"human center\" acupuncture point"
+],
+[
+"友人",
+7.0,
+"you3 ren2",
+"friend"
+],
+[
+"族人",
+6.95,
+"zu2 ren2",
+"clansman; clan members; relatives; ethnic minority"
+],
+[
+"人造",
+6.26,
+"ren2 zao4",
+"man-made; artificial; synthetic"
+],
+[
+"人情",
+6.17,
+"ren2 qing2",
+"human emotions; social relationship; friendship; favor; a good turn"
+],
+[
+"最高人民法院",
+6.12,
+"Zui4 gao1 Ren2 min2 Fa3 yuan4",
+"Supreme People's Court (PRC)"
+],
+[
+"常人",
+6.09,
+"chang2 ren2",
+"ordinary person"
+],
+[
+"道人",
+6.01,
+"dao4 ren2",
+"Taoist devotee (honorific)"
+],
+[
+"主人公",
+5.62,
+"zhu3 ren2 gong1",
+"hero (of a novel or film); main protagonist"
+],
+[
+"罪人",
+5.51,
+"zui4 ren2",
+"sinner"
+],
+[
+"人行道",
+5.48,
+"ren2 xing2 dao4",
+"sidewalk"
+],
+[
+"人命",
+5.31,
+"ren2 ming4",
+"human life; CL:條|条[tiao2]"
+],
+[
+"人民公社",
+5.28,
+"ren2 min2 gong1 she4",
+"people's commune"
+],
+[
+"出人意料",
+5.25,
+"chu1 ren2 yi4 liao4",
+"unexpected (idiom); surprising"
+],
+[
+"文人",
+5.22,
+"wen2 ren2",
+"scholar; literati"
+],
+[
+"北京人",
+5.19,
+"Bei3 jing1 ren2",
+"Beijing resident; Peking ape-man, Homo erectus pekinensis (c. 600,000 BC), discovered in 1921 at Zhoukoudian 周口店[Zhou1 kou3 dian4], Beijing"
+],
+[
+"接班人",
+5.18,
+"jie1 ban1 ren2",
+"successor"
+],
+[
+"青年人",
+5.15,
+"qing1 nian2 ren2",
+"young person; the young"
+],
+[
+"旁人",
+5.1,
+"pang2 ren2",
+"other people; bystanders; onlookers; outsiders"
 ]
 ],
 "strokes": [

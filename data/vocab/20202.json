@@ -19,68 +19,7 @@
 "ceremony"
 ]
 ],
-"extraWords": [
-[
-"仪",
-5455,
-"yi2",
-"apparatus; rites; appearance; present; ceremony"
-],
-[
-"殡仪馆",
-9770,
-"bin4 yi2 guan3",
-"the undertaker's; funeral parlor"
-],
-[
-"礼仪",
-11206,
-"li3 yi2",
-"etiquette; ceremony"
-],
-[
-"扫描仪",
-12044,
-"sao3 miao2 yi2",
-"scanner (device)"
-],
-[
-"仪表",
-13600,
-"yi2 biao3",
-"appearance; bearing; meter (i.e. measuring instrument)"
-],
-[
-"心仪",
-19878,
-"xin1 yi2",
-"to admire"
-],
-[
-"质谱仪",
-25318,
-"zhi4 pu3 yi2",
-"mass spectrometer"
-],
-[
-"地球仪",
-27918,
-"di4 qiu2 yi2",
-"globe"
-],
-[
-"仪态",
-29219,
-"yi2 tai4",
-"bearing; deportment"
-],
-[
-"仪容",
-42191,
-"yi2 rong2",
-"appearance"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 247 486 Q 302 555 363 648 Q 394 703 422 729 Q 432 741 428 756 Q 424 769 393 796 Q 365 817 343 817 Q 322 816 331 791 Q 346 754 331 723 Q 250 543 64 334 Q 54 322 50 316 Q 46 303 62 306 Q 102 310 219 453 Q 220 456 223 458 L 247 486 Z",
 "M 223 458 Q 244 404 246 334 Q 245 325 245 316 Q 244 222 218 127 Q 208 82 242 31 Q 243 31 245 28 Q 263 12 275 39 Q 290 79 289 126 Q 293 346 301 396 Q 308 423 299 434 Q 254 482 247 486 C 224 506 213 486 223 458 Z",

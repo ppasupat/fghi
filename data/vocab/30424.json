@@ -31,68 +31,7 @@
 "spiral; coil; circle; go around"
 ]
 ],
-"extraWords": [
-[
-"盘",
-2149,
-"pan2",
-"\"dish; tray; to build; to check; to examine; to transfer; classifier for food: dish, helping; to coil; classifier for coils of wire; tectonic plate\""
-],
-[
-"地盘",
-3069,
-"di4 pan2",
-"domain; territory under one's control; foundation of a building; base of operations; crust of earth"
-],
-[
-"硬盘",
-5918,
-"ying4 pan2",
-"hard disk"
-],
-[
-"盘问",
-7179,
-"pan2 wen4",
-"to interrogate; to cross-examine; to inquire"
-],
-[
-"方向盘",
-8732,
-"fang1 xiang4 pan2",
-"steering wheel"
-],
-[
-"全盘",
-11440,
-"quan2 pan2",
-"overall; comprehensive"
-],
-[
-"盘算",
-15447,
-"pan2 suan4",
-"to plot; to scheme; to calculate"
-],
-[
-"棋盘",
-16005,
-"qi2 pan2",
-"chessboard"
-],
-[
-"圆盘",
-17374,
-"yuan2 pan2",
-"disk"
-],
-[
-"罗盘",
-17457,
-"luo2 pan2",
-"compass"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 420 703 Q 474 757 530 793 Q 534 796 539 798 Q 558 808 546 825 Q 533 840 506 850 Q 482 860 471 857 Q 459 854 464 842 Q 470 820 397 709 C 381 684 399 682 420 703 Z",
 "M 397 709 Q 390 715 377 719 Q 361 726 349 722 Q 339 715 345 704 Q 361 677 358 561 L 355 530 Q 340 440 293 344 Q 289 338 287 332 Q 286 322 295 325 Q 322 332 367 415 Q 370 424 375 432 Q 396 483 405 536 L 410 566 Q 410 662 423 675 C 430 689 423 694 397 709 Z",

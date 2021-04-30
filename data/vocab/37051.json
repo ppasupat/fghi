@@ -13,68 +13,7 @@
 "neighbor"
 ]
 ],
-"extraWords": [
-[
-"邻里",
-12811,
-"lin2 li3",
-"neighbor"
-],
-[
-"邻家",
-15176,
-"lin2 jia1",
-"neighboring state; adjacent country; same as 邻接的国家[lin2 jie1 de5 guo2 jia1]"
-],
-[
-"邻",
-18512,
-"lin2",
-"neighbor; adjacent; close to"
-],
-[
-"邻近",
-18766,
-"lin2 jin4",
-"neighboring; adjacent; near; vicinity"
-],
-[
-"相邻",
-27540,
-"xiang1 lin2",
-"neighbor; adjacent"
-],
-[
-"毗邻",
-31327,
-"pi2 lin2",
-"bordering; adjacent"
-],
-[
-"邻国",
-32650,
-"lin2 guo2",
-"bordering country; neighbor country; neighboring countries; surrounding countries"
-],
-[
-"近邻",
-36373,
-"jin4 lin2",
-"close neighbor"
-],
-[
-"四邻",
-45366,
-"si4 lin2",
-"one's nearest neighbors"
-],
-[
-"比邻",
-50252,
-"bi3 lin2",
-"neighbor; next-door neighbor; near; next to"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 383 695 Q 405 732 427 751 Q 437 761 432 777 Q 428 790 397 816 Q 369 835 348 836 Q 329 835 337 810 Q 352 774 338 745 Q 295 645 231 552 Q 168 462 84 365 Q 72 355 70 347 Q 66 335 82 338 Q 125 344 300 567 Q 333 615 370 672 Q 370 673 371 674 L 383 695 Z",
 "M 371 674 Q 372 673 377 668 Q 432 625 501 558 Q 516 542 530 538 Q 539 537 545 546 Q 555 559 541 598 Q 529 643 383 695 C 355 705 350 695 371 674 Z",

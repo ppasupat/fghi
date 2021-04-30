@@ -81,64 +81,94 @@
 ],
 "extraWords": [
 [
-"物品",
-2549,
-"wu4 pin3",
-"articles; goods; materials"
-],
-[
-"食品",
-3202,
-"shi2 pin3",
-"foodstuff; food; provisions"
-],
-[
 "品牌",
-3763,
+209.04,
 "pin3 pai2",
 "brand name; trademark"
 ],
 [
-"品",
-4325,
-"pin3",
-"article; commodity; product; goods; kind; grade; rank; character; disposition; nature; temperament; variety; to taste sth; to sample; to criticize; to comment; to judge; to size up"
+"食品",
+115.2,
+"shi2 pin3",
+"foodstuff; food; provisions; CL:種|种[zhong3]"
 ],
 [
-"药品",
-5022,
-"yao4 pin3",
-"medicaments; medicine; drug"
+"品",
+88.92,
+"pin3",
+"article; commodity; product; goods; kind; grade; rank; character; disposition; nature; temperament; variety; to taste sth; to sample; to criticize; to comment; to judge; to size up; fret (on a guitar or lute)"
+],
+[
+"物品",
+35.25,
+"wu4 pin3",
+"articles; goods; materials"
+],
+[
+"精品",
+28.27,
+"jing1 pin3",
+"quality goods; premium product; fine work (of art)"
+],
+[
+"正品",
+27.46,
+"zheng4 pin3",
+"certified goods; quality product; normal product; A-class goods"
 ],
 [
 "用品",
-5063,
+22.99,
 "yong4 pin3",
 "articles for use; products; goods"
 ],
 [
+"成品",
+17.91,
+"cheng2 pin3",
+"finished goods; a finished product"
+],
+[
+"人品",
+14.32,
+"ren2 pin3",
+"moral standing; moral quality; character; personality; appearance; looks (colloquial); bearing"
+],
+[
 "品味",
-5307,
+11.35,
 "pin3 wei4",
-"\"to sample; to taste; to appreciate; one's taste (i.e. in music, literature, fashion, food and drink etc); good taste\""
+"to sample; to taste; to appreciate; one's taste (i.e. in music, literature, fashion, food and drink etc); good taste"
 ],
 [
-"奖品",
-5374,
-"jiang3 pin3",
-"award; prize"
+"品位",
+10.25,
+"pin3 wei4",
+"rank; grade; quality; (aesthetic) taste"
 ],
 [
-"艺术品",
-5705,
-"yi4 shu4 pin3",
-"art piece; work of art"
+"小品",
+8.14,
+"xiao3 pin3",
+"short, simple literary or artistic creation; essay; skit"
 ],
 [
-"化妆品",
-5943,
-"hua4 zhuang1 pin3",
-"cosmetic; make-up product"
+"奢侈品",
+8.01,
+"she1 chi3 pin3",
+"luxury good"
+],
+[
+"出品",
+6.75,
+"chu1 pin3",
+"to produce an item; output; items that are produced"
+],
+[
+"甜品",
+5.62,
+"tian2 pin3",
+"dessert"
 ]
 ],
 "strokes": [

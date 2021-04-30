@@ -94,63 +94,237 @@
 "extraWords": [
 [
 "好好",
-437,
+229.65,
 "hao3 hao3",
-"good; nicely; properly"
+"well; carefully; nicely; properly"
 ],
 [
 "不好意思",
-669,
+143.23,
 "bu4 hao3 yi4 si5",
-"to feel embarrassed; to be ill at ease; to find it embarrassing (to do sth)"
+"to feel embarrassed; to find it embarrassing; to be sorry (for inconveniencing sb)"
 ],
 [
 "不好",
-704,
+133.61,
 "bu4 hao3",
 "no good"
 ],
 [
-"好运",
-945,
-"hao3 yun4",
-"good luck"
-],
-[
-"美好",
-1282,
-"mei3 hao3",
-"happy; fine; OK"
-],
-[
-"好事",
-1432,
-"hao3 shi4",
-"\"good action, deed, thing or work (also sarcastic, \"\"a fine thing indeed\"\"); charity; happy occasion; Daoist or Buddhist ceremony for the souls of the dead\""
-],
-[
-"好几",
-1591,
-"hao3 ji3",
-"several; quite a few"
-],
-[
-"好莱坞",
-1603,
-"Hao3 lai2 wu4",
-"Hollywood"
-],
-[
 "好多",
-1966,
+78.5,
 "hao3 duo1",
 "many; quite a lot; much better"
 ],
 [
+"美好",
+78.09,
+"mei3 hao3",
+"beautiful; fine"
+],
+[
 "好看",
-1990,
+76.14,
 "hao3 kan4",
-"good-looking"
+"good-looking; nice-looking; good (of a movie, book, TV show etc); embarrassed; humiliated"
+],
+[
+"好事",
+58.04,
+"hao3 shi4",
+"good action, deed, thing or work (also sarcastic, \"a fine thing indeed\"); charity; happy occasion; Daoist or Buddhist ceremony for the souls of the dead"
+],
+[
+"好事",
+58.04,
+"hao4 shi4",
+"to be meddlesome"
+],
+[
+"好友",
+46.38,
+"hao3 you3",
+"close friend; pal; (social networking website) friend; CL:個|个[ge4]"
+],
+[
+"你好",
+37.38,
+"ni3 hao3",
+"hello; hi"
+],
+[
+"好玩",
+37.17,
+"hao3 wan2",
+"amusing; fun; interesting"
+],
+[
+"好玩",
+37.17,
+"hao4 wan2",
+"to be playful; to be fond of one's fun"
+],
+[
+"也好",
+36.67,
+"ye3 hao3",
+"may as well; that's fine"
+],
+[
+"好久",
+36.55,
+"hao3 jiu3",
+"quite a while"
+],
+[
+"看好",
+32.15,
+"kan1 hao3",
+"to keep an eye on"
+],
+[
+"看好",
+32.15,
+"kan4 hao3",
+"to regard as having good prospects"
+],
+[
+"好笑",
+31.54,
+"hao3 xiao4",
+"laughable; funny; ridiculous"
+],
+[
+"搞好",
+28.99,
+"gao3 hao3",
+"to do well at; to do a good job"
+],
+[
+"好朋友",
+17.54,
+"hao3 peng2 you5",
+"good friend; (slang) a visit from Aunt Flo (menstrual period)"
+],
+[
+"修好",
+17.23,
+"xiu1 hao3",
+"to repair (sth broken); to restore (sth damaged); to establish friendly relations with; (literary) to do meritorious deeds"
+],
+[
+"好受",
+16.57,
+"hao3 shou4",
+"feeling better; to be more at ease"
+],
+[
+"好在",
+16.21,
+"hao3 zai4",
+"luckily; fortunately"
+],
+[
+"幸好",
+14.84,
+"xing4 hao3",
+"fortunately"
+],
+[
+"好似",
+14.4,
+"hao3 si4",
+"to seem; to be like"
+],
+[
+"好不容易",
+12.2,
+"hao3 bu4 rong2 yi4",
+"with great difficulty; very difficult"
+],
+[
+"好感",
+9.82,
+"hao3 gan3",
+"good opinion; favorable impression"
+],
+[
+"好日子",
+9.36,
+"hao3 ri4 zi5",
+"auspicious day; good day; happy life"
+],
+[
+"要好",
+9.03,
+"yao4 hao3",
+"to be on good terms; to be close friends; striving for self-improvement"
+],
+[
+"恰好",
+8.94,
+"qia4 hao3",
+"as it turns out; by lucky coincidence; (of number, time, size etc) just right"
+],
+[
+"好比",
+8.2,
+"hao3 bi3",
+"to be just like; can be compared to"
+],
+[
+"您好",
+7.99,
+"nin2 hao3",
+"hello (polite)"
+],
+[
+"好些",
+7.96,
+"hao3 xie1",
+"a good deal of; quite a lot"
+],
+[
+"好心",
+7.94,
+"hao3 xin1",
+"kindness; good intentions"
+],
+[
+"好棒",
+7.71,
+"hao3 bang4",
+"excellent (interjection)"
+],
+[
+"好意",
+7.48,
+"hao3 yi4",
+"good intention; kindness"
+],
+[
+"喜好",
+5.81,
+"xi3 hao4",
+"to like; fond of; to prefer; to love; one's tastes; preference"
+],
+[
+"好家伙",
+5.37,
+"hao3 jia1 huo5",
+"my God!; oh boy!; man!"
+],
+[
+"好歹",
+5.27,
+"hao3 dai3",
+"good and bad; most unfortunate occurrence; in any case; whatever"
+],
+[
+"完好",
+5.07,
+"wan2 hao3",
+"intact; in good condition"
 ]
 ],
 "strokes": [

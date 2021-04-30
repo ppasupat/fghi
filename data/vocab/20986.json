@@ -135,64 +135,358 @@
 ],
 "extraWords": [
 [
-"出来",
-197,
-"chu1 lai2",
-"to come out; to emerge"
-],
-[
 "出去",
-309,
+343.52,
 "chu1 qu4",
 "to go out"
 ],
 [
-"做出",
-1292,
-"zuo4 chu1",
-"to put out; to issue"
-],
-[
-"付出",
-1716,
-"fu4 chu1",
-"to pay"
-],
-[
 "提出",
-1841,
+281.62,
 "ti2 chu1",
 "to raise (an issue); to propose; to put forward; to suggest; to post (on a website); to withdraw (cash)"
 ],
 [
-"退出",
-1948,
-"tui4 chu1",
-"to withdraw; to abort; to quit"
+"指出",
+170.18,
+"zhi3 chu1",
+"to indicate; to point out"
 ],
 [
-"发出",
-2383,
-"fa1 chu1",
-"\"to issue (an order, decree etc); to send out; to dispatch; to produce a sound; to let out (a laugh)\""
+"推出",
+143.67,
+"tui1 chu1",
+"to push out; to release; to launch; to publish; to recommend"
+],
+[
+"做出",
+66.24,
+"zuo4 chu1",
+"to put out; to issue"
+],
+[
+"看出",
+53.98,
+"kan4 chu1",
+"to make out; to see"
+],
+[
+"付出",
+51.78,
+"fu4 chu1",
+"to pay; to invest (energy or time in a friendship etc)"
+],
+[
+"走出",
+44.4,
+"zou3 chu1",
+"to leave (a room etc); to go out through (a door etc)"
+],
+[
+"拿出",
+42.68,
+"na2 chu1",
+"to take out; to put out; to provide; to put forward (a proposal); to come up with (evidence)"
+],
+[
+"出售",
+42.66,
+"chu1 shou4",
+"to sell; to offer for sale; to put on the market"
+],
+[
+"退出",
+39.41,
+"tui4 chu1",
+"to withdraw; to abort; to quit; to log out (computing)"
+],
+[
+"派出所",
+32.2,
+"pai4 chu1 suo3",
+"local police station"
+],
+[
+"伸出",
+30.54,
+"shen1 chu1",
+"to extend"
 ],
 [
 "出局",
-2393,
+30.26,
 "chu1 ju2",
 "to send off (player for a foul); to knock out (i.e. to beat in a knock-out tournament); to eliminate; to call out; to kill off; to pull out of (a competition); to retire (a runner in baseball); out (i.e. man out in baseball)"
 ],
 [
-"认出",
-2671,
-"ren4 chu1",
-"recognition; to recognize"
+"播出",
+29.05,
+"bo1 chu1",
+"to broadcast; to air (a TV program etc)"
+],
+[
+"得出",
+29.0,
+"de2 chu1",
+"to obtain (results); to arrive at (a conclusion)"
+],
+[
+"露出",
+28.1,
+"lu4 chu1",
+"to expose; to show; also pr. [lou4 chu1]"
+],
+[
+"出手",
+27.61,
+"chu1 shou3",
+"to dispose of; to spend (money); to undertake a task"
+],
+[
+"出版社",
+26.87,
+"chu1 ban3 she4",
+"publishing house"
+],
+[
+"出血",
+26.29,
+"chu1 xue4",
+"to bleed; bleeding; (fig.) to spend money in large amounts"
+],
+[
+"派出",
+26.08,
+"pai4 chu1",
+"to send; to dispatch"
 ],
 [
 "查出",
-2674,
+26.05,
 "cha2 chu1",
 "to find out; to discover"
+],
+[
+"出事",
+22.18,
+"chu1 shi4",
+"to have an accident; to meet with a mishap"
+],
+[
+"作出",
+21.61,
+"zuo4 chu1",
+"to put out; to come up with; to make (a choice, decision, proposal, response, comment etc); to issue (a permit, statement, explanation, apology, reassurance to the public etc); to draw (conclusion); to deliver (speech, judgment); to devise (explanation); to extract"
+],
+[
+"外出",
+21.57,
+"wai4 chu1",
+"to go out; to go away (on a trip etc)"
+],
+[
+"出租",
+21.25,
+"chu1 zu1",
+"to rent"
+],
+[
+"超出",
+19.41,
+"chao1 chu1",
+"to exceed; to overstep; to go too far; to encroach"
+],
+[
+"出行",
+18.16,
+"chu1 xing2",
+"to go out somewhere (relatively short trip); to set off on a journey (longer trip)"
+],
+[
+"取出",
+18.01,
+"qu3 chu1",
+"to take out; to extract; to draw out"
+],
+[
+"出庭",
+16.84,
+"chu1 ting2",
+"to appear in court"
+],
+[
+"出名",
+16.54,
+"chu1 ming2",
+"well-known for sth; to become well known; to make one's mark"
+],
+[
+"找出",
+15.51,
+"zhao3 chu1",
+"to find; to search out"
+],
+[
+"展出",
+13.97,
+"zhan3 chu1",
+"to put on display; to be on show; to exhibit"
+],
+[
+"出具",
+13.77,
+"chu1 ju4",
+"to issue (document, certificate etc); to provide"
+],
+[
+"出自",
+12.73,
+"chu1 zi4",
+"to come from"
+],
+[
+"出院",
+12.1,
+"chu1 yuan4",
+"to leave hospital; to be discharged from hospital"
+],
+[
+"想出",
+11.74,
+"xiang3 chu1",
+"to figure out; to work out (a solution etc); to think up; to come up with (an idea etc)"
+],
+[
+"排出",
+10.94,
+"pai2 chu1",
+"to discharge"
+],
+[
+"出面",
+10.92,
+"chu1 mian4",
+"to appear personally; to step in; to step forth; to show up"
+],
+[
+"流出",
+10.66,
+"liu2 chu1",
+"to flow out; to disgorge; to effuse"
+],
+[
+"抽出",
+10.2,
+"chou1 chu1",
+"to take out; to extract"
+],
+[
+"出演",
+9.96,
+"chu1 yan3",
+"to appear (in a show etc); an appearance (on stage etc)"
+],
+[
+"放出",
+9.86,
+"fang4 chu1",
+"to let off; to give out"
+],
+[
+"出走",
+9.63,
+"chu1 zou3",
+"to leave home; to go off; to run away"
+],
+[
+"出入",
+8.88,
+"chu1 ru4",
+"to go out and come in; entrance and exit; expenditure and income; discrepancy; inconsistent"
+],
+[
+"跳出",
+8.59,
+"tiao4 chu1",
+"to jump out; fig. to appear suddenly"
+],
+[
+"交出",
+7.96,
+"jiao1 chu1",
+"to hand over"
+],
+[
+"出境",
+7.9,
+"chu1 jing4",
+"to leave a country or region; outbound (tourism)"
+],
+[
+"撤出",
+7.46,
+"che4 chu1",
+"to withdraw; to leave; to retreat; to pull out"
+],
+[
+"出乎",
+6.92,
+"chu1 hu1",
+"due to; to stem from; to go beyond (also fig. beyond reason, expectations etc); to go against (expectations)"
+],
+[
+"出品",
+6.75,
+"chu1 pin3",
+"to produce an item; output; items that are produced"
+],
+[
+"列出",
+6.69,
+"lie4 chu1",
+"to list; to make a list"
+],
+[
+"生出",
+6.48,
+"sheng1 chu1",
+"to give birth; to grow (whiskers etc); to generate; to produce"
+],
+[
+"出土",
+6.33,
+"chu1 tu3",
+"to dig up; to appear in an excavation; unearthed; to come up out of the ground"
+],
+[
+"出征",
+6.31,
+"chu1 zheng1",
+"to go into battle; to campaign (military)"
+],
+[
+"爆出",
+5.85,
+"bao4 chu1",
+"to burst out; to appear unexpectedly; to break (media story)"
+],
+[
+"使出",
+5.29,
+"shi3 chu1",
+"to use; to exert"
+],
+[
+"日出",
+5.27,
+"ri4 chu1",
+"sunrise"
+],
+[
+"出人意料",
+5.25,
+"chu1 ren2 yi4 liao4",
+"unexpected (idiom); surprising"
 ]
 ],
 "strokes": [

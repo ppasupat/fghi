@@ -13,68 +13,7 @@
 "bow string; string of musical instruments"
 ]
 ],
-"extraWords": [
-[
-"和弦",
-20113,
-"he2 xian2",
-"chord (music)"
-],
-[
-"管弦乐",
-21178,
-"guan3 xian2 yue4",
-"orchestral music"
-],
-[
-"弦乐",
-22918,
-"xian2 yue4",
-"string music"
-],
-[
-"管弦乐队",
-23419,
-"guan3 xian2 yue4 dui4",
-"orchestra"
-],
-[
-"心弦",
-28711,
-"xin1 xian2",
-"heartstrings"
-],
-[
-"琴弦",
-29665,
-"qin2 xian2",
-"a string (of stringed instrument)"
-],
-[
-"扣人心弦",
-31202,
-"kou4 ren2 xin1 xian2",
-"to excite; to thrill; exciting; thrilling; cliff-hanging"
-],
-[
-"余弦",
-52629,
-"yu2 xian2",
-"\"cosine (of angle), written cos θ\""
-],
-[
-"正弦",
-55437,
-"zheng4 xian2",
-"\"sine (of angle), written sin θ\""
-],
-[
-"三弦",
-58377,
-"san1 xian2",
-"\"sanxian, large family of 3-stringed plucked musical instruments, with snakeskin covered wooden soundbox and long neck, used in folk music, opera and Chinese orchestra\""
-]
-],
+"extraWords": [],
 "strokes": [
 "M 364 565 Q 388 656 416 683 Q 440 710 416 724 Q 395 736 368 754 Q 347 766 298 734 Q 225 707 179 698 Q 167 698 169 691 Q 170 685 184 679 Q 203 669 238 680 Q 331 708 340 697 Q 347 690 336 651 Q 326 614 312 570 C 303 541 356 536 364 565 Z",
 "M 227 510 Q 234 511 241 512 Q 281 525 371 539 Q 381 540 381 549 Q 381 556 364 565 L 312 570 Q 309 570 308 569 Q 254 550 215 540 C 186 532 197 506 227 510 Z",

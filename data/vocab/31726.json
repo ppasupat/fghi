@@ -13,62 +13,7 @@
 "play basketball"
 ]
 ],
-"extraWords": [
-[
-"篮球",
-3034,
-"lan2 qiu2",
-"basketball"
-],
-[
-"篮",
-5662,
-"lan2",
-"basket; goal"
-],
-[
-"篮子",
-9065,
-"lan2 zi5",
-"basket"
-],
-[
-"投篮",
-9666,
-"tou2 lan2",
-"\"to throw at a basket; to shoot (in soccer, basketball etc)\""
-],
-[
-"摇篮",
-10772,
-"yao2 lan2",
-"cradle"
-],
-[
-"扣篮",
-18203,
-"kou4 lan2",
-"slam dunk"
-],
-[
-"篮球场",
-19196,
-"lan2 qiu2 chang3",
-"basketball court"
-],
-[
-"篮板",
-20546,
-"lan2 ban3",
-"backboard"
-],
-[
-"篮板球",
-28953,
-"lan2 ban3 qiu2",
-"rebound"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 340 712 Q 355 737 369 757 Q 376 769 364 780 Q 331 807 306 804 Q 296 803 298 789 Q 311 714 234 618 Q 221 609 197 574 Q 190 561 203 566 Q 216 567 236 584 Q 297 632 329 692 L 340 712 Z",
 "M 329 692 L 330 692 Q 366 673 414 685 Q 457 694 504 704 Q 523 708 527 712 Q 534 719 531 726 Q 524 736 499 742 Q 475 746 402 722 Q 372 716 340 712 C 310 708 301 703 329 692 Z",

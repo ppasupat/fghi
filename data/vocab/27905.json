@@ -25,68 +25,7 @@
 "clean; unpolluted; purity"
 ]
 ],
-"extraWords": [
-[
-"清洁工",
-6971,
-"qing1 jie2 gong1",
-"cleaner; janitor; garbage collector"
-],
-[
-"洁",
-8081,
-"jie2",
-"clean"
-],
-[
-"整洁",
-9936,
-"zheng3 jie2",
-"neatly; tidy"
-],
-[
-"圣洁",
-11312,
-"sheng4 jie2",
-"pure and holy"
-],
-[
-"清洁剂",
-13890,
-"qing1 jie2 ji4",
-"detergent; cleaning solution"
-],
-[
-"贞洁",
-14760,
-"zhen1 jie2",
-"chastity"
-],
-[
-"简洁",
-15003,
-"jian3 jie2",
-"concise; succinct; pithy"
-],
-[
-"洁净",
-18235,
-"jie2 jing4",
-"clean; to cleanse"
-],
-[
-"洁白",
-28158,
-"jie2 bai2",
-"spotlessly white; pure white"
-],
-[
-"保洁",
-29242,
-"bao3 jie2",
-"sanitation"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 214 697 Q 242 673 273 645 Q 288 632 305 633 Q 315 634 321 648 Q 325 664 315 695 Q 303 726 207 747 Q 191 750 184 747 Q 178 743 181 729 Q 185 719 214 697 Z",
 "M 121 497 Q 164 439 200 420 Q 216 416 227 429 Q 234 442 233 460 Q 221 512 139 536 L 138 537 Q 120 544 110 540 Q 103 539 105 526 Q 106 513 121 497 Z",

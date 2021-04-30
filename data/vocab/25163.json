@@ -154,63 +154,243 @@
 "extraWords": [
 [
 "手",
-251,
+714.11,
 "shou3",
-"hand; (formal) to hold; person engaged in certain types of work; person skilled in certain types of work; personal(ly); convenient"
+"hand; (formal) to hold; person engaged in certain types of work; person skilled in certain types of work; personal(ly); convenient; classifier for skill; CL:雙|双[shuang1],隻|只[zhi1]"
 ],
 [
-"杀手",
-1144,
-"sha1 shou3",
-"killer"
+"手段",
+99.89,
+"shou3 duan4",
+"method; means (of doing sth); strategy; trick; CL:個|个[ge4]"
 ],
 [
 "住手",
-1479,
+55.95,
 "zhu4 shou3",
 "to desist; to stop; to stay one's hand"
 ],
 [
-"手里",
-1704,
-"shou3 li3",
-"in hand; (a situation is) in sb's hands"
+"射手",
+53.24,
+"she4 shou3",
+"archer; shooter; marksman; (football etc) striker"
 ],
 [
 "歌手",
-1870,
+41.58,
 "ge1 shou3",
 "singer"
 ],
 [
-"放手",
-2213,
-"fang4 shou3",
-"let go; have a free hand; let go one's hold"
+"高手",
+35.81,
+"gao1 shou3",
+"expert; past master; dab hand"
 ],
 [
-"手段",
-2443,
-"shou3 duan4",
-"method; means (of doing sth); strategy; trick"
+"放手",
+33.33,
+"fang4 shou3",
+"to let go one's hold; to give up; to have a free hand"
+],
+[
+"出手",
+27.61,
+"chu1 shou3",
+"to dispose of; to spend (money); to undertake a task"
 ],
 [
 "手臂",
-2769,
+24.86,
 "shou3 bi4",
 "arm; helper"
 ],
 [
+"一手",
+23.86,
+"yi1 shou3",
+"a skill; mastery of a trade; by oneself; without outside help"
+],
+[
 "手下",
-2967,
+22.45,
 "shou3 xia4",
-"leadership; under one's control or administration; subordinates; to take action; to run out of money"
+"under one's control or administration; subordinates; (money etc) on hand; sb's financial means; to take action"
 ],
 [
 "下手",
-3203,
+20.24,
 "xia4 shou3",
-"start; put one's hand to; set about; the seat to the right of the main guest"
+"to start; to put one's hand to; to set about; the seat to the right of the main guest"
+],
+[
+"二手房",
+19.84,
+"er4 shou3 fang2",
+"second-hand house; house acquired indirectly through a middle-man"
+],
+[
+"右手",
+19.52,
+"you4 shou3",
+"right hand; right-hand side"
+],
+[
+"伸手",
+17.66,
+"shen1 shou3",
+"to reach out with one's hand; to hold out a hand; (fig.) to beg; to get involved; to meddle"
+],
+[
+"左手",
+16.59,
+"zuo3 shou3",
+"left hand; left-hand side"
+],
+[
+"接手",
+15.74,
+"jie1 shou3",
+"to take over (duties etc); catcher (baseball etc)"
+],
+[
+"入手",
+14.31,
+"ru4 shou3",
+"to begin; to set one's hand to"
+],
+[
+"插手",
+14.22,
+"cha1 shou3",
+"to get involved in; to meddle; interference"
+],
+[
+"到手",
+12.06,
+"dao4 shou3",
+"to take possession of; to get hold of"
+],
+[
+"手腕",
+11.03,
+"shou3 wan4",
+"wrist; trickery; finesse; ability; skill"
+],
+[
+"得手",
+10.08,
+"de2 shou3",
+"to go smoothly; to come off; to succeed"
+],
+[
+"二手",
+9.88,
+"er4 shou3",
+"indirectly acquired; second-hand (information, equipment etc); assistant"
+],
+[
+"人手",
+9.55,
+"ren2 shou3",
+"manpower; staff; human hand"
+],
+[
+"棘手",
+9.45,
+"ji2 shou3",
+"thorny (problem); intractable"
+],
+[
+"棋手",
+9.45,
+"qi2 shou3",
+"chess player"
+],
+[
+"拉手",
+9.07,
+"la1 shou3",
+"to hold hands; to shake hands"
+],
+[
+"拉手",
+9.07,
+"la1 shou5",
+"a handle; to pull on a handle"
+],
+[
+"水手",
+8.88,
+"shui3 shou3",
+"mariner; sailor; seaman"
+],
+[
+"手掌",
+8.67,
+"shou3 zhang3",
+"palm"
+],
+[
+"洗手",
+8.41,
+"xi3 shou3",
+"to wash one's hands; to go to the toilet"
+],
+[
+"空手",
+7.51,
+"kong1 shou3",
+"empty-handed; unarmed; (painting, embroidery etc) without following a model; (abbr. for 空手道[kong1 shou3 dao4]) karate"
+],
+[
+"新手",
+7.46,
+"xin1 shou3",
+"new hand; novice; raw recruit"
+],
+[
+"手感",
+7.12,
+"shou3 gan3",
+"the feel (of sth touched with the hand); (textiles) handle"
+],
+[
+"交手",
+6.89,
+"jiao1 shou3",
+"to fight hand to hand"
+],
+[
+"投手",
+6.05,
+"tou2 shou3",
+"thrower; pitcher; bowler"
+],
+[
+"一把手",
+5.64,
+"yi1 ba3 shou3",
+"working hand; member of a work team; participant; (short form of 第一把手[di4 yi1 ba3 shou3]) the boss"
+],
+[
+"手淫",
+5.6,
+"shou3 yin2",
+"to masturbate; masturbation"
+],
+[
+"身手",
+5.29,
+"shen1 shou3",
+"skill; talent; agility"
+],
+[
+"手心",
+5.21,
+"shou3 xin1",
+"palm (of one's hand); control (extended meaning from having something in the palm of one's hand)"
 ]
 ],
 "strokes": [

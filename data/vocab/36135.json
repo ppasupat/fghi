@@ -25,68 +25,7 @@
 "inflation"
 ]
 ],
-"extraWords": [
-[
-"货",
-1778,
-"huo4",
-"goods; money; commodity"
-],
-[
-"蠢货",
-2687,
-"chun3 huo4",
-"blockhead; idiot; dunce; moron; fool"
-],
-[
-"货车",
-3370,
-"huo4 che1",
-"van"
-],
-[
-"货物",
-6762,
-"huo4 wu4",
-"goods; commodity; merchandise"
-],
-[
-"杂货店",
-8128,
-"za2 huo4 dian4",
-"grocery store; emporium"
-],
-[
-"送货",
-8223,
-"song4 huo4",
-"to dispatch"
-],
-[
-"货运",
-11997,
-"huo4 yun4",
-"freight transport; cargo; transported goods"
-],
-[
-"存货",
-12767,
-"cun2 huo4",
-"stock"
-],
-[
-"冒牌货",
-13725,
-"mao4 pai2 huo4",
-"fake goods; imitation; forgery"
-],
-[
-"交货",
-14404,
-"jiao1 huo4",
-"to deliver goods"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 305 693 Q 359 754 382 769 Q 392 776 390 789 Q 389 801 367 825 Q 348 844 331 848 Q 315 849 318 829 Q 324 804 312 787 Q 251 687 110 565 Q 100 558 97 553 Q 93 544 105 544 Q 141 544 279 667 L 305 693 Z",
 "M 279 667 Q 295 628 273 524 Q 263 485 292 449 Q 292 448 294 446 Q 307 433 317 454 Q 329 487 328 524 Q 331 612 335 632 Q 341 656 305 693 C 284 715 269 695 279 667 Z",

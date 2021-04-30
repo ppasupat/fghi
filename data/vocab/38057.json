@@ -13,44 +13,7 @@
 "hook"
 ]
 ],
-"extraWords": [
-[
-"钩",
-6230,
-"gou1",
-"to entice; a hook"
-],
-[
-"鱼钩",
-24417,
-"yu2 gou1",
-"fish hook"
-],
-[
-"挂钩",
-26159,
-"gua4 gou1",
-"couple; link together"
-],
-[
-"吊钩",
-40296,
-"diao4 gou1",
-"suspended hook; hanging hook"
-],
-[
-"脱钩",
-56777,
-"tuo1 gou1",
-"to cut ties; to disconnect; out of touch"
-],
-[
-"搭钩",
-62915,
-"da1 gou1",
-"a hook; to make contact with sb"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 297 623 Q 357 725 378 744 Q 387 754 382 768 Q 378 781 350 804 Q 323 822 305 821 Q 286 820 294 798 Q 309 765 296 737 Q 259 644 200 557 Q 143 475 67 382 Q 57 372 54 366 Q 51 356 65 358 Q 119 367 280 597 L 297 623 Z",
 "M 280 597 Q 323 581 372 599 Q 403 608 437 618 Q 452 622 454 625 Q 461 634 456 641 Q 449 651 419 655 Q 397 658 333 632 Q 327 632 297 623 C 268 614 252 607 280 597 Z",

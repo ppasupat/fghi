@@ -73,68 +73,7 @@
 "target; norm; index; indicator"
 ]
 ],
-"extraWords": [
-[
-"标",
-4905,
-"biao1",
-"the topmost branches of a tree; surface; sign; to mark; (outward) sign; indication; prize; award; bid"
-],
-[
-"标签",
-5313,
-"biao1 qian1",
-"label; tag"
-],
-[
-"坐标",
-6114,
-"zuo4 biao1",
-"coordinate (geom.); also written 座标"
-],
-[
-"锦标赛",
-7460,
-"jin3 biao1 sai4",
-"championship contest; championships"
-],
-[
-"标语",
-10005,
-"biao1 yu3",
-"slogan; poster"
-],
-[
-"标识",
-11668,
-"biao1 zhi4",
-"mark"
-],
-[
-"国标舞",
-12839,
-"guo2 biao1 wu3",
-"international standard ballroom dancing"
-],
-[
-"投标",
-15249,
-"tou2 biao1",
-"to submit a bid"
-],
-[
-"浮标",
-16656,
-"fu2 biao1",
-"buoy"
-],
-[
-"路标",
-16695,
-"lu4 biao1",
-"a roadsign"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 332 531 Q 423 561 425 563 Q 434 572 428 580 Q 421 592 390 597 Q 360 601 334 588 L 286 568 Q 193 537 119 523 Q 82 514 110 499 Q 155 480 210 496 Q 238 505 273 513 L 332 531 Z",
 "M 330 470 Q 330 500 332 531 L 334 588 Q 335 679 354 739 Q 363 755 360 768 Q 353 778 298 813 Q 274 831 253 815 Q 249 811 254 794 Q 285 748 286 699 Q 286 638 286 568 L 282 408 Q 273 207 273 202 Q 266 159 253 117 Q 243 78 267 15 Q 274 -4 282 -7 Q 288 -14 296 -5 Q 323 11 324 77 Q 323 117 329 432 L 330 470 Z",

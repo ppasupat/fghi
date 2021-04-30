@@ -6,38 +6,7 @@
 "pron": "chǎn"
 },
 "words": [],
-"extraWords": [
-[
-"铲子",
-8092,
-"chan3 zi5",
-"shovel; spade; trowel; spatula (kitchen utensil)"
-],
-[
-"铲",
-8257,
-"chan3",
-"level off; root up; spade; shovel"
-],
-[
-"铲除",
-11359,
-"chan3 chu2",
-"to root out; to eradicate; to sweep away; to abolish"
-],
-[
-"铲车",
-41801,
-"chan3 che1",
-"forklift truck"
-],
-[
-"铲土机",
-57699,
-"chan3 tu3 ji1",
-"earth-moving machine; mechanical digger"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 187 499 Q 230 553 278 625 L 297 656 Q 315 702 354 741 Q 364 751 359 765 Q 355 778 326 799 Q 299 818 281 817 Q 262 816 270 793 Q 285 762 273 735 Q 237 644 181 561 Q 129 479 54 391 Q 44 381 42 374 Q 39 364 53 366 Q 83 370 172 480 L 187 499 Z",
 "M 278 625 Q 320 613 361 628 Q 395 637 431 646 Q 447 650 449 653 Q 456 660 452 669 Q 445 679 415 684 Q 387 688 358 674 Q 354 674 297 656 C 268 647 249 633 278 625 Z",

@@ -67,68 +67,7 @@
 "approve; accept; ratify"
 ]
 ],
-"extraWords": [
-[
-"认",
-2080,
-"ren4",
-"to recognize; to know; to admit"
-],
-[
-"认出",
-2671,
-"ren4 chu1",
-"recognition; to recognize"
-],
-[
-"认罪",
-4358,
-"ren4 zui4",
-"to admit guilt; to plead guilty"
-],
-[
-"认得",
-5114,
-"ren4 de5",
-"to recognize; to remember sth (or sb) on seeing it; to know"
-],
-[
-"认同",
-6571,
-"ren4 tong2",
-"identify; approve; acknowledge"
-],
-[
-"认输",
-7561,
-"ren4 shu1",
-"to concede; to admit defeat"
-],
-[
-"认错",
-9138,
-"ren4 cuo4",
-"to admit an error; to acknowledge one's mistake"
-],
-[
-"认知",
-9641,
-"ren4 zhi1",
-"cognition; to acknowledge"
-],
-[
-"认证",
-11918,
-"ren4 zheng4",
-"to authenticate; to approve"
-],
-[
-"认清",
-12625,
-"ren4 qing1",
-"to see clearly; to recognize"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 278 734 Q 309 709 343 678 Q 359 665 375 665 Q 387 666 392 680 Q 398 696 387 729 Q 380 751 345 767 Q 263 795 248 787 Q 242 783 244 769 Q 248 756 278 734 Z",
 "M 127 476 Q 75 463 47 461 Q 32 462 29 454 Q 25 447 36 438 Q 73 413 112 424 Q 241 476 252 473 Q 253 473 255 471 Q 265 464 258 436 Q 252 256 215 146 Q 196 115 237 60 Q 247 47 258 53 Q 267 60 279 84 Q 321 130 407 208 Q 420 218 418 226 Q 417 235 405 226 Q 366 207 327 182 Q 272 142 285 207 Q 286 271 313 427 Q 317 452 342 475 Q 355 485 345 498 Q 335 514 295 534 Q 283 541 265 530 Q 177 488 127 476 Z",

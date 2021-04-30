@@ -49,68 +49,7 @@
 "restrict; condition"
 ]
 ],
-"extraWords": [
-[
-"纽约",
-694,
-"Niu3 Yue1",
-"New York"
-],
-[
-"约",
-1037,
-"yao1/yue1",
-"weigh; appointment; agreement; to arrange; to restrict; approximately"
-],
-[
-"约翰",
-1397,
-"Yue1 han4",
-"John (name); Johan (name); Johann (name)"
-],
-[
-"预约",
-3249,
-"yu4 yue1",
-"reservation; reserve"
-],
-[
-"约定",
-4458,
-"yue1 ding4",
-"\"to agree on sth (after discussion); to conclude a bargain; to arrange; to promise; to stipulate; to make an appointment; stipulated (time, amount, quality etc); an arrangement; a deal; appointment; undertaking; commitment; understanding; engagement; stipulation\""
-],
-[
-"合约",
-4471,
-"he2 yue1",
-"treaty; contract"
-],
-[
-"契约",
-6445,
-"qi4 yue1",
-"agreement; contract"
-],
-[
-"约瑟夫",
-6522,
-"Yue1 se4 fu1",
-"Joseph (Biblical name)"
-],
-[
-"签约",
-6807,
-"qian1 yue1",
-"to sign up (a recruit)"
-],
-[
-"约翰逊",
-7181,
-"Yue1 han4 xun4",
-"Johnson or Johnston (name)"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 344 487 Q 295 490 253 492 Q 211 493 234 518 Q 297 624 357 703 Q 372 721 369 729 Q 366 744 326 775 Q 310 788 290 785 Q 278 782 285 766 Q 303 724 221 572 Q 205 538 167 504 Q 148 491 149 478 Q 153 459 167 440 Q 177 428 190 435 Q 217 450 326 462 C 356 465 374 485 344 487 Z",
 "M 326 462 Q 218 318 199 309 Q 186 300 189 286 Q 190 273 216 254 Q 226 242 241 255 Q 308 300 418 336 Q 437 340 439 349 Q 442 359 422 356 Q 361 346 286 323 Q 258 313 276 337 Q 319 401 426 531 Q 454 568 478 589 Q 490 599 484 609 Q 474 628 440 646 Q 424 655 415 653 Q 405 649 408 634 Q 411 591 345 488 Q 344 488 344 487 L 326 462 Z",

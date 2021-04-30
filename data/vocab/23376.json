@@ -357,64 +357,472 @@
 ],
 "extraWords": [
 [
+"子",
+251.63,
+"zi3",
+"son; child; seed; egg; small thing; 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat; Viscount, fourth of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]; ancient Chinese compass point: 0° (north)"
+],
+[
+"子",
+251.63,
+"zi5",
+"(noun suffix)"
+],
+[
 "房子",
-417,
+245.12,
 "fang2 zi5",
-"house; building (single- or two-story); apartment; room"
+"house; building (single- or two-story); apartment; room; CL:棟|栋[dong4],幢[zhuang4],座[zuo4],套[tao4],間|间[jian1]"
 ],
 [
 "案子",
-524,
+191.17,
 "an4 zi5",
 "long table; counter; case; law case; legal case; judicial case"
 ],
 [
 "小子",
-666,
-"xiao3 zi5",
-"boy; young fellow; (derog.) chap"
+143.62,
+"xiao3 zi3",
+"(literary) youngster; (old) young fellow (term of address used by the older generation); (old) I, me (used in speaking to one's elders)"
 ],
 [
-"子",
-787,
-"zi3",
-"\"son; child; seed; egg; small thing; 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat; Viscount, fourth of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]; (noun suffix)\""
+"小子",
+143.62,
+"xiao3 zi5",
+"(coll.) boy; (derog.) joker; guy; (despicable) fellow"
+],
+[
+"男子",
+113.72,
+"nan2 zi3",
+"a man; a male"
+],
+[
+"女子",
+93.29,
+"nu:3 zi3",
+"woman; female"
 ],
 [
 "婊子",
-1059,
+84.33,
 "biao3 zi5",
 "prostitute; whore"
 ],
 [
-"脑子",
-1210,
-"nao3 zi5",
-"brains; mind"
-],
-[
-"疯子",
-1331,
-"feng1 zi5",
-"madman; lunatic"
+"分子",
+58.55,
+"fen1 zi3",
+"molecule; (math) numerator of a fraction"
 ],
 [
 "分子",
-1646,
+58.55,
 "fen4 zi3",
-"molecule; (math) numerator of a fraction; members of a class or group; political elements (such as intellectuals or extremists); part"
+"members of a class or group; political elements (such as intellectuals or extremists); part"
 ],
 [
 "箱子",
-1766,
+44.86,
 "xiang1 zi5",
-"suitcase; chest; box; case; trunk"
+"suitcase; chest; box; case; trunk; CL:隻|只[zhi1],個|个[ge4]"
 ],
 [
-"骗子",
-1777,
+"女孩子",
+38.31,
+"nu:3 hai2 zi5",
+"girl"
+],
+[
+"鞋子",
+35.26,
+"xie2 zi5",
+"shoe"
+],
+[
+"一下子",
+31.5,
+"yi1 xia4 zi5",
+"in a short while; all at once; all of a sudden"
+],
+[
+"子女",
+31.49,
+"zi3 nu:3",
+"children; sons and daughters"
+],
+[
+"老子",
+31.22,
+"Lao3 zi3",
+"Laozi or Lao-tze (c. 500 BC), Chinese philosopher, the founder of Taoism; the sacred book of Daoism, 道德經|道德经[Dao4 de2 jing1] by Laozi"
+],
+[
+"老子",
+31.22,
+"lao3 zi5",
+"father; daddy; \"I, your father\" (in anger, or out of contempt); I (used arrogantly or jocularly)"
+],
+[
+"袋子",
+23.76,
+"dai4 zi5",
+"bag"
+],
+[
+"傻子",
+22.83,
+"sha3 zi5",
+"idiot; fool"
+],
+[
+"因子",
+22.72,
+"yin1 zi3",
+"factor; (genetic) trait; (math.) factor; divisor"
+],
+[
+"胖子",
+20.19,
+"pang4 zi5",
+"fat person; fatty"
+],
+[
+"弟子",
+20.06,
+"di4 zi3",
+"disciple; follower"
+],
+[
+"例子",
+19.9,
+"li4 zi5",
+"case; (for) instance; example; CL:個|个[ge4]"
+],
+[
+"位子",
+19.32,
+"wei4 zi5",
+"place; seat"
+],
+[
+"小孩子",
+18.87,
+"xiao3 hai2 zi5",
+"child"
+],
+[
+"妹子",
+18.17,
+"mei4 zi5",
+"(dialect) younger sister; girl"
+],
+[
+"片子",
+16.9,
+"pian1 zi5",
+"film; movie; film reel; phonograph record; X-ray image"
+],
+[
+"片子",
+16.9,
 "pian4 zi5",
-"swindler; a cheat"
+"thin flake; small piece"
+],
+[
+"牌子",
+15.77,
+"pai2 zi5",
+"sign; trademark; brand"
+],
+[
+"子公司",
+15.73,
+"zi3 gong1 si1",
+"subsidiary company; subsidiary corporation"
+],
+[
+"靴子",
+14.31,
+"xue1 zi5",
+"boots"
+],
+[
+"公子",
+13.83,
+"gong1 zi3",
+"son of an official; son of nobility; your son (honorific)"
+],
+[
+"村子",
+13.47,
+"cun1 zi5",
+"village"
+],
+[
+"金子",
+12.67,
+"Jin1 zi3",
+"Kaneko (Japanese surname)"
+],
+[
+"金子",
+12.67,
+"jin1 zi5",
+"gold"
+],
+[
+"太子",
+12.28,
+"tai4 zi3",
+"crown prince"
+],
+[
+"院子",
+11.33,
+"yuan4 zi5",
+"courtyard; garden; yard; patio; CL:個|个[ge4]; (old) servant"
+],
+[
+"孔子",
+10.9,
+"Kong3 zi3",
+"Confucius (551-479 BC), Chinese thinker and social philosopher, also known as 孔夫子[Kong3 fu1 zi3]"
+],
+[
+"毯子",
+10.82,
+"tan3 zi5",
+"blanket; CL:條|条[tiao2],張|张[zhang1],床[chuang2],面[mian4]"
+],
+[
+"帖子",
+10.8,
+"tie3 zi5",
+"card; invitation; message; (forum) post"
+],
+[
+"罐子",
+10.76,
+"guan4 zi5",
+"jar; pitcher; pot"
+],
+[
+"班子",
+10.64,
+"ban1 zi5",
+"organized group; theatrical troupe"
+],
+[
+"刀子",
+10.46,
+"dao1 zi5",
+"knife; CL:把[ba3]"
+],
+[
+"父子",
+10.45,
+"fu4 zi3",
+"father and son"
+],
+[
+"圈子",
+9.54,
+"quan1 zi5",
+"circle; ring; (social) circle"
+],
+[
+"份子",
+9.45,
+"fen4 zi3",
+"variant of 分子[fen4 zi3] (used in Taiwan but not in mainland China)"
+],
+[
+"份子",
+9.45,
+"fen4 zi5",
+"one's share of a gift price"
+],
+[
+"好日子",
+9.36,
+"hao3 ri4 zi5",
+"auspicious day; good day; happy life"
+],
+[
+"法子",
+9.3,
+"fa3 zi5",
+"way; method; Taiwan pr. [fa2 zi5]"
+],
+[
+"豆子",
+8.82,
+"dou4 zi5",
+"bean; pea; CL:顆|颗[ke1]"
+],
+[
+"男孩子",
+8.79,
+"nan2 hai2 zi5",
+"boy"
+],
+[
+"精子",
+8.67,
+"jing1 zi3",
+"sperm; spermatozoon"
+],
+[
+"身子",
+8.53,
+"shen1 zi5",
+"body; pregnancy; health"
+],
+[
+"架子",
+8.5,
+"jia4 zi5",
+"shelf; frame; stand; framework; airs; arrogance"
+],
+[
+"蚊子",
+8.29,
+"wen2 zi5",
+"mosquito"
+],
+[
+"棍子",
+8.02,
+"gun4 zi5",
+"stick; rod"
+],
+[
+"沙子",
+7.96,
+"sha1 zi5",
+"sand; grit; CL:粒[li4],把[ba3]"
+],
+[
+"原子",
+7.92,
+"yuan2 zi3",
+"atom; atomic"
+],
+[
+"鬼子",
+7.27,
+"gui3 zi5",
+"devils; refers to 日本鬼子, wartime term insult for Japanese"
+],
+[
+"子弟",
+7.24,
+"zi3 di4",
+"child; the younger generation"
+],
+[
+"丸子",
+7.08,
+"wan2 zi5",
+"pills; balls; meatballs"
+],
+[
+"梯子",
+7.04,
+"ti1 zi5",
+"ladder; stepladder"
+],
+[
+"路子",
+6.97,
+"lu4 zi5",
+"method; way; approach"
+],
+[
+"原子能",
+6.66,
+"yuan2 zi3 neng2",
+"atomic energy"
+],
+[
+"爪子",
+6.44,
+"zhua3 zi5",
+"(animal's) claw"
+],
+[
+"呆子",
+6.29,
+"dai1 zi5",
+"fool; sucker"
+],
+[
+"母子",
+6.14,
+"mu3 zi3",
+"mother and child; parent and subsidiary (companies); principal and interest"
+],
+[
+"格子",
+6.09,
+"ge2 zi5",
+"lattice; check (pattern of squares)"
+],
+[
+"天子",
+6.09,
+"tian1 zi3",
+"the (rightful) emperor; \"Son of Heaven\" (traditional English translation)"
+],
+[
+"耗子",
+5.99,
+"hao4 zi5",
+"(dialect) mouse; rat"
+],
+[
+"松子",
+5.78,
+"song1 zi3",
+"pine nut"
+],
+[
+"章子怡",
+5.67,
+"Zhang1 Zi3 yi2",
+"Zhang Ziyi (1979-), PRC actress"
+],
+[
+"茄子",
+5.67,
+"qie2 zi5",
+"eggplant (Solanum melongena L.); aubergine; brinjal; Guinea squash; phonetic \"cheese\" (when being photographed); equivalent of \"say cheese\""
+],
+[
+"橘子",
+5.66,
+"ju2 zi5",
+"tangerine; CL:個|个[ge4],瓣[ban4]"
+],
+[
+"窗子",
+5.6,
+"chuang1 zi5",
+"window"
+],
+[
+"瞎子",
+5.54,
+"xia1 zi5",
+"blind person"
+],
+[
+"柚子",
+5.26,
+"you4 zi5",
+"pomelo (Citrus maxima or C. grandis); shaddock; oriental grapefruit"
 ]
 ],
 "strokes": [

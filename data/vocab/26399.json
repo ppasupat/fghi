@@ -94,63 +94,207 @@
 "extraWords": [
 [
 "期",
-2258,
-"ji1/qi1",
-"\"a period of time; phase; stage; (used for issue of a periodical, courses of study); time; term; period; to hope; Taiwan pr. qi2\""
+182.54,
+"qi1",
+"a period of time; phase; stage; classifier for issues of a periodical, courses of study; time; term; period; to hope; Taiwan pr. [qi2]"
+],
+[
+"近期",
+83.08,
+"jin4 qi1",
+"near in time; in the near future; very soon; recent"
+],
+[
+"同期",
+62.28,
+"tong2 qi1",
+"the corresponding time period (in a different year etc); concurrent; synchronous"
+],
+[
+"短期",
+55.44,
+"duan3 qi1",
+"short term; short-term"
+],
+[
+"早期",
+34.63,
+"zao3 qi1",
+"early period; early phase; early stage"
+],
+[
+"前期",
+33.66,
+"qian2 qi1",
+"preceding period; early stage"
+],
+[
+"中期",
+25.14,
+"zhong1 qi1",
+"middle (of a period of time); medium-term (plan, forecast etc)"
+],
+[
+"初期",
+22.11,
+"chu1 qi1",
+"initial stage; beginning period"
 ],
 [
 "假期",
-3596,
+19.27,
 "jia4 qi1",
 "vacation"
 ],
 [
+"本期",
+16.65,
+"ben3 qi1",
+"the current period; this term (usually in finance)"
+],
+[
 "星期五",
-3824,
-"xing1 qi1 wu3",
+16.07,
+"Xing1 qi1 wu3",
 "Friday"
 ],
 [
 "星期六",
-3985,
-"xing1 qi1 liu4",
+15.29,
+"Xing1 qi1 liu4",
 "Saturday"
 ],
 [
 "星期天",
-4234,
-"xing1 qi1 tian1",
-"Sunday"
+13.95,
+"Xing1 qi1 tian1",
+"Sunday; CL:個|个[ge4]"
 ],
 [
-"长期",
-4833,
-"chang2 qi1",
-"long term; long time"
+"到期",
+13.75,
+"dao4 qi1",
+"to fall due (loan etc); to expire (visa etc); to mature (investment bond etc)"
+],
+[
+"有期徒刑",
+13.13,
+"you3 qi1 tu2 xing2",
+"limited term of imprisonment (i.e. anything less than life imprisonment)"
 ],
 [
 "星期一",
-4885,
-"xing1 qi1 yi1",
+11.39,
+"Xing1 qi1 yi1",
 "Monday"
 ],
 [
+"期盼",
+10.15,
+"qi1 pan4",
+"hope and expectation; to anticipate; to look forward to; to await expectantly"
+],
+[
+"晚期",
+9.24,
+"wan3 qi1",
+"later period; end stage; terminal"
+],
+[
 "星期二",
-5767,
-"xing1 qi1 er4",
+8.88,
+"Xing1 qi1 er4",
 "Tuesday"
 ],
 [
+"期刊",
+8.64,
+"qi1 kan1",
+"periodical"
+],
+[
 "星期三",
-5893,
-"xing1 qi1 san1",
+8.59,
+"Xing1 qi1 san1",
 "Wednesday"
 ],
 [
+"任期",
+8.43,
+"ren4 qi1",
+"term of office; CL:屆|届[jie4]; tenure (entire period in office)"
+],
+[
 "星期四",
-6101,
-"xing1 qi1 si4",
+8.17,
+"Xing1 qi1 si4",
 "Thursday"
+],
+[
+"限期",
+7.87,
+"xian4 qi1",
+"to set a time limit; time limit; deadline"
+],
+[
+"如期",
+7.25,
+"ru2 qi1",
+"as scheduled; on time; punctual"
+],
+[
+"分期",
+7.24,
+"fen1 qi1",
+"by stages; staggered; step by step; in installments"
+],
+[
+"逾期",
+7.17,
+"yu2 qi1",
+"to be overdue; to fail to meet a deadline; to be behind in doing sth"
+],
+[
+"高峰期",
+6.89,
+"gao1 feng1 qi1",
+"peak period; rush hour"
+],
+[
+"上星期",
+5.99,
+"shang4 xing1 qi1",
+"last week; previous week"
+],
+[
+"有效期",
+5.89,
+"you3 xiao4 qi1",
+"period of validity; sell-by date"
+],
+[
+"暑期",
+5.53,
+"shu3 qi1",
+"summer vacation time"
+],
+[
+"星期日",
+5.45,
+"Xing1 qi1 ri4",
+"Sunday; CL:個|个[ge4]"
+],
+[
+"青春期",
+5.4,
+"qing1 chun1 qi1",
+"puberty; adolescence"
+],
+[
+"下星期",
+5.04,
+"xia4 xing1 qi1",
+"next week"
 ]
 ],
 "strokes": [

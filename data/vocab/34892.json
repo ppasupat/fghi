@@ -160,63 +160,231 @@
 "extraWords": [
 [
 "不行",
-610,
+160.64,
 "bu4 xing2",
 "won't do; be out of the question; be no good; not work; not be capable"
 ],
 [
-"飞行",
-2323,
-"fei1 xing2",
-"aviation; flying"
+"行情",
+47.18,
+"hang2 qing2",
+"market price; quotation of market price; the current market situation"
+],
+[
+"央行",
+44.95,
+"Yang1 hang2",
+"abbr. for various central banks, notably 中國人民銀行|中国人民银行[Zhong1 guo2 Ren2 min2 Yin2 hang2] and 中央銀行|中央银行[Zhong1 yang1 Yin2 hang2]"
+],
+[
+"央行",
+44.95,
+"yang1 hang2",
+"central bank"
+],
+[
+"推行",
+32.19,
+"tui1 xing2",
+"to put into effect; to carry out"
 ],
 [
 "行李",
-2466,
+29.12,
 "xing2 li5",
-"luggage"
+"luggage; CL:件[jian4]"
+],
+[
+"自行",
+25.94,
+"zi4 xing2",
+"voluntary; autonomous; by oneself; self-"
+],
+[
+"一行",
+23.36,
+"yi1 xing2",
+"party; delegation"
+],
+[
+"同行",
+21.55,
+"tong2 hang2",
+"person of the same profession; of the same trade, occupation or industry"
+],
+[
+"同行",
+21.55,
+"tong2 xing2",
+"to journey together"
+],
+[
+"排行",
+21.29,
+"pai2 hang2",
+"to rank; ranking; seniority (among siblings)"
 ],
 [
 "行事",
-3379,
+18.93,
 "xing2 shi4",
 "to execute; to handle; behavior; action; conduct"
 ],
 [
-"飞行员",
-3484,
-"fei1 xing2 yuan2",
-"pilot; aviator"
+"行使",
+18.37,
+"xing2 shi3",
+"to exercise (a right etc)"
+],
+[
+"出行",
+18.16,
+"chu1 xing2",
+"to go out somewhere (relatively short trip); to set off on a journey (longer trip)"
+],
+[
+"行走",
+18.04,
+"xing2 zou3",
+"to walk"
 ],
 [
 "罪行",
-3582,
+17.5,
 "zui4 xing2",
 "crime; offense"
 ],
 [
-"游行",
-3949,
-"you2 xing2",
-"march; parade; demonstration"
+"旅行社",
+17.09,
+"lu:3 xing2 she4",
+"travel agency"
+],
+[
+"行程",
+14.53,
+"xing2 cheng2",
+"journey; course of a journey; distance traveled; trajectory; itinerary; route; course (of history); stroke (of a piston); (Tw) (computing) process"
+],
+[
+"通行",
+14.42,
+"tong1 xing2",
+"to go through; to pass through; to be in general use"
+],
+[
+"施行",
+12.47,
+"shi1 xing2",
+"to put in place; to put into practice; to take effect"
+],
+[
+"先行",
+12.08,
+"xian1 xing2",
+"to precede others; in advance"
+],
+[
+"上行",
+11.35,
+"shang4 xing2",
+"(of trains) up (i.e. towards the capital); (of river boats) to go against the current; to submit (a document) to higher authorities"
+],
+[
+"不行了",
+11.04,
+"bu4 xing2 le5",
+"(coll.) on the point of death; dying"
+],
+[
+"建行",
+10.4,
+"Jian4 hang2",
+"China Construction Bank (abbr.)"
 ],
 [
 "行星",
-5199,
+10.31,
 "xing2 xing1",
-"planet"
+"planet; CL:顆|颗[ke1]"
 ],
 [
-"行踪",
-5642,
-"xing2 zong1",
-"whereabouts; (lose) track (of)"
+"前行",
+9.97,
+"qian2 xing2",
+"(literary) to go forward"
+],
+[
+"中行",
+9.28,
+"Zhong1 hang2",
+"abbr. for 中國銀行|中国银行[Zhong1 guo2 Yin2 hang2]"
+],
+[
+"步行",
+9.22,
+"bu4 xing2",
+"to go on foot; to walk"
 ],
 [
 "行不通",
-5730,
+8.97,
 "xing2 bu5 tong1",
 "won't work; will get (you) nowhere"
+],
+[
+"下行",
+8.16,
+"xia4 xing2",
+"(of trains) down (i.e. away from the capital); (of river boats) to travel downstream; to issue (a document) to lower bureaucratic levels; (of writing on the page) vertical, proceeding from top to bottom"
+],
+[
+"分行",
+7.64,
+"fen1 hang2",
+"branch of bank or store; subsidiary bank"
+],
+[
+"支行",
+6.19,
+"zhi1 hang2",
+"subbranch of a bank"
+],
+[
+"可行性",
+6.16,
+"ke3 xing2 xing4",
+"feasibility"
+],
+[
+"言行",
+5.73,
+"yan2 xing2",
+"words and actions; what one says and what one does"
+],
+[
+"人行道",
+5.48,
+"ren2 xing2 dao4",
+"sidewalk"
+],
+[
+"例行",
+5.46,
+"li4 xing2",
+"routine (task, procedure etc); as usual"
+],
+[
+"修行",
+5.41,
+"xiu1 xing2",
+"to devote oneself to spiritual development (esp. Buddhism or Daoism); to devote oneself to perfecting one's art or craft"
+],
+[
+"五行",
+5.08,
+"wu3 xing2",
+"five phases of Chinese philosophy: wood 木, fire 火, earth 土, metal 金, water 水"
 ]
 ],
 "strokes": [

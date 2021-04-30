@@ -13,68 +13,7 @@
 "Chinese language"
 ]
 ],
-"extraWords": [
-[
-"汉堡",
-3130,
-"Han4 bao3",
-"Hamburg (German city); (loan.) hamburger"
-],
-[
-"汉",
-4199,
-"han4",
-"Chinese; the Han dynasty (206 BC-220 AD)"
-],
-[
-"汉城",
-5300,
-"Han4 cheng2",
-"Seoul (old name for capital of South Korea)"
-],
-[
-"流浪汉",
-5535,
-"liu2 lang4 han4",
-"tramp; wanderer"
-],
-[
-"男子汉",
-6703,
-"nan2 zi3 han4",
-"\"man (i.e. manly, masculine)\""
-],
-[
-"汉堡包",
-6970,
-"han4 bao3 bao1",
-"hamburger"
-],
-[
-"单身汉",
-9078,
-"dan1 shen1 han4",
-"bachelor; unmarried man"
-],
-[
-"汉斯",
-12863,
-"Han4 si1",
-"Hans (name)"
-],
-[
-"醉汉",
-16882,
-"zui4 han4",
-"a drunkard"
-],
-[
-"好汉",
-17565,
-"hao3 han4",
-"hero; strong and courageous person"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 256 721 Q 281 699 309 673 Q 325 658 343 660 Q 355 661 360 676 Q 364 694 354 727 Q 342 758 249 775 Q 231 779 224 775 Q 218 771 221 756 Q 225 743 256 721 Z",
 "M 140 542 Q 195 482 229 469 Q 245 466 255 481 Q 261 494 258 512 Q 246 557 155 583 Q 154 584 153 584 Q 135 588 125 585 Q 118 584 122 570 Q 123 557 140 542 Z",

@@ -13,68 +13,7 @@
 "tumor; neoplasm"
 ]
 ],
-"extraWords": [
-[
-"肿",
-6481,
-"zhong3",
-"swollen"
-],
-[
-"肿胀",
-12711,
-"zhong3 zhang4",
-"swelling; oedema; internal bruising"
-],
-[
-"肿块",
-13681,
-"zhong3 kuai4",
-"swelling; growth; tumor; lump"
-],
-[
-"囊肿",
-16431,
-"nang2 zhong3",
-"cyst (med.)"
-],
-[
-"血肿",
-21226,
-"xue4 zhong3",
-"hematoma; swelling of soft tissue due to internal hemorrage"
-],
-[
-"肺水肿",
-23089,
-"fei4 shui3 zhong3",
-"pulmonary edema"
-],
-[
-"浮肿",
-24737,
-"fu2 zhong3",
-"edema (accumulation of interstitial fluids in internal organs); dropsy"
-],
-[
-"臃肿",
-25810,
-"yong1 zhong3",
-"\"lit. overweight, so unable to move; fig. (of an organization) oversized or overstaffed, so unable to function properly\""
-],
-[
-"水肿",
-26872,
-"shui3 zhong3",
-"(med.) edema; dropsy"
-],
-[
-"鼻青脸肿",
-27756,
-"bi2 qing1 lian3 zhong3",
-"a bloody nose and a swollen face; badly battered"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 216 394 Q 222 418 229 512 L 230 543 Q 231 573 232 655 Q 235 694 238 697 C 241 715 241 715 223 726 Q 181 754 159 745 Q 149 738 156 725 Q 172 704 180 650 Q 180 434 164 350 Q 160 328 154 306 Q 129 209 56 69 Q 52 62 51 57 Q 50 47 59 50 Q 77 53 106 104 Q 178 198 210 361 L 216 394 Z",
 "M 238 697 Q 257 701 312 718 Q 331 722 336 713 Q 351 673 352 389 Q 352 163 336 136 Q 332 130 311 135 Q 289 136 267 140 Q 248 144 249 135 Q 301 95 331 64 Q 344 46 359 42 Q 368 39 376 48 Q 409 96 409 173 Q 388 539 398 668 Q 401 690 408 702 Q 420 721 408 731 Q 387 747 353 762 Q 335 769 321 762 Q 284 741 223 726 C 194 718 209 690 238 697 Z",

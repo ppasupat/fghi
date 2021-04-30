@@ -13,56 +13,7 @@
 "emotion; sentiment; mood; morale"
 ]
 ],
-"extraWords": [
-[
-"头绪",
-4822,
-"tou2 xu4",
-"outline; main threads"
-],
-[
-"就绪",
-5295,
-"jiu4 xu4",
-"ready; in order"
-],
-[
-"情绪化",
-8981,
-"qing2 xu4 hua4",
-"emotional; sentimental"
-],
-[
-"思绪",
-9993,
-"si1 xu4",
-"train of thought; emotional state; mood; feeling"
-],
-[
-"绪",
-31524,
-"xu4",
-"beginnings; clues; mental state; thread"
-],
-[
-"心绪",
-34351,
-"xin1 xu4",
-"state of mind; mood"
-],
-[
-"千头万绪",
-42438,
-"qian1 tou2 wan4 xu4",
-"plethora of things to tackle; multitude of loose ends; very complicated; chaotic"
-],
-[
-"愁绪",
-62508,
-"chou2 xu4",
-"melancholy"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 300 477 Q 251 477 211 477 Q 177 477 195 498 Q 262 610 328 695 Q 341 711 339 719 Q 336 732 299 762 Q 284 775 266 772 Q 256 769 261 754 Q 279 715 191 557 Q 172 521 133 486 Q 115 473 117 461 Q 121 443 134 426 Q 144 416 156 422 Q 181 435 265 451 Q 272 452 281 452 C 311 454 330 477 300 477 Z",
 "M 281 452 Q 182 325 154 309 Q 141 300 144 287 Q 145 275 169 256 Q 179 246 193 256 Q 256 301 359 336 Q 377 340 379 349 Q 382 359 363 355 Q 305 345 235 323 Q 214 316 227 332 Q 269 387 367 497 Q 395 531 419 551 Q 431 560 426 569 Q 416 588 386 606 Q 371 616 362 613 Q 352 612 354 596 Q 357 560 300 477 L 281 452 Z",

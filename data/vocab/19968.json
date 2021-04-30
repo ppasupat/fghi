@@ -195,64 +195,304 @@
 ],
 "extraWords": [
 [
-"一个",
-43,
-"yi1 ge4",
-"a; an"
-],
-[
-"一点",
-202,
-"yi1 dian3",
-"a bit; a little; one dot; one point"
-],
-[
 "一些",
-231,
+623.5,
 "yi1 xie1",
-"some; a few; a little"
+"some; a few; a little; (following an adjective) slightly ...er"
 ],
 [
 "之一",
-1034,
+168.35,
 "zhi1 yi1",
-"\"one of (sth); one out of a multitude; one (third, quarter, percent etc)\""
+"one of (sth); one out of a multitude; one (third, quarter, percent etc)"
+],
+[
+"第一次",
+134.88,
+"di4 yi1 ci4",
+"the first time; first; number one"
 ],
 [
 "一半",
-1116,
+78.49,
 "yi1 ban4",
 "half"
 ],
 [
 "一生",
-1190,
+72.65,
 "yi1 sheng1",
 "all one's life; throughout one's life"
 ],
 [
+"一部分",
+67.75,
+"yi1 bu4 fen5",
+"portion; part of; subset"
+],
+[
+"一系列",
+65.76,
+"yi1 xi4 lie4",
+"a series of; a string of"
+],
+[
+"一方面",
+55.09,
+"yi1 fang1 mian4",
+"on the one hand"
+],
+[
+"一眼",
+54.42,
+"yi1 yan3",
+"a glance; a quick look; a glimpse"
+],
+[
+"同一",
+53.05,
+"tong2 yi1",
+"identical; the same"
+],
+[
+"一面",
+52.21,
+"yi1 mian4",
+"one side; one aspect; simultaneously... (and...); one's whole face"
+],
+[
+"一道",
+51.88,
+"yi1 dao4",
+"together"
+],
+[
+"一路",
+51.19,
+"yi1 lu4",
+"the whole journey; all the way; going the same way; going in the same direction; of the same kind"
+],
+[
+"另一方面",
+47.91,
+"ling4 yi1 fang1 mian4",
+"on the other hand; another aspect"
+],
+[
 "一一",
-2015,
+37.5,
 "yi1 yi1",
 "one by one; one after another"
 ],
 [
-"一会",
-2396,
-"yi1 hui4",
-"\"a moment, a while\""
+"一口",
+34.34,
+"yi1 kou3",
+"readily; flatly (deny, admit and so on); a mouthful; a bite"
 ],
 [
-"一面",
-2633,
-"yi1 mian4",
-"one side"
+"不一定",
+33.31,
+"bu4 yi1 ding4",
+"not necessarily; maybe"
 ],
 [
-"一无所知",
-3407,
-"yi1 wu2 suo3 zhi1",
-"not knowing anything at all (idiom); completely ignorant; without an inkling"
+"一身",
+31.87,
+"yi1 shen1",
+"whole body; from head to toe; single person; a suit of clothes"
+],
+[
+"一下子",
+31.5,
+"yi1 xia4 zi5",
+"in a short while; all at once; all of a sudden"
+],
+[
+"一手",
+23.86,
+"yi1 shou3",
+"a skill; mastery of a trade; by oneself; without outside help"
+],
+[
+"一行",
+23.36,
+"yi1 xing2",
+"party; delegation"
+],
+[
+"一次性",
+20.95,
+"yi1 ci4 xing4",
+"one-off (offer); one-time; single-use; disposable (goods)"
+],
+[
+"惟一",
+20.26,
+"wei2 yi1",
+"only; sole; variant of 唯一[wei2 yi1]"
+],
+[
+"一同",
+19.89,
+"yi1 tong2",
+"along; together"
+],
+[
+"一堆",
+18.31,
+"yi1 dui1",
+"pile"
+],
+[
+"一家",
+18.09,
+"yi1 jia1",
+"the whole family; the same family; the family ... (when preceded by a family name); group"
+],
+[
+"一旁",
+17.28,
+"yi1 pang2",
+"aside; to the side of"
+],
+[
+"下一步",
+17.16,
+"xia4 yi1 bu4",
+"the next step"
+],
+[
+"一大早",
+15.72,
+"yi1 da4 zao3",
+"at dawn; at first light; first thing in the morning"
+],
+[
+"一月",
+15.15,
+"Yi1 yue4",
+"January; first month (of the lunar year)"
+],
+[
+"不一",
+14.33,
+"bu4 yi1",
+"to vary; to differ"
+],
+[
+"一家人",
+13.88,
+"yi1 jia1 ren2",
+"household; the whole family"
+],
+[
+"三分之一",
+11.86,
+"san1 fen1 zhi1 yi1",
+"one third"
+],
+[
+"一味",
+11.64,
+"yi1 wei4",
+"blindly; invariably"
+],
+[
+"第一步",
+11.48,
+"di4 yi1 bu4",
+"step one; first step"
+],
+[
+"星期一",
+11.39,
+"Xing1 qi1 yi1",
+"Monday"
+],
+[
+"一早",
+11.39,
+"yi1 zao3",
+"early in the morning; at dawn"
+],
+[
+"其一",
+11.33,
+"qi2 yi1",
+"one of the given (options etc); the first; firstly"
+],
+[
+"十一月",
+11.21,
+"Shi2 yi1 yue4",
+"November; eleventh month (of the lunar year)"
+],
+[
+"第一季度",
+10.33,
+"di4 yi1 ji4 du4",
+"first quarter (of financial year)"
+],
+[
+"一心",
+9.95,
+"yi1 xin1",
+"wholeheartedly; heart and soul"
+],
+[
+"初一",
+9.41,
+"chu1 yi1",
+"first day of lunar month; New Year's Day; first year in junior middle school"
+],
+[
+"合一",
+7.57,
+"he2 yi1",
+"to unite"
+],
+[
+"一世",
+7.22,
+"yi1 shi4",
+"generation; period of 30 years; one's whole lifetime; lifelong; age; era; times; the whole world; the First (of numbered European kings)"
+],
+[
+"四分之一",
+6.55,
+"si4 fen1 zhi1 yi1",
+"one-quarter"
+],
+[
+"看一看",
+6.5,
+"kan4 yi1 kan4",
+"to have a look"
+],
+[
+"一回事",
+6.17,
+"yi1 hui2 shi4",
+"one thing; the same as"
+],
+[
+"逐一",
+5.93,
+"zhu2 yi1",
+"one by one"
+],
+[
+"一把手",
+5.64,
+"yi1 ba3 shou3",
+"working hand; member of a work team; participant; (short form of 第一把手[di4 yi1 ba3 shou3]) the boss"
+],
+[
+"一小撮",
+5.31,
+"yi1 xiao3 cuo1",
+"handful (of)"
 ]
 ],
 "strokes": [

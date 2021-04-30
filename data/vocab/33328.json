@@ -13,68 +13,7 @@
 "warship; naval vessel"
 ]
 ],
-"extraWords": [
-[
-"舰队",
-4601,
-"jian4 dui4",
-"fleet"
-],
-[
-"舰",
-4747,
-"jian4",
-"warship"
-],
-[
-"舰长",
-8711,
-"jian4 zhang3",
-"commander; captain (of a warship)"
-],
-[
-"战舰",
-10288,
-"zhan4 jian4",
-"battleship; warship"
-],
-[
-"军舰",
-18136,
-"jun1 jian4",
-"warship; military naval vessel"
-],
-[
-"舰船",
-19995,
-"jian4 chuan2",
-"warship"
-],
-[
-"驱逐舰",
-22380,
-"qu1 zhu2 jian4",
-"destroyer (warship)"
-],
-[
-"巡洋舰",
-22899,
-"xun2 yang2 jian4",
-"cruiser (warship); battle cruiser"
-],
-[
-"旗舰",
-23738,
-"qi2 jian4",
-"flagship"
-],
-[
-"航空母舰",
-26356,
-"hang2 kong1 mu3 jian4",
-"aircraft carrier"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 281 639 Q 395 772 414 786 Q 432 801 418 815 Q 402 828 373 836 Q 348 843 336 838 Q 323 834 331 821 Q 341 796 263 642 Q 262 638 261 635 C 252 606 261 616 281 639 Z",
 "M 255 633 Q 239 646 213 654 Q 195 661 185 656 Q 175 649 182 637 Q 200 619 206 546 Q 206 539 207 529 Q 211 453 207 383 L 202 335 Q 187 197 103 36 Q 99 30 98 24 Q 97 14 106 18 Q 118 19 150 69 Q 222 168 248 345 Q 248 348 249 351 L 253 394 Q 256 445 257 573 Q 257 589 259 605 C 261 629 261 629 255 633 Z",

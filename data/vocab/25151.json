@@ -28,63 +28,93 @@
 "extraWords": [
 [
 "房子",
-417,
+245.12,
 "fang2 zi5",
-"house; building (single- or two-story); apartment; room"
+"house; building (single- or two-story); apartment; room; CL:棟|栋[dong4],幢[zhuang4],座[zuo4],套[tao4],間|间[jian1]"
 ],
 [
 "房",
-1202,
+233.4,
+"Fang2",
+"surname Fang"
+],
+[
+"房",
+233.4,
 "fang2",
-"house; room; surname Fang"
+"house; room; CL:間|间[jian1]; branch of an extended family; classifier for family members (or concubines)"
+],
+[
+"住房",
+83.37,
+"zhu4 fang2",
+"housing"
+],
+[
+"房屋",
+62.01,
+"fang2 wu1",
+"house; building; CL:所[suo3],套[tao4]"
+],
+[
+"二手房",
+19.84,
+"er4 shou3 fang2",
+"second-hand house; house acquired indirectly through a middle-man"
 ],
 [
 "房租",
-4078,
+14.76,
 "fang2 zu1",
 "rent for a room or house"
 ],
 [
 "牢房",
-4447,
+13.06,
 "lao2 fang2",
 "jail cell; prison cell"
 ],
 [
-"房屋",
-5282,
-"fang2 wu1",
-"house; building"
+"票房",
+13.05,
+"piao4 fang2",
+"box office"
+],
+[
+"病房",
+12.79,
+"bing4 fang2",
+"ward (of a hospital); sickroom; CL:間|间[jian1]"
 ],
 [
 "客房",
-5309,
+10.02,
 "ke4 fang2",
 "guest room"
 ],
 [
-"病房",
-5438,
-"bing4 fang2",
-"ward (of a hospital); sickroom"
+"新房",
+9.74,
+"xin1 fang2",
+"brand new house; bridal chamber"
 ],
 [
 "乳房",
-5631,
+9.24,
 "ru3 fang2",
 "breast; udder"
 ],
 [
-"房地产",
-5891,
-"fang2 di4 chan3",
-"real estate"
-],
-[
 "健身房",
-6143,
+8.08,
 "jian4 shen1 fang2",
 "gym; gymnasium"
+],
+[
+"套房",
+7.93,
+"tao4 fang2",
+"suite; apartment; flat"
 ]
 ],
 "strokes": [

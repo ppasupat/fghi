@@ -97,68 +97,7 @@
 "the end; end point; destination; finish line (in a race)"
 ]
 ],
-"extraWords": [
-[
-"一点",
-202,
-"yi1 dian3",
-"a bit; a little; one dot; one point"
-],
-[
-"有点",
-564,
-"you3 dian3",
-"a little"
-],
-[
-"点儿",
-707,
-"dian3 r5",
-"\"erhua variant of 点, point; dot; speck; drop; little bit\""
-],
-[
-"差点",
-1250,
-"cha4 dian3",
-"not quite; not good enough; almost; barely; a bit different; just about to; nearly starting; on the verge of"
-],
-[
-"晚点",
-3207,
-"wan3 dian3",
-"late; delayed; a little later; behind schedule"
-],
-[
-"点子",
-3506,
-"dian3 zi5",
-"spot; point; dot; speck; drop (of liquid); droplet; point (of argument); idea; crux; indication; pointer"
-],
-[
-"早点",
-3852,
-"zao3 dian3",
-"light breakfast"
-],
-[
-"共同点",
-4852,
-"gong4 tong2 dian3",
-"common ground"
-],
-[
-"点燃",
-5546,
-"dian3 ran2",
-"to ignite; to set on fire; aflame"
-],
-[
-"点火",
-6785,
-"dian3 huo3",
-"to ignite; to light a fire; to agitate; to start an engine; ignition; fig. to stir up trouble"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 533 507 Q 537 564 541 618 L 543 649 Q 546 728 560 775 Q 563 785 543 800 Q 507 819 482 823 Q 466 826 458 817 Q 451 810 459 794 Q 478 769 479 752 Q 491 637 491 500 C 491 470 531 477 533 507 Z",
 "M 541 618 Q 547 617 559 618 Q 656 634 728 643 Q 756 647 745 663 Q 733 679 703 685 Q 672 691 543 649 C 514 640 511 620 541 618 Z",

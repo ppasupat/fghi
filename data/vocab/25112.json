@@ -43,68 +43,7 @@
 "military campaign; battle"
 ]
 ],
-"extraWords": [
-[
-"战",
-1439,
-"zhan4",
-"to fight; fight; war; battle"
-],
-[
-"战士",
-2749,
-"zhan4 shi4",
-"fighter; soldier; warrior"
-],
-[
-"战场",
-3933,
-"zhan4 chang3",
-"battlefield"
-],
-[
-"战胜",
-4261,
-"zhan4 sheng4",
-"to prevail; to surmount"
-],
-[
-"作战",
-4282,
-"zuo4 zhan4",
-"combat; to fight"
-],
-[
-"大战",
-5280,
-"da4 zhan4",
-"great war"
-],
-[
-"开战",
-6298,
-"kai1 zhan4",
-"start a war"
-],
-[
-"战利品",
-7017,
-"zhan4 li4 pin3",
-"plunder"
-],
-[
-"战机",
-7288,
-"zhan4 ji1",
-"opportunity in a battle; fighter aircraft"
-],
-[
-"战友",
-7934,
-"zhan4 you3",
-"comrade-in-arms; battle companion"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 317 342 Q 318 438 321 526 L 321 555 Q 324 651 337 708 Q 340 718 319 733 Q 283 751 258 754 Q 242 757 235 748 Q 228 739 236 725 Q 261 692 262 669 Q 275 513 275 330 C 275 300 317 312 317 342 Z",
 "M 321 526 Q 370 520 404 535 Q 438 547 476 560 Q 492 566 495 569 Q 502 578 497 585 Q 488 595 459 598 Q 429 599 403 583 Q 384 574 364 567 Q 345 560 321 555 C 292 549 291 529 321 526 Z",

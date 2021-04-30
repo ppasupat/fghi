@@ -43,68 +43,7 @@
 "precious"
 ]
 ],
-"extraWords": [
-[
-"高贵",
-5992,
-"gao1 gui4",
-"grandeur; noble"
-],
-[
-"尊贵",
-8900,
-"zun1 gui4",
-"respected; respectable; honorable"
-],
-[
-"贵宾",
-8919,
-"gui4 bin1",
-"honored guest; distinguished guest; VIP"
-],
-[
-"贵重",
-10509,
-"gui4 zhong4",
-"precious"
-],
-[
-"富贵",
-16971,
-"fu4 gui4",
-"riches and honor"
-],
-[
-"可贵",
-19094,
-"ke3 gui4",
-"to be treasured; praiseworthy"
-],
-[
-"贵姓",
-21245,
-"gui4 xing4",
-"what is your name?"
-],
-[
-"名贵",
-22851,
-"ming2 gui4",
-"famous and valuable; rare; precious"
-],
-[
-"贵人",
-27040,
-"gui4 ren2",
-"nobility; person of high rank"
-],
-[
-"显贵",
-30342,
-"xian3 gui4",
-"dignitary; distinguished person; royalty; nobleman; big shot"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 355 713 Q 343 719 312 725 Q 300 728 297 723 Q 290 717 299 701 Q 324 652 339 572 Q 342 547 356 532 Q 374 510 379 525 Q 382 535 383 550 L 380 581 Q 370 656 367 682 C 364 709 364 709 355 713 Z",
 "M 696 624 Q 717 675 745 695 Q 761 711 748 730 Q 685 781 647 770 Q 593 752 546 739 L 490 729 Q 423 720 355 713 C 325 710 337 680 367 682 Q 380 682 395 686 Q 443 695 491 701 L 544 710 Q 578 717 614 722 Q 642 729 653 717 Q 662 708 645 624 C 639 595 684 597 696 624 Z",

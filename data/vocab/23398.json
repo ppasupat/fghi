@@ -103,68 +103,7 @@
 "academic degree; educational level"
 ]
 ],
-"extraWords": [
-[
-"学",
-543,
-"xue2",
-"learn; study; science; -ology"
-],
-[
-"大学",
-711,
-"da4 xue2",
-"university"
-],
-[
-"上学",
-2030,
-"shang4 xue2",
-"to go to school; to attend school"
-],
-[
-"学会",
-2180,
-"xue2 hui4",
-"to learn; to master; institute; learned society; (scholarly) association"
-],
-[
-"学院",
-2629,
-"xue2 yuan4",
-"college; educational institute; school; faculty"
-],
-[
-"科学家",
-2912,
-"ke1 xue2 jia1",
-"scientist"
-],
-[
-"医学",
-3195,
-"yi1 xue2",
-"medicine; medical science; study of medicine"
-],
-[
-"放学",
-4498,
-"fang4 xue2",
-"classes are over"
-],
-[
-"奖学金",
-4716,
-"jiang3 xue2 jin1",
-"scholarship"
-],
-[
-"中学",
-4834,
-"zhong1 xue2",
-"middle school"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 311 681 Q 332 656 354 626 Q 364 611 380 610 Q 390 609 397 621 Q 404 634 399 664 Q 395 694 313 727 Q 298 733 292 731 Q 288 728 287 715 Q 288 705 311 681 Z",
 "M 456 744 Q 475 717 495 685 Q 504 672 517 669 Q 526 668 533 677 Q 540 689 539 715 Q 536 745 462 785 Q 450 792 444 791 Q 440 788 438 777 Q 439 767 456 744 Z",

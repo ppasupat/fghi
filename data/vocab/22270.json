@@ -43,68 +43,7 @@
 "intent; intention; intend"
 ]
 ],
-"extraWords": [
-[
-"图",
-2155,
-"tu2",
-"diagram; to plan; picture; drawing; chart"
-],
-[
-"图像",
-4176,
-"tu2 xiang4",
-"image; picture; graphic"
-],
-[
-"图片",
-4318,
-"tu2 pian4",
-"image; picture; photograph"
-],
-[
-"西雅图",
-4679,
-"Xi1 ya3 tu2",
-"\"Seattle, Washington State\""
-],
-[
-"拼图",
-6644,
-"pin1 tu2",
-"\"abbr. of 拼布图形, jigsaw puzzle\""
-],
-[
-"图书",
-10931,
-"tu2 shu1",
-"books (in a library or bookstore)"
-],
-[
-"图表",
-11043,
-"tu2 biao3",
-"chart; diagram"
-],
-[
-"草图",
-11141,
-"cao3 tu2",
-"a sketch; rough drawing"
-],
-[
-"蓝图",
-11420,
-"lan2 tu2",
-"blueprint"
-],
-[
-"图纸",
-11801,
-"tu2 zhi3",
-"blueprint; drawing; design plans; graph paper"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 259 728 Q 253 734 226 748 Q 214 754 201 749 Q 192 743 199 729 Q 223 641 225 606 Q 224 602 225 597 Q 234 347 195 173 Q 168 83 198 36 Q 202 30 208 22 Q 218 7 232 21 Q 242 36 246 52 L 251 92 Q 255 128 256 179 Q 272 645 277 675 Q 278 679 278 684 C 281 714 281 714 259 728 Z",
 "M 720 71 Q 745 41 768 -4 Q 778 -26 793 -26 Q 806 -25 814 -4 Q 845 47 823 240 Q 799 663 823 694 Q 824 698 829 702 Q 839 717 839 725 Q 838 738 805 760 Q 745 799 703 784 Q 684 781 652 775 Q 502 760 323 731 Q 290 727 259 728 C 229 727 249 678 278 684 Q 287 685 302 689 Q 315 693 437 713 Q 588 735 703 742 Q 728 743 734 731 Q 758 703 760 370 L 760 353 Q 764 205 766 166 Q 770 117 759 98 Q 755 85 749 85 L 748 85 C 734 58 708 88 720 71 Z",

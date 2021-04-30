@@ -25,68 +25,7 @@
 "return something; revert"
 ]
 ],
-"extraWords": [
-[
-"归",
-1894,
-"gui1",
-"to go back; to return"
-],
-[
-"回归",
-4369,
-"hui2 gui1",
-"to return (to previous condition); Hong Kong's return to Chinese sovereignty; to regress"
-],
-[
-"无家可归",
-5080,
-"wu2 jia1 ke3 gui1",
-"homeless"
-],
-[
-"归咎",
-10544,
-"gui1 jiu4",
-"blame; declare to be at fault"
-],
-[
-"归功",
-10764,
-"gui1 gong1",
-"to give credit; to give sb his due; attribution"
-],
-[
-"归宿",
-10991,
-"gui1 su4",
-"final destination; end result; place where sth finally settles"
-],
-[
-"归于",
-12501,
-"gui1 yu2",
-"to belong to; affiliated to; to result in sth; to incline towards"
-],
-[
-"归属",
-13020,
-"gui1 shu3",
-"to belong to; affiliated to; to fall under the jurisdiction of"
-],
-[
-"言归正传",
-13563,
-"yan2 gui1 zheng4 zhuan4",
-"to return to the main topic (idiom); back to business; to finish a digression and get back to the main subject; retournons à nos moutons"
-],
-[
-"归罪",
-14566,
-"gui1 zui4",
-"to blame sb"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 188 557 Q 221 476 191 281 Q 182 241 210 208 L 211 206 Q 221 196 231 206 Q 255 239 252 291 Q 246 436 261 526 Q 268 548 248 560 Q 232 570 215 580 Q 202 584 193 579 Q 184 572 188 557 Z",
 "M 375 742 Q 396 718 403 651 Q 403 450 387 332 Q 380 296 371 261 Q 341 150 257 -11 Q 253 -18 251 -25 Q 250 -37 260 -33 Q 275 -30 315 29 Q 462 219 463 598 Q 463 664 469 702 Q 478 718 468 732 Q 449 750 414 762 Q 392 772 379 765 Q 367 756 375 742 Z",

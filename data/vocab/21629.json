@@ -76,63 +76,87 @@
 "extraWords": [
 [
 "命",
-770,
+121.03,
 "ming4",
-"life; fate; order"
+"life; fate; order or command; to assign a name, title etc"
 ],
 [
 "救命",
-1329,
+64.06,
 "jiu4 ming4",
-"to save someone's life; (interjection) Help!; (interjection) Save me!"
+"to save sb's life; (interj.) Help!; Save me!"
 ],
 [
 "致命",
-2595,
+26.89,
 "zhi4 ming4",
 "fatal; mortal; deadly; to sacrifice one's life"
 ],
 [
-"丧命",
-6827,
-"sang4 ming4",
-"to lose one's life"
+"待命",
+15.5,
+"dai4 ming4",
+"to be on call; to be on standby"
+],
+[
+"遵命",
+14.13,
+"zun1 ming4",
+"to follow your orders; to do as you bid"
+],
+[
+"文化大革命",
+13.61,
+"Wen2 hua4 Da4 ge2 ming4",
+"Cultural Revolution (1966-1976)"
+],
+[
+"反革命",
+12.75,
+"fan3 ge2 ming4",
+"counterrevolutionary"
+],
+[
+"命中",
+12.2,
+"ming4 zhong4",
+"to hit (a target)"
+],
+[
+"生命力",
+8.4,
+"sheng1 ming4 li4",
+"vitality"
+],
+[
+"送命",
+5.78,
+"song4 ming4",
+"to lose one's life; to get killed"
 ],
 [
 "活命",
-7709,
+5.72,
 "huo2 ming4",
 "life; to survive; to save a life; to scrape a living"
 ],
 [
 "人命",
-8063,
+5.31,
 "ren2 ming4",
-"human life"
+"human life; CL:條|条[tiao2]"
 ],
 [
 "逃命",
-8255,
+5.13,
 "tao2 ming4",
 "to escape; to flee; to run for one's life"
 ],
 [
-"命案",
-9444,
-"ming4 an4",
-"\"a fatal case (legal, criminal, medical etc)\""
-],
-[
-"听命",
-11797,
-"ting1 ming4",
-"to obey an order; to take orders; to accept a state of affairs"
-],
-[
-"奉命",
-11952,
-"feng4 ming4",
-"to receive orders; to follow orders; to act under orders"
+"命中率",
+5.04,
+"ming4 zhong4 lu:4",
+"hit rate; scoring rate"
 ]
 ],
 "strokes": [

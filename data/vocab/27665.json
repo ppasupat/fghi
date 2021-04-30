@@ -70,63 +70,141 @@
 "extraWords": [
 [
 "人民",
-1638,
+353.77,
 "ren2 min2",
-"the people"
-],
-[
-"民",
-3887,
-"min2",
-"the people; nationality; citizen"
-],
-[
-"平民",
-4287,
-"ping2 min2",
-"ordinary people; commoner; civilian"
+"the people; CL:個|个[ge4]"
 ],
 [
 "市民",
-4529,
+130.04,
 "shi4 min2",
 "city resident"
 ],
 [
-"民众",
-5162,
-"min2 zhong4",
-"populace; masses; the people"
+"民",
+99.03,
+"Min2",
+"surname Min"
 ],
 [
-"国民",
-6862,
-"guo2 min2",
-"national"
+"民",
+99.03,
+"min2",
+"the people; nationality; citizen"
 ],
 [
-"民主党",
-7555,
-"Min2 zhu3 dang3",
-"Democratic Party"
+"民警",
+72.7,
+"min2 jing3",
+"civil police; PRC police; abbr. for 人民警察"
 ],
 [
-"难民",
-8175,
-"nan4 min2",
-"refugee"
+"村民",
+51.9,
+"cun1 min2",
+"villager"
 ],
 [
-"选民",
-8476,
-"xuan3 min2",
-"voter; chosen people"
+"全民",
+21.4,
+"quan2 min2",
+"entire population (of a country)"
+],
+[
+"民工",
+16.59,
+"min2 gong1",
+"migrant worker (who moved from a rural area of China to a city to find work); temporary worker enlisted on a public project"
+],
+[
+"人民法院",
+16.34,
+"ren2 min2 fa3 yuan4",
+"people's court (of law); people's tribunal"
+],
+[
+"平民",
+13.68,
+"ping2 min2",
+"ordinary people; commoner; civilian"
 ],
 [
 "民事",
-8532,
+13.52,
 "min2 shi4",
 "civil case; agricultural affairs; civil"
+],
+[
+"民航",
+13.32,
+"min2 hang2",
+"civil aviation"
+],
+[
+"民生",
+12.68,
+"min2 sheng1",
+"people's livelihood; people's welfare"
+],
+[
+"民兵",
+12.48,
+"min2 bing1",
+"people's militia; militia; militiaman"
+],
+[
+"民政",
+11.62,
+"min2 zheng4",
+"civil administration"
+],
+[
+"股民",
+10.92,
+"gu3 min2",
+"stock investor; share trader"
+],
+[
+"民用",
+9.49,
+"min2 yong4",
+"(for) civilian use"
+],
+[
+"民意",
+8.81,
+"min2 yi4",
+"public opinion; popular will; public will"
+],
+[
+"民俗",
+8.79,
+"min2 su2",
+"popular custom"
+],
+[
+"彩民",
+7.15,
+"cai3 min2",
+"lottery player"
+],
+[
+"最高人民法院",
+6.12,
+"Zui4 gao1 Ren2 min2 Fa3 yuan4",
+"Supreme People's Court (PRC)"
+],
+[
+"人民公社",
+5.28,
+"ren2 min2 gong1 she4",
+"people's commune"
+],
+[
+"民心",
+5.26,
+"min2 xin1",
+"popular sentiment"
 ]
 ],
 "strokes": [

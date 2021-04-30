@@ -22,63 +22,93 @@
 "extraWords": [
 [
 "王",
-1380,
-"wang2/wang4",
-"king; surname Wang"
+181.21,
+"Wang2",
+"surname Wang"
+],
+[
+"王",
+181.21,
+"wang2",
+"king or monarch; best or strongest of its type; grand; great"
+],
+[
+"王",
+181.21,
+"wang4",
+"to rule; to reign over"
 ],
 [
 "女王",
-2074,
+36.07,
 "nu:3 wang2",
 "queen"
 ],
 [
 "王八",
-3314,
+19.35,
 "wang2 ba1",
-"\"tortoise; cuckold; (insult with the flavor of bastard, son of a bitch); cf 王八蛋\""
+"tortoise; cuckold; (old) male owner of a brothel; pimp"
 ],
 [
-"王国",
-5314,
-"wang2 guo2",
-"kingdom; realm"
+"大王",
+9.03,
+"da4 wang2",
+"king; magnate; person having expert skill in something"
+],
+[
+"大王",
+9.03,
+"dai4 wang5",
+"robber baron (in opera, old stories); magnate"
+],
+[
+"天王",
+8.71,
+"tian1 wang2",
+"emperor; god; Hong Xiuquan's self-proclaimed title; see also 洪秀全[Hong2 Xiu4 quan2]"
+],
+[
+"王菲",
+8.51,
+"Wang2 Fei1",
+"Faye Wong (1969-), Hong Kong pop star and actress"
+],
+[
+"王朝",
+8.5,
+"wang2 chao2",
+"dynasty"
+],
+[
+"霸王",
+8.16,
+"ba4 wang2",
+"hegemon; overlord; despot"
 ],
 [
 "王后",
-6972,
+6.74,
 "wang2 hou4",
-"queen"
+"queen; CL:個|个[ge4],位[wei4]"
+],
+[
+"王道",
+6.62,
+"wang2 dao4",
+"the Way of the King; statecraft; benevolent rule; virtuous as opposed to the Way of Hegemon 霸道"
+],
+[
+"帝王",
+5.99,
+"di4 wang2",
+"regent; monarch"
 ],
 [
 "拳王",
-7528,
+5.96,
 "quan2 wang2",
 "boxing champion"
-],
-[
-"王牌",
-9283,
-"wang2 pai2",
-"trump card"
-],
-[
-"王冠",
-10013,
-"wang2 guan1",
-"crown"
-],
-[
-"王位",
-10554,
-"wang2 wei4",
-"title of king; kingship"
-],
-[
-"冥王星",
-10926,
-"Ming2 wang2 xing1",
-"Pluto (dwarf planet)"
 ]
 ],
 "strokes": [
