@@ -1,1 +1,49 @@
-{"char": "入", "level": 4, "info": {"gloss": "enter, come in(to), join", "pron": "rù"}, "words": [["入口", "入口", 4, "rùkǒu", "entrance"], ["收入", "收入", 4, "shōurù", "take in; income; revenue"], ["输入", "輸入", 5, "shūrù", "input; enter; import"], ["投入", "投入", 5, "tóurù", "put into operation; throw into; to invest"], ["陷入", "陷入", 6, "xiànrù", "sink into; get caught up in; land in (a predicament)"]], "strokes": ["M 499 518 Q 414 338 228 186 Q 180 147 112 96 Q 99 83 109 81 Q 118 77 132 82 Q 282 139 428 311 Q 528 444 534 455 C 551 480 512 545 499 518 Z", "M 534 455 Q 691 137 740 111 Q 782 98 945 83 Q 966 79 977 84 Q 989 90 980 97 Q 973 104 956 110 Q 775 198 729 244 Q 645 328 554 498 Q 479 642 432 671 Q 396 693 358 690 Q 348 691 341 688 Q 337 685 338 681 Q 338 678 398 647 Q 437 626 493 528 Q 496 524 499 518 L 534 455 Z"]}
+{
+"char": "入",
+"level": 4,
+"info": {
+"gloss": "enter, come in(to), join",
+"pron": "rù"
+},
+"words": [
+[
+"入口",
+0,
+4,
+"rùkǒu",
+"entrance"
+],
+[
+"收入",
+0,
+4,
+"shōurù",
+"take in; income; revenue"
+],
+[
+"输入",
+0,
+5,
+"shūrù",
+"input; enter; import"
+],
+[
+"投入",
+0,
+5,
+"tóurù",
+"put into operation; throw into; to invest"
+],
+[
+"陷入",
+0,
+6,
+"xiànrù",
+"sink into; get caught up in; land in (a predicament)"
+]
+],
+"strokes": [
+"M 499 518 Q 414 338 228 186 Q 180 147 112 96 Q 99 83 109 81 Q 118 77 132 82 Q 282 139 428 311 Q 528 444 534 455 C 551 480 512 545 499 518 Z",
+"M 534 455 Q 691 137 740 111 Q 782 98 945 83 Q 966 79 977 84 Q 989 90 980 97 Q 973 104 956 110 Q 775 198 729 244 Q 645 328 554 498 Q 479 642 432 671 Q 396 693 358 690 Q 348 691 341 688 Q 337 685 338 681 Q 338 678 398 647 Q 437 626 493 528 Q 496 524 499 518 L 534 455 Z"
+]
+}

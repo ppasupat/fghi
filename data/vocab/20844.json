@@ -1,1 +1,191 @@
-{"char": "公", "level": 2, "info": {"gloss": "fair, equitable; public; duke", "pron": "gōng"}, "words": [["公共汽车", "公共汽車", 2, "gōnggòng qìchē", "(public) bus"], ["公司", "公司", 2, "gōngsī", "company; corporation"], ["办公室", "辦公室", 3, "bàngōngshì", "office"], ["公斤", "公斤", 3, "gōngjīn", "kilogram"], ["公园", "公園", 3, "gōngyuán", "public park"], ["高速公路", "高速公路", 4, "gāosù gōnglù", "highway"], ["公里", "公裏", 4, "gōnglǐ", "kilometer"], ["公布", "公布", 5, "gōngbù", "make public; announce; publicize"], ["公开", "公開", 5, "gōngkāi", "public; make public"], ["公平", "公平", 5, "gōngpíng", "fair; impartial; just"], ["公寓", "公寓", 5, "gōngyù", "apartment building"], ["公元", "公元", 5, "gōngyuán", "(year) AD or CE; Christian era; common era"], ["公主", "公主", 5, "gōngzhǔ", "princess"], ["外公", "外公", 5, "wàigōng", "maternal grandfather"], ["公安局", "公安局", 6, "gōngānjú", "public security bureau"], ["公道", "公道", 6, "gōngdao", "fair; equitable"], ["公告", "公告", 6, "gōnggào", "post; announcement"], ["公关", "公關", 6, "gōngguān", "public relations"], ["公民", "公民", 6, "gōngmín", "citizen"], ["公然", "公然", 6, "gōngrán", "(do something) openly; undisguised"], ["公认", "公認", 6, "gōngrèn", "publicly know (to be); recognize; generally acknowledged"], ["公式", "公式", 6, "gōngshì", "formula"], ["公务", "公務", 6, "gōngwù", "public affairs; official business"], ["公正", "公正", 6, "gōngzhèng", "just; fair"], ["公证", "公證", 6, "gōngzhèng", "notarization"]], "strokes": ["M 304 649 Q 322 577 199 422 Q 193 418 189 411 Q 152 368 61 284 Q 52 280 64 276 Q 140 291 252 412 Q 256 419 264 426 Q 307 477 374 581 Q 383 594 389 601 Q 396 607 395 617 Q 394 627 380 640 Q 344 670 310 665 Q 301 662 304 649 Z", "M 467 783 Q 527 747 562 678 Q 662 477 753 386 Q 775 370 886 372 Q 919 375 966 376 Q 987 377 987 383 Q 987 387 968 395 Q 794 459 735 515 Q 656 594 554 760 Q 533 794 495 799 Q 467 802 465 795 Q 461 786 467 783 Z", "M 629 177 Q 500 164 362 133 Q 347 129 343 133 Q 340 137 347 150 Q 477 334 505 364 Q 520 376 512 391 Q 505 406 448 432 Q 429 442 417 436 Q 401 429 409 405 Q 430 333 302 171 Q 277 146 238 118 Q 222 103 226 91 Q 232 70 262 47 Q 275 34 291 47 Q 357 93 633 146 Q 640 147 647 150 C 676 157 659 180 629 177 Z", "M 647 150 Q 707 54 718 48 Q 727 45 738 54 Q 754 66 750 118 Q 750 181 585 289 Q 576 296 571 284 Q 567 269 576 255 Q 601 221 629 177 L 647 150 Z"]}
+{
+"char": "公",
+"level": 2,
+"info": {
+"gloss": "fair, equitable; public; duke",
+"pron": "gōng"
+},
+"words": [
+[
+"公共汽车",
+0,
+2,
+"gōnggòng qìchē",
+"(public) bus"
+],
+[
+"公司",
+0,
+2,
+"gōngsī",
+"company; corporation"
+],
+[
+"办公室",
+0,
+3,
+"bàngōngshì",
+"office"
+],
+[
+"公斤",
+0,
+3,
+"gōngjīn",
+"kilogram"
+],
+[
+"公园",
+0,
+3,
+"gōngyuán",
+"public park"
+],
+[
+"高速公路",
+0,
+4,
+"gāosù gōnglù",
+"highway"
+],
+[
+"公里",
+0,
+4,
+"gōnglǐ",
+"kilometer"
+],
+[
+"公布",
+0,
+5,
+"gōngbù",
+"make public; announce; publicize"
+],
+[
+"公开",
+0,
+5,
+"gōngkāi",
+"public; make public"
+],
+[
+"公平",
+0,
+5,
+"gōngpíng",
+"fair; impartial; just"
+],
+[
+"公寓",
+0,
+5,
+"gōngyù",
+"apartment building"
+],
+[
+"公元",
+0,
+5,
+"gōngyuán",
+"(year) AD or CE; Christian era; common era"
+],
+[
+"公主",
+0,
+5,
+"gōngzhǔ",
+"princess"
+],
+[
+"外公",
+0,
+5,
+"wàigōng",
+"maternal grandfather"
+],
+[
+"公安局",
+0,
+6,
+"gōngānjú",
+"public security bureau"
+],
+[
+"公道",
+0,
+6,
+"gōngdao",
+"fair; equitable"
+],
+[
+"公告",
+0,
+6,
+"gōnggào",
+"post; announcement"
+],
+[
+"公关",
+0,
+6,
+"gōngguān",
+"public relations"
+],
+[
+"公民",
+0,
+6,
+"gōngmín",
+"citizen"
+],
+[
+"公然",
+0,
+6,
+"gōngrán",
+"(do something) openly; undisguised"
+],
+[
+"公认",
+0,
+6,
+"gōngrèn",
+"publicly know (to be); recognize; generally acknowledged"
+],
+[
+"公式",
+0,
+6,
+"gōngshì",
+"formula"
+],
+[
+"公务",
+0,
+6,
+"gōngwù",
+"public affairs; official business"
+],
+[
+"公正",
+0,
+6,
+"gōngzhèng",
+"just; fair"
+],
+[
+"公证",
+0,
+6,
+"gōngzhèng",
+"notarization"
+]
+],
+"strokes": [
+"M 304 649 Q 322 577 199 422 Q 193 418 189 411 Q 152 368 61 284 Q 52 280 64 276 Q 140 291 252 412 Q 256 419 264 426 Q 307 477 374 581 Q 383 594 389 601 Q 396 607 395 617 Q 394 627 380 640 Q 344 670 310 665 Q 301 662 304 649 Z",
+"M 467 783 Q 527 747 562 678 Q 662 477 753 386 Q 775 370 886 372 Q 919 375 966 376 Q 987 377 987 383 Q 987 387 968 395 Q 794 459 735 515 Q 656 594 554 760 Q 533 794 495 799 Q 467 802 465 795 Q 461 786 467 783 Z",
+"M 629 177 Q 500 164 362 133 Q 347 129 343 133 Q 340 137 347 150 Q 477 334 505 364 Q 520 376 512 391 Q 505 406 448 432 Q 429 442 417 436 Q 401 429 409 405 Q 430 333 302 171 Q 277 146 238 118 Q 222 103 226 91 Q 232 70 262 47 Q 275 34 291 47 Q 357 93 633 146 Q 640 147 647 150 C 676 157 659 180 629 177 Z",
+"M 647 150 Q 707 54 718 48 Q 727 45 738 54 Q 754 66 750 118 Q 750 181 585 289 Q 576 296 571 284 Q 567 269 576 255 Q 601 221 629 177 L 647 150 Z"
+]
+}

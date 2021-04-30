@@ -1,1 +1,238 @@
-{"char": "力", "level": 3, "info": {"gloss": "power, capability, influence", "pron": "lì"}, "words": [["努力", "努力", 3, "nǔlì", "to work hard; to strive"], ["力气", "力氣", 4, "lìqi", "physical strength; effort"], ["能力", "能力", 4, "nénglì", "capability; capable; ability"], ["巧克力", "巧克力", 4, "qiǎokèlì", "chocolate"], ["压力", "壓力", 4, "yālì", "pressure; stress"], ["尽力", "盡力", 5, "jìn lì", "do one's best; to strive as much as possible"], ["精力", "精力", 5, "jīnglì", "energy; vigor"], ["力量", "力量", 5, "lìliang", "power; force; strength"], ["魅力", "魅力", 5, "mèilì", "charm; glamour; enchantment"], ["权力", "權力", 5, "quánlì", "power; authority"], ["暴力", "暴力", 6, "bàolì", "violence; (use) force"], ["吃力", "吃力", 6, "chīlì", "strenuous; exhausted"], ["得力", "得力", 6, "délì", "able; competent"], ["动力", "動力", 6, "dònglì", "power; motion; impetus; driving force"], ["活力", "活力", 6, "huólì", "energy; vitality; vigor"], ["竭尽全力", "竭盡全力", 6, "jiéjìn quánlì", "to spare no efforts; do one's utmost"], ["力求", "力求", 6, "lìqiú", "make every effort; do one's best"], ["力所能及", "力所能及", 6, "lìsuǒnéngjí", "within one's power; to the best of one's ability"], ["力争", "力爭", 6, "lìzhēng", "work hard; do all one can to; strive for/argue strongly"], ["魄力", "魄力", 6, "pòlì", "daring resolution; boldness; courage"], ["齐心协力", "齊心協力", 6, "qíxīnxiélì", "make concerted efforts"], ["潜力", "潛力", 6, "qiánlì", "potential; capacity"], ["全力以赴", "全力以赴", 6, "quán lì yǐ fù", "do at all costs; make an all-out effort"], ["实力", "實力", 6, "shílì", "strength"], ["势力", "勢力", 6, "shìli", "power; influence"], ["视力", "視力", 6, "shìlì", "vision; eyesight"], ["威力", "威力", 6, "wēilì", "might; power that invokes fear"], ["无能为力", "無能爲力", 6, "wú néng wéi lì", "incapable of action; powerless; impotent"], ["毅力", "毅力", 6, "yìlì", "willpower; perseverance; will; stamina; tenacity"], ["致力", "致力", 6, "zhìlì", "work for; devote one's efforts"], ["智力", "智力", 6, "zhìlì", "intelligence; intellect"], ["自力更生", "自力更生", 6, "zì lì gēng shēng", "(idiom) self reliance"]], "strokes": ["M 521 525 Q 600 540 679 548 Q 704 549 709 537 Q 718 518 712 470 Q 693 293 656 200 Q 637 142 617 124 Q 604 111 576 120 Q 539 132 505 144 Q 480 151 497 129 Q 546 74 573 33 Q 583 9 606 16 Q 628 17 654 47 Q 732 122 767 421 Q 774 488 801 526 Q 820 551 810 563 Q 792 585 751 603 Q 723 619 691 605 Q 621 580 527 561 L 468 550 Q 303 531 241 532 Q 216 536 216 522 Q 215 510 240 492 Q 271 468 303 478 Q 382 499 461 514 L 521 525 Z", "M 461 514 Q 392 231 161 88 Q 142 75 123 60 Q 107 48 123 46 Q 139 45 182 62 Q 267 101 330 161 Q 402 224 449 318 Q 507 445 521 525 L 527 561 Q 558 717 573 745 Q 585 767 565 778 Q 507 820 474 810 Q 458 804 466 786 Q 496 723 468 550 L 461 514 Z"]}
+{
+"char": "力",
+"level": 3,
+"info": {
+"gloss": "power, capability, influence",
+"pron": "lì"
+},
+"words": [
+[
+"努力",
+0,
+3,
+"nǔlì",
+"to work hard; to strive"
+],
+[
+"力气",
+0,
+4,
+"lìqi",
+"physical strength; effort"
+],
+[
+"能力",
+0,
+4,
+"nénglì",
+"capability; capable; ability"
+],
+[
+"巧克力",
+0,
+4,
+"qiǎokèlì",
+"chocolate"
+],
+[
+"压力",
+0,
+4,
+"yālì",
+"pressure; stress"
+],
+[
+"尽力",
+0,
+5,
+"jìn lì",
+"do one's best; to strive as much as possible"
+],
+[
+"精力",
+0,
+5,
+"jīnglì",
+"energy; vigor"
+],
+[
+"力量",
+0,
+5,
+"lìliang",
+"power; force; strength"
+],
+[
+"魅力",
+0,
+5,
+"mèilì",
+"charm; glamour; enchantment"
+],
+[
+"权力",
+0,
+5,
+"quánlì",
+"power; authority"
+],
+[
+"暴力",
+0,
+6,
+"bàolì",
+"violence; (use) force"
+],
+[
+"吃力",
+0,
+6,
+"chīlì",
+"strenuous; exhausted"
+],
+[
+"得力",
+0,
+6,
+"délì",
+"able; competent"
+],
+[
+"动力",
+0,
+6,
+"dònglì",
+"power; motion; impetus; driving force"
+],
+[
+"活力",
+0,
+6,
+"huólì",
+"energy; vitality; vigor"
+],
+[
+"竭尽全力",
+0,
+6,
+"jiéjìn quánlì",
+"to spare no efforts; do one's utmost"
+],
+[
+"力求",
+0,
+6,
+"lìqiú",
+"make every effort; do one's best"
+],
+[
+"力所能及",
+0,
+6,
+"lìsuǒnéngjí",
+"within one's power; to the best of one's ability"
+],
+[
+"力争",
+0,
+6,
+"lìzhēng",
+"work hard; do all one can to; strive for/argue strongly"
+],
+[
+"魄力",
+0,
+6,
+"pòlì",
+"daring resolution; boldness; courage"
+],
+[
+"齐心协力",
+0,
+6,
+"qíxīnxiélì",
+"make concerted efforts"
+],
+[
+"潜力",
+0,
+6,
+"qiánlì",
+"potential; capacity"
+],
+[
+"全力以赴",
+0,
+6,
+"quán lì yǐ fù",
+"do at all costs; make an all-out effort"
+],
+[
+"实力",
+0,
+6,
+"shílì",
+"strength"
+],
+[
+"势力",
+0,
+6,
+"shìli",
+"power; influence"
+],
+[
+"视力",
+0,
+6,
+"shìlì",
+"vision; eyesight"
+],
+[
+"威力",
+0,
+6,
+"wēilì",
+"might; power that invokes fear"
+],
+[
+"无能为力",
+0,
+6,
+"wú néng wéi lì",
+"incapable of action; powerless; impotent"
+],
+[
+"毅力",
+0,
+6,
+"yìlì",
+"willpower; perseverance; will; stamina; tenacity"
+],
+[
+"致力",
+0,
+6,
+"zhìlì",
+"work for; devote one's efforts"
+],
+[
+"智力",
+0,
+6,
+"zhìlì",
+"intelligence; intellect"
+],
+[
+"自力更生",
+0,
+6,
+"zì lì gēng shēng",
+"(idiom) self reliance"
+]
+],
+"strokes": [
+"M 521 525 Q 600 540 679 548 Q 704 549 709 537 Q 718 518 712 470 Q 693 293 656 200 Q 637 142 617 124 Q 604 111 576 120 Q 539 132 505 144 Q 480 151 497 129 Q 546 74 573 33 Q 583 9 606 16 Q 628 17 654 47 Q 732 122 767 421 Q 774 488 801 526 Q 820 551 810 563 Q 792 585 751 603 Q 723 619 691 605 Q 621 580 527 561 L 468 550 Q 303 531 241 532 Q 216 536 216 522 Q 215 510 240 492 Q 271 468 303 478 Q 382 499 461 514 L 521 525 Z",
+"M 461 514 Q 392 231 161 88 Q 142 75 123 60 Q 107 48 123 46 Q 139 45 182 62 Q 267 101 330 161 Q 402 224 449 318 Q 507 445 521 525 L 527 561 Q 558 717 573 745 Q 585 767 565 778 Q 507 820 474 810 Q 458 804 466 786 Q 496 723 468 550 L 461 514 Z"
+]
+}

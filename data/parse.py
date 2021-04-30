@@ -39,7 +39,9 @@ def main():
     hsk[level] = set()
     with open('raw/hskhsk/{}.tsv'.format(level), encoding='utf-8-sig') as fin:
       for line in fin:
+        # simp, trad, pinyin_num, pinyin_tone, meaning
         line = line.strip().split('\t')
+        line[1] = 0
         line[2] = level
         word = line[0]
         for char in set(word):
@@ -88,7 +90,7 @@ def main():
         'strokes': paths,
       }
       with open('vocab/{}.json'.format(ord(char)), 'w') as fout:
-        json.dump(info, fout, ensure_ascii=False)
+        json.dump(info, fout, ensure_ascii=False, indent=0)
   
 
 if __name__ == '__main__':

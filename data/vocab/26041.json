@@ -1,1 +1,170 @@
-{"char": "方", "level": 3, "info": {"gloss": "a square, rectangle; a region; local", "pron": "fāng"}, "words": [["北方", "北方", 3, "běifāng", "north; the northern part of the country"], ["地方", "地方", 3, "dìfang", "place; space; room; part, (fāng: local; regional)"], ["方便", "方便", 3, "fāngbiàn", "convenient"], ["方法", "方法", 4, "fāngfǎ", "method; way; means"], ["方面", "方面", 4, "fāngmiàn", "aspect; field; side"], ["方向", "方向", 4, "fāngxiàng", "direction; orientation"], ["大方", "大方", 5, "dàfang", "generous; poise; (-fang1: expert; scholar)"], ["对方", "對方", 5, "duìfāng", "counterpart; the other party involved"], ["方", "方", 5, "fāng", "square; direction; side (Kangxi radical 70)"], ["方案", "方案", 5, "fāng'àn", "plan; program (for action, etc.); proposal"], ["方式", "方式", 5, "fāngshì", "way; style; fashion; manner"], ["平方", "平方", 5, "píngfāng", "square (as in square foot, square mile, etc.)"], ["双方", "雙方", 5, "shuāngfāng", "bilateral; both sides; both parties involved"], ["比方", "比方", 6, "bǐfang", "instance; analogy; example"], ["方位", "方位", 6, "fāngwèi", "position; direction; points of the compass; bearing"], ["方言", "方言", 6, "fāngyán", "dialect"], ["方圆", "方圓", 6, "fāngyuán", "circumference; neighborhood; vicinity"], ["方针", "方針", 6, "fāngzhēn", "policy; guidelines"], ["官方", "官方", 6, "guānfāng", "official; (by the) government"], ["立方", "立方", 6, "lìfāng", "cube; (mw cubic units of measure)"], ["千方百计", "千方百計", 6, "qiān fāng bǎi jì", "by every possible means"], ["想方设法", "想方設法", 6, "xiǎng fāng shè fǎ", "(saying) think of or try every possible method; by all means possible"]], "strokes": ["M 472 770 Q 506 739 544 700 Q 560 684 580 684 Q 593 684 600 701 Q 607 719 596 756 Q 584 798 467 830 Q 448 834 440 832 Q 433 828 435 811 Q 439 798 472 770 Z", "M 514 542 Q 643 563 895 562 Q 919 563 924 573 Q 931 586 911 603 Q 848 646 789 635 Q 576 592 151 534 Q 126 531 144 511 Q 162 495 182 489 Q 207 483 226 489 Q 341 520 470 537 Q 471 538 474 537 L 514 542 Z", "M 510 433 Q 528 415 615 398 Q 657 389 656 353 Q 653 343 650 324 Q 625 180 576 113 Q 566 101 551 96 Q 527 89 462 118 Q 422 133 418 126 Q 414 116 432 105 Q 492 69 520 19 Q 526 1 538 -5 Q 551 -9 586 14 Q 640 62 688 241 Q 709 334 734 348 Q 746 354 747 363 Q 748 373 725 399 Q 692 432 642 431 Q 584 435 528 459 C 500 470 484 449 510 433 Z", "M 528 459 Q 531 463 534 466 Q 549 476 547 492 Q 540 516 515 542 Q 514 543 514 542 C 493 564 475 567 474 537 Q 481 465 324 257 Q 311 242 298 228 Q 234 162 126 90 Q 119 86 114 81 Q 107 72 118 69 Q 139 63 245 122 Q 270 140 298 162 Q 397 246 493 406 Q 500 421 510 433 L 528 459 Z"]}
+{
+"char": "方",
+"level": 3,
+"info": {
+"gloss": "a square, rectangle; a region; local",
+"pron": "fāng"
+},
+"words": [
+[
+"北方",
+0,
+3,
+"běifāng",
+"north; the northern part of the country"
+],
+[
+"地方",
+0,
+3,
+"dìfang",
+"place; space; room; part, (fāng: local; regional)"
+],
+[
+"方便",
+0,
+3,
+"fāngbiàn",
+"convenient"
+],
+[
+"方法",
+0,
+4,
+"fāngfǎ",
+"method; way; means"
+],
+[
+"方面",
+0,
+4,
+"fāngmiàn",
+"aspect; field; side"
+],
+[
+"方向",
+0,
+4,
+"fāngxiàng",
+"direction; orientation"
+],
+[
+"大方",
+0,
+5,
+"dàfang",
+"generous; poise; (-fang1: expert; scholar)"
+],
+[
+"对方",
+0,
+5,
+"duìfāng",
+"counterpart; the other party involved"
+],
+[
+"方",
+0,
+5,
+"fāng",
+"square; direction; side (Kangxi radical 70)"
+],
+[
+"方案",
+0,
+5,
+"fāng'àn",
+"plan; program (for action, etc.); proposal"
+],
+[
+"方式",
+0,
+5,
+"fāngshì",
+"way; style; fashion; manner"
+],
+[
+"平方",
+0,
+5,
+"píngfāng",
+"square (as in square foot, square mile, etc.)"
+],
+[
+"双方",
+0,
+5,
+"shuāngfāng",
+"bilateral; both sides; both parties involved"
+],
+[
+"比方",
+0,
+6,
+"bǐfang",
+"instance; analogy; example"
+],
+[
+"方位",
+0,
+6,
+"fāngwèi",
+"position; direction; points of the compass; bearing"
+],
+[
+"方言",
+0,
+6,
+"fāngyán",
+"dialect"
+],
+[
+"方圆",
+0,
+6,
+"fāngyuán",
+"circumference; neighborhood; vicinity"
+],
+[
+"方针",
+0,
+6,
+"fāngzhēn",
+"policy; guidelines"
+],
+[
+"官方",
+0,
+6,
+"guānfāng",
+"official; (by the) government"
+],
+[
+"立方",
+0,
+6,
+"lìfāng",
+"cube; (mw cubic units of measure)"
+],
+[
+"千方百计",
+0,
+6,
+"qiān fāng bǎi jì",
+"by every possible means"
+],
+[
+"想方设法",
+0,
+6,
+"xiǎng fāng shè fǎ",
+"(saying) think of or try every possible method; by all means possible"
+]
+],
+"strokes": [
+"M 472 770 Q 506 739 544 700 Q 560 684 580 684 Q 593 684 600 701 Q 607 719 596 756 Q 584 798 467 830 Q 448 834 440 832 Q 433 828 435 811 Q 439 798 472 770 Z",
+"M 514 542 Q 643 563 895 562 Q 919 563 924 573 Q 931 586 911 603 Q 848 646 789 635 Q 576 592 151 534 Q 126 531 144 511 Q 162 495 182 489 Q 207 483 226 489 Q 341 520 470 537 Q 471 538 474 537 L 514 542 Z",
+"M 510 433 Q 528 415 615 398 Q 657 389 656 353 Q 653 343 650 324 Q 625 180 576 113 Q 566 101 551 96 Q 527 89 462 118 Q 422 133 418 126 Q 414 116 432 105 Q 492 69 520 19 Q 526 1 538 -5 Q 551 -9 586 14 Q 640 62 688 241 Q 709 334 734 348 Q 746 354 747 363 Q 748 373 725 399 Q 692 432 642 431 Q 584 435 528 459 C 500 470 484 449 510 433 Z",
+"M 528 459 Q 531 463 534 466 Q 549 476 547 492 Q 540 516 515 542 Q 514 543 514 542 C 493 564 475 567 474 537 Q 481 465 324 257 Q 311 242 298 228 Q 234 162 126 90 Q 119 86 114 81 Q 107 72 118 69 Q 139 63 245 122 Q 270 140 298 162 Q 397 246 493 406 Q 500 421 510 433 L 528 459 Z"
+]
+}

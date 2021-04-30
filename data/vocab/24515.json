@@ -1,1 +1,303 @@
-{"char": "心", "level": 3, "info": {"gloss": "heart; mind, intelligence; soul", "pron": "xīn"}, "words": [["担心", "擔心", 3, "dānxīn", "to worry; feel anxious"], ["放心", "放心", 3, "fàngxīn", "relax; feel relieved; rest assured"], ["关心", "關心", 3, "guānxīn", "concerned about/with"], ["小心", "小心", 3, "xiǎoxīn", "be careful"], ["粗心", "粗心", 4, "cūxīn", "careless; inadvertent; negligent"], ["开心", "開心", 4, "kāixīn", "feel happy; have a great time; make fun of somebody"], ["耐心", "耐心", 4, "nàixīn", "to be patient"], ["伤心", "傷心", 4, "shāngxīn", "sad; grieve; brokenhearted"], ["心情", "心情", 4, "xīnqíng", "mood; state of mind"], ["信心", "信心", 4, "xìnxīn", "confidence; faith (in sb. or sth.)"], ["爱心", "愛心", 5, "àixīn", "compassion"], ["操心", "操心", 5, "cāo xīn", "worry about"], ["当心", "當心", 5, "dāngxīn", "take care; watch out"], ["点心", "點心", 5, "diǎnxin", "dim sum; light refreshments; snacks"], ["核心", "核心", 5, "héxīn", "core; nucleus"], ["灰心", "灰心", 5, "huī xīn", "lose heart; be discouraged"], ["决心", "決心", 5, "juéxīn", "determination; resolution"], ["热心", "熱心", 5, "rèxīn", "enthusiastic; zealous; warmhearted"], ["心理", "心理", 5, "xīnlǐ", "psychology; psychological; mental"], ["心脏", "心髒", 5, "xīnzàng", "heart"], ["虚心", "虛心", 5, "xūxīn", "modest; open-minded"], ["中心", "中心", 5, "zhōngxīn", "center; heart; core"], ["专心", "專心", 5, "zhuānxīn", "be absorbed; concentrate; attentive"], ["称心如意", "稱心如意", 6, "chènxīnrúyì", "find sth. satisfactory"], ["成心", "成心", 6, "chéngxīn", "intentional; deliberate; with prior intent"], ["恶心", "惡心", 6, "ěxin", "disgusting; nauseous; make somebody embarrassed (èxīn: bad/vicious habit; vice)"], ["狠心", "狠心", 6, "hěn xīn", "callous; cruel; cold-blooded"], ["精心", "精心", 6, "jīngxīn", "with utmost care; meticulous; detailed"], ["良心", "良心", 6, "liángxīn", "conscience"], ["齐心协力", "齊心協力", 6, "qíxīnxiélì", "make concerted efforts"], ["小心翼翼", "小心翼翼", 6, "xiǎoxīn yìyì", "carefully; cautiously; with great care"], ["心得", "心得", 6, "xīndé", "knowledge gained"], ["心甘情愿", "心甘情願", 6, "xīngānqíngyuàn", "totally willing; perfectly happy to"], ["心灵", "心靈", 6, "xīnlíng", "heart; soul; smart; quick-witted"], ["心态", "心態", 6, "xīntài", "pyschology; mentality; spirit"], ["心疼", "心疼", 6, "xīnténg", "love dearly; the pain of love"], ["心血", "心血", 6, "xīnxuè", "heart and blood; painstaking effort; meticulous care"], ["心眼儿", "心眼兒", 6, "xīnyǎnr", "one's thoughts; mind; intention; willingness to accept new ideas"], ["野心", "野心", 6, "yěxīn", "ambition; wild schemes or ambitions; careerism"], ["衷心", "衷心", 6, "zhōngxīn", "heartfelt; wholehearted; cordial"], ["重心", "重心", 6, "zhòngxīn", "center of gravity; central core; main part"]], "strokes": ["M 171 459 Q 147 381 112 311 Q 91 269 117 230 Q 129 209 152 227 Q 177 249 190 289 Q 211 344 208 392 Q 211 432 199 462 Q 192 472 185 472 Q 175 469 171 459 Z", "M 863 228 Q 859 243 834 262 Q 797 290 698 391 Q 691 398 685 398 Q 682 397 684 389 Q 708 338 732 281 Q 742 257 728 241 Q 689 208 550 226 Q 441 244 397 323 Q 370 377 355 435 Q 348 463 324 476 Q 306 486 299 478 Q 295 474 302 454 Q 312 429 335 363 Q 372 224 476 178 Q 495 171 521 163 Q 710 115 851 212 Q 866 221 863 228 Z", "M 441 617 Q 475 578 511 531 Q 524 515 541 513 Q 553 512 561 525 Q 568 541 564 574 Q 560 619 444 670 Q 428 677 420 675 Q 414 672 414 658 Q 415 645 441 617 Z", "M 760 585 Q 814 536 877 465 Q 896 441 914 437 Q 924 436 933 447 Q 948 463 932 514 Q 922 563 840 592 Q 789 613 761 621 Q 751 627 748 612 Q 747 596 760 585 Z"]}
+{
+"char": "心",
+"level": 3,
+"info": {
+"gloss": "heart; mind, intelligence; soul",
+"pron": "xīn"
+},
+"words": [
+[
+"担心",
+0,
+3,
+"dānxīn",
+"to worry; feel anxious"
+],
+[
+"放心",
+0,
+3,
+"fàngxīn",
+"relax; feel relieved; rest assured"
+],
+[
+"关心",
+0,
+3,
+"guānxīn",
+"concerned about/with"
+],
+[
+"小心",
+0,
+3,
+"xiǎoxīn",
+"be careful"
+],
+[
+"粗心",
+0,
+4,
+"cūxīn",
+"careless; inadvertent; negligent"
+],
+[
+"开心",
+0,
+4,
+"kāixīn",
+"feel happy; have a great time; make fun of somebody"
+],
+[
+"耐心",
+0,
+4,
+"nàixīn",
+"to be patient"
+],
+[
+"伤心",
+0,
+4,
+"shāngxīn",
+"sad; grieve; brokenhearted"
+],
+[
+"心情",
+0,
+4,
+"xīnqíng",
+"mood; state of mind"
+],
+[
+"信心",
+0,
+4,
+"xìnxīn",
+"confidence; faith (in sb. or sth.)"
+],
+[
+"爱心",
+0,
+5,
+"àixīn",
+"compassion"
+],
+[
+"操心",
+0,
+5,
+"cāo xīn",
+"worry about"
+],
+[
+"当心",
+0,
+5,
+"dāngxīn",
+"take care; watch out"
+],
+[
+"点心",
+0,
+5,
+"diǎnxin",
+"dim sum; light refreshments; snacks"
+],
+[
+"核心",
+0,
+5,
+"héxīn",
+"core; nucleus"
+],
+[
+"灰心",
+0,
+5,
+"huī xīn",
+"lose heart; be discouraged"
+],
+[
+"决心",
+0,
+5,
+"juéxīn",
+"determination; resolution"
+],
+[
+"热心",
+0,
+5,
+"rèxīn",
+"enthusiastic; zealous; warmhearted"
+],
+[
+"心理",
+0,
+5,
+"xīnlǐ",
+"psychology; psychological; mental"
+],
+[
+"心脏",
+0,
+5,
+"xīnzàng",
+"heart"
+],
+[
+"虚心",
+0,
+5,
+"xūxīn",
+"modest; open-minded"
+],
+[
+"中心",
+0,
+5,
+"zhōngxīn",
+"center; heart; core"
+],
+[
+"专心",
+0,
+5,
+"zhuānxīn",
+"be absorbed; concentrate; attentive"
+],
+[
+"称心如意",
+0,
+6,
+"chènxīnrúyì",
+"find sth. satisfactory"
+],
+[
+"成心",
+0,
+6,
+"chéngxīn",
+"intentional; deliberate; with prior intent"
+],
+[
+"恶心",
+0,
+6,
+"ěxin",
+"disgusting; nauseous; make somebody embarrassed (èxīn: bad/vicious habit; vice)"
+],
+[
+"狠心",
+0,
+6,
+"hěn xīn",
+"callous; cruel; cold-blooded"
+],
+[
+"精心",
+0,
+6,
+"jīngxīn",
+"with utmost care; meticulous; detailed"
+],
+[
+"良心",
+0,
+6,
+"liángxīn",
+"conscience"
+],
+[
+"齐心协力",
+0,
+6,
+"qíxīnxiélì",
+"make concerted efforts"
+],
+[
+"小心翼翼",
+0,
+6,
+"xiǎoxīn yìyì",
+"carefully; cautiously; with great care"
+],
+[
+"心得",
+0,
+6,
+"xīndé",
+"knowledge gained"
+],
+[
+"心甘情愿",
+0,
+6,
+"xīngānqíngyuàn",
+"totally willing; perfectly happy to"
+],
+[
+"心灵",
+0,
+6,
+"xīnlíng",
+"heart; soul; smart; quick-witted"
+],
+[
+"心态",
+0,
+6,
+"xīntài",
+"pyschology; mentality; spirit"
+],
+[
+"心疼",
+0,
+6,
+"xīnténg",
+"love dearly; the pain of love"
+],
+[
+"心血",
+0,
+6,
+"xīnxuè",
+"heart and blood; painstaking effort; meticulous care"
+],
+[
+"心眼儿",
+0,
+6,
+"xīnyǎnr",
+"one's thoughts; mind; intention; willingness to accept new ideas"
+],
+[
+"野心",
+0,
+6,
+"yěxīn",
+"ambition; wild schemes or ambitions; careerism"
+],
+[
+"衷心",
+0,
+6,
+"zhōngxīn",
+"heartfelt; wholehearted; cordial"
+],
+[
+"重心",
+0,
+6,
+"zhòngxīn",
+"center of gravity; central core; main part"
+]
+],
+"strokes": [
+"M 171 459 Q 147 381 112 311 Q 91 269 117 230 Q 129 209 152 227 Q 177 249 190 289 Q 211 344 208 392 Q 211 432 199 462 Q 192 472 185 472 Q 175 469 171 459 Z",
+"M 863 228 Q 859 243 834 262 Q 797 290 698 391 Q 691 398 685 398 Q 682 397 684 389 Q 708 338 732 281 Q 742 257 728 241 Q 689 208 550 226 Q 441 244 397 323 Q 370 377 355 435 Q 348 463 324 476 Q 306 486 299 478 Q 295 474 302 454 Q 312 429 335 363 Q 372 224 476 178 Q 495 171 521 163 Q 710 115 851 212 Q 866 221 863 228 Z",
+"M 441 617 Q 475 578 511 531 Q 524 515 541 513 Q 553 512 561 525 Q 568 541 564 574 Q 560 619 444 670 Q 428 677 420 675 Q 414 672 414 658 Q 415 645 441 617 Z",
+"M 760 585 Q 814 536 877 465 Q 896 441 914 437 Q 924 436 933 447 Q 948 463 932 514 Q 922 563 840 592 Q 789 613 761 621 Q 751 627 748 612 Q 747 596 760 585 Z"
+]
+}

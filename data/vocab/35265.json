@@ -1,1 +1,114 @@
-{"char": "见", "level": 1, "info": {"gloss": "see, observe, behold; perceive", "pron": "jiàn, xiàn"}, "words": [["看见", "看見", 1, "kànjiàn", "see; catch sight of"], ["再见", "再見", 1, "zàijiàn", "goodbye; see you later"], ["见面", "見面", 3, "jiànmiàn", "meet/see somebody; meeting"], ["意见", "意見", 4, "yìjiàn", "opinion; view; suggestion; complaint"], ["不见得", "不見得", 5, "bújiàndé", "not necessarily; not likely"], ["可见", "可見", 5, "kějiàn", "it can clearly be seen that; clear"], ["各抒己见", "各抒己見", 6, "gèshūjǐjiàn", "everyone gives their own view"], ["罕见", "罕見", 6, "hǎnjiàn", "rare; rarely seen; peculiar"], ["见多识广", "見多識廣", 6, "jiànduōshíguǎng", "experienced and knowledgeable"], ["见解", "見解", 6, "jiànjiě", "view; opinion; understanding"], ["见闻", "見聞", 6, "jiànwén", "information"], ["见义勇为", "見義勇爲", 6, "jiànyìyǒngwéi", "to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"], ["偏见", "偏見", 6, "piānjiàn", "prejudice"], ["喜闻乐见", "喜聞樂見", 6, "xǐwénlèjiàn", "a delight to see (idiom); an attractive spectacle"]], "strokes": ["M 354 733 Q 333 749 309 756 Q 299 757 292 749 Q 288 742 297 731 Q 336 623 305 442 Q 287 382 292 360 Q 302 323 315 309 Q 328 294 338 309 Q 366 348 368 480 Q 368 645 378 701 C 380 715 379 716 354 733 Z", "M 631 392 Q 624 367 637 344 Q 652 313 662 314 Q 677 315 694 350 Q 709 378 708 400 Q 696 493 698 636 Q 698 678 721 713 Q 731 731 724 741 Q 694 766 643 789 Q 627 795 601 786 Q 487 738 354 733 C 324 731 348 696 378 701 Q 382 701 388 702 Q 599 747 622 733 Q 634 708 639 639 Q 642 431 631 392 Z", "M 461 555 Q 451 255 345 132 Q 327 114 305 95 Q 260 56 163 7 Q 150 3 146 -2 Q 142 -8 157 -10 Q 247 -16 380 96 Q 396 114 412 133 Q 493 245 509 451 Q 518 541 535 584 Q 541 594 532 603 Q 514 621 478 637 Q 457 647 440 643 Q 419 636 435 617 Q 462 586 461 555 Z", "M 969 60 Q 947 121 932 225 Q 929 241 922 246 Q 913 250 910 230 Q 903 98 885 73 Q 855 39 717 34 Q 644 35 611 47 Q 583 62 577 80 Q 567 108 570 180 Q 577 259 593 295 Q 606 326 587 344 Q 535 384 519 381 Q 503 375 510 357 Q 531 317 525 259 Q 516 81 540 45 Q 565 2 658 -12 Q 722 -21 824 -16 Q 915 -12 951 9 Q 984 27 969 60 Z"]}
+{
+"char": "见",
+"level": 1,
+"info": {
+"gloss": "see, observe, behold; perceive",
+"pron": "jiàn, xiàn"
+},
+"words": [
+[
+"看见",
+0,
+1,
+"kànjiàn",
+"see; catch sight of"
+],
+[
+"再见",
+0,
+1,
+"zàijiàn",
+"goodbye; see you later"
+],
+[
+"见面",
+0,
+3,
+"jiànmiàn",
+"meet/see somebody; meeting"
+],
+[
+"意见",
+0,
+4,
+"yìjiàn",
+"opinion; view; suggestion; complaint"
+],
+[
+"不见得",
+0,
+5,
+"bújiàndé",
+"not necessarily; not likely"
+],
+[
+"可见",
+0,
+5,
+"kějiàn",
+"it can clearly be seen that; clear"
+],
+[
+"各抒己见",
+0,
+6,
+"gèshūjǐjiàn",
+"everyone gives their own view"
+],
+[
+"罕见",
+0,
+6,
+"hǎnjiàn",
+"rare; rarely seen; peculiar"
+],
+[
+"见多识广",
+0,
+6,
+"jiànduōshíguǎng",
+"experienced and knowledgeable"
+],
+[
+"见解",
+0,
+6,
+"jiànjiě",
+"view; opinion; understanding"
+],
+[
+"见闻",
+0,
+6,
+"jiànwén",
+"information"
+],
+[
+"见义勇为",
+0,
+6,
+"jiànyìyǒngwéi",
+"to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
+],
+[
+"偏见",
+0,
+6,
+"piānjiàn",
+"prejudice"
+],
+[
+"喜闻乐见",
+0,
+6,
+"xǐwénlèjiàn",
+"a delight to see (idiom); an attractive spectacle"
+]
+],
+"strokes": [
+"M 354 733 Q 333 749 309 756 Q 299 757 292 749 Q 288 742 297 731 Q 336 623 305 442 Q 287 382 292 360 Q 302 323 315 309 Q 328 294 338 309 Q 366 348 368 480 Q 368 645 378 701 C 380 715 379 716 354 733 Z",
+"M 631 392 Q 624 367 637 344 Q 652 313 662 314 Q 677 315 694 350 Q 709 378 708 400 Q 696 493 698 636 Q 698 678 721 713 Q 731 731 724 741 Q 694 766 643 789 Q 627 795 601 786 Q 487 738 354 733 C 324 731 348 696 378 701 Q 382 701 388 702 Q 599 747 622 733 Q 634 708 639 639 Q 642 431 631 392 Z",
+"M 461 555 Q 451 255 345 132 Q 327 114 305 95 Q 260 56 163 7 Q 150 3 146 -2 Q 142 -8 157 -10 Q 247 -16 380 96 Q 396 114 412 133 Q 493 245 509 451 Q 518 541 535 584 Q 541 594 532 603 Q 514 621 478 637 Q 457 647 440 643 Q 419 636 435 617 Q 462 586 461 555 Z",
+"M 969 60 Q 947 121 932 225 Q 929 241 922 246 Q 913 250 910 230 Q 903 98 885 73 Q 855 39 717 34 Q 644 35 611 47 Q 583 62 577 80 Q 567 108 570 180 Q 577 259 593 295 Q 606 326 587 344 Q 535 384 519 381 Q 503 375 510 357 Q 531 317 525 259 Q 516 81 540 45 Q 565 2 658 -12 Q 722 -21 824 -16 Q 915 -12 951 9 Q 984 27 969 60 Z"
+]
+}

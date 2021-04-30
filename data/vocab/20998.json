@@ -1,1 +1,205 @@
-{"char": "分", "level": 1, "info": {"gloss": "divide; small unit of time etc.", "pron": "fēn, fèn"}, "words": [["分钟", "分鐘", 1, "fēnzhōng", "minute; (measure word for time)"], ["分", "分", 3, "fēn, fèn", "divide; part; minute; cent | component; share; ingredient"], ["百分之", "百分之", 4, "bǎifēnzhī", "percent"], ["部分", "部分", 4, "bùfen", "part; share; section"], ["十分", "十分", 4, "shífēn", "very; fully; 100%"], ["成分", "成分", 5, "chéngfèn", "ingredient; composition"], ["充分", "充分", 5, "chōngfèn", "full; abundant; ample"], ["分别", "分別", 5, "fēnbié", "distinguish; split up; difference; to part"], ["分布", "分布", 5, "fēnbù", "be distributed (over an area); be scattered"], ["分配", "分配", 5, "fēnpèi", "distribute; assign; allocate"], ["分手", "分手", 5, "fēnshǒu", "part company; break up"], ["分析", "分析", 5, "fēnxī", "analyze; analysis"], ["过分", "過分", 5, "guòfèn", "excessive; overly"], ["处分", "處分", 6, "chǔfèn", "punish; punishment; discipline; disposal"], ["分辨", "分辨", 6, "fēnbiàn", "distinguish; differentiate; resolve"], ["分寸", "分寸", 6, "fēncun", "propriety; the limits of proper speech or action"], ["分红", "分紅", 6, "fēn hóng", "a bonus; to award a bonus; to draw or recieve dividends; to share profits"], ["分解", "分解", 6, "fēnjiě", "to decompose; to resolve; to break down"], ["分裂", "分裂", 6, "fēnliè", "split up; to divide; separate"], ["分泌", "分泌", 6, "fēnmì", "secrete"], ["分明", "分明", 6, "fēnmíng", "clear; distinct; evidently; clearly"], ["分歧", "分歧", 6, "fēnqí", "difference (of opinion/position）"], ["分散", "分散", 6, "fēnsàn", "to scatter; disperse; distribute"], ["分量", "分量", 6, "fènliàng", "weight; heft; amount"], ["划分", "劃分", 6, "huàfēn", "divide up; differentiate"], ["区分", "區分", 6, "qūfēn", "differentiate; find differing aspects; find the difference between"], ["万分", "萬分", 6, "wànfēn", "very much; extremely"]], "strokes": ["M 324 682 Q 328 610 221 489 Q 170 440 94 376 Q 85 372 96 368 Q 144 368 253 455 Q 331 533 390 611 Q 399 623 405 627 Q 414 633 412 643 Q 411 653 399 667 Q 365 701 331 697 Q 322 696 324 682 Z", "M 448 795 Q 506 765 551 690 Q 710 426 782 412 Q 839 412 959 425 Q 984 428 984 434 Q 984 441 960 448 Q 792 500 734 551 Q 662 611 551 774 Q 524 813 479 815 Q 448 816 445 808 Q 441 798 448 795 Z", "M 434 376 Q 510 395 575 405 Q 600 408 604 400 Q 617 378 606 323 Q 584 169 544 104 Q 526 71 498 76 Q 461 88 427 101 Q 402 108 420 85 Q 478 37 507 0 Q 532 -27 555 -3 Q 592 25 617 74 Q 647 132 663 308 Q 669 369 690 401 Q 703 416 697 427 Q 687 440 630 465 Q 608 475 586 460 Q 559 444 456 421 Q 353 396 266 390 Q 245 389 242 379 Q 241 369 268 356 Q 296 337 320 346 Q 354 356 388 364 L 434 376 Z", "M 388 364 Q 388 205 153 38 Q 144 31 151 27 Q 158 24 170 28 Q 228 47 279 83 Q 366 138 437 282 Q 450 304 465 327 Q 474 336 468 347 Q 462 357 434 376 C 410 393 389 394 388 364 Z"]}
+{
+"char": "分",
+"level": 1,
+"info": {
+"gloss": "divide; small unit of time etc.",
+"pron": "fēn, fèn"
+},
+"words": [
+[
+"分钟",
+0,
+1,
+"fēnzhōng",
+"minute; (measure word for time)"
+],
+[
+"分",
+0,
+3,
+"fēn, fèn",
+"divide; part; minute; cent | component; share; ingredient"
+],
+[
+"百分之",
+0,
+4,
+"bǎifēnzhī",
+"percent"
+],
+[
+"部分",
+0,
+4,
+"bùfen",
+"part; share; section"
+],
+[
+"十分",
+0,
+4,
+"shífēn",
+"very; fully; 100%"
+],
+[
+"成分",
+0,
+5,
+"chéngfèn",
+"ingredient; composition"
+],
+[
+"充分",
+0,
+5,
+"chōngfèn",
+"full; abundant; ample"
+],
+[
+"分别",
+0,
+5,
+"fēnbié",
+"distinguish; split up; difference; to part"
+],
+[
+"分布",
+0,
+5,
+"fēnbù",
+"be distributed (over an area); be scattered"
+],
+[
+"分配",
+0,
+5,
+"fēnpèi",
+"distribute; assign; allocate"
+],
+[
+"分手",
+0,
+5,
+"fēnshǒu",
+"part company; break up"
+],
+[
+"分析",
+0,
+5,
+"fēnxī",
+"analyze; analysis"
+],
+[
+"过分",
+0,
+5,
+"guòfèn",
+"excessive; overly"
+],
+[
+"处分",
+0,
+6,
+"chǔfèn",
+"punish; punishment; discipline; disposal"
+],
+[
+"分辨",
+0,
+6,
+"fēnbiàn",
+"distinguish; differentiate; resolve"
+],
+[
+"分寸",
+0,
+6,
+"fēncun",
+"propriety; the limits of proper speech or action"
+],
+[
+"分红",
+0,
+6,
+"fēn hóng",
+"a bonus; to award a bonus; to draw or recieve dividends; to share profits"
+],
+[
+"分解",
+0,
+6,
+"fēnjiě",
+"to decompose; to resolve; to break down"
+],
+[
+"分裂",
+0,
+6,
+"fēnliè",
+"split up; to divide; separate"
+],
+[
+"分泌",
+0,
+6,
+"fēnmì",
+"secrete"
+],
+[
+"分明",
+0,
+6,
+"fēnmíng",
+"clear; distinct; evidently; clearly"
+],
+[
+"分歧",
+0,
+6,
+"fēnqí",
+"difference (of opinion/position）"
+],
+[
+"分散",
+0,
+6,
+"fēnsàn",
+"to scatter; disperse; distribute"
+],
+[
+"分量",
+0,
+6,
+"fènliàng",
+"weight; heft; amount"
+],
+[
+"划分",
+0,
+6,
+"huàfēn",
+"divide up; differentiate"
+],
+[
+"区分",
+0,
+6,
+"qūfēn",
+"differentiate; find differing aspects; find the difference between"
+],
+[
+"万分",
+0,
+6,
+"wànfēn",
+"very much; extremely"
+]
+],
+"strokes": [
+"M 324 682 Q 328 610 221 489 Q 170 440 94 376 Q 85 372 96 368 Q 144 368 253 455 Q 331 533 390 611 Q 399 623 405 627 Q 414 633 412 643 Q 411 653 399 667 Q 365 701 331 697 Q 322 696 324 682 Z",
+"M 448 795 Q 506 765 551 690 Q 710 426 782 412 Q 839 412 959 425 Q 984 428 984 434 Q 984 441 960 448 Q 792 500 734 551 Q 662 611 551 774 Q 524 813 479 815 Q 448 816 445 808 Q 441 798 448 795 Z",
+"M 434 376 Q 510 395 575 405 Q 600 408 604 400 Q 617 378 606 323 Q 584 169 544 104 Q 526 71 498 76 Q 461 88 427 101 Q 402 108 420 85 Q 478 37 507 0 Q 532 -27 555 -3 Q 592 25 617 74 Q 647 132 663 308 Q 669 369 690 401 Q 703 416 697 427 Q 687 440 630 465 Q 608 475 586 460 Q 559 444 456 421 Q 353 396 266 390 Q 245 389 242 379 Q 241 369 268 356 Q 296 337 320 346 Q 354 356 388 364 L 434 376 Z",
+"M 388 364 Q 388 205 153 38 Q 144 31 151 27 Q 158 24 170 28 Q 228 47 279 83 Q 366 138 437 282 Q 450 304 465 327 Q 474 336 468 347 Q 462 357 434 376 C 410 393 389 394 388 364 Z"
+]
+}
