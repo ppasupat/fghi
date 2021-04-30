@@ -8,73 +8,125 @@
 "words": [
 [
 "说",
-0,
 1,
 "shuō",
 "speak"
 ],
 [
 "说话",
-0,
 2,
 "shuōhuà",
 "to talk; speak"
 ],
 [
 "说明",
-0,
 4,
 "shuōmíng",
 "explain; explanation; illustrate; to show"
 ],
 [
 "小说",
-0,
 4,
 "xiǎoshuō",
 "novel; fiction"
 ],
 [
 "传说",
-0,
 5,
 "chuánshuō",
 "it is said; legend; pass on (a story)"
 ],
 [
 "胡说",
-0,
 5,
 "húshuō",
 "talk nonsense; drivel"
 ],
 [
 "据说",
-0,
 5,
 "jùshuō",
 "it is said that; reportedly"
 ],
 [
 "说不定",
-0,
 5,
 "shuōbudìng",
 "can't say for sure; perhaps; maybe"
 ],
 [
 "说服",
-0,
 5,
 "shuō fú",
 "persuade; convince"
 ],
 [
 "学说",
-0,
 6,
 "xuéshuō",
 "theory; doctrine"
+]
+],
+"extraWords": [
+[
+"来说",
+358,
+"lai2 shuo1",
+"\"to have one's say; to interpret a topic (from a certain point of view); now we come to talk about it, ...\""
+],
+[
+"听说",
+420,
+"ting1 shuo1",
+"to hear told"
+],
+[
+"再说",
+1278,
+"zai4 shuo1",
+"let's talk about it later; what's more; besides"
+],
+[
+"说谎",
+1366,
+"shuo1 huang3",
+"to lie; to tell an untruth"
+],
+[
+"也就是说",
+2064,
+"ye3 jiu4 shi4 shuo1",
+"in other words; that is to say; so; thus"
+],
+[
+"说法",
+2306,
+"shuo1 fa5",
+"way or style of speaking; statement; wording; to expound Buddhist teaching; way of speaking; wording; formulation; one's version (of events); statement; theory; hypothesis; interpretation"
+],
+[
+"说说",
+2795,
+"shuo1 shuo5",
+"to say sth"
+],
+[
+"胡说八道",
+3950,
+"hu2 shuo1 ba1 dao4",
+"to talk rubbish"
+],
+[
+"说来话长",
+5439,
+"shuo1 lai2 hua4 chang2",
+"start explaining and it's a long story (idiom); complicated and not easy to express succinctly"
+],
+[
+"演说",
+6406,
+"yan3 shuo1",
+"speech; to deliver a speech"
 ]
 ],
 "strokes": [

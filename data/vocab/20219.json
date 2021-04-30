@@ -8,80 +8,131 @@
 "words": [
 [
 "任何",
-0,
 4,
 "rènhé",
 "any; whatever; whichever"
 ],
 [
 "任务",
-0,
 4,
 "rènwu",
 "a mission; an assignment; a task"
 ],
 [
 "责任",
-0,
 4,
 "zérèn",
 "responsibility; blame; duty"
 ],
 [
 "担任",
-0,
 5,
 "dānrèn",
 "hold the post of; serve as"
 ],
 [
 "信任",
-0,
 5,
 "xìnrèn",
 "to trust; have confidence in"
 ],
 [
 "主任",
-0,
 5,
 "zhǔrèn",
 "director; head; chief"
 ],
 [
 "任命",
-0,
 6,
 "rènmìng",
 "appoint and nominate"
 ],
 [
 "任性",
-0,
 6,
 "rènxìng",
 "willful; headstrong"
 ],
 [
 "任意",
-0,
 6,
 "rènyì",
 "arbitrarily; at will; at random"
 ],
 [
 "任重道远",
-0,
 6,
 "rènzhòngdàoyuǎn",
 "lit. a heavy load and a long road; fig. to bear heavy responsibilities through a long struggle; shoulder heavy responsibilities"
 ],
 [
 "上任",
-0,
 6,
 "shàng rèn",
 "take office"
+]
+],
+"extraWords": [
+[
+"任何人",
+850,
+"ren4 he2 ren2",
+"anyone"
+],
+[
+"任",
+2558,
+"ren2/ren4",
+"\"to assign; to appoint; to take up a post; office; responsibility; to let; to allow; to give free rein to; no matter (how, what etc); surname Ren\""
+],
+[
+"前任",
+5003,
+"qian2 ren4",
+"predecessor; ex-; former"
+],
+[
+"胜任",
+6304,
+"sheng4 ren4",
+"qualified; competent (professionally); to be up to a task"
+],
+[
+"放任",
+10616,
+"fang4 ren4",
+"indulge"
+],
+[
+"责任感",
+11281,
+"ze2 ren4 gan3",
+"sense of responsibility"
+],
+[
+"下任",
+12090,
+"xia4 ren4",
+"next office holder; next to serve"
+],
+[
+"新任",
+13029,
+"xin1 ren4",
+"newly-appointed; newly elected; new (in a political office)"
+],
+[
+"任职",
+13288,
+"ren4 zhi2",
+"hold an office or post"
+],
+[
+"任由",
+13400,
+"ren4 you2",
+"uncaring; indifferent; ignoring"
 ]
 ],
 "strokes": [

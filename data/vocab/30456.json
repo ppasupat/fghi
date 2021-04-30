@@ -8,122 +8,167 @@
 "words": [
 [
 "相信",
-0,
 3,
 "xiāngxìn",
 "believe (sb.); be convinced of"
 ],
 [
 "照相机",
-0,
 3,
 "zhàoxiàngjī",
 "camera"
 ],
 [
 "互相",
-0,
 4,
 "hùxiāng",
 "mutually; with each other"
 ],
 [
 "相反",
-0,
 4,
 "xiāngfǎn",
 "opposite; contrary"
 ],
 [
 "相同",
-0,
 4,
 "xiāngtóng",
 "identical; same; alike"
 ],
 [
 "相处",
-0,
 5,
 "xiāngchǔ",
 "get along; interact"
 ],
 [
 "相当",
-0,
 5,
 "xiāngdāng",
 "equivalent to; appropriate; considerably; quite"
 ],
 [
 "相对",
-0,
 5,
 "xiāngduì",
 "opposite; relatively; to resist"
 ],
 [
 "相关",
-0,
 5,
 "xiāngguān",
 "correlation; interrelated; dependence"
 ],
 [
 "相似",
-0,
 5,
 "xiāngsì",
 "similar; resemble; like"
 ],
 [
 "不相上下",
-0,
 6,
 "bù xiāng shàng xià",
 "equally matched; about the same"
 ],
 [
 "相差",
-0,
 6,
 "xiāngchà",
 "differ; difference"
 ],
 [
 "相等",
-0,
 6,
 "xiāngděng",
 "be equal to; equally; equivalent"
 ],
 [
 "相辅相成",
-0,
 6,
 "xiāngfǔxiāngchéng",
 "supplement and complement each other"
 ],
 [
 "相应",
-0,
 6,
 "xiāngyìng",
 "correspond; relevant"
 ],
 [
 "相声",
-0,
 6,
 "xiàngsheng",
 "comic dialogue; crosstalk"
 ],
 [
 "真相",
-0,
 6,
 "zhēnxiàng",
 "the actual facts; reality"
+]
+],
+"extraWords": [
+[
+"相",
+1625,
+"xiang1/xiang4",
+"each other; one another; mutually; appearance; portrait; picture"
+],
+[
+"相互",
+3173,
+"xiang1 hu4",
+"each other; mutual"
+],
+[
+"相爱",
+3741,
+"xiang1 ai4",
+"to love each other"
+],
+[
+"相机",
+3779,
+"xiang4 ji1",
+"a camera; variant of 照相机"
+],
+[
+"相比",
+4550,
+"xiang1 bi3",
+"compared to"
+],
+[
+"相遇",
+5071,
+"xiang1 yu4",
+"to meet; to come across"
+],
+[
+"相符",
+5124,
+"xiang1 fu2",
+"to match; to tally"
+],
+[
+"首相",
+5341,
+"shou3 xiang4",
+"prime minister (of Japan or UK etc)"
+],
+[
+"相片",
+5744,
+"xiang4 pian4",
+"image; photograph"
+],
+[
+"照相",
+5917,
+"zhao4 xiang4",
+"take a photograph"
 ]
 ],
 "strokes": [

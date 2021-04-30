@@ -8,150 +8,191 @@
 "words": [
 [
 "主要",
-0,
 3,
 "zhǔyào",
 "main; principal; major"
 ],
 [
 "主意",
-0,
 4,
 "zhǔyi",
 "plan; idea; decision"
 ],
 [
 "公主",
-0,
 5,
 "gōngzhǔ",
 "princess"
 ],
 [
 "主持",
-0,
 5,
 "zhǔchí",
 "preside over; manage; to direct"
 ],
 [
 "主动",
-0,
 5,
 "zhǔdòng",
 "to take initiative; voluntary"
 ],
 [
 "主观",
-0,
 5,
 "zhǔguān",
 "subjective"
 ],
 [
 "主人",
-0,
 5,
 "zhǔrén",
 "master; host; owner"
 ],
 [
 "主任",
-0,
 5,
 "zhǔrèn",
 "director; head; chief"
 ],
 [
 "主题",
-0,
 5,
 "zhǔtí",
 "theme; subject; topic"
 ],
 [
 "主席",
-0,
 5,
 "zhǔxí",
 "chairperson; president"
 ],
 [
 "主张",
-0,
 5,
 "zhǔzhāng",
 "to advocate; viewpoint; position"
 ],
 [
 "东道主",
-0,
 6,
 "dōngdàozhǔ",
 "host for a party or conference"
 ],
 [
 "民主",
-0,
 6,
 "mínzhǔ",
 "democracy"
 ],
 [
 "主办",
-0,
 6,
 "zhǔbàn",
 "to host (a conference or sports event)"
 ],
 [
 "主导",
-0,
 6,
 "zhǔdǎo",
 "leading; dominant; guiding"
 ],
 [
 "主管",
-0,
 6,
 "zhǔguǎn",
 "person in charge of (a position, etc.); preside over; Chief Operating Officer (COO)"
 ],
 [
 "主流",
-0,
 6,
 "zhǔliú",
 "main stream (of a river); the essential point"
 ],
 [
 "主权",
-0,
 6,
 "zhǔquán",
 "sovereignty"
 ],
 [
 "主义",
-0,
 6,
 "zhǔyì",
 "-ism; ideology"
 ],
 [
 "自主",
-0,
 6,
 "zìzhǔ",
 "independent; to act for oneself; autonomous"
 ],
 [
 "做主",
-0,
 6,
 "zuòzhǔ",
 "decide; take the responsibility for a decision"
+]
+],
+"extraWords": [
+[
+"主",
+996,
+"zhu3",
+"to own; to host; master; lord; primary"
+],
+[
+"主角",
+2877,
+"zhu3 jue2",
+"leading role; lead"
+],
+[
+"主持人",
+4206,
+"zhu3 chi2 ren2",
+"tv or radio presenter; host; anchor"
+],
+[
+"主教",
+5293,
+"zhu3 jiao4",
+"bishop"
+],
+[
+"主妇",
+5444,
+"zhu3 fu4",
+"housewife"
+],
+[
+"救世主",
+6150,
+"jiu4 shi4 zhu3",
+"the Savior (in Christianity)"
+],
+[
+"天主教",
+6863,
+"Tian1 zhu3 jiao4",
+"Catholic church"
+],
+[
+"民主党",
+7555,
+"Min2 zhu3 dang3",
+"Democratic Party"
+],
+[
+"主宰",
+7715,
+"zhu3 zai3",
+"dominate; rule"
+],
+[
+"雇主",
+8120,
+"gu4 zhu3",
+"employer"
 ]
 ],
 "strokes": [

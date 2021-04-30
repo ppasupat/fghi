@@ -8,59 +8,113 @@
 "words": [
 [
 "充电器",
-0,
 5,
 "chōngdiànqì",
 "battery charger"
 ],
 [
 "机器",
-0,
 5,
 "jīqì",
 "machine"
 ],
 [
 "乐器",
-0,
 5,
 "yuèqì",
 "musical instrument"
 ],
 [
 "器材",
-0,
 6,
 "qìcái",
 "equipment; material"
 ],
 [
 "器官",
-0,
 6,
 "qìguān",
 "organ; apparatus"
 ],
 [
 "容器",
-0,
 6,
 "róngqì",
 "container; receptacle; vessel"
 ],
 [
 "武器",
-0,
 6,
 "wǔqì",
 "weapon; arms"
 ],
 [
 "仪器",
-0,
 6,
 "yíqì",
 "apparatus; (scientific) instrument"
+]
+],
+"extraWords": [
+[
+"器",
+1474,
+"qi4",
+"device; tool; utensil"
+],
+[
+"机器人",
+1997,
+"ji1 qi4 ren2",
+"mechanical person; robot"
+],
+[
+"凶器",
+2805,
+"xiong1 qi4",
+"lethal weapon; murder weapon"
+],
+[
+"服务器",
+5981,
+"fu2 wu4 qi4",
+"server (computer)"
+],
+[
+"探测器",
+7498,
+"tan4 ce4 qi4",
+"detector; probe; craft"
+],
+[
+"遥控器",
+7776,
+"yao2 kong4 qi4",
+"remote control"
+],
+[
+"核武器",
+7938,
+"he2 wu3 qi4",
+"nuclear weapon"
+],
+[
+"传感器",
+9145,
+"chuan2 gan3 qi4",
+"sensor; transducer"
+],
+[
+"吸尘器",
+9803,
+"xi1 chen2 qi4",
+"vacuum cleaner; dust catcher"
+],
+[
+"注射器",
+10401,
+"zhu4 she4 qi4",
+"syringe"
 ]
 ],
 "strokes": [

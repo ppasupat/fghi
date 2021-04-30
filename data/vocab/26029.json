@@ -8,73 +8,125 @@
 "words": [
 [
 "判断",
-0,
 4,
 "pànduàn",
 "to judge; judgment; to decide"
 ],
 [
 "不断",
-0,
 5,
 "búduàn",
 "unceasing; uninterrupted; continuously"
 ],
 [
 "断",
-0,
 5,
 "duàn",
 "to break; decide; absolutely (usually negative)"
 ],
 [
 "诊断",
-0,
 5,
 "zhěnduàn",
 "diagnosis; diagnose"
 ],
 [
 "断定",
-0,
 6,
 "duàndìng",
 "conclude; determine; figure out"
 ],
 [
 "断绝",
-0,
 6,
 "duànjué",
 "sever; break off"
 ],
 [
 "果断",
-0,
 6,
 "guǒduàn",
 "firm; decisive"
 ],
 [
 "垄断",
-0,
 6,
 "lǒngduàn",
 "monopoly"
 ],
 [
 "片断",
-0,
 6,
 "piànduàn",
 "part; passage; extract; fragment; snatch"
 ],
 [
 "中断",
-0,
 6,
 "zhōngduàn",
 "interrupt; break off"
+]
+],
+"extraWords": [
+[
+"打断",
+2568,
+"da3 duan4",
+"to interrupt; to break off; to break (a bone)"
+],
+[
+"切断",
+3574,
+"qie1 duan4",
+"to cut off (a supply etc)"
+],
+[
+"推断",
+8015,
+"tui1 duan4",
+"to infer; to deduce; to predict; to extrapolate"
+],
+[
+"判断力",
+8142,
+"pan4 duan4 li4",
+"ability to judge; judgment"
+],
+[
+"折断",
+9623,
+"zhe2 duan4",
+"to snap sth off; to break"
+],
+[
+"割断",
+9754,
+"ge1 duan4",
+"to cut off; to sever"
+],
+[
+"断层",
+12131,
+"duan4 ceng2",
+"\"geologic fault; CL:道[dao4],\""
+],
+[
+"断裂",
+12597,
+"duan4 lie4",
+"fracture; rupture"
+],
+[
+"间断",
+14034,
+"jian4 duan4",
+"disconnected; interrupted; suspended"
+],
+[
+"断电",
+14968,
+"duan4 dian4",
+"power cut; electric power failure"
 ]
 ],
 "strokes": [

@@ -8,213 +8,245 @@
 "words": [
 [
 "成绩",
-0,
 3,
 "chéngjì",
 "achievement; success; results (of work or study)"
 ],
 [
 "完成",
-0,
 3,
 "wánchéng",
 "to complete; accomplish; to fulfill"
 ],
 [
 "成功",
-0,
 4,
 "chénggōng",
 "success; to succeed"
 ],
 [
 "成为",
-0,
 4,
 "chéngwéi",
 "become; turn into"
 ],
 [
 "养成",
-0,
 4,
 "yǎngchéng",
 "cultivate; acquire; to form"
 ],
 [
 "成分",
-0,
 5,
 "chéngfèn",
 "ingredient; composition"
 ],
 [
 "成果",
-0,
 5,
 "chéngguǒ",
 "result; achievement; gain"
 ],
 [
 "成就",
-0,
 5,
 "chéngjiù",
 "accomplishment; achievement; success"
 ],
 [
 "成立",
-0,
 5,
 "chénglì",
 "establish; to set up"
 ],
 [
 "成人",
-0,
 5,
 "chéngrén",
 "adult; to grow up; become full-grown"
 ],
 [
 "成熟",
-0,
 5,
 "chéngshú",
 "mature; ripe"
 ],
 [
 "成语",
-0,
 5,
 "chéngyǔ",
 "idiom; proverb"
 ],
 [
 "成长",
-0,
 5,
 "chéngzhǎng",
 "to mature; grow up"
 ],
 [
 "构成",
-0,
 5,
 "gòuchéng",
 "to constitute; to compose"
 ],
 [
 "形成",
-0,
 5,
 "xíngchéng",
 "take shape; form"
 ],
 [
 "赞成",
-0,
 5,
 "zànchéng",
 "approve; endorse"
 ],
 [
 "造成",
-0,
 5,
 "zàochéng",
 "to cause; make; bring out"
 ],
 [
 "组成",
-0,
 5,
 "zǔchéng",
 "to form; part; element; constitute"
 ],
 [
 "成本",
-0,
 6,
 "chéngběn",
 "cost (manufacturing, production, etc.)"
 ],
 [
 "成交",
-0,
 6,
 "chéngjiāo",
 "complete a contract; clinch a deal; to seal"
 ],
 [
 "成天",
-0,
 6,
 "chéngtiān",
 "all day long; all the time"
 ],
 [
 "成效",
-0,
 6,
 "chéngxiào",
 "effect; result"
 ],
 [
 "成心",
-0,
 6,
 "chéngxīn",
 "intentional; deliberate; with prior intent"
 ],
 [
 "成员",
-0,
 6,
 "chéngyuán",
 "member"
 ],
 [
 "达成",
-0,
 6,
 "dá chéng",
 "to reach (an agreement); achieve"
 ],
 [
 "合成",
-0,
 6,
 "héchéng",
 "compound; synthesis; mixture"
 ],
 [
 "急于求成",
-0,
 6,
 "jíyúqiúchéng",
 "impatient for success"
 ],
 [
 "落成",
-0,
 6,
 "luòchéng",
 "complete a construction project"
 ],
 [
 "现成",
-0,
 6,
 "xiànchéng",
 "ready-made; off-the-shelf"
 ],
 [
 "相辅相成",
-0,
 6,
 "xiāngfǔxiāngchéng",
 "supplement and complement each other"
+]
+],
+"extraWords": [
+[
+"成",
+284,
+"cheng2",
+"finish; complete; accomplish; become; turn into; win; succeed; one tenth; surname Cheng"
+],
+[
+"变成",
+550,
+"bian4 cheng2",
+"to change into; to turn into; to become"
+],
+[
+"当成",
+2313,
+"dang4 cheng2",
+"to consider as; take to be"
+],
+[
+"成年人",
+3669,
+"cheng2 nian2 ren2",
+"adult person"
+],
+[
+"成千上万",
+5159,
+"cheng2 qian1 shang4 wan4",
+"lit. by the thousands and tens of thousands (idiom); untold numbers; innumerable; thousands upon thousands"
+],
+[
+"分成",
+6459,
+"fen1 cheng2",
+"to divide (into); to split a bonus; to break into"
+],
+[
+"成年",
+7984,
+"cheng2 nian2",
+"adult"
+],
+[
+"成名",
+8241,
+"cheng2 ming2",
+"to make one's name; to become famous"
+],
+[
+"未成年人",
+9455,
+"wei4 cheng2 nian2 ren2",
+"minor (i.e. person under 18)"
+],
+[
+"成像",
+10657,
+"cheng2 xiang4",
+"imaging"
 ]
 ],
 "strokes": [

@@ -8,38 +8,95 @@
 "words": [
 [
 "生病",
-0,
 2,
 "shēngbìng",
 "get sick; fall ill"
 ],
 [
 "病毒",
-0,
 5,
 "bìngdú",
 "virus"
 ],
 [
 "毛病",
-0,
 5,
 "máobìng",
 "fault; bad habit; shortcoming"
 ],
 [
 "弊病",
-0,
 6,
 "bìbìng",
 "malady; evil; malpractice; drawback"
 ],
 [
 "疾病",
-0,
 6,
 "jíbìng",
 "disease; illness; sickness; ailment"
+]
+],
+"extraWords": [
+[
+"病",
+825,
+"bing4",
+"ailment; sickness; illness; disease; fall ill; sick; defect"
+],
+[
+"病人",
+906,
+"bing4 ren2",
+"sick person; [medical] patient; invalid"
+],
+[
+"心脏病",
+2748,
+"xin1 zang4 bing4",
+"heart disease"
+],
+[
+"精神病",
+3990,
+"jing1 shen2 bing4",
+"mental disorder; psychosis"
+],
+[
+"神经病",
+4486,
+"shen2 jing1 bing4",
+"mental disorder; neuropathy"
+],
+[
+"病情",
+5098,
+"bing4 qing2",
+"state of an illness; patient's condition"
+],
+[
+"病房",
+5438,
+"bing4 fang2",
+"ward (of a hospital); sickroom"
+],
+[
+"病例",
+6242,
+"bing4 li4",
+"(med.) case; occurrence of illness"
+],
+[
+"糖尿病",
+7103,
+"tang2 niao4 bing4",
+"diabetes; diabetes mellitus"
+],
+[
+"病历",
+7380,
+"bing4 li4",
+"medical record; case history"
 ]
 ],
 "strokes": [

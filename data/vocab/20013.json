@@ -8,87 +8,137 @@
 "words": [
 [
 "中国",
-0,
 1,
 "Zhōngguó",
 "China"
 ],
 [
 "中午",
-0,
 1,
 "zhōngwǔ",
 "noon; midday"
 ],
 [
 "中间",
-0,
 3,
 "zhōngjiān",
 "center; middle; between; among"
 ],
 [
 "中文",
-0,
 3,
 "Zhōngwén",
 "Chinese (language)"
 ],
 [
 "其中",
-0,
 4,
 "qízhōng",
 "among; in; included among these"
 ],
 [
 "集中",
-0,
 5,
 "jízhōng",
 "concentrate; to focus; amass"
 ],
 [
 "中介",
-0,
 5,
 "zhōngjiè",
 "agent; act as an intermediary"
 ],
 [
 "中心",
-0,
 5,
 "zhōngxīn",
 "center; heart; core"
 ],
 [
 "中旬",
-0,
 5,
 "zhōngxún",
 "middle third of a month"
 ],
 [
 "中断",
-0,
 6,
 "zhōngduàn",
 "interrupt; break off"
 ],
 [
 "中立",
-0,
 6,
 "zhōnglì",
 "neutral; neutrality"
 ],
 [
 "中央",
-0,
 6,
 "zhōngyāng",
 "central; middle; center"
+]
+],
+"extraWords": [
+[
+"中",
+125,
+"zhong1/zhong4",
+"within; among; in; middle; center; while (doing sth); during; China; Chinese; hit (the mark)"
+],
+[
+"高中",
+1343,
+"gao1 zhong1",
+"high school"
+],
+[
+"之中",
+1737,
+"zhi1 zhong1",
+"inside"
+],
+[
+"当中",
+2525,
+"dang1 zhong1",
+"among; in the middle; in the center"
+],
+[
+"中尉",
+2592,
+"zhong1 wei4",
+"lieutenant (navy); first lieutenant (army); subaltern"
+],
+[
+"心中",
+2654,
+"xin1 zhong1",
+"central point; in one's thoughts; in one's heart"
+],
+[
+"空中",
+3095,
+"kong1 zhong1",
+"in the sky; in the air"
+],
+[
+"击中",
+3323,
+"ji1 zhong4",
+"to hit (a target etc); to strike"
+],
+[
+"中学",
+4834,
+"zhong1 xue2",
+"middle school"
+],
+[
+"眼中",
+5072,
+"yan3 zhong1",
+"in one's eyes"
 ]
 ],
 "strokes": [

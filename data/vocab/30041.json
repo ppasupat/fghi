@@ -8,73 +8,125 @@
 "words": [
 [
 "留学",
-0,
 3,
 "liúxué",
 "study abroad"
 ],
 [
 "留",
-0,
 4,
 "liú",
 "to leave (behind, a message); to retain; to stay"
 ],
 [
 "保留",
-0,
 5,
 "bǎoliú",
 "to reserve; hold back; retain"
 ],
 [
 "残留",
-0,
 6,
 "cánliú",
 "to remain; be left over; surplus; remnant"
 ],
 [
 "拘留",
-0,
 6,
 "jūliú",
 "detain (a prison); keep (someone) in custody"
 ],
 [
 "留恋",
-0,
 6,
 "liúliàn",
 "be reluctant to leave"
 ],
 [
 "留念",
-0,
 6,
 "liúniàn",
 "to keep as a souvenir"
 ],
 [
 "留神",
-0,
 6,
 "liú shén",
 "(idiom) take care to ...; be careful of ..."
 ],
 [
 "遗留",
-0,
 6,
 "yíliú",
 "legacy; left over; hand down"
 ],
 [
 "滞留",
-0,
 6,
 "zhìliú",
 "detain; retention"
+]
+],
+"extraWords": [
+[
+"留下",
+679,
+"liu2 xia4",
+"to leave behind; to stay behind; to remain"
+],
+[
+"留言",
+1783,
+"liu2 yan2",
+"to leave one's comments; to leave a message"
+],
+[
+"留给",
+2438,
+"liu2 gei3",
+"to set aside for"
+],
+[
+"留意",
+4661,
+"liu2 yi4",
+"to take care; mindful"
+],
+[
+"停留",
+6634,
+"ting2 liu2",
+"to stay somewhere temporarily; to stop over"
+],
+[
+"留心",
+8598,
+"liu2 xin1",
+"to keep a lookout; careful"
+],
+[
+"收留",
+9056,
+"shou1 liu2",
+"to offer shelter; to have sb in one's care"
+],
+[
+"拘留所",
+9890,
+"ju1 liu2 suo3",
+"detention center; prison"
+],
+[
+"留情",
+10346,
+"liu2 qing2",
+"to relent (to spare sb's feelings); to show mercy or forgiveness; to forbear; lenient"
+],
+[
+"扣留",
+10660,
+"kou4 liu2",
+"detain; hold in custody"
 ]
 ],
 "strokes": [

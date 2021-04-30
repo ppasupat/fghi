@@ -8,52 +8,107 @@
 "words": [
 [
 "连",
-0,
 4,
 "lián",
 "even; including; join"
 ],
 [
 "连忙",
-0,
 5,
 "liánmáng",
 "promptly; at once"
 ],
 [
 "连续",
-0,
 5,
 "liánxù",
 "continually; in a row; successively"
 ],
 [
 "接连",
-0,
 6,
 "jiēlián",
 "one after another; in a row; in succession"
 ],
 [
 "连年",
-0,
 6,
 "liánnián",
 "successive years; over many years; once again this year"
 ],
 [
 "连锁",
-0,
 6,
 "liánsuǒ",
 "chain (store etc); to interlock"
 ],
 [
 "连同",
-0,
 6,
 "liántóng",
 "together with; along with"
+]
+],
+"extraWords": [
+[
+"牵连",
+7041,
+"qian1 lian2",
+"to implicate; implicated"
+],
+[
+"相连",
+9825,
+"xiang1 lian2",
+"to link; to join; link; connection"
+],
+[
+"一连串",
+10915,
+"yi1 lian2 chuan4",
+"\"a chain of (events, errors, jobs, problems, successes etc); a succession of (disasters); a series; a row (of stores)\""
+],
+[
+"连累",
+12458,
+"lian2 lei3",
+"\"to involve; to implicate sb; to spread to others (harm, trouble, damage etc)\""
+],
+[
+"连锁店",
+12554,
+"lian2 suo3 dian4",
+"chain store"
+],
+[
+"连续剧",
+14638,
+"lian2 xu4 ju4",
+"serialized drama; dramatic series; show in parts"
+],
+[
+"连任",
+15477,
+"lian2 ren4",
+"continue in (a political) office; serve for another term of office"
+],
+[
+"连连",
+16702,
+"lian2 lian2",
+"repeatedly; again and again"
+],
+[
+"连衣裙",
+18506,
+"lian2 yi1 qun2",
+"woman's dress; frock; gown"
+],
+[
+"连贯",
+18764,
+"lian2 guan4",
+"strung together as a series"
 ]
 ],
 "strokes": [

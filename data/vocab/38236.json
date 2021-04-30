@@ -8,24 +8,83 @@
 "words": [
 [
 "镜子",
-0,
 4,
 "jìngzi",
 "mirror"
 ],
 [
 "眼镜",
-0,
 4,
 "yǎnjìng",
 "glasses; spectacles"
 ],
 [
 "镜头",
-0,
 6,
 "jìngtóu",
 "camera shot (in a movie, etc.); scene; camera lens"
+]
+],
+"extraWords": [
+[
+"镜",
+2502,
+"jing4",
+"mirror"
+],
+[
+"望远镜",
+7422,
+"wang4 yuan3 jing4",
+"telescope"
+],
+[
+"墨镜",
+10876,
+"mo4 jing4",
+"sunglasses"
+],
+[
+"显微镜",
+11971,
+"xian3 wei1 jing4",
+"microscope"
+],
+[
+"眼镜蛇",
+12144,
+"yan3 jing4 she2",
+"cobra"
+],
+[
+"隐形眼镜",
+14640,
+"yin3 xing2 yan3 jing4",
+"contact lens"
+],
+[
+"镜片",
+16710,
+"jing4 pian4",
+"lens"
+],
+[
+"镜像",
+17493,
+"jing4 xiang4",
+"mirror image"
+],
+[
+"护目镜",
+20471,
+"hu4 mu4 jing4",
+"goggles; protective glasses"
+],
+[
+"放大镜",
+20482,
+"fang4 da4 jing4",
+"magnifying glass"
 ]
 ],
 "strokes": [

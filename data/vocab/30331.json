@@ -8,45 +8,101 @@
 "words": [
 [
 "登机牌",
-0,
 4,
 "dēngjīpái",
 "boarding pass"
 ],
 [
 "登记",
-0,
 5,
 "dēngjì",
 "register (one's name); check in; enroll"
 ],
 [
 "登陆",
-0,
 6,
 "dēnglù",
 "to land; come ashore; sign/log in"
 ],
 [
 "登录",
-0,
 6,
 "dēnglù",
 "sign-in"
 ],
 [
 "刊登",
-0,
 6,
 "kāndēng",
 "publish in a newspaper; carry a story"
 ],
 [
 "攀登",
-0,
 6,
 "pāndēng",
 "to climb; clamber; to pull oneself up"
+]
+],
+"extraWords": [
+[
+"登",
+1961,
+"deng1",
+"scale; climb; ascend; mount; go up; register; note; to publish; to issue; to record"
+],
+[
+"登场",
+5053,
+"deng1 chang3",
+"to go on stage; fig. to appear on the scene; used in advertising to mean new product"
+],
+[
+"登机",
+6519,
+"deng1 ji1",
+"to board a plane"
+],
+[
+"登山",
+11839,
+"deng1 shan1",
+"to climb a mountain; climbing; mountaineering"
+],
+[
+"登上",
+16505,
+"deng1 shang4",
+"to climb over; to ascend onto; to mount"
+],
+[
+"登门",
+21515,
+"deng1 men2",
+"to visit sb at home"
+],
+[
+"捷足先登",
+22161,
+"jie2 zu2 xian1 deng1",
+"(int) dibs"
+],
+[
+"摩登",
+22954,
+"mo2 deng1",
+"modern (loan from English); fashionable"
+],
+[
+"登记表",
+23814,
+"deng1 ji4 biao3",
+"registration form"
+],
+[
+"巴登",
+32091,
+"Ba1 deng1",
+"Baden (region in Germany)"
 ]
 ],
 "strokes": [

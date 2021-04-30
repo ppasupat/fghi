@@ -8,31 +8,89 @@
 "words": [
 [
 "火车站",
-0,
 2,
 "huǒchēzhàn",
 "train station"
 ],
 [
 "站",
-0,
 3,
 "zhàn",
 "stand; a station; be on one's feet; service center"
 ],
 [
 "加油站",
-0,
 4,
 "jiāyóuzhàn",
 "gas station"
 ],
 [
 "网站",
-0,
 4,
 "wǎngzhàn",
 "website"
+]
+],
+"extraWords": [
+[
+"站住",
+2832,
+"zhan4 zhu4",
+"stand"
+],
+[
+"车站",
+3796,
+"che1 zhan4",
+"rail station; bus stop"
+],
+[
+"中转站",
+7876,
+"zhong1 zhuan3 zhan4",
+"hub (network equipment)"
+],
+[
+"站台",
+8875,
+"zhan4 tai2",
+"railway platform"
+],
+[
+"地铁站",
+11175,
+"di4 tie3 zhan4",
+"subway station"
+],
+[
+"站立",
+12952,
+"zhan4 li4",
+"to stand; standing; on one's feet"
+],
+[
+"核电站",
+13647,
+"he2 dian4 zhan4",
+"nuclear power plant"
+],
+[
+"站点",
+13671,
+"zhan4 dian3",
+"website"
+],
+[
+"空间站",
+14743,
+"kong1 jian1 zhan4",
+"space station"
+],
+[
+"检查站",
+15423,
+"jian3 cha2 zhan4",
+"checkpoint"
 ]
 ],
 "strokes": [

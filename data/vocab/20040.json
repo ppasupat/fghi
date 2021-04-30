@@ -8,38 +8,95 @@
 "words": [
 [
 "什么",
-0,
 1,
 "shénme",
 "what? (replaces the noun to turn a statement into a question)"
 ],
 [
 "怎么",
-0,
 1,
 "zěnme",
 "how?"
 ],
 [
 "怎么样",
-0,
 1,
 "zěnmeyàng",
 "how about?; how is/was it?"
 ],
 [
 "为什么",
-0,
 2,
 "wèishénme",
 "why?; for what reason?"
 ],
 [
 "多么",
-0,
 3,
 "duōme",
 "how (wonderful, etc.); what (a great idea)"
+]
+],
+"extraWords": [
+[
+"这么",
+89,
+"zhe4 me5",
+"so much; this much; how much?; this way; like this"
+],
+[
+"那么",
+105,
+"na4 me5",
+"like that; in that way; or so; so; so very much; about; in that case"
+],
+[
+"么",
+112,
+"ma5/me5",
+"\"interrogative final particle; interrogative final particle; suffix, used to form interrogative 什么, what?, indefinite 这么 thus etc\""
+],
+[
+"没什么",
+370,
+"mei2 shen2 me5",
+"nothing; it doesn't matter; it's nothing; never mind"
+],
+[
+"怎么办",
+486,
+"zen3 me5 ban4",
+"what's to be done"
+],
+[
+"干什么",
+891,
+"gan4 shen2 me5",
+"what are you doing?; what's he up to?"
+],
+[
+"什么样",
+1013,
+"shen2 me5 yang4",
+"what kind?; what sort?"
+],
+[
+"要么",
+1120,
+"yao4 me5",
+"or; either one or the other"
+],
+[
+"什么的",
+2826,
+"shen2 me5 de5",
+"and so on; and what not"
+],
+[
+"怎么着",
+4668,
+"zen3 me5 zhe5",
+"\"(pron) what; (idiom) \"\"whatever\"\", used to replace some verbs in a sentence to form a more general sentence\""
 ]
 ],
 "strokes": [

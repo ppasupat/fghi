@@ -8,73 +8,125 @@
 "words": [
 [
 "财产",
-0,
 5,
 "cáichǎn",
 "property; fortune"
 ],
 [
 "产品",
-0,
 5,
 "chǎnpǐn",
 "product; goods; merchandise"
 ],
 [
 "产生",
-0,
 5,
 "chǎnshēng",
 "to produce; emerge; to cause"
 ],
 [
 "破产",
-0,
 5,
 "pò chǎn",
 "go bankrupt; go broke; bankruptcy"
 ],
 [
 "生产",
-0,
 5,
 "shēngchǎn",
 "to produce; manufacture; give birth to a child"
 ],
 [
 "产业",
-0,
 6,
 "chǎnyè",
 "industry; estate; property"
 ],
 [
 "矿产",
-0,
 6,
 "kuàngchǎn",
 "minerals"
 ],
 [
 "盛产",
-0,
 6,
 "shèngchǎn",
 "abound in; teem with; superabundant"
 ],
 [
 "遗产",
-0,
 6,
 "yíchǎn",
 "heritage; legacy"
 ],
 [
 "资产",
-0,
 6,
 "zīchǎn",
 "property; assets"
+]
+],
+"extraWords": [
+[
+"产",
+4396,
+"chan3",
+"to give birth; to reproduce; to produce; product; resource; estate; property"
+],
+[
+"房地产",
+5891,
+"fang2 di4 chan3",
+"real estate"
+],
+[
+"房产",
+6147,
+"fang2 chan3",
+"real estate; the property market (e.g. houses)"
+],
+[
+"地产",
+7720,
+"di4 chan3",
+"estate"
+],
+[
+"流产",
+8944,
+"liu2 chan3",
+"a miscarriage; an abortion; to abort (an action)"
+],
+[
+"共产党",
+9521,
+"gong4 chan3 dang3",
+"Communist party"
+],
+[
+"共产主义",
+11034,
+"gong4 chan3 zhu3 yi4",
+"communism"
+],
+[
+"产物",
+12246,
+"chan3 wu4",
+"product; result (of)"
+],
+[
+"中产阶级",
+12895,
+"zhong1 chan3 jie1 ji2",
+"middle class"
+],
+[
+"不动产",
+15495,
+"bu4 dong4 chan3",
+"real estate; immovable property; immovables"
 ]
 ],
 "strokes": [

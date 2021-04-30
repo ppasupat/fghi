@@ -8,101 +8,149 @@
 "words": [
 [
 "打电话",
-0,
 1,
 "dǎ diànhuà",
 "make a phone call"
 ],
 [
 "说话",
-0,
 2,
 "shuōhuà",
 "to talk; speak"
 ],
 [
 "对话",
-0,
 4,
 "duìhuà",
 "dialogue; conversation"
 ],
 [
 "普通话",
-0,
 4,
 "pǔtōnghuà",
 "Mandarin (common language)"
 ],
 [
 "笑话",
-0,
 4,
 "xiàohua",
 "joke; laugh at"
 ],
 [
 "废话",
-0,
 5,
 "fèihuà",
 "nonsense; rubbish"
 ],
 [
 "话题",
-0,
 5,
 "huàtí",
 "subject (of a talk or conversation)"
 ],
 [
 "神话",
-0,
 5,
 "shénhuà",
 "mythology; fairy tale"
 ],
 [
 "实话",
-0,
 5,
 "shíhuà",
 "truth"
 ],
 [
 "不像话",
-0,
 6,
 "búxiànghuà",
 "unreasonable; absurd; outrageous"
 ],
 [
 "话筒",
-0,
 6,
 "huàtǒng",
 "microphone; transmitter; megaphone"
 ],
 [
 "俗话",
-0,
 6,
 "súhuà",
 "common saying; proverb"
 ],
 [
 "童话",
-0,
 6,
 "tónghuà",
 "fairy tale"
 ],
 [
 "闲话",
-0,
 6,
 "xiánhuà",
 "gossip; digression"
+]
+],
+"extraWords": [
+[
+"话",
+110,
+"hua4",
+"dialect; language; spoken words; speech; talk; words; conversation; what sb said"
+],
+[
+"电话",
+218,
+"dian4 hua4",
+"telephone; phone call"
+],
+[
+"谈话",
+1394,
+"tan2 hua4",
+"talk; conversation"
+],
+[
+"讲话",
+1884,
+"jiang3 hua4",
+"a speech; to speak; to talk; to address"
+],
+[
+"通话",
+2487,
+"tong1 hua4",
+"talk over telephone; hold a conversation"
+],
+[
+"听话",
+4374,
+"ting1 hua4",
+"to do what one is told; obedient"
+],
+[
+"谎话",
+4951,
+"huang3 hua4",
+"lie"
+],
+[
+"说来话长",
+5439,
+"shuo1 lai2 hua4 chang2",
+"start explaining and it's a long story (idiom); complicated and not easy to express succinctly"
+],
+[
+"脏话",
+6899,
+"zang1 hua4",
+"profanity; obscene language; speaking rudely"
+],
+[
+"话说",
+7025,
+"hua4 shuo1",
+"it is said"
 ]
 ],
 "strokes": [

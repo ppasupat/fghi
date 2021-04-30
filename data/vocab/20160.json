@@ -8,17 +8,77 @@
 "words": [
 [
 "什么",
-0,
 1,
 "shénme",
 "what? (replaces the noun to turn a statement into a question)"
 ],
 [
 "为什么",
-0,
 2,
 "wèishénme",
 "why?; for what reason?"
+]
+],
+"extraWords": [
+[
+"没什么",
+370,
+"mei2 shen2 me5",
+"nothing; it doesn't matter; it's nothing; never mind"
+],
+[
+"干什么",
+891,
+"gan4 shen2 me5",
+"what are you doing?; what's he up to?"
+],
+[
+"什么样",
+1013,
+"shen2 me5 yang4",
+"what kind?; what sort?"
+],
+[
+"什",
+1740,
+"shen2/shi2",
+"what; tenth (used in fractions)"
+],
+[
+"什么的",
+2826,
+"shen2 me5 de5",
+"and so on; and what not"
+],
+[
+"布什",
+6222,
+"Bu4 shi2",
+"\"Bush (name); George H.W. Bush, US president 1988-1992; George W. Bush, US President 2000-2008\""
+],
+[
+"克什米尔",
+16928,
+"Ke4 shi2 mi3 er3",
+"Kashmir"
+],
+[
+"新罕布什尔州",
+26188,
+"Xin1 Han3 bu4 shi2 er3 zhou1",
+"\"New Hampshire, US state\""
+],
+[
+"纳什",
+28258,
+"Na4 shen2",
+"Nash"
+],
+[
+"喀什",
+30994,
+"Ka1 shi2",
+"Kashgar or Qeshqer (Kāshí) city and prefecture in the west of Xinjiang near Kyrgyzstan"
 ]
 ],
 "strokes": [

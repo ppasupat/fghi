@@ -8,52 +8,107 @@
 "words": [
 [
 "安排",
-0,
 4,
 "ānpái",
 "arrange; to plan"
 ],
 [
 "排队",
-0,
 4,
 "pái duì",
 "queue; stand in line"
 ],
 [
 "排列",
-0,
 4,
 "páiliè",
 "arrange; align; permutation"
 ],
 [
 "排斥",
-0,
 6,
 "páichì",
 "to reject; repulse; exclude"
 ],
 [
 "排除",
-0,
 6,
 "páichú",
 "eliminate; get rid of; remove"
 ],
 [
 "排放",
-0,
 6,
 "páifàng",
 "to discharge; emit"
 ],
 [
 "排练",
-0,
 6,
 "páiliàn",
 "to rehearse"
+]
+],
+"extraWords": [
+[
+"排",
+1396,
+"pai2/pai3",
+"to eliminate; to get rid of; to discharge; to drain; platoon; line up; row of logs or boards"
+],
+[
+"牛排",
+3999,
+"niu2 pai2",
+"steak"
+],
+[
+"编排",
+5285,
+"bian1 pai2",
+"to arrange; to lay out"
+],
+[
+"彩排",
+5880,
+"cai3 pai2",
+"dress rehearsal"
+],
+[
+"排名",
+7420,
+"pai2 ming2",
+"ranking; ordered list; to rank nth out of 100; to be placed; roll of honor"
+],
+[
+"排骨",
+9998,
+"pai2 gu3",
+"pork chop; pork cutlet; spare ribs"
+],
+[
+"后排",
+11873,
+"hou4 pai2",
+"the back row"
+],
+[
+"猪排",
+12061,
+"zhu1 pai2",
+"pork ribs; pork chop"
+],
+[
+"排行榜",
+12200,
+"pai2 hang2 bang3",
+"the charts (of best-sellers); table of ranking"
+],
+[
+"排挤",
+13990,
+"pai2 ji3",
+"to expel; to push out"
 ]
 ],
 "strokes": [

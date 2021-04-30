@@ -8,52 +8,107 @@
 "words": [
 [
 "忙",
-0,
 2,
 "máng",
 "busy"
 ],
 [
 "帮忙",
-0,
 3,
 "bāngmáng",
 "to help"
 ],
 [
 "匆忙",
-0,
 5,
 "cōngmáng",
 "hasty; hurried"
 ],
 [
 "急忙",
-0,
 5,
 "jímáng",
 "hastily"
 ],
 [
 "连忙",
-0,
 5,
 "liánmáng",
 "promptly; at once"
 ],
 [
 "繁忙",
-0,
 6,
 "fánmáng",
 "busy; bustling"
 ],
 [
 "忙碌",
-0,
 6,
 "mánglù",
 "be busy; bustling"
+]
+],
+"extraWords": [
+[
+"忙于",
+10611,
+"mang2 yu2",
+"busy with"
+],
+[
+"忙活",
+11117,
+"mang2 huo5",
+"to be really busy"
+],
+[
+"帮倒忙",
+15835,
+"bang1 dao4 mang2",
+"be more of a hindrance than a help"
+],
+[
+"手忙脚乱",
+20752,
+"shou3 mang2 jiao3 luan4",
+"to act with confusion; to be in a flurry; to be flustered"
+],
+[
+"忙乱",
+31168,
+"mang2 luan4",
+"rushed and muddled"
+],
+[
+"奔忙",
+35516,
+"ben1 mang2",
+"be busy rushing about; bustle about"
+],
+[
+"不慌不忙",
+38107,
+"bu4 huang1 bu4 mang2",
+"calm and unhurried (idiom); composed; to take matters calmly"
+],
+[
+"慌忙",
+40706,
+"huang1 mang2",
+"in a great rush; in a flurry"
+],
+[
+"赶忙",
+41688,
+"gan3 mang2",
+"hurry; hasten; make haste"
+],
+[
+"忙不迭",
+54557,
+"mang2 bu4 die2",
+"hurriedly; in haste"
 ]
 ],
 "strokes": [

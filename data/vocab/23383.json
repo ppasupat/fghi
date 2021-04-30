@@ -8,66 +8,119 @@
 "words": [
 [
 "名字",
-0,
 1,
 "míngzi",
 "name"
 ],
 [
 "字",
-0,
 1,
 "zì",
 "letter; character"
 ],
 [
 "数字",
-0,
 4,
 "shùzì",
 "number; numeral; figure; digit"
 ],
 [
 "文字",
-0,
 5,
 "wénzì",
 "characters; script; writing"
 ],
 [
 "字母",
-0,
 5,
 "zìmǔ",
 "letter (of the alphabet)"
 ],
 [
 "字幕",
-0,
 5,
 "zìmù",
 "subtitles; captions"
 ],
 [
 "赤字",
-0,
 6,
 "chìzì",
 "(financial) deficit; red ink"
 ],
 [
 "繁体字",
-0,
 6,
 "fántǐzì",
 "traditional Chinese character"
 ],
 [
 "简体字",
-0,
 6,
 "jiǎntǐzì",
 "simplified Chinese characters"
+]
+],
+"extraWords": [
+[
+"签字",
+3392,
+"qian1 zi4",
+"to sign (a signature)"
+],
+[
+"十字架",
+4921,
+"shi2 zi4 jia4",
+"cross; crucifix; yoke one has to endure"
+],
+[
+"字条",
+8691,
+"zi4 tiao2",
+"brief note"
+],
+[
+"十字",
+8893,
+"shi2 zi4",
+"cross road; cross-shaped; crucifix; the character ten"
+],
+[
+"字典",
+9271,
+"zi4 dian3",
+"dictionary; character dictionary; CL:本[ben3]"
+],
+[
+"写字",
+9386,
+"xie3 zi4",
+"to write characters"
+],
+[
+"金字塔",
+9692,
+"jin1 zi4 ta3",
+"pyramid"
+],
+[
+"字眼",
+10274,
+"zi4 yan3",
+"wording"
+],
+[
+"字面",
+10702,
+"zi4 mian4",
+"literal"
+],
+[
+"识字",
+10858,
+"shi2 zi4",
+"to learn to read"
 ]
 ],
 "strokes": [

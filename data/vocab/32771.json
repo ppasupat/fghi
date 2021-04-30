@@ -8,59 +8,113 @@
 "words": [
 [
 "考试",
-0,
 2,
 "kǎoshì",
 "test; exam; to give or take a test"
 ],
 [
 "考虑",
-0,
 4,
 "kǎolǜ",
 "think over; consider"
 ],
 [
 "参考",
-0,
 5,
 "cānkǎo",
 "reference; consult"
 ],
 [
 "思考",
-0,
 5,
 "sīkǎo",
 "reflect on; ponder; consider"
 ],
 [
 "考察",
-0,
 6,
 "kǎochá",
 "inspect; investigate; analyze"
 ],
 [
 "考古",
-0,
 6,
 "kǎogǔ",
 "archaeology"
 ],
 [
 "考核",
-0,
 6,
 "kǎohé",
 "examine; check up on"
 ],
 [
 "考验",
-0,
 6,
 "kǎoyàn",
 "put to the test; trial"
+]
+],
+"extraWords": [
+[
+"考",
+2817,
+"kao3",
+"to check; to verify; to test; to examine; to take an exam"
+],
+[
+"考古学家",
+14261,
+"kao3 gu3 xue2 jia1",
+"archaeologist"
+],
+[
+"斯考特",
+15708,
+"Si1 kao3 te4",
+"Scott (name)"
+],
+[
+"考上",
+17863,
+"kao3 shang4",
+"to pass a university entrance exam"
+],
+[
+"高考",
+18779,
+"gao1 kao3",
+"college entrance exam"
+],
+[
+"考量",
+20277,
+"kao3 liang2",
+"to consider; to give serious consideration to sth"
+],
+[
+"考卷",
+20842,
+"kao3 juan4",
+"an exam paper"
+],
+[
+"考古学",
+23863,
+"kao3 gu3 xue2",
+"archaeology"
+],
+[
+"补考",
+26380,
+"bu3 kao3",
+"make-up examination"
+],
+[
+"考证",
+32498,
+"kao3 zheng4",
+"to verify (based on written evidence)"
 ]
 ],
 "strokes": [

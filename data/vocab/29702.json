@@ -8,241 +8,269 @@
 "words": [
 [
 "经理",
-0,
 3,
 "jīnglǐ",
 "manager; director"
 ],
 [
 "管理",
-0,
 4,
 "guǎnlǐ",
 "supervise; manage"
 ],
 [
 "理发",
-0,
 4,
 "lǐfà",
 "a barber, hairdressing; haircut"
 ],
 [
 "理解",
-0,
 4,
 "lǐjiě",
 "comprehend; understand"
 ],
 [
 "理想",
-0,
 4,
 "lǐxiǎng",
 "ideal"
 ],
 [
 "修理",
-0,
 4,
 "xiūlǐ",
 "to repair; perform maintenance; to overhaul"
 ],
 [
 "整理",
-0,
 4,
 "zhěnglǐ",
 "put in order; arrange; straighten up; to tidy; to pack (luggage)"
 ],
 [
 "办理",
-0,
 5,
 "bànlǐ",
 "to handle; to transact; to conduct"
 ],
 [
 "处理",
-0,
 5,
 "chǔlǐ",
 "deal with; to process; sell at a discount; to treat (by a special process)"
 ],
 [
 "道理",
-0,
 5,
 "dàolǐ",
 "reason; sense; argument"
 ],
 [
 "地理",
-0,
 5,
 "dìlǐ",
 "geography"
 ],
 [
 "合理",
-0,
 5,
 "hélǐ",
 "rational; reasonable"
 ],
 [
 "理论",
-0,
 5,
 "lǐlùn",
 "theory"
 ],
 [
 "理由",
-0,
 5,
 "lǐyóu",
 "a reason; grounds; argument"
 ],
 [
 "物理",
-0,
 5,
 "wùlǐ",
 "physics; physical"
 ],
 [
 "心理",
-0,
 5,
 "xīnlǐ",
 "psychology; psychological; mental"
 ],
 [
 "总理",
-0,
 5,
 "zǒnglǐ",
 "premier; prime minister"
 ],
 [
 "代理",
-0,
 6,
 "dàilǐ",
 "acting (temporarily filling a position); agent"
 ],
 [
 "理睬",
-0,
 6,
 "lǐcǎi",
 "heed; pay attention to (usually used in the negative)"
 ],
 [
 "理所当然",
-0,
 6,
 "lǐ suǒ dāng rán",
 "(idiom) it goes without saying; certainly; of course; be natural and right"
 ],
 [
 "理直气壮",
-0,
 6,
 "lǐzhíqìzhuàng",
 "with justice on one's side, one is bold and assured; to have the courage of ones convictions; just and forceful"
 ],
 [
 "理智",
-0,
 6,
 "lǐzhì",
 "reason; intellect; rational"
 ],
 [
 "岂有此理",
-0,
 6,
 "qǐ yǒu cǐ lǐ",
 "outrageous; ridiculous; absurd"
 ],
 [
 "清理",
-0,
 6,
 "qīnglǐ",
 "cleanup; put in order; check up"
 ],
 [
 "情理",
-0,
 6,
 "qínglǐ",
 "reason; sense"
 ],
 [
 "审理",
-0,
 6,
 "shěnlǐ",
 "hear (a case)"
 ],
 [
 "生理",
-0,
 6,
 "shēnglǐ",
 "physiology"
 ],
 [
 "条理",
-0,
 6,
 "tiáolǐ",
 "consecutive; arrangement; orderliness"
 ],
 [
 "推理",
-0,
 6,
 "tuīlǐ",
 "reasoning; speculative; inference"
 ],
 [
 "无理取闹",
-0,
 6,
 "wúlǐqǔnào",
 "to make trouble without reason (idiom); wilfully make trouble; to be deliberately provocative; deliberately awkward; pointless provocation"
 ],
 [
 "原理",
-0,
 6,
 "yuánlǐ",
 "principle; theory"
 ],
 [
 "真理",
-0,
 6,
 "zhēnlǐ",
 "truth"
 ],
 [
 "治理",
-0,
 6,
 "zhìlǐ",
 "to bring under control; to govern; to manage"
 ],
 [
 "助理",
-0,
 6,
 "zhùlǐ",
 "assistant"
+]
+],
+"extraWords": [
+[
+"理",
+1577,
+"li3",
+"texture; grain (of wood); inner essence; intrinsic order; reason; logic; truth; science; natural science (esp. physics); to manage; to pay attention to; to run (affairs); to handle; to put in order; to tidy up"
+],
+[
+"心理学",
+5079,
+"xin1 li3 xue2",
+"psychology"
+],
+[
+"管理员",
+5361,
+"guan3 li3 yuan2",
+"manager; administrator"
+],
+[
+"护理",
+5365,
+"hu4 li3",
+"to nurse; to tend and protect"
+],
+[
+"理查德",
+6088,
+"Li3 cha2 de2",
+"Richard (name)"
+],
+[
+"理性",
+7122,
+"li3 xing4",
+"reason; rationality; rational"
+],
+[
+"理念",
+7402,
+"li3 nian4",
+"idea; concept; philosophy; theory"
+],
+[
+"理会",
+7866,
+"li3 hui4",
+"pay attention to; take notice of"
+],
+[
+"代理人",
+8032,
+"dai4 li3 ren2",
+"agent"
+],
+[
+"料理",
+9123,
+"liao4 li3",
+"to arrange; to handle; the ordinary Japanese word for cooking; cuisine (esp. foreign restaurants)"
 ]
 ],
 "strokes": [

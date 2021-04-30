@@ -8,220 +8,251 @@
 "words": [
 [
 "一",
-0,
 1,
 "yī",
 "one; once; a"
 ],
 [
 "一点儿",
-0,
 1,
 "yìdiǎnr",
 "a bit; a few"
 ],
 [
 "第一",
-0,
 2,
 "dìyī",
 "first; number 1"
 ],
 [
 "一起",
-0,
 2,
 "yìqǐ",
 "together; in the same place"
 ],
 [
 "一下",
-0,
 2,
 "yíxià",
 "a little bit/while; one time; once"
 ],
 [
 "一般",
-0,
 3,
 "yìbān",
 "general; ordinary; common; same"
 ],
 [
 "一边",
-0,
 3,
 "yìbiān",
 "one side; on the one hand; at the same time"
 ],
 [
 "一定",
-0,
 3,
 "yídìng",
 "surely; certainly; necessarily; definite"
 ],
 [
 "一共",
-0,
 3,
 "yígòng",
 "altogether; in total"
 ],
 [
 "一会儿",
-0,
 3,
 "yíhuìr",
 "a while; a moment"
 ],
 [
 "一样",
-0,
 3,
 "yíyàng",
 "the same; alike; equal to"
 ],
 [
 "一直",
-0,
 3,
 "yìzhí",
 "always; all along; straight (in a straight line)"
 ],
 [
 "一切",
-0,
 4,
 "yíqiè",
 "all; every; everything"
 ],
 [
 "统一",
-0,
 5,
 "tǒngyī",
 "unify; unite; integrate; universal"
 ],
 [
 "万一",
-0,
 5,
 "wànyī",
 "just in case; if by any chance"
 ],
 [
 "唯一",
-0,
 5,
 "wéiyī",
 "only; sole"
 ],
 [
 "一辈子",
-0,
 5,
 "yíbèizi",
 "(for) a lifetime; all one's life"
 ],
 [
 "一旦",
-0,
 5,
 "yídàn",
 "in case (something happens); once (sth. has happened ... then); in one day"
 ],
 [
 "一律",
-0,
 5,
 "yílǜ",
 "same; uniformly; all; without exception"
 ],
 [
 "一再",
-0,
 5,
 "yízài",
 "repeatedly; again and again"
 ],
 [
 "一致",
-0,
 5,
 "yízhì",
 "unanimous; identical (views or opinions); consistent"
 ],
 [
 "不屑一顾",
-0,
 6,
 "búxièyígù",
 "not worth seeing; disdain as beneath contempt"
 ],
 [
 "一度",
-0,
 6,
 "yídù",
 "for a time; at one time; one time; once"
 ],
 [
 "一帆风顺",
-0,
 6,
 "yìfānfēngshùn",
 "(saying) smooth sailing"
 ],
 [
 "一贯",
-0,
 6,
 "yíguàn",
 "consistent; constant; from start to finish; then as now"
 ],
 [
 "一举两得",
-0,
 6,
 "yìjǔliǎngdé",
 "kill two birds with one stone; (literally) attain two objectives with a single move"
 ],
 [
 "一流",
-0,
 6,
 "yīliú",
 "top-grade"
 ],
 [
 "一目了然",
-0,
 6,
 "yímùliǎorán",
 "obvious at a glance"
 ],
 [
 "一如既往",
-0,
 6,
 "yìrújìwǎng",
 "just as in the past (idiom); as before; continuing as always"
 ],
 [
 "一丝不苟",
-0,
 6,
 "yìsībùgǒu",
 "(literally) not one thread loose; strictly according to the rules; meticulous"
 ],
 [
 "一向",
-0,
 6,
 "yíxiàng",
 "all along; the whole time; constantly; always"
+]
+],
+"extraWords": [
+[
+"一个",
+43,
+"yi1 ge4",
+"a; an"
+],
+[
+"一点",
+202,
+"yi1 dian3",
+"a bit; a little; one dot; one point"
+],
+[
+"一些",
+231,
+"yi1 xie1",
+"some; a few; a little"
+],
+[
+"之一",
+1034,
+"zhi1 yi1",
+"\"one of (sth); one out of a multitude; one (third, quarter, percent etc)\""
+],
+[
+"一半",
+1116,
+"yi1 ban4",
+"half"
+],
+[
+"一生",
+1190,
+"yi1 sheng1",
+"all one's life; throughout one's life"
+],
+[
+"一一",
+2015,
+"yi1 yi1",
+"one by one; one after another"
+],
+[
+"一会",
+2396,
+"yi1 hui4",
+"\"a moment, a while\""
+],
+[
+"一面",
+2633,
+"yi1 mian4",
+"one side"
+],
+[
+"一无所知",
+3407,
+"yi1 wu2 suo3 zhi1",
+"not knowing anything at all (idiom); completely ignorant; without an inkling"
 ]
 ],
 "strokes": [

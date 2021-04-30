@@ -8,24 +8,83 @@
 "words": [
 [
 "教室",
-0,
 2,
 "jiàoshì",
 "classroom"
 ],
 [
 "办公室",
-0,
 3,
 "bàngōngshì",
 "office"
 ],
 [
 "卧室",
-0,
 5,
 "wòshì",
 "bedroom"
+]
+],
+"extraWords": [
+[
+"室",
+1157,
+"shi4",
+"room"
+],
+[
+"实验室",
+1490,
+"shi2 yan4 shi4",
+"laboratory"
+],
+[
+"地下室",
+2732,
+"di4 xia4 shi4",
+"basement; cellar"
+],
+[
+"浴室",
+2944,
+"yu4 shi4",
+"bathroom (room used for bathing)"
+],
+[
+"室友",
+3264,
+"shi4 you3",
+"roommate"
+],
+[
+"工作室",
+4310,
+"gong1 zuo4 shi4",
+"studio; workshop"
+],
+[
+"会议室",
+4646,
+"hui4 yi4 shi4",
+"meeting; conference room"
+],
+[
+"急诊室",
+5324,
+"ji2 zhen3 shi4",
+"emergency room"
+],
+[
+"更衣室",
+6801,
+"geng1 yi1 shi4",
+"change room; dressing room; locker room; toilet"
+],
+[
+"休息室",
+6903,
+"xiu1 xi1 shi4",
+"lobby; lounge"
 ]
 ],
 "strokes": [

@@ -8,31 +8,89 @@
 "words": [
 [
 "隔壁",
-0,
 5,
 "gébì",
 "next door"
 ],
 [
 "隔阂",
-0,
 6,
 "géhé",
 "estrangement; misunderstanding"
 ],
 [
 "隔离",
-0,
 6,
 "gélí",
 "insulate; separate; isolate"
 ],
 [
 "间隔",
-0,
 6,
 "jiàngé",
 "interval; intermission; gap; be separated"
+]
+],
+"extraWords": [
+[
+"隔",
+3440,
+"ge2",
+"to separate; to stand or lie between; to divide; to cut off"
+],
+[
+"相隔",
+14250,
+"xiang1 ge2",
+"separated by (distance or time etc)"
+],
+[
+"隔音",
+15626,
+"ge2 yin1",
+"sound-proofing"
+],
+[
+"隔绝",
+16382,
+"ge2 jue2",
+"isolated (from the world); disconnected"
+],
+[
+"分隔",
+19818,
+"fen1 ge2",
+"to divide; to separate; partition"
+],
+[
+"隔膜",
+20334,
+"ge2 mo2",
+"diaphragm (anatomy); distant (socially aloof); divided by lack of mutual comprehension; nonexpert"
+],
+[
+"阻隔",
+21982,
+"zu3 ge2",
+"to separate; to cut off"
+],
+[
+"隔热",
+22364,
+"ge2 re4",
+"to insulate"
+],
+[
+"隔断",
+37984,
+"ge2 duan4",
+"partition; to stand between; wall or fence serving as partition"
+],
+[
+"纵隔",
+56514,
+"zong4 ge2",
+"mediastinum (organs and tissues in the thorax between the lungs)"
 ]
 ],
 "strokes": [

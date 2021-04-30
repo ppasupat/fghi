@@ -8,66 +8,119 @@
 "words": [
 [
 "书",
-0,
 1,
 "shū",
 "book; letter"
 ],
 [
 "图书馆",
-0,
 3,
 "túshūguǎn",
 "library"
 ],
 [
 "秘书",
-0,
 5,
 "mìshu",
 "secretary"
 ],
 [
 "书架",
-0,
 5,
 "shūjià",
 "bookshelf"
 ],
 [
 "书法",
-0,
 6,
 "shūfǎ",
 "calligraphy; penmanship"
 ],
 [
 "书籍",
-0,
 6,
 "shūjí",
 "books; works"
 ],
 [
 "书记",
-0,
 6,
 "shūji",
 "secretary; clerk"
 ],
 [
 "书面",
-0,
 6,
 "shūmiàn",
 "in writing; written (guarantee, etc.)"
 ],
 [
 "证书",
-0,
 6,
 "zhèngshū",
 "certificate; credentials"
+]
+],
+"extraWords": [
+[
+"读书",
+3399,
+"du2 shu1",
+"study; read"
+],
+[
+"书店",
+6380,
+"shu1 dian4",
+"bookstore"
+],
+[
+"教书",
+7476,
+"jiao1 shu1",
+"to teach (in a school)"
+],
+[
+"文书",
+7914,
+"wen2 shu1",
+"document; official correspondence; secretary; secretariat"
+],
+[
+"书呆子",
+8031,
+"shu1 dai1 zi5",
+"pedant; bookish fool"
+],
+[
+"书房",
+8264,
+"shu1 fang2",
+"study (i.e. the kind of room)"
+],
+[
+"图书",
+10931,
+"tu2 shu1",
+"books (in a library or bookstore)"
+],
+[
+"情书",
+11051,
+"qing2 shu1",
+"love letter"
+],
+[
+"念书",
+11118,
+"nian4 shu1",
+"read; study"
+],
+[
+"新书",
+11123,
+"xin1 shu1",
+"new book"
 ]
 ],
 "strokes": [

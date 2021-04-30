@@ -8,94 +8,143 @@
 "words": [
 [
 "外",
-0,
 2,
 "wài",
 "outer; outside; in addition; foreign"
 ],
 [
 "另外",
-0,
 4,
 "lìngwài",
 "another; in addition; besides"
 ],
 [
 "此外",
-0,
 5,
 "cǐwài",
 "besides; in addition; moreover"
 ],
 [
 "格外",
-0,
 5,
 "géwài",
 "especially; additionally"
 ],
 [
 "外公",
-0,
 5,
 "wàigōng",
 "maternal grandfather"
 ],
 [
 "外交",
-0,
 5,
 "wàijiāo",
 "diplomacy; foreign affairs"
 ],
 [
 "意外",
-0,
 5,
 "yìwài",
 "unexpected; accident; mishap"
 ],
 [
 "额外",
-0,
 6,
 "éwài",
 "extra; added; additional"
 ],
 [
 "例外",
-0,
 6,
 "lìwài",
 "(make an) exception"
 ],
 [
 "外表",
-0,
 6,
 "wàibiǎo",
 "outward appearance; external; outside"
 ],
 [
 "外行",
-0,
 6,
 "wàiháng",
 "layman; amateur; nonprofessional"
 ],
 [
 "外界",
-0,
 6,
 "wàijiè",
 "the outside world; external"
 ],
 [
 "外向",
-0,
 6,
 "wàixiàng",
 "extroverted; export-oriented (economy)"
+]
+],
+"extraWords": [
+[
+"外面",
+584,
+"wai4 mian5",
+"outside"
+],
+[
+"之外",
+2205,
+"zhi1 wai4",
+"outside; excluding"
+],
+[
+"外套",
+2697,
+"wai4 tao4",
+"coat"
+],
+[
+"以外",
+2867,
+"yi3 wai4",
+"apart from; other than; except for; external; outside of"
+],
+[
+"外星人",
+2896,
+"wai4 xing1 ren2",
+"space alien; extra-terrestrial"
+],
+[
+"外科",
+3026,
+"wai4 ke1",
+"\"surgery; \"\"external\"\" medicine, i.e. surgical intervention, as opposed to 内科[nei4 ke1] \"\"ternal\"\" treatment by administering drugs; surgical departmentss\""
+],
+[
+"外婆",
+4123,
+"wai4 po2",
+"(informal) mother's mother; maternal grandmother"
+],
+[
+"外遇",
+4203,
+"wai4 yu4",
+"an extramarital affair"
+],
+[
+"除此之外",
+5334,
+"chu2 ci3 zhi1 wai4",
+"apart from this; in addition to this"
+],
+[
+"逍遥法外",
+5512,
+"xiao1 yao2 fa3 wai4",
+"remaining outside the reach of the law (idiom); still at large; fig. to remain unpunished; scot-free; getting away with murder"
 ]
 ],
 "strokes": [

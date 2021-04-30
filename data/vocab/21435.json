@@ -8,38 +8,95 @@
 "words": [
 [
 "去",
-0,
 1,
 "qù",
 "go; to leave"
 ],
 [
 "去年",
-0,
 2,
 "qùnián",
 "last year"
 ],
 [
 "过去",
-0,
 3,
 "guòqù",
 "in the past; formerly"
 ],
 [
 "去世",
-0,
 5,
 "qùshì",
 "pass away; die"
 ],
 [
 "失去",
-0,
 5,
 "shīqù",
 "to lose (time, an opportunity, work, etc.)"
+]
+],
+"extraWords": [
+[
+"出去",
+309,
+"chu1 qu4",
+"to go out"
+],
+[
+"回去",
+426,
+"hui2 qu5",
+"return; go back"
+],
+[
+"下去",
+434,
+"xia4 qu5",
+"to go down; to descend; to go on; to continue"
+],
+[
+"进去",
+493,
+"jin4 qu4",
+"to go in"
+],
+[
+"看上去",
+587,
+"kan4 shang5 qu5",
+"it would appear; it seems (that)"
+],
+[
+"死去",
+1416,
+"si3 qu4",
+"to die"
+],
+[
+"上去",
+1417,
+"shang4 qu4",
+"to go up"
+],
+[
+"离去",
+5233,
+"li2 qu4",
+"to leave; to exit"
+],
+[
+"去掉",
+6175,
+"qu4 diao4",
+"to get rid of; to exclude; to eliminate; to remove; to delete; to strip out; to extract"
+],
+[
+"过不去",
+7458,
+"guo4 bu5 qu4",
+"to make life difficult for; to embarrass; unable to make it through"
 ]
 ],
 "strokes": [

@@ -8,17 +8,65 @@
 "words": [
 [
 "北京",
-0,
 1,
 "Běijīng",
 "Beijing"
 ],
 [
 "京剧",
-0,
 4,
 "jīngjù",
 "Beijing Opera"
+]
+],
+"extraWords": [
+[
+"京",
+6195,
+"jing1",
+"capital; Beijing (abbr.)"
+],
+[
+"南京",
+13300,
+"Nan2 jing1",
+"\"Nanjing prefecture level city on the Changjiang, capital of Jiangsu province 江苏; capital of China at different historical periods\""
+],
+[
+"京都",
+16408,
+"Jing1 du1",
+"\"the capital (of a country); Kyoto, city in Japan\""
+],
+[
+"维京人",
+33552,
+"wei2 jing1 ren2",
+"Vikings"
+],
+[
+"京城",
+48155,
+"jing1 cheng2",
+"capital of a country"
+],
+[
+"南京市",
+53133,
+"Nan2 jing1 shi4",
+"\"Nanjing prefecture level city on the Changjiang, capital of Jiangsu province 江苏; capital of China at different historical periods\""
+],
+[
+"普京",
+55032,
+"Pu3 jing1",
+"\"Vladimir Putin (1952-), career KGB officer and politician, President of Russian Federation from 2000, Prime Minister from 2008\""
+],
+[
+"南京大屠杀",
+59903,
+"Nan2 jing1 da4 tu2 sha1",
+"the Nanjing massacre of December 1937"
 ]
 ],
 "strokes": [

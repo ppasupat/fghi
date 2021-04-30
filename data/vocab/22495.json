@@ -8,17 +8,77 @@
 "words": [
 [
 "领域",
-0,
 5,
 "lǐngyù",
 "domain; sphere; field; area"
 ],
 [
 "区域",
-0,
 6,
 "qūyù",
 "area; region; district"
+]
+],
+"extraWords": [
+[
+"域",
+14310,
+"yu4",
+"field; region; area; domain (taxonomy)"
+],
+[
+"地域",
+14937,
+"di4 yu4",
+"area; district; region"
+],
+[
+"水域",
+15720,
+"shui3 yu4",
+"(territorial) waters"
+],
+[
+"海域",
+17430,
+"hai3 yu4",
+"sea area; territorial waters; maritime space"
+],
+[
+"异域",
+30240,
+"yi4 yu4",
+"foreign country; alien land"
+],
+[
+"域名",
+31999,
+"yu4 ming2",
+"domain name"
+],
+[
+"流域",
+34587,
+"liu2 yu4",
+"river basin; valley; drainage area"
+],
+[
+"疆域",
+39254,
+"jiang1 yu4",
+"territory"
+],
+[
+"局域网",
+45698,
+"ju2 yu4 wang3",
+"local area network (LAN)"
+],
+[
+"西域",
+57160,
+"Xi1 yu4",
+"\"(trad.) Western Regions (in Han, west of Dunhuang)\""
 ]
 ],
 "strokes": [

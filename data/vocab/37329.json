@@ -8,59 +8,113 @@
 "words": [
 [
 "奖金",
-0,
 4,
 "jiǎngjīn",
 "bonus"
 ],
 [
 "现金",
-0,
 4,
 "xiànjīn",
 "cash"
 ],
 [
 "黄金",
-0,
 5,
 "huángjīn",
 "gold"
 ],
 [
 "金属",
-0,
 5,
 "jīnshǔ",
 "metal"
 ],
 [
 "押金",
-0,
 5,
 "yājīn",
 "security deposit; down payment"
 ],
 [
 "资金",
-0,
 5,
 "zījīn",
 "funds; funding"
 ],
 [
 "基金",
-0,
 6,
 "jījīn",
 "fund; endowment"
 ],
 [
 "金融",
-0,
 6,
 "jīnróng",
 "banking finance; financial"
+]
+],
+"extraWords": [
+[
+"金",
+1186,
+"jin1",
+"\"gold Au, transition metal, atomic number 79; metal; money; the Jurchen Jin dynasty (1115-1234); surname Jin or Kim\""
+],
+[
+"美金",
+2059,
+"Mei3 jin1",
+"US dollar"
+],
+[
+"金发",
+2738,
+"jin1 fa4",
+"blond"
+],
+[
+"金钱",
+3400,
+"jin1 qian2",
+"money; currency"
+],
+[
+"旧金山",
+4125,
+"Jiu4 jin1 shan1",
+"\"San Francisco, California\""
+],
+[
+"金子",
+4544,
+"jin1 zi5",
+"gold"
+],
+[
+"奖学金",
+4716,
+"jiang3 xue2 jin1",
+"scholarship"
+],
+[
+"金色",
+5351,
+"jin1 se4",
+"golden"
+],
+[
+"基金会",
+5819,
+"ji1 jin1 hui4",
+"a foundation (i.e. an organization)"
+],
+[
+"赎金",
+6289,
+"shu2 jin1",
+"ransom"
 ]
 ],
 "strokes": [

@@ -8,108 +8,155 @@
 "words": [
 [
 "变化",
-0,
 3,
 "biànhuà",
 "change"
 ],
 [
 "文化",
-0,
 3,
 "wénhuà",
 "culture; civilization"
 ],
 [
 "化学",
-0,
 5,
 "huàxué",
 "chemistry"
 ],
 [
 "消化",
-0,
 5,
 "xiāohuà",
 "to digest"
 ],
 [
 "多元化",
-0,
 6,
 "duōyuánhuà",
 "diversify; diversification"
 ],
 [
 "恶化",
-0,
 6,
 "èhuà",
 "worsen; deteriorate"
 ],
 [
 "二氧化碳",
-0,
 6,
 "èryǎnghuàtàn",
 "carbon dioxide; CO2"
 ],
 [
 "化肥",
-0,
 6,
 "huàféi",
 "chemical fertilizer"
 ],
 [
 "化石",
-0,
 6,
 "huàshí",
 "fossil"
 ],
 [
 "化验",
-0,
 6,
 "huàyàn",
 "laboratory test; chemically examine"
 ],
 [
 "化妆",
-0,
 6,
 "huà zhuāng",
 "put on make-up"
 ],
 [
 "简化",
-0,
 6,
 "jiǎnhuà",
 "simplify; simplification"
 ],
 [
 "进化",
-0,
 6,
 "jìnhuà",
 "evolution"
 ],
 [
 "潜移默化",
-0,
 6,
 "qiányímòhuà",
 "exert a subtle influence on sb.'s character, thinking, etc.; impercebtibly influence; to influence secretly"
 ],
 [
 "融化",
-0,
 6,
 "rónghuà",
 "melt; thaw; dissolve; blend into"
+]
+],
+"extraWords": [
+[
+"化",
+2349,
+"hua1/hua4",
+"variant of 花; to make into; to change into; -ization; to ... -ize; to transform; abbr. for chemistry 化学"
+],
+[
+"化妆品",
+5943,
+"hua4 zhuang1 pin3",
+"cosmetic; make-up product"
+],
+[
+"生化",
+6373,
+"sheng1 hua4",
+"biochemistry"
+],
+[
+"化疗",
+6962,
+"hua4 liao2",
+"chemotherapy"
+],
+[
+"净化",
+8843,
+"jing4 hua4",
+"purify"
+],
+[
+"情绪化",
+8981,
+"qing2 xu4 hua4",
+"emotional; sentimental"
+],
+[
+"化合物",
+9049,
+"hua4 he2 wu4",
+"chemical compound"
+],
+[
+"化身",
+9050,
+"hua4 shen1",
+"incarnation; reincarnation; embodiment (of abstract idea); personification"
+],
+[
+"化名",
+9611,
+"hua4 ming2",
+"to use an alias; assumed name; pseudonym"
+],
+[
+"火化",
+10958,
+"huo3 hua4",
+"to cremate; to incinerate"
 ]
 ],
 "strokes": [

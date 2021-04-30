@@ -8,17 +8,77 @@
 "words": [
 [
 "旅游",
-0,
 2,
 "lǚyóu",
 "trip; journey; tour"
 ],
 [
 "旅行",
-0,
 4,
 "lǚxíng",
 "travel"
+]
+],
+"extraWords": [
+[
+"旅馆",
+1584,
+"lu:3 guan3",
+"hotel; CL:家[jia1]"
+],
+[
+"旅",
+3645,
+"lu:3",
+"trip; travel"
+],
+[
+"旅程",
+3682,
+"lu:3 cheng2",
+"journey; trip"
+],
+[
+"旅途",
+4513,
+"lu:3 tu2",
+"journey; trip"
+],
+[
+"旅店",
+7173,
+"lu:3 dian4",
+"inn; small hotel"
+],
+[
+"旅客",
+8496,
+"lu:3 ke4",
+"traveler; tourist"
+],
+[
+"旅行者",
+8699,
+"lu:3 xing2 zhe3",
+"traveler"
+],
+[
+"旅行社",
+16153,
+"lu:3 xing2 she4",
+"travel agency"
+],
+[
+"军旅",
+24031,
+"jun1 lu:3",
+"army"
+],
+[
+"旅游团",
+30331,
+"lu:3 you2 tuan2",
+"a tour group"
 ]
 ],
 "strokes": [

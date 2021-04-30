@@ -8,276 +8,299 @@
 "words": [
 [
 "不客气",
-0,
 1,
 "bú kèqi",
 "you're welcome; don't be polite"
 ],
 [
 "天气",
-0,
 1,
 "tiānqì",
 "weather"
 ],
 [
 "生气",
-0,
 3,
 "shēngqì",
 "angry; mad"
 ],
 [
 "空气",
-0,
 4,
 "kōngqì",
 "air"
 ],
 [
 "力气",
-0,
 4,
 "lìqi",
 "physical strength; effort"
 ],
 [
 "脾气",
-0,
 4,
 "píqi",
 "temperament; disposition; temper"
 ],
 [
 "气候",
-0,
 4,
 "qìhòu",
 "climate; atmosphere; weather"
 ],
 [
 "气氛",
-0,
 5,
 "qìfēn",
 "atmosphere; mood; ambience"
 ],
 [
 "淘气",
-0,
 5,
 "táoqì",
 "naughty; bad"
 ],
 [
 "小气",
-0,
 5,
 "xiǎoqì",
 "stingy; petty"
 ],
 [
 "勇气",
-0,
 5,
 "yǒngqì",
 "courage; valor"
 ],
 [
 "语气",
-0,
 5,
 "yǔqì",
 "tone; manner of speaking; mood"
 ],
 [
 "运气",
-0,
 5,
 "yùnqi",
 "luck"
 ],
 [
 "喘气",
-0,
 6,
 "chuǎnqì",
 "to pant; gasp for breath"
 ],
 [
 "风气",
-0,
 6,
 "fēngqì",
 "general mood; atmosphere; common practice"
 ],
 [
 "服气",
-0,
 6,
 "fúqì",
 "be convinced"
 ],
 [
 "福气",
-0,
 6,
 "fúqì",
 "good fortune"
 ],
 [
 "和气",
-0,
 6,
 "héqi",
 "friendly; polite; amiable"
 ],
 [
 "娇气",
-0,
 6,
 "jiāoqì",
 "delicate; effeminate; squeamish"
 ],
 [
 "口气",
-0,
 6,
 "kǒuqì",
 "tone of voice; manner of speaking"
 ],
 [
 "理直气壮",
-0,
 6,
 "lǐzhíqìzhuàng",
 "with justice on one's side, one is bold and assured; to have the courage of ones convictions; just and forceful"
 ],
 [
 "气概",
-0,
 6,
 "qìgài",
 "mettle; spirit; gumption"
 ],
 [
 "气功",
-0,
 6,
 "qìgōng",
 "Qi Gong, a system of deep breathing exercises"
 ],
 [
 "气魄",
-0,
 6,
 "qìpò",
 "spirit; daring; nerve; boldness; enterprising outlook"
 ],
 [
 "气色",
-0,
 6,
 "qìsè",
 "complexion"
 ],
 [
 "气势",
-0,
 6,
 "qìshì",
 "imposing manner; look of great force or imposing manner"
 ],
 [
 "气味",
-0,
 6,
 "qìwèi",
 "odor; scent"
 ],
 [
 "气象",
-0,
 6,
 "qìxiàng",
 "meteorology; atmosphere; phenomenon"
 ],
 [
 "气压",
-0,
 6,
 "qìyā",
 "atmospheric pressure; barometric pressure"
 ],
 [
 "气质",
-0,
 6,
 "qìzhì",
 "temperament; disposition"
 ],
 [
 "神气",
-0,
 6,
 "shénqì",
 "expression; manner; spirited"
 ],
 [
 "叹气",
-0,
 6,
 "tàn qì",
 "to sigh"
 ],
 [
 "天然气",
-0,
 6,
 "tiānránqì",
 "natural gas"
 ],
 [
 "泄气",
-0,
 6,
 "xièqì",
 "despair; feel like giving up/disappointing; pathetic"
 ],
 [
 "氧气",
-0,
 6,
 "yǎngqì",
 "oxygen"
 ],
 [
 "朝气蓬勃",
-0,
 6,
 "zhāo qì péng bó",
 "full of youthful energy (idiom); full of vigour and vitality; energetic; spirited; a bright spark"
 ],
 [
 "争气",
-0,
 6,
 "zhēng qì",
 "work hard for sth.; determined not to fall short"
 ],
 [
 "正气",
-0,
 6,
 "zhèngqì",
 "healthy environment; healthy atmosphere"
 ],
 [
 "志气",
-0,
 6,
 "zhìqì",
 "ambition; resolve; backbone; drive; spirit"
+]
+],
+"extraWords": [
+[
+"气",
+804,
+"qi4",
+"air; anger; gas; gas; air; smell; weather; vital breath; to anger; to get angry; to be enraged"
+],
+[
+"客气",
+1264,
+"ke4 qi5",
+"polite"
+],
+[
+"毒气",
+3706,
+"du2 qi4",
+"\"poison gas; toxic gas; manifestation of passion, anger etc (Buddh.)\""
+],
+[
+"气球",
+5770,
+"qi4 qiu2",
+"balloon"
+],
+[
+"气体",
+5839,
+"qi4 ti3",
+"gas (i.e. gaseous substance)"
+],
+[
+"发脾气",
+5862,
+"fa1 pi2 qi4",
+"to get angry"
+],
+[
+"气息",
+6136,
+"qi4 xi1",
+"breath"
+],
+[
+"煤气",
+7992,
+"mei2 qi4",
+"coal gas; gas"
+],
+[
+"气死",
+8333,
+"qi4 si3",
+"to be very angry"
+],
+[
+"暖气",
+9410,
+"nuan3 qi4",
+"central heating"
 ]
 ],
 "strokes": [

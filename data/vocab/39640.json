@@ -8,101 +8,149 @@
 "words": [
 [
 "高兴",
-0,
 1,
 "gāoxìng",
 "happy; glad"
 ],
 [
 "高",
-0,
 2,
 "gāo",
 "high; tall (Kangxi radical 189)"
 ],
 [
 "提高",
-0,
 3,
 "tígāo",
 "to raise; heighten; improve"
 ],
 [
 "高速公路",
-0,
 4,
 "gāosù gōnglù",
 "highway"
 ],
 [
 "高档",
-0,
 5,
 "gāodàng",
 "top quality; first rate; high class"
 ],
 [
 "高级",
-0,
 5,
 "gāojí",
 "high-level; high-grade; advanced"
 ],
 [
 "崇高",
-0,
 6,
 "chónggāo",
 "lofty; sublime"
 ],
 [
 "高超",
-0,
 6,
 "gāochāo",
 "excellent; superb"
 ],
 [
 "高潮",
-0,
 6,
 "gāocháo",
 "high tide; upsurge; climax; chorus (of a song)"
 ],
 [
 "高峰",
-0,
 6,
 "gāofēng",
 "peak; summit; apex"
 ],
 [
 "高明",
-0,
 6,
 "gāomíng",
 "brilliant; wise"
 ],
 [
 "高尚",
-0,
 6,
 "gāoshàng",
 "nobly; lofty"
 ],
 [
 "高涨",
-0,
 6,
 "gāozhǎng",
 "upsurge; (tensions, etc.) run high"
 ],
 [
 "兴高采烈",
-0,
 6,
 "xìng gāo cǎi liè",
 "in high spirits"
+]
+],
+"extraWords": [
+[
+"高中",
+1343,
+"gao1 zhong1",
+"high school"
+],
+[
+"最高",
+2130,
+"zui4 gao1",
+"highest; highest level"
+],
+[
+"高度",
+3276,
+"gao1 du4",
+"height; altitude; elevation; high degree; highly"
+],
+[
+"高尔夫",
+4120,
+"gao1 er3 fu1",
+"golf; golf ball"
+],
+[
+"高手",
+4331,
+"gao1 shou3",
+"expert; a past master; a dab hand"
+],
+[
+"高速",
+4710,
+"gao1 su4",
+"high speed"
+],
+[
+"高跟鞋",
+5922,
+"gao1 gen1 xie2",
+"high-heeled shoes"
+],
+[
+"高贵",
+5992,
+"gao1 gui4",
+"grandeur; noble"
+],
+[
+"高层",
+6073,
+"gao1 ceng2",
+"high level; high class"
+],
+[
+"身高",
+6290,
+"shen1 gao1",
+"(a person's) height"
 ]
 ],
 "strokes": [

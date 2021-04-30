@@ -8,73 +8,125 @@
 "words": [
 [
 "表演",
-0,
 4,
 "biǎoyǎn",
 "perform; to play"
 ],
 [
 "演出",
-0,
 4,
 "yǎnchū",
 "to act (in a play); to perform; to put on a show; performance"
 ],
 [
 "演员",
-0,
 4,
 "yǎnyuán",
 "actor or actress; performer"
 ],
 [
 "导演",
-0,
 5,
 "dǎoyǎn",
 "to direct; director"
 ],
 [
 "演讲",
-0,
 5,
 "yǎnjiǎng",
 "give a lecture; make a speech"
 ],
 [
 "扮演",
-0,
 6,
 "bànyǎn",
 "play the part of; act"
 ],
 [
 "演变",
-0,
 6,
 "yǎnbiàn",
 "develop; evolve"
 ],
 [
 "演习",
-0,
 6,
 "yǎnxí",
 "rehearse; practice; put on a play"
 ],
 [
 "演绎",
-0,
 6,
 "yǎnyì",
 "deduction; to deduce; to infer"
 ],
 [
 "演奏",
-0,
 6,
 "yǎnzòu",
 "give an instrumental performance"
+]
+],
+"extraWords": [
+[
+"演",
+1065,
+"yan3",
+"to develop; to evolve; to practice; to perform; to play; to act"
+],
+[
+"演唱",
+2490,
+"yan3 chang4",
+"sung performance; to sing for an audience"
+],
+[
+"演唱会",
+4151,
+"yan3 chang4 hui4",
+"vocal recital or concert"
+],
+[
+"演戏",
+4274,
+"yan3 xi4",
+"to put on a play; to perform; fig. to pretend; to feign"
+],
+[
+"上演",
+4706,
+"shang4 yan3",
+"to screen (a movie); to stage (a play); a screening; a staging"
+],
+[
+"演示",
+5967,
+"yan3 shi4",
+"to demonstrate; to show"
+],
+[
+"演说",
+6406,
+"yan3 shuo1",
+"speech; to deliver a speech"
+],
+[
+"演播室",
+6999,
+"yan3 bo1 shi4",
+"broadcasting studio"
+],
+[
+"重演",
+7673,
+"chong2 yan3",
+"a repeat performance; repeat occurrence (e.g. of a disaster)"
+],
+[
+"试演",
+8132,
+"shi4 yan3",
+"audition; dress rehearsal; preview (of a theatrical performance); dummy run"
 ]
 ],
 "strokes": [

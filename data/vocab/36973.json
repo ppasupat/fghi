@@ -8,24 +8,53 @@
 "words": [
 [
 "遭受",
-0,
 6,
 "zāoshòu",
 "suffer; suffering; be subjected to (something unfortunate)"
 ],
 [
 "遭殃",
-0,
 6,
 "zāo yāng",
 "to suffer a calamity; go through a disaster"
 ],
 [
 "遭遇",
-0,
 6,
 "zāoyù",
 "befall; suffer; encounter"
+]
+],
+"extraWords": [
+[
+"遭",
+3000,
+"zao1",
+"\"meet by chance (usually with misfortune); classifier for events: time, turn, incident\""
+],
+[
+"遭到",
+3900,
+"zao1 dao4",
+"suffer; meet with (sth unfortunate)"
+],
+[
+"惨遭",
+15243,
+"can3 zao1",
+"suffer"
+],
+[
+"免遭",
+17934,
+"mian3 zao1",
+"to avoid suffering; to avoid meeting (a fatal accident); spared"
+],
+[
+"遭难",
+51705,
+"zao1 nan4",
+"to run into misfortune"
 ]
 ],
 "strokes": [

@@ -8,59 +8,113 @@
 "words": [
 [
 "互联网",
-0,
 4,
 "Hùliánwǎng",
 "Internet"
 ],
 [
 "联系",
-0,
 4,
 "liánxì",
 "integrate; link; connection; contact"
 ],
 [
 "联合",
-0,
 5,
 "liánhé",
 "alliance; combine; unite"
 ],
 [
 "对联",
-0,
 6,
 "duìlián",
 "rhyming couplet; vertical written couplet usually placed along either side of a doorway"
 ],
 [
 "联欢",
-0,
 6,
 "liánhuān",
 "have a get-together"
 ],
 [
 "联络",
-0,
 6,
 "liánluò",
 "communication; to contact"
 ],
 [
 "联盟",
-0,
 6,
 "liánméng",
 "alliance; union; coalition"
 ],
 [
 "联想",
-0,
 6,
 "liánxiǎng",
 "to associate (cognitively); to make an associative connection; mental association; word prediction and auto-complete functions of input method editing programs; abbr. for 联想集团 Lenovo Group (PRC computer firm)"
+]
+],
+"extraWords": [
+[
+"关联",
+3930,
+"guan1 lian2",
+"related; linked; affiliated"
+],
+[
+"苏联",
+4201,
+"Su1 lian2",
+"\"Soviet Union, 1922-1991; abbr. for Union of Soviet Socialist Republics (USSR) 苏维埃社会主义共和国联盟\""
+],
+[
+"联合国",
+6007,
+"Lian2 he2 guo2",
+"United Nations"
+],
+[
+"联",
+7104,
+"lian2",
+"to ally; to unite; to join"
+],
+[
+"联手",
+10899,
+"lian2 shou3",
+"lit. to join hands; to act together"
+],
+[
+"联合会",
+11351,
+"lian2 he2 hui4",
+"federation"
+],
+[
+"联结",
+22684,
+"lian2 jie2",
+"to bind; to tie; to link"
+],
+[
+"联席会议",
+23087,
+"lian2 xi2 hui4 yi4",
+"joint conference"
+],
+[
+"联姻",
+24298,
+"lian2 yin1",
+"\"related by marriage; to connect by marriage (families, work units)\""
+],
+[
+"蝉联",
+25831,
+"chan2 lian2",
+"to continue in a post; (to hold a post) several times in succession; (to win a title) in successive years; to stay at number one; to defend a championship"
 ]
 ],
 "strokes": [

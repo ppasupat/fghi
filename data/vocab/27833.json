@@ -8,59 +8,113 @@
 "words": [
 [
 "加油站",
-0,
 4,
 "jiāyóuzhàn",
 "gas station"
 ],
 [
 "酱油",
-0,
 5,
 "jiàngyóu",
 "soy sauce"
 ],
 [
 "汽油",
-0,
 5,
 "qìyóu",
 "gasoline; gas; petrol"
 ],
 [
 "油炸",
-0,
 5,
 "yóuzhá",
 "deep fry"
 ],
 [
 "柴油",
-0,
 6,
 "cháiyóu",
 "diesel fuel; kerosene"
 ],
 [
 "石油",
-0,
 6,
 "shíyóu",
 "oil; petroleum"
 ],
 [
 "油腻",
-0,
 6,
 "yóunì",
 "greasy or oily (food)"
 ],
 [
 "油漆",
-0,
 6,
 "yóuqī",
 "oil paint; varnish"
+]
+],
+"extraWords": [
+[
+"加油",
+716,
+"jia1 you2",
+"to add oil; to top up with gas; to refuel; to accelerate; abbr. for 加大油门[jia1 da4 you2 men2]; to step on the gas; fig. to make an extra effort; fig. to cheer sb on"
+],
+[
+"油",
+1781,
+"you2",
+"oil; sly"
+],
+[
+"奶油",
+4039,
+"nai3 you2",
+"cream"
+],
+[
+"黄油",
+5877,
+"huang2 you2",
+"butter"
+],
+[
+"油门",
+9771,
+"you2 men2",
+"accelerator (pedal); gas pedal; throttle"
+],
+[
+"油画",
+10492,
+"you2 hua4",
+"oil painting"
+],
+[
+"油箱",
+11894,
+"you2 xiang1",
+"oil tank"
+],
+[
+"油井",
+12943,
+"you2 jing3",
+"oil well"
+],
+[
+"指甲油",
+13872,
+"zhi3 jia3 you2",
+"nail polish"
+],
+[
+"油脂",
+14347,
+"you2 zhi1",
+"grease; oil; fat"
 ]
 ],
 "strokes": [

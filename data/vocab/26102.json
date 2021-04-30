@@ -8,178 +8,215 @@
 "words": [
 [
 "时候",
-0,
 1,
 "shíhou",
 "time"
 ],
 [
 "时间",
-0,
 2,
 "shíjiān",
 "time; period"
 ],
 [
 "小时",
-0,
 2,
 "xiǎoshí",
 "hour"
 ],
 [
 "按时",
-0,
 4,
 "ànshí",
 "on time; on schedule"
 ],
 [
 "当时",
-0,
 4,
 "dāngshí",
 "then; at that time; while"
 ],
 [
 "及时",
-0,
 4,
 "jíshí",
 "timely; in time; promptly; without delay"
 ],
 [
 "平时",
-0,
 4,
 "píngshí",
 "ordinarily; in normal times; in peacetime"
 ],
 [
 "同时",
-0,
 4,
 "tóngshí",
 "at the same time; simultaneously"
 ],
 [
 "暂时",
-0,
 4,
 "zànshí",
 "temporary; transient; for the moment"
 ],
 [
 "准时",
-0,
 4,
 "zhǔnshí",
 "punctually; on time"
 ],
 [
 "临时",
-0,
 5,
 "línshí",
 "temporary; at the time; when the time comes"
 ],
 [
 "时差",
-0,
 5,
 "shíchā",
 "jetlag; time difference"
 ],
 [
 "时代",
-0,
 5,
 "shídài",
 "age; era; period"
 ],
 [
 "时刻",
-0,
 5,
 "shíkè",
 "moment; constantly"
 ],
 [
 "时髦",
-0,
 5,
 "shímáo",
 "fashionable"
 ],
 [
 "时期",
-0,
 5,
 "shíqī",
 "period in time or history; period; time"
 ],
 [
 "时尚",
-0,
 5,
 "shíshàng",
 "fashion; fad"
 ],
 [
 "随时",
-0,
 5,
 "suíshí",
 "at any time; whenever necessary"
 ],
 [
 "不时",
-0,
 6,
 "bùshí",
 "frequently; often; at any time"
 ],
 [
 "顿时",
-0,
 6,
 "dùnshí",
 "immediately; suddenly"
 ],
 [
 "时常",
-0,
 6,
 "shícháng",
 "time and again; often; frequently"
 ],
 [
 "时而",
-0,
 6,
 "shí'ér",
 "occasionally; often, but not at any fixed time"
 ],
 [
 "时光",
-0,
 6,
 "shíguāng",
 "time; era; period of time"
 ],
 [
 "时机",
-0,
 6,
 "shíjī",
 "opportune time; opportunity"
 ],
 [
 "时事",
-0,
 6,
 "shíshì",
 "current events; the present situation"
+]
+],
+"extraWords": [
+[
+"时",
+178,
+"shi2",
+"o'clock; time; when; hour; season; period; surname Shi"
+],
+[
+"那时",
+890,
+"na4 shi2",
+"then; at that time; in those days"
+],
+[
+"有时",
+1132,
+"you3 shi2",
+"sometimes; now and then"
+],
+[
+"有时候",
+1188,
+"you3 shi2 hou5",
+"sometimes"
+],
+[
+"小时候",
+2273,
+"xiao3 shi2 hou5",
+"in one's childhood"
+],
+[
+"何时",
+2709,
+"he2 shi2",
+"when"
+],
+[
+"时装",
+3587,
+"shi2 zhuang1",
+"the latest fashion in clothes; fashionable"
+],
+[
+"一时",
+3599,
+"yi1 shi2",
+"a period of time; a while; for a short while; temporary; momentary; at the same time"
+],
+[
+"时空",
+4484,
+"shi2 kong1",
+"space-time (in relativity)"
+],
+[
+"这时",
+5157,
+"zhe4 shi2",
+"at this time; at this moment"
 ]
 ],
 "strokes": [

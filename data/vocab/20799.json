@@ -8,122 +8,167 @@
 "words": [
 [
 "儿子",
-0,
 1,
 "érzi",
 "son"
 ],
 [
 "哪儿",
-0,
 1,
 "nǎr",
 "where? (Beijing accent)"
 ],
 [
 "女儿",
-0,
 1,
 "nǚ'ér",
 "daughter"
 ],
 [
 "一点儿",
-0,
 1,
 "yìdiǎnr",
 "a bit; a few"
 ],
 [
 "一会儿",
-0,
 3,
 "yíhuìr",
 "a while; a moment"
 ],
 [
 "儿童",
-0,
 4,
 "értóng",
 "child; children"
 ],
 [
 "干活儿",
-0,
 5,
 "gàn huór",
 "do manual labor; to work"
 ],
 [
 "使劲儿",
-0,
 5,
 "shǐjìnr",
 "exert all one's strength"
 ],
 [
 "幼儿园",
-0,
 5,
 "yòu'éryuán",
 "kindergarten; nursery school"
 ],
 [
 "大伙儿",
-0,
 6,
 "dàhuǒr",
 "everyone"
 ],
 [
 "墨水儿",
-0,
 6,
 "mòshuǐer",
 "ink"
 ],
 [
 "纳闷儿",
-0,
 6,
 "nà mènr",
 "feel puzzled; bewildered"
 ],
 [
 "纽扣儿",
-0,
 6,
 "niǔkòur",
 "button"
 ],
 [
 "玩意儿",
-0,
 6,
 "wányìr",
 "thing; toy; gadget"
 ],
 [
 "馅儿",
-0,
 6,
 "xiànr",
 "stuffing; filling"
 ],
 [
 "心眼儿",
-0,
 6,
 "xīnyǎnr",
 "one's thoughts; mind; intention; willingness to accept new ideas"
 ],
 [
 "婴儿",
-0,
 6,
 "yīng'ér",
 "baby infant"
+]
+],
+"extraWords": [
+[
+"这儿",
+172,
+"zhe4 r5",
+"here"
+],
+[
+"那儿",
+343,
+"na4 r5",
+"there"
+],
+[
+"儿",
+508,
+"er2",
+"son; non-syllabic diminutive suffix; retroflex final"
+],
+[
+"点儿",
+707,
+"dian3 r5",
+"\"erhua variant of 点, point; dot; speck; drop; little bit\""
+],
+[
+"事儿",
+892,
+"shi4 r5",
+"\"one's employment; business; matter that needs to be settled; erhua variant of 事, thing, matter, affair etc\""
+],
+[
+"头儿",
+1401,
+"tou2 r5",
+"leader"
+],
+[
+"没事儿",
+2357,
+"mei2 shi4 r5",
+"to have spare time; free from work; it's not important; it's nothing; never mind"
+],
+[
+"哥们儿",
+2742,
+"ge1 men2 r5",
+"\"erhua variant of 哥们, Brothers!; brethren; dude (colloq.); brother (diminutive form of address between males)\""
+],
+[
+"活儿",
+3588,
+"huo2 er5",
+"work (colloq.); (lots of) things to do"
+],
+[
+"玩儿",
+4132,
+"wan2 r5",
+"to play; to have fun"
 ]
 ],
 "strokes": [

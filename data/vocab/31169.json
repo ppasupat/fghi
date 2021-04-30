@@ -8,38 +8,95 @@
 "words": [
 [
 "私人",
-0,
 5,
 "sīrén",
 "private (citizen); personal; individual"
 ],
 [
 "自私",
-0,
 5,
 "zìsī",
 "selfish"
 ],
 [
 "私自",
-0,
 6,
 "sīzì",
 "private; secretly; without permission"
 ],
 [
 "隐私",
-0,
 6,
 "yǐnsī",
 "privacy; personal secret"
 ],
 [
 "走私",
-0,
 6,
 "zǒu sī",
 "smuggle; have an illicit affair"
+]
+],
+"extraWords": [
+[
+"私",
+3712,
+"si1",
+"personal; private; selfish"
+],
+[
+"私下",
+3794,
+"si1 xia4",
+"in private"
+],
+[
+"私事",
+6390,
+"si1 shi4",
+"personal matters"
+],
+[
+"私奔",
+8673,
+"si1 ben1",
+"to elope"
+],
+[
+"无私",
+9452,
+"wu2 si1",
+"selfless; unselfish; disinterested; altruistic"
+],
+[
+"私立",
+11271,
+"si1 li4",
+"\"private (company, school etc)\""
+],
+[
+"私生子",
+11842,
+"si1 sheng1 zi3",
+"illegitimate child (male); bastard; love child"
+],
+[
+"私藏",
+13778,
+"si1 cang2",
+"secret store; a stash (of contraband)"
+],
+[
+"私情",
+15295,
+"si1 qing2",
+"private passion; love affair; relationship"
+],
+[
+"私语",
+17042,
+"si1 yu3",
+"murmur"
 ]
 ],
 "strokes": [

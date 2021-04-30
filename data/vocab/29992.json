@@ -8,108 +8,155 @@
 "words": [
 [
 "信用卡",
-0,
 3,
 "xìnyòngkǎ",
 "credit card"
 ],
 [
 "用",
-0,
 3,
 "yòng",
 "to use (Kangxi radical 101)"
 ],
 [
 "使用",
-0,
 4,
 "shǐyòng",
 "to use; employ; apply; administer; manipulate"
 ],
 [
 "作用",
-0,
 4,
 "zuòyòng",
 "action; activity; effect"
 ],
 [
 "利用",
-0,
 5,
 "lìyòng",
 "to use; to make use of; to exploit"
 ],
 [
 "日用品",
-0,
 5,
 "rìyòngpǐn",
 "daily necessities"
 ],
 [
 "实用",
-0,
 5,
 "shíyòng",
 "practical; pragmatic; functional"
 ],
 [
 "应用",
-0,
 5,
 "yìngyòng",
 "to apply; to use; application"
 ],
 [
 "用功",
-0,
 5,
 "yòng gōng",
 "diligent; industrious; hardworking"
 ],
 [
 "用途",
-0,
 5,
 "yòngtú",
 "use; application; purpose"
 ],
 [
 "运用",
-0,
 5,
 "yùnyòng",
 "to use; apply"
 ],
 [
 "耐用",
-0,
 6,
 "nàiyòng",
 "durable"
 ],
 [
 "通用",
-0,
 6,
 "tōngyòng",
 "in common use; interchangeable; General Motors"
 ],
 [
 "引用",
-0,
 6,
 "yǐnyòng",
 "quote; cite"
 ],
 [
 "用户",
-0,
 6,
 "yònghù",
 "user; consumer; subscriber; customer"
+]
+],
+"extraWords": [
+[
+"不用",
+805,
+"bu4 yong4",
+"need not"
+],
+[
+"管用",
+2729,
+"guan3 yong4",
+"efficacious; useful"
+],
+[
+"没用",
+3257,
+"mei2 yong4",
+"useless"
+],
+[
+"费用",
+3492,
+"fei4 yong4",
+"cost; expenditure; expense"
+],
+[
+"用来",
+3593,
+"yong4 lai2",
+"to be used for"
+],
+[
+"用不着",
+3740,
+"yong4 bu5 zhao2",
+"not need; have no use for"
+],
+[
+"有用",
+3918,
+"you3 yong4",
+"useful"
+],
+[
+"服用",
+4491,
+"fu2 yong4",
+"to take (medicine)"
+],
+[
+"用于",
+4719,
+"yong4 yu2",
+"use in; use on; use for"
+],
+[
+"雇用",
+4763,
+"gu4 yong4",
+"to employ; to hire; trad. also written 雇用"
 ]
 ],
 "strokes": [

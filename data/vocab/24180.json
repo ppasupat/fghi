@@ -8,94 +8,143 @@
 "words": [
 [
 "年",
-0,
 1,
 "nián",
 "year"
 ],
 [
 "去年",
-0,
 2,
 "qùnián",
 "last year"
 ],
 [
 "年级",
-0,
 3,
 "niánjí",
 "grade; year (in school)"
 ],
 [
 "年轻",
-0,
 3,
 "niánqīng",
 "young"
 ],
 [
 "年龄",
-0,
 4,
 "niánlíng",
 "(a person's) age"
 ],
 [
 "年代",
-0,
 5,
 "niándài",
 "decade; era"
 ],
 [
 "年纪",
-0,
 5,
 "niánjì",
 "age"
 ],
 [
 "青少年",
-0,
 5,
 "qīngshàonián",
 "teenager"
 ],
 [
 "拜年",
-0,
 6,
 "bài nián",
 "congratulate the New Year; wish sb. a Happy New Year"
 ],
 [
 "连年",
-0,
 6,
 "liánnián",
 "successive years; over many years; once again this year"
 ],
 [
 "年度",
-0,
 6,
 "niándù",
 "year (e.g. school year, fiscal year, etc.); annual"
 ],
 [
 "周年",
-0,
 6,
 "zhōunián",
 "anniversary; annual"
 ],
 [
 "逐年",
-0,
 6,
 "zhúnián",
 "year after year; on an annual basis"
+]
+],
+"extraWords": [
+[
+"今年",
+1521,
+"jin1 nian2",
+"this year"
+],
+[
+"年轻人",
+1758,
+"nian2 qing1 ren2",
+"young people"
+],
+[
+"每年",
+2721,
+"mei3 nian2",
+"every year; each year; yearly"
+],
+[
+"明年",
+3384,
+"ming2 nian2",
+"next year"
+],
+[
+"成年人",
+3669,
+"cheng2 nian2 ren2",
+"adult person"
+],
+[
+"新年",
+4321,
+"xin1 nian2",
+"New Year"
+],
+[
+"当年",
+4456,
+"dang1 nian2",
+"in those days; then; in those years; during that time"
+],
+[
+"少年",
+4773,
+"shao4 nian2",
+"juvenile; youngster"
+],
+[
+"童年",
+4807,
+"tong2 nian2",
+"childhood"
+],
+[
+"青年",
+5482,
+"qing1 nian2",
+"youth"
 ]
 ],
 "strokes": [

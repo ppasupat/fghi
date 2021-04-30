@@ -8,80 +8,131 @@
 "words": [
 [
 "消息",
-0,
 4,
 "xiāoxi",
 "news; information"
 ],
 [
 "取消",
-0,
 5,
 "qǔxiāo",
 "cancel; cancellation; abolish"
 ],
 [
 "消费",
-0,
 5,
 "xiāofèi",
 "consumption; spending"
 ],
 [
 "消化",
-0,
 5,
 "xiāohuà",
 "to digest"
 ],
 [
 "消极",
-0,
 5,
 "xiāojí",
 "passive; negative; demoralized"
 ],
 [
 "消失",
-0,
 5,
 "xiāoshī",
 "disappear; fade away; dissolve"
 ],
 [
 "消除",
-0,
 6,
 "xiāochú",
 "eliminate; remove; clear up (abstract things）"
 ],
 [
 "消毒",
-0,
 6,
 "xiāo dú",
 "disinfect; sterilize"
 ],
 [
 "消防",
-0,
 6,
 "xiāofáng",
 "fire-fighting; fire prevention and control"
 ],
 [
 "消耗",
-0,
 6,
 "xiāohào",
 "use up; consume"
 ],
 [
 "消灭",
-0,
 6,
 "xiāomiè",
 "eliminate; perish; wipe out"
+]
+],
+"extraWords": [
+[
+"消",
+5536,
+"xiao1",
+"consume; news; subside; to disappear; to vanish"
+],
+[
+"消沉",
+9506,
+"xiao1 chen2",
+"depressed; bad mood; low spirit"
+],
+[
+"消逝",
+9555,
+"xiao1 shi4",
+"to fade away"
+],
+[
+"消磨",
+10009,
+"xiao1 mo2",
+"to wear down; to sap; to whittle away; to while away; to idle away"
+],
+[
+"消遣",
+10153,
+"xiao1 qian3",
+"to while away time; to kill time; amusement; pastime; diversion; recreation"
+],
+[
+"消防队",
+10248,
+"xiao1 fang2 dui4",
+"fire brigade; fire department"
+],
+[
+"消费者",
+13889,
+"xiao1 fei4 zhe3",
+"consumer"
+],
+[
+"打消",
+14575,
+"da3 xiao1",
+"\"to dispel (doubts, misgivings etc); to give up on\""
+],
+[
+"烟消云散",
+15867,
+"yan1 xiao1 yun2 san4",
+"disappear; vanish like smoke in thin air"
+],
+[
+"抵消",
+16306,
+"di3 xiao1",
+"offset; counteract; cancel out"
 ]
 ],
 "strokes": [

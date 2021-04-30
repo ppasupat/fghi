@@ -8,45 +8,101 @@
 "words": [
 [
 "粮食",
-0,
 5,
 "liángshi",
 "grain; food; cereals"
 ],
 [
 "零食",
-0,
 5,
 "língshí",
 "snack"
 ],
 [
 "食物",
-0,
 5,
 "shíwù",
 "food"
 ],
 [
 "废寝忘食",
-0,
 6,
 "fèiqǐnwàngshí",
 "to forget even sleeping and eating"
 ],
 [
 "素食",
-0,
 6,
 "sùshí",
 "vegetables; vegetarian food"
 ],
 [
 "饮食",
-0,
 6,
 "yǐnshí",
 "food and drink; diet"
+]
+],
+"extraWords": [
+[
+"食",
+2445,
+"shi2/si4",
+"animal feed; eat; food; to feed"
+],
+[
+"食品",
+3202,
+"shi2 pin3",
+"foodstuff; food; provisions"
+],
+[
+"美食",
+7539,
+"mei3 shi2",
+"culinary delicacy; fine food; gourmet food"
+],
+[
+"进食",
+9071,
+"jin4 shi2",
+"take a meal; eat a meal"
+],
+[
+"吸食",
+9392,
+"xi1 shi2",
+"to suck; to absorb food"
+],
+[
+"节食",
+10679,
+"jie2 shi2",
+"to save food; to go on a diet"
+],
+[
+"食谱",
+10799,
+"shi2 pu3",
+"cookery book; cookbook; recipe"
+],
+[
+"食堂",
+11501,
+"shi2 tang2",
+"dining hall"
+],
+[
+"食言",
+11859,
+"shi2 yan2",
+"lit. to eat one's words; to break a promise; to go back on one's word; to renege; unsworn testimony"
+],
+[
+"熟食",
+13351,
+"shu2 shi2",
+"cooked food"
 ]
 ],
 "strokes": [

@@ -8,59 +8,113 @@
 "words": [
 [
 "部分",
-0,
 4,
 "bùfen",
 "part; share; section"
 ],
 [
 "全部",
-0,
 4,
 "quánbù",
 "whole; entire; complete"
 ],
 [
 "部门",
-0,
 5,
 "bùmén",
 "department; branch; section"
 ],
 [
 "俱乐部",
-0,
 5,
 "jùlèbù",
 "club (group or organization)"
 ],
 [
 "内部",
-0,
 5,
 "nèibù",
 "internal; interior; inside (part, section)"
 ],
 [
 "部署",
-0,
 6,
 "bùshǔ",
 "dispose; deploy"
 ],
 [
 "部位",
-0,
 6,
 "bùwèi",
 "position; place"
 ],
 [
 "局部",
-0,
 6,
 "júbù",
 "part; local"
+]
+],
+"extraWords": [
+[
+"部",
+606,
+"bu4",
+"\"ministry; department; section; part; division; troops; board; (classifier for works of literature, films, machines etc)\""
+],
+[
+"部落",
+1305,
+"bu4 luo4",
+"tribe"
+],
+[
+"大部分",
+1899,
+"da4 bu4 fen5",
+"in large part; the greater part; the majority"
+],
+[
+"部队",
+2169,
+"bu4 dui4",
+"army; armed forces; troops; force; unit"
+],
+[
+"总部",
+2873,
+"zong3 bu4",
+"general headquarters"
+],
+[
+"胸部",
+2885,
+"xiong1 bu4",
+"chest; bosom"
+],
+[
+"部长",
+3830,
+"bu4 zhang3",
+"head of a (government etc) department; section chief; section head; secretary; minister"
+],
+[
+"头部",
+3965,
+"tou2 bu4",
+"head"
+],
+[
+"西部",
+4059,
+"xi1 bu4",
+"western part"
+],
+[
+"南部",
+5190,
+"nan2 bu4",
+"southern part"
 ]
 ],
 "strokes": [

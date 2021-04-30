@@ -8,38 +8,95 @@
 "words": [
 [
 "太",
-0,
 1,
 "tài",
 "too (much)"
 ],
 [
 "太阳",
-0,
 3,
 "tàiyáng",
 "the sun"
 ],
 [
 "太极拳",
-0,
 5,
 "tàijíquán",
 "Tai chi, a Chinese martial art"
 ],
 [
 "太太",
-0,
 5,
 "tàitai",
 "wife; married woman; Madame; Mrs."
 ],
 [
 "太空",
-0,
 6,
 "tàikōng",
 "outer space"
+]
+],
+"extraWords": [
+[
+"犹太人",
+2254,
+"You2 tai4 ren2",
+"Jew"
+],
+[
+"犹太",
+3126,
+"You2 tai4",
+"Jew; Jewish; Judea (in Biblical Palestine)"
+],
+[
+"太平洋",
+6064,
+"Tai4 ping2 yang2",
+"the Pacific Ocean"
+],
+[
+"老太太",
+6286,
+"lao3 tai4 tai5",
+"elderly lady (respectful); esteemed mother"
+],
+[
+"太空船",
+7908,
+"tai4 kong1 chuan2",
+"spaceship"
+],
+[
+"老太婆",
+8738,
+"lao3 tai4 po2",
+"old woman (at times contemptuous)"
+],
+[
+"犹太教",
+10894,
+"You2 tai4 jiao4",
+"Judaism"
+],
+[
+"太阳系",
+11384,
+"tai4 yang2 xi4",
+"solar system"
+],
+[
+"太阳能",
+11521,
+"tai4 yang2 neng2",
+"solar energy"
+],
+[
+"太平",
+12579,
+"tai4 ping2",
+"peace and security"
 ]
 ],
 "strokes": [

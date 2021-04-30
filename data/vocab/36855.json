@@ -8,52 +8,107 @@
 "words": [
 [
 "迷路",
-0,
 4,
 "mílù",
 "to get lost"
 ],
 [
 "球迷",
-0,
 5,
 "qiúmí",
 "fan (of ball games: basketball, football, etc.)"
 ],
 [
 "昏迷",
-0,
 6,
 "hūnmí",
 "lose consciousness; be in a coma"
 ],
 [
 "迷惑",
-0,
 6,
 "míhuò",
 "to puzzle; confuse; mystify"
 ],
 [
 "迷人",
-0,
 6,
 "mírén",
 "charming; enchanting; cute"
 ],
 [
 "迷信",
-0,
 6,
 "míxìn",
 "superstition; be superstitious"
 ],
 [
 "着迷",
-0,
 6,
 "zháomí",
 "to be fascinated"
+]
+],
+"extraWords": [
+[
+"迷",
+1864,
+"mi2",
+"bewilder; crazy about; fan; enthusiast; lost; confused"
+],
+[
+"迷失",
+4194,
+"mi2 shi1",
+"lost; not knowing one's location"
+],
+[
+"迷恋",
+6355,
+"mi2 lian4",
+"to be infatuated with; to indulge in"
+],
+[
+"迷你",
+6455,
+"mi2 ni3",
+"mini (as in mini-skirt or Mini Cooper)"
+],
+[
+"歌迷",
+7796,
+"ge1 mi2",
+"fan and devotee of singing and singer"
+],
+[
+"痴迷",
+7832,
+"chi1 mi2",
+"infatuated; obsessed"
+],
+[
+"迷茫",
+8134,
+"mi2 mang2",
+"dim; hazy; (of the mind) in a trance; in a state of delirium"
+],
+[
+"迷宫",
+8172,
+"mi2 gong1",
+"maze; labyrinth"
+],
+[
+"迷住",
+8571,
+"mi2 zhu5",
+"to fascinate; to strongly attract; to obsess; to infatuate; to captivate; to enchant"
+],
+[
+"迷糊",
+10022,
+"mi2 hu5",
+"muddle-headed; dazed; only half conscious"
 ]
 ],
 "strokes": [

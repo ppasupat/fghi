@@ -8,73 +8,125 @@
 "words": [
 [
 "及时",
-0,
 4,
 "jíshí",
 "timely; in time; promptly; without delay"
 ],
 [
 "来不及",
-0,
 4,
 "lái bu jí",
 "there's not enough time (to do something); it's too late"
 ],
 [
 "来得及",
-0,
 4,
 "lái de jí",
 "there's still time"
 ],
 [
 "及格",
-0,
 5,
 "jí gé",
 "pass an exam"
 ],
 [
 "以及",
-0,
 5,
 "yǐjí",
 "as well as; too; (formal) and"
 ],
 [
 "及早",
-0,
 6,
 "jízǎo",
 "as soon as possible; at the earliest possible time"
 ],
 [
 "力所能及",
-0,
 6,
 "lìsuǒnéngjí",
 "within one's power; to the best of one's ability"
 ],
 [
 "迫不及待",
-0,
 6,
 "pòbùjídài",
 "be too impatient to wait"
 ],
 [
 "普及",
-0,
 6,
 "pǔjí",
 "widespread; popular; popularize"
 ],
 [
 "涉及",
-0,
 6,
 "shèjí",
 "involve; relate to; to touch upon (a topic)"
+]
+],
+"extraWords": [
+[
+"及",
+1236,
+"ji2",
+"and; to reach; up to; in time for"
+],
+[
+"埃及",
+4063,
+"Ai1 ji2",
+"Egypt"
+],
+[
+"提及",
+8075,
+"ti2 ji2",
+"to mention; to raise (a subject); to bring to sb's attention"
+],
+[
+"及其",
+11036,
+"ji2 qi2",
+"and; as well as"
+],
+[
+"危及",
+11378,
+"wei1 ji2",
+"\"to endanger; to jeopardize; a danger (to life, national security etc)\""
+],
+[
+"顾及",
+14390,
+"gu4 ji2",
+"take into account; take into consideration"
+],
+[
+"措手不及",
+14580,
+"cuo4 shou3 bu4 ji2",
+"no time to deal with it (idiom); caught unprepared"
+],
+[
+"阿尔及利亚",
+18516,
+"A1 er3 ji2 li4 ya4",
+"Algeria"
+],
+[
+"波及",
+21485,
+"bo1 ji2",
+"to spread to; to involve; to affect"
+],
+[
+"不及",
+22016,
+"bu4 ji2",
+"not as good as; inferior to; find it too late"
 ]
 ],
 "strokes": [

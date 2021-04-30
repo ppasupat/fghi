@@ -8,87 +8,137 @@
 "words": [
 [
 "件",
-0,
 2,
 "jiàn",
 "(mw for things, clothes, and items)"
 ],
 [
 "电子邮件",
-0,
 3,
 "diànzǐ yóujiàn",
 "email"
 ],
 [
 "条件",
-0,
 4,
 "tiáojiàn",
 "condition; circumstances; prerequisite"
 ],
 [
 "零件",
-0,
 5,
 "língjiàn",
 "spare parts; component"
 ],
 [
 "软件",
-0,
 5,
 "ruǎnjiàn",
 "(computer) software"
 ],
 [
 "文件",
-0,
 5,
 "wénjiàn",
 "document; file"
 ],
 [
 "硬件",
-0,
 5,
 "yìngjiàn",
 "hardware"
 ],
 [
 "证件",
-0,
 5,
 "zhèngjiàn",
 "paperwork; credentials; papers; certificates"
 ],
 [
 "案件",
-0,
 6,
 "ànjiàn",
 "legal case; judicial case"
 ],
 [
 "附件",
-0,
 6,
 "fùjiàn",
 "attachment; enclosure"
 ],
 [
 "稿件",
-0,
 6,
 "gǎojiàn",
 "rough draft of a document"
 ],
 [
 "事件",
-0,
 6,
 "shìjiàn",
 "event; happening; incident"
+]
+],
+"extraWords": [
+[
+"邮件",
+2105,
+"you2 jian4",
+"mail; post"
+],
+[
+"信件",
+5791,
+"xin4 jian4",
+"a letter (i.e. sent in the mail)"
+],
+[
+"部件",
+10684,
+"bu4 jian4",
+"parts; components; assembly; character radical"
+],
+[
+"文件夹",
+12204,
+"wen2 jian4 jia1",
+"folder; file (paper)"
+],
+[
+"物件",
+14352,
+"wu4 jian4",
+"object"
+],
+[
+"配件",
+15771,
+"pei4 jian4",
+"fittings; mountings; replacement (parts); accessories"
+],
+[
+"元件",
+18352,
+"yuan2 jian4",
+"element; component"
+],
+[
+"组件",
+25264,
+"zu3 jian4",
+"module; unit; component; assembly"
+],
+[
+"零部件",
+32688,
+"ling2 bu4 jian4",
+"spare part; component"
+],
+[
+"必要条件",
+37106,
+"bi4 yao4 tiao2 jian4",
+"requirement; necessary condition (math)"
 ]
 ],
 "strokes": [

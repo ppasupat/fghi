@@ -8,115 +8,161 @@
 "words": [
 [
 "已经",
-0,
 2,
 "yǐjing",
 "already"
 ],
 [
 "经常",
-0,
 3,
 "jīngcháng",
 "often; frequently; daily"
 ],
 [
 "经过",
-0,
 3,
 "jīngguò",
 "to pass; go through; as a result of"
 ],
 [
 "经理",
-0,
 3,
 "jīnglǐ",
 "manager; director"
 ],
 [
 "经济",
-0,
 4,
 "jīngjì",
 "economy; economic"
 ],
 [
 "经历",
-0,
 4,
 "jīnglì",
 "undergo; to experience"
 ],
 [
 "经验",
-0,
 4,
 "jīngyàn",
 "experience"
 ],
 [
 "曾经",
-0,
 5,
 "céngjīng",
 "once; (refers to something that happened previously)"
 ],
 [
 "经典",
-0,
 5,
 "jīngdiǎn",
 "classics; scriptures"
 ],
 [
 "经商",
-0,
 5,
 "jīng shāng",
 "trade; be in business; do commerce"
 ],
 [
 "经营",
-0,
 5,
 "jīngyíng",
 "engage in (a business activity, etc.); run/operate (a business)"
 ],
 [
 "饱经沧桑",
-0,
 6,
 "bǎojīngcāngsāng",
 "experienced many changes"
 ],
 [
 "经费",
-0,
 6,
 "jīngfèi",
 "funds; expenses"
 ],
 [
 "经纬",
-0,
 6,
 "jīngwěi",
 "warp and woof; longitude and latitude; main points"
 ],
 [
 "神经",
-0,
 6,
 "shénjīng",
 "nerve"
 ],
 [
 "正经",
-0,
 6,
 "zhèngjing",
 "decent; serious; standard; really"
+]
+],
+"extraWords": [
+[
+"经",
+2315,
+"jing1/jing4",
+"classics; sacred book; scripture; to pass through; to undergo; warp; longitude; abbr. for economics }搊辽经济; surname Jing"
+],
+[
+"经纪人",
+2714,
+"jing1 ji4 ren2",
+"broker; middleman; agent; manager"
+],
+[
+"圣经",
+2872,
+"Sheng4 jing1",
+"Holy Bible; the Confucian classics"
+],
+[
+"神经病",
+4486,
+"shen2 jing1 bing4",
+"mental disorder; neuropathy"
+],
+[
+"经受",
+6452,
+"jing1 shou4",
+"to undergo (hardship); to endure; to withstand"
+],
+[
+"经纪",
+7405,
+"jing1 ji4",
+"to manage (a business); manager; broker"
+],
+[
+"未经",
+7499,
+"wei4 jing1",
+"not (yet)"
+],
+[
+"神经质",
+8309,
+"shen2 jing1 zhi4",
+"nervousness"
+],
+[
+"月经",
+9815,
+"yue4 jing1",
+"menstruation; a woman's period"
+],
+[
+"不经意",
+14166,
+"bu4 jing1 yi4",
+"carelessly; by accident"
 ]
 ],
 "strokes": [

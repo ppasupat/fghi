@@ -8,129 +8,173 @@
 "words": [
 [
 "要",
-0,
 2,
 "yào",
 "to want; to need; will/shall; important"
 ],
 [
 "需要",
-0,
 3,
 "xūyào",
 "to need; to want; to demand"
 ],
 [
 "要求",
-0,
 3,
 "yāoqiú",
 "to request; to demand; requirement"
 ],
 [
 "重要",
-0,
 3,
 "zhòngyào",
 "important; significant; major"
 ],
 [
 "主要",
-0,
 3,
 "zhǔyào",
 "main; principal; major"
 ],
 [
 "要是",
-0,
 4,
 "yàoshi",
 "if; suppose; in case"
 ],
 [
 "只要",
-0,
 4,
 "zhǐyào",
 "so long as; if only; provided that"
 ],
 [
 "必要",
-0,
 5,
 "bìyào",
 "necessary; essential; indispensable"
 ],
 [
 "不要紧",
-0,
 5,
 "bú yàojǐn",
 "unimportant; not serious; it doesn't matter"
 ],
 [
 "次要",
-0,
 5,
 "cìyào",
 "secondary; less important"
 ],
 [
 "要不",
-0,
 5,
 "yàobù",
 "otherwise; or else; how about"
 ],
 [
 "纪要",
-0,
 6,
 "jìyào",
 "written summary of a meeting; minutes"
 ],
 [
 "简要",
-0,
 6,
 "jiǎnyào",
 "concise; brief"
 ],
 [
 "首要",
-0,
 6,
 "shǒuyào",
 "the most important; chief; principal"
 ],
 [
 "要点",
-0,
 6,
 "yàodiǎn",
 "main point; essential"
 ],
 [
 "要命",
-0,
 6,
 "yàomìng",
 "cause somebody's death; very; extremely; frighteningly; annoyance"
 ],
 [
 "要素",
-0,
 6,
 "yàosù",
 "essential factor; key constituent"
 ],
 [
 "摘要",
-0,
 6,
 "zhāiyào",
 "summary; abstract"
+]
+],
+"extraWords": [
+[
+"不要",
+198,
+"bu4 yao4",
+"don't!; must not"
+],
+[
+"要么",
+1120,
+"yao4 me5",
+"or; either one or the other"
+],
+[
+"提要",
+2253,
+"ti2 yao4",
+"summary; abstract"
+],
+[
+"快要",
+2914,
+"kuai4 yao4",
+"almost; nearly; almost all"
+],
+[
+"将要",
+4423,
+"jiang1 yao4",
+"will; shall; be going to"
+],
+[
+"要不然",
+4448,
+"yao4 bu4 ran2",
+"otherwise; or else; or"
+],
+[
+"无关紧要",
+4465,
+"wu2 guan1 jin3 yao4",
+"indifferent; insignificant"
+],
+[
+"要紧",
+6255,
+"yao4 jin3",
+"important; urgent"
+],
+[
+"要害",
+8878,
+"yao4 hai4",
+"crucial; key point"
+],
+[
+"重要性",
+9040,
+"zhong4 yao4 xing4",
+"importance"
 ]
 ],
 "strokes": [

@@ -8,87 +8,137 @@
 "words": [
 [
 "复习",
-0,
 3,
 "fùxí",
 "revise; to review"
 ],
 [
 "复印",
-0,
 4,
 "fùyìn",
 "photocopy; duplicate"
 ],
 [
 "复杂",
-0,
 4,
 "fùzá",
 "complicated; complex"
 ],
 [
 "重复",
-0,
 5,
 "chóngfù",
 "to repeat; to duplicate"
 ],
 [
 "反复",
-0,
 5,
 "fǎnfù",
 "repeatedly; over and over"
 ],
 [
 "复制",
-0,
 5,
 "fùzhì",
 "duplicate; reproduce"
 ],
 [
 "恢复",
-0,
 5,
 "huīfù",
 "reinstate; resume; recover"
 ],
 [
 "报复",
-0,
 6,
 "bàofu",
 "retaliate; revenge"
 ],
 [
 "答复",
-0,
 6,
 "dáfù",
 "to answer; to reply"
 ],
 [
 "复活",
-0,
 6,
 "fùhuó",
 "resurrection"
 ],
 [
 "复兴",
-0,
 6,
 "fùxīng",
 "revive; restore"
 ],
 [
 "修复",
-0,
 6,
 "xiūfù",
 "restoration; repair"
+]
+],
+"extraWords": [
+[
+"复仇",
+3025,
+"fu4 chou2",
+"avenge; vengeance"
+],
+[
+"康复",
+3488,
+"kang1 fu4",
+"to recuperate; to recover (health); to convalesce"
+],
+[
+"回复",
+4390,
+"hui2 fu4",
+"Re:; in reply to (email); return (to some condition)"
+],
+[
+"复",
+6690,
+"fu4",
+"to go and return; to return; to resume; to return to a normal or original state; to repeat; again; to recover; to restore; to turn over; to reply; to answer; to reply to a letter; to retaliate; to carry out; to repeat; to double; to overlap; complex (not simple); compound; composite; double; diplo-; duplicate; overlapping; to duplicate"
+],
+[
+"复原",
+7521,
+"fu4 yuan2",
+"heal; recovery; restitution; reconstruction"
+],
+[
+"复活节",
+7817,
+"Fu4 huo2 jie2",
+"Easter"
+],
+[
+"复合",
+7957,
+"fu4 he2",
+"complex; compound; hybrid"
+],
+[
+"复苏",
+8070,
+"fu4 su1",
+"\"recovery (health, economic)\""
+],
+[
+"复职",
+11950,
+"fu4 zhi2",
+"to resume a post"
+],
+[
+"复生",
+12575,
+"fu4 sheng1",
+"to be reborn"
 ]
 ],
 "strokes": [

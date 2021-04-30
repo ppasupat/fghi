@@ -8,38 +8,95 @@
 "words": [
 [
 "长途",
-0,
 5,
 "chángtú",
 "long distance"
 ],
 [
 "前途",
-0,
 5,
 "qiántú",
 "future; prospects; outlook (for the future)"
 ],
 [
 "用途",
-0,
 5,
 "yòngtú",
 "use; application; purpose"
 ],
 [
 "半途而废",
-0,
 6,
 "bàn tú ér fèi",
 "give up halfway; leave sth. unfinished"
 ],
 [
 "途径",
-0,
 6,
 "tújìng",
 "way; channel"
+]
+],
+"extraWords": [
+[
+"旅途",
+4513,
+"lu:3 tu2",
+"journey; trip"
+],
+[
+"中途",
+6596,
+"zhong1 tu2",
+"midway"
+],
+[
+"迷途",
+16703,
+"mi2 tu2",
+"to lose one's way"
+],
+[
+"歧途",
+19392,
+"qi2 tu2",
+"fork in a road; wrong road"
+],
+[
+"道听途说",
+19489,
+"dao4 ting1 tu2 shuo1",
+"gossip; hearsay; rumor"
+],
+[
+"沿途",
+20212,
+"yan2 tu2",
+"along the sides of the road; by the wayside"
+],
+[
+"长途电话",
+23497,
+"chang2 tu2 dian4 hua4",
+"long-distance call"
+],
+[
+"征途",
+23696,
+"zheng1 tu2",
+"long journey; trek; course of an expedition"
+],
+[
+"长途汽车",
+30703,
+"chang2 tu2 qi4 che1",
+"long-distance coach"
+],
+[
+"长途车",
+35025,
+"chang2 tu2 che1",
+"coach (lit. long-distance bus)"
 ]
 ],
 "strokes": [

@@ -8,66 +8,119 @@
 "words": [
 [
 "请",
-0,
 1,
 "qǐng",
 "please; invite; to treat someone to something"
 ],
 [
 "请假",
-0,
 3,
 "qǐngjià",
 "to ask for time off"
 ],
 [
 "申请",
-0,
 4,
 "shēnqǐng",
 "apply for; application"
 ],
 [
 "邀请",
-0,
 4,
 "yāoqǐng",
 "to invite"
 ],
 [
 "请求",
-0,
 5,
 "qǐngqiú",
 "to request; ask"
 ],
 [
 "请柬",
-0,
 6,
 "qǐngjiǎn",
 "invitation card; written invitation"
 ],
 [
 "请教",
-0,
 6,
 "qǐngjiào",
 "consult; seek advice"
 ],
 [
 "请示",
-0,
 6,
 "qǐngshì",
 "ask for instructions"
 ],
 [
 "请帖",
-0,
 6,
 "qǐngtiě",
 "invitation card; written invitation"
+]
+],
+"extraWords": [
+[
+"请问",
+2411,
+"qing3 wen4",
+"may I ask..."
+],
+[
+"请便",
+6329,
+"qing3 bian4",
+"Please do as you wish!; You are welcome to do whatever you like!; Please make yourself at home."
+],
+[
+"请客",
+6409,
+"qing3 ke4",
+"give a dinner party; entertain guests; invite to dinner"
+],
+[
+"申请表",
+11204,
+"shen1 qing3 biao3",
+"application form"
+],
+[
+"请愿书",
+14627,
+"qing3 yuan4 shu1",
+"petition"
+],
+[
+"申请书",
+17626,
+"shen1 qing3 shu1",
+"application; application form; petition (to higher authorities)"
+],
+[
+"恳请",
+18400,
+"ken3 qing3",
+"to request earnestly"
+],
+[
+"提请",
+20479,
+"ti2 qing3",
+"to propose"
+],
+[
+"申请人",
+20812,
+"shen1 qing3 ren2",
+"applicant"
+],
+[
+"请愿",
+21241,
+"qing3 yuan4",
+"petition (for action to be taken)"
 ]
 ],
 "strokes": [

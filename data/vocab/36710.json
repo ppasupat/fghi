@@ -8,87 +8,137 @@
 "words": [
 [
 "出租车",
-0,
 1,
 "chūzūchē",
 "taxi; cab"
 ],
 [
 "公共汽车",
-0,
 2,
 "gōnggòng qìchē",
 "(public) bus"
 ],
 [
 "火车站",
-0,
 2,
 "huǒchēzhàn",
 "train station"
 ],
 [
 "自行车",
-0,
 3,
 "zìxíngchē",
 "bike; bicycle"
 ],
 [
 "堵车",
-0,
 4,
 "dǔchē",
 "traffic jam"
 ],
 [
 "车库",
-0,
 5,
 "chēkù",
 "garage"
 ],
 [
 "车厢",
-0,
 5,
 "chēxiāng",
 "carriage; railroad car"
 ],
 [
 "救护车",
-0,
 5,
 "jiùhùchē",
 "ambulance"
 ],
 [
 "卡车",
-0,
 5,
 "kǎchē",
 "truck"
 ],
 [
 "列车",
-0,
 5,
 "lièchē",
 "train (railway term)"
 ],
 [
 "摩托车",
-0,
 5,
 "mótuōchē",
 "motorcycle; motorbike"
 ],
 [
 "刹车",
-0,
 6,
 "shā chē",
 "brake (when driving); stop; switch off"
+]
+],
+"extraWords": [
+[
+"车",
+177,
+"che1/ju1",
+"car; vehicle; CL:?|辆[liang4]; machine; to shape with a lathe; surname Che; vehicle on land"
+],
+[
+"汽车",
+1222,
+"qi4 che1",
+"car; automobile; bus"
+],
+[
+"开车",
+1472,
+"kai1 che1",
+"to drive a car"
+],
+[
+"停车",
+1692,
+"ting2 che1",
+"to stop; to park"
+],
+[
+"火车",
+1738,
+"huo3 che1",
+"train"
+],
+[
+"车子",
+2242,
+"che1 zi5",
+"car"
+],
+[
+"车祸",
+2363,
+"che1 huo4",
+"traffic accident; car crash"
+],
+[
+"停车场",
+2715,
+"ting2 che1 chang3",
+"parking lot; car park"
+],
+[
+"货车",
+3370,
+"huo4 che1",
+"van"
+],
+[
+"上车",
+3733,
+"shang4 che1",
+"\"to get on or into (a bus, train, car etc)\""
 ]
 ],
 "strokes": [

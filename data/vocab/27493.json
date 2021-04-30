@@ -8,73 +8,125 @@
 "words": [
 [
 "跑步",
-0,
 2,
 "pǎobù",
 "to run; to jog"
 ],
 [
 "散步",
-0,
 4,
 "sàn bù",
 "to go for a walk"
 ],
 [
 "步骤",
-0,
 5,
 "bùzhòu",
 "step; move; measure; procedure"
 ],
 [
 "进步",
-0,
 5,
 "jìnbù",
 "make progress; to advance"
 ],
 [
 "退步",
-0,
 5,
 "tuìbù",
 "to degenerate; to regress"
 ],
 [
 "逐步",
-0,
 5,
 "zhúbù",
 "step by step; gradually"
 ],
 [
 "步伐",
-0,
 6,
 "bùfá",
 "pace; (measured) step; march"
 ],
 [
 "初步",
-0,
 6,
 "chūbù",
 "initial; preliminary; tentative"
 ],
 [
 "地步",
-0,
 6,
 "dìbù",
 "condition; plight; extent"
 ],
 [
 "让步",
-0,
 6,
 "ràng bù",
 "give in; concede; yield"
+]
+],
+"extraWords": [
+[
+"步",
+742,
+"bu4",
+"a step; a pace; walk; march; stages in a process"
+],
+[
+"进一步",
+3476,
+"jin4 yi1 bu4",
+"(one step) further; to move forward a single step; further (onwards)"
+],
+[
+"舞步",
+4247,
+"wu3 bu4",
+"dance steps"
+],
+[
+"步行",
+6322,
+"bu4 xing2",
+"to go on foot; to walk"
+],
+[
+"脚步",
+6419,
+"jiao3 bu4",
+"footstep; step"
+],
+[
+"步枪",
+6894,
+"bu4 qiang1",
+"rifle"
+],
+[
+"漫步",
+8193,
+"man4 bu4",
+"to wander; to ramble; recreational hiking; to perambulate"
+],
+[
+"同步",
+8346,
+"tong2 bu4",
+"synchronous"
+],
+[
+"徒步",
+9400,
+"tu2 bu4",
+"to travel on foot"
+],
+[
+"步兵",
+11198,
+"bu4 bing1",
+"infantry; foot; infantryman; foot soldier"
 ]
 ],
 "strokes": [

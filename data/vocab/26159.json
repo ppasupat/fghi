@@ -8,80 +8,131 @@
 "words": [
 [
 "是",
-0,
 1,
 "shì",
 "be; is; are; am"
 ],
 [
 "但是",
-0,
 2,
 "dànshì",
 "but; however"
 ],
 [
 "还是",
-0,
 3,
 "háishi",
 "or; still; nevertheless; had better"
 ],
 [
 "总是",
-0,
 3,
 "zǒngshì",
 "always; eventually"
 ],
 [
 "可是",
-0,
 4,
 "kěshì",
 "but; however"
 ],
 [
 "是否",
-0,
 4,
 "shìfǒu",
 "whether (or not); if"
 ],
 [
 "要是",
-0,
 4,
 "yàoshi",
 "if; suppose; in case"
 ],
 [
 "于是",
-0,
 4,
 "yúshì",
 "as a result; thus; therefore"
 ],
 [
 "凡是",
-0,
 6,
 "fánshì",
 "every; any; all; without exception"
 ],
 [
 "实事求是",
-0,
 6,
 "shí shì qiú shì",
 "be practical and realistic; seek truth from facts"
 ],
 [
 "是非",
-0,
 6,
 "shìfēi",
 "right and wrong; truth and fiction; quarrel"
+]
+],
+"extraWords": [
+[
+"是的",
+101,
+"shi4 de5",
+"yes"
+],
+[
+"就是",
+151,
+"jiu4 shi4",
+"(emphasizes that sth is precisely or exactly as stated); precisely; exactly; even; if; just like; in the same way as"
+],
+[
+"只是",
+195,
+"zhi3 shi4",
+"merely; simply; only; but"
+],
+[
+"真是",
+335,
+"zhen1 shi4",
+"\"(idiom) \"\"it is truly...\"\"\""
+],
+[
+"算是",
+1064,
+"suan4 shi4",
+"considered to be; at last"
+],
+[
+"而是",
+1359,
+"er2 shi4",
+"rather"
+],
+[
+"或是",
+1495,
+"huo4 shi4",
+"or; either one or the other"
+],
+[
+"也就是说",
+2064,
+"ye3 jiu4 shi4 shuo1",
+"in other words; that is to say; so; thus"
+],
+[
+"是不是",
+4443,
+"shi4 bu4 shi4",
+"is or isn't; yes or no; whether or not"
+],
+[
+"老是",
+4567,
+"lao3 shi5",
+"always"
 ]
 ],
 "strokes": [

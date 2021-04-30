@@ -8,38 +8,95 @@
 "words": [
 [
 "或者",
-0,
 3,
 "huòzhě",
 "or; possible; maybe; perhaps"
 ],
 [
 "记者",
-0,
 4,
 "jìzhě",
 "reporter; journalist"
 ],
 [
 "作者",
-0,
 4,
 "zuòzhě",
 "author; writer"
 ],
 [
 "志愿者",
-0,
 5,
 "zhìyuànzhě",
 "volunteer"
 ],
 [
 "患者",
-0,
 6,
 "huànzhě",
 "sufferer; patient; the sick"
+]
+],
+"extraWords": [
+[
+"者",
+312,
+"zhe3",
+"\"-ist, -er (person); person (who does sth)\""
+],
+[
+"受害者",
+1256,
+"shou4 hai4 zhe3",
+"\"person who suffers damage, injury etc; a casualty; a victim; those injured and wounded\""
+],
+[
+"死者",
+1411,
+"si3 zhe3",
+"the dead; those who died"
+],
+[
+"幸存者",
+2523,
+"xing4 cun2 zhe3",
+"survivor"
+],
+[
+"失败者",
+3580,
+"shi1 bai4 zhe3",
+"loser"
+],
+[
+"目击者",
+3687,
+"mu4 ji1 zhe3",
+"eyewitness"
+],
+[
+"两者",
+4430,
+"liang3 zhe3",
+"both sides"
+],
+[
+"使者",
+6260,
+"shi3 zhe3",
+"emissary; envoy"
+],
+[
+"参赛者",
+6337,
+"can1 sai4 zhe3",
+"a competitor"
+],
+[
+"读者",
+6537,
+"du2 zhe3",
+"reader"
 ]
 ],
 "strokes": [

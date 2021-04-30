@@ -8,38 +8,71 @@
 "words": [
 [
 "赔偿",
-0,
 5,
 "péicháng",
 "compensate; pay for somebody else's loss"
 ],
 [
 "补偿",
-0,
 6,
 "bǔcháng",
 "compensation; make up"
 ],
 [
 "偿还",
-0,
 6,
 "chánghuán",
 "repay; reimburse"
 ],
 [
 "得不偿失",
-0,
 6,
 "dé bù cháng shī",
 "the gains do not outweigh the losses"
 ],
 [
 "无偿",
-0,
 6,
 "wúcháng",
 "free; no charge; at no cost"
+]
+],
+"extraWords": [
+[
+"偿",
+10069,
+"chang2",
+"to compensate; pay back; to recompense"
+],
+[
+"赔偿金",
+15610,
+"pei2 chang2 jin1",
+"compensation"
+],
+[
+"偿命",
+23202,
+"chang2 ming4",
+"to pay with one's life"
+],
+[
+"清偿",
+35963,
+"qing1 chang2",
+"to repay a debt in full; to redeem; to clear"
+],
+[
+"报偿",
+38801,
+"bao4 chang2",
+"repay; recompense"
+],
+[
+"偿债",
+52725,
+"chang2 zhai4",
+"to repay a debt"
 ]
 ],
 "strokes": [

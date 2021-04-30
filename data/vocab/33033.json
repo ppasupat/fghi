@@ -8,24 +8,83 @@
 "words": [
 [
 "动脉",
-0,
 6,
 "dòngmài",
 "artery"
 ],
 [
 "脉搏",
-0,
 6,
 "màibó",
 "pulse; throbbing"
 ],
 [
 "山脉",
-0,
 6,
 "shānmài",
 "mountain range"
+]
+],
+"extraWords": [
+[
+"静脉",
+7211,
+"jing4 mai4",
+"vein"
+],
+[
+"脉冲",
+8996,
+"mai4 chong1",
+"pulsation (in electric currents); periodic variations"
+],
+[
+"脉",
+9732,
+"mai4/mo4",
+"mountain range; pulse"
+],
+[
+"血脉",
+14757,
+"xue4 mai4",
+"blood vessels"
+],
+[
+"来龙去脉",
+15417,
+"lai2 long2 qu4 mai4",
+"\"lit. a mountain is like a dragon, with a connecting pulse throughout (fengshui term); the whys and wherefores (of a case); where sth comes from and where it is going\""
+],
+[
+"主动脉",
+18789,
+"zhu3 dong4 mai4",
+"aorta; principal artery"
+],
+[
+"冠状动脉",
+22431,
+"guan1 zhuang4 dong4 mai4",
+"coronary artery"
+],
+[
+"大动脉",
+22492,
+"da4 dong4 mai4",
+"main artery (blood vessel); fig. main highway; arterial road"
+],
+[
+"命脉",
+32981,
+"ming4 mai4",
+"lifeline"
+],
+[
+"动脉硬化",
+42416,
+"dong4 mai4 ying4 hua4",
+"hardening of the arteries; arteriosclerosis"
 ]
 ],
 "strokes": [

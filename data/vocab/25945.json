@@ -8,73 +8,125 @@
 "words": [
 [
 "教室",
-0,
 2,
 "jiàoshì",
 "classroom"
 ],
 [
 "教",
-0,
 3,
 "jiāo, jiào",
 "teach; instruct | religion; teaching"
 ],
 [
 "教授",
-0,
 4,
 "jiàoshòu",
 "professor; instruct; to lecture"
 ],
 [
 "教育",
-0,
 4,
 "jiàoyù",
 "education"
 ],
 [
 "教材",
-0,
 5,
 "jiàocái",
 "teaching materials"
 ],
 [
 "教练",
-0,
 5,
 "jiàoliàn",
 "(athlete's) coach; sports coach; instructor"
 ],
 [
 "教训",
-0,
 5,
 "jiàoxun",
 "lesson; teach someone or learn a lesson; a moral"
 ],
 [
 "教养",
-0,
 6,
 "jiàoyǎng",
 "upbringing; education; bring up; nurture and train"
 ],
 [
 "请教",
-0,
 6,
 "qǐngjiào",
 "consult; seek advice"
 ],
 [
 "宗教",
-0,
 6,
 "zōngjiào",
 "religion"
+]
+],
+"extraWords": [
+[
+"教堂",
+1312,
+"jiao4 tang2",
+"church; chapel"
+],
+[
+"教会",
+3397,
+"jiao4 hui4",
+"Christian church"
+],
+[
+"教师",
+4052,
+"jiao4 shi1",
+"teacher"
+],
+[
+"主教",
+5293,
+"zhu3 jiao4",
+"bishop"
+],
+[
+"教导",
+6182,
+"jiao4 dao3",
+"instruct; teach"
+],
+[
+"天主教",
+6863,
+"Tian1 zhu3 jiao4",
+"Catholic church"
+],
+[
+"基督教",
+6928,
+"Ji1 du1 jiao4",
+"Christianity; Christian"
+],
+[
+"教皇",
+7345,
+"Jiao4 huang2",
+"Roman Catholic pope; Supreme Pontiff"
+],
+[
+"教徒",
+7421,
+"jiao4 tu2",
+"disciple; follower of a religion"
+],
+[
+"教书",
+7476,
+"jiao1 shu1",
+"to teach (in a school)"
 ]
 ],
 "strokes": [

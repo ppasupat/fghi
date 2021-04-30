@@ -8,66 +8,119 @@
 "words": [
 [
 "压力",
-0,
 4,
 "yālì",
 "pressure; stress"
 ],
 [
 "气压",
-0,
 6,
 "qìyā",
 "atmospheric pressure; barometric pressure"
 ],
 [
 "血压",
-0,
 6,
 "xuèyā",
 "blood pressure"
 ],
 [
 "压迫",
-0,
 6,
 "yāpò",
 "oppress"
 ],
 [
 "压岁钱",
-0,
 6,
 "yāsuìqián",
 "gifts of money given to children during the Spring Festival"
 ],
 [
 "压缩",
-0,
 6,
 "yāsuō",
 "to compress"
 ],
 [
 "压抑",
-0,
 6,
 "yāyì",
 "constrain or repress one's emotions; inhibition; repressive"
 ],
 [
 "压榨",
-0,
 6,
 "yāzhà",
 "to press; to squeeze; to extract juice, oil, etc. by squeezing"
 ],
 [
 "压制",
-0,
 6,
 "yāzhì",
 "suppress; inhibit; stifle"
+]
+],
+"extraWords": [
+[
+"压",
+1632,
+"ya1/ya4",
+"to press; to push down; to keep under (control); pressure; in the first place; to crush"
+],
+[
+"施压",
+10296,
+"shi1 ya1",
+"to pressure"
+],
+[
+"压倒",
+12487,
+"ya1 dao3",
+"overwhelming; overpower"
+],
+[
+"高压",
+12639,
+"gao1 ya1",
+"high pressure; high-handed"
+],
+[
+"镇压",
+13080,
+"zhen4 ya1",
+"suppression; repression; to suppress; to put down; to quell"
+],
+[
+"电压",
+14601,
+"dian4 ya1",
+"voltage"
+],
+[
+"减压",
+14669,
+"jian3 ya1",
+"to reduce pressure; to relax"
+],
+[
+"高血压",
+17311,
+"gao1 xue4 ya1",
+"high blood pressure; hypertension"
+],
+[
+"压低",
+17958,
+"ya1 di1",
+"to lower (one's voice)"
+],
+[
+"加压",
+18823,
+"jia1 ya1",
+"to pressurize; to pile on pressure"
 ]
 ],
 "strokes": [

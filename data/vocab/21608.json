@@ -8,73 +8,125 @@
 "words": [
 [
 "周末",
-0,
 3,
 "zhōumò",
 "weekend"
 ],
 [
 "周围",
-0,
 4,
 "zhōuwéi",
 "surroundings; vicinity; environment"
 ],
 [
 "周到",
-0,
 5,
 "zhōudào",
 "thoughtful; considerate; thorough"
 ],
 [
 "众所周知",
-0,
 6,
 "zhòng suǒ zhōu zhī",
 "as everyone knows; (saying) as is known to everyone"
 ],
 [
 "周边",
-0,
 6,
 "zhōubiān",
 "surrounding"
 ],
 [
 "周密",
-0,
 6,
 "zhōumì",
 "meticulous; careful; thorough"
 ],
 [
 "周年",
-0,
 6,
 "zhōunián",
 "anniversary; annual"
 ],
 [
 "周期",
-0,
 6,
 "zhōuqī",
 "period; cycle; rhythm"
 ],
 [
 "周折",
-0,
 6,
 "zhōuzhé",
 "setback; twists and turns; problem; complication"
 ],
 [
 "周转",
-0,
 6,
 "zhōuzhuǎn",
 "turnover (in cash or personnel); have enough resources to cover a need"
+]
+],
+"extraWords": [
+[
+"周",
+374,
+"zhou1",
+"bestow alms; complete; encircle; circuit; lap; week; cycle; all; every; attentive; thoughtful; the Zhou dynasty from 1027 BC; surname Zhou; cycle; week"
+],
+[
+"上周",
+1720,
+"shang4 zhou1",
+"last week"
+],
+[
+"每周",
+2843,
+"mei3 zhou1",
+"every week"
+],
+[
+"周五",
+2964,
+"zhou1 wu3",
+"Friday"
+],
+[
+"周六",
+3146,
+"zhou1 liu4",
+"Saturday"
+],
+[
+"周日",
+4252,
+"zhou1 ri4",
+"Sunday"
+],
+[
+"周二",
+4962,
+"zhou1 er4",
+"Tuesday"
+],
+[
+"四周",
+5058,
+"si4 zhou1",
+"all around"
+],
+[
+"周四",
+5204,
+"zhou1 si4",
+"Thursday"
+],
+[
+"周一",
+5825,
+"zhou1 yi1",
+"Monday"
 ]
 ],
 "strokes": [

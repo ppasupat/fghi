@@ -8,38 +8,95 @@
 "words": [
 [
 "位置",
-0,
 5,
 "wèizhi",
 "position; place; seat"
 ],
 [
 "安置",
-0,
 6,
 "ānzhì",
 "find a place for; help settle down; arrange for"
 ],
 [
 "布置",
-0,
 6,
 "bùzhì",
 "arrange; decorate; decoration"
 ],
 [
 "处置",
-0,
 6,
 "chǔzhì",
 "to handle; take care of; punish"
 ],
 [
 "设置",
-0,
 6,
 "shèzhì",
 "set up; install; to fit"
+]
+],
+"extraWords": [
+[
+"难以置信",
+1574,
+"nan2 yi3 zhi4 xin4",
+"incredible"
+],
+[
+"装置",
+2172,
+"zhuang1 zhi4",
+"equipment; system; device"
+],
+[
+"置",
+4785,
+"zhi4",
+"to install; to place; to put"
+],
+[
+"置于",
+7710,
+"zhi4 yu2",
+"place; put (at or in a position)"
+],
+[
+"置身",
+9778,
+"zhi4 shen1",
+"to place oneself; to stay"
+],
+[
+"放置",
+10092,
+"fang4 zhi4",
+"put"
+],
+[
+"搁置",
+16797,
+"ge1 zhi4",
+"to shelve; to set aside"
+],
+[
+"配置",
+18513,
+"pei4 zhi4",
+"to deploy"
+],
+[
+"置换",
+24818,
+"zhi4 huan4",
+"to permute; permutation (math.)"
+],
+[
+"闲置",
+26446,
+"xian2 zhi4",
+"to leave sth forgotten; to set aside; lying idle"
 ]
 ],
 "strokes": [

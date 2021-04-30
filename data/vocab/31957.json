@@ -8,17 +8,53 @@
 "words": [
 [
 "蛋糕",
-0,
 3,
 "dàngāo",
 "cake"
 ],
 [
 "糟糕",
-0,
 5,
 "zāogāo",
 "terrible; too bad; how terrible; what bad luck; what a mess"
+]
+],
+"extraWords": [
+[
+"糕",
+9135,
+"gao1",
+"cake"
+],
+[
+"糕点",
+12378,
+"gao1 dian3",
+"pastry"
+],
+[
+"雪糕",
+15627,
+"xue3 gao1",
+"ice cream"
+],
+[
+"年糕",
+27996,
+"nian2 gao1",
+"\"nian gao, New Year cake made of steamed glutinous rice; Japanese mochi\""
+],
+[
+"冰糕",
+52893,
+"bing1 gao1",
+"ice-cream; popsicle; ice-lolly; sorbet"
+],
+[
+"炸糕",
+55814,
+"zha2 gao1",
+"fried cake"
 ]
 ],
 "strokes": [

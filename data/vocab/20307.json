@@ -8,178 +8,215 @@
 "words": [
 [
 "身体",
-0,
 2,
 "shēntǐ",
 "health; (human) body"
 ],
 [
 "体育",
-0,
 3,
 "tǐyù",
 "physical training; sports"
 ],
 [
 "集体",
-0,
 5,
 "jítǐ",
 "collective; group"
 ],
 [
 "具体",
-0,
 5,
 "jùtǐ",
 "concrete; definite; specific"
 ],
 [
 "媒体",
-0,
 5,
 "méitǐ",
 "(news) media; medium"
 ],
 [
 "体会",
-0,
 5,
 "tǐhuì",
 "know from experience; learn through experience; realize; understanding; experience"
 ],
 [
 "体贴",
-0,
 5,
 "tǐtiē",
 "show consideration for; thoughtful"
 ],
 [
 "体现",
-0,
 5,
 "tǐxiàn",
 "embody; incarnate; reflect; to manifest"
 ],
 [
 "体验",
-0,
 5,
 "tǐyàn",
 "experience for oneself; to personally experience (usually a kind of life)"
 ],
 [
 "整体",
-0,
 5,
 "zhěngtǐ",
 "whole; entirety"
 ],
 [
 "大体",
-0,
 6,
 "dàtǐ",
 "in general; more or less; on the whole"
 ],
 [
 "繁体字",
-0,
 6,
 "fántǐzì",
 "traditional Chinese character"
 ],
 [
 "个体",
-0,
 6,
 "gètǐ",
 "individual"
 ],
 [
 "固体",
-0,
 6,
 "gùtǐ",
 "solid"
 ],
 [
 "简体字",
-0,
 6,
 "jiǎntǐzì",
 "simplified Chinese characters"
 ],
 [
 "解体",
-0,
 6,
 "jiětǐ",
 "disintegrate"
 ],
 [
 "立体",
-0,
 6,
 "lìtǐ",
 "solid; three dimensional"
 ],
 [
 "尸体",
-0,
 6,
 "shītǐ",
 "dead body; corpse; carcass"
 ],
 [
 "体裁",
-0,
 6,
 "tǐcái",
 "types or forms of literature"
 ],
 [
 "体积",
-0,
 6,
 "tǐjī",
 "volume; bulk"
 ],
 [
 "体谅",
-0,
 6,
 "tǐliàng",
 "empathize; express sympathy; allow (for something)"
 ],
 [
 "体面",
-0,
 6,
 "tǐmiàn",
 "dignity; honorable; face"
 ],
 [
 "体系",
-0,
 6,
 "tǐxì",
 "system; setup"
 ],
 [
 "团体",
-0,
 6,
 "tuántǐ",
 "group; organization; team"
 ],
 [
 "液体",
-0,
 6,
 "yètǐ",
 "liquid"
+]
+],
+"extraWords": [
+[
+"体",
+2133,
+"ti1/ti3",
+"body; form; style; system"
+],
+[
+"体内",
+2891,
+"ti3 nei4",
+"within the body; in vivo (vs in vitro); internal to"
+],
+[
+"裸体",
+3519,
+"luo3 ti3",
+"naked"
+],
+[
+"全体",
+3799,
+"quan2 ti3",
+"all; entire"
+],
+[
+"人体",
+4135,
+"ren2 ti3",
+"human body"
+],
+[
+"体重",
+4292,
+"ti3 zhong4",
+"body weight"
+],
+[
+"肉体",
+5467,
+"rou4 ti3",
+"physical body"
+],
+[
+"体力",
+5816,
+"ti3 li4",
+"physical strength; physical power"
+],
+[
+"气体",
+5839,
+"qi4 ti3",
+"gas (i.e. gaseous substance)"
+],
+[
+"物体",
+5898,
+"wu4 ti3",
+"object; body; substance"
 ]
 ],
 "strokes": [

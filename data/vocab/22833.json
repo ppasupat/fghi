@@ -8,101 +8,149 @@
 "words": [
 [
 "失败",
-0,
 4,
 "shībài",
 "be defeated; fail; lose"
 ],
 [
 "失望",
-0,
 4,
 "shīwàng",
 "disappointed; lose hope"
 ],
 [
 "失眠",
-0,
 5,
 "shīmián",
 "lose sleep; insomnia"
 ],
 [
 "失去",
-0,
 5,
 "shīqù",
 "to lose (time, an opportunity, work, etc.)"
 ],
 [
 "失业",
-0,
 5,
 "shī yè",
 "lose one's job; unemployment"
 ],
 [
 "损失",
-0,
 5,
 "sǔnshī",
 "loss (financial); lose"
 ],
 [
 "消失",
-0,
 5,
 "xiāoshī",
 "disappear; fade away; dissolve"
 ],
 [
 "得不偿失",
-0,
 6,
 "dé bù cháng shī",
 "the gains do not outweigh the losses"
 ],
 [
 "过失",
-0,
 6,
 "guòshī",
 "defect; fault"
 ],
 [
 "丧失",
-0,
 6,
 "sàngshī",
 "to lose; to forfeit"
 ],
 [
 "失事",
-0,
 6,
 "shī shì",
 "be involved in a crash; (have an) accident"
 ],
 [
 "失误",
-0,
 6,
 "shīwù",
 "mistake; lapse; miss"
 ],
 [
 "失踪",
-0,
 6,
 "shī zōng",
 "be missing; be unaccounted for"
 ],
 [
 "遗失",
-0,
 6,
 "yíshī",
 "lose; lose due to carelessness"
+]
+],
+"extraWords": [
+[
+"失陪",
+2085,
+"shi1 pei2",
+"\"Excuse me, I really must go.; (modest set phrase on taking leave)\""
+],
+[
+"失",
+2965,
+"shi1",
+"to lose; to miss; to fail"
+],
+[
+"失败者",
+3580,
+"shi1 bai4 zhe3",
+"loser"
+],
+[
+"失控",
+3615,
+"shi1 kong4",
+"out of control"
+],
+[
+"迷失",
+4194,
+"mi2 shi1",
+"lost; not knowing one's location"
+],
+[
+"丢失",
+5761,
+"diu1 shi1",
+"to lose; lost"
+],
+[
+"失常",
+5994,
+"shi1 chang2",
+"not normal; an aberration"
+],
+[
+"失效",
+6844,
+"shi1 xiao4",
+"to fail; to lose effectiveness"
+],
+[
+"失落",
+7655,
+"shi1 luo4",
+"to lose"
+],
+[
+"失血",
+7960,
+"shi1 xue4",
+"blood loss"
 ]
 ],
 "strokes": [

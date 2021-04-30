@@ -8,45 +8,101 @@
 "words": [
 [
 "终于",
-0,
 3,
 "zhōngyú",
 "at last; in the end; finally"
 ],
 [
 "始终",
-0,
 5,
 "shǐzhōng",
 "from beginning to end; all along"
 ],
 [
 "终点",
-0,
 6,
 "zhōngdiǎn",
 "the end; end point; destination; finish line (in a race)"
 ],
 [
 "终究",
-0,
 6,
 "zhōngjiū",
 "in the end; after all is said and done; eventually"
 ],
 [
 "终身",
-0,
 6,
 "zhōngshēn",
 "lifelong"
 ],
 [
 "终止",
-0,
 6,
 "zhōngzhǐ",
 "stop; cease; terminate (legal)"
+]
+],
+"extraWords": [
+[
+"最终",
+1073,
+"zui4 zhong1",
+"final; ultimate"
+],
+[
+"终",
+4029,
+"zhong1",
+"end; finish"
+],
+[
+"终结",
+4678,
+"zhong1 jie2",
+"end"
+],
+[
+"终极",
+5717,
+"zhong1 ji2",
+"last rites (Christian ceremony)"
+],
+[
+"终结者",
+10015,
+"Zhong1 jie2 zhe3",
+"The Terminator"
+],
+[
+"临终",
+10027,
+"lin2 zhong1",
+"approaching one's end; with one foot in the grave"
+],
+[
+"告终",
+13306,
+"gao4 zhong1",
+"end; reach an end"
+],
+[
+"终端",
+13902,
+"zhong1 duan1",
+"end; terminal"
+],
+[
+"终日",
+14486,
+"zhong1 ri4",
+"all day long"
+],
+[
+"自始至终",
+15308,
+"zi4 shi3 zhi4 zhong1",
+"from start to finish"
 ]
 ],
 "strokes": [

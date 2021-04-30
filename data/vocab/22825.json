@@ -8,129 +8,173 @@
 "words": [
 [
 "今天",
-0,
 1,
 "jīntiān",
 "today"
 ],
 [
 "明天",
-0,
 1,
 "míngtiān",
 "tomorrow"
 ],
 [
 "天气",
-0,
 1,
 "tiānqì",
 "weather"
 ],
 [
 "昨天",
-0,
 1,
 "zuótiān",
 "yesterday"
 ],
 [
 "聊天",
-0,
 3,
 "liáotiān",
 "to chat"
 ],
 [
 "礼拜天",
-0,
 4,
 "lǐbàitiān",
 "Sunday"
 ],
 [
 "天空",
-0,
 5,
 "tiānkōng",
 "sky; space; heavens"
 ],
 [
 "天真",
-0,
 5,
 "tiānzhēn",
 "naïve; innocent; artless"
 ],
 [
 "成天",
-0,
 6,
 "chéngtiān",
 "all day long; all the time"
 ],
 [
 "得天独厚",
-0,
 6,
 "détiāndúhòu",
 "enjoy exceptional advantages; richly endowed by nature"
 ],
 [
 "航天",
-0,
 6,
 "hángtiān",
 "space flight"
 ],
 [
 "天才",
-0,
 6,
 "tiāncái",
 "talent; gift; a genius; talented"
 ],
 [
 "天赋",
-0,
 6,
 "tiānfù",
 "natural talent"
 ],
 [
 "天伦之乐",
-0,
 6,
 "tiānlúnzhīlè",
 "family happiness"
 ],
 [
 "天然气",
-0,
 6,
 "tiānránqì",
 "natural gas"
 ],
 [
 "天生",
-0,
 6,
 "tiānshēng",
 "innate; inherent; natural"
 ],
 [
 "天堂",
-0,
 6,
 "tiāntáng",
 "paradise; heaven"
 ],
 [
 "天文",
-0,
 6,
 "tiānwén",
 "astronomy"
+]
+],
+"extraWords": [
+[
+"天",
+87,
+"tian1",
+"day; sky; heaven"
+],
+[
+"每天",
+767,
+"mei3 tian1",
+"every day; everyday"
+],
+[
+"那天",
+777,
+"na4 tian1",
+"that day; the other day"
+],
+[
+"老天",
+1374,
+"lao3 tian1",
+"God; Heavens"
+],
+[
+"天使",
+1570,
+"tian1 shi3",
+"angel"
+],
+[
+"整天",
+2222,
+"zheng3 tian1",
+"all day long; all"
+],
+[
+"夏天",
+2295,
+"xia4 tian1",
+"summer"
+],
+[
+"谢天谢地",
+2432,
+"xie4 tian1 xie4 di4",
+"Thank heavens!; Thank goodness that's worked out so well!"
+],
+[
+"白天",
+3605,
+"bai2 tian1",
+"daytime; during the day; day"
+],
+[
+"老天爷",
+4043,
+"Lao3 tian1 ye2",
+"God; Heavens"
 ]
 ],
 "strokes": [

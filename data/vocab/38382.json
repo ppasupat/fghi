@@ -8,94 +8,143 @@
 "words": [
 [
 "问",
-0,
 2,
 "wèn",
 "ask; inquire"
 ],
 [
 "问题",
-0,
 2,
 "wèntí",
 "question; problem"
 ],
 [
 "提问",
-0,
 5,
 "tíwèn",
 "put questions to; to quiz"
 ],
 [
 "问候",
-0,
 5,
 "wènhòu",
 "send a greeting; send one's regards to"
 ],
 [
 "学问",
-0,
 5,
 "xuéwen",
 "learning; knowledge"
 ],
 [
 "询问",
-0,
 5,
 "xúnwèn",
 "inquire about"
 ],
 [
 "疑问",
-0,
 5,
 "yíwèn",
 "doubt; question; to query"
 ],
 [
 "反问",
-0,
 6,
 "fǎnwèn",
 "ask a rhetorical question; answer a question with a question"
 ],
 [
 "访问",
-0,
 6,
 "fǎngwèn",
 "to visit; call on; to interview"
 ],
 [
 "顾问",
-0,
 6,
 "gùwèn",
 "adviser; consultant"
 ],
 [
 "过问",
-0,
 6,
 "guòwèn",
 "take an interest in; get involved with"
 ],
 [
 "慰问",
-0,
 6,
 "wèiwèn",
 "to express sympathy; consolation; extend regards to; salute"
 ],
 [
 "问世",
-0,
 6,
 "wènshì",
 "be published; to come out"
+]
+],
+"extraWords": [
+[
+"请问",
+2411,
+"qing3 wen4",
+"may I ask..."
+],
+[
+"毫无疑问",
+2635,
+"hao2 wu2 yi2 wen4",
+"certainty; without a doubt"
+],
+[
+"问好",
+4427,
+"wen4 hao3",
+"to say hello to; to send one's regards to"
+],
+[
+"审问",
+4597,
+"shen3 wen4",
+"interrogate; examine; question"
+],
+[
+"盘问",
+7179,
+"pan2 wen4",
+"to interrogate; to cross-examine; to inquire"
+],
+[
+"问话",
+7808,
+"wen4 hua4",
+"questioning (a suspect); interrogation"
+],
+[
+"拷问",
+9404,
+"kao3 wen4",
+"to question via torture"
+],
+[
+"讯问",
+10311,
+"xun4 wen4",
+"to interrogate; to ask about"
+],
+[
+"质问",
+11353,
+"zhi4 wen4",
+"to question; to ask questions; to inquire; to bring to account; to interrogate"
+],
+[
+"问答",
+12469,
+"wen4 da2",
+"question and answer"
 ]
 ],
 "strokes": [

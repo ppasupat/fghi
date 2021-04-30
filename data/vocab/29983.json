@@ -8,234 +8,263 @@
 "words": [
 [
 "先生",
-0,
 1,
 "xiānsheng",
 "Mr.; Sir"
 ],
 [
 "学生",
-0,
 1,
 "xuésheng",
 "student"
 ],
 [
 "医生",
-0,
 1,
 "yīshēng",
 "doctor"
 ],
 [
 "生病",
-0,
 2,
 "shēngbìng",
 "get sick; fall ill"
 ],
 [
 "生日",
-0,
 2,
 "shēngrì",
 "birthday"
 ],
 [
 "生气",
-0,
 3,
 "shēngqì",
 "angry; mad"
 ],
 [
 "出生",
-0,
 4,
 "chūshēng",
 "be born"
 ],
 [
 "发生",
-0,
 4,
 "fāshēng",
 "happen; occur; take place"
 ],
 [
 "生活",
-0,
 4,
 "shēnghuó",
 "life; livelihood; to live"
 ],
 [
 "生命",
-0,
 4,
 "shēngmìng",
 "life"
 ],
 [
 "生意",
-0,
 4,
 "shēngyi",
 "business; trade"
 ],
 [
 "卫生间",
-0,
 4,
 "wèishēngjiān",
 "restroom; bathroom; water closet (WC)"
 ],
 [
 "产生",
-0,
 5,
 "chǎnshēng",
 "to produce; emerge; to cause"
 ],
 [
 "花生",
-0,
 5,
 "huāshēng",
 "peanut"
 ],
 [
 "陌生",
-0,
 5,
 "mòshēng",
 "strange; unfamiliar"
 ],
 [
 "人生",
-0,
 5,
 "rénshēng",
 "human life"
 ],
 [
 "生产",
-0,
 5,
 "shēngchǎn",
 "to produce; manufacture; give birth to a child"
 ],
 [
 "生动",
-0,
 5,
 "shēngdòng",
 "vivid; lively"
 ],
 [
 "生长",
-0,
 5,
 "shēngzhǎng",
 "grow; grow up"
 ],
 [
 "诞生",
-0,
 6,
 "dànshēng",
 "be born; come into being"
 ],
 [
 "生存",
-0,
 6,
 "shēngcún",
 "exist; survive"
 ],
 [
 "生机",
-0,
 6,
 "shēngjī",
 "reprieve from death; life force; vitality"
 ],
 [
 "生理",
-0,
 6,
 "shēnglǐ",
 "physiology"
 ],
 [
 "生疏",
-0,
 6,
 "shēngshū",
 "unfamiliar; strange; out of practice"
 ],
 [
 "生态",
-0,
 6,
 "shēngtài",
 "way of life; ecology"
 ],
 [
 "生物",
-0,
 6,
 "shēngwù",
 "organism; living creature; life form"
 ],
 [
 "生肖",
-0,
 6,
 "shēngxiào",
 "Chinese zodiac"
 ],
 [
 "生效",
-0,
 6,
 "shēng xiào",
 "take effect; become effective"
 ],
 [
 "生锈",
-0,
 6,
 "shēngxiù",
 "to rust"
 ],
 [
 "生育",
-0,
 6,
 "shēngyù",
 "give birth; to rear; bring up (children)"
 ],
 [
 "天生",
-0,
 6,
 "tiānshēng",
 "innate; inherent; natural"
 ],
 [
 "维生素",
-0,
 6,
 "wéishēngsù",
 "vitamin"
 ],
 [
 "自力更生",
-0,
 6,
 "zì lì gēng shēng",
 "(idiom) self reliance"
+]
+],
+"extraWords": [
+[
+"生",
+571,
+"sheng1",
+"to be born; to give birth; life; to grow"
+],
+[
+"一生",
+1190,
+"yi1 sheng1",
+"all one's life; throughout one's life"
+],
+[
+"女生",
+1612,
+"nu:3 sheng1",
+"female students"
+],
+[
+"男生",
+2336,
+"nan2 sheng1",
+"male student (usually primary school); male schoolchild"
+],
+[
+"陌生人",
+2726,
+"mo4 sheng1 ren2",
+"a stranger"
+],
+[
+"生涯",
+3652,
+"sheng1 ya2",
+"career"
+],
+[
+"卫生",
+4558,
+"wei4 sheng1",
+"health; hygiene; sanitation"
+],
+[
+"生死",
+4650,
+"sheng1 si3",
+"life or death"
+],
+[
+"亲生",
+4664,
+"qin1 sheng1",
+"born to oneself (i.e. one's natural child); having born oneself (i.e. one's natural parent)"
+],
+[
+"实习生",
+4725,
+"shi2 xi2 sheng5",
+"intern (student)"
 ]
 ],
 "strokes": [

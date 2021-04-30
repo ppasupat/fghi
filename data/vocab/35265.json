@@ -8,101 +8,149 @@
 "words": [
 [
 "看见",
-0,
 1,
 "kànjiàn",
 "see; catch sight of"
 ],
 [
 "再见",
-0,
 1,
 "zàijiàn",
 "goodbye; see you later"
 ],
 [
 "见面",
-0,
 3,
 "jiànmiàn",
 "meet/see somebody; meeting"
 ],
 [
 "意见",
-0,
 4,
 "yìjiàn",
 "opinion; view; suggestion; complaint"
 ],
 [
 "不见得",
-0,
 5,
 "bújiàndé",
 "not necessarily; not likely"
 ],
 [
 "可见",
-0,
 5,
 "kějiàn",
 "it can clearly be seen that; clear"
 ],
 [
 "各抒己见",
-0,
 6,
 "gèshūjǐjiàn",
 "everyone gives their own view"
 ],
 [
 "罕见",
-0,
 6,
 "hǎnjiàn",
 "rare; rarely seen; peculiar"
 ],
 [
 "见多识广",
-0,
 6,
 "jiànduōshíguǎng",
 "experienced and knowledgeable"
 ],
 [
 "见解",
-0,
 6,
 "jiànjiě",
 "view; opinion; understanding"
 ],
 [
 "见闻",
-0,
 6,
 "jiànwén",
 "information"
 ],
 [
 "见义勇为",
-0,
 6,
 "jiànyìyǒngwéi",
 "to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
 ],
 [
 "偏见",
-0,
 6,
 "piānjiàn",
 "prejudice"
 ],
 [
 "喜闻乐见",
-0,
 6,
 "xǐwénlèjiàn",
 "a delight to see (idiom); an attractive spectacle"
+]
+],
+"extraWords": [
+[
+"见",
+146,
+"jian4/xian4",
+"to see; to meet; to appear (to be sth); to interview; appear"
+],
+[
+"见到",
+340,
+"jian4 dao4",
+"to see"
+],
+[
+"听见",
+1128,
+"ting1 jian4",
+"hear"
+],
+[
+"见鬼",
+1212,
+"jian4 gui3",
+"curse it!; to hell with it!"
+],
+[
+"不见",
+2001,
+"bu4 jian4",
+"not see; not meet"
+],
+[
+"遇见",
+2137,
+"yu4 jian4",
+"meet"
+],
+[
+"会见",
+2951,
+"hui4 jian4",
+"to meet with (sb who is paying a visit)"
+],
+[
+"见识",
+3551,
+"jian4 shi5",
+"knowledge and experience; to increase one's knowledge"
+],
+[
+"回见",
+4496,
+"hui2 jian4",
+"See you later!"
+],
+[
+"见证",
+4602,
+"jian4 zheng4",
+"witness; testimony"
 ]
 ],
 "strokes": [

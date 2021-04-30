@@ -8,38 +8,95 @@
 "words": [
 [
 "号码",
-0,
 4,
 "hàomǎ",
 "number"
 ],
 [
 "密码",
-0,
 4,
 "mìmǎ",
 "password; secret code"
 ],
 [
 "数码",
-0,
 5,
 "shùmǎ",
 "numeral; number; amount; digital"
 ],
 [
 "码头",
-0,
 6,
 "mǎtou",
 "dock; wharf"
 ],
 [
 "起码",
-0,
 6,
 "qǐmǎ",
 "at the minimum; at the very least"
+]
+],
+"extraWords": [
+[
+"码",
+2288,
+"ma3",
+"a weight; number; yard (unit of length equal to 0.914 m.); pile; stack"
+],
+[
+"代码",
+4945,
+"dai4 ma3",
+"code (e.g. telephone area code); computer code (e.g. virus)"
+],
+[
+"筹码",
+5487,
+"chou2 ma3",
+"bargaining chip"
+],
+[
+"编码",
+9033,
+"bian1 ma3",
+"coding"
+],
+[
+"尺码",
+11241,
+"chi3 ma3",
+"size; fitting (of apparel)"
+],
+[
+"价码",
+17120,
+"jia4 ma3",
+"price tag"
+],
+[
+"解码",
+17473,
+"jie3 ma3",
+"to decode; to decipher"
+],
+[
+"解码器",
+20297,
+"jie3 ma3 qi4",
+"decoder"
+],
+[
+"条形码",
+28117,
+"tiao2 xing2 ma3",
+"barcode"
+],
+[
+"码子",
+28224,
+"ma3 zi5",
+"number (e.g. page or house number); numeral (e.g. arabic or Chinese numeral); code sign; plus or minus sound; counter; chip (e.g. in gambling games); price tag; ready cash at one's disposal"
 ]
 ],
 "strokes": [

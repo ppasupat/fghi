@@ -8,45 +8,101 @@
 "words": [
 [
 "顺序",
-0,
 4,
 "shùnxù",
 "sequence; order"
 ],
 [
 "程序",
-0,
 5,
 "chéngxù",
 "procedure; sequence; program"
 ],
 [
 "秩序",
-0,
 5,
 "zhìxù",
 "order; sequence"
 ],
 [
 "次序",
-0,
 6,
 "cìxù",
 "sequence; order"
 ],
 [
 "序言",
-0,
 6,
 "xùyán",
 "preface of a book, used to explain the book's objective"
 ],
 [
 "循序渐进",
-0,
 6,
 "xún xù jiàn jìn",
 "make steady progress incrementally; step by step program"
+]
+],
+"extraWords": [
+[
+"序列",
+8327,
+"xu4 lie4",
+"sequence"
+],
+[
+"序",
+18872,
+"xu4",
+"order; sequence; preface"
+],
+[
+"有序",
+20494,
+"you3 xu4",
+"regular; orderly; successive; in order"
+],
+[
+"程序员",
+22266,
+"cheng2 xu4 yuan2",
+"programmer"
+],
+[
+"序幕",
+24610,
+"xu4 mu4",
+"prologue"
+],
+[
+"序曲",
+28000,
+"xu4 qu3",
+"overture"
+],
+[
+"井然有序",
+30832,
+"jing3 ran2 you3 xu4",
+"everything clear and in good order (idiom); neat and tidy"
+],
+[
+"无序",
+31242,
+"wu2 xu4",
+"disorderly; irregular; lack of order"
+],
+[
+"工序",
+49329,
+"gong1 xu4",
+"working procedure; process"
+],
+[
+"子程序",
+53963,
+"zi3 cheng2 xu4",
+"subroutine"
 ]
 ],
 "strokes": [

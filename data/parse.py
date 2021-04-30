@@ -25,15 +25,21 @@ def is_legal(char):
 def main():
   parser = argparse.ArgumentParser()
   parser.add_argument('-v', '--verbose', action='store_true')
+  parser.add_argument('-r', '--subtlexch-max-rank', type=int, default=999999,
+      help='Maximum rank of common words from SUBTLEX-CH')
+  parser.add_argument('-c', '--subtlexch-max-per-char', type=int, default=10,
+      help='Maximum number of common words from SUBTLEX-CH')
   args = parser.parse_args()
 
   if not os.path.exists('vocab'):
     os.makedirs('vocab')
 
+  # Read HSK words and characters
   print('Reading words and chars')
-  char_to_words = defaultdict(list)
   hsk = [None] * 8
   hsk_so_far = set()
+  seen_words = set()
+  char_to_words = defaultdict(list)
   for level in (1,2,3,4,5,6):
     print('HSK level', level)
     hsk[level] = set()
@@ -41,9 +47,9 @@ def main():
       for line in fin:
         # simp, trad, pinyin_num, pinyin_tone, meaning
         line = line.strip().split('\t')
-        line[1] = 0
-        line[2] = level
-        word = line[0]
+        word, pron, gloss = line[0], line[3], line[4]
+        seen_words.add(word)
+        line = [word, level, pron, gloss]
         for char in set(word):
           if not is_legal(char):
             print('Skipping "{}" (U+{})'.format(char, hex(ord(char))))
@@ -55,6 +61,7 @@ def main():
 
   # Read the extra characters
   with open('hsk.json') as fin:
+    # The keys beyond 1, ..., 6 are extra characters
     all_chars = set(''.join(json.load(fin).values()))
   for level in (1,2,3,4,5,6):
     all_chars -= set(hsk[level])
@@ -75,7 +82,30 @@ def main():
       elif key == 'kTGHZ2013':
         char_to_infos[char]['pron'] = ', '.join(x.split(':')[-1] for x in value.split())
 
-  print('Reading characters')
+  # Read common words
+  char_to_extra_words = defaultdict(list)
+  with open('raw/subtlex-ch/SUBTLEX_CH_131210_CE.utf8', encoding='utf-8-sig') as fin:
+    header = fin.readline().rstrip('\n').split('\t')
+    for ii, line in enumerate(fin):
+      if ii >= args.subtlexch_max_rank:
+        break
+      line = dict(zip(header, line.rstrip('\n').split('\t')))
+      word = line['Word']
+      pron = line['Pinyin']
+      gloss = line['Eng.Tran.'].replace('/', '; ')
+      if gloss == '#':
+        continue
+      line = [word, ii, pron, gloss]
+      if word not in seen_words:
+        seen_words.add(word)
+        for char in set(word):
+          if not is_legal(char):
+            print('Skipping "{}" (U+{})'.format(char, hex(ord(char))))
+            continue
+          if len(char_to_extra_words[char]) < args.subtlexch_max_per_char:
+            char_to_extra_words[char].append(line)
+
+  print('Writing information to vocab/ ...')
   for level, chars in enumerate(hsk):
     if chars is None:
       continue
@@ -87,6 +117,7 @@ def main():
         'level': level,
         'info': char_to_infos[char],
         'words': char_to_words[char],
+        'extraWords': char_to_extra_words[char],
         'strokes': paths,
       }
       with open('vocab/{}.json'.format(ord(char)), 'w') as fout:

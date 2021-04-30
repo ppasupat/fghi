@@ -8,157 +8,197 @@
 "words": [
 [
 "北方",
-0,
 3,
 "běifāng",
 "north; the northern part of the country"
 ],
 [
 "地方",
-0,
 3,
 "dìfang",
 "place; space; room; part, (fāng: local; regional)"
 ],
 [
 "方便",
-0,
 3,
 "fāngbiàn",
 "convenient"
 ],
 [
 "方法",
-0,
 4,
 "fāngfǎ",
 "method; way; means"
 ],
 [
 "方面",
-0,
 4,
 "fāngmiàn",
 "aspect; field; side"
 ],
 [
 "方向",
-0,
 4,
 "fāngxiàng",
 "direction; orientation"
 ],
 [
 "大方",
-0,
 5,
 "dàfang",
 "generous; poise; (-fang1: expert; scholar)"
 ],
 [
 "对方",
-0,
 5,
 "duìfāng",
 "counterpart; the other party involved"
 ],
 [
 "方",
-0,
 5,
 "fāng",
 "square; direction; side (Kangxi radical 70)"
 ],
 [
 "方案",
-0,
 5,
 "fāng'àn",
 "plan; program (for action, etc.); proposal"
 ],
 [
 "方式",
-0,
 5,
 "fāngshì",
 "way; style; fashion; manner"
 ],
 [
 "平方",
-0,
 5,
 "píngfāng",
 "square (as in square foot, square mile, etc.)"
 ],
 [
 "双方",
-0,
 5,
 "shuāngfāng",
 "bilateral; both sides; both parties involved"
 ],
 [
 "比方",
-0,
 6,
 "bǐfang",
 "instance; analogy; example"
 ],
 [
 "方位",
-0,
 6,
 "fāngwèi",
 "position; direction; points of the compass; bearing"
 ],
 [
 "方言",
-0,
 6,
 "fāngyán",
 "dialect"
 ],
 [
 "方圆",
-0,
 6,
 "fāngyuán",
 "circumference; neighborhood; vicinity"
 ],
 [
 "方针",
-0,
 6,
 "fāngzhēn",
 "policy; guidelines"
 ],
 [
 "官方",
-0,
 6,
 "guānfāng",
 "official; (by the) government"
 ],
 [
 "立方",
-0,
 6,
 "lìfāng",
 "cube; (mw cubic units of measure)"
 ],
 [
 "千方百计",
-0,
 6,
 "qiān fāng bǎi jì",
 "by every possible means"
 ],
 [
 "想方设法",
-0,
 6,
 "xiǎng fāng shè fǎ",
 "(saying) think of or try every possible method; by all means possible"
+]
+],
+"extraWords": [
+[
+"警方",
+1369,
+"jing3 fang1",
+"police"
+],
+[
+"南方",
+2939,
+"nan2 fang1",
+"south; the southern part of the country; the South"
+],
+[
+"军方",
+5239,
+"jun1 fang1",
+"military"
+],
+[
+"前方",
+6012,
+"qian2 fang1",
+"ahead; the front"
+],
+[
+"处方",
+6115,
+"chu3 fang1",
+"medical prescription; recipe; formula; 闭目养神 [bi4 mu4 yang3 shen2]; to meditate with closed eyes"
+],
+[
+"西方",
+6408,
+"xi1 fang1",
+"the West; the Occident; Western countries"
+],
+[
+"配方",
+6555,
+"pei4 fang1",
+"\"prescription; cooking recipe; formulation; completing the square (to solve quadratic equation, math)\""
+],
+[
+"另一方面",
+7066,
+"ling4 yi1 fang1 mian4",
+"on the other hand; another aspect"
+],
+[
+"东方",
+7675,
+"dong1 fang1",
+"the East; Eastern countries"
+],
+[
+"秘方",
+8131,
+"mi4 fang1",
+"secret recipe"
 ]
 ],
 "strokes": [

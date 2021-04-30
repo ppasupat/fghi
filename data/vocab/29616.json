@@ -8,122 +8,167 @@
 "words": [
 [
 "现在",
-0,
 1,
 "xiànzài",
 "now"
 ],
 [
 "发现",
-0,
 3,
 "fāxiàn",
 "discover; to find"
 ],
 [
 "出现",
-0,
 4,
 "chūxiàn",
 "appear; arise; emerge"
 ],
 [
 "现金",
-0,
 4,
 "xiànjīn",
 "cash"
 ],
 [
 "表现",
-0,
 5,
 "biǎoxiàn",
 "to show; to show off; display; performance"
 ],
 [
 "实现",
-0,
 5,
 "shíxiàn",
 "achieve; to implement"
 ],
 [
 "体现",
-0,
 5,
 "tǐxiàn",
 "embody; incarnate; reflect; to manifest"
 ],
 [
 "现代",
-0,
 5,
 "xiàndài",
 "modern times; modern age"
 ],
 [
 "现实",
-0,
 5,
 "xiànshí",
 "reality; actuality; practical"
 ],
 [
 "现象",
-0,
 5,
 "xiànxiàng",
 "appearance; phenomenon"
 ],
 [
 "呈现",
-0,
 6,
 "chéngxiàn",
 "appear; emerge; present (a certain appearance)"
 ],
 [
 "兑现",
-0,
 6,
 "duìxiàn",
 "cash a check; honor a commitment"
 ],
 [
 "现场",
-0,
 6,
 "xiànchǎng",
 "scene (of event or incident); on the spot"
 ],
 [
 "现成",
-0,
 6,
 "xiànchéng",
 "ready-made; off-the-shelf"
 ],
 [
 "现状",
-0,
 6,
 "xiànzhuàng",
 "current situation; status quo"
 ],
 [
 "涌现",
-0,
 6,
 "yǒngxiàn",
 "spring up; emerge prominently"
 ],
 [
 "展现",
-0,
 6,
 "zhǎnxiàn",
 "come out; emerge; express; show"
+]
+],
+"extraWords": [
+[
+"现",
+3127,
+"xian4",
+"appear; present; now; existing; current"
+],
+[
+"现代舞",
+5950,
+"xian4 dai4 wu3",
+"modern dance"
+],
+[
+"现身",
+6898,
+"xian4 shen1",
+"to appear in the flesh"
+],
+[
+"重现",
+8136,
+"chong2 xian4",
+"to reappear"
+],
+[
+"现有",
+8833,
+"xian4 you3",
+"currently existing; currently available"
+],
+[
+"显现",
+10244,
+"xian3 xian4",
+"appearance; to appear"
+],
+[
+"浮现",
+11470,
+"fu2 xian4",
+"appear in one's mind; come back to (one's mind)"
+],
+[
+"再现",
+12752,
+"zai4 xian4",
+"to recreate; to reconstruct (a historical relic)"
+],
+[
+"现今",
+13447,
+"xian4 jin1",
+"now; nowadays; modern"
+],
+[
+"现任",
+13448,
+"xian4 ren4",
+"at the present; hold an office; occupy a post"
 ]
 ],
 "strokes": [

@@ -8,45 +8,101 @@
 "words": [
 [
 "判断",
-0,
 4,
 "pànduàn",
 "to judge; judgment; to decide"
 ],
 [
 "谈判",
-0,
 5,
 "tánpàn",
 "negotiate; negotiation; conference"
 ],
 [
 "裁判",
-0,
 6,
 "cáipàn",
 "judge; to referee; judgment"
 ],
 [
 "判决",
-0,
 6,
 "pànjué",
 "judgment (by a court of law); adjudicate"
 ],
 [
 "批判",
-0,
 6,
 "pīpàn",
 "criticize; critique"
 ],
 [
 "审判",
-0,
 6,
 "shěnpàn",
 "put (someone) to trial; to try somebody"
+]
+],
+"extraWords": [
+[
+"判",
+2356,
+"pan4",
+"to judge; to sentence; to discriminate; to discern"
+],
+[
+"评判",
+5115,
+"ping2 pan4",
+"to judge (a competition); to appraise"
+],
+[
+"判断力",
+8142,
+"pan4 duan4 li4",
+"ability to judge; judgment"
+],
+[
+"宣判",
+8934,
+"xuan1 pan4",
+"pronounce a (judicial) sentence (after a verdict in a court of law)"
+],
+[
+"判定",
+11868,
+"pan4 ding4",
+"judge; decide; judgment; determination"
+],
+[
+"判刑",
+12324,
+"pan4 xing2",
+"sentence (to prison etc)"
+],
+[
+"判处",
+12325,
+"pan4 chu3",
+"to sentence; to condemn"
+],
+[
+"裁判员",
+22709,
+"cai2 pan4 yuan2",
+"referee"
+],
+[
+"误判",
+24861,
+"wu4 pan4",
+"to misjudge; error of judgement; incorrect ruling; miscarriage of justice"
+],
+[
+"判官",
+34025,
+"pan4 guan1",
+"magistrate (during Tang and Song dynasties); mythological underworld judge"
 ]
 ],
 "strokes": [

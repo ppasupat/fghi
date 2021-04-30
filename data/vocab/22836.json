@@ -8,87 +8,137 @@
 "words": [
 [
 "头发",
-0,
 3,
 "tóufa",
 "hair (on the head)"
 ],
 [
 "骨头",
-0,
 5,
 "gǔtou",
 "bone; moral character"
 ],
 [
 "馒头",
-0,
 5,
 "mántou",
 "steamed bun/roll"
 ],
 [
 "木头",
-0,
 5,
 "mùtou",
 "wood; log; timber"
 ],
 [
 "石头",
-0,
 5,
 "shítou",
 "stone; rock"
 ],
 [
 "镜头",
-0,
 6,
 "jìngtóu",
 "camera shot (in a movie, etc.); scene; camera lens"
 ],
 [
 "口头",
-0,
 6,
 "kǒutóu",
 "oral; verbal"
 ],
 [
 "码头",
-0,
 6,
 "mǎtou",
 "dock; wharf"
 ],
 [
 "拳头",
-0,
 6,
 "quántou",
 "fist"
 ],
 [
 "舌头",
-0,
 6,
 "shétou",
 "tongue"
 ],
 [
 "水龙头",
-0,
 6,
 "shuǐlóngtóu",
 "faucet; tap"
 ],
 [
 "枕头",
-0,
 6,
 "zhěntou",
 "pillow"
+]
+],
+"extraWords": [
+[
+"头",
+306,
+"tou2",
+"head; hair style; the top; end; beginning or end; a stub; remnant; chief; boss; side; aspect; first; leading; classifier for pigs or livestock; suff. for nouns"
+],
+[
+"头儿",
+1401,
+"tou2 r5",
+"leader"
+],
+[
+"回头",
+1696,
+"hui2 tou2",
+"to turn round; to turn one's head; later; by and by"
+],
+[
+"头脑",
+2529,
+"tou2 nao3",
+"brains; mind"
+],
+[
+"摄像头",
+3076,
+"she4 xiang4 tou2",
+"webcam"
+],
+[
+"老头",
+3354,
+"lao3 tou2",
+"old fellow (disrespectful)"
+],
+[
+"街头",
+3749,
+"jie1 tou2",
+"street"
+],
+[
+"开头",
+3886,
+"kai1 tou2",
+"beginning"
+],
+[
+"头部",
+3965,
+"tou2 bu4",
+"head"
+],
+[
+"尽头",
+4375,
+"jin4 tou2",
+"the very end"
 ]
 ],
 "strokes": [

@@ -8,45 +8,101 @@
 "words": [
 [
 "打招呼",
-0,
 4,
 "dǎzhāohu",
 "notify; greet; inform"
 ],
 [
 "称呼",
-0,
 5,
 "chēnghu",
 "to call; address as; name"
 ],
 [
 "呼吸",
-0,
 5,
 "hūxī",
 "breathe"
 ],
 [
 "呼唤",
-0,
 6,
 "hūhuàn",
 "call out (a name etc.); shout"
 ],
 [
 "呼啸",
-0,
 6,
 "hūxiào",
 "whistle; scream; howl"
 ],
 [
 "呼吁",
-0,
 6,
 "hūyù",
 "call on (someone to do something); appeal"
+]
+],
+"extraWords": [
+[
+"招呼",
+2685,
+"zhao1 hu5",
+"to call out to sb; to greet sb; to inform sb; to instruct sb to do sth; to take care of sb"
+],
+[
+"呼",
+2771,
+"hu1",
+"to call; to cry; to shout; to breath out; to exhale"
+],
+[
+"呼叫",
+2776,
+"hu1 jiao4",
+"to shout; to yell"
+],
+[
+"欢呼",
+3325,
+"huan1 hu1",
+"cheer for; acclaim"
+],
+[
+"高呼",
+13282,
+"gao1 hu1",
+"to shout loudly"
+],
+[
+"呼喊",
+13308,
+"hu1 han3",
+"to shout (slogans etc)"
+],
+[
+"呼救",
+13839,
+"hu1 jiu4",
+"to call for help"
+],
+[
+"呼呼",
+14931,
+"hu1 hu1",
+"sound of wind blowing"
+],
+[
+"传呼",
+15202,
+"chuan2 hu1",
+"to notify sb of a call; to call sb to the phone"
+],
+[
+"呼吸器",
+15511,
+"hu1 xi1 qi4",
+"ventilator (artificial breathing apparatus used in hospitals)"
 ]
 ],
 "strokes": [

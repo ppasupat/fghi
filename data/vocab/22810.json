@@ -8,66 +8,119 @@
 "words": [
 [
 "多",
-0,
 1,
 "duō",
 "many"
 ],
 [
 "多少",
-0,
 1,
 "duōshao",
 "how much?; how many?"
 ],
 [
 "多么",
-0,
 3,
 "duōme",
 "how (wonderful, etc.); what (a great idea)"
 ],
 [
 "差不多",
-0,
 4,
 "chàbuduō",
 "almost; about the same"
 ],
 [
 "许多",
-0,
 4,
 "xǔduō",
 "many; a lot; much"
 ],
 [
 "多亏",
-0,
 5,
 "duōkuī",
 "thanks to; luckily"
 ],
 [
 "多余",
-0,
 5,
 "duōyú",
 "unnecessary; superfluous"
 ],
 [
 "多元化",
-0,
 6,
 "duōyuánhuà",
 "diversify; diversification"
 ],
 [
 "见多识广",
-0,
 6,
 "jiànduōshíguǎng",
 "experienced and knowledgeable"
+]
+],
+"extraWords": [
+[
+"很多",
+253,
+"hen3 duo1",
+"very many; very much; great (quantity)"
+],
+[
+"多久",
+720,
+"duo1 jiu3",
+"how long?"
+],
+[
+"多谢",
+1113,
+"duo1 xie4",
+"many thanks; thanks a lot"
+],
+[
+"大多数",
+1822,
+"da4 duo1 shu4",
+"(great) majority"
+],
+[
+"好多",
+1966,
+"hao3 duo1",
+"many; quite a lot; much better"
+],
+[
+"维多利亚",
+5557,
+"Wei2 duo1 li4 ya4",
+"Victoria"
+],
+[
+"多数",
+5723,
+"duo1 shu4",
+"majority; most"
+],
+[
+"多年",
+6443,
+"duo1 nian2",
+"many years"
+],
+[
+"多次",
+7010,
+"duo1 ci4",
+"many times; repeatedly"
+],
+[
+"众多",
+7358,
+"zhong4 duo1",
+"numerous"
 ]
 ],
 "strokes": [

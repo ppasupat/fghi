@@ -8,31 +8,89 @@
 "words": [
 [
 "没关系",
-0,
 1,
 "méi guānxi",
 "it doesn't matter; never mind"
 ],
 [
 "没有",
-0,
 1,
 "méiyǒu",
 "not have; there is not"
 ],
 [
 "埋没",
-0,
 6,
 "máimò",
 "oblivion; bury; neglect"
 ],
 [
 "淹没",
-0,
 6,
 "yānmò",
 "submerge; drown; to flood"
+]
+],
+"extraWords": [
+[
+"没",
+31,
+"mei2/mo4",
+"(negative prefix for verbs); have not; not; drowned; to end; to die; to inundate"
+],
+[
+"没什么",
+370,
+"mei2 shen2 me5",
+"nothing; it doesn't matter; it's nothing; never mind"
+],
+[
+"从没",
+797,
+"cong2 mei2",
+"never (in the past); never did"
+],
+[
+"没事儿",
+2357,
+"mei2 shi4 r5",
+"to have spare time; free from work; it's not important; it's nothing; never mind"
+],
+[
+"没法",
+2616,
+"mei2 fa3",
+"at a loss; unable to do anything about it; to have no choice"
+],
+[
+"没事",
+2622,
+"mei2 shi4",
+"it's not important; it's nothing; never mind; to have nothing to do; to be free"
+],
+[
+"没用",
+3257,
+"mei2 yong4",
+"useless"
+],
+[
+"没错",
+5244,
+"mei2 cuo4",
+"that's right; sure!; rest assured!; that's good; can't go wrong"
+],
+[
+"没收",
+5366,
+"mo4 shou1",
+"to confiscate; to have sth confiscated; to forfeit"
+],
+[
+"没意思",
+8020,
+"mei2 yi4 si5",
+"boring; of no interest"
 ]
 ],
 "strokes": [

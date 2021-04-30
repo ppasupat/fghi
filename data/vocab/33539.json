@@ -8,45 +8,83 @@
 "words": [
 [
 "范围",
-0,
 5,
 "fànwéi",
 "scope; range; limits; extent"
 ],
 [
 "范畴",
-0,
 6,
 "fànchóu",
 "category"
 ],
 [
 "规范",
-0,
 6,
 "guīfàn",
 "standard (design or model); norm; without variation; to specify"
 ],
 [
 "模范",
-0,
 6,
 "mófàn",
 "model; exemplar"
 ],
 [
 "师范",
-0,
 6,
 "shīfàn",
 "teacher-training; pedagogical; normal (school)"
 ],
 [
 "示范",
-0,
 6,
 "shìfàn",
 "demonstrate; lead the way; show how something is done"
+]
+],
+"extraWords": [
+[
+"范",
+6873,
+"fan4",
+"pattern; model; example; surname Fan"
+],
+[
+"防范",
+10686,
+"fang2 fan4",
+"to guard"
+],
+[
+"典范",
+13830,
+"dian3 fan4",
+"paragon"
+],
+[
+"风范",
+15335,
+"feng1 fan4",
+"air; manner; model; paragon; demeanor"
+],
+[
+"就范",
+17986,
+"jiu4 fan4",
+"to submit; to give in"
+],
+[
+"规范化",
+57191,
+"gui1 fan4 hua4",
+"to standardize; standardization"
+],
+[
+"劳动模范",
+59770,
+"lao2 dong4 mo2 fan4",
+"model worker"
 ]
 ],
 "strokes": [

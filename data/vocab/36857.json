@@ -8,45 +8,101 @@
 "words": [
 [
 "名胜古迹",
-0,
 5,
 "míngshènggǔjì",
 "famous scenic spots and ancient historic sites"
 ],
 [
 "奇迹",
-0,
 5,
 "qíjì",
 "miracle; miraculous; marvel"
 ],
 [
 "痕迹",
-0,
 6,
 "hénjì",
 "vestige; trace"
 ],
 [
 "迹象",
-0,
 6,
 "jìxiàng",
 "mark; indication; sign"
 ],
 [
 "事迹",
-0,
 6,
 "shìjì",
 "achievement; deed"
 ],
 [
 "踪迹",
-0,
 6,
 "zōngjì",
 "tracks; trail; footprint; trace; vestige"
+]
+],
+"extraWords": [
+[
+"血迹",
+2875,
+"xue4 ji1",
+"bloodstain"
+],
+[
+"笔迹",
+7229,
+"bi3 ji4",
+"handwriting"
+],
+[
+"迹",
+8637,
+"ji1",
+"footprint; mark; trace; vestige; sign; indication; Taiwan pr. ji1"
+],
+[
+"足迹",
+9908,
+"zu2 ji4",
+"footprint; track; spoor"
+],
+[
+"轨迹",
+11622,
+"gui3 ji4",
+"locus; orbit; trajectory; track"
+],
+[
+"蛛丝马迹",
+12879,
+"zhu1 si1 ma3 ji4",
+"lit. spider's thread and horse track; tiny hints (of a secret); traces; clue"
+],
+[
+"遗迹",
+14768,
+"yi2 ji4",
+"trace; vestige; historical remains; remnant"
+],
+[
+"字迹",
+14944,
+"zi4 ji4",
+"handwriting"
+],
+[
+"污迹",
+16487,
+"wu1 ji4",
+"blotch; stain"
+],
+[
+"销声匿迹",
+18768,
+"xiao1 sheng1 ni4 ji4",
+"to vanish without trace (idiom); to lie low"
 ]
 ],
 "strokes": [

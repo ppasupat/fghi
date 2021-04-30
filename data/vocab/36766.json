@@ -8,31 +8,89 @@
 "words": [
 [
 "辞职",
-0,
 5,
 "cízhí",
 "resign from a position"
 ],
 [
 "推辞",
-0,
 5,
 "tuīcí",
 "to decline; turn down"
 ],
 [
 "告辞",
-0,
 6,
 "gàocí",
 "take leave; bid farewell"
 ],
 [
 "致辞",
-0,
 6,
 "zhìcí",
 "make/deliver a speech"
+]
+],
+"extraWords": [
+[
+"辞",
+6483,
+"ci2",
+"\"refined language; wording; poetic genre (so far, interchangeable with 词); to take leave; to resign; to dismiss; to decline\""
+],
+[
+"措辞",
+12509,
+"cuo4 ci2",
+"wording; way of expressing something; turn of phrase; diction"
+],
+[
+"言辞",
+12971,
+"yan2 ci2",
+"word; word (as opposed to thought and deed)"
+],
+[
+"辞掉",
+14506,
+"ci2 diao4",
+"to resign a post; to sack and get rid of"
+],
+[
+"辞去",
+15025,
+"ci2 qu4",
+"to resign; to quit"
+],
+[
+"辞退",
+15615,
+"ci2 tui4",
+"to dismiss; to discharge; to fire"
+],
+[
+"辞典",
+17889,
+"ci2 dian3",
+"dictionary (of Chinese compound words); variant of 词典"
+],
+[
+"不辞而别",
+20355,
+"bu4 ci2 er2 bie2",
+"leave without saying good-bye"
+],
+[
+"修辞",
+20972,
+"xiu1 ci2",
+"rhetoric"
+],
+[
+"托辞",
+25134,
+"tuo1 ci2",
+"pretext; excuse; also written 托词"
 ]
 ],
 "strokes": [

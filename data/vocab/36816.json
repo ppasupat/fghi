@@ -8,66 +8,119 @@
 "words": [
 [
 "运动",
-0,
 2,
 "yùndòng",
 "(physical) exercise; movement; sports; campaign"
 ],
 [
 "命运",
-0,
 5,
 "mìngyùn",
 "fate; destiny"
 ],
 [
 "幸运",
-0,
 5,
 "xìngyùn",
 "luck; fortune"
 ],
 [
 "运气",
-0,
 5,
 "yùnqi",
 "luck"
 ],
 [
 "运输",
-0,
 5,
 "yùnshū",
 "transport; transportation"
 ],
 [
 "运用",
-0,
 5,
 "yùnyòng",
 "to use; apply"
 ],
 [
 "托运",
-0,
 6,
 "tuōyùn",
 "check in (baggage); consign for shipment"
 ],
 [
 "运算",
-0,
 6,
 "yùnsuàn",
 "(mathematical) operation"
 ],
 [
 "运行",
-0,
 6,
 "yùnxíng",
 "movement; be in motion; run"
+]
+],
+"extraWords": [
+[
+"好运",
+945,
+"hao3 yun4",
+"good luck"
+],
+[
+"运",
+2103,
+"yun4",
+"to move; to transport; to use; to apply; fortune; luck; fate"
+],
+[
+"走运",
+2439,
+"zou3 yun4",
+"to have good luck; lucky; in luck"
+],
+[
+"运动员",
+3201,
+"yun4 dong4 yuan2",
+"athlete"
+],
+[
+"运作",
+4164,
+"yun4 zuo4",
+"thread (computing); operation (e.g. business); operating"
+],
+[
+"运转",
+6309,
+"yun4 zhuan3",
+"to work; to operate; to revolve; to turn around"
+],
+[
+"运送",
+6720,
+"yun4 song4",
+"to transport; to carry"
+],
+[
+"奥运会",
+8348,
+"Ao4 yun4 hui4",
+"abbr. for 奥林匹克运动会; Olympic Games; the Olympics"
+],
+[
+"运动鞋",
+9960,
+"yun4 dong4 xie2",
+"sports shoes"
+],
+[
+"运动衫",
+10683,
+"yun4 dong4 shan1",
+"sports shirt; CL:件[jian4]"
 ]
 ],
 "strokes": [

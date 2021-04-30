@@ -8,31 +8,89 @@
 "words": [
 [
 "课",
-0,
 2,
 "kè",
 "class; subject; lesson; course"
 ],
 [
 "课程",
-0,
 5,
 "kèchéng",
 "course; curriculum; class"
 ],
 [
 "课题",
-0,
 6,
 "kètí",
 "task; problem; issue; question for discussion"
 ],
 [
 "旷课",
-0,
 6,
 "kuàng kè",
 "cut school; be truant from school"
+]
+],
+"extraWords": [
+[
+"上课",
+2814,
+"shang4 ke4",
+"to attend class"
+],
+[
+"功课",
+6110,
+"gong1 ke4",
+"homework; assignment; task; classwork; lesson; study"
+],
+[
+"课堂",
+8441,
+"ke4 tang2",
+"classroom"
+],
+[
+"下课",
+10465,
+"xia4 ke4",
+"class is over"
+],
+[
+"代课",
+13186,
+"dai4 ke4",
+"to teach as substitute for absent teacher"
+],
+[
+"课本",
+15018,
+"ke4 ben3",
+"textbook"
+],
+[
+"课外",
+16367,
+"ke4 wai4",
+"extracurricular"
+],
+[
+"讲课",
+17673,
+"jiang3 ke4",
+"teach; lecture"
+],
+[
+"课间",
+24863,
+"ke4 jian1",
+"interval between lessons"
+],
+[
+"授课",
+26165,
+"shou4 ke4",
+"to teach; to give lessons"
 ]
 ],
 "strokes": [

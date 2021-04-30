@@ -8,80 +8,131 @@
 "words": [
 [
 "商量",
-0,
 4,
 "shāngliang",
 "consult; talk over; discuss"
 ],
 [
 "数量",
-0,
 4,
 "shùliàng",
 "amount; quantity; number"
 ],
 [
 "质量",
-0,
 4,
 "zhìliàng",
 "quality; mass (physics)"
 ],
 [
 "尽量",
-0,
 5,
 "jǐnliàng",
 "as much as possible; to the best of one's ability (jìn-: eat or drink to one's fill)"
 ],
 [
 "力量",
-0,
 5,
 "lìliang",
 "power; force; strength"
 ],
 [
 "重量",
-0,
 5,
 "zhòngliàng",
 "weight"
 ],
 [
 "测量",
-0,
 6,
 "cèliáng",
 "to survey; to measure"
 ],
 [
 "打量",
-0,
 6,
 "dǎliang",
 "take measure of; size up"
 ],
 [
 "分量",
-0,
 6,
 "fènliàng",
 "weight; heft; amount"
 ],
 [
 "较量",
-0,
 6,
 "jiàoliàng",
 "competition; to have a contest with sb."
 ],
 [
 "能量",
-0,
 6,
 "néngliàng",
 "energy; capabilities"
+]
+],
+"extraWords": [
+[
+"大量",
+2753,
+"da4 liang4",
+"great amount; large quantity; bulk; numerous"
+],
+[
+"量",
+3230,
+"liang2/liang4",
+"to measure; capacity; quantity; amount; to estimate"
+],
+[
+"过量",
+5549,
+"guo4 liang4",
+"excess; overdose"
+],
+[
+"剂量",
+6687,
+"ji4 liang4",
+"dosage; prescribed dose of medicine"
+],
+[
+"胆量",
+7058,
+"dan3 liang4",
+"nerve"
+],
+[
+"含量",
+7070,
+"han2 liang4",
+"content; quantity contained"
+],
+[
+"重量级",
+7921,
+"zhong4 liang4 ji2",
+"heavyweight"
+],
+[
+"热量",
+8832,
+"re4 liang4",
+"heat; how hot; quantity of heat; calorific value"
+],
+[
+"衡量",
+8998,
+"heng2 liang5",
+"weight; measure"
+],
+[
+"销量",
+9041,
+"xiao1 liang4",
+"sales volume"
 ]
 ],
 "strokes": [

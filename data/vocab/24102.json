@@ -8,45 +8,101 @@
 "words": [
 [
 "带",
-0,
 3,
 "dài",
 "band; belt; ribbon; carry; bring; take along; bring up (kids)"
 ],
 [
 "系领带",
-0,
 5,
 "jìlǐngdài",
 "tie a neck tie"
 ],
 [
 "磁带",
-0,
 6,
 "cídài",
 "cassette tape"
 ],
 [
 "带领",
-0,
 6,
 "dàilǐng",
 "to guide; to lead"
 ],
 [
 "温带",
-0,
 6,
 "wēndài",
 "temperate zone"
 ],
 [
 "携带",
-0,
 6,
 "xiédài",
 "take with; portable"
+]
+],
+"extraWords": [
+[
+"带来",
+702,
+"dai4 lai2",
+"to bring; to bring about; to produce"
+],
+[
+"带走",
+1206,
+"dai4 zou3",
+"to carry; to take away; to carry out (esp. food); take-out (esp. food)"
+],
+[
+"带子",
+3134,
+"dai4 zi5",
+"belt; band; ribbon; strap; girdle; audio or video tape (informal); band; belt"
+],
+[
+"录像带",
+3723,
+"lu4 xiang4 dai4",
+"video cassette"
+],
+[
+"领带",
+4002,
+"ling3 dai4",
+"neck tie"
+],
+[
+"安全带",
+4370,
+"an1 quan2 dai4",
+"seat belt"
+],
+[
+"带有",
+5698,
+"dai4 you3",
+"to have; to involve"
+],
+[
+"皮带",
+6013,
+"pi2 dai4",
+"strap; leather belt"
+],
+[
+"腰带",
+6705,
+"yao1 dai4",
+"belt"
+],
+[
+"地带",
+6911,
+"di4 dai4",
+"zone"
 ]
 ],
 "strokes": [

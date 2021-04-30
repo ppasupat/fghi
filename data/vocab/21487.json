@@ -8,129 +8,173 @@
 "words": [
 [
 "可能",
-0,
 2,
 "kěnéng",
 "possible; maybe"
 ],
 [
 "可以",
-0,
 2,
 "kěyǐ",
 "can; may; possible; okay"
 ],
 [
 "可爱",
-0,
 3,
 "kě'ài",
 "cute; lovely"
 ],
 [
 "可怜",
-0,
 4,
 "kělián",
 "pitiful; poor; pathetic"
 ],
 [
 "可是",
-0,
 4,
 "kěshì",
 "but; however"
 ],
 [
 "可惜",
-0,
 4,
 "kěxī",
 "it's a pity; regrettable; too bad"
 ],
 [
 "可见",
-0,
 5,
 "kějiàn",
 "it can clearly be seen that; clear"
 ],
 [
 "可靠",
-0,
 5,
 "kěkào",
 "reliable"
 ],
 [
 "可怕",
-0,
 5,
 "kěpà",
 "terrible; awful; frightful; scary"
 ],
 [
 "宁可",
-0,
 5,
 "nìngkě",
 "would rather; it is the lesser of two evils to"
 ],
 [
 "不可思议",
-0,
 6,
 "bùkěsīyì",
 "unimaginable; inconceivable"
 ],
 [
 "可观",
-0,
 6,
 "kěguān",
 "considerable; impressive"
 ],
 [
 "可口",
-0,
 6,
 "kěkǒu",
 "tasty; taste good"
 ],
 [
 "可恶",
-0,
 6,
 "kěwù",
 "hateful; abominable; repulsive"
 ],
 [
 "可行",
-0,
 6,
 "kěxíng",
 "feasible"
 ],
 [
 "难能可贵",
-0,
 6,
 "nánnéngkěguì",
 "estimable; extremely good"
 ],
 [
 "认可",
-0,
 6,
 "rènkě",
 "approve; accept; ratify"
 ],
 [
 "许可",
-0,
 6,
 "xǔkě",
 "allow; permit; permission"
+]
+],
+"extraWords": [
+[
+"可",
+96,
+"ke3/ke4",
+"can; may; able to; to approve; to permit; certain(ly); to suit; (particle used for emphasis)"
+],
+[
+"不可",
+2134,
+"bu4 ke3",
+"cannot; should not; must not"
+],
+[
+"可笑",
+2300,
+"ke3 xiao4",
+"funny; ridiculous"
+],
+[
+"可能性",
+2871,
+"ke3 neng2 xing4",
+"possibility; probability"
+],
+[
+"可悲",
+3307,
+"ke3 bei1",
+"lamentable"
+],
+[
+"尽可能",
+3395,
+"jin3 ke3 neng2",
+"as far as possible"
+],
+[
+"可疑",
+3832,
+"ke3 yi2",
+"suspicious; dubious"
+],
+[
+"可卡因",
+3988,
+"ke3 ka3 yin1",
+"cocaine"
+],
+[
+"可乐",
+4741,
+"ke3 le4",
+"cola"
+],
+[
+"无家可归",
+5080,
+"wu2 jia1 ke3 gui1",
+"homeless"
 ]
 ],
 "strokes": [

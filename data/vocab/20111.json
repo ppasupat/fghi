@@ -8,38 +8,83 @@
 "words": [
 [
 "吃亏",
-0,
 5,
 "chīkuī",
 "suffer losses; get the worst of"
 ],
 [
 "多亏",
-0,
 5,
 "duōkuī",
 "thanks to; luckily"
 ],
 [
 "幸亏",
-0,
 5,
 "xìngkuī",
 "fortunately; luckily"
 ],
 [
 "亏待",
-0,
 6,
 "kuīdài",
 "treat sb. unfairly"
 ],
 [
 "亏损",
-0,
 6,
 "kuīsǔn",
 "deficit; (financial) loss"
+]
+],
+"extraWords": [
+[
+"亏",
+10363,
+"kui1",
+"deficiency; deficit"
+],
+[
+"亏欠",
+18335,
+"kui1 qian4",
+"to fall short of; to have a deficit; deficit; deficiency"
+],
+[
+"功亏一篑",
+27219,
+"gong1 kui1 yi1 kui4",
+"lacking the final bucket of earth (idiom); to fail for lack of a final effort; to fall at the last hurdle"
+],
+[
+"亏本",
+32788,
+"kui1 ben3",
+"to make a loss"
+],
+[
+"亏空",
+32789,
+"kui1 kong1",
+"in debt; in the red; in deficit"
+],
+[
+"亏得",
+48123,
+"kui1 de5",
+"\"fortunately; luckily; (sarcastic) fancy that, how fortunate!\""
+],
+[
+"盈亏",
+50724,
+"ying2 kui1",
+"profit and loss; waxing and waning"
+],
+[
+"自负盈亏",
+91681,
+"zi4 fu4 ying2 kui1",
+"responsible for its profit and losses (of organization); financially autonomous; personal financial responsibility"
 ]
 ],
 "strokes": [

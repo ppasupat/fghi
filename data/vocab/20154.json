@@ -8,241 +8,269 @@
 "words": [
 [
 "人",
-0,
 1,
 "rén",
 "person; man; people"
 ],
 [
 "别人",
-0,
 3,
 "biéren",
 "other people; others"
 ],
 [
 "客人",
-0,
 3,
 "kèrén",
 "guest; customer"
 ],
 [
 "成人",
-0,
 5,
 "chéngrén",
 "adult; to grow up; become full-grown"
 ],
 [
 "敌人",
-0,
 5,
 "dírén",
 "enemy"
 ],
 [
 "个人",
-0,
 5,
 "gèrén",
 "individual; personal; oneself"
 ],
 [
 "工人",
-0,
 5,
 "gōngrén",
 "worker"
 ],
 [
 "人才",
-0,
 5,
 "réncái",
 "talent; talented person"
 ],
 [
 "人口",
-0,
 5,
 "rénkǒu",
 "population; the populace"
 ],
 [
 "人类",
-0,
 5,
 "rénlèi",
 "humanity; human race; mankind"
 ],
 [
 "人民币",
-0,
 5,
 "rénmínbì",
 "(currency) renminbi (RMB)"
 ],
 [
 "人生",
-0,
 5,
 "rénshēng",
 "human life"
 ],
 [
 "人事",
-0,
 5,
 "rénshì",
 "personnel"
 ],
 [
 "人物",
-0,
 5,
 "rénwù",
 "figure; personage; character (in a play, story, etc.)"
 ],
 [
 "人员",
-0,
 5,
 "rényuán",
 "staff; crew; personnel"
 ],
 [
 "私人",
-0,
 5,
 "sīrén",
 "private (citizen); personal; individual"
 ],
 [
 "行人",
-0,
 5,
 "xíngrén",
 "pedestrian"
 ],
 [
 "主人",
-0,
 5,
 "zhǔrén",
 "master; host; owner"
 ],
 [
 "本人",
-0,
 6,
 "běnrén",
 "I; me; myself; oneself; in person"
 ],
 [
 "当事人",
-0,
 6,
 "dāngshìrén",
 "persons involved or implicated; party (to an affair)"
 ],
 [
 "丢人",
-0,
 6,
 "diū rén",
 "lose face; be disgraced"
 ],
 [
 "法人",
-0,
 6,
 "fǎrén",
 "legal entity (i.e., a corporation)"
 ],
 [
 "风土人情",
-0,
 6,
 "fēngtǔrénqíng",
 "local conditions (human and environmental)"
 ],
 [
 "夫人",
-0,
 6,
 "fūrén",
 "lady; madam; Mrs.; wife"
 ],
 [
 "迷人",
-0,
 6,
 "mírén",
 "charming; enchanting; cute"
 ],
 [
 "人道",
-0,
 6,
 "réndào",
 "humanitarianism; humane"
 ],
 [
 "人格",
-0,
 6,
 "réngé",
 "personality; moral integrity; character"
 ],
 [
 "人工",
-0,
 6,
 "réngōng",
 "man-made; manpower; manual work"
 ],
 [
 "人家",
-0,
 6,
 "rénjiā",
 "other people; others; they; I; family; household"
 ],
 [
 "人间",
-0,
 6,
 "rénjiān",
 "man's world; the world"
 ],
 [
 "人士",
-0,
 6,
 "rénshì",
 "person; public figure"
 ],
 [
 "人为",
-0,
 6,
 "rénwéi",
 "artificial; man-made"
 ],
 [
 "人性",
-0,
 6,
 "rénxìng",
 "human nature; humanity"
 ],
 [
 "人质",
-0,
 6,
 "rénzhì",
 "hostage"
+]
+],
+"extraWords": [
+[
+"女人",
+257,
+"nu:3 ren2",
+"woman"
+],
+[
+"男人",
+305,
+"nan2 ren2",
+"a man; a male; men"
+],
+[
+"有人",
+365,
+"you3 ren2",
+"someone; people; anyone; there is someone there; occupied (as in restroom)"
+],
+[
+"人们",
+427,
+"ren2 men5",
+"people"
+],
+[
+"任何人",
+850,
+"ren4 he2 ren2",
+"anyone"
+],
+[
+"病人",
+906,
+"bing4 ren2",
+"sick person; [medical] patient; invalid"
+],
+[
+"杀人",
+985,
+"sha1 ren2",
+"homicide; to murder; to kill (a person)"
+],
+[
+"家人",
+1044,
+"jia1 ren2",
+"household; (one's) family"
+],
+[
+"大人",
+1075,
+"da4 ren5",
+"adult; grownup"
+],
+[
+"证人",
+1149,
+"zheng4 ren2",
+"witness"
 ]
 ],
 "strokes": [

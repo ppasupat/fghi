@@ -8,45 +8,101 @@
 "words": [
 [
 "安静",
-0,
 3,
 "ānjìng",
 "quiet; peaceful; calm"
 ],
 [
 "冷静",
-0,
 4,
 "lěngjìng",
 "calm; cool-headed; sober"
 ],
 [
 "平静",
-0,
 5,
 "píngjìng",
 "calm; peaceful; tranquil; serene"
 ],
 [
 "动静",
-0,
 6,
 "dòngjìng",
 "sound of activity; activity"
 ],
 [
 "寂静",
-0,
 6,
 "jìjìng",
 "quiet"
 ],
 [
 "镇静",
-0,
 6,
 "zhènjìng",
 "calm; cool; tranquil"
+]
+],
+"extraWords": [
+[
+"静",
+3348,
+"jing4",
+"still; calm; quiet; not moving"
+],
+[
+"镇静剂",
+6631,
+"zhen4 jing4 ji4",
+"tranquilizer"
+],
+[
+"宁静",
+6727,
+"ning2 jing4",
+"tranquil; tranquility; serenity"
+],
+[
+"静脉",
+7211,
+"jing4 mai4",
+"vein"
+],
+[
+"静止",
+12008,
+"jing4 zhi3",
+"still; immobile; stillness"
+],
+[
+"清静",
+12138,
+"qing1 jing4",
+"quiet; peaceful and quiet"
+],
+[
+"静电",
+17304,
+"jing4 dian4",
+"static electricity"
+],
+[
+"静坐",
+21994,
+"jing4 zuo4",
+"to sit quietly; to meditate; to sit-in (demonstration)"
+],
+[
+"风平浪静",
+24408,
+"feng1 ping2 lang4 jing4",
+"\"lit. breeze is still, waves are quiet (idiom); tranquil environment; All is quiet.; a dead calm (at sea)\""
+],
+[
+"静默",
+26469,
+"jing4 mo4",
+"silence; to stand in silence (in mourning)"
 ]
 ],
 "strokes": [

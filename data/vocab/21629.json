@@ -8,80 +8,131 @@
 "words": [
 [
 "生命",
-0,
 4,
 "shēngmìng",
 "life"
 ],
 [
 "命令",
-0,
 5,
 "mìnglìng",
 "an order; a command"
 ],
 [
 "命运",
-0,
 5,
 "mìngyùn",
 "fate; destiny"
 ],
 [
 "寿命",
-0,
 5,
 "shòumìng",
 "life span; life expectancy"
 ],
 [
 "革命",
-0,
 6,
 "gémìng",
 "revolution; revolutionary (politics); cause great social change; rise in revolt; take part in revolution"
 ],
 [
 "命名",
-0,
 6,
 "mìngmíng",
 "give a name; to dub; christen; naming"
 ],
 [
 "拼命",
-0,
 6,
 "pīn mìng",
 "risk one's life; desperately; with all one's might"
 ],
 [
 "任命",
-0,
 6,
 "rènmìng",
 "appoint and nominate"
 ],
 [
 "使命",
-0,
 6,
 "shǐmìng",
 "a (diplomatic or other) mission"
 ],
 [
 "性命",
-0,
 6,
 "xìngmìng",
 "life"
 ],
 [
 "要命",
-0,
 6,
 "yàomìng",
 "cause somebody's death; very; extremely; frighteningly; annoyance"
+]
+],
+"extraWords": [
+[
+"命",
+770,
+"ming4",
+"life; fate; order"
+],
+[
+"救命",
+1329,
+"jiu4 ming4",
+"to save someone's life; (interjection) Help!; (interjection) Save me!"
+],
+[
+"致命",
+2595,
+"zhi4 ming4",
+"fatal; mortal; deadly; to sacrifice one's life"
+],
+[
+"丧命",
+6827,
+"sang4 ming4",
+"to lose one's life"
+],
+[
+"活命",
+7709,
+"huo2 ming4",
+"life; to survive; to save a life; to scrape a living"
+],
+[
+"人命",
+8063,
+"ren2 ming4",
+"human life"
+],
+[
+"逃命",
+8255,
+"tao2 ming4",
+"to escape; to flee; to run for one's life"
+],
+[
+"命案",
+9444,
+"ming4 an4",
+"\"a fatal case (legal, criminal, medical etc)\""
+],
+[
+"听命",
+11797,
+"ting1 ming4",
+"to obey an order; to take orders; to accept a state of affairs"
+],
+[
+"奉命",
+11952,
+"feng4 ming4",
+"to receive orders; to follow orders; to act under orders"
 ]
 ],
 "strokes": [

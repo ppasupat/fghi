@@ -8,45 +8,101 @@
 "words": [
 [
 "建议",
-0,
 4,
 "jiànyì",
 "to propose; to suggest; recommend"
 ],
 [
 "建立",
-0,
 5,
 "jiànlì",
 "establish; to construct; to set up"
 ],
 [
 "建设",
-0,
 5,
 "jiànshè",
 "to build; to construct; construction"
 ],
 [
 "建筑",
-0,
 5,
 "jiànzhù",
 "a building; to construct; architecture"
 ],
 [
 "封建",
-0,
 6,
 "fēngjiàn",
 "feudal; feudalism"
 ],
 [
 "修建",
-0,
 6,
 "xiūjiàn",
 "to build; to construct; renovate"
+]
+],
+"extraWords": [
+[
+"建",
+2271,
+"jian4",
+"to establish; to found; to set up; to build; to construct"
+],
+[
+"建造",
+3859,
+"jian4 zao4",
+"construct; build"
+],
+[
+"重建",
+4413,
+"chong2 jian4",
+"reconstruction; rebuilding"
+],
+[
+"建筑师",
+7549,
+"jian4 zhu2 shi1",
+"architect"
+],
+[
+"建筑物",
+7932,
+"jian4 zhu4 wu4",
+"building"
+],
+[
+"组建",
+8601,
+"zu3 jian4",
+"to organize; to set up; to establish"
+],
+[
+"创建",
+9753,
+"chuang4 jian4",
+"to found; to establish"
+],
+[
+"建成",
+12672,
+"jian4 cheng2",
+"to establish; to build"
+],
+[
+"建设性",
+14214,
+"jian4 she4 xing4",
+"constructive; constructiveness"
+],
+[
+"构建",
+22194,
+"gou4 jian4",
+"to construct (sth abstract)"
 ]
 ],
 "strokes": [

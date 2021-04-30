@@ -8,45 +8,101 @@
 "words": [
 [
 "复杂",
-0,
 4,
 "fùzá",
 "complicated; complex"
 ],
 [
 "杂志",
-0,
 4,
 "zázhì",
 "magazine"
 ],
 [
 "嘈杂",
-0,
 6,
 "cáozá",
 "noisy; raucous"
 ],
 [
 "夹杂",
-0,
 6,
 "jiāzá",
 "mix together; have two dissimilar substances mixed together"
 ],
 [
 "杂技",
-0,
 6,
 "zájì",
 "acrobatics"
 ],
 [
 "杂交",
-0,
 6,
 "zájiāo",
 "create a hybrid; cross-fertilize"
+]
+],
+"extraWords": [
+[
+"杂",
+7139,
+"za2",
+"mixed; miscellaneous; various; to mix"
+],
+[
+"杂货店",
+8128,
+"za2 huo4 dian4",
+"grocery store; emporium"
+],
+[
+"杂耍",
+9364,
+"za2 shua3",
+"a sideshow; vaudeville"
+],
+[
+"杂草",
+18023,
+"za2 cao3",
+"weeds"
+],
+[
+"杂乱",
+18667,
+"za2 luan4",
+"mess"
+],
+[
+"杂货",
+20198,
+"za2 huo4",
+"groceries; miscellaneous goods"
+],
+[
+"大杂烩",
+20702,
+"da4 za2 hui4",
+"mix-up; mish-mash; pot-pourri"
+],
+[
+"杂音",
+21113,
+"za2 yin1",
+"noise"
+],
+[
+"混杂",
+21493,
+"hun4 za2",
+"mix"
+],
+[
+"掺杂",
+21793,
+"chan1 za2",
+"to mix; to blend; to dilute"
 ]
 ],
 "strokes": [

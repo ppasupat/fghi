@@ -8,73 +8,125 @@
 "words": [
 [
 "护照",
-0,
 3,
 "hùzhào",
 "passport"
 ],
 [
 "保护",
-0,
 4,
 "bǎohù",
 "to protect; to defend"
 ],
 [
 "护士",
-0,
 4,
 "hùshi",
 "nurse"
 ],
 [
 "爱护",
-0,
 5,
 "àihù",
 "cherish; reassure; take good care of"
 ],
 [
 "救护车",
-0,
 5,
 "jiùhùchē",
 "ambulance"
 ],
 [
 "辩护",
-0,
 6,
 "biànhù",
 "speak in defense of; argue in favor of; defend"
 ],
 [
 "守护",
-0,
 6,
 "shǒuhù",
 "guard; defend; protect"
 ],
 [
 "维护",
-0,
 6,
 "wéihù",
 "defend; to safeguard; defense; maintain"
 ],
 [
 "掩护",
-0,
 6,
 "yǎnhù",
 "cover; shield; screen"
 ],
 [
 "拥护",
-0,
 6,
 "yōnghù",
 "to support; endorse"
+]
+],
+"extraWords": [
+[
+"护",
+3036,
+"hu4",
+"protect"
+],
+[
+"护理",
+5365,
+"hu4 li3",
+"to nurse; to tend and protect"
+],
+[
+"护送",
+5978,
+"hu4 song4",
+"to escort; to accompany"
+],
+[
+"防护",
+6356,
+"fang2 hu4",
+"to defend; to protect"
+],
+[
+"监护",
+6870,
+"jian1 hu4",
+"to act as a guardian"
+],
+[
+"监护人",
+7160,
+"jian1 hu4 ren2",
+"guardian"
+],
+[
+"护卫",
+8014,
+"hu4 wei4",
+"an escort; a guard; to convoy"
+],
+[
+"医护",
+8231,
+"yi1 hu4",
+"doctors and nurses; medic; medical (personnel)"
+],
+[
+"庇护",
+8757,
+"bi4 hu4",
+"asylum; shelter; to shield; to put under protection; to take under one's wing"
+],
+[
+"救护",
+9545,
+"jiu4 hu4",
+"rescue; administer first-aid"
 ]
 ],
 "strokes": [

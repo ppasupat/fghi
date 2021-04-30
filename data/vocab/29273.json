@@ -8,24 +8,83 @@
 "words": [
 [
 "刷牙",
-0,
 3,
 "shuāyá",
 "brush one's teeth"
 ],
 [
 "牙膏",
-0,
 4,
 "yágāo",
 "toothpaste"
 ],
 [
 "牙齿",
-0,
 5,
 "yáchǐ",
 "tooth"
+]
+],
+"extraWords": [
+[
+"牙",
+2055,
+"ya2",
+"tooth; ivory"
+],
+[
+"西班牙",
+2678,
+"Xi1 ban1 ya2",
+"Spain"
+],
+[
+"西班牙语",
+3006,
+"Xi1 ban1 ya2 yu3",
+"Spanish language"
+],
+[
+"牙医",
+4593,
+"ya2 yi1",
+"dentist"
+],
+[
+"牙刷",
+8359,
+"ya2 shua1",
+"toothbrush"
+],
+[
+"葡萄牙语",
+9638,
+"pu2 tao2 ya2 yu3",
+"Portuguese (language)"
+],
+[
+"匈牙利",
+10127,
+"Xiong1 ya2 li4",
+"Hungary"
+],
+[
+"牙买加",
+10448,
+"Ya2 mai3 jia1",
+"Jamaica"
+],
+[
+"假牙",
+10590,
+"jia3 ya2",
+"false teeth; dentures"
+],
+[
+"以牙还牙",
+11632,
+"yi3 ya2 huan2 ya2",
+"a tooth for a tooth (retaliation)"
 ]
 ],
 "strokes": [

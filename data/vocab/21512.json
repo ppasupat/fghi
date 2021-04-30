@@ -8,164 +8,203 @@
 "words": [
 [
 "符合",
-0,
 4,
 "fúhé",
 "in keeping with; in accordance with; conform"
 ],
 [
 "合格",
-0,
 4,
 "hégé",
 "qualified; up to standard"
 ],
 [
 "合适",
-0,
 4,
 "héshì",
 "suitable; proper; appropriate"
 ],
 [
 "适合",
-0,
 4,
 "shìhé",
 "to suit; to fit"
 ],
 [
 "合法",
-0,
 5,
 "héfǎ",
 "lawful; legitimate; legal"
 ],
 [
 "合理",
-0,
 5,
 "hélǐ",
 "rational; reasonable"
 ],
 [
 "合同",
-0,
 5,
 "hétong",
 "contract"
 ],
 [
 "合影",
-0,
 5,
 "héyǐng",
 "joint photo; group photo"
 ],
 [
 "合作",
-0,
 5,
 "hézuò",
 "cooperate; collaborate; work together"
 ],
 [
 "集合",
-0,
 5,
 "jíhé",
 "gather; assemble; to muster"
 ],
 [
 "结合",
-0,
 5,
 "jiéhé",
 "combine; to link; to bind"
 ],
 [
 "联合",
-0,
 5,
 "liánhé",
 "alliance; combine; unite"
 ],
 [
 "配合",
-0,
 5,
 "pèihé",
 "be harmoniously combined or arranged; matching; fitting in with; compatible with; to correspond; to fit; to conform to; rapport; to coordinate with; to act in concern with; to cooperate; to become man and wife; to combine parts of a machine"
 ],
 [
 "综合",
-0,
 5,
 "zōnghé",
 "synthesized; composite; summarize"
 ],
 [
 "组合",
-0,
 5,
 "zǔhé",
 "assemble; combination"
 ],
 [
 "场合",
-0,
 6,
 "chǎnghé",
 "occasion; situation"
 ],
 [
 "凑合",
-0,
 6,
 "còuhe",
 "bring together; make do in a bad situation; improvise"
 ],
 [
 "合并",
-0,
 6,
 "hébìng",
 "merge; annex"
 ],
 [
 "合成",
-0,
 6,
 "héchéng",
 "compound; synthesis; mixture"
 ],
 [
 "合伙",
-0,
 6,
 "héhuǒ",
 "to make a partnership"
 ],
 [
 "合算",
-0,
 6,
 "hésuàn",
 "worthwhile; reckon up"
 ],
 [
 "混合",
-0,
 6,
 "hùnhé",
 "to mix; to blend"
 ],
 [
 "磨合",
-0,
 6,
 "móhé",
 "adapt gradually to each other; to consult; break in; wear in"
+]
+],
+"extraWords": [
+[
+"合",
+1829,
+"ge3/he2",
+"\"100 ml; one-tenth of a peck; measure for dry grain equal to one-tenth of sheng 升 or liter, or one-hundredth dou 斗; Chinese musical note; fit; to join\""
+],
+[
+"合伙人",
+3015,
+"he2 huo3 ren2",
+"partner; associate"
+],
+[
+"巧合",
+3105,
+"qiao3 he2",
+"coincidence"
+],
+[
+"吻合",
+3667,
+"wen3 he2",
+"good fit; be identical"
+],
+[
+"合约",
+4471,
+"he2 yue1",
+"treaty; contract"
+],
+[
+"回合",
+4872,
+"hui2 he2",
+"\"round (of negotiations); bout (of sporting competition, boxing match, confrontation etc); rally (in volley-ball, tennis etc)\""
+],
+[
+"联合国",
+6007,
+"Lian2 he2 guo2",
+"United Nations"
+],
+[
+"会合",
+6613,
+"hui4 he2",
+"meet; have a meeting"
+],
+[
+"缝合",
+7643,
+"feng2 he2",
+"to sew together; suture (in surgery); to sew up (a wound)"
+],
+[
+"融合",
+7805,
+"rong2 he2",
+"a mixture; an amalgam; fusion; welding together; be in harmony with (nature); harmonize with; fit in"
 ]
 ],
 "strokes": [

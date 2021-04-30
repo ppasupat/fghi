@@ -8,129 +8,173 @@
 "words": [
 [
 "反对",
-0,
 4,
 "fǎnduì",
 "oppose; fight against"
 ],
 [
 "相反",
-0,
 4,
 "xiāngfǎn",
 "opposite; contrary"
 ],
 [
 "反而",
-0,
 5,
 "fǎn'ér",
 "on the contrary; instead"
 ],
 [
 "反复",
-0,
 5,
 "fǎnfù",
 "repeatedly; over and over"
 ],
 [
 "反应",
-0,
 5,
 "fǎnyìng",
 "react; respond; reply"
 ],
 [
 "反映",
-0,
 5,
 "fǎnyìng",
 "reflect; reflection; report on"
 ],
 [
 "反正",
-0,
 5,
 "fǎnzhèng",
 "anyway"
 ],
 [
 "违反",
-0,
 5,
 "wéifǎn",
 "violate (a law)"
 ],
 [
 "反驳",
-0,
 6,
 "fǎnbó",
 "retort; refute"
 ],
 [
 "反常",
-0,
 6,
 "fǎncháng",
 "abnormal; unusual"
 ],
 [
 "反感",
-0,
 6,
 "fǎngǎn",
 "(strongly) dislike"
 ],
 [
 "反抗",
-0,
 6,
 "fǎnkàng",
 "resist; to revolt"
 ],
 [
 "反馈",
-0,
 6,
 "fǎnkuì",
 "feedback; send information back"
 ],
 [
 "反面",
-0,
 6,
 "fǎnmiàn",
 "the reverse side of sth.; opposite side of a topic"
 ],
 [
 "反射",
-0,
 6,
 "fǎnshè",
 "reflex; reflection (from a mirror, etc.)"
 ],
 [
 "反思",
-0,
 6,
 "fǎnsī",
 "think back over something that happened; to reflect; introspection"
 ],
 [
 "反问",
-0,
 6,
 "fǎnwèn",
 "ask a rhetorical question; answer a question with a question"
 ],
 [
 "反之",
-0,
 6,
 "fǎnzhī",
 "whereas...; on the other hand ...; conversely ..."
+]
+],
+"extraWords": [
+[
+"反",
+1575,
+"fan3",
+"contrary; in reverse; inside-out or upside-down; to reverse; to return; to oppose; opposite; against; anti-; to rebel; to use analogy; instead; abbr. for 反切 phonetic system"
+],
+[
+"反击",
+5228,
+"fan3 ji1",
+"to strike back; to beat back; to counterattack"
+],
+[
+"反省",
+10131,
+"fan3 xing3",
+"to engage in introspection; soul-searching"
+],
+[
+"反叛",
+10816,
+"fan3 pan4",
+"rebel; revolt"
+],
+[
+"反过来",
+11106,
+"fan3 guo5 lai2",
+"conversely; in reverse order; in an opposite direction"
+],
+[
+"反悔",
+11717,
+"fan3 hui3",
+"to renege; to go back (on a deal); to back out (of a promise)"
+],
+[
+"化学反应",
+12832,
+"hua4 xue2 fan3 ying4",
+"chemical reaction"
+],
+[
+"反应堆",
+13610,
+"fan3 ying4 dui1",
+"reactor"
+],
+[
+"造反",
+13806,
+"zao4 fan3",
+"rebel; revolt"
+],
+[
+"反响",
+14302,
+"fan3 xiang3",
+"repercussions; reaction; echo"
 ]
 ],
 "strokes": [

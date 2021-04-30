@@ -8,101 +8,149 @@
 "words": [
 [
 "星期",
-0,
 1,
 "xīngqī",
 "week"
 ],
 [
 "学期",
-0,
 4,
 "xuéqī",
 "semester; school term"
 ],
 [
 "过期",
-0,
 5,
 "guòqī",
 "overdue; expire"
 ],
 [
 "期待",
-0,
 5,
 "qīdài",
 "look forward to; await; expectation"
 ],
 [
 "期间",
-0,
 5,
 "qījiān",
 "period of time; time"
 ],
 [
 "日期",
-0,
 5,
 "rìqī",
 "date"
 ],
 [
 "时期",
-0,
 5,
 "shíqī",
 "period in time or history; period; time"
 ],
 [
 "定期",
-0,
 6,
 "dìngqī",
 "regularly; at regular intervals"
 ],
 [
 "期望",
-0,
 6,
 "qīwàng",
 "hope; expectation"
 ],
 [
 "期限",
-0,
 6,
 "qīxiàn",
 "time limit; deadline; allotted time"
 ],
 [
 "为期",
-0,
 6,
 "wéiqī",
 "be scheduled for; last for (a certain duration)"
 ],
 [
 "延期",
-0,
 6,
 "yán qī",
 "delay; extend; postpone"
 ],
 [
 "预期",
-0,
 6,
 "yùqī",
 "expect; expected; anticipate"
 ],
 [
 "周期",
-0,
 6,
 "zhōuqī",
 "period; cycle; rhythm"
+]
+],
+"extraWords": [
+[
+"期",
+2258,
+"ji1/qi1",
+"\"a period of time; phase; stage; (used for issue of a periodical, courses of study); time; term; period; to hope; Taiwan pr. qi2\""
+],
+[
+"假期",
+3596,
+"jia4 qi1",
+"vacation"
+],
+[
+"星期五",
+3824,
+"xing1 qi1 wu3",
+"Friday"
+],
+[
+"星期六",
+3985,
+"xing1 qi1 liu4",
+"Saturday"
+],
+[
+"星期天",
+4234,
+"xing1 qi1 tian1",
+"Sunday"
+],
+[
+"长期",
+4833,
+"chang2 qi1",
+"long term; long time"
+],
+[
+"星期一",
+4885,
+"xing1 qi1 yi1",
+"Monday"
+],
+[
+"星期二",
+5767,
+"xing1 qi1 er4",
+"Tuesday"
+],
+[
+"星期三",
+5893,
+"xing1 qi1 san1",
+"Wednesday"
+],
+[
+"星期四",
+6101,
+"xing1 qi1 si4",
+"Thursday"
 ]
 ],
 "strokes": [

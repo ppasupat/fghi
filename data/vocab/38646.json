@@ -8,38 +8,95 @@
 "words": [
 [
 "零",
-0,
 2,
 "líng",
 "zero; remnant"
 ],
 [
 "零钱",
-0,
 4,
 "língqián",
 "small change (of money)"
 ],
 [
 "零件",
-0,
 5,
 "língjiàn",
 "spare parts; component"
 ],
 [
 "零食",
-0,
 5,
 "língshí",
 "snack"
 ],
 [
 "零星",
-0,
 6,
 "língxīng",
 "partial; scattered; fragmentary"
+]
+],
+"extraWords": [
+[
+"孤零零",
+15222,
+"gu1 ling2 ling2",
+"lone; isolated and without help; all alone"
+],
+[
+"零下",
+15912,
+"ling2 xia4",
+"below zero"
+],
+[
+"零售",
+16384,
+"ling2 shou4",
+"retail"
+],
+[
+"零用钱",
+16894,
+"ling2 yong4 qian2",
+"pocket money"
+],
+[
+"零售商",
+20920,
+"ling2 shou4 shang1",
+"tradesman; dealer"
+],
+[
+"零点",
+21617,
+"ling2 dian3",
+"zero (math.)"
+],
+[
+"零碎",
+21618,
+"ling2 sui4",
+"scattered and fragmentary; scraps; odds and ends"
+],
+[
+"零度",
+23156,
+"ling2 du4",
+"zero degree"
+],
+[
+"零头",
+31715,
+"ling2 tou2",
+"odd; scrap; remainder"
+],
+[
+"零部件",
+32688,
+"ling2 bu4 jian4",
+"spare part; component"
 ]
 ],
 "strokes": [

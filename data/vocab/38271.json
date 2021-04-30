@@ -8,115 +8,161 @@
 "words": [
 [
 "长",
-0,
 2,
 "cháng, zhǎng",
 "long; length | grow; chief (Kangxi radical 168)"
 ],
 [
 "校长",
-0,
 3,
 "xiàozhǎng",
 "principal (of school, college or university); president; headmaster"
 ],
 [
 "长",
-0,
 3,
 "cháng, zhǎng",
 "long; length | grow; chief (Kangxi radical 168)"
 ],
 [
 "长城",
-0,
 4,
 "chángchéng",
 "the Great Wall"
 ],
 [
 "长江",
-0,
 4,
 "Chángjiāng",
 "the Yangtze River; the Changjiang River"
 ],
 [
 "长途",
-0,
 5,
 "chángtú",
 "long distance"
 ],
 [
 "成长",
-0,
 5,
 "chéngzhǎng",
 "to mature; grow up"
 ],
 [
 "生长",
-0,
 5,
 "shēngzhǎng",
 "grow; grow up"
 ],
 [
 "延长",
-0,
 5,
 "yáncháng",
 "extend; prolong; lengthen"
 ],
 [
 "长辈",
-0,
 5,
 "zhǎngbèi",
 "an elder; an elder generation"
 ],
 [
 "拔苗助长",
-0,
 6,
 "bámiáozhùzhǎng",
 "(literally) help shoots grow by pulling them out; spoil things by excessive enthusiasm"
 ],
 [
 "董事长",
-0,
 6,
 "dǒngshìzhǎng",
 "chairman of the board"
 ],
 [
 "漫长",
-0,
 6,
 "màncháng",
 "very long; endless"
 ],
 [
 "擅长",
-0,
 6,
 "shàncháng",
 "be good at; be expert in"
 ],
 [
 "特长",
-0,
 6,
 "tècháng",
 "strong point; specialty"
 ],
 [
 "专长",
-0,
 6,
 "zhuāncháng",
 "specialty; special knowledge or ability"
+]
+],
+"extraWords": [
+[
+"长官",
+491,
+"zhang3 guan1",
+"senior official"
+],
+[
+"长大",
+1530,
+"zhang3 da4",
+"to grow up"
+],
+[
+"队长",
+1576,
+"dui4 zhang3",
+"captain; team leader"
+],
+[
+"船长",
+1867,
+"chuan2 zhang3",
+"captain (of a boat); skipper"
+],
+[
+"市长",
+2335,
+"shi4 zhang3",
+"mayor"
+],
+[
+"局长",
+2806,
+"ju2 zhang3",
+"the chief of a bureau"
+],
+[
+"家长",
+3232,
+"jia1 zhang3",
+"parent or guardian of a child"
+],
+[
+"部长",
+3830,
+"bu4 zhang3",
+"head of a (government etc) department; section chief; section head; secretary; minister"
+],
+[
+"州长",
+4371,
+"zhou1 zhang3",
+"governor (of a province or colony); US state governor"
+],
+[
+"长期",
+4833,
+"chang2 qi1",
+"long term; long time"
 ]
 ],
 "strokes": [

@@ -8,52 +8,107 @@
 "words": [
 [
 "恶劣",
-0,
 5,
 "èliè",
 "vile; horrible"
 ],
 [
 "丑恶",
-0,
 6,
 "chǒu'è",
 "ugly; repulsive; odiousness"
 ],
 [
 "恶心",
-0,
 6,
 "ěxin",
 "disgusting; nauseous; make somebody embarrassed (èxīn: bad/vicious habit; vice)"
 ],
 [
 "恶化",
-0,
 6,
 "èhuà",
 "worsen; deteriorate"
 ],
 [
 "可恶",
-0,
 6,
 "kěwù",
 "hateful; abominable; repulsive"
 ],
 [
 "凶恶",
-0,
 6,
 "xiōng'è",
 "fierce; ferocious; menacing"
 ],
 [
 "厌恶",
-0,
 6,
 "yànwù",
 "loathe; to hate; detest"
+]
+],
+"extraWords": [
+[
+"恶魔",
+1500,
+"e4 mo2",
+"demon; fiend"
+],
+[
+"邪恶",
+1585,
+"xie2 e4",
+"sinister; vicious; wicked; evil"
+],
+[
+"恶",
+2888,
+"e3/e4/wu1/wu4",
+"bad; queasy; nausea; nauseated; evil; vice; wicked; malevolent; malignant; pernicious; fierce; to hate; to loathe"
+],
+[
+"罪恶",
+3591,
+"zui4 e4",
+"sin"
+],
+[
+"恶梦",
+3834,
+"e4 meng4",
+"nightmare"
+],
+[
+"恶作剧",
+4505,
+"e4 zuo4 ju4",
+"mischief; mischievous; practical joke"
+],
+[
+"恶意",
+5663,
+"e4 yi4",
+"malice; evil intention"
+],
+[
+"恶棍",
+6067,
+"e4 gun4",
+"villain"
+],
+[
+"恶毒",
+7550,
+"e4 du2",
+"malicious"
+],
+[
+"恶人",
+9157,
+"e4 ren2",
+"evil person; vile creature; ugly man"
 ]
 ],
 "strokes": [

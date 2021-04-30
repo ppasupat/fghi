@@ -8,45 +8,101 @@
 "words": [
 [
 "错误",
-0,
 4,
 "cuòwù",
 "error; mistake; mistaken"
 ],
 [
 "误会",
-0,
 4,
 "wùhuì",
 "to misunderstand; to mistake"
 ],
 [
 "耽误",
-0,
 5,
 "dānwu",
 "to delay; waste time"
 ],
 [
 "失误",
-0,
 6,
 "shīwù",
 "mistake; lapse; miss"
 ],
 [
 "误差",
-0,
 6,
 "wùchā",
 "difference; error; inaccuracy"
 ],
 [
 "误解",
-0,
 6,
 "wùjiě",
 "misunderstand; misread"
+]
+],
+"extraWords": [
+[
+"误",
+5001,
+"wu4",
+"mistake; error; to miss; to harm; to delay; to neglect"
+],
+[
+"误导",
+7974,
+"wu4 dao3",
+"to mislead; misleading"
+],
+[
+"延误",
+12922,
+"yan2 wu5",
+"delay; hold-up; wasted time; loss caused by delay"
+],
+[
+"无误",
+18019,
+"wu2 wu4",
+"verified; unmistaken"
+],
+[
+"误伤",
+20302,
+"wu4 shang1",
+"to injure accidentally; accidental injury"
+],
+[
+"误杀",
+21948,
+"wu4 sha1",
+"mistakenly kill; manslaughter"
+],
+[
+"误判",
+24861,
+"wu4 pan4",
+"to misjudge; error of judgement; incorrect ruling; miscarriage of justice"
+],
+[
+"笔误",
+37601,
+"bi3 wu4",
+"a slip of a pen"
+],
+[
+"误用",
+37822,
+"wu4 yong4",
+"to misuse"
+],
+[
+"聪明反被聪明误",
+39450,
+"cong1 ming2 fan3 bei4 cong1 ming2 wu4",
+"a clever person may become the victim of his own ingenuity (idiom); cleverness may overreach itself; too smart for one's own good"
 ]
 ],
 "strokes": [

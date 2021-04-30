@@ -8,101 +8,149 @@
 "words": [
 [
 "本领",
-0,
 5,
 "běnlǐng",
 "skill; ability; capability"
 ],
 [
 "系领带",
-0,
 5,
 "jìlǐngdài",
 "tie a neck tie"
 ],
 [
 "领导",
-0,
 5,
 "lǐngdǎo",
 "to lead; leader; leadership"
 ],
 [
 "领域",
-0,
 5,
 "lǐngyù",
 "domain; sphere; field; area"
 ],
 [
 "带领",
-0,
 6,
 "dàilǐng",
 "to guide; to lead"
 ],
 [
 "纲领",
-0,
 6,
 "gānglǐng",
 "program; guiding principle"
 ],
 [
 "领会",
-0,
 6,
 "lǐnghuì",
 "understand; comprehend; grasp"
 ],
 [
 "领事馆",
-0,
 6,
 "lǐngshìguǎn",
 "consulate"
 ],
 [
 "领土",
-0,
 6,
 "lǐngtǔ",
 "territory"
 ],
 [
 "领悟",
-0,
 6,
 "lǐngwù",
 "comprehend; grasp; fathom"
 ],
 [
 "领先",
-0,
 6,
 "lǐngxiān",
 "leadership; to lead; be in front"
 ],
 [
 "领袖",
-0,
 6,
 "lǐngxiù",
 "leader"
 ],
 [
 "率领",
-0,
 6,
 "shuàilǐng",
 "lead; command; head"
 ],
 [
 "占领",
-0,
 6,
 "zhànlǐng",
 "occupy (a territory); capture; seize"
+]
+],
+"extraWords": [
+[
+"领",
+2533,
+"ling3",
+"neck; collar; to lead; to receive"
+],
+[
+"领带",
+4002,
+"ling3 dai4",
+"neck tie"
+],
+[
+"领养",
+4957,
+"ling3 yang3",
+"adoption; to adopt a child"
+],
+[
+"首领",
+6410,
+"shou3 ling3",
+"head; boss; chief"
+],
+[
+"领地",
+7874,
+"ling3 di4",
+"territory"
+],
+[
+"领导者",
+7922,
+"ling3 dao4 zhe3",
+"leader"
+],
+[
+"领导人",
+9042,
+"ling3 dao3 ren2",
+"leader"
+],
+[
+"领队",
+11926,
+"ling3 dui4",
+"to lead a group; leader of a group; captain (of sports squad)"
+],
+[
+"领头",
+12470,
+"ling3 tou2",
+"to take the lead; to be first to start"
+],
+[
+"认领",
+14023,
+"ren4 ling3",
+"to claim (as one's property); to accept (an illegitimate child as one's own)"
 ]
 ],
 "strokes": [

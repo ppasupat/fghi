@@ -8,101 +8,149 @@
 "words": [
 [
 "工作",
-0,
 1,
 "gōngzuò",
 "work; a job"
 ],
 [
 "工资",
-0,
 4,
 "gōngzī",
 "wages; pay; earnings; salary"
 ],
 [
 "打工",
-0,
 5,
 "dǎgōng",
 "work a part time job; (regional) do manual labor; do odd jobs"
 ],
 [
 "工厂",
-0,
 5,
 "gōngchǎng",
 "factory"
 ],
 [
 "工程师",
-0,
 5,
 "gōngchéngshī",
 "engineer"
 ],
 [
 "工具",
-0,
 5,
 "gōngjù",
 "tool; instrument; utensil"
 ],
 [
 "工人",
-0,
 5,
 "gōngrén",
 "worker"
 ],
 [
 "工业",
-0,
 5,
 "gōngyè",
 "industry"
 ],
 [
 "手工",
-0,
 5,
 "shǒugōng",
 "hand-made; handicraft; manual"
 ],
 [
 "员工",
-0,
 5,
 "yuángōng",
 "employee; staff; personnel"
 ],
 [
 "罢工",
-0,
 6,
 "bà gōng",
 "to strike; go on strike"
 ],
 [
 "工艺品",
-0,
 6,
 "gōngyìpǐn",
 "handicraft; handiwork"
 ],
 [
 "加工",
-0,
 6,
 "jiā gōng",
 "to process; processing; machining"
 ],
 [
 "人工",
-0,
 6,
 "réngōng",
 "man-made; manpower; manual work"
+]
+],
+"extraWords": [
+[
+"特工",
+1690,
+"te4 gong1",
+"secret service; special service"
+],
+[
+"工",
+2243,
+"gong1",
+"work; worker; skill; profession; trade; craft; labor"
+],
+[
+"工作室",
+4310,
+"gong1 zuo4 shi4",
+"studio; workshop"
+],
+[
+"工程",
+4688,
+"gong1 cheng2",
+"engineering; an engineering project; project; undertaking"
+],
+[
+"开工",
+5603,
+"kai1 gong1",
+"to begin work (of a factory or engineering operation); to start a construction job"
+],
+[
+"清洁工",
+6971,
+"qing1 jie2 gong1",
+"cleaner; janitor; garbage collector"
+],
+[
+"工会",
+7659,
+"gong1 hui4",
+"labor union; trade union"
+],
+[
+"工地",
+8009,
+"gong1 di4",
+"construction site"
+],
+[
+"矿工",
+8508,
+"kuang4 gong1",
+"miner"
+],
+[
+"完工",
+8795,
+"wan2 gong1",
+"to finish work; to complete a project"
 ]
 ],
 "strokes": [

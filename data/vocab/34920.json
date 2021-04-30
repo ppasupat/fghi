@@ -8,115 +8,161 @@
 "words": [
 [
 "手表",
-0,
 2,
 "shǒubiǎo",
 "wristwatch"
 ],
 [
 "表格",
-0,
 4,
 "biǎogé",
 "form (document)"
 ],
 [
 "表示",
-0,
 4,
 "biǎoshì",
 "express; show; indicate"
 ],
 [
 "表演",
-0,
 4,
 "biǎoyǎn",
 "perform; to play"
 ],
 [
 "表扬",
-0,
 4,
 "biǎoyáng",
 "to praise; commend"
 ],
 [
 "表达",
-0,
 5,
 "biǎodá",
 "to express; to voice; convey"
 ],
 [
 "表面",
-0,
 5,
 "biǎomiàn",
 "surface; outside; face"
 ],
 [
 "表明",
-0,
 5,
 "biǎomíng",
 "make clear; make known"
 ],
 [
 "表情",
-0,
 5,
 "biǎoqíng",
 "(facial) expression; express one's feelings"
 ],
 [
 "表现",
-0,
 5,
 "biǎoxiàn",
 "to show; to show off; display; performance"
 ],
 [
 "代表",
-0,
 5,
 "dàibiǎo",
 "represent; to delegate"
 ],
 [
 "发表",
-0,
 5,
 "fābiǎo",
 "publish; to issue (a statement); announce"
 ],
 [
 "表决",
-0,
 6,
 "biǎojué",
 "decide by vote; vote"
 ],
 [
 "表态",
-0,
 6,
 "biǎotài",
 "make known one's position; declare where one stands"
 ],
 [
 "表彰",
-0,
 6,
 "biǎozhāng",
 "cite (in dispatches); commend"
 ],
 [
 "外表",
-0,
 6,
 "wàibiǎo",
 "outward appearance; external; outside"
+]
+],
+"extraWords": [
+[
+"表",
+1762,
+"biao3",
+"a wrist watch or pocket watch; exterior surface; family relationship via females; to show (one's opinion); a model; a table (listing information); a form; a meter (measuring sth)"
+],
+[
+"表弟",
+6070,
+"biao3 di4",
+"younger male cousin via female line"
+],
+[
+"时间表",
+7624,
+"shi2 jian4 biao3",
+"schedule; timetable"
+],
+[
+"表妹",
+8029,
+"biao3 mei4",
+"younger female cousin via female line"
+],
+[
+"表哥",
+8677,
+"biao3 ge1",
+"older male cousin via female line"
+],
+[
+"列表",
+10594,
+"lie4 biao3",
+"list"
+],
+[
+"日程表",
+10664,
+"ri4 cheng2 biao3",
+"daily schedule"
+],
+[
+"图表",
+11043,
+"tu2 biao3",
+"chart; diagram"
+],
+[
+"申请表",
+11204,
+"shen1 qing3 biao3",
+"application form"
+],
+[
+"怀表",
+11590,
+"huai2 biao3",
+"pocket watch"
 ]
 ],
 "strokes": [

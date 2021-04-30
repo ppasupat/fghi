@@ -8,101 +8,149 @@
 "words": [
 [
 "好",
-0,
 1,
 "hǎo",
 "good"
 ],
 [
 "好吃",
-0,
 2,
 "hǎochī",
 "tasty"
 ],
 [
 "爱好",
-0,
 3,
 "àihào",
 "hobby; fond of; to like; interest"
 ],
 [
 "好处",
-0,
 4,
 "hǎochu",
 "benefit; advantage"
 ],
 [
 "好像",
-0,
 4,
 "hǎoxiàng",
 "as if; seem to be"
 ],
 [
 "友好",
-0,
 4,
 "yǒuhǎo",
 "friendly (relations); close friends"
 ],
 [
 "正好",
-0,
 4,
 "zhènghǎo",
 "just (in time); just right; just enough; happen to; by chance"
 ],
 [
 "只好",
-0,
 4,
 "zhǐhǎo",
 "have to; be forced to"
 ],
 [
 "最好",
-0,
 4,
 "zuìhǎo",
 "the best; had better ...; it would be best"
 ],
 [
 "好客",
-0,
 5,
 "hàokè",
 "hospitable; to enjoy having guests"
 ],
 [
 "好奇",
-0,
 5,
 "hàoqí",
 "curious"
 ],
 [
 "良好",
-0,
 5,
 "liánghǎo",
 "good; favorable; well"
 ],
 [
 "恰到好处",
-0,
 6,
 "qià dào hǎo chù",
 "just right; it's just perfect"
 ],
 [
 "讨好",
-0,
 6,
 "tǎohǎo",
 "to flatter"
+]
+],
+"extraWords": [
+[
+"好好",
+437,
+"hao3 hao3",
+"good; nicely; properly"
+],
+[
+"不好意思",
+669,
+"bu4 hao3 yi4 si5",
+"to feel embarrassed; to be ill at ease; to find it embarrassing (to do sth)"
+],
+[
+"不好",
+704,
+"bu4 hao3",
+"no good"
+],
+[
+"好运",
+945,
+"hao3 yun4",
+"good luck"
+],
+[
+"美好",
+1282,
+"mei3 hao3",
+"happy; fine; OK"
+],
+[
+"好事",
+1432,
+"hao3 shi4",
+"\"good action, deed, thing or work (also sarcastic, \"\"a fine thing indeed\"\"); charity; happy occasion; Daoist or Buddhist ceremony for the souls of the dead\""
+],
+[
+"好几",
+1591,
+"hao3 ji3",
+"several; quite a few"
+],
+[
+"好莱坞",
+1603,
+"Hao3 lai2 wu4",
+"Hollywood"
+],
+[
+"好多",
+1966,
+"hao3 duo1",
+"many; quite a lot; much better"
+],
+[
+"好看",
+1990,
+"hao3 kan4",
+"good-looking"
 ]
 ],
 "strokes": [

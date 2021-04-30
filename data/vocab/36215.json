@@ -8,108 +8,155 @@
 "words": [
 [
 "对不起",
-0,
 1,
 "duìbuqǐ",
 "sorry"
 ],
 [
 "起床",
-0,
 2,
 "qǐ chuáng",
 "get out of bed"
 ],
 [
 "一起",
-0,
 2,
 "yìqǐ",
 "together; in the same place"
 ],
 [
 "起飞",
-0,
 3,
 "qǐfēi",
 "take off (in an airplane); liftoff"
 ],
 [
 "起来",
-0,
 3,
 "qǐlai",
 "(beginning or continuing an action); to rise; get up (from bed)"
 ],
 [
 "引起",
-0,
 4,
 "yǐnqǐ",
 "give rise to; lead to; to cause; arouse"
 ],
 [
 "看不起",
-0,
 5,
 "kàn bu qǐ",
 "look down upon; despise"
 ],
 [
 "了不起",
-0,
 5,
 "liǎobuqǐ",
 "incredible; extraordinary; great; amazing"
 ],
 [
 "起草",
-0,
 6,
 "qǐ cǎo",
 "draft (a bill); draw up (plans)"
 ],
 [
 "起初",
-0,
 6,
 "qǐchū",
 "at first; originally; in the beginning"
 ],
 [
 "起伏",
-0,
 6,
 "qǐfú",
 "ups and downs; with a wavy motion"
 ],
 [
 "起哄",
-0,
 6,
 "qǐ hòng",
 "gather together; cause a commotion"
 ],
 [
 "起码",
-0,
 6,
 "qǐmǎ",
 "at the minimum; at the very least"
 ],
 [
 "起源",
-0,
 6,
 "qǐyuán",
 "origin; originate; come from"
 ],
 [
 "掀起",
-0,
 6,
 "xiānqǐ",
 "lift; raise in height"
+]
+],
+"extraWords": [
+[
+"起",
+204,
+"qi3",
+"\"to rise; to raise; to get up; to set out; to start; to appear; to launch; to initiate (action); to draft; to establish; to get (from a depot or counter); verb suffix, to start; (before place or time) starting from; classifier for occurrences or unpredictable events: case, instance; classifier for groups: batch, group\""
+],
+[
+"想起",
+1487,
+"xiang3 qi3",
+"to recall; to think of; to call to mind"
+],
+[
+"起诉",
+1526,
+"qi3 su4",
+"to sue; to bring a lawsuit against"
+],
+[
+"看起来",
+3071,
+"kan4 qi3 lai2",
+"seemingly; apparently; looks as if; appear to be; gives the impression that; seems on the face of it to be"
+],
+[
+"提起",
+3570,
+"ti2 qi3",
+"\"to mention; to speak of; to lift; to pick up; to arouse; to raise (a topic, a heavy weight, one's fist, one's spirits etc)\""
+],
+[
+"起立",
+5074,
+"qi3 li4",
+"to stand; Stand up!"
+],
+[
+"挑起",
+6564,
+"tiao3 qi3",
+"to provoke; to stir up; to incite"
+],
+[
+"升起",
+6638,
+"sheng1 qi3",
+"to raise; to hoist; to rise"
+],
+[
+"举起",
+6828,
+"ju3 qi3",
+"to heave; to lift; to raise up; to uphold"
+],
+[
+"发起",
+6927,
+"fa1 qi3",
+"\"to originate; to initiate; to launch (an attack, an initiative etc); to start; to propose sth (for the first time)\""
 ]
 ],
 "strokes": [

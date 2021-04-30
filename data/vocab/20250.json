@@ -8,122 +8,167 @@
 "words": [
 [
 "会",
-0,
 1,
 "huì",
 "know how to"
 ],
 [
 "会议",
-0,
 3,
 "huìyì",
 "meeting; conference"
 ],
 [
 "机会",
-0,
 3,
 "jīhuì",
 "opportunity; chance; occasion"
 ],
 [
 "一会儿",
-0,
 3,
 "yíhuìr",
 "a while; a moment"
 ],
 [
 "聚会",
-0,
 4,
 "jùhuì",
 "hold a meeting; get together; a party"
 ],
 [
 "社会",
-0,
 4,
 "shèhuì",
 "society"
 ],
 [
 "误会",
-0,
 4,
 "wùhuì",
 "to misunderstand; to mistake"
 ],
 [
 "约会",
-0,
 4,
 "yuēhuì",
 "appointment; engagement; date"
 ],
 [
 "会计",
-0,
 5,
 "kuàijì",
 "accountant; accounting"
 ],
 [
 "体会",
-0,
 5,
 "tǐhuì",
 "know from experience; learn through experience; realize; understanding; experience"
 ],
 [
 "宴会",
-0,
 5,
 "yànhuì",
 "banquet; feast; dinner party"
 ],
 [
 "博览会",
-0,
 6,
 "bólǎnhuì",
 "(international) exhibition"
 ],
 [
 "会晤",
-0,
 6,
 "huìwù",
 "meet; meeting; conference"
 ],
 [
 "聚精会神",
-0,
 6,
 "jù jīng huì shén",
 "concentrate one's attention"
 ],
 [
 "领会",
-0,
 6,
 "lǐnghuì",
 "understand; comprehend; grasp"
 ],
 [
 "省会",
-0,
 6,
 "shěnghuì",
 "provincial capital"
 ],
 [
 "协会",
-0,
 6,
 "xiéhuì",
 "an association; a society"
+]
+],
+"extraWords": [
+[
+"舞会",
+1505,
+"wu3 hui4",
+"dance; ball; party"
+],
+[
+"委员会",
+2145,
+"wei3 yuan2 hui4",
+"committee"
+],
+[
+"学会",
+2180,
+"xue2 hui4",
+"to learn; to master; institute; learned society; (scholarly) association"
+],
+[
+"一会",
+2396,
+"yi1 hui4",
+"\"a moment, a while\""
+],
+[
+"会见",
+2951,
+"hui4 jian4",
+"to meet with (sb who is paying a visit)"
+],
+[
+"会面",
+3024,
+"hui4 mian4",
+"meet with; have a meeting"
+],
+[
+"晚会",
+3278,
+"wan3 hui4",
+"evening party"
+],
+[
+"不会",
+3316,
+"bu4 hui4",
+"\"improbable; unlikely; will not (act, happen etc); not able; not having learned to do sth\""
+],
+[
+"大会",
+3318,
+"da4 hui4",
+"general assembly; general meeting; convention"
+],
+[
+"教会",
+3397,
+"jiao4 hui4",
+"Christian church"
 ]
 ],
 "strokes": [

@@ -8,24 +8,83 @@
 "words": [
 [
 "告诉",
-0,
 2,
 "gàosu",
 "to tell; inform"
 ],
 [
 "诉讼",
-0,
 6,
 "sùsòng",
 "lawsuit"
 ],
 [
 "投诉",
-0,
 6,
 "tóusù",
 "make a complaint; appeal to a court"
+]
+],
+"extraWords": [
+[
+"起诉",
+1526,
+"qi3 su4",
+"to sue; to bring a lawsuit against"
+],
+[
+"上诉",
+5630,
+"shang4 su4",
+"appeal (a judicial case)"
+],
+[
+"倾诉",
+6795,
+"qing1 su4",
+"to say everything (that is on one's mind)"
+],
+[
+"诉",
+7231,
+"su4",
+"complain; sue; tell"
+],
+[
+"控诉",
+7913,
+"kong4 su4",
+"accuse; denounce"
+],
+[
+"申诉",
+13773,
+"shen1 su4",
+"to appeal (to sb)"
+],
+[
+"公诉",
+14538,
+"gong1 su4",
+"public charges (legal)"
+],
+[
+"诉说",
+15761,
+"su4 shuo1",
+"to tell sb"
+],
+[
+"哭诉",
+16951,
+"ku1 su4",
+"to lament; to complain tearfully; to wail accusingly"
+],
+[
+"败诉",
+20307,
+"bai4 su4",
+"lose a lawsuit"
 ]
 ],
 "strokes": [

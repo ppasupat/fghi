@@ -8,10 +8,71 @@
 "words": [
 [
 "楼",
-0,
 3,
 "lóu",
 "story; floor; (multi-story) building"
+]
+],
+"extraWords": [
+[
+"大楼",
+2048,
+"da4 lou2",
+"large building"
+],
+[
+"楼上",
+2498,
+"lou2 shang4",
+"upstairs"
+],
+[
+"楼下",
+2751,
+"lou2 xia4",
+"downstairs"
+],
+[
+"楼梯",
+2778,
+"lou2 ti1",
+"stair; staircase"
+],
+[
+"阁楼",
+5304,
+"ge2 lou2",
+"garret; loft; attic"
+],
+[
+"上楼",
+6742,
+"shang4 lou2",
+"to go upstairs"
+],
+[
+"五角大楼",
+7927,
+"wu3 jiao3 da4 lou2",
+"the Pentagon"
+],
+[
+"楼层",
+10444,
+"lou2 ceng2",
+"floor of building"
+],
+[
+"塔楼",
+16956,
+"ta3 lou2",
+"tower (of building)"
+],
+[
+"公寓楼",
+17133,
+"gong1 yu4 lou2",
+"apartment building"
 ]
 ],
 "strokes": [

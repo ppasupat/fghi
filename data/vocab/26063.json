@@ -8,24 +8,83 @@
 "words": [
 [
 "民族",
-0,
 4,
 "mínzú",
 "nationality; ethnic group"
 ],
 [
 "贵族",
-0,
 6,
 "guìzú",
 "lord; nobility; nobleman; noblewoman"
 ],
 [
 "种族",
-0,
 6,
 "zhǒngzú",
 "race; ethnicity"
+]
+],
+"extraWords": [
+[
+"家族",
+1509,
+"jia1 zu2",
+"household; clan"
+],
+[
+"族",
+3293,
+"zu2",
+"\"race; nationality; ethnicity; clan; by extension, social group (e.g. office workers 上班族)\""
+],
+[
+"种族主义",
+8130,
+"zhong3 zu2 zhu3 yi4",
+"racism"
+],
+[
+"部族",
+11151,
+"bu4 zu2",
+"tribe; tribal"
+],
+[
+"种族歧视",
+11902,
+"zhong3 zu2 qi2 shi4",
+"racial discrimination; racism; Jim Crowism; color bar; color line"
+],
+[
+"水族馆",
+16160,
+"shui3 zu2 guan3",
+"aquarium (building or park)"
+],
+[
+"族群",
+18016,
+"zu2 qun2",
+"ethnic group; community"
+],
+[
+"皇族",
+19958,
+"huang2 zu2",
+"the imperial family; royal kin"
+],
+[
+"少数民族",
+20443,
+"shao3 shu4 min2 zu2",
+"national minority; ethnic group"
+],
+[
+"塞族",
+22488,
+"Sai1 zu2",
+"Serb nationality; ethnic Serb; Serbs"
 ]
 ],
 "strokes": [

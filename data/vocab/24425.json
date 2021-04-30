@@ -8,45 +8,101 @@
 "words": [
 [
 "精彩",
-0,
 4,
 "jīngcǎi",
 "brilliant; spectacular; wonderful"
 ],
 [
 "彩虹",
-0,
 5,
 "cǎihóng",
 "rainbow"
 ],
 [
 "色彩",
-0,
 5,
 "sècǎi",
 "tint; color; hue"
 ],
 [
 "彩票",
-0,
 6,
 "cǎipiào",
 "lottery; lottery ticket"
 ],
 [
 "光彩",
-0,
 6,
 "guāngcǎi",
 "splendor; radiance; brilliance; honor"
 ],
 [
 "剪彩",
-0,
 6,
 "jiǎn cǎi",
 "cut the ribbon at an opening ceremony"
+]
+],
+"extraWords": [
+[
+"彩",
+4791,
+"cai3",
+"(bright) color; variety; applause; applaud; (lottery) prize"
+],
+[
+"彩排",
+5880,
+"cai3 pai2",
+"dress rehearsal"
+],
+[
+"喝彩",
+8817,
+"he4 cai3",
+"to acclaim; to cheer"
+],
+[
+"彩色",
+10479,
+"cai3 se4",
+"color; multi-colored"
+],
+[
+"云彩",
+16914,
+"yun2 cai5",
+"cloud (colored by the rising or setting sun)"
+],
+[
+"多姿多彩",
+19571,
+"duo1 zi1 duo1 cai3",
+"diversity (of forms and colors)"
+],
+[
+"丰富多彩",
+19785,
+"feng1 fu4 duo1 cai3",
+"richly colorful"
+],
+[
+"光彩夺目",
+21332,
+"guang1 cai3 duo2 mu4",
+"dazzling; brilliant"
+],
+[
+"异彩",
+26120,
+"yi4 cai3",
+"extraordinary splendor"
+],
+[
+"倒彩",
+27186,
+"dao4 cai3",
+"\"adverse audience reaction: boos and jeers, hissing, catcalls or deliberate applause after a mistake\""
 ]
 ],
 "strokes": [

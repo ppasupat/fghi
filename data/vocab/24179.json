@@ -8,129 +8,173 @@
 "words": [
 [
 "水平",
-0,
 3,
 "shuǐpíng",
 "level; standard; horizontal"
 ],
 [
 "平时",
-0,
 4,
 "píngshí",
 "ordinarily; in normal times; in peacetime"
 ],
 [
 "公平",
-0,
 5,
 "gōngpíng",
 "fair; impartial; just"
 ],
 [
 "和平",
-0,
 5,
 "hépíng",
 "peace"
 ],
 [
 "平",
-0,
 5,
 "píng",
 "flat; level; equal; ordinary"
 ],
 [
 "平安",
-0,
 5,
 "píng'ān",
 "safe and sound"
 ],
 [
 "平常",
-0,
 5,
 "píngcháng",
 "ordinary; usually; common"
 ],
 [
 "平等",
-0,
 5,
 "píngděng",
 "equal; equality"
 ],
 [
 "平方",
-0,
 5,
 "píngfāng",
 "square (as in square foot, square mile, etc.)"
 ],
 [
 "平衡",
-0,
 5,
 "pínghéng",
 "balance; balanced; equilibrium"
 ],
 [
 "平静",
-0,
 5,
 "píngjìng",
 "calm; peaceful; tranquil; serene"
 ],
 [
 "平均",
-0,
 5,
 "píngjūn",
 "average; to share equally"
 ],
 [
 "平凡",
-0,
 6,
 "píngfán",
 "commonplace; ordinary"
 ],
 [
 "平面",
-0,
 6,
 "píngmiàn",
 "a plane (i.e. flat surface); type; category"
 ],
 [
 "平坦",
-0,
 6,
 "píngtǎn",
 "flat"
 ],
 [
 "平行",
-0,
 6,
 "píngxíng",
 "parallel; concurrent"
 ],
 [
 "平庸",
-0,
 6,
 "píngyōng",
 "mediocre"
 ],
 [
 "平原",
-0,
 6,
 "píngyuán",
 "field; plain; flatlands"
+]
+],
+"extraWords": [
+[
+"平民",
+4287,
+"ping2 min2",
+"ordinary people; commoner; civilian"
+],
+[
+"摆平",
+5556,
+"bai3 ping2",
+"to be fair; to be impartial"
+],
+[
+"太平洋",
+6064,
+"Tai4 ping2 yang2",
+"the Pacific Ocean"
+],
+[
+"平台",
+7395,
+"ping2 tai2",
+"platform; terrace; flat-roofed building"
+],
+[
+"平息",
+9274,
+"ping2 xi1",
+"settle (a dispute); quiet down; suppress"
+],
+[
+"平局",
+10542,
+"ping2 ju2",
+"a draw (in competition); a tie"
+],
+[
+"平分",
+11243,
+"ping2 fen1",
+"divide equally"
+],
+[
+"平和",
+11878,
+"ping2 he2",
+"(N) Pinghe (place in Fujian); gentle; mild; moderate; placid"
+],
+[
+"太平",
+12579,
+"tai4 ping2",
+"peace and security"
+],
+[
+"平稳",
+13326,
+"ping2 wen3",
+"smooth; steady"
 ]
 ],
 "strokes": [

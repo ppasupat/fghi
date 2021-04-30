@@ -8,10 +8,71 @@
 "words": [
 [
 "象棋",
-0,
 5,
 "xiàngqí",
 "chess; Chinese chess"
+]
+],
+"extraWords": [
+[
+"棋",
+9588,
+"qi2",
+"chess"
+],
+[
+"下棋",
+11704,
+"xia4 qi2",
+"to play chess"
+],
+[
+"棋子",
+11891,
+"qi2 zi5",
+"chess piece"
+],
+[
+"棋盘",
+16005,
+"qi2 pan2",
+"chessboard"
+],
+[
+"国际象棋",
+17745,
+"guo2 ji4 xiang4 qi2",
+"chess"
+],
+[
+"围棋",
+29355,
+"wei2 qi2",
+"the game of Go"
+],
+[
+"棋手",
+43458,
+"qi2 shou3",
+"chess player"
+],
+[
+"棋谱",
+63971,
+"qi2 pu3",
+"kifu (record of a game of go or shogi)"
+],
+[
+"五子棋",
+70422,
+"wu3 zi3 qi2",
+"five-in-a-row (game similar to tic-tac-toe); Japanese: gomoku; gobang"
+],
+[
+"棋王",
+85176,
+"qi2 wang2",
+"chess champion"
 ]
 ],
 "strokes": [

@@ -8,171 +8,209 @@
 "words": [
 [
 "打电话",
-0,
 1,
 "dǎ diànhuà",
 "make a phone call"
 ],
 [
 "打篮球",
-0,
 2,
 "dǎ lánqiú",
 "play basketball"
 ],
 [
 "打扫",
-0,
 3,
 "dǎsǎo",
 "to clean; to sweep"
 ],
 [
 "打算",
-0,
 3,
 "dǎsuàn",
 "to plan; intend"
 ],
 [
 "打扮",
-0,
 4,
 "dǎban",
 "dress up; put on make up"
 ],
 [
 "打扰",
-0,
 4,
 "dǎrǎo",
 "disturb"
 ],
 [
 "打印",
-0,
 4,
 "dǎyìn",
 "to print"
 ],
 [
 "打招呼",
-0,
 4,
 "dǎzhāohu",
 "notify; greet; inform"
 ],
 [
 "打折",
-0,
 4,
 "dǎzhé",
 "sell at a discount"
 ],
 [
 "打针",
-0,
 4,
 "dǎzhēn",
 "inject; get a shot"
 ],
 [
 "打工",
-0,
 5,
 "dǎgōng",
 "work a part time job; (regional) do manual labor; do odd jobs"
 ],
 [
 "打交道",
-0,
 5,
 "dǎ jiāodao",
 "come into contact with; to deal with"
 ],
 [
 "打喷嚏",
-0,
 5,
 "dǎpēntì",
 "to sneeze"
 ],
 [
 "打听",
-0,
 5,
 "dǎting",
 "ask about; inquire about"
 ],
 [
 "打包",
-0,
 6,
 "dǎbāo",
 "get a doggy bag (at a restaurant); pack up"
 ],
 [
 "打官司",
-0,
 6,
 "dǎ guānsi",
 "go to court"
 ],
 [
 "打击",
-0,
 6,
 "dǎjī",
 "to strike; to hit; to attack"
 ],
 [
 "打架",
-0,
 6,
 "dǎ jià",
 "to fight; scuffle; to come to blows"
 ],
 [
 "打量",
-0,
 6,
 "dǎliang",
 "take measure of; size up"
 ],
 [
 "打猎",
-0,
 6,
 "dǎ liè",
 "hunt; to go hunting"
 ],
 [
 "打仗",
-0,
 6,
 "dǎzhàng",
 "fight; go to war; fight a battle"
 ],
 [
 "精打细算",
-0,
 6,
 "jīng dǎ xì suàn",
 "(saying) meticulous planning and careful accounting"
 ],
 [
 "殴打",
-0,
 6,
 "ōudǎ",
 "beat up; hit"
 ],
 [
 "无精打采",
-0,
 6,
 "wújīngdǎcǎi",
 "listless; be dispirited; in low spirits"
+]
+],
+"extraWords": [
+[
+"打",
+136,
+"da2/da3",
+"dozen; to beat; to strike; to hit; to break; to type; to mix up; to build; to fight; to fetch; to make; to tie up; to issue; to shoot; to calculate; since; from"
+],
+[
+"打开",
+651,
+"da3 kai1",
+"to open; to show (a ticket); to turn on; to switch on"
+],
+[
+"打赌",
+1683,
+"da3 du3",
+"to bet; to make a bet; a wager"
+],
+[
+"打败",
+1999,
+"da3 bai4",
+"to defeat; to overpower; to beat; to suffer a defeat; to be defeated"
+],
+[
+"打断",
+2568,
+"da3 duan4",
+"to interrupt; to break off; to break (a bone)"
+],
+[
+"打破",
+2968,
+"da3 po4",
+"to break; to smash"
+],
+[
+"打球",
+3631,
+"da3 qiu2",
+"to play (with a) ball"
+],
+[
+"打搅",
+4363,
+"da3 jiao3",
+"to disturb; to trouble"
+],
+[
+"打动",
+4873,
+"da3 dong4",
+"to move (to pity); arousing (sympathy); touching"
+],
+[
+"打倒",
+5207,
+"da3 dao3",
+"flatten"
 ]
 ],
 "strokes": [

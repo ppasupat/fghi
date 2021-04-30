@@ -8,24 +8,83 @@
 "words": [
 [
 "冰箱",
-0,
 3,
 "bīngxiāng",
 "refrigerator"
 ],
 [
 "冰激凌",
-0,
 5,
 "bīngjīlíng",
 "ice cream"
 ],
 [
 "冰雹",
-0,
 6,
 "bīngbáo",
 "hail"
+]
+],
+"extraWords": [
+[
+"冰",
+1695,
+"bing1",
+"ice"
+],
+[
+"冰淇淋",
+3734,
+"bing1 qi2 lin2",
+"ice cream"
+],
+[
+"冰块",
+6262,
+"bing1 kuai4",
+"ice cube; ice chunk"
+],
+[
+"滑冰",
+6784,
+"hua2 bing1",
+"to skate; skating"
+],
+[
+"冰球",
+7546,
+"bing1 qiu2",
+"ice hockey; puck"
+],
+[
+"冰冷",
+7651,
+"bing1 leng3",
+"ice-cold"
+],
+[
+"冰冻",
+8519,
+"bing1 dong4",
+"to freeze"
+],
+[
+"溜冰",
+8558,
+"liu1 bing1",
+"ice skating; also written 滑冰"
+],
+[
+"冰山",
+11035,
+"bing1 shan1",
+"iceberg; CL:座[zuo4]"
+],
+[
+"冰川",
+11442,
+"bing1 chuan1",
+"glacier"
 ]
 ],
 "strokes": [

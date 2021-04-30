@@ -8,115 +8,161 @@
 "words": [
 [
 "精彩",
-0,
 4,
 "jīngcǎi",
 "brilliant; spectacular; wonderful"
 ],
 [
 "精力",
-0,
 5,
 "jīnglì",
 "energy; vigor"
 ],
 [
 "精神",
-0,
 5,
 "jīngshen",
 "vigor; spirit; mind"
 ],
 [
 "博大精深",
-0,
 6,
 "bódàjīngshēn",
 "broad and profound"
 ],
 [
 "精打细算",
-0,
 6,
 "jīng dǎ xì suàn",
 "(saying) meticulous planning and careful accounting"
 ],
 [
 "精华",
-0,
 6,
 "jīnghuá",
 "elite; best feature; most important part of an object; essence; quintessence"
 ],
 [
 "精简",
-0,
 6,
 "jīngjiǎn",
 "simplify; reduce"
 ],
 [
 "精密",
-0,
 6,
 "jīngmì",
 "accuracy; exact; precise; refined"
 ],
 [
 "精确",
-0,
 6,
 "jīngquè",
 "accurate; precise"
 ],
 [
 "精通",
-0,
 6,
 "jīngtōng",
 "proficient; have a good command of"
 ],
 [
 "精心",
-0,
 6,
 "jīngxīn",
 "with utmost care; meticulous; detailed"
 ],
 [
 "精益求精",
-0,
 6,
 "jīng yì qiú jīng",
 "(saying) improving and wanting to improve even more"
 ],
 [
 "精致",
-0,
 6,
 "jīngzhì",
 "exquisite; delicate; refined"
 ],
 [
 "酒精",
-0,
 6,
 "jiǔjīng",
 "alcohol; ethanol"
 ],
 [
 "聚精会神",
-0,
 6,
 "jù jīng huì shén",
 "concentrate one's attention"
 ],
 [
 "无精打采",
-0,
 6,
 "wújīngdǎcǎi",
 "listless; be dispirited; in low spirits"
+]
+],
+"extraWords": [
+[
+"精",
+3438,
+"jing1",
+"refined (rice); the most refined; spirit; soul; vitality; energy; semen; sperm; mythical goblin spirit; highly perfected; elite; the pick of sth; proficient (refined ability); extremely (fine)"
+],
+[
+"精灵",
+3611,
+"jing1 ling2",
+"spirit; fairy"
+],
+[
+"精神病",
+3990,
+"jing1 shen2 bing4",
+"mental disorder; psychosis"
+],
+[
+"精子",
+5855,
+"jing1 zi3",
+"sperm; spermatozoon"
+],
+[
+"精英",
+5933,
+"jing1 ying1",
+"cream; elite; essence; quintessence"
+],
+[
+"精液",
+7057,
+"jing1 ye4",
+"semen"
+],
+[
+"妖精",
+8237,
+"yao1 jing5",
+"evil spirit; alluring woman"
+],
+[
+"精疲力尽",
+8835,
+"jing1 pi2 li4 jin4",
+"\"spirit weary, strength exhausted (idiom); spent; drained; washed out\""
+],
+[
+"精明",
+8915,
+"jing1 ming2",
+"astute; skilled"
+],
+[
+"精美",
+11074,
+"jing1 mei3",
+"delicate; fine; refinement"
 ]
 ],
 "strokes": [

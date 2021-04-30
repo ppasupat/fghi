@@ -8,143 +8,185 @@
 "words": [
 [
 "解决",
-0,
 3,
 "jiějué",
 "settle (a dispute); resolve; solve"
 ],
 [
 "了解",
-0,
 3,
 "liǎojiě",
 "comprehend; understand; know; find out"
 ],
 [
 "解释",
-0,
 4,
 "jiěshì",
 "to explain"
 ],
 [
 "理解",
-0,
 4,
 "lǐjiě",
 "comprehend; understand"
 ],
 [
 "缓解",
-0,
 5,
 "huǎnjiě",
 "to alleviate"
 ],
 [
 "辩解",
-0,
 6,
 "biànjiě",
 "explain; justify; defend (a point of view, etc.)"
 ],
 [
 "分解",
-0,
 6,
 "fēnjiě",
 "to decompose; to resolve; to break down"
 ],
 [
 "和解",
-0,
 6,
 "héjiě",
 "settlement; to become reconciled"
 ],
 [
 "见解",
-0,
 6,
 "jiànjiě",
 "view; opinion; understanding"
 ],
 [
 "解除",
-0,
 6,
 "jiěchú",
 "remove; relieve (someone of their duties); sack; get rid of"
 ],
 [
 "解放",
-0,
 6,
 "jiěfàng",
 "liberate"
 ],
 [
 "解雇",
-0,
 6,
 "jiěgù",
 "fire; lay off; dismiss from"
 ],
 [
 "解剖",
-0,
 6,
 "jiěpōu",
 "dissect; analyze; anatomy"
 ],
 [
 "解散",
-0,
 6,
 "jiěsàn",
 "dismiss; dissolve; disband"
 ],
 [
 "解体",
-0,
 6,
 "jiětǐ",
 "disintegrate"
 ],
 [
 "谅解",
-0,
 6,
 "liàngjiě",
 "understanding; make an allowance for; forgive"
 ],
 [
 "溶解",
-0,
 6,
 "róngjiě",
 "dissolve; solution"
 ],
 [
 "调解",
-0,
 6,
 "tiáojiě",
 "mediation; bring together to an agreement"
 ],
 [
 "瓦解",
-0,
 6,
 "wǎjiě",
 "collapse; disintegrate; crumble"
 ],
 [
 "误解",
-0,
 6,
 "wùjiě",
 "misunderstand; misread"
+]
+],
+"extraWords": [
+[
+"解",
+2056,
+"jie3/jie4/xie4",
+"to divide; to break up; to split; to separate; to dissolve; to solve; to melt; to remove; to untie; to loosen; to open; to emancipate; to explain; to understand; to know; a solution; a dissection; transport under guard; surname Xie"
+],
+[
+"解开",
+3208,
+"jie3 kai1",
+"to untie; to undo"
+],
+[
+"解脱",
+4680,
+"jie3 tuo1",
+"relief; to free oneself; to break away from; to extricate oneself; to relieve; to liberate; to emancipate; free; relieved"
+],
+[
+"解救",
+6040,
+"jie3 jiu4",
+"to rescue; to help out of difficulties; to save the situation"
+],
+[
+"破解",
+8707,
+"po4 jie3",
+"to analyze and solve; to sack; to exorcise"
+],
+[
+"解读",
+11080,
+"jie3 du2",
+"to decypher; to decode"
+],
+[
+"解答",
+11995,
+"jie3 da2",
+"answer; explanation; solution (to a math equation)"
+],
+[
+"解密",
+12623,
+"jie3 mi4",
+"to declassify"
+],
+[
+"解冻",
+14146,
+"jie3 dong4",
+"to melt; to thaw; fig. to relax a repressive regime; to defrost"
+],
+[
+"曲解",
+14710,
+"qu1 jie3",
+"distort"
 ]
 ],
 "strokes": [

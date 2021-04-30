@@ -8,101 +8,149 @@
 "words": [
 [
 "讨论",
-0,
 4,
 "tǎolùn",
 "to discuss; discussion; to talk over"
 ],
 [
 "无论",
-0,
 4,
 "wúlùn",
 "no matter what; regardless of whether..."
 ],
 [
 "辩论",
-0,
 5,
 "biànlùn",
 "argue; debate; argue over"
 ],
 [
 "结论",
-0,
 5,
 "jiélùn",
 "conclusion; verdict"
 ],
 [
 "理论",
-0,
 5,
 "lǐlùn",
 "theory"
 ],
 [
 "论文",
-0,
 5,
 "lùnwén",
 "thesis; paper; treatise"
 ],
 [
 "议论",
-0,
 5,
 "yìlùn",
 "discuss; to comment; talk about"
 ],
 [
 "争论",
-0,
 5,
 "zhēnglùn",
 "argue; to dispute; contend; argument"
 ],
 [
 "论坛",
-0,
 6,
 "lùntán",
 "forum"
 ],
 [
 "论证",
-0,
 6,
 "lùnzhèng",
 "prove a point; expound on; argumentation"
 ],
 [
 "评论",
-0,
 6,
 "pínglùn",
 "comment on; discuss; remark"
 ],
 [
 "推论",
-0,
 6,
 "tuīlùn",
 "infer; a deduction; a corollary"
 ],
 [
 "言论",
-0,
 6,
 "yánlùn",
 "expression of (political) opinion; speech"
 ],
 [
 "舆论",
-0,
 6,
 "yúlùn",
 "public opinion"
+]
+],
+"extraWords": [
+[
+"谈论",
+1642,
+"tan2 lun4",
+"to discuss; to talk about"
+],
+[
+"无论如何",
+2125,
+"wu2 lun4 ru2 he2",
+"anyhow; anyway; whatever"
+],
+[
+"不论",
+3079,
+"bu4 lun4",
+"\"whatever; no matter what (who, how etc); regardless of; not to discuss\""
+],
+[
+"论",
+5082,
+"lun2/lun4",
+"the Analects (of Confucius); by the; per; discuss; theory; to talk (about); to discuss"
+],
+[
+"定论",
+11455,
+"ding4 lun4",
+"final conclusion; accepted argument"
+],
+[
+"相提并论",
+13358,
+"xiang1 ti2 bing4 lun4",
+"to discuss two disparate things together (idiom); to mention on equal terms; to place on a par with; (often with negatives: impossible to mention X in the same breath as Y)"
+],
+[
+"评论家",
+13379,
+"ping2 lun4 jia1",
+"critic; reviewer"
+],
+[
+"论点",
+14374,
+"lun4 dian3",
+"argument; line of reasoning; thesis; point (of discussion)"
+],
+[
+"无神论",
+15555,
+"wu2 shen2 lun4",
+"atheism"
+],
+[
+"讨论会",
+18493,
+"tao3 lun4 hui4",
+"symposium; discussion forum"
 ]
 ],
 "strokes": [

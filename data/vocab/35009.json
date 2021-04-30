@@ -8,52 +8,107 @@
 "words": [
 [
 "总裁",
-0,
 5,
 "zǒngcái",
 "director-general; president"
 ],
 [
 "裁缝",
-0,
 6,
 "cáifeng",
 "tailor; dressmaker"
 ],
 [
 "裁判",
-0,
 6,
 "cáipàn",
 "judge; to referee; judgment"
 ],
 [
 "裁员",
-0,
 6,
 "cáiyuán",
 "cut staff; lay off employees"
 ],
 [
 "独裁",
-0,
 6,
 "dúcái",
 "dictatorship"
 ],
 [
 "体裁",
-0,
 6,
 "tǐcái",
 "types or forms of literature"
 ],
 [
 "制裁",
-0,
 6,
 "zhìcái",
 "punish; (economic) sanctions"
+]
+],
+"extraWords": [
+[
+"裁决",
+5525,
+"cai2 jue2",
+"ruling; adjudication"
+],
+[
+"裁",
+10569,
+"cai2",
+"cut out (as a dress); cut; trim; reduce; diminish; decision; judgment"
+],
+[
+"裁定",
+10906,
+"cai2 ding4",
+"ruling"
+],
+[
+"独裁者",
+12697,
+"du2 cai2 zhe3",
+"dictator"
+],
+[
+"仲裁",
+18546,
+"zhong4 cai2",
+"arbitration"
+],
+[
+"裁判员",
+22709,
+"cai2 pan4 yuan2",
+"referee"
+],
+[
+"剪裁",
+25997,
+"jian3 cai2",
+"to tailor (clothes); to trim (expenditure)"
+],
+[
+"裁剪",
+28325,
+"cai2 jian3",
+"to cut out"
+],
+[
+"裁减",
+34892,
+"cai2 jian3",
+"to reduce; to lessen; to cut down"
+],
+[
+"裁缝店",
+37788,
+"cai2 feng2 dian4",
+"tailor's shop"
 ]
 ],
 "strokes": [

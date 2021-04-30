@@ -8,31 +8,89 @@
 "words": [
 [
 "武术",
-0,
 5,
 "wǔshù",
 "martial arts"
 ],
 [
 "武器",
-0,
 6,
 "wǔqì",
 "weapon; arms"
 ],
 [
 "武侠",
-0,
 6,
 "wǔxiá",
 "knight-errant; a genre of swordplay martial arts movies and books"
 ],
 [
 "武装",
-0,
 6,
 "wǔzhuāng",
 "arms; equipment; to arm"
+]
+],
+"extraWords": [
+[
+"武士",
+4141,
+"wu3 shi4",
+"warrior; samurai"
+],
+[
+"武",
+7625,
+"wu3",
+"martial; military; surname Wu"
+],
+[
+"核武器",
+7938,
+"he2 wu3 qi4",
+"nuclear weapon"
+],
+[
+"武力",
+8665,
+"wu3 li4",
+"(make use of) military force; military force; military power; military might"
+],
+[
+"修武",
+18130,
+"Xiu1 wu3",
+"(N) Xiuwu (place in Henan)"
+],
+[
+"化学武器",
+19083,
+"hua4 xue2 wu3 qi4",
+"chemical weapon"
+],
+[
+"生物武器",
+21156,
+"sheng1 wu4 wu3 qi4",
+"biological weapon"
+],
+[
+"武功",
+22611,
+"wu3 gong1",
+"(N) Wugong (place in Shaanxi); Martial art; military achievement (e.g. number of enemy heads cut off)"
+],
+[
+"核武",
+24197,
+"he2 wu3",
+"nuclear weapon"
+],
+[
+"武士道",
+26228,
+"wu3 shi4 dao4",
+"\"bushidō or way of the warrior, samurai code of chivalry\""
 ]
 ],
 "strokes": [

@@ -8,80 +8,131 @@
 "words": [
 [
 "保证",
-0,
 4,
 "bǎozhèng",
 "to guarantee; ensure"
 ],
 [
 "签证",
-0,
 4,
 "qiānzhèng",
 "visa"
 ],
 [
 "证明",
-0,
 4,
 "zhèngmíng",
 "proof; testify; confirm; certificate"
 ],
 [
 "证件",
-0,
 5,
 "zhèngjiàn",
 "paperwork; credentials; papers; certificates"
 ],
 [
 "证据",
-0,
 5,
 "zhèngjù",
 "evidence; proof; testimony"
 ],
 [
 "辩证",
-0,
 6,
 "biànzhèng",
 "investigate; dialectical"
 ],
 [
 "公证",
-0,
 6,
 "gōngzhèng",
 "notarization"
 ],
 [
 "论证",
-0,
 6,
 "lùnzhèng",
 "prove a point; expound on; argumentation"
 ],
 [
 "验证",
-0,
 6,
 "yànzhèng",
 "inspect and verify"
 ],
 [
 "证实",
-0,
 6,
 "zhèngshí",
 "confirm; verify"
 ],
 [
 "证书",
-0,
 6,
 "zhèngshū",
 "certificate; credentials"
+]
+],
+"extraWords": [
+[
+"证人",
+1149,
+"zheng4 ren2",
+"witness"
+],
+[
+"证",
+2298,
+"zheng4",
+"certificate; proof; to prove; to demonstrate; to confirm; certificate; proof"
+],
+[
+"作证",
+2303,
+"zuo4 zheng4",
+"to bear witness; to testify"
+],
+[
+"证词",
+2760,
+"zheng4 ci2",
+"testimony"
+],
+[
+"身份证",
+4227,
+"shen1 fen4 zheng4",
+"ID card; proof of identity"
+],
+[
+"见证",
+4602,
+"jian4 zheng4",
+"witness; testimony"
+],
+[
+"听证会",
+4724,
+"ting1 zheng4 hui4",
+"(legislative) hearing"
+],
+[
+"证物",
+5140,
+"zheng4 wu4",
+"exhibit (legal)"
+],
+[
+"通行证",
+5875,
+"tong1 xing2 zheng4",
+"a pass (authorization through a checkpoint); a laissez-passer or safe conduct; to authenticate; to confirm name and password on a website; fig. a condition giving access to benefits (e.g. a diploma as a pass to a career)"
+],
+[
+"物证",
+7246,
+"wu4 zheng4",
+"material evidence"
 ]
 ],
 "strokes": [

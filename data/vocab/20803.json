@@ -8,59 +8,113 @@
 "words": [
 [
 "元",
-0,
 3,
 "yuán",
 "Chinese monetary unit; dollar; first; principal"
 ],
 [
 "单元",
-0,
 5,
 "dānyuán",
 "unit; entrance number; staircase (for residential buildings)"
 ],
 [
 "公元",
-0,
 5,
 "gōngyuán",
 "(year) AD or CE; Christian era; common era"
 ],
 [
 "元旦",
-0,
 5,
 "yuándàn",
 "New Year's Day"
 ],
 [
 "多元化",
-0,
 6,
 "duōyuánhuà",
 "diversify; diversification"
 ],
 [
 "元首",
-0,
 6,
 "yuánshǒu",
 "head of state"
 ],
 [
 "元素",
-0,
 6,
 "yuánsù",
 "element; element of a set; chemical element"
 ],
 [
 "元宵节",
-0,
 6,
 "Yuánxiāo Jié",
 "the Lantern Festival"
+]
+],
+"extraWords": [
+[
+"美元",
+683,
+"Mei3 yuan2",
+"American dollar; US dollar"
+],
+[
+"欧元",
+7706,
+"Ou1 yuan2",
+"Euro (currency)"
+],
+[
+"元老",
+9654,
+"yuan2 lao3",
+"grandee; old leadership; chief figure (in a gerontocracy)"
+],
+[
+"日元",
+11405,
+"Ri4 yuan2",
+"Japanese yen (unit of currency); also written 日圆"
+],
+[
+"公元前",
+12996,
+"gong1 yuan2 qian2",
+"before the common era (BC); before Christ"
+],
+[
+"韩元",
+14775,
+"Han2 yuan2",
+"Won (Korean currency)"
+],
+[
+"元帅",
+17344,
+"yuan2 shuai4",
+"marshal (in the army)"
+],
+[
+"元件",
+18352,
+"yuan2 jian4",
+"element; component"
+],
+[
+"元音",
+21676,
+"yuan2 yin1",
+"vowel"
+],
+[
+"微量元素",
+21769,
+"wei1 liang4 yuan2 su4",
+"trace element (chem.)"
 ]
 ],
 "strokes": [

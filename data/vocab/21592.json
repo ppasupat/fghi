@@ -8,66 +8,119 @@
 "words": [
 [
 "服务员",
-0,
 2,
 "fúwùyuán",
 "waiter/waitress; server; attendant"
 ],
 [
 "售货员",
-0,
 4,
 "shòuhuòyuán",
 "salesclerk; shop assistant"
 ],
 [
 "演员",
-0,
 4,
 "yǎnyuán",
 "actor or actress; performer"
 ],
 [
 "人员",
-0,
 5,
 "rényuán",
 "staff; crew; personnel"
 ],
 [
 "员工",
-0,
 5,
 "yuángōng",
 "employee; staff; personnel"
 ],
 [
 "裁员",
-0,
 6,
 "cáiyuán",
 "cut staff; lay off employees"
 ],
 [
 "成员",
-0,
 6,
 "chéngyuán",
 "member"
 ],
 [
 "动员",
-0,
 6,
 "dòngyuán",
 "mobilize"
 ],
 [
 "委员",
-0,
 6,
 "wěiyuán",
 "committee member; committee; council"
+]
+],
+"extraWords": [
+[
+"员",
+492,
+"yuan2/yun2/yun4",
+"person; employee; member"
+],
+[
+"队员",
+1717,
+"dui4 yuan2",
+"team member"
+],
+[
+"委员会",
+2145,
+"wei3 yuan2 hui4",
+"committee"
+],
+[
+"议员",
+2161,
+"yi4 yuan2",
+"member (of a legislative body); representative"
+],
+[
+"参议员",
+2800,
+"can1 yi4 yuan2",
+"senator"
+],
+[
+"运动员",
+3201,
+"yun4 dong4 yuan2",
+"athlete"
+],
+[
+"飞行员",
+3484,
+"fei1 xing2 yuan2",
+"pilot; aviator"
+],
+[
+"球员",
+3661,
+"qiu2 yuan2",
+"\"sports club member; footballer, golfer etc\""
+],
+[
+"官员",
+4481,
+"guan1 yuan2",
+"official (in an organization or government); administrator"
+],
+[
+"雇员",
+4510,
+"gu4 yuan2",
+"employee"
 ]
 ],
 "strokes": [

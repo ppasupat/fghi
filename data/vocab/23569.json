@@ -8,45 +8,101 @@
 "words": [
 [
 "多少",
-0,
 1,
 "duōshao",
 "how much?; how many?"
 ],
 [
 "少",
-0,
 1,
 "shǎo",
 "few; little"
 ],
 [
 "减少",
-0,
 4,
 "jiǎnshǎo",
 "reduce; to decrease"
 ],
 [
 "缺少",
-0,
 4,
 "quēshǎo",
 "to lack; be short of; be deficient in"
 ],
 [
 "至少",
-0,
 4,
 "zhìshǎo",
 "at least; (to say the) least"
 ],
 [
 "青少年",
-0,
 5,
 "qīngshàonián",
 "teenager"
+]
+],
+"extraWords": [
+[
+"不少",
+1425,
+"bu4 shao3",
+"not (just) a few"
+],
+[
+"少校",
+3479,
+"shao4 xiao4",
+"junior ranking officer in Chinese army; major; lieutenant commander"
+],
+[
+"少女",
+4210,
+"shao4 nu:3",
+"maiden"
+],
+[
+"少年",
+4773,
+"shao4 nian2",
+"juvenile; youngster"
+],
+[
+"少数",
+6694,
+"shao3 shu4",
+"small number; few; minority"
+],
+[
+"少见",
+8656,
+"shao3 jian4",
+"rare; not familiar (to the speaker); sth rarely experience; hard to see"
+],
+[
+"少量",
+11049,
+"shao3 liang4",
+"a smidgen; a little bit; a few"
+],
+[
+"少尉",
+13014,
+"shao4 wei4",
+"second lieutenant (army rank)"
+],
+[
+"或多或少",
+16625,
+"huo4 duo1 huo4 shao3",
+"more or less"
+],
+[
+"年少",
+18188,
+"nian2 shao4",
+"young; junior"
 ]
 ],
 "strokes": [

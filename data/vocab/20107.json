@@ -8,185 +8,221 @@
 "words": [
 [
 "事情",
-0,
 2,
 "shìqing",
 "matter; affair; thing; business"
 ],
 [
 "故事",
-0,
 3,
 "gùshi",
 "story; tale"
 ],
 [
 "同事",
-0,
 3,
 "tóngshì",
 "colleague; co-worker"
 ],
 [
 "从事",
-0,
 5,
 "cóngshì",
 "go for; engage in; deal with"
 ],
 [
 "军事",
-0,
 5,
 "jūnshì",
 "military affairs; military matters"
 ],
 [
 "人事",
-0,
 5,
 "rénshì",
 "personnel"
 ],
 [
 "事实",
-0,
 5,
 "shìshí",
 "fact; in fact"
 ],
 [
 "事物",
-0,
 5,
 "shìwù",
 "thing; object"
 ],
 [
 "事先",
-0,
 5,
 "shìxiān",
 "in advance; beforehand; prior"
 ],
 [
 "本事",
-0,
 6,
 "běnshi",
 "ability; skill; capability; (-shì: this matter; literary source)"
 ],
 [
 "当事人",
-0,
 6,
 "dāngshìrén",
 "persons involved or implicated; party (to an affair)"
 ],
 [
 "董事长",
-0,
 6,
 "dǒngshìzhǎng",
 "chairman of the board"
 ],
 [
 "领事馆",
-0,
 6,
 "lǐngshìguǎn",
 "consulate"
 ],
 [
 "启事",
-0,
 6,
 "qǐshì",
 "announcement; public information (usually posted on a billboard)"
 ],
 [
 "失事",
-0,
 6,
 "shī shì",
 "be involved in a crash; (have an) accident"
 ],
 [
 "时事",
-0,
 6,
 "shíshì",
 "current events; the present situation"
 ],
 [
 "实事求是",
-0,
 6,
 "shí shì qiú shì",
 "be practical and realistic; seek truth from facts"
 ],
 [
 "事故",
-0,
 6,
 "shìgù",
 "accident"
 ],
 [
 "事迹",
-0,
 6,
 "shìjì",
 "achievement; deed"
 ],
 [
 "事件",
-0,
 6,
 "shìjiàn",
 "event; happening; incident"
 ],
 [
 "事态",
-0,
 6,
 "shìtài",
 "situation; existing state of affairs"
 ],
 [
 "事务",
-0,
 6,
 "shìwù",
 "affairs; work"
 ],
 [
 "事项",
-0,
 6,
 "shìxiàng",
 "matter; item"
 ],
 [
 "事业",
-0,
 6,
 "shìyè",
 "undertaking; project; cause; enterprise"
 ],
 [
 "往事",
-0,
 6,
 "wǎngshì",
 "the past events; former happenings"
 ],
 [
 "刑事",
-0,
 6,
 "xíngshì",
 "criminal; penal"
+]
+],
+"extraWords": [
+[
+"事",
+52,
+"shi4",
+"matter; thing; item; work; affair"
+],
+[
+"事实上",
+601,
+"shi4 shi2 shang4",
+"in fact; in reality; actually; as a matter of fact; de facto; ipso facto"
+],
+[
+"事儿",
+892,
+"shi4 r5",
+"\"one's employment; business; matter that needs to be settled; erhua variant of 事, thing, matter, affair etc\""
+],
+[
+"好事",
+1432,
+"hao3 shi4",
+"\"good action, deed, thing or work (also sarcastic, \"\"a fine thing indeed\"\"); charity; happy occasion; Daoist or Buddhist ceremony for the souls of the dead\""
+],
+[
+"没事儿",
+2357,
+"mei2 shi4 r5",
+"to have spare time; free from work; it's not important; it's nothing; never mind"
+],
+[
+"没事",
+2622,
+"mei2 shi4",
+"it's not important; it's nothing; never mind; to have nothing to do; to be free"
+],
+[
+"坏事",
+2672,
+"huai4 shi4",
+"to ruin sth; to spoil; to sour; to make things bad; evil deed; bad action; dishonesty; criminality; corruption"
+],
+[
+"大事",
+2698,
+"da4 shi4",
+"major event; major political event (war or change of regime); major social event (wedding or funeral); (do sth) in a big way"
+],
+[
+"事务所",
+2796,
+"shi4 wu4 suo3",
+"business office"
+],
+[
+"出事",
+2986,
+"chu1 shi4",
+"have an accident; meet with a mishap"
 ]
 ],
 "strokes": [

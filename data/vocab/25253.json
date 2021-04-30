@@ -8,122 +8,167 @@
 "words": [
 [
 "报纸",
-0,
 2,
 "bàozhǐ",
 "newspaper"
 ],
 [
 "报名",
-0,
 4,
 "bào míng",
 "sign up; apply"
 ],
 [
 "报到",
-0,
 5,
 "bàodào",
 "report for duty; to check in; register"
 ],
 [
 "报道",
-0,
 5,
 "bàodào",
 "to report; news report"
 ],
 [
 "报告",
-0,
 5,
 "bàogào",
 "to report; make known; inform; speech; lecture"
 ],
 [
 "报社",
-0,
 5,
 "bàoshè",
 "newspaper office"
 ],
 [
 "预报",
-0,
 5,
 "yùbào",
 "to predict; forecast"
 ],
 [
 "报仇",
-0,
 6,
 "bàochóu",
 "retaliate; to revenge; avenge"
 ],
 [
 "报酬",
-0,
 6,
 "bàochou",
 "reward; remuneration"
 ],
 [
 "报答",
-0,
 6,
 "bàodá",
 "repay; requite"
 ],
 [
 "报复",
-0,
 6,
 "bàofu",
 "retaliate; revenge"
 ],
 [
 "报警",
-0,
 6,
 "bàojǐng",
 "report (an incident) to the police"
 ],
 [
 "报销",
-0,
 6,
 "bàoxiāo",
 "submit an expense account; apply for reimbursement; write off"
 ],
 [
 "回报",
-0,
 6,
 "huíbào",
 "repayment; payback"
 ],
 [
 "汇报",
-0,
 6,
 "huìbào",
 "report; give an account of; to collect information and report back"
 ],
 [
 "情报",
-0,
 6,
 "qíngbào",
 "intelligence; information-gathering"
 ],
 [
 "申报",
-0,
 6,
 "shēnbào",
 "declare; report (to customs or other authority)"
+]
+],
+"extraWords": [
+[
+"报",
+1679,
+"bao4",
+"to announce; to inform; report; newspaper; recompense; revenge"
+],
+[
+"警报",
+2392,
+"jing3 bao4",
+"(fire) alarm; alert signal; alarm; alert; warning"
+],
+[
+"报应",
+4463,
+"bao4 ying4",
+"retribution; judgment"
+],
+[
+"报导",
+5297,
+"bao4 dao3",
+"to cover (report) news; news reporting; story; article"
+],
+[
+"海报",
+6037,
+"hai3 bao4",
+"poster; playbill; notice"
+],
+[
+"情报局",
+6118,
+"qing2 bao4 ju2",
+"intelligence agency"
+],
+[
+"举报",
+7109,
+"ju3 bao4",
+"to report (malefactors to the police); to denounce"
+],
+[
+"电报",
+7200,
+"dian4 bao4",
+"telegram; cable; telegraph"
+],
+[
+"时报",
+7663,
+"shi2 bao4",
+"\"Times (newspaper, e.g. New York Times)\""
+],
+[
+"简报",
+8053,
+"jian3 bao4",
+"presentation"
 ]
 ],
 "strokes": [

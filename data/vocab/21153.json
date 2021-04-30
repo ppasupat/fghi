@@ -8,94 +8,143 @@
 "words": [
 [
 "服务员",
-0,
 2,
 "fúwùyuán",
 "waiter/waitress; server; attendant"
 ],
 [
 "任务",
-0,
 4,
 "rènwu",
 "a mission; an assignment; a task"
 ],
 [
 "家务",
-0,
 5,
 "jiāwù",
 "household duties; chores; housework"
 ],
 [
 "商务",
-0,
 5,
 "shāngwù",
 "business; commercial affairs"
 ],
 [
 "业务",
-0,
 5,
 "yèwù",
 "business; profession"
 ],
 [
 "义务",
-0,
 5,
 "yìwù",
 "duty; obligation; volunteer duty"
 ],
 [
 "财务",
-0,
 6,
 "cáiwù",
 "financial affairs"
 ],
 [
 "当务之急",
-0,
 6,
 "dāngwùzhījí",
 "the most pressing matter of the moment; a top priority task; urgent matter"
 ],
 [
 "公务",
-0,
 6,
 "gōngwù",
 "public affairs; official business"
 ],
 [
 "国务院",
-0,
 6,
 "guówùyuàn",
 "State Council (PRC); State Department (USA)"
 ],
 [
 "事务",
-0,
 6,
 "shìwù",
 "affairs; work"
 ],
 [
 "务必",
-0,
 6,
 "wùbì",
 "must; need to; be sure to"
 ],
 [
 "职务",
-0,
 6,
 "zhíwù",
 "post; a position; job; duties"
+]
+],
+"extraWords": [
+[
+"服务",
+1215,
+"fu2 wu4",
+"to serve; service"
+],
+[
+"事务所",
+2796,
+"shi4 wu4 suo3",
+"business office"
+],
+[
+"服务器",
+5981,
+"fu2 wu4 qi4",
+"server (computer)"
+],
+[
+"债务",
+6360,
+"zhai4 wu4",
+"debt; liability; amount due; indebtedness"
+],
+[
+"医务室",
+10128,
+"yi1 wu4 shi4",
+"clinic"
+],
+[
+"医务",
+10270,
+"yi1 wu4",
+"medical affairs"
+],
+[
+"内务部",
+10426,
+"nei4 wu4 bu4",
+"Ministry of Internal Affairs"
+],
+[
+"公务员",
+11709,
+"gong1 wu4 yuan2",
+"functionary; office-bearer"
+],
+[
+"税务",
+12799,
+"shui4 wu4",
+"taxation services; state revenue service"
+],
+[
+"国务卿",
+13501,
+"guo2 wu4 qing1",
+"Secretary of State"
 ]
 ],
 "strokes": [

@@ -8,31 +8,89 @@
 "words": [
 [
 "省",
-0,
 4,
 "shěng",
 "to save; economize; omit; province"
 ],
 [
 "节省",
-0,
 5,
 "jiéshěng",
 "save; use sparingly; frugal"
 ],
 [
 "省略",
-0,
 5,
 "shěnglüè",
 "to omit; to leave out; abbreviate"
 ],
 [
 "省会",
-0,
 6,
 "shěnghuì",
 "provincial capital"
+]
+],
+"extraWords": [
+[
+"反省",
+10131,
+"fan3 xing3",
+"to engage in introspection; soul-searching"
+],
+[
+"不省人事",
+11364,
+"bu4 xing3 ren2 shi4",
+"to lose consciousness; unconscious; in a coma"
+],
+[
+"省钱",
+18264,
+"sheng3 qian2",
+"to save money"
+],
+[
+"省事",
+19964,
+"sheng3 shi4",
+"to handle administrative work; to simplify matters; to save trouble"
+],
+[
+"省得",
+26303,
+"sheng3 de5",
+"to avoid; so as to save (money or time)"
+],
+[
+"省心",
+26304,
+"sheng3 xin1",
+"to save worry"
+],
+[
+"省略号",
+34687,
+"sheng3 lu:e4 hao4",
+"\"the ellipsis …… (punct., consisting of six dots)\""
+],
+[
+"省份",
+37549,
+"sheng3 fen4",
+"province"
+],
+[
+"省吃俭用",
+37550,
+"sheng3 chi1 jian3 yong4",
+"to live frugally; to economize on food and clothing; to scrimp and save"
+],
+[
+"省力",
+41279,
+"sheng3 li4",
+"to save labor; to save effort"
 ]
 ],
 "strokes": [

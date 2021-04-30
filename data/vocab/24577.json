@@ -8,73 +8,125 @@
 "words": [
 [
 "态度",
-0,
 4,
 "tàidu",
 "manner; bearing; attitude"
 ],
 [
 "状态",
-0,
 5,
 "zhuàngtài",
 "state of affairs; condition; state"
 ],
 [
 "表态",
-0,
 6,
 "biǎotài",
 "make known one's position; declare where one stands"
 ],
 [
 "动态",
-0,
 6,
 "dòngtài",
 "development; trend; dynamic state"
 ],
 [
 "神态",
-0,
 6,
 "shéntài",
 "appearance; looks; manner; expression"
 ],
 [
 "生态",
-0,
 6,
 "shēngtài",
 "way of life; ecology"
 ],
 [
 "事态",
-0,
 6,
 "shìtài",
 "situation; existing state of affairs"
 ],
 [
 "心态",
-0,
 6,
 "xīntài",
 "pyschology; mentality; spirit"
 ],
 [
 "形态",
-0,
 6,
 "xíngtài",
 "shape; form; pattern"
 ],
 [
 "姿态",
-0,
 6,
 "zītài",
 "attitude; posture; stance"
+]
+],
+"extraWords": [
+[
+"变态",
+1911,
+"bian4 tai4",
+"metamorphosis; abnormal; anomalous"
+],
+[
+"病态",
+8993,
+"bing4 tai4",
+"morbid or abnormal state"
+],
+[
+"态",
+12042,
+"tai4",
+"attitude"
+],
+[
+"液态",
+18237,
+"ye4 tai4",
+"liquid (state)"
+],
+[
+"紧急状态",
+22276,
+"jin3 ji2 zhuang4 tai4",
+"state of emergency"
+],
+[
+"体态",
+22416,
+"ti3 tai4",
+"figure; physique; posture"
+],
+[
+"常态",
+24130,
+"chang2 tai4",
+"normal state"
+],
+[
+"意识形态",
+26772,
+"yi4 shi2 xing2 tai4",
+"ideology"
+],
+[
+"仪态",
+29219,
+"yi2 tai4",
+"bearing; deportment"
+],
+[
+"静态",
+30739,
+"jing4 tai4",
+"state of not working; static (as in electrostatic force)"
 ]
 ],
 "strokes": [

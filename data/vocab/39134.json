@@ -8,38 +8,95 @@
 "words": [
 [
 "飞机",
-0,
 1,
 "fēijī",
 "airplane"
 ],
 [
 "起飞",
-0,
 3,
 "qǐfēi",
 "take off (in an airplane); liftoff"
 ],
 [
 "飞禽走兽",
-0,
 6,
 "fēiqínzǒushòu",
 "birds and animals; the beasts of the field and the birds of the air"
 ],
 [
 "飞翔",
-0,
 6,
 "fēixiáng",
 "fly; hover"
 ],
 [
 "飞跃",
-0,
 6,
 "fēiyuè",
 "to leap"
+]
+],
+"extraWords": [
+[
+"飞",
+802,
+"fei1",
+"to fly"
+],
+[
+"飞行",
+2323,
+"fei1 xing2",
+"aviation; flying"
+],
+[
+"飞船",
+2972,
+"fei1 chuan2",
+"airship; spaceship"
+],
+[
+"飞行员",
+3484,
+"fei1 xing2 yuan2",
+"pilot; aviator"
+],
+[
+"飞龙",
+6503,
+"fei1 long2",
+"wyvern (type of dragon)"
+],
+[
+"直升飞机",
+8217,
+"zhi2 sheng1 fei1 ji1",
+"\"variant of 直升机, helicopter\""
+],
+[
+"飞越",
+9568,
+"fei1 yue4",
+"surpass"
+],
+[
+"飞弹",
+11156,
+"fei1 dan4",
+"missile"
+],
+[
+"飞快",
+11157,
+"fei1 kuai4",
+"very fast; at lightning speed"
+],
+[
+"飞碟",
+12404,
+"fei1 die2",
+"flying saucer; frisbee"
 ]
 ],
 "strokes": [

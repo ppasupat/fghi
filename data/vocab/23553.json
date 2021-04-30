@@ -8,38 +8,95 @@
 "words": [
 [
 "信封",
-0,
 4,
 "xìnfēng",
 "envelope"
 ],
 [
 "封闭",
-0,
 6,
 "fēngbì",
 "to seal; to close; confine"
 ],
 [
 "封建",
-0,
 6,
 "fēngjiàn",
 "feudal; feudalism"
 ],
 [
 "封锁",
-0,
 6,
 "fēngsuǒ",
 "to blockade; to seal off"
 ],
 [
 "密封",
-0,
 6,
 "mìfēng",
 "seal up; pressurize"
+]
+],
+"extraWords": [
+[
+"封",
+1145,
+"feng1",
+"\"to confer; to grant; to bestow a title; to seal; classifier for sealed objects, esp. letters; surname Feng\""
+],
+[
+"封面",
+3140,
+"feng1 mian4",
+"cover (front cover of a magazine)"
+],
+[
+"封杀",
+10277,
+"feng1 sha1",
+"shut out"
+],
+[
+"封存",
+17175,
+"feng1 cun2",
+"to sequester; to seal up (for safe keeping); to freeze (an account); to mothball"
+],
+[
+"封口",
+18179,
+"feng1 kou3",
+"to close up; to heal (of wound)"
+],
+[
+"原封不动",
+24060,
+"yuan2 feng1 bu4 dong4",
+"sticking unmoving to the original (idiom); not an iota changed; untouched"
+],
+[
+"尘封",
+25553,
+"chen2 feng1",
+"covered in dust; dusty; lying unused for a long time"
+],
+[
+"册封",
+27204,
+"ce4 feng1",
+"to confer a title upon sb; to dub; to crown; to invest with rank or title"
+],
+[
+"封条",
+27977,
+"feng1 tiao2",
+"seal"
+],
+[
+"封顶",
+32065,
+"feng1 ding3",
+"\"to put a roof (on a building); to cap the roof (finishing a building project); fig. to put a ceiling (on spending, prize, ambition etc); to top off; fig. to reach the highest point (of growth, profit, interest rates); to stop growing (of plant bud or branch)\""
 ]
 ],
 "strokes": [

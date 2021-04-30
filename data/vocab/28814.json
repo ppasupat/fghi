@@ -8,17 +8,77 @@
 "words": [
 [
 "发炎",
-0,
 6,
 "fāyán",
 "become inflamed from infection or injury"
 ],
 [
 "炎热",
-0,
 6,
 "yánrè",
 "blistering hot; sizzling hot (weather)"
+]
+],
+"extraWords": [
+[
+"炎",
+9508,
+"yan2",
+"flame; inflammation; -itis"
+],
+[
+"肺炎",
+11912,
+"fei4 yan2",
+"pneumonia; inflammation of the lungs"
+],
+[
+"关节炎",
+12750,
+"guan1 jie2 yan2",
+"arthritis"
+],
+[
+"肝炎",
+16035,
+"gan1 yan2",
+"hepatitis"
+],
+[
+"脑膜炎",
+18975,
+"nao3 mo2 yan2",
+"meningitis"
+],
+[
+"炎症",
+21502,
+"yan2 zheng4",
+"inflammation"
+],
+[
+"脑炎",
+22689,
+"nao3 yan2",
+"brain fever; encephalitis; meningitis"
+],
+[
+"支气管炎",
+26177,
+"zhi1 qi4 guan3 yan2",
+"bronchitis"
+],
+[
+"消炎",
+26888,
+"xiao1 yan2",
+"to reduce fever; antipyretic; to decrease inflammation"
+],
+[
+"腮腺炎",
+28288,
+"sai1 xian4 yan2",
+"mumps"
 ]
 ],
 "strokes": [

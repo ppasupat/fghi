@@ -8,38 +8,95 @@
 "words": [
 [
 "东西",
-0,
 1,
 "dōngxi",
 "things; stuff"
 ],
 [
 "西瓜",
-0,
 2,
 "xīguā",
 "watermelon"
 ],
 [
 "西",
-0,
 3,
 "xī",
 "West (Kangxi radical 146)"
 ],
 [
 "西红柿",
-0,
 4,
 "xīhóngshì",
 "tomato"
 ],
 [
 "东张西望",
-0,
 6,
 "dōngzhāngxīwàng",
 "look in all directions; glance around"
+]
+],
+"extraWords": [
+[
+"墨西哥",
+1583,
+"Mo4 xi1 ge1",
+"Mexico"
+],
+[
+"西班牙",
+2678,
+"Xi1 ban1 ya2",
+"Spain"
+],
+[
+"西德",
+2789,
+"Xi1 de2",
+"West Germany; German Federal Republic 德意志·联邦·共和国[De2 yi4 zhi4 · Lian2 bang1 · Gong4 he2 guo2]"
+],
+[
+"西班牙语",
+3006,
+"Xi1 ban1 ya2 yu3",
+"Spanish language"
+],
+[
+"西装",
+3641,
+"xi1 zhuang1",
+"(Western-style) clothes"
+],
+[
+"西部",
+4059,
+"xi1 bu4",
+"western part"
+],
+[
+"巴西",
+4295,
+"Ba1 xi1",
+"Brazil"
+],
+[
+"西雅图",
+4679,
+"Xi1 ya3 tu2",
+"\"Seattle, Washington State\""
+],
+[
+"新泽西",
+4691,
+"Xin1 ze2 xi1",
+"\"New Jersey, US state\""
+],
+[
+"西方",
+6408,
+"xi1 fang1",
+"the West; the Occident; Western countries"
 ]
 ],
 "strokes": [

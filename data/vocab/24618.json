@@ -8,38 +8,95 @@
 "words": [
 [
 "奇怪",
-0,
 3,
 "qíguài",
 "strange; odd"
 ],
 [
 "怪不得",
-0,
 5,
 "guài bu de",
 "no wonder; so that's why"
 ],
 [
 "难怪",
-0,
 5,
 "nánguài",
 "no wonder"
 ],
 [
 "古怪",
-0,
 6,
 "gǔguài",
 "eccentric; grotesque; oddly"
 ],
 [
 "责怪",
-0,
 6,
 "zéguài",
 "blame; rebuke"
+]
+],
+"extraWords": [
+[
+"怪",
+682,
+"guai4",
+"bewildering; odd; queer; strange; uncanny; devil; monster; wonder at; to blame; quite; rather"
+],
+[
+"怪物",
+1812,
+"guai4 wu5",
+"monster; freak; eccentric person"
+],
+[
+"怪异",
+3418,
+"guai4 yi4",
+"weird"
+],
+[
+"怪兽",
+3808,
+"guai4 shou4",
+"rare animal; mythical animal"
+],
+[
+"怪人",
+3952,
+"guai4 ren2",
+"strange person; eccentric"
+],
+[
+"怪胎",
+5449,
+"guai4 tai1",
+"abnormal embryo; fetus with deformity"
+],
+[
+"大惊小怪",
+7191,
+"da4 jing1 xiao3 guai4",
+"much fuss about nothing"
+],
+[
+"怪事",
+8043,
+"guai4 shi4",
+"strange occurances"
+],
+[
+"妖怪",
+8852,
+"yao1 guai4",
+"monster; devil"
+],
+[
+"怪罪",
+9811,
+"guai4 zui4",
+"to blame"
 ]
 ],
 "strokes": [

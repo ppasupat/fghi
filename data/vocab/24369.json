@@ -8,38 +8,95 @@
 "words": [
 [
 "弱",
-0,
 5,
 "ruò",
 "weak; feeble; young"
 ],
 [
 "薄弱",
-0,
 6,
 "bóruò",
 "weak; frail"
 ],
 [
 "脆弱",
-0,
 6,
 "cuìruò",
 "weak; fragile; flimsy; frail"
 ],
 [
 "弱点",
-0,
 6,
 "ruòdiǎn",
 "weak point; failing"
 ],
 [
 "削弱",
-0,
 6,
 "xuēruò",
 "weaken; to cripple"
+]
+],
+"extraWords": [
+[
+"软弱",
+4918,
+"ruan3 ruo4",
+"weak; feeble; flabby"
+],
+[
+"弱智",
+6714,
+"ruo4 zhi4",
+"weak-minded; mentally deficient; retarded"
+],
+[
+"懦弱",
+9318,
+"nuo4 ruo4",
+"cowardly; weak"
+],
+[
+"弱小",
+10192,
+"ruo4 xiao3",
+"small and weak; puny; a child"
+],
+[
+"微弱",
+10284,
+"wei1 ruo4",
+"weak; faint; feeble"
+],
+[
+"减弱",
+11711,
+"jian3 ruo4",
+"to weaken; to fall off"
+],
+[
+"衰弱",
+21229,
+"shuai1 ruo4",
+"weak; feeble"
+],
+[
+"瘦弱",
+21514,
+"shou4 ruo4",
+"thin and weak"
+],
+[
+"示弱",
+24786,
+"shi4 ruo4",
+"to show weak; the impression of weakness"
+],
+[
+"弱不禁风",
+34337,
+"ruo4 bu4 jin1 feng1",
+"too weak to stand up to the wind (idiom); extremely delicate; fragile state of health"
 ]
 ],
 "strokes": [

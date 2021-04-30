@@ -8,115 +8,161 @@
 "words": [
 [
 "相信",
-0,
 3,
 "xiāngxìn",
 "believe (sb.); be convinced of"
 ],
 [
 "信用卡",
-0,
 3,
 "xìnyòngkǎ",
 "credit card"
 ],
 [
 "短信",
-0,
 4,
 "duǎnxìn",
 "text message; SMS"
 ],
 [
 "信封",
-0,
 4,
 "xìnfēng",
 "envelope"
 ],
 [
 "信息",
-0,
 4,
 "xìnxī",
 "information; news; message"
 ],
 [
 "信心",
-0,
 4,
 "xìnxīn",
 "confidence; faith (in sb. or sth.)"
 ],
 [
 "自信",
-0,
 4,
 "zìxìn",
 "self-confidence"
 ],
 [
 "信号",
-0,
 5,
 "xìnhào",
 "signal"
 ],
 [
 "信任",
-0,
 5,
 "xìnrèn",
 "to trust; have confidence in"
 ],
 [
 "迷信",
-0,
 6,
 "míxìn",
 "superstition; be superstitious"
 ],
 [
 "确信",
-0,
 6,
 "quèxìn",
 "confident; be certain of; to firmly believe"
 ],
 [
 "威信",
-0,
 6,
 "wēixìn",
 "prestige; reputation; veneration; authority; trust"
 ],
 [
 "信赖",
-0,
 6,
 "xìnlài",
 "trust; have confidence in; confide"
 ],
 [
 "信念",
-0,
 6,
 "xìnniàn",
 "faith; belief; conviction"
 ],
 [
 "信仰",
-0,
 6,
 "xìnyǎng",
 "firm belief; faith; believe in (a religion)"
 ],
 [
 "信誉",
-0,
 6,
 "xìnyù",
 "reputation; prestige; trust"
+]
+],
+"extraWords": [
+[
+"信",
+448,
+"xin4",
+"letter; CL:封[feng1]; true; to believe; sign; evidence"
+],
+[
+"难以置信",
+1574,
+"nan2 yi3 zhi4 xin4",
+"incredible"
+],
+[
+"写信",
+4036,
+"xie3 xin4",
+"to write a letter"
+],
+[
+"坚信",
+4742,
+"jian1 xin4",
+"to believe firmly; without any doubt"
+],
+[
+"来信",
+5086,
+"lai2 xin4",
+"incoming letter; send a letter here"
+],
+[
+"信件",
+5791,
+"xin4 jian4",
+"a letter (i.e. sent in the mail)"
+],
+[
+"信箱",
+5846,
+"xin4 xiang1",
+"mailbox"
+],
+[
+"可信",
+6219,
+"ke3 xin4",
+"trustworthy"
+],
+[
+"信徒",
+6334,
+"xin4 tu2",
+"believer"
+],
+[
+"信用",
+7980,
+"xin4 yong4",
+"to trust; one's credit (i.e. trustworthiness); credit (i.e. possible bank loan)"
 ]
 ],
 "strokes": [

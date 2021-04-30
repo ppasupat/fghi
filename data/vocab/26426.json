@@ -8,150 +8,191 @@
 "words": [
 [
 "飞机",
-0,
 1,
 "fēijī",
 "airplane"
 ],
 [
 "机场",
-0,
 2,
 "jīchǎng",
 "airport; airfield"
 ],
 [
 "手机",
-0,
 2,
 "shǒujī",
 "mobile (cell) phone"
 ],
 [
 "机会",
-0,
 3,
 "jīhuì",
 "opportunity; chance; occasion"
 ],
 [
 "司机",
-0,
 3,
 "sījī",
 "driver; chauffeur"
 ],
 [
 "照相机",
-0,
 3,
 "zhàoxiàngjī",
 "camera"
 ],
 [
 "登机牌",
-0,
 4,
 "dēngjīpái",
 "boarding pass"
 ],
 [
 "机器",
-0,
 5,
 "jīqì",
 "machine"
 ],
 [
 "动机",
-0,
 6,
 "dòngjī",
 "motive; motivation; intention"
 ],
 [
 "机动",
-0,
 6,
 "jīdòng",
 "motorized; mobile; flexible"
 ],
 [
 "机构",
-0,
 6,
 "jīgòu",
 "structure; organization; institution"
 ],
 [
 "机灵",
-0,
 6,
 "jīling",
 "clever; quick-witted; smartness"
 ],
 [
 "机密",
-0,
 6,
 "jīmì",
 "secret; classified (information)"
 ],
 [
 "机械",
-0,
 6,
 "jīxiè",
 "machine; mechanical"
 ],
 [
 "机遇",
-0,
 6,
 "jīyù",
 "opportunity; stroke of good luck; favorable circumstance"
 ],
 [
 "机智",
-0,
 6,
 "jīzhì",
 "tact; quick-witted; resourceful"
 ],
 [
 "生机",
-0,
 6,
 "shēngjī",
 "reprieve from death; life force; vitality"
 ],
 [
 "时机",
-0,
 6,
 "shíjī",
 "opportune time; opportunity"
 ],
 [
 "收音机",
-0,
 6,
 "shōuyīnjī",
 "radio"
 ],
 [
 "投机",
-0,
 6,
 "tóujī",
 "speculate (on financial markets); congenial; opportunistic"
 ],
 [
 "危机",
-0,
 6,
 "wēijī",
 "crisis"
+]
+],
+"extraWords": [
+[
+"机",
+1197,
+"ji1",
+"machine; opportunity; secret"
+],
+[
+"机器人",
+1997,
+"ji1 qi4 ren2",
+"mechanical person; robot"
+],
+[
+"直升机",
+2531,
+"zhi2 sheng1 ji1",
+"helicopter"
+],
+[
+"摄像机",
+2966,
+"she4 xiang4 ji1",
+"camera; video camera"
+],
+[
+"相机",
+3779,
+"xiang4 ji1",
+"a camera; variant of 照相机"
+],
+[
+"机票",
+4127,
+"ji1 piao4",
+"air ticket; passenger ticket"
+],
+[
+"计算机",
+4603,
+"ji4 suan4 ji1",
+"computer; calculator"
+],
+[
+"扳机",
+5146,
+"ban1 ji1",
+"trigger"
+],
+[
+"电视机",
+5625,
+"dian4 shi4 ji1",
+"television set; CL: 台[tai2]"
+],
+[
+"随机",
+5832,
+"sui2 ji1",
+"according to the situation; pragmatic; random"
 ]
 ],
 "strokes": [

@@ -8,24 +8,83 @@
 "words": [
 [
 "排队",
-0,
 4,
 "pái duì",
 "queue; stand in line"
 ],
 [
 "队伍",
-0,
 6,
 "duìwu",
 "ranks; troops"
 ],
 [
 "军队",
-0,
 6,
 "jūnduì",
 "army troops"
+]
+],
+"extraWords": [
+[
+"队",
+415,
+"dui4",
+"squadron; team; group"
+],
+[
+"乐队",
+1341,
+"yue4 dui4",
+"band; pop group"
+],
+[
+"队长",
+1576,
+"dui4 zhang3",
+"captain; team leader"
+],
+[
+"队员",
+1717,
+"dui4 yuan2",
+"team member"
+],
+[
+"团队",
+1888,
+"tuan2 dui4",
+"team"
+],
+[
+"部队",
+2169,
+"bu4 dui4",
+"army; armed forces; troops; force; unit"
+],
+[
+"球队",
+3309,
+"qiu2 dui4",
+"\"soccer team (or rugby, basketball etc)\""
+],
+[
+"啦啦队",
+3807,
+"la1 la1 dui4",
+"support team; cheering squad; cheerleader"
+],
+[
+"舰队",
+4601,
+"jian4 dui4",
+"fleet"
+],
+[
+"队友",
+5318,
+"dui4 you3",
+"\"member of same class, team, work group etc; teammate\""
 ]
 ],
 "strokes": [

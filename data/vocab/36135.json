@@ -8,24 +8,83 @@
 "words": [
 [
 "售货员",
-0,
 4,
 "shòuhuòyuán",
 "salesclerk; shop assistant"
 ],
 [
 "货币",
-0,
 6,
 "huòbì",
 "currency; money"
 ],
 [
 "通货膨胀",
-0,
 6,
 "tōnghuò péngzhàng",
 "inflation"
+]
+],
+"extraWords": [
+[
+"货",
+1778,
+"huo4",
+"goods; money; commodity"
+],
+[
+"蠢货",
+2687,
+"chun3 huo4",
+"blockhead; idiot; dunce; moron; fool"
+],
+[
+"货车",
+3370,
+"huo4 che1",
+"van"
+],
+[
+"货物",
+6762,
+"huo4 wu4",
+"goods; commodity; merchandise"
+],
+[
+"杂货店",
+8128,
+"za2 huo4 dian4",
+"grocery store; emporium"
+],
+[
+"送货",
+8223,
+"song4 huo4",
+"to dispatch"
+],
+[
+"货运",
+11997,
+"huo4 yun4",
+"freight transport; cargo; transported goods"
+],
+[
+"存货",
+12767,
+"cun2 huo4",
+"stock"
+],
+[
+"冒牌货",
+13725,
+"mao4 pai2 huo4",
+"fake goods; imitation; forgery"
+],
+[
+"交货",
+14404,
+"jiao1 huo4",
+"to deliver goods"
 ]
 ],
 "strokes": [

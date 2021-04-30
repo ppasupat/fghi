@@ -8,45 +8,101 @@
 "words": [
 [
 "海洋",
-0,
 4,
 "hǎiyáng",
 "ocean"
 ],
 [
 "海关",
-0,
 5,
 "hǎiguān",
 "customs (i.e. border inspection)"
 ],
 [
 "海鲜",
-0,
 5,
 "hǎixiān",
 "seafood"
 ],
 [
 "海拔",
-0,
 6,
 "hǎibá",
 "height above sea level; elevation"
 ],
 [
 "海滨",
-0,
 6,
 "hǎibīn",
 "shore; seaside"
 ],
 [
 "沿海",
-0,
 6,
 "yánhǎi",
 "coastal"
+]
+],
+"extraWords": [
+[
+"海",
+1545,
+"hai3",
+"ocean; sea"
+],
+[
+"海滩",
+2226,
+"hai3 tan1",
+"beach"
+],
+[
+"海军",
+2344,
+"hai3 jun1",
+"navy"
+],
+[
+"海盗",
+2520,
+"hai3 dao4",
+"pirate"
+],
+[
+"海岸",
+3055,
+"hai3 an4",
+"coastal; seacoast"
+],
+[
+"大海",
+4096,
+"da4 hai3",
+"sea; ocean"
+],
+[
+"海边",
+4467,
+"hai3 bian1",
+"seaside"
+],
+[
+"脑海",
+4469,
+"nao3 hai3",
+"the mind; the brain"
+],
+[
+"海伦",
+4846,
+"Hai3 lun2",
+"\"Hailun county level city in Suihua 绥化, Heilongjiang\""
+],
+[
+"海洛因",
+4868,
+"hai3 luo4 yin1",
+"heroin"
 ]
 ],
 "strokes": [

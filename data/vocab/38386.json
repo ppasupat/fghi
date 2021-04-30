@@ -8,24 +8,83 @@
 "words": [
 [
 "空闲",
-0,
 5,
 "kòngxián",
 "leisure; free time; idle; unused"
 ],
 [
 "休闲",
-0,
 5,
 "xiūxián",
 "recreation; leisure"
 ],
 [
 "闲话",
-0,
 6,
 "xiánhuà",
 "gossip; digression"
+]
+],
+"extraWords": [
+[
+"闲",
+6213,
+"xian2",
+"to stay idle; to be unoccupied; not busy; leisure; enclosure"
+],
+[
+"管闲事",
+7505,
+"guan3 xian2 shi4",
+"\"to meddle; to be a \"\"nosy Parker\"\"; to be too inquistive about other people's business\""
+],
+[
+"闲聊",
+8258,
+"xian2 liao2",
+"to chat; idle gossip"
+],
+[
+"多管闲事",
+8851,
+"duo1 guan3 xian2 shi4",
+"meddling in other people's business"
+],
+[
+"游手好闲",
+11981,
+"you2 shou3 hao4 xian2",
+"idle about"
+],
+[
+"悠闲",
+15537,
+"you1 xian2",
+"ease; leisurely"
+],
+[
+"闲人",
+16543,
+"xian2 ren2",
+"idle person; person with leisure"
+],
+[
+"闲事",
+17685,
+"xian2 shi4",
+"other people's business"
+],
+[
+"闲谈",
+19248,
+"xian2 tan2",
+"idle talk; empty gossip"
+],
+[
+"闲暇",
+23147,
+"xian2 xia2",
+"leisure; free time; unoccupied; not in use"
 ]
 ],
 "strokes": [

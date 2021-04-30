@@ -8,52 +8,107 @@
 "words": [
 [
 "准备",
-0,
 2,
 "zhǔnbèi",
 "prepare; get ready"
 ],
 [
 "标准",
-0,
 4,
 "biāozhǔn",
 "(an official) standard; norm; criterion"
 ],
 [
 "准确",
-0,
 4,
 "zhǔnquè",
 "accurate; precise"
 ],
 [
 "准时",
-0,
 4,
 "zhǔnshí",
 "punctually; on time"
 ],
 [
 "批准",
-0,
 5,
 "pīzhǔn",
 "approve; ratify"
 ],
 [
 "瞄准",
-0,
 6,
 "miáozhǔn",
 "take aim (a weapon at a target)"
 ],
 [
 "准则",
-0,
 6,
 "zhǔnzé",
 "principle; standard or norm; criterion"
+]
+],
+"extraWords": [
+[
+"准",
+1287,
+"zhun3",
+"accurate; standard; to allow; to grant; to permit; accurate; standard"
+],
+[
+"不准",
+3306,
+"bu4 zhun3",
+"not allow; forbid; prohibit"
+],
+[
+"对准",
+7012,
+"dui4 zhun3",
+"to aim at; to target; to point at; to be directed at; registration; alignment (mechanical engineering)"
+],
+[
+"水准",
+7989,
+"shui3 zhun3",
+"horizontal; level"
+],
+[
+"准许",
+9263,
+"zhun3 xu3",
+"to allow; to grant; to permit"
+],
+[
+"获准",
+16529,
+"huo4 zhun3",
+"obtain permission"
+],
+[
+"校准",
+17813,
+"jiao4 zhun3",
+"calibrate"
+],
+[
+"准将",
+18359,
+"zhun3 jiang1",
+"brigadier; army rank below general"
+],
+[
+"核准",
+27435,
+"he2 zhun3",
+"to authorize; to investigate then ratify"
+],
+[
+"标准化",
+28802,
+"biao1 zhun3 hua4",
+"standardization"
 ]
 ],
 "strokes": [

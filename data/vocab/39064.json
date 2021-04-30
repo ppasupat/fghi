@@ -8,66 +8,119 @@
 "words": [
 [
 "题",
-0,
 2,
 "tí",
 "topic; subject; question on a test or assignment"
 ],
 [
 "问题",
-0,
 2,
 "wèntí",
 "question; problem"
 ],
 [
 "话题",
-0,
 5,
 "huàtí",
 "subject (of a talk or conversation)"
 ],
 [
 "题目",
-0,
 5,
 "tímù",
 "subject; title; topic"
 ],
 [
 "主题",
-0,
 5,
 "zhǔtí",
 "theme; subject; topic"
 ],
 [
 "标题",
-0,
 6,
 "biāotí",
 "title; header; headline; caption"
 ],
 [
 "课题",
-0,
 6,
 "kètí",
 "task; problem; issue; question for discussion"
 ],
 [
 "题材",
-0,
 6,
 "tícái",
 "subject matter"
 ],
 [
 "专题",
-0,
 6,
 "zhuāntí",
 "special topic; questions; special matter or subject"
+]
+],
+"extraWords": [
+[
+"难题",
+7256,
+"nan2 ti2",
+"difficult problem"
+],
+[
+"小题大做",
+11386,
+"xiao3 ti2 da4 zuo4",
+"to make a big fuss over a minor issue (idiom)"
+],
+[
+"议题",
+17881,
+"yi4 ti2",
+"topic of discussion; topic; subject; issue (under discussion)"
+],
+[
+"试题",
+26388,
+"shi4 ti2",
+"exam question; test topic"
+],
+[
+"命题",
+26651,
+"ming4 ti2",
+"a proposition; to assign an essay topic"
+],
+[
+"出难题",
+32877,
+"chu1 nan2 ti2",
+"to raise a tough question"
+],
+[
+"论题",
+33675,
+"lun4 ti2",
+"topic"
+],
+[
+"切题",
+34020,
+"qie4 ti2",
+"to keep to the subject"
+],
+[
+"题词",
+35084,
+"ti2 ci2",
+"inscription; dedication"
+],
+[
+"出题",
+38316,
+"chu1 ti2",
+"to draw up the theme (for discussion)"
 ]
 ],
 "strokes": [

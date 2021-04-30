@@ -8,80 +8,131 @@
 "words": [
 [
 "工资",
-0,
 4,
 "gōngzī",
 "wages; pay; earnings; salary"
 ],
 [
 "投资",
-0,
 5,
 "tóu zī",
 "investment"
 ],
 [
 "资格",
-0,
 5,
 "zīgé",
 "qualifications; seniority"
 ],
 [
 "资金",
-0,
 5,
 "zījīn",
 "funds; funding"
 ],
 [
 "资料",
-0,
 5,
 "zīliào",
 "data; material; resources; information"
 ],
 [
 "资源",
-0,
 5,
 "zīyuán",
 "natural resource; resource"
 ],
 [
 "物资",
-0,
 6,
 "wùzī",
 "goods and materials; commodity"
 ],
 [
 "资本",
-0,
 6,
 "zīběn",
 "(Economics) capital; asset"
 ],
 [
 "资产",
-0,
 6,
 "zīchǎn",
 "property; assets"
 ],
 [
 "资深",
-0,
 6,
 "zīshēn",
 "experienced; senior"
 ],
 [
 "资助",
-0,
 6,
 "zīzhù",
 "subsidy; provide financial aid"
+]
+],
+"extraWords": [
+[
+"投资者",
+11250,
+"tou2 zi1 zhe3",
+"investor"
+],
+[
+"资",
+11767,
+"zi1",
+"resources; capital; to provide; to supply; to support; money; expense"
+],
+[
+"资料库",
+13167,
+"zi1 liao4 ku4",
+"database"
+],
+[
+"投资人",
+13426,
+"tou2 zi1 ren2",
+"investor"
+],
+[
+"资讯",
+13463,
+"zi1 xun4",
+"information"
+],
+[
+"资本主义",
+14025,
+"zi1 ben3 zhu3 yi4",
+"capitalism"
+],
+[
+"资历",
+15899,
+"zi1 li4",
+"qualifications; experience; seniority"
+],
+[
+"筹资",
+18963,
+"chou2 zi1",
+"to raise resources"
+],
+[
+"资本家",
+20310,
+"zi1 ben3 jia1",
+"capitalist"
+],
+[
+"资质",
+20586,
+"zi1 zhi4",
+"aptitude; natural endowments"
 ]
 ],
 "strokes": [

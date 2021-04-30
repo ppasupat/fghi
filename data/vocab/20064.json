@@ -8,59 +8,113 @@
 "words": [
 [
 "学习",
-0,
 1,
 "xuéxí",
 "learn; to study"
 ],
 [
 "复习",
-0,
 3,
 "fùxí",
 "revise; to review"
 ],
 [
 "练习",
-0,
 3,
 "liànxí",
 "practice; exercise"
 ],
 [
 "习惯",
-0,
 3,
 "xíguàn",
 "habit; be accustomed to; usual practice"
 ],
 [
 "预习",
-0,
 4,
 "yùxí",
 "(of students) prepare a lesson before class; preview"
 ],
 [
 "实习",
-0,
 5,
 "shíxí",
 "to practice; field work; work as an intern"
 ],
 [
 "习俗",
-0,
 6,
 "xísú",
 "custom; tradition; (local) convention"
 ],
 [
 "演习",
-0,
 6,
 "yǎnxí",
 "rehearse; practice; put on a play"
+]
+],
+"extraWords": [
+[
+"实习生",
+4725,
+"shi2 xi2 sheng5",
+"intern (student)"
+],
+[
+"习以为常",
+16402,
+"xi2 yi3 wei2 chang2",
+"accustomed to; used to"
+],
+[
+"恶习",
+17995,
+"e4 xi2",
+"bad habit; vice"
+],
+[
+"习",
+19790,
+"xi2",
+"to practice; to study; habit"
+],
+[
+"补习",
+20291,
+"bu3 xi2",
+"take lessons after school or work; extra tuition; to cram (for exams)"
+],
+[
+"自习",
+21550,
+"zi4 xi2",
+"to study by oneself; teach yourself"
+],
+[
+"练习场",
+23855,
+"lian4 xi2 chang3",
+"driving range (golf); practice court; practice ground"
+],
+[
+"补习班",
+23895,
+"bu3 xi2 ban1",
+"cram class; cram school"
+],
+[
+"习惯性",
+24446,
+"xi2 guan4 xing4",
+"customary"
+],
+[
+"温习",
+24746,
+"wen1 xi2",
+"to review; to revise"
 ]
 ],
 "strokes": [

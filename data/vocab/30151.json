@@ -8,17 +8,77 @@
 "words": [
 [
 "癌症",
-0,
 6,
 "áizhèng",
 "cancer"
 ],
 [
 "症状",
-0,
 6,
 "zhèngzhuàng",
 "symptom (of an illness)"
+]
+],
+"extraWords": [
+[
+"症",
+1935,
+"zheng1/zheng4",
+"disease; illness"
+],
+[
+"恐惧症",
+9156,
+"kong3 ju4 zheng4",
+"phobia"
+],
+[
+"强迫症",
+10478,
+"qiang2 po4 zheng4",
+"obsessive-compulsive disorder"
+],
+[
+"病症",
+10896,
+"bing4 zheng4",
+"disease; illness"
+],
+[
+"并发症",
+11244,
+"bing4 fa1 zheng4",
+"complications (undesired side-effect of medical procedure)"
+],
+[
+"重症",
+11287,
+"zhong4 zheng4",
+"acute (of medical condition); grave"
+],
+[
+"抑郁症",
+11398,
+"yi4 yu4 zheng4",
+"clinical depression"
+],
+[
+"绝症",
+16182,
+"jue2 zheng4",
+"incurable disease; terminal illness"
+],
+[
+"后遗症",
+16947,
+"hou4 yi2 zheng4",
+"medical after-effects; repercussions of an illness"
+],
+[
+"老年痴呆症",
+17651,
+"lao3 nian2 chi1 dai1 zheng4",
+"senile dementia; Alzheimer’s disease"
 ]
 ],
 "strokes": [

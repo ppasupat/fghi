@@ -8,101 +8,149 @@
 "words": [
 [
 "非常",
-0,
 2,
 "fēicháng",
 "extremely; extraordinary; very"
 ],
 [
 "经常",
-0,
 3,
 "jīngcháng",
 "often; frequently; daily"
 ],
 [
 "正常",
-0,
 4,
 "zhèngcháng",
 "normal; regular; ordinary"
 ],
 [
 "常识",
-0,
 5,
 "chángshí",
 "common sense; general knowledge"
 ],
 [
 "平常",
-0,
 5,
 "píngcháng",
 "ordinary; usually; common"
 ],
 [
 "日常",
-0,
 5,
 "rìcháng",
 "daily; everyday"
 ],
 [
 "通常",
-0,
 5,
 "tōngcháng",
 "regular; usual; normal; ordinary"
 ],
 [
 "照常",
-0,
 5,
 "zhàocháng",
 "as usual; normal"
 ],
 [
 "反常",
-0,
 6,
 "fǎncháng",
 "abnormal; unusual"
 ],
 [
 "家常",
-0,
 6,
 "jiācháng",
 "the daily life of a family; home-style (food)"
 ],
 [
 "时常",
-0,
 6,
 "shícháng",
 "time and again; often; frequently"
 ],
 [
 "往常",
-0,
 6,
 "wǎngcháng",
 "habitually in the past; as one used to do; as it used to be"
 ],
 [
 "异常",
-0,
 6,
 "yìcháng",
 "exceptional; abnormal"
 ],
 [
 "知足常乐",
-0,
 6,
 "zhīzúchánglè",
 "content with what one has"
+]
+],
+"extraWords": [
+[
+"常",
+1384,
+"chang2",
+"always; ever; often; frequently; common; general; constant; surname Chang"
+],
+[
+"常常",
+2979,
+"chang2 chang2",
+"frequently; usually; often"
+],
+[
+"寻常",
+4104,
+"xun2 chang2",
+"usual; common; ordinary"
+],
+[
+"失常",
+5994,
+"shi1 chang2",
+"not normal; an aberration"
+],
+[
+"常规",
+6050,
+"chang2 gui1",
+"conventional (weapons); conventional; common; routine"
+],
+[
+"常见",
+6320,
+"chang2 jian4",
+"commonly seen; common; to see sth frequently"
+],
+[
+"常客",
+8979,
+"chang2 ke4",
+"frequent visitor; fig. sth that crops up frequently"
+],
+[
+"常人",
+9537,
+"chang2 ren2",
+"ordinary person"
+],
+[
+"常理",
+11735,
+"chang2 li3",
+"common sense; conventional reasoning and morals"
+],
+[
+"无常",
+13525,
+"wu2 chang2",
+"variable; changeable; fickle; impermanence (Sanskrit: anitya); ghost taking away the soul after death; to pass away; to die"
 ]
 ],
 "strokes": [

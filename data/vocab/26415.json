@@ -8,59 +8,113 @@
 "words": [
 [
 "技术",
-0,
 4,
 "jìshù",
 "technology; technique; skill"
 ],
 [
 "艺术",
-0,
 4,
 "yìshù",
 "art"
 ],
 [
 "美术",
-0,
 5,
 "měishù",
 "the fine arts; art"
 ],
 [
 "手术",
-0,
 5,
 "shǒushù",
 "surgery; operation"
 ],
 [
 "武术",
-0,
 5,
 "wǔshù",
 "martial arts"
 ],
 [
 "学术",
-0,
 5,
 "xuéshù",
 "learning; science; academic"
 ],
 [
 "魔术",
-0,
 6,
 "móshù",
 "magic"
 ],
 [
 "战术",
-0,
 6,
 "zhànshù",
 "(military) tactics"
+]
+],
+"extraWords": [
+[
+"艺术家",
+2835,
+"yi4 shu4 jia1",
+"artist"
+],
+[
+"术",
+2992,
+"shu4/zhu2",
+"method; technique"
+],
+[
+"艺术品",
+5705,
+"yi4 shu4 pin3",
+"art piece; work of art"
+],
+[
+"魔术师",
+6194,
+"mo2 shu4 shi1",
+"magician"
+],
+[
+"巫术",
+7473,
+"wu1 shu4",
+"witchcraft"
+],
+[
+"术语",
+8152,
+"shu4 yu3",
+"term; terminology"
+],
+[
+"骗术",
+13389,
+"pian4 shu4",
+"trick; deceit"
+],
+[
+"技术员",
+15544,
+"ji4 shu4 yuan2",
+"technician"
+],
+[
+"剑术",
+15803,
+"jian4 shu4",
+"fencing"
+],
+[
+"催眠术",
+17342,
+"cui1 mian2 shu4",
+"hypnotize; hypnotism; mesmerism"
 ]
 ],
 "strokes": [

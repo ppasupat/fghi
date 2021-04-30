@@ -8,178 +8,215 @@
 "words": [
 [
 "公共汽车",
-0,
 2,
 "gōnggòng qìchē",
 "(public) bus"
 ],
 [
 "公司",
-0,
 2,
 "gōngsī",
 "company; corporation"
 ],
 [
 "办公室",
-0,
 3,
 "bàngōngshì",
 "office"
 ],
 [
 "公斤",
-0,
 3,
 "gōngjīn",
 "kilogram"
 ],
 [
 "公园",
-0,
 3,
 "gōngyuán",
 "public park"
 ],
 [
 "高速公路",
-0,
 4,
 "gāosù gōnglù",
 "highway"
 ],
 [
 "公里",
-0,
 4,
 "gōnglǐ",
 "kilometer"
 ],
 [
 "公布",
-0,
 5,
 "gōngbù",
 "make public; announce; publicize"
 ],
 [
 "公开",
-0,
 5,
 "gōngkāi",
 "public; make public"
 ],
 [
 "公平",
-0,
 5,
 "gōngpíng",
 "fair; impartial; just"
 ],
 [
 "公寓",
-0,
 5,
 "gōngyù",
 "apartment building"
 ],
 [
 "公元",
-0,
 5,
 "gōngyuán",
 "(year) AD or CE; Christian era; common era"
 ],
 [
 "公主",
-0,
 5,
 "gōngzhǔ",
 "princess"
 ],
 [
 "外公",
-0,
 5,
 "wàigōng",
 "maternal grandfather"
 ],
 [
 "公安局",
-0,
 6,
 "gōngānjú",
 "public security bureau"
 ],
 [
 "公道",
-0,
 6,
 "gōngdao",
 "fair; equitable"
 ],
 [
 "公告",
-0,
 6,
 "gōnggào",
 "post; announcement"
 ],
 [
 "公关",
-0,
 6,
 "gōngguān",
 "public relations"
 ],
 [
 "公民",
-0,
 6,
 "gōngmín",
 "citizen"
 ],
 [
 "公然",
-0,
 6,
 "gōngrán",
 "(do something) openly; undisguised"
 ],
 [
 "公认",
-0,
 6,
 "gōngrèn",
 "publicly know (to be); recognize; generally acknowledged"
 ],
 [
 "公式",
-0,
 6,
 "gōngshì",
 "formula"
 ],
 [
 "公务",
-0,
 6,
 "gōngwù",
 "public affairs; official business"
 ],
 [
 "公正",
-0,
 6,
 "gōngzhèng",
 "just; fair"
 ],
 [
 "公证",
-0,
 6,
 "gōngzhèng",
 "notarization"
+]
+],
+"extraWords": [
+[
+"老公",
+2326,
+"lao3 gong5",
+"(informal) husband; (coll.) eunuch; see also 老公 lao3 gong1"
+],
+[
+"公路",
+2515,
+"gong1 lu4",
+"public road"
+],
+[
+"公众",
+2746,
+"gong1 zhong4",
+"public"
+],
+[
+"公共",
+2849,
+"gong1 gong4",
+"public; common (use)"
+],
+[
+"公",
+4239,
+"gong1",
+"\"public; collectively owned; common; international (e.g. high seas, metric system, calendar); make public; fair; just; Duke, highest of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]; honorable (gentlemen); father-in-law; male (animal)\""
+],
+[
+"公车",
+4368,
+"gong1 che1",
+"bus"
+],
+[
+"公爵",
+4431,
+"gong1 jue2",
+"duke"
+],
+[
+"公子",
+5372,
+"gong1 zi3",
+"son of an official; son of nobility; honorific: Your esteemed son"
+],
+[
+"公事",
+6020,
+"gong1 shi4",
+"\"public affairs; official (matters, duties etc)\""
+],
+[
+"办公",
+6860,
+"ban4 gong1",
+"to handle official business; to work (esp. in an office)"
 ]
 ],
 "strokes": [

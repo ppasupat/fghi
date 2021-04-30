@@ -8,87 +8,137 @@
 "words": [
 [
 "产品",
-0,
 5,
 "chǎnpǐn",
 "product; goods; merchandise"
 ],
 [
 "日用品",
-0,
 5,
 "rìyòngpǐn",
 "daily necessities"
 ],
 [
 "商品",
-0,
 5,
 "shāngpǐn",
 "goods; commodity; merchandise"
 ],
 [
 "作品",
-0,
 5,
 "zuòpǐn",
 "works (of literature and art)"
 ],
 [
 "次品",
-0,
 6,
 "cìpǐn",
 "defective or substandard products"
 ],
 [
 "毒品",
-0,
 6,
 "dúpǐn",
 "drugs; narcotics; poison"
 ],
 [
 "工艺品",
-0,
 6,
 "gōngyìpǐn",
 "handicraft; handiwork"
 ],
 [
 "品尝",
-0,
 6,
 "pǐncháng",
 "try; taste a small amount; to sample"
 ],
 [
 "品德",
-0,
 6,
 "pǐndé",
 "moral character; morality; morals"
 ],
 [
 "品质",
-0,
 6,
 "pǐnzhì",
 "quality; character"
 ],
 [
 "品种",
-0,
 6,
 "pǐnzhǒng",
 "breed; variety"
 ],
 [
 "样品",
-0,
 6,
 "yàngpǐn",
 "sample; specimen"
+]
+],
+"extraWords": [
+[
+"物品",
+2549,
+"wu4 pin3",
+"articles; goods; materials"
+],
+[
+"食品",
+3202,
+"shi2 pin3",
+"foodstuff; food; provisions"
+],
+[
+"品牌",
+3763,
+"pin3 pai2",
+"brand name; trademark"
+],
+[
+"品",
+4325,
+"pin3",
+"article; commodity; product; goods; kind; grade; rank; character; disposition; nature; temperament; variety; to taste sth; to sample; to criticize; to comment; to judge; to size up"
+],
+[
+"药品",
+5022,
+"yao4 pin3",
+"medicaments; medicine; drug"
+],
+[
+"用品",
+5063,
+"yong4 pin3",
+"articles for use; products; goods"
+],
+[
+"品味",
+5307,
+"pin3 wei4",
+"\"to sample; to taste; to appreciate; one's taste (i.e. in music, literature, fashion, food and drink etc); good taste\""
+],
+[
+"奖品",
+5374,
+"jiang3 pin3",
+"award; prize"
+],
+[
+"艺术品",
+5705,
+"yi4 shu4 pin3",
+"art piece; work of art"
+],
+[
+"化妆品",
+5943,
+"hua4 zhuang1 pin3",
+"cosmetic; make-up product"
 ]
 ],
 "strokes": [

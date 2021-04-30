@@ -8,59 +8,113 @@
 "words": [
 [
 "养成",
-0,
 4,
 "yǎngchéng",
 "cultivate; acquire; to form"
 ],
 [
 "培养",
-0,
 5,
 "péiyǎng",
 "to train; cultivate; bring up"
 ],
 [
 "营养",
-0,
 5,
 "yíngyǎng",
 "nutrition; nourishment; sustenance"
 ],
 [
 "保养",
-0,
 6,
 "bǎoyǎng",
 "take good care of (or conserve) one's health; keep in good repair"
 ],
 [
 "抚养",
-0,
 6,
 "fǔyǎng",
 "foster; bring up; raise"
 ],
 [
 "教养",
-0,
 6,
 "jiàoyǎng",
 "upbringing; education; bring up; nurture and train"
 ],
 [
 "饲养",
-0,
 6,
 "sìyǎng",
 "to raise; to rear (domestic animal)"
 ],
 [
 "修养",
-0,
 6,
 "xiūyǎng",
 "accomplishment; self-cultivation"
+]
+],
+"extraWords": [
+[
+"养",
+1024,
+"yang3",
+"to raise (animals); to bring up (children); to keep (pets); to support; to give birth"
+],
+[
+"收养",
+3665,
+"shou1 yang3",
+"adopt; adoption"
+],
+[
+"领养",
+4957,
+"ling3 yang3",
+"adoption; to adopt a child"
+],
+[
+"养活",
+7695,
+"yang3 huo5",
+"\"to provide for; to keep (animals, a family etc); to raise animals; to feed and clothe; support; the necessities of life; to give birth\""
+],
+[
+"养老金",
+9976,
+"yang3 lao3 jin1",
+"pension"
+],
+[
+"养育",
+10226,
+"yang3 yu4",
+"foster; rear"
+],
+[
+"养老院",
+10810,
+"yang3 lao3 yuan4",
+"nursing home"
+],
+[
+"赡养费",
+11282,
+"shan4 yang3 fei4",
+"alimony; child support; maintenance allowance"
+],
+[
+"养家",
+11370,
+"yang3 jia1",
+"to support a family; to raise a family"
+],
+[
+"喂养",
+13005,
+"wei4 yang3",
+"feeding; nutrition"
 ]
 ],
 "strokes": [

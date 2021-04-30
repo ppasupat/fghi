@@ -8,73 +8,125 @@
 "words": [
 [
 "认识",
-0,
 1,
 "rènshi",
 "recognize; know (a person)"
 ],
 [
 "认为",
-0,
 3,
 "rènwéi",
 "believe; think that"
 ],
 [
 "认真",
-0,
 3,
 "rènzhēn",
 "serious; earnest; take seriously"
 ],
 [
 "承认",
-0,
 5,
 "chéngrèn",
 "to admit; concede; acknowledge"
 ],
 [
 "否认",
-0,
 5,
 "fǒurèn",
 "deny; declare to be untrue"
 ],
 [
 "确认",
-0,
 5,
 "quèrèn",
 "confirm; confirmation; verify"
 ],
 [
 "辨认",
-0,
 6,
 "biànrèn",
 "distinguish; identify; recognize"
 ],
 [
 "公认",
-0,
 6,
 "gōngrèn",
 "publicly know (to be); recognize; generally acknowledged"
 ],
 [
 "认定",
-0,
 6,
 "rèndìng",
 "maintain (that sth. is true); firmly believe"
 ],
 [
 "认可",
-0,
 6,
 "rènkě",
 "approve; accept; ratify"
+]
+],
+"extraWords": [
+[
+"认",
+2080,
+"ren4",
+"to recognize; to know; to admit"
+],
+[
+"认出",
+2671,
+"ren4 chu1",
+"recognition; to recognize"
+],
+[
+"认罪",
+4358,
+"ren4 zui4",
+"to admit guilt; to plead guilty"
+],
+[
+"认得",
+5114,
+"ren4 de5",
+"to recognize; to remember sth (or sb) on seeing it; to know"
+],
+[
+"认同",
+6571,
+"ren4 tong2",
+"identify; approve; acknowledge"
+],
+[
+"认输",
+7561,
+"ren4 shu1",
+"to concede; to admit defeat"
+],
+[
+"认错",
+9138,
+"ren4 cuo4",
+"to admit an error; to acknowledge one's mistake"
+],
+[
+"认知",
+9641,
+"ren4 zhi1",
+"cognition; to acknowledge"
+],
+[
+"认证",
+11918,
+"ren4 zheng4",
+"to authenticate; to approve"
+],
+[
+"认清",
+12625,
+"ren4 qing1",
+"to see clearly; to recognize"
 ]
 ],
 "strokes": [

@@ -8,31 +8,89 @@
 "words": [
 [
 "触犯",
-0,
 6,
 "chùfàn",
 "offend; violate"
 ],
 [
 "冒犯",
-0,
 6,
 "màofàn",
 "to offend"
 ],
 [
 "侵犯",
-0,
 6,
 "qīnfàn",
 "encroach on; infringe on; violation"
 ],
 [
 "罪犯",
-0,
 6,
 "zuìfàn",
 "criminal"
+]
+],
+"extraWords": [
+[
+"犯",
+752,
+"fan4",
+"to violate; to offend; to assault; criminal; crime; to make a mistake; recurrence (of mistake or sth bad)"
+],
+[
+"犯罪",
+894,
+"fan4 zui4",
+"to commit a crime; crime; offense"
+],
+[
+"犯人",
+2341,
+"fan4 ren2",
+"convict; prisoner; criminal"
+],
+[
+"嫌犯",
+2464,
+"xian2 fan4",
+"a suspect"
+],
+[
+"嫌疑犯",
+3088,
+"xian2 yi2 fan4",
+"a suspect"
+],
+[
+"杀人犯",
+3156,
+"sha1 ren2 fan4",
+"murderer; homicide"
+],
+[
+"疑犯",
+3157,
+"yi2 fan4",
+"a suspect"
+],
+[
+"囚犯",
+3337,
+"qiu2 fan4",
+"a prisoner; a convict"
+],
+[
+"犯规",
+6054,
+"fan4 gui1",
+"to break the rules; an illegality; a foul"
+],
+[
+"犯法",
+6186,
+"fan4 fa3",
+"to break the law"
 ]
 ],
 "strokes": [

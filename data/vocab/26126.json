@@ -8,157 +8,197 @@
 "words": [
 [
 "明天",
-0,
 1,
 "míngtiān",
 "tomorrow"
 ],
 [
 "聪明",
-0,
 3,
 "cōngming",
 "intelligent; clever; bright; smart"
 ],
 [
 "明白",
-0,
 3,
 "míngbai",
 "clear; obvious; understand; explicit"
 ],
 [
 "说明",
-0,
 4,
 "shuōmíng",
 "explain; explanation; illustrate; to show"
 ],
 [
 "证明",
-0,
 4,
 "zhèngmíng",
 "proof; testify; confirm; certificate"
 ],
 [
 "表明",
-0,
 5,
 "biǎomíng",
 "make clear; make known"
 ],
 [
 "发明",
-0,
 5,
 "fāmíng",
 "invent"
 ],
 [
 "光明",
-0,
 5,
 "guāngmíng",
 "bright (future); promising; illuminate"
 ],
 [
 "明确",
-0,
 5,
 "míngquè",
 "clear-cut; clearly; clarify"
 ],
 [
 "明显",
-0,
 5,
 "míngxiǎn",
 "clear; obvious"
 ],
 [
 "明星",
-0,
 5,
 "míngxīng",
 "(movie, etc.) star; celebrity"
 ],
 [
 "透明",
-0,
 5,
 "tòumíng",
 "transparent; open (non-secretive)"
 ],
 [
 "文明",
-0,
 5,
 "wénmíng",
 "civilization; civilized; culture"
 ],
 [
 "分明",
-0,
 6,
 "fēnmíng",
 "clear; distinct; evidently; clearly"
 ],
 [
 "高明",
-0,
 6,
 "gāomíng",
 "brilliant; wise"
 ],
 [
 "开明",
-0,
 6,
 "kāimíng",
 "enlightened; open-minded"
 ],
 [
 "黎明",
-0,
 6,
 "límíng",
 "dawn; daybreak"
 ],
 [
 "明明",
-0,
 6,
 "míngmíng",
 "obviously; plainly; undoubtedly"
 ],
 [
 "明智",
-0,
 6,
 "míngzhì",
 "wise"
 ],
 [
 "声明",
-0,
 6,
 "shēngmíng",
 "statement; declare; proclaim"
 ],
 [
 "鲜明",
-0,
 6,
 "xiānmíng",
 "bright; clear-cut; distinct"
 ],
 [
 "英明",
-0,
 6,
 "yīngmíng",
 "wise; brilliant"
+]
+],
+"extraWords": [
+[
+"明",
+2106,
+"ming2",
+"clear; bright; to understand; next; the Ming dynasty (1368-1644); surname Ming"
+],
+[
+"三明治",
+2173,
+"san1 ming2 zhi4",
+"sandwich"
+],
+[
+"明年",
+3384,
+"ming2 nian2",
+"next year"
+],
+[
+"不明",
+4842,
+"bu4 ming2",
+"not clear; unknown; fail to understand"
+],
+[
+"查明",
+6717,
+"cha2 ming2",
+"to investigate and find out; to ascertain"
+],
+[
+"明信片",
+8866,
+"ming2 xin4 pian4",
+"postcard"
+],
+[
+"精明",
+8915,
+"jing1 ming2",
+"astute; skilled"
+],
+[
+"明了",
+9025,
+"ming2 liao3",
+"to understand clearly; to be clear about; plain; clear"
+],
+[
+"失明",
+9270,
+"shi1 ming2",
+"to become blind; blindness"
+],
+[
+"本杰明",
+9363,
+"ben3 jie2 ming2",
+"Benjamin (person name)"
 ]
 ],
 "strokes": [

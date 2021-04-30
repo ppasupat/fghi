@@ -8,52 +8,107 @@
 "words": [
 [
 "能源",
-0,
 5,
 "néngyuán",
 "energy resources; power source"
 ],
 [
 "资源",
-0,
 5,
 "zīyuán",
 "natural resource; resource"
 ],
 [
 "电源",
-0,
 6,
 "diànyuán",
 "electric power supply"
 ],
 [
 "根源",
-0,
 6,
 "gēnyuán",
 "origin; root; source"
 ],
 [
 "来源",
-0,
 6,
 "láiyuán",
 "source; originate"
 ],
 [
 "起源",
-0,
 6,
 "qǐyuán",
 "origin; originate; come from"
 ],
 [
 "源泉",
-0,
 6,
 "yuánquán",
 "headspring; fountainhead; water source"
+]
+],
+"extraWords": [
+[
+"源",
+5383,
+"yuan2",
+"root; source; origin"
+],
+[
+"源头",
+8192,
+"yuan2 tou2",
+"source"
+],
+[
+"水源",
+11330,
+"shui3 yuan2",
+"water source; water supply; headwaters of a river"
+],
+[
+"发源地",
+19829,
+"fa1 yuan2 di4",
+"place of origin; birthplace; source"
+],
+[
+"光源",
+20660,
+"guang1 yuan2",
+"light source"
+],
+[
+"渊源",
+20795,
+"yuan1 yuan2",
+"origin; source; relationship"
+],
+[
+"热源",
+21145,
+"re4 yuan2",
+"heat source"
+],
+[
+"源源不断",
+21496,
+"yuan2 yuan2 bu4 duan4",
+"a steady flow (idiom); an unending stream"
+],
+[
+"世外桃源",
+22788,
+"shi4 wai4 tao2 yuan2",
+"\"the Garden of the Peaches of Immortality; Shangri-la; imaginary land of joy and plenty  (sim. Utopia, Cockaigne, Shangri-la)\""
+],
+[
+"货源",
+23914,
+"huo4 yuan2",
+"supply of goods"
 ]
 ],
 "strokes": [

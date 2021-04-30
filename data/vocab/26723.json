@@ -8,31 +8,59 @@
 "words": [
 [
 "高档",
-0,
 5,
 "gāodàng",
 "top quality; first rate; high class"
 ],
 [
 "搭档",
-0,
 6,
 "dādàng",
 "team up; cooperate; work together"
 ],
 [
 "档案",
-0,
 6,
 "dàng'àn",
 "file; record; archive"
 ],
 [
 "档次",
-0,
 6,
 "dàngcì",
 "grade; quality; class; level"
+]
+],
+"extraWords": [
+[
+"档",
+3211,
+"dang4",
+"official records; grade (of goods); file; records; shelves; cross-piece; (classifier for cross-pieces)"
+],
+[
+"文档",
+11255,
+"wen2 dang4",
+"(computer) file"
+],
+[
+"归档",
+14694,
+"gui1 dang4",
+"to file away; to place on file"
+],
+[
+"存档",
+17568,
+"cun2 dang4",
+"to file; to save a file (computer)"
+],
+[
+"档案馆",
+21470,
+"dang4 an4 guan3",
+"archive library"
 ]
 ],
 "strokes": [

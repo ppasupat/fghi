@@ -8,38 +8,95 @@
 "words": [
 [
 "公司",
-0,
 2,
 "gōngsī",
 "company; corporation"
 ],
 [
 "司机",
-0,
 3,
 "sījī",
 "driver; chauffeur"
 ],
 [
 "打官司",
-0,
 6,
 "dǎ guānsi",
 "go to court"
 ],
 [
 "司法",
-0,
 6,
 "sīfǎ",
 "judicial; (administration of) justice"
 ],
 [
 "司令",
-0,
 6,
 "sīlìng",
 "commanding officer"
+]
+],
+"extraWords": [
+[
+"司",
+2185,
+"si1",
+"company; control; surname Si"
+],
+[
+"上司",
+3272,
+"shang4 si5",
+"boss; superior"
+],
+[
+"官司",
+3874,
+"guan1 si5",
+"lawsuit"
+],
+[
+"盎司",
+9249,
+"ang4 si1",
+"ounce"
+],
+[
+"阿司匹林",
+9257,
+"a1 si1 pi3 lin2",
+"aspirin"
+],
+[
+"司法部",
+9305,
+"Si1 fa3 bu4",
+"Justice Department (of the US government)"
+],
+[
+"司令部",
+13415,
+"si1 ling4 bu4",
+"headquarters; military command center"
+],
+[
+"土司",
+14309,
+"tu3 si1",
+"\"system of appointing national minority hereditary headmen in the Yuan, Ming and Qing dynasties; toast\""
+],
+[
+"有限公司",
+16478,
+"you3 xian4 gong1 si1",
+"limited company; corporation"
+],
+[
+"百货公司",
+17629,
+"bai3 huo4 gong1 si1",
+"department store"
 ]
 ],
 "strokes": [

@@ -8,52 +8,107 @@
 "words": [
 [
 "不管",
-0,
 4,
 "bùguǎn",
 "no matter (what, how, etc.); regardless of"
 ],
 [
 "管理",
-0,
 4,
 "guǎnlǐ",
 "supervise; manage"
 ],
 [
 "尽管",
-0,
 4,
 "jǐnguǎn",
 "despite; although; even though | freely; without hesitation"
 ],
 [
 "管子",
-0,
 5,
 "guǎnzi",
 "tube; pipe; drinking straw"
 ],
 [
 "保管",
-0,
 6,
 "bǎoguǎn",
 "assure; take care of; surely"
 ],
 [
 "管辖",
-0,
 6,
 "guǎnxiá",
 "administer; have jurisdiction (over)"
 ],
 [
 "主管",
-0,
 6,
 "zhǔguǎn",
 "person in charge of (a position, etc.); preside over; Chief Operating Officer (COO)"
+]
+],
+"extraWords": [
+[
+"管",
+394,
+"guan3",
+"to take care (of); to control; to manage; to be in charge of; to look after; to run; tube; pipe; surname Guan"
+],
+[
+"管用",
+2729,
+"guan3 yong4",
+"efficacious; useful"
+],
+[
+"接管",
+4924,
+"jie1 guan3",
+"take over; assume control"
+],
+[
+"管道",
+4927,
+"guan3 dao4",
+"pipeline"
+],
+[
+"管理员",
+5361,
+"guan3 li3 yuan2",
+"manager; administrator"
+],
+[
+"血管",
+5559,
+"xue4 guan3",
+"vein; artery"
+],
+[
+"水管",
+5660,
+"shui3 guan3",
+"water pipe"
+],
+[
+"管家",
+5681,
+"guan3 jia1",
+"housekeeper; butler; manage one's household"
+],
+[
+"管闲事",
+7505,
+"guan3 xian2 shi4",
+"\"to meddle; to be a \"\"nosy Parker\"\"; to be too inquistive about other people's business\""
+],
+[
+"掌管",
+8048,
+"zhang3 guan3",
+"in charge of; to control"
 ]
 ],
 "strokes": [

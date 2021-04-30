@@ -8,73 +8,125 @@
 "words": [
 [
 "语言",
-0,
 4,
 "yǔyán",
 "language"
 ],
 [
 "发言",
-0,
 5,
 "fāyán",
 "make a speech; statement"
 ],
 [
 "不言而喻",
-0,
 6,
 "bùyán'éryù",
 "it goes without saying; it is self-evident"
 ],
 [
 "方言",
-0,
 6,
 "fāngyán",
 "dialect"
 ],
 [
 "序言",
-0,
 6,
 "xùyán",
 "preface of a book, used to explain the book's objective"
 ],
 [
 "言论",
-0,
 6,
 "yánlùn",
 "expression of (political) opinion; speech"
 ],
 [
 "谣言",
-0,
 6,
 "yáoyán",
 "rumor"
 ],
 [
 "预言",
-0,
 6,
 "yùyán",
 "predict; prophecy"
 ],
 [
 "寓言",
-0,
 6,
 "yùyán",
 "fable"
 ],
 [
 "总而言之",
-0,
 6,
 "zǒngéryánzhī",
 "in short; in a word"
+]
+],
+"extraWords": [
+[
+"留言",
+1783,
+"liu2 yan2",
+"to leave one's comments; to leave a message"
+],
+[
+"谎言",
+2136,
+"huang3 yan2",
+"lie"
+],
+[
+"言",
+2332,
+"yan2",
+"to speak; to say; talk; word"
+],
+[
+"誓言",
+5164,
+"shi4 yan2",
+"oath; promise; pledge"
+],
+[
+"诺言",
+5264,
+"nuo4 yan2",
+"a promise"
+],
+[
+"传言",
+5474,
+"chuan2 yan2",
+"rumor; hearsay"
+],
+[
+"言语",
+6791,
+"yan2 yu3",
+"speech; talk"
+],
+[
+"可言",
+7444,
+"ke3 yan2",
+"It may be said"
+],
+[
+"宣言",
+7471,
+"xuan1 yan2",
+"declaration; manifesto"
+],
+[
+"胡言乱语",
+8602,
+"hu2 yan2 luan4 yu3",
+"babbling nonsense (idiom); crazy and unfounded ravings; double Dutch"
 ]
 ],
 "strokes": [

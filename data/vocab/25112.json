@@ -8,45 +8,101 @@
 "words": [
 [
 "挑战",
-0,
 5,
 "tiǎozhàn",
 "challenge"
 ],
 [
 "战争",
-0,
 5,
 "zhànzhēng",
 "war; conflict"
 ],
 [
 "战斗",
-0,
 6,
 "zhàndòu",
 "to fight; to battle; to struggle"
 ],
 [
 "战略",
-0,
 6,
 "zhànlüè",
 "strategy"
 ],
 [
 "战术",
-0,
 6,
 "zhànshù",
 "(military) tactics"
 ],
 [
 "战役",
-0,
 6,
 "zhànyì",
 "military campaign; battle"
+]
+],
+"extraWords": [
+[
+"战",
+1439,
+"zhan4",
+"to fight; fight; war; battle"
+],
+[
+"战士",
+2749,
+"zhan4 shi4",
+"fighter; soldier; warrior"
+],
+[
+"战场",
+3933,
+"zhan4 chang3",
+"battlefield"
+],
+[
+"战胜",
+4261,
+"zhan4 sheng4",
+"to prevail; to surmount"
+],
+[
+"作战",
+4282,
+"zuo4 zhan4",
+"combat; to fight"
+],
+[
+"大战",
+5280,
+"da4 zhan4",
+"great war"
+],
+[
+"开战",
+6298,
+"kai1 zhan4",
+"start a war"
+],
+[
+"战利品",
+7017,
+"zhan4 li4 pin3",
+"plunder"
+],
+[
+"战机",
+7288,
+"zhan4 ji1",
+"opportunity in a battle; fighter aircraft"
+],
+[
+"战友",
+7934,
+"zhan4 you3",
+"comrade-in-arms; battle companion"
 ]
 ],
 "strokes": [

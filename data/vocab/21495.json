@@ -8,52 +8,107 @@
 "words": [
 [
 "号",
-0,
 1,
 "hào",
 "number; day of a month"
 ],
 [
 "号码",
-0,
 4,
 "hàomǎ",
 "number"
 ],
 [
 "挂号",
-0,
 5,
 "guà hào",
 "register; check into hospital; send by registered mail"
 ],
 [
 "信号",
-0,
 5,
 "xìnhào",
 "signal"
 ],
 [
 "称号",
-0,
 6,
 "chēnghào",
 "title; term of address"
 ],
 [
 "符号",
-0,
 6,
 "fúhào",
 "symbol; mark; sign"
 ],
 [
 "号召",
-0,
 6,
 "hàozhào",
 "call upon; summon; to appeal"
+]
+],
+"extraWords": [
+[
+"头号",
+5229,
+"tou2 hao4",
+"first rate; top rank; number one"
+],
+[
+"记号",
+6499,
+"ji4 hao5",
+"notation; seal"
+],
+[
+"代号",
+6612,
+"dai4 hao4",
+"code name"
+],
+[
+"绰号",
+6718,
+"chuo4 hao4",
+"nickname"
+],
+[
+"编号",
+6820,
+"bian1 hao4",
+"number; serial number"
+],
+[
+"型号",
+7548,
+"xing2 hao4",
+"model number"
+],
+[
+"暗号",
+7860,
+"an4 hao4",
+"secret signal (sign); countersign; cipher"
+],
+[
+"拨号",
+8588,
+"bo1 hao4",
+"dial (a telephone)"
+],
+[
+"讯号",
+8604,
+"xun4 hao4",
+"signal"
+],
+[
+"外号",
+8792,
+"wai4 hao4",
+"nickname"
 ]
 ],
 "strokes": [

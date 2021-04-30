@@ -8,52 +8,107 @@
 "words": [
 [
 "照片",
-0,
 3,
 "zhàopiàn",
 "picture; photograph"
 ],
 [
 "动画片",
-0,
 5,
 "dònghuàpiàn",
 "animated film"
 ],
 [
 "名片",
-0,
 5,
 "míngpiàn",
 "business card"
 ],
 [
 "片",
-0,
 5,
 "piàn, piān",
 "(mw for pieces of things); a slice; a flake (Kangxi radical 91) | film; photo"
 ],
 [
 "片面",
-0,
 5,
 "piànmiàn",
 "one-sided; unilateral"
 ],
 [
 "片断",
-0,
 6,
 "piànduàn",
 "part; passage; extract; fragment; snatch"
 ],
 [
 "片刻",
-0,
 6,
 "piànkè",
 "a short period of time"
+]
+],
+"extraWords": [
+[
+"唱片",
+2495,
+"chang4 pian4",
+"gramophone record; LP"
+],
+[
+"碎片",
+3352,
+"sui4 pian4",
+"chip; fragment; splinter; tatter"
+],
+[
+"片子",
+3686,
+"pian1 zi5",
+"film; movie; film reel; gramophone record"
+],
+[
+"卡片",
+4251,
+"ka3 pian4",
+"card"
+],
+[
+"芯片",
+4281,
+"xin1 pian4",
+"chip"
+],
+[
+"图片",
+4318,
+"tu2 pian4",
+"image; picture; photograph"
+],
+[
+"影片",
+4327,
+"ying3 pian4",
+"film; movie"
+],
+[
+"相片",
+5744,
+"xiang4 pian4",
+"image; photograph"
+],
+[
+"片段",
+6372,
+"pian4 duan4",
+"fragment (of speech etc); extract (from book etc); episode (of story etc)"
+],
+[
+"麦片",
+6426,
+"mai4 pian4",
+"oatmeal; rolled oats"
 ]
 ],
 "strokes": [

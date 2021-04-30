@@ -8,38 +8,95 @@
 "words": [
 [
 "母亲",
-0,
 4,
 "mǔqin",
 "mother"
 ],
 [
 "字母",
-0,
 5,
 "zìmǔ",
 "letter (of the alphabet)"
 ],
 [
 "伯母",
-0,
 6,
 "bómǔ",
 "aunt; wife of father's older brother"
 ],
 [
 "母语",
-0,
 6,
 "mǔyǔ",
 "native/mother tongue"
 ],
 [
 "岳母",
-0,
 6,
 "yuèmǔ",
 "wife's mother; mother-in-law"
+]
+],
+"extraWords": [
+[
+"父母",
+639,
+"fu4 mu3",
+"father and mother; parents"
+],
+[
+"母",
+2299,
+"mu3",
+"female; mother"
+],
+[
+"祖母",
+3633,
+"zu3 mu3",
+"father's mother; paternal grandmother"
+],
+[
+"圣母",
+6580,
+"Sheng4 mu3",
+"Holy Mother; goddess; the Virgin Mary"
+],
+[
+"继母",
+10731,
+"ji4 mu3",
+"step mother"
+],
+[
+"母女",
+10892,
+"mu3 nu:3",
+"mother-daughter"
+],
+[
+"祖父母",
+12446,
+"zu3 fu4 mu3",
+"paternal grandparents"
+],
+[
+"水母",
+13239,
+"shui3 mu3",
+"jellyfish"
+],
+[
+"母亲节",
+13532,
+"mu3 qin1 jie2",
+"Mother's Day"
+],
+[
+"母鸡",
+15265,
+"mu3 ji1",
+"hen"
 ]
 ],
 "strokes": [

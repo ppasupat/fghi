@@ -8,59 +8,113 @@
 "words": [
 [
 "请假",
-0,
 3,
 "qǐngjià",
 "to ask for time off"
 ],
 [
 "放暑假",
-0,
 4,
 "fàng shǔjià",
 "have summer vacation"
 ],
 [
 "寒假",
-0,
 4,
 "hánjià",
 "winter vacation"
 ],
 [
 "假",
-0,
 4,
 "jiǎ, jià",
 "fake; if; borrow | vacation; holiday"
 ],
 [
 "假如",
-0,
 5,
 "jiǎrú",
 "if; supposing; in case"
 ],
 [
 "假设",
-0,
 5,
 "jiǎshè",
 "suppose that; hypothesis; conjecture"
 ],
 [
 "假装",
-0,
 5,
 "jiǎzhuāng",
 "pretend to be; feign"
 ],
 [
 "虚假",
-0,
 6,
 "xūjiǎ",
 "false; phony; pretense; deceit"
+]
+],
+"extraWords": [
+[
+"度假",
+3092,
+"du4 jia4",
+"to go on vacation"
+],
+[
+"假期",
+3596,
+"jia4 qi1",
+"vacation"
+],
+[
+"假释",
+3838,
+"jia3 shi4",
+"parole"
+],
+[
+"假发",
+4871,
+"jia3 fa4",
+"wig"
+],
+[
+"休假",
+4977,
+"xiu1 jia4",
+"take a vacation; go on holiday"
+],
+[
+"暑假",
+5519,
+"shu3 jia4",
+"summer vacation"
+],
+[
+"放假",
+7937,
+"fang4 jia4",
+"to have a holiday or vacation"
+],
+[
+"假定",
+8228,
+"jia3 ding4",
+"to assume; to suppose; supposed; so-called; assumption; hypothesis"
+],
+[
+"假日",
+8448,
+"jia4 ri4",
+"holiday; non-working day"
+],
+[
+"假扮",
+8479,
+"jia3 ban4",
+"to impersonate; to act the part of sb; to diguise oneself as sb else"
 ]
 ],
 "strokes": [

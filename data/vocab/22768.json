@@ -8,52 +8,107 @@
 "words": [
 [
 "声音",
-0,
 3,
 "shēngyīn",
 "sound; voice"
 ],
 [
 "声调",
-0,
 5,
 "shēngdiào",
 "tone; note"
 ],
 [
 "声明",
-0,
 6,
 "shēngmíng",
 "statement; declare; proclaim"
 ],
 [
 "声势",
-0,
 6,
 "shēngshì",
 "momentum; fame and power; prestige"
 ],
 [
 "声誉",
-0,
 6,
 "shēngyù",
 "reputation; fame"
 ],
 [
 "相声",
-0,
 6,
 "xiàngsheng",
 "comic dialogue; crosstalk"
 ],
 [
 "鸦雀无声",
-0,
 6,
 "yāquèwúshēng",
 "not even a crow or sparrow can be heard (idiom); silence reigns"
+]
+],
+"extraWords": [
+[
+"声",
+728,
+"sheng1",
+"sound; voice; tone; noise; classifier for sounds"
+],
+[
+"大声",
+3007,
+"da4 sheng1",
+"loudly; loud"
+],
+[
+"声称",
+3690,
+"sheng1 cheng1",
+"to claim; to state; to proclaim; to assert"
+],
+[
+"名声",
+4309,
+"ming2 sheng1",
+"reputation of a person or thing"
+],
+[
+"小声",
+4565,
+"xiao3 sheng1",
+"in a low voice; (speak) in whispers"
+],
+[
+"掌声",
+4697,
+"zhang3 sheng1",
+"applause"
+],
+[
+"歌声",
+5004,
+"ge1 sheng1",
+"singing voice; fig. original voice of a poet"
+],
+[
+"枪声",
+5478,
+"qiang1 sheng1",
+"crack; shooting sound; gunshot"
+],
+[
+"铃声",
+6424,
+"ling2 sheng1",
+"ring; ringtone; bell stroke; tintinnabulation"
+],
+[
+"笑声",
+6521,
+"xiao4 sheng1",
+"laughter"
 ]
 ],
 "strokes": [

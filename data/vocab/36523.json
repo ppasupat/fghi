@@ -8,73 +8,125 @@
 "words": [
 [
 "身体",
-0,
 2,
 "shēntǐ",
 "health; (human) body"
 ],
 [
 "健身",
-0,
 5,
 "jiànshēn",
 "work out; body-building"
 ],
 [
 "身材",
-0,
 5,
 "shēncái",
 "stature; figure; build"
 ],
 [
 "身份",
-0,
 5,
 "shēnfèn",
 "identity; status; dignity"
 ],
 [
 "随身",
-0,
 5,
 "suíshēn",
 "carry on one's person; bring with one"
 ],
 [
 "本身",
-0,
 6,
 "běnshēn",
 "itself; in itself; per se"
 ],
 [
 "出身",
-0,
 6,
 "chūshēn",
 "family background; class origin"
 ],
 [
 "动身",
-0,
 6,
 "dòng shēn",
 "go on a journey; leave"
 ],
 [
 "浑身",
-0,
 6,
 "húnshēn",
 "entire body; from head to foot"
 ],
 [
 "终身",
-0,
 6,
 "zhōngshēn",
 "lifelong"
+]
+],
+"extraWords": [
+[
+"身上",
+459,
+"shen1 shang4",
+"on the body"
+],
+[
+"身",
+697,
+"shen1",
+"body; torso; person; life; status; pregnancy; classifier for clothes: suit"
+],
+[
+"身边",
+848,
+"shen1 bian1",
+"at one's side"
+],
+[
+"单身",
+2071,
+"dan1 shen1",
+"unmarried; single; bachelorhood"
+],
+[
+"全身",
+3019,
+"quan2 shen1",
+"\"whole body; em-dash, a hyphen the length of an m in current typeface, one half the Chinese dash 破折号 ──\""
+],
+[
+"转身",
+3943,
+"zhuan3 shen1",
+"(of a person) to turn round; to face about"
+],
+[
+"身份证",
+4227,
+"shen1 fen4 zheng4",
+"ID card; proof of identity"
+],
+[
+"自身",
+5468,
+"zi4 shen1",
+"itself; oneself; one's own"
+],
+[
+"脱身",
+5641,
+"tuo1 shen1",
+"to get away; to escape (from obligations); to free oneself; to disengage"
+],
+[
+"身子",
+5937,
+"shen1 zi5",
+"body; pregnancy"
 ]
 ],
 "strokes": [

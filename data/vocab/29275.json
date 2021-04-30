@@ -8,24 +8,83 @@
 "words": [
 [
 "牛奶",
-0,
 2,
 "niúnǎi",
 "cow's milk"
 ],
 [
 "牛仔裤",
-0,
 5,
 "niúzǎikù",
 "jeans; cowboy pants"
 ],
 [
 "吹牛",
-0,
 6,
 "chuī niú",
 "to brag; (regional) to chat"
+]
+],
+"extraWords": [
+[
+"牛",
+1406,
+"niu2",
+"ox; cow; bull"
+],
+[
+"牛仔",
+2831,
+"niu2 zai3",
+"cowboy"
+],
+[
+"牛肉",
+3836,
+"niu2 rou4",
+"beef"
+],
+[
+"牛排",
+3999,
+"niu2 pai2",
+"steak"
+],
+[
+"斗牛",
+7138,
+"dou4 niu2",
+"bullfighting; (astr.) Big Dipper and Altair"
+],
+[
+"公牛",
+8646,
+"gong1 niu2",
+"bull"
+],
+[
+"奶牛",
+8753,
+"nai3 niu2",
+"milk cow; dairy cow"
+],
+[
+"牛津",
+10672,
+"Niu2 jin1",
+"Oxford (city in England)"
+],
+[
+"水牛",
+11000,
+"shui3 niu2",
+"water buffalo"
+],
+[
+"犀牛",
+12141,
+"xi1 niu2",
+"rhinoceros"
 ]
 ],
 "strokes": [

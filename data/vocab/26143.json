@@ -8,31 +8,89 @@
 "words": [
 [
 "星期",
-0,
 1,
 "xīngqī",
 "week"
 ],
 [
 "明星",
-0,
 5,
 "míngxīng",
 "(movie, etc.) star; celebrity"
 ],
 [
 "零星",
-0,
 6,
 "língxīng",
 "partial; scattered; fragmentary"
 ],
 [
 "卫星",
-0,
 6,
 "wèixīng",
 "satellite"
+]
+],
+"extraWords": [
+[
+"星",
+1269,
+"xing1",
+"star; satellite; small amount"
+],
+[
+"星球",
+1804,
+"xing1 qiu2",
+"\"celestial body (e.g. planet, satellite etc); heavenly body\""
+],
+[
+"外星人",
+2896,
+"wai4 xing1 ren2",
+"space alien; extra-terrestrial"
+],
+[
+"星星",
+3287,
+"xing1 xing5",
+"star in the sky"
+],
+[
+"星期五",
+3824,
+"xing1 qi1 wu3",
+"Friday"
+],
+[
+"星期六",
+3985,
+"xing1 qi1 liu4",
+"Saturday"
+],
+[
+"星期天",
+4234,
+"xing1 qi1 tian1",
+"Sunday"
+],
+[
+"星期一",
+4885,
+"xing1 qi1 yi1",
+"Monday"
+],
+[
+"星系",
+5129,
+"xing1 xi4",
+"galaxy"
+],
+[
+"行星",
+5199,
+"xing2 xing1",
+"planet"
 ]
 ],
 "strokes": [

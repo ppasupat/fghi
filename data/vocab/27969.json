@@ -8,108 +8,155 @@
 "words": [
 [
 "交流",
-0,
 4,
 "jiāoliú",
 "communicate; exchange; give and take; interaction; to alternate"
 ],
 [
 "流利",
-0,
 4,
 "liúlì",
 "fluent"
 ],
 [
 "流行",
-0,
 4,
 "liúxíng",
 "spread; prevalent; be popular"
 ],
 [
 "流传",
-0,
 5,
 "liúchuán",
 "to spread; circulate; hand down"
 ],
 [
 "流泪",
-0,
 5,
 "liúlèi",
 "shed tears"
 ],
 [
 "轮流",
-0,
 5,
 "lúnliú",
 "to alternate; take turns; rotate"
 ],
 [
 "潮流",
-0,
 6,
 "cháoliú",
 "tide; current; trend"
 ],
 [
 "川流不息",
-0,
 6,
 "chuān liú bù xī",
 "(saying) flowing of an endless stream"
 ],
 [
 "流浪",
-0,
 6,
 "liúlàng",
 "drift about; wander"
 ],
 [
 "流露",
-0,
 6,
 "liúlù",
 "express; reveal (one's thoughts or feelings)"
 ],
 [
 "流氓",
-0,
 6,
 "liúmáng",
 "rogue; hooligan; gangster"
 ],
 [
 "流通",
-0,
 6,
 "liútōng",
 "circulate; currency"
 ],
 [
 "一流",
-0,
 6,
 "yīliú",
 "top-grade"
 ],
 [
 "支流",
-0,
 6,
 "zhīliú",
 "tributary; minor aspect; offshoot"
 ],
 [
 "主流",
-0,
 6,
 "zhǔliú",
 "main stream (of a river); the essential point"
+]
+],
+"extraWords": [
+[
+"流",
+1620,
+"liu2",
+"to flow; to spread; to circulate; to move"
+],
+[
+"流血",
+2734,
+"liu2 xue4",
+"to bleed; to shed blood"
+],
+[
+"流放",
+4964,
+"liu2 fang4",
+"banishment; exile"
+],
+[
+"流浪汉",
+5535,
+"liu2 lang4 han4",
+"tramp; wanderer"
+],
+[
+"流感",
+7501,
+"liu2 gan3",
+"flu; influenza"
+],
+[
+"流动",
+7603,
+"liu2 dong4",
+"flow"
+],
+[
+"电流",
+8361,
+"dian4 liu2",
+"electric current"
+],
+[
+"流逝",
+8429,
+"liu2 shi4",
+"(of time) pass; elapse"
+],
+[
+"下流",
+8576,
+"xia4 liu2",
+"lower course of a river; low-class; mean and lowly; vulgar"
+],
+[
+"河流",
+8736,
+"he2 liu2",
+"river"
 ]
 ],
 "strokes": [

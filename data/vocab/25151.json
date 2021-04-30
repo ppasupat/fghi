@@ -8,24 +8,83 @@
 "words": [
 [
 "房间",
-0,
 2,
 "fángjiān",
 "room"
 ],
 [
 "厨房",
-0,
 4,
 "chúfáng",
 "kitchen"
 ],
 [
 "房东",
-0,
 4,
 "fángdōng",
 "landlord"
+]
+],
+"extraWords": [
+[
+"房子",
+417,
+"fang2 zi5",
+"house; building (single- or two-story); apartment; room"
+],
+[
+"房",
+1202,
+"fang2",
+"house; room; surname Fang"
+],
+[
+"房租",
+4078,
+"fang2 zu1",
+"rent for a room or house"
+],
+[
+"牢房",
+4447,
+"lao2 fang2",
+"jail cell; prison cell"
+],
+[
+"房屋",
+5282,
+"fang2 wu1",
+"house; building"
+],
+[
+"客房",
+5309,
+"ke4 fang2",
+"guest room"
+],
+[
+"病房",
+5438,
+"bing4 fang2",
+"ward (of a hospital); sickroom"
+],
+[
+"乳房",
+5631,
+"ru3 fang2",
+"breast; udder"
+],
+[
+"房地产",
+5891,
+"fang2 di4 chan3",
+"real estate"
+],
+[
+"健身房",
+6143,
+"jian4 shen1 fang2",
+"gym; gymnasium"
 ]
 ],
 "strokes": [

@@ -8,87 +8,137 @@
 "words": [
 [
 "密码",
-0,
 4,
 "mìmǎ",
 "password; secret code"
 ],
 [
 "秘密",
-0,
 5,
 "mìmì",
 "a secret; confidential"
 ],
 [
 "密切",
-0,
 5,
 "mìqiè",
 "close; familiar; intimate"
 ],
 [
 "保密",
-0,
 6,
 "bǎo mì",
 "keep secret/confidential"
 ],
 [
 "稠密",
-0,
 6,
 "chóumì",
 "dense; thick"
 ],
 [
 "机密",
-0,
 6,
 "jīmì",
 "secret; classified (information)"
 ],
 [
 "精密",
-0,
 6,
 "jīngmì",
 "accuracy; exact; precise; refined"
 ],
 [
 "密度",
-0,
 6,
 "mìdù",
 "density; thickness; consistency"
 ],
 [
 "密封",
-0,
 6,
 "mìfēng",
 "seal up; pressurize"
 ],
 [
 "亲密",
-0,
 6,
 "qīnmì",
 "intimate; close; familiarity"
 ],
 [
 "严密",
-0,
 6,
 "yánmì",
 "strict; closely-knit; tight"
 ],
 [
 "周密",
-0,
 6,
 "zhōumì",
 "meticulous; careful; thorough"
+]
+],
+"extraWords": [
+[
+"迈阿密",
+2416,
+"Mai4 a1 mi4",
+"Miami (Florida)"
+],
+[
+"密",
+2735,
+"mi4",
+"secret; confidential; close; thick; dense"
+],
+[
+"史密斯",
+5402,
+"Shi3 mi4 si1",
+"Smith (name)"
+],
+[
+"加密",
+6234,
+"jia1 mi4",
+"to encrypt; encryption"
+],
+[
+"告密",
+7852,
+"gao4 mi4",
+"to inform against sb"
+],
+[
+"密室",
+7910,
+"mi4 shi4",
+"cell; private room"
+],
+[
+"紧密",
+7972,
+"jin3 mi4",
+"inseparably close"
+],
+[
+"告密者",
+8895,
+"gao4 mi4 zhe3",
+"tell-tale; informer (esp. to police); whistle-blower; grass"
+],
+[
+"密探",
+9230,
+"mi4 tan4",
+"secret agent; detective; covert investigator"
+],
+[
+"密西西比",
+10233,
+"Mi4 xi1 xi1 bi3",
+"Mississippi"
 ]
 ],
 "strokes": [

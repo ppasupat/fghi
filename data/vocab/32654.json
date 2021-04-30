@@ -8,73 +8,125 @@
 "words": [
 [
 "美丽",
-0,
 4,
 "měilì",
 "beautiful"
 ],
 [
 "美术",
-0,
 5,
 "měishù",
 "the fine arts; art"
 ],
 [
 "完美",
-0,
 5,
 "wánměi",
 "perfect"
 ],
 [
 "优美",
-0,
 5,
 "yōuměi",
 "graceful; fine; elegant"
 ],
 [
 "赞美",
-0,
 5,
 "zànměi",
 "admire; applause; to praise"
 ],
 [
 "美观",
-0,
 6,
 "měiguān",
 "pleasing to the eye; beautiful; artistic"
 ],
 [
 "美满",
-0,
 6,
 "měimǎn",
 "happy; blissful"
 ],
 [
 "美妙",
-0,
 6,
 "měimiào",
 "beautiful (when describing a work of art); wonderful; splendid"
 ],
 [
 "审美",
-0,
 6,
 "shěnměi",
 "aesthetic sense; appreciation of the arts"
 ],
 [
 "物美价廉",
-0,
 6,
 "wùměijiàlián",
 "attractive goods at inexpensive prices"
+]
+],
+"extraWords": [
+[
+"美国",
+292,
+"Mei3 guo2",
+"America; American; United States of America; USA"
+],
+[
+"美",
+461,
+"mei3",
+"America; beautiful"
+],
+[
+"美元",
+683,
+"Mei3 yuan2",
+"American dollar; US dollar"
+],
+[
+"美好",
+1282,
+"mei3 hao3",
+"happy; fine; OK"
+],
+[
+"美女",
+1879,
+"mei3 nu:3",
+"beautiful woman"
+],
+[
+"美金",
+2059,
+"Mei3 jin1",
+"US dollar"
+],
+[
+"美味",
+2874,
+"mei3 wei4",
+"delicious; relish"
+],
+[
+"甜美",
+6187,
+"tian2 mei3",
+"sweetness"
+],
+[
+"美分",
+6391,
+"Mei3 fen1",
+"one cent (United States coin)"
+],
+[
+"美军",
+7249,
+"Mei3 jun1",
+"US army; US armed forces"
 ]
 ],
 "strokes": [

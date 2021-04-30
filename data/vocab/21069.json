@@ -8,87 +8,137 @@
 "words": [
 [
 "前面",
-0,
 1,
 "qiánmiàn",
 "in front"
 ],
 [
 "以前",
-0,
 3,
 "yǐqián",
 "before; formerly; previous"
 ],
 [
 "提前",
-0,
 4,
 "tíqián",
 "shift to an earlier date; bring forward; to advance"
 ],
 [
 "从前",
-0,
 5,
 "cóngqián",
 "previously; formerly; in the past"
 ],
 [
 "目前",
-0,
 5,
 "mùqián",
 "at present; now; for the moment"
 ],
 [
 "前途",
-0,
 5,
 "qiántú",
 "future; prospects; outlook (for the future)"
 ],
 [
 "当前",
-0,
 6,
 "dāngqián",
 "current; modern; present"
 ],
 [
 "跟前",
-0,
 6,
 "gēnqián",
 "in front of"
 ],
 [
 "空前绝后",
-0,
 6,
 "kōngqiánjuéhòu",
 "unprecedented and unrepeatable; never to be reduplicated; the first and the last; unmatched; unique"
 ],
 [
 "前景",
-0,
 6,
 "qiánjǐng",
 "outlook; future (prospects); foreground"
 ],
 [
 "前提",
-0,
 6,
 "qiántí",
 "premise; precondition"
 ],
 [
 "先前",
-0,
 6,
 "xiānqián",
 "before; previously"
+]
+],
+"extraWords": [
+[
+"前",
+168,
+"qian2",
+"before; in front; ago; former; previous; earlier; front"
+],
+[
+"之前",
+249,
+"zhi1 qian2",
+"before; prior to; ago"
+],
+[
+"面前",
+947,
+"mian4 qian2",
+"in front of; facing; presence"
+],
+[
+"前进",
+1949,
+"qian2 jin4",
+"to go forward; to forge ahead; to advance; onward"
+],
+[
+"眼前",
+2609,
+"yan3 qian2",
+"now; present"
+],
+[
+"前往",
+2768,
+"qian2 wang3",
+"to leave for; to proceed towards; to go"
+],
+[
+"前妻",
+3579,
+"qian2 qi1",
+"ex-wife"
+],
+[
+"向前",
+4293,
+"xiang4 qian2",
+"forward; onward"
+],
+[
+"前科",
+4994,
+"qian2 ke1",
+"criminal record; previous convictions"
+],
+[
+"前任",
+5003,
+"qian2 ren4",
+"predecessor; ex-; former"
 ]
 ],
 "strokes": [

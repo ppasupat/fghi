@@ -8,52 +8,107 @@
 "words": [
 [
 "因素",
-0,
 5,
 "yīnsù",
 "element; factor"
 ],
 [
 "朴素",
-0,
 6,
 "pǔsù",
 "plain; simple; austerity"
 ],
 [
 "素食",
-0,
 6,
 "sùshí",
 "vegetables; vegetarian food"
 ],
 [
 "素质",
-0,
 6,
 "sùzhì",
 "inner quality; basic essence; character quality"
 ],
 [
 "维生素",
-0,
 6,
 "wéishēngsù",
 "vitamin"
 ],
 [
 "要素",
-0,
 6,
 "yàosù",
 "essential factor; key constituent"
 ],
 [
 "元素",
-0,
 6,
 "yuánsù",
 "element; element of a set; chemical element"
+]
+],
+"extraWords": [
+[
+"素",
+3362,
+"su4",
+"plain; element"
+],
+[
+"毒素",
+6624,
+"du2 su4",
+"poison"
+],
+[
+"激素",
+7799,
+"ji1 su4",
+"hormone"
+],
+[
+"抗生素",
+7985,
+"kang4 sheng1 su4",
+"antibiotic"
+],
+[
+"素材",
+11905,
+"su4 cai2",
+"source material (in literature and art)"
+],
+[
+"同位素",
+12335,
+"tong2 wei4 su4",
+"isotope"
+],
+[
+"素描",
+12379,
+"su4 miao2",
+"sketch"
+],
+[
+"胰岛素",
+12957,
+"yi2 dao3 su4",
+"insulin"
+],
+[
+"罗素",
+14750,
+"Luo2 su4",
+"\"Russell (name); Bertrand Arthur William, 3rd Earl Russell (1872-1970), British logician, rationalist philosopher and pacifist\""
+],
+[
+"素食者",
+18478,
+"su4 shi2 zhe3",
+"vegetarian"
 ]
 ],
 "strokes": [

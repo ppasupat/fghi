@@ -8,59 +8,113 @@
 "words": [
 [
 "简单",
-0,
 3,
 "jiǎndān",
 "simple; not complicated"
 ],
 [
 "简历",
-0,
 5,
 "jiǎnlì",
 "resume; curriculum vitae"
 ],
 [
 "简直",
-0,
 5,
 "jiǎnzhí",
 "simply; at all"
 ],
 [
 "简化",
-0,
 6,
 "jiǎnhuà",
 "simplify; simplification"
 ],
 [
 "简陋",
-0,
 6,
 "jiǎnlòu",
 "simple and crude (i.e. room or building)"
 ],
 [
 "简体字",
-0,
 6,
 "jiǎntǐzì",
 "simplified Chinese characters"
 ],
 [
 "简要",
-0,
 6,
 "jiǎnyào",
 "concise; brief"
 ],
 [
 "精简",
-0,
 6,
 "jīngjiǎn",
 "simplify; reduce"
+]
+],
+"extraWords": [
+[
+"简",
+4154,
+"jian3",
+"simple"
+],
+[
+"简短",
+7994,
+"jian3 duan3",
+"brief; short-duration"
+],
+[
+"简报",
+8053,
+"jian3 bao4",
+"presentation"
+],
+[
+"简称",
+10729,
+"jian3 cheng1",
+"abbreviation"
+],
+[
+"简洁",
+15003,
+"jian3 jie2",
+"concise; succinct; pithy"
+],
+[
+"简易",
+15744,
+"jian3 yi4",
+"simple; easy"
+],
+[
+"简而言之",
+18724,
+"jian3 er2 yan2 zhi1",
+"in a nutshell; to put it briefly"
+],
+[
+"简介",
+20543,
+"jian3 jie4",
+"summary; brief introduction"
+],
+[
+"简单化",
+22271,
+"jian3 dan1 hua4",
+"simplification; simplify"
+],
+[
+"简约",
+23073,
+"jian3 yue1",
+"sketchy; concise; abbreviated"
 ]
 ],
 "strokes": [

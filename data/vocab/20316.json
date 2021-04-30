@@ -8,136 +8,179 @@
 "words": [
 [
 "工作",
-0,
 1,
 "gōngzuò",
 "work; a job"
 ],
 [
 "作业",
-0,
 3,
 "zuòyè",
 "school assignment; homework; task"
 ],
 [
 "动作",
-0,
 4,
 "dòngzuò",
 "movement; motion; action"
 ],
 [
 "作家",
-0,
 4,
 "zuòjiā",
 "author; writer"
 ],
 [
 "作用",
-0,
 4,
 "zuòyòng",
 "action; activity; effect"
 ],
 [
 "作者",
-0,
 4,
 "zuòzhě",
 "author; writer"
 ],
 [
 "合作",
-0,
 5,
 "hézuò",
 "cooperate; collaborate; work together"
 ],
 [
 "写作",
-0,
 5,
 "xiězuò",
 "writing; composition; written works"
 ],
 [
 "制作",
-0,
 5,
 "zhìzuò",
 "make; manufacture"
 ],
 [
 "作品",
-0,
 5,
 "zuòpǐn",
 "works (of literature and art)"
 ],
 [
 "作为",
-0,
 5,
 "zuòwéi",
 "regard as; act as; action; deed"
 ],
 [
 "作文",
-0,
 5,
 "zuò wén",
 "write an essay; essay"
 ],
 [
 "操作",
-0,
 6,
 "cāozuò",
 "operate; manipulate"
 ],
 [
 "创作",
-0,
 6,
 "chuàngzuò",
 "create; to produce; creative work"
 ],
 [
 "著作",
-0,
 6,
 "zhùzuò",
 "work; book; writing"
 ],
 [
 "作弊",
-0,
 6,
 "zuòbì",
 "practice fraud; cheat"
 ],
 [
 "作废",
-0,
 6,
 "zuòfèi",
 "cancellation; delete; to nullify; to expire and thus lose validity"
 ],
 [
 "作风",
-0,
 6,
 "zuòfēng",
 "work style; way"
 ],
 [
 "作息",
-0,
 6,
 "zuòxī",
 "work and rest"
+]
+],
+"extraWords": [
+[
+"作",
+699,
+"zuo1/zuo2/zuo4",
+"to do; to make; to regard as; to take sb for"
+],
+[
+"当作",
+2244,
+"dang4 zuo4",
+"treat as; regard as"
+],
+[
+"作证",
+2303,
+"zuo4 zheng4",
+"to bear witness; to testify"
+],
+[
+"作出",
+3059,
+"zuo4 chu1",
+"\"to put out; to come up with; to make (a choice, decision, proposal, response, comment etc); to issue (a permit, statement, explanation, apology, reassurance to the public etc); to draw (conclusion); to deliver (speech, judgment); to devise (explanation); to extract\""
+],
+[
+"所作所为",
+3552,
+"suo3 zuo4 suo3 wei2",
+"one's conduct and deeds"
+],
+[
+"发作",
+3879,
+"fa1 zuo4",
+"to flare-up; to break out"
+],
+[
+"振作",
+3966,
+"zhen4 zuo4",
+"encouraged; to summon up (courage); to encourage; to uplift; to stimulate"
+],
+[
+"作案",
+4075,
+"zuo4 an4",
+"to commit a crime"
+],
+[
+"运作",
+4164,
+"yun4 zuo4",
+"thread (computing); operation (e.g. business); operating"
+],
+[
+"作战",
+4282,
+"zuo4 zhan4",
+"combat; to fight"
 ]
 ],
 "strokes": [

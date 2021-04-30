@@ -8,108 +8,155 @@
 "words": [
 [
 "口",
-0,
 3,
 "kǒu",
 "mouth (Kangxi radical 30)"
 ],
 [
 "入口",
-0,
 4,
 "rùkǒu",
 "entrance"
 ],
 [
 "出口",
-0,
 5,
 "chūkǒu",
 "exit; speak; export"
 ],
 [
 "借口",
-0,
 5,
 "jièkǒu",
 "excuse"
 ],
 [
 "进口",
-0,
 5,
 "jìn kǒu",
 "import; entrance; enter"
 ],
 [
 "口味",
-0,
 5,
 "kǒuwèi",
 "a person's tastes or preferences"
 ],
 [
 "人口",
-0,
 5,
 "rénkǒu",
 "population; the populace"
 ],
 [
 "胃口",
-0,
 5,
 "wèikǒu",
 "appetite"
 ],
 [
 "港口",
-0,
 6,
 "gǎngkǒu",
 "port; harbor"
 ],
 [
 "可口",
-0,
 6,
 "kěkǒu",
 "tasty; taste good"
 ],
 [
 "口气",
-0,
 6,
 "kǒuqì",
 "tone of voice; manner of speaking"
 ],
 [
 "口腔",
-0,
 6,
 "kǒuqiāng",
 "space inside mouth (oral cavity)"
 ],
 [
 "口头",
-0,
 6,
 "kǒutóu",
 "oral; verbal"
 ],
 [
 "口音",
-0,
 6,
 "kǒuyīn",
 "accent"
 ],
 [
 "缺口",
-0,
 6,
 "quēkǒu",
 "gap; breach; shortfall"
+]
+],
+"extraWords": [
+[
+"伤口",
+1973,
+"shang1 kou3",
+"wound; cut"
+],
+[
+"开口",
+2305,
+"kai1 kou3",
+"open one's mouth; start to talk"
+],
+[
+"口袋",
+2449,
+"kou3 dai4",
+"a bag; a pocket"
+],
+[
+"门口",
+2761,
+"men2 kou3",
+"doorway; gate"
+],
+[
+"口香糖",
+4659,
+"kou3 xiang1 tang2",
+"chewing gum"
+],
+[
+"口径",
+4800,
+"kou3 jing4",
+"caliber; diameter of opening"
+],
+[
+"胸口",
+5729,
+"xiong1 kou3",
+"pit of the stomach"
+],
+[
+"窗口",
+6090,
+"chuang1 kou3",
+"window"
+],
+[
+"口供",
+6395,
+"kou3 gong4",
+"\"confession; oral evidence, as opposed to written evidence 笔供[bi3 gong4]; statement made under examination\""
+],
+[
+"口红",
+6603,
+"kou3 hong2",
+"lipstick"
 ]
 ],
 "strokes": [

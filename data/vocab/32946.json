@@ -8,45 +8,101 @@
 "words": [
 [
 "体育",
-0,
 3,
 "tǐyù",
 "physical training; sports"
 ],
 [
 "教育",
-0,
 4,
 "jiàoyù",
 "education"
 ],
 [
 "发育",
-0,
 6,
 "fāyù",
 "develop; growth"
 ],
 [
 "培育",
-0,
 6,
 "péiyù",
 "to train; nurture; to breed"
 ],
 [
 "生育",
-0,
 6,
 "shēngyù",
 "give birth; to rear; bring up (children)"
 ],
 [
 "孕育",
-0,
 6,
 "yùnyù",
 "be pregnant; to produce offspring; nurture (a development, school of thought, artwork, etc.)"
+]
+],
+"extraWords": [
+[
+"体育馆",
+6745,
+"ti3 yu4 guan3",
+"gym; gymnasium; stadium"
+],
+[
+"养育",
+10226,
+"yang3 yu4",
+"foster; rear"
+],
+[
+"育",
+10306,
+"yo1/yu4",
+"nourish; to rear"
+],
+[
+"体育场",
+10318,
+"ti3 yu4 chang3",
+"stadium"
+],
+[
+"生儿育女",
+19684,
+"sheng1 er2 yu4 nu:3",
+"to bear and raise children"
+],
+[
+"体育运动",
+20078,
+"ti3 yu4 yun4 dong4",
+"sports; physical culture"
+],
+[
+"计划生育",
+23110,
+"ji4 hua4 sheng1 yu4",
+"planned childbirth; the one child policy"
+],
+[
+"高等教育",
+23164,
+"gao1 deng3 jiao4 yu4",
+"higher education"
+],
+[
+"抚育",
+26789,
+"fu3 yu4",
+"to nurture; to raise; to foster; to tend"
+],
+[
+"教育部",
+26812,
+"jiao4 yu4 bu4",
+"Ministry of Education"
 ]
 ],
 "strokes": [

@@ -8,80 +8,131 @@
 "words": [
 [
 "苹果",
-0,
 1,
 "píngguǒ",
 "apple"
 ],
 [
 "水果",
-0,
 1,
 "shuǐguǒ",
 "fruit"
 ],
 [
 "如果",
-0,
 3,
 "rúguǒ",
 "if; in the event that"
 ],
 [
 "果汁",
-0,
 4,
 "guǒzhī",
 "fruit juice"
 ],
 [
 "结果",
-0,
 4,
 "jiéguǒ",
 "result; outcome; finally"
 ],
 [
 "效果",
-0,
 4,
 "xiàoguǒ",
 "effect; result"
 ],
 [
 "成果",
-0,
 5,
 "chéngguǒ",
 "result; achievement; gain"
 ],
 [
 "果然",
-0,
 5,
 "guǒrán",
 "really; sure enough; as expected"
 ],
 [
 "果实",
-0,
 5,
 "guǒshí",
 "fruit; gains; results"
 ],
 [
 "后果",
-0,
 5,
 "hòuguǒ",
 "consequences; aftermath"
 ],
 [
 "果断",
-0,
 6,
 "guǒduàn",
 "firm; decisive"
+]
+],
+"extraWords": [
+[
+"糖果",
+3688,
+"tang2 guo3",
+"candy"
+],
+[
+"果",
+4345,
+"guo3",
+"fruit; result"
+],
+[
+"因果",
+6442,
+"yin1 guo3",
+"karma; cause and effect"
+],
+[
+"果冻",
+8077,
+"guo3 dong4",
+"gelatin dessert"
+],
+[
+"坚果",
+8233,
+"jian1 guo3",
+"nut"
+],
+[
+"果酱",
+9548,
+"guo3 jiang4",
+"jam"
+],
+[
+"果子",
+11666,
+"guo3 zi5",
+"fruit"
+],
+[
+"雨果",
+13173,
+"Yu3 guo3",
+"\"Hugo (name); Victor Hugo (1802-1885), French writer\""
+],
+[
+"浆果",
+13349,
+"jiang1 guo3",
+"berry"
+],
+[
+"芒果",
+14491,
+"mang2 guo3",
+"mango"
 ]
 ],
 "strokes": [

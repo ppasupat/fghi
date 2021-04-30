@@ -8,66 +8,119 @@
 "words": [
 [
 "优点",
-0,
 4,
 "yōudiǎn",
 "merit; good point; a strength; a benefit"
 ],
 [
 "优秀",
-0,
 4,
 "yōuxiù",
 "outstanding; excellent"
 ],
 [
 "优惠",
-0,
 5,
 "yōuhuì",
 "preferential; favorable"
 ],
 [
 "优美",
-0,
 5,
 "yōuměi",
 "graceful; fine; elegant"
 ],
 [
 "优势",
-0,
 5,
 "yōushì",
 "advantage; superiority; dominant position"
 ],
 [
 "优胜劣汰",
-0,
 6,
 "yōushèngliètài",
 "survival of the fittest"
 ],
 [
 "优先",
-0,
 6,
 "yōuxiān",
 "priority; preferential"
 ],
 [
 "优异",
-0,
 6,
 "yōuyì",
 "exceptional; excellent; outstandingly good"
 ],
 [
 "优越",
-0,
 6,
 "yōuyuè",
 "superior; superiority"
+]
+],
+"extraWords": [
+[
+"优雅",
+4062,
+"you1 ya3",
+"grace; graceful"
+],
+[
+"优",
+7634,
+"you1",
+"excellent; superior"
+],
+[
+"优惠券",
+11302,
+"you1 hui4 quan4",
+"coupon"
+],
+[
+"优良",
+16072,
+"you1 liang2",
+"fine; good"
+],
+[
+"优质",
+17330,
+"you1 zhi4",
+"excellent quality"
+],
+[
+"优胜",
+24014,
+"you1 sheng4",
+"winning; superior"
+],
+[
+"优厚",
+25971,
+"you1 hou4",
+"\"generous, liberal (pay, compensation)\""
+],
+[
+"优等",
+25972,
+"you1 deng3",
+"first-rate; of the highest order; high-class; excellent; superior"
+],
+[
+"优化",
+27173,
+"you1 hua4",
+"optimization; to optimize; to make superior"
+],
+[
+"葛优",
+29029,
+"Ge3 You1",
+"Ge You (Chinese actor)"
 ]
 ],
 "strokes": [

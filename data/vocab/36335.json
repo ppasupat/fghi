@@ -8,31 +8,89 @@
 "words": [
 [
 "路",
-0,
 2,
 "lù",
 "road; path; journey; route"
 ],
 [
 "高速公路",
-0,
 4,
 "gāosù gōnglù",
 "highway"
 ],
 [
 "迷路",
-0,
 4,
 "mílù",
 "to get lost"
 ],
 [
 "出路",
-0,
 6,
 "chūlù",
 "a way out; outlet"
+]
+],
+"extraWords": [
+[
+"路上",
+1211,
+"lu4 shang5",
+"on the road; on a journey; road surface"
+],
+[
+"公路",
+2515,
+"gong1 lu4",
+"public road"
+],
+[
+"走路",
+2953,
+"zou3 lu4",
+"to walk; to go on foot"
+],
+[
+"道路",
+3423,
+"dao4 lu4",
+"road; path; way"
+],
+[
+"路线",
+3513,
+"lu4 xian4",
+"itinerary; route; political line (e.g. right revisionist road)"
+],
+[
+"路过",
+4117,
+"lu4 guo4",
+"pass by or through"
+],
+[
+"线路",
+4734,
+"xian4 lu4",
+"line; circuit; wire; railway track"
+],
+[
+"路边",
+5044,
+"lu4 bian1",
+"curb; roadside; wayside"
+],
+[
+"马路",
+5091,
+"ma3 lu4",
+"street; road"
+],
+[
+"路易斯",
+5707,
+"Lu4 yi4 si1",
+"Louis or Lewis (name)"
 ]
 ],
 "strokes": [

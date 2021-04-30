@@ -8,87 +8,137 @@
 "words": [
 [
 "没有",
-0,
 1,
 "méiyǒu",
 "not have; there is not"
 ],
 [
 "有",
-0,
 1,
 "yǒu",
 "have"
 ],
 [
 "有名",
-0,
 3,
 "yǒumíng",
 "famous; well-known"
 ],
 [
 "只有",
-0,
 3,
 "zhǐyǒu",
 "only"
 ],
 [
 "所有",
-0,
 4,
 "suǒyǒu",
 "all; to have; to possess"
 ],
 [
 "有趣",
-0,
 4,
 "yǒuqù",
 "interesting; fascinating; amusing"
 ],
 [
 "有利",
-0,
 5,
 "yǒulì",
 "advantageous; beneficial"
 ],
 [
 "固有",
-0,
 6,
 "gùyǒu",
 "intrinsic/inherent to something; native"
 ],
 [
 "津津有味",
-0,
 6,
 "jīnjīn yǒu wèi",
 "(saying) with gusto; eagerly; with great interest"
 ],
 [
 "岂有此理",
-0,
 6,
 "qǐ yǒu cǐ lǐ",
 "outrageous; ridiculous; absurd"
 ],
 [
 "拥有",
-0,
 6,
 "yōngyǒu",
 "have; possess"
 ],
 [
 "有条不紊",
-0,
 6,
 "yǒutiáobùwěn",
 "in an orderly way; methodically; systematically; methodical"
+]
+],
+"extraWords": [
+[
+"还有",
+122,
+"hai2 you3",
+"furthermore; in addition; still; also"
+],
+[
+"有人",
+365,
+"you3 ren2",
+"someone; people; anyone; there is someone there; occupied (as in restroom)"
+],
+[
+"有些",
+387,
+"you3 xie1",
+"some; somewhat"
+],
+[
+"有点",
+564,
+"you3 dian3",
+"a little"
+],
+[
+"有关",
+761,
+"you3 guan1",
+"to have sth to do with; to relate to; related to; to concern; concerning"
+],
+[
+"有意思",
+997,
+"you3 yi4 si5",
+"interesting; meaningful; enjoyable; fun"
+],
+[
+"有时",
+1132,
+"you3 shi2",
+"sometimes; now and then"
+],
+[
+"有时候",
+1188,
+"you3 shi2 hou5",
+"sometimes"
+],
+[
+"有的",
+1865,
+"you3 de5",
+"(there are) some (who are...); some (exist)"
+],
+[
+"有所",
+1883,
+"you3 suo3",
+"somewhat; to some extent"
 ]
 ],
 "strokes": [

@@ -8,17 +8,41 @@
 "words": [
 [
 "询问",
-0,
 5,
 "xúnwèn",
 "inquire about"
 ],
 [
 "咨询",
-0,
 5,
 "zīxún",
 "request information; consultant; advisory"
+]
+],
+"extraWords": [
+[
+"查询",
+10298,
+"cha2 xun2",
+"to inquire; inquiry"
+],
+[
+"质询",
+18756,
+"zhi4 xun2",
+"to question; to enquire; interrogatory"
+],
+[
+"征询",
+25115,
+"zheng1 xun2",
+"to consult; to query; to solicit opinion"
+],
+[
+"询",
+30645,
+"xun2",
+"inquire"
 ]
 ],
 "strokes": [

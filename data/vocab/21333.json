@@ -8,66 +8,119 @@
 "words": [
 [
 "菜单",
-0,
 3,
 "càidān",
 "menu"
 ],
 [
 "简单",
-0,
 3,
 "jiǎndān",
 "simple; not complicated"
 ],
 [
 "单纯",
-0,
 5,
 "dānchún",
 "simple; pure; merely"
 ],
 [
 "单调",
-0,
 5,
 "dāndiào",
 "monotonous; dull"
 ],
 [
 "单独",
-0,
 5,
 "dāndú",
 "alone"
 ],
 [
 "单位",
-0,
 5,
 "dānwèi",
 "unit; work unit"
 ],
 [
 "单元",
-0,
 5,
 "dānyuán",
 "unit; entrance number; staircase (for residential buildings)"
 ],
 [
 "传单",
-0,
 6,
 "chuándān",
 "leaflet; flier; pamphlet"
 ],
 [
 "床单",
-0,
 6,
 "chuángdān",
 "bed sheet"
+]
+],
+"extraWords": [
+[
+"单",
+1224,
+"chan2/dan1/shan4",
+"\"see Chányú 单于, Han dynasty name for chieftain of Xiongnu Huns 匈奴; bill; list; form; single; only; sole; surname Shan\""
+],
+[
+"名单",
+1297,
+"ming2 dan1",
+"list (of names)"
+],
+[
+"单身",
+2071,
+"dan1 shen1",
+"unmarried; single; bachelorhood"
+],
+[
+"孤单",
+3458,
+"gu1 dan1",
+"lone; lonely; loneliness"
+],
+[
+"清单",
+3967,
+"qing1 dan1",
+"list of items"
+],
+[
+"单子",
+4768,
+"dan1 zi5",
+"list of items"
+],
+[
+"账单",
+5065,
+"zhang4 dan1",
+"bill"
+],
+[
+"单词",
+5879,
+"dan1 ci2",
+"word"
+],
+[
+"单身汉",
+9078,
+"dan1 shen1 han4",
+"bachelor; unmarried man"
+],
+[
+"订单",
+9425,
+"ding4 dan1",
+"(purchase) order"
 ]
 ],
 "strokes": [

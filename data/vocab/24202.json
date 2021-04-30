@@ -8,24 +8,83 @@
 "words": [
 [
 "起床",
-0,
 2,
 "qǐ chuáng",
 "get out of bed"
 ],
 [
 "床单",
-0,
 6,
 "chuángdān",
 "bed sheet"
 ],
 [
 "临床",
-0,
 6,
 "línchuáng",
 "clinical"
+]
+],
+"extraWords": [
+[
+"床",
+515,
+"chuang2",
+"bed; couch; classifier for beds"
+],
+[
+"床垫",
+9277,
+"chuang2 dian4",
+"mattress"
+],
+[
+"尿床",
+12846,
+"niao4 chuang2",
+"bed-wetting"
+],
+[
+"病床",
+13548,
+"bing4 chuang2",
+"hospital bed; sickbed"
+],
+[
+"床位",
+15236,
+"chuang2 wei4",
+"\"bed (in hospital, hotel, train etc); berth; bunk\""
+],
+[
+"吊床",
+16587,
+"diao4 chuang2",
+"hammock"
+],
+[
+"床铺",
+16784,
+"chuang2 pu4",
+"bed"
+],
+[
+"卧床",
+17956,
+"wo4 chuang2",
+"a bed"
+],
+[
+"铺床",
+20041,
+"pu1 chuang2",
+"to make a bed; to lay bedding"
+],
+[
+"床头",
+22528,
+"chuang2 tou2",
+"bedhead; bedside; headboard"
 ]
 ],
 "strokes": [

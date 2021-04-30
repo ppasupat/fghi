@@ -8,59 +8,113 @@
 "words": [
 [
 "礼物",
-0,
 3,
 "lǐwù",
 "gift; present"
 ],
 [
 "礼拜天",
-0,
 4,
 "lǐbàitiān",
 "Sunday"
 ],
 [
 "礼貌",
-0,
 4,
 "lǐmào",
 "courtesy; politeness; manners"
 ],
 [
 "婚礼",
-0,
 5,
 "hūnlǐ",
 "wedding ceremony"
 ],
 [
 "典礼",
-0,
 6,
 "diǎnlǐ",
 "celebration; ceremony"
 ],
 [
 "敬礼",
-0,
 6,
 "jìnglǐ",
 "to salute; best regards"
 ],
 [
 "礼节",
-0,
 6,
 "lǐjié",
 "etiquette; proprieties; festival"
 ],
 [
 "礼尚往来",
-0,
 6,
 "lǐshàngwǎnglái",
 "courtesy requires reciprocity"
+]
+],
+"extraWords": [
+[
+"葬礼",
+2140,
+"zang4 li3",
+"burial; funeral"
+],
+[
+"礼拜",
+2376,
+"li3 bai4",
+"week; religious service; worship"
+],
+[
+"礼",
+2723,
+"li3",
+"gift; propriety; rite"
+],
+[
+"礼服",
+3621,
+"li3 fu2",
+"full dress"
+],
+[
+"无礼",
+6053,
+"wu2 li3",
+"rude; rudely"
+],
+[
+"洗礼",
+8499,
+"xi3 li3",
+"baptism"
+],
+[
+"失礼",
+8553,
+"shi1 li3",
+"lacking in manners"
+],
+[
+"晚礼服",
+10442,
+"wan3 li3 fu2",
+"evening dress"
+],
+[
+"礼仪",
+11206,
+"li3 yi2",
+"etiquette; ceremony"
+],
+[
+"礼堂",
+11548,
+"li3 tang2",
+"assembly hall; auditorium"
 ]
 ],
 "strokes": [

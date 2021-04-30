@@ -8,24 +8,83 @@
 "words": [
 [
 "病毒",
-0,
 5,
 "bìngdú",
 "virus"
 ],
 [
 "毒品",
-0,
 6,
 "dúpǐn",
 "drugs; narcotics; poison"
 ],
 [
 "消毒",
-0,
 6,
 "xiāo dú",
 "disinfect; sterilize"
+]
+],
+"extraWords": [
+[
+"毒",
+1881,
+"du2",
+"poison; narcotics"
+],
+[
+"吸毒",
+2436,
+"xi1 du2",
+"to take drugs; addiction"
+],
+[
+"毒气",
+3706,
+"du2 qi4",
+"\"poison gas; toxic gas; manifestation of passion, anger etc (Buddh.)\""
+],
+[
+"毒贩",
+3784,
+"du2 fan4",
+"drugs trade"
+],
+[
+"毒药",
+5106,
+"du2 yao4",
+"poison"
+],
+[
+"中毒",
+5213,
+"zhong4 du2",
+"to be poisoned; poisoning"
+],
+[
+"贩毒",
+5397,
+"fan4 du2",
+"to traffic narcotics; drugs trade; opium trade"
+],
+[
+"有毒",
+5784,
+"you3 du2",
+"poisonous"
+],
+[
+"戒毒",
+6402,
+"jie4 du2",
+"to give up drug; to quit (an addiction); to break (dependence)"
+],
+[
+"毒素",
+6624,
+"du2 su4",
+"poison"
 ]
 ],
 "strokes": [

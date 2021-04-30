@@ -8,80 +8,131 @@
 "words": [
 [
 "踢足球",
-0,
 2,
 "tīzúqiú",
 "to play football/soccer"
 ],
 [
 "不足",
-0,
 5,
 "bùzú",
 "insufficient; not enough"
 ],
 [
 "满足",
-0,
 5,
 "mǎnzú",
 "satisfy; meet (the needs of)"
 ],
 [
 "充足",
-0,
 6,
 "chōngzú",
 "adequate; sufficient; abundant"
 ],
 [
 "画蛇添足",
-0,
 6,
 "huàshétiānzú",
 "draw legs on a snake (idiom); to ruin something by adding something superfluous"
 ],
 [
 "举足轻重",
-0,
 6,
 "jǔzúqīngzhòng",
 "a foot's move sways the balance; hold the balance of power; play a key role"
 ],
 [
 "立足",
-0,
 6,
 "lìzú",
 "base oneself on; be established; have a footing"
 ],
 [
 "十足",
-0,
 6,
 "shízú",
 "full of; complete; 100 percent"
 ],
 [
 "微不足道",
-0,
 6,
 "wēi bù zú dào",
 "negligible; insignificant; not worth mentioning"
 ],
 [
 "知足常乐",
-0,
 6,
 "zhīzúchánglè",
 "content with what one has"
 ],
 [
 "足以",
-0,
 6,
 "zúyǐ",
 "sufficient to ...; so much so that; sufficiently"
+]
+],
+"extraWords": [
+[
+"足够",
+1019,
+"zu2 gou4",
+"enough; sufficient"
+],
+[
+"足",
+3326,
+"zu2",
+"foot; to be sufficient"
+],
+[
+"足球",
+3469,
+"zu2 qiu2",
+"football; soccer"
+],
+[
+"足迹",
+9908,
+"zu2 ji4",
+"footprint; track; spoor"
+],
+[
+"足球队",
+10796,
+"zu2 qiu2 dui4",
+"soccer team"
+],
+[
+"远足",
+13571,
+"yuan3 zu2",
+"excursion; hike; march"
+],
+[
+"涉足",
+15431,
+"she4 zu2",
+"set foot in; to step into; to become involved for the first time"
+],
+[
+"失足",
+15964,
+"shi1 zu2",
+"to take a wrong step in life"
+],
+[
+"知足",
+16342,
+"zhi1 zu2",
+"content with one's situation; to know contentment (hence happiness)"
+],
+[
+"足球赛",
+16694,
+"zu2 qiu2 sai4",
+"soccer match; soccer competition"
 ]
 ],
 "strokes": [

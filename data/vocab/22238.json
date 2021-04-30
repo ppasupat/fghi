@@ -8,59 +8,113 @@
 "words": [
 [
 "回",
-0,
 1,
 "huí",
 "to return; to reply; to go back"
 ],
 [
 "回答",
-0,
 3,
 "huídá",
 "to reply; to answer"
 ],
 [
 "回忆",
-0,
 4,
 "huíyì",
 "to recall; recollect"
 ],
 [
 "回报",
-0,
 6,
 "huíbào",
 "repayment; payback"
 ],
 [
 "回避",
-0,
 6,
 "huíbì",
 "avoid; shun; evade"
 ],
 [
 "回顾",
-0,
 6,
 "huígù",
 "look back; to review"
 ],
 [
 "回收",
-0,
 6,
 "huíshōu",
 "recycle; recover and put back to use"
 ],
 [
 "挽回",
-0,
 6,
 "wǎnhuí",
 "reverse or salvage (a situation); redeem; retrieve"
+]
+],
+"extraWords": [
+[
+"回来",
+185,
+"hui2 lai5",
+"return; come back"
+],
+[
+"回家",
+372,
+"hui2 jia1",
+"to return home"
+],
+[
+"回去",
+426,
+"hui2 qu5",
+"return; go back"
+],
+[
+"回到",
+674,
+"hui2 dao4",
+"return to"
+],
+[
+"回头",
+1696,
+"hui2 tou2",
+"to turn round; to turn one's head; later; by and by"
+],
+[
+"收回",
+3415,
+"shou1 hui2",
+"to regain; to retake; to take back; to withdraw; to revoke"
+],
+[
+"返回",
+3818,
+"fan3 hui2",
+"return to; come (or go) back"
+],
+[
+"回归",
+4369,
+"hui2 gui1",
+"to return (to previous condition); Hong Kong's return to Chinese sovereignty; to regress"
+],
+[
+"回复",
+4390,
+"hui2 fu4",
+"Re:; in reply to (email); return (to some condition)"
+],
+[
+"回应",
+4414,
+"hui2 ying4",
+"response; respond"
 ]
 ],
 "strokes": [

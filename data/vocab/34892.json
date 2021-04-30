@@ -8,178 +8,215 @@
 "words": [
 [
 "行李箱",
-0,
 3,
 "xínglǐxiāng",
 "trunk; suitcase"
 ],
 [
 "银行",
-0,
 3,
 "yínháng",
 "bank"
 ],
 [
 "自行车",
-0,
 3,
 "zìxíngchē",
 "bike; bicycle"
 ],
 [
 "进行",
-0,
 4,
 "jìnxíng",
 "carry on; carry out; undertake"
 ],
 [
 "举行",
-0,
 4,
 "jǔxíng",
 "convene; to hold (a meeting, ceremony, etc.)"
 ],
 [
 "流行",
-0,
 4,
 "liúxíng",
 "spread; prevalent; be popular"
 ],
 [
 "旅行",
-0,
 4,
 "lǚxíng",
 "travel"
 ],
 [
 "行",
-0,
 4,
 "xíng",
 "walk; be current; do; will do; okay"
 ],
 [
 "行业",
-0,
 5,
 "hángyè",
 "industry; business"
 ],
 [
 "行动",
-0,
 5,
 "xíngdòng",
 "to move; get around; action"
 ],
 [
 "行人",
-0,
 5,
 "xíngrén",
 "pedestrian"
 ],
 [
 "行为",
-0,
 5,
 "xíngwéi",
 "action; behavior; conduct"
 ],
 [
 "发行",
-0,
 6,
 "fāxíng",
 "publish; to issue; distribute"
 ],
 [
 "行列",
-0,
 6,
 "hángliè",
 "procession; ranks; queue"
 ],
 [
 "航行",
-0,
 6,
 "hángxíng",
 "to sail; to fly"
 ],
 [
 "可行",
-0,
 6,
 "kěxíng",
 "feasible"
 ],
 [
 "履行",
-0,
 6,
 "lǚxíng",
 "fulfill (one's obligations); carry out"
 ],
 [
 "逆行",
-0,
 6,
 "nìxíng",
 "go/drive against the traffic; go in the wrong direction; regress; retrograde"
 ],
 [
 "平行",
-0,
 6,
 "píngxíng",
 "parallel; concurrent"
 ],
 [
 "盛行",
-0,
 6,
 "shèngxíng",
 "in fashion; prevalent; prevail"
 ],
 [
 "实行",
-0,
 6,
 "shíxíng",
 "to implement; put into practice; carry out"
 ],
 [
 "外行",
-0,
 6,
 "wàiháng",
 "layman; amateur; nonprofessional"
 ],
 [
 "行政",
-0,
 6,
 "xíngzhèng",
 "administration; administrative"
 ],
 [
 "运行",
-0,
 6,
 "yùnxíng",
 "movement; be in motion; run"
 ],
 [
 "执行",
-0,
 6,
 "zhíxíng",
 "implementation; carry out; execute"
+]
+],
+"extraWords": [
+[
+"不行",
+610,
+"bu4 xing2",
+"won't do; be out of the question; be no good; not work; not be capable"
+],
+[
+"飞行",
+2323,
+"fei1 xing2",
+"aviation; flying"
+],
+[
+"行李",
+2466,
+"xing2 li5",
+"luggage"
+],
+[
+"行事",
+3379,
+"xing2 shi4",
+"to execute; to handle; behavior; action; conduct"
+],
+[
+"飞行员",
+3484,
+"fei1 xing2 yuan2",
+"pilot; aviator"
+],
+[
+"罪行",
+3582,
+"zui4 xing2",
+"crime; offense"
+],
+[
+"游行",
+3949,
+"you2 xing2",
+"march; parade; demonstration"
+],
+[
+"行星",
+5199,
+"xing2 xing1",
+"planet"
+],
+[
+"行踪",
+5642,
+"xing2 zong1",
+"whereabouts; (lose) track (of)"
+],
+[
+"行不通",
+5730,
+"xing2 bu5 tong1",
+"won't work; will get (you) nowhere"
 ]
 ],
 "strokes": [

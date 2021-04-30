@@ -8,66 +8,119 @@
 "words": [
 [
 "次",
-0,
 2,
 "cì",
 "(mw for number of times of occurrence); nth; order"
 ],
 [
 "其次",
-0,
 4,
 "qícì",
 "next; secondly"
 ],
 [
 "次要",
-0,
 5,
 "cìyào",
 "secondary; less important"
 ],
 [
 "层次",
-0,
 6,
 "céngcì",
 "level; rank order; standing; layer"
 ],
 [
 "次品",
-0,
 6,
 "cìpǐn",
 "defective or substandard products"
 ],
 [
 "次序",
-0,
 6,
 "cìxù",
 "sequence; order"
 ],
 [
 "档次",
-0,
 6,
 "dàngcì",
 "grade; quality; class; level"
 ],
 [
 "屡次",
-0,
 6,
 "lǚcì",
 "repeatedly; time and again; frequently"
 ],
 [
 "名次",
-0,
 6,
 "míngcì",
 "position in a ranking of names"
+]
+],
+"extraWords": [
+[
+"这次",
+878,
+"zhe4 ci4",
+"present; now; current"
+],
+[
+"再次",
+1074,
+"zai4 ci4",
+"one more time; again; one more; once again"
+],
+[
+"下次",
+1273,
+"xia4 ci4",
+"next time"
+],
+[
+"每次",
+1595,
+"mei3 ci4",
+"every time"
+],
+[
+"上次",
+1630,
+"shang4 ci4",
+"last time"
+],
+[
+"多次",
+7010,
+"duo1 ci4",
+"many times; repeatedly"
+],
+[
+"次数",
+8078,
+"ci4 shu4",
+"frequency; number of times; ordinal number"
+],
+[
+"此次",
+8277,
+"ci3 ci4",
+"this time"
+],
+[
+"初次",
+8722,
+"chu1 ci4",
+"first; for the first time; primary; tentative"
+],
+[
+"一次性",
+9006,
+"yi1 ci4 xing4",
+"one-off (offer); one-time; single-use; disposable (goods)"
 ]
 ],
 "strokes": [

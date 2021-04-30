@@ -8,59 +8,113 @@
 "words": [
 [
 "汉语",
-0,
 1,
 "Hànyǔ",
 "Chinese language"
 ],
 [
 "词语",
-0,
 4,
 "cíyǔ",
 "words and expressions; terms"
 ],
 [
 "语法",
-0,
 4,
 "yǔfǎ",
 "grammar"
 ],
 [
 "语言",
-0,
 4,
 "yǔyán",
 "language"
 ],
 [
 "成语",
-0,
 5,
 "chéngyǔ",
 "idiom; proverb"
 ],
 [
 "语气",
-0,
 5,
 "yǔqì",
 "tone; manner of speaking; mood"
 ],
 [
 "谜语",
-0,
 6,
 "míyǔ",
 "riddle; conundrum"
 ],
 [
 "母语",
-0,
 6,
 "mǔyǔ",
 "native/mother tongue"
+]
+],
+"extraWords": [
+[
+"语",
+1469,
+"yu3/yu4",
+"dialect; language; speech; to tell to"
+],
+[
+"英语",
+2112,
+"Ying1 yu3",
+"English (language)"
+],
+[
+"法语",
+2785,
+"Fa3 yu3",
+"French (language)"
+],
+[
+"西班牙语",
+3006,
+"Xi1 ban1 ya2 yu3",
+"Spanish language"
+],
+[
+"咒语",
+5009,
+"zhou4 yu3",
+"incantation; spell; to curse"
+],
+[
+"语音",
+5548,
+"yu3 yin1",
+"voice"
+],
+[
+"德语",
+6079,
+"De2 yu3",
+"German (language)"
+],
+[
+"言语",
+6791,
+"yan2 yu3",
+"speech; talk"
+],
+[
+"俄语",
+6794,
+"E2 yu3",
+"Russian (language)"
+],
+[
+"术语",
+8152,
+"shu4 yu3",
+"term; terminology"
 ]
 ],
 "strokes": [

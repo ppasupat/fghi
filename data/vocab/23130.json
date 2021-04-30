@@ -8,31 +8,89 @@
 "words": [
 [
 "结婚",
-0,
 3,
 "jiéhūn",
 "get married"
 ],
 [
 "婚礼",
-0,
 5,
 "hūnlǐ",
 "wedding ceremony"
 ],
 [
 "婚姻",
-0,
 5,
 "hūnyīn",
 "marriage; matrimony; wedding"
 ],
 [
 "离婚",
-0,
 5,
 "lí hūn",
 "to divorce; divorced from (one's spouse)"
+]
+],
+"extraWords": [
+[
+"婚",
+2144,
+"hun1",
+"to marry; marriage; wedding; to take a wife"
+],
+[
+"求婚",
+2943,
+"qiu2 hun1",
+"propose marriage"
+],
+[
+"订婚",
+2996,
+"ding4 hun1",
+"engagement"
+],
+[
+"未婚妻",
+4024,
+"wei4 hun1 qi1",
+"fiancée"
+],
+[
+"未婚夫",
+4271,
+"wei4 hun1 fu1",
+"fiancé"
+],
+[
+"已婚",
+5258,
+"yi3 hun1",
+"married"
+],
+[
+"婚纱",
+5338,
+"hun1 sha1",
+"wedding dress"
+],
+[
+"婚前",
+7594,
+"hun1 qian2",
+"pre-marital; pre-nuptual"
+],
+[
+"新婚",
+8016,
+"xin1 hun1",
+"newly wed"
+],
+[
+"未婚",
+10486,
+"wei4 hun1",
+"unmarried"
 ]
 ],
 "strokes": [

@@ -8,80 +8,131 @@
 "words": [
 [
 "清楚",
-0,
 3,
 "qīngchu",
 "clear; distinct; be clear about"
 ],
 [
 "清淡",
-0,
 5,
 "qīngdàn",
 "light (of food, not greasy or strongly flavored) ; insipid;  slack (sales)"
 ],
 [
 "澄清",
-0,
 6,
 "chéngqīng",
 "(of liquid) settle; become clear; (Chem.) precipitate"
 ],
 [
 "清澈",
-0,
 6,
 "qīngchè",
 "clear; limpid"
 ],
 [
 "清晨",
-0,
 6,
 "qīngchén",
 "early morning"
 ],
 [
 "清除",
-0,
 6,
 "qīngchú",
 "eliminate; get rid of"
 ],
 [
 "清洁",
-0,
 6,
 "qīngjié",
 "clean; unpolluted; purity"
 ],
 [
 "清理",
-0,
 6,
 "qīnglǐ",
 "cleanup; put in order; check up"
 ],
 [
 "清晰",
-0,
 6,
 "qīngxī",
 "clear; distinct; clarity"
 ],
 [
 "清醒",
-0,
 6,
 "qīngxǐng",
 "clear-headed; sober; regain consciousness"
 ],
 [
 "清真",
-0,
 6,
 "qīngzhēn",
 "Muslim"
+]
+],
+"extraWords": [
+[
+"清",
+1054,
+"qing1",
+"clear; distinct; complete; pure; the Ch'ing or Qing dynasty (1644-1911)"
+],
+[
+"清白",
+3465,
+"qing1 bai2",
+"pure; innocent"
+],
+[
+"清单",
+3967,
+"qing1 dan1",
+"list of items"
+],
+[
+"清洗",
+5450,
+"qing1 xi3",
+"to wash; to clean; to purge"
+],
+[
+"清洁工",
+6971,
+"qing1 jie2 gong1",
+"cleaner; janitor; garbage collector"
+],
+[
+"清新",
+7364,
+"Qing1 xin1",
+"\"fresh and clean; Qingxin county in Qingyuan 清远, Guangdong\""
+],
+[
+"弄清",
+7660,
+"nong4 qing1",
+"to clarify; to fully understand"
+],
+[
+"付清",
+8409,
+"fu4 qing1",
+"pay in full; pay all of a bill; pay off"
+],
+[
+"血清",
+9598,
+"xue4 qing1",
+"serum; blood serum"
+],
+[
+"清真寺",
+12137,
+"qing1 zhen1 si4",
+"mosque"
 ]
 ],
 "strokes": [

@@ -8,17 +8,77 @@
 "words": [
 [
 "太极拳",
-0,
 5,
 "tàijíquán",
 "Tai chi, a Chinese martial art"
 ],
 [
 "拳头",
-0,
 6,
 "quántou",
 "fist"
+]
+],
+"extraWords": [
+[
+"拳",
+1896,
+"quan2",
+"fist"
+],
+[
+"拳击",
+3705,
+"quan2 ji1",
+"boxing"
+],
+[
+"拳王",
+7528,
+"quan2 wang2",
+"boxing champion"
+],
+[
+"拳击手",
+8624,
+"quan2 ji1 shou3",
+"boxer"
+],
+[
+"拳手",
+8694,
+"quan2 shou3",
+"boxer"
+],
+[
+"跆拳道",
+10738,
+"tai2 quan2 dao4",
+"Taekwando (Korean martial art); Tae Kwon Do"
+],
+[
+"打拳",
+11397,
+"da3 quan2",
+"to do shadowboxing"
+],
+[
+"拳脚",
+17192,
+"quan2 jiao3",
+"Chinese boxing; fist and feet; punching and kicking"
+],
+[
+"赤手空拳",
+20587,
+"chi4 shou3 kong1 quan2",
+"\"empty hand, empty fist (idiom); having nothing to rely on; unarmed and defenseless\""
+],
+[
+"铁拳",
+26436,
+"Tie3 quan2",
+"Tekken (video game)"
 ]
 ],
 "strokes": [

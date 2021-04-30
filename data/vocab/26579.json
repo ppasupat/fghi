@@ -8,31 +8,89 @@
 "words": [
 [
 "污染",
-0,
 4,
 "wūrǎn",
 "pollution; contamination"
 ],
 [
 "传染",
-0,
 5,
 "chuánrǎn",
 "infect; be contagious"
 ],
 [
 "感染",
-0,
 6,
 "gǎnrǎn",
 "infection; infect; influence"
 ],
 [
 "染",
-0,
 6,
 "rǎn",
 "dye; to catch (a disease)"
+]
+],
+"extraWords": [
+[
+"传染病",
+11505,
+"chuan2 ran3 bing4",
+"infectious disease; contagious disease; pestilence"
+],
+[
+"染色体",
+12858,
+"ran3 se4 ti3",
+"chromosome"
+],
+[
+"感染力",
+15983,
+"gan3 ran3 li4",
+"inspiration; infectious (enthusiasm)"
+],
+[
+"染指",
+18225,
+"ran3 zhi3",
+"to dip a finger (idiom); fig. to get one's finger in the pie; to get a share of the action; abbr. for 染指于鼎"
+],
+[
+"传染性",
+18340,
+"chuan2 ran3 xing4",
+"epidemicity"
+],
+[
+"染料",
+18428,
+"ran3 liao4",
+"dye"
+],
+[
+"染发",
+18670,
+"ran3 fa4",
+"to dye one's hair; rinse; tint"
+],
+[
+"染色",
+19918,
+"ran3 se4",
+"dye"
+],
+[
+"污染物",
+21837,
+"wu1 ran3 wu4",
+"pollutant"
+],
+[
+"感染者",
+24640,
+"gan3 ran3 zhe3",
+"infected person"
 ]
 ],
 "strokes": [

@@ -8,150 +8,191 @@
 "words": [
 [
 "决定",
-0,
 3,
 "juédìng",
 "decide; resolve"
 ],
 [
 "一定",
-0,
 3,
 "yídìng",
 "surely; certainly; necessarily; definite"
 ],
 [
 "规定",
-0,
 4,
 "guīdìng",
 "regulation; stipulate; fix; set"
 ],
 [
 "肯定",
-0,
 4,
 "kěndìng",
 "sure; definite; affirm; approve"
 ],
 [
 "否定",
-0,
 5,
 "fǒudìng",
 "negate; negative"
 ],
 [
 "固定",
-0,
 5,
 "gùdìng",
 "fixed; regular; stable"
 ],
 [
 "确定",
-0,
 5,
 "quèdìng",
 "definite; certain; fixed; determine"
 ],
 [
 "说不定",
-0,
 5,
 "shuōbudìng",
 "can't say for sure; perhaps; maybe"
 ],
 [
 "稳定",
-0,
 5,
 "wěndìng",
 "stable; steady"
 ],
 [
 "制定",
-0,
 5,
 "zhìdìng",
 "formulate; lay down (a plan or policy); to draft"
 ],
 [
 "奠定",
-0,
 6,
 "diàndìng",
 "establish; to found; to settle"
 ],
 [
 "定期",
-0,
 6,
 "dìngqī",
 "regularly; at regular intervals"
 ],
 [
 "定义",
-0,
 6,
 "dìngyì",
 "definition"
 ],
 [
 "断定",
-0,
 6,
 "duàndìng",
 "conclude; determine; figure out"
 ],
 [
 "坚定",
-0,
 6,
 "jiāndìng",
 "firm; staunch; resolute"
 ],
 [
 "鉴定",
-0,
 6,
 "jiàndìng",
 "appraise; identify; evaluate"
 ],
 [
 "拟定",
-0,
 6,
 "nǐdìng",
 "make an initial draft; draw up"
 ],
 [
 "认定",
-0,
 6,
 "rèndìng",
 "maintain (that sth. is true); firmly believe"
 ],
 [
 "特定",
-0,
 6,
 "tèdìng",
 "special; specific; designated"
 ],
 [
 "镇定",
-0,
 6,
 "zhèndìng",
 "cool; calm; unperturbed"
 ],
 [
 "指定",
-0,
 6,
 "zhǐdìng",
 "appoint; designate"
+]
+],
+"extraWords": [
+[
+"定",
+391,
+"ding4",
+"to set; to fix; to determine; to decide; to order"
+],
+[
+"注定",
+2767,
+"zhu4 ding4",
+"be doomed; be destined (to failure etc)"
+],
+[
+"定位",
+4277,
+"ding4 wei4",
+"position; location; localization"
+],
+[
+"锁定",
+4323,
+"suo3 ding4",
+"\"to lock (a door); to close with a latch; to lock into place; a lock; a latch; to lock a computer file (to prevent it being overwritten); to lock (denying access to a computer system or device or files, e.g. by password-protection); to focus attention on; to target\""
+],
+[
+"约定",
+4458,
+"yue1 ding4",
+"\"to agree on sth (after discussion); to conclude a bargain; to arrange; to promise; to stipulate; to make an appointment; stipulated (time, amount, quality etc); an arrangement; a deal; appointment; undertaking; commitment; understanding; engagement; stipulation\""
+],
+[
+"预定",
+4909,
+"yu4 ding4",
+"schedule in advance"
+],
+[
+"定罪",
+5646,
+"ding4 zui4",
+"to convict (sb of a crime)"
+],
+[
+"设定",
+5886,
+"she4 ding4",
+"to set; to set up; to install; setting; preferences"
+],
+[
+"安定",
+6276,
+"an1 ding4",
+"stable; quiet; settled; stabilize; maintain; stabilized; calm and orderly"
+],
+[
+"协定",
+7589,
+"xie2 ding4",
+"(reach an) agreement; protocol"
 ]
 ],
 "strokes": [

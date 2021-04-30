@@ -8,52 +8,107 @@
 "words": [
 [
 "不客气",
-0,
 1,
 "bú kèqi",
 "you're welcome; don't be polite"
 ],
 [
 "客人",
-0,
 3,
 "kèrén",
 "guest; customer"
 ],
 [
 "顾客",
-0,
 4,
 "gùkè",
 "customer; client"
 ],
 [
 "客厅",
-0,
 4,
 "kètīng",
 "living room; parlor"
 ],
 [
 "好客",
-0,
 5,
 "hàokè",
 "hospitable; to enjoy having guests"
 ],
 [
 "客观",
-0,
 5,
 "kèguān",
 "objective; impartial; unbiased"
 ],
 [
 "客户",
-0,
 6,
 "kèhù",
 "customer; account; client"
+]
+],
+"extraWords": [
+[
+"客气",
+1264,
+"ke4 qi5",
+"polite"
+],
+[
+"客",
+2422,
+"ke4",
+"\"customer; visitor; guest; guest web user (e.g. blogger 博客); phonetic -ke, -ge, -co, -key etc in loan words\""
+],
+[
+"乘客",
+3428,
+"cheng2 ke4",
+"passenger"
+],
+[
+"客房",
+5309,
+"ke4 fang2",
+"guest room"
+],
+[
+"博客",
+5861,
+"bo2 ke4",
+"web log; blog; blogger"
+],
+[
+"请客",
+6409,
+"qing3 ke4",
+"give a dinner party; entertain guests; invite to dinner"
+],
+[
+"游客",
+6804,
+"you2 ke4",
+"traveler; tourist"
+],
+[
+"政客",
+6868,
+"zheng4 ke4",
+"politician"
+],
+[
+"黑客",
+8261,
+"hei1 ke4",
+"hacker (computer); The Matrix (movie)"
+],
+[
+"房客",
+8494,
+"fang2 ke4",
+"tenant"
 ]
 ],
 "strokes": [

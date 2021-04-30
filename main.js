@@ -32,17 +32,22 @@ $(function () {
       .append('Character ' + unknownChar + ' not found!');
   }
 
-  function createWordEntry(parentDiv, word, level, pron, gloss) {
+  function createWordEntry(parentDiv, cat, word, level, pron, gloss) {
+    let levelText = {
+      'char': '',
+      'word': level,
+      'extraWord': 'x',
+    }[cat];
     let wordDiv = (
       $('<div>')
-        .append($('<span class=level>').text(level === null ? '' : level))
+        .append($('<span class=level>').text(levelText))
         .append(genWordSpan(word))
         .append($('<span class=pron>').text(pron))
         .append($('<div class=gloss>').text(gloss))
         .appendTo(parentDiv)
     );
-    if (level !== null) {
-      wordDiv.addClass('h' + level);
+    if (levelText !== '') {
+      wordDiv.addClass('h' + levelText);
     }
   }
 
@@ -65,12 +70,17 @@ $(function () {
     });
     // words
     let wordsList = $('<div class=words-list>').appendTo('#words-pane');
-    createWordEntry(wordsList, charData.char, null, charData.info.pron,
+    createWordEntry(wordsList, 'char', charData.char, null, charData.info.pron,
       'Char Meanings: ' + charData.info.gloss);
     wordsList.append('<hr>');
     charData.words.forEach(function (entry) {
-      // Simp, Trad, Level, Pron, Gloss
-      createWordEntry(wordsList, entry[0], entry[2], entry[3], entry[4]);
+      // Simp, Level, Pron, Gloss
+      createWordEntry(wordsList, 'word', entry[0], entry[1], entry[2], entry[3]);
+    });
+    wordsList.append('<hr>');
+    charData.extraWords.forEach(function (entry) {
+      // Simp, Level, Pron, Gloss
+      createWordEntry(wordsList, 'extraWord', entry[0], entry[1], entry[2], entry[3]);
     });
   }
 

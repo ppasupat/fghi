@@ -8,101 +8,149 @@
 "words": [
 [
 "水",
-0,
 1,
 "shuǐ",
 "water"
 ],
 [
 "水果",
-0,
 1,
 "shuǐguǒ",
 "fruit"
 ],
 [
 "水平",
-0,
 3,
 "shuǐpíng",
 "level; standard; horizontal"
 ],
 [
 "矿泉水",
-0,
 4,
 "kuàngquánshuǐ",
 "mineral water"
 ],
 [
 "胶水",
-0,
 5,
 "jiāoshuǐ",
 "(watery) glue; gum"
 ],
 [
 "开水",
-0,
 5,
 "kāishuǐ",
 "boiled water; boil water"
 ],
 [
 "淡水",
-0,
 6,
 "dànshuǐ",
 "fresh water; potable water (water with low salt content)"
 ],
 [
 "洪水",
-0,
 6,
 "hóngshuǐ",
 "flood"
 ],
 [
 "墨水儿",
-0,
 6,
 "mòshuǐer",
 "ink"
 ],
 [
 "潜水",
-0,
 6,
 "qiánshuǐ",
 "go diving"
 ],
 [
 "水利",
-0,
 6,
 "shuǐlì",
 "water conservancy; irrigation works"
 ],
 [
 "水龙头",
-0,
 6,
 "shuǐlóngtóu",
 "faucet; tap"
 ],
 [
 "水泥",
-0,
 6,
 "shuǐní",
 "cement"
 ],
 [
 "薪水",
-0,
 6,
 "xīnshuǐ",
 "salary; wage; pay; stipend"
+]
+],
+"extraWords": [
+[
+"香水",
+4119,
+"xiang1 shui3",
+"perfume; cologne"
+],
+[
+"水管",
+5660,
+"shui3 guan3",
+"water pipe"
+],
+[
+"水晶",
+5668,
+"shui3 jing1",
+"crystal"
+],
+[
+"水手",
+5771,
+"shui3 shou3",
+"mariner; sailor; seaman"
+],
+[
+"下水道",
+5845,
+"xia4 shui3 dao4",
+"sewer"
+],
+[
+"汽水",
+6532,
+"qi4 shui3",
+"soda; pop"
+],
+[
+"热水",
+7080,
+"re4 shui3",
+"hot water"
+],
+[
+"水面",
+7797,
+"shui3 mian4",
+"water surface"
+],
+[
+"水准",
+7989,
+"shui3 zhun3",
+"horizontal; level"
+],
+[
+"水下",
+8278,
+"shui3 xia4",
+"under the water; submarine"
 ]
 ],
 "strokes": [

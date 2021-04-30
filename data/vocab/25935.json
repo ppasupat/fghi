@@ -8,38 +8,71 @@
 "words": [
 [
 "过敏",
-0,
 5,
 "guòmǐn",
 "be allergic; allergy"
 ],
 [
 "敏感",
-0,
 5,
 "mǐngǎn",
 "sensitive; susceptible"
 ],
 [
 "灵敏",
-0,
 6,
 "língmǐn",
 "sensitive"
 ],
 [
 "敏捷",
-0,
 6,
 "mǐnjié",
 "nimble; agile; shrewd"
 ],
 [
 "敏锐",
-0,
 6,
 "mǐnruì",
 "keen; sharp; acute; brisk"
+]
+],
+"extraWords": [
+[
+"敏",
+8210,
+"min3",
+"quick; nimble; agile; clever; smart"
+],
+[
+"机敏",
+23750,
+"ji1 min3",
+"agility"
+],
+[
+"过敏性",
+24889,
+"guo4 min3 xing4",
+"hypersensitive; allergic reaction; anaphylaxis"
+],
+[
+"灵敏度",
+35980,
+"ling2 min3 du4",
+"(level of) sensitivity"
+],
+[
+"聪敏",
+36196,
+"cong1 min3",
+"quick; bright; intelligent; clever; brilliant"
+],
+[
+"脱敏",
+91619,
+"tuo1 min3",
+"to desensitize; to remove an allergic susceptibility"
 ]
 ],
 "strokes": [

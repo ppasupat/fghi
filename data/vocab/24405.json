@@ -8,52 +8,107 @@
 "words": [
 [
 "记录",
-0,
 5,
 "jìlù",
 "to record; take notes"
 ],
 [
 "纪录",
-0,
 5,
 "jìlù",
 "a record; to take notes"
 ],
 [
 "录取",
-0,
 5,
 "lùqǔ",
 "recruit; enroll; matriculate"
 ],
 [
 "录音",
-0,
 5,
 "lùyīn",
 "sound recording; to record"
 ],
 [
 "目录",
-0,
 5,
 "mùlù",
 "catalog; table of contents; directory (on computer hard drive)"
 ],
 [
 "备忘录",
-0,
 6,
 "bèiwànglù",
 "memorandum; aide-memoire; diplomacy memorandum; memorandum book"
 ],
 [
 "登录",
-0,
 6,
 "dēnglù",
 "sign-in"
+]
+],
+"extraWords": [
+[
+"录",
+1573,
+"lu4",
+"diary; record; to hit; to copy; surname Lu"
+],
+[
+"录像",
+1805,
+"lu4 xiang4",
+"video tape; video recording"
+],
+[
+"录像带",
+3723,
+"lu4 xiang4 dai4",
+"video cassette"
+],
+[
+"录音带",
+8903,
+"lu4 yin1 dai4",
+"audio tape"
+],
+[
+"录音机",
+10141,
+"lu4 yin1 ji1",
+"(tape) recording machine; tape recorder"
+],
+[
+"笔录",
+11072,
+"bi3 lu4",
+"to put down in writing; to take down notes; transcript; record"
+],
+[
+"录像机",
+12198,
+"lu4 xiang4 ji1",
+"video recorder; VCR"
+],
+[
+"纪录片",
+13254,
+"ji4 lu4 pian4",
+"newsreel; documentary (film or TV program)"
+],
+[
+"启示录",
+13963,
+"Qi3 shi4 lu4",
+"the Revelation of St John the divine; the Apocalypse"
+],
+[
+"录用",
+15094,
+"lu4 yong4",
+"to hire (employee)"
 ]
 ],
 "strokes": [

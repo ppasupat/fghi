@@ -8,73 +8,125 @@
 "words": [
 [
 "总是",
-0,
 3,
 "zǒngshì",
 "always; eventually"
 ],
 [
 "总结",
-0,
 4,
 "zǒngjié",
 "summarize; conclude"
 ],
 [
 "总裁",
-0,
 5,
 "zǒngcái",
 "director-general; president"
 ],
 [
 "总共",
-0,
 5,
 "zǒnggòng",
 "altogether; in sum; in all; in total"
 ],
 [
 "总理",
-0,
 5,
 "zǒnglǐ",
 "premier; prime minister"
 ],
 [
 "总算",
-0,
 5,
 "zǒngsuàn",
 "at long last; finally; on the whole"
 ],
 [
 "总统",
-0,
 5,
 "zǒngtǒng",
 "president (of a country)"
 ],
 [
 "总之",
-0,
 5,
 "zǒngzhī",
 "in a word; in short; in brief / anyway; anyhow"
 ],
 [
 "总而言之",
-0,
 6,
 "zǒngéryánzhī",
 "in short; in a word"
 ],
 [
 "总和",
-0,
 6,
 "zǒnghé",
 "sum"
+]
+],
+"extraWords": [
+[
+"总",
+363,
+"zong3",
+"always; to assemble; gather; total; overall; head; chief; general; in every case"
+],
+[
+"总部",
+2873,
+"zong3 bu4",
+"general headquarters"
+],
+[
+"夜总会",
+4586,
+"ye4 zong3 hui4",
+"nightclub; nightspot"
+],
+[
+"总监",
+7597,
+"zong3 jian1",
+"rank of local governor in Tang dynasty administration; commissioner (police); inspector-general"
+],
+[
+"总的来说",
+9621,
+"zong3 de5 lai2 shuo1",
+"generally speaking; to sum up; in summary; in short"
+],
+[
+"总督",
+10613,
+"zong3 du1",
+"governor-general; person in charge of a foreign possession or territory"
+],
+[
+"总体",
+11813,
+"zong3 ti3",
+"completely; totally; total; entire; overall"
+],
+[
+"总经理",
+14569,
+"zong3 jing1 li3",
+"general manager"
+],
+[
+"总数",
+15405,
+"zong3 shu4",
+"a total; a sum"
+],
+[
+"总归",
+15535,
+"zong3 gui1",
+"eventually; after all; anyhow"
 ]
 ],
 "strokes": [

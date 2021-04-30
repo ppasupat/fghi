@@ -8,185 +8,221 @@
 "words": [
 [
 "大",
-0,
 1,
 "dà",
 "big; large"
 ],
 [
 "大家",
-0,
 2,
 "dàjiā",
 "everyone"
 ],
 [
 "大概",
-0,
 4,
 "dàgài",
 "probably; roughly; approximate"
 ],
 [
 "大使馆",
-0,
 4,
 "dàshǐguǎn",
 "embassy"
 ],
 [
 "大约",
-0,
 4,
 "dàyuē",
 "approximately; about"
 ],
 [
 "大夫",
-0,
 4,
 "dàifu",
 "doctor; physician"
 ],
 [
 "大方",
-0,
 5,
 "dàfang",
 "generous; poise; (-fang1: expert; scholar)"
 ],
 [
 "大厦",
-0,
 5,
 "dàshà",
 "large building; edifice; mansion"
 ],
 [
 "大象",
-0,
 5,
 "dàxiàng",
 "elephant"
 ],
 [
 "大型",
-0,
 5,
 "dàxíng",
 "large-scale; wide-scale"
 ],
 [
 "广大",
-0,
 5,
 "guǎngdà",
 "vast; extensive"
 ],
 [
 "巨大",
-0,
 5,
 "jùdà",
 "immense; enormous; very large"
 ],
 [
 "扩大",
-0,
 5,
 "kuòdà",
 "enlarge; expand"
 ],
 [
 "伟大",
-0,
 5,
 "wěidà",
 "great; mighty; large"
 ],
 [
 "重大",
-0,
 5,
 "zhòngdà",
 "great; important; major"
 ],
 [
 "博大精深",
-0,
 6,
 "bódàjīngshēn",
 "broad and profound"
 ],
 [
 "大不了",
-0,
 6,
 "dàbuliǎo",
 "at the worst; if worst comes to worst; serious, alarming"
 ],
 [
 "大臣",
-0,
 6,
 "dàchén",
 "chancellor"
 ],
 [
 "大伙儿",
-0,
 6,
 "dàhuǒr",
 "everyone"
 ],
 [
 "大肆",
-0,
 6,
 "dàsì",
 "wantonly; without any constraint"
 ],
 [
 "大体",
-0,
 6,
 "dàtǐ",
 "in general; more or less; on the whole"
 ],
 [
 "大意",
-0,
 6,
 "dàyì",
 "main idea; general idea; gist"
 ],
 [
 "大致",
-0,
 6,
 "dàzhì",
 "more or less; roughly; approximately"
 ],
 [
 "放大",
-0,
 6,
 "fàngdà",
 "enlarge; amplify"
 ],
 [
 "恍然大悟",
-0,
 6,
 "huǎngrándàwù",
 "suddenly see the light; suddenly realize what has happened; twig"
 ],
 [
 "庞大",
-0,
 6,
 "pángdà",
 "enormous; huge; tremendous"
+]
+],
+"extraWords": [
+[
+"大学",
+711,
+"da4 xue2",
+"university"
+],
+[
+"大人",
+1075,
+"da4 ren5",
+"adult; grownup"
+],
+[
+"意大利",
+1525,
+"Yi4 da4 li4",
+"Italy; Italian"
+],
+[
+"长大",
+1530,
+"zhang3 da4",
+"to grow up"
+],
+[
+"大街",
+1765,
+"da4 jie1",
+"street; main street"
+],
+[
+"大脑",
+1796,
+"da4 nao3",
+"brain; cerebrum"
+],
+[
+"大多数",
+1822,
+"da4 duo1 shu4",
+"(great) majority"
+],
+[
+"大部分",
+1899,
+"da4 bu4 fen5",
+"in large part; the greater part; the majority"
+],
+[
+"强大",
+1984,
+"qiang2 da4",
+"large; formidable; powerful; strong"
+],
+[
+"大楼",
+2048,
+"da4 lou2",
+"large building"
 ]
 ],
 "strokes": [

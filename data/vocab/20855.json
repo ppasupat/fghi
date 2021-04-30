@@ -8,45 +8,101 @@
 "words": [
 [
 "家具",
-0,
 4,
 "jiājù",
 "furniture"
 ],
 [
 "工具",
-0,
 5,
 "gōngjù",
 "tool; instrument; utensil"
 ],
 [
 "具备",
-0,
 5,
 "jùbèi",
 "possess; be equipped with"
 ],
 [
 "具体",
-0,
 5,
 "jùtǐ",
 "concrete; definite; specific"
 ],
 [
 "玩具",
-0,
 5,
 "wánjù",
 "plaything; toy"
 ],
 [
 "文具",
-0,
 5,
 "wénjù",
 "stationery; writing supplies"
+]
+],
+"extraWords": [
+[
+"具",
+1582,
+"ju4",
+"\"tool; device; utensil; equipment; instrument; talent; ability; (classifier for devices, coffins, dead bodies); to possess; to have; to provide; to furnish; to state\""
+],
+[
+"具有",
+3112,
+"ju4 you3",
+"to have; to possess"
+],
+[
+"面具",
+3248,
+"mian4 ju4",
+"mask"
+],
+[
+"道具",
+5759,
+"dao4 ju4",
+"stage props"
+],
+[
+"餐具",
+10119,
+"can1 ju4",
+"table ware; dinner service"
+],
+[
+"工具箱",
+10820,
+"gong1 ju4 xiang1",
+"toolbox"
+],
+[
+"用具",
+12282,
+"yong4 ju4",
+"appliance; utensil"
+],
+[
+"防毒面具",
+16714,
+"fang2 du2 mian4 ju4",
+"gas mask"
+],
+[
+"器具",
+16765,
+"qi4 ju4",
+"implement; ware"
+],
+[
+"渔具",
+23371,
+"yu2 ju4",
+"fishing gear"
 ]
 ],
 "strokes": [

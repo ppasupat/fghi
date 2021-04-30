@@ -8,24 +8,83 @@
 "words": [
 [
 "公园",
-0,
 3,
 "gōngyuán",
 "public park"
 ],
 [
 "幼儿园",
-0,
 5,
 "yòu'éryuán",
 "kindergarten; nursery school"
 ],
 [
 "园林",
-0,
 6,
 "yuánlín",
 "gardens; park; landscape"
+]
+],
+"extraWords": [
+[
+"花园",
+2995,
+"hua1 yuan2",
+"garden"
+],
+[
+"校园",
+4934,
+"xiao4 yuan2",
+"campus"
+],
+[
+"动物园",
+5495,
+"dong4 wu4 yuan2",
+"zoo"
+],
+[
+"家园",
+5601,
+"jia1 yuan2",
+"home; homestead"
+],
+[
+"庄园",
+7154,
+"zhuang1 yuan2",
+"a manor; feudal land; a villa and park"
+],
+[
+"园",
+7591,
+"yuan2",
+"garden"
+],
+[
+"园丁",
+8896,
+"yuan2 ding1",
+"gardener"
+],
+[
+"园艺",
+11648,
+"yuan2 yi4",
+"gardening; horticultural"
+],
+[
+"游乐园",
+11674,
+"you2 le4 yuan2",
+"theme park"
+],
+[
+"伊甸园",
+12016,
+"yi1 dian4 yuan2",
+"Garden of Eden"
 ]
 ],
 "strokes": [

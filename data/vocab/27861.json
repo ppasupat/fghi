@@ -8,101 +8,149 @@
 "words": [
 [
 "办法",
-0,
 3,
 "bànfǎ",
 "method; way (of doing something)"
 ],
 [
 "法律",
-0,
 4,
 "fǎlǜ",
 "law; statute"
 ],
 [
 "方法",
-0,
 4,
 "fāngfǎ",
 "method; way; means"
 ],
 [
 "看法",
-0,
 4,
 "kànfǎ",
 "point of view; opinion"
 ],
 [
 "语法",
-0,
 4,
 "yǔfǎ",
 "grammar"
 ],
 [
 "法院",
-0,
 5,
 "fǎyuàn",
 "court of law"
 ],
 [
 "合法",
-0,
 5,
 "héfǎ",
 "lawful; legitimate; legal"
 ],
 [
 "法人",
-0,
 6,
 "fǎrén",
 "legal entity (i.e., a corporation)"
 ],
 [
 "非法",
-0,
 6,
 "fēifǎ",
 "illegal"
 ],
 [
 "手法",
-0,
 6,
 "shǒufǎ",
 "technique; trick; skill; tact"
 ],
 [
 "书法",
-0,
 6,
 "shūfǎ",
 "calligraphy; penmanship"
 ],
 [
 "司法",
-0,
 6,
 "sīfǎ",
 "judicial; (administration of) justice"
 ],
 [
 "宪法",
-0,
 6,
 "xiànfǎ",
 "constitution; charter"
 ],
 [
 "想方设法",
-0,
 6,
 "xiǎng fāng shè fǎ",
 "(saying) think of or try every possible method; by all means possible"
+]
+],
+"extraWords": [
+[
+"无法",
+416,
+"wu2 fa3",
+"unable; incapable"
+],
+[
+"法",
+649,
+"fa3",
+"law; method; way; Buddhist teaching; Legalist; abbr. for France"
+],
+[
+"想法",
+693,
+"xiang3 fa3",
+"idea; train of thought; what sb is thinking; to think of a way (to do sth)"
+],
+[
+"法官",
+837,
+"fa3 guan1",
+"a judge; judge; to judge"
+],
+[
+"法庭",
+1245,
+"fa3 ting2",
+"court (of law)"
+],
+[
+"法国",
+1370,
+"Fa3 guo2",
+"France; French"
+],
+[
+"魔法",
+1976,
+"mo2 fa3",
+"enchantment; magic"
+],
+[
+"说法",
+2306,
+"shuo1 fa5",
+"way or style of speaking; statement; wording; to expound Buddhist teaching; way of speaking; wording; formulation; one's version (of events); statement; theory; hypothesis; interpretation"
+],
+[
+"没法",
+2616,
+"mei2 fa3",
+"at a loss; unable to do anything about it; to have no choice"
+],
+[
+"法语",
+2785,
+"Fa3 yu3",
+"French (language)"
 ]
 ],
 "strokes": [

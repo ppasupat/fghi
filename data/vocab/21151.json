@@ -8,59 +8,113 @@
 "words": [
 [
 "成功",
-0,
 4,
 "chénggōng",
 "success; to succeed"
 ],
 [
 "功夫",
-0,
 4,
 "gōngfu",
 "kung fu; skill; art; labor"
 ],
 [
 "功能",
-0,
 5,
 "gōngnéng",
 "function; feature"
 ],
 [
 "用功",
-0,
 5,
 "yòng gōng",
 "diligent; industrious; hardworking"
 ],
 [
 "功劳",
-0,
 6,
 "gōngláo",
 "contribution; meritorious; credit"
 ],
 [
 "功效",
-0,
 6,
 "gōngxiào",
 "efficiency; effectiveness"
 ],
 [
 "急功近利",
-0,
 6,
 "jígōngjìnlì",
 "eager for success and profit"
 ],
 [
 "气功",
-0,
 6,
 "qìgōng",
 "Qi Gong, a system of deep breathing exercises"
+]
+],
+"extraWords": [
+[
+"功课",
+6110,
+"gong1 ke4",
+"homework; assignment; task; classwork; lesson; study"
+],
+[
+"功",
+6559,
+"gong1",
+"merit; achievement; result; service; accomplishment; work (phys.)"
+],
+[
+"归功",
+10764,
+"gui1 gong1",
+"to give credit; to give sb his due; attribution"
+],
+[
+"特异功能",
+16340,
+"te4 yi4 gong1 neng2",
+"extra-sensory perception"
+],
+[
+"庆功",
+18189,
+"qing4 gong1",
+"to celebrate a heroic deed"
+],
+[
+"功绩",
+18822,
+"gong1 ji4",
+"feat; contribution; merits and achievements"
+],
+[
+"大功告成",
+18844,
+"da4 gong1 gao4 cheng2",
+"successfully accomplished (project or goal); to be highly successful"
+],
+[
+"功率",
+22445,
+"gong1 lu:4",
+"rate of work; power (output)"
+],
+[
+"武功",
+22611,
+"wu3 gong1",
+"(N) Wugong (place in Shaanxi); Martial art; military achievement (e.g. number of enemy heads cut off)"
+],
+[
+"功力",
+22830,
+"gong1 li4",
+"merit; efficacy; competence; skill; power"
 ]
 ],
 "strokes": [

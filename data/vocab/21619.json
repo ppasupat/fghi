@@ -8,59 +8,113 @@
 "words": [
 [
 "味道",
-0,
 4,
 "wèidao",
 "flavor; taste"
 ],
 [
 "口味",
-0,
 5,
 "kǒuwèi",
 "a person's tastes or preferences"
 ],
 [
 "风味",
-0,
 6,
 "fēngwèi",
 "local flavor; local style"
 ],
 [
 "津津有味",
-0,
 6,
 "jīnjīn yǒu wèi",
 "(saying) with gusto; eagerly; with great interest"
 ],
 [
 "气味",
-0,
 6,
 "qìwèi",
 "odor; scent"
 ],
 [
 "趣味",
-0,
 6,
 "qùwèi",
 "fun; interest; delight; taste"
 ],
 [
 "意味着",
-0,
 6,
 "yìwèizhe",
 "signify; to mean; imply"
 ],
 [
 "滋味",
-0,
 6,
 "zīwèi",
 "taste; flavor; the way one feels"
+]
+],
+"extraWords": [
+[
+"味",
+2126,
+"wei4",
+"taste"
+],
+[
+"意味",
+2811,
+"yi4 wei4",
+"significance; imply (that)"
+],
+[
+"美味",
+2874,
+"mei3 wei4",
+"delicious; relish"
+],
+[
+"品味",
+5307,
+"pin3 wei4",
+"\"to sample; to taste; to appreciate; one's taste (i.e. in music, literature, fashion, food and drink etc); good taste\""
+],
+[
+"香味",
+8260,
+"xiang1 wei4",
+"fragrance; bouquet; sweet smell"
+],
+[
+"臭味",
+8438,
+"chou4 wei4",
+"stink; fumes"
+],
+[
+"调味",
+8567,
+"tiao2 wei4",
+"seasoning; condiment; flavoring; dressing; essences"
+],
+[
+"无味",
+15258,
+"wu2 wei4",
+"tasteless; odorless"
+],
+[
+"怪味",
+20161,
+"guai4 wei4",
+"strange odor"
+],
+[
+"酒味",
+20908,
+"jiu3 wei4",
+"smell of alcohol; flavoring of rum or other liquor in food; aroma or nose (of wine)"
 ]
 ],
 "strokes": [

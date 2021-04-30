@@ -8,24 +8,83 @@
 "words": [
 [
 "单纯",
-0,
 5,
 "dānchún",
 "simple; pure; merely"
 ],
 [
 "纯粹",
-0,
 6,
 "chúncuì",
 "purely; pure"
 ],
 [
 "纯洁",
-0,
 6,
 "chúnjié",
 "pure; unadulterated; cleanse"
+]
+],
+"extraWords": [
+[
+"纯",
+4262,
+"chun2",
+"pure; simple; unmixed; genuine"
+],
+[
+"纯属",
+9633,
+"chun2 shu3",
+"pure and simple; sheer; outright"
+],
+[
+"纯净",
+10622,
+"chun2 jing4",
+"pure; clean; unmixed"
+],
+[
+"纯真",
+12148,
+"chun2 zhen1",
+"sincere"
+],
+[
+"纯正",
+15143,
+"chun2 zheng4",
+"genuine"
+],
+[
+"纯度",
+15883,
+"chun2 du4",
+"purity"
+],
+[
+"纯种",
+17854,
+"chun2 zhong3",
+"purebred"
+],
+[
+"纯金",
+21184,
+"chun2 jin1",
+"pure gold"
+],
+[
+"纯朴",
+36142,
+"chun2 pu3",
+"\"variant of 淳朴, simple and honest; unsophisticated\""
+],
+[
+"提纯",
+43221,
+"ti2 chun2",
+"to purify"
 ]
 ],
 "strokes": [

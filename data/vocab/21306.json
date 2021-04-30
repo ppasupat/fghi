@@ -8,45 +8,101 @@
 "words": [
 [
 "郊区",
-0,
 4,
 "jiāoqū",
 "suburbs; outskirts"
 ],
 [
 "区别",
-0,
 4,
 "qūbié",
 "difference; distinguish"
 ],
 [
 "地区",
-0,
 5,
 "dìqū",
 "an area; a region; a district"
 ],
 [
 "区分",
-0,
 6,
 "qūfēn",
 "differentiate; find differing aspects; find the difference between"
 ],
 [
 "区域",
-0,
 6,
 "qūyù",
 "area; region; district"
 ],
 [
 "社区",
-0,
 6,
 "shèqū",
 "community"
+]
+],
+"extraWords": [
+[
+"区",
+957,
+"ou1/qu1",
+"surname Ou; area; region; district; small; distinguish"
+],
+[
+"市区",
+5602,
+"shi4 qu1",
+"urban district; downtown; city center"
+],
+[
+"特区",
+7535,
+"te4 qu1",
+"Special administrative region; abbr. for 特别行政区"
+],
+[
+"东区",
+8887,
+"Dong1 qu1",
+"east district of city; east zone; Tung east district of a Taiwanese city"
+],
+[
+"教区",
+9122,
+"jiao4 qu1",
+"parish"
+],
+[
+"西区",
+10456,
+"Xi1 qu1",
+"west district of city; west zone; Hsi west district of a Taiwanese city"
+],
+[
+"贫民区",
+11021,
+"pin2 min2 qu1",
+"slum area; ghetto"
+],
+[
+"小区",
+11808,
+"xiao3 qu1",
+"neighborhood; district"
+],
+[
+"辖区",
+12724,
+"xia2 qu1",
+"administrative region"
+],
+[
+"禁区",
+13251,
+"jin4 qu1",
+"restricted area; forbidden region"
 ]
 ],
 "strokes": [

@@ -8,52 +8,107 @@
 "words": [
 [
 "种",
-0,
 3,
 "zhǒng",
 "type; breed; race; seed"
 ],
 [
 "种类",
-0,
 5,
 "zhǒnglèi",
 "kind; category; class"
 ],
 [
 "播种",
-0,
 6,
 "bōzhǒng",
 "sow seeds; sowing; seed"
 ],
 [
 "品种",
-0,
 6,
 "pǐnzhǒng",
 "breed; variety"
 ],
 [
 "种子",
-0,
 6,
 "zhǒngzi",
 "seed"
 ],
 [
 "种族",
-0,
 6,
 "zhǒngzú",
 "race; ethnicity"
 ],
 [
 "种植",
-0,
 6,
 "zhòngzhí",
 "plant; grow; crop"
+]
+],
+"extraWords": [
+[
+"这种",
+255,
+"zhe4 zhong3",
+"this; this kind of; this sort of; this type of"
+],
+[
+"那种",
+784,
+"na4 zhong3",
+"that; that kind of; that sort of; that type of"
+],
+[
+"某种",
+1339,
+"mou3 zhong3",
+"some kind (of)"
+],
+[
+"各种",
+2606,
+"ge4 zhong3",
+"every kind of; all kinds of; various kinds"
+],
+[
+"各种各样",
+6986,
+"ge4 zhong3 ge4 yang4",
+"various sorts and varieties"
+],
+[
+"特种部队",
+7915,
+"te4 zhong3 bu4 dui4",
+"(military) special forces"
+],
+[
+"种族主义",
+8130,
+"zhong3 zu2 zhu3 yi4",
+"racism"
+],
+[
+"物种",
+8360,
+"wu4 zhong3",
+"species"
+],
+[
+"种种",
+8769,
+"zhong3 zhong3",
+"all kinds of"
+],
+[
+"变种",
+9052,
+"bian4 zhong3",
+"mutation; variety; variant"
 ]
 ],
 "strokes": [

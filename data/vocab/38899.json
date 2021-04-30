@@ -8,59 +8,113 @@
 "words": [
 [
 "声音",
-0,
 3,
 "shēngyīn",
 "sound; voice"
 ],
 [
 "音乐",
-0,
 3,
 "yīnyuè",
 "music"
 ],
 [
 "录音",
-0,
 5,
 "lùyīn",
 "sound recording; to record"
 ],
 [
 "拼音",
-0,
 5,
 "pīnyīn",
 "pinyin; phonetic writing"
 ],
 [
 "口音",
-0,
 6,
 "kǒuyīn",
 "accent"
 ],
 [
 "收音机",
-0,
 6,
 "shōuyīnjī",
 "radio"
 ],
 [
 "音响",
-0,
 6,
 "yīnxiǎng",
 "(Electronic) speakers; acoustics; sound field (i.e., in a room or theater)"
 ],
 [
 "噪音",
-0,
 6,
 "zàoyīn",
 "uproar; rumble; noise; static"
+]
+],
+"extraWords": [
+[
+"音",
+2856,
+"yin1",
+"sound; noise; note (of musical scale); tone; news; syllable; reading (phonetic value of a character)"
+],
+[
+"音乐会",
+4526,
+"yin1 yue4 hui4",
+"concert"
+],
+[
+"嗓音",
+5158,
+"sang3 yin1",
+"voice"
+],
+[
+"语音",
+5548,
+"yu3 yin1",
+"voice"
+],
+[
+"发音",
+5993,
+"fa1 yin1",
+"pronounce; pronunciation"
+],
+[
+"音乐家",
+7257,
+"yin1 yue4 jia1",
+"musician"
+],
+[
+"福音",
+8873,
+"fu2 yin1",
+"gospel"
+],
+[
+"录音带",
+8903,
+"lu4 yin1 dai4",
+"audio tape"
+],
+[
+"录音机",
+10141,
+"lu4 yin1 ji1",
+"(tape) recording machine; tape recorder"
+],
+[
+"音量",
+10638,
+"yin1 liang4",
+"sound volume"
 ]
 ],
 "strokes": [

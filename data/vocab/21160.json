@@ -8,234 +8,263 @@
 "words": [
 [
 "运动",
-0,
 2,
 "yùndòng",
 "(physical) exercise; movement; sports; campaign"
 ],
 [
 "动物",
-0,
 3,
 "dòngwù",
 "animal"
 ],
 [
 "动作",
-0,
 4,
 "dòngzuò",
 "movement; motion; action"
 ],
 [
 "感动",
-0,
 4,
 "gǎndòng",
 "be moved; to touch emotionally"
 ],
 [
 "活动",
-0,
 4,
 "huódòng",
 "activity; exercise; move about"
 ],
 [
 "激动",
-0,
 4,
 "jīdòng",
 "excite; agitate"
 ],
 [
 "动画片",
-0,
 5,
 "dònghuàpiàn",
 "animated film"
 ],
 [
 "劳动",
-0,
 5,
 "láodòng",
 "work; toil; (physical) labor"
 ],
 [
 "生动",
-0,
 5,
 "shēngdòng",
 "vivid; lively"
 ],
 [
 "行动",
-0,
 5,
 "xíngdòng",
 "to move; get around; action"
 ],
 [
 "移动",
-0,
 5,
 "yídòng",
 "to move"
 ],
 [
 "振动",
-0,
 5,
 "zhèndòng",
 "vibrate; vibration"
 ],
 [
 "主动",
-0,
 5,
 "zhǔdòng",
 "to take initiative; voluntary"
 ],
 [
 "自动",
-0,
 5,
 "zìdòng",
 "automatic"
 ],
 [
 "被动",
-0,
 6,
 "bèidòng",
 "passive"
 ],
 [
 "冲动",
-0,
 6,
 "chōngdòng",
 "impulsive; act on impulse"
 ],
 [
 "调动",
-0,
 6,
 "diàodòng",
 "to transfer; to maneuver (troops, etc.)"
 ],
 [
 "动荡",
-0,
 6,
 "dòngdàng",
 "(social or political) turmoil; unrest; upheaval"
 ],
 [
 "动机",
-0,
 6,
 "dòngjī",
 "motive; motivation; intention"
 ],
 [
 "动静",
-0,
 6,
 "dòngjìng",
 "sound of activity; activity"
 ],
 [
 "动力",
-0,
 6,
 "dònglì",
 "power; motion; impetus; driving force"
 ],
 [
 "动脉",
-0,
 6,
 "dòngmài",
 "artery"
 ],
 [
 "动身",
-0,
 6,
 "dòng shēn",
 "go on a journey; leave"
 ],
 [
 "动手",
-0,
 6,
 "dòngshǒu",
 "get to work; to touch; strike a blow"
 ],
 [
 "动态",
-0,
 6,
 "dòngtài",
 "development; trend; dynamic state"
 ],
 [
 "动员",
-0,
 6,
 "dòngyuán",
 "mobilize"
 ],
 [
 "发动",
-0,
 6,
 "fādòng",
 "to start; to launch; mobilize"
 ],
 [
 "鼓动",
-0,
 6,
 "gǔdòng",
 "agitate; instigate"
 ],
 [
 "轰动",
-0,
 6,
 "hōngdòng",
 "a sensation; a stir"
 ],
 [
 "机动",
-0,
 6,
 "jīdòng",
 "motorized; mobile; flexible"
 ],
 [
 "惊动",
-0,
 6,
 "jīngdòng",
 "alarm; alert; startle; disturb"
 ],
 [
 "举动",
-0,
 6,
 "jǔdòng",
 "action; act; (make) a move; movement"
 ],
 [
 "无动于衷",
-0,
 6,
 "wúdòngyúzhōng",
 "aloof; indifferent; unconcerned; untouched"
+]
+],
+"extraWords": [
+[
+"动",
+408,
+"dong4",
+"to use; to act; to move; to change; abbr. for verb 动词[dong4 ci2]"
+],
+[
+"启动",
+2269,
+"qi3 dong4",
+"to start"
+],
+[
+"运动员",
+3201,
+"yun4 dong4 yuan2",
+"athlete"
+],
+[
+"打动",
+4873,
+"da3 dong4",
+"to move (to pity); arousing (sympathy); touching"
+],
+[
+"动物园",
+5495,
+"dong4 wu4 yuan2",
+"zoo"
+],
+[
+"乱动",
+6130,
+"luan4 dong4",
+"to fiddle with; to tamper with; to meddle with; to move randomly; to flail about"
+],
+[
+"出动",
+7065,
+"chu1 dong4",
+"to start out on a trip; to dispatch troops"
+],
+[
+"开动",
+7115,
+"kai1 dong4",
+"start; set in motion; move; march; dig in (eating); tuck in (eating)"
+],
+[
+"发动机",
+7189,
+"fa1 dong4 ji1",
+"engine; motor; CL:台[tai2]"
+],
+[
+"跳动",
+7580,
+"tiao4 dong4",
+"to beat; to pulse"
 ]
 ],
 "strokes": [

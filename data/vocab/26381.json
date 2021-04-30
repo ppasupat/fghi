@@ -8,94 +8,143 @@
 "words": [
 [
 "衣服",
-0,
 1,
 "yīfu",
 "clothes"
 ],
 [
 "服务员",
-0,
 2,
 "fúwùyuán",
 "waiter/waitress; server; attendant"
 ],
 [
 "舒服",
-0,
 3,
 "shūfu",
 "comfortable; feeling well"
 ],
 [
 "服装",
-0,
 5,
 "fúzhuāng",
 "(formal) clothing; costume; dress"
 ],
 [
 "克服",
-0,
 5,
 "kèfú",
 "overcome (hardships, etc.); conquer"
 ],
 [
 "佩服",
-0,
 5,
 "pèifu",
 "admire; to respect"
 ],
 [
 "说服",
-0,
 5,
 "shuō fú",
 "persuade; convince"
 ],
 [
 "服从",
-0,
 6,
 "fúcóng",
 "to obey; to comply"
 ],
 [
 "服气",
-0,
 6,
 "fúqì",
 "be convinced"
 ],
 [
 "屈服",
-0,
 6,
 "qūfú",
 "yield; give in; submit"
 ],
 [
 "羽绒服",
-0,
 6,
 "yǔróngfú",
 "down jacket"
 ],
 [
 "征服",
-0,
 6,
 "zhēngfú",
 "conquer; subdue"
 ],
 [
 "制服",
-0,
 6,
 "zhìfú",
 "uniform; to subdue; to bring under control"
+]
+],
+"extraWords": [
+[
+"服务",
+1215,
+"fu2 wu4",
+"to serve; service"
+],
+[
+"服",
+2400,
+"fu2/fu4",
+"clothes; dress; garment; submit; take (medicine)"
+],
+[
+"礼服",
+3621,
+"li3 fu2",
+"full dress"
+],
+[
+"服用",
+4491,
+"fu2 yong4",
+"to take (medicine)"
+],
+[
+"服务器",
+5981,
+"fu2 wu4 qi4",
+"server (computer)"
+],
+[
+"服役",
+6404,
+"fu2 yi4",
+"serve in the army; be in active service"
+],
+[
+"服刑",
+7573,
+"fu2 xing2",
+"to serve a prison sentence"
+],
+[
+"西服",
+8201,
+"xi1 fu2",
+"suit; western-style clothes (historical usage)"
+],
+[
+"服药",
+8426,
+"fu2 yao4",
+"to take drugs"
+],
+[
+"服饰",
+9124,
+"fu2 shi4",
+"dress and adornment; trappings"
 ]
 ],
 "strokes": [

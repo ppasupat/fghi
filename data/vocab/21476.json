@@ -8,45 +8,101 @@
 "words": [
 [
 "古代",
-0,
 5,
 "gǔdài",
 "ancient times"
 ],
 [
 "古典",
-0,
 5,
 "gǔdiǎn",
 "classical"
 ],
 [
 "名胜古迹",
-0,
 5,
 "míngshènggǔjì",
 "famous scenic spots and ancient historic sites"
 ],
 [
 "古董",
-0,
 6,
 "gǔdǒng",
 "antique"
 ],
 [
 "古怪",
-0,
 6,
 "gǔguài",
 "eccentric; grotesque; oddly"
 ],
 [
 "考古",
-0,
 6,
 "kǎogǔ",
 "archaeology"
+]
+],
+"extraWords": [
+[
+"古",
+3061,
+"gu3",
+"ancient; old; palaeo-; surname Gu"
+],
+[
+"古巴",
+3414,
+"Gu3 ba1",
+"Cuba"
+],
+[
+"古老",
+3524,
+"gu3 lao3",
+"ancient; old; age-old"
+],
+[
+"古人",
+10271,
+"gu3 ren2",
+"people from ancient times; the ancients; the late (i.e. person who has passed away)"
+],
+[
+"蒙古",
+11614,
+"Meng3 gu3",
+"Mongolia"
+],
+[
+"复古",
+14199,
+"fu4 gu3",
+"\"to return to old ways (a Confucian aspiration); to turn back the clock; neoclassical school during Tang and Song associated with classical writing 古文; retro (fashion style based on nostalgia, esp. for 1960s)\""
+],
+[
+"考古学家",
+14261,
+"kao3 gu3 xue2 jia1",
+"archaeologist"
+],
+[
+"远古",
+15027,
+"yuan3 gu3",
+"antiquity; ancient times"
+],
+[
+"尼古丁",
+19326,
+"ni2 gu3 ding1",
+"nicotine"
+],
+[
+"古物",
+19831,
+"gu3 wu4",
+"antique"
 ]
 ],
 "strokes": [

@@ -8,80 +8,131 @@
 "words": [
 [
 "竞争",
-0,
 4,
 "jìngzhēng",
 "compete"
 ],
 [
 "战争",
-0,
 5,
 "zhànzhēng",
 "war; conflict"
 ],
 [
 "争论",
-0,
 5,
 "zhēnglùn",
 "argue; to dispute; contend; argument"
 ],
 [
 "争取",
-0,
 5,
 "zhēngqǔ",
 "fight for; compete for; strive"
 ],
 [
 "斗争",
-0,
 6,
 "dòuzhēng",
 "to struggle; to fight for; to battle"
 ],
 [
 "力争",
-0,
 6,
 "lìzhēng",
 "work hard; do all one can to; strive for/argue strongly"
 ],
 [
 "争端",
-0,
 6,
 "zhēngduān",
 "dispute; controversy; conflict"
 ],
 [
 "争夺",
-0,
 6,
 "zhēngduó",
 "fight over"
 ],
 [
 "争气",
-0,
 6,
 "zhēng qì",
 "work hard for sth.; determined not to fall short"
 ],
 [
 "争先恐后",
-0,
 6,
 "zhēng xiān kǒng hòu",
 "striving to be first; compete with each other"
 ],
 [
 "争议",
-0,
 6,
 "zhēngyì",
 "controversy; dispute; contention"
+]
+],
+"extraWords": [
+[
+"争",
+3463,
+"zheng1",
+"struggle; fight"
+],
+[
+"争霸",
+3565,
+"zheng1 ba4",
+"to contend for hegemony; a power struggle"
+],
+[
+"争吵",
+3708,
+"zheng1 chao3",
+"dispute; strife"
+],
+[
+"争执",
+5430,
+"zheng1 zhi2",
+"dispute; disagree"
+],
+[
+"抗争",
+6990,
+"kang4 zheng1",
+"to resist; to make a stand and fight (against)"
+],
+[
+"争斗",
+8003,
+"zheng1 dou4",
+"struggle; war"
+],
+[
+"争辩",
+9047,
+"zheng1 bian4",
+"a dispute; to wrangle"
+],
+[
+"竞争力",
+11903,
+"jing4 zheng1 li4",
+"competitive strength; competitiveness"
+],
+[
+"竞争者",
+13363,
+"jing4 zheng1 zhe3",
+"competitor"
+],
+[
+"纷争",
+20269,
+"fen1 zheng1",
+"to dispute"
 ]
 ],
 "strokes": [

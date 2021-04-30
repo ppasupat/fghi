@@ -8,87 +8,137 @@
 "words": [
 [
 "表示",
-0,
 4,
 "biǎoshì",
 "express; show; indicate"
 ],
 [
 "出示",
-0,
 5,
 "chūshì",
 "to show"
 ],
 [
 "显示",
-0,
 5,
 "xiǎnshì",
 "display, illustrate, to show"
 ],
 [
 "暗示",
-0,
 6,
 "ànshì",
 "drop a hint; suggest"
 ],
 [
 "启示",
-0,
 6,
 "qǐshì",
 "enlightenment; revelation"
 ],
 [
 "请示",
-0,
 6,
 "qǐngshì",
 "ask for instructions"
 ],
 [
 "示范",
-0,
 6,
 "shìfàn",
 "demonstrate; lead the way; show how something is done"
 ],
 [
 "示威",
-0,
 6,
 "shìwēi",
 "hold a protest demonstration"
 ],
 [
 "示意",
-0,
 6,
 "shìyì",
 "to signal; to hint; to gesture; to motion; to indicate (an idea to sb)"
 ],
 [
 "提示",
-0,
 6,
 "tíshì",
 "to prompt; to present; to point out; to draw attention to sth; hint; brief; cue"
 ],
 [
 "展示",
-0,
 6,
 "zhǎnshì",
 "open up; reveal; to display"
 ],
 [
 "指示",
-0,
 6,
 "zhǐshì",
 "indicate; instruct; instructions"
+]
+],
+"extraWords": [
+[
+"演示",
+5967,
+"yan3 shi4",
+"to demonstrate; to show"
+],
+[
+"示",
+8247,
+"shi4",
+"to show; reveal"
+],
+[
+"揭示",
+12510,
+"jie1 shi4",
+"to show; to make known"
+],
+[
+"预示",
+13813,
+"yu4 shi4",
+"to indicate; to foretell; to forebode; to betoken"
+],
+[
+"启示录",
+13963,
+"Qi3 shi4 lu4",
+"the Revelation of St John the divine; the Apocalypse"
+],
+[
+"告示",
+15955,
+"gao4 shi4",
+"announcement"
+],
+[
+"显示器",
+16317,
+"xian3 shi4 qi4",
+"monitor (computer)"
+],
+[
+"示威者",
+20256,
+"shi4 wei1 zhe3",
+"demonstrator; protester"
+],
+[
+"标示",
+20501,
+"biao1 shi4",
+"indicate"
+],
+[
+"示意图",
+22261,
+"shi4 yi4 tu2",
+"drawing used to convey basic meaning; sketch; schema"
 ]
 ],
 "strokes": [

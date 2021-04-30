@@ -8,17 +8,77 @@
 "words": [
 [
 "饭店",
-0,
 1,
 "fàndiàn",
 "restaurant; hotel"
 ],
 [
 "商店",
-0,
 1,
 "shāngdiàn",
 "shop; store"
+]
+],
+"extraWords": [
+[
+"店",
+731,
+"dian4",
+"inn; shop; store"
+],
+[
+"酒店",
+1377,
+"jiu3 dian4",
+"wine shop; pub (public house); hotel; restaurant"
+],
+[
+"咖啡店",
+6315,
+"ka1 fei1 dian4",
+"café; coffeeshop"
+],
+[
+"书店",
+6380,
+"shu1 dian4",
+"bookstore"
+],
+[
+"旅店",
+7173,
+"lu:3 dian4",
+"inn; small hotel"
+],
+[
+"杂货店",
+8128,
+"za2 huo4 dian4",
+"grocery store; emporium"
+],
+[
+"店主",
+9082,
+"dian4 zhu3",
+"shop owner"
+],
+[
+"药店",
+9562,
+"yao4 dian4",
+"pharmacy"
+],
+[
+"店员",
+10236,
+"dian4 yuan2",
+"shop assistant; salesclerk; salesperson"
+],
+[
+"店铺",
+10237,
+"dian4 pu4",
+"store; shop"
 ]
 ],
 "strokes": [

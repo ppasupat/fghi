@@ -8,45 +8,101 @@
 "words": [
 [
 "京剧",
-0,
 4,
 "jīngjù",
 "Beijing Opera"
 ],
 [
 "戏剧",
-0,
 5,
 "xìjù",
 "drama; play; theater"
 ],
 [
 "急剧",
-0,
 6,
 "jíjù",
 "rapid; sudden"
 ],
 [
 "加剧",
-0,
 6,
 "jiājù",
 "aggravate; intensify; sharpen; accelerate"
 ],
 [
 "剧本",
-0,
 6,
 "jùběn",
 "script for a play; opera; movie; etc"
 ],
 [
 "剧烈",
-0,
 6,
 "jùliè",
 "acute; violent; severe"
+]
+],
+"extraWords": [
+[
+"剧",
+2475,
+"ju4",
+"drama; play; show; severe"
+],
+[
+"喜剧",
+2812,
+"xi3 ju4",
+"comedy"
+],
+[
+"悲剧",
+3185,
+"bei1 ju4",
+"tragedy"
+],
+[
+"剧院",
+3544,
+"ju4 yuan4",
+"theater"
+],
+[
+"恶作剧",
+4505,
+"e4 zuo4 ju4",
+"mischief; mischievous; practical joke"
+],
+[
+"电视剧",
+4874,
+"dian4 shi4 ju4",
+"TV play; soap opera"
+],
+[
+"编剧",
+5609,
+"bian1 ju4",
+"to write a play; scenario; dramatist; screenwriter"
+],
+[
+"剧场",
+5672,
+"ju4 chang3",
+"theater"
+],
+[
+"歌剧",
+6550,
+"ge1 ju4",
+"western opera"
+],
+[
+"戏剧性",
+8126,
+"xi4 ju4 xing4",
+"dramatic"
 ]
 ],
 "strokes": [

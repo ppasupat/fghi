@@ -8,66 +8,119 @@
 "words": [
 [
 "估计",
-0,
 4,
 "gūjì",
 "appraise; estimate"
 ],
 [
 "计划",
-0,
 4,
 "jìhuà",
 "plan; project"
 ],
 [
 "计算",
-0,
 5,
 "jìsuàn",
 "to count; calculate; compute"
 ],
 [
 "会计",
-0,
 5,
 "kuàijì",
 "accountant; accounting"
 ],
 [
 "设计",
-0,
 5,
 "shèjì",
 "plan; design"
 ],
 [
 "共计",
-0,
 6,
 "gòngjì",
 "sum up; total"
 ],
 [
 "计较",
-0,
 6,
 "jìjiào",
 "focus excessively on; haggle; bicker; argue"
 ],
 [
 "千方百计",
-0,
 6,
 "qiān fāng bǎi jì",
 "by every possible means"
 ],
 [
 "统计",
-0,
 6,
 "tǒngjì",
 "statistics; to tally; to add up"
+]
+],
+"extraWords": [
+[
+"伙计",
+250,
+"huo3 ji4",
+"partner; fellow; mate; waiter; servant; shop assistant"
+],
+[
+"设计师",
+2821,
+"she4 ji4 shi1",
+"designer; architect"
+],
+[
+"计",
+3728,
+"ji4",
+"to calculate; to compute; to count; reckon; ruse; to plan; surname Ji"
+],
+[
+"计算机",
+4603,
+"ji4 suan4 ji1",
+"computer; calculator"
+],
+[
+"计时",
+5165,
+"ji4 shi2",
+"to measure time; to time; to reckon by time"
+],
+[
+"诡计",
+6354,
+"gui3 ji4",
+"deceit"
+],
+[
+"预计",
+6377,
+"yu4 ji4",
+"to forecast; predict; to estimate"
+],
+[
+"计程车",
+6664,
+"ji4 cheng2 che1",
+"taxi; cab (Taiwan)"
+],
+[
+"会计师",
+8643,
+"kuai4 ji4 shi1",
+"accountant"
+],
+[
+"算计",
+10561,
+"suan4 ji4",
+"to reckon; to calculate; to work out; to plan; to plot"
 ]
 ],
 "strokes": [

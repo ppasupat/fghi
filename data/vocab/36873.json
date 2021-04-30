@@ -8,59 +8,113 @@
 "words": [
 [
 "选择",
-0,
 3,
 "xuǎnzé",
 "select; to pick; choose"
 ],
 [
 "当选",
-0,
 6,
 "dāngxuǎn",
 "be elected"
 ],
 [
 "候选",
-0,
 6,
 "hòuxuǎn",
 "candidate"
 ],
 [
 "竞选",
-0,
 6,
 "jìngxuǎn",
 "run for (electoral) office; take part in an election"
 ],
 [
 "筛选",
-0,
 6,
 "shāixuǎn",
 "to filter; to sift"
 ],
 [
 "选拔",
-0,
 6,
 "xuǎnbá",
 "select the best; choose"
 ],
 [
 "选举",
-0,
 6,
 "xuǎnjǔ",
 "elect; election"
 ],
 [
 "选手",
-0,
 6,
 "xuǎnshǒu",
 "athlete; contestant; player"
+]
+],
+"extraWords": [
+[
+"选",
+504,
+"xuan3",
+"to choose; to pick; to select; to elect"
+],
+[
+"人选",
+3477,
+"ren2 xuan3",
+"person selected (for a job etc)"
+],
+[
+"挑选",
+3881,
+"tiao1 xuan3",
+"choose; select"
+],
+[
+"候选人",
+4583,
+"hou4 xuan3 ren2",
+"candidate"
+],
+[
+"选票",
+5116,
+"xuan3 piao4",
+"a vote; ballot"
+],
+[
+"选出",
+6539,
+"xuan3 chu1",
+"to pick out; to select; to elect"
+],
+[
+"选民",
+8476,
+"xuan3 min2",
+"voter; chosen people"
+],
+[
+"入选",
+10173,
+"ru4 xuan3",
+"to be chosen; to be elected as"
+],
+[
+"大选",
+11519,
+"da4 xuan3",
+"general election"
+],
+[
+"选项",
+11773,
+"xuan3 xiang4",
+"options (as in computer software settings)"
 ]
 ],
 "strokes": [

@@ -8,38 +8,95 @@
 "words": [
 [
 "周围",
-0,
 4,
 "zhōuwéi",
 "surroundings; vicinity; environment"
 ],
 [
 "范围",
-0,
 5,
 "fànwéi",
 "scope; range; limits; extent"
 ],
 [
 "围巾",
-0,
 5,
 "wéijīn",
 "scarf; shawl"
 ],
 [
 "围绕",
-0,
 5,
 "wéirào",
 "revolve around; center on (an issue)"
 ],
 [
 "包围",
-0,
 6,
 "bāowéi",
 "surround; encircle; hem in"
+]
+],
+"extraWords": [
+[
+"围",
+3486,
+"wei2",
+"to circle; to surround"
+],
+[
+"外围",
+10877,
+"wai4 wei2",
+"surrounding"
+],
+[
+"围栏",
+11110,
+"wei2 lan2",
+"fencing; railings; fence"
+],
+[
+"氛围",
+11830,
+"fen1 wei2",
+"ambience; atmosphere"
+],
+[
+"围裙",
+12029,
+"wei2 qun2",
+"apron"
+],
+[
+"围墙",
+12493,
+"wei2 qiang2",
+"enclosure"
+],
+[
+"围攻",
+16768,
+"wei2 gong1",
+"to besiege"
+],
+[
+"围住",
+18160,
+"wei2 zhu4",
+"to surround; to gird"
+],
+[
+"围捕",
+19841,
+"wei2 bu3",
+"to capture; to surround and catch"
+],
+[
+"解围",
+20013,
+"jie3 wei2",
+"to lift a siege; fig. to help sb out of trouble or embarrassment"
 ]
 ],
 "strokes": [

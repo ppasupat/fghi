@@ -8,45 +8,101 @@
 "words": [
 [
 "价格",
-0,
 4,
 "jiàgé",
 "price"
 ],
 [
 "价值",
-0,
 5,
 "jiàzhí",
 "value; worth"
 ],
 [
 "评价",
-0,
 5,
 "píngjià",
 "to evaluate"
 ],
 [
 "讨价还价",
-0,
 5,
 "tǎo jià huán jià",
 "bargaining; haggling over price"
 ],
 [
 "代价",
-0,
 6,
 "dàijià",
 "price; cost; expense"
 ],
 [
 "物美价廉",
-0,
 6,
 "wùměijiàlián",
 "attractive goods at inexpensive prices"
+]
+],
+"extraWords": [
+[
+"价钱",
+3437,
+"jia4 qian5",
+"price"
+],
+[
+"价",
+3974,
+"jia4/jie4/jie5",
+"price; value; valence (on an atom); great; good; middleman; servant"
+],
+[
+"出价",
+4495,
+"chu1 jia4",
+"bid"
+],
+[
+"廉价",
+5782,
+"lian2 jia4",
+"cheaply-priced"
+],
+[
+"开价",
+9989,
+"kai1 jia4",
+"to quote a price; seller's first offer"
+],
+[
+"价值观",
+11504,
+"jia4 zhi2 guan1",
+"value theory"
+],
+[
+"报价",
+13427,
+"bao4 jia4",
+"quoted price"
+],
+[
+"减价",
+13492,
+"jian3 jia4",
+"to cut prices; to discount; to mark down; price cutting"
+],
+[
+"无价",
+14841,
+"wu2 jia4",
+"invaluable; priceless"
+],
+[
+"特价",
+15280,
+"te4 jia4",
+"special price"
 ]
 ],
 "strokes": [

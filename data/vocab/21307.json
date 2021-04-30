@@ -8,17 +8,77 @@
 "words": [
 [
 "医生",
-0,
 1,
 "yīshēng",
 "doctor"
 ],
 [
 "医院",
-0,
 1,
 "yīyuàn",
 "hospital"
+]
+],
+"extraWords": [
+[
+"医疗",
+2232,
+"yi1 liao2",
+"medical treatment"
+],
+[
+"医学",
+3195,
+"yi1 xue2",
+"medicine; medical science; study of medicine"
+],
+[
+"法医",
+4068,
+"fa3 yi1",
+"forensic investigator; forensic detective"
+],
+[
+"医师",
+4095,
+"yi1 shi1",
+"doctor"
+],
+[
+"牙医",
+4593,
+"ya2 yi1",
+"dentist"
+],
+[
+"医",
+5092,
+"yi1",
+"medical; medicine; doctor; to cure; to treat"
+],
+[
+"兽医",
+6926,
+"shou4 yi1",
+"veterinary"
+],
+[
+"医护",
+8231,
+"yi1 hu4",
+"doctors and nurses; medic; medical (personnel)"
+],
+[
+"医药",
+9440,
+"yi1 yao4",
+"medicine"
+],
+[
+"医务室",
+10128,
+"yi1 wu4 shi4",
+"clinic"
 ]
 ],
 "strokes": [

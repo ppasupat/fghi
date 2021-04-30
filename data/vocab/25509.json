@@ -8,87 +8,137 @@
 "words": [
 [
 "接",
-0,
 3,
 "jiē",
 "connect; to meet; to pick up (somebody); to receive"
 ],
 [
 "接受",
-0,
 4,
 "jiēshòu",
 "accept; receive (honors, etc.)"
 ],
 [
 "接着",
-0,
 4,
 "jiēzhe",
 "continue; carry on; to catch; follow"
 ],
 [
 "直接",
-0,
 4,
 "zhíjiē",
 "direct; immediate"
 ],
 [
 "接触",
-0,
 5,
 "jiēchù",
 "come into contact with"
 ],
 [
 "接待",
-0,
 5,
 "jiēdài",
 "receive (a visitor); admit (entry to)"
 ],
 [
 "接近",
-0,
 5,
 "jiējìn",
 "near; be close to"
 ],
 [
 "迎接",
-0,
 5,
 "yíngjiē",
 "meet; greet; to welcome"
 ],
 [
 "间接",
-0,
 6,
 "jiànjiē",
 "indirect"
 ],
 [
 "接连",
-0,
 6,
 "jiēlián",
 "one after another; in a row; in succession"
 ],
 [
 "衔接",
-0,
 6,
 "xiánjiē",
 "to join together; to combine"
 ],
 [
 "再接再厉",
-0,
 6,
 "zàijiēzàilì",
 "continue the struggle; persist; unremitting efforts"
+]
+],
+"extraWords": [
+[
+"接到",
+1715,
+"jie1 dao4",
+"to receive (letter etc)"
+],
+[
+"接下来",
+2358,
+"jie1 xia4 lai2",
+"to accept; to take; next; following"
+],
+[
+"接吻",
+3431,
+"jie1 wen3",
+"kiss"
+],
+[
+"接通",
+4530,
+"jie1 tong1",
+"to connect; to put through"
+],
+[
+"接管",
+4924,
+"jie1 guan3",
+"take over; assume control"
+],
+[
+"接收",
+5138,
+"jie1 shou1",
+"to receive; to accept"
+],
+[
+"接替",
+8664,
+"jie1 ti4",
+"to replace; to take over (a position or post)"
+],
+[
+"接球",
+9319,
+"jie1 qiu2",
+"\"to receive a served ball (volleyball, tennis etc); to catch a ball thrown by sb\""
+],
+[
+"接头",
+9405,
+"jie1 tou2",
+"connecting pin (on electric plug)"
+],
+[
+"接纳",
+10241,
+"jie1 na4",
+"to admit (to membership)"
 ]
 ],
 "strokes": [

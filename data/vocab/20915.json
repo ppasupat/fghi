@@ -8,66 +8,119 @@
 "words": [
 [
 "解决",
-0,
 3,
 "jiějué",
 "settle (a dispute); resolve; solve"
 ],
 [
 "决定",
-0,
 3,
 "juédìng",
 "decide; resolve"
 ],
 [
 "坚决",
-0,
 5,
 "jiānjué",
 "resolute; determined; uncompromising"
 ],
 [
 "决赛",
-0,
 5,
 "juésài",
 "finals (of a competition); final match"
 ],
 [
 "决心",
-0,
 5,
 "juéxīn",
 "determination; resolution"
 ],
 [
 "表决",
-0,
 6,
 "biǎojué",
 "decide by vote; vote"
 ],
 [
 "否决",
-0,
 6,
 "fǒujué",
 "veto; reject; overrule"
 ],
 [
 "决策",
-0,
 6,
 "juécè",
 "Make policy; make strategic decision"
 ],
 [
 "判决",
-0,
 6,
 "pànjué",
 "judgment (by a court of law); adjudicate"
+]
+],
+"extraWords": [
+[
+"决不",
+3176,
+"jue2 bu4",
+"not at all; simply (can) not"
+],
+[
+"决",
+3960,
+"jue2",
+"breach (a dike); to decide; to determine"
+],
+[
+"裁决",
+5525,
+"cai2 jue2",
+"ruling; adjudication"
+],
+[
+"决斗",
+6109,
+"jue2 dou4",
+"duel"
+],
+[
+"处决",
+6528,
+"chu3 jue2",
+"to execute (a condemned criminal)"
+],
+[
+"决战",
+12415,
+"jue2 zhan4",
+"decisive battle"
+],
+[
+"决议",
+12904,
+"jue2 yi4",
+"resolution"
+],
+[
+"决定性",
+13000,
+"jue2 ding4 xing4",
+"decisive; conclusive"
+],
+[
+"速决",
+13169,
+"su4 jue2",
+"quick decision"
+],
+[
+"犹豫不决",
+14244,
+"you2 yu4 bu4 jue2",
+"hesitancy; indecision; to waver"
 ]
 ],
 "strokes": [

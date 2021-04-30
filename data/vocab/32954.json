@@ -8,10 +8,59 @@
 "words": [
 [
 "肺",
-0,
 6,
 "fèi",
 "lung"
+]
+],
+"extraWords": [
+[
+"肺炎",
+11912,
+"fei4 yan2",
+"pneumonia; inflammation of the lungs"
+],
+[
+"肺癌",
+13067,
+"fei4 ai2",
+"lung cancer"
+],
+[
+"肺结核",
+18485,
+"fei4 jie2 he2",
+"tuberculosis; TB"
+],
+[
+"肺水肿",
+23089,
+"fei4 shui3 zhong3",
+"pulmonary edema"
+],
+[
+"肺病",
+23437,
+"fei4 bing4",
+"lung disease"
+],
+[
+"肺气肿",
+31550,
+"fei4 qi4 zhong3",
+"emphysema"
+],
+[
+"肺泡",
+51121,
+"fei4 pao4",
+"pulmonary alveolus"
+],
+[
+"矽肺",
+65490,
+"xi1 fei4",
+"silicosis (occupational disease of miners); grinder's disease"
 ]
 ],
 "strokes": [

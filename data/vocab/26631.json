@@ -8,80 +8,131 @@
 "words": [
 [
 "标准",
-0,
 4,
 "biāozhǔn",
 "(an official) standard; norm; criterion"
 ],
 [
 "标点",
-0,
 5,
 "biāodiǎn",
 "punctuation; punctuation mark; punctuate"
 ],
 [
 "标志",
-0,
 5,
 "biāozhì",
 "sign; mark; signal; symbol"
 ],
 [
 "目标",
-0,
 5,
 "mùbiāo",
 "target; goal; objective"
 ],
 [
 "鼠标",
-0,
 5,
 "shǔ biāo",
 "mouse (computer)"
 ],
 [
 "标本",
-0,
 6,
 "biāoběn",
 "specimen; sample; the root cause and symptoms of a disease"
 ],
 [
 "标记",
-0,
 6,
 "biāojì",
 "sign; mark; symbol"
 ],
 [
 "标题",
-0,
 6,
 "biāotí",
 "title; header; headline; caption"
 ],
 [
 "商标",
-0,
 6,
 "shāngbiāo",
 "trademark; logo"
 ],
 [
 "招标",
-0,
 6,
 "zhāobiāo",
 "to beckon; to invite bids"
 ],
 [
 "指标",
-0,
 6,
 "zhǐbiāo",
 "target; norm; index; indicator"
+]
+],
+"extraWords": [
+[
+"标",
+4905,
+"biao1",
+"the topmost branches of a tree; surface; sign; to mark; (outward) sign; indication; prize; award; bid"
+],
+[
+"标签",
+5313,
+"biao1 qian1",
+"label; tag"
+],
+[
+"坐标",
+6114,
+"zuo4 biao1",
+"coordinate (geom.); also written 座标"
+],
+[
+"锦标赛",
+7460,
+"jin3 biao1 sai4",
+"championship contest; championships"
+],
+[
+"标语",
+10005,
+"biao1 yu3",
+"slogan; poster"
+],
+[
+"标识",
+11668,
+"biao1 zhi4",
+"mark"
+],
+[
+"国标舞",
+12839,
+"guo2 biao1 wu3",
+"international standard ballroom dancing"
+],
+[
+"投标",
+15249,
+"tou2 biao1",
+"to submit a bid"
+],
+[
+"浮标",
+16656,
+"fu2 biao1",
+"buoy"
+],
+[
+"路标",
+16695,
+"lu4 biao1",
+"a roadsign"
 ]
 ],
 "strokes": [

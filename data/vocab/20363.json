@@ -8,45 +8,101 @@
 "words": [
 [
 "例如",
-0,
 4,
 "lìrú",
 "for example; for instance"
 ],
 [
 "比例",
-0,
 5,
 "bǐlì",
 "proportion; scale"
 ],
 [
 "案例",
-0,
 6,
 "ànlì",
 "(Law) case"
 ],
 [
 "惯例",
-0,
 6,
 "guànlì",
 "conventional"
 ],
 [
 "例外",
-0,
 6,
 "lìwài",
 "(make an) exception"
 ],
 [
 "破例",
-0,
 6,
 "pòlì",
 "make an exception"
+]
+],
+"extraWords": [
+[
+"例子",
+4636,
+"li4 zi5",
+"case; (for) instance; example"
+],
+[
+"病例",
+6242,
+"bing4 li4",
+"(med.) case; occurrence of illness"
+],
+[
+"条例",
+6995,
+"tiao2 li4",
+"regulations; rules; code"
+],
+[
+"例",
+7090,
+"li4",
+"example; precedent; rule; case; instance"
+],
+[
+"例行",
+9794,
+"li4 xing2",
+"routine"
+],
+[
+"先例",
+11708,
+"xian1 li4",
+"antecedent; precedent"
+],
+[
+"史无前例",
+13838,
+"shi3 wu2 qian2 li4",
+"unprecedented in history"
+],
+[
+"特例",
+18701,
+"te4 li4",
+"special case; isolated example"
+],
+[
+"例假",
+19803,
+"li4 jia4",
+"legal holiday; menstrual period"
+],
+[
+"例会",
+24469,
+"li4 hui4",
+"regular meeting"
 ]
 ],
 "strokes": [

@@ -8,80 +8,131 @@
 "words": [
 [
 "要求",
-0,
 3,
 "yāoqiú",
 "to request; to demand; requirement"
 ],
 [
 "请求",
-0,
 5,
 "qǐngqiú",
 "to request; ask"
 ],
 [
 "征求",
-0,
 5,
 "zhēngqiú",
 "solicit; seek; ask for; to request"
 ],
 [
 "追求",
-0,
 5,
 "zhuīqiú",
 "pursue; seek"
 ],
 [
 "供不应求",
-0,
 6,
 "gōng bú yìng qiú",
 "(saying) demand outstrips supply"
 ],
 [
 "急于求成",
-0,
 6,
 "jíyúqiúchéng",
 "impatient for success"
 ],
 [
 "精益求精",
-0,
 6,
 "jīng yì qiú jīng",
 "(saying) improving and wanting to improve even more"
 ],
 [
 "力求",
-0,
 6,
 "lìqiú",
 "make every effort; do one's best"
 ],
 [
 "谋求",
-0,
 6,
 "móuqiú",
 "seek; strive for; try to get"
 ],
 [
 "实事求是",
-0,
 6,
 "shí shì qiú shì",
 "be practical and realistic; seek truth from facts"
 ],
 [
 "需求",
-0,
 6,
 "xūqiú",
 "requirement; demand (economics)"
+]
+],
+"extraWords": [
+[
+"求",
+327,
+"qiu2",
+"to seek; to look for; to request; to demand; to beseech"
+],
+[
+"求婚",
+2943,
+"qiu2 hun1",
+"propose marriage"
+],
+[
+"寻求",
+3411,
+"xun2 qiu2",
+"to seek; to look for"
+],
+[
+"求救",
+5714,
+"qiu2 jiu4",
+"to cry for help"
+],
+[
+"求助",
+6205,
+"qiu2 zhu4",
+"to request help; to appeal (for help)"
+],
+[
+"祈求",
+6520,
+"qi2 qiu2",
+"to request; to seek after"
+],
+[
+"恳求",
+7194,
+"ken3 qiu2",
+"beg; entreat; entreaty"
+],
+[
+"梦寐以求",
+8211,
+"meng4 mei4 yi3 qiu2",
+"desire of one's dreams"
+],
+[
+"乞求",
+8319,
+"qi3 qiu2",
+"to beg"
+],
+[
+"求爱",
+15266,
+"qiu2 ai4",
+"to woo"
 ]
 ],
 "strokes": [

@@ -8,52 +8,107 @@
 "words": [
 [
 "个",
-0,
 1,
 "ge",
 "general measure word"
 ],
 [
 "个子",
-0,
 3,
 "gèzi",
 "height; stature; build"
 ],
 [
 "个别",
-0,
 5,
 "gèbié",
 "individual; specific; isolated; very few"
 ],
 [
 "个人",
-0,
 5,
 "gèrén",
 "individual; personal; oneself"
 ],
 [
 "个性",
-0,
 5,
 "gèxìng",
 "individuality; personality"
 ],
 [
 "整个",
-0,
 5,
 "zhěnggè",
 "whole; entire; total"
 ],
 [
 "个体",
-0,
 6,
 "gètǐ",
 "individual"
+]
+],
+"extraWords": [
+[
+"一个",
+43,
+"yi1 ge4",
+"a; an"
+],
+[
+"这个",
+53,
+"zhe4 ge5",
+"this; this one"
+],
+[
+"那个",
+107,
+"nei4 ge4",
+"that one; that one"
+],
+[
+"哪个",
+972,
+"na3 ge5",
+"which; who"
+],
+[
+"各个",
+5806,
+"ge4 ge4",
+"every; various; separately one-by-one"
+],
+[
+"上个月",
+6259,
+"shang4 ge4 yue4",
+"last month"
+],
+[
+"个个",
+11030,
+"ge4 ge4",
+"each one individually; each and every; same as 各"
+],
+[
+"逐个",
+18306,
+"zhu2 ge4",
+"one by one; one after another"
+],
+[
+"大个儿",
+19109,
+"da4 ge4 er5",
+"tall person"
+],
+[
+"个旧",
+19264,
+"Ge4 jiu4",
+"\"Gejiu, county level city in Yunnan, capital of Honghe Hani and Yi autonomous county }\u0005河哈尼族彝族自治州|红河哈尼族彝族自治州\""
 ]
 ],
 "strokes": [

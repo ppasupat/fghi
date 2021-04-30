@@ -8,59 +8,113 @@
 "words": [
 [
 "满意",
-0,
 3,
 "mǎnyì",
 "satisfied; pleased"
 ],
 [
 "满",
-0,
 4,
 "mǎn",
 "full; abbreviation for Manchurian"
 ],
 [
 "充满",
-0,
 5,
 "chōngmǎn",
 "brimming with; very full"
 ],
 [
 "满足",
-0,
 5,
 "mǎnzú",
 "satisfy; meet (the needs of)"
 ],
 [
 "丰满",
-0,
 6,
 "fēngmǎn",
 "plump; well developed; plentiful; Fengman district of Jilin City, Jilin Province"
 ],
 [
 "美满",
-0,
 6,
 "měimǎn",
 "happy; blissful"
 ],
 [
 "圆满",
-0,
 6,
 "yuánmǎn",
 "satisfactory"
 ],
 [
 "自满",
-0,
 6,
 "zìmǎn",
 "complacent; self-satisfied"
+]
+],
+"extraWords": [
+[
+"装满",
+5175,
+"zhuang1 man3",
+"to fill up"
+],
+[
+"不满",
+6427,
+"bu4 man3",
+"resentful; discontented; dissatisfied"
+],
+[
+"满满",
+8156,
+"man3 man3",
+"full; closely packed"
+],
+[
+"满嘴",
+8214,
+"man3 zui3",
+"a mouthful"
+],
+[
+"满怀",
+9945,
+"man3 huai2",
+"full of; to contain; imbued with; to have one's heart filled with; one's breast (the seat of emotions); pregnant (of farm animals); heavy with young"
+],
+[
+"满身",
+11263,
+"man3 shen1",
+"covered all over"
+],
+[
+"沾满",
+11332,
+"zhan1 man3",
+"\"muddy; covered in (mud, dust, sweat, blood etc); daubed in\""
+],
+[
+"满月",
+14116,
+"man3 yue4",
+"full moon; whole month; baby's one-month old birthday"
+],
+[
+"满分",
+14594,
+"man3 fen1",
+"full marks"
+],
+[
+"挤满",
+15845,
+"ji3 man3",
+"fill to overflowing"
 ]
 ],
 "strokes": [

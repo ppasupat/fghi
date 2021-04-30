@@ -8,129 +8,173 @@
 "words": [
 [
 "复制",
-0,
 5,
 "fùzhì",
 "duplicate; reproduce"
 ],
 [
 "控制",
-0,
 5,
 "kòngzhì",
 "to control"
 ],
 [
 "限制",
-0,
 5,
 "xiànzhì",
 "restrictions; to limit; to bound"
 ],
 [
 "制定",
-0,
 5,
 "zhìdìng",
 "formulate; lay down (a plan or policy); to draft"
 ],
 [
 "制度",
-0,
 5,
 "zhìdù",
 "system; institution"
 ],
 [
 "制造",
-0,
 5,
 "zhìzào",
 "manufacture; make"
 ],
 [
 "制作",
-0,
 5,
 "zhìzuò",
 "make; manufacture"
 ],
 [
 "抵制",
-0,
 6,
 "dǐzhì",
 "resistance; refusal (to cooperate); boycott"
 ],
 [
 "遏制",
-0,
 6,
 "èzhì",
 "keep within limits; contain; restrain; hold back"
 ],
 [
 "节制",
-0,
 6,
 "jiézhì",
 "to be restrained or moderate"
 ],
 [
 "克制",
-0,
 6,
 "kèzhì",
 "restrain; take a firm hold on"
 ],
 [
 "牵制",
-0,
 6,
 "qiānzhì",
 "control; curb; restrict; impede"
 ],
 [
 "强制",
-0,
 6,
 "qiángzhì",
 "enforce; control; coerce"
 ],
 [
 "压制",
-0,
 6,
 "yāzhì",
 "suppress; inhibit; stifle"
 ],
 [
 "制裁",
-0,
 6,
 "zhìcái",
 "punish; (economic) sanctions"
 ],
 [
 "制服",
-0,
 6,
 "zhìfú",
 "uniform; to subdue; to bring under control"
 ],
 [
 "制约",
-0,
 6,
 "zhìyuē",
 "restrict; condition"
 ],
 [
 "制止",
-0,
 6,
 "zhìzhǐ",
 "to curb; to put a stop to"
+]
+],
+"extraWords": [
+[
+"制",
+3289,
+"zhi4",
+"manufacture; system; to make; to manufacture; to control; to regulate"
+],
+[
+"抑制",
+7419,
+"yi4 zhi4",
+"to inhibit; to keep down; to suppress"
+],
+[
+"控制室",
+8106,
+"kong4 zhi4 shi4",
+"control room"
+],
+[
+"自制",
+8164,
+"zi4 zhi4",
+"homemade"
+],
+[
+"管制",
+8364,
+"guan3 zhi4",
+"control; supervision"
+],
+[
+"特制",
+8911,
+"te4 zhi4",
+"special; unique"
+],
+[
+"制造商",
+9843,
+"zhi4 zao4 shang1",
+"manufacturing company"
+],
+[
+"制成",
+11234,
+"zhi4 cheng2",
+"to manufacture; to turn out (a product)"
+],
+[
+"机制",
+12133,
+"ji1 zhi4",
+"machine processed; machine made; mechanism; mechanism"
+],
+[
+"制品",
+12176,
+"zhi4 pin3",
+"products; goods"
 ]
 ],
 "strokes": [

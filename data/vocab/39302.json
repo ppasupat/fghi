@@ -8,38 +8,95 @@
 "words": [
 [
 "宾馆",
-0,
 2,
 "bīnguǎn",
 "guesthouse; hotel"
 ],
 [
 "图书馆",
-0,
 3,
 "túshūguǎn",
 "library"
 ],
 [
 "大使馆",
-0,
 4,
 "dàshǐguǎn",
 "embassy"
 ],
 [
 "博物馆",
-0,
 5,
 "bówùguǎn",
 "museum"
 ],
 [
 "领事馆",
-0,
 6,
 "lǐngshìguǎn",
 "consulate"
+]
+],
+"extraWords": [
+[
+"旅馆",
+1584,
+"lu:3 guan3",
+"hotel; CL:家[jia1]"
+],
+[
+"餐馆",
+2164,
+"can1 guan3",
+"restaurant"
+],
+[
+"馆",
+6034,
+"guan3",
+"house; establishment"
+],
+[
+"体育馆",
+6745,
+"ti3 yu4 guan3",
+"gym; gymnasium; stadium"
+],
+[
+"酒馆",
+7028,
+"jiu3 guan3",
+"tavern; pub; wine shop"
+],
+[
+"咖啡馆",
+7853,
+"ka1 fei1 guan3",
+"café; coffeeshop"
+],
+[
+"殡仪馆",
+9770,
+"bin4 yi2 guan3",
+"the undertaker's; funeral parlor"
+],
+[
+"使馆",
+14052,
+"shi3 guan3",
+"consulate; diplomatic mission"
+],
+[
+"饭馆",
+15035,
+"fan4 guan3",
+"restaurant"
+],
+[
+"水族馆",
+16160,
+"shui3 zu2 guan3",
+"aquarium (building or park)"
 ]
 ],
 "strokes": [

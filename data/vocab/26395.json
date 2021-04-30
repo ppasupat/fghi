@@ -8,101 +8,149 @@
 "words": [
 [
 "希望",
-0,
 2,
 "xīwàng",
 "to hope; wish for; to desire"
 ],
 [
 "失望",
-0,
 4,
 "shīwàng",
 "disappointed; lose hope"
 ],
 [
 "看望",
-0,
 5,
 "kànwàng",
 "visit; call on; see"
 ],
 [
 "盼望",
-0,
 5,
 "pànwàng",
 "to hope for; look forward to"
 ],
 [
 "愿望",
-0,
 5,
 "yuànwàng",
 "desire; wish; aspiration"
 ],
 [
 "东张西望",
-0,
 6,
 "dōngzhāngxīwàng",
 "look in all directions; glance around"
 ],
 [
 "绝望",
-0,
 6,
 "jué wàng",
 "desperation; forlorn; hopeless"
 ],
 [
 "渴望",
-0,
 6,
 "kěwàng",
 "wishful; to yearn for; desire"
 ],
 [
 "期望",
-0,
 6,
 "qīwàng",
 "hope; expectation"
 ],
 [
 "探望",
-0,
 6,
 "tànwàng",
 "pay a visit; look around"
 ],
 [
 "威望",
-0,
 6,
 "wēiwàng",
 "prestige"
 ],
 [
 "欲望",
-0,
 6,
 "yùwàng",
 "desire; lust"
 ],
 [
 "展望",
-0,
 6,
 "zhǎnwàng",
 "outlook; prospect; to look ahead; look forward to"
 ],
 [
 "指望",
-0,
 6,
 "zhǐwàng",
 "hope for; count on; hope"
+]
+],
+"extraWords": [
+[
+"望",
+4649,
+"wang4",
+"full moon; to hope; to expect; to visit; to gaze (into the distance); to look towards; towards"
+],
+[
+"望远镜",
+7422,
+"wang4 yuan3 jing4",
+"telescope"
+],
+[
+"声望",
+13738,
+"sheng1 wang4",
+"prestige"
+],
+[
+"奢望",
+13740,
+"she1 wang4",
+"an extravagant hope; to have excessive expectations"
+],
+[
+"仰望",
+13941,
+"yang3 wang4",
+"to look for guidance"
+],
+[
+"名望",
+16757,
+"ming2 wang4",
+"renown"
+],
+[
+"守望",
+17763,
+"shou3 wang4",
+"to keep watch; on guard"
+],
+[
+"张望",
+18876,
+"zhang1 wang4",
+"to peep (through a crack); to look around"
+],
+[
+"无望",
+18900,
+"wu2 wang4",
+"without hope; hopeless; without prospects"
+],
+[
+"观望",
+19224,
+"guan1 wang4",
+"to observe from outside; to have an overview; to oversee"
 ]
 ],
 "strokes": [

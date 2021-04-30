@@ -8,38 +8,95 @@
 "words": [
 [
 "航班",
-0,
 4,
 "hángbān",
 "scheduled flight; flight number"
 ],
 [
 "导航",
-0,
 6,
 "dǎoháng",
 "navigation"
 ],
 [
 "航空",
-0,
 6,
 "hángkōng",
 "aviation"
 ],
 [
 "航天",
-0,
 6,
 "hángtiān",
 "space flight"
 ],
 [
 "航行",
-0,
 6,
 "hángxíng",
 "to sail; to fly"
+]
+],
+"extraWords": [
+[
+"航",
+6056,
+"hang2",
+"boat; ship; vessel; craft; to navigate; to sail"
+],
+[
+"宇航员",
+7359,
+"yu3 hang2 yuan2",
+"astronaut"
+],
+[
+"航线",
+8336,
+"hang2 xian4",
+"air or shipping route"
+],
+[
+"航海",
+10856,
+"hang2 hai3",
+"sailing; navigation; voyage by sea"
+],
+[
+"迷航",
+11772,
+"mi2 hang2",
+"off course; lost (of ship or plane); having lost one's way"
+],
+[
+"航向",
+12715,
+"hang2 xiang4",
+"course; direction (a ship or plane is heading in)"
+],
+[
+"航道",
+12803,
+"hang2 dao4",
+"waterway; ship channel"
+],
+[
+"返航",
+14637,
+"fan3 hang2",
+"return to the point of departure"
+],
+[
+"宇航局",
+17570,
+"yu3 hang2 ju2",
+"space agency"
+],
+[
+"远航",
+19006,
+"yuan3 hang2",
+"distant sea voyage"
 ]
 ],
 "strokes": [

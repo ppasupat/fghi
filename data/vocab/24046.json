@@ -8,66 +8,119 @@
 "words": [
 [
 "差",
-0,
 3,
 "chà",
 "differ from; fall short of; poor; inferior"
 ],
 [
 "差不多",
-0,
 4,
 "chàbuduō",
 "almost; about the same"
 ],
 [
 "出差",
-0,
 4,
 "chū chāi",
 "go on a business trip"
 ],
 [
 "差距",
-0,
 5,
 "chājù",
 "disparity; gap; the difference (in distance; amount; progress; etc.)"
 ],
 [
 "时差",
-0,
 5,
 "shíchā",
 "jetlag; time difference"
 ],
 [
 "差别",
-0,
 6,
 "chābié",
 "difference; disparity"
 ],
 [
 "偏差",
-0,
 6,
 "piānchā",
 "bias; deviation"
 ],
 [
 "误差",
-0,
 6,
 "wùchā",
 "difference; error; inaccuracy"
 ],
 [
 "相差",
-0,
 6,
 "xiāngchà",
 "differ; difference"
+]
+],
+"extraWords": [
+[
+"差点",
+1250,
+"cha4 dian3",
+"not quite; not good enough; almost; barely; a bit different; just about to; nearly starting; on the verge of"
+],
+[
+"差劲",
+3994,
+"cha4 jin4",
+"bad; no good; below average; disappointing"
+],
+[
+"差错",
+8145,
+"cha1 cuo4",
+"error (in data transmission); mistake; slip-up; fault; error in data transmission; accident; mishap"
+],
+[
+"差事",
+8458,
+"chai1 shi5",
+"errand; assignment"
+],
+[
+"差点儿",
+8489,
+"cha4 dian3 r5",
+"\"erhua variant of 差点, not quite; not good enough; almost; barely; a bit different; just about to; nearly starting; on the verge of\""
+],
+[
+"邮差",
+10460,
+"you2 chai1",
+"postman"
+],
+[
+"差异",
+11877,
+"cha1 yi4",
+"difference; discrepancy"
+],
+[
+"差遣",
+14948,
+"chai1 qian3",
+"to send (on errand)"
+],
+[
+"差强人意",
+22125,
+"cha1 qiang2 ren2 yi4",
+"(idiom) just passable; barely satisfactory"
+],
+[
+"信差",
+23568,
+"xin4 chai1",
+"messenger"
 ]
 ],
 "strokes": [

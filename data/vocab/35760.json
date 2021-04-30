@@ -8,101 +8,149 @@
 "words": [
 [
 "笔记本",
-0,
 3,
 "bǐjìběn",
 "notebook"
 ],
 [
 "记得",
-0,
 3,
 "jìde",
 "remember"
 ],
 [
 "忘记",
-0,
 3,
 "wàngjì",
 "forget"
 ],
 [
 "记者",
-0,
 4,
 "jìzhě",
 "reporter; journalist"
 ],
 [
 "日记",
-0,
 4,
 "rìjì",
 "diary"
 ],
 [
 "登记",
-0,
 5,
 "dēngjì",
 "register (one's name); check in; enroll"
 ],
 [
 "记录",
-0,
 5,
 "jìlù",
 "to record; take notes"
 ],
 [
 "记忆",
-0,
 5,
 "jìyì",
 "memory; to remember"
 ],
 [
 "标记",
-0,
 6,
 "biāojì",
 "sign; mark; symbol"
 ],
 [
 "惦记",
-0,
 6,
 "diànjì",
 "to remember with concern; to be concerned about; to think about; to keep thinking about; to worry about"
 ],
 [
 "记性",
-0,
 6,
 "jìxing",
 "memory"
 ],
 [
 "记载",
-0,
 6,
 "jìzǎi",
 "write down; to record"
 ],
 [
 "书记",
-0,
 6,
 "shūji",
 "secretary; clerk"
 ],
 [
 "传记",
-0,
 6,
 "zhuànjì",
 "biography"
+]
+],
+"extraWords": [
+[
+"记",
+724,
+"ji4",
+"to remember; to note; mark; sign; to record"
+],
+[
+"记住",
+885,
+"ji4 zhu5",
+"to remember"
+],
+[
+"笔记",
+5968,
+"bi3 ji4",
+"take down (in writing); notes; a type of literature consisting mainly of short sketches"
+],
+[
+"记号",
+6499,
+"ji4 hao5",
+"notation; seal"
+],
+[
+"印记",
+8453,
+"yin4 ji4",
+"imprint"
+],
+[
+"记忆力",
+10795,
+"ji4 yi4 li4",
+"memory (power)"
+],
+[
+"牢记",
+11472,
+"lao2 ji4",
+"to remember sth clearly"
+],
+[
+"记事本",
+13564,
+"ji4 shi4 ben3",
+"notebook; paper notepad; laptop computer"
+],
+[
+"记事",
+13916,
+"ji4 shi4",
+"to keep a record of events; a record"
+],
+[
+"记录片",
+15894,
+"ji4 lu4 pian4",
+"documentary movie or TV program"
 ]
 ],
 "strokes": [

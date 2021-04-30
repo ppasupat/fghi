@@ -8,24 +8,83 @@
 "words": [
 [
 "出租车",
-0,
 1,
 "chūzūchē",
 "taxi; cab"
 ],
 [
 "租",
-0,
 4,
 "zū",
 "to rent"
 ],
 [
 "租赁",
-0,
 6,
 "zūlìn",
 "rent; lease"
+]
+],
+"extraWords": [
+[
+"房租",
+4078,
+"fang2 zu1",
+"rent for a room or house"
+],
+[
+"出租",
+5924,
+"chu1 zu1",
+"to rent"
+],
+[
+"租金",
+7367,
+"zu1 jin1",
+"rent"
+],
+[
+"租约",
+13362,
+"zu1 yue1",
+"lease"
+],
+[
+"租用",
+16850,
+"zu1 yong4",
+"to rent and use; lend-lease (US device to provide war materiel to its allies during WW2)"
+],
+[
+"租借",
+23064,
+"zu1 jie4",
+"leasehold"
+],
+[
+"转租",
+25861,
+"zhuan3 zu1",
+"to sublet"
+],
+[
+"租户",
+27558,
+"zu1 hu4",
+"tenant; person who leases"
+],
+[
+"出租汽车",
+31883,
+"chu1 zu1 qi4 che1",
+"taxi; cab (PRC); hire car (Taiwan)"
+],
+[
+"租房",
+33508,
+"zu1 fang2",
+"rented apartment"
 ]
 ],
 "strokes": [

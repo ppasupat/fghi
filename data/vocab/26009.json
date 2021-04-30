@@ -8,66 +8,119 @@
 "words": [
 [
 "饮料",
-0,
 3,
 "yǐnliào",
 "beverage; drink"
 ],
 [
 "材料",
-0,
 4,
 "cáiliào",
 "material"
 ],
 [
 "塑料袋",
-0,
 4,
 "sùliàodài",
 "plastic bag"
 ],
 [
 "原料",
-0,
 5,
 "yuánliào",
 "raw material; ingredients"
 ],
 [
 "资料",
-0,
 5,
 "zīliào",
 "data; material; resources; information"
 ],
 [
 "不料",
-0,
 6,
 "búliào",
 "unexpectedly; to one's surprise"
 ],
 [
 "调料",
-0,
 6,
 "tiáoliào",
 "seasoning; flavoring"
 ],
 [
 "意料",
-0,
 6,
 "yìliào",
 "expectation; to anticipate; to think ahead"
 ],
 [
 "预料",
-0,
 6,
 "yùliào",
 "anticipate; to forecast; expectation"
+]
+],
+"extraWords": [
+[
+"料",
+2947,
+"liao4",
+"material; stuff; grain; feed; to expect; to anticipate; to guess"
+],
+[
+"塑料",
+4483,
+"su4 liao4",
+"plastics"
+],
+[
+"燃料",
+5521,
+"ran2 liao4",
+"fuel"
+],
+[
+"料到",
+5533,
+"liao4 dao4",
+"to foresee; to anticipate"
+],
+[
+"照料",
+7687,
+"zhao4 liao4",
+"to tend; to take care of sb"
+],
+[
+"香料",
+8885,
+"xiang1 liao4",
+"spice; flavoring; condiment; perfume"
+],
+[
+"料理",
+9123,
+"liao4 li3",
+"to arrange; to handle; the ordinary Japanese word for cooking; cuisine (esp. foreign restaurants)"
+],
+[
+"出乎意料",
+9655,
+"chu1 hu1 yi4 liao4",
+"beyond expectation (idiom); unexpected"
+],
+[
+"颜料",
+10519,
+"yan2 liao4",
+"paint; dye; pigment"
+],
+[
+"出人意料",
+10592,
+"chu1 ren2 yi4 liao4",
+"exceeds expectations (idiom); much better than anticipated; unexpected"
 ]
 ],
 "strokes": [

@@ -8,38 +8,95 @@
 "words": [
 [
 "老师",
-0,
 1,
 "lǎoshī",
 "teacher"
 ],
 [
 "律师",
-0,
 4,
 "lǜshī",
 "lawyer"
 ],
 [
 "师傅",
-0,
 4,
 "shīfu",
 "master; qualified worker; teacher"
 ],
 [
 "工程师",
-0,
 5,
 "gōngchéngshī",
 "engineer"
 ],
 [
 "师范",
-0,
 6,
 "shīfàn",
 "teacher-training; pedagogical; normal (school)"
+]
+],
+"extraWords": [
+[
+"师",
+1568,
+"shi1",
+"a division (military); teacher; master; expert; model"
+],
+[
+"牧师",
+1955,
+"mu4 shi1",
+"chaplain; churchman; clergyman; parson; pastor; priest; rector"
+],
+[
+"设计师",
+2821,
+"she4 ji4 shi1",
+"designer; architect"
+],
+[
+"摄影师",
+2980,
+"she4 ying3 shi1",
+"photographer"
+],
+[
+"大师",
+3345,
+"da4 shi1",
+"great master; master"
+],
+[
+"巫师",
+4026,
+"wu1 shi1",
+"wizard; magician"
+],
+[
+"教师",
+4052,
+"jiao4 shi1",
+"teacher"
+],
+[
+"医师",
+4095,
+"yi1 shi1",
+"doctor"
+],
+[
+"厨师",
+4439,
+"chu2 shi1",
+"cook"
+],
+[
+"魔术师",
+6194,
+"mo2 shu4 shi1",
+"magician"
 ]
 ],
 "strokes": [

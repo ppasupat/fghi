@@ -8,24 +8,83 @@
 "words": [
 [
 "沙发",
-0,
 4,
 "shāfā",
 "sofa"
 ],
 [
 "沙漠",
-0,
 5,
 "shāmò",
 "desert"
 ],
 [
 "沙滩",
-0,
 5,
 "shātān",
 "sand bar; sand beach"
+]
+],
+"extraWords": [
+[
+"沙",
+3014,
+"sha1/sha4",
+"granule; hoarse; raspy; sand; powder; abbr. for Tsar or Tsarist Russia; surname Sha"
+],
+[
+"沙拉",
+4204,
+"sha1 la1",
+"salad"
+],
+[
+"沙子",
+6227,
+"sha1 zi5",
+"sand; grit"
+],
+[
+"沙龙",
+9281,
+"sha1 long2",
+"salon"
+],
+[
+"沙袋",
+15269,
+"sha1 dai4",
+"a sandbag"
+],
+[
+"沙特鲁",
+15426,
+"sha1 te4 lu3",
+"C"
+],
+[
+"沙特",
+15571,
+"Sha1 te4",
+"Saudi Arabia"
+],
+[
+"沙林",
+15721,
+"sha1 lin2",
+"sarin"
+],
+[
+"沙特阿拉伯",
+15722,
+"Sha1 te4 A1 la1 bo2",
+"Saudi Arabia"
+],
+[
+"沙丘",
+18442,
+"sha1 qiu1",
+"sand dune; sandy hill"
 ]
 ],
 "strokes": [

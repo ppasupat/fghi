@@ -8,52 +8,107 @@
 "words": [
 [
 "票",
-0,
 2,
 "piào",
 "ticket; bank note; a vote"
 ],
 [
 "发票",
-0,
 5,
 "fāpiào",
 "receipt or bill for purchase; invoice"
 ],
 [
 "股票",
-0,
 5,
 "gǔpiào",
 "shares; stock (market)"
 ],
 [
 "支票",
-0,
 5,
 "zhīpiào",
 "(bank) check"
 ],
 [
 "彩票",
-0,
 6,
 "cǎipiào",
 "lottery; lottery ticket"
 ],
 [
 "钞票",
-0,
 6,
 "chāopiào",
 "paper money; bill"
 ],
 [
 "投票",
-0,
 6,
 "tóupiào",
 "vote; poll"
+]
+],
+"extraWords": [
+[
+"机票",
+4127,
+"ji1 piao4",
+"air ticket; passenger ticket"
+],
+[
+"选票",
+5116,
+"xuan3 piao4",
+"a vote; ballot"
+],
+[
+"门票",
+5236,
+"men2 piao4",
+"\"ticket (for theater, cinema etc)\""
+],
+[
+"传票",
+6843,
+"chuan2 piao4",
+"summons"
+],
+[
+"车票",
+7511,
+"che1 piao4",
+"ticket"
+],
+[
+"邮票",
+8953,
+"you2 piao4",
+"(postage) stamp"
+],
+[
+"票数",
+10208,
+"piao4 shu4",
+"number of votes; poll count"
+],
+[
+"唱票",
+11800,
+"chang4 piao4",
+"to read ballot slips out loud"
+],
+[
+"票房",
+14360,
+"piao4 fang2",
+"box office"
+],
+[
+"反对票",
+18372,
+"fan3 dui4 piao4",
+"a vote against; a veto"
 ]
 ],
 "strokes": [

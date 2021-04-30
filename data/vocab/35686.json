@@ -8,31 +8,89 @@
 "words": [
 [
 "警察",
-0,
 4,
 "jǐngchá",
 "police"
 ],
 [
 "报警",
-0,
 6,
 "bàojǐng",
 "report (an incident) to the police"
 ],
 [
 "警告",
-0,
 6,
 "jǐnggào",
 "to warn; admonish"
 ],
 [
 "警惕",
-0,
 6,
 "jǐngtì",
 "vigilant; alert; be on guard"
+]
+],
+"extraWords": [
+[
+"警",
+738,
+"jing3",
+"to alert; to warn; police"
+],
+[
+"警官",
+1006,
+"jing3 guan1",
+"constable; police officer"
+],
+[
+"警方",
+1369,
+"jing3 fang1",
+"police"
+],
+[
+"警报",
+2392,
+"jing3 bao4",
+"(fire) alarm; alert signal; alarm; alert; warning"
+],
+[
+"警察局",
+2884,
+"jing3 cha2 ju2",
+"police station; police department; police headquarters"
+],
+[
+"警卫",
+3406,
+"jing3 wei4",
+"(security) guard"
+],
+[
+"警戒",
+6041,
+"jing3 jie4",
+"to warn; to be alert for"
+],
+[
+"特警",
+6518,
+"te4 jing3",
+"\"abbr. for 特种警察, special police; PRC crack armed police dealing with hijacking, terrorism etc; US SWAT teams\""
+],
+[
+"警车",
+6979,
+"jing3 che1",
+"police car"
+],
+[
+"巡警",
+7472,
+"xun2 jing3",
+"police officer"
 ]
 ],
 "strokes": [

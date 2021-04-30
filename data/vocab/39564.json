@@ -8,73 +8,125 @@
 "words": [
 [
 "经验",
-0,
 4,
 "jīngyàn",
 "experience"
 ],
 [
 "测验",
-0,
 5,
 "cèyàn",
 "test; exam; to test"
 ],
 [
 "实验",
-0,
 5,
 "shíyàn",
 "experiment; test"
 ],
 [
 "体验",
-0,
 5,
 "tǐyàn",
 "experience for oneself; to personally experience (usually a kind of life)"
 ],
 [
 "化验",
-0,
 6,
 "huàyàn",
 "laboratory test; chemically examine"
 ],
 [
 "检验",
-0,
 6,
 "jiǎnyàn",
 "inspect; examine; to test"
 ],
 [
 "考验",
-0,
 6,
 "kǎoyàn",
 "put to the test; trial"
 ],
 [
 "试验",
-0,
 6,
 "shìyàn",
 "experiment; test"
 ],
 [
 "验收",
-0,
 6,
 "yànshōu",
 "inspect and then accept (i.e. received goods"
 ],
 [
 "验证",
-0,
 6,
 "yànzhèng",
 "inspect and verify"
+]
+],
+"extraWords": [
+[
+"实验室",
+1490,
+"shi2 yan4 shi4",
+"laboratory"
+],
+[
+"验尸",
+4195,
+"yan4 shi1",
+"an autopsy; a postmortem examination (to determine cause of death etc)"
+],
+[
+"验",
+7843,
+"yan4",
+"to examine; to test; to check"
+],
+[
+"验血",
+14899,
+"yan4 xue4",
+"blood test"
+],
+[
+"灵验",
+22632,
+"ling2 yan4",
+"efficacious; effective; accurate"
+],
+[
+"民意测验",
+25182,
+"min2 yi4 ce4 yan4",
+"opinion poll"
+],
+[
+"查验",
+26218,
+"cha2 yan4",
+"inspection; to examine"
+],
+[
+"验光",
+30757,
+"yan4 guang1",
+"optometry (eyesight test)"
+],
+[
+"验货",
+36499,
+"yan4 huo4",
+"inspection of goods"
+],
+[
+"试验场",
+39590,
+"shi4 yan4 chang3",
+"experimental station"
 ]
 ],
 "strokes": [

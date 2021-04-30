@@ -8,80 +8,131 @@
 "words": [
 [
 "着急",
-0,
 3,
 "zháojí",
 "to worry; feel anxious"
 ],
 [
 "急忙",
-0,
 5,
 "jímáng",
 "hastily"
 ],
 [
 "急诊",
-0,
 5,
 "jízhěn",
 "emergency call; emergency treatment"
 ],
 [
 "紧急",
-0,
 5,
 "jǐnjí",
 "urgent; pressing"
 ],
 [
 "当务之急",
-0,
 6,
 "dāngwùzhījí",
 "the most pressing matter of the moment; a top priority task; urgent matter"
 ],
 [
 "急功近利",
-0,
 6,
 "jígōngjìnlì",
 "eager for success and profit"
 ],
 [
 "急剧",
-0,
 6,
 "jíjù",
 "rapid; sudden"
 ],
 [
 "急切",
-0,
 6,
 "jíqiè",
 "eager; impatient; imperative"
 ],
 [
 "急于求成",
-0,
 6,
 "jíyúqiúchéng",
 "impatient for success"
 ],
 [
 "急躁",
-0,
 6,
 "jízào",
 "irritable; impetuous; impatient"
 ],
 [
 "焦急",
-0,
 6,
 "jiāojí",
 "anxiety; worried"
+]
+],
+"extraWords": [
+[
+"急",
+1504,
+"ji2",
+"urgent; pressing; rapid; hurried; worried"
+],
+[
+"急救",
+4838,
+"ji2 jiu4",
+"first aid; emergency treatment"
+],
+[
+"急诊室",
+5324,
+"ji2 zhen3 shi4",
+"emergency room"
+],
+[
+"急需",
+7858,
+"ji2 xu1",
+"to urgently need; urgent need"
+],
+[
+"应急",
+8071,
+"ying4 ji2",
+"respond to an emergency"
+],
+[
+"危急",
+10228,
+"wei1 ji2",
+"critical; desperate (situation)"
+],
+[
+"急速",
+12426,
+"ji2 su4",
+"hurried; at a great speed; rapid (development)"
+],
+[
+"急于",
+12502,
+"ji2 yu2",
+"anxious; impatient"
+],
+[
+"急性",
+12588,
+"ji2 xing4",
+"acute"
+],
+[
+"心急",
+13865,
+"xin1 ji2",
+"hurried; ruffled; impatient; short tempered"
 ]
 ],
 "strokes": [

@@ -8,38 +8,95 @@
 "words": [
 [
 "门",
-0,
 2,
 "mén",
 "door; opening; gate (Kangxi radical 169)"
 ],
 [
 "专门",
-0,
 4,
 "zhuānmén",
 "specialized"
 ],
 [
 "部门",
-0,
 5,
 "bùmén",
 "department; branch; section"
 ],
 [
 "窍门",
-0,
 6,
 "qiàomén",
 "special tricks"
 ],
 [
 "热门",
-0,
 6,
 "rèmén",
 "in demand; popular; in vogue"
+]
+],
+"extraWords": [
+[
+"开门",
+1946,
+"kai1 men2",
+"open (the) door"
+],
+[
+"关门",
+2713,
+"guan1 men2",
+"close down; closed doors"
+],
+[
+"门口",
+2761,
+"men2 kou3",
+"doorway; gate"
+],
+[
+"出门",
+3312,
+"chu1 men2",
+"to go on a journey; away from home; exit door; to go out of the door"
+],
+[
+"阿门",
+3368,
+"a1 men2",
+"amen"
+],
+[
+"大门",
+3493,
+"da4 men2",
+"entrance; door; gate"
+],
+[
+"后门",
+4260,
+"hou4 men2",
+"the back door; fig. under the counter (indirect way for influence or pressure); anus"
+],
+[
+"敲门",
+4320,
+"qiao1 men2",
+"knock on a door"
+],
+[
+"上门",
+4420,
+"shang4 men2",
+"drop in; visit"
+],
+[
+"前门",
+5119,
+"Qian2 men2",
+"\"front door; main entrance; honest and upright approach (as opposed to 后门, back-door or under the counter); Qianmen subway station on Beijing Subway Line 2\""
 ]
 ],
 "strokes": [

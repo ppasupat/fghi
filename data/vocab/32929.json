@@ -8,31 +8,89 @@
 "words": [
 [
 "股票",
-0,
 5,
 "gǔpiào",
 "shares; stock (market)"
 ],
 [
 "股东",
-0,
 6,
 "gǔdōng",
 "stockholder; shareholder"
 ],
 [
 "股份",
-0,
 6,
 "gǔfèn",
 "a share (in a company) stock"
 ],
 [
 "屁股",
-0,
 6,
 "pìgu",
 "butt; rear; rump"
+]
+],
+"extraWords": [
+[
+"股",
+3192,
+"gu3",
+"\"share; portion; section; part; thigh; (classifier for smells, electric currents, spirals etc); whiff\""
+],
+[
+"股市",
+14015,
+"gu3 shi4",
+"stock market"
+],
+[
+"股价",
+18079,
+"gu3 jia4",
+"stock price; share price"
+],
+[
+"股权",
+18484,
+"gu3 quan2",
+"equity shares; stock right"
+],
+[
+"腹股沟",
+21919,
+"fu4 gu3 gou1",
+"groin (anat.)"
+],
+[
+"股骨",
+25273,
+"gu3 gu3",
+"femur"
+],
+[
+"股份公司",
+36199,
+"gu3 fen4 gong1 si1",
+"joint-stock company"
+],
+[
+"入股",
+38268,
+"ru4 gu3",
+"to invest"
+],
+[
+"勾股定理",
+42428,
+"gou1 gu3 ding4 li3",
+"Pythagorean theorem"
+],
+[
+"股息",
+51112,
+"gu3 xi1",
+"dividend"
 ]
 ],
 "strokes": [

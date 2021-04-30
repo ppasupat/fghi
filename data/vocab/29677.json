@@ -8,38 +8,95 @@
 "words": [
 [
 "上班",
-0,
 2,
 "shàngbān",
 "go to work; be on duty"
 ],
 [
 "班",
-0,
 3,
 "bān",
 "team; class; squad"
 ],
 [
 "航班",
-0,
 4,
 "hángbān",
 "scheduled flight; flight number"
 ],
 [
 "加班",
-0,
 4,
 "jiā bān",
 "work overtime"
 ],
 [
 "值班",
-0,
 6,
 "zhí bān",
 "be on duty; work a shift"
+]
+],
+"extraWords": [
+[
+"西班牙",
+2678,
+"Xi1 ban1 ya2",
+"Spain"
+],
+[
+"下班",
+2781,
+"xia4 ban1",
+"to finish work; to get off work"
+],
+[
+"西班牙语",
+3006,
+"Xi1 ban1 ya2 yu3",
+"Spanish language"
+],
+[
+"夜班",
+8380,
+"ye4 ban1",
+"night shift"
+],
+[
+"班机",
+8871,
+"ban1 ji1",
+"airliner; airplane; plane"
+],
+[
+"跟班",
+9643,
+"gen1 ban1",
+"attendant; footman (servant)"
+],
+[
+"班长",
+10450,
+"ban1 zhang3",
+"class monitor; squad leader; team leader"
+],
+[
+"班级",
+10499,
+"ban1 ji2",
+"classes or grades in school"
+],
+[
+"当班",
+11319,
+"dang1 ban1",
+"to work one's shift"
+],
+[
+"换班",
+11324,
+"huan4 ban1",
+"to change shift; the next work shift; to relieve (a workman on the previous shift); to take over the job"
 ]
 ],
 "strokes": [

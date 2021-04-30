@@ -8,73 +8,125 @@
 "words": [
 [
 "特别",
-0,
 3,
 "tèbié",
 "special; especially; particular"
 ],
 [
 "特点",
-0,
 4,
 "tèdiǎn",
 "a characteristic; trait; feature"
 ],
 [
 "独特",
-0,
 5,
 "dútè",
 "unique; distinctive"
 ],
 [
 "模特",
-0,
 5,
 "mótè",
 "(fashion) model"
 ],
 [
 "特色",
-0,
 5,
 "tèsè",
 "characteristic; distinguishing feature"
 ],
 [
 "特殊",
-0,
 5,
 "tèshū",
 "special; particular; extraordinary; unusual"
 ],
 [
 "特征",
-0,
 5,
 "tèzhēng",
 "characteristics; distinctive features; trait"
 ],
 [
 "特长",
-0,
 6,
 "tècháng",
 "strong point; specialty"
 ],
 [
 "特定",
-0,
 6,
 "tèdìng",
 "special; specific; designated"
 ],
 [
 "特意",
-0,
 6,
 "tèyì",
 "specially for; with the special intention of"
+]
+],
+"extraWords": [
+[
+"特",
+672,
+"te4",
+"special; unique; distinguished; especially; unusual; very"
+],
+[
+"特工",
+1690,
+"te4 gong1",
+"secret service; special service"
+],
+[
+"希特勒",
+3972,
+"Xi1 te4 le4",
+"Adolf Hitler (1889-1945)"
+],
+[
+"罗伯特",
+4551,
+"Luo2 bo2 te4",
+"Robert (name)"
+],
+[
+"伏特",
+4764,
+"fu2 te4",
+"volt"
+],
+[
+"卡特",
+5432,
+"Ka3 te4",
+"Carter (person name)"
+],
+[
+"福特",
+5728,
+"Fu2 te4",
+"\"Ford (name); Ford, US car make\""
+],
+[
+"帕特里克",
+5927,
+"Pa4 te4 li3 ke4",
+"Patrick (name)"
+],
+[
+"特权",
+6185,
+"te4 quan2",
+"prerogative; privilege; privileged"
+],
+[
+"波特",
+6370,
+"bo1 te4",
+"baud"
 ]
 ],
 "strokes": [

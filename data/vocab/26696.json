@@ -8,52 +8,107 @@
 "words": [
 [
 "答案",
-0,
 4,
 "dá'àn",
 "answer; solution"
 ],
 [
 "方案",
-0,
 5,
 "fāng'àn",
 "plan; program (for action, etc.); proposal"
 ],
 [
 "案件",
-0,
 6,
 "ànjiàn",
 "legal case; judicial case"
 ],
 [
 "案例",
-0,
 6,
 "ànlì",
 "(Law) case"
 ],
 [
 "草案",
-0,
 6,
 "cǎo'àn",
 "draft (legislation, proposal, etc.)"
 ],
 [
 "档案",
-0,
 6,
 "dàng'àn",
 "file; record; archive"
 ],
 [
 "图案",
-0,
 6,
 "tú'àn",
 "design; pattern"
+]
+],
+"extraWords": [
+[
+"案子",
+524,
+"an4 zi5",
+"long table; counter; case; law case; legal case; judicial case"
+],
+[
+"案",
+907,
+"an4",
+"(legal) case; incident; record; file; table"
+],
+[
+"谋杀案",
+2316,
+"mou2 sha1 an4",
+"murder case"
+],
+[
+"作案",
+4075,
+"zuo4 an4",
+"to commit a crime"
+],
+[
+"结案",
+5132,
+"jie2 an4",
+"to conclude a case; to wind up"
+],
+[
+"法案",
+5301,
+"fa3 an4",
+"bill; proposed law"
+],
+[
+"破案",
+5932,
+"po4 an4",
+"to solve a case; shabby old table"
+],
+[
+"凶杀案",
+6335,
+"xiong1 sha1 an4",
+"murder case"
+],
+[
+"罪案",
+6569,
+"zui4 an4",
+"a criminal case"
+],
+[
+"办案",
+6579,
+"ban4 an4",
+"to handle a case"
 ]
 ],
 "strokes": [

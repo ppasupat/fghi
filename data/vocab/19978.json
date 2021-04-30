@@ -8,115 +8,161 @@
 "words": [
 [
 "上",
-0,
 1,
 "shàng",
 "above; up"
 ],
 [
 "上午",
-0,
 1,
 "shàngwǔ",
 "late morning (before noon)"
 ],
 [
 "上班",
-0,
 2,
 "shàngbān",
 "go to work; be on duty"
 ],
 [
 "晚上",
-0,
 2,
 "wǎnshang",
 "evening; night"
 ],
 [
 "早上",
-0,
 2,
 "zǎoshang",
 "(early) morning"
 ],
 [
 "马上",
-0,
 3,
 "mǎshàng",
 "at once; immediately; right away"
 ],
 [
 "上网",
-0,
 3,
 "shàngwǎng",
 "to surf the web; to go online"
 ],
 [
 "上当",
-0,
 5,
 "shàng dàng",
 "be fooled; be duped; be taken in"
 ],
 [
 "不相上下",
-0,
 6,
 "bù xiāng shàng xià",
 "equally matched; about the same"
 ],
 [
 "锦上添花",
-0,
 6,
 "jǐnshàngtiānhuā",
 "lit. on brocade, add flowers (idiom); to decorate sth already perfect / gilding the lily"
 ],
 [
 "上级",
-0,
 6,
 "shàngjí",
 "higher authorities; superiors"
 ],
 [
 "上进",
-0,
 6,
 "shàngjìn",
 "make forward progress; do better"
 ],
 [
 "上任",
-0,
 6,
 "shàng rèn",
 "take office"
 ],
 [
 "上瘾",
-0,
 6,
 "shàngyǐn",
 "become addicted; get into a habit"
 ],
 [
 "上游",
-0,
 6,
 "shàngyóu",
 "upper reaches (of a river); advanced position"
 ],
 [
 "雪上加霜",
-0,
 6,
 "xuěshàngjiāshuāng",
 "(literally) add frost to snow; one disaster after another; insult added to injury"
+]
+],
+"extraWords": [
+[
+"上帝",
+256,
+"Shang4 di4",
+"God"
+],
+[
+"身上",
+459,
+"shen1 shang4",
+"on the body"
+],
+[
+"看上去",
+587,
+"kan4 shang5 qu5",
+"it would appear; it seems (that)"
+],
+[
+"事实上",
+601,
+"shi4 shi2 shang4",
+"in fact; in reality; actually; as a matter of fact; de facto; ipso facto"
+],
+[
+"上面",
+613,
+"shang4 mian5",
+"on top of; above-mentioned"
+],
+[
+"实际上",
+717,
+"shi2 ji4 shang4",
+"in fact; in reality; as a matter of fact; in practice"
+],
+[
+"路上",
+1211,
+"lu4 shang5",
+"on the road; on a journey; road surface"
+],
+[
+"上去",
+1417,
+"shang4 qu4",
+"to go up"
+],
+[
+"上次",
+1630,
+"shang4 ci4",
+"last time"
+],
+[
+"爱上",
+1705,
+"ai4 shang4",
+"to fall in love with; to be in love with"
 ]
 ],
 "strokes": [

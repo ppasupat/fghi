@@ -8,73 +8,125 @@
 "words": [
 [
 "邮局",
-0,
 4,
 "yóujú",
 "post office"
 ],
 [
 "布局",
-0,
 6,
 "bùjú",
 "arrangement; composition; layout"
 ],
 [
 "格局",
-0,
 6,
 "géjú",
 "structure; pattern"
 ],
 [
 "公安局",
-0,
 6,
 "gōngānjú",
 "public security bureau"
 ],
 [
 "结局",
-0,
 6,
 "jiéjú",
 "conclusion; ending"
 ],
 [
 "局部",
-0,
 6,
 "júbù",
 "part; local"
 ],
 [
 "局面",
-0,
 6,
 "júmiàn",
 "aspect; situation"
 ],
 [
 "局势",
-0,
 6,
 "júshì",
 "situation; state (of affairs)"
 ],
 [
 "局限",
-0,
 6,
 "júxiàn",
 "to limit; confine; restrict or confine sth."
 ],
 [
 "全局",
-0,
 6,
 "quánjú",
 "overall situation"
+]
+],
+"extraWords": [
+[
+"局",
+876,
+"ju2",
+"\"narrow; office; situation; classifier for games: match, set, round etc\""
+],
+[
+"出局",
+2393,
+"chu1 ju2",
+"to send off (player for a foul); to knock out (i.e. to beat in a knock-out tournament); to eliminate; to call out; to kill off; to pull out of (a competition); to retire (a runner in baseball); out (i.e. man out in baseball)"
+],
+[
+"局长",
+2806,
+"ju2 zhang3",
+"the chief of a bureau"
+],
+[
+"警察局",
+2884,
+"jing3 cha2 ju2",
+"police station; police department; police headquarters"
+],
+[
+"骗局",
+5503,
+"pian4 ju2",
+"a swindle; a trap; a racket; a scam"
+],
+[
+"情报局",
+6118,
+"qing2 bao4 ju2",
+"intelligence agency"
+],
+[
+"当局",
+6715,
+"dang1 ju2",
+"authorities"
+],
+[
+"移民局",
+8770,
+"yi2 min2 ju2",
+"immigration office"
+],
+[
+"安全局",
+8898,
+"an1 quan2 ju2",
+"security authorities"
+],
+[
+"分局",
+9010,
+"fen1 ju2",
+"sub-bureau"
 ]
 ],
 "strokes": [

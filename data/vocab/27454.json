@@ -8,45 +8,101 @@
 "words": [
 [
 "付款",
-0,
 4,
 "fù kuǎn",
 "to pay"
 ],
 [
 "贷款",
-0,
 5,
 "dài kuǎn",
 "(bank) loan; provide a loan"
 ],
 [
 "罚款",
-0,
 5,
 "fákuǎn",
 "fine; penalty (monetary)"
 ],
 [
 "款待",
-0,
 6,
 "kuǎndài",
 "to entertain (guests)"
 ],
 [
 "款式",
-0,
 6,
 "kuǎnshì",
 "pattern; design; style"
 ],
 [
 "条款",
-0,
 6,
 "tiáokuǎn",
 "clause (of contract or law)"
+]
+],
+"extraWords": [
+[
+"款",
+3473,
+"kuan3",
+"section; paragraph; funds"
+],
+[
+"捐款",
+7321,
+"juan1 kuan3",
+"to donate money; to contribute funds"
+],
+[
+"筹款",
+7606,
+"chou2 kuan3",
+"fundraising"
+],
+[
+"存款",
+8382,
+"cun2 kuan3",
+"to save money in a bank; bank deposit"
+],
+[
+"公款",
+12998,
+"gong1 kuan3",
+"public money"
+],
+[
+"提款机",
+13639,
+"ti2 kuan3 ji1",
+"bank autoteller; ATM"
+],
+[
+"新款",
+14969,
+"xin1 kuan3",
+"new style"
+],
+[
+"赃款",
+17277,
+"zang1 kuan3",
+"booty; stolen goods"
+],
+[
+"巨款",
+17774,
+"ju4 kuan3",
+"huge sum of money"
+],
+[
+"拨款",
+17796,
+"bo1 kuan3",
+"allocate funds; appropriation"
 ]
 ],
 "strokes": [

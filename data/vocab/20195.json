@@ -8,115 +8,161 @@
 "words": [
 [
 "代表",
-0,
 5,
 "dàibiǎo",
 "represent; to delegate"
 ],
 [
 "代替",
-0,
 5,
 "dàitì",
 "to replace"
 ],
 [
 "古代",
-0,
 5,
 "gǔdài",
 "ancient times"
 ],
 [
 "近代",
-0,
 5,
 "jìndài",
 "modern times; latest generation"
 ],
 [
 "年代",
-0,
 5,
 "niándài",
 "decade; era"
 ],
 [
 "时代",
-0,
 5,
 "shídài",
 "age; era; period"
 ],
 [
 "现代",
-0,
 5,
 "xiàndài",
 "modern times; modern age"
 ],
 [
 "朝代",
-0,
 6,
 "cháodài",
 "dynasty; reign (of a king)"
 ],
 [
 "代价",
-0,
 6,
 "dàijià",
 "price; cost; expense"
 ],
 [
 "代理",
-0,
 6,
 "dàilǐ",
 "acting (temporarily filling a position); agent"
 ],
 [
 "当代",
-0,
 6,
 "dāngdài",
 "present day; contemporary"
 ],
 [
 "后代",
-0,
 6,
 "hòudài",
 "posterity; later generations; descendants"
 ],
 [
 "交代",
-0,
 6,
 "jiāodài",
 "explain; account for; hand over"
 ],
 [
 "历代",
-0,
 6,
 "lìdài",
 "successive dynasties; past dynasties"
 ],
 [
 "世代",
-0,
 6,
 "shìdài",
 "for generations; generation to generation"
 ],
 [
 "新陈代谢",
-0,
 6,
 "xīn chén dàixiè",
 "metabolism (bio); (saying) the new replaces the old"
+]
+],
+"extraWords": [
+[
+"代",
+1957,
+"dai4",
+"to substitute; to act on behalf of others; to replace; generation; dynasty; age; period; (historical) era; (geological) eon"
+],
+[
+"代码",
+4945,
+"dai4 ma3",
+"code (e.g. telephone area code); computer code (e.g. virus)"
+],
+[
+"取代",
+5136,
+"qu3 dai4",
+"substitute; to replace; to supplant"
+],
+[
+"现代舞",
+5950,
+"xian4 dai4 wu3",
+"modern dance"
+],
+[
+"代号",
+6612,
+"dai4 hao4",
+"code name"
+],
+[
+"替代",
+6753,
+"ti4 dai4",
+"to substitute for; to replace; to supersede"
+],
+[
+"代理人",
+8032,
+"dai4 li3 ren2",
+"agent"
+],
+[
+"一代",
+9101,
+"yi1 dai4",
+"generation"
+],
+[
+"代言人",
+9436,
+"dai4 yan2 ren2",
+"spokesman"
+],
+[
+"下一代",
+12562,
+"xia4 yi1 dai4",
+"the next generation"
 ]
 ],
 "strokes": [

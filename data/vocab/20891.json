@@ -8,45 +8,101 @@
 "words": [
 [
 "冠军",
-0,
 5,
 "guànjūn",
 "champion"
 ],
 [
 "军事",
-0,
 5,
 "jūnshì",
 "military affairs; military matters"
 ],
 [
 "季军",
-0,
 6,
 "jìjūn",
 "third in a race; bronze medalist"
 ],
 [
 "将军",
-0,
 6,
 "jiāngjūn",
 "a general (military officer)"
 ],
 [
 "军队",
-0,
 6,
 "jūnduì",
 "army troops"
 ],
 [
 "亚军",
-0,
 6,
 "yàjūn",
 "second place; runner-up"
+]
+],
+"extraWords": [
+[
+"海军",
+2344,
+"hai3 jun1",
+"navy"
+],
+[
+"军",
+2730,
+"Jun-01",
+"army; military; arms"
+],
+[
+"军人",
+4222,
+"jun1 ren2",
+"serviceman; soldier; military personnel"
+],
+[
+"空军",
+4254,
+"kong1 jun1",
+"air force"
+],
+[
+"军官",
+4766,
+"jun1 guan1",
+"(military) officer"
+],
+[
+"童子军",
+4981,
+"tong2 zi3 jun1",
+"boy scout"
+],
+[
+"军方",
+5239,
+"jun1 fang1",
+"military"
+],
+[
+"军士",
+5446,
+"jun1 shi4",
+"sergeant"
+],
+[
+"军团",
+6022,
+"jun1 tuan2",
+"corps; legion"
+],
+[
+"陆军",
+6667,
+"lu4 jun1",
+"army"
 ]
 ],
 "strokes": [

@@ -8,45 +8,101 @@
 "words": [
 [
 "权力",
-0,
 5,
 "quánlì",
 "power; authority"
 ],
 [
 "权利",
-0,
 5,
 "quánlì",
 "right; privilege"
 ],
 [
 "权衡",
-0,
 6,
 "quánhéng",
 "trade-off; weigh pros and cons"
 ],
 [
 "权威",
-0,
 6,
 "quánwēi",
 "authority; authoritative"
 ],
 [
 "政权",
-0,
 6,
 "zhèngquán",
 "regime; political power; authority"
 ],
 [
 "主权",
-0,
 6,
 "zhǔquán",
 "sovereignty"
+]
+],
+"extraWords": [
+[
+"权",
+1626,
+"quan2",
+"authority; power; right"
+],
+[
+"豁免权",
+2999,
+"huo4 mian3 quan2",
+"diplomatic immunity; immunity from prosecution"
+],
+[
+"授权",
+3777,
+"shou4 quan2",
+"to authorize"
+],
+[
+"特权",
+6185,
+"te4 quan2",
+"prerogative; privilege; privileged"
+],
+[
+"无权",
+6779,
+"wu2 quan2",
+"no right; no entitlement; powerless"
+],
+[
+"权限",
+6993,
+"quan2 xian4",
+"limits to authority; scope of one's jurisdiction"
+],
+[
+"人权",
+8408,
+"ren2 quan2",
+"human rights"
+],
+[
+"弃权",
+9581,
+"qi4 quan2",
+"to abstain from voting; to forfeit; to waive one's right to vote; to abdicate"
+],
+[
+"掌权",
+10440,
+"zhang3 quan2",
+"to wield (political etc) power; be in power"
+],
+[
+"权益",
+10551,
+"quan2 yi4",
+"rights and benefits"
 ]
 ],
 "strokes": [

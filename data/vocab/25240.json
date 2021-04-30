@@ -8,59 +8,113 @@
 "words": [
 [
 "打折",
-0,
 4,
 "dǎzhé",
 "sell at a discount"
 ],
 [
 "挫折",
-0,
 6,
 "cuòzhé",
 "setback; defeat; frustration"
 ],
 [
 "曲折",
-0,
 6,
 "qūzhé",
 "winding; zigzag; complicated"
 ],
 [
 "折腾",
-0,
 6,
 "zhēteng",
 "toss from side to side (e.g. sleeplessly); do something over and over again; cause suffering; play crazy; screw around"
 ],
 [
 "折",
-0,
 6,
 "zhé",
 "to break; to fracture; convert into; to fold"
 ],
 [
 "折磨",
-0,
 6,
 "zhémo",
 "persecute; to torture"
 ],
 [
 "周折",
-0,
 6,
 "zhōuzhé",
 "setback; twists and turns; problem; complication"
 ],
 [
 "转折",
-0,
 6,
 "zhuǎnzhé",
 "turning point; shift in the trend of events; plot twist in a book"
+]
+],
+"extraWords": [
+[
+"骨折",
+4359,
+"gu3 zhe2",
+"broken bones; fracture"
+],
+[
+"折断",
+9623,
+"zhe2 duan4",
+"to snap sth off; to break"
+],
+[
+"折扣",
+10711,
+"zhe2 kou4",
+"discount"
+],
+[
+"折叠",
+13635,
+"zhe2 die2",
+"fold"
+],
+[
+"转折点",
+14505,
+"zhuan3 zhe2 dian3",
+"turning point; breaking point"
+],
+[
+"不折不扣",
+15497,
+"bu4 zhe2 bu4 kou4",
+"a hundred per cent; to the letter; out-and-out"
+],
+[
+"存折",
+18611,
+"cun2 zhe2",
+"(bank) deposit book"
+],
+[
+"波折",
+21845,
+"bo1 zhe2",
+"twists and turns"
+],
+[
+"折中",
+22153,
+"zhe2 zhong1",
+"to compromise; to take the middle road; a trade-off; eclectic"
+],
+[
+"折衷",
+25137,
+"zhe2 zhong1",
+"to compromise; to take the middle road; a trade-off; eclectic"
 ]
 ],
 "strokes": [

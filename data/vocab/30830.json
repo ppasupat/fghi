@@ -8,87 +8,125 @@
 "words": [
 [
 "确实",
-0,
 4,
 "quèshí",
 "indeed; in truth; reliable"
 ],
 [
 "正确",
-0,
 4,
 "zhèngquè",
 "correct; proper"
 ],
 [
 "准确",
-0,
 4,
 "zhǔnquè",
 "accurate; precise"
 ],
 [
 "的确",
-0,
 5,
 "díquè",
 "really; indeed"
 ],
 [
 "明确",
-0,
 5,
 "míngquè",
 "clear-cut; clearly; clarify"
 ],
 [
 "确定",
-0,
 5,
 "quèdìng",
 "definite; certain; fixed; determine"
 ],
 [
 "确认",
-0,
 5,
 "quèrèn",
 "confirm; confirmation; verify"
 ],
 [
 "精确",
-0,
 6,
 "jīngquè",
 "accurate; precise"
 ],
 [
 "确保",
-0,
 6,
 "quèbǎo",
 "ensure; guarantee"
 ],
 [
 "确立",
-0,
 6,
 "quèlì",
 "to establish; to institute"
 ],
 [
 "确切",
-0,
 6,
 "quèqiè",
 "definite; exact; precise"
 ],
 [
 "确信",
-0,
 6,
 "quèxìn",
 "confident; be certain of; to firmly believe"
+]
+],
+"extraWords": [
+[
+"确",
+4784,
+"que4",
+"authenticated; solid; firm; authenticated; solid; firm; real; true"
+],
+[
+"确凿",
+7868,
+"que4 zao2",
+"definite; conclusive; undeniable; authentic"
+],
+[
+"千真万确",
+8649,
+"qian1 zhen1 wan4 que4",
+"absolutely true (idiom); manifold; true from many points of view"
+],
+[
+"确诊",
+11682,
+"que4 zhen3",
+"to make a definite diagnosis"
+],
+[
+"确定性",
+23831,
+"que4 ding4 xing4",
+"determinacy"
+],
+[
+"准确性",
+30035,
+"zhun3 que4 xing4",
+"accuracy"
+],
+[
+"确证",
+41302,
+"que4 zheng4",
+"to prove; to confirm; to corroborate; convincing proof"
+],
+[
+"精确度",
+41379,
+"jing1 que4 du4",
+"accuracy; precision"
 ]
 ],
 "strokes": [

@@ -8,59 +8,113 @@
 "words": [
 [
 "规模",
-0,
 5,
 "guīmó",
 "scale; scope; extent"
 ],
 [
 "模仿",
-0,
 5,
 "mófǎng",
 "imitate; to copy"
 ],
 [
 "模糊",
-0,
 5,
 "móhu",
 "vague; indistinct; fuzzy; foggy"
 ],
 [
 "模特",
-0,
 5,
 "mótè",
 "(fashion) model"
 ],
 [
 "模范",
-0,
 6,
 "mófàn",
 "model; exemplar"
 ],
 [
 "模式",
-0,
 6,
 "móshì",
 "model; pattern; method"
 ],
 [
 "模型",
-0,
 6,
 "móxíng",
 "model; mould; matrix; pattern"
 ],
 [
 "模样",
-0,
 6,
 "múyàng",
 "appearance; form; approximation"
+]
+],
+"extraWords": [
+[
+"模",
+2093,
+"mo2/mu2",
+"imitate; model; norm; pattern"
+],
+[
+"一模一样",
+3889,
+"yi1 mo2 yi1 yang4",
+"exactly the same (idiom); carbon copy"
+],
+[
+"模拟",
+5545,
+"mo2 ni3",
+"\"imitation; to simulate; to imitate; analog (device, as opposed to digital)\""
+],
+[
+"大规模",
+7469,
+"da4 gui1 mo2",
+"large scale; extensive; wide scale; broad scale"
+],
+[
+"装模作样",
+14498,
+"zhuang1 mu2 zuo4 yang5",
+"to put on an act (idiom); to show affectation; to indulge in histrionics"
+],
+[
+"模子",
+17424,
+"mo2 zi5",
+"mold"
+],
+[
+"模块",
+18434,
+"mo2 kuai4",
+"module (in software); functional unit; component part"
+],
+[
+"模板",
+19926,
+"mu2 ban3",
+"template; (architecture) formwork"
+],
+[
+"模具",
+25177,
+"mo2 ju4",
+"molding (process)"
+],
+[
+"模棱两可",
+25679,
+"mo2 leng2 liang3 ke3",
+"to equivocate; to hold two contradictory views at the same time; to sit on the fence"
 ]
 ],
 "strokes": [

@@ -8,164 +8,203 @@
 "words": [
 [
 "无",
-0,
 4,
 "wú",
 "have not; without; not (Kangxi radical 71)"
 ],
 [
 "无聊",
-0,
 4,
 "wúliáo",
 "nonsense; bored; silly; stupid"
 ],
 [
 "无论",
-0,
 4,
 "wúlùn",
 "no matter what; regardless of whether..."
 ],
 [
 "无奈",
-0,
 5,
 "wúnài",
 "can't help but; have no choice"
 ],
 [
 "无数",
-0,
 5,
 "wúshù",
 "countless; innumerable"
 ],
 [
 "无所谓",
-0,
 5,
 "wúsuǒwèi",
 "doesn't matter; be indifferent"
 ],
 [
 "毫无",
-0,
 6,
 "háo wú",
 "not at all; completely without; not in the least"
 ],
 [
 "肆无忌惮",
-0,
 6,
 "sìwújìdàn",
 "absolutely unrestrained; unbridled; without the slightest scruple"
 ],
 [
 "无比",
-0,
 6,
 "wúbǐ",
 "matchless; incomparable"
 ],
 [
 "无偿",
-0,
 6,
 "wúcháng",
 "free; no charge; at no cost"
 ],
 [
 "无耻",
-0,
 6,
 "wúchǐ",
 "without any sense of shame; shameless; audaciousness"
 ],
 [
 "无动于衷",
-0,
 6,
 "wúdòngyúzhōng",
 "aloof; indifferent; unconcerned; untouched"
 ],
 [
 "无非",
-0,
 6,
 "wúfēi",
 "nothing but; only"
 ],
 [
 "无辜",
-0,
 6,
 "wúgū",
 "innocent"
 ],
 [
 "无精打采",
-0,
 6,
 "wújīngdǎcǎi",
 "listless; be dispirited; in low spirits"
 ],
 [
 "无赖",
-0,
 6,
 "wúlài",
 "hoodlum; rascal; rogue; rascally; scoundrelly"
 ],
 [
 "无理取闹",
-0,
 6,
 "wúlǐqǔnào",
 "to make trouble without reason (idiom); wilfully make trouble; to be deliberately provocative; deliberately awkward; pointless provocation"
 ],
 [
 "无能为力",
-0,
 6,
 "wú néng wéi lì",
 "incapable of action; powerless; impotent"
 ],
 [
 "无穷无尽",
-0,
 6,
 "wúqióngwújìn",
 "vast and limitless; endless span of time; no vestige of a beginning, no prospect of an end"
 ],
 [
 "无微不至",
-0,
 6,
 "wú wēi bú zhì",
 "in every possible way; meticulously"
 ],
 [
 "无忧无虑",
-0,
 6,
 "wúyōuwúlǜ",
 "carefree and without worries"
 ],
 [
 "无知",
-0,
 6,
 "wúzhī",
 "ignorance"
 ],
 [
 "鸦雀无声",
-0,
 6,
 "yāquèwúshēng",
 "not even a crow or sparrow can be heard (idiom); silence reigns"
+]
+],
+"extraWords": [
+[
+"无法",
+416,
+"wu2 fa3",
+"unable; incapable"
+],
+[
+"无关",
+1604,
+"wu2 guan1",
+"unrelated; having nothing to do (with sth else)"
+],
+[
+"无论如何",
+2125,
+"wu2 lun4 ru2 he2",
+"anyhow; anyway; whatever"
+],
+[
+"毫无疑问",
+2635,
+"hao2 wu2 yi2 wen4",
+"certainty; without a doubt"
+],
+[
+"无罪",
+3351,
+"wu2 zui4",
+"innocent; guileless; not guilty (of crime)"
+],
+[
+"一无所知",
+3407,
+"yi1 wu2 suo3 zhi1",
+"not knowing anything at all (idiom); completely ignorant; without an inkling"
+],
+[
+"无意",
+3568,
+"wu2 yi4",
+"inadvertent; accidental"
+],
+[
+"无线电",
+3941,
+"wu2 xian4 dian4",
+"wireless"
+],
+[
+"无关紧要",
+4465,
+"wu2 guan1 jin3 yao4",
+"indifferent; insignificant"
+],
+[
+"无效",
+4856,
+"wu2 xiao4",
+"not valid; ineffective; in vain"
 ]
 ],
 "strokes": [

@@ -8,45 +8,101 @@
 "words": [
 [
 "考试",
-0,
 2,
 "kǎoshì",
 "test; exam; to give or take a test"
 ],
 [
 "试",
-0,
 3,
 "shì",
 "to try; to test; examination"
 ],
 [
 "试卷",
-0,
 5,
 "shìjuàn",
 "exam paper; test paper"
 ],
 [
 "尝试",
-0,
 6,
 "chángshì",
 "to try; attempt"
 ],
 [
 "试图",
-0,
 6,
 "shìtú",
 "to try; to attempt"
 ],
 [
 "试验",
-0,
 6,
 "shìyàn",
 "experiment; test"
+]
+],
+"extraWords": [
+[
+"测试",
+1184,
+"ce4 shi4",
+"measure and test; trial; beta (software); test performance of"
+],
+[
+"面试",
+2405,
+"mian4 shi4",
+"to interview; to audition; interview; audition"
+],
+[
+"试演",
+8132,
+"shi4 yan3",
+"audition; dress rehearsal; preview (of a theatrical performance); dummy run"
+],
+[
+"试试看",
+9037,
+"shi4 shi4 kan4",
+"to give it a try"
+],
+[
+"试探",
+10571,
+"shi4 tan4",
+"to sound out; to probe; to feel out; to try out"
+],
+[
+"试穿",
+13693,
+"shi4 chuan1",
+"to try wearing clothes; fitting trial"
+],
+[
+"试用",
+14375,
+"shi4 yong4",
+"to try something out; on probation"
+],
+[
+"试想",
+16044,
+"shi4 xiang3",
+"just think!; imagine that!"
+],
+[
+"比试",
+17426,
+"bi3 shi4",
+"have a competition; measure with one's hand or arm; make a gesture of measuring"
+],
+[
+"试管",
+20015,
+"shi4 guan3",
+"test tube"
 ]
 ],
 "strokes": [

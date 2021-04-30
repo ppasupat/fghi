@@ -8,17 +8,77 @@
 "words": [
 [
 "灯",
-0,
 3,
 "dēng",
 "lamp; light"
 ],
 [
 "灯笼",
-0,
 6,
 "dēnglong",
 "lantern"
+]
+],
+"extraWords": [
+[
+"灯光",
+3727,
+"deng1 guang1",
+"(stage) lighting; light"
+],
+[
+"红灯",
+6737,
+"hong2 deng1",
+"red light"
+],
+[
+"灯塔",
+7991,
+"deng1 ta3",
+"lighthouse"
+],
+[
+"灯泡",
+8669,
+"deng1 pao4",
+"light bulb; same as 电灯泡; (slang) third-wheel or unwanted third party spoiling a couple's date"
+],
+[
+"绿灯",
+10623,
+"lu:4 deng1",
+"green light"
+],
+[
+"聚光灯",
+12071,
+"ju4 guang1 deng1",
+"spotlight"
+],
+[
+"熄灯",
+12368,
+"xi2 deng1",
+"turn out the lights; lights out"
+],
+[
+"闪光灯",
+13577,
+"shan3 guang1 deng1",
+"a flash light (for photography)"
+],
+[
+"信号灯",
+14661,
+"xin4 hao4 deng1",
+"signal light; car indicator"
+],
+[
+"电灯泡",
+14740,
+"dian4 deng1 pao4",
+"light bulb; (slang) unwanted third guest"
 ]
 ],
 "strokes": [

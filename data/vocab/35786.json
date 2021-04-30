@@ -8,17 +8,77 @@
 "words": [
 [
 "急诊",
-0,
 5,
 "jízhěn",
 "emergency call; emergency treatment"
 ],
 [
 "诊断",
-0,
 5,
 "zhěnduàn",
 "diagnosis; diagnose"
+]
+],
+"extraWords": [
+[
+"诊所",
+3042,
+"zhen3 suo3",
+"clinic"
+],
+[
+"急诊室",
+5324,
+"ji2 zhen3 shi4",
+"emergency room"
+],
+[
+"确诊",
+11682,
+"que4 zhen3",
+"to make a definite diagnosis"
+],
+[
+"门诊",
+11855,
+"men2 zhen3",
+"outpatient service"
+],
+[
+"诊",
+15163,
+"zhen3",
+"examine or treat medically"
+],
+[
+"诊疗",
+20299,
+"zhen3 liao2",
+"diagnosis and treatment"
+],
+[
+"就诊",
+20719,
+"jiu4 zhen3",
+"to see a doctor; to seek medical advice"
+],
+[
+"出诊",
+22053,
+"chu1 zhen3",
+"to visit a patient at home (of a doctor); house call"
+],
+[
+"诊治",
+25844,
+"zhen3 zhi4",
+"to diagnose and treat"
+],
+[
+"复诊",
+26064,
+"fu4 zhen3",
+"another visit to doctor; further diagnosis"
 ]
 ],
 "strokes": [

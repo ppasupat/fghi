@@ -8,37 +8,94 @@
 "words": [
 [
 "上网",
-0,
 3,
 "shàngwǎng",
 "to surf the web; to go online"
 ],
 [
 "互联网",
-0,
 4,
 "Hùliánwǎng",
 "Internet"
 ],
 [
 "网球",
-0,
 4,
 "wǎngqiú",
 "tennis; tennis ball"
 ],
 [
 "网站",
-0,
 4,
 "wǎngzhàn",
 "website"
 ],
 [
 "网络",
-0,
 5,
 "wǎngluò",
+"network"
+]
+],
+"extraWords": [
+[
+"网上",
+2473,
+"wang3 shang4",
+"on-line"
+],
+[
+"网",
+2809,
+"wang3",
+"net; network"
+],
+[
+"网页",
+9777,
+"wang3 ye4",
+"web page"
+],
+[
+"铁丝网",
+13473,
+"tie3 si1 wang3",
+"wire netting"
+],
+[
+"视网膜",
+14623,
+"shi4 wang3 mo2",
+"retina"
+],
+[
+"因特网",
+15381,
+"yin1 te4 wang3",
+"Internet"
+],
+[
+"蜘蛛网",
+16197,
+"zhi1 zhu1 wang3",
+"cobweb; spider web"
+],
+[
+"一网打尽",
+16559,
+"yi1 wang3 da3 jin4",
+"to catch everything in one net (idiom); to eliminate at one stroke; to solve the problem at one fell swoop"
+],
+[
+"电网",
+16667,
+"dian4 wang3",
+"electrical network"
+],
+[
+"网路",
+18075,
+"wang3 lu4",
 "network"
 ]
 ],

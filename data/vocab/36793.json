@@ -8,66 +8,119 @@
 "words": [
 [
 "旁边",
-0,
 2,
 "pángbiān",
 "side, beside"
 ],
 [
 "右边",
-0,
 2,
 "yòubian",
 "the right (as opposed to left) side"
 ],
 [
 "左边",
-0,
 2,
 "zuǒbian",
 "the left side; the left"
 ],
 [
 "一边",
-0,
 3,
 "yìbiān",
 "one side; on the one hand; at the same time"
 ],
 [
 "边疆",
-0,
 6,
 "biānjiāng",
 "border area; borderland; frontier; frontier region"
 ],
 [
 "边界",
-0,
 6,
 "biānjiè",
 "boundary; border"
 ],
 [
 "边境",
-0,
 6,
 "biānjìng",
 "frontier"
 ],
 [
 "边缘",
-0,
 6,
 "biānyuán",
 "edge; fringe; verge; brink"
 ],
 [
 "周边",
-0,
 6,
 "zhōubiān",
 "surrounding"
+]
+],
+"extraWords": [
+[
+"那边",
+506,
+"na4 bian5",
+"yonder"
+],
+[
+"这边",
+686,
+"zhe4 bian1",
+"this side; here"
+],
+[
+"身边",
+848,
+"shen1 bian1",
+"at one's side"
+],
+[
+"边",
+914,
+"bian1/bian5",
+"side; edge; margin; border; boundary; suffix of a noun of locality"
+],
+[
+"海边",
+4467,
+"hai3 bian1",
+"seaside"
+],
+[
+"路边",
+5044,
+"lu4 bian1",
+"curb; roadside; wayside"
+],
+[
+"两边",
+6472,
+"liang3 bian5",
+"either side; both sides"
+],
+[
+"湖边",
+6608,
+"hu2 bian1",
+"lakeside"
+],
+[
+"河边",
+7556,
+"he2 bian1",
+"river bank"
+],
+[
+"北边",
+7741,
+"bei3 bian1",
+"north; north side; northern part; to the north of"
 ]
 ],
 "strokes": [

@@ -8,45 +8,101 @@
 "words": [
 [
 "白",
-0,
 2,
 "bái",
 "white; snowy; pure; bright; empty (Kangxi radical 106)"
 ],
 [
 "明白",
-0,
 3,
 "míngbai",
 "clear; obvious; understand; explicit"
 ],
 [
 "苍白",
-0,
 6,
 "cāngbái",
 "pale; wan; pallid"
 ],
 [
 "蛋白质",
-0,
 6,
 "dànbáizhì",
 "protein"
 ],
 [
 "空白",
-0,
 6,
 "kòngbái",
 "blank space; blank"
 ],
 [
 "坦白",
-0,
 6,
 "tǎnbái",
 "honest; forthcoming; to confess"
+]
+],
+"extraWords": [
+[
+"白痴",
+897,
+"bai2 chi1",
+"idiocy; idiot"
+],
+[
+"白人",
+1647,
+"bai2 ren2",
+"white man and woman"
+],
+[
+"白色",
+2655,
+"bai2 se4",
+"white; fig. reactionary"
+],
+[
+"清白",
+3465,
+"qing1 bai2",
+"pure; innocent"
+],
+[
+"白宫",
+3532,
+"Bai2 gong1",
+"White House"
+],
+[
+"白天",
+3605,
+"bai2 tian1",
+"daytime; during the day; day"
+],
+[
+"伊丽莎白",
+4712,
+"Yi1 li4 sha1 bai2",
+"Elizabeth (person name)"
+],
+[
+"白费",
+7833,
+"bai2 fei4",
+"waste"
+],
+[
+"白白",
+8672,
+"bai2 bai2",
+"in vain; to no purpose; for nothing"
+],
+[
+"蛋白",
+8772,
+"dan4 bai2",
+"egg white; protein; albumen"
 ]
 ],
 "strokes": [

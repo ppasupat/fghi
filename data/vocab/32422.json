@@ -8,52 +8,107 @@
 "words": [
 [
 "大约",
-0,
 4,
 "dàyuē",
 "approximately; about"
 ],
 [
 "节约",
-0,
 4,
 "jiéyuē",
 "frugal; to save"
 ],
 [
 "约会",
-0,
 4,
 "yuēhuì",
 "appointment; engagement; date"
 ],
 [
 "条约",
-0,
 6,
 "tiáoyuē",
 "treaty; pact"
 ],
 [
 "隐约",
-0,
 6,
 "yǐnyuē",
 "vague; faint; indistinct"
 ],
 [
 "约束",
-0,
 6,
 "yuēshù",
 "restrict; limit to; constrain; restriction"
 ],
 [
 "制约",
-0,
 6,
 "zhìyuē",
 "restrict; condition"
+]
+],
+"extraWords": [
+[
+"纽约",
+694,
+"Niu3 Yue1",
+"New York"
+],
+[
+"约",
+1037,
+"yao1/yue1",
+"weigh; appointment; agreement; to arrange; to restrict; approximately"
+],
+[
+"约翰",
+1397,
+"Yue1 han4",
+"John (name); Johan (name); Johann (name)"
+],
+[
+"预约",
+3249,
+"yu4 yue1",
+"reservation; reserve"
+],
+[
+"约定",
+4458,
+"yue1 ding4",
+"\"to agree on sth (after discussion); to conclude a bargain; to arrange; to promise; to stipulate; to make an appointment; stipulated (time, amount, quality etc); an arrangement; a deal; appointment; undertaking; commitment; understanding; engagement; stipulation\""
+],
+[
+"合约",
+4471,
+"he2 yue1",
+"treaty; contract"
+],
+[
+"契约",
+6445,
+"qi4 yue1",
+"agreement; contract"
+],
+[
+"约瑟夫",
+6522,
+"Yue1 se4 fu1",
+"Joseph (Biblical name)"
+],
+[
+"签约",
+6807,
+"qian1 yue1",
+"to sign up (a recruit)"
+],
+[
+"约翰逊",
+7181,
+"Yue1 han4 xun4",
+"Johnson or Johnston (name)"
 ]
 ],
 "strokes": [

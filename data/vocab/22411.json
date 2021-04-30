@@ -8,38 +8,95 @@
 "words": [
 [
 "大型",
-0,
 5,
 "dàxíng",
 "large-scale; wide-scale"
 ],
 [
 "类型",
-0,
 5,
 "lèixíng",
 "type"
 ],
 [
 "典型",
-0,
 6,
 "diǎnxíng",
 "typical case; model"
 ],
 [
 "模型",
-0,
 6,
 "móxíng",
 "model; mould; matrix; pattern"
 ],
 [
 "造型",
-0,
 6,
 "zàoxíng",
 "make a model; to mold"
+]
+],
+"extraWords": [
+[
+"型",
+1677,
+"xing2",
+"model; type (e.g. blood type)"
+],
+[
+"发型",
+2566,
+"fa4 xing2",
+"hairstyle; coiffure; hairdo"
+],
+[
+"小型",
+5353,
+"xiao3 xing2",
+"small scale; small size"
+],
+[
+"型号",
+7548,
+"xing2 hao4",
+"model number"
+],
+[
+"巨型",
+7701,
+"ju4 xing2",
+"giant; enormous"
+],
+[
+"血型",
+8200,
+"xue4 xing2",
+"blood group; blood type"
+],
+[
+"体型",
+8344,
+"ti3 xing2",
+"build; body type; figure"
+],
+[
+"微型",
+10087,
+"wei1 xing2",
+"miniature; micro-; tiny"
+],
+[
+"原型",
+10696,
+"yuan2 xing2",
+"original shape; mold; original form; archetype"
+],
+[
+"新型",
+11403,
+"xin1 xing2",
+"new type; new kind"
 ]
 ],
 "strokes": [

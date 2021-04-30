@@ -8,66 +8,119 @@
 "words": [
 [
 "火车站",
-0,
 2,
 "huǒchēzhàn",
 "train station"
 ],
 [
 "火",
-0,
 4,
 "huǒ",
 "fire (Kangxi radical 86)"
 ],
 [
 "火柴",
-0,
 5,
 "huǒchái",
 "match (for lighting fire)"
 ],
 [
 "着火",
-0,
 5,
 "zháohuǒ",
 "catch fire; ignite"
 ],
 [
 "火箭",
-0,
 6,
 "huǒjiàn",
 "rocket"
 ],
 [
 "火焰",
-0,
 6,
 "huǒyàn",
 "blaze; flame"
 ],
 [
 "火药",
-0,
 6,
 "huǒyào",
 "gunpowder"
 ],
 [
 "恼火",
-0,
 6,
 "nǎohuǒ",
 "get angry; irritated; annoy"
 ],
 [
 "涮火锅",
-0,
 6,
 "shuànhuǒguō",
 "to instant-boil (mutton, beef, vegetables, etc.)"
+]
+],
+"extraWords": [
+[
+"火车",
+1738,
+"huo3 che1",
+"train"
+],
+[
+"开火",
+3098,
+"kai1 huo3",
+"to open fire"
+],
+[
+"火灾",
+3491,
+"huo3 zai1",
+"fire (that burns buildings etc)"
+],
+[
+"火鸡",
+4170,
+"huo3 ji1",
+"turkey"
+],
+[
+"发火",
+4489,
+"fa1 huo3",
+"to catch fire; to ignite; to detonate; to get angry"
+],
+[
+"火炬",
+4660,
+"huo3 ju4",
+"torch"
+],
+[
+"大火",
+5010,
+"da4 huo3",
+"conflagration; large fire"
+],
+[
+"火星",
+5271,
+"Huo3 xing1",
+"Mars (planet)"
+],
+[
+"火花",
+6103,
+"huo3 hua1",
+"spark; sparkle"
+],
+[
+"纵火",
+6155,
+"zong4 huo3",
+"to set on fire; to commit arson"
 ]
 ],
 "strokes": [

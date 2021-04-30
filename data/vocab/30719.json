@@ -8,17 +8,77 @@
 "words": [
 [
 "矿泉水",
-0,
 4,
 "kuàngquánshuǐ",
 "mineral water"
 ],
 [
 "矿产",
-0,
 6,
 "kuàngchǎn",
 "minerals"
+]
+],
+"extraWords": [
+[
+"矿",
+8397,
+"kuang4",
+"ore; mine"
+],
+[
+"矿工",
+8508,
+"kuang4 gong1",
+"miner"
+],
+[
+"金矿",
+11922,
+"jin1 kuang4",
+"metal ore"
+],
+[
+"矿井",
+14127,
+"kuang4 jing3",
+"a mine; a mine shaft"
+],
+[
+"煤矿",
+14861,
+"mei2 kuang4",
+"coal mine"
+],
+[
+"矿石",
+17236,
+"kuang4 shi2",
+"ore"
+],
+[
+"矿物",
+18956,
+"kuang4 wu4",
+"mineral"
+],
+[
+"矿物质",
+21167,
+"kuang4 wu4 zhi4",
+"\"mineral, esp. dietary mineral\""
+],
+[
+"采矿",
+21599,
+"cai3 kuang4",
+"mining"
+],
+[
+"矿山",
+21881,
+"kuang4 shan1",
+"mine"
 ]
 ],
 "strokes": [

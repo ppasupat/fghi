@@ -8,80 +8,131 @@
 "words": [
 [
 "向",
-0,
 3,
 "xiàng",
 "direction; towards; to turn; to face"
 ],
 [
 "方向",
-0,
 4,
 "fāngxiàng",
 "direction; orientation"
 ],
 [
 "导向",
-0,
 6,
 "dǎoxiàng",
 "guidance; lead to; direct something towards"
 ],
 [
 "倾向",
-0,
 6,
 "qīngxiàng",
 "trend; tendency; inclination"
 ],
 [
 "外向",
-0,
 6,
 "wàixiàng",
 "extroverted; export-oriented (economy)"
 ],
 [
 "向导",
-0,
 6,
 "xiàngdǎo",
 "guide"
 ],
 [
 "向来",
-0,
 6,
 "xiànglái",
 "always; all along"
 ],
 [
 "向往",
-0,
 6,
 "xiàngwǎng",
 "yearn for; look forward to"
 ],
 [
 "欣欣向荣",
-0,
 6,
 "xīnxīn xiàng róng",
 "flourishing; thriving; prosperous"
 ],
 [
 "一向",
-0,
 6,
 "yíxiàng",
 "all along; the whole time; constantly; always"
 ],
 [
 "意向",
-0,
 6,
 "yìxiàng",
 "will; intent; disposition"
+]
+],
+"extraWords": [
+[
+"向前",
+4293,
+"xiang4 qian2",
+"forward; onward"
+],
+[
+"走向",
+4654,
+"zou3 xiang4",
+"trend; to move towards; to head for; strike (geol.)"
+],
+[
+"通向",
+6042,
+"tong1 xiang4",
+"lead to"
+],
+[
+"转向",
+6470,
+"zhuan3 xiang4",
+"change of direction; to change direction"
+],
+[
+"方向盘",
+8732,
+"fang1 xiang4 pan2",
+"steering wheel"
+],
+[
+"向上",
+8848,
+"xiang4 shang4",
+"upwards; uplifting"
+],
+[
+"去向",
+10229,
+"qu4 xiang4",
+"the position of sth; whereabouts"
+],
+[
+"面向",
+10971,
+"mian4 xiang4",
+"to face; to turn towards; to incline to; geared towards; catering for; -oriented; facial feature; appearance; aspect; facet"
+],
+[
+"向日葵",
+11041,
+"xiang4 ri4 kui2",
+"sunflower (Helianthus annuus)"
+],
+[
+"航向",
+12715,
+"hang2 xiang4",
+"course; direction (a ship or plane is heading in)"
 ]
 ],
 "strokes": [

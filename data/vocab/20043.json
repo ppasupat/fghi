@@ -8,66 +8,119 @@
 "words": [
 [
 "百分之",
-0,
 4,
 "bǎifēnzhī",
 "percent"
 ],
 [
 "之",
-0,
 4,
 "zhī",
 "(literary equivalent to 的); (pronoun); of"
 ],
 [
 "总之",
-0,
 5,
 "zǒngzhī",
 "in a word; in short; in brief / anyway; anyhow"
 ],
 [
 "当务之急",
-0,
 6,
 "dāngwùzhījí",
 "the most pressing matter of the moment; a top priority task; urgent matter"
 ],
 [
 "反之",
-0,
 6,
 "fǎnzhī",
 "whereas...; on the other hand ...; conversely ..."
 ],
 [
 "后顾之忧",
-0,
 6,
 "hòugùzhīyōu",
 "fears of trouble in the rear (idiom); family worries (obstructing freedom to act); trouble back at home; worries about the future consequences; often in negative expressions, meaning no worries about anything"
 ],
 [
 "天伦之乐",
-0,
 6,
 "tiānlúnzhīlè",
 "family happiness"
 ],
 [
 "之际",
-0,
 6,
 "zhījì",
 "during; at the time of; the time when something happens"
 ],
 [
 "总而言之",
-0,
 6,
 "zǒngéryánzhī",
 "in short; in a word"
+]
+],
+"extraWords": [
+[
+"之前",
+249,
+"zhi1 qian2",
+"before; prior to; ago"
+],
+[
+"之后",
+321,
+"zhi1 hou4",
+"afterwards; following; later; after"
+],
+[
+"之间",
+541,
+"zhi1 jian1",
+"between; among; inter-"
+],
+[
+"之一",
+1034,
+"zhi1 yi1",
+"\"one of (sth); one out of a multitude; one (third, quarter, percent etc)\""
+],
+[
+"之类",
+1379,
+"zhi1 lei4",
+"and so on; and such"
+],
+[
+"之中",
+1737,
+"zhi1 zhong1",
+"inside"
+],
+[
+"之外",
+2205,
+"zhi1 wai4",
+"outside; excluding"
+],
+[
+"之内",
+2338,
+"zhi1 nei4",
+"inside"
+],
+[
+"之下",
+3296,
+"zhi1 xia4",
+"under; beneath; less than"
+],
+[
+"称之为",
+4356,
+"cheng1 zhi1 wei2",
+"to call it...; known as..."
 ]
 ],
 "strokes": [

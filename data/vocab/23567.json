@@ -8,87 +8,137 @@
 "words": [
 [
 "小",
-0,
 1,
 "xiǎo",
 "small; young"
 ],
 [
 "小姐",
-0,
 1,
 "xiǎojie",
 "young lady; miss; Ms."
 ],
 [
 "小时",
-0,
 2,
 "xiǎoshí",
 "hour"
 ],
 [
 "小心",
-0,
 3,
 "xiǎoxīn",
 "be careful"
 ],
 [
 "小吃",
-0,
 4,
 "xiǎochī",
 "snack; refreshments"
 ],
 [
 "小伙子",
-0,
 4,
 "xiǎohuǒzi",
 "young man; lad; youngster"
 ],
 [
 "小说",
-0,
 4,
 "xiǎoshuō",
 "novel; fiction"
 ],
 [
 "胆小鬼",
-0,
 5,
 "dǎnxiǎoguǐ",
 "coward"
 ],
 [
 "小麦",
-0,
 5,
 "xiǎomài",
 "wheat"
 ],
 [
 "小气",
-0,
 5,
 "xiǎoqì",
 "stingy; petty"
 ],
 [
 "渺小",
-0,
 6,
 "miǎoxiǎo",
 "tiny; minute; negligible"
 ],
 [
 "小心翼翼",
-0,
 6,
 "xiǎoxīn yìyì",
 "carefully; cautiously; with great care"
+]
+],
+"extraWords": [
+[
+"小子",
+666,
+"xiao3 zi5",
+"boy; young fellow; (derog.) chap"
+],
+[
+"小孩",
+806,
+"xiao3 hai2",
+"child"
+],
+[
+"小组",
+1643,
+"xiao3 zu3",
+"a group"
+],
+[
+"小时候",
+2273,
+"xiao3 shi2 hou5",
+"in one's childhood"
+],
+[
+"小丑",
+2476,
+"xiao3 chou3",
+"clown"
+],
+[
+"小偷",
+3658,
+"xiao3 tou1",
+"thief"
+],
+[
+"小事",
+4065,
+"xiao3 shi4",
+"trifle; trivial matter; CL:点[dian3]"
+],
+[
+"小朋友",
+4304,
+"xiao3 peng2 you3",
+"children"
+],
+[
+"小屋",
+4349,
+"xiao3 wu1",
+"cabin; lodge"
+],
+[
+"小声",
+4565,
+"xiao3 sheng1",
+"in a low voice; (speak) in whispers"
 ]
 ],
 "strokes": [

@@ -8,38 +8,95 @@
 "words": [
 [
 "丈夫",
-0,
 2,
 "zhàngfu",
 "husband; man"
 ],
 [
 "大夫",
-0,
 4,
 "dàifu",
 "doctor; physician"
 ],
 [
 "功夫",
-0,
 4,
 "gōngfu",
 "kung fu; skill; art; labor"
 ],
 [
 "夫妇",
-0,
 6,
 "fūfù",
 "married couple; husband and wife"
 ],
 [
 "夫人",
-0,
 6,
 "fūrén",
 "lady; madam; Mrs.; wife"
+]
+],
+"extraWords": [
+[
+"夫",
+2165,
+"fu1/fu2",
+"husband; man; porter"
+],
+[
+"夫妻",
+3389,
+"fu1 qi1",
+"man and wife"
+],
+[
+"高尔夫",
+4120,
+"gao1 er3 fu1",
+"golf; golf ball"
+],
+[
+"杰夫",
+4148,
+"jie2 fu1",
+"Jeff or Geoff (name)"
+],
+[
+"未婚夫",
+4271,
+"wei4 hun1 fu1",
+"fiancé"
+],
+[
+"懦夫",
+4675,
+"nuo4 fu1",
+"coward"
+],
+[
+"史蒂夫",
+4714,
+"Shi3 di4 fu1",
+"Steve (male name)"
+],
+[
+"前夫",
+5047,
+"qian2 fu1",
+"former husband"
+],
+[
+"约瑟夫",
+6522,
+"Yue1 se4 fu1",
+"Joseph (Biblical name)"
+],
+[
+"高尔夫球",
+6766,
+"gao1 er3 fu1 qiu2",
+"golf; golf ball"
 ]
 ],
 "strokes": [

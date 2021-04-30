@@ -8,87 +8,137 @@
 "words": [
 [
 "先生",
-0,
 1,
 "xiānsheng",
 "Mr.; Sir"
 ],
 [
 "先",
-0,
 3,
 "xiān",
 "first; early; before"
 ],
 [
 "首先",
-0,
 4,
 "shǒuxiān",
 "first (of all); in the first place; firstly"
 ],
 [
 "事先",
-0,
 5,
 "shìxiān",
 "in advance; beforehand; prior"
 ],
 [
 "领先",
-0,
 6,
 "lǐngxiān",
 "leadership; to lead; be in front"
 ],
 [
 "先进",
-0,
 6,
 "xiānjìn",
 "advanced (technology); to advance"
 ],
 [
 "先前",
-0,
 6,
 "xiānqián",
 "before; previously"
 ],
 [
 "优先",
-0,
 6,
 "yōuxiān",
 "priority; preferential"
 ],
 [
 "预先",
-0,
 6,
 "yùxiān",
 "beforehand; prior"
 ],
 [
 "原先",
-0,
 6,
 "yuánxiān",
 "former; original"
 ],
 [
 "争先恐后",
-0,
 6,
 "zhēng xiān kǒng hòu",
 "striving to be first; compete with each other"
 ],
 [
 "祖先",
-0,
 6,
 "zǔxiān",
 "ancestor; forbearer"
+]
+],
+"extraWords": [
+[
+"先知",
+5203,
+"xian1 zhi1",
+"prophet"
+],
+[
+"最先",
+7641,
+"zui4 xian1",
+"(the) very first"
+],
+[
+"先例",
+11708,
+"xian1 li4",
+"antecedent; precedent"
+],
+[
+"抢先",
+12674,
+"qiang3 xian1",
+"to rush (to do sth urgent); to try to be the first; to forestall"
+],
+[
+"早先",
+13643,
+"zao3 xian1",
+"previously; before"
+],
+[
+"先锋",
+14793,
+"xian1 feng1",
+"herald; pioneer"
+],
+[
+"先驱",
+15798,
+"xian1 qu1",
+"pioneer"
+],
+[
+"先行",
+16568,
+"xian1 xing2",
+"to precede others; in advance"
+],
+[
+"先后",
+17131,
+"xian1 hou4",
+"early or late; priority; in succession; one after another"
+],
+[
+"先令",
+18134,
+"xian1 ling4",
+"shilling"
 ]
 ],
 "strokes": [

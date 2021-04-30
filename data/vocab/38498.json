@@ -8,24 +8,83 @@
 "words": [
 [
 "医院",
-0,
 1,
 "yīyuàn",
 "hospital"
 ],
 [
 "法院",
-0,
 5,
 "fǎyuàn",
 "court of law"
 ],
 [
 "国务院",
-0,
 6,
 "guówùyuàn",
 "State Council (PRC); State Department (USA)"
+]
+],
+"extraWords": [
+[
+"学院",
+2629,
+"xue2 yuan4",
+"college; educational institute; school; faculty"
+],
+[
+"剧院",
+3544,
+"ju4 yuan4",
+"theater"
+],
+[
+"院",
+3703,
+"yuan4",
+"courtyard; institution"
+],
+[
+"住院",
+4569,
+"zhu4 yuan4",
+"to be in hospital; to be hospitalized"
+],
+[
+"院子",
+4908,
+"yuan4 zi5",
+"courtyard"
+],
+[
+"电影院",
+6869,
+"dian4 ying3 yuan4",
+"cinema; movie theater"
+],
+[
+"法学院",
+7079,
+"fa3 xue2 yuan4",
+"law school"
+],
+[
+"孤儿院",
+7093,
+"gu1 er2 yuan4",
+"orphanage; child asylum"
+],
+[
+"修道院",
+7110,
+"xiu1 dao4 yuan4",
+"monastery; convent"
+],
+[
+"出院",
+7133,
+"chu1 yuan4",
+"to leave hospital"
 ]
 ],
 "strokes": [

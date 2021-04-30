@@ -8,94 +8,143 @@
 "words": [
 [
 "表格",
-0,
 4,
 "biǎogé",
 "form (document)"
 ],
 [
 "合格",
-0,
 4,
 "hégé",
 "qualified; up to standard"
 ],
 [
 "价格",
-0,
 4,
 "jiàgé",
 "price"
 ],
 [
 "性格",
-0,
 4,
 "xìnggé",
 "nature; personality; temperament"
 ],
 [
 "严格",
-0,
 4,
 "yángé",
 "strict; stringent; tight"
 ],
 [
 "风格",
-0,
 5,
 "fēnggé",
 "style"
 ],
 [
 "格外",
-0,
 5,
 "géwài",
 "especially; additionally"
 ],
 [
 "及格",
-0,
 5,
 "jí gé",
 "pass an exam"
 ],
 [
 "资格",
-0,
 5,
 "zīgé",
 "qualifications; seniority"
 ],
 [
 "格局",
-0,
 6,
 "géjú",
 "structure; pattern"
 ],
 [
 "格式",
-0,
 6,
 "géshì",
 "form; specification; format"
 ],
 [
 "规格",
-0,
 6,
 "guīgé",
 "standard; norm; specification"
 ],
 [
 "人格",
-0,
 6,
 "réngé",
 "personality; moral integrity; character"
+]
+],
+"extraWords": [
+[
+"格",
+1543,
+"ge1/ge2",
+"square; frame; rule; (legal) case; style; character; standard; pattern; (classical) to obstruct; to hinder; (classical) to arrive; to come; (classical) to investigate; to study exhaustively"
+],
+[
+"苏格兰",
+3168,
+"Su1 ge2 lan2",
+"Scotland"
+],
+[
+"英格兰",
+5133,
+"Ying1 ge2 lan2",
+"England"
+],
+[
+"格林",
+6321,
+"Ge2 lin2",
+"Green or Greene (name)"
+],
+[
+"布拉格",
+6949,
+"Bu4 la1 ge2",
+"\"Prague, capital of Czech Republic\""
+],
+[
+"格斗",
+7309,
+"ge2 dou4",
+"to wrestle"
+],
+[
+"格兰特",
+7828,
+"Ge2 lan2 te4",
+"Grant (name)"
+],
+[
+"玛格丽特",
+8307,
+"Ma3 ge2 li4 te4",
+"Margaret (name)"
+],
+[
+"克格勃",
+9519,
+"ke4 ge2 bo2",
+"KGB (Soviet secret police)"
+],
+[
+"巴格达",
+9886,
+"Ba1 ge2 da2",
+"\"Baghdad, capital of Iraq\""
 ]
 ],
 "strokes": [

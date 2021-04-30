@@ -8,45 +8,101 @@
 "words": [
 [
 "政府",
-0,
 5,
 "zhèngfǔ",
 "government"
 ],
 [
 "政治",
-0,
 5,
 "zhèngzhì",
 "politics"
 ],
 [
 "财政",
-0,
 6,
 "cáizhèng",
 "public finances; financial"
 ],
 [
 "行政",
-0,
 6,
 "xíngzhèng",
 "administration; administrative"
 ],
 [
 "政策",
-0,
 6,
 "zhèngcè",
 "policy"
 ],
 [
 "政权",
-0,
 6,
 "zhèngquán",
 "regime; political power; authority"
+]
+],
+"extraWords": [
+[
+"政客",
+6868,
+"zheng4 ke4",
+"politician"
+],
+[
+"市政厅",
+9272,
+"shi4 zheng4 ting1",
+"city hall"
+],
+[
+"政治家",
+9280,
+"zheng4 zhi4 jia1",
+"statesman; politician"
+],
+[
+"市政府",
+10435,
+"shi4 zheng4 fu3",
+"city hall; city government"
+],
+[
+"执政官",
+10769,
+"zhi2 zheng4 guan1",
+"consulate"
+],
+[
+"市政",
+11524,
+"shi4 zheng4",
+"municipal"
+],
+[
+"政变",
+12270,
+"zheng4 bian4",
+"coup d'état"
+],
+[
+"家政",
+14687,
+"jia1 zheng4",
+"housekeeping"
+],
+[
+"政",
+14706,
+"zheng4",
+"political; politics; government"
+],
+[
+"财政部",
+15168,
+"cai2 zheng4 bu4",
+"Ministry of Finance"
 ]
 ],
 "strokes": [

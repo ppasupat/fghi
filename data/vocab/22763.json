@@ -8,52 +8,107 @@
 "words": [
 [
 "博士",
-0,
 4,
 "bóshì",
 "doctor; PhD"
 ],
 [
 "护士",
-0,
 4,
 "hùshi",
 "nurse"
 ],
 [
 "硕士",
-0,
 4,
 "shuòshì",
 "Master's degree (M.A.)"
 ],
 [
 "女士",
-0,
 5,
 "nǚshì",
 "lady; madam"
 ],
 [
 "士兵",
-0,
 5,
 "shìbīng",
 "soldier"
 ],
 [
 "人士",
-0,
 6,
 "rénshì",
 "person; public figure"
 ],
 [
 "绅士",
-0,
 6,
 "shēnshì",
 "gentleman"
+]
+],
+"extraWords": [
+[
+"爵士",
+2320,
+"jue2 shi4",
+"knight; Sir; Jazz"
+],
+[
+"骑士",
+2497,
+"qi2 shi4",
+"horseman; cavalryman; knight (i.e. European nobility)"
+],
+[
+"战士",
+2749,
+"zhan4 shi4",
+"fighter; soldier; warrior"
+],
+[
+"士",
+2782,
+"shi4",
+"scholar; warrior; knight"
+],
+[
+"威士忌",
+3003,
+"wei1 shi4 ji4",
+"whisky"
+],
+[
+"波士顿",
+3258,
+"Bo1 shi4 dun4",
+"\"Boston, capital of Massachusetts\""
+],
+[
+"武士",
+4141,
+"wu3 shi4",
+"warrior; samurai"
+],
+[
+"巴士",
+4401,
+"ba1 shi4",
+"bus; motor coach"
+],
+[
+"勇士",
+4584,
+"yong3 shi4",
+"a warrior; a brave person"
+],
+[
+"瑞士",
+5411,
+"Rui4 shi4",
+"Switzerland"
 ]
 ],
 "strokes": [

@@ -8,87 +8,137 @@
 "words": [
 [
 "告诉",
-0,
 2,
 "gàosu",
 "to tell; inform"
 ],
 [
 "广告",
-0,
 4,
 "guǎnggào",
 "advertisement; a commercial"
 ],
 [
 "报告",
-0,
 5,
 "bàogào",
 "to report; make known; inform; speech; lecture"
 ],
 [
 "告别",
-0,
 5,
 "gàobié",
 "say goodbye to; to leave; to part"
 ],
 [
 "转告",
-0,
 5,
 "zhuǎngào",
 "pass on; to communicate; to transmit"
 ],
 [
 "被告",
-0,
 6,
 "bèigào",
 "defendant"
 ],
 [
 "布告",
-0,
 6,
 "bùgào",
 "notice; bulletin"
 ],
 [
 "告辞",
-0,
 6,
 "gàocí",
 "take leave; bid farewell"
 ],
 [
 "告诫",
-0,
 6,
 "gàojiè",
 "warn; admonish"
 ],
 [
 "公告",
-0,
 6,
 "gōnggào",
 "post; announcement"
 ],
 [
 "警告",
-0,
 6,
 "jǐnggào",
 "to warn; admonish"
 ],
 [
 "原告",
-0,
 6,
 "yuángào",
 "plaintiff; complainant; accuser"
+]
+],
+"extraWords": [
+[
+"告",
+2619,
+"gao4",
+"to tell; to inform; to say"
+],
+[
+"控告",
+4464,
+"kong4 gao4",
+"accuse; charge; sue"
+],
+[
+"祷告",
+4493,
+"dao3 gao4",
+"to pray; prayer"
+],
+[
+"告知",
+4572,
+"gao4 zhi1",
+"to inform"
+],
+[
+"通告",
+6877,
+"tong1 gao4",
+"to announce; to give notice"
+],
+[
+"忠告",
+7237,
+"zhong1 gao4",
+"advice; advise"
+],
+[
+"预告",
+7633,
+"yu4 gao4",
+"advance notice; herald"
+],
+[
+"告密",
+7852,
+"gao4 mi4",
+"to inform against sb"
+],
+[
+"被告人",
+7998,
+"bei4 gao4 ren2",
+"defendant (in legal case)"
+],
+[
+"无可奉告",
+8733,
+"wu2 ke3 feng4 gao4",
+"\"(idiom) \"\"no comment\"\"\""
 ]
 ],
 "strokes": [

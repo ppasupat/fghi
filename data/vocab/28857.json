@@ -8,108 +8,155 @@
 "words": [
 [
 "点",
-0,
 1,
 "diǎn",
 "a dot; a little; o'clock"
 ],
 [
 "一点儿",
-0,
 1,
 "yìdiǎnr",
 "a bit; a few"
 ],
 [
 "地点",
-0,
 4,
 "dìdiǎn",
 "place; site; location"
 ],
 [
 "缺点",
-0,
 4,
 "quēdiǎn",
 "weak point; defect; fault; shortcoming"
 ],
 [
 "特点",
-0,
 4,
 "tèdiǎn",
 "a characteristic; trait; feature"
 ],
 [
 "优点",
-0,
 4,
 "yōudiǎn",
 "merit; good point; a strength; a benefit"
 ],
 [
 "重点",
-0,
 4,
 "zhòngdiǎn",
 "emphasis; main point"
 ],
 [
 "标点",
-0,
 5,
 "biāodiǎn",
 "punctuation; punctuation mark; punctuate"
 ],
 [
 "点心",
-0,
 5,
 "diǎnxin",
 "dim sum; light refreshments; snacks"
 ],
 [
 "观点",
-0,
 5,
 "guāndiǎn",
 "point of view; standpoint"
 ],
 [
 "点缀",
-0,
 6,
 "diǎnzhuì",
 "decorate; an ornament; beautify; embellish; be the finishing touch"
 ],
 [
 "焦点",
-0,
 6,
 "jiāodiǎn",
 "focus; focal point"
 ],
 [
 "弱点",
-0,
 6,
 "ruòdiǎn",
 "weak point; failing"
 ],
 [
 "要点",
-0,
 6,
 "yàodiǎn",
 "main point; essential"
 ],
 [
 "终点",
-0,
 6,
 "zhōngdiǎn",
 "the end; end point; destination; finish line (in a race)"
+]
+],
+"extraWords": [
+[
+"一点",
+202,
+"yi1 dian3",
+"a bit; a little; one dot; one point"
+],
+[
+"有点",
+564,
+"you3 dian3",
+"a little"
+],
+[
+"点儿",
+707,
+"dian3 r5",
+"\"erhua variant of 点, point; dot; speck; drop; little bit\""
+],
+[
+"差点",
+1250,
+"cha4 dian3",
+"not quite; not good enough; almost; barely; a bit different; just about to; nearly starting; on the verge of"
+],
+[
+"晚点",
+3207,
+"wan3 dian3",
+"late; delayed; a little later; behind schedule"
+],
+[
+"点子",
+3506,
+"dian3 zi5",
+"spot; point; dot; speck; drop (of liquid); droplet; point (of argument); idea; crux; indication; pointer"
+],
+[
+"早点",
+3852,
+"zao3 dian3",
+"light breakfast"
+],
+[
+"共同点",
+4852,
+"gong4 tong2 dian3",
+"common ground"
+],
+[
+"点燃",
+5546,
+"dian3 ran2",
+"to ignite; to set on fire; aflame"
+],
+[
+"点火",
+6785,
+"dian3 huo3",
+"to ignite; to light a fire; to agitate; to start an engine; ignition; fig. to stir up trouble"
 ]
 ],
 "strokes": [

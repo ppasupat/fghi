@@ -8,122 +8,167 @@
 "words": [
 [
 "关于",
-0,
 3,
 "guānyú",
 "about; regarding; concerning"
 ],
 [
 "终于",
-0,
 3,
 "zhōngyú",
 "at last; in the end; finally"
 ],
 [
 "对于",
-0,
 4,
 "duìyú",
 "regarding; as far as sth. is concerned; with regards to; for"
 ],
 [
 "由于",
-0,
 4,
 "yóuyú",
 "due to; owing to; as a result of; thanks to"
 ],
 [
 "于是",
-0,
 4,
 "yúshì",
 "as a result; thus; therefore"
 ],
 [
 "等于",
-0,
 5,
 "děngyú",
 "(Mathematics) equal to"
 ],
 [
 "善于",
-0,
 5,
 "shànyú",
 "be good at; excel at"
 ],
 [
 "属于",
-0,
 5,
 "shǔyú",
 "belong to; be part of"
 ],
 [
 "位于",
-0,
 5,
 "wèiyú",
 "be located at"
 ],
 [
 "在于",
-0,
 5,
 "zàiyú",
 "lie in; be in; rest with; depend on"
 ],
 [
 "至于",
-0,
 5,
 "zhìyú",
 "as for; go so far as to"
 ],
 [
 "便于",
-0,
 6,
 "biànyú",
 "be easy; be convenient for"
 ],
 [
 "过于",
-0,
 6,
 "guòyú",
 "too much; excessively"
 ],
 [
 "急于求成",
-0,
 6,
 "jíyúqiúchéng",
 "impatient for success"
 ],
 [
 "鉴于",
-0,
 6,
 "jiànyú",
 "in light of; in view of; seeing that"
 ],
 [
 "无动于衷",
-0,
 6,
 "wúdòngyúzhōng",
 "aloof; indifferent; unconcerned; untouched"
 ],
 [
 "勇于",
-0,
 6,
 "yǒngyú",
 "have the courage to; be brave enough"
+]
+],
+"extraWords": [
+[
+"于",
+392,
+"yu2",
+"in; at; to; from; by; than; out of; surname Yu"
+],
+[
+"处于",
+2251,
+"chu3 yu2",
+"\"be (in some state, position, or condition)\""
+],
+[
+"出于",
+2828,
+"chu1 yu2",
+"due to; to stem from"
+],
+[
+"基于",
+4057,
+"ji1 yu2",
+"because of; on the basis of; in view of; on account of"
+],
+[
+"用于",
+4719,
+"yong4 yu2",
+"use in; use on; use for"
+],
+[
+"以至于",
+6793,
+"yi3 zhi4 yu2",
+"down to; up to; to the extent that..."
+],
+[
+"不至于",
+6902,
+"bu4 zhi4 yu2",
+"cannot go so far; be unlikely"
+],
+[
+"置于",
+7710,
+"zhi4 yu2",
+"place; put (at or in a position)"
+],
+[
+"有助于",
+8108,
+"you3 zhu4 yu2",
+"to contribute to; to promote"
+],
+[
+"忠于",
+8621,
+"zhong1 yu2",
+"loyal to"
 ]
 ],
 "strokes": [

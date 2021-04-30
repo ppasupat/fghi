@@ -8,115 +8,161 @@
 "words": [
 [
 "同学",
-0,
 1,
 "tóngxué",
 "fellow student; schoolmate"
 ],
 [
 "学生",
-0,
 1,
 "xuésheng",
 "student"
 ],
 [
 "学习",
-0,
 1,
 "xuéxí",
 "learn; to study"
 ],
 [
 "学校",
-0,
 1,
 "xuéxiào",
 "school"
 ],
 [
 "留学",
-0,
 3,
 "liúxué",
 "study abroad"
 ],
 [
 "数学",
-0,
 3,
 "shùxué",
 "mathematics"
 ],
 [
 "科学",
-0,
 4,
 "kēxué",
 "science; scientific knowledge"
 ],
 [
 "学期",
-0,
 4,
 "xuéqī",
 "semester; school term"
 ],
 [
 "化学",
-0,
 5,
 "huàxué",
 "chemistry"
 ],
 [
 "文学",
-0,
 5,
 "wénxué",
 "literature"
 ],
 [
 "学历",
-0,
 5,
 "xuélì",
 "educational background; school record"
 ],
 [
 "学术",
-0,
 5,
 "xuéshù",
 "learning; science; academic"
 ],
 [
 "学问",
-0,
 5,
 "xuéwen",
 "learning; knowledge"
 ],
 [
 "哲学",
-0,
 5,
 "zhéxué",
 "philosophy"
 ],
 [
 "学说",
-0,
 6,
 "xuéshuō",
 "theory; doctrine"
 ],
 [
 "学位",
-0,
 6,
 "xuéwèi",
 "academic degree; educational level"
+]
+],
+"extraWords": [
+[
+"学",
+543,
+"xue2",
+"learn; study; science; -ology"
+],
+[
+"大学",
+711,
+"da4 xue2",
+"university"
+],
+[
+"上学",
+2030,
+"shang4 xue2",
+"to go to school; to attend school"
+],
+[
+"学会",
+2180,
+"xue2 hui4",
+"to learn; to master; institute; learned society; (scholarly) association"
+],
+[
+"学院",
+2629,
+"xue2 yuan4",
+"college; educational institute; school; faculty"
+],
+[
+"科学家",
+2912,
+"ke1 xue2 jia1",
+"scientist"
+],
+[
+"医学",
+3195,
+"yi1 xue2",
+"medicine; medical science; study of medicine"
+],
+[
+"放学",
+4498,
+"fang4 xue2",
+"classes are over"
+],
+[
+"奖学金",
+4716,
+"jiang3 xue2 jin1",
+"scholarship"
+],
+[
+"中学",
+4834,
+"zhong1 xue2",
+"middle school"
 ]
 ],
 "strokes": [

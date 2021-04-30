@@ -8,171 +8,209 @@
 "words": [
 [
 "手表",
-0,
 2,
 "shǒubiǎo",
 "wristwatch"
 ],
 [
 "手机",
-0,
 2,
 "shǒujī",
 "mobile (cell) phone"
 ],
 [
 "洗手间",
-0,
 3,
 "xǐshǒujiān",
 "toilet; lavatory; washroom"
 ],
 [
 "对手",
-0,
 5,
 "duìshǒu",
 "opponent; adversary; match"
 ],
 [
 "分手",
-0,
 5,
 "fēnshǒu",
 "part company; break up"
 ],
 [
 "手工",
-0,
 5,
 "shǒugōng",
 "hand-made; handicraft; manual"
 ],
 [
 "手术",
-0,
 5,
 "shǒushù",
 "surgery; operation"
 ],
 [
 "手套",
-0,
 5,
 "shǒutào",
 "glove; mitten"
 ],
 [
 "手续",
-0,
 5,
 "shǒuxù",
 "formalities; procedure"
 ],
 [
 "手指",
-0,
 5,
 "shǒuzhǐ",
 "finger"
 ],
 [
 "随手",
-0,
 5,
 "suíshǒu",
 "convenient; without extra trouble"
 ],
 [
 "握手",
-0,
 5,
 "wò shǒu",
 "to shake hands"
 ],
 [
 "爱不释手",
-0,
 6,
 "àibúshìshǒu",
 "love something too much to part with it"
 ],
 [
 "把手",
-0,
 6,
 "bǎshou",
 "knob; handle; grip"
 ],
 [
 "不择手段",
-0,
 6,
 "bùzéshǒuduàn",
 "by fair means or foul"
 ],
 [
 "动手",
-0,
 6,
 "dòngshǒu",
 "get to work; to touch; strike a blow"
 ],
 [
 "拿手",
-0,
 6,
 "náshǒu",
 "good at; adept"
 ],
 [
 "手法",
-0,
 6,
 "shǒufǎ",
 "technique; trick; skill; tact"
 ],
 [
 "手势",
-0,
 6,
 "shǒushì",
 "gesture; sign; signal"
 ],
 [
 "手艺",
-0,
 6,
 "shǒuyì",
 "craft; workmanship; one's cooking"
 ],
 [
 "凶手",
-0,
 6,
 "xiōngshǒu",
 "murderer; assassin; assailant"
 ],
 [
 "选手",
-0,
 6,
 "xuǎnshǒu",
 "athlete; contestant; player"
 ],
 [
 "助手",
-0,
 6,
 "zhùshǒu",
 "assistant; helper"
 ],
 [
 "着手",
-0,
 6,
 "zhuóshǒu",
 "put one's hand to; commence"
+]
+],
+"extraWords": [
+[
+"手",
+251,
+"shou3",
+"hand; (formal) to hold; person engaged in certain types of work; person skilled in certain types of work; personal(ly); convenient"
+],
+[
+"杀手",
+1144,
+"sha1 shou3",
+"killer"
+],
+[
+"住手",
+1479,
+"zhu4 shou3",
+"to desist; to stop; to stay one's hand"
+],
+[
+"手里",
+1704,
+"shou3 li3",
+"in hand; (a situation is) in sb's hands"
+],
+[
+"歌手",
+1870,
+"ge1 shou3",
+"singer"
+],
+[
+"放手",
+2213,
+"fang4 shou3",
+"let go; have a free hand; let go one's hold"
+],
+[
+"手段",
+2443,
+"shou3 duan4",
+"method; means (of doing sth); strategy; trick"
+],
+[
+"手臂",
+2769,
+"shou3 bi4",
+"arm; helper"
+],
+[
+"手下",
+2967,
+"shou3 xia4",
+"leadership; under one's control or administration; subordinates; to take action; to run out of money"
+],
+[
+"下手",
+3203,
+"xia4 shou3",
+"start; put one's hand to; set about; the seat to the right of the main guest"
 ]
 ],
 "strokes": [

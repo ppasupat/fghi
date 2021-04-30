@@ -8,24 +8,83 @@
 "words": [
 [
 "高速公路",
-0,
 4,
 "gāosù gōnglù",
 "highway"
 ],
 [
 "速度",
-0,
 4,
 "sùdù",
 "speed; rate; velocity"
 ],
 [
 "迅速",
-0,
 5,
 "xùnsù",
 "fast; quick; rapid"
+]
+],
+"extraWords": [
+[
+"快速",
+3244,
+"kuai4 su4",
+"fast; high-speed; rapid"
+],
+[
+"速",
+3884,
+"su4",
+"fast; rapid; quick"
+],
+[
+"加速",
+4121,
+"jia1 su4",
+"accelerate; expedite"
+],
+[
+"高速",
+4710,
+"gao1 su4",
+"high speed"
+],
+[
+"减速",
+6578,
+"jian3 su4",
+"to reduce speed; to slow down; to take it easy"
+],
+[
+"时速",
+7307,
+"shi2 su4",
+"speed per hour"
+],
+[
+"光速",
+8267,
+"guang1 su4",
+"the speed of light"
+],
+[
+"高速路",
+9004,
+"gao1 su4 lu4",
+"highway; expressway; also 高速公路"
+],
+[
+"超速",
+9038,
+"chao1 su4",
+"to exceed the speed limit; to speed; high-speed"
+],
+[
+"全速",
+9751,
+"quan2 su4",
+"top speed; at full speed"
 ]
 ],
 "strokes": [

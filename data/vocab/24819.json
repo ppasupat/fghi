@@ -8,101 +8,149 @@
 "words": [
 [
 "想",
-0,
 1,
 "xiǎng",
 "think; believe; suppose; would like to"
 ],
 [
 "理想",
-0,
 4,
 "lǐxiǎng",
 "ideal"
 ],
 [
 "感想",
-0,
 5,
 "gǎnxiǎng",
 "impressions; reflections; thoughts"
 ],
 [
 "幻想",
-0,
 5,
 "huànxiǎng",
 "delusion; fantasy; illusion"
 ],
 [
 "梦想",
-0,
 5,
 "mèngxiǎng",
 "dream of; wishful thinking"
 ],
 [
 "思想",
-0,
 5,
 "sīxiǎng",
 "thought; thinking; idea; ideology"
 ],
 [
 "想念",
-0,
 5,
 "xiǎngniàn",
 "to miss; remember with longing; long to see again"
 ],
 [
 "想象",
-0,
 5,
 "xiǎngxiàng",
 "imagine; visualize"
 ],
 [
 "空想",
-0,
 6,
 "kōngxiǎng",
 "daydream; fantasy"
 ],
 [
 "联想",
-0,
 6,
 "liánxiǎng",
 "to associate (cognitively); to make an associative connection; mental association; word prediction and auto-complete functions of input method editing programs; abbr. for 联想集团 Lenovo Group (PRC computer firm)"
 ],
 [
 "设想",
-0,
 6,
 "shèxiǎng",
 "imagine; consider; tentative plan"
 ],
 [
 "妄想",
-0,
 6,
 "wàngxiǎng",
 "vainly hope; wishful thinking; delusion"
 ],
 [
 "想方设法",
-0,
 6,
 "xiǎng fāng shè fǎ",
 "(saying) think of or try every possible method; by all means possible"
 ],
 [
 "着想",
-0,
 6,
 "zhuóxiǎng",
 "give consideration to; consider (other people's) needs"
+]
+],
+"extraWords": [
+[
+"想到",
+630,
+"xiang3 dao4",
+"to think of; to call to mind; to anticipate"
+],
+[
+"想法",
+693,
+"xiang3 fa3",
+"idea; train of thought; what sb is thinking; to think of a way (to do sth)"
+],
+[
+"想想",
+919,
+"xiang3 xiang5",
+"to have a think about it; recall..."
+],
+[
+"想起",
+1487,
+"xiang3 qi3",
+"to recall; to think of; to call to mind"
+],
+[
+"想像",
+4797,
+"xiang3 xiang4",
+"imagine; visualize"
+],
+[
+"回想",
+4911,
+"hui2 xiang3",
+"recall; recollect; think back"
+],
+[
+"想不到",
+5096,
+"xiang3 bu5 dao4",
+"unexpected; hard to imagine; it had not occurred to me; who could have thought that"
+],
+[
+"猜想",
+6167,
+"cai1 xiang3",
+"guess; conjecture; suppose; suspect"
+],
+[
+"休想",
+6655,
+"xiu1 xiang3",
+"don't think (that)"
+],
+[
+"想象力",
+7040,
+"xiang3 xiang4 li4",
+"imagination"
 ]
 ],
 "strokes": [

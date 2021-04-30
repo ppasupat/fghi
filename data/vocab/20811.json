@@ -8,45 +8,101 @@
 "words": [
 [
 "巧克力",
-0,
 4,
 "qiǎokèlì",
 "chocolate"
 ],
 [
 "克",
-0,
 5,
 "kè",
 "gram; overcome; restrain"
 ],
 [
 "克服",
-0,
 5,
 "kèfú",
 "overcome (hardships, etc.); conquer"
 ],
 [
 "麦克风",
-0,
 5,
 "màikèfēng",
 "microphone"
 ],
 [
 "攻克",
-0,
 6,
 "gōngkè",
 "to capture; to take"
 ],
 [
 "克制",
-0,
 6,
 "kèzhì",
 "restrain; take a firm hold on"
+]
+],
+"extraWords": [
+[
+"麦克",
+1982,
+"mai4 ke4",
+"Mike (a person's name)"
+],
+[
+"弗兰克",
+2036,
+"Fu2 lan2 ke4",
+"Frank (name)"
+],
+[
+"尼克",
+2830,
+"Ni2 ke4",
+"Nick (name)"
+],
+[
+"伊拉克",
+2957,
+"Yi1 la1 ke4",
+"Iraq"
+],
+[
+"马克",
+2970,
+"Ma3 ke4",
+"Mark (name)"
+],
+[
+"夹克",
+3746,
+"jia1 ke4",
+"jacket (loan word)"
+],
+[
+"迪克",
+4581,
+"Di2 ke4",
+"Dick (person name)"
+],
+[
+"德克萨斯",
+4690,
+"De2 ke4 sa4 si1",
+"Texas"
+],
+[
+"布鲁克林",
+4954,
+"bu4 lu3 ke4 lin2",
+"\"Brooklyn, borough of New York City; Brooklyn, one of the five boroughs of New York City\""
+],
+[
+"扑克",
+5270,
+"pu1 ke4",
+"poker (game); deck of playing cards"
 ]
 ],
 "strokes": [

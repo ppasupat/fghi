@@ -8,38 +8,95 @@
 "words": [
 [
 "残疾",
-0,
 6,
 "cánji",
 "deformity; handicapped; crippled"
 ],
 [
 "残酷",
-0,
 6,
 "cánkù",
 "cruel"
 ],
 [
 "残留",
-0,
 6,
 "cánliú",
 "to remain; be left over; surplus; remnant"
 ],
 [
 "残忍",
-0,
 6,
 "cánrěn",
 "brutal; bloody; merciless"
 ],
 [
 "摧残",
-0,
 6,
 "cuīcán",
 "to ruin; devastate; vandalize"
+]
+],
+"extraWords": [
+[
+"残",
+5785,
+"can2",
+"to destroy; to spoil; to ruin; to injure; cruel; oppressive; savage; brutal; incomplete; disabled; to remain; to survive; remnant; surplus"
+],
+[
+"残骸",
+8019,
+"can2 hai2",
+"remains; wreckage"
+],
+[
+"残暴",
+9819,
+"can2 bao4",
+"bloody and cruel; a brutal person; to massacre; an atrocity"
+],
+[
+"残疾人",
+10198,
+"can2 ji2 ren2",
+"disabled person"
+],
+[
+"残杀",
+10247,
+"can2 sha1",
+"massacre"
+],
+[
+"残局",
+10299,
+"can2 ju2",
+"endgame (in chess); desperate situation; aftermath (of a failure)"
+],
+[
+"残废",
+10845,
+"can2 fei4",
+"deformity; handicapped"
+],
+[
+"凶残",
+11637,
+"xiong1 can2",
+"savage; savage; cruel; fierce"
+],
+[
+"自相残杀",
+12713,
+"zi4 xiang1 can2 sha1",
+"to massacre one another (idiom); internecine strife"
+],
+[
+"残余",
+12785,
+"can2 yu2",
+"remnant; relic; residue; vestige; surplus; to remain; to leave surplus"
 ]
 ],
 "strokes": [

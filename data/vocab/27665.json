@@ -8,73 +8,125 @@
 "words": [
 [
 "民族",
-0,
 4,
 "mínzú",
 "nationality; ethnic group"
 ],
 [
 "农民",
-0,
 5,
 "nóngmín",
 "peasant"
 ],
 [
 "人民币",
-0,
 5,
 "rénmínbì",
 "(currency) renminbi (RMB)"
 ],
 [
 "移民",
-0,
 5,
 "yímín",
 "immigrate; emigrate; migrate"
 ],
 [
 "公民",
-0,
 6,
 "gōngmín",
 "citizen"
 ],
 [
 "居民",
-0,
 6,
 "jūmín",
 "resident; inhabitant"
 ],
 [
 "民间",
-0,
 6,
 "mínjiān",
 "among the people; popular; folk"
 ],
 [
 "民主",
-0,
 6,
 "mínzhǔ",
 "democracy"
 ],
 [
 "渔民",
-0,
 6,
 "yúmín",
 "fisherman; fisher folk"
 ],
 [
 "殖民地",
-0,
 6,
 "zhímíndì",
 "colony"
+]
+],
+"extraWords": [
+[
+"人民",
+1638,
+"ren2 min2",
+"the people"
+],
+[
+"民",
+3887,
+"min2",
+"the people; nationality; citizen"
+],
+[
+"平民",
+4287,
+"ping2 min2",
+"ordinary people; commoner; civilian"
+],
+[
+"市民",
+4529,
+"shi4 min2",
+"city resident"
+],
+[
+"民众",
+5162,
+"min2 zhong4",
+"populace; masses; the people"
+],
+[
+"国民",
+6862,
+"guo2 min2",
+"national"
+],
+[
+"民主党",
+7555,
+"Min2 zhu3 dang3",
+"Democratic Party"
+],
+[
+"难民",
+8175,
+"nan4 min2",
+"refugee"
+],
+[
+"选民",
+8476,
+"xuan3 min2",
+"voter; chosen people"
+],
+[
+"民事",
+8532,
+"min2 shi4",
+"civil case; agricultural affairs; civil"
 ]
 ],
 "strokes": [

@@ -8,31 +8,89 @@
 "words": [
 [
 "季节",
-0,
 3,
 "jìjié",
 "season; time; period"
 ],
 [
 "淡季",
-0,
 6,
 "dànjì",
 "off season; slow business season"
 ],
 [
 "季度",
-0,
 6,
 "jìdù",
 "(financial) quarter; period of three months"
 ],
 [
 "季军",
-0,
 6,
 "jìjūn",
 "third in a race; bronze medalist"
+]
+],
+"extraWords": [
+[
+"季",
+652,
+"ji4",
+"season; period; surname Ji"
+],
+[
+"夏季",
+8977,
+"xia4 ji4",
+"summer"
+],
+[
+"冬季",
+10175,
+"dong1 ji4",
+"winter"
+],
+[
+"秋季",
+10209,
+"qiu1 ji4",
+"autumn; fall semester"
+],
+[
+"春季",
+10996,
+"chun1 ji4",
+"springtime"
+],
+[
+"四季",
+14194,
+"si4 ji4",
+"\"four seasons, namely: spring 春, summer 夏, autumn 秋 and winter 冬\""
+],
+[
+"雨季",
+16055,
+"yu3 ji4",
+"rainy season"
+],
+[
+"季风",
+25535,
+"ji4 feng1",
+"monsoon"
+],
+[
+"季节性",
+27964,
+"ji4 jie2 xing4",
+"seasonal"
+],
+[
+"旺季",
+29535,
+"wang4 ji4",
+"busy season; peak period"
 ]
 ],
 "strokes": [

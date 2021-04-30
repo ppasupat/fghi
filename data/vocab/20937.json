@@ -8,31 +8,89 @@
 "words": [
 [
 "凉快",
-0,
 4,
 "liángkuai",
 "nice and cool; pleasantly cool"
 ],
 [
 "着凉",
-0,
 5,
 "zháo liáng",
 "catch a cold"
 ],
 [
 "荒凉",
-0,
 6,
 "huāngliáng",
 "desolate"
 ],
 [
 "凄凉",
-0,
 6,
 "qīliáng",
 "desolate; feel like no one likes you"
+]
+],
+"extraWords": [
+[
+"凉",
+4511,
+"liang2/liang4",
+"\"cool; cold; the five Liang of the Sixteen Kingdoms, namely: Former Liang 前凉 (314-376), Later Liang 后凉 (386-403), Northern Liang 北凉 (398-439), Southern Liang 南凉 (397-414), Western Liang 西凉 (400-421)\""
+],
+[
+"凉爽",
+16574,
+"liang2 shuang3",
+"cool and refreshing"
+],
+[
+"凉鞋",
+16575,
+"liang2 xie2",
+"sandal"
+],
+[
+"冰凉",
+17936,
+"bing1 liang2",
+"ice-cold"
+],
+[
+"凉拌",
+27208,
+"liang2 ban4",
+"salad with dressing; cold vegetables dressed with sauce (e.g. cole slaw)"
+],
+[
+"凉亭",
+27848,
+"liang2 ting2",
+"pavilion"
+],
+[
+"凉水",
+30036,
+"liang2 shui3",
+"cool water; unboiled water"
+],
+[
+"阴凉",
+32671,
+"yin1 liang2",
+"shady"
+],
+[
+"风凉话",
+32700,
+"feng1 liang2 hua4",
+"sneering; sarcasm; cynical remarks"
+],
+[
+"乘凉",
+42137,
+"cheng2 liang2",
+"to cool off in the shade"
 ]
 ],
 "strokes": [

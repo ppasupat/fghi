@@ -8,108 +8,155 @@
 "words": [
 [
 "空调",
-0,
 3,
 "kōngtiáo",
 "air conditioning"
 ],
 [
 "空",
-0,
 4,
 "kōng, kòng",
 "empty; sky | leave blank; leisure"
 ],
 [
 "空气",
-0,
 4,
 "kōngqì",
 "air"
 ],
 [
 "填空",
-0,
 4,
 "tiánkòng",
 "fill in the blanks; fill a vacancy"
 ],
 [
 "空间",
-0,
 5,
 "kōngjiān",
 "space"
 ],
 [
 "空闲",
-0,
 5,
 "kòngxián",
 "leisure; free time; idle; unused"
 ],
 [
 "天空",
-0,
 5,
 "tiānkōng",
 "sky; space; heavens"
 ],
 [
 "航空",
-0,
 6,
 "hángkōng",
 "aviation"
 ],
 [
 "空洞",
-0,
 6,
 "kōngdòng",
 "empty; hollow; vacuous; devoid of content"
 ],
 [
 "空前绝后",
-0,
 6,
 "kōngqiánjuéhòu",
 "unprecedented and unrepeatable; never to be reduplicated; the first and the last; unmatched; unique"
 ],
 [
 "空想",
-0,
 6,
 "kōngxiǎng",
 "daydream; fantasy"
 ],
 [
 "空虚",
-0,
 6,
 "kōngxū",
 "hollow; emptiness; meaningless"
 ],
 [
 "空白",
-0,
 6,
 "kòngbái",
 "blank space; blank"
 ],
 [
 "空隙",
-0,
 6,
 "kòngxì",
 "crack; gap between two objects"
 ],
 [
 "太空",
-0,
 6,
 "tàikōng",
 "outer space"
+]
+],
+"extraWords": [
+[
+"有空",
+2774,
+"you3 kong4",
+"to have time (to do sth)"
+],
+[
+"空中",
+3095,
+"kong1 zhong1",
+"in the sky; in the air"
+],
+[
+"空军",
+4254,
+"kong1 jun1",
+"air force"
+],
+[
+"时空",
+4484,
+"shi2 kong1",
+"space-time (in relativity)"
+],
+[
+"空手",
+6479,
+"kong1 shou3",
+"empty-handed; unarmed; karate"
+],
+[
+"太空船",
+7908,
+"tai4 kong1 chuan2",
+"spaceship"
+],
+[
+"上空",
+8060,
+"shang4 kong1",
+"overhead; in the sky"
+],
+[
+"凭空",
+9107,
+"ping2 kong1",
+"baseless (lie); without foundation"
+],
+[
+"空地",
+9134,
+"kong4 di4",
+"vacant land; open space"
+],
+[
+"空姐",
+9374,
+"kong1 jie3",
+"abbr. for 空中小姐; stewardess; air hostess; female flight attendant"
 ]
 ],
 "strokes": [

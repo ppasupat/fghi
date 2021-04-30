@@ -8,73 +8,125 @@
 "words": [
 [
 "商店",
-0,
 1,
 "shāngdiàn",
 "shop; store"
 ],
 [
 "商量",
-0,
 4,
 "shāngliang",
 "consult; talk over; discuss"
 ],
 [
 "经商",
-0,
 5,
 "jīng shāng",
 "trade; be in business; do commerce"
 ],
 [
 "商品",
-0,
 5,
 "shāngpǐn",
 "goods; commodity; merchandise"
 ],
 [
 "商务",
-0,
 5,
 "shāngwù",
 "business; commercial affairs"
 ],
 [
 "商业",
-0,
 5,
 "shāngyè",
 "business; commerce; trade"
 ],
 [
 "磋商",
-0,
 6,
 "cuōshāng",
 "discuss seriously; consult; negotiate"
 ],
 [
 "商标",
-0,
 6,
 "shāngbiāo",
 "trademark; logo"
 ],
 [
 "协商",
-0,
 6,
 "xiéshāng",
 "consult with; talk things over"
 ],
 [
 "智商",
-0,
 6,
 "zhìshāng",
 "IQ (intelligence quotient)"
+]
+],
+"extraWords": [
+[
+"商",
+3029,
+"shang1",
+"\"commerce; to consult; quotient; the Shang dynasty, 16th to 11th century BC\""
+],
+[
+"商场",
+4389,
+"shang1 chang3",
+"market; bazaar"
+],
+[
+"商人",
+4754,
+"shang1 ren2",
+"merchant; businessman"
+],
+[
+"制造商",
+9843,
+"zhi4 zao4 shang1",
+"manufacturing company"
+],
+[
+"商讨",
+12113,
+"shang1 tao3",
+"discuss; deliberate"
+],
+[
+"供应商",
+13188,
+"gong1 ying4 shang1",
+"supply trade"
+],
+[
+"商议",
+14070,
+"shang1 yi4",
+"to negotiate; discussion; proposal"
+],
+[
+"开发商",
+15237,
+"kai1 fa1 shang1",
+"\"developer (e.g. real-estate, software etc)\""
+],
+[
+"经销商",
+17246,
+"jing1 xiao1 shang1",
+"dealer; seller; distributor; broker; agency; franchise (i.e. company); retail outlet"
+],
+[
+"商会",
+18158,
+"shang1 hui4",
+"chamber of commerce"
 ]
 ],
 "strokes": [

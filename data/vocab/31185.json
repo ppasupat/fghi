@@ -8,31 +8,89 @@
 "words": [
 [
 "科学",
-0,
 4,
 "kēxué",
 "science; scientific knowledge"
 ],
 [
 "本科",
-0,
 5,
 "běnkē",
 "undergraduate"
 ],
 [
 "内科",
-0,
 5,
 "nèikē",
 "internal medicine"
 ],
 [
 "科目",
-0,
 6,
 "kēmù",
 "(school) subject"
+]
+],
+"extraWords": [
+[
+"科",
+2004,
+"ke1",
+"branch of study; administrative section; division; field; branch; stage directions; family (taxonomy); rules; laws; to mete out (punishment); to levy (taxes etc); to fine sb"
+],
+[
+"科学家",
+2912,
+"ke1 xue2 jia1",
+"scientist"
+],
+[
+"外科",
+3026,
+"wai4 ke1",
+"\"surgery; \"\"external\"\" medicine, i.e. surgical intervention, as opposed to 内科[nei4 ke1] \"\"ternal\"\" treatment by administering drugs; surgical departmentss\""
+],
+[
+"科技",
+3507,
+"ke1 ji4",
+"science and technology"
+],
+[
+"前科",
+4994,
+"qian2 ke1",
+"criminal record; previous convictions"
+],
+[
+"莫斯科",
+5746,
+"Mo4 si1 ke1",
+"\"Moscow, capital of Russia\""
+],
+[
+"迪斯科",
+7610,
+"di2 si5 ke1",
+"disco (dancing)"
+],
+[
+"科幻",
+8537,
+"ke1 huan4",
+"science fiction"
+],
+[
+"科尔",
+9594,
+"Ke1 er3",
+"\"Kohl (name); Helmut Kohl (1930-), German CDU politician, Chancellor 1982-1998\""
+],
+[
+"科罗拉多",
+10620,
+"Ke1 luo2 la1 duo1",
+"Colorado"
 ]
 ],
 "strokes": [

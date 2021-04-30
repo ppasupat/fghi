@@ -8,45 +8,101 @@
 "words": [
 [
 "因为",
-0,
 2,
 "yīnwèi",
 "because"
 ],
 [
 "因此",
-0,
 4,
 "yīncǐ",
 "therefore; thus; that is why; because of this"
 ],
 [
 "原因",
-0,
 4,
 "yuányīn",
 "cause; reason"
 ],
 [
 "因而",
-0,
 5,
 "yīn'ér",
 "therefore; as a result; thus"
 ],
 [
 "因素",
-0,
 5,
 "yīnsù",
 "element; factor"
 ],
 [
 "基因",
-0,
 6,
 "jīyīn",
 "gene"
+]
+],
+"extraWords": [
+[
+"因",
+1035,
+"yin1",
+"cause; reason; because"
+],
+[
+"可卡因",
+3988,
+"ke3 ka3 yin1",
+"cocaine"
+],
+[
+"死因",
+4142,
+"si3 yin1",
+"cause of death"
+],
+[
+"海洛因",
+4868,
+"hai3 luo4 yin1",
+"heroin"
+],
+[
+"因果",
+6442,
+"yin1 guo3",
+"karma; cause and effect"
+],
+[
+"爱因斯坦",
+8560,
+"Ai4 yin1 si1 tan3",
+"\"Albert Einstein (1879-1955), famous Austrian physicist\""
+],
+[
+"咖啡因",
+8616,
+"ka1 fei1 yin1",
+"caffeine"
+],
+[
+"缅因州",
+13256,
+"Mian3 yin1 zhou1",
+"\"Maine, US state\""
+],
+[
+"病因",
+13774,
+"bing4 yin1",
+"cause of disease; pathogen"
+],
+[
+"起因",
+14762,
+"qi3 yin1",
+"cause; a factor (leading to an effect)"
 ]
 ],
 "strokes": [

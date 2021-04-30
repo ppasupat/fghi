@@ -8,31 +8,89 @@
 "words": [
 [
 "似的",
-0,
 5,
 "shìde",
 "seems as if; rather like"
 ],
 [
 "似乎",
-0,
 5,
 "sìhū",
 "it seems; as if; seemingly"
 ],
 [
 "相似",
-0,
 5,
 "xiāngsì",
 "similar; resemble; like"
 ],
 [
 "类似",
-0,
 6,
 "lèisì",
 "similar; analogous"
+]
+],
+"extraWords": [
+[
+"似",
+6961,
+"shi4/si4",
+"to seem; to appear; to resemble; similar; -like; pseudo-"
+],
+[
+"看似",
+10725,
+"kan4 si4",
+"to look as if; to seem"
+],
+[
+"似曾相识",
+12990,
+"si4 ceng2 xiang1 shi2",
+"déjà vu (the experience of seeing exactly the same situation a second time); seemingly familiar; apparently already acquainted"
+],
+[
+"好似",
+21400,
+"hao3 si4",
+"to seem; to be like"
+],
+[
+"近似",
+24362,
+"jin4 si4",
+"similar; about the same as; approximately; approximation"
+],
+[
+"如饥似渴",
+28638,
+"ru2 ji1 si4 ke3",
+"thirsting or hungering for sth"
+],
+[
+"似是而非",
+35242,
+"si4 shi4 er2 fei1",
+"\"lit. seems so, but no (idiom, from Zhuangzi 庄子); apparently correct, but actually wrong; specious\""
+],
+[
+"柔情似水",
+38966,
+"rou2 qing2 si4 shui3",
+"tender and soft as water; deeply attached to sb"
+],
+[
+"相似性",
+41275,
+"xiang1 si4 xing4",
+"resemblance; similarity"
+],
+[
+"恰似",
+62479,
+"qia4 si4",
+"just like; exactly like"
 ]
 ],
 "strokes": [

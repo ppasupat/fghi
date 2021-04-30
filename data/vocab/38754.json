@@ -8,171 +8,209 @@
 "words": [
 [
 "后面",
-0,
 1,
 "hòumian",
 "back; behind"
 ],
 [
 "前面",
-0,
 1,
 "qiánmiàn",
 "in front"
 ],
 [
 "面条",
-0,
 2,
 "miàntiáo",
 "noodles"
 ],
 [
 "见面",
-0,
 3,
 "jiànmiàn",
 "meet/see somebody; meeting"
 ],
 [
 "面包",
-0,
 3,
 "miànbāo",
 "bread"
 ],
 [
 "对面",
-0,
 4,
 "duìmiàn",
 "opposite; across from; the other side"
 ],
 [
 "方面",
-0,
 4,
 "fāngmiàn",
 "aspect; field; side"
 ],
 [
 "表面",
-0,
 5,
 "biǎomiàn",
 "surface; outside; face"
 ],
 [
 "面对",
-0,
 5,
 "miànduì",
 "to face; confront"
 ],
 [
 "面积",
-0,
 5,
 "miànjī",
 "(surface) area"
 ],
 [
 "面临",
-0,
 5,
 "miànlín",
 "be faced with; be up against"
 ],
 [
 "片面",
-0,
 5,
 "piànmiàn",
 "one-sided; unilateral"
 ],
 [
 "全面",
-0,
 5,
 "quánmiàn",
 "all-around; comprehensive; fully"
 ],
 [
 "侧面",
-0,
 6,
 "cèmiàn",
 "side; profile; flank; face in profile"
 ],
 [
 "场面",
-0,
 6,
 "chǎngmiàn",
 "scene; occasion"
 ],
 [
 "当面",
-0,
 6,
 "dāng miàn",
 "to sb.'s face; in sb.'s presence"
 ],
 [
 "反面",
-0,
 6,
 "fǎnmiàn",
 "the reverse side of sth.; opposite side of a topic"
 ],
 [
 "局面",
-0,
 6,
 "júmiàn",
 "aspect; situation"
 ],
 [
 "面貌",
-0,
 6,
 "miànmào",
 "appearance; looks; features"
 ],
 [
 "面子",
-0,
 6,
 "miànzi",
 "honor; reputation; prestige; face"
 ],
 [
 "平面",
-0,
 6,
 "píngmiàn",
 "a plane (i.e. flat surface); type; category"
 ],
 [
 "书面",
-0,
 6,
 "shūmiàn",
 "in writing; written (guarantee, etc.)"
 ],
 [
 "体面",
-0,
 6,
 "tǐmiàn",
 "dignity; honorable; face"
 ],
 [
 "迎面",
-0,
 6,
 "yíng miàn",
 "face to face; headlong; in one's face"
+]
+],
+"extraWords": [
+[
+"外面",
+584,
+"wai4 mian5",
+"outside"
+],
+[
+"上面",
+613,
+"shang4 mian5",
+"on top of; above-mentioned"
+],
+[
+"面",
+799,
+"mian4",
+"\"fade; side; surface; aspect; top; face; classifier for flat surfaces such as drums, mirrors, flags etc; flour; noodles\""
+],
+[
+"下面",
+832,
+"xia4 mian5",
+"below; next; the following; under; below"
+],
+[
+"面前",
+947,
+"mian4 qian2",
+"in front of; facing; presence"
+],
+[
+"面试",
+2405,
+"mian4 shi4",
+"to interview; to audition; interview; audition"
+],
+[
+"一面",
+2633,
+"yi1 mian4",
+"one side"
+],
+[
+"会面",
+3024,
+"hui4 mian4",
+"meet with; have a meeting"
+],
+[
+"封面",
+3140,
+"feng1 mian4",
+"cover (front cover of a magazine)"
+],
+[
+"面具",
+3248,
+"mian4 ju4",
+"mask"
 ]
 ],
 "strokes": [

@@ -8,73 +8,125 @@
 "words": [
 [
 "转",
-0,
 4,
 "zhuǎn, zhuàn",
 "to turn; to change; pass on | revolve; rotate"
 ],
 [
 "转变",
-0,
 5,
 "zhuǎnbiàn",
 "to change; to transform"
 ],
 [
 "转告",
-0,
 5,
 "zhuǎngào",
 "pass on; to communicate; to transmit"
 ],
 [
 "扭转",
-0,
 6,
 "niǔzhuǎn",
 "to reverse; turn around (an undesirable situation)"
 ],
 [
 "旋转",
-0,
 6,
 "xuánzhuǎn",
 "to whirl; to spin; rotate"
 ],
 [
 "周转",
-0,
 6,
 "zhōuzhuǎn",
 "turnover (in cash or personnel); have enough resources to cover a need"
 ],
 [
 "转达",
-0,
 6,
 "zhuǎndá",
 "pass on; convey; communicate"
 ],
 [
 "转让",
-0,
 6,
 "zhuǎnràng",
 "transfer (technology, good, etc.); make over"
 ],
 [
 "转移",
-0,
 6,
 "zhuǎnyí",
 "to shift; divert; migrate"
 ],
 [
 "转折",
-0,
 6,
 "zhuǎnzhé",
 "turning point; shift in the trend of events; plot twist in a book"
+]
+],
+"extraWords": [
+[
+"转身",
+3943,
+"zhuan3 shen1",
+"(of a person) to turn round; to face about"
+],
+[
+"好转",
+4923,
+"hao3 zhuan3",
+"to improve; to take a turn for the better; improvement"
+],
+[
+"转换",
+6033,
+"zhuan3 huan4",
+"to transform; to change; to convert"
+],
+[
+"运转",
+6309,
+"yun4 zhuan3",
+"to work; to operate; to revolve; to turn around"
+],
+[
+"转向",
+6470,
+"zhuan3 xiang4",
+"change of direction; to change direction"
+],
+[
+"转弯",
+6665,
+"zhuan3 wan1",
+"turn (around)"
+],
+[
+"转动",
+7630,
+"zhuan3 dong4",
+"to turn; to rotate"
+],
+[
+"中转站",
+7876,
+"zhong1 zhuan3 zhan4",
+"hub (network equipment)"
+],
+[
+"转悠",
+9738,
+"zhuan4 you5",
+"to turn; to stroll; to sway; to appear repeatedly"
+],
+[
+"转机",
+9785,
+"zhuan3 ji1",
+"(to take) a turn for the better; to change planes"
 ]
 ],
 "strokes": [

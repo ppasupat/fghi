@@ -8,87 +8,137 @@
 "words": [
 [
 "包",
-0,
 3,
 "bāo",
 "to cover; to wrap; to hold; include; (mw for containers, packages, etc.)"
 ],
 [
 "面包",
-0,
 3,
 "miànbāo",
 "bread"
 ],
 [
 "包子",
-0,
 4,
 "bāozi",
 "steamed stuffed bun"
 ],
 [
 "包裹",
-0,
 5,
 "bāoguǒ",
 "wrap up; bind up; package"
 ],
 [
 "包含",
-0,
 5,
 "bāohán",
 "contain; embody; include"
 ],
 [
 "包括",
-0,
 5,
 "bāokuò",
 "comprise; include; consist of"
 ],
 [
 "包庇",
-0,
 6,
 "bāobì",
 "to shield; to harbor; cover up"
 ],
 [
 "包袱",
-0,
 6,
 "bāofu",
 "bundle wrapped in cloth; cloth-wrapper"
 ],
 [
 "包围",
-0,
 6,
 "bāowéi",
 "surround; encircle; hem in"
 ],
 [
 "包装",
-0,
 6,
 "bāozhuāng",
 "to pack; package; make up"
 ],
 [
 "承包",
-0,
 6,
 "chéngbāo",
 "to contract (to undertake a job)"
 ],
 [
 "打包",
-0,
 6,
 "dǎbāo",
 "get a doggy bag (at a restaurant); pack up"
+]
+],
+"extraWords": [
+[
+"钱包",
+2425,
+"qian2 bao1",
+"purse; wallet"
+],
+[
+"背包",
+5757,
+"bei1 bao1",
+"knapsack; rucksack; infantry pack; field pack; blanket roll"
+],
+[
+"汉堡包",
+6970,
+"han4 bao3 bao1",
+"hamburger"
+],
+[
+"公文包",
+8684,
+"gong1 wen2 bao1",
+"briefcase; attaché case"
+],
+[
+"皮包",
+9370,
+"pi2 bao1",
+"handbag"
+],
+[
+"包厢",
+10981,
+"bao1 xiang1",
+"box (in a theater or concert hall)"
+],
+[
+"包扎",
+11376,
+"bao1 za1",
+"to bind; to wrap up; to bind up; to pack; wrap up; bind up; pack"
+],
+[
+"书包",
+11930,
+"shu1 bao1",
+"schoolbag; satchel"
+],
+[
+"手提包",
+12593,
+"shou3 ti2 bao1",
+"(hand)bag; hold-all"
+],
+[
+"包容",
+13607,
+"bao1 rong2",
+"tolerant; forgiving; to pardon; to forgive; can contain; can hold; to tolerate; to show tolerance"
 ]
 ],
 "strokes": [

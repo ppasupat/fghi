@@ -8,87 +8,137 @@
 "words": [
 [
 "传真",
-0,
 4,
 "chuánzhēn",
 "fax; facsimile"
 ],
 [
 "传播",
-0,
 5,
 "chuánbō",
 "propagate; to spread"
 ],
 [
 "传染",
-0,
 5,
 "chuánrǎn",
 "infect; be contagious"
 ],
 [
 "传说",
-0,
 5,
 "chuánshuō",
 "it is said; legend; pass on (a story)"
 ],
 [
 "传统",
-0,
 5,
 "chuántǒng",
 "tradition; traditional"
 ],
 [
 "流传",
-0,
 5,
 "liúchuán",
 "to spread; circulate; hand down"
 ],
 [
 "宣传",
-0,
 5,
 "xuānchuán",
 "propaganda; to propagate; to give publicity to"
 ],
 [
 "传达",
-0,
 6,
 "chuándá",
 "convey; transmit; communicate"
 ],
 [
 "传单",
-0,
 6,
 "chuándān",
 "leaflet; flier; pamphlet"
 ],
 [
 "传授",
-0,
 6,
 "chuánshòu",
 "impart; pass on; teach"
 ],
 [
 "遗传",
-0,
 6,
 "yíchuán",
 "inherit; hereditary"
 ],
 [
 "传记",
-0,
 6,
 "zhuànjì",
 "biography"
+]
+],
+"extraWords": [
+[
+"传",
+1336,
+"chuan2/zhuan4",
+"to pass on; to spread; to transmit; to infect; to transfer; to circulate; to pass on; to conduct (electricity); biography"
+],
+[
+"传奇",
+2942,
+"chuan2 qi2",
+"legendary; fantasy saga; romance; short stories of the Tang and Song Dynasty"
+],
+[
+"传送",
+4398,
+"chuan2 song4",
+"to convey; to deliver"
+],
+[
+"传言",
+5474,
+"chuan2 yan2",
+"rumor; hearsay"
+],
+[
+"传递",
+5484,
+"chuan2 di4",
+"to transmit; to pass on to sb else"
+],
+[
+"传球",
+6019,
+"chuan2 qiu2",
+"pass (in soccer); to feed (ball)"
+],
+[
+"传来",
+6272,
+"chuan2 lai2",
+"to arrive (news)"
+],
+[
+"传闻",
+6743,
+"chuan2 wen2",
+"rumor"
+],
+[
+"传票",
+6843,
+"chuan2 piao4",
+"summons"
+],
+[
+"传输",
+6924,
+"chuan2 shu1",
+"transport; transmission"
 ]
 ],
 "strokes": [

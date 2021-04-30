@@ -8,87 +8,137 @@
 "words": [
 [
 "质量",
-0,
 4,
 "zhìliàng",
 "quality; mass (physics)"
 ],
 [
 "本质",
-0,
 5,
 "běnzhì",
 "essence; nature; innate character"
 ],
 [
 "物质",
-0,
 5,
 "wùzhì",
 "matter; substance; material"
 ],
 [
 "性质",
-0,
 5,
 "xìngzhì",
 "nature; characteristic; quality"
 ],
 [
 "变质",
-0,
 6,
 "biàn zhì",
 "go bad; deteriorate; metamorphism"
 ],
 [
 "蛋白质",
-0,
 6,
 "dànbáizhì",
 "protein"
 ],
 [
 "地质",
-0,
 6,
 "dìzhì",
 "geology"
 ],
 [
 "品质",
-0,
 6,
 "pǐnzhì",
 "quality; character"
 ],
 [
 "气质",
-0,
 6,
 "qìzhì",
 "temperament; disposition"
 ],
 [
 "人质",
-0,
 6,
 "rénzhì",
 "hostage"
 ],
 [
 "实质",
-0,
 6,
 "shízhì",
 "substance; essence; gist"
 ],
 [
 "素质",
-0,
 6,
 "sùzhì",
 "inner quality; basic essence; character quality"
+]
+],
+"extraWords": [
+[
+"质疑",
+4111,
+"zhi4 yi2",
+"to call into question; to question (truth or validity)"
+],
+[
+"质",
+5643,
+"zhi4",
+"hostage; substance; nature; quality; Taiwan pr. zhi2"
+],
+[
+"特质",
+8051,
+"te4 zhi4",
+"characteristic; special property"
+],
+[
+"神经质",
+8309,
+"shen2 jing1 zhi4",
+"nervousness"
+],
+[
+"质问",
+11353,
+"zhi4 wen4",
+"to question; to ask questions; to inquire; to bring to account; to interrogate"
+],
+[
+"对质",
+16446,
+"dui4 zhi4",
+"direct confrontation"
+],
+[
+"优质",
+17330,
+"you1 zhi4",
+"excellent quality"
+],
+[
+"质询",
+18756,
+"zhi4 xun2",
+"to question; to enquire; interrogatory"
+],
+[
+"材质",
+18908,
+"cai2 zhi4",
+"texture of timber; quality of material; material (that sth is made of)"
+],
+[
+"皮质",
+19419,
+"pi2 zhi4",
+"cortex; cerebral cortex"
 ]
 ],
 "strokes": [

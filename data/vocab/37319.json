@@ -8,59 +8,113 @@
 "words": [
 [
 "采访",
-0,
 5,
 "cǎifǎng",
 "interview; gather news; hunt for and collect"
 ],
 [
 "采取",
-0,
 5,
 "cǎiqǔ",
 "carry out or adopt; take(measures, policies, attitudes, etc.)"
 ],
 [
 "采购",
-0,
 6,
 "cǎigòu",
 "make purchases for an organization; go shopping"
 ],
 [
 "采集",
-0,
 6,
 "cǎijí",
 "gather; collect"
 ],
 [
 "采纳",
-0,
 6,
 "cǎinà",
 "accept; adopt"
 ],
 [
 "开采",
-0,
 6,
 "kāicǎi",
 "extract ore or some other natural resource from a mine"
 ],
 [
 "无精打采",
-0,
 6,
 "wújīngdǎcǎi",
 "listless; be dispirited; in low spirits"
 ],
 [
 "兴高采烈",
-0,
 6,
 "xìng gāo cǎi liè",
 "in high spirits"
+]
+],
+"extraWords": [
+[
+"采用",
+5970,
+"cai3 yong4",
+"to adopt; to employ; to use"
+],
+[
+"采",
+6212,
+"cai3/cai4",
+"affairs; gather; to pick; to pluck; to collect; to select; to choose; to gather; allotment to a feudal noble"
+],
+[
+"风采",
+14644,
+"feng1 cai3",
+"svelte; elegant manner; graceful bearing"
+],
+[
+"神采奕奕",
+21522,
+"shen2 cai3 yi4 yi4",
+"in glowing spirits (idiom); bursting with life; radiating health and vigor"
+],
+[
+"采矿",
+21599,
+"cai3 kuang4",
+"mining"
+],
+[
+"采石场",
+23142,
+"cai3 shi2 chang3",
+"stone pit; quarry"
+],
+[
+"采样",
+25342,
+"cai3 yang4",
+"sampling"
+],
+[
+"采摘",
+27069,
+"cai3 zhai1",
+"pluck; pick"
+],
+[
+"没精打采",
+28838,
+"mei2 jing1 da3 cai3",
+"listless; dispirited; washed out; also written 没精打彩"
+],
+[
+"采油",
+36407,
+"cai3 you2",
+"oil extraction; oil recovery"
 ]
 ],
 "strokes": [

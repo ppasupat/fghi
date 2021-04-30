@@ -8,108 +8,155 @@
 "words": [
 [
 "速度",
-0,
 4,
 "sùdù",
 "speed; rate; velocity"
 ],
 [
 "态度",
-0,
 4,
 "tàidu",
 "manner; bearing; attitude"
 ],
 [
 "温度",
-0,
 4,
 "wēndù",
 "temperature"
 ],
 [
 "程度",
-0,
 5,
 "chéngdù",
 "degree; extent; level"
 ],
 [
 "度过",
-0,
 5,
 "dùguò",
 "spend; to pass"
 ],
 [
 "角度",
-0,
 5,
 "jiǎodù",
 "angle; point of view"
 ],
 [
 "制度",
-0,
 5,
 "zhìdù",
 "system; institution"
 ],
 [
 "风度",
-0,
 6,
 "fēngdù",
 "elegant demeanor; grace; poise; style"
 ],
 [
 "幅度",
-0,
 6,
 "fúdù",
 "width; margin; extent"
 ],
 [
 "过度",
-0,
 6,
 "guòdù",
 "excessive; exceeding; lavishly"
 ],
 [
 "季度",
-0,
 6,
 "jìdù",
 "(financial) quarter; period of three months"
 ],
 [
 "密度",
-0,
 6,
 "mìdù",
 "density; thickness; consistency"
 ],
 [
 "年度",
-0,
 6,
 "niándù",
 "year (e.g. school year, fiscal year, etc.); annual"
 ],
 [
 "摄氏度",
-0,
 6,
 "shèshìdù",
 "degrees Celsius"
 ],
 [
 "一度",
-0,
 6,
 "yídù",
 "for a time; at one time; one time; once"
+]
+],
+"extraWords": [
+[
+"度",
+1392,
+"du4/duo2",
+"capacity; degree; degrees (of temperature); standard; estimate"
+],
+[
+"印度",
+2457,
+"Yin4 du4",
+"India"
+],
+[
+"度假",
+3092,
+"du4 jia4",
+"to go on vacation"
+],
+[
+"高度",
+3276,
+"gao1 du4",
+"height; altitude; elevation; high degree; highly"
+],
+[
+"极度",
+4531,
+"ji2 du4",
+"extremely"
+],
+[
+"难度",
+5202,
+"nan2 du4",
+"trouble; problem"
+],
+[
+"深度",
+6934,
+"shen1 du4",
+"depth"
+],
+[
+"再度",
+7466,
+"zai4 du4",
+"once more; once again; one more time"
+],
+[
+"国度",
+7779,
+"guo2 du4",
+"country"
+],
+[
+"进度",
+7806,
+"jin4 du4",
+"pace; tempo; degree of progress (on project); work schedule"
 ]
 ],
 "strokes": [

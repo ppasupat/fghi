@@ -8,122 +8,167 @@
 "words": [
 [
 "刮风",
-0,
 3,
 "guāfēng",
 "windy; to blow (wind)"
 ],
 [
 "风格",
-0,
 5,
 "fēnggé",
 "style"
 ],
 [
 "风景",
-0,
 5,
 "fēngjǐng",
 "scenery; landscape"
 ],
 [
 "风俗",
-0,
 5,
 "fēngsú",
 "social custom"
 ],
 [
 "风险",
-0,
 5,
 "fēngxiǎn",
 "risk; venture; hazard"
 ],
 [
 "麦克风",
-0,
 5,
 "màikèfēng",
 "microphone"
 ],
 [
 "风暴",
-0,
 6,
 "fēngbào",
 "storm; violent commotion"
 ],
 [
 "风度",
-0,
 6,
 "fēngdù",
 "elegant demeanor; grace; poise; style"
 ],
 [
 "风光",
-0,
 6,
 "fēngguāng",
 "a natural scenic view; sight"
 ],
 [
 "风气",
-0,
 6,
 "fēngqì",
 "general mood; atmosphere; common practice"
 ],
 [
 "风趣",
-0,
 6,
 "fēngqù",
 "humor; wit; humorous"
 ],
 [
 "风土人情",
-0,
 6,
 "fēngtǔrénqíng",
 "local conditions (human and environmental)"
 ],
 [
 "风味",
-0,
 6,
 "fēngwèi",
 "local flavor; local style"
 ],
 [
 "台风",
-0,
 6,
 "táifēng",
 "typhoon"
 ],
 [
 "威风",
-0,
 6,
 "wēifēng",
 "awe-inspiring authority; power and prestige; impressive force"
 ],
 [
 "一帆风顺",
-0,
 6,
 "yìfānfēngshùn",
 "(saying) smooth sailing"
 ],
 [
 "作风",
-0,
 6,
 "zuòfēng",
 "work style; way"
+]
+],
+"extraWords": [
+[
+"风",
+1507,
+"feng1",
+"wind; news; style; custom; manner"
+],
+[
+"飓风",
+6244,
+"ju4 feng1",
+"hurricane"
+],
+[
+"龙卷风",
+6792,
+"long2 juan3 feng1",
+"tornado; hurricane; twister; cyclone"
+],
+[
+"中风",
+7030,
+"zhong4 feng1",
+"suffer a paralyzing stroke"
+],
+[
+"暴风雨",
+7245,
+"bao4 feng1 yu3",
+"rainstorm; storm; tempest"
+],
+[
+"兜风",
+7332,
+"dou1 feng1",
+"to catch the wind; to go for a spin in the fresh air"
+],
+[
+"风声",
+7354,
+"feng1 sheng1",
+"rumor; talk; news; information; sound of the wind; teaching"
+],
+[
+"风尚",
+8288,
+"feng1 shang4",
+"current custom; current way of doing things"
+],
+[
+"风流",
+8884,
+"feng1 liu2",
+"distinguished and accomplished; outstanding; talented in letters and unconventional in life style; romantic; dissolute; loose"
+],
+[
+"风头",
+9074,
+"feng1 tou2",
+"wind direction; the way the wind blows; fig. trend; direction of events; how things develop (esp. how they affect oneself); public opinion (concerning one's actions); publicity (usually derog.); limelight"
 ]
 ],
 "strokes": [

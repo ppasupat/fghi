@@ -8,94 +8,143 @@
 "words": [
 [
 "护照",
-0,
 3,
 "hùzhào",
 "passport"
 ],
 [
 "照顾",
-0,
 3,
 "zhàogu",
 "take care of; look after; give consideration"
 ],
 [
 "照片",
-0,
 3,
 "zhàopiàn",
 "picture; photograph"
 ],
 [
 "照相机",
-0,
 3,
 "zhàoxiàngjī",
 "camera"
 ],
 [
 "按照",
-0,
 4,
 "ànzhào",
 "according to; in accordance with; in light of"
 ],
 [
 "照",
-0,
 4,
 "zhào",
 "to shine; illuminate; according to"
 ],
 [
 "照常",
-0,
 5,
 "zhàocháng",
 "as usual; normal"
 ],
 [
 "执照",
-0,
 5,
 "zhízhào",
 "a license; a permit"
 ],
 [
 "参照",
-0,
 6,
 "cānzhào",
 "consult a reference; refer to (another document)"
 ],
 [
 "对照",
-0,
 6,
 "duìzhào",
 "contrast; compare"
 ],
 [
 "关照",
-0,
 6,
 "guānzhào",
 "concern; look after; keep an eye on"
 ],
 [
 "照样",
-0,
 6,
 "zhàoyàng",
 "as before; (same) as usual"
 ],
 [
 "照耀",
-0,
 6,
 "zhàoyào",
 "to shine; illuminate"
+]
+],
+"extraWords": [
+[
+"拍照",
+2384,
+"pai1 zhao4",
+"to take a picture"
+],
+[
+"照看",
+3367,
+"zhao4 kan4",
+"to look after; to attend to; to have in care"
+],
+[
+"驾照",
+4394,
+"jia4 zhao4",
+"driver's license"
+],
+[
+"照相",
+5917,
+"zhao4 xiang4",
+"take a photograph"
+],
+[
+"照料",
+7687,
+"zhao4 liao4",
+"to tend; to take care of sb"
+],
+[
+"牌照",
+8504,
+"pai2 zhao4",
+"license plate"
+],
+[
+"照办",
+9132,
+"zhao4 ban4",
+"to follow the rules; to do as instructed; to play by the book; to comply with a request"
+],
+[
+"照亮",
+11004,
+"zhao4 liang4",
+"to illuminate; to light up; lighting"
+],
+[
+"依照",
+11160,
+"yi1 zhao4",
+"according to; in light of"
+],
+[
+"遵照",
+14381,
+"zun1 zhao4",
+"in accordance with; to follow (the rules)"
 ]
 ],
 "strokes": [

@@ -8,94 +8,143 @@
 "words": [
 [
 "性别",
-0,
 4,
 "xìngbié",
 "gender; sex; sexual distinction"
 ],
 [
 "性格",
-0,
 4,
 "xìnggé",
 "nature; personality; temperament"
 ],
 [
 "个性",
-0,
 5,
 "gèxìng",
 "individuality; personality"
 ],
 [
 "性质",
-0,
 5,
 "xìngzhì",
 "nature; characteristic; quality"
 ],
 [
 "记性",
-0,
 6,
 "jìxing",
 "memory"
 ],
 [
 "慢性",
-0,
 6,
 "mànxìng",
 "slow and patient; chronic (disease)"
 ],
 [
 "人性",
-0,
 6,
 "rénxìng",
 "human nature; humanity"
 ],
 [
 "任性",
-0,
 6,
 "rènxìng",
 "willful; headstrong"
 ],
 [
 "索性",
-0,
 6,
 "suǒxìng",
 "you might as well (do it); simply; just; frankly; bluntly; directly"
 ],
 [
 "弹性",
-0,
 6,
 "tánxìng",
 "flexibility; elasticity"
 ],
 [
 "性感",
-0,
 6,
 "xìnggǎn",
 "sex appeal; sexy; sexuality"
 ],
 [
 "性命",
-0,
 6,
 "xìngmìng",
 "life"
 ],
 [
 "性能",
-0,
 6,
 "xìngnéng",
 "function; performance"
+]
+],
+"extraWords": [
+[
+"性",
+701,
+"xing4",
+"\"nature; character; property; quality; attribute; sexuality; sex; gender; surname; suffix forming adjective from verb; suffix forming noun from adjective, corresponding to -ness or -ity; essence\""
+],
+[
+"同性恋",
+943,
+"tong2 xing4 lian4",
+"homosexuality; gay person; gay love"
+],
+[
+"女性",
+1364,
+"nu:3 xing4",
+"the female sex; a woman"
+],
+[
+"男性",
+2591,
+"nan2 xing4",
+"a male"
+],
+[
+"可能性",
+2871,
+"ke3 neng2 xing4",
+"possibility; probability"
+],
+[
+"性爱",
+3328,
+"xing4 ai4",
+"sex; love-making"
+],
+[
+"异性",
+5017,
+"yi4 xing4",
+"of the opposite sex; heterosexual; different in nature"
+],
+[
+"性骚扰",
+5434,
+"xing4 sao1 rao3",
+"sexual harassment"
+],
+[
+"本性",
+5800,
+"ben3 xing4",
+"natural instincts; nature; inherent quality"
+],
+[
+"性生活",
+5821,
+"xing4 sheng1 huo2",
+"sex life"
 ]
 ],
 "strokes": [

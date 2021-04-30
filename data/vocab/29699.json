@@ -8,52 +8,107 @@
 "words": [
 [
 "打篮球",
-0,
 2,
 "dǎ lánqiú",
 "play basketball"
 ],
 [
 "踢足球",
-0,
 2,
 "tīzúqiú",
 "to play football/soccer"
 ],
 [
 "地球",
-0,
 4,
 "dìqiú",
 "the Earth; planet"
 ],
 [
 "乒乓球",
-0,
 4,
 "pīngpāngqiú",
 "ping pong; table tennis"
 ],
 [
 "网球",
-0,
 4,
 "wǎngqiú",
 "tennis; tennis ball"
 ],
 [
 "羽毛球",
-0,
 4,
 "yǔmáoqiú",
 "badminton"
 ],
 [
 "球迷",
-0,
 5,
 "qiúmí",
 "fan (of ball games: basketball, football, etc.)"
+]
+],
+"extraWords": [
+[
+"球",
+467,
+"qiu2",
+"ball; sphere"
+],
+[
+"星球",
+1804,
+"xing1 qiu2",
+"\"celestial body (e.g. planet, satellite etc); heavenly body\""
+],
+[
+"棒球",
+2175,
+"bang4 qiu2",
+"baseball"
+],
+[
+"全球",
+2881,
+"quan2 qiu2",
+"entire; total; global; the (whole) world; worldwide"
+],
+[
+"橄榄球",
+2895,
+"gan3 lan3 qiu2",
+"\"football played with oval-shaped ball (rugby, American football, Australian rules etc)\""
+],
+[
+"篮球",
+3034,
+"lan2 qiu2",
+"basketball"
+],
+[
+"球队",
+3309,
+"qiu2 dui4",
+"\"soccer team (or rugby, basketball etc)\""
+],
+[
+"足球",
+3469,
+"zu2 qiu2",
+"football; soccer"
+],
+[
+"打球",
+3631,
+"da3 qiu2",
+"to play (with a) ball"
+],
+[
+"球员",
+3661,
+"qiu2 yuan2",
+"\"sports club member; footballer, golfer etc\""
 ]
 ],
 "strokes": [

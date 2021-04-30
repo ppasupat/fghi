@@ -8,129 +8,173 @@
 "words": [
 [
 "本",
-0,
 1,
 "běn",
 "measure word for books"
 ],
 [
 "笔记本",
-0,
 3,
 "bǐjìběn",
 "notebook"
 ],
 [
 "本来",
-0,
 4,
 "běnlái",
 "originally; at first"
 ],
 [
 "本科",
-0,
 5,
 "běnkē",
 "undergraduate"
 ],
 [
 "本领",
-0,
 5,
 "běnlǐng",
 "skill; ability; capability"
 ],
 [
 "本质",
-0,
 5,
 "běnzhì",
 "essence; nature; innate character"
 ],
 [
 "根本",
-0,
 5,
 "gēnběn",
 "root; essence; fundamental; basic; (not) at all; simply"
 ],
 [
 "基本",
-0,
 5,
 "jīběn",
 "basic; fundamental"
 ],
 [
 "版本",
-0,
 6,
 "bǎnběn",
 "edition"
 ],
 [
 "本能",
-0,
 6,
 "běnnéng",
 "instinct"
 ],
 [
 "本钱",
-0,
 6,
 "běnqián",
 "capital (financial)"
 ],
 [
 "本人",
-0,
 6,
 "běnrén",
 "I; me; myself; oneself; in person"
 ],
 [
 "本身",
-0,
 6,
 "běnshēn",
 "itself; in itself; per se"
 ],
 [
 "本事",
-0,
 6,
 "běnshi",
 "ability; skill; capability; (-shì: this matter; literary source)"
 ],
 [
 "标本",
-0,
 6,
 "biāoběn",
 "specimen; sample; the root cause and symptoms of a disease"
 ],
 [
 "成本",
-0,
 6,
 "chéngběn",
 "cost (manufacturing, production, etc.)"
 ],
 [
 "剧本",
-0,
 6,
 "jùběn",
 "script for a play; opera; movie; etc"
 ],
 [
 "资本",
-0,
 6,
 "zīběn",
 "(Economics) capital; asset"
+]
+],
+"extraWords": [
+[
+"日本",
+1579,
+"Ri4 ben3",
+"Japan; Japanese"
+],
+[
+"本地",
+3010,
+"ben3 di4",
+"local; this locality"
+],
+[
+"样本",
+3177,
+"yang4 ben3",
+"sample; specimen"
+],
+[
+"原本",
+3546,
+"yuan2 ben3",
+"originally; original; abbr. for Euclid's elements 几何原本"
+],
+[
+"基本上",
+4527,
+"ji1 ben3 shang5",
+"basically; on the whole"
+],
+[
+"本性",
+5800,
+"ben3 xing4",
+"natural instincts; nature; inherent quality"
+],
+[
+"本意",
+8525,
+"ben3 yi4",
+"original idea; real intention; etymon"
+],
+[
+"本杰明",
+9363,
+"ben3 jie2 ming2",
+"Benjamin (person name)"
+],
+[
+"副本",
+9491,
+"fu4 ben3",
+"duplicate; transcript"
+],
+[
+"本色",
+10004,
+"ben3 shai3",
+"inherent qualities; natural qualities; distinctive character; true qualities; natural color"
 ]
 ],
 "strokes": [

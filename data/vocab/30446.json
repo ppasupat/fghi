@@ -8,101 +8,149 @@
 "words": [
 [
 "节目",
-0,
 3,
 "jiémù",
 "program; item (on a program)"
 ],
 [
 "目的",
-0,
 4,
 "mùdì",
 "purpose; aim; goal"
 ],
 [
 "目标",
-0,
 5,
 "mùbiāo",
 "target; goal; objective"
 ],
 [
 "目录",
-0,
 5,
 "mùlù",
 "catalog; table of contents; directory (on computer hard drive)"
 ],
 [
 "目前",
-0,
 5,
 "mùqián",
 "at present; now; for the moment"
 ],
 [
 "题目",
-0,
 5,
 "tímù",
 "subject; title; topic"
 ],
 [
 "项目",
-0,
 5,
 "xiàngmù",
 "program; item; project"
 ],
 [
 "举世瞩目",
-0,
 6,
 "jǔshì zhǔmù",
 "attract worldwide attention"
 ],
 [
 "科目",
-0,
 6,
 "kēmù",
 "(school) subject"
 ],
 [
 "栏目",
-0,
 6,
 "lánmù",
 "column (in a newspaper,TV,etc)"
 ],
 [
 "盲目",
-0,
 6,
 "mángmù",
 "blindness; aimless"
 ],
 [
 "目睹",
-0,
 6,
 "mùdǔ",
 "witness; see first hand"
 ],
 [
 "目光",
-0,
 6,
 "mùguāng",
 "sight; vision; view"
 ],
 [
 "一目了然",
-0,
 6,
 "yímùliǎorán",
 "obvious at a glance"
+]
+],
+"extraWords": [
+[
+"目击",
+3467,
+"mu4 ji1",
+"to see with one's own eyes; to witness"
+],
+[
+"目击者",
+3687,
+"mu4 ji1 zhe3",
+"eyewitness"
+],
+[
+"数目",
+5604,
+"shu4 mu4",
+"amount; number"
+],
+[
+"目的地",
+6121,
+"mu4 di4 di4",
+"destination (location)"
+],
+[
+"目",
+7056,
+"mu4",
+"eye; item; section; list; catalogue; table of contents; order (taxonomy); goal; name; title"
+],
+[
+"引人注目",
+8758,
+"yin3 ren2 zhu4 mu4",
+"to attract attention; eye-catching; conspicuous"
+],
+[
+"心目",
+8856,
+"xin1 mu4",
+"mentality; mental attitude; viewpoint"
+],
+[
+"头目",
+9080,
+"tou2 mu4",
+"ringleader; gang leader; chieftain"
+],
+[
+"真面目",
+9286,
+"zhen1 mian4 mu4",
+"true identity; true colors"
+],
+[
+"拭目以待",
+10886,
+"shi4 mu4 yi3 dai4",
+"lit. to wipe one's eyes and wait (idiom); to wait and see"
 ]
 ],
 "strokes": [

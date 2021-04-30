@@ -8,31 +8,89 @@
 "words": [
 [
 "测验",
-0,
 5,
 "cèyàn",
 "test; exam; to test"
 ],
 [
 "测量",
-0,
 6,
 "cèliáng",
 "to survey; to measure"
 ],
 [
 "探测",
-0,
 6,
 "tàncè",
 "probe; take readings; detect; explore"
 ],
 [
 "推测",
-0,
 6,
 "tuīcè",
 "speculate; conjecture; surmise"
+]
+],
+"extraWords": [
+[
+"测试",
+1184,
+"ce4 shi4",
+"measure and test; trial; beta (software); test performance of"
+],
+[
+"检测",
+2644,
+"jian3 ce4",
+"to detect"
+],
+[
+"测",
+3998,
+"ce4",
+"side; to lean; to survey; to measure; conjecture"
+],
+[
+"预测",
+4060,
+"yu4 ce4",
+"forecast; predict"
+],
+[
+"猜测",
+4549,
+"cai1 ce4",
+"guess; conjecture; surmise"
+],
+[
+"探测器",
+7498,
+"tan4 ce4 qi4",
+"detector; probe; craft"
+],
+[
+"不测",
+11296,
+"bu4 ce4",
+"accident; mishap; contingency"
+],
+[
+"监测",
+12444,
+"jian1 ce4",
+"to monitor"
+],
+[
+"观测",
+18294,
+"guan1 ce4",
+"(scientific etc) observation; to observe"
+],
+[
+"测定",
+20216,
+"ce4 ding4",
+"to survey and evaluate"
 ]
 ],
 "strokes": [

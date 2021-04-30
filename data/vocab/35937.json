@@ -8,80 +8,131 @@
 "words": [
 [
 "印象",
-0,
 4,
 "yìnxiàng",
 "impression"
 ],
 [
 "抽象",
-0,
 5,
 "chōuxiàng",
 "abstract; abstraction"
 ],
 [
 "大象",
-0,
 5,
 "dàxiàng",
 "elephant"
 ],
 [
 "对象",
-0,
 5,
 "duìxiàng",
 "target; object; partner; boyfriend or girlfriend"
 ],
 [
 "现象",
-0,
 5,
 "xiànxiàng",
 "appearance; phenomenon"
 ],
 [
 "想象",
-0,
 5,
 "xiǎngxiàng",
 "imagine; visualize"
 ],
 [
 "象棋",
-0,
 5,
 "xiàngqí",
 "chess; Chinese chess"
 ],
 [
 "象征",
-0,
 5,
 "xiàngzhēng",
 "symbol; symbolize; signify"
 ],
 [
 "形象",
-0,
 5,
 "xíngxiàng",
 "image; form; figure"
 ],
 [
 "迹象",
-0,
 6,
 "jìxiàng",
 "mark; indication; sign"
 ],
 [
 "气象",
-0,
 6,
 "qìxiàng",
 "meteorology; atmosphere; phenomenon"
+]
+],
+"extraWords": [
+[
+"象",
+646,
+"xiang4",
+"elephant; shape; form; appearance; of that shape; comparable to; such as...; image under a map (math.)"
+],
+[
+"想象力",
+7040,
+"xiang3 xiang4 li4",
+"imagination"
+],
+[
+"景象",
+7530,
+"jing3 xiang4",
+"scene; sight (to behold)"
+],
+[
+"幻象",
+8461,
+"huan4 xiang4",
+"illusion"
+],
+[
+"假象",
+10366,
+"jia3 xiang4",
+"false appearance; facade"
+],
+[
+"象牙",
+13696,
+"xiang4 ya2",
+"ivory"
+],
+[
+"象征性",
+17478,
+"xiang4 zheng1 xing4",
+"symbolic; emblem; token"
+],
+[
+"国际象棋",
+17745,
+"guo2 ji4 xiang4 qi2",
+"chess"
+],
+[
+"海象",
+18447,
+"hai3 xiang4",
+"walrus"
+],
+[
+"表象",
+19726,
+"biao3 xiang4",
+"idea"
 ]
 ],
 "strokes": [

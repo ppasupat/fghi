@@ -8,66 +8,119 @@
 "words": [
 [
 "害怕",
-0,
 3,
 "hàipà",
 "afraid of; to fear"
 ],
 [
 "害羞",
-0,
 4,
 "hài xiū",
 "blush; shy"
 ],
 [
 "厉害",
-0,
 4,
 "lìhai",
 "terrible; formidable; fierce; cool; awesome"
 ],
 [
 "伤害",
-0,
 5,
 "shānghài",
 "injure; to harm; wound"
 ],
 [
 "危害",
-0,
 5,
 "wēihài",
 "endanger; jeopardize; to harm"
 ],
 [
 "灾害",
-0,
 5,
 "zāihài",
 "disaster; calamity"
 ],
 [
 "利害",
-0,
 6,
 "lìhai",
 "serious; formidable; devastating; (-hài: advantages and disadvantages)"
 ],
 [
 "迫害",
-0,
 6,
 "pòhài",
 "persecute; persecution"
 ],
 [
 "陷害",
-0,
 6,
 "xiànhài",
 "cast blame on; to frame"
+]
+],
+"extraWords": [
+[
+"受害者",
+1256,
+"shou4 hai4 zhe3",
+"\"person who suffers damage, injury etc; a casualty; a victim; those injured and wounded\""
+],
+[
+"害",
+1493,
+"hai4",
+"to do harm to; to cause trouble to; harm; evil; calamity"
+],
+[
+"杀害",
+1814,
+"sha1 hai4",
+"murder"
+],
+[
+"受害人",
+1971,
+"shou4 hai4 ren2",
+"victim (of accident or murder)"
+],
+[
+"被害人",
+4928,
+"bei4 hai4 ren2",
+"victim"
+],
+[
+"遇害",
+5671,
+"yu4 hai4",
+"to be murdered; assassinated; executed"
+],
+[
+"损害",
+7222,
+"sun3 hai4",
+"harm; to damage; to injure; to infringe"
+],
+[
+"无害",
+8865,
+"wu2 hai4",
+"harmless"
+],
+[
+"要害",
+8878,
+"yao4 hai4",
+"crucial; key point"
+],
+[
+"有害",
+8986,
+"you3 hai4",
+"destructive; harmful; damaging"
 ]
 ],
 "strokes": [

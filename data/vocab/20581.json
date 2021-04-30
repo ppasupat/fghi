@@ -8,24 +8,83 @@
 "words": [
 [
 "健康",
-0,
 3,
 "jiànkāng",
 "health; healthy"
 ],
 [
 "健身",
-0,
 5,
 "jiànshēn",
 "work out; body-building"
 ],
 [
 "健全",
-0,
 6,
 "jiànquán",
 "Perfect; sound; to perfect/strengthen/amplify"
+]
+],
+"extraWords": [
+[
+"健",
+5014,
+"jian4",
+"healthy; to invigorate; to strengthen; to be good at; to be strong in"
+],
+[
+"健身房",
+6143,
+"jian4 shen1 fang2",
+"gym; gymnasium"
+],
+[
+"健忘",
+10591,
+"jian4 wang4",
+"absent-minded"
+],
+[
+"健壮",
+11863,
+"jian4 zhuang4",
+"robust; healthy; sturdy"
+],
+[
+"保健",
+13291,
+"bao3 jian4",
+"health protection; health care"
+],
+[
+"强健",
+17399,
+"qiang2 jian4",
+"sturdy"
+],
+[
+"健美",
+18553,
+"jian4 mei3",
+"healthy and beautiful"
+],
+[
+"复健",
+25518,
+"fu4 jian4",
+"rehabilitation; recuperate"
+],
+[
+"稳健",
+26316,
+"wen3 jian4",
+"firm; stable and steady"
+],
+[
+"矫健",
+33485,
+"jiao3 jian4",
+"strong and healthy; vigorous"
 ]
 ],
 "strokes": [

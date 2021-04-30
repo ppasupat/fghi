@@ -8,178 +8,215 @@
 "words": [
 [
 "虽然",
-0,
 2,
 "suīrán",
 "although; even though"
 ],
 [
 "当然",
-0,
 3,
 "dāngrán",
 "of course; naturally"
 ],
 [
 "然后",
-0,
 3,
 "ránhòu",
 "then; afterwards"
 ],
 [
 "突然",
-0,
 3,
 "tūrán",
 "sudden; abrupt"
 ],
 [
 "既然",
-0,
 4,
 "jìrán",
 "since; given that; now that"
 ],
 [
 "竟然",
-0,
 4,
 "jìngrán",
 "unexpectedly; to one's surprise; go so far as to"
 ],
 [
 "然而",
-0,
 4,
 "rán'ér",
 "however; yet; but"
 ],
 [
 "仍然",
-0,
 4,
 "réngrán",
 "still; yet"
 ],
 [
 "自然",
-0,
 4,
 "zìrán",
 "nature; natural"
 ],
 [
 "必然",
-0,
 5,
 "bìrán",
 "inevitable; certain; necessary"
 ],
 [
 "不然",
-0,
 5,
 "bùrán",
 "otherwise; not so"
 ],
 [
 "果然",
-0,
 5,
 "guǒrán",
 "really; sure enough; as expected"
 ],
 [
 "忽然",
-0,
 5,
 "hūrán",
 "suddenly; all of a sudden"
 ],
 [
 "居然",
-0,
 5,
 "jūrán",
 "unexpectedly; to one's surprise; go so far as to"
 ],
 [
 "偶然",
-0,
 5,
 "ǒurán",
 "accidentally; occasional; fortuitous"
 ],
 [
 "显然",
-0,
 5,
 "xiǎnrán",
 "clear; evidently; obviously"
 ],
 [
 "依然",
-0,
 5,
 "yīrán",
 "still; as before"
 ],
 [
 "公然",
-0,
 6,
 "gōngrán",
 "(do something) openly; undisguised"
 ],
 [
 "固然",
-0,
 6,
 "gùrán",
 "admittedly; it is true that; indeed"
 ],
 [
 "恍然大悟",
-0,
 6,
 "huǎngrándàwù",
 "suddenly see the light; suddenly realize what has happened; twig"
 ],
 [
 "理所当然",
-0,
 6,
 "lǐ suǒ dāng rán",
 "(idiom) it goes without saying; certainly; of course; be natural and right"
 ],
 [
 "茫然",
-0,
 6,
 "mángrán",
 "unseeing; ignorant; have no knowledge of sth."
 ],
 [
 "天然气",
-0,
 6,
 "tiānránqì",
 "natural gas"
 ],
 [
 "一目了然",
-0,
 6,
 "yímùliǎorán",
 "obvious at a glance"
 ],
 [
 "毅然",
-0,
 6,
 "yìrán",
 "without hesitation; resolutely; firmly"
+]
+],
+"extraWords": [
+[
+"然",
+3835,
+"ran2",
+"correct; right; so; thus; like this; -ly"
+],
+[
+"要不然",
+4448,
+"yao4 bu4 ran2",
+"otherwise; or else; or"
+],
+[
+"大自然",
+7959,
+"da4 zi4 ran2",
+"nature (as in Mother Nature)"
+],
+[
+"天然",
+8793,
+"tian1 ran2",
+"natural"
+],
+[
+"安然",
+10819,
+"an1 ran2",
+"safely; peacefully; at a rest"
+],
+[
+"全然",
+10925,
+"quan2 ran2",
+"completely"
+],
+[
+"安然无恙",
+10933,
+"an1 ran2 wu2 yang4",
+"unaffected (by a disease); safe and sound (set phrase)"
+],
+[
+"自然而然",
+11014,
+"zi4 ran2 er2 ran2",
+"involuntary; automatically"
+],
+[
+"焕然一新",
+12526,
+"huan4 ran2 yi1 xin1",
+"to look completely new (idiom); brand new; changed beyond recognition"
+],
+[
+"自然界",
+15598,
+"zi4 ran2 jie4",
+"nature; the natural world"
 ]
 ],
 "strokes": [

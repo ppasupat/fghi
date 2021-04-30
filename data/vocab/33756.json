@@ -8,24 +8,83 @@
 "words": [
 [
 "菜",
-0,
 1,
 "cài",
 "dish (type of food); vegetables"
 ],
 [
 "菜单",
-0,
 3,
 "càidān",
 "menu"
 ],
 [
 "蔬菜",
-0,
 5,
 "shūcài",
 "vegetables; produce"
+]
+],
+"extraWords": [
+[
+"泡菜",
+8110,
+"pao4 cai4",
+"pickled cabbage; Korean kimchhi"
+],
+[
+"小菜",
+9884,
+"xiao3 cai4",
+"appetizer; small side dish"
+],
+[
+"饭菜",
+10910,
+"fan4 cai4",
+"food"
+],
+[
+"点菜",
+11201,
+"dian3 cai4",
+"to order dishes (in a restaurant)"
+],
+[
+"卷心菜",
+13412,
+"juan3 xin1 cai4",
+"cabbage"
+],
+[
+"菠菜",
+15159,
+"bo1 cai4",
+"spinach"
+],
+[
+"菜谱",
+15755,
+"cai4 pu3",
+"menu (in restaurant); recipe; cookbook"
+],
+[
+"生菜",
+16834,
+"sheng1 cai4",
+"lettuce; raw fresh vegetables"
+],
+[
+"剩菜",
+17535,
+"sheng4 cai4",
+"leftovers (food)"
+],
+[
+"甜菜",
+18458,
+"tian2 cai4",
+"beet"
 ]
 ],
 "strokes": [

@@ -8,143 +8,185 @@
 "words": [
 [
 "作业",
-0,
 3,
 "zuòyè",
 "school assignment; homework; task"
 ],
 [
 "毕业",
-0,
 4,
 "bì yè",
 "to graduate; to finish school"
 ],
 [
 "职业",
-0,
 4,
 "zhíyè",
 "profession; occupation"
 ],
 [
 "专业",
-0,
 4,
 "zhuānyè",
 "profession; specialized field of study; major"
 ],
 [
 "工业",
-0,
 5,
 "gōngyè",
 "industry"
 ],
 [
 "行业",
-0,
 5,
 "hángyè",
 "industry; business"
 ],
 [
 "农业",
-0,
 5,
 "nóngyè",
 "agriculture; farming"
 ],
 [
 "企业",
-0,
 5,
 "qǐyè",
 "company; business; firm"
 ],
 [
 "商业",
-0,
 5,
 "shāngyè",
 "business; commerce; trade"
 ],
 [
 "失业",
-0,
 5,
 "shī yè",
 "lose one's job; unemployment"
 ],
 [
 "业务",
-0,
 5,
 "yèwù",
 "business; profession"
 ],
 [
 "业余",
-0,
 5,
 "yèyú",
 "spare time; amateur"
 ],
 [
 "营业",
-0,
 5,
 "yíngyè",
 "do business; to trade"
 ],
 [
 "产业",
-0,
 6,
 "chǎnyè",
 "industry; estate; property"
 ],
 [
 "创业",
-0,
 6,
 "chuàngyè",
 "begin an undertaking; start a major task; start a company"
 ],
 [
 "兢兢业业",
-0,
 6,
 "jīngjīng yèyè",
 "cautious and conscientious"
 ],
 [
 "敬业",
-0,
 6,
 "jìngyè",
 "work ethic"
 ],
 [
 "就业",
-0,
 6,
 "jiùyè",
 "employment; getting a job"
 ],
 [
 "事业",
-0,
 6,
 "shìyè",
 "undertaking; project; cause; enterprise"
 ],
 [
 "物业",
-0,
 6,
 "wùyè",
 "property management"
+]
+],
+"extraWords": [
+[
+"业",
+4298,
+"ye4",
+"business; occupation; study"
+],
+[
+"毕业生",
+9324,
+"bi4 ye4 sheng1",
+"graduate (of a school)"
+],
+[
+"开业",
+9580,
+"kai1 ye4",
+"to open a business; to open a practice; open (for business)"
+],
+[
+"学业",
+9985,
+"xue2 ye4",
+"schoolwork; study material"
+],
+[
+"业主",
+13182,
+"ye4 zhu3",
+"owner; proprietor"
+],
+[
+"业绩",
+14048,
+"ye4 ji4",
+"performance; track record; outstanding achievement; great feat; yield (of investment); growth; performance (i.e. company profits); sales"
+],
+[
+"企业家",
+16739,
+"qi3 ye4 jia1",
+"entrepreneur; industrialist"
+],
+[
+"重操旧业",
+17895,
+"chong2 cao1 jiu4 ye4",
+"to resume one's old trade (idiom)"
+],
+[
+"停业",
+21329,
+"ting2 ye4",
+"to stop business; to close down"
+],
+[
+"商业化",
+21379,
+"shang1 ye4 hua4",
+"to commercialize"
 ]
 ],
 "strokes": [

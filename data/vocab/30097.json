@@ -8,38 +8,95 @@
 "words": [
 [
 "怀疑",
-0,
 4,
 "huáiyí",
 "doubt; to suspect; be skeptical"
 ],
 [
 "疑问",
-0,
 5,
 "yíwèn",
 "doubt; question; to query"
 ],
 [
 "迟疑",
-0,
 6,
 "chíyí",
 "hesitate"
 ],
 [
 "嫌疑",
-0,
 6,
 "xiányí",
 "suspicion; (be) suspected (of)"
 ],
 [
 "疑惑",
-0,
 6,
 "yíhuò",
 "(a sense of) uncertainty; to feel unsure about something; uncertainty"
+]
+],
+"extraWords": [
+[
+"毫无疑问",
+2635,
+"hao2 wu2 yi2 wen4",
+"certainty; without a doubt"
+],
+[
+"嫌疑犯",
+3088,
+"xian2 yi2 fan4",
+"a suspect"
+],
+[
+"疑犯",
+3157,
+"yi2 fan4",
+"a suspect"
+],
+[
+"嫌疑人",
+3771,
+"xian2 yi2 ren2",
+"a suspect"
+],
+[
+"可疑",
+3832,
+"ke3 yi2",
+"suspicious; dubious"
+],
+[
+"质疑",
+4111,
+"zhi4 yi2",
+"to call into question; to question (truth or validity)"
+],
+[
+"无疑",
+5380,
+"wu2 yi2",
+"no doubt; undoubtedly"
+],
+[
+"疑",
+6083,
+"yi2",
+"to doubt; to misbelieve; to suspect"
+],
+[
+"疑虑",
+10405,
+"yi2 lu:4",
+"hesitation; misgivings; doubt"
+],
+[
+"多疑",
+10700,
+"duo1 yi2",
+"skeptical"
 ]
 ],
 "strokes": [

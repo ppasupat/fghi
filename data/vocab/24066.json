@@ -8,24 +8,83 @@
 "words": [
 [
 "超市",
-0,
 3,
 "chāoshì",
 "supermarket"
 ],
 [
 "城市",
-0,
 3,
 "chéngshì",
 "city or town"
 ],
 [
 "市场",
-0,
 5,
 "shìchǎng",
 "market"
+]
+],
+"extraWords": [
+[
+"市",
+1931,
+"shi4",
+"market; city"
+],
+[
+"市长",
+2335,
+"shi4 zhang3",
+"mayor"
+],
+[
+"市民",
+4529,
+"shi4 min2",
+"city resident"
+],
+[
+"市中心",
+5085,
+"shi4 zhong1 xin1",
+"city center; downtown"
+],
+[
+"市区",
+5602,
+"shi4 qu1",
+"urban district; downtown; city center"
+],
+[
+"都市",
+7540,
+"du1 shi4",
+"city; metropolis"
+],
+[
+"市政厅",
+9272,
+"shi4 zheng4 ting1",
+"city hall"
+],
+[
+"黑市",
+9917,
+"hei1 shi4",
+"black market"
+],
+[
+"上市",
+10263,
+"shang4 shi4",
+"on the market; to float (a company on the stock market)"
+],
+[
+"市政府",
+10435,
+"shi4 zheng4 fu3",
+"city hall; city government"
 ]
 ],
 "strokes": [

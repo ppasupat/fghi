@@ -8,45 +8,101 @@
 "words": [
 [
 "离",
-0,
 2,
 "lí",
 "leave; depart; go away; apart from"
 ],
 [
 "离开",
-0,
 3,
 "líkāi",
 "leave; depart"
 ],
 [
 "距离",
-0,
 4,
 "jùlí",
 "distance; be apart; away from"
 ],
 [
 "离婚",
-0,
 5,
 "lí hūn",
 "to divorce; divorced from (one's spouse)"
 ],
 [
 "隔离",
-0,
 6,
 "gélí",
 "insulate; separate; isolate"
 ],
 [
 "脱离",
-0,
 6,
 "tuōlí",
 "to separate oneself from; to break away from; be divorced from; diastasis (medicine); abscission; abjunction (botany)"
+]
+],
+"extraWords": [
+[
+"远离",
+2409,
+"yuan3 li2",
+"removed from"
+],
+[
+"分离",
+4259,
+"fen1 li2",
+"to separate"
+],
+[
+"逃离",
+4412,
+"tao2 li2",
+"to run out; to escape"
+],
+[
+"撤离",
+4989,
+"che4 li2",
+"withdraw from; evacuate"
+],
+[
+"离去",
+5233,
+"li2 qu4",
+"to leave; to exit"
+],
+[
+"离谱",
+6154,
+"li2 pu3",
+"excessive; beyond reasonable limits; irregular"
+],
+[
+"偏离",
+6524,
+"pian1 li2",
+"deviate; diverge; wander"
+],
+[
+"离奇",
+9373,
+"li2 qi2",
+"odd"
+],
+[
+"离职",
+10727,
+"li2 zhi2",
+"retire; leave office; quit a job"
+],
+[
+"离不开",
+10786,
+"li2 bu5 kai1",
+"inseparable; inevitably linked to"
 ]
 ],
 "strokes": [

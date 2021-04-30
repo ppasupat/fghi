@@ -8,136 +8,179 @@
 "words": [
 [
 "事情",
-0,
 2,
 "shìqing",
 "matter; affair; thing; business"
 ],
 [
 "热情",
-0,
 3,
 "rèqíng",
 "cordial; warm; enthusiastic"
 ],
 [
 "爱情",
-0,
 4,
 "àiqíng",
 "(romantic) love"
 ],
 [
 "感情",
-0,
 4,
 "gǎnqíng",
 "feeling; emotion; sensation"
 ],
 [
 "情况",
-0,
 4,
 "qíngkuàng",
 "circumstance; state of affairs; situation"
 ],
 [
 "同情",
-0,
 4,
 "tóngqíng",
 "compassion; sympathy"
 ],
 [
 "心情",
-0,
 4,
 "xīnqíng",
 "mood; state of mind"
 ],
 [
 "表情",
-0,
 5,
 "biǎoqíng",
 "(facial) expression; express one's feelings"
 ],
 [
 "情景",
-0,
 5,
 "qíngjǐng",
 "scene; sight; circumstances"
 ],
 [
 "情绪",
-0,
 5,
 "qíngxù",
 "emotion; sentiment; mood; morale"
 ],
 [
 "风土人情",
-0,
 6,
 "fēngtǔrénqíng",
 "local conditions (human and environmental)"
 ],
 [
 "激情",
-0,
 6,
 "jīqíng",
 "passion; strong emotion; fervor; enthusiasm"
 ],
 [
 "情报",
-0,
 6,
 "qíngbào",
 "intelligence; information-gathering"
 ],
 [
 "情节",
-0,
 6,
 "qíngjié",
 "plot; circumstances"
 ],
 [
 "情理",
-0,
 6,
 "qínglǐ",
 "reason; sense"
 ],
 [
 "情形",
-0,
 6,
 "qíngxing",
 "circumstances; situation"
 ],
 [
 "深情厚谊",
-0,
 6,
 "shēnqínghòuyì",
 "profound friendship"
 ],
 [
 "盛情",
-0,
 6,
 "shèngqíng",
 "great kindness; boundless hospitality"
 ],
 [
 "心甘情愿",
-0,
 6,
 "xīngānqíngyuàn",
 "totally willing; perfectly happy to"
+]
+],
+"extraWords": [
+[
+"情",
+795,
+"qing2",
+"feeling; emotion; passion; situation"
+],
+[
+"情感",
+2840,
+"qing2 gan3",
+"feeling; emotion; to move (emotionally)"
+],
+[
+"情人",
+2925,
+"qing2 ren2",
+"lover; sweatheart"
+],
+[
+"色情",
+3222,
+"se4 qing2",
+"erotic; pornographic"
+],
+[
+"尽情",
+3805,
+"jin4 qing2",
+"as much as one likes"
+],
+[
+"调情",
+4653,
+"tiao2 qing2",
+"flirt"
+],
+[
+"病情",
+5098,
+"bing4 qing2",
+"state of an illness; patient's condition"
+],
+[
+"无情",
+5605,
+"wu2 qing2",
+"pitiless; ruthless; merciless; heartless"
+],
+[
+"情人节",
+5647,
+"qing2 ren2 jie2",
+"Valentine's Day"
+],
+[
+"情侣",
+5827,
+"qing2 lu:3",
+"sweethearts; lovers"
 ]
 ],
 "strokes": [

@@ -8,52 +8,107 @@
 "words": [
 [
 "沉默",
-0,
 5,
 "chénmò",
 "silent; uncommunicative"
 ],
 [
 "沉淀",
-0,
 6,
 "chéndiàn",
 "to precipitate (solid sediment out of a solution); to settle"
 ],
 [
 "沉闷",
-0,
 6,
 "chénmèn",
 "oppressive (of weather); heavy; depressed; not happy"
 ],
 [
 "沉思",
-0,
 6,
 "chénsī",
 "ponder; contemplate; meditation"
 ],
 [
 "沉重",
-0,
 6,
 "chénzhòng",
 "heavy; hard; serious"
 ],
 [
 "沉着",
-0,
 6,
 "chénzhuó",
 "calm and collected; not nervous"
 ],
 [
 "深沉",
-0,
 6,
 "shēnchén",
 "deep; extreme; low pitched (sound); grave; of major importance"
+]
+],
+"extraWords": [
+[
+"消沉",
+9506,
+"xiao1 chen2",
+"depressed; bad mood; low spirit"
+],
+[
+"下沉",
+13932,
+"xia4 chen2",
+"to sink down"
+],
+[
+"阴沉",
+16224,
+"yin1 chen2",
+"gloomy"
+],
+[
+"低沉",
+18127,
+"di1 chen2",
+"overcast; gloomy; downcast; deep and low (of sound); muffled"
+],
+[
+"沉默寡言",
+21131,
+"chen2 mo4 gua3 yan2",
+"habitually silent (idiom); reticent; uncommunicative"
+],
+[
+"昏昏沉沉",
+31251,
+"hun1 hun1 chen2 chen2",
+"dizzy"
+],
+[
+"破釜沉舟",
+39300,
+"po4 fu3 chen2 zhou1",
+"lit. to break the cauldrons and sink the boats (idiom); fig. to cut off one's means of retreat; to burn one's boats"
+],
+[
+"昏沉",
+49940,
+"hun1 chen2",
+"murky; dazed; befuddled; dizzy"
+],
+[
+"沉鱼落雁",
+64335,
+"chen2 yu2 luo4 yan4",
+"\"lit. fish sink, goose alights (idiom, from Zhuangzi 庄子); fig. female beauty captivating even the birds and beasts\""
+],
+[
+"沉香",
+86185,
+"chen2 xiang1",
+"Chinese eaglewood; agarwood tree (Aquilaria agallocha); lignum aloes"
 ]
 ],
 "strokes": [

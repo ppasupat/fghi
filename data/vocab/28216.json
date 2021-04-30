@@ -8,45 +8,101 @@
 "words": [
 [
 "旅游",
-0,
 2,
 "lǚyóu",
 "trip; journey; tour"
 ],
 [
 "游泳",
-0,
 2,
 "yóuyǒng",
 "to swim"
 ],
 [
 "游戏",
-0,
 3,
 "yóuxì",
 "game; play; recreation"
 ],
 [
 "导游",
-0,
 4,
 "dǎoyóu",
 "tour guide"
 ],
 [
 "游览",
-0,
 5,
 "yóulǎn",
 "go sight-seeing; tour"
 ],
 [
 "上游",
-0,
 6,
 "shàngyóu",
 "upper reaches (of a river); advanced position"
+]
+],
+"extraWords": [
+[
+"游",
+2419,
+"you2",
+"to walk; to tour; to roam; to travel; surname You; to walk; to tour; to roam; to travel; to swim; surname You"
+],
+[
+"游泳池",
+3826,
+"you2 yong3 chi2",
+"swimming pool"
+],
+[
+"游行",
+3949,
+"you2 xing2",
+"march; parade; demonstration"
+],
+[
+"游艇",
+5020,
+"you2 ting3",
+"barge; yacht"
+],
+[
+"游客",
+6804,
+"you2 ke4",
+"traveler; tourist"
+],
+[
+"游荡",
+6998,
+"you2 dang4",
+"stray"
+],
+[
+"游戏机",
+10403,
+"you2 xi4 ji1",
+"gameboy; game machine"
+],
+[
+"梦游",
+10954,
+"meng4 you2",
+"sleep walking; fig. dream voyage"
+],
+[
+"周游",
+11581,
+"zhou1 you2",
+"tour; to travel around"
+],
+[
+"电子游戏",
+11605,
+"dian4 zi3 you2 xi4",
+"computer and video games"
 ]
 ],
 "strokes": [

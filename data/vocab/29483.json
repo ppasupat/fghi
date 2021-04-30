@@ -8,17 +8,65 @@
 "words": [
 [
 "猫",
-0,
 1,
 "māo",
 "cat"
 ],
 [
 "熊猫",
-0,
 3,
 "xióngmāo",
 "panda"
+]
+],
+"extraWords": [
+[
+"猫头鹰",
+9247,
+"mao1 tou2 ying1",
+"owl"
+],
+[
+"野猫",
+9741,
+"ye3 mao1",
+"wildcat"
+],
+[
+"夜猫子",
+25520,
+"ye4 mao1 zi5",
+"owl; (fig.) night owl"
+],
+[
+"大熊猫",
+33036,
+"da4 xiong2 mao1",
+"giant panda (Ailuropoda melanoleuca)"
+],
+[
+"小熊猫",
+36987,
+"xiao3 xiong2 mao1",
+"lesser panda; red panda; firefox"
+],
+[
+"波斯猫",
+39093,
+"Bo1 si1 mao1",
+"Persian (cat)"
+],
+[
+"狸猫",
+43692,
+"li2 mao1",
+"a civet (arboreal cat); a palm civet; leopard cat"
+],
+[
+"灵猫",
+46604,
+"ling2 mao1",
+"a civet (arboreal cat); viverrid (mammal group including mongoose and civet)"
 ]
 ],
 "strokes": [

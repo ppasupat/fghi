@@ -8,52 +8,107 @@
 "words": [
 [
 "职业",
-0,
 4,
 "zhíyè",
 "profession; occupation"
 ],
 [
 "辞职",
-0,
 5,
 "cízhí",
 "resign from a position"
 ],
 [
 "兼职",
-0,
 5,
 "jiānzhí",
 "part time"
 ],
 [
 "就职",
-0,
 6,
 "jiù zhí",
 "take office; assume a post"
 ],
 [
 "职能",
-0,
 6,
 "zhínéng",
 "function; role"
 ],
 [
 "职位",
-0,
 6,
 "zhíwèi",
 "(professional) position"
 ],
 [
 "职务",
-0,
 6,
 "zhíwù",
 "post; a position; job; duties"
+]
+],
+"extraWords": [
+[
+"职责",
+2750,
+"zhi2 ze2",
+"\"duty, responsibility, or obligation\""
+],
+[
+"职",
+2929,
+"zhi2",
+"office; duty"
+],
+[
+"职员",
+5610,
+"zhi2 yuan2",
+"office worker; staff member"
+],
+[
+"离职",
+10727,
+"li2 zhi2",
+"retire; leave office; quit a job"
+],
+[
+"复职",
+11950,
+"fu4 zhi2",
+"to resume a post"
+],
+[
+"职权",
+12537,
+"zhi2 quan2",
+"authority; power over others"
+],
+[
+"任职",
+13288,
+"ren4 zhi2",
+"hold an office or post"
+],
+[
+"尽职",
+13323,
+"jin4 zhi2",
+"to discharge one's duties; conscientious"
+],
+[
+"玩忽职守",
+14475,
+"wan2 hu1 zhi2 shou3",
+"to neglect one's duty; dereliction of duty; malpractice"
+],
+[
+"失职",
+14680,
+"shi1 zhi2",
+"to lose one's job; unemployment; not to fulfil one's obligations; to neglect one's job; dereliction of duty"
 ]
 ],
 "strokes": [

@@ -8,45 +8,101 @@
 "words": [
 [
 "笑",
-0,
 2,
 "xiào",
 "to laugh; to smile"
 ],
 [
 "开玩笑",
-0,
 4,
 "kāi wánxiào",
 "joke; play a joke; make fun of"
 ],
 [
 "笑话",
-0,
 4,
 "xiàohua",
 "joke; laugh at"
 ],
 [
 "微笑",
-0,
 5,
 "wēixiào",
 "smile"
 ],
 [
 "嘲笑",
-0,
 6,
 "cháoxiào",
 "jeer; mock; scoff"
 ],
 [
 "讥笑",
-0,
 6,
 "jīxiào",
 "sneer at; deride"
+]
+],
+"extraWords": [
+[
+"玩笑",
+655,
+"wan2 xiao4",
+"joke; jest"
+],
+[
+"可笑",
+2300,
+"ke3 xiao4",
+"funny; ridiculous"
+],
+[
+"好笑",
+2304,
+"hao3 xiao4",
+"laughable; funny; ridiculous"
+],
+[
+"笑容",
+3979,
+"xiao4 rong2",
+"smile; smiling expression"
+],
+[
+"取笑",
+5057,
+"qu3 xiao4",
+"tease; make fun of"
+],
+[
+"笑声",
+6521,
+"xiao4 sheng1",
+"laughter"
+],
+[
+"欢笑",
+7863,
+"huan1 xiao4",
+"to laugh happily; a belly-laugh"
+],
+[
+"笑脸",
+8600,
+"xiao4 lian3",
+"smiling face; smiley :)"
+],
+[
+"笑柄",
+11610,
+"xiao4 bing3",
+"to scoff at sb; a laughing stock"
+],
+[
+"笑料",
+15002,
+"xiao4 liao4",
+"laughing stock"
 ]
 ],
 "strokes": [

@@ -8,31 +8,89 @@
 "words": [
 [
 "盘子",
-0,
 3,
 "pánzi",
 "plate; dish; tray"
 ],
 [
 "光盘",
-0,
 5,
 "guāngpán",
 "CD (compact disc)"
 ],
 [
 "键盘",
-0,
 5,
 "jiànpán",
 "keyboard"
 ],
 [
 "盘旋",
-0,
 6,
 "pánxuán",
 "spiral; coil; circle; go around"
+]
+],
+"extraWords": [
+[
+"盘",
+2149,
+"pan2",
+"\"dish; tray; to build; to check; to examine; to transfer; classifier for food: dish, helping; to coil; classifier for coils of wire; tectonic plate\""
+],
+[
+"地盘",
+3069,
+"di4 pan2",
+"domain; territory under one's control; foundation of a building; base of operations; crust of earth"
+],
+[
+"硬盘",
+5918,
+"ying4 pan2",
+"hard disk"
+],
+[
+"盘问",
+7179,
+"pan2 wen4",
+"to interrogate; to cross-examine; to inquire"
+],
+[
+"方向盘",
+8732,
+"fang1 xiang4 pan2",
+"steering wheel"
+],
+[
+"全盘",
+11440,
+"quan2 pan2",
+"overall; comprehensive"
+],
+[
+"盘算",
+15447,
+"pan2 suan4",
+"to plot; to scheme; to calculate"
+],
+[
+"棋盘",
+16005,
+"qi2 pan2",
+"chessboard"
+],
+[
+"圆盘",
+17374,
+"yuan2 pan2",
+"disk"
+],
+[
+"罗盘",
+17457,
+"luo2 pan2",
+"compass"
 ]
 ],
 "strokes": [

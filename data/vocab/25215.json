@@ -8,52 +8,107 @@
 "words": [
 [
 "承担",
-0,
 5,
 "chéngdān",
 "undertake; assume (responsibility)"
 ],
 [
 "承认",
-0,
 5,
 "chéngrèn",
 "to admit; concede; acknowledge"
 ],
 [
 "承受",
-0,
 5,
 "chéngshòu",
 "to bear; support; endure; sustain"
 ],
 [
 "承办",
-0,
 6,
 "chéngbàn",
 "undertake; accept an assignment"
 ],
 [
 "承包",
-0,
 6,
 "chéngbāo",
 "to contract (to undertake a job)"
 ],
 [
 "承诺",
-0,
 6,
 "chéngnuò",
 "to promise"
 ],
 [
 "继承",
-0,
 6,
 "jìchéng",
 "inherit; carry on; succeed"
+]
+],
+"extraWords": [
+[
+"继承人",
+10349,
+"ji4 cheng2 ren2",
+"heir; successor"
+],
+[
+"奉承",
+13316,
+"feng4 cheng5",
+"to fawn on; to flatter; to ingratiate oneself"
+],
+[
+"承",
+15987,
+"cheng2",
+"to bear; to carry; to hold; to continue; to undertake; to take charge; owing to; due to; to receive"
+],
+[
+"承蒙",
+17188,
+"cheng2 meng2",
+"to be indebted (to sb)"
+],
+[
+"继承权",
+18072,
+"ji4 cheng2 quan2",
+"inheritance"
+],
+[
+"承载",
+19884,
+"cheng2 zai4",
+"to bear the weight; to sustain"
+],
+[
+"传承",
+20654,
+"chuan2 cheng2",
+"to pass on (to future generations); passed on (from former times); a continued tradition; an inheritance"
+],
+[
+"承包人",
+22151,
+"cheng2 bao1 ren2",
+"contractor"
+],
+[
+"阿谀奉承",
+23154,
+"a1 yu2 feng4 cheng2",
+"flattering and fawning (idiom); sweet-talking"
+],
+[
+"轴承",
+24882,
+"zhou2 cheng2",
+"bearing (mechanical)"
 ]
 ],
 "strokes": [

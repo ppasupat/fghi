@@ -8,45 +8,101 @@
 "words": [
 [
 "地图",
-0,
 3,
 "dìtú",
 "map"
 ],
 [
 "图书馆",
-0,
 3,
 "túshūguǎn",
 "library"
 ],
 [
 "企图",
-0,
 6,
 "qǐtú",
 "(to ) attempt; try; attempt"
 ],
 [
 "试图",
-0,
 6,
 "shìtú",
 "to try; to attempt"
 ],
 [
 "图案",
-0,
 6,
 "tú'àn",
 "design; pattern"
 ],
 [
 "意图",
-0,
 6,
 "yìtú",
 "intent; intention; intend"
+]
+],
+"extraWords": [
+[
+"图",
+2155,
+"tu2",
+"diagram; to plan; picture; drawing; chart"
+],
+[
+"图像",
+4176,
+"tu2 xiang4",
+"image; picture; graphic"
+],
+[
+"图片",
+4318,
+"tu2 pian4",
+"image; picture; photograph"
+],
+[
+"西雅图",
+4679,
+"Xi1 ya3 tu2",
+"\"Seattle, Washington State\""
+],
+[
+"拼图",
+6644,
+"pin1 tu2",
+"\"abbr. of 拼布图形, jigsaw puzzle\""
+],
+[
+"图书",
+10931,
+"tu2 shu1",
+"books (in a library or bookstore)"
+],
+[
+"图表",
+11043,
+"tu2 biao3",
+"chart; diagram"
+],
+[
+"草图",
+11141,
+"cao3 tu2",
+"a sketch; rough drawing"
+],
+[
+"蓝图",
+11420,
+"lan2 tu2",
+"blueprint"
+],
+[
+"图纸",
+11801,
+"tu2 zhi3",
+"blueprint; drawing; design plans; graph paper"
 ]
 ],
 "strokes": [

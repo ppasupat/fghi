@@ -8,73 +8,125 @@
 "words": [
 [
 "颜色",
-0,
 2,
 "yánsè",
 "color"
 ],
 [
 "景色",
-0,
 4,
 "jǐngsè",
 "scenery; landscape; scene; view"
 ],
 [
 "出色",
-0,
 5,
 "chūsè",
 "remarkable; outstanding; excellent"
 ],
 [
 "角色",
-0,
 5,
 "juésè",
 "role; part"
 ],
 [
 "色彩",
-0,
 5,
 "sècǎi",
 "tint; color; hue"
 ],
 [
 "特色",
-0,
 5,
 "tèsè",
 "characteristic; distinguishing feature"
 ],
 [
 "粉色",
-0,
 6,
 "fěnsè",
 "pink"
 ],
 [
 "气色",
-0,
 6,
 "qìsè",
 "complexion"
 ],
 [
 "眼色",
-0,
 6,
 "yǎnsè",
 "a wink; signal with one's eyes"
 ],
 [
 "棕色",
-0,
 6,
 "zōngsè",
 "brown (the color)"
+]
+],
+"extraWords": [
+[
+"红色",
+1776,
+"hong2 se4",
+"red (color); revolutionary"
+],
+[
+"蓝色",
+1947,
+"lan2 se4",
+"blue"
+],
+[
+"黑色",
+2382,
+"hei1 se4",
+"black"
+],
+[
+"绿色",
+2646,
+"lu:4 se4",
+"green"
+],
+[
+"白色",
+2655,
+"bai2 se4",
+"white; fig. reactionary"
+],
+[
+"色",
+2745,
+"se4/shai3",
+"color; look; appearance; sex; color; dice"
+],
+[
+"色情",
+3222,
+"se4 qing2",
+"erotic; pornographic"
+],
+[
+"黄色",
+3284,
+"huang2 se4",
+"yellow; pornographic"
+],
+[
+"以色列",
+5278,
+"Yi3 se4 lie4",
+"Israel"
+],
+[
+"金色",
+5351,
+"jin1 se4",
+"golden"
 ]
 ],
 "strokes": [

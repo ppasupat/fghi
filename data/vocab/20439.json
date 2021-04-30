@@ -8,38 +8,95 @@
 "words": [
 [
 "风俗",
-0,
 5,
 "fēngsú",
 "social custom"
 ],
 [
 "俗话",
-0,
 6,
 "súhuà",
 "common saying; proverb"
 ],
 [
 "通俗",
-0,
 6,
 "tōngsú",
 "popular; common; everyday; average; vulgar"
 ],
 [
 "习俗",
-0,
 6,
 "xísú",
 "custom; tradition; (local) convention"
 ],
 [
 "庸俗",
-0,
 6,
 "yōngsú",
 "filthy; vulgar; debased"
+]
+],
+"extraWords": [
+[
+"俗",
+8266,
+"su2",
+"custom; convention; popular; common; coarse; vulgar; secular"
+],
+[
+"粗俗",
+9776,
+"cu1 su2",
+"vulgar"
+],
+[
+"俗气",
+12992,
+"su2 qi4",
+"tacky; inelegant; in poor taste; vulgar; banal"
+],
+[
+"低俗",
+13826,
+"di1 su2",
+"vulgar; poor taste"
+],
+[
+"世俗",
+14782,
+"shi4 su2",
+"profane; secular; worldly"
+],
+[
+"俗话说",
+19062,
+"su2 hua4 shuo1",
+"as the proverb says; as they say..."
+],
+[
+"俗语",
+21668,
+"su2 yu3",
+"common saying; proverb"
+],
+[
+"俗称",
+23567,
+"su2 cheng1",
+"commonly referred to as; common term"
+],
+[
+"入乡随俗",
+25987,
+"ru4 xiang1 sui2 su2",
+"\"When you enter a village, follow the local customs (idiom); do as the natives do; When in Rome, do as the Romans do\""
+],
+[
+"惊世骇俗",
+28722,
+"jing1 shi4 hai4 su2",
+"universally shocking; to offend the whole of society"
 ]
 ],
 "strokes": [

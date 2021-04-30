@@ -8,45 +8,101 @@
 "words": [
 [
 "汇率",
-0,
 5,
 "huìlǜ",
 "exchange rate"
 ],
 [
 "坦率",
-0,
 5,
 "tǎnshuài",
 "frank"
 ],
 [
 "效率",
-0,
 5,
 "xiàolǜ",
 "efficiency"
 ],
 [
 "草率",
-0,
 6,
 "cǎoshuài",
 "cursory; careless; negligent; sloppy; not serious"
 ],
 [
 "频率",
-0,
 6,
 "pínlǜ",
 "frequency"
 ],
 [
 "率领",
-0,
 6,
 "shuàilǐng",
 "lead; command; head"
+]
+],
+"extraWords": [
+[
+"率",
+3404,
+"lu:4/shuai4",
+"rate; frequency; to lead; to command; rash; hasty; frank; straightforward; generally; usually"
+],
+[
+"几率",
+6144,
+"ji1 lu:4",
+"probability; odds"
+],
+[
+"收视率",
+6300,
+"shou1 shi4 lu:4",
+"ratings"
+],
+[
+"概率",
+10245,
+"gai4 lu:4",
+"probability (math.)"
+],
+[
+"轻率",
+12978,
+"qing1 shuai4",
+"hasty"
+],
+[
+"比率",
+16485,
+"bi3 lu:4",
+"ratio; rate; percentage"
+],
+[
+"死亡率",
+18230,
+"si3 wang2 lu:4",
+"mortality rate"
+],
+[
+"直率",
+18263,
+"zhi2 shuai4",
+"candid; frank"
+],
+[
+"支持率",
+18645,
+"zhi1 chi2 lu:4",
+"support level; popularity rating"
+],
+[
+"利率",
+19821,
+"li4 lu:4",
+"interest rates"
 ]
 ],
 "strokes": [

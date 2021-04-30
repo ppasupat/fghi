@@ -8,38 +8,95 @@
 "words": [
 [
 "电影",
-0,
 1,
 "diànyǐng",
 "movie; film"
 ],
 [
 "影响",
-0,
 3,
 "yǐngxiǎng",
 "influence; affect; effect"
 ],
 [
 "合影",
-0,
 5,
 "héyǐng",
 "joint photo; group photo"
 ],
 [
 "摄影",
-0,
 5,
 "shè yǐng",
 "take a photograph; shoot a film"
 ],
 [
 "影子",
-0,
 5,
 "yǐngzi",
 "shadow; reflection"
+]
+],
+"extraWords": [
+[
+"影",
+2755,
+"ying3",
+"picture; image; reflection; shadow"
+],
+[
+"摄影师",
+2980,
+"she4 ying3 shi1",
+"photographer"
+],
+[
+"影片",
+4327,
+"ying3 pian4",
+"film; movie"
+],
+[
+"阴影",
+4330,
+"yin1 ying3",
+"shadow"
+],
+[
+"影像",
+4802,
+"ying3 xiang4",
+"image"
+],
+[
+"摄影机",
+6080,
+"she4 ying3 ji1",
+"camera"
+],
+[
+"电影院",
+6869,
+"dian4 ying3 yuan4",
+"cinema; movie theater"
+],
+[
+"影响力",
+7319,
+"ying3 xiang3 li4",
+"influence; impact"
+],
+[
+"影星",
+8207,
+"ying3 xing1",
+"film star"
+],
+[
+"幻影",
+9276,
+"huan4 ying3",
+"phantom; mirage"
 ]
 ],
 "strokes": [

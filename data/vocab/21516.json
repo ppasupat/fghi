@@ -8,87 +8,137 @@
 "words": [
 [
 "同学",
-0,
 1,
 "tóngxué",
 "fellow student; schoolmate"
 ],
 [
 "同事",
-0,
 3,
 "tóngshì",
 "colleague; co-worker"
 ],
 [
 "同意",
-0,
 3,
 "tóngyì",
 "agree; to consent; approve"
 ],
 [
 "共同",
-0,
 4,
 "gòngtóng",
 "together; common; joint"
 ],
 [
 "同情",
-0,
 4,
 "tóngqíng",
 "compassion; sympathy"
 ],
 [
 "同时",
-0,
 4,
 "tóngshí",
 "at the same time; simultaneously"
 ],
 [
 "相同",
-0,
 4,
 "xiāngtóng",
 "identical; same; alike"
 ],
 [
 "合同",
-0,
 5,
 "hétong",
 "contract"
 ],
 [
 "胡同",
-0,
 5,
 "hútòng",
 "lane; alley"
 ],
 [
 "连同",
-0,
 6,
 "liántóng",
 "together with; along with"
 ],
 [
 "同胞",
-0,
 6,
 "tóngbāo",
 "compatriot; fellow countryman"
 ],
 [
 "同志",
-0,
 6,
 "tóngzhì",
 "comrade; gay (slang)"
+]
+],
+"extraWords": [
+[
+"同",
+608,
+"tong2/tong4",
+"like; same; similar; together; alike; with"
+],
+[
+"不同",
+637,
+"bu4 tong2",
+"different; distinct; not the same; not alike"
+],
+[
+"同性恋",
+943,
+"tong2 xing4 lian4",
+"homosexuality; gay person; gay love"
+],
+[
+"同样",
+1011,
+"tong2 yang4",
+"same; equal; equivalent"
+],
+[
+"与众不同",
+3302,
+"yu3 zhong4 bu4 tong2",
+"to stand out from the masses (idiom)"
+],
+[
+"同伴",
+3790,
+"tong2 ban4",
+"companion; comrade; fellow"
+],
+[
+"如同",
+3858,
+"ru2 tong2",
+"like; as"
+],
+[
+"同伙",
+4175,
+"tong2 huo3",
+"colleague; co-conspirator"
+],
+[
+"赞同",
+4709,
+"zan4 tong2",
+"to approve of; to endorse; (vote) in favor; to approve of; to endorse; (vote) in favor"
+],
+[
+"共同点",
+4852,
+"gong4 tong2 dian3",
+"common ground"
 ]
 ],
 "strokes": [

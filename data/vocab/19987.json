@@ -8,59 +8,113 @@
 "words": [
 [
 "专门",
-0,
 4,
 "zhuānmén",
 "specialized"
 ],
 [
 "专业",
-0,
 4,
 "zhuānyè",
 "profession; specialized field of study; major"
 ],
 [
 "专家",
-0,
 5,
 "zhuānjiā",
 "expert; specialist"
 ],
 [
 "专心",
-0,
 5,
 "zhuānxīn",
 "be absorbed; concentrate; attentive"
 ],
 [
 "专长",
-0,
 6,
 "zhuāncháng",
 "specialty; special knowledge or ability"
 ],
 [
 "专程",
-0,
 6,
 "zhuānchéng",
 "special-purpose trip"
 ],
 [
 "专利",
-0,
 6,
 "zhuānlì",
 "patent"
 ],
 [
 "专题",
-0,
 6,
 "zhuāntí",
 "special topic; questions; special matter or subject"
+]
+],
+"extraWords": [
+[
+"专辑",
+3623,
+"zhuan1 ji2",
+"album; record (music); special collection of printed or broadcast material"
+],
+[
+"专",
+5166,
+"zhuan1",
+"\"for a particular person, occasion, purpose; focused on one thing; special; expert; particular (to sth); concentrated; specialized\""
+],
+[
+"专注",
+5473,
+"zhuan1 zhu4",
+"concentrated; single-mindedly devoted to"
+],
+[
+"专用",
+7370,
+"zhuan1 yong4",
+"special; dedicated"
+],
+[
+"专栏",
+7565,
+"zhuan1 lan2",
+"special column"
+],
+[
+"专访",
+12093,
+"zhuan1 fang3",
+"exclusive interview"
+],
+[
+"专员",
+13934,
+"zhuan1 yuan2",
+"assistant director; commissioner"
+],
+[
+"专卖店",
+16908,
+"zhuan1 mai4 dian4",
+"specialty store"
+],
+[
+"专职",
+17108,
+"zhuan1 zhi2",
+"special duty; assigned full time to a task"
+],
+[
+"专线",
+18328,
+"zhuan1 xian4",
+"special-purpose phone line or communications link; hotline; special rail line (eg between airport and city); CL:条[tiao2]"
 ]
 ],
 "strokes": [

@@ -8,10 +8,47 @@
 "words": [
 [
 "肿瘤",
-0,
 6,
 "zhǒngliú",
 "tumor; neoplasm"
+]
+],
+"extraWords": [
+[
+"瘤",
+7403,
+"liu2",
+"tumor"
+],
+[
+"脑瘤",
+12712,
+"nao3 liu2",
+"brain tumor"
+],
+[
+"恶性肿瘤",
+28721,
+"e4 xing4 zhong3 liu2",
+"malignant tumor"
+],
+[
+"肉瘤",
+37683,
+"rou4 liu2",
+"wart; sarcoma; fig. superfluous; useless"
+],
+[
+"骨瘤",
+58084,
+"gu3 liu2",
+"osteoma (benign tumor composed of bone-like material)"
+],
+[
+"良性肿瘤",
+66464,
+"liang2 xing4 zhong3 liu2",
+"benign tumor"
 ]
 ],
 "strokes": [

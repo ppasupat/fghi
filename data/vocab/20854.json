@@ -8,73 +8,125 @@
 "words": [
 [
 "其实",
-0,
 3,
 "qíshí",
 "actually; in fact"
 ],
 [
 "其他",
-0,
 3,
 "qítā",
 "other; else"
 ],
 [
 "其次",
-0,
 4,
 "qícì",
 "next; secondly"
 ],
 [
 "其中",
-0,
 4,
 "qízhōng",
 "among; in; included among these"
 ],
 [
 "尤其",
-0,
 4,
 "yóuqí",
 "especially; particularly"
 ],
 [
 "极其",
-0,
 5,
 "jíqí",
 "extremely; exceedingly"
 ],
 [
 "其余",
-0,
 5,
 "qíyú",
 "the others; the rest; remaining"
 ],
 [
 "与其",
-0,
 5,
 "yǔqí",
 "rather than; better than"
 ],
 [
 "名副其实",
-0,
 6,
 "míng fù qí shí",
 "not just in name only; but also in reality"
 ],
 [
 "莫名其妙",
-0,
 6,
 "mòmíngqímiào",
 "odd; baffling; unaccountable"
+]
+],
+"extraWords": [
+[
+"其",
+981,
+"ji1/qi2",
+"his; her; its; theirs; that; such; it (refers to sth preceding it)"
+],
+[
+"其它",
+1277,
+"qi2 ta1",
+"other; the others; else; other than it; in addition to the thing mentioned above"
+],
+[
+"土耳其",
+6947,
+"Tu3 er3 qi2",
+"Turkey"
+],
+[
+"及其",
+11036,
+"ji2 qi2",
+"and; as well as"
+],
+[
+"若无其事",
+14492,
+"ruo4 wu2 qi2 shi4",
+"as if nothing had happened (idiom); calmly; nonchalantly"
+],
+[
+"马其顿",
+15036,
+"Ma3 qi2 dun4",
+"Macedonia"
+],
+[
+"出其不意",
+15802,
+"chu1 qi2 bu4 yi4",
+"to do sth when least expected (idiom); to catch sb off guard"
+],
+[
+"突如其来",
+17637,
+"tu1 ru2 qi2 lai2",
+"to arise abruptly; to arrive suddenly; happening suddenly"
+],
+[
+"自食其果",
+17658,
+"zi4 shi2 qi2 guo3",
+"to eat one's own fruit (idiom); fig. suffering the consequences of one's own action; to reap what one has sown"
+],
+[
+"其一",
+18557,
+"qi2 yi1",
+"first; number one of the above"
 ]
 ],
 "strokes": [

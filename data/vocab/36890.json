@@ -8,108 +8,155 @@
 "words": [
 [
 "交通",
-0,
 4,
 "jiāotōng",
 "traffic; transportation"
 ],
 [
 "普通话",
-0,
 4,
 "pǔtōnghuà",
 "Mandarin (common language)"
 ],
 [
 "通过",
-0,
 4,
 "tōngguò",
 "by means of; through (a method); pass through; via"
 ],
 [
 "通知",
-0,
 4,
 "tōngzhī",
 "notify; to inform; notice"
 ],
 [
 "沟通",
-0,
 5,
 "gōutōng",
 "link; connect; communicate"
 ],
 [
 "通常",
-0,
 5,
 "tōngcháng",
 "regular; usual; normal; ordinary"
 ],
 [
 "畅通",
-0,
 6,
 "chàngtōng",
 "unimpeded; unclogged; free-flowing; straight path; to expedite"
 ],
 [
 "精通",
-0,
 6,
 "jīngtōng",
 "proficient; have a good command of"
 ],
 [
 "卡通",
-0,
 6,
 "kǎtōng",
 "cartoon"
 ],
 [
 "流通",
-0,
 6,
 "liútōng",
 "circulate; currency"
 ],
 [
 "通货膨胀",
-0,
 6,
 "tōnghuò péngzhàng",
 "inflation"
 ],
 [
 "通缉",
-0,
 6,
 "tōngjī",
 "order the arrest of a criminal"
 ],
 [
 "通俗",
-0,
 6,
 "tōngsú",
 "popular; common; everyday; average; vulgar"
 ],
 [
 "通讯",
-0,
 6,
 "tōngxùn",
 "communication; correspondence; news dispatch"
 ],
 [
 "通用",
-0,
 6,
 "tōngyòng",
 "in common use; interchangeable; General Motors"
+]
+],
+"extraWords": [
+[
+"普通",
+1549,
+"pu3 tong1",
+"common; ordinary; general; average"
+],
+[
+"通话",
+2487,
+"tong1 hua4",
+"talk over telephone; hold a conversation"
+],
+[
+"通道",
+3439,
+"tong1 dao4",
+"(communications) channel; thoroughfare; passage"
+],
+[
+"接通",
+4530,
+"jie1 tong1",
+"to connect; to put through"
+],
+[
+"普通人",
+4620,
+"pu3 tong1 ren2",
+"ordinary person; private citizen; people; the person in the street"
+],
+[
+"通往",
+5037,
+"tong1 wang3",
+"to lead to"
+],
+[
+"开通",
+5230,
+"kai1 tong5",
+"\"to open up (windows for air, ideas for discussion, transport routes etc); open-minded\""
+],
+[
+"行不通",
+5730,
+"xing2 bu5 tong1",
+"won't work; will get (you) nowhere"
+],
+[
+"通行证",
+5875,
+"tong1 xing2 zheng4",
+"a pass (authorization through a checkpoint); a laissez-passer or safe conduct; to authenticate; to confirm name and password on a website; fig. a condition giving access to benefits (e.g. a diploma as a pass to a career)"
+],
+[
+"通向",
+6042,
+"tong1 xiang4",
+"lead to"
 ]
 ],
 "strokes": [

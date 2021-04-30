@@ -8,150 +8,191 @@
 "words": [
 [
 "出租车",
-0,
 1,
 "chūzūchē",
 "taxi; cab"
 ],
 [
 "出",
-0,
 2,
 "chū",
 "go out; occur"
 ],
 [
 "出差",
-0,
 4,
 "chū chāi",
 "go on a business trip"
 ],
 [
 "出发",
-0,
 4,
 "chūfā",
 "start out; set off"
 ],
 [
 "出生",
-0,
 4,
 "chūshēng",
 "be born"
 ],
 [
 "出现",
-0,
 4,
 "chūxiàn",
 "appear; arise; emerge"
 ],
 [
 "演出",
-0,
 4,
 "yǎnchū",
 "to act (in a play); to perform; to put on a show; performance"
 ],
 [
 "出版",
-0,
 5,
 "chūbǎn",
 "publish"
 ],
 [
 "出口",
-0,
 5,
 "chūkǒu",
 "exit; speak; export"
 ],
 [
 "出色",
-0,
 5,
 "chūsè",
 "remarkable; outstanding; excellent"
 ],
 [
 "出示",
-0,
 5,
 "chūshì",
 "to show"
 ],
 [
 "出席",
-0,
 5,
 "chūxí",
 "attend; be present; participate"
 ],
 [
 "突出",
-0,
 5,
 "tūchū",
 "prominent; stand out; give prominence to"
 ],
 [
 "层出不穷",
-0,
 6,
 "céng chū bù qióng",
 "(idiom) emerge more and more; innumerable succession; breeding like flies"
 ],
 [
 "出路",
-0,
 6,
 "chūlù",
 "a way out; outlet"
 ],
 [
 "出卖",
-0,
 6,
 "chūmài",
 "sell; betray; sell out"
 ],
 [
 "出身",
-0,
 6,
 "chūshēn",
 "family background; class origin"
 ],
 [
 "出神",
-0,
 6,
 "chū shén",
 "be lost in thought; entranced; preoccupation; Trance (music genre)"
 ],
 [
 "出息",
-0,
 6,
 "chūxi",
 "future prospects; aspiration; promise"
 ],
 [
 "杰出",
-0,
 6,
 "jiéchū",
 "outstanding; preeminent"
 ],
 [
 "支出",
-0,
 6,
 "zhīchū",
 "spend; pay out; expense"
+]
+],
+"extraWords": [
+[
+"出来",
+197,
+"chu1 lai2",
+"to come out; to emerge"
+],
+[
+"出去",
+309,
+"chu1 qu4",
+"to go out"
+],
+[
+"做出",
+1292,
+"zuo4 chu1",
+"to put out; to issue"
+],
+[
+"付出",
+1716,
+"fu4 chu1",
+"to pay"
+],
+[
+"提出",
+1841,
+"ti2 chu1",
+"to raise (an issue); to propose; to put forward; to suggest; to post (on a website); to withdraw (cash)"
+],
+[
+"退出",
+1948,
+"tui4 chu1",
+"to withdraw; to abort; to quit"
+],
+[
+"发出",
+2383,
+"fa1 chu1",
+"\"to issue (an order, decree etc); to send out; to dispatch; to produce a sound; to let out (a laugh)\""
+],
+[
+"出局",
+2393,
+"chu1 ju2",
+"to send off (player for a foul); to knock out (i.e. to beat in a knock-out tournament); to eliminate; to call out; to kill off; to pull out of (a competition); to retire (a runner in baseball); out (i.e. man out in baseball)"
+],
+[
+"认出",
+2671,
+"ren4 chu1",
+"recognition; to recognize"
+],
+[
+"查出",
+2674,
+"cha2 chu1",
+"to find out; to discover"
 ]
 ],
 "strokes": [

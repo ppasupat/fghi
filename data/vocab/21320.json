@@ -8,31 +8,89 @@
 "words": [
 [
 "上午",
-0,
 1,
 "shàngwǔ",
 "late morning (before noon)"
 ],
 [
 "下午",
-0,
 1,
 "xiàwǔ",
 "afternoon"
 ],
 [
 "中午",
-0,
 1,
 "zhōngwǔ",
 "noon; midday"
 ],
 [
 "端午节",
-0,
 6,
 "Duānwǔ Jié",
 "Dragon Boat Festival"
+]
+],
+"extraWords": [
+[
+"午餐",
+1839,
+"wu3 can1",
+"lunch; luncheon"
+],
+[
+"午饭",
+1842,
+"wu3 fan4",
+"lunch"
+],
+[
+"午夜",
+3047,
+"wu3 ye4",
+"midnight"
+],
+[
+"午",
+11103,
+"wu3",
+"\"7th earthly branch: 11 a.m.-1 p.m., noon, 5th solar month (6th June-6th July), year of the Horse\""
+],
+[
+"午后",
+15057,
+"wu3 hou4",
+"afternoon"
+],
+[
+"正午",
+16326,
+"zheng4 wu3",
+"midday; noon; noonday"
+],
+[
+"午餐会",
+19085,
+"wu3 can1 hui4",
+"luncheon"
+],
+[
+"午宴",
+22068,
+"wu3 yan4",
+"lunch banquet"
+],
+[
+"午觉",
+22448,
+"wu3 jiao4",
+"siesta; afternoon nap"
+],
+[
+"子午线",
+35543,
+"zi3 wu3 xian4",
+"meridian"
 ]
 ],
 "strokes": [

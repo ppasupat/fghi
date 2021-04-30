@@ -8,24 +8,83 @@
 "words": [
 [
 "损失",
-0,
 5,
 "sǔnshī",
 "loss (financial); lose"
 ],
 [
 "亏损",
-0,
 6,
 "kuīsǔn",
 "deficit; (financial) loss"
 ],
 [
 "损坏",
-0,
 6,
 "sǔnhuài",
 "to damage; injure"
+]
+],
+"extraWords": [
+[
+"损伤",
+4344,
+"sun3 shang1",
+"to harm; to damage; to injure; impairment; loss; disability"
+],
+[
+"损害",
+7222,
+"sun3 hai4",
+"harm; to damage; to injure; to infringe"
+],
+[
+"受损",
+8005,
+"shou4 sun3",
+"damaged"
+],
+[
+"损",
+9499,
+"sun3",
+"to damage; injure; to lose; to harm"
+],
+[
+"磨损",
+12874,
+"mo2 sun3",
+"wear and tear; abrasion"
+],
+[
+"破损",
+13359,
+"po4 sun3",
+"disrepair"
+],
+[
+"损毁",
+18009,
+"sun3 hui3",
+"damage"
+],
+[
+"损耗",
+29499,
+"sun3 hao4",
+"wear and tear"
+],
+[
+"毁损",
+41018,
+"hui3 sun3",
+"\"impair, damage\""
+],
+[
+"贬损",
+51526,
+"bian3 sun3",
+"to mock; to disparage; to belittle"
 ]
 ],
 "strokes": [

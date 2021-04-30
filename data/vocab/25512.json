@@ -8,73 +8,125 @@
 "words": [
 [
 "推",
-0,
 4,
 "tuī",
 "to push; to scrape; to decline; postpone; elect"
 ],
 [
 "推迟",
-0,
 4,
 "tuīchí",
 "postpone; defer"
 ],
 [
 "推辞",
-0,
 5,
 "tuīcí",
 "to decline; turn down"
 ],
 [
 "推广",
-0,
 5,
 "tuīguǎng",
 "popularize; to spread"
 ],
 [
 "推荐",
-0,
 5,
 "tuījiàn",
 "recommend; recommendation"
 ],
 [
 "推测",
-0,
 6,
 "tuīcè",
 "speculate; conjecture; surmise"
 ],
 [
 "推翻",
-0,
 6,
 "tuīfān",
 "overthrow; topple"
 ],
 [
 "推理",
-0,
 6,
 "tuīlǐ",
 "reasoning; speculative; inference"
 ],
 [
 "推论",
-0,
 6,
 "tuīlùn",
 "infer; a deduction; a corollary"
 ],
 [
 "推销",
-0,
 6,
 "tuīxiāo",
 "to market; sell"
+]
+],
+"extraWords": [
+[
+"推进",
+6000,
+"tui1 jin4",
+"to impel; to carry forward; to push on; to advance; to drive forward"
+],
+[
+"推出",
+7935,
+"tui1 chu1",
+"to release; to launch"
+],
+[
+"推断",
+8015,
+"tui1 duan4",
+"to infer; to deduce; to predict; to extrapolate"
+],
+[
+"推销员",
+8626,
+"tui1 xiao1 yuan2",
+"sales representative; salesperson"
+],
+[
+"推动",
+9584,
+"tui1 dong4",
+"to push (for acceptance of a plan); to push forward; to promote; to actuate"
+],
+[
+"推开",
+9716,
+"tui1 kai1",
+"push open"
+],
+[
+"推荐信",
+10946,
+"tui1 jian4 xin4",
+"recommendation letter"
+],
+[
+"手推车",
+11249,
+"shou3 tui1 che1",
+"trolley; cart; barrow; handcart; wheelbarrow; baby buggy"
+],
+[
+"推倒",
+12047,
+"tui1 dao3",
+"to push over"
+],
+[
+"推土机",
+16470,
+"tui1 tu3 ji1",
+"bulldozer"
 ]
 ],
 "strokes": [

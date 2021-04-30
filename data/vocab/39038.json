@@ -8,66 +8,119 @@
 "words": [
 [
 "照顾",
-0,
 3,
 "zhàogu",
 "take care of; look after; give consideration"
 ],
 [
 "顾客",
-0,
 4,
 "gùkè",
 "customer; client"
 ],
 [
 "不顾",
-0,
 6,
 "búgù",
 "in spite of; regardless of; to disregard"
 ],
 [
 "不屑一顾",
-0,
 6,
 "búxièyígù",
 "not worth seeing; disdain as beneath contempt"
 ],
 [
 "顾虑",
-0,
 6,
 "gùlǜ",
 "misgivings; apprehensions"
 ],
 [
 "顾问",
-0,
 6,
 "gùwèn",
 "adviser; consultant"
 ],
 [
 "后顾之忧",
-0,
 6,
 "hòugùzhīyōu",
 "fears of trouble in the rear (idiom); family worries (obstructing freedom to act); trouble back at home; worries about the future consequences; often in negative expressions, meaning no worries about anything"
 ],
 [
 "回顾",
-0,
 6,
 "huígù",
 "look back; to review"
 ],
 [
 "统筹兼顾",
-0,
 6,
 "tǒngchóujiāngù",
 "take every aspects into consideration through plan and preparation"
+]
+],
+"extraWords": [
+[
+"顾",
+5749,
+"gu4",
+"to look after; to take into consideration; to attend to; surname Gu"
+],
+[
+"不顾一切",
+10423,
+"bu4 gu4 yi1 qie4",
+"reckless; regardless of everything"
+],
+[
+"光顾",
+10424,
+"guang1 gu4",
+"Welcome (honorific term used by shop assistant); Thank you for patronizing my humble establishment."
+],
+[
+"眷顾",
+11413,
+"juan4 gu4",
+"to care for; to show concern for; to think longingly (of one's country)"
+],
+[
+"只顾",
+12910,
+"zhi3 gu4",
+"solely preoccupied (with one thing); engrossed; focusing (on sth); to look after only one aspect"
+],
+[
+"顾及",
+14390,
+"gu4 ji2",
+"take into account; take into consideration"
+],
+[
+"顾忌",
+16059,
+"gu4 ji4",
+"scruple"
+],
+[
+"兼顾",
+16746,
+"jian1 gu4",
+"\"to attend simultaneously to two or more things; to balance (career and family, family and education etc)\""
+],
+[
+"环顾",
+17440,
+"huan2 gu4",
+"look around; survey"
+],
+[
+"惠顾",
+17592,
+"hui4 gu4",
+"your patronage"
 ]
 ],
 "strokes": [

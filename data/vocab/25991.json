@@ -8,129 +8,173 @@
 "words": [
 [
 "文化",
-0,
 3,
 "wénhuà",
 "culture; civilization"
 ],
 [
 "中文",
-0,
 3,
 "Zhōngwén",
 "Chinese (language)"
 ],
 [
 "文章",
-0,
 4,
 "wénzhāng",
 "article; essay"
 ],
 [
 "论文",
-0,
 5,
 "lùnwén",
 "thesis; paper; treatise"
 ],
 [
 "文件",
-0,
 5,
 "wénjiàn",
 "document; file"
 ],
 [
 "文具",
-0,
 5,
 "wénjù",
 "stationery; writing supplies"
 ],
 [
 "文明",
-0,
 5,
 "wénmíng",
 "civilization; civilized; culture"
 ],
 [
 "文学",
-0,
 5,
 "wénxué",
 "literature"
 ],
 [
 "文字",
-0,
 5,
 "wénzì",
 "characters; script; writing"
 ],
 [
 "作文",
-0,
 5,
 "zuò wén",
 "write an essay; essay"
 ],
 [
 "散文",
-0,
 6,
 "sǎnwén",
 "prose; essay"
 ],
 [
 "斯文",
-0,
 6,
 "sīwen",
 "refined; educated; cultured; intellectual; men of letters; scholars; literati; polite; gentle"
 ],
 [
 "天文",
-0,
 6,
 "tiānwén",
 "astronomy"
 ],
 [
 "文凭",
-0,
 6,
 "wénpíng",
 "diploma"
 ],
 [
 "文物",
-0,
 6,
 "wénwù",
 "cultural relic; historical relic"
 ],
 [
 "文献",
-0,
 6,
 "wénxiàn",
 "document; literature"
 ],
 [
 "文雅",
-0,
 6,
 "wényǎ",
 "elegant; refined"
 ],
 [
 "文艺",
-0,
 6,
 "wényì",
 "literature and art"
+]
+],
+"extraWords": [
+[
+"文",
+2250,
+"wen2",
+"language; culture; writing; formal; literary; gentle; surname Wen"
+],
+[
+"凯文",
+3216,
+"Kai3 wen2",
+"Kevin (person name)"
+],
+[
+"英文",
+5920,
+"Ying1 wen2",
+"English (language)"
+],
+[
+"欧文",
+7159,
+"Ou1 wen2",
+"Owen (name); Erwin (name)"
+],
+[
+"文书",
+7914,
+"wen2 shu1",
+"document; official correspondence; secretary; secretariat"
+],
+[
+"公文包",
+8684,
+"gong1 wen2 bao1",
+"briefcase; attaché case"
+],
+[
+"文档",
+11255,
+"wen2 dang4",
+"(computer) file"
+],
+[
+"拉丁文",
+11660,
+"la1 ding1 wen2",
+"latin letters; latin literature"
+],
+[
+"文件夹",
+12204,
+"wen2 jian4 jia1",
+"folder; file (paper)"
+],
+[
+"文盲",
+14707,
+"wen2 mang2",
+"illiterate"
 ]
 ],
 "strokes": [

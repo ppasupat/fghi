@@ -8,290 +8,311 @@
 "words": [
 [
 "担心",
-0,
 3,
 "dānxīn",
 "to worry; feel anxious"
 ],
 [
 "放心",
-0,
 3,
 "fàngxīn",
 "relax; feel relieved; rest assured"
 ],
 [
 "关心",
-0,
 3,
 "guānxīn",
 "concerned about/with"
 ],
 [
 "小心",
-0,
 3,
 "xiǎoxīn",
 "be careful"
 ],
 [
 "粗心",
-0,
 4,
 "cūxīn",
 "careless; inadvertent; negligent"
 ],
 [
 "开心",
-0,
 4,
 "kāixīn",
 "feel happy; have a great time; make fun of somebody"
 ],
 [
 "耐心",
-0,
 4,
 "nàixīn",
 "to be patient"
 ],
 [
 "伤心",
-0,
 4,
 "shāngxīn",
 "sad; grieve; brokenhearted"
 ],
 [
 "心情",
-0,
 4,
 "xīnqíng",
 "mood; state of mind"
 ],
 [
 "信心",
-0,
 4,
 "xìnxīn",
 "confidence; faith (in sb. or sth.)"
 ],
 [
 "爱心",
-0,
 5,
 "àixīn",
 "compassion"
 ],
 [
 "操心",
-0,
 5,
 "cāo xīn",
 "worry about"
 ],
 [
 "当心",
-0,
 5,
 "dāngxīn",
 "take care; watch out"
 ],
 [
 "点心",
-0,
 5,
 "diǎnxin",
 "dim sum; light refreshments; snacks"
 ],
 [
 "核心",
-0,
 5,
 "héxīn",
 "core; nucleus"
 ],
 [
 "灰心",
-0,
 5,
 "huī xīn",
 "lose heart; be discouraged"
 ],
 [
 "决心",
-0,
 5,
 "juéxīn",
 "determination; resolution"
 ],
 [
 "热心",
-0,
 5,
 "rèxīn",
 "enthusiastic; zealous; warmhearted"
 ],
 [
 "心理",
-0,
 5,
 "xīnlǐ",
 "psychology; psychological; mental"
 ],
 [
 "心脏",
-0,
 5,
 "xīnzàng",
 "heart"
 ],
 [
 "虚心",
-0,
 5,
 "xūxīn",
 "modest; open-minded"
 ],
 [
 "中心",
-0,
 5,
 "zhōngxīn",
 "center; heart; core"
 ],
 [
 "专心",
-0,
 5,
 "zhuānxīn",
 "be absorbed; concentrate; attentive"
 ],
 [
 "称心如意",
-0,
 6,
 "chènxīnrúyì",
 "find sth. satisfactory"
 ],
 [
 "成心",
-0,
 6,
 "chéngxīn",
 "intentional; deliberate; with prior intent"
 ],
 [
 "恶心",
-0,
 6,
 "ěxin",
 "disgusting; nauseous; make somebody embarrassed (èxīn: bad/vicious habit; vice)"
 ],
 [
 "狠心",
-0,
 6,
 "hěn xīn",
 "callous; cruel; cold-blooded"
 ],
 [
 "精心",
-0,
 6,
 "jīngxīn",
 "with utmost care; meticulous; detailed"
 ],
 [
 "良心",
-0,
 6,
 "liángxīn",
 "conscience"
 ],
 [
 "齐心协力",
-0,
 6,
 "qíxīnxiélì",
 "make concerted efforts"
 ],
 [
 "小心翼翼",
-0,
 6,
 "xiǎoxīn yìyì",
 "carefully; cautiously; with great care"
 ],
 [
 "心得",
-0,
 6,
 "xīndé",
 "knowledge gained"
 ],
 [
 "心甘情愿",
-0,
 6,
 "xīngānqíngyuàn",
 "totally willing; perfectly happy to"
 ],
 [
 "心灵",
-0,
 6,
 "xīnlíng",
 "heart; soul; smart; quick-witted"
 ],
 [
 "心态",
-0,
 6,
 "xīntài",
 "pyschology; mentality; spirit"
 ],
 [
 "心疼",
-0,
 6,
 "xīnténg",
 "love dearly; the pain of love"
 ],
 [
 "心血",
-0,
 6,
 "xīnxuè",
 "heart and blood; painstaking effort; meticulous care"
 ],
 [
 "心眼儿",
-0,
 6,
 "xīnyǎnr",
 "one's thoughts; mind; intention; willingness to accept new ideas"
 ],
 [
 "野心",
-0,
 6,
 "yěxīn",
 "ambition; wild schemes or ambitions; careerism"
 ],
 [
 "衷心",
-0,
 6,
 "zhōngxīn",
 "heartfelt; wholehearted; cordial"
 ],
 [
 "重心",
-0,
 6,
 "zhòngxīn",
 "center of gravity; central core; main part"
+]
+],
+"extraWords": [
+[
+"心",
+384,
+"xin1",
+"heart; mind"
+],
+[
+"心里",
+1523,
+"xin1 li5",
+"in one's heart and mind; in ones heart and mind"
+],
+[
+"内心",
+1815,
+"nei4 xin1",
+"heart; innermost being"
+],
+[
+"心中",
+2654,
+"xin1 zhong1",
+"central point; in one's thoughts; in one's heart"
+],
+[
+"心脏病",
+2748,
+"xin1 zang4 bing4",
+"heart disease"
+],
+[
+"心跳",
+3417,
+"xin1 tiao4",
+"heartbeat; pulse"
+],
+[
+"真心",
+3528,
+"zhen1 xin1",
+"sincere; heartfelt"
+],
+[
+"心理学",
+5079,
+"xin1 li3 xue2",
+"psychology"
+],
+[
+"市中心",
+5085,
+"shi4 zhong1 xin1",
+"city center; downtown"
+],
+[
+"心思",
+5393,
+"xin1 si5",
+"thought; idea; to think hard about sth; inclination; mood"
 ]
 ],
 "strokes": [

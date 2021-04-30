@@ -8,38 +8,95 @@
 "words": [
 [
 "窗户",
-0,
 4,
 "chuānghu",
 "window"
 ],
 [
 "账户",
-0,
 5,
 "zhànghù",
 "bank account"
 ],
 [
 "家喻户晓",
-0,
 6,
 "jiā yù hù xiǎo",
 "become a household name; well-known"
 ],
 [
 "客户",
-0,
 6,
 "kèhù",
 "customer; account; client"
 ],
 [
 "用户",
-0,
 6,
 "yònghù",
 "user; consumer; subscriber; customer"
+]
+],
+"extraWords": [
+[
+"户",
+3560,
+"hu4",
+"a household; door; family"
+],
+[
+"户外",
+8013,
+"hu4 wai4",
+"outdoor"
+],
+[
+"猎户座",
+10895,
+"Lie4 hu4 zuo4",
+"Orion (constellation)"
+],
+[
+"户头",
+12199,
+"hu4 tou2",
+"bank account"
+],
+[
+"江户",
+12864,
+"Jiang1 hu4",
+"Edo (old name of Tokyo)"
+],
+[
+"住户",
+13601,
+"zhu4 hu4",
+"inhabitant; householder"
+],
+[
+"门户",
+16379,
+"men2 hu4",
+"door; strategic gateway; portal; faction; sect; family status; family; web portal"
+],
+[
+"挨家挨户",
+18211,
+"ai1 jia1 ai1 hu4",
+"to go from house to house; house-to-house (search)"
+],
+[
+"户口",
+21078,
+"hu4 kou3",
+"population (counted as number of households for census or taxation); registered residence"
+],
+[
+"暴发户",
+24174,
+"bao4 fa1 hu4",
+"newly rich; parvenu; upstart"
 ]
 ],
 "strokes": [

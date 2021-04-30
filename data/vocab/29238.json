@@ -8,17 +8,77 @@
 "words": [
 [
 "父亲",
-0,
 4,
 "fùqin",
 "father"
 ],
 [
 "祖父",
-0,
 6,
 "zǔfù",
 "paternal grandfather"
+]
+],
+"extraWords": [
+[
+"父母",
+639,
+"fu4 mu3",
+"father and mother; parents"
+],
+[
+"神父",
+1734,
+"shen2 fu4",
+"padre (title of Catholic priest); (spiritual) father"
+],
+[
+"父",
+2928,
+"fu3/fu4",
+"father"
+],
+[
+"继父",
+7368,
+"ji4 fu4",
+"step father"
+],
+[
+"教父",
+7746,
+"jiao4 fu4",
+"godfather"
+],
+[
+"师父",
+8041,
+"shi1 fu4",
+"used for 师傅 (in Taiwan); master; qualified worker"
+],
+[
+"生父",
+10673,
+"sheng1 fu4",
+"biological father"
+],
+[
+"岳父",
+11178,
+"yue4 fu4",
+"\"wife's father, father-in-law\""
+],
+[
+"圣父",
+11802,
+"Sheng4 Fu4",
+"Holy Father; God the Father (in the Christian Trinity)"
+],
+[
+"曾祖父",
+12361,
+"zeng1 zu3 fu4",
+"father's father's father; paternal great-grandfather"
 ]
 ],
 "strokes": [

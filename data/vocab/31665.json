@@ -8,17 +8,77 @@
 "words": [
 [
 "冰箱",
-0,
 3,
 "bīngxiāng",
 "refrigerator"
 ],
 [
 "行李箱",
-0,
 3,
 "xínglǐxiāng",
 "trunk; suitcase"
+]
+],
+"extraWords": [
+[
+"箱子",
+1766,
+"xiang1 zi5",
+"suitcase; chest; box; case; trunk"
+],
+[
+"箱",
+2121,
+"xiang1",
+"box; trunk; chest"
+],
+[
+"保险箱",
+3637,
+"bao3 xian3 xiang1",
+"safe deposit box"
+],
+[
+"信箱",
+5846,
+"xin4 xiang1",
+"mailbox"
+],
+[
+"邮箱",
+7434,
+"you2 xiang1",
+"mailbox"
+],
+[
+"烤箱",
+7626,
+"kao3 xiang1",
+"oven (Taiwan)"
+],
+[
+"垃圾箱",
+8617,
+"la1 ji1 xiang1",
+"rubbish can"
+],
+[
+"手提箱",
+9158,
+"shou3 ti2 xiang1",
+"suitcase"
+],
+[
+"集装箱",
+10218,
+"ji2 zhuang1 xiang1",
+"container (for shipping)"
+],
+[
+"工具箱",
+10820,
+"gong1 ju4 xiang1",
+"toolbox"
 ]
 ],
 "strokes": [

@@ -8,94 +8,143 @@
 "words": [
 [
 "房间",
-0,
 2,
 "fángjiān",
 "room"
 ],
 [
 "时间",
-0,
 2,
 "shíjiān",
 "time; period"
 ],
 [
 "洗手间",
-0,
 3,
 "xǐshǒujiān",
 "toilet; lavatory; washroom"
 ],
 [
 "中间",
-0,
 3,
 "zhōngjiān",
 "center; middle; between; among"
 ],
 [
 "卫生间",
-0,
 4,
 "wèishēngjiān",
 "restroom; bathroom; water closet (WC)"
 ],
 [
 "空间",
-0,
 5,
 "kōngjiān",
 "space"
 ],
 [
 "期间",
-0,
 5,
 "qījiān",
 "period of time; time"
 ],
 [
 "间谍",
-0,
 6,
 "jiàndié",
 "a spy; intelligence agent"
 ],
 [
 "间隔",
-0,
 6,
 "jiàngé",
 "interval; intermission; gap; be separated"
 ],
 [
 "间接",
-0,
 6,
 "jiànjiē",
 "indirect"
 ],
 [
 "民间",
-0,
 6,
 "mínjiān",
 "among the people; popular; folk"
 ],
 [
 "人间",
-0,
 6,
 "rénjiān",
 "man's world; the world"
 ],
 [
 "瞬间",
-0,
 6,
 "shùnjiān",
 "in the twinkling of an eye; in an instant; momentary"
+]
+],
+"extraWords": [
+[
+"之间",
+541,
+"zhi1 jian1",
+"between; among; inter-"
+],
+[
+"间",
+589,
+"jian1/jian4",
+"between; among; space; classifier for time intervals; interstice; separate"
+],
+[
+"中间人",
+7060,
+"zhong1 jian1 ren2",
+"contact man; go-between; intermediary; at second hand"
+],
+[
+"一瞬间",
+7438,
+"yi1 shun4 jian1",
+"split second"
+],
+[
+"时间表",
+7624,
+"shi2 jian4 biao3",
+"schedule; timetable"
+],
+[
+"世间",
+8061,
+"shi4 jian1",
+"world; earth"
+],
+[
+"夜间",
+8270,
+"ye4 jian1",
+"nighttime; evening or night (e.g. classes)"
+],
+[
+"晚间",
+8387,
+"wan3 jian1",
+"evening-time; in the evening"
+],
+[
+"套间",
+12915,
+"tao4 jian1",
+"vestibule; small inner room (opening to others)"
+],
+[
+"车间",
+13168,
+"che1 jian1",
+"workshop"
 ]
 ],
 "strokes": [

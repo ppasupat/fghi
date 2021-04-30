@@ -8,17 +8,77 @@
 "words": [
 [
 "森林",
-0,
 4,
 "sēnlín",
 "forest"
 ],
 [
 "园林",
-0,
 6,
 "yuánlín",
 "gardens; park; landscape"
+]
+],
+"extraWords": [
+[
+"林",
+2021,
+"lin2",
+"woods; forest; surname Lin"
+],
+[
+"树林",
+3412,
+"shu4 lin2",
+"woods; grove; forest"
+],
+[
+"柏林",
+4106,
+"Bo2 lin2",
+"\"Berlin, capital of Germany\""
+],
+[
+"丛林",
+4722,
+"cong2 lin2",
+"jungle; thicket; forest; Buddhist monastery; jungle; thicket; forest; Buddhist monastery"
+],
+[
+"布鲁克林",
+4954,
+"bu4 lu3 ke4 lin2",
+"\"Brooklyn, borough of New York City; Brooklyn, one of the five boroughs of New York City\""
+],
+[
+"梅林",
+5153,
+"Mei2 lin2",
+"Merlin"
+],
+[
+"林肯",
+5567,
+"Lin2 ken3",
+"\"Lincoln (name); Abraham Lincoln (1809-1865), US president 1861-1865; Lincoln, US car make\""
+],
+[
+"穆斯林",
+5570,
+"Mu4 si1 lin2",
+"Muslim"
+],
+[
+"格林",
+6321,
+"Ge2 lin2",
+"Green or Greene (name)"
+],
+[
+"普林斯顿",
+8985,
+"Pu3 lin2 si1 dun1",
+"\"Princeton, New Jersey\""
 ]
 ],
 "strokes": [

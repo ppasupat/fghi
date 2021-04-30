@@ -8,73 +8,125 @@
 "words": [
 [
 "正式",
-0,
 4,
 "zhèngshì",
 "formal; official"
 ],
 [
 "方式",
-0,
 5,
 "fāngshì",
 "way; style; fashion; manner"
 ],
 [
 "开幕式",
-0,
 5,
 "kāimùshì",
 "opening ceremony"
 ],
 [
 "形式",
-0,
 5,
 "xíngshì",
 "form; shape; situation"
 ],
 [
 "样式",
-0,
 5,
 "yàngshì",
 "type; style; form"
 ],
 [
 "格式",
-0,
 6,
 "géshì",
 "form; specification; format"
 ],
 [
 "公式",
-0,
 6,
 "gōngshì",
 "formula"
 ],
 [
 "款式",
-0,
 6,
 "kuǎnshì",
 "pattern; design; style"
 ],
 [
 "模式",
-0,
 6,
 "móshì",
 "model; pattern; method"
 ],
 [
 "仪式",
-0,
 6,
 "yíshì",
 "ceremony"
+]
+],
+"extraWords": [
+[
+"式",
+1598,
+"shi4",
+"type; form; pattern; style"
+],
+[
+"老式",
+6977,
+"lao3 shi4",
+"old-fashioned; old type; outdated"
+],
+[
+"法式",
+9772,
+"Fa3 shi4",
+"French style"
+],
+[
+"程式",
+11549,
+"cheng2 shi4",
+"form; pattern; formula; program"
+],
+[
+"方程式",
+11822,
+"fang1 cheng2 shi4",
+"equation"
+],
+[
+"非正式",
+11857,
+"fei1 zheng4 shi4",
+"unofficial"
+],
+[
+"各式各样",
+15509,
+"ge4 shi4 ge4 yang4",
+"(of) all kinds and sorts; various"
+],
+[
+"新式",
+15709,
+"xin1 shi4",
+"new type; latest type; new-style"
+],
+[
+"首映式",
+16390,
+"shou3 ying4 shi4",
+"premiere of a movie"
+],
+[
+"喷气式",
+16762,
+"pen4 qi4 shi4",
+"jet (engine)"
 ]
 ],
 "strokes": [

@@ -8,45 +8,59 @@
 "words": [
 [
 "迟到",
-0,
 3,
 "chídào",
 "arrive late"
 ],
 [
 "推迟",
-0,
 4,
 "tuīchí",
 "postpone; defer"
 ],
 [
 "迟早",
-0,
 5,
 "chízǎo",
 "sooner or later"
 ],
 [
 "迟钝",
-0,
 6,
 "chídùn",
 "slow (witted); stupid; dull"
 ],
 [
 "迟缓",
-0,
 6,
 "chíhuǎn",
 "slow; sluggish"
 ],
 [
 "迟疑",
-0,
 6,
 "chíyí",
 "hesitate"
+]
+],
+"extraWords": [
+[
+"迟",
+1848,
+"chi2",
+"late; delayed; slow"
+],
+[
+"延迟",
+9713,
+"yan2 chi2",
+"to delay; to postpone; to keep putting sth off"
+],
+[
+"迟迟",
+26420,
+"chi2 chi2",
+"late (with a task etc); slow"
 ]
 ],
 "strokes": [

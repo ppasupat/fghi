@@ -8,17 +8,77 @@
 "words": [
 [
 "黑板",
-0,
 3,
 "hēibǎn",
 "blackboard"
 ],
 [
 "老板",
-0,
 5,
 "lǎobǎn",
 "boss; proprietor; shopkeeper"
+]
+],
+"extraWords": [
+[
+"板",
+2073,
+"ban3",
+"\"board; plank; plate; slab; stiff; unnatural; pedal; see 老板, boss\""
+],
+[
+"地板",
+2470,
+"di4 ban3",
+"floor"
+],
+[
+"甲板",
+5952,
+"jia3 ban3",
+"deck (of a boat etc)"
+],
+[
+"滑板",
+6371,
+"hua2 ban3",
+"skateboard"
+],
+[
+"天花板",
+6810,
+"tian1 hua1 ban3",
+"ceiling"
+],
+[
+"木板",
+9059,
+"mu4 ban3",
+"slab; board; plank"
+],
+[
+"踏板",
+12552,
+"ta4 ban3",
+"\"a pedal (e.g. clutch pedal, piano pedal)\""
+],
+[
+"板子",
+13035,
+"ban3 zi5",
+"board; plank; bamboo or birch for corporal punishment"
+],
+[
+"板球",
+13036,
+"ban3 qiu2",
+"cricket (ball game)"
+],
+[
+"面板",
+14039,
+"mian4 ban3",
+"kneading board; breadboard"
 ]
 ],
 "strokes": [

@@ -8,66 +8,119 @@
 "words": [
 [
 "会议",
-0,
 3,
 "huìyì",
 "meeting; conference"
 ],
 [
 "建议",
-0,
 4,
 "jiànyì",
 "to propose; to suggest; recommend"
 ],
 [
 "议论",
-0,
 5,
 "yìlùn",
 "discuss; to comment; talk about"
 ],
 [
 "不可思议",
-0,
 6,
 "bùkěsīyì",
 "unimaginable; inconceivable"
 ],
 [
 "倡议",
-0,
 6,
 "chàngyì",
 "suggest; propose"
 ],
 [
 "抗议",
-0,
 6,
 "kàngyì",
 "to protest; protest"
 ],
 [
 "提议",
-0,
 6,
 "tíyì",
 "propose; suggest"
 ],
 [
 "协议",
-0,
 6,
 "xiéyì",
 "agreement; pact; protocol"
 ],
 [
 "争议",
-0,
 6,
 "zhēngyì",
 "controversy; dispute; contention"
+]
+],
+"extraWords": [
+[
+"议员",
+2161,
+"yi4 yuan2",
+"member (of a legislative body); representative"
+],
+[
+"参议员",
+2800,
+"can1 yi4 yuan2",
+"senator"
+],
+[
+"会议室",
+4646,
+"hui4 yi4 shi4",
+"meeting; conference room"
+],
+[
+"议会",
+5006,
+"yi4 hui4",
+"parliament; legislative assembly"
+],
+[
+"异议",
+7155,
+"yi4 yi4",
+"objection; dissent"
+],
+[
+"议案",
+7752,
+"yi4 an4",
+"proposal; motion"
+],
+[
+"参议院",
+8293,
+"can1 yi4 yuan4",
+"Senate"
+],
+[
+"动议",
+8549,
+"dong4 yi4",
+"motion; proposal"
+],
+[
+"议长",
+11765,
+"yi4 zhang3",
+"speaker (of a legislative assembly)"
+],
+[
+"议程",
+12626,
+"yi4 cheng2",
+"agenda"
 ]
 ],
 "strokes": [

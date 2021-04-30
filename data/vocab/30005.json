@@ -8,80 +8,131 @@
 "words": [
 [
 "打电话",
-0,
 1,
 "dǎ diànhuà",
 "make a phone call"
 ],
 [
 "电脑",
-0,
 1,
 "diànnǎo",
 "computer"
 ],
 [
 "电视",
-0,
 1,
 "diànshì",
 "television; TV"
 ],
 [
 "电影",
-0,
 1,
 "diànyǐng",
 "movie; film"
 ],
 [
 "电梯",
-0,
 3,
 "diàntī",
 "elevator"
 ],
 [
 "电子邮件",
-0,
 3,
 "diànzǐ yóujiàn",
 "email"
 ],
 [
 "充电器",
-0,
 5,
 "chōngdiànqì",
 "battery charger"
 ],
 [
 "电池",
-0,
 5,
 "diànchí",
 "battery"
 ],
 [
 "电台",
-0,
 5,
 "diàntái",
 "transceiver; broadcasting station"
 ],
 [
 "闪电",
-0,
 5,
 "shǎndiàn",
 "lightning"
 ],
 [
 "电源",
-0,
 6,
 "diànyuán",
 "electric power supply"
+]
+],
+"extraWords": [
+[
+"电话",
+218,
+"dian4 hua4",
+"telephone; phone call"
+],
+[
+"电",
+1723,
+"dian4",
+"electric; electricity; electrical"
+],
+[
+"电子",
+2618,
+"dian4 zi3",
+"electronic; electron"
+],
+[
+"电视台",
+3250,
+"dian4 shi4 tai2",
+"television station"
+],
+[
+"无线电",
+3941,
+"wu2 xian4 dian4",
+"wireless"
+],
+[
+"电视剧",
+4874,
+"dian4 shi4 ju4",
+"TV play; soap opera"
+],
+[
+"电力",
+4889,
+"dian4 li4",
+"electrical power; electricity"
+],
+[
+"电视机",
+5625,
+"dian4 shi4 ji1",
+"television set; CL: 台[tai2]"
+],
+[
+"电线",
+5801,
+"dian4 xian4",
+"wire"
+],
+[
+"停电",
+6411,
+"ting2 dian4",
+"power cut"
 ]
 ],
 "strokes": [

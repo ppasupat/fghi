@@ -8,73 +8,125 @@
 "words": [
 [
 "中国",
-0,
 1,
 "Zhōngguó",
 "China"
 ],
 [
 "国家",
-0,
 3,
 "guójiā",
 "country; state; nation"
 ],
 [
 "国籍",
-0,
 4,
 "guójí",
 "nationality"
 ],
 [
 "国际",
-0,
 4,
 "guójì",
 "international"
 ],
 [
 "国庆节",
-0,
 5,
 "Guóqìng Jié",
 "National Day"
 ],
 [
 "国王",
-0,
 5,
 "guówáng",
 "king"
 ],
 [
 "共和国",
-0,
 6,
 "gònghéguó",
 "republic"
 ],
 [
 "国防",
-0,
 6,
 "guófáng",
 "national defense"
 ],
 [
 "国务院",
-0,
 6,
 "guówùyuàn",
 "State Council (PRC); State Department (USA)"
 ],
 [
 "祖国",
-0,
 6,
 "zǔguó",
 "homeland; motherland; fatherland"
+]
+],
+"extraWords": [
+[
+"美国",
+292,
+"Mei3 guo2",
+"America; American; United States of America; USA"
+],
+[
+"英国",
+1227,
+"Ying1 guo2",
+"United Kingdom 联合王国[Lian2 he2 wang2 guo2]; United Kingdom of Great Britain and Northern Ireland; abbr. for England 英格兰[Ying1 ge2 lan2]"
+],
+[
+"法国",
+1370,
+"Fa3 guo2",
+"France; French"
+],
+[
+"德国",
+1898,
+"De2 guo2",
+"Germany; German"
+],
+[
+"全国",
+2159,
+"quan2 guo2",
+"entire country; nationwide"
+],
+[
+"国",
+2589,
+"guo2",
+"country; nation; state; national; surname Guo"
+],
+[
+"俄国",
+2707,
+"E2 guo2",
+"Russia"
+],
+[
+"韩国",
+3499,
+"Han2 guo2",
+"South Korea"
+],
+[
+"帝国",
+3815,
+"di4 guo2",
+"empire; imperial"
+],
+[
+"国会",
+4077,
+"guo2 hui4",
+"parliament; Congress; diet"
 ]
 ],
 "strokes": [

@@ -8,38 +8,95 @@
 "words": [
 [
 "月",
-0,
 1,
 "yuè",
 "moon; month"
 ],
 [
 "月亮",
-0,
 3,
 "yuèliang",
 "the moon"
 ],
 [
 "日新月异",
-0,
 6,
 "rìxīnyuèyì",
 "change with each passing day"
 ],
 [
 "岁月",
-0,
 6,
 "suìyuè",
 "the years of a person's life"
 ],
 [
 "正月",
-0,
 6,
 "zhēngyuè",
 "the first month of the lunar calendar"
+]
+],
+"extraWords": [
+[
+"蜜月",
+4509,
+"mi4 yue4",
+"honeymoon"
+],
+[
+"月球",
+5622,
+"yue4 qiu2",
+"the moon"
+],
+[
+"上个月",
+6259,
+"shang4 ge4 yue4",
+"last month"
+],
+[
+"月光",
+6675,
+"yue4 guang1",
+"moonlight"
+],
+[
+"每月",
+7723,
+"mei3 yue4",
+"each month"
+],
+[
+"五月",
+8642,
+"wu3 yue4",
+"May; fifth month"
+],
+[
+"六月",
+9105,
+"liu4 yue4",
+"June; sixth month"
+],
+[
+"月经",
+9815,
+"yue4 jing1",
+"menstruation; a woman's period"
+],
+[
+"四月",
+9878,
+"si4 yue4",
+"April; fourth month"
+],
+[
+"月份",
+10050,
+"yue4 fen4",
+"month"
 ]
 ],
 "strokes": [

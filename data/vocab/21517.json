@@ -8,94 +8,143 @@
 "words": [
 [
 "名字",
-0,
 1,
 "míngzi",
 "name"
 ],
 [
 "有名",
-0,
 3,
 "yǒumíng",
 "famous; well-known"
 ],
 [
 "报名",
-0,
 4,
 "bào míng",
 "sign up; apply"
 ],
 [
 "著名",
-0,
 4,
 "zhùmíng",
 "famous; well-known; celebration"
 ],
 [
 "名牌",
-0,
 5,
 "míngpái",
 "famous brand; name brand"
 ],
 [
 "名片",
-0,
 5,
 "míngpiàn",
 "business card"
 ],
 [
 "名胜古迹",
-0,
 5,
 "míngshènggǔjì",
 "famous scenic spots and ancient historic sites"
 ],
 [
 "名次",
-0,
 6,
 "míngcì",
 "position in a ranking of names"
 ],
 [
 "名额",
-0,
 6,
 "míng'é",
 "particular number of people; quota"
 ],
 [
 "名副其实",
-0,
 6,
 "míng fù qí shí",
 "not just in name only; but also in reality"
 ],
 [
 "名誉",
-0,
 6,
 "míngyù",
 "fame; reputation; honor; honorary"
 ],
 [
 "命名",
-0,
 6,
 "mìngmíng",
 "give a name; to dub; christen; naming"
 ],
 [
 "莫名其妙",
-0,
 6,
 "mòmíngqímiào",
 "odd; baffling; unaccountable"
+]
+],
+"extraWords": [
+[
+"名",
+361,
+"ming2",
+"name; noun (part of speech); place (e.g. among winners); famous; classifier for people"
+],
+[
+"名单",
+1297,
+"ming2 dan1",
+"list (of names)"
+],
+[
+"着名",
+1578,
+"zhu4 ming2",
+"famous; noted; well-known; celebrated"
+],
+[
+"签名",
+2218,
+"qian1 ming2",
+"to sign (one's name with a pen etc); to autograph"
+],
+[
+"名人",
+2343,
+"ming2 ren2",
+"personage; celebrity"
+],
+[
+"名叫",
+2379,
+"ming2 jiao4",
+"called; named"
+],
+[
+"罪名",
+2845,
+"zui4 ming2",
+"criminal charge; accusation"
+],
+[
+"出名",
+3745,
+"chu1 ming2",
+"well-known for sth; to become well known; to make one's mark"
+],
+[
+"名义",
+3867,
+"ming2 yi4",
+"titular; (do something) in sb's name"
+],
+[
+"姓名",
+4040,
+"xing4 ming2",
+"name and surname"
 ]
 ],
 "strokes": [

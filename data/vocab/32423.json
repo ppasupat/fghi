@@ -8,52 +8,107 @@
 "words": [
 [
 "年级",
-0,
 3,
 "niánjí",
 "grade; year (in school)"
 ],
 [
 "超级",
-0,
 5,
 "chāojí",
 "super; transcending; high grade"
 ],
 [
 "初级",
-0,
 5,
 "chūjí",
 "junior; primary"
 ],
 [
 "高级",
-0,
 5,
 "gāojí",
 "high-level; high-grade; advanced"
 ],
 [
 "等级",
-0,
 6,
 "děngjí",
 "degree; rate"
 ],
 [
 "级别",
-0,
 6,
 "jíbié",
 "rank; level; grade"
 ],
 [
 "上级",
-0,
 6,
 "shàngjí",
 "higher authorities; superiors"
+]
+],
+"extraWords": [
+[
+"级",
+2431,
+"ji2",
+"level; grade; rank; step"
+],
+[
+"晋级",
+3057,
+"jin4 ji2",
+"to advance in rank; promotion; advancement"
+],
+[
+"升级",
+5401,
+"sheng1 ji2",
+"promotion; upgrade; to escalate (in intensity); step up; to increase; to rise; to go up"
+],
+[
+"顶级",
+5571,
+"ding3 ji2",
+"top level"
+],
+[
+"一级",
+6654,
+"yi1 ji2",
+"first class; category A"
+],
+[
+"二级",
+7693,
+"er4 ji2",
+"grade 2; second class; category B"
+],
+[
+"低级",
+7877,
+"di1 ji2",
+"low level"
+],
+[
+"重量级",
+7921,
+"zhong4 liang4 ji2",
+"heavyweight"
+],
+[
+"班级",
+10499,
+"ban1 ji2",
+"classes or grades in school"
+],
+[
+"阶级",
+12303,
+"jie1 ji2",
+"(social) class"
 ]
 ],
 "strokes": [

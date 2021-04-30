@@ -8,108 +8,155 @@
 "words": [
 [
 "家",
-0,
 1,
 "jiā",
 "family; home"
 ],
 [
 "大家",
-0,
 2,
 "dàjiā",
 "everyone"
 ],
 [
 "国家",
-0,
 3,
 "guójiā",
 "country; state; nation"
 ],
 [
 "家具",
-0,
 4,
 "jiājù",
 "furniture"
 ],
 [
 "作家",
-0,
 4,
 "zuòjiā",
 "author; writer"
 ],
 [
 "家庭",
-0,
 5,
 "jiātíng",
 "family; household"
 ],
 [
 "家务",
-0,
 5,
 "jiāwù",
 "household duties; chores; housework"
 ],
 [
 "家乡",
-0,
 5,
 "jiāxiāng",
 "hometown"
 ],
 [
 "专家",
-0,
 5,
 "zhuānjiā",
 "expert; specialist"
 ],
 [
 "家常",
-0,
 6,
 "jiācháng",
 "the daily life of a family; home-style (food)"
 ],
 [
 "家伙",
-0,
 6,
 "jiāhuo",
 "guy; chap; tool; weapon"
 ],
 [
 "家属",
-0,
 6,
 "jiāshǔ",
 "family member; a dependent"
 ],
 [
 "家喻户晓",
-0,
 6,
 "jiā yù hù xiǎo",
 "become a household name; well-known"
 ],
 [
 "人家",
-0,
 6,
 "rénjiā",
 "other people; others; they; I; family; household"
 ],
 [
 "儒家",
-0,
 6,
 "rújiā",
 "Confucianism"
+]
+],
+"extraWords": [
+[
+"回家",
+372,
+"hui2 jia1",
+"to return home"
+],
+[
+"家里",
+695,
+"jia1 li3",
+"home"
+],
+[
+"家人",
+1044,
+"jia1 ren2",
+"household; (one's) family"
+],
+[
+"家族",
+1509,
+"jia1 zu2",
+"household; clan"
+],
+[
+"艺术家",
+2835,
+"yi4 shu4 jia1",
+"artist"
+],
+[
+"科学家",
+2912,
+"ke1 xue2 jia1",
+"scientist"
+],
+[
+"家长",
+3232,
+"jia1 zhang3",
+"parent or guardian of a child"
+],
+[
+"一家",
+3485,
+"yi1 jia1",
+"the whole family"
+],
+[
+"搬家",
+3585,
+"ban1 jia1",
+"to move house; removal"
+],
+[
+"全家",
+4351,
+"quan2 jia1",
+"whole family"
 ]
 ],
 "strokes": [

@@ -8,31 +8,89 @@
 "words": [
 [
 "啤酒",
-0,
 3,
 "píjiǔ",
 "beer"
 ],
 [
 "酒吧",
-0,
 5,
 "jiǔbā",
 "bar"
 ],
 [
 "酒精",
-0,
 6,
 "jiǔjīng",
 "alcohol; ethanol"
 ],
 [
 "酗酒",
-0,
 6,
 "xùjiǔ",
 "heavy drinking; drink to excess; binge drink"
+]
+],
+"extraWords": [
+[
+"酒",
+529,
+"jiu3",
+"wine; liquor; spirits; alcoholic beverage"
+],
+[
+"喝酒",
+1270,
+"he1 jiu3",
+"to drink (alcohol)"
+],
+[
+"酒店",
+1377,
+"jiu3 dian4",
+"wine shop; pub (public house); hotel; restaurant"
+],
+[
+"鸡尾酒",
+4429,
+"ji1 wei3 jiu3",
+"cocktail"
+],
+[
+"酒鬼",
+5039,
+"jiu3 gui3",
+"drunkard"
+],
+[
+"葡萄酒",
+5469,
+"pu2 tao5 jiu3",
+"(grape) wine"
+],
+[
+"酒后",
+6060,
+"jiu3 hou4",
+"after wine; after drinking"
+],
+[
+"戒酒",
+6889,
+"jie4 jiu3",
+"teetotal; to give up drinking; a ban on alcohol"
+],
+[
+"酒馆",
+7028,
+"jiu3 guan3",
+"tavern; pub; wine shop"
+],
+[
+"酿酒",
+10577,
+"niang4 jiu3",
+"to brew wine"
 ]
 ],
 "strokes": [

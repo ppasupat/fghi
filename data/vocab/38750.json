@@ -8,52 +8,107 @@
 "words": [
 [
 "非常",
-0,
 2,
 "fēicháng",
 "extremely; extraordinary; very"
 ],
 [
 "除非",
-0,
 5,
 "chúfēi",
 "only if; unless"
 ],
 [
 "非",
-0,
 5,
 "fēi",
 "non-; un-; not be; wrongdoing; simply must (Kangxi radical 175)"
 ],
 [
 "并非",
-0,
 6,
 "bìngfēi",
 "really isn't"
 ],
 [
 "非法",
-0,
 6,
 "fēifǎ",
 "illegal"
 ],
 [
 "是非",
-0,
 6,
 "shìfēi",
 "right and wrong; truth and fiction; quarrel"
 ],
 [
 "无非",
-0,
 6,
 "wúfēi",
 "nothing but; only"
+]
+],
+"extraWords": [
+[
+"非洲",
+2391,
+"Fei1 zhou1",
+"Africa"
+],
+[
+"非凡",
+5589,
+"fei1 fan2",
+"\"out of the ordinary; unusually (good, talented etc)\""
+],
+[
+"南非",
+9923,
+"Nan2 Fei1",
+"South Africa"
+],
+[
+"非正式",
+11857,
+"fei1 zheng4 shi4",
+"unofficial"
+],
+[
+"莫非",
+12964,
+"mo4 fei1",
+"can it be possible that; could it be"
+],
+[
+"非官方",
+19252,
+"fei1 guan1 fang1",
+"unofficial"
+],
+[
+"面目全非",
+19253,
+"mian4 mu4 quan2 fei1",
+"nothing remains the same (idiom); change beyond recognition"
+],
+[
+"北非",
+19547,
+"Bei3 Fei1",
+"North Africa"
+],
+[
+"死于非命",
+20505,
+"si3 yu2 fei1 ming4",
+"violent death (idiom); to die in a disaster; an unnatural death"
+],
+[
+"非暴力",
+21289,
+"fei1 bao4 li4",
+"nonviolent"
 ]
 ],
 "strokes": [

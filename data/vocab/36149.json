@@ -8,45 +8,101 @@
 "words": [
 [
 "贵",
-0,
 2,
 "guì",
 "expensive; noble; honorable; Guizhou province (abbreviation)"
 ],
 [
 "宝贵",
-0,
 5,
 "bǎoguì",
 "valuable; precious; value"
 ],
 [
 "昂贵",
-0,
 6,
 "ángguì",
 "expensive; costly"
 ],
 [
 "贵族",
-0,
 6,
 "guìzú",
 "lord; nobility; nobleman; noblewoman"
 ],
 [
 "难能可贵",
-0,
 6,
 "nánnéngkěguì",
 "estimable; extremely good"
 ],
 [
 "珍贵",
-0,
 6,
 "zhēnguì",
 "precious"
+]
+],
+"extraWords": [
+[
+"高贵",
+5992,
+"gao1 gui4",
+"grandeur; noble"
+],
+[
+"尊贵",
+8900,
+"zun1 gui4",
+"respected; respectable; honorable"
+],
+[
+"贵宾",
+8919,
+"gui4 bin1",
+"honored guest; distinguished guest; VIP"
+],
+[
+"贵重",
+10509,
+"gui4 zhong4",
+"precious"
+],
+[
+"富贵",
+16971,
+"fu4 gui4",
+"riches and honor"
+],
+[
+"可贵",
+19094,
+"ke3 gui4",
+"to be treasured; praiseworthy"
+],
+[
+"贵姓",
+21245,
+"gui4 xing4",
+"what is your name?"
+],
+[
+"名贵",
+22851,
+"ming2 gui4",
+"famous and valuable; rare; precious"
+],
+[
+"贵人",
+27040,
+"gui4 ren2",
+"nobility; person of high rank"
+],
+[
+"显贵",
+30342,
+"xian3 gui4",
+"dignitary; distinguished person; royalty; nobleman; big shot"
 ]
 ],
 "strokes": [

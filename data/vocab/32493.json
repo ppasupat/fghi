@@ -8,45 +8,101 @@
 "words": [
 [
 "继续",
-0,
 4,
 "jìxù",
 "to continue; to go on; to proceed"
 ],
 [
 "持续",
-0,
 5,
 "chíxù",
 "continue; persist"
 ],
 [
 "连续",
-0,
 5,
 "liánxù",
 "continually; in a row; successively"
 ],
 [
 "陆续",
-0,
 5,
 "lùxù",
 "in turn; successively; one after another"
 ],
 [
 "手续",
-0,
 5,
 "shǒuxù",
 "formalities; procedure"
 ],
 [
 "延续",
-0,
 6,
 "yánxù",
 "continue; last longer"
+]
+],
+"extraWords": [
+[
+"续",
+10102,
+"xu4",
+"continue; replenish"
+],
+[
+"连续剧",
+14638,
+"lian2 xu4 ju4",
+"serialized drama; dramatic series; show in parts"
+],
+[
+"续集",
+17857,
+"xu4 ji2",
+"sequel; next episode (of TV series etc)"
+],
+[
+"断断续续",
+23734,
+"duan4 duan4 xu4 xu4",
+"intermittent; off and on; discontinuous; stop-go; stammering; disjointed; inarticulate"
+],
+[
+"连续性",
+27675,
+"lian2 xu4 xing4",
+"continuity"
+],
+[
+"手续费",
+31195,
+"shou3 xu4 fei4",
+"service charge; processing fee"
+],
+[
+"续订",
+41413,
+"xu4 ding4",
+"renew"
+],
+[
+"接续",
+43214,
+"jie1 xu4",
+"to follow; to continue"
+],
+[
+"连续不断",
+57515,
+"lian2 xu4 bu4 duan4",
+"continuous; unceasing"
+],
+[
+"续借",
+90611,
+"xu4 jie4",
+"extended borrowing (e.g. library renewal)"
 ]
 ],
 "strokes": [

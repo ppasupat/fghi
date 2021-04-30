@@ -8,24 +8,83 @@
 "words": [
 [
 "城市",
-0,
 3,
 "chéngshì",
 "city or town"
 ],
 [
 "长城",
-0,
 4,
 "chángchéng",
 "the Great Wall"
 ],
 [
 "城堡",
-0,
 6,
 "chéngbǎo",
 "castle"
+]
+],
+"extraWords": [
+[
+"城",
+1196,
+"cheng2",
+"city walls; city; town"
+],
+[
+"费城",
+4209,
+"Fei4 cheng2",
+"\"Philadelphia, Pennsylvania; abbr. of 费拉德尔菲亚[Fei4 la1 de2 er3 fei1 ya4]\""
+],
+[
+"汉城",
+5300,
+"Han4 cheng2",
+"Seoul (old name for capital of South Korea)"
+],
+[
+"城镇",
+5837,
+"cheng2 zhen4",
+"cities and towns; city; town"
+],
+[
+"城外",
+11111,
+"cheng2 wai4",
+"outside of a city"
+],
+[
+"盐湖城",
+11339,
+"Yan2 hu2 cheng2",
+"\"Salt Lake City, capital of Utah\""
+],
+[
+"城墙",
+12339,
+"cheng2 qiang2",
+"city wall"
+],
+[
+"墨西哥城",
+13007,
+"Mo4 xi1 ge1 cheng2",
+"\"Mexico City, capital of Mexico\""
+],
+[
+"城门",
+18840,
+"cheng2 men2",
+"city gate"
+],
+[
+"商城",
+19560,
+"Shang1 cheng2",
+"\"Shangcheng county in Xinyang 信阳, Henan\""
 ]
 ],
 "strokes": [

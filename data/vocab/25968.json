@@ -8,66 +8,119 @@
 "words": [
 [
 "数学",
-0,
 3,
 "shùxué",
 "mathematics"
 ],
 [
 "数量",
-0,
 4,
 "shùliàng",
 "amount; quantity; number"
 ],
 [
 "数字",
-0,
 4,
 "shùzì",
 "number; numeral; figure; digit"
 ],
 [
 "数",
-0,
 5,
 "shù, shǔ",
 "number | to count; to rank"
 ],
 [
 "数据",
-0,
 5,
 "shùjù",
 "data; numbers; digital"
 ],
 [
 "数码",
-0,
 5,
 "shùmǎ",
 "numeral; number; amount; digital"
 ],
 [
 "无数",
-0,
 5,
 "wúshù",
 "countless; innumerable"
 ],
 [
 "数额",
-0,
 6,
 "shù'é",
 "amount; sum of money; fixed number"
 ],
 [
 "算数",
-0,
 6,
 "suànshù",
 "(do) arithmetic; count"
+]
+],
+"extraWords": [
+[
+"大多数",
+1822,
+"da4 duo1 shu4",
+"(great) majority"
+],
+[
+"数据库",
+4085,
+"shu4 ju4 ku4",
+"database"
+],
+[
+"倒数",
+4208,
+"dao4 shu4",
+"to count backwards (from 10 down to 0); to count down; from the bottom (lines on a page); from the back (rows of seats); (math.) reciprocal"
+],
+[
+"人数",
+4362,
+"ren2 shu4",
+"number of people"
+],
+[
+"数目",
+5604,
+"shu4 mu4",
+"amount; number"
+],
+[
+"多数",
+5723,
+"duo1 shu4",
+"majority; most"
+],
+[
+"分数",
+6543,
+"fen1 shu4",
+"fraction; score"
+],
+[
+"少数",
+6694,
+"shao3 shu4",
+"small number; few; minority"
+],
+[
+"次数",
+8078,
+"ci4 shu4",
+"frequency; number of times; ordinal number"
+],
+[
+"数百万",
+8467,
+"shu4 bai3 wan4",
+"several million"
 ]
 ],
 "strokes": [
