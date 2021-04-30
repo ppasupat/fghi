@@ -43,6 +43,15 @@ update_subtlexch() {
   unzip -d "${dir}" "${dir}/subtlexch131210.zip"
 }
 
+update_bcc() {
+  echo "Updating BCLU Chinese Corpus (filtered) ..."
+  local dir=raw/bcc
+  mkdir -p "${dir}"
+  wget -O "${dir}/bcc.zip" 'https://www.plecoforums.com/download/global_wordfreq-release-no-hiragana-katakana-zip.2616/'
+  unzip -d "${dir}" "${dir}/bcc.zip"
+  mv "${dir}"/*.txt "${dir}/bcc.txt"
+}
+
 case "$1" in
   make)
     update_makemehanzi
@@ -59,8 +68,11 @@ case "$1" in
   sub)
     update_subtlexch
     ;;
+  bcc)
+    update_bcc
+    ;;
   *)
     echo "Unknown resource '$1'"
-    echo "Available resources: make, hsk, cc, unihan, sub"
+    echo "Available resources: make, hsk, cc, unihan, sub, bcc"
     ;;
 esac

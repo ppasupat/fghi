@@ -82,7 +82,7 @@ def main():
       elif key == 'kTGHZ2013':
         char_to_infos[char]['pron'] = ', '.join(x.split(':')[-1] for x in value.split())
 
-  # Read common words
+  # Read common words from SUBTLEX-CH
   char_to_extra_words = defaultdict(list)
   with open('raw/subtlex-ch/SUBTLEX_CH_131210_CE.utf8', encoding='utf-8-sig') as fin:
     header = fin.readline().rstrip('\n').split('\t')
