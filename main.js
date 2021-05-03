@@ -72,12 +72,10 @@ $(function () {
     let wordsList = $('<div class=words-list>').appendTo('#words-pane');
     createWordEntry(wordsList, 'char', charData.char, null, charData.info.pron,
       'Char Meanings: ' + charData.info.gloss);
-    wordsList.append('<hr>');
     charData.words.forEach(function (entry) {
       // Simp, Level, Pron, Gloss
       createWordEntry(wordsList, 'word', entry[0], entry[1], entry[2], entry[3]);
     });
-    wordsList.append('<hr>');
     charData.extraWords.forEach(function (entry) {
       // Simp, Level, Pron, Gloss
       createWordEntry(wordsList, 'extraWord', entry[0], entry[1], entry[2], entry[3]);
