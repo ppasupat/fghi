@@ -77,7 +77,7 @@ def main():
 
   # Read HSK words and characters
   print('Reading words and chars')
-  hsk = [None] * 8
+  hsk = [None] * 9
   hsk_so_far = set()
   char_to_words = defaultdict(list)
   used_words = set()
@@ -109,6 +109,15 @@ def main():
     all_chars -= set(hsk[level])
   hsk[7] = sorted(all_chars)
   print('Added {} extra chars.'.format(len(hsk[7])))
+
+  # At least cover all characters from grid-fghi
+  with open('grid-fghi.json') as fin:
+    grid_chars = set(''.join(x[1] for x in json.load(fin)))
+  for level in (1,2,3,4,5,6,7):
+    grid_chars -= set(hsk[level])
+  hsk[8] = sorted(grid_chars)
+  print('Added {} extra extra chars.'.format(len(hsk[8])))
+  print('  ({})'.format(', '.join(hsk[8])))
 
   # Read Unihan
   char_to_infos = defaultdict(dict)
