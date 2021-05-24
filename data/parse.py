@@ -155,7 +155,7 @@ def main():
   for freq, word in yield_common_words():
     if freq < args.min_common_word_freq:
       break
-    if word in used_words or word not in cedict:
+    if word in used_words or word not in cedict or len(word) == 1:
       continue
     for pron, gloss in cedict[word]:
       line = [word, round(freq, 2), pron, gloss]

@@ -52,6 +52,25 @@ update_bcc() {
   mv "${dir}"/*.txt "${dir}/bcc.txt"
 }
 
+update_junda() {
+  echo "Updating Jun Da's character frequency list ..."
+  local dir=raw/junda
+  mkdir -p "${dir}"
+  wget -O "${dir}/CharFreq.tsv" 'https://lingua.mtsu.edu/chinese-computing/statistics/char/download.php?Which=MO'
+  iconv -f GB18030 -t UTF-8 "${dir}/CharFreq.tsv" | grep -v '^/' > "${dir}/CharFreq-utf8.tsv"
+}
+
+update_ic() {
+  echo "Updating Integrated Chinese vocab list ..."
+  local dir=raw/integrated-chinese
+  mkdir -p "${dir}"
+  wget -O "${dir}/l1p1.zip" 'http://www.denisowski.org/Chinese/ICL1P1/icl1p1_all.zip'
+  wget -O "${dir}/l1p2.zip" 'http://www.denisowski.org/Chinese/ICL1P2/icl1p2_all.zip'
+  wget -O "${dir}/l2p1.zip" 'http://www.denisowski.org/Chinese/ICL2P1/icl2p1_all.zip'
+  wget -O "${dir}/l2p2.zip" 'http://www.denisowski.org/Chinese/ICL2P2/icl2p2_all.zip'
+  for x in "${dir}/*.zip"; do unzip "${x}" -d "${dir}"; done
+}
+
 case "$1" in
   make)
     update_makemehanzi
@@ -71,8 +90,14 @@ case "$1" in
   bcc)
     update_bcc
     ;;
+  junda)
+    update_junda
+    ;;
+  ic)
+    update_ic
+    ;;
   *)
     echo "Unknown resource '$1'"
-    echo "Available resources: make, hsk, cc, unihan, sub, bcc"
+    echo "Available resources: make, hsk, cc, unihan, sub, bcc, junda, ic"
     ;;
 esac
