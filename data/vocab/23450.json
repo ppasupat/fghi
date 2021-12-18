@@ -7,245 +7,371 @@
 },
 "words": [
 [
-"决定",
-3,
-"juédìng",
-"decide; resolve"
-],
-[
 "一定",
 3,
-"yídìng",
-"surely; certainly; necessarily; definite"
+"yī dìng",
+"surely; certainly; necessarily; fixed; a certain (extent etc); given; particular; must"
 ],
 [
-"规定",
-4,
-"guīdìng",
-"regulation; stipulate; fix; set"
+"决定",
+3,
+"jué dìng",
+"to decide (to do something); to resolve; decision; CL:個|个[ge4],項|项[xiang4]; certainly"
 ],
 [
 "肯定",
 4,
-"kěndìng",
-"sure; definite; affirm; approve"
+"kěn dìng",
+"to be certain; to be positive; assuredly; definitely; to give recognition; to affirm; affirmative (answer)"
 ],
 [
-"否定",
-5,
-"fǒudìng",
-"negate; negative"
-],
-[
-"固定",
-5,
-"gùdìng",
-"fixed; regular; stable"
+"规定",
+4,
+"guī dìng",
+"provision; to fix; to set; to formulate; to stipulate; to provide; regulation; rule; CL:個|个[ge4]"
 ],
 [
 "确定",
 5,
-"quèdìng",
-"definite; certain; fixed; determine"
-],
-[
-"说不定",
-5,
-"shuōbudìng",
-"can't say for sure; perhaps; maybe"
+"què dìng",
+"definite; certain; fixed; to fix (on sth); to determine; to be sure; to ensure; to make certain; to ascertain; to clinch; to recognize; to confirm; OK (on computer dialog box)"
 ],
 [
 "稳定",
 5,
-"wěndìng",
-"stable; steady"
+"wěn dìng",
+"steady; stable; stability; to stabilize; to pacify"
+],
+[
+"说不定",
+5,
+"shuō bu dìng",
+"can't say for sure; maybe"
+],
+[
+"固定",
+5,
+"gù dìng",
+"to fix; to fasten; to set rigidly in place; fixed; set; regular"
 ],
 [
 "制定",
 5,
-"zhìdìng",
-"formulate; lay down (a plan or policy); to draft"
+"zhì dìng",
+"to draw up; to formulate"
 ],
 [
-"奠定",
-6,
-"diàndìng",
-"establish; to found; to settle"
-],
-[
-"定期",
-6,
-"dìngqī",
-"regularly; at regular intervals"
+"否定",
+5,
+"fǒu dìng",
+"to negate; to deny; to reject; negative (answer); negation"
 ],
 [
 "定义",
 6,
-"dìngyì",
-"definition"
-],
-[
-"断定",
-6,
-"duàndìng",
-"conclude; determine; figure out"
-],
-[
-"坚定",
-6,
-"jiāndìng",
-"firm; staunch; resolute"
-],
-[
-"鉴定",
-6,
-"jiàndìng",
-"appraise; identify; evaluate"
-],
-[
-"拟定",
-6,
-"nǐdìng",
-"make an initial draft; draw up"
+"dìng yì",
+"definition; to define"
 ],
 [
 "认定",
 6,
-"rèndìng",
-"maintain (that sth. is true); firmly believe"
-],
-[
-"特定",
-6,
-"tèdìng",
-"special; specific; designated"
+"rèn dìng",
+"to maintain (that sth is true); to determine (a fact); determination (of an amount); of the firm opinion; to believe firmly; to set one's mind on; to identify with"
 ],
 [
 "镇定",
 6,
-"zhèndìng",
-"cool; calm; unperturbed"
+"zhèn dìng",
+"calm; unperturbed; cool"
 ],
 [
 "指定",
 6,
-"zhǐdìng",
-"appoint; designate"
+"zhǐ dìng",
+"to appoint; to assign; to indicate clearly and with certainty; designated"
+],
+[
+"鉴定",
+6,
+"jiàn dìng",
+"to appraise; to identify; to evaluate"
+],
+[
+"坚定",
+6,
+"jiān dìng",
+"firm; steady; staunch; resolute"
+],
+[
+"特定",
+6,
+"tè dìng",
+"special; specific; designated; particular"
+],
+[
+"定期",
+6,
+"dìng qī",
+"at set dates; at regular intervals; periodic; limited to a fixed period of time; fixed term"
+],
+[
+"断定",
+6,
+"duàn dìng",
+"to conclude; to determine; to come to a judgment"
+],
+[
+"拟定",
+6,
+"nǐ dìng",
+"to draw up; to draft; to formulate"
+],
+[
+"奠定",
+6,
+"diàn dìng",
+"to establish; to fix; to settle"
 ]
 ],
 "extraWords": [
 [
 "定位",
 55.14,
-"ding4 wei4",
+"dìng wèi",
 "to orientate; to position; to categorize (as); to characterize (as); positioning; position; niche"
+],
+[
+"测定",
+39.21,
+"cè dìng",
+"to determine (by measuring or surveying)"
 ],
 [
 "不一定",
 33.31,
-"bu4 yi1 ding4",
+"bù yī dìng",
 "not necessarily; maybe"
+],
+[
+"约定",
+27.17,
+"yuē dìng",
+"to agree on sth (after discussion); to conclude a bargain; to arrange; to promise; to stipulate; to make an appointment; stipulated (time, amount, quality etc); an arrangement; a deal; appointment; undertaking; commitment; understanding; engagement; stipulation"
+],
+[
+"注定",
+26.84,
+"zhù dìng",
+"to foreordain; to be bound to; to be destined to; to be doomed to; inevitably"
 ],
 [
 "法定",
 25.28,
-"fa3 ding4",
+"fǎ dìng",
 "legal; statutory; rightful"
+],
+[
+"定价",
+24.68,
+"dìng jià",
+"to set a price; to fix a price"
+],
+[
+"设定",
+18.79,
+"shè dìng",
+"to set; to set up; to install; setting; preferences"
+],
+[
+"稳定性",
+15.93,
+"wěn dìng xìng",
+"stability"
+],
+[
+"锁定",
+15.51,
+"suǒ dìng",
+"to lock (a door); to close with a latch; to lock into place; a lock; a latch; to lock a computer file (to prevent it being overwritten); to lock (denying access to a computer system or device or files, e.g. by password-protection); to focus attention on; to target"
+],
+[
+"预定",
+13.24,
+"yù dìng",
+"to schedule in advance"
 ],
 [
 "必定",
 12.89,
-"bi4 ding4",
+"bì dìng",
 "to be bound to; to be sure to"
+],
+[
+"协定",
+12.83,
+"xié dìng",
+"agreement; accord; to reach an agreement"
+],
+[
+"不稳定",
+12.13,
+"bù wěn dìng",
+"unstable"
+],
+[
+"评定",
+12.0,
+"píng dìng",
+"to evaluate; to make one's judgment"
 ],
 [
 "定向",
 11.25,
-"ding4 xiang4",
+"dìng xiàng",
 "to orientate; directional; directed; orienteering"
 ],
 [
 "界定",
 10.7,
-"jie4 ding4",
+"jiè dìng",
 "definition; to delimit"
 ],
 [
 "安定",
 10.57,
-"An1 ding4",
+"Ān dìng",
 "Anting township in Tainan county 台南縣|台南县[Tai2 nan2 xian4], Taiwan"
 ],
 [
 "安定",
 10.57,
-"an1 ding4",
+"ān dìng",
 "stable; quiet; settled; stabilize; maintain; stabilized; calm and orderly"
 ],
 [
 "定量",
 10.07,
-"ding4 liang4",
+"dìng liàng",
 "quantity; fixed amount; ration"
+],
+[
+"定制",
+9.68,
+"dìng zhì",
+"custom-made; made-to-order; to have something custom made"
+],
+[
+"定点",
+9.22,
+"dìng diǎn",
+"to determine a location; designated; appointed; specific; fixed (time); fixed point (geometry); fixed-point (number)"
 ],
 [
 "定罪",
 9.21,
-"ding4 zui4",
+"dìng zuì",
 "to convict (sb of a crime)"
 ],
 [
 "判定",
 9.07,
-"pan4 ding4",
+"pàn dìng",
 "to judge; to decide; judgment; determination"
 ],
 [
 "原定",
 9.02,
-"yuan2 ding4",
+"yuán dìng",
 "originally planned; originally determined"
 ],
 [
 "不定",
 8.1,
-"bu4 ding4",
+"bù dìng",
 "indefinite; indeterminate; (botany) adventitious"
+],
+[
+"定于",
+8.03,
+"dìng yú",
+"set at; scheduled at"
 ],
 [
 "定律",
 7.96,
-"ding4 lu:4",
+"dìng lu:4",
 "scientific law (e.g. law of conservation of energy); (in human affairs) a generalization based on observation (e.g. \"power corrupts\")"
+],
+[
+"选定",
+7.74,
+"xuǎn dìng",
+"to select; to choose; to settle on"
+],
+[
+"定额",
+7.67,
+"dìng é",
+"fixed amount; quota"
 ],
 [
 "定性",
 7.4,
-"ding4 xing4",
+"dìng xìng",
 "to determine the nature (usually of error or crime); to determine chemical composition; qualitative; fixed"
 ],
 [
 "裁定",
 7.38,
-"cai2 ding4",
+"cái dìng",
 "ruling"
 ],
 [
 "限定",
 7.26,
-"xian4 ding4",
+"xiàn dìng",
 "to restrict to; to limit"
+],
+[
+"坚定不移",
+6.79,
+"jiān dìng bù yí",
+"unswerving; unflinching"
+],
+[
+"决定性",
+6.32,
+"jué dìng xìng",
+"decisive; conclusive"
+],
+[
+"定下",
+6.11,
+"dìng xià",
+"to set (the tone, a target etc); to lay down (the beat)"
+],
+[
+"定时",
+6.11,
+"dìng shí",
+"to fix a time; fixed time; timed (of explosive etc)"
 ],
 [
 "核定",
 5.8,
-"he2 ding4",
+"hé dìng",
 "to audit and determine; to check and ratify; to appraise and decide; determination; on a deemed basis (taxation); to deem"
+],
+[
+"绑定",
+5.7,
+"bǎng dìng",
+"binding (loanword); to bind (e.g. an account to a mobile phone number)"
 ],
 [
 "假定",
 5.13,
-"jia3 ding4",
+"jiǎ dìng",
 "to assume; to suppose; supposed; so-called; assumption; hypothesis"
 ]
 ],

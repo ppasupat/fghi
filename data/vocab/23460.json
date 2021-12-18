@@ -9,105 +9,153 @@
 [
 "教室",
 2,
-"jiàoshì",
-"classroom"
+"jiào shì",
+"classroom; CL:間|间[jian1]"
 ],
 [
 "办公室",
 3,
-"bàngōngshì",
-"office"
+"bàn gōng shì",
+"office; business premises; bureau; CL:間|间[jian1]"
 ],
 [
 "卧室",
 5,
-"wòshì",
-"bedroom"
+"wò shì",
+"bedroom; CL:間|间[jian1]"
 ]
 ],
 "extraWords": [
 [
+"实验室",
+55.24,
+"shí yàn shì",
+"laboratory; CL:間|间[jian1]"
+],
+[
+"室内",
+31.82,
+"shì nèi",
+"indoor"
+],
+[
 "地下室",
 25.34,
-"di4 xia4 shi4",
+"dì xià shì",
 "basement; cellar"
 ],
 [
 "浴室",
 22.8,
-"yu4 shi4",
+"yù shì",
 "bathroom (room used for bathing); CL:間|间[jian1]"
 ],
 [
 "室友",
 19.76,
-"shi4 you3",
+"shì yǒu",
 "roommate"
 ],
 [
 "工作室",
 13.56,
-"gong1 zuo4 shi4",
+"gōng zuò shì",
 "studio; workshop"
+],
+[
+"会议室",
+12.22,
+"huì yì shì",
+"meeting room; conference room"
+],
+[
+"寝室",
+12.17,
+"qǐn shì",
+"bedroom; dormitory; CL:間|间[jian1]"
+],
+[
+"手术室",
+10.31,
+"shǒu shù shì",
+"operating room"
+],
+[
+"急诊室",
+9.99,
+"jí zhěn shì",
+"emergency room"
 ],
 [
 "室外",
 7.87,
-"shi4 wai4",
+"shì wài",
 "outdoor"
 ],
 [
 "更衣室",
 7.01,
-"geng1 yi1 shi4",
+"gēng yī shì",
 "change room; dressing room; locker room; toilet"
 ],
 [
 "居室",
 6.92,
-"ju1 shi4",
+"jū shì",
 "room; apartment"
 ],
 [
 "休息室",
 6.83,
-"xiu1 xi1 shi4",
+"xiū xī shì",
 "lobby; lounge"
 ],
 [
 "演播室",
 6.71,
-"yan3 bo1 shi4",
+"yǎn bō shì",
 "broadcasting studio"
 ],
 [
 "科室",
 6.52,
-"ke1 shi4",
+"kē shì",
 "department; administrative division; unit (e.g. intensive care unit)"
+],
+[
+"储藏室",
+6.44,
+"chǔ cáng shì",
+"storeroom; CL:間|间[jian1]"
 ],
 [
 "皇室",
 6.44,
-"huang2 shi4",
+"huáng shì",
 "royal family; imperial household; member of the royal family"
 ],
 [
 "密室",
 5.48,
-"mi4 shi4",
+"mì shì",
 "a room for keeping sth hidden; secret room; hidden chamber"
+],
+[
+"温室",
+5.41,
+"wēn shì",
+"greenhouse"
 ],
 [
 "控制室",
 5.28,
-"kong4 zhi4 shi4",
+"kòng zhì shì",
 "control room"
 ],
 [
 "教研室",
 5.11,
-"jiao4 yan2 shi4",
+"jiào yán shì",
 "teaching and research section"
 ]
 ],

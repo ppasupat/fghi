@@ -9,233 +9,576 @@
 [
 "发",
 3,
-"fā, fà",
-"send out; to issue; to show (one's feelings) | hair"
+"fā",
+"to send out; to show (one's feeling); to issue; to develop; to make a bundle of money; classifier for gunshots (rounds)"
 ],
 [
-"发烧",
+"发",
 3,
-"fāshāo",
-"have a fever"
+"fà",
+"hair; Taiwan pr. [fa3]"
 ],
 [
 "发现",
 3,
-"fāxiàn",
-"discover; to find"
+"fā xiàn",
+"to find; to discover"
 ],
 [
 "头发",
 3,
-"tóufa",
+"tóu fa",
 "hair (on the head)"
 ],
 [
-"出发",
-4,
-"chūfā",
-"start out; set off"
+"发烧",
+3,
+"fā shāo",
+"to have a high temperature (from illness); to have a fever"
 ],
 [
 "发生",
 4,
-"fāshēng",
-"happen; occur; take place"
+"fā shēng",
+"to happen; to occur; to take place; to break out"
+],
+[
+"出发",
+4,
+"chū fā",
+"to set off; to start (on a journey)"
 ],
 [
 "发展",
 4,
-"fāzhǎn",
-"develop; development; growth"
-],
-[
-"理发",
-4,
-"lǐfà",
-"a barber, hairdressing; haircut"
+"fā zhǎn",
+"development; growth; to develop; to grow; to expand"
 ],
 [
 "沙发",
 4,
-"shāfā",
-"sofa"
+"shā fā",
+"sofa (loanword); CL:條|条[tiao2],張|张[zhang1]; (Internet slang) the first reply or replier to a forum post"
+],
+[
+"理发",
+4,
+"lǐ fà",
+"a barber; hairdressing"
+],
+[
+"发明",
+5,
+"fā míng",
+"to invent; an invention; CL:個|个[ge4]"
 ],
 [
 "发表",
 5,
-"fābiǎo",
-"publish; to issue (a statement); announce"
+"fā biǎo",
+"to issue; to publish"
+],
+[
+"发挥",
+5,
+"fā huī",
+"to display; to exhibit; to bring out implicit or innate qualities; to express (a thought or moral); to develop (an idea); to elaborate (on a theme)"
+],
+[
+"发言",
+5,
+"fā yán",
+"to make a speech; statement; utterance; CL:個|个[ge4]"
+],
+[
+"开发",
+5,
+"kāi fā",
+"to exploit (a resource); to open up (for development); to develop"
+],
+[
+"发抖",
+5,
+"fā dǒu",
+"to tremble; to shake; to shiver"
+],
+[
+"启发",
+5,
+"qǐ fā",
+"to enlighten; to explain (a text etc); to stimulate (a mental attitude); enlightenment; revelation; motivation"
+],
+[
+"发达",
+5,
+"fā dá",
+"developed (country etc); flourishing; to develop"
+],
+[
+"发票",
+5,
+"fā piào",
+"invoice; receipt or bill for purchase"
 ],
 [
 "发愁",
 5,
 "fā chóu",
-"worry about sth."
+"to worry; to fret; to be anxious; to become sad"
 ],
 [
-"发达",
-5,
-"fādá",
-"developed (country, etc.); flourishing; prosper"
-],
-[
-"发抖",
-5,
-"fādǒu",
-"to shiver; to shudder; tremble"
-],
-[
-"发挥",
-5,
-"fāhuī",
-"to bring (skill, talent, etc.) into play; to develop (an idea)"
-],
-[
-"发明",
-5,
-"fāmíng",
-"invent"
-],
-[
-"发票",
-5,
-"fāpiào",
-"receipt or bill for purchase; invoice"
-],
-[
-"发言",
-5,
-"fāyán",
-"make a speech; statement"
-],
-[
-"开发",
-5,
-"kāifā",
-"develop; to exploit (a resource)"
-],
-[
-"启发",
-5,
-"qǐfā",
-"enlighten; inspire"
-],
-[
-"颁发",
+"发誓",
 6,
-"bānfā",
-"issue; promulgate; award"
+"fā shì",
+"to vow; to pledge; to swear"
+],
+[
+"发射",
+6,
+"fā shè",
+"to shoot (a projectile); to fire (a rocket); to launch; to emit (a particle); to discharge; emanation; emission"
+],
+[
+"发动",
+6,
+"fā dòng",
+"to start; to launch; to unleash; to mobilize; to arouse"
 ],
 [
 "爆发",
 6,
-"bàofā",
-"break out; erupt; explode"
-],
-[
-"迸发",
-6,
-"bèngfā",
-"burst forth; burst out"
+"bào fā",
+"to break out; to erupt; to explode; to burst out"
 ],
 [
 "发布",
 6,
-"fābù",
-"issue; announce; release"
+"fā bù",
+"to release; to issue; to announce; to distribute; also written 發布|发布[fa1 bu4]"
+],
+[
+"发布",
+6,
+"fā bù",
+"to release; to issue; to announce; to distribute"
+],
+[
+"发觉",
+6,
+"fā jué",
+"to become aware; to detect; to realize; to perceive"
+],
+[
+"发行",
+6,
+"fā xíng",
+"to publish; to issue (stocks, currency etc); to release; to distribute (a film)"
+],
+[
+"激发",
+6,
+"jī fā",
+"to arouse; to excite"
 ],
 [
 "发财",
 6,
 "fā cái",
-"get rich"
-],
-[
-"发呆",
-6,
-"fādāi",
-"stare blankly; daze off"
-],
-[
-"发动",
-6,
-"fādòng",
-"to start; to launch; mobilize"
-],
-[
-"发觉",
-6,
-"fājué",
-"discover; detect"
-],
-[
-"发射",
-6,
-"fāshè",
-"to launch; to shoot (a projectile); to fire (a rocket)"
-],
-[
-"发誓",
-6,
-"fāshì",
-"to vow; to pledge; swear"
-],
-[
-"发行",
-6,
-"fāxíng",
-"publish; to issue; distribute"
-],
-[
-"发炎",
-6,
-"fāyán",
-"become inflamed from infection or injury"
-],
-[
-"发扬",
-6,
-"fāyáng",
-"develop; make full use of; to carry on"
-],
-[
-"发育",
-6,
-"fāyù",
-"develop; growth"
-],
-[
-"激发",
-6,
-"jīfā",
-"to arouse; excite"
-],
-[
-"批发",
-6,
-"pīfā",
-"wholesale"
+"to get rich"
 ],
 [
 "散发",
 6,
-"sànfā",
-"distribute; emit"
+"sàn fā",
+"to distribute; to emit; to issue"
 ],
 [
 "蒸发",
 6,
-"zhēngfā",
-"evaporate; evaporation"
+"zhēng fā",
+"to evaporate; evaporation"
+],
+[
+"发育",
+6,
+"fā yù",
+"to develop; to mature; growth; development; (sexually) mature"
+],
+[
+"颁发",
+6,
+"bān fā",
+"to issue; to promulgate; to award"
+],
+[
+"发炎",
+6,
+"fā yán",
+"to become inflamed; inflammation"
+],
+[
+"发呆",
+6,
+"fā dāi",
+"to stare blankly; to be stunned; to be lost in thought"
+],
+[
+"迸发",
+6,
+"bèng fā",
+"to burst forth"
 ],
 [
 "自发",
 6,
-"zìfā",
-"spontaneous; unprompted"
+"zì fā",
+"spontaneous"
+],
+[
+"发扬",
+6,
+"fā yáng",
+"to develop; to make full use of"
+],
+[
+"批发",
+6,
+"pī fā",
+"wholesale; bulk trade; distribution"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"转发",
+147.91,
+"zhuǎn fā",
+"to transmit; to forward (mail, SMS, packets of data); to pass on; to republish (an article from another publication)"
+],
+[
+"发出",
+85.6,
+"fā chū",
+"to issue (an order, decree etc); to send out; to dispatch; to produce (a sound); to let out (a laugh)"
+],
+[
+"引发",
+51.24,
+"yǐn fā",
+"to lead to; to trigger; to initiate; to cause; to evoke (emotions)"
+],
+[
+"研发",
+45.42,
+"yán fā",
+"research and development; to develop"
+],
+[
+"发言人",
+39.49,
+"fā yán rén",
+"spokesperson"
+],
+[
+"发放",
+36.56,
+"fā fàng",
+"to provide; to give; to grant"
+],
+[
+"发动机",
+30.84,
+"fā dòng jī",
+"engine; motor; CL:臺|台[tai2]"
+],
+[
+"发起",
+29.7,
+"fā qǐ",
+"to originate; to initiate; to launch (an attack, an initiative etc); to start; to propose sth (for the first time)"
+],
+[
+"新闻发布会",
+28.96,
+"xīn wén fā bù huì",
+"news conference"
+],
+[
+"发型",
+27.16,
+"fà xíng",
+"hairstyle; coiffure; hairdo"
+],
+[
+"发病",
+26.44,
+"fā bìng",
+"onset; outbreak (of a disease)"
+],
+[
+"金发",
+25.25,
+"jīn fà",
+"blond; blonde; fair-haired"
+],
+[
+"开发区",
+25.18,
+"kāi fā qū",
+"development zone"
+],
+[
+"发疯",
+23.7,
+"fā fēng",
+"to go mad; to go crazy; to lose one's mind"
+],
+[
+"发送",
+21.25,
+"fā sòng",
+"to transmit; to dispatch; to issue (an official document or credential)"
+],
+[
+"首发",
+20.41,
+"shǒu fā",
+"first issue; first public showing"
+],
+[
+"突发",
+17.06,
+"tū fā",
+"to burst out suddenly; sudden outburst"
+],
+[
+"发布会",
+16.48,
+"fā bù huì",
+"news conference; briefing"
+],
+[
+"发布会",
+16.48,
+"fā bù huì",
+"news conference; briefing"
+],
+[
+"发电",
+16.18,
+"fā diàn",
+"to generate electricity; to send a telegram"
+],
+[
+"发展中国家",
+15.86,
+"fā zhǎn zhōng guó jiā",
+"developing country"
+],
+[
+"发作",
+15.83,
+"fā zuò",
+"to flare up; to break out"
+],
+[
+"下发",
+15.49,
+"xià fā",
+"to issue (a memorandum etc) to lower levels; to distribute (e.g. disaster relief to victims)"
+],
+[
+"并发症",
+15.23,
+"bìng fā zhèng",
+"complications (undesired side-effect of medical procedure)"
+],
+[
+"复发",
+14.28,
+"fù fā",
+"to recur (of a disease); to reappear; to relapse (into a former bad state)"
+],
+[
+"发火",
+12.85,
+"fā huǒ",
+"to catch fire; to ignite; to detonate; to get angry"
+],
+[
+"发掘",
+12.47,
+"fā jué",
+"to excavate; to explore; (fig.) to unearth; to tap into"
+],
+[
+"发给",
+12.28,
+"fā gěi",
+"to issue; to grant; to distribute"
+],
+[
+"发泄",
+11.66,
+"fā xiè",
+"to give vent to (one's feelings)"
+],
+[
+"假发",
+11.42,
+"jiǎ fà",
+"wig"
+],
+[
+"发热",
+11.37,
+"fā rè",
+"to have a high temperature; feverish; unable to think calmly; to emit heat"
+],
+[
+"发售",
+11.05,
+"fā shòu",
+"to sell"
+],
+[
+"发生率",
+10.85,
+"fā shēng lu:4",
+"rate of occurrence"
+],
+[
+"发光",
+10.52,
+"fā guāng",
+"to shine"
+],
+[
+"发球",
+10.31,
+"fā qiú",
+"to serve the ball; to tee off"
+],
+[
+"诱发",
+10.18,
+"yòu fā",
+"to induce; to cause; to elicit; to trigger"
+],
+[
+"发病率",
+9.61,
+"fā bìng lu:4",
+"incidence of a disease; disease rate"
+],
+[
+"案发",
+9.45,
+"àn fā",
+"(of a crime) to occur; (old) (of a crime) to be discovered; to investigate a crime on the spot"
+],
+[
+"长发",
+9.41,
+"cháng fà",
+"long hair"
+],
+[
+"发脾气",
+8.64,
+"fā pí qì",
+"to get angry"
+],
+[
+"打发",
+8.47,
+"dǎ fa",
+"to dispatch sb to do sth; to make sb leave; to pass (the time); (old) to make arrangements; (old) to bestow (alms etc)"
+],
+[
+"越发",
+8.46,
+"yuè fā",
+"increasingly; more and more; ever more; all the more"
+],
+[
+"发音",
+8.41,
+"fā yīn",
+"to pronounce; pronunciation; to emit sound"
+],
+[
+"发狂",
+7.54,
+"fā kuáng",
+"crazy; mad; madly"
+],
+[
+"出发点",
+7.4,
+"chū fā diǎn",
+"starting point; (fig.) basis; motive"
+],
+[
+"发酵",
+7.11,
+"fā jiào",
+"to ferment; fermentation"
+],
+[
+"告发",
+7.06,
+"gào fā",
+"to lodge an accusation; accusation (law)"
+],
+[
+"白发",
+6.1,
+"bái fà",
+"white or gray hair; CL:根[gen1]"
+],
+[
+"发车",
+5.8,
+"fā chē",
+"departure (of a coach or train); to dispatch a vehicle"
+],
+[
+"发电机",
+5.57,
+"fā diàn jī",
+"electricity generator; dynamo"
+],
+[
+"揭发",
+5.46,
+"jiē fā",
+"to expose; to bring to light; to disclose; revelation"
+],
+[
+"发稿",
+5.46,
+"fā gǎo",
+"(of a publisher) to send a manuscript off to the printer; (of a journalist) to send a dispatch"
+],
+[
+"毛发",
+5.43,
+"máo fà",
+"hair"
+],
+[
+"并发",
+5.32,
+"bìng fā",
+"to be complicated by; to erupt simultaneously"
+],
+[
+"大发",
+5.29,
+"Dà fā",
+"Daihatsu, Japanese car company"
+]
+],
 "strokes": [
 "M 473 510 Q 587 543 779 546 Q 804 543 815 552 Q 822 559 815 572 Q 808 585 762 607 Q 735 619 670 600 Q 589 587 493 560 L 432 542 Q 377 529 326 510 Q 310 503 306 508 Q 300 512 305 525 Q 324 598 336 620 Q 345 633 333 648 Q 315 673 284 689 Q 271 696 260 688 Q 253 684 262 664 Q 277 633 270 591 Q 257 530 228 503 Q 213 487 219 473 Q 228 451 247 431 Q 260 418 280 433 Q 328 473 412 495 L 473 510 Z",
 "M 415 390 Q 448 451 473 510 L 493 560 Q 533 695 538 720 Q 542 751 560 781 Q 573 802 552 815 Q 522 836 481 844 Q 462 848 453 842 Q 446 835 453 817 Q 508 724 432 542 L 412 495 Q 325 311 211 195 Q 162 149 98 95 Q 91 88 89 82 Q 88 75 104 83 Q 288 165 404 368 L 415 390 Z",

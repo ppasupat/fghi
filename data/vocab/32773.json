@@ -9,111 +9,231 @@
 [
 "或者",
 3,
-"huòzhě",
-"or; possible; maybe; perhaps"
+"huò zhě",
+"or; possibly; maybe; perhaps"
 ],
 [
 "记者",
 4,
-"jìzhě",
-"reporter; journalist"
+"jì zhě",
+"reporter; journalist; CL:個|个[ge4]"
 ],
 [
 "作者",
 4,
-"zuòzhě",
-"author; writer"
+"zuò zhě",
+"author; writer; CL:個|个[ge4]"
 ],
 [
 "志愿者",
 5,
-"zhìyuànzhě",
+"zhì yuàn zhě",
 "volunteer"
 ],
 [
 "患者",
 6,
-"huànzhě",
-"sufferer; patient; the sick"
+"huàn zhě",
+"patient; sufferer"
 ]
 ],
 "extraWords": [
 [
+"消费者",
+157.45,
+"xiāo fèi zhě",
+"consumer"
+],
+[
+"投资者",
+133.87,
+"tóu zī zhě",
+"investor"
+],
+[
 "受害者",
 68.2,
-"shou4 hai4 zhe3",
+"shòu hài zhě",
 "casualty; victim; those injured and wounded"
 ],
 [
 "死者",
 59.14,
-"si3 zhe3",
+"sǐ zhě",
 "the dead; the deceased"
+],
+[
+"读者",
+58.74,
+"dú zhě",
+"reader; CL:個|个[ge4]"
+],
+[
+"笔者",
+52.72,
+"bǐ zhě",
+"the author; the writer"
+],
+[
+"学者",
+46.86,
+"xué zhě",
+"scholar"
+],
+[
+"后者",
+31.63,
+"hòu zhě",
+"the latter"
+],
+[
+"幸存者",
+28.02,
+"xìng cún zhě",
+"survivor"
 ],
 [
 "工作者",
 27.83,
-"gong1 zuo4 zhe3",
+"gōng zuò zhě",
 "worker"
+],
+[
+"两者",
+26.19,
+"liǎng zhě",
+"both sides"
+],
+[
+"经营者",
+20.68,
+"jīng yíng zhě",
+"executive; manager; transactor"
 ],
 [
 "前者",
 18.72,
-"qian2 zhe3",
+"qián zhě",
 "the former"
+],
+[
+"失败者",
+17.5,
+"shī bài zhě",
+"loser"
+],
+[
+"劳动者",
+17.16,
+"láo dòng zhě",
+"worker; laborer"
+],
+[
+"目击者",
+16.9,
+"mù jī zhě",
+"eyewitness"
+],
+[
+"爱好者",
+13.99,
+"ài hào zhě",
+"lover (of art, sports etc); amateur; enthusiast; fan"
 ],
 [
 "二者",
 13.25,
-"er4 zhe3",
+"èr zhě",
 "both; both of them; neither"
 ],
 [
 "老者",
 9.57,
-"lao3 zhe3",
+"lǎo zhě",
 "old man; elderly man"
 ],
 [
 "使者",
 8.05,
-"shi3 zhe3",
+"shǐ zhě",
 "emissary; envoy"
+],
+[
+"领导者",
+7.85,
+"lǐng dǎo zhě",
+"leader"
+],
+[
+"参赛者",
+7.75,
+"cān sài zhě",
+"competitor; CL:名[ming2]"
+],
+[
+"参与者",
+7.27,
+"cān yù zhě",
+"participant"
+],
+[
+"生产者",
+6.79,
+"shēng chǎn zhě",
+"producer (of goods, commodities or farm produce etc); manufacturer; (biology) autotroph"
 ],
 [
 "侵略者",
 6.7,
-"qin1 lu:e4 zhe3",
+"qīn lu:è zhě",
 "aggressors; invaders"
 ],
 [
 "支持者",
 6.68,
-"zhi1 chi2 zhe3",
+"zhī chí zhě",
 "supporter"
 ],
 [
 "使用者",
 6.41,
-"shi3 yong4 zhe3",
+"shǐ yòng zhě",
 "user"
+],
+[
+"胜利者",
+5.84,
+"shèng lì zhě",
+"victor; winner"
+],
+[
+"记者招待会",
+5.82,
+"jì zhě zhāo dài huì",
+"press conference"
+],
+[
+"组织者",
+5.71,
+"zǔ zhī zhě",
+"organizer"
 ],
 [
 "所有者",
 5.44,
-"suo3 you3 zhe3",
+"suǒ yǒu zhě",
 "proprietor; owner"
 ],
 [
 "研究者",
 5.23,
-"yan2 jiu1 zhe3",
+"yán jiū zhě",
 "investigator; researcher"
 ],
 [
 "第三者",
 5.22,
-"di4 san1 zhe3",
+"dì sān zhě",
 "sb who is romantically involved with sb already in a committed relationship; the other woman; the other man; third person; third party (in dispute); disinterested party; number three in a list"
 ]
 ],

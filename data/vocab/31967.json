@@ -9,17 +9,30 @@
 [
 "糟糕",
 5,
-"zāogāo",
-"terrible; too bad; how terrible; what bad luck; what a mess"
+"zāo gāo",
+"too bad; how terrible; what bad luck; terrible; bad"
 ],
 [
 "糟蹋",
 6,
-"zāotà",
-"waste; ruin; wreck; spoil; slander"
+"zāo tà",
+"to waste; to defile; to abuse; to insult; to defile; to trample on; to wreck; also pr. [zao1 ta5]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"一团糟",
+27.72,
+"yī tuán zāo",
+"chaos; bungle; complete mess; shambles"
+],
+[
+"乱七八糟",
+11.27,
+"luàn qī bā zāo",
+"everything in disorder (idiom); in a hideous mess; at sixes and sevens"
+]
+],
 "strokes": [
 "M 147 599 Q 189 533 216 530 Q 229 529 238 547 Q 239 560 232 582 Q 223 598 202 607 Q 168 623 153 627 Q 143 630 142 617 Q 141 610 147 599 Z",
 "M 382 662 Q 372 637 346 598 Q 342 592 347 587 Q 353 587 358 591 Q 413 634 439 652 Q 452 658 448 665 Q 442 677 426 689 Q 410 702 393 701 Q 383 700 384 685 Q 387 675 382 662 Z",

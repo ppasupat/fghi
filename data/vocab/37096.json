@@ -9,201 +9,339 @@
 [
 "部分",
 4,
-"bùfen",
-"part; share; section"
+"bù fen",
+"part; share; section; piece; CL:個|个[ge4]"
 ],
 [
 "全部",
 4,
-"quánbù",
+"quán bù",
 "whole; entire; complete"
-],
-[
-"部门",
-5,
-"bùmén",
-"department; branch; section"
 ],
 [
 "俱乐部",
 5,
-"jùlèbù",
-"club (group or organization)"
+"jù lè bù",
+"club (the organisation or its premises) (loanword); CL:個|个[ge4]"
+],
+[
+"部门",
+5,
+"bù mén",
+"department; branch; section; division; CL:個|个[ge4]"
 ],
 [
 "内部",
 5,
-"nèibù",
-"internal; interior; inside (part, section)"
-],
-[
-"部署",
-6,
-"bùshǔ",
-"dispose; deploy"
+"nèi bù",
+"interior; inside (part, section); internal"
 ],
 [
 "部位",
 6,
-"bùwèi",
+"bù wèi",
 "position; place"
+],
+[
+"部署",
+6,
+"bù shǔ",
+"to dispose; to deploy; deployment"
 ],
 [
 "局部",
 6,
-"júbù",
+"jú bù",
 "part; local"
 ]
 ],
 "extraWords": [
 [
+"干部",
+182.28,
+"gàn bù",
+"cadre; official; officer; manager"
+],
+[
+"部队",
+81.54,
+"bù duì",
+"army; armed forces; troops; force; unit; CL:個|个[ge4]"
+],
+[
 "大部分",
 73.82,
-"da4 bu4 fen5",
+"dà bù fen",
 "in large part; the greater part; the majority"
 ],
 [
 "一部分",
 67.75,
-"yi1 bu4 fen5",
+"yī bù fen",
 "portion; part of; subset"
 ],
 [
 "部落",
 65.49,
-"bu4 luo4",
+"bù luò",
 "tribe"
 ],
 [
 "西部",
 54.39,
-"xi1 bu4",
+"xī bù",
 "western part"
+],
+[
+"部长",
+38.36,
+"bù zhǎng",
+"head of a (government etc) department; section chief; section head; secretary; minister; CL:個|个[ge4],位[wei4],名[ming2]"
+],
+[
+"东部",
+30.37,
+"dōng bù",
+"the east; eastern part"
 ],
 [
 "南部",
 26.59,
-"nan2 bu4",
+"nán bù",
 "southern part"
+],
+[
+"总部",
+24.52,
+"zǒng bù",
+"general headquarters"
 ],
 [
 "北部",
 23.58,
-"bei3 bu4",
+"běi bù",
 "northern part"
 ],
 [
 "胸部",
 23.52,
-"xiong1 bu4",
+"xiōng bù",
 "chest; bosom"
 ],
 [
 "外部",
 23.08,
-"wai4 bu4",
+"wài bù",
 "external part; external"
 ],
 [
 "外交部",
 19.52,
-"Wai4 jiao1 bu4",
+"Wài jiāo bù",
 "Ministry of Foreign Affairs; foreign office; Dept. of State"
 ],
 [
 "中部",
 18.98,
-"zhong1 bu4",
+"zhōng bù",
 "middle part; central section"
 ],
 [
 "教育部",
 18.3,
-"Jiao4 yu4 bu4",
+"Jiào yù bù",
 "Ministry of Education"
+],
+[
+"副部长",
+16.65,
+"fù bù zhǎng",
+"assistant (government) minister"
+],
+[
+"商务部",
+16.51,
+"Shāng wù bù",
+"Department of Trade; Department of Commerce"
+],
+[
+"卫生部",
+15.98,
+"Wèi shēng bù",
+"Ministry of Health"
+],
+[
+"财政部",
+15.87,
+"Cái zhèng bù",
+"Ministry of Finance"
+],
+[
+"头部",
+15.38,
+"tóu bù",
+"head"
 ],
 [
 "腹部",
 14.69,
-"fu4 bu4",
+"fù bù",
 "abdomen; belly; flank"
 ],
 [
 "面部",
 13.59,
-"mian4 bu4",
+"miàn bù",
 "face (body part)"
 ],
 [
 "公安部",
 12.47,
-"Gong1 an1 bu4",
+"Gōng ān bù",
 "Ministry of Public Security"
+],
+[
+"绝大部分",
+11.64,
+"jué dà bù fen",
+"overwhelming majority"
 ],
 [
 "零部件",
 11.13,
-"ling2 bu4 jian4",
+"líng bù jiàn",
 "spare part; component"
+],
+[
+"国防部",
+10.84,
+"Guó fáng bù",
+"Defense Department; Ministry of National Defense"
+],
+[
+"指挥部",
+10.57,
+"zhǐ huī bù",
+"headquarters; command post"
+],
+[
+"农业部",
+10.53,
+"Nóng yè bù",
+"Ministry of Agriculture; Department of Agriculture"
+],
+[
+"宣传部",
+10.36,
+"Xuān chuán bù",
+"Propaganda Department"
 ],
 [
 "臀部",
 10.11,
-"tun2 bu4",
+"tún bù",
 "butt; buttocks"
 ],
 [
 "部件",
 9.08,
-"bu4 jian4",
+"bù jiàn",
 "part; component"
 ],
 [
 "大部",
 8.96,
-"da4 bu4",
+"dà bù",
 "most of; the majority of sth"
+],
+[
+"铁道部",
+8.85,
+"Tiě dào bù",
+"Ministry of Railways (MOR), disbanded in 2013 with its regulatory functions taken over by the Ministry of Transport 交通運輸部|交通运输部[Jiao1 tong1 Yun4 shu1 bu4]"
 ],
 [
 "司令部",
 8.22,
-"si1 ling4 bu4",
+"sī lìng bù",
 "headquarters; military command center"
+],
+[
+"颈部",
+8.08,
+"jǐng bù",
+"neck"
 ],
 [
 "背部",
 7.87,
-"bei4 bu4",
+"bèi bù",
 "back (of a human or other vertebrate, or of an object)"
+],
+[
+"国防部长",
+7.63,
+"guó fáng bù zhǎng",
+"Defense secretary; Defense Minister"
+],
+[
+"脸部",
+7.47,
+"liǎn bù",
+"face"
 ],
 [
 "中西部",
 7.45,
-"zhong1 xi1 bu4",
+"zhōng xī bù",
 "midwest"
 ],
 [
 "腰部",
 6.51,
-"yao1 bu4",
+"yāo bù",
 "waist; small of the back"
+],
+[
+"顶部",
+6.24,
+"dǐng bù",
+"roof; topmost part; top (of tree, wall etc); apex"
 ],
 [
 "部委",
 5.82,
-"bu4 wei3",
+"bù wěi",
 "ministries and commissions"
 ],
 [
 "支部",
 5.82,
-"zhi1 bu4",
+"zhī bù",
 "branch, esp. grass root branches of a political party"
+],
+[
+"外交部长",
+5.52,
+"wài jiāo bù zhǎng",
+"minister of foreign affairs"
+],
+[
+"特种部队",
+5.48,
+"tè zhǒng bù duì",
+"(military) special forces"
+],
+[
+"国土资源部",
+5.37,
+"Guó tǔ Zī yuán bù",
+"Ministry of Land and Resources (MLR), formed in 1998"
 ],
 [
 "交通部",
 5.24,
-"Jiao1 tong1 bu4",
+"Jiāo tōng bù",
 "Ministry of Transport; Transport Department"
 ]
 ],

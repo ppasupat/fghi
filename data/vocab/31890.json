@@ -10,10 +10,17 @@
 "粒",
 6,
 "lì",
-"a grain; granule; (mw for grain-like things)"
+"grain; granule; classifier for small round things (peas, bullets, peanuts, pills, grains etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"颗粒",
+16.88,
+"kē lì",
+"kernel; granule; granulated (sugar, chemical product)"
+]
+],
 "strokes": [
 "M 167 571 Q 183 549 198 522 Q 208 506 223 504 Q 233 503 241 513 Q 248 526 247 556 Q 244 583 173 617 Q 160 624 152 623 Q 148 620 145 608 Q 146 596 167 571 Z",
 "M 421 640 Q 411 609 385 555 Q 381 548 387 543 Q 394 543 399 549 Q 457 613 485 638 Q 498 645 494 654 Q 485 666 466 677 Q 447 687 427 685 Q 415 682 420 666 Q 424 656 421 640 Z",

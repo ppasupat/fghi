@@ -9,23 +9,54 @@
 [
 "地铁",
 3,
-"dìtiě",
-"subway"
+"dì tiě",
+"subway; metro"
 ],
 [
 "钢铁",
 5,
-"gāngtiě",
+"gāng tiě",
 "steel"
 ],
 [
 "斩钉截铁",
 6,
 "zhǎn dīng jié tiě",
-"to chop the nail and slice the iron (idiom); resolute and decisive; definitely"
+"lit. to chop the nail and slice the iron (idiom); fig. resolute and decisive; unhesitating; categorical"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"铁路",
+66.91,
+"tiě lù",
+"railroad; railway; CL:條|条[tiao2]"
+],
+[
+"铁道部",
+8.85,
+"Tiě dào bù",
+"Ministry of Railways (MOR), disbanded in 2013 with its regulatory functions taken over by the Ministry of Transport 交通運輸部|交通运输部[Jiao1 tong1 Yun4 shu1 bu4]"
+],
+[
+"铁矿石",
+6.46,
+"tiě kuàng shí",
+"iron ore"
+],
+[
+"铁杆",
+6.4,
+"tiě gān",
+"iron (golf club)"
+],
+[
+"铁杆",
+6.4,
+"tiě gǎn",
+"iron rod; zealous; die-hard"
+]
+],
 "strokes": [
 "M 271 612 Q 328 714 358 740 Q 367 750 362 764 Q 358 777 330 800 Q 303 818 285 818 Q 266 817 274 794 Q 289 763 276 736 Q 213 585 55 394 Q 45 384 42 378 Q 39 368 53 370 Q 65 371 89 394 Q 134 431 187 500 Q 220 540 256 590 L 271 612 Z",
 "M 256 590 Q 255 590 257 589 Q 299 573 347 592 Q 384 604 426 617 Q 444 624 446 626 Q 453 635 448 642 Q 441 652 413 655 Q 391 656 320 626 Q 296 619 271 612 C 242 604 233 601 256 590 Z",

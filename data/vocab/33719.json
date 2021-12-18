@@ -9,23 +9,90 @@
 [
 "获得",
 4,
-"huòdé",
-"obtain; acquire; to gain"
+"huò dé",
+"to obtain; to receive; to get"
 ],
 [
 "收获",
 5,
-"shōuhuò",
-"harvest; acquisition; gain"
+"shōu huò",
+"variant of 收穫|收获[shou1 huo4]"
+],
+[
+"收获",
+5,
+"shōu huò",
+"to harvest; to reap; to gain; crop; harvest; profit; gain; bonus; reward"
 ],
 [
 "查获",
 6,
-"cháhuò",
-"investigate and capture a criminal; discover"
+"chá huò",
+"to track down and seize (a criminal suspect, contraband etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"获悉",
+56.53,
+"huò xī",
+"to learn of sth; to find out; to get news"
+],
+[
+"获取",
+27.92,
+"huò qǔ",
+"to gain; to get; to acquire"
+],
+[
+"获胜",
+26.44,
+"huò shèng",
+"victorious; to win; to triumph"
+],
+[
+"抓获",
+25.46,
+"zhuā huò",
+"to arrest"
+],
+[
+"获奖",
+20.36,
+"huò jiǎng",
+"to win an award"
+],
+[
+"获利",
+17.23,
+"huò lì",
+"profit; to obtain benefits; benefits obtained"
+],
+[
+"荣获",
+12.23,
+"róng huò",
+"be honored with"
+],
+[
+"一无所获",
+7.45,
+"yī wú suǒ huò",
+"to gain nothing; to end up empty-handed"
+],
+[
+"缴获",
+6.38,
+"jiǎo huò",
+"to capture; to seize"
+],
+[
+"破获",
+5.99,
+"pò huò",
+"to uncover (a criminal plot); to break open and capture"
+]
+],
 "strokes": [
 "M 626 683 Q 692 692 798 685 Q 814 684 819 693 Q 823 703 811 718 Q 763 757 673 738 Q 658 735 644 732 L 589 723 Q 508 713 416 699 L 368 693 Q 292 686 211 677 Q 183 674 202 659 Q 247 631 308 645 Q 341 654 375 659 L 418 666 Q 470 676 580 681 L 626 683 Z",
 "M 416 699 Q 415 733 413 759 Q 416 778 396 785 Q 357 806 335 798 Q 316 791 331 771 Q 359 734 368 693 L 375 659 Q 379 640 382 619 Q 386 598 400 584 Q 413 572 417 585 Q 423 601 418 666 L 416 699 Z",

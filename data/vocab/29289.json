@@ -7,162 +7,282 @@
 },
 "words": [
 [
-"动物",
-3,
-"dòngwù",
-"animal"
-],
-[
 "礼物",
 3,
-"lǐwù",
-"gift; present"
+"lǐ wù",
+"gift; present; CL:件[jian4],個|个[ge4],份[fen4]"
+],
+[
+"动物",
+3,
+"dòng wù",
+"animal; CL:隻|只[zhi1],群[qun2],個|个[ge4]"
 ],
 [
 "购物",
 4,
-"gòuwù",
-"go shopping; buy goods"
+"gòu wù",
+"shopping"
 ],
 [
 "植物",
 4,
-"zhíwù",
-"plant; botanical; vegetation"
+"zhí wù",
+"plant; vegetation; CL:種|种[zhong3]"
+],
+[
+"食物",
+5,
+"shí wù",
+"food; CL:種|种[zhong3]"
+],
+[
+"人物",
+5,
+"rén wù",
+"person; character (in a play, novel etc); protagonist; CL:個|个[ge4]"
+],
+[
+"物质",
+5,
+"wù zhì",
+"matter; substance; material; materialistic; CL:個|个[ge4]"
+],
+[
+"事物",
+5,
+"shì wù",
+"thing; object; CL:個|个[ge4]"
 ],
 [
 "博物馆",
 5,
-"bówùguǎn",
+"bó wù guǎn",
 "museum"
 ],
 [
 "宠物",
 5,
-"chǒngwù",
-"a pet"
-],
-[
-"人物",
-5,
-"rénwù",
-"figure; personage; character (in a play, story, etc.)"
-],
-[
-"食物",
-5,
-"shíwù",
-"food"
-],
-[
-"事物",
-5,
-"shìwù",
-"thing; object"
+"chǒng wù",
+"house pet"
 ],
 [
 "物理",
 5,
-"wùlǐ",
+"wù lǐ",
 "physics; physical"
-],
-[
-"物质",
-5,
-"wùzhì",
-"matter; substance; material"
-],
-[
-"刊物",
-6,
-"kānwù",
-"publication; periodical; journal"
 ],
 [
 "生物",
 6,
-"shēngwù",
-"organism; living creature; life form"
+"shēng wù",
+"organism; living creature; life form; biological; CL:個|个[ge4]"
 ],
 [
 "文物",
 6,
-"wénwù",
-"cultural relic; historical relic"
-],
-[
-"物美价廉",
-6,
-"wùměijiàlián",
-"attractive goods at inexpensive prices"
-],
-[
-"物业",
-6,
-"wùyè",
-"property management"
+"wén wù",
+"cultural relic; historical relic; CL:件[jian4],個|个[ge4]"
 ],
 [
 "物资",
 6,
-"wùzī",
-"goods and materials; commodity"
+"wù zī",
+"goods; supplies"
+],
+[
+"物业",
+6,
+"wù yè",
+"property; real estate; abbr. for 物業管理|物业管理[wu4 ye4 guan3 li3], property management"
+],
+[
+"刊物",
+6,
+"kān wù",
+"publication"
+],
+[
+"物美价廉",
+6,
+"wù měi jià lián",
+"good quality and cheap; a bargain"
 ]
 ],
 "extraWords": [
 [
+"药物",
+70.21,
+"yào wù",
+"medicaments; pharmaceuticals; medication; medicine; drug"
+],
+[
 "怪物",
 43.1,
-"guai4 wu5",
+"guài wu",
 "monster; freak; eccentric person"
 ],
 [
 "物品",
 35.25,
-"wu4 pin3",
+"wù pǐn",
 "articles; goods; materials"
+],
+[
+"物价",
+25.02,
+"wù jià",
+"(commodity) prices; CL:個|个[ge4]"
+],
+[
+"货物",
+24.06,
+"huò wù",
+"goods; commodity; merchandise; CL:宗[zong1]"
+],
+[
+"废物",
+21.52,
+"fèi wù",
+"rubbish; waste material; useless person"
 ],
 [
 "作物",
 16.89,
-"zuo4 wu4",
+"zuò wù",
 "crop"
+],
+[
+"产物",
+16.31,
+"chǎn wù",
+"product; result (of)"
+],
+[
+"建筑物",
+12.88,
+"jiàn zhù wù",
+"building; structure; edifice"
+],
+[
+"物业管理",
+12.48,
+"wù yè guǎn lǐ",
+"property management"
+],
+[
+"实物",
+11.08,
+"shí wù",
+"material object; concrete object; original object; in kind; object for practical use; definite thing; reality; matter (physics)"
+],
+[
+"证物",
+10.49,
+"zhèng wù",
+"exhibit (law)"
 ],
 [
 "利物浦",
 9.77,
-"Li4 wu4 pu3",
+"Lì wù pǔ",
 "Liverpool (England)"
+],
+[
+"财物",
+9.64,
+"cái wù",
+"property; belongings"
+],
+[
+"动物园",
+9.57,
+"dòng wù yuán",
+"zoo; CL:個|个[ge4]"
+],
+[
+"物体",
+9.53,
+"wù tǐ",
+"object; body; substance"
+],
+[
+"猎物",
+8.32,
+"liè wù",
+"prey"
+],
+[
+"万物",
+8.25,
+"wàn wù",
+"all things; all that exists"
+],
+[
+"野生动物",
+8.04,
+"yě shēng dòng wù",
+"wild animal"
 ],
 [
 "微生物",
 8.0,
-"wei1 sheng1 wu4",
+"wēi shēng wù",
 "microorganism"
+],
+[
+"生物学",
+7.63,
+"shēng wù xué",
+"biology"
 ],
 [
 "污染物",
 7.21,
-"wu1 ran3 wu4",
+"wū rǎn wù",
 "pollutant"
+],
+[
+"农作物",
+6.44,
+"nóng zuò wù",
+"(farm) crops"
+],
+[
+"物种",
+6.38,
+"wù zhǒng",
+"species"
+],
+[
+"物证",
+6.35,
+"wù zhèng",
+"material evidence"
 ],
 [
 "化合物",
 5.99,
-"hua4 he2 wu4",
+"huà hé wù",
 "chemical compound"
 ],
 [
 "衣物",
 5.94,
-"yi1 wu4",
+"yī wù",
 "clothing; clothing and other personal items"
 ],
 [
 "物力",
 5.74,
-"wu4 li4",
+"wù lì",
 "physical resources (as opposed to labor resources)"
+],
+[
+"异物",
+5.23,
+"yì wù",
+"rarity; rare delicacy; foreign matter; alien body; the dead; ghost; monstrosity; alien life-form"
 ]
 ],
 "strokes": [

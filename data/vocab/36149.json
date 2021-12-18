@@ -10,40 +10,95 @@
 "贵",
 2,
 "guì",
-"expensive; noble; honorable; Guizhou province (abbreviation)"
+"expensive; noble; precious; (honorific) your"
 ],
 [
 "宝贵",
 5,
-"bǎoguì",
-"valuable; precious; value"
-],
-[
-"昂贵",
-6,
-"ángguì",
-"expensive; costly"
+"bǎo guì",
+"valuable; precious; to value; to treasure; to set store by"
 ],
 [
 "贵族",
 6,
-"guìzú",
-"lord; nobility; nobleman; noblewoman"
-],
-[
-"难能可贵",
-6,
-"nánnéngkěguì",
-"estimable; extremely good"
+"guì zú",
+"lord; nobility; nobleman; noblewoman; aristocrat; aristocracy"
 ],
 [
 "珍贵",
 6,
-"zhēnguì",
+"zhēn guì",
 "precious"
+],
+[
+"昂贵",
+6,
+"áng guì",
+"expensive; costly"
+],
+[
+"难能可贵",
+6,
+"nán néng kě guì",
+"rare and precious; valuable; remarkable"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"贵州",
+33.44,
+"Guì zhōu",
+"Guizhou province (Kweichow) in south central China, abbr. to 黔[Qian2] or 貴|贵[Gui4], capital Guiyang 貴陽|贵阳[Gui4 yang2]"
+],
+[
+"贵阳",
+14.82,
+"Guì yáng",
+"Guiyang prefecture-level city and capital of Guizhou province 貴州|贵州[Gui4 zhou1], short name 筑[Zhu4]"
+],
+[
+"高贵",
+12.46,
+"gāo guì",
+"grandeur; noble"
+],
+[
+"贵阳市",
+9.26,
+"Guì yáng Shì",
+"Guiyang prefecture-level city and capital of Guizhou province 貴州|贵州[Gui4 zhou1]"
+],
+[
+"贵州省",
+8.81,
+"Guì zhōu shěng",
+"Guizhou province (Kweichow) in south central China, abbr. to 黔[Qian2] or 貴|贵[Gui4], capital Guiyang 貴陽|贵阳[Gui4 yang2]"
+],
+[
+"贵宾",
+8.59,
+"guì bīn",
+"honored guest; distinguished guest; VIP"
+],
+[
+"可贵",
+6.03,
+"kě guì",
+"to be treasured; praiseworthy"
+],
+[
+"富贵",
+5.87,
+"fù guì",
+"riches and honor"
+],
+[
+"贵人",
+5.24,
+"guì rén",
+"nobility; person of high rank"
+]
+],
 "strokes": [
 "M 355 713 Q 343 719 312 725 Q 300 728 297 723 Q 290 717 299 701 Q 324 652 339 572 Q 342 547 356 532 Q 374 510 379 525 Q 382 535 383 550 L 380 581 Q 370 656 367 682 C 364 709 364 709 355 713 Z",
 "M 696 624 Q 717 675 745 695 Q 761 711 748 730 Q 685 781 647 770 Q 593 752 546 739 L 490 729 Q 423 720 355 713 C 325 710 337 680 367 682 Q 380 682 395 686 Q 443 695 491 701 L 544 710 Q 578 717 614 722 Q 642 729 653 717 Q 662 708 645 624 C 639 595 684 597 696 624 Z",

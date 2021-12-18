@@ -7,73 +7,116 @@
 },
 "words": [
 [
-"趋势",
+"姿势",
 5,
-"qūshì",
-"trend; tendency"
-],
-[
-"形势",
-5,
-"xíngshì",
-"circumstances; situation; terrain"
+"zī shì",
+"posture; position"
 ],
 [
 "优势",
 5,
-"yōushì",
-"advantage; superiority; dominant position"
+"yōu shì",
+"superiority; dominance; advantage"
 ],
 [
-"姿势",
+"形势",
 5,
-"zīshì",
-"posture; position; pose"
+"xíng shì",
+"circumstances; situation; terrain; CL:個|个[ge4]"
 ],
 [
-"地势",
-6,
-"dìshì",
-"terrain; topography of a place"
+"趋势",
+5,
+"qū shì",
+"trend; tendency"
 ],
 [
 "局势",
 6,
-"júshì",
+"jú shì",
 "situation; state (of affairs)"
-],
-[
-"气势",
-6,
-"qìshì",
-"imposing manner; look of great force or imposing manner"
-],
-[
-"声势",
-6,
-"shēngshì",
-"momentum; fame and power; prestige"
-],
-[
-"势必",
-6,
-"shìbì",
-"is bound to (happen)"
 ],
 [
 "势力",
 6,
-"shìli",
-"power; influence"
+"shì li",
+"power; influence; a force (military, political etc)"
 ],
 [
 "手势",
 6,
-"shǒushì",
+"shǒu shì",
 "gesture; sign; signal"
+],
+[
+"气势",
+6,
+"qì shì",
+"imposing manner; loftiness; grandeur; energetic looks; vigor"
+],
+[
+"地势",
+6,
+"dì shì",
+"terrain; topography relief"
+],
+[
+"势必",
+6,
+"shì bì",
+"to be bound to; undoubtedly will"
+],
+[
+"声势",
+6,
+"shēng shì",
+"fame and power; prestige; influence; impetus; momentum"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"走势",
+51.76,
+"zǒu shì",
+"tendency; trend; path"
+],
+[
+"态势",
+23.05,
+"tài shì",
+"posture; situation"
+],
+[
+"势头",
+23.0,
+"shì tóu",
+"power; momentum; tendency; impetus; situation; the look of things"
+],
+[
+"攻势",
+11.19,
+"gōng shì",
+"(military) offensive"
+],
+[
+"伤势",
+10.82,
+"shāng shì",
+"condition of an injury"
+],
+[
+"劣势",
+6.48,
+"liè shì",
+"inferior; disadvantaged"
+],
+[
+"强势",
+6.2,
+"qiáng shì",
+"strong; powerful; (linguistics) emphatic; intensive"
+]
+],
 "strokes": [
 "M 387 645 Q 400 649 418 653 Q 448 662 452 666 Q 459 673 455 681 Q 448 691 421 697 Q 405 700 388 695 L 345 680 Q 255 655 206 646 Q 173 639 198 625 Q 234 607 299 623 Q 320 629 345 634 L 387 645 Z",
 "M 386 570 Q 386 607 387 645 L 388 695 Q 389 755 399 769 Q 409 782 404 791 Q 398 803 378 814 Q 344 830 331 825 Q 315 821 327 805 Q 340 790 345 680 L 345 634 Q 345 583 343 551 L 343 515 Q 340 430 339 419 Q 333 394 318 399 Q 302 403 264 409 Q 251 413 248 409 Q 247 403 261 393 Q 316 356 332 330 Q 341 314 350 310 Q 357 307 361 311 Q 383 341 385 452 Q 385 480 386 539 L 386 570 Z",

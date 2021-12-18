@@ -5,9 +5,19 @@ update_makemehanzi() {
   echo Updating makemeahanzi ...
   local dir=raw/makemeahanzi
   if [[ ! -d "${dir}" ]]; then
-    cd raw && git clone --depth 1 git@github.com:skishore/makemeahanzi.git && cd ..
+    cd raw && git clone --depth 1 https://github.com/skishore/makemeahanzi.git && cd ..
   fi
   cd "${dir}" && git pull && cd ../..
+}
+
+update_dongchineselexicon() {
+  echo Updating Dong Chinese\'s chinese-lexicon ...
+  local dir=raw/chinese-lexicon
+  if [[ ! -d "${dir}" ]]; then
+    cd raw && git clone https://github.com/peterolson/chinese-lexicon.git && cd ..
+  fi
+  cd "${dir}" && git pull && cd ../..
+  echo "Please manually copy the 'hsk' array from 'statistics/hsk.js' to 'statistics/hsk.json'"
 }
 
 update_hskhsk() {
@@ -75,6 +85,9 @@ case "$1" in
   make)
     update_makemehanzi
     ;;
+  dong)
+    update_dongchineselexicon
+    ;;
   hsk)
     update_hskhsk
     ;;
@@ -98,6 +111,6 @@ case "$1" in
     ;;
   *)
     echo "Unknown resource '$1'"
-    echo "Available resources: make, hsk, cc, unihan, sub, bcc, junda, ic"
+    echo "Available resources: make, dong, hsk, cc, unihan, sub, bcc, junda, ic"
     ;;
 esac

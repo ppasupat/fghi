@@ -9,76 +9,112 @@
 [
 "上班",
 2,
-"shàngbān",
-"go to work; be on duty"
+"shàng bān",
+"to go to work; to be on duty; to start work; to go to the office"
+],
+[
+"班",
+3,
+"Bān",
+"surname Ban"
 ],
 [
 "班",
 3,
 "bān",
-"team; class; squad"
+"team; class; squad; work shift; ranking; CL:個|个[ge4]; classifier for groups of people and scheduled transport vehicles"
 ],
 [
 "航班",
 4,
-"hángbān",
-"scheduled flight; flight number"
+"háng bān",
+"scheduled flight; flight number; plane; scheduled sailing; sailing number; passenger ship"
 ],
 [
 "加班",
 4,
 "jiā bān",
-"work overtime"
+"to work overtime"
 ],
 [
 "值班",
 6,
 "zhí bān",
-"be on duty; work a shift"
+"to work a shift; on duty"
 ]
 ],
 "extraWords": [
 [
 "西班牙",
 35.58,
-"Xi1 ban1 ya2",
+"Xī bān yá",
 "Spain"
 ],
 [
 "下班",
 33.4,
-"xia4 ban1",
+"xià bān",
 "to finish work; to get off work"
+],
+[
+"西班牙语",
+22.12,
+"Xī bān yá yǔ",
+"Spanish language"
 ],
 [
 "班主任",
 11.17,
-"ban1 zhu3 ren4",
+"bān zhǔ rèn",
 "teacher in charge of a class"
 ],
 [
 "班子",
 10.64,
-"ban1 zi5",
+"bān zi",
 "organized group; theatrical troupe"
+],
+[
+"培训班",
+10.6,
+"péi xùn bān",
+"training class"
+],
+[
+"班长",
+10.09,
+"bān zhǎng",
+"class monitor; squad leader; team leader; CL:個|个[ge4]"
+],
+[
+"班级",
+7.86,
+"bān jí",
+"class (group of students); grade (in school)"
+],
+[
+"班车",
+6.34,
+"bān chē",
+"regular bus (service)"
 ],
 [
 "全班",
 5.83,
-"quan2 ban1",
+"quán bān",
 "the whole class"
 ],
 [
 "接班人",
 5.18,
-"jie1 ban1 ren2",
+"jiē bān rén",
 "successor"
 ],
 [
 "塔利班",
 5.15,
-"Ta3 li4 ban1",
-"Taliban (Farsi: student), Afghan guerrilla faction"
+"Tǎ lì bān",
+"the Taliban, Islamist organization that emerged in the mid-1990s in Afghanistan"
 ]
 ],
 "strokes": [

@@ -10,92 +10,116 @@
 "去",
 1,
 "qù",
-"go; to leave"
+"to go; to go to (a place); (of a time etc) last; just passed; to send; to remove; to get rid of; to reduce; to be apart from in space or time; to die (euphemism); to play (a part); (when used either before or after a verb) to go in order to do sth; (after a verb of motion indicates movement away from the speaker); (used after certain verbs to indicate detachment or separation)"
 ],
 [
 "去年",
 2,
-"qùnián",
+"qù nián",
 "last year"
 ],
 [
 "过去",
 3,
-"guòqù",
-"in the past; formerly"
+"guò qù",
+"(in the) past; former; previous; to go over; to pass by"
 ],
 [
-"去世",
-5,
-"qùshì",
-"pass away; die"
+"过去",
+3,
+"guò qu",
+"(verb suffix)"
 ],
 [
 "失去",
 5,
-"shīqù",
-"to lose (time, an opportunity, work, etc.)"
+"shī qù",
+"to lose"
+],
+[
+"去世",
+5,
+"qù shì",
+"to pass away; to die"
 ]
 ],
 "extraWords": [
 [
 "出去",
 343.52,
-"chu1 qu4",
+"chū qù",
 "to go out"
 ],
 [
 "回去",
 238.27,
-"hui2 qu5",
+"huí qu",
 "to return; to go back"
 ],
 [
 "下去",
 231.53,
-"xia4 qu4",
+"xià qù",
 "to go down; to descend; to go on; to continue; (of a servant) to withdraw"
+],
+[
+"进去",
+201.42,
+"jìn qù",
+"to go in"
 ],
 [
 "看上去",
 165.92,
-"kan4 shang5 qu5",
+"kàn shang qu",
 "it would appear; it seems (that)"
 ],
 [
 "死去",
 58.84,
-"si3 qu4",
+"sǐ qù",
 "to die"
 ],
 [
 "上去",
 58.81,
-"shang4 qu4",
+"shàng qù",
 "to go up"
+],
+[
+"离去",
+16.96,
+"lí qù",
+"to leave; to exit"
 ],
 [
 "除去",
 8.38,
-"chu2 qu4",
+"chú qù",
 "to eliminate; to remove; except for; apart from"
 ],
 [
 "去除",
 8.27,
-"qu4 chu2",
+"qù chú",
 "to remove; to dislodge"
 ],
 [
 "去掉",
 8.02,
-"qu4 diao4",
+"qù diào",
 "to get rid of; to exclude; to eliminate; to remove; to delete; to strip out; to extract"
+],
+[
+"过不去",
+6.84,
+"guò bu qù",
+"to make life difficult for; to embarrass; unable to make it through"
 ],
 [
 "去向",
 6.82,
-"qu4 xiang4",
+"qù xiàng",
 "the position of sth; whereabouts"
 ]
 ],

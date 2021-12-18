@@ -9,52 +9,82 @@
 [
 "航班",
 4,
-"hángbān",
-"scheduled flight; flight number"
-],
-[
-"导航",
-6,
-"dǎoháng",
-"navigation"
+"háng bān",
+"scheduled flight; flight number; plane; scheduled sailing; sailing number; passenger ship"
 ],
 [
 "航空",
 6,
-"hángkōng",
+"háng kōng",
 "aviation"
-],
-[
-"航天",
-6,
-"hángtiān",
-"space flight"
 ],
 [
 "航行",
 6,
-"hángxíng",
-"to sail; to fly"
+"háng xíng",
+"to sail; to fly; to navigate"
+],
+[
+"导航",
+6,
+"dǎo háng",
+"navigation"
+],
+[
+"航天",
+6,
+"háng tiān",
+"space flight"
 ]
 ],
 "extraWords": [
 [
 "航空公司",
 15.85,
-"hang2 kong1 gong1 si1",
+"háng kōng gōng sī",
 "airline; CL:家[jia1]"
+],
+[
+"航线",
+14.8,
+"háng xiàn",
+"air or shipping route"
 ],
 [
 "民航",
 13.32,
-"min2 hang2",
+"mín háng",
 "civil aviation"
+],
+[
+"航天员",
+7.77,
+"háng tiān yuán",
+"astronaut"
+],
+[
+"宇航员",
+6.41,
+"yǔ háng yuán",
+"astronaut"
+],
+[
+"航天飞机",
+6.37,
+"háng tiān fēi jī",
+"space shuttle"
+],
+[
+"航运",
+5.94,
+"háng yùn",
+"shipping; transport"
 ],
 [
 "航海",
 5.32,
-"hang2 hai3",
-"sailing; navigation; voyage by sea"
+"háng hǎi",
+"to sail the seas; maritime navigation; voyage"
 ]
 ],
 "strokes": [

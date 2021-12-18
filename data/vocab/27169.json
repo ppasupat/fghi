@@ -7,65 +7,89 @@
 },
 "words": [
 [
-"规模",
+"模特",
 5,
-"guīmó",
-"scale; scope; extent"
+"mó tè",
+"(fashion) model (loanword)"
 ],
 [
 "模仿",
 5,
-"mófǎng",
-"imitate; to copy"
+"mó fǎng",
+"to imitate; to copy; to emulate; to mimic; model"
 ],
 [
 "模糊",
 5,
-"móhu",
-"vague; indistinct; fuzzy; foggy"
+"mó hu",
+"vague; indistinct; fuzzy"
 ],
 [
-"模特",
+"规模",
 5,
-"mótè",
-"(fashion) model"
-],
-[
-"模范",
-6,
-"mófàn",
-"model; exemplar"
-],
-[
-"模式",
-6,
-"móshì",
-"model; pattern; method"
+"guī mó",
+"scale; scope; extent; CL:個|个[ge4]"
 ],
 [
 "模型",
 6,
-"móxíng",
-"model; mould; matrix; pattern"
+"mó xíng",
+"model; mold; matrix; pattern"
+],
+[
+"模式",
+6,
+"mó shì",
+"mode; method; pattern"
 ],
 [
 "模样",
 6,
-"múyàng",
-"appearance; form; approximation"
+"mú yàng",
+"look; style; appearance; approximation; about; CL:個|个[ge4]; also pr. [mo2 yang4]"
+],
+[
+"模范",
+6,
+"mó fàn",
+"model; fine example"
 ]
 ],
 "extraWords": [
 [
+"大规模",
+38.5,
+"dà guī mó",
+"large scale; extensive; wide scale; broad scale"
+],
+[
+"模拟",
+22.51,
+"mó nǐ",
+"imitation; to simulate; to imitate; analog (device, as opposed to digital)"
+],
+[
+"一模一样",
+15.74,
+"yī mú yī yàng",
+"exactly the same (idiom); carbon copy; also pr. [yi1 mo2 yi1 yang4]"
+],
+[
+"模块",
+10.36,
+"mó kuài",
+"module (in software); functional unit; component part"
+],
+[
 "模板",
 5.69,
-"mu2 ban3",
+"mú bǎn",
 "template; (architecture) formwork"
 ],
 [
 "模具",
 5.25,
-"mu2 ju4",
+"mú jù",
 "mold; matrix; pattern or die; Taiwan pr. [mo2 ju4]"
 ]
 ],

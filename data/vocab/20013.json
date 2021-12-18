@@ -9,412 +9,712 @@
 [
 "中国",
 1,
-"Zhōngguó",
+"Zhōng guó",
 "China"
 ],
 [
 "中午",
 1,
-"zhōngwǔ",
-"noon; midday"
+"zhōng wǔ",
+"noon; midday; CL:個|个[ge4]"
 ],
 [
 "中间",
 3,
-"zhōngjiān",
-"center; middle; between; among"
+"zhōng jiān",
+"between; intermediate; mid; middle"
 ],
 [
 "中文",
 3,
-"Zhōngwén",
-"Chinese (language)"
+"Zhōng wén",
+"Chinese language"
 ],
 [
 "其中",
 4,
-"qízhōng",
+"qí zhōng",
 "among; in; included among these"
-],
-[
-"集中",
-5,
-"jízhōng",
-"concentrate; to focus; amass"
-],
-[
-"中介",
-5,
-"zhōngjiè",
-"agent; act as an intermediary"
 ],
 [
 "中心",
 5,
-"zhōngxīn",
-"center; heart; core"
+"zhōng xīn",
+"center; heart; core; CL:個|个[ge4]"
+],
+[
+"集中",
+5,
+"jí zhōng",
+"to concentrate; to centralize; to focus; centralized; concentrated; to put together"
+],
+[
+"中介",
+5,
+"zhōng jiè",
+"to act as intermediary; to link; intermediate; inter-; agency; agent"
 ],
 [
 "中旬",
 5,
-"zhōngxún",
+"zhōng xún",
 "middle third of a month"
-],
-[
-"中断",
-6,
-"zhōngduàn",
-"interrupt; break off"
-],
-[
-"中立",
-6,
-"zhōnglì",
-"neutral; neutrality"
 ],
 [
 "中央",
 6,
-"zhōngyāng",
-"central; middle; center"
+"zhōng yāng",
+"central; middle; center; central authorities (of a state)"
+],
+[
+"中断",
+6,
+"zhōng duàn",
+"to cut short; to break off; to discontinue; to interrupt"
+],
+[
+"中立",
+6,
+"zhōng lì",
+"neutral; neutrality"
 ]
 ],
 "extraWords": [
 [
 "心中",
 102.11,
-"xin1 zhong1",
+"xīn zhōng",
 "central point; in one's thoughts; in one's heart"
 ],
 [
 "之中",
 89.66,
-"zhi1 zhong1",
+"zhī zhōng",
 "inside; among; in the midst of (doing sth); during"
 ],
 [
 "高中",
 63.34,
-"gao1 zhong1",
+"gāo zhōng",
 "senior high school; abbr. for 高級中學|高级中学[gao1 ji2 zhong1 xue2]"
 ],
 [
 "高中",
 63.34,
-"gao1 zhong4",
+"gāo zhòng",
 "to pass brilliantly (used in congratulatory fashion)"
+],
+[
+"中国人",
+61.73,
+"Zhōng guó rén",
+"Chinese person"
+],
+[
+"当中",
+58.09,
+"dāng zhōng",
+"among; in the middle; in the center"
+],
+[
+"中华",
+46.18,
+"Zhōng huá",
+"China (alternate formal name)"
+],
+[
+"中学",
+38.27,
+"zhōng xué",
+"middle school; CL:個|个[ge4]"
 ],
 [
 "空中",
 32.01,
-"kong1 zhong1",
+"kōng zhōng",
 "in the sky; in the air"
+],
+[
+"中药",
+31.66,
+"Zhōng yào",
+"(traditional) Chinese medicine; CL:服[fu4],種|种[zhong3]"
 ],
 [
 "初中",
 31.15,
-"chu1 zhong1",
+"chū zhōng",
 "junior high school; abbr. for 初級中學|初级中学[chu1 ji2 zhong1 xue2]"
+],
+[
+"中小企业",
+30.58,
+"zhōng xiǎo qǐ yè",
+"small and medium enterprise"
+],
+[
+"中医",
+30.56,
+"Zhōng yī",
+"traditional Chinese medical science; a doctor trained in Chinese medicine"
+],
+[
+"中华人民共和国",
+30.47,
+"Zhōng huá Rén mín Gòng hé guó",
+"People's Republic of China"
 ],
 [
 "中尉",
 26.89,
-"zhong1 wei4",
+"zhōng wèi",
 "lieutenant (navy); first lieutenant (army); subaltern"
 ],
 [
 "中期",
 25.14,
-"zhong1 qi1",
+"zhōng qī",
 "middle (of a period of time); medium-term (plan, forecast etc)"
+],
+[
+"中新网",
+23.63,
+"Zhōng xīn wǎng",
+"ChinaNews (China News Service)"
+],
+[
+"中国共产党",
+23.57,
+"Zhōng guó Gòng chǎn dǎng",
+"Communist Party of China"
+],
+[
+"中奖",
+23.56,
+"zhòng jiǎng",
+"to win a prize; a successful gamble"
 ],
 [
 "中年",
 23.07,
-"zhong1 nian2",
+"zhōng nián",
 "middle age"
+],
+[
+"从中",
+22.94,
+"cóng zhōng",
+"from within; therefrom"
 ],
 [
 "中方",
 22.6,
-"Zhong1 fang1",
+"Zhōng fāng",
 "the Chinese side (in an international venture)"
 ],
 [
 "中毒",
 22.38,
-"zhong4 du2",
+"zhòng dú",
 "to be poisoned; poisoning"
 ],
 [
 "中美",
 21.81,
-"Zhong1 Mei3",
+"Zhōng Měi",
 "China-USA"
 ],
 [
 "中日",
 21.5,
-"Zhong1 Ri4",
+"Zhōng Rì",
 "China-Japan"
+],
+[
+"党中央",
+21.32,
+"Dǎng Zhōng yāng",
+"Central Committee of the CCP"
+],
+[
+"击中",
+19.29,
+"jī zhòng",
+"to hit (a target etc); to strike"
+],
+[
+"中场",
+19.1,
+"zhōng chǎng",
+"middle period of a tripartite provincial exam (in former times); midfield; mid-court (in sports); half-time; intermission half-way through a performance"
 ],
 [
 "中部",
 18.98,
-"zhong1 bu4",
+"zhōng bù",
 "middle part; central section"
 ],
 [
 "中共",
 18.92,
-"Zhong1 Gong4",
+"Zhōng Gòng",
 "abbr. for 中國共產黨|中国共产党[Zhong1 guo2 Gong4 chan3 dang3], Chinese Communist Party"
 ],
 [
 "中等",
 18.5,
-"zhong1 deng3",
+"zhōng děng",
 "medium"
 ],
 [
 "途中",
 17.66,
-"tu2 zhong1",
+"tú zhōng",
 "en route"
+],
+[
+"中华民族",
+16.78,
+"Zhōng huá mín zú",
+"the Chinese people"
 ],
 [
 "中共中央",
 16.73,
-"Zhong1 Gong4 Zhong1 yang1",
+"Zhōng Gòng Zhōng yāng",
 "Central Committee of the Communist Party of China, abbr. for 中國共產黨中央委員會|中国共产党中央委员会[Zhong1 guo2 Gong4 chan3 dang3 Zhong1 yang1 Wei3 yuan2 hui4]"
 ],
 [
 "中外",
 16.59,
-"zhong1 wai4",
+"zhōng wài",
 "Sino-foreign; Chinese-foreign; home and abroad"
+],
+[
+"中东",
+16.28,
+"Zhōng dōng",
+"Middle East"
 ],
 [
 "中原",
 15.99,
-"Zhong1 yuan2",
+"Zhōng yuán",
 "Central Plain, the middle and lower regions of the Yellow river, including Henan, western Shandong, southern Shanxi and Hebei"
+],
+[
+"发展中国家",
+15.86,
+"fā zhǎn zhōng guó jiā",
+"developing country"
+],
+[
+"中小学",
+15.71,
+"zhōng xiǎo xué",
+"middle and elementary school"
+],
+[
+"中央电视台",
+14.65,
+"Zhōng yāng Diàn shì tái",
+"China Central Television (CCTV), PRC state TV network"
 ],
 [
 "市中心",
 14.21,
-"shi4 zhong1 xin1",
+"shì zhōng xīn",
 "city center; downtown"
 ],
 [
 "中路",
 13.61,
-"zhong1 lu4",
+"zhōng lù",
 "midway; mediocre (quality); midfield (soccer)"
 ],
 [
 "中新社",
 12.73,
-"Zhong1 xin1 she4",
+"Zhōng xīn shè",
 "China News Service (CNS), abbr. for 中國新聞社|中国新闻社"
+],
+[
+"中国银行",
+12.51,
+"Zhōng guó Yín háng",
+"Bank of China (BoC)"
 ],
 [
 "命中",
 12.2,
-"ming4 zhong4",
+"mìng zhòng",
 "to hit (a target)"
 ],
 [
 "中意",
 11.72,
-"Zhong1 Yi4",
+"Zhōng Yì",
 "Sino-Italian"
 ],
 [
 "中意",
 11.72,
-"zhong4 yi4",
+"zhòng yì",
 "to take one's fancy; to be to one's liking"
 ],
 [
 "中山",
 11.4,
-"Zhong1 shan1",
+"Zhōng shān",
 "refers to Dr Sun Yat-sen; Zhongshan, prefecture-level city in Guangdong, close to Sun Yat-sen's birthplace; Nakayama (Japanese surname)"
+],
+[
+"中学生",
+11.24,
+"zhōng xué shēng",
+"middle-school student; high school student"
 ],
 [
 "眼中",
 10.73,
-"yan3 zhong1",
+"yǎn zhōng",
 "in one's eyes"
 ],
 [
 "看中",
 10.2,
-"kan4 zhong4",
+"kàn zhòng",
 "to have a preference for; to fancy; to choose after consideration; to settle on"
 ],
 [
 "中校",
 10.19,
-"zhong1 xiao4",
+"zhōng xiào",
 "middle ranking officer in Chinese army; lieutenant colonel; commander"
+],
+[
+"选中",
+9.84,
+"xuǎn zhòng",
+"to choose; to pick; to settle upon; to decide upon a candidate; to be selected for some role"
 ],
 [
 "中性",
 9.64,
-"zhong1 xing4",
+"zhōng xìng",
 "neutral"
+],
+[
+"中国人民银行",
+9.38,
+"Zhōng guó Rén mín Yín háng",
+"People's Bank of China"
+],
+[
+"中关村",
+9.33,
+"Zhōng guān cūn",
+"Zhongguancun neighborhood of Beijing, containing Peking University, famous for electronics shops and bookstores"
 ],
 [
 "中行",
 9.28,
-"Zhong1 hang2",
+"Zhōng háng",
 "abbr. for 中國銀行|中国银行[Zhong1 guo2 Yin2 hang2]"
 ],
 [
 "暗中",
 9.19,
-"an4 zhong1",
+"àn zhōng",
 "in the dark; in secret; on the sly; surreptitiously"
+],
+[
+"贫下中农",
+8.94,
+"pín xià zhōng nóng",
+"(category defined by the Communist Party) poor and lower-middle peasants: farmers who, before land reform, possessed little or no land (poor peasants) and those who were barely able to support themselves with their own land (lower-middle peasants)"
 ],
 [
 "中人",
 8.9,
-"zhong1 ren2",
+"zhōng rén",
 "go-between; mediator; intermediary"
 ],
 [
 "中俄",
 8.61,
-"Zhong1 E2",
+"Zhōng É",
 "China-Russia"
+],
+[
+"中兴",
+8.46,
+"zhōng xīng",
+"resurgence; recovery; restoration"
+],
+[
+"中级",
+8.28,
+"zhōng jí",
+"middle level (in a hierarchy)"
+],
+[
+"中线",
+8.28,
+"zhōng xiàn",
+"half-way line; median line"
 ],
 [
 "中途",
 7.96,
-"zhong1 tu2",
+"zhōng tú",
 "midway"
+],
+[
+"中弹",
+7.72,
+"zhòng dàn",
+"hit by a bullet; shot"
 ],
 [
 "中和",
 7.5,
-"Zhong1 he2",
+"Zhōng hé",
 "Zhonghe or Chungho city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
 ],
 [
 "中和",
 7.5,
-"zhong1 he2",
+"zhōng hé",
 "to neutralize; to counteract; neutralization (chemistry)"
+],
+[
+"中国人民解放军",
+7.46,
+"Zhōng guó Rén mín Jiě fàng jūn",
+"Chinese People's Liberation Army (PLA)"
 ],
 [
 "中西部",
 7.45,
-"zhong1 xi1 bu4",
+"zhōng xī bù",
 "midwest"
 ],
 [
 "中考",
 7.43,
-"zhong1 kao3",
+"zhōng kǎo",
 "entrance exam for senior middle school"
+],
+[
+"中专",
+7.19,
+"zhōng zhuān",
+"vocational secondary school; technical secondary school; trade school; abbr. for 中等專科學校|中等专科学校"
+],
+[
+"中国科学院",
+7.04,
+"Zhōng guó Kē xué yuàn",
+"Chinese Academy of Science"
 ],
 [
 "人中",
 7.04,
-"ren2 zhong1",
+"rén zhōng",
 "philtrum; infranasal depression; the \"human center\" acupuncture point"
+],
+[
+"中标",
+6.96,
+"zhòng biāo",
+"to win a tender; successful bidder"
+],
+[
+"孙中山",
+6.86,
+"Sūn Zhōng shān",
+"Dr Sun Yat-sen (1866-1925), first president of the Republic of China and co-founder of the Guomintang 國民黨|国民党; same as 孫逸仙|孙逸仙"
+],
+[
+"中锋",
+6.73,
+"zhōng fēng",
+"midfielder; center (basketball); center forward (hockey, football)"
 ],
 [
 "中止",
 6.71,
-"zhong1 zhi3",
+"zhōng zhǐ",
 "to cease; to suspend; to break off; to stop; to discontinue"
 ],
 [
 "中央政府",
 6.68,
-"zhong1 yang1 zheng4 fu3",
+"zhōng yāng zhèng fǔ",
 "central government"
+],
+[
+"中风",
+6.65,
+"zhòng fēng",
+"to suffer a paralyzing stroke"
+],
+[
+"中间人",
+6.59,
+"zhōng jiān rén",
+"intermediary; mediator"
+],
+[
+"三中全会",
+6.42,
+"Sān Zhōng Quán huì",
+"third plenum of a national congress of the Chinese Communist Party"
+],
+[
+"中资",
+6.26,
+"zhōng zī",
+"Chinese capital; Chinese enterprise"
 ],
 [
 "中南",
 6.06,
-"Zhong1 Nan2",
+"Zhōng Nán",
 "South Central China (Henan, Hubei, Hunan, Guangdong, Guangxi, Hainan); abbr. for China-South Africa"
+],
+[
+"中国日报",
+6.0,
+"Zhōng guó Rì bào",
+"China Daily (an English language newspaper)"
 ],
 [
 "中秋",
 5.97,
-"Zhong1 qiu1",
+"Zhōng qiū",
 "the Mid-autumn festival, the traditional moon-viewing festival on the 15th of the 8th lunar month"
 ],
 [
 "中西",
 5.91,
-"Zhong1 Xi1",
+"Zhōng Xī",
 "China and the West; Chinese-Western"
 ],
 [
 "打中",
 5.87,
-"da3 zhong4",
+"dǎ zhòng",
 "to hit (a target)"
 ],
 [
 "日中",
 5.78,
-"Ri4 Zhong1",
+"Rì Zhōng",
 "Japan-China"
 ],
 [
 "日中",
 5.78,
-"ri4 zhong1",
+"rì zhōng",
 "noon; midday; zenith"
 ],
 [
 "高中生",
 5.78,
-"gao1 zhong1 sheng1",
+"gāo zhōng shēng",
 "senior high school student"
+],
+[
+"中西医",
+5.59,
+"zhōng xī yī",
+"Chinese and Western medicine; a doctor trained in Chinese and Western medicine"
+],
+[
+"中转站",
+5.51,
+"zhōng zhuǎn zhàn",
+"transit hub; transport hub; interchange"
 ],
 [
 "中科院",
 5.47,
-"Zhong1 ke1 yuan4",
+"Zhōng kē yuàn",
 "abbr. for 中國社會科學院|中国社会科学院[Zhong1 guo2 She4 hui4 Ke1 xue2 yuan4], Chinese Academy of Sciences (CAS)"
+],
+[
+"中央军委",
+5.46,
+"zhōng yāng jūn wěi",
+"Central Military Committee (CMC)"
+],
+[
+"中央银行",
+5.4,
+"Zhōng yāng Yín háng",
+"Central Bank of the Republic of China (Taiwan)"
+],
+[
+"中央银行",
+5.4,
+"zhōng yāng yín háng",
+"central bank"
 ],
 [
 "中非",
 5.35,
-"Zhong1 Fei1",
+"Zhōng Fēi",
 "China-Africa (relations); Central Africa; Central African Republic"
+],
+[
+"无意中",
+5.31,
+"wú yì zhōng",
+"accidentally; unintentionally; unexpectedly"
 ],
 [
 "中老年",
 5.23,
-"zhong1 lao3 nian2",
+"zhōng lǎo nián",
 "middle and old age"
+],
+[
+"中欧",
+5.2,
+"Zhōng Ōu",
+"China-Europe (e.g. trading relations); Central Europe"
+],
+[
+"适中",
+5.11,
+"shì zhōng",
+"moderate; reasonable; conveniently situated"
 ],
 [
 "中型",
 5.07,
-"zhong1 xing2",
+"zhōng xíng",
 "medium sized"
 ],
 [
 "命中率",
 5.04,
-"ming4 zhong4 lu:4",
+"mìng zhòng lu:4",
 "hit rate; scoring rate"
 ],
 [
 "正中",
 5.01,
-"zheng4 zhong1",
+"zhèng zhōng",
 "middle; center; right in the middle or center; nub"
+],
+[
+"集中营",
+5.01,
+"jí zhōng yíng",
+"concentration camp"
 ]
 ],
 "strokes": [

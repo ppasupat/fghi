@@ -9,71 +9,150 @@
 [
 "标准",
 4,
-"biāozhǔn",
-"(an official) standard; norm; criterion"
-],
-[
-"标点",
-5,
-"biāodiǎn",
-"punctuation; punctuation mark; punctuate"
-],
-[
-"标志",
-5,
-"biāozhì",
-"sign; mark; signal; symbol"
+"biāo zhǔn",
+"(an official) standard; norm; criterion; CL:個|个[ge4]"
 ],
 [
 "目标",
 5,
-"mùbiāo",
-"target; goal; objective"
+"mù biāo",
+"target; goal; objective; CL:個|个[ge4]"
+],
+[
+"标志",
+5,
+"biāo zhì",
+"sign; mark; symbol; logo; to symbolize; to indicate; to mark"
 ],
 [
 "鼠标",
 5,
 "shǔ biāo",
-"mouse (computer)"
+"mouse (computing)"
 ],
 [
-"标本",
-6,
-"biāoběn",
-"specimen; sample; the root cause and symptoms of a disease"
+"标点",
+5,
+"biāo diǎn",
+"punctuation; a punctuation mark; to punctuate; CL:個|个[ge4]"
 ],
 [
 "标记",
 6,
-"biāojì",
-"sign; mark; symbol"
+"biāo jì",
+"sign; mark; symbol; to mark up; (computing) token"
 ],
 [
 "标题",
 6,
-"biāotí",
-"title; header; headline; caption"
+"biāo tí",
+"title; heading; headline; caption; subject"
 ],
 [
 "商标",
 6,
-"shāngbiāo",
+"shāng biāo",
 "trademark; logo"
 ],
 [
-"招标",
+"标本",
 6,
-"zhāobiāo",
-"to beckon; to invite bids"
+"biāo běn",
+"specimen; sample; the root cause and symptoms of a disease"
 ],
 [
 "指标",
 6,
-"zhǐbiāo",
-"target; norm; index; indicator"
+"zhǐ biāo",
+"(production) target; quota; index; indicator; sign; signpost; (computing) pointer"
+],
+[
+"招标",
+6,
+"zhāo biāo",
+"to invite bids"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"锦标赛",
+23.58,
+"jǐn biāo sài",
+"championship contest; championships"
+],
+[
+"标识",
+14.83,
+"biāo zhì",
+"variant of 標誌|标志[biao1 zhi4]"
+],
+[
+"标准化",
+13.34,
+"biāo zhǔn huà",
+"standardization"
+],
+[
+"标签",
+13.33,
+"biāo qiān",
+"label; tag; (computing) tab (GUI element)"
+],
+[
+"超标",
+13.27,
+"chāo biāo",
+"to cross the limit; to be over the accepted norm; excessive"
+],
+[
+"投标",
+12.12,
+"tóu biāo",
+"to bid; to make a tender"
+],
+[
+"达标",
+10.68,
+"dá biāo",
+"to reach a set standard"
+],
+[
+"坐标",
+8.14,
+"zuò biāo",
+"coordinate (geometry)"
+],
+[
+"标语",
+7.67,
+"biāo yǔ",
+"written slogan; placard; CL:幅[fu2],張|张[zhang1],條|条[tiao2]"
+],
+[
+"中标",
+6.96,
+"zhòng biāo",
+"to win a tender; successful bidder"
+],
+[
+"标注",
+6.29,
+"biāo zhù",
+"to mark out; to tag; to put a sign on sth explaining or calling attention to; to annotate (e.g. a character with its pinyin)"
+],
+[
+"标志性",
+5.62,
+"biāo zhì xìng",
+"iconic"
+],
+[
+"标明",
+5.05,
+"biāo míng",
+"to mark; to indicate"
+]
+],
 "strokes": [
 "M 332 531 Q 423 561 425 563 Q 434 572 428 580 Q 421 592 390 597 Q 360 601 334 588 L 286 568 Q 193 537 119 523 Q 82 514 110 499 Q 155 480 210 496 Q 238 505 273 513 L 332 531 Z",
 "M 330 470 Q 330 500 332 531 L 334 588 Q 335 679 354 739 Q 363 755 360 768 Q 353 778 298 813 Q 274 831 253 815 Q 249 811 254 794 Q 285 748 286 699 Q 286 638 286 568 L 282 408 Q 273 207 273 202 Q 266 159 253 117 Q 243 78 267 15 Q 274 -4 282 -7 Q 288 -14 296 -5 Q 323 11 324 77 Q 323 117 329 432 L 330 470 Z",

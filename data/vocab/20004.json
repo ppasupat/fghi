@@ -10,16 +10,71 @@
 "两",
 2,
 "liǎng",
-"two; 2; both; (unit of weight equal to 50 grams)"
+"two; both; some; a few; tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jin1] (old)"
 ],
 [
 "一举两得",
 6,
-"yìjǔliǎngdé",
-"kill two birds with one stone; (literally) attain two objectives with a single move"
+"yī jǔ liǎng dé",
+"one move, two gains (idiom); two birds with one stone"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"两国",
+69.03,
+"liǎng guó",
+"both countries; two countries"
+],
+[
+"两岸",
+48.78,
+"liǎng àn",
+"bilateral; both shores; both sides; both coasts; Taiwan and mainland"
+],
+[
+"两者",
+26.19,
+"liǎng zhě",
+"both sides"
+],
+[
+"两边",
+11.51,
+"liǎng bian",
+"either side; both sides"
+],
+[
+"两手",
+6.1,
+"liǎng shǒu",
+"one's two hands; two prongs (of a strategy); both aspects, eventualities etc; skills; expertise"
+],
+[
+"两头",
+5.46,
+"liǎng tóu",
+"both ends; both parties to a deal"
+],
+[
+"两面",
+5.43,
+"liǎng miàn",
+"both sides"
+],
+[
+"两旁",
+5.38,
+"liǎng páng",
+"both sides; either side"
+],
+[
+"两样",
+5.24,
+"liǎng yàng",
+"two kinds; difference"
+]
+],
 "strokes": [
 "M 583 687 Q 593 690 741 705 Q 753 704 764 718 Q 765 731 740 744 Q 701 768 618 745 Q 507 721 311 696 Q 292 695 274 692 Q 241 689 266 669 Q 303 639 328 644 Q 329 645 356 649 L 394 656 Q 458 669 537 680 L 583 687 Z",
 "M 243 473 Q 234 491 186 504 Q 176 505 170 497 Q 166 491 174 480 Q 219 345 175 167 Q 163 155 169 116 Q 169 115 170 113 Q 180 79 192 65 Q 204 50 214 65 Q 242 99 243 266 Q 243 374 250 434 C 253 462 253 462 243 473 Z",

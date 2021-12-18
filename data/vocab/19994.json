@@ -9,125 +9,354 @@
 [
 "作业",
 3,
-"zuòyè",
-"school assignment; homework; task"
+"zuò yè",
+"school assignment; homework; work; task; operation; CL:個|个[ge4]; to operate"
+],
+[
+"职业",
+4,
+"zhí yè",
+"occupation; profession; vocation; professional"
 ],
 [
 "毕业",
 4,
 "bì yè",
-"to graduate; to finish school"
-],
-[
-"职业",
-4,
-"zhíyè",
-"profession; occupation"
+"graduation; to graduate; to finish school"
 ],
 [
 "专业",
 4,
-"zhuānyè",
-"profession; specialized field of study; major"
-],
-[
-"工业",
-5,
-"gōngyè",
-"industry"
-],
-[
-"行业",
-5,
-"hángyè",
-"industry; business"
-],
-[
-"农业",
-5,
-"nóngyè",
-"agriculture; farming"
-],
-[
-"企业",
-5,
-"qǐyè",
-"company; business; firm"
+"zhuān yè",
+"specialty; specialized field; main field of study (at university); major; CL:門|门[men2],個|个[ge4]; professional"
 ],
 [
 "商业",
 5,
-"shāngyè",
-"business; commerce; trade"
+"shāng yè",
+"business; trade; commerce"
+],
+[
+"行业",
+5,
+"háng yè",
+"industry; business"
+],
+[
+"业余",
+5,
+"yè yú",
+"in one's spare time; outside working hours; amateur (historian etc)"
 ],
 [
 "失业",
 5,
 "shī yè",
-"lose one's job; unemployment"
+"unemployment; to lose one's job"
+],
+[
+"企业",
+5,
+"qǐ yè",
+"company; firm; enterprise; corporation; CL:家[jia1]"
 ],
 [
 "业务",
 5,
-"yèwù",
-"business; profession"
+"yè wù",
+"business; professional work; service; CL:項|项[xiang4]"
 ],
 [
-"业余",
+"工业",
 5,
-"yèyú",
-"spare time; amateur"
+"gōng yè",
+"industry"
 ],
 [
 "营业",
 5,
-"yíngyè",
-"do business; to trade"
+"yíng yè",
+"to do business; to trade"
 ],
 [
-"产业",
-6,
-"chǎnyè",
-"industry; estate; property"
-],
-[
-"创业",
-6,
-"chuàngyè",
-"begin an undertaking; start a major task; start a company"
-],
-[
-"兢兢业业",
-6,
-"jīngjīng yèyè",
-"cautious and conscientious"
-],
-[
-"敬业",
-6,
-"jìngyè",
-"work ethic"
-],
-[
-"就业",
-6,
-"jiùyè",
-"employment; getting a job"
+"农业",
+5,
+"nóng yè",
+"agriculture; farming"
 ],
 [
 "事业",
 6,
-"shìyè",
-"undertaking; project; cause; enterprise"
+"shì yè",
+"undertaking; project; activity; (charitable, political or revolutionary) cause; publicly funded institution, enterprise or foundation; career; occupation; CL:個|个[ge4]"
+],
+[
+"产业",
+6,
+"chǎn yè",
+"industry; estate; property; industrial"
+],
+[
+"就业",
+6,
+"jiù yè",
+"to get a job; employment"
+],
+[
+"敬业",
+6,
+"jìng yè",
+"to be dedicated to one's work; to respect one's work"
+],
+[
+"创业",
+6,
+"chuàng yè",
+"to begin an undertaking; to start a major task; to initiate; to venture; venture; entrepreneurship"
 ],
 [
 "物业",
 6,
-"wùyè",
-"property management"
+"wù yè",
+"property; real estate; abbr. for 物業管理|物业管理[wu4 ye4 guan3 li3], property management"
+],
+[
+"兢兢业业",
+6,
+"jīng jīng yè yè",
+"(idiom) conscientious; assiduous"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"业绩",
+60.57,
+"yè jì",
+"achievement; accomplishment; (in more recent usage) performance (of a business, employee etc); results"
+],
+[
+"业主",
+45.89,
+"yè zhǔ",
+"owner; proprietor"
+],
+[
+"毕业生",
+36.72,
+"bì yè shēng",
+"graduate"
+],
+[
+"商业银行",
+30.78,
+"shāng yè yín háng",
+"commercial bank"
+],
+[
+"国有企业",
+30.77,
+"guó yǒu qǐ yè",
+"nationalized business; state-owned business"
+],
+[
+"中小企业",
+30.58,
+"zhōng xiǎo qǐ yè",
+"small and medium enterprise"
+],
+[
+"企业家",
+29.22,
+"qǐ yè jiā",
+"entrepreneur"
+],
+[
+"制造业",
+23.08,
+"zhì zào yè",
+"manufacturing industry"
+],
+[
+"产业化",
+19.21,
+"chǎn yè huà",
+"to industrialize; industrialization"
+],
+[
+"服务业",
+17.33,
+"fú wù yè",
+"service industry"
+],
+[
+"开业",
+17.19,
+"kāi yè",
+"to open a business; to open a practice; open (for business)"
+],
+[
+"工业化",
+15.55,
+"gōng yè huà",
+"to industrialize; industrialization"
+],
+[
+"林业",
+15.32,
+"lín yè",
+"forest industry; forestry"
+],
+[
+"物业管理",
+12.48,
+"wù yè guǎn lǐ",
+"property management"
+],
+[
+"实业",
+12.44,
+"shí yè",
+"industry; commercial enterprise"
+],
+[
+"旅游业",
+11.76,
+"lu:3 yóu yè",
+"tourism industry"
+],
+[
+"专业化",
+10.68,
+"zhuān yè huà",
+"specialization"
+],
+[
+"农业部",
+10.53,
+"Nóng yè bù",
+"Ministry of Agriculture; Department of Agriculture"
+],
+[
+"渔业",
+10.41,
+"yú yè",
+"fishing industry; fishery"
+],
+[
+"从业人员",
+10.19,
+"cóng yè rén yuán",
+"employee; person employed in a trade or profession"
+],
+[
+"银行业",
+10.11,
+"yín háng yè",
+"banking"
+],
+[
+"学业",
+9.35,
+"xué yè",
+"studies; schoolwork"
+],
+[
+"置业",
+9.05,
+"zhì yè",
+"to buy real estate"
+],
+[
+"职业教育",
+8.34,
+"zhí yè jiào yù",
+"vocational training"
+],
+[
+"执业",
+7.39,
+"zhí yè",
+"to work in a profession (e.g. doctor, lawyer); practitioner; professional"
+],
+[
+"业务员",
+7.22,
+"yè wù yuán",
+"salesperson"
+],
+[
+"第三产业",
+6.82,
+"dì sān chǎn yè",
+"tertiary sector of industry"
+],
+[
+"外资企业",
+6.55,
+"wài zī qǐ yè",
+"abbr. for 外商獨資企業|外商独资企业[wai4 shang1 du2 zi1 qi3 ye4]"
+],
+[
+"金融业",
+6.5,
+"jīn róng yè",
+"financial sector; the banking business"
+],
+[
+"营业额",
+6.33,
+"yíng yè é",
+"sum or volume of business; turnover"
+],
+[
+"企业集团",
+6.17,
+"qǐ yè jí tuán",
+"business conglomerate"
+],
+[
+"畜牧业",
+5.92,
+"xù mù yè",
+"animal husbandry; stock raising; livestock raising"
+],
+[
+"营业员",
+5.85,
+"yíng yè yuán",
+"clerk; shop assistant; CL:個|个[ge4]"
+],
+[
+"营业税",
+5.71,
+"yíng yè shuì",
+"tax on turnover; sales tax"
+],
+[
+"矿业",
+5.61,
+"kuàng yè",
+"mining industry"
+],
+[
+"业已",
+5.49,
+"yè yǐ",
+"already"
+],
+[
+"同业",
+5.4,
+"tóng yè",
+"same trade or business; person in the same trade or business"
+],
+[
+"从业",
+5.17,
+"cóng yè",
+"to practice (a trade)"
+]
+],
 "strokes": [
 "M 429 100 Q 420 511 436 595 Q 440 622 425 637 Q 400 659 368 670 Q 352 677 341 670 Q 332 663 339 646 Q 370 573 380 496 Q 386 417 383 96 C 383 66 430 70 429 100 Z",
 "M 603 112 Q 615 346 622 559 Q 628 611 633 647 Q 642 678 647 701 Q 651 713 628 730 Q 589 751 563 755 Q 545 759 536 749 Q 527 742 537 725 Q 571 670 571 634 Q 578 390 558 108 C 556 78 601 82 603 112 Z",

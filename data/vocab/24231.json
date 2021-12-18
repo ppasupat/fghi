@@ -10,86 +10,128 @@
 "座",
 4,
 "zuò",
-"(mw for mountains, bridges, tall buildings, etc.); | seat; base; stand; constellation"
+"seat; base; stand; (archaic) suffix used in a respectful form of address, e.g. 师座|师座[shi1 zuo4]; CL:個|个[ge4]; classifier for buildings, mountains and similar immovable objects"
 ],
 [
 "座位",
 4,
-"zuòwèi",
-"seat; place"
+"zuò wèi",
+"seat; CL:個|个[ge4]"
 ],
 [
 "讲座",
 5,
-"jiǎngzuò",
-"a lecture or course of lectures; lecture hall"
-],
-[
-"插座",
-6,
-"chāzuò",
-"power socket"
+"jiǎng zuò",
+"a course of lectures; CL:個|个[ge4]"
 ],
 [
 "座右铭",
 6,
-"zuòyòumíng",
-"motto"
+"zuò yòu míng",
+"motto; maxim"
+],
+[
+"插座",
+6,
+"chā zuò",
+"socket; outlet"
 ]
 ],
 "extraWords": [
 [
 "星座",
 41.68,
-"xing1 zuo4",
+"xīng zuò",
 "constellation; astrological sign; CL:張|张[zhang1]"
+],
+[
+"狮子座",
+29.7,
+"Shī zi zuò",
+"Leo (constellation and sign of the zodiac)"
+],
+[
+"天蝎座",
+28.16,
+"Tiān xiē zuò",
+"Scorpio or Scorpius (constellation and sign of the zodiac)"
+],
+[
+"双子座",
+27.56,
+"Shuāng zǐ zuò",
+"Gemini (constellation and sign of the zodiac)"
 ],
 [
 "巨蟹座",
 26.77,
-"Ju4 xie4 zuo4",
+"Jù xiè zuò",
 "Cancer (constellation and sign of the zodiac)"
+],
+[
+"双鱼座",
+26.27,
+"Shuāng yú zuò",
+"Pisces (constellation and sign of the zodiac)"
 ],
 [
 "金牛座",
 25.66,
-"Jin1 niu2 zuo4",
+"Jīn niú zuò",
 "Taurus (constellation and sign of the zodiac)"
 ],
 [
 "白羊座",
 25.52,
-"Bai2 yang2 zuo4",
+"Bái yáng zuò",
 "Aries (constellation and sign of the zodiac)"
 ],
 [
 "天秤座",
 25.02,
-"Tian1 cheng4 zuo4",
+"Tiān chèng zuò",
 "Libra (constellation and sign of the zodiac)"
+],
+[
+"座谈会",
+20.39,
+"zuò tán huì",
+"conference; symposium; rap session"
 ],
 [
 "摩羯座",
 18.71,
-"Mo2 jie2 zuo4",
+"Mó jié zuò",
 "Capricornus"
 ],
 [
 "座椅",
 8.99,
-"zuo4 yi3",
+"zuò yǐ",
 "seat"
 ],
 [
 "后座",
 7.24,
-"hou4 zuo4",
+"hòu zuò",
 "empress's throne; (fig.) first place in a feminine competition"
+],
+[
+"后座",
+7.24,
+"hòu zuò",
+"back seat; pillion"
+],
+[
+"座谈",
+6.83,
+"zuò tán",
+"to have an informal discussion; CL:次[ci4],個|个[ge4]"
 ],
 [
 "在座",
 6.63,
-"zai4 zuo4",
+"zài zuò",
 "to be present"
 ]
 ],

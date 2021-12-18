@@ -9,29 +9,150 @@
 [
 "伤心",
 4,
-"shāngxīn",
-"sad; grieve; brokenhearted"
+"shāng xīn",
+"to grieve; to be broken-hearted; to feel deeply hurt"
 ],
 [
 "伤害",
 5,
-"shānghài",
-"injure; to harm; wound"
+"shāng hài",
+"to injure; to harm"
 ],
 [
 "受伤",
 5,
 "shòu shāng",
-"sustain injuries (in an accident, etc.); be injured"
+"to sustain injuries; wounded (in an accident etc); harmed"
 ],
 [
 "伤脑筋",
 6,
-"shāng nǎojīn",
-"troublesome; bothersome"
+"shāng nǎo jīn",
+"to be a real headache; to find sth a real headache; to beat one's brains"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"损伤",
+40.01,
+"sǔn shāng",
+"to harm; to damage; to injure; impairment; loss; disability"
+],
+[
+"伤口",
+38.72,
+"shāng kǒu",
+"wound; cut"
+],
+[
+"悲伤",
+29.0,
+"bēi shāng",
+"sad; sorrowful"
+],
+[
+"伤亡",
+18.79,
+"shāng wáng",
+"casualties; injuries and deaths"
+],
+[
+"创伤",
+13.44,
+"chuāng shāng",
+"wound; injury; trauma"
+],
+[
+"重伤",
+11.73,
+"zhòng shāng",
+"seriously hurt; serious injury"
+],
+[
+"伤感",
+11.12,
+"shāng gǎn",
+"sad; emotional; sentimental; pathos"
+],
+[
+"伤势",
+10.82,
+"shāng shì",
+"condition of an injury"
+],
+[
+"忧伤",
+10.77,
+"yōu shāng",
+"distressed; laden with grief"
+],
+[
+"烧伤",
+9.26,
+"shāo shāng",
+"burn (injury)"
+],
+[
+"伤痕",
+9.24,
+"shāng hén",
+"scar; bruise"
+],
+[
+"伤疤",
+8.38,
+"shāng bā",
+"scar; CL:道[dao4]"
+],
+[
+"伤痛",
+7.7,
+"shāng tòng",
+"pain (from wound); sorrow"
+],
+[
+"伤人",
+7.46,
+"shāng rén",
+"to injure sb"
+],
+[
+"刺伤",
+7.45,
+"cì shāng",
+"to stab"
+],
+[
+"工伤",
+6.86,
+"gōng shāng",
+"industrial injury"
+],
+[
+"外伤",
+6.77,
+"wài shāng",
+"injury; wound; trauma"
+],
+[
+"伤员",
+6.37,
+"shāng yuán",
+"wounded person"
+],
+[
+"打伤",
+5.41,
+"dǎ shāng",
+"to injure; to wound; to damage"
+],
+[
+"擦伤",
+5.07,
+"cā shāng",
+"to abrade; to scrape; to chafe; to graze; abrasion; friction burn; scratch"
+]
+],
 "strokes": [
 "M 224 479 Q 276 543 334 635 Q 362 684 386 709 Q 396 719 392 734 Q 388 747 358 772 Q 330 791 310 791 Q 291 790 299 766 Q 312 732 300 705 Q 234 543 67 348 Q 57 338 54 331 Q 50 319 65 322 Q 101 326 198 447 L 224 479 Z",
 "M 198 447 Q 217 384 218 352 Q 218 214 192 111 Q 180 60 214 21 Q 215 18 218 16 Q 234 0 246 26 Q 261 66 260 111 Q 260 346 268 399 Q 275 426 266 436 Q 229 476 224 479 C 202 499 190 476 198 447 Z",

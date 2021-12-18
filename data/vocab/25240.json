@@ -9,76 +9,106 @@
 [
 "打折",
 4,
-"dǎzhé",
-"sell at a discount"
+"dǎ zhé",
+"to give a discount"
 ],
 [
-"挫折",
+"折",
 6,
-"cuòzhé",
-"setback; defeat; frustration"
+"shé",
+"to snap; to break (a stick, a bone etc); (bound form) to sustain a loss (in business)"
 ],
 [
-"曲折",
+"折",
 6,
-"qūzhé",
-"winding; zigzag; complicated"
-],
-[
-"折腾",
-6,
-"zhēteng",
-"toss from side to side (e.g. sleeplessly); do something over and over again; cause suffering; play crazy; screw around"
+"zhē",
+"to turn sth over; to turn upside down; to tip sth out (of a container)"
 ],
 [
 "折",
 6,
 "zhé",
-"to break; to fracture; convert into; to fold"
+"to break; to fracture; to snap; to suffer loss; to bend; to twist; to turn; to change direction; convinced; to convert into (currency); discount; rebate; tenth (in price); classifier for theatrical scenes; to fold; accounts book"
+],
+[
+"折",
+6,
+"zhé",
+"variant of 折[zhe2]; to fold"
 ],
 [
 "折磨",
 6,
-"zhémo",
-"persecute; to torture"
+"zhé mó",
+"to torment; to torture"
 ],
 [
-"周折",
+"折腾",
 6,
-"zhōuzhé",
-"setback; twists and turns; problem; complication"
+"zhē teng",
+"to toss from side to side (e.g. sleeplessly); to repeat sth over and over again; to torment sb; to play crazy; to squander (time, money)"
+],
+[
+"挫折",
+6,
+"cuò zhé",
+"setback; reverse; check; defeat; frustration; disappointment; to frustrate; to discourage; to set sb back; to blunt; to subdue"
+],
+[
+"曲折",
+6,
+"qū zhé",
+"winding; (fig.) complicated"
 ],
 [
 "转折",
 6,
-"zhuǎnzhé",
-"turning point; shift in the trend of events; plot twist in a book"
+"zhuǎn zhé",
+"shift in the trend of events; turnaround; plot shift in a book; turn in the conversation"
+],
+[
+"周折",
+6,
+"zhōu zhé",
+"twists and turns; vicissitude; complication; difficulty; effort; CL:番[fan1]"
 ]
 ],
 "extraWords": [
 [
 "骨折",
 21.86,
-"gu3 zhe2",
+"gǔ zhé",
 "to suffer a fracture; (of a bone) to break; fracture"
 ],
 [
 "折扣",
 11.27,
-"zhe2 kou4",
+"zhé kòu",
 "discount"
 ],
 [
 "折合",
 5.47,
-"zhe2 he2",
+"zhé hé",
 "to convert into; to amount to; to be equivalent to"
 ],
 [
 "折射",
 5.32,
-"zhe2 she4",
+"zhé shè",
 "to refract; refraction; to reflect (in the figurative sense: to show the nature of)"
+],
+[
+"折叠",
+5.2,
+"zhé dié",
+"to fold; collapsible; folding (bicycle, antenna, bed etc)"
+],
+[
+"存折",
+5.12,
+"cún zhé",
+"passbook; bankbook"
 ]
 ],
 "strokes": [

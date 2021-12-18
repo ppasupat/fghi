@@ -9,17 +9,54 @@
 [
 "矿泉水",
 4,
-"kuàngquánshuǐ",
-"mineral water"
+"kuàng quán shuǐ",
+"mineral spring water; CL:瓶[ping2],杯[bei1]"
 ],
 [
 "矿产",
 6,
-"kuàngchǎn",
+"kuàng chǎn",
 "minerals"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"煤矿",
+32.6,
+"méi kuàng",
+"coal mine; coal seam"
+],
+[
+"矿工",
+8.24,
+"kuàng gōng",
+"miner"
+],
+[
+"矿山",
+7.76,
+"kuàng shān",
+"mine"
+],
+[
+"铁矿石",
+6.46,
+"tiě kuàng shí",
+"iron ore"
+],
+[
+"矿井",
+6.0,
+"kuàng jǐng",
+"a mine; a mine shaft"
+],
+[
+"矿业",
+5.61,
+"kuàng yè",
+"mining industry"
+]
+],
 "strokes": [
 "M 259 637 Q 334 656 413 675 Q 450 685 456 691 Q 465 700 460 708 Q 453 720 422 726 Q 395 729 302 697 Q 227 676 160 666 Q 123 659 151 643 Q 175 630 217 629 L 259 637 Z",
 "M 225 414 Q 253 474 292 570 Q 305 609 306 610 Q 294 634 259 637 C 229 642 215 645 217 629 Q 223 572 223 562 Q 211 496 181 428 L 168 398 Q 117 307 31 195 Q 24 189 35 188 Q 101 221 183 340 L 225 414 Z",

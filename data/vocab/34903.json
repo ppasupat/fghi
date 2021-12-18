@@ -9,33 +9,45 @@
 [
 "街道",
 3,
-"jiēdào",
-"street"
+"jiē dào",
+"street; CL:條|条[tiao2]; subdistrict; residential district"
 ]
 ],
 "extraWords": [
 [
 "大街",
 44.89,
-"da4 jie1",
+"dà jiē",
 "street; main street; CL:條|条[tiao2]"
 ],
 [
 "街上",
 41.2,
-"jie1 shang5",
+"jiē shang",
 "on the street; in town"
+],
+[
+"街头",
+25.65,
+"jiē tóu",
+"street"
+],
+[
+"街区",
+23.91,
+"jiē qū",
+"block (between streets)"
 ],
 [
 "逛街",
 17.14,
-"guang4 jie1",
+"guàng jiē",
 "to take a walk; to window-shop; to stroll down the street"
 ],
 [
 "上街",
 6.05,
-"shang4 jie1",
+"shàng jiē",
 "to go onto the streets; to go shopping"
 ]
 ],

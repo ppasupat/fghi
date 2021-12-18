@@ -7,55 +7,104 @@
 },
 "words": [
 [
-"传统",
+"总统",
 5,
-"chuántǒng",
-"tradition; traditional"
-],
-[
-"统一",
-5,
-"tǒngyī",
-"unify; unite; integrate; universal"
+"zǒng tǒng",
+"president (of a country); CL:個|个[ge4],位[wei4],名[ming2],屆|届[jie4]"
 ],
 [
 "系统",
 5,
-"xìtǒng",
-"system"
+"xì tǒng",
+"system; CL:個|个[ge4]"
 ],
 [
-"总统",
+"传统",
 5,
-"zǒngtǒng",
-"president (of a country)"
+"chuán tǒng",
+"tradition; traditional; convention; conventional; CL:個|个[ge4]"
 ],
 [
-"统筹兼顾",
-6,
-"tǒngchóujiāngù",
-"take every aspects into consideration through plan and preparation"
-],
-[
-"统计",
-6,
-"tǒngjì",
-"statistics; to tally; to add up"
-],
-[
-"统统",
-6,
-"tǒngtǒng",
-"totally; completely"
+"统一",
+5,
+"tǒng yī",
+"to unify; to unite; to integrate"
 ],
 [
 "统治",
 6,
-"tǒngzhì",
-"to rule (a country); govern; governance"
+"tǒng zhì",
+"to rule (a country); to govern; rule; regime"
+],
+[
+"统计",
+6,
+"tǒng jì",
+"statistics; to count; to add up"
+],
+[
+"统统",
+6,
+"tǒng tǒng",
+"totally"
+],
+[
+"统筹兼顾",
+6,
+"tǒng chóu jiān gù",
+"an overall plan taking into account all factors"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"统筹",
+15.09,
+"tǒng chóu",
+"an overall plan; to plan an entire project as a whole"
+],
+[
+"操作系统",
+13.21,
+"cāo zuò xì tǒng",
+"operating system"
+],
+[
+"统计学",
+10.43,
+"tǒng jì xué",
+"statistics"
+],
+[
+"血统",
+9.42,
+"xuè tǒng",
+"blood relationship; lineage; parentage"
+],
+[
+"信息系统",
+8.06,
+"xìn xī xì tǒng",
+"information system"
+],
+[
+"统战",
+6.2,
+"tǒng zhàn",
+"united front (abbr. for 統一戰線|统一战线[tong3 yi1 zhan4 xian4])"
+],
+[
+"统一战线",
+5.49,
+"tǒng yī zhàn xiàn",
+"united front"
+],
+[
+"统领",
+5.08,
+"tǒng lǐng",
+"to lead; to command; commander; officer"
+]
+],
 "strokes": [
 "M 298 498 Q 297 499 293 498 Q 244 498 204 499 Q 170 499 187 520 Q 259 634 327 718 Q 343 736 340 744 Q 339 759 298 792 Q 282 805 263 803 Q 251 800 257 784 Q 273 742 181 580 Q 162 544 120 509 Q 101 494 102 482 Q 106 463 120 444 Q 130 432 144 439 Q 186 463 278 473 C 308 477 328 498 298 498 Z",
 "M 278 473 Q 170 341 149 330 Q 136 321 138 308 Q 139 295 164 275 Q 174 263 189 274 Q 252 319 362 352 Q 381 356 383 365 Q 386 375 366 372 Q 308 362 234 343 Q 209 334 226 354 Q 365 532 424 577 Q 437 586 431 596 Q 421 615 389 635 Q 373 645 364 643 Q 354 640 356 624 Q 357 591 298 498 L 278 473 Z",

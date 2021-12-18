@@ -9,35 +9,42 @@
 [
 "赔偿",
 5,
-"péicháng",
-"compensate; pay for somebody else's loss"
+"péi cháng",
+"to compensate"
 ],
 [
 "补偿",
 6,
-"bǔcháng",
-"compensation; make up"
+"bǔ cháng",
+"to compensate; to make up"
 ],
 [
 "偿还",
 6,
-"chánghuán",
-"repay; reimburse"
+"cháng huán",
+"to repay; to reimburse"
+],
+[
+"无偿",
+6,
+"wú cháng",
+"free; no charge; at no cost"
 ],
 [
 "得不偿失",
 6,
 "dé bù cháng shī",
-"the gains do not outweigh the losses"
-],
-[
-"无偿",
-6,
-"wúcháng",
-"free; no charge; at no cost"
+"the gains do not make up for the losses (idiom)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"有偿",
+5.59,
+"yǒu cháng",
+"paying; paid (not free)"
+]
+],
 "strokes": [
 "M 235 490 Q 289 550 348 635 Q 376 681 400 702 Q 410 712 407 728 Q 403 741 373 768 Q 345 789 325 790 Q 306 789 313 765 Q 325 732 312 707 Q 242 554 81 377 Q 69 367 67 360 Q 63 347 78 350 Q 112 354 209 462 L 235 490 Z",
 "M 209 462 Q 228 414 236 367 Q 236 207 214 111 Q 204 66 238 15 Q 239 15 241 12 Q 259 -4 271 23 Q 286 63 285 110 Q 279 350 285 404 Q 292 431 283 442 Q 243 485 235 490 C 212 510 198 490 209 462 Z",

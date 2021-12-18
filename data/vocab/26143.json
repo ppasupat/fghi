@@ -9,201 +9,231 @@
 [
 "星期",
 1,
-"xīngqī",
-"week"
+"xīng qī",
+"week; CL:個|个[ge4]; day of the week; Sunday"
 ],
 [
 "明星",
 5,
-"míngxīng",
-"(movie, etc.) star; celebrity"
-],
-[
-"零星",
-6,
-"língxīng",
-"partial; scattered; fragmentary"
+"míng xīng",
+"star; celebrity"
 ],
 [
 "卫星",
 6,
-"wèixīng",
-"satellite"
+"wèi xīng",
+"satellite; moon; CL:顆|颗[ke1]"
+],
+[
+"零星",
+6,
+"líng xīng",
+"fragmentary; random; bits and pieces; sporadic"
 ]
 ],
 "extraWords": [
 [
 "星球",
 43.34,
-"xing1 qiu2",
+"xīng qiú",
 "celestial body (e.g. planet, satellite etc); heavenly body"
 ],
 [
 "星座",
 41.68,
-"xing1 zuo4",
+"xīng zuò",
 "constellation; astrological sign; CL:張|张[zhang1]"
 ],
 [
 "三星",
 31.8,
-"San1 xing1",
-"Sanxing or Sanhsing township in Yilan county 宜蘭縣|宜兰县[Yi2 lan2 xian4], Taiwan; Samsung (South Korean electronics company)"
+"Sān xīng",
+"Sanxing or Sanhsing Township in Yilan County 宜蘭縣|宜兰县[Yi2 lan2 Xian4], Taiwan; Samsung (South Korean electronics company)"
 ],
 [
 "三星",
 31.8,
-"san1 xing1",
+"sān xīng",
 "three major stars of the Three Stars 參宿|参宿[Shen1 xiu4] Chinese constellation; the belt of Orion; three spirits 福[fu2], 祿|禄[lu4], and 壽|寿[shou4] associated with the Three Stars 參宿|参宿[Shen1 xiu4] Chinese constellation"
 ],
 [
 "外星人",
 23.43,
-"wai4 xing1 ren2",
+"wài xīng rén",
 "space alien; extraterrestrial"
 ],
 [
 "星星",
 19.58,
-"xing1 xing5",
+"xīng xing",
 "star in the sky"
 ],
 [
 "星期五",
 16.07,
-"Xing1 qi1 wu3",
+"Xīng qī wǔ",
 "Friday"
 ],
 [
 "星期六",
 15.29,
-"Xing1 qi1 liu4",
+"Xīng qī liù",
 "Saturday"
 ],
 [
 "星期天",
 13.95,
-"Xing1 qi1 tian1",
+"Xīng qī tiān",
 "Sunday; CL:個|个[ge4]"
 ],
 [
 "火星",
 12.59,
-"Huo3 xing1",
+"Huǒ xīng",
 "Mars (planet)"
 ],
 [
 "火星",
 12.59,
-"huo3 xing1",
+"huǒ xīng",
 "spark"
+],
+[
+"红星",
+12.15,
+"Hóng xīng",
+"Hongxing district of Yichun city 伊春市[Yi1 chun1 shi4], Heilongjiang"
+],
+[
+"红星",
+12.15,
+"hóng xīng",
+"red star; five pointed star as symbol or communism or proletariat; hot film star"
 ],
 [
 "星期一",
 11.39,
-"Xing1 qi1 yi1",
+"Xīng qī yī",
 "Monday"
 ],
 [
 "球星",
 11.23,
-"qiu2 xing1",
+"qiú xīng",
 "sports star (ball sport)"
 ],
 [
 "星空",
 11.06,
-"xing1 kong1",
+"xīng kōng",
 "starry sky; the heavens"
 ],
 [
 "星系",
 10.52,
-"xing1 xi4",
+"xīng xì",
 "see 恆星系|恒星系[heng2 xing1 xi4]"
 ],
 [
 "行星",
 10.31,
-"xing2 xing1",
+"xíng xīng",
 "planet; CL:顆|颗[ke1]"
+],
+[
+"星际",
+9.99,
+"xīng jì",
+"interstellar; interplanetary"
 ],
 [
 "流星",
 9.87,
-"liu2 xing1",
+"liú xīng",
 "meteor; shooting star"
 ],
 [
 "星期二",
 8.88,
-"Xing1 qi1 er4",
+"Xīng qī èr",
 "Tuesday"
 ],
 [
 "星期三",
 8.59,
-"Xing1 qi1 san1",
+"Xīng qī sān",
 "Wednesday"
 ],
 [
 "巨星",
 8.41,
-"ju4 xing1",
+"jù xīng",
 "(astronomy) giant star; (fig.) superstar (of opera, basketball etc)"
 ],
 [
 "星光",
 8.39,
-"xing1 guang1",
+"xīng guāng",
 "starlight"
 ],
 [
 "星期四",
 8.17,
-"Xing1 qi1 si4",
+"Xīng qī sì",
 "Thursday"
 ],
 [
 "流星雨",
 7.49,
-"liu2 xing1 yu3",
+"liú xīng yǔ",
 "meteor shower"
 ],
 [
 "上星期",
 5.99,
-"shang4 xing1 qi1",
+"shàng xīng qī",
 "last week; previous week"
+],
+[
+"星级",
+5.5,
+"xīng jí",
+"star rating; top-class; highly rated"
 ],
 [
 "星期日",
 5.45,
-"Xing1 qi1 ri4",
+"Xīng qī rì",
 "Sunday; CL:個|个[ge4]"
 ],
 [
 "金星",
 5.22,
-"Jin1 xing1",
+"Jīn xīng",
 "Venus (planet)"
 ],
 [
 "金星",
 5.22,
-"jin1 xing1",
+"jīn xīng",
 "gold star; stars (that one sees from blow to the head etc)"
 ],
 [
 "影星",
 5.16,
-"ying3 xing1",
+"yǐng xīng",
 "film star"
+],
+[
+"五星级",
+5.1,
+"wǔ xīng jí",
+"five-star (hotel)"
 ],
 [
 "下星期",
 5.04,
-"xia4 xing1 qi1",
+"xià xīng qī",
 "next week"
 ]
 ],

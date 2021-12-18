@@ -9,53 +9,132 @@
 [
 "满意",
 3,
-"mǎnyì",
-"satisfied; pleased"
+"mǎn yì",
+"satisfied; pleased; to one's satisfaction"
+],
+[
+"满",
+4,
+"Mǎn",
+"Manchu ethnic group"
 ],
 [
 "满",
 4,
 "mǎn",
-"full; abbreviation for Manchurian"
+"to fill; full; filled; packed; fully; completely; quite; to reach the limit; to satisfy; satisfied; contented"
 ],
 [
 "充满",
 5,
-"chōngmǎn",
-"brimming with; very full"
+"chōng mǎn",
+"full of; brimming with; very full; permeated"
 ],
 [
 "满足",
 5,
-"mǎnzú",
-"satisfy; meet (the needs of)"
+"mǎn zú",
+"to satisfy; to meet (the needs of); satisfied; content"
 ],
 [
 "丰满",
 6,
-"fēngmǎn",
-"plump; well developed; plentiful; Fengman district of Jilin City, Jilin Province"
+"Fēng mǎn",
+"Fengman district of Jilin city 吉林市, Jilin province"
+],
+[
+"丰满",
+6,
+"fēng mǎn",
+"ample; well developed; fully rounded"
 ],
 [
 "美满",
 6,
-"měimǎn",
+"měi mǎn",
 "happy; blissful"
 ],
 [
 "圆满",
 6,
-"yuánmǎn",
-"satisfactory"
+"yuán mǎn",
+"satisfactory; consummate; perfect"
 ],
 [
 "自满",
 6,
-"zìmǎn",
+"zì mǎn",
 "complacent; self-satisfied"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"不满",
+34.01,
+"bù mǎn",
+"resentful; discontented; dissatisfied"
+],
+[
+"满满",
+11.31,
+"mǎn mǎn",
+"full; closely packed"
+],
+[
+"满脸",
+10.95,
+"mǎn liǎn",
+"across one's whole face"
+],
+[
+"装满",
+10.37,
+"zhuāng mǎn",
+"to fill up"
+],
+[
+"饱满",
+7.34,
+"bǎo mǎn",
+"full; plump"
+],
+[
+"泪流满面",
+6.27,
+"lèi liú mǎn miàn",
+"cheeks streaming with tears (idiom)"
+],
+[
+"满怀",
+6.15,
+"mǎn huái",
+"to have one's heart filled with; (to collide) full on; (of farm animals) heavy with young"
+],
+[
+"期满",
+5.58,
+"qī mǎn",
+"to expire; to run out; to come to an end"
+],
+[
+"布满",
+5.2,
+"bù mǎn",
+"to be covered with; to be filled with"
+],
+[
+"满面",
+5.17,
+"mǎn miàn",
+"across one's whole face; (smiling) from ear to ear"
+],
+[
+"满嘴",
+5.16,
+"mǎn zuǐ",
+"a full mouth of (sth physical); to have the mouth exclusively filled with (a certain language, lies, promises, etc)"
+]
+],
 "strokes": [
 "M 227 719 Q 258 694 291 665 Q 307 652 324 653 Q 336 654 340 668 Q 344 684 334 717 Q 327 739 292 753 Q 207 778 196 771 Q 190 767 193 753 Q 197 740 227 719 Z",
 "M 149 521 Q 200 461 236 449 Q 252 445 262 461 Q 269 474 266 494 Q 254 539 187 557 Q 147 570 133 565 Q 126 564 129 550 Q 132 537 149 521 Z",

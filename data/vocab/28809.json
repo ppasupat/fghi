@@ -9,11 +9,42 @@
 [
 "炉灶",
 6,
-"lúzào",
-"kitchen range; cooking range; stovetop range"
+"lú zào",
+"stove"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"出炉",
+9.58,
+"chū lú",
+"to take out of the furnace; fresh out of the oven; fig. newly announced; recently made available"
+],
+[
+"锅炉",
+8.28,
+"guō lú",
+"boiler"
+],
+[
+"壁炉",
+5.81,
+"bì lú",
+"fireplace"
+],
+[
+"微波炉",
+5.34,
+"wēi bō lú",
+"microwave oven; CL:臺|台[tai2]"
+],
+[
+"炉子",
+5.19,
+"lú zi",
+"stove; oven; furnace"
+]
+],
 "strokes": [
 "M 126 552 Q 135 491 134 429 Q 134 392 165 373 Q 180 363 191 383 Q 201 408 197 440 Q 193 486 176 517 Q 164 547 146 564 Q 137 568 132 566 Q 125 560 126 552 Z",
 "M 327 516 Q 414 583 457 609 Q 473 613 469 623 Q 463 638 446 654 Q 428 670 408 671 Q 395 671 396 653 Q 399 641 391 626 Q 369 595 329 546 C 310 523 303 498 327 516 Z",

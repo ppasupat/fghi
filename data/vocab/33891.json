@@ -7,23 +7,29 @@
 },
 "words": [
 [
-"董事长",
-6,
-"dǒngshìzhǎng",
-"chairman of the board"
-],
-[
 "古董",
 6,
-"gǔdǒng",
-"antique"
+"gǔ dǒng",
+"curio; antique"
+],
+[
+"董事长",
+6,
+"dǒng shì zhǎng",
+"chairman of the board; chairman"
 ]
 ],
 "extraWords": [
 [
+"董事会",
+50.54,
+"dǒng shì huì",
+"board of directors"
+],
+[
 "董事",
 38.84,
-"dong3 shi4",
+"dǒng shì",
 "board member"
 ]
 ],

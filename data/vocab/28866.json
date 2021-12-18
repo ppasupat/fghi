@@ -10,22 +10,35 @@
 "烂",
 5,
 "làn",
-"overcooked; rotten; soft; mushy"
-],
-[
-"灿烂",
-6,
-"cànlàn",
-"to glitter; brilliant; splendid"
+"soft; mushy; well-cooked and soft; to rot; to decompose; rotten; worn out; chaotic; messy; utterly; thoroughly; crappy; bad"
 ],
 [
 "腐烂",
 6,
-"fǔlàn",
-"rot; become gangrenous"
+"fǔ làn",
+"to rot; to putrefy; (fig.) corrupt"
+],
+[
+"灿烂",
+6,
+"càn làn",
+"to glitter; brilliant; splendid"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"烂摊子",
+7.36,
+"làn tān zi",
+"terrible mess; shambles"
+],
+[
+"破烂",
+7.04,
+"pò làn",
+"worn-out; rotten; dilapidated; tattered; ragged; rubbish; junk"
+]
+],
 "strokes": [
 "M 110 556 Q 119 495 118 433 Q 118 396 149 377 Q 164 367 175 387 Q 185 412 181 444 Q 177 490 160 521 Q 148 551 130 568 Q 121 572 116 570 Q 109 564 110 556 Z",
 "M 311 517 Q 393 593 436 621 Q 452 627 447 637 Q 440 650 422 665 Q 403 681 383 680 Q 370 679 373 662 Q 376 649 369 635 Q 350 601 313 551 C 295 527 289 497 311 517 Z",

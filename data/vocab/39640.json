@@ -9,274 +9,418 @@
 [
 "高兴",
 1,
-"gāoxìng",
-"happy; glad"
+"gāo xìng",
+"happy; glad; willing (to do sth); in a cheerful mood"
+],
+[
+"高",
+2,
+"Gāo",
+"surname Gao"
 ],
 [
 "高",
 2,
 "gāo",
-"high; tall (Kangxi radical 189)"
+"high; tall; above average; loud; your (honorific)"
 ],
 [
 "提高",
 3,
-"tígāo",
-"to raise; heighten; improve"
+"tí gāo",
+"to raise; to increase; to improve"
 ],
 [
 "高速公路",
 4,
-"gāosù gōnglù",
-"highway"
-],
-[
-"高档",
-5,
-"gāodàng",
-"top quality; first rate; high class"
+"gāo sù gōng lù",
+"expressway; highway; freeway"
 ],
 [
 "高级",
 5,
-"gāojí",
-"high-level; high-grade; advanced"
+"gāo jí",
+"high level; high grade; advanced; high-ranking"
 ],
 [
-"崇高",
-6,
-"chónggāo",
-"lofty; sublime"
-],
-[
-"高超",
-6,
-"gāochāo",
-"excellent; superb"
+"高档",
+5,
+"gāo dàng",
+"superior quality; high grade; top grade"
 ],
 [
 "高潮",
 6,
-"gāocháo",
-"high tide; upsurge; climax; chorus (of a song)"
-],
-[
-"高峰",
-6,
-"gāofēng",
-"peak; summit; apex"
-],
-[
-"高明",
-6,
-"gāomíng",
-"brilliant; wise"
+"gāo cháo",
+"high tide; high water; upsurge; climax; orgasm; chorus (part of a song)"
 ],
 [
 "高尚",
 6,
-"gāoshàng",
-"nobly; lofty"
+"gāo shàng",
+"noble; lofty; refined; exquisite"
+],
+[
+"高明",
+6,
+"Gāo míng",
+"Gaoming District of Foshan City 佛山市[Fo2 shan1 Shi4], Guangdong"
+],
+[
+"高明",
+6,
+"gāo míng",
+"brilliant; superior; tall and bright"
+],
+[
+"崇高",
+6,
+"chóng gāo",
+"majestic; sublime"
+],
+[
+"高峰",
+6,
+"gāo fēng",
+"peak; summit; height"
+],
+[
+"高超",
+6,
+"gāo chāo",
+"excellent; superlative"
 ],
 [
 "高涨",
 6,
-"gāozhǎng",
-"upsurge; (tensions, etc.) run high"
+"gāo zhǎng",
+"to surge up; to rise; (of tensions etc) to run high"
 ],
 [
 "兴高采烈",
 6,
 "xìng gāo cǎi liè",
-"in high spirits"
+"happy and excited (idiom); in high spirits; in great delight"
 ]
 ],
 "extraWords": [
 [
 "最高",
 147.23,
-"zui4 gao1",
+"zuì gāo",
 "tallest; highest; supreme (court etc)"
 ],
 [
 "高度",
 99.69,
-"gao1 du4",
+"gāo dù",
 "height; altitude; elevation; high degree; highly; CL:個|个[ge4]"
 ],
 [
 "高校",
 66.46,
-"gao1 xiao4",
+"gāo xiào",
 "universities and colleges; abbr. for 高等學校|高等学校"
 ],
 [
 "高中",
 63.34,
-"gao1 zhong1",
+"gāo zhōng",
 "senior high school; abbr. for 高級中學|高级中学[gao1 ji2 zhong1 xue2]"
 ],
 [
 "高中",
 63.34,
-"gao1 zhong4",
+"gāo zhòng",
 "to pass brilliantly (used in congratulatory fashion)"
+],
+[
+"高于",
+52.37,
+"gāo yú",
+"greater than; to exceed"
+],
+[
+"高达",
+52.18,
+"Gāo dá",
+"Gundam, Japanese animation franchise; Jean-Luc Godard (1930-), French-Swiss film director"
+],
+[
+"高达",
+52.18,
+"gāo dá",
+"to attain; to reach up to"
 ],
 [
 "高速",
 49.4,
-"gao1 su4",
+"gāo sù",
 "high speed"
 ],
 [
 "高考",
 44.81,
-"gao1 kao3",
+"gāo kǎo",
 "college entrance exam (especially as abbr. for 普通高等學校招生全國統一考試|普通高等学校招生全国统一考试[Pu3 tong1 Gao1 deng3 Xue2 xiao4 Zhao1 sheng1 Quan2 guo2 Tong3 yi1 Kao3 shi4]); (Tw) entrance exam for senior government service posts (abbr. for 公務人員高等考試|公务人员高等考试)"
 ],
 [
 "高手",
 35.81,
-"gao1 shou3",
+"gāo shǒu",
 "expert; past master; dab hand"
+],
+[
+"高层",
+34.9,
+"gāo céng",
+"high level; high class"
 ],
 [
 "高等",
 34.7,
-"gao1 deng3",
+"gāo děng",
 "high-level; higher (animals, education etc); advanced (math etc)"
 ],
 [
 "身高",
 27.77,
-"shen1 gao1",
+"shēn gāo",
 "(a person's) height"
 ],
 [
 "高科技",
 23.85,
-"gao1 ke1 ji4",
+"gāo kē jì",
 "high tech; high technology"
 ],
 [
 "高效",
 23.05,
-"gao1 xiao4",
+"gāo xiào",
 "efficient; highly effective"
+],
+[
+"升高",
+22.62,
+"shēng gāo",
+"to raise; to ascend"
+],
+[
+"高新技术",
+22.52,
+"gāo xīn jì shù",
+"high tech; high technology"
+],
+[
+"高温",
+21.46,
+"gāo wēn",
+"high temperature"
+],
+[
+"高血压",
+17.99,
+"gāo xuè yā",
+"high blood pressure; hypertension"
 ],
 [
 "高位",
 16.32,
-"gao1 wei4",
+"gāo wèi",
 "high position; eminent status; top job; raised position; upper (limbs); a high (i.e. local maximum); high point on scale, high grade, temperature, latitude etc"
+],
+[
+"高尔夫",
+15.48,
+"gāo ěr fū",
+"golf (loanword)"
 ],
 [
 "增高",
 15.33,
-"zeng1 gao1",
+"zēng gāo",
 "to heighten; to raise; to increase; to rise"
+],
+[
+"过高",
+15.22,
+"guò gāo",
+"too high"
 ],
 [
 "高低",
 14.25,
-"gao1 di1",
+"gāo dī",
 "height; altitude (aviation); pitch (music); ups and downs (success or failure); whether sth is right or wrong; comparative strength, weight, depth, stature; (spoken interjection) anyway, whatever; eventually, in the end"
+],
+[
+"高价",
+13.56,
+"gāo jià",
+"high price"
+],
+[
+"高贵",
+12.46,
+"gāo guì",
+"grandeur; noble"
+],
+[
+"高压",
+11.82,
+"gāo yā",
+"high pressure; high-handed"
 ],
 [
 "高大",
 11.58,
-"gao1 da4",
+"gāo dà",
 "tall; lofty"
 ],
 [
 "高原",
 10.9,
-"gao1 yuan2",
+"gāo yuán",
 "plateau; CL:片[pian4]"
+],
+[
+"高举",
+10.13,
+"gāo jǔ",
+"to lift up; to hold high"
+],
+[
+"高质量",
+9.4,
+"gāo zhì liàng",
+"high quality"
+],
+[
+"高产",
+9.38,
+"gāo chǎn",
+"high yielding"
 ],
 [
 "高跟鞋",
 8.56,
-"gao1 gen1 xie2",
+"gāo gēn xié",
 "high-heeled shoes"
+],
+[
+"高尔夫球",
+8.25,
+"gāo ěr fū qiú",
+"golf; golf ball"
+],
+[
+"高额",
+8.05,
+"gāo é",
+"high quota; large amount"
 ],
 [
 "高山",
 7.86,
-"gao1 shan1",
+"gāo shān",
 "high mountain; alpine"
+],
+[
+"高调",
+7.46,
+"gāo diào",
+"high-sounding speech; bombast; high-profile"
+],
+[
+"高技术",
+7.17,
+"gāo jì shù",
+"high technology; high tech"
 ],
 [
 "高峰期",
 6.89,
-"gao1 feng1 qi1",
+"gāo fēng qī",
 "peak period; rush hour"
 ],
 [
 "高雅",
 6.88,
-"gao1 ya3",
+"gāo yǎ",
 "dainty; elegance; elegant"
 ],
 [
 "高空",
 6.7,
-"gao1 kong1",
+"gāo kōng",
 "high altitude"
+],
+[
+"高龄",
+6.32,
+"gāo líng",
+"elderly"
 ],
 [
 "高官",
 6.25,
-"gao1 guan1",
+"gāo guān",
 "high official"
 ],
 [
 "抬高",
 6.23,
-"tai2 gao1",
+"tái gāo",
 "to raise (price etc)"
 ],
 [
 "最高人民法院",
 6.12,
-"Zui4 gao1 Ren2 min2 Fa3 yuan4",
+"Zuì gāo Rén mín Fǎ yuàn",
 "Supreme People's Court (PRC)"
 ],
 [
 "高中生",
 5.78,
-"gao1 zhong1 sheng1",
+"gāo zhōng shēng",
 "senior high school student"
 ],
 [
 "高分",
 5.66,
-"gao1 fen1",
+"gāo fēn",
 "high marks; high score"
 ],
 [
 "高昂",
 5.62,
-"gao1 ang2",
+"gāo áng",
 "to hold (one's head) high; expensive; high (spirits etc)"
 ],
 [
 "高清",
 5.6,
-"gao1 qing1",
+"gāo qīng",
 "high definition (television etc); high fidelity (audio)"
 ],
 [
 "高性能",
 5.16,
-"gao1 xing4 neng2",
+"gāo xìng néng",
 "high performance"
 ],
 [
 "居高不下",
 5.13,
-"ju1 gao1 bu4 xia4",
+"jū gāo bù xià",
 "(of prices, rates etc) to remain high"
+],
+[
+"高楼",
+5.13,
+"gāo lóu",
+"high building; multistory building; skyscraper; CL:座[zuo4]"
 ]
 ],
 "strokes": [

@@ -9,117 +9,135 @@
 [
 "希望",
 2,
-"xīwàng",
-"to hope; wish for; to desire"
+"xī wàng",
+"to wish for; to desire; hope; CL:個|个[ge4]"
 ],
 [
 "失望",
 4,
-"shīwàng",
-"disappointed; lose hope"
-],
-[
-"看望",
-5,
-"kànwàng",
-"visit; call on; see"
-],
-[
-"盼望",
-5,
-"pànwàng",
-"to hope for; look forward to"
+"shī wàng",
+"disappointed; to lose hope; to despair"
 ],
 [
 "愿望",
 5,
-"yuànwàng",
-"desire; wish; aspiration"
+"yuàn wàng",
+"desire; wish"
 ],
 [
-"东张西望",
+"看望",
+5,
+"kàn wàng",
+"to visit; to pay a call to"
+],
+[
+"盼望",
+5,
+"pàn wàng",
+"to hope for; to look forward to"
+],
+[
+"指望",
 6,
-"dōngzhāngxīwàng",
-"look in all directions; glance around"
+"zhǐ wàng",
+"to hope for sth; to count on; hope"
+],
+[
+"渴望",
+6,
+"kě wàng",
+"to thirst for; to long for"
+],
+[
+"期望",
+6,
+"qī wàng",
+"to have expectations; to earnestly hope; expectation; hope"
 ],
 [
 "绝望",
 6,
 "jué wàng",
-"desperation; forlorn; hopeless"
-],
-[
-"渴望",
-6,
-"kěwàng",
-"wishful; to yearn for; desire"
-],
-[
-"期望",
-6,
-"qīwàng",
-"hope; expectation"
-],
-[
-"探望",
-6,
-"tànwàng",
-"pay a visit; look around"
-],
-[
-"威望",
-6,
-"wēiwàng",
-"prestige"
+"to despair; to give up all hope; desperate; desperation"
 ],
 [
 "欲望",
 6,
-"yùwàng",
-"desire; lust"
+"yù wàng",
+"desire; longing; appetite; craving"
+],
+[
+"探望",
+6,
+"tàn wàng",
+"to visit; to call on sb; to look around"
 ],
 [
 "展望",
 6,
-"zhǎnwàng",
-"outlook; prospect; to look ahead; look forward to"
+"zhǎn wàng",
+"outlook; prospect; to look ahead; to look forward to"
 ],
 [
-"指望",
+"威望",
 6,
-"zhǐwàng",
-"hope for; count on; hope"
+"wēi wàng",
+"prestige"
+],
+[
+"东张西望",
+6,
+"dōng zhāng xī wàng",
+"to look in all directions (idiom); to glance around"
 ]
 ],
 "extraWords": [
 [
 "有望",
 37.71,
-"you3 wang4",
+"yǒu wàng",
 "hopeful; promising"
+],
+[
+"观望",
+16.82,
+"guān wàng",
+"to wait and see; to watch from the sidelines; to look around; to survey"
 ],
 [
 "有希望",
 8.98,
-"you3 xi1 wang4",
+"yǒu xī wàng",
 "hopeful; promising; prospective"
 ],
 [
 "奢望",
 6.25,
-"she1 wang4",
+"shē wàng",
 "an extravagant hope; to have excessive expectations"
+],
+[
+"望远镜",
+6.08,
+"wàng yuǎn jìng",
+"binoculars; telescope; CL:付[fu4],副[fu4],部[bu4]"
 ],
 [
 "可望",
 5.91,
-"ke3 wang4",
+"kě wàng",
 "can be expected (to); to be expected (to); hopefully (happening)"
+],
+[
+"声望",
+5.65,
+"shēng wàng",
+"popularity; prestige"
 ],
 [
 "仰望",
 5.57,
-"yang3 wang4",
+"yǎng wàng",
 "to look up at; to look up to sb hopefully"
 ]
 ],

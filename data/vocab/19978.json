@@ -9,50 +9,86 @@
 [
 "上",
 1,
+"shǎng",
+"used in 上聲|上声[shang3 sheng1]"
+],
+[
+"上",
+1,
 "shàng",
-"above; up"
+"on top; upon; above; upper; previous; first (of multiple parts); to climb; to get onto; to go up; to attend (class or university)"
 ],
 [
 "上午",
 1,
-"shàngwǔ",
-"late morning (before noon)"
-],
-[
-"上班",
-2,
-"shàngbān",
-"go to work; be on duty"
+"shàng wǔ",
+"morning; CL:個|个[ge4]"
 ],
 [
 "晚上",
 2,
-"wǎnshang",
-"evening; night"
+"wǎn shang",
+"evening; night; CL:個|个[ge4]; in the evening"
 ],
 [
 "早上",
 2,
-"zǎoshang",
-"(early) morning"
+"zǎo shang",
+"early morning; CL:個|个[ge4]"
+],
+[
+"上班",
+2,
+"shàng bān",
+"to go to work; to be on duty; to start work; to go to the office"
 ],
 [
 "马上",
 3,
-"mǎshàng",
-"at once; immediately; right away"
+"mǎ shàng",
+"at once; right away; immediately; on horseback (i.e. by military force)"
 ],
 [
 "上网",
 3,
-"shàngwǎng",
-"to surf the web; to go online"
+"shàng wǎng",
+"to go online; to connect to the Internet; (of a document etc) to be uploaded to the Internet; (tennis, volleyball etc) to move in close to the net"
 ],
 [
 "上当",
 5,
 "shàng dàng",
-"be fooled; be duped; be taken in"
+"taken in (by sb's deceit); to be fooled; to be duped"
+],
+[
+"上瘾",
+6,
+"shàng yǐn",
+"to get into a habit; to become addicted"
+],
+[
+"上级",
+6,
+"shàng jí",
+"higher authorities; superiors; CL:個|个[ge4]"
+],
+[
+"上任",
+6,
+"shàng rèn",
+"to take office; previous (incumbent); predecessor"
+],
+[
+"上游",
+6,
+"shàng yóu",
+"upper reaches (of a river); upper level; upper echelon; upstream"
+],
+[
+"雪上加霜",
+6,
+"xuě shàng jiā shuāng",
+"(idiom) to make matters even worse; to add insult to injury"
 ],
 [
 "不相上下",
@@ -63,435 +99,669 @@
 [
 "锦上添花",
 6,
-"jǐnshàngtiānhuā",
-"lit. on brocade, add flowers (idiom); to decorate sth already perfect / gilding the lily"
-],
-[
-"上级",
-6,
-"shàngjí",
-"higher authorities; superiors"
+"jǐn shàng tiān huā",
+"lit. add flowers to brocade (idiom); fig. to give sth additional splendor; to provide the crowning touch; (derog.) to benefit sb who is already well off"
 ],
 [
 "上进",
 6,
-"shàngjìn",
-"make forward progress; do better"
-],
-[
-"上任",
-6,
-"shàng rèn",
-"take office"
-],
-[
-"上瘾",
-6,
-"shàngyǐn",
-"become addicted; get into a habit"
-],
-[
-"上游",
-6,
-"shàngyóu",
-"upper reaches (of a river); advanced position"
-],
-[
-"雪上加霜",
-6,
-"xuěshàngjiāshuāng",
-"(literally) add frost to snow; one disaster after another; insult added to injury"
+"shàng jìn",
+"to make progress; to do better; fig. ambitious to improve oneself; to move forwards"
 ]
 ],
 "extraWords": [
 [
 "上帝",
 435.37,
-"Shang4 di4",
+"Shàng dì",
 "God"
 ],
 [
 "上海",
 364.48,
-"Shang4 hai3",
+"Shàng hǎi",
 "Shanghai municipality, central east China, abbr. to 滬|沪[Hu4]"
 ],
 [
 "以上",
 297.61,
-"yi3 shang4",
+"yǐ shàng",
 "that level or higher; that amount or more; the above-mentioned; (used to indicate that one has completed one's remarks) That is all."
 ],
 [
 "身上",
 215.46,
-"shen1 shang5",
+"shēn shang",
 "on the body; at hand; among"
 ],
 [
 "上市",
 202.39,
-"shang4 shi4",
+"shàng shì",
 "to hit the market (of a new product); to float (a company on the stock market)"
 ],
 [
 "看上去",
 165.92,
-"kan4 shang5 qu5",
+"kàn shang qu",
 "it would appear; it seems (that)"
+],
+[
+"事实上",
+162.79,
+"shì shí shàng",
+"in fact; in reality; actually; as a matter of fact; de facto; ipso facto"
 ],
 [
 "上面",
 159.87,
-"shang4 mian4",
+"shàng miàn",
 "on top of; above-mentioned; also pr. [shang4 mian5]"
+],
+[
+"实际上",
+131.46,
+"shí jì shàng",
+"in fact; in reality; as a matter of fact; in practice"
+],
+[
+"上涨",
+121.98,
+"shàng zhǎng",
+"to rise; to go up"
+],
+[
+"上升",
+106.76,
+"shàng shēng",
+"to rise; to go up; to ascend"
 ],
 [
 "加上",
 93.66,
-"jia1 shang4",
+"jiā shàng",
 "plus; to put in; to add; to add on; to add into; in addition; on top of that"
 ],
 [
 "上述",
 91.98,
-"shang4 shu4",
+"shàng shù",
 "aforementioned; above-mentioned"
 ],
 [
 "路上",
 71.51,
-"lu4 shang5",
+"lù shang",
 "on the road; on a journey; road surface"
 ],
 [
 "上去",
 58.81,
-"shang4 qu4",
+"shàng qù",
 "to go up"
+],
+[
+"上来",
+52.83,
+"shàng lái",
+"to come up; to approach; (verb complement indicating success)"
 ],
 [
 "地上",
 49.94,
-"di4 shang5",
+"dì shang",
 "on the ground; on the floor"
 ],
 [
 "上次",
 49.84,
-"shang4 ci4",
+"shàng cì",
 "last time"
+],
+[
+"爱上",
+46.86,
+"ài shàng",
+"to fall in love with; to be in love with"
 ],
 [
 "上周",
 46.26,
-"shang4 zhou1",
+"shàng zhōu",
 "last week"
 ],
 [
 "上下",
 44.84,
-"shang4 xia4",
+"shàng xià",
 "up and down; top and bottom; old and new; length; about"
 ],
 [
 "基本上",
 44.37,
-"ji1 ben3 shang5",
+"jī běn shang",
 "basically; on the whole"
 ],
 [
 "上校",
 41.58,
-"shang4 xiao4",
+"shàng xiào",
 "high ranking officer in Chinese army; colonel"
 ],
 [
 "街上",
 41.2,
-"jie1 shang5",
+"jiē shang",
 "on the street; in town"
+],
+[
+"上课",
+37.89,
+"shàng kè",
+"to go to class; to attend class; to go to teach a class"
 ],
 [
 "上半年",
 37.48,
-"shang4 ban4 nian2",
+"shàng bàn nián",
 "first half (of a year)"
+],
+[
+"上学",
+36.99,
+"shàng xué",
+"to go to school; to attend school"
+],
+[
+"历史上",
+36.48,
+"lì shǐ shàng",
+"historical; in history"
 ],
 [
 "上尉",
 35.03,
-"shang4 wei4",
+"shàng wèi",
 "captain (military rank)"
 ],
 [
 "世上",
 34.91,
-"shi4 shang4",
+"shì shàng",
 "on earth"
 ],
 [
 "之上",
 29.95,
-"zhi1 shang4",
+"zhī shàng",
 "above"
 ],
 [
 "上年",
 29.8,
-"shang4 nian2",
+"shàng nián",
 "last year"
 ],
 [
 "上海市",
 29.12,
-"Shang4 hai3 shi4",
+"Shàng hǎi shì",
 "Shanghai municipality in southeast China, abbr. 滬|沪"
+],
+[
+"网上",
+29.0,
+"wǎng shàng",
+"online"
+],
+[
+"楼上",
+28.44,
+"lóu shàng",
+"upstairs; (Internet slang) previous poster in a forum thread"
 ],
 [
 "向上",
 27.25,
-"xiang4 shang4",
+"xiàng shàng",
 "upward; up; to advance; to try to improve oneself; to make progress"
+],
+[
+"台上",
+26.68,
+"tái shàng",
+"on stage"
 ],
 [
 "上演",
 24.14,
-"shang4 yan3",
+"shàng yǎn",
 "to screen (a movie); to stage (a play); a screening; a staging"
+],
+[
+"关上",
+21.37,
+"guān shàng",
+"to close (a door); to turn off (light, electrical equipment etc)"
 ],
 [
 "海上",
 21.09,
-"hai3 shang4",
+"hǎi shàng",
 "maritime"
+],
+[
+"赶上",
+20.63,
+"gǎn shàng",
+"to keep up with; to catch up with; to overtake; to chance upon; in time for"
 ],
 [
 "上司",
 19.7,
-"shang4 si5",
+"shàng si",
 "boss; superior"
+],
+[
+"上场",
+19.32,
+"shàng chǎng",
+"on stage; to go on stage; to take the field"
+],
+[
+"上调",
+19.15,
+"shàng tiáo",
+"to raise (prices); to adjust upwards"
 ],
 [
 "上前",
 17.97,
-"shang4 qian2",
+"shàng qián",
 "to advance; to step forward"
 ],
 [
 "穿上",
 17.7,
-"chuan1 shang5",
+"chuān shang",
 "to put on (clothes etc)"
 ],
 [
 "登上",
 17.4,
-"deng1 shang4",
+"dēng shàng",
 "to climb over; to ascend onto; to mount"
 ],
 [
 "皇上",
 16.82,
-"huang2 shang5",
+"huáng shang",
 "the emperor; Your majesty the emperor; His imperial majesty"
+],
+[
+"上扬",
+16.73,
+"shàng yáng",
+"to rise (i.e. number increases); a price rise; to raise"
+],
+[
+"上车",
+16.6,
+"shàng chē",
+"to get on or into (a bus, train, car etc)"
 ],
 [
 "上映",
 16.19,
-"shang4 ying4",
+"shàng yìng",
 "to show (a movie); to screen"
 ],
 [
 "上方",
 15.99,
-"shang4 fang1",
+"shàng fāng",
 "place above (it); upper part (of it)"
+],
+[
+"上门",
+14.84,
+"shàng mén",
+"to drop in; to visit; to lock a door; (of a shop) to close; to go and live with one's wife's family, in effect becoming a member of her family"
 ],
 [
 "上台",
 14.7,
-"shang4 tai2",
+"shàng tái",
 "to rise to power (in politics); to go on stage (in the theater)"
 ],
 [
 "上月",
 13.27,
-"shang4 yue4",
+"shàng yuè",
 "last month"
 ],
 [
 "天上",
 13.27,
-"tian1 shang4",
+"tiān shàng",
 "celestial; heavenly"
 ],
 [
 "山上",
 13.12,
-"Shan1 shang4",
+"Shān shàng",
 "Shanshang township in Tainan county 台南縣|台南县[Tai2 nan2 xian4], Taiwan"
+],
+[
+"上诉",
+12.12,
+"shàng sù",
+"to appeal (a judicial case); appeal"
+],
+[
+"上报",
+11.84,
+"shàng bào",
+"to report to one's superiors; to appear in the news; to reply to a letter"
 ],
 [
 "上行",
 11.35,
-"shang4 xing2",
+"shàng xíng",
 "(of trains) up (i.e. towards the capital); (of river boats) to go against the current; to submit (a document) to higher authorities"
 ],
 [
 "上衣",
 11.12,
-"shang4 yi1",
+"shàng yī",
 "jacket; upper outer garment; CL:件[jian4]"
 ],
 [
 "上空",
 11.02,
-"shang4 kong1",
+"shàng kōng",
 "overhead; in the sky"
+],
+[
+"上线",
+10.9,
+"shàng xiàn",
+"to go online; to put sth online"
 ],
 [
 "上天",
 10.63,
-"shang4 tian1",
+"shàng tiān",
 "Heaven; Providence; God; the day before; the sky above; to fly to the sky; to take off and fly into space; to die; to pass away"
+],
+[
+"成千上万",
+10.4,
+"chéng qiān shàng wàn",
+"lit. by the thousands and tens of thousands (idiom); untold numbers; innumerable; thousands upon thousands"
 ],
 [
 "碰上",
 10.34,
-"peng4 shang4",
+"pèng shàng",
 "to run into; to come upon; to meet"
+],
+[
+"闭上",
+10.05,
+"bì shang",
+"to close; to shut up"
+],
+[
+"上将",
+9.33,
+"shàng jiàng",
+"general; admiral; air chief marshal"
+],
+[
+"上岗",
+9.25,
+"shàng gǎng",
+"to take up one's post; to be given a job"
 ],
 [
 "上皮",
 9.21,
-"shang4 pi2",
+"shàng pí",
 "epithelium"
 ],
 [
 "跟上",
 9.14,
-"gen1 shang4",
+"gēn shàng",
 "to catch up with; to keep pace with"
 ],
 [
 "上路",
 9.05,
-"shang4 lu4",
+"shàng lù",
 "to start on a journey; to be on one's way"
 ],
 [
 "上床",
 8.94,
-"shang4 chuang2",
+"shàng chuáng",
 "to go to bed; (coll.) to have sex"
 ],
 [
 "戴上",
 8.75,
-"dai4 shang5",
+"dài shang",
 "to put on (hat etc)"
 ],
 [
 "水上",
 8.54,
-"Shui3 shang4",
-"Shuishang township in Chiayi county 嘉義縣|嘉义县[Jia1 yi4 xian4], west Taiwan"
+"Shuǐ shàng",
+"Shuishang Township in Chiayi County 嘉義縣|嘉义县[Jia1 yi4 Xian4], west Taiwan"
 ],
 [
 "水上",
 8.54,
-"shui3 shang4",
+"shuǐ shàng",
 "on water; aquatic"
 ],
 [
 "上限",
 8.5,
-"shang4 xian4",
+"shàng xiàn",
 "upper bound"
 ],
 [
 "考上",
 8.49,
-"kao3 shang4",
+"kǎo shàng",
 "to pass a university entrance exam"
+],
+[
+"一路上",
+8.42,
+"yī lù shàng",
+"along the way; the whole way; (fig.) the whole time"
 ],
 [
 "上山",
 7.91,
-"shang4 shan1",
+"shàng shān",
 "to go uphill; to spin cocoon (silkworms); to pass away"
+],
+[
+"上个月",
+7.87,
+"shàng gè yuè",
+"last month"
+],
+[
+"上万",
+7.86,
+"shàng wàn",
+"over ten thousand; fig. untold numbers; innumerable; thousands upon thousands"
 ],
 [
 "上旬",
 7.58,
-"shang4 xun2",
+"shàng xún",
 "first third of a month"
+],
+[
+"上钩",
+7.24,
+"shàng gōu",
+"to take the bait"
 ],
 [
 "上身",
 7.23,
-"shang4 shen1",
+"shàng shēn",
 "upper part of the body"
+],
+[
+"上楼",
+7.06,
+"shàng lóu",
+"to go upstairs"
+],
+[
+"原则上",
+7.06,
+"yuán zé shang",
+"in principle; generally"
+],
+[
+"肾上腺",
+7.04,
+"shèn shàng xiàn",
+"adrenal glands"
+],
+[
+"上海证券交易所",
+6.75,
+"Shàng hǎi Zhèng quàn Jiāo yì suǒ",
+"Shanghai Stock Exchange (SSE)"
 ],
 [
 "上榜",
 6.75,
-"shang4 bang3",
+"shàng bǎng",
 "to appear on the public roll of successful examinees (i.e. pass an exam); to make the list; (of a song) to hit the charts"
 ],
 [
 "追上",
 6.2,
-"zhui1 shang4",
+"zhuī shàng",
 "to overtake"
 ],
 [
 "上街",
 6.05,
-"shang4 jie1",
+"shàng jiē",
 "to go onto the streets; to go shopping"
 ],
 [
 "上星期",
 5.99,
-"shang4 xing1 qi1",
+"shàng xīng qī",
 "last week; previous week"
+],
+[
+"上头",
+5.96,
+"shàng tóu",
+"(of alcohol) to go to one's head; (old) (of a bride-to-be) to bind one's hair into a bun; (of a prostitute) to receive a patron for the first time"
+],
+[
+"上头",
+5.96,
+"shàng tou",
+"above; on top of; on the surface of"
+],
+[
+"本质上",
+5.88,
+"běn zhì shàng",
+"essentially; inherent"
 ],
 [
 "上火",
 5.73,
-"shang4 huo3",
+"shàng huǒ",
 "to get angry; to suffer from excessive internal heat (TCM)"
+],
+[
+"上访",
+5.67,
+"shàng fǎng",
+"to seek an audience with higher-ups (esp. government officials) to petition for sth"
 ],
 [
 "跟不上",
 5.58,
-"gen1 bu5 shang4",
+"gēn bu shàng",
 "not able to keep up with"
+],
+[
+"上马",
+5.54,
+"shàng mǎ",
+"to get on a horse; to mount"
+],
+[
+"上缴",
+5.49,
+"shàng jiǎo",
+"to transfer (income, profits etc) to higher authorities"
+],
+[
+"上阵",
+5.45,
+"shàng zhèn",
+"to go into battle"
+],
+[
+"献上",
+5.41,
+"xiàn shàng",
+"to offer to God"
+],
+[
+"实质上",
+5.37,
+"shí zhì shàng",
+"virtually; essentially"
 ],
 [
 "上交",
 5.29,
-"shang4 jiao1",
+"shàng jiāo",
 "to hand over to; to give to higher authority; to seek connections in high places"
 ],
 [
 "比不上",
 5.19,
-"bi3 bu4 shang4",
+"bǐ bù shàng",
 "can't compare with"
 ],
 [
 "至上",
 5.14,
-"zhi4 shang4",
+"zhì shàng",
 "supreme; paramount; above all else"
+],
+[
+"上层",
+5.13,
+"shàng céng",
+"upper layer"
 ],
 [
 "看上",
 5.01,
-"kan4 shang4",
+"kàn shàng",
 "to look upon; to take a fancy to; to fall for"
 ]
 ],

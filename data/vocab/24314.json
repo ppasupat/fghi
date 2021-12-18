@@ -9,111 +9,159 @@
 [
 "建议",
 4,
-"jiànyì",
-"to propose; to suggest; recommend"
+"jiàn yì",
+"to propose; to suggest; to recommend; proposal; suggestion; recommendation; CL:個|个[ge4],點|点[dian3]"
 ],
 [
 "建立",
 5,
-"jiànlì",
-"establish; to construct; to set up"
-],
-[
-"建设",
-5,
-"jiànshè",
-"to build; to construct; construction"
+"jiàn lì",
+"to establish; to set up; to found"
 ],
 [
 "建筑",
 5,
-"jiànzhù",
-"a building; to construct; architecture"
+"jiàn zhù",
+"to construct; building; CL:個|个[ge4]"
 ],
 [
-"封建",
-6,
-"fēngjiàn",
-"feudal; feudalism"
+"建设",
+5,
+"jiàn shè",
+"to build; to construct; construction; constructive"
 ],
 [
 "修建",
 6,
-"xiūjiàn",
-"to build; to construct; renovate"
+"xiū jiàn",
+"to build; to construct"
+],
+[
+"封建",
+6,
+"fēng jiàn",
+"system of enfeoffment; feudalism; feudal; feudalistic"
 ]
 ],
 "extraWords": [
 [
 "建成",
 55.15,
-"jian4 cheng2",
+"jiàn chéng",
 "to establish; to build"
 ],
 [
 "福建",
 34.73,
-"Fu2 jian4",
+"Fú jiàn",
 "Fujian province (Fukien) in east China, abbr. 福 or 閩|闽, capital Fuzhou 福州; Fujian province (Fukien) in Taiwan"
+],
+[
+"构建",
+33.82,
+"gòu jiàn",
+"to construct (sth abstract)"
 ],
 [
 "建造",
 30.19,
-"jian4 zao4",
+"jiàn zào",
 "to construct; to build"
+],
+[
+"组建",
+29.9,
+"zǔ jiàn",
+"to organize; to set up; to establish"
+],
+[
+"创建",
+29.11,
+"chuàng jiàn",
+"to found; to establish"
 ],
 [
 "新建",
 25.36,
-"Xin1 jian4",
+"Xīn jiàn",
 "Xinjian county in Nanchang 南昌, Jiangxi"
 ],
 [
 "新建",
 25.36,
-"xin1 jian4",
+"xīn jiàn",
 "new construction; newly built"
 ],
 [
 "重建",
 19.06,
-"chong2 jian4",
+"chóng jiàn",
 "to rebuild; to reestablish; reconstruction; rebuilding"
 ],
 [
 "建材",
 17.64,
-"jian4 cai2",
+"jiàn cái",
 "building materials"
 ],
 [
 "福建省",
 13.8,
-"Fu2 jian4 sheng3",
+"Fú jiàn shěng",
 "Fujian province (Fukien) in east China, abbr. 閩|闽, capital Fuzhou 福州; Fujian province (Fukien) in Taiwan"
+],
+[
+"建筑物",
+12.88,
+"jiàn zhù wù",
+"building; structure; edifice"
+],
+[
+"扩建",
+12.23,
+"kuò jiàn",
+"to extend (a building, an airport runway etc)"
+],
+[
+"兴建",
+11.88,
+"xīng jiàn",
+"to build; to construct"
 ],
 [
 "搭建",
 11.27,
-"da1 jian4",
+"dā jiàn",
 "to build (esp. with simple materials); to knock together (a temporary shed); to rig up"
 ],
 [
 "建行",
 10.4,
-"Jian4 hang2",
+"Jiàn háng",
 "China Construction Bank (abbr.)"
 ],
 [
 "改建",
 7.32,
-"gai3 jian4",
+"gǎi jiàn",
 "to rebuild; to transform (a building); to refurbish"
+],
+[
+"筹建",
+6.14,
+"chóu jiàn",
+"to prepare to build sth"
+],
+[
+"建筑师",
+5.93,
+"jiàn zhù shī",
+"architect"
 ],
 [
 "基建",
 5.28,
-"ji1 jian4",
+"jī jiàn",
 "capital construction (project); infrastructure"
 ]
 ],

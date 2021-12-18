@@ -7,19 +7,38 @@
 },
 "words": [
 [
-"遥控",
-6,
-"yáokòng",
-"remote control"
-],
-[
 "遥远",
 6,
-"yáoyuǎn",
+"yáo yuǎn",
 "distant; remote"
+],
+[
+"遥控",
+6,
+"yáo kòng",
+"remote control"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"逍遥法外",
+9.54,
+"xiāo yáo fǎ wài",
+"unfettered and beyond the law (idiom); evading retribution; getting away with it (e.g. crimes); still at large"
+],
+[
+"逍遥",
+6.28,
+"xiāo yáo",
+"free and unfettered"
+],
+[
+"遥控器",
+5.63,
+"yáo kòng qì",
+"remote control"
+]
+],
 "strokes": [
 "M 607 806 Q 571 770 429 703 Q 425 694 429 692 Q 481 692 607 749 Q 635 767 698 780 Q 713 781 716 788 Q 720 798 709 807 Q 655 846 626 841 Q 619 837 619 828 Q 619 815 607 806 Z",
 "M 428 617 Q 446 599 464 578 Q 474 566 488 566 Q 497 566 501 577 Q 505 589 500 613 Q 493 637 426 657 Q 413 661 408 659 Q 404 656 404 645 Q 407 635 428 617 Z",

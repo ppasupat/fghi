@@ -9,35 +9,120 @@
 [
 "上网",
 3,
-"shàngwǎng",
-"to surf the web; to go online"
-],
-[
-"互联网",
-4,
-"Hùliánwǎng",
-"Internet"
-],
-[
-"网球",
-4,
-"wǎngqiú",
-"tennis; tennis ball"
+"shàng wǎng",
+"to go online; to connect to the Internet; (of a document etc) to be uploaded to the Internet; (tennis, volleyball etc) to move in close to the net"
 ],
 [
 "网站",
 4,
-"wǎngzhàn",
-"website"
+"wǎng zhàn",
+"website; network station; node"
+],
+[
+"网球",
+4,
+"wǎng qiú",
+"tennis; tennis ball; CL:個|个[ge4]"
+],
+[
+"互联网",
+4,
+"Hù lián wǎng",
+"Internet"
 ],
 [
 "网络",
 5,
-"wǎngluò",
-"network"
+"Wǎng luò",
+"Internet"
+],
+[
+"网络",
+5,
+"wǎng luò",
+"network (computing, telecommunications, transport etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"新华网",
+39.55,
+"Xīn huá Wǎng",
+"Xinhua News Network"
+],
+[
+"网上",
+29.0,
+"wǎng shàng",
+"online"
+],
+[
+"中新网",
+23.63,
+"Zhōng xīn wǎng",
+"ChinaNews (China News Service)"
+],
+[
+"网吧",
+21.32,
+"wǎng bā",
+"Internet café"
+],
+[
+"网点",
+18.73,
+"wǎng diǎn",
+"(computing) node in a network; (commerce) sales outlet; branch; service center; (illustration) screentone; halftone dot"
+],
+[
+"网民",
+15.87,
+"wǎng mín",
+"web user; netizen"
+],
+[
+"电网",
+14.84,
+"diàn wǎng",
+"electrical network"
+],
+[
+"联网",
+8.52,
+"lián wǎng",
+"network; cyber-"
+],
+[
+"视网膜",
+7.92,
+"shì wǎng mó",
+"retina"
+],
+[
+"网易",
+7.87,
+"Wǎng yì",
+"NetEase"
+],
+[
+"网卡",
+6.51,
+"wǎng kǎ",
+"network adapter card (computing)"
+],
+[
+"法网",
+5.1,
+"Fǎ wǎng",
+"French Open (tennis tournament)"
+],
+[
+"法网",
+5.1,
+"fǎ wǎng",
+"the net of justice; rigorous process of the law; the long arm of the law"
+]
+],
 "strokes": [
 "M 266 678 Q 241 699 212 708 Q 202 711 194 701 Q 190 694 199 682 Q 226 616 226 544 Q 232 259 188 121 Q 178 93 184 70 Q 194 33 207 17 Q 220 2 230 18 Q 267 57 268 275 Q 268 533 280 634 C 283 664 283 665 266 678 Z",
 "M 280 634 Q 287 634 295 635 Q 476 672 695 696 Q 722 700 734 685 Q 749 676 755 609 Q 773 383 762 126 Q 762 87 748 77 Q 729 64 635 83 Q 616 86 618 75 Q 619 68 635 61 Q 719 13 764 -26 Q 788 -47 801 -43 Q 814 -39 826 -8 Q 842 43 838 115 Q 805 613 829 663 Q 842 687 831 700 Q 819 716 768 742 Q 746 752 725 748 Q 563 700 266 678 C 236 676 250 629 280 634 Z",

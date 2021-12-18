@@ -9,41 +9,66 @@
 [
 "维修",
 5,
-"wéixiū",
-"maintain (of equipment); to mend; repair"
-],
-[
-"思维",
-6,
-"sīwéi",
-"(line) of thought; thinking"
+"wéi xiū",
+"maintenance (of equipment); to protect and maintain"
 ],
 [
 "维持",
 6,
-"wéichí",
-"maintain; preserve"
+"wéi chí",
+"to keep; to maintain; to preserve"
 ],
 [
 "维护",
 6,
-"wéihù",
-"defend; to safeguard; defense; maintain"
+"wéi hù",
+"to defend; to safeguard; to protect; to uphold; to maintain"
 ],
 [
-"维生素",
+"思维",
 6,
-"wéishēngsù",
-"vitamin"
+"sī wéi",
+"(line of) thought; thinking"
 ],
 [
 "纤维",
 6,
-"xiānwéi",
-"fiber"
+"xiān wéi",
+"fiber; CL:種|种[zhong3]"
+],
+[
+"维生素",
+6,
+"wéi shēng sù",
+"vitamin"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"拉斯维加斯",
+17.32,
+"Lā sī Wéi jiā sī",
+"Las Vegas, Nevada"
+],
+[
+"戴维",
+10.76,
+"Dài wéi",
+"Davy; Davey; Davie; David"
+],
+[
+"维多利亚",
+9.42,
+"Wéi duō lì yà",
+"Victoria (name); Victoria, capital of the Seychelles"
+],
+[
+"三维",
+6.88,
+"sān wéi",
+"three-dimensional; 3D"
+]
+],
 "strokes": [
 "M 314 509 Q 265 510 225 510 Q 189 510 208 532 Q 275 647 341 733 Q 354 749 352 758 Q 349 771 311 803 Q 295 816 276 812 Q 266 809 271 794 Q 289 755 202 591 Q 183 555 144 519 Q 125 506 127 493 Q 131 474 145 457 Q 155 445 168 453 Q 193 466 279 482 Q 288 483 296 483 C 326 485 344 508 314 509 Z",
 "M 296 483 Q 191 339 169 328 Q 156 319 160 306 Q 161 293 186 276 Q 196 266 210 277 Q 276 328 388 367 Q 406 373 407 381 Q 408 391 391 387 Q 327 372 249 345 Q 228 336 241 355 Q 376 547 437 599 Q 449 609 443 618 Q 433 636 401 654 Q 386 663 377 660 Q 368 656 370 642 Q 373 603 314 509 L 296 483 Z",

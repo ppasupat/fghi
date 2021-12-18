@@ -10,82 +10,173 @@
 "爱",
 1,
 "ài",
-"love"
-],
-[
-"爱好",
-3,
-"àihào",
-"hobby; fond of; to like; interest"
+"to love; to be fond of; to like; affection; to be inclined (to do sth); to tend to (happen)"
 ],
 [
 "可爱",
 3,
-"kě'ài",
-"cute; lovely"
+"kě ài",
+"adorable; cute; lovely"
+],
+[
+"爱好",
+3,
+"ài hào",
+"to like; to take pleasure in; keen on; fond of; interest; hobby; appetite for; CL:個|个[ge4]"
 ],
 [
 "爱情",
 4,
-"àiqíng",
-"(romantic) love"
-],
-[
-"爱护",
-5,
-"àihù",
-"cherish; reassure; take good care of"
-],
-[
-"爱惜",
-5,
-"àixī",
-"cherish; treasure; use sparingly"
-],
-[
-"爱心",
-5,
-"àixīn",
-"compassion"
-],
-[
-"恋爱",
-5,
-"liàn'ài",
-"romantic love; be in love; love affair"
+"ài qíng",
+"romance; love (romantic); CL:個|个[ge4],份[fen4]"
 ],
 [
 "亲爱",
 5,
-"qīn'ài",
-"beloved; Dear ... (a way of starting a letter lovers, intimate friends or close relatives)"
+"qīn ài",
+"dear; beloved; darling"
+],
+[
+"恋爱",
+5,
+"liàn ài",
+"(romantic) love; CL:個|个[ge4],場|场[chang3]; in love; to have an affair"
 ],
 [
 "热爱",
 5,
-"rè'ài",
-"love ardently; adore; passion"
+"rè ài",
+"to love ardently; to adore"
+],
+[
+"爱心",
+5,
+"ài xīn",
+"compassion; kindness; care for others; love; CL:片[pian4]; charity (bazaar, golf day etc); heart (the symbol ♥)"
+],
+[
+"爱护",
+5,
+"ài hù",
+"to cherish; to treasure; to take care of; to love and protect"
 ],
 [
 "疼爱",
 5,
 "téng ài",
-"love dearly; be very fond of"
+"to love dearly"
 ],
 [
-"爱不释手",
-6,
-"àibúshìshǒu",
-"love something too much to part with it"
+"爱惜",
+5,
+"ài xī",
+"to cherish; to treasure; to use sparingly"
 ],
 [
 "爱戴",
 6,
-"àidài",
-"love and respect"
+"ài dài",
+"to love and respect; love and respect"
+],
+[
+"爱不释手",
+6,
+"ài bù shì shǒu",
+"to love sth too much to part with it (idiom); to fondle admiringly"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"爱上",
+46.86,
+"ài shàng",
+"to fall in love with; to be in love with"
+],
+[
+"做爱",
+30.35,
+"zuò ài",
+"to make love"
+],
+[
+"喜爱",
+26.59,
+"xǐ ài",
+"to like; to love; to be fond of; favorite"
+],
+[
+"爱人",
+24.16,
+"ài ren",
+"spouse (PRC); lover (non-PRC); CL:個|个[ge4]"
+],
+[
+"爱尔兰",
+22.86,
+"Ài ěr lán",
+"Ireland"
+],
+[
+"性爱",
+19.23,
+"xìng ài",
+"sex; lovemaking"
+],
+[
+"爱国",
+18.18,
+"ài guó",
+"to love one's country; patriotic"
+],
+[
+"相爱",
+16.57,
+"xiāng ài",
+"to love each other"
+],
+[
+"关爱",
+14.08,
+"guān ài",
+"to show concern and care for"
+],
+[
+"爱好者",
+13.99,
+"ài hào zhě",
+"lover (of art, sports etc); amateur; enthusiast; fan"
+],
+[
+"心爱",
+11.31,
+"xīn ài",
+"beloved"
+],
+[
+"爱德华",
+10.22,
+"Ài dé huá",
+"Edward; Édouard (name)"
+],
+[
+"爱国主义",
+8.68,
+"ài guó zhǔ yì",
+"patriotism"
+],
+[
+"爱河",
+8.59,
+"ài hé",
+"the river of love; a stumbling block on the path to enlightenment (Buddhism)"
+],
+[
+"爱美",
+6.7,
+"ài měi",
+"love of beauty; wishing to appear beautiful; to set store by one's appearance"
+]
+],
 "strokes": [
 "M 517 808 Q 466 771 334 728 Q 328 719 334 716 Q 358 709 501 742 Q 564 763 615 767 Q 633 766 637 774 Q 641 784 631 796 Q 577 844 543 845 Q 536 842 533 832 Q 532 817 517 808 Z",
 "M 319 634 Q 338 613 358 588 Q 368 575 382 574 Q 392 574 397 585 Q 403 597 398 624 Q 392 648 319 676 Q 306 680 300 679 Q 296 676 295 664 Q 298 654 319 634 Z",

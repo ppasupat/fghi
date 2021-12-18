@@ -9,45 +9,51 @@
 [
 "信封",
 4,
-"xìnfēng",
-"envelope"
-],
-[
-"封闭",
-6,
-"fēngbì",
-"to seal; to close; confine"
-],
-[
-"封建",
-6,
-"fēngjiàn",
-"feudal; feudalism"
+"xìn fēng",
+"envelope; CL:個|个[ge4]"
 ],
 [
 "封锁",
 6,
-"fēngsuǒ",
-"to blockade; to seal off"
+"fēng suǒ",
+"to blockade; to seal off; to lock down"
+],
+[
+"封闭",
+6,
+"fēng bì",
+"to seal; to close; to confine; to seal off; to close down; sealed; confined; closed; unreceptive"
 ],
 [
 "密封",
 6,
-"mìfēng",
-"seal up; pressurize"
+"mì fēng",
+"to seal up"
+],
+[
+"封建",
+6,
+"fēng jiàn",
+"system of enfeoffment; feudalism; feudal; feudalistic"
 ]
 ],
 "extraWords": [
 [
 "封面",
 20.78,
-"feng1 mian4",
+"fēng miàn",
 "cover (of a publication)"
+],
+[
+"开封",
+5.24,
+"Kāi fēng",
+"Kaifeng prefecture-level city in Henan, old capital of Northern Song, former provincial capital of Henan; old name Bianliang 汴梁[Bian4 liang2]"
 ],
 [
 "查封",
 5.18,
-"cha2 feng1",
+"chá fēng",
 "to sequester; to seize (assets); to seal up; to close down"
 ]
 ],

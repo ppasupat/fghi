@@ -9,11 +9,30 @@
 [
 "袭击",
 6,
-"xíjī",
-"surprise attack; to raid"
+"xí jī",
+"attack (esp. surprise attack); raid; to attack"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"来袭",
+5.82,
+"lái xí",
+"to invade; (of a storm etc) to strike; to hit"
+],
+[
+"抄袭",
+5.44,
+"chāo xí",
+"to plagiarize; to copy; to attack the flank or rear of an enemy"
+],
+[
+"突袭",
+5.19,
+"tū xí",
+"surprise attack"
+]
+],
 "strokes": [
 "M 556 684 Q 682 712 686 714 Q 693 721 690 729 Q 684 739 658 748 Q 630 755 603 745 Q 554 732 504 718 L 445 705 Q 363 692 270 685 Q 236 681 259 665 Q 298 640 348 651 Q 388 658 430 664 L 487 672 Q 502 675 518 677 L 556 684 Z",
 "M 504 718 Q 504 721 532 784 Q 544 800 527 816 Q 490 852 475 853 Q 456 854 465 831 Q 472 797 445 705 L 430 664 Q 361 483 203 402 Q 187 395 182 390 Q 178 384 189 381 Q 222 372 305 417 Q 392 468 447 581 Q 466 621 487 672 L 504 718 Z",

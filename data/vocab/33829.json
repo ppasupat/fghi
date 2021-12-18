@@ -9,29 +9,144 @@
 [
 "经营",
 5,
-"jīngyíng",
-"engage in (a business activity, etc.); run/operate (a business)"
-],
-[
-"夏令营",
-5,
-"xiàlìngyíng",
-"summer camp"
+"jīng yíng",
+"to engage in (business etc); to run; to operate"
 ],
 [
 "营养",
 5,
-"yíngyǎng",
-"nutrition; nourishment; sustenance"
+"yíng yǎng",
+"nutrition; nourishment; CL:種|种[zhong3]"
 ],
 [
 "营业",
 5,
-"yíngyè",
-"do business; to trade"
+"yíng yè",
+"to do business; to trade"
+],
+[
+"夏令营",
+5,
+"xià lìng yíng",
+"summer camp"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"运营",
+64.89,
+"yùn yíng",
+"to be in operation; to do business; (of train, bus etc) to be in service; operation; service"
+],
+[
+"营销",
+55.58,
+"yíng xiāo",
+"marketing"
+],
+[
+"民营",
+39.96,
+"mín yíng",
+"privately run (i.e. by a company, not the state)"
+],
+[
+"营造",
+26.7,
+"yíng zào",
+"to build (housing); to construct; to make"
+],
+[
+"营地",
+22.24,
+"yíng dì",
+"camp"
+],
+[
+"经营者",
+20.68,
+"jīng yíng zhě",
+"executive; manager; transactor"
+],
+[
+"私营",
+17.19,
+"sī yíng",
+"privately-owned; private"
+],
+[
+"营运",
+11.35,
+"yíng yùn",
+"running; operation (of airport, bus service, business etc)"
+],
+[
+"国营",
+11.05,
+"guó yíng",
+"state-run (company etc); nationalized"
+],
+[
+"阵营",
+10.89,
+"zhèn yíng",
+"group of people; camp; faction; sides in a dispute"
+],
+[
+"露营",
+8.79,
+"lù yíng",
+"to camp out; camping"
+],
+[
+"营救",
+6.89,
+"yíng jiù",
+"to rescue"
+],
+[
+"营业额",
+6.33,
+"yíng yè é",
+"sum or volume of business; turnover"
+],
+[
+"大本营",
+6.11,
+"dà běn yíng",
+"headquarters; base camp"
+],
+[
+"营业员",
+5.85,
+"yíng yè yuán",
+"clerk; shop assistant; CL:個|个[ge4]"
+],
+[
+"野营",
+5.84,
+"yě yíng",
+"to camp; field lodgings"
+],
+[
+"营业税",
+5.71,
+"yíng yè shuì",
+"tax on turnover; sales tax"
+],
+[
+"军营",
+5.39,
+"jūn yíng",
+"barracks; army camp"
+],
+[
+"集中营",
+5.01,
+"jí zhōng yíng",
+"concentration camp"
+]
+],
 "strokes": [
 "M 638 695 Q 722 704 829 695 Q 845 694 850 703 Q 856 715 842 730 Q 797 772 698 752 Q 679 749 660 745 L 598 736 Q 510 724 412 711 L 365 706 Q 284 699 196 690 Q 166 687 187 671 Q 229 644 304 656 Q 338 665 374 670 L 415 676 Q 439 686 587 692 L 638 695 Z",
 "M 412 711 Q 411 742 409 766 Q 410 785 391 790 Q 349 808 332 802 Q 316 793 330 775 Q 355 744 365 706 L 374 670 Q 386 609 400 595 Q 413 585 417 596 Q 420 608 415 676 L 412 711 Z",

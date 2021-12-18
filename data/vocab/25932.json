@@ -9,17 +9,30 @@
 [
 "敌人",
 5,
-"dírén",
-"enemy"
+"dí rén",
+"enemy; CL:個|个[ge4]"
 ],
 [
 "敌视",
 6,
-"díshì",
-"be hostile; adopt a negative attitude towards"
+"dí shì",
+"hostile; malevolence; antagonism; to view as enemy; to stand against"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"无敌",
+15.37,
+"wú dí",
+"unequalled; without rival; a paragon"
+],
+[
+"敌军",
+6.04,
+"dí jūn",
+"enemy troops; hostile forces; CL:股[gu3]"
+]
+],
 "strokes": [
 "M 319 663 Q 424 715 453 724 Q 469 725 473 734 Q 474 744 463 754 Q 406 788 370 784 Q 363 780 364 769 Q 365 730 172 619 Q 168 610 174 608 Q 192 608 276 645 Q 280 646 286 649 L 319 663 Z",
 "M 352 509 Q 398 521 458 531 Q 474 534 474 541 Q 475 554 457 562 Q 423 574 357 553 L 305 539 Q 151 500 76 491 Q 63 490 60 481 Q 57 471 73 460 Q 106 439 164 452 Q 254 488 304 497 L 352 509 Z",

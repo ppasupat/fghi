@@ -9,23 +9,102 @@
 [
 "额外",
 6,
-"éwài",
+"é wài",
 "extra; added; additional"
 ],
 [
 "名额",
 6,
-"míng'é",
-"particular number of people; quota"
+"míng é",
+"quota; number of places; place (in an institution, a group etc)"
 ],
 [
 "数额",
 6,
-"shù'é",
+"shù é",
 "amount; sum of money; fixed number"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"金额",
+56.62,
+"jīn é",
+"sum of money; monetary value"
+],
+[
+"份额",
+43.92,
+"fèn é",
+"share; portion"
+],
+[
+"总额",
+40.52,
+"zǒng é",
+"total (amount or value)"
+],
+[
+"销售额",
+17.2,
+"xiāo shòu é",
+"sales figure; total income from sales; turnover"
+],
+[
+"巨额",
+15.73,
+"jù é",
+"large sum (of money); a huge amount"
+],
+[
+"余额",
+15.18,
+"yú é",
+"balance (of an account, bill etc); surplus; remainder"
+],
+[
+"额度",
+13.3,
+"é dù",
+"quota; (credit) limit"
+],
+[
+"超额",
+12.11,
+"chāo é",
+"above quota"
+],
+[
+"额头",
+9.23,
+"é tóu",
+"forehead"
+],
+[
+"高额",
+8.05,
+"gāo é",
+"high quota; large amount"
+],
+[
+"配额",
+7.94,
+"pèi é",
+"quota; ration"
+],
+[
+"定额",
+7.67,
+"dìng é",
+"fixed amount; quota"
+],
+[
+"营业额",
+6.33,
+"yíng yè é",
+"sum or volume of business; turnover"
+]
+],
 "strokes": [
 "M 333 782 Q 363 757 396 727 Q 409 715 423 716 Q 433 716 437 728 Q 441 741 433 769 Q 424 800 328 826 Q 313 829 308 827 Q 304 823 305 811 Q 308 801 333 782 Z",
 "M 206 639 Q 196 658 185 665 Q 169 675 168 655 Q 174 622 129 568 Q 114 547 139 502 Q 152 481 168 505 Q 171 511 207 616 C 211 629 211 629 206 639 Z",

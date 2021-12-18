@@ -9,195 +9,285 @@
 [
 "工作",
 1,
-"gōngzuò",
-"work; a job"
+"gōng zuò",
+"to work; (of a machine) to operate; job; work; task; CL:個|个[ge4],份[fen4],項|项[xiang4]"
 ],
 [
 "作业",
 3,
-"zuòyè",
-"school assignment; homework; task"
+"zuò yè",
+"school assignment; homework; work; task; operation; CL:個|个[ge4]; to operate"
 ],
 [
 "动作",
 4,
-"dòngzuò",
-"movement; motion; action"
-],
-[
-"作家",
-4,
-"zuòjiā",
-"author; writer"
+"dòng zuò",
+"movement; motion; action; CL:個|个[ge4]"
 ],
 [
 "作用",
 4,
-"zuòyòng",
-"action; activity; effect"
+"zuò yòng",
+"to act on; to affect; action; function; activity; impact; result; effect; purpose; intent; (suffix) -ation, -tion etc, as in 抑制作用[yi4 zhi4 zuo4 yong4], inhibition"
+],
+[
+"作家",
+4,
+"zuò jiā",
+"author; CL:個|个[ge4],位[wei4]"
 ],
 [
 "作者",
 4,
-"zuòzhě",
-"author; writer"
-],
-[
-"合作",
-5,
-"hézuò",
-"cooperate; collaborate; work together"
-],
-[
-"写作",
-5,
-"xiězuò",
-"writing; composition; written works"
-],
-[
-"制作",
-5,
-"zhìzuò",
-"make; manufacture"
-],
-[
-"作品",
-5,
-"zuòpǐn",
-"works (of literature and art)"
+"zuò zhě",
+"author; writer; CL:個|个[ge4]"
 ],
 [
 "作为",
 5,
-"zuòwéi",
-"regard as; act as; action; deed"
+"zuò wéi",
+"one's conduct; deed; activity; accomplishment; achievement; to act as; as (in the capacity of); qua; to view as; to look upon (sth as); to take sth to be"
+],
+[
+"合作",
+5,
+"hé zuò",
+"to cooperate; to collaborate; to work together; cooperation; CL:個|个[ge4]"
+],
+[
+"作品",
+5,
+"zuò pǐn",
+"work (of art); opus; CL:部[bu4],篇[pian1]"
+],
+[
+"制作",
+5,
+"zhì zuò",
+"to make; to manufacture"
+],
+[
+"写作",
+5,
+"xiě zuò",
+"to write; to compose; writing; written works"
 ],
 [
 "作文",
 5,
 "zuò wén",
-"write an essay; essay"
+"to write an essay; composition (student essay); CL:篇[pian1]"
 ],
 [
 "操作",
 6,
-"cāozuò",
-"operate; manipulate"
-],
-[
-"创作",
-6,
-"chuàngzuò",
-"create; to produce; creative work"
-],
-[
-"著作",
-6,
-"zhùzuò",
-"work; book; writing"
+"cāo zuò",
+"to work; to operate; to manipulate"
 ],
 [
 "作弊",
 6,
-"zuòbì",
-"practice fraud; cheat"
+"zuò bì",
+"to practice fraud; to cheat; to engage in corrupt practices"
 ],
 [
-"作废",
+"创作",
 6,
-"zuòfèi",
-"cancellation; delete; to nullify; to expire and thus lose validity"
+"chuàng zuò",
+"to create; to produce; to write; creative work; creation; CL:個|个[ge4]"
 ],
 [
 "作风",
 6,
-"zuòfēng",
-"work style; way"
+"zuò fēng",
+"style; style of work; way"
+],
+[
+"著作",
+6,
+"zhù zuò",
+"to write; literary work; book; article; writings; CL:部[bu4]"
+],
+[
+"作废",
+6,
+"zuò fèi",
+"to become invalid; to cancel; to delete; to nullify"
 ],
 [
 "作息",
 6,
-"zuòxī",
-"work and rest"
+"zuò xī",
+"to work and rest"
 ]
 ],
 "extraWords": [
 [
+"工作人员",
+100.26,
+"gōng zuò rén yuán",
+"staff member"
+],
+[
+"运作",
+46.33,
+"yùn zuò",
+"to operate; operations; workings; activities (usu. of an organization); thread (computing)"
+],
+[
+"作战",
+43.32,
+"zuò zhàn",
+"combat; to fight"
+],
+[
+"当作",
+32.64,
+"dàng zuò",
+"to treat as; to regard as"
+],
+[
+"作证",
+31.54,
+"zuò zhèng",
+"to bear witness; to testify"
+],
+[
 "工作者",
 27.83,
-"gong1 zuo4 zhe3",
+"gōng zuò zhě",
 "worker"
 ],
 [
 "炒作",
 21.63,
-"chao3 zuo4",
+"chǎo zuò",
 "to hype; to promote (in the media)"
 ],
 [
 "作出",
 21.61,
-"zuo4 chu1",
+"zuò chū",
 "to put out; to come up with; to make (a choice, decision, proposal, response, comment etc); to issue (a permit, statement, explanation, apology, reassurance to the public etc); to draw (conclusion); to deliver (speech, judgment); to devise (explanation); to extract"
+],
+[
+"所作所为",
+17.68,
+"suǒ zuò suǒ wéi",
+"one's conduct and deeds"
+],
+[
+"协作",
+17.57,
+"xié zuò",
+"cooperation; coordination"
 ],
 [
 "作物",
 16.89,
-"zuo4 wu4",
+"zuò wù",
 "crop"
 ],
 [
 "作案",
 16.12,
-"zuo4 an4",
+"zuò àn",
 "to commit a crime"
+],
+[
+"发作",
+15.83,
+"fā zuò",
+"to flare up; to break out"
 ],
 [
 "振作",
 15.38,
-"zhen4 zuo4",
+"zhèn zuò",
 "to bestir oneself; to pull oneself together; to cheer up; to uplift; to stimulate"
 ],
 [
 "工作室",
 13.56,
-"gong1 zuo4 shi4",
+"gōng zuò shì",
 "studio; workshop"
+],
+[
+"操作系统",
+13.21,
+"cāo zuò xì tǒng",
+"operating system"
+],
+[
+"恶作剧",
+12.79,
+"è zuò jù",
+"practical joke; prank; to play a practical joke"
 ],
 [
 "看作",
 11.86,
-"kan4 zuo4",
+"kàn zuò",
 "to look upon as; to regard as"
+],
+[
+"装作",
+11.27,
+"zhuāng zuò",
+"to pretend; to feign; to act a part"
 ],
 [
 "合作社",
 10.62,
-"he2 zuo4 she4",
+"hé zuò shè",
 "cooperative; workers' or agricultural producers' cooperative etc"
 ],
 [
 "副作用",
 10.43,
-"fu4 zuo4 yong4",
+"fù zuò yòng",
 "side effect"
+],
+[
+"称作",
+8.91,
+"chēng zuò",
+"to be called; to be known as"
+],
+[
+"工作组",
+8.31,
+"gōng zuò zǔ",
+"work team; working group; task force"
 ],
 [
 "工作日",
 8.3,
-"gong1 zuo4 ri4",
+"gōng zuò rì",
 "workday; working day; weekday"
+],
+[
+"杰作",
+7.93,
+"jié zuò",
+"masterpiece"
+],
+[
+"农作物",
+6.44,
+"nóng zuò wù",
+"(farm) crops"
 ],
 [
 "工作量",
 5.62,
-"gong1 zuo4 liang4",
+"gōng zuò liàng",
 "workload; volume of work"
 ],
 [
 "作坊",
 5.36,
-"zuo1 fang5",
+"zuō fang",
 "workshop (of artisan)"
 ]
 ],

@@ -7,43 +7,62 @@
 },
 "words": [
 [
-"讨论",
-4,
-"tǎolùn",
-"to discuss; discussion; to talk over"
-],
-[
 "讨厌",
 4,
-"tǎoyàn",
-"to hate; loathe; disgusting; troublesome"
+"tǎo yàn",
+"to dislike; to loathe; disagreeable; troublesome; annoying"
+],
+[
+"讨论",
+4,
+"tǎo lùn",
+"to discuss; to talk over; CL:個|个[ge4]"
 ],
 [
 "讨价还价",
 5,
 "tǎo jià huán jià",
-"bargaining; haggling over price"
-],
-[
-"检讨",
-6,
-"jiǎntǎo",
-"self-criticism; analyze"
-],
-[
-"探讨",
-6,
-"tàntǎo",
-"inquire into; explore"
+"to haggle over price; to bargain"
 ],
 [
 "讨好",
 6,
-"tǎohǎo",
-"to flatter"
+"tǎo hǎo",
+"to get the desired outcome; to win favor by fawning on sb; to curry favor with; a fruitful outcome to reward one's labor"
+],
+[
+"探讨",
+6,
+"tàn tǎo",
+"to investigate; to probe"
+],
+[
+"检讨",
+6,
+"jiǎn tǎo",
+"to examine or inspect; self-criticism; review"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"研讨会",
+17.57,
+"yán tǎo huì",
+"discussion forum; seminar"
+],
+[
+"研讨",
+7.35,
+"yán tǎo",
+"discussion"
+],
+[
+"商讨",
+5.47,
+"shāng tǎo",
+"to discuss; to deliberate"
+]
+],
 "strokes": [
 "M 316 743 Q 350 716 387 684 Q 403 671 420 672 Q 432 673 437 688 Q 441 704 430 737 Q 423 759 385 776 Q 294 801 284 795 Q 278 791 281 777 Q 285 764 316 743 Z",
 "M 156 468 Q 105 452 77 449 Q 62 449 60 441 Q 56 432 67 425 Q 110 401 137 412 Q 195 437 247 465 Q 274 480 283 472 Q 293 465 288 439 Q 288 399 286 359 Q 285 245 253 141 Q 237 108 280 56 Q 290 43 300 50 Q 309 57 320 82 Q 365 134 456 223 Q 469 235 466 242 Q 465 251 453 241 Q 408 213 363 182 Q 311 142 321 204 Q 320 270 343 431 Q 347 456 370 480 Q 382 490 372 504 Q 360 520 321 537 Q 308 544 291 532 Q 206 484 156 468 Z",

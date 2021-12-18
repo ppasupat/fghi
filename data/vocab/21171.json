@@ -7,43 +7,104 @@
 },
 "words": [
 [
-"劳动",
-5,
-"láodòng",
-"work; toil; (physical) labor"
-],
-[
 "劳驾",
 5,
 "láo jià",
 "excuse me"
 ],
 [
-"疲劳",
+"劳动",
 5,
-"píláo",
-"fatigue; wearily; weariness; tired"
+"láo dòng",
+"work; toil; physical labor; CL:次[ci4]"
 ],
 [
-"操劳",
-6,
-"cāoláo",
-"work hard; look after"
+"疲劳",
+5,
+"pí láo",
+"fatigue; wearily; weariness; weary"
 ],
 [
 "功劳",
 6,
-"gōngláo",
-"contribution; meritorious; credit"
+"gōng láo",
+"contribution; meritorious service; credit"
 ],
 [
 "勤劳",
 6,
-"qínláo",
-"hardworking; diligent; industrious"
+"qín láo",
+"hardworking; industrious; diligent"
+],
+[
+"操劳",
+6,
+"cāo láo",
+"to work hard; to look after"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"劳动力",
+29.56,
+"láo dòng lì",
+"labor force; manpower"
+],
+[
+"效劳",
+17.47,
+"xiào láo",
+"to serve (in some capacity); to work for"
+],
+[
+"劳动者",
+17.16,
+"láo dòng zhě",
+"worker; laborer"
+],
+[
+"劳务",
+11.17,
+"láo wù",
+"service (work done for money); services (as in \"goods and services\")"
+],
+[
+"麦当劳",
+10.84,
+"Mài dāng láo",
+"MacDonald or McDonald (name); McDonald's (fast food company)"
+],
+[
+"劳力",
+7.97,
+"láo lì",
+"labor; able-bodied worker; laborer; work force"
+],
+[
+"劳工",
+6.35,
+"láo gōng",
+"labor; laborer"
+],
+[
+"劳资",
+6.19,
+"láo zī",
+"labor and capital; labor and management"
+],
+[
+"劳累",
+5.4,
+"láo lèi",
+"tired; exhausted; worn out; to toil"
+],
+[
+"劳伦斯",
+5.28,
+"Láo lún sī",
+"Lawrence (person name)"
+]
+],
 "strokes": [
 "M 628 659 Q 680 662 807 663 Q 826 664 831 672 Q 837 684 820 698 Q 763 740 693 719 Q 671 716 645 710 L 593 700 Q 505 691 435 676 L 393 670 Q 321 661 244 650 Q 223 649 239 631 Q 272 603 308 612 Q 351 624 398 632 L 438 638 Q 492 650 583 656 L 628 659 Z",
 "M 435 676 Q 432 722 432 757 Q 433 776 415 782 Q 373 801 356 795 Q 338 788 352 768 Q 383 725 392 676 Q 392 673 393 670 L 398 632 Q 405 575 420 559 Q 433 549 437 560 Q 443 578 438 638 L 435 676 Z",

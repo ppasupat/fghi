@@ -10,22 +10,71 @@
 "换",
 3,
 "huàn",
-"change; to exchange; to barter; to trade"
-],
-[
-"兑换",
-5,
-"duìhuàn",
-"to exchange; to convert (currencies)"
+"to exchange; to change (clothes etc); to substitute; to switch; to convert (currency)"
 ],
 [
 "交换",
 5,
-"jiāohuàn",
-"to exchange; to swap; to switch"
+"jiāo huàn",
+"to exchange; to swap; to switch (telecom); commutative (math); to commute"
+],
+[
+"兑换",
+5,
+"duì huàn",
+"to convert; to exchange"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"转换",
+30.75,
+"zhuǎn huàn",
+"to change; to switch; to convert; to transform"
+],
+[
+"更换",
+23.65,
+"gēng huàn",
+"to replace (a worn-out tire etc); to change (one's address etc)"
+],
+[
+"置换",
+10.13,
+"zhì huàn",
+"to permute; permutation (math.); to displace; displacement; to replace; replacement"
+],
+[
+"变换",
+8.51,
+"biàn huàn",
+"to transform; to convert; to vary; to alternate; a transformation"
+],
+[
+"切换",
+6.75,
+"qiē huàn",
+"to switch over; to switch modes or data streams; to cut (to a new scene)"
+],
+[
+"换取",
+6.69,
+"huàn qǔ",
+"to obtain (sth) in exchange; to exchange (sth) for (sth else)"
+],
+[
+"替换",
+5.92,
+"tì huàn",
+"to exchange; to replace; to substitute for; to switch"
+],
+[
+"换句话说",
+5.43,
+"huàn jù huà shuō",
+"in other words"
+]
+],
 "strokes": [
 "M 335 518 Q 345 522 360 525 Q 396 535 400 541 Q 409 548 404 557 Q 397 567 368 573 Q 350 576 337 572 L 287 555 Q 194 524 123 513 Q 89 504 114 490 Q 162 469 209 485 Q 246 495 286 505 L 335 518 Z",
 "M 282 339 Q 281 251 278 137 Q 277 115 265 105 Q 261 102 193 111 Q 160 123 163 113 Q 164 106 184 91 Q 245 42 261 15 Q 279 -18 294 -19 Q 309 -20 323 15 Q 341 60 339 134 Q 332 258 332 383 L 332 413 Q 332 465 335 518 L 337 572 Q 337 669 358 740 Q 374 771 320 793 Q 286 812 267 805 Q 249 799 265 776 Q 287 749 287 715 Q 288 699 287 555 L 286 505 Q 285 450 283 380 L 282 339 Z",

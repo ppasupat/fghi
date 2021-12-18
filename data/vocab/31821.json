@@ -9,27 +9,33 @@
 [
 "国籍",
 4,
-"guójí",
+"guó jí",
 "nationality"
-],
-[
-"籍贯",
-6,
-"jíguàn",
-"place of one's ancestry"
 ],
 [
 "书籍",
 6,
-"shūjí",
+"shū jí",
 "books; works"
+],
+[
+"籍贯",
+6,
+"jí guàn",
+"one's native place; place of ancestry; registered birthplace"
 ]
 ],
 "extraWords": [
 [
+"户籍",
+8.9,
+"hù jí",
+"census register; household register"
+],
+[
 "外籍",
 7.01,
-"wai4 ji2",
+"wài jí",
 "foreign (i.e. of foreign nationality)"
 ]
 ],

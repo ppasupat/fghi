@@ -9,41 +9,96 @@
 [
 "负责",
 4,
-"fùzé",
-"responsible for (something); in charge of"
+"fù zé",
+"to be in charge of; to take responsibility for; to be to blame; conscientious"
 ],
 [
 "责任",
 4,
-"zérèn",
-"responsibility; blame; duty"
+"zé rèn",
+"responsibility; blame; duty; CL:個|个[ge4]"
 ],
 [
 "责备",
 5,
-"zébèi",
-"to blame; criticize (sb.); accuse"
-],
-[
-"谴责",
-6,
-"qiǎnzé",
-"denounce; condemn; criticize"
-],
-[
-"责怪",
-6,
-"zéguài",
-"blame; rebuke"
+"zé bèi",
+"to blame; to criticize; condemnation; reproach"
 ],
 [
 "指责",
 6,
-"zhǐzé",
-"to censure; criticize; find fault with"
+"zhǐ zé",
+"to criticize; to find fault with; to denounce"
+],
+[
+"责怪",
+6,
+"zé guài",
+"to blame; to rebuke"
+],
+[
+"谴责",
+6,
+"qiǎn zé",
+"to denounce; to condemn; to criticize; condemnation; criticism"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"负责人",
+127.39,
+"fù zé rén",
+"person in charge"
+],
+[
+"职责",
+30.52,
+"zhí zé",
+"duty; responsibility; obligation"
+],
+[
+"责任感",
+13.62,
+"zé rèn gǎn",
+"sense of responsibility"
+],
+[
+"责任制",
+13.31,
+"zé rèn zhì",
+"system of job responsibility"
+],
+[
+"负责任",
+11.34,
+"fù zé rèn",
+"to take responsibility; to bear responsibility; to be responsible"
+],
+[
+"责令",
+11.14,
+"zé lìng",
+"to order; to enjoin; to charge; to instruct sb to finish sth"
+],
+[
+"自责",
+7.81,
+"zì zé",
+"to blame oneself"
+],
+[
+"责任人",
+7.73,
+"zé rèn rén",
+"responsible person; coordinator"
+],
+[
+"责任心",
+5.91,
+"zé rèn xīn",
+"sense of responsibility"
+]
+],
 "strokes": [
 "M 540 703 Q 598 713 659 721 Q 717 731 725 738 Q 734 745 730 753 Q 724 765 698 773 Q 671 780 643 771 Q 594 758 543 745 L 486 734 Q 414 724 334 721 Q 300 717 324 701 Q 357 674 412 685 Q 448 691 488 696 L 540 703 Z",
 "M 532 602 Q 578 612 627 620 Q 672 630 678 636 Q 685 643 682 650 Q 676 660 652 667 Q 627 673 600 663 Q 569 653 535 644 L 489 633 Q 429 621 360 616 Q 329 612 351 596 Q 391 574 434 585 Q 461 589 489 594 L 532 602 Z",

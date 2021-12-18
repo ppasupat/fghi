@@ -7,37 +7,62 @@
 },
 "words": [
 [
-"形状",
+"状态",
 5,
-"xíngzhuàng",
-"form; figure; shape"
+"zhuàng tài",
+"state of affairs; state; mode; situation; CL:個|个[ge4]"
 ],
 [
 "状况",
 5,
-"zhuàngkuàng",
-"condition; state; situation"
+"zhuàng kuàng",
+"condition; state; situation; CL:個|个[ge4]"
 ],
 [
-"状态",
+"形状",
 5,
-"zhuàngtài",
-"state of affairs; condition; state"
-],
-[
-"现状",
-6,
-"xiànzhuàng",
-"current situation; status quo"
+"xíng zhuàng",
+"form; shape; CL:個|个[ge4]"
 ],
 [
 "症状",
 6,
-"zhèngzhuàng",
+"zhèng zhuàng",
 "symptom (of an illness)"
+],
+[
+"现状",
+6,
+"xiàn zhuàng",
+"current situation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"甲状腺",
+8.06,
+"jiǎ zhuàng xiàn",
+"thyroid gland"
+],
+[
+"状元",
+6.89,
+"zhuàng yuán",
+"top scorer in the palace examination (highest rank of the Imperial examination system); see 榜眼[bang3 yan3] and 探花[tan4 hua1]; top scorer in college entrance examination 高考[gao1 kao3]; (fig.) the most brilliantly talented person in the field; leading light"
+],
+[
+"性状",
+5.58,
+"xìng zhuàng",
+"nature (i.e. properties of sth); character"
+],
+[
+"冠状动脉",
+5.12,
+"guān zhuàng dòng mài",
+"coronary artery"
+]
+],
 "strokes": [
 "M 169 578 Q 197 550 229 515 Q 242 500 259 500 Q 271 499 277 513 Q 283 528 276 560 Q 270 593 167 629 Q 151 633 144 631 Q 138 627 139 614 Q 142 602 169 578 Z",
 "M 332 421 Q 125 262 80 248 Q 68 242 70 231 Q 71 218 84 213 Q 112 206 151 199 Q 161 199 171 212 Q 186 237 312 367 Q 322 377 331 388 C 350 411 356 439 332 421 Z",

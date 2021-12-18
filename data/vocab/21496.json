@@ -9,100 +9,130 @@
 [
 "公司",
 2,
-"gōngsī",
-"company; corporation"
+"gōng sī",
+"(business) company; company; firm; corporation; incorporated; CL:家[jia1]"
 ],
 [
 "司机",
 3,
-"sījī",
-"driver; chauffeur"
-],
-[
-"打官司",
-6,
-"dǎ guānsi",
-"go to court"
+"sī jī",
+"chauffeur; driver; CL:個|个[ge4]"
 ],
 [
 "司法",
 6,
-"sīfǎ",
+"sī fǎ",
 "judicial; (administration of) justice"
 ],
 [
 "司令",
 6,
-"sīlìng",
+"sī lìng",
 "commanding officer"
+],
+[
+"打官司",
+6,
+"dǎ guān si",
+"to file a lawsuit; to sue; to dispute"
 ]
 ],
 "extraWords": [
 [
 "有限公司",
 93.76,
-"you3 xian4 gong1 si1",
+"yǒu xiàn gōng sī",
 "limited company; corporation"
 ],
 [
 "股份有限公司",
 26.88,
-"gu3 fen4 you3 xian4 gong1 si1",
+"gǔ fèn yǒu xiàn gōng sī",
 "joint-stock limited company; corporation"
 ],
 [
 "上司",
 19.7,
-"shang4 si5",
+"shàng si",
 "boss; superior"
 ],
 [
 "官司",
 15.86,
-"guan1 si5",
+"guān si",
 "lawsuit; CL:場|场[chang2]"
 ],
 [
 "航空公司",
 15.85,
-"hang2 kong1 gong1 si1",
+"háng kōng gōng sī",
 "airline; CL:家[jia1]"
 ],
 [
 "子公司",
 15.73,
-"zi3 gong1 si1",
+"zǐ gōng sī",
 "subsidiary company; subsidiary corporation"
+],
+[
+"证券公司",
+12.37,
+"zhèng quàn gōng sī",
+"securities company; share company"
+],
+[
+"跨国公司",
+11.85,
+"kuà guó gōng sī",
+"transnational corporation; multinational corporation"
 ],
 [
 "分公司",
 11.52,
-"fen1 gong1 si1",
+"fēn gōng sī",
 "subsidiary company; branch office"
+],
+[
+"总公司",
+9.32,
+"zǒng gōng sī",
+"parent company; head office"
 ],
 [
 "盎司",
 8.23,
-"ang4 si1",
+"àng sī",
 "ounce (British imperial system) (loanword)"
 ],
 [
 "司令部",
 8.22,
-"si1 ling4 bu4",
+"sī lìng bù",
 "headquarters; military command center"
 ],
 [
 "大公司",
 7.52,
-"da4 gong1 si1",
+"dà gōng sī",
 "large company; corporation"
 ],
 [
 "公司法",
 7.21,
-"gong1 si1 fa3",
+"gōng sī fǎ",
 "corporations law"
+],
+[
+"司马",
+6.05,
+"Sī mǎ",
+"Minister of War (official title in pre-Han Chinese states); two-character surname Sima"
+],
+[
+"寿司",
+6.03,
+"shòu sī",
+"sushi"
 ]
 ],
 "strokes": [

@@ -7,360 +7,570 @@
 },
 "words": [
 [
-"没有",
-1,
-"méiyǒu",
-"not have; there is not"
-],
-[
 "有",
 1,
 "yǒu",
-"have"
+"to have; there is; there are; to exist; to be"
 ],
 [
-"有名",
-3,
-"yǒumíng",
-"famous; well-known"
+"没有",
+1,
+"méi yǒu",
+"haven't; hasn't; doesn't exist; to not have; to not be"
 ],
 [
 "只有",
 3,
-"zhǐyǒu",
-"only"
+"zhǐ yǒu",
+"only have ...; there is only ...; (used in combination with 才[cai2]) it is only if one ... (that one can ...) (Example: 只有通過治療才能痊愈|只有通过治疗才能痊愈[zhi3 you3 tong1 guo4 zhi4 liao2 cai2 neng2 quan2 yu4] \"the only way to cure it is with therapy\"); it is only ... (who ...) (Example: 只有男性才有此需要[zhi3 you3 nan2 xing4 cai2 you3 ci3 xu1 yao4] \"only men would have such a requirement\"); (used to indicate that one has no alternative) one can only (do a certain thing) (Example: 只有屈服[zhi3 you3 qu1 fu2] \"the only thing you can do is give in\")"
+],
+[
+"有名",
+3,
+"yǒu míng",
+"famous; well-known"
 ],
 [
 "所有",
 4,
-"suǒyǒu",
-"all; to have; to possess"
+"suǒ yǒu",
+"all; to have; to possess; to own"
 ],
 [
 "有趣",
 4,
-"yǒuqù",
+"yǒu qù",
 "interesting; fascinating; amusing"
 ],
 [
 "有利",
 5,
-"yǒulì",
-"advantageous; beneficial"
+"yǒu lì",
+"advantageous; to have advantages; favorable"
 ],
 [
-"固有",
+"拥有",
 6,
-"gùyǒu",
-"intrinsic/inherent to something; native"
-],
-[
-"津津有味",
-6,
-"jīnjīn yǒu wèi",
-"(saying) with gusto; eagerly; with great interest"
+"yōng yǒu",
+"to have; to possess"
 ],
 [
 "岂有此理",
 6,
 "qǐ yǒu cǐ lǐ",
-"outrageous; ridiculous; absurd"
-],
-[
-"拥有",
-6,
-"yōngyǒu",
-"have; possess"
+"how can this be so? (idiom); preposterous; ridiculous; absurd"
 ],
 [
 "有条不紊",
 6,
-"yǒutiáobùwěn",
-"in an orderly way; methodically; systematically; methodical"
+"yǒu tiáo bù wěn",
+"regular and thorough (idiom); methodically arranged"
+],
+[
+"固有",
+6,
+"gù yǒu",
+"intrinsic to sth; inherent; native"
+],
+[
+"津津有味",
+6,
+"jīn jīn yǒu wèi",
+"with keen interest (idiom); with great pleasure; with gusto; eagerly"
 ]
 ],
 "extraWords": [
 [
+"还有",
+1071.11,
+"hái yǒu",
+"furthermore; in addition; still; also"
+],
+[
+"有关",
+403.84,
+"yǒu guān",
+"to have sth to do with; to relate to; related to; to concern; concerning"
+],
+[
 "有人",
 294.43,
-"you3 ren2",
+"yǒu rén",
 "someone; people; anyone; there is someone there; occupied (as in restroom)"
 ],
 [
 "具有",
 292.32,
-"ju4 you3",
+"jù yǒu",
 "to have; to possess"
 ],
 [
 "有些",
 284.59,
-"you3 xie1",
+"yǒu xiē",
 "some; somewhat"
 ],
 [
 "有效",
 180.5,
-"you3 xiao4",
+"yǒu xiào",
 "effective; in effect; valid"
+],
+[
+"有点",
+175.79,
+"yǒu diǎn",
+"a little"
 ],
 [
 "有的",
 171.34,
-"you3 de5",
+"yǒu de",
 "(there are) some (who are...); some (exist)"
 ],
 [
 "有限公司",
 93.76,
-"you3 xian4 gong1 si1",
+"yǒu xiàn gōng sī",
 "limited company; corporation"
 ],
 [
 "有所",
 91.59,
-"you3 suo3",
+"yǒu suǒ",
 "somewhat; to some extent"
 ],
 [
 "有意思",
 90.29,
-"you3 yi4 si5",
+"yǒu yì si",
 "interesting; meaningful; enjoyable; fun"
+],
+[
+"有着",
+87.45,
+"yǒu zhe",
+"to have; to possess"
+],
+[
+"有时",
+77.12,
+"yǒu shí",
+"sometimes; now and then"
+],
+[
+"有时候",
+72.82,
+"yǒu shí hou",
+"sometimes"
+],
+[
+"有利于",
+61.58,
+"yǒu lì yú",
+"to be advantageous to; to be beneficial for"
 ],
 [
 "持有",
 54.71,
-"chi2 you3",
+"chí yǒu",
 "to hold (passport, views etc)"
 ],
 [
 "有限",
 53.76,
-"you3 xian4",
+"yǒu xiàn",
 "limited; finite"
+],
+[
+"现有",
+53.6,
+"xiàn yǒu",
+"currently existing; currently available"
 ],
 [
 "共有",
 52.32,
-"gong4 you3",
+"gòng yǒu",
 "to have altogether; in all"
+],
+[
+"国有",
+44.93,
+"guó yǒu",
+"nationalized; public; government owned; state-owned"
 ],
 [
 "有望",
 37.71,
-"you3 wang4",
+"yǒu wàng",
 "hopeful; promising"
 ],
 [
 "有力",
 35.06,
-"you3 li4",
+"yǒu lì",
 "powerful; forceful; vigorous"
 ],
 [
 "含有",
 33.94,
-"han2 you3",
+"hán yǒu",
 "to contain; including"
+],
+[
+"国有企业",
+30.77,
+"guó yǒu qǐ yè",
+"nationalized business; state-owned business"
 ],
 [
 "原有",
 28.41,
-"yuan2 you3",
+"yuán yǒu",
 "original; former"
+],
+[
+"有钱",
+27.09,
+"yǒu qián",
+"well-off; wealthy"
 ],
 [
 "股份有限公司",
 26.88,
-"gu3 fen4 you3 xian4 gong1 si1",
+"gǔ fèn yǒu xiàn gōng sī",
 "joint-stock limited company; corporation"
+],
+[
+"有助于",
+26.49,
+"yǒu zhù yú",
+"to contribute to; to promote"
 ],
 [
 "有空",
 24.83,
-"you3 kong4",
+"yǒu kòng",
 "to have time (to do sth)"
+],
+[
+"应有",
+23.71,
+"yīng yǒu",
+"proper"
 ],
 [
 "富有",
 23.29,
-"fu4 you3",
+"fù yǒu",
 "rich; full of"
+],
+[
+"有机",
+22.16,
+"yǒu jī",
+"organic"
+],
+[
+"有种",
+21.52,
+"yǒu zhǒng",
+"to have guts; to have courage; to be brave"
 ],
 [
 "享有",
 19.98,
-"xiang3 you3",
+"xiǎng yǒu",
 "to enjoy (rights, privileges etc)"
 ],
 [
 "有意",
 19.25,
-"you3 yi4",
+"yǒu yì",
 "to intend; intentionally; interested in"
 ],
 [
 "有用",
 18.33,
-"you3 yong4",
+"yǒu yòng",
 "useful"
 ],
 [
 "有事",
 18.04,
-"you3 shi4",
+"yǒu shì",
 "to be occupied with sth; to have sth on one's mind; there is something the matter"
 ],
 [
 "既有",
 17.96,
-"ji4 you3",
+"jì yǒu",
 "existing"
 ],
 [
 "有能力",
 17.87,
-"you3 neng2 li4",
+"yǒu néng lì",
 "able"
 ],
 [
 "有待",
 17.38,
-"you3 dai4",
+"yǒu dài",
 "not yet (done); pending"
+],
+[
+"有一点",
+15.92,
+"yǒu yī diǎn",
+"a little; somewhat"
 ],
 [
 "有害",
 15.32,
-"you3 hai4",
+"yǒu hài",
 "destructive; harmful; damaging"
 ],
 [
 "有益",
 13.98,
-"you3 yi4",
+"yǒu yì",
 "useful; beneficial; profitable"
 ],
 [
 "特有",
 13.96,
-"te4 you3",
+"tè yǒu",
 "specific (to); characteristic (of); distinctive"
 ],
 [
 "有期徒刑",
 13.13,
-"you3 qi1 tu2 xing2",
+"yǒu qī tú xíng",
 "limited term of imprisonment (i.e. anything less than life imprisonment)"
+],
+[
+"有史以来",
+13.0,
+"yǒu shǐ yǐ lái",
+"since the beginning of history"
 ],
 [
 "前所未有",
 12.08,
-"qian2 suo3 wei4 you3",
+"qián suǒ wèi yǒu",
 "unprecedented"
+],
+[
+"有兴趣",
+11.89,
+"yǒu xìng qù",
+"interested; interesting"
 ],
 [
 "公有制",
 11.7,
-"gong1 you3 zhi4",
+"gōng yǒu zhì",
 "public ownership"
 ],
 [
 "大有",
 11.57,
-"da4 you3",
+"dà yǒu",
 "there is much; (literary) abundance"
 ],
 [
 "有道理",
 11.51,
-"you3 dao4 li5",
+"yǒu dào li",
 "to make sense; reasonable"
+],
+[
+"一无所有",
+11.33,
+"yī wú suǒ yǒu",
+"not having anything at all (idiom); utterly lacking; without two sticks to rub together"
+],
+[
+"所有权",
+10.92,
+"suǒ yǒu quán",
+"ownership; possession; property rights; title (to property)"
+],
+[
+"有价值",
+10.76,
+"yǒu jià zhí",
+"valuable"
 ],
 [
 "持有人",
 9.84,
-"chi2 you3 ren2",
+"chí yǒu rén",
 "holder"
 ],
 [
 "有的是",
 9.79,
-"you3 de5 shi4",
+"yǒu de shì",
 "have plenty of; there's no lack of"
 ],
 [
 "有毒",
 9.1,
-"you3 du2",
+"yǒu dú",
 "poisonous"
+],
+[
+"带有",
+9.06,
+"dài yǒu",
+"to have; to involve"
 ],
 [
 "有希望",
 8.98,
-"you3 xi1 wang4",
+"yǒu xī wàng",
 "hopeful; promising; prospective"
+],
+[
+"强有力",
+8.59,
+"qiáng yǒu lì",
+"strong; forceful"
 ],
 [
 "所有制",
 8.49,
-"suo3 you3 zhi4",
+"suǒ yǒu zhì",
 "ownership of the means of production (in Marxism); system of ownership"
 ],
 [
 "少有",
 8.07,
-"shao3 you3",
+"shǎo yǒu",
 "rare; infrequent"
 ],
 [
 "有心",
 7.84,
-"you3 xin1",
+"yǒu xīn",
 "to have a mind to; to intend to; deliberately; considerate"
+],
+[
+"有的时候",
+7.84,
+"yǒu de shí hòu",
+"sometimes; at times"
+],
+[
+"独有",
+7.17,
+"dú yǒu",
+"to own exclusively; unique to; specific; there is only"
+],
+[
+"有点儿",
+7.1,
+"yǒu diǎn r5",
+"slightly; a little; somewhat"
+],
+[
+"有请",
+6.98,
+"yǒu qǐng",
+"to request the pleasure of seeing sb; to ask sb in; to ask sb to do sth (e.g. make a speech)"
+],
+[
+"有线电视",
+6.94,
+"yǒu xiàn diàn shì",
+"cable television"
+],
+[
+"有色金属",
+6.85,
+"yǒu sè jīn shǔ",
+"non-ferrous metals (all metals excluding iron, chromium, manganese and their alloys)"
+],
+[
+"占有",
+6.65,
+"zhàn yǒu",
+"to have; to own; to hold; to occupy; to possess; to account for (a high proportion etc)"
 ],
 [
 "有理",
 6.49,
-"you3 li3",
+"yǒu lǐ",
 "reasonable; justified; right; (math.) rational"
 ],
 [
 "有如",
 6.47,
-"you3 ru2",
+"yǒu rú",
 "to be like sth; similar to; alike"
 ],
 [
 "有幸",
 6.39,
-"you3 xing4",
+"yǒu xìng",
 "fortunately"
+],
+[
+"有缘",
+6.22,
+"yǒu yuán",
+"related; brought together by fate"
 ],
 [
 "有所不同",
 6.09,
-"you3 suo3 bu4 tong2",
+"yǒu suǒ bù tóng",
 "to differ to some extent (idiom)"
 ],
 [
 "有效期",
 5.89,
-"you3 xiao4 qi1",
+"yǒu xiào qī",
 "period of validity; sell-by date"
+],
+[
+"有余",
+5.81,
+"yǒu yú",
+"to have an abundance"
+],
+[
+"有钱人",
+5.71,
+"yǒu qián rén",
+"rich person; the rich"
+],
+[
+"有偿",
+5.59,
+"yǒu cháng",
+"paying; paid (not free)"
 ],
 [
 "所有者",
 5.44,
-"suo3 you3 zhe3",
+"suǒ yǒu zhě",
 "proprietor; owner"
 ],
 [
 "有效性",
 5.43,
-"you3 xiao4 xing4",
+"yǒu xiào xìng",
 "validity"
+],
+[
+"有资格",
+5.01,
+"yǒu zī gé",
+"to be entitled; to qualify; to be qualified"
 ]
 ],
 "strokes": [

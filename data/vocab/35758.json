@@ -9,59 +9,138 @@
 [
 "会议",
 3,
-"huìyì",
-"meeting; conference"
+"huì yì",
+"meeting; conference; CL:場|场[chang3],屆|届[jie4]"
 ],
 [
 "建议",
 4,
-"jiànyì",
-"to propose; to suggest; recommend"
+"jiàn yì",
+"to propose; to suggest; to recommend; proposal; suggestion; recommendation; CL:個|个[ge4],點|点[dian3]"
 ],
 [
 "议论",
 5,
-"yìlùn",
-"discuss; to comment; talk about"
+"yì lùn",
+"to comment; to talk about; to discuss; discussion; CL:個|个[ge4]"
 ],
 [
 "不可思议",
 6,
-"bùkěsīyì",
-"unimaginable; inconceivable"
-],
-[
-"倡议",
-6,
-"chàngyì",
-"suggest; propose"
-],
-[
-"抗议",
-6,
-"kàngyì",
-"to protest; protest"
-],
-[
-"提议",
-6,
-"tíyì",
-"propose; suggest"
+"bù kě sī yì",
+"inconceivable (idiom); unimaginable; unfathomable"
 ],
 [
 "协议",
 6,
-"xiéyì",
-"agreement; pact; protocol"
+"xié yì",
+"agreement; pact; protocol; CL:項|项[xiang4]"
+],
+[
+"提议",
+6,
+"tí yì",
+"proposal; suggestion; to propose; to suggest"
+],
+[
+"抗议",
+6,
+"kàng yì",
+"to protest; protest"
 ],
 [
 "争议",
 6,
-"zhēngyì",
-"controversy; dispute; contention"
+"zhēng yì",
+"controversy; dispute; to dispute"
+],
+[
+"倡议",
+6,
+"chàng yì",
+"to suggest; to initiate; proposal; initiative"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"审议",
+40.52,
+"shěn yì",
+"deliberation; pondering; due consideration"
+],
+[
+"议员",
+34.49,
+"yì yuán",
+"member (of a legislative body); representative"
+],
+[
+"决议",
+32.82,
+"jué yì",
+"a resolution; to pass a resolution"
+],
+[
+"参议员",
+24.53,
+"cān yì yuán",
+"senator"
+],
+[
+"议会",
+19.61,
+"yì huì",
+"parliament; legislative assembly"
+],
+[
+"会议室",
+12.22,
+"huì yì shì",
+"meeting room; conference room"
+],
+[
+"议题",
+9.2,
+"yì tí",
+"topic of discussion; topic; subject; issue (under discussion); CL:項|项[xiang4]"
+],
+[
+"评议",
+8.24,
+"píng yì",
+"to appraise through discussion"
+],
+[
+"异议",
+7.07,
+"yì yì",
+"objection; dissent"
+],
+[
+"议案",
+5.66,
+"yì àn",
+"proposal; motion"
+],
+[
+"议程",
+5.45,
+"yì chéng",
+"agenda; agenda item"
+],
+[
+"参议院",
+5.07,
+"cān yì yuàn",
+"senate; upper chamber (of legislative assembly)"
+],
+[
+"商议",
+5.06,
+"shāng yì",
+"to negotiate; discussion; proposal"
+]
+],
 "strokes": [
 "M 290 725 Q 327 698 365 665 Q 381 652 397 653 Q 407 654 413 668 Q 417 684 406 715 Q 399 739 361 754 Q 274 785 260 775 Q 254 771 257 757 Q 261 747 290 725 Z",
 "M 160 475 Q 109 459 81 457 Q 66 457 64 449 Q 60 440 71 433 Q 107 411 147 422 Q 252 477 263 469 Q 272 463 265 351 Q 264 230 230 121 Q 211 88 256 37 Q 266 24 277 31 Q 286 38 297 63 Q 340 118 432 211 Q 445 223 442 230 Q 441 239 429 229 Q 383 198 337 164 Q 289 125 298 184 Q 297 254 323 427 Q 327 452 350 476 Q 362 486 352 499 Q 342 515 302 533 Q 289 540 272 529 Q 202 489 160 475 Z",

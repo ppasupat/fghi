@@ -9,45 +9,51 @@
 [
 "广播",
 4,
-"guǎngbō",
-"broadcast; on the air"
+"guǎng bō",
+"broadcast; CL:個|个[ge4]; broadcasting; to broadcast; (formal) to propagate; to publicize"
 ],
 [
 "播放",
 5,
-"bōfàng",
-"broadcast; transmit"
+"bō fàng",
+"to broadcast; to transmit"
 ],
 [
 "传播",
 5,
-"chuánbō",
-"propagate; to spread"
-],
-[
-"播种",
-6,
-"bōzhǒng",
-"sow seeds; sowing; seed"
+"chuán bō",
+"to disseminate; to propagate; to spread"
 ],
 [
 "直播",
 6,
-"zhíbō",
-"live broadcast (not recorded)"
+"zhí bō",
+"(TV, radio) to broadcast live; live broadcast; (Internet) to livestream; (agriculture) direct seeding"
+],
+[
+"播种",
+6,
+"bō zhǒng",
+"to sow seeds; sowing; seed"
 ]
 ],
 "extraWords": [
 [
 "播出",
 29.05,
-"bo1 chu1",
+"bō chū",
 "to broadcast; to air (a TV program etc)"
+],
+[
+"转播",
+7.72,
+"zhuǎn bō",
+"relay; broadcast (on radio or TV)"
 ],
 [
 "演播室",
 6.71,
-"yan3 bo1 shi4",
+"yǎn bō shì",
 "broadcasting studio"
 ]
 ],

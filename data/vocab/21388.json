@@ -9,17 +9,30 @@
 [
 "讨厌",
 4,
-"tǎoyàn",
-"to hate; loathe; disgusting; troublesome"
+"tǎo yàn",
+"to dislike; to loathe; disagreeable; troublesome; annoying"
 ],
 [
 "厌恶",
 6,
-"yànwù",
-"loathe; to hate; detest"
+"yàn wù",
+"to loathe; to hate; disgusted with sth"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"厌倦",
+22.12,
+"yàn juàn",
+"to be weary of; to be fed up with; tedious"
+],
+[
+"厌烦",
+9.12,
+"yàn fán",
+"bored; fed up with sth; sick of sth"
+]
+],
 "strokes": [
 "M 337 688 Q 379 667 453 679 Q 571 700 693 721 Q 753 734 762 741 Q 772 750 767 759 Q 760 772 729 781 Q 695 788 599 757 Q 455 724 344 715 Q 340 715 337 713 C 308 707 309 700 337 688 Z",
 "M 337 713 Q 319 732 286 747 Q 265 760 251 754 Q 238 747 245 732 Q 266 704 262 641 Q 241 421 207 316 Q 203 303 198 289 Q 152 172 68 49 Q 62 42 60 35 Q 57 23 69 26 Q 102 32 181 146 Q 202 179 222 218 Q 294 374 317 572 Q 327 680 337 688 C 344 707 344 707 337 713 Z",

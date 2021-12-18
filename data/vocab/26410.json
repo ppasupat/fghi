@@ -7,77 +7,89 @@
 },
 "words": [
 [
-"未必",
-5,
-"wèibì",
-"not necessarily; need not"
-],
-[
 "未来",
 5,
-"wèilái",
-"future"
+"wèi lái",
+"future; tomorrow; CL:個|个[ge4]; approaching; coming; pending"
+],
+[
+"未必",
+5,
+"wèi bì",
+"not necessarily; maybe not"
 ],
 [
 "未免",
 6,
-"wèimiǎn",
-"(of something that one finds has gone too far); rather a bit too"
+"wèi miǎn",
+"unavoidably; can't help; really; rather"
 ]
 ],
 "extraWords": [
 [
+"从未",
+60.45,
+"cóng wèi",
+"never"
+],
+[
 "尚未",
 49.94,
-"shang4 wei4",
+"shàng wèi",
 "not yet; still not"
 ],
 [
 "未能",
 40.81,
-"wei4 neng2",
+"wèi néng",
 "cannot; to fail to; unable to"
+],
+[
+"未经",
+18.05,
+"wèi jīng",
+"not having undergone; without (having gone though a certain process)"
 ],
 [
 "未婚妻",
 15.11,
-"wei4 hun1 qi1",
+"wèi hūn qī",
 "fiancée"
 ],
 [
 "未婚夫",
 13.77,
-"wei4 hun1 fu1",
+"wèi hūn fū",
 "fiancé"
 ],
 [
 "前所未有",
 12.08,
-"qian2 suo3 wei4 you3",
+"qián suǒ wèi yǒu",
 "unprecedented"
 ],
 [
 "未成年人",
 11.37,
-"wei4 cheng2 nian2 ren2",
+"wèi chéng nián rén",
 "minor (i.e. person under 18)"
 ],
 [
 "未曾",
 9.81,
-"wei4 ceng2",
+"wèi céng",
 "hasn't (or haven't); hasn't ever"
 ],
 [
 "未知",
 9.0,
-"wei4 zhi1",
+"wèi zhī",
 "unknown"
 ],
 [
 "未婚",
 5.05,
-"wei4 hun1",
+"wèi hūn",
 "unmarried"
 ]
 ],

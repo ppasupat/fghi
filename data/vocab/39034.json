@@ -7,37 +7,80 @@
 },
 "words": [
 [
-"顺便",
-4,
-"shùnbiàn",
-"conveniently; in passing; on the way"
-],
-[
 "顺利",
 4,
-"shùnlì",
-"go smoothly; without a hitch; successful"
+"shùn lì",
+"smoothly; without a hitch"
+],
+[
+"顺便",
+4,
+"shùn biàn",
+"conveniently; in passing; without much extra effort"
 ],
 [
 "顺序",
 4,
-"shùnxù",
+"shùn xù",
 "sequence; order"
 ],
 [
 "孝顺",
 5,
-"xiàoshùn",
-"filial piety"
+"xiào shùn",
+"filial; dutiful; devoted to one's parents (and grandparents etc); to show filial piety towards (an older family member); filial piety"
 ],
 [
 "一帆风顺",
 6,
-"yìfānfēngshùn",
-"(saying) smooth sailing"
+"yī fān fēng shùn",
+"propitious wind throughout the journey (idiom); plain sailing; to go smoothly; have a nice trip!"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"顺着",
+8.32,
+"shùn zhe",
+"to follow; following; along"
+],
+[
+"顺差",
+7.91,
+"shùn chā",
+"(trade or budget) surplus"
+],
+[
+"顺手",
+6.13,
+"shùn shǒu",
+"easily; without trouble; while one is at it; in passing; handy"
+],
+[
+"顺畅",
+5.81,
+"shùn chàng",
+"smooth and unhindered; fluent"
+],
+[
+"顺应",
+5.73,
+"shùn yìng",
+"to comply; to conform to; in tune with; adapting to; to adjust to"
+],
+[
+"理顺",
+5.45,
+"lǐ shùn",
+"to straighten out; to sort out; to organize"
+],
+[
+"顺其自然",
+5.37,
+"shùn qí zì rán",
+"to let nature take its course (idiom)"
+]
+],
 "strokes": [
 "M 133 646 Q 179 589 142 368 Q 139 353 135 336 Q 114 255 64 160 Q 60 154 59 148 Q 58 138 66 141 Q 78 142 107 185 Q 204 308 205 547 Q 205 568 210 614 Q 217 627 209 638 Q 193 651 165 662 Q 147 671 137 665 Q 127 658 133 646 Z",
 "M 267 634 Q 300 552 269 351 Q 251 320 285 270 Q 292 261 301 270 Q 319 298 320 390 Q 320 555 328 608 Q 334 627 317 636 Q 304 645 289 653 Q 279 657 271 652 Q 264 646 267 634 Z",

@@ -9,64 +9,82 @@
 [
 "土地",
 5,
-"tǔdì",
-"land; territory; soil"
+"tǔ dì",
+"land; soil; territory; CL:片[pian4],塊|块[kuai4]"
+],
+[
+"土地",
+5,
+"tǔ di",
+"local god; genius loci"
 ],
 [
 "土豆",
 5,
-"tǔdòu",
-"potato"
-],
-[
-"风土人情",
-6,
-"fēngtǔrénqíng",
-"local conditions (human and environmental)"
+"tǔ dòu",
+"potato; CL:個|个[ge4]; (Tw) peanut; CL:顆|颗[ke1]"
 ],
 [
 "领土",
 6,
-"lǐngtǔ",
+"lǐng tǔ",
 "territory"
 ],
 [
 "土壤",
 6,
-"tǔrǎng",
-"soil; earth"
+"tǔ rǎng",
+"soil"
+],
+[
+"风土人情",
+6,
+"fēng tǔ rén qíng",
+"local conditions and customs (idiom)"
 ]
 ],
 "extraWords": [
 [
 "本土",
 21.23,
-"ben3 tu3",
+"běn tǔ",
 "one's native country; native; local; metropolitan territory"
+],
+[
+"国土",
+16.74,
+"guó tǔ",
+"country's territory; national land"
 ],
 [
 "混凝土",
 12.77,
-"hun4 ning2 tu3",
+"hùn níng tǔ",
 "concrete"
 ],
 [
 "土耳其",
 12.58,
-"Tu3 er3 qi2",
+"Tǔ ěr qí",
 "Turkey"
 ],
 [
 "出土",
 6.33,
-"chu1 tu3",
+"chū tǔ",
 "to dig up; to appear in an excavation; unearthed; to come up out of the ground"
 ],
 [
 "泥土",
 6.11,
-"ni2 tu3",
+"ní tǔ",
 "earth; soil; mud; clay"
+],
+[
+"国土资源部",
+5.37,
+"Guó tǔ Zī yuán bù",
+"Ministry of Land and Resources (MLR), formed in 1998"
 ]
 ],
 "strokes": [

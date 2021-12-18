@@ -7,55 +7,164 @@
 },
 "words": [
 [
-"专门",
-4,
-"zhuānmén",
-"specialized"
-],
-[
 "专业",
 4,
-"zhuānyè",
-"profession; specialized field of study; major"
+"zhuān yè",
+"specialty; specialized field; main field of study (at university); major; CL:門|门[men2],個|个[ge4]; professional"
+],
+[
+"专门",
+4,
+"zhuān mén",
+"specialist; specialized; customized"
 ],
 [
 "专家",
 5,
-"zhuānjiā",
-"expert; specialist"
+"zhuān jiā",
+"expert; specialist; CL:個|个[ge4]"
 ],
 [
 "专心",
 5,
-"zhuānxīn",
-"be absorbed; concentrate; attentive"
+"zhuān xīn",
+"to concentrate; absorption; concentration; engrossed"
 ],
 [
 "专长",
 6,
-"zhuāncháng",
+"zhuān cháng",
 "specialty; special knowledge or ability"
-],
-[
-"专程",
-6,
-"zhuānchéng",
-"special-purpose trip"
 ],
 [
 "专利",
 6,
-"zhuānlì",
-"patent"
+"zhuān lì",
+"patent; sth uniquely enjoyed (or possessed etc) by a certain group of people; monopoly"
+],
+[
+"专程",
+6,
+"zhuān chéng",
+"specifically; specially (for that purpose)"
 ],
 [
 "专题",
 6,
-"zhuāntí",
-"special topic; questions; special matter or subject"
+"zhuān tí",
+"specific topic (addressed by a book, lecture, TV program etc); article, report or program etc on a specific topic"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"专辑",
+42.72,
+"zhuān jí",
+"album; record (music); special collection of printed or broadcast material"
+],
+[
+"专项",
+39.0,
+"zhuān xiàng",
+"special; dedicated"
+],
+[
+"专用",
+27.53,
+"zhuān yòng",
+"special; dedicated"
+],
+[
+"专政",
+12.18,
+"zhuān zhèng",
+"dictatorship"
+],
+[
+"专柜",
+11.77,
+"zhuān guì",
+"sales counter dedicated to a certain kind of product (e.g. alcohol)"
+],
+[
+"专科",
+11.12,
+"zhuān kē",
+"specialized subject; branch (of medicine); specialized training school"
+],
+[
+"专访",
+10.75,
+"zhuān fǎng",
+"to interview (a particular person or on a particular topic); special interview; special report based on such an interview"
+],
+[
+"专业化",
+10.68,
+"zhuān yè huà",
+"specialization"
+],
+[
+"专注",
+10.01,
+"zhuān zhù",
+"to focus; to concentrate; to give one's full attention"
+],
+[
+"专人",
+8.26,
+"zhuān rén",
+"specialist; person appointed for specific task"
+],
+[
+"大专",
+7.79,
+"dà zhuān",
+"three-year college; junior college; professional training college"
+],
+[
+"专职",
+7.63,
+"zhuān zhí",
+"special duty; assigned full time to a task"
+],
+[
+"专卖店",
+7.54,
+"zhuān mài diàn",
+"specialty store"
+],
+[
+"专场",
+7.25,
+"zhuān chǎng",
+"special performance"
+],
+[
+"中专",
+7.19,
+"zhōng zhuān",
+"vocational secondary school; technical secondary school; trade school; abbr. for 中等專科學校|中等专科学校"
+],
+[
+"专栏",
+7.11,
+"zhuān lán",
+"special column"
+],
+[
+"专案组",
+7.06,
+"zhuān àn zǔ",
+"special investigation team (legal or judicial)"
+],
+[
+"专线",
+6.08,
+"zhuān xiàn",
+"special-purpose phone line or communications link; hotline; special rail line (e.g. between airport and city); CL:條|条[tiao2]"
+]
+],
 "strokes": [
 "M 514 603 Q 580 613 650 623 Q 711 633 721 642 Q 731 649 727 659 Q 720 672 689 682 Q 658 691 624 680 Q 575 667 525 654 L 471 643 Q 389 631 297 627 Q 257 623 284 603 Q 332 573 388 585 Q 425 591 465 596 L 514 603 Z",
 "M 476 431 Q 486 434 501 434 Q 553 438 601 444 Q 733 462 868 450 Q 892 447 897 456 Q 904 469 892 481 Q 862 508 818 527 Q 803 533 778 524 Q 712 508 645 497 Q 542 484 485 475 L 442 470 Q 348 460 297 451 Q 231 439 133 436 Q 120 436 118 424 Q 117 412 137 398 Q 153 385 185 374 Q 195 371 214 379 Q 230 385 299 398 Q 357 414 430 424 L 476 431 Z",

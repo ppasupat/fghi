@@ -9,237 +9,369 @@
 [
 "办法",
 3,
-"bànfǎ",
-"method; way (of doing something)"
-],
-[
-"法律",
-4,
-"fǎlǜ",
-"law; statute"
+"bàn fǎ",
+"means; method; way (of doing sth); CL:條|条[tiao2],個|个[ge4]"
 ],
 [
 "方法",
 4,
-"fāngfǎ",
-"method; way; means"
+"fāng fǎ",
+"method; way; means; CL:個|个[ge4]"
+],
+[
+"法律",
+4,
+"fǎ lu:4",
+"law; CL:條|条[tiao2], 套[tao4], 個|个[ge4]"
 ],
 [
 "看法",
 4,
-"kànfǎ",
-"point of view; opinion"
+"kàn fǎ",
+"way of looking at a thing; view; opinion; CL:個|个[ge4]"
 ],
 [
 "语法",
 4,
-"yǔfǎ",
+"yǔ fǎ",
 "grammar"
-],
-[
-"法院",
-5,
-"fǎyuàn",
-"court of law"
 ],
 [
 "合法",
 5,
-"héfǎ",
+"hé fǎ",
 "lawful; legitimate; legal"
 ],
 [
-"法人",
-6,
-"fǎrén",
-"legal entity (i.e., a corporation)"
+"法院",
+5,
+"fǎ yuàn",
+"court of law; court"
 ],
 [
 "非法",
 6,
-"fēifǎ",
+"fēi fǎ",
 "illegal"
 ],
 [
 "手法",
 6,
-"shǒufǎ",
-"technique; trick; skill; tact"
-],
-[
-"书法",
-6,
-"shūfǎ",
-"calligraphy; penmanship"
+"shǒu fǎ",
+"technique; trick; skill"
 ],
 [
 "司法",
 6,
-"sīfǎ",
+"sī fǎ",
 "judicial; (administration of) justice"
 ],
 [
 "宪法",
 6,
-"xiànfǎ",
-"constitution; charter"
+"xiàn fǎ",
+"constitution (of a country); CL:部[bu4]"
 ],
 [
 "想方设法",
 6,
 "xiǎng fāng shè fǎ",
-"(saying) think of or try every possible method; by all means possible"
+"to think up every possible method (idiom); to devise ways and means; to try this, that and the other"
+],
+[
+"书法",
+6,
+"shū fǎ",
+"calligraphy; handwriting; penmanship"
+],
+[
+"法人",
+6,
+"fǎ rén",
+"legal person; corporation; see also 自然人[zi4 ran2 ren2]"
 ]
 ],
 "extraWords": [
 [
+"无法",
+245.21,
+"wú fǎ",
+"unable; incapable"
+],
+[
 "想法",
 136.35,
-"xiang3 fa3",
+"xiǎng fǎ",
 "way of thinking; opinion; notion; to think of a way (to do sth); CL:個|个[ge4]"
 ],
 [
 "法官",
 111.76,
-"fa3 guan1",
+"fǎ guān",
 "judge (in court)"
+],
+[
+"法国",
+93.18,
+"Fǎ guó",
+"France; French"
+],
+[
+"执法",
+74.93,
+"zhí fǎ",
+"to enforce a law; law enforcement"
+],
+[
+"违法",
+69.46,
+"wéi fǎ",
+"illegal; to break the law"
 ],
 [
 "法庭",
 69.22,
-"fa3 ting2",
+"fǎ tíng",
 "court of law"
 ],
 [
 "依法",
 66.55,
-"yi1 fa3",
+"yī fǎ",
 "legal (proceedings); according to law"
+],
+[
+"法规",
+61.87,
+"fǎ guī",
+"legislation; statute"
 ],
 [
 "做法",
 61.03,
-"zuo4 fa3",
+"zuò fǎ",
 "way of handling sth; method for making; work method; recipe; practice; CL:個|个[ge4]"
+],
+[
+"说法",
+53.18,
+"shuō fǎ",
+"to expound Buddhist teachings"
+],
+[
+"说法",
+53.18,
+"shuō fa",
+"way of speaking; wording; formulation; one's version (of events); statement; theory; hypothesis; interpretation"
 ],
 [
 "魔法",
 38.48,
-"mo2 fa3",
+"mó fǎ",
 "enchantment; magic"
 ],
 [
 "立法",
 32.08,
-"li4 fa3",
+"lì fǎ",
 "to enact laws; to legislate; legislation"
 ],
 [
 "法制",
 30.43,
-"fa3 zhi4",
+"fǎ zhì",
 "legal system and institutions"
+],
+[
+"法制",
+30.43,
+"Fǎ zhì",
+"made in France"
+],
+[
+"没法",
+26.59,
+"méi fǎ",
+"at a loss; unable to do anything about it; to have no choice"
 ],
 [
 "法定",
 25.28,
-"fa3 ding4",
+"fǎ dìng",
 "legal; statutory; rightful"
+],
+[
+"法语",
+24.68,
+"Fǎ yǔ",
+"French (language)"
 ],
 [
 "人民法院",
 16.34,
-"ren2 min2 fa3 yuan4",
+"rén mín fǎ yuàn",
 "people's court (of law); people's tribunal"
+],
+[
+"法医",
+14.82,
+"fǎ yī",
+"forensic investigator; forensic detective"
+],
+[
+"设法",
+14.19,
+"shè fǎ",
+"to try; to make an attempt; to think of a way (to accomplish sth)"
+],
+[
+"疗法",
+12.78,
+"liáo fǎ",
+"therapy; treatment"
 ],
 [
 "法治",
 12.69,
-"fa3 zhi4",
+"fǎ zhì",
 "rule of law; to rule by law"
 ],
 [
 "刑法",
 10.55,
-"xing2 fa3",
+"xíng fǎ",
 "criminal law"
 ],
 [
 "法案",
 10.47,
-"fa3 an4",
+"fǎ àn",
 "bill; proposed law"
 ],
 [
 "政法",
 10.03,
-"zheng4 fa3",
+"zhèng fǎ",
 "political law; politics and law"
+],
+[
+"法宝",
+9.68,
+"fǎ bǎo",
+"Buddha's teaching; Buddhist monk's apparel, staff etc; (Daoism) magic weapon; talisman; fig. specially effective device; magic wand"
+],
+[
+"逍遥法外",
+9.54,
+"xiāo yáo fǎ wài",
+"unfettered and beyond the law (idiom); evading retribution; getting away with it (e.g. crimes); still at large"
 ],
 [
 "法子",
 9.3,
-"fa3 zi5",
+"fǎ zi",
 "way; method; Taiwan pr. [fa2 zi5]"
+],
+[
+"法则",
+9.3,
+"fǎ zé",
+"law; rule; code"
 ],
 [
 "法拉利",
 8.43,
-"Fa3 la1 li4",
+"Fǎ lā lì",
 "Ferrari"
+],
+[
+"法师",
+8.32,
+"fǎ shī",
+"one who has mastered the sutras (Buddhism)"
 ],
 [
 "犯法",
 8.02,
-"fan4 fa3",
+"fàn fǎ",
 "to break the law"
 ],
 [
 "打法",
 7.66,
-"da3 fa3",
+"dǎ fǎ",
 "to play (a card); to make a move in a game"
 ],
 [
 "算法",
 7.55,
-"suan4 fa3",
+"suàn fǎ",
 "arithmetic; algorithm; method of calculation"
+],
+[
+"法学",
+7.46,
+"fǎ xué",
+"law; legal studies"
 ],
 [
 "公司法",
 7.21,
-"gong1 si1 fa3",
+"gōng sī fǎ",
 "corporations law"
+],
+[
+"法学院",
+6.59,
+"fǎ xué yuàn",
+"law school"
+],
+[
+"法国人",
+6.55,
+"Fǎ guó rén",
+"Frenchman; French person"
 ],
 [
 "最高人民法院",
 6.12,
-"Zui4 gao1 Ren2 min2 Fa3 yuan4",
+"Zuì gāo Rén mín Fǎ yuàn",
 "Supreme People's Court (PRC)"
 ],
 [
 "阿拉法特",
 5.66,
-"A1 la1 fa3 te4",
+"Ā lā fǎ tè",
 "Mohammed Abdel Rahman Abdel Raouf Arafat al-Qudwa al-Husseini (1929-2004), Palestinian leader, popularly known as Yasser Arafat 亞西爾·阿拉法特|亚西尔·阿拉法特[Ya4 xi1 er3 · A1 la1 fa3 te4]"
 ],
 [
 "不法",
 5.26,
-"bu4 fa3",
+"bù fǎ",
 "lawless; illegal; unlawful"
+],
+[
+"法网",
+5.1,
+"Fǎ wǎng",
+"French Open (tennis tournament)"
+],
+[
+"法网",
+5.1,
+"fǎ wǎng",
+"the net of justice; rigorous process of the law; the long arm of the law"
 ],
 [
 "法令",
 5.03,
-"fa3 ling4",
+"fǎ lìng",
 "decree; ordinance"
 ],
 [
 "法新社",
 5.01,
-"Fa3 xin1 she4",
+"Fǎ xīn shè",
 "Agence France Presse; AFP news agency"
 ]
 ],

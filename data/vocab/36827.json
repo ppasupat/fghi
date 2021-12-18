@@ -10,82 +10,269 @@
 "进",
 2,
 "jìn",
-"enter; come in"
+"to go forward; to advance; to go in; to enter; to put in; to submit; to take in; to admit; (math.) base of a number system; classifier for sections in a building or residential compound"
 ],
 [
 "进行",
 4,
-"jìnxíng",
-"carry on; carry out; undertake"
-],
-[
-"促进",
-5,
-"cùjìn",
-"promote (an idea or cause); to advance"
-],
-[
-"改进",
-5,
-"gǎijìn",
-"improve; make better"
+"jìn xíng",
+"to advance; to conduct; underway; in progress; to do; to carry out; to carry on; to execute"
 ],
 [
 "进步",
 5,
-"jìnbù",
-"make progress; to advance"
+"jìn bù",
+"progress; improvement; to improve; to progress; CL:個|个[ge4]"
+],
+[
+"改进",
+5,
+"gǎi jìn",
+"to improve; to make better; CL:個|个[ge4]"
 ],
 [
 "进口",
 5,
 "jìn kǒu",
-"import; entrance; enter"
+"to import; imported; entrance; inlet (for the intake of air, water etc)"
 ],
 [
-"进而",
-6,
-"jìn'ér",
-"and then (what follows next)"
-],
-[
-"进攻",
-6,
-"jìngōng",
-"attack (military); assault"
-],
-[
-"进化",
-6,
-"jìnhuà",
-"evolution"
+"促进",
+5,
+"cù jìn",
+"to promote (an idea or cause); to advance; boost"
 ],
 [
 "进展",
 6,
-"jìnzhǎn",
-"make progress; development; make headway"
+"jìn zhǎn",
+"to make headway; to make progress"
 ],
 [
-"上进",
+"进攻",
 6,
-"shàngjìn",
-"make forward progress; do better"
+"jìn gōng",
+"to attack; to assault; to go on the offensive; attack; assault; offense (sports)"
 ],
 [
 "先进",
 6,
-"xiānjìn",
+"xiān jìn",
 "advanced (technology); to advance"
+],
+[
+"进化",
+6,
+"jìn huà",
+"evolution; CL:個|个[ge4]"
+],
+[
+"进而",
+6,
+"jìn ér",
+"and then (what follows next)"
+],
+[
+"上进",
+6,
+"shàng jìn",
+"to make progress; to do better; fig. ambitious to improve oneself; to move forwards"
 ],
 [
 "循序渐进",
 6,
 "xún xù jiàn jìn",
-"make steady progress incrementally; step by step program"
+"in sequence, step by step (idiom); to make steady progress incrementally"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"进入",
+327.12,
+"jìn rù",
+"to enter; to join; to go into"
+],
+[
+"进一步",
+237.88,
+"jìn yī bù",
+"one step further; to move forward a step; further onwards"
+],
+[
+"进来",
+208.64,
+"jìn lái",
+"to come in"
+],
+[
+"进去",
+201.42,
+"jìn qù",
+"to go in"
+],
+[
+"推进",
+103.28,
+"tuī jìn",
+"to impel; to carry forward; to push on; to advance; to drive forward"
+],
+[
+"引进",
+59.2,
+"yǐn jìn",
+"to recommend; to introduce (from outside)"
+],
+[
+"进程",
+42.72,
+"jìn chéng",
+"process; course"
+],
+[
+"走进",
+41.54,
+"zǒu jìn",
+"to enter"
+],
+[
+"进球",
+40.13,
+"jìn qiú",
+"to score a goal; goal (sport)"
+],
+[
+"前进",
+39.38,
+"qián jìn",
+"to go forward; to forge ahead; to advance; onward"
+],
+[
+"闯进",
+20.24,
+"chuǎng jìn",
+"to burst in"
+],
+[
+"进出口",
+16.38,
+"jìn chū kǒu",
+"import and export"
+],
+[
+"进军",
+14.97,
+"jìn jūn",
+"to march; to advance"
+],
+[
+"进度",
+14.89,
+"jìn dù",
+"pace; tempo; degree of progress (on project); work schedule"
+],
+[
+"打进",
+13.9,
+"dǎ jìn",
+"to breach; to invade"
+],
+[
+"增进",
+10.71,
+"zēng jìn",
+"to promote; to enhance; to further; to advance (a cause etc)"
+],
+[
+"进城",
+9.99,
+"jìn chéng",
+"to go to town; to enter a big city (to live or work)"
+],
+[
+"进出",
+9.59,
+"jìn chū",
+"to enter or exit; to go through"
+],
+[
+"进取",
+9.33,
+"jìn qǔ",
+"to show initiative; to be a go-getter; to push forward with one's agenda"
+],
+[
+"进驻",
+8.35,
+"jìn zhù",
+"to enter and garrison; (fig.) to establish a presence in"
+],
+[
+"冲进",
+8.02,
+"chōng jìn",
+"to rush in; to charge in"
+],
+[
+"进门",
+7.53,
+"jìn mén",
+"to enter a door; to go in; to learn the basics of a subject; to join one's husband's household upon marriage"
+],
+[
+"激进",
+7.18,
+"jī jìn",
+"radical; extreme; extremist"
+],
+[
+"进场",
+6.8,
+"jìn chǎng",
+"to enter the venue; to enter the arena; (aviation) to approach the airfield; (investing) to get into the market"
+],
+[
+"钻进",
+6.76,
+"zuān jìn",
+"to get into; to dig into (studies, job etc); to squeeze into"
+],
+[
+"进食",
+6.65,
+"jìn shí",
+"to take a meal; to eat"
+],
+[
+"迈进",
+6.59,
+"mài jìn",
+"to step in; to stride forward; to forge ahead"
+],
+[
+"跟进",
+6.15,
+"gēn jìn",
+"to follow; to follow up"
+],
+[
+"进货",
+6.0,
+"jìn huò",
+"to acquire stock; to replenish stock"
+],
+[
+"进修",
+5.44,
+"jìn xiū",
+"to undertake advanced studies; to take a refresher course"
+],
+[
+"买进",
+5.19,
+"mǎi jìn",
+"to purchase; to buy in (goods)"
+]
+],
 "strokes": [
 "M 703 564 Q 716 568 733 570 Q 782 580 790 587 Q 800 594 795 604 Q 788 616 758 624 Q 730 631 703 621 L 659 607 Q 619 597 578 586 Q 568 585 557 581 L 510 574 Q 471 570 431 566 Q 394 560 419 542 Q 455 523 511 527 L 556 535 Q 607 545 661 556 L 703 564 Z",
 "M 704 398 Q 866 404 871 409 Q 871 410 872 411 Q 876 421 861 435 Q 810 471 746 454 Q 725 450 704 444 L 661 436 Q 577 424 545 416 L 500 409 Q 445 403 387 393 Q 368 390 382 375 Q 395 362 413 358 Q 423 357 488 368 L 537 378 Q 597 393 661 395 L 704 398 Z",

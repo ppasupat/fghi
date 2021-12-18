@@ -9,93 +9,147 @@
 [
 "答案",
 4,
-"dá'àn",
-"answer; solution"
+"dá àn",
+"answer; solution; CL:個|个[ge4]"
 ],
 [
 "方案",
 5,
-"fāng'àn",
-"plan; program (for action, etc.); proposal"
+"fāng àn",
+"plan; program (for action etc); proposal; proposed bill; CL:個|个[ge4],套[tao4]"
 ],
 [
 "案件",
 6,
-"ànjiàn",
-"legal case; judicial case"
-],
-[
-"案例",
-6,
-"ànlì",
-"(Law) case"
-],
-[
-"草案",
-6,
-"cǎo'àn",
-"draft (legislation, proposal, etc.)"
+"àn jiàn",
+"case; instance; CL:宗[zong1],樁|桩[zhuang1],起[qi3]"
 ],
 [
 "档案",
 6,
-"dàng'àn",
+"dàng àn",
 "file; record; archive"
 ],
 [
 "图案",
 6,
-"tú'àn",
+"tú àn",
 "design; pattern"
+],
+[
+"案例",
+6,
+"àn lì",
+"case (law); CL:個|个[ge4]"
+],
+[
+"草案",
+6,
+"cǎo àn",
+"draft (legislation, proposal etc)"
 ]
 ],
 "extraWords": [
 [
 "案子",
 191.17,
-"an4 zi5",
+"àn zi",
 "long table; counter; case; law case; legal case; judicial case"
+],
+[
+"谋杀案",
+31.39,
+"móu shā àn",
+"murder case"
 ],
 [
 "提案",
 20.38,
-"ti2 an4",
+"tí àn",
 "proposal; draft resolution; motion (to be debated); to propose a bill; to make a proposal"
 ],
 [
 "作案",
 16.12,
-"zuo4 an4",
+"zuò àn",
 "to commit a crime"
+],
+[
+"办案",
+12.91,
+"bàn àn",
+"to handle a case"
+],
+[
+"备案",
+11.52,
+"bèi àn",
+"to put on record; to file"
 ],
 [
 "立案",
 11.42,
-"li4 an4",
+"lì àn",
 "to register (to an official organism); to file a case (for investigation)"
+],
+[
+"报案",
+11.06,
+"bào àn",
+"to report a case to the authorities"
+],
+[
+"结案",
+10.52,
+"jié àn",
+"to conclude a case; to wind up"
 ],
 [
 "法案",
 10.47,
-"fa3 an4",
+"fǎ àn",
 "bill; proposed law"
+],
+[
+"案发",
+9.45,
+"àn fā",
+"(of a crime) to occur; (old) (of a crime) to be discovered; to investigate a crime on the spot"
 ],
 [
 "破案",
 8.53,
-"po4 an4",
+"pò àn",
 "to solve a case; shabby old table"
+],
+[
+"凶杀案",
+7.75,
+"xiōng shā àn",
+"murder case"
 ],
 [
 "罪案",
 7.36,
-"zui4 an4",
+"zuì àn",
 "a criminal case"
+],
+[
+"专案组",
+7.06,
+"zhuān àn zǔ",
+"special investigation team (legal or judicial)"
+],
+[
+"议案",
+5.66,
+"yì àn",
+"proposal; motion"
 ],
 [
 "案情",
 5.55,
-"an4 qing2",
+"àn qíng",
 "details of a case; case"
 ]
 ],

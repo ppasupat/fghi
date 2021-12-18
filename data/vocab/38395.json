@@ -9,29 +9,84 @@
 [
 "新闻",
 3,
-"xīnwén",
-"news"
+"xīn wén",
+"news; CL:條|条[tiao2],個|个[ge4]"
+],
+[
+"闻",
+5,
+"Wén",
+"surname Wen"
 ],
 [
 "闻",
 5,
 "wén",
-"hear; to smell; news; reputation"
+"to hear; news; well-known; famous; reputation; fame; to smell; to sniff at"
 ],
 [
 "见闻",
 6,
-"jiànwén",
-"information"
+"jiàn wén",
+"what one has seen and heard; knowledge; one's experience"
 ],
 [
 "喜闻乐见",
 6,
-"xǐwénlèjiàn",
-"a delight to see (idiom); an attractive spectacle"
+"xǐ wén lè jiàn",
+"to love to hear and see (idiom); well received; to one's liking"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"新闻发布会",
+28.96,
+"xīn wén fā bù huì",
+"news conference"
+],
+[
+"传闻",
+12.84,
+"chuán wén",
+"rumor"
+],
+[
+"丑闻",
+8.56,
+"chǒu wén",
+"scandal"
+],
+[
+"闻言",
+7.0,
+"wén yán",
+"to have heard what was said"
+],
+[
+"闻名",
+6.92,
+"wén míng",
+"well-known; famous; renowned; eminent"
+],
+[
+"绯闻",
+6.35,
+"fēi wén",
+"sex scandal"
+],
+[
+"闻到",
+6.32,
+"wén dào",
+"to smell; to sniff sth out; to perceive by smelling"
+],
+[
+"闻讯",
+5.82,
+"wén xùn",
+"to receive news (of)"
+]
+],
 "strokes": [
 "M 312 766 Q 379 685 407 681 Q 422 680 429 699 Q 430 714 421 737 Q 409 756 381 769 Q 338 791 318 796 Q 308 797 306 785 Q 305 776 312 766 Z",
 "M 190 719 Q 247 566 202 259 Q 193 202 173 142 Q 154 85 189 40 L 191 38 Q 203 22 215 37 Q 252 82 254 252 Q 254 579 274 682 Q 277 703 259 714 Q 234 735 204 744 Q 194 747 186 737 Q 182 731 190 719 Z",

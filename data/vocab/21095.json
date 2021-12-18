@@ -9,41 +9,114 @@
 [
 "京剧",
 4,
-"jīngjù",
-"Beijing Opera"
+"Jīng jù",
+"Beijing opera; CL:場|场[chang3],齣|出[chu1]"
 ],
 [
 "戏剧",
 5,
-"xìjù",
+"xì jù",
 "drama; play; theater"
+],
+[
+"剧本",
+6,
+"jù běn",
+"script for play, opera, movie etc; screenplay; scenario"
+],
+[
+"剧烈",
+6,
+"jù liè",
+"violent; acute; severe; fierce"
 ],
 [
 "急剧",
 6,
-"jíjù",
+"jí jù",
 "rapid; sudden"
 ],
 [
 "加剧",
 6,
-"jiājù",
-"aggravate; intensify; sharpen; accelerate"
-],
-[
-"剧本",
-6,
-"jùběn",
-"script for a play; opera; movie; etc"
-],
-[
-"剧烈",
-6,
-"jùliè",
-"acute; violent; severe"
+"jiā jù",
+"to intensify; to sharpen; to accelerate; to aggravate; to exacerbate; to embitter"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"电视剧",
+34.2,
+"diàn shì jù",
+"TV series; TV drama; CL:部[bu4]"
+],
+[
+"悲剧",
+28.12,
+"bēi jù",
+"tragedy; CL:齣|出[chu1]"
+],
+[
+"喜剧",
+24.35,
+"xǐ jù",
+"comedy; CL:部[bu4],齣|出[chu1]"
+],
+[
+"剧院",
+17.71,
+"jù yuàn",
+"theater; CL:家[jia1],座[zuo4]"
+],
+[
+"剧情",
+17.06,
+"jù qíng",
+"story line; plot; drama (genre)"
+],
+[
+"剧组",
+15.03,
+"jù zǔ",
+"cast and crew; performers and production team"
+],
+[
+"恶作剧",
+12.79,
+"è zuò jù",
+"practical joke; prank; to play a practical joke"
+],
+[
+"话剧",
+10.23,
+"huà jù",
+"stage play; modern drama; CL:臺|台[tai2],部[bu4]"
+],
+[
+"编剧",
+9.56,
+"biān jù",
+"to write a play; scenario; dramatist; screenwriter"
+],
+[
+"剧场",
+9.12,
+"jù chǎng",
+"theater; CL:個|个[ge4]"
+],
+[
+"歌剧",
+7.39,
+"gē jù",
+"Western opera; CL:場|场[chang3],齣|出[chu1]"
+],
+[
+"戏剧性",
+5.25,
+"xì jù xìng",
+"dramatic"
+]
+],
 "strokes": [
 "M 521 639 Q 545 696 568 709 Q 584 727 570 744 Q 554 757 504 781 Q 486 788 466 780 Q 399 753 286 730 C 257 724 272 692 300 701 Q 304 702 312 705 Q 384 718 452 734 Q 470 738 477 731 Q 484 724 483 706 Q 476 672 468 641 C 461 612 509 612 521 639 Z",
 "M 279 560 Q 286 560 296 562 Q 372 583 537 605 Q 547 606 549 615 Q 549 624 521 639 C 501 651 497 649 468 641 Q 366 611 283 595 C 254 589 249 558 279 560 Z",

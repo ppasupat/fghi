@@ -9,29 +9,102 @@
 [
 "批评",
 4,
-"pīpíng",
-"criticize"
+"pī píng",
+"to criticize; criticism; CL:個|个[ge4]"
 ],
 [
 "评价",
 5,
-"píngjià",
-"to evaluate"
-],
-[
-"评估",
-6,
-"pínggū",
-"evaluate"
+"píng jià",
+"to evaluate; to assess"
 ],
 [
 "评论",
 6,
-"pínglùn",
-"comment on; discuss; remark"
+"píng lùn",
+"to comment on; to discuss; comment; commentary; CL:篇[pian1]"
+],
+[
+"评估",
+6,
+"píng gū",
+"to evaluate; to assess; assessment; evaluation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"评委",
+67.16,
+"píng wěi",
+"evaluation committee; judging panel; judging panel member; adjudicator; abbr. for 評選委員會委員|评选委员会委员[ping2 xuan3 wei3 yuan2 hui4 wei3 yuan2]"
+],
+[
+"评选",
+37.19,
+"píng xuǎn",
+"to select on the basis of a vote or consensus"
+],
+[
+"评审",
+15.14,
+"píng shěn",
+"to appraise; to evaluate; to judge"
+],
+[
+"好评",
+14.87,
+"hǎo píng",
+"favorable criticism; positive evaluation"
+],
+[
+"评级",
+12.05,
+"píng jí",
+"rating"
+],
+[
+"评定",
+12.0,
+"píng dìng",
+"to evaluate; to make one's judgment"
+],
+[
+"评判",
+10.58,
+"píng pàn",
+"to judge (a competition); to appraise"
+],
+[
+"评分",
+8.94,
+"píng fēn",
+"to grade; to mark (student's work); grade; score (of student's work)"
+],
+[
+"评议",
+8.24,
+"píng yì",
+"to appraise through discussion"
+],
+[
+"测评",
+7.3,
+"cè píng",
+"to test and evaluate"
+],
+[
+"评比",
+7.03,
+"píng bǐ",
+"to evaluate (by comparison)"
+],
+[
+"评为",
+5.84,
+"píng wéi",
+"to elect as; to choose as; to consider as"
+]
+],
 "strokes": [
 "M 280 762 Q 317 738 356 709 Q 371 699 387 701 Q 397 702 401 716 Q 404 732 391 760 Q 382 782 346 795 Q 258 816 248 807 Q 244 803 246 790 Q 250 780 280 762 Z",
 "M 150 508 Q 101 493 74 491 Q 59 492 57 484 Q 53 477 64 469 Q 103 444 130 455 Q 176 476 218 497 Q 245 510 254 503 Q 264 496 258 469 Q 258 432 256 393 Q 256 284 227 183 Q 211 152 254 103 Q 264 91 274 98 Q 281 105 292 129 Q 329 180 405 267 Q 417 279 414 286 Q 413 293 402 284 Q 363 257 326 227 Q 286 193 291 243 Q 290 307 311 463 Q 315 485 336 509 Q 349 519 339 532 Q 329 548 290 564 Q 278 571 261 560 Q 191 521 150 508 Z",

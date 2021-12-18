@@ -9,17 +9,66 @@
 [
 "错",
 2,
+"Cuò",
+"surname Cuo"
+],
+[
+"错",
+2,
 "cuò",
-"mistake; error; blunder; miss an opportunity"
+"mistake; wrong; bad; interlocking; complex; to grind; to polish; to alternate; to stagger; to miss; to let slip; to evade; to inlay with gold or silver"
 ],
 [
 "错误",
 4,
-"cuòwù",
-"error; mistake; mistaken"
+"cuò wù",
+"error; mistake; CL:個|个[ge4]; mistaken; false; wrong"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"不错",
+564.29,
+"bù cuò",
+"correct; right; not bad; pretty good"
+],
+[
+"错过",
+71.42,
+"cuò guò",
+"to miss (train, opportunity etc)"
+],
+[
+"没错",
+10.19,
+"méi cuò",
+"that's right; sure!; rest assured!; that's good; can't go wrong"
+],
+[
+"出错",
+8.56,
+"chū cuò",
+"to make a mistake; error"
+],
+[
+"过错",
+8.29,
+"guò cuò",
+"mistake; fault; responsibility (for a fault)"
+],
+[
+"错乱",
+6.32,
+"cuò luàn",
+"in disorder; deranged (mentally)"
+],
+[
+"差错",
+5.22,
+"chā cuò",
+"mistake; slip-up; fault; error (in data transmission); accident; mishap"
+]
+],
 "strokes": [
 "M 301 638 Q 329 702 367 739 Q 377 749 372 764 Q 368 777 338 799 Q 310 818 291 817 Q 272 816 281 792 Q 294 762 284 735 Q 250 647 196 563 Q 145 484 74 395 Q 64 385 62 378 Q 59 368 73 370 Q 118 376 277 600 Q 278 604 282 608 L 301 638 Z",
 "M 282 608 Q 315 599 382 615 Q 460 636 465 638 Q 472 645 467 653 Q 460 663 433 669 Q 405 672 379 660 Q 357 651 334 645 Q 318 641 301 638 C 271 633 253 615 282 608 Z",

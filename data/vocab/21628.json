@@ -9,64 +9,82 @@
 [
 "打招呼",
 4,
-"dǎzhāohu",
-"notify; greet; inform"
-],
-[
-"称呼",
-5,
-"chēnghu",
-"to call; address as; name"
+"dǎ zhāo hu",
+"to greet sb by word or action; to give prior notice"
 ],
 [
 "呼吸",
 5,
-"hūxī",
-"breathe"
+"hū xī",
+"to breathe"
+],
+[
+"称呼",
+5,
+"chēng hu",
+"to call; to address as; appellation"
 ],
 [
 "呼唤",
 6,
-"hūhuàn",
-"call out (a name etc.); shout"
-],
-[
-"呼啸",
-6,
-"hūxiào",
-"whistle; scream; howl"
+"hū huàn",
+"to call out (a name etc); to shout"
 ],
 [
 "呼吁",
 6,
-"hūyù",
-"call on (someone to do something); appeal"
+"hū yù",
+"to call on (sb to do sth); to appeal (to); an appeal"
+],
+[
+"呼啸",
+6,
+"hū xiào",
+"to whistle; to scream; to whiz"
 ]
 ],
 "extraWords": [
 [
 "招呼",
 25.96,
-"zhao1 hu5",
+"zhāo hu",
 "to call out to; to greet; to say hello to; to inform; to take care of; to take care that one does not"
 ],
 [
 "呼叫",
 24.8,
-"hu1 jiao4",
+"hū jiào",
 "to shout; to yell; (telecommunications) to call"
+],
+[
+"欢呼",
+19.29,
+"huān hū",
+"to cheer for; to acclaim"
 ],
 [
 "呼呼",
 9.27,
-"hu1 hu1",
+"hū hū",
 "(onom.) sound of the wind or the breathing of sb who is sound asleep"
+],
+[
+"呼声",
+9.1,
+"hū shēng",
+"a shout; fig. opinion or demand, esp. expressed by a group"
 ],
 [
 "呼吸道",
 7.0,
-"hu1 xi1 dao4",
+"hū xī dào",
 "respiratory tract"
+],
+[
+"惊呼",
+5.91,
+"jīng hū",
+"to cry out in alarm or surprise"
 ]
 ],
 "strokes": [

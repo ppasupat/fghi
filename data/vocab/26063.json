@@ -9,40 +9,64 @@
 [
 "民族",
 4,
-"mínzú",
-"nationality; ethnic group"
-],
-[
-"贵族",
-6,
-"guìzú",
-"lord; nobility; nobleman; noblewoman"
+"mín zú",
+"nationality; ethnic group; CL:個|个[ge4]"
 ],
 [
 "种族",
 6,
-"zhǒngzú",
+"zhǒng zú",
 "race; ethnicity"
+],
+[
+"贵族",
+6,
+"guì zú",
+"lord; nobility; nobleman; noblewoman; aristocrat; aristocracy"
 ]
 ],
 "extraWords": [
 [
 "家族",
 54.31,
-"jia1 zu2",
+"jiā zú",
 "family; clan"
+],
+[
+"少数民族",
+21.8,
+"shǎo shù mín zú",
+"national minority; ethnic group"
+],
+[
+"中华民族",
+16.78,
+"Zhōng huá mín zú",
+"the Chinese people"
 ],
 [
 "族人",
 6.95,
-"zu2 ren2",
+"zú rén",
 "clansman; clan members; relatives; ethnic minority"
+],
+[
+"汉族",
+6.01,
+"Hàn zú",
+"Han ethnic group"
 ],
 [
 "藏族",
 5.7,
-"Zang4 zu2",
+"Zàng zú",
 "Tibetan ethnic group"
+],
+[
+"种族主义",
+5.25,
+"zhǒng zú zhǔ yì",
+"racism"
 ]
 ],
 "strokes": [

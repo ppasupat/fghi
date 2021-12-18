@@ -9,107 +9,294 @@
 [
 "报纸",
 2,
-"bàozhǐ",
-"newspaper"
+"bào zhǐ",
+"newspaper; newsprint; CL:份[fen4],期[qi1],張|张[zhang1]"
 ],
 [
 "报名",
 4,
 "bào míng",
-"sign up; apply"
-],
-[
-"报到",
-5,
-"bàodào",
-"report for duty; to check in; register"
-],
-[
-"报道",
-5,
-"bàodào",
-"to report; news report"
+"to sign up; to enter one's name; to apply; to register; to enroll; to enlist"
 ],
 [
 "报告",
 5,
-"bàogào",
-"to report; make known; inform; speech; lecture"
+"bào gào",
+"to inform; to report; to make known; report; speech; talk; lecture; CL:篇[pian1],份[fen4],個|个[ge4],通[tong4]"
+],
+[
+"报道",
+5,
+"bào dào",
+"to report (news); report; CL:篇[pian1],份[fen4]"
 ],
 [
 "报社",
 5,
-"bàoshè",
-"newspaper office"
+"bào shè",
+"newspaper (i.e. a company); CL:家[jia1]"
+],
+[
+"报到",
+5,
+"bào dào",
+"to report for duty; to check in; to register"
 ],
 [
 "预报",
 5,
-"yùbào",
-"to predict; forecast"
+"yù bào",
+"forecast"
+],
+[
+"报警",
+6,
+"bào jǐng",
+"to sound an alarm; to report sth to the police"
+],
+[
+"情报",
+6,
+"qíng bào",
+"information; intelligence"
+],
+[
+"报复",
+6,
+"bào fù",
+"to make reprisals; to retaliate; revenge; retaliation"
+],
+[
+"回报",
+6,
+"huí bào",
+"(in) return; reciprocation; payback; retaliation; to report back; to reciprocate"
+],
+[
+"汇报",
+6,
+"huì bào",
+"to report; to give an account of; to collect information and report back"
+],
+[
+"汇报",
+6,
+"huì bào",
+"to report; to give an account of; report"
 ],
 [
 "报仇",
 6,
-"bàochóu",
-"retaliate; to revenge; avenge"
+"bào chóu",
+"to take revenge; to avenge"
 ],
 [
 "报酬",
 6,
-"bàochou",
+"bào chou",
 "reward; remuneration"
 ],
 [
 "报答",
 6,
-"bàodá",
-"repay; requite"
-],
-[
-"报复",
-6,
-"bàofu",
-"retaliate; revenge"
-],
-[
-"报警",
-6,
-"bàojǐng",
-"report (an incident) to the police"
+"bào dá",
+"to repay; to requite"
 ],
 [
 "报销",
 6,
-"bàoxiāo",
-"submit an expense account; apply for reimbursement; write off"
-],
-[
-"回报",
-6,
-"huíbào",
-"repayment; payback"
-],
-[
-"汇报",
-6,
-"huìbào",
-"report; give an account of; to collect information and report back"
-],
-[
-"情报",
-6,
-"qíngbào",
-"intelligence; information-gathering"
+"bào xiāo",
+"to submit an expense account; to apply for reimbursement; to write off; to wipe out"
 ],
 [
 "申报",
 6,
-"shēnbào",
-"declare; report (to customs or other authority)"
+"shēn bào",
+"to report (to the authorities); to declare (to customs)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"举报",
+32.23,
+"jǔ bào",
+"to report (malefactors to the police); to denounce"
+],
+[
+"时报",
+31.06,
+"Shí bào",
+"\"Times\" (newspaper, e.g. New York Times)"
+],
+[
+"警报",
+30.29,
+"jǐng bào",
+"(fire) alarm; alert signal; alarm; alert; warning"
+],
+[
+"晨报",
+27.71,
+"chén bào",
+"morning newspaper; (in a newspaper's name) Morning Post"
+],
+[
+"通报",
+25.08,
+"tōng bào",
+"to inform; to notify; to announce; circular; bulletin; (scientific) journal"
+],
+[
+"报价",
+22.39,
+"bào jià",
+"to quote a price; quoted price; quote"
+],
+[
+"早报",
+16.93,
+"zǎo bào",
+"morning newspaper"
+],
+[
+"报考",
+14.73,
+"bào kǎo",
+"to enter oneself for an examination"
+],
+[
+"报刊",
+13.17,
+"bào kān",
+"newspapers and periodicals; the press"
+],
+[
+"商报",
+13.07,
+"shāng bào",
+"business newspaper"
+],
+[
+"报应",
+12.97,
+"bào yìng",
+"retribution; judgment"
+],
+[
+"上报",
+11.84,
+"shàng bào",
+"to report to one's superiors; to appear in the news; to reply to a letter"
+],
+[
+"报案",
+11.06,
+"bào àn",
+"to report a case to the authorities"
+],
+[
+"海报",
+10.96,
+"hǎi bào",
+"poster; playbill; notice"
+],
+[
+"快报",
+10.51,
+"kuài bào",
+"bulletin board"
+],
+[
+"人民日报",
+10.4,
+"Rén mín Rì bào",
+"People's Daily (PRC newspaper)"
+],
+[
+"报导",
+10.05,
+"bào dǎo",
+"to report (in the media); (news) report"
+],
+[
+"报表",
+10.0,
+"bào biǎo",
+"forms for reporting statistics; report forms"
+],
+[
+"晚报",
+9.95,
+"wǎn bào",
+"evening newspaper; (in a newspaper's name) Evening News"
+],
+[
+"京报",
+9.77,
+"Jīng Bào",
+"Peking Gazette (official government bulletin)"
+],
+[
+"年报",
+8.83,
+"nián bào",
+"annual report"
+],
+[
+"公报",
+8.3,
+"gōng bào",
+"announcement; bulletin; communique"
+],
+[
+"日报",
+8.1,
+"rì bào",
+"daily newspaper"
+],
+[
+"电报",
+6.41,
+"diàn bào",
+"telegram; cable; telegraph; CL:封[feng1],份[fen4]"
+],
+[
+"中国日报",
+6.0,
+"Zhōng guó Rì bào",
+"China Daily (an English language newspaper)"
+],
+[
+"学报",
+5.8,
+"xué bào",
+"a scholarly journal; Journal, Bulletin etc"
+],
+[
+"报废",
+5.78,
+"bào fèi",
+"to scrap; to be written off"
+],
+[
+"简报",
+5.34,
+"jiǎn bào",
+"presentation; briefing; (oral or written) brief report"
+],
+[
+"天气预报",
+5.33,
+"tiān qì yù bào",
+"weather forecast"
+],
+[
+"报告会",
+5.28,
+"bào gào huì",
+"public lecture (with guest speakers etc)"
+]
+],
 "strokes": [
 "M 364 541 Q 380 547 400 551 Q 436 561 441 567 Q 450 576 444 584 Q 437 596 406 601 Q 385 605 366 598 L 317 580 Q 211 547 155 539 Q 118 530 146 515 Q 189 491 247 510 Q 280 519 316 528 L 364 541 Z",
 "M 313 364 Q 312 264 310 135 Q 309 111 296 102 Q 284 95 259 105 Q 229 114 201 123 Q 168 135 171 125 Q 172 118 192 102 Q 265 47 285 15 Q 307 -22 325 -23 Q 338 -24 354 11 Q 372 56 371 130 Q 364 266 362 403 L 362 437 Q 362 489 364 541 L 366 598 Q 366 704 386 773 Q 404 803 348 825 Q 314 844 295 837 Q 277 831 293 808 Q 315 780 316 747 Q 317 729 317 580 L 316 528 Q 315 476 314 408 L 313 364 Z",

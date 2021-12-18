@@ -7,19 +7,80 @@
 },
 "words": [
 [
-"减肥",
-4,
-"jiǎnféi",
-"go on a diet; lose weight"
-],
-[
 "减少",
 4,
-"jiǎnshǎo",
-"reduce; to decrease"
+"jiǎn shǎo",
+"to lessen; to decrease; to reduce; to lower"
+],
+[
+"减肥",
+4,
+"jiǎn féi",
+"to lose weight"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"减轻",
+34.48,
+"jiǎn qīng",
+"to lighten; to ease; to alleviate"
+],
+[
+"减弱",
+12.69,
+"jiǎn ruò",
+"to weaken; to fall off"
+],
+[
+"削减",
+8.79,
+"xuē jiǎn",
+"to cut down; to reduce; to lower"
+],
+[
+"减免",
+8.18,
+"jiǎn miǎn",
+"to reduce or waive (taxes, punishment, rent, tuition etc)"
+],
+[
+"减小",
+7.65,
+"jiǎn xiǎo",
+"to reduce; to decrease; to diminish"
+],
+[
+"减速",
+7.33,
+"jiǎn sù",
+"to reduce speed; to slow down; to take it easy"
+],
+[
+"减缓",
+5.77,
+"jiǎn huǎn",
+"to slow down; to retard"
+],
+[
+"减产",
+5.58,
+"jiǎn chǎn",
+"to produce less; to reduce output; lower yield"
+],
+[
+"减退",
+5.18,
+"jiǎn tuì",
+"to ebb; to go down; to decline"
+],
+[
+"减压",
+5.08,
+"jiǎn yā",
+"to reduce pressure; to relax"
+]
+],
 "strokes": [
 "M 198 650 Q 226 619 255 582 Q 268 566 285 564 Q 297 563 305 577 Q 312 593 307 626 Q 301 662 200 703 Q 184 709 176 707 Q 170 704 170 689 Q 171 676 198 650 Z",
 "M 120 158 Q 110 154 112 138 Q 130 65 163 50 Q 170 43 180 47 Q 187 48 187 73 Q 191 116 214 180 Q 286 405 287 406 Q 286 416 277 409 Q 265 402 160 205 Q 148 183 120 158 Z",

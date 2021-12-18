@@ -10,28 +10,65 @@
 "讲",
 3,
 "jiǎng",
-"to talk; to lecture; to explain; a speech"
-],
-[
-"讲究",
-5,
-"jiǎngjiu",
-"Be particular about; fastidious; stress; exquisite ; careful study"
-],
-[
-"讲座",
-5,
-"jiǎngzuò",
-"a lecture or course of lectures; lecture hall"
+"to speak; to explain; to negotiate; to emphasise; to be particular about; as far as sth is concerned; speech; lecture"
 ],
 [
 "演讲",
 5,
-"yǎnjiǎng",
-"give a lecture; make a speech"
+"yǎn jiǎng",
+"lecture; to make a speech"
+],
+[
+"讲座",
+5,
+"jiǎng zuò",
+"a course of lectures; CL:個|个[ge4]"
+],
+[
+"讲究",
+5,
+"jiǎng jiu",
+"to pay particular attention to; carefully selected for quality; tastefully chosen"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"讲话",
+57.37,
+"jiǎng huà",
+"a speech; to speak; to talk; to address; CL:個|个[ge4]"
+],
+[
+"来讲",
+30.25,
+"lái jiǎng",
+"as to; considering; for"
+],
+[
+"讲述",
+25.2,
+"jiǎng shù",
+"to talk about; to narrate; to give an account"
+],
+[
+"讲解",
+10.83,
+"jiǎng jiě",
+"to explain"
+],
+[
+"讲课",
+5.28,
+"jiǎng kè",
+"teach; lecture"
+],
+[
+"对讲机",
+5.16,
+"duì jiǎng jī",
+"intercom; walkie-talkie"
+]
+],
 "strokes": [
 "M 263 731 Q 293 704 325 672 Q 338 659 356 659 Q 366 659 373 673 Q 377 688 369 719 Q 360 753 259 782 Q 243 786 236 783 Q 230 779 232 766 Q 236 754 263 731 Z",
 "M 157 489 Q 108 473 82 471 Q 67 472 65 464 Q 61 457 72 448 Q 94 435 110 432 Q 125 429 218 476 Q 243 489 252 482 Q 262 475 256 450 Q 256 281 216 156 Q 198 128 240 75 Q 250 62 260 69 Q 269 76 280 99 Q 320 150 404 236 Q 417 246 414 254 Q 413 263 402 253 Q 360 226 318 196 Q 273 160 282 215 Q 283 281 309 442 Q 313 466 335 488 Q 347 498 338 511 Q 328 527 290 543 Q 278 550 261 539 Q 195 502 157 489 Z",

@@ -9,70 +9,94 @@
 [
 "禁止",
 4,
-"jìnzhǐ",
-"to ban; prohibit"
+"jìn zhǐ",
+"to prohibit; to forbid; to ban"
 ],
 [
 "阻止",
 5,
-"zǔzhǐ",
-"prevent; to block"
+"zǔ zhǐ",
+"to prevent; to block"
 ],
 [
 "不止",
 6,
-"bùzhǐ",
-"incessantly; more than"
+"bù zhǐ",
+"incessantly; without end; more than; not limited to"
 ],
 [
 "防止",
 6,
-"fángzhǐ",
-"prevent; protect; guard against; avoid"
-],
-[
-"截止",
-6,
-"jiézhǐ",
-"end; close; stop; expiration"
-],
-[
-"迄今为止",
-6,
-"qìjīnwéizhǐ",
-"until now; so far; to date"
-],
-[
-"制止",
-6,
-"zhìzhǐ",
-"to curb; to put a stop to"
+"fáng zhǐ",
+"to prevent; to guard against; to take precautions"
 ],
 [
 "终止",
 6,
-"zhōngzhǐ",
-"stop; cease; terminate (legal)"
+"zhōng zhǐ",
+"to stop; to terminate (law)"
+],
+[
+"制止",
+6,
+"zhì zhǐ",
+"to curb; to put a stop to; to stop; to check; to limit"
+],
+[
+"迄今为止",
+6,
+"qì jīn wéi zhǐ",
+"so far; up to now; still (not)"
+],
+[
+"截止",
+6,
+"jié zhǐ",
+"to close; to stop; to put a stop to sth; cut-off point; stopping point; deadline"
 ]
 ],
 "extraWords": [
 [
 "停止",
 85.14,
-"ting2 zhi3",
+"tíng zhǐ",
 "to stop; to halt; to cease"
+],
+[
+"为止",
+51.45,
+"wéi zhǐ",
+"until; (used in combination with words like 到[dao4] or 至[zhi4] in constructs of the form 到...為止|到...为止)"
+],
+[
+"到此为止",
+18.72,
+"dào cǐ wéi zhǐ",
+"to stop at this point; to end here; to call it a day"
+],
+[
+"举止",
+8.5,
+"jǔ zhǐ",
+"bearing; manner; mien"
 ],
 [
 "止血",
 6.8,
-"zhi3 xue4",
+"zhǐ xuè",
 "to staunch (bleeding); hemostatic (drug)"
 ],
 [
 "中止",
 6.71,
-"zhong1 zhi3",
+"zhōng zhǐ",
 "to cease; to suspend; to break off; to stop; to discontinue"
+],
+[
+"止痛药",
+5.51,
+"zhǐ tòng yào",
+"painkiller; analgesic; anodyne"
 ]
 ],
 "strokes": [

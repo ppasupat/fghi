@@ -7,25 +7,32 @@
 },
 "words": [
 [
-"丝绸",
-5,
-"sīchóu",
-"silk"
-],
-[
 "丝毫",
 5,
-"sīháo",
-"the slightest amount or degree; a very little bit"
+"sī háo",
+"the slightest amount or degree; a bit"
+],
+[
+"丝绸",
+5,
+"sī chóu",
+"silk cloth; silk"
 ],
 [
 "一丝不苟",
 6,
-"yìsībùgǒu",
-"(literally) not one thread loose; strictly according to the rules; meticulous"
+"yī sī bù gǒu",
+"not one thread loose (idiom); strictly according to the rules; meticulous; not one hair out of place"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"粉丝",
+46.67,
+"fěn sī",
+"bean vermicelli; mung bean starch noodles; Chinese vermicelli; cellophane noodles; CL:把[ba3]; fan (loanword); enthusiast for sb or sth"
+]
+],
 "strokes": [
 "M 370 458 Q 309 458 258 458 Q 224 458 242 479 Q 309 588 375 669 Q 390 685 387 693 Q 386 708 347 739 Q 331 752 313 750 Q 301 747 307 731 Q 325 692 235 536 Q 216 502 177 468 Q 158 455 159 442 Q 163 423 177 405 Q 187 395 199 401 Q 236 420 352 433 C 382 436 400 458 370 458 Z",
 "M 352 433 Q 247 283 218 270 Q 205 261 207 247 Q 208 234 234 214 Q 244 201 259 214 Q 322 251 425 281 Q 444 285 447 293 Q 450 303 430 301 Q 375 294 308 280 Q 271 267 295 297 Q 437 505 502 561 Q 514 571 508 581 Q 498 600 464 618 Q 448 627 439 624 Q 429 621 432 606 Q 435 558 370 458 L 352 433 Z",

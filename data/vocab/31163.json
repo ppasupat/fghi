@@ -9,20 +9,32 @@
 [
 "离",
 2,
+"chī",
+"mythical beast (archaic)"
+],
+[
+"离",
+2,
+"Lí",
+"surname Li"
+],
+[
+"离",
+2,
 "lí",
-"leave; depart; go away; apart from"
+"to leave; to part from; to be away from; (in giving distances) from; without (sth); independent of; one of the Eight Trigrams 八卦[ba1 gua4], symbolizing fire; ☲"
 ],
 [
 "离开",
 3,
-"líkāi",
-"leave; depart"
+"lí kāi",
+"to depart; to leave"
 ],
 [
 "距离",
 4,
-"jùlí",
-"distance; be apart; away from"
+"jù lí",
+"distance; CL:個|个[ge4]; to be apart from"
 ],
 [
 "离婚",
@@ -33,17 +45,102 @@
 [
 "隔离",
 6,
-"gélí",
-"insulate; separate; isolate"
+"gé lí",
+"to separate; to isolate"
 ],
 [
 "脱离",
 6,
-"tuōlí",
-"to separate oneself from; to break away from; be divorced from; diastasis (medicine); abscission; abjunction (botany)"
+"tuō lí",
+"to separate oneself from; to break away from; diastasis (medicine); abscission; abjunction (botany)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"分离",
+37.75,
+"fēn lí",
+"to separate"
+],
+[
+"远离",
+29.99,
+"yuǎn lí",
+"to be far from; to keep away from"
+],
+[
+"离子",
+20.41,
+"lí zǐ",
+"ion"
+],
+[
+"离去",
+16.96,
+"lí qù",
+"to leave; to exit"
+],
+[
+"离不开",
+14.38,
+"lí bu kāi",
+"inseparable; inevitably linked to"
+],
+[
+"逃离",
+13.18,
+"táo lí",
+"to run out; to escape"
+],
+[
+"撤离",
+11.03,
+"chè lí",
+"to withdraw from; to evacuate"
+],
+[
+"离谱",
+8.08,
+"lí pǔ",
+"excessive; beyond reasonable limits; irregular"
+],
+[
+"偏离",
+7.42,
+"piān lí",
+"to deviate; to diverge; to wander"
+],
+[
+"游离",
+7.0,
+"yóu lí",
+"to disassociate; to drift away; to leave (a collective); free (component)"
+],
+[
+"剥离",
+6.06,
+"bō lí",
+"to peel; to strip; to peel off; to come off (of tissue, skin, covering etc)"
+],
+[
+"近距离",
+5.83,
+"jìn jù lí",
+"close range"
+],
+[
+"离别",
+5.34,
+"lí bié",
+"to leave (on a long journey); to part from sb"
+],
+[
+"离职",
+5.25,
+"lí zhí",
+"to retire; to leave office; to quit a job"
+]
+],
 "strokes": [
 "M 444 794 Q 478 769 514 740 Q 527 728 543 730 Q 553 731 557 744 Q 561 759 550 787 Q 538 818 437 839 Q 421 842 416 839 Q 412 835 413 823 Q 417 813 444 794 Z",
 "M 559 660 Q 613 670 753 680 Q 765 679 775 691 Q 776 704 753 716 Q 710 741 649 723 Q 453 687 258 671 Q 227 668 250 649 Q 286 618 316 625 Q 412 641 533 657 L 559 660 Z",

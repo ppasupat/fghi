@@ -9,105 +9,123 @@
 [
 "加油站",
 4,
-"jiāyóuzhàn",
+"jiā yóu zhàn",
 "gas station"
-],
-[
-"酱油",
-5,
-"jiàngyóu",
-"soy sauce"
-],
-[
-"汽油",
-5,
-"qìyóu",
-"gasoline; gas; petrol"
 ],
 [
 "油炸",
 5,
-"yóuzhá",
-"deep fry"
+"yóu zhá",
+"to deep fry"
 ],
 [
-"柴油",
-6,
-"cháiyóu",
-"diesel fuel; kerosene"
+"汽油",
+5,
+"qì yóu",
+"gasoline"
+],
+[
+"酱油",
+5,
+"jiàng yóu",
+"soy sauce"
 ],
 [
 "石油",
 6,
-"shíyóu",
+"shí yóu",
 "oil; petroleum"
-],
-[
-"油腻",
-6,
-"yóunì",
-"greasy or oily (food)"
 ],
 [
 "油漆",
 6,
-"yóuqī",
-"oil paint; varnish"
+"yóu qī",
+"oil paints; lacquer; to paint; CL:層|层[ceng2]"
+],
+[
+"柴油",
+6,
+"chái yóu",
+"diesel fuel"
+],
+[
+"油腻",
+6,
+"yóu nì",
+"grease; greasy food; oily; rich (of food); fatty; greasy and dirty; a slippery character"
 ]
 ],
 "extraWords": [
 [
 "加油",
 131.49,
-"jia1 you2",
+"jiā yóu",
 "to add oil; to top up with gas; to refuel; to accelerate; to step on the gas; (fig.) to make an extra effort; to cheer sb on"
 ],
 [
 "原油",
 35.16,
-"yuan2 you2",
+"yuán yóu",
 "crude oil"
 ],
 [
 "奶油",
 14.99,
-"nai3 you2",
-"cream; butter"
+"nǎi yóu",
+"cream; butter; (coll.) effeminate"
 ],
 [
 "燃油",
 13.2,
-"ran2 you2",
+"rán yóu",
 "fuel oil"
 ],
 [
 "油田",
 10.43,
-"you2 tian2",
+"yóu tián",
 "oil field"
 ],
 [
 "油菜",
 9.22,
-"you2 cai4",
+"yóu cài",
 "oilseed rape (Brassica napus); flowering edible rape (Brassica chinensis var. oleifera)"
+],
+[
+"黄油",
+8.64,
+"huáng yóu",
+"butter; CL:盒[he2]"
 ],
 [
 "油脂",
 7.59,
-"you2 zhi1",
+"yóu zhī",
 "grease; oil; fat"
+],
+[
+"油画",
+7.38,
+"yóu huà",
+"oil painting"
 ],
 [
 "油耗",
 5.68,
-"you2 hao4",
+"yóu hào",
 "fuel consumption"
+],
+[
+"油气",
+5.45,
+"yóu qì",
+"oil and gas"
 ],
 [
 "燃料油",
 5.29,
-"ran2 liao4 you2",
+"rán liào yóu",
 "fuel oil"
 ]
 ],

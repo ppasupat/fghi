@@ -7,61 +7,92 @@
 },
 "words": [
 [
-"优点",
-4,
-"yōudiǎn",
-"merit; good point; a strength; a benefit"
-],
-[
 "优秀",
 4,
-"yōuxiù",
+"yōu xiù",
 "outstanding; excellent"
 ],
 [
-"优惠",
-5,
-"yōuhuì",
-"preferential; favorable"
-],
-[
-"优美",
-5,
-"yōuměi",
-"graceful; fine; elegant"
+"优点",
+4,
+"yōu diǎn",
+"merit; benefit; strong point; advantage; CL:個|个[ge4],項|项[xiang4]"
 ],
 [
 "优势",
 5,
-"yōushì",
-"advantage; superiority; dominant position"
+"yōu shì",
+"superiority; dominance; advantage"
 ],
 [
-"优胜劣汰",
-6,
-"yōushèngliètài",
-"survival of the fittest"
+"优美",
+5,
+"yōu měi",
+"graceful; fine; elegant"
+],
+[
+"优惠",
+5,
+"yōu huì",
+"privilege; favorable (terms); preferential (treatment); discount (price)"
 ],
 [
 "优先",
 6,
-"yōuxiān",
-"priority; preferential"
-],
-[
-"优异",
-6,
-"yōuyì",
-"exceptional; excellent; outstandingly good"
+"yōu xiān",
+"to have priority; to take precedence"
 ],
 [
 "优越",
 6,
-"yōuyuè",
+"yōu yuè",
 "superior; superiority"
+],
+[
+"优异",
+6,
+"yōu yì",
+"exceptional; outstandingly good"
+],
+[
+"优胜劣汰",
+6,
+"yōu shèng liè tài",
+"survival of the fittest (idiom)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"优质",
+38.03,
+"yōu zhì",
+"excellent quality"
+],
+[
+"优化",
+37.32,
+"yōu huà",
+"optimization; to optimize; to make superior"
+],
+[
+"优雅",
+25.85,
+"yōu yǎ",
+"grace; graceful"
+],
+[
+"优良",
+21.19,
+"yōu liáng",
+"fine; good; first-rate"
+],
+[
+"优于",
+8.74,
+"yōu yú",
+"to surpass"
+]
+],
 "strokes": [
 "M 243 494 Q 289 552 339 629 Q 367 681 394 705 Q 404 715 399 730 Q 395 743 365 768 Q 338 787 318 788 Q 299 787 307 763 Q 320 729 307 700 Q 267 606 204 517 Q 144 432 64 340 Q 54 330 50 323 Q 46 311 61 314 Q 101 318 219 464 L 243 494 Z",
 "M 219 464 Q 240 407 240 354 Q 228 194 202 107 Q 192 62 226 11 Q 227 11 229 8 Q 247 -8 259 19 Q 274 59 273 106 Q 286 350 297 404 Q 304 431 295 442 Q 250 490 243 494 C 220 514 209 492 219 464 Z",

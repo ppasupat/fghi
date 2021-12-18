@@ -9,155 +9,420 @@
 [
 "时候",
 1,
-"shíhou",
-"time"
+"shí hou",
+"time; length of time; moment; period"
 ],
 [
 "时间",
 2,
-"shíjiān",
-"time; period"
+"shí jiān",
+"time; period; CL:段[duan4]"
 ],
 [
 "小时",
 2,
-"xiǎoshí",
-"hour"
-],
-[
-"按时",
-4,
-"ànshí",
-"on time; on schedule"
+"xiǎo shí",
+"hour; CL:個|个[ge4]"
 ],
 [
 "当时",
 4,
-"dāngshí",
+"dāng shí",
 "then; at that time; while"
 ],
 [
-"及时",
+"当时",
 4,
-"jíshí",
-"timely; in time; promptly; without delay"
-],
-[
-"平时",
-4,
-"píngshí",
-"ordinarily; in normal times; in peacetime"
+"dàng shí",
+"at once; right away"
 ],
 [
 "同时",
 4,
-"tóngshí",
+"tóng shí",
 "at the same time; simultaneously"
 ],
 [
 "暂时",
 4,
-"zànshí",
-"temporary; transient; for the moment"
+"zàn shí",
+"temporary; provisional; for the time being"
+],
+[
+"平时",
+4,
+"píng shí",
+"ordinarily; in normal times; in peacetime"
+],
+[
+"及时",
+4,
+"jí shí",
+"in time; promptly; without delay; timely"
 ],
 [
 "准时",
 4,
-"zhǔnshí",
-"punctually; on time"
+"zhǔn shí",
+"on time; punctual; on schedule"
 ],
 [
-"临时",
-5,
-"línshí",
-"temporary; at the time; when the time comes"
-],
-[
-"时差",
-5,
-"shíchā",
-"jetlag; time difference"
-],
-[
-"时代",
-5,
-"shídài",
-"age; era; period"
+"按时",
+4,
+"àn shí",
+"on time; before deadline; on schedule"
 ],
 [
 "时刻",
 5,
-"shíkè",
-"moment; constantly"
-],
-[
-"时髦",
-5,
-"shímáo",
-"fashionable"
-],
-[
-"时期",
-5,
-"shíqī",
-"period in time or history; period; time"
-],
-[
-"时尚",
-5,
-"shíshàng",
-"fashion; fad"
+"shí kè",
+"time; juncture; moment; period of time; CL:個|个[ge4],段[duan4]; constantly; always"
 ],
 [
 "随时",
 5,
-"suíshí",
-"at any time; whenever necessary"
+"suí shí",
+"at any time; at all times; at the right time"
 ],
 [
-"不时",
-6,
-"bùshí",
-"frequently; often; at any time"
+"时代",
+5,
+"Shí dài",
+"Time, US weekly news magazine"
 ],
 [
-"顿时",
-6,
-"dùnshí",
-"immediately; suddenly"
+"时代",
+5,
+"shí dài",
+"age; era; epoch; period (in one's life); CL:個|个[ge4]"
 ],
 [
-"时常",
-6,
-"shícháng",
-"time and again; often; frequently"
+"时尚",
+5,
+"shí shàng",
+"fashion; fad; fashionable"
 ],
 [
-"时而",
-6,
-"shí'ér",
-"occasionally; often, but not at any fixed time"
+"时期",
+5,
+"shí qī",
+"period; phase; CL:個|个[ge4]"
+],
+[
+"临时",
+5,
+"lín shí",
+"as the time draws near; at the last moment; temporary; interim; ad hoc"
+],
+[
+"时髦",
+5,
+"shí máo",
+"in vogue; fashionable"
+],
+[
+"时差",
+5,
+"shí chā",
+"time difference; time lag; jet lag"
 ],
 [
 "时光",
 6,
-"shíguāng",
+"shí guāng",
 "time; era; period of time"
 ],
 [
 "时机",
 6,
-"shíjī",
-"opportune time; opportunity"
+"shí jī",
+"fortunate timing; occasion; opportunity"
+],
+[
+"时常",
+6,
+"shí cháng",
+"often; frequently"
+],
+[
+"不时",
+6,
+"bù shí",
+"from time to time; now and then; occasionally; frequently"
 ],
 [
 "时事",
 6,
-"shíshì",
-"current events; the present situation"
+"shí shì",
+"current trends; the present situation; how things are going"
+],
+[
+"时而",
+6,
+"shí ér",
+"occasionally; from time to time"
+],
+[
+"顿时",
+6,
+"dùn shí",
+"immediately; suddenly"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"那时",
+104.15,
+"nà shí",
+"then; at that time; in those days"
+],
+[
+"此时",
+78.51,
+"cǐ shí",
+"now; this moment"
+],
+[
+"有时",
+77.12,
+"yǒu shí",
+"sometimes; now and then"
+],
+[
+"有时候",
+72.82,
+"yǒu shí hou",
+"sometimes"
+],
+[
+"这时",
+69.2,
+"zhè shí",
+"at this time; at this moment"
+],
+[
+"北京时间",
+56.48,
+"Běi jīng Shí jiān",
+"Chinese Standard Time"
+],
+[
+"一时",
+35.46,
+"yī shí",
+"a period of time; a while; for a short while; temporary; momentary; at the same time"
+],
+[
+"与此同时",
+33.46,
+"yǔ cǐ tóng shí",
+"at the same time; meanwhile"
+],
+[
+"小时候",
+32.19,
+"xiǎo shí hou",
+"in one's childhood"
+],
+[
+"时报",
+31.06,
+"Shí bào",
+"\"Times\" (newspaper, e.g. New York Times)"
+],
+[
+"届时",
+27.08,
+"jiè shí",
+"when the time comes; at the scheduled time"
+],
+[
+"何时",
+25.64,
+"hé shí",
+"when"
+],
+[
+"一时间",
+24.91,
+"yī shí jiān",
+"for a moment; momentarily"
+],
+[
+"时装",
+17.47,
+"shí zhuāng",
+"fashion; fashionable clothes"
+],
+[
+"到时候",
+15.01,
+"dào shí hòu",
+"when the moment comes; at that time"
+],
+[
+"时段",
+13.49,
+"shí duàn",
+"time interval; work shift; time slot; the twelve two-hour divisions of the day"
+],
+[
+"时空",
+12.88,
+"shí kōng",
+"time and place; world of a particular locale and era; (physics) space-time"
+],
+[
+"适时",
+12.52,
+"shì shí",
+"timely; apt to the occasion; in due course"
+],
+[
+"历时",
+12.26,
+"lì shí",
+"to last; to take (time); period; diachronic"
+],
+[
+"实时",
+11.81,
+"shí shí",
+"(in) real time; instantaneous"
+],
+[
+"到时",
+10.65,
+"dào shí",
+"at that (future) time"
+],
+[
+"计时",
+10.4,
+"jì shí",
+"to measure time; to time; to reckon by time"
+],
+[
+"比利时",
+9.14,
+"Bǐ lì shí",
+"Belgium"
+],
+[
+"即时",
+8.98,
+"jí shí",
+"immediate"
+],
+[
+"倒计时",
+8.26,
+"dào jì shí",
+"to count down; countdown"
+],
+[
+"时分",
+8.14,
+"shí fēn",
+"time; period during the day; one of the 12 two-hour periods enumerated by the earthly branches 地支"
+],
+[
+"几时",
+8.08,
+"jǐ shí",
+"what time?; when?"
+],
+[
+"有的时候",
+7.84,
+"yǒu de shí hòu",
+"sometimes; at times"
+],
+[
+"过时",
+7.72,
+"guò shí",
+"old-fashioned; out of date; to be later than the time stipulated or agreed upon"
+],
+[
+"时时",
+7.69,
+"shí shí",
+"often; constantly"
+],
+[
+"时不时",
+7.6,
+"shí bù shí",
+"from time to time"
+],
+[
+"时下",
+7.29,
+"shí xià",
+"at present; right now"
+],
+[
+"时节",
+6.92,
+"shí jié",
+"season; time"
+],
+[
+"此时此刻",
+6.86,
+"cǐ shí cǐ kè",
+"at this very moment"
+],
+[
+"时速",
+6.81,
+"shí sù",
+"speed per hour"
+],
+[
+"时间表",
+6.69,
+"shí jiān biǎo",
+"schedule; timetable"
+],
+[
+"定时",
+6.11,
+"dìng shí",
+"to fix a time; fixed time; timed (of explosive etc)"
+],
+[
+"立时",
+5.69,
+"lì shí",
+"right away; quickly; immediately"
+],
+[
+"时辰",
+5.67,
+"shí chen",
+"time; one of the 12 two-hour periods of the day"
+],
+[
+"时隔",
+5.66,
+"shí gé",
+"separated in time (usu. followed by a quantity of time)"
+],
+[
+"随时随地",
+5.45,
+"suí shí suí dì",
+"anytime and anywhere"
+],
+[
+"新时代",
+5.21,
+"xīn shí dài",
+"new age"
+]
+],
 "strokes": [
 "M 196 672 Q 178 690 156 696 Q 146 700 134 697 Q 127 691 133 679 Q 151 601 153 597 Q 153 593 154 585 Q 166 378 135 256 Q 120 201 157 154 Q 167 141 179 153 Q 189 169 191 187 L 195 221 Q 196 243 196 275 Q 197 357 198 419 L 199 450 Q 202 618 204 632 Q 205 639 205 645 C 206 663 206 663 196 672 Z",
 "M 308 198 Q 318 182 330 165 Q 346 141 353 144 Q 365 147 379 180 Q 389 208 385 326 Q 370 617 392 654 Q 402 672 394 683 Q 387 693 338 708 Q 316 717 298 707 Q 243 682 196 672 C 167 665 176 639 205 645 Q 308 666 311 666 Q 314 666 318 662 Q 331 649 332 594 Q 336 371 327 248 Q 330 229 315 227 C 300 210 300 210 308 198 Z",

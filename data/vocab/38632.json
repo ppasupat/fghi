@@ -9,7 +9,7 @@
 [
 "下雨",
 1,
-"xiàyǔ",
+"xià yǔ",
 "to rain"
 ]
 ],
@@ -17,38 +17,56 @@
 [
 "小雨",
 14.84,
-"xiao3 yu3",
+"xiǎo yǔ",
 "light rain; drizzle"
 ],
 [
 "暴雨",
 14.02,
-"bao4 yu3",
+"bào yǔ",
 "torrential rain; rainstorm; CL:場|场[chang2],陣|阵[zhen4]"
+],
+[
+"风雨",
+12.62,
+"fēng yǔ",
+"wind and rain; the elements; (fig.) trials and hardships"
 ],
 [
 "大雨",
 12.47,
-"da4 yu3",
+"dà yǔ",
 "heavy rain; CL:場|场[chang2]"
 ],
 [
 "降雨",
 8.88,
-"jiang4 yu3",
+"jiàng yǔ",
 "precipitation; rainfall"
 ],
 [
 "雨水",
 8.27,
-"Yu3 shui3",
+"Yǔ shuǐ",
 "Yushui or Rain Water, 2nd of the 24 solar terms 二十四節氣|二十四节气 19th February-5th March"
 ],
 [
 "流星雨",
 7.49,
-"liu2 xing1 yu3",
+"liú xīng yǔ",
 "meteor shower"
+],
+[
+"暴风雨",
+6.35,
+"bào fēng yǔ",
+"rainstorm; storm; tempest"
+],
+[
+"阵雨",
+5.67,
+"zhèn yǔ",
+"shower"
 ]
 ],
 "strokes": [

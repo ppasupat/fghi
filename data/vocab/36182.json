@@ -7,25 +7,38 @@
 },
 "words": [
 [
-"无赖",
+"依赖",
 6,
-"wúlài",
-"hoodlum; rascal; rogue; rascally; scoundrelly"
+"yī lài",
+"to depend on; to be dependent on"
 ],
 [
 "信赖",
 6,
-"xìnlài",
-"trust; have confidence in; confide"
+"xìn lài",
+"to trust; to have confidence in; to have faith in; to rely on"
 ],
 [
-"依赖",
+"无赖",
 6,
-"yīlài",
-"depend on; be dependent on"
+"wú lài",
+"hoodlum; rascal; rogue; rascally; scoundrelly"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"不赖",
+16.54,
+"bù lài",
+"(coll.) not bad; good; fine"
+],
+[
+"赖斯",
+7.17,
+"Lài sī",
+"Rice (name); Condoleezza Rice (1954-) US Secretary of State 2005-2009"
+]
+],
 "strokes": [
 "M 351 596 Q 444 618 448 622 Q 455 629 451 637 Q 444 647 417 654 Q 399 657 353 642 L 310 628 Q 226 613 215 610 Q 182 603 206 589 Q 248 568 299 584 Q 303 585 311 586 L 351 596 Z",
 "M 190 478 Q 180 482 161 484 Q 149 487 147 481 Q 141 475 149 460 Q 171 423 188 358 Q 192 339 204 326 Q 222 307 226 321 Q 227 327 228 333 L 227 362 Q 218 432 214 452 C 210 471 210 471 190 478 Z",

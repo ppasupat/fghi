@@ -10,158 +10,236 @@
 "光",
 4,
 "guāng",
-"light; ray; bright; only; merely; used up"
+"light; ray; CL:道[dao4]; bright; only; merely; to use up"
 ],
 [
 "阳光",
 4,
-"yángguāng",
-"sunshine; sunlight"
-],
-[
-"光滑",
-5,
-"guānghuá",
-"glossy; sleek; smooth"
+"yáng guāng",
+"sunshine; CL:線|线[xian4]; transparent (open to public scrutiny)"
 ],
 [
 "光临",
 5,
-"guānglín",
-"(polite) welcome!; honor somebody with one's presence"
+"guāng lín",
+"(formal) to honor with one's presence; to attend"
 ],
 [
 "光明",
 5,
-"guāngmíng",
-"bright (future); promising; illuminate"
+"guāng míng",
+"light; radiance; (fig.) bright (prospects etc); openhearted"
+],
+[
+"光滑",
+5,
+"guāng huá",
+"glossy; sleek; smooth"
 ],
 [
 "光盘",
 5,
-"guāngpán",
-"CD (compact disc)"
-],
-[
-"曝光",
-6,
-"bàoguāng",
-"to expose; to make public"
-],
-[
-"风光",
-6,
-"fēngguāng",
-"a natural scenic view; sight"
-],
-[
-"观光",
-6,
-"guānguāng",
-"sight see; tour"
-],
-[
-"光彩",
-6,
-"guāngcǎi",
-"splendor; radiance; brilliance; honor"
-],
-[
-"光辉",
-6,
-"guānghuī",
-"radiance; brilliant; glory"
-],
-[
-"光芒",
-6,
-"guāngmáng",
-"rays of light; brilliant rays; radiance"
-],
-[
-"光荣",
-6,
-"guāngróng",
-"glory; honor"
-],
-[
-"目光",
-6,
-"mùguāng",
-"sight; vision; view"
+"guāng pán",
+"compact disc; CD or DVD; CD ROM; CL:片[pian4],張|张[zhang1]"
 ],
 [
 "时光",
 6,
-"shíguāng",
+"shí guāng",
 "time; era; period of time"
+],
+[
+"光荣",
+6,
+"guāng róng",
+"honor and glory; glorious"
 ],
 [
 "眼光",
 6,
-"yǎnguāng",
-"vision"
+"yǎn guāng",
+"gaze; insight; foresight; vision; way of looking at things"
+],
+[
+"曝光",
+6,
+"bào guāng",
+"to expose (photography); (fig.) to expose (a scandal); (advertising) exposure; Taiwan pr. [pu4 guang1]"
+],
+[
+"目光",
+6,
+"mù guāng",
+"sight; vision; view; gaze; look"
+],
+[
+"光芒",
+6,
+"guāng máng",
+"rays of light; brilliant rays; radiance"
+],
+[
+"光彩",
+6,
+"guāng cǎi",
+"luster; splendor; radiance; brilliance"
+],
+[
+"光辉",
+6,
+"guāng huī",
+"radiance; glory; brilliant; magnificent"
+],
+[
+"风光",
+6,
+"fēng guāng",
+"scene; view; sight; landscape; to be well-regarded; to be well-off; grand (dialect); impressive (dialect)"
+],
+[
+"观光",
+6,
+"guān guāng",
+"to tour; sightseeing; tourism"
 ],
 [
 "沾光",
 6,
 "zhān guāng",
-"bask in the light; benefit from association with sth.; reflected glory"
+"to bask in the light; fig. to benefit from association with sb or sth; reflected glory"
 ]
 ],
 "extraWords": [
 [
 "光棍",
 32.79,
-"guang1 gun4",
+"guāng gùn",
 "gangster; hoodlum; a single person; bachelor"
+],
+[
+"灯光",
+18.39,
+"dēng guāng",
+"(stage) lighting; light"
 ],
 [
 "激光",
 13.81,
-"ji1 guang1",
+"jī guāng",
 "laser"
+],
+[
+"光学",
+11.73,
+"guāng xué",
+"optics; optical (instrument)"
+],
+[
+"发光",
+10.52,
+"fā guāng",
+"to shine"
+],
+[
+"光线",
+10.49,
+"guāng xiàn",
+"light ray; CL:條|条[tiao2],道[dao4]; light; illumination; lighting (for a photograph)"
 ],
 [
 "不光",
 9.68,
-"bu4 guang1",
+"bù guāng",
 "not the only one; not only"
 ],
 [
 "月光",
 8.76,
-"yue4 guang1",
+"yuè guāng",
 "moonlight"
 ],
 [
 "光大",
 8.4,
-"guang1 da4",
+"guāng dà",
 "splendid; magnificent; abbr. for 中國光大銀行|中国光大银行[Zhong1 guo2 Guang1 da4 Yin2 hang2], China Everbright Bank"
 ],
 [
 "星光",
 8.39,
-"xing1 guang1",
+"xīng guāng",
 "starlight"
+],
+[
+"荧光",
+7.47,
+"yíng guāng",
+"fluorescence; fluorescent"
+],
+[
+"光泽",
+7.2,
+"Guāng zé",
+"Guangze county in Nanping 南平[Nan2 ping2] Fujian"
+],
+[
+"光泽",
+7.2,
+"guāng zé",
+"luster; gloss"
+],
+[
+"脱光",
+6.62,
+"tuō guāng",
+"to strip naked; to strip nude; (coll.) to find oneself a partner"
+],
+[
+"光驱",
+6.09,
+"guāng qū",
+"CD or DVD Drive; abbr. for 光盤驅動器|光盘驱动器"
+],
+[
+"闪光",
+6.05,
+"shǎn guāng",
+"flash"
+],
+[
+"光纤",
+5.6,
+"guāng xiān",
+"optical fiber; fiber optics"
 ],
 [
 "耳光",
 5.59,
-"er3 guang1",
+"ěr guāng",
 "a slap on the face; CL:記|记[ji4]"
+],
+[
+"光顾",
+5.41,
+"guāng gù",
+"to visit (as a customer)"
+],
+[
+"光头",
+5.3,
+"guāng tóu",
+"shaven head; bald head; to go bareheaded; hatless"
 ],
 [
 "曙光",
 5.11,
-"shu3 guang1",
+"shǔ guāng",
 "dawn; fig. the dawn of a new era"
 ],
 [
 "光速",
 5.1,
-"guang1 su4",
+"guāng sù",
 "the speed of light"
 ]
 ],

@@ -9,77 +9,96 @@
 [
 "确实",
 4,
-"quèshí",
-"indeed; in truth; reliable"
+"què shí",
+"indeed; really; reliable; real; true"
 ],
 [
 "正确",
 4,
-"zhèngquè",
+"zhèng què",
 "correct; proper"
 ],
 [
 "准确",
 4,
-"zhǔnquè",
-"accurate; precise"
-],
-[
-"的确",
-5,
-"díquè",
-"really; indeed"
-],
-[
-"明确",
-5,
-"míngquè",
-"clear-cut; clearly; clarify"
+"zhǔn què",
+"accurate; exact; precise"
 ],
 [
 "确定",
 5,
-"quèdìng",
-"definite; certain; fixed; determine"
+"què dìng",
+"definite; certain; fixed; to fix (on sth); to determine; to be sure; to ensure; to make certain; to ascertain; to clinch; to recognize; to confirm; OK (on computer dialog box)"
+],
+[
+"的确",
+5,
+"dí què",
+"really; indeed"
 ],
 [
 "确认",
 5,
-"quèrèn",
-"confirm; confirmation; verify"
+"què rèn",
+"to confirm; to verify; confirmation"
 ],
 [
-"精确",
-6,
-"jīngquè",
-"accurate; precise"
+"明确",
+5,
+"míng què",
+"clear-cut; definite; explicit; to clarify; to specify; to make definite"
 ],
 [
 "确保",
 6,
-"quèbǎo",
-"ensure; guarantee"
-],
-[
-"确立",
-6,
-"quèlì",
-"to establish; to institute"
-],
-[
-"确切",
-6,
-"quèqiè",
-"definite; exact; precise"
+"què bǎo",
+"to ensure; to guarantee"
 ],
 [
 "确信",
 6,
-"quèxìn",
-"confident; be certain of; to firmly believe"
+"què xìn",
+"to be convinced; to be sure; to firmly believe; to be positive that; definite news"
+],
+[
+"确切",
+6,
+"què qiè",
+"definite; exact; precise"
+],
+[
+"精确",
+6,
+"jīng què",
+"accurate; precise"
+],
+[
+"确立",
+6,
+"què lì",
+"to establish; to institute"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"确诊",
+11.79,
+"què zhěn",
+"to make a definite diagnosis; confirmed (case of a specific disease)"
+],
+[
+"准确性",
+5.7,
+"zhǔn què xìng",
+"accuracy"
+],
+[
+"确凿",
+5.54,
+"què záo",
+"definite; conclusive; undeniable; authentic; also pr. [que4 zuo4]"
+]
+],
 "strokes": [
 "M 253 602 Q 418 644 424 649 Q 433 656 427 665 Q 420 675 392 682 Q 362 686 334 673 Q 297 660 255 647 Q 209 635 155 628 Q 121 621 146 606 Q 179 591 219 594 L 253 602 Z",
 "M 228 408 Q 253 462 285 540 Q 291 556 296 562 Q 302 568 299 576 Q 286 598 253 602 C 224 608 217 609 219 594 Q 225 543 226 540 Q 214 477 189 419 L 175 387 Q 136 314 43 194 Q 37 188 46 188 Q 91 204 187 331 Q 187 334 190 336 L 228 408 Z",

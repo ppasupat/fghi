@@ -9,41 +9,204 @@
 [
 "冠军",
 5,
-"guànjūn",
-"champion"
+"guàn jūn",
+"champion; CL:個|个[ge4]"
 ],
 [
 "军事",
 5,
-"jūnshì",
-"military affairs; military matters"
-],
-[
-"季军",
-6,
-"jìjūn",
-"third in a race; bronze medalist"
+"jūn shì",
+"military affairs; military matters; military"
 ],
 [
 "将军",
 6,
-"jiāngjūn",
-"a general (military officer)"
+"Jiāng jūn",
+"(common place name)"
+],
+[
+"将军",
+6,
+"jiāng jūn",
+"general; high-ranking military officer; to check or checkmate; fig. to embarrass; to challenge; to put sb on the spot"
 ],
 [
 "军队",
 6,
-"jūnduì",
-"army troops"
+"jūn duì",
+"army; troops; CL:支[zhi1],個|个[ge4]"
 ],
 [
 "亚军",
 6,
-"yàjūn",
-"second place; runner-up"
+"yà jūn",
+"second place (in a sports contest); runner-up"
+],
+[
+"季军",
+6,
+"jì jūn",
+"third in a race; bronze medalist"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"海军",
+30.97,
+"hǎi jūn",
+"navy"
+],
+[
+"解放军",
+24.34,
+"Jiě fàng jūn",
+"People's Liberation Army (PRC armed forces)"
+],
+[
+"红军",
+21.02,
+"Hóng jūn",
+"Red Army (1928-1937), predecessor of the PLA; (Soviet) Red Army (1917-1946)"
+],
+[
+"军人",
+20.05,
+"jūn rén",
+"serviceman; soldier; military personnel"
+],
+[
+"空军",
+19.62,
+"kōng jūn",
+"air force"
+],
+[
+"进军",
+14.97,
+"jìn jūn",
+"to march; to advance"
+],
+[
+"军方",
+14.91,
+"jūn fāng",
+"military"
+],
+[
+"大军",
+14.25,
+"dà jūn",
+"army; main forces"
+],
+[
+"军官",
+13.58,
+"jūn guān",
+"officer (military)"
+],
+[
+"军区",
+11.86,
+"jūn qū",
+"geographical area of command; (PLA) military district"
+],
+[
+"童子军",
+11.06,
+"Tóng zǐ jūn",
+"Scout (youth organization)"
+],
+[
+"童子军",
+11.06,
+"tóng zǐ jūn",
+"child soldiers; juvenile militia"
+],
+[
+"陆军",
+10.69,
+"lù jūn",
+"army; ground forces"
+],
+[
+"军士",
+9.69,
+"jūn shì",
+"soldier; noncommssioned officer (NCO)"
+],
+[
+"军民",
+8.42,
+"jūn mín",
+"army-civilian; military-masses; military-civilian"
+],
+[
+"军团",
+8.35,
+"jūn tuán",
+"corps; legion"
+],
+[
+"中国人民解放军",
+7.46,
+"Zhōng guó Rén mín Jiě fàng jūn",
+"Chinese People's Liberation Army (PLA)"
+],
+[
+"军用",
+6.9,
+"jūn yòng",
+"(for) military use; military application"
+],
+[
+"全军",
+6.53,
+"quán jūn",
+"all-army; all-military"
+],
+[
+"美军",
+6.35,
+"Měi jūn",
+"US army; US armed forces"
+],
+[
+"敌军",
+6.04,
+"dí jūn",
+"enemy troops; hostile forces; CL:股[gu3]"
+],
+[
+"军火",
+5.54,
+"jūn huǒ",
+"weapons and ammunition; munitions; arms"
+],
+[
+"参军",
+5.51,
+"cān jūn",
+"to join the army"
+],
+[
+"中央军委",
+5.46,
+"zhōng yāng jūn wěi",
+"Central Military Committee (CMC)"
+],
+[
+"军营",
+5.39,
+"jūn yíng",
+"barracks; army camp"
+],
+[
+"军舰",
+5.11,
+"jūn jiàn",
+"warship; military naval vessel; CL:艘[sou1]"
+]
+],
 "strokes": [
 "M 291 747 Q 281 772 269 780 Q 250 796 247 769 Q 253 732 200 674 Q 163 640 191 575 Q 206 547 227 575 Q 246 600 260 640 Q 276 686 289 714 C 297 732 297 732 291 747 Z",
 "M 289 714 Q 310 704 369 717 Q 519 753 689 766 Q 711 767 721 765 Q 737 756 735 749 Q 735 745 695 671 Q 686 658 693 653 Q 700 649 718 659 Q 776 696 825 707 Q 865 717 864 727 Q 863 737 792 794 Q 767 815 672 797 Q 594 791 385 759 Q 337 752 291 747 C 261 744 260 720 289 714 Z",

@@ -9,23 +9,42 @@
 [
 "竞争",
 4,
-"jìngzhēng",
-"compete"
-],
-[
-"竞赛",
-6,
-"jìngsài",
-"race; contest; competition"
+"jìng zhēng",
+"to compete; competition"
 ],
 [
 "竞选",
 6,
-"jìngxuǎn",
-"run for (electoral) office; take part in an election"
+"jìng xuǎn",
+"to take part in an election; to run for office"
+],
+[
+"竞赛",
+6,
+"jìng sài",
+"race; competition; CL:個|个[ge4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"竞争力",
+41.29,
+"jìng zhēng lì",
+"competitive strength; competitiveness"
+],
+[
+"竞技",
+13.63,
+"jìng jì",
+"competition of skill (e.g. sports); athletics tournament"
+],
+[
+"竞价",
+5.26,
+"jìng jià",
+"price competition; bid (in an auction); to compete on price; to bid against sb"
+]
+],
 "strokes": [
 "M 471 818 Q 520 773 556 763 Q 572 762 579 776 Q 583 789 579 807 Q 561 847 479 859 Q 461 862 452 856 Q 446 855 450 842 Q 454 830 471 818 Z",
 "M 628 695 Q 671 701 710 705 Q 720 704 728 715 Q 729 725 708 736 Q 677 760 614 739 Q 443 709 313 691 Q 285 688 306 671 Q 336 646 364 652 Q 461 671 592 691 L 628 695 Z",

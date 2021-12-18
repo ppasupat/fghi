@@ -9,147 +9,165 @@
 [
 "生命",
 4,
-"shēngmìng",
-"life"
+"shēng mìng",
+"life (as the characteristic of living beings); living being; creature; CL:個|个[ge4],條|条[tiao2]"
 ],
 [
 "命令",
 5,
-"mìnglìng",
-"an order; a command"
+"mìng lìng",
+"order; command; CL:道[dao4],個|个[ge4]"
 ],
 [
 "命运",
 5,
-"mìngyùn",
-"fate; destiny"
+"mìng yùn",
+"fate; destiny; CL:個|个[ge4]"
 ],
 [
 "寿命",
 5,
-"shòumìng",
-"life span; life expectancy"
+"shòu mìng",
+"life span; life expectancy; lifetime (of a machine)"
 ],
 [
-"革命",
+"性命",
 6,
-"gémìng",
-"revolution; revolutionary (politics); cause great social change; rise in revolt; take part in revolution"
+"xìng mìng",
+"life"
 ],
 [
-"命名",
+"使命",
 6,
-"mìngmíng",
-"give a name; to dub; christen; naming"
+"shǐ mìng",
+"mission; long-term task to which one devotes oneself; a calling"
 ],
 [
 "拼命",
 6,
 "pīn mìng",
-"risk one's life; desperately; with all one's might"
+"to do one's utmost; with all one's might; at all costs; (to work or fight) as if one's life depends on it"
 ],
 [
-"任命",
+"命名",
 6,
-"rènmìng",
-"appoint and nominate"
+"mìng míng",
+"to give a name to; to dub; to christen; to designate; named after; naming"
 ],
 [
-"使命",
+"革命",
 6,
-"shǐmìng",
-"a (diplomatic or other) mission"
-],
-[
-"性命",
-6,
-"xìngmìng",
-"life"
+"gé mìng",
+"to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning); revolution; revolutionary; to revolt (against sb or sth); to revolutionize (sth); (separable verb sometimes used in the pattern 革noun的命); CL:次[ci4]"
 ],
 [
 "要命",
 6,
-"yàomìng",
-"cause somebody's death; very; extremely; frighteningly; annoyance"
+"yào mìng",
+"to cause sb's death; very; extremely; frightening; annoying"
+],
+[
+"任命",
+6,
+"rèn mìng",
+"to appoint; (job) appointment; CL:紙|纸[zhi3]"
 ]
 ],
 "extraWords": [
 [
 "救命",
 64.06,
-"jiu4 ming4",
+"jiù mìng",
 "to save sb's life; (interj.) Help!; Save me!"
 ],
 [
 "致命",
 26.89,
-"zhi4 ming4",
+"zhì mìng",
 "fatal; mortal; deadly; to sacrifice one's life"
 ],
 [
 "待命",
 15.5,
-"dai4 ming4",
+"dài mìng",
 "to be on call; to be on standby"
 ],
 [
 "遵命",
 14.13,
-"zun1 ming4",
+"zūn mìng",
 "to follow your orders; to do as you bid"
 ],
 [
 "文化大革命",
 13.61,
-"Wen2 hua4 Da4 ge2 ming4",
+"Wén huà Dà gé mìng",
 "Cultural Revolution (1966-1976)"
 ],
 [
 "反革命",
 12.75,
-"fan3 ge2 ming4",
+"fǎn gé mìng",
 "counterrevolutionary"
 ],
 [
 "命中",
 12.2,
-"ming4 zhong4",
+"mìng zhòng",
 "to hit (a target)"
+],
+[
+"命题",
+9.38,
+"mìng tí",
+"proposition (logic, math.); to assign an essay topic"
 ],
 [
 "生命力",
 8.4,
-"sheng1 ming4 li4",
+"shēng mìng lì",
 "vitality"
+],
+[
+"丧命",
+6.95,
+"sàng mìng",
+"to lose one's life"
 ],
 [
 "送命",
 5.78,
-"song4 ming4",
+"sòng mìng",
 "to lose one's life; to get killed"
 ],
 [
 "活命",
 5.72,
-"huo2 ming4",
+"huó mìng",
 "life; to survive; to save a life; to scrape a living"
 ],
 [
 "人命",
 5.31,
-"ren2 ming4",
+"rén mìng",
 "human life; CL:條|条[tiao2]"
+],
+[
+"没命",
+5.28,
+"méi mìng",
+"to lose one's life; to die; recklessly; desperately"
 ],
 [
 "逃命",
 5.13,
-"tao2 ming4",
+"táo mìng",
 "to escape; to flee; to run for one's life"
 ],
 [
 "命中率",
 5.04,
-"ming4 zhong4 lu:4",
+"mìng zhòng lu:4",
 "hit rate; scoring rate"
 ]
 ],

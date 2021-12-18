@@ -9,105 +9,129 @@
 [
 "打算",
 3,
-"dǎsuàn",
-"to plan; intend"
-],
-[
-"计算",
-5,
-"jìsuàn",
-"to count; calculate; compute"
+"dǎ suàn",
+"to plan; to intend; to calculate; plan; intention; calculation; CL:個|个[ge4]"
 ],
 [
 "总算",
 5,
-"zǒngsuàn",
+"zǒng suàn",
 "at long last; finally; on the whole"
 ],
 [
-"合算",
+"计算",
+5,
+"jì suàn",
+"to count; to calculate; to compute; CL:個|个[ge4]"
+],
+[
+"预算",
 6,
-"hésuàn",
-"worthwhile; reckon up"
+"yù suàn",
+"budget"
+],
+[
+"算数",
+6,
+"suàn shù",
+"to count numbers; to keep to one's word; to hold (i.e. to remain valid); to count (i.e. to be important)"
+],
+[
+"运算",
+6,
+"yùn suàn",
+"to perform calculations; (mathematical) operation"
 ],
 [
 "结算",
 6,
-"jiésuàn",
-"settle up the bill; close an account"
+"jié suàn",
+"to settle a bill; to close an account"
+],
+[
+"合算",
+6,
+"hé suàn",
+"worthwhile; to be a good deal; to be a bargain; to reckon up; to calculate"
 ],
 [
 "精打细算",
 6,
 "jīng dǎ xì suàn",
-"(saying) meticulous planning and careful accounting"
-],
-[
-"算数",
-6,
-"suànshù",
-"(do) arithmetic; count"
-],
-[
-"预算",
-6,
-"yùsuàn",
-"budget"
-],
-[
-"运算",
-6,
-"yùnsuàn",
-"(mathematical) operation"
+"meticulous planning and careful accounting (idiom)"
 ]
 ],
 "extraWords": [
 [
 "算是",
 83.65,
-"suan4 shi4",
+"suàn shì",
 "considered to be; at last"
 ],
 [
 "就算",
 76.28,
-"jiu4 suan4",
+"jiù suàn",
 "granted that; even if"
+],
+[
+"计算机",
+45.99,
+"jì suàn jī",
+"computer; (Tw) calculator; CL:臺|台[tai2]"
+],
+[
+"不算",
+32.59,
+"bù suàn",
+"to not calculate; to not count; to not be considered (as); to have no weight"
 ],
 [
 "算了",
 31.12,
-"suan4 le5",
+"suàn le",
 "let it be; let it pass; forget about it"
+],
+[
+"说了算",
+16.22,
+"shuō le suàn",
+"to have the final say; to be the one in charge"
 ],
 [
 "核算",
 12.55,
-"he2 suan4",
+"hé suàn",
 "to calculate; accounting"
+],
+[
+"测算",
+10.05,
+"cè suàn",
+"to take measurements and calculate"
 ],
 [
 "清算",
 9.82,
-"qing1 suan4",
+"qīng suàn",
 "to settle accounts; to clear accounts; to liquidate; to expose and criticize"
 ],
 [
 "估算",
 7.66,
-"gu1 suan4",
+"gū suàn",
 "assessment; evaluation"
 ],
 [
 "算法",
 7.55,
-"suan4 fa3",
+"suàn fǎ",
 "arithmetic; algorithm; method of calculation"
 ],
 [
 "划算",
 7.21,
-"hua2 suan4",
+"huá suàn",
 "to calculate; to weigh (pros and cons); to view as profitable; worthwhile; value for money; cost-effective"
 ]
 ],

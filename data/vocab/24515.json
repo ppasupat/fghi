@@ -9,448 +9,568 @@
 [
 "担心",
 3,
-"dānxīn",
-"to worry; feel anxious"
-],
-[
-"放心",
-3,
-"fàngxīn",
-"relax; feel relieved; rest assured"
-],
-[
-"关心",
-3,
-"guānxīn",
-"concerned about/with"
+"dān xīn",
+"anxious; worried; uneasy; to worry; to be anxious"
 ],
 [
 "小心",
 3,
-"xiǎoxīn",
-"be careful"
+"xiǎo xīn",
+"to be careful; to take care"
 ],
 [
-"粗心",
-4,
-"cūxīn",
-"careless; inadvertent; negligent"
+"关心",
+3,
+"guān xīn",
+"to be concerned about; to care about"
+],
+[
+"放心",
+3,
+"fàng xīn",
+"to feel relieved; to feel reassured; to be at ease"
 ],
 [
 "开心",
 4,
-"kāixīn",
-"feel happy; have a great time; make fun of somebody"
-],
-[
-"耐心",
-4,
-"nàixīn",
-"to be patient"
+"kāi xīn",
+"to feel happy; to rejoice; to have a great time; to make fun of sb"
 ],
 [
 "伤心",
 4,
-"shāngxīn",
-"sad; grieve; brokenhearted"
+"shāng xīn",
+"to grieve; to be broken-hearted; to feel deeply hurt"
 ],
 [
 "心情",
 4,
-"xīnqíng",
-"mood; state of mind"
+"xīn qíng",
+"mood; frame of mind; CL:個|个[ge4]"
 ],
 [
 "信心",
 4,
-"xìnxīn",
-"confidence; faith (in sb. or sth.)"
+"xìn xīn",
+"confidence; faith (in sb or sth); CL:個|个[ge4]"
 ],
 [
-"爱心",
+"耐心",
+4,
+"nài xīn",
+"to be patient; patience"
+],
+[
+"粗心",
+4,
+"cū xīn",
+"careless; thoughtless"
+],
+[
+"中心",
 5,
-"àixīn",
-"compassion"
+"zhōng xīn",
+"center; heart; core; CL:個|个[ge4]"
+],
+[
+"心理",
+5,
+"xīn lǐ",
+"psychology; mentality"
+],
+[
+"心脏",
+5,
+"xīn zàng",
+"heart; CL:顆|颗[ke1],個|个[ge4]"
+],
+[
+"当心",
+5,
+"dāng xīn",
+"to take care; to look out"
+],
+[
+"专心",
+5,
+"zhuān xīn",
+"to concentrate; absorption; concentration; engrossed"
 ],
 [
 "操心",
 5,
 "cāo xīn",
-"worry about"
+"to worry about"
 ],
 [
-"当心",
+"决心",
 5,
-"dāngxīn",
-"take care; watch out"
+"jué xīn",
+"determination; resolution; determined; firm and resolute; to make up one's mind; CL:個|个[ge4]"
 ],
 [
 "点心",
 5,
-"diǎnxin",
-"dim sum; light refreshments; snacks"
+"diǎn xin",
+"light refreshments; pastry; dim sum (in Cantonese cooking); dessert"
 ],
 [
 "核心",
 5,
-"héxīn",
+"hé xīn",
 "core; nucleus"
+],
+[
+"爱心",
+5,
+"ài xīn",
+"compassion; kindness; care for others; love; CL:片[pian4]; charity (bazaar, golf day etc); heart (the symbol ♥)"
+],
+[
+"热心",
+5,
+"rè xīn",
+"enthusiasm; zeal; zealous; zest; enthusiastic; ardent; warmhearted"
 ],
 [
 "灰心",
 5,
 "huī xīn",
-"lose heart; be discouraged"
-],
-[
-"决心",
-5,
-"juéxīn",
-"determination; resolution"
-],
-[
-"热心",
-5,
-"rèxīn",
-"enthusiastic; zealous; warmhearted"
-],
-[
-"心理",
-5,
-"xīnlǐ",
-"psychology; psychological; mental"
-],
-[
-"心脏",
-5,
-"xīnzàng",
-"heart"
+"to lose heart; to be discouraged"
 ],
 [
 "虚心",
 5,
-"xūxīn",
-"modest; open-minded"
-],
-[
-"中心",
-5,
-"zhōngxīn",
-"center; heart; core"
-],
-[
-"专心",
-5,
-"zhuānxīn",
-"be absorbed; concentrate; attentive"
-],
-[
-"称心如意",
-6,
-"chènxīnrúyì",
-"find sth. satisfactory"
-],
-[
-"成心",
-6,
-"chéngxīn",
-"intentional; deliberate; with prior intent"
-],
-[
-"恶心",
-6,
-"ěxin",
-"disgusting; nauseous; make somebody embarrassed (èxīn: bad/vicious habit; vice)"
-],
-[
-"狠心",
-6,
-"hěn xīn",
-"callous; cruel; cold-blooded"
-],
-[
-"精心",
-6,
-"jīngxīn",
-"with utmost care; meticulous; detailed"
-],
-[
-"良心",
-6,
-"liángxīn",
-"conscience"
-],
-[
-"齐心协力",
-6,
-"qíxīnxiélì",
-"make concerted efforts"
-],
-[
-"小心翼翼",
-6,
-"xiǎoxīn yìyì",
-"carefully; cautiously; with great care"
-],
-[
-"心得",
-6,
-"xīndé",
-"knowledge gained"
-],
-[
-"心甘情愿",
-6,
-"xīngānqíngyuàn",
-"totally willing; perfectly happy to"
-],
-[
-"心灵",
-6,
-"xīnlíng",
-"heart; soul; smart; quick-witted"
-],
-[
-"心态",
-6,
-"xīntài",
-"pyschology; mentality; spirit"
-],
-[
-"心疼",
-6,
-"xīnténg",
-"love dearly; the pain of love"
-],
-[
-"心血",
-6,
-"xīnxuè",
-"heart and blood; painstaking effort; meticulous care"
+"xū xīn",
+"open-minded; humble"
 ],
 [
 "心眼儿",
 6,
-"xīnyǎnr",
-"one's thoughts; mind; intention; willingness to accept new ideas"
+"xīn yǎn r5",
+"one's thoughts; mind; intention; willingness to accept new ideas; baseless suspicions"
+],
+[
+"恶心",
+6,
+"ě xīn",
+"variant of 惡心|恶心[e3 xin1]"
+],
+[
+"恶心",
+6,
+"ě xīn",
+"nausea; to feel sick; disgust; nauseating; to embarrass (deliberately)"
+],
+[
+"恶心",
+6,
+"è xīn",
+"bad habit; vicious habit; vice"
+],
+[
+"心灵",
+6,
+"xīn líng",
+"bright; smart; quick-witted; heart; thoughts; spirit"
+],
+[
+"良心",
+6,
+"liáng xīn",
+"conscience"
+],
+[
+"精心",
+6,
+"jīng xīn",
+"with utmost care; fine; meticulous; detailed"
 ],
 [
 "野心",
 6,
-"yěxīn",
-"ambition; wild schemes or ambitions; careerism"
+"yě xīn",
+"ambition; wild schemes; careerism"
+],
+[
+"心血",
+6,
+"xīn xuè",
+"heart's blood; expenditure (for some project); meticulous care"
 ],
 [
 "衷心",
 6,
-"zhōngxīn",
+"zhōng xīn",
 "heartfelt; wholehearted; cordial"
 ],
 [
 "重心",
 6,
-"zhòngxīn",
+"zhòng xīn",
 "center of gravity; central core; main part"
+],
+[
+"心态",
+6,
+"xīn tài",
+"attitude (of the heart); state of one's psyche; way of thinking; mentality"
+],
+[
+"小心翼翼",
+6,
+"xiǎo xīn yì yì",
+"cautious and solemn (idiom); very carefully; prudent; gently and cautiously"
+],
+[
+"齐心协力",
+6,
+"qí xīn xié lì",
+"to work with a common purpose (idiom); to make concerted efforts; to pull together; to work as one"
+],
+[
+"心甘情愿",
+6,
+"xīn gān qíng yuàn",
+"delighted to (do sth, idiom); perfectly happy to do; most willing to do"
+],
+[
+"狠心",
+6,
+"hěn xīn",
+"callous; heartless"
+],
+[
+"心疼",
+6,
+"xīn téng",
+"to love dearly; to feel sorry for sb; to regret; to grudge; to be distressed"
+],
+[
+"心得",
+6,
+"xīn dé",
+"what one has learned (through experience, reading etc); knowledge; insight; understanding; tips; CL:項|项[xiang4],個|个[ge4]"
+],
+[
+"成心",
+6,
+"chéng xīn",
+"intentional; deliberate; on purpose"
+],
+[
+"称心如意",
+6,
+"chèn xīn rú yì",
+"after one's heart (idiom); gratifying and satisfactory; everything one could wish"
 ]
 ],
 "extraWords": [
 [
+"心里",
+144.13,
+"xīn li",
+"chest; heart; mind"
+],
+[
 "心中",
 102.11,
-"xin1 zhong1",
+"xīn zhōng",
 "central point; in one's thoughts; in one's heart"
 ],
 [
 "真心",
 68.07,
-"zhen1 xin1",
+"zhēn xīn",
 "sincere; heartfelt; CL:片[pian4]"
+],
+[
+"内心",
+61.01,
+"nèi xīn",
+"heart; innermost being; (math.) incenter"
+],
+[
+"心脏病",
+25.1,
+"xīn zàng bìng",
+"heart disease"
 ],
 [
 "用心",
 20.91,
-"yong4 xin1",
+"yòng xīn",
 "motive; intention; to be diligent or attentive; careful"
 ],
 [
 "心跳",
 18.66,
-"xin1 tiao4",
+"xīn tiào",
 "heartbeat; pulse"
 ],
 [
 "人心",
 18.23,
-"ren2 xin1",
+"rén xīn",
 "popular feeling; the will of the people"
 ],
 [
 "心思",
 18.21,
-"xin1 si5",
+"xīn si",
 "mind; thoughts; inclination; mood"
 ],
 [
 "心目",
 18.15,
-"xin1 mu4",
+"xīn mù",
 "mind"
+],
+[
+"心愿",
+17.22,
+"xīn yuàn",
+"cherished desire; dream; craving; wish; aspiration"
 ],
 [
 "身心",
 16.74,
-"shen1 xin1",
+"shēn xīn",
 "body and mind; mental and physical"
 ],
 [
 "心肌",
 16.14,
-"xin1 ji1",
+"xīn jī",
 "myocardium"
 ],
 [
 "心底",
 15.3,
-"xin1 di3",
+"xīn dǐ",
 "bottom of one's heart"
 ],
 [
 "安心",
 15.28,
-"an1 xin1",
+"ān xīn",
 "at ease; to feel relieved; to set one's mind at rest; to keep one's mind on sth"
+],
+[
+"心动",
+14.89,
+"xīn dòng",
+"heartbeat; heart rate; (fig.) emotionally affected; aroused (of desire, emotion, interest etc)"
 ],
 [
 "市中心",
 14.21,
-"shi4 zhong1 xin1",
+"shì zhōng xīn",
 "city center; downtown"
 ],
 [
 "心痛",
 12.24,
-"xin1 tong4",
+"xīn tòng",
 "to feel distressed about sth; heartache; cardiac pain"
 ],
 [
 "心想",
 11.85,
-"xin1 xiang3",
+"xīn xiǎng",
 "to think to oneself; to think; to assume"
+],
+[
+"心声",
+11.67,
+"xīn shēng",
+"thoughts; feelings; aspirations; heartfelt wishes; inner voice"
+],
+[
+"细心",
+11.51,
+"xì xīn",
+"careful; attentive"
+],
+[
+"心爱",
+11.31,
+"xīn ài",
+"beloved"
+],
+[
+"心理学",
+10.7,
+"xīn lǐ xué",
+"psychology"
 ],
 [
 "一心",
 9.95,
-"yi1 xin1",
+"yī xīn",
 "wholeheartedly; heart and soul"
 ],
 [
 "心意",
 9.76,
-"xin1 yi4",
+"xīn yì",
 "regard; kindly feelings; intention"
 ],
 [
 "心酸",
 9.51,
-"xin1 suan1",
+"xīn suān",
 "to feel sad"
 ],
 [
 "心血管",
 8.99,
-"xin1 xue4 guan3",
+"xīn xuè guǎn",
 "cardiovascular"
 ],
 [
 "心事",
 8.75,
-"xin1 shi4",
+"xīn shì",
 "a load on one's mind; worry; CL:宗[zong1],樁|桩[zhuang1]"
+],
+[
+"贴心",
+8.73,
+"tiē xīn",
+"intimate; close; considerate"
 ],
 [
 "分心",
 8.5,
-"fen1 xin1",
+"fēn xīn",
 "to distract"
 ],
 [
 "好心",
 7.94,
-"hao3 xin1",
+"hǎo xīn",
 "kindness; good intentions"
 ],
 [
 "有心",
 7.84,
-"you3 xin1",
+"yǒu xīn",
 "to have a mind to; to intend to; deliberately; considerate"
+],
+[
+"心烦",
+7.84,
+"xīn fán",
+"to feel agitated; to be troubled; to be annoyed; an upset or distraction"
 ],
 [
 "背心",
 7.56,
-"bei4 xin1",
+"bèi xīn",
 "sleeveless garment (vest, waistcoat, singlet, tank top etc); CL:件[jian4]"
 ],
 [
 "心碎",
 7.42,
-"xin1 sui4",
+"xīn suì",
 "heartbroken; extreme depth of sorrow"
+],
+[
+"心电图",
+7.26,
+"xīn diàn tú",
+"electrocardiogram (ECG)"
 ],
 [
 "冠心病",
 7.1,
-"guan1 xin1 bing4",
+"guān xīn bìng",
 "coronary heart disease"
 ],
 [
 "心境",
 6.85,
-"xin1 jing4",
+"xīn jìng",
 "mood; mental state; frame of mind"
+],
+[
+"一不小心",
+6.71,
+"yī bù xiǎo xīn",
+"to be a little bit careless; to have a moment of inattentiveness"
 ],
 [
 "心扉",
 6.65,
-"xin1 fei1",
+"xīn fēi",
 "inner heart; soul"
 ],
 [
 "全心全意",
 6.47,
-"quan2 xin1 quan2 yi4",
+"quán xīn quán yì",
 "heart and soul; wholeheartedly"
 ],
 [
 "忍心",
 6.41,
-"ren3 xin1",
+"rěn xīn",
 "to have the heart to do sth; to steel oneself to a task"
+],
+[
+"无心",
+6.33,
+"wú xīn",
+"unintentionally; not in the mood to"
 ],
 [
 "不甘心",
 6.3,
-"bu4 gan1 xin1",
+"bù gān xīn",
 "not reconciled to; not resigned to"
+],
+[
+"好心人",
+6.09,
+"hǎo xīn rén",
+"kindhearted person; good Samaritan"
+],
+[
+"随心所欲",
+5.99,
+"suí xīn suǒ yù",
+"to follow one's heart's desires; to do as one pleases (idiom)"
+],
+[
+"责任心",
+5.91,
+"zé rèn xīn",
+"sense of responsibility"
 ],
 [
 "心率",
 5.36,
-"xin1 lu:4",
+"xīn lu:4",
 "heart rate"
 ],
 [
 "民心",
 5.26,
-"min2 xin1",
+"mín xīn",
 "popular sentiment"
 ],
 [
 "手心",
 5.21,
-"shou3 xin1",
+"shǒu xīn",
 "palm (of one's hand); control (extended meaning from having something in the palm of one's hand)"
+],
+[
+"下决心",
+5.0,
+"xià jué xīn",
+"to determine; to resolve"
 ]
 ],
 "strokes": [

@@ -10,34 +10,107 @@
 "远",
 2,
 "yuǎn",
-"far; distant; remote"
+"far; distant; remote; (intensifier in a comparison) by far; much (lower etc)"
+],
+[
+"远",
+2,
+"yuàn",
+"to distance oneself from (classical)"
 ],
 [
 "永远",
 4,
-"yǒngyuǎn",
-"forever; eternal; always"
-],
-[
-"任重道远",
-6,
-"rènzhòngdàoyuǎn",
-"lit. a heavy load and a long road; fig. to bear heavy responsibilities through a long struggle; shoulder heavy responsibilities"
-],
-[
-"疏远",
-6,
-"shūyuǎn",
-"drift apart; keep at a distance; not in close touch; estranged"
+"yǒng yuǎn",
+"forever; eternal"
 ],
 [
 "遥远",
 6,
-"yáoyuǎn",
+"yáo yuǎn",
 "distant; remote"
+],
+[
+"疏远",
+6,
+"shū yuǎn",
+"to drift apart; to become estranged; to alienate; estrangement"
+],
+[
+"任重道远",
+6,
+"rèn zhòng dào yuǎn",
+"a heavy load and a long road; fig. to bear heavy responsibilities through a long struggle (cf Confucian Analects, 8.7)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"远远",
+41.27,
+"yuǎn yuǎn",
+"distant; by far"
+],
+[
+"远离",
+29.99,
+"yuǎn lí",
+"to be far from; to keep away from"
+],
+[
+"长远",
+20.37,
+"cháng yuǎn",
+"long-term; long-range"
+],
+[
+"远处",
+18.71,
+"yuǎn chù",
+"distant place"
+],
+[
+"远程",
+14.61,
+"yuǎn chéng",
+"remote; long distance; long range"
+],
+[
+"深远",
+9.7,
+"shēn yuǎn",
+"far-reaching; profound and long-lasting"
+],
+[
+"老远",
+9.6,
+"lǎo yuǎn",
+"very far away"
+],
+[
+"远方",
+9.45,
+"yuǎn fāng",
+"far away; a distant location"
+],
+[
+"望远镜",
+6.08,
+"wàng yuǎn jìng",
+"binoculars; telescope; CL:付[fu4],副[fu4],部[bu4]"
+],
+[
+"远期",
+6.07,
+"yuǎn qī",
+"long-term; at a fixed date in the future (e.g. for repayment); abbr. for 遠期合約|远期合约[yuan3 qi1 he2 yue1]"
+],
+[
+"远东",
+5.78,
+"Yuǎn dōng",
+"Far East (loanword)"
+]
+],
 "strokes": [
 "M 507 675 Q 467 665 498 648 Q 555 627 609 647 Q 670 663 733 682 Q 761 692 766 696 Q 775 706 769 715 Q 759 728 726 733 Q 692 736 659 720 Q 628 707 592 695 Q 553 683 507 675 Z",
 "M 659 493 Q 698 505 842 528 Q 852 527 862 540 Q 863 553 838 562 Q 805 583 720 554 Q 687 547 655 536 Q 607 524 419 490 Q 389 486 413 468 Q 449 444 472 449 Q 487 456 623 485 L 659 493 Z",

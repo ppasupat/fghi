@@ -9,130 +9,220 @@
 [
 "向",
 3,
+"Xiàng",
+"surname Xiang"
+],
+[
+"向",
+3,
 "xiàng",
-"direction; towards; to turn; to face"
+"towards; to face; to turn towards; direction; to support; to side with; shortly before; formerly; always; all along; (suffix) suitable for ...; oriented to ..."
+],
+[
+"向",
+3,
+"xiàng",
+"to tend toward; to guide; variant of 向[xiang4]"
+],
+[
+"向",
+3,
+"xiàng",
+"variant of 向[xiang4]; direction; orientation; to face; to turn toward; to; towards; shortly before; formerly"
 ],
 [
 "方向",
 4,
-"fāngxiàng",
-"direction; orientation"
-],
-[
-"导向",
-6,
-"dǎoxiàng",
-"guidance; lead to; direct something towards"
+"fāng xiàng",
+"direction; orientation; path to follow; CL:個|个[ge4]"
 ],
 [
 "倾向",
 6,
-"qīngxiàng",
-"trend; tendency; inclination"
-],
-[
-"外向",
-6,
-"wàixiàng",
-"extroverted; export-oriented (economy)"
-],
-[
-"向导",
-6,
-"xiàngdǎo",
-"guide"
-],
-[
-"向来",
-6,
-"xiànglái",
-"always; all along"
-],
-[
-"向往",
-6,
-"xiàngwǎng",
-"yearn for; look forward to"
-],
-[
-"欣欣向荣",
-6,
-"xīnxīn xiàng róng",
-"flourishing; thriving; prosperous"
+"qīng xiàng",
+"trend; tendency; orientation"
 ],
 [
 "一向",
 6,
-"yíxiàng",
-"all along; the whole time; constantly; always"
+"yī xiàng",
+"always (previously); a period of time in the recent past"
+],
+[
+"向导",
+6,
+"xiàng dǎo",
+"guide"
+],
+[
+"向往",
+6,
+"xiàng wǎng",
+"to yearn for; to look forward to"
+],
+[
+"向来",
+6,
+"xiàng lái",
+"always (previously)"
 ],
 [
 "意向",
 6,
-"yìxiàng",
-"will; intent; disposition"
+"yì xiàng",
+"intention; purpose; intent; inclination; disposition"
+],
+[
+"导向",
+6,
+"dǎo xiàng",
+"to be oriented towards; orientation"
+],
+[
+"欣欣向荣",
+6,
+"xīn xīn xiàng róng",
+"(idiom) flourishing; thriving"
+],
+[
+"外向",
+6,
+"wài xiàng",
+"extroverted (personality); (economics etc) export-oriented"
 ]
 ],
 "extraWords": [
 [
 "走向",
 50.51,
-"zou3 xiang4",
+"zǒu xiàng",
 "direction; strike (i.e. angle of inclination in geology); inclination; trend; to move towards; to head for"
+],
+[
+"面向",
+32.14,
+"miàn xiàng",
+"to face; to turn towards; to incline to; geared towards; catering for; -oriented; facial feature; appearance; aspect; facet"
 ],
 [
 "向上",
 27.25,
-"xiang4 shang4",
+"xiàng shàng",
 "upward; up; to advance; to try to improve oneself; to make progress"
 ],
 [
 "向前",
 26.73,
-"xiang4 qian2",
+"xiàng qián",
 "forward; onward"
+],
+[
+"转向",
+25.5,
+"zhuǎn xiàng",
+"to change direction; fig. to change one's stance"
+],
+[
+"转向",
+25.5,
+"zhuàn xiàng",
+"to get lost; to lose one's way"
 ],
 [
 "向下",
 12.08,
-"xiang4 xia4",
+"xiàng xià",
 "down; downward"
 ],
 [
 "定向",
 11.25,
-"ding4 xiang4",
+"dìng xiàng",
 "to orientate; directional; directed; orienteering"
+],
+[
+"双向",
+10.94,
+"shuāng xiàng",
+"bidirectional; two-way; interactive"
 ],
 [
 "指向",
 9.31,
-"zhi3 xiang4",
+"zhǐ xiàng",
 "to point towards; aimed at; facing; the direction indicated"
 ],
 [
 "取向",
 8.72,
-"qu3 xiang4",
+"qǔ xiàng",
 "orientation; direction"
+],
+[
+"流向",
+8.35,
+"liú xiàng",
+"direction of a current; direction of flow; to flow toward"
+],
+[
+"向后",
+8.33,
+"xiàng hòu",
+"backward"
 ],
 [
 "通向",
 8.32,
-"tong1 xiang4",
+"tōng xiàng",
 "to lead to"
+],
+[
+"横向",
+8.27,
+"héng xiàng",
+"horizontal; orthogonal; perpendicular; lateral; crosswise"
+],
+[
+"趋向",
+7.11,
+"qū xiàng",
+"direction; trend; to incline"
 ],
 [
 "去向",
 6.82,
-"qu4 xiang4",
+"qù xiàng",
 "the position of sth; whereabouts"
+],
+[
+"内向",
+6.37,
+"nèi xiàng",
+"reserved (personality); introverted; (economics etc) domestic-oriented"
+],
+[
+"动向",
+6.12,
+"dòng xiàng",
+"trend; tendency"
+],
+[
+"方向盘",
+5.22,
+"fāng xiàng pán",
+"steering wheel"
 ],
 [
 "向北",
 5.22,
-"xiang4 bei3",
+"xiàng běi",
 "northward; facing north"
+],
+[
+"纵向",
+5.12,
+"zòng xiàng",
+"longitudinal; vertical"
 ]
 ],
 "strokes": [

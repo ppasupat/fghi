@@ -10,10 +10,23 @@
 "拐弯",
 5,
 "guǎi wān",
-"turn a corner; make a turn"
+"to go round a curve; to turn a corner; fig. a new direction"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"弯曲",
+7.79,
+"wān qū",
+"to bend; to curve around; curved; crooked; to wind; to warp"
+],
+[
+"转弯",
+7.21,
+"zhuǎn wān",
+"to turn; to go around a corner"
+]
+],
 "strokes": [
 "M 465 810 Q 495 789 528 765 Q 543 755 559 756 Q 569 757 573 772 Q 576 788 563 816 Q 550 844 453 857 Q 437 858 432 855 Q 428 851 430 838 Q 436 828 465 810 Z",
 "M 591 689 Q 612 693 826 709 Q 839 706 850 721 Q 853 734 826 749 Q 787 771 757 766 Q 517 718 302 704 Q 251 703 199 697 Q 165 696 190 673 Q 227 640 261 646 Q 321 656 392 665 L 424 668 Q 485 678 554 685 L 591 689 Z",

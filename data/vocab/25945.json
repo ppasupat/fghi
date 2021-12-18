@@ -9,147 +9,237 @@
 [
 "教室",
 2,
-"jiàoshì",
-"classroom"
+"jiào shì",
+"classroom; CL:間|间[jian1]"
 ],
 [
 "教",
 3,
-"jiāo, jiào",
-"teach; instruct | religion; teaching"
+"Jiào",
+"surname Jiao"
+],
+[
+"教",
+3,
+"jiāo",
+"to teach"
+],
+[
+"教",
+3,
+"jiào",
+"religion; teaching; to make; to cause; to tell"
 ],
 [
 "教授",
 4,
-"jiàoshòu",
-"professor; instruct; to lecture"
+"jiào shòu",
+"professor; to instruct; to lecture on; CL:個|个[ge4],位[wei4]"
 ],
 [
 "教育",
 4,
-"jiàoyù",
-"education"
-],
-[
-"教材",
-5,
-"jiàocái",
-"teaching materials"
+"jiào yù",
+"to educate; to teach; education"
 ],
 [
 "教练",
 5,
-"jiàoliàn",
-"(athlete's) coach; sports coach; instructor"
+"jiào liàn",
+"instructor; sports coach; trainer; CL:個|个[ge4],位[wei4],名[ming2]"
 ],
 [
 "教训",
 5,
-"jiàoxun",
-"lesson; teach someone or learn a lesson; a moral"
+"jiào xun",
+"to provide guidance; to lecture sb; to upbraid; a talking-to; a bitter lesson; CL:番[fan1],頓|顿[dun4]"
 ],
 [
-"教养",
-6,
-"jiàoyǎng",
-"upbringing; education; bring up; nurture and train"
-],
-[
-"请教",
-6,
-"qǐngjiào",
-"consult; seek advice"
+"教材",
+5,
+"jiào cái",
+"teaching material; CL:本[ben3]"
 ],
 [
 "宗教",
 6,
-"zōngjiào",
+"zōng jiào",
 "religion"
+],
+[
+"教养",
+6,
+"jiào yǎng",
+"to train; to educate; to bring up; to nurture; education; culture; upbringing; early conditioning"
+],
+[
+"请教",
+6,
+"qǐng jiào",
+"to ask for guidance; to consult"
 ]
 ],
 "extraWords": [
 [
+"教学",
+121.55,
+"jiāo xué",
+"to teach (as a professor)"
+],
+[
+"教学",
+121.55,
+"jiào xué",
+"teaching; instruction; CL:門|门[men2],個|个[ge4]"
+],
+[
+"教师",
+109.48,
+"jiào shī",
+"teacher; CL:個|个[ge4]"
+],
+[
 "教堂",
 64.87,
-"jiao4 tang2",
+"jiào táng",
 "church; chapel; CL:間|间[jian1]"
+],
+[
+"教会",
+18.78,
+"jiāo huì",
+"to show; to teach"
+],
+[
+"教会",
+18.78,
+"jiào huì",
+"Christian church"
 ],
 [
 "教育部",
 18.3,
-"Jiao4 yu4 bu4",
+"Jiào yù bù",
 "Ministry of Education"
+],
+[
+"教导",
+15.43,
+"jiào dǎo",
+"to instruct; to teach; guidance; teaching"
+],
+[
+"义务教育",
+12.56,
+"yì wù jiào yù",
+"compulsory education"
 ],
 [
 "佛教",
 10.19,
-"Fo2 jiao4",
+"Fó jiào",
 "Buddhism"
 ],
 [
 "主教",
 10.05,
-"zhu3 jiao4",
+"zhǔ jiào",
 "bishop"
+],
+[
+"执教",
+9.85,
+"zhí jiào",
+"to teach; to be a teacher; to train; to coach"
+],
+[
+"职业教育",
+8.34,
+"zhí yè jiào yù",
+"vocational training"
+],
+[
+"教科书",
+7.94,
+"jiào kē shū",
+"textbook; CL:本[ben3]"
 ],
 [
 "天主教",
 6.89,
-"Tian1 zhu3 jiao4",
+"Tiān zhǔ jiào",
 "Catholicism"
 ],
 [
 "基督教",
 6.8,
-"Ji1 du1 jiao4",
+"Jī dū jiào",
 "Christianity; Christian"
 ],
 [
 "科教",
 6.45,
-"ke1 jiao4",
+"kē jiào",
 "science education; popular science"
 ],
 [
 "教皇",
 6.2,
-"Jiao4 huang2",
+"Jiào huáng",
 "Roman Catholic pope; Supreme Pontiff"
 ],
 [
 "教主",
 6.13,
-"jiao4 zhu3",
+"jiào zhǔ",
 "founder or leader of a religion or sect; (fig.) revered figure"
 ],
 [
 "教徒",
 6.08,
-"jiao4 tu2",
+"jiào tú",
 "disciple; follower of a religion"
+],
+[
+"教书",
+6.02,
+"jiāo shū",
+"to teach (in a school)"
 ],
 [
 "教父",
 5.66,
-"jiao4 fu4",
+"jiào fù",
 "godfather"
+],
+[
+"异教徒",
+5.43,
+"yì jiào tú",
+"member of another religion; heathen; pagan; heretic; apostate"
 ],
 [
 "副教授",
 5.24,
-"fu4 jiao4 shou4",
+"fù jiào shòu",
 "associate professor (university post)"
 ],
 [
 "教研室",
 5.11,
-"jiao4 yan2 shi4",
+"jiào yán shì",
 "teaching and research section"
+],
+[
+"教练员",
+5.09,
+"jiào liàn yuán",
+"sports coach; training personnel"
 ],
 [
 "天主教徒",
 5.01,
-"Tian1 zhu3 jiao4 tu2",
+"Tiān zhǔ jiào tú",
 "Catholic; follower of Catholicism"
 ]
 ],

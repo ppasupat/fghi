@@ -9,23 +9,66 @@
 [
 "阶段",
 5,
-"jiēduàn",
-"stage; phase"
+"jiē duàn",
+"stage; section; phase; period; CL:個|个[ge4]"
 ],
 [
 "台阶",
 5,
-"táijiē",
-"flight of steps; sidestep; fig. way out of an embarrassing situation"
+"tái jiē",
+"steps; flight of steps; step (over obstacle); fig. way out of an embarrassing situation; bench (geology)"
 ],
 [
 "阶层",
 6,
-"jiēcéng",
-"hierarchy"
+"jiē céng",
+"hierarchy; stratum; social class"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"无产阶级",
+42.58,
+"wú chǎn jiē jí",
+"proletariat"
+],
+[
+"阶级",
+24.48,
+"jiē jí",
+"(social) class; CL:個|个[ge4]"
+],
+[
+"资产阶级",
+23.97,
+"zī chǎn jiē jí",
+"the capitalist class; the bourgeoisie"
+],
+[
+"阶级斗争",
+11.77,
+"jiē jí dòu zhēng",
+"class struggle"
+],
+[
+"工人阶级",
+10.55,
+"gōng rén jiē jí",
+"working class"
+],
+[
+"现阶段",
+8.24,
+"xiàn jiē duàn",
+"at the present stage"
+],
+[
+"阶段性",
+7.68,
+"jiē duàn xìng",
+"specific to a particular stage (of a project etc); interim (policy etc); occurring in stages; phased"
+]
+],
 "strokes": [
 "M 233 661 Q 272 668 314 688 Q 330 698 342 688 Q 348 682 339 664 Q 321 627 307 589 Q 294 562 310 542 Q 364 467 351 450 Q 344 440 321 440 Q 291 443 260 440 Q 235 439 264 426 Q 321 402 373 370 Q 386 360 399 371 Q 412 381 417 405 Q 429 456 369 525 Q 333 570 341 584 Q 347 614 403 669 Q 413 682 424 687 Q 445 700 434 714 Q 419 733 379 754 Q 357 763 342 750 Q 290 710 227 694 C 198 686 204 655 233 661 Z",
 "M 227 694 Q 217 712 177 727 Q 165 733 152 727 Q 143 721 150 707 Q 175 619 179 588 Q 178 585 179 580 Q 194 303 153 136 Q 135 70 179 18 Q 192 2 204 17 Q 225 47 224 174 Q 227 652 233 661 C 235 685 235 685 227 694 Z",

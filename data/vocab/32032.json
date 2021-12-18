@@ -9,82 +9,94 @@
 [
 "因素",
 5,
-"yīnsù",
-"element; factor"
-],
-[
-"朴素",
-6,
-"pǔsù",
-"plain; simple; austerity"
-],
-[
-"素食",
-6,
-"sùshí",
-"vegetables; vegetarian food"
-],
-[
-"素质",
-6,
-"sùzhì",
-"inner quality; basic essence; character quality"
-],
-[
-"维生素",
-6,
-"wéishēngsù",
-"vitamin"
-],
-[
-"要素",
-6,
-"yàosù",
-"essential factor; key constituent"
+"yīn sù",
+"element; factor; CL:個|个[ge4]"
 ],
 [
 "元素",
 6,
-"yuánsù",
+"yuán sù",
 "element; element of a set; chemical element"
+],
+[
+"素食",
+6,
+"sù shí",
+"vegetables; vegetarian food"
+],
+[
+"维生素",
+6,
+"wéi shēng sù",
+"vitamin"
+],
+[
+"素质",
+6,
+"sù zhì",
+"inner quality; basic essence"
+],
+[
+"要素",
+6,
+"yào sù",
+"essential factor; key constituent"
+],
+[
+"朴素",
+6,
+"pǔ sù",
+"plain and simple; unadorned; simple living; not frivolous"
 ]
 ],
 "extraWords": [
 [
 "像素",
 27.17,
-"xiang4 su4",
+"xiàng sù",
 "pixel"
 ],
 [
 "激素",
 16.55,
-"ji1 su4",
+"jī sù",
 "hormone"
 ],
 [
 "抗生素",
 12.13,
-"kang4 sheng1 su4",
+"kàng shēng sù",
 "antibiotic"
 ],
 [
 "毒素",
 7.5,
-"du2 su4",
+"dú sù",
 "poison"
 ],
 [
 "色素",
 7.32,
-"se4 su4",
+"sè sù",
 "pigment"
+],
+[
+"胰岛素",
+7.0,
+"yí dǎo sù",
+"insulin"
 ],
 [
 "素材",
 6.12,
-"su4 cai2",
+"sù cái",
 "source material (in literature and art)"
+],
+[
+"素养",
+6.09,
+"sù yǎng",
+"(personal) accomplishment; attainment in self-cultivation"
 ]
 ],
 "strokes": [

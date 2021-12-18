@@ -10,615 +10,1125 @@
 "大",
 1,
 "dà",
-"big; large"
+"big; huge; large; major; great; wide; deep; older (than); oldest; eldest; greatly; very much; (dialect) father; father's elder or younger brother"
+],
+[
+"大",
+1,
+"dài",
+"see 大夫[dai4 fu5]"
 ],
 [
 "大家",
 2,
-"dàjiā",
-"everyone"
+"dà jiā",
+"everyone; influential family; great expert"
 ],
 [
 "大概",
 4,
-"dàgài",
-"probably; roughly; approximate"
-],
-[
-"大使馆",
-4,
-"dàshǐguǎn",
-"embassy"
+"dà gài",
+"roughly; probably; rough; approximate; about; general idea"
 ],
 [
 "大约",
 4,
-"dàyuē",
-"approximately; about"
+"dà yuē",
+"approximately; probably"
 ],
 [
 "大夫",
 4,
-"dàifu",
+"dà fū",
+"senior official (in imperial China)"
+],
+[
+"大夫",
+4,
+"dài fu",
 "doctor; physician"
 ],
 [
-"大方",
-5,
-"dàfang",
-"generous; poise; (-fang1: expert; scholar)"
-],
-[
-"大厦",
-5,
-"dàshà",
-"large building; edifice; mansion"
-],
-[
-"大象",
-5,
-"dàxiàng",
-"elephant"
-],
-[
-"大型",
-5,
-"dàxíng",
-"large-scale; wide-scale"
-],
-[
-"广大",
-5,
-"guǎngdà",
-"vast; extensive"
-],
-[
-"巨大",
-5,
-"jùdà",
-"immense; enormous; very large"
-],
-[
-"扩大",
-5,
-"kuòdà",
-"enlarge; expand"
+"大使馆",
+4,
+"dà shǐ guǎn",
+"embassy; CL:座[zuo4],個|个[ge4]"
 ],
 [
 "伟大",
 5,
-"wěidà",
-"great; mighty; large"
+"wěi dà",
+"huge; great; grand; worthy of the greatest admiration; important (contribution etc)"
+],
+[
+"巨大",
+5,
+"jù dà",
+"huge; immense; very large; tremendous; gigantic; enormous"
 ],
 [
 "重大",
 5,
-"zhòngdà",
-"great; important; major"
+"zhòng dà",
+"great; important; major; significant"
 ],
 [
-"博大精深",
-6,
-"bódàjīngshēn",
-"broad and profound"
+"大型",
+5,
+"dà xíng",
+"large; large-scale"
+],
+[
+"大象",
+5,
+"dà xiàng",
+"elephant; CL:隻|只[zhi1]"
+],
+[
+"大厦",
+5,
+"dà shà",
+"(used in the names of grand buildings such as 百老匯大廈|百老汇大厦 Broadway Mansions (in Shanghai) or 帝國大廈|帝国大厦 Empire State Building etc)"
+],
+[
+"扩大",
+5,
+"kuò dà",
+"to expand; to enlarge; to broaden one's scope"
+],
+[
+"大方",
+5,
+"dà fāng",
+"expert; scholar; mother earth; a type of green tea"
+],
+[
+"大方",
+5,
+"dà fang",
+"generous; magnanimous; stylish; in good taste; easy-mannered; natural and relaxed"
+],
+[
+"广大",
+5,
+"guǎng dà",
+"(of an area) vast or extensive; large-scale; widespread; (of people) numerous"
 ],
 [
 "大不了",
 6,
-"dàbuliǎo",
-"at the worst; if worst comes to worst; serious, alarming"
-],
-[
-"大臣",
-6,
-"dàchén",
-"chancellor"
-],
-[
-"大伙儿",
-6,
-"dàhuǒr",
-"everyone"
-],
-[
-"大肆",
-6,
-"dàsì",
-"wantonly; without any constraint"
-],
-[
-"大体",
-6,
-"dàtǐ",
-"in general; more or less; on the whole"
-],
-[
-"大意",
-6,
-"dàyì",
-"main idea; general idea; gist"
-],
-[
-"大致",
-6,
-"dàzhì",
-"more or less; roughly; approximately"
+"dà bù liǎo",
+"at worst; if worst comes to worst; serious; alarming"
 ],
 [
 "放大",
 6,
-"fàngdà",
-"enlarge; amplify"
+"fàng dà",
+"to enlarge; to magnify"
 ],
 [
-"恍然大悟",
+"大伙儿",
 6,
-"huǎngrándàwù",
-"suddenly see the light; suddenly realize what has happened; twig"
+"dà huǒ r5",
+"erhua variant of 大伙[da4 huo3]"
 ],
 [
 "庞大",
 6,
-"pángdà",
-"enormous; huge; tremendous"
+"páng dà",
+"huge; enormous; tremendous"
+],
+[
+"大致",
+6,
+"dà zhì",
+"more or less; roughly; approximately"
+],
+[
+"大臣",
+6,
+"dà chén",
+"chancellor (of a monarchy); cabinet minister"
+],
+[
+"大肆",
+6,
+"dà sì",
+"wantonly; without restraint (of enemy or malefactor); unbridled"
+],
+[
+"大意",
+6,
+"dà yì",
+"general idea; main idea"
+],
+[
+"大意",
+6,
+"dà yi",
+"careless"
+],
+[
+"大体",
+6,
+"dà tǐ",
+"in general; more or less; in rough terms; basically; on the whole; overall situation; the big picture; (Tw) remains (of a dead person)"
+],
+[
+"恍然大悟",
+6,
+"huǎng rán dà wù",
+"to suddenly realize; to suddenly see the light"
+],
+[
+"博大精深",
+6,
+"bó dà jīng shēn",
+"wide-ranging and profound; broad and deep"
 ]
 ],
 "extraWords": [
 [
 "大量",
 150.65,
-"da4 liang4",
+"dà liàng",
 "great amount; large quantity; bulk; numerous; generous; magnanimous"
+],
+[
+"大学",
+140.85,
+"Dà xué",
+"the Great Learning, one of the Four Books 四書|四书[Si4 shu1] in Confucianism"
+],
+[
+"大学",
+140.85,
+"dà xué",
+"university; college; CL:所[suo3]"
+],
+[
+"较大",
+91.78,
+"jiào dà",
+"comparatively large"
+],
+[
+"大会",
+86.59,
+"dà huì",
+"general assembly; general meeting; convention; CL:個|个[ge4],屆|届[jie4]"
 ],
 [
 "大人",
 82.99,
-"da4 ren5",
+"dà ren",
 "adult; grownup; title of respect toward superiors"
 ],
 [
 "加大",
 82.94,
-"jia1 da4",
+"jiā dà",
 "to increase (e.g. one's effort)"
+],
+[
+"强大",
+81.98,
+"qiáng dà",
+"large; formidable; powerful; strong"
 ],
 [
 "大部分",
 73.82,
-"da4 bu4 fen5",
+"dà bù fen",
 "in large part; the greater part; the majority"
 ],
 [
 "大大",
 68.47,
-"da4 da4",
+"dà dà",
 "greatly; enormously; (dialect) dad; uncle"
 ],
 [
 "大力",
 62.39,
-"da4 li4",
+"dà lì",
 "energetically; vigorously"
+],
+[
+"大陆",
+59.03,
+"Dà lù",
+"mainland China (reference to the PRC)"
+],
+[
+"大陆",
+59.03,
+"dà lù",
+"continent; mainland; CL:個|个[ge4],塊|块[kuai4]"
+],
+[
+"大学生",
+58.06,
+"dà xué shēng",
+"university student; college student"
 ],
 [
 "意大利",
 57.55,
-"Yi4 da4 li4",
+"Yì dà lì",
 "Italy; Italian"
 ],
 [
 "不大",
 56.16,
-"bu4 da4",
+"bù dà",
 "not very; not too; not often"
+],
+[
+"大多数",
+55.6,
+"dà duō shù",
+"(great) majority"
 ],
 [
 "大小",
 54.24,
-"da4 xiao3",
+"dà xiǎo",
 "dimension; magnitude; size; measurement; large and small; at any rate; adults and children; consideration of seniority"
+],
+[
+"长大",
+53.57,
+"zhǎng dà",
+"to grow up"
+],
+[
+"大队",
+48.43,
+"dà duì",
+"group; a large body of; production brigade; military group"
+],
+[
+"大赛",
+47.04,
+"dà sài",
+"grand contest"
+],
+[
+"极大",
+46.51,
+"jí dà",
+"maximum; enormous"
 ],
 [
 "大街",
 44.89,
-"da4 jie1",
+"dà jiē",
 "street; main street; CL:條|条[tiao2]"
+],
+[
+"大脑",
+43.55,
+"dà nǎo",
+"brain; cerebrum"
+],
+[
+"大众",
+41.27,
+"Dà zhòng",
+"Volkswagen (automobile manufacturer)"
+],
+[
+"大众",
+41.27,
+"dà zhòng",
+"the masses; the great bulk of the population; popular (of music, science etc)"
+],
+[
+"大师",
+40.42,
+"dà shī",
+"great master; master"
+],
+[
+"大奖",
+39.8,
+"dà jiǎng",
+"prize; award"
+],
+[
+"澳大利亚",
+38.56,
+"Ào dà lì yà",
+"Australia"
+],
+[
+"大规模",
+38.5,
+"dà guī mó",
+"large scale; extensive; wide scale; broad scale"
+],
+[
+"大连",
+37.46,
+"Dà lián",
+"Dalian subprovincial city in Liaoning province 遼寧省|辽宁省[Liao2 ning2 Sheng3] in northeast China"
+],
+[
+"大楼",
+36.55,
+"dà lóu",
+"building (a relatively large, multi-storey one); CL:幢[zhuang4],座[zuo4]"
 ],
 [
 "老大",
 36.0,
-"lao3 da4",
+"lǎo dà",
 "old age; very; eldest child in a family; leader of a group; boss; captain of a boat; leader of a criminal gang"
 ],
 [
 "大麻",
 35.71,
-"da4 ma2",
+"dà má",
 "hemp (Cannabis sativa); cannabis; marijuana"
+],
+[
+"大卫",
+35.18,
+"Dà wèi",
+"David (name); Jacques-Louis David (1748-1825), French neoclassical painter"
 ],
 [
 "大多",
 33.49,
-"da4 duo1",
+"dà duō",
 "for the most part; many; most; the greater part; mostly"
 ],
 [
 "加拿大",
 32.52,
-"Jia1 na2 da4",
+"Jiā ná dà",
 "Canada; Canadian"
+],
+[
+"大声",
+32.31,
+"dà shēng",
+"loud voice; in a loud voice; loudly"
+],
+[
+"大门",
+31.89,
+"Dà mén",
+"the Doors, US rock band"
+],
+[
+"大门",
+31.89,
+"dà mén",
+"entrance; door; gate; large and influential family"
 ],
 [
 "大豆",
 27.08,
-"da4 dou4",
+"dà dòu",
 "soybean"
 ],
 [
 "大事",
 26.92,
-"da4 shi4",
+"dà shì",
 "major event; major political event (war or change of regime); major social event (wedding or funeral); (do sth) in a big way; CL:件[jian4],樁|桩[zhuang1]"
+],
+[
+"大胆",
+26.46,
+"dà dǎn",
+"brazen; audacious; outrageous; bold; daring; fearless"
 ],
 [
 "大哥",
 26.27,
-"da4 ge1",
+"dà gē",
 "eldest brother; big brother (polite address for a man of about the same age as oneself); gang leader; boss"
+],
+[
+"股东大会",
+25.98,
+"gǔ dōng dà huì",
+"general shareholders' meeting"
+],
+[
+"大于",
+25.49,
+"dà yú",
+"greater than; bigger than; more than, >"
+],
+[
+"大厅",
+24.32,
+"dà tīng",
+"hall; lounge"
 ],
 [
 "大道",
 24.28,
-"da4 dao4",
+"dà dào",
 "main street; avenue"
 ],
 [
 "大批",
 23.65,
-"da4 pi1",
+"dà pī",
 "large quantities of"
 ],
 [
 "增大",
 23.57,
-"zeng1 da4",
+"zēng dà",
 "to enlarge; to amplify; to magnify"
+],
+[
+"大战",
+22.91,
+"dà zhàn",
+"war; to wage war"
 ],
 [
 "人大",
 22.73,
-"Ren2 da4",
+"Rén dà",
 "(Chinese) National People's Congress (abbr. for 全國人民代表大會|全国人民代表大会[Quan2 guo2 Ren2 min2 Dai4 biao3 Da4 hui4]); Renmin University of China (abbr. for 中國人民大學|中国人民大学[Zhong1 guo2 Ren2 min2 Da4 xue2])"
+],
+[
+"大桥",
+21.85,
+"Dà Qiáo",
+"Da Qiao, one of the Two Qiaos, according to Romance of the Three Kingdoms 三國演義|三国演义[San1 guo2 Yan3 yi4], the two great beauties of ancient China"
+],
+[
+"绝大多数",
+21.65,
+"jué dà duō shù",
+"absolute majority; overwhelming majority"
 ],
 [
 "大片",
 21.62,
-"da4 pian4",
+"dà piàn",
 "wide expanse; large area; vast stretch; extending widely; blockbuster movie"
 ],
 [
 "北大",
 19.25,
-"Bei3 Da4",
+"Běi Dà",
 "Peking University (abbr. for 北京大學|北京大学)"
 ],
 [
 "大幅度",
 19.24,
-"da4 fu2 du4",
+"dà fú dù",
 "by a wide margin; substantial"
 ],
 [
 "盛大",
 19.04,
-"sheng4 da4",
+"shèng dà",
 "grand; majestic; magnificent; Shanda Entertainment (PRC computer game company)"
+],
+[
+"大气",
+18.88,
+"dà qì",
+"atmosphere (surrounding the earth); imposing; impressive; stylish"
 ],
 [
 "大都",
 18.41,
-"Da4 du1",
+"Dà dū",
 "Dadu, capital of China during the Yuan Dynasty (1280-1368), modern day Beijing"
 ],
 [
 "大都",
 18.41,
-"da4 dou1",
+"dà dōu",
 "for the most part; on the whole; also pr. [da4 du1]"
 ],
 [
 "大都",
 18.41,
-"da4 du1",
+"dà dū",
 "for the most part; on the whole; metropolitan"
 ],
 [
 "大使",
 18.12,
-"da4 shi3",
+"dà shǐ",
 "ambassador; envoy; CL:名[ming2],位[wei4]"
+],
+[
+"大国",
+17.93,
+"dà guó",
+"a power (i.e. a dominant country)"
 ],
 [
 "大地",
 17.61,
-"da4 di4",
+"dà dì",
 "earth; mother earth"
 ],
 [
 "大伙",
 17.53,
-"da4 huo3",
+"dà huǒ",
 "everybody; everyone; we all"
+],
+[
+"特大",
+17.43,
+"tè dà",
+"exceptionally big"
 ],
 [
 "大衣",
 16.57,
-"da4 yi1",
+"dà yī",
 "overcoat; topcoat; cloak; CL:件[jian4]"
+],
+[
+"壮大",
+15.79,
+"zhuàng dà",
+"to expand; to strengthen"
 ],
 [
 "一大早",
 15.72,
-"yi1 da4 zao3",
+"yī dà zǎo",
 "at dawn; at first light; first thing in the morning"
 ],
 [
 "大叔",
 15.68,
-"da4 shu1",
+"dà shū",
 "eldest of father's younger brothers; uncle (term used to address a man about the age of one's father)"
 ],
 [
 "大火",
 15.27,
-"da4 huo3",
+"dà huǒ",
 "conflagration; large fire; CL:場|场[chang2]"
+],
+[
+"全国人大",
+15.06,
+"Quán guó Rén Dà",
+"abbr. for 全國人大會議|全国人大会议[Quan2 guo2 Ren2 Da4 hui4 yi4], National People's Congress (NPC)"
 ],
 [
 "大海",
 14.64,
-"da4 hai3",
+"dà hǎi",
 "sea; ocean"
 ],
 [
 "大笑",
 14.55,
-"da4 xiao4",
+"dà xiào",
 "to laugh heartily; a belly laugh"
+],
+[
+"大军",
+14.25,
+"dà jūn",
+"army; main forces"
+],
+[
+"大面积",
+13.69,
+"dà miàn jī",
+"large area; (fig.) (of a problem) (occurring) on a massive scale"
 ],
 [
 "文化大革命",
 13.61,
-"Wen2 hua4 Da4 ge2 ming4",
+"Wén huà Dà gé mìng",
 "Cultural Revolution (1966-1976)"
+],
+[
+"大爷",
+13.31,
+"dà yé",
+"arrogant idler; self-centered show-off"
+],
+[
+"大爷",
+13.31,
+"dà ye",
+"(coll.) father's older brother; uncle; term of respect for older man"
 ],
 [
 "大局",
 12.98,
-"da4 ju2",
-"general situation; present conditions"
+"dà jú",
+"overall situation; the big picture"
 ],
 [
 "大腿",
 12.81,
-"da4 tui3",
+"dà tuǐ",
 "thigh"
+],
+[
+"大奖赛",
+12.51,
+"dà jiǎng sài",
+"grand prix"
 ],
 [
 "大雨",
 12.47,
-"da4 yu3",
+"dà yǔ",
 "heavy rain; CL:場|场[chang2]"
+],
+[
+"大选",
+12.37,
+"dà xuǎn",
+"general election"
 ],
 [
 "大半",
 12.01,
-"da4 ban4",
+"dà bàn",
 "more than half; greater part; most; probably; most likely"
+],
+[
+"全国人大常委会",
+11.81,
+"Quán guó Rén Dà Cháng Wěi huì",
+"Standing Committee of the National People's Congress (abbr. of 全國人民代表大會常務委員會|全国人民代表大会常务委员会)"
+],
+[
+"北京大学",
+11.67,
+"Běi jīng Dà xué",
+"Peking University"
+],
+[
+"绝大部分",
+11.64,
+"jué dà bù fen",
+"overwhelming majority"
 ],
 [
 "高大",
 11.58,
-"gao1 da4",
+"gāo dà",
 "tall; lofty"
 ],
 [
 "大有",
 11.57,
-"da4 you3",
+"dà yǒu",
 "there is much; (literary) abundance"
+],
+[
+"大风",
+11.49,
+"dà fēng",
+"gale; CL:場|场[chang2]"
 ],
 [
 "大自然",
 11.27,
-"da4 zi4 ran2",
+"dà zì rán",
 "nature (the natural world)"
 ],
 [
 "大米",
 10.93,
-"da4 mi3",
+"dà mǐ",
 "(husked) rice"
 ],
 [
 "大牌",
 10.46,
-"da4 pai2",
+"dà pái",
 "strong card; honor card (card games); very popular or successful person; self-important"
+],
+[
+"清华大学",
+10.34,
+"Qīng huá Dà xué",
+"Tsinghua or Qinghua University, Beijing; National Tsing Hua University, Hsinchu, Taiwan"
 ],
 [
 "大便",
 9.99,
-"da4 bian4",
+"dà biàn",
 "to defecate; excrement; feces"
+],
+[
+"大户",
+9.66,
+"dà hù",
+"great family; rich family; large landlord; conspicuous spender or consumer"
 ],
 [
 "大姐",
 9.59,
-"da4 jie3",
+"dà jiě",
 "big sister; elder sister; older sister (also polite term of address for a girl or woman slightly older than the speaker)"
+],
+[
+"大块头",
+9.48,
+"dà kuài tóu",
+"heavy man; fat man; lunkhead; lummox; lug"
+],
+[
+"大熊猫",
+9.45,
+"dà xióng māo",
+"giant panda (Ailuropoda melanoleuca)"
+],
+[
+"大汉",
+9.44,
+"dà hàn",
+"big person; the great Han dynasty"
 ],
 [
 "大餐",
 9.17,
-"da4 can1",
+"dà cān",
 "great meal; banquet"
 ],
 [
 "大王",
 9.03,
-"da4 wang2",
+"dà wáng",
 "king; magnate; person having expert skill in something"
 ],
 [
 "大王",
 9.03,
-"dai4 wang5",
+"dài wang",
 "robber baron (in opera, old stories); magnate"
+],
+[
+"人民大会堂",
+9.01,
+"Rén mín Dà huì táng",
+"the Great Hall of the People in Beijing"
 ],
 [
 "大部",
 8.96,
-"da4 bu4",
+"dà bù",
 "most of; the majority of sth"
 ],
 [
 "大喊",
 8.71,
-"da4 han3",
+"dà hǎn",
 "to shout"
+],
+[
+"大头",
+8.46,
+"dà tóu",
+"big head; mask in the shape of a big head; the larger end of sth; the main part; the lion's share; dupe; sucker; (old) silver coin with a bust of Yuan Shikai 袁世凱|袁世凯[Yuan2 Shi4 kai3] on the obverse side"
 ],
 [
 "光大",
 8.4,
-"guang1 da4",
+"guāng dà",
 "splendid; magnificent; abbr. for 中國光大銀行|中国光大银行[Zhong1 guo2 Guang1 da4 Yin2 hang2], China Everbright Bank"
+],
+[
+"大吃一惊",
+8.29,
+"dà chī yī jīng",
+"to have a surprise (idiom); shocked or startled; gobsmacked"
+],
+[
+"大关",
+8.16,
+"dà guān",
+"strategic pass; barrier or mark (i.e. a level considered impressive, usually a round figure such as 10,000); instrument of torture used to break limbs"
 ],
 [
 "大雪",
 7.85,
-"Da4 xue3",
+"Dà xuě",
 "Daxue or Great Snow, 21st of the 24 solar terms 二十四節氣|二十四节气 7th-21st December"
+],
+[
+"大专",
+7.79,
+"dà zhuān",
+"three-year college; junior college; professional training college"
 ],
 [
 "大喊大叫",
 7.78,
-"da4 han3 da4 jiao4",
+"dà hǎn dà jiào",
 "shouting and screaming (idiom); to scream loudly; to rant; to kick up a racket; to conduct vigorous propaganda"
 ],
 [
 "大公司",
 7.52,
-"da4 gong1 si1",
+"dà gōng sī",
 "large company; corporation"
+],
+[
+"大侠",
+7.48,
+"dà xiá",
+"knight; swordsman; noble warrior; chivalrous hero"
+],
+[
+"亚历山大",
+7.3,
+"Yà lì shān dà",
+"Alexander (name); Alexandria (town name)"
 ],
 [
 "大步",
 7.26,
-"da4 bu4",
+"dà bù",
 "large strides"
+],
+[
+"大庆",
+7.21,
+"Dà qìng",
+"Daqing prefecture-level city in Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1] in northeast China"
 ],
 [
 "大洋",
 7.04,
-"da4 yang2",
+"dà yáng",
 "ocean; (old) silver dollar"
+],
+[
+"亚特兰大",
+6.98,
+"Yà tè lán dà",
+"Atlanta"
+],
+[
+"大将",
+6.93,
+"dà jiàng",
+"a general or admiral"
 ],
 [
 "大巴",
 6.85,
-"da4 ba1",
+"dà bā",
 "(coll.) large bus; coach; (abbr. for 大型巴士)"
+],
+[
+"大妈",
+6.79,
+"dà mā",
+"father's elder brother's wife; aunt (affectionate term for an elderly woman)"
 ],
 [
 "最大化",
 6.76,
-"zui4 da4 hua4",
+"zuì dà huà",
 "to maximize"
 ],
 [
 "大院",
 6.56,
-"da4 yuan4",
+"dà yuàn",
 "courtyard (surrounded by many buildings); compound; great institution"
+],
+[
+"大坝",
+6.54,
+"dà bà",
+"dam"
 ],
 [
 "斯大林",
 6.49,
-"Si1 da4 lin2",
+"Sī dà lín",
 "Joseph Stalin (1879-1953), Soviet dictator"
+],
+[
+"大钱",
+6.47,
+"dà qián",
+"large sum of money; old Chinese type of coin of high denomination"
+],
+[
+"大惊小怪",
+6.41,
+"dà jīng xiǎo guài",
+"to make a fuss about nothing (idiom)"
+],
+[
+"世界大战",
+6.29,
+"shì jiè dà zhàn",
+"world war"
 ],
 [
 "自大",
 6.26,
-"zi4 da4",
+"zì dà",
 "arrogant"
 ],
 [
 "哈哈大笑",
 6.24,
-"ha1 ha1 da4 xiao4",
+"hā hā dà xiào",
 "to laugh heartily; to burst into loud laughter"
 ],
 [
 "大喜",
 6.13,
-"da4 xi3",
+"dà xǐ",
 "exultation"
+],
+[
+"大本营",
+6.11,
+"dà běn yíng",
+"headquarters; base camp"
 ],
 [
 "大吉",
 5.99,
-"da4 ji2",
+"dà jí",
 "very auspicious; extremely lucky"
 ],
 [
 "大寨",
 5.85,
-"da4 zhai4",
+"dà zhài",
 "Dazhai"
+],
+[
+"大肠",
+5.83,
+"dà cháng",
+"the large intestine"
+],
+[
+"宽大",
+5.83,
+"kuān dà",
+"spacious; wide; lenient"
 ],
 [
 "大蒜",
 5.74,
-"da4 suan4",
+"dà suàn",
 "garlic; CL:瓣[ban4],頭|头[tou2]"
 ],
 [
 "大山",
 5.72,
-"Da4 shan1",
+"Dà shān",
 "Dashan, stage name of Canadian Mark Henry Rowswell (1965-), actor and well-known TV personality in PRC"
+],
+[
+"大红",
+5.7,
+"dà hóng",
+"crimson"
+],
+[
+"大屠杀",
+5.69,
+"dà tú shā",
+"massacre; Holocaust"
+],
+[
+"复旦大学",
+5.61,
+"Fù dàn Dà xué",
+"Fudan University, Shanghai"
 ],
 [
 "大大小小",
 5.48,
-"da4 da4 xiao3 xiao3",
+"dà dà xiǎo xiǎo",
 "large and small; of all sizes"
+],
+[
+"五角大楼",
+5.46,
+"Wǔ jiǎo Dà lóu",
+"the Pentagon"
 ],
 [
 "大同",
 5.41,
-"Da4 tong2",
+"Dà tóng",
 "(Confucianism) Great Harmony (concept of an ideal society)"
 ],
 [
 "天大",
 5.33,
-"tian1 da4",
+"tiān dà",
 "gargantuan; as big as the sky; enormous"
+],
+[
+"大发",
+5.29,
+"Dà fā",
+"Daihatsu, Japanese car company"
 ],
 [
 "大家庭",
 5.28,
-"da4 jia1 ting2",
+"dà jiā tíng",
 "extended family; big family; harmonious group"
+],
+[
+"师大",
+5.18,
+"shī dà",
+"abbr. for 師範大學|师范大学[shi1 fan4 da4 xue2], normal university; teacher training college"
+],
+[
+"大纲",
+5.15,
+"dà gāng",
+"synopsis; outline; program; leading principles"
 ],
 [
 "大宗",
 5.14,
-"da4 zong1",
+"dà zōng",
 "large amount; staple; influential family of long standing"
+],
+[
+"浙江大学",
+5.13,
+"Zhè jiāng Dà xué",
+"Zhejiang University"
+],
+[
+"大炮",
+5.04,
+"dà pào",
+"big gun; cannon; artillery; one who talks big; CL:門|门[men2],尊[zun1]"
+],
+[
+"夸大",
+5.01,
+"kuā dà",
+"to exaggerate"
 ]
 ],
 "strokes": [

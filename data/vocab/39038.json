@@ -9,59 +9,78 @@
 [
 "照顾",
 3,
-"zhàogu",
-"take care of; look after; give consideration"
+"zhào gu",
+"to take care of; to show consideration; to attend to; to look after"
 ],
 [
 "顾客",
 4,
-"gùkè",
-"customer; client"
-],
-[
-"不顾",
-6,
-"búgù",
-"in spite of; regardless of; to disregard"
-],
-[
-"不屑一顾",
-6,
-"búxièyígù",
-"not worth seeing; disdain as beneath contempt"
-],
-[
-"顾虑",
-6,
-"gùlǜ",
-"misgivings; apprehensions"
+"gù kè",
+"client; customer; CL:位[wei4]"
 ],
 [
 "顾问",
 6,
-"gùwèn",
+"gù wèn",
 "adviser; consultant"
-],
-[
-"后顾之忧",
-6,
-"hòugùzhīyōu",
-"fears of trouble in the rear (idiom); family worries (obstructing freedom to act); trouble back at home; worries about the future consequences; often in negative expressions, meaning no worries about anything"
 ],
 [
 "回顾",
 6,
-"huígù",
-"look back; to review"
+"huí gù",
+"to look back; to review"
+],
+[
+"不顾",
+6,
+"bù gù",
+"in spite of; regardless of"
+],
+[
+"顾虑",
+6,
+"gù lu:4",
+"misgivings; apprehensions"
 ],
 [
 "统筹兼顾",
 6,
-"tǒngchóujiāngù",
-"take every aspects into consideration through plan and preparation"
+"tǒng chóu jiān gù",
+"an overall plan taking into account all factors"
+],
+[
+"不屑一顾",
+6,
+"bù xiè yī gù",
+"to disdain as beneath contempt (idiom)"
+],
+[
+"后顾之忧",
+6,
+"hòu gù zhī yōu",
+"fears of trouble in the rear (idiom); family worries (obstructing freedom of action); worries about the future consequences; often in negative expressions, meaning \"no worries about anything\""
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"兼顾",
+8.81,
+"jiān gù",
+"to attend simultaneously to two or more things; to balance (career and family, family and education etc)"
+],
+[
+"顾及",
+5.61,
+"gù jí",
+"to take into consideration; to attend to"
+],
+[
+"光顾",
+5.41,
+"guāng gù",
+"to visit (as a customer)"
+]
+],
 "strokes": [
 "M 240 633 Q 276 629 348 644 Q 477 677 484 682 Q 491 689 487 697 Q 480 707 453 713 Q 425 717 399 705 Q 363 692 324 680 Q 285 671 242 662 C 213 656 210 635 240 633 Z",
 "M 242 662 Q 226 678 196 691 Q 178 701 166 696 Q 154 689 161 676 Q 177 652 178 597 Q 177 584 177 568 Q 174 418 136 300 Q 108 221 34 94 Q 30 87 27 81 Q 26 71 35 73 Q 68 79 142 204 Q 151 222 160 241 Q 220 382 229 542 Q 235 621 240 633 C 245 659 245 659 242 662 Z",

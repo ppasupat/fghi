@@ -9,28 +9,40 @@
 [
 "教授",
 4,
-"jiàoshòu",
-"professor; instruct; to lecture"
-],
-[
-"传授",
-6,
-"chuánshòu",
-"impart; pass on; teach"
+"jiào shòu",
+"professor; to instruct; to lecture on; CL:個|个[ge4],位[wei4]"
 ],
 [
 "授予",
 6,
-"shòuyǔ",
-"to award; confer"
+"shòu yǔ",
+"to award; to confer"
+],
+[
+"传授",
+6,
+"chuán shòu",
+"to impart; to pass on; to teach"
 ]
 ],
 "extraWords": [
 [
+"授权",
+30.67,
+"shòu quán",
+"to authorize"
+],
+[
 "副教授",
 5.24,
-"fu4 jiao4 shou4",
+"fù jiào shòu",
 "associate professor (university post)"
+],
+[
+"授课",
+5.04,
+"shòu kè",
+"to teach; to give lessons"
 ]
 ],
 "strokes": [

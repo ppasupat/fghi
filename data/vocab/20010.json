@@ -9,47 +9,156 @@
 [
 "个",
 1,
-"ge",
-"general measure word"
+"gè",
+"individual; this; that; size; classifier for people or objects in general"
+],
+[
+"个",
+1,
+"gè",
+"variant of 個|个[ge4]"
 ],
 [
 "个子",
 3,
-"gèzi",
-"height; stature; build"
+"gè zi",
+"height; stature; build; size"
 ],
 [
-"个别",
+"整个",
 5,
-"gèbié",
-"individual; specific; isolated; very few"
+"zhěng gè",
+"whole; entire; total"
 ],
 [
 "个人",
 5,
-"gèrén",
+"gè rén",
 "individual; personal; oneself"
 ],
 [
 "个性",
 5,
-"gèxìng",
+"gè xìng",
 "individuality; personality"
 ],
 [
-"整个",
+"个别",
 5,
-"zhěnggè",
-"whole; entire; total"
+"gè bié",
+"individual; specific; respective; just one or two"
 ],
 [
 "个体",
 6,
-"gètǐ",
+"gè tǐ",
 "individual"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"这个",
+2744.19,
+"zhè ge",
+"this; this one"
+],
+[
+"那个",
+1234.61,
+"nà ge",
+"that one; that thing; that (as opposed to this); (used before a verb or adjective for emphasis); (used to humorously or indirectly refer to sth embarrassing, funny etc, or when one can't think of the right word); (used in speech as a filler, similar to \"umm\", \"you know\" etc); (euph.) menstruation; sex; also pr. [nei4 ge5]"
+],
+[
+"一个人",
+240.96,
+"yī gè rén",
+"by oneself (without assistance); alone (without company)"
+],
+[
+"几个",
+207.25,
+"jǐ ge",
+"a few; several; how many"
+],
+[
+"哪个",
+93.01,
+"nǎ ge",
+"which; who"
+],
+[
+"各个",
+67.5,
+"gè gè",
+"every; various; separately, one by one"
+],
+[
+"每个人",
+59.03,
+"měi ge rén",
+"everybody; everyone"
+],
+[
+"半个",
+38.67,
+"bàn ge",
+"half of sth"
+],
+[
+"个股",
+29.44,
+"gè gǔ",
+"share (in a listed company)"
+],
+[
+"多个",
+29.33,
+"duō ge",
+"many; multiple; multi- (faceted, ethnic etc)"
+],
+[
+"一个个",
+24.84,
+"yī gè gè",
+"each and every one"
+],
+[
+"下一个",
+21.6,
+"xià yī ge",
+"the next one"
+],
+[
+"个个",
+17.27,
+"gè gè",
+"each one individually; each and every"
+],
+[
+"个性化",
+10.8,
+"gè xìng huà",
+"to personalize; to customize; customization"
+],
+[
+"上个月",
+7.87,
+"shàng gè yuè",
+"last month"
+],
+[
+"个头",
+7.32,
+"gè tóu",
+"size; height"
+],
+[
+"个头",
+7.32,
+"ge tóu",
+"(coll.) (suffix) my ass!; yeah, right!"
+]
+],
 "strokes": [
 "M 519 700 Q 531 724 551 744 Q 560 750 558 760 Q 557 770 543 784 Q 507 815 475 811 Q 465 808 468 795 Q 486 692 300 485 Q 296 482 293 478 Q 241 423 110 316 Q 100 312 112 308 Q 178 317 306 429 Q 387 504 505 679 L 519 700 Z",
 "M 505 679 Q 614 538 756 391 Q 777 367 812 369 Q 933 373 971 381 Q 983 384 984 389 Q 984 395 967 402 Q 790 456 742 495 Q 639 579 519 700 C 498 721 487 703 505 679 Z",

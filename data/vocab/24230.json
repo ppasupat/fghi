@@ -9,213 +9,297 @@
 [
 "速度",
 4,
-"sùdù",
-"speed; rate; velocity"
+"sù dù",
+"speed; rate; velocity; (music) tempo; CL:個|个[ge4]"
 ],
 [
 "态度",
 4,
-"tàidu",
-"manner; bearing; attitude"
+"tài du",
+"manner; bearing; attitude; approach; CL:個|个[ge4]"
 ],
 [
 "温度",
 4,
-"wēndù",
-"temperature"
-],
-[
-"程度",
-5,
-"chéngdù",
-"degree; extent; level"
+"wēn dù",
+"temperature; CL:個|个[ge4]"
 ],
 [
 "度过",
 5,
-"dùguò",
-"spend; to pass"
+"dù guò",
+"to pass; to spend (time); to survive; to get through"
 ],
 [
 "角度",
 5,
-"jiǎodù",
+"jiǎo dù",
 "angle; point of view"
+],
+[
+"程度",
+5,
+"chéng dù",
+"degree (level or extent); level; CL:個|个[ge4]"
 ],
 [
 "制度",
 5,
-"zhìdù",
-"system; institution"
-],
-[
-"风度",
-6,
-"fēngdù",
-"elegant demeanor; grace; poise; style"
-],
-[
-"幅度",
-6,
-"fúdù",
-"width; margin; extent"
+"zhì dù",
+"system (e.g. political, adminstrative etc); institution; CL:個|个[ge4]"
 ],
 [
 "过度",
 6,
-"guòdù",
-"excessive; exceeding; lavishly"
-],
-[
-"季度",
-6,
-"jìdù",
-"(financial) quarter; period of three months"
-],
-[
-"密度",
-6,
-"mìdù",
-"density; thickness; consistency"
+"guò dù",
+"excessive; over-; excess; going too far; extravagant; intemperate; overdue"
 ],
 [
 "年度",
 6,
-"niándù",
-"year (e.g. school year, fiscal year, etc.); annual"
+"nián dù",
+"year (e.g. school year, fiscal year); annual"
 ],
 [
-"摄氏度",
+"季度",
 6,
-"shèshìdù",
-"degrees Celsius"
+"jì dù",
+"quarter of a year; season (sports)"
+],
+[
+"风度",
+6,
+"fēng dù",
+"elegance (for men); elegant demeanor; grace; poise"
+],
+[
+"密度",
+6,
+"mì dù",
+"density; thickness"
 ],
 [
 "一度",
 6,
-"yídù",
+"yī dù",
 "for a time; at one time; one time; once"
+],
+[
+"幅度",
+6,
+"fú dù",
+"width; extent; range; scope"
+],
+[
+"摄氏度",
+6,
+"Shè shì dù",
+"°C (degrees Celsius)"
 ]
 ],
 "extraWords": [
 [
 "高度",
 99.69,
-"gao1 du4",
+"gāo dù",
 "height; altitude; elevation; high degree; highly; CL:個|个[ge4]"
 ],
 [
 "印度",
 69.63,
-"Yin4 du4",
+"Yìn dù",
 "India"
 ],
 [
 "力度",
 68.43,
-"li4 du4",
+"lì dù",
 "strength; vigor; efforts; (music) dynamics"
+],
+[
+"难度",
+36.49,
+"nán dù",
+"degree of difficulty"
 ],
 [
 "再度",
 34.55,
-"zai4 du4",
+"zài dù",
 "once more; once again; one more time"
+],
+[
+"浓度",
+33.85,
+"nóng dù",
+"concentration (percentage of dissolved material in a solution); consistency; thickness; density; viscosity"
+],
+[
+"强度",
+29.98,
+"qiáng dù",
+"strength; intensity; CL:個|个[ge4]"
 ],
 [
 "深度",
 23.75,
-"shen1 du4",
+"shēn dù",
 "depth; (of a speech etc) profundity; advanced stage of development"
 ],
 [
 "度假",
 21.22,
-"du4 jia4",
+"dù jià",
 "to go on holidays; to spend one's vacation"
 ],
 [
 "大幅度",
 19.24,
-"da4 fu2 du4",
+"dà fú dù",
 "by a wide margin; substantial"
+],
+[
+"长度",
+16.64,
+"cháng dù",
+"length"
+],
+[
+"进度",
+14.89,
+"jìn dù",
+"pace; tempo; degree of progress (on project); work schedule"
+],
+[
+"极度",
+13.53,
+"jí dù",
+"extremely"
+],
+[
+"额度",
+13.3,
+"é dù",
+"quota; (credit) limit"
 ],
 [
 "厚度",
 12.77,
-"hou4 du4",
+"hòu dù",
 "thickness"
 ],
 [
 "知名度",
 11.8,
-"zhi1 ming2 du4",
+"zhī míng dù",
 "reputation; profile; familiarity in the public consciousness"
+],
+[
+"适度",
+11.67,
+"shì dù",
+"moderately; appropriate"
 ],
 [
 "第一季度",
 10.33,
-"di4 yi1 ji4 du4",
+"dì yī jì dù",
 "first quarter (of financial year)"
+],
+[
+"轻度",
+10.01,
+"qīng dù",
+"mild (symptoms etc)"
+],
+[
+"印度尼西亚",
+9.53,
+"Yìn dù ní xī yà",
+"Indonesia"
 ],
 [
 "精度",
 8.98,
-"jing1 du4",
+"jīng dù",
 "precision"
+],
+[
+"调度",
+8.62,
+"diào dù",
+"to dispatch (vehicles, staff etc); to schedule; to manage; dispatcher; scheduler"
 ],
 [
 "亮度",
 8.57,
-"liang4 du4",
+"liàng dù",
 "brightness"
 ],
 [
 "尺度",
 8.48,
-"chi3 du4",
+"chǐ dù",
 "scale; yardstick"
 ],
 [
 "第三季度",
 7.83,
-"di4 san1 ji4 du4",
+"dì sān jì dù",
 "third quarter (of financial year)"
+],
+[
+"宽度",
+6.89,
+"kuān dù",
+"width"
+],
+[
+"湿度",
+6.73,
+"shī dù",
+"humidity level"
 ],
 [
 "透明度",
 6.59,
-"tou4 ming2 du4",
+"tòu míng dù",
 "transparency; (policy of) openness"
 ],
 [
 "重度",
 6.45,
-"zhong4 du4",
+"zhòng dù",
 "serious; severe"
 ],
 [
 "本年度",
 6.34,
-"ben3 nian2 du4",
+"běn nián dù",
 "this year; the current year"
 ],
 [
 "限度",
 6.03,
-"xian4 du4",
+"xiàn dù",
 "limitation; limit"
 ],
 [
 "第二季度",
 5.86,
-"di4 er4 ji4 du4",
+"dì èr jì dù",
 "second quarter (of financial year)"
+],
+[
+"国度",
+5.73,
+"guó dù",
+"country; nation"
 ],
 [
 "首度",
 5.39,
-"shou3 du4",
+"shǒu dù",
 "first time"
 ]
 ],

@@ -9,11 +9,36 @@
 [
 "打篮球",
 2,
-"dǎ lánqiú",
-"play basketball"
+"da3 lan2 qiu2",
+"to play basketball"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"篮球",
+28.23,
+"lán qiú",
+"basketball; CL:個|个[ge4],隻|只[zhi1]"
+],
+[
+"篮板",
+18.78,
+"lán bǎn",
+"backboard"
+],
+[
+"男篮",
+13.88,
+"nán lán",
+"men's basketball; men's basketball team"
+],
+[
+"投篮",
+8.38,
+"tóu lán",
+"to shoot for the basket (basketball)"
+]
+],
 "strokes": [
 "M 340 712 Q 355 737 369 757 Q 376 769 364 780 Q 331 807 306 804 Q 296 803 298 789 Q 311 714 234 618 Q 221 609 197 574 Q 190 561 203 566 Q 216 567 236 584 Q 297 632 329 692 L 340 712 Z",
 "M 329 692 L 330 692 Q 366 673 414 685 Q 457 694 504 704 Q 523 708 527 712 Q 534 719 531 726 Q 524 736 499 742 Q 475 746 402 722 Q 372 716 340 712 C 310 708 301 703 329 692 Z",

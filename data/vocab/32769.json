@@ -9,243 +9,357 @@
 [
 "老师",
 1,
-"lǎoshī",
-"teacher"
+"lǎo shī",
+"teacher; CL:個|个[ge4],位[wei4]"
 ],
 [
 "老",
 3,
 "lǎo",
-"old; aged; tough; often (Kangxi radical 125)"
+"prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; old (of people); venerable (person); experienced; of long standing; always; all the time; of the past; very; outdated; (of meat etc) tough"
 ],
 [
 "老虎",
 4,
-"lǎohǔ",
-"tiger"
-],
-[
-"老百姓",
-5,
-"lǎobǎixìng",
-"ordinary people; the person on the street; civilians"
+"lǎo hǔ",
+"tiger; CL:隻|只[zhi1]"
 ],
 [
 "老板",
 5,
-"lǎobǎn",
-"boss; proprietor; shopkeeper"
+"lǎo bǎn",
+"variant of 老闆|老板[lao3 ban3]"
+],
+[
+"老板",
+5,
+"Lǎo bǎn",
+"Robam (brand)"
+],
+[
+"老板",
+5,
+"lǎo bǎn",
+"boss; business proprietor; CL:個|个[ge4]"
 ],
 [
 "老婆",
 5,
-"lǎopó",
-"(informal) wife"
+"lǎo pó",
+"(coll.) wife"
 ],
 [
 "老实",
 5,
-"lǎoshi",
-"honest; sincere; naive; simpleminded"
+"lǎo shi",
+"honest; sincere; well-behaved; open and guileless; naive"
 ],
 [
 "老鼠",
 5,
-"lǎoshǔ",
-"rat; mouse"
+"lǎo shǔ",
+"rat; mouse; CL:隻|只[zhi1]"
+],
+[
+"老百姓",
+5,
+"lǎo bǎi xìng",
+"ordinary people; the \"person in the street\"; CL:個|个[ge4]"
 ],
 [
 "衰老",
 6,
-"shuāilǎo",
-"grow old; age; deteriorate"
+"shuāi lǎo",
+"to age; to deteriorate with age; old and weak"
 ]
 ],
 "extraWords": [
 [
 "老兄",
 133.16,
-"lao3 xiong1",
+"lǎo xiōng",
 "elder brother (often used self-referentially); (form of address between male friends) old chap; buddy"
 ],
 [
 "老人",
 95.6,
-"lao3 ren2",
+"lǎo rén",
 "old man or woman; the elderly; one's aged parents or grandparents"
 ],
 [
 "老天",
 61.5,
-"lao3 tian1",
+"lǎo tiān",
 "God; Heavens"
 ],
 [
 "老公",
 55.52,
-"lao3 gong1",
+"lǎo gōng",
 "(coll.) husband"
 ],
 [
 "老公",
 55.52,
-"lao3 gong5",
+"lǎo gong",
 "(coll.) eunuch; see also 老公[lao3 gong1]"
 ],
 [
 "老大",
 36.0,
-"lao3 da4",
+"lǎo dà",
 "old age; very; eldest child in a family; leader of a group; boss; captain of a boat; leader of a criminal gang"
 ],
 [
 "老子",
 31.22,
-"Lao3 zi3",
+"Lǎo zǐ",
 "Laozi or Lao-tze (c. 500 BC), Chinese philosopher, the founder of Taoism; the sacred book of Daoism, 道德經|道德经[Dao4 de2 jing1] by Laozi"
 ],
 [
 "老子",
 31.22,
-"lao3 zi5",
+"lǎo zi",
 "father; daddy; \"I, your father\" (in anger, or out of contempt); I (used arrogantly or jocularly)"
+],
+[
+"圣诞老人",
+28.41,
+"Shèng dàn Lǎo rén",
+"Father Christmas; Santa Claus"
 ],
 [
 "老朋友",
 26.17,
-"lao3 peng2 you5",
+"lǎo péng you",
 "old friend; (slang) period; menstruation"
+],
+[
+"养老",
+20.39,
+"yǎng lǎo",
+"to provide for the elderly (family members); to enjoy a life in retirement"
 ],
 [
 "老年",
 19.83,
-"lao3 nian2",
+"lǎo nián",
 "elderly; old age; autumn of one's years"
+],
+[
+"老头",
+19.05,
+"lǎo tóu",
+"old fellow; old man; father; husband"
 ],
 [
 "老年人",
 18.03,
-"lao3 nian2 ren2",
+"lǎo nián rén",
 "old people; the elderly"
 ],
 [
 "古老",
 17.83,
-"gu3 lao3",
+"gǔ lǎo",
 "ancient; old; age-old"
 ],
 [
 "老爹",
 17.2,
-"lao3 die1",
+"lǎo diē",
 "(dialect) father; old man; sir"
 ],
 [
 "老弟",
 16.31,
-"lao3 di4",
+"lǎo dì",
 "(affectionate form of address for a male who is not very much younger than oneself) my boy; old pal"
 ],
 [
 "老是",
 15.3,
-"lao3 shi5",
+"lǎo shi",
 "always"
 ],
 [
 "老家",
 15.14,
-"lao3 jia1",
+"lǎo jiā",
 "native place; place of origin; home state or region"
+],
+[
+"老天爷",
+14.99,
+"lǎo tiān yé",
+"God; Heavens"
+],
+[
+"百老汇",
+13.71,
+"Bǎi lǎo huì",
+"Broadway (New York City)"
 ],
 [
 "老人家",
 13.49,
-"lao3 ren2 jia1",
+"lǎo rén jiā",
 "polite term for old woman or man"
 ],
 [
 "老家伙",
 12.73,
-"lao3 jia1 huo5",
+"lǎo jiā huo",
+"variant of 老家伙[lao3 jia1 huo5]"
+],
+[
+"老家伙",
+12.73,
+"lǎo jiā huo",
 "(coll.) old fellow; old codger"
+],
+[
+"老总",
+12.51,
+"lǎo zǒng",
+"boss; sir (person with a leading role in an organization); (after a surname) high ranking commander in the PLA; (Qing dynasty) high ranking government official; (old) courteous term used by the general populace in addressing a rank-and-file soldier or police officer"
+],
+[
+"老将",
+11.83,
+"lǎo jiàng",
+"lit. old general; commander-in-chief 將帥|将帅, the equivalent of king in Chinese chess; fig. old-timer; veteran"
 ],
 [
 "老太太",
 10.48,
-"lao3 tai4 tai5",
+"lǎo tài tai",
 "elderly lady (respectful); esteemed mother; CL:位[wei4]"
+],
+[
+"老挝",
+9.65,
+"Lǎo wō",
+"Laos"
+],
+[
+"老远",
+9.6,
+"lǎo yuǎn",
+"very far away"
 ],
 [
 "老者",
 9.57,
-"lao3 zhe3",
+"lǎo zhě",
 "old man; elderly man"
 ],
 [
 "老夫",
 9.56,
-"lao3 fu1",
+"lǎo fū",
 "I (spoken by an old man)"
 ],
 [
 "老二",
 9.27,
-"lao3 er4",
+"lǎo èr",
 "second-eldest child in a family; (euphemism) penis"
 ],
 [
 "老娘",
 9.25,
-"lao3 niang2",
+"lǎo niáng",
 "my old mother; I, this old woman; my old lady (colloquial); maternal grandmother; midwife"
 ],
 [
 "老化",
 8.93,
-"lao3 hua4",
+"lǎo huà",
 "to age (of person or object); becoming old"
+],
+[
+"老乡",
+8.53,
+"lǎo xiāng",
+"fellow townsman; fellow villager; sb from the same hometown"
 ],
 [
 "老外",
 8.45,
-"lao3 wai4",
+"lǎo wài",
 "(coll.) foreigner (esp. non Asian person); layman; amateur"
+],
+[
+"老爷",
+8.11,
+"lǎo ye",
+"(respectful) lord; master; (coll.) maternal grandfather"
+],
+[
+"老鹰",
+7.48,
+"lǎo yīng",
+"(coll.) eagle; hawk; any similar bird of prey"
+],
+[
+"养老金",
+7.34,
+"yǎng lǎo jīn",
+"pension"
+],
+[
+"长老",
+7.33,
+"zhǎng lǎo",
+"elder; term of respect for a Buddhist monk"
+],
+[
+"老头子",
+7.24,
+"lǎo tóu zi",
+"(coll.) old man; (said of an aging husband) my old man"
 ],
 [
 "年老",
 6.87,
-"nian2 lao3",
+"nián lǎo",
 "aged"
 ],
 [
 "老伴",
 6.81,
-"lao3 ban4",
+"lǎo bàn",
 "(of an elderly couple) husband or wife"
 ],
 [
 "老式",
 6.74,
-"lao3 shi4",
+"lǎo shì",
 "old-fashioned; old type; outdated"
 ],
 [
 "老友",
 5.9,
-"lao3 you3",
+"lǎo yǒu",
 "old friend; sb who passed the county level imperial exam (in Ming dynasty)"
+],
+[
+"老爷子",
+5.64,
+"lǎo yé zi",
+"my (you etc) old father; polite appellation for an elderly male"
 ],
 [
 "中老年",
 5.23,
-"zhong1 lao3 nian2",
+"zhōng lǎo nián",
 "middle and old age"
 ],
 [
 "老兵",
 5.16,
-"lao3 bing1",
+"lǎo bīng",
 "veteran"
 ]
 ],

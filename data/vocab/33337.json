@@ -10,32 +10,68 @@
 "船",
 3,
 "chuán",
-"a boat; vessel; ship"
+"variant of 船[chuan2]"
 ],
 [
-"船舶",
-6,
-"chuánbó",
-"ships; boats; watercraft"
+"船",
+3,
+"chuán",
+"boat; vessel; ship; CL:條|条[tiao2],艘[sou1],隻|只[zhi1]"
 ],
 [
 "轮船",
 6,
-"lúnchuán",
-"steamship"
+"lún chuán",
+"steamship; steamer; ocean liner; ship; CL:艘[sou1]"
+],
+[
+"船舶",
+6,
+"chuán bó",
+"shipping; boats"
 ]
 ],
 "extraWords": [
 [
+"船长",
+41.61,
+"chuán zhǎng",
+"captain (of a boat); skipper"
+],
+[
+"飞船",
+22.39,
+"fēi chuán",
+"airship; spaceship"
+],
+[
 "船票",
 13.27,
-"chuan2 piao4",
+"chuán piào",
 "ship ticket"
+],
+[
+"船员",
+10.55,
+"chuán yuán",
+"sailor; crew member"
+],
+[
+"船只",
+8.5,
+"chuán zhī",
+"ship; boat; vessel"
+],
+[
+"渔船",
+8.25,
+"yú chuán",
+"fishing boat; CL:條|条[tiao2]"
 ],
 [
 "太空船",
 5.48,
-"tai4 kong1 chuan2",
+"tài kōng chuán",
 "spaceship"
 ]
 ],

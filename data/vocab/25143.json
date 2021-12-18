@@ -9,35 +9,102 @@
 [
 "窗户",
 4,
-"chuānghu",
-"window"
+"chuāng hu",
+"window; CL:個|个[ge4],扇[shan4]"
 ],
 [
 "账户",
 5,
-"zhànghù",
-"bank account"
+"zhàng hù",
+"bank account; online account"
+],
+[
+"客户",
+6,
+"kè hù",
+"client; customer"
+],
+[
+"用户",
+6,
+"yòng hù",
+"user; consumer; subscriber; customer"
 ],
 [
 "家喻户晓",
 6,
 "jiā yù hù xiǎo",
-"become a household name; well-known"
-],
-[
-"客户",
-6,
-"kèhù",
-"customer; account; client"
-],
-[
-"用户",
-6,
-"yònghù",
-"user; consumer; subscriber; customer"
+"understood by everyone (idiom); well known; a household name"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"农户",
+17.61,
+"nóng hù",
+"farmer; farmer household"
+],
+[
+"户口",
+15.47,
+"hù kǒu",
+"population (counted as number of households for census or taxation); registered residence; residence permit; (in Hong Kong and Macau) bank account"
+],
+[
+"户外",
+13.17,
+"hù wài",
+"outdoor"
+],
+[
+"门户",
+11.52,
+"mén hù",
+"door; strategic gateway; portal; faction; sect; family status; family; web portal; (old) brothel"
+],
+[
+"住户",
+10.9,
+"zhù hù",
+"household; inhabitant; householder"
+],
+[
+"大户",
+9.66,
+"dà hù",
+"great family; rich family; large landlord; conspicuous spender or consumer"
+],
+[
+"落户",
+8.97,
+"luò hù",
+"to settle; to set up home"
+],
+[
+"户籍",
+8.9,
+"hù jí",
+"census register; household register"
+],
+[
+"开户",
+8.55,
+"kāi hù",
+"to open an account (bank etc)"
+],
+[
+"商户",
+7.36,
+"shāng hù",
+"merchant; trader; businessman; firm"
+],
+[
+"过户",
+5.59,
+"guò hù",
+"to transfer ownership (of a vehicle, securities etc); (real estate) conveyancing"
+]
+],
 "strokes": [
 "M 496 784 Q 529 760 563 730 Q 579 717 599 718 Q 612 719 616 736 Q 620 755 607 789 Q 592 825 486 840 Q 467 844 460 840 Q 454 834 457 819 Q 463 806 496 784 Z",
 "M 713 451 Q 750 547 786 568 Q 808 590 790 612 Q 700 682 639 652 Q 543 613 382 583 C 353 577 359 542 389 547 Q 404 548 419 554 Q 528 579 633 604 Q 661 611 672 601 Q 682 591 678 568 Q 663 505 645 455 C 635 427 702 423 713 451 Z",

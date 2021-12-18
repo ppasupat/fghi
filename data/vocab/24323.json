@@ -9,23 +9,48 @@
 [
 "放弃",
 4,
-"fàngqì",
-"abandon; renounce; give up"
+"fàng qì",
+"to renounce; to abandon; to give up"
 ],
 [
 "抛弃",
 6,
-"pāoqì",
-"discard; abandon; dump (sb)"
+"pāo qì",
+"to abandon; to discard; to renounce; to dump (sb)"
 ],
 [
 "唾弃",
 6,
-"tuòqì",
-"cast aside; spurn"
+"tuò qì",
+"to spurn; to disdain"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"弃权",
+10.09,
+"qì quán",
+"to abstain from voting; to forfeit; to waive one's right to vote; to abdicate"
+],
+[
+"嫌弃",
+7.94,
+"xián qì",
+"to regard with disdain; to shun"
+],
+[
+"遗弃",
+7.87,
+"yí qì",
+"to leave; to abandon"
+],
+[
+"废弃",
+6.5,
+"fèi qì",
+"to discard; to abandon (old ways); to invalidate"
+]
+],
 "strokes": [
 "M 456 797 Q 490 776 526 751 Q 542 741 559 743 Q 569 746 573 760 Q 574 776 561 806 Q 543 837 442 846 Q 426 847 419 843 Q 415 839 419 825 Q 425 815 456 797 Z",
 "M 499 653 Q 596 671 766 687 Q 778 686 788 699 Q 789 712 765 724 Q 726 749 651 726 Q 453 687 315 673 Q 287 672 258 667 Q 227 664 250 645 Q 286 614 316 622 Q 376 634 447 645 L 499 653 Z",

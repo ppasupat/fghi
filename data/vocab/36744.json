@@ -9,17 +9,42 @@
 [
 "一辈子",
 5,
-"yíbèizi",
-"(for) a lifetime; all one's life"
+"yī bèi zi",
+"(for) a lifetime"
 ],
 [
 "长辈",
 5,
-"zhǎngbèi",
-"an elder; an elder generation"
+"zhǎng bèi",
+"one's elders; older generation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"辈子",
+30.52,
+"bèi zi",
+"all one's life; lifetime"
+],
+[
+"前辈",
+12.32,
+"qián bèi",
+"senior; older generation; precursor"
+],
+[
+"半辈子",
+6.32,
+"bàn bèi zi",
+"half of a lifetime"
+],
+[
+"下辈子",
+5.52,
+"xià bèi zi",
+"the next life"
+]
+],
 "strokes": [
 "M 391 555 Q 394 533 405 517 Q 417 504 423 515 Q 432 534 431 557 Q 435 678 440 763 Q 444 782 425 791 Q 392 815 366 812 Q 347 806 359 785 Q 371 763 379 737 L 386 710 Q 392 679 392 650 L 392 625 Q 392 601 391 577 L 391 555 Z",
 "M 379 737 Q 358 747 289 727 Q 285 727 282 725 Q 261 721 238 718 Q 208 712 230 700 Q 257 685 322 697 Q 373 709 386 710 C 416 714 407 727 379 737 Z",

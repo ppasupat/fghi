@@ -7,67 +7,158 @@
 },
 "words": [
 [
-"安装",
+"装",
 5,
-"ānzhuāng",
-"install; erect; to fix; to mount"
-],
-[
-"服装",
-5,
-"fúzhuāng",
-"(formal) clothing; costume; dress"
+"zhuāng",
+"adornment; to adorn; dress; clothing; costume (of an actor in a play); to play a role; to pretend; to install; to fix; to wrap (sth in a bag); to load; to pack"
 ],
 [
 "假装",
 5,
-"jiǎzhuāng",
-"pretend to be; feign"
+"jiǎ zhuāng",
+"to feign; to pretend"
 ],
 [
-"装",
+"服装",
 5,
-"zhuāng",
-"to load; dress up; pretend; clothing; to install"
+"fú zhuāng",
+"dress; clothing; costume; clothes; CL:身[shen1]"
 ],
 [
 "装饰",
 5,
-"zhuāngshì",
-"decorate"
+"zhuāng shì",
+"to decorate; decoration; decorative; ornamental"
+],
+[
+"安装",
+5,
+"ān zhuāng",
+"to install; to erect; to fix; to mount; installation"
 ],
 [
 "装修",
 5,
-"zhuāngxiū",
-"renovate; to fit up"
-],
-[
-"包装",
-6,
-"bāozhuāng",
-"to pack; package; make up"
-],
-[
-"武装",
-6,
-"wǔzhuāng",
-"arms; equipment; to arm"
+"zhuāng xiū",
+"to decorate; interior decoration; to fit up; to renovate"
 ],
 [
 "装备",
 6,
-"zhuāngbèi",
+"zhuāng bèi",
 "equipment; to equip; to outfit"
+],
+[
+"武装",
+6,
+"wǔ zhuāng",
+"arms; equipment; to arm; military; armed (forces)"
+],
+[
+"包装",
+6,
+"bāo zhuāng",
+"to pack; to package; to wrap; packaging"
 ],
 [
 "装卸",
 6,
-"zhuāngxiè",
-"load and unload; to transfer"
+"zhuāng xiè",
+"to load or unload; to transfer; to assemble and disassemble"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"装置",
+34.25,
+"zhuāng zhì",
+"to install; installation; equipment; system; unit; device"
+],
+[
+"女装",
+17.89,
+"nu:3 zhuāng",
+"women's clothes"
+],
+[
+"伪装",
+17.83,
+"wěi zhuāng",
+"to pretend to be (asleep etc); to disguise oneself as; pretense; disguise; (military) to camouflage; camouflage"
+],
+[
+"时装",
+17.47,
+"shí zhuāng",
+"fashion; fashionable clothes"
+],
+[
+"西装",
+17.17,
+"xī zhuāng",
+"suit; Western-style clothes; CL:套[tao4]"
+],
+[
+"套装",
+15.58,
+"tào zhuāng",
+"outfit or suit (of clothes); set of coordinated items; kit"
+],
+[
+"装作",
+11.27,
+"zhuāng zuò",
+"to pretend; to feign; to act a part"
+],
+[
+"装满",
+10.37,
+"zhuāng mǎn",
+"to fill up"
+],
+[
+"集装箱",
+10.09,
+"jí zhuāng xiāng",
+"container (for shipping)"
+],
+[
+"改装",
+9.67,
+"gǎi zhuāng",
+"to change one's costume; to repackage; to remodel; to refit; to modify; to convert"
+],
+[
+"装扮",
+9.42,
+"zhuāng bàn",
+"to decorate; to adorn; to dress up; to disguise oneself"
+],
+[
+"男装",
+6.98,
+"nán zhuāng",
+"men's clothes"
+],
+[
+"组装",
+5.58,
+"zǔ zhuāng",
+"to assemble and install"
+],
+[
+"装配",
+5.27,
+"zhuāng pèi",
+"to assemble; to fit together"
+],
+[
+"装甲",
+5.19,
+"zhuāng jiǎ",
+"vehicle armor"
+]
+],
 "strokes": [
 "M 249 679 Q 270 660 292 638 Q 305 628 319 628 Q 329 628 333 640 Q 337 653 329 681 Q 323 697 298 708 Q 241 729 224 723 Q 220 719 221 707 Q 224 697 249 679 Z",
 "M 383 593 Q 188 509 156 505 Q 144 502 144 493 Q 144 481 153 475 Q 174 465 204 451 Q 214 450 223 458 Q 253 488 360 553 Q 363 557 382 568 C 408 583 411 605 383 593 Z",

@@ -9,123 +9,141 @@
 [
 "饮料",
 3,
-"yǐnliào",
-"beverage; drink"
+"yǐn liào",
+"drink; beverage"
 ],
 [
 "材料",
 4,
-"cáiliào",
-"material"
+"cái liào",
+"material; data; makings; stuff; CL:個|个[ge4],種|种[zhong3]"
 ],
 [
 "塑料袋",
 4,
-"sùliàodài",
+"sù liào dài",
 "plastic bag"
-],
-[
-"原料",
-5,
-"yuánliào",
-"raw material; ingredients"
 ],
 [
 "资料",
 5,
-"zīliào",
-"data; material; resources; information"
+"zī liào",
+"material; resources; data; information; profile (Internet); CL:份[fen4],個|个[ge4]"
 ],
 [
-"不料",
-6,
-"búliào",
-"unexpectedly; to one's surprise"
-],
-[
-"调料",
-6,
-"tiáoliào",
-"seasoning; flavoring"
-],
-[
-"意料",
-6,
-"yìliào",
-"expectation; to anticipate; to think ahead"
+"原料",
+5,
+"yuán liào",
+"raw material; CL:個|个[ge4]"
 ],
 [
 "预料",
 6,
-"yùliào",
-"anticipate; to forecast; expectation"
+"yù liào",
+"to forecast; to anticipate; expectation"
+],
+[
+"意料",
+6,
+"yì liào",
+"to anticipate; to expect"
+],
+[
+"调料",
+6,
+"tiáo liào",
+"condiment; seasoning; flavoring"
+],
+[
+"不料",
+6,
+"bù liào",
+"unexpectedly; to one's surprise"
 ]
 ],
 "extraWords": [
 [
+"饲料",
+21.99,
+"sì liào",
+"feed; fodder"
+],
+[
 "塑料",
 21.29,
-"su4 liao4",
+"sù liào",
 "plastics; CL:種|种[zhong3]"
 ],
 [
 "原材料",
 16.97,
-"yuan2 cai2 liao4",
+"yuán cái liào",
 "raw materials; unprocessed materials"
 ],
 [
 "燃料",
 16.77,
-"ran2 liao4",
+"rán liào",
 "fuel"
 ],
 [
 "料到",
 9.48,
-"liao4 dao4",
+"liào dào",
 "to foresee; to anticipate"
 ],
 [
 "面料",
 9.16,
-"mian4 liao4",
+"miàn liào",
 "material for making clothes; CL:塊|块[kuai4]"
 ],
 [
 "料理",
 7.9,
-"liao4 li3",
+"liào lǐ",
 "to arrange; to handle; to cook; cuisine; art of cooking"
+],
+[
+"涂料",
+7.83,
+"tú liào",
+"paint"
 ],
 [
 "肥料",
 7.59,
-"fei2 liao4",
+"féi liào",
 "fertilizer; manure"
+],
+[
+"生产资料",
+7.06,
+"shēng chǎn zī liào",
+"means of production"
 ],
 [
 "照料",
 5.75,
-"zhao4 liao4",
+"zhào liào",
 "to tend; to take care of sb"
 ],
 [
 "燃料油",
 5.29,
-"ran2 liao4 you2",
+"rán liào yóu",
 "fuel oil"
 ],
 [
 "史料",
 5.25,
-"shi3 liao4",
+"shǐ liào",
 "historical material or data"
 ],
 [
 "出人意料",
 5.25,
-"chu1 ren2 yi4 liao4",
+"chū rén yì liào",
 "unexpected (idiom); surprising"
 ]
 ],

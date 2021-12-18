@@ -10,22 +10,149 @@
 "排队",
 4,
 "pái duì",
-"queue; stand in line"
+"to line up"
 ],
 [
 "队伍",
 6,
-"duìwu",
-"ranks; troops"
+"duì wǔ",
+"ranks; troops; queue; line; procession; CL:個|个[ge4],支[zhi1],條|条[tiao2]"
 ],
 [
 "军队",
 6,
-"jūnduì",
-"army troops"
+"jūn duì",
+"army; troops; CL:支[zhi1],個|个[ge4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"球队",
+97.31,
+"qiú duì",
+"sports team (basketball, soccer, football etc)"
+],
+[
+"部队",
+81.54,
+"bù duì",
+"army; armed forces; troops; force; unit; CL:個|个[ge4]"
+],
+[
+"队员",
+81.15,
+"duì yuán",
+"team member"
+],
+[
+"乐队",
+63.37,
+"yuè duì",
+"band; pop group; CL:支[zhi1]"
+],
+[
+"队长",
+51.6,
+"duì zhǎng",
+"captain; team leader; CL:個|个[ge4]"
+],
+[
+"大队",
+48.43,
+"dà duì",
+"group; a large body of; production brigade; military group"
+],
+[
+"团队",
+41.05,
+"tuán duì",
+"team"
+],
+[
+"国家队",
+36.69,
+"guó jiā duì",
+"the national team"
+],
+[
+"车队",
+24.31,
+"chē duì",
+"motorcade; fleet; CL:列[lie4]"
+],
+[
+"队友",
+20.84,
+"duì yǒu",
+"member of same class, team, work group etc; teammate"
+],
+[
+"啦啦队",
+16.16,
+"lā lā duì",
+"cheerleading squad"
+],
+[
+"支队",
+15.18,
+"zhī duì",
+"detachment (of troops)"
+],
+[
+"生产队",
+13.99,
+"shēng chǎn duì",
+"production team"
+],
+[
+"舰队",
+12.43,
+"jiàn duì",
+"fleet; CL:支[zhi1]"
+],
+[
+"主队",
+9.05,
+"zhǔ duì",
+"host team (at sports event); host side"
+],
+[
+"领队",
+7.08,
+"lǐng duì",
+"to lead a group; leader of a group; captain (of sports squad)"
+],
+[
+"带队",
+6.29,
+"dài duì",
+"to lead a team; to lead a group; group leader; (tourism) tour guide"
+],
+[
+"连队",
+5.75,
+"lián duì",
+"company (of troops)"
+],
+[
+"组队",
+5.61,
+"zǔ duì",
+"to team up (with); to put a team together"
+],
+[
+"特种部队",
+5.48,
+"tè zhǒng bù duì",
+"(military) special forces"
+],
+[
+"自卫队",
+5.19,
+"zì wèi duì",
+"self-defense force; the Japanese armed forces"
+]
+],
 "strokes": [
 "M 250 649 Q 292 658 334 678 Q 353 688 365 677 Q 371 671 363 654 Q 347 617 335 580 Q 322 555 337 534 Q 398 444 383 423 Q 376 411 351 413 Q 318 417 284 416 Q 259 415 288 402 Q 349 377 404 342 Q 420 330 432 343 Q 447 353 453 380 Q 465 437 396 519 Q 357 558 381 595 Q 424 659 448 675 Q 469 688 458 703 Q 445 722 404 743 Q 382 752 366 739 Q 311 697 241 681 C 212 673 221 642 250 649 Z",
 "M 241 681 Q 232 700 180 716 Q 170 717 162 708 Q 158 701 167 690 Q 228 531 185 227 Q 176 184 162 137 Q 153 107 159 86 Q 169 47 182 33 Q 195 18 206 34 Q 240 73 241 288 Q 241 580 250 649 C 252 670 252 670 241 681 Z",

@@ -9,17 +9,30 @@
 [
 "沮丧",
 6,
-"jǔsàng",
-"dejected; depressed; dispirited"
+"jǔ sàng",
+"dispirited; dejected; dismayed"
 ],
 [
 "丧失",
 6,
-"sàngshī",
+"sàng shī",
 "to lose; to forfeit"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"丧命",
+6.95,
+"sàng mìng",
+"to lose one's life"
+],
+[
+"丧生",
+6.28,
+"sàng shēng",
+"to die; to lose one's life"
+]
+],
 "strokes": [
 "M 535 654 Q 704 690 710 695 Q 720 702 715 712 Q 708 724 678 732 Q 647 739 617 728 Q 577 715 539 704 L 480 690 Q 407 677 327 669 Q 290 665 316 646 Q 358 621 415 633 Q 446 639 482 645 L 535 654 Z",
 "M 521 432 Q 528 547 535 654 L 539 704 Q 539 716 555 782 Q 558 792 538 808 Q 502 827 478 831 Q 462 835 454 826 Q 447 819 455 803 Q 477 770 478 748 Q 479 720 480 690 L 482 645 Q 483 542 479 426 C 478 396 519 402 521 432 Z",

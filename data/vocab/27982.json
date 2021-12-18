@@ -9,17 +9,66 @@
 [
 "经济",
 4,
-"jīngjì",
+"jīng jì",
 "economy; economic"
 ],
 [
 "救济",
 6,
-"jiùjì",
-"emergency relief; aid; help out in a disaster"
+"jiù jì",
+"emergency relief; to help the needy with cash or goods"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"市场经济",
+53.21,
+"shì chǎng jīng jì",
+"market economy"
+],
+[
+"国民经济",
+27.02,
+"guó mín jīng jì",
+"national economy"
+],
+[
+"济南",
+23.15,
+"Jǐ nán",
+"Jinan, subprovincial city and capital of Shandong province in northeast China"
+],
+[
+"经济学",
+16.79,
+"jīng jì xué",
+"economics (as a field of study)"
+],
+[
+"经济学家",
+15.76,
+"jīng jì xué jiā",
+"economist"
+],
+[
+"计划经济",
+8.56,
+"jì huà jīng jì",
+"planned economy"
+],
+[
+"经济体制",
+7.94,
+"jīng jì tǐ zhì",
+"economic system"
+],
+[
+"济南市",
+5.28,
+"Jǐ nán shì",
+"Jinan subprovincial city and capital of Shandong province in northeast China"
+]
+],
 "strokes": [
 "M 255 715 Q 282 693 311 665 Q 327 652 344 653 Q 356 654 361 668 Q 365 684 354 717 Q 342 747 248 767 Q 230 771 224 767 Q 218 763 221 749 Q 225 736 255 715 Z",
 "M 158 507 Q 213 452 253 436 Q 269 433 279 448 Q 285 463 281 480 Q 263 528 169 549 Q 150 553 141 549 Q 134 548 138 534 Q 139 521 158 507 Z",

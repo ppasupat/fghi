@@ -9,41 +9,150 @@
 [
 "称",
 5,
+"chèn",
+"to fit; balanced; suitable"
+],
+[
+"称",
+5,
 "chēng",
-"weigh; to call; be called"
+"to weigh; to state; to name; name; appellation; to praise"
+],
+[
+"称",
+5,
+"chèng",
+"variant of 秤[cheng4]; steelyard"
 ],
 [
 "称呼",
 5,
-"chēnghu",
-"to call; address as; name"
+"chēng hu",
+"to call; to address as; appellation"
 ],
 [
 "称赞",
 5,
-"chēngzàn",
-"to praise; to acclaim"
-],
-[
-"称心如意",
-6,
-"chènxīnrúyì",
-"find sth. satisfactory"
+"chēng zàn",
+"to praise; to acclaim; to commend; to compliment"
 ],
 [
 "称号",
 6,
-"chēnghào",
-"title; term of address"
+"chēng hào",
+"name; term of address; title"
 ],
 [
 "对称",
 6,
-"duìchèn",
-"symmetry"
+"duì chèn",
+"symmetry; symmetrical"
+],
+[
+"称心如意",
+6,
+"chèn xīn rú yì",
+"after one's heart (idiom); gratifying and satisfactory; everything one could wish"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"称为",
+48.32,
+"chēng wéi",
+"called; to call sth (by a name); to name"
+],
+[
+"简称",
+36.36,
+"jiǎn chēng",
+"to be abbreviated to; abbreviation; short form"
+],
+[
+"名称",
+33.79,
+"míng chēng",
+"name (of a thing); name (of an organization)"
+],
+[
+"声称",
+16.87,
+"shēng chēng",
+"to claim; to state; to proclaim; to assert"
+],
+[
+"自称",
+16.59,
+"zì chēng",
+"to call oneself; to claim to be; to profess; to claim a title"
+],
+[
+"称之为",
+13.38,
+"chēng zhī wéi",
+"to call it...; known as..."
+],
+[
+"宣称",
+12.42,
+"xuān chēng",
+"to assert; to claim"
+],
+[
+"堪称",
+11.76,
+"kān chēng",
+"can be rated as; can be said to be"
+],
+[
+"号称",
+10.39,
+"hào chēng",
+"to be known as; to be nicknamed; to be purportedly; to claim (often exaggeratedly or falsely)"
+],
+[
+"据称",
+8.96,
+"jù chēng",
+"it is said; allegedly; according to reports; or so they say"
+],
+[
+"称作",
+8.91,
+"chēng zuò",
+"to be called; to be known as"
+],
+[
+"职称",
+7.24,
+"zhí chēng",
+"one's professional position; title; job title"
+],
+[
+"著称",
+6.16,
+"zhù chēng",
+"to be widely known as"
+],
+[
+"称职",
+6.08,
+"chèn zhí",
+"well qualified; competent; to be equal to the task; able to do sth very well"
+],
+[
+"俗称",
+5.52,
+"sú chēng",
+"commonly referred to as; common term"
+],
+[
+"人称",
+5.26,
+"rén chēng",
+"person (first person, second person etc in grammar); called; known as"
+]
+],
 "strokes": [
 "M 300 645 Q 447 717 454 718 Q 470 721 474 729 Q 477 739 463 750 Q 441 763 396 776 Q 380 782 367 779 Q 360 775 361 764 Q 362 725 160 604 Q 156 594 162 592 Q 180 592 271 633 L 300 645 Z",
 "M 327 477 Q 328 480 420 497 Q 430 496 439 510 Q 439 520 416 530 Q 388 548 330 528 Q 329 528 328 527 L 286 513 Q 276 512 269 508 Q 227 496 98 469 Q 70 463 93 448 Q 129 424 156 433 Q 202 446 263 461 L 327 477 Z",

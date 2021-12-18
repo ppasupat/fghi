@@ -7,49 +7,86 @@
 },
 "words": [
 [
-"齐心协力",
-6,
-"qíxīnxiélì",
-"make concerted efforts"
-],
-[
-"妥协",
-6,
-"tuǒxié",
-"to compromise; reach terms"
-],
-[
-"协会",
-6,
-"xiéhuì",
-"an association; a society"
-],
-[
-"协商",
-6,
-"xiéshāng",
-"consult with; talk things over"
-],
-[
-"协调",
-6,
-"xiétiáo",
-"coordinate; harmonize"
-],
-[
 "协议",
 6,
-"xiéyì",
-"agreement; pact; protocol"
+"xié yì",
+"agreement; pact; protocol; CL:項|项[xiang4]"
 ],
 [
 "协助",
 6,
-"xiézhù",
-"assist; to help"
+"xié zhù",
+"to provide assistance; to aid"
+],
+[
+"协会",
+6,
+"xié huì",
+"an association; a society; CL:個|个[ge4],家[jia1]"
+],
+[
+"妥协",
+6,
+"tuǒ xié",
+"to compromise; to reach terms; a compromise"
+],
+[
+"协调",
+6,
+"xié tiáo",
+"to coordinate; to harmonize; to fit together; to match (colors etc); harmonious; concerted"
+],
+[
+"协商",
+6,
+"xié shāng",
+"to consult with; to talk things over; agreement"
+],
+[
+"齐心协力",
+6,
+"qí xīn xié lì",
+"to work with a common purpose (idiom); to make concerted efforts; to pull together; to work as one"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"政协",
+31.27,
+"Zhèng Xié",
+"CPPCC (Chinese People's Political Consultative Conference); abbr. of 中國人民政治協商會議|中国人民政治协商会议[Zhong1 guo2 Ren2 min2 Zheng4 zhi4 Xie2 shang1 Hui4 yi4]"
+],
+[
+"协作",
+17.57,
+"xié zuò",
+"cooperation; coordination"
+],
+[
+"足协",
+15.24,
+"Zú xié",
+"Chinese Football Association"
+],
+[
+"足协",
+15.24,
+"zú xié",
+"soccer association; soccer federation; abbr. for 足球協會|足球协会[zu2 qiu2 xie2 hui4]"
+],
+[
+"协定",
+12.83,
+"xié dìng",
+"agreement; accord; to reach an agreement"
+],
+[
+"协同",
+10.57,
+"xié tóng",
+"to cooperate; in coordination with; coordinated; collaborate; collaboration; collaborative"
+]
+],
 "strokes": [
 "M 288 481 Q 313 490 344 498 Q 380 510 385 515 Q 394 524 388 532 Q 381 544 350 549 Q 319 552 289 537 L 245 519 Q 172 494 95 479 Q 58 469 86 455 Q 131 437 223 463 Q 232 466 243 468 L 288 481 Z",
 "M 215 117 Q 203 81 228 18 Q 235 0 243 -3 Q 249 -9 256 -1 Q 283 15 283 78 Q 282 121 288 481 L 289 537 Q 289 651 309 726 Q 324 751 294 771 Q 279 783 254 797 Q 232 813 211 799 Q 207 795 213 779 Q 243 734 244 659 Q 244 590 245 519 L 243 468 Q 240 368 239 258 Q 235 185 215 117 Z",

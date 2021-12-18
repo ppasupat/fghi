@@ -10,16 +10,35 @@
 "叹气",
 6,
 "tàn qì",
-"to sigh"
+"to sigh; to heave a sigh"
 ],
 [
 "赞叹",
 6,
-"zàntàn",
-"sigh or grasp in admiration; highly praise"
+"zàn tàn",
+"to exclaim in admiration"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"感叹",
+15.86,
+"gǎn tàn",
+"to sigh (with feeling); to lament"
+],
+[
+"叹息",
+10.81,
+"tàn xī",
+"to sigh; to gasp (in admiration)"
+],
+[
+"惊叹",
+6.4,
+"jīng tàn",
+"to exclaim in admiration; a gasp of surprise"
+]
+],
 "strokes": [
 "M 145 574 L 145 575 Q 133 582 97 589 Q 84 593 81 587 Q 74 581 83 565 Q 114 493 130 378 Q 133 344 152 320 Q 170 298 175 313 Q 182 332 179 365 L 174 400 Q 155 508 151 544 L 145 574 Z",
 "M 316 433 Q 332 527 360 558 Q 382 586 357 599 Q 336 609 308 627 Q 290 637 244 609 Q 207 593 145 574 C 116 565 122 537 151 544 Q 158 545 166 548 Q 209 561 248 572 Q 273 579 280 569 Q 289 562 280 520 Q 273 477 262 427 C 256 398 311 403 316 433 Z",

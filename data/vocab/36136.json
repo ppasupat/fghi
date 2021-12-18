@@ -9,77 +9,186 @@
 [
 "质量",
 4,
-"zhìliàng",
-"quality; mass (physics)"
-],
-[
-"本质",
-5,
-"běnzhì",
-"essence; nature; innate character"
+"zhì liàng",
+"quality; (physics) mass; CL:個|个[ge4]"
 ],
 [
 "物质",
 5,
-"wùzhì",
-"matter; substance; material"
+"wù zhì",
+"matter; substance; material; materialistic; CL:個|个[ge4]"
+],
+[
+"本质",
+5,
+"běn zhì",
+"essence; nature; innate character; intrinsic quality"
 ],
 [
 "性质",
 5,
-"xìngzhì",
-"nature; characteristic; quality"
+"xìng zhì",
+"nature; characteristic; CL:個|个[ge4]"
+],
+[
+"人质",
+6,
+"rén zhì",
+"hostage"
+],
+[
+"气质",
+6,
+"qì zhì",
+"temperament; personality traits; manners"
+],
+[
+"品质",
+6,
+"pǐn zhì",
+"character; intrinsic quality (of a person); quality (of a product or service, or as in \"quality of life\", \"air quality\" etc)"
+],
+[
+"蛋白质",
+6,
+"dàn bái zhì",
+"protein"
+],
+[
+"素质",
+6,
+"sù zhì",
+"inner quality; basic essence"
+],
+[
+"实质",
+6,
+"shí zhì",
+"substance; essence"
 ],
 [
 "变质",
 6,
 "biàn zhì",
-"go bad; deteriorate; metamorphism"
-],
-[
-"蛋白质",
-6,
-"dànbáizhì",
-"protein"
+"to degenerate; to deteriorate; (of food) to go bad; to go off; (geology) metamorphism"
 ],
 [
 "地质",
 6,
-"dìzhì",
+"dì zhì",
 "geology"
-],
-[
-"品质",
-6,
-"pǐnzhì",
-"quality; character"
-],
-[
-"气质",
-6,
-"qìzhì",
-"temperament; disposition"
-],
-[
-"人质",
-6,
-"rénzhì",
-"hostage"
-],
-[
-"实质",
-6,
-"shízhì",
-"substance; essence; gist"
-],
-[
-"素质",
-6,
-"sùzhì",
-"inner quality; basic essence; character quality"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"优质",
+38.03,
+"yōu zhì",
+"excellent quality"
+],
+[
+"质疑",
+28.47,
+"zhì yí",
+"to call into question; to question (truth or validity)"
+],
+[
+"水质",
+12.18,
+"shuǐ zhì",
+"water quality"
+],
+[
+"实质性",
+11.89,
+"shí zhì xìng",
+"substantive; substantial; material; considerable"
+],
+[
+"资质",
+11.25,
+"zī zhì",
+"aptitude; natural endowments"
+],
+[
+"体质",
+10.51,
+"tǐ zhì",
+"constitution"
+],
+[
+"高质量",
+9.4,
+"gāo zhì liàng",
+"high quality"
+],
+[
+"质感",
+8.71,
+"zhì gǎn",
+"realism (in art); sense of reality; texture; tactile quality"
+],
+[
+"皮质",
+8.21,
+"pí zhì",
+"cortex; cerebral cortex"
+],
+[
+"质地",
+8.11,
+"zhì dì",
+"texture; background (texture); grain; quality; character; disposition"
+],
+[
+"介质",
+7.15,
+"jiè zhì",
+"medium; media"
+],
+[
+"特质",
+6.85,
+"tè zhì",
+"characteristic; special quality"
+],
+[
+"质量管理",
+6.83,
+"zhì liàng guǎn lǐ",
+"quality management"
+],
+[
+"本质上",
+5.88,
+"běn zhì shàng",
+"essentially; inherent"
+],
+[
+"实质上",
+5.37,
+"shí zhì shàng",
+"virtually; essentially"
+],
+[
+"劣质",
+5.19,
+"liè zhì",
+"shoddy; of poor quality"
+],
+[
+"神经质",
+5.07,
+"shén jīng zhì",
+"nervous; on edge; excitable; neurotic"
+],
+[
+"质问",
+5.01,
+"zhì wèn",
+"to question; to ask questions; to inquire; to bring to account; to interrogate"
+]
+],
 "strokes": [
 "M 558 720 Q 607 745 677 753 Q 695 753 699 760 Q 703 770 692 784 Q 632 835 599 831 Q 592 827 590 816 Q 584 771 333 678 C 305 668 305 653 334 659 Q 409 674 515 705 L 558 720 Z",
 "M 333 678 Q 315 697 283 711 Q 264 721 250 716 Q 238 709 245 695 Q 261 670 263 610 Q 262 597 262 579 Q 256 414 216 293 Q 182 194 106 71 Q 102 64 100 58 Q 97 48 108 50 Q 141 56 217 181 Q 229 203 242 229 Q 299 362 324 617 Q 328 650 334 659 C 339 673 339 673 333 678 Z",

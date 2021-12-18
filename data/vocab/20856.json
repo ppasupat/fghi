@@ -9,63 +9,75 @@
 [
 "词典",
 3,
-"cídiǎn",
-"dictionary"
-],
-[
-"古典",
-5,
-"gǔdiǎn",
-"classical"
+"cí diǎn",
+"dictionary; also written 辭典|辞典[ci2 dian3]; CL:部[bu4],本[ben3]"
 ],
 [
 "经典",
 5,
-"jīngdiǎn",
-"classics; scriptures"
+"jīng diǎn",
+"the classics; scriptures; classical; classic (example, case etc); typical"
 ],
 [
-"典礼",
-6,
-"diǎnlǐ",
-"celebration; ceremony"
+"古典",
+5,
+"gǔ diǎn",
+"classical"
 ],
 [
 "典型",
 6,
-"diǎnxíng",
-"typical case; model"
+"diǎn xíng",
+"model; typical case; archetype; typical; representative"
+],
+[
+"典礼",
+6,
+"diǎn lǐ",
+"celebration; ceremony"
 ]
 ],
 "extraWords": [
 [
 "瑞典",
 16.36,
-"Rui4 dian3",
+"Ruì diǎn",
 "Sweden"
 ],
 [
 "非典",
 13.05,
-"fei1 dian3",
+"fēi diǎn",
 "atypical pneumonia; Severe Acute Respiratory Syndrome; SARS"
+],
+[
+"庆典",
+8.66,
+"qìng diǎn",
+"celebration"
 ],
 [
 "盛典",
 7.44,
-"sheng4 dian3",
+"shèng diǎn",
 "majestic pomp; grand ceremony"
+],
+[
+"典范",
+6.58,
+"diǎn fàn",
+"model; example; paragon"
 ],
 [
 "典雅",
 6.29,
-"dian3 ya3",
+"diǎn yǎ",
 "refined; elegant"
 ],
 [
 "雅典",
 5.76,
-"Ya3 dian3",
+"Yǎ diǎn",
 "Athens, capital of Greece"
 ]
 ],

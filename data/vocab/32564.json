@@ -9,11 +9,36 @@
 [
 "缴纳",
 6,
-"jiǎonà",
-"to pay (taxes)"
+"jiǎo nà",
+"to pay (taxes etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"缴费",
+8.93,
+"jiǎo fèi",
+"to pay a fee"
+],
+[
+"缴获",
+6.38,
+"jiǎo huò",
+"to capture; to seize"
+],
+[
+"收缴",
+5.53,
+"shōu jiǎo",
+"to recover (illegally obtained property); to seize; to capture; to force sb to hand over sth; to levy"
+],
+[
+"上缴",
+5.49,
+"shàng jiǎo",
+"to transfer (income, profits etc) to higher authorities"
+]
+],
 "strokes": [
 "M 252 484 Q 213 484 180 483 Q 149 482 165 501 Q 228 613 288 697 Q 301 713 299 720 Q 296 733 260 761 Q 244 774 228 770 Q 218 767 223 753 Q 241 714 160 559 Q 144 523 105 488 Q 89 475 90 464 Q 94 446 108 430 Q 118 420 129 428 Q 168 452 237 461 C 267 465 282 484 252 484 Z",
 "M 237 461 Q 171 361 146 346 Q 136 337 138 326 Q 139 314 162 299 Q 172 289 184 300 Q 236 337 313 369 Q 329 373 331 381 Q 332 391 316 387 Q 273 378 220 361 Q 198 351 212 371 Q 239 411 304 492 Q 328 525 348 543 Q 358 552 353 561 Q 343 577 315 592 Q 302 599 293 597 Q 284 594 287 581 Q 288 557 252 484 L 237 461 Z",

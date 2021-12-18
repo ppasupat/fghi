@@ -9,35 +9,66 @@
 [
 "怀疑",
 4,
-"huáiyí",
-"doubt; to suspect; be skeptical"
-],
-[
-"怀念",
-5,
-"huáiniàn",
-"cherish the memory of; think fondly of"
+"huái yí",
+"to doubt (sth); to be skeptical of; to have one's doubts; to harbor suspicions; to suspect that"
 ],
 [
 "怀孕",
 5,
-"huáiyùn",
-"become pregnant; have conceived"
+"huái yùn",
+"pregnant; to have conceived; gestation; pregnancy"
+],
+[
+"怀念",
+5,
+"huái niàn",
+"to cherish the memory of; to think of; to reminisce"
 ],
 [
 "关怀",
 6,
-"guānhuái",
-"care; solicitude; show care for; concerned about; attentive to"
+"guān huái",
+"care; solicitude; to show care for; concerned about; attentive to"
 ],
 [
 "胸怀",
 6,
-"xiōnghuái",
-"think about; heart; one's bosom (the seat of emotions); breast; broad-minded and open"
+"xiōng huái",
+"one's bosom (the seat of emotions); breast; broad-minded and open; to think about; to cherish"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"怀里",
+9.87,
+"huái lǐ",
+"embrace; bosom"
+],
+[
+"怀抱",
+7.97,
+"huái bào",
+"to hug; to cherish; within the bosom (of the family); to embrace (also fig. an ideal, aspiration etc)"
+],
+[
+"情怀",
+7.04,
+"qíng huái",
+"feelings; mood"
+],
+[
+"满怀",
+6.15,
+"mǎn huái",
+"to have one's heart filled with; (to collide) full on; (of farm animals) heavy with young"
+],
+[
+"怀旧",
+5.72,
+"huái jiù",
+"to feel nostalgic; nostalgia"
+]
+],
 "strokes": [
 "M 134 528 Q 116 468 87 414 Q 69 375 91 344 Q 101 326 121 342 Q 169 385 167 471 Q 168 505 159 531 Q 153 538 147 540 Q 138 537 134 528 Z",
 "M 300 563 Q 387 484 397 480 Q 398 480 402 480 Q 412 481 417 493 Q 421 506 414 533 Q 408 560 316 590 Q 306 593 300 591 C 274 587 278 583 300 563 Z",

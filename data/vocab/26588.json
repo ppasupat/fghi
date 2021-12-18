@@ -9,11 +9,48 @@
 [
 "柜台",
 5,
-"guìtái",
-"counter; bar; front desk"
+"guì tái",
+"variant of 櫃檯|柜台[gui4 tai2]"
+],
+[
+"柜台",
+5,
+"guì tái",
+"sales counter; front desk; bar; (of markets, medicines etc) OTC (over-the-counter)"
+],
+[
+"柜台",
+5,
+"guì tái",
+"variant of 櫃檯|柜台[gui4 tai2]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"专柜",
+11.77,
+"zhuān guì",
+"sales counter dedicated to a certain kind of product (e.g. alcohol)"
+],
+[
+"柜子",
+9.81,
+"guì zi",
+"cupboard; cabinet"
+],
+[
+"衣柜",
+7.15,
+"yī guì",
+"wardrobe; armoire; CL:個|个[ge4]"
+],
+[
+"保险柜",
+5.34,
+"bǎo xiǎn guì",
+"a safe; strongbox"
+]
+],
 "strokes": [
 "M 326 514 Q 350 521 378 527 Q 415 537 420 543 Q 429 552 424 560 Q 417 572 386 578 Q 356 582 328 571 L 283 554 Q 205 529 128 518 Q 91 511 119 495 Q 158 474 228 491 Q 246 497 269 500 L 326 514 Z",
 "M 323 431 Q 324 471 326 514 L 328 571 Q 329 670 350 735 Q 359 751 356 764 Q 349 774 294 809 Q 270 827 249 811 Q 245 807 250 791 Q 283 742 283 691 Q 283 627 283 554 L 277 386 Q 268 184 265 160 Q 258 120 246 81 Q 234 42 259 -21 Q 266 -40 274 -43 Q 280 -50 288 -41 Q 295 -37 306 -16 Q 316 9 316 40 Q 315 83 322 399 L 323 431 Z",

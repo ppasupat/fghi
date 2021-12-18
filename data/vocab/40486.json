@@ -9,11 +9,18 @@
 [
 "鸦雀无声",
 6,
-"yāquèwúshēng",
-"not even a crow or sparrow can be heard (idiom); silence reigns"
+"yā què wú shēng",
+"lit. crow and peacock make no sound; absolute silence (idiom); not a single voice can be heard; absolute silence"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"乌鸦",
+5.78,
+"wū yā",
+"crow; raven"
+]
+],
 "strokes": [
 "M 222 694 Q 189 687 214 673 Q 253 654 304 668 Q 361 683 421 698 Q 449 705 452 710 Q 459 717 455 725 Q 448 735 421 741 Q 393 745 367 732 Q 336 720 303 711 Q 266 701 222 694 Z",
 "M 367 446 Q 407 453 456 453 Q 475 452 484 458 Q 490 464 484 474 Q 477 484 442 501 Q 418 511 370 494 L 317 483 Q 257 470 199 448 Q 190 444 189 447 Q 182 451 185 466 Q 195 554 204 580 Q 210 592 199 602 Q 181 621 155 630 Q 143 634 136 627 Q 132 623 140 608 Q 156 584 154 549 Q 153 473 126 435 Q 116 422 121 411 Q 128 395 145 381 Q 155 372 170 384 Q 206 414 286 431 L 367 446 Z",

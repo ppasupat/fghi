@@ -9,17 +9,36 @@
 [
 "流泪",
 5,
-"liúlèi",
-"shed tears"
+"liú lèi",
+"to shed tears"
 ],
 [
 "热泪盈眶",
 6,
 "rè lèi yíng kuàng",
-"(saying) eyes brimming with tears; extremely moved"
+"eyes brimming with tears of excitement (idiom); extremely moved"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"眼泪",
+42.76,
+"yǎn lèi",
+"tears; crying; CL:滴[di1]"
+],
+[
+"泪水",
+15.37,
+"lèi shuǐ",
+"teardrop; tears"
+],
+[
+"泪流满面",
+6.27,
+"lèi liú mǎn miàn",
+"cheeks streaming with tears (idiom)"
+]
+],
 "strokes": [
 "M 248 706 Q 273 681 301 650 Q 316 634 334 634 Q 346 634 352 649 Q 359 665 350 700 Q 346 721 313 738 Q 238 771 220 763 Q 214 759 215 744 Q 219 731 248 706 Z",
 "M 137 505 Q 194 445 228 432 Q 244 429 255 445 Q 261 458 257 478 Q 245 521 152 548 Q 151 549 150 549 Q 131 553 121 549 Q 114 548 118 534 Q 119 521 137 505 Z",

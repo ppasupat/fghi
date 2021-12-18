@@ -9,59 +9,228 @@
 [
 "数学",
 3,
-"shùxué",
-"mathematics"
-],
-[
-"数量",
-4,
-"shùliàng",
-"amount; quantity; number"
+"shù xué",
+"mathematics; mathematical"
 ],
 [
 "数字",
 4,
-"shùzì",
-"number; numeral; figure; digit"
+"shù zì",
+"numeral; digit; number; figure; amount; digital (electronics etc); CL:個|个[ge4]"
+],
+[
+"数量",
+4,
+"shù liàng",
+"amount; quantity; CL:個|个[ge4]; quantitative"
 ],
 [
 "数",
 5,
-"shù, shǔ",
-"number | to count; to rank"
+"shǔ",
+"to count; to count as; to regard as; to enumerate (sb's shortcomings)"
+],
+[
+"数",
+5,
+"shù",
+"number; figure; several; CL:個|个[ge4]"
+],
+[
+"数",
+5,
+"shuò",
+"frequently; repeatedly"
 ],
 [
 "数据",
 5,
-"shùjù",
+"shù jù",
 "data; numbers; digital"
-],
-[
-"数码",
-5,
-"shùmǎ",
-"numeral; number; amount; digital"
 ],
 [
 "无数",
 5,
-"wúshù",
-"countless; innumerable"
+"wú shù",
+"countless; numberless; innumerable"
 ],
 [
-"数额",
-6,
-"shù'é",
-"amount; sum of money; fixed number"
+"数码",
+5,
+"shù mǎ",
+"number; numerals; figures; digital; amount; numerical code"
 ],
 [
 "算数",
 6,
-"suànshù",
-"(do) arithmetic; count"
+"suàn shù",
+"to count numbers; to keep to one's word; to hold (i.e. to remain valid); to count (i.e. to be important)"
+],
+[
+"数额",
+6,
+"shù é",
+"amount; sum of money; fixed number"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"指数",
+93.54,
+"zhǐ shù",
+"(numerical, statistical) index; (math.) exponent; index; exponential (function, growth)"
+],
+[
+"人数",
+68.88,
+"rén shù",
+"number of people"
+],
+[
+"大多数",
+55.6,
+"dà duō shù",
+"(great) majority"
+],
+[
+"多数",
+41.77,
+"duō shù",
+"majority; most"
+],
+[
+"总数",
+32.37,
+"zǒng shù",
+"total; sum; aggregate"
+],
+[
+"少数",
+31.54,
+"shǎo shù",
+"small number; few; minority"
+],
+[
+"参数",
+22.88,
+"cān shù",
+"parameter"
+],
+[
+"少数民族",
+21.8,
+"shǎo shù mín zú",
+"national minority; ethnic group"
+],
+[
+"绝大多数",
+21.65,
+"jué dà duō shù",
+"absolute majority; overwhelming majority"
+],
+[
+"次数",
+18.65,
+"cì shù",
+"number of times; frequency; order number (in a series); power (math.); degree of a polynomial (math.)"
+],
+[
+"系数",
+18.62,
+"xì shù",
+"coefficient; factor; modulus; ratio"
+],
+[
+"数百",
+15.01,
+"shù bǎi",
+"several hundred"
+],
+[
+"数据库",
+14.99,
+"shù jù kù",
+"database"
+],
+[
+"分数",
+14.71,
+"fēn shù",
+"(exam) grade; mark; score; fraction"
+],
+[
+"倒数",
+14.1,
+"dào shǔ",
+"to count backwards (from 10 down to 0); to count down; from the bottom (lines on a page); from the back (rows of seats)"
+],
+[
+"倒数",
+14.1,
+"dào shù",
+"inverse number; reciprocal (math.)"
+],
+[
+"数目",
+11.91,
+"shù mù",
+"amount; number"
+],
+[
+"函数",
+9.74,
+"hán shù",
+"function (math.)"
+],
+[
+"数值",
+7.26,
+"shù zhí",
+"numerical value"
+],
+[
+"为数",
+6.87,
+"wéi shù",
+"in numerical terms (typically followed by 不少[bu4 shao3] or 不多[bu4 duo1] or a number)"
+],
+[
+"数字化",
+6.84,
+"shù zì huà",
+"to digitalize; digital"
+],
+[
+"基数",
+6.82,
+"jī shù",
+"cardinal number; (math.) radix; base"
+],
+[
+"半数",
+6.38,
+"bàn shù",
+"half the number; half"
+],
+[
+"数万",
+6.17,
+"shù wàn",
+"several tens of thousands; many thousand"
+],
+[
+"计数",
+5.78,
+"jì shù",
+"to count; reckoning"
+],
+[
+"分数线",
+5.24,
+"fēn shù xiàn",
+"horizontal line (in a fraction); minimum passing score"
+]
+],
 "strokes": [
 "M 240 666 Q 262 645 284 621 Q 294 611 308 610 Q 317 610 321 621 Q 325 633 319 657 Q 315 673 291 687 Q 233 711 220 707 Q 216 703 216 693 Q 219 683 240 666 Z",
 "M 488 730 Q 472 703 439 663 Q 435 657 439 651 Q 445 650 451 654 Q 515 697 547 713 Q 562 717 558 726 Q 554 739 538 753 Q 523 768 505 770 Q 493 769 494 754 Q 495 744 488 730 Z",

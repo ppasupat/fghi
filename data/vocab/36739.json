@@ -9,23 +9,54 @@
 [
 "比较",
 3,
-"bǐjiào",
-"compare; contrast; relatively"
-],
-[
-"计较",
-6,
-"jìjiào",
-"focus excessively on; haggle; bicker; argue"
+"bǐ jiào",
+"to compare; to contrast; comparatively; relatively; quite; comparison"
 ],
 [
 "较量",
 6,
-"jiàoliàng",
-"competition; to have a contest with sb."
+"jiào liàng",
+"to pit oneself against sb; to compete with sb; contest; battle; to haggle; to quibble"
+],
+[
+"计较",
+6,
+"jì jiào",
+"to bother about; to haggle; to bicker; to argue; plan; stratagem"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"较大",
+91.78,
+"jiào dà",
+"comparatively large"
+],
+[
+"较为",
+46.16,
+"jiào wéi",
+"comparatively; relatively; fairly"
+],
+[
+"较好",
+40.26,
+"jiào hǎo",
+"better"
+],
+[
+"较差",
+10.44,
+"jiào chā",
+"range (the difference between the lowest and highest values)"
+],
+[
+"较差",
+10.44,
+"jiào chà",
+"mediocre; rather poor; not specially good"
+]
+],
 "strokes": [
 "M 295 608 Q 460 650 464 653 Q 471 660 467 669 Q 460 679 432 686 Q 402 690 316 659 L 266 645 Q 217 635 164 628 Q 130 621 155 606 Q 194 582 251 598 L 295 608 Z",
 "M 357 392 Q 394 402 432 404 Q 460 407 452 420 Q 442 433 426 440 Q 414 443 359 427 L 316 417 Q 279 410 236 400 Q 221 397 219 400 Q 218 401 220 413 Q 251 501 295 608 L 316 659 Q 362 752 367 757 Q 380 769 363 788 Q 338 813 317 826 Q 304 833 294 830 Q 285 826 292 805 Q 302 771 266 645 L 251 598 Q 224 490 155 400 Q 128 372 161 337 Q 170 328 180 333 Q 217 355 307 380 Q 310 381 315 382 L 357 392 Z",

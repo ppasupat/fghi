@@ -2,7 +2,7 @@
 "char": "芯",
 "level": 7,
 "info": {
-"gloss": "pith from rush (juncus effusus)",
+"gloss": "pith from rush (Juncus effusus)",
 "pron": "xīn, xìn"
 },
 "words": [],
@@ -10,8 +10,14 @@
 [
 "芯片",
 26.33,
-"xin1 pian4",
+"xīn piàn",
 "computer chip; microchip"
+],
+[
+"芯片组",
+6.74,
+"xīn piàn zǔ",
+"chipset"
 ]
 ],
 "strokes": [

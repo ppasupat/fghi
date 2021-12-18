@@ -9,165 +9,189 @@
 [
 "精彩",
 4,
-"jīngcǎi",
-"brilliant; spectacular; wonderful"
-],
-[
-"精力",
-5,
-"jīnglì",
-"energy; vigor"
+"jīng cǎi",
+"wonderful; marvelous; brilliant"
 ],
 [
 "精神",
 5,
-"jīngshen",
-"vigor; spirit; mind"
+"jīng shén",
+"spirit; mind; consciousness; thought; mental; psychological; essence; gist; CL:個|个[ge4]"
 ],
 [
-"博大精深",
-6,
-"bódàjīngshēn",
-"broad and profound"
+"精神",
+5,
+"jīng shen",
+"vigor; vitality; drive; spiritual"
 ],
 [
-"精打细算",
-6,
-"jīng dǎ xì suàn",
-"(saying) meticulous planning and careful accounting"
-],
-[
-"精华",
-6,
-"jīnghuá",
-"elite; best feature; most important part of an object; essence; quintessence"
-],
-[
-"精简",
-6,
-"jīngjiǎn",
-"simplify; reduce"
-],
-[
-"精密",
-6,
-"jīngmì",
-"accuracy; exact; precise; refined"
-],
-[
-"精确",
-6,
-"jīngquè",
-"accurate; precise"
-],
-[
-"精通",
-6,
-"jīngtōng",
-"proficient; have a good command of"
-],
-[
-"精心",
-6,
-"jīngxīn",
-"with utmost care; meticulous; detailed"
-],
-[
-"精益求精",
-6,
-"jīng yì qiú jīng",
-"(saying) improving and wanting to improve even more"
-],
-[
-"精致",
-6,
-"jīngzhì",
-"exquisite; delicate; refined"
+"精力",
+5,
+"jīng lì",
+"energy"
 ],
 [
 "酒精",
 6,
-"jiǔjīng",
-"alcohol; ethanol"
+"jiǔ jīng",
+"alcohol; ethanol CH3CH2OH; ethyl alcohol; also written 乙醇; grain alcohol"
+],
+[
+"精确",
+6,
+"jīng què",
+"accurate; precise"
+],
+[
+"精心",
+6,
+"jīng xīn",
+"with utmost care; fine; meticulous; detailed"
+],
+[
+"精致",
+6,
+"jīng zhì",
+"delicate; fine; exquisite; refined"
+],
+[
+"精通",
+6,
+"jīng tōng",
+"to be proficient in; to master (a subject)"
+],
+[
+"精华",
+6,
+"jīng huá",
+"best feature; most important part of an object; quintessence; essence; soul"
+],
+[
+"精密",
+6,
+"jīng mì",
+"accuracy; exact; precise; refined"
+],
+[
+"无精打采",
+6,
+"wú jīng dǎ cǎi",
+"dispirited and downcast (idiom); listless; in low spirits; washed out"
+],
+[
+"精简",
+6,
+"jīng jiǎn",
+"to simplify; to reduce"
 ],
 [
 "聚精会神",
 6,
 "jù jīng huì shén",
-"concentrate one's attention"
+"to concentrate one's attention (idiom)"
 ],
 [
-"无精打采",
+"精打细算",
 6,
-"wújīngdǎcǎi",
-"listless; be dispirited; in low spirits"
+"jīng dǎ xì suàn",
+"meticulous planning and careful accounting (idiom)"
+],
+[
+"精益求精",
+6,
+"jīng yì qiú jīng",
+"to perfect sth that is already outstanding (idiom); constantly improving"
+],
+[
+"博大精深",
+6,
+"bó dà jīng shēn",
+"wide-ranging and profound; broad and deep"
 ]
 ],
 "extraWords": [
 [
 "精品",
 28.27,
-"jing1 pin3",
+"jīng pǐn",
 "quality goods; premium product; fine work (of art)"
+],
+[
+"精灵",
+17.32,
+"jīng líng",
+"spirit; fairy; elf; sprite; genie"
 ],
 [
 "精英",
 17.3,
-"jing1 ying1",
+"jīng yīng",
 "cream; elite; essence; quintessence"
 ],
 [
 "精美",
 16.46,
-"jing1 mei3",
+"jīng měi",
 "delicate; fine; refinement"
 ],
 [
 "精神病",
 15.26,
-"jing1 shen2 bing4",
+"jīng shén bìng",
 "mental disorder; psychosis"
 ],
 [
 "精神文明",
 15.17,
-"jing1 shen2 wen2 ming2",
+"jīng shén wén míng",
 "spiritual culture"
+],
+[
+"精选",
+10.51,
+"jīng xuǎn",
+"carefully chosen; handpicked; best of the bunch; choice (product); concentration (mining); to concentrate; to winnow"
 ],
 [
 "精度",
 8.98,
-"jing1 du4",
+"jīng dù",
 "precision"
 ],
 [
 "精子",
 8.67,
-"jing1 zi3",
+"jīng zǐ",
 "sperm; spermatozoon"
+],
+[
+"精细",
+8.27,
+"jīng xì",
+"fine; meticulous; careful"
 ],
 [
 "精液",
 6.62,
-"jing1 ye4",
+"jīng yè",
 "semen"
 ],
 [
 "精明",
 6.2,
-"jing1 ming2",
+"jīng míng",
 "astute; shrewd"
 ],
 [
 "精髓",
 5.43,
-"jing1 sui3",
+"jīng suǐ",
 "marrow; pith; quintessence; essence"
 ],
 [
 "妖精",
 5.13,
-"yao1 jing5",
+"yāo jing",
 "evil spirit; alluring woman"
 ]
 ],

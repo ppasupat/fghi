@@ -9,23 +9,72 @@
 [
 "词典",
 3,
-"cídiǎn",
-"dictionary"
+"cí diǎn",
+"dictionary; also written 辭典|辞典[ci2 dian3]; CL:部[bu4],本[ben3]"
 ],
 [
 "词语",
 4,
-"cíyǔ",
-"words and expressions; terms"
+"cí yǔ",
+"word (general term including monosyllables through to short phrases); term (e.g. technical term); expression"
 ],
 [
 "词汇",
 5,
-"cíhuì",
-"vocabulary"
+"cí huì",
+"variant of 詞彙|词汇[ci2 hui4]"
+],
+[
+"词汇",
+5,
+"cí huì",
+"vocabulary; list of words (e.g. for language teaching purposes); word"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"证词",
+24.95,
+"zhèng cí",
+"testimony"
+],
+[
+"台词",
+21.46,
+"tái cí",
+"an actor's lines; dialogue; Taiwanese word"
+],
+[
+"歌词",
+14.52,
+"gē cí",
+"song lyric; lyrics"
+],
+[
+"关键词",
+11.89,
+"guān jiàn cí",
+"keyword"
+],
+[
+"单词",
+8.61,
+"dān cí",
+"word; CL:個|个[ge4]"
+],
+[
+"名词",
+7.36,
+"míng cí",
+"noun"
+],
+[
+"动词",
+5.44,
+"dòng cí",
+"verb"
+]
+],
 "strokes": [
 "M 304 770 Q 338 745 373 715 Q 389 703 405 705 Q 417 706 421 720 Q 425 736 413 767 Q 406 789 369 803 Q 285 828 272 819 Q 266 815 269 801 Q 273 791 304 770 Z",
 "M 166 527 Q 115 508 88 504 Q 73 504 71 496 Q 67 487 79 480 Q 115 462 156 474 Q 279 540 289 535 L 290 534 Q 300 528 296 503 Q 296 314 258 185 Q 240 154 284 100 Q 294 87 305 95 Q 312 102 325 126 Q 362 175 444 259 Q 457 271 454 278 Q 453 287 441 277 Q 404 255 366 227 Q 317 188 326 248 Q 325 318 351 495 Q 354 520 377 544 Q 389 554 379 568 Q 367 584 328 600 Q 315 607 298 595 Q 214 544 166 527 Z",

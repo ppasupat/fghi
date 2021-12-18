@@ -9,29 +9,48 @@
 [
 "毁灭",
 6,
-"huǐmiè",
-"perish; ruin; destroy"
-],
-[
-"灭亡",
-6,
-"mièwáng",
-"be destroyed; perish; exterminate; become extinct"
-],
-[
-"熄灭",
-6,
-"xīmiè",
-"extinguish; go out (of fire); die out; extinction"
+"huǐ miè",
+"to perish; to ruin; to destroy"
 ],
 [
 "消灭",
 6,
-"xiāomiè",
-"eliminate; perish; wipe out"
+"xiāo miè",
+"to put an end to; to annihilate; to cause to perish; to perish; annihilation (in quantum field theory)"
+],
+[
+"灭亡",
+6,
+"miè wáng",
+"to be destroyed; to become extinct; to perish; to die out; to destroy; to exterminate"
+],
+[
+"熄灭",
+6,
+"xī miè",
+"to stop burning; to go out (of fire); to die out; extinguished"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"扑灭",
+6.59,
+"pū miè",
+"to eradicate; to extinguish"
+],
+[
+"灭火",
+5.99,
+"miè huǒ",
+"to extinguish a fire; firefighting"
+],
+[
+"灭绝",
+5.6,
+"miè jué",
+"to extinguish; to become extinct; to die out"
+]
+],
 "strokes": [
 "M 489 653 Q 582 669 776 682 Q 788 681 799 694 Q 800 707 776 721 Q 731 748 667 728 Q 456 692 251 676 Q 218 675 242 653 Q 278 620 311 627 Q 369 637 437 646 L 489 653 Z",
 "M 230 413 Q 261 382 293 344 Q 306 328 325 327 Q 337 326 344 341 Q 351 357 344 392 Q 340 417 305 437 Q 218 476 204 471 Q 198 467 198 453 Q 202 440 230 413 Z",

@@ -9,21 +9,27 @@
 [
 "政府",
 5,
-"zhèngfǔ",
-"government"
+"zhèng fǔ",
+"government; CL:個|个[ge4]"
 ]
 ],
 "extraWords": [
 [
 "市政府",
 48.97,
-"shi4 zheng4 fu3",
+"shì zhèng fǔ",
 "city hall; city government"
+],
+[
+"县政府",
+6.85,
+"xiàn zhèng fǔ",
+"county administration; county regional government"
 ],
 [
 "中央政府",
 6.68,
-"zhong1 yang1 zheng4 fu3",
+"zhōng yāng zhèng fǔ",
 "central government"
 ]
 ],

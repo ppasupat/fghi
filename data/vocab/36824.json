@@ -9,47 +9,102 @@
 [
 "还",
 2,
-"hái",
-"still; yet; in addition; even"
+"Huán",
+"surname Huan"
 ],
 [
-"还是",
+"还",
+2,
+"hái",
+"still; still in progress; still more; yet; even more; in addition; fairly; passably (good); as early as; even; also; else"
+],
+[
+"还",
+2,
+"huán",
+"to pay back; to return"
+],
+[
+"还",
 3,
-"háishi",
-"or; still; nevertheless; had better"
+"Huán",
+"surname Huan"
 ],
 [
 "还",
 3,
 "hái",
-"still; yet; in addition; even"
+"still; still in progress; still more; yet; even more; in addition; fairly; passably (good); as early as; even; also; else"
+],
+[
+"还",
+3,
+"huán",
+"to pay back; to return"
+],
+[
+"还是",
+3,
+"hái shi",
+"or; still; nevertheless; had better"
 ],
 [
 "讨价还价",
 5,
 "tǎo jià huán jià",
-"bargaining; haggling over price"
+"to haggle over price; to bargain"
 ],
 [
 "偿还",
 6,
-"chánghuán",
-"repay; reimburse"
+"cháng huán",
+"to repay; to reimburse"
 ],
 [
 "归还",
 6,
-"guīhuán",
-"return something; revert"
+"guī huán",
+"to return sth; to revert"
 ],
 [
 "还原",
 6,
-"huányuán",
-"restore to the original state; (Chemistry) reduce"
+"huán yuán",
+"to restore to the original state; to reconstruct (an event); reduction (chemistry)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"还有",
+1071.11,
+"hái yǒu",
+"furthermore; in addition; still; also"
+],
+[
+"还好",
+37.34,
+"hái hǎo",
+"not bad; tolerable; fortunately"
+],
+[
+"返还",
+7.44,
+"fǎn huán",
+"restitution; return of something to its original owner; remittance"
+],
+[
+"退还",
+6.64,
+"tuì huán",
+"to return (sth borrowed etc); to send back; to refund; to rebate"
+],
+[
+"生还",
+6.35,
+"shēng huán",
+"to return alive; to survive"
+]
+],
 "strokes": [
 "M 635 632 Q 701 645 830 661 Q 842 660 852 674 Q 853 687 828 699 Q 789 723 707 698 Q 577 670 421 649 Q 388 645 413 625 Q 450 595 481 602 Q 532 612 591 624 L 635 632 Z",
 "M 612 498 Q 631 528 653 564 Q 660 577 667 583 Q 674 589 672 598 Q 669 619 635 632 C 608 644 588 653 591 624 Q 598 594 573 536 L 555 497 Q 495 400 410 314 Q 386 292 357 263 Q 350 259 359 256 Q 419 266 521 373 Q 560 422 571 436 L 612 498 Z",

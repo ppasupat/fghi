@@ -9,57 +9,75 @@
 [
 "奇怪",
 3,
-"qíguài",
-"strange; odd"
+"qí guài",
+"strange; odd; to marvel; to be baffled"
+],
+[
+"难怪",
+5,
+"nán guài",
+"(it's) no wonder (that...); (it's) not surprising (that)"
 ],
 [
 "怪不得",
 5,
 "guài bu de",
-"no wonder; so that's why"
-],
-[
-"难怪",
-5,
-"nánguài",
-"no wonder"
+"no wonder!; so that's why!"
 ],
 [
 "古怪",
 6,
-"gǔguài",
-"eccentric; grotesque; oddly"
+"gǔ guài",
+"strange; weird; eccentric; bizarre"
 ],
 [
 "责怪",
 6,
-"zéguài",
-"blame; rebuke"
+"zé guài",
+"to blame; to rebuke"
 ]
 ],
 "extraWords": [
 [
 "怪物",
 43.1,
-"guai4 wu5",
+"guài wu",
 "monster; freak; eccentric person"
+],
+[
+"怪异",
+18.66,
+"guài yì",
+"monstrous; strange; strange phenomenon"
+],
+[
+"怪兽",
+16.16,
+"guài shòu",
+"rare animal; mythical animal; monster"
 ],
 [
 "怪人",
 15.41,
-"guai4 ren2",
+"guài rén",
 "strange person; eccentric"
 ],
 [
 "怪胎",
 9.69,
-"guai4 tai1",
+"guài tāi",
 "freak; abnormal embryo; fetus with deformity"
+],
+[
+"大惊小怪",
+6.41,
+"dà jīng xiǎo guài",
+"to make a fuss about nothing (idiom)"
 ],
 [
 "怪事",
 5.34,
-"guai4 shi4",
+"guài shì",
 "strange thing; curious occurrence"
 ]
 ],

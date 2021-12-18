@@ -7,233 +7,299 @@
 },
 "words": [
 [
-"可能",
-2,
-"kěnéng",
-"possible; maybe"
-],
-[
 "可以",
 2,
-"kěyǐ",
-"can; may; possible; okay"
+"kě yǐ",
+"can; may; possible; able to; not bad; pretty good"
+],
+[
+"可能",
+2,
+"kě néng",
+"might (happen); possible; probable; possibility; probability; maybe; perhaps; CL:個|个[ge4]"
 ],
 [
 "可爱",
 3,
-"kě'ài",
-"cute; lovely"
-],
-[
-"可怜",
-4,
-"kělián",
-"pitiful; poor; pathetic"
+"kě ài",
+"adorable; cute; lovely"
 ],
 [
 "可是",
 4,
-"kěshì",
-"but; however"
+"kě shì",
+"but; however; (used for emphasis) indeed"
+],
+[
+"可怜",
+4,
+"kě lián",
+"pitiful; pathetic; to have pity on"
 ],
 [
 "可惜",
 4,
-"kěxī",
-"it's a pity; regrettable; too bad"
-],
-[
-"可见",
-5,
-"kějiàn",
-"it can clearly be seen that; clear"
-],
-[
-"可靠",
-5,
-"kěkào",
-"reliable"
+"kě xī",
+"it is a pity; what a pity; unfortunately"
 ],
 [
 "可怕",
 5,
-"kěpà",
-"terrible; awful; frightful; scary"
+"kě pà",
+"awful; dreadful; fearful; formidable; frightful; scary; hideous; horrible; terrible; terribly"
+],
+[
+"可靠",
+5,
+"kě kào",
+"reliable"
 ],
 [
 "宁可",
 5,
-"nìngkě",
-"would rather; it is the lesser of two evils to"
+"nìng kě",
+"preferably; one would prefer to...(or not to...); would rather; (would) be better to; (to pick) the lesser of two evils"
+],
+[
+"可见",
+5,
+"kě jiàn",
+"it can clearly be seen (that this is the case); it is (thus) clear; clear; visible"
 ],
 [
 "不可思议",
 6,
-"bùkěsīyì",
-"unimaginable; inconceivable"
-],
-[
-"可观",
-6,
-"kěguān",
-"considerable; impressive"
-],
-[
-"可口",
-6,
-"kěkǒu",
-"tasty; taste good"
+"bù kě sī yì",
+"inconceivable (idiom); unimaginable; unfathomable"
 ],
 [
 "可恶",
 6,
-"kěwù",
-"hateful; abominable; repulsive"
-],
-[
-"可行",
-6,
-"kěxíng",
-"feasible"
-],
-[
-"难能可贵",
-6,
-"nánnéngkěguì",
-"estimable; extremely good"
-],
-[
-"认可",
-6,
-"rènkě",
-"approve; accept; ratify"
+"kě wù",
+"repulsive; vile; hateful; abominable"
 ],
 [
 "许可",
 6,
-"xǔkě",
-"allow; permit; permission"
+"xǔ kě",
+"to allow; to permit"
+],
+[
+"认可",
+6,
+"rèn kě",
+"to approve; approval; acknowledgment; OK"
+],
+[
+"可行",
+6,
+"kě xíng",
+"feasible"
+],
+[
+"可口",
+6,
+"kě kǒu",
+"tasty; to taste good"
+],
+[
+"可观",
+6,
+"kě guān",
+"considerable; impressive; significant"
+],
+[
+"难能可贵",
+6,
+"nán néng kě guì",
+"rare and precious; valuable; remarkable"
 ]
 ],
 "extraWords": [
 [
 "不可",
 112.39,
-"bu4 ke3",
+"bù kě",
 "cannot; should not; must not"
 ],
 [
 "不可能",
 91.61,
-"bu4 ke3 neng2",
+"bù kě néng",
 "impossible; cannot; not able"
 ],
 [
 "即可",
 54.47,
-"ji2 ke3",
+"jí kě",
 "equivalent to 就可以; can then (do sth); can immediately (do sth); (do sth) and that will suffice"
 ],
 [
 "可能性",
 38.11,
-"ke3 neng2 xing4",
+"kě néng xìng",
 "possibility; probability"
 ],
 [
 "可不",
 35.29,
-"ke3 bu5",
+"kě bu",
 "see 可不是[ke3 bu5 shi4]"
 ],
 [
 "可笑",
 31.6,
-"ke3 xiao4",
+"kě xiào",
 "funny; ridiculous"
+],
+[
+"可谓",
+26.88,
+"kě wèi",
+"it could even be said"
+],
+[
+"尽可能",
+20.43,
+"jǐn kě néng",
+"as far as possible; to do one's utmost"
 ],
 [
 "可悲",
 19.44,
-"ke3 bei1",
+"kě bēi",
 "lamentable"
+],
+[
+"许可证",
+19.29,
+"xǔ kě zhèng",
+"license; authorization; permit"
 ],
 [
 "可疑",
 16.04,
-"ke3 yi2",
+"kě yí",
 "suspicious; dubious"
 ],
 [
 "可卡因",
 15.26,
-"ke3 ka3 yin1",
+"kě kǎ yīn",
 "cocaine (loanword)"
+],
+[
+"可乐",
+11.86,
+"kě lè",
+"amusing; entertaining; (loanword) cola"
 ],
 [
 "不可避免",
 10.9,
-"bu4 ke3 bi4 mian3",
+"bù kě bì miǎn",
 "unavoidably"
+],
+[
+"无家可归",
+10.7,
+"wú jiā kě guī",
+"homeless"
 ],
 [
 "可不是",
 10.47,
-"ke3 bu5 shi4",
+"kě bu shì",
 "that's just the way it is; exactly!"
+],
+[
+"由此可见",
+9.18,
+"yóu cǐ kě jiàn",
+"from this, it can be seen that..."
 ],
 [
 "可知",
 8.84,
-"ke3 zhi1",
+"kě zhī",
 "evidently; clearly; no wonder; knowable"
 ],
 [
 "可信",
 7.96,
-"ke3 xin4",
+"kě xìn",
 "trustworthy"
 ],
 [
 "可靠性",
 7.87,
-"ke3 kao4 xing4",
+"kě kào xìng",
 "reliability"
+],
+[
+"无可",
+7.09,
+"wú kě",
+"can't"
 ],
 [
 "必不可少",
 6.47,
-"bi4 bu4 ke3 shao3",
+"bì bù kě shǎo",
 "absolutely necessary; indispensable; essential"
+],
+[
+"可口可乐",
+6.26,
+"Kě kǒu kě lè",
+"Coca-Cola"
+],
+[
+"可耻",
+6.2,
+"kě chǐ",
+"shameful; disgraceful; ignominious"
 ],
 [
 "可行性",
 6.16,
-"ke3 xing2 xing4",
+"kě xíng xìng",
 "feasibility"
 ],
 [
 "可言",
 6.05,
-"ke3 yan2",
+"kě yán",
 "it may be said"
+],
+[
+"可贵",
+6.03,
+"kě guì",
+"to be treasured; praiseworthy"
 ],
 [
 "可望",
 5.91,
-"ke3 wang4",
+"kě wàng",
 "can be expected (to); to be expected (to); hopefully (happening)"
+],
+[
+"无可奈何",
+5.74,
+"wú kě nài hé",
+"have no way out; have no alternative; abbr. to 無奈|无奈[wu2 nai4]"
 ],
 [
 "可喜",
 5.65,
-"ke3 xi3",
+"kě xǐ",
 "making one happy; gratifying; heartening"
 ],
 [
 "可想而知",
 5.63,
-"ke3 xiang3 er2 zhi1",
+"kě xiǎng ér zhī",
 "it is obvious that...; as one can well imagine..."
 ]
 ],

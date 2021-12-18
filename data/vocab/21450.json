@@ -9,93 +9,111 @@
 [
 "及时",
 4,
-"jíshí",
-"timely; in time; promptly; without delay"
+"jí shí",
+"in time; promptly; without delay; timely"
 ],
 [
 "来不及",
 4,
 "lái bu jí",
-"there's not enough time (to do something); it's too late"
+"there's not enough time (to do sth); it's too late (to do sth)"
 ],
 [
 "来得及",
 4,
 "lái de jí",
-"there's still time"
+"there's still time; able to do sth in time"
+],
+[
+"以及",
+5,
+"yǐ jí",
+"as well as; too; and"
 ],
 [
 "及格",
 5,
 "jí gé",
-"pass an exam"
-],
-[
-"以及",
-5,
-"yǐjí",
-"as well as; too; (formal) and"
-],
-[
-"及早",
-6,
-"jízǎo",
-"as soon as possible; at the earliest possible time"
-],
-[
-"力所能及",
-6,
-"lìsuǒnéngjí",
-"within one's power; to the best of one's ability"
-],
-[
-"迫不及待",
-6,
-"pòbùjídài",
-"be too impatient to wait"
-],
-[
-"普及",
-6,
-"pǔjí",
-"widespread; popular; popularize"
+"to pass an exam or a test; to meet a minimum standard"
 ],
 [
 "涉及",
 6,
-"shèjí",
-"involve; relate to; to touch upon (a topic)"
+"shè jí",
+"to involve; to touch upon (a topic)"
+],
+[
+"迫不及待",
+6,
+"pò bù jí dài",
+"impatient (idiom); in a hurry; itching to get on with it"
+],
+[
+"力所能及",
+6,
+"lì suǒ néng jí",
+"as far as one's capabilities extend (idiom); to the best of one's ability; within one's powers"
+],
+[
+"及早",
+6,
+"jí zǎo",
+"at the earliest possible time; as soon as possible"
+],
+[
+"普及",
+6,
+"pǔ jí",
+"to spread extensively; to generalize; widespread; popular; universal; ubiquitous; pervasive"
 ]
 ],
 "extraWords": [
 [
 "及其",
 84.0,
-"ji2 qi2",
+"jí qí",
 "(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ..."
 ],
 [
 "不及",
 20.41,
-"bu4 ji2",
+"bù jí",
 "to fall short of; not as good as; too late"
 ],
 [
 "埃及",
 17.84,
-"Ai1 ji2",
+"Āi jí",
 "Egypt"
 ],
 [
 "提及",
 9.72,
-"ti2 ji2",
+"tí jí",
 "to mention; to raise (a subject); to bring to sb's attention"
+],
+[
+"触及",
+9.09,
+"chù jí",
+"to touch (physically, one's feelings etc); to touch on (a topic)"
+],
+[
+"谈及",
+5.87,
+"tán jí",
+"to talk about; to mention"
+],
+[
+"顾及",
+5.61,
+"gù jí",
+"to take into consideration; to attend to"
 ],
 [
 "危及",
 5.26,
-"wei1 ji2",
+"wēi jí",
 "to endanger; to jeopardize; a danger (to life, national security etc)"
 ]
 ],

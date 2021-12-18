@@ -10,94 +10,293 @@
 "点",
 1,
 "diǎn",
-"a dot; a little; o'clock"
+"point; dot; drop; speck; o'clock; point (in space or time); to draw a dot; to check on a list; to choose; to order (food in a restaurant); to touch briefly; to hint; to light; to ignite; to pour a liquid drop by drop; (old) one fifth of a two-hour watch 更[geng1]; dot stroke in Chinese characters; classifier for items"
 ],
 [
 "一点儿",
 1,
-"yìdiǎnr",
-"a bit; a few"
+"yī diǎn r5",
+"erhua variant of 一點|一点[yi1 dian3]"
 ],
 [
 "地点",
 4,
-"dìdiǎn",
-"place; site; location"
-],
-[
-"缺点",
-4,
-"quēdiǎn",
-"weak point; defect; fault; shortcoming"
-],
-[
-"特点",
-4,
-"tèdiǎn",
-"a characteristic; trait; feature"
-],
-[
-"优点",
-4,
-"yōudiǎn",
-"merit; good point; a strength; a benefit"
+"dì diǎn",
+"place; site; location; venue; CL:個|个[ge4]"
 ],
 [
 "重点",
 4,
-"zhòngdiǎn",
-"emphasis; main point"
+"chóng diǎn",
+"to recount (e.g. results of election); to re-evaluate"
 ],
 [
-"标点",
-5,
-"biāodiǎn",
-"punctuation; punctuation mark; punctuate"
+"重点",
+4,
+"zhòng diǎn",
+"important point; main point; focus; key (project etc); to focus on; to put the emphasis on"
 ],
 [
-"点心",
-5,
-"diǎnxin",
-"dim sum; light refreshments; snacks"
+"缺点",
+4,
+"quē diǎn",
+"weak point; fault; shortcoming; disadvantage; CL:個|个[ge4]"
+],
+[
+"优点",
+4,
+"yōu diǎn",
+"merit; benefit; strong point; advantage; CL:個|个[ge4],項|项[xiang4]"
+],
+[
+"特点",
+4,
+"tè diǎn",
+"characteristic (feature); trait; feature; CL:個|个[ge4]"
 ],
 [
 "观点",
 5,
-"guāndiǎn",
-"point of view; standpoint"
+"guān diǎn",
+"point of view; viewpoint; standpoint; CL:個|个[ge4]"
 ],
 [
-"点缀",
-6,
-"diǎnzhuì",
-"decorate; an ornament; beautify; embellish; be the finishing touch"
+"点心",
+5,
+"diǎn xin",
+"light refreshments; pastry; dim sum (in Cantonese cooking); dessert"
 ],
 [
-"焦点",
-6,
-"jiāodiǎn",
-"focus; focal point"
+"标点",
+5,
+"biāo diǎn",
+"punctuation; a punctuation mark; to punctuate; CL:個|个[ge4]"
 ],
 [
 "弱点",
 6,
-"ruòdiǎn",
+"ruò diǎn",
 "weak point; failing"
-],
-[
-"要点",
-6,
-"yàodiǎn",
-"main point; essential"
 ],
 [
 "终点",
 6,
-"zhōngdiǎn",
-"the end; end point; destination; finish line (in a race)"
+"zhōng diǎn",
+"the end; end point; finishing line (in a race); destination; terminus; CL:個|个[ge4]"
+],
+[
+"焦点",
+6,
+"jiāo diǎn",
+"focus; focal point"
+],
+[
+"要点",
+6,
+"yào diǎn",
+"main point; essential"
+],
+[
+"点缀",
+6,
+"diǎn zhuì",
+"to decorate; to adorn; sprinkled; studded; only for show"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"一点",
+606.38,
+"yī diǎn",
+"a bit; a little; one dot; one point"
+],
+[
+"有点",
+175.79,
+"yǒu diǎn",
+"a little"
+],
+[
+"点儿",
+133.31,
+"diǎn r5",
+"erhua variant of 點|点[dian3]"
+],
+[
+"差点",
+68.86,
+"chà diǎn",
+"almost; nearly"
+],
+[
+"试点",
+43.93,
+"shì diǎn",
+"test point; to carry out trial; pilot scheme"
+],
+[
+"点头",
+35.03,
+"diǎn tóu",
+"to nod"
+],
+[
+"热点",
+33.99,
+"rè diǎn",
+"hot spot; point of special interest"
+],
+[
+"百分点",
+30.42,
+"bǎi fēn diǎn",
+"percentage point"
+],
+[
+"快点",
+29.29,
+"kuài diǎn",
+"to do sth more quickly; Hurry up!; Get a move on!"
+],
+[
+"早点",
+22.74,
+"zǎo diǎn",
+"breakfast"
+],
+[
+"晚点",
+20.24,
+"wǎn diǎn",
+"(of trains etc) late; delayed; behind schedule; light dinner"
+],
+[
+"网点",
+18.73,
+"wǎng diǎn",
+"(computing) node in a network; (commerce) sales outlet; branch; service center; (illustration) screentone; halftone dot"
+],
+[
+"起点",
+18.34,
+"qǐ diǎn",
+"starting point"
+],
+[
+"点子",
+17.92,
+"diǎn zi",
+"spot; point; dot; speck; drop (of liquid); droplet; point (of argument); idea; crux; indication; pointer"
+],
+[
+"景点",
+17.36,
+"jǐng diǎn",
+"scenic spot; place of interest (tourism)"
+],
+[
+"有一点",
+15.92,
+"yǒu yī diǎn",
+"a little; somewhat"
+],
+[
+"点球",
+12.18,
+"diǎn qiú",
+"penalty kick"
+],
+[
+"共同点",
+11.48,
+"gòng tóng diǎn",
+"common ground"
+],
+[
+"点燃",
+10.76,
+"diǎn rán",
+"to ignite; to set on fire; aflame"
+],
+[
+"定点",
+9.22,
+"dìng diǎn",
+"to determine a location; designated; appointed; specific; fixed (time); fixed point (geometry); fixed-point (number)"
+],
+[
+"难点",
+8.39,
+"nán diǎn",
+"difficulty"
+],
+[
+"点滴",
+7.55,
+"diǎn dī",
+"a drip; a little bit; intravenous drip (used to administer drugs)"
+],
+[
+"出发点",
+7.4,
+"chū fā diǎn",
+"starting point; (fig.) basis; motive"
+],
+[
+"点名",
+7.33,
+"diǎn míng",
+"roll call; to mention sb by name; (to call or praise or criticize sb) by name"
+],
+[
+"有点儿",
+7.1,
+"yǒu diǎn r5",
+"slightly; a little; somewhat"
+],
+[
+"指点",
+7.09,
+"zhǐ diǎn",
+"to point out; to indicate; to give directions; to show how (to do sth); to censure; to pick at"
+],
+[
+"点火",
+7.04,
+"diǎn huǒ",
+"to ignite; to light a fire; to agitate; to start an engine; ignition; fig. to stir up trouble"
+],
+[
+"基点",
+6.35,
+"jī diǎn",
+"main point; crux; central point"
+],
+[
+"盘点",
+6.11,
+"pán diǎn",
+"to make an inventory; to take stock"
+],
+[
+"半点",
+6.02,
+"bàn diǎn",
+"the least bit"
+],
+[
+"节点",
+6.01,
+"jié diǎn",
+"node"
+],
+[
+"支点",
+5.6,
+"zhī diǎn",
+"fulcrum (for a lever)"
+]
+],
 "strokes": [
 "M 533 507 Q 537 564 541 618 L 543 649 Q 546 728 560 775 Q 563 785 543 800 Q 507 819 482 823 Q 466 826 458 817 Q 451 810 459 794 Q 478 769 479 752 Q 491 637 491 500 C 491 470 531 477 533 507 Z",
 "M 541 618 Q 547 617 559 618 Q 656 634 728 643 Q 756 647 745 663 Q 733 679 703 685 Q 672 691 543 649 C 514 640 511 620 541 618 Z",

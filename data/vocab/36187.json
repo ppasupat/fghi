@@ -9,23 +9,144 @@
 [
 "比赛",
 3,
-"bǐsài",
-"(sports) match; competition"
+"bǐ sài",
+"competition (sports etc); match; CL:場|场[chang3],次[ci4]; to compete"
 ],
 [
 "决赛",
 5,
-"juésài",
-"finals (of a competition); final match"
+"jué sài",
+"finals (of a competition)"
 ],
 [
 "竞赛",
 6,
-"jìngsài",
-"race; contest; competition"
+"jìng sài",
+"race; competition; CL:個|个[ge4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"联赛",
+82.75,
+"lián sài",
+"(sports) league; league tournament"
+],
+[
+"赛季",
+56.81,
+"sài jì",
+"season (sports)"
+],
+[
+"大赛",
+47.04,
+"dà sài",
+"grand contest"
+],
+[
+"参赛",
+36.28,
+"cān sài",
+"to compete; to take part in a competition"
+],
+[
+"赛事",
+34.64,
+"sài shì",
+"competition (e.g. sporting)"
+],
+[
+"锦标赛",
+23.58,
+"jǐn biāo sài",
+"championship contest; championships"
+],
+[
+"赛车",
+23.19,
+"sài chē",
+"auto race; cycle race; race car"
+],
+[
+"赛场",
+20.15,
+"sài chǎng",
+"racetrack; field (for athletics competition)"
+],
+[
+"世锦赛",
+18.8,
+"shì jǐn sài",
+"world championship"
+],
+[
+"公开赛",
+17.0,
+"gōng kāi sài",
+"(sports) open championship; open (as in \"the US Open\")"
+],
+[
+"总决赛",
+16.89,
+"zǒng jué sài",
+"finals (sports)"
+],
+[
+"半决赛",
+15.48,
+"bàn jué sài",
+"semifinals"
+],
+[
+"大奖赛",
+12.51,
+"dà jiǎng sài",
+"grand prix"
+],
+[
+"赛马",
+8.05,
+"sài mǎ",
+"horse race; horse racing"
+],
+[
+"热身赛",
+7.82,
+"rè shēn sài",
+"exhibition game"
+],
+[
+"参赛者",
+7.75,
+"cān sài zhě",
+"competitor; CL:名[ming2]"
+],
+[
+"开赛",
+7.48,
+"kāi sài",
+"to start a match; the kick-off"
+],
+[
+"预赛",
+6.09,
+"yù sài",
+"preliminary competition; to hold preliminary heats"
+],
+[
+"球赛",
+5.54,
+"qiú sài",
+"sports match; ballgame; CL:場|场[chang3]"
+],
+[
+"赛程",
+5.49,
+"sài chéng",
+"competition schedule; the course of a race"
+]
+],
 "strokes": [
 "M 473 832 Q 501 816 531 793 Q 544 784 557 786 Q 567 787 569 800 Q 570 813 560 838 Q 553 854 523 864 Q 454 879 444 871 Q 440 867 443 856 Q 447 847 473 832 Z",
 "M 283 729 Q 274 745 267 752 Q 249 765 247 741 Q 253 711 198 654 Q 174 633 199 575 Q 212 550 232 575 Q 248 597 260 629 Q 287 696 288 697 C 294 710 294 710 283 729 Z",

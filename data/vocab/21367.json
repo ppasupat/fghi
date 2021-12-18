@@ -9,17 +9,48 @@
 [
 "试卷",
 5,
-"shìjuàn",
-"exam paper; test paper"
+"shì juàn",
+"examination paper; test paper; CL:份[fen4],張|张[zhang1]"
 ],
 [
 "卷",
 6,
 "juǎn",
-"to roll (up); to coil; (mw for tapes)"
+"to roll up; roll; classifier for small rolled things (wad of paper money, movie reel etc)"
+],
+[
+"卷",
+6,
+"juàn",
+"scroll; book; volume; chapter; examination paper; classifier for books, paintings: volume, scroll"
+],
+[
+"卷",
+6,
+"juǎn",
+"to roll (up); to sweep up; to carry on; roll"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"卷入",
+10.94,
+"juǎn rù",
+"to be drawn into; to be involved in"
+],
+[
+"问卷",
+9.1,
+"wèn juàn",
+"questionnaire; CL:份[fen4]"
+],
+[
+"龙卷风",
+7.04,
+"lóng juǎn fēng",
+"tornado; hurricane; twister; cyclone"
+]
+],
 "strokes": [
 "M 323 688 Q 362 637 390 625 Q 403 622 412 633 Q 418 643 416 659 Q 407 696 356 714 Q 326 727 313 723 Q 309 722 310 711 Q 310 701 323 688 Z",
 "M 632 749 Q 619 728 567 663 Q 557 645 574 649 Q 631 676 673 703 Q 692 719 717 728 Q 739 738 729 756 Q 716 774 690 789 Q 666 804 653 801 Q 640 800 644 786 Q 647 767 632 749 Z",

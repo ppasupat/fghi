@@ -9,23 +9,30 @@
 [
 "糊涂",
 5,
-"hútu",
-"confused; bewildered; muddled"
+"hú tu",
+"muddled; silly; confused"
 ],
 [
 "模糊",
 5,
-"móhu",
-"vague; indistinct; fuzzy; foggy"
+"mó hu",
+"vague; indistinct; fuzzy"
 ],
 [
 "含糊",
 6,
-"hánhu",
-"unclear; vague; unsure"
+"hán hu",
+"ambiguous; vague; careless; perfunctory"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"一塌糊涂",
+6.8,
+"yī tā hú tu",
+"muddled and completely collapsing (idiom); in an awful condition; complete shambles; a total mess"
+]
+],
 "strokes": [
 "M 147 586 Q 163 561 181 530 Q 188 517 202 514 Q 211 513 217 521 Q 224 531 224 557 Q 224 584 153 625 Q 143 631 136 630 Q 132 629 130 618 Q 130 608 147 586 Z",
 "M 360 627 Q 348 602 322 559 Q 318 552 323 547 Q 330 546 336 551 Q 394 597 424 616 Q 439 622 434 630 Q 428 643 410 657 Q 392 670 373 671 Q 361 670 363 653 Q 367 641 360 627 Z",

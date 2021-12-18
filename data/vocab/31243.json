@@ -9,118 +9,166 @@
 [
 "过程",
 4,
-"guòchéng",
-"course of events; process"
-],
-[
-"程度",
-5,
-"chéngdù",
-"degree; extent; level"
+"guò chéng",
+"course of events; process; CL:個|个[ge4]"
 ],
 [
 "程序",
 5,
-"chéngxù",
-"procedure; sequence; program"
+"chéng xù",
+"procedures; sequence; order; computer program"
 ],
 [
-"工程师",
+"程度",
 5,
-"gōngchéngshī",
-"engineer"
+"chéng dù",
+"degree (level or extent); level; CL:個|个[ge4]"
 ],
 [
 "课程",
 5,
-"kèchéng",
-"course; curriculum; class"
+"kè chéng",
+"course; academic program; CL:堂[tang2],節|节[jie2],門|门[men2]"
+],
+[
+"工程师",
+5,
+"gōng chéng shī",
+"engineer; CL:個|个[ge4],位[wei4],名[ming2]"
 ],
 [
 "日程",
 5,
-"rìchéng",
-"schedule; itinerary"
-],
-[
-"里程碑",
-6,
-"lǐchéngbēi",
-"milestone"
+"rì chéng",
+"schedule; itinerary; CL:個|个[ge4]"
 ],
 [
 "启程",
 6,
-"qǐchéng",
-"set out on a journey"
-],
-[
-"章程",
-6,
-"zhāngchéng",
-"written rules; statute; regulations; charter of a corporation"
+"qǐ chéng",
+"to set out on a journey"
 ],
 [
 "专程",
 6,
-"zhuānchéng",
-"special-purpose trip"
+"zhuān chéng",
+"specifically; specially (for that purpose)"
+],
+[
+"里程碑",
+6,
+"lǐ chéng bēi",
+"milestone"
+],
+[
+"章程",
+6,
+"zhāng chéng",
+"rules; regulations; constitution; statute; articles of association (of company); articles of incorporation; charter (of a corporation); by-laws"
 ]
 ],
 "extraWords": [
 [
 "工程",
 250.73,
-"gong1 cheng2",
+"gōng chéng",
 "engineering; an engineering project; project; undertaking; CL:個|个[ge4],項|项[xiang4]"
+],
+[
+"进程",
+42.72,
+"jìn chéng",
+"process; course"
 ],
 [
 "流程",
 19.79,
-"liu2 cheng2",
+"liú chéng",
 "course; stream; sequence of processes; work flow in manufacturing"
 ],
 [
 "全程",
 18.09,
-"quan2 cheng2",
+"quán chéng",
 "the whole distance; from beginning to end"
 ],
 [
 "旅程",
 16.93,
-"lu:3 cheng2",
+"lu:3 chéng",
 "journey; trip"
+],
+[
+"远程",
+14.61,
+"yuǎn chéng",
+"remote; long distance; long range"
 ],
 [
 "行程",
 14.53,
-"xing2 cheng2",
+"xíng chéng",
 "journey; course of a journey; distance traveled; trajectory; itinerary; route; course (of history); stroke (of a piston); (Tw) (computing) process"
+],
+[
+"历程",
+14.41,
+"lì chéng",
+"course; process"
+],
+[
+"疗程",
+12.37,
+"liáo chéng",
+"course of treatment"
+],
+[
+"计程车",
+7.21,
+"jì chéng chē",
+"(Tw) taxi; cab"
 ],
 [
 "病程",
 6.98,
-"bing4 cheng2",
+"bìng chéng",
 "course of disease"
 ],
 [
 "方程",
 6.92,
-"fang1 cheng2",
+"fāng chéng",
 "mathematical equation"
 ],
 [
 "路程",
 6.43,
-"lu4 cheng2",
+"lù chéng",
 "route; path traveled; distance traveled; course (of development)"
 ],
 [
 "里程",
 6.29,
-"li3 cheng2",
+"lǐ chéng",
 "mileage (distance traveled); course (of development)"
+],
+[
+"赛程",
+5.49,
+"sài chéng",
+"competition schedule; the course of a race"
+],
+[
+"议程",
+5.45,
+"yì chéng",
+"agenda; agenda item"
+],
+[
+"规程",
+5.3,
+"guī chéng",
+"rules; regulations"
 ]
 ],
 "strokes": [

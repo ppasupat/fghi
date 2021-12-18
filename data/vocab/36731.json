@@ -9,41 +9,84 @@
 [
 "年轻",
 3,
-"niánqīng",
+"nián qīng",
 "young"
 ],
 [
 "轻",
 4,
 "qīng",
-"light; easy; gentle; soft"
+"light; easy; gentle; soft; reckless; unimportant; frivolous; small in number; unstressed; neutral; to disparage"
 ],
 [
 "轻松",
 4,
-"qīngsōng",
-"relaxed; gentle; easygoing"
-],
-[
-"轻视",
-5,
-"qīngshì",
-"contempt; to scorn; scornful"
+"qīng sōng",
+"light; gentle; relaxed; effortless; uncomplicated; to relax; to take things less seriously"
 ],
 [
 "轻易",
 5,
-"qīngyì",
+"qīng yì",
 "easily; lightly; rashly"
+],
+[
+"轻视",
+5,
+"qīng shì",
+"contempt; contemptuous; to despise; to scorn; scornful"
 ],
 [
 "举足轻重",
 6,
-"jǔzúqīngzhòng",
-"a foot's move sways the balance; hold the balance of power; play a key role"
+"jǔ zú qīng zhòng",
+"to play a critical role (idiom); influential"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"年轻人",
+45.19,
+"nián qīng rén",
+"young people; youngster"
+],
+[
+"轻轻",
+36.41,
+"qīng qīng",
+"lightly; softly"
+],
+[
+"减轻",
+34.48,
+"jiǎn qīng",
+"to lighten; to ease; to alleviate"
+],
+[
+"轻微",
+11.9,
+"qīng wēi",
+"slight; light; trivial; to a small extent"
+],
+[
+"轻度",
+10.01,
+"qīng dù",
+"mild (symptoms etc)"
+],
+[
+"轻声",
+7.86,
+"qīng shēng",
+"quietly; softly; neutral tone; light stress"
+],
+[
+"轻薄",
+5.05,
+"qīng bó",
+"light (weight); frivolous; a philanderer; to scorn; disrespectful"
+]
+],
 "strokes": [
 "M 312 607 Q 438 644 440 645 Q 449 652 444 661 Q 437 671 408 678 Q 387 681 339 665 L 285 646 Q 275 645 267 641 Q 219 628 163 620 Q 129 613 154 598 Q 199 579 265 596 Q 266 596 268 596 L 312 607 Z",
 "M 366 382 Q 397 389 428 392 Q 456 395 448 408 Q 438 421 422 427 Q 407 433 368 418 L 319 405 Q 282 398 239 388 Q 227 385 225 388 Q 224 389 226 400 Q 262 494 312 607 L 339 665 Q 360 728 388 754 Q 403 767 386 787 Q 361 814 342 827 Q 329 834 319 832 Q 310 828 316 807 Q 323 770 285 646 L 268 596 Q 264 587 261 577 Q 195 421 158 386 Q 143 370 148 356 Q 155 337 165 326 Q 175 316 185 321 Q 239 354 319 370 L 366 382 Z",

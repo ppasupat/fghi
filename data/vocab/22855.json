@@ -9,69 +9,81 @@
 [
 "奇怪",
 3,
-"qíguài",
-"strange; odd"
-],
-[
-"好奇",
-5,
-"hàoqí",
-"curious"
+"qí guài",
+"strange; odd; to marvel; to be baffled"
 ],
 [
 "奇迹",
 5,
-"qíjì",
-"miracle; miraculous; marvel"
+"qí jì",
+"miracle; miraculous; wonder; marvel"
 ],
 [
-"惊奇",
-6,
-"jīngqí",
-"amaze; astonished"
-],
-[
-"奇妙",
-6,
-"qímiào",
-"wonderful; fantastic"
+"好奇",
+5,
+"hào qí",
+"inquisitive; curious; inquisitiveness; curiosity"
 ],
 [
 "神奇",
 6,
-"shénqí",
-"miraculous; magical; mystical"
+"shén qí",
+"magical; mystical; miraculous"
+],
+[
+"奇妙",
+6,
+"qí miào",
+"fantastic; wonderful"
+],
+[
+"惊奇",
+6,
+"jīng qí",
+"to be amazed; to be surprised; to wonder"
 ]
 ],
 "extraWords": [
 [
+"传奇",
+23.46,
+"chuán qí",
+"legendary; fantasy saga; romance; short stories of the Tang and Song Dynasty"
+],
+[
 "米奇",
 8.5,
-"Mi3 qi2",
+"Mǐ qí",
 "Mickey or Mitch (name)"
+],
+[
+"刘少奇",
+8.48,
+"Liú Shào qí",
+"Liu Shaoqi (1898-1969), Chinese communist leader, a martyr of the Cultural Revolution"
 ],
 [
 "道奇",
 7.12,
-"Dao4 qi2",
+"Dào qí",
 "Dodge, US automobile brand, division of Chrysler LLC"
 ],
 [
 "奇特",
 6.94,
-"qi2 te4",
+"qí tè",
 "peculiar; unusual; queer"
 ],
 [
 "新奇",
 5.09,
-"xin1 qi2",
+"xīn qí",
 "novelty; new and odd"
 ],
 [
 "奇葩",
 5.04,
-"qi2 pa1",
+"qí pā",
 "exotic flower; (fig.) marvel; prodigy; (slang) weirdo; outlandish"
 ]
 ],

@@ -9,59 +9,102 @@
 [
 "拒绝",
 4,
-"jùjué",
+"jù jué",
 "to refuse; to decline; to reject"
 ],
 [
 "绝对",
 5,
-"juéduì",
-"absolute; definite"
-],
-[
-"杜绝",
-6,
-"dùjué",
-"put an end to"
-],
-[
-"断绝",
-6,
-"duànjué",
-"sever; break off"
+"jué duì",
+"absolute; unconditional"
 ],
 [
 "绝望",
 6,
 "jué wàng",
-"desperation; forlorn; hopeless"
+"to despair; to give up all hope; desperate; desperation"
 ],
 [
-"空前绝后",
+"断绝",
 6,
-"kōngqiánjuéhòu",
-"unprecedented and unrepeatable; never to be reduplicated; the first and the last; unmatched; unique"
-],
-[
-"络绎不绝",
-6,
-"luòyìbùjué",
-"endless stream"
+"duàn jué",
+"to sever; to break off"
 ],
 [
 "滔滔不绝",
 6,
-"tāotāo bù jué",
-"(saying) talking non-stop; gushing; torrential"
+"tāo tāo bù jué",
+"unceasing torrent (idiom); talking non-stop; gabbling forty to the dozen"
 ],
 [
 "谢绝",
 6,
-"xièjué",
-"politely refuse"
+"xiè jué",
+"to refuse politely"
+],
+[
+"空前绝后",
+6,
+"kōng qián jué hòu",
+"unprecedented and never to be duplicated; the first and the last; unmatched; unique"
+],
+[
+"杜绝",
+6,
+"dù jué",
+"to put an end to"
+],
+[
+"络绎不绝",
+6,
+"luò yì bù jué",
+"continuously; in an endless stream (idiom)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"绝不",
+57.0,
+"jué bù",
+"in no way; not in the least; absolutely not"
+],
+[
+"绝大多数",
+21.65,
+"jué dà duō shù",
+"absolute majority; overwhelming majority"
+],
+[
+"绝大部分",
+11.64,
+"jué dà bù fen",
+"overwhelming majority"
+],
+[
+"不绝",
+6.87,
+"bù jué",
+"unending; uninterrupted"
+],
+[
+"绝妙",
+5.99,
+"jué miào",
+"exquisite"
+],
+[
+"灭绝",
+5.6,
+"miè jué",
+"to extinguish; to become extinct; to die out"
+],
+[
+"绝非",
+5.28,
+"jué fēi",
+"absolutely not"
+]
+],
 "strokes": [
 "M 290 497 Q 238 498 193 498 Q 162 498 178 518 Q 253 632 322 716 Q 337 732 335 741 Q 334 754 295 788 Q 280 801 261 799 Q 251 796 256 781 Q 268 745 163 559 Q 144 534 113 508 Q 94 495 96 482 Q 99 463 113 445 Q 123 435 136 441 Q 172 460 273 473 C 303 477 320 496 290 497 Z",
 "M 273 473 Q 176 344 153 333 Q 140 324 143 311 Q 144 298 170 279 Q 180 267 195 279 Q 255 327 363 367 Q 382 373 383 381 Q 386 391 366 387 Q 308 374 236 350 Q 215 343 229 360 Q 364 541 417 581 Q 429 591 423 601 Q 413 620 381 639 Q 365 648 356 646 Q 346 642 348 627 Q 351 588 290 497 L 273 473 Z",

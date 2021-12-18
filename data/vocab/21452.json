@@ -9,23 +9,90 @@
 [
 "双",
 3,
+"Shuāng",
+"surname Shuang"
+],
+[
+"双",
+3,
 "shuāng",
-"two; double; (mw for pairs)"
+"two; double; pair; both; even (number)"
 ],
 [
 "双方",
 5,
-"shuāngfāng",
+"shuāng fāng",
 "bilateral; both sides; both parties involved"
 ],
 [
 "双胞胎",
 6,
-"shuāngbāotāi",
-"twins"
+"shuāng bāo tāi",
+"twin; CL:對|对[dui4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"双手",
+36.13,
+"shuāng shǒu",
+"both hands"
+],
+[
+"双子座",
+27.56,
+"Shuāng zǐ zuò",
+"Gemini (constellation and sign of the zodiac)"
+],
+[
+"双鱼座",
+26.27,
+"Shuāng yú zuò",
+"Pisces (constellation and sign of the zodiac)"
+],
+[
+"双重",
+15.27,
+"shuāng chóng",
+"double"
+],
+[
+"双边",
+12.36,
+"shuāng biān",
+"bilateral"
+],
+[
+"双向",
+10.94,
+"shuāng xiàng",
+"bidirectional; two-way; interactive"
+],
+[
+"双人",
+10.32,
+"shuāng rén",
+"two-person; double; pair; tandem"
+],
+[
+"双脚",
+6.31,
+"shuāng jiǎo",
+"two legs; both feet"
+],
+[
+"双层",
+5.98,
+"shuāng céng",
+"double tier; double decker"
+],
+[
+"双打",
+5.75,
+"shuāng dǎ",
+"doubles (in sports); CL:場|场[chang3]"
+]
+],
 "strokes": [
 "M 361 302 Q 398 383 434 504 Q 444 534 463 554 Q 481 570 467 583 Q 454 595 421 604 Q 397 610 371 594 Q 290 564 188 554 Q 173 554 168 547 Q 164 540 183 531 Q 220 515 272 530 Q 339 552 350 551 Q 380 552 377 520 Q 358 411 323 335 L 299 290 Q 227 179 86 128 Q 74 121 86 116 Q 92 109 137 112 Q 245 127 332 251 L 361 302 Z",
 "M 332 251 Q 428 139 435 136 Q 442 135 449 142 Q 459 152 452 190 Q 446 229 361 302 L 323 335 Q 232 411 180 447 Q 173 451 170 441 Q 169 431 177 421 Q 235 363 299 290 L 332 251 Z",

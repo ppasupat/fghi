@@ -9,17 +9,24 @@
 [
 "纷纷",
 5,
-"fēnfēn",
-"one after another; in succession; in profusion; diverse; pell-mell"
+"fēn fēn",
+"one after another; in succession; one by one; continuously; diverse; in profusion; numerous and confused; pell-mell"
 ],
 [
 "纠纷",
 6,
-"jiūfēn",
-"dispute; quarrel"
+"jiū fēn",
+"dispute"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"缤纷",
+5.46,
+"bīn fēn",
+"vast and various; rich and diverse"
+]
+],
 "strokes": [
 "M 301 484 Q 249 485 207 484 Q 173 484 191 504 Q 261 616 328 698 Q 343 716 340 724 Q 339 739 298 772 Q 282 785 263 783 Q 251 780 257 764 Q 264 746 258 719 Q 245 670 183 563 Q 164 527 124 493 Q 105 478 106 466 Q 110 447 125 427 Q 135 417 148 423 Q 184 444 285 459 C 315 464 331 484 301 484 Z",
 "M 285 459 Q 284 458 283 455 Q 180 311 152 298 Q 139 288 141 275 Q 142 262 168 242 Q 178 230 193 243 Q 245 280 354 320 Q 373 324 375 333 Q 378 343 358 340 Q 304 330 238 312 Q 210 302 228 324 Q 267 376 357 483 Q 385 520 409 541 Q 422 551 415 561 Q 405 580 373 599 Q 357 608 348 605 Q 338 602 340 586 Q 341 559 301 484 L 285 459 Z",

@@ -9,47 +9,102 @@
 [
 "张",
 3,
+"Zhāng",
+"surname Zhang"
+],
+[
+"张",
+3,
 "zhāng",
-"(mw for flat objects); to spread out; (common surname)"
+"to open up; to spread; sheet of paper; classifier for flat objects, sheet; classifier for votes"
 ],
 [
 "紧张",
 4,
-"jǐnzhāng",
-"nervous; tension; strain"
-],
-[
-"慌张",
-5,
-"huāngzhāng",
-"flustered; flurried"
+"jǐn zhāng",
+"nervous; keyed up; intense; tense; strained; in short supply; scarce; CL:陣|阵[zhen4]"
 ],
 [
 "夸张",
 5,
-"kuāzhāng",
-"exaggerate; overstate; exaggerated; overstated; vaunted; hyperbole"
+"kuā zhāng",
+"to exaggerate; overstated; exaggerated; hyperbole; (coll.) excessive; ridiculous; outrageous"
 ],
 [
 "主张",
 5,
-"zhǔzhāng",
-"to advocate; viewpoint; position"
+"zhǔ zhāng",
+"to advocate; to stand for; view; position; stand; proposition; viewpoint; assertion; CL:個|个[ge4]"
 ],
 [
-"东张西望",
-6,
-"dōngzhāngxīwàng",
-"look in all directions; glance around"
+"慌张",
+5,
+"huāng zhāng",
+"flustered; agitated"
 ],
 [
 "扩张",
 6,
-"kuòzhāng",
-"expansion; extension"
+"kuò zhāng",
+"expansion; dilation; to expand (e.g. one's power or influence); to broaden"
+],
+[
+"东张西望",
+6,
+"dōng zhāng xī wàng",
+"to look in all directions (idiom); to glance around"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"张扬",
+9.71,
+"Zhāng Yáng",
+"Zhang Yang (1967-), PRC film director and screenwriter"
+],
+[
+"张扬",
+9.71,
+"zhāng yáng",
+"to display ostentatiously; to bring out into the open; to make public; to spread around; flamboyant; brash"
+],
+[
+"张开",
+9.45,
+"zhāng kāi",
+"to open up; to spread; to extend"
+],
+[
+"开张",
+7.68,
+"kāi zhāng",
+"to open a business; first transaction of a business day"
+],
+[
+"张艺谋",
+7.42,
+"Zhāng Yì móu",
+"Zhang Yimou (1950-), PRC film director"
+],
+[
+"张力",
+6.84,
+"zhāng lì",
+"tension"
+],
+[
+"嚣张",
+6.3,
+"xiāo zhāng",
+"rampant; unbridled; arrogant; aggressive"
+],
+[
+"张贴",
+5.18,
+"zhāng tiē",
+"to post (a notice); to advertise"
+]
+],
 "strokes": [
 "M 380 557 Q 407 645 435 670 Q 459 695 435 711 Q 416 724 389 742 Q 370 754 325 729 Q 264 708 216 699 Q 203 699 206 692 Q 207 686 220 679 Q 236 670 312 687 Q 351 699 358 687 Q 365 680 354 643 Q 342 606 327 561 C 318 533 371 528 380 557 Z",
 "M 243 494 Q 292 510 392 528 Q 402 531 402 540 Q 402 547 380 557 L 327 561 Q 324 561 322 559 Q 273 540 233 528 C 204 519 214 485 243 494 Z",

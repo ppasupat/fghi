@@ -10,58 +10,113 @@
 "举",
 4,
 "jǔ",
-"lift; raise; cite"
+"variant of 舉|举[ju3]"
 ],
 [
-"举办",
+"举",
 4,
-"jǔbàn",
-"to conduct; to hold"
+"jǔ",
+"to lift; to hold up; to cite; to enumerate; to act; to raise; to choose; to elect; act; move; deed"
 ],
 [
 "举行",
 4,
-"jǔxíng",
-"convene; to hold (a meeting, ceremony, etc.)"
+"jǔ xíng",
+"to hold (a meeting, ceremony etc)"
 ],
 [
-"举动",
-6,
-"jǔdòng",
-"action; act; (make) a move; movement"
-],
-[
-"举世瞩目",
-6,
-"jǔshì zhǔmù",
-"attract worldwide attention"
-],
-[
-"举足轻重",
-6,
-"jǔzúqīngzhòng",
-"a foot's move sways the balance; hold the balance of power; play a key role"
-],
-[
-"列举",
-6,
-"lièjǔ",
-"make a list; enumerate"
+"举办",
+4,
+"jǔ bàn",
+"to conduct; to hold"
 ],
 [
 "选举",
 6,
-"xuǎnjǔ",
-"elect; election"
+"xuǎn jǔ",
+"to elect; election; CL:次[ci4],個|个[ge4]"
+],
+[
+"举动",
+6,
+"jǔ dòng",
+"act; action; activity; move; movement"
+],
+[
+"举足轻重",
+6,
+"jǔ zú qīng zhòng",
+"to play a critical role (idiom); influential"
+],
+[
+"列举",
+6,
+"liè jǔ",
+"a list; to list; to enumerate"
 ],
 [
 "一举两得",
 6,
-"yìjǔliǎngdé",
-"kill two birds with one stone; (literally) attain two objectives with a single move"
+"yī jǔ liǎng dé",
+"one move, two gains (idiom); two birds with one stone"
+],
+[
+"举世瞩目",
+6,
+"jǔ shì zhǔ mù",
+"to receive worldwide attention"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"举报",
+32.23,
+"jǔ bào",
+"to report (malefactors to the police); to denounce"
+],
+[
+"举措",
+22.34,
+"jǔ cuò",
+"to move; to act; action; decision; conduct; manner"
+],
+[
+"一举",
+14.88,
+"yī jǔ",
+"a move; an action; in one move; at a stroke; in one go"
+],
+[
+"举手",
+12.15,
+"jǔ shǒu",
+"to raise a hand; to put up one's hand (as signal)"
+],
+[
+"举起",
+10.98,
+"jǔ qǐ",
+"to heave; to lift; to raise up; to uphold"
+],
+[
+"高举",
+10.13,
+"gāo jǔ",
+"to lift up; to hold high"
+],
+[
+"举止",
+8.5,
+"jǔ zhǐ",
+"bearing; manner; mien"
+],
+[
+"举例",
+5.41,
+"jǔ lì",
+"to give an example"
+]
+],
 "strokes": [
 "M 304 668 Q 326 646 351 618 Q 364 605 380 604 Q 390 604 397 617 Q 403 632 395 662 Q 391 681 362 695 Q 301 725 280 719 Q 274 715 276 702 Q 279 692 304 668 Z",
 "M 437 749 Q 462 725 487 697 Q 500 684 516 684 Q 526 684 533 697 Q 537 712 530 742 Q 526 761 496 776 Q 426 806 412 799 Q 408 795 408 782 Q 411 772 437 749 Z",

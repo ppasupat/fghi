@@ -9,41 +9,102 @@
 [
 "世纪",
 4,
-"shìjì",
-"century"
-],
-[
-"纪录",
-5,
-"jìlù",
-"a record; to take notes"
-],
-[
-"纪律",
-5,
-"jìlǜ",
-"discipline; morale; laws and regulations"
-],
-[
-"纪念",
-5,
-"jìniàn",
-"commemorate; remember"
+"shì jì",
+"century; CL:個|个[ge4]"
 ],
 [
 "年纪",
 5,
-"niánjì",
-"age"
+"nián jì",
+"age; CL:把[ba3],個|个[ge4]"
+],
+[
+"纪念",
+5,
+"jì niàn",
+"to commemorate; to remember; CL:個|个[ge4]"
+],
+[
+"纪录",
+5,
+"jì lù",
+"variant of 記錄|记录[ji4 lu4] (but in Taiwan, not for the verb sense \"to record\")"
+],
+[
+"纪律",
+5,
+"jì lu:4",
+"discipline"
 ],
 [
 "纪要",
 6,
-"jìyào",
-"written summary of a meeting; minutes"
+"jì yào",
+"minutes; written summary of a meeting"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"经纪人",
+25.61,
+"jīng jì rén",
+"broker; middleman; agent; manager"
+],
+[
+"经纪",
+13.06,
+"jīng jì",
+"to manage (a business); manager; broker"
+],
+[
+"纪念日",
+9.06,
+"jì niàn rì",
+"day of commemoration; memorial day"
+],
+[
+"纪委",
+8.91,
+"jì wěi",
+"discipline inspection commission"
+],
+[
+"纪检",
+8.42,
+"jì jiǎn",
+"disciplinary inspection; to inspect another's discipline"
+],
+[
+"世界纪录",
+7.6,
+"shì jiè jì lù",
+"world record"
+],
+[
+"违纪",
+7.26,
+"wéi jì",
+"lack of discipline; to break a rule; to violate discipline; to breach a principle"
+],
+[
+"纪录片",
+7.2,
+"jì lù piàn",
+"newsreel; documentary (film or TV program); CL:部[bu4]"
+],
+[
+"纪念品",
+7.18,
+"jì niàn pǐn",
+"souvenir"
+],
+[
+"纪念馆",
+5.23,
+"jì niàn guǎn",
+"memorial hall; commemorative museum"
+]
+],
 "strokes": [
 "M 341 496 Q 287 497 243 496 Q 206 495 225 518 Q 295 642 362 735 Q 377 753 374 761 Q 371 776 330 807 Q 312 820 294 816 Q 282 813 289 797 Q 308 752 219 582 Q 200 542 158 504 Q 139 489 141 477 Q 145 458 161 439 Q 171 429 184 435 Q 226 459 324 471 C 354 475 371 496 341 496 Z",
 "M 324 471 Q 216 330 199 322 Q 186 312 189 298 Q 190 285 217 265 Q 229 253 244 266 Q 307 315 410 354 Q 429 360 431 369 Q 434 379 413 375 Q 356 362 287 340 Q 263 330 278 351 Q 318 408 416 523 Q 444 562 470 583 Q 483 593 477 604 Q 467 623 432 643 Q 416 653 406 650 Q 396 646 397 630 Q 400 587 341 496 L 324 471 Z",

@@ -9,45 +9,51 @@
 [
 "尊敬",
 5,
-"zūnjìng",
-"respect; revere"
-],
-[
-"崇敬",
-6,
-"chóngjìng",
-"revere; admire; veneration"
-],
-[
-"恭敬",
-6,
-"gōngjìng",
-"dutiful; deferential"
+"zūn jìng",
+"to respect; to revere"
 ],
 [
 "敬礼",
 6,
-"jìnglǐ",
-"to salute; best regards"
+"jìng lǐ",
+"to salute; salute"
 ],
 [
 "敬业",
 6,
-"jìngyè",
-"work ethic"
+"jìng yè",
+"to be dedicated to one's work; to respect one's work"
+],
+[
+"崇敬",
+6,
+"chóng jìng",
+"to revere; to venerate; high esteem"
+],
+[
+"恭敬",
+6,
+"gōng jìng",
+"deferential; respectful"
 ]
 ],
 "extraWords": [
 [
+"敬请",
+10.05,
+"jìng qǐng",
+"please (do sth) (deferential form)"
+],
+[
 "致敬",
 7.99,
-"zhi4 jing4",
+"zhì jìng",
 "to salute; to pay one's respects to; to pay tribute to; to pay homage to"
 ],
 [
 "敬意",
 5.93,
-"jing4 yi4",
+"jìng yì",
 "respect; tribute"
 ]
 ],

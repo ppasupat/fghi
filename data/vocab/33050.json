@@ -10,10 +10,65 @@
 "脚",
 3,
 "jiǎo",
-"foot (body part)"
+"foot; leg (of an animal or an object); base (of an object); CL:雙|双[shuang1],隻|只[zhi1]; classifier for kicks"
+],
+[
+"脚",
+3,
+"jué",
+"variant of 角[jue2]; role"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"脚步",
+23.05,
+"jiǎo bù",
+"footstep; step"
+],
+[
+"手脚",
+11.24,
+"shǒu jiǎo",
+"hand and foot; movement of limbs; action; trick; step in a procedure (CL:道[dao4])"
+],
+[
+"脚趾",
+9.48,
+"jiǎo zhǐ",
+"toe"
+],
+[
+"脚踝",
+8.56,
+"jiǎo huái",
+"ankle"
+],
+[
+"脚下",
+8.14,
+"jiǎo xià",
+"under the foot"
+],
+[
+"脚印",
+7.18,
+"jiǎo yìn",
+"footprint"
+],
+[
+"双脚",
+6.31,
+"shuāng jiǎo",
+"two legs; both feet"
+],
+[
+"蹩脚",
+5.22,
+"bié jiǎo",
+"inferior; shoddy; lousy; lame"
+]
+],
 "strokes": [
 "M 202 402 Q 208 427 211 514 L 211 547 Q 211 670 212 684 C 213 709 213 709 200 715 Q 185 724 165 730 Q 147 737 137 731 Q 127 724 134 712 Q 155 691 160 628 Q 160 616 162 603 Q 174 441 147 323 Q 120 217 63 100 Q 59 94 58 88 Q 57 78 66 82 Q 76 83 109 134 Q 172 221 197 370 L 202 402 Z",
 "M 212 684 Q 236 690 259 699 Q 278 703 284 693 Q 308 630 298 241 Q 291 133 285 126 Q 281 123 207 135 Q 188 141 189 131 Q 246 88 278 53 Q 291 35 306 31 Q 315 27 323 37 Q 359 85 358 136 Q 336 523 346 643 Q 349 668 357 683 Q 369 702 357 711 Q 336 729 302 743 Q 286 750 237 726 Q 222 722 200 715 C 171 706 183 676 212 684 Z",

@@ -9,22 +9,34 @@
 [
 "癌症",
 6,
-"áizhèng",
+"ái zhèng",
 "cancer"
 ],
 [
 "症状",
 6,
-"zhèngzhuàng",
+"zhèng zhuàng",
 "symptom (of an illness)"
 ]
 ],
 "extraWords": [
 [
+"并发症",
+15.23,
+"bìng fā zhèng",
+"complications (undesired side-effect of medical procedure)"
+],
+[
 "炎症",
 11.5,
-"yan2 zheng4",
+"yán zhèng",
 "inflammation"
+],
+[
+"综合症",
+7.78,
+"zōng hé zhèng",
+"syndrome"
 ]
 ],
 "strokes": [

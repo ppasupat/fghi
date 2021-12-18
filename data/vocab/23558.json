@@ -9,35 +9,108 @@
 [
 "将来",
 4,
-"jiānglái",
-"the future"
+"jiāng lái",
+"in the future; future; the future; CL:個|个[ge4]"
+],
+[
+"将军",
+6,
+"Jiāng jūn",
+"(common place name)"
+],
+[
+"将军",
+6,
+"jiāng jūn",
+"general; high-ranking military officer; to check or checkmate; fig. to embarrass; to challenge; to put sb on the spot"
 ],
 [
 "即将",
 6,
-"jíjiāng",
-"will shortly; soon; be on the verge of"
+"jí jiāng",
+"on the eve of; to be about to; to be on the verge of"
 ],
 [
 "将近",
 6,
-"jiāngjìn",
+"jiāng jìn",
 "almost; nearly; close to"
 ],
 [
 "将就",
 6,
-"jiāngjiu",
-"put up with; accept somewhat reluctantly"
-],
-[
-"将军",
-6,
-"jiāngjūn",
-"a general (military officer)"
+"jiāng jiu",
+"to accept (a bit reluctantly); to put up with"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"必将",
+21.14,
+"bì jiāng",
+"inevitably"
+],
+[
+"麻将",
+15.42,
+"má jiàng",
+"mahjong; CL:副[fu4]"
+],
+[
+"门将",
+14.49,
+"mén jiàng",
+"official gatekeeper; goalkeeper (soccer, hockey etc)"
+],
+[
+"将要",
+13.12,
+"jiāng yào",
+"will; shall; to be going to"
+],
+[
+"小将",
+12.95,
+"xiǎo jiàng",
+"(in classical literature) young military officer of high rank for his age; (during the Cultural Revolution) young militant in the Red Guard; (in modern usage) rising star (in sport, politics etc)"
+],
+[
+"名将",
+12.93,
+"míng jiàng",
+"famous general"
+],
+[
+"老将",
+11.83,
+"lǎo jiàng",
+"lit. old general; commander-in-chief 將帥|将帅, the equivalent of king in Chinese chess; fig. old-timer; veteran"
+],
+[
+"上将",
+9.33,
+"shàng jiàng",
+"general; admiral; air chief marshal"
+],
+[
+"将领",
+7.46,
+"jiàng lǐng",
+"high-ranking military officer"
+],
+[
+"大将",
+6.93,
+"dà jiàng",
+"a general or admiral"
+],
+[
+"将士",
+6.4,
+"jiàng shì",
+"officers and soldiers"
+]
+],
 "strokes": [
 "M 180 588 Q 207 558 234 522 Q 246 507 262 505 Q 274 504 281 517 Q 288 532 283 564 Q 279 597 183 639 Q 167 645 160 643 Q 154 640 154 626 Q 155 614 180 588 Z",
 "M 332 415 Q 122 270 75 256 Q 62 252 63 240 Q 64 227 77 221 Q 105 212 143 204 Q 153 204 163 216 Q 187 249 319 370 Q 323 376 331 381 C 355 400 357 432 332 415 Z",

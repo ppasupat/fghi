@@ -9,17 +9,72 @@
 [
 "奥秘",
 6,
-"àomì",
-"mystery; enigma; profound; deep"
+"ào mì",
+"secret; mystery"
 ],
 [
 "深奥",
 6,
-"shēn'ào",
-"profound; deep"
+"shēn ào",
+"profound; abstruse; recondite; profoundly"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"奥运",
+46.65,
+"Ào yùn",
+"abbr. for 奧林匹克運動會|奥林匹克运动会; Olympic Games; the Olympics"
+],
+[
+"奥运会",
+40.08,
+"Ào yùn huì",
+"abbr. for 奧林匹克運動會|奥林匹克运动会; Olympic Games; the Olympics"
+],
+[
+"奥斯卡",
+12.67,
+"Ào sī kǎ",
+"(film industry) Oscar (Academy Award); CL:屆|届[jie4]; (name) Oscar"
+],
+[
+"奥迪",
+12.07,
+"Ào dí",
+"Audi"
+],
+[
+"奥地利",
+7.92,
+"Ào dì lì",
+"Austria"
+],
+[
+"奥林匹克",
+7.67,
+"Ào lín pǐ kè",
+"Olympic"
+],
+[
+"新奥尔良",
+5.87,
+"Xīn ào ěr liáng",
+"New Orleans, Louisiana"
+],
+[
+"奥委会",
+5.74,
+"Ào wěi huì",
+"Olympic committee"
+],
+[
+"奥斯汀",
+5.57,
+"Ào sī tīng",
+"Austin or Austen (name); Austin, Texas"
+]
+],
 "strokes": [
 "M 405 677 Q 405 678 406 678 Q 415 684 510 755 Q 528 774 551 786 Q 572 798 560 815 Q 544 831 517 843 Q 492 855 479 851 Q 466 848 472 835 Q 478 808 397 691 Q 391 679 397 677 C 399 673 399 673 405 677 Z",
 "M 323 677 Q 308 687 291 693 Q 282 694 277 687 Q 274 681 281 672 Q 317 590 291 427 Q 276 370 280 352 Q 287 322 298 311 Q 308 299 317 312 Q 338 342 340 438 Q 340 606 346 644 C 348 662 348 662 323 677 Z",

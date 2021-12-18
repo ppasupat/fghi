@@ -9,29 +9,114 @@
 [
 "奖金",
 4,
-"jiǎngjīn",
-"bonus"
-],
-[
-"过奖",
-6,
-"guòjiǎng",
-"praise excessively; flatter"
+"jiǎng jīn",
+"premium; award money; bonus"
 ],
 [
 "奖励",
 6,
-"jiǎnglì",
-"to reward (as encouragement)"
+"jiǎng lì",
+"to reward; reward (as encouragement)"
 ],
 [
 "奖赏",
 6,
-"jiǎngshǎng",
-"to reward"
+"jiǎng shǎng",
+"reward; prize; award"
+],
+[
+"过奖",
+6,
+"guò jiǎng",
+"to overpraise; to flatter"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"大奖",
+39.8,
+"dà jiǎng",
+"prize; award"
+],
+[
+"奖品",
+30.24,
+"jiǎng pǐn",
+"award; prize"
+],
+[
+"颁奖",
+26.2,
+"bān jiǎng",
+"to confer an award"
+],
+[
+"中奖",
+23.56,
+"zhòng jiǎng",
+"to win a prize; a successful gamble"
+],
+[
+"获奖",
+20.36,
+"huò jiǎng",
+"to win an award"
+],
+[
+"抽奖",
+19.46,
+"chōu jiǎng",
+"to draw a prize; a lottery; a raffle"
+],
+[
+"一等奖",
+13.06,
+"yī děng jiǎng",
+"first prize"
+],
+[
+"大奖赛",
+12.51,
+"dà jiǎng sài",
+"grand prix"
+],
+[
+"奖学金",
+11.98,
+"jiǎng xué jīn",
+"scholarship; CL:筆|笔[bi3]"
+],
+[
+"奖杯",
+7.51,
+"jiǎng bēi",
+"trophy cup"
+],
+[
+"夸奖",
+7.27,
+"kuā jiǎng",
+"to praise; to applaud; to compliment"
+],
+[
+"开奖",
+6.78,
+"kāi jiǎng",
+"to announce the winners in a lottery"
+],
+[
+"奖牌",
+5.91,
+"jiǎng pái",
+"medal (awarded as a prize)"
+],
+[
+"年终奖",
+5.45,
+"nián zhōng jiǎng",
+"year-end bonus"
+]
+],
 "strokes": [
 "M 252 654 Q 279 632 308 603 Q 320 591 335 592 Q 345 592 349 605 Q 353 618 345 645 Q 341 664 310 678 Q 246 705 228 699 Q 224 695 225 683 Q 228 673 252 654 Z",
 "M 404 547 L 403 547 Q 228 451 191 442 Q 181 438 180 429 Q 181 417 191 412 Q 215 402 248 392 Q 258 391 266 401 Q 287 428 387 507 Q 396 514 403 522 C 424 544 431 560 404 547 Z",

@@ -10,10 +10,35 @@
 "届",
 5,
 "jiè",
-"arrive at; period; session; (mw for events; meetings; etc.)"
+"to arrive at (place or time); period; to become due; classifier for events, meetings, elections, sporting fixtures, years (of graduation)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"本届",
+35.01,
+"běn jiè",
+"current; this year"
+],
+[
+"届时",
+27.08,
+"jiè shí",
+"when the time comes; at the scheduled time"
+],
+[
+"首届",
+18.48,
+"shǒu jiè",
+"first session (of a conference etc)"
+],
+[
+"应届",
+5.69,
+"yīng jiè",
+"this year's; the current year's"
+]
+],
 "strokes": [
 "M 709 651 Q 737 717 767 733 Q 786 752 771 771 Q 753 786 700 814 Q 681 823 658 814 Q 538 769 354 748 C 324 744 332 710 362 714 Q 395 718 626 763 Q 657 770 669 757 Q 676 750 674 734 Q 665 694 655 658 C 647 629 697 624 709 651 Z",
 "M 335 589 Q 359 565 382 570 Q 490 595 722 616 Q 734 617 735 626 Q 735 635 709 651 C 687 665 684 665 655 658 Q 486 619 348 604 Q 341 604 337 601 C 325 598 325 598 335 589 Z",

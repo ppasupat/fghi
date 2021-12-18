@@ -7,25 +7,68 @@
 },
 "words": [
 [
-"烦恼",
-4,
-"fánnǎo",
-"worried; vexed"
-],
-[
 "麻烦",
 4,
-"máfan",
-"trouble (someone); troubling; bothersome"
+"má fan",
+"inconvenient; troublesome; annoying; to trouble or bother sb; to put sb to trouble"
+],
+[
+"烦恼",
+4,
+"fán nǎo",
+"to be worried; to be distressed; worries"
 ],
 [
 "不耐烦",
 5,
-"búnàifán",
-"impatience; impatient"
+"bù nài fán",
+"impatient; to lose patience"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"惹麻烦",
+15.62,
+"rě má fan",
+"to create difficulties; to invite trouble; to be troublesome"
+],
+[
+"烦人",
+12.07,
+"fán rén",
+"to annoy; annoying; irritating; troublesome"
+],
+[
+"烦躁",
+10.2,
+"fán zào",
+"jittery; twitchy; fidgety"
+],
+[
+"厌烦",
+9.12,
+"yàn fán",
+"bored; fed up with sth; sick of sth"
+],
+[
+"心烦",
+7.84,
+"xīn fán",
+"to feel agitated; to be troubled; to be annoyed; an upset or distraction"
+],
+[
+"找麻烦",
+6.35,
+"zhǎo má fan",
+"to look for trouble"
+],
+[
+"添麻烦",
+5.37,
+"tiān má fan",
+"to cause trouble for sb; to inconvenience"
+]
+],
 "strokes": [
 "M 142 584 Q 136 526 120 469 Q 111 433 137 405 Q 150 390 166 409 Q 203 461 183 537 Q 179 570 164 591 Q 157 598 151 597 Q 144 593 142 584 Z",
 "M 312 544 Q 312 545 313 545 Q 400 600 441 620 Q 457 624 455 634 Q 451 647 434 666 Q 418 682 398 686 Q 385 687 385 669 Q 386 651 313 570 C 293 548 287 527 312 544 Z",

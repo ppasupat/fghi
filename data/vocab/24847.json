@@ -9,321 +9,393 @@
 [
 "意思",
 2,
-"yìsi",
-"meaning; idea; opinion"
-],
-[
-"满意",
-3,
-"mǎnyì",
-"satisfied; pleased"
-],
-[
-"同意",
-3,
-"tóngyì",
-"agree; to consent; approve"
+"yì si",
+"idea; opinion; meaning; wish; desire; interest; fun; token of appreciation, affection etc; CL:個|个[ge4]; to give as a small token; to do sth as a gesture of goodwill etc"
 ],
 [
 "愿意",
 3,
-"yuànyì",
-"be willing; want to; be ready"
+"yuàn yì",
+"to wish; to want; ready; willing (to do sth)"
 ],
 [
 "注意",
 3,
-"zhùyì",
-"pay attention to; take notice of; be careful"
+"zhù yì",
+"to take note of; to pay attention to"
 ],
 [
-"得意",
-4,
-"déyì",
-"proud of oneself; complacent"
+"同意",
+3,
+"tóng yì",
+"to agree; to consent; to approve"
 ],
 [
-"故意",
-4,
-"gùyì",
-"deliberately; intentional; on purpose"
-],
-[
-"生意",
-4,
-"shēngyi",
-"business; trade"
-],
-[
-"意见",
-4,
-"yìjiàn",
-"opinion; view; suggestion; complaint"
+"满意",
+3,
+"mǎn yì",
+"satisfied; pleased; to one's satisfaction"
 ],
 [
 "主意",
 4,
-"zhǔyi",
-"plan; idea; decision"
+"zhǔ yi",
+"plan; idea; decision; CL:個|个[ge4]; Beijing pr. [zhu2 yi5]"
 ],
 [
-"意外",
-5,
-"yìwài",
-"unexpected; accident; mishap"
+"生意",
+4,
+"shēng yì",
+"life force; vitality"
+],
+[
+"生意",
+4,
+"shēng yi",
+"business; CL:筆|笔[bi3]"
+],
+[
+"意见",
+4,
+"yì jiàn",
+"idea; opinion; suggestion; objection; complaint; CL:點|点[dian3],條|条[tiao2]"
+],
+[
+"故意",
+4,
+"gù yì",
+"deliberately; on purpose"
+],
+[
+"得意",
+4,
+"dé yì",
+"proud of oneself; pleased with oneself; complacent"
 ],
 [
 "意义",
 5,
-"yìyì",
-"meaning; significance"
+"yì yì",
+"sense; meaning; significance; importance; CL:個|个[ge4]"
 ],
 [
-"称心如意",
-6,
-"chènxīnrúyì",
-"find sth. satisfactory"
-],
-[
-"大意",
-6,
-"dàyì",
-"main idea; general idea; gist"
-],
-[
-"乐意",
-6,
-"lèyì",
-"be happy/willing do something; content; satisfied"
-],
-[
-"任意",
-6,
-"rènyì",
-"arbitrarily; at will; at random"
-],
-[
-"示意",
-6,
-"shìyì",
-"to signal; to hint; to gesture; to motion; to indicate (an idea to sb)"
-],
-[
-"随意",
-6,
-"suíyì",
-"as one wishes; according to one's wishes"
-],
-[
-"特意",
-6,
-"tèyì",
-"specially for; with the special intention of"
-],
-[
-"玩意儿",
-6,
-"wányìr",
-"thing; toy; gadget"
-],
-[
-"意料",
-6,
-"yìliào",
-"expectation; to anticipate; to think ahead"
+"意外",
+5,
+"yì wài",
+"unexpected; accident; mishap; CL:個|个[ge4]"
 ],
 [
 "意识",
 6,
-"yìshi",
-"realize; consciousness; awareness; sense"
-],
-[
-"意图",
-6,
-"yìtú",
-"intent; intention; intend"
+"yì shí",
+"consciousness; awareness; to be aware; to realize"
 ],
 [
 "意味着",
 6,
-"yìwèizhe",
-"signify; to mean; imply"
+"yì wèi zhe",
+"to signify; to mean; to imply"
 ],
 [
-"意向",
+"玩意儿",
 6,
-"yìxiàng",
-"will; intent; disposition"
+"wán yì r5",
+"erhua variant of 玩意[wan2 yi4]"
 ],
 [
-"意志",
+"乐意",
 6,
-"yìzhì",
-"will; willpower; determination"
+"lè yì",
+"to be willing to do sth; to be ready to do sth; to be happy to do sth; content; satisfied"
 ],
 [
 "在意",
 6,
 "zài yì",
-"care about; mind; care"
+"to care about; to mind"
+],
+[
+"随意",
+6,
+"suí yì",
+"as one wishes; according to one's wishes; at will; voluntary; conscious"
+],
+[
+"意志",
+6,
+"yì zhì",
+"will; willpower; determination; CL:個|个[ge4]"
+],
+[
+"意图",
+6,
+"yì tú",
+"intent; intention; to intend"
+],
+[
+"特意",
+6,
+"tè yì",
+"specially; intentionally"
+],
+[
+"任意",
+6,
+"rèn yì",
+"any; arbitrary; at will; at random"
+],
+[
+"意料",
+6,
+"yì liào",
+"to anticipate; to expect"
+],
+[
+"大意",
+6,
+"dà yì",
+"general idea; main idea"
+],
+[
+"大意",
+6,
+"dà yi",
+"careless"
+],
+[
+"示意",
+6,
+"shì yì",
+"to hint; to indicate (an idea to sb)"
+],
+[
+"意向",
+6,
+"yì xiàng",
+"intention; purpose; intent; inclination; disposition"
+],
+[
+"称心如意",
+6,
+"chèn xīn rú yì",
+"after one's heart (idiom); gratifying and satisfactory; everything one could wish"
 ]
 ],
 "extraWords": [
 [
 "不好意思",
 143.23,
-"bu4 hao3 yi4 si5",
+"bù hǎo yì si",
 "to feel embarrassed; to find it embarrassing; to be sorry (for inconveniencing sb)"
 ],
 [
 "介意",
 120.82,
-"jie4 yi4",
+"jiè yì",
 "to care about; to take offense; to mind"
 ],
 [
 "有意思",
 90.29,
-"you3 yi4 si5",
+"yǒu yì si",
 "interesting; meaningful; enjoyable; fun"
 ],
 [
 "玩意",
 69.58,
-"wan2 yi4",
+"wán yì",
 "toy; plaything; thing; act; trick (in a performance, stage show, acrobatics etc)"
 ],
 [
 "意大利",
 57.55,
-"Yi4 da4 li4",
+"Yì dà lì",
 "Italy; Italian"
+],
+[
+"创意",
+44.53,
+"chuàng yì",
+"creative; creativity"
 ],
 [
 "注意力",
 33.3,
-"zhu4 yi4 li4",
+"zhù yì lì",
 "attention"
 ],
 [
 "意味",
 24.38,
-"yi4 wei4",
+"yì wèi",
 "meaning; implication; flavor; overtone; to mean; to imply; (Tw) to get a sense of"
 ],
 [
 "有意",
 19.25,
-"you3 yi4",
+"yǒu yì",
 "to intend; intentionally; interested in"
+],
+[
+"无意",
+17.59,
+"wú yì",
+"inadvertent; accidental; to have no intention of (doing sth)"
+],
+[
+"意愿",
+14.67,
+"yì yuàn",
+"aspiration; wish (for); desire"
 ],
 [
 "刻意",
 12.87,
-"ke4 yi4",
+"kè yì",
 "meticulous; painstaking; deliberate"
 ],
 [
 "留意",
 12.3,
-"liu2 yi4",
+"liú yì",
 "to be mindful; to pay attention to; to take note of"
+],
+[
+"恶意",
+11.74,
+"è yì",
+"malice; evil intention"
 ],
 [
 "中意",
 11.72,
-"Zhong1 Yi4",
+"Zhōng Yì",
 "Sino-Italian"
 ],
 [
 "中意",
 11.72,
-"zhong4 yi4",
+"zhòng yì",
 "to take one's fancy; to be to one's liking"
 ],
 [
 "心意",
 9.76,
-"xin1 yi4",
+"xīn yì",
 "regard; kindly feelings; intention"
+],
+[
+"不经意",
+9.6,
+"bù jīng yì",
+"not paying attention; carelessly; by accident"
+],
+[
+"诚意",
+8.96,
+"chéng yì",
+"sincerity; good faith"
 ],
 [
 "民意",
 8.81,
-"min2 yi4",
+"mín yì",
 "public opinion; popular will; public will"
 ],
 [
 "做生意",
 8.66,
-"zuo4 sheng1 yi4",
+"zuò shēng yì",
 "to do business"
+],
+[
+"惬意",
+8.21,
+"qiè yì",
+"satisfied; pleased; contented"
 ],
 [
 "好意",
 7.48,
-"hao3 yi4",
+"hǎo yì",
 "good intention; kindness"
 ],
 [
 "如意",
 7.32,
-"ru2 yi4",
+"rú yì",
 "as one wants; according to one's wishes; ruyi scepter, a symbol of power and good fortune"
+],
+[
+"意识形态",
+6.53,
+"yì shí xíng tài",
+"ideology"
 ],
 [
 "善意",
 6.52,
-"shan4 yi4",
+"shàn yì",
 "goodwill; benevolence; kindness"
 ],
 [
 "意境",
 6.51,
-"yi4 jing4",
+"yì jìng",
 "artistic mood or conception; creative concept"
 ],
 [
 "意想不到",
 6.48,
-"yi4 xiang3 bu4 dao4",
+"yì xiǎng bù dào",
 "unexpected; previously unimagined"
 ],
 [
 "全心全意",
 6.47,
-"quan2 xin1 quan2 yi4",
+"quán xīn quán yì",
 "heart and soul; wholeheartedly"
 ],
 [
 "敬意",
 5.93,
-"jing4 yi4",
+"jìng yì",
 "respect; tribute"
 ],
 [
 "歉意",
 5.87,
-"qian4 yi4",
+"qiàn yì",
 "apology; regret"
 ],
 [
 "旨意",
 5.75,
-"zhi3 yi4",
+"zhǐ yì",
 "decree; order"
+],
+[
+"没意思",
+5.37,
+"méi yì si",
+"boring; of no interest"
+],
+[
+"无意中",
+5.31,
+"wú yì zhōng",
+"accidentally; unintentionally; unexpectedly"
 ],
 [
 "出人意料",
 5.25,
-"chu1 ren2 yi4 liao4",
+"chū rén yì liào",
 "unexpected (idiom); surprising"
 ],
 [
 "笑意",
 5.1,
-"xiao4 yi4",
+"xiào yì",
 "smiling expression"
 ]
 ],

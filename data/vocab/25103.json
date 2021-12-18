@@ -9,17 +9,66 @@
 [
 "游戏",
 3,
-"yóuxì",
-"game; play; recreation"
+"yóu xì",
+"game; CL:場|场[chang3]; to play"
 ],
 [
 "戏剧",
 5,
-"xìjù",
+"xì jù",
 "drama; play; theater"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"演戏",
+13.77,
+"yǎn xì",
+"to put on a play; to perform; fig. to pretend; to feign"
+],
+[
+"马戏团",
+11.83,
+"mǎ xì tuán",
+"circus"
+],
+[
+"把戏",
+11.74,
+"bǎ xì",
+"acrobatics; jugglery; cheap trick; game"
+],
+[
+"拍戏",
+7.61,
+"pāi xì",
+"to shoot a movie"
+],
+[
+"没戏",
+7.42,
+"méi xì",
+"(coll.) not a chance; no way; hopeless"
+],
+[
+"戏曲",
+6.38,
+"xì qǔ",
+"Chinese opera"
+],
+[
+"调戏",
+5.93,
+"tiáo xì",
+"to take liberties with a woman; to dally; to assail a woman with obscenities"
+],
+[
+"戏剧性",
+5.25,
+"xì jù xìng",
+"dramatic"
+]
+],
 "strokes": [
 "M 342 336 Q 378 406 410 509 Q 420 537 440 557 Q 458 575 444 587 Q 431 599 398 608 Q 377 614 321 589 Q 239 562 159 553 Q 146 552 141 545 Q 137 538 155 531 Q 191 518 239 533 Q 315 558 330 557 Q 357 556 350 527 Q 332 433 302 367 L 275 322 Q 212 229 83 184 Q 70 178 82 172 Q 88 165 130 169 Q 182 175 244 220 Q 281 245 310 285 L 342 336 Z",
 "M 310 285 Q 388 200 398 195 Q 405 194 413 202 Q 423 214 414 252 Q 407 288 342 336 L 302 367 Q 179 448 168 455 Q 161 459 159 449 Q 158 437 167 428 Q 218 382 275 322 L 310 285 Z",

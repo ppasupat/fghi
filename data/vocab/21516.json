@@ -9,190 +9,286 @@
 [
 "同学",
 1,
-"tóngxué",
-"fellow student; schoolmate"
-],
-[
-"同事",
-3,
-"tóngshì",
-"colleague; co-worker"
+"tóng xué",
+"to study at the same school; fellow student; classmate; CL:位[wei4],個|个[ge4]"
 ],
 [
 "同意",
 3,
-"tóngyì",
-"agree; to consent; approve"
+"tóng yì",
+"to agree; to consent; to approve"
 ],
 [
-"共同",
-4,
-"gòngtóng",
-"together; common; joint"
-],
-[
-"同情",
-4,
-"tóngqíng",
-"compassion; sympathy"
+"同事",
+3,
+"tóng shì",
+"colleague; co-worker; CL:個|个[ge4],位[wei4]"
 ],
 [
 "同时",
 4,
-"tóngshí",
+"tóng shí",
 "at the same time; simultaneously"
 ],
 [
 "相同",
 4,
-"xiāngtóng",
-"identical; same; alike"
+"xiāng tóng",
+"identical; same"
+],
+[
+"共同",
+4,
+"gòng tóng",
+"common; joint; jointly; together; collaborative"
+],
+[
+"同情",
+4,
+"tóng qíng",
+"to sympathize with; sympathy"
 ],
 [
 "合同",
 5,
-"hétong",
-"contract"
+"hé tong",
+"(business) contract; CL:個|个[ge4]"
 ],
 [
 "胡同",
 5,
-"hútòng",
-"lane; alley"
+"hú tòng",
+"lane; alley; CL:條|条[tiao2]"
 ],
 [
-"连同",
-6,
-"liántóng",
-"together with; along with"
-],
-[
-"同胞",
-6,
-"tóngbāo",
-"compatriot; fellow countryman"
+"胡同",
+5,
+"hú tòng",
+"variant of 胡同[hu2 tong4]"
 ],
 [
 "同志",
 6,
-"tóngzhì",
-"comrade; gay (slang)"
+"tóng zhì",
+"comrade; (slang) homosexual; CL:個|个[ge4]"
+],
+[
+"同胞",
+6,
+"tóng bāo",
+"born of the same parents; sibling; fellow citizen; compatriot"
+],
+[
+"连同",
+6,
+"lián tóng",
+"together with; along with"
 ]
 ],
 "extraWords": [
 [
 "不同",
 374.99,
-"bu4 tong2",
+"bù tóng",
 "different; distinct; not the same; not alike"
+],
+[
+"同样",
+139.19,
+"tóng yàng",
+"same; equal; equivalent"
+],
+[
+"同性恋",
+98.31,
+"tóng xìng liàn",
+"homosexuality; gay person; gay love"
 ],
 [
 "同期",
 62.28,
-"tong2 qi1",
+"tóng qī",
 "the corresponding time period (in a different year etc); concurrent; synchronous"
 ],
 [
 "同一",
 53.05,
-"tong2 yi1",
+"tóng yī",
 "identical; the same"
+],
+[
+"与此同时",
+33.46,
+"yǔ cǐ tóng shí",
+"at the same time; meanwhile"
 ],
 [
 "如同",
 30.67,
-"ru2 tong2",
+"rú tóng",
 "like; as"
 ],
 [
 "同步",
 25.71,
-"tong2 bu4",
+"tóng bù",
 "synchronous; to synchronize; to keep step with"
 ],
 [
 "同行",
 21.55,
-"tong2 hang2",
+"tóng háng",
 "person of the same profession; of the same trade, occupation or industry"
 ],
 [
 "同行",
 21.55,
-"tong2 xing2",
+"tóng xíng",
 "to journey together"
+],
+[
+"认同",
+21.41,
+"rèn tóng",
+"to approve of; to endorse; to acknowledge; to recognize; to identify oneself with"
 ],
 [
 "一同",
 19.89,
-"yi1 tong2",
+"yī tóng",
 "along; together"
+],
+[
+"与众不同",
+19.47,
+"yǔ zhòng bù tóng",
+"to stand out from the masses (idiom)"
 ],
 [
 "陪同",
 17.71,
-"pei2 tong2",
+"péi tóng",
 "to accompany"
 ],
 [
 "同伴",
 16.25,
-"tong2 ban4",
+"tóng bàn",
 "companion; comrade; fellow"
+],
+[
+"同类",
+14.73,
+"tóng lèi",
+"similar; same type; alike"
 ],
 [
 "同伙",
 14.25,
-"tong2 huo3",
+"tóng huǒ",
 "colleague; co-conspirator; accomplice"
+],
+[
+"赞同",
+13.25,
+"zàn tóng",
+"to approve of; to endorse; (vote) in favor"
+],
+[
+"赞同",
+13.25,
+"zàn tóng",
+"to approve of; to endorse; (vote) in favor"
+],
+[
+"共同点",
+11.48,
+"gòng tóng diǎn",
+"common ground"
 ],
 [
 "同年",
 10.93,
-"tong2 nian2",
+"tóng nián",
 "the same year"
+],
+[
+"协同",
+10.57,
+"xié tóng",
+"to cooperate; in coordination with; coordinated; collaborate; collaboration; collaborative"
 ],
 [
 "同等",
 9.18,
-"tong2 deng3",
+"tóng děng",
 "equal to; having the same social class or status"
 ],
 [
 "同感",
 9.12,
-"tong2 gan3",
+"tóng gǎn",
 "(have the) same feeling; similar impression; common feeling"
+],
+[
+"会同",
+8.91,
+"Huì tóng",
+"Huitong county in Huaihua 懷化|怀化[Huai2 hua4], Hunan"
+],
+[
+"会同",
+8.91,
+"huì tóng",
+"to handle sth jointly"
 ],
 [
 "同居",
 6.28,
-"tong2 ju1",
+"tóng jū",
 "to live together"
 ],
 [
 "同盟",
 6.25,
-"tong2 meng2",
+"tóng méng",
 "alliance"
 ],
 [
 "有所不同",
 6.09,
-"you3 suo3 bu4 tong2",
+"yǒu suǒ bù tóng",
 "to differ to some extent (idiom)"
 ],
 [
 "等同",
 5.9,
-"deng3 tong2",
+"děng tóng",
 "to equate; equal to"
+],
+[
+"不约而同",
+5.43,
+"bù yuē ér tóng",
+"to agree by chance (idiom); taking the same action without prior consultation"
 ],
 [
 "大同",
 5.41,
-"Da4 tong2",
+"Dà tóng",
 "(Confucianism) Great Harmony (concept of an ideal society)"
+],
+[
+"同业",
+5.4,
+"tóng yè",
+"same trade or business; person in the same trade or business"
+],
+[
+"同谋",
+5.34,
+"tóng móu",
+"to conspire with sb; to plot; a conspirator; a partner in crime; an accomplice"
 ]
 ],
 "strokes": [

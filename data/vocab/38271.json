@@ -9,101 +9,498 @@
 [
 "长",
 2,
-"cháng, zhǎng",
-"long; length | grow; chief (Kangxi radical 168)"
+"cháng",
+"length; long; forever; always; constantly"
 ],
 [
-"校长",
-3,
-"xiàozhǎng",
-"principal (of school, college or university); president; headmaster"
+"长",
+2,
+"zhǎng",
+"chief; head; elder; to grow; to develop; to increase; to enhance"
 ],
 [
 "长",
 3,
-"cháng, zhǎng",
-"long; length | grow; chief (Kangxi radical 168)"
+"cháng",
+"length; long; forever; always; constantly"
+],
+[
+"长",
+3,
+"zhǎng",
+"chief; head; elder; to grow; to develop; to increase; to enhance"
+],
+[
+"校长",
+3,
+"xiào zhǎng",
+"(college, university) president; headmaster; CL:個|个[ge4],位[wei4],名[ming2]"
 ],
 [
 "长城",
 4,
-"chángchéng",
+"Cháng chéng",
 "the Great Wall"
 ],
 [
 "长江",
 4,
-"Chángjiāng",
-"the Yangtze River; the Changjiang River"
-],
-[
-"长途",
-5,
-"chángtú",
-"long distance"
+"Cháng Jiāng",
+"Yangtze River, or Chang Jiang"
 ],
 [
 "成长",
 5,
-"chéngzhǎng",
-"to mature; grow up"
+"chéng zhǎng",
+"to mature; to grow; growth"
 ],
 [
 "生长",
 5,
-"shēngzhǎng",
-"grow; grow up"
+"shēng zhǎng",
+"to grow"
 ],
 [
 "延长",
 5,
-"yáncháng",
-"extend; prolong; lengthen"
+"Yán cháng",
+"Yanchang county in Yan'an 延安[Yan2 an1], Shaanxi"
+],
+[
+"延长",
+5,
+"yán cháng",
+"to prolong; to extend; to delay"
+],
+[
+"长途",
+5,
+"cháng tú",
+"long distance"
 ],
 [
 "长辈",
 5,
-"zhǎngbèi",
-"an elder; an elder generation"
-],
-[
-"拔苗助长",
-6,
-"bámiáozhùzhǎng",
-"(literally) help shoots grow by pulling them out; spoil things by excessive enthusiasm"
-],
-[
-"董事长",
-6,
-"dǒngshìzhǎng",
-"chairman of the board"
-],
-[
-"漫长",
-6,
-"màncháng",
-"very long; endless"
+"zhǎng bèi",
+"one's elders; older generation"
 ],
 [
 "擅长",
 6,
-"shàncháng",
-"be good at; be expert in"
+"shàn cháng",
+"to be good at; to be expert in"
 ],
 [
-"特长",
+"漫长",
 6,
-"tècháng",
-"strong point; specialty"
+"màn cháng",
+"very long; endless"
 ],
 [
 "专长",
 6,
-"zhuāncháng",
+"zhuān cháng",
 "specialty; special knowledge or ability"
+],
+[
+"特长",
+6,
+"tè cháng",
+"personal strength; one's special ability or strong points"
+],
+[
+"拔苗助长",
+6,
+"bá miáo zhù zhǎng",
+"to spoil things through excessive enthusiasm (idiom)"
+],
+[
+"董事长",
+6,
+"dǒng shì zhǎng",
+"chairman of the board; chairman"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"增长",
+327.85,
+"zēng zhǎng",
+"to grow; to increase"
+],
+[
+"长官",
+202.11,
+"zhǎng guān",
+"senior official; senior officer; commanding officer; CL:位[wei4]; sir (term of address for senior officer)"
+],
+[
+"长期",
+131.72,
+"cháng qī",
+"long term; long time; long range (of a forecast)"
+],
+[
+"家长",
+68.8,
+"jiā zhǎng",
+"head of a household; family head; patriarch; parent or guardian of a child"
+],
+[
+"长大",
+53.57,
+"zhǎng dà",
+"to grow up"
+],
+[
+"队长",
+51.6,
+"duì zhǎng",
+"captain; team leader; CL:個|个[ge4]"
+],
+[
+"船长",
+41.61,
+"chuán zhǎng",
+"captain (of a boat); skipper"
+],
+[
+"部长",
+38.36,
+"bù zhǎng",
+"head of a (government etc) department; section chief; section head; secretary; minister; CL:個|个[ge4],位[wei4],名[ming2]"
+],
+[
+"局长",
+37.9,
+"jú zhǎng",
+"bureau chief; CL:位[wei4],個|个[ge4]"
+],
+[
+"市长",
+31.06,
+"shì zhǎng",
+"mayor"
+],
+[
+"长沙",
+28.69,
+"Cháng shā",
+"Changsha prefecture-level city and capital of Hunan province in south central China"
+],
+[
+"会长",
+26.44,
+"huì zhǎng",
+"president of a club, committee etc"
+],
+[
+"长达",
+24.04,
+"cháng dá",
+"to extend as long as; to lengthen out to"
+],
+[
+"秘书长",
+23.33,
+"mì shū zhǎng",
+"secretary-general"
+],
+[
+"探长",
+21.22,
+"tàn zhǎng",
+"(police) detective"
+],
+[
+"院长",
+20.69,
+"yuàn zhǎng",
+"the head of an institution whose name ends in 院[yuan4]; chair of a board; president of a university; department head; dean; premier of the Republic of China; CL:個|个[ge4]"
+],
+[
+"长远",
+20.37,
+"cháng yuǎn",
+"long-term; long-range"
+],
+[
+"增长率",
+18.6,
+"zēng zhǎng lu:4",
+"growth rate (esp. in economics)"
+],
+[
+"长春",
+17.45,
+"Cháng chūn",
+"Changchun subprovincial city and capital of Jilin province 吉林省 in northeast China"
+],
+[
+"副部长",
+16.65,
+"fù bù zhǎng",
+"assistant (government) minister"
+],
+[
+"长度",
+16.64,
+"cháng dù",
+"length"
+],
+[
+"所长",
+16.12,
+"suǒ cháng",
+"what one is good at"
+],
+[
+"所长",
+16.12,
+"suǒ zhǎng",
+"head of an institute etc"
+],
+[
+"长征",
+15.48,
+"Cháng zhēng",
+"Long March (retreat of the Red Army 1934-1935)"
+],
+[
+"长征",
+15.48,
+"cháng zhēng",
+"expedition; long journey"
+],
+[
+"副市长",
+15.09,
+"fù shì zhǎng",
+"deputy mayor"
+],
+[
+"长久",
+14.8,
+"cháng jiǔ",
+"(for a) long time"
+],
+[
+"长安",
+14.79,
+"Cháng ān",
+"Chang'an (ancient name of Xi'an 西安[Xi1 an1]) capital of China during Tang Dynasty 唐朝[Tang2 chao2]; now 長安區|长安区[Chang2 an1 Qu1], a district of Xi'an"
+],
+[
+"组长",
+14.3,
+"zǔ zhǎng",
+"group leader"
+],
+[
+"团长",
+13.94,
+"tuán zhǎng",
+"regimental command; head of a delegation"
+],
+[
+"行长",
+13.85,
+"háng zhǎng",
+"bank president"
+],
+[
+"州长",
+13.32,
+"zhōu zhǎng",
+"governor (of a province or colony); US state governor; premier (Australian states)"
+],
+[
+"长袖",
+11.38,
+"cháng xiù",
+"long sleeves; long-sleeved shirt"
+],
+[
+"处长",
+10.75,
+"chù zhǎng",
+"department head; section chief"
+],
+[
+"外长",
+10.36,
+"wài zhǎng",
+"foreign minister; secretary of state; minister of foreign affairs"
+],
+[
+"班长",
+10.09,
+"bān zhǎng",
+"class monitor; squad leader; team leader; CL:個|个[ge4]"
+],
+[
+"说来话长",
+9.72,
+"shuō lái huà cháng",
+"start explaining and it's a long story (idiom); complicated and not easy to express succinctly"
+],
+[
+"厂长",
+9.48,
+"chǎng zhǎng",
+"factory director"
+],
+[
+"长发",
+9.41,
+"cháng fà",
+"long hair"
+],
+[
+"长虹",
+9.09,
+"Cháng hóng",
+"Changhong (brand)"
+],
+[
+"长假",
+8.94,
+"cháng jià",
+"long vacation"
+],
+[
+"省长",
+8.67,
+"shěng zhǎng",
+"governor of a province"
+],
+[
+"长三角",
+8.43,
+"Cháng Sān jiǎo",
+"Yangtze River Delta (abbr. for 長江三角洲|长江三角洲[Chang2 jiang1 San1 jiao3 zhou1])"
+],
+[
+"全长",
+8.4,
+"quán cháng",
+"overall length; span"
+],
+[
+"长相",
+8.29,
+"zhǎng xiàng",
+"appearance; looks; profile; countenance"
+],
+[
+"副院长",
+8.09,
+"fù yuàn zhǎng",
+"deputy chair of board; vice-president (of a university etc)"
+],
+[
+"长寿",
+7.83,
+"Cháng shòu",
+"Changshou suburban district of Chongqing municipality, formerly in Sichuan"
+],
+[
+"长寿",
+7.83,
+"cháng shòu",
+"longevity; ability to live long; long lived"
+],
+[
+"国防部长",
+7.63,
+"guó fáng bù zhǎng",
+"Defense secretary; Defense Minister"
+],
+[
+"长老",
+7.33,
+"zhǎng lǎo",
+"elder; term of respect for a Buddhist monk"
+],
+[
+"副秘书长",
+7.03,
+"fù mì shū zhǎng",
+"vice-secretary"
+],
+[
+"首长",
+6.35,
+"shǒu zhǎng",
+"senior official"
+],
+[
+"长短",
+6.28,
+"cháng duǎn",
+"length; duration; accident; right and wrong; good and bad; long and short"
+],
+[
+"机长",
+6.26,
+"jī zhǎng",
+"captain; chief pilot"
+],
+[
+"科长",
+6.06,
+"kē zhǎng",
+"section chief; CL:個|个[ge4]"
+],
+[
+"长沙市",
+5.54,
+"Cháng shā shì",
+"Changsha prefecture-level city and capital of Hunan province in south central China"
+],
+[
+"外交部长",
+5.52,
+"wài jiāo bù zhǎng",
+"minister of foreign affairs"
+],
+[
+"酋长",
+5.25,
+"qiú zhǎng",
+"headman (of primitive people); tribal chief; used as translation for foreign leaders, e.g. Indian Rajah or Arab Sheik or Emir"
+],
+[
+"委员长",
+5.21,
+"wěi yuán zhǎng",
+"head of a committee"
+],
+[
+"县长",
+5.17,
+"xiàn zhǎng",
+"county's head commissioner"
+],
+[
+"长春市",
+5.1,
+"Cháng chūn shì",
+"Changchun subprovincial city and capital of Jilin province 吉林省 in northeast China"
+],
+[
+"长话短说",
+5.1,
+"cháng huà duǎn shuō",
+"to make a long story short (idiom)"
+],
+[
+"社长",
+5.03,
+"shè zhǎng",
+"president or director (of association etc)"
+]
+],
 "strokes": [
 "M 618 736 Q 625 717 616 700 Q 568 610 459 505 Q 449 496 445 491 Q 439 481 454 481 Q 464 481 493 499 Q 524 515 563 549 Q 606 582 654 634 Q 676 659 692 670 Q 702 679 700 693 Q 699 706 674 733 Q 650 755 632 758 Q 613 759 618 736 Z",
 "M 498 376 Q 502 377 510 378 Q 561 382 608 389 Q 737 407 869 395 Q 894 394 900 402 Q 907 417 894 428 Q 863 456 816 475 Q 801 481 775 472 Q 687 451 477 421 Q 444 417 417 413 L 368 406 Q 170 384 144 381 Q 129 381 128 369 Q 128 356 148 342 Q 166 329 199 318 Q 209 314 229 323 Q 266 338 367 354 L 416 364 Q 431 368 450 370 L 498 376 Z",

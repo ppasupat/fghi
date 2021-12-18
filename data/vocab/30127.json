@@ -9,11 +9,24 @@
 [
 "疯狂",
 5,
-"fēngkuáng",
-"crazy; madness; wild; extreme popularity; insane; frenzied; unbridled"
+"fēng kuáng",
+"crazy; frantic; extreme popularity"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"疯子",
+63.88,
+"fēng zi",
+"madman; lunatic"
+],
+[
+"发疯",
+23.7,
+"fā fēng",
+"to go mad; to go crazy; to lose one's mind"
+]
+],
 "strokes": [
 "M 512 799 Q 536 780 562 758 Q 577 746 593 748 Q 605 749 609 764 Q 612 780 600 810 Q 590 835 503 848 Q 487 851 480 847 Q 476 843 478 829 Q 482 819 512 799 Z",
 "M 337 637 Q 392 630 415 633 Q 415 634 684 685 Q 745 698 754 707 Q 764 714 759 724 Q 752 736 722 744 Q 698 750 584 715 Q 445 679 330 670 Q 329 670 328 669 C 298 665 307 641 337 637 Z",

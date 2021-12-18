@@ -10,16 +10,47 @@
 "挡",
 5,
 "dǎng",
-"to block; hinder; gear; equipment"
+"to resist; to obstruct; to hinder; to keep off; to block (a blow); to get in the way of; cover; gear (e.g. in a car's transmission)"
+],
+[
+"挡",
+5,
+"dàng",
+"to arrange; to put in order"
+],
+[
+"挡",
+5,
+"dǎng",
+"variant of 擋|挡[dang3]"
 ],
 [
 "遮挡",
 6,
-"zhēdǎng",
-"shelter from; keep out"
+"zhē dǎng",
+"to shelter; to shelter from"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"挡住",
+12.28,
+"dǎng zhù",
+"to obstruct"
+],
+[
+"阻挡",
+10.41,
+"zǔ dǎng",
+"to stop; to resist; to obstruct"
+],
+[
+"抵挡",
+6.95,
+"dǐ dǎng",
+"to resist; to hold back; to stop; to ward off; to withstand"
+]
+],
 "strokes": [
 "M 316 545 Q 385 569 389 571 Q 398 580 392 588 Q 385 600 354 604 Q 335 607 318 602 L 267 582 Q 195 557 126 543 Q 89 533 118 519 Q 164 498 218 517 Q 240 524 266 530 L 316 545 Z",
 "M 262 335 Q 261 250 259 140 Q 258 118 245 109 Q 239 103 165 116 Q 132 126 135 116 Q 136 109 157 95 Q 223 47 240 19 Q 259 -14 276 -15 Q 289 -15 304 19 Q 322 65 319 137 Q 313 257 313 375 L 313 408 Q 313 478 316 545 L 318 602 Q 318 603 319 603 Q 323 691 338 736 Q 354 767 300 789 Q 266 808 247 802 Q 229 795 245 772 Q 267 745 267 711 Q 268 696 267 582 L 266 530 Q 265 466 263 378 L 262 335 Z",

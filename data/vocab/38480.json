@@ -9,82 +9,112 @@
 [
 "限制",
 5,
-"xiànzhì",
-"restrictions; to limit; to bound"
+"xiàn zhì",
+"to restrict; to limit; to confine; restriction; limit; CL:個|个[ge4]"
 ],
 [
 "极限",
 6,
-"jíxiàn",
+"jí xiàn",
 "limit; extreme boundary"
 ],
 [
 "界限",
 6,
-"jièxiàn",
-"boundary; marginal; limit"
-],
-[
-"局限",
-6,
-"júxiàn",
-"to limit; confine; restrict or confine sth."
+"jiè xiàn",
+"boundary"
 ],
 [
 "期限",
 6,
-"qīxiàn",
+"qī xiàn",
 "time limit; deadline; allotted time"
+],
+[
+"局限",
+6,
+"jú xiàn",
+"variant of 局限[ju2 xian4]"
+],
+[
+"局限",
+6,
+"jú xiàn",
+"to limit; to confine; to restrict sth within set boundaries"
 ]
 ],
 "extraWords": [
 [
 "有限公司",
 93.76,
-"you3 xian4 gong1 si1",
+"yǒu xiàn gōng sī",
 "limited company; corporation"
 ],
 [
 "有限",
 53.76,
-"you3 xian4",
+"yǒu xiàn",
 "limited; finite"
+],
+[
+"无限",
+38.73,
+"wú xiàn",
+"unlimited; unbounded"
 ],
 [
 "股份有限公司",
 26.88,
-"gu3 fen4 you3 xian4 gong1 si1",
+"gǔ fèn yǒu xiàn gōng sī",
 "joint-stock limited company; corporation"
+],
+[
+"限于",
+11.34,
+"xiàn yú",
+"to be limited to; to be confined to"
+],
+[
+"权限",
+8.65,
+"quán xiàn",
+"scope of authority; extent of power; (access etc) privileges"
 ],
 [
 "上限",
 8.5,
-"shang4 xian4",
+"shàng xiàn",
 "upper bound"
 ],
 [
 "限期",
 7.87,
-"xian4 qi1",
+"xiàn qī",
 "to set a time limit; time limit; deadline"
 ],
 [
 "年限",
 7.77,
-"nian2 xian4",
+"nián xiàn",
 "age limit; fixed number of years"
 ],
 [
 "限定",
 7.26,
-"xian4 ding4",
+"xiàn dìng",
 "to restrict to; to limit"
 ],
 [
 "限度",
 6.03,
-"xian4 du4",
+"xiàn dù",
 "limitation; limit"
+],
+[
+"限价",
+5.2,
+"xiàn jià",
+"limit on price"
 ]
 ],
 "strokes": [

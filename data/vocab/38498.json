@@ -9,106 +9,184 @@
 [
 "医院",
 1,
-"yīyuàn",
-"hospital"
+"yī yuàn",
+"hospital; CL:所[suo3],家[jia1],座[zuo4]"
 ],
 [
 "法院",
 5,
-"fǎyuàn",
-"court of law"
+"fǎ yuàn",
+"court of law; court"
 ],
 [
 "国务院",
 6,
-"guówùyuàn",
+"Guó wù yuàn",
 "State Council (PRC); State Department (USA)"
 ]
 ],
 "extraWords": [
 [
+"学院",
+62.29,
+"xué yuàn",
+"college; educational institute; school; faculty; CL:所[suo3]"
+],
+[
 "院校",
 27.21,
-"yuan4 xiao4",
+"yuàn xiào",
 "college; academy; educational institution"
 ],
 [
 "住院",
 26.57,
-"zhu4 yuan4",
+"zhù yuàn",
 "to be in hospital; to be hospitalized"
+],
+[
+"院长",
+20.69,
+"yuàn zhǎng",
+"the head of an institution whose name ends in 院[yuan4]; chair of a board; president of a university; department head; dean; premier of the Republic of China; CL:個|个[ge4]"
+],
+[
+"剧院",
+17.71,
+"jù yuàn",
+"theater; CL:家[jia1],座[zuo4]"
 ],
 [
 "人民法院",
 16.34,
-"ren2 min2 fa3 yuan4",
+"rén mín fǎ yuàn",
 "people's court (of law); people's tribunal"
 ],
 [
 "出院",
 12.1,
-"chu1 yuan4",
+"chū yuàn",
 "to leave hospital; to be discharged from hospital"
 ],
 [
 "院士",
 12.04,
-"yuan4 shi4",
+"yuàn shì",
 "scholar; academician; fellow (of an academy)"
 ],
 [
 "院子",
 11.33,
-"yuan4 zi5",
+"yuàn zi",
 "courtyard; garden; yard; patio; CL:個|个[ge4]; (old) servant"
+],
+[
+"后院",
+11.21,
+"hòu yuàn",
+"rear court; back garden; backyard (also fig.)"
 ],
 [
 "研究院",
 11.1,
-"yan2 jiu1 yuan4",
+"yán jiū yuàn",
 "research institute; academy"
 ],
 [
 "影院",
 10.25,
-"ying3 yuan4",
+"yǐng yuàn",
 "cinema; movie theater"
 ],
 [
 "入院",
 9.94,
-"ru4 yuan4",
+"rù yuàn",
 "to enter hospital; to be hospitalized"
+],
+[
+"电影院",
+9.72,
+"diàn yǐng yuàn",
+"cinema; movie theater; CL:家[jia1],座[zuo4]"
+],
+[
+"医学院",
+8.47,
+"yī xué yuàn",
+"medical school"
+],
+[
+"检察院",
+8.1,
+"jiǎn chá yuàn",
+"prosecutor's office; procuratorate"
+],
+[
+"副院长",
+8.09,
+"fù yuàn zhǎng",
+"deputy chair of board; vice-president (of a university etc)"
+],
+[
+"科学院",
+7.56,
+"kē xué yuàn",
+"academy of sciences; CL:個|个[ge4]"
+],
+[
+"中国科学院",
+7.04,
+"Zhōng guó Kē xué yuàn",
+"Chinese Academy of Science"
+],
+[
+"法学院",
+6.59,
+"fǎ xué yuàn",
+"law school"
 ],
 [
 "大院",
 6.56,
-"da4 yuan4",
+"dà yuàn",
 "courtyard (surrounded by many buildings); compound; great institution"
+],
+[
+"孤儿院",
+6.56,
+"gū ér yuàn",
+"orphanage; child asylum"
 ],
 [
 "修道院",
 6.53,
-"xiu1 dao4 yuan4",
+"xiū dào yuàn",
 "monastery; convent"
 ],
 [
 "最高人民法院",
 6.12,
-"Zui4 gao1 Ren2 min2 Fa3 yuan4",
+"Zuì gāo Rén mín Fǎ yuàn",
 "Supreme People's Court (PRC)"
 ],
 [
 "中科院",
 5.47,
-"Zhong1 ke1 yuan4",
+"Zhōng kē yuàn",
 "abbr. for 中國社會科學院|中国社会科学院[Zhong1 guo2 She4 hui4 Ke1 xue2 yuan4], Chinese Academy of Sciences (CAS)"
 ],
 [
 "社科院",
 5.23,
-"She4 ke1 yuan4",
+"Shè kē yuàn",
 "(Chinese) Academy of Social Sciences (CASS)"
+],
+[
+"参议院",
+5.07,
+"cān yì yuàn",
+"senate; upper chamber (of legislative assembly)"
 ]
 ],
 "strokes": [

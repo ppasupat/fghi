@@ -9,35 +9,162 @@
 [
 "老师",
 1,
-"lǎoshī",
-"teacher"
+"lǎo shī",
+"teacher; CL:個|个[ge4],位[wei4]"
 ],
 [
 "律师",
 4,
-"lǜshī",
+"lu:4 shī",
 "lawyer"
 ],
 [
 "师傅",
 4,
-"shīfu",
-"master; qualified worker; teacher"
+"shī fu",
+"master; qualified worker; respectful form of address for older men; CL:個|个[ge4],位[wei4],名[ming2]"
 ],
 [
 "工程师",
 5,
-"gōngchéngshī",
-"engineer"
+"gōng chéng shī",
+"engineer; CL:個|个[ge4],位[wei4],名[ming2]"
 ],
 [
 "师范",
 6,
-"shīfàn",
-"teacher-training; pedagogical; normal (school)"
+"shī fàn",
+"teacher-training; pedagogical; normal (school, e.g. Beijing Normal University)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"教师",
+109.48,
+"jiào shī",
+"teacher; CL:個|个[ge4]"
+],
+[
+"大师",
+40.42,
+"dà shī",
+"great master; master"
+],
+[
+"牧师",
+39.29,
+"mù shī",
+"chaplain; churchman; clergyman; parson; pastor; priest; rector"
+],
+[
+"设计师",
+24.79,
+"shè jì shī",
+"designer; architect"
+],
+[
+"摄影师",
+22.27,
+"shè yǐng shī",
+"photographer; cameraman"
+],
+[
+"分析师",
+21.53,
+"fēn xī shī",
+"analyst; commentator"
+],
+[
+"会计师",
+16.26,
+"kuài jì shī",
+"accountant"
+],
+[
+"师生",
+16.15,
+"shī shēng",
+"teachers and students"
+],
+[
+"巫师",
+15.08,
+"wū shī",
+"wizard; magician"
+],
+[
+"医师",
+14.64,
+"yī shī",
+"doctor"
+],
+[
+"师父",
+13.67,
+"shī fu",
+"used for 師傅|师傅 (in Taiwan); master; qualified worker"
+],
+[
+"师兄",
+13.2,
+"shī xiōng",
+"senior male fellow student or apprentice; son (older than oneself) of one's teacher"
+],
+[
+"厨师",
+13.06,
+"chú shī",
+"cook; chef"
+],
+[
+"导师",
+11.68,
+"dǎo shī",
+"tutor; teacher; academic advisor"
+],
+[
+"法师",
+8.32,
+"fǎ shī",
+"one who has mastered the sutras (Buddhism)"
+],
+[
+"魔术师",
+8.02,
+"mó shù shī",
+"magician"
+],
+[
+"师资",
+7.57,
+"shī zī",
+"qualified teacher"
+],
+[
+"建筑师",
+5.93,
+"jiàn zhù shī",
+"architect"
+],
+[
+"师大",
+5.18,
+"shī dà",
+"abbr. for 師範大學|师范大学[shi1 fan4 da4 xue2], normal university; teacher training college"
+],
+[
+"师弟",
+5.16,
+"shī dì",
+"young disciple (of the same master); younger or junior male schoolmate"
+],
+[
+"师姐",
+5.01,
+"shī jiě",
+"senior female fellow student or apprentice; daughter (older than oneself) of one's teacher"
+]
+],
 "strokes": [
 "M 179 617 Q 209 536 188 411 Q 169 342 199 311 Q 209 299 216 311 Q 237 338 237 461 Q 237 566 242 592 Q 243 607 230 615 Q 211 630 188 636 Q 181 637 175 631 Q 172 627 179 617 Z",
 "M 330 721 Q 366 661 350 435 Q 346 344 299 233 Q 269 155 159 45 Q 144 32 141 25 Q 140 18 152 18 Q 168 18 190 34 Q 247 74 280 113 Q 352 198 381 314 Q 411 470 411 662 Q 415 684 416 695 Q 422 717 400 727 Q 349 751 333 748 Q 312 744 330 721 Z",

@@ -9,23 +9,54 @@
 [
 "失败",
 4,
-"shībài",
-"be defeated; fail; lose"
-],
-[
-"败坏",
-6,
-"bàihuài",
-"ruin; corrupt; undermine"
+"shī bài",
+"to be defeated; to lose; to fail (e.g. experiments); failure; defeat; CL:次[ci4]"
 ],
 [
 "腐败",
 6,
-"fǔbài",
-"corruption; corrupt; rotten"
+"fǔ bài",
+"corruption; to corrupt; to rot; rotten"
+],
+[
+"败坏",
+6,
+"bài huài",
+"to ruin; to corrupt; to undermine"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"打败",
+37.86,
+"dǎ bài",
+"to defeat; to overpower; to beat; to be defeated"
+],
+[
+"击败",
+31.24,
+"jī bài",
+"to defeat; to beat"
+],
+[
+"失败者",
+17.5,
+"shī bài zhě",
+"loser"
+],
+[
+"反腐败",
+7.81,
+"fǎn fǔ bài",
+"to oppose corruption; anti-graft (measures, policy etc)"
+],
+[
+"成败",
+5.85,
+"chéng bài",
+"success or failure"
+]
+],
 "strokes": [
 "M 207 674 Q 188 690 164 696 Q 155 697 149 690 Q 146 684 154 674 Q 200 562 163 346 Q 147 297 152 273 Q 162 240 173 228 Q 183 215 193 228 Q 220 255 220 435 Q 223 543 226 650 C 226 660 226 660 207 674 Z",
 "M 371 313 Q 364 292 377 272 Q 390 245 398 246 Q 411 247 426 277 Q 439 301 438 320 Q 425 419 426 572 Q 425 617 450 654 Q 459 669 452 677 Q 427 699 385 717 Q 372 721 350 714 Q 293 689 207 674 C 177 669 197 642 226 650 Q 350 683 366 671 Q 378 644 382 572 Q 383 355 371 313 Z",

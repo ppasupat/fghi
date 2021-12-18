@@ -10,218 +10,308 @@
 "口",
 3,
 "kǒu",
-"mouth (Kangxi radical 30)"
+"mouth; classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls"
 ],
 [
 "入口",
 4,
-"rùkǒu",
-"entrance"
-],
-[
-"出口",
-5,
-"chūkǒu",
-"exit; speak; export"
+"rù kǒu",
+"entrance; to import"
 ],
 [
 "借口",
 5,
-"jièkǒu",
-"excuse"
+"jiè kǒu",
+"to use as an excuse; on the pretext; excuse; pretext"
+],
+[
+"出口",
+5,
+"chū kǒu",
+"an exit; CL:個|个[ge4]; to speak; to export; (of a ship) to leave port"
+],
+[
+"人口",
+5,
+"rén kǒu",
+"population; people"
+],
+[
+"口味",
+5,
+"kǒu wèi",
+"a person's preferences; tastes (in food); flavor"
+],
+[
+"胃口",
+5,
+"wèi kǒu",
+"appetite; liking"
 ],
 [
 "进口",
 5,
 "jìn kǒu",
-"import; entrance; enter"
-],
-[
-"口味",
-5,
-"kǒuwèi",
-"a person's tastes or preferences"
-],
-[
-"人口",
-5,
-"rénkǒu",
-"population; the populace"
-],
-[
-"胃口",
-5,
-"wèikǒu",
-"appetite"
-],
-[
-"港口",
-6,
-"gǎngkǒu",
-"port; harbor"
-],
-[
-"可口",
-6,
-"kěkǒu",
-"tasty; taste good"
-],
-[
-"口气",
-6,
-"kǒuqì",
-"tone of voice; manner of speaking"
-],
-[
-"口腔",
-6,
-"kǒuqiāng",
-"space inside mouth (oral cavity)"
-],
-[
-"口头",
-6,
-"kǒutóu",
-"oral; verbal"
+"to import; imported; entrance; inlet (for the intake of air, water etc)"
 ],
 [
 "口音",
 6,
-"kǒuyīn",
-"accent"
+"kǒu yīn",
+"oral speech sounds (linguistics)"
+],
+[
+"口音",
+6,
+"kǒu yin",
+"voice; accent"
+],
+[
+"港口",
+6,
+"gǎng kǒu",
+"port; harbor"
+],
+[
+"口气",
+6,
+"kǒu qì",
+"tone of voice; the way one speaks; manner of expression; tone"
+],
+[
+"可口",
+6,
+"kě kǒu",
+"tasty; to taste good"
+],
+[
+"口头",
+6,
+"kǒu tóu",
+"oral; verbal"
+],
+[
+"口腔",
+6,
+"kǒu qiāng",
+"oral cavity"
 ],
 [
 "缺口",
 6,
-"quēkǒu",
-"gap; breach; shortfall"
+"quē kǒu",
+"nick; jag; gap; shortfall"
 ]
 ],
 "extraWords": [
 [
+"伤口",
+38.72,
+"shāng kǒu",
+"wound; cut"
+],
+[
 "接口",
 38.55,
-"jie1 kou3",
+"jiē kǒu",
 "interface; port; connector"
 ],
 [
 "一口",
 34.34,
-"yi1 kou3",
+"yī kǒu",
 "readily; flatly (deny, admit and so on); a mouthful; a bite"
+],
+[
+"开口",
+31.54,
+"kāi kǒu",
+"to open one's mouth; to start to talk"
 ],
 [
 "口袋",
 29.33,
-"kou3 dai4",
+"kǒu dài",
 "pocket; bag; sack; CL:個|个[ge4]"
 ],
 [
 "窗口",
 27.66,
-"chuang1 kou3",
+"chuāng kǒu",
 "window; opening providing restricted access (e.g. customer service window); computer operating system window; fig. medium; intermediary; showpiece; testing ground"
+],
+[
+"门口",
+24.95,
+"mén kǒu",
+"doorway; gate; CL:個|个[ge4]"
+],
+[
+"一口气",
+22.89,
+"yī kǒu qì",
+"one breath; in one breath; at a stretch"
 ],
 [
 "路口",
 22.57,
-"lu4 kou3",
+"lù kǒu",
 "crossing; intersection (of roads)"
+],
+[
+"口号",
+19.09,
+"kǒu hào",
+"slogan; catchphrase; CL:個|个[ge4]"
+],
+[
+"进出口",
+16.38,
+"jìn chū kǒu",
+"import and export"
+],
+[
+"户口",
+15.47,
+"hù kǒu",
+"population (counted as number of households for census or taxation); registered residence; residence permit; (in Hong Kong and Macau) bank account"
 ],
 [
 "口香糖",
 12.19,
-"kou3 xiang1 tang2",
+"kǒu xiāng táng",
 "chewing gum"
+],
+[
+"口径",
+11.66,
+"kǒu jìng",
+"caliber; diameter of opening"
 ],
 [
 "海口",
 11.35,
-"Hai3 kou3",
+"Hǎi kǒu",
 "Haikou prefecture-level city and capital of Hainan Province 海南省[Hai3 nan2 Sheng3]"
 ],
 [
 "海口",
 11.35,
-"hai3 kou3",
+"hǎi kǒu",
 "estuary; coastal inlet; river mouth; seaport; see also 誇海口|夸海口[kua1 hai3 kou3]"
 ],
 [
 "口岸",
 11.08,
-"kou3 an4",
+"kǒu àn",
 "a port for external trade; a trading or transit post on border between countries"
 ],
 [
 "口水",
 11.0,
-"kou3 shui3",
+"kǒu shuǐ",
 "saliva"
 ],
 [
 "口服",
 10.28,
-"kou3 fu2",
+"kǒu fú",
 "to take medicine orally; oral (contraceptive etc); to say that one is convinced"
 ],
 [
 "切口",
 9.21,
-"qie1 kou3",
+"qiē kǒu",
 "incision; notch; slit; gash; margin of a page; trimmed edge (of a page in a book)"
 ],
 [
 "切口",
 9.21,
-"qie4 kou3",
+"qiè kǒu",
 "slang; argot; private language used as secret code"
 ],
 [
 "胸口",
 8.97,
-"xiong1 kou3",
-"pit of the stomach"
+"xiōng kǒu",
+"chest"
 ],
 [
 "口信",
 8.53,
-"kou3 xin4",
+"kǒu xìn",
 "oral message"
 ],
 [
 "口供",
 7.66,
-"kou3 gong4",
+"kǒu gòng",
 "oral confession (as opposed to 筆供|笔供[bi3 gong4]); statement; deposition"
+],
+[
+"口红",
+7.3,
+"kǒu hóng",
+"lipstick"
 ],
 [
 "住口",
 6.95,
-"zhu4 kou3",
+"zhù kǒu",
 "shut up; shut your mouth; stop talking"
 ],
 [
 "口感",
 6.48,
-"kou3 gan3",
+"kǒu gǎn",
 "taste; texture (of food); how food feels in the mouth"
+],
+[
+"亲口",
+6.47,
+"qīn kǒu",
+"one's own mouth; fig. in one's own words; to say sth personally"
 ],
 [
 "口碑",
 6.47,
-"kou3 bei1",
+"kǒu bēi",
 "public praise; public reputation; commonly held opinions; current idiom"
+],
+[
+"可口可乐",
+6.26,
+"Kě kǒu kě lè",
+"Coca-Cola"
+],
+[
+"口语",
+6.24,
+"kǒu yǔ",
+"colloquial speech; spoken language; vernacular language; slander; gossip; CL:門|门[men2]"
+],
+[
+"关口",
+6.09,
+"guān kǒu",
+"pass; gateway; (fig.) juncture"
+],
+[
+"突破口",
+5.98,
+"tū pò kǒu",
+"breach; gap; breakthrough point"
 ],
 [
 "口罩",
 5.52,
-"kou3 zhao4",
+"kǒu zhào",
 "mask (surgical etc)"
 ],
 [
 "端口",
 5.12,
-"duan1 kou3",
+"duān kǒu",
 "interface; port"
 ]
 ],

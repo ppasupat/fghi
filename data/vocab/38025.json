@@ -10,10 +10,17 @@
 "斩钉截铁",
 6,
 "zhǎn dīng jié tiě",
-"to chop the nail and slice the iron (idiom); resolute and decisive; definitely"
+"lit. to chop the nail and slice the iron (idiom); fig. resolute and decisive; unhesitating; categorical"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"钉子",
+6.2,
+"dīng zi",
+"nail; snag; saboteur"
+]
+],
 "strokes": [
 "M 345 654 Q 384 723 413 750 Q 423 760 418 775 Q 414 788 386 812 Q 359 831 340 831 Q 321 830 328 807 Q 343 773 329 744 Q 287 650 225 561 Q 165 476 83 383 Q 73 373 71 367 Q 67 355 81 358 Q 141 367 307 598 Q 316 614 328 629 L 345 654 Z",
 "M 328 629 Q 358 614 431 631 Q 462 640 497 649 Q 515 653 517 657 Q 524 664 520 673 Q 513 683 483 688 Q 458 691 388 664 Q 367 660 345 654 C 316 646 300 641 328 629 Z",

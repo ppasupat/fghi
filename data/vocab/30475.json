@@ -9,177 +9,255 @@
 [
 "看",
 1,
+"kān",
+"to look after; to take care of; to watch; to guard"
+],
+[
+"看",
+1,
 "kàn",
-"see; look at; to watch"
+"to see; to look at; to read; to watch; to visit; to call on; to consider; to regard as; to look after; to treat (an illness); to depend on; to feel (that); (after verb) to give it a try; Watch out! (for a danger)"
 ],
 [
 "看见",
 1,
-"kànjiàn",
-"see; catch sight of"
+"kàn jiàn",
+"to see; to catch sight of"
 ],
 [
 "看法",
 4,
-"kànfǎ",
-"point of view; opinion"
+"kàn fǎ",
+"way of looking at a thing; view; opinion; CL:個|个[ge4]"
+],
+[
+"看望",
+5,
+"kàn wàng",
+"to visit; to pay a call to"
 ],
 [
 "看不起",
 5,
 "kàn bu qǐ",
-"look down upon; despise"
-],
-[
-"看望",
-5,
-"kànwàng",
-"visit; call on; see"
+"to look down upon; to despise"
 ],
 [
 "看待",
 6,
-"kàndài",
-"look upon; regard"
+"kàn dài",
+"to look upon; to regard"
 ]
 ],
 "extraWords": [
 [
+"看到",
+798.38,
+"kàn dào",
+"to see"
+],
+[
 "看看",
 724.93,
-"kan4 kan5",
+"kàn kan",
 "to take a look at; to examine; to survey; (coll.) pretty soon"
+],
+[
+"看来",
+221.07,
+"kàn lai",
+"apparently; it seems that"
 ],
 [
 "看上去",
 165.92,
-"kan4 shang5 qu5",
+"kàn shang qu",
 "it would appear; it seems (that)"
 ],
 [
 "好看",
 76.14,
-"hao3 kan4",
+"hǎo kàn",
 "good-looking; nice-looking; good (of a movie, book, TV show etc); embarrassed; humiliated"
 ],
 [
 "看出",
 53.98,
-"kan4 chu1",
+"kàn chū",
 "to make out; to see"
+],
+[
+"看起来",
+40.73,
+"kàn qǐ lai",
+"seemingly; apparently; looks as if; appear to be; gives the impression that; seems on the face of it to be"
+],
+[
+"观看",
+33.47,
+"guān kàn",
+"to watch; to view"
 ],
 [
 "看好",
 32.15,
-"kan1 hao3",
+"kān hǎo",
 "to keep an eye on"
 ],
 [
 "看好",
 32.15,
-"kan4 hao3",
+"kàn hǎo",
 "to regard as having good prospects"
 ],
 [
 "查看",
 29.74,
-"cha2 kan4",
+"chá kàn",
 "to look over; to examine; to check up; to ferret out"
 ],
 [
 "照看",
 18.99,
-"zhao4 kan4",
+"zhào kàn",
 "to look after; to attend to; to have in care"
+],
+[
+"看书",
+16.92,
+"kàn shū",
+"to read; to study"
 ],
 [
 "看病",
 15.75,
-"kan4 bing4",
+"kàn bìng",
 "to visit a doctor; to see a patient"
 ],
 [
 "收看",
 15.74,
-"shou1 kan4",
+"shōu kàn",
 "to watch (a TV program)"
+],
+[
+"看不见",
+13.78,
+"kàn bu jiàn",
+"cannot see; cannot be seen; invisible"
 ],
 [
 "看作",
 11.86,
-"kan4 zuo4",
+"kàn zuò",
 "to look upon as; to regard as"
 ],
 [
 "看重",
 11.38,
-"kan4 zhong4",
+"kàn zhòng",
 "to regard as important; to care about"
 ],
 [
 "眼看",
 11.19,
-"yan3 kan4",
+"yǎn kàn",
 "soon; in a moment; to look on as sth happens"
 ],
 [
 "看成",
 10.8,
-"kan4 cheng2",
+"kàn chéng",
 "to regard as"
 ],
 [
 "看中",
 10.2,
-"kan4 zhong4",
+"kàn zhòng",
 "to have a preference for; to fancy; to choose after consideration; to settle on"
 ],
 [
 "看守",
 9.6,
-"kan1 shou3",
+"kān shǒu",
 "to guard; to watch over"
 ],
 [
 "看懂",
 8.13,
-"kan4 dong3",
+"kàn dǒng",
 "to understand what one is reading or watching"
+],
+[
+"难看",
+8.05,
+"nán kàn",
+"ugly; unsightly"
 ],
 [
 "偷看",
 7.39,
-"tou1 kan4",
+"tōu kàn",
 "to peep; to peek; to steal a glance"
+],
+[
+"看得出",
+7.05,
+"kàn de chū",
+"can see; can tell"
 ],
 [
 "看台",
 6.71,
-"kan4 tai2",
+"kàn tái",
 "terrace; spectator's grandstand; viewing platform"
+],
+[
+"看样子",
+6.56,
+"kàn yàng zi",
+"it seems; it looks as if"
 ],
 [
 "看一看",
 6.5,
-"kan4 yi1 kan4",
+"kàn yī kàn",
 "to have a look"
+],
+[
+"来看",
+6.2,
+"lái kàn",
+"to come and see; to see a topic from a certain point of view"
+],
+[
+"看护",
+6.2,
+"kān hù",
+"to nurse; to look after; to watch over; (old) hospital nurse"
+],
+[
+"别看",
+6.1,
+"bié kàn",
+"don't be fooled by the fact that"
 ],
 [
 "看不清",
 5.27,
-"kan4 bu5 qing1",
+"kàn bu qīng",
 "not able to see clearly"
 ],
 [
 "看透",
 5.04,
-"kan4 tou4",
+"kàn tòu",
 "to understand thoroughly; to see beyond the facade; to see through (sb)"
 ],
 [
 "看上",
 5.01,
-"kan4 shang4",
+"kàn shàng",
 "to look upon; to take a fancy to; to fall for"
 ]
 ],

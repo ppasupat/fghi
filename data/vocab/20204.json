@@ -9,17 +9,66 @@
 [
 "我们",
 1,
-"wǒmen",
-"we; us"
+"wǒ men",
+"we; us; ourselves; our"
 ],
 [
 "咱们",
 4,
-"zánmen",
-"we (including the listener); us; our"
+"zán men",
+"we or us (including both the speaker and the person(s) spoken to); (dialect) I or me; (dialect) (in a coaxing or familiar way) you; also pr. [za2 men5]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"他们",
+4187.02,
+"tā men",
+"they"
+],
+[
+"你们",
+3366.85,
+"nǐ men",
+"you (plural)"
+],
+[
+"它们",
+296.1,
+"tā men",
+"they (for inanimate objects)"
+],
+[
+"她们",
+265.66,
+"tā men",
+"they; them (for females)"
+],
+[
+"人们",
+238.18,
+"rén men",
+"people"
+],
+[
+"哥们",
+70.23,
+"gē men",
+"Brothers!; brethren; dude (colloquial); brother (diminutive form of address between males)"
+],
+[
+"孩子们",
+39.8,
+"hái zi men",
+"children"
+],
+[
+"哥们儿",
+25.19,
+"gē men r5",
+"erhua variant of 哥們|哥们[ge1 men5]"
+]
+],
 "strokes": [
 "M 207 513 Q 259 577 317 669 Q 342 718 367 741 Q 377 751 372 766 Q 368 779 337 803 Q 309 822 290 822 Q 271 821 279 797 Q 292 766 281 739 Q 244 648 188 563 Q 133 481 59 392 Q 49 382 46 375 Q 42 363 57 366 Q 91 370 187 488 L 207 513 Z",
 "M 187 488 L 188 486 Q 192 470 199 458 Q 229 395 206 220 Q 199 169 185 115 Q 170 66 207 18 Q 208 15 212 12 Q 231 -4 243 24 Q 258 66 258 114 Q 261 361 270 417 Q 277 445 267 456 Q 249 478 235 492 Q 223 505 207 513 C 181 529 178 516 187 488 Z",

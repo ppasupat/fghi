@@ -9,71 +9,84 @@
 [
 "消息",
 4,
-"xiāoxi",
-"news; information"
-],
-[
-"取消",
-5,
-"qǔxiāo",
-"cancel; cancellation; abolish"
-],
-[
-"消费",
-5,
-"xiāofèi",
-"consumption; spending"
-],
-[
-"消化",
-5,
-"xiāohuà",
-"to digest"
-],
-[
-"消极",
-5,
-"xiāojí",
-"passive; negative; demoralized"
+"xiāo xi",
+"news; information; CL:條|条[tiao2]"
 ],
 [
 "消失",
 5,
-"xiāoshī",
-"disappear; fade away; dissolve"
+"xiāo shī",
+"to disappear; to fade away"
+],
+[
+"取消",
+5,
+"qǔ xiāo",
+"to cancel; cancellation"
+],
+[
+"消化",
+5,
+"xiāo huà",
+"to digest; digestion; digestive"
+],
+[
+"消费",
+5,
+"xiāo fèi",
+"to consume; to spend"
+],
+[
+"消极",
+5,
+"xiāo jí",
+"negative; passive; inactive"
+],
+[
+"消灭",
+6,
+"xiāo miè",
+"to put an end to; to annihilate; to cause to perish; to perish; annihilation (in quantum field theory)"
+],
+[
+"消防",
+6,
+"xiāo fáng",
+"firefighting; fire control"
 ],
 [
 "消除",
 6,
-"xiāochú",
-"eliminate; remove; clear up (abstract things）"
+"xiāo chú",
+"to eliminate; to remove"
 ],
 [
 "消毒",
 6,
 "xiāo dú",
-"disinfect; sterilize"
-],
-[
-"消防",
-6,
-"xiāofáng",
-"fire-fighting; fire prevention and control"
+"to disinfect; to sterilize"
 ],
 [
 "消耗",
 6,
-"xiāohào",
-"use up; consume"
-],
-[
-"消灭",
-6,
-"xiāomiè",
-"eliminate; perish; wipe out"
+"xiāo hào",
+"to use up; to consume"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"消费者",
+157.45,
+"xiāo fèi zhě",
+"consumer"
+],
+[
+"消费品",
+9.48,
+"xiāo fèi pǐn",
+"consumer goods"
+]
+],
 "strokes": [
 "M 243 723 Q 271 698 301 668 Q 314 655 332 654 Q 342 655 349 669 Q 353 684 345 715 Q 339 737 307 752 Q 234 783 216 775 Q 210 771 212 758 Q 216 746 243 723 Z",
 "M 149 525 Q 197 474 235 460 Q 251 459 259 472 Q 265 485 261 503 Q 246 543 159 565 Q 143 569 133 564 Q 126 563 130 550 Q 131 538 149 525 Z",

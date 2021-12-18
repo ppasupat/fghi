@@ -9,29 +9,120 @@
 [
 "钱",
 1,
+"Qián",
+"surname Qian"
+],
+[
+"钱",
+1,
 "qián",
-"money; coin"
+"coin; money; CL:筆|笔[bi3]; unit of weight, one tenth of a tael 兩|两[liang3]"
 ],
 [
 "零钱",
 4,
-"língqián",
-"small change (of money)"
+"líng qián",
+"change (of money); small change; pocket money"
 ],
 [
 "本钱",
 6,
-"běnqián",
-"capital (financial)"
+"běn qián",
+"capital; (fig.) asset; advantage; the means (to do sth)"
 ],
 [
 "压岁钱",
 6,
-"yāsuìqián",
-"gifts of money given to children during the Spring Festival"
+"yā suì qián",
+"money given to children as new year present"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"钱包",
+29.72,
+"qián bāo",
+"purse; wallet"
+],
+[
+"赚钱",
+28.61,
+"zhuàn qián",
+"to earn money; moneymaking"
+],
+[
+"有钱",
+27.09,
+"yǒu qián",
+"well-off; wealthy"
+],
+[
+"金钱",
+23.56,
+"jīn qián",
+"money; currency"
+],
+[
+"花钱",
+20.66,
+"huā qián",
+"to spend money"
+],
+[
+"价钱",
+18.54,
+"jià qian",
+"price"
+],
+[
+"值钱",
+11.12,
+"zhí qián",
+"valuable; costly; expensive"
+],
+[
+"挣钱",
+9.9,
+"zhèng qián",
+"to make money"
+],
+[
+"钱财",
+6.88,
+"qián cái",
+"wealth; money"
+],
+[
+"大钱",
+6.47,
+"dà qián",
+"large sum of money; old Chinese type of coin of high denomination"
+],
+[
+"省钱",
+6.16,
+"shěng qián",
+"to save money"
+],
+[
+"借钱",
+5.97,
+"jiè qián",
+"to borrow money; to lend money"
+],
+[
+"有钱人",
+5.71,
+"yǒu qián rén",
+"rich person; the rich"
+],
+[
+"出钱",
+5.22,
+"chū qián",
+"to pay"
+]
+],
 "strokes": [
 "M 293 603 Q 387 760 389 762 Q 388 766 387 769 Q 383 782 354 803 Q 327 821 308 820 Q 290 819 299 796 Q 314 762 302 734 Q 263 637 205 546 Q 148 458 70 363 Q 60 353 58 346 Q 55 336 69 338 Q 79 339 104 363 Q 150 403 207 480 Q 240 522 275 574 L 293 603 Z",
 "M 275 574 Q 317 561 361 575 Q 406 587 453 599 Q 474 606 477 609 Q 484 616 480 625 Q 473 635 443 641 Q 419 644 339 614 Q 318 610 293 603 C 264 595 246 582 275 574 Z",

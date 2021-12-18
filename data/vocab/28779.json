@@ -9,148 +9,238 @@
 [
 "火车站",
 2,
-"huǒchēzhàn",
+"huǒ chē zhàn",
 "train station"
 ],
 [
 "火",
 4,
-"huǒ",
-"fire (Kangxi radical 86)"
+"Huǒ",
+"surname Huo"
 ],
 [
-"火柴",
-5,
-"huǒchái",
-"match (for lighting fire)"
+"火",
+4,
+"huǒ",
+"fire; urgent; ammunition; fiery or flaming; internal heat (Chinese medicine); hot (popular); classifier for military units (old); Kangxi radical 86"
 ],
 [
 "着火",
 5,
-"zháohuǒ",
-"catch fire; ignite"
+"zháo huǒ",
+"to ignite; to burn"
+],
+[
+"火柴",
+5,
+"huǒ chái",
+"match (for lighting fire); CL:根[gen1],盒[he2]"
 ],
 [
 "火箭",
 6,
-"huǒjiàn",
-"rocket"
+"huǒ jiàn",
+"rocket; CL:枚[mei2]"
 ],
 [
 "火焰",
 6,
-"huǒyàn",
+"huǒ yàn",
 "blaze; flame"
-],
-[
-"火药",
-6,
-"huǒyào",
-"gunpowder"
 ],
 [
 "恼火",
 6,
-"nǎohuǒ",
-"get angry; irritated; annoy"
+"nǎo huǒ",
+"to get angry; irritated; to annoy; to aggravate; annoying"
+],
+[
+"火药",
+6,
+"huǒ yào",
+"gunpowder"
 ],
 [
 "涮火锅",
 6,
-"shuànhuǒguō",
-"to instant-boil (mutton, beef, vegetables, etc.)"
+"shuàn huǒ guō",
+"see 涮鍋子|涮锅子[shuan4 guo1 zi5]"
 ]
 ],
 "extraWords": [
 [
+"火车",
+45.7,
+"huǒ chē",
+"train; CL:列[lie4],節|节[jie2],班[ban1],趟[tang4]"
+],
+[
+"火锅",
+26.58,
+"huǒ guō",
+"hotpot"
+],
+[
+"火灾",
+21.92,
+"huǒ zāi",
+"serious fire (in a city or a forest etc)"
+],
+[
+"开火",
+21.19,
+"kāi huǒ",
+"to open fire"
+],
+[
 "火爆",
 17.95,
-"huo3 bao4",
+"huǒ bào",
 "fiery (temper); popular; flourishing; prosperous; lively"
 ],
 [
 "大火",
 15.27,
-"da4 huo3",
+"dà huǒ",
 "conflagration; large fire; CL:場|场[chang2]"
+],
+[
+"火鸡",
+14.28,
+"huǒ jī",
+"turkey"
+],
+[
+"发火",
+12.85,
+"fā huǒ",
+"to catch fire; to ignite; to detonate; to get angry"
 ],
 [
 "火星",
 12.59,
-"Huo3 xing1",
+"Huǒ xīng",
 "Mars (planet)"
 ],
 [
 "火星",
 12.59,
-"huo3 xing1",
+"huǒ xīng",
 "spark"
 ],
 [
 "火炬",
 12.19,
-"huo3 ju4",
+"huǒ jù",
 "(flaming) torch; CL:把[ba3]"
+],
+[
+"火热",
+8.56,
+"huǒ rè",
+"fiery; burning; fervent; ardent; passionate"
 ],
 [
 "火花",
 8.17,
-"huo3 hua1",
+"huǒ huā",
 "spark; sparkle"
+],
+[
+"纵火",
+8.08,
+"zòng huǒ",
+"to set on fire; to commit arson"
 ],
 [
 "火力",
 8.05,
-"huo3 li4",
+"huǒ lì",
 "fire; firepower"
+],
+[
+"火车票",
+7.92,
+"huǒ chē piào",
+"train ticket"
 ],
 [
 "火山",
 7.9,
-"huo3 shan1",
+"huǒ shān",
 "volcano"
 ],
 [
 "火腿",
 7.87,
-"huo3 tui3",
+"huǒ tuǐ",
 "ham; CL:個|个[ge4]"
 ],
 [
 "起火",
 7.81,
-"qi3 huo3",
+"qǐ huǒ",
 "to catch fire; to cook; to get angry"
+],
+[
+"点火",
+7.04,
+"diǎn huǒ",
+"to ignite; to light a fire; to agitate; to start an engine; ignition; fig. to stir up trouble"
 ],
 [
 "防火",
 6.71,
-"fang2 huo3",
+"fáng huǒ",
 "to protect against fire"
 ],
 [
 "惹火",
 6.59,
-"re3 huo3",
+"rě huǒ",
 "to stir up the fire; fig. to provoke and offend people; to ruffle feathers"
+],
+[
+"红火",
+6.17,
+"hóng huǒ",
+"prosperous"
 ],
 [
 "怒火",
 6.11,
-"nu4 huo3",
+"nù huǒ",
 "rage; fury; hot anger"
+],
+[
+"灭火",
+5.99,
+"miè huǒ",
+"to extinguish a fire; firefighting"
 ],
 [
 "上火",
 5.73,
-"shang4 huo3",
+"shàng huǒ",
 "to get angry; to suffer from excessive internal heat (TCM)"
+],
+[
+"军火",
+5.54,
+"jūn huǒ",
+"weapons and ammunition; munitions; arms"
 ],
 [
 "停火",
 5.33,
-"ting2 huo3",
+"tíng huǒ",
 "to cease fire; ceasefire"
+],
+[
+"打火机",
+5.19,
+"dǎ huǒ jī",
+"lighter; cigarette lighter"
 ]
 ],
 "strokes": [

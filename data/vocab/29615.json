@@ -9,29 +9,72 @@
 [
 "环境",
 3,
-"huánjìng",
-"environment; surroundings"
+"huán jìng",
+"environment; circumstances; surroundings; CL:個|个[ge4]; ambient"
 ],
 [
 "耳环",
 5,
-"ěrhuán",
-"earring"
+"ěr huán",
+"earring; CL:隻|只[zhi1],對|对[dui4]"
 ],
 [
 "环节",
 6,
-"huánjié",
-"link; sector; segment (of annelid worms)"
+"huán jié",
+"(zoology) segment (of the body of a worm, centipede etc); (fig.) a part of an integrated whole: aspect (of a project), element (of a policy), sector (of the economy), stage (of a process) etc"
 ],
 [
 "循环",
 6,
-"xúnhuán",
-"circular cycle; loop; circulate"
+"xún huán",
+"to cycle; to circulate; circle; loop"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"环保",
+74.26,
+"huán bǎo",
+"environmental protection; environmentally friendly; abbr. for 環境保護|环境保护[huan2 jing4 bao3 hu4]"
+],
+[
+"连环",
+17.35,
+"lián huán",
+"chain"
+],
+[
+"环境保护",
+16.44,
+"huán jìng bǎo hù",
+"environmental protection"
+],
+[
+"环球",
+15.19,
+"huán qiú",
+"around the world; worldwide"
+],
+[
+"环卫",
+8.13,
+"huán wèi",
+"public cleanliness; (urban) sanitation; environmental sanitation; abbr. for 環境衛生|环境卫生[huan2 jing4 wei4 sheng1]"
+],
+[
+"环境污染",
+7.14,
+"huán jìng wū rǎn",
+"environmental pollution"
+],
+[
+"环绕",
+6.35,
+"huán rào",
+"to surround; to circle; to revolve around"
+]
+],
 "strokes": [
 "M 288 688 Q 331 698 378 706 Q 414 713 419 719 Q 428 726 423 736 Q 416 748 386 755 Q 355 762 324 749 Q 284 736 242 725 Q 194 715 138 710 Q 101 703 127 686 Q 172 662 230 677 Q 234 678 241 678 L 288 688 Z",
 "M 303 470 Q 385 489 391 494 Q 400 501 395 509 Q 388 519 361 526 Q 334 529 304 518 L 258 503 Q 177 487 144 482 Q 110 476 134 461 Q 167 446 240 457 Q 247 458 258 460 L 303 470 Z",

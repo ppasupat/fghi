@@ -9,46 +9,58 @@
 [
 "礼拜天",
 4,
-"lǐbàitiān",
+"Lǐ bài tiān",
 "Sunday"
+],
+[
+"拜托",
+6,
+"bài tuō",
+"to request sb to do sth; please!"
 ],
 [
 "拜访",
 6,
-"bàifǎng",
-"pay a visit; call on"
+"bài fǎng",
+"to pay a visit; to call on"
+],
+[
+"崇拜",
+6,
+"chóng bài",
+"to worship; adoration"
 ],
 [
 "拜年",
 6,
 "bài nián",
-"congratulate the New Year; wish sb. a Happy New Year"
-],
-[
-"拜托",
-6,
-"bàituō",
-"ask a favor; request; please!"
-],
-[
-"崇拜",
-6,
-"chóngbài",
-"worship; adore"
+"to pay a New Year call; to wish sb a Happy New Year"
 ]
 ],
 "extraWords": [
 [
+"礼拜",
+30.49,
+"lǐ bài",
+"week; religious service; worship; CL:個|个[ge4]"
+],
+[
 "拜拜",
 25.99,
-"bai2 bai2",
+"bái bái",
 "(loanword) bye-bye; also pr. [bai1 bai1] etc; (coll.) to part ways (with sb); (fig.) to have nothing further to do (with sb or sth)"
 ],
 [
 "拜拜",
 25.99,
-"bai4 bai5",
+"bài bai",
 "to pay one's respects by bowing with hands in front of one's chest clasping joss sticks, or with palms pressed together; (Tw) religious ceremony in which offerings are made to a deity"
+],
+[
+"参拜",
+7.97,
+"cān bài",
+"to formally call on; to worship (a God); to pay homage to sb"
 ]
 ],
 "strokes": [

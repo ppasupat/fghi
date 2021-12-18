@@ -7,43 +7,176 @@
 },
 "words": [
 [
-"权力",
-5,
-"quánlì",
-"power; authority"
-],
-[
 "权利",
 5,
-"quánlì",
-"right; privilege"
+"quán lì",
+"right (i.e. an entitlement to sth); (classical) power and wealth"
 ],
 [
-"权衡",
-6,
-"quánhéng",
-"trade-off; weigh pros and cons"
+"权力",
+5,
+"quán lì",
+"power; authority"
 ],
 [
 "权威",
 6,
-"quánwēi",
-"authority; authoritative"
+"quán wēi",
+"authority; authoritative; power and prestige"
 ],
 [
 "政权",
 6,
-"zhèngquán",
-"regime; political power; authority"
+"zhèng quán",
+"regime; political power"
+],
+[
+"权衡",
+6,
+"quán héng",
+"to consider; to weigh (a matter); to balance (pros and cons)"
 ],
 [
 "主权",
 6,
-"zhǔquán",
+"zhǔ quán",
 "sovereignty"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"股权",
+86.02,
+"gǔ quán",
+"equity shares; stock right"
+],
+[
+"权益",
+45.04,
+"quán yì",
+"rights; interests; rights and benefits"
+],
+[
+"产权",
+35.77,
+"chǎn quán",
+"property right"
+],
+[
+"授权",
+30.67,
+"shòu quán",
+"to authorize"
+],
+[
+"知识产权",
+29.71,
+"zhī shi chǎn quán",
+"intellectual property rights (law)"
+],
+[
+"权证",
+25.04,
+"quán zhèng",
+"warrant (finance)"
+],
+[
+"豁免权",
+22.15,
+"huò miǎn quán",
+"immunity from prosecution"
+],
+[
+"侵权",
+14.36,
+"qīn quán",
+"to infringe the rights of; to violate; infringement"
+],
+[
+"版权",
+13.26,
+"bǎn quán",
+"copyright"
+],
+[
+"人权",
+13.17,
+"rén quán",
+"human rights"
+],
+[
+"使用权",
+12.25,
+"shǐ yòng quán",
+"usage rights"
+],
+[
+"所有权",
+10.92,
+"suǒ yǒu quán",
+"ownership; possession; property rights; title (to property)"
+],
+[
+"弃权",
+10.09,
+"qì quán",
+"to abstain from voting; to forfeit; to waive one's right to vote; to abdicate"
+],
+[
+"债权",
+9.18,
+"zhài quán",
+"creditor's rights (law)"
+],
+[
+"表决权",
+8.7,
+"biǎo jué quán",
+"right to vote; vote"
+],
+[
+"权限",
+8.65,
+"quán xiàn",
+"scope of authority; extent of power; (access etc) privileges"
+],
+[
+"职权",
+8.21,
+"zhí quán",
+"authority; power over others"
+],
+[
+"特权",
+8.02,
+"tè quán",
+"prerogative; privilege; privileged"
+],
+[
+"无权",
+7.04,
+"wú quán",
+"to have no right; to have no authority"
+],
+[
+"权重",
+7.0,
+"quán zhòng",
+"weight (i.e. importance attached to sth)"
+],
+[
+"监护权",
+6.89,
+"jiān hù quán",
+"custody (of a child)"
+],
+[
+"债权人",
+5.4,
+"zhài quán rén",
+"creditor"
+]
+],
 "strokes": [
 "M 342 523 Q 450 557 453 559 Q 462 568 456 576 Q 449 588 418 593 Q 385 597 343 577 L 303 562 Q 200 531 131 519 Q 94 510 122 495 Q 165 471 223 490 Q 251 499 282 506 L 342 523 Z",
 "M 339 394 Q 340 454 342 523 L 343 577 Q 343 581 344 583 Q 345 683 365 750 Q 374 765 371 778 Q 364 788 310 821 Q 288 837 267 823 Q 263 819 269 803 Q 302 752 302 702 Q 302 636 303 562 L 299 423 Q 295 335 294 238 Q 288 159 267 85 Q 255 49 280 -14 Q 287 -32 294 -35 Q 301 -42 308 -33 Q 315 -29 326 -9 Q 336 16 335 46 Q 334 86 338 364 L 339 394 Z",

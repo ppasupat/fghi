@@ -9,69 +9,93 @@
 [
 "世界",
 3,
-"shìjiè",
-"world"
+"shì jiè",
+"world; CL:個|个[ge4]"
+],
+[
+"外界",
+6,
+"wài jiè",
+"the outside world; external"
 ],
 [
 "边界",
 6,
-"biānjiè",
+"biān jiè",
 "boundary; border"
 ],
 [
 "界限",
 6,
-"jièxiàn",
-"boundary; marginal; limit"
+"jiè xiàn",
+"boundary"
 ],
 [
 "境界",
 6,
-"jìngjiè",
-"boundary; state; realm; level"
-],
-[
-"外界",
-6,
-"wàijiè",
-"the outside world; external"
+"jìng jiè",
+"boundary; state; realm"
 ]
 ],
 "extraWords": [
 [
 "世界杯",
 53.92,
-"Shi4 jie4 bei1",
+"Shì jiè bēi",
 "World Cup"
 ],
 [
 "全世界",
 50.7,
-"quan2 shi4 jie4",
+"quán shì jiè",
 "worldwide; entire world"
 ],
 [
 "界面",
 13.69,
-"jie4 mian4",
+"jiè miàn",
 "contact surface; (computing) interface"
 ],
 [
 "各界",
 13.07,
-"ge4 jie4",
+"gè jiè",
 "all walks of life; all social circles"
 ],
 [
 "界定",
 10.7,
-"jie4 ding4",
+"jiè dìng",
 "definition; to delimit"
+],
+[
+"世界观",
+8.11,
+"shì jiè guān",
+"worldview; world outlook; Weltanschauung"
+],
+[
+"世界纪录",
+7.6,
+"shì jiè jì lù",
+"world record"
+],
+[
+"世界大战",
+6.29,
+"shì jiè dà zhàn",
+"world war"
+],
+[
+"世界级",
+5.6,
+"shì jiè jí",
+"world-class"
 ],
 [
 "世界末日",
 5.48,
-"shi4 jie4 mo4 ri4",
+"shì jiè mò rì",
 "end of the world"
 ]
 ],

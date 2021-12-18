@@ -9,17 +9,24 @@
 [
 "贪婪",
 6,
-"tānlán",
-"greedy; avaricious"
+"tān lán",
+"avaricious; greedy; rapacious; insatiable; avid"
 ],
 [
 "贪污",
 6,
-"tānwū",
-"(political, moral) corruption; embezzle"
+"tān wū",
+"to be corrupt; corruption; to embezzle"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"贪官",
+6.57,
+"tān guān",
+"corrupt official; grasping functionary; greedy mandarin"
+]
+],
 "strokes": [
 "M 531 782 Q 537 789 542 791 Q 551 795 551 806 Q 551 816 541 831 Q 511 867 479 867 Q 470 866 470 853 Q 470 775 315 633 Q 216 560 103 492 Q 94 488 104 483 Q 188 483 347 601 Q 354 608 364 615 Q 422 664 513 764 L 531 782 Z",
 "M 513 764 Q 744 548 794 541 Q 872 541 951 563 Q 969 566 970 571 Q 971 578 957 582 Q 764 639 744 649 Q 681 677 536 778 Q 533 781 531 782 C 507 800 491 784 513 764 Z",

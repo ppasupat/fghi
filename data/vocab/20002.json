@@ -10,22 +10,41 @@
 "丢",
 4,
 "diū",
-"lose (something); throw; put aside"
+"to lose; to put aside; to throw"
+],
+[
+"丢三落四",
+6,
+"diū sān là sì",
+"forgetful; empty-headed"
 ],
 [
 "丢人",
 6,
 "diū rén",
-"lose face; be disgraced"
-],
-[
-"丢三落四",
-6,
-"diūsān làsì",
-"forgetful; scatterbrained"
+"to lose face"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"丢脸",
+16.96,
+"diū liǎn",
+"to lose face; humiliation"
+],
+[
+"丢掉",
+16.34,
+"diū diào",
+"to lose; to throw away; to discard; to cast away"
+],
+[
+"丢失",
+12.67,
+"diū shī",
+"to lose; lost"
+]
+],
 "strokes": [
 "M 515 687 Q 552 697 585 710 Q 634 723 675 726 Q 691 725 697 732 Q 701 742 691 755 Q 672 774 629 797 Q 614 807 600 807 Q 593 804 590 793 Q 584 744 302 660 Q 296 651 302 648 Q 320 642 442 671 Q 451 672 461 674 L 515 687 Z",
 "M 489 546 Q 387 527 281 521 Q 239 517 268 496 Q 314 466 378 478 Q 433 487 491 496 L 542 503 Q 599 516 658 523 Q 724 536 733 544 Q 743 553 739 562 Q 732 577 699 586 Q 665 595 630 583 Q 587 571 546 559 L 489 546 Z",

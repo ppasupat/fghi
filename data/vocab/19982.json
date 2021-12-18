@@ -9,29 +9,72 @@
 [
 "与",
 4,
+"yú",
+"variant of 歟|欤[yu2]"
+],
+[
+"与",
+4,
 "yǔ",
-"(formal) and; to give; together with; participate; final particle expressing doubt or surprise"
+"and; to give; together with"
+],
+[
+"与",
+4,
+"yù",
+"to take part in"
 ],
 [
 "参与",
 5,
-"cānyù",
-"participate (in sth.); attach oneself to"
+"cān yù",
+"to participate (in sth)"
 ],
 [
 "与其",
 5,
-"yǔqí",
-"rather than; better than"
+"yǔ qí",
+"rather than...; 與其|与其[yu3 qi2] A 不如[bu4 ru2] B (rather than A, better to B)"
 ],
 [
 "与日俱增",
 6,
-"yǔrìjùzēng",
-"grow with each passing day"
+"yǔ rì jù zēng",
+"to increase steadily; to grow with each passing day"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"与此同时",
+33.46,
+"yǔ cǐ tóng shí",
+"at the same time; meanwhile"
+],
+[
+"与众不同",
+19.47,
+"yǔ zhòng bù tóng",
+"to stand out from the masses (idiom)"
+],
+[
+"与会",
+11.31,
+"yù huì",
+"to participate in a meeting"
+],
+[
+"参与者",
+7.27,
+"cān yù zhě",
+"participant"
+],
+[
+"与否",
+6.59,
+"yǔ fǒu",
+"whether or not (at the end of a phrase)"
+]
+],
 "strokes": [
 "M 398 568 Q 441 547 495 561 Q 585 582 678 602 Q 721 612 727 619 Q 737 628 731 636 Q 724 648 694 655 Q 666 661 573 628 Q 486 604 405 594 Q 402 594 402 593 C 373 588 370 580 398 568 Z",
 "M 360 348 Q 453 399 692 424 Q 720 427 731 417 Q 752 395 742 350 Q 727 256 686 129 Q 676 102 654 88 Q 645 85 563 106 Q 544 116 543 106 Q 542 96 562 78 Q 599 32 614 -6 Q 635 -40 662 -20 Q 720 16 746 73 Q 759 115 801 325 Q 808 374 831 396 Q 847 412 840 424 Q 828 437 776 465 Q 746 480 669 461 Q 548 446 398 409 Q 373 406 379 422 Q 388 504 398 568 L 402 593 Q 420 699 441 758 Q 448 776 438 788 Q 420 804 403 812 Q 378 821 369 816 Q 359 810 367 796 Q 376 780 375 758 Q 365 595 335 456 Q 334 438 299 402 Q 287 386 296 373 Q 306 360 330 344 Q 342 335 360 348 Z",

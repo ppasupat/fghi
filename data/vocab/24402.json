@@ -9,23 +9,48 @@
 [
 "归纳",
 5,
-"guīnà",
-"conclude from the facts; induce; sum up from the facts"
+"guī nà",
+"to sum up; to summarize; to conclude from facts; induction (method of deduction in logic)"
+],
+[
+"归还",
+6,
+"guī huán",
+"to return sth; to revert"
 ],
 [
 "归根到底",
 6,
 "guī gēn dào dǐ",
-"(saying) to sum it up ..."
-],
-[
-"归还",
-6,
-"guīhuán",
-"return something; revert"
+"after all; in the final analysis; ultimately"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"回归",
+34.19,
+"huí guī",
+"to return to; to retreat; regression (statistics)"
+],
+[
+"归来",
+11.64,
+"guī lái",
+"to return; to come back"
+],
+[
+"无家可归",
+10.7,
+"wú jiā kě guī",
+"homeless"
+],
+[
+"归属",
+9.08,
+"guī shǔ",
+"to belong to; to be affiliated to; to fall under the jurisdiction of; a place where one feels that one belongs; one's final destination (where one need look no further)"
+]
+],
 "strokes": [
 "M 188 557 Q 221 476 191 281 Q 182 241 210 208 L 211 206 Q 221 196 231 206 Q 255 239 252 291 Q 246 436 261 526 Q 268 548 248 560 Q 232 570 215 580 Q 202 584 193 579 Q 184 572 188 557 Z",
 "M 375 742 Q 396 718 403 651 Q 403 450 387 332 Q 380 296 371 261 Q 341 150 257 -11 Q 253 -18 251 -25 Q 250 -37 260 -33 Q 275 -30 315 29 Q 462 219 463 598 Q 463 664 469 702 Q 478 718 468 732 Q 449 750 414 762 Q 392 772 379 765 Q 367 756 375 742 Z",

@@ -7,31 +7,38 @@
 },
 "words": [
 [
+"展览",
+5,
+"zhǎn lǎn",
+"to put on display; to exhibit; exhibition; show; CL:個|个[ge4],次[ci4]"
+],
+[
 "浏览",
 5,
-"liúlǎn",
-"browse; glance over; skim through"
+"liú lǎn",
+"to skim over; to browse"
 ],
 [
 "游览",
 5,
-"yóulǎn",
-"go sight-seeing; tour"
-],
-[
-"展览",
-5,
-"zhǎnlǎn",
-"put on display; to exhibit; exhibition"
+"yóu lǎn",
+"to go sightseeing; to tour; to visit; CL:次[ci4]"
 ],
 [
 "博览会",
 6,
-"bólǎnhuì",
-"(international) exhibition"
+"bó lǎn huì",
+"exposition; international fair"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"展览会",
+6.8,
+"zhǎn lǎn huì",
+"exhibition; show; CL:個|个[ge4]"
+]
+],
 "strokes": [
 "M 226 712 Q 256 664 255 554 Q 252 521 289 496 Q 301 490 302 499 Q 311 509 301 577 Q 289 653 289 682 Q 292 695 285 706 Q 258 727 233 731 Q 229 732 225 727 Q 222 721 226 712 Z",
 "M 355 778 Q 382 733 391 536 Q 392 511 401 494 Q 407 484 414 490 Q 430 503 428 576 Q 431 639 432 693 Q 433 735 436 752 Q 443 771 432 780 Q 417 792 392 802 Q 373 809 352 799 Q 342 792 355 778 Z",

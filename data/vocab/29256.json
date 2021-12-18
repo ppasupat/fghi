@@ -9,22 +9,34 @@
 [
 "出版",
 5,
-"chūbǎn",
-"publish"
+"chū bǎn",
+"to publish"
 ],
 [
 "版本",
 6,
-"bǎnběn",
-"edition"
+"bǎn běn",
+"version; edition; release"
 ]
 ],
 "extraWords": [
 [
 "出版社",
 26.87,
-"chu1 ban3 she4",
+"chū bǎn shè",
 "publishing house"
+],
+[
+"版权",
+13.26,
+"bǎn quán",
+"copyright"
+],
+[
+"盗版",
+11.39,
+"dào bǎn",
+"pirated; illegal; see also 正版[zheng4 ban3]"
 ]
 ],
 "strokes": [

@@ -9,76 +9,148 @@
 [
 "周末",
 3,
-"zhōumò",
+"zhōu mò",
 "weekend"
 ],
 [
 "周围",
 4,
-"zhōuwéi",
-"surroundings; vicinity; environment"
+"zhōu wéi",
+"surroundings; environment; to encompass"
 ],
 [
 "周到",
 5,
-"zhōudào",
-"thoughtful; considerate; thorough"
+"zhōu dào",
+"thoughtful; considerate; attentive; thorough; also pr. [zhou1 dao5]"
+],
+[
+"周年",
+6,
+"zhōu nián",
+"anniversary; annual"
+],
+[
+"周边",
+6,
+"zhōu biān",
+"periphery; rim; surroundings; all around; perimeter; peripheral (computing); spin-offs"
 ],
 [
 "众所周知",
 6,
 "zhòng suǒ zhōu zhī",
-"as everyone knows; (saying) as is known to everyone"
+"as everyone knows (idiom)"
 ],
 [
-"周边",
+"众所周知",
 6,
-"zhōubiān",
-"surrounding"
-],
-[
-"周密",
-6,
-"zhōumì",
-"meticulous; careful; thorough"
-],
-[
-"周年",
-6,
-"zhōunián",
-"anniversary; annual"
+"zhòng suǒ zhōu zhī",
+"see 眾所周知|众所周知[zhong4 suo3 zhou1 zhi1]"
 ],
 [
 "周期",
 6,
-"zhōuqī",
-"period; cycle; rhythm"
+"zhōu qī",
+"period; cycle"
+],
+[
+"周密",
+6,
+"zhōu mì",
+"careful; thorough; meticulous; dense; impenetrable"
 ],
 [
 "周折",
 6,
-"zhōuzhé",
-"setback; twists and turns; problem; complication"
+"zhōu zhé",
+"twists and turns; vicissitude; complication; difficulty; effort; CL:番[fan1]"
 ],
 [
 "周转",
 6,
-"zhōuzhuǎn",
-"turnover (in cash or personnel); have enough resources to cover a need"
+"zhōu zhuǎn",
+"to rotate; to circulate (cash, stock etc); turnover; circulation; cash flow"
 ]
 ],
 "extraWords": [
 [
 "上周",
 46.26,
-"shang4 zhou1",
+"shàng zhōu",
 "last week"
+],
+[
+"周五",
+33.11,
+"Zhōu wǔ",
+"Friday"
+],
+[
+"周一",
+29.28,
+"Zhōu yī",
+"Monday"
+],
+[
+"每周",
+24.2,
+"měi zhōu",
+"every week"
+],
+[
+"周六",
+20.75,
+"Zhōu liù",
+"Saturday"
 ],
 [
 "四周",
 19.61,
-"si4 zhou1",
+"sì zhōu",
 "all around"
+],
+[
+"周三",
+18.64,
+"Zhōu sān",
+"Wednesday"
+],
+[
+"周二",
+17.88,
+"Zhōu èr",
+"Tuesday"
+],
+[
+"周四",
+17.56,
+"Zhōu sì",
+"Thursday"
+],
+[
+"周日",
+15.19,
+"Zhōu rì",
+"Sunday; diurnal"
+],
+[
+"周恩来",
+12.31,
+"Zhōu Ēn lái",
+"Zhou Enlai (1898-1976), Chinese communist leader, prime minister 1949-1976"
+],
+[
+"周刊",
+12.28,
+"zhōu kān",
+"weekly publication; weekly"
+],
+[
+"周杰伦",
+10.35,
+"Zhōu Jié lún",
+"Jay Chou (1979-), Taiwanese pop star"
 ]
 ],
 "strokes": [

@@ -9,47 +9,66 @@
 [
 "故事",
 3,
-"gùshi",
-"story; tale"
+"gù shì",
+"old practice; CL:個|个[ge4]"
+],
+[
+"故事",
+3,
+"gù shi",
+"narrative; story; tale"
 ],
 [
 "故意",
 4,
-"gùyì",
-"deliberately; intentional; on purpose"
-],
-[
-"变故",
-6,
-"biàngù",
-"unforeseen event; accident"
-],
-[
-"故乡",
-6,
-"gùxiāng",
-"hometown; homeland; birthplace"
-],
-[
-"故障",
-6,
-"gùzhàng",
-"malfunction; breakdown"
+"gù yì",
+"deliberately; on purpose"
 ],
 [
 "事故",
 6,
-"shìgù",
-"accident"
+"shì gù",
+"accident; CL:樁|桩[zhuang1],起[qi3],次[ci4]"
+],
+[
+"故障",
+6,
+"gù zhàng",
+"malfunction; breakdown; defect; shortcoming; fault; failure; impediment; error; bug (in software)"
 ],
 [
 "缘故",
 6,
-"yuángù",
+"yuán gù",
 "reason; cause"
+],
+[
+"故乡",
+6,
+"gù xiāng",
+"home; homeland; native place; CL:個|个[ge4]"
+],
+[
+"变故",
+6,
+"biàn gù",
+"an unforeseen event; accident; misfortune"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"故宫",
+5.94,
+"Gù gōng",
+"the Forbidden City; abbr. for 故宮博物院|故宫博物院[Gu4 gong1 Bo2 wu4 yuan4]"
+],
+[
+"故宫",
+5.94,
+"gù gōng",
+"former imperial palace"
+]
+],
 "strokes": [
 "M 354 487 Q 496 526 499 527 Q 508 534 503 544 Q 496 556 466 563 Q 439 567 359 541 L 305 524 Q 179 497 102 486 Q 65 479 91 462 Q 136 438 191 452 Q 246 465 303 475 L 354 487 Z",
 "M 337 329 Q 346 410 354 487 L 359 541 Q 368 646 391 721 Q 395 733 374 749 Q 337 771 312 777 Q 294 781 286 773 Q 277 766 285 748 Q 309 711 308 684 Q 308 608 305 524 L 303 475 Q 299 399 291 314 C 288 284 334 299 337 329 Z",

@@ -9,29 +9,36 @@
 [
 "鼓励",
 4,
-"gǔlì",
-"encourage; inspire"
-],
-[
-"激励",
-6,
-"jīlì",
-"urge; encourage; motivation"
+"gǔ lì",
+"to encourage"
 ],
 [
 "奖励",
 6,
-"jiǎnglì",
-"to reward (as encouragement)"
+"jiǎng lì",
+"to reward; reward (as encouragement)"
+],
+[
+"激励",
+6,
+"jī lì",
+"to encourage; to urge; motivation; incentive"
 ],
 [
 "勉励",
 6,
-"miǎnlì",
-"encourage"
+"miǎn lì",
+"to encourage"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"励志",
+6.49,
+"lì zhì",
+"to encourage; encouragement"
+]
+],
 "strokes": [
 "M 284 678 Q 315 669 372 681 Q 451 699 534 717 Q 574 727 579 733 Q 588 740 583 749 Q 576 759 548 766 Q 523 772 408 733 Q 272 708 271 706 C 242 698 255 685 284 678 Z",
 "M 271 706 Q 258 718 236 727 Q 217 737 204 733 Q 192 726 199 713 Q 214 692 214 639 Q 213 626 212 607 Q 206 457 166 346 Q 139 268 63 146 Q 59 140 56 134 Q 53 124 64 125 Q 95 131 167 243 Q 179 264 191 286 Q 249 418 270 611 Q 273 645 284 678 C 289 693 289 693 271 706 Z",

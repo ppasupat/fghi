@@ -9,47 +9,90 @@
 [
 "单独",
 5,
-"dāndú",
-"alone"
+"dān dú",
+"alone; by oneself; on one's own"
 ],
 [
 "独立",
 5,
-"dúlì",
-"independent"
+"dú lì",
+"independent; independence; to stand alone"
 ],
 [
 "独特",
 5,
-"dútè",
-"unique; distinctive"
-],
-[
-"得天独厚",
-6,
-"détiāndúhòu",
-"enjoy exceptional advantages; richly endowed by nature"
-],
-[
-"独裁",
-6,
-"dúcái",
-"dictatorship"
+"dú tè",
+"unique; distinct; having special characteristics"
 ],
 [
 "孤独",
 6,
-"gūdú",
+"gū dú",
 "lonely; solitary"
+],
+[
+"独裁",
+6,
+"dú cái",
+"dictatorship"
 ],
 [
 "唯独",
 6,
-"wéidú",
-"only; just (i.e. it is only that ...); alone"
+"wéi dú",
+"only; just (i.e. it is only that...); all except; unique"
+],
+[
+"得天独厚",
+6,
+"dé tiān dú hòu",
+"blessed by heaven (idiom); enjoying exceptional advantages; favored by nature"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"独自",
+38.42,
+"dú zì",
+"alone"
+],
+[
+"独舞",
+18.93,
+"dú wǔ",
+"solo dance"
+],
+[
+"独家",
+17.5,
+"dú jiā",
+"exclusive"
+],
+[
+"独一无二",
+10.43,
+"dú yī wú èr",
+"unique and unmatched (idiom); unrivalled; nothing compares with it"
+],
+[
+"独处",
+8.94,
+"dú chǔ",
+"to live alone; to spend time alone (or with a significant other)"
+],
+[
+"独有",
+7.17,
+"dú yǒu",
+"to own exclusively; unique to; specific; there is only"
+],
+[
+"独资",
+6.47,
+"dú zī",
+"wholly-owned (often by foreign company); exclusive investment"
+]
+],
 "strokes": [
 "M 319 586 Q 332 602 345 618 Q 384 669 419 709 Q 432 721 418 738 Q 378 778 350 779 Q 338 778 339 762 Q 339 702 286 624 L 254 584 Q 221 544 180 511 Q 141 483 123 464 Q 113 449 129 452 Q 181 455 283 549 L 319 586 Z",
 "M 329 390 Q 339 231 293 110 Q 286 94 276 92 Q 257 88 202 101 Q 171 111 165 104 Q 162 98 173 85 Q 224 48 256 11 Q 274 -14 283 -14 Q 292 -15 312 5 Q 397 104 380 363 Q 379 369 379 375 Q 370 516 319 586 L 286 624 Q 237 669 164 693 Q 148 699 146 687 Q 143 671 153 653 Q 165 634 184 632 Q 214 625 254 584 L 283 549 Q 301 522 316 472 L 329 390 Z",

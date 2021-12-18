@@ -9,77 +9,210 @@
 [
 "复习",
 3,
-"fùxí",
-"revise; to review"
+"fù xí",
+"to review; revision; CL:次[ci4]"
 ],
 [
-"复印",
-4,
-"fùyìn",
-"photocopy; duplicate"
+"复习",
+3,
+"fù xí",
+"variant of 復習|复习[fu4 xi2]"
 ],
 [
 "复杂",
 4,
-"fùzá",
+"fù zá",
 "complicated; complex"
 ],
 [
-"重复",
-5,
-"chóngfù",
-"to repeat; to duplicate"
-],
-[
-"反复",
-5,
-"fǎnfù",
-"repeatedly; over and over"
-],
-[
-"复制",
-5,
-"fùzhì",
-"duplicate; reproduce"
+"复印",
+4,
+"fù yìn",
+"to photocopy; to duplicate a document"
 ],
 [
 "恢复",
 5,
-"huīfù",
-"reinstate; resume; recover"
+"huī fù",
+"to reinstate; to resume; to restore; to recover; to regain; to rehabilitate"
+],
+[
+"重复",
+5,
+"chóng fù",
+"to repeat; to duplicate; CL:個|个[ge4]"
+],
+[
+"重复",
+5,
+"chóng fù",
+"variant of 重複|重复[chong2 fu4]"
+],
+[
+"复制",
+5,
+"fù zhì",
+"to duplicate; to make a copy of; to copy; to reproduce; to clone"
+],
+[
+"反复",
+5,
+"fǎn fù",
+"variant of 反覆|反复[fan3 fu4]"
+],
+[
+"反复",
+5,
+"fǎn fù",
+"repeatedly; over and over; to upend; unstable; to come and go; (of an illness) to return"
 ],
 [
 "报复",
 6,
-"bàofu",
-"retaliate; revenge"
-],
-[
-"答复",
-6,
-"dáfù",
-"to answer; to reply"
+"bào fù",
+"to make reprisals; to retaliate; revenge; retaliation"
 ],
 [
 "复活",
 6,
-"fùhuó",
-"resurrection"
-],
-[
-"复兴",
-6,
-"fùxīng",
-"revive; restore"
+"fù huó",
+"to revive; (lit. and fig.) to come back to life; (religion) resurrection"
 ],
 [
 "修复",
 6,
-"xiūfù",
-"restoration; repair"
+"xiū fù",
+"to restore; to renovate; restoration; (computing) to fix (a bug)"
+],
+[
+"答复",
+6,
+"dá fù",
+"variant of 答覆|答复[da2 fu4]"
+],
+[
+"答复",
+6,
+"dá fù",
+"to answer; to reply; Reply to: (in email header)"
+],
+[
+"复兴",
+6,
+"Fù xīng",
+"Fuxing district of Handan city 邯鄲市|邯郸市[Han2 dan1 shi4], Hebei; Fuxing or Fuhsing township in Taoyuan county 桃園縣|桃园县[Tao2 yuan2 xian4], north Taiwan"
+],
+[
+"复兴",
+6,
+"fù xīng",
+"to revive; to rejuvenate"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"回复",
+220.72,
+"huí fù",
+"to reply; to recover; to return (to a previous condition); Re: in reply to (email)"
+],
+[
+"复仇",
+21.94,
+"fù chóu",
+"to avenge; vengeance"
+],
+[
+"康复",
+19.63,
+"kāng fù",
+"to recuperate; to recover (health); to convalesce"
+],
+[
+"复合",
+15.68,
+"fù hé",
+"(of people who were estranged) to be reconciled; (of a couple) to get back together"
+],
+[
+"复合",
+15.68,
+"fù hé",
+"complex; compound; composite; hybrid; to compound; to combine"
+],
+[
+"复发",
+14.28,
+"fù fā",
+"to recur (of a disease); to reappear; to relapse (into a former bad state)"
+],
+[
+"复古",
+13.17,
+"fù gǔ",
+"to return to old ways (a Confucian aspiration); to turn back the clock; neoclassical school during Tang and Song associated with classical writing 古文; retro (fashion style based on nostalgia, esp. for 1960s)"
+],
+[
+"复查",
+8.35,
+"fù chá",
+"rechecking; re-inspection; reexamination"
+],
+[
+"复苏",
+7.68,
+"fù sū",
+"to recover (health, economic); to resuscitate; anabiosis"
+],
+[
+"复苏",
+7.68,
+"fù sū",
+"variant of 復甦|复苏[fu4 su1]; to recover (health, economic); to resuscitate; anabiosis"
+],
+[
+"复印件",
+6.51,
+"fù yìn jiàn",
+"photocopy; duplicate"
+],
+[
+"批复",
+6.26,
+"pī fù",
+"to reply officially to a subordinate"
+],
+[
+"复原",
+5.96,
+"fù yuán",
+"to restore (sth) to (its) former condition; to recover from illness; recovery"
+],
+[
+"复旦大学",
+5.61,
+"Fù dàn Dà xué",
+"Fudan University, Shanghai"
+],
+[
+"复活节",
+5.57,
+"Fù huó jié",
+"Easter"
+],
+[
+"复方",
+5.21,
+"fù fāng",
+"compound prescription (involving several medicines)"
+],
+[
+"复辟",
+5.06,
+"fù bì",
+"to recover one's power or authority; restoration (of a past regime)"
+]
+],
 "strokes": [
 "M 394 746 Q 410 771 430 792 Q 440 805 427 820 Q 387 856 358 854 Q 348 853 348 837 Q 357 747 242 631 Q 226 616 218 604 Q 208 589 224 593 Q 240 594 264 610 Q 336 659 378 723 Q 378 724 379 725 L 394 746 Z",
 "M 379 725 Q 388 716 422 709 Q 450 703 483 712 Q 721 764 731 771 Q 740 778 735 788 Q 728 800 698 807 Q 671 813 573 780 Q 479 756 394 746 C 364 742 354 741 379 725 Z",

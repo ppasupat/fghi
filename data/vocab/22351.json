@@ -10,28 +10,77 @@
 "坏",
 3,
 "huài",
-"bad; broken"
+"bad; spoiled; broken; to break down; (suffix) to the utmost"
 ],
 [
 "破坏",
 5,
-"pòhuài",
-"destroy; destruction; to wreck; to break"
-],
-[
-"败坏",
-6,
-"bàihuài",
-"ruin; corrupt; undermine"
+"pò huài",
+"destruction; damage; to wreck; to break; to destroy"
 ],
 [
 "损坏",
 6,
-"sǔnhuài",
-"to damage; injure"
+"sǔn huài",
+"to damage; to injure"
+],
+[
+"败坏",
+6,
+"bài huài",
+"to ruin; to corrupt; to undermine"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"坏人",
+27.57,
+"huài rén",
+"bad person; villain"
+],
+[
+"坏事",
+26.08,
+"huài shì",
+"bad thing; misdeed; to ruin things"
+],
+[
+"吓坏",
+25.79,
+"xià huài",
+"to be terrified; to terrify sb"
+],
+[
+"坏了",
+20.26,
+"huài le",
+"shoot!; gosh!; oh, no!; (suffix) to the utmost"
+],
+[
+"坏蛋",
+19.02,
+"huài dàn",
+"bad egg; scoundrel; bastard"
+],
+[
+"坏死",
+11.04,
+"huài sǐ",
+"necrosis"
+],
+[
+"好坏",
+9.52,
+"hǎo huài",
+"good or bad; good and bad; standard; quality"
+],
+[
+"坏话",
+6.47,
+"huài huà",
+"unpleasant talk; malicious words"
+]
+],
 "strokes": [
 "M 303 510 Q 396 537 400 539 Q 409 548 404 556 Q 397 568 366 574 Q 335 578 305 565 Q 304 565 304 564 L 253 546 Q 178 527 124 518 Q 87 511 114 495 Q 159 471 218 489 Q 234 493 254 497 L 303 510 Z",
 "M 295 313 Q 299 415 303 510 L 304 564 Q 305 639 326 747 Q 330 759 308 775 Q 271 794 244 799 Q 226 802 218 793 Q 211 784 219 768 Q 247 728 248 699 Q 252 626 253 546 L 254 497 Q 254 401 250 296 C 249 266 294 283 295 313 Z",

@@ -9,81 +9,87 @@
 [
 "印象",
 4,
-"yìnxiàng",
+"yìn xiàng",
 "impression"
-],
-[
-"抽象",
-5,
-"chōuxiàng",
-"abstract; abstraction"
-],
-[
-"大象",
-5,
-"dàxiàng",
-"elephant"
-],
-[
-"对象",
-5,
-"duìxiàng",
-"target; object; partner; boyfriend or girlfriend"
-],
-[
-"现象",
-5,
-"xiànxiàng",
-"appearance; phenomenon"
 ],
 [
 "想象",
 5,
-"xiǎngxiàng",
-"imagine; visualize"
+"xiǎng xiàng",
+"to imagine; to fancy; CL:個|个[ge4]"
 ],
 [
-"象棋",
+"对象",
 5,
-"xiàngqí",
-"chess; Chinese chess"
-],
-[
-"象征",
-5,
-"xiàngzhēng",
-"symbol; symbolize; signify"
+"duì xiàng",
+"target; object; partner; boyfriend; girlfriend; CL:個|个[ge4]"
 ],
 [
 "形象",
 5,
-"xíngxiàng",
-"image; form; figure"
+"xíng xiàng",
+"image; form; figure; CL:個|个[ge4]; visualization; vivid"
+],
+[
+"现象",
+5,
+"xiàn xiàng",
+"phenomenon; CL:個|个[ge4],種|种[zhong3]; appearance"
+],
+[
+"象征",
+5,
+"xiàng zhēng",
+"emblem; symbol; token; badge; to symbolize; to signify; to stand for"
+],
+[
+"大象",
+5,
+"dà xiàng",
+"elephant; CL:隻|只[zhi1]"
+],
+[
+"象棋",
+5,
+"xiàng qí",
+"Chinese chess; CL:副[fu4]"
+],
+[
+"抽象",
+5,
+"chōu xiàng",
+"abstract; abstraction; CL:種|种[zhong3]"
 ],
 [
 "迹象",
 6,
-"jìxiàng",
-"mark; indication; sign"
+"jì xiàng",
+"mark; indication; sign; indicator"
 ],
 [
 "气象",
 6,
-"qìxiàng",
-"meteorology; atmosphere; phenomenon"
+"qì xiàng",
+"meteorological feature; CL:個|个[ge4]; meteorology; atmosphere; ambience; scene"
 ]
 ],
 "extraWords": [
 [
 "景象",
 12.9,
-"jing3 xiang4",
+"jǐng xiàng",
 "scene; sight (to behold)"
+],
+[
+"气象台",
+7.93,
+"qì xiàng tái",
+"meteorological office; weather forecasting office"
 ],
 [
 "想象力",
 6.65,
-"xiang3 xiang4 li4",
+"xiǎng xiàng lì",
 "imagination"
 ]
 ],

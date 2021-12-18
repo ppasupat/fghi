@@ -9,130 +9,172 @@
 [
 "接受",
 4,
-"jiēshòu",
-"accept; receive (honors, etc.)"
-],
-[
-"难受",
-4,
-"nánshòu",
-"feel unwell; to suffer pain"
-],
-[
-"受不了",
-4,
-"shòu bu liǎo",
-"cannot endure; unbearable; can't stand"
+"jiē shòu",
+"to accept; to receive"
 ],
 [
 "受到",
 4,
-"shòudào",
-"receive (influence, restriction, etc.); be subjected to"
+"shòu dào",
+"to receive (praise, an education, punishment etc); to be ...ed (praised, educated, punished etc)"
 ],
 [
-"承受",
-5,
-"chéngshòu",
-"to bear; support; endure; sustain"
+"受不了",
+4,
+"shòu bù liǎo",
+"unbearable; unable to endure; can't stand"
 ],
 [
-"感受",
+"难受",
+4,
+"nán shòu",
+"to feel unwell; to suffer pain; to be difficult to bear"
+],
+[
+"享受",
 5,
-"gǎnshòu",
-"feel; experience; emotion; impression"
+"xiǎng shòu",
+"to enjoy; to live it up; pleasure; CL:種|种[zhong3]"
 ],
 [
 "受伤",
 5,
 "shòu shāng",
-"sustain injuries (in an accident, etc.); be injured"
+"to sustain injuries; wounded (in an accident etc); harmed"
 ],
 [
-"享受",
+"感受",
 5,
-"xiǎngshòu",
-"enjoy"
+"gǎn shòu",
+"to sense; perception; to feel (through the senses); to experience; a feeling; an impression; an experience"
+],
+[
+"承受",
+5,
+"chéng shòu",
+"to bear; to support; to inherit"
 ],
 [
 "忍受",
 6,
-"rěnshòu",
-"to bear; endure; tolerate"
-],
-[
-"受罪",
-6,
-"shòuzuì",
-"endure hardships; have a hard time"
+"rěn shòu",
+"to bear; to endure"
 ],
 [
 "遭受",
 6,
-"zāoshòu",
-"suffer; suffering; be subjected to (something unfortunate)"
+"zāo shòu",
+"to suffer; to sustain (loss, misfortune)"
+],
+[
+"受罪",
+6,
+"shòu zuì",
+"to endure; to suffer; hardships; torments; a hard time; a nuisance"
 ]
 ],
 "extraWords": [
 [
 "受害者",
 68.2,
-"shou4 hai4 zhe3",
+"shòu hài zhě",
 "casualty; victim; those injured and wounded"
 ],
 [
 "受害人",
 38.9,
-"shou4 hai4 ren2",
+"shòu hài rén",
 "victim"
 ],
 [
 "受理",
 19.54,
-"shou4 li3",
+"shòu lǐ",
 "to accept to hear a case; to handle (a service)"
 ],
 [
 "好受",
 16.57,
-"hao3 shou4",
+"hǎo shòu",
 "feeling better; to be more at ease"
 ],
 [
 "受益",
 14.98,
-"shou4 yi4",
+"shòu yì",
 "to benefit from; profit"
+],
+[
+"备受",
+14.11,
+"bèi shòu",
+"to fully experience (good or bad)"
+],
+[
+"受体",
+14.07,
+"shòu tǐ",
+"receptor (biochemistry); acceptor (semiconductors)"
 ],
 [
 "深受",
 14.02,
-"shen1 shou4",
+"shēn shòu",
 "to receive in no small measure"
+],
+[
+"受灾",
+10.61,
+"shòu zāi",
+"disaster-stricken; to be hit by a natural calamity"
+],
+[
+"受贿",
+10.6,
+"shòu huì",
+"to accept a bribe"
+],
+[
+"经受",
+7.79,
+"jīng shòu",
+"to undergo (hardship); to endure; to withstand"
 ],
 [
 "收受",
 7.28,
-"shou1 shou4",
+"shōu shòu",
 "to receive; to accept"
 ],
 [
 "受阻",
 6.02,
-"shou4 zu3",
-"blocked; obstructed; detained"
+"shòu zǔ",
+"to be obstructed; to be hindered"
 ],
 [
 "受苦",
 5.84,
-"shou4 ku3",
+"shòu kǔ",
 "to suffer hardship"
 ],
 [
 "受害",
 5.46,
-"shou4 hai4",
+"shòu hài",
 "to suffer damage, injury etc; damaged; injured; killed; robbed"
+],
+[
+"受损",
+5.37,
+"shòu sǔn",
+"to suffer damage"
+],
+[
+"受骗",
+5.04,
+"shòu piàn",
+"to be cheated; to be taken in; to be hoodwinked"
 ]
 ],
 "strokes": [

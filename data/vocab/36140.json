@@ -9,17 +9,24 @@
 [
 "贬低",
 6,
-"biǎndī",
-"to belittle; depreciate; disparage"
+"biǎn dī",
+"to belittle; to disparage; to play down; to demean; to degrade; to devalue"
 ],
 [
 "贬义",
 6,
-"biǎnyì",
-"negative connotation; derogatory sense"
+"biǎn yì",
+"derogatory sense; negative connotation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"贬值",
+6.4,
+"biǎn zhí",
+"to become devaluated; to devaluate; to depreciate"
+]
+],
 "strokes": [
 "M 186 682 Q 177 694 149 704 Q 139 708 128 705 Q 121 701 127 688 Q 128 678 133 670 Q 157 621 143 407 Q 125 302 139 273 Q 145 261 154 249 Q 164 236 175 249 Q 191 273 190 353 Q 194 624 196 643 Q 197 650 197 656 C 198 671 198 671 186 682 Z",
 "M 339 337 Q 332 316 345 296 Q 358 269 366 270 Q 379 271 394 301 Q 407 325 406 344 Q 393 438 395 584 Q 394 626 418 662 Q 427 677 420 685 Q 395 707 353 724 Q 338 728 318 721 Q 270 697 186 682 C 157 676 168 648 197 656 Q 197 657 265 672 Q 320 687 334 679 Q 346 654 350 584 Q 351 376 339 337 Z",

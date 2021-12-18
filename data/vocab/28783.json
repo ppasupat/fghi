@@ -10,16 +10,41 @@
 "灯",
 3,
 "dēng",
-"lamp; light"
+"lamp; light; lantern; CL:盞|盏[zhan3]"
 ],
 [
 "灯笼",
 6,
-"dēnglong",
+"dēng lóng",
 "lantern"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"灯光",
+18.39,
+"dēng guāng",
+"(stage) lighting; light"
+],
+[
+"红灯",
+7.09,
+"hóng dēng",
+"red light"
+],
+[
+"路灯",
+6.18,
+"lù dēng",
+"street lamp; street light"
+],
+[
+"灯塔",
+5.4,
+"dēng tǎ",
+"lighthouse; CL:座[zuo4]"
+]
+],
 "strokes": [
 "M 156 577 Q 146 520 127 466 Q 115 433 141 398 Q 154 382 172 400 Q 211 451 197 525 Q 194 559 180 583 Q 173 590 167 590 Q 158 586 156 577 Z",
 "M 334 536 Q 434 591 483 611 Q 501 614 498 625 Q 494 641 478 662 Q 462 681 440 687 Q 425 688 424 669 Q 425 656 414 641 Q 384 608 332 559 C 310 538 308 522 334 536 Z",

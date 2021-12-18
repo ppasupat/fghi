@@ -9,83 +9,180 @@
 [
 "应该",
 3,
-"yīnggāi",
-"should; ought to; must"
+"yīng gāi",
+"ought to; should; must"
 ],
 [
 "适应",
 4,
-"shìyìng",
-"to suit; to fit; adapt"
+"shì yìng",
+"to adapt; to fit; to suit"
 ],
 [
 "应聘",
 4,
-"yìngpìn",
-"accept a job offer; to apply for a job"
+"yìng pìn",
+"to accept a job offer; to apply for an advertised position"
 ],
 [
 "答应",
 5,
-"dāying",
-"to respond; to promise; to answer; agree"
+"dā ying",
+"to answer; to respond; to answer positively; to agree; to accept; to promise"
 ],
 [
 "反应",
 5,
-"fǎnyìng",
-"react; respond; reply"
+"fǎn yìng",
+"to react; to respond; reaction; response; reply; chemical reaction; CL:個|个[ge4]"
 ],
 [
 "应付",
 5,
-"yìngfu",
-"to cope with; deal with; handle; do sth. perfunctorily; do sth. after a fashion; make do"
+"yìng fu",
+"to deal with; to cope"
 ],
 [
 "应用",
 5,
-"yìngyòng",
-"to apply; to use; application"
-],
-[
-"对应",
-6,
-"duìyìng",
-"corresponding; counterpart"
-],
-[
-"供不应求",
-6,
-"gōng bú yìng qiú",
-"(saying) demand outstrips supply"
+"yìng yòng",
+"to put to use; to apply; practical; applied (science, linguistics etc); application; practical use; (computing) app"
 ],
 [
 "相应",
 6,
-"xiāngyìng",
-"correspond; relevant"
+"xiāng yìng",
+"to correspond; answering (one another); to agree (among the part); corresponding; relevant; appropriate; (modify) accordingly"
+],
+[
+"对应",
+6,
+"duì yìng",
+"to correspond; a correspondence; corresponding; homologous; matching with sth; counterpart"
 ],
 [
 "响应",
 6,
-"xiǎngyìng",
-"respond to; answer"
+"xiǎng yìng",
+"to respond to; answer; CL:個|个[ge4]"
 ],
 [
 "应酬",
 6,
-"yìngchou",
-"socialize with; a social engagement"
+"yìng chou",
+"social niceties; social interaction; a dinner party"
 ],
 [
 "应邀",
 6,
-"yìngyāo",
-"at sb.'s invitation"
+"yìng yāo",
+"at sb's invitation; on invitation"
+],
+[
+"供不应求",
+6,
+"gōng bù yìng qiú",
+"supply does not meet demand"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"应当",
+97.06,
+"yīng dāng",
+"should; ought to"
+],
+[
+"供应",
+89.57,
+"gōng yìng",
+"to supply; to provide; to offer"
+],
+[
+"效应",
+42.95,
+"xiào yìng",
+"effect (scientific phenomenon)"
+],
+[
+"应对",
+36.55,
+"yìng duì",
+"to answer; to reply; to handle; to deal with; response"
+],
+[
+"应有",
+23.71,
+"yīng yǒu",
+"proper"
+],
+[
+"应得",
+23.13,
+"yīng dé",
+"to deserve"
+],
+[
+"应急",
+22.92,
+"yìng jí",
+"to respond to an emergency; to meet a contingency; (attributive) emergency"
+],
+[
+"回应",
+22.58,
+"huí yìng",
+"to respond; response"
+],
+[
+"报应",
+12.97,
+"bào yìng",
+"retribution; judgment"
+],
+[
+"感应",
+11.0,
+"gǎn yìng",
+"response; reaction; interaction; irritability (biol.); induction (elec.); inductance"
+],
+[
+"应力",
+8.82,
+"yìng lì",
+"stress (physics)"
+],
+[
+"应变",
+5.94,
+"yìng biàn",
+"to meet a contingency; to adapt oneself to changes"
+],
+[
+"顺应",
+5.73,
+"shùn yìng",
+"to comply; to conform to; in tune with; adapting to; to adjust to"
+],
+[
+"应届",
+5.69,
+"yīng jiè",
+"this year's; the current year's"
+],
+[
+"理应",
+5.23,
+"lǐ yīng",
+"should; ought to"
+],
+[
+"适应性",
+5.2,
+"shì yìng xìng",
+"adaptability; flexibility"
+]
+],
 "strokes": [
 "M 492 779 Q 526 755 562 726 Q 577 714 593 716 Q 605 717 609 732 Q 612 748 600 778 Q 587 811 483 828 Q 467 831 460 827 Q 456 823 458 809 Q 462 799 492 779 Z",
 "M 330 578 Q 343 572 364 578 Q 584 620 770 639 Q 782 638 792 651 Q 793 664 769 676 Q 730 700 641 674 Q 482 643 414 634 Q 363 631 309 623 C 279 619 301 584 330 578 Z",

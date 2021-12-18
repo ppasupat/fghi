@@ -9,17 +9,30 @@
 [
 "绑架",
 6,
-"bǎngjià",
-"kidnap; staking"
+"bǎng jià",
+"to kidnap; to abduct; to hijack; a kidnapping; abduction; staking"
 ],
 [
 "捆绑",
 6,
-"kǔnbǎng",
-"tie up; bundled"
+"kǔn bǎng",
+"to bind"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"绑匪",
+5.93,
+"bǎng fěi",
+"kidnapper"
+],
+[
+"绑定",
+5.7,
+"bǎng dìng",
+"binding (loanword); to bind (e.g. an account to a mobile phone number)"
+]
+],
 "strokes": [
 "M 275 516 Q 235 516 201 516 Q 165 515 184 537 Q 245 646 306 729 Q 319 747 317 754 Q 314 769 274 798 Q 258 811 239 807 Q 229 804 235 789 Q 253 747 173 593 Q 157 557 119 523 Q 101 508 103 496 Q 107 477 122 460 Q 132 450 145 457 Q 167 470 247 488 Q 251 489 258 489 C 288 493 305 516 275 516 Z",
 "M 258 489 Q 168 357 148 344 Q 135 334 138 321 Q 141 308 167 291 Q 179 279 192 292 Q 243 335 323 374 Q 342 381 343 389 Q 344 399 326 394 Q 283 384 231 365 Q 209 355 222 375 Q 325 529 387 590 Q 399 600 392 610 Q 382 629 348 646 Q 332 653 323 651 Q 313 647 316 632 Q 319 596 275 516 L 258 489 Z",

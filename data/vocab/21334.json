@@ -10,22 +10,65 @@
 "卖",
 2,
 "mài",
-"to sell"
+"to sell; to betray; to spare no effort; to show off or flaunt"
 ],
 [
 "出卖",
 6,
-"chūmài",
-"sell; betray; sell out"
+"chū mài",
+"to offer for sale; to sell; to sell out or betray"
 ],
 [
 "贩卖",
 6,
-"fànmài",
-"sell; peddle; (often derogatory) to traffic in"
+"fàn mài",
+"to sell; to peddle; to traffic"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"拍卖",
+33.5,
+"pāi mài",
+"to auction; auction sale; to sell at a reduced price"
+],
+[
+"买卖",
+27.5,
+"mǎi mài",
+"buying and selling; business; business transactions; CL:樁|桩[zhuang1],次[ci4]"
+],
+[
+"卖出",
+16.38,
+"mài chū",
+"to sell; to reach (a price in an auction)"
+],
+[
+"专卖店",
+7.54,
+"zhuān mài diàn",
+"specialty store"
+],
+[
+"卖力",
+5.54,
+"mài lì",
+"to work hard; to do one's very best; to throw oneself into the task at hand"
+],
+[
+"拍卖会",
+5.34,
+"pāi mài huì",
+"auction; CL:場|场[chang3]"
+],
+[
+"卖淫",
+5.24,
+"mài yín",
+"prostitution; to prostitute oneself"
+]
+],
 "strokes": [
 "M 491 725 Q 424 716 348 713 Q 311 709 336 690 Q 381 662 435 673 Q 463 677 491 681 L 542 688 Q 704 715 709 719 Q 719 726 714 736 Q 708 749 679 757 Q 654 764 549 737 L 491 725 Z",
 "M 549 737 Q 550 741 551 746 Q 557 777 565 793 Q 569 803 551 817 Q 520 836 498 841 Q 483 845 476 837 Q 469 831 475 817 Q 488 798 489 784 Q 490 756 491 725 L 491 681 Q 491 638 490 590 C 489 560 524 565 528 595 Q 535 644 542 688 L 549 737 Z",

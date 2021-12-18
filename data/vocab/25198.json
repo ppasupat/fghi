@@ -9,17 +9,24 @@
 [
 "打扮",
 4,
-"dǎban",
-"dress up; put on make up"
+"dǎ ban",
+"to decorate; to dress; to make up; to adorn; manner of dressing; style of dress"
 ],
 [
 "扮演",
 6,
-"bànyǎn",
-"play the part of; act"
+"bàn yǎn",
+"to play the role of; to act"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"装扮",
+9.42,
+"zhuāng bàn",
+"to decorate; to adorn; to dress up; to disguise oneself"
+]
+],
 "strokes": [
 "M 328 530 Q 410 554 418 561 Q 427 571 421 580 Q 411 592 380 596 Q 353 599 330 589 L 280 568 Q 208 544 142 529 Q 105 519 134 503 Q 185 482 240 503 Q 256 509 279 514 L 328 530 Z",
 "M 276 325 Q 275 237 273 128 Q 272 104 259 95 Q 253 92 193 105 Q 160 118 163 109 Q 164 102 183 86 Q 241 34 255 5 Q 271 -29 286 -31 Q 299 -32 316 3 Q 335 48 335 122 Q 328 243 326 362 L 326 393 Q 325 463 328 530 L 330 589 Q 342 727 350 753 Q 368 783 312 805 Q 278 824 259 817 Q 241 811 257 788 Q 279 760 280 727 Q 281 709 280 568 L 279 514 Q 278 450 276 365 L 276 325 Z",

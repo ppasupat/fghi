@@ -9,65 +9,144 @@
 [
 "护照",
 3,
-"hùzhào",
-"passport"
+"hù zhào",
+"passport; CL:本[ben3],個|个[ge4]"
 ],
 [
 "保护",
 4,
-"bǎohù",
-"to protect; to defend"
+"bǎo hù",
+"to protect; to defend; to safeguard; protection; CL:種|种[zhong3]"
 ],
 [
 "护士",
 4,
-"hùshi",
-"nurse"
-],
-[
-"爱护",
-5,
-"àihù",
-"cherish; reassure; take good care of"
+"hù shi",
+"nurse; CL:個|个[ge4]"
 ],
 [
 "救护车",
 5,
-"jiùhùchē",
-"ambulance"
+"jiù hù chē",
+"ambulance; CL:輛|辆[liang4]"
+],
+[
+"爱护",
+5,
+"ài hù",
+"to cherish; to treasure; to take care of; to love and protect"
 ],
 [
 "辩护",
 6,
-"biànhù",
-"speak in defense of; argue in favor of; defend"
-],
-[
-"守护",
-6,
-"shǒuhù",
-"guard; defend; protect"
-],
-[
-"维护",
-6,
-"wéihù",
-"defend; to safeguard; defense; maintain"
+"biàn hù",
+"to speak in defense of; to argue in favor of; to defend; to plead"
 ],
 [
 "掩护",
 6,
-"yǎnhù",
-"cover; shield; screen"
+"yǎn hù",
+"to screen; to shield; to cover; protection; cover; CL:面[mian4]"
+],
+[
+"维护",
+6,
+"wéi hù",
+"to defend; to safeguard; to protect; to uphold; to maintain"
+],
+[
+"守护",
+6,
+"shǒu hù",
+"to guard; to protect"
 ],
 [
 "拥护",
 6,
-"yōnghù",
-"to support; endorse"
+"yōng hù",
+"to endorse; to support"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"护理",
+26.28,
+"hù lǐ",
+"to nurse; to tend and protect"
+],
+[
+"环境保护",
+16.44,
+"huán jìng bǎo hù",
+"environmental protection"
+],
+[
+"防护",
+13.83,
+"fáng hù",
+"to defend; to protect"
+],
+[
+"保护区",
+11.0,
+"bǎo hù qū",
+"conservation district; CL:個|个[ge4],片[pian4]"
+],
+[
+"呵护",
+8.61,
+"hē hù",
+"to bless; to cherish; to take good care of; to conserve"
+],
+[
+"护送",
+8.44,
+"hù sòng",
+"to escort; to accompany"
+],
+[
+"医护",
+8.15,
+"yī hù",
+"doctors and nurses; medic; medical (personnel)"
+],
+[
+"监护",
+6.89,
+"jiān hù",
+"to act as a guardian"
+],
+[
+"监护权",
+6.89,
+"jiān hù quán",
+"custody (of a child)"
+],
+[
+"监护人",
+6.47,
+"jiān hù rén",
+"guardian"
+],
+[
+"看护",
+6.2,
+"kān hù",
+"to nurse; to look after; to watch over; (old) hospital nurse"
+],
+[
+"养护",
+6.14,
+"yǎng hù",
+"to maintain; to conserve; curing (concrete etc)"
+],
+[
+"护卫",
+5.37,
+"hù wèi",
+"to guard; to protect; bodyguard (for officials in ancient times)"
+]
+],
 "strokes": [
 "M 346 573 Q 365 580 386 585 Q 423 597 429 603 Q 438 612 432 620 Q 425 632 394 636 Q 369 640 349 631 L 297 610 Q 221 580 130 563 Q 93 553 122 539 Q 170 518 222 537 Q 258 547 296 558 L 346 573 Z",
 "M 290 387 Q 289 299 285 186 Q 284 164 272 155 Q 266 152 205 165 Q 172 178 175 169 Q 176 162 195 146 Q 253 94 267 65 Q 283 31 298 29 Q 311 28 328 62 Q 347 108 348 181 Q 341 305 342 429 L 342 460 Q 343 518 346 573 L 349 631 Q 349 706 370 776 Q 386 806 332 829 Q 298 848 279 842 Q 261 835 277 812 Q 298 785 299 751 Q 300 735 297 610 L 296 558 Q 295 503 292 428 L 290 387 Z",

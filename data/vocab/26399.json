@@ -9,285 +9,315 @@
 [
 "星期",
 1,
-"xīngqī",
-"week"
+"xīng qī",
+"week; CL:個|个[ge4]; day of the week; Sunday"
 ],
 [
 "学期",
 4,
-"xuéqī",
-"semester; school term"
-],
-[
-"过期",
-5,
-"guòqī",
-"overdue; expire"
+"xué qī",
+"term; semester; CL:個|个[ge4]"
 ],
 [
 "期待",
 5,
-"qīdài",
-"look forward to; await; expectation"
+"qī dài",
+"to look forward to; to await; expectation"
 ],
 [
 "期间",
 5,
-"qījiān",
-"period of time; time"
-],
-[
-"日期",
-5,
-"rìqī",
-"date"
+"qī jiān",
+"period of time; time; time period; period; CL:個|个[ge4]"
 ],
 [
 "时期",
 5,
-"shíqī",
-"period in time or history; period; time"
+"shí qī",
+"period; phase; CL:個|个[ge4]"
 ],
 [
-"定期",
-6,
-"dìngqī",
-"regularly; at regular intervals"
+"日期",
+5,
+"rì qī",
+"date; CL:個|个[ge4]"
+],
+[
+"过期",
+5,
+"guò qī",
+"to be overdue; to exceed the time limit; to expire (as in expiration date)"
 ],
 [
 "期望",
 6,
-"qīwàng",
-"hope; expectation"
+"qī wàng",
+"to have expectations; to earnestly hope; expectation; hope"
+],
+[
+"预期",
+6,
+"yù qī",
+"to expect; to anticipate"
 ],
 [
 "期限",
 6,
-"qīxiàn",
+"qī xiàn",
 "time limit; deadline; allotted time"
-],
-[
-"为期",
-6,
-"wéiqī",
-"be scheduled for; last for (a certain duration)"
 ],
 [
 "延期",
 6,
 "yán qī",
-"delay; extend; postpone"
+"to delay; to extend; to postpone; to defer"
 ],
 [
-"预期",
+"定期",
 6,
-"yùqī",
-"expect; expected; anticipate"
+"dìng qī",
+"at set dates; at regular intervals; periodic; limited to a fixed period of time; fixed term"
 ],
 [
 "周期",
 6,
-"zhōuqī",
-"period; cycle; rhythm"
+"zhōu qī",
+"period; cycle"
+],
+[
+"为期",
+6,
+"wéi qī",
+"(to be done) by (a certain date); lasting (a certain time)"
 ]
 ],
 "extraWords": [
 [
+"长期",
+131.72,
+"cháng qī",
+"long term; long time; long range (of a forecast)"
+],
+[
 "近期",
 83.08,
-"jin4 qi1",
+"jìn qī",
 "near in time; in the near future; very soon; recent"
 ],
 [
 "同期",
 62.28,
-"tong2 qi1",
+"tóng qī",
 "the corresponding time period (in a different year etc); concurrent; synchronous"
+],
+[
+"期货",
+57.29,
+"qī huò",
+"abbr. for 期貨合約|期货合约[qi1 huo4 he2 yue1], futures contract (finance)"
 ],
 [
 "短期",
 55.44,
-"duan3 qi1",
+"duǎn qī",
 "short term; short-term"
 ],
 [
 "早期",
 34.63,
-"zao3 qi1",
+"zǎo qī",
 "early period; early phase; early stage"
 ],
 [
 "前期",
 33.66,
-"qian2 qi1",
+"qián qī",
 "preceding period; early stage"
 ],
 [
 "中期",
 25.14,
-"zhong1 qi1",
+"zhōng qī",
 "middle (of a period of time); medium-term (plan, forecast etc)"
+],
+[
+"后期",
+23.03,
+"hòu qī",
+"late stage; later period"
 ],
 [
 "初期",
 22.11,
-"chu1 qi1",
+"chū qī",
 "initial stage; beginning period"
 ],
 [
 "假期",
 19.27,
-"jia4 qi1",
+"jià qī",
 "vacation"
 ],
 [
 "本期",
 16.65,
-"ben3 qi1",
+"běn qī",
 "the current period; this term (usually in finance)"
 ],
 [
 "星期五",
 16.07,
-"Xing1 qi1 wu3",
+"Xīng qī wǔ",
 "Friday"
 ],
 [
 "星期六",
 15.29,
-"Xing1 qi1 liu4",
+"Xīng qī liù",
 "Saturday"
 ],
 [
 "星期天",
 13.95,
-"Xing1 qi1 tian1",
+"Xīng qī tiān",
 "Sunday; CL:個|个[ge4]"
 ],
 [
 "到期",
 13.75,
-"dao4 qi1",
+"dào qī",
 "to fall due (loan etc); to expire (visa etc); to mature (investment bond etc)"
 ],
 [
 "有期徒刑",
 13.13,
-"you3 qi1 tu2 xing2",
+"yǒu qī tú xíng",
 "limited term of imprisonment (i.e. anything less than life imprisonment)"
 ],
 [
 "星期一",
 11.39,
-"Xing1 qi1 yi1",
+"Xīng qī yī",
 "Monday"
 ],
 [
 "期盼",
 10.15,
-"qi1 pan4",
+"qī pàn",
 "hope and expectation; to anticipate; to look forward to; to await expectantly"
 ],
 [
 "晚期",
 9.24,
-"wan3 qi1",
+"wǎn qī",
 "later period; end stage; terminal"
 ],
 [
 "星期二",
 8.88,
-"Xing1 qi1 er4",
+"Xīng qī èr",
 "Tuesday"
 ],
 [
 "期刊",
 8.64,
-"qi1 kan1",
+"qī kān",
 "periodical"
 ],
 [
 "星期三",
 8.59,
-"Xing1 qi1 san1",
+"Xīng qī sān",
 "Wednesday"
 ],
 [
 "任期",
 8.43,
-"ren4 qi1",
+"rèn qī",
 "term of office; CL:屆|届[jie4]; tenure (entire period in office)"
 ],
 [
 "星期四",
 8.17,
-"Xing1 qi1 si4",
+"Xīng qī sì",
 "Thursday"
 ],
 [
 "限期",
 7.87,
-"xian4 qi1",
+"xiàn qī",
 "to set a time limit; time limit; deadline"
 ],
 [
 "如期",
 7.25,
-"ru2 qi1",
+"rú qī",
 "as scheduled; on time; punctual"
 ],
 [
 "分期",
 7.24,
-"fen1 qi1",
+"fēn qī",
 "by stages; staggered; step by step; in installments"
 ],
 [
 "逾期",
 7.17,
-"yu2 qi1",
+"yú qī",
 "to be overdue; to fail to meet a deadline; to be behind in doing sth"
 ],
 [
 "高峰期",
 6.89,
-"gao1 feng1 qi1",
+"gāo fēng qī",
 "peak period; rush hour"
+],
+[
+"远期",
+6.07,
+"yuǎn qī",
+"long-term; at a fixed date in the future (e.g. for repayment); abbr. for 遠期合約|远期合约[yuan3 qi1 he2 yue1]"
 ],
 [
 "上星期",
 5.99,
-"shang4 xing1 qi1",
+"shàng xīng qī",
 "last week; previous week"
 ],
 [
 "有效期",
 5.89,
-"you3 xiao4 qi1",
+"yǒu xiào qī",
 "period of validity; sell-by date"
+],
+[
+"期满",
+5.58,
+"qī mǎn",
+"to expire; to run out; to come to an end"
 ],
 [
 "暑期",
 5.53,
-"shu3 qi1",
+"shǔ qī",
 "summer vacation time"
 ],
 [
 "星期日",
 5.45,
-"Xing1 qi1 ri4",
+"Xīng qī rì",
 "Sunday; CL:個|个[ge4]"
 ],
 [
 "青春期",
 5.4,
-"qing1 chun1 qi1",
+"qīng chūn qī",
 "puberty; adolescence"
 ],
 [
 "下星期",
 5.04,
-"xia4 xing1 qi1",
+"xià xīng qī",
 "next week"
 ]
 ],

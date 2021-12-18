@@ -9,35 +9,84 @@
 [
 "财产",
 5,
-"cáichǎn",
-"property; fortune"
+"cái chǎn",
+"property; assets; estate; CL:筆|笔[bi3]"
 ],
 [
 "财富",
 6,
-"cáifù",
-"wealth; riches; fortune"
+"cái fù",
+"wealth; riches"
 ],
 [
 "财务",
 6,
-"cáiwù",
+"cái wù",
 "financial affairs"
 ],
 [
 "财政",
 6,
-"cáizhèng",
-"public finances; financial"
+"cái zhèng",
+"finances (public); financial"
 ],
 [
 "发财",
 6,
 "fā cái",
-"get rich"
+"to get rich"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"理财",
+36.66,
+"lǐ cái",
+"financial management; finance"
+],
+[
+"财经",
+24.95,
+"cái jīng",
+"finance and economics"
+],
+[
+"财政部",
+15.87,
+"Cái zhèng bù",
+"Ministry of Finance"
+],
+[
+"财力",
+9.75,
+"cái lì",
+"financial resources; financial ability"
+],
+[
+"财物",
+9.64,
+"cái wù",
+"property; belongings"
+],
+[
+"财宝",
+8.73,
+"cái bǎo",
+"money and valuables"
+],
+[
+"钱财",
+6.88,
+"qián cái",
+"wealth; money"
+],
+[
+"财源",
+5.63,
+"cái yuán",
+"financial resources; source of revenue"
+]
+],
 "strokes": [
 "M 217 678 Q 208 687 185 697 Q 175 701 164 697 Q 157 693 162 680 Q 183 616 178 480 Q 169 372 162 344 Q 147 290 182 245 Q 192 232 203 244 Q 218 265 220 348 Q 227 616 231 634 Q 232 644 232 651 C 233 666 233 666 217 678 Z",
 "M 390 332 Q 383 310 396 289 Q 409 261 418 262 Q 431 263 447 295 Q 460 320 460 340 Q 447 434 449 578 Q 449 621 472 656 Q 482 672 475 681 Q 448 703 404 722 Q 389 728 315 699 Q 279 687 217 678 C 187 673 203 644 232 651 Q 233 652 236 652 Q 276 661 306 668 Q 370 684 384 675 Q 394 650 400 580 Q 401 372 390 332 Z",

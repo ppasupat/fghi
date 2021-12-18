@@ -10,18 +10,18 @@
 "起床",
 2,
 "qǐ chuáng",
-"get out of bed"
+"to get out of bed; to get up"
 ],
 [
 "床单",
 6,
-"chuángdān",
-"bed sheet"
+"chuáng dān",
+"bed sheet; CL:條|条[tiao2],件[jian4],張|张[zhang1],床[chuang2]"
 ],
 [
 "临床",
 6,
-"línchuáng",
+"lín chuáng",
 "clinical"
 ]
 ],
@@ -29,14 +29,20 @@
 [
 "上床",
 8.94,
-"shang4 chuang2",
+"shàng chuáng",
 "to go to bed; (coll.) to have sex"
 ],
 [
 "病床",
 6.53,
-"bing4 chuang2",
+"bìng chuáng",
 "hospital bed; sickbed"
+],
+[
+"机床",
+6.13,
+"jī chuáng",
+"machine tool; a lathe; CL:張|张[zhang1]"
 ]
 ],
 "strokes": [

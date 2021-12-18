@@ -9,77 +9,180 @@
 [
 "传真",
 4,
-"chuánzhēn",
+"chuán zhēn",
 "fax; facsimile"
-],
-[
-"传播",
-5,
-"chuánbō",
-"propagate; to spread"
-],
-[
-"传染",
-5,
-"chuánrǎn",
-"infect; be contagious"
-],
-[
-"传说",
-5,
-"chuánshuō",
-"it is said; legend; pass on (a story)"
 ],
 [
 "传统",
 5,
-"chuántǒng",
-"tradition; traditional"
+"chuán tǒng",
+"tradition; traditional; convention; conventional; CL:個|个[ge4]"
 ],
 [
-"流传",
+"传说",
 5,
-"liúchuán",
-"to spread; circulate; hand down"
+"chuán shuō",
+"legend; folklore; to repeat from mouth to mouth; they say that..."
 ],
 [
 "宣传",
 5,
-"xuānchuán",
-"propaganda; to propagate; to give publicity to"
+"xuān chuán",
+"to disseminate; to give publicity to; propaganda; CL:個|个[ge4]"
+],
+[
+"传播",
+5,
+"chuán bō",
+"to disseminate; to propagate; to spread"
+],
+[
+"传染",
+5,
+"chuán rǎn",
+"to infect; contagious"
+],
+[
+"流传",
+5,
+"liú chuán",
+"to spread; to circulate; to hand down"
+],
+[
+"遗传",
+6,
+"yí chuán",
+"heredity; to inherit (a trait); to pass on (to one's offspring)"
 ],
 [
 "传达",
 6,
-"chuándá",
-"convey; transmit; communicate"
+"chuán dá",
+"to pass on; to convey; to relay; to transmit; transmission"
 ],
 [
 "传单",
 6,
-"chuándān",
+"chuán dān",
 "leaflet; flier; pamphlet"
 ],
 [
 "传授",
 6,
-"chuánshòu",
-"impart; pass on; teach"
-],
-[
-"遗传",
-6,
-"yíchuán",
-"inherit; hereditary"
+"chuán shòu",
+"to impart; to pass on; to teach"
 ],
 [
 "传记",
 6,
-"zhuànjì",
-"biography"
+"zhuàn jì",
+"biography; CL:篇[pian1],部[bu4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"传来",
+29.7,
+"chuán lái",
+"(of a sound) to come through; to be heard; (of news) to arrive"
+],
+[
+"传递",
+26.18,
+"chuán dì",
+"to transmit; to pass on to sb else; (math.) transitive"
+],
+[
+"传媒",
+24.03,
+"chuán méi",
+"media"
+],
+[
+"传奇",
+23.46,
+"chuán qí",
+"legendary; fantasy saga; romance; short stories of the Tang and Song Dynasty"
+],
+[
+"传出",
+20.93,
+"chuán chū",
+"to transmit outwards; to disseminate; efferent (nerve)"
+],
+[
+"传输",
+17.26,
+"chuán shū",
+"to transmit; transmission"
+],
+[
+"传送",
+13.21,
+"chuán sòng",
+"to convey; to deliver"
+],
+[
+"传闻",
+12.84,
+"chuán wén",
+"rumor"
+],
+[
+"传球",
+12.11,
+"chuán qiú",
+"pass (in soccer); to feed (ball)"
+],
+[
+"传染病",
+10.54,
+"chuán rǎn bìng",
+"infectious disease; contagious disease; pestilence"
+],
+[
+"宣传部",
+10.36,
+"Xuān chuán bù",
+"Propaganda Department"
+],
+[
+"传言",
+10.32,
+"chuán yán",
+"rumor; hearsay"
+],
+[
+"传承",
+8.52,
+"chuán chéng",
+"to pass on (to future generations); passed on (from former times); a continued tradition; an inheritance"
+],
+[
+"传感器",
+8.02,
+"chuán gǎn qì",
+"sensor; transducer"
+],
+[
+"传销",
+7.13,
+"chuán xiāo",
+"multi-level marketing"
+],
+[
+"传票",
+6.92,
+"chuán piào",
+"summons; subpoena; voucher"
+],
+[
+"传导",
+6.55,
+"chuán dǎo",
+"to conduct (heat, electricity etc)"
+]
+],
 "strokes": [
 "M 249 497 Q 298 566 349 657 Q 377 712 402 740 Q 412 752 406 766 Q 402 779 369 803 Q 339 822 319 821 Q 300 818 309 794 Q 327 760 314 729 Q 248 555 78 333 Q 68 323 65 315 Q 62 303 77 306 Q 119 315 221 459 Q 222 462 225 465 L 249 497 Z",
 "M 225 465 Q 228 455 233 447 Q 260 392 245 225 Q 239 177 227 127 Q 214 81 249 29 Q 250 25 255 21 Q 274 3 287 33 Q 303 76 302 126 Q 301 351 307 401 Q 316 431 304 442 Q 265 487 249 497 C 225 516 214 493 225 465 Z",

@@ -7,19 +7,26 @@
 },
 "words": [
 [
-"颠簸",
-6,
-"diānbǒ",
-"shake; to jolt; bump"
-],
-[
 "颠倒",
 6,
-"diāndǎo",
-"turn upside down; upend"
+"diān dǎo",
+"to turn upside down; to reverse; back to front; confused; deranged; crazy"
+],
+[
+"颠簸",
+6,
+"diān bǒ",
+"to shake; to jolt; to bump"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"颠覆",
+7.84,
+"diān fù",
+"to topple (i.e. knock over); to capsize; fig. to overturn (a regime, by plotting or subversion); to undermine; to subvert"
+]
+],
 "strokes": [
 "M 370 643 Q 509 674 515 678 Q 522 685 519 693 Q 512 703 486 711 Q 461 717 384 691 L 331 677 Q 273 665 205 658 Q 171 652 195 637 Q 225 618 296 630 Q 308 633 323 634 L 370 643 Z",
 "M 339 548 Q 354 597 370 643 L 384 691 Q 393 727 414 760 Q 418 769 405 784 Q 380 806 361 814 Q 348 820 340 815 Q 333 811 336 796 Q 346 771 344 757 Q 338 718 331 677 L 323 634 Q 313 589 301 540 C 294 511 330 519 339 548 Z",

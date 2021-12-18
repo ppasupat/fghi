@@ -9,41 +9,84 @@
 [
 "认识",
 1,
-"rènshi",
-"recognize; know (a person)"
+"rèn shi",
+"to know; to recognize; to be familiar with; to get acquainted with sb; knowledge; understanding; awareness; cognition"
 ],
 [
 "知识",
 4,
-"zhīshi",
-"knowledge; intellectual"
+"zhī shi",
+"knowledge; CL:門|门[men2]; intellectual"
 ],
 [
 "常识",
 5,
-"chángshí",
-"common sense; general knowledge"
-],
-[
-"见多识广",
-6,
-"jiànduōshíguǎng",
-"experienced and knowledgeable"
-],
-[
-"识别",
-6,
-"shíbié",
-"identify; distinguish; discern"
+"cháng shí",
+"common sense; general knowledge; CL:門|门[men2]"
 ],
 [
 "意识",
 6,
-"yìshi",
-"realize; consciousness; awareness; sense"
+"yì shí",
+"consciousness; awareness; to be aware; to realize"
+],
+[
+"识别",
+6,
+"shí bié",
+"to distinguish; to discern; to identify; to recognize"
+],
+[
+"见多识广",
+6,
+"jiàn duō shí guǎng",
+"experienced and knowledgeable (idiom)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"知识产权",
+29.71,
+"zhī shi chǎn quán",
+"intellectual property rights (law)"
+],
+[
+"共识",
+19.46,
+"gòng shí",
+"common understanding; consensus"
+],
+[
+"见识",
+17.71,
+"jiàn shi",
+"to gain first-hand knowledge of sth; to experience for oneself; knowledge; experience; insight"
+],
+[
+"知识分子",
+14.84,
+"zhī shi fèn zǐ",
+"intellectual; intelligentsia; learned person"
+],
+[
+"标识",
+14.83,
+"biāo zhì",
+"variant of 標誌|标志[biao1 zhi4]"
+],
+[
+"相识",
+10.07,
+"xiāng shí",
+"to get to know each other; acquaintance"
+],
+[
+"意识形态",
+6.53,
+"yì shí xíng tài",
+"ideology"
+]
+],
 "strokes": [
 "M 305 756 Q 336 732 371 703 Q 387 690 404 692 Q 416 693 420 708 Q 424 724 412 757 Q 405 778 369 792 Q 285 817 272 807 Q 266 803 269 789 Q 273 776 305 756 Z",
 "M 157 502 Q 105 486 78 485 Q 63 485 60 478 Q 56 469 68 461 Q 90 446 107 444 Q 125 440 246 496 Q 274 509 283 501 Q 292 495 284 390 Q 281 278 250 177 Q 232 147 276 93 Q 288 80 297 87 Q 306 94 317 119 Q 357 171 440 259 Q 453 271 450 278 Q 449 287 437 277 Q 397 250 356 221 Q 310 182 319 239 Q 318 303 342 459 Q 346 484 370 508 Q 383 518 373 531 Q 361 547 322 566 Q 310 572 292 561 Q 207 516 157 502 Z",

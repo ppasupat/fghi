@@ -10,16 +10,23 @@
 "寄",
 4,
 "jì",
-"send by mail"
+"to send; to mail; to entrust; to depend on; to attach oneself to; to live (in a house); to lodge; foster (son etc)"
 ],
 [
 "寄托",
 6,
-"jìtuō",
-"entrust somebody someone's care; consign; commit"
+"jì tuō",
+"to entrust (to sb); to place (one's hope, energy etc) in; a thing in which you invest (your hope, energy etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"寄生虫",
+5.16,
+"jì shēng chóng",
+"parasite (biology); (fig.) freeloader"
+]
+],
 "strokes": [
 "M 484 815 Q 503 799 523 777 Q 538 765 553 766 Q 563 767 569 780 Q 573 796 563 825 Q 557 841 532 851 Q 469 869 456 863 Q 452 859 453 846 Q 457 836 484 815 Z",
 "M 297 718 L 297 719 Q 285 743 274 752 Q 255 767 253 740 Q 259 716 242 690 Q 226 669 201 646 Q 191 634 194 614 Q 198 584 207 567 Q 222 540 242 567 Q 258 589 270 624 Q 283 666 294 689 L 297 718 Z",

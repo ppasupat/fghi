@@ -2,65 +2,71 @@
 "char": "弟",
 "level": 2,
 "info": {
-"gloss": "young brother; junior; i, me",
+"gloss": "young brother; junior; I, me",
 "pron": "dì"
 },
 "words": [
 [
 "弟弟",
 2,
-"dìdi",
-"younger brother"
+"dì di",
+"younger brother; CL:個|个[ge4],位[wei4]"
 ],
 [
 "兄弟",
 5,
-"xiōngdì",
-"brothers; younger brother; brethren"
+"xiōng dì",
+"brothers; younger brother; CL:個|个[ge4]; I, me (humble term used by men in public speech); brotherly; fraternal"
 ],
 [
 "徒弟",
 6,
-"túdì",
-"disciple"
+"tú dì",
+"apprentice; disciple"
 ]
 ],
 "extraWords": [
 [
 "弟子",
 20.06,
-"di4 zi3",
+"dì zǐ",
 "disciple; follower"
 ],
 [
 "老弟",
 16.31,
-"lao3 di4",
+"lǎo dì",
 "(affectionate form of address for a male who is not very much younger than oneself) my boy; old pal"
 ],
 [
 "弟兄",
 9.18,
-"di4 xiong5",
+"dì xiong",
 "brothers; comrade"
 ],
 [
 "表弟",
 8.26,
-"biao3 di4",
+"biǎo dì",
 "younger male cousin via female line"
 ],
 [
 "小弟",
 8.22,
-"xiao3 di4",
+"xiǎo dì",
 "little brother; I, your little brother (humble)"
 ],
 [
 "子弟",
 7.24,
-"zi3 di4",
+"zǐ dì",
 "child; the younger generation"
+],
+[
+"师弟",
+5.16,
+"shī dì",
+"young disciple (of the same master); younger or junior male schoolmate"
 ]
 ],
 "strokes": [

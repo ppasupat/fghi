@@ -9,101 +9,192 @@
 [
 "干净",
 3,
-"gānjìng",
-"clean; neat and tidy"
-],
-[
-"饼干",
-4,
-"bǐnggān",
-"biscuit; cracker; cookie"
-],
-[
-"干杯",
-4,
-"gān bēi",
-"to drink a toast; cheers!; bottoms up!"
+"gān jìng",
+"clean; neat"
 ],
 [
 "干",
 4,
 "gān",
-"to concern; shield; dry; clean (Kangxi radical 51)"
+"old variant of 乾|干[gan1]"
+],
+[
+"干",
+4,
+"Gān",
+"surname Gan"
+],
+[
+"干",
+4,
+"gān",
+"dry; clean; in vain; dried food; foster; adoptive; to ignore"
+],
+[
+"干",
+4,
+"gān",
+"variant of 乾|干[gan1]"
+],
+[
+"干",
+4,
+"gān",
+"to concern; to interfere; shield; stem"
+],
+[
+"干",
+4,
+"gàn",
+"tree trunk; main part of sth; to manage; to work; to do; capable; cadre; to kill (slang); to fuck (vulgar); (coll.) pissed off; annoyed"
+],
+[
+"干杯",
+4,
+"gān bēi",
+"to drink a toast; Cheers! (proposing a toast); Here's to you!; Bottoms up!; lit. dry cup"
+],
+[
+"饼干",
+4,
+"bǐng gān",
+"biscuit; cracker; cookie; CL:片[pian4],塊|块[kuai4]"
 ],
 [
 "干脆",
 5,
-"gāncuì",
-"straightforward; clear-cut; blunt"
+"gān cuì",
+"straightforward; clear-cut; blunt (e.g. statement); you might as well; simply"
 ],
 [
 "干燥",
 5,
-"gānzào",
-"to dry (of paint, cement, etc.); dry; dryness"
-],
-[
-"干活儿",
-5,
-"gàn huór",
-"do manual labor; to work"
+"gān zào",
+"to dry (of weather, paint, cement etc); desiccation; dull; uninteresting; arid"
 ],
 [
 "能干",
 5,
-"nénggàn",
+"néng gàn",
 "capable; competent"
 ],
 [
-"才干",
-6,
-"cáigàn",
-"ability; competence"
-],
-[
-"干旱",
-6,
-"gānhàn",
-"drought; dry"
+"干活儿",
+5,
+"gàn huó r5",
+"erhua variant of 幹活|干活[gan4 huo2]"
 ],
 [
 "干扰",
 6,
-"gānrǎo",
-"interfere; obstruction"
+"gān rǎo",
+"to disturb; to interfere; perturbation; interference (physics)"
 ],
 [
 "干涉",
 6,
-"gānshè",
-"interfere; intervene; meddle"
+"gān shè",
+"to interfere; to meddle; interference"
 ],
 [
 "干预",
 6,
-"gānyù",
-"meddle; intervene; intervention"
+"gān yù",
+"to meddle; to intervene; intervention"
 ],
 [
 "干劲",
 6,
-"gànjìn",
-"enthusiasm; energy; drive"
+"gàn jìn",
+"enthusiasm for doing sth"
 ],
 [
-"骨干",
+"才干",
 6,
-"gǔgàn",
-"backbone; mainstay"
+"cái gàn",
+"ability; competence"
 ],
 [
 "若干",
 6,
-"ruògān",
-"a certain number or amount; how many; how much"
+"ruò gān",
+"a certain number or amount; how many?; how much?"
+],
+[
+"干旱",
+6,
+"gān hàn",
+"drought; arid; dry"
+],
+[
+"骨干",
+6,
+"gǔ gàn",
+"diaphysis (long segment of a bone); fig. backbone"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"干部",
+182.28,
+"gàn bù",
+"cadre; official; officer; manager"
+],
+[
+"干吗",
+116.97,
+"gàn má",
+"see 幹嘛|干嘛[gan4 ma2]"
+],
+[
+"干什么",
+104.09,
+"gàn shén me",
+"what are you doing?; what's he up to?"
+],
+[
+"干掉",
+43.37,
+"gàn diào",
+"to get rid of"
+],
+[
+"干活",
+35.29,
+"gàn huó",
+"to work; to be employed"
+],
+[
+"干嘛",
+32.85,
+"gàn má",
+"what are you doing?; whatever for?; why on earth?"
+],
+[
+"干酪",
+7.96,
+"gān lào",
+"cheese"
+],
+[
+"干细胞",
+7.95,
+"gàn xì bāo",
+"stem cell"
+],
+[
+"干警",
+6.21,
+"gàn jǐng",
+"police; police cadres"
+],
+[
+"干线",
+6.02,
+"gàn xiàn",
+"main line; trunk line"
+]
+],
 "strokes": [
 "M 524 729 Q 597 742 677 756 Q 737 768 746 776 Q 756 785 751 794 Q 744 807 711 817 Q 677 826 587 796 Q 446 762 325 753 Q 283 749 312 728 Q 355 703 438 715 Q 445 716 457 718 L 524 729 Z",
 "M 545 455 Q 755 479 902 467 Q 938 467 943 473 Q 950 489 937 501 Q 903 532 854 553 Q 838 560 809 550 Q 782 544 546 508 L 486 501 Q 465 501 286 476 Q 214 463 107 461 Q 91 461 90 448 Q 90 435 111 419 Q 130 406 166 392 Q 178 388 198 397 Q 214 403 291 417 Q 378 438 485 450 L 545 455 Z",

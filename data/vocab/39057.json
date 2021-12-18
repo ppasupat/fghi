@@ -9,29 +9,42 @@
 [
 "频道",
 5,
-"píndào",
+"pín dào",
 "frequency; (television) channel"
-],
-[
-"频繁",
-6,
-"pínfán",
-"frequently; often"
-],
-[
-"频率",
-6,
-"pínlǜ",
-"frequency"
 ],
 [
 "视频",
 6,
-"shìpín",
+"shì pín",
 "video"
+],
+[
+"频率",
+6,
+"pín lu:4",
+"frequency"
+],
+[
+"频繁",
+6,
+"pín fán",
+"frequently; often"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"频频",
+15.69,
+"pín pín",
+"repeatedly; again and again; continuously; constantly"
+],
+[
+"音频",
+9.01,
+"yīn pín",
+"audio; sound; audio frequency; sound frequency"
+]
+],
 "strokes": [
 "M 375 544 Q 378 595 381 642 L 383 671 Q 383 689 398 793 Q 401 803 384 816 Q 353 832 331 835 Q 318 838 310 830 Q 303 823 311 810 Q 329 788 329 770 Q 339 661 338 533 C 338 503 373 514 375 544 Z",
 "M 381 642 L 494 668 Q 515 674 506 685 Q 494 698 470 699 Q 431 702 383 671 C 358 655 352 635 381 642 Z",

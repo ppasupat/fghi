@@ -9,59 +9,162 @@
 [
 "运动",
 2,
-"yùndòng",
-"(physical) exercise; movement; sports; campaign"
-],
-[
-"命运",
-5,
-"mìngyùn",
-"fate; destiny"
+"yùn dòng",
+"to move; to exercise; sports; exercise; motion; movement; campaign; CL:場|场[chang3]"
 ],
 [
 "幸运",
 5,
-"xìngyùn",
-"luck; fortune"
+"xìng yùn",
+"fortunate; lucky; fortune; luck"
+],
+[
+"命运",
+5,
+"mìng yùn",
+"fate; destiny; CL:個|个[ge4]"
 ],
 [
 "运气",
 5,
-"yùnqi",
-"luck"
-],
-[
-"运输",
-5,
-"yùnshū",
-"transport; transportation"
+"yùn qi",
+"luck (good or bad)"
 ],
 [
 "运用",
 5,
-"yùnyòng",
-"to use; apply"
+"yùn yòng",
+"to use; to put to use"
 ],
 [
-"托运",
-6,
-"tuōyùn",
-"check in (baggage); consign for shipment"
-],
-[
-"运算",
-6,
-"yùnsuàn",
-"(mathematical) operation"
+"运输",
+5,
+"yùn shū",
+"to transport; to carry; transportation"
 ],
 [
 "运行",
 6,
-"yùnxíng",
-"movement; be in motion; run"
+"yùn xíng",
+"to move along one's course (of celestial bodies etc); (fig.) to function; to be in operation; (of a train service etc) to operate; to run; (of a computer) to run"
+],
+[
+"运算",
+6,
+"yùn suàn",
+"to perform calculations; (mathematical) operation"
+],
+[
+"托运",
+6,
+"tuō yùn",
+"to consign (goods); to check through (baggage)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"好运",
+98.04,
+"hǎo yùn",
+"good luck"
+],
+[
+"运营",
+64.89,
+"yùn yíng",
+"to be in operation; to do business; (of train, bus etc) to be in service; operation; service"
+],
+[
+"奥运",
+46.65,
+"Ào yùn",
+"abbr. for 奧林匹克運動會|奥林匹克运动会; Olympic Games; the Olympics"
+],
+[
+"运作",
+46.33,
+"yùn zuò",
+"to operate; operations; workings; activities (usu. of an organization); thread (computing)"
+],
+[
+"奥运会",
+40.08,
+"Ào yùn huì",
+"abbr. for 奧林匹克運動會|奥林匹克运动会; Olympic Games; the Olympics"
+],
+[
+"运动员",
+39.81,
+"yùn dòng yuán",
+"athlete; CL:名[ming2],個|个[ge4]"
+],
+[
+"走运",
+29.54,
+"zǒu yùn",
+"to have good luck; lucky; in luck"
+],
+[
+"亚运会",
+19.19,
+"Yà yùn huì",
+"Asian Games"
+],
+[
+"客运",
+17.87,
+"kè yùn",
+"passenger transportation; (Tw) intercity bus"
+],
+[
+"春运",
+17.6,
+"chūn yùn",
+"(increased) passenger transportation around Chinese New Year"
+],
+[
+"运转",
+14.85,
+"yùn zhuǎn",
+"to work; to operate; to revolve; to turn around"
+],
+[
+"运动会",
+13.38,
+"yùn dòng huì",
+"sports competition; CL:個|个[ge4]"
+],
+[
+"营运",
+11.35,
+"yíng yùn",
+"running; operation (of airport, bus service, business etc)"
+],
+[
+"货运",
+9.03,
+"huò yùn",
+"freight transport; cargo; transported goods"
+],
+[
+"运送",
+8.57,
+"yùn sòng",
+"to transport; to carry"
+],
+[
+"转运",
+6.02,
+"zhuǎn yùn",
+"to forward goods; to ship; to distribute; transshipment; a lucky break; change of fortune (for the better)"
+],
+[
+"航运",
+5.94,
+"háng yùn",
+"shipping; transport"
+]
+],
 "strokes": [
 "M 509 686 Q 470 673 501 660 Q 544 644 615 666 Q 667 684 724 703 Q 752 713 755 718 Q 764 728 757 736 Q 747 748 716 751 Q 682 752 652 735 Q 622 720 589 708 Q 552 695 509 686 Z",
 "M 617 511 Q 617 512 619 512 Q 649 518 863 538 Q 882 539 885 547 Q 889 559 874 570 Q 819 606 762 586 Q 642 556 418 509 Q 399 506 414 491 Q 441 470 490 481 Q 521 491 562 500 L 617 511 Z",

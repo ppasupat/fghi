@@ -9,201 +9,261 @@
 [
 "感冒",
 3,
-"gǎnmào",
-"catch cold; (common) cold"
+"gǎn mào",
+"to catch cold; (common) cold; CL:場|场[chang2],次[ci4]; (coll.) to be interested in (often used in the negative); (Tw) to detest; can't stand"
 ],
 [
 "感兴趣",
 3,
-"gǎn xìngqù",
-"be interested in"
-],
-[
-"感动",
-4,
-"gǎndòng",
-"be moved; to touch emotionally"
+"gǎn xìng qù",
+"to be interested"
 ],
 [
 "感觉",
 4,
-"gǎnjué",
-"to feel; become aware of; feeling"
-],
-[
-"感情",
-4,
-"gǎnqíng",
-"feeling; emotion; sensation"
+"gǎn jué",
+"to feel; to become aware of; feeling; sense; perception; CL:個|个[ge4]"
 ],
 [
 "感谢",
 4,
-"gǎnxiè",
-"thank; be grateful"
+"gǎn xiè",
+"(express) thanks; gratitude; grateful; thankful; thanks"
 ],
 [
-"感激",
-5,
-"gǎnjī",
-"appreciate; feel grateful"
+"感情",
+4,
+"gǎn qíng",
+"emotion; sentiment; affection; feelings between two persons; CL:個|个[ge4],種|种[zhong3]"
+],
+[
+"感动",
+4,
+"gǎn dòng",
+"to move (sb); to touch (sb emotionally); moving"
 ],
 [
 "感受",
 5,
-"gǎnshòu",
-"feel; experience; emotion; impression"
+"gǎn shòu",
+"to sense; perception; to feel (through the senses); to experience; a feeling; an impression; an experience"
 ],
 [
-"感想",
+"感激",
 5,
-"gǎnxiǎng",
-"impressions; reflections; thoughts"
+"gǎn jī",
+"to be grateful; to appreciate; thankful"
 ],
 [
 "敏感",
 5,
-"mǐngǎn",
+"mǐn gǎn",
 "sensitive; susceptible"
 ],
 [
-"反感",
-6,
-"fǎngǎn",
-"(strongly) dislike"
-],
-[
-"感慨",
-6,
-"gǎnkǎi",
-"lament; with a tinge of emotion or regret"
-],
-[
-"感染",
-6,
-"gǎnrǎn",
-"infection; infect; influence"
-],
-[
-"灵感",
-6,
-"línggǎn",
-"inspiration; insight; a burst of creativity in scientific or artistic endeavor"
+"感想",
+5,
+"gǎn xiǎng",
+"impressions; reflections; thoughts; CL:通[tong4],個|个[ge4]"
 ],
 [
 "性感",
 6,
-"xìnggǎn",
-"sex appeal; sexy; sexuality"
+"xìng gǎn",
+"sex appeal; eroticism; sexuality; sexy"
+],
+[
+"感染",
+6,
+"gǎn rǎn",
+"infection; to infect; to influence"
+],
+[
+"灵感",
+6,
+"líng gǎn",
+"inspiration; insight; a burst of creativity in scientific or artistic endeavor"
+],
+[
+"反感",
+6,
+"fǎn gǎn",
+"to be disgusted with; to dislike; bad reaction; antipathy"
+],
+[
+"感慨",
+6,
+"gǎn kǎi",
+"to sigh with sorrow, regret etc; rueful; deeply moved"
 ]
 ],
 "extraWords": [
 [
 "感到",
 197.1,
-"gan3 dao4",
+"gǎn dào",
 "to feel; to sense; to have the feeling that; to think that; to move; to affect"
 ],
 [
 "情感",
 41.57,
-"qing2 gan3",
+"qíng gǎn",
 "feeling; emotion; to move (emotionally)"
 ],
 [
 "流感",
 31.76,
-"liu2 gan3",
+"liú gǎn",
 "flu; influenza"
+],
+[
+"感觉到",
+30.43,
+"gǎn jué dào",
+"to feel; to sense; to detect; to perceive; to become aware"
 ],
 [
 "感恩",
 26.11,
-"gan3 en1",
+"gǎn ēn",
 "to be grateful"
+],
+[
+"感恩节",
+16.66,
+"Gǎn ēn jié",
+"Thanksgiving Day"
+],
+[
+"感叹",
+15.86,
+"gǎn tàn",
+"to sigh (with feeling); to lament"
 ],
 [
 "感人",
 14.24,
-"gan3 ren2",
+"gǎn rén",
 "touching; moving"
 ],
 [
 "安全感",
 14.09,
-"an1 quan2 gan3",
+"ān quán gǎn",
 "sense of security"
+],
+[
+"预感",
+13.65,
+"yù gǎn",
+"to have a premonition; premonition"
+],
+[
+"责任感",
+13.62,
+"zé rèn gǎn",
+"sense of responsibility"
+],
+[
+"伤感",
+11.12,
+"shāng gǎn",
+"sad; emotional; sentimental; pathos"
+],
+[
+"感应",
+11.0,
+"gǎn yìng",
+"response; reaction; interaction; irritability (biol.); induction (elec.); inductance"
 ],
 [
 "感性",
 10.41,
-"gan3 xing4",
+"gǎn xìng",
 "perception; perceptual; sensibility; sensitive; emotional; sentimental"
 ],
 [
 "好感",
 9.82,
-"hao3 gan3",
+"hǎo gǎn",
 "good opinion; favorable impression"
+],
+[
+"动感",
+9.75,
+"dòng gǎn",
+"sense of movement (often in a static work of art); dynamic; vivid; lifelike"
 ],
 [
 "同感",
 9.12,
-"tong2 gan3",
+"tóng gǎn",
 "(have the) same feeling; similar impression; common feeling"
+],
+[
+"质感",
+8.71,
+"zhì gǎn",
+"realism (in art); sense of reality; texture; tactile quality"
+],
+[
+"传感器",
+8.02,
+"chuán gǎn qì",
+"sensor; transducer"
 ],
 [
 "感悟",
 7.64,
-"gan3 wu4",
+"gǎn wù",
 "to come to realize; to appreciate (feelings)"
 ],
 [
 "幽默感",
 7.63,
-"you1 mo4 gan3",
+"yōu mò gǎn",
 "sense of humor"
 ],
 [
 "手感",
 7.12,
-"shou3 gan3",
+"shǒu gǎn",
 "the feel (of sth touched with the hand); (textiles) handle"
 ],
 [
 "敏感性",
 6.51,
-"min3 gan3 xing4",
+"mǐn gǎn xìng",
 "sensitive; sensitivity"
 ],
 [
 "口感",
 6.48,
-"kou3 gan3",
+"kǒu gǎn",
 "taste; texture (of food); how food feels in the mouth"
 ],
 [
 "深感",
 6.38,
-"shen1 gan3",
+"shēn gǎn",
 "to feel deeply"
 ],
 [
 "快感",
 6.11,
-"kuai4 gan3",
+"kuài gǎn",
 "pleasure; thrill; delight; joy; pleasurable sensation; a high"
 ],
 [
 "感知",
 5.67,
-"gan3 zhi1",
+"gǎn zhī",
 "perception; awareness"
 ],
 [
 "美感",
 5.66,
-"mei3 gan3",
+"měi gǎn",
 "sense of beauty; aesthetic perception"
 ]
 ],

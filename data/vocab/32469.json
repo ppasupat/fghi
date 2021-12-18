@@ -10,22 +10,35 @@
 "绕",
 5,
 "rào",
-"to wind; to coil; move round"
+"to wind; to coil (thread); to rotate around; to spiral; to move around; to go round (an obstacle); to by-pass; to make a detour; to confuse; to perplex"
+],
+[
+"绕",
+5,
+"rào",
+"variant of 繞|绕[rao4], to rotate around; to spiral; to move around; to go round (an obstacle); to by-pass; to make a detour"
 ],
 [
 "围绕",
 5,
-"wéirào",
-"revolve around; center on (an issue)"
+"wéi rào",
+"to revolve around; to center on (an issue)"
 ],
 [
 "缠绕",
 6,
-"chánrào",
-"bind; wind; twirl; twist; intertwine"
+"chán rào",
+"twisting; to twine; to wind; to pester; to bother"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"环绕",
+6.35,
+"huán rào",
+"to surround; to circle; to revolve around"
+]
+],
 "strokes": [
 "M 309 488 Q 272 497 240 504 Q 192 508 221 535 Q 278 626 332 693 Q 347 709 344 717 Q 341 732 303 763 Q 287 776 268 773 Q 258 770 263 755 Q 278 716 205 582 Q 189 552 156 523 Q 137 511 138 500 Q 139 481 152 463 Q 158 454 184 460 Q 215 467 295 468 C 325 468 338 481 309 488 Z",
 "M 295 468 Q 199 342 174 329 Q 161 320 164 307 Q 165 294 189 276 Q 199 266 213 277 Q 271 320 359 352 Q 377 356 379 365 Q 382 375 363 371 Q 314 361 254 343 Q 233 336 247 353 Q 286 405 376 509 Q 404 543 428 563 Q 440 572 434 581 Q 424 600 394 618 Q 379 628 370 625 Q 360 622 362 607 Q 365 574 309 488 L 295 468 Z",

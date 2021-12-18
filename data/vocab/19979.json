@@ -10,465 +10,639 @@
 "下",
 1,
 "xià",
-"fall; below"
+"down; downwards; below; lower; later; next (week etc); second (of two parts); to decline; to go down; to arrive at (a decision, conclusion etc); measure word to show the frequency of an action"
 ],
 [
 "下午",
 1,
-"xiàwǔ",
-"afternoon"
+"xià wǔ",
+"afternoon; CL:個|个[ge4]; p.m."
 ],
 [
 "下雨",
 1,
-"xiàyǔ",
+"xià yǔ",
 "to rain"
 ],
 [
 "一下",
 2,
-"yíxià",
-"a little bit/while; one time; once"
+"yī xià",
+"(used after a verb) give it a go; to do (sth for a bit to give it a try); one time; once; in a while; all of a sudden; all at once"
 ],
 [
 "下载",
 5,
-"xiàzǎi",
-"to download"
+"xià zǎi",
+"to download; also pr. [xia4 zai4]"
+],
+[
+"下属",
+6,
+"xià shǔ",
+"subordinate; underling"
 ],
 [
 "不相上下",
 6,
 "bù xiāng shàng xià",
 "equally matched; about the same"
-],
-[
-"下属",
-6,
-"xiàshǔ",
-"subordinate; underling"
 ]
 ],
 "extraWords": [
 [
+"下来",
+380.01,
+"xià lai",
+"to come down; (completed action marker); (after verb of motion, indicates motion down and towards us, also fig.); (indicates continuation from the past towards us); to be harvested (of crops); to be over (of a period of time); to go among the masses (said of leaders)"
+],
+[
 "下去",
 231.53,
-"xia4 qu4",
+"xià qù",
 "to go down; to descend; to go on; to continue; (of a servant) to withdraw"
 ],
 [
 "以下",
 140.76,
-"yi3 xia4",
+"yǐ xià",
 "that level or lower; that amount or less; the following"
 ],
 [
 "留下",
 140.7,
-"liu2 xia4",
+"liú xià",
 "to leave behind; to stay behind; to remain; to keep; not to let (sb) go"
 ],
 [
 "下降",
 140.26,
-"xia4 jiang4",
+"xià jiàng",
 "to decline; to drop; to fall; to go down; to decrease"
 ],
 [
 "下面",
 112.41,
-"xia4 mian4",
+"xià miàn",
 "below; under; next; the following; also pr. [xia4 mian5]"
+],
+[
+"下面",
+112.41,
+"xià miàn",
+"to boil noodles"
 ],
 [
 "放下",
 94.08,
-"fang4 xia4",
+"fàng xià",
 "to lay down; to put down; to let go of; to relinquish; to set aside; to lower (the blinds etc)"
 ],
 [
 "剩下",
 92.95,
-"sheng4 xia4",
+"shèng xià",
 "to remain; left over"
 ],
 [
 "坐下",
 82.78,
-"zuo4 xia5",
+"zuò xia",
 "to sit down"
 ],
 [
 "停下",
 73.3,
-"ting2 xia4",
+"tíng xià",
 "to stop"
 ],
 [
 "下跌",
 68.43,
-"xia4 die1",
+"xià diē",
 "to fall; to tumble"
 ],
 [
 "下次",
 67.01,
-"xia4 ci4",
+"xià cì",
 "next time"
 ],
 [
 "天下",
 59.51,
-"tian1 xia4",
+"tiān xià",
 "land under heaven; the whole world; the whole of China; realm; rule"
 ],
 [
 "之下",
 58.72,
-"zhi1 xia4",
+"zhī xià",
 "under; beneath; less than"
 ],
 [
 "如下",
 55.71,
-"ru2 xia4",
+"rú xià",
 "as follows"
 ],
 [
 "上下",
 44.84,
-"shang4 xia4",
+"shàng xià",
 "up and down; top and bottom; old and new; length; about"
 ],
 [
 "地下",
 39.91,
-"di4 xia4",
+"dì xià",
 "underground; subterranean; covert"
 ],
 [
 "陛下",
 35.26,
-"bi4 xia4",
+"bì xià",
 "Your Majesty; His or Her Majesty"
+],
+[
+"接下来",
+35.1,
+"jiē xià lái",
+"to accept; to take; next; following"
 ],
 [
 "下班",
 33.4,
-"xia4 ban1",
+"xià bān",
 "to finish work; to get off work"
+],
+[
+"阁下",
+32.64,
+"gé xià",
+"your distinguished self; your majesty; sire"
 ],
 [
 "一下子",
 31.5,
-"yi1 xia4 zi5",
+"yī xià zi",
 "in a short while; all at once; all of a sudden"
 ],
 [
 "在下",
 27.73,
-"zai4 xia4",
+"zài xià",
 "under; myself (humble)"
 ],
 [
 "底下",
 25.64,
-"di3 xia5",
+"dǐ xia",
 "the location below sth; afterwards"
 ],
 [
 "地下室",
 25.34,
-"di4 xia4 shi4",
+"dì xià shì",
 "basement; cellar"
+],
+[
+"楼下",
+25.07,
+"lóu xià",
+"downstairs"
 ],
 [
 "殿下",
 24.32,
-"dian4 xia4",
+"diàn xià",
 "Your Majesty (honorific); His or Her Highness"
 ],
 [
 "不下",
 23.43,
-"bu4 xia4",
+"bù xià",
 "to be not less than (a certain quantity, amount etc)"
 ],
 [
 "下滑",
 22.86,
-"xia4 hua2",
-"sliding; slide"
+"xià huá",
+"to slide down (a slope etc); (fig.) to decline"
 ],
 [
 "手下",
 22.45,
-"shou3 xia4",
+"shǒu xià",
 "under one's control or administration; subordinates; (money etc) on hand; sb's financial means; to take action"
+],
+[
+"下一个",
+21.6,
+"xià yī ge",
+"the next one"
 ],
 [
 "下手",
 20.24,
-"xia4 shou3",
+"xià shǒu",
 "to start; to put one's hand to; to set about; the seat to the right of the main guest"
+],
+[
+"当下",
+19.48,
+"dāng xià",
+"immediately; at once; at that moment; at the moment"
+],
+[
+"下岗",
+18.92,
+"xià gǎng",
+"to come off sentry duty; to lay off (a worker); laid-off"
+],
+[
+"下车",
+18.85,
+"xià chē",
+"to get off or out of (a bus, train, car etc)"
 ],
 [
 "下一步",
 17.16,
-"xia4 yi1 bu4",
+"xià yī bù",
 "the next step"
+],
+[
+"下调",
+17.07,
+"xià diào",
+"to demote; to pass down to a lower unit"
+],
+[
+"下调",
+17.07,
+"xià tiáo",
+"to adjust downwards; to lower (prices, wages etc)"
 ],
 [
 "下雪",
 16.85,
-"xia4 xue3",
+"xià xuě",
 "to snow"
 ],
 [
 "私下",
 16.25,
-"si1 xia4",
+"sī xià",
 "in private"
+],
+[
+"下发",
+15.49,
+"xià fā",
+"to issue (a memorandum etc) to lower levels; to distribute (e.g. disaster relief to victims)"
 ],
 [
 "低下",
 14.6,
-"di1 xia4",
+"dī xià",
 "low status; lowly; to lower (one's head)"
+],
+[
+"创下",
+14.58,
+"chuàng xià",
+"to establish; to set (a new record)"
 ],
 [
 "眼下",
 14.24,
-"yan3 xia4",
+"yǎn xià",
 "now; at present; subocular (medicine)"
 ],
 [
 "倒下",
 13.83,
-"dao3 xia4",
+"dǎo xià",
 "to collapse; to topple over"
 ],
 [
 "下列",
 13.69,
-"xia4 lie4",
+"xià liè",
 "following"
+],
+[
+"下达",
+12.95,
+"xià dá",
+"to transmit down (a chain of command); to pass down (to lower level); to issue; to send through"
 ],
 [
 "下旬",
 12.72,
-"xia4 xun2",
+"xià xún",
 "last third of the month"
 ],
 [
 "向下",
 12.08,
-"xiang4 xia4",
+"xiàng xià",
 "down; downward"
 ],
 [
 "打下",
 11.85,
-"da3 xia4",
+"dǎ xià",
 "to lay (a foundation); to conquer (a city etc); to shoot down (a bird etc)"
 ],
 [
 "下巴",
 11.69,
-"xia4 ba5",
+"xià ba",
 "chin; CL:個|个[ge4]"
 ],
 [
 "下方",
 11.41,
-"xia4 fang1",
+"xià fāng",
 "underneath; below; the underside; world of mortals; to descend to the world of mortals (of gods)"
 ],
 [
 "跪下",
 11.33,
-"gui4 xia5",
+"guì xia",
 "to kneel down"
 ],
 [
 "下落",
 11.06,
-"xia4 luo4",
+"xià luò",
 "whereabouts; to drop; to fall"
 ],
 [
 "落下",
 10.93,
-"luo4 xia4",
+"luò xià",
 "to fall; to drop; to land (of projectile)"
 ],
 [
 "下游",
 10.8,
-"xia4 you2",
+"xià yóu",
 "lower reaches (of a river); lower level; lower echelon; downstream"
 ],
 [
 "扔下",
 10.79,
-"reng1 xia4",
+"rēng xià",
 "to throw down; to drop (bomb)"
 ],
 [
 "拿下",
 10.79,
-"na2 xia4",
+"ná xià",
 "to arrest; to capture; to seize; to win (a set, a game etc)"
 ],
 [
 "下令",
 10.2,
-"xia4 ling4",
+"xià lìng",
 "to give an order; to command"
+],
+[
+"下场",
+10.12,
+"xià chǎng",
+"to leave (the stage, an exam room, the playing field etc); to take part in some activity; to take an examination (in the imperial examination system)"
+],
+[
+"下场",
+10.12,
+"xià chang",
+"the end; to conclude"
+],
+[
+"下课",
+9.88,
+"xià kè",
+"to finish class; to get out of class; (fig.) (esp. of a sports coach) to be dismissed; to be fired"
+],
+[
+"乡下",
+9.54,
+"xiāng xia",
+"countryside; rural area; CL:個|个[ge4]"
+],
+[
+"贫下中农",
+8.94,
+"pín xià zhōng nóng",
+"(category defined by the Communist Party) poor and lower-middle peasants: farmers who, before land reform, possessed little or no land (poor peasants) and those who were barely able to support themselves with their own land (lower-middle peasants)"
 ],
 [
 "下水道",
 8.67,
-"xia4 shui3 dao4",
+"xià shuǐ dào",
 "sewer"
 ],
 [
 "放不下",
 8.59,
-"fang4 bu5 xia4",
+"fàng bu xià",
 "not to have room to put sth; to be unable to let go"
+],
+[
+"停下来",
+8.22,
+"tíng xià lái",
+"to stop"
 ],
 [
 "下行",
 8.16,
-"xia4 xing2",
+"xià xíng",
 "(of trains) down (i.e. away from the capital); (of river boats) to travel downstream; to issue (a document) to lower bureaucratic levels; (of writing on the page) vertical, proceeding from top to bottom"
+],
+[
+"脚下",
+8.14,
+"jiǎo xià",
+"under the foot"
 ],
 [
 "松下",
 7.88,
-"Song1 xia4",
+"Sōng xià",
 "Matsushita (name); Panasonic (brand), abbr. for 松下電器|松下电器[Song1 xia4 Dian4 qi4]"
 ],
 [
 "生下",
 7.42,
-"sheng1 xia4",
+"shēng xià",
 "to give birth to"
+],
+[
+"时下",
+7.29,
+"shí xià",
+"at present; right now"
+],
+[
+"下楼",
+7.2,
+"xià lóu",
+"to go downstairs"
 ],
 [
 "南下",
 6.58,
-"nan2 xia4",
+"nán xià",
 "to go down south"
 ],
 [
 "下肢",
 6.56,
-"xia4 zhi1",
+"xià zhī",
 "lower limbs"
 ],
 [
 "下功夫",
 6.37,
-"xia4 gong1 fu5",
+"xià gōng fu",
 "see 下工夫[xia4 gong1 fu5]"
+],
+[
+"下台",
+6.29,
+"xià tái",
+"to go off the stage; to fall from position of prestige; to step down (from office etc); to disentangle oneself; to get off the hook"
+],
+[
+"下乡",
+6.26,
+"xià xiāng",
+"to go to the countryside"
 ],
 [
 "下士",
 6.17,
-"xia4 shi4",
+"xià shì",
 "lowest-ranked noncommissioned officer (e.g. corporal in the army or petty officer, third class in the navy)"
+],
+[
+"定下",
+6.11,
+"dìng xià",
+"to set (the tone, a target etc); to lay down (the beat)"
 ],
 [
 "下水",
 5.95,
-"xia4 shui3",
+"xià shuǐ",
 "downstream; to go into the water; to put into water; to launch (a ship); fig. to fall into bad ways; to lead astray; to go to pot"
 ],
 [
 "下水",
 5.95,
-"xia4 shui5",
+"xià shui",
 "offal; viscera; tripe"
 ],
 [
 "下山",
 5.95,
-"xia4 shan1",
+"xià shān",
 "(of the sun) to set"
 ],
 [
 "下毒",
 5.87,
-"xia4 du2",
+"xià dú",
 "to put poison in sth; to poison"
 ],
 [
 "下午茶",
 5.7,
-"xia4 wu3 cha2",
+"xià wǔ chá",
 "afternoon tea (light afternoon meal, typically pastries with tea or coffee)"
 ],
 [
 "零下",
 5.6,
-"ling2 xia4",
+"líng xià",
 "below zero"
+],
+[
+"下辈子",
+5.52,
+"xià bèi zi",
+"the next life"
 ],
 [
 "山下",
 5.46,
-"Shan1 xia4",
+"Shān xià",
 "Yamashita (Japanese surname)"
 ],
 [
 "下月",
 5.35,
-"xia4 yue4",
+"xià yuè",
 "next month"
+],
+[
+"属下",
+5.29,
+"shǔ xià",
+"subordinate; affiliated to; subsidiary"
 ],
 [
 "下放",
 5.25,
-"xia4 fang4",
+"xià fàng",
 "to delegate; to decentralize; to demote a party cadre to work on the shop floor or in the countryside"
 ],
 [
 "名下",
 5.16,
-"ming2 xia4",
+"míng xià",
 "under sb's name"
 ],
 [
 "居高不下",
 5.13,
-"ju1 gao1 bu4 xia4",
+"jū gāo bù xià",
 "(of prices, rates etc) to remain high"
 ],
 [
 "地下水",
 5.13,
-"di4 xia4 shui3",
+"dì xià shuǐ",
 "groundwater"
 ],
 [
 "水下",
 5.1,
-"shui3 xia4",
+"shuǐ xià",
 "under the water; submarine"
 ],
 [
 "按下",
 5.07,
-"an4 xia4",
+"àn xià",
 "to press down; to press a button"
 ],
 [
 "下星期",
 5.04,
-"xia4 xing1 qi1",
+"xià xīng qī",
 "next week"
+],
+[
+"下决心",
+5.0,
+"xià jué xīn",
+"to determine; to resolve"
 ]
 ],
 "strokes": [

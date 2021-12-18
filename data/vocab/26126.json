@@ -9,280 +9,310 @@
 [
 "明天",
 1,
-"míngtiān",
+"míng tiān",
 "tomorrow"
-],
-[
-"聪明",
-3,
-"cōngming",
-"intelligent; clever; bright; smart"
 ],
 [
 "明白",
 3,
-"míngbai",
-"clear; obvious; understand; explicit"
+"míng bai",
+"clear; obvious; unequivocal; to understand; to realize"
 ],
 [
-"说明",
-4,
-"shuōmíng",
-"explain; explanation; illustrate; to show"
+"聪明",
+3,
+"cōng ming",
+"intelligent; clever; bright; smart; acute (of sight and hearing)"
 ],
 [
 "证明",
 4,
-"zhèngmíng",
-"proof; testify; confirm; certificate"
+"zhèng míng",
+"proof; certificate; identification; testimonial; CL:個|个[ge4]; to prove; to testify; to confirm the truth of"
 ],
 [
-"表明",
-5,
-"biǎomíng",
-"make clear; make known"
-],
-[
-"发明",
-5,
-"fāmíng",
-"invent"
-],
-[
-"光明",
-5,
-"guāngmíng",
-"bright (future); promising; illuminate"
-],
-[
-"明确",
-5,
-"míngquè",
-"clear-cut; clearly; clarify"
+"说明",
+4,
+"shuō míng",
+"to explain; to illustrate; to indicate; to show; to prove; explanation; directions; caption; CL:個|个[ge4]"
 ],
 [
 "明显",
 5,
-"míngxiǎn",
-"clear; obvious"
+"míng xiǎn",
+"clear; distinct; obvious"
 ],
 [
 "明星",
 5,
-"míngxīng",
-"(movie, etc.) star; celebrity"
+"míng xīng",
+"star; celebrity"
 ],
 [
-"透明",
+"表明",
 5,
-"tòumíng",
-"transparent; open (non-secretive)"
+"biǎo míng",
+"to make clear; to make known; to state clearly; to indicate; known"
+],
+[
+"发明",
+5,
+"fā míng",
+"to invent; an invention; CL:個|个[ge4]"
+],
+[
+"明确",
+5,
+"míng què",
+"clear-cut; definite; explicit; to clarify; to specify; to make definite"
+],
+[
+"光明",
+5,
+"guāng míng",
+"light; radiance; (fig.) bright (prospects etc); openhearted"
 ],
 [
 "文明",
 5,
-"wénmíng",
-"civilization; civilized; culture"
+"wén míng",
+"civilized; civilization; culture; CL:個|个[ge4]"
 ],
 [
-"分明",
-6,
-"fēnmíng",
-"clear; distinct; evidently; clearly"
-],
-[
-"高明",
-6,
-"gāomíng",
-"brilliant; wise"
-],
-[
-"开明",
-6,
-"kāimíng",
-"enlightened; open-minded"
-],
-[
-"黎明",
-6,
-"límíng",
-"dawn; daybreak"
-],
-[
-"明明",
-6,
-"míngmíng",
-"obviously; plainly; undoubtedly"
-],
-[
-"明智",
-6,
-"míngzhì",
-"wise"
+"透明",
+5,
+"tòu míng",
+"transparent; open (non-secretive)"
 ],
 [
 "声明",
 6,
-"shēngmíng",
-"statement; declare; proclaim"
+"shēng míng",
+"to state; to declare; statement; declaration; CL:項|项[xiang4],份[fen4]"
+],
+[
+"明智",
+6,
+"míng zhì",
+"sensible; wise; judicious; sagacious"
+],
+[
+"明明",
+6,
+"míng míng",
+"obviously; plainly; undoubtedly; definitely"
+],
+[
+"黎明",
+6,
+"lí míng",
+"dawn; daybreak"
+],
+[
+"高明",
+6,
+"Gāo míng",
+"Gaoming District of Foshan City 佛山市[Fo2 shan1 Shi4], Guangdong"
+],
+[
+"高明",
+6,
+"gāo míng",
+"brilliant; superior; tall and bright"
+],
+[
+"分明",
+6,
+"fēn míng",
+"clear; distinct; evidently; clearly"
 ],
 [
 "鲜明",
 6,
-"xiānmíng",
+"xiān míng",
 "bright; clear-cut; distinct"
 ],
 [
 "英明",
 6,
-"yīngmíng",
+"yīng míng",
 "wise; brilliant"
+],
+[
+"开明",
+6,
+"kāi míng",
+"enlightened; open-minded; enlightenment"
 ]
 ],
 "extraWords": [
 [
 "明年",
 84.95,
-"ming2 nian2",
+"míng nián",
 "next year"
 ],
 [
 "三明治",
 34.22,
-"san1 ming2 zhi4",
+"sān míng zhì",
 "sandwich (loanword); CL:個|个[ge4]"
 ],
 [
 "姚明",
 21.44,
-"Yao2 Ming2",
+"Yáo Míng",
 "Yao Ming (1980-), retired Chinese basketball player, played for CBA Shanghai Sharks 1997-2002 and for NBA Houston Rockets 2002-2011"
 ],
 [
 "明早",
 20.99,
-"ming2 zao3",
+"míng zǎo",
 "tomorrow morning; tomorrow"
 ],
 [
 "昆明",
 20.26,
-"Kun1 ming2",
+"Kūn míng",
 "Kunming prefecture-level city and capital of Yunnan province in southwest China"
 ],
 [
 "明晚",
 19.76,
-"ming2 wan3",
+"míng wǎn",
 "tomorrow evening"
 ],
 [
 "不明",
 19.03,
-"bu4 ming2",
+"bù míng",
 "not clear; unknown; to fail to understand"
 ],
 [
 "精神文明",
 15.17,
-"jing1 shen2 wen2 ming2",
+"jīng shén wén míng",
 "spiritual culture"
 ],
 [
 "明日",
 11.7,
-"ming2 ri4",
+"míng rì",
 "tomorrow"
 ],
 [
 "照明",
 11.33,
-"zhao4 ming2",
+"zhào míng",
 "lighting; illumination; to light up; to illuminate"
+],
+[
+"说明书",
+11.28,
+"shuō míng shū",
+"(technical) manual; (book of) directions; synopsis (of a play or film); specification (patent); CL:本[ben3]"
 ],
 [
 "明亮",
 9.99,
-"ming2 liang4",
+"míng liàng",
 "bright; shining; glittering; to become clear"
 ],
 [
 "查明",
 9.75,
-"cha2 ming2",
+"chá míng",
 "to investigate and find out; to ascertain"
 ],
 [
 "明知",
 8.64,
-"ming2 zhi1",
+"míng zhī",
 "to be fully aware of; to know perfectly well"
 ],
 [
 "注明",
 8.47,
-"zhu4 ming2",
+"zhù míng",
 "to clearly indicate"
 ],
 [
 "明珠",
 8.2,
-"ming2 zhu1",
+"míng zhū",
 "pearl; jewel (of great value)"
 ],
 [
 "明朗",
 8.05,
-"ming2 lang3",
+"míng lǎng",
 "bright; clear; obvious; forthright; open-minded; bright and cheerful"
 ],
 [
 "明月",
 6.91,
-"ming2 yue4",
+"míng yuè",
 "bright moon; refers to 夜明珠, a legendary pearl that can glow in the dark; CL:輪|轮[lun2]"
 ],
 [
 "透明度",
 6.59,
-"tou4 ming2 du4",
+"tòu míng dù",
 "transparency; (policy of) openness"
 ],
 [
 "明了",
 6.52,
-"ming2 liao3",
+"míng liǎo",
 "to understand clearly; to be clear about; plain; clear; also written 明瞭|明了[ming2 liao3]"
+],
+[
+"明了",
+6.52,
+"míng liǎo",
+"to understand clearly; to be clear about; plain; clear"
 ],
 [
 "明信片",
 6.37,
-"ming2 xin4 pian4",
+"míng xìn piàn",
 "postcard"
 ],
 [
 "精明",
 6.2,
-"jing1 ming2",
+"jīng míng",
 "astute; shrewd"
 ],
 [
 "明朝",
 5.67,
-"Ming2 chao2",
+"Míng cháo",
 "Ming Dynasty (1368-1644)"
 ],
 [
 "明朝",
 5.67,
-"ming2 zhao1",
+"míng zhāo",
 "tomorrow morning; the following morning"
 ],
 [
 "明代",
 5.33,
-"Ming2 dai4",
+"Míng dài",
 "the Ming dynasty (1368-1644)"
+],
+[
+"圆明园",
+5.25,
+"Yuán míng yuán",
+"Yuanmingyuan, the Old Summer Palace, destroyed by the British and French army in 1860"
+],
+[
+"标明",
+5.05,
+"biāo míng",
+"to mark; to indicate"
 ]
 ],
 "strokes": [

@@ -9,23 +9,138 @@
 [
 "听",
 1,
+"yǐn",
+"smile (archaic)"
+],
+[
+"听",
+1,
 "tīng",
-"listen; hear"
+"to listen; to hear; to obey; a can (loanword from English \"tin\"); classifier for canned beverages"
+],
+[
+"听",
+1,
+"tìng",
+"(literary pronunciation, still advocated in Taiwan) to rule; to sentence; to allow"
 ],
 [
 "打听",
 5,
-"dǎting",
-"ask about; inquire about"
+"dǎ ting",
+"to ask about; to make some inquiries; to ask around"
 ],
 [
 "倾听",
 6,
-"qīngtīng",
-"listen attentively; heed (other people's opinions)"
+"qīng tīng",
+"to listen attentively"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"听说",
+241.4,
+"tīng shuō",
+"to hear (sth said); one hears (that); hearsay; listening and speaking"
+],
+[
+"听到",
+199.57,
+"tīng dào",
+"to hear"
+],
+[
+"听见",
+77.27,
+"tīng jiàn",
+"to hear"
+],
+[
+"好听",
+28.84,
+"hǎo tīng",
+"pleasant to hear"
+],
+[
+"听取",
+21.26,
+"tīng qǔ",
+"to hear (news); to listen to"
+],
+[
+"听话",
+13.29,
+"tīng huà",
+"to do what one is told; obedient"
+],
+[
+"听证会",
+11.95,
+"tīng zhèng huì",
+"(legislative) hearing"
+],
+[
+"收听",
+11.11,
+"shōu tīng",
+"to listen to (a radio broadcast)"
+],
+[
+"听力",
+8.78,
+"tīng lì",
+"hearing; listening ability"
+],
+[
+"窃听器",
+8.41,
+"qiè tīng qì",
+"tapping device; bug"
+],
+[
+"听众",
+7.81,
+"tīng zhòng",
+"audience; listeners"
+],
+[
+"监听",
+7.51,
+"jiān tīng",
+"to monitor; to listen in; to eavesdrop"
+],
+[
+"聆听",
+7.31,
+"líng tīng",
+"to listen (respectfully)"
+],
+[
+"听从",
+6.86,
+"tīng cóng",
+"to listen and obey; to comply with; to heed; to hearken"
+],
+[
+"听起来",
+6.46,
+"tīng qi lai",
+"to sound like"
+],
+[
+"偷听",
+6.32,
+"tōu tīng",
+"to eavesdrop; to monitor (secretly)"
+],
+[
+"窃听",
+6.14,
+"qiè tīng",
+"to eavesdrop; to wiretap"
+]
+],
 "strokes": [
 "M 134 572 Q 124 576 101 581 Q 88 585 85 580 Q 78 574 86 558 Q 116 485 128 368 Q 129 332 148 308 Q 164 286 171 301 Q 180 322 176 361 L 171 396 Q 155 514 154 544 C 153 566 153 566 134 572 Z",
 "M 314 425 Q 330 521 356 551 Q 378 578 354 592 Q 333 602 305 621 Q 286 631 266 619 Q 223 589 134 572 C 105 566 126 534 154 544 Q 167 550 243 566 Q 268 573 274 562 Q 284 555 276 515 Q 269 472 260 421 C 255 391 309 395 314 425 Z",

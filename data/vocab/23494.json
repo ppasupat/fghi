@@ -9,106 +9,130 @@
 [
 "密码",
 4,
-"mìmǎ",
-"password; secret code"
+"mì mǎ",
+"secret code; ciphertext; password; PIN"
 ],
 [
 "秘密",
 5,
-"mìmì",
-"a secret; confidential"
+"mì mì",
+"secret; CL:個|个[ge4]"
 ],
 [
 "密切",
 5,
-"mìqiè",
-"close; familiar; intimate"
+"mì qiè",
+"close; familiar; intimate; closely (related); to foster close ties; to pay close attention"
 ],
 [
 "保密",
 6,
 "bǎo mì",
-"keep secret/confidential"
-],
-[
-"稠密",
-6,
-"chóumì",
-"dense; thick"
-],
-[
-"机密",
-6,
-"jīmì",
-"secret; classified (information)"
-],
-[
-"精密",
-6,
-"jīngmì",
-"accuracy; exact; precise; refined"
-],
-[
-"密度",
-6,
-"mìdù",
-"density; thickness; consistency"
-],
-[
-"密封",
-6,
-"mìfēng",
-"seal up; pressurize"
+"to keep sth confidential; to maintain secrecy"
 ],
 [
 "亲密",
 6,
-"qīnmì",
-"intimate; close; familiarity"
+"qīn mì",
+"intimate; close"
+],
+[
+"机密",
+6,
+"jī mì",
+"secret; classified (information)"
+],
+[
+"密封",
+6,
+"mì fēng",
+"to seal up"
 ],
 [
 "严密",
 6,
-"yánmì",
-"strict; closely-knit; tight"
+"yán mì",
+"strict; tight (organization, surveillance etc)"
+],
+[
+"密度",
+6,
+"mì dù",
+"density; thickness"
+],
+[
+"精密",
+6,
+"jīng mì",
+"accuracy; exact; precise; refined"
 ],
 [
 "周密",
 6,
-"zhōumì",
-"meticulous; careful; thorough"
+"zhōu mì",
+"careful; thorough; meticulous; dense; impenetrable"
+],
+[
+"稠密",
+6,
+"chóu mì",
+"dense"
 ]
 ],
 "extraWords": [
 [
+"迈阿密",
+29.87,
+"Mài ā mì",
+"Miami (Florida)"
+],
+[
+"紧密",
+27.18,
+"jǐn mì",
+"inseparably close"
+],
+[
 "密集",
 14.79,
-"mi4 ji2",
+"mì jí",
 "concentrated; crowded together; intensive; compressed"
 ],
 [
 "史密斯",
 9.78,
-"Shi3 mi4 si1",
+"Shǐ mì sī",
 "Smith (name)"
+],
+[
+"密切相关",
+8.67,
+"mì qiè xiāng guān",
+"closely related"
 ],
 [
 "加密",
 7.93,
-"jia1 mi4",
+"jiā mì",
 "to encrypt; encryption; to protect with a password"
 ],
 [
 "告密",
 5.54,
-"gao4 mi4",
+"gào mì",
 "to inform against sb"
 ],
 [
 "密室",
 5.48,
-"mi4 shi4",
+"mì shì",
 "a room for keeping sth hidden; secret room; hidden chamber"
+],
+[
+"罗密欧",
+5.28,
+"Luó mì ōu",
+"Romeo (name)"
 ]
 ],
 "strokes": [

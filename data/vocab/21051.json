@@ -10,80 +10,86 @@
 "刻",
 3,
 "kè",
-"quarter (hour); (mw for short time intervals); carve; to cut"
-],
-[
-"刻苦",
-5,
-"kèkǔ",
-"hardworking; assiduous"
-],
-[
-"立刻",
-5,
-"lìkè",
-"immediately; at once; right away"
-],
-[
-"深刻",
-5,
-"shēnkè",
-"profound; deep"
+"quarter (hour); moment; to carve; to engrave; to cut; oppressive; classifier for short time intervals"
 ],
 [
 "时刻",
 5,
-"shíkè",
-"moment; constantly"
+"shí kè",
+"time; juncture; moment; period of time; CL:個|个[ge4],段[duan4]; constantly; always"
 ],
 [
-"雕刻",
-6,
-"diāokè",
-"carve; engrave; sculpt"
+"立刻",
+5,
+"lì kè",
+"forthwith; immediate; prompt; promptly; straightway; thereupon; at once"
 ],
 [
-"刻不容缓",
-6,
-"kèbùrónghuǎn",
-"demand immediate action; brook no delay"
+"深刻",
+5,
+"shēn kè",
+"profound; deep; deep-going"
+],
+[
+"刻苦",
+5,
+"kè kǔ",
+"hardworking; assiduous"
 ],
 [
 "片刻",
 6,
-"piànkè",
-"a short period of time"
+"piàn kè",
+"short period of time; a moment"
+],
+[
+"雕刻",
+6,
+"diāo kè",
+"to carve; to engrave; carving"
+],
+[
+"刻不容缓",
+6,
+"kè bù róng huǎn",
+"to brook no delay; to demand immediate action"
 ]
 ],
 "extraWords": [
 [
 "此刻",
 25.49,
-"ci3 ke4",
+"cǐ kè",
 "this moment; now; at present"
 ],
 [
 "刻意",
 12.87,
-"ke4 yi4",
+"kè yì",
 "meticulous; painstaking; deliberate"
 ],
 [
 "刻薄",
 11.51,
-"ke4 bo2",
+"kè bó",
 "unkind; harsh; cutting; mean; acrimony; to embezzle by making illegal deductions"
+],
+[
+"此时此刻",
+6.86,
+"cǐ shí cǐ kè",
+"at this very moment"
 ],
 [
 "即刻",
 5.89,
-"ji2 ke4",
+"jí kè",
 "immediately; instant; instantly"
 ],
 [
 "苛刻",
 5.46,
-"ke1 ke4",
+"kē kè",
 "harsh; severe; demanding"
 ]
 ],

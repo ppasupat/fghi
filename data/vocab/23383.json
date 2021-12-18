@@ -7,72 +7,108 @@
 },
 "words": [
 [
-"名字",
-1,
-"míngzi",
-"name"
-],
-[
 "字",
 1,
 "zì",
-"letter; character"
+"letter; symbol; character; word; CL:個|个[ge4]; courtesy or style name traditionally given to males aged 20 in dynastic China"
+],
+[
+"名字",
+1,
+"míng zi",
+"name (of a person or thing); CL:個|个[ge4]"
 ],
 [
 "数字",
 4,
-"shùzì",
-"number; numeral; figure; digit"
-],
-[
-"文字",
-5,
-"wénzì",
-"characters; script; writing"
+"shù zì",
+"numeral; digit; number; figure; amount; digital (electronics etc); CL:個|个[ge4]"
 ],
 [
 "字母",
 5,
-"zìmǔ",
-"letter (of the alphabet)"
+"zì mǔ",
+"letter (of the alphabet); CL:個|个[ge4]"
+],
+[
+"文字",
+5,
+"wén zì",
+"character; script; writing; written language; writing style; phraseology; CL:個|个[ge4]"
 ],
 [
 "字幕",
 5,
-"zìmù",
-"subtitles; captions"
-],
-[
-"赤字",
-6,
-"chìzì",
-"(financial) deficit; red ink"
-],
-[
-"繁体字",
-6,
-"fántǐzì",
-"traditional Chinese character"
+"zì mù",
+"caption; subtitle"
 ],
 [
 "简体字",
 6,
-"jiǎntǐzì",
-"simplified Chinese characters"
+"jiǎn tǐ zì",
+"simplified Chinese character, as opposed to traditional Chinese character 繁體字|繁体字[fan2 ti3 zi4]"
+],
+[
+"赤字",
+6,
+"chì zì",
+"(financial) deficit; red letter"
+],
+[
+"繁体字",
+6,
+"fán tǐ zì",
+"traditional Chinese character"
 ]
 ],
 "extraWords": [
 [
+"签字",
+18.81,
+"qiān zì",
+"to sign (one's name); signature"
+],
+[
 "十字架",
 11.27,
-"shi2 zi4 jia4",
+"shí zì jià",
 "cross; crucifix; yoke one has to endure"
+],
+[
+"写字楼",
+10.1,
+"xiě zì lóu",
+"office building"
+],
+[
+"字样",
+9.91,
+"zì yàng",
+"model or template character; written slogan or phrase; mention (e.g. \"air mail\" 航空 on a letter, \"first draft\" 初稿 on a document etc)"
+],
+[
+"汉字",
+8.58,
+"hàn zì",
+"Chinese character; CL:個|个[ge4]; Japanese: kanji; Korean: hanja; Vietnamese: hán tự"
 ],
 [
 "金字塔",
 7.2,
-"jin1 zi4 ta3",
+"jīn zì tǎ",
 "pyramid (building or structure)"
+],
+[
+"数字化",
+6.84,
+"shù zì huà",
+"to digitalize; digital"
+],
+[
+"写字",
+5.12,
+"xiě zì",
+"to write characters"
 ]
 ],
 "strokes": [

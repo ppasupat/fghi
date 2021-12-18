@@ -10,22 +10,71 @@
 "脱",
 4,
 "tuō",
-"to shed; take off; to escape"
+"to shed; to take off; to escape; to get away from"
 ],
 [
 "摆脱",
 6,
-"bǎituō",
-"break away; free oneself from; cast off"
+"bǎi tuō",
+"to break away from; to cast off (old ideas etc); to get rid of; to break away (from); to break out (of); to free oneself from; to extricate oneself"
 ],
 [
 "脱离",
 6,
-"tuōlí",
-"to separate oneself from; to break away from; be divorced from; diastasis (medicine); abscission; abjunction (botany)"
+"tuō lí",
+"to separate oneself from; to break away from; diastasis (medicine); abscission; abjunction (botany)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"逃脱",
+19.05,
+"táo tuō",
+"to run away; to escape"
+],
+[
+"脱衣舞",
+13.86,
+"tuō yī wǔ",
+"striptease"
+],
+[
+"解脱",
+12.13,
+"jiě tuō",
+"to untie; to free; to absolve of; to get free of; to extirpate oneself; (Buddhism) to free oneself of worldly worries"
+],
+[
+"脱身",
+9.24,
+"tuō shēn",
+"to get away; to escape (from obligations); to free oneself; to disengage"
+],
+[
+"脱落",
+8.73,
+"tuō luò",
+"to drop off; to come off; to lose (hair etc); to omit (a character when writing)"
+],
+[
+"脱颖而出",
+7.06,
+"tuō yǐng ér chū",
+"to reveal one's talent (idiom); to rise above others; to distinguish oneself"
+],
+[
+"脱光",
+6.62,
+"tuō guāng",
+"to strip naked; to strip nude; (coll.) to find oneself a partner"
+],
+[
+"洒脱",
+5.64,
+"sǎ tuō",
+"free and at ease; natural; unconstrained"
+]
+],
 "strokes": [
 "M 211 380 Q 223 471 226 503 L 228 537 Q 229 556 230 576 Q 230 648 236 679 C 239 701 239 701 224 709 Q 209 719 189 726 Q 170 735 159 729 Q 149 722 156 710 Q 177 686 177 646 Q 177 436 157 337 Q 154 325 151 313 Q 123 213 56 89 Q 52 82 51 77 Q 50 67 59 70 Q 74 73 105 121 Q 171 205 203 347 L 211 380 Z",
 "M 236 679 L 296 698 Q 314 702 319 693 Q 334 656 335 398 Q 335 188 322 169 Q 319 166 254 178 Q 235 185 236 176 Q 285 130 312 96 Q 325 77 339 73 Q 348 69 356 78 Q 395 123 394 176 Q 372 527 382 642 Q 383 669 392 682 Q 404 701 392 711 Q 371 727 337 742 Q 319 749 305 742 Q 272 723 224 709 C 195 700 207 670 236 679 Z",

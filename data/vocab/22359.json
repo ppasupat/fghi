@@ -10,10 +10,53 @@
 "块",
 1,
 "kuài",
-"lump; piece; sum of money"
+"lump (of earth); chunk; piece; classifier for pieces of cloth, cake, soap etc; (coll.) classifier for money and currency units"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"板块",
+40.9,
+"bǎn kuài",
+"slab; (geology) tectonic plate; (fig.) sector (of the stock market or of industry); (economic) bloc"
+],
+[
+"地块",
+15.43,
+"dì kuài",
+"tectonic plate"
+],
+[
+"模块",
+10.36,
+"mó kuài",
+"module (in software); functional unit; component part"
+],
+[
+"一块儿",
+9.51,
+"yī kuài r5",
+"erhua variant of 一塊|一块[yi1 kuai4]"
+],
+[
+"大块头",
+9.48,
+"dà kuài tóu",
+"heavy man; fat man; lunkhead; lummox; lug"
+],
+[
+"冰块",
+7.87,
+"bīng kuài",
+"ice cube; ice chunk"
+],
+[
+"一块",
+6.95,
+"yī kuài",
+"one block; one piece; one (unit of money); together; in the same place; in company"
+]
+],
 "strokes": [
 "M 294 486 Q 322 496 355 504 Q 385 514 390 519 Q 397 528 392 536 Q 385 548 354 552 Q 324 556 297 542 L 245 521 Q 185 502 130 491 Q 93 481 122 467 Q 165 448 222 465 Q 232 469 245 471 L 294 486 Z",
 "M 286 300 Q 290 396 294 486 L 297 542 Q 298 626 318 727 Q 322 739 300 755 Q 263 774 236 779 Q 218 782 210 773 Q 203 764 211 749 Q 238 710 238 684 Q 242 606 245 521 L 245 471 Q 245 381 242 284 C 241 254 285 270 286 300 Z",

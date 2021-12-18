@@ -9,250 +9,358 @@
 [
 "自己",
 3,
-"zìjǐ",
-"oneself; self"
+"zì jǐ",
+"oneself; one's own"
 ],
 [
 "自行车",
 3,
-"zìxíngchē",
-"bike; bicycle"
+"zì xíng chē",
+"bicycle; bike; CL:輛|辆[liang4]"
 ],
 [
 "来自",
 4,
-"láizì",
-"come from (a place)"
+"lái zì",
+"to come from (a place); From: (in email header)"
 ],
 [
 "自然",
 4,
-"zìrán",
-"nature; natural"
+"zì rán",
+"nature; natural; naturally"
 ],
 [
 "自信",
 4,
-"zìxìn",
-"self-confidence"
-],
-[
-"各自",
-5,
-"gèzì",
-"each; respective; apiece"
-],
-[
-"亲自",
-5,
-"qīnzì",
-"personally"
-],
-[
-"自从",
-5,
-"zìcóng",
-"since; ever since"
-],
-[
-"自动",
-5,
-"zìdòng",
-"automatic"
-],
-[
-"自豪",
-5,
-"zìháo",
-"(feel a sense of) pride"
-],
-[
-"自觉",
-5,
-"zìjué",
-"conscious; be aware of; self-motivated"
-],
-[
-"自私",
-5,
-"zìsī",
-"selfish"
+"zì xìn",
+"to have confidence in oneself; self-confidence"
 ],
 [
 "自由",
 5,
-"zìyóu",
-"freedom; free; liberty"
+"zì yóu",
+"freedom; free; liberty; CL:個|个[ge4]"
+],
+[
+"自从",
+5,
+"zì cóng",
+"since (a time); ever since"
+],
+[
+"亲自",
+5,
+"qīn zì",
+"personally; in person; oneself"
+],
+[
+"自豪",
+5,
+"zì háo",
+"proud (of one's achievements etc)"
+],
+[
+"自动",
+5,
+"zì dòng",
+"automatic; voluntarily"
+],
+[
+"自私",
+5,
+"zì sī",
+"selfish; selfishness"
 ],
 [
 "自愿",
 5,
-"zìyuàn",
+"zì yuàn",
 "voluntary"
+],
+[
+"各自",
+5,
+"gè zì",
+"each; respective; apiece"
+],
+[
+"自觉",
+5,
+"zì jué",
+"conscious; aware; on one's own initiative; conscientious"
 ],
 [
 "擅自",
 6,
-"shànzì",
-"unauthorized"
+"shàn zì",
+"without permission"
+],
+[
+"自主",
+6,
+"zì zhǔ",
+"independent; to act for oneself; autonomous"
 ],
 [
 "私自",
 6,
-"sīzì",
-"private; secretly; without permission"
+"sī zì",
+"private; personal; secretly; without explicit approval"
 ],
 [
 "自卑",
 6,
-"zìbēi",
-"feel inferior; be self-abased"
+"zì bēi",
+"to have low self-esteem; to abase oneself"
 ],
 [
 "自发",
 6,
-"zìfā",
-"spontaneous; unprompted"
+"zì fā",
+"spontaneous"
 ],
 [
 "自力更生",
 6,
 "zì lì gēng shēng",
-"(idiom) self reliance"
+"regeneration through one's own effort (idiom); self-reliance"
 ],
 [
 "自满",
 6,
-"zìmǎn",
+"zì mǎn",
 "complacent; self-satisfied"
-],
-[
-"自主",
-6,
-"zìzhǔ",
-"independent; to act for oneself; autonomous"
 ]
 ],
 "extraWords": [
 [
 "自身",
 89.32,
-"zi4 shen1",
+"zì shēn",
 "itself; oneself; one's own"
+],
+[
+"自杀",
+88.5,
+"zì shā",
+"to kill oneself; to commit suicide; to attempt suicide"
 ],
 [
 "自我",
 72.35,
-"zi4 wo3",
+"zì wǒ",
 "self-; ego (psychology)"
+],
+[
+"独自",
+38.42,
+"dú zì",
+"alone"
 ],
 [
 "自行",
 25.94,
-"zi4 xing2",
+"zì xíng",
 "voluntary; autonomous; by oneself; self-"
+],
+[
+"自治区",
+23.98,
+"zì zhì qū",
+"autonomous region, namely: Inner Mongolia 內蒙古自治區|内蒙古自治区[Nei4 meng3 gu3 Zi4 zhi4 qu1], Guangxi 廣西壯族自治區|广西壮族自治区[Guang3 xi1 Zhuang4 zu2 Zi4 zhi4 qu1], Tibet 西藏自治區|西藏自治区[Xi1 zang4 Zi4 zhi4 qu1], Ningxia 寧夏回族自治區|宁夏回族自治区[Ning2 xia4 Hui2 zu2 Zi4 zhi4 qu1], Xinjiang 新疆維吾爾自治區|新疆维吾尔自治区[Xin1 jiang1 Wei2 wu2 er3 Zi4 zhi4 qu1]"
+],
+[
+"自称",
+16.59,
+"zì chēng",
+"to call oneself; to claim to be; to profess; to claim a title"
 ],
 [
 "自家",
 14.72,
-"zi4 jia1",
+"zì jiā",
 "oneself; one's own family"
 ],
 [
 "出自",
 12.73,
-"chu1 zi4",
+"chū zì",
 "to come from"
 ],
 [
 "自在",
 11.39,
-"zi4 zai5",
+"zì zai",
 "free; unrestrained; comfortable; at ease"
 ],
 [
 "大自然",
 11.27,
-"da4 zi4 ran2",
+"dà zì rán",
 "nature (the natural world)"
+],
+[
+"自来水",
+10.54,
+"zì lái shuǐ",
+"running water; tap water"
 ],
 [
 "自治",
 10.36,
-"zi4 zhi4",
+"zì zhì",
 "autonomy"
 ],
 [
 "自制",
 10.36,
-"zi4 zhi4",
+"zì zhì",
 "to maintain self-control; self-control"
+],
+[
+"自制",
+10.36,
+"zì zhì",
+"self-made; improvised; homemade; handmade"
+],
+[
+"自动化",
+10.23,
+"zì dòng huà",
+"automation"
 ],
 [
 "自首",
 9.51,
-"zi4 shou3",
+"zì shǒu",
 "to give oneself up; to surrender (to the authorities)"
 ],
 [
 "自助",
 9.5,
-"zi4 zhu4",
+"zì zhù",
 "self-service"
 ],
 [
 "自律",
 8.79,
-"zi4 lu:4",
+"zì lu:4",
 "self-discipline; self-regulation; autonomy (ethics); autonomic (physiology)"
+],
+[
+"自卫",
+8.32,
+"zì wèi",
+"self-defense"
 ],
 [
 "自尊",
 8.2,
-"zi4 zun1",
+"zì zūn",
 "self-respect; self-esteem; ego; pride"
+],
+[
+"自责",
+7.81,
+"zì zé",
+"to blame oneself"
+],
+[
+"自学",
+7.72,
+"zì xué",
+"self-study; to study on one's own"
+],
+[
+"自习",
+7.38,
+"zì xí",
+"to study outside of class time (reviewing one's lessons); to study in one's free time; individual study"
+],
+[
+"自以为是",
+6.95,
+"zì yǐ wéi shì",
+"to believe oneself infallible (idiom); to be opinionated"
 ],
 [
 "自找",
 6.71,
-"zi4 zhao3",
+"zì zhǎo",
 "to suffer as a consequence of one's own actions; you asked for it; to bring it on oneself (sth unpleasant)"
+],
+[
+"自负",
+6.41,
+"zì fù",
+"conceited; to take responsibility"
 ],
 [
 "自大",
 6.26,
-"zi4 da4",
+"zì dà",
 "arrogant"
+],
+[
+"自然科学",
+6.2,
+"zì rán kē xué",
+"natural sciences"
+],
+[
+"自然灾害",
+6.18,
+"zì rán zāi hài",
+"natural disaster"
 ],
 [
 "暗自",
 6.13,
-"an4 zi4",
+"àn zì",
 "inwardly; to oneself; secretly"
 ],
 [
 "自如",
 6.07,
-"zi4 ru2",
+"zì rú",
 "unobstructed; unconstrained; smoothly; with ease; freely"
 ],
 [
 "源自",
 5.65,
-"yuan2 zi4",
+"yuán zì",
 "to originate from"
 ],
 [
 "不由自主",
 5.56,
-"bu4 you2 zi4 zhu3",
+"bù yóu zì zhǔ",
 "can't help; involuntarily (idiom)"
+],
+[
+"顺其自然",
+5.37,
+"shùn qí zì rán",
+"to let nature take its course (idiom)"
 ],
 [
 "自由基",
 5.23,
-"zi4 you2 ji1",
+"zì yóu jī",
 "free radical"
+],
+[
+"自卫队",
+5.19,
+"zì wèi duì",
+"self-defense force; the Japanese armed forces"
+],
+[
+"自民党",
+5.13,
+"Zì mín dǎng",
+"Liberal Democratic Party (Japanese political party)"
 ]
 ],
 "strokes": [

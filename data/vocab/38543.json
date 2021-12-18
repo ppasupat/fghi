@@ -9,59 +9,102 @@
 [
 "随便",
 4,
-"suíbiàn",
-"as one pleases; informal; random; casual"
+"suí biàn",
+"as one wishes; as one pleases; at random; negligent; casual; wanton"
 ],
 [
 "随着",
 4,
-"suízhe",
-"along with; in the wake of"
-],
-[
-"随身",
-5,
-"suíshēn",
-"carry on one's person; bring with one"
+"suí zhe",
+"along with; in the wake of; following"
 ],
 [
 "随时",
 5,
-"suíshí",
-"at any time; whenever necessary"
+"suí shí",
+"at any time; at all times; at the right time"
+],
+[
+"随身",
+5,
+"suí shēn",
+"to (carry) on one's person; to (take) with one"
 ],
 [
 "随手",
 5,
-"suíshǒu",
-"convenient; without extra trouble"
-],
-[
-"伴随",
-6,
-"bànsuí",
-"accompany; go with; follow"
-],
-[
-"跟随",
-6,
-"gēnsuí",
-"follow; followed"
-],
-[
-"随即",
-6,
-"suíjí",
-"immediately (after); soon after; immediately"
+"suí shǒu",
+"conveniently; without extra trouble; while doing it; in passing"
 ],
 [
 "随意",
 6,
-"suíyì",
-"as one wishes; according to one's wishes"
+"suí yì",
+"as one wishes; according to one's wishes; at will; voluntary; conscious"
+],
+[
+"跟随",
+6,
+"gēn suí",
+"to follow"
+],
+[
+"伴随",
+6,
+"bàn suí",
+"to accompany; to follow; to occur together with; concomitant"
+],
+[
+"随即",
+6,
+"suí jí",
+"immediately; presently; following which"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"随后",
+95.77,
+"suí hòu",
+"soon after"
+],
+[
+"随机",
+21.8,
+"suí jī",
+"according to the situation; pragmatic; random"
+],
+[
+"随访",
+11.46,
+"suí fǎng",
+"to accompany; (of a doctor etc) to do a follow-up (on a patient, client etc)"
+],
+[
+"追随",
+6.0,
+"zhuī suí",
+"to follow; to accompany"
+],
+[
+"随心所欲",
+5.99,
+"suí xīn suǒ yù",
+"to follow one's heart's desires; to do as one pleases (idiom)"
+],
+[
+"随风",
+5.66,
+"suí fēng",
+"wind-borne; tossed about by the wind"
+],
+[
+"随时随地",
+5.45,
+"suí shí suí dì",
+"anytime and anywhere"
+]
+],
 "strokes": [
 "M 221 681 Q 258 688 296 706 Q 311 716 320 706 Q 326 700 318 684 Q 302 648 289 613 Q 277 591 290 574 Q 347 490 331 471 Q 324 461 303 465 Q 276 469 247 471 Q 225 472 250 459 Q 301 434 348 402 Q 361 390 373 402 Q 386 412 392 435 Q 404 496 334 567 Q 303 601 340 645 Q 370 693 391 705 Q 409 717 399 729 Q 387 745 353 763 Q 334 770 320 759 Q 269 720 211 709 C 182 702 192 674 221 681 Z",
 "M 211 709 Q 190 730 153 740 Q 143 741 136 732 Q 132 726 141 715 Q 183 618 174 347 Q 164 203 139 125 Q 132 97 136 75 Q 146 38 159 25 Q 172 10 182 25 Q 215 67 216 218 Q 210 599 221 681 C 223 700 223 700 211 709 Z",

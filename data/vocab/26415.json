@@ -9,53 +9,132 @@
 [
 "技术",
 4,
-"jìshù",
-"technology; technique; skill"
+"jì shù",
+"technology; technique; skill; CL:門|门[men2],種|种[zhong3],項|项[xiang4]"
 ],
 [
 "艺术",
 4,
-"yìshù",
+"yì shù",
 "art"
-],
-[
-"美术",
-5,
-"měishù",
-"the fine arts; art"
 ],
 [
 "手术",
 5,
-"shǒushù",
-"surgery; operation"
+"shǒu shù",
+"(surgical) operation; surgery; CL:個|个[ge4]"
 ],
 [
 "武术",
 5,
-"wǔshù",
-"martial arts"
+"wǔ shù",
+"military skill or technique (in former times); all kinds of martial art sports (some claiming spiritual development); self-defense; tradition of choreographed fights from opera and film (recent usage); also called kungfu 功夫; CL:種|种[zhong3]"
 ],
 [
 "学术",
 5,
-"xuéshù",
-"learning; science; academic"
+"xué shù",
+"learning; science; academic; CL:個|个[ge4]"
+],
+[
+"美术",
+5,
+"měi shù",
+"art; fine arts; painting; CL:種|种[zhong3]"
 ],
 [
 "魔术",
 6,
-"móshù",
+"mó shù",
 "magic"
 ],
 [
 "战术",
 6,
-"zhànshù",
-"(military) tactics"
+"zhàn shù",
+"tactics"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"艺术家",
+24.09,
+"yì shù jiā",
+"artist; CL:個|个[ge4],位[wei4],名[ming2]"
+],
+[
+"科学技术",
+23.52,
+"kē xué jì shù",
+"science and technology"
+],
+[
+"高新技术",
+22.52,
+"gāo xīn jì shù",
+"high tech; high technology"
+],
+[
+"技术人员",
+17.8,
+"jì shù rén yuán",
+"technical staff"
+],
+[
+"新技术",
+15.03,
+"xīn jì shù",
+"new technology"
+],
+[
+"信息技术",
+11.81,
+"xìn xī jì shù",
+"information technology; IT"
+],
+[
+"手术室",
+10.31,
+"shǒu shù shì",
+"operating room"
+],
+[
+"艺术品",
+9.03,
+"yì shù pǐn",
+"art piece; work of art; CL:件[jian4]"
+],
+[
+"魔术师",
+8.02,
+"mó shù shī",
+"magician"
+],
+[
+"高技术",
+7.17,
+"gāo jì shù",
+"high technology; high tech"
+],
+[
+"巫术",
+6.02,
+"wū shù",
+"witchcraft"
+],
+[
+"技术性",
+5.27,
+"jì shù xìng",
+"technical; technological"
+],
+[
+"术语",
+5.22,
+"shù yǔ",
+"term; terminology"
+]
+],
 "strokes": [
 "M 532 526 Q 592 538 756 555 Q 769 554 780 569 Q 781 582 755 595 Q 712 620 633 597 Q 582 587 532 574 L 484 564 Q 430 555 218 530 Q 184 526 210 505 Q 247 475 279 480 Q 354 496 447 511 L 532 526 Z",
 "M 532 574 Q 532 679 552 745 Q 565 772 540 790 Q 524 802 493 821 Q 468 839 447 822 Q 441 818 448 801 Q 482 752 482 703 Q 483 639 484 564 L 482 445 Q 479 219 466 149 Q 448 58 451 49 Q 451 40 470 -5 Q 477 -24 485 -27 Q 492 -34 499 -25 Q 508 -21 518 1 Q 528 26 528 60 Q 527 105 531 468 L 532 574 Z",

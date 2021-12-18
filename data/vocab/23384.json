@@ -10,51 +10,93 @@
 "存",
 4,
 "cún",
-"exist; to deposit; to store"
-],
-[
-"保存",
-5,
-"bǎocún",
-"conserve; preserve; to keep, to save a file in a computer"
+"to exist; to deposit; to store; to keep; to survive"
 ],
 [
 "存在",
 5,
-"cúnzài",
-"to exist; to be"
+"cún zài",
+"to exist; to be; existence"
 ],
 [
-"储存",
-6,
-"chǔcún",
-"stockpile; to store"
+"保存",
+5,
+"bǎo cún",
+"to conserve; to preserve; to keep; to save (a file etc) (computing)"
 ],
 [
 "生存",
 6,
-"shēngcún",
-"exist; survive"
+"shēng cún",
+"to exist; to survive"
+],
+[
+"储存",
+6,
+"chǔ cún",
+"stockpile; to store; to stockpile; storage"
 ]
 ],
 "extraWords": [
 [
 "存款",
 37.93,
-"cun2 kuan3",
+"cún kuǎn",
 "to deposit money (in a bank etc); bank savings; bank deposit"
+],
+[
+"库存",
+29.38,
+"kù cún",
+"property or cash held in reserve; stock"
+],
+[
+"幸存者",
+28.02,
+"xìng cún zhě",
+"survivor"
+],
+[
+"内存",
+23.87,
+"nèi cún",
+"internal storage; computer memory; random access memory (RAM)"
+],
+[
+"存储",
+20.36,
+"cún chǔ",
+"to store up; to stockpile; (computer) to save; to store; memory; storage"
 ],
 [
 "存放",
 9.07,
-"cun2 fang4",
+"cún fàng",
 "to deposit; to store; to leave in sb's care"
+],
+[
+"幸存",
+8.29,
+"xìng cún",
+"to survive (a disaster)"
 ],
 [
 "存活",
 7.1,
-"cun2 huo2",
+"cún huó",
 "to survive (a serious accident); survival"
+],
+[
+"并存",
+6.84,
+"bìng cún",
+"to exist at the same time; to coexist"
+],
+[
+"存折",
+5.12,
+"cún zhé",
+"passbook; bankbook"
 ]
 ],
 "strokes": [

@@ -9,17 +9,30 @@
 [
 "糊涂",
 5,
-"hútu",
-"confused; bewildered; muddled"
+"hú tu",
+"muddled; silly; confused"
 ],
 [
 "涂抹",
 6,
-"túmǒ",
-"scribble; smear; doodle"
+"tú mǒ",
+"to paint; to smear; to apply (makeup etc); to doodle; to erase; to obliterate"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"涂料",
+7.83,
+"tú liào",
+"paint"
+],
+[
+"一塌糊涂",
+6.8,
+"yī tā hú tu",
+"muddled and completely collapsing (idiom); in an awful condition; complete shambles; a total mess"
+]
+],
 "strokes": [
 "M 245 690 Q 273 665 303 635 Q 318 622 335 621 Q 347 622 352 637 Q 358 653 348 685 Q 342 707 309 722 Q 233 749 216 743 Q 210 739 212 725 Q 216 712 245 690 Z",
 "M 136 508 Q 184 457 218 441 Q 234 440 243 453 Q 249 466 246 483 Q 234 523 148 548 Q 130 552 121 548 Q 115 547 118 534 Q 119 522 136 508 Z",

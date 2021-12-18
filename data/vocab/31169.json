@@ -9,57 +9,69 @@
 [
 "私人",
 5,
-"sīrén",
-"private (citizen); personal; individual"
+"sī rén",
+"private; personal; interpersonal; sb with whom one has a close personal relationship; a member of one's clique"
 ],
 [
 "自私",
 5,
-"zìsī",
-"selfish"
-],
-[
-"私自",
-6,
-"sīzì",
-"private; secretly; without permission"
+"zì sī",
+"selfish; selfishness"
 ],
 [
 "隐私",
 6,
-"yǐnsī",
-"privacy; personal secret"
+"yǐn sī",
+"secrets; private business; privacy"
 ],
 [
 "走私",
 6,
 "zǒu sī",
-"smuggle; have an illicit affair"
+"to smuggle; to have an illicit affair"
+],
+[
+"私自",
+6,
+"sī zì",
+"private; personal; secretly; without explicit approval"
 ]
 ],
 "extraWords": [
 [
+"私营",
+17.19,
+"sī yíng",
+"privately-owned; private"
+],
+[
 "私下",
 16.25,
-"si1 xia4",
+"sī xià",
 "in private"
 ],
 [
 "私家",
 10.25,
-"si1 jia1",
+"sī jiā",
 "private; privately owned or managed"
+],
+[
+"无私",
+7.85,
+"wú sī",
+"selfless; unselfish; disinterested; altruistic"
 ],
 [
 "私事",
 7.69,
-"si1 shi4",
+"sī shì",
 "personal matters"
 ],
 [
 "私生活",
 5.13,
-"si1 sheng1 huo2",
+"sī shēng huó",
 "private life"
 ]
 ],

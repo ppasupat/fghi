@@ -9,53 +9,126 @@
 [
 "父亲",
 4,
-"fùqin",
-"father"
+"fù qīn",
+"father; also pr. [fu4 qin5]; CL:個|个[ge4]"
 ],
 [
 "母亲",
 4,
-"mǔqin",
-"mother"
+"mǔ qīn",
+"mother; also pr. [mu3 qin5]; CL:個|个[ge4]"
 ],
 [
 "亲戚",
 4,
-"qīnqi",
-"a relative (i.e. family relation)"
+"qīn qi",
+"a relative (i.e. family relation); CL:門|门[men2],個|个[ge4],位[wei4]"
 ],
 [
 "亲爱",
 5,
-"qīn'ài",
-"beloved; Dear ... (a way of starting a letter lovers, intimate friends or close relatives)"
-],
-[
-"亲切",
-5,
-"qīnqiè",
-"kind; amiable; cordial"
+"qīn ài",
+"dear; beloved; darling"
 ],
 [
 "亲自",
 5,
-"qīnzì",
-"personally"
+"qīn zì",
+"personally; in person; oneself"
+],
+[
+"亲切",
+5,
+"qīn qiè",
+"amiable; cordial; close and dear; familiar"
 ],
 [
 "亲密",
 6,
-"qīnmì",
-"intimate; close; familiarity"
+"qīn mì",
+"intimate; close"
 ],
 [
 "亲热",
 6,
-"qīnrè",
-"intimate; affectionate; warm"
+"qīn rè",
+"affectionate; intimate; warmhearted; to get intimate with sb"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"亲眼",
+20.84,
+"qīn yǎn",
+"with one's own eyes; personally"
+],
+[
+"亲人",
+19.98,
+"qīn rén",
+"one's close relatives"
+],
+[
+"亲吻",
+14.34,
+"qīn wěn",
+"to kiss; kiss"
+],
+[
+"亲手",
+13.77,
+"qīn shǒu",
+"personally; with one's own hands"
+],
+[
+"亲近",
+13.35,
+"qīn jìn",
+"intimate; to get close to"
+],
+[
+"亲生",
+12.16,
+"qīn shēng",
+"one's own (child) (i.e. one's child by birth); biological (parents); birth (parents)"
+],
+[
+"亲情",
+12.16,
+"qīn qíng",
+"affection; family love; love, esp. within a married couple or between parents and children"
+],
+[
+"亲属",
+10.41,
+"qīn shǔ",
+"kin; kindred; relatives"
+],
+[
+"亲友",
+8.44,
+"qīn yǒu",
+"friends and relatives"
+],
+[
+"相亲",
+7.51,
+"xiāng qīn",
+"blind date; arranged interview to evaluate a proposed marriage partner (Taiwan pr. [xiang4 qin1]); to be deeply attached to each other"
+],
+[
+"亲王",
+7.2,
+"qīn wáng",
+"prince"
+],
+[
+"亲口",
+6.47,
+"qīn kǒu",
+"one's own mouth; fig. in one's own words; to say sth personally"
+]
+],
 "strokes": [
 "M 450 784 Q 481 762 514 737 Q 530 725 546 728 Q 556 729 561 744 Q 564 760 551 790 Q 536 821 438 833 Q 422 834 416 831 Q 412 827 414 813 Q 418 803 450 784 Z",
 "M 308 677 Q 271 673 296 654 Q 338 630 412 641 Q 529 659 652 677 Q 712 687 721 695 Q 731 702 726 712 Q 719 725 691 733 Q 654 742 573 715 Q 443 685 308 677 Z",

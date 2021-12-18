@@ -9,41 +9,114 @@
 [
 "办法",
 3,
-"bànfǎ",
-"method; way (of doing something)"
+"bàn fǎ",
+"means; method; way (of doing sth); CL:條|条[tiao2],個|个[ge4]"
 ],
 [
 "办公室",
 3,
-"bàngōngshì",
-"office"
+"bàn gōng shì",
+"office; business premises; bureau; CL:間|间[jian1]"
 ],
 [
 "举办",
 4,
-"jǔbàn",
+"jǔ bàn",
 "to conduct; to hold"
 ],
 [
 "办理",
 5,
-"bànlǐ",
+"bàn lǐ",
 "to handle; to transact; to conduct"
 ],
 [
 "承办",
 6,
-"chéngbàn",
-"undertake; accept an assignment"
+"chéng bàn",
+"to undertake; to accept a contract"
 ],
 [
 "主办",
 6,
-"zhǔbàn",
-"to host (a conference or sports event)"
+"zhǔ bàn",
+"to organize; to host (a conference or sports event)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"怎么办",
+204.82,
+"zěn me bàn",
+"what's to be done"
+],
+[
+"办公",
+31.77,
+"bàn gōng",
+"to handle official business; to work (esp. in an office)"
+],
+[
+"办事",
+24.74,
+"bàn shì",
+"to handle (affairs); to work"
+],
+[
+"办学",
+18.79,
+"bàn xué",
+"to run a school"
+],
+[
+"创办",
+15.29,
+"chuàng bàn",
+"to establish; to found; to launch"
+],
+[
+"开办",
+13.47,
+"kāi bàn",
+"to open; to start (a business etc); to set up"
+],
+[
+"办案",
+12.91,
+"bàn àn",
+"to handle a case"
+],
+[
+"民办",
+12.91,
+"mín bàn",
+"run by the local people; privately operated"
+],
+[
+"办事处",
+8.13,
+"bàn shì chù",
+"office; agency"
+],
+[
+"办到",
+7.57,
+"bàn dào",
+"to accomplish; to get sth done"
+],
+[
+"办公楼",
+7.37,
+"bàn gōng lóu",
+"office building; CL:座[zuo4],棟|栋[dong4]"
+],
+[
+"申办",
+5.68,
+"shēn bàn",
+"to apply for; to bid for"
+]
+],
 "strokes": [
 "M 512 504 Q 585 519 660 527 Q 684 528 689 517 Q 696 498 691 451 Q 670 276 633 183 Q 614 125 593 108 Q 580 95 551 103 Q 511 116 473 129 Q 448 136 466 113 Q 518 59 547 16 Q 557 -8 582 0 Q 603 1 630 30 Q 709 106 746 401 Q 753 468 781 506 Q 800 530 790 541 Q 772 562 733 580 Q 705 595 675 582 Q 608 557 517 537 L 461 526 Q 305 505 244 505 Q 222 509 221 496 Q 220 486 244 468 Q 274 446 303 456 Q 379 478 455 492 L 512 504 Z",
 "M 455 492 Q 404 231 173 60 Q 170 60 131 27 Q 115 15 130 13 Q 146 14 187 31 Q 271 73 332 135 Q 402 199 436 271 Q 449 302 464 334 Q 500 413 512 504 L 517 537 Q 541 691 558 728 Q 568 750 549 759 Q 495 799 460 788 Q 444 781 452 764 Q 488 698 461 526 L 455 492 Z",

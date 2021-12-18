@@ -9,22 +9,46 @@
 [
 "什么",
 1,
-"shénme",
-"what? (replaces the noun to turn a statement into a question)"
+"shén me",
+"what?; something; anything"
 ],
 [
 "为什么",
 2,
-"wèishénme",
+"wèi shén me",
 "why?; for what reason?"
 ]
 ],
 "extraWords": [
 [
+"没什么",
+281.76,
+"méi shén me",
+"nothing; it doesn't matter; it's nothing; never mind"
+],
+[
+"干什么",
+104.09,
+"gàn shén me",
+"what are you doing?; what's he up to?"
+],
+[
+"什么样",
+88.03,
+"shén me yàng",
+"what kind?; what sort?; what appearance?"
+],
+[
 "布什",
 41.27,
-"Bu4 shi2",
+"Bù shí",
 "Bush (name); George H.W. Bush (1924-2018), US president 1988-1992; George W. Bush (1946-), US President 2000-2008"
+],
+[
+"什么的",
+33.87,
+"shén me de",
+"and so on; and what not"
 ]
 ],
 "strokes": [

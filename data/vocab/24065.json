@@ -9,17 +9,54 @@
 [
 "人民币",
 5,
-"rénmínbì",
-"(currency) renminbi (RMB)"
+"rén mín bì",
+"Renminbi (RMB); Chinese Yuan (CNY)"
 ],
 [
 "货币",
 6,
-"huòbì",
-"currency; money"
+"huò bì",
+"currency; monetary; money"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"硬币",
+16.99,
+"yìng bì",
+"coin; CL:枚[mei2]"
+],
+[
+"金币",
+15.03,
+"jīn bì",
+"gold coin"
+],
+[
+"港币",
+14.52,
+"Gǎng bì",
+"Hong Kong currency; Hong Kong dollar"
+],
+[
+"货币市场",
+6.88,
+"huò bì shì chǎng",
+"money market"
+],
+[
+"外币",
+5.67,
+"wài bì",
+"foreign currency"
+],
+[
+"新台币",
+5.29,
+"Xīn tái bì",
+"New Taiwan dollar (NTD)"
+]
+],
 "strokes": [
 "M 503 689 Q 647 731 679 733 Q 719 739 721 741 Q 727 751 715 766 Q 654 823 618 823 Q 609 819 607 808 Q 603 772 396 700 Q 342 682 279 665 Q 272 655 278 652 Q 299 646 437 676 Q 444 677 454 679 L 503 689 Z",
 "M 312 511 Q 293 530 256 528 Q 243 524 249 511 Q 285 441 255 315 Q 233 281 260 230 Q 263 224 269 217 Q 276 204 288 210 Q 318 234 320 348 Q 321 441 325 470 C 328 498 328 498 312 511 Z",

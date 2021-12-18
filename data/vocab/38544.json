@@ -7,37 +7,56 @@
 },
 "words": [
 [
-"隐蔽",
-6,
-"yǐnbì",
-"conceal; hide; covert; under cover; Take cover!"
-],
-[
-"隐患",
-6,
-"yǐnhuàn",
-"hidden danger"
-],
-[
 "隐瞒",
 6,
-"yǐnmán",
-"conceal; hide; (a taboo subject); cover up the truth"
+"yǐn mán",
+"to conceal; to hide (a taboo subject); to cover up the truth"
 ],
 [
 "隐私",
 6,
-"yǐnsī",
-"privacy; personal secret"
+"yǐn sī",
+"secrets; private business; privacy"
+],
+[
+"隐蔽",
+6,
+"yǐn bì",
+"to conceal; to hide; covert; under cover"
+],
+[
+"隐患",
+6,
+"yǐn huàn",
+"a danger concealed within sth; hidden damage; misfortune not visible from the surface"
 ],
 [
 "隐约",
 6,
-"yǐnyuē",
+"yǐn yuē",
 "vague; faint; indistinct"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"隐藏",
+32.79,
+"yǐn cáng",
+"to hide; to conceal; to mask; to shelter; to harbor (i.e. keep sth hidden); to hide oneself; to lie low; to nestle; hidden; implicit; private; covert; recessed (lighting)"
+],
+[
+"隐形",
+9.3,
+"yǐn xíng",
+"invisible"
+],
+[
+"隐隐",
+7.23,
+"yǐn yǐn",
+"faint; indistinct"
+]
+],
 "strokes": [
 "M 221 682 Q 255 689 293 705 Q 312 715 324 703 Q 331 697 323 677 Q 283 575 296 554 Q 350 475 338 456 Q 331 446 308 448 Q 278 452 247 451 Q 225 451 251 439 Q 306 414 356 383 Q 369 373 381 384 Q 394 393 400 416 Q 409 470 354 534 Q 320 576 328 597 Q 328 613 374 670 Q 389 692 402 700 Q 421 713 411 725 Q 398 743 362 762 Q 343 769 327 758 Q 272 721 203 709 C 174 703 192 675 221 682 Z",
 "M 203 709 Q 181 728 153 736 Q 143 737 136 729 Q 132 722 140 711 Q 185 608 167 318 Q 166 312 166 305 Q 162 214 132 125 Q 125 97 129 76 Q 139 39 151 25 Q 164 10 174 25 Q 208 71 210 308 Q 214 494 221 682 C 221 696 221 696 203 709 Z",

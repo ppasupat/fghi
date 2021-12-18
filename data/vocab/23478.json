@@ -10,243 +10,429 @@
 "家",
 1,
 "jiā",
-"family; home"
+"see 傢伙|家伙[jia1 huo5]"
+],
+[
+"家",
+1,
+"jiā",
+"home; family; (polite) my (sister, uncle etc); classifier for families or businesses; refers to the philosophical schools of pre-Han China; noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian; CL:個|个[ge4]"
 ],
 [
 "大家",
 2,
-"dàjiā",
-"everyone"
+"dà jiā",
+"everyone; influential family; great expert"
 ],
 [
 "国家",
 3,
-"guójiā",
-"country; state; nation"
-],
-[
-"家具",
-4,
-"jiājù",
-"furniture"
+"guó jiā",
+"country; nation; state; CL:個|个[ge4]"
 ],
 [
 "作家",
 4,
-"zuòjiā",
-"author; writer"
+"zuò jiā",
+"author; CL:個|个[ge4],位[wei4]"
+],
+[
+"家具",
+4,
+"jiā jù",
+"furniture; CL:件[jian4],套[tao4]"
 ],
 [
 "家庭",
 5,
-"jiātíng",
-"family; household"
-],
-[
-"家务",
-5,
-"jiāwù",
-"household duties; chores; housework"
-],
-[
-"家乡",
-5,
-"jiāxiāng",
-"hometown"
+"jiā tíng",
+"family; household; CL:戶|户[hu4],個|个[ge4]"
 ],
 [
 "专家",
 5,
-"zhuānjiā",
-"expert; specialist"
+"zhuān jiā",
+"expert; specialist; CL:個|个[ge4]"
 ],
 [
-"家常",
-6,
-"jiācháng",
-"the daily life of a family; home-style (food)"
+"家乡",
+5,
+"jiā xiāng",
+"hometown; native place; CL:個|个[ge4]"
+],
+[
+"家务",
+5,
+"jiā wù",
+"household duties; housework"
 ],
 [
 "家伙",
 6,
-"jiāhuo",
-"guy; chap; tool; weapon"
+"jiā huo",
+"variant of 家伙[jia1 huo5]"
+],
+[
+"家伙",
+6,
+"jiā huo",
+"household dish, implement or furniture; domestic animal; (coll.) guy; chap; weapon"
+],
+[
+"人家",
+6,
+"rén jiā",
+"household; dwelling; family; sb else's house; household business; house of woman's husband-to-be; CL:戶|户[hu4],家[jia1]"
+],
+[
+"人家",
+6,
+"rén jia",
+"other people; sb else; he, she or they; I, me (referring to oneself as \"one\" or \"people\")"
 ],
 [
 "家属",
 6,
-"jiāshǔ",
-"family member; a dependent"
+"jiā shǔ",
+"family member; (family) dependent"
 ],
 [
 "家喻户晓",
 6,
 "jiā yù hù xiǎo",
-"become a household name; well-known"
+"understood by everyone (idiom); well known; a household name"
 ],
 [
-"人家",
+"家常",
 6,
-"rénjiā",
-"other people; others; they; I; family; household"
+"jiā cháng",
+"the daily life of a family"
 ],
 [
 "儒家",
 6,
-"rújiā",
-"Confucianism"
+"Rú jiā",
+"Confucian school, founded by Confucius 孔子[Kong3 zi3] (551-479 BC) and Mencius 孟子[Meng4 zi3] (c. 372-c. 289 BC)"
 ]
 ],
 "extraWords": [
 [
 "回家",
 279.02,
-"hui2 jia1",
+"huí jiā",
 "to return home"
+],
+[
+"家里",
+136.02,
+"jiā lǐ",
+"home"
 ],
 [
 "家人",
 85.85,
-"jia1 ren2",
+"jiā rén",
 "household; (one's) family"
+],
+[
+"家长",
+68.8,
+"jiā zhǎng",
+"head of a household; family head; patriarch; parent or guardian of a child"
+],
+[
+"在家",
+56.44,
+"zài jiā",
+"to be at home; (at a workplace) to be in (as opposed to being away on official business 出差[chu1 chai1]); (Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 出家[chu1 jia1])"
 ],
 [
 "家族",
 54.31,
-"jia1 zu2",
+"jiā zú",
 "family; clan"
 ],
 [
 "玩家",
 49.86,
-"wan2 jia1",
+"wán jiā",
 "player (of a game); enthusiast (audio, model planes etc)"
+],
+[
+"国家队",
+36.69,
+"guó jiā duì",
+"the national team"
+],
+[
+"厂家",
+36.31,
+"chǎng jiā",
+"factory; factory owners"
 ],
 [
 "商家",
 30.36,
-"shang1 jia1",
+"shāng jiā",
 "merchant; business; enterprise"
+],
+[
+"企业家",
+29.22,
+"qǐ yè jiā",
+"entrepreneur"
+],
+[
+"科学家",
+27.96,
+"kē xué jiā",
+"scientist; CL:個|个[ge4]"
+],
+[
+"艺术家",
+24.09,
+"yì shù jiā",
+"artist; CL:個|个[ge4],位[wei4],名[ming2]"
 ],
 [
 "全家",
 22.87,
-"quan2 jia1",
+"quán jiā",
 "whole family"
 ],
 [
 "到家",
 18.29,
-"dao4 jia1",
+"dào jiā",
 "perfect; excellent; brought to the utmost degree"
 ],
 [
 "一家",
 18.09,
-"yi1 jia1",
+"yī jiā",
 "the whole family; the same family; the family ... (when preceded by a family name); group"
+],
+[
+"温家宝",
+18.06,
+"Wēn Jiā bǎo",
+"Wen Jiabao (1942-), Premier of PRC from 2003-2013"
+],
+[
+"独家",
+17.5,
+"dú jiā",
+"exclusive"
 ],
 [
 "搬家",
 17.47,
-"ban1 jia1",
+"bān jiā",
 "to move house; removal"
+],
+[
+"家门",
+16.2,
+"jiā mén",
+"house door; family clan"
+],
+[
+"发展中国家",
+15.86,
+"fā zhǎn zhōng guó jiā",
+"developing country"
+],
+[
+"经济学家",
+15.76,
+"jīng jì xué jiā",
+"economist"
 ],
 [
 "老家",
 15.14,
-"lao3 jia1",
+"lǎo jiā",
 "native place; place of origin; home state or region"
+],
+[
+"家园",
+15.1,
+"jiā yuán",
+"home; homeland"
 ],
 [
 "自家",
 14.72,
-"zi4 jia1",
+"zì jiā",
 "oneself; one's own family"
+],
+[
+"国家级",
+14.14,
+"guó jiā jí",
+"(administrative) national-level"
 ],
 [
 "一家人",
 13.88,
-"yi1 jia1 ren2",
+"yī jiā rén",
 "household; the whole family"
 ],
 [
 "老人家",
 13.49,
-"lao3 ren2 jia1",
+"lǎo rén jiā",
 "polite term for old woman or man"
 ],
 [
 "老家伙",
 12.73,
-"lao3 jia1 huo5",
+"lǎo jiā huo",
+"variant of 老家伙[lao3 jia1 huo5]"
+],
+[
+"老家伙",
+12.73,
+"lǎo jiā huo",
 "(coll.) old fellow; old codger"
 ],
 [
 "皇家",
 12.7,
-"huang2 jia1",
+"huáng jiā",
 "royal; imperial household"
+],
+[
+"无家可归",
+10.7,
+"wú jiā kě guī",
+"homeless"
+],
+[
+"画家",
+10.35,
+"huà jiā",
+"painter; CL:個|个[ge4]"
 ],
 [
 "私家",
 10.25,
-"si1 jia1",
+"sī jiā",
 "private; privately owned or managed"
+],
+[
+"买家",
+10.14,
+"mǎi jiā",
+"buyer; client"
 ],
 [
 "首家",
 9.14,
-"shou3 jia1",
+"shǒu jiā",
 "first (hotel of its type, store of its type etc)"
 ],
 [
 "管家",
 9.12,
-"guan3 jia1",
+"guǎn jiā",
 "housekeeper; butler; manage one's household"
+],
+[
+"农家",
+8.29,
+"Nóng jiā",
+"School of Agriculture, school of thought of the Warring States Period (475-221 BC)"
+],
+[
+"农家",
+8.29,
+"nóng jiā",
+"peasant family"
+],
+[
+"石家庄",
+8.17,
+"Shí jiā zhuāng",
+"Shijiazhuang prefecture level city and capital of Hebei Province 河北省[He2 bei3 Sheng3] in north China"
 ],
 [
 "家禽",
 7.32,
-"jia1 qin2",
+"jiā qín",
 "poultry; domestic fowl"
+],
+[
+"赢家",
+6.98,
+"yíng jiā",
+"winner"
+],
+[
+"国家主席",
+6.89,
+"guó jiā zhǔ xí",
+"president (title of the head of state of China and several other nations)"
+],
+[
+"当家",
+6.68,
+"dāng jiā",
+"to manage the household; to be the one in charge of the family; to call the shots; to be in charge"
+],
+[
+"音乐家",
+6.35,
+"yīn yuè jiā",
+"musician"
 ],
 [
 "名家",
 5.84,
-"Ming2 jia1",
+"Míng jiā",
 "School of Logicians of the Warring States Period (475-220 BC), also called the School of Names"
 ],
 [
 "名家",
 5.84,
-"ming2 jia1",
+"míng jiā",
 "renowned expert; master (of an art or craft)"
 ],
 [
 "世家",
 5.78,
-"shi4 jia1",
+"shì jiā",
 "family influential for generations; aristocratic family"
 ],
 [
 "好家伙",
 5.37,
-"hao3 jia1 huo5",
+"hǎo jiā huo",
 "my God!; oh boy!; man!"
 ],
 [
 "大家庭",
 5.28,
-"da4 jia1 ting2",
+"dà jiā tíng",
 "extended family; big family; harmonious group"
 ],
 [
 "政治家",
 5.23,
-"zheng4 zhi4 jia1",
+"zhèng zhì jiā",
 "statesman; politician; CL:個|个[ge4],位[wei4],名[ming2]"
+],
+[
+"家乐福",
+5.23,
+"Jiā lè fú",
+"Carrefour, French supermarket chain"
+],
+[
+"资本家",
+5.07,
+"zī běn jiā",
+"capitalist"
 ]
 ],
 "strokes": [

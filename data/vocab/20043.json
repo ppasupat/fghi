@@ -7,131 +7,161 @@
 },
 "words": [
 [
-"百分之",
-4,
-"bǎifēnzhī",
-"percent"
-],
-[
 "之",
 4,
 "zhī",
-"(literary equivalent to 的); (pronoun); of"
+"(possessive particle, literary equivalent of 的[de5]); him; her; it"
+],
+[
+"百分之",
+4,
+"bǎi fēn zhī",
+"percent"
 ],
 [
 "总之",
 5,
-"zǒngzhī",
-"in a word; in short; in brief / anyway; anyhow"
-],
-[
-"当务之急",
-6,
-"dāngwùzhījí",
-"the most pressing matter of the moment; a top priority task; urgent matter"
-],
-[
-"反之",
-6,
-"fǎnzhī",
-"whereas...; on the other hand ...; conversely ..."
-],
-[
-"后顾之忧",
-6,
-"hòugùzhīyōu",
-"fears of trouble in the rear (idiom); family worries (obstructing freedom to act); trouble back at home; worries about the future consequences; often in negative expressions, meaning no worries about anything"
-],
-[
-"天伦之乐",
-6,
-"tiānlúnzhīlè",
-"family happiness"
+"zǒng zhī",
+"in a word; in short; in brief"
 ],
 [
 "之际",
 6,
-"zhījì",
-"during; at the time of; the time when something happens"
+"zhī jì",
+"during; at the time of"
 ],
 [
 "总而言之",
 6,
-"zǒngéryánzhī",
-"in short; in a word"
+"zǒng ér yán zhī",
+"in short; in a word; in brief"
+],
+[
+"当务之急",
+6,
+"dāng wù zhī jí",
+"top priority job; matter of vital importance"
+],
+[
+"反之",
+6,
+"fǎn zhī",
+"on the other hand...; conversely..."
+],
+[
+"天伦之乐",
+6,
+"tiān lún zhī lè",
+"family love and joy; domestic bliss"
+],
+[
+"后顾之忧",
+6,
+"hòu gù zhī yōu",
+"fears of trouble in the rear (idiom); family worries (obstructing freedom of action); worries about the future consequences; often in negative expressions, meaning \"no worries about anything\""
 ]
 ],
 "extraWords": [
 [
 "之前",
 452.71,
-"zhi1 qian2",
+"zhī qián",
 "before; prior to; ago; previously; beforehand"
+],
+[
+"之后",
+367.8,
+"zhī hòu",
+"afterwards; following; later; after"
+],
+[
+"之间",
+278.98,
+"zhī jiān",
+"between; among; inter-"
 ],
 [
 "之一",
 168.35,
-"zhi1 yi1",
+"zhī yī",
 "one of (sth); one out of a multitude; one (third, quarter, percent etc)"
 ],
 [
 "之中",
 89.66,
-"zhi1 zhong1",
+"zhī zhōng",
 "inside; among; in the midst of (doing sth); during"
 ],
 [
 "之外",
 68.54,
-"zhi1 wai4",
+"zhī wài",
 "outside; excluding"
+],
+[
+"之类",
+61.17,
+"zhī lèi",
+"and so on; and such"
 ],
 [
 "之下",
 58.72,
-"zhi1 xia4",
+"zhī xià",
 "under; beneath; less than"
 ],
 [
 "之所以",
 43.97,
-"zhi1 suo3 yi3",
+"zhī suǒ yǐ",
 "(after a noun N and before a predicate P) the reason why N P; Example: 我之所以討厭他|我之所以讨厌他[wo3 zhi1 suo3 yi3 tao3 yan4 ta1] \"the reason why I dislike him (is ...)\""
+],
+[
+"之内",
+31.03,
+"zhī nèi",
+"inside; within"
 ],
 [
 "之上",
 29.95,
-"zhi1 shang4",
+"zhī shàng",
 "above"
+],
+[
+"称之为",
+13.38,
+"chēng zhī wéi",
+"to call it...; known as..."
 ],
 [
 "三分之一",
 11.86,
-"san1 fen1 zhi1 yi1",
+"sān fēn zhī yī",
 "one third"
 ],
 [
 "除此之外",
 10.39,
-"chu2 ci3 zhi1 wai4",
+"chú cǐ zhī wài",
 "apart from this; in addition to this"
 ],
 [
 "在此之前",
 6.79,
-"zai4 ci3 zhi1 qian2",
+"zài cǐ zhī qián",
 "before that; beforehand; previously"
 ],
 [
 "四分之一",
 6.55,
-"si4 fen1 zhi1 yi1",
+"sì fēn zhī yī",
 "one-quarter"
 ],
 [
 "百分之百",
 5.87,
-"bai3 fen1 zhi1 bai3",
+"bǎi fēn zhī bǎi",
 "a hundred percent; out and out; absolutely"
 ]
 ],

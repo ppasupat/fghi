@@ -9,29 +9,42 @@
 [
 "关闭",
 5,
-"guānbì",
-"close; shut"
-],
-[
-"闭塞",
-6,
-"bìsè",
-"stop up; shelter from; hard to get to; unenlightened"
-],
-[
-"倒闭",
-6,
-"dǎobì",
-"go bankrupt; close down"
+"guān bì",
+"to close; to shut"
 ],
 [
 "封闭",
 6,
-"fēngbì",
-"to seal; to close; confine"
+"fēng bì",
+"to seal; to close; to confine; to seal off; to close down; sealed; confined; closed; unreceptive"
+],
+[
+"倒闭",
+6,
+"dǎo bì",
+"to go bankrupt; to close down"
+],
+[
+"闭塞",
+6,
+"bì sè",
+"to stop up; to close up; hard to get to; out of the way; inaccessible; unenlightened; blocking"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"闭上",
+10.05,
+"bì shang",
+"to close; to shut up"
+],
+[
+"闭幕",
+7.8,
+"bì mù",
+"the curtain falls; lower the curtain; to come to an end (of a meeting)"
+]
+],
 "strokes": [
 "M 309 739 Q 379 661 403 660 Q 418 659 425 680 Q 426 693 415 716 Q 403 735 376 746 Q 333 765 314 768 Q 304 769 303 757 Q 302 748 309 739 Z",
 "M 196 652 Q 220 586 219 523 Q 223 262 179 130 Q 160 79 193 31 L 195 29 Q 208 14 218 29 Q 255 68 256 226 Q 262 544 276 617 Q 279 636 262 647 Q 237 668 209 677 Q 199 678 192 670 Q 188 664 196 652 Z",

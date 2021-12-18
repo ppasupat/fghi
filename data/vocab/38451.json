@@ -9,29 +9,114 @@
 [
 "太阳",
 3,
-"tàiyáng",
-"the sun"
+"tài yang",
+"sun; CL:個|个[ge4]; abbr. for 太陽穴|太阳穴[tai4 yang2 xue2]"
 ],
 [
 "阳光",
 4,
-"yángguāng",
-"sunshine; sunlight"
+"yáng guāng",
+"sunshine; CL:線|线[xian4]; transparent (open to public scrutiny)"
 ],
 [
 "阳台",
 5,
-"yángtái",
-"balcony"
+"yáng tái",
+"variant of 陽臺|阳台[yang2 tai2]"
+],
+[
+"阳台",
+5,
+"yáng tái",
+"balcony; porch"
 ],
 [
 "夕阳",
 6,
-"xīyáng",
-"setting sun"
+"xī yáng",
+"sunset; the setting sun"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"沈阳",
+38.48,
+"Shěn yáng",
+"Shenyang subprovincial city and capital of Liaoning province 遼寧省|辽宁省[Liao2 ning2 Sheng3] in northeast China; old names include Fengtian 奉天[Feng4 tian1], Shengjing 盛京[Sheng4 jing1] and Mukden"
+],
+[
+"阳性",
+26.41,
+"yáng xìng",
+"positive; masculine"
+],
+[
+"贵阳",
+14.82,
+"Guì yáng",
+"Guiyang prefecture-level city and capital of Guizhou province 貴州|贵州[Gui4 zhou1], short name 筑[Zhu4]"
+],
+[
+"洛阳",
+10.06,
+"Luò yáng",
+"Luoyang prefecture-level city in Henan, an old capital from pre-Han times"
+],
+[
+"太阳能",
+9.9,
+"tài yáng néng",
+"solar energy"
+],
+[
+"贵阳市",
+9.26,
+"Guì yáng Shì",
+"Guiyang prefecture-level city and capital of Guizhou province 貴州|贵州[Gui4 zhou1]"
+],
+[
+"沈阳市",
+9.2,
+"Shěn yáng shì",
+"Shenyang subprovincial city and capital of Liaoning province 遼寧省|辽宁省[Liao2 ning2 Sheng3] in northeast China; old names include Fengtian 奉天[Feng4 tian1], Shengjing 盛京[Sheng4 jing1] and Mukden"
+],
+[
+"阴阳",
+7.35,
+"yīn yáng",
+"yin and yang"
+],
+[
+"朝阳",
+6.78,
+"Cháo yáng",
+"Chaoyang district in east and northeast Beijing, a county level district of Beijing municipality; Chaoyang prefecture-level city in Liaoning province 遼寧省|辽宁省[Liao2 ning2 Sheng3] in northeast China; Chaoyang district of Changchun city 長春市|长春市[Chang2 chun1 shi4], Jilin; Chaoyang county in Chaoyang 朝陽|朝阳[Chao2 yang2], Liaoning"
+],
+[
+"朝阳",
+6.78,
+"cháo yáng",
+"to be exposed to the sun; in a position facing the sun"
+],
+[
+"朝阳",
+6.78,
+"zhāo yáng",
+"the morning sun"
+],
+[
+"朝阳区",
+5.96,
+"Cháo yáng qū",
+"Chaoyang inner district of Beijing; Chaoyang district, Changchun city, Jilin"
+],
+[
+"晒太阳",
+5.29,
+"shài tài yáng",
+"to be in the sun (getting warm or sunbathing etc); to put sth in the sun (e.g. to dry it)"
+]
+],
 "strokes": [
 "M 242 669 Q 285 676 330 698 Q 349 708 361 697 Q 368 691 358 671 Q 316 568 324 548 Q 324 547 327 543 Q 384 438 366 417 Q 359 405 334 408 Q 303 412 268 411 Q 243 412 272 398 Q 327 370 380 335 Q 395 320 410 334 Q 426 344 435 370 Q 451 430 390 515 Q 351 569 363 592 Q 396 659 440 693 Q 441 696 444 696 Q 465 709 454 723 Q 441 742 400 763 Q 378 772 362 759 Q 305 716 230 700 C 201 693 213 663 242 669 Z",
 "M 230 700 Q 229 701 227 702 Q 202 723 172 732 Q 162 733 154 724 Q 150 718 159 706 Q 204 598 188 319 Q 173 178 151 109 Q 142 81 147 58 Q 157 21 171 5 Q 184 -10 194 6 Q 230 48 231 295 Q 231 607 242 669 C 245 689 245 689 230 700 Z",

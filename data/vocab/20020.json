@@ -9,41 +9,54 @@
 [
 "光临",
 5,
-"guānglín",
-"(polite) welcome!; honor somebody with one's presence"
-],
-[
-"临时",
-5,
-"línshí",
-"temporary; at the time; when the time comes"
+"guāng lín",
+"(formal) to honor with one's presence; to attend"
 ],
 [
 "面临",
 5,
-"miànlín",
-"be faced with; be up against"
+"miàn lín",
+"to face sth; to be confronted with"
 ],
 [
-"濒临",
-6,
-"bīnlín",
-"on the verge of"
+"临时",
+5,
+"lín shí",
+"as the time draws near; at the last moment; temporary; interim; ad hoc"
 ],
 [
 "降临",
 6,
-"jiànglín",
-"befall; descend"
+"jiàng lín",
+"to descend; to arrive; to come"
 ],
 [
 "临床",
 6,
-"línchuáng",
+"lín chuáng",
 "clinical"
+],
+[
+"濒临",
+6,
+"bīn lín",
+"on the edge of; (fig.) on the verge of; close to"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"来临",
+21.85,
+"lái lín",
+"to approach; to come closer"
+],
+[
+"临近",
+15.44,
+"lín jìn",
+"close to; approaching"
+]
+],
 "strokes": [
 "M 124 547 Q 151 483 129 316 Q 120 285 150 245 Q 160 233 171 246 Q 195 279 193 323 Q 189 420 203 513 Q 210 538 189 550 Q 171 562 153 572 Q 140 576 129 571 Q 120 564 124 547 Z",
 "M 287 109 Q 275 67 302 3 Q 309 -16 317 -19 Q 324 -26 332 -17 Q 339 -13 350 9 Q 360 34 360 68 Q 359 117 365 566 Q 366 659 384 721 Q 393 737 390 751 Q 383 761 325 797 Q 300 815 279 798 Q 273 794 280 777 Q 311 729 313 665 Q 313 236 298 155 Q 292 133 287 109 Z",

@@ -7,25 +7,38 @@
 },
 "words": [
 [
-"剥削",
+"削",
 6,
-"bōxuē",
-"to exploit"
+"xiāo",
+"to peel with a knife; to pare; to cut (a ball at tennis etc)"
 ],
 [
 "削",
 6,
 "xuē",
-"to pare/peel with a knife; to cut; to chop"
+"to pare; to reduce; to remove; Taiwan pr. [xue4]"
 ],
 [
 "削弱",
 6,
-"xuēruò",
-"weaken; to cripple"
+"xuē ruò",
+"to weaken; to impair; to cripple"
+],
+[
+"剥削",
+6,
+"bō xuē",
+"to exploit; exploitation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"削减",
+8.79,
+"xuē jiǎn",
+"to cut down; to reduce; to lower"
+]
+],
 "strokes": [
 "M 372 539 Q 384 671 401 768 Q 405 778 387 791 Q 356 807 335 812 Q 322 815 314 807 Q 307 801 314 788 Q 341 751 334 526 C 333 496 369 509 372 539 Z",
 "M 186 647 Q 225 593 250 582 Q 263 578 272 589 Q 278 599 277 614 Q 270 651 201 679 L 200 680 Q 187 686 178 683 Q 172 682 173 671 Q 174 661 186 647 Z",

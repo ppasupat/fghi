@@ -9,17 +9,36 @@
 [
 "发烧",
 3,
-"fāshāo",
-"have a fever"
+"fā shāo",
+"to have a high temperature (from illness); to have a fever"
 ],
 [
 "燃烧",
 5,
-"ránshāo",
-"combustion; burn; kindle"
+"rán shāo",
+"to ignite; to combust; to burn; combustion; flaming"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"烧烤",
+10.75,
+"shāo kǎo",
+"barbecue; to roast"
+],
+[
+"烧伤",
+9.26,
+"shāo shāng",
+"burn (injury)"
+],
+[
+"烧毁",
+6.95,
+"shāo huǐ",
+"to burn; to burn down"
+]
+],
 "strokes": [
 "M 157 557 Q 153 490 139 424 Q 132 393 155 368 Q 167 355 180 371 Q 216 425 194 516 Q 190 544 176 564 Q 170 568 165 569 Q 158 565 157 557 Z",
 "M 310 480 Q 418 552 428 556 Q 446 563 437 578 Q 427 591 405 603 Q 386 613 376 612 Q 366 611 369 600 Q 370 585 325 522 Q 318 515 312 505 C 296 480 286 464 310 480 Z",

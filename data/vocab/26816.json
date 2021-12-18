@@ -9,23 +9,78 @@
 [
 "检查",
 3,
-"jiǎnchá",
-"to check; examine; inspect"
-],
-[
-"检讨",
-6,
-"jiǎntǎo",
-"self-criticism; analyze"
+"jiǎn chá",
+"inspection; to examine; to inspect; CL:次[ci4]"
 ],
 [
 "检验",
 6,
-"jiǎnyàn",
-"inspect; examine; to test"
+"jiǎn yàn",
+"to inspect; to examine; to test"
+],
+[
+"检讨",
+6,
+"jiǎn tǎo",
+"to examine or inspect; self-criticism; review"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"检测",
+77.52,
+"jiǎn cè",
+"to detect; to test; detection; sensing"
+],
+[
+"检察官",
+38.13,
+"jiǎn chá guān",
+"public prosecutor; public procurator (judicial officer whose job may involve both criminal investigation and public prosecution)"
+],
+[
+"检察",
+18.97,
+"jiǎn chá",
+"to inspect; (law) to prosecute; to investigate"
+],
+[
+"体检",
+17.3,
+"tǐ jiǎn",
+"abbr. for 體格檢查|体格检查[ti3 ge2 jian3 cha2]"
+],
+[
+"检索",
+14.84,
+"jiǎn suǒ",
+"to retrieve (data); to look up; retrieval; search"
+],
+[
+"检疫",
+12.4,
+"jiǎn yì",
+"quarantine"
+],
+[
+"纪检",
+8.42,
+"jì jiǎn",
+"disciplinary inspection; to inspect another's discipline"
+],
+[
+"检察院",
+8.1,
+"jiǎn chá yuàn",
+"prosecutor's office; procuratorate"
+],
+[
+"检修",
+6.36,
+"jiǎn xiū",
+"to overhaul; to examine and fix (a motor); to service (a vehicle)"
+]
+],
 "strokes": [
 "M 332 523 Q 351 530 376 535 Q 412 545 417 551 Q 426 560 420 568 Q 413 580 382 585 Q 357 589 334 580 L 293 564 Q 187 531 131 523 Q 94 514 122 499 Q 158 480 232 497 Q 250 503 272 506 L 332 523 Z",
 "M 327 387 Q 328 451 332 523 L 334 580 Q 337 671 356 734 Q 366 749 363 762 Q 356 771 302 806 Q 280 822 259 808 Q 255 804 260 788 Q 294 736 293 686 Q 293 628 293 564 L 287 414 Q 275 165 275 163 Q 266 111 252 61 Q 239 19 265 -38 Q 271 -56 279 -59 Q 285 -65 292 -57 Q 319 -41 320 22 Q 319 62 327 356 L 327 387 Z",

@@ -9,67 +9,73 @@
 [
 "苹果",
 1,
-"píngguǒ",
-"apple"
+"píng guǒ",
+"apple; CL:個|个[ge4],顆|颗[ke1]"
 ],
 [
 "水果",
 1,
-"shuǐguǒ",
-"fruit"
+"shuǐ guǒ",
+"fruit; CL:個|个[ge4]"
 ],
 [
 "如果",
 3,
-"rúguǒ",
-"if; in the event that"
-],
-[
-"果汁",
-4,
-"guǒzhī",
-"fruit juice"
+"rú guǒ",
+"if; in case; in the event that"
 ],
 [
 "结果",
 4,
-"jiéguǒ",
-"result; outcome; finally"
+"jiē guǒ",
+"to bear fruit; CL:個|个[ge4]"
+],
+[
+"结果",
+4,
+"jié guǒ",
+"outcome; result; conclusion; in the end; as a result; to kill; to dispatch"
 ],
 [
 "效果",
 4,
-"xiàoguǒ",
-"effect; result"
+"xiào guǒ",
+"result; effect; efficacy; (theater) sound or visual effects"
 ],
 [
-"成果",
-5,
-"chéngguǒ",
-"result; achievement; gain"
-],
-[
-"果然",
-5,
-"guǒrán",
-"really; sure enough; as expected"
-],
-[
-"果实",
-5,
-"guǒshí",
-"fruit; gains; results"
+"果汁",
+4,
+"guǒ zhī",
+"fruit juice"
 ],
 [
 "后果",
 5,
-"hòuguǒ",
+"hòu guǒ",
 "consequences; aftermath"
+],
+[
+"果然",
+5,
+"guǒ rán",
+"really; sure enough; as expected; if indeed"
+],
+[
+"成果",
+5,
+"chéng guǒ",
+"result; achievement; gain; profit; CL:個|个[ge4]"
+],
+[
+"果实",
+5,
+"guǒ shí",
+"fruit (produced by a plant); (fig.) fruits (of success etc); results; gains"
 ],
 [
 "果断",
 6,
-"guǒduàn",
+"guǒ duàn",
 "firm; decisive"
 ]
 ],
@@ -77,26 +83,44 @@
 [
 "糖果",
 16.9,
-"tang2 guo3",
+"táng guǒ",
 "candy; CL:粒[li4]"
 ],
 [
 "芒果",
 10.21,
-"mang2 guo3",
+"máng guǒ",
 "mango (loanword)"
 ],
 [
 "因果",
 7.57,
-"yin1 guo3",
+"yīn guǒ",
 "karma; cause and effect"
 ],
 [
 "果真",
 7.02,
-"guo3 zhen1",
+"guǒ zhēn",
 "really; as expected; sure enough; if indeed...; if it's really..."
+],
+[
+"果树",
+5.58,
+"guǒ shù",
+"fruit tree; CL:棵[ke1]"
+],
+[
+"果冻",
+5.31,
+"guǒ dòng",
+"gelatin dessert"
+],
+[
+"坚果",
+5.13,
+"jiān guǒ",
+"nut"
 ]
 ],
 "strokes": [

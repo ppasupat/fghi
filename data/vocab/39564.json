@@ -9,65 +9,78 @@
 [
 "经验",
 4,
-"jīngyàn",
-"experience"
-],
-[
-"测验",
-5,
-"cèyàn",
-"test; exam; to test"
+"jīng yàn",
+"experience; to experience"
 ],
 [
 "实验",
 5,
-"shíyàn",
-"experiment; test"
+"shí yàn",
+"experiment; test; CL:個|个[ge4],次[ci4]; experimental; to experiment"
 ],
 [
 "体验",
 5,
-"tǐyàn",
-"experience for oneself; to personally experience (usually a kind of life)"
+"tǐ yàn",
+"to experience for oneself"
 ],
 [
-"化验",
-6,
-"huàyàn",
-"laboratory test; chemically examine"
-],
-[
-"检验",
-6,
-"jiǎnyàn",
-"inspect; examine; to test"
-],
-[
-"考验",
-6,
-"kǎoyàn",
-"put to the test; trial"
+"测验",
+5,
+"cè yàn",
+"test; to test; CL:次[ci4],個|个[ge4]"
 ],
 [
 "试验",
 6,
-"shìyàn",
-"experiment; test"
+"shì yàn",
+"experiment; test; CL:次[ci4],個|个[ge4]; to experiment; experimental"
 ],
 [
-"验收",
+"考验",
 6,
-"yànshōu",
-"inspect and then accept (i.e. received goods"
+"kǎo yàn",
+"to test; to put to the test; trial; ordeal"
+],
+[
+"检验",
+6,
+"jiǎn yàn",
+"to inspect; to examine; to test"
+],
+[
+"化验",
+6,
+"huà yàn",
+"chemical examination; to do a lab test"
 ],
 [
 "验证",
 6,
-"yànzhèng",
-"inspect and verify"
+"yàn zhèng",
+"to inspect and verify; experimental verification; to validate (a theory); to authenticate"
+],
+[
+"验收",
+6,
+"yàn shōu",
+"to inspect and accept; acceptance"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"实验室",
+55.24,
+"shí yàn shì",
+"laboratory; CL:間|间[jian1]"
+],
+[
+"验尸",
+14.19,
+"yàn shī",
+"autopsy; postmortem examination"
+]
+],
 "strokes": [
 "M 360 422 Q 378 462 396 612 Q 406 664 439 695 Q 455 711 439 726 Q 420 741 370 761 Q 355 768 302 750 Q 295 750 211 721 Q 171 708 145 701 Q 129 700 127 694 Q 124 690 141 680 Q 175 667 193 675 Q 232 693 322 715 Q 338 719 344 716 Q 360 709 354 661 Q 333 483 320 447 Q 314 429 324 408 C 333 379 350 394 360 422 Z",
 "M 324 408 Q 290 402 230 385 Q 205 381 203 400 Q 206 541 219 572 Q 225 587 218 597 Q 203 613 180 623 Q 164 629 156 621 Q 150 617 157 606 Q 169 581 159 409 Q 156 391 152 373 Q 145 354 159 339 Q 177 324 199 337 Q 220 358 328 374 Q 359 377 372 365 Q 384 355 372 311 Q 365 245 355 176 Q 348 122 324 88 Q 317 78 297 78 Q 267 87 240 93 Q 227 97 227 91 Q 227 87 235 79 Q 284 33 301 0 Q 308 -19 325 -10 Q 386 23 397 90 Q 413 184 426 286 Q 433 323 450 353 Q 462 368 451 380 Q 435 399 398 420 Q 380 430 360 422 L 324 408 Z",

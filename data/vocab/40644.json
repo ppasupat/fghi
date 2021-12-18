@@ -9,23 +9,60 @@
 [
 "黄河",
 3,
-"huánghé",
-"Yellow River"
+"Huáng Hé",
+"Yellow River or Huang He"
 ],
 [
 "黄金",
 5,
-"huángjīn",
-"gold"
+"huáng jīn",
+"gold; golden (opportunity); prime (time)"
 ],
 [
 "黄昏",
 6,
-"huánghūn",
+"huáng hūn",
 "dusk; evening; nightfall"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"黄色",
+21.06,
+"huáng sè",
+"yellow (color); pornographic"
+],
+[
+"黄瓜",
+9.9,
+"huáng guā",
+"cucumber; CL:條|条[tiao2]"
+],
+[
+"黄油",
+8.64,
+"huáng yóu",
+"butter; CL:盒[he2]"
+],
+[
+"黄牌",
+7.3,
+"huáng pái",
+"(sports) yellow card; (fig.) admonishment"
+],
+[
+"黄山",
+5.64,
+"Huáng shān",
+"Mt Huang; Yellow mountains; Huangshan prefecture-level city centered around Huangshan Mountains in south Anhui"
+],
+[
+"黄牛",
+5.08,
+"huáng niú",
+"ox; cattle; scalper of tickets etc; to fail to show up; to break a promise"
+]
+],
 "strokes": [
 "M 644 655 Q 702 662 754 666 Q 766 663 775 677 Q 776 689 754 701 Q 718 723 656 707 L 591 693 Q 569 690 549 685 Q 489 675 434 667 L 383 662 Q 328 659 270 654 Q 239 651 262 632 Q 296 602 325 610 Q 355 616 389 620 L 435 628 Q 504 640 585 649 L 644 655 Z",
 "M 434 667 Q 434 710 436 722 Q 437 744 424 756 Q 400 772 373 781 Q 360 785 350 780 Q 343 773 350 758 Q 371 722 383 662 L 389 620 Q 393 574 404 495 C 408 465 446 470 444 500 Q 438 576 435 628 L 434 667 Z",

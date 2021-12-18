@@ -9,190 +9,334 @@
 [
 "民族",
 4,
-"mínzú",
-"nationality; ethnic group"
-],
-[
-"农民",
-5,
-"nóngmín",
-"peasant"
-],
-[
-"人民币",
-5,
-"rénmínbì",
-"(currency) renminbi (RMB)"
+"mín zú",
+"nationality; ethnic group; CL:個|个[ge4]"
 ],
 [
 "移民",
 5,
-"yímín",
-"immigrate; emigrate; migrate"
+"yí mín",
+"to immigrate; to migrate; emigrant; immigrant"
+],
+[
+"农民",
+5,
+"nóng mín",
+"peasant; farmer; CL:個|个[ge4]"
+],
+[
+"人民币",
+5,
+"rén mín bì",
+"Renminbi (RMB); Chinese Yuan (CNY)"
 ],
 [
 "公民",
 6,
-"gōngmín",
+"gōng mín",
 "citizen"
 ],
 [
 "居民",
 6,
-"jūmín",
+"jū mín",
 "resident; inhabitant"
-],
-[
-"民间",
-6,
-"mínjiān",
-"among the people; popular; folk"
 ],
 [
 "民主",
 6,
-"mínzhǔ",
+"mín zhǔ",
 "democracy"
-],
-[
-"渔民",
-6,
-"yúmín",
-"fisherman; fisher folk"
 ],
 [
 "殖民地",
 6,
-"zhímíndì",
+"zhí mín dì",
 "colony"
+],
+[
+"民间",
+6,
+"mín jiān",
+"among the people; popular; folk; non-governmental; involving people rather than governments"
+],
+[
+"渔民",
+6,
+"yú mín",
+"fisherman; fisher folk"
 ]
 ],
 "extraWords": [
 [
 "人民",
 353.77,
-"ren2 min2",
+"rén mín",
 "the people; CL:個|个[ge4]"
 ],
 [
 "市民",
 130.04,
-"shi4 min2",
+"shì mín",
 "city resident"
 ],
 [
 "民警",
 72.7,
-"min2 jing3",
+"mín jǐng",
 "civil police; PRC police; abbr. for 人民警察"
 ],
 [
 "村民",
 51.9,
-"cun1 min2",
+"cūn mín",
 "villager"
+],
+[
+"民营",
+39.96,
+"mín yíng",
+"privately run (i.e. by a company, not the state)"
+],
+[
+"民众",
+37.82,
+"mín zhòng",
+"populace; masses; the people"
+],
+[
+"国民党",
+33.33,
+"Guó mín dǎng",
+"Guomindang or Kuomintang (KMT); Nationalist Party"
+],
+[
+"中华人民共和国",
+30.47,
+"Zhōng huá Rén mín Gòng hé guó",
+"People's Republic of China"
+],
+[
+"农民工",
+29.24,
+"nóng mín gōng",
+"migrant worker (who moved from a rural area of China to a city to find work)"
+],
+[
+"国民经济",
+27.02,
+"guó mín jīng jì",
+"national economy"
+],
+[
+"少数民族",
+21.8,
+"shǎo shù mín zú",
+"national minority; ethnic group"
 ],
 [
 "全民",
 21.4,
-"quan2 min2",
+"quán mín",
 "entire population (of a country)"
+],
+[
+"国民",
+19.9,
+"guó mín",
+"nationals; citizens; people of a nation"
+],
+[
+"江泽民",
+18.05,
+"Jiāng Zé mín",
+"Jiang Zemin (1926-), politician, president of PRC 1993-2003"
+],
+[
+"中华民族",
+16.78,
+"Zhōng huá mín zú",
+"the Chinese people"
 ],
 [
 "民工",
 16.59,
-"min2 gong1",
+"mín gōng",
 "migrant worker (who moved from a rural area of China to a city to find work); temporary worker enlisted on a public project"
 ],
 [
 "人民法院",
 16.34,
-"ren2 min2 fa3 yuan4",
+"rén mín fǎ yuàn",
 "people's court (of law); people's tribunal"
+],
+[
+"网民",
+15.87,
+"wǎng mín",
+"web user; netizen"
 ],
 [
 "平民",
 13.68,
-"ping2 min2",
+"píng mín",
 "ordinary people; commoner; civilian"
 ],
 [
 "民事",
 13.52,
-"min2 shi4",
+"mín shì",
 "civil case; agricultural affairs; civil"
 ],
 [
 "民航",
 13.32,
-"min2 hang2",
+"mín háng",
 "civil aviation"
+],
+[
+"民办",
+12.91,
+"mín bàn",
+"run by the local people; privately operated"
 ],
 [
 "民生",
 12.68,
-"min2 sheng1",
+"mín shēng",
 "people's livelihood; people's welfare"
 ],
 [
 "民兵",
 12.48,
-"min2 bing1",
+"mín bīng",
 "people's militia; militia; militiaman"
 ],
 [
 "民政",
 11.62,
-"min2 zheng4",
+"mín zhèng",
 "civil administration"
 ],
 [
 "股民",
 10.92,
-"gu3 min2",
+"gǔ mín",
 "stock investor; share trader"
+],
+[
+"人民日报",
+10.4,
+"Rén mín Rì bào",
+"People's Daily (PRC newspaper)"
 ],
 [
 "民用",
 9.49,
-"min2 yong4",
+"mín yòng",
 "(for) civilian use"
+],
+[
+"中国人民银行",
+9.38,
+"Zhōng guó Rén mín Yín háng",
+"People's Bank of China"
+],
+[
+"民主党",
+9.13,
+"Mín zhǔ dǎng",
+"Democratic Party"
+],
+[
+"人民大会堂",
+9.01,
+"Rén mín Dà huì táng",
+"the Great Hall of the People in Beijing"
+],
+[
+"选民",
+8.96,
+"xuǎn mín",
+"voter; constituency; electorate"
 ],
 [
 "民意",
 8.81,
-"min2 yi4",
+"mín yì",
 "public opinion; popular will; public will"
 ],
 [
 "民俗",
 8.79,
-"min2 su2",
+"mín sú",
 "popular custom"
+],
+[
+"军民",
+8.42,
+"jūn mín",
+"army-civilian; military-masses; military-civilian"
+],
+[
+"中国人民解放军",
+7.46,
+"Zhōng guó Rén mín Jiě fàng jūn",
+"Chinese People's Liberation Army (PLA)"
 ],
 [
 "彩民",
 7.15,
-"cai3 min2",
+"cǎi mín",
 "lottery player"
+],
+[
+"民国",
+6.54,
+"Mín guó",
+"Republic of China (1912-1949); used in Taiwan as the name of the calendar era (e.g. 民國六十年|民国六十年 is 1971, the 60th year after 1911)"
+],
+[
+"人民银行",
+6.53,
+"Rén mín Yín háng",
+"People's Bank of China"
 ],
 [
 "最高人民法院",
 6.12,
-"Zui4 gao1 Ren2 min2 Fa3 yuan4",
+"Zuì gāo Rén mín Fǎ yuàn",
 "Supreme People's Court (PRC)"
+],
+[
+"灾民",
+5.91,
+"zāi mín",
+"victim (of a disaster)"
+],
+[
+"难民",
+5.54,
+"nàn mín",
+"refugee"
 ],
 [
 "人民公社",
 5.28,
-"ren2 min2 gong1 she4",
+"rén mín gōng shè",
 "people's commune"
 ],
 [
 "民心",
 5.26,
-"min2 xin1",
+"mín xīn",
 "popular sentiment"
+],
+[
+"自民党",
+5.13,
+"Zì mín dǎng",
+"Liberal Democratic Party (Japanese political party)"
 ]
 ],
 "strokes": [

@@ -9,11 +9,66 @@
 [
 "稳定",
 5,
-"wěndìng",
-"stable; steady"
+"wěn dìng",
+"steady; stable; stability; to stabilize; to pacify"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"平稳",
+22.77,
+"píng wěn",
+"smooth; steady"
+],
+[
+"稳定性",
+15.93,
+"wěn dìng xìng",
+"stability"
+],
+[
+"稳步",
+13.29,
+"wěn bù",
+"steadily; a steady pace"
+],
+[
+"不稳定",
+12.13,
+"bù wěn dìng",
+"unstable"
+],
+[
+"稳健",
+10.69,
+"wěn jiàn",
+"firm; stable and steady"
+],
+[
+"稳重",
+5.83,
+"wěn zhòng",
+"steady; earnest; staid"
+],
+[
+"安稳",
+5.24,
+"ān wěn",
+"smooth and steady"
+],
+[
+"稳固",
+5.23,
+"wěn gù",
+"stable; steady; firm; to stabilize"
+],
+[
+"稳妥",
+5.14,
+"wěn tuǒ",
+"dependable"
+]
+],
 "strokes": [
 "M 293 687 Q 402 739 428 746 Q 444 747 447 755 Q 450 765 438 775 Q 387 809 350 805 Q 343 801 343 791 Q 346 751 140 643 Q 136 634 141 632 Q 159 632 248 669 Q 255 672 265 675 L 293 687 Z",
 "M 321 511 Q 364 524 415 532 Q 430 535 430 542 Q 431 555 413 562 Q 388 572 323 553 L 283 541 Q 133 505 83 497 Q 70 496 68 487 Q 67 477 81 467 Q 120 443 157 458 Q 218 483 266 496 L 321 511 Z",

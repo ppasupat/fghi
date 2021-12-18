@@ -9,39 +9,45 @@
 [
 "礼貌",
 4,
-"lǐmào",
-"courtesy; politeness; manners"
-],
-[
-"面貌",
-6,
-"miànmào",
-"appearance; looks; features"
+"lǐ mào",
+"courtesy; manners"
 ],
 [
 "容貌",
 6,
-"róngmào",
-"facial features; looks; appearance"
+"róng mào",
+"one's appearance; one's aspect; looks; features"
+],
+[
+"面貌",
+6,
+"miàn mào",
+"appearance; face; features; CL:個|个[ge4]"
 ]
 ],
 "extraWords": [
 [
 "貌似",
 30.73,
-"mao4 si4",
+"mào sì",
 "to appear to be; to seem as if"
+],
+[
+"风貌",
+7.19,
+"fēng mào",
+"style; manner; ethos"
 ],
 [
 "美貌",
 5.99,
-"mei3 mao4",
+"měi mào",
 "good looks; beauty; good-looking"
 ],
 [
 "相貌",
 5.16,
-"xiang4 mao4",
+"xiàng mào",
 "appearance"
 ]
 ],

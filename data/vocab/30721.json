@@ -9,35 +9,54 @@
 [
 "号码",
 4,
-"hàomǎ",
-"number"
+"hào mǎ",
+"number; CL:堆[dui1],個|个[ge4]"
 ],
 [
 "密码",
 4,
-"mìmǎ",
-"password; secret code"
+"mì mǎ",
+"secret code; ciphertext; password; PIN"
 ],
 [
 "数码",
 5,
-"shùmǎ",
-"numeral; number; amount; digital"
-],
-[
-"码头",
-6,
-"mǎtou",
-"dock; wharf"
+"shù mǎ",
+"number; numerals; figures; digital; amount; numerical code"
 ],
 [
 "起码",
 6,
-"qǐmǎ",
+"qǐ mǎ",
 "at the minimum; at the very least"
+],
+[
+"码头",
+6,
+"mǎ tóu",
+"dock; pier; wharf; CL:個|个[ge4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"代码",
+15.46,
+"dài mǎ",
+"code"
+],
+[
+"筹码",
+14.05,
+"chóu mǎ",
+"bargaining chip; gaming chip; casino token"
+],
+[
+"编码",
+7.41,
+"biān mǎ",
+"to code; to encode; code"
+]
+],
 "strokes": [
 "M 259 618 Q 415 666 417 667 Q 426 676 420 684 Q 413 696 382 701 Q 357 704 268 670 Q 195 649 155 643 Q 118 634 146 619 Q 179 604 217 607 L 259 618 Z",
 "M 234 416 Q 259 471 292 550 Q 305 589 306 590 Q 294 614 259 618 C 230 624 208 628 217 607 Q 226 598 225 559 Q 216 496 195 444 Q 191 432 185 419 L 169 384 Q 126 303 31 179 Q 24 173 35 172 Q 95 193 183 322 Q 183 325 186 327 L 234 416 Z",

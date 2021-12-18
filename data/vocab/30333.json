@@ -9,141 +9,213 @@
 [
 "白",
 2,
+"Bái",
+"surname Bai"
+],
+[
+"白",
+2,
 "bái",
-"white; snowy; pure; bright; empty (Kangxi radical 106)"
+"white; snowy; pure; bright; empty; blank; plain; clear; to make clear; in vain; gratuitous; free of charge; reactionary; anti-communist; funeral; to stare coldly; to write wrong character; to state; to explain; vernacular; spoken lines in opera"
 ],
 [
 "明白",
 3,
-"míngbai",
-"clear; obvious; understand; explicit"
-],
-[
-"苍白",
-6,
-"cāngbái",
-"pale; wan; pallid"
-],
-[
-"蛋白质",
-6,
-"dànbáizhì",
-"protein"
-],
-[
-"空白",
-6,
-"kòngbái",
-"blank space; blank"
+"míng bai",
+"clear; obvious; unequivocal; to understand; to realize"
 ],
 [
 "坦白",
 6,
-"tǎnbái",
+"tǎn bái",
 "honest; forthcoming; to confess"
+],
+[
+"空白",
+6,
+"kòng bái",
+"blank space"
+],
+[
+"苍白",
+6,
+"cāng bái",
+"pale; wan"
+],
+[
+"蛋白质",
+6,
+"dàn bái zhì",
+"protein"
 ]
 ],
 "extraWords": [
 [
 "白痴",
 102.72,
-"bai2 chi1",
+"bái chī",
 "idiocy; idiot"
 ],
 [
 "白人",
 49.04,
-"bai2 ren2",
+"bái rén",
 "white man or woman; Caucasian"
 ],
 [
 "白色",
 48.03,
-"bai2 se4",
+"bái sè",
 "white; fig. reactionary; anti-communist"
 ],
 [
 "蛋白",
 33.89,
-"dan4 bai2",
+"dàn bái",
 "egg white; protein; albumen"
 ],
 [
 "白天",
 32.66,
-"bai2 tian1",
+"bái tiān",
 "daytime; during the day; day; CL:個|个[ge4]"
 ],
 [
 "白羊座",
 25.52,
-"Bai2 yang2 zuo4",
+"Bái yáng zuò",
 "Aries (constellation and sign of the zodiac)"
 ],
 [
 "清白",
 18.27,
-"qing1 bai2",
+"qīng bái",
 "pure; innocent"
+],
+[
+"白宫",
+17.8,
+"Bái gōng",
+"White House"
+],
+[
+"白领",
+12.14,
+"bái lǐng",
+"white-collar; white-collar worker"
 ],
 [
 "黑白",
 12.0,
-"hei1 bai2",
+"hēi bái",
 "black and white; right and wrong; monochrome"
+],
+[
+"伊丽莎白",
+11.98,
+"Yī lì shā bái",
+"Elizabeth (person name)"
 ],
 [
 "表白",
 9.95,
-"biao3 bai2",
+"biǎo bái",
 "to explain oneself; to express; to reveal one's thoughts or feelings; declaration; confession"
 ],
 [
 "白酒",
 9.69,
-"bai2 jiu3",
-"baijiu, a spirit usually distilled from sorghum"
+"bái jiǔ",
+"baijiu, a spirit usually distilled from sorghum; (Tw) white wine (abbr. for 白葡萄酒[bai2 pu2 tao5 jiu3])"
+],
+[
+"白云",
+9.66,
+"Bái yún",
+"Baiyun District of Guiyang City 貴陽市|贵阳市[Gui4 yang2 Shi4], Guizhou; Baiyun District of Guangzhou City 廣州市|广州市[Guang3 zhou1 Shi4], Guangdong"
+],
+[
+"白云",
+9.66,
+"bái yún",
+"white cloud"
 ],
 [
 "白菜",
 8.34,
-"bai2 cai4",
+"bái cài",
 "Chinese cabbage; pak choi; CL:棵[ke1], 個|个[ge4]"
 ],
 [
 "小白",
 8.27,
-"xiao3 bai2",
+"xiǎo bái",
 "(slang) novice; greenhorn; fool; idiot; abbr. for 小白臉|小白脸[xiao3 bai2 lian3], pretty boy"
 ],
 [
 "白血病",
 7.61,
-"bai2 xue4 bing4",
+"bái xuè bìng",
 "leukemia"
 ],
 [
 "白糖",
 7.51,
-"bai2 tang2",
+"bái táng",
 "(refined) white sugar"
+],
+[
+"白细胞",
+7.19,
+"bái xì bāo",
+"white blood cell; leukocyte"
 ],
 [
 "白白",
 6.71,
-"bai2 bai2",
+"bái bái",
 "in vain; to no purpose; for nothing; white"
+],
+[
+"白银",
+6.66,
+"Bái yín",
+"Baiyin prefecture-level city in Gansu"
+],
+[
+"白银",
+6.66,
+"bái yín",
+"silver"
+],
+[
+"白发",
+6.1,
+"bái fà",
+"white or gray hair; CL:根[gen1]"
+],
+[
+"白内障",
+5.71,
+"bái nèi zhàng",
+"cataract (ophthalmology)"
 ],
 [
 "告白",
 5.67,
-"gao4 bai2",
+"gào bái",
 "to announce publicly; to explain oneself; to reveal one's feelings; to confess; to declare one's love"
+],
+[
+"白费",
+5.57,
+"bái fèi",
+"to waste (one's energy etc)"
 ],
 [
 "白雪",
 5.13,
-"bai2 xue3",
+"bái xuě",
 "snow"
 ]
 ],

@@ -9,142 +9,244 @@
 [
 "商量",
 4,
-"shāngliang",
-"consult; talk over; discuss"
+"shāng liang",
+"to consult; to talk over; to discuss"
 ],
 [
 "数量",
 4,
-"shùliàng",
-"amount; quantity; number"
+"shù liàng",
+"amount; quantity; CL:個|个[ge4]; quantitative"
 ],
 [
 "质量",
 4,
-"zhìliàng",
-"quality; mass (physics)"
-],
-[
-"尽量",
-5,
-"jǐnliàng",
-"as much as possible; to the best of one's ability (jìn-: eat or drink to one's fill)"
+"zhì liàng",
+"quality; (physics) mass; CL:個|个[ge4]"
 ],
 [
 "力量",
 5,
-"lìliang",
+"lì liang",
 "power; force; strength"
+],
+[
+"尽量",
+5,
+"jǐn liàng",
+"as much as possible; to the greatest extent"
+],
+[
+"尽量",
+5,
+"jìn liàng",
+"as much as possible; to the greatest extent"
 ],
 [
 "重量",
 5,
-"zhòngliàng",
-"weight"
-],
-[
-"测量",
-6,
-"cèliáng",
-"to survey; to measure"
-],
-[
-"打量",
-6,
-"dǎliang",
-"take measure of; size up"
-],
-[
-"分量",
-6,
-"fènliàng",
-"weight; heft; amount"
-],
-[
-"较量",
-6,
-"jiàoliàng",
-"competition; to have a contest with sb."
+"zhòng liàng",
+"weight; CL:個|个[ge4]"
 ],
 [
 "能量",
 6,
-"néngliàng",
+"néng liàng",
 "energy; capabilities"
+],
+[
+"测量",
+6,
+"cè liáng",
+"survey; to measure; to gauge; to determine"
+],
+[
+"较量",
+6,
+"jiào liàng",
+"to pit oneself against sb; to compete with sb; contest; battle; to haggle; to quibble"
+],
+[
+"分量",
+6,
+"fēn liàng",
+"(vector) component"
+],
+[
+"分量",
+6,
+"fèn liang",
+"quantity; weight; measure"
+],
+[
+"打量",
+6,
+"dǎ liang",
+"to size sb up; to look sb up and down; to take the measure of; to suppose; to reckon"
 ]
 ],
 "extraWords": [
 [
 "大量",
 150.65,
-"da4 liang4",
+"dà liàng",
 "great amount; large quantity; bulk; numerous; generous; magnanimous"
 ],
 [
 "含量",
 60.11,
-"han2 liang4",
+"hán liàng",
 "content; quantity contained"
+],
+[
+"产量",
+59.76,
+"chǎn liàng",
+"output"
+],
+[
+"总量",
+35.17,
+"zǒng liàng",
+"total; overall amount"
+],
+[
+"销量",
+30.22,
+"xiāo liàng",
+"sales volume"
 ],
 [
 "容量",
 26.65,
-"rong2 liang4",
+"róng liàng",
 "capacity; volume; quantitative (science)"
 ],
 [
 "流量",
 26.07,
-"liu2 liang4",
+"liú liàng",
 "flow rate; rate; throughput; site traffic (Internet)"
+],
+[
+"剂量",
+23.7,
+"jì liàng",
+"dosage; prescribed dose of medicine"
 ],
 [
 "少量",
 17.43,
-"shao3 liang4",
+"shǎo liàng",
 "a smidgen; a little bit; a few"
 ],
 [
 "衡量",
 16.79,
-"heng2 liang2",
+"héng liáng",
 "to weigh; to examine; to consider"
+],
+[
+"适量",
+14.52,
+"shì liàng",
+"appropriate amount"
+],
+[
+"热量",
+13.09,
+"rè liàng",
+"heat; quantity of heat; calorific value"
+],
+[
+"计量",
+10.68,
+"jì liàng",
+"measurement; to calculate"
 ],
 [
 "定量",
 10.07,
-"ding4 liang4",
+"dìng liàng",
 "quantity; fixed amount; ration"
+],
+[
+"过量",
+9.45,
+"guò liàng",
+"excess; overdose"
+],
+[
+"高质量",
+9.4,
+"gāo zhì liàng",
+"high quality"
 ],
 [
 "用量",
 8.9,
-"yong4 liang4",
+"yòng liàng",
 "quantity used; usage; consumption; dose"
 ],
 [
 "批量",
 8.09,
-"pi1 liang4",
+"pī liàng",
 "batch; lot"
+],
+[
+"储量",
+7.68,
+"chǔ liàng",
+"remaining quantity; reserves (of natural resources, oil etc)"
 ],
 [
 "增量",
 6.85,
-"zeng1 liang4",
+"zēng liàng",
 "increment"
+],
+[
+"质量管理",
+6.83,
+"zhì liàng guǎn lǐ",
+"quality management"
+],
+[
+"胆量",
+6.62,
+"dǎn liàng",
+"courage; boldness; guts"
+],
+[
+"变量",
+6.54,
+"biàn liàng",
+"variable (math.)"
 ],
 [
 "量化",
 6.41,
-"liang4 hua4",
+"liàng huà",
 "to quantize; quantization; quantitative"
 ],
 [
 "工作量",
 5.62,
-"gong1 zuo4 liang4",
+"gōng zuò liàng",
 "workload; volume of work"
+],
+[
+"重量级",
+5.48,
+"zhòng liàng jí",
+"heavyweight (boxing etc)"
+],
+[
+"总产量",
+5.42,
+"zǒng chǎn liàng",
+"total output"
 ]
 ],
 "strokes": [

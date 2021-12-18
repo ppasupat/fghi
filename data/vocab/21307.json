@@ -9,17 +9,96 @@
 [
 "医生",
 1,
-"yīshēng",
-"doctor"
+"yī shēng",
+"doctor; CL:個|个[ge4],位[wei4],名[ming2]"
 ],
 [
 "医院",
 1,
-"yīyuàn",
-"hospital"
+"yī yuàn",
+"hospital; CL:所[suo3],家[jia1],座[zuo4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"医疗",
+105.43,
+"yī liáo",
+"medical treatment"
+],
+[
+"医学",
+44.11,
+"yī xué",
+"medicine; medical science; study of medicine"
+],
+[
+"医药",
+31.15,
+"yī yào",
+"medical care and medicines; medicine (drug); medical; pharmaceutical"
+],
+[
+"中医",
+30.56,
+"Zhōng yī",
+"traditional Chinese medical science; a doctor trained in Chinese medicine"
+],
+[
+"法医",
+14.82,
+"fǎ yī",
+"forensic investigator; forensic detective"
+],
+[
+"医师",
+14.64,
+"yī shī",
+"doctor"
+],
+[
+"牙医",
+12.46,
+"yá yī",
+"dentist"
+],
+[
+"医务",
+10.2,
+"yī wù",
+"medical affairs"
+],
+[
+"医学院",
+8.47,
+"yī xué yuàn",
+"medical school"
+],
+[
+"医护",
+8.15,
+"yī hù",
+"doctors and nurses; medic; medical (personnel)"
+],
+[
+"兽医",
+7.2,
+"shòu yī",
+"veterinarian; veterinary surgeon; vet"
+],
+[
+"中西医",
+5.59,
+"zhōng xī yī",
+"Chinese and Western medicine; a doctor trained in Chinese and Western medicine"
+],
+[
+"就医",
+5.41,
+"jiù yī",
+"to receive medical treatment"
+]
+],
 "strokes": [
 "M 295 695 Q 334 683 416 694 Q 746 739 767 750 Q 767 751 769 751 Q 778 758 774 768 Q 767 781 739 790 Q 709 799 609 771 Q 443 734 289 729 C 259 728 266 702 295 695 Z",
 "M 445 559 Q 454 580 483 625 Q 492 637 478 649 Q 436 676 415 671 Q 405 667 409 655 Q 427 583 354 486 Q 336 464 328 451 Q 322 438 335 442 Q 377 451 435 540 L 445 559 Z",

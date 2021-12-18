@@ -7,31 +7,56 @@
 },
 "words": [
 [
-"发挥",
-5,
-"fāhuī",
-"to bring (skill, talent, etc.) into play; to develop (an idea)"
-],
-[
 "挥",
 5,
 "huī",
-"to wave; brandish; wield; wipe away"
+"to wave; to brandish; to command; to conduct; to scatter; to disperse"
 ],
 [
 "指挥",
 5,
-"zhǐhuī",
-"to command; to conduct; commander"
+"zhǐ huī",
+"to conduct; to command; to direct; conductor (of an orchestra); CL:個|个[ge4]"
+],
+[
+"发挥",
+5,
+"fā huī",
+"to display; to exhibit; to bring out implicit or innate qualities; to express (a thought or moral); to develop (an idea); to elaborate (on a theme)"
 ],
 [
 "挥霍",
 6,
-"huīhuò",
-"squander money without restraint; squander"
+"huī huò",
+"to squander money; extravagant; prodigal; free and easy; agile"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"指挥官",
+22.21,
+"zhǐ huī guān",
+"commander"
+],
+[
+"指挥部",
+10.57,
+"zhǐ huī bù",
+"headquarters; command post"
+],
+[
+"挥手",
+8.86,
+"huī shǒu",
+"to wave (one's hand)"
+],
+[
+"挥舞",
+5.1,
+"huī wǔ",
+"to brandish; to wave sth"
+]
+],
 "strokes": [
 "M 333 570 Q 397 591 402 595 Q 409 604 404 612 Q 397 624 366 628 Q 350 629 336 627 L 287 608 Q 185 574 130 563 Q 93 553 122 539 Q 165 520 230 540 Q 257 549 286 556 L 333 570 Z",
 "M 280 365 Q 279 283 276 178 Q 275 156 262 147 Q 261 147 196 151 Q 165 163 167 153 Q 168 146 188 132 Q 245 86 259 60 Q 275 29 290 28 Q 303 27 318 60 Q 334 103 334 174 Q 328 291 329 407 L 329 440 Q 329 506 333 570 L 336 627 Q 336 630 337 631 Q 343 715 356 758 Q 372 786 320 809 Q 289 828 269 821 Q 253 815 267 793 Q 288 768 288 734 Q 289 719 287 608 L 286 556 Q 285 495 281 409 L 280 365 Z",

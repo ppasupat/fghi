@@ -9,64 +9,136 @@
 [
 "没关系",
 1,
-"méi guānxi",
-"it doesn't matter; never mind"
+"méi guān xi",
+"it doesn't matter"
 ],
 [
 "关系",
 3,
-"guānxi",
-"relation; to concern"
+"guān xi",
+"relation; relationship; to concern; to affect; to have to do with; guanxi; CL:個|个[ge4]"
+],
+[
+"关系",
+3,
+"guān xi",
+"variant of 關係|关系[guan1 xi5]"
 ],
 [
 "联系",
 4,
-"liánxì",
-"integrate; link; connection; contact"
+"lián xì",
+"variant of 聯繫|联系[lian2 xi4]"
 ],
 [
-"系领带",
-5,
-"jìlǐngdài",
-"tie a neck tie"
+"联系",
+4,
+"lián xì",
+"connection; contact; relation; to get in touch with; to integrate; to link; to touch"
 ],
 [
 "系",
 5,
-"xì, jì",
-"be; relate to; system; fasten; department; faculty; connect | to tie"
+"xì",
+"to connect; to relate to; to tie up; to bind; to be (literary)"
+],
+[
+"系",
+5,
+"xì",
+"system; department; faculty"
+],
+[
+"系",
+5,
+"jì",
+"to tie; to fasten; to button up"
+],
+[
+"系",
+5,
+"xì",
+"to connect; to arrest; to worry"
 ],
 [
 "系统",
 5,
-"xìtǒng",
-"system"
+"xì tǒng",
+"system; CL:個|个[ge4]"
 ],
 [
-"体系",
-6,
-"tǐxì",
-"system; setup"
+"系领带",
+5,
+"xi4 ling3 dai4",
+"to tie a necktie"
 ],
 [
 "系列",
 6,
-"xìliè",
-"series"
+"xì liè",
+"series; set"
+],
+[
+"体系",
+6,
+"tǐ xì",
+"system; setup; CL:個|个[ge4]"
 ]
 ],
 "extraWords": [
 [
 "一系列",
 65.76,
-"yi1 xi4 lie4",
+"yī xì liè",
 "a series of; a string of"
+],
+[
+"系数",
+18.62,
+"xì shù",
+"coefficient; factor; modulus; ratio"
+],
+[
+"操作系统",
+13.21,
+"cāo zuò xì tǒng",
+"operating system"
+],
+[
+"关系到",
+12.64,
+"guān xì dào",
+"relates to; bears upon"
 ],
 [
 "星系",
 10.52,
-"xing1 xi4",
+"xīng xì",
 "see 恆星系|恒星系[heng2 xing1 xi4]"
+],
+[
+"联系人",
+9.53,
+"lián xì rén",
+"contact (person)"
+],
+[
+"信息系统",
+8.06,
+"xìn xī xì tǒng",
+"information system"
+],
+[
+"性关系",
+7.66,
+"xìng guān xi",
+"sexual relations; sexual contact; intercourse"
+],
+[
+"人际关系",
+7.23,
+"rén jì guān xì",
+"interpersonal relationship"
 ]
 ],
 "strokes": [

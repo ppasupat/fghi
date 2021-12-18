@@ -7,161 +7,275 @@
 },
 "words": [
 [
-"奖金",
-4,
-"jiǎngjīn",
-"bonus"
-],
-[
 "现金",
 4,
-"xiànjīn",
+"xiàn jīn",
 "cash"
 ],
 [
-"黄金",
-5,
-"huángjīn",
-"gold"
+"奖金",
+4,
+"jiǎng jīn",
+"premium; award money; bonus"
 ],
 [
 "金属",
 5,
-"jīnshǔ",
-"metal"
-],
-[
-"押金",
-5,
-"yājīn",
-"security deposit; down payment"
+"jīn shǔ",
+"metal; CL:種|种[zhong3]"
 ],
 [
 "资金",
 5,
-"zījīn",
-"funds; funding"
+"zī jīn",
+"funds; funding; capital"
+],
+[
+"黄金",
+5,
+"huáng jīn",
+"gold; golden (opportunity); prime (time)"
+],
+[
+"押金",
+5,
+"yā jīn",
+"deposit; down payment"
 ],
 [
 "基金",
 6,
-"jījīn",
-"fund; endowment"
+"jī jīn",
+"fund"
 ],
 [
 "金融",
 6,
-"jīnróng",
-"banking finance; financial"
+"jīn róng",
+"banking; finance; financial"
 ]
 ],
 "extraWords": [
 [
+"金额",
+56.62,
+"jīn é",
+"sum of money; monetary value"
+],
+[
 "美金",
 36.34,
-"Mei3 jin1",
+"Měi jīn",
 "US dollar; USD"
 ],
 [
 "金牌",
 33.32,
-"jin1 pai2",
+"jīn pái",
 "gold medal; CL:枚[mei2]"
 ],
 [
 "金牛座",
 25.66,
-"Jin1 niu2 zuo4",
+"Jīn niú zuò",
 "Taurus (constellation and sign of the zodiac)"
+],
+[
+"金发",
+25.25,
+"jīn fà",
+"blond; blonde; fair-haired"
+],
+[
+"金钱",
+23.56,
+"jīn qián",
+"money; currency"
+],
+[
+"公积金",
+16.88,
+"gōng jī jīn",
+"official reserves; accumulated fund"
 ],
 [
 "租金",
 15.48,
-"zu1 jin1",
+"zū jīn",
 "rent"
+],
+[
+"金币",
+15.03,
+"jīn bì",
+"gold coin"
+],
+[
+"旧金山",
+14.49,
+"Jiù jīn shān",
+"San Francisco, California"
 ],
 [
 "金子",
 12.67,
-"Jin1 zi3",
+"Jīn zǐ",
 "Kaneko (Japanese surname)"
 ],
 [
 "金子",
 12.67,
-"jin1 zi5",
+"jīn zi",
 "gold"
+],
+[
+"基金会",
+12.49,
+"jī jīn huì",
+"foundation (institution supported by an endowment)"
 ],
 [
 "金色",
 12.39,
-"jin1 se4",
+"jīn sè",
 "golden; gold (color)"
+],
+[
+"奖学金",
+11.98,
+"jiǎng xué jīn",
+"scholarship; CL:筆|笔[bi3]"
+],
+[
+"金刚",
+10.07,
+"Jīn gāng",
+"King Kong"
+],
+[
+"金刚",
+10.07,
+"jīn gāng",
+"diamond; (used to translate Sanskrit \"vajra\", a thunderbolt or mythical weapon); guardian deity (in Buddhist iconography)"
 ],
 [
 "金陵",
 9.9,
-"Jin1 ling2",
+"Jīn líng",
 "pre-Han name for Nanjing; common place name"
 ],
 [
 "合金",
 8.89,
-"he2 jin1",
+"hé jīn",
 "alloy"
+],
+[
+"保证金",
+8.72,
+"bǎo zhèng jīn",
+"earnest money; cash deposit; bail; margin (in derivative trading)"
+],
+[
+"金融市场",
+8.21,
+"jīn róng shì chǎng",
+"financial market"
+],
+[
+"赎金",
+7.84,
+"shú jīn",
+"ransom"
+],
+[
+"养老金",
+7.34,
+"yǎng lǎo jīn",
+"pension"
 ],
 [
 "金字塔",
 7.2,
-"jin1 zi4 ta3",
+"jīn zì tǎ",
 "pyramid (building or structure)"
 ],
 [
 "金正日",
 7.0,
-"Jin1 Zheng4 ri4",
+"Jīn Zhèng rì",
 "Kim Jong-il (1942-2011), Dear Leader of North Korea 1982-2011"
+],
+[
+"有色金属",
+6.85,
+"yǒu sè jīn shǔ",
+"non-ferrous metals (all metals excluding iron, chromium, manganese and their alloys)"
 ],
 [
 "金山",
 6.73,
-"Jin1 shan1",
+"Jīn shān",
 "Jinshan suburban district of Shanghai; Jinshan or Chinshan township in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
 ],
 [
 "淘金",
 6.59,
-"tao2 jin1",
+"táo jīn",
 "to pan for gold; to try to make a fortune"
+],
+[
+"金融业",
+6.5,
+"jīn róng yè",
+"financial sector; the banking business"
+],
+[
+"金枪鱼",
+6.05,
+"jīn qiāng yú",
+"tuna"
+],
+[
+"金银",
+5.66,
+"jīn yín",
+"gold and silver"
+],
+[
+"金库",
+5.37,
+"jīn kù",
+"treasury"
 ],
 [
 "年金",
 5.36,
-"nian2 jin1",
+"nián jīn",
 "annuity; pension; superannuation"
 ],
 [
 "冶金",
 5.34,
-"ye3 jin1",
+"yě jīn",
 "metallurgy"
 ],
 [
 "本金",
 5.24,
-"ben3 jin1",
+"běn jīn",
 "capital; principal"
 ],
 [
 "金星",
 5.22,
-"Jin1 xing1",
+"Jīn xīng",
 "Venus (planet)"
 ],
 [
 "金星",
 5.22,
-"jin1 xing1",
+"jīn xīng",
 "gold star; stars (that one sees from blow to the head etc)"
 ]
 ],

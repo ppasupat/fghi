@@ -10,52 +10,137 @@
 "极",
 3,
 "jí",
-"an extreme; pole; very"
+"extremely; pole (geography, physics); utmost; top"
 ],
 [
 "积极",
 4,
-"jījí",
-"active; positive; energetic"
+"jī jí",
+"active; energetic; vigorous; positive (outlook); proactive"
 ],
 [
 "极其",
 5,
-"jíqí",
-"extremely; exceedingly"
-],
-[
-"太极拳",
-5,
-"tàijíquán",
-"Tai chi, a Chinese martial art"
+"jí qí",
+"extremely"
 ],
 [
 "消极",
 5,
-"xiāojí",
-"passive; negative; demoralized"
+"xiāo jí",
+"negative; passive; inactive"
 ],
 [
-"北极",
-6,
-"běijí",
-"the North Pole"
+"太极拳",
+5,
+"tài jí quán",
+"shadowboxing or Taiji, T'aichi or T'aichichuan; traditional form of physical exercise or relaxation; a martial art"
 ],
 [
 "极端",
 6,
-"jíduān",
+"jí duān",
 "extreme"
 ],
 [
 "极限",
 6,
-"jíxiàn",
+"jí xiàn",
 "limit; extreme boundary"
+],
+[
+"北极",
+6,
+"běi jí",
+"the North Pole; the Arctic Pole; the north magnetic pole"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"极了",
+172.03,
+"jí le",
+"extremely; exceedingly"
+],
+[
+"极大",
+46.51,
+"jí dà",
+"maximum; enormous"
+],
+[
+"极为",
+30.54,
+"jí wéi",
+"extremely; exceedingly"
+],
+[
+"积极性",
+29.86,
+"jī jí xìng",
+"zeal; initiative; enthusiasm; activity"
+],
+[
+"极度",
+13.53,
+"jí dù",
+"extremely"
+],
+[
+"终极",
+9.0,
+"zhōng jí",
+"ultimate; final"
+],
+[
+"极品",
+8.79,
+"jí pǐn",
+"best quality; item of the highest quality; (slang) outrageous; annoying in the extreme; gross; person with these qualities"
+],
+[
+"极力",
+8.08,
+"jí lì",
+"to make a supreme effort; at all costs"
+],
+[
+"极致",
+7.79,
+"jí zhì",
+"peak; pinnacle; ultimate"
+],
+[
+"南极",
+6.02,
+"nán jí",
+"south pole"
+],
+[
+"无极",
+5.92,
+"Wú jí",
+"Wuji county in Shijiazhuang 石家莊地區|石家庄地区[Shi2 jia1 zhuang1 di4 qu1], Hebei; The Promise (name of film by Chen Kaige)"
+],
+[
+"无极",
+5.92,
+"wú jí",
+"everlasting; unbounded"
+],
+[
+"至极",
+5.69,
+"zhì jí",
+"very; extremely"
+],
+[
+"电极",
+5.18,
+"diàn jí",
+"electrode"
+]
+],
 "strokes": [
 "M 326 537 Q 348 544 373 550 Q 410 562 417 567 Q 424 576 420 584 Q 413 596 382 601 Q 354 605 328 595 L 281 576 Q 167 543 115 535 Q 78 526 106 511 Q 149 487 207 506 Q 235 515 269 522 L 326 537 Z",
 "M 312 60 Q 313 64 313 68 Q 312 111 322 432 L 323 460 Q 324 497 326 537 L 328 595 Q 331 680 349 739 Q 359 755 356 768 Q 349 778 294 813 Q 270 831 249 816 Q 245 810 250 795 Q 281 746 281 699 Q 281 641 281 576 L 275 414 Q 271 338 270 255 Q 264 179 243 109 Q 231 67 256 7 Q 262 -11 270 -15 Q 276 -22 284 -13 Q 308 2 312 54 L 312 60 Z",

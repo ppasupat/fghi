@@ -2,60 +2,103 @@
 "char": "礼",
 "level": 3,
 "info": {
-"gloss": "social custom; manners; courtesy",
+"gloss": "social custom; manners; courtesy; rites",
 "pron": "lǐ"
 },
 "words": [
 [
 "礼物",
 3,
-"lǐwù",
-"gift; present"
-],
-[
-"礼拜天",
-4,
-"lǐbàitiān",
-"Sunday"
+"lǐ wù",
+"gift; present; CL:件[jian4],個|个[ge4],份[fen4]"
 ],
 [
 "礼貌",
 4,
-"lǐmào",
-"courtesy; politeness; manners"
+"lǐ mào",
+"courtesy; manners"
+],
+[
+"礼拜天",
+4,
+"Lǐ bài tiān",
+"Sunday"
 ],
 [
 "婚礼",
 5,
-"hūnlǐ",
-"wedding ceremony"
+"hūn lǐ",
+"wedding ceremony; wedding; CL:場|场[chang3]"
 ],
 [
 "典礼",
 6,
-"diǎnlǐ",
+"diǎn lǐ",
 "celebration; ceremony"
 ],
 [
 "敬礼",
 6,
-"jìnglǐ",
-"to salute; best regards"
+"jìng lǐ",
+"to salute; salute"
 ],
 [
 "礼节",
 6,
-"lǐjié",
-"etiquette; proprieties; festival"
+"lǐ jié",
+"etiquette"
 ],
 [
 "礼尚往来",
 6,
-"lǐshàngwǎnglái",
-"courtesy requires reciprocity"
+"lǐ shàng wǎng lái",
+"lit. proper behavior is based on reciprocity (idiom); fig. to return politeness for politeness"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"葬礼",
+34.88,
+"zàng lǐ",
+"burial; funeral"
+],
+[
+"礼拜",
+30.49,
+"lǐ bài",
+"week; religious service; worship; CL:個|个[ge4]"
+],
+[
+"礼品",
+17.67,
+"lǐ pǐn",
+"gift; present"
+],
+[
+"礼服",
+17.26,
+"lǐ fú",
+"ceremonial robe; formal attire (dinner suit, evening gown etc)"
+],
+[
+"礼仪",
+9.35,
+"lǐ yí",
+"etiquette; ceremony"
+],
+[
+"无礼",
+8.29,
+"wú lǐ",
+"rude; rudely"
+],
+[
+"送礼",
+6.41,
+"sòng lǐ",
+"to give a present"
+]
+],
 "strokes": [
 "M 346 738 Q 379 713 413 683 Q 429 670 447 671 Q 460 672 464 688 Q 468 706 456 739 Q 449 761 412 775 Q 330 799 312 792 Q 306 786 309 772 Q 313 759 346 738 Z",
 "M 326 363 Q 353 403 383 452 Q 417 510 467 549 Q 483 562 470 576 Q 449 592 419 602 Q 397 611 379 599 Q 282 533 126 526 Q 113 527 111 520 Q 108 510 123 499 Q 162 474 179 476 Q 200 480 220 489 Q 272 510 334 534 Q 353 541 357 533 Q 364 524 351 499 Q 276 343 100 164 Q 85 152 88 149 Q 91 146 104 152 Q 203 203 302 331 L 326 363 Z",

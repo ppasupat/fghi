@@ -7,67 +7,344 @@
 },
 "words": [
 [
+"产生",
+5,
+"chǎn shēng",
+"to arise; to come into being; to come about; to give rise to; to bring into being; to bring about; to produce; to engender; to generate; to appear; appearance; emergence; generation; production; yield"
+],
+[
 "财产",
 5,
-"cáichǎn",
-"property; fortune"
+"cái chǎn",
+"property; assets; estate; CL:筆|笔[bi3]"
 ],
 [
 "产品",
 5,
-"chǎnpǐn",
-"product; goods; merchandise"
-],
-[
-"产生",
-5,
-"chǎnshēng",
-"to produce; emerge; to cause"
+"chǎn pǐn",
+"goods; merchandise; product; CL:個|个[ge4]"
 ],
 [
 "破产",
 5,
 "pò chǎn",
-"go bankrupt; go broke; bankruptcy"
+"to go bankrupt; to become impoverished; bankruptcy"
 ],
 [
 "生产",
 5,
-"shēngchǎn",
-"to produce; manufacture; give birth to a child"
-],
-[
-"产业",
-6,
-"chǎnyè",
-"industry; estate; property"
-],
-[
-"矿产",
-6,
-"kuàngchǎn",
-"minerals"
-],
-[
-"盛产",
-6,
-"shèngchǎn",
-"abound in; teem with; superabundant"
+"shēng chǎn",
+"to produce; to manufacture; to give birth to a child"
 ],
 [
 "遗产",
 6,
-"yíchǎn",
-"heritage; legacy"
+"yí chǎn",
+"heritage; legacy; inheritance; bequest; CL:筆|笔[bi3]"
 ],
 [
 "资产",
 6,
-"zīchǎn",
+"zī chǎn",
 "property; assets"
+],
+[
+"产业",
+6,
+"chǎn yè",
+"industry; estate; property; industrial"
+],
+[
+"盛产",
+6,
+"shèng chǎn",
+"to produce in abundance; to be rich in"
+],
+[
+"矿产",
+6,
+"kuàng chǎn",
+"minerals"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"房地产",
+125.52,
+"fáng dì chǎn",
+"real estate"
+],
+[
+"产量",
+59.76,
+"chǎn liàng",
+"output"
+],
+[
+"地产",
+47.37,
+"dì chǎn",
+"estate"
+],
+[
+"无产阶级",
+42.58,
+"wú chǎn jiē jí",
+"proletariat"
+],
+[
+"房产",
+36.21,
+"fáng chǎn",
+"real estate; the property market (e.g. houses)"
+],
+[
+"产权",
+35.77,
+"chǎn quán",
+"property right"
+],
+[
+"国产",
+31.74,
+"guó chǎn",
+"domestically produced"
+],
+[
+"知识产权",
+29.71,
+"zhī shi chǎn quán",
+"intellectual property rights (law)"
+],
+[
+"农产品",
+26.45,
+"nóng chǎn pǐn",
+"agricultural produce"
+],
+[
+"生产力",
+24.05,
+"shēng chǎn lì",
+"production capability; productive force; productivity"
+],
+[
+"资产阶级",
+23.97,
+"zī chǎn jiē jí",
+"the capitalist class; the bourgeoisie"
+],
+[
+"中国共产党",
+23.57,
+"Zhōng guó Gòng chǎn dǎng",
+"Communist Party of China"
+],
+[
+"共产党",
+20.36,
+"Gòng chǎn dǎng",
+"Communist Party"
+],
+[
+"产业化",
+19.21,
+"chǎn yè huà",
+"to industrialize; industrialization"
+],
+[
+"新产品",
+18.24,
+"xīn chǎn pǐn",
+"new product"
+],
+[
+"增产",
+17.86,
+"zēng chǎn",
+"to increase production"
+],
+[
+"产值",
+16.81,
+"chǎn zhí",
+"value of output; output value"
+],
+[
+"产物",
+16.31,
+"chǎn wù",
+"product; result (of)"
+],
+[
+"投产",
+16.14,
+"tóu chǎn",
+"to put into production; to put into operation"
+],
+[
+"共产党员",
+15.13,
+"Gòng chǎn dǎng yuán",
+"Communist Party member"
+],
+[
+"生产线",
+14.51,
+"shēng chǎn xiàn",
+"assembly line; production line"
+],
+[
+"共产主义",
+14.05,
+"gòng chǎn zhǔ yì",
+"communism"
+],
+[
+"生产队",
+13.99,
+"shēng chǎn duì",
+"production team"
+],
+[
+"年产",
+10.64,
+"nián chǎn",
+"annual production"
+],
+[
+"高产",
+9.38,
+"gāo chǎn",
+"high yielding"
+],
+[
+"总产值",
+9.09,
+"zǒng chǎn zhí",
+"gross product; total output"
+],
+[
+"日产",
+8.23,
+"Rì chǎn",
+"Nissan, Japanese car make; also transliterated 尼桑[Ni2 sang1]"
+],
+[
+"停产",
+8.2,
+"tíng chǎn",
+"to stop production"
+],
+[
+"水产",
+7.87,
+"shuǐ chǎn",
+"aquatic; produced in sea, rivers or lakes"
+],
+[
+"生产资料",
+7.06,
+"shēng chǎn zī liào",
+"means of production"
+],
+[
+"第三产业",
+6.82,
+"dì sān chǎn yè",
+"tertiary sector of industry"
+],
+[
+"生产者",
+6.79,
+"shēng chǎn zhě",
+"producer (of goods, commodities or farm produce etc); manufacturer; (biology) autotroph"
+],
+[
+"产妇",
+6.77,
+"chǎn fù",
+"woman recuperating after childbirth; woman in childbirth"
+],
+[
+"产后",
+6.74,
+"chǎn hòu",
+"postnatal"
+],
+[
+"产出",
+6.61,
+"chǎn chū",
+"to produce (graduates, breast milk, toxic waste, creative ideas etc); output"
+],
+[
+"流产",
+6.3,
+"liú chǎn",
+"to have a miscarriage; miscarriage; to fail; to fall through"
+],
+[
+"产地",
+6.25,
+"chǎn dì",
+"source (of a product); place of origin; manufacturing location"
+],
+[
+"国内生产总值",
+6.24,
+"guó nèi shēng chǎn zǒng zhí",
+"gross domestic product (GDP)"
+],
+[
+"产区",
+6.22,
+"chǎn qū",
+"place of production; manufacturing location"
+],
+[
+"生产率",
+5.92,
+"shēng chǎn lu:4",
+"productivity; efficiency of production"
+],
+[
+"水产品",
+5.79,
+"shuǐ chǎn pǐn",
+"aquatic products (including fish, crabs, seaweed etc)"
+],
+[
+"不动产",
+5.69,
+"bù dòng chǎn",
+"real estate; immovable property; immovables"
+],
+[
+"减产",
+5.58,
+"jiǎn chǎn",
+"to produce less; to reduce output; lower yield"
+],
+[
+"特产",
+5.56,
+"tè chǎn",
+"special local product; (regional) specialty"
+],
+[
+"产销",
+5.47,
+"chǎn xiāo",
+"production and sales; production and marketing"
+],
+[
+"总产量",
+5.42,
+"zǒng chǎn liàng",
+"total output"
+]
+],
 "strokes": [
 "M 470 784 Q 498 763 527 738 Q 543 725 561 728 Q 571 729 576 744 Q 580 760 568 793 Q 561 812 527 823 Q 449 845 436 835 Q 430 831 433 817 Q 439 805 470 784 Z",
 "M 648 654 Q 666 658 688 660 Q 755 672 765 680 Q 775 689 771 698 Q 764 713 731 723 Q 704 730 591 702 Q 435 669 310 665 Q 268 661 297 640 Q 342 607 406 620 Q 502 633 601 647 L 648 654 Z",

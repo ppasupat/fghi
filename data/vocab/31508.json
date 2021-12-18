@@ -9,17 +9,36 @@
 [
 "铅笔",
 2,
-"qiānbǐ",
-"pencil"
+"qiān bǐ",
+"(lead) pencil; CL:支[zhi1],枝[zhi1],桿|杆[gan3]"
 ],
 [
 "笔记本",
 3,
-"bǐjìběn",
-"notebook"
+"bǐ jì běn",
+"notebook (stationery); CL:本[ben3]; notebook (computing)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"笔者",
+52.72,
+"bǐ zhě",
+"the author; the writer"
+],
+[
+"笔记",
+8.54,
+"bǐ jì",
+"to take down (in writing); notes; a type of literature consisting mainly of short sketches; CL:本[ben3]"
+],
+[
+"笔迹",
+6.38,
+"bǐ jì",
+"handwriting"
+]
+],
 "strokes": [
 "M 324 709 Q 337 731 352 751 Q 362 764 347 778 Q 302 811 279 806 Q 269 805 271 789 Q 284 695 188 585 Q 164 560 153 544 Q 146 529 160 534 Q 214 543 289 650 Q 301 674 311 687 L 324 709 Z",
 "M 311 687 Q 362 666 409 682 Q 502 703 509 709 Q 516 716 512 725 Q 505 735 475 741 Q 454 744 379 719 Q 352 713 324 709 C 294 705 283 698 311 687 Z",

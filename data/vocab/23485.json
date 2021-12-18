@@ -9,23 +9,84 @@
 [
 "宽",
 5,
-"kuān",
-"wide; broad; relaxed; lenient"
+"Kuān",
+"surname Kuan"
 ],
 [
-"宽敞",
-6,
-"kuānchang",
-"spacious; commodious"
+"宽",
+5,
+"kuān",
+"wide; broad; loose; relaxed; lenient"
 ],
 [
 "宽容",
 6,
-"kuānróng",
-"tolerant; lenient"
+"kuān róng",
+"lenient; tolerant; indulgent; charitable; to forgive"
+],
+[
+"宽敞",
+6,
+"kuān chang",
+"spacious; wide"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"宽恕",
+17.71,
+"kuān shù",
+"to forgive; forgiveness"
+],
+[
+"宽带",
+16.83,
+"kuān dài",
+"broadband"
+],
+[
+"宽松",
+13.1,
+"kuān sōng",
+"to relax (policy); relaxed"
+],
+[
+"拓宽",
+11.65,
+"tuò kuān",
+"to broaden"
+],
+[
+"放宽",
+7.95,
+"fàng kuān",
+"to relax (a rule); to ease (restrictions); to extend (a time limit); to let out (a garment); to expand; to broaden"
+],
+[
+"宽阔",
+6.91,
+"kuān kuò",
+"expansive; wide; width; thickness"
+],
+[
+"宽度",
+6.89,
+"kuān dù",
+"width"
+],
+[
+"宽大",
+5.83,
+"kuān dà",
+"spacious; wide; lenient"
+],
+[
+"宽广",
+5.01,
+"kuān guǎng",
+"wide; broad; extensive; vast"
+]
+],
 "strokes": [
 "M 478 811 Q 500 795 526 774 Q 541 764 555 765 Q 565 766 569 780 Q 572 795 560 822 Q 548 847 469 856 Q 453 857 448 855 Q 444 851 446 839 Q 450 829 478 811 Z",
 "M 266 699 Q 256 721 247 728 Q 231 743 227 718 Q 227 679 168 619 Q 147 598 171 543 Q 184 518 204 542 Q 222 566 236 601 Q 251 640 263 663 C 273 683 273 683 266 699 Z",

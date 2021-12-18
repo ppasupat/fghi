@@ -9,57 +9,69 @@
 [
 "总裁",
 5,
-"zǒngcái",
-"director-general; president"
-],
-[
-"裁缝",
-6,
-"cáifeng",
-"tailor; dressmaker"
+"zǒng cái",
+"chairman; director-general (of a company etc)"
 ],
 [
 "裁判",
 6,
-"cáipàn",
-"judge; to referee; judgment"
+"cái pàn",
+"judgment; to referee; umpire; judge; referee; CL:個|个[ge4],位[wei4],名[ming2]"
+],
+[
+"裁缝",
+6,
+"cái féng",
+"tailor; dressmaker"
+],
+[
+"制裁",
+6,
+"zhì cái",
+"to punish; punishment; sanctions (incl. economic)"
 ],
 [
 "裁员",
 6,
-"cáiyuán",
-"cut staff; lay off employees"
+"cái yuán",
+"to cut staff; to lay off employees"
 ],
 [
 "独裁",
 6,
-"dúcái",
+"dú cái",
 "dictatorship"
 ],
 [
 "体裁",
 6,
-"tǐcái",
-"types or forms of literature"
-],
-[
-"制裁",
-6,
-"zhìcái",
-"punish; (economic) sanctions"
+"tǐ cái",
+"genre; style; form of writing"
 ]
 ],
 "extraWords": [
 [
+"副总裁",
+14.39,
+"fù zǒng cái",
+"vice-chairman (of an organization); vice president (of a company); deputy governor (of a bank)"
+],
+[
 "仲裁",
 10.23,
-"zhong4 cai2",
+"zhòng cái",
 "arbitration"
+],
+[
+"裁决",
+9.51,
+"cái jué",
+"ruling; adjudication"
 ],
 [
 "裁定",
 7.38,
-"cai2 ding4",
+"cái dìng",
 "ruling"
 ]
 ],

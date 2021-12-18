@@ -9,35 +9,90 @@
 [
 "积极",
 4,
-"jījí",
-"active; positive; energetic"
+"jī jí",
+"active; energetic; vigorous; positive (outlook); proactive"
 ],
 [
 "积累",
 4,
-"jīlěi",
-"accumulate; accumulation"
+"jī lěi",
+"to accumulate; accumulation; cumulative; cumulatively"
 ],
 [
 "面积",
 5,
-"miànjī",
-"(surface) area"
-],
-[
-"堆积",
-6,
-"duījī",
-"pile up; accumulate"
+"miàn jī",
+"area (of a floor, piece of land etc); surface area; tract of land"
 ],
 [
 "体积",
 6,
-"tǐjī",
-"volume; bulk"
+"tǐ jī",
+"volume; bulk; CL:個|个[ge4]"
+],
+[
+"堆积",
+6,
+"duī jī",
+"to pile up; to heap; accumulation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"积极性",
+29.86,
+"jī jí xìng",
+"zeal; initiative; enthusiasm; activity"
+],
+[
+"积分",
+29.14,
+"jī fēn",
+"integral (calculus); accumulated points (in sports, at school etc); total credits earned by student; bonus points in a benefit scheme"
+],
+[
+"公积金",
+16.88,
+"gōng jī jīn",
+"official reserves; accumulated fund"
+],
+[
+"大面积",
+13.69,
+"dà miàn jī",
+"large area; (fig.) (of a problem) (occurring) on a massive scale"
+],
+[
+"累积",
+8.28,
+"lěi jī",
+"to accumulate"
+],
+[
+"沉积",
+7.76,
+"chén jī",
+"sediment; deposit; sedimentation (geology)"
+],
+[
+"积蓄",
+6.91,
+"jī xù",
+"to save; to put aside; savings"
+],
+[
+"积水",
+6.76,
+"jī shuǐ",
+"to collect water; to be covered with water; to pond; accumulated water; ponding"
+],
+[
+"积压",
+5.17,
+"jī yā",
+"to pile up; to accumulate without being dealt with"
+]
+],
 "strokes": [
 "M 306 664 Q 430 724 453 730 Q 469 731 473 740 Q 476 750 463 761 Q 399 800 367 793 Q 360 789 360 778 Q 361 736 152 620 Q 148 610 154 608 Q 166 608 279 653 L 306 664 Z",
 "M 338 484 Q 383 494 441 503 Q 457 506 458 513 Q 459 526 441 534 Q 408 549 340 527 L 296 516 Q 149 485 76 474 Q 63 473 61 465 Q 58 455 73 443 Q 110 419 171 438 Q 229 459 275 469 L 338 484 Z",

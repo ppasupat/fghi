@@ -9,46 +9,76 @@
 [
 "景色",
 4,
-"jǐngsè",
-"scenery; landscape; scene; view"
+"jǐng sè",
+"scenery; scene; landscape; view"
 ],
 [
 "背景",
 5,
-"bèijǐng",
-"background"
+"bèi jǐng",
+"background; backdrop; context; (fig.) powerful backer; CL:種|种[zhong3]"
 ],
 [
 "风景",
 5,
-"fēngjǐng",
-"scenery; landscape"
+"fēng jǐng",
+"scenery; landscape; CL:個|个[ge4]"
 ],
 [
 "情景",
 5,
-"qíngjǐng",
-"scene; sight; circumstances"
+"qíng jǐng",
+"scene; spectacle; circumstances; situation"
 ],
 [
 "前景",
 6,
-"qiánjǐng",
-"outlook; future (prospects); foreground"
+"qián jǐng",
+"foreground; vista; (future) prospects; perspective"
 ]
 ],
 "extraWords": [
 [
+"景观",
+25.89,
+"jǐng guān",
+"landscape"
+],
+[
+"景区",
+22.78,
+"jǐng qū",
+"scenic area"
+],
+[
+"场景",
+22.44,
+"chǎng jǐng",
+"scene; scenario; setting"
+],
+[
+"景点",
+17.36,
+"jǐng diǎn",
+"scenic spot; place of interest (tourism)"
+],
+[
 "景象",
 12.9,
-"jing3 xiang4",
+"jǐng xiàng",
 "scene; sight (to behold)"
 ],
 [
 "美景",
 7.82,
-"mei3 jing3",
+"měi jǐng",
 "beautiful scenery"
+],
+[
+"景气",
+6.32,
+"jǐng qì",
+"(of economy, business etc) flourishing; prosperous"
 ]
 ],
 "strokes": [

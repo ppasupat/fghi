@@ -7,55 +7,134 @@
 },
 "words": [
 [
-"义务",
-5,
-"yìwù",
-"duty; obligation; volunteer duty"
-],
-[
 "意义",
 5,
-"yìyì",
-"meaning; significance"
+"yì yì",
+"sense; meaning; significance; importance; CL:個|个[ge4]"
 ],
 [
-"贬义",
-6,
-"biǎnyì",
-"negative connotation; derogatory sense"
-],
-[
-"定义",
-6,
-"dìngyì",
-"definition"
-],
-[
-"含义",
-6,
-"hányì",
-"implied meaning; connotation"
-],
-[
-"见义勇为",
-6,
-"jiànyìyǒngwéi",
-"to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
+"义务",
+5,
+"yì wù",
+"duty; obligation; CL:項|项[xiang4]; volunteer (work etc)"
 ],
 [
 "正义",
 6,
-"zhèngyì",
-"justice; righteous"
+"zhèng yì",
+"justice; righteousness; just; righteous"
 ],
 [
 "主义",
 6,
-"zhǔyì",
+"zhǔ yì",
 "-ism; ideology"
+],
+[
+"定义",
+6,
+"dìng yì",
+"definition; to define"
+],
+[
+"含义",
+6,
+"hán yì",
+"meaning (implicit in a phrase); implied meaning; hidden meaning; hint; connotation"
+],
+[
+"贬义",
+6,
+"biǎn yì",
+"derogatory sense; negative connotation"
+],
+[
+"见义勇为",
+6,
+"jiàn yì yǒng wéi",
+"to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"社会主义",
+151.3,
+"shè huì zhǔ yì",
+"socialism"
+],
+[
+"资本主义",
+29.05,
+"zī běn zhǔ yì",
+"capitalism"
+],
+[
+"名义",
+22.13,
+"míng yì",
+"name; titular; nominal; in name; ostensible purpose"
+],
+[
+"马克思主义",
+20.7,
+"Mǎ kè sī zhǔ yì",
+"Marxism"
+],
+[
+"帝国主义",
+20.63,
+"dì guó zhǔ yì",
+"imperialism"
+],
+[
+"共产主义",
+14.05,
+"gòng chǎn zhǔ yì",
+"communism"
+],
+[
+"义务教育",
+12.56,
+"yì wù jiào yù",
+"compulsory education"
+],
+[
+"修正主义",
+11.05,
+"xiū zhèng zhǔ yì",
+"revisionism"
+],
+[
+"爱国主义",
+8.68,
+"ài guó zhǔ yì",
+"patriotism"
+],
+[
+"马克思列宁主义",
+7.27,
+"Mǎ kè sī Liè níng zhǔ yì",
+"Marxism-Leninism"
+],
+[
+"起义",
+6.48,
+"qǐ yì",
+"uprising; insurrection; revolt"
+],
+[
+"恐怖主义",
+6.15,
+"kǒng bù zhǔ yì",
+"terrorism"
+],
+[
+"种族主义",
+5.25,
+"zhǒng zú zhǔ yì",
+"racism"
+]
+],
 "strokes": [
 "M 355 606 Q 389 579 423 547 Q 436 534 453 535 Q 463 535 469 549 Q 473 564 464 593 Q 452 629 350 654 Q 334 658 328 655 Q 324 651 325 638 Q 328 628 355 606 Z",
 "M 532 227 Q 631 341 658 556 Q 662 599 671 625 Q 675 640 666 648 Q 644 670 618 681 Q 593 693 582 689 Q 572 683 575 671 Q 629 491 529 306 Q 514 282 496 260 L 465 228 Q 428 195 384 165 Q 323 119 151 64 Q 139 63 135 57 Q 128 53 139 47 Q 181 40 319 87 Q 436 132 498 189 L 532 227 Z",

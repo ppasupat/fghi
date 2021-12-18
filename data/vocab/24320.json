@@ -10,142 +10,467 @@
 "开",
 1,
 "kāi",
-"to open; to start; to operate (a vehicle)"
+"to open; to start; to turn on; to boil; to write out (a prescription, check, invoice etc); to operate (a vehicle); carat (gold); abbr. for Kelvin, 開爾文|开尔文[Kai1 er3 wen2]; abbr. for 開本|开本[kai1 ben3], book format"
 ],
 [
 "开始",
 2,
-"kāishǐ",
-"begin; to start; beginning"
+"kāi shǐ",
+"to begin; beginning; to start; initial; CL:個|个[ge4]"
 ],
 [
 "离开",
 3,
-"líkāi",
-"leave; depart"
-],
-[
-"开玩笑",
-4,
-"kāi wánxiào",
-"joke; play a joke; make fun of"
+"lí kāi",
+"to depart; to leave"
 ],
 [
 "开心",
 4,
-"kāixīn",
-"feel happy; have a great time; make fun of somebody"
+"kāi xīn",
+"to feel happy; to rejoice; to have a great time; to make fun of sb"
+],
+[
+"开玩笑",
+4,
+"kāi wán xiào",
+"to play a joke; to make fun of; to joke"
 ],
 [
 "公开",
 5,
-"gōngkāi",
-"public; make public"
-],
-[
-"开发",
-5,
-"kāifā",
-"develop; to exploit (a resource)"
-],
-[
-"开放",
-5,
-"kāifàng",
-"(of flowers) to bloom; open up; to be open-minded; lift a ban, restriction, etc.; release; liberalization; China's 1979 open policy"
-],
-[
-"开幕式",
-5,
-"kāimùshì",
-"opening ceremony"
-],
-[
-"开水",
-5,
-"kāishuǐ",
-"boiled water; boil water"
+"gōng kāi",
+"public; to publish; to make public"
 ],
 [
 "展开",
 5,
 "zhǎn kāi",
-"spread out; unfold; carry out; in full swing"
+"to unfold; to carry out; to be in full swing; to launch"
+],
+[
+"开放",
+5,
+"kāi fàng",
+"to bloom; to open; to be open (to the public); to open up (to the outside); to be open-minded; unrestrained by convention; unconstrained in one's sexuality"
+],
+[
+"开发",
+5,
+"kāi fā",
+"to exploit (a resource); to open up (for development); to develop"
 ],
 [
 "召开",
 5,
-"zhàokāi",
-"convene (a conference or meeting); call together"
+"zhào kāi",
+"to convene (a conference or meeting); to convoke; to call together"
 ],
 [
-"敞开",
-6,
-"chǎngkāi",
-"open wide"
+"开幕式",
+5,
+"kāi mù shì",
+"opening ceremony"
 ],
 [
-"开采",
-6,
-"kāicǎi",
-"extract ore or some other natural resource from a mine"
+"开水",
+5,
+"kāi shuǐ",
+"boiled water; boiling water"
 ],
 [
 "开除",
 6,
-"kāichú",
-"expel; to discharge; to kick out"
+"kāi chú",
+"to expel (a member of an organization); to fire (an employee)"
 ],
 [
-"开阔",
+"敞开",
 6,
-"kāikuò",
-"wide; open (spaces)"
-],
-[
-"开朗",
-6,
-"kāilǎng",
-"outgoing and cheerful; optimistic; carefree; spacious and well-lit"
-],
-[
-"开明",
-6,
-"kāimíng",
-"enlightened; open-minded"
-],
-[
-"开辟",
-6,
-"kāipì",
-"open up; to start; to build"
-],
-[
-"开拓",
-6,
-"kāituò",
-"break new ground (for agriculture); development"
-],
-[
-"开展",
-6,
-"kāizhǎn",
-"begin to develop; to launch"
+"chǎng kāi",
+"to open wide; unrestrictedly"
 ],
 [
 "开支",
 6,
-"kāizhī",
-"expenditures; pay; expenses"
+"kāi zhī",
+"expenditures; expenses; CL:筆|笔[bi3], 項|项[xiang4]; to spend money; (coll.) to pay wages"
+],
+[
+"开展",
+6,
+"kāi zhǎn",
+"to launch; to develop; to unfold; (of an exhibition etc) to open"
+],
+[
+"开阔",
+6,
+"kāi kuò",
+"wide; open (spaces); to open up"
+],
+[
+"开朗",
+6,
+"kāi lǎng",
+"spacious and well-lit; open and clear; (of character) optimistic; cheerful; carefree"
+],
+[
+"开采",
+6,
+"kāi cǎi",
+"to extract (ore or other resource from a mine); to exploit; to mine"
 ],
 [
 "盛开",
 6,
-"shèngkāi",
-"to bloom; be in full flower"
+"shèng kāi",
+"blooming; in full flower"
+],
+[
+"开明",
+6,
+"kāi míng",
+"enlightened; open-minded; enlightenment"
+],
+[
+"开拓",
+6,
+"kāi tuò",
+"to break new ground (for agriculture); to open up (a new seam); to develop (border regions); fig. to open up (new horizons)"
+],
+[
+"开辟",
+6,
+"kāi pì",
+"to open up; to set up; to establish"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"打开",
+148.72,
+"dǎ kāi",
+"to open; to show (a ticket); to turn on; to switch on"
+],
+[
+"开枪",
+130.12,
+"kāi qiāng",
+"to open fire; to shoot a gun"
+],
+[
+"放开",
+82.07,
+"fàng kāi",
+"to let go; to release"
+],
+[
+"开车",
+56.28,
+"kāi chē",
+"to drive a car"
+],
+[
+"走开",
+42.87,
+"zǒu kāi",
+"to leave; to walk away; to beat it; to move aside"
+],
+[
+"开门",
+39.47,
+"kāi mén",
+"to open a door (lit. and fig.); to open for business"
+],
+[
+"分开",
+38.25,
+"fēn kāi",
+"to separate; to part"
+],
+[
+"改革开放",
+33.41,
+"gǎi gé kāi fàng",
+"to reform and open to the outside world; refers to Deng Xiaoping's policies from around 1980"
+],
+[
+"开口",
+31.54,
+"kāi kǒu",
+"to open one's mouth; to start to talk"
+],
+[
+"滚开",
+30.61,
+"gǔn kāi",
+"to boil (of liquid); boiling hot; Get out!; Go away!; fuck off (rude)"
+],
+[
+"开通",
+29.08,
+"kāi tōng",
+"to open up (windows for air, ideas for discussion, transportation routes etc)"
+],
+[
+"开通",
+29.08,
+"kāi tong",
+"open-minded"
+],
+[
+"拉开",
+29.0,
+"lā kāi",
+"to pull open; to pull apart; to space out; to increase"
+],
+[
+"开工",
+25.63,
+"kāi gōng",
+"to begin work (of a factory or engineering operation); to start a construction job"
+],
+[
+"开发区",
+25.18,
+"kāi fā qū",
+"development zone"
+],
+[
+"开幕",
+24.29,
+"kāi mù",
+"to open (a conference); to inaugurate"
+],
+[
+"开会",
+21.41,
+"kāi huì",
+"to hold a meeting; to attend a meeting"
+],
+[
+"开火",
+21.19,
+"kāi huǒ",
+"to open fire"
+],
+[
+"开设",
+20.99,
+"kāi shè",
+"to offer (goods or services); to open (for business etc)"
+],
+[
+"解开",
+20.24,
+"jiě kāi",
+"to untie; to undo; to solve (a mystery)"
+],
+[
+"开启",
+18.95,
+"kāi qǐ",
+"to open; to start; (computing) to enable"
+],
+[
+"开盘",
+18.17,
+"kāi pán",
+"to commence trading (stock market)"
+],
+[
+"开业",
+17.19,
+"kāi yè",
+"to open a business; to open a practice; open (for business)"
+],
+[
+"公开赛",
+17.0,
+"gōng kāi sài",
+"(sports) open championship; open (as in \"the US Open\")"
+],
+[
+"开头",
+15.77,
+"kāi tóu",
+"beginning; to start"
+],
+[
+"离不开",
+14.38,
+"lí bu kāi",
+"inseparable; inevitably linked to"
+],
+[
+"开创",
+13.54,
+"kāi chuàng",
+"to initiate; to start; to found"
+],
+[
+"开办",
+13.47,
+"kāi bàn",
+"to open; to start (a business etc); to set up"
+],
+[
+"避开",
+11.8,
+"bì kāi",
+"to avoid; to evade; to keep away from"
+],
+[
+"开关",
+11.51,
+"kāi guān",
+"power switch; gas valve; to open the city (or frontier) gate; to open and close; to switch on and off"
+],
+[
+"开庭",
+11.14,
+"kāi tíng",
+"to begin a (judicial) court session"
+],
+[
+"开场",
+11.09,
+"kāi chǎng",
+"to begin; to open; to start; beginning of an event"
+],
+[
+"开学",
+10.64,
+"kāi xué",
+"foundation of a University or College; school opening; the start of a new term"
+],
+[
+"揭开",
+10.35,
+"jiē kāi",
+"to uncover; to open"
+],
+[
+"推开",
+9.88,
+"tuī kāi",
+"to push open (a gate etc); to push away; to reject; to decline"
+],
+[
+"开拍",
+9.78,
+"kāi pāi",
+"to begin shooting (a movie, a scene of a movie etc); to start the bidding (auction); to start a trading session (stock market)"
+],
+[
+"张开",
+9.45,
+"zhāng kāi",
+"to open up; to spread; to extend"
+],
+[
+"闪开",
+9.27,
+"shǎn kāi",
+"to get out of the way"
+],
+[
+"躲开",
+9.21,
+"duǒ kāi",
+"to stay out of (hot water, trouble, awkward situation etc); to avoid (sb)"
+],
+[
+"睁开",
+9.15,
+"zhēng kāi",
+"to open (one's eyes)"
+],
+[
+"开局",
+8.77,
+"kāi jú",
+"opening (chess etc); early stage of game, match, work, activity etc"
+],
+[
+"开户",
+8.55,
+"kāi hù",
+"to open an account (bank etc)"
+],
+[
+"开花",
+8.27,
+"kāi huā",
+"to bloom; to blossom; to flower; fig. to burst open; to feel happy or elated; new development grows out"
+],
+[
+"让开",
+8.08,
+"ràng kāi",
+"to get out of the way; to step aside"
+],
+[
+"开战",
+7.81,
+"kāi zhàn",
+"to start a war; to make war; to battle against"
+],
+[
+"开张",
+7.68,
+"kāi zhāng",
+"to open a business; first transaction of a business day"
+],
+[
+"开赛",
+7.48,
+"kāi sài",
+"to start a match; the kick-off"
+],
+[
+"开奖",
+6.78,
+"kāi jiǎng",
+"to announce the winners in a lottery"
+],
+[
+"松开",
+6.77,
+"sōng kāi",
+"to release; to let go; to loosen; to untie; to come loose"
+],
+[
+"开动",
+6.53,
+"kāi dòng",
+"to start; to set in motion; to move; to march; to dig in (eating); to tuck in (eating)"
+],
+[
+"开往",
+6.27,
+"kāi wǎng",
+"(of a bus, train etc) to leave for; heading for"
+],
+[
+"抛开",
+5.6,
+"pāo kāi",
+"to throw out; to get rid of"
+],
+[
+"开封",
+5.24,
+"Kāi fēng",
+"Kaifeng prefecture-level city in Henan, old capital of Northern Song, former provincial capital of Henan; old name Bianliang 汴梁[Bian4 liang2]"
+],
+[
+"开店",
+5.1,
+"kāi diàn",
+"to open shop"
+]
+],
 "strokes": [
 "M 612 685 Q 634 691 660 694 Q 717 706 726 713 Q 736 722 731 731 Q 724 744 693 753 Q 663 760 557 728 Q 431 700 324 691 Q 284 687 312 667 Q 355 640 417 652 Q 487 665 561 677 L 612 685 Z",
 "M 653 401 Q 752 411 907 399 Q 932 396 938 405 Q 945 418 933 431 Q 902 459 857 480 Q 842 487 815 478 Q 742 462 667 451 Q 660 451 653 449 L 594 442 Q 453 429 407 421 L 350 414 Q 310 413 282 407 Q 209 395 101 394 Q 86 394 85 382 Q 85 369 104 354 Q 149 321 187 334 Q 229 350 342 365 Q 343 366 347 366 L 403 375 Q 460 387 594 395 L 653 401 Z",

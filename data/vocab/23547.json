@@ -9,17 +9,48 @@
 [
 "寻找",
 5,
-"xúnzhǎo",
-"seek; look for; quest"
+"xún zhǎo",
+"to seek; to look for"
 ],
 [
 "寻觅",
 6,
-"xúnmì",
-"to seek; to look for"
+"xún mì",
+"to look for"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"寻求",
+27.86,
+"xún qiú",
+"to seek; to look for"
+],
+[
+"寻常",
+14.58,
+"xún cháng",
+"usual; common; ordinary"
+],
+[
+"搜寻",
+12.52,
+"sōu xún",
+"to search; to look for"
+],
+[
+"找寻",
+6.77,
+"zhǎo xún",
+"to look for; to seek; to find fault"
+],
+[
+"追寻",
+5.93,
+"zhuī xún",
+"to pursue; to track down; to search"
+]
+],
 "strokes": [
 "M 663 538 Q 699 679 744 717 Q 760 736 746 755 Q 665 815 612 785 Q 515 752 384 738 Q 366 737 368 727 Q 371 718 390 711 Q 415 699 453 711 Q 535 726 616 741 Q 637 745 645 737 Q 658 724 654 695 Q 638 613 617 548 C 608 519 655 509 663 538 Z",
 "M 346 615 Q 327 614 339 596 Q 346 587 356 584 Q 366 583 379 585 Q 449 603 601 621 Q 611 622 612 632 Q 613 639 581 659 Q 565 666 535 659 Q 430 628 346 615 Z",

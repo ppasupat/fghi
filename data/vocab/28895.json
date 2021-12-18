@@ -9,23 +9,66 @@
 [
 "抽烟",
 4,
-"chōuyān",
-"to smoke (a cigarette, pipe, etc.)"
-],
-[
-"炊烟",
-6,
-"chuīyān",
-"smoke from kitchen chimneys"
+"chōu yān",
+"to smoke (a cigarette, tobacco)"
 ],
 [
 "烟花爆竹",
 6,
-"yānhuābàozhú",
-"fireworks and crackers"
+"yān huā bào zhú",
+"fireworks (i.e. pyrotechnic devices, not the display they produce)"
+],
+[
+"炊烟",
+6,
+"chuī yān",
+"smoke from kitchen chimneys"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"烟花",
+15.34,
+"yān huā",
+"fireworks; prostitute (esp. in Yuan theater)"
+],
+[
+"吸烟",
+13.71,
+"xī yān",
+"to smoke"
+],
+[
+"香烟",
+13.15,
+"xiāng yān",
+"cigarette; smoke from burning incense; CL:支[zhi1],條|条[tiao2]"
+],
+[
+"烟草",
+9.85,
+"yān cǎo",
+"tobacco"
+],
+[
+"烟雾",
+7.78,
+"yān wù",
+"smoke; mist; vapor; smog; fumes"
+],
+[
+"烟台",
+6.51,
+"Yān tái",
+"Yantai prefecture level city in Shandong"
+],
+[
+"浓烟",
+5.08,
+"nóng yān",
+"thick smoke"
+]
+],
 "strokes": [
 "M 127 563 Q 117 499 96 437 Q 83 407 107 377 Q 117 364 134 378 Q 150 397 157 429 Q 167 478 162 516 Q 159 547 148 567 Q 141 574 136 574 Q 129 571 127 563 Z",
 "M 277 515 Q 280 516 283 517 Q 362 569 401 589 Q 416 592 413 601 Q 409 614 394 629 Q 379 645 362 647 Q 350 648 350 632 Q 351 617 278 533 C 258 510 256 508 277 515 Z",

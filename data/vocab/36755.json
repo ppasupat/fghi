@@ -10,22 +10,53 @@
 "输",
 4,
 "shū",
-"to transport; to lose (a game, etc.)"
+"to lose; to transport; to donate; to enter (a password)"
 ],
 [
 "输入",
 5,
-"shūrù",
-"input; enter; import"
+"shū rù",
+"to import; to input"
 ],
 [
 "运输",
 5,
-"yùnshū",
-"transport; transportation"
+"yùn shū",
+"to transport; to carry; transportation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"输出",
+26.17,
+"shū chū",
+"to export; to output"
+],
+[
+"传输",
+17.26,
+"chuán shū",
+"to transmit; transmission"
+],
+[
+"输送",
+9.66,
+"shū sòng",
+"to transport; to convey; to deliver"
+],
+[
+"输液",
+6.02,
+"shū yè",
+"intravenous infusion; to get put on an IV"
+],
+[
+"认输",
+5.93,
+"rèn shū",
+"to concede; to admit defeat"
+]
+],
 "strokes": [
 "M 277 596 Q 427 636 432 641 Q 441 648 436 657 Q 429 667 400 674 Q 370 678 342 665 Q 320 658 299 649 L 250 634 Q 204 624 155 616 Q 121 609 146 594 Q 189 575 236 586 L 277 596 Z",
 "M 339 383 Q 367 390 397 393 Q 424 397 415 409 Q 406 421 391 427 Q 375 433 341 418 L 298 405 Q 262 398 220 387 Q 207 384 205 387 Q 204 388 205 399 Q 233 489 277 596 L 299 649 Q 320 691 342 735 Q 354 747 338 765 Q 313 789 294 800 Q 281 807 272 804 Q 265 800 270 780 Q 279 750 250 634 L 236 586 Q 191 433 141 383 Q 128 368 132 354 Q 139 335 150 326 Q 159 319 169 323 Q 223 357 297 372 L 339 383 Z",

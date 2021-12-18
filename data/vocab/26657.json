@@ -9,57 +9,69 @@
 [
 "学校",
 1,
-"xuéxiào",
-"school"
+"xué xiào",
+"school; CL:所[suo3]"
 ],
 [
 "校长",
 3,
-"xiàozhǎng",
-"principal (of school, college or university); president; headmaster"
+"xiào zhǎng",
+"(college, university) president; headmaster; CL:個|个[ge4],位[wei4],名[ming2]"
 ]
 ],
 "extraWords": [
 [
 "高校",
 66.46,
-"gao1 xiao4",
+"gāo xiào",
 "universities and colleges; abbr. for 高等學校|高等学校"
 ],
 [
 "上校",
 41.58,
-"shang4 xiao4",
+"shàng xiào",
 "high ranking officer in Chinese army; colonel"
+],
+[
+"校园",
+32.82,
+"xiào yuán",
+"campus"
 ],
 [
 "院校",
 27.21,
-"yuan4 xiao4",
+"yuàn xiào",
 "college; academy; educational institution"
 ],
 [
 "少校",
 18.15,
-"shao4 xiao4",
+"shào xiào",
 "junior ranking officer in Chinese army; major; lieutenant commander"
+],
+[
+"校车",
+15.67,
+"xiào chē",
+"school bus"
 ],
 [
 "中校",
 10.19,
-"zhong1 xiao4",
+"zhōng xiào",
 "middle ranking officer in Chinese army; lieutenant colonel; commander"
 ],
 [
 "校服",
 5.57,
-"xiao4 fu2",
+"xiào fú",
 "school uniform"
 ],
 [
 "校方",
 5.28,
-"xiao4 fang1",
+"xiào fāng",
 "the school (as a party in a contract, dispute etc); the school authorities"
 ]
 ],

@@ -10,34 +10,95 @@
 "吃惊",
 4,
 "chī jīng",
-"be startled; be shocked; be amazed"
-],
-[
-"惊动",
-6,
-"jīngdòng",
-"alarm; alert; startle; disturb"
-],
-[
-"惊奇",
-6,
-"jīngqí",
-"amaze; astonished"
+"to be startled; to be shocked; to be amazed"
 ],
 [
 "惊讶",
 6,
-"jīngyà",
-"surprised; astonished; astound"
+"jīng yà",
+"amazed; astonished; to surprise; amazing; astonishment; awe"
 ],
 [
 "震惊",
 6,
-"zhènjīng",
-"shock; astonish; amaze"
+"zhèn jīng",
+"to shock; to astonish"
+],
+[
+"惊奇",
+6,
+"jīng qí",
+"to be amazed; to be surprised; to wonder"
+],
+[
+"惊动",
+6,
+"jīng dòng",
+"to alarm; to startle; to disturb"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"惊喜",
+62.87,
+"jīng xǐ",
+"nice surprise; to be pleasantly surprised"
+],
+[
+"惊人",
+23.93,
+"jīng rén",
+"astonishing"
+],
+[
+"大吃一惊",
+8.29,
+"dà chī yī jīng",
+"to have a surprise (idiom); shocked or startled; gobsmacked"
+],
+[
+"惊醒",
+7.19,
+"jīng xǐng",
+"to rouse; to be woken by sth; to wake with a start; to sleep lightly"
+],
+[
+"惊慌",
+7.15,
+"jīng huāng",
+"to panic; to be alarmed"
+],
+[
+"惊吓",
+6.89,
+"jīng xià",
+"to frighten; to horrify; to terrify"
+],
+[
+"大惊小怪",
+6.41,
+"dà jīng xiǎo guài",
+"to make a fuss about nothing (idiom)"
+],
+[
+"惊叹",
+6.4,
+"jīng tàn",
+"to exclaim in admiration; a gasp of surprise"
+],
+[
+"惊呼",
+5.91,
+"jīng hū",
+"to cry out in alarm or surprise"
+],
+[
+"惊险",
+5.13,
+"jīng xiǎn",
+"thrilling; a thriller"
+]
+],
 "strokes": [
 "M 126 545 Q 108 478 79 415 Q 64 382 84 355 Q 93 339 111 353 Q 129 369 139 400 Q 157 452 155 495 Q 156 526 147 547 Q 143 554 136 555 Q 129 554 126 545 Z",
 "M 293 541 Q 353 478 370 477 Q 383 476 389 493 Q 390 505 381 524 Q 371 540 347 548 Q 311 564 295 568 Q 294 569 293 568 C 263 572 272 563 293 541 Z",

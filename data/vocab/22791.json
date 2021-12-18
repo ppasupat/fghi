@@ -9,77 +9,132 @@
 [
 "准备",
 2,
-"zhǔnbèi",
-"prepare; get ready"
-],
-[
-"具备",
-5,
-"jùbèi",
-"possess; be equipped with"
+"zhǔn bèi",
+"preparation; to prepare; to intend; to be about to; reserve (fund)"
 ],
 [
 "设备",
 5,
-"shèbèi",
-"equipment; facilities; installations"
+"shè bèi",
+"equipment; facilities; installations; CL:個|个[ge4]"
 ],
 [
 "责备",
 5,
-"zébèi",
-"to blame; criticize (sb.); accuse"
+"zé bèi",
+"to blame; to criticize; condemnation; reproach"
 ],
 [
-"备份",
-6,
-"bèifèn",
-"to back up; a backup"
-],
-[
-"备忘录",
-6,
-"bèiwànglù",
-"memorandum; aide-memoire; diplomacy memorandum; memorandum book"
-],
-[
-"筹备",
-6,
-"chóubèi",
-"make preparations; get ready for something"
-],
-[
-"储备",
-6,
-"chǔbèi",
-"reserves; store up"
-],
-[
-"戒备",
-6,
-"jièbèi",
-"take precautions; be on the alert"
-],
-[
-"配备",
-6,
-"pèibèi",
-"provide; outfit with"
-],
-[
-"完备",
-6,
-"wánbèi",
-"complete; perfect"
+"具备",
+5,
+"jù bèi",
+"to possess; to have; equipped with; able to fulfill (conditions or requirements)"
 ],
 [
 "装备",
 6,
-"zhuāngbèi",
+"zhuāng bèi",
 "equipment; to equip; to outfit"
+],
+[
+"备忘录",
+6,
+"bèi wàng lù",
+"memorandum; aide-memoire; memorandum book"
+],
+[
+"戒备",
+6,
+"jiè bèi",
+"to take precautions; to guard against (emergency)"
+],
+[
+"备份",
+6,
+"bèi fèn",
+"backup"
+],
+[
+"储备",
+6,
+"chǔ bèi",
+"reserves; to store up"
+],
+[
+"筹备",
+6,
+"chóu bèi",
+"preparations; to get ready for sth"
+],
+[
+"配备",
+6,
+"pèi bèi",
+"to allocate; to provide; to outfit with"
+],
+[
+"完备",
+6,
+"wán bèi",
+"faultless; complete; perfect; to leave nothing to be desired"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"备战",
+16.28,
+"bèi zhàn",
+"prepared against war; to prepare for war; warmongering"
+],
+[
+"后备",
+15.38,
+"hòu bèi",
+"reserve; backup"
+],
+[
+"备受",
+14.11,
+"bèi shòu",
+"to fully experience (good or bad)"
+],
+[
+"必备",
+13.45,
+"bì bèi",
+"essential"
+],
+[
+"预备",
+13.44,
+"yù bèi",
+"to prepare; to make ready; preparation; preparatory"
+],
+[
+"备案",
+11.52,
+"bèi àn",
+"to put on record; to file"
+],
+[
+"备用",
+10.46,
+"bèi yòng",
+"reserve; spare; alternate; backup"
+],
+[
+"制备",
+9.15,
+"zhì bèi",
+"to prepare; preparation (chemistry)"
+],
+[
+"刘备",
+5.9,
+"Liú Bèi",
+"Liu Bei (161-223), warlord at the end of the Han dynasty and founder of the Han kingdom of Shu 蜀漢|蜀汉 (c. 200-263), later the Shu Han dynasty"
+]
+],
 "strokes": [
 "M 421 692 Q 422 693 424 695 Q 449 729 470 744 Q 480 754 477 767 Q 476 780 450 805 Q 428 826 409 827 Q 390 828 396 806 Q 405 781 393 760 Q 357 693 307 633 Q 258 575 194 513 Q 184 504 180 498 Q 176 488 189 489 Q 249 498 395 662 L 421 692 Z",
 "M 285 292 Q 420 365 522 474 L 546 503 Q 589 558 636 627 Q 654 652 680 669 Q 695 676 696 684 Q 696 697 669 715 Q 636 739 622 740 Q 612 740 600 733 Q 533 712 421 692 C 391 687 365 664 395 662 Q 462 653 560 685 Q 579 689 587 683 Q 591 679 571 636 Q 546 584 506 532 L 484 506 Q 345 341 127 268 Q 117 265 118 260 Q 118 256 126 255 Q 168 252 256 278 L 285 292 Z",

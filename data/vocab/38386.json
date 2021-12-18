@@ -7,25 +7,62 @@
 },
 "words": [
 [
-"空闲",
-5,
-"kòngxián",
-"leisure; free time; idle; unused"
-],
-[
 "休闲",
 5,
-"xiūxián",
-"recreation; leisure"
+"xiū xián",
+"leisure; relaxation; not working; idle; to enjoy leisure; to lie fallow"
+],
+[
+"空闲",
+5,
+"kòng xián",
+"idle; free time; leisure; unused (place)"
 ],
 [
 "闲话",
 6,
-"xiánhuà",
-"gossip; digression"
+"xián huà",
+"casual conversation; chat; gossip; to talk about (whatever comes to mind)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"闲置",
+7.94,
+"xián zhì",
+"to leave sth unused; to lie idle"
+],
+[
+"悠闲",
+6.2,
+"yōu xián",
+"variant of 悠閒|悠闲; leisurely"
+],
+[
+"悠闲",
+6.2,
+"yōu xián",
+"leisurely; carefree; relaxed"
+],
+[
+"管闲事",
+5.99,
+"guǎn xián shì",
+"to meddle; to be a \"nosy Parker\"; to be too inquisitive about other people's business"
+],
+[
+"闲逛",
+5.57,
+"xián guàng",
+"to stroll"
+],
+[
+"闲聊",
+5.13,
+"xián liáo",
+"to chat; casual conversation"
+]
+],
 "strokes": [
 "M 316 753 Q 379 672 406 669 Q 422 668 430 688 Q 431 703 422 727 Q 410 746 383 758 Q 341 780 323 784 Q 313 785 310 773 Q 309 763 316 753 Z",
 "M 190 655 Q 245 514 194 218 Q 167 110 167 107 Q 167 68 191 42 Q 203 26 215 41 Q 252 86 253 237 Q 259 546 273 618 Q 276 639 258 649 Q 233 671 204 680 Q 194 683 186 674 Q 182 667 190 655 Z",

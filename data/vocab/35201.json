@@ -9,189 +9,237 @@
 [
 "要",
 2,
+"yāo",
+"to demand; to request; to coerce"
+],
+[
+"要",
+2,
 "yào",
-"to want; to need; will/shall; important"
+"important; vital; to want; to ask for; will; going to (as future auxiliary); may; must; (used in a comparison) must be; probably; if"
 ],
 [
 "需要",
 3,
-"xūyào",
-"to need; to want; to demand"
-],
-[
-"要求",
-3,
-"yāoqiú",
-"to request; to demand; requirement"
+"xū yào",
+"to need; to want; to demand; to require; requirement; need"
 ],
 [
 "重要",
 3,
-"zhòngyào",
+"zhòng yào",
 "important; significant; major"
+],
+[
+"要求",
+3,
+"yāo qiú",
+"to request; to require; requirement; to stake a claim; to ask; to demand; CL:點|点[dian3]"
 ],
 [
 "主要",
 3,
-"zhǔyào",
-"main; principal; major"
-],
-[
-"要是",
-4,
-"yàoshi",
-"if; suppose; in case"
+"zhǔ yào",
+"main; principal; major; primary"
 ],
 [
 "只要",
 4,
-"zhǐyào",
-"so long as; if only; provided that"
+"zhǐ yào",
+"if only; so long as"
+],
+[
+"要是",
+4,
+"yào shi",
+"(coll.) if"
 ],
 [
 "必要",
 5,
-"bìyào",
-"necessary; essential; indispensable"
+"bì yào",
+"necessary; essential; indispensable; required"
 ],
 [
 "不要紧",
 5,
-"bú yàojǐn",
-"unimportant; not serious; it doesn't matter"
-],
-[
-"次要",
-5,
-"cìyào",
-"secondary; less important"
+"bù yào jǐn",
+"unimportant; not serious; it doesn't matter; never mind; it looks all right, but"
 ],
 [
 "要不",
 5,
-"yàobù",
-"otherwise; or else; how about"
+"yào bù",
+"otherwise; or else; how about...?; either... (or...)"
 ],
 [
-"纪要",
-6,
-"jìyào",
-"written summary of a meeting; minutes"
-],
-[
-"简要",
-6,
-"jiǎnyào",
-"concise; brief"
+"次要",
+5,
+"cì yào",
+"secondary"
 ],
 [
 "首要",
 6,
-"shǒuyào",
-"the most important; chief; principal"
-],
-[
-"要点",
-6,
-"yàodiǎn",
-"main point; essential"
+"shǒu yào",
+"the most important; of chief importance"
 ],
 [
 "要命",
 6,
-"yàomìng",
-"cause somebody's death; very; extremely; frighteningly; annoyance"
+"yào mìng",
+"to cause sb's death; very; extremely; frightening; annoying"
+],
+[
+"要点",
+6,
+"yào diǎn",
+"main point; essential"
 ],
 [
 "要素",
 6,
-"yàosù",
+"yào sù",
 "essential factor; key constituent"
+],
+[
+"简要",
+6,
+"jiǎn yào",
+"concise; brief"
 ],
 [
 "摘要",
 6,
-"zhāiyào",
+"zhāi yào",
 "summary; abstract"
+],
+[
+"纪要",
+6,
+"jì yào",
+"minutes; written summary of a meeting"
 ]
 ],
 "extraWords": [
 [
 "不要",
 616.43,
-"bu4 yao4",
+"bù yào",
 "don't!; must not"
 ],
 [
 "就要",
 118.48,
-"jiu4 yao4",
+"jiù yào",
 "will; shall; to be going to"
 ],
 [
 "想要",
 105.79,
-"xiang3 yao4",
+"xiǎng yào",
 "to want to; to feel like; to fancy; to care for sb; desirous of"
+],
+[
+"要么",
+78.34,
+"yào me",
+"or; either one or the other"
 ],
 [
 "提要",
 32.43,
-"ti2 yao4",
+"tí yào",
 "summary; abstract"
 ],
 [
 "快要",
 23.19,
-"kuai4 yao4",
+"kuài yào",
 "almost; nearly; almost all"
 ],
 [
 "重要性",
 20.48,
-"zhong4 yao4 xing4",
+"zhòng yào xìng",
 "importance"
+],
+[
+"将要",
+13.12,
+"jiāng yào",
+"will; shall; to be going to"
 ],
 [
 "要不然",
 13.06,
-"yao4 bu4 ran2",
+"yào bù rán",
 "otherwise; or else; or"
+],
+[
+"无关紧要",
+12.97,
+"wú guān jǐn yào",
+"indifferent; insignificant"
+],
+[
+"纲要",
+11.34,
+"gāng yào",
+"outline; essential points"
+],
+[
+"至关重要",
+10.22,
+"zhì guān zhòng yào",
+"extremely important; vital; crucial; essential"
 ],
 [
 "要不是",
 9.74,
-"yao4 bu5 shi4",
+"yào bu shì",
 "if it were not for; but for"
 ],
 [
 "要好",
 9.03,
-"yao4 hao3",
+"yào hǎo",
 "to be on good terms; to be close friends; striving for self-improvement"
 ],
 [
 "不必要",
 7.95,
-"bu4 bi4 yao4",
+"bù bì yào",
 "needless; unnecessary"
+],
+[
+"要紧",
+7.9,
+"yào jǐn",
+"important; urgent"
+],
+[
+"不要脸",
+7.56,
+"bù yào liǎn",
+"to have no sense of shame; shameless"
 ],
 [
 "正要",
 7.16,
-"zheng4 yao4",
+"zhèng yào",
 "to be just about to; to be on the point of"
 ],
 [
 "索要",
 6.08,
-"suo3 yao4",
+"suǒ yào",
 "to ask for; to request; to demand"
 ],
 [
 "必要性",
 5.06,
-"bi4 yao4 xing4",
+"bì yào xìng",
 "necessity"
 ]
 ],

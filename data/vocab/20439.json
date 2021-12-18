@@ -9,52 +9,58 @@
 [
 "风俗",
 5,
-"fēngsú",
-"social custom"
-],
-[
-"俗话",
-6,
-"súhuà",
-"common saying; proverb"
-],
-[
-"通俗",
-6,
-"tōngsú",
-"popular; common; everyday; average; vulgar"
+"fēng sú",
+"social custom; CL:個|个[ge4]"
 ],
 [
 "习俗",
 6,
-"xísú",
-"custom; tradition; (local) convention"
+"xí sú",
+"custom; tradition; local tradition; convention"
 ],
 [
 "庸俗",
 6,
-"yōngsú",
-"filthy; vulgar; debased"
+"yōng sú",
+"vulgar; tacky; tawdry"
+],
+[
+"通俗",
+6,
+"tōng sú",
+"common; everyday; average"
+],
+[
+"俗话",
+6,
+"sú huà",
+"common saying; proverb"
 ]
 ],
 "extraWords": [
 [
 "民俗",
 8.79,
-"min2 su2",
+"mín sú",
 "popular custom"
 ],
 [
 "不俗",
 7.02,
-"bu4 su2",
+"bù sú",
 "impressive; out of the ordinary"
 ],
 [
 "世俗",
 5.83,
-"shi4 su2",
+"shì sú",
 "profane; secular; worldly"
+],
+[
+"俗称",
+5.52,
+"sú chēng",
+"commonly referred to as; common term"
 ]
 ],
 "strokes": [

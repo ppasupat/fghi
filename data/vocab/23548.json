@@ -9,83 +9,150 @@
 [
 "导游",
 4,
-"dǎoyóu",
-"tour guide"
-],
-[
-"导演",
-5,
-"dǎoyǎn",
-"to direct; director"
+"dǎo yóu",
+"tour guide; guidebook; to conduct a tour"
 ],
 [
 "导致",
 5,
-"dǎozhì",
-"lead to; bring about; to cause"
-],
-[
-"辅导",
-5,
-"fǔdǎo",
-"to coach; to tutor; give advice (in study)"
+"dǎo zhì",
+"to lead to; to create; to cause; to bring about"
 ],
 [
 "领导",
 5,
-"lǐngdǎo",
-"to lead; leader; leadership"
+"lǐng dǎo",
+"lead; leading; to lead; leadership; leader; CL:位[wei4],個|个[ge4]"
 ],
 [
 "指导",
 5,
-"zhǐdǎo",
-"to guide; give directions"
+"zhǐ dǎo",
+"to guide; to give directions; to direct; to coach; guidance; tuition; CL:個|个[ge4]"
 ],
 [
-"倡导",
-6,
-"chàngdǎo",
-"to advocate; propose"
+"辅导",
+5,
+"fǔ dǎo",
+"to give guidance; to mentor; to counsel; to coach; to tutor"
+],
+[
+"导演",
+5,
+"dǎo yǎn",
+"to direct; director (film etc)"
 ],
 [
 "导弹",
 6,
-"dǎodàn",
-"guided missile; cruise missile"
-],
-[
-"导航",
-6,
-"dǎoháng",
-"navigation"
-],
-[
-"导向",
-6,
-"dǎoxiàng",
-"guidance; lead to; direct something towards"
-],
-[
-"向导",
-6,
-"xiàngdǎo",
-"guide"
+"dǎo dàn",
+"guided missile; cruise missile; missile; CL:枚[mei2]"
 ],
 [
 "引导",
 6,
-"yǐndǎo",
-"to guide; to conduct; introduction"
+"yǐn dǎo",
+"to guide; to lead (around); to conduct; to boot; introduction; primer"
+],
+[
+"导航",
+6,
+"dǎo háng",
+"navigation"
+],
+[
+"向导",
+6,
+"xiàng dǎo",
+"guide"
 ],
 [
 "主导",
 6,
-"zhǔdǎo",
-"leading; dominant; guiding"
+"zhǔ dǎo",
+"leading; dominant; prevailing; to lead; to direct; to dominate"
+],
+[
+"倡导",
+6,
+"chàng dǎo",
+"to advocate; to initiate; to propose; to be a proponent of (an idea or school of thought)"
+],
+[
+"导向",
+6,
+"dǎo xiàng",
+"to be oriented towards; orientation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"领导人",
+45.05,
+"lǐng dǎo rén",
+"leader"
+],
+[
+"教导",
+15.43,
+"jiào dǎo",
+"to instruct; to teach; guidance; teaching"
+],
+[
+"诱导",
+12.49,
+"yòu dǎo",
+"to induce; to encourage; to provide guidance; (medicine, chemistry) induction"
+],
+[
+"导师",
+11.68,
+"dǎo shī",
+"tutor; teacher; academic advisor"
+],
+[
+"报导",
+10.05,
+"bào dǎo",
+"to report (in the media); (news) report"
+],
+[
+"领导者",
+7.85,
+"lǐng dǎo zhě",
+"leader"
+],
+[
+"导管",
+7.23,
+"dǎo guǎn",
+"duct; conduit; vessel; catheter"
+],
+[
+"误导",
+7.19,
+"wù dǎo",
+"to mislead; to misguide; misleading"
+],
+[
+"传导",
+6.55,
+"chuán dǎo",
+"to conduct (heat, electricity etc)"
+],
+[
+"半导体",
+6.11,
+"bàn dǎo tǐ",
+"semiconductor"
+],
+[
+"执导",
+5.26,
+"zhí dǎo",
+"to direct (a film, play etc)"
+]
+],
 "strokes": [
 "M 654 652 Q 679 709 709 727 Q 725 745 711 763 Q 695 776 643 802 Q 625 811 604 802 Q 528 772 393 744 C 364 738 377 704 406 711 Q 419 715 587 751 Q 608 757 616 748 Q 623 741 621 728 Q 612 691 602 660 C 593 631 641 625 654 652 Z",
 "M 381 588 Q 394 582 437 587 Q 531 608 657 624 Q 666 623 673 634 Q 674 644 655 652 L 654 652 L 602 660 Q 521 644 384 618 C 355 612 352 596 381 588 Z",

@@ -9,64 +9,94 @@
 [
 "啤酒",
 3,
-"píjiǔ",
-"beer"
+"pí jiǔ",
+"beer (loanword); CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]"
 ],
 [
 "酒吧",
 5,
-"jiǔbā",
-"bar"
+"jiǔ bā",
+"bar; pub; saloon; CL:家[jia1]"
 ],
 [
 "酒精",
 6,
-"jiǔjīng",
-"alcohol; ethanol"
+"jiǔ jīng",
+"alcohol; ethanol CH3CH2OH; ethyl alcohol; also written 乙醇; grain alcohol"
 ],
 [
 "酗酒",
 6,
-"xùjiǔ",
-"heavy drinking; drink to excess; binge drink"
+"xù jiǔ",
+"heavy drinking; to get drunk; to drink to excess"
 ]
 ],
 "extraWords": [
 [
 "喝酒",
 67.04,
-"he1 jiu3",
+"hē jiǔ",
 "to drink (alcohol)"
 ],
 [
 "酒店",
 66.28,
-"jiu3 dian4",
+"jiǔ diàn",
 "wine shop; pub (public house); hotel; restaurant; (Tw) hostess club"
+],
+[
+"鸡尾酒",
+13.12,
+"jī wěi jiǔ",
+"cocktail (loanword)"
 ],
 [
 "葡萄酒",
 11.07,
-"pu2 tao5 jiu3",
+"pú tao jiǔ",
 "(grape) wine"
 ],
 [
 "酒鬼",
 10.85,
-"jiu3 gui3",
+"jiǔ guǐ",
 "drunkard"
 ],
 [
 "白酒",
 9.69,
-"bai2 jiu3",
-"baijiu, a spirit usually distilled from sorghum"
+"bái jiǔ",
+"baijiu, a spirit usually distilled from sorghum; (Tw) white wine (abbr. for 白葡萄酒[bai2 pu2 tao5 jiu3])"
+],
+[
+"酒后",
+8.29,
+"jiǔ hòu",
+"after drinking; under the influence of alcohol"
+],
+[
+"饮酒",
+7.66,
+"yǐn jiǔ",
+"to drink wine"
 ],
 [
 "戒酒",
 6.86,
-"jie4 jiu3",
+"jiè jiǔ",
 "to give up drinking; to abstain from drinking"
+],
+[
+"酒馆",
+6.68,
+"jiǔ guǎn",
+"tavern; pub; wine shop"
+],
+[
+"酒楼",
+6.44,
+"jiǔ lóu",
+"restaurant"
 ]
 ],
 "strokes": [

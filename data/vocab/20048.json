@@ -9,83 +9,162 @@
 [
 "快乐",
 2,
-"kuàilè",
-"happy"
+"kuài lè",
+"happy; merry"
 ],
 [
 "音乐",
 3,
-"yīnyuè",
-"music"
+"yīn yuè",
+"music; CL:張|张[zhang1],曲[qu3],段[duan4]"
 ],
 [
 "俱乐部",
 5,
-"jùlèbù",
-"club (group or organization)"
-],
-[
-"乐观",
-5,
-"lèguān",
-"optimism; hopeful"
+"jù lè bù",
+"club (the organisation or its premises) (loanword); CL:個|个[ge4]"
 ],
 [
 "娱乐",
 5,
-"yúlè",
-"entertain; amuse; entertainment"
+"yú lè",
+"to entertain; to amuse; entertainment; recreation; amusement; hobby; fun; joy"
+],
+[
+"乐观",
+5,
+"lè guān",
+"optimistic; hopeful"
 ],
 [
 "乐器",
 5,
-"yuèqì",
-"musical instrument"
-],
-[
-"欢乐",
-6,
-"huānlè",
-"gaiety; glee; delighted"
-],
-[
-"乐趣",
-6,
-"lèqù",
-"delight; pleasure; joy; fun"
+"yuè qì",
+"musical instrument; CL:件[jian4]"
 ],
 [
 "乐意",
 6,
-"lèyì",
-"be happy/willing do something; content; satisfied"
+"lè yì",
+"to be willing to do sth; to be ready to do sth; to be happy to do sth; content; satisfied"
 ],
 [
-"天伦之乐",
+"乐趣",
 6,
-"tiānlúnzhīlè",
-"family happiness"
+"lè qù",
+"delight; pleasure; joy"
 ],
 [
-"喜闻乐见",
+"欢乐",
 6,
-"xǐwénlèjiàn",
-"a delight to see (idiom); an attractive spectacle"
+"huān lè",
+"gaiety; gladness; glee; merriment; pleasure; happy; joyous; gay"
 ],
 [
 "乐谱",
 6,
-"yuèpǔ",
-"sheet music"
+"yuè pǔ",
+"a musical score; sheet music"
+],
+[
+"天伦之乐",
+6,
+"tiān lún zhī lè",
+"family love and joy; domestic bliss"
 ],
 [
 "知足常乐",
 6,
-"zhīzúchánglè",
-"content with what one has"
+"zhī zú cháng lè",
+"satisfied with what one has (idiom)"
+],
+[
+"喜闻乐见",
+6,
+"xǐ wén lè jiàn",
+"to love to hear and see (idiom); well received; to one's liking"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"乐队",
+63.37,
+"yuè duì",
+"band; pop group; CL:支[zhi1]"
+],
+[
+"生日快乐",
+48.94,
+"shēng rì kuài lè",
+"Happy birthday"
+],
+[
+"新年快乐",
+34.08,
+"xīn nián kuài lè",
+"Happy New Year!"
+],
+[
+"乐园",
+13.88,
+"lè yuán",
+"paradise"
+],
+[
+"音乐会",
+12.73,
+"yīn yuè huì",
+"concert; CL:場|场[chang3]"
+],
+[
+"可乐",
+11.86,
+"kě lè",
+"amusing; entertaining; (loanword) cola"
+],
+[
+"永乐",
+7.92,
+"Yǒng lè",
+"Yongle Emperor, reign name of third Ming emperor Zhu Di 朱棣[Zhu1 Di4] (1360-1424), reigned 1403-1424, temple name 明成祖[Ming2 Cheng2 zu3]"
+],
+[
+"摇滚乐",
+7.09,
+"yáo gǔn yuè",
+"rock music; rock 'n roll"
+],
+[
+"音乐家",
+6.35,
+"yīn yuè jiā",
+"musician"
+],
+[
+"可口可乐",
+6.26,
+"Kě kǒu kě lè",
+"Coca-Cola"
+],
+[
+"乐团",
+6.11,
+"yuè tuán",
+"band; orchestra"
+],
+[
+"娱乐场所",
+5.78,
+"yú lè chǎng suǒ",
+"place of entertainment"
+],
+[
+"家乐福",
+5.23,
+"Jiā lè fú",
+"Carrefour, French supermarket chain"
+]
+],
 "strokes": [
 "M 340 603 Q 497 651 596 702 Q 644 721 685 731 Q 704 732 707 740 Q 711 752 698 763 Q 676 779 628 798 Q 612 805 598 804 Q 591 800 589 788 Q 589 742 331 622 C 304 609 311 594 340 603 Z",
 "M 331 622 Q 309 647 277 659 Q 261 665 252 655 Q 246 649 257 630 Q 276 599 273 555 Q 270 447 232 395 Q 219 379 225 367 Q 232 345 252 328 Q 265 316 283 331 Q 346 374 511 392 L 566 398 Q 669 408 799 396 Q 823 392 833 399 Q 840 405 835 418 Q 829 431 788 456 Q 764 471 690 458 Q 656 457 565 445 L 510 438 Q 422 428 334 408 Q 315 402 312 408 Q 303 415 308 435 Q 324 558 338 592 Q 339 598 340 603 C 342 612 342 612 331 622 Z",

@@ -9,17 +9,48 @@
 [
 "使劲儿",
 5,
-"shǐjìnr",
-"exert all one's strength"
+"shǐ jìn r5",
+"erhua variant of 使勁|使劲[shi3 jin4]"
 ],
 [
 "干劲",
 6,
-"gànjìn",
-"enthusiasm; energy; drive"
+"gàn jìn",
+"enthusiasm for doing sth"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"强劲",
+27.73,
+"qiáng jìng",
+"strong; powerful; robust"
+],
+[
+"对劲",
+26.11,
+"duì jìn",
+"suitable; to one's liking; to get along together"
+],
+[
+"差劲",
+15.23,
+"chà jìn",
+"bad; no good; below average; disappointing"
+],
+[
+"使劲",
+8.85,
+"shǐ jìn",
+"to exert all one's strength"
+],
+[
+"劲儿",
+6.71,
+"jìn r5",
+"erhua variant of 勁|劲[jin4]"
+]
+],
 "strokes": [
 "M 373 548 Q 479 675 494 687 Q 510 699 504 708 Q 503 718 439 742 Q 421 751 377 726 Q 319 702 215 683 Q 194 680 209 665 Q 234 647 276 658 Q 324 670 360 680 Q 376 684 383 677 Q 386 671 375 653 Q 309 524 122 378 Q 107 366 122 365 Q 203 377 359 532 L 373 548 Z",
 "M 359 532 Q 360 528 366 525 Q 411 497 465 456 Q 480 443 493 441 Q 500 441 504 450 Q 511 463 496 495 Q 481 531 373 548 C 345 553 345 553 359 532 Z",

@@ -10,24 +10,30 @@
 "省",
 4,
 "shěng",
-"to save; economize; omit; province"
+"to save; to economize; to do without; to omit; to leave out; province; (archaic) central government department"
+],
+[
+"省",
+4,
+"xǐng",
+"to inspect; to examine; to be aware; to pay a visit (to one's parents or elders)"
 ],
 [
 "节省",
 5,
-"jiéshěng",
-"save; use sparingly; frugal"
+"jié shěng",
+"saving; to save; to use sparingly; to cut down on"
 ],
 [
 "省略",
 5,
-"shěnglüè",
-"to omit; to leave out; abbreviate"
+"shěng lu:è",
+"to leave out; an omission"
 ],
 [
 "省会",
 6,
-"shěnghuì",
+"shěng huì",
 "provincial capital"
 ]
 ],
@@ -35,104 +41,176 @@
 [
 "全省",
 84.14,
-"quan2 sheng3",
+"quán shěng",
 "the whole province"
 ],
 [
 "省委",
 33.63,
-"sheng3 wei3",
+"shěng wěi",
 "provincial Party committee"
+],
+[
+"广东省",
+26.69,
+"Guǎng dōng Shěng",
+"Guangdong Province (Kwangtung) in south China, short name 粵|粤[Yue4], capital Guangzhou 廣州|广州[Guang3 zhou1]"
 ],
 [
 "浙江省",
 20.41,
-"Zhe4 jiang1 Sheng3",
+"Zhè jiāng Shěng",
 "Zhejiang Province (Chekiang) in east China, abbr. 浙[Zhe4], capital Hangzhou 杭州[Hang2 zhou1]"
+],
+[
+"省级",
+20.36,
+"shěng jí",
+"(administrative) province-level"
+],
+[
+"江苏省",
+16.48,
+"Jiāng sū Shěng",
+"Jiangsu Province (Kiangsu) in southeast China, abbr. 蘇|苏[Su1], capital Nanjing 南京[Nan2 jing1]"
+],
+[
+"山东省",
+14.94,
+"Shān dōng Shěng",
+"Shandong, province in northeast China, short name 魯|鲁[Lu3], capital Jinan 濟南|济南[Ji3 nan2]"
 ],
 [
 "福建省",
 13.8,
-"Fu2 jian4 sheng3",
+"Fú jiàn shěng",
 "Fujian province (Fukien) in east China, abbr. 閩|闽, capital Fuzhou 福州; Fujian province (Fukien) in Taiwan"
 ],
 [
 "河南省",
 13.47,
-"He2 nan2 sheng3",
+"Hé nán shěng",
 "Henan province (Honan) in central China, abbr. 豫[Yu4], capital Zhengzhou 鄭州|郑州[Zheng4 zhou1]"
 ],
 [
 "四川省",
 11.62,
-"Si4 chuan1 Sheng3",
+"Sì chuān Shěng",
 "Sichuan province (Szechuan) in southwest China, abbr. 川[Chuan1] or 蜀[Shu3], capital Chengdu 成都[Cheng2 du1]"
 ],
 [
 "河北省",
 10.65,
-"He2 bei3 Sheng3",
+"Hé běi Shěng",
 "Hebei Province (Hopeh) in north China surrounding Beijing, short name 冀[Ji4], capital Shijiazhuang 石家莊|石家庄[Shi2 jia1 zhuang1]"
 ],
 [
 "湖南省",
 10.3,
-"Hu2 nan2 Sheng3",
+"Hú nán Shěng",
 "Hunan Province in south central China, abbr. 湘[Xiang1], capital Changsha 長沙|长沙[Chang2 sha1]"
 ],
 [
 "省份",
 9.9,
-"sheng3 fen4",
+"shěng fèn",
 "province"
 ],
 [
 "安徽省",
 9.56,
-"An1 hui1 Sheng3",
+"Ān huī Shěng",
 "Anhui Province (Anhwei) in south central China, abbr. 皖[Wan3], capital Hefei 合肥[He2 fei2]"
 ],
 [
 "湖北省",
 9.34,
-"Hu2 bei3 Sheng3",
+"Hú běi Shěng",
 "Hubei Province (Hupeh) in central China, abbr. 鄂[E4], capital Wuhan 武漢|武汉[Wu3 han4]"
+],
+[
+"云南省",
+9.08,
+"Yún nán Shěng",
+"Yunnan Province in southwest China, bordering on Vietnam, Laos and Myanmar, abbr. 滇[Dian1] or 雲|云[Yun2], capital Kunming 昆明[Kun1 ming2]"
+],
+[
+"黑龙江省",
+9.07,
+"Hēi lóng jiāng Shěng",
+"Heilongjiang Province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈爾濱|哈尔滨[Ha1 er3 bin1]"
 ],
 [
 "山西省",
 8.84,
-"Shan1 xi1 Sheng3",
+"Shān xī Shěng",
 "Shanxi Province (Shansi) in north China between Hebei and Shaanxi, abbr. 晉|晋[Jin4] capital Taiyuan 太原[Tai4 yuan2]"
+],
+[
+"贵州省",
+8.81,
+"Guì zhōu shěng",
+"Guizhou province (Kweichow) in south central China, abbr. to 黔[Qian2] or 貴|贵[Gui4], capital Guiyang 貴陽|贵阳[Gui4 yang2]"
+],
+[
+"省长",
+8.67,
+"shěng zhǎng",
+"governor of a province"
+],
+[
+"辽宁省",
+8.44,
+"Liáo níng Shěng",
+"Liaoning province in northeast China, short name 遼|辽[Liao2], capital Shenyang 瀋陽|沈阳[Shen3 yang2]"
 ],
 [
 "江西省",
 8.15,
-"Jiang1 xi1 Sheng3",
+"Jiāng xī Shěng",
 "Jiangxi Province (Kiangsi) in southeast China, abbr. 贛|赣[Gan4], capital Nanchang 南昌[Nan2 chang1]"
 ],
 [
 "反省",
 7.57,
-"fan3 xing3",
+"fǎn xǐng",
 "to reflect upon oneself; to examine one's conscience; to question oneself; to search one's soul"
+],
+[
+"陕西省",
+7.3,
+"Shǎn xī Shěng",
+"Shaanxi Province (Shensi) in northwest China, abbr. 陝|陕[Shan3] or 秦[Qin2], capital Xi'an 西安[Xi1 an1]"
 ],
 [
 "吉林省",
 7.24,
-"Ji2 lin2 Sheng3",
+"Jí lín Shěng",
 "Jilin Province (Kirin) in northeast China, abbr. 吉, capital Changchun 長春|长春[Chang2 chun1]"
 ],
 [
 "省城",
 6.29,
-"sheng3 cheng2",
+"shěng chéng",
 "provincial capital"
+],
+[
+"省钱",
+6.16,
+"shěng qián",
+"to save money"
+],
+[
+"甘肃省",
+5.69,
+"Gān sù Shěng",
+"Gansu Province, abbr. 甘[Gan1], short name 隴|陇[Long3], capital Lanzhou 蘭州|兰州[Lan2 zhou1]"
 ],
 [
 "海南省",
 5.11,
-"Hai3 nan2 Sheng3",
-"Hainan Province, in South China Sea, abbr. 瓊|琼[Qiong2], capital Haikou 海口"
+"Hǎi nán Shěng",
+"Hainan Province, in South China Sea, abbr. 瓊|琼[Qiong2], capital Haikou 海口[Hai3 kou3]"
 ]
 ],
 "strokes": [

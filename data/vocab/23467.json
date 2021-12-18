@@ -9,11 +9,54 @@
 [
 "宫殿",
 6,
-"gōngdiàn",
-"palace"
+"gōng diàn",
+"palace; CL:座[zuo4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"白宫",
+17.8,
+"Bái gōng",
+"White House"
+],
+[
+"子宫",
+16.27,
+"zǐ gōng",
+"uterus; womb"
+],
+[
+"南宫",
+6.39,
+"Nán gōng",
+"Nangong county level city in Xingtai 邢台[Xing2 tai2], Hebei"
+],
+[
+"故宫",
+5.94,
+"Gù gōng",
+"the Forbidden City; abbr. for 故宮博物院|故宫博物院[Gu4 gong1 Bo2 wu4 yuan4]"
+],
+[
+"故宫",
+5.94,
+"gù gōng",
+"former imperial palace"
+],
+[
+"迷宫",
+5.22,
+"mí gōng",
+"maze; labyrinth"
+],
+[
+"宫廷",
+5.02,
+"gōng tíng",
+"court (of king or emperor)"
+]
+],
 "strokes": [
 "M 459 791 Q 492 766 527 735 Q 543 722 562 723 Q 575 724 580 740 Q 584 759 572 793 Q 565 815 527 830 Q 440 854 424 848 Q 418 842 421 827 Q 425 814 459 791 Z",
 "M 275 645 Q 265 667 253 676 Q 234 691 231 664 Q 235 633 193 575 Q 139 518 171 459 Q 186 431 207 459 Q 228 487 243 530 Q 261 582 274 612 C 282 631 282 631 275 645 Z",

@@ -7,31 +7,74 @@
 },
 "words": [
 [
-"类型",
-5,
-"lèixíng",
-"type"
-],
-[
 "人类",
 5,
-"rénlèi",
+"rén lèi",
 "humanity; human race; mankind"
+],
+[
+"类型",
+5,
+"lèi xíng",
+"type; category; genre; form; style"
 ],
 [
 "种类",
 5,
-"zhǒnglèi",
-"kind; category; class"
+"zhǒng lèi",
+"kind; genus; type; category; variety; species; sort; class"
 ],
 [
 "类似",
 6,
-"lèisì",
+"lèi sì",
 "similar; analogous"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"之类",
+61.17,
+"zhī lèi",
+"and so on; and such"
+],
+[
+"各类",
+55.19,
+"gè lèi",
+"all categories"
+],
+[
+"分类",
+29.03,
+"fēn lèi",
+"classification"
+],
+[
+"同类",
+14.73,
+"tóng lèi",
+"similar; same type; alike"
+],
+[
+"类别",
+8.33,
+"lèi bié",
+"classification; category"
+],
+[
+"另类",
+7.04,
+"lìng lèi",
+"offbeat; alternative; avant-garde; unconventional; weird"
+],
+[
+"肉类",
+5.84,
+"ròu lèi",
+"meat"
+]
+],
 "strokes": [
 "M 331 700 Q 359 678 388 653 Q 401 641 415 643 Q 425 644 429 656 Q 433 669 423 697 Q 411 727 324 743 Q 309 746 304 743 Q 300 739 301 727 Q 305 717 331 700 Z",
 "M 650 761 Q 626 733 581 689 Q 574 682 579 675 Q 586 672 594 676 Q 679 716 719 731 Q 737 734 734 745 Q 730 761 714 782 Q 698 801 676 807 Q 661 808 660 790 Q 661 777 650 761 Z",

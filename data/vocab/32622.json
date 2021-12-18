@@ -9,57 +9,93 @@
 [
 "位置",
 5,
-"wèizhi",
-"position; place; seat"
-],
-[
-"安置",
-6,
-"ānzhì",
-"find a place for; help settle down; arrange for"
+"wèi zhi",
+"position; place; seat; CL:個|个[ge4]"
 ],
 [
 "布置",
 6,
-"bùzhì",
-"arrange; decorate; decoration"
-],
-[
-"处置",
-6,
-"chǔzhì",
-"to handle; take care of; punish"
+"bù zhì",
+"to put in order; to arrange; to decorate; to fix up; to deploy"
 ],
 [
 "设置",
 6,
-"shèzhì",
-"set up; install; to fit"
+"shè zhì",
+"to set up; to install"
+],
+[
+"处置",
+6,
+"chǔ zhì",
+"to handle; to take care of; to punish"
+],
+[
+"安置",
+6,
+"ān zhì",
+"to find a place for; to help settle down; to arrange for; to get into bed; placement"
 ]
 ],
 "extraWords": [
 [
 "配置",
 57.89,
-"pei4 zhi4",
+"pèi zhì",
 "to deploy; to allocate; configuration; allocation"
+],
+[
+"难以置信",
+51.63,
+"nán yǐ zhì xìn",
+"hard to believe; incredible"
+],
+[
+"装置",
+34.25,
+"zhuāng zhì",
+"to install; installation; equipment; system; unit; device"
 ],
 [
 "放置",
 11.53,
-"fang4 zhi4",
+"fàng zhì",
 "to put"
+],
+[
+"置换",
+10.13,
+"zhì huàn",
+"to permute; permutation (math.); to displace; displacement; to replace; replacement"
+],
+[
+"购置",
+9.08,
+"gòu zhì",
+"to purchase"
+],
+[
+"置业",
+9.05,
+"zhì yè",
+"to buy real estate"
+],
+[
+"闲置",
+7.94,
+"xián zhì",
+"to leave sth unused; to lie idle"
 ],
 [
 "置于",
 5.72,
-"zhi4 yu2",
+"zhì yú",
 "to place; to put (at or in a position); to be located"
 ],
 [
 "置身",
 5.37,
-"zhi4 shen1",
+"zhì shēn",
 "to place oneself; to stay"
 ]
 ],

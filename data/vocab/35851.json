@@ -7,25 +7,56 @@
 },
 "words": [
 [
+"阴谋",
+6,
+"yīn móu",
+"plot; conspiracy"
+],
+[
 "参谋",
 6,
-"cānmóu",
-"advisor; give advice"
+"cān móu",
+"staff officer; to give advice"
 ],
 [
 "谋求",
 6,
-"móuqiú",
-"seek; strive for; try to get"
-],
-[
-"阴谋",
-6,
-"yīnmóu",
-"a plot; a conspiracy"
+"móu qiú",
+"to seek; to strive for"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"谋杀",
+118.91,
+"móu shā",
+"to murder; to assassinate; intentional homicide"
+],
+[
+"谋杀案",
+31.39,
+"móu shā àn",
+"murder case"
+],
+[
+"谋杀罪",
+8.08,
+"móu shā zuì",
+"murder"
+],
+[
+"张艺谋",
+7.42,
+"Zhāng Yì móu",
+"Zhang Yimou (1950-), PRC film director"
+],
+[
+"同谋",
+5.34,
+"tóng móu",
+"to conspire with sb; to plot; a conspirator; a partner in crime; an accomplice"
+]
+],
 "strokes": [
 "M 247 715 Q 278 687 313 652 Q 326 639 344 639 Q 354 639 361 653 Q 365 668 357 700 Q 351 722 317 740 Q 239 774 220 767 Q 214 763 216 750 Q 220 738 247 715 Z",
 "M 134 480 Q 85 465 58 464 Q 45 464 42 457 Q 38 448 48 441 Q 87 416 114 426 Q 157 445 197 466 Q 224 479 233 471 Q 240 467 233 365 Q 230 259 200 164 Q 179 134 225 83 Q 235 70 245 77 Q 252 84 264 107 Q 301 156 381 240 Q 393 250 390 258 Q 389 265 378 257 Q 339 232 302 205 Q 259 168 266 223 Q 266 283 289 430 Q 293 454 316 476 Q 328 486 319 499 Q 309 515 270 532 Q 260 539 242 528 Q 173 491 134 480 Z",

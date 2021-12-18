@@ -9,41 +9,72 @@
 [
 "废话",
 5,
-"fèihuà",
-"nonsense; rubbish"
+"fèi huà",
+"nonsense; rubbish; superfluous words; You don't say!; No kidding! (gently sarcastic)"
+],
+[
+"废墟",
+6,
+"fèi xū",
+"ruins"
+],
+[
+"废除",
+6,
+"fèi chú",
+"to abolish; to abrogate; to repeal"
 ],
 [
 "半途而废",
 6,
 "bàn tú ér fèi",
-"give up halfway; leave sth. unfinished"
-],
-[
-"废除",
-6,
-"fèichú",
-"abolish; annul; abrogate"
-],
-[
-"废寝忘食",
-6,
-"fèiqǐnwàngshí",
-"to forget even sleeping and eating"
-],
-[
-"废墟",
-6,
-"fèixū",
-"ruins"
+"to give up halfway (idiom); leave sth unfinished"
 ],
 [
 "作废",
 6,
-"zuòfèi",
-"cancellation; delete; to nullify; to expire and thus lose validity"
+"zuò fèi",
+"to become invalid; to cancel; to delete; to nullify"
+],
+[
+"废寝忘食",
+6,
+"fèi qǐn wàng shí",
+"to neglect sleep and forget about food (idiom); to skip one's sleep and meals; to be completely wrapped up in one's work"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"废物",
+21.52,
+"fèi wù",
+"rubbish; waste material; useless person"
+],
+[
+"废弃",
+6.5,
+"fèi qì",
+"to discard; to abandon (old ways); to invalidate"
+],
+[
+"废水",
+6.05,
+"fèi shuǐ",
+"waste water; drain water; effluent"
+],
+[
+"报废",
+5.78,
+"bào fèi",
+"to scrap; to be written off"
+],
+[
+"废品",
+5.09,
+"fèi pǐn",
+"production rejects; seconds; scrap; discarded material"
+]
+],
 "strokes": [
 "M 492 786 Q 520 765 549 739 Q 565 727 581 729 Q 593 730 597 744 Q 601 760 589 791 Q 582 810 549 822 Q 473 843 460 835 Q 454 831 457 817 Q 461 807 492 786 Z",
 "M 327 620 Q 382 611 407 616 Q 759 679 774 691 Q 783 698 779 708 Q 772 720 742 728 Q 711 735 628 708 Q 478 668 326 653 C 296 650 297 625 327 620 Z",

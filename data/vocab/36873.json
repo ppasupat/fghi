@@ -9,53 +9,174 @@
 [
 "选择",
 3,
-"xuǎnzé",
-"select; to pick; choose"
-],
-[
-"当选",
-6,
-"dāngxuǎn",
-"be elected"
-],
-[
-"候选",
-6,
-"hòuxuǎn",
-"candidate"
-],
-[
-"竞选",
-6,
-"jìngxuǎn",
-"run for (electoral) office; take part in an election"
-],
-[
-"筛选",
-6,
-"shāixuǎn",
-"to filter; to sift"
-],
-[
-"选拔",
-6,
-"xuǎnbá",
-"select the best; choose"
-],
-[
-"选举",
-6,
-"xuǎnjǔ",
-"elect; election"
+"xuǎn zé",
+"to select; to pick; choice; option; alternative"
 ],
 [
 "选手",
 6,
-"xuǎnshǒu",
-"athlete; contestant; player"
+"xuǎn shǒu",
+"athlete; contestant"
+],
+[
+"竞选",
+6,
+"jìng xuǎn",
+"to take part in an election; to run for office"
+],
+[
+"选举",
+6,
+"xuǎn jǔ",
+"to elect; election; CL:次[ci4],個|个[ge4]"
+],
+[
+"当选",
+6,
+"dāng xuǎn",
+"to be elected; to be selected"
+],
+[
+"选拔",
+6,
+"xuǎn bá",
+"to select the best"
+],
+[
+"筛选",
+6,
+"shāi xuǎn",
+"to filter"
+],
+[
+"候选",
+6,
+"hòu xuǎn",
+"candidate (attributive)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"评选",
+37.19,
+"píng xuǎn",
+"to select on the basis of a vote or consensus"
+],
+[
+"别无选择",
+23.67,
+"bié wú xuǎn zé",
+"to have no other choice"
+],
+[
+"选用",
+20.85,
+"xuǎn yòng",
+"to choose for some purpose; to select and use"
+],
+[
+"候选人",
+20.06,
+"hòu xuǎn rén",
+"candidate; CL:名[ming2]"
+],
+[
+"挑选",
+19.47,
+"tiāo xuǎn",
+"to choose; to select"
+],
+[
+"人选",
+18.15,
+"rén xuǎn",
+"choice of person; candidate"
+],
+[
+"入选",
+14.32,
+"rù xuǎn",
+"to be chosen; to be elected as"
+],
+[
+"大选",
+12.37,
+"dà xuǎn",
+"general election"
+],
+[
+"选出",
+11.91,
+"xuǎn chū",
+"to pick out; to select; to elect"
+],
+[
+"首选",
+11.81,
+"shǒu xuǎn",
+"first choice; premium; to come first in the imperial examinations"
+],
+[
+"选购",
+11.08,
+"xuǎn gòu",
+"to select and purchase; to buy"
+],
+[
+"选票",
+10.58,
+"xuǎn piào",
+"a vote; ballot; CL:張|张[zhang1]"
+],
+[
+"精选",
+10.51,
+"jīng xuǎn",
+"carefully chosen; handpicked; best of the bunch; choice (product); concentration (mining); to concentrate; to winnow"
+],
+[
+"选中",
+9.84,
+"xuǎn zhòng",
+"to choose; to pick; to settle upon; to decide upon a candidate; to be selected for some role"
+],
+[
+"选民",
+8.96,
+"xuǎn mín",
+"voter; constituency; electorate"
+],
+[
+"海选",
+8.41,
+"hǎi xuǎn",
+"(in elections for village committees in the PRC since the 1990s) unrestricted nomination, a type of election where 1. everyone in the community is eligible to nominate somebody 2. voting is done by writing the name of one's nominee on the ballot, and 3. one's nominee can be anyone in the community (Nominees who receive the highest number of votes may be thereby elected or, more often, presented as the candidates in a further round of voting.); (in other contexts) selection of the best contender in a process open to all comers; (in the entertainment industry) open audition"
+],
+[
+"选定",
+7.74,
+"xuǎn dìng",
+"to select; to choose; to settle on"
+],
+[
+"选取",
+7.44,
+"xuǎn qǔ",
+"to choose"
+],
+[
+"选择性",
+6.31,
+"xuǎn zé xìng",
+"selective; selectiveness; selectivity"
+],
+[
+"选美",
+5.93,
+"xuǎn měi",
+"beauty contest"
+]
+],
 "strokes": [
 "M 489 587 Q 504 614 518 634 Q 525 646 513 657 Q 473 682 453 678 Q 444 677 447 663 Q 462 603 405 524 Q 392 505 384 494 Q 378 481 391 486 Q 427 492 479 570 L 489 587 Z",
 "M 637 575 Q 677 588 723 598 Q 756 608 760 613 Q 769 620 764 629 Q 757 639 728 645 Q 697 649 641 625 L 589 608 Q 546 596 495 589 Q 491 589 489 587 C 460 579 458 579 479 570 Q 525 549 590 563 L 637 575 Z",

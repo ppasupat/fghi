@@ -9,57 +9,63 @@
 [
 "沉默",
 5,
-"chénmò",
-"silent; uncommunicative"
-],
-[
-"沉淀",
-6,
-"chéndiàn",
-"to precipitate (solid sediment out of a solution); to settle"
-],
-[
-"沉闷",
-6,
-"chénmèn",
-"oppressive (of weather); heavy; depressed; not happy"
-],
-[
-"沉思",
-6,
-"chénsī",
-"ponder; contemplate; meditation"
+"chén mò",
+"taciturn; uncommunicative; silent"
 ],
 [
 "沉重",
 6,
-"chénzhòng",
-"heavy; hard; serious"
+"chén zhòng",
+"heavy; hard; serious; critical"
+],
+[
+"沉闷",
+6,
+"chén mèn",
+"oppressive (of weather); heavy; depressed; not happy; (of sound) dull; muffled"
+],
+[
+"沉思",
+6,
+"chén sī",
+"to contemplate; to ponder; contemplation; meditation"
 ],
 [
 "沉着",
 6,
-"chénzhuó",
-"calm and collected; not nervous"
+"chén zhuó",
+"steady; calm and collected; not nervous"
 ],
 [
 "深沉",
 6,
-"shēnchén",
-"deep; extreme; low pitched (sound); grave; of major importance"
+"shēn chén",
+"deep; profound; (of a person) reserved; undemonstrative; (of a voice, sound etc) deep; low-pitched"
+],
+[
+"沉淀",
+6,
+"chén diàn",
+"to settle; to precipitate (solid sediment out of a solution)"
 ]
 ],
 "extraWords": [
 [
+"沉积",
+7.76,
+"chén jī",
+"sediment; deposit; sedimentation (geology)"
+],
+[
 "沉浸",
 7.42,
-"chen2 jin4",
+"chén jìn",
 "to soak; to permeate; to immerse"
 ],
 [
 "沉迷",
 5.51,
-"chen2 mi2",
+"chén mí",
 "to be engrossed; to be absorbed with; to lose oneself in; to be addicted to"
 ]
 ],

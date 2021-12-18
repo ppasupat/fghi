@@ -9,41 +9,72 @@
 [
 "灵活",
 5,
-"línghuó",
+"líng huó",
 "flexible; nimble; agile"
-],
-[
-"机灵",
-6,
-"jīling",
-"clever; quick-witted; smartness"
-],
-[
-"灵感",
-6,
-"línggǎn",
-"inspiration; insight; a burst of creativity in scientific or artistic endeavor"
 ],
 [
 "灵魂",
 6,
-"línghún",
-"soul; spirit; conscience"
-],
-[
-"灵敏",
-6,
-"língmǐn",
-"sensitive"
+"líng hún",
+"soul; spirit"
 ],
 [
 "心灵",
 6,
-"xīnlíng",
-"heart; soul; smart; quick-witted"
+"xīn líng",
+"bright; smart; quick-witted; heart; thoughts; spirit"
+],
+[
+"灵感",
+6,
+"líng gǎn",
+"inspiration; insight; a burst of creativity in scientific or artistic endeavor"
+],
+[
+"机灵",
+6,
+"jī ling",
+"clever; quick-witted"
+],
+[
+"灵敏",
+6,
+"líng mǐn",
+"smart; clever; sensitive; keen; quick; sharp"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"精灵",
+17.32,
+"jīng líng",
+"spirit; fairy; elf; sprite; genie"
+],
+[
+"幽灵",
+16.07,
+"yōu líng",
+"specter; apparition; ghost"
+],
+[
+"灵通",
+8.32,
+"líng tōng",
+"fast and abundant (news); clever; effective"
+],
+[
+"灵活性",
+5.51,
+"líng huó xìng",
+"flexibility"
+],
+[
+"神灵",
+5.01,
+"shén líng",
+"god; spirit; demon; occult or supernatural entities in general"
+]
+],
 "strokes": [
 "M 665 524 Q 701 662 750 699 Q 769 720 753 741 Q 734 757 674 788 Q 653 798 627 788 Q 506 743 340 731 Q 322 730 324 720 Q 325 711 346 704 Q 373 691 411 702 Q 510 718 604 734 Q 629 738 638 729 Q 651 714 647 684 Q 628 599 606 531 C 597 502 657 495 665 524 Z",
 "M 320 613 Q 292 609 314 592 Q 326 582 340 574 Q 349 570 406 579 Q 490 594 565 602 Q 575 601 585 614 Q 586 626 563 636 Q 536 657 450 633 Q 446 633 442 631 Q 412 625 320 613 Z",

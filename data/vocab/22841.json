@@ -9,17 +9,24 @@
 [
 "夹子",
 5,
-"jiāzi",
-"clip; tongs; folder"
+"jiā zi",
+"clip; clamp; tongs; folder; wallet"
 ],
 [
 "夹杂",
 6,
-"jiāzá",
-"mix together; have two dissimilar substances mixed together"
+"jiā zá",
+"to mix together (disparate substances); to mingle; a mix; to be tangled up with"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"夹克",
+16.54,
+"jiā kè",
+"jacket (loanword); also pr. [jia2 ke4]"
+]
+],
 "strokes": [
 "M 525 613 Q 588 625 653 635 Q 708 645 717 653 Q 727 662 723 671 Q 716 684 685 693 Q 652 700 619 690 Q 573 677 528 664 L 470 651 Q 400 641 320 635 Q 280 631 308 611 Q 348 587 432 598 Q 450 601 470 604 L 525 613 Z",
 "M 311 474 Q 339 447 370 414 Q 382 401 397 401 Q 407 400 413 413 Q 417 426 412 456 Q 406 487 309 521 Q 294 525 288 523 Q 284 519 284 507 Q 287 497 311 474 Z",

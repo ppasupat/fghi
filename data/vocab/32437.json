@@ -9,17 +9,36 @@
 [
 "操纵",
 6,
-"cāozòng",
-"operate; control; manipulation"
+"cāo zòng",
+"to operate; to control; to rig; to manipulate"
 ],
 [
 "纵横",
 6,
-"zònghéng",
-"able to move unhindered; length and breadth"
+"zòng héng",
+"lit. warp and weft in weaving; vertically and horizontal; length and breadth; criss-crossed; able to move unhindered; abbr. for 合縱連橫|合纵连横[He2 zong4 Lian2 heng2], School of Diplomacy during the Warring States Period (475-221 BC)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"纵火",
+8.08,
+"zòng huǒ",
+"to set on fire; to commit arson"
+],
+[
+"放纵",
+5.35,
+"fàng zòng",
+"to indulge; to pamper; to connive at; permissive; indulgent; self-indulgent; unrestrained; undisciplined; uncultured; boorish"
+],
+[
+"纵向",
+5.12,
+"zòng xiàng",
+"longitudinal; vertical"
+]
+],
 "strokes": [
 "M 291 489 Q 245 489 207 489 Q 171 489 190 511 Q 257 629 321 719 Q 334 735 332 743 Q 329 756 291 786 Q 275 799 258 795 Q 248 791 253 777 Q 274 732 172 547 Q 154 523 128 498 Q 110 485 112 472 Q 116 454 130 438 Q 140 428 152 434 Q 177 447 261 463 Q 268 464 275 464 C 305 467 321 489 291 489 Z",
 "M 275 464 Q 194 350 175 340 Q 162 331 165 318 Q 166 305 192 287 Q 202 277 216 288 Q 270 327 355 356 Q 373 360 375 369 Q 378 379 359 375 Q 314 368 259 354 Q 228 342 248 368 Q 284 423 370 535 Q 395 571 418 592 Q 430 602 423 611 Q 413 629 381 645 Q 365 652 357 650 Q 347 647 350 632 Q 353 575 291 489 L 275 464 Z",

@@ -7,19 +7,50 @@
 },
 "words": [
 [
-"掠夺",
-6,
-"lüèduó",
-"to plunder; rob; pillage"
-],
-[
 "争夺",
 6,
-"zhēngduó",
-"fight over"
+"zhēng duó",
+"to fight over; to contest; to vie over"
+],
+[
+"掠夺",
+6,
+"lu:è duó",
+"to plunder; to rob"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"夺得",
+25.72,
+"duó dé",
+"to take (after a struggle); to wrest; to seize; to capture; to win (a trophy)"
+],
+[
+"夺冠",
+20.64,
+"duó guàn",
+"to seize the crown; fig. to win a championship; to win gold medal"
+],
+[
+"夺取",
+13.61,
+"duó qǔ",
+"to seize; to capture; to wrest control of"
+],
+[
+"剥夺",
+10.19,
+"bō duó",
+"to deprive; to expropriate; to strip (sb of his property)"
+],
+[
+"抢夺",
+5.07,
+"qiǎng duó",
+"to plunder; to pillage; to forcibly take"
+]
+],
 "strokes": [
 "M 582 653 Q 627 663 675 669 Q 747 682 757 692 Q 767 701 763 710 Q 756 723 723 734 Q 689 741 654 730 Q 579 708 501 689 L 436 677 Q 360 667 273 661 Q 231 657 260 636 Q 311 609 384 622 Q 399 625 416 626 L 480 636 Q 514 643 552 648 L 582 653 Z",
 "M 501 689 Q 543 782 552 793 Q 565 812 549 824 Q 533 843 518 852 Q 496 871 474 868 Q 458 867 462 848 Q 478 796 436 677 L 416 626 Q 334 463 202 386 Q 157 364 95 334 Q 79 327 92 321 Q 164 309 277 380 Q 341 417 379 466 Q 395 488 412 509 Q 454 566 480 636 L 501 689 Z",

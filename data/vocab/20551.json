@@ -9,111 +9,159 @@
 [
 "请假",
 3,
-"qǐngjià",
-"to ask for time off"
-],
-[
-"放暑假",
-4,
-"fàng shǔjià",
-"have summer vacation"
-],
-[
-"寒假",
-4,
-"hánjià",
-"winter vacation"
+"qǐng jià",
+"to request leave of absence"
 ],
 [
 "假",
 4,
-"jiǎ, jià",
-"fake; if; borrow | vacation; holiday"
+"gēi",
+"see 假掰[gei1 bai1]"
 ],
 [
-"假如",
-5,
-"jiǎrú",
-"if; supposing; in case"
+"假",
+4,
+"jiǎ",
+"fake; false; artificial; to borrow; if; suppose"
 ],
 [
-"假设",
-5,
-"jiǎshè",
-"suppose that; hypothesis; conjecture"
+"假",
+4,
+"jià",
+"vacation"
+],
+[
+"假",
+4,
+"jiǎ",
+"variant of 假[jia3]; to borrow"
+],
+[
+"放暑假",
+4,
+"fang4 shu3 jia4",
+"to have a summer vacation"
+],
+[
+"寒假",
+4,
+"hán jià",
+"winter vacation"
 ],
 [
 "假装",
 5,
-"jiǎzhuāng",
-"pretend to be; feign"
+"jiǎ zhuāng",
+"to feign; to pretend"
+],
+[
+"假设",
+5,
+"jiǎ shè",
+"to suppose; to presume; to assume; supposing that ...; if; hypothesis; conjecture"
+],
+[
+"假如",
+5,
+"jiǎ rú",
+"if"
 ],
 [
 "虚假",
 6,
-"xūjiǎ",
-"false; phony; pretense; deceit"
+"xū jiǎ",
+"false; phony; pretense"
 ]
 ],
 "extraWords": [
 [
 "放假",
 26.15,
-"fang4 jia4",
+"fàng jià",
 "to have a holiday or vacation"
 ],
 [
 "度假",
 21.22,
-"du4 jia4",
+"dù jià",
 "to go on holidays; to spend one's vacation"
 ],
 [
 "假期",
 19.27,
-"jia4 qi1",
+"jià qī",
 "vacation"
+],
+[
+"假释",
+16.01,
+"jiǎ shì",
+"parole"
+],
+[
+"假发",
+11.42,
+"jiǎ fà",
+"wig"
 ],
 [
 "休假",
 11.06,
-"xiu1 jia4",
+"xiū jià",
 "to take a vacation; to go on holiday"
 ],
 [
 "假日",
 10.51,
-"jia4 ri4",
+"jià rì",
 "holiday; non-working day"
 ],
 [
 "暑假",
 9.79,
-"shu3 jia4",
+"shǔ jià",
 "summer vacation; CL:個|个[ge4]"
 ],
 [
 "假冒",
 9.05,
-"jia3 mao4",
+"jiǎ mào",
 "to impersonate; to pose as (someone else); to counterfeit; to palm off (a fake as a genuine)"
+],
+[
+"长假",
+8.94,
+"cháng jià",
+"long vacation"
+],
+[
+"节假日",
+7.68,
+"jié jià rì",
+"public holiday"
+],
+[
+"假冒伪劣",
+6.88,
+"jiǎ mào wěi liè",
+"cheap quality counterfeit (goods); low-quality commodities"
 ],
 [
 "造假",
 6.58,
-"zao4 jia3",
+"zào jiǎ",
 "to counterfeit; to pass off a fake as genuine"
 ],
 [
 "真假",
 5.27,
-"zhen1 jia3",
+"zhēn jiǎ",
 "genuine or fake; true or false"
 ],
 [
 "假定",
 5.13,
-"jia3 ding4",
+"jiǎ dìng",
 "to assume; to suppose; supposed; so-called; assumption; hypothesis"
 ]
 ],

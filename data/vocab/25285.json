@@ -9,35 +9,60 @@
 [
 "担心",
 3,
-"dānxīn",
-"to worry; feel anxious"
+"dān xīn",
+"anxious; worried; uneasy; to worry; to be anxious"
 ],
 [
 "承担",
 5,
-"chéngdān",
-"undertake; assume (responsibility)"
+"chéng dān",
+"to undertake; to assume (responsibility etc)"
 ],
 [
 "担任",
 5,
-"dānrèn",
-"hold the post of; serve as"
-],
-[
-"担保",
-6,
-"dānbǎo",
-"guarantee; vouch for"
+"dān rèn",
+"to hold a governmental office or post; to assume office of; to take charge of; to serve as"
 ],
 [
 "负担",
 6,
-"fùdān",
-"to (bear a) burden; carry; a load"
+"fù dān",
+"burden; to bear a burden"
+],
+[
+"担保",
+6,
+"dān bǎo",
+"to guarantee; to vouch for"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"担忧",
+22.33,
+"dān yōu",
+"to worry; to be concerned"
+],
+[
+"担当",
+9.2,
+"dān dāng",
+"to take upon oneself; to assume"
+],
+[
+"担负",
+8.93,
+"dān fù",
+"to shoulder; to bear; to undertake"
+],
+[
+"分担",
+7.23,
+"fēn dān",
+"to share (a burden, a cost, a responsibility)"
+]
+],
 "strokes": [
 "M 340 534 Q 409 559 410 561 Q 417 568 412 577 Q 405 587 375 592 Q 356 593 341 589 L 290 569 Q 200 535 130 521 Q 96 512 122 498 Q 164 480 217 497 Q 251 509 290 519 L 340 534 Z",
 "M 289 329 Q 289 239 289 125 Q 288 103 276 93 Q 267 86 244 93 Q 219 99 193 104 Q 160 114 163 104 Q 164 97 185 83 Q 252 34 270 4 Q 291 -30 307 -31 Q 320 -31 335 3 Q 353 49 350 122 Q 341 246 339 369 L 339 397 Q 338 466 340 534 L 341 589 Q 341 677 359 737 Q 375 768 320 789 Q 286 808 267 801 Q 249 794 266 771 Q 287 744 289 710 Q 290 694 290 569 L 290 519 Q 290 455 289 368 L 289 329 Z",

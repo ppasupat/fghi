@@ -9,51 +9,69 @@
 [
 "幸福",
 4,
-"xìngfú",
-"happy; blessed; fortunate"
-],
-[
-"幸亏",
-5,
-"xìngkuī",
-"fortunately; luckily"
+"xìng fú",
+"happiness; happy; blessed"
 ],
 [
 "幸运",
 5,
-"xìngyùn",
-"luck; fortune"
+"xìng yùn",
+"fortunate; lucky; fortune; luck"
 ],
 [
-"侥幸",
-6,
-"jiǎoxìng",
-"by luck; by a fluke"
+"幸亏",
+5,
+"xìng kuī",
+"fortunately; luckily"
 ],
 [
 "荣幸",
 6,
-"róngxìng",
-"honored"
+"róng xìng",
+"honored (to have the privilege of ...)"
+],
+[
+"侥幸",
+6,
+"jiǎo xìng",
+"luckily; by a fluke"
 ]
 ],
 "extraWords": [
 [
 "不幸",
 65.82,
-"bu4 xing4",
+"bù xìng",
 "misfortune; adversity; unfortunate; sad; unfortunately; CL:個|个[ge4]"
+],
+[
+"幸存者",
+28.02,
+"xìng cún zhě",
+"survivor"
 ],
 [
 "幸好",
 14.84,
-"xing4 hao3",
+"xìng hǎo",
 "fortunately"
+],
+[
+"庆幸",
+9.59,
+"qìng xìng",
+"to rejoice; to be glad"
+],
+[
+"幸存",
+8.29,
+"xìng cún",
+"to survive (a disaster)"
 ],
 [
 "有幸",
 6.39,
-"you3 xing4",
+"yǒu xìng",
 "fortunately"
 ]
 ],

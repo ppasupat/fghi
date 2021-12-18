@@ -9,155 +9,378 @@
 [
 "身体",
 2,
-"shēntǐ",
-"health; (human) body"
+"shēn tǐ",
+"the body; one's health; CL:具[ju4],個|个[ge4]; in person"
 ],
 [
 "体育",
 3,
-"tǐyù",
-"physical training; sports"
-],
-[
-"集体",
-5,
-"jítǐ",
-"collective; group"
-],
-[
-"具体",
-5,
-"jùtǐ",
-"concrete; definite; specific"
+"tǐ yù",
+"sports; physical education"
 ],
 [
 "媒体",
 5,
-"méitǐ",
-"(news) media; medium"
+"méi tǐ",
+"media, esp. news media"
 ],
 [
-"体会",
+"具体",
 5,
-"tǐhuì",
-"know from experience; learn through experience; realize; understanding; experience"
-],
-[
-"体贴",
-5,
-"tǐtiē",
-"show consideration for; thoughtful"
-],
-[
-"体现",
-5,
-"tǐxiàn",
-"embody; incarnate; reflect; to manifest"
+"jù tǐ",
+"concrete; definite; specific"
 ],
 [
 "体验",
 5,
-"tǐyàn",
-"experience for oneself; to personally experience (usually a kind of life)"
+"tǐ yàn",
+"to experience for oneself"
+],
+[
+"体会",
+5,
+"tǐ huì",
+"to know from experience; to learn through experience; to realize; understanding; experience"
+],
+[
+"体贴",
+5,
+"tǐ tiē",
+"considerate (of other people's needs)"
+],
+[
+"集体",
+5,
+"jí tǐ",
+"collective (decision); joint (effort); a group; a team; en masse; as a group"
+],
+[
+"体现",
+5,
+"tǐ xiàn",
+"to embody; to reflect; to incarnate"
 ],
 [
 "整体",
 5,
-"zhěngtǐ",
-"whole; entirety"
-],
-[
-"大体",
-6,
-"dàtǐ",
-"in general; more or less; on the whole"
-],
-[
-"繁体字",
-6,
-"fántǐzì",
-"traditional Chinese character"
-],
-[
-"个体",
-6,
-"gètǐ",
-"individual"
-],
-[
-"固体",
-6,
-"gùtǐ",
-"solid"
-],
-[
-"简体字",
-6,
-"jiǎntǐzì",
-"simplified Chinese characters"
-],
-[
-"解体",
-6,
-"jiětǐ",
-"disintegrate"
-],
-[
-"立体",
-6,
-"lìtǐ",
-"solid; three dimensional"
+"zhěng tǐ",
+"whole entity; entire body; synthesis; as a whole (situation, construction, team etc); global; macrocosm; integral; holistic; whole"
 ],
 [
 "尸体",
 6,
-"shītǐ",
-"dead body; corpse; carcass"
-],
-[
-"体裁",
-6,
-"tǐcái",
-"types or forms of literature"
-],
-[
-"体积",
-6,
-"tǐjī",
-"volume; bulk"
-],
-[
-"体谅",
-6,
-"tǐliàng",
-"empathize; express sympathy; allow (for something)"
-],
-[
-"体面",
-6,
-"tǐmiàn",
-"dignity; honorable; face"
-],
-[
-"体系",
-6,
-"tǐxì",
-"system; setup"
+"shī tǐ",
+"dead body; corpse; carcass; CL:具[ju4]"
 ],
 [
 "团体",
 6,
-"tuántǐ",
-"group; organization; team"
+"tuán tǐ",
+"group; organization; team; CL:個|个[ge4]"
+],
+[
+"简体字",
+6,
+"jiǎn tǐ zì",
+"simplified Chinese character, as opposed to traditional Chinese character 繁體字|繁体字[fan2 ti3 zi4]"
 ],
 [
 "液体",
 6,
-"yètǐ",
+"yè tǐ",
 "liquid"
+],
+[
+"体面",
+6,
+"tǐ miàn",
+"dignity; face (as in \"losing face\"); honorable; creditable; (of sb's appearance) presentable; respectable"
+],
+[
+"体系",
+6,
+"tǐ xì",
+"system; setup; CL:個|个[ge4]"
+],
+[
+"体谅",
+6,
+"tǐ liàng",
+"to empathize; to allow (for sth); to show understanding; to appreciate"
+],
+[
+"个体",
+6,
+"gè tǐ",
+"individual"
+],
+[
+"立体",
+6,
+"lì tǐ",
+"three-dimensional; solid; stereoscopic"
+],
+[
+"体积",
+6,
+"tǐ jī",
+"volume; bulk; CL:個|个[ge4]"
+],
+[
+"固体",
+6,
+"gù tǐ",
+"solid"
+],
+[
+"解体",
+6,
+"jiě tǐ",
+"to break up into components; to disintegrate; to collapse; to crumble"
+],
+[
+"大体",
+6,
+"dà tǐ",
+"in general; more or less; in rough terms; basically; on the whole; overall situation; the big picture; (Tw) remains (of a dead person)"
+],
+[
+"繁体字",
+6,
+"fán tǐ zì",
+"traditional Chinese character"
+],
+[
+"体裁",
+6,
+"tǐ cái",
+"genre; style; form of writing"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"体制",
+87.89,
+"tǐ zhì",
+"system; organization"
+],
+[
+"主体",
+61.49,
+"zhǔ tǐ",
+"main part; bulk; body; subject; agent"
+],
+[
+"总体",
+60.68,
+"zǒng tǐ",
+"completely; totally; total; entire; overall; population (statistics)"
+],
+[
+"全体",
+56.61,
+"quán tǐ",
+"all; entire"
+],
+[
+"群体",
+43.24,
+"qún tǐ",
+"community; colony"
+],
+[
+"人体",
+41.39,
+"rén tǐ",
+"human body"
+],
+[
+"体内",
+33.0,
+"tǐ nèi",
+"within the body; in vivo (vs in vitro); internal to"
+],
+[
+"体重",
+32.27,
+"tǐ zhòng",
+"body weight"
+],
+[
+"一体",
+25.69,
+"yī tǐ",
+"an integral whole; all concerned; everybody"
+],
+[
+"一体化",
+18.56,
+"yī tǐ huà",
+"integration; incorporation; unification"
+],
+[
+"裸体",
+17.86,
+"luǒ tǐ",
+"naked"
+],
+[
+"抗体",
+17.43,
+"kàng tǐ",
+"antibody"
+],
+[
+"体检",
+17.3,
+"tǐ jiǎn",
+"abbr. for 體格檢查|体格检查[ti3 ge2 jian3 cha2]"
+],
+[
+"气体",
+15.66,
+"qì tǐ",
+"gas (i.e. gaseous substance)"
+],
+[
+"体力",
+15.64,
+"tǐ lì",
+"physical strength; physical power"
+],
+[
+"多媒体",
+15.38,
+"duō méi tǐ",
+"multimedia"
+],
+[
+"机体",
+14.45,
+"jī tǐ",
+"organism (biology); airframe (aeronautics)"
+],
+[
+"实体",
+14.1,
+"shí tǐ",
+"entity; substance; thing that has a material existence (as opposed to a conceptual, virtual or online existence); the real thing (as opposed to an image or model of it)"
+],
+[
+"受体",
+14.07,
+"shòu tǐ",
+"receptor (biochemistry); acceptor (semiconductors)"
+],
+[
+"载体",
+13.79,
+"zài tǐ",
+"carrier (chemistry); vector (epidemiology); vehicle or medium"
+],
+[
+"体育馆",
+11.03,
+"tǐ yù guǎn",
+"gym; gymnasium; stadium; CL:個|个[ge4]"
+],
+[
+"体能",
+10.91,
+"tǐ néng",
+"physical capability; stamina"
+],
+[
+"体质",
+10.51,
+"tǐ zhì",
+"constitution"
+],
+[
+"体温",
+10.25,
+"tǐ wēn",
+"(body) temperature"
+],
+[
+"肉体",
+9.66,
+"ròu tǐ",
+"physical body"
+],
+[
+"物体",
+9.53,
+"wù tǐ",
+"object; body; substance"
+],
+[
+"体操",
+9.34,
+"tǐ cāo",
+"gymnastic; gymnastics"
+],
+[
+"遗体",
+9.09,
+"yí tǐ",
+"remains (of a dead person)"
+],
+[
+"经济体制",
+7.94,
+"jīng jì tǐ zhì",
+"economic system"
+],
+[
+"染色体",
+7.46,
+"rǎn sè tǐ",
+"chromosome"
+],
+[
+"体育场",
+7.46,
+"tǐ yù chǎng",
+"stadium; CL:個|个[ge4],座[zuo4]"
+],
+[
+"肢体",
+7.03,
+"zhī tǐ",
+"limb; limbs and trunk; body"
+],
+[
+"晶体",
+6.93,
+"jīng tǐ",
+"crystal"
+],
+[
+"体征",
+6.52,
+"tǐ zhēng",
+"(medical) sign; physical sign"
+],
+[
+"半导体",
+6.11,
+"bàn dǎo tǐ",
+"semiconductor"
+],
+[
+"文体",
+6.05,
+"wén tǐ",
+"genre of writing; literary form; style; literary recreation and sporting activities"
+],
+[
+"体型",
+5.01,
+"tǐ xíng",
+"build; body type"
+]
+],
 "strokes": [
 "M 228 516 Q 274 573 324 650 Q 349 696 373 718 Q 383 728 379 743 Q 375 756 346 780 Q 318 799 299 799 Q 280 798 288 775 Q 301 744 290 718 Q 253 630 198 550 Q 144 472 71 387 Q 61 377 58 371 Q 55 359 69 362 Q 102 366 201 483 L 228 516 Z",
 "M 201 483 Q 222 449 224 355 Q 223 346 223 336 Q 223 230 196 123 Q 184 72 218 33 Q 219 30 222 28 Q 238 12 250 38 Q 265 78 264 123 Q 264 378 272 435 Q 279 462 270 472 Q 233 512 228 516 C 207 537 188 510 201 483 Z",

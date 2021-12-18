@@ -9,130 +9,208 @@
 [
 "商店",
 1,
-"shāngdiàn",
-"shop; store"
+"shāng diàn",
+"store; shop; CL:家[jia1],個|个[ge4]"
 ],
 [
 "商量",
 4,
-"shāngliang",
-"consult; talk over; discuss"
+"shāng liang",
+"to consult; to talk over; to discuss"
+],
+[
+"商业",
+5,
+"shāng yè",
+"business; trade; commerce"
+],
+[
+"商品",
+5,
+"shāng pǐn",
+"commodity; goods; merchandise; CL:個|个[ge4]"
+],
+[
+"商务",
+5,
+"shāng wù",
+"commercial affairs; commercial; commerce; business"
 ],
 [
 "经商",
 5,
 "jīng shāng",
-"trade; be in business; do commerce"
-],
-[
-"商品",
-5,
-"shāngpǐn",
-"goods; commodity; merchandise"
-],
-[
-"商务",
-5,
-"shāngwù",
-"business; commercial affairs"
-],
-[
-"商业",
-5,
-"shāngyè",
-"business; commerce; trade"
-],
-[
-"磋商",
-6,
-"cuōshāng",
-"discuss seriously; consult; negotiate"
-],
-[
-"商标",
-6,
-"shāngbiāo",
-"trademark; logo"
-],
-[
-"协商",
-6,
-"xiéshāng",
-"consult with; talk things over"
+"to trade; to carry out commercial activities; in business"
 ],
 [
 "智商",
 6,
-"zhìshāng",
+"zhì shāng",
 "IQ (intelligence quotient)"
+],
+[
+"协商",
+6,
+"xié shāng",
+"to consult with; to talk things over; agreement"
+],
+[
+"商标",
+6,
+"shāng biāo",
+"trademark; logo"
+],
+[
+"磋商",
+6,
+"cuō shāng",
+"to consult; to discuss seriously; to negotiate; to confer; negotiations; consultations"
 ]
 ],
 "extraWords": [
 [
 "工商",
 45.15,
-"gong1 shang1",
+"gōng shāng",
 "industry and commerce"
+],
+[
+"厂商",
+42.67,
+"chǎng shāng",
+"manufacturer; producer"
+],
+[
+"商场",
+31.46,
+"shāng chǎng",
+"shopping mall; shopping center; department store; emporium; CL:家[jia1]; the business world"
+],
+[
+"商业银行",
+30.78,
+"shāng yè yín háng",
+"commercial bank"
 ],
 [
 "商家",
 30.36,
-"shang1 jia1",
+"shāng jiā",
 "merchant; business; enterprise"
 ],
 [
 "招商",
 25.56,
-"zhao1 shang1",
+"zhāo shāng",
 "to seek investment or funding; investment promotion"
+],
+[
+"经销商",
+24.07,
+"jīng xiāo shāng",
+"dealer; seller; distributor; broker; agency; franchise (i.e. company); retail outlet"
 ],
 [
 "外商",
 19.57,
-"wai4 shang1",
+"wài shāng",
 "foreign businessman"
 ],
 [
 "商人",
 18.65,
-"shang1 ren2",
+"shāng rén",
 "merchant; businessman"
+],
+[
+"商务部",
+16.51,
+"Shāng wù bù",
+"Department of Trade; Department of Commerce"
 ],
 [
 "商城",
 13.18,
-"Shang1 cheng2",
+"Shāng chéng",
 "see 商城縣|商城县[Shang1 cheng2 xian4]"
 ],
 [
 "商城",
 13.18,
-"shang1 cheng2",
+"shāng chéng",
 "shopping center; department store"
+],
+[
+"商报",
+13.07,
+"shāng bào",
+"business newspaper"
+],
+[
+"制造商",
+11.27,
+"zhì zào shāng",
+"manufacturing company"
+],
+[
+"招商引资",
+10.02,
+"zhāo shāng yǐn zī",
+"investment promotion"
+],
+[
+"商贸",
+9.59,
+"shāng mào",
+"trade and commerce"
 ],
 [
 "台商",
 8.64,
-"Tai2 shang1",
+"Tái shāng",
 "Taiwanese businessman; Taiwanese company"
+],
+[
+"商户",
+7.36,
+"shāng hù",
+"merchant; trader; businessman; firm"
+],
+[
+"商会",
+7.23,
+"shāng huì",
+"chamber of commerce"
 ],
 [
 "代理商",
 6.24,
-"dai4 li3 shang1",
+"dài lǐ shāng",
 "agent"
 ],
 [
 "商圈",
 6.22,
-"shang1 quan1",
+"shāng quān",
 "commercial district; business district"
 ],
 [
 "零售商",
 6.09,
-"ling2 shou4 shang1",
+"líng shòu shāng",
 "retailer; shopkeeper; retail merchant"
+],
+[
+"商讨",
+5.47,
+"shāng tǎo",
+"to discuss; to deliberate"
+],
+[
+"商议",
+5.06,
+"shāng yì",
+"to negotiate; discussion; proposal"
 ]
 ],
 "strokes": [

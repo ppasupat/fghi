@@ -9,17 +9,36 @@
 [
 "选择",
 3,
-"xuǎnzé",
-"select; to pick; choose"
+"xuǎn zé",
+"to select; to pick; choice; option; alternative"
 ],
 [
 "不择手段",
 6,
-"bùzéshǒuduàn",
-"by fair means or foul"
+"bù zé shǒu duàn",
+"by fair means or foul; by hook or by crook; unscrupulously"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"别无选择",
+23.67,
+"bié wú xuǎn zé",
+"to have no other choice"
+],
+[
+"抉择",
+8.56,
+"jué zé",
+"to choose (literary)"
+],
+[
+"选择性",
+6.31,
+"xuǎn zé xìng",
+"selective; selectiveness; selectivity"
+]
+],
 "strokes": [
 "M 339 549 Q 351 553 368 557 Q 404 567 408 573 Q 417 580 412 589 Q 405 599 376 605 Q 358 608 342 604 L 290 585 Q 188 554 131 545 Q 97 536 122 522 Q 168 503 226 520 Q 256 529 289 536 L 339 549 Z",
 "M 284 351 Q 283 257 280 135 Q 279 113 266 104 Q 257 97 233 103 Q 205 107 177 113 Q 144 123 147 113 Q 148 106 170 92 Q 240 44 259 15 Q 281 -19 297 -18 Q 312 -19 326 15 Q 342 61 340 133 Q 333 263 334 392 L 335 423 Q 335 487 339 549 L 342 604 Q 348 689 362 732 Q 378 762 324 785 Q 290 804 271 798 Q 253 791 269 768 Q 290 741 291 707 Q 292 692 290 585 L 289 536 Q 288 476 285 392 L 284 351 Z",

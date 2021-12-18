@@ -7,83 +7,113 @@
 },
 "words": [
 [
-"投入",
-5,
-"tóurù",
-"put into operation; throw into; to invest"
-],
-[
 "投资",
 5,
 "tóu zī",
-"investment"
+"investment; to invest"
 ],
 [
-"投机",
-6,
-"tóujī",
-"speculate (on financial markets); congenial; opportunistic"
+"投入",
+5,
+"tóu rù",
+"to throw into; to put into; to throw oneself into; to participate in; to invest in; absorbed; engrossed"
 ],
 [
 "投票",
 6,
-"tóupiào",
-"vote; poll"
-],
-[
-"投诉",
-6,
-"tóusù",
-"make a complaint; appeal to a court"
+"tóu piào",
+"to vote; vote"
 ],
 [
 "投降",
 6,
-"tóuxiáng",
-"to surrender"
+"tóu xiáng",
+"to surrender; surrender"
+],
+[
+"投诉",
+6,
+"tóu sù",
+"complaint; to complain; to register a complaint (esp. as a customer)"
 ],
 [
 "投掷",
 6,
-"tóuzhì",
-"throw something a long distance; hurl"
+"tóu zhì",
+"to throw sth a long distance; to hurl; to throw at; to throw (dice etc); to flip (a coin)"
+],
+[
+"投机",
+6,
+"tóu jī",
+"to speculate (on financial markets); opportunistic; congenial; agreeable"
 ]
 ],
 "extraWords": [
 [
+"投资者",
+133.87,
+"tóu zī zhě",
+"investor"
+],
+[
+"投产",
+16.14,
+"tóu chǎn",
+"to put into production; to put into operation"
+],
+[
 "投放",
 14.02,
-"tou2 fang4",
+"tóu fàng",
 "to input; to throw in; to unload; to put into circulation"
+],
+[
+"投标",
+12.12,
+"tóu biāo",
+"to bid; to make a tender"
+],
+[
+"投资人",
+10.84,
+"tóu zī rén",
+"investor"
+],
+[
+"投篮",
+8.38,
+"tóu lán",
+"to shoot for the basket (basketball)"
 ],
 [
 "投影",
 7.41,
-"tou2 ying3",
+"tóu yǐng",
 "to project; a projection"
 ],
 [
 "投保",
 6.57,
-"tou2 bao3",
+"tóu bǎo",
 "to take out insurance; to insure"
 ],
 [
 "投身",
 6.35,
-"tou2 shen1",
+"tóu shēn",
 "to throw oneself into sth"
 ],
 [
 "投注",
 6.27,
-"tou2 zhu4",
+"tóu zhù",
 "to throw one's energies (into an activity); to invest one's emotions (in sth); to bet; betting"
 ],
 [
 "投手",
 6.05,
-"tou2 shou3",
+"tóu shǒu",
 "thrower; pitcher; bowler"
 ]
 ],

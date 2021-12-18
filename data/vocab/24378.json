@@ -9,53 +9,174 @@
 [
 "坚强",
 5,
-"jiānqiáng",
-"strong; staunch"
-],
-[
-"强调",
-5,
-"qiángdiào",
-"emphasize; to stress"
+"jiān qiáng",
+"staunch; strong"
 ],
 [
 "强烈",
 5,
-"qiángliè",
-"intense; strong; violent"
+"qiáng liè",
+"intense; (violently) strong"
 ],
 [
-"倔强",
-6,
-"juéjiàng",
-"stubborn; unbending"
-],
-[
-"勉强",
-6,
-"miǎnqiǎng",
-"reluctantly; grudgingly; force sb. to do sth."
-],
-[
-"强制",
-6,
-"qiángzhì",
-"enforce; control; coerce"
+"强调",
+5,
+"qiáng diào",
+"to emphasize (a statement); to stress"
 ],
 [
 "强迫",
 6,
-"qiǎngpò",
-"compel; to force"
+"qiǎng pò",
+"to compel; to force"
+],
+[
+"勉强",
+6,
+"miǎn qiǎng",
+"to do with difficulty; to force sb to do sth; reluctant; barely enough"
+],
+[
+"强制",
+6,
+"qiáng zhì",
+"to enforce; enforcement; forcibly; compulsory"
 ],
 [
 "顽强",
 6,
-"wánqiáng",
+"wán qiáng",
 "tenacious; hard to defeat"
+],
+[
+"倔强",
+6,
+"jué jiàng",
+"stubborn; obstinate; unbending"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"加强",
+251.87,
+"jiā qiáng",
+"to reinforce; to strengthen; to increase"
+],
+[
+"增强",
+98.98,
+"zēng qiáng",
+"to increase; to strengthen"
+],
+[
+"强大",
+81.98,
+"qiáng dà",
+"large; formidable; powerful; strong"
+],
+[
+"强化",
+49.51,
+"qiáng huà",
+"to strengthen; to intensify"
+],
+[
+"强度",
+29.98,
+"qiáng dù",
+"strength; intensity; CL:個|个[ge4]"
+],
+[
+"强劲",
+27.73,
+"qiáng jìng",
+"strong; powerful; robust"
+],
+[
+"强奸",
+27.04,
+"qiáng jiān",
+"to rape"
+],
+[
+"强壮",
+26.14,
+"qiáng zhuàng",
+"strong; sturdy; robust"
+],
+[
+"强行",
+14.67,
+"qiáng xíng",
+"to do sth by force; Taiwan pr. [qiang3 xing2]"
+],
+[
+"强力",
+10.07,
+"qiáng lì",
+"powerful"
+],
+[
+"强盗",
+9.54,
+"qiáng dào",
+"to rob (with force); bandit; robber; CL:個|个[ge4]"
+],
+[
+"强硬",
+9.14,
+"qiáng yìng",
+"tough; unyielding; hard-line"
+],
+[
+"强悍",
+8.77,
+"qiáng hàn",
+"tough; strong; formidable; fearsome"
+],
+[
+"强有力",
+8.59,
+"qiáng yǒu lì",
+"strong; forceful"
+],
+[
+"强暴",
+6.8,
+"qiáng bào",
+"violent; to rape"
+],
+[
+"强国",
+6.55,
+"Qiáng guó",
+"(ironically) mainland China (Taiwan & Hong Kong usage)"
+],
+[
+"强国",
+6.55,
+"qiáng guó",
+"powerful country; great power"
+],
+[
+"强势",
+6.2,
+"qiáng shì",
+"strong; powerful; (linguistics) emphatic; intensive"
+],
+[
+"强求",
+5.44,
+"qiǎng qiú",
+"to insist on; to demand; to impose"
+],
+[
+"强奸犯",
+5.28,
+"qiáng jiān fàn",
+"rapist"
+]
+],
 "strokes": [
 "M 373 554 Q 397 648 426 677 Q 451 704 426 719 Q 405 732 377 750 Q 356 762 313 736 Q 274 718 203 702 Q 191 702 193 695 Q 194 691 208 683 Q 226 674 283 689 Q 340 705 347 694 Q 354 687 344 647 Q 331 604 316 554 C 307 525 365 525 373 554 Z",
 "M 234 497 Q 283 510 386 523 Q 396 524 397 533 Q 397 540 373 554 C 355 565 345 562 316 554 Q 259 538 213 527 C 184 520 205 490 234 497 Z",

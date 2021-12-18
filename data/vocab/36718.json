@@ -9,29 +9,90 @@
 [
 "轮流",
 5,
-"lúnliú",
-"to alternate; take turns; rotate"
-],
-[
-"轮船",
-6,
-"lúnchuán",
-"steamship"
-],
-[
-"轮廓",
-6,
-"lúnkuò",
-"outline; silhouette"
+"lún liú",
+"to alternate; to take turns"
 ],
 [
 "轮胎",
 6,
-"lúntāi",
-"tire (of a wheel)"
+"lún tāi",
+"tire; pneumatic tire"
+],
+[
+"轮廓",
+6,
+"lún kuò",
+"an outline; silhouette"
+],
+[
+"轮船",
+6,
+"lún chuán",
+"steamship; steamer; ocean liner; ship; CL:艘[sou1]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"首轮",
+11.6,
+"shǒu lún",
+"first round (of a competition etc)"
+],
+[
+"第二轮",
+11.57,
+"dì èr lún",
+"second round (of match, or election)"
+],
+[
+"轮椅",
+11.3,
+"lún yǐ",
+"wheelchair"
+],
+[
+"邮轮",
+8.76,
+"yóu lún",
+"ocean liner; cruise liner"
+],
+[
+"第一轮",
+6.75,
+"dì yī lún",
+"first round (of match, or election)"
+],
+[
+"三轮车",
+6.71,
+"sān lún chē",
+"pedicab; tricycle"
+],
+[
+"轮回",
+6.61,
+"lún huí",
+"variant of 輪迴|轮回[lun2 hui2]"
+],
+[
+"轮回",
+6.61,
+"lún huí",
+"to reincarnate; reincarnation (Buddhism); (of the seasons etc) to follow each other cyclically; cycle; CL:個|个[ge4]"
+],
+[
+"轮子",
+6.05,
+"lún zi",
+"wheel; CL:個|个[ge4]"
+],
+[
+"车轮",
+5.69,
+"chē lún",
+"wheel"
+]
+],
 "strokes": [
 "M 304 610 Q 358 623 417 634 Q 454 644 459 649 Q 468 656 463 665 Q 456 675 428 683 Q 398 687 328 662 L 276 648 Q 227 638 173 632 Q 137 626 163 610 Q 203 586 257 601 Q 258 602 260 601 L 304 610 Z",
 "M 367 389 Q 394 395 419 396 Q 447 399 439 412 Q 430 425 414 432 Q 398 438 370 427 L 325 415 Q 285 408 236 398 Q 223 397 221 399 Q 220 400 221 412 Q 255 502 304 610 L 328 662 Q 367 743 378 752 Q 391 764 374 783 Q 329 831 307 828 Q 298 824 304 802 Q 311 768 276 648 L 260 601 Q 256 592 253 582 Q 192 437 154 398 Q 138 382 143 368 Q 150 349 161 338 Q 170 328 180 333 Q 214 352 300 375 Q 312 379 325 381 L 367 389 Z",

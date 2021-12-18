@@ -9,11 +9,24 @@
 [
 "贝壳",
 6,
-"bèiké",
-"shell; conch; cowry"
+"bèi ké",
+"shell; conch; cowry; mother of pearl; hard outer skin; also pr. [bei4 qiao4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"外壳",
+9.36,
+"wài ké",
+"envelope; outer shell; hull; cover; case"
+],
+[
+"弹壳",
+5.6,
+"dàn ké",
+"ammunition case"
+]
+],
 "strokes": [
 "M 537 677 Q 684 707 685 707 Q 695 714 691 724 Q 684 736 654 745 Q 627 751 542 727 L 481 713 Q 478 714 476 713 Q 409 701 332 697 Q 295 693 320 674 Q 359 650 436 662 Q 458 665 483 669 L 537 677 Z",
 "M 527 590 Q 531 636 537 677 L 542 727 Q 543 734 544 740 Q 548 759 551 772 Q 555 782 557 791 Q 561 801 541 817 Q 507 836 484 840 Q 468 844 460 835 Q 453 828 460 813 Q 476 792 481 713 L 483 669 Q 483 626 483 580 C 483 550 524 560 527 590 Z",

@@ -9,142 +9,184 @@
 [
 "精神",
 5,
-"jīngshen",
-"vigor; spirit; mind"
+"jīng shén",
+"spirit; mind; consciousness; thought; mental; psychological; essence; gist; CL:個|个[ge4]"
 ],
 [
-"神话",
+"精神",
 5,
-"shénhuà",
-"mythology; fairy tale"
+"jīng shen",
+"vigor; vitality; drive; spiritual"
 ],
 [
 "神秘",
 5,
-"shénmì",
-"mysterious; mystical"
+"shén mì",
+"mysterious; mystery"
 ],
 [
-"出神",
-6,
-"chū shén",
-"be lost in thought; entranced; preoccupation; Trance (music genre)"
+"神话",
+5,
+"shén huà",
+"legend; fairy tale; myth; mythology"
 ],
 [
-"聚精会神",
+"神经",
 6,
-"jù jīng huì shén",
-"concentrate one's attention"
+"shén jīng",
+"nerve; mental state; (coll.) unhinged; nutjob"
+],
+[
+"神奇",
+6,
+"shén qí",
+"magical; mystical; miraculous"
+],
+[
+"眼神",
+6,
+"yǎn shén",
+"expression or emotion showing in one's eyes; meaningful glance; wink; eyesight (dialect)"
+],
+[
+"神圣",
+6,
+"shén shèng",
+"divine; hallow; holy; sacred"
 ],
 [
 "留神",
 6,
 "liú shén",
-"(idiom) take care to ...; be careful of ..."
-],
-[
-"神经",
-6,
-"shénjīng",
-"nerve"
-],
-[
-"神奇",
-6,
-"shénqí",
-"miraculous; magical; mystical"
-],
-[
-"神气",
-6,
-"shénqì",
-"expression; manner; spirited"
-],
-[
-"神圣",
-6,
-"shénshèng",
-"divine; holy; sacred"
-],
-[
-"神态",
-6,
-"shéntài",
-"appearance; looks; manner; expression"
+"to take care; to be careful"
 ],
 [
 "神仙",
 6,
-"shénxiān",
-"fig. lighthearted person; Daoist immortal; supernatural entity; (in modern fiction) fairy, elf, leprechaun, etc.; supernatural being, celestial being, immortal; a person who has the power of clairvoyance or who is free from worldly cares"
+"shén xiān",
+"Daoist immortal; supernatural entity; (in modern fiction) fairy, elf, leprechaun etc; fig. lighthearted person"
 ],
 [
-"眼神",
+"神气",
 6,
-"yǎnshén",
-"expression or emotion showing in one's eyes"
+"shén qì",
+"expression; manner; vigorous; impressive; lofty; pretentious"
+],
+[
+"神态",
+6,
+"shén tài",
+"appearance; manner; bearing; deportment; look; expression; mien"
+],
+[
+"聚精会神",
+6,
+"jù jīng huì shén",
+"to concentrate one's attention (idiom)"
+],
+[
+"出神",
+6,
+"chū shén",
+"spellbound; entranced; lost in thought"
 ]
 ],
 "extraWords": [
 [
+"神马",
+46.89,
+"shén mǎ",
+"mythical horse; Internet slang for 什麼|什么[shen2 me5]"
+],
+[
 "神父",
 45.88,
-"shen2 fu5",
+"shén fu",
 "Christian priest or clergyman; (spiritual) father"
 ],
 [
 "神像",
 32.85,
-"shen2 xiang4",
+"shén xiàng",
 "image of a God"
 ],
 [
 "神情",
 16.46,
-"shen2 qing2",
+"shén qíng",
 "look; expression"
 ],
 [
 "精神病",
 15.26,
-"jing1 shen2 bing4",
+"jīng shén bìng",
 "mental disorder; psychosis"
 ],
 [
 "精神文明",
 15.17,
-"jing1 shen2 wen2 ming2",
+"jīng shén wén míng",
 "spiritual culture"
 ],
 [
 "女神",
 15.14,
-"nu:3 shen2",
+"nu:3 shén",
 "goddess; nymph"
+],
+[
+"神经病",
+12.88,
+"shén jīng bìng",
+"mental disorder; neuropathy; (derog.) mental case"
 ],
 [
 "神色",
 12.82,
-"shen2 se4",
+"shén sè",
 "expression; look"
 ],
 [
 "神舟",
 10.52,
-"Shen2 zhou1",
+"Shén zhōu",
 "Shenzhou (spacecraft); Hasee (computer manufacturer)"
 ],
 [
 "死神",
 9.93,
-"si3 shen2",
+"sǐ shén",
 "mythological figure (such as the Grim Reaper) in charge of taking the souls of those who die; (fig.) death"
+],
+[
+"靖国神社",
+8.05,
+"Jìng guó Shén shè",
+"Yasukuni Shrine, Shinto shrine in Tokyo to Japanese war dead, controversial as burial ground of several Class A war criminals"
 ],
 [
 "神州",
 5.47,
-"Shen2 zhou1",
+"Shén zhōu",
 "old name for China"
+],
+[
+"神经元",
+5.35,
+"shén jīng yuán",
+"neuron"
+],
+[
+"神经质",
+5.07,
+"shén jīng zhì",
+"nervous; on edge; excitable; neurotic"
+],
+[
+"神灵",
+5.01,
+"shén líng",
+"god; spirit; demon; occult or supernatural entities in general"
 ]
 ],
 "strokes": [

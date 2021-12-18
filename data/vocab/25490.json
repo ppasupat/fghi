@@ -9,111 +9,117 @@
 [
 "安排",
 4,
-"ānpái",
-"arrange; to plan"
+"ān pái",
+"to arrange; to plan; to set up; arrangements; plans"
 ],
 [
 "排队",
 4,
 "pái duì",
-"queue; stand in line"
+"to line up"
 ],
 [
 "排列",
 4,
-"páiliè",
-"arrange; align; permutation"
-],
-[
-"排斥",
-6,
-"páichì",
-"to reject; repulse; exclude"
-],
-[
-"排除",
-6,
-"páichú",
-"eliminate; get rid of; remove"
-],
-[
-"排放",
-6,
-"páifàng",
-"to discharge; emit"
+"pái liè",
+"to arrange in order; (math.) permutation"
 ],
 [
 "排练",
 6,
-"páiliàn",
-"to rehearse"
+"pái liàn",
+"to rehearse; rehearsal"
+],
+[
+"排除",
+6,
+"pái chú",
+"to eliminate; to remove; to exclude; to rule out"
+],
+[
+"排斥",
+6,
+"pái chì",
+"to reject; to exclude; to eliminate; to remove; to repel"
+],
+[
+"排放",
+6,
+"pái fàng",
+"emission; discharge; exhaust (gas etc)"
 ]
 ],
 "extraWords": [
 [
 "排名",
 55.16,
-"pai2 ming2",
+"pái míng",
 "to rank (1st, 2nd etc); ranking"
 ],
 [
 "排行",
 21.29,
-"pai2 hang2",
+"pái háng",
 "to rank; ranking; seniority (among siblings)"
 ],
 [
 "女排",
 19.87,
-"nu:3 pai2",
+"nu:3 pái",
 "women's volleyball; abbr. for 女子排球"
 ],
 [
 "牛排",
 15.23,
-"niu2 pai2",
+"niú pái",
 "steak"
 ],
 [
 "排出",
 10.94,
-"pai2 chu1",
+"pái chū",
 "to discharge"
+],
+[
+"编排",
+10.08,
+"biān pái",
+"to arrange; to lay out"
 ],
 [
 "彩排",
 8.61,
-"cai3 pai2",
+"cǎi pái",
 "dress rehearsal"
 ],
 [
 "排水",
 7.9,
-"pai2 shui3",
+"pái shuǐ",
 "to drain"
 ],
 [
 "排骨",
 7.25,
-"pai2 gu3",
+"pái gǔ",
 "pork chop; pork cutlet; spare ribs; (coll.) skinny person"
 ],
 [
 "男排",
 6.66,
-"nan2 pai2",
+"nán pái",
 "men's volleyball; abbr. for 男子排球"
 ],
 [
 "排球",
 6.5,
-"pai2 qiu2",
+"pái qiú",
 "volleyball; CL:個|个[ge4]"
 ],
 [
 "排污",
 6.1,
-"pai2 wu1",
+"pái wū",
 "to drain sewage"
 ]
 ],

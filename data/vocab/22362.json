@@ -9,53 +9,78 @@
 [
 "坚持",
 4,
-"jiānchí",
-"persist in; persevere"
-],
-[
-"坚决",
-5,
-"jiānjué",
-"resolute; determined; uncompromising"
+"jiān chí",
+"to persevere with; to persist in; to insist on"
 ],
 [
 "坚强",
 5,
-"jiānqiáng",
-"strong; staunch"
+"jiān qiáng",
+"staunch; strong"
+],
+[
+"坚决",
+5,
+"jiān jué",
+"firm; resolute; determined"
 ],
 [
 "坚定",
 6,
-"jiāndìng",
-"firm; staunch; resolute"
+"jiān dìng",
+"firm; steady; staunch; resolute"
 ],
 [
 "坚固",
 6,
-"jiāngù",
-"firm; strong; sturdy"
-],
-[
-"坚韧",
-6,
-"jiānrèn",
-"tough and durable; hard-bitten; firm and tenacious"
-],
-[
-"坚实",
-6,
-"jiānshí",
-"firm and substantial; solid"
+"jiān gù",
+"firm; firmly; hard; stable"
 ],
 [
 "坚硬",
 6,
-"jiānyìng",
+"jiān yìng",
 "hard; solid"
+],
+[
+"坚实",
+6,
+"jiān shí",
+"firm and substantial; solid"
+],
+[
+"坚韧",
+6,
+"jiān rèn",
+"tough and durable; tenacious"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"坚信",
+11.86,
+"jiān xìn",
+"to believe firmly; without any doubt"
+],
+[
+"坚守",
+9.01,
+"jiān shǒu",
+"to hold fast to; to stick to"
+],
+[
+"坚定不移",
+6.79,
+"jiān dìng bù yí",
+"unswerving; unflinching"
+],
+[
+"坚果",
+5.13,
+"jiān guǒ",
+"nut"
+]
+],
 "strokes": [
 "M 200 631 Q 233 574 226 433 Q 220 393 260 364 Q 273 357 275 367 Q 282 371 283 391 Q 286 407 279 462 Q 269 559 271 593 Q 274 609 267 621 Q 240 648 209 652 Q 205 655 200 648 Q 196 642 200 631 Z",
 "M 320 746 Q 369 679 370 383 Q 373 355 382 334 Q 389 324 398 330 Q 416 352 413 430 Q 413 710 414 717 Q 421 738 408 749 Q 392 762 362 774 Q 340 781 317 770 Q 305 760 320 746 Z",

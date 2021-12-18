@@ -9,94 +9,124 @@
 [
 "踢足球",
 2,
-"tīzúqiú",
-"to play football/soccer"
-],
-[
-"不足",
-5,
-"bùzú",
-"insufficient; not enough"
+"ti1 zu2 qiu2",
+"to play soccer"
 ],
 [
 "满足",
 5,
-"mǎnzú",
-"satisfy; meet (the needs of)"
+"mǎn zú",
+"to satisfy; to meet (the needs of); satisfied; content"
 ],
 [
-"充足",
-6,
-"chōngzú",
-"adequate; sufficient; abundant"
+"不足",
+5,
+"bù zú",
+"insufficient; lacking; deficiency; not enough; inadequate; not worth; cannot; should not"
 ],
 [
-"画蛇添足",
+"足以",
 6,
-"huàshétiānzú",
-"draw legs on a snake (idiom); to ruin something by adding something superfluous"
-],
-[
-"举足轻重",
-6,
-"jǔzúqīngzhòng",
-"a foot's move sways the balance; hold the balance of power; play a key role"
-],
-[
-"立足",
-6,
-"lìzú",
-"base oneself on; be established; have a footing"
+"zú yǐ",
+"sufficient to...; so much so that; so that"
 ],
 [
 "十足",
 6,
-"shízú",
-"full of; complete; 100 percent"
+"shí zú",
+"ample; complete; hundred percent; a pure shade (of some color)"
+],
+[
+"充足",
+6,
+"chōng zú",
+"adequate; sufficient; abundant"
 ],
 [
 "微不足道",
 6,
 "wēi bù zú dào",
-"negligible; insignificant; not worth mentioning"
+"negligible; insignificant"
+],
+[
+"立足",
+6,
+"lì zú",
+"to stand; to have a footing; to be established; to base oneself on"
+],
+[
+"举足轻重",
+6,
+"jǔ zú qīng zhòng",
+"to play a critical role (idiom); influential"
+],
+[
+"画蛇添足",
+6,
+"huà shé tiān zú",
+"lit. draw legs on a snake (idiom); fig. to ruin the effect by adding sth superfluous; to overdo it"
 ],
 [
 "知足常乐",
 6,
-"zhīzúchánglè",
-"content with what one has"
-],
-[
-"足以",
-6,
-"zúyǐ",
-"sufficient to ...; so much so that; sufficiently"
+"zhī zú cháng lè",
+"satisfied with what one has (idiom)"
 ]
 ],
 "extraWords": [
 [
+"足够",
+87.79,
+"zú gòu",
+"enough; sufficient"
+],
+[
 "足球",
 82.79,
-"zu2 qiu2",
+"zú qiú",
 "soccer ball; a football; CL:個|个[ge4]; soccer; football"
+],
+[
+"足协",
+15.24,
+"Zú xié",
+"Chinese Football Association"
+],
+[
+"足协",
+15.24,
+"zú xié",
+"soccer association; soccer federation; abbr. for 足球協會|足球协会[zu2 qiu2 xie2 hui4]"
 ],
 [
 "足足",
 7.4,
-"zu2 zu2",
+"zú zú",
 "fully; no less than; as much as; extremely"
 ],
 [
 "知足",
 6.84,
-"zhi1 zu2",
+"zhī zú",
 "content with one's situation; to know contentment (hence happiness)"
+],
+[
+"足坛",
+5.99,
+"zú tán",
+"soccer circles; soccer world"
 ],
 [
 "涉足",
 5.63,
-"she4 zu2",
+"shè zú",
 "to set foot in; to step into; to become involved for the first time"
+],
+[
+"足迹",
+5.23,
+"zú jì",
+"footprint; track; spoor"
 ]
 ],
 "strokes": [

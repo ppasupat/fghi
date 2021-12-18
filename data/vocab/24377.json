@@ -9,29 +9,90 @@
 [
 "弹钢琴",
 4,
-"tán gāngqín",
-"play the piano"
-],
-[
-"导弹",
-6,
-"dǎodàn",
-"guided missile; cruise missile"
-],
-[
-"弹性",
-6,
-"tánxìng",
-"flexibility; elasticity"
+"tan2 gang1 qin2",
+"to play the piano"
 ],
 [
 "子弹",
 6,
-"zǐdàn",
-"bullet; cartridge"
+"zǐ dàn",
+"bullet; CL:粒[li4],顆|颗[ke1],發|发[fa1]"
+],
+[
+"导弹",
+6,
+"dǎo dàn",
+"guided missile; cruise missile; missile; CL:枚[mei2]"
+],
+[
+"弹性",
+6,
+"tán xìng",
+"flexibility; elasticity"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"炸弹",
+67.61,
+"zhà dàn",
+"bomb; CL:枚[mei2],顆|颗[ke1]"
+],
+[
+"反弹",
+40.89,
+"fǎn tán",
+"to bounce; to bounce back; to boomerang; to ricochet; rebound (of stock market etc); bounce; backlash; negative repercussions"
+],
+[
+"核弹",
+13.74,
+"hé dàn",
+"nuclear warhead"
+],
+[
+"中弹",
+7.72,
+"zhòng dàn",
+"hit by a bullet; shot"
+],
+[
+"弹药",
+7.63,
+"dàn yào",
+"ammunition"
+],
+[
+"炮弹",
+6.36,
+"pào dàn",
+"artillery shell; CL:枚[mei2]"
+],
+[
+"弹壳",
+5.6,
+"dàn ké",
+"ammunition case"
+],
+[
+"原子弹",
+5.43,
+"yuán zǐ dàn",
+"atom bomb; atomic bomb; A-bomb"
+],
+[
+"手榴弹",
+5.34,
+"shǒu liú dàn",
+"hand grenade"
+],
+[
+"弹道",
+5.1,
+"dàn dào",
+"trajectory (of a projectile); ballistic curve"
+]
+],
 "strokes": [
 "M 335 570 Q 360 643 384 664 Q 408 688 386 703 Q 368 716 342 734 Q 324 747 280 723 Q 234 707 169 698 Q 157 698 159 692 Q 160 686 173 679 Q 186 672 242 680 Q 303 692 310 683 Q 317 676 307 643 Q 297 612 286 576 C 277 547 325 542 335 570 Z",
 "M 205 518 Q 212 518 221 520 Q 258 530 343 543 Q 353 544 353 553 Q 353 560 335 570 L 286 576 Q 282 576 280 574 Q 234 558 197 548 C 168 540 175 517 205 518 Z",

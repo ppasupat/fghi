@@ -9,35 +9,54 @@
 [
 "盖",
 5,
+"Gě",
+"surname Ge"
+],
+[
+"盖",
+5,
 "gài",
-"lid; top; cover; to build"
+"lid; top; cover; canopy; to cover; to conceal; to build"
+],
+[
+"膝盖",
+6,
+"xī gài",
+"knee; (Internet slang) to kneel down (in admiration)"
+],
+[
+"掩盖",
+6,
+"yǎn gài",
+"to conceal; to hide behind; to cover up"
 ],
 [
 "覆盖",
 6,
-"fùgài",
+"fù gài",
 "to cover"
 ],
 [
 "盖章",
 6,
-"gàizhāng",
-"affix one's seal; seal; stamp"
-],
-[
-"膝盖",
-6,
-"xīgài",
-"knee"
-],
-[
-"掩盖",
-6,
-"yǎngài",
-"conceal; cover up; hide behind"
+"gài zhāng",
+"to affix a seal; to stamp (a document); to sign off on sth"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"涵盖",
+8.59,
+"hán gài",
+"to cover; to comprise; to include"
+],
+[
+"覆盖率",
+5.5,
+"fù gài lu:4",
+"coverage"
+]
+],
 "strokes": [
 "M 344 760 Q 387 703 419 685 Q 432 681 443 693 Q 450 705 449 721 Q 440 772 360 795 L 359 796 Q 343 803 334 800 Q 327 799 329 787 Q 330 775 344 760 Z",
 "M 611 807 Q 598 780 534 695 Q 524 677 542 681 Q 599 717 658 762 Q 677 780 701 791 Q 723 803 711 821 Q 696 837 669 852 Q 644 865 630 862 Q 617 861 621 846 Q 625 827 611 807 Z",

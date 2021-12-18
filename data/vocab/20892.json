@@ -7,31 +7,128 @@
 },
 "words": [
 [
-"农村",
-5,
-"nóngcūn",
-"rural area; countryside"
-],
-[
 "农民",
 5,
-"nóngmín",
-"peasant"
+"nóng mín",
+"peasant; farmer; CL:個|个[ge4]"
 ],
 [
 "农业",
 5,
-"nóngyè",
+"nóng yè",
 "agriculture; farming"
+],
+[
+"农村",
+5,
+"nóng cūn",
+"rural area; village; CL:個|个[ge4]"
 ],
 [
 "农历",
 6,
-"nónglì",
-"agricultural calendar; lunar calendar"
+"nóng lì",
+"the traditional Chinese calendar; the lunar calendar"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"农场",
+29.39,
+"nóng chǎng",
+"farm"
+],
+[
+"农民工",
+29.24,
+"nóng mín gōng",
+"migrant worker (who moved from a rural area of China to a city to find work)"
+],
+[
+"农产品",
+26.45,
+"nóng chǎn pǐn",
+"agricultural produce"
+],
+[
+"农户",
+17.61,
+"nóng hù",
+"farmer; farmer household"
+],
+[
+"农药",
+14.38,
+"nóng yào",
+"agricultural chemical; farm chemical; pesticide"
+],
+[
+"农业部",
+10.53,
+"Nóng yè bù",
+"Ministry of Agriculture; Department of Agriculture"
+],
+[
+"农田",
+9.38,
+"nóng tián",
+"farmland; cultivated land"
+],
+[
+"贫下中农",
+8.94,
+"pín xià zhōng nóng",
+"(category defined by the Communist Party) poor and lower-middle peasants: farmers who, before land reform, possessed little or no land (poor peasants) and those who were barely able to support themselves with their own land (lower-middle peasants)"
+],
+[
+"农家",
+8.29,
+"Nóng jiā",
+"School of Agriculture, school of thought of the Warring States Period (475-221 BC)"
+],
+[
+"农家",
+8.29,
+"nóng jiā",
+"peasant family"
+],
+[
+"农作物",
+6.44,
+"nóng zuò wù",
+"(farm) crops"
+],
+[
+"农贸市场",
+5.42,
+"nóng mào shì chǎng",
+"farmer's market"
+],
+[
+"农具",
+5.26,
+"nóng jù",
+"farm implements; farm tools"
+],
+[
+"农机",
+5.24,
+"nóng jī",
+"agricultural machinery"
+],
+[
+"工农",
+5.06,
+"Gōng nóng",
+"Gongnong district of Hegang city 鶴崗|鹤岗[He4 gang3], Heilongjiang"
+],
+[
+"工农",
+5.06,
+"gōng nóng",
+"workers and peasants"
+]
+],
 "strokes": [
 "M 284 604 Q 274 626 263 636 Q 245 649 243 625 Q 249 592 182 515 Q 163 494 187 439 Q 200 414 220 439 Q 223 445 283 578 C 290 592 290 592 284 604 Z",
 "M 505 610 Q 658 638 700 635 Q 715 625 712 618 Q 712 615 681 545 Q 675 532 681 529 Q 688 525 703 536 Q 754 573 797 586 Q 831 598 831 606 Q 830 616 763 663 Q 741 679 669 664 Q 561 649 513 639 L 451 629 Q 417 625 379 618 Q 331 609 284 604 C 254 601 256 590 283 578 Q 307 563 332 570 Q 384 588 442 598 L 505 610 Z",

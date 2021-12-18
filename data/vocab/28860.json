@@ -9,17 +9,30 @@
 [
 "锻炼",
 3,
-"duànliàn",
-"to exercise; work out; toughen; to temper"
+"duàn liàn",
+"to toughen; to temper; to engage in physical exercise; to work out; (fig.) to develop one's skills; to train oneself"
 ],
 [
 "提炼",
 6,
-"tíliàn",
-"extract (ore, minerals, etc.); refine; purify"
+"tí liàn",
+"to extract (ore, minerals etc); to refine; to purify; to process"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"修炼",
+11.92,
+"xiū liàn",
+"(of Taoists) to practice austerities; to practice asceticism"
+],
+[
+"冶炼",
+5.26,
+"yě liàn",
+"to smelt metal"
+]
+],
 "strokes": [
 "M 116 570 Q 117 509 109 450 Q 105 414 133 391 Q 146 378 160 398 Q 173 420 173 454 Q 174 497 161 530 Q 154 561 137 579 Q 130 585 124 583 Q 117 579 116 570 Z",
 "M 297 511 Q 298 512 301 513 Q 389 574 431 596 Q 447 600 444 610 Q 438 625 422 642 Q 406 658 385 661 Q 372 661 372 643 Q 373 631 366 617 Q 342 586 298 536 C 278 513 271 496 297 511 Z",

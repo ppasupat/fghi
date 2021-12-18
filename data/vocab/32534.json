@@ -9,17 +9,84 @@
 [
 "编辑",
 5,
-"biānjí",
-"to edit; compile; editor"
+"biān jí",
+"to edit; to compile; editor; compiler"
 ],
 [
 "编织",
 6,
-"biānzhī",
-"to weave; to knit; to plait; to braid; to crochet"
+"biān zhī",
+"to weave; to knit; to plait; to braid; (fig.) to create (sth abstract, e.g. a dream, a lie etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"编制",
+38.42,
+"biān zhì",
+"to establish (a unit or department); staffing structure (excluding temporary and casual staff)"
+],
+[
+"编制",
+38.42,
+"biān zhì",
+"to weave; to plait; to compile; to put together (a lesson plan, budget etc)"
+],
+[
+"主编",
+13.53,
+"zhǔ biān",
+"editor in chief"
+],
+[
+"编号",
+12.25,
+"biān hào",
+"to number; numbering; serial number"
+],
+[
+"改编",
+11.18,
+"gǎi biān",
+"to adapt; to rearrange; to revise"
+],
+[
+"编写",
+10.26,
+"biān xiě",
+"to compile"
+],
+[
+"编排",
+10.08,
+"biān pái",
+"to arrange; to lay out"
+],
+[
+"编剧",
+9.56,
+"biān jù",
+"to write a play; scenario; dramatist; screenwriter"
+],
+[
+"编译",
+8.34,
+"biān yì",
+"to translate and edit; translator-editor; (computing) to compile (source code)"
+],
+[
+"编码",
+7.41,
+"biān mǎ",
+"to code; to encode; code"
+],
+[
+"编造",
+7.06,
+"biān zào",
+"to compile; to draw up; to fabricate; to invent; to concoct; to make up; to cook up"
+]
+],
 "strokes": [
 "M 294 497 Q 251 498 215 498 Q 181 497 199 518 Q 260 624 320 703 Q 333 719 331 727 Q 330 740 291 770 Q 275 783 258 779 Q 248 776 253 762 Q 271 722 190 573 Q 174 539 137 506 Q 119 493 120 481 Q 124 463 138 446 Q 148 436 160 442 Q 184 455 265 471 Q 269 472 275 471 C 305 473 324 496 294 497 Z",
 "M 275 471 Q 182 348 166 340 Q 153 331 157 318 Q 158 306 183 289 Q 193 277 207 289 Q 262 337 356 375 Q 374 381 375 389 Q 376 399 359 394 Q 307 381 245 358 Q 227 351 238 366 Q 355 528 409 571 Q 421 581 414 590 Q 404 608 373 626 Q 358 635 349 632 Q 340 629 342 614 Q 345 577 294 497 L 275 471 Z",

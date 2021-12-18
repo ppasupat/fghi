@@ -9,29 +9,36 @@
 [
 "高档",
 5,
-"gāodàng",
-"top quality; first rate; high class"
+"gāo dàng",
+"superior quality; high grade; top grade"
 ],
 [
 "搭档",
 6,
-"dādàng",
-"team up; cooperate; work together"
+"dā dàng",
+"to cooperate; partner"
 ],
 [
 "档案",
 6,
-"dàng'àn",
+"dàng àn",
 "file; record; archive"
 ],
 [
 "档次",
 6,
-"dàngcì",
-"grade; quality; class; level"
+"dàng cì",
+"grade; class; quality; level"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"文档",
+5.45,
+"wén dàng",
+"(computer) file"
+]
+],
 "strokes": [
 "M 339 534 Q 355 540 375 544 Q 411 554 416 559 Q 425 568 420 576 Q 413 588 382 594 Q 360 598 340 591 L 296 575 Q 202 545 128 534 Q 91 527 118 511 Q 157 490 230 507 Q 252 513 278 519 L 339 534 Z",
 "M 336 422 Q 337 474 339 534 L 340 591 Q 340 690 362 764 Q 377 789 351 807 Q 335 819 306 837 Q 282 855 261 839 Q 257 835 262 818 Q 295 769 295 720 Q 295 653 296 575 L 292 428 Q 285 221 275 175 Q 253 73 265 43 Q 269 30 275 14 Q 282 -4 290 -7 Q 296 -14 304 -5 Q 331 11 332 77 Q 331 117 336 394 L 336 422 Z",

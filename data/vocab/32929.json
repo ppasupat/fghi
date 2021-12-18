@@ -9,81 +9,117 @@
 [
 "股票",
 5,
-"gǔpiào",
-"shares; stock (market)"
-],
-[
-"股东",
-6,
-"gǔdōng",
-"stockholder; shareholder"
-],
-[
-"股份",
-6,
-"gǔfèn",
-"a share (in a company) stock"
+"gǔ piào",
+"share certificate; stock (finance)"
 ],
 [
 "屁股",
 6,
-"pìgu",
-"butt; rear; rump"
+"pì gu",
+"buttocks; bottom; butt; back part"
+],
+[
+"股份",
+6,
+"gǔ fèn",
+"a share (in a company); stock"
+],
+[
+"股东",
+6,
+"gǔ dōng",
+"shareholder; stockholder"
 ]
 ],
 "extraWords": [
 [
+"股权",
+86.02,
+"gǔ quán",
+"equity shares; stock right"
+],
+[
 "股市",
 70.11,
-"gu3 shi4",
+"gǔ shì",
 "stock market"
 ],
 [
 "控股",
 43.82,
-"kong4 gu3",
+"kòng gǔ",
 "to own a controlling number of shares in a company"
+],
+[
+"股价",
+41.82,
+"gǔ jià",
+"stock price; share price"
+],
+[
+"个股",
+29.44,
+"gè gǔ",
+"share (in a listed company)"
 ],
 [
 "股份有限公司",
 26.88,
-"gu3 fen4 you3 xian4 gong1 si1",
+"gǔ fèn yǒu xiàn gōng sī",
 "joint-stock limited company; corporation"
+],
+[
+"股东大会",
+25.98,
+"gǔ dōng dà huì",
+"general shareholders' meeting"
 ],
 [
 "股指",
 25.87,
-"gu3 zhi3",
+"gǔ zhǐ",
 "stock market index; share price index; abbr. for 股票指數|股票指数[gu3 piao4 zhi3 shu4]"
 ],
 [
 "持股",
 19.02,
-"chi2 gu3",
+"chí gǔ",
 "to hold shares"
 ],
 [
 "股本",
 17.45,
-"gu3 ben3",
+"gǔ běn",
 "capital stock; investment"
 ],
 [
 "股民",
 10.92,
-"gu3 min2",
+"gǔ mín",
 "stock investor; share trader"
 ],
 [
 "入股",
 8.68,
-"ru4 gu3",
+"rù gǔ",
 "to invest"
+],
+[
+"参股",
+7.24,
+"cān gǔ",
+"equity participation (finance)"
+],
+[
+"股票市场",
+6.63,
+"gǔ piào shì chǎng",
+"stock market; stock exchange"
 ],
 [
 "炒股",
 5.94,
-"chao3 gu3",
+"chǎo gǔ",
 "(coll.) to speculate in stocks"
 ]
 ],

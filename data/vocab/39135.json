@@ -7,71 +7,83 @@
 },
 "words": [
 [
-"粮食",
+"食物",
 5,
-"liángshi",
-"grain; food; cereals"
+"shí wù",
+"food; CL:種|种[zhong3]"
 ],
 [
 "零食",
 5,
-"língshí",
-"snack"
+"líng shí",
+"between-meal nibbles; snacks"
 ],
 [
-"食物",
+"粮食",
 5,
-"shíwù",
-"food"
-],
-[
-"废寝忘食",
-6,
-"fèiqǐnwàngshí",
-"to forget even sleeping and eating"
-],
-[
-"素食",
-6,
-"sùshí",
-"vegetables; vegetarian food"
+"liáng shi",
+"foodstuff; cereals; CL:種|种[zhong3]"
 ],
 [
 "饮食",
 6,
-"yǐnshí",
+"yǐn shí",
 "food and drink; diet"
+],
+[
+"素食",
+6,
+"sù shí",
+"vegetables; vegetarian food"
+],
+[
+"废寝忘食",
+6,
+"fèi qǐn wàng shí",
+"to neglect sleep and forget about food (idiom); to skip one's sleep and meals; to be completely wrapped up in one's work"
 ]
 ],
 "extraWords": [
 [
 "食品",
 115.2,
-"shi2 pin3",
+"shí pǐn",
 "foodstuff; food; provisions; CL:種|种[zhong3]"
 ],
 [
 "美食",
 25.19,
-"mei3 shi2",
+"měi shí",
 "culinary delicacy; fine food; gourmet food"
 ],
 [
 "食用",
 20.64,
-"shi2 yong4",
+"shí yòng",
 "food product; to use as food; edible"
 ],
 [
 "食堂",
 17.26,
-"shi2 tang2",
+"shí táng",
 "dining hall; CL:個|个[ge4],間|间[jian1]"
+],
+[
+"食欲",
+8.53,
+"shí yù",
+"appetite"
+],
+[
+"进食",
+6.65,
+"jìn shí",
+"to take a meal; to eat"
 ],
 [
 "食管",
 6.23,
-"shi2 guan3",
+"shí guǎn",
 "esophagus"
 ]
 ],

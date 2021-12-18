@@ -9,17 +9,30 @@
 [
 "欣赏",
 5,
-"xīnshǎng",
-"appreciate; enjoy; admire"
+"xīn shǎng",
+"to appreciate; to enjoy; to admire"
 ],
 [
 "奖赏",
 6,
-"jiǎngshǎng",
-"to reward"
+"jiǎng shǎng",
+"reward; prize; award"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"观赏",
+9.93,
+"guān shǎng",
+"to look at sth with pleasure; to watch (sth marvelous); ornamental"
+],
+[
+"赞赏",
+9.15,
+"zàn shǎng",
+"to admire; to praise; to appreciate"
+]
+],
 "strokes": [
 "M 525 677 Q 529 744 551 825 Q 555 835 538 848 Q 508 864 488 868 Q 475 872 468 864 Q 461 858 468 845 Q 486 823 487 673 C 487 643 523 647 525 677 Z",
 "M 347 744 Q 366 728 386 707 Q 398 697 411 697 Q 421 697 425 709 Q 429 722 421 747 Q 417 762 393 772 Q 335 790 324 787 Q 320 783 321 772 Q 324 762 347 744 Z",

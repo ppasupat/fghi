@@ -9,376 +9,544 @@
 [
 "努力",
 3,
-"nǔlì",
-"to work hard; to strive"
-],
-[
-"力气",
-4,
-"lìqi",
-"physical strength; effort"
+"nǔ lì",
+"great effort; to strive; to try hard"
 ],
 [
 "能力",
 4,
-"nénglì",
-"capability; capable; ability"
-],
-[
-"巧克力",
-4,
-"qiǎokèlì",
-"chocolate"
+"néng lì",
+"capability; ability; CL:個|个[ge4]"
 ],
 [
 "压力",
 4,
-"yālì",
-"pressure; stress"
+"yā lì",
+"pressure"
+],
+[
+"巧克力",
+4,
+"qiǎo kè lì",
+"chocolate (loanword); CL:塊|块[kuai4]"
+],
+[
+"力气",
+4,
+"lì qi",
+"strength; CL:把[ba3]"
+],
+[
+"力量",
+5,
+"lì liang",
+"power; force; strength"
 ],
 [
 "尽力",
 5,
 "jìn lì",
-"do one's best; to strive as much as possible"
-],
-[
-"精力",
-5,
-"jīnglì",
-"energy; vigor"
-],
-[
-"力量",
-5,
-"lìliang",
-"power; force; strength"
-],
-[
-"魅力",
-5,
-"mèilì",
-"charm; glamour; enchantment"
+"to strive one's hardest; to spare no effort"
 ],
 [
 "权力",
 5,
-"quánlì",
+"quán lì",
 "power; authority"
+],
+[
+"魅力",
+5,
+"mèi lì",
+"charm; fascination; glamor; charisma"
+],
+[
+"精力",
+5,
+"jīng lì",
+"energy"
 ],
 [
 "暴力",
 6,
-"bàolì",
-"violence; (use) force"
-],
-[
-"吃力",
-6,
-"chīlì",
-"strenuous; exhausted"
-],
-[
-"得力",
-6,
-"délì",
-"able; competent"
-],
-[
-"动力",
-6,
-"dònglì",
-"power; motion; impetus; driving force"
+"bào lì",
+"violence; force; violent"
 ],
 [
 "活力",
 6,
-"huólì",
-"energy; vitality; vigor"
+"huó lì",
+"energy; vitality; vigor; vital force"
 ],
 [
-"竭尽全力",
+"动力",
 6,
-"jiéjìn quánlì",
-"to spare no efforts; do one's utmost"
-],
-[
-"力求",
-6,
-"lìqiú",
-"make every effort; do one's best"
-],
-[
-"力所能及",
-6,
-"lìsuǒnéngjí",
-"within one's power; to the best of one's ability"
-],
-[
-"力争",
-6,
-"lìzhēng",
-"work hard; do all one can to; strive for/argue strongly"
-],
-[
-"魄力",
-6,
-"pòlì",
-"daring resolution; boldness; courage"
-],
-[
-"齐心协力",
-6,
-"qíxīnxiélì",
-"make concerted efforts"
-],
-[
-"潜力",
-6,
-"qiánlì",
-"potential; capacity"
-],
-[
-"全力以赴",
-6,
-"quán lì yǐ fù",
-"do at all costs; make an all-out effort"
+"dòng lì",
+"motive power; force; (fig.) motivation; impetus"
 ],
 [
 "实力",
 6,
-"shílì",
+"shí lì",
 "strength"
-],
-[
-"势力",
-6,
-"shìli",
-"power; influence"
-],
-[
-"视力",
-6,
-"shìlì",
-"vision; eyesight"
-],
-[
-"威力",
-6,
-"wēilì",
-"might; power that invokes fear"
 ],
 [
 "无能为力",
 6,
 "wú néng wéi lì",
-"incapable of action; powerless; impotent"
+"impotent (idiom); powerless; helpless"
 ],
 [
-"毅力",
+"潜力",
 6,
-"yìlì",
-"willpower; perseverance; will; stamina; tenacity"
+"qián lì",
+"potential; capacity"
 ],
 [
-"致力",
+"势力",
 6,
-"zhìlì",
-"work for; devote one's efforts"
+"shì li",
+"power; influence; a force (military, political etc)"
+],
+[
+"全力以赴",
+6,
+"quán lì yǐ fù",
+"to do at all costs; to make an all-out effort"
+],
+[
+"竭尽全力",
+6,
+"jié jìn quán lì",
+"to spare no effort (idiom); to do one's utmost"
+],
+[
+"威力",
+6,
+"wēi lì",
+"might; formidable power"
 ],
 [
 "智力",
 6,
-"zhìlì",
+"zhì lì",
 "intelligence; intellect"
+],
+[
+"视力",
+6,
+"shì lì",
+"vision; eyesight"
+],
+[
+"致力",
+6,
+"zhì lì",
+"to work for; to devote one's efforts to"
+],
+[
+"齐心协力",
+6,
+"qí xīn xié lì",
+"to work with a common purpose (idiom); to make concerted efforts; to pull together; to work as one"
+],
+[
+"得力",
+6,
+"dé lì",
+"able; capable; competent; efficient"
+],
+[
+"力所能及",
+6,
+"lì suǒ néng jí",
+"as far as one's capabilities extend (idiom); to the best of one's ability; within one's powers"
+],
+[
+"毅力",
+6,
+"yì lì",
+"perseverance; willpower"
+],
+[
+"吃力",
+6,
+"chī lì",
+"to entail strenuous effort; to toil at a task; strenuous; laborious; strain"
 ],
 [
 "自力更生",
 6,
 "zì lì gēng shēng",
-"(idiom) self reliance"
+"regeneration through one's own effort (idiom); self-reliance"
+],
+[
+"力求",
+6,
+"lì qiú",
+"to make every effort to; striving to do one's best"
+],
+[
+"魄力",
+6,
+"pò lì",
+"courage; daring; boldness; resolution; drive"
+],
+[
+"力争",
+6,
+"lì zhēng",
+"to work hard for; to do all one can; to contend strongly"
 ]
 ],
 "extraWords": [
 [
 "力度",
 68.43,
-"li4 du4",
+"lì dù",
 "strength; vigor; efforts; (music) dynamics"
 ],
 [
 "大力",
 62.39,
-"da4 li4",
+"dà lì",
 "energetically; vigorously"
+],
+[
+"电力",
+49.83,
+"diàn lì",
+"electrical power; electricity"
 ],
 [
 "主力",
 49.24,
-"zhu3 li4",
+"zhǔ lì",
 "main force; main strength of an army"
+],
+[
+"竞争力",
+41.29,
+"jìng zhēng lì",
+"competitive strength; competitiveness"
 ],
 [
 "有力",
 35.06,
-"you3 li4",
+"yǒu lì",
 "powerful; forceful; vigorous"
+],
+[
+"影响力",
+34.8,
+"yǐng xiǎng lì",
+"influence; impact"
 ],
 [
 "注意力",
 33.3,
-"zhu4 yi4 li4",
+"zhù yì lì",
 "attention"
 ],
 [
 "全力",
 31.5,
-"quan2 li4",
+"quán lì",
 "with all one's strength; full strength; all-out (effort); fully (support)"
+],
+[
+"劳动力",
+29.56,
+"láo dòng lì",
+"labor force; manpower"
+],
+[
+"生产力",
+24.05,
+"shēng chǎn lì",
+"production capability; productive force; productivity"
 ],
 [
 "阻力",
 20.88,
-"zu3 li4",
+"zǔ lì",
 "resistance; drag"
+],
+[
+"无力",
+20.74,
+"wú lì",
+"powerless; lacking strength"
 ],
 [
 "有能力",
 17.87,
-"you3 neng2 li4",
+"yǒu néng lì",
 "able"
 ],
 [
 "吸引力",
 16.92,
-"xi1 yin3 li4",
+"xī yǐn lì",
 "attractive force (such as gravitation); sex appeal; attractiveness"
 ],
 [
 "用力",
 16.83,
-"yong4 li4",
+"yòng lì",
 "to exert oneself physically"
 ],
 [
 "人力",
 16.25,
-"ren2 li4",
+"rén lì",
 "manpower; labor power"
+],
+[
+"体力",
+15.64,
+"tǐ lì",
+"physical strength; physical power"
+],
+[
+"着力",
+14.72,
+"zhuó lì",
+"to put effort into sth; to try really hard"
+],
+[
+"人力资源",
+14.15,
+"rén lì zī yuán",
+"human resources"
 ],
 [
 "魔力",
 12.4,
-"mo2 li4",
+"mó lì",
 "magic; magic power"
 ],
 [
 "功力",
 11.62,
-"gong1 li4",
+"gōng lì",
 "merit; efficacy; competence; skill; power"
+],
+[
+"战斗力",
+10.18,
+"zhàn dòu lì",
+"fighting strength"
+],
+[
+"强力",
+10.07,
+"qiáng lì",
+"powerful"
 ],
 [
 "兵力",
 10.03,
-"bing1 li4",
+"bīng lì",
 "military strength; armed forces; troops"
+],
+[
+"财力",
+9.75,
+"cái lì",
+"financial resources; financial ability"
+],
+[
+"应力",
+8.82,
+"yìng lì",
+"stress (physics)"
+],
+[
+"听力",
+8.78,
+"tīng lì",
+"hearing; listening ability"
+],
+[
+"强有力",
+8.59,
+"qiáng yǒu lì",
+"strong; forceful"
 ],
 [
 "力克",
 8.47,
-"li4 ke4",
+"lì kè",
 "to prevail with difficulty"
 ],
 [
 "生命力",
 8.4,
-"sheng1 ming4 li4",
+"shēng mìng lì",
 "vitality"
 ],
 [
 "合力",
 8.2,
-"he2 li4",
+"hé lì",
 "to cooperate"
+],
+[
+"极力",
+8.08,
+"jí lì",
+"to make a supreme effort; at all costs"
 ],
 [
 "火力",
 8.05,
-"huo3 li4",
+"huǒ lì",
 "fire; firepower"
+],
+[
+"劳力",
+7.97,
+"láo lì",
+"labor; able-bodied worker; laborer; work force"
+],
+[
+"力学",
+7.81,
+"lì xué",
+"mechanics; to study hard"
+],
+[
+"奋力",
+7.56,
+"fèn lì",
+"to do everything one can; to spare no effort; to strive"
+],
+[
+"国力",
+7.05,
+"guó lì",
+"a nation's power"
+],
+[
+"张力",
+6.84,
+"zhāng lì",
+"tension"
 ],
 [
 "效力",
 6.77,
-"xiao4 li4",
+"xiào lì",
 "effectiveness; positive effect; to serve (in some capacity)"
 ],
 [
 "警力",
 6.68,
-"jing3 li4",
+"jǐng lì",
 "police force; police officers"
 ],
 [
 "想象力",
 6.65,
-"xiang3 xiang4 li4",
+"xiǎng xiàng lì",
 "imagination"
 ],
 [
 "乏力",
 6.48,
-"fa2 li4",
+"fá lì",
 "lacking in strength; weak; feeble"
 ],
 [
 "武力",
 6.35,
-"wu3 li4",
+"wǔ lì",
 "military force"
 ],
 [
 "免疫力",
 6.3,
-"mian3 yi4 li4",
+"miǎn yì lì",
 "immunity"
+],
+[
+"创造力",
+6.21,
+"chuàng zào lì",
+"ingenuity; creativity"
+],
+[
+"说服力",
+6.08,
+"shuō fú lì",
+"persuasiveness"
 ],
 [
 "不力",
 6.06,
-"bu4 li4",
+"bù lì",
 "not to do one's best; not to exert oneself"
 ],
 [
 "凝聚力",
 5.86,
-"ning2 ju4 li4",
+"níng jù lì",
 "cohesion; cohesiveness; cohesive"
+],
+[
+"尽力而为",
+5.78,
+"jìn lì ér wéi",
+"to try one's utmost; to strive"
 ],
 [
 "接力",
 5.76,
-"jie1 li4",
+"jiē lì",
 "relay"
 ],
 [
 "物力",
 5.74,
-"wu4 li4",
+"wù lì",
 "physical resources (as opposed to labor resources)"
 ],
 [
 "重力",
 5.69,
-"zhong4 li4",
+"zhòng lì",
 "gravity"
+],
+[
+"卖力",
+5.54,
+"mài lì",
+"to work hard; to do one's very best; to throw oneself into the task at hand"
+],
+[
+"风力",
+5.32,
+"fēng lì",
+"wind force; wind power"
 ],
 [
 "竭力",
 5.26,
-"jie2 li4",
+"jié lì",
 "to do one's utmost"
+],
+[
+"判断力",
+5.22,
+"pàn duàn lì",
+"ability to judge; judgment"
+],
+[
+"购买力",
+5.1,
+"gòu mǎi lì",
+"purchasing power"
 ]
 ],
 "strokes": [

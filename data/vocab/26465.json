@@ -9,59 +9,108 @@
 [
 "面条",
 2,
-"miàntiáo",
+"miàn tiáo",
 "noodles"
 ],
 [
 "条",
 3,
 "tiáo",
-"strip; (mw for long thin objects); item"
+"strip; item; article; clause (of law or treaty); classifier for long thin things (ribbon, river, road, trousers etc)"
 ],
 [
 "条件",
 4,
-"tiáojiàn",
-"condition; circumstances; prerequisite"
+"tiáo jiàn",
+"condition; circumstances; term; factor; requirement; prerequisite; qualification; CL:個|个[ge4]"
 ],
 [
 "苗条",
 5,
-"miáotiao",
-"slim; slender"
-],
-[
-"便条",
-6,
-"biàntiáo",
-"informal note"
+"miáo tiao",
+"(of a woman) slim; slender; graceful"
 ],
 [
 "条款",
 6,
-"tiáokuǎn",
-"clause (of contract or law)"
-],
-[
-"条理",
-6,
-"tiáolǐ",
-"consecutive; arrangement; orderliness"
+"tiáo kuǎn",
+"clause (of contract or law); CL:項|项[xiang4]"
 ],
 [
 "条约",
 6,
-"tiáoyuē",
-"treaty; pact"
+"tiáo yuē",
+"treaty; pact; CL:個|个[ge4]"
+],
+[
+"便条",
+6,
+"biàn tiáo",
+"(informal) note; CL:張|张[zhang1],個|个[ge4]"
+],
+[
+"条理",
+6,
+"tiáo lǐ",
+"arrangement; order; tidiness"
 ],
 [
 "有条不紊",
 6,
-"yǒutiáobùwěn",
-"in an orderly way; methodically; systematically; methodical"
+"yǒu tiáo bù wěn",
+"regular and thorough (idiom); methodically arranged"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"条例",
+44.08,
+"tiáo lì",
+"regulations; rules; code of conduct; ordinances; statutes"
+],
+[
+"条子",
+12.25,
+"tiáo zi",
+"short note; slip of paper; stripe; (slang) cop; (old) prostitute"
+],
+[
+"纸条",
+11.86,
+"zhǐ tiáo",
+"slip of paper"
+],
+[
+"线条",
+11.73,
+"xiàn tiáo",
+"line (in drawing, calligraphy etc); the lines or contours of a three-dimensional object (hairstyle, clothing, car etc)"
+],
+[
+"薯条",
+10.82,
+"shǔ tiáo",
+"french fries; french fried potatoes; chips"
+],
+[
+"条纹",
+6.83,
+"tiáo wén",
+"stripe"
+],
+[
+"无条件",
+6.15,
+"wú tiáo jiàn",
+"unconditional"
+],
+[
+"链条",
+5.59,
+"liàn tiáo",
+"chain; CL:根[gen1],條|条[tiao2]"
+]
+],
 "strokes": [
 "M 434 709 Q 453 739 489 759 Q 499 766 497 780 Q 496 792 475 817 Q 454 839 438 842 Q 422 843 424 823 Q 439 751 207 558 Q 197 551 194 546 Q 188 536 201 536 Q 240 536 350 632 L 362 642 Q 387 664 415 690 L 434 709 Z",
 "M 542 538 Q 587 587 636 651 Q 654 675 678 689 Q 693 695 693 703 Q 694 715 670 732 Q 640 756 627 757 Q 617 757 606 751 Q 509 718 440 711 Q 436 711 434 709 C 404 704 386 699 415 690 Q 460 666 569 705 Q 585 708 591 702 Q 595 698 576 663 Q 548 614 503 566 L 479 542 Q 361 425 175 371 Q 166 370 166 365 Q 166 361 173 359 Q 278 341 438 447 Q 468 471 515 511 L 542 538 Z",

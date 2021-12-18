@@ -9,53 +9,174 @@
 [
 "怎么样",
 1,
-"zěnmeyàng",
-"how about?; how is/was it?"
+"zěn me yàng",
+"how?; how about?; how was it?; how are things?"
 ],
 [
 "一样",
 3,
-"yíyàng",
-"the same; alike; equal to"
+"yī yàng",
+"same; like; equal to; the same as; just like"
 ],
 [
 "样子",
 4,
-"yàngzi",
-"manner; air; appearance; looks"
+"yàng zi",
+"appearance; manner; pattern; model"
 ],
 [
 "样式",
 5,
-"yàngshì",
-"type; style; form"
-],
-[
-"榜样",
-6,
-"bǎngyàng",
-"example; model"
+"yàng shì",
+"type; style"
 ],
 [
 "模样",
 6,
-"múyàng",
-"appearance; form; approximation"
+"mú yàng",
+"look; style; appearance; approximation; about; CL:個|个[ge4]; also pr. [mo2 yang4]"
+],
+[
+"榜样",
+6,
+"bǎng yàng",
+"example; model; CL:個|个[ge4]"
 ],
 [
 "样品",
 6,
-"yàngpǐn",
+"yàng pǐn",
 "sample; specimen"
 ],
 [
 "照样",
 6,
-"zhàoyàng",
-"as before; (same) as usual"
+"zhào yàng",
+"as before; (same) as usual; in the same manner; still; nevertheless"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"这样",
+1916.59,
+"zhè yàng",
+"this kind of; so; this way; like this; such"
+],
+[
+"那样",
+521.51,
+"nà yàng",
+"that kind; that sort"
+],
+[
+"怎样",
+284.05,
+"zěn yàng",
+"how; what kind"
+],
+[
+"同样",
+139.19,
+"tóng yàng",
+"same; equal; equivalent"
+],
+[
+"什么样",
+88.03,
+"shén me yàng",
+"what kind?; what sort?; what appearance?"
+],
+[
+"不一样",
+50.47,
+"bù yī yàng",
+"different; distinctive; unlike"
+],
+[
+"不管怎样",
+37.83,
+"bù guǎn zěn yàng",
+"in any case; no matter what"
+],
+[
+"样本",
+20.48,
+"yàng běn",
+"sample; specimen"
+],
+[
+"一模一样",
+15.74,
+"yī mú yī yàng",
+"exactly the same (idiom); carbon copy; also pr. [yi1 mo2 yi1 yang4]"
+],
+[
+"花样",
+12.19,
+"huā yàng",
+"pattern; way of doing sth; trick; ruse; fancy-style (as in 花樣滑冰|花样滑冰[hua1 yang4 hua2 bing1] figure skating)"
+],
+[
+"各种各样",
+11.52,
+"gè zhǒng gè yàng",
+"various kinds; all sorts"
+],
+[
+"字样",
+9.91,
+"zì yàng",
+"model or template character; written slogan or phrase; mention (e.g. \"air mail\" 航空 on a letter, \"first draft\" 初稿 on a document etc)"
+],
+[
+"多样化",
+8.51,
+"duō yàng huà",
+"diversification; to diversify"
+],
+[
+"多样",
+7.28,
+"duō yàng",
+"diverse; diversity; manifold"
+],
+[
+"多样性",
+6.64,
+"duō yàng xìng",
+"variegation; diversity"
+],
+[
+"看样子",
+6.56,
+"kàn yàng zi",
+"it seems; it looks as if"
+],
+[
+"像样",
+6.2,
+"xiàng yàng",
+"presentable; decent; up to par"
+],
+[
+"样板",
+6.12,
+"yàng bǎn",
+"template; prototype; model; example"
+],
+[
+"抽样",
+5.88,
+"chōu yàng",
+"sample; sampling"
+],
+[
+"两样",
+5.24,
+"liǎng yàng",
+"two kinds; difference"
+]
+],
 "strokes": [
 "M 327 535 Q 408 565 409 565 Q 416 572 412 581 Q 405 591 375 597 Q 350 601 329 591 L 286 573 Q 177 537 106 525 Q 72 516 98 502 Q 144 481 193 498 Q 230 508 271 519 L 327 535 Z",
 "M 325 450 Q 325 490 327 535 L 329 591 Q 330 684 349 746 Q 358 761 355 774 Q 348 784 294 817 Q 272 833 251 819 Q 247 815 252 799 Q 285 750 285 701 Q 285 641 286 573 L 282 419 Q 278 337 277 250 Q 273 172 251 101 Q 239 58 265 2 Q 271 -16 279 -19 Q 285 -26 292 -17 Q 299 -13 310 7 Q 320 32 319 62 Q 318 104 324 418 L 325 450 Z",

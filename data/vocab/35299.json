@@ -7,162 +7,216 @@
 },
 "words": [
 [
-"解决",
+"了解",
 3,
-"jiějué",
-"settle (a dispute); resolve; solve"
+"liǎo jiě",
+"to understand; to realize; to find out"
 ],
 [
 "了解",
 3,
-"liǎojiě",
-"comprehend; understand; know; find out"
+"liǎo jiě",
+"to understand; to realize; to find out"
+],
+[
+"解决",
+3,
+"jiě jué",
+"to settle (a dispute); to resolve; to solve; to dispose of; to dispatch"
 ],
 [
 "解释",
 4,
-"jiěshì",
-"to explain"
+"jiě shì",
+"explanation; to explain; to interpret; to resolve; CL:個|个[ge4]"
 ],
 [
 "理解",
 4,
-"lǐjiě",
-"comprehend; understand"
+"lǐ jiě",
+"to comprehend; to understand; comprehension; understanding"
 ],
 [
 "缓解",
 5,
-"huǎnjiě",
-"to alleviate"
-],
-[
-"辩解",
-6,
-"biànjiě",
-"explain; justify; defend (a point of view, etc.)"
-],
-[
-"分解",
-6,
-"fēnjiě",
-"to decompose; to resolve; to break down"
-],
-[
-"和解",
-6,
-"héjiě",
-"settlement; to become reconciled"
-],
-[
-"见解",
-6,
-"jiànjiě",
-"view; opinion; understanding"
-],
-[
-"解除",
-6,
-"jiěchú",
-"remove; relieve (someone of their duties); sack; get rid of"
-],
-[
-"解放",
-6,
-"jiěfàng",
-"liberate"
+"huǎn jiě",
+"to bring relief; to alleviate (a crisis); to dull (a pain)"
 ],
 [
 "解雇",
 6,
-"jiěgù",
-"fire; lay off; dismiss from"
+"jiě gù",
+"to fire; to sack; to dismiss; to terminate employment"
 ],
 [
-"解剖",
+"解除",
 6,
-"jiěpōu",
-"dissect; analyze; anatomy"
-],
-[
-"解散",
-6,
-"jiěsàn",
-"dismiss; dissolve; disband"
-],
-[
-"解体",
-6,
-"jiětǐ",
-"disintegrate"
-],
-[
-"谅解",
-6,
-"liàngjiě",
-"understanding; make an allowance for; forgive"
-],
-[
-"溶解",
-6,
-"róngjiě",
-"dissolve; solution"
-],
-[
-"调解",
-6,
-"tiáojiě",
-"mediation; bring together to an agreement"
-],
-[
-"瓦解",
-6,
-"wǎjiě",
-"collapse; disintegrate; crumble"
+"jiě chú",
+"to remove; to sack; to get rid of; to relieve (sb of their duties); to free; to lift (an embargo); to rescind (an agreement)"
 ],
 [
 "误解",
 6,
-"wùjiě",
-"misunderstand; misread"
+"wù jiě",
+"to misunderstand; to misread; misunderstanding"
+],
+[
+"解放",
+6,
+"jiě fàng",
+"to liberate; to emancipate; liberation; refers to the Communists' victory over the Nationalists in 1949; CL:次[ci4]"
+],
+[
+"和解",
+6,
+"hé jiě",
+"to settle (a dispute out of court); to reconcile; settlement; conciliation; to become reconciled"
+],
+[
+"解散",
+6,
+"jiě sàn",
+"to dissolve; to disband"
+],
+[
+"解剖",
+6,
+"jiě pōu",
+"to dissect (an animal); to analyze; anatomy"
+],
+[
+"辩解",
+6,
+"biàn jiě",
+"to explain; to justify; to defend (a point of view etc); to provide an explanation; to try to defend oneself"
+],
+[
+"分解",
+6,
+"fēn jiě",
+"to resolve; to decompose; to break down"
+],
+[
+"见解",
+6,
+"jiàn jiě",
+"opinion; view; understanding"
+],
+[
+"谅解",
+6,
+"liàng jiě",
+"to understand; to make allowances for; understanding"
+],
+[
+"瓦解",
+6,
+"wǎ jiě",
+"to collapse; to disintegrate; to crumble"
+],
+[
+"调解",
+6,
+"tiáo jiě",
+"to mediate; to bring parties to an agreement"
+],
+[
+"溶解",
+6,
+"róng jiě",
+"to dissolve"
+],
+[
+"解体",
+6,
+"jiě tǐ",
+"to break up into components; to disintegrate; to collapse; to crumble"
 ]
 ],
 "extraWords": [
 [
+"解放军",
+24.34,
+"Jiě fàng jūn",
+"People's Liberation Army (PRC armed forces)"
+],
+[
+"解开",
+20.24,
+"jiě kāi",
+"to untie; to undo; to solve (a mystery)"
+],
+[
 "化解",
 13.88,
-"hua4 jie3",
+"huà jiě",
 "to dissolve; to resolve (contradictions); to dispel (doubts); to iron out (difficulties); to defuse (conflicts); to neutralize (fears)"
+],
+[
+"解脱",
+12.13,
+"jiě tuō",
+"to untie; to free; to absolve of; to get free of; to extirpate oneself; (Buddhism) to free oneself of worldly worries"
+],
+[
+"解说",
+11.94,
+"jiě shuō",
+"to explain; to comment"
+],
+[
+"解读",
+11.47,
+"jiě dú",
+"to decipher; to decode; to interpret"
 ],
 [
 "不解",
 11.39,
-"bu4 jie3",
+"bù jiě",
 "to not understand; to be puzzled by; indissoluble"
+],
+[
+"讲解",
+10.83,
+"jiǎng jiě",
+"to explain"
 ],
 [
 "解答",
 10.48,
-"jie3 da2",
+"jiě dá",
 "answer; explanation; solution (to a math equation)"
 ],
 [
 "解救",
 8.4,
-"jie3 jiu4",
+"jiě jiù",
 "to rescue; to help out of difficulties; to save the situation"
+],
+[
+"中国人民解放军",
+7.46,
+"Zhōng guó Rén mín Jiě fàng jūn",
+"Chinese People's Liberation Army (PLA)"
 ],
 [
 "破解",
 7.07,
-"po4 jie3",
+"pò jiě",
 "to break (a bond, constraint etc); to explain; to unravel; to decipher; to decode; to crack (software)"
 ],
 [
 "解析",
 6.26,
-"jie3 xi1",
+"jiě xī",
 "to analyze; to resolve; (math.) analysis; analytic"
+],
+[
+"电解",
+5.15,
+"diàn jiě",
+"electrolysis"
 ]
 ],
 "strokes": [

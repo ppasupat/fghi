@@ -9,76 +9,118 @@
 [
 "病毒",
 5,
-"bìngdú",
+"bìng dú",
 "virus"
 ],
 [
 "毒品",
 6,
-"dúpǐn",
+"dú pǐn",
 "drugs; narcotics; poison"
 ],
 [
 "消毒",
 6,
 "xiāo dú",
-"disinfect; sterilize"
+"to disinfect; to sterilize"
 ]
 ],
 "extraWords": [
 [
 "吸毒",
 29.54,
-"xi1 du2",
+"xī dú",
 "to take drugs"
 ],
 [
 "中毒",
 22.38,
-"zhong4 du2",
+"zhòng dú",
 "to be poisoned; poisoning"
+],
+[
+"毒气",
+16.78,
+"dú qì",
+"poison gas; toxic gas; manifestation of passion, anger etc (Buddhism)"
+],
+[
+"毒贩",
+16.31,
+"dú fàn",
+"drug dealer; drug trafficker"
+],
+[
+"毒药",
+10.61,
+"dú yào",
+"poison"
+],
+[
+"贩毒",
+9.81,
+"fàn dú",
+"to traffic narcotics; drugs trade; opium trade"
 ],
 [
 "毒性",
 9.7,
-"du2 xing4",
+"dú xìng",
 "toxicity"
 ],
 [
 "有毒",
 9.1,
-"you3 du2",
+"yǒu dú",
 "poisonous"
 ],
 [
 "戒毒",
 7.66,
-"jie4 du2",
+"jiè dú",
 "to kick a drug habit; to abstain from drugs"
 ],
 [
 "毒素",
 7.5,
-"du2 su4",
+"dú sù",
 "poison"
 ],
 [
 "禁毒",
 6.29,
-"jin4 du2",
+"jìn dú",
 "drug prohibition"
+],
+[
+"毒瘾",
+6.05,
+"dú yǐn",
+"drug addiction"
 ],
 [
 "毒蛇",
 6.02,
-"du2 she2",
+"dú shé",
 "viper"
+],
+[
+"恶毒",
+5.93,
+"è dú",
+"malicious"
 ],
 [
 "下毒",
 5.87,
-"xia4 du2",
+"xià dú",
 "to put poison in sth; to poison"
+],
+[
+"缉毒",
+5.51,
+"jī dú",
+"to counter narcotics trafficking; drug enforcement"
 ]
 ],
 "strokes": [

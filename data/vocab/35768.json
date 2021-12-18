@@ -7,37 +7,86 @@
 },
 "words": [
 [
-"许多",
-4,
-"xǔduō",
-"many; a lot; much"
-],
-[
 "也许",
 4,
-"yěxǔ",
-"perhaps; probably; maybe"
+"yě xǔ",
+"perhaps; maybe"
 ],
 [
 "允许",
 4,
-"yǔnxǔ",
-"to permit; allow"
+"yǔn xǔ",
+"to permit; to allow"
+],
+[
+"许多",
+4,
+"xǔ duō",
+"many; a lot of; much"
 ],
 [
 "或许",
 5,
-"huòxǔ",
+"huò xǔ",
 "perhaps; maybe"
 ],
 [
 "许可",
 6,
-"xǔkě",
-"allow; permit; permission"
+"xǔ kě",
+"to allow; to permit"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"不许",
+63.49,
+"bù xǔ",
+"not to allow; must not; can't"
+],
+[
+"许可证",
+19.29,
+"xǔ kě zhèng",
+"license; authorization; permit"
+],
+[
+"少许",
+9.7,
+"shǎo xǔ",
+"a little; a few"
+],
+[
+"特许",
+8.53,
+"tè xǔ",
+"license; licensed; concession; concessionary"
+],
+[
+"许久",
+6.97,
+"xǔ jiǔ",
+"for a long time; for ages"
+],
+[
+"些许",
+6.2,
+"xiē xǔ",
+"a few; a little; a bit"
+],
+[
+"许诺",
+5.66,
+"xǔ nuò",
+"promise; pledge"
+],
+[
+"许愿",
+5.49,
+"xǔ yuàn",
+"to make a wish; to make a vow; to promise a reward"
+]
+],
 "strokes": [
 "M 299 749 Q 333 724 369 692 Q 385 679 401 681 Q 411 682 417 696 Q 421 712 410 743 Q 403 765 366 780 Q 281 808 268 799 Q 262 795 265 781 Q 269 771 299 749 Z",
 "M 159 497 Q 108 479 81 477 Q 65 477 63 469 Q 59 460 71 452 Q 114 430 141 441 Q 270 502 273 502 Q 276 502 279 499 Q 289 493 284 467 Q 284 274 245 145 Q 229 114 270 63 L 272 61 Q 284 48 293 55 Q 302 62 313 87 Q 353 139 436 227 Q 449 239 446 246 Q 445 255 433 245 Q 393 218 352 189 Q 306 150 314 208 Q 313 280 339 459 Q 343 484 365 508 Q 378 518 368 532 Q 356 548 317 565 Q 304 571 287 560 Q 205 514 159 497 Z",

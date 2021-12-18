@@ -9,59 +9,198 @@
 [
 "书",
 1,
+"Shū",
+"abbr. for 書經|书经[Shu1 jing1]"
+],
+[
+"书",
+1,
 "shū",
-"book; letter"
+"book; letter; document; CL:本[ben3],冊|册[ce4],部[bu4]; to write"
 ],
 [
 "图书馆",
 3,
-"túshūguǎn",
-"library"
+"tú shū guǎn",
+"library; CL:家[jia1],個|个[ge4]"
 ],
 [
 "秘书",
 5,
-"mìshu",
+"mì shū",
 "secretary"
 ],
 [
 "书架",
 5,
-"shūjià",
-"bookshelf"
-],
-[
-"书法",
-6,
-"shūfǎ",
-"calligraphy; penmanship"
-],
-[
-"书籍",
-6,
-"shūjí",
-"books; works"
-],
-[
-"书记",
-6,
-"shūji",
-"secretary; clerk"
+"shū jià",
+"bookshelf; CL:個|个[ge4]"
 ],
 [
 "书面",
 6,
-"shūmiàn",
-"in writing; written (guarantee, etc.)"
+"shū miàn",
+"in writing; written"
 ],
 [
 "证书",
 6,
-"zhèngshū",
-"certificate; credentials"
+"zhèng shū",
+"credentials; certificate"
+],
+[
+"书籍",
+6,
+"shū jí",
+"books; works"
+],
+[
+"书法",
+6,
+"shū fǎ",
+"calligraphy; handwriting; penmanship"
+],
+[
+"书记",
+6,
+"shū ji",
+"secretary (chief official of a branch of a socialist or communist party); clerk; scribe"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"读书",
+39.61,
+"dú shū",
+"to read a book; to study; to attend school"
+],
+[
+"图书",
+24.39,
+"tú shū",
+"books (in a library or bookstore); CL:本[ben3],冊|册[ce4],部[bu4]"
+],
+[
+"秘书长",
+23.33,
+"mì shū zhǎng",
+"secretary-general"
+],
+[
+"副书记",
+21.61,
+"fù shū ji",
+"deputy secretary"
+],
+[
+"看书",
+16.92,
+"kàn shū",
+"to read; to study"
+],
+[
+"总书记",
+14.89,
+"zǒng shū ji",
+"general secretary (of the Communist Party)"
+],
+[
+"书店",
+11.48,
+"shū diàn",
+"bookstore; CL:家[jia1]"
+],
+[
+"说明书",
+11.28,
+"shuō míng shū",
+"(technical) manual; (book of) directions; synopsis (of a play or film); specification (patent); CL:本[ben3]"
+],
+[
+"书写",
+9.5,
+"shū xiě",
+"to write"
+],
+[
+"通知书",
+8.63,
+"tōng zhī shū",
+"written notice"
+],
+[
+"教科书",
+7.94,
+"jiào kē shū",
+"textbook; CL:本[ben3]"
+],
+[
+"书画",
+7.62,
+"shū huà",
+"painting and calligraphy"
+],
+[
+"书房",
+7.46,
+"shū fáng",
+"study (room); studio; CL:間|间[jian1]"
+],
+[
+"副秘书长",
+7.03,
+"fù mì shū zhǎng",
+"vice-secretary"
+],
+[
+"书包",
+6.52,
+"shū bāo",
+"schoolbag; satchel; bookbag; CL:個|个[ge4],隻|只[zhi1]"
+],
+[
+"教书",
+6.02,
+"jiāo shū",
+"to teach (in a school)"
+],
+[
+"文书",
+5.87,
+"wén shū",
+"document; official correspondence; secretary; secretariat"
+],
+[
+"书生",
+5.42,
+"shū shēng",
+"scholar; intellectual; egghead"
+],
+[
+"尚书",
+5.36,
+"Shàng shū",
+"same as 書經|书经[Shu1 jing1] Book of History"
+],
+[
+"尚书",
+5.36,
+"shàng shū",
+"high official; government minister"
+],
+[
+"书呆子",
+5.34,
+"shū dāi zi",
+"bookworm; pedant; bookish fool"
+],
+[
+"书本",
+5.19,
+"shū běn",
+"book; CL:本[ben3]"
+]
+],
 "strokes": [
 "M 681 421 Q 708 524 748 557 Q 766 576 750 596 Q 674 654 614 629 Q 572 616 534 604 L 483 593 Q 398 578 312 571 Q 294 570 295 560 Q 298 550 318 544 Q 345 531 383 542 Q 431 551 482 559 L 534 568 Q 570 575 607 582 Q 635 588 646 576 Q 658 566 655 543 Q 645 474 629 418 C 621 389 673 392 681 421 Z",
 "M 531 375 Q 769 399 794 379 Q 801 372 800 357 Q 760 191 741 170 Q 731 154 714 161 Q 683 167 649 174 Q 619 178 640 158 Q 701 103 726 65 Q 733 49 749 56 Q 779 72 807 151 Q 853 319 877 339 Q 896 361 889 370 Q 882 386 826 427 Q 807 445 788 439 Q 754 429 694 423 Q 687 423 681 421 L 629 418 Q 577 415 531 410 L 478 405 Q 375 398 323 385 Q 245 372 188 368 Q 161 367 156 355 Q 153 348 173 335 Q 210 310 246 322 Q 319 346 453 367 Q 463 368 477 369 L 531 375 Z",

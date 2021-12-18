@@ -9,172 +9,280 @@
 [
 "对不起",
 1,
-"duìbuqǐ",
-"sorry"
+"duì bu qǐ",
+"unworthy; to let down; I'm sorry; excuse me; pardon me; if you please; sorry? (please repeat)"
+],
+[
+"一起",
+2,
+"yī qǐ",
+"in the same place; together; with; altogether (in total)"
 ],
 [
 "起床",
 2,
 "qǐ chuáng",
-"get out of bed"
-],
-[
-"一起",
-2,
-"yìqǐ",
-"together; in the same place"
-],
-[
-"起飞",
-3,
-"qǐfēi",
-"take off (in an airplane); liftoff"
+"to get out of bed; to get up"
 ],
 [
 "起来",
 3,
-"qǐlai",
-"(beginning or continuing an action); to rise; get up (from bed)"
+"qǐ lai",
+"to stand up; to get up; also pr. [qi3 lai2]"
+],
+[
+"起来",
+3,
+"qi lai",
+"(after a verb) indicating the beginning and continuation of an action or a state; indicating an upward movement (e.g. after 站[zhan4]); indicating completion; (after a perception verb, e.g. 看[kan4]) expressing preliminary judgment; also pr. [qi3 lai5]"
+],
+[
+"起飞",
+3,
+"qǐ fēi",
+"(of an aircraft) to take off"
 ],
 [
 "引起",
 4,
-"yǐnqǐ",
-"give rise to; lead to; to cause; arouse"
+"yǐn qǐ",
+"to give rise to; to lead to; to cause; to arouse"
+],
+[
+"了不起",
+5,
+"liǎo bu qǐ",
+"amazing; terrific; extraordinary"
 ],
 [
 "看不起",
 5,
 "kàn bu qǐ",
-"look down upon; despise"
+"to look down upon; to despise"
 ],
 [
-"了不起",
-5,
-"liǎobuqǐ",
-"incredible; extraordinary; great; amazing"
+"起码",
+6,
+"qǐ mǎ",
+"at the minimum; at the very least"
+],
+[
+"起初",
+6,
+"qǐ chū",
+"originally; at first; at the outset"
 ],
 [
 "起草",
 6,
 "qǐ cǎo",
-"draft (a bill); draw up (plans)"
+"to make a draft; to draw up (plans)"
 ],
 [
-"起初",
+"起源",
 6,
-"qǐchū",
-"at first; originally; in the beginning"
+"qǐ yuán",
+"origin; to originate; to come from"
 ],
 [
 "起伏",
 6,
-"qǐfú",
-"ups and downs; with a wavy motion"
+"qǐ fú",
+"to move up and down; to undulate; ups and downs"
+],
+[
+"掀起",
+6,
+"xiān qǐ",
+"to lift; to raise in height; to begin; upsurge; to set off (a campaign)"
 ],
 [
 "起哄",
 6,
 "qǐ hòng",
-"gather together; cause a commotion"
-],
-[
-"起码",
-6,
-"qǐmǎ",
-"at the minimum; at the very least"
-],
-[
-"起源",
-6,
-"qǐyuán",
-"origin; originate; come from"
-],
-[
-"掀起",
-6,
-"xiānqǐ",
-"lift; raise in height"
+"to heckle; rowdy jeering; to create a disturbance"
 ]
 ],
 "extraWords": [
 [
 "想起",
 77.61,
-"xiang3 qi3",
+"xiǎng qǐ",
 "to recall; to think of; to call to mind"
+],
+[
+"起诉",
+53.63,
+"qǐ sù",
+"to sue; to bring a lawsuit against; to prosecute"
+],
+[
+"起到",
+42.84,
+"qǐ dào",
+"(in an expression of the form 起到…作用[qi3 dao4 xx5 zuo4 yong4]) to have (a (motivating etc) effect); to play (a (stabilizing etc) role)"
+],
+[
+"看起来",
+40.73,
+"kàn qǐ lai",
+"seemingly; apparently; looks as if; appear to be; gives the impression that; seems on the face of it to be"
+],
+[
+"发起",
+29.7,
+"fā qǐ",
+"to originate; to initiate; to launch (an attack, an initiative etc); to start; to propose sth (for the first time)"
 ],
 [
 "提起",
 28.14,
-"ti2 qi3",
+"tí qǐ",
 "to mention; to speak of; to lift; to pick up; to arouse; to raise (a topic, a heavy weight, one's fist, one's spirits etc)"
 ],
 [
 "起身",
 21.87,
-"qi3 shen1",
+"qǐ shēn",
 "to get up; to leave; to set forth"
 ],
 [
 "崛起",
 20.96,
-"jue2 qi3",
+"jué qǐ",
 "to rise abruptly (to a towering position); to tower over; to spring up; to emerge suddenly; the emergence (e.g. of a power)"
+],
+[
+"响起",
+19.62,
+"xiǎng qǐ",
+"(of a sound) to come forth; (of a sound source) to ring out; to sound; to go off"
+],
+[
+"起点",
+18.34,
+"qǐ diǎn",
+"starting point"
 ],
 [
 "拿起",
 17.99,
-"na2 qi3",
+"ná qǐ",
 "to pick up"
 ],
 [
 "早起",
 17.61,
-"zao3 qi3",
+"zǎo qǐ",
 "to get up early"
 ],
 [
 "起步",
 16.67,
-"qi3 bu4",
+"qǐ bù",
 "to set out; to set in motion; the start (of some activity)"
+],
+[
+"站起来",
+14.47,
+"zhàn qǐ lai",
+"to stand up"
 ],
 [
 "抬起",
 12.27,
-"tai2 qi3",
+"tái qǐ",
 "to lift up"
+],
+[
+"举起",
+10.98,
+"jǔ qǐ",
+"to heave; to lift; to raise up; to uphold"
+],
+[
+"想起来",
+10.81,
+"xiǎng qi lai",
+"to remember; to recall"
 ],
 [
 "起立",
 10.73,
-"qi3 li4",
+"qǐ lì",
 "to stand; Stand up!"
+],
+[
+"兴起",
+10.67,
+"xīng qǐ",
+"to rise; to spring up; to burgeon; to be aroused; to come into vogue"
+],
+[
+"谈起",
+10.08,
+"tán qǐ",
+"to mention; to speak of; to talk about"
 ],
 [
 "升起",
 8.5,
-"sheng1 qi3",
+"shēng qǐ",
 "to raise; to hoist; to rise"
 ],
 [
 "激起",
 8.16,
-"ji1 qi3",
+"jī qǐ",
 "to arouse; to evoke; to cause; to stir up"
 ],
 [
 "起火",
 7.81,
-"qi3 huo3",
+"qǐ huǒ",
 "to catch fire; to cook; to get angry"
+],
+[
+"好起来",
+7.43,
+"hǎo qǐ lai",
+"to get better; to improve; to get well"
 ],
 [
 "挑起",
 7.36,
-"tiao3 qi3",
+"tiǎo qǐ",
 "to provoke; to stir up; to incite"
+],
+[
+"起义",
+6.48,
+"qǐ yì",
+"uprising; insurrection; revolt"
+],
+[
+"听起来",
+6.46,
+"tīng qi lai",
+"to sound like"
+],
+[
+"起见",
+6.02,
+"qǐ jiàn",
+"motive; purpose; (sth) being the motive or purpose"
+],
+[
+"买不起",
+5.65,
+"mǎi bu qǐ",
+"cannot afford; can't afford buying"
+],
+[
+"经得起",
+5.04,
+"jīng de qǐ",
+"to be able to withstand; to be able to endure"
 ]
 ],
 "strokes": [

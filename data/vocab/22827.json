@@ -9,93 +9,123 @@
 [
 "丈夫",
 2,
-"zhàngfu",
-"husband; man"
-],
-[
-"大夫",
-4,
-"dàifu",
-"doctor; physician"
+"zhàng fu",
+"husband; CL:個|个[ge4]"
 ],
 [
 "功夫",
 4,
-"gōngfu",
-"kung fu; skill; art; labor"
+"gōng fu",
+"skill; art; kung fu; labor; effort"
 ],
 [
-"夫妇",
-6,
-"fūfù",
-"married couple; husband and wife"
+"大夫",
+4,
+"dà fū",
+"senior official (in imperial China)"
+],
+[
+"大夫",
+4,
+"dài fu",
+"doctor; physician"
 ],
 [
 "夫人",
 6,
-"fūrén",
-"lady; madam; Mrs.; wife"
+"fū ren",
+"lady; madam; Mrs.; CL:位[wei4]"
+],
+[
+"夫妇",
+6,
+"fū fù",
+"a (married) couple; husband and wife; CL:對|对[dui4]"
 ]
 ],
 "extraWords": [
 [
 "夫妻",
 35.39,
-"fu1 qi1",
+"fū qī",
 "husband and wife; married couple"
+],
+[
+"高尔夫",
+15.48,
+"gāo ěr fū",
+"golf (loanword)"
+],
+[
+"杰夫",
+14.4,
+"Jié fū",
+"Jeff or Geoff (name)"
 ],
 [
 "未婚夫",
 13.77,
-"wei4 hun1 fu1",
+"wèi hūn fū",
 "fiancé"
 ],
 [
 "懦夫",
 12.13,
-"nuo4 fu1",
+"nuò fū",
 "coward"
 ],
 [
 "史蒂夫",
 11.98,
-"Shi3 di4 fu1",
+"Shǐ dì fū",
 "Steve (male name)"
 ],
 [
 "前夫",
 10.79,
-"qian2 fu1",
+"qián fū",
 "former husband"
 ],
 [
 "老夫",
 9.56,
-"lao3 fu1",
+"lǎo fū",
 "I (spoken by an old man)"
+],
+[
+"高尔夫球",
+8.25,
+"gāo ěr fū qiú",
+"golf; golf ball"
+],
+[
+"约瑟夫",
+7.45,
+"Yuē sè fū",
+"Joseph (name)"
 ],
 [
 "工夫",
 6.58,
-"gong1 fu1",
+"gōng fū",
 "(old) laborer"
 ],
 [
 "工夫",
 6.58,
-"gong1 fu5",
+"gōng fu",
 "period of time (may be months, or mere seconds); spare time; skill; labor; effort"
 ],
 [
 "下功夫",
 6.37,
-"xia4 gong1 fu5",
+"xià gōng fu",
 "see 下工夫[xia4 gong1 fu5]"
 ],
 [
 "姐夫",
 5.85,
-"jie3 fu5",
+"jiě fu",
 "(coll.) older sister's husband"
 ]
 ],

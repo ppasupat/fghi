@@ -9,171 +9,201 @@
 [
 "空调",
 3,
-"kōngtiáo",
-"air conditioning"
+"kōng tiáo",
+"air conditioning; air conditioner (including units that have a heating mode); CL:臺|台[tai2]"
 ],
 [
 "空",
 4,
-"kōng, kòng",
-"empty; sky | leave blank; leisure"
+"kōng",
+"empty; air; sky; in vain"
+],
+[
+"空",
+4,
+"kòng",
+"to empty; vacant; unoccupied; space; leisure; free time"
 ],
 [
 "空气",
 4,
-"kōngqì",
-"air"
+"kōng qì",
+"air; atmosphere"
 ],
 [
 "填空",
 4,
-"tiánkòng",
-"fill in the blanks; fill a vacancy"
+"tián kòng",
+"to fill a job vacancy; to fill in a blank (e.g. on questionnaire or exam paper)"
 ],
 [
 "空间",
 5,
-"kōngjiān",
-"space"
-],
-[
-"空闲",
-5,
-"kòngxián",
-"leisure; free time; idle; unused"
+"kōng jiān",
+"space; room; (fig.) scope; leeway; (astronomy) outer space; (physics, math.) space"
 ],
 [
 "天空",
 5,
-"tiānkōng",
-"sky; space; heavens"
+"tiān kōng",
+"sky"
 ],
 [
-"航空",
-6,
-"hángkōng",
-"aviation"
-],
-[
-"空洞",
-6,
-"kōngdòng",
-"empty; hollow; vacuous; devoid of content"
-],
-[
-"空前绝后",
-6,
-"kōngqiánjuéhòu",
-"unprecedented and unrepeatable; never to be reduplicated; the first and the last; unmatched; unique"
-],
-[
-"空想",
-6,
-"kōngxiǎng",
-"daydream; fantasy"
-],
-[
-"空虚",
-6,
-"kōngxū",
-"hollow; emptiness; meaningless"
-],
-[
-"空白",
-6,
-"kòngbái",
-"blank space; blank"
-],
-[
-"空隙",
-6,
-"kòngxì",
-"crack; gap between two objects"
+"空闲",
+5,
+"kòng xián",
+"idle; free time; leisure; unused (place)"
 ],
 [
 "太空",
 6,
-"tàikōng",
+"tài kōng",
 "outer space"
+],
+[
+"航空",
+6,
+"háng kōng",
+"aviation"
+],
+[
+"空白",
+6,
+"kòng bái",
+"blank space"
+],
+[
+"空虚",
+6,
+"kōng xū",
+"hollow; emptiness; meaningless"
+],
+[
+"空洞",
+6,
+"kōng dòng",
+"cavity; empty; vacuous"
+],
+[
+"空想",
+6,
+"kōng xiǎng",
+"daydream; fantasy; to fantasize"
+],
+[
+"空隙",
+6,
+"kòng xì",
+"crack; gap between two objects; gap in time between two events"
+],
+[
+"空前绝后",
+6,
+"kōng qián jué hòu",
+"unprecedented and never to be duplicated; the first and the last; unmatched; unique"
 ]
 ],
 "extraWords": [
 [
 "空中",
 32.01,
-"kong1 zhong1",
+"kōng zhōng",
 "in the sky; in the air"
 ],
 [
 "有空",
 24.83,
-"you3 kong4",
+"yǒu kòng",
 "to have time (to do sth)"
+],
+[
+"空军",
+19.62,
+"kōng jūn",
+"air force"
 ],
 [
 "航空公司",
 15.85,
-"hang2 kong1 gong1 si1",
+"háng kōng gōng sī",
 "airline; CL:家[jia1]"
+],
+[
+"时空",
+12.88,
+"shí kōng",
+"time and place; world of a particular locale and era; (physics) space-time"
 ],
 [
 "空前",
 11.16,
-"kong1 qian2",
+"kōng qián",
 "unprecedented"
 ],
 [
 "星空",
 11.06,
-"xing1 kong1",
+"xīng kōng",
 "starry sky; the heavens"
 ],
 [
 "上空",
 11.02,
-"shang4 kong1",
+"shàng kōng",
 "overhead; in the sky"
 ],
 [
 "真空",
 8.23,
-"zhen1 kong1",
+"zhēn kōng",
 "vacuum"
 ],
 [
 "空手",
 7.51,
-"kong1 shou3",
+"kōng shǒu",
 "empty-handed; unarmed; (painting, embroidery etc) without following a model; (abbr. for 空手道[kong1 shou3 dao4]) karate"
+],
+[
+"空头",
+7.46,
+"kōng tóu",
+"phony; so-called; armchair (expert); vain (promise); (finance) short-seller; bear (market); short (selling)"
 ],
 [
 "高空",
 6.7,
-"gao1 kong1",
+"gāo kōng",
 "high altitude"
 ],
 [
 "夜空",
 6.6,
-"ye4 kong1",
+"yè kōng",
 "night sky"
+],
+[
+"空间站",
+5.87,
+"kōng jiān zhàn",
+"space station"
 ],
 [
 "太空船",
 5.48,
-"tai4 kong1 chuan2",
+"tài kōng chuán",
 "spaceship"
 ],
 [
 "空地",
 5.27,
-"kong1 di4",
+"kōng dì",
 "air-to-surface (missile)"
 ],
 [
 "空地",
 5.27,
-"kong4 di4",
+"kòng dì",
 "vacant land; open space"
 ]
 ],

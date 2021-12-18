@@ -9,89 +9,228 @@
 [
 "看见",
 1,
-"kànjiàn",
-"see; catch sight of"
+"kàn jiàn",
+"to see; to catch sight of"
 ],
 [
 "再见",
 1,
-"zàijiàn",
-"goodbye; see you later"
+"zài jiàn",
+"goodbye; see you again later"
 ],
 [
 "见面",
 3,
-"jiànmiàn",
-"meet/see somebody; meeting"
+"jiàn miàn",
+"to meet; to see each other; CL:次[ci4]"
 ],
 [
 "意见",
 4,
-"yìjiàn",
-"opinion; view; suggestion; complaint"
-],
-[
-"不见得",
-5,
-"bújiàndé",
-"not necessarily; not likely"
+"yì jiàn",
+"idea; opinion; suggestion; objection; complaint; CL:點|点[dian3],條|条[tiao2]"
 ],
 [
 "可见",
 5,
-"kějiàn",
-"it can clearly be seen that; clear"
+"kě jiàn",
+"it can clearly be seen (that this is the case); it is (thus) clear; clear; visible"
 ],
 [
-"各抒己见",
-6,
-"gèshūjǐjiàn",
-"everyone gives their own view"
-],
-[
-"罕见",
-6,
-"hǎnjiàn",
-"rare; rarely seen; peculiar"
-],
-[
-"见多识广",
-6,
-"jiànduōshíguǎng",
-"experienced and knowledgeable"
-],
-[
-"见解",
-6,
-"jiànjiě",
-"view; opinion; understanding"
-],
-[
-"见闻",
-6,
-"jiànwén",
-"information"
-],
-[
-"见义勇为",
-6,
-"jiànyìyǒngwéi",
-"to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
+"不见得",
+5,
+"bù jiàn de",
+"not necessarily; not likely"
 ],
 [
 "偏见",
 6,
-"piānjiàn",
-"prejudice"
+"piān jiàn",
+"prejudice; bias"
+],
+[
+"罕见",
+6,
+"hǎn jiàn",
+"rare; rarely seen"
+],
+[
+"见解",
+6,
+"jiàn jiě",
+"opinion; view; understanding"
+],
+[
+"见义勇为",
+6,
+"jiàn yì yǒng wéi",
+"to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
+],
+[
+"见多识广",
+6,
+"jiàn duō shí guǎng",
+"experienced and knowledgeable (idiom)"
+],
+[
+"见闻",
+6,
+"jiàn wén",
+"what one has seen and heard; knowledge; one's experience"
+],
+[
+"各抒己见",
+6,
+"gè shū jǐ jiàn",
+"everyone gives their own view"
 ],
 [
 "喜闻乐见",
 6,
-"xǐwénlèjiàn",
-"a delight to see (idiom); an attractive spectacle"
+"xǐ wén lè jiàn",
+"to love to hear and see (idiom); well received; to one's liking"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"见到",
+307.54,
+"jiàn dào",
+"to see"
+],
+[
+"听见",
+77.27,
+"tīng jiàn",
+"to hear"
+],
+[
+"见鬼",
+71.42,
+"jiàn guǐ",
+"absurd; strange; (interj.) curse it!; to hell with it!"
+],
+[
+"不见",
+44.9,
+"bù jiàn",
+"not to see; not to meet; to have disappeared; to be missing"
+],
+[
+"遇见",
+34.94,
+"yù jiàn",
+"to meet"
+],
+[
+"常见",
+29.55,
+"cháng jiàn",
+"commonly seen; common; to see sth frequently"
+],
+[
+"会见",
+22.68,
+"huì jiàn",
+"to meet with (sb who is paying a visit); CL:次[ci4]"
+],
+[
+"想见",
+22.63,
+"xiǎng jiàn",
+"to infer; to gather"
+],
+[
+"见识",
+17.71,
+"jiàn shi",
+"to gain first-hand knowledge of sth; to experience for oneself; knowledge; experience; insight"
+],
+[
+"见证",
+14.96,
+"jiàn zhèng",
+"to be witness to; witness; evidence"
+],
+[
+"看不见",
+13.78,
+"kàn bu jiàn",
+"cannot see; cannot be seen; invisible"
+],
+[
+"回见",
+12.82,
+"huí jiàn",
+"See you later!"
+],
+[
+"少见",
+11.93,
+"shǎo jiàn",
+"rare; not familiar (to the speaker); sth rarely experience; hard to see"
+],
+[
+"梦见",
+9.66,
+"mèng jiàn",
+"to dream about (sth or sb); to see in a dream"
+],
+[
+"预见",
+9.33,
+"yù jiàn",
+"to foresee; to predict; to forecast; to envision; foresight; intuition; vision"
+],
+[
+"由此可见",
+9.18,
+"yóu cǐ kě jiàn",
+"from this, it can be seen that..."
+],
+[
+"相见",
+7.91,
+"xiāng jiàn",
+"to see each other; to meet in person"
+],
+[
+"显而易见",
+7.18,
+"xiǎn ér yì jiàn",
+"clearly and easy to see (idiom); obviously; clearly; it goes without saying"
+],
+[
+"起见",
+6.02,
+"qǐ jiàn",
+"motive; purpose; (sth) being the motive or purpose"
+],
+[
+"接见",
+5.92,
+"jiē jiàn",
+"to receive sb; to grant an interview"
+],
+[
+"碰见",
+5.37,
+"pèng jiàn",
+"to run into; to meet (unexpectedly); to bump into"
+],
+[
+"好久不见",
+5.16,
+"hǎo jiǔ bu jiàn",
+"long time no see"
+],
+[
+"眼见",
+5.11,
+"yǎn jiàn",
+"to see with one's own eyes; very soon"
+]
+],
 "strokes": [
 "M 354 733 Q 333 749 309 756 Q 299 757 292 749 Q 288 742 297 731 Q 336 623 305 442 Q 287 382 292 360 Q 302 323 315 309 Q 328 294 338 309 Q 366 348 368 480 Q 368 645 378 701 C 380 715 379 716 354 733 Z",
 "M 631 392 Q 624 367 637 344 Q 652 313 662 314 Q 677 315 694 350 Q 709 378 708 400 Q 696 493 698 636 Q 698 678 721 713 Q 731 731 724 741 Q 694 766 643 789 Q 627 795 601 786 Q 487 738 354 733 C 324 731 348 696 378 701 Q 382 701 388 702 Q 599 747 622 733 Q 634 708 639 639 Q 642 431 631 392 Z",

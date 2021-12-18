@@ -6,7 +6,14 @@
 "pron": "jiáo, jiǎo"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"矫正",
+5.87,
+"jiǎo zhèng",
+"to correct; to rectify (e.g. a physical defect such as hearing or vision); to cure; rectification; correction; to straighten"
+]
+],
 "strokes": [
 "M 226 544 Q 226 545 227 545 Q 263 596 301 672 Q 317 706 332 724 Q 339 736 333 748 Q 329 760 298 779 Q 271 792 253 791 Q 235 787 245 767 Q 281 707 131 462 Q 122 452 121 445 Q 120 435 132 438 Q 162 451 214 526 L 226 544 Z",
 "M 307 520 Q 316 524 419 557 Q 443 564 446 569 Q 453 578 448 585 Q 441 595 411 599 Q 390 600 310 568 Q 304 567 299 564 Q 269 555 226 544 C 197 537 193 536 214 526 Q 232 517 256 513 C 278 509 279 509 307 520 Z",

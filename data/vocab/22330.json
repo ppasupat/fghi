@@ -9,71 +9,342 @@
 [
 "机场",
 2,
-"jīchǎng",
-"airport; airfield"
+"jī chǎng",
+"airport; airfield; (slang) service provider for Shadowsocks or similar software for circumventing Internet censorship; CL:家[jia1],處|处[chu4]"
+],
+[
+"场",
+4,
+"cháng",
+"threshing floor; classifier for events and happenings: spell, episode, bout"
 ],
 [
 "场",
 4,
 "chǎng",
-"courtyard; place; field; (mw for games, performances, etc.)"
+"large place used for a specific purpose; stage; scene (of a play); classifier for sporting or recreational activities; classifier for number of exams"
 ],
 [
-"操场",
-5,
-"cāochǎng",
-"playground; sports field"
+"场",
+4,
+"cháng",
+"variant of 場|场[chang2]"
 ],
 [
-"广场",
-5,
-"guǎngchǎng",
-"public square; plaza"
+"场",
+4,
+"chǎng",
+"variant of 場|场[chang3]"
 ],
 [
 "市场",
 5,
-"shìchǎng",
-"market"
+"shì chǎng",
+"marketplace; market (also in abstract)"
+],
+[
+"广场",
+5,
+"guǎng chǎng",
+"public square; plaza"
+],
+[
+"操场",
+5,
+"cāo chǎng",
+"playground; sports field; drill ground; CL:個|个[ge4]"
+],
+[
+"现场",
+6,
+"xiàn chǎng",
+"the scene (of a crime, accident etc); (on) the spot; (at) the site"
 ],
 [
 "场合",
 6,
-"chǎnghé",
-"occasion; situation"
+"chǎng hé",
+"situation; occasion; context; setting; location; venue"
+],
+[
+"立场",
+6,
+"lì chǎng",
+"position; standpoint; CL:個|个[ge4]"
 ],
 [
 "场面",
 6,
-"chǎngmiàn",
-"scene; occasion"
+"chǎng miàn",
+"scene; spectacle; occasion; situation"
 ],
 [
 "场所",
 6,
-"chǎngsuǒ",
+"chǎng suǒ",
 "location; place"
 ],
 [
 "当场",
 6,
-"dāngchǎng",
+"dāng chǎng",
 "at the scene; on the spot"
-],
-[
-"立场",
-6,
-"lìchǎng",
-"position; standpoint"
-],
-[
-"现场",
-6,
-"xiànchǎng",
-"scene (of event or incident); on the spot"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"市场经济",
+53.21,
+"shì chǎng jīng jì",
+"market economy"
+],
+[
+"主场",
+48.9,
+"zhǔ chǎng",
+"home ground (sports); home field; main venue; main stadium"
+],
+[
+"半场",
+45.48,
+"bàn chǎng",
+"half of a game or contest; half-court"
+],
+[
+"全场",
+36.64,
+"quán chǎng",
+"everyone present; the whole audience; across-the-board; unanimously; whole duration (of a competition or match)"
+],
+[
+"在场",
+35.12,
+"zài chǎng",
+"to be present; to be on the scene"
+],
+[
+"商场",
+31.46,
+"shāng chǎng",
+"shopping mall; shopping center; department store; emporium; CL:家[jia1]; the business world"
+],
+[
+"客场",
+29.48,
+"kè chǎng",
+"away-game arena; away-game venue"
+],
+[
+"农场",
+29.39,
+"nóng chǎng",
+"farm"
+],
+[
+"球场",
+26.88,
+"qiú chǎng",
+"stadium; sports ground; court; pitch; field; golf course; CL:個|个[ge4],處|处[chu4]"
+],
+[
+"停车场",
+25.58,
+"tíng chē chǎng",
+"parking lot; car park"
+],
+[
+"资本市场",
+24.14,
+"zī běn shì chǎng",
+"capital market"
+],
+[
+"场地",
+23.87,
+"chǎng dì",
+"space; site; place; sports pitch"
+],
+[
+"战场",
+23.06,
+"zhàn chǎng",
+"battlefield; CL:個|个[ge4]"
+],
+[
+"场景",
+22.44,
+"chǎng jǐng",
+"scene; scenario; setting"
+],
+[
+"出场",
+22.39,
+"chū chǎng",
+"(of a performer) to come onto the stage to perform; (of an athlete) to enter the arena to compete; (fig.) to enter the scene (e.g. a new product); (of an examinee etc) to leave the venue"
+],
+[
+"赛场",
+20.15,
+"sài chǎng",
+"racetrack; field (for athletics competition)"
+],
+[
+"市场化",
+19.53,
+"shì chǎng huà",
+"marketization"
+],
+[
+"上场",
+19.32,
+"shàng chǎng",
+"on stage; to go on stage; to take the field"
+],
+[
+"中场",
+19.1,
+"zhōng chǎng",
+"middle period of a tripartite provincial exam (in former times); midfield; mid-court (in sports); half-time; intermission half-way through a performance"
+],
+[
+"证券市场",
+16.39,
+"zhèng quàn shì chǎng",
+"financial market"
+],
+[
+"赌场",
+15.89,
+"dǔ chǎng",
+"casino"
+],
+[
+"会场",
+12.01,
+"huì chǎng",
+"meeting place; place where people gather; CL:個|个[ge4]"
+],
+[
+"登场",
+11.88,
+"dēng chǎng",
+"to go on stage; fig. to appear on the scene; used in advertising to mean new product"
+],
+[
+"开场",
+11.09,
+"kāi chǎng",
+"to begin; to open; to start; beginning of an event"
+],
+[
+"到场",
+10.26,
+"dào chǎng",
+"to show up; present (at the scene)"
+],
+[
+"职场",
+10.26,
+"zhí chǎng",
+"workplace; workforce (of a nation or industry etc); job market"
+],
+[
+"下场",
+10.12,
+"xià chǎng",
+"to leave (the stage, an exam room, the playing field etc); to take part in some activity; to take an examination (in the imperial examination system)"
+],
+[
+"下场",
+10.12,
+"xià chang",
+"the end; to conclude"
+],
+[
+"考场",
+9.57,
+"kǎo chǎng",
+"exam room"
+],
+[
+"剧场",
+9.12,
+"jù chǎng",
+"theater; CL:個|个[ge4]"
+],
+[
+"金融市场",
+8.21,
+"jīn róng shì chǎng",
+"financial market"
+],
+[
+"场馆",
+8.04,
+"chǎng guǎn",
+"sporting venue; arena"
+],
+[
+"体育场",
+7.46,
+"tǐ yù chǎng",
+"stadium; CL:個|个[ge4],座[zuo4]"
+],
+[
+"专场",
+7.25,
+"zhuān chǎng",
+"special performance"
+],
+[
+"牧场",
+7.04,
+"mù chǎng",
+"pasture; grazing land; ranch"
+],
+[
+"货币市场",
+6.88,
+"huò bì shì chǎng",
+"money market"
+],
+[
+"进场",
+6.8,
+"jìn chǎng",
+"to enter the venue; to enter the arena; (aviation) to approach the airfield; (investing) to get into the market"
+],
+[
+"股票市场",
+6.63,
+"gǔ piào shì chǎng",
+"stock market; stock exchange"
+],
+[
+"娱乐场所",
+5.78,
+"yú lè chǎng suǒ",
+"place of entertainment"
+],
+[
+"用场",
+5.46,
+"yòng chǎng",
+"use; application; Taiwan pr. [yong4 chang2]"
+],
+[
+"入场",
+5.45,
+"rù chǎng",
+"to enter the venue for a meeting; to enter into an examination; to enter a stadium, arena etc"
+],
+[
+"农贸市场",
+5.42,
+"nóng mào shì chǎng",
+"farmer's market"
+]
+],
 "strokes": [
 "M 321 481 Q 411 506 417 511 Q 424 520 420 528 Q 413 540 382 545 Q 351 549 323 535 L 274 518 Q 178 493 143 487 Q 106 478 134 463 Q 176 442 237 459 Q 253 465 275 468 L 321 481 Z",
 "M 314 298 Q 318 392 321 481 L 323 535 Q 326 658 345 725 Q 348 737 327 752 Q 290 771 265 775 Q 249 778 240 769 Q 233 762 241 745 Q 269 705 269 678 Q 273 602 274 518 L 275 468 Q 274 378 270 280 C 269 250 313 268 314 298 Z",

@@ -7,19 +7,44 @@
 },
 "words": [
 [
-"诞辰",
-6,
-"dànchén",
-"birthday"
-],
-[
 "诞生",
 6,
-"dànshēng",
-"be born; come into being"
+"dàn shēng",
+"to be born"
+],
+[
+"诞辰",
+6,
+"dàn chén",
+"birthday"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"圣诞",
+61.79,
+"Shèng dàn",
+"Christmas; birthday of reigning Emperor; Confucius' birthday"
+],
+[
+"圣诞节",
+49.54,
+"Shèng dàn jié",
+"Christmas time; Christmas season; Christmas"
+],
+[
+"圣诞老人",
+28.41,
+"Shèng dàn Lǎo rén",
+"Father Christmas; Santa Claus"
+],
+[
+"圣诞树",
+5.96,
+"Shèng dàn shù",
+"Christmas tree"
+]
+],
 "strokes": [
 "M 252 729 Q 280 704 311 672 Q 326 657 343 658 Q 355 658 361 673 Q 365 689 357 722 Q 348 755 248 782 Q 232 786 224 783 Q 218 779 220 765 Q 224 752 252 729 Z",
 "M 163 491 Q 117 473 92 470 Q 79 469 77 462 Q 73 453 84 447 Q 123 426 148 439 Q 175 455 200 473 Q 222 486 231 480 Q 240 476 236 451 Q 242 280 208 153 Q 193 122 234 76 Q 244 64 253 71 Q 260 78 270 100 Q 301 143 369 217 Q 381 227 378 234 Q 377 241 366 233 Q 336 214 306 193 Q 261 156 269 211 Q 268 278 287 446 Q 290 468 309 491 Q 321 501 311 512 Q 301 527 264 541 Q 252 547 237 536 Q 191 503 163 491 Z",

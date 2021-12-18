@@ -10,34 +10,125 @@
 "团",
 5,
 "tuán",
-"round; ball; group; unite; dumpling; (mw for ball-like things)"
+"round; lump; ball; to roll into a ball; to gather; regiment; group; society; classifier for a lump or a soft mass: wad (of paper), ball (of wool), cloud (of smoke)"
+],
+[
+"团",
+5,
+"tuán",
+"dumpling"
 ],
 [
 "集团",
 6,
-"jítuán",
-"group; bloc; circle; clique"
+"jí tuán",
+"group; bloc; corporation; conglomerate"
 ],
 [
 "团结",
 6,
-"tuánjié",
-"unite; hold a rally; join forces"
+"tuán jié",
+"to unite; unity; solidarity; united"
 ],
 [
 "团体",
 6,
-"tuántǐ",
-"group; organization; team"
+"tuán tǐ",
+"group; organization; team; CL:個|个[ge4]"
 ],
 [
 "团圆",
 6,
-"tuányuán",
-"have a reunion; reunite as a family"
+"tuán yuán",
+"to have a reunion"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"陪审团",
+53.18,
+"péi shěn tuán",
+"jury"
+],
+[
+"团队",
+41.05,
+"tuán duì",
+"team"
+],
+[
+"代表团",
+39.39,
+"dài biǎo tuán",
+"delegation; CL:個|个[ge4]"
+],
+[
+"一团糟",
+27.72,
+"yī tuán zāo",
+"chaos; bungle; complete mess; shambles"
+],
+[
+"团伙",
+14.65,
+"tuán huǒ",
+"(criminal) gang; gang member; accomplice; crony"
+],
+[
+"团长",
+13.94,
+"tuán zhǎng",
+"regimental command; head of a delegation"
+],
+[
+"马戏团",
+11.83,
+"mǎ xì tuán",
+"circus"
+],
+[
+"军团",
+8.35,
+"jūn tuán",
+"corps; legion"
+],
+[
+"社团",
+7.92,
+"shè tuán",
+"association; society; group; union; club; organization"
+],
+[
+"团聚",
+6.62,
+"tuán jù",
+"to reunite; to have a reunion"
+],
+[
+"团员",
+6.3,
+"tuán yuán",
+"member; group member"
+],
+[
+"企业集团",
+6.17,
+"qǐ yè jí tuán",
+"business conglomerate"
+],
+[
+"乐团",
+6.11,
+"yuè tuán",
+"band; orchestra"
+],
+[
+"共青团",
+5.28,
+"Gòng qīng tuán",
+"the Communist Youth League, abbr. for 共產主義青年團|共产主义青年团[Gong4 chan3 zhu3 yi4 Qing1 nian2 tuan2]"
+]
+],
 "strokes": [
 "M 261 727 Q 254 734 226 748 Q 214 754 201 749 Q 194 743 199 729 Q 223 641 225 608 Q 224 604 225 599 Q 237 319 189 148 Q 171 84 212 34 Q 224 19 236 33 Q 240 39 243 44 L 252 86 Q 259 123 259 189 Q 274 646 278 675 Q 279 679 279 684 C 282 713 282 713 261 727 Z",
 "M 717 76 Q 745 42 767 -3 Q 777 -27 793 -26 Q 806 -25 816 -3 Q 847 48 827 240 Q 809 654 828 685 Q 831 691 836 695 Q 846 708 847 718 Q 846 731 813 754 Q 755 796 712 781 Q 691 778 657 772 Q 504 759 320 730 Q 289 727 261 727 C 231 726 250 678 279 684 Q 516 730 706 738 Q 731 739 737 727 Q 759 700 761 415 Q 761 283 765 171 Q 768 128 754 96 C 746 67 699 100 717 76 Z",

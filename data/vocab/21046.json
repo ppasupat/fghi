@@ -7,168 +7,312 @@
 },
 "words": [
 [
-"复制",
-5,
-"fùzhì",
-"duplicate; reproduce"
-],
-[
 "控制",
 5,
-"kòngzhì",
-"to control"
-],
-[
-"限制",
-5,
-"xiànzhì",
-"restrictions; to limit; to bound"
-],
-[
-"制定",
-5,
-"zhìdìng",
-"formulate; lay down (a plan or policy); to draft"
-],
-[
-"制度",
-5,
-"zhìdù",
-"system; institution"
+"kòng zhì",
+"control; to exercise control over; to contain"
 ],
 [
 "制造",
 5,
-"zhìzào",
-"manufacture; make"
+"zhì zào",
+"to manufacture; to make"
 ],
 [
 "制作",
 5,
-"zhìzuò",
-"make; manufacture"
+"zhì zuò",
+"to make; to manufacture"
 ],
 [
-"抵制",
-6,
-"dǐzhì",
-"resistance; refusal (to cooperate); boycott"
+"限制",
+5,
+"xiàn zhì",
+"to restrict; to limit; to confine; restriction; limit; CL:個|个[ge4]"
 ],
 [
-"遏制",
-6,
-"èzhì",
-"keep within limits; contain; restrain; hold back"
+"复制",
+5,
+"fù zhì",
+"to duplicate; to make a copy of; to copy; to reproduce; to clone"
 ],
 [
-"节制",
-6,
-"jiézhì",
-"to be restrained or moderate"
+"制定",
+5,
+"zhì dìng",
+"to draw up; to formulate"
 ],
 [
-"克制",
-6,
-"kèzhì",
-"restrain; take a firm hold on"
-],
-[
-"牵制",
-6,
-"qiānzhì",
-"control; curb; restrict; impede"
-],
-[
-"强制",
-6,
-"qiángzhì",
-"enforce; control; coerce"
-],
-[
-"压制",
-6,
-"yāzhì",
-"suppress; inhibit; stifle"
-],
-[
-"制裁",
-6,
-"zhìcái",
-"punish; (economic) sanctions"
+"制度",
+5,
+"zhì dù",
+"system (e.g. political, adminstrative etc); institution; CL:個|个[ge4]"
 ],
 [
 "制服",
 6,
-"zhìfú",
-"uniform; to subdue; to bring under control"
+"zhì fú",
+"to subdue; to check; to bring under control; (in former times) what one is allowed to wear depending on social status; uniform (army, party, school etc); livery (for company employees); CL:套[tao4]"
 ],
 [
-"制约",
+"压制",
 6,
-"zhìyuē",
-"restrict; condition"
+"yā zhì",
+"to suppress; to inhibit; to stifle"
 ],
 [
 "制止",
 6,
-"zhìzhǐ",
-"to curb; to put a stop to"
+"zhì zhǐ",
+"to curb; to put a stop to; to stop; to check; to limit"
+],
+[
+"强制",
+6,
+"qiáng zhì",
+"to enforce; enforcement; forcibly; compulsory"
+],
+[
+"克制",
+6,
+"kè zhì",
+"to restrain; to control; restraint; self-control"
+],
+[
+"抵制",
+6,
+"dǐ zhì",
+"to resist; to boycott; to refuse (to cooperate); to reject; resistance; refusal"
+],
+[
+"制裁",
+6,
+"zhì cái",
+"to punish; punishment; sanctions (incl. economic)"
+],
+[
+"节制",
+6,
+"jié zhì",
+"to control; to restrict; to moderate; to temper; moderation; sobriety; to administer"
+],
+[
+"牵制",
+6,
+"qiān zhì",
+"to control; to curb; to restrict; to impede; to pin down (enemy troops)"
+],
+[
+"遏制",
+6,
+"è zhì",
+"to check; to contain; to hold back; to keep within limits; to constrain; to restrain"
+],
+[
+"制约",
+6,
+"zhì yuē",
+"to restrict; condition"
 ]
 ],
 "extraWords": [
 [
+"机制",
+127.11,
+"jī zhì",
+"mechanism"
+],
+[
+"机制",
+127.11,
+"jī zhì",
+"machine processed; machine made; mechanism"
+],
+[
+"体制",
+87.89,
+"tǐ zhì",
+"system; organization"
+],
+[
 "抑制",
 43.16,
-"yi4 zhi4",
+"yì zhì",
 "to inhibit; to keep down; to suppress"
+],
+[
+"编制",
+38.42,
+"biān zhì",
+"to establish (a unit or department); staffing structure (excluding temporary and casual staff)"
+],
+[
+"编制",
+38.42,
+"biān zhì",
+"to weave; to plait; to compile; to put together (a lesson plan, budget etc)"
+],
+[
+"研制",
+32.48,
+"yán zhì",
+"to manufacture; to develop"
 ],
 [
 "法制",
 30.43,
-"fa3 zhi4",
+"fǎ zhì",
 "legal system and institutions"
+],
+[
+"法制",
+30.43,
+"Fǎ zhì",
+"made in France"
+],
+[
+"制造业",
+23.08,
+"zhì zào yè",
+"manufacturing industry"
+],
+[
+"制订",
+21.78,
+"zhì dìng",
+"to work out; to formulate"
+],
+[
+"制品",
+20.68,
+"zhì pǐn",
+"products; goods"
 ],
 [
 "改制",
 18.14,
-"gai3 zhi4",
+"gǎi zhì",
 "to reorganize; to restructure"
+],
+[
+"制成",
+15.21,
+"zhì chéng",
+"to manufacture; to turn out (a product)"
+],
+[
+"责任制",
+13.31,
+"zé rèn zhì",
+"system of job responsibility"
 ],
 [
 "公有制",
 11.7,
-"gong1 you3 zhi4",
+"gōng yǒu zhì",
 "public ownership"
+],
+[
+"制造商",
+11.27,
+"zhì zào shāng",
+"manufacturing company"
 ],
 [
 "管制",
 11.19,
-"guan3 zhi4",
+"guǎn zhì",
 "to control; to restrict; (PRC law) non-custodial sentence with specified restrictions on one's activities for up to 3 years (e.g. not to participate in demonstrations)"
 ],
 [
 "自制",
 10.36,
-"zi4 zhi4",
+"zì zhì",
 "to maintain self-control; self-control"
+],
+[
+"自制",
+10.36,
+"zì zhì",
+"self-made; improvised; homemade; handmade"
+],
+[
+"制剂",
+9.74,
+"zhì jì",
+"(chemical or pharmaceutical) preparation"
+],
+[
+"定制",
+9.68,
+"dìng zhì",
+"custom-made; made-to-order; to have something custom made"
+],
+[
+"录制",
+9.64,
+"lù zhì",
+"to record (video or audio)"
+],
+[
+"制备",
+9.15,
+"zhì bèi",
+"to prepare; preparation (chemistry)"
+],
+[
+"制药",
+8.82,
+"zhì yào",
+"to manufacture medicine"
 ],
 [
 "所有制",
 8.49,
-"suo3 you3 zhi4",
+"suǒ yǒu zhì",
 "ownership of the means of production (in Marxism); system of ownership"
+],
+[
+"经济体制",
+7.94,
+"jīng jì tǐ zhì",
+"economic system"
+],
+[
+"实名制",
+6.62,
+"shí míng zhì",
+"system for identifying users (on a rail network, the Internet etc)"
+],
+[
+"制动",
+6.1,
+"zhì dòng",
+"to brake"
+],
+[
+"制片人",
+5.43,
+"zhì piàn rén",
+"moviemaker; filmmaker; producer"
 ],
 [
 "因地制宜",
 5.38,
-"yin1 di4 zhi4 yi2",
+"yīn dì zhì yí",
 "(idiom) to use methods in line with local circumstances"
 ],
 [
 "控制室",
 5.28,
-"kong4 zhi4 shi4",
+"kòng zhì shì",
 "control room"
+],
+[
+"配制",
+5.25,
+"pèi zhì",
+"to compound (medicines etc); to prepare (by mixing ingredients); to concoct"
 ]
 ],
 "strokes": [

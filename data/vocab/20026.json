@@ -7,97 +7,296 @@
 },
 "words": [
 [
+"因为",
+2,
+"yīn wèi",
+"because; owing to; on account of"
+],
+[
 "为什么",
 2,
-"wèishénme",
+"wèi shén me",
 "why?; for what reason?"
 ],
 [
-"因为",
-2,
-"yīnwèi",
-"because"
-],
-[
-"认为",
+"为",
 3,
-"rènwéi",
-"believe; think that"
+"wéi",
+"as (in the capacity of); to take sth as; to act as; to serve as; to behave as; to become; to be; to do; by (in the passive voice)"
 ],
 [
 "为",
 3,
 "wèi",
-"for; because of; to; for the sake of"
+"because of; for; to"
+],
+[
+"为",
+3,
+"wéi",
+"variant of 為|为[wei2]; as (i.e. in the capacity of); to take sth as; to act as; to serve as; to behave as; to become; to be; to do"
+],
+[
+"为",
+3,
+"wèi",
+"variant of 為|为[wei4]"
+],
+[
+"认为",
+3,
+"rèn wéi",
+"to believe; to think; to consider; to feel"
 ],
 [
 "为了",
 3,
-"wèile",
-"in order to; for the sake of; for the purpose of"
-],
-[
-"成为",
-4,
-"chéngwéi",
-"become; turn into"
+"wèi le",
+"in order to; for the purpose of; so as to"
 ],
 [
 "以为",
 4,
-"yǐwéi",
-"think (mistakenly); consider (that); believe"
+"yǐ wéi",
+"to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)"
 ],
 [
-"行为",
-5,
-"xíngwéi",
-"action; behavior; conduct"
+"成为",
+4,
+"chéng wéi",
+"to become; to turn into"
 ],
 [
 "作为",
 5,
-"zuòwéi",
-"regard as; act as; action; deed"
+"zuò wéi",
+"one's conduct; deed; activity; accomplishment; achievement; to act as; as (in the capacity of); qua; to view as; to look upon (sth as); to take sth to be"
 ],
 [
-"见义勇为",
-6,
-"jiànyìyǒngwéi",
-"to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
-],
-[
-"迄今为止",
-6,
-"qìjīnwéizhǐ",
-"until now; so far; to date"
-],
-[
-"人为",
-6,
-"rénwéi",
-"artificial; man-made"
-],
-[
-"为难",
-6,
-"wéinán",
-"make things difficult for someone; embarrassed"
-],
-[
-"为期",
-6,
-"wéiqī",
-"be scheduled for; last for (a certain duration)"
+"行为",
+5,
+"xíng wéi",
+"action; conduct; behavior; activity"
 ],
 [
 "无能为力",
 6,
 "wú néng wéi lì",
-"incapable of action; powerless; impotent"
+"impotent (idiom); powerless; helpless"
+],
+[
+"为难",
+6,
+"wéi nán",
+"to feel embarrassed or awkward; to make things difficult (for someone); to find things difficult (to do or manage)"
+],
+[
+"迄今为止",
+6,
+"qì jīn wéi zhǐ",
+"so far; up to now; still (not)"
+],
+[
+"人为",
+6,
+"rén wéi",
+"artificial; man-made; having human cause or origin; human attempt or effort"
+],
+[
+"为期",
+6,
+"wéi qī",
+"(to be done) by (a certain date); lasting (a certain time)"
+],
+[
+"见义勇为",
+6,
+"jiàn yì yǒng wéi",
+"to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"为主",
+88.61,
+"wéi zhǔ",
+"to rely mainly on; to attach most importance to"
+],
+[
+"为何",
+78.4,
+"wèi hé",
+"why"
+],
+[
+"为此",
+67.04,
+"wèi cǐ",
+"for this reason; with regards to this; in this respect; in order to do this; to this end"
+],
+[
+"更为",
+53.81,
+"gèng wéi",
+"even more"
+],
+[
+"为止",
+51.45,
+"wéi zhǐ",
+"until; (used in combination with words like 到[dao4] or 至[zhi4] in constructs of the form 到...為止|到...为止)"
+],
+[
+"称为",
+48.32,
+"chēng wéi",
+"called; to call sth (by a name); to name"
+],
+[
+"较为",
+46.16,
+"jiào wéi",
+"comparatively; relatively; fairly"
+],
+[
+"分为",
+44.2,
+"fēn wéi",
+"to divide sth into (parts); to subdivide"
+],
+[
+"最为",
+40.02,
+"zuì wéi",
+"the most"
+],
+[
+"极为",
+30.54,
+"jí wéi",
+"extremely; exceedingly"
+],
+[
+"视为",
+24.78,
+"shì wéi",
+"to view as; to see as; to consider to be; to deem"
+],
+[
+"为人",
+19.76,
+"wéi rén",
+"to conduct oneself; behavior; conduct; personal character"
+],
+[
+"为人",
+19.76,
+"wèi rén",
+"for sb; for others' interest"
+],
+[
+"到此为止",
+18.72,
+"dào cǐ wéi zhǐ",
+"to stop at this point; to end here; to call it a day"
+],
+[
+"所作所为",
+17.68,
+"suǒ zuò suǒ wéi",
+"one's conduct and deeds"
+],
+[
+"为首",
+16.75,
+"wéi shǒu",
+"head; be headed by"
+],
+[
+"列为",
+15.83,
+"liè wéi",
+"to be classified as"
+],
+[
+"变为",
+15.12,
+"biàn wéi",
+"to change into"
+],
+[
+"称之为",
+13.38,
+"chēng zhī wéi",
+"to call it...; known as..."
+],
+[
+"颇为",
+13.3,
+"pō wéi",
+"rather; quite"
+],
+[
+"尤为",
+10.88,
+"yóu wéi",
+"especially"
+],
+[
+"华为",
+9.14,
+"Huá wéi",
+"Huawei (brand)"
+],
+[
+"以人为本",
+8.77,
+"yǐ rén wéi běn",
+"people-oriented"
+],
+[
+"自以为是",
+6.95,
+"zì yǐ wéi shì",
+"to believe oneself infallible (idiom); to be opinionated"
+],
+[
+"为数",
+6.87,
+"wéi shù",
+"in numerical terms (typically followed by 不少[bu4 shao3] or 不多[bu4 duo1] or a number)"
+],
+[
+"性行为",
+6.68,
+"xìng xíng wéi",
+"sexual behavior"
+],
+[
+"所为",
+5.95,
+"suǒ wéi",
+"what one does; doings"
+],
+[
+"评为",
+5.84,
+"píng wéi",
+"to elect as; to choose as; to consider as"
+],
+[
+"尽力而为",
+5.78,
+"jìn lì ér wéi",
+"to try one's utmost; to strive"
+],
+[
+"为生",
+5.54,
+"wéi shēng",
+"to make a living"
+]
+],
 "strokes": [
 "M 324 704 Q 349 673 378 635 Q 390 619 406 617 Q 416 616 425 629 Q 432 644 428 676 Q 422 715 327 754 Q 311 761 304 759 Q 298 756 298 742 Q 299 730 324 704 Z",
 "M 460 496 Q 367 331 357 314 Q 353 311 350 305 Q 263 187 115 58 Q 108 54 104 47 Q 98 37 110 35 Q 143 32 266 135 Q 308 172 349 220 Q 449 341 527 509 L 542 542 Q 558 582 574 622 Q 614 725 630 751 Q 643 764 639 780 Q 627 804 598 828 Q 580 846 565 844 Q 550 840 553 823 Q 563 786 552 735 Q 540 704 528 664 Q 503 594 475 530 L 460 496 Z",

@@ -7,31 +7,44 @@
 },
 "words": [
 [
-"陈旧",
-6,
-"chénjiù",
-"old fashioned; outmoded; obsolete"
-],
-[
-"陈列",
-6,
-"chénliè",
-"to display; to exhibit"
-],
-[
 "陈述",
 6,
-"chénshù",
-"allegation; assertation; to declare; to state"
+"chén shù",
+"an assertion; to declare; to state"
+],
+[
+"陈旧",
+6,
+"chén jiù",
+"old-fashioned"
 ],
 [
 "新陈代谢",
 6,
-"xīn chén dàixiè",
-"metabolism (bio); (saying) the new replaces the old"
+"xīn chén dài xiè",
+"metabolism (biology); the new replaces the old (idiom)"
+],
+[
+"陈列",
+6,
+"chén liè",
+"to display; to exhibit"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"陈水扁",
+20.76,
+"Chén Shuǐ biǎn",
+"Chen Shui-Bian (1950-), Taiwanese DPP 民進黨|民进党 politician, president of the Republic of China 2000-2008"
+],
+[
+"陈奕迅",
+6.21,
+"Chén Yì xùn",
+"Eason Chan (1974-), Hong Kong pop singer and actor"
+]
+],
 "strokes": [
 "M 225 663 Q 267 670 310 690 Q 326 700 336 690 Q 342 684 333 667 Q 317 630 304 591 Q 291 567 305 548 Q 354 470 341 454 Q 337 444 313 445 Q 285 446 256 444 Q 231 443 260 431 Q 312 407 359 377 Q 372 365 384 377 Q 397 386 404 408 Q 416 459 359 533 Q 326 575 340 595 Q 388 671 414 689 Q 433 702 424 716 Q 411 734 372 753 Q 351 762 336 749 Q 279 706 204 693 C 175 687 196 657 225 663 Z",
 "M 204 693 Q 165 718 146 711 Q 137 705 144 691 Q 171 600 173 589 Q 173 579 174 564 Q 193 282 153 119 Q 138 56 179 6 Q 192 -10 204 5 Q 225 36 221 160 Q 222 611 224 640 Q 225 655 225 663 C 226 681 226 681 204 693 Z",

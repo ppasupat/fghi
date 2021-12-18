@@ -10,752 +10,1328 @@
 "人",
 1,
 "rén",
-"person; man; people"
+"person; people; CL:個|个[ge4],位[wei4]"
 ],
 [
 "别人",
 3,
-"biéren",
-"other people; others"
+"bié ren",
+"other people; others; other person"
 ],
 [
 "客人",
 3,
-"kèrén",
-"guest; customer"
-],
-[
-"成人",
-5,
-"chéngrén",
-"adult; to grow up; become full-grown"
-],
-[
-"敌人",
-5,
-"dírén",
-"enemy"
-],
-[
-"个人",
-5,
-"gèrén",
-"individual; personal; oneself"
-],
-[
-"工人",
-5,
-"gōngrén",
-"worker"
-],
-[
-"人才",
-5,
-"réncái",
-"talent; talented person"
-],
-[
-"人口",
-5,
-"rénkǒu",
-"population; the populace"
+"kè rén",
+"visitor; guest; customer; client; CL:位[wei4]"
 ],
 [
 "人类",
 5,
-"rénlèi",
+"rén lèi",
 "humanity; human race; mankind"
 ],
 [
-"人民币",
+"个人",
 5,
-"rénmínbì",
-"(currency) renminbi (RMB)"
+"gè rén",
+"individual; personal; oneself"
 ],
 [
 "人生",
 5,
-"rénshēng",
-"human life"
-],
-[
-"人事",
-5,
-"rénshì",
-"personnel"
-],
-[
-"人物",
-5,
-"rénwù",
-"figure; personage; character (in a play, story, etc.)"
+"rén shēng",
+"life (one's time on earth)"
 ],
 [
 "人员",
 5,
-"rényuán",
-"staff; crew; personnel"
+"rén yuán",
+"staff; crew; personnel; CL:個|个[ge4]"
 ],
 [
 "私人",
 5,
-"sīrén",
-"private (citizen); personal; individual"
+"sī rén",
+"private; personal; interpersonal; sb with whom one has a close personal relationship; a member of one's clique"
 ],
 [
-"行人",
+"敌人",
 5,
-"xíngrén",
-"pedestrian"
+"dí rén",
+"enemy; CL:個|个[ge4]"
+],
+[
+"人物",
+5,
+"rén wù",
+"person; character (in a play, novel etc); protagonist; CL:個|个[ge4]"
 ],
 [
 "主人",
 5,
-"zhǔrén",
-"master; host; owner"
+"zhǔ rén",
+"master; host; owner; CL:個|个[ge4]"
 ],
 [
-"本人",
+"工人",
+5,
+"gōng rén",
+"worker; CL:個|个[ge4],名[ming2]"
+],
+[
+"人口",
+5,
+"rén kǒu",
+"population; people"
+],
+[
+"成人",
+5,
+"chéng rén",
+"adult"
+],
+[
+"人才",
+5,
+"rén cái",
+"talent; talented person; looks; attractive looks"
+],
+[
+"人事",
+5,
+"rén shì",
+"personnel; human resources; human affairs; ways of the world; (euphemism) sexuality; the facts of life"
+],
+[
+"行人",
+5,
+"xíng rén",
+"pedestrian; traveler on foot; passer-by; official responsible for arranging audiences with the emperor"
+],
+[
+"人民币",
+5,
+"rén mín bì",
+"Renminbi (RMB); Chinese Yuan (CNY)"
+],
+[
+"夫人",
 6,
-"běnrén",
-"I; me; myself; oneself; in person"
+"fū ren",
+"lady; madam; Mrs.; CL:位[wei4]"
+],
+[
+"迷人",
+6,
+"mí rén",
+"fascinating; enchanting; charming; tempting"
+],
+[
+"人家",
+6,
+"rén jiā",
+"household; dwelling; family; sb else's house; household business; house of woman's husband-to-be; CL:戶|户[hu4],家[jia1]"
+],
+[
+"人家",
+6,
+"rén jia",
+"other people; sb else; he, she or they; I, me (referring to oneself as \"one\" or \"people\")"
+],
+[
+"人质",
+6,
+"rén zhì",
+"hostage"
 ],
 [
 "当事人",
 6,
-"dāngshìrén",
+"dāng shì rén",
 "persons involved or implicated; party (to an affair)"
+],
+[
+"本人",
+6,
+"běn rén",
+"the person himself; I (humble form used in speeches); oneself; myself; in person; personal"
+],
+[
+"人士",
+6,
+"rén shì",
+"person; figure; public figure"
 ],
 [
 "丢人",
 6,
 "diū rén",
-"lose face; be disgraced"
-],
-[
-"法人",
-6,
-"fǎrén",
-"legal entity (i.e., a corporation)"
-],
-[
-"风土人情",
-6,
-"fēngtǔrénqíng",
-"local conditions (human and environmental)"
-],
-[
-"夫人",
-6,
-"fūrén",
-"lady; madam; Mrs.; wife"
-],
-[
-"迷人",
-6,
-"mírén",
-"charming; enchanting; cute"
-],
-[
-"人道",
-6,
-"réndào",
-"humanitarianism; humane"
-],
-[
-"人格",
-6,
-"réngé",
-"personality; moral integrity; character"
-],
-[
-"人工",
-6,
-"réngōng",
-"man-made; manpower; manual work"
-],
-[
-"人家",
-6,
-"rénjiā",
-"other people; others; they; I; family; household"
-],
-[
-"人间",
-6,
-"rénjiān",
-"man's world; the world"
-],
-[
-"人士",
-6,
-"rénshì",
-"person; public figure"
-],
-[
-"人为",
-6,
-"rénwéi",
-"artificial; man-made"
+"to lose face"
 ],
 [
 "人性",
 6,
-"rénxìng",
-"human nature; humanity"
+"rén xìng",
+"human nature; humanity; human; the totality of human attributes"
 ],
 [
-"人质",
+"人格",
 6,
-"rénzhì",
-"hostage"
+"rén gé",
+"personality; integrity; dignity"
+],
+[
+"人间",
+6,
+"rén jiān",
+"the human world; the earth"
+],
+[
+"人工",
+6,
+"rén gōng",
+"artificial; manpower; manual work"
+],
+[
+"人道",
+6,
+"rén dào",
+"human sympathy; humanitarianism; humane; the \"human way\", one of the stages in the cycle of reincarnation (Buddhism); sexual intercourse"
+],
+[
+"人为",
+6,
+"rén wéi",
+"artificial; man-made; having human cause or origin; human attempt or effort"
+],
+[
+"法人",
+6,
+"fǎ rén",
+"legal person; corporation; see also 自然人[zi4 ran2 ren2]"
+],
+[
+"风土人情",
+6,
+"fēng tǔ rén qíng",
+"local conditions and customs (idiom)"
 ]
 ],
 "extraWords": [
 [
 "女人",
 428.9,
-"nu:3 ren2",
+"nu:3 rén",
 "woman"
 ],
 [
 "女人",
 428.9,
-"nu:3 ren5",
+"nu:3 ren",
 "wife"
 ],
 [
 "人民",
 353.77,
-"ren2 min2",
+"rén mín",
 "the people; CL:個|个[ge4]"
 ],
 [
 "男人",
 346.03,
-"nan2 ren2",
+"nán rén",
 "a man; a male; men; CL:個|个[ge4]"
 ],
 [
 "有人",
 294.43,
-"you3 ren2",
+"yǒu rén",
 "someone; people; anyone; there is someone there; occupied (as in restroom)"
+],
+[
+"一个人",
+240.96,
+"yī gè rén",
+"by oneself (without assistance); alone (without company)"
+],
+[
+"人们",
+238.18,
+"rén men",
+"people"
+],
+[
+"负责人",
+127.39,
+"fù zé rén",
+"person in charge"
 ],
 [
 "病人",
 101.77,
-"bing4 ren2",
+"bìng rén",
 "sick person; patient; invalid; CL:個|个[ge4]"
+],
+[
+"工作人员",
+100.26,
+"gōng zuò rén yuán",
+"staff member"
 ],
 [
 "老人",
 95.6,
-"lao3 ren2",
+"lǎo rén",
 "old man or woman; the elderly; one's aged parents or grandparents"
 ],
 [
 "令人",
 91.8,
-"ling4 ren2",
+"lìng rén",
 "to cause one (to do sth); to make one (angry, delighted etc)"
+],
+[
+"杀人",
+91.31,
+"shā rén",
+"homicide; to murder; to kill (a person)"
 ],
 [
 "家人",
 85.85,
-"jia1 ren2",
+"jiā rén",
 "household; (one's) family"
 ],
 [
 "大人",
 82.99,
-"da4 ren5",
+"dà ren",
 "adult; grownup; title of respect toward superiors"
+],
+[
+"证人",
+75.86,
+"zhèng rén",
+"witness"
 ],
 [
 "主持人",
 69.06,
-"zhu3 chi2 ren2",
+"zhǔ chí rén",
 "TV or radio presenter; host; anchor"
+],
+[
+"人数",
+68.88,
+"rén shù",
+"number of people"
 ],
 [
 "黑人",
 61.79,
-"hei1 ren2",
+"hēi rén",
 "black person; an illegal"
+],
+[
+"中国人",
+61.73,
+"Zhōng guó rén",
+"Chinese person"
+],
+[
+"每个人",
+59.03,
+"měi ge rén",
+"everybody; everyone"
+],
+[
+"好人",
+53.6,
+"hǎo rén",
+"good person; healthy person; person who tries not to offend anyone, even at the expense of principle"
 ],
 [
 "他人",
 51.01,
-"ta1 ren2",
+"tā rén",
 "another; sb else; other people"
 ],
 [
 "人群",
 51.0,
-"ren2 qun2",
+"rén qún",
 "crowd"
 ],
 [
 "白人",
 49.04,
-"bai2 ren2",
+"bái rén",
 "white man or woman; Caucasian"
+],
+[
+"年轻人",
+45.19,
+"nián qīng rén",
+"young people; youngster"
+],
+[
+"领导人",
+45.05,
+"lǐng dǎo rén",
+"leader"
+],
+[
+"人体",
+41.39,
+"rén tǐ",
+"human body"
+],
+[
+"众人",
+40.55,
+"zhòng rén",
+"everyone"
+],
+[
+"发言人",
+39.49,
+"fā yán rén",
+"spokesperson"
 ],
 [
 "受害人",
 38.9,
-"shou4 hai4 ren2",
+"shòu hài rén",
 "victim"
+],
+[
+"机器人",
+37.92,
+"jī qì rén",
+"mechanical person; robot; android"
 ],
 [
 "人均",
 36.21,
-"ren2 jun1",
+"rén jūn",
 "per capita"
 ],
 [
 "嫌疑人",
 35.63,
-"xian2 yi2 ren2",
+"xián yí rén",
 "a suspect"
+],
+[
+"无人",
+35.29,
+"wú rén",
+"unmanned; uninhabited"
 ],
 [
 "人人",
 35.28,
-"ren2 ren2",
+"rén rén",
 "everyone; every person"
 ],
 [
 "某人",
 34.85,
-"mou3 ren2",
+"mǒu rén",
 "someone; a certain person; some people; I (self-address after one's surname)"
+],
+[
+"犹太人",
+32.43,
+"Yóu tài rén",
+"Jew"
 ],
 [
 "犯人",
 31.0,
-"fan4 ren2",
+"fàn rén",
 "convict; prisoner; criminal"
 ],
 [
 "名人",
 30.97,
-"ming2 ren2",
+"míng rén",
 "personage; celebrity"
+],
+[
+"中华人民共和国",
+30.47,
+"Zhōng huá Rén mín Gòng hé guó",
+"People's Republic of China"
+],
+[
+"贱人",
+29.69,
+"jiàn rén",
+"slut; cheap person"
+],
+[
+"圣诞老人",
+28.41,
+"Shèng dàn Lǎo rén",
+"Father Christmas; Santa Claus"
+],
+[
+"坏人",
+27.57,
+"huài rén",
+"bad person; villain"
+],
+[
+"经纪人",
+25.61,
+"jīng jì rén",
+"broker; middleman; agent; manager"
 ],
 [
 "陌生人",
 25.43,
-"mo4 sheng1 ren2",
+"mò shēng rén",
 "stranger"
 ],
 [
 "新人",
 24.67,
-"xin1 ren2",
-"newcomer; fresh talent; newlywed, esp. new bride; bride and groom"
+"xīn rén",
+"newcomer; fresh talent; newlywed, esp. new bride; bride and groom; (paleoanthropology) Homo sapiens"
 ],
 [
 "每人",
 24.32,
-"mei3 ren2",
+"měi rén",
 "each person; everybody; per person"
+],
+[
+"爱人",
+24.16,
+"ài ren",
+"spouse (PRC); lover (non-PRC); CL:個|个[ge4]"
+],
+[
+"惊人",
+23.93,
+"jīng rén",
+"astonishing"
+],
+[
+"华人",
+23.73,
+"Huá rén",
+"ethnic Chinese person or people"
 ],
 [
 "外星人",
 23.43,
-"wai4 xing1 ren2",
+"wài xīng rén",
 "space alien; extraterrestrial"
 ],
 [
 "人文",
 23.43,
-"ren2 wen2",
+"rén wén",
 "humanities; human affairs; culture"
 ],
 [
 "情人",
 22.95,
-"qing2 ren2",
+"qíng rén",
 "lover; sweetheart"
 ],
 [
 "做人",
 22.91,
-"zuo4 ren2",
+"zuò rén",
 "to conduct oneself; to behave with integrity"
 ],
 [
 "人大",
 22.73,
-"Ren2 da4",
+"Rén dà",
 "(Chinese) National People's Congress (abbr. for 全國人民代表大會|全国人民代表大会[Quan2 guo2 Ren2 min2 Dai4 biao3 Da4 hui4]); Renmin University of China (abbr. for 中國人民大學|中国人民大学[Zhong1 guo2 Ren2 min2 Da4 xue2])"
 ],
 [
 "合伙人",
 22.0,
-"he2 huo3 ren2",
+"hé huǒ rén",
 "partner; associate"
+],
+[
+"美国人",
+21.9,
+"Měi guó rén",
+"American; American person; American people; CL:個|个[ge4]"
 ],
 [
 "美人",
 21.59,
-"mei3 ren2",
+"měi rén",
 "beauty; belle"
+],
+[
+"杀人犯",
+20.66,
+"shā rén fàn",
+"murderer; homicide"
+],
+[
+"吓人",
+20.63,
+"xià rén",
+"to scare; scary; frightening"
 ],
 [
 "用人",
 20.26,
-"yong4 ren2",
+"yòng rén",
 "servant; to employ sb for a job; to manage people; to be in need of staff"
+],
+[
+"候选人",
+20.06,
+"hòu xuǎn rén",
+"candidate; CL:名[ming2]"
+],
+[
+"军人",
+20.05,
+"jūn rén",
+"serviceman; soldier; military personnel"
+],
+[
+"亲人",
+19.98,
+"qīn rén",
+"one's close relatives"
+],
+[
+"为人",
+19.76,
+"wéi rén",
+"to conduct oneself; behavior; conduct; personal character"
+],
+[
+"为人",
+19.76,
+"wèi rén",
+"for sb; for others' interest"
+],
+[
+"骗人",
+19.14,
+"piàn rén",
+"to cheat sb; a scam"
 ],
 [
 "商人",
 18.65,
-"shang1 ren2",
+"shāng rén",
 "merchant; businessman"
 ],
 [
 "超人",
 18.6,
-"Chao1 ren2",
+"Chāo rén",
 "Superman, comic book superhero"
 ],
 [
 "超人",
 18.6,
-"chao1 ren2",
+"chāo rén",
 "superhuman; exceptional"
 ],
 [
 "人心",
 18.23,
-"ren2 xin1",
+"rén xīn",
 "popular feeling; the will of the people"
+],
+[
+"人选",
+18.15,
+"rén xuǎn",
+"choice of person; candidate"
 ],
 [
 "老年人",
 18.03,
-"lao3 nian2 ren2",
+"lǎo nián rén",
 "old people; the elderly"
+],
+[
+"技术人员",
+17.8,
+"jì shù rén yuán",
+"technical staff"
 ],
 [
 "成年人",
 16.99,
-"cheng2 nian2 ren2",
+"chéng nián rén",
 "adult person"
+],
+[
+"艺人",
+16.87,
+"yì rén",
+"performing artist; actor"
+],
+[
+"残疾人",
+16.64,
+"cán jí rén",
+"disabled person"
 ],
 [
 "日本人",
 16.56,
-"Ri4 ben3 ren2",
+"Rì běn rén",
 "Japanese person or people"
 ],
 [
 "人民法院",
 16.34,
-"ren2 min2 fa3 yuan4",
+"rén mín fǎ yuàn",
 "people's court (of law); people's tribunal"
 ],
 [
 "委托人",
 16.31,
-"wei3 tuo1 ren2",
+"wěi tuō rén",
 "(law) client; trustor"
 ],
 [
 "人力",
 16.25,
-"ren2 li4",
+"rén lì",
 "manpower; labor power"
 ],
 [
 "怪人",
 15.41,
-"guai4 ren2",
+"guài rén",
 "strange person; eccentric"
 ],
 [
 "死人",
 15.19,
-"si3 ren2",
+"sǐ rén",
 "dead person; (coll.) to die; (of a death) to happen"
+],
+[
+"全国人大",
+15.06,
+"Quán guó Rén Dà",
+"abbr. for 全國人大會議|全国人大会议[Quan2 guo2 Ren2 Da4 hui4 yi4], National People's Congress (NPC)"
+],
+[
+"诗人",
+14.81,
+"shī rén",
+"bard; poet"
 ],
 [
 "人品",
 14.32,
-"ren2 pin3",
+"rén pǐn",
 "moral standing; moral quality; character; personality; appearance; looks (colloquial); bearing"
 ],
 [
 "感人",
 14.24,
-"gan3 ren2",
+"gǎn rén",
 "touching; moving"
+],
+[
+"人力资源",
+14.15,
+"rén lì zī yuán",
+"human resources"
 ],
 [
 "小人",
 14.08,
-"xiao3 ren2",
+"xiǎo rén",
 "person of low social status (old); I, me (used to refer humbly to oneself); nasty person; vile character"
 ],
 [
 "一家人",
 13.88,
-"yi1 jia1 ren2",
+"yī jiā rén",
 "household; the whole family"
+],
+[
+"外国人",
+13.71,
+"wài guó rén",
+"foreigner"
+],
+[
+"国人",
+13.67,
+"guó rén",
+"compatriots (literary); fellow countrymen"
 ],
 [
 "老人家",
 13.49,
-"lao3 ren2 jia1",
+"lǎo rén jiā",
 "polite term for old woman or man"
 ],
 [
 "真人",
 13.21,
-"zhen1 ren2",
+"zhēn rén",
 "a real person; Daoist spiritual master"
+],
+[
+"人权",
+13.17,
+"rén quán",
+"human rights"
 ],
 [
 "被告人",
 13.04,
-"bei4 gao4 ren2",
+"bèi gào rén",
 "defendant (in legal case)"
+],
+[
+"情人节",
+12.83,
+"Qíng rén jié",
+"Valentine's Day"
+],
+[
+"动人",
+12.65,
+"dòng rén",
+"touching; moving"
+],
+[
+"恋人",
+12.57,
+"liàn rén",
+"lover; sweetheart"
 ],
 [
 "普通人",
 12.34,
-"pu3 tong1 ren2",
+"pǔ tōng rén",
 "ordinary person; private citizen; people; the person in the street"
+],
+[
+"仆人",
+12.16,
+"pú rén",
+"servant"
+],
+[
+"烦人",
+12.07,
+"fán rén",
+"to annoy; annoying; irritating; troublesome"
 ],
 [
 "路人",
 11.84,
-"lu4 ren2",
+"lù rén",
 "passer-by; stranger"
+],
+[
+"全国人大常委会",
+11.81,
+"Quán guó Rén Dà Cháng Wěi huì",
+"Standing Committee of the National People's Congress (abbr. of 全國人民代表大會常務委員會|全国人民代表大会常务委员会)"
+],
+[
+"纳税人",
+11.64,
+"nà shuì rén",
+"taxpayer"
 ],
 [
 "巨人",
 11.54,
-"ju4 ren2",
+"jù rén",
 "giant"
 ],
 [
 "世人",
 11.49,
-"shi4 ren2",
+"shì rén",
 "people (in general); people around the world; everyone"
 ],
 [
 "未成年人",
 11.37,
-"wei4 cheng2 nian2 ren2",
+"wèi chéng nián rén",
 "minor (i.e. person under 18)"
 ],
 [
 "人身",
 11.29,
-"ren2 shen1",
+"rén shēn",
 "person; personal; human body"
 ],
 [
 "被害人",
 11.27,
-"bei4 hai4 ren2",
+"bèi hài rén",
 "victim"
 ],
 [
 "代理人",
 11.23,
-"dai4 li3 ren2",
+"dài lǐ rén",
 "agent"
+],
+[
+"穷人",
+11.1,
+"qióng rén",
+"poor people; the poor"
+],
+[
+"四人帮",
+10.89,
+"Sì rén bāng",
+"Gang of Four: Jiang Qing 江青[Jiang1 Qing1], Zhang Chunqiao 張春橋|张春桥[Zhang1 Chun1 qiao2], Yao Wenyuan 姚文元[Yao2 Wen2 yuan2], Wang Hongwen 王洪文[Wang2 Hong2 wen2], who served as scapegoats for the excesses of the cultural revolution"
+],
+[
+"投资人",
+10.84,
+"tóu zī rén",
+"investor"
+],
+[
+"工人阶级",
+10.55,
+"gōng rén jiē jí",
+"working class"
+],
+[
+"人民日报",
+10.4,
+"Rén mín Rì bào",
+"People's Daily (PRC newspaper)"
+],
+[
+"双人",
+10.32,
+"shuāng rén",
+"two-person; double; pair; tandem"
+],
+[
+"猎人",
+10.28,
+"liè rén",
+"hunter"
+],
+[
+"从业人员",
+10.19,
+"cóng yè rén yuán",
+"employee; person employed in a trade or profession"
+],
+[
+"诱人",
+10.01,
+"yòu rén",
+"attractive; alluring; captivating; to attract; to captivate"
 ],
 [
 "持有人",
 9.84,
-"chi2 you3 ren2",
+"chí yǒu rén",
 "holder"
 ],
 [
 "富人",
 9.84,
-"fu4 ren2",
+"fù rén",
 "rich person; the rich"
 ],
 [
 "代言人",
 9.78,
-"dai4 yan2 ren2",
+"dài yán rén",
 "spokesperson"
 ],
 [
 "人性化",
 9.6,
-"ren2 xing4 hua4",
+"rén xìng huà",
 "(of a system or product etc) adapted to human needs; people-oriented; user-friendly"
 ],
 [
 "人手",
 9.55,
-"ren2 shou3",
+"rén shǒu",
 "manpower; staff; human hand"
+],
+[
+"联系人",
+9.53,
+"lián xì rén",
+"contact (person)"
+],
+[
+"中国人民银行",
+9.38,
+"Zhōng guó Rén mín Yín háng",
+"People's Bank of China"
 ],
 [
 "外人",
 9.35,
-"wai4 ren2",
+"wài rén",
 "outsider; foreigner; stranger"
+],
+[
+"人马",
+9.16,
+"rén mǎ",
+"men and horses; troops; group of people; troop; staff; centaur"
+],
+[
+"人民大会堂",
+9.01,
+"Rén mín Dà huì táng",
+"the Great Hall of the People in Beijing"
 ],
 [
 "中人",
 8.9,
-"zhong1 ren2",
+"zhōng rén",
 "go-between; mediator; intermediary"
 ],
 [
 "走人",
 8.82,
-"zou3 ren2",
+"zǒu rén",
 "(coll.) to leave; to beat it"
+],
+[
+"以人为本",
+8.77,
+"yǐ rén wéi běn",
+"people-oriented"
 ],
 [
 "引人注目",
 8.6,
-"yin3 ren2 zhu4 mu4",
+"yǐn rén zhù mù",
 "to attract attention; eye-catching; conspicuous"
+],
+[
+"专人",
+8.26,
+"zhuān rén",
+"specialist; person appointed for specific task"
+],
+[
+"骂人",
+8.26,
+"mà rén",
+"to swear or curse (at people); to scold or yell at someone"
 ],
 [
 "人流",
 7.91,
-"ren2 liu2",
+"rén liú",
 "stream of people; abortion; abbr. for 人工流產|人工流产[ren2 gong1 liu2 chan3]"
 ],
 [
 "古人",
 7.75,
-"gu3 ren2",
-"people from ancient times; the ancients; the late (i.e. person who has passed away)"
+"gǔ rén",
+"people of ancient times; the ancients; extinct human species such as Homo erectus or Homo neanderthalensis; (literary) deceased person"
+],
+[
+"责任人",
+7.73,
+"zé rèn rén",
+"responsible person; coordinator"
+],
+[
+"过人",
+7.63,
+"guò rén",
+"to surpass others; outstanding; (basketball, soccer etc) to get past an opponent"
+],
+[
+"创始人",
+7.5,
+"chuàng shǐ rén",
+"creator; founder; initiator"
+],
+[
+"伤人",
+7.46,
+"shāng rén",
+"to injure sb"
+],
+[
+"中国人民解放军",
+7.46,
+"Zhōng guó Rén mín Jiě fàng jūn",
+"Chinese People's Liberation Army (PLA)"
+],
+[
+"人际关系",
+7.23,
+"rén jì guān xì",
+"interpersonal relationship"
+],
+[
+"游人",
+7.23,
+"yóu rén",
+"a tourist"
+],
+[
+"后人",
+7.17,
+"hòu rén",
+"later generation"
 ],
 [
 "熟人",
 7.16,
-"shu2 ren2",
+"shú rén",
 "acquaintance; friend"
 ],
 [
 "人中",
 7.04,
-"ren2 zhong1",
+"rén zhōng",
 "philtrum; infranasal depression; the \"human center\" acupuncture point"
 ],
 [
 "友人",
 7.0,
-"you3 ren2",
+"yǒu rén",
 "friend"
 ],
 [
 "族人",
 6.95,
-"zu2 ren2",
+"zú rén",
 "clansman; clan members; relatives; ethnic minority"
+],
+[
+"圣人",
+6.83,
+"shèng rén",
+"saint; sage; refers to Confucius 孔子[Kong3 zi3]; the current reigning Emperor"
+],
+[
+"人参",
+6.66,
+"rén shēn",
+"ginseng"
+],
+[
+"中间人",
+6.59,
+"zhōng jiān rén",
+"intermediary; mediator"
+],
+[
+"法国人",
+6.55,
+"Fǎ guó rén",
+"Frenchman; French person"
+],
+[
+"人民银行",
+6.53,
+"Rén mín Yín háng",
+"People's Bank of China"
+],
+[
+"英国人",
+6.49,
+"Yīng guó rén",
+"British person; British people"
+],
+[
+"监护人",
+6.47,
+"jiān hù rén",
+"guardian"
+],
+[
+"德国人",
+6.36,
+"Dé guó rén",
+"German person or people"
 ],
 [
 "人造",
 6.26,
-"ren2 zao4",
+"rén zào",
 "man-made; artificial; synthetic"
 ],
 [
 "人情",
 6.17,
-"ren2 qing2",
+"rén qíng",
 "human emotions; social relationship; friendship; favor; a good turn"
 ],
 [
 "最高人民法院",
 6.12,
-"Zui4 gao1 Ren2 min2 Fa3 yuan4",
+"Zuì gāo Rén mín Fǎ yuàn",
 "Supreme People's Court (PRC)"
+],
+[
+"好心人",
+6.09,
+"hǎo xīn rén",
+"kindhearted person; good Samaritan"
+],
+[
+"妇人",
+6.09,
+"fù rén",
+"married woman"
 ],
 [
 "常人",
 6.09,
-"chang2 ren2",
+"cháng rén",
 "ordinary person"
+],
+[
+"申请人",
+6.05,
+"shēn qǐng rén",
+"applicant"
 ],
 [
 "道人",
 6.01,
-"dao4 ren2",
+"dào rén",
 "Taoist devotee (honorific)"
+],
+[
+"杀人狂",
+5.93,
+"shā rén kuáng",
+"homicidal maniac"
+],
+[
+"有钱人",
+5.71,
+"yǒu qián rén",
+"rich person; the rich"
 ],
 [
 "主人公",
 5.62,
-"zhu3 ren2 gong1",
+"zhǔ rén gōng",
 "hero (of a novel or film); main protagonist"
 ],
 [
 "罪人",
 5.51,
-"zui4 ren2",
+"zuì rén",
 "sinner"
 ],
 [
 "人行道",
 5.48,
-"ren2 xing2 dao4",
+"rén xíng dào",
 "sidewalk"
+],
+[
+"制片人",
+5.43,
+"zhì piàn rén",
+"moviemaker; filmmaker; producer"
+],
+[
+"债权人",
+5.4,
+"zhài quán rén",
+"creditor"
 ],
 [
 "人命",
 5.31,
-"ren2 ming4",
+"rén mìng",
 "human life; CL:條|条[tiao2]"
 ],
 [
 "人民公社",
 5.28,
-"ren2 min2 gong1 she4",
+"rén mín gōng shè",
 "people's commune"
+],
+[
+"人称",
+5.26,
+"rén chēng",
+"person (first person, second person etc in grammar); called; known as"
 ],
 [
 "出人意料",
 5.25,
-"chu1 ren2 yi4 liao4",
+"chū rén yì liào",
 "unexpected (idiom); surprising"
+],
+[
+"现代人",
+5.25,
+"xiàn dài rén",
+"modern man; Homo sapiens"
+],
+[
+"贵人",
+5.24,
+"guì rén",
+"nobility; person of high rank"
 ],
 [
 "文人",
 5.22,
-"wen2 ren2",
+"wén rén",
 "scholar; literati"
 ],
 [
 "北京人",
 5.19,
-"Bei3 jing1 ren2",
+"Běi jīng rén",
 "Beijing resident; Peking ape-man, Homo erectus pekinensis (c. 600,000 BC), discovered in 1921 at Zhoukoudian 周口店[Zhou1 kou3 dian4], Beijing"
 ],
 [
 "接班人",
 5.18,
-"jie1 ban1 ren2",
+"jiē bān rén",
 "successor"
 ],
 [
 "青年人",
 5.15,
-"qing1 nian2 ren2",
+"qīng nián rén",
 "young person; the young"
+],
+[
+"人头",
+5.13,
+"rén tóu",
+"person; number of people; (per) capita; (a person's) head; (Tw) person whose identity is used by sb else (e.g. to create a bogus account)"
 ],
 [
 "旁人",
 5.1,
-"pang2 ren2",
+"páng rén",
 "other people; bystanders; onlookers; outsiders"
 ]
 ],

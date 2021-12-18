@@ -9,35 +9,96 @@
 [
 "归纳",
 5,
-"guīnà",
-"conclude from the facts; induce; sum up from the facts"
-],
-[
-"采纳",
-6,
-"cǎinà",
-"accept; adopt"
-],
-[
-"缴纳",
-6,
-"jiǎonà",
-"to pay (taxes)"
+"guī nà",
+"to sum up; to summarize; to conclude from facts; induction (method of deduction in logic)"
 ],
 [
 "纳闷儿",
 6,
-"nà mènr",
-"feel puzzled; bewildered"
+"nà mèn r5",
+"erhua variant of 納悶|纳闷[na4 men4]"
+],
+[
+"采纳",
+6,
+"cǎi nà",
+"to accept; to adopt"
 ],
 [
 "容纳",
 6,
-"róngnà",
-"contain; accommodate; tolerate (different options)"
+"róng nà",
+"to hold; to contain; to accommodate; to tolerate (different opinions)"
+],
+[
+"缴纳",
+6,
+"jiǎo nà",
+"to pay (taxes etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"纳入",
+29.75,
+"nà rù",
+"to bring into; to channel into; to integrate into; to incorporate"
+],
+[
+"纳税",
+15.24,
+"nà shuì",
+"to pay taxes"
+],
+[
+"纳粹",
+12.25,
+"Nà cuì",
+"Nazi (loanword)"
+],
+[
+"纳税人",
+11.64,
+"nà shuì rén",
+"taxpayer"
+],
+[
+"交纳",
+9.94,
+"jiāo nà",
+"to pay (taxes or dues)"
+],
+[
+"吸纳",
+8.19,
+"xī nà",
+"to take in; to absorb; to admit; to accept"
+],
+[
+"纳米",
+7.69,
+"nà mǐ",
+"nanometer"
+],
+[
+"阿森纳",
+6.76,
+"Ā sēn nà",
+"Arsenal Football Club"
+],
+[
+"接纳",
+6.19,
+"jiē nà",
+"to admit (to membership)"
+],
+[
+"纳闷",
+5.38,
+"nà mèn",
+"puzzled; bewildered"
+]
+],
 "strokes": [
 "M 303 478 Q 249 478 205 478 Q 171 478 189 499 Q 265 631 340 729 Q 355 745 352 753 Q 349 768 311 799 Q 295 812 276 809 Q 266 806 271 791 Q 289 746 191 568 Q 169 528 124 487 Q 105 474 107 461 Q 111 442 125 425 Q 135 413 148 421 Q 173 434 263 450 Q 275 451 285 452 C 315 455 333 478 303 478 Z",
 "M 285 452 Q 188 317 173 308 Q 160 298 164 285 Q 165 272 192 255 Q 204 245 217 257 Q 271 305 372 353 Q 390 360 392 369 Q 393 379 374 374 Q 319 358 254 330 Q 236 323 247 338 Q 287 399 384 522 Q 411 559 435 582 Q 447 592 440 602 Q 430 620 396 638 Q 380 647 371 644 Q 361 640 364 625 Q 367 580 306 482 Q 305 482 303 478 L 285 452 Z",

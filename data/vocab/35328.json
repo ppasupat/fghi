@@ -9,117 +9,165 @@
 [
 "语言",
 4,
-"yǔyán",
-"language"
+"yǔ yán",
+"language; CL:門|门[men2],種|种[zhong3]"
 ],
 [
 "发言",
 5,
-"fāyán",
-"make a speech; statement"
-],
-[
-"不言而喻",
-6,
-"bùyán'éryù",
-"it goes without saying; it is self-evident"
-],
-[
-"方言",
-6,
-"fāngyán",
-"dialect"
-],
-[
-"序言",
-6,
-"xùyán",
-"preface of a book, used to explain the book's objective"
-],
-[
-"言论",
-6,
-"yánlùn",
-"expression of (political) opinion; speech"
-],
-[
-"谣言",
-6,
-"yáoyán",
-"rumor"
+"fā yán",
+"to make a speech; statement; utterance; CL:個|个[ge4]"
 ],
 [
 "预言",
 6,
-"yùyán",
-"predict; prophecy"
+"yù yán",
+"to predict; prophecy"
 ],
 [
-"寓言",
+"谣言",
 6,
-"yùyán",
-"fable"
+"yáo yán",
+"rumor"
+],
+[
+"言论",
+6,
+"yán lùn",
+"expression of opinion; views; remarks; arguments"
 ],
 [
 "总而言之",
 6,
-"zǒngéryánzhī",
-"in short; in a word"
+"zǒng ér yán zhī",
+"in short; in a word; in brief"
+],
+[
+"方言",
+6,
+"Fāng yán",
+"the first Chinese dialect dictionary, edited by Yang Xiong 揚雄|扬雄[Yang2 Xiong2] in 1st century, containing over 9000 characters"
+],
+[
+"方言",
+6,
+"fāng yán",
+"topolect; dialect"
+],
+[
+"不言而喻",
+6,
+"bù yán ér yù",
+"it goes without saying; it is self-evident"
+],
+[
+"寓言",
+6,
+"yù yán",
+"fable; CL:則|则[ze2]"
+],
+[
+"序言",
+6,
+"xù yán",
+"preface; introductory remarks; preamble; prelude"
 ]
 ],
 "extraWords": [
 [
 "留言",
 43.88,
-"liu2 yan2",
+"liú yán",
 "to leave a message; to leave one's comments; message"
 ],
 [
 "而言",
 43.79,
-"er2 yan2",
+"ér yán",
 "with regard to (preceding phrase)"
+],
+[
+"发言人",
+39.49,
+"fā yán rén",
+"spokesperson"
+],
+[
+"谎言",
+34.94,
+"huǎng yán",
+"lie"
+],
+[
+"言语",
+14.7,
+"yán yǔ",
+"words; speech; (spoken) language"
+],
+[
+"言语",
+14.7,
+"yán yu",
+"to speak; to tell"
 ],
 [
 "宣言",
 13.42,
-"xuan1 yan2",
+"xuān yán",
 "declaration; manifesto"
 ],
 [
 "坦言",
 10.43,
-"tan3 yan2",
+"tǎn yán",
 "to say candidly; to acknowledge frankly"
 ],
 [
 "誓言",
 10.4,
-"shi4 yan2",
+"shì yán",
 "to pledge; to promise; oath; vow"
+],
+[
+"传言",
+10.32,
+"chuán yán",
+"rumor; hearsay"
+],
+[
+"诺言",
+10.14,
+"nuò yán",
+"promise"
 ],
 [
 "代言人",
 9.78,
-"dai4 yan2 ren2",
+"dài yán rén",
 "spokesperson"
+],
+[
+"闻言",
+7.0,
+"wén yán",
+"to have heard what was said"
 ],
 [
 "直言",
 6.14,
-"zhi2 yan2",
+"zhí yán",
 "to speak forthrightly; to talk bluntly"
 ],
 [
 "可言",
 6.05,
-"ke3 yan2",
+"kě yán",
 "it may be said"
 ],
 [
 "言行",
 5.73,
-"yan2 xing2",
+"yán xíng",
 "words and actions; what one says and what one does"
 ]
 ],

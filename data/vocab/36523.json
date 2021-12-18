@@ -9,196 +9,298 @@
 [
 "身体",
 2,
-"shēntǐ",
-"health; (human) body"
-],
-[
-"健身",
-5,
-"jiànshēn",
-"work out; body-building"
-],
-[
-"身材",
-5,
-"shēncái",
-"stature; figure; build"
+"shēn tǐ",
+"the body; one's health; CL:具[ju4],個|个[ge4]; in person"
 ],
 [
 "身份",
 5,
-"shēnfèn",
-"identity; status; dignity"
+"shēn fèn",
+"identity; aspect of one's identity (i.e. sth that one is – mayor, father, permanent resident etc); role; capacity (as in \"in his capacity as a ...\" 以…的身份[yi3 xx5 de5 shen1 fen4]); status (social, legal etc); position; rank"
+],
+[
+"身材",
+5,
+"shēn cái",
+"stature; build (height and weight); figure"
+],
+[
+"健身",
+5,
+"jiàn shēn",
+"to exercise; to keep fit; to work out; physical exercise"
 ],
 [
 "随身",
 5,
-"suíshēn",
-"carry on one's person; bring with one"
+"suí shēn",
+"to (carry) on one's person; to (take) with one"
 ],
 [
 "本身",
 6,
-"běnshēn",
+"běn shēn",
 "itself; in itself; per se"
+],
+[
+"浑身",
+6,
+"hún shēn",
+"all over; from head to foot"
+],
+[
+"终身",
+6,
+"zhōng shēn",
+"lifelong; all one's life; marriage"
 ],
 [
 "出身",
 6,
-"chūshēn",
-"family background; class origin"
+"chū shēn",
+"to be born of; to come from; family background; class origin"
 ],
 [
 "动身",
 6,
 "dòng shēn",
-"go on a journey; leave"
-],
-[
-"浑身",
-6,
-"húnshēn",
-"entire body; from head to foot"
-],
-[
-"终身",
-6,
-"zhōngshēn",
-"lifelong"
+"to go on a journey; to leave"
 ]
 ],
 "extraWords": [
 [
 "身上",
 215.46,
-"shen1 shang5",
+"shēn shang",
 "on the body; at hand; among"
+],
+[
+"身边",
+118.04,
+"shēn biān",
+"at one's side; on hand"
 ],
 [
 "自身",
 89.32,
-"zi4 shen1",
+"zì shēn",
 "itself; oneself; one's own"
 ],
 [
 "全身",
 40.07,
-"quan2 shen1",
+"quán shēn",
 "whole body; em (typography)"
+],
+[
+"单身",
+36.88,
+"dān shēn",
+"unmarried; single"
 ],
 [
 "一身",
 31.87,
-"yi1 shen1",
+"yī shēn",
 "whole body; from head to toe; single person; a suit of clothes"
+],
+[
+"身后",
+31.73,
+"shēn hòu",
+"posthumous; one's social background; behind the body"
+],
+[
+"转身",
+30.37,
+"zhuǎn shēn",
+"(of a person) to turn round; to face about; (of a widow) to remarry (archaic)"
 ],
 [
 "身高",
 27.77,
-"shen1 gao1",
+"shēn gāo",
 "(a person's) height"
+],
+[
+"身份证",
+27.7,
+"shēn fèn zhèng",
+"identity card; ID"
+],
+[
+"机身",
+22.12,
+"jī shēn",
+"body of a vehicle or machine; fuselage of a plane"
 ],
 [
 "起身",
 21.87,
-"qi3 shen1",
+"qǐ shēn",
 "to get up; to leave; to set forth"
 ],
 [
 "身影",
 19.01,
-"shen1 ying3",
+"shēn yǐng",
 "silhouette; figure"
 ],
 [
 "身心",
 16.74,
-"shen1 xin1",
+"shēn xīn",
 "body and mind; mental and physical"
 ],
 [
 "修身",
 16.05,
-"xiu1 shen1",
+"xiū shēn",
 "to cultivate one's moral character; (fashion) slim-fit; body-hugging"
+],
+[
+"车身",
+12.54,
+"chē shēn",
+"body of automobile"
 ],
 [
 "身亡",
 11.69,
-"shen1 wang2",
+"shēn wáng",
 "to die"
 ],
 [
 "身形",
 11.35,
-"shen1 xing2",
+"shēn xíng",
 "figure (esp. a woman's)"
 ],
 [
 "人身",
 11.29,
-"ren2 shen1",
+"rén shēn",
 "person; personal; human body"
+],
+[
+"身着",
+9.97,
+"shēn zhuó",
+"to wear"
+],
+[
+"身价",
+9.89,
+"shēn jià",
+"social status; price of a slave; price of a person (a sportsman etc); worth; value (of stocks, valuables etc)"
+],
+[
+"现身",
+9.58,
+"xiàn shēn",
+"to show oneself; to appear; (of a deity) to appear in the flesh"
+],
+[
+"脱身",
+9.24,
+"tuō shēn",
+"to get away; to escape (from obligations); to free oneself; to disengage"
 ],
 [
 "身子",
 8.53,
-"shen1 zi5",
+"shēn zi",
 "body; pregnancy; health"
 ],
 [
 "健身房",
 8.08,
-"jian4 shen1 fang2",
+"jiàn shēn fáng",
 "gym; gymnasium"
 ],
 [
 "翻身",
 8.03,
-"fan1 shen1",
+"fān shēn",
 "to turn over (when lying); (fig.) to free oneself; to emancipate oneself; to bring about a change of one's fortunes"
+],
+[
+"热身赛",
+7.82,
+"rè shēn sài",
+"exhibition game"
 ],
 [
 "上身",
 7.23,
-"shang4 shen1",
+"shàng shēn",
 "upper part of the body"
 ],
 [
 "藏身",
 6.98,
-"cang2 shen1",
+"cáng shēn",
 "to hide; to go into hiding; to take refuge"
+],
+[
+"身躯",
+6.63,
+"shēn qū",
+"body"
+],
+[
+"热身",
+6.44,
+"rè shēn",
+"to warm up (sports); (fig.) to prepare; to get in condition"
 ],
 [
 "投身",
 6.35,
-"tou2 shen1",
+"tóu shēn",
 "to throw oneself into sth"
 ],
 [
 "化身",
 6.31,
-"hua4 shen1",
+"huà shēn",
 "incarnation; reincarnation; embodiment (of abstract idea); personification"
+],
+[
+"身处",
+6.3,
+"shēn chǔ",
+"in (some place); to be in (adversity, a difficult situation, danger, turmoil etc); to find oneself in; placed in; surrounded by"
 ],
 [
 "合身",
 5.51,
-"he2 shen1",
+"hé shēn",
 "well-fitting (of clothes)"
+],
+[
+"贴身",
+5.4,
+"tiē shēn",
+"worn next to the skin; close-fitting; personal (servant etc)"
 ],
 [
 "置身",
 5.37,
-"zhi4 shen1",
+"zhì shēn",
 "to place oneself; to stay"
 ],
 [
 "身手",
 5.29,
-"shen1 shou3",
+"shēn shǒu",
 "skill; talent; agility"
+],
+[
+"跻身",
+5.22,
+"jī shēn",
+"to rise (in society)"
 ]
 ],
 "strokes": [

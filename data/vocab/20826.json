@@ -9,11 +9,114 @@
 [
 "党",
 6,
+"Dǎng",
+"surname Dang"
+],
+[
+"党",
+6,
 "dǎng",
-"party; club; association"
+"party; association; club; society; CL:個|个[ge4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"党员",
+51.48,
+"dǎng yuán",
+"party member; CL:名[ming2],位[wei4],個|个[ge4]"
+],
+[
+"党委",
+45.56,
+"dǎng wěi",
+"Party committee"
+],
+[
+"国民党",
+33.33,
+"Guó mín dǎng",
+"Guomindang or Kuomintang (KMT); Nationalist Party"
+],
+[
+"中国共产党",
+23.57,
+"Zhōng guó Gòng chǎn dǎng",
+"Communist Party of China"
+],
+[
+"党中央",
+21.32,
+"Dǎng Zhōng yāng",
+"Central Committee of the CCP"
+],
+[
+"共产党",
+20.36,
+"Gòng chǎn dǎng",
+"Communist Party"
+],
+[
+"党政",
+17.18,
+"dǎng zhèng",
+"Party and government administration"
+],
+[
+"党内",
+15.83,
+"dǎng nèi",
+"within the party (esp. Chinese communist party)"
+],
+[
+"共产党员",
+15.13,
+"Gòng chǎn dǎng yuán",
+"Communist Party member"
+],
+[
+"政党",
+11.54,
+"zhèng dǎng",
+"political party; CL:個|个[ge4]"
+],
+[
+"民主党",
+9.13,
+"Mín zhǔ dǎng",
+"Democratic Party"
+],
+[
+"共和党",
+8.94,
+"Gòng hé dǎng",
+"Republican Party"
+],
+[
+"党组",
+6.97,
+"dǎng zǔ",
+"party leadership group"
+],
+[
+"真主党",
+6.82,
+"Zhēn zhǔ dǎng",
+"Hezbollah (Lebanon Islamic group)"
+],
+[
+"黑手党",
+5.57,
+"hēi shǒu dǎng",
+"mafia"
+],
+[
+"自民党",
+5.13,
+"Zì mín dǎng",
+"Liberal Democratic Party (Japanese political party)"
+]
+],
 "strokes": [
 "M 527 605 Q 536 675 560 790 Q 564 800 545 816 Q 511 835 488 840 Q 472 844 464 836 Q 457 829 464 814 Q 485 783 484 599 C 484 569 523 575 527 605 Z",
 "M 331 692 Q 350 671 371 647 Q 384 632 400 632 Q 410 632 417 645 Q 423 660 416 690 Q 412 706 386 721 Q 322 746 308 743 Q 304 739 303 726 Q 306 716 331 692 Z",

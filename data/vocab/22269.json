@@ -9,65 +9,552 @@
 [
 "中国",
 1,
-"Zhōngguó",
+"Zhōng guó",
 "China"
 ],
 [
 "国家",
 3,
-"guójiā",
-"country; state; nation"
-],
-[
-"国籍",
-4,
-"guójí",
-"nationality"
+"guó jiā",
+"country; nation; state; CL:個|个[ge4]"
 ],
 [
 "国际",
 4,
-"guójì",
+"guó jì",
 "international"
 ],
 [
-"国庆节",
-5,
-"Guóqìng Jié",
-"National Day"
+"国籍",
+4,
+"guó jí",
+"nationality"
 ],
 [
 "国王",
 5,
-"guówáng",
-"king"
+"guó wáng",
+"king; CL:個|个[ge4]"
+],
+[
+"国庆节",
+5,
+"Guó qìng jié",
+"PRC National Day (October 1st)"
+],
+[
+"祖国",
+6,
+"zǔ guó",
+"motherland"
 ],
 [
 "共和国",
 6,
-"gònghéguó",
+"gòng hé guó",
 "republic"
 ],
 [
 "国防",
 6,
-"guófáng",
+"guó fáng",
 "national defense"
 ],
 [
 "国务院",
 6,
-"guówùyuàn",
+"Guó wù yuàn",
 "State Council (PRC); State Department (USA)"
-],
-[
-"祖国",
-6,
-"zǔguó",
-"homeland; motherland; fatherland"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"美国",
+599.84,
+"Měi guó",
+"United States; USA; US"
+],
+[
+"全国",
+360.24,
+"quán guó",
+"whole nation; nationwide; countrywide; national"
+],
+[
+"我国",
+339.99,
+"wǒ guó",
+"our country; China"
+],
+[
+"国内",
+264.06,
+"guó nèi",
+"domestic; internal (to a country); civil"
+],
+[
+"英国",
+135.72,
+"Yīng guó",
+"United Kingdom 聯合王國|联合王国[Lian2 he2 wang2 guo2]; United Kingdom of Great Britain and Northern Ireland; abbr. for England 英格蘭|英格兰[Ying1 ge2 lan2]"
+],
+[
+"韩国",
+120.59,
+"Hán guó",
+"South Korea (Republic of Korea); Han, one of the Seven Hero States of the Warring States 戰國七雄|战国七雄[zhan4 guo2 qi1 xiong2]; Korea from the fall of the Joseon dynasty in 1897"
+],
+[
+"德国",
+102.31,
+"Dé guó",
+"Germany; German"
+],
+[
+"法国",
+93.18,
+"Fǎ guó",
+"France; French"
+],
+[
+"国外",
+85.6,
+"guó wài",
+"abroad; external (affairs); overseas; foreign"
+],
+[
+"两国",
+69.03,
+"liǎng guó",
+"both countries; two countries"
+],
+[
+"联合国",
+63.05,
+"Lián hé guó",
+"United Nations"
+],
+[
+"中国人",
+61.73,
+"Zhōng guó rén",
+"Chinese person"
+],
+[
+"各国",
+55.32,
+"gè guó",
+"each country; every country; various countries"
+],
+[
+"外国",
+48.05,
+"wài guó",
+"foreign (country); CL:個|个[ge4]"
+],
+[
+"三国",
+45.52,
+"Sān guó",
+"Three Kingdoms period (220-280) in Chinese history; several Three Kingdoms periods in Korean history, esp. from 1st century AD to unification under Silla 新羅|新罗[Xin1 luo2] in 658"
+],
+[
+"国有",
+44.93,
+"guó yǒu",
+"nationalized; public; government owned; state-owned"
+],
+[
+"国家队",
+36.69,
+"guó jiā duì",
+"the national team"
+],
+[
+"泰国",
+35.89,
+"Tài guó",
+"Thailand; Thai"
+],
+[
+"国内外",
+35.18,
+"guó nèi wài",
+"domestic and international; at home and abroad"
+],
+[
+"国民党",
+33.33,
+"Guó mín dǎng",
+"Guomindang or Kuomintang (KMT); Nationalist Party"
+],
+[
+"国产",
+31.74,
+"guó chǎn",
+"domestically produced"
+],
+[
+"国有企业",
+30.77,
+"guó yǒu qǐ yè",
+"nationalized business; state-owned business"
+],
+[
+"中华人民共和国",
+30.47,
+"Zhōng huá Rén mín Gòng hé guó",
+"People's Republic of China"
+],
+[
+"国民经济",
+27.02,
+"guó mín jīng jì",
+"national economy"
+],
+[
+"俄国",
+25.67,
+"É guó",
+"Russia"
+],
+[
+"中国共产党",
+23.57,
+"Zhōng guó Gòng chǎn dǎng",
+"Communist Party of China"
+],
+[
+"国会",
+22.34,
+"Guó huì",
+"Parliament (UK); Congress (US); Diet (Japan); Legislative Yuan (Taiwan)"
+],
+[
+"国债",
+22.23,
+"guó zhài",
+"national debt; government debt"
+],
+[
+"美国人",
+21.9,
+"Měi guó rén",
+"American; American person; American people; CL:個|个[ge4]"
+],
+[
+"帝国主义",
+20.63,
+"dì guó zhǔ yì",
+"imperialism"
+],
+[
+"国民",
+19.9,
+"guó mín",
+"nationals; citizens; people of a nation"
+],
+[
+"国际化",
+19.54,
+"guó jì huà",
+"to internationalize; internationalization"
+],
+[
+"回国",
+19.34,
+"huí guó",
+"to return to one's home country"
+],
+[
+"爱国",
+18.18,
+"ài guó",
+"to love one's country; patriotic"
+],
+[
+"大国",
+17.93,
+"dà guó",
+"a power (i.e. a dominant country)"
+],
+[
+"出国",
+17.59,
+"chū guó",
+"to go abroad; to leave the country; emigration"
+],
+[
+"国土",
+16.74,
+"guó tǔ",
+"country's territory; national land"
+],
+[
+"帝国",
+16.43,
+"dì guó",
+"empire; imperial"
+],
+[
+"发展中国家",
+15.86,
+"fā zhǎn zhōng guó jiā",
+"developing country"
+],
+[
+"国企",
+15.83,
+"guó qǐ",
+"state enterprise; (Tw) abbr. for 國際企業管理|国际企业管理, international business management (as a subject of study)"
+],
+[
+"全国人大",
+15.06,
+"Quán guó Rén Dà",
+"abbr. for 全國人大會議|全国人大会议[Quan2 guo2 Ren2 Da4 hui4 yi4], National People's Congress (NPC)"
+],
+[
+"国家级",
+14.14,
+"guó jiā jí",
+"(administrative) national-level"
+],
+[
+"外国人",
+13.71,
+"wài guó rén",
+"foreigner"
+],
+[
+"国人",
+13.67,
+"guó rén",
+"compatriots (literary); fellow countrymen"
+],
+[
+"国资委",
+13.41,
+"Guó Zī Wěi",
+"see 國務院國有資產監督管理委員會|国务院国有资产监督管理委员会[Guo2 wu4 yuan4 Guo2 you3 Zi1 chan3 Jian1 du1 Guan3 li3 Wei3 yuan2 hui4]"
+],
+[
+"成员国",
+12.96,
+"chéng yuán guó",
+"member country"
+],
+[
+"国情",
+12.8,
+"guó qíng",
+"the characteristics and circumstances particular to a country; current state of a country"
+],
+[
+"中国银行",
+12.51,
+"Zhōng guó Yín háng",
+"Bank of China (BoC)"
+],
+[
+"跨国公司",
+11.85,
+"kuà guó gōng sī",
+"transnational corporation; multinational corporation"
+],
+[
+"全国人大常委会",
+11.81,
+"Quán guó Rén Dà Cháng Wěi huì",
+"Standing Committee of the National People's Congress (abbr. of 全國人民代表大會常務委員會|全国人民代表大会常务委员会)"
+],
+[
+"国营",
+11.05,
+"guó yíng",
+"state-run (company etc); nationalized"
+],
+[
+"跨国",
+11.05,
+"kuà guó",
+"transnational; multinational"
+],
+[
+"国防部",
+10.84,
+"Guó fáng bù",
+"Defense Department; Ministry of National Defense"
+],
+[
+"国庆",
+10.08,
+"Guó qìng",
+"National Day"
+],
+[
+"王国",
+10.02,
+"wáng guó",
+"kingdom; realm"
+],
+[
+"国安",
+9.77,
+"guó ān",
+"national security (abbr. for 國家安全|国家安全[guo2 jia1 an1 quan2]); national security act; state security agency"
+],
+[
+"国道",
+9.45,
+"guó dào",
+"national highway"
+],
+[
+"中国人民银行",
+9.38,
+"Zhōng guó Rén mín Yín háng",
+"People's Bank of China"
+],
+[
+"爱国主义",
+8.68,
+"ài guó zhǔ yì",
+"patriotism"
+],
+[
+"国旗",
+8.21,
+"guó qí",
+"flag (of a country); CL:面[mian4]"
+],
+[
+"国际贸易",
+8.13,
+"guó jì mào yì",
+"international trade"
+],
+[
+"靖国神社",
+8.05,
+"Jìng guó Shén shè",
+"Yasukuni Shrine, Shinto shrine in Tokyo to Japanese war dead, controversial as burial ground of several Class A war criminals"
+],
+[
+"全国性",
+7.8,
+"quán guó xìng",
+"national"
+],
+[
+"国防部长",
+7.63,
+"guó fáng bù zhǎng",
+"Defense secretary; Defense Minister"
+],
+[
+"中国人民解放军",
+7.46,
+"Zhōng guó Rén mín Jiě fàng jūn",
+"Chinese People's Liberation Army (PLA)"
+],
+[
+"国力",
+7.05,
+"guó lì",
+"a nation's power"
+],
+[
+"中国科学院",
+7.04,
+"Zhōng guó Kē xué yuàn",
+"Chinese Academy of Science"
+],
+[
+"国美",
+6.98,
+"Guó měi",
+"GOME, electronics chain founded in Beijing in 1987"
+],
+[
+"国务卿",
+6.92,
+"guó wù qīng",
+"Secretary of State"
+],
+[
+"国家主席",
+6.89,
+"guó jiā zhǔ xí",
+"president (title of the head of state of China and several other nations)"
+],
+[
+"法国人",
+6.55,
+"Fǎ guó rén",
+"Frenchman; French person"
+],
+[
+"强国",
+6.55,
+"Qiáng guó",
+"(ironically) mainland China (Taiwan & Hong Kong usage)"
+],
+[
+"强国",
+6.55,
+"qiáng guó",
+"powerful country; great power"
+],
+[
+"民国",
+6.54,
+"Mín guó",
+"Republic of China (1912-1949); used in Taiwan as the name of the calendar era (e.g. 民國六十年|民国六十年 is 1971, the 60th year after 1911)"
+],
+[
+"英国人",
+6.49,
+"Yīng guó rén",
+"British person; British people"
+],
+[
+"德国人",
+6.36,
+"Dé guó rén",
+"German person or people"
+],
+[
+"国内生产总值",
+6.24,
+"guó nèi shēng chǎn zǒng zhí",
+"gross domestic product (GDP)"
+],
+[
+"中国日报",
+6.0,
+"Zhōng guó Rì bào",
+"China Daily (an English language newspaper)"
+],
+[
+"国度",
+5.73,
+"guó dù",
+"country; nation"
+],
+[
+"国土资源部",
+5.37,
+"Guó tǔ Zī yuán bù",
+"Ministry of Land and Resources (MLR), formed in 1998"
+],
+[
+"治国",
+5.14,
+"zhì guó",
+"to rule a country"
+]
+],
 "strokes": [
 "M 282 720 Q 270 741 233 755 Q 221 762 208 757 Q 198 751 205 736 Q 229 648 231 611 Q 230 608 231 602 Q 238 308 189 137 Q 170 68 211 19 Q 223 3 236 17 Q 246 30 250 44 L 255 86 Q 259 123 261 178 Q 280 626 285 676 C 287 706 288 714 282 720 Z",
 "M 751 76 Q 772 55 799 4 Q 809 -20 825 -18 Q 838 -17 847 5 Q 877 62 852 247 Q 822 661 841 685 Q 844 692 849 697 Q 861 712 860 720 Q 859 733 825 756 Q 767 795 724 781 Q 703 777 668 770 Q 517 754 335 723 Q 307 720 282 720 C 252 719 256 670 285 676 Q 297 676 314 682 Q 327 686 450 706 Q 601 730 718 737 Q 743 738 749 726 Q 774 701 782 401 Q 789 220 792 177 Q 796 117 780 98 C 771 69 735 96 751 76 Z",

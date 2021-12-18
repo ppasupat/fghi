@@ -9,93 +9,135 @@
 [
 "不客气",
 1,
-"bú kèqi",
-"you're welcome; don't be polite"
+"bù kè qi",
+"you're welcome; don't mention it; impolite; rude; blunt"
 ],
 [
 "客人",
 3,
-"kèrén",
-"guest; customer"
+"kè rén",
+"visitor; guest; customer; client; CL:位[wei4]"
 ],
 [
 "顾客",
 4,
-"gùkè",
-"customer; client"
+"gù kè",
+"client; customer; CL:位[wei4]"
 ],
 [
 "客厅",
 4,
-"kètīng",
-"living room; parlor"
-],
-[
-"好客",
-5,
-"hàokè",
-"hospitable; to enjoy having guests"
+"kè tīng",
+"drawing room (room for arriving guests); living room; CL:間|间[jian1]"
 ],
 [
 "客观",
 5,
-"kèguān",
-"objective; impartial; unbiased"
+"kè guān",
+"objective; impartial"
+],
+[
+"好客",
+5,
+"hào kè",
+"hospitality; to treat guests well; to enjoy having guests; hospitable; friendly"
 ],
 [
 "客户",
 6,
-"kèhù",
-"customer; account; client"
+"kè hù",
+"client; customer"
 ]
 ],
 "extraWords": [
 [
+"客气",
+67.1,
+"kè qi",
+"polite; courteous; formal; modest"
+],
+[
+"游客",
+54.6,
+"yóu kè",
+"traveler; tourist; (online gaming) guest player"
+],
+[
 "旅客",
 40.18,
-"lu:3 ke4",
+"lu:3 kè",
 "traveler; tourist"
 ],
 [
 "乘客",
 40.13,
-"cheng2 ke4",
+"chéng kè",
 "passenger"
+],
+[
+"客场",
+29.48,
+"kè chǎng",
+"away-game arena; away-game venue"
+],
+[
+"客运",
+17.87,
+"kè yùn",
+"passenger transportation; (Tw) intercity bus"
+],
+[
+"客车",
+17.77,
+"kè chē",
+"coach; bus; passenger train"
 ],
 [
 "客房",
 10.02,
-"ke4 fang2",
+"kè fáng",
 "guest room"
 ],
 [
 "客流",
 8.77,
-"ke4 liu2",
+"kè liú",
 "passenger flow; customer flow"
 ],
 [
 "博客",
 8.64,
-"bo2 ke4",
+"bó kè",
 "blog (loanword); weblog; blogger"
 ],
 [
 "做客",
 8.58,
-"zuo4 ke4",
+"zuò kè",
 "to be a guest or visitor"
+],
+[
+"请客",
+7.66,
+"qǐng kè",
+"to give a dinner party; to entertain guests; to invite to dinner"
+],
+[
+"客机",
+6.91,
+"kè jī",
+"passenger plane"
 ],
 [
 "政客",
 6.89,
-"zheng4 ke4",
+"zhèng kè",
 "politician"
 ],
 [
 "黑客",
 5.13,
-"hei1 ke4",
+"hēi kè",
 "hacker (computing) (loanword)"
 ]
 ],

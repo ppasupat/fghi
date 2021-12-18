@@ -7,61 +7,140 @@
 },
 "words": [
 [
+"到达",
+5,
+"dào dá",
+"to reach; to arrive"
+],
+[
 "表达",
 5,
-"biǎodá",
-"to express; to voice; convey"
+"biǎo dá",
+"to express; to convey"
 ],
 [
 "达到",
 5,
 "dá dào",
-"achieve; attain; to reach"
-],
-[
-"到达",
-5,
-"dàodá",
-"to reach; arrive"
+"to reach; to achieve; to attain"
 ],
 [
 "发达",
 5,
-"fādá",
-"developed (country, etc.); flourishing; prosper"
-],
-[
-"传达",
-6,
-"chuándá",
-"convey; transmit; communicate"
+"fā dá",
+"developed (country etc); flourishing; to develop"
 ],
 [
 "达成",
 6,
 "dá chéng",
-"to reach (an agreement); achieve"
+"to reach (an agreement); to accomplish"
 ],
 [
 "抵达",
 6,
-"dǐdá",
-"arrive; to reach (a destination); touch down"
+"dǐ dá",
+"to arrive; to reach (a destination)"
+],
+[
+"传达",
+6,
+"chuán dá",
+"to pass on; to convey; to relay; to transmit; transmission"
 ],
 [
 "雷达",
 6,
-"léidá",
-"radar"
+"léi dá",
+"radar (loanword)"
 ],
 [
 "转达",
 6,
-"zhuǎndá",
-"pass on; convey; communicate"
+"zhuǎn dá",
+"to pass on; to convey; to communicate"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"高达",
+52.18,
+"Gāo dá",
+"Gundam, Japanese animation franchise; Jean-Luc Godard (1930-), French-Swiss film director"
+],
+[
+"高达",
+52.18,
+"gāo dá",
+"to attain; to reach up to"
+],
+[
+"长达",
+24.04,
+"cháng dá",
+"to extend as long as; to lengthen out to"
+],
+[
+"萨达姆",
+19.28,
+"Sà dá mǔ",
+"Saddam"
+],
+[
+"佛罗里达",
+13.83,
+"Fú luó lǐ dá",
+"Florida"
+],
+[
+"下达",
+12.95,
+"xià dá",
+"to transmit down (a chain of command); to pass down (to lower level); to issue; to send through"
+],
+[
+"达标",
+10.68,
+"dá biāo",
+"to reach a set standard"
+],
+[
+"巴格达",
+10.68,
+"Bā gé dá",
+"Baghdad, capital of Iraq"
+],
+[
+"多达",
+10.02,
+"duō dá",
+"up to; no less than; as much as"
+],
+[
+"达拉斯",
+7.36,
+"Dá lā sī",
+"Dallas"
+],
+[
+"送达",
+7.07,
+"sòng dá",
+"to deliver; to serve notice (law)"
+],
+[
+"柯达",
+6.11,
+"Kē dá",
+"Kodak (brand, US film company); full name Eastman Kodak Company 伊士曼柯達公司|伊士曼柯达公司[Yi1 shi4 man4 Ke1 da2 Gong1 si1]"
+],
+[
+"直达",
+5.02,
+"zhí dá",
+"to go nonstop to; through (as in \"through train\"); nonstop"
+]
+],
 "strokes": [
 "M 600 494 Q 648 506 793 530 Q 805 529 814 543 Q 814 556 789 566 Q 750 588 676 561 Q 610 545 605 541 L 552 529 Q 525 525 503 521 Q 463 515 420 507 Q 389 503 413 484 Q 446 460 494 469 Q 518 475 546 482 L 600 494 Z",
 "M 595 467 Q 596 480 600 494 L 605 541 Q 609 689 628 747 Q 632 759 624 766 Q 606 782 570 796 Q 549 805 533 799 Q 514 792 529 775 Q 557 747 558 716 Q 559 611 552 529 L 546 482 Q 533 353 470 282 Q 445 252 393 212 Q 380 206 378 202 Q 374 196 389 195 Q 446 195 530 278 Q 537 288 546 300 Q 573 348 590 434 L 595 467 Z",

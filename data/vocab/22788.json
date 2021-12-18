@@ -9,53 +9,222 @@
 [
 "到处",
 4,
-"dàochù",
-"everywhere; in all places; all over"
+"dào chù",
+"everywhere"
 ],
 [
 "好处",
 4,
-"hǎochu",
-"benefit; advantage"
+"hǎo chǔ",
+"easy to get along with"
+],
+[
+"好处",
+4,
+"hǎo chu",
+"benefit; advantage; gain; profit; also pr. [hao3 chu4]; CL:個|个[ge4]"
 ],
 [
 "处理",
 5,
-"chǔlǐ",
-"deal with; to process; sell at a discount; to treat (by a special process)"
+"chǔ lǐ",
+"to handle; to treat; to deal with; to process; to deal with a criminal case; to mete out punishment; to offer for sale at a reduced price; to punish"
 ],
 [
 "相处",
 5,
-"xiāngchǔ",
-"get along; interact"
-],
-[
-"处分",
-6,
-"chǔfèn",
-"punish; punishment; discipline; disposal"
+"xiāng chǔ",
+"to be in contact (with sb); to associate; to interact; to get along (well, poorly)"
 ],
 [
 "处境",
 6,
-"chǔjìng",
-"plight; unfavorable situation"
+"chǔ jìng",
+"situation (of a person)"
 ],
 [
 "处置",
 6,
-"chǔzhì",
-"to handle; take care of; punish"
+"chǔ zhì",
+"to handle; to take care of; to punish"
 ],
 [
 "恰到好处",
 6,
 "qià dào hǎo chù",
-"just right; it's just perfect"
+"it's just perfect; it's just right"
+],
+[
+"处分",
+6,
+"chǔ fèn",
+"to discipline sb; to punish; disciplinary action; to deal with (a matter); CL:個|个[ge4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"处于",
+104.03,
+"chǔ yú",
+"to be in (some state, position, or condition)"
+],
+[
+"处女",
+47.82,
+"chǔ nu:3",
+"virgin; maiden; inaugural"
+],
+[
+"处罚",
+44.78,
+"chǔ fá",
+"to penalize; to punish"
+],
+[
+"查处",
+30.65,
+"chá chǔ",
+"to investigate and handle (a criminal case)"
+],
+[
+"处在",
+24.25,
+"chǔ zài",
+"to be situated at; to find oneself at"
+],
+[
+"四处",
+22.18,
+"sì chù",
+"all over the place; everywhere and all directions"
+],
+[
+"处理器",
+21.79,
+"chǔ lǐ qì",
+"processor"
+],
+[
+"判处",
+19.51,
+"pàn chǔ",
+"to sentence; to condemn"
+],
+[
+"远处",
+18.71,
+"yuǎn chù",
+"distant place"
+],
+[
+"深处",
+16.77,
+"shēn chù",
+"abyss; depths; deepest or most distant part"
+],
+[
+"处处",
+16.37,
+"chù chù",
+"everywhere; in all respects"
+],
+[
+"住处",
+14.31,
+"zhù chù",
+"residence; dwelling; dwelling place"
+],
+[
+"地处",
+12.93,
+"dì chǔ",
+"to be located at; to be situated in"
+],
+[
+"处长",
+10.75,
+"chù zhǎng",
+"department head; section chief"
+],
+[
+"何处",
+10.62,
+"hé chù",
+"whence; where"
+],
+[
+"此处",
+10.4,
+"cǐ chù",
+"this place; here (literary)"
+],
+[
+"处方",
+10.35,
+"chǔ fāng",
+"medical prescription; to write out a prescription; (fig.) recommendation; advice"
+],
+[
+"别处",
+9.0,
+"bié chù",
+"elsewhere"
+],
+[
+"独处",
+8.94,
+"dú chǔ",
+"to live alone; to spend time alone (or with a significant other)"
+],
+[
+"办事处",
+8.13,
+"bàn shì chù",
+"office; agency"
+],
+[
+"处决",
+7.42,
+"chǔ jué",
+"to execute (a condemned criminal)"
+],
+[
+"身处",
+6.3,
+"shēn chǔ",
+"in (some place); to be in (adversity, a difficult situation, danger, turmoil etc); to find oneself in; placed in; surrounded by"
+],
+[
+"一无是处",
+6.2,
+"yī wú shì chù",
+"not one good point; everything about it is wrong"
+],
+[
+"处死",
+5.87,
+"chǔ sǐ",
+"an execution; to put sb to death"
+],
+[
+"用处",
+5.69,
+"yòng chu",
+"usefulness; CL:個|个[ge4]"
+],
+[
+"无处",
+5.22,
+"wú chù",
+"nowhere"
+],
+[
+"无处不在",
+5.22,
+"wú chù bù zài",
+"to be everywhere"
+]
+],
 "strokes": [
 "M 261 529 Q 286 572 311 624 Q 332 673 352 697 Q 361 709 355 722 Q 349 735 318 755 Q 290 771 270 768 Q 251 764 262 743 Q 278 715 269 687 Q 227 537 92 336 Q 82 324 81 318 Q 78 306 93 310 Q 133 328 247 505 L 261 529 Z",
 "M 353 289 Q 393 361 432 464 Q 447 494 472 513 Q 487 523 486 532 Q 485 545 454 560 Q 417 581 402 579 Q 390 578 380 569 Q 307 536 266 531 Q 263 531 261 529 C 232 522 217 510 247 505 Q 283 493 330 516 Q 360 537 376 525 Q 385 521 367 458 Q 354 392 312 319 L 293 285 Q 209 158 73 70 Q 66 64 66 60 Q 67 56 75 57 Q 195 72 328 249 Q 331 255 334 258 L 353 289 Z",

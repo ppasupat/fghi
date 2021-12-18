@@ -9,41 +9,108 @@
 [
 "参加",
 3,
-"cānjiā",
-"participate; join; take part in"
+"cān jiā",
+"to participate; to take part; to join"
 ],
 [
 "参观",
 4,
-"cānguān",
-"to visit (a place, such as a tourist spot); inspect"
-],
-[
-"参考",
-5,
-"cānkǎo",
-"reference; consult"
+"cān guān",
+"to look around; to tour; to visit"
 ],
 [
 "参与",
 5,
-"cānyù",
-"participate (in sth.); attach oneself to"
+"cān yù",
+"to participate (in sth)"
 ],
 [
-"参谋",
-6,
-"cānmóu",
-"advisor; give advice"
+"参考",
+5,
+"cān kǎo",
+"consultation; reference; to consult; to refer"
 ],
 [
 "参照",
 6,
-"cānzhào",
-"consult a reference; refer to (another document)"
+"cān zhào",
+"to consult a reference; to refer to (another document)"
+],
+[
+"参谋",
+6,
+"cān móu",
+"staff officer; to give advice"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"参赛",
+36.28,
+"cān sài",
+"to compete; to take part in a competition"
+],
+[
+"参议员",
+24.53,
+"cān yì yuán",
+"senator"
+],
+[
+"参数",
+22.88,
+"cān shù",
+"parameter"
+],
+[
+"参展",
+15.84,
+"cān zhǎn",
+"to exhibit at or take part in a trade show etc"
+],
+[
+"参拜",
+7.97,
+"cān bài",
+"to formally call on; to worship (a God); to pay homage to sb"
+],
+[
+"参赛者",
+7.75,
+"cān sài zhě",
+"competitor; CL:名[ming2]"
+],
+[
+"参与者",
+7.27,
+"cān yù zhě",
+"participant"
+],
+[
+"参股",
+7.24,
+"cān gǔ",
+"equity participation (finance)"
+],
+[
+"人参",
+6.66,
+"rén shēn",
+"ginseng"
+],
+[
+"参军",
+5.51,
+"cān jūn",
+"to join the army"
+],
+[
+"参议院",
+5.07,
+"cān yì yuàn",
+"senate; upper chamber (of legislative assembly)"
+]
+],
 "strokes": [
 "M 462 594 Q 519 609 632 632 C 661 638 643 660 613 655 Q 505 639 389 609 Q 377 605 373 608 Q 372 612 380 622 Q 510 755 537 776 Q 552 783 547 798 Q 543 811 498 842 Q 482 852 472 850 Q 459 846 461 824 Q 470 752 335 637 Q 313 622 285 606 Q 270 596 273 584 Q 276 566 299 543 Q 309 531 324 541 Q 357 566 414 580 L 462 594 Z",
 "M 632 632 Q 671 593 683 588 Q 689 585 693 588 Q 697 591 703 603 Q 707 615 705 628 Q 696 679 589 724 Q 588 725 587 725 Q 578 728 575 723 Q 571 719 576 709 Q 600 669 613 655 L 632 632 Z",

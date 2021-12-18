@@ -9,21 +9,39 @@
 [
 "油炸",
 5,
-"yóuzhá",
-"deep fry"
+"yóu zhá",
+"to deep fry"
 ],
 [
 "爆炸",
 6,
-"bàozhà",
-"explode; explosion; blow up"
+"bào zhà",
+"explosion; to explode; to blow up; to detonate"
 ]
 ],
 "extraWords": [
 [
+"炸弹",
+67.61,
+"zhà dàn",
+"bomb; CL:枚[mei2],顆|颗[ke1]"
+],
+[
+"炸药",
+13.24,
+"zhà yào",
+"explosive (material)"
+],
+[
+"轰炸",
+9.28,
+"hōng zhà",
+"to bomb; to bombard; CL:陣|阵[zhen4]"
+],
+[
 "炸掉",
 7.24,
-"zha4 diao4",
+"zhà diào",
 "to bomb"
 ]
 ],

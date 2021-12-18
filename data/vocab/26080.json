@@ -10,142 +10,455 @@
 "无",
 4,
 "wú",
-"have not; without; not (Kangxi radical 71)"
-],
-[
-"无聊",
-4,
-"wúliáo",
-"nonsense; bored; silly; stupid"
+"not to have; no; none; not; to lack; un-; -less"
 ],
 [
 "无论",
 4,
-"wúlùn",
-"no matter what; regardless of whether..."
+"wú lùn",
+"no matter what or how; regardless of whether..."
 ],
 [
-"无奈",
-5,
-"wúnài",
-"can't help but; have no choice"
-],
-[
-"无数",
-5,
-"wúshù",
-"countless; innumerable"
+"无聊",
+4,
+"wú liáo",
+"bored; boring; senseless"
 ],
 [
 "无所谓",
 5,
-"wúsuǒwèi",
-"doesn't matter; be indifferent"
+"wú suǒ wèi",
+"to be indifferent; not to matter; cannot be said to be"
+],
+[
+"无数",
+5,
+"wú shù",
+"countless; numberless; innumerable"
+],
+[
+"无奈",
+5,
+"wú nài",
+"to have no alternative; frustrated; exasperated; helpless; (conjunction) but unfortunately"
 ],
 [
 "毫无",
 6,
 "háo wú",
-"not at all; completely without; not in the least"
-],
-[
-"肆无忌惮",
-6,
-"sìwújìdàn",
-"absolutely unrestrained; unbridled; without the slightest scruple"
-],
-[
-"无比",
-6,
-"wúbǐ",
-"matchless; incomparable"
-],
-[
-"无偿",
-6,
-"wúcháng",
-"free; no charge; at no cost"
-],
-[
-"无耻",
-6,
-"wúchǐ",
-"without any sense of shame; shameless; audaciousness"
-],
-[
-"无动于衷",
-6,
-"wúdòngyúzhōng",
-"aloof; indifferent; unconcerned; untouched"
-],
-[
-"无非",
-6,
-"wúfēi",
-"nothing but; only"
+"not in the least; to completely lack"
 ],
 [
 "无辜",
 6,
-"wúgū",
-"innocent"
-],
-[
-"无精打采",
-6,
-"wújīngdǎcǎi",
-"listless; be dispirited; in low spirits"
-],
-[
-"无赖",
-6,
-"wúlài",
-"hoodlum; rascal; rogue; rascally; scoundrelly"
-],
-[
-"无理取闹",
-6,
-"wúlǐqǔnào",
-"to make trouble without reason (idiom); wilfully make trouble; to be deliberately provocative; deliberately awkward; pointless provocation"
+"wú gū",
+"innocent; innocence; not guilty (law)"
 ],
 [
 "无能为力",
 6,
 "wú néng wéi lì",
-"incapable of action; powerless; impotent"
+"impotent (idiom); powerless; helpless"
 ],
 [
-"无穷无尽",
+"无比",
 6,
-"wúqióngwújìn",
-"vast and limitless; endless span of time; no vestige of a beginning, no prospect of an end"
-],
-[
-"无微不至",
-6,
-"wú wēi bú zhì",
-"in every possible way; meticulously"
-],
-[
-"无忧无虑",
-6,
-"wúyōuwúlǜ",
-"carefree and without worries"
+"wú bǐ",
+"incomparable; matchless"
 ],
 [
 "无知",
 6,
-"wúzhī",
-"ignorance"
+"wú zhī",
+"ignorant; ignorance"
+],
+[
+"无耻",
+6,
+"wú chǐ",
+"without any sense of shame; unembarrassed; shameless"
+],
+[
+"无赖",
+6,
+"wú lài",
+"hoodlum; rascal; rogue; rascally; scoundrelly"
+],
+[
+"无动于衷",
+6,
+"wú dòng yú zhōng",
+"aloof; indifferent; unconcerned"
+],
+[
+"无理取闹",
+6,
+"wú lǐ qǔ nào",
+"to make trouble without reason (idiom); to be deliberately provocative"
+],
+[
+"无忧无虑",
+6,
+"wú yōu wú lu:4",
+"carefree and without worries (idiom)"
+],
+[
+"无非",
+6,
+"wú fēi",
+"only; nothing else"
+],
+[
+"无精打采",
+6,
+"wú jīng dǎ cǎi",
+"dispirited and downcast (idiom); listless; in low spirits; washed out"
+],
+[
+"无偿",
+6,
+"wú cháng",
+"free; no charge; at no cost"
+],
+[
+"肆无忌惮",
+6,
+"sì wú jì dàn",
+"absolutely unrestrained; unbridled; without the slightest scruple"
+],
+[
+"无穷无尽",
+6,
+"wú qióng wú jìn",
+"endless; boundless; infinite"
+],
+[
+"无微不至",
+6,
+"wú wēi bù zhì",
+"in every possible way (idiom); meticulous"
 ],
 [
 "鸦雀无声",
 6,
-"yāquèwúshēng",
-"not even a crow or sparrow can be heard (idiom); silence reigns"
+"yā què wú shēng",
+"lit. crow and peacock make no sound; absolute silence (idiom); not a single voice can be heard; absolute silence"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"无法",
+245.21,
+"wú fǎ",
+"unable; incapable"
+],
+[
+"无关",
+50.71,
+"wú guān",
+"unrelated; having nothing to do (with sth else)"
+],
+[
+"无疑",
+48.63,
+"wú yí",
+"no doubt; undoubtedly"
+],
+[
+"无产阶级",
+42.58,
+"wú chǎn jiē jí",
+"proletariat"
+],
+[
+"无限",
+38.73,
+"wú xiàn",
+"unlimited; unbounded"
+],
+[
+"无人",
+35.29,
+"wú rén",
+"unmanned; uninhabited"
+],
+[
+"无论如何",
+35.18,
+"wú lùn rú hé",
+"whatever the case; in any event; no matter what; by all possible means"
+],
+[
+"无线",
+28.49,
+"wú xiàn",
+"wireless"
+],
+[
+"毫无疑问",
+26.41,
+"háo wú yí wèn",
+"certainty; without a doubt"
+],
+[
+"无效",
+24.54,
+"wú xiào",
+"not valid; ineffective; in vain"
+],
+[
+"别无选择",
+23.67,
+"bié wú xuǎn zé",
+"to have no other choice"
+],
+[
+"无力",
+20.74,
+"wú lì",
+"powerless; lacking strength"
+],
+[
+"无罪",
+19.05,
+"wú zuì",
+"innocent; guileless; not guilty (of crime)"
+],
+[
+"一无所知",
+18.72,
+"yī wú suǒ zhī",
+"not knowing anything at all (idiom); completely ignorant; without an inkling"
+],
+[
+"无意",
+17.59,
+"wú yì",
+"inadvertent; accidental; to have no intention of (doing sth)"
+],
+[
+"无线电",
+15.47,
+"wú xiàn diàn",
+"wireless"
+],
+[
+"无敌",
+15.37,
+"wú dí",
+"unequalled; without rival; a paragon"
+],
+[
+"无需",
+15.05,
+"wú xū",
+"needless"
+],
+[
+"无关紧要",
+12.97,
+"wú guān jǐn yào",
+"indifferent; insignificant"
+],
+[
+"无锡",
+12.88,
+"Wú xī",
+"Wuxi prefecture level city in Jiangsu"
+],
+[
+"无形",
+12.43,
+"wú xíng",
+"incorporeal; virtual; formless; invisible (assets); intangible"
+],
+[
+"无不",
+12.07,
+"wú bù",
+"none lacking; none missing; everything is there; everyone without exception"
+],
+[
+"无情",
+11.94,
+"wú qíng",
+"pitiless; ruthless; merciless; heartless"
+],
+[
+"一无所有",
+11.33,
+"yī wú suǒ yǒu",
+"not having anything at all (idiom); utterly lacking; without two sticks to rub together"
+],
+[
+"无视",
+11.3,
+"wú shì",
+"to ignore; to disregard"
+],
+[
+"无家可归",
+10.7,
+"wú jiā kě guī",
+"homeless"
+],
+[
+"独一无二",
+10.43,
+"dú yī wú èr",
+"unique and unmatched (idiom); unrivalled; nothing compares with it"
+],
+[
+"无穷",
+10.1,
+"wú qióng",
+"endless; boundless; inexhaustible"
+],
+[
+"无缘",
+10.0,
+"wú yuán",
+"to have no opportunity; no way (of doing sth); no chance; no connection; not placed (in a competition); (in pop lyrics) no chance of love, no place to be together etc"
+],
+[
+"无须",
+9.39,
+"wú xū",
+"need not; not obliged to; not necessarily"
+],
+[
+"无能",
+8.7,
+"wú néng",
+"incompetence; inability; incapable; powerless"
+],
+[
+"无礼",
+8.29,
+"wú lǐ",
+"rude; rudely"
+],
+[
+"无名",
+7.92,
+"wú míng",
+"nameless; obscure"
+],
+[
+"无私",
+7.85,
+"wú sī",
+"selfless; unselfish; disinterested; altruistic"
+],
+[
+"一无所获",
+7.45,
+"yī wú suǒ huò",
+"to gain nothing; to end up empty-handed"
+],
+[
+"无声",
+7.26,
+"wú shēng",
+"noiseless; noiselessly; silent"
+],
+[
+"无可",
+7.09,
+"wú kě",
+"can't"
+],
+[
+"无权",
+7.04,
+"wú quán",
+"to have no right; to have no authority"
+],
+[
+"无助",
+6.8,
+"wú zhù",
+"helpless; helplessness; feeling useless; no help"
+],
+[
+"无从",
+6.44,
+"wú cóng",
+"not to have access; beyond one's authority or capability; sth one has no way of doing"
+],
+[
+"无心",
+6.33,
+"wú xīn",
+"unintentionally; not in the mood to"
+],
+[
+"一无是处",
+6.2,
+"yī wú shì chù",
+"not one good point; everything about it is wrong"
+],
+[
+"无条件",
+6.15,
+"wú tiáo jiàn",
+"unconditional"
+],
+[
+"无极",
+5.92,
+"Wú jí",
+"Wuji county in Shijiazhuang 石家莊地區|石家庄地区[Shi2 jia1 zhuang1 di4 qu1], Hebei; The Promise (name of film by Chen Kaige)"
+],
+[
+"无极",
+5.92,
+"wú jí",
+"everlasting; unbounded"
+],
+[
+"无可奈何",
+5.74,
+"wú kě nài hé",
+"have no way out; have no alternative; abbr. to 無奈|无奈[wu2 nai4]"
+],
+[
+"无尽",
+5.65,
+"wú jìn",
+"endless; inexhaustible"
+],
+[
+"无异",
+5.39,
+"wú yì",
+"nothing other than; to differ in no way from; the same as; to amount to"
+],
+[
+"无意中",
+5.31,
+"wú yì zhōng",
+"accidentally; unintentionally; unexpectedly"
+],
+[
+"无处",
+5.22,
+"wú chù",
+"nowhere"
+],
+[
+"无处不在",
+5.22,
+"wú chù bù zài",
+"to be everywhere"
+],
+[
+"不无",
+5.1,
+"bù wú",
+"not without"
+]
+],
 "strokes": [
 "M 486 664 Q 567 679 655 692 Q 716 704 725 711 Q 735 718 731 728 Q 724 741 694 749 Q 667 755 557 725 Q 415 695 308 689 Q 271 685 296 666 Q 339 641 408 653 Q 421 656 437 656 L 486 664 Z",
 "M 473 416 Q 584 432 754 435 Q 826 435 833 446 Q 839 459 819 476 Q 756 518 716 508 Q 629 489 486 463 L 424 453 Q 300 435 162 414 Q 138 410 156 391 Q 172 376 193 370 Q 218 364 236 370 Q 320 395 413 407 L 473 416 Z",

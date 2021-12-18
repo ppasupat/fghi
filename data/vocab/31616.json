@@ -9,53 +9,102 @@
 [
 "简单",
 3,
-"jiǎndān",
+"jiǎn dān",
 "simple; not complicated"
-],
-[
-"简历",
-5,
-"jiǎnlì",
-"resume; curriculum vitae"
 ],
 [
 "简直",
 5,
-"jiǎnzhí",
-"simply; at all"
+"jiǎn zhí",
+"simply; at all; practically"
 ],
 [
-"简化",
-6,
-"jiǎnhuà",
-"simplify; simplification"
-],
-[
-"简陋",
-6,
-"jiǎnlòu",
-"simple and crude (i.e. room or building)"
+"简历",
+5,
+"jiǎn lì",
+"curriculum vitae (CV); résumé; biographical notes"
 ],
 [
 "简体字",
 6,
-"jiǎntǐzì",
-"simplified Chinese characters"
+"jiǎn tǐ zì",
+"simplified Chinese character, as opposed to traditional Chinese character 繁體字|繁体字[fan2 ti3 zi4]"
+],
+[
+"简陋",
+6,
+"jiǎn lòu",
+"simple and crude"
+],
+[
+"简化",
+6,
+"jiǎn huà",
+"to simplify"
 ],
 [
 "简要",
 6,
-"jiǎnyào",
+"jiǎn yào",
 "concise; brief"
 ],
 [
 "精简",
 6,
-"jīngjiǎn",
-"simplify; reduce"
+"jīng jiǎn",
+"to simplify; to reduce"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"简称",
+36.36,
+"jiǎn chēng",
+"to be abbreviated to; abbreviation; short form"
+],
+[
+"简洁",
+12.28,
+"jiǎn jié",
+"concise; succinct; pithy"
+],
+[
+"简约",
+10.14,
+"jiǎn yuē",
+"sketchy; concise; abbreviated"
+],
+[
+"简介",
+10.13,
+"jiǎn jiè",
+"summary; brief introduction"
+],
+[
+"简便",
+7.38,
+"jiǎn biàn",
+"simple and convenient; handy"
+],
+[
+"简易",
+7.0,
+"jiǎn yì",
+"simple and easy; simplistic; simplicity"
+],
+[
+"简短",
+6.0,
+"jiǎn duǎn",
+"brief (statement, summary etc); briefly; brevity"
+],
+[
+"简报",
+5.34,
+"jiǎn bào",
+"presentation; briefing; (oral or written) brief report"
+]
+],
 "strokes": [
 "M 327 709 Q 340 731 354 749 Q 364 761 350 775 Q 313 806 285 803 Q 275 800 276 786 Q 289 708 207 612 Q 195 600 173 572 Q 166 557 180 562 Q 195 563 214 579 Q 277 625 312 684 Q 313 687 315 689 L 327 709 Z",
 "M 315 689 Q 351 673 413 687 Q 446 696 483 704 Q 502 708 504 712 Q 511 719 507 726 Q 500 736 475 741 Q 456 744 380 718 Q 355 712 327 709 C 297 706 287 700 315 689 Z",

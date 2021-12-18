@@ -9,23 +9,78 @@
 [
 "告诉",
 2,
-"gàosu",
-"to tell; inform"
+"gào sù",
+"to press charges; to file a complaint"
+],
+[
+"告诉",
+2,
+"gào su",
+"to tell; to inform; to let know"
 ],
 [
 "诉讼",
 6,
-"sùsòng",
+"sù sòng",
 "lawsuit"
 ],
 [
 "投诉",
 6,
-"tóusù",
-"make a complaint; appeal to a court"
+"tóu sù",
+"complaint; to complain; to register a complaint (esp. as a customer)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"起诉",
+53.63,
+"qǐ sù",
+"to sue; to bring a lawsuit against; to prosecute"
+],
+[
+"上诉",
+12.12,
+"shàng sù",
+"to appeal (a judicial case); appeal"
+],
+[
+"倾诉",
+7.01,
+"qīng sù",
+"to say everything (that is on one's mind)"
+],
+[
+"诉说",
+6.67,
+"sù shuō",
+"to recount; to tell of; to relate; (fig.) (of a thing) to stand as testament to (some past history)"
+],
+[
+"申诉",
+6.66,
+"shēn sù",
+"to file a complaint; to appeal (to an authority, a higher court of justice etc); complaint; appeal"
+],
+[
+"公诉",
+6.21,
+"gōng sù",
+"public prosecution; criminal prosecution"
+],
+[
+"诉求",
+5.72,
+"sù qiú",
+"to appeal; to demand (an answer); requirement; demand; claim; appeal; (marketing) message"
+],
+[
+"控诉",
+5.48,
+"kòng sù",
+"to accuse; to denounce; to make a complaint against; denunciation"
+]
+],
 "strokes": [
 "M 298 778 Q 326 754 355 726 Q 370 713 387 713 Q 399 714 404 728 Q 410 744 399 777 Q 387 811 292 831 Q 276 835 268 831 Q 262 827 264 813 Q 268 800 298 778 Z",
 "M 148 542 Q 100 526 73 523 Q 60 523 57 516 Q 53 507 64 500 Q 101 479 143 494 Q 246 545 253 543 Q 254 543 257 541 Q 267 535 262 509 Q 262 341 231 235 Q 213 202 258 155 Q 268 143 278 150 Q 285 157 296 180 Q 338 235 425 331 Q 437 343 434 350 Q 433 357 422 349 Q 376 315 331 279 Q 289 242 296 295 Q 295 355 315 502 Q 318 526 340 549 Q 352 559 342 572 Q 332 588 293 604 Q 281 610 265 599 Q 190 557 148 542 Z",

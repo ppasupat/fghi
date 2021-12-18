@@ -9,117 +9,159 @@
 [
 "节目",
 3,
-"jiémù",
-"program; item (on a program)"
+"jié mù",
+"program; item (on a program); CL:臺|台[tai2],個|个[ge4],套[tao4]"
 ],
 [
 "目的",
 4,
-"mùdì",
-"purpose; aim; goal"
+"mù dì",
+"purpose; aim; goal; target; objective; CL:個|个[ge4]"
 ],
 [
 "目标",
 5,
-"mùbiāo",
-"target; goal; objective"
-],
-[
-"目录",
-5,
-"mùlù",
-"catalog; table of contents; directory (on computer hard drive)"
+"mù biāo",
+"target; goal; objective; CL:個|个[ge4]"
 ],
 [
 "目前",
 5,
-"mùqián",
-"at present; now; for the moment"
-],
-[
-"题目",
-5,
-"tímù",
-"subject; title; topic"
+"mù qián",
+"at the present time; currently"
 ],
 [
 "项目",
 5,
-"xiàngmù",
-"program; item; project"
+"xiàng mù",
+"item; project; (sports) event; CL:個|个[ge4]"
 ],
 [
-"举世瞩目",
-6,
-"jǔshì zhǔmù",
-"attract worldwide attention"
+"目录",
+5,
+"mù lù",
+"catalog; table of contents; directory (on computer hard drive); list; contents"
 ],
 [
-"科目",
-6,
-"kēmù",
-"(school) subject"
-],
-[
-"栏目",
-6,
-"lánmù",
-"column (in a newspaper,TV,etc)"
-],
-[
-"盲目",
-6,
-"mángmù",
-"blindness; aimless"
+"题目",
+5,
+"tí mù",
+"subject; title; topic; CL:個|个[ge4]"
 ],
 [
 "目睹",
 6,
-"mùdǔ",
-"witness; see first hand"
+"mù dǔ",
+"to witness; to see at first hand; to see with one's own eyes"
 ],
 [
 "目光",
 6,
-"mùguāng",
-"sight; vision; view"
+"mù guāng",
+"sight; vision; view; gaze; look"
+],
+[
+"盲目",
+6,
+"máng mù",
+"blind; blindly; ignorant; lacking understanding"
+],
+[
+"科目",
+6,
+"kē mù",
+"academic subject; field of study"
+],
+[
+"栏目",
+6,
+"lán mù",
+"regular column or segment (in a publication or broadcast program); program (TV or radio)"
 ],
 [
 "一目了然",
 6,
-"yímùliǎorán",
-"obvious at a glance"
+"yī mù liǎo rán",
+"obvious at a glance (idiom)"
+],
+[
+"一目了然",
+6,
+"yī mù liǎo rán",
+"obvious at a glance (idiom)"
+],
+[
+"举世瞩目",
+6,
+"jǔ shì zhǔ mù",
+"to receive worldwide attention"
 ]
 ],
 "extraWords": [
 [
+"目击",
+18.27,
+"mù jī",
+"to see with one's own eyes; to witness"
+],
+[
 "心目",
 18.15,
-"xin1 mu4",
+"xīn mù",
 "mind"
+],
+[
+"目击者",
+16.9,
+"mù jī zhě",
+"eyewitness"
+],
+[
+"数目",
+11.91,
+"shù mù",
+"amount; number"
 ],
 [
 "目的地",
 11.13,
-"mu4 di4 di4",
+"mù dì dì",
 "destination (location)"
+],
+[
+"瞩目",
+8.71,
+"zhǔ mù",
+"to focus attention upon"
 ],
 [
 "引人注目",
 8.6,
-"yin3 ren2 zhu4 mu4",
+"yǐn rén zhù mù",
 "to attract attention; eye-catching; conspicuous"
 ],
 [
 "醒目",
 7.39,
-"xing3 mu4",
+"xǐng mù",
 "eye-grabbing (headline); striking (illustration)"
+],
+[
+"电视节目",
+7.24,
+"diàn shì jié mù",
+"television program"
+],
+[
+"头目",
+5.51,
+"tóu mù",
+"ringleader; gang leader; chieftain"
 ],
 [
 "面目",
 5.16,
-"mian4 mu4",
+"miàn mù",
 "appearance; facial features; look"
 ]
 ],

@@ -9,11 +9,42 @@
 [
 "治疗",
 5,
-"zhìliáo",
-"to treat; to cure; medical treatment"
+"zhì liáo",
+"to treat (an illness); medical treatment; therapy"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"医疗",
+105.43,
+"yī liáo",
+"medical treatment"
+],
+[
+"疗效",
+37.13,
+"liáo xiào",
+"healing efficacy; healing effect"
+],
+[
+"化疗",
+15.38,
+"huà liáo",
+"chemotherapy"
+],
+[
+"疗法",
+12.78,
+"liáo fǎ",
+"therapy; treatment"
+],
+[
+"疗程",
+12.37,
+"liáo chéng",
+"course of treatment"
+]
+],
 "strokes": [
 "M 538 789 Q 568 767 599 742 Q 615 729 633 731 Q 645 732 649 748 Q 652 764 639 796 Q 632 815 597 828 Q 515 846 504 839 Q 498 835 502 821 Q 506 809 538 789 Z",
 "M 388 632 Q 439 616 481 624 Q 803 682 821 692 Q 821 693 822 693 Q 832 702 827 711 Q 820 724 789 733 Q 756 740 655 708 Q 520 674 388 663 Q 384 663 382 661 C 353 655 359 640 388 632 Z",

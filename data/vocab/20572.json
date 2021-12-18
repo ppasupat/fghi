@@ -13,66 +13,108 @@
 "to stop; to halt; to park (a car)"
 ],
 [
-"停泊",
-6,
-"tíngbó",
-"anchor; mooring (of a ship)"
-],
-[
 "停顿",
 6,
-"tíngdùn",
-"pause; halt"
+"tíng dùn",
+"to halt; to break off; pause (in speech)"
 ],
 [
 "停滞",
 6,
-"tíngzhì",
-"stagnation; be at a standstill; bogged down"
+"tíng zhì",
+"stagnation; at a standstill; bogged down"
+],
+[
+"停泊",
+6,
+"tíng bó",
+"to anchor; anchorage; mooring (of a ship)"
 ]
 ],
 "extraWords": [
 [
 "停止",
 85.14,
-"ting2 zhi3",
+"tíng zhǐ",
 "to stop; to halt; to cease"
 ],
 [
 "停下",
 73.3,
-"ting2 xia4",
+"tíng xià",
 "to stop"
 ],
 [
 "不停",
 49.21,
-"bu4 ting2",
+"bù tíng",
 "incessant"
+],
+[
+"停车",
+47.19,
+"tíng chē",
+"to pull up (stop one's vehicle); to park; (of a machine) to stop working; to stall"
+],
+[
+"停车场",
+25.58,
+"tíng chē chǎng",
+"parking lot; car park"
 ],
 [
 "停留",
 21.56,
-"ting2 liu2",
+"tíng liú",
 "to stay somewhere temporarily; to stop over"
+],
+[
+"暂停",
+21.19,
+"zàn tíng",
+"to suspend; time-out (e.g. in sports); stoppage; pause (media player)"
+],
+[
+"停电",
+9.13,
+"tíng diàn",
+"to have a power failure; power cut"
+],
+[
+"停下来",
+8.22,
+"tíng xià lái",
+"to stop"
+],
+[
+"停产",
+8.2,
+"tíng chǎn",
+"to stop production"
 ],
 [
 "停靠",
 5.8,
-"ting2 kao4",
+"tíng kào",
 "to call at; to stop at; berth"
 ],
 [
 "停放",
 5.78,
-"ting2 fang4",
+"tíng fàng",
 "to park (a car etc); to moor (a boat etc); to leave sth (in a place)"
 ],
 [
 "停火",
 5.33,
-"ting2 huo3",
+"tíng huǒ",
 "to cease fire; ceasefire"
+],
+[
+"停职",
+5.01,
+"tíng zhí",
+"to suspend (sb) from duties"
 ]
 ],
 "strokes": [

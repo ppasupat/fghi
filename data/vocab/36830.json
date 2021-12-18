@@ -9,47 +9,138 @@
 [
 "连",
 4,
-"lián",
-"even; including; join"
+"Lián",
+"surname Lian"
 ],
 [
-"连忙",
-5,
-"liánmáng",
-"promptly; at once"
+"连",
+4,
+"lián",
+"to link; to join; to connect; continuously; in succession; including; (used with 也[ye3], 都[dou1] etc) even; company (military)"
 ],
 [
 "连续",
 5,
-"liánxù",
-"continually; in a row; successively"
+"lián xù",
+"continuous; in a row; serial; consecutive"
 ],
 [
-"接连",
-6,
-"jiēlián",
-"one after another; in a row; in succession"
-],
-[
-"连年",
-6,
-"liánnián",
-"successive years; over many years; once again this year"
+"连忙",
+5,
+"lián máng",
+"promptly; at once"
 ],
 [
 "连锁",
 6,
-"liánsuǒ",
-"chain (store etc); to interlock"
+"lián suǒ",
+"to interlock; to be linked; chain (store etc)"
 ],
 [
 "连同",
 6,
-"liántóng",
+"lián tóng",
 "together with; along with"
+],
+[
+"接连",
+6,
+"jiē lián",
+"on end; in a row; in succession"
+],
+[
+"连年",
+6,
+"lián nián",
+"successive years; over many years"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"大连",
+37.46,
+"Dà lián",
+"Dalian subprovincial city in Liaoning province 遼寧省|辽宁省[Liao2 ning2 Sheng3] in northeast China"
+],
+[
+"连接",
+36.81,
+"lián jiē",
+"to link; to join; to attach; connection; a link (on web page)"
+],
+[
+"连环",
+17.35,
+"lián huán",
+"chain"
+],
+[
+"连连",
+14.61,
+"lián lián",
+"repeatedly; again and again"
+],
+[
+"相连",
+9.65,
+"xiāng lián",
+"to link; to join; link; connection"
+],
+[
+"连带",
+7.91,
+"lián dài",
+"to be related; to entail; to involve; joint (liability etc)"
+],
+[
+"连夜",
+7.14,
+"lián yè",
+"that very night; through the night; for several nights in a row"
+],
+[
+"牵连",
+6.65,
+"qiān lián",
+"to implicate; implicated; to link together"
+],
+[
+"一连",
+6.18,
+"yī lián",
+"in a row; in succession; running"
+],
+[
+"一连串",
+5.83,
+"yī lián chuàn",
+"a succession of; a series of"
+],
+[
+"连队",
+5.75,
+"lián duì",
+"company (of troops)"
+],
+[
+"粘连",
+5.67,
+"nián lián",
+"to adhere; to stick together"
+],
+[
+"粘连",
+5.67,
+"zhān lián",
+"adhesion; to adhere; to cohere; to stick"
+],
+[
+"连线",
+5.28,
+"lián xiàn",
+"electrical lead; connecting line; (Tw) to connect (to a network, device etc); to go online; connection; (congressional) caucus"
+]
+],
 "strokes": [
 "M 550 625 Q 637 640 732 654 Q 784 664 793 671 Q 803 678 799 688 Q 792 701 762 709 Q 735 715 634 688 Q 571 676 569 674 L 519 666 Q 470 660 416 657 Q 379 653 404 634 Q 449 607 504 618 L 550 625 Z",
 "M 643 438 Q 649 445 758 449 Q 798 452 800 463 Q 801 478 772 494 Q 751 506 646 484 L 596 474 Q 556 468 510 461 Q 491 458 489 462 Q 489 465 550 625 L 569 674 Q 591 749 618 773 Q 636 789 625 799 Q 570 847 547 843 Q 537 842 544 821 Q 554 779 519 666 L 504 618 Q 465 506 423 468 Q 401 450 417 403 Q 423 388 440 395 Q 503 419 596 432 L 643 438 Z",

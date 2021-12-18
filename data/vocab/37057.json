@@ -9,11 +9,30 @@
 [
 "忧郁",
 6,
-"yōuyù",
-"melancholy; dejected"
+"yōu yù",
+"sullen; depressed; melancholy; dejected"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"郁闷",
+26.22,
+"yù mèn",
+"gloomy; depressed"
+],
+[
+"浓郁",
+9.1,
+"nóng yù",
+"rich; strong; heavy (fragrance); dense; full-bodied; intense"
+],
+[
+"抑郁",
+8.08,
+"yì yù",
+"depressed; despondent; gloomy; depression"
+]
+],
 "strokes": [
 "M 338 636 Q 405 651 479 663 Q 531 673 538 681 Q 547 688 543 696 Q 536 708 508 716 Q 484 722 356 684 L 310 673 Q 244 663 174 656 Q 138 650 163 634 Q 200 609 269 624 Q 279 627 292 627 L 338 636 Z",
 "M 292 529 Q 314 575 338 636 L 356 684 Q 386 765 407 791 Q 419 806 414 816 Q 405 838 357 856 Q 344 862 329 855 Q 319 848 327 837 Q 343 818 344 796 Q 345 771 310 673 L 292 627 Q 252 525 200 450 Q 152 380 46 275 Q 36 262 46 260 Q 50 259 62 265 Q 179 332 261 471 Q 264 477 268 483 L 292 529 Z",

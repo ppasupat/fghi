@@ -9,17 +9,72 @@
 [
 "购物",
 4,
-"gòuwù",
-"go shopping; buy goods"
+"gòu wù",
+"shopping"
 ],
 [
 "采购",
 6,
-"cǎigòu",
-"make purchases for an organization; go shopping"
+"cǎi gòu",
+"to procure (for an enterprise etc); to purchase"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"购买",
+138.34,
+"gòu mǎi",
+"to purchase; to buy"
+],
+[
+"收购",
+86.5,
+"shōu gòu",
+"to purchase (from various places); to acquire (a company)"
+],
+[
+"认购",
+18.24,
+"rèn gòu",
+"to undertake to purchase sth; to subscribe (to share issue)"
+],
+[
+"选购",
+11.08,
+"xuǎn gòu",
+"to select and purchase; to buy"
+],
+[
+"抢购",
+10.31,
+"qiǎng gòu",
+"to buy frenetically; to snap up (bargains, dwindling supplies etc)"
+],
+[
+"购置",
+9.08,
+"gòu zhì",
+"to purchase"
+],
+[
+"订购",
+7.23,
+"dìng gòu",
+"to place an order; to subscribe"
+],
+[
+"代购",
+5.51,
+"dài gòu",
+"to buy (on behalf of sb)"
+],
+[
+"购买力",
+5.1,
+"gòu mǎi lì",
+"purchasing power"
+]
+],
 "strokes": [
 "M 220 707 Q 201 723 179 729 Q 170 730 165 723 Q 162 719 169 708 Q 212 575 171 390 Q 158 363 164 337 Q 171 307 182 295 Q 192 283 201 296 Q 225 326 226 438 Q 226 631 233 680 C 235 696 235 696 220 707 Z",
 "M 370 357 Q 363 335 376 313 Q 389 285 398 286 Q 411 287 427 319 Q 442 344 441 363 Q 429 457 432 605 Q 432 648 456 684 Q 466 699 458 708 Q 433 730 390 748 Q 375 754 354 746 Q 306 724 220 707 C 191 701 204 672 233 680 Q 350 713 368 703 Q 380 678 383 607 Q 383 397 370 357 Z",

@@ -9,41 +9,132 @@
 [
 "销售",
 5,
-"xiāoshòu",
-"to sell; to market; sales"
-],
-[
-"报销",
-6,
-"bàoxiāo",
-"submit an expense account; apply for reimbursement; write off"
-],
-[
-"畅销",
-6,
-"chàngxiāo",
-"best seller; chart-topping; very marketable"
+"xiāo shòu",
+"to sell; to market; sales (representative, agreement etc)"
 ],
 [
 "撤销",
 6,
-"chèxiāo",
-"repeal"
+"chè xiāo",
+"to repeal; to revoke; (computing) to undo"
 ],
 [
 "推销",
 6,
-"tuīxiāo",
-"to market; sell"
+"tuī xiāo",
+"to market; to sell"
 ],
 [
 "销毁",
 6,
-"xiāohuǐ",
-"destroy (by melting or burning)"
+"xiāo huǐ",
+"to destroy (by melting or burning); to obliterate"
+],
+[
+"畅销",
+6,
+"chàng xiāo",
+"to sell well; best seller; chart-topping"
+],
+[
+"报销",
+6,
+"bào xiāo",
+"to submit an expense account; to apply for reimbursement; to write off; to wipe out"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"营销",
+55.58,
+"yíng xiāo",
+"marketing"
+],
+[
+"销量",
+30.22,
+"xiāo liàng",
+"sales volume"
+],
+[
+"促销",
+29.78,
+"cù xiāo",
+"to promote sales"
+],
+[
+"经销商",
+24.07,
+"jīng xiāo shāng",
+"dealer; seller; distributor; broker; agency; franchise (i.e. company); retail outlet"
+],
+[
+"热销",
+23.43,
+"rè xiāo",
+"to sell well; hot-selling"
+],
+[
+"销售额",
+17.2,
+"xiāo shòu é",
+"sales figure; total income from sales; turnover"
+],
+[
+"倾销",
+10.36,
+"qīng xiāo",
+"to dump (goods, products)"
+],
+[
+"直销",
+10.27,
+"zhí xiāo",
+"to sell directly; direct sale (by a factory); direct marketing"
+],
+[
+"供销",
+7.5,
+"gōng xiāo",
+"supply and marketing; distribution; supply and sales"
+],
+[
+"传销",
+7.13,
+"chuán xiāo",
+"multi-level marketing"
+],
+[
+"经销",
+6.56,
+"jīng xiāo",
+"to sell; to sell on commission; to distribute"
+],
+[
+"销魂",
+6.07,
+"xiāo hún",
+"ecstasy; rapture; to feel overwhelming joy or sorrow"
+],
+[
+"分销",
+5.8,
+"fēn xiāo",
+"distribution; retail store"
+],
+[
+"承销",
+5.74,
+"chéng xiāo",
+"to underwrite (i.e. guarantee financing); underwriting; to sell as agent; consignee"
+],
+[
+"产销",
+5.47,
+"chǎn xiāo",
+"production and sales; production and marketing"
+]
+],
 "strokes": [
 "M 302 637 Q 356 736 386 764 Q 395 774 390 788 Q 386 801 358 824 Q 331 842 313 841 Q 294 840 302 818 Q 318 782 304 753 Q 264 654 201 563 Q 140 475 59 378 Q 49 368 46 362 Q 43 352 57 354 Q 105 361 278 601 Q 281 607 284 610 L 302 637 Z",
 "M 284 610 Q 326 597 367 611 Q 404 621 441 631 Q 459 635 461 638 Q 468 645 464 654 Q 457 664 429 668 Q 411 669 338 646 Q 320 642 302 637 C 273 629 255 618 284 610 Z",

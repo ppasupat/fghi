@@ -7,90 +7,162 @@
 },
 "words": [
 [
+"集中",
+5,
+"jí zhōng",
+"to concentrate; to centralize; to focus; centralized; concentrated; to put together"
+],
+[
 "集合",
 5,
-"jíhé",
-"gather; assemble; to muster"
+"jí hé",
+"to gather; to assemble; set (math.)"
 ],
 [
 "集体",
 5,
-"jítǐ",
-"collective; group"
-],
-[
-"集中",
-5,
-"jízhōng",
-"concentrate; to focus; amass"
-],
-[
-"采集",
-6,
-"cǎijí",
-"gather; collect"
+"jí tǐ",
+"collective (decision); joint (effort); a group; a team; en masse; as a group"
 ],
 [
 "集团",
 6,
-"jítuán",
-"group; bloc; circle; clique"
+"jí tuán",
+"group; bloc; corporation; conglomerate"
+],
+[
+"采集",
+6,
+"cǎi jí",
+"to gather; to collect; to harvest"
 ]
 ],
 "extraWords": [
 [
 "收集",
 38.11,
-"shou1 ji2",
+"shōu jí",
 "to gather; to collect"
 ],
 [
 "聚集",
 25.26,
-"ju4 ji2",
+"jù jí",
 "to assemble; to gather"
+],
+[
+"征集",
+21.2,
+"zhēng jí",
+"to collect; to recruit"
 ],
 [
 "募集",
 16.12,
-"mu4 ji2",
+"mù jí",
 "to raise; to collect"
 ],
 [
 "集成",
 15.61,
-"ji2 cheng2",
+"jí chéng",
 "integrated (as in integrated circuit)"
 ],
 [
 "密集",
 14.79,
-"mi4 ji2",
+"mì jí",
 "concentrated; crowded together; intensive; compressed"
+],
+[
+"集训",
+13.92,
+"jí xùn",
+"to train together; to practice as a group"
 ],
 [
 "召集",
 12.24,
-"zhao4 ji2",
+"zhào jí",
 "to convene; to gather"
+],
+[
+"集资",
+10.71,
+"jí zī",
+"to raise money; to accumulate funds"
+],
+[
+"集装箱",
+10.09,
+"jí zhuāng xiāng",
+"container (for shipping)"
+],
+[
+"筹集",
+9.67,
+"chóu jí",
+"to collect money; to raise funds"
+],
+[
+"集会",
+9.27,
+"jí huì",
+"to gather; assembly; meeting; CL:個|个[ge4],次[ci4]"
 ],
 [
 "搜集",
 9.14,
-"sou1 ji2",
+"sōu jí",
 "to gather; to collect"
+],
+[
+"汇集",
+7.23,
+"huì jí",
+"to collect; to compile; to converge; also written 彙集|汇集[hui4 ji2]"
+],
+[
+"汇集",
+7.23,
+"huì jí",
+"to collect; to compile; to converge"
+],
+[
+"云集",
+6.78,
+"yún jí",
+"to gather (in a crowd); to converge; to swarm"
+],
+[
+"企业集团",
+6.17,
+"qǐ yè jí tuán",
+"business conglomerate"
+],
+[
+"集结",
+5.99,
+"jí jié",
+"to assemble; to concentrate; to mass; to build up; to marshal"
 ],
 [
 "集群",
 5.85,
-"ji2 qun2",
+"jí qún",
 "clan; to clan together; to flock together"
 ],
 [
 "集聚",
 5.41,
-"ji2 ju4",
+"jí jù",
 "to assemble; to gather"
+],
+[
+"集中营",
+5.01,
+"jí zhōng yíng",
+"concentration camp"
 ]
 ],
 "strokes": [

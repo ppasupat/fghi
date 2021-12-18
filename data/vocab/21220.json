@@ -9,35 +9,42 @@
 [
 "勤奋",
 5,
-"qínfèn",
-"hardworking; diligent; industrious"
-],
-[
-"后勤",
-6,
-"hòuqín",
-"logistics"
-],
-[
-"勤俭",
-6,
-"qínjiǎn",
-"hardworking and thrifty"
-],
-[
-"勤劳",
-6,
-"qínláo",
-"hardworking; diligent; industrious"
+"qín fèn",
+"hardworking; diligent"
 ],
 [
 "辛勤",
 6,
-"xīnqín",
-"hardworking; diligent; industrious"
+"xīn qín",
+"hardworking; industrious"
+],
+[
+"后勤",
+6,
+"hòu qín",
+"logistics"
+],
+[
+"勤劳",
+6,
+"qín láo",
+"hardworking; industrious; diligent"
+],
+[
+"勤俭",
+6,
+"qín jiǎn",
+"hardworking and frugal"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"执勤",
+5.5,
+"zhí qín",
+"to be on duty (of a security guard etc)"
+]
+],
 "strokes": [
 "M 433 674 Q 487 681 535 686 Q 545 685 553 696 Q 554 706 533 716 Q 508 735 445 718 L 399 707 Q 363 703 292 685 L 249 679 Q 153 670 124 666 Q 99 663 118 647 Q 137 631 178 630 Q 212 639 256 645 L 294 652 Q 337 661 391 668 L 433 674 Z",
 "M 292 685 Q 292 760 289 763 Q 286 764 286 765 Q 273 774 249 781 Q 231 785 215 776 Q 206 769 219 758 Q 237 740 249 679 L 256 645 Q 256 644 257 639 Q 270 552 278 540 Q 284 531 290 538 Q 291 541 294 547 L 297 573 Q 297 597 294 652 L 292 685 Z",

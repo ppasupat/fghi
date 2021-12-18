@@ -10,225 +10,303 @@
 "本",
 1,
 "běn",
-"measure word for books"
+"root; stem; origin; source; this; the current; original; inherent; originally; classifier for books, periodicals, files etc"
 ],
 [
 "笔记本",
 3,
-"bǐjìběn",
-"notebook"
+"bǐ jì běn",
+"notebook (stationery); CL:本[ben3]; notebook (computing)"
 ],
 [
 "本来",
 4,
-"běnlái",
-"originally; at first"
-],
-[
-"本科",
-5,
-"běnkē",
-"undergraduate"
-],
-[
-"本领",
-5,
-"běnlǐng",
-"skill; ability; capability"
-],
-[
-"本质",
-5,
-"běnzhì",
-"essence; nature; innate character"
+"běn lái",
+"original; originally; at first; it goes without saying; of course"
 ],
 [
 "根本",
 5,
-"gēnběn",
-"root; essence; fundamental; basic; (not) at all; simply"
+"gēn běn",
+"fundamental; basic; root; simply; absolutely (not); (not) at all; CL:個|个[ge4]"
 ],
 [
 "基本",
 5,
-"jīběn",
-"basic; fundamental"
+"jī běn",
+"basic; fundamental; main; elementary"
 ],
 [
-"版本",
-6,
-"bǎnběn",
-"edition"
+"本质",
+5,
+"běn zhì",
+"essence; nature; innate character; intrinsic quality"
 ],
 [
-"本能",
-6,
-"běnnéng",
-"instinct"
+"本领",
+5,
+"běn lǐng",
+"skill; ability; capability; CL:項|项[xiang4],個|个[ge4]"
 ],
 [
-"本钱",
+"本科",
+5,
+"běn kē",
+"undergraduate course; undergraduate (attributive)"
+],
+[
+"剧本",
 6,
-"běnqián",
-"capital (financial)"
+"jù běn",
+"script for play, opera, movie etc; screenplay; scenario"
 ],
 [
 "本人",
 6,
-"běnrén",
-"I; me; myself; oneself; in person"
+"běn rén",
+"the person himself; I (humble form used in speeches); oneself; myself; in person; personal"
 ],
 [
 "本身",
 6,
-"běnshēn",
+"běn shēn",
 "itself; in itself; per se"
 ],
 [
 "本事",
 6,
-"běnshi",
-"ability; skill; capability; (-shì: this matter; literary source)"
+"běn shì",
+"source material; original story"
 ],
 [
-"标本",
+"本事",
 6,
-"biāoběn",
-"specimen; sample; the root cause and symptoms of a disease"
+"běn shi",
+"ability; skill"
+],
+[
+"版本",
+6,
+"bǎn běn",
+"version; edition; release"
+],
+[
+"本能",
+6,
+"běn néng",
+"instinct"
 ],
 [
 "成本",
 6,
-"chéngběn",
-"cost (manufacturing, production, etc.)"
-],
-[
-"剧本",
-6,
-"jùběn",
-"script for a play; opera; movie; etc"
+"chéng běn",
+"(manufacturing, production etc) costs"
 ],
 [
 "资本",
 6,
-"zīběn",
-"(Economics) capital; asset"
+"zī běn",
+"capital (economics)"
+],
+[
+"标本",
+6,
+"biāo běn",
+"specimen; sample; the root cause and symptoms of a disease"
+],
+[
+"本钱",
+6,
+"běn qián",
+"capital; (fig.) asset; advantage; the means (to do sth)"
 ]
 ],
 "extraWords": [
 [
 "日本",
 302.69,
-"Ri4 ben3",
+"Rì běn",
 "Japan"
 ],
 [
 "原本",
 46.24,
-"yuan2 ben3",
+"yuán běn",
 "originally; original"
 ],
 [
 "基本上",
 44.37,
-"ji1 ben3 shang5",
+"jī běn shang",
 "basically; on the whole"
+],
+[
+"本届",
+35.01,
+"běn jiè",
+"current; this year"
 ],
 [
 "本文",
 34.63,
-"ben3 wen2",
+"běn wén",
 "this text; article; the main body of a book"
 ],
 [
 "本月",
 32.54,
-"ben3 yue4",
+"běn yuè",
 "this month; the current month"
 ],
 [
 "本地",
 30.16,
-"ben3 di4",
+"běn dì",
 "local; this locality"
+],
+[
+"资本主义",
+29.05,
+"zī běn zhǔ yì",
+"capitalism"
+],
+[
+"资本市场",
+24.14,
+"zī běn shì chǎng",
+"capital market"
 ],
 [
 "本土",
 21.23,
-"ben3 tu3",
+"běn tǔ",
 "one's native country; native; local; metropolitan territory"
+],
+[
+"样本",
+20.48,
+"yàng běn",
+"sample; specimen"
 ],
 [
 "股本",
 17.45,
-"gu3 ben3",
+"gǔ běn",
 "capital stock; investment"
 ],
 [
 "本期",
 16.65,
-"ben3 qi1",
+"běn qī",
 "the current period; this term (usually in finance)"
 ],
 [
 "日本人",
 16.56,
-"Ri4 ben3 ren2",
+"Rì běn rén",
 "Japanese person or people"
+],
+[
+"本着",
+10.32,
+"běn zhe",
+"based on...; in conformance with..; taking as one's main principle"
 ],
 [
 "文本",
 8.95,
-"wen2 ben3",
+"wén běn",
 "a text (article, script, contract etc); version of a text (copy, translation, abridged version etc); (computing) text"
 ],
 [
 "本性",
 8.82,
-"ben3 xing4",
+"běn xìng",
 "natural instincts; nature; inherent quality"
+],
+[
+"以人为本",
+8.77,
+"yǐ rén wéi běn",
+"people-oriented"
 ],
 [
 "本田",
 7.92,
-"Ben3 tian2",
+"Běn tián",
 "Honda (Japanese name)"
 ],
 [
 "本色",
 7.43,
-"ben3 se4",
+"běn sè",
 "inherent qualities; natural qualities; distinctive character; true qualities"
 ],
 [
 "本色",
 7.43,
-"ben3 shai3",
+"běn shǎi",
 "natural color"
+],
+[
+"课本",
+7.17,
+"kè běn",
+"textbook; CL:本[ben3]"
+],
+[
+"赵本山",
+6.99,
+"Zhào Běn shān",
+"Zhao Benshan (1958-), universally known PRC TV comedian"
 ],
 [
 "本年度",
 6.34,
-"ben3 nian2 du4",
+"běn nián dù",
 "this year; the current year"
+],
+[
+"大本营",
+6.11,
+"dà běn yíng",
+"headquarters; base camp"
 ],
 [
 "本本",
 6.08,
-"ben3 ben3",
+"běn běn",
 "notebook computer (diminutive); laptop"
+],
+[
+"本质上",
+5.88,
+"běn zhì shàng",
+"essentially; inherent"
 ],
 [
 "低成本",
 5.82,
-"di1 cheng2 ben3",
+"dī chéng běn",
 "low cost; inexpensive"
 ],
 [
 "本金",
 5.24,
-"ben3 jin1",
+"běn jīn",
 "capital; principal"
+],
+[
+"书本",
+5.19,
+"shū běn",
+"book; CL:本[ben3]"
+],
+[
+"资本家",
+5.07,
+"zī běn jiā",
+"capitalist"
 ]
 ],
 "strokes": [

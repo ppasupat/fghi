@@ -9,111 +9,129 @@
 [
 "先生",
 1,
-"xiānsheng",
-"Mr.; Sir"
+"xiān sheng",
+"teacher; husband; doctor (dialect); CL:位[wei4]; Mister (Mr.)"
 ],
 [
 "先",
 3,
 "xiān",
-"first; early; before"
+"early; prior; former; in advance; first"
 ],
 [
 "首先",
 4,
-"shǒuxiān",
-"first (of all); in the first place; firstly"
+"shǒu xiān",
+"first (of all); in the first place"
 ],
 [
 "事先",
 5,
-"shìxiān",
-"in advance; beforehand; prior"
+"shì xiān",
+"in advance; before the event; beforehand; prior"
 ],
 [
 "领先",
 6,
-"lǐngxiān",
-"leadership; to lead; be in front"
+"lǐng xiān",
+"to lead; to be in front"
 ],
 [
 "先进",
 6,
-"xiānjìn",
+"xiān jìn",
 "advanced (technology); to advance"
-],
-[
-"先前",
-6,
-"xiānqián",
-"before; previously"
 ],
 [
 "优先",
 6,
-"yōuxiān",
-"priority; preferential"
+"yōu xiān",
+"to have priority; to take precedence"
 ],
 [
-"预先",
+"祖先",
 6,
-"yùxiān",
-"beforehand; prior"
+"zǔ xiān",
+"ancestor; forebears"
+],
+[
+"先前",
+6,
+"xiān qián",
+"before; previously"
 ],
 [
 "原先",
 6,
-"yuánxiān",
-"former; original"
+"yuán xiān",
+"originally; original; former"
+],
+[
+"预先",
+6,
+"yù xiān",
+"beforehand; in advance"
 ],
 [
 "争先恐后",
 6,
 "zhēng xiān kǒng hòu",
-"striving to be first; compete with each other"
-],
-[
-"祖先",
-6,
-"zǔxiān",
-"ancestor; forbearer"
+"striving to be first and fearing to be last (idiom); outdoing one another"
 ]
 ],
 "extraWords": [
 [
+"先后",
+75.47,
+"xiān hòu",
+"early or late; priority; in succession; one after another"
+],
+[
 "率先",
 31.33,
-"shuai4 xian1",
+"shuài xiān",
 "to take the lead; to show initiative"
+],
+[
+"先锋",
+13.58,
+"xiān fēng",
+"vanguard; pioneer; avant-garde"
 ],
 [
 "先行",
 12.08,
-"xian1 xing2",
+"xiān xíng",
 "to precede others; in advance"
 ],
 [
 "先知",
 10.28,
-"xian1 zhi1",
+"xiān zhī",
 "prophet"
 ],
 [
 "最先",
 8.22,
-"zui4 xian1",
+"zuì xiān",
 "(the) very first"
 ],
 [
 "先天",
 6.86,
-"xian1 tian1",
+"xiān tiān",
 "inborn; innate; natural"
+],
+[
+"抢先",
+6.32,
+"qiǎng xiān",
+"to rush (to do sth urgent); to try to be the first; to forestall"
 ],
 [
 "先天性",
 5.86,
-"xian1 tian1 xing4",
+"xiān tiān xìng",
 "congenital; intrinsic; innateness"
 ]
 ],

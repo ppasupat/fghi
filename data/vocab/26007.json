@@ -9,40 +9,106 @@
 [
 "奋斗",
 5,
-"fèndòu",
-"strive; to struggle"
-],
-[
-"搏斗",
-6,
-"bódòu",
-"fight; struggle; wrestle"
-],
-[
-"斗争",
-6,
-"dòuzhēng",
-"to struggle; to fight for; to battle"
-],
-[
-"泰斗",
-6,
-"tàidǒu",
-"leading scholar of his time; magnate"
+"fèn dòu",
+"to strive; to struggle"
 ],
 [
 "战斗",
 6,
-"zhàndòu",
-"to fight; to battle; to struggle"
+"zhàn dòu",
+"to fight; to engage in combat; struggle; battle; CL:場|场[chang2],次[ci4]"
+],
+[
+"斗争",
+6,
+"dòu zhēng",
+"a struggle; fight; battle"
+],
+[
+"搏斗",
+6,
+"bó dòu",
+"to wrestle; to fight; to struggle"
+],
+[
+"泰斗",
+6,
+"tài dǒu",
+"(abbr. for 泰山北斗[Tai4 Shan1 Bei3 dou3]) distinguished figure; doyen; revered authority"
 ]
 ],
 "extraWords": [
 [
+"阶级斗争",
+11.77,
+"jiē jí dòu zhēng",
+"class struggle"
+],
+[
+"战斗机",
+11.1,
+"zhàn dòu jī",
+"fighter (aircraft)"
+],
+[
+"战斗力",
+10.18,
+"zhàn dòu lì",
+"fighting strength"
+],
+[
+"打斗",
+8.17,
+"dǎ dòu",
+"to fight"
+],
+[
+"决斗",
+8.14,
+"jué dòu",
+"to duel; a duel; decisive struggle"
+],
+[
+"艰苦奋斗",
+7.71,
+"jiān kǔ fèn dòu",
+"to struggle arduously"
+],
+[
+"斗志",
+6.72,
+"dòu zhì",
+"will to fight; fighting spirit"
+],
+[
 "斗牛",
 6.5,
-"Dou3 Niu2",
+"Dǒu Niú",
 "Big Dipper and Altair (astronomy)"
+],
+[
+"斗牛",
+6.5,
+"dòu niú",
+"bullfighting"
+],
+[
+"格斗",
+6.26,
+"gé dòu",
+"to wrestle"
+],
+[
+"斗士",
+5.63,
+"dòu shì",
+"warrior; activist"
+],
+[
+"争斗",
+5.37,
+"zhēng dòu",
+"to struggle; to fight; struggle"
 ]
 ],
 "strokes": [

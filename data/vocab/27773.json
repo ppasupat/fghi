@@ -9,21 +9,27 @@
 [
 "公共汽车",
 2,
-"gōnggòng qìchē",
-"(public) bus"
+"gōng gòng qì chē",
+"bus; CL:輛|辆[liang4],班[ban1]"
 ],
 [
 "汽油",
 5,
-"qìyóu",
-"gasoline; gas; petrol"
+"qì yóu",
+"gasoline"
 ]
 ],
 "extraWords": [
 [
+"汽车",
+215.92,
+"qì chē",
+"car; automobile; bus; CL:輛|辆[liang4]"
+],
+[
 "汽水",
 7.42,
-"qi4 shui3",
+"qì shuǐ",
 "soda; pop"
 ]
 ],

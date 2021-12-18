@@ -9,23 +9,54 @@
 [
 "潜力",
 6,
-"qiánlì",
+"qián lì",
 "potential; capacity"
 ],
 [
 "潜水",
 6,
-"qiánshuǐ",
-"go diving"
+"qián shuǐ",
+"to dive; to go under water; (in an online forum) to lurk"
 ],
 [
 "潜移默化",
 6,
-"qiányímòhuà",
-"exert a subtle influence on sb.'s character, thinking, etc.; impercebtibly influence; to influence secretly"
+"qián yí mò huà",
+"imperceptible influence; to influence secretly"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"潜在",
+21.44,
+"qián zài",
+"hidden; potential; latent"
+],
+[
+"潜艇",
+9.98,
+"qián tǐng",
+"submarine"
+],
+[
+"潜能",
+7.02,
+"qián néng",
+"potential; hidden capability"
+],
+[
+"潜入",
+5.96,
+"qián rù",
+"to submerge; to infiltrate; to steal into"
+],
+[
+"潜伏",
+5.32,
+"qián fú",
+"to hide; to cover up; to conceal"
+]
+],
 "strokes": [
 "M 196 700 Q 224 676 253 647 Q 268 634 284 634 Q 296 635 301 649 Q 305 664 296 695 Q 290 716 258 730 Q 183 758 168 751 Q 162 747 164 733 Q 168 723 196 700 Z",
 "M 120 528 Q 163 471 195 453 Q 208 449 219 461 Q 226 473 225 489 Q 216 540 136 563 L 135 564 Q 119 571 110 568 Q 103 567 105 555 Q 106 543 120 528 Z",

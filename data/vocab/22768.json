@@ -9,47 +9,180 @@
 [
 "声音",
 3,
-"shēngyīn",
-"sound; voice"
+"shēng yīn",
+"voice; sound; CL:個|个[ge4]"
 ],
 [
 "声调",
 5,
-"shēngdiào",
-"tone; note"
+"shēng diào",
+"tone; note; a tone (on a Chinese syllable); CL:個|个[ge4]"
 ],
 [
 "声明",
 6,
-"shēngmíng",
-"statement; declare; proclaim"
-],
-[
-"声势",
-6,
-"shēngshì",
-"momentum; fame and power; prestige"
+"shēng míng",
+"to state; to declare; statement; declaration; CL:項|项[xiang4],份[fen4]"
 ],
 [
 "声誉",
 6,
-"shēngyù",
+"shēng yù",
 "reputation; fame"
 ],
 [
 "相声",
 6,
-"xiàngsheng",
-"comic dialogue; crosstalk"
+"xiàng sheng",
+"comic dialogue; sketch; crosstalk"
+],
+[
+"声势",
+6,
+"shēng shì",
+"fame and power; prestige; influence; impetus; momentum"
 ],
 [
 "鸦雀无声",
 6,
-"yāquèwúshēng",
-"not even a crow or sparrow can be heard (idiom); silence reigns"
+"yā què wú shēng",
+"lit. crow and peacock make no sound; absolute silence (idiom); not a single voice can be heard; absolute silence"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"大声",
+32.31,
+"dà shēng",
+"loud voice; in a loud voice; loudly"
+],
+[
+"掌声",
+17.32,
+"zhǎng shēng",
+"applause; CL:陣|阵[zhen4]"
+],
+[
+"声称",
+16.87,
+"shēng chēng",
+"to claim; to state; to proclaim; to assert"
+],
+[
+"名声",
+13.56,
+"míng shēng",
+"reputation"
+],
+[
+"超声",
+12.91,
+"chāo shēng",
+"ultrasonic; ultrasound"
+],
+[
+"小声",
+12.55,
+"xiǎo shēng",
+"in a low voice; (speak) in whispers"
+],
+[
+"歌声",
+12.0,
+"gē shēng",
+"singing voice; fig. original voice of a poet"
+],
+[
+"心声",
+11.67,
+"xīn shēng",
+"thoughts; feelings; aspirations; heartfelt wishes; inner voice"
+],
+[
+"笑声",
+11.45,
+"xiào shēng",
+"laughter"
+],
+[
+"铃声",
+11.39,
+"líng shēng",
+"ring; ringtone; bell stroke; tintinnabulation"
+],
+[
+"低声",
+10.92,
+"dī shēng",
+"in a low voice; softly"
+],
+[
+"枪声",
+9.63,
+"qiāng shēng",
+"crack; shooting sound; gunshot"
+],
+[
+"呼声",
+9.1,
+"hū shēng",
+"a shout; fig. opinion or demand, esp. expressed by a group"
+],
+[
+"噪声",
+8.67,
+"zào shēng",
+"noise"
+],
+[
+"轻声",
+7.86,
+"qīng shēng",
+"quietly; softly; neutral tone; light stress"
+],
+[
+"无声",
+7.26,
+"wú shēng",
+"noiseless; noiselessly; silent"
+],
+[
+"出声",
+6.97,
+"chū shēng",
+"to utter; to give voice"
+],
+[
+"风声",
+6.2,
+"fēng shēng",
+"sound of the wind; rumor; talk; news; reputation"
+],
+[
+"声响",
+5.83,
+"shēng xiǎng",
+"sound; noise"
+],
+[
+"声望",
+5.65,
+"shēng wàng",
+"popularity; prestige"
+],
+[
+"叫声",
+5.46,
+"jiào shēng",
+"yelling (sound made by person); barking; braying; roaring (sound made by animals)"
+],
+[
+"尾声",
+5.01,
+"wěi shēng",
+"coda; epilogue; end"
+]
+],
 "strokes": [
 "M 543 680 Q 585 689 775 705 Q 785 704 795 717 Q 796 729 774 741 Q 735 765 659 743 Q 605 733 553 722 Q 550 722 548 720 L 490 710 Q 451 706 242 686 Q 211 683 234 664 Q 267 636 297 642 Q 385 658 491 673 L 543 680 Z",
 "M 533 597 Q 537 640 543 680 L 548 720 Q 552 765 564 793 Q 567 803 548 817 Q 515 836 493 840 Q 477 844 470 835 Q 463 828 470 814 Q 485 793 490 710 L 491 673 Q 492 633 492 588 C 492 558 530 567 533 597 Z",

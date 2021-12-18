@@ -9,23 +9,30 @@
 [
 "截止",
 6,
-"jiézhǐ",
-"end; close; stop; expiration"
+"jié zhǐ",
+"to close; to stop; to put a stop to sth; cut-off point; stopping point; deadline"
 ],
 [
 "截至",
 6,
-"jiézhì",
-"up until; by (a specified time"
+"jié zhì",
+"up to (a time); by (a time)"
 ],
 [
 "斩钉截铁",
 6,
 "zhǎn dīng jié tiě",
-"to chop the nail and slice the iron (idiom); resolute and decisive; definitely"
+"lit. to chop the nail and slice the iron (idiom); fig. resolute and decisive; unhesitating; categorical"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"拦截",
+7.19,
+"lán jié",
+"to intercept"
+]
+],
 "strokes": [
 "M 422 631 Q 527 658 532 662 Q 539 669 535 677 Q 528 687 501 693 Q 471 697 426 678 L 377 661 Q 269 640 259 638 Q 225 631 250 617 Q 287 599 373 619 Q 374 620 378 620 L 422 631 Z",
 "M 415 558 Q 419 595 422 631 L 426 678 Q 426 681 442 777 Q 445 786 427 799 Q 396 815 375 819 Q 362 823 354 815 Q 347 808 355 795 Q 373 770 377 661 L 378 620 Q 378 587 378 551 C 378 521 412 528 415 558 Z",

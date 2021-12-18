@@ -7,59 +7,83 @@
 },
 "words": [
 [
-"抵抗",
+"反抗",
 6,
-"dǐkàng",
-"resist; resistance"
+"fǎn kàng",
+"to resist; to rebel"
 ],
 [
 "对抗",
 6,
-"duìkàng",
-"withstand; resist; antagonize"
-],
-[
-"反抗",
-6,
-"fǎnkàng",
-"resist; to revolt"
+"duì kàng",
+"to withstand; to resist; to stand off; antagonism; confrontation"
 ],
 [
 "抗议",
 6,
-"kàngyì",
+"kàng yì",
 "to protest; protest"
+],
+[
+"抵抗",
+6,
+"dǐ kàng",
+"to resist; resistance"
 ]
 ],
 "extraWords": [
 [
+"抗体",
+17.43,
+"kàng tǐ",
+"antibody"
+],
+[
+"抗战",
+12.24,
+"kàng zhàn",
+"war of resistance, especially the war against Japan (1937-1945)"
+],
+[
 "抗生素",
 12.13,
-"kang4 sheng1 su4",
+"kàng shēng sù",
 "antibiotic"
 ],
 [
 "抗原",
 10.85,
-"kang4 yuan2",
+"kàng yuán",
 "antigen"
+],
+[
+"抗日战争",
+7.99,
+"Kàng Rì Zhàn zhēng",
+"(China's) War of Resistance against Japan (1937-1945)"
 ],
 [
 "抗旱",
 7.75,
-"kang4 han4",
+"kàng hàn",
 "drought-resistant; to weather a drought"
 ],
 [
 "抗拒",
 7.66,
-"kang4 ju4",
+"kàng jù",
 "to resist; to defy; to oppose"
+],
+[
+"抗争",
+6.71,
+"kàng zhēng",
+"to resist; to make a stand and fight (against)"
 ],
 [
 "抗菌",
 6.66,
-"kang4 jun1",
+"kàng jūn",
 "antibacterial"
 ]
 ],

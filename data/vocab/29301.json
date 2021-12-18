@@ -10,22 +10,53 @@
 "牵",
 6,
 "qiān",
-"to lead along; to pull (an animal on a tether)"
+"to lead along; to pull (an animal on a tether); (bound form) to involve; to draw in"
 ],
 [
 "牵扯",
 6,
-"qiānchě",
-"implicate; involve"
+"qiān chě",
+"to involve; to implicate; to be interrelated"
 ],
 [
 "牵制",
 6,
-"qiānzhì",
-"control; curb; restrict; impede"
+"qiān zhì",
+"to control; to curb; to restrict; to impede; to pin down (enemy troops)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"牵挂",
+9.42,
+"qiān guà",
+"to worry about; to be concerned about"
+],
+[
+"牵涉",
+8.26,
+"qiān shè",
+"to involve; implicated"
+],
+[
+"牵头",
+7.52,
+"qiān tóu",
+"to lead (an animal by the head); to take the lead; to coordinate (a combined operation); to mediate; a go-between (e.g. marriage broker)"
+],
+[
+"牵引",
+6.8,
+"qiān yǐn",
+"to pull; to draw (a cart); to tow"
+],
+[
+"牵连",
+6.65,
+"qiān lián",
+"to implicate; implicated; to link together"
+]
+],
 "strokes": [
 "M 509 668 Q 587 681 729 693 Q 739 692 748 703 Q 749 713 728 725 Q 698 747 630 728 Q 545 715 519 706 L 467 698 Q 457 698 297 683 Q 270 682 290 664 Q 300 654 314 646 Q 327 637 348 643 Q 397 653 455 660 L 509 668 Z",
 "M 455 660 Q 425 585 323 528 Q 319 527 315 523 Q 294 513 320 512 Q 357 509 421 547 Q 473 574 507 662 Q 508 665 509 668 L 519 706 Q 526 737 533 775 Q 536 794 540 802 Q 546 808 541 817 Q 537 823 512 833 Q 484 846 470 841 Q 460 837 469 823 Q 481 756 467 698 L 455 660 Z",

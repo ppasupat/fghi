@@ -9,65 +9,120 @@
 [
 "规定",
 4,
-"guīdìng",
-"regulation; stipulate; fix; set"
-],
-[
-"规矩",
-5,
-"guīju",
-"rule; custom"
-],
-[
-"规律",
-5,
-"guīlǜ",
-"law (e.g. of science); regular pattern; discipline"
-],
-[
-"规模",
-5,
-"guīmó",
-"scale; scope; extent"
+"guī dìng",
+"provision; to fix; to set; to formulate; to stipulate; to provide; regulation; rule; CL:個|个[ge4]"
 ],
 [
 "规则",
 5,
-"guīzé",
-"rule; law; regulation"
+"guī zé",
+"rule; regulation; rules and regulations"
 ],
 [
-"规范",
-6,
-"guīfàn",
-"standard (design or model); norm; without variation; to specify"
+"规矩",
+5,
+"guī ju",
+"lit. compass and set square; fig. established standard; rule; customs; practices; fig. upright and honest; well-behaved"
 ],
 [
-"规格",
-6,
-"guīgé",
-"standard; norm; specification"
+"规律",
+5,
+"guī lu:4",
+"rule (e.g. of science); law of behavior; regular pattern; rhythm; discipline"
+],
+[
+"规模",
+5,
+"guī mó",
+"scale; scope; extent; CL:個|个[ge4]"
 ],
 [
 "规划",
 6,
-"guīhuà",
-"plan; program; project"
-],
-[
-"规章",
-6,
-"guīzhāng",
-"regulations; rule"
+"guī huà",
+"to plan (how to do sth); planning; plan; program"
 ],
 [
 "正规",
 6,
-"zhèngguī",
-"formal; regular; according to standards"
+"zhèng guī",
+"regular; according to standards"
+],
+[
+"规范",
+6,
+"guī fàn",
+"norm; standard; specification; regulation; rule; within the rules; to fix rules; to regulate; to specify"
+],
+[
+"规章",
+6,
+"guī zhāng",
+"rule; regulation"
+],
+[
+"规格",
+6,
+"guī gé",
+"standard; norm; specification"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"法规",
+61.87,
+"fǎ guī",
+"legislation; statute"
+],
+[
+"大规模",
+38.5,
+"dà guī mó",
+"large scale; extensive; wide scale; broad scale"
+],
+[
+"常规",
+33.46,
+"cháng guī",
+"code of conduct; conventions; common practice; routine (medical procedure etc)"
+],
+[
+"违规",
+31.72,
+"wéi guī",
+"to violate (rules); irregular; illegal; corrupt"
+],
+[
+"犯规",
+17.49,
+"fàn guī",
+"to break the rules; an illegality; a foul"
+],
+[
+"规范化",
+11.78,
+"guī fàn huà",
+"to standardize; standardization"
+],
+[
+"规避",
+7.59,
+"guī bì",
+"to evade; to dodge"
+],
+[
+"不规则",
+5.9,
+"bù guī zé",
+"irregular"
+],
+[
+"规程",
+5.3,
+"guī chéng",
+"rules; regulations"
+]
+],
 "strokes": [
 "M 335 578 Q 363 588 392 594 Q 425 604 429 609 Q 436 616 432 625 Q 425 635 395 641 Q 367 644 338 630 Q 337 630 336 629 L 288 611 Q 222 590 166 581 Q 132 572 158 558 Q 203 540 269 560 Q 278 563 289 565 L 335 578 Z",
 "M 329 423 Q 372 438 424 450 Q 440 454 440 461 Q 440 474 421 481 Q 390 490 330 468 L 285 453 Q 146 411 85 399 Q 72 396 70 388 Q 69 378 84 368 Q 129 344 165 362 Q 234 392 282 409 L 329 423 Z",

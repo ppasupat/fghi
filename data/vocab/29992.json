@@ -7,246 +7,390 @@
 },
 "words": [
 [
-"信用卡",
-3,
-"xìnyòngkǎ",
-"credit card"
-],
-[
 "用",
 3,
 "yòng",
-"to use (Kangxi radical 101)"
+"to use; to employ; to have to; to eat or drink; expense or outlay; usefulness; hence; therefore"
+],
+[
+"信用卡",
+3,
+"xìn yòng kǎ",
+"credit card"
 ],
 [
 "使用",
 4,
-"shǐyòng",
-"to use; employ; apply; administer; manipulate"
+"shǐ yòng",
+"to use; to employ; to apply; to make use of"
 ],
 [
 "作用",
 4,
-"zuòyòng",
-"action; activity; effect"
+"zuò yòng",
+"to act on; to affect; action; function; activity; impact; result; effect; purpose; intent; (suffix) -ation, -tion etc, as in 抑制作用[yi4 zhi4 zuo4 yong4], inhibition"
 ],
 [
 "利用",
 5,
-"lìyòng",
-"to use; to make use of; to exploit"
+"lì yòng",
+"to exploit; to make use of; to use; to take advantage of; to utilize"
 ],
 [
-"日用品",
+"运用",
 5,
-"rìyòngpǐn",
-"daily necessities"
+"yùn yòng",
+"to use; to put to use"
 ],
 [
-"实用",
+"用途",
 5,
-"shíyòng",
-"practical; pragmatic; functional"
+"yòng tú",
+"use; application"
 ],
 [
 "应用",
 5,
-"yìngyòng",
-"to apply; to use; application"
+"yìng yòng",
+"to put to use; to apply; practical; applied (science, linguistics etc); application; practical use; (computing) app"
+],
+[
+"实用",
+5,
+"shí yòng",
+"practical; functional; pragmatic; applied (science)"
 ],
 [
 "用功",
 5,
 "yòng gōng",
-"diligent; industrious; hardworking"
+"diligent; industrious (in one's studies); to study hard; to make great effort"
 ],
 [
-"用途",
+"日用品",
 5,
-"yòngtú",
-"use; application; purpose"
-],
-[
-"运用",
-5,
-"yùnyòng",
-"to use; apply"
-],
-[
-"耐用",
-6,
-"nàiyòng",
-"durable"
-],
-[
-"通用",
-6,
-"tōngyòng",
-"in common use; interchangeable; General Motors"
+"rì yòng pǐn",
+"articles for daily use; CL:件[jian4],個|个[ge4]"
 ],
 [
 "引用",
 6,
-"yǐnyòng",
-"quote; cite"
+"yǐn yòng",
+"to quote; to cite; to recommend; to appoint; (computing) reference"
 ],
 [
 "用户",
 6,
-"yònghù",
+"yòng hù",
 "user; consumer; subscriber; customer"
+],
+[
+"通用",
+6,
+"tōng yòng",
+"to use anywhere, anytime (card, ticket etc); to be used by everyone (language, textbook etc); (of two or more things) interchangeable"
+],
+[
+"耐用",
+6,
+"nài yòng",
+"durable"
 ]
 ],
 "extraWords": [
 [
+"采用",
+229.69,
+"cǎi yòng",
+"to adopt; to employ; to use"
+],
+[
 "不用",
 115.03,
-"bu4 yong4",
+"bù yòng",
 "need not"
+],
+[
+"费用",
+107.93,
+"fèi yòng",
+"cost; expenditure; expense; CL:筆|笔[bi3],個|个[ge4]"
 ],
 [
 "用于",
 80.8,
-"yong4 yu2",
+"yòng yú",
 "use in; use on; use for"
+],
+[
+"用来",
+42.22,
+"yòng lái",
+"to be used for"
+],
+[
+"适用",
+39.34,
+"shì yòng",
+"to be applicable"
 ],
 [
 "信用",
 33.83,
-"xin4 yong4",
+"xìn yòng",
 "to trust; credit (commerce); trustworthiness; creditworthiness"
+],
+[
+"专用",
+27.53,
+"zhuān yòng",
+"special; dedicated"
 ],
 [
 "管用",
 25.37,
-"guan3 yong4",
+"guǎn yòng",
 "efficacious; useful"
 ],
 [
 "用品",
 22.99,
-"yong4 pin3",
+"yòng pǐn",
 "articles for use; products; goods"
 ],
 [
 "用心",
 20.91,
-"yong4 xin1",
+"yòng xīn",
 "motive; intention; to be diligent or attentive; careful"
+],
+[
+"选用",
+20.85,
+"xuǎn yòng",
+"to choose for some purpose; to select and use"
 ],
 [
 "食用",
 20.64,
-"shi2 yong4",
+"shí yòng",
 "food product; to use as food; edible"
 ],
 [
 "用人",
 20.26,
-"yong4 ren2",
+"yòng rén",
 "servant; to employ sb for a job; to manage people; to be in need of staff"
+],
+[
+"没用",
+19.82,
+"méi yòng",
+"useless"
 ],
 [
 "常用",
 18.47,
-"chang2 yong4",
+"cháng yòng",
 "in common usage"
 ],
 [
 "有用",
 18.33,
-"you3 yong4",
+"yǒu yòng",
 "useful"
 ],
 [
 "服用",
 17.69,
-"fu2 yong4",
+"fú yòng",
 "to take (medicine)"
 ],
 [
 "用力",
 16.83,
-"yong4 li4",
+"yòng lì",
 "to exert oneself physically"
+],
+[
+"用不着",
+16.57,
+"yòng bu zháo",
+"not need; have no use for"
+],
+[
+"占用",
+15.8,
+"zhàn yòng",
+"to occupy"
+],
+[
+"使用权",
+12.25,
+"shǐ yòng quán",
+"usage rights"
+],
+[
+"试用",
+12.22,
+"shì yòng",
+"to try sth out; to be on probation"
+],
+[
+"雇用",
+11.8,
+"gù yòng",
+"to employ; to hire"
 ],
 [
 "挪用",
 11.06,
-"nuo2 yong4",
+"nuó yòng",
 "to shift (funds); to (legitimately) take funds set aside for one purpose in order to use them for another; to embezzle; to misappropriate"
+],
+[
+"备用",
+10.46,
+"bèi yòng",
+"reserve; spare; alternate; backup"
 ],
 [
 "副作用",
 10.43,
-"fu4 zuo4 yong4",
+"fù zuò yòng",
 "side effect"
+],
+[
+"饮用",
+10.4,
+"yǐn yòng",
+"drink; drinking or drinkable (water)"
+],
+[
+"动用",
+10.2,
+"dòng yòng",
+"to utilize; to put sth to use"
 ],
 [
 "享用",
 9.93,
-"xiang3 yong4",
+"xiǎng yòng",
 "to enjoy (i.e. have the use or benefit of)"
 ],
 [
 "民用",
 9.49,
-"min2 yong4",
+"mín yòng",
 "(for) civilian use"
 ],
 [
 "用量",
 8.9,
-"yong4 liang4",
+"yòng liàng",
 "quantity used; usage; consumption; dose"
+],
+[
+"启用",
+7.92,
+"qǐ yòng",
+"to start using; (computing) to enable (a feature)"
+],
+[
+"滥用",
+7.85,
+"làn yòng",
+"to misuse; to abuse"
 ],
 [
 "借用",
 7.48,
-"jie4 yong4",
+"jiè yòng",
 "to borrow sth for another use; to borrow an idea for one's own use"
 ],
 [
 "公用",
 7.35,
-"gong1 yong4",
+"gōng yòng",
 "public; for public use"
 ],
 [
 "信用社",
 7.27,
-"xin4 yong4 she4",
+"xìn yòng shè",
 "credit union"
 ],
 [
 "用以",
 7.17,
-"yong4 yi3",
+"yòng yǐ",
 "in order to; so as to"
+],
+[
+"军用",
+6.9,
+"jūn yòng",
+"(for) military use; military application"
+],
+[
+"不用说",
+6.88,
+"bù yòng shuō",
+"needless to say; it goes without saying"
 ],
 [
 "使用者",
 6.41,
-"shi3 yong4 zhe3",
+"shǐ yòng zhě",
 "user"
 ],
 [
 "用餐",
 6.08,
-"yong4 can1",
+"yòng cān",
 "to eat a meal"
+],
+[
+"够用",
+5.82,
+"gòu yòng",
+"adequate; sufficient; enough"
+],
+[
+"用处",
+5.69,
+"yòng chu",
+"usefulness; CL:個|个[ge4]"
 ],
 [
 "聘用",
 5.69,
-"pin4 yong4",
+"pìn yòng",
 "to employ; to hire"
+],
+[
+"录用",
+5.58,
+"lù yòng",
+"to hire (an employee); to accept (a manuscript) for publication"
+],
+[
+"饮用水",
+5.5,
+"yǐn yòng shuǐ",
+"drinking water; potable water"
 ],
 [
 "用完",
 5.49,
-"yong4 wan2",
+"yòng wán",
 "used up; finished"
+],
+[
+"用场",
+5.46,
+"yòng chǎng",
+"use; application; Taiwan pr. [yong4 chang2]"
 ]
 ],
 "strokes": [

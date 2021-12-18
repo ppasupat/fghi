@@ -7,90 +7,120 @@
 },
 "words": [
 [
-"大型",
-5,
-"dàxíng",
-"large-scale; wide-scale"
-],
-[
 "类型",
 5,
-"lèixíng",
-"type"
+"lèi xíng",
+"type; category; genre; form; style"
 ],
 [
-"典型",
-6,
-"diǎnxíng",
-"typical case; model"
-],
-[
-"模型",
-6,
-"móxíng",
-"model; mould; matrix; pattern"
+"大型",
+5,
+"dà xíng",
+"large; large-scale"
 ],
 [
 "造型",
 6,
-"zàoxíng",
-"make a model; to mold"
+"zào xíng",
+"to model; to shape; appearance; style; design; form; pose"
+],
+[
+"模型",
+6,
+"mó xíng",
+"model; mold; matrix; pattern"
+],
+[
+"典型",
+6,
+"diǎn xíng",
+"model; typical case; archetype; typical; representative"
 ]
 ],
 "extraWords": [
 [
 "新型",
 43.51,
-"xin1 xing2",
+"xīn xíng",
 "new type; new kind"
+],
+[
+"车型",
+34.79,
+"chē xíng",
+"vehicle model (i.e. particular version of a car or motorcycle etc)"
+],
+[
+"发型",
+27.16,
+"fà xíng",
+"hairstyle; coiffure; hairdo"
 ],
 [
 "小型",
 23.82,
-"xiao3 xing2",
+"xiǎo xíng",
 "small scale; small size"
+],
+[
+"转型",
+21.14,
+"zhuǎn xíng",
+"transformation; to transform"
+],
+[
+"型号",
+14.67,
+"xíng hào",
+"model (particular version of a manufactured article); type (product specification in terms of color, size etc)"
 ],
 [
 "巨型",
 6.6,
-"ju4 xing2",
+"jù xíng",
 "giant; enormous"
 ],
 [
 "重型",
 6.43,
-"zhong4 xing2",
+"zhòng xíng",
 "heavy; heavy duty; large caliber"
 ],
 [
 "血型",
 6.19,
-"xue4 xing2",
+"xuè xíng",
 "blood group; blood type"
 ],
 [
 "微型",
 5.96,
-"wei1 xing2",
+"wēi xíng",
 "miniature; micro-; tiny"
 ],
 [
 "成型",
 5.48,
-"cheng2 xing2",
+"chéng xíng",
 "to become shaped; to become formed"
 ],
 [
 "原型",
 5.37,
-"yuan2 xing2",
+"yuán xíng",
 "model; prototype; archetype"
 ],
 [
 "中型",
 5.07,
-"zhong1 xing2",
+"zhōng xíng",
 "medium sized"
+],
+[
+"体型",
+5.01,
+"tǐ xíng",
+"build; body type"
 ]
 ],
 "strokes": [

@@ -7,161 +7,191 @@
 },
 "words": [
 [
-"失败",
-4,
-"shībài",
-"be defeated; fail; lose"
-],
-[
 "失望",
 4,
-"shīwàng",
-"disappointed; lose hope"
+"shī wàng",
+"disappointed; to lose hope; to despair"
 ],
 [
-"失眠",
-5,
-"shīmián",
-"lose sleep; insomnia"
+"失败",
+4,
+"shī bài",
+"to be defeated; to lose; to fail (e.g. experiments); failure; defeat; CL:次[ci4]"
 ],
 [
 "失去",
 5,
-"shīqù",
-"to lose (time, an opportunity, work, etc.)"
+"shī qù",
+"to lose"
+],
+[
+"消失",
+5,
+"xiāo shī",
+"to disappear; to fade away"
+],
+[
+"损失",
+5,
+"sǔn shī",
+"loss; damage; CL:個|个[ge4]; to lose; to suffer damage"
 ],
 [
 "失业",
 5,
 "shī yè",
-"lose one's job; unemployment"
+"unemployment; to lose one's job"
 ],
 [
-"损失",
+"失眠",
 5,
-"sǔnshī",
-"loss (financial); lose"
-],
-[
-"消失",
-5,
-"xiāoshī",
-"disappear; fade away; dissolve"
-],
-[
-"得不偿失",
-6,
-"dé bù cháng shī",
-"the gains do not outweigh the losses"
-],
-[
-"过失",
-6,
-"guòshī",
-"defect; fault"
-],
-[
-"丧失",
-6,
-"sàngshī",
-"to lose; to forfeit"
-],
-[
-"失事",
-6,
-"shī shì",
-"be involved in a crash; (have an) accident"
-],
-[
-"失误",
-6,
-"shīwù",
-"mistake; lapse; miss"
+"shī mián",
+"to suffer from insomnia"
 ],
 [
 "失踪",
 6,
 "shī zōng",
-"be missing; be unaccounted for"
+"to be missing; to disappear; unaccounted for"
+],
+[
+"丧失",
+6,
+"sàng shī",
+"to lose; to forfeit"
+],
+[
+"失误",
+6,
+"shī wù",
+"lapse; mistake; to make a mistake; fault; service fault (in volleyball, tennis etc)"
+],
+[
+"过失",
+6,
+"guò shī",
+"error; fault; (law) negligence; delinquency"
+],
+[
+"失事",
+6,
+"shī shì",
+"(of a plane, ship etc) to have an accident (plane crash, shipwreck, vehicle collision etc); to mess things up"
 ],
 [
 "遗失",
 6,
-"yíshī",
-"lose; lose due to carelessness"
+"yí shī",
+"to lose; lost"
+],
+[
+"得不偿失",
+6,
+"dé bù cháng shī",
+"the gains do not make up for the losses (idiom)"
 ]
 ],
 "extraWords": [
 [
 "失陪",
 35.92,
-"shi1 pei2",
+"shī péi",
 "goodbye (modest formula); Excuse me, I must leave."
+],
+[
+"失恋",
+24.42,
+"shī liàn",
+"to lose one's love; to break up (in a romantic relationship); to feel jilted"
+],
+[
+"失败者",
+17.5,
+"shī bài zhě",
+"loser"
 ],
 [
 "失控",
 17.29,
-"shi1 kong4",
+"shī kòng",
 "to go out of control"
 ],
 [
 "流失",
 14.51,
-"liu2 shi1",
+"liú shī",
 "(of soil etc) to wash away; to be eroded; (fig.) (of talented staff, followers of a religious faith, investment funds etc) to go elsewhere; to fail to be retained"
 ],
 [
 "迷失",
 14.19,
-"mi2 shi1",
+"mí shī",
 "to lose (one's bearings); to get lost"
+],
+[
+"丢失",
+12.67,
+"diū shī",
+"to lose; lost"
 ],
 [
 "失落",
 12.22,
-"shi1 luo4",
+"shī luò",
 "to lose (sth); to drop (sth); to feel a sense of loss; frustrated; disappointment; loss"
 ],
 [
 "失利",
 10.12,
-"shi1 li4",
+"shī lì",
 "to lose; to suffer defeat"
 ],
 [
 "缺失",
 9.67,
-"que1 shi1",
+"quē shī",
 "deficiency; shortcoming; hiatus"
 ],
 [
 "失常",
 8.41,
-"shi1 chang2",
+"shī cháng",
 "not normal; an aberration"
 ],
 [
 "失衡",
 7.67,
-"shi1 heng2",
+"shī héng",
 "to unbalance; an imbalance"
 ],
 [
 "失效",
 6.92,
-"shi1 xiao4",
+"shī xiào",
 "to fail; to lose effectiveness"
 ],
 [
 "得失",
 6.33,
-"de2 shi1",
+"dé shī",
 "gains and losses; success and failure; merits and demerits"
+],
+[
+"失调",
+5.8,
+"shī diào",
+"out of tune (music)"
+],
+[
+"失调",
+5.8,
+"shī tiáo",
+"imbalance; to become dysfunctional; to lack proper care (after an illness etc)"
 ],
 [
 "失血",
 5.43,
-"shi1 xue4",
+"shī xuè",
 "blood loss"
 ]
 ],

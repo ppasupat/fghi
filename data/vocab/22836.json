@@ -9,77 +9,492 @@
 [
 "头发",
 3,
-"tóufa",
+"tóu fa",
 "hair (on the head)"
-],
-[
-"骨头",
-5,
-"gǔtou",
-"bone; moral character"
-],
-[
-"馒头",
-5,
-"mántou",
-"steamed bun/roll"
-],
-[
-"木头",
-5,
-"mùtou",
-"wood; log; timber"
 ],
 [
 "石头",
 5,
-"shítou",
-"stone; rock"
+"shí tou",
+"stone; CL:塊|块[kuai4]"
+],
+[
+"骨头",
+5,
+"gǔ tou",
+"bone; CL:根[gen1],塊|块[kuai4]; moral character; bitterness; Taiwan pr. [gu2 tou5]"
+],
+[
+"木头",
+5,
+"mù tou",
+"slow-witted; blockhead; log (of wood, timber etc); CL:塊|块[kuai4],根[gen1]"
+],
+[
+"馒头",
+5,
+"mán tou",
+"steamed roll; steamed bun; steamed bread; CL:個|个[ge4]"
 ],
 [
 "镜头",
 6,
-"jìngtóu",
-"camera shot (in a movie, etc.); scene; camera lens"
-],
-[
-"口头",
-6,
-"kǒutóu",
-"oral; verbal"
+"jìng tóu",
+"camera lens; camera shot (in a movie etc); scene"
 ],
 [
 "码头",
 6,
-"mǎtou",
-"dock; wharf"
-],
-[
-"拳头",
-6,
-"quántou",
-"fist"
+"mǎ tóu",
+"dock; pier; wharf; CL:個|个[ge4]"
 ],
 [
 "舌头",
 6,
-"shétou",
-"tongue"
-],
-[
-"水龙头",
-6,
-"shuǐlóngtóu",
-"faucet; tap"
+"shé tou",
+"tongue; CL:個|个[ge4]; enemy soldier captured for the purpose of extracting information"
 ],
 [
 "枕头",
 6,
-"zhěntou",
+"zhěn tou",
 "pillow"
+],
+[
+"拳头",
+6,
+"quán tou",
+"fist; clenched fist; CL:個|个[ge4]; competitive (product)"
+],
+[
+"口头",
+6,
+"kǒu tóu",
+"oral; verbal"
+],
+[
+"水龙头",
+6,
+"shuǐ lóng tóu",
+"faucet; tap"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"头儿",
+60.01,
+"tóu r5",
+"leader"
+],
+[
+"回头",
+47.16,
+"huí tóu",
+"to turn round; to turn one's head; later; by and by"
+],
+[
+"点头",
+35.03,
+"diǎn tóu",
+"to nod"
+],
+[
+"头脑",
+27.87,
+"tóu nǎo",
+"brains; mind; skull; (fig.) gist (of a matter); leader; boss"
+],
+[
+"街头",
+25.65,
+"jiē tóu",
+"street"
+],
+[
+"龙头",
+24.93,
+"lóng tóu",
+"faucet; water tap; bicycle handle bar; chief (esp. of gang); boss; decision maker; (market) leader (of companies); front end of mud-flow; figurehead on prow of dragon boat 龍船|龙船"
+],
+[
+"摇头",
+23.4,
+"yáo tóu",
+"to shake one's head"
+],
+[
+"势头",
+23.0,
+"shì tóu",
+"power; momentum; tendency; impetus; situation; the look of things"
+],
+[
+"一头",
+22.97,
+"yī tóu",
+"one head; a head full of sth; one end (of a stick); one side; headlong; directly; rapidly; simultaneously"
+],
+[
+"摄像头",
+21.37,
+"shè xiàng tóu",
+"webcam; surveillance camera"
+],
+[
+"老头",
+19.05,
+"lǎo tóu",
+"old fellow; old man; father; husband"
+],
+[
+"头痛",
+18.71,
+"tóu tòng",
+"to have a headache"
+],
+[
+"抬头",
+17.35,
+"tái tóu",
+"to raise one's head; to gain ground; account name, or space for writing the name on checks, bills etc"
+],
+[
+"巨头",
+16.21,
+"jù tóu",
+"tycoon; magnate; big player (including company, country, school etc); big shot"
+],
+[
+"开头",
+15.77,
+"kāi tóu",
+"beginning; to start"
+],
+[
+"头部",
+15.38,
+"tóu bù",
+"head"
+],
+[
+"念头",
+14.88,
+"niàn tou",
+"thought; idea; intention"
+],
+[
+"过头",
+14.87,
+"guò tóu",
+"to overdo it; to overstep the limit; excessively; above one's head; overhead"
+],
+[
+"头像",
+14.63,
+"tóu xiàng",
+"portrait; bust"
+],
+[
+"带头",
+13.97,
+"dài tóu",
+"to take the lead; to be the first; to set an example"
+],
+[
+"低头",
+13.92,
+"dī tóu",
+"to bow the head; to yield; to give in"
+],
+[
+"丫头",
+13.84,
+"yā tou",
+"girl; servant girl; (used deprecatingly, but sometimes also as a term of endearment)"
+],
+[
+"尽头",
+13.29,
+"jìn tóu",
+"end; extremity; limit"
+],
+[
+"头疼",
+13.04,
+"tóu téng",
+"headache"
+],
+[
+"手头",
+11.72,
+"shǒu tóu",
+"on hand; at hand; one's financial situation"
+],
+[
+"年头",
+11.64,
+"nián tóu",
+"start of the year; whole year; a particular year; period; days; epoch; a year's harvest"
+],
+[
+"头绪",
+11.6,
+"tóu xù",
+"outline; main threads"
+],
+[
+"多头",
+11.09,
+"duō tóu",
+"many-headed; many-layered (authority); devolved (as opposed to centralized); pluralistic; (as classifier) number of animals; long term (finance); long (investment)"
+],
+[
+"头顶",
+10.97,
+"tóu dǐng",
+"top of the head"
+],
+[
+"源头",
+10.94,
+"yuán tóu",
+"source; fountainhead"
+],
+[
+"头盔",
+10.73,
+"tóu kuī",
+"helmet"
+],
+[
+"头号",
+10.22,
+"tóu hào",
+"first rate; top rank; number one"
+],
+[
+"头晕",
+10.19,
+"tóu yūn",
+"dizzy"
+],
+[
+"大块头",
+9.48,
+"dà kuài tóu",
+"heavy man; fat man; lunkhead; lummox; lug"
+],
+[
+"眉头",
+9.26,
+"méi tóu",
+"brows"
+],
+[
+"额头",
+9.23,
+"é tóu",
+"forehead"
+],
+[
+"头骨",
+9.06,
+"tóu gǔ",
+"skull"
+],
+[
+"从头",
+8.88,
+"cóng tóu",
+"anew; from the start"
+],
+[
+"头衔",
+8.59,
+"tóu xián",
+"title; rank; appellation"
+],
+[
+"乳头",
+8.53,
+"rǔ tóu",
+"nipple"
+],
+[
+"汕头",
+8.5,
+"Shàn tóu",
+"Shantou (formerly romanized as Swatow), prefecture-level city in Guangdong"
+],
+[
+"碰头",
+8.5,
+"pèng tóu",
+"to meet; to hold a meeting"
+],
+[
+"大头",
+8.46,
+"dà tóu",
+"big head; mask in the shape of a big head; the larger end of sth; the main part; the lion's share; dupe; sucker; (old) silver coin with a bust of Yuan Shikai 袁世凱|袁世凯[Yuan2 Shi4 kai3] on the obverse side"
+],
+[
+"掉头",
+7.63,
+"diào tóu",
+"to turn one's head; to turn round; to turn about"
+],
+[
+"牵头",
+7.52,
+"qiān tóu",
+"to lead (an animal by the head); to take the lead; to coordinate (a combined operation); to mediate; a go-between (e.g. marriage broker)"
+],
+[
+"空头",
+7.46,
+"kōng tóu",
+"phony; so-called; armchair (expert); vain (promise); (finance) short-seller; bear (market); short (selling)"
+],
+[
+"钟头",
+7.42,
+"zhōng tóu",
+"hour; CL:個|个[ge4]"
+],
+[
+"个头",
+7.32,
+"gè tóu",
+"size; height"
+],
+[
+"个头",
+7.32,
+"ge tóu",
+"(coll.) (suffix) my ass!; yeah, right!"
+],
+[
+"老头子",
+7.24,
+"lǎo tóu zi",
+"(coll.) old man; (said of an aging husband) my old man"
+],
+[
+"里头",
+7.15,
+"lǐ tou",
+"inside; interior"
+],
+[
+"猪头",
+7.06,
+"zhū tóu",
+"pig head; (coll.) fool; jerk"
+],
+[
+"洗头",
+6.51,
+"xǐ tóu",
+"to wash one's hair; to have a shampoo"
+],
+[
+"转头",
+6.39,
+"zhuǎn tóu",
+"to turn one's head; to change direction; U-turn; volte face; to repent"
+],
+[
+"转头",
+6.39,
+"zhuàn tóu",
+"nutation (plants turning to face the sun)"
+],
+[
+"罐头",
+5.99,
+"guàn tou",
+"tin; can; CL:個|个[ge4]"
+],
+[
+"上头",
+5.96,
+"shàng tóu",
+"(of alcohol) to go to one's head; (old) (of a bride-to-be) to bind one's hair into a bun; (of a prostitute) to receive a patron for the first time"
+],
+[
+"上头",
+5.96,
+"shàng tou",
+"above; on top of; on the surface of"
+],
+[
+"调头",
+5.54,
+"diào tóu",
+"variant of 掉頭|掉头[diao4 tou2]"
+],
+[
+"调头",
+5.54,
+"diào tou",
+"tone (of voice); tune"
+],
+[
+"头目",
+5.51,
+"tóu mù",
+"ringleader; gang leader; chieftain"
+],
+[
+"对头",
+5.46,
+"duì tóu",
+"correct; normal; to be on good terms with; on the right track; right"
+],
+[
+"对头",
+5.46,
+"duì tou",
+"(longstanding) opponent; enemy; inimical; adversary; opponent"
+],
+[
+"两头",
+5.46,
+"liǎng tóu",
+"both ends; both parties to a deal"
+],
+[
+"外头",
+5.37,
+"wài tou",
+"outside; out"
+],
+[
+"出头",
+5.35,
+"chū tóu",
+"to get out of a predicament; to stick out; to take the initiative; remaining odd fraction after a division; a little more than"
+],
+[
+"光头",
+5.3,
+"guāng tóu",
+"shaven head; bald head; to go bareheaded; hatless"
+],
+[
+"头头",
+5.25,
+"tóu tóu",
+"head; chief"
+],
+[
+"人头",
+5.13,
+"rén tóu",
+"person; number of people; (per) capita; (a person's) head; (Tw) person whose identity is used by sb else (e.g. to create a bogus account)"
+]
+],
 "strokes": [
 "M 328 678 Q 409 600 438 602 Q 454 602 459 625 Q 459 641 446 664 Q 430 683 400 692 Q 351 708 331 710 Q 319 711 320 697 Q 319 687 328 678 Z",
 "M 285 512 Q 319 484 357 450 Q 372 437 388 438 Q 400 438 405 452 Q 409 468 399 499 Q 387 535 279 563 Q 263 566 256 563 Q 250 559 252 545 Q 256 535 285 512 Z",

@@ -9,65 +9,228 @@
 [
 "总是",
 3,
-"zǒngshì",
-"always; eventually"
+"zǒng shì",
+"always"
 ],
 [
 "总结",
 4,
-"zǒngjié",
-"summarize; conclude"
+"zǒng jié",
+"to sum up; to conclude; summary; résumé; CL:個|个[ge4]"
+],
+[
+"总统",
+5,
+"zǒng tǒng",
+"president (of a country); CL:個|个[ge4],位[wei4],名[ming2],屆|届[jie4]"
+],
+[
+"总之",
+5,
+"zǒng zhī",
+"in a word; in short; in brief"
+],
+[
+"总算",
+5,
+"zǒng suàn",
+"at long last; finally; on the whole"
 ],
 [
 "总裁",
 5,
-"zǒngcái",
-"director-general; president"
+"zǒng cái",
+"chairman; director-general (of a company etc)"
 ],
 [
 "总共",
 5,
-"zǒnggòng",
+"zǒng gòng",
 "altogether; in sum; in all; in total"
 ],
 [
 "总理",
 5,
-"zǒnglǐ",
-"premier; prime minister"
-],
-[
-"总算",
-5,
-"zǒngsuàn",
-"at long last; finally; on the whole"
-],
-[
-"总统",
-5,
-"zǒngtǒng",
-"president (of a country)"
-],
-[
-"总之",
-5,
-"zǒngzhī",
-"in a word; in short; in brief / anyway; anyhow"
+"zǒng lǐ",
+"premier; prime minister; CL:個|个[ge4],位[wei4],名[ming2]"
 ],
 [
 "总而言之",
 6,
-"zǒngéryánzhī",
-"in short; in a word"
+"zǒng ér yán zhī",
+"in short; in a word; in brief"
 ],
 [
 "总和",
 6,
-"zǒnghé",
+"zǒng hé",
 "sum"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"总体",
+60.68,
+"zǒng tǐ",
+"completely; totally; total; entire; overall; population (statistics)"
+],
+[
+"总经理",
+50.66,
+"zǒng jīng lǐ",
+"general manager; CEO"
+],
+[
+"总额",
+40.52,
+"zǒng é",
+"total (amount or value)"
+],
+[
+"总局",
+35.41,
+"zǒng jú",
+"head office; general office; central office"
+],
+[
+"总量",
+35.17,
+"zǒng liàng",
+"total; overall amount"
+],
+[
+"总数",
+32.37,
+"zǒng shù",
+"total; sum; aggregate"
+],
+[
+"总部",
+24.52,
+"zǒng bù",
+"general headquarters"
+],
+[
+"总监",
+18.64,
+"zǒng jiān",
+"head; director (of an organizational unit); (police) commissioner; inspector-general; rank of local governor in Tang dynasty administration"
+],
+[
+"总决赛",
+16.89,
+"zǒng jué sài",
+"finals (sports)"
+],
+[
+"总书记",
+14.89,
+"zǒng shū ji",
+"general secretary (of the Communist Party)"
+],
+[
+"副总裁",
+14.39,
+"fù zǒng cái",
+"vice-chairman (of an organization); vice president (of a company); deputy governor (of a bank)"
+],
+[
+"老总",
+12.51,
+"lǎo zǒng",
+"boss; sir (person with a leading role in an organization); (after a surname) high ranking commander in the PLA; (Qing dynasty) high ranking government official; (old) courteous term used by the general populace in addressing a rank-and-file soldier or police officer"
+],
+[
+"夜总会",
+12.46,
+"yè zǒng huì",
+"nightclub; nightspot"
+],
+[
+"副总理",
+11.81,
+"fù zǒng lǐ",
+"vice-premier; vice prime minister; deputy prime minister"
+],
+[
+"总公司",
+9.32,
+"zǒng gōng sī",
+"parent company; head office"
+],
+[
+"总产值",
+9.09,
+"zǒng chǎn zhí",
+"gross product; total output"
+],
+[
+"总值",
+8.81,
+"zǒng zhí",
+"total value"
+],
+[
+"总计",
+8.44,
+"zǒng jì",
+"(grand) total"
+],
+[
+"总能",
+7.79,
+"zǒng néng",
+"total energy"
+],
+[
+"总价",
+7.02,
+"zǒng jià",
+"total price"
+],
+[
+"汇总",
+6.91,
+"huì zǒng",
+"summary; to summarize; to collect (data, receipts etc); to gather and report"
+],
+[
+"汇总",
+6.91,
+"huì zǒng",
+"summary; to summarize; to collect (data, receipts etc); to gather and report; also written 匯總|汇总"
+],
+[
+"总收入",
+6.58,
+"zǒng shōu rù",
+"gross income"
+],
+[
+"总分",
+6.26,
+"zǒng fēn",
+"overall score; total points"
+],
+[
+"国内生产总值",
+6.24,
+"guó nèi shēng chǎn zǒng zhí",
+"gross domestic product (GDP)"
+],
+[
+"总产量",
+5.42,
+"zǒng chǎn liàng",
+"total output"
+],
+[
+"总线",
+5.21,
+"zǒng xiàn",
+"computer bus"
+]
+],
 "strokes": [
 "M 352 735 Q 380 710 410 680 Q 423 667 437 668 Q 447 668 453 681 Q 457 694 450 723 Q 446 744 414 759 Q 342 789 328 783 Q 324 779 324 767 Q 327 757 352 735 Z",
 "M 615 789 Q 587 744 527 674 Q 521 667 527 659 Q 534 658 543 662 Q 645 738 695 768 Q 714 772 709 785 Q 702 801 682 822 Q 661 841 637 843 Q 621 842 622 821 Q 625 806 615 789 Z",

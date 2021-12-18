@@ -7,31 +7,110 @@
 },
 "words": [
 [
-"没关系",
-1,
-"méi guānxi",
-"it doesn't matter; never mind"
-],
-[
 "没有",
 1,
-"méiyǒu",
-"not have; there is not"
+"méi yǒu",
+"haven't; hasn't; doesn't exist; to not have; to not be"
 ],
 [
-"埋没",
-6,
-"máimò",
-"oblivion; bury; neglect"
+"没关系",
+1,
+"méi guān xi",
+"it doesn't matter"
 ],
 [
 "淹没",
 6,
-"yānmò",
-"submerge; drown; to flood"
+"yān mò",
+"to submerge; to drown; to flood; to drown out (also fig.)"
+],
+[
+"埋没",
+6,
+"mái mò",
+"to engulf; to bury; to overlook; to stifle; to neglect; to fall into oblivion"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"没什么",
+281.76,
+"méi shén me",
+"nothing; it doesn't matter; it's nothing; never mind"
+],
+[
+"从没",
+116.47,
+"cóng méi",
+"never (in the past); never did"
+],
+[
+"没事",
+35.95,
+"méi shì",
+"it's not important; it's nothing; never mind; to have nothing to do; to be free; to be all right (out of danger or trouble)"
+],
+[
+"没事儿",
+30.79,
+"méi shì r5",
+"to have spare time; free from work; it's not important; it's nothing; never mind"
+],
+[
+"没法",
+26.59,
+"méi fǎ",
+"at a loss; unable to do anything about it; to have no choice"
+],
+[
+"没用",
+19.82,
+"méi yòng",
+"useless"
+],
+[
+"没准",
+13.74,
+"méi zhǔn",
+"not sure; maybe"
+],
+[
+"没收",
+12.18,
+"mò shōu",
+"to confiscate; to seize"
+],
+[
+"没错",
+10.19,
+"méi cuò",
+"that's right; sure!; rest assured!; that's good; can't go wrong"
+],
+[
+"没戏",
+7.42,
+"méi xì",
+"(coll.) not a chance; no way; hopeless"
+],
+[
+"没意思",
+5.37,
+"méi yì si",
+"boring; of no interest"
+],
+[
+"没命",
+5.28,
+"méi mìng",
+"to lose one's life; to die; recklessly; desperately"
+],
+[
+"没完没了",
+5.07,
+"méi wán méi liǎo",
+"without end; incessantly; on and on"
+]
+],
 "strokes": [
 "M 271 729 Q 293 707 319 680 Q 335 664 353 665 Q 366 665 372 681 Q 378 697 368 734 Q 362 753 331 767 Q 253 794 240 788 Q 234 784 236 768 Q 240 755 271 729 Z",
 "M 153 545 Q 198 490 231 477 Q 249 474 258 489 Q 265 502 262 522 Q 255 549 235 563 Q 190 590 159 590 Q 146 593 137 589 Q 130 588 133 574 Q 134 561 153 545 Z",

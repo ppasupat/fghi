@@ -9,33 +9,39 @@
 [
 "隔壁",
 5,
-"gébì",
-"next door"
-],
-[
-"隔阂",
-6,
-"géhé",
-"estrangement; misunderstanding"
+"gé bì",
+"next door; neighbor"
 ],
 [
 "隔离",
 6,
-"gélí",
-"insulate; separate; isolate"
+"gé lí",
+"to separate; to isolate"
 ],
 [
 "间隔",
 6,
-"jiàngé",
-"interval; intermission; gap; be separated"
+"jiàn gé",
+"gap; interval; compartment; to divide; to separate; to leave a gap of (two weeks, three meters etc)"
+],
+[
+"隔阂",
+6,
+"gé hé",
+"misunderstanding; estrangement; (language etc) barrier"
 ]
 ],
 "extraWords": [
 [
+"时隔",
+5.66,
+"shí gé",
+"separated in time (usu. followed by a quantity of time)"
+],
+[
 "相隔",
 5.24,
-"xiang1 ge2",
+"xiāng gé",
 "separated by (distance or time etc)"
 ]
 ],

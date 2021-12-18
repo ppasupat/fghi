@@ -9,65 +9,90 @@
 [
 "态度",
 4,
-"tàidu",
-"manner; bearing; attitude"
+"tài du",
+"manner; bearing; attitude; approach; CL:個|个[ge4]"
 ],
 [
 "状态",
 5,
-"zhuàngtài",
-"state of affairs; condition; state"
-],
-[
-"表态",
-6,
-"biǎotài",
-"make known one's position; declare where one stands"
-],
-[
-"动态",
-6,
-"dòngtài",
-"development; trend; dynamic state"
-],
-[
-"神态",
-6,
-"shéntài",
-"appearance; looks; manner; expression"
-],
-[
-"生态",
-6,
-"shēngtài",
-"way of life; ecology"
+"zhuàng tài",
+"state of affairs; state; mode; situation; CL:個|个[ge4]"
 ],
 [
 "事态",
 6,
-"shìtài",
+"shì tài",
 "situation; existing state of affairs"
-],
-[
-"心态",
-6,
-"xīntài",
-"pyschology; mentality; spirit"
-],
-[
-"形态",
-6,
-"xíngtài",
-"shape; form; pattern"
 ],
 [
 "姿态",
 6,
-"zītài",
+"zī tài",
 "attitude; posture; stance"
+],
+[
+"动态",
+6,
+"dòng tài",
+"movement; motion; development; trend; dynamic (science)"
+],
+[
+"表态",
+6,
+"biǎo tài",
+"to declare one's position; to say where one stands"
+],
+[
+"心态",
+6,
+"xīn tài",
+"attitude (of the heart); state of one's psyche; way of thinking; mentality"
+],
+[
+"生态",
+6,
+"shēng tài",
+"ecology"
+],
+[
+"形态",
+6,
+"xíng tài",
+"shape; form; pattern; morphology"
+],
+[
+"神态",
+6,
+"shén tài",
+"appearance; manner; bearing; deportment; look; expression; mien"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"变态",
+40.45,
+"biàn tài",
+"to metamorphose (biology); abnormal; perverted; hentai; (slang) pervert"
+],
+[
+"态势",
+23.05,
+"tài shì",
+"posture; situation"
+],
+[
+"意识形态",
+6.53,
+"yì shí xíng tài",
+"ideology"
+],
+[
+"静态",
+5.65,
+"jìng tài",
+"static; sedate; quiet; passive; (physics) static; steady-state; (electronics) quiescent"
+]
+],
 "strokes": [
 "M 517 593 Q 527 594 764 613 Q 785 614 789 623 Q 795 636 776 649 Q 715 689 646 667 Q 592 655 518 638 L 461 627 Q 358 609 244 588 Q 222 584 239 567 Q 269 542 321 553 Q 379 572 450 582 L 517 593 Z",
 "M 435 430 Q 471 484 500 572 L 518 638 Q 518 671 540 731 Q 544 747 553 762 Q 560 772 552 781 Q 536 800 504 818 Q 485 831 467 827 Q 446 823 460 803 Q 484 772 480 741 Q 473 677 461 627 L 450 582 Q 449 581 449 578 Q 407 428 266 352 Q 205 325 202 321 Q 198 317 213 313 Q 249 304 354 357 Q 379 370 423 414 L 435 430 Z",

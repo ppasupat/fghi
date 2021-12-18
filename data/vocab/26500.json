@@ -7,31 +7,74 @@
 },
 "words": [
 [
-"构成",
-5,
-"gòuchéng",
-"to constitute; to compose"
-],
-[
 "结构",
 5,
-"jiégòu",
-"structure; composition"
+"jié gòu",
+"structure; composition; makeup; architecture; CL:座[zuo4],個|个[ge4]"
 ],
 [
-"构思",
-6,
-"gòusī",
-"outline a story; make preliminary sketch"
+"构成",
+5,
+"gòu chéng",
+"to constitute; to form; to compose; to make up; to configure (computing)"
 ],
 [
 "机构",
 6,
-"jīgòu",
-"structure; organization; institution"
+"jī gòu",
+"mechanism; structure; organization; agency; institution; CL:所[suo3]"
+],
+[
+"构思",
+6,
+"gòu sī",
+"to design; to plot; to plan out; to compose; to draw a mental sketch; conception; plan; idea; composition"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"构建",
+33.82,
+"gòu jiàn",
+"to construct (sth abstract)"
+],
+[
+"构造",
+12.22,
+"gòu zào",
+"structure; composition; tectonic (geology); CL:個|个[ge4]"
+],
+[
+"架构",
+10.35,
+"jià gòu",
+"to construct; to build; infrastructure; architecture; framework"
+],
+[
+"虚构",
+10.08,
+"xū gòu",
+"to make up; fabrication; fictional; imaginary"
+],
+[
+"构筑",
+9.0,
+"gòu zhù",
+"to build; to construct"
+],
+[
+"结构性",
+6.52,
+"jié gòu xìng",
+"structural; structured"
+],
+[
+"构想",
+5.56,
+"gòu xiǎng",
+"to conceive; concept"
+]
+],
 "strokes": [
 "M 344 550 Q 434 578 436 579 Q 445 588 440 596 Q 433 608 402 614 Q 372 618 346 607 L 297 589 Q 186 561 144 554 Q 107 547 135 531 Q 174 510 244 527 Q 262 533 286 536 L 344 550 Z",
 "M 342 466 Q 342 506 344 550 L 346 607 Q 349 686 366 740 Q 375 755 372 768 Q 365 778 310 813 Q 286 831 265 815 Q 261 811 266 794 Q 297 749 297 703 Q 297 649 297 589 L 293 426 Q 284 224 283 213 Q 259 102 260 98 Q 260 83 280 39 Q 286 20 294 17 Q 300 10 308 19 Q 335 35 336 101 Q 335 141 341 444 L 342 466 Z",

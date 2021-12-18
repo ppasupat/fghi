@@ -9,81 +9,87 @@
 [
 "家具",
 4,
-"jiājù",
-"furniture"
-],
-[
-"工具",
-5,
-"gōngjù",
-"tool; instrument; utensil"
-],
-[
-"具备",
-5,
-"jùbèi",
-"possess; be equipped with"
-],
-[
-"具体",
-5,
-"jùtǐ",
-"concrete; definite; specific"
+"jiā jù",
+"furniture; CL:件[jian4],套[tao4]"
 ],
 [
 "玩具",
 5,
-"wánjù",
+"wán jù",
 "plaything; toy"
+],
+[
+"工具",
+5,
+"gōng jù",
+"tool; instrument; utensil; means (to achieve a goal etc)"
+],
+[
+"具体",
+5,
+"jù tǐ",
+"concrete; definite; specific"
+],
+[
+"具备",
+5,
+"jù bèi",
+"to possess; to have; equipped with; able to fulfill (conditions or requirements)"
 ],
 [
 "文具",
 5,
-"wénjù",
-"stationery; writing supplies"
+"wén jù",
+"stationery; item of stationery (pen, pencil, eraser, pencil sharpener etc)"
 ]
 ],
 "extraWords": [
 [
 "具有",
 292.32,
-"ju4 you3",
+"jù yǒu",
 "to have; to possess"
 ],
 [
 "面具",
 19.94,
-"mian4 ju4",
+"miàn jù",
 "mask"
 ],
 [
 "出具",
 13.77,
-"chu1 ju4",
+"chū jù",
 "to issue (document, certificate etc); to provide"
 ],
 [
 "道具",
 9.06,
-"dao4 ju4",
+"dào jù",
 "prop (theater); paraphernalia; (gaming) item; artifact"
+],
+[
+"农具",
+5.26,
+"nóng jù",
+"farm implements; farm tools"
 ],
 [
 "模具",
 5.25,
-"mu2 ju4",
+"mú jù",
 "mold; matrix; pattern or die; Taiwan pr. [mo2 ju4]"
 ],
 [
 "餐具",
 5.11,
-"can1 ju4",
+"cān jù",
 "tableware; dinner service"
 ],
 [
 "交通工具",
 5.01,
-"jiao1 tong1 gong1 ju4",
+"jiāo tōng gōng jù",
 "means of transportation; vehicle"
 ]
 ],

@@ -9,46 +9,76 @@
 [
 "越",
 3,
-"yuè",
-"even more; the more; exceed"
+"Yuè",
+"generic word for peoples or states of south China or south Asia at different historical periods; abbr. for Vietnam 越南"
 ],
 [
-"超越",
-6,
-"chāoyuè",
-"surpass; exceed; transcend"
+"越",
+3,
+"yuè",
+"to exceed; to climb over; to surpass; the more... the more"
 ],
 [
 "穿越",
 6,
-"chuānyuè",
-"pass through; cut across"
+"chuān yuè",
+"to pass through; to traverse; to cross"
 ],
 [
-"优越",
+"超越",
 6,
-"yōuyuè",
-"superior; superiority"
+"chāo yuè",
+"to surpass; to exceed; to transcend"
 ],
 [
 "卓越",
 6,
-"zhuóyuè",
-"distinction; excellence; splendid"
+"zhuó yuè",
+"outstanding; surpassing; distinguished; splendid"
+],
+[
+"优越",
+6,
+"yōu yuè",
+"superior; superiority"
 ]
 ],
 "extraWords": [
 [
+"越来越",
+188.42,
+"yuè lái yuè",
+"more and more"
+],
+[
 "越南",
 40.56,
-"Yue4 nan2",
+"Yuè nán",
 "Vietnam; Vietnamese"
 ],
 [
 "跨越",
 12.35,
-"kua4 yue4",
+"kuà yuè",
 "to step across; step over"
+],
+[
+"越狱",
+9.0,
+"yuè yù",
+"to break out of prison; to jailbreak (an iOS device etc)"
+],
+[
+"越发",
+8.46,
+"yuè fā",
+"increasingly; more and more; ever more; all the more"
+],
+[
+"越过",
+7.36,
+"yuè guò",
+"to cross over; to transcend; to cover distance; to overcome; to rise above"
 ]
 ],
 "strokes": [

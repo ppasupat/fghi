@@ -9,13 +9,13 @@
 [
 "领域",
 5,
-"lǐngyù",
-"domain; sphere; field; area"
+"lǐng yù",
+"domain; sphere; field; territory; area"
 ],
 [
 "区域",
 6,
-"qūyù",
+"qū yù",
 "area; region; district"
 ]
 ],
@@ -23,32 +23,38 @@
 [
 "流域",
 15.75,
-"liu2 yu4",
+"liú yù",
 "river basin; valley; drainage area"
 ],
 [
 "地域",
 14.32,
-"di4 yu4",
+"dì yù",
 "area; district; region"
 ],
 [
 "海域",
 14.27,
-"hai3 yu4",
+"hǎi yù",
 "sea area; territorial waters; maritime space"
 ],
 [
 "域名",
 8.75,
-"yu4 ming2",
+"yù míng",
 "domain name (computing)"
 ],
 [
 "水域",
 7.63,
-"shui3 yu4",
+"shuǐ yù",
 "waters; body of water"
+],
+[
+"区域性",
+5.48,
+"qū yù xìng",
+"regional"
 ]
 ],
 "strokes": [

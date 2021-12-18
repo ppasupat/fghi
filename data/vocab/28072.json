@@ -9,17 +9,48 @@
 [
 "涨",
 5,
-"zhǎng, zhàng",
-"to rise (of prices, rivers); to go up | to swell; to bloat"
+"zhǎng",
+"to rise (of prices, rivers)"
+],
+[
+"涨",
+5,
+"zhàng",
+"to swell; to distend"
 ],
 [
 "高涨",
 6,
-"gāozhǎng",
-"upsurge; (tensions, etc.) run high"
+"gāo zhǎng",
+"to surge up; to rise; (of tensions etc) to run high"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"上涨",
+121.98,
+"shàng zhǎng",
+"to rise; to go up"
+],
+[
+"涨幅",
+36.87,
+"zhǎng fú",
+"extent of a rise (in prices etc); amount of increase; growth (typically expressed as a percentage)"
+],
+[
+"涨价",
+17.89,
+"zhǎng jià",
+"to appreciate (in value); to increase in price"
+],
+[
+"暴涨",
+5.0,
+"bào zhǎng",
+"to increase sharply; to rise dramatically"
+]
+],
 "strokes": [
 "M 194 717 Q 216 698 239 672 Q 252 659 269 659 Q 279 659 285 673 Q 289 688 281 717 Q 277 735 249 748 Q 180 773 168 767 Q 164 763 164 750 Q 168 740 194 717 Z",
 "M 108 525 Q 156 474 191 461 Q 206 458 215 472 Q 221 485 217 503 Q 205 542 142 559 Q 105 569 93 564 Q 86 563 90 550 Q 91 538 108 525 Z",

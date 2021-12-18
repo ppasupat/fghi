@@ -9,11 +9,24 @@
 [
 "阅读",
 4,
-"yuèdú",
-"read; reading"
+"yuè dú",
+"to read; reading"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"查阅",
+6.48,
+"chá yuè",
+"to consult; to refer to; to look sth up in a reference source"
+],
+[
+"订阅",
+6.12,
+"dìng yuè",
+"subscription; to subscribe to"
+]
+],
 "strokes": [
 "M 321 764 Q 396 682 420 681 Q 433 680 441 699 Q 442 712 432 734 Q 419 755 390 766 Q 345 788 325 792 Q 315 793 314 782 Q 313 773 321 764 Z",
 "M 202 689 Q 227 629 226 559 Q 230 294 187 162 Q 169 105 204 65 Q 216 50 226 65 Q 260 102 262 261 Q 262 561 279 655 Q 282 674 265 684 Q 241 703 214 713 Q 204 714 198 706 Q 194 700 202 689 Z",

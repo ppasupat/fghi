@@ -9,59 +9,270 @@
 [
 "服务员",
 2,
-"fúwùyuán",
-"waiter/waitress; server; attendant"
-],
-[
-"售货员",
-4,
-"shòuhuòyuán",
-"salesclerk; shop assistant"
+"fú wù yuán",
+"waiter; waitress; attendant; customer service personnel; CL:個|个[ge4],位[wei4]"
 ],
 [
 "演员",
 4,
-"yǎnyuán",
-"actor or actress; performer"
+"yǎn yuán",
+"actor or actress; performer; CL:個|个[ge4],位[wei4],名[ming2]"
+],
+[
+"售货员",
+4,
+"shòu huò yuán",
+"salesperson; CL:個|个[ge4]"
 ],
 [
 "人员",
 5,
-"rényuán",
-"staff; crew; personnel"
+"rén yuán",
+"staff; crew; personnel; CL:個|个[ge4]"
 ],
 [
 "员工",
 5,
-"yuángōng",
-"employee; staff; personnel"
-],
-[
-"裁员",
-6,
-"cáiyuán",
-"cut staff; lay off employees"
+"yuán gōng",
+"staff; personnel; employee"
 ],
 [
 "成员",
 6,
-"chéngyuán",
+"chéng yuán",
 "member"
-],
-[
-"动员",
-6,
-"dòngyuán",
-"mobilize"
 ],
 [
 "委员",
 6,
-"wěiyuán",
-"committee member; committee; council"
+"wěi yuán",
+"committee member; committee; council; CL:個|个[ge4]"
+],
+[
+"裁员",
+6,
+"cái yuán",
+"to cut staff; to lay off employees"
+],
+[
+"动员",
+6,
+"dòng yuán",
+"to mobilize; to arouse; mobilization; CL:次[ci4],個|个[ge4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"委员会",
+112.56,
+"wěi yuán huì",
+"committee"
+],
+[
+"球员",
+108.54,
+"qiú yuán",
+"sports club member; footballer, golfer etc"
+],
+[
+"工作人员",
+100.26,
+"gōng zuò rén yuán",
+"staff member"
+],
+[
+"官员",
+89.52,
+"guān yuán",
+"official (in an organization or government); administrator"
+],
+[
+"队员",
+81.15,
+"duì yuán",
+"team member"
+],
+[
+"党员",
+51.48,
+"dǎng yuán",
+"party member; CL:名[ming2],位[wei4],個|个[ge4]"
+],
+[
+"通讯员",
+50.76,
+"tōng xùn yuán",
+"correspondent; reporter; messenger boy"
+],
+[
+"运动员",
+39.81,
+"yùn dòng yuán",
+"athlete; CL:名[ming2],個|个[ge4]"
+],
+[
+"会员",
+38.81,
+"huì yuán",
+"member"
+],
+[
+"议员",
+34.49,
+"yì yuán",
+"member (of a legislative body); representative"
+],
+[
+"社员",
+27.9,
+"shè yuán",
+"commune member (PRC, 1958-1985); member of a society (or other organization)"
+],
+[
+"公务员",
+26.39,
+"gōng wù yuán",
+"functionary; office-bearer"
+],
+[
+"参议员",
+24.53,
+"cān yì yuán",
+"senator"
+],
+[
+"学员",
+20.21,
+"xué yuán",
+"student; member of an institution of learning; officer cadet"
+],
+[
+"驾驶员",
+18.24,
+"jià shǐ yuán",
+"pilot; driver"
+],
+[
+"飞行员",
+18.12,
+"fēi xíng yuán",
+"pilot; aviator"
+],
+[
+"技术人员",
+17.8,
+"jì shù rén yuán",
+"technical staff"
+],
+[
+"共产党员",
+15.13,
+"Gòng chǎn dǎng yuán",
+"Communist Party member"
+],
+[
+"成员国",
+12.96,
+"chéng yuán guó",
+"member country"
+],
+[
+"研究员",
+12.84,
+"yán jiū yuán",
+"researcher"
+],
+[
+"雇员",
+12.79,
+"gù yuán",
+"employee"
+],
+[
+"船员",
+10.55,
+"chuán yuán",
+"sailor; crew member"
+],
+[
+"从业人员",
+10.19,
+"cóng yè rén yuán",
+"employee; person employed in a trade or profession"
+],
+[
+"管理员",
+9.9,
+"guǎn lǐ yuán",
+"manager; administrator"
+],
+[
+"职员",
+9.3,
+"zhí yuán",
+"office worker; staff member; CL:個|个[ge4],位[wei4]"
+],
+[
+"陪审员",
+8.23,
+"péi shěn yuán",
+"juror"
+],
+[
+"航天员",
+7.77,
+"háng tiān yuán",
+"astronaut"
+],
+[
+"业务员",
+7.22,
+"yè wù yuán",
+"salesperson"
+],
+[
+"宇航员",
+6.41,
+"yǔ háng yuán",
+"astronaut"
+],
+[
+"伤员",
+6.37,
+"shāng yuán",
+"wounded person"
+],
+[
+"团员",
+6.3,
+"tuán yuán",
+"member; group member"
+],
+[
+"营业员",
+5.85,
+"yíng yè yuán",
+"clerk; shop assistant; CL:個|个[ge4]"
+],
+[
+"店员",
+5.55,
+"diàn yuán",
+"shop assistant; salesclerk; salesperson"
+],
+[
+"委员长",
+5.21,
+"wěi yuán zhǎng",
+"head of a committee"
+],
+[
+"教练员",
+5.09,
+"jiào liàn yuán",
+"sports coach; training personnel"
+]
+],
 "strokes": [
 "M 330 768 Q 320 772 297 776 Q 287 780 283 775 Q 276 769 285 754 Q 310 699 326 608 Q 329 581 345 563 Q 361 542 366 557 Q 370 569 370 589 L 366 618 Q 351 709 349 738 C 347 762 347 762 330 768 Z",
 "M 668 658 Q 690 727 721 750 Q 737 769 723 786 Q 707 799 655 825 Q 637 832 616 824 Q 498 781 330 768 C 300 766 319 738 349 738 Q 368 737 391 742 Q 493 760 590 777 Q 615 783 625 772 Q 634 765 633 747 Q 627 701 618 663 C 611 634 658 630 668 658 Z",

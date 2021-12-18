@@ -9,189 +9,261 @@
 [
 "名字",
 1,
-"míngzi",
-"name"
+"míng zi",
+"name (of a person or thing); CL:個|个[ge4]"
 ],
 [
 "有名",
 3,
-"yǒumíng",
+"yǒu míng",
 "famous; well-known"
+],
+[
+"著名",
+4,
+"zhù míng",
+"famous; noted; well-known; celebrated"
 ],
 [
 "报名",
 4,
 "bào míng",
-"sign up; apply"
-],
-[
-"著名",
-4,
-"zhùmíng",
-"famous; well-known; celebration"
-],
-[
-"名牌",
-5,
-"míngpái",
-"famous brand; name brand"
+"to sign up; to enter one's name; to apply; to register; to enroll; to enlist"
 ],
 [
 "名片",
 5,
-"míngpiàn",
-"business card"
+"míng piàn",
+"(business) card"
+],
+[
+"名牌",
+5,
+"míng pái",
+"famous brand; nameplate; name tag"
 ],
 [
 "名胜古迹",
 5,
-"míngshènggǔjì",
-"famous scenic spots and ancient historic sites"
+"míng shèng gǔ jì",
+"historical sites and scenic spots"
 ],
 [
-"名次",
+"命名",
 6,
-"míngcì",
-"position in a ranking of names"
+"mìng míng",
+"to give a name to; to dub; to christen; to designate; named after; naming"
+],
+[
+"名誉",
+6,
+"míng yù",
+"fame; reputation; honor; honorary; emeritus (of retired professor)"
+],
+[
+"莫名其妙",
+6,
+"mò míng qí miào",
+"(idiom) baffling; inexplicable"
 ],
 [
 "名额",
 6,
-"míng'é",
-"particular number of people; quota"
+"míng é",
+"quota; number of places; place (in an institution, a group etc)"
 ],
 [
 "名副其实",
 6,
 "míng fù qí shí",
-"not just in name only; but also in reality"
+"not just in name only, but also in reality (idiom); aptly named; worthy of the name"
 ],
 [
-"名誉",
+"名次",
 6,
-"míngyù",
-"fame; reputation; honor; honorary"
-],
-[
-"命名",
-6,
-"mìngmíng",
-"give a name; to dub; christen; naming"
-],
-[
-"莫名其妙",
-6,
-"mòmíngqímiào",
-"odd; baffling; unaccountable"
+"míng cì",
+"position in a ranking of names; place; rank"
 ]
 ],
 "extraWords": [
 [
+"名单",
+65.94,
+"míng dān",
+"list of names"
+],
+[
 "排名",
 55.16,
-"pai2 ming2",
+"pái míng",
 "to rank (1st, 2nd etc); ranking"
 ],
 [
 "知名",
 38.24,
-"zhi1 ming2",
+"zhī míng",
 "well-known; famous"
+],
+[
+"名称",
+33.79,
+"míng chēng",
+"name (of a thing); name (of an organization)"
+],
+[
+"签名",
+33.18,
+"qiān míng",
+"to sign (one's name with a pen etc); to autograph; signature"
 ],
 [
 "名人",
 30.97,
-"ming2 ren2",
+"míng rén",
 "personage; celebrity"
 ],
 [
 "名叫",
 30.44,
-"ming2 jiao4",
+"míng jiào",
 "called; named"
 ],
 [
 "姓名",
 25.32,
-"xing4 ming2",
+"xìng míng",
 "surname and given name; full name"
 ],
 [
 "罪名",
 23.91,
-"zui4 ming2",
+"zuì míng",
 "criminal charge; accusation"
+],
+[
+"名义",
+22.13,
+"míng yì",
+"name; titular; nominal; in name; ostensible purpose"
 ],
 [
 "提名",
 18.41,
-"ti2 ming2",
+"tí míng",
 "to nominate"
 ],
 [
 "出名",
 16.54,
-"chu1 ming2",
+"chū míng",
 "well-known for sth; to become well known; to make one's mark"
+],
+[
+"名声",
+13.56,
+"míng shēng",
+"reputation"
 ],
 [
 "化名",
 13.39,
-"hua4 ming2",
+"huà míng",
 "to use an alias; assumed name; pseudonym"
+],
+[
+"名将",
+12.93,
+"míng jiàng",
+"famous general"
 ],
 [
 "知名度",
 11.8,
-"zhi1 ming2 du4",
+"zhī míng dù",
 "reputation; profile; familiarity in the public consciousness"
 ],
 [
 "匿名",
 10.61,
-"ni4 ming2",
+"nì míng",
 "anonymous"
 ],
 [
 "域名",
 8.75,
-"yu4 ming2",
+"yù míng",
 "domain name (computing)"
 ],
 [
 "改名",
 8.07,
-"gai3 ming2",
+"gǎi míng",
 "to change one's name"
 ],
 [
 "成名",
 8.04,
-"cheng2 ming2",
+"chéng míng",
 "to make one's name; to become famous"
+],
+[
+"无名",
+7.92,
+"wú míng",
+"nameless; obscure"
+],
+[
+"名词",
+7.36,
+"míng cí",
+"noun"
+],
+[
+"点名",
+7.33,
+"diǎn míng",
+"roll call; to mention sb by name; (to call or praise or criticize sb) by name"
+],
+[
+"闻名",
+6.92,
+"wén míng",
+"well-known; famous; renowned; eminent"
+],
+[
+"实名制",
+6.62,
+"shí míng zhì",
+"system for identifying users (on a rail network, the Internet etc)"
+],
+[
+"名气",
+6.52,
+"míng qì",
+"reputation; fame"
 ],
 [
 "名家",
 5.84,
-"Ming2 jia1",
+"Míng jiā",
 "School of Logicians of the Warring States Period (475-220 BC), also called the School of Names"
 ],
 [
 "名家",
 5.84,
-"ming2 jia1",
+"míng jiā",
 "renowned expert; master (of an art or craft)"
 ],
 [
 "更名",
 5.8,
-"geng1 ming2",
+"gēng míng",
 "to change name"
 ],
 [
 "名下",
 5.16,
-"ming2 xia4",
+"míng xià",
 "under sb's name"
 ]
 ],

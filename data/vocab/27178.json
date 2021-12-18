@@ -10,16 +10,29 @@
 "横",
 6,
 "héng",
-"horizontal; across; (horizontal character stroke)"
+"horizontal; across; crosswise; horizontal stroke (in Chinese characters); to place (sth) flat (on a surface); to cross (a river, etc); in a jumble; chaotic; (in fixed expressions) harsh and unreasonable; violent"
+],
+[
+"横",
+6,
+"hèng",
+"harsh and unreasonable; unexpected"
 ],
 [
 "纵横",
 6,
-"zònghéng",
-"able to move unhindered; length and breadth"
+"zòng héng",
+"lit. warp and weft in weaving; vertically and horizontal; length and breadth; criss-crossed; able to move unhindered; abbr. for 合縱連橫|合纵连横[He2 zong4 Lian2 heng2], School of Diplomacy during the Warring States Period (475-221 BC)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"横向",
+8.27,
+"héng xiàng",
+"horizontal; orthogonal; perpendicular; lateral; crosswise"
+]
+],
 "strokes": [
 "M 312 530 Q 390 557 392 557 Q 401 564 396 573 Q 389 583 360 589 Q 335 593 313 585 L 270 568 Q 174 538 107 529 Q 73 522 98 506 Q 140 487 213 506 Q 234 512 257 516 L 312 530 Z",
 "M 310 426 Q 310 475 312 530 L 313 585 Q 313 586 314 588 Q 315 682 333 746 Q 342 761 339 774 Q 332 784 278 817 Q 256 833 235 819 Q 231 815 237 799 Q 268 751 269 704 Q 269 640 270 568 L 266 422 Q 257 212 255 196 Q 249 159 238 121 Q 228 84 252 22 Q 259 4 267 1 Q 273 -6 280 3 Q 307 19 307 82 Q 306 121 309 399 L 310 426 Z",

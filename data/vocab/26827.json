@@ -9,15 +9,21 @@
 [
 "象棋",
 5,
-"xiàngqí",
-"chess; Chinese chess"
+"xiàng qí",
+"Chinese chess; CL:副[fu4]"
 ]
 ],
 "extraWords": [
 [
+"围棋",
+10.36,
+"wéi qí",
+"the game of Go"
+],
+[
 "棋手",
 9.45,
-"qi2 shou3",
+"qí shǒu",
 "chess player"
 ]
 ],

@@ -9,47 +9,96 @@
 [
 "负责",
 4,
-"fùzé",
-"responsible for (something); in charge of"
-],
-[
-"抱负",
-6,
-"bàofù",
-"aspiration; ambition"
+"fù zé",
+"to be in charge of; to take responsibility for; to be to blame; conscientious"
 ],
 [
 "负担",
 6,
-"fùdān",
-"to (bear a) burden; carry; a load"
-],
-[
-"辜负",
-6,
-"gūfù",
-"let down; disappoint; fail to live up to"
+"fù dān",
+"burden; to bear a burden"
 ],
 [
 "欺负",
 6,
-"qīfu",
-"to bully; intimidate"
+"qī fu",
+"to bully"
+],
+[
+"辜负",
+6,
+"gū fù",
+"to fail to live up (to expectations); unworthy (of trust); to let down; to betray (hopes); to disappoint"
 ],
 [
 "胜负",
 6,
-"shèngfù",
+"shèng fù",
 "victory or defeat; the outcome of a battle"
+],
+[
+"抱负",
+6,
+"bào fù",
+"aspiration; ambition"
 ],
 [
 "正负",
 6,
-"zhèngfù",
-"positive and negative; plus-minus"
+"zhèng fù",
+"positive and negative"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"负责人",
+127.39,
+"fù zé rén",
+"person in charge"
+],
+[
+"负面",
+17.43,
+"fù miàn",
+"negative; the negative side"
+],
+[
+"负责任",
+11.34,
+"fù zé rèn",
+"to take responsibility; to bear responsibility; to be responsible"
+],
+[
+"负债",
+11.29,
+"fù zhài",
+"to be in debt; to incur debts; liability (finance)"
+],
+[
+"负荷",
+10.88,
+"fù hè",
+"load; burden; charge"
+],
+[
+"担负",
+8.93,
+"dān fù",
+"to shoulder; to bear; to undertake"
+],
+[
+"自负",
+6.41,
+"zì fù",
+"conceited; to take responsibility"
+],
+[
+"肩负",
+5.87,
+"jiān fù",
+"to shoulder (a burden); to bear; to suffer (a disadvantage)"
+]
+],
 "strokes": [
 "M 469 747 Q 485 763 498 772 Q 508 779 507 794 Q 506 807 482 833 Q 460 855 442 858 Q 424 859 428 837 Q 437 803 357 707 Q 318 664 267 616 Q 257 609 253 602 Q 249 592 262 592 Q 317 599 453 730 L 469 747 Z",
 "M 526 584 Q 644 695 686 718 Q 705 727 694 742 Q 681 755 644 781 Q 626 788 611 779 Q 601 775 516 754 Q 494 750 469 747 C 439 743 426 742 453 730 Q 471 715 575 731 Q 585 732 588 729 Q 592 725 585 715 Q 539 646 491 575 C 474 550 504 563 526 584 Z",

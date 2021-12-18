@@ -9,81 +9,129 @@
 [
 "电影",
 1,
-"diànyǐng",
-"movie; film"
+"diàn yǐng",
+"movie; film; CL:部[bu4],片[pian4],幕[mu4],場|场[chang3]"
 ],
 [
 "影响",
 3,
-"yǐngxiǎng",
-"influence; affect; effect"
-],
-[
-"合影",
-5,
-"héyǐng",
-"joint photo; group photo"
+"yǐng xiǎng",
+"influence; effect; to influence; to affect (usually adversely); to disturb; CL:股[gu3]"
 ],
 [
 "摄影",
 5,
 "shè yǐng",
-"take a photograph; shoot a film"
+"to take a photograph; photography; to shoot (a movie)"
 ],
 [
 "影子",
 5,
-"yǐngzi",
-"shadow; reflection"
+"yǐng zi",
+"shadow; reflection; (fig.) hint; indication; influence; CL:個|个[ge4]"
+],
+[
+"合影",
+5,
+"hé yǐng",
+"to take a joint photo; group photo"
 ]
 ],
 "extraWords": [
 [
 "影片",
 49.93,
-"ying3 pian4",
+"yǐng piàn",
 "film; movie; CL:部[bu4]"
+],
+[
+"影响力",
+34.8,
+"yǐng xiǎng lì",
+"influence; impact"
+],
+[
+"摄影师",
+22.27,
+"shè yǐng shī",
+"photographer; cameraman"
+],
+[
+"影视",
+21.57,
+"yǐng shì",
+"movies and television"
 ],
 [
 "身影",
 19.01,
-"shen1 ying3",
+"shēn yǐng",
 "silhouette; figure"
 ],
 [
 "影像",
 18.96,
-"ying3 xiang4",
+"yǐng xiàng",
 "image"
+],
+[
+"阴影",
+14.4,
+"yīn yǐng",
+"(lit. and fig.) shadow"
+],
+[
+"电影节",
+11.39,
+"diàn yǐng jié",
+"film festival; CL:屆|届[jie4]"
 ],
 [
 "背影",
 11.28,
-"bei4 ying3",
+"bèi yǐng",
 "rear view; figure seen from behind; view of the back (of a person or object)"
 ],
 [
 "影院",
 10.25,
-"ying3 yuan4",
+"yǐng yuàn",
 "cinema; movie theater"
+],
+[
+"电影院",
+9.72,
+"diàn yǐng yuàn",
+"cinema; movie theater; CL:家[jia1],座[zuo4]"
+],
+[
+"摄影机",
+8.23,
+"shè yǐng jī",
+"camera; movie camera"
 ],
 [
 "投影",
 7.41,
-"tou2 ying3",
+"tóu yǐng",
 "to project; a projection"
+],
+[
+"踪影",
+5.82,
+"zōng yǐng",
+"trace; vestige; presence"
 ],
 [
 "影迷",
 5.41,
-"ying3 mi2",
+"yǐng mí",
 "film enthusiast; movie fan; CL:個|个[ge4]"
 ],
 [
 "影星",
 5.16,
-"ying3 xing1",
+"yǐng xīng",
 "film star"
 ]
 ],

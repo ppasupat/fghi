@@ -7,67 +7,80 @@
 },
 "words": [
 [
-"严格",
-4,
-"yángé",
-"strict; stringent; tight"
-],
-[
 "严重",
 4,
-"yánzhòng",
-"grave; serious; critical"
+"yán zhòng",
+"grave; serious; severe; critical"
+],
+[
+"严格",
+4,
+"yán gé",
+"strict; stringent; tight; rigorous"
 ],
 [
 "严肃",
 5,
-"yánsù",
-"solemn; serious; earnest"
-],
-[
-"严寒",
-6,
-"yánhán",
-"bitter cold; severe winter"
-],
-[
-"严禁",
-6,
-"yánjìn",
-"strictly prohibit; forbid"
-],
-[
-"严峻",
-6,
-"yánjùn",
-"grim; severe; rigorous; harsh"
-],
-[
-"严厉",
-6,
-"yánlì",
-"strict; severe"
-],
-[
-"严密",
-6,
-"yánmì",
-"strict; closely-knit; tight"
-],
-[
-"庄严",
-6,
-"zhuāngyán",
-"stately; dignified"
+"yán sù",
+"solemn; grave; serious; earnest; severe"
 ],
 [
 "尊严",
 6,
-"zūnyán",
-"dignity; sanctity; honor"
+"zūn yán",
+"dignity; sanctity; honor; majesty"
+],
+[
+"严厉",
+6,
+"yán lì",
+"severe; strict"
+],
+[
+"严密",
+6,
+"yán mì",
+"strict; tight (organization, surveillance etc)"
+],
+[
+"庄严",
+6,
+"zhuāng yán",
+"solemn; dignified; stately"
+],
+[
+"严峻",
+6,
+"yán jùn",
+"grim; severe; rigorous"
+],
+[
+"严禁",
+6,
+"yán jìn",
+"to strictly prohibit"
+],
+[
+"严寒",
+6,
+"yán hán",
+"bitter cold; severe winter"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"严谨",
+8.79,
+"yán jǐn",
+"rigorous; strict; careful; cautious; compact; well-knit"
+],
+[
+"从严",
+5.36,
+"cóng yán",
+"strict; rigorous; severely"
+]
+],
 "strokes": [
 "M 593 743 Q 615 749 748 759 Q 758 758 768 770 Q 769 782 747 793 Q 717 817 645 796 Q 503 769 316 750 Q 307 750 301 748 Q 273 747 294 728 Q 321 701 354 706 Q 382 712 415 716 L 457 723 Q 500 730 550 737 L 593 743 Z",
 "M 415 716 Q 424 688 427 617 Q 427 568 428 478 C 428 448 467 453 468 483 Q 472 585 477 661 Q 481 704 462 720 Q 459 721 457 723 C 432 740 407 745 415 716 Z",

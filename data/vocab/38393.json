@@ -9,17 +9,30 @@
 [
 "热闹",
 4,
-"rènao",
-"bustling; lively; busy"
+"rè nao",
+"bustling with noise and excitement; lively"
 ],
 [
 "无理取闹",
 6,
-"wúlǐqǔnào",
-"to make trouble without reason (idiom); wilfully make trouble; to be deliberately provocative; deliberately awkward; pointless provocation"
+"wú lǐ qǔ nào",
+"to make trouble without reason (idiom); to be deliberately provocative"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"闹钟",
+8.63,
+"nào zhōng",
+"alarm clock"
+],
+[
+"胡闹",
+6.56,
+"hú nào",
+"to act willfully and make a scene; to make trouble"
+]
+],
 "strokes": [
 "M 303 761 Q 361 677 390 674 Q 406 671 414 692 Q 417 707 408 731 Q 398 750 371 764 Q 329 786 311 791 Q 301 794 298 781 Q 295 771 303 761 Z",
 "M 176 688 Q 231 541 186 227 Q 156 104 157 94 Q 157 63 179 37 Q 192 22 202 37 Q 239 76 240 242 Q 240 569 257 653 Q 258 672 242 683 Q 217 704 189 712 Q 179 715 172 706 Q 168 699 176 688 Z",

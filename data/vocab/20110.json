@@ -9,124 +9,280 @@
 [
 "关于",
 3,
-"guānyú",
-"about; regarding; concerning"
+"guān yú",
+"pertaining to; concerning; with regard to; about; a matter of"
 ],
 [
 "终于",
 3,
-"zhōngyú",
-"at last; in the end; finally"
+"zhōng yú",
+"at last; in the end; finally; eventually"
 ],
 [
 "对于",
 4,
-"duìyú",
-"regarding; as far as sth. is concerned; with regards to; for"
-],
-[
-"由于",
-4,
-"yóuyú",
-"due to; owing to; as a result of; thanks to"
+"duì yú",
+"regarding; as far as sth is concerned; with regards to"
 ],
 [
 "于是",
 4,
-"yúshì",
-"as a result; thus; therefore"
+"yú shì",
+"thereupon; as a result; consequently; thus; hence"
 ],
 [
-"等于",
-5,
-"děngyú",
-"(Mathematics) equal to"
-],
-[
-"善于",
-5,
-"shànyú",
-"be good at; excel at"
+"由于",
+4,
+"yóu yú",
+"due to; as a result of; thanks to; owing to; since; because"
 ],
 [
 "属于",
 5,
-"shǔyú",
-"belong to; be part of"
-],
-[
-"位于",
-5,
-"wèiyú",
-"be located at"
+"shǔ yú",
+"to be classified as; to belong to; to be part of"
 ],
 [
 "在于",
 5,
-"zàiyú",
-"lie in; be in; rest with; depend on"
+"zài yú",
+"to be in; to lie in; to consist in; to depend on; to rest with"
 ],
 [
 "至于",
 5,
-"zhìyú",
-"as for; go so far as to"
+"zhì yú",
+"as for; as to; to go so far as to"
 ],
 [
-"便于",
-6,
-"biànyú",
-"be easy; be convenient for"
+"等于",
+5,
+"děng yú",
+"to equal; to be tantamount to"
+],
+[
+"位于",
+5,
+"wèi yú",
+"to be located at; to be situated at; to lie"
+],
+[
+"善于",
+5,
+"shàn yú",
+"to be good at; to be adept at"
 ],
 [
 "过于",
 6,
-"guòyú",
+"guò yú",
 "too much; excessively"
-],
-[
-"急于求成",
-6,
-"jíyúqiúchéng",
-"impatient for success"
 ],
 [
 "鉴于",
 6,
-"jiànyú",
-"in light of; in view of; seeing that"
+"jiàn yú",
+"in view of; seeing that; considering; whereas"
 ],
 [
 "无动于衷",
 6,
-"wúdòngyúzhōng",
-"aloof; indifferent; unconcerned; untouched"
+"wú dòng yú zhōng",
+"aloof; indifferent; unconcerned"
 ],
 [
 "勇于",
 6,
-"yǒngyú",
-"have the courage to; be brave enough"
+"yǒng yú",
+"to dare to; to be brave enough to"
+],
+[
+"便于",
+6,
+"biàn yú",
+"easy to; convenient for"
+],
+[
+"急于求成",
+6,
+"jí yú qiú chéng",
+"anxious for quick results (idiom); to demand instant success; impatient for result; impetuous"
 ]
 ],
 "extraWords": [
 [
+"处于",
+104.03,
+"chǔ yú",
+"to be in (some state, position, or condition)"
+],
+[
 "用于",
 80.8,
-"yong4 yu2",
+"yòng yú",
 "use in; use on; use for"
+],
+[
+"有利于",
+61.58,
+"yǒu lì yú",
+"to be advantageous to; to be beneficial for"
 ],
 [
 "低于",
 60.34,
-"di1 yu2",
+"dī yú",
 "to be lower than"
+],
+[
+"高于",
+52.37,
+"gāo yú",
+"greater than; to exceed"
+],
+[
+"基于",
+37.29,
+"jī yú",
+"because of; on the basis of; in view of; on account of"
+],
+[
+"相当于",
+28.8,
+"xiāng dāng yú",
+"equivalent to"
+],
+[
+"有助于",
+26.49,
+"yǒu zhù yú",
+"to contribute to; to promote"
+],
+[
+"大于",
+25.49,
+"dà yú",
+"greater than; bigger than; more than, >"
+],
+[
+"出于",
+25.04,
+"chū yú",
+"due to; to stem from"
+],
+[
+"取决于",
+17.79,
+"qǔ jué yú",
+"to hinge on; to be decided by; to depend on"
+],
+[
+"敢于",
+16.05,
+"gǎn yú",
+"to have the courage to do sth; to dare to; bold in"
+],
+[
+"小于",
+14.32,
+"xiǎo yú",
+"less than, <"
+],
+[
+"源于",
+11.63,
+"yuán yú",
+"has its origins in"
+],
+[
+"限于",
+11.34,
+"xiàn yú",
+"to be limited to; to be confined to"
+],
+[
+"趋于",
+10.5,
+"qū yú",
+"to tend towards"
+],
+[
+"不至于",
+9.66,
+"bù zhì yú",
+"unlikely to go so far as to; not as bad as"
+],
+[
+"以至于",
+9.19,
+"yǐ zhì yú",
+"down to; up to; to the extent that..."
+],
+[
+"优于",
+8.74,
+"yōu yú",
+"to surpass"
+],
+[
+"急于",
+8.73,
+"jí yú",
+"eager to; in a hurry to"
+],
+[
+"定于",
+8.03,
+"dìng yú",
+"set at; scheduled at"
+],
+[
+"莫过于",
+7.78,
+"mò guò yú",
+"nothing can surpass"
+],
+[
+"利于",
+7.23,
+"lì yú",
+"to be beneficial; to be good for"
+],
+[
+"仅次于",
+7.14,
+"jǐn cì yú",
+"second only to...; (in second place) preceded only by..."
+],
+[
+"得益于",
+6.65,
+"dé yì yú",
+"to benefit from; thanks to"
+],
+[
+"忠于",
+5.96,
+"zhōng yú",
+"to be loyal to"
+],
+[
+"多于",
+5.88,
+"duō yú",
+"more than; greater than"
 ],
 [
 "置于",
 5.72,
-"zhi4 yu2",
+"zhì yú",
 "to place; to put (at or in a position); to be located"
+],
+[
+"忙于",
+5.38,
+"máng yú",
+"busy with"
 ]
 ],
 "strokes": [

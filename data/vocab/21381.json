@@ -9,17 +9,24 @@
 [
 "餐厅",
 4,
-"cāntīng",
-"dining hall; cafeteria; restaurant"
+"cān tīng",
+"dining hall; dining room; restaurant; CL:間|间[jian1],家[jia1]"
 ],
 [
 "客厅",
 4,
-"kètīng",
-"living room; parlor"
+"kè tīng",
+"drawing room (room for arriving guests); living room; CL:間|间[jian1]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"大厅",
+24.32,
+"dà tīng",
+"hall; lounge"
+]
+],
 "strokes": [
 "M 341 691 Q 386 678 449 687 Q 755 739 766 749 Q 776 758 771 767 Q 764 780 733 789 Q 700 796 601 765 Q 459 734 340 723 Q 330 722 327 720 C 298 713 312 698 341 691 Z",
 "M 327 720 Q 312 733 290 744 Q 271 756 257 751 Q 244 744 251 729 Q 269 695 263 620 Q 262 614 261 606 Q 246 434 197 307 Q 152 199 68 80 Q 62 73 60 67 Q 57 55 68 57 Q 102 63 191 188 Q 204 212 219 238 Q 295 397 317 575 Q 330 662 341 691 C 346 706 346 706 327 720 Z",

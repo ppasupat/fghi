@@ -9,70 +9,88 @@
 [
 "打招呼",
 4,
-"dǎzhāohu",
-"notify; greet; inform"
+"dǎ zhāo hu",
+"to greet sb by word or action; to give prior notice"
 ],
 [
 "招聘",
 4,
-"zhāopìn",
-"recruitment; take job applications for a job"
+"zhāo pìn",
+"to invite applications for a job; to recruit"
 ],
 [
 "招待",
 5,
-"zhāodài",
-"receive (guests); entertain; reception"
-],
-[
-"招标",
-6,
-"zhāobiāo",
-"to beckon; to invite bids"
+"zhāo dài",
+"to receive (guests); to entertain; reception"
 ],
 [
 "招收",
 6,
-"zhāoshōu",
-"recruit; take in; to hire"
+"zhāo shōu",
+"to hire; to recruit"
+],
+[
+"招标",
+6,
+"zhāo biāo",
+"to invite bids"
 ]
 ],
 "extraWords": [
 [
 "招生",
 43.17,
-"zhao1 sheng1",
+"zhāo shēng",
 "to enroll new students; to get students"
 ],
 [
 "招呼",
 25.96,
-"zhao1 hu5",
+"zhāo hu",
 "to call out to; to greet; to say hello to; to inform; to take care of; to take care that one does not"
 ],
 [
 "招商",
 25.56,
-"zhao1 shang1",
+"zhāo shāng",
 "to seek investment or funding; investment promotion"
+],
+[
+"招商引资",
+10.02,
+"zhāo shāng yǐn zī",
+"investment promotion"
 ],
 [
 "招牌",
 9.57,
-"zhao1 pai5",
+"zhāo pai",
 "signboard; shop sign; reputation of a business"
 ],
 [
 "招募",
 9.41,
-"zhao1 mu4",
+"zhāo mù",
 "to recruit; to enlist"
 ],
 [
 "招供",
 7.69,
-"zhao1 gong4",
+"zhāo gòng",
 "to confess"
+],
+[
+"招聘会",
+6.13,
+"zhāo pìn huì",
+"recruitment meeting; job fair"
+],
+[
+"记者招待会",
+5.82,
+"jì zhě zhāo dài huì",
+"press conference"
 ]
 ],
 "strokes": [

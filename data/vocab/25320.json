@@ -10,16 +10,29 @@
 "拨",
 6,
 "bō",
-"to dial; move with a hand/foot; stir; poke; allocate (money)"
+"to push aside with the hand, foot, a stick etc; to dial; to allocate; to set aside (money); to poke (the fire); to pluck (a string instrument); to turn round; classifier: group, batch"
 ],
 [
 "挑拨",
 6,
-"tiǎobō",
-"incite disharmony; provoke; stir up tension in others"
+"tiǎo bō",
+"to incite disharmony; to instigate"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"拨打",
+7.84,
+"bō dǎ",
+"to call; to dial"
+],
+[
+"拨款",
+7.72,
+"bō kuǎn",
+"to allocate funds; appropriation"
+]
+],
 "strokes": [
 "M 322 514 Q 386 535 389 537 Q 396 544 392 553 Q 385 563 355 569 Q 339 572 324 568 L 274 549 Q 174 521 131 513 Q 95 504 122 490 Q 168 469 217 486 Q 244 493 273 501 L 322 514 Z",
 "M 267 319 Q 266 234 263 125 Q 262 103 249 94 Q 243 91 181 99 Q 148 111 151 101 Q 152 94 172 79 Q 230 30 245 3 Q 263 -28 277 -31 Q 292 -32 306 3 Q 325 48 324 121 Q 317 242 318 361 L 318 391 Q 318 452 322 514 L 324 568 Q 340 709 346 724 Q 362 754 308 777 Q 274 796 255 790 Q 237 783 253 760 Q 274 733 275 699 Q 276 683 274 549 L 273 501 Q 272 441 269 362 L 267 319 Z",

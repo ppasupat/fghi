@@ -10,46 +10,143 @@
 "种",
 3,
 "zhǒng",
-"type; breed; race; seed"
+"seed; species; kind; type; classifier for types, kinds, sorts"
+],
+[
+"种",
+3,
+"zhòng",
+"to plant; to grow; to cultivate"
 ],
 [
 "种类",
 5,
-"zhǒnglèi",
-"kind; category; class"
-],
-[
-"播种",
-6,
-"bōzhǒng",
-"sow seeds; sowing; seed"
-],
-[
-"品种",
-6,
-"pǐnzhǒng",
-"breed; variety"
-],
-[
-"种子",
-6,
-"zhǒngzi",
-"seed"
+"zhǒng lèi",
+"kind; genus; type; category; variety; species; sort; class"
 ],
 [
 "种族",
 6,
-"zhǒngzú",
+"zhǒng zú",
 "race; ethnicity"
+],
+[
+"种子",
+6,
+"zhǒng zi",
+"seed; CL:顆|颗[ke1],粒[li4]"
+],
+[
+"品种",
+6,
+"pǐn zhǒng",
+"breed; variety; CL:個|个[ge4]"
 ],
 [
 "种植",
 6,
-"zhòngzhí",
-"plant; grow; crop"
+"zhòng zhí",
+"to plant; to grow (a crop); to cultivate"
+],
+[
+"播种",
+6,
+"bō zhǒng",
+"to sow seeds; sowing; seed"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"这种",
+527.27,
+"zhè zhǒng",
+"this; this kind of; this sort of; this type of"
+],
+[
+"各种",
+277.99,
+"gè zhǒng",
+"every kind of; all kinds of; various kinds"
+],
+[
+"那种",
+118.85,
+"nà zhǒng",
+"that; that kind of; that sort of; that type of"
+],
+[
+"某种",
+63.49,
+"mǒu zhǒng",
+"some kind (of)"
+],
+[
+"多种",
+62.12,
+"duō zhǒng",
+"many kinds of; multiple; diverse; multi-"
+],
+[
+"杂种",
+39.23,
+"zá zhǒng",
+"hybrid; mixed breed; bastard; son of a bitch"
+],
+[
+"种种",
+37.23,
+"zhǒng zhǒng",
+"all kinds of"
+],
+[
+"有种",
+21.52,
+"yǒu zhǒng",
+"to have guts; to have courage; to be brave"
+],
+[
+"接种",
+13.5,
+"jiē zhòng",
+"to be vaccinated; to be inoculated"
+],
+[
+"各种各样",
+11.52,
+"gè zhǒng gè yàng",
+"various kinds; all sorts"
+],
+[
+"特种",
+10.88,
+"tè zhǒng",
+"particular kind; special type"
+],
+[
+"良种",
+6.48,
+"liáng zhǒng",
+"improved type; good breed; pedigree"
+],
+[
+"物种",
+6.38,
+"wù zhǒng",
+"species"
+],
+[
+"特种部队",
+5.48,
+"tè zhǒng bù duì",
+"(military) special forces"
+],
+[
+"种族主义",
+5.25,
+"zhǒng zú zhǔ yì",
+"racism"
+]
+],
 "strokes": [
 "M 305 651 Q 401 702 445 714 Q 461 715 465 724 Q 468 734 455 745 Q 433 760 388 773 Q 372 780 359 777 Q 352 773 352 762 Q 353 719 136 600 Q 132 590 138 588 Q 141 588 275 638 L 305 651 Z",
 "M 332 470 Q 369 480 415 490 Q 431 494 431 501 Q 431 514 413 521 Q 385 531 334 515 L 290 502 Q 155 468 106 459 Q 93 456 91 449 Q 90 439 105 428 Q 142 407 191 422 Q 231 440 267 450 L 332 470 Z",

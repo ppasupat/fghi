@@ -9,41 +9,84 @@
 [
 "终于",
 3,
-"zhōngyú",
-"at last; in the end; finally"
+"zhōng yú",
+"at last; in the end; finally; eventually"
 ],
 [
 "始终",
 5,
-"shǐzhōng",
+"shǐ zhōng",
 "from beginning to end; all along"
 ],
 [
 "终点",
 6,
-"zhōngdiǎn",
-"the end; end point; destination; finish line (in a race)"
-],
-[
-"终究",
-6,
-"zhōngjiū",
-"in the end; after all is said and done; eventually"
+"zhōng diǎn",
+"the end; end point; finishing line (in a race); destination; terminus; CL:個|个[ge4]"
 ],
 [
 "终身",
 6,
-"zhōngshēn",
-"lifelong"
+"zhōng shēn",
+"lifelong; all one's life; marriage"
 ],
 [
 "终止",
 6,
-"zhōngzhǐ",
-"stop; cease; terminate (legal)"
+"zhōng zhǐ",
+"to stop; to terminate (law)"
+],
+[
+"终究",
+6,
+"zhōng jiū",
+"in the end; after all is said and done"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"最终",
+173.34,
+"zuì zhōng",
+"final; ultimate"
+],
+[
+"终端",
+18.87,
+"zhōng duān",
+"end; terminal"
+],
+[
+"终结",
+12.13,
+"zhōng jié",
+"end; conclusion; to come to an end; to terminate (sth)"
+],
+[
+"年终",
+10.16,
+"nián zhōng",
+"end of the year"
+],
+[
+"终极",
+9.0,
+"zhōng jí",
+"ultimate; final"
+],
+[
+"终生",
+6.72,
+"zhōng shēng",
+"throughout one's life; lifetime; lifelong"
+],
+[
+"年终奖",
+5.45,
+"nián zhōng jiǎng",
+"year-end bonus"
+]
+],
 "strokes": [
 "M 311 482 Q 310 483 306 482 Q 257 483 218 485 Q 181 485 201 507 Q 274 630 344 721 Q 357 737 356 745 Q 353 760 315 791 Q 299 804 280 801 Q 270 798 275 783 Q 293 741 199 571 Q 180 532 136 495 Q 117 482 119 470 Q 123 451 136 433 Q 146 423 159 429 Q 195 447 293 458 C 323 462 341 482 311 482 Z",
 "M 293 458 Q 194 332 176 322 Q 163 313 165 299 Q 166 286 192 266 Q 202 254 217 266 Q 280 311 386 344 Q 405 348 407 357 Q 410 367 390 364 Q 332 354 262 335 Q 234 325 252 348 Q 291 400 380 504 Q 408 541 433 561 Q 446 571 439 581 Q 429 600 397 619 Q 381 628 372 625 Q 362 622 364 607 Q 367 571 311 482 L 293 458 Z",

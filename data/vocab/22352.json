@@ -9,33 +9,51 @@
 [
 "坐",
 1,
+"Zuò",
+"surname Zuo"
+],
+[
+"坐",
+1,
 "zuò",
-"sit"
+"to sit; to take a seat; to take (a bus, airplane etc); to bear fruit; variant of 座[zuo4]"
 ],
 [
 "乘坐",
 4,
-"chéngzuò",
-"ride; get into (a vehicle)"
+"chéng zuò",
+"to ride (in a vehicle)"
 ]
 ],
 "extraWords": [
 [
 "坐下",
 82.78,
-"zuo4 xia5",
+"zuò xia",
 "to sit down"
 ],
 [
 "坐牢",
 25.96,
-"zuo4 lao2",
+"zuò láo",
 "to be imprisoned"
+],
+[
+"坐标",
+8.14,
+"zuò biāo",
+"coordinate (geometry)"
+],
+[
+"坐车",
+7.51,
+"zuò chē",
+"to take the car, bus, train etc"
 ],
 [
 "坐落",
 5.25,
-"zuo4 luo4",
+"zuò luò",
 "to be situated; to be located (of a building)"
 ]
 ],

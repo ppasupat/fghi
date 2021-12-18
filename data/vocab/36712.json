@@ -9,11 +9,30 @@
 [
 "轨道",
 6,
-"guǐdào",
-"orbit; railway; trajectory"
+"guǐ dào",
+"track (for trains etc); orbit (of a satellite); (fig.) a person's established path in life; desired trajectory (of a business or other endeavor); (audio engineering) track; (quantum mechanics) orbital"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"接轨",
+10.6,
+"jiē guǐ",
+"railtrack connection; to integrate into sth; to dock; to connect; to be in step with; to bring into line with; to align"
+],
+[
+"轨迹",
+8.08,
+"guǐ jì",
+"locus; orbit; trajectory; track"
+],
+[
+"出轨",
+5.19,
+"chū guǐ",
+"derailment (railway accident); to leave the rails; fig. to overstep bounds; fig. to have an extramarital affair"
+]
+],
 "strokes": [
 "M 293 596 Q 348 612 405 624 Q 442 634 448 641 Q 457 648 452 657 Q 445 667 416 674 Q 391 677 316 649 L 262 633 Q 211 621 155 612 Q 121 605 146 590 Q 194 569 241 584 Q 242 585 245 584 L 293 596 Z",
 "M 312 416 Q 275 407 233 396 Q 220 393 219 396 Q 218 397 219 407 Q 249 494 293 596 L 316 649 Q 317 655 321 660 Q 352 736 368 750 Q 381 763 364 783 Q 337 810 316 823 Q 303 830 292 828 Q 283 824 290 802 Q 302 763 262 633 L 245 584 Q 244 583 244 579 Q 192 443 149 391 Q 133 375 139 359 Q 146 340 157 328 Q 167 319 178 324 Q 212 346 297 374 Q 303 377 312 378 L 355 390 Q 386 400 417 403 Q 447 407 437 420 Q 427 433 409 439 Q 393 445 356 429 L 312 416 Z",

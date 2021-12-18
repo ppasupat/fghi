@@ -10,80 +10,92 @@
 "十",
 1,
 "shí",
-"ten"
+"ten; 10"
 ],
 [
 "十分",
 4,
-"shífēn",
-"very; fully; 100%"
+"shí fēn",
+"very; completely; utterly; extremely; absolutely; hundred percent; to divide into ten equal parts"
 ],
 [
 "十足",
 6,
-"shízú",
-"full of; complete; 100 percent"
+"shí zú",
+"ample; complete; hundred percent; a pure shade (of some color)"
 ]
 ],
 "extraWords": [
 [
+"十几",
+45.25,
+"shí jǐ",
+"more than ten; a dozen or more"
+],
+[
 "二十",
 18.42,
-"er4 shi2",
+"èr shí",
 "twenty; 20"
 ],
 [
 "十二",
 15.68,
-"shi2 er4",
+"shí èr",
 "twelve; 12"
 ],
 [
 "十月",
 14.66,
-"Shi2 yue4",
+"Shí yuè",
 "October; tenth month (of the lunar year)"
 ],
 [
 "三十",
 12.46,
-"san1 shi2",
+"sān shí",
 "thirty; 30"
 ],
 [
 "十二月",
 11.92,
-"Shi2 er4 yue4",
+"Shí èr yuè",
 "December; twelfth month (of the lunar year)"
 ],
 [
 "十字架",
 11.27,
-"shi2 zi4 jia4",
+"shí zì jià",
 "cross; crucifix; yoke one has to endure"
 ],
 [
 "十一月",
 11.21,
-"Shi2 yi1 yue4",
+"Shí yī yuè",
 "November; eleventh month (of the lunar year)"
 ],
 [
 "五十",
 8.56,
-"wu3 shi2",
+"wǔ shí",
 "fifty"
 ],
 [
 "十五",
 8.29,
-"shi2 wu3",
+"shí wǔ",
 "fifteen; 15"
+],
+[
+"十万",
+8.08,
+"shí wàn",
+"hundred thousand"
 ],
 [
 "四十",
 7.01,
-"si4 shi2",
+"sì shí",
 "forty; 40"
 ]
 ],

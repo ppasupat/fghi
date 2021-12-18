@@ -7,179 +7,251 @@
 },
 "words": [
 [
+"完全",
+4,
+"wán quán",
+"complete; whole; totally; entirely"
+],
+[
 "安全",
 4,
-"ānquán",
-"safe; safety; secure; security"
+"ān quán",
+"safe; secure; safety; security"
 ],
 [
 "全部",
 4,
-"quánbù",
+"quán bù",
 "whole; entire; complete"
-],
-[
-"完全",
-4,
-"wánquán",
-"complete; whole; totally"
 ],
 [
 "全面",
 5,
-"quánmiàn",
-"all-around; comprehensive; fully"
-],
-[
-"健全",
-6,
-"jiànquán",
-"Perfect; sound; to perfect/strengthen/amplify"
-],
-[
-"竭尽全力",
-6,
-"jiéjìn quánlì",
-"to spare no efforts; do one's utmost"
-],
-[
-"齐全",
-6,
-"qíquán",
-"complete"
-],
-[
-"全局",
-6,
-"quánjú",
-"overall situation"
+"quán miàn",
+"all-around; comprehensive; total; overall"
 ],
 [
 "全力以赴",
 6,
 "quán lì yǐ fù",
-"do at all costs; make an all-out effort"
+"to do at all costs; to make an all-out effort"
+],
+[
+"竭尽全力",
+6,
+"jié jìn quán lì",
+"to spare no effort (idiom); to do one's utmost"
+],
+[
+"健全",
+6,
+"jiàn quán",
+"robust; sound"
+],
+[
+"全局",
+6,
+"quán jú",
+"overall situation"
+],
+[
+"齐全",
+6,
+"qí quán",
+"complete; comprehensive"
 ]
 ],
 "extraWords": [
 [
+"全国",
+360.24,
+"quán guó",
+"whole nation; nationwide; countrywide; national"
+],
+[
 "全球",
 155.02,
-"quan2 qiu2",
+"quán qiú",
 "entire; total; global; the (whole) world; worldwide"
 ],
 [
 "全省",
 84.14,
-"quan2 sheng3",
+"quán shěng",
 "the whole province"
 ],
 [
 "全市",
 77.37,
-"quan2 shi4",
+"quán shì",
 "whole city"
+],
+[
+"全体",
+56.61,
+"quán tǐ",
+"all; entire"
 ],
 [
 "全世界",
 50.7,
-"quan2 shi4 jie4",
+"quán shì jiè",
 "worldwide; entire world"
 ],
 [
 "全都",
 47.69,
-"quan2 dou1",
+"quán dōu",
 "all; without exception"
 ],
 [
 "全新",
 43.44,
-"quan2 xin1",
+"quán xīn",
 "all new; completely new"
 ],
 [
 "全身",
 40.07,
-"quan2 shen1",
+"quán shēn",
 "whole body; em (typography)"
+],
+[
+"全场",
+36.64,
+"quán chǎng",
+"everyone present; the whole audience; across-the-board; unanimously; whole duration (of a competition or match)"
 ],
 [
 "全年",
 32.86,
-"quan2 nian2",
+"quán nián",
 "the whole year; all year long"
 ],
 [
 "全力",
 31.5,
-"quan2 li4",
+"quán lì",
 "with all one's strength; full strength; all-out (effort); fully (support)"
 ],
 [
 "全家",
 22.87,
-"quan2 jia1",
+"quán jiā",
 "whole family"
 ],
 [
 "全民",
 21.4,
-"quan2 min2",
+"quán mín",
 "entire population (of a country)"
 ],
 [
 "全程",
 18.09,
-"quan2 cheng2",
+"quán chéng",
 "the whole distance; from beginning to end"
+],
+[
+"全会",
+16.57,
+"quán huì",
+"plenary session (at a conference); CL:屆|届[jie4]"
+],
+[
+"全国人大",
+15.06,
+"Quán guó Rén Dà",
+"abbr. for 全國人大會議|全国人大会议[Quan2 guo2 Ren2 Da4 hui4 yi4], National People's Congress (NPC)"
 ],
 [
 "全方位",
 14.49,
-"quan2 fang1 wei4",
+"quán fāng wèi",
 "all around; omnidirectional; complete; holistic; comprehensive"
 ],
 [
 "安全感",
 14.09,
-"an1 quan2 gan3",
+"ān quán gǎn",
 "sense of security"
 ],
 [
 "安全性",
 13.77,
-"an1 quan2 xing4",
+"ān quán xìng",
 "security; safety"
+],
+[
+"安全带",
+13.32,
+"ān quán dài",
+"seat belt; safety belt"
+],
+[
+"全线",
+12.53,
+"quán xiàn",
+"the whole front (in a war); the whole length (of a road or railway line)"
+],
+[
+"全国人大常委会",
+11.81,
+"Quán guó Rén Dà Cháng Wěi huì",
+"Standing Committee of the National People's Congress (abbr. of 全國人民代表大會常務委員會|全国人民代表大会常务委员会)"
 ],
 [
 "全球化",
 10.81,
-"quan2 qiu2 hua4",
+"quán qiú huà",
 "globalization"
 ],
 [
 "全文",
 9.93,
-"quan2 wen2",
+"quán wén",
 "entire text; full text"
+],
+[
+"全长",
+8.4,
+"quán cháng",
+"overall length; span"
+],
+[
+"全国性",
+7.8,
+"quán guó xìng",
+"national"
+],
+[
+"全军",
+6.53,
+"quán jūn",
+"all-army; all-military"
 ],
 [
 "全心全意",
 6.47,
-"quan2 xin1 quan2 yi4",
+"quán xīn quán yì",
 "heart and soul; wholeheartedly"
+],
+[
+"三中全会",
+6.42,
+"Sān Zhōng Quán huì",
+"third plenum of a national congress of the Chinese Communist Party"
 ],
 [
 "全能",
 6.07,
-"quan2 neng2",
+"quán néng",
 "omnipotent; all-round; strong in every area"
 ],
 [
 "全班",
 5.83,
-"quan2 ban1",
+"quán bān",
 "the whole class"
 ]
 ],

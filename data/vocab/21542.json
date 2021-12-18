@@ -7,42 +7,48 @@
 },
 "words": [
 [
-"否则",
-4,
-"fǒuzé",
-"if not; otherwise; or else"
-],
-[
 "是否",
 4,
-"shìfǒu",
-"whether (or not); if"
+"shì fǒu",
+"whether (or not); if; is or isn't"
 ],
 [
-"否定",
-5,
-"fǒudìng",
-"negate; negative"
+"否则",
+4,
+"fǒu zé",
+"if not; otherwise; else; or else"
 ],
 [
 "否认",
 5,
-"fǒurèn",
-"deny; declare to be untrue"
+"fǒu rèn",
+"to declare to be untrue; to deny"
+],
+[
+"否定",
+5,
+"fǒu dìng",
+"to negate; to deny; to reject; negative (answer); negation"
 ],
 [
 "否决",
 6,
-"fǒujué",
-"veto; reject; overrule"
+"fǒu jué",
+"to veto; to overrule"
 ]
 ],
 "extraWords": [
 [
 "能否",
 47.86,
-"neng2 fou3",
+"néng fǒu",
 "whether or not; can it or can't it; is it possible?"
+],
+[
+"与否",
+6.59,
+"yǔ fǒu",
+"whether or not (at the end of a phrase)"
 ]
 ],
 "strokes": [

@@ -10,62 +10,74 @@
 "份",
 4,
 "fèn",
-"part; portion; (mw for documents, papers, jobs, etc.)"
+"classifier for gifts, newspaper, magazine, papers, reports, contracts etc; variant of 分[fen4]"
 ],
 [
 "身份",
 5,
-"shēnfèn",
-"identity; status; dignity"
-],
-[
-"备份",
-6,
-"bèifèn",
-"to back up; a backup"
+"shēn fèn",
+"identity; aspect of one's identity (i.e. sth that one is – mayor, father, permanent resident etc); role; capacity (as in \"in his capacity as a ...\" 以…的身份[yi3 xx5 de5 shen1 fen4]); status (social, legal etc); position; rank"
 ],
 [
 "股份",
 6,
-"gǔfèn",
-"a share (in a company) stock"
+"gǔ fèn",
+"a share (in a company); stock"
+],
+[
+"备份",
+6,
+"bèi fèn",
+"backup"
 ]
 ],
 "extraWords": [
 [
 "月份",
 112.19,
-"yue4 fen4",
+"yuè fèn",
 "month"
+],
+[
+"份额",
+43.92,
+"fèn é",
+"share; portion"
+],
+[
+"身份证",
+27.7,
+"shēn fèn zhèng",
+"identity card; ID"
 ],
 [
 "股份有限公司",
 26.88,
-"gu3 fen4 you3 xian4 gong1 si1",
+"gǔ fèn yǒu xiàn gōng sī",
 "joint-stock limited company; corporation"
 ],
 [
 "省份",
 9.9,
-"sheng3 fen4",
+"shěng fèn",
 "province"
 ],
 [
 "份子",
 9.45,
-"fen4 zi3",
+"fèn zǐ",
 "variant of 分子[fen4 zi3] (used in Taiwan but not in mainland China)"
 ],
 [
 "份子",
 9.45,
-"fen4 zi5",
+"fèn zi",
 "one's share of a gift price"
 ],
 [
 "年份",
 5.21,
-"nian2 fen5",
+"nián fen",
 "particular year; certain year; given year"
 ]
 ],

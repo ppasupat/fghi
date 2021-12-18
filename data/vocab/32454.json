@@ -7,49 +7,122 @@
 },
 "words": [
 [
-"详细",
-4,
-"xiángxì",
-"detailed; in detail; minute"
-],
-[
 "仔细",
 4,
-"zǐxì",
+"zǐ xì",
 "careful; attentive; cautious"
+],
+[
+"详细",
+4,
+"xiáng xì",
+"detailed; in detail; minute"
 ],
 [
 "细节",
 5,
-"xìjié",
+"xì jié",
 "details; particulars"
-],
-[
-"精打细算",
-6,
-"jīng dǎ xì suàn",
-"(saying) meticulous planning and careful accounting"
 ],
 [
 "细胞",
 6,
-"xìbāo",
+"xì bāo",
 "cell (biology)"
 ],
 [
 "细菌",
 6,
-"xìjūn",
-"bacteria; virus; germ"
+"xì jūn",
+"bacterium; germ"
 ],
 [
 "细致",
 6,
-"xìzhì",
-"delicate; meticulous"
+"xì zhì",
+"delicate; fine; careful; meticulous; painstaking"
+],
+[
+"精打细算",
+6,
+"jīng dǎ xì suàn",
+"meticulous planning and careful accounting (idiom)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"细腻",
+13.87,
+"xì nì",
+"exquisite; meticulous"
+],
+[
+"细心",
+11.51,
+"xì xīn",
+"careful; attentive"
+],
+[
+"细则",
+10.96,
+"xì zé",
+"detailed rules and regulations; bylaws"
+],
+[
+"精细",
+8.27,
+"jīng xì",
+"fine; meticulous; careful"
+],
+[
+"淋巴细胞",
+8.26,
+"lín bā xì bāo",
+"lymphocyte"
+],
+[
+"红细胞",
+8.11,
+"hóng xì bāo",
+"erythrocyte; red blood cell"
+],
+[
+"干细胞",
+7.95,
+"gàn xì bāo",
+"stem cell"
+],
+[
+"细分",
+7.28,
+"xì fēn",
+"subdivision; segmentation"
+],
+[
+"白细胞",
+7.19,
+"bái xì bāo",
+"white blood cell; leukocyte"
+],
+[
+"细化",
+5.83,
+"xì huà",
+"to give a more granular level of detail; to elaborate; to refine; to become more differentiated"
+],
+[
+"细小",
+5.22,
+"xì xiǎo",
+"tiny; fine; minute"
+],
+[
+"细微",
+5.1,
+"xì wēi",
+"tiny; minute; fine; subtle; sensitive (instruments)"
+]
+],
 "strokes": [
 "M 317 494 Q 266 494 226 494 Q 189 494 209 516 Q 276 628 340 713 Q 355 729 352 738 Q 349 751 311 783 Q 295 796 276 793 Q 266 789 271 774 Q 289 735 187 550 Q 169 528 144 503 Q 125 490 127 477 Q 131 458 145 441 Q 155 429 168 437 Q 195 450 287 466 Q 291 467 298 467 C 328 470 347 494 317 494 Z",
 "M 298 467 Q 199 335 175 322 Q 162 312 165 299 Q 166 286 191 266 Q 201 254 217 266 Q 280 311 390 344 Q 409 348 411 357 Q 414 367 394 364 Q 336 354 262 335 Q 234 325 252 348 Q 382 528 438 573 Q 450 583 444 593 Q 434 612 401 630 Q 385 640 376 637 Q 366 634 368 618 Q 369 584 317 494 L 298 467 Z",

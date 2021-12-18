@@ -9,11 +9,36 @@
 [
 "飞禽走兽",
 6,
-"fēiqínzǒushòu",
+"fēi qín zǒu shòu",
 "birds and animals; the beasts of the field and the birds of the air"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"怪兽",
+16.16,
+"guài shòu",
+"rare animal; mythical animal; monster"
+],
+[
+"野兽",
+15.17,
+"yě shòu",
+"beast; wild animal"
+],
+[
+"禽兽",
+7.42,
+"qín shòu",
+"birds and animals; creature; beast (brutal person)"
+],
+[
+"兽医",
+7.2,
+"shòu yī",
+"veterinarian; veterinary surgeon; vet"
+]
+],
 "strokes": [
 "M 361 779 Q 388 757 416 730 Q 429 720 443 720 Q 453 720 457 733 Q 461 746 452 773 Q 443 801 356 822 Q 341 826 336 823 Q 332 819 333 807 Q 337 797 361 779 Z",
 "M 625 825 Q 604 792 535 722 Q 525 706 542 708 Q 599 738 664 779 Q 683 792 707 802 Q 729 811 719 828 Q 707 846 683 861 Q 661 876 648 874 Q 635 873 638 860 Q 641 842 625 825 Z",

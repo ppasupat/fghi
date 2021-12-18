@@ -9,65 +9,108 @@
 [
 "判断",
 4,
-"pànduàn",
-"to judge; judgment; to decide"
-],
-[
-"不断",
-5,
-"búduàn",
-"unceasing; uninterrupted; continuously"
+"pàn duàn",
+"to judge; to determine; judgment"
 ],
 [
 "断",
 5,
 "duàn",
-"to break; decide; absolutely (usually negative)"
+"to break; to snap; to cut off; to give up or abstain from sth; to judge; (usu. used in the negative) absolutely; definitely; decidedly"
+],
+[
+"不断",
+5,
+"bù duàn",
+"unceasing; uninterrupted; continuous; constant"
 ],
 [
 "诊断",
 5,
-"zhěnduàn",
-"diagnosis; diagnose"
+"zhěn duàn",
+"diagnosis; to diagnose"
 ],
 [
-"断定",
+"中断",
 6,
-"duàndìng",
-"conclude; determine; figure out"
+"zhōng duàn",
+"to cut short; to break off; to discontinue; to interrupt"
 ],
 [
 "断绝",
 6,
-"duànjué",
-"sever; break off"
+"duàn jué",
+"to sever; to break off"
+],
+[
+"断定",
+6,
+"duàn dìng",
+"to conclude; to determine; to come to a judgment"
+],
+[
+"片断",
+6,
+"piàn duàn",
+"section; fragment; segment"
 ],
 [
 "果断",
 6,
-"guǒduàn",
+"guǒ duàn",
 "firm; decisive"
 ],
 [
 "垄断",
 6,
-"lǒngduàn",
-"monopoly"
-],
-[
-"片断",
-6,
-"piànduàn",
-"part; passage; extract; fragment; snatch"
-],
-[
-"中断",
-6,
-"zhōngduàn",
-"interrupt; break off"
+"lǒng duàn",
+"to enjoy market dominance; to monopolize"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"打断",
+27.16,
+"dǎ duàn",
+"to interrupt; to break off; to break (a bone)"
+],
+[
+"切断",
+17.53,
+"qiē duàn",
+"to cut off; to sever"
+],
+[
+"断裂",
+11.12,
+"duàn liè",
+"fracture; rupture; to break apart"
+],
+[
+"间断",
+6.83,
+"jiàn duàn",
+"disconnected; interrupted; suspended; a gap; a break"
+],
+[
+"阻断",
+6.32,
+"zǔ duàn",
+"to block; to obstruct; to intercept; to interdict"
+],
+[
+"推断",
+5.37,
+"tuī duàn",
+"to infer; to deduce; to predict; to extrapolate"
+],
+[
+"判断力",
+5.22,
+"pàn duàn lì",
+"ability to judge; judgment"
+]
+],
 "strokes": [
 "M 248 605 Q 264 584 279 559 Q 286 547 299 545 Q 308 544 313 553 Q 320 563 318 587 Q 315 612 253 642 Q 241 646 236 646 Q 232 645 231 634 Q 232 625 248 605 Z",
 "M 454 654 Q 448 638 421 591 Q 414 578 427 582 Q 452 597 489 623 Q 502 636 520 647 Q 535 656 526 668 Q 514 681 494 689 Q 475 698 465 695 Q 455 694 460 683 Q 464 670 454 654 Z",

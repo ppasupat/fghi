@@ -9,123 +9,195 @@
 [
 "科学",
 4,
-"kēxué",
-"science; scientific knowledge"
-],
-[
-"本科",
-5,
-"běnkē",
-"undergraduate"
+"kē xué",
+"science; scientific knowledge; scientific; rational; CL:門|门[men2],個|个[ge4],種|种[zhong3]"
 ],
 [
 "内科",
 5,
-"nèikē",
-"internal medicine"
+"nèi kē",
+"internal medicine; general medicine"
+],
+[
+"本科",
+5,
+"běn kē",
+"undergraduate course; undergraduate (attributive)"
 ],
 [
 "科目",
 6,
-"kēmù",
-"(school) subject"
+"kē mù",
+"academic subject; field of study"
 ]
 ],
 "extraWords": [
 [
 "科技",
 185.26,
-"ke1 ji4",
+"kē jì",
 "science and technology"
 ],
 [
 "科研",
 48.23,
-"ke1 yan2",
+"kē yán",
 "(scientific) research"
+],
+[
+"学科",
+33.62,
+"xué kē",
+"subject; branch of learning; course; academic discipline"
+],
+[
+"科学家",
+27.96,
+"kē xué jiā",
+"scientist; CL:個|个[ge4]"
 ],
 [
 "高科技",
 23.85,
-"gao1 ke1 ji4",
+"gāo kē jì",
 "high tech; high technology"
+],
+[
+"科学技术",
+23.52,
+"kē xué jì shù",
+"science and technology"
 ],
 [
 "外科",
 21.94,
-"wai4 ke1",
+"wài kē",
 "surgery (branch of medicine)"
 ],
 [
 "莫斯科",
 19.33,
-"Mo4 si1 ke1",
+"Mò sī kē",
 "Moscow, capital of Russia"
+],
+[
+"专科",
+11.12,
+"zhuān kē",
+"specialized subject; branch (of medicine); specialized training school"
 ],
 [
 "前科",
 11.0,
-"qian2 ke1",
+"qián kē",
 "criminal record; previous convictions"
 ],
 [
 "科普",
 10.13,
-"ke1 pu3",
+"kē pǔ",
 "popular science; popularization of science; abbr. of 科學普及|科学普及"
+],
+[
+"万科",
+9.53,
+"Wàn kē",
+"Vanke, large Chinese real estate company, founded in 1984"
+],
+[
+"教科书",
+7.94,
+"jiào kē shū",
+"textbook; CL:本[ben3]"
+],
+[
+"社会科学",
+7.68,
+"shè huì kē xué",
+"social sciences"
+],
+[
+"科学院",
+7.56,
+"kē xué yuàn",
+"academy of sciences; CL:個|个[ge4]"
+],
+[
+"中国科学院",
+7.04,
+"Zhōng guó Kē xué yuàn",
+"Chinese Academy of Science"
 ],
 [
 "眼科",
 6.97,
-"yan3 ke1",
+"yǎn kē",
 "ophthalmology"
 ],
 [
 "科室",
 6.52,
-"ke1 shi4",
+"kē shì",
 "department; administrative division; unit (e.g. intensive care unit)"
 ],
 [
 "科教",
 6.45,
-"ke1 jiao4",
+"kē jiào",
 "science education; popular science"
 ],
 [
 "理科",
 6.29,
-"li3 ke1",
+"lǐ kē",
 "the sciences (as opposed to the humanities 文科[wen2 ke1])"
+],
+[
+"自然科学",
+6.2,
+"zì rán kē xué",
+"natural sciences"
+],
+[
+"科长",
+6.06,
+"kē zhǎng",
+"section chief; CL:個|个[ge4]"
 ],
 [
 "科比",
 5.87,
-"Ke1 bi3",
+"Kē bǐ",
 "Kobe Bryant; abbr. for 科比·布萊恩特|科比·布莱恩特[Ke1 bi3 · Bu4 lai2 en1 te4]"
 ],
 [
 "迪斯科",
 5.87,
-"di2 si1 ke1",
+"dí sī kē",
 "disco (loanword)"
 ],
 [
 "文科",
 5.83,
-"wen2 ke1",
+"wén kē",
 "liberal arts; humanities"
+],
+[
+"妇科",
+5.78,
+"fù kē",
+"gynecology"
 ],
 [
 "中科院",
 5.47,
-"Zhong1 ke1 yuan4",
+"Zhōng kē yuàn",
 "abbr. for 中國社會科學院|中国社会科学院[Zhong1 guo2 She4 hui4 Ke1 xue2 yuan4], Chinese Academy of Sciences (CAS)"
 ],
 [
 "社科院",
 5.23,
-"She4 ke1 yuan4",
+"Shè kē yuàn",
 "(Chinese) Academy of Social Sciences (CASS)"
 ]
 ],

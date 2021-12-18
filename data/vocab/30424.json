@@ -9,29 +9,90 @@
 [
 "盘子",
 3,
-"pánzi",
-"plate; dish; tray"
-],
-[
-"光盘",
-5,
-"guāngpán",
-"CD (compact disc)"
+"pán zi",
+"tray; plate; dish; CL:個|个[ge4]"
 ],
 [
 "键盘",
 5,
-"jiànpán",
+"jiàn pán",
 "keyboard"
+],
+[
+"光盘",
+5,
+"guāng pán",
+"compact disc; CD or DVD; CD ROM; CL:片[pian4],張|张[zhang1]"
 ],
 [
 "盘旋",
 6,
-"pánxuán",
-"spiral; coil; circle; go around"
+"pán xuán",
+"to spiral; to circle; to go around; to hover; to orbit"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"收盘",
+23.07,
+"shōu pán",
+"market close"
+],
+[
+"地盘",
+21.43,
+"dì pán",
+"domain; territory under one's control; foundation of a building; base of operations; crust of earth"
+],
+[
+"硬盘",
+20.7,
+"yìng pán",
+"hard disk"
+],
+[
+"开盘",
+18.17,
+"kāi pán",
+"to commence trading (stock market)"
+],
+[
+"转盘",
+6.85,
+"zhuàn pán",
+"turntable; rotary (traffic)"
+],
+[
+"收盘价",
+6.58,
+"shōu pán jià",
+"closing price (of share, commodity etc)"
+],
+[
+"盘问",
+6.44,
+"pán wèn",
+"to interrogate; to cross-examine; to inquire"
+],
+[
+"盘点",
+6.11,
+"pán diǎn",
+"to make an inventory; to take stock"
+],
+[
+"方向盘",
+5.22,
+"fāng xiàng pán",
+"steering wheel"
+],
+[
+"底盘",
+5.05,
+"dǐ pán",
+"chassis"
+]
+],
 "strokes": [
 "M 420 703 Q 474 757 530 793 Q 534 796 539 798 Q 558 808 546 825 Q 533 840 506 850 Q 482 860 471 857 Q 459 854 464 842 Q 470 820 397 709 C 381 684 399 682 420 703 Z",
 "M 397 709 Q 390 715 377 719 Q 361 726 349 722 Q 339 715 345 704 Q 361 677 358 561 L 355 530 Q 340 440 293 344 Q 289 338 287 332 Q 286 322 295 325 Q 322 332 367 415 Q 370 424 375 432 Q 396 483 405 536 L 410 566 Q 410 662 423 675 C 430 689 423 694 397 709 Z",

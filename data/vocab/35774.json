@@ -7,61 +7,98 @@
 },
 "words": [
 [
-"假设",
+"设计",
 5,
-"jiǎshè",
-"suppose that; hypothesis; conjecture"
+"shè jì",
+"plan; design; to design; to plan; CL:個|个[ge4]"
 ],
 [
-"建设",
+"假设",
 5,
-"jiànshè",
-"to build; to construct; construction"
+"jiǎ shè",
+"to suppose; to presume; to assume; supposing that ...; if; hypothesis; conjecture"
 ],
 [
 "设备",
 5,
-"shèbèi",
-"equipment; facilities; installations"
-],
-[
-"设计",
-5,
-"shèjì",
-"plan; design"
+"shè bèi",
+"equipment; facilities; installations; CL:個|个[ge4]"
 ],
 [
 "设施",
 5,
-"shèshī",
+"shè shī",
 "facilities; installation"
 ],
 [
-"设立",
-6,
-"shèlì",
-"set up; establish"
-],
-[
-"设想",
-6,
-"shèxiǎng",
-"imagine; consider; tentative plan"
+"建设",
+5,
+"jiàn shè",
+"to build; to construct; construction; constructive"
 ],
 [
 "设置",
 6,
-"shèzhì",
-"set up; install; to fit"
+"shè zhì",
+"to set up; to install"
+],
+[
+"设想",
+6,
+"shè xiǎng",
+"to imagine; to assume; to envisage; tentative plan; to have consideration for"
+],
+[
+"设立",
+6,
+"shè lì",
+"to set up; to establish"
 ],
 [
 "想方设法",
 6,
 "xiǎng fāng shè fǎ",
-"(saying) think of or try every possible method; by all means possible"
+"to think up every possible method (idiom); to devise ways and means; to try this, that and the other"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"设计师",
+24.79,
+"shè jì shī",
+"designer; architect"
+],
+[
+"开设",
+20.99,
+"kāi shè",
+"to offer (goods or services); to open (for business etc)"
+],
+[
+"设定",
+18.79,
+"shè dìng",
+"to set; to set up; to install; setting; preferences"
+],
+[
+"设法",
+14.19,
+"shè fǎ",
+"to try; to make an attempt; to think of a way (to accomplish sth)"
+],
+[
+"增设",
+6.89,
+"zēng shè",
+"to add to existing facilities or services"
+],
+[
+"铺设",
+5.65,
+"pū shè",
+"to lay (railroad tracks, carpet, pipeline); to install (wiring, cable); to construct (road, concrete slab)"
+]
+],
 "strokes": [
 "M 298 741 Q 331 716 365 685 Q 380 672 397 673 Q 407 674 413 688 Q 417 704 406 735 Q 399 757 364 772 Q 280 797 268 791 Q 262 787 265 773 Q 269 763 298 741 Z",
 "M 131 466 Q 82 453 55 452 Q 40 452 38 445 Q 34 438 45 429 Q 84 404 110 414 Q 174 438 233 463 Q 260 476 269 468 Q 276 464 269 362 Q 266 259 236 164 Q 217 134 260 82 Q 270 70 280 76 Q 287 83 299 106 Q 341 155 428 240 Q 441 250 438 258 Q 437 267 426 257 Q 383 232 341 202 Q 292 165 302 223 Q 302 281 325 426 Q 329 450 352 472 Q 364 482 355 495 Q 345 511 307 528 Q 295 535 278 524 Q 184 481 131 466 Z",

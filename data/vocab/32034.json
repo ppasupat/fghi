@@ -9,64 +9,82 @@
 [
 "搜索",
 5,
-"sōusuǒ",
-"search; look for something; scour"
-],
-[
-"摸索",
-6,
-"mōsuǒ",
-"feel about; grope around; fumble"
-],
-[
-"思索",
-6,
-"sīsuǒ",
-"think deeply; ponder"
-],
-[
-"索取",
-6,
-"suǒqǔ",
-"demand; ask for; to exact"
-],
-[
-"索性",
-6,
-"suǒxìng",
-"you might as well (do it); simply; just; frankly; bluntly; directly"
-],
-[
-"探索",
-6,
-"tànsuǒ",
-"explore; quest"
+"sōu suǒ",
+"to search (a place); to search (a database); to search for (sth)"
 ],
 [
 "线索",
 6,
-"xiànsuǒ",
-"trail; clues; hints; thread (of a story)"
+"xiàn suǒ",
+"trail; clues; thread (of a story)"
+],
+[
+"探索",
+6,
+"tàn suǒ",
+"to explore; to probe"
+],
+[
+"思索",
+6,
+"sī suǒ",
+"to think deeply; to ponder"
+],
+[
+"索取",
+6,
+"suǒ qǔ",
+"to ask; to demand"
+],
+[
+"摸索",
+6,
+"mō suo",
+"to feel about; to grope about; to fumble; to do things slowly"
+],
+[
+"索性",
+6,
+"suǒ xìng",
+"you might as well (do it); simply; just"
 ]
 ],
 "extraWords": [
 [
 "索尼",
 21.18,
-"Suo3 ni2",
+"Suǒ ní",
 "Sony"
+],
+[
+"检索",
+14.84,
+"jiǎn suǒ",
+"to retrieve (data); to look up; retrieval; search"
 ],
 [
 "勒索",
 13.27,
-"le4 suo3",
+"lè suǒ",
 "to blackmail; to extort"
+],
+[
+"索赔",
+7.85,
+"suǒ péi",
+"to ask for compensation; to claim damages; claim for damages"
 ],
 [
 "索要",
 6.08,
-"suo3 yao4",
+"suǒ yào",
 "to ask for; to request; to demand"
+],
+[
+"绳索",
+5.16,
+"shéng suǒ",
+"rope"
 ]
 ],
 "strokes": [

@@ -9,11 +9,42 @@
 [
 "锋利",
 6,
-"fēnglì",
-"sharp (i.e. a knife blade); incisive; to the point"
+"fēng lì",
+"sharp (e.g. knife blade); incisive; to the point"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"前锋",
+24.36,
+"qián fēng",
+"vanguard; front line; a forward (sports)"
+],
+[
+"先锋",
+13.58,
+"xiān fēng",
+"vanguard; pioneer; avant-garde"
+],
+[
+"雷锋",
+8.24,
+"Léi Fēng",
+"Lei Feng (1940-1962), made into a model of altruism and dedication to the Party by propaganda from 1963 onwards"
+],
+[
+"交锋",
+8.11,
+"jiāo fēng",
+"to cross swords; to have a confrontation (with sb)"
+],
+[
+"中锋",
+6.73,
+"zhōng fēng",
+"midfielder; center (basketball); center forward (hockey, football)"
+]
+],
 "strokes": [
 "M 215 511 Q 255 562 298 632 L 317 665 Q 374 773 375 774 Q 372 784 359 794 Q 326 821 295 812 Q 286 809 290 797 Q 308 721 202 562 Q 148 492 56 395 Q 49 391 59 388 Q 69 389 92 406 Q 131 430 166 461 Q 179 474 195 489 L 215 511 Z",
 "M 298 632 Q 332 629 462 670 Q 469 679 464 686 Q 457 696 429 699 Q 420 699 317 665 C 289 656 268 633 298 632 Z",

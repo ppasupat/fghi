@@ -7,101 +7,155 @@
 },
 "words": [
 [
-"多少",
+"少",
 1,
-"duōshao",
-"how much?; how many?"
+"shǎo",
+"few; less; to lack; to be missing; to stop (doing sth); seldom"
 ],
 [
 "少",
 1,
-"shǎo",
-"few; little"
+"shào",
+"young"
 ],
 [
-"减少",
-4,
-"jiǎnshǎo",
-"reduce; to decrease"
+"多少",
+1,
+"duō shǎo",
+"number; amount; somewhat"
 ],
 [
-"缺少",
-4,
-"quēshǎo",
-"to lack; be short of; be deficient in"
+"多少",
+1,
+"duō shao",
+"how much?; how many?; (phone number, student ID etc) what number?"
 ],
 [
 "至少",
 4,
-"zhìshǎo",
+"zhì shǎo",
 "at least; (to say the) least"
+],
+[
+"减少",
+4,
+"jiǎn shǎo",
+"to lessen; to decrease; to reduce; to lower"
+],
+[
+"缺少",
+4,
+"quē shǎo",
+"lack; shortage of; shortfall; to be short (of); to lack"
 ],
 [
 "青少年",
 5,
-"qīngshàonián",
-"teenager"
+"qīng shào nián",
+"adolescent; youth; teenager"
 ]
 ],
 "extraWords": [
 [
 "不少",
 189.25,
-"bu4 shao3",
+"bù shǎo",
 "many; a lot; not few"
 ],
 [
 "少年",
 49.09,
-"shao4 nian2",
+"shào nián",
 "early youth; youngster; (literary) youth; young man"
 ],
 [
 "少女",
 33.33,
-"shao4 nu:3",
+"shào nu:3",
 "girl; young lady"
+],
+[
+"少数",
+31.54,
+"shǎo shù",
+"small number; few; minority"
+],
+[
+"少数民族",
+21.8,
+"shǎo shù mín zú",
+"national minority; ethnic group"
 ],
 [
 "少校",
 18.15,
-"shao4 xiao4",
+"shào xiào",
 "junior ranking officer in Chinese army; major; lieutenant commander"
 ],
 [
 "少量",
 17.43,
-"shao3 liang4",
+"shǎo liàng",
 "a smidgen; a little bit; a few"
+],
+[
+"少见",
+11.93,
+"shǎo jiàn",
+"rare; not familiar (to the speaker); sth rarely experience; hard to see"
 ],
 [
 "最少",
 11.22,
-"zui4 shao3",
+"zuì shǎo",
 "at least; minimum; lowest (amount); minimal"
+],
+[
+"少许",
+9.7,
+"shǎo xǔ",
+"a little; a few"
+],
+[
+"刘少奇",
+8.48,
+"Liú Shào qí",
+"Liu Shaoqi (1898-1969), Chinese communist leader, a martyr of the Cultural Revolution"
+],
+[
+"少爷",
+8.14,
+"shào ye",
+"son of the boss; young master of the house; your son (honorific)"
 ],
 [
 "少有",
 8.07,
-"shao3 you3",
+"shǎo yǒu",
 "rare; infrequent"
 ],
 [
 "少林",
 7.07,
-"Shao4 lin2",
+"Shào lín",
 "the Shaolin monastery and martial arts school"
 ],
 [
 "必不可少",
 6.47,
-"bi4 bu4 ke3 shao3",
+"bì bù kě shǎo",
 "absolutely necessary; indispensable; essential"
+],
+[
+"少儿",
+6.41,
+"shào ér",
+"child"
 ],
 [
 "少不了",
 5.13,
-"shao3 bu5 liao3",
+"shǎo bu liǎo",
 "cannot do without; to be unavoidable; are bound to be many"
 ]
 ],

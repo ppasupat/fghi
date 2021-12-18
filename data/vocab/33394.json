@@ -9,166 +9,238 @@
 [
 "颜色",
 2,
-"yánsè",
-"color"
+"yán sè",
+"color; countenance; appearance; facial expression; pigment; dyestuff"
 ],
 [
 "景色",
 4,
-"jǐngsè",
-"scenery; landscape; scene; view"
+"jǐng sè",
+"scenery; scene; landscape; view"
 ],
 [
 "出色",
 5,
-"chūsè",
-"remarkable; outstanding; excellent"
+"chū sè",
+"remarkable; outstanding"
 ],
 [
 "角色",
 5,
-"juésè",
-"role; part"
-],
-[
-"色彩",
-5,
-"sècǎi",
-"tint; color; hue"
+"jué sè",
+"role; character in a novel; persona; also pr. [jiao3 se4]"
 ],
 [
 "特色",
 5,
-"tèsè",
-"characteristic; distinguishing feature"
+"tè sè",
+"characteristic; distinguishing feature or quality"
 ],
 [
-"粉色",
-6,
-"fěnsè",
-"pink"
-],
-[
-"气色",
-6,
-"qìsè",
-"complexion"
-],
-[
-"眼色",
-6,
-"yǎnsè",
-"a wink; signal with one's eyes"
+"色彩",
+5,
+"sè cǎi",
+"tint; coloring; coloration; (fig.) flavor; character"
 ],
 [
 "棕色",
 6,
-"zōngsè",
-"brown (the color)"
+"zōng sè",
+"brown"
+],
+[
+"气色",
+6,
+"qì sè",
+"complexion"
+],
+[
+"粉色",
+6,
+"fěn sè",
+"pink; white; erotic; beautiful woman; powdered (with make-up)"
+],
+[
+"眼色",
+6,
+"yǎn sè",
+"signal made with one's eyes; meaningful glance"
 ]
 ],
 "extraWords": [
 [
+"绿色",
+61.41,
+"lu:4 sè",
+"green"
+],
+[
 "黑色",
 54.6,
-"hei1 se4",
+"hēi sè",
 "black"
+],
+[
+"红色",
+50.43,
+"hóng sè",
+"red (color); revolutionary"
 ],
 [
 "以色列",
 48.31,
-"Yi3 se4 lie4",
+"Yǐ sè liè",
 "Israel"
 ],
 [
 "白色",
 48.03,
-"bai2 se4",
+"bái sè",
 "white; fig. reactionary; anti-communist"
+],
+[
+"蓝色",
+39.44,
+"lán sè",
+"blue (color)"
+],
+[
+"脸色",
+26.52,
+"liǎn sè",
+"complexion; look"
+],
+[
+"黄色",
+21.06,
+"huáng sè",
+"yellow (color); pornographic"
 ],
 [
 "彩色",
 20.49,
-"cai3 se4",
+"cǎi sè",
 "color; multi-colored; CL:種|种[zhong3]"
 ],
 [
 "色情",
 20.12,
-"se4 qing2",
+"sè qíng",
 "pornography; sex"
 ],
 [
 "灰色",
 13.69,
-"hui1 se4",
+"huī sè",
 "gray; ash gray; grizzly; pessimistic; gloomy; dispirited; ambiguous"
 ],
 [
 "神色",
 12.82,
-"shen2 se4",
+"shén sè",
 "expression; look"
 ],
 [
 "金色",
 12.39,
-"jin1 se4",
+"jīn sè",
 "golden; gold (color)"
 ],
 [
 "紫色",
 11.92,
-"zi3 se4",
+"zǐ sè",
 "purple; violet (color)"
 ],
 [
 "染色",
 11.73,
-"ran3 se4",
+"rǎn sè",
 "dye"
 ],
 [
 "面色",
 9.85,
-"mian4 se4",
+"miàn sè",
 "complexion"
+],
+[
+"色调",
+8.87,
+"sè diào",
+"hue; tone"
+],
+[
+"肤色",
+8.18,
+"fū sè",
+"skin color"
+],
+[
+"银色",
+7.84,
+"yín sè",
+"silver (color)"
+],
+[
+"染色体",
+7.46,
+"rǎn sè tǐ",
+"chromosome"
 ],
 [
 "本色",
 7.43,
-"ben3 se4",
+"běn sè",
 "inherent qualities; natural qualities; distinctive character; true qualities"
 ],
 [
 "本色",
 7.43,
-"ben3 shai3",
+"běn shǎi",
 "natural color"
 ],
 [
 "色素",
 7.32,
-"se4 su4",
+"sè sù",
 "pigment"
+],
+[
+"有色金属",
+6.85,
+"yǒu sè jīn shǔ",
+"non-ferrous metals (all metals excluding iron, chromium, manganese and their alloys)"
+],
+[
+"色泽",
+6.26,
+"sè zé",
+"color and luster"
 ],
 [
 "夜色",
 5.6,
-"ye4 se4",
+"yè sè",
 "night scene; the dim light of night"
 ],
 [
 "褐色",
 5.4,
-"he4 se4",
+"hè sè",
 "brown"
 ],
 [
 "橙色",
 5.34,
-"cheng2 se4",
+"chéng sè",
 "orange (color)"
+],
+[
+"粉红色",
+5.22,
+"fěn hóng sè",
+"pink"
 ]
 ],
 "strokes": [

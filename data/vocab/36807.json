@@ -9,131 +9,414 @@
 [
 "过",
 2,
+"Guò",
+"surname Guo"
+],
+[
+"过",
+2,
 "guò",
-"to pass; to cross; go over; (indicates a past experience)"
+"to cross; to go over; to pass (time); to celebrate (a holiday); to live; to get along; excessively; too-"
+],
+[
+"过",
+2,
+"guo",
+"(experienced action marker)"
+],
+[
+"过",
+3,
+"Guò",
+"surname Guo"
 ],
 [
 "过",
 3,
 "guò",
-"to pass; to cross; go over; (indicates a past experience)"
+"to cross; to go over; to pass (time); to celebrate (a holiday); to live; to get along; excessively; too-"
+],
+[
+"过",
+3,
+"guo",
+"(experienced action marker)"
 ],
 [
 "过去",
 3,
-"guòqù",
-"in the past; formerly"
+"guò qù",
+"(in the) past; former; previous; to go over; to pass by"
+],
+[
+"过去",
+3,
+"guò qu",
+"(verb suffix)"
 ],
 [
 "经过",
 3,
-"jīngguò",
-"to pass; go through; as a result of"
+"jīng guò",
+"to pass; to go through; process; course; CL:個|个[ge4]"
 ],
 [
 "难过",
 3,
-"nánguò",
-"be grieved; be sad; have a hard time"
+"nán guò",
+"to feel sad; to feel unwell; (of life) to be difficult"
 ],
 [
 "不过",
 4,
-"búguò",
-"only; merely; but; however"
-],
-[
-"超过",
-4,
-"chāoguò",
-"surpass; exceed; outstrip"
-],
-[
-"过程",
-4,
-"guòchéng",
-"course of events; process"
+"bù guò",
+"only; merely; no more than; but; however; anyway (to get back to a previous topic); cannot be more (after adjectival)"
 ],
 [
 "通过",
 4,
-"tōngguò",
-"by means of; through (a method); pass through; via"
+"tōng guò",
+"by means of; through; via; to pass through; to get through; to adopt; to pass (a bill or inspection etc); to switch over"
+],
+[
+"超过",
+4,
+"chāo guò",
+"to surpass; to exceed; to outstrip"
+],
+[
+"过程",
+4,
+"guò chéng",
+"course of events; process; CL:個|个[ge4]"
 ],
 [
 "度过",
 5,
-"dùguò",
-"spend; to pass"
+"dù guò",
+"to pass; to spend (time); to survive; to get through"
 ],
 [
 "过分",
 5,
-"guòfèn",
-"excessive; overly"
+"guò fèn",
+"excessive; undue; overly"
 ],
 [
 "过敏",
 5,
-"guòmǐn",
-"be allergic; allergy"
+"guò mǐn",
+"oversensitive; allergic; allergy"
 ],
 [
 "过期",
 5,
-"guòqī",
-"overdue; expire"
+"guò qī",
+"to be overdue; to exceed the time limit; to expire (as in expiration date)"
 ],
 [
 "过度",
 6,
-"guòdù",
-"excessive; exceeding; lavishly"
-],
-[
-"过渡",
-6,
-"guòdù",
-"to cross a river by ferry; transition; interim"
-],
-[
-"过奖",
-6,
-"guòjiǎng",
-"praise excessively; flatter"
-],
-[
-"过滤",
-6,
-"guòlǜ",
-"to filter; filter"
-],
-[
-"过失",
-6,
-"guòshī",
-"defect; fault"
-],
-[
-"过问",
-6,
-"guòwèn",
-"take an interest in; get involved with"
-],
-[
-"过瘾",
-6,
-"guòyǐn",
-"satisfy a craving; get a kick out of sth; do to one's heart's content"
+"guò dù",
+"excessive; over-; excess; going too far; extravagant; intemperate; overdue"
 ],
 [
 "过于",
 6,
-"guòyú",
+"guò yú",
 "too much; excessively"
+],
+[
+"过失",
+6,
+"guò shī",
+"error; fault; (law) negligence; delinquency"
+],
+[
+"过滤",
+6,
+"guò lu:4",
+"to filter; filter"
+],
+[
+"过渡",
+6,
+"guò dù",
+"to cross over (by ferry); transition; interim; caretaker (administration)"
+],
+[
+"过瘾",
+6,
+"guò yǐn",
+"to satisfy a craving; to get a kick out of sth; gratifying; immensely enjoyable; satisfying; fulfilling"
+],
+[
+"过问",
+6,
+"guò wèn",
+"to show an interest in; to get involved with"
+],
+[
+"过奖",
+6,
+"guò jiǎng",
+"to overpraise; to flatter"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"过来",
+483.6,
+"guò lái",
+"to come over; to manage; to handle; to be able to take care of"
+],
+[
+"过来",
+483.6,
+"guò lai",
+"see 過來|过来[guo4 lai2]"
+],
+[
+"只不过",
+72.2,
+"zhǐ bu guò",
+"only; merely; nothing but; no more than; it's just that ..."
+],
+[
+"错过",
+71.42,
+"cuò guò",
+"to miss (train, opportunity etc)"
+],
+[
+"过年",
+49.51,
+"guò nián",
+"to celebrate the Chinese New Year"
+],
+[
+"穿过",
+30.35,
+"chuān guò",
+"to pass through"
+],
+[
+"过多",
+28.71,
+"guò duō",
+"too many; excessive"
+],
+[
+"过后",
+27.35,
+"guò hòu",
+"after the event"
+],
+[
+"过夜",
+15.86,
+"guò yè",
+"to spend the night; overnight"
+],
+[
+"太过",
+15.8,
+"tài guò",
+"excessively; too"
+],
+[
+"放过",
+15.23,
+"fàng guò",
+"to let off; to let slip by; to let sb get away with sth"
+],
+[
+"过高",
+15.22,
+"guò gāo",
+"too high"
+],
+[
+"过头",
+14.87,
+"guò tóu",
+"to overdo it; to overstep the limit; excessively; above one's head; overhead"
+],
+[
+"接过",
+14.62,
+"jiē guò",
+"to take (sth proffered)"
+],
+[
+"路过",
+14.52,
+"lù guò",
+"to pass by or through"
+],
+[
+"透过",
+13.99,
+"tòu guò",
+"to pass through; to penetrate; by means of; via"
+],
+[
+"过剩",
+12.78,
+"guò shèng",
+"surplus; excess"
+],
+[
+"过世",
+11.51,
+"guò shì",
+"to die; to pass away"
+],
+[
+"过往",
+11.27,
+"guò wǎng",
+"to come and go; to have friendly relations with; in the past; previous"
+],
+[
+"过节",
+11.05,
+"guò jié",
+"to celebrate a festival; after the celebrations (i.e. once the festival is over)"
+],
+[
+"走过",
+10.11,
+"zǒu guò",
+"to walk past; to pass by"
+],
+[
+"过量",
+9.45,
+"guò liàng",
+"excess; overdose"
+],
+[
+"胜过",
+9.42,
+"shèng guò",
+"to excel; to surpass"
+],
+[
+"过关",
+8.47,
+"guò guān",
+"to cross a barrier; to get through (an ordeal); to pass (a test); to reach (a standard)"
+],
+[
+"渡过",
+8.41,
+"dù guò",
+"to cross over; to pass through"
+],
+[
+"过错",
+8.29,
+"guò cuò",
+"mistake; fault; responsibility (for a fault)"
+],
+[
+"好过",
+7.78,
+"hǎo guò",
+"to have an easy time; (feel) well"
+],
+[
+"莫过于",
+7.78,
+"mò guò yú",
+"nothing can surpass"
+],
+[
+"过时",
+7.72,
+"guò shí",
+"old-fashioned; out of date; to be later than the time stipulated or agreed upon"
+],
+[
+"过人",
+7.63,
+"guò rén",
+"to surpass others; outstanding; (basketball, soccer etc) to get past an opponent"
+],
+[
+"越过",
+7.36,
+"yuè guò",
+"to cross over; to transcend; to cover distance; to overcome; to rise above"
+],
+[
+"过热",
+7.25,
+"guò rè",
+"to overheat (e.g. an economy)"
+],
+[
+"过不去",
+6.84,
+"guò bu qù",
+"to make life difficult for; to embarrass; unable to make it through"
+],
+[
+"罪过",
+6.74,
+"zuì guo",
+"sin; offense"
+],
+[
+"反过来",
+6.71,
+"fǎn guo lái",
+"conversely; in reverse order; in an opposite direction"
+],
+[
+"擦肩而过",
+6.52,
+"cā jiān ér guò",
+"brief encounter; to brush past sb"
+],
+[
+"飞过",
+6.26,
+"fēi guò",
+"to fly over; to fly past"
+],
+[
+"闪过",
+5.88,
+"shǎn guò",
+"to flash through (one's mind); to dodge (away from pursuers)"
+],
+[
+"翻过",
+5.63,
+"fān guò",
+"to turn over; to transform"
+],
+[
+"过户",
+5.59,
+"guò hù",
+"to transfer ownership (of a vehicle, securities etc); (real estate) conveyancing"
+],
+[
+"过早",
+5.46,
+"guò zǎo",
+"premature; untimely"
+],
+[
+"过日子",
+5.46,
+"guò rì zi",
+"to live one's life; to pass one's days; to get along"
+]
+],
 "strokes": [
 "M 712 553 Q 719 556 863 575 Q 875 574 885 587 Q 886 600 861 611 Q 825 635 746 610 Q 728 607 712 601 L 664 590 Q 607 578 413 551 Q 382 547 405 528 Q 441 500 473 508 Q 558 527 665 545 L 712 553 Z",
 "M 665 545 Q 666 439 666 261 Q 665 243 656 236 Q 649 230 560 239 Q 527 246 531 237 Q 534 230 555 219 Q 628 177 649 151 Q 674 120 690 121 Q 703 121 716 154 Q 729 197 724 267 Q 712 411 712 553 L 712 601 Q 712 677 729 739 Q 745 767 692 789 Q 659 807 641 800 Q 625 794 640 772 Q 661 747 662 713 Q 663 700 664 590 L 665 545 Z",

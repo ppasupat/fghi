@@ -10,58 +10,107 @@
 "请",
 1,
 "qǐng",
-"please; invite; to treat someone to something"
+"to ask; to invite; please (do sth); to treat (to a meal etc); to request"
 ],
 [
 "请假",
 3,
-"qǐngjià",
-"to ask for time off"
-],
-[
-"申请",
-4,
-"shēnqǐng",
-"apply for; application"
+"qǐng jià",
+"to request leave of absence"
 ],
 [
 "邀请",
 4,
-"yāoqǐng",
-"to invite"
+"yāo qǐng",
+"to invite; invitation; CL:個|个[ge4]"
+],
+[
+"申请",
+4,
+"shēn qǐng",
+"to apply for sth; application (form etc); CL:份[fen4]"
 ],
 [
 "请求",
 5,
-"qǐngqiú",
-"to request; ask"
-],
-[
-"请柬",
-6,
-"qǐngjiǎn",
-"invitation card; written invitation"
+"qǐng qiú",
+"to request; to ask; request; CL:個|个[ge4]"
 ],
 [
 "请教",
 6,
-"qǐngjiào",
-"consult; seek advice"
+"qǐng jiào",
+"to ask for guidance; to consult"
 ],
 [
-"请示",
+"请柬",
 6,
-"qǐngshì",
-"ask for instructions"
+"qǐng jiǎn",
+"invitation card; written invitation"
 ],
 [
 "请帖",
 6,
-"qǐngtiě",
+"qǐng tiě",
 "invitation card; written invitation"
+],
+[
+"请示",
+6,
+"qǐng shì",
+"to ask for instructions"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"请问",
+29.96,
+"qǐng wèn",
+"Excuse me, may I ask...?"
+],
+[
+"聘请",
+14.32,
+"pìn qǐng",
+"to engage; to hire (a lawyer etc)"
+],
+[
+"敬请",
+10.05,
+"jìng qǐng",
+"please (do sth) (deferential form)"
+],
+[
+"请便",
+7.78,
+"qǐng biàn",
+"Please do as you wish!; You are welcome to do whatever you like!; Please make yourself at home."
+],
+[
+"请客",
+7.66,
+"qǐng kè",
+"to give a dinner party; to entertain guests; to invite to dinner"
+],
+[
+"有请",
+6.98,
+"yǒu qǐng",
+"to request the pleasure of seeing sb; to ask sb in; to ask sb to do sth (e.g. make a speech)"
+],
+[
+"提请",
+6.48,
+"tí qǐng",
+"to propose"
+],
+[
+"申请人",
+6.05,
+"shēn qǐng rén",
+"applicant"
+]
+],
 "strokes": [
 "M 278 750 Q 312 723 347 690 Q 362 677 379 677 Q 391 678 396 692 Q 402 708 391 741 Q 379 780 272 803 Q 256 807 248 803 Q 242 799 244 785 Q 248 772 278 750 Z",
 "M 125 479 Q 73 463 46 461 Q 30 461 28 453 Q 24 446 36 437 Q 58 422 75 420 Q 90 417 192 461 Q 247 489 258 481 Q 268 474 263 447 Q 256 270 222 162 Q 203 131 247 77 Q 257 64 268 71 Q 277 78 289 102 Q 329 151 412 235 Q 425 247 422 254 Q 421 263 409 253 Q 369 229 331 203 Q 282 164 292 223 Q 292 286 318 439 Q 322 464 345 487 Q 358 497 348 511 Q 338 527 298 545 Q 286 552 268 541 Q 177 495 125 479 Z",

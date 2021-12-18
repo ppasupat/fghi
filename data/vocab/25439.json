@@ -9,23 +9,54 @@
 [
 "损失",
 5,
-"sǔnshī",
-"loss (financial); lose"
-],
-[
-"亏损",
-6,
-"kuīsǔn",
-"deficit; (financial) loss"
+"sǔn shī",
+"loss; damage; CL:個|个[ge4]; to lose; to suffer damage"
 ],
 [
 "损坏",
 6,
-"sǔnhuài",
-"to damage; injure"
+"sǔn huài",
+"to damage; to injure"
+],
+[
+"亏损",
+6,
+"kuī sǔn",
+"deficit; (financial) loss"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"损害",
+40.35,
+"sǔn hài",
+"harm; to damage; to impair"
+],
+[
+"损伤",
+40.01,
+"sǔn shāng",
+"to harm; to damage; to injure; impairment; loss; disability"
+],
+[
+"缺损",
+6.91,
+"quē sǔn",
+"defective; defect"
+],
+[
+"受损",
+5.37,
+"shòu sǔn",
+"to suffer damage"
+],
+[
+"磨损",
+5.02,
+"mó sǔn",
+"wear and tear; abrasion"
+]
+],
 "strokes": [
 "M 348 560 Q 364 567 384 571 Q 420 581 425 587 Q 434 596 428 604 Q 421 616 390 621 Q 368 624 350 618 L 301 599 Q 214 568 139 555 Q 102 546 130 531 Q 176 510 248 533 Q 273 540 300 546 L 348 560 Z",
 "M 297 368 Q 296 272 294 148 Q 293 124 281 116 Q 271 109 250 117 Q 225 124 200 131 Q 169 143 171 133 Q 172 126 191 111 Q 257 60 273 31 Q 292 -3 308 -4 Q 321 -5 336 28 Q 354 71 353 142 Q 346 274 345 405 L 345 435 Q 345 498 348 560 L 350 618 Q 350 621 351 623 Q 355 707 369 751 Q 385 779 332 801 Q 301 819 281 813 Q 265 806 280 784 Q 299 759 301 726 Q 302 711 301 599 L 300 546 Q 299 488 297 407 L 297 368 Z",

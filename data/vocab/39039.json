@@ -10,28 +10,59 @@
 "顿",
 5,
 "dùn",
-"pause; arrange; stamp feet; suddenly; (mw for meals)"
-],
-[
-"顿时",
-6,
-"dùnshí",
-"immediately; suddenly"
+"to stop; to pause; to arrange; to lay out; to kowtow; to stamp (one's foot); at once; classifier for meals, beatings, scoldings etc: time, bout, spell, meal"
 ],
 [
 "停顿",
 6,
-"tíngdùn",
-"pause; halt"
+"tíng dùn",
+"to halt; to break off; pause (in speech)"
 ],
 [
 "整顿",
 6,
-"zhěngdùn",
-"organize; consolidate"
+"zhěng dùn",
+"to tidy up; to reorganize; to consolidate; to rectify"
+],
+[
+"顿时",
+6,
+"dùn shí",
+"immediately; suddenly"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"华盛顿",
+39.97,
+"Huá shèng dùn",
+"Washington (name); George Washington (1732-1799), first US president; Washington, US State; Washington, D.C. (US federal capital)"
+],
+[
+"波士顿",
+19.79,
+"Bō shì dùn",
+"Boston, capital of Massachusetts"
+],
+[
+"曼哈顿",
+15.17,
+"Màn hā dùn",
+"Manhattan island; Manhattan borough of New York City"
+],
+[
+"克林顿",
+7.76,
+"Kè lín dùn",
+"Clinton (name); Bill Clinton (1946-), US Democratic politician, President 1993-2001; Hillary Rodham Clinton (1947-), US Democratic politician"
+],
+[
+"安顿",
+5.13,
+"ān dùn",
+"to find a place for; to help settle down; to arrange for; undisturbed; peaceful"
+]
+],
 "strokes": [
 "M 309 588 Q 412 619 417 623 Q 426 632 420 640 Q 413 652 382 657 Q 363 660 312 643 L 261 624 Q 252 623 246 619 Q 203 607 151 599 Q 114 590 142 575 Q 184 553 252 574 Q 256 575 261 576 L 309 588 Z",
 "M 299 365 Q 300 368 304 368 Q 352 387 369 386 C 399 389 397 427 368 420 Q 332 411 300 400 L 257 386 Q 214 373 181 357 Q 168 353 170 369 Q 177 450 169 460 Q 156 475 134 486 Q 124 490 115 488 Q 106 484 113 468 Q 132 429 128 389 Q 124 352 110 334 Q 95 318 103 306 Q 113 294 130 286 Q 142 280 150 288 Q 168 315 255 348 C 283 359 298 365 299 365 Z",

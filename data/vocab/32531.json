@@ -9,29 +9,66 @@
 [
 "缓解",
 5,
-"huǎnjiě",
-"to alleviate"
-],
-[
-"迟缓",
-6,
-"chíhuǎn",
-"slow; sluggish"
+"huǎn jiě",
+"to bring relief; to alleviate (a crisis); to dull (a pain)"
 ],
 [
 "缓和",
 6,
-"huǎnhé",
-"alleviate; to moderate; to ease (tension)"
+"huǎn hé",
+"to ease (tension); to alleviate; to moderate; to allay; to make more mild"
+],
+[
+"迟缓",
+6,
+"chí huǎn",
+"slow; sluggish"
 ],
 [
 "刻不容缓",
 6,
-"kèbùrónghuǎn",
-"demand immediate action; brook no delay"
+"kè bù róng huǎn",
+"to brook no delay; to demand immediate action"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"缓慢",
+21.41,
+"huǎn màn",
+"slow; slow-moving"
+],
+[
+"缓缓",
+20.86,
+"huǎn huǎn",
+"slowly; unhurriedly; little by little"
+],
+[
+"减缓",
+5.77,
+"jiǎn huǎn",
+"to slow down; to retard"
+],
+[
+"延缓",
+5.58,
+"yán huǎn",
+"to defer; to postpone; to put off; to retard; to slow sth down"
+],
+[
+"舒缓",
+5.4,
+"shū huǎn",
+"to ease (tension); to relax; to cause sth to relax; to alleviate; relaxed; easy and unhurried; leisurely; soothing; mild (slope)"
+],
+[
+"缓冲",
+5.19,
+"huǎn chōng",
+"buffer; to cushion; to adjust to sharp changes"
+]
+],
 "strokes": [
 "M 299 512 Q 247 509 204 506 Q 177 505 190 522 Q 260 628 326 708 Q 341 724 339 733 Q 338 746 299 779 Q 283 794 265 790 Q 253 789 260 772 Q 275 732 184 579 Q 165 545 125 512 Q 106 497 108 485 Q 112 466 127 448 Q 137 438 150 445 Q 202 476 280 486 C 310 490 329 514 299 512 Z",
 "M 280 486 Q 193 372 165 358 Q 152 349 154 335 Q 155 322 181 303 Q 191 291 206 303 Q 263 345 370 383 Q 389 389 391 397 Q 394 407 374 403 Q 319 393 249 372 Q 227 365 242 382 Q 363 538 420 581 Q 433 590 427 600 Q 417 619 385 639 Q 369 649 360 646 Q 350 643 352 628 Q 353 595 299 512 L 280 486 Z",

@@ -7,37 +7,92 @@
 },
 "words": [
 [
-"金属",
-5,
-"jīnshǔ",
-"metal"
-],
-[
 "属于",
 5,
-"shǔyú",
-"belong to; be part of"
+"shǔ yú",
+"to be classified as; to belong to; to be part of"
 ],
 [
-"附属",
-6,
-"fùshǔ",
-"subsidiary; auxiliary; affiliate; attached"
+"金属",
+5,
+"jīn shǔ",
+"metal; CL:種|种[zhong3]"
 ],
 [
 "家属",
 6,
-"jiāshǔ",
-"family member; a dependent"
+"jiā shǔ",
+"family member; (family) dependent"
 ],
 [
 "下属",
 6,
-"xiàshǔ",
+"xià shǔ",
 "subordinate; underling"
+],
+[
+"附属",
+6,
+"fù shǔ",
+"subsidiary; auxiliary; attached; affiliated; subordinate; subordinating"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"所属",
+17.91,
+"suǒ shǔ",
+"one's affiliation (i.e. the organization one is affiliated with); subordinate (i.e. those subordinate to oneself); belonging to; affiliated; under one's command"
+],
+[
+"属性",
+16.51,
+"shǔ xìng",
+"attribute; property"
+],
+[
+"亲属",
+10.41,
+"qīn shǔ",
+"kin; kindred; relatives"
+],
+[
+"归属",
+9.08,
+"guī shǔ",
+"to belong to; to be affiliated to; to fall under the jurisdiction of; a place where one feels that one belongs; one's final destination (where one need look no further)"
+],
+[
+"直属",
+7.03,
+"zhí shǔ",
+"directly subordinate"
+],
+[
+"纯属",
+6.92,
+"chún shǔ",
+"to be purely; pure and simple; sheer; outright"
+],
+[
+"有色金属",
+6.85,
+"yǒu sè jīn shǔ",
+"non-ferrous metals (all metals excluding iron, chromium, manganese and their alloys)"
+],
+[
+"属下",
+5.29,
+"shǔ xià",
+"subordinate; affiliated to; subsidiary"
+],
+[
+"属实",
+5.05,
+"shǔ shí",
+"to turn out to be true; verified; true"
+]
+],
 "strokes": [
 "M 678 677 L 678 678 Q 705 733 726 744 Q 742 760 729 777 Q 714 790 667 813 Q 651 820 630 813 Q 527 776 382 755 C 352 751 368 721 398 726 Q 408 727 420 731 Q 516 750 607 768 Q 631 774 640 764 Q 646 760 645 748 Q 639 709 630 678 C 622 649 665 650 678 677 Z",
 "M 365 601 Q 377 594 396 597 Q 460 613 579 629 L 611 633 Q 648 640 693 644 Q 703 645 704 653 Q 704 660 678 677 C 664 686 659 685 630 678 Q 485 642 371 626 C 341 622 337 612 365 601 Z",

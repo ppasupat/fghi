@@ -7,103 +7,194 @@
 },
 "words": [
 [
-"季节",
-3,
-"jìjié",
-"season; time; period"
-],
-[
 "节目",
 3,
-"jiémù",
-"program; item (on a program)"
+"jié mù",
+"program; item (on a program); CL:臺|台[tai2],個|个[ge4],套[tao4]"
 ],
 [
 "节日",
 3,
-"jiérì",
-"holiday; festival"
+"jié rì",
+"holiday; festival; CL:個|个[ge4]"
+],
+[
+"季节",
+3,
+"jì jié",
+"time; season; period; CL:個|个[ge4]"
+],
+[
+"节",
+4,
+"jiē",
+"see 節骨眼|节骨眼[jie1 gu5 yan3]"
 ],
 [
 "节",
 4,
 "jié",
-"section; part; festival; moral integrity; save; (mw for class periods)"
+"festival; holiday; node; joint; section; segment; part; to economize; to save; to abridge; moral integrity; classifier for segments, e.g. lessons, train wagons, biblical verses; CL:個|个[ge4]"
 ],
 [
 "节约",
 4,
-"jiéyuē",
-"frugal; to save"
-],
-[
-"国庆节",
-5,
-"Guóqìng Jié",
-"National Day"
-],
-[
-"节省",
-5,
-"jiéshěng",
-"save; use sparingly; frugal"
+"jié yuē",
+"to economize; to conserve (resources); economy; frugal"
 ],
 [
 "细节",
 5,
-"xìjié",
+"xì jié",
 "details; particulars"
 ],
 [
-"端午节",
-6,
-"Duānwǔ Jié",
-"Dragon Boat Festival"
+"节省",
+5,
+"jié shěng",
+"saving; to save; to use sparingly; to cut down on"
+],
+[
+"国庆节",
+5,
+"Guó qìng jié",
+"PRC National Day (October 1st)"
 ],
 [
 "环节",
 6,
-"huánjié",
-"link; sector; segment (of annelid worms)"
-],
-[
-"节制",
-6,
-"jiézhì",
-"to be restrained or moderate"
+"huán jié",
+"(zoology) segment (of the body of a worm, centipede etc); (fig.) a part of an integrated whole: aspect (of a project), element (of a policy), sector (of the economy), stage (of a process) etc"
 ],
 [
 "节奏",
 6,
-"jiézòu",
-"rhythm; cadence; tempo"
-],
-[
-"礼节",
-6,
-"lǐjié",
-"etiquette; proprieties; festival"
+"jié zòu",
+"rhythm; tempo; musical pulse; cadence; beat"
 ],
 [
 "情节",
 6,
-"qíngjié",
+"qíng jié",
 "plot; circumstances"
 ],
 [
 "调节",
 6,
-"tiáojié",
-"adjust; regulate; reconcile"
+"tiáo jié",
+"to adjust; to regulate; to harmonize; to reconcile (accountancy etc)"
+],
+[
+"礼节",
+6,
+"lǐ jié",
+"etiquette"
 ],
 [
 "元宵节",
 6,
-"Yuánxiāo Jié",
-"the Lantern Festival"
+"Yuán xiāo jié",
+"Lantern Festival, the final event of the Spring Festival 春節|春节, on 15th of first month of the lunar calendar"
+],
+[
+"节制",
+6,
+"jié zhì",
+"to control; to restrict; to moderate; to temper; moderation; sobriety; to administer"
+],
+[
+"端午节",
+6,
+"Duān wǔ jié",
+"Dragon Boat Festival (5th day of the 5th lunar month)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"春节",
+71.06,
+"Chūn jié",
+"Spring Festival (Chinese New Year)"
+],
+[
+"圣诞节",
+49.54,
+"Shèng dàn jié",
+"Christmas time; Christmas season; Christmas"
+],
+[
+"节能",
+31.6,
+"jié néng",
+"to save energy; energy-saving"
+],
+[
+"关节",
+16.96,
+"guān jié",
+"joint (physiology); key point; critical phase"
+],
+[
+"感恩节",
+16.66,
+"Gǎn ēn jié",
+"Thanksgiving Day"
+],
+[
+"情人节",
+12.83,
+"Qíng rén jié",
+"Valentine's Day"
+],
+[
+"电影节",
+11.39,
+"diàn yǐng jié",
+"film festival; CL:屆|届[jie4]"
+],
+[
+"过节",
+11.05,
+"guò jié",
+"to celebrate a festival; after the celebrations (i.e. once the festival is over)"
+],
+[
+"节假日",
+7.68,
+"jié jià rì",
+"public holiday"
+],
+[
+"节水",
+7.45,
+"jié shuǐ",
+"to save water"
+],
+[
+"电视节目",
+7.24,
+"diàn shì jié mù",
+"television program"
+],
+[
+"时节",
+6.92,
+"shí jié",
+"season; time"
+],
+[
+"节点",
+6.01,
+"jié diǎn",
+"node"
+],
+[
+"复活节",
+5.57,
+"Fù huó jié",
+"Easter"
+]
+],
 "strokes": [
 "M 628 643 Q 704 647 796 648 Q 826 647 853 648 Q 874 648 879 657 Q 886 670 867 685 Q 806 731 734 709 Q 694 703 646 692 L 594 684 Q 543 677 488 668 Q 448 664 408 657 L 361 651 Q 255 639 141 624 Q 119 621 136 603 Q 151 588 170 583 Q 192 577 210 582 Q 285 603 367 616 L 410 622 Q 452 634 583 641 L 628 643 Z",
 "M 408 657 Q 404 705 403 742 Q 404 761 384 768 Q 345 789 321 782 Q 302 773 317 753 Q 347 714 361 651 L 367 616 Q 376 565 391 548 Q 404 536 410 549 Q 416 565 410 622 L 408 657 Z",

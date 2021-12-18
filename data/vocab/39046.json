@@ -7,91 +7,182 @@
 },
 "words": [
 [
-"本领",
+"领导",
 5,
-"běnlǐng",
-"skill; ability; capability"
+"lǐng dǎo",
+"lead; leading; to lead; leadership; leader; CL:位[wei4],個|个[ge4]"
 ],
 [
 "系领带",
 5,
-"jìlǐngdài",
-"tie a neck tie"
-],
-[
-"领导",
-5,
-"lǐngdǎo",
-"to lead; leader; leadership"
+"xi4 ling3 dai4",
+"to tie a necktie"
 ],
 [
 "领域",
 5,
-"lǐngyù",
-"domain; sphere; field; area"
+"lǐng yù",
+"domain; sphere; field; territory; area"
 ],
 [
-"带领",
-6,
-"dàilǐng",
-"to guide; to lead"
-],
-[
-"纲领",
-6,
-"gānglǐng",
-"program; guiding principle"
-],
-[
-"领会",
-6,
-"lǐnghuì",
-"understand; comprehend; grasp"
-],
-[
-"领事馆",
-6,
-"lǐngshìguǎn",
-"consulate"
-],
-[
-"领土",
-6,
-"lǐngtǔ",
-"territory"
-],
-[
-"领悟",
-6,
-"lǐngwù",
-"comprehend; grasp; fathom"
+"本领",
+5,
+"běn lǐng",
+"skill; ability; capability; CL:項|项[xiang4],個|个[ge4]"
 ],
 [
 "领先",
 6,
-"lǐngxiān",
-"leadership; to lead; be in front"
+"lǐng xiān",
+"to lead; to be in front"
 ],
 [
 "领袖",
 6,
-"lǐngxiù",
-"leader"
+"lǐng xiù",
+"leader; CL:個|个[ge4],位[wei4],名[ming2]"
 ],
 [
-"率领",
+"带领",
 6,
-"shuàilǐng",
-"lead; command; head"
+"dài lǐng",
+"to guide; to lead"
 ],
 [
 "占领",
 6,
-"zhànlǐng",
-"occupy (a territory); capture; seize"
+"zhàn lǐng",
+"to occupy (a territory); to hold"
+],
+[
+"领土",
+6,
+"lǐng tǔ",
+"territory"
+],
+[
+"领事馆",
+6,
+"lǐng shì guǎn",
+"consulate"
+],
+[
+"领悟",
+6,
+"lǐng wù",
+"to understand; to comprehend"
+],
+[
+"领会",
+6,
+"lǐng huì",
+"to understand; to comprehend; to grasp"
+],
+[
+"率领",
+6,
+"shuài lǐng",
+"to lead; to command; to head"
+],
+[
+"纲领",
+6,
+"gāng lǐng",
+"program (i.e. plan of action); guiding principle"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"领导人",
+45.05,
+"lǐng dǎo rén",
+"leader"
+],
+[
+"领取",
+32.65,
+"lǐng qǔ",
+"to receive; to draw; to get"
+],
+[
+"领带",
+15.23,
+"lǐng dài",
+"necktie; CL:條|条[tiao2]"
+],
+[
+"白领",
+12.14,
+"bái lǐng",
+"white-collar; white-collar worker"
+],
+[
+"领养",
+11.15,
+"lǐng yǎng",
+"adoption; to adopt (a child)"
+],
+[
+"引领",
+9.85,
+"yǐn lǐng",
+"to crane one's neck; to await eagerly; to lead; to show the way"
+],
+[
+"领导者",
+7.85,
+"lǐng dǎo zhě",
+"leader"
+],
+[
+"首领",
+7.66,
+"shǒu lǐng",
+"head; boss; chief"
+],
+[
+"将领",
+7.46,
+"jiàng lǐng",
+"high-ranking military officer"
+],
+[
+"领队",
+7.08,
+"lǐng duì",
+"to lead a group; leader of a group; captain (of sports squad)"
+],
+[
+"申领",
+6.89,
+"shēn lǐng",
+"to apply (for license, visa etc)"
+],
+[
+"领略",
+6.18,
+"lǐng lu:è",
+"to have a taste of; to realize; to appreciate"
+],
+[
+"领地",
+5.54,
+"lǐng dì",
+"territory; domain; estate; (old) fief"
+],
+[
+"领主",
+5.22,
+"lǐng zhǔ",
+"feudal lord; suzerain; overlord"
+],
+[
+"统领",
+5.08,
+"tǒng lǐng",
+"to lead; to command; commander; officer"
+]
+],
 "strokes": [
 "M 364 713 Q 377 740 389 754 Q 396 767 387 783 Q 368 811 349 824 Q 333 836 316 835 Q 298 835 305 813 Q 336 662 49 338 Q 31 320 31 313 Q 31 307 37 308 Q 71 314 153 397 Q 154 400 157 402 Q 269 522 348 681 Q 349 687 353 691 L 364 713 Z",
 "M 353 691 Q 396 660 448 611 Q 463 596 476 594 Q 483 593 489 602 Q 498 615 484 650 Q 472 683 412 701 Q 384 710 364 713 C 334 718 329 709 353 691 Z",

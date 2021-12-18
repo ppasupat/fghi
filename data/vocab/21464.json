@@ -9,47 +9,156 @@
 [
 "变化",
 3,
-"biànhuà",
-"change"
+"biàn huà",
+"change; variation; to change; to vary; CL:個|个[ge4]"
 ],
 [
 "改变",
 4,
-"gǎibiàn",
-"to change; alter; to transform"
+"gǎi biàn",
+"to change; to alter; to transform"
 ],
 [
 "转变",
 5,
-"zhuǎnbiàn",
-"to change; to transform"
+"zhuǎn biàn",
+"to change; to transform; shift; transformation; CL:個|个[ge4]"
 ],
 [
-"变故",
+"演变",
 6,
-"biàngù",
-"unforeseen event; accident"
-],
-[
-"变迁",
-6,
-"biànqiān",
-"changes; vicissitude"
+"yǎn biàn",
+"to develop; to evolve; development; evolution"
 ],
 [
 "变质",
 6,
 "biàn zhì",
-"go bad; deteriorate; metamorphism"
+"to degenerate; to deteriorate; (of food) to go bad; to go off; (geology) metamorphism"
 ],
 [
-"演变",
+"变故",
 6,
-"yǎnbiàn",
-"develop; evolve"
+"biàn gù",
+"an unforeseen event; accident; misfortune"
+],
+[
+"变迁",
+6,
+"biàn qiān",
+"changes; vicissitudes"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"变成",
+181.93,
+"biàn chéng",
+"to change into; to turn into; to become"
+],
+[
+"变得",
+85.61,
+"biàn de",
+"to become"
+],
+[
+"变态",
+40.45,
+"biàn tài",
+"to metamorphose (biology); abnormal; perverted; hentai; (slang) pervert"
+],
+[
+"不变",
+28.03,
+"bù biàn",
+"constant; unvarying; (math.) invariant"
+],
+[
+"病变",
+25.41,
+"bìng biàn",
+"pathological changes; lesion; diseased (kidney, cornea etc)"
+],
+[
+"变动",
+23.48,
+"biàn dòng",
+"to change; to fluctuate; change; fluctuation"
+],
+[
+"变形",
+20.27,
+"biàn xíng",
+"deformation; to become deformed; to change shape; to morph"
+],
+[
+"变更",
+18.66,
+"biàn gēng",
+"to change; to alter; to modify"
+],
+[
+"变革",
+17.75,
+"biàn gé",
+"to transform; to change"
+],
+[
+"变为",
+15.12,
+"biàn wéi",
+"to change into"
+],
+[
+"变异",
+8.78,
+"biàn yì",
+"variation"
+],
+[
+"变换",
+8.51,
+"biàn huàn",
+"to transform; to convert; to vary; to alternate; a transformation"
+],
+[
+"突变",
+7.91,
+"tū biàn",
+"sudden change; mutation"
+],
+[
+"变性",
+7.12,
+"biàn xìng",
+"to denature; denaturation; to have a sex change; transsexual"
+],
+[
+"变量",
+6.54,
+"biàn liàng",
+"variable (math.)"
+],
+[
+"多变",
+6.46,
+"duō biàn",
+"fickle; multi-variate (math.)"
+],
+[
+"变相",
+6.33,
+"biàn xiàng",
+"in disguised form; covert"
+],
+[
+"应变",
+5.94,
+"yìng biàn",
+"to meet a contingency; to adapt oneself to changes"
+]
+],
 "strokes": [
 "M 441 842 Q 429 842 427 835 Q 424 826 435 817 Q 513 745 550 740 Q 559 740 564 744 Q 568 750 570 767 Q 571 783 563 799 Q 536 841 441 842 Z",
 "M 600 663 Q 658 666 802 667 Q 823 668 827 676 Q 833 688 816 702 Q 764 741 726 732 Q 606 705 216 654 Q 195 653 211 635 Q 244 605 280 615 Q 328 628 382 638 L 425 645 Q 483 657 561 660 L 600 663 Z",

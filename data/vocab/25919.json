@@ -9,94 +9,160 @@
 [
 "政府",
 5,
-"zhèngfǔ",
-"government"
+"zhèng fǔ",
+"government; CL:個|个[ge4]"
 ],
 [
 "政治",
 5,
-"zhèngzhì",
-"politics"
-],
-[
-"财政",
-6,
-"cáizhèng",
-"public finances; financial"
-],
-[
-"行政",
-6,
-"xíngzhèng",
-"administration; administrative"
+"zhèng zhì",
+"politics; political"
 ],
 [
 "政策",
 6,
-"zhèngcè",
-"policy"
+"zhèng cè",
+"policy; CL:個|个[ge4]"
+],
+[
+"财政",
+6,
+"cái zhèng",
+"finances (public); financial"
+],
+[
+"行政",
+6,
+"xíng zhèng",
+"administrative; executive (attributive)"
 ],
 [
 "政权",
 6,
-"zhèngquán",
-"regime; political power; authority"
+"zhèng quán",
+"regime; political power"
 ]
 ],
 "extraWords": [
 [
 "市政府",
 48.97,
-"shi4 zheng4 fu3",
+"shì zhèng fǔ",
 "city hall; city government"
+],
+[
+"政协",
+31.27,
+"Zhèng Xié",
+"CPPCC (Chinese People's Political Consultative Conference); abbr. of 中國人民政治協商會議|中国人民政治协商会议[Zhong1 guo2 Ren2 min2 Zheng4 zhi4 Xie2 shang1 Hui4 yi4]"
+],
+[
+"执政",
+19.37,
+"zhí zhèng",
+"to hold power; in office"
+],
+[
+"邮政",
+18.01,
+"yóu zhèng",
+"postal service; postal"
+],
+[
+"党政",
+17.18,
+"dǎng zhèng",
+"Party and government administration"
+],
+[
+"财政部",
+15.87,
+"Cái zhèng bù",
+"Ministry of Finance"
 ],
 [
 "廉政",
 13.68,
-"lian2 zheng4",
+"lián zhèng",
 "honest or clean politics"
 ],
 [
 "市政",
 13.07,
-"shi4 zheng4",
+"shì zhèng",
 "municipal administration"
+],
+[
+"专政",
+12.18,
+"zhuān zhèng",
+"dictatorship"
 ],
 [
 "民政",
 11.62,
-"min2 zheng4",
+"mín zhèng",
 "civil administration"
+],
+[
+"政党",
+11.54,
+"zhèng dǎng",
+"political party; CL:個|个[ge4]"
+],
+[
+"政务",
+11.46,
+"zhèng wù",
+"government affairs"
 ],
 [
 "政法",
 10.03,
-"zheng4 fa3",
+"zhèng fǎ",
 "political law; politics and law"
+],
+[
+"政绩",
+7.24,
+"zhèng jì",
+"(political) achievements; track record"
 ],
 [
 "政客",
 6.89,
-"zheng4 ke4",
+"zhèng kè",
 "politician"
+],
+[
+"县政府",
+6.85,
+"xiàn zhèng fǔ",
+"county administration; county regional government"
 ],
 [
 "中央政府",
 6.68,
-"zhong1 yang1 zheng4 fu3",
+"zhōng yāng zhèng fǔ",
 "central government"
 ],
 [
 "新政",
 6.56,
-"xin1 zheng4",
+"xīn zhèng",
 "new policy; New Deal (Roosevelt's 1933 policy to deal with the Great Depression)"
 ],
 [
 "政治家",
 5.23,
-"zheng4 zhi4 jia1",
+"zhèng zhì jiā",
 "statesman; politician; CL:個|个[ge4],位[wei4],名[ming2]"
+],
+[
+"内政",
+5.21,
+"nèi zhèng",
+"internal affairs (of a country)"
 ]
 ],
 "strokes": [

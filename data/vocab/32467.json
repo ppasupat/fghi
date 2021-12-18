@@ -7,103 +7,194 @@
 },
 "words": [
 [
-"结婚",
-3,
-"jiéhūn",
-"get married"
-],
-[
 "结束",
 3,
-"jiéshù",
-"to end; to finish; conclude"
+"jié shù",
+"termination; to finish; to end; to conclude; to close"
+],
+[
+"结婚",
+3,
+"jié hūn",
+"to marry; to get married; CL:次[ci4]"
 ],
 [
 "结果",
 4,
-"jiéguǒ",
-"result; outcome; finally"
+"jiē guǒ",
+"to bear fruit; CL:個|个[ge4]"
+],
+[
+"结果",
+4,
+"jié guǒ",
+"outcome; result; conclusion; in the end; as a result; to kill; to dispatch"
 ],
 [
 "总结",
 4,
-"zǒngjié",
-"summarize; conclude"
-],
-[
-"结实",
-5,
-"jiēshi",
-"sturdy; (also -shí: bear fruit)"
-],
-[
-"结构",
-5,
-"jiégòu",
-"structure; composition"
-],
-[
-"结合",
-5,
-"jiéhé",
-"combine; to link; to bind"
+"zǒng jié",
+"to sum up; to conclude; summary; résumé; CL:個|个[ge4]"
 ],
 [
 "结论",
 5,
-"jiélùn",
-"conclusion; verdict"
+"jié lùn",
+"conclusion; verdict; CL:個|个[ge4]; to conclude; to reach a verdict"
+],
+[
+"结合",
+5,
+"jié hé",
+"to combine; to link; to integrate; binding; CL:次[ci4]"
+],
+[
+"结构",
+5,
+"jié gòu",
+"structure; composition; makeup; architecture; CL:座[zuo4],個|个[ge4]"
+],
+[
+"结实",
+5,
+"jiē shí",
+"to bear fruit"
+],
+[
+"结实",
+5,
+"jiē shi",
+"rugged; sturdy; strong; durable; buff (physique)"
 ],
 [
 "结账",
 5,
-"jiézhàng",
-"pay the bill; settle accounts"
-],
-[
-"巴结",
-6,
-"bājie",
-"to fawn on; curry favor with"
-],
-[
-"冻结",
-6,
-"dòngjié",
-"(loan, wage, price) freeze"
-],
-[
-"勾结",
-6,
-"gōujié",
-"collude with; collaborate; gang up"
-],
-[
-"结晶",
-6,
-"jiéjīng",
-"a crystal; to crystallize"
+"jié zhàng",
+"to pay the bill; to settle accounts; also written 結帳|结帐"
 ],
 [
 "结局",
 6,
-"jiéjú",
+"jié jú",
 "conclusion; ending"
-],
-[
-"结算",
-6,
-"jiésuàn",
-"settle up the bill; close an account"
 ],
 [
 "团结",
 6,
-"tuánjié",
-"unite; hold a rally; join forces"
+"tuán jié",
+"to unite; unity; solidarity; united"
+],
+[
+"冻结",
+6,
+"dòng jié",
+"to freeze (water etc); (fig.) to freeze (assets, prices etc)"
+],
+[
+"结晶",
+6,
+"jié jīng",
+"to crystallize; crystallization; crystal; crystalline; (fig.) the fruit (of labor etc)"
+],
+[
+"结算",
+6,
+"jié suàn",
+"to settle a bill; to close an account"
+],
+[
+"勾结",
+6,
+"gōu jié",
+"to collude with; to collaborate with; to gang up with"
+],
+[
+"巴结",
+6,
+"bā jie",
+"to fawn on; to curry favor with; to make up to"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"纠结",
+29.15,
+"jiū jié",
+"to intertwine; to band together (with); to link up (with); twisted; tangled; confused; to be at a loss"
+],
+[
+"了结",
+14.16,
+"liǎo jié",
+"to settle; to finish; to conclude; to wind up"
+],
+[
+"终结",
+12.13,
+"zhōng jié",
+"end; conclusion; to come to an end; to terminate (sth)"
+],
+[
+"结尾",
+12.04,
+"jié wěi",
+"ending; coda; to wind up"
+],
+[
+"结案",
+10.52,
+"jié àn",
+"to conclude a case; to wind up"
+],
+[
+"淋巴结",
+9.83,
+"lín bā jié",
+"lymphatic node; lymph gland"
+],
+[
+"结石",
+7.24,
+"jié shí",
+"calculus; stone"
+],
+[
+"结构性",
+6.52,
+"jié gòu xìng",
+"structural; structured"
+],
+[
+"结成",
+6.44,
+"jié chéng",
+"to form; to forge (alliances etc)"
+],
+[
+"集结",
+5.99,
+"jí jié",
+"to assemble; to concentrate; to mass; to build up; to marshal"
+],
+[
+"情结",
+5.57,
+"qíng jié",
+"complex (psychology)"
+],
+[
+"结核",
+5.4,
+"jié hé",
+"tuberculosis; consumption; nodule"
+],
+[
+"蝴蝶结",
+5.08,
+"hú dié jié",
+"bow; bowknot"
+]
+],
 "strokes": [
 "M 323 498 Q 274 498 232 499 Q 196 499 215 521 Q 285 633 352 718 Q 367 736 364 744 Q 363 759 322 792 Q 306 805 286 802 Q 274 799 281 783 Q 288 765 282 739 Q 269 688 207 580 Q 188 543 148 509 Q 129 494 130 482 Q 134 463 148 444 Q 158 432 172 439 Q 211 460 304 472 C 334 476 353 498 323 498 Z",
 "M 304 472 Q 208 340 184 329 Q 171 320 173 307 Q 174 294 200 274 Q 210 262 225 275 Q 288 318 398 356 Q 417 360 419 369 Q 422 379 402 375 Q 342 365 270 344 Q 243 334 260 356 Q 300 413 397 527 Q 425 564 449 585 Q 462 595 456 605 Q 446 624 413 642 Q 397 652 388 649 Q 378 646 380 630 Q 383 590 323 498 L 304 472 Z",

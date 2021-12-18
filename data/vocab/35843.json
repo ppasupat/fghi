@@ -9,89 +9,204 @@
 [
 "空调",
 3,
-"kōngtiáo",
-"air conditioning"
+"kōng tiáo",
+"air conditioning; air conditioner (including units that have a heating mode); CL:臺|台[tai2]"
 ],
 [
 "调查",
 4,
-"diàochá",
-"investigate; survey; inquiry"
-],
-[
-"单调",
-5,
-"dāndiào",
-"monotonous; dull"
-],
-[
-"强调",
-5,
-"qiángdiào",
-"emphasize; to stress"
-],
-[
-"声调",
-5,
-"shēngdiào",
-"tone; note"
-],
-[
-"调皮",
-5,
-"tiáopí",
-"naughty; mischievous; unruly"
+"diào chá",
+"investigation; inquiry; to investigate; to survey; survey; (opinion) poll; CL:項|项[xiang4],個|个[ge4]"
 ],
 [
 "调整",
 5,
-"tiáozhěng",
-"adjustment; revision"
+"tiáo zhěng",
+"to adjust; adjustment; revision; CL:個|个[ge4]"
 ],
 [
-"调动",
-6,
-"diàodòng",
-"to transfer; to maneuver (troops, etc.)"
+"强调",
+5,
+"qiáng diào",
+"to emphasize (a statement); to stress"
 ],
 [
-"调和",
-6,
-"tiáohé",
-"harmonious; harmony"
+"调皮",
+5,
+"tiáo pí",
+"naughty; mischievous; unruly"
 ],
 [
-"调剂",
-6,
-"tiáojì",
-"make an adjustment"
+"单调",
+5,
+"dān diào",
+"monotonous"
 ],
 [
-"调节",
-6,
-"tiáojié",
-"adjust; regulate; reconcile"
-],
-[
-"调解",
-6,
-"tiáojiě",
-"mediation; bring together to an agreement"
-],
-[
-"调料",
-6,
-"tiáoliào",
-"seasoning; flavoring"
+"声调",
+5,
+"shēng diào",
+"tone; note; a tone (on a Chinese syllable); CL:個|个[ge4]"
 ],
 [
 "协调",
 6,
-"xiétiáo",
-"coordinate; harmonize"
+"xié tiáo",
+"to coordinate; to harmonize; to fit together; to match (colors etc); harmonious; concerted"
+],
+[
+"调节",
+6,
+"tiáo jié",
+"to adjust; to regulate; to harmonize; to reconcile (accountancy etc)"
+],
+[
+"调动",
+6,
+"diào dòng",
+"to transfer; to maneuver (troops etc); movement of personnel; to mobilize; to bring into play"
+],
+[
+"调料",
+6,
+"tiáo liào",
+"condiment; seasoning; flavoring"
+],
+[
+"调解",
+6,
+"tiáo jiě",
+"to mediate; to bring parties to an agreement"
+],
+[
+"调和",
+6,
+"tiáo hé",
+"harmonious; to mediate; to reconcile; to compromise; mediation; to mix; to blend; blended; to season; seasoning; to placate"
+],
+[
+"调剂",
+6,
+"tiáo jì",
+"to adjust; to balance; to make up a medical prescription"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"调控",
+34.89,
+"tiáo kòng",
+"to regulate; to control"
+],
+[
+"调研",
+26.52,
+"diào yán",
+"to investigate and research; research; investigation"
+],
+[
+"宏观调控",
+24.23,
+"hóng guān tiáo kòng",
+"macro-control"
+],
+[
+"低调",
+23.78,
+"dī diào",
+"low pitch; quiet (voice); subdued; low-key; low-profile"
+],
+[
+"上调",
+19.15,
+"shàng tiáo",
+"to raise (prices); to adjust upwards"
+],
+[
+"下调",
+17.07,
+"xià diào",
+"to demote; to pass down to a lower unit"
+],
+[
+"下调",
+17.07,
+"xià tiáo",
+"to adjust downwards; to lower (prices, wages etc)"
+],
+[
+"调情",
+12.22,
+"tiáo qíng",
+"to flirt"
+],
+[
+"色调",
+8.87,
+"sè diào",
+"hue; tone"
+],
+[
+"调度",
+8.62,
+"diào dù",
+"to dispatch (vehicles, staff etc); to schedule; to manage; dispatcher; scheduler"
+],
+[
+"高调",
+7.46,
+"gāo diào",
+"high-sounding speech; bombast; high-profile"
+],
+[
+"抽调",
+6.25,
+"chōu diào",
+"to transfer (personnel or material)"
+],
+[
+"调戏",
+5.93,
+"tiáo xì",
+"to take liberties with a woman; to dally; to assail a woman with obscenities"
+],
+[
+"失调",
+5.8,
+"shī diào",
+"out of tune (music)"
+],
+[
+"失调",
+5.8,
+"shī tiáo",
+"imbalance; to become dysfunctional; to lack proper care (after an illness etc)"
+],
+[
+"调试",
+5.71,
+"tiáo shì",
+"to debug; to adjust components during testing; debugging"
+],
+[
+"调头",
+5.54,
+"diào tóu",
+"variant of 掉頭|掉头[diao4 tou2]"
+],
+[
+"调头",
+5.54,
+"diào tou",
+"tone (of voice); tune"
+],
+[
+"情调",
+5.29,
+"qíng diào",
+"sentiment; tone and mood; taste"
+]
+],
 "strokes": [
 "M 276 765 Q 303 740 331 709 Q 346 694 363 694 Q 375 694 380 709 Q 386 725 378 758 Q 372 779 340 795 Q 267 826 248 819 Q 242 815 244 801 Q 247 788 276 765 Z",
 "M 141 541 Q 90 520 63 516 Q 48 515 46 508 Q 43 498 55 492 Q 98 470 125 483 Q 168 508 210 533 Q 232 546 242 541 Q 252 535 248 511 Q 248 343 213 229 Q 195 196 239 144 Q 249 131 260 138 Q 269 145 280 170 Q 322 219 407 303 Q 420 315 418 322 Q 417 331 405 322 Q 365 297 324 270 Q 272 228 282 292 Q 281 353 303 503 Q 306 528 328 552 Q 341 562 330 576 Q 318 592 279 608 Q 266 614 249 602 Q 180 557 141 541 Z",

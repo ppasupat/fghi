@@ -7,113 +7,161 @@
 },
 "words": [
 [
-"汇率",
+"效率",
 5,
-"huìlǜ",
-"exchange rate"
+"xiào lu:4",
+"efficiency"
 ],
 [
 "坦率",
 5,
-"tǎnshuài",
-"frank"
+"tǎn shuài",
+"frank (discussion); blunt; open"
 ],
 [
-"效率",
+"汇率",
 5,
-"xiàolǜ",
-"efficiency"
-],
-[
-"草率",
-6,
-"cǎoshuài",
-"cursory; careless; negligent; sloppy; not serious"
+"huì lu:4",
+"exchange rate"
 ],
 [
 "频率",
 6,
-"pínlǜ",
+"pín lu:4",
 "frequency"
+],
+[
+"草率",
+6,
+"cǎo shuài",
+"careless; negligent; sloppy; not serious"
 ],
 [
 "率领",
 6,
-"shuàilǐng",
-"lead; command; head"
+"shuài lǐng",
+"to lead; to command; to head"
 ]
 ],
 "extraWords": [
 [
 "利率",
 60.42,
-"li4 lu:4",
+"lì lu:4",
 "interest rates"
 ],
 [
 "率先",
 31.33,
-"shuai4 xian1",
+"shuài xiān",
 "to take the lead; to show initiative"
 ],
 [
 "收益率",
 20.14,
-"shou1 yi4 lu:4",
+"shōu yì lu:4",
 "earnings rate; earnings yield (finance)"
+],
+[
+"增长率",
+18.6,
+"zēng zhǎng lu:4",
+"growth rate (esp. in economics)"
 ],
 [
 "分辨率",
 15.22,
-"fen1 bian4 lu:4",
+"fēn biàn lu:4",
 "resolution (of images, monitors, scanners etc)"
 ],
 [
 "概率",
 12.66,
-"gai4 lu:4",
+"gài lu:4",
 "probability (math.)"
 ],
 [
 "功率",
 12.14,
-"gong1 lu:4",
+"gōng lu:4",
 "rate of work; power (output)"
+],
+[
+"发生率",
+10.85,
+"fā shēng lu:4",
+"rate of occurrence"
+],
+[
+"发病率",
+9.61,
+"fā bìng lu:4",
+"incidence of a disease; disease rate"
 ],
 [
 "市盈率",
 9.54,
-"shi4 ying2 lu:4",
+"shì yíng lu:4",
 "PE ratio"
 ],
 [
 "死亡率",
 9.41,
-"si3 wang2 lu:4",
+"sǐ wáng lu:4",
 "mortality rate"
+],
+[
+"几率",
+8.5,
+"jī lu:4",
+"probability; odds"
 ],
 [
 "比率",
 8.21,
-"bi3 lu:4",
+"bǐ lu:4",
 "ratio; rate; percentage"
 ],
 [
 "速率",
 7.93,
-"su4 lu:4",
+"sù lu:4",
 "speed; rate"
+],
+[
+"收视率",
+7.81,
+"shōu shì lu:4",
+"ratings (of a TV show)"
+],
+[
+"利润率",
+6.07,
+"lì rùn lu:4",
+"profit margin"
+],
+[
+"生产率",
+5.92,
+"shēng chǎn lu:4",
+"productivity; efficiency of production"
+],
+[
+"覆盖率",
+5.5,
+"fù gài lu:4",
+"coverage"
 ],
 [
 "心率",
 5.36,
-"xin1 lu:4",
+"xīn lu:4",
 "heart rate"
 ],
 [
 "命中率",
 5.04,
-"ming4 zhong4 lu:4",
+"mìng zhòng lu:4",
 "hit rate; scoring rate"
 ]
 ],

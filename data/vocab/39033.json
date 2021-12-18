@@ -9,29 +9,60 @@
 [
 "项",
 5,
-"xiàng",
-"nape (of the neck); sum (of money); mw item"
+"Xiàng",
+"surname Xiang"
 ],
 [
-"项链",
+"项",
 5,
-"xiàngliàn",
-"necklace"
+"xiàng",
+"back of neck; item; thing; term (in a mathematical formula); sum (of money); classifier for principles, items, clauses, tasks, research projects etc"
 ],
 [
 "项目",
 5,
-"xiàngmù",
-"program; item; project"
+"xiàng mù",
+"item; project; (sports) event; CL:個|个[ge4]"
+],
+[
+"项链",
+5,
+"xiàng liàn",
+"necklace; CL:條|条[tiao2]"
 ],
 [
 "事项",
 6,
-"shìxiàng",
+"shì xiàng",
 "matter; item"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"专项",
+39.0,
+"zhuān xiàng",
+"special; dedicated"
+],
+[
+"款项",
+8.42,
+"kuǎn xiàng",
+"funds; a sum of money; CL:宗[zong1]"
+],
+[
+"单项",
+6.32,
+"dān xiàng",
+"single-item"
+],
+[
+"立项",
+5.97,
+"lì xiàng",
+"to launch a project"
+]
+],
 "strokes": [
 "M 287 628 Q 419 668 421 669 Q 428 676 424 685 Q 417 695 387 701 Q 369 704 271 670 Q 208 655 175 649 Q 139 640 166 626 Q 205 608 253 619 L 287 628 Z",
 "M 307 401 Q 316 558 321 574 Q 328 590 320 601 Q 304 617 287 628 C 262 645 240 646 253 619 Q 265 601 265 518 Q 264 472 264 386 C 264 356 305 371 307 401 Z",

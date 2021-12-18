@@ -7,19 +7,32 @@
 },
 "words": [
 [
-"沉闷",
-6,
-"chénmèn",
-"oppressive (of weather); heavy; depressed; not happy"
-],
-[
 "纳闷儿",
 6,
-"nà mènr",
-"feel puzzled; bewildered"
+"nà mèn r5",
+"erhua variant of 納悶|纳闷[na4 men4]"
+],
+[
+"沉闷",
+6,
+"chén mèn",
+"oppressive (of weather); heavy; depressed; not happy; (of sound) dull; muffled"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"郁闷",
+26.22,
+"yù mèn",
+"gloomy; depressed"
+],
+[
+"纳闷",
+5.38,
+"nà mèn",
+"puzzled; bewildered"
+]
+],
 "strokes": [
 "M 304 745 Q 361 669 390 665 Q 406 664 414 684 Q 415 699 406 723 Q 396 742 369 752 Q 329 773 311 776 Q 301 777 298 765 Q 297 755 304 745 Z",
 "M 176 688 Q 231 541 186 227 Q 156 104 157 94 Q 157 63 179 37 Q 192 22 202 37 Q 239 76 240 242 Q 240 569 257 653 Q 258 672 242 683 Q 217 704 189 712 Q 179 715 172 706 Q 168 699 176 688 Z",

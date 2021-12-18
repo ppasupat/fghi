@@ -10,16 +10,41 @@
 "浓",
 5,
 "nóng",
-"concentrated; dense"
+"concentrated; dense; strong (smell etc)"
 ],
 [
 "浓厚",
 6,
-"nónghòu",
-"dense; thick (fog, clouds, etc.)"
+"nóng hòu",
+"dense; thick (fog, clouds etc); to have a strong interest in; deep; fully saturated (color)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"浓度",
+33.85,
+"nóng dù",
+"concentration (percentage of dissolved material in a solution); consistency; thickness; density; viscosity"
+],
+[
+"浓缩",
+10.65,
+"nóng suō",
+"to concentrate (a liquid); concentration; espresso coffee; abbr. for 意式濃縮咖啡|意式浓缩咖啡"
+],
+[
+"浓郁",
+9.1,
+"nóng yù",
+"rich; strong; heavy (fragrance); dense; full-bodied; intense"
+],
+[
+"浓烟",
+5.08,
+"nóng yān",
+"thick smoke"
+]
+],
 "strokes": [
 "M 235 715 Q 260 694 287 669 Q 303 656 320 657 Q 332 658 337 672 Q 341 688 330 721 Q 318 751 228 767 Q 210 771 204 767 Q 198 763 201 749 Q 205 736 235 715 Z",
 "M 129 499 Q 183 445 217 432 Q 233 431 243 444 Q 249 459 245 476 Q 230 518 141 541 Q 123 545 113 541 Q 106 540 110 526 Q 111 513 129 499 Z",

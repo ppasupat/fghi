@@ -9,17 +9,54 @@
 [
 "灾害",
 5,
-"zāihài",
-"disaster; calamity"
+"zāi hài",
+"calamity; disaster; CL:個|个[ge4]"
 ],
 [
 "灾难",
 6,
-"zāinàn",
+"zāi nàn",
 "disaster; catastrophe"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"火灾",
+21.92,
+"huǒ zāi",
+"serious fire (in a city or a forest etc)"
+],
+[
+"救灾",
+11.62,
+"jiù zāi",
+"to relieve disaster; to help disaster victims"
+],
+[
+"灾区",
+10.63,
+"zāi qū",
+"disaster area; stricken region"
+],
+[
+"受灾",
+10.61,
+"shòu zāi",
+"disaster-stricken; to be hit by a natural calamity"
+],
+[
+"自然灾害",
+6.18,
+"zì rán zāi hài",
+"natural disaster"
+],
+[
+"灾民",
+5.91,
+"zāi mín",
+"victim (of a disaster)"
+]
+],
 "strokes": [
 "M 458 781 Q 492 759 527 730 Q 543 717 561 719 Q 573 720 577 736 Q 580 752 567 784 Q 558 806 522 818 Q 440 842 424 831 Q 418 827 422 813 Q 426 801 458 781 Z",
 "M 264 627 Q 255 651 243 660 Q 227 675 223 650 Q 223 619 184 567 Q 147 527 148 507 Q 151 477 159 459 Q 172 434 192 458 Q 213 485 228 524 Q 246 570 260 597 C 269 615 269 615 264 627 Z",

@@ -10,22 +10,47 @@
 "锁",
 5,
 "suǒ",
-"lock"
+"to lock up; to lock; lock; CL:把[ba3]"
+],
+[
+"锁",
+5,
+"suǒ",
+"old variant of 鎖|锁[suo3]"
 ],
 [
 "封锁",
 6,
-"fēngsuǒ",
-"to blockade; to seal off"
+"fēng suǒ",
+"to blockade; to seal off; to lock down"
 ],
 [
 "连锁",
 6,
-"liánsuǒ",
-"chain (store etc); to interlock"
+"lián suǒ",
+"to interlock; to be linked; chain (store etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"锁定",
+15.51,
+"suǒ dìng",
+"to lock (a door); to close with a latch; to lock into place; a lock; a latch; to lock a computer file (to prevent it being overwritten); to lock (denying access to a computer system or device or files, e.g. by password-protection); to focus attention on; to target"
+],
+[
+"门锁",
+7.84,
+"mén suǒ",
+"door lock"
+],
+[
+"锁门",
+5.04,
+"suǒ mén",
+"to lock the door"
+]
+],
 "strokes": [
 "M 287 626 Q 348 728 365 742 Q 374 752 370 765 Q 366 778 338 800 Q 313 818 294 817 Q 276 816 284 794 Q 299 760 285 733 Q 213 567 47 374 Q 37 364 35 358 Q 31 348 45 350 Q 99 359 267 595 L 287 626 Z",
 "M 267 595 Q 294 592 370 611 Q 394 620 420 626 Q 439 633 442 636 Q 449 643 444 650 Q 437 660 411 663 Q 393 664 322 637 Q 321 637 287 626 C 258 617 237 597 267 595 Z",

@@ -9,17 +9,24 @@
 [
 "烦恼",
 4,
-"fánnǎo",
-"worried; vexed"
+"fán nǎo",
+"to be worried; to be distressed; worries"
 ],
 [
 "恼火",
 6,
-"nǎohuǒ",
-"get angry; irritated; annoy"
+"nǎo huǒ",
+"to get angry; irritated; to annoy; to aggravate; annoying"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"苦恼",
+6.77,
+"kǔ nǎo",
+"vexed; distressed"
+]
+],
 "strokes": [
 "M 129 539 Q 116 476 91 418 Q 78 382 99 354 Q 109 339 127 354 Q 172 405 163 489 Q 162 520 152 543 Q 145 550 140 550 Q 133 549 129 539 Z",
 "M 284 608 Q 290 602 302 593 Q 329 572 358 546 Q 370 536 381 537 Q 390 538 393 548 Q 397 560 389 583 Q 380 610 297 630 Q 290 631 285 631 C 258 632 262 629 284 608 Z",

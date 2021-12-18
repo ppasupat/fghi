@@ -10,32 +10,38 @@
 "幅",
 5,
 "fú",
-"width of cloth; size; (mw for pictures, paintings, textiles)"
+"width; roll; classifier for textiles or pictures"
 ],
 [
 "幅度",
 6,
-"fúdù",
-"width; margin; extent"
+"fú dù",
+"width; extent; range; scope"
 ]
 ],
 "extraWords": [
 [
+"涨幅",
+36.87,
+"zhǎng fú",
+"extent of a rise (in prices etc); amount of increase; growth (typically expressed as a percentage)"
+],
+[
 "增幅",
 22.71,
-"zeng1 fu2",
+"zēng fú",
 "growth rate; amplification"
 ],
 [
 "大幅度",
 19.24,
-"da4 fu2 du4",
+"dà fú dù",
 "by a wide margin; substantial"
 ],
 [
 "跌幅",
 17.21,
-"die1 fu2",
+"diē fú",
 "decline (in value); extent of a drop"
 ]
 ],

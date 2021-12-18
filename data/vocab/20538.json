@@ -9,11 +9,42 @@
 [
 "债券",
 6,
-"zhàiquàn",
-"bond"
+"zhài quàn",
+"bond; debenture"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"债务",
+24.69,
+"zhài wù",
+"debt; liability; amount due; indebtedness"
+],
+[
+"国债",
+22.23,
+"guó zhài",
+"national debt; government debt"
+],
+[
+"负债",
+11.29,
+"fù zhài",
+"to be in debt; to incur debts; liability (finance)"
+],
+[
+"债权",
+9.18,
+"zhài quán",
+"creditor's rights (law)"
+],
+[
+"债权人",
+5.4,
+"zhài quán rén",
+"creditor"
+]
+],
 "strokes": [
 "M 237 519 Q 286 577 341 655 Q 371 704 396 726 Q 406 736 402 752 Q 398 765 369 792 Q 341 813 321 814 Q 302 813 309 789 Q 321 756 302 716 Q 226 563 61 381 Q 49 371 47 364 Q 43 352 58 354 Q 100 360 206 484 Q 207 487 211 489 L 237 519 Z",
 "M 211 489 Q 214 479 219 470 Q 234 440 234 343 Q 234 244 205 131 Q 190 82 227 34 Q 228 31 232 28 Q 251 12 263 40 Q 278 82 278 130 Q 281 374 290 429 Q 297 457 287 468 Q 269 490 255 504 Q 248 513 237 519 C 213 536 200 517 211 489 Z",

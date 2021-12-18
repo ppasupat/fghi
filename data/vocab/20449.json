@@ -9,159 +9,225 @@
 [
 "相信",
 3,
-"xiāngxìn",
-"believe (sb.); be convinced of"
+"xiāng xìn",
+"to be convinced (that sth is true); to believe; to accept sth as true"
 ],
 [
 "信用卡",
 3,
-"xìnyòngkǎ",
+"xìn yòng kǎ",
 "credit card"
-],
-[
-"短信",
-4,
-"duǎnxìn",
-"text message; SMS"
-],
-[
-"信封",
-4,
-"xìnfēng",
-"envelope"
 ],
 [
 "信息",
 4,
-"xìnxī",
+"xìn xī",
 "information; news; message"
 ],
 [
-"信心",
+"短信",
 4,
-"xìnxīn",
-"confidence; faith (in sb. or sth.)"
+"duǎn xìn",
+"text message; SMS"
 ],
 [
 "自信",
 4,
-"zìxìn",
-"self-confidence"
+"zì xìn",
+"to have confidence in oneself; self-confidence"
 ],
 [
-"信号",
-5,
-"xìnhào",
-"signal"
+"信心",
+4,
+"xìn xīn",
+"confidence; faith (in sb or sth); CL:個|个[ge4]"
+],
+[
+"信封",
+4,
+"xìn fēng",
+"envelope; CL:個|个[ge4]"
 ],
 [
 "信任",
 5,
-"xìnrèn",
-"to trust; have confidence in"
+"xìn rèn",
+"to trust; to have confidence in"
 ],
 [
-"迷信",
-6,
-"míxìn",
-"superstition; be superstitious"
-],
-[
-"确信",
-6,
-"quèxìn",
-"confident; be certain of; to firmly believe"
-],
-[
-"威信",
-6,
-"wēixìn",
-"prestige; reputation; veneration; authority; trust"
-],
-[
-"信赖",
-6,
-"xìnlài",
-"trust; have confidence in; confide"
-],
-[
-"信念",
-6,
-"xìnniàn",
-"faith; belief; conviction"
+"信号",
+5,
+"xìn hào",
+"signal"
 ],
 [
 "信仰",
 6,
-"xìnyǎng",
-"firm belief; faith; believe in (a religion)"
+"xìn yǎng",
+"to believe in (a religion); firm belief; conviction"
+],
+[
+"确信",
+6,
+"què xìn",
+"to be convinced; to be sure; to firmly believe; to be positive that; definite news"
+],
+[
+"信念",
+6,
+"xìn niàn",
+"faith; belief; conviction"
+],
+[
+"信赖",
+6,
+"xìn lài",
+"to trust; to have confidence in; to have faith in; to rely on"
+],
+[
+"迷信",
+6,
+"mí xìn",
+"superstition; to have a superstitious belief (in sth)"
 ],
 [
 "信誉",
 6,
-"xìnyù",
-"reputation; prestige; trust"
+"xìn yù",
+"prestige; distinction; reputation; trust"
+],
+[
+"威信",
+6,
+"Wēi xìn",
+"Weixin county in Zhaotong 昭通[Zhao1 tong1], Yunnan"
+],
+[
+"威信",
+6,
+"wēi xìn",
+"prestige; reputation; trust; credit with the people"
 ]
 ],
 "extraWords": [
 [
+"难以置信",
+51.63,
+"nán yǐ zhì xìn",
+"hard to believe; incredible"
+],
+[
+"电信",
+47.85,
+"diàn xìn",
+"telecommunications"
+],
+[
 "通信",
 40.95,
-"tong1 xin4",
+"tōng xìn",
 "to correspond (by letter etc); to communicate; communication"
 ],
 [
 "信用",
 33.83,
-"xin4 yong4",
+"xìn yòng",
 "to trust; credit (commerce); trustworthiness; creditworthiness"
 ],
 [
 "信息化",
 28.67,
-"xin4 xi1 hua4",
+"xìn xī huà",
 "informatization (the Information Age analog of industrialization)"
+],
+[
+"信贷",
+26.53,
+"xìn dài",
+"credit; borrowed money"
+],
+[
+"写信",
+15.02,
+"xiě xìn",
+"to write a letter"
+],
+[
+"坚信",
+11.86,
+"jiān xìn",
+"to believe firmly; without any doubt"
+],
+[
+"信息技术",
+11.81,
+"xìn xī jì shù",
+"information technology; IT"
+],
+[
+"信托",
+11.45,
+"xìn tuō",
+"to entrust; trust bond (finance)"
+],
+[
+"信访",
+10.93,
+"xìn fǎng",
+"complaint letter; petition letter; see also 上訪|上访[shang4 fang3]"
+],
+[
+"来信",
+10.67,
+"lái xìn",
+"incoming letter; to send us a letter"
 ],
 [
 "信件",
 8.82,
-"xin4 jian4",
+"xìn jiàn",
 "letter (sent by mail)"
 ],
 [
 "信箱",
 8.67,
-"xin4 xiang1",
+"xìn xiāng",
 "mailbox; post office box"
 ],
 [
 "口信",
 8.53,
-"kou3 xin4",
+"kǒu xìn",
 "oral message"
+],
+[
+"信息系统",
+8.06,
+"xìn xī xì tǒng",
+"information system"
 ],
 [
 "可信",
 7.96,
-"ke3 xin4",
+"kě xìn",
 "trustworthy"
 ],
 [
 "信徒",
 7.75,
-"xin4 tu2",
+"xìn tú",
 "believer"
 ],
 [
 "信用社",
 7.27,
-"xin4 yong4 she4",
+"xìn yòng shè",
 "credit union"
 ],
 [
 "明信片",
 6.37,
-"ming2 xin4 pian4",
+"míng xìn piàn",
 "postcard"
 ]
 ],

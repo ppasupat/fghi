@@ -7,55 +7,146 @@
 },
 "words": [
 [
-"互联网",
+"联系",
 4,
-"Hùliánwǎng",
-"Internet"
+"lián xì",
+"variant of 聯繫|联系[lian2 xi4]"
 ],
 [
 "联系",
 4,
-"liánxì",
-"integrate; link; connection; contact"
+"lián xì",
+"connection; contact; relation; to get in touch with; to integrate; to link; to touch"
+],
+[
+"互联网",
+4,
+"Hù lián wǎng",
+"Internet"
 ],
 [
 "联合",
 5,
-"liánhé",
-"alliance; combine; unite"
-],
-[
-"对联",
-6,
-"duìlián",
-"rhyming couplet; vertical written couplet usually placed along either side of a doorway"
-],
-[
-"联欢",
-6,
-"liánhuān",
-"have a get-together"
-],
-[
-"联络",
-6,
-"liánluò",
-"communication; to contact"
+"lián hé",
+"to combine; to join; unite; alliance"
 ],
 [
 "联盟",
 6,
-"liánméng",
+"lián méng",
 "alliance; union; coalition"
+],
+[
+"联络",
+6,
+"lián luò",
+"to get in touch with; to contact; to stay in contact (with); liaison; (math.) connection"
 ],
 [
 "联想",
 6,
-"liánxiǎng",
-"to associate (cognitively); to make an associative connection; mental association; word prediction and auto-complete functions of input method editing programs; abbr. for 联想集团 Lenovo Group (PRC computer firm)"
+"Lián xiǎng",
+"abbr. for 聯想集團|联想集团[Lian2 xiang3 Ji2 tuan2]"
+],
+[
+"联想",
+6,
+"lián xiǎng",
+"to associate (cognitively); to make an associative connection; mental association; word prediction and auto-complete functions of input method editing programs"
+],
+[
+"联欢",
+6,
+"lián huān",
+"to have a get-together; celebration; party"
+],
+[
+"对联",
+6,
+"duì lián",
+"rhyming couplet; pair of lines of verse written vertically down the sides of a doorway; CL:副[fu4],幅[fu2]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"联赛",
+82.75,
+"lián sài",
+"(sports) league; league tournament"
+],
+[
+"联邦",
+67.4,
+"lián bāng",
+"federal; federation; commonwealth; federal union; federal state; union"
+],
+[
+"联合国",
+63.05,
+"Lián hé guó",
+"United Nations"
+],
+[
+"苏联",
+51.79,
+"Sū lián",
+"Soviet Union, 1922-1991; abbr. for Union of Soviet Socialist Republics (USSR) 蘇維埃社會主義共和國聯盟|苏维埃社会主义共和国联盟[Su1 wei2 ai1 She4 hui4 zhu3 yi4 Gong4 he2 guo2 Lian2 meng2]"
+],
+[
+"联通",
+30.9,
+"Lián tōng",
+"China United Telecommunications Corporation; aka China Unicom or Unicom; abbr. for 中國聯通|中国联通"
+],
+[
+"联通",
+30.9,
+"lián tōng",
+"connection; link; to link together"
+],
+[
+"关联",
+27.6,
+"guān lián",
+"related; linked; affiliated"
+],
+[
+"联手",
+16.78,
+"lián shǒu",
+"lit. to join hands; to act together"
+],
+[
+"联合会",
+11.37,
+"lián hé huì",
+"federation"
+],
+[
+"美联社",
+10.14,
+"Měi Lián shè",
+"Associated Press (AP); abbr. for 美國聯合通訊社|美国联合通讯社[Mei3 guo2 Lian2 he2 Tong1 xun4 she4]"
+],
+[
+"联系人",
+9.53,
+"lián xì rén",
+"contact (person)"
+],
+[
+"联网",
+8.52,
+"lián wǎng",
+"network; cyber-"
+],
+[
+"妇联",
+8.12,
+"fù lián",
+"women's league; women's association"
+]
+],
 "strokes": [
 "M 384 685 Q 396 689 409 691 Q 452 701 459 707 Q 468 714 463 724 Q 456 736 426 744 Q 395 750 364 738 Q 315 722 262 709 Q 204 696 134 690 Q 97 684 123 666 Q 139 657 162 652 Q 166 652 171 650 C 195 645 195 645 220 653 Q 220 654 223 655 Q 283 667 347 679 L 384 685 Z",
 "M 171 650 Q 189 613 190 576 Q 191 540 188 239 C 188 209 229 221 229 251 Q 230 315 232 374 L 233 405 Q 234 454 236 500 L 236 533 Q 237 555 238 575 Q 241 633 239 637 Q 229 646 220 653 C 197 672 159 677 171 650 Z",

@@ -9,40 +9,76 @@
 [
 "火车站",
 2,
-"huǒchēzhàn",
+"huǒ chē zhàn",
 "train station"
 ],
 [
 "站",
 3,
 "zhàn",
-"stand; a station; be on one's feet; service center"
-],
-[
-"加油站",
-4,
-"jiāyóuzhàn",
-"gas station"
+"station; to stand; to halt; to stop; branch of a company or organization; website"
 ],
 [
 "网站",
 4,
-"wǎngzhàn",
-"website"
+"wǎng zhàn",
+"website; network station; node"
+],
+[
+"加油站",
+4,
+"jiā yóu zhàn",
+"gas station"
 ]
 ],
 "extraWords": [
 [
 "站住",
 24.15,
-"zhan4 zhu4",
+"zhàn zhù",
 "to stand"
+],
+[
+"车站",
+21.29,
+"chē zhàn",
+"rail station; bus stop; CL:處|处[chu4],個|个[ge4]"
+],
+[
+"站起来",
+14.47,
+"zhàn qǐ lai",
+"to stand up"
 ],
 [
 "站立",
 7.91,
-"zhan4 li4",
+"zhàn lì",
 "to stand; standing; on one's feet"
+],
+[
+"站台",
+5.96,
+"zhàn tái",
+"platform (at a railway station); (Tw) (of an influential person) to publicly lend one's support (e.g. for an election candidate); (Tw) website"
+],
+[
+"电站",
+5.93,
+"diàn zhàn",
+"a power station; an electricity generating plant"
+],
+[
+"空间站",
+5.87,
+"kōng jiān zhàn",
+"space station"
+],
+[
+"中转站",
+5.51,
+"zhōng zhuǎn zhàn",
+"transit hub; transport hub; interchange"
 ]
 ],
 "strokes": [

@@ -9,11 +9,36 @@
 [
 "铺",
 6,
-"pù, pū",
-"bed; store | to spread; to lay"
+"pù",
+"variant of 鋪|铺[pu4]; store"
+],
+[
+"铺",
+6,
+"pū",
+"to spread; to display; to set up; (old) holder for door-knocker"
+],
+[
+"铺",
+6,
+"pù",
+"plank bed; place to sleep; shop; store; (old) relay station"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"店铺",
+16.83,
+"diàn pù",
+"store; shop"
+],
+[
+"铺设",
+5.65,
+"pū shè",
+"to lay (railroad tracks, carpet, pipeline); to install (wiring, cable); to construct (road, concrete slab)"
+]
+],
 "strokes": [
 "M 275 632 Q 347 750 361 764 Q 370 774 365 787 Q 361 799 335 820 Q 310 836 292 836 Q 274 835 282 814 Q 297 780 284 752 Q 214 586 46 389 Q 37 379 35 373 Q 31 363 45 365 Q 106 383 260 609 L 275 632 Z",
 "M 260 609 Q 296 596 368 618 Q 401 628 436 640 Q 455 647 458 650 Q 465 659 460 666 Q 453 676 425 679 Q 404 680 329 648 Q 302 641 275 632 C 247 623 232 618 260 609 Z",

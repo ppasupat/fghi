@@ -10,16 +10,35 @@
 "冻",
 5,
 "dòng",
-"to freeze"
+"to freeze; to feel very cold; aspic or jelly"
 ],
 [
 "冻结",
 6,
-"dòngjié",
-"(loan, wage, price) freeze"
+"dòng jié",
+"to freeze (water etc); (fig.) to freeze (assets, prices etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"冷冻",
+6.74,
+"lěng dòng",
+"to freeze; to deep-freeze"
+],
+[
+"冻死",
+5.9,
+"dòng sǐ",
+"to freeze to death; to die off in winter"
+],
+[
+"果冻",
+5.31,
+"guǒ dòng",
+"gelatin dessert"
+]
+],
 "strokes": [
 "M 215 636 Q 243 611 273 582 Q 289 567 306 569 Q 319 569 324 585 Q 330 601 319 635 Q 312 657 279 671 Q 200 701 184 691 Q 178 687 180 672 Q 184 659 215 636 Z",
 "M 320 449 Q 224 311 160 236 Q 147 221 132 225 Q 116 229 109 208 Q 105 180 120 157 Q 138 126 154 116 Q 167 106 179 109 Q 189 113 193 124 Q 206 173 326 418 Q 336 439 336 448 Q 335 467 320 449 Z",

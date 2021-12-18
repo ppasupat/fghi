@@ -9,51 +9,69 @@
 [
 "躲藏",
 5,
-"duǒcáng",
-"hide oneself; take cover"
+"duǒ cáng",
+"to conceal oneself; to go into hiding; to take cover"
 ],
 [
 "收藏",
 6,
-"shōucáng",
-"collect; keep"
+"shōu cáng",
+"to hoard; to collect; collection; to bookmark (Internet)"
 ],
 [
 "蕴藏",
 6,
-"yùncáng",
-"hold in store; contain untapped quantities"
+"yùn cáng",
+"to hold in store; to contain (untapped reserves etc)"
 ]
 ],
 "extraWords": [
 [
+"隐藏",
+32.79,
+"yǐn cáng",
+"to hide; to conceal; to mask; to shelter; to harbor (i.e. keep sth hidden); to hide oneself; to lie low; to nestle; hidden; implicit; private; covert; recessed (lighting)"
+],
+[
 "西藏",
 29.23,
-"Xi1 zang4",
-"Tibet; Xizang or Tibetan autonomous region 西藏自治區|西藏自治区"
+"Xī zàng",
+"Tibet; Xizang or Tibet Autonomous Region 西藏自治區|西藏自治区[Xi1 zang4 Zi4 zhi4 qu1]"
+],
+[
+"宝藏",
+9.75,
+"bǎo zàng",
+"precious mineral deposits; hidden treasure; (fig.) treasure; (Buddhism) the treasure of Buddha's law"
 ],
 [
 "青藏",
 7.57,
-"Qing1 Zang4",
+"Qīng Zàng",
 "Qinghai and Tibet"
 ],
 [
 "珍藏",
 7.33,
-"zhen1 cang2",
+"zhēn cáng",
 "collection; to collect (valuables)"
 ],
 [
 "藏身",
 6.98,
-"cang2 shen1",
+"cáng shēn",
 "to hide; to go into hiding; to take refuge"
+],
+[
+"储藏室",
+6.44,
+"chǔ cáng shì",
+"storeroom; CL:間|间[jian1]"
 ],
 [
 "藏族",
 5.7,
-"Zang4 zu2",
+"Zàng zú",
 "Tibetan ethnic group"
 ]
 ],

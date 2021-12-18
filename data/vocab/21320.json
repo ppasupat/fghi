@@ -7,47 +7,59 @@
 },
 "words": [
 [
-"上午",
-1,
-"shàngwǔ",
-"late morning (before noon)"
-],
-[
 "下午",
 1,
-"xiàwǔ",
-"afternoon"
+"xià wǔ",
+"afternoon; CL:個|个[ge4]; p.m."
 ],
 [
 "中午",
 1,
-"zhōngwǔ",
-"noon; midday"
+"zhōng wǔ",
+"noon; midday; CL:個|个[ge4]"
+],
+[
+"上午",
+1,
+"shàng wǔ",
+"morning; CL:個|个[ge4]"
 ],
 [
 "端午节",
 6,
-"Duānwǔ Jié",
-"Dragon Boat Festival"
+"Duān wǔ jié",
+"Dragon Boat Festival (5th day of the 5th lunar month)"
 ]
 ],
 "extraWords": [
 [
 "午餐",
 42.3,
-"wu3 can1",
+"wǔ cān",
 "lunch; luncheon; CL:份[fen4],頓|顿[dun4],次[ci4]"
+],
+[
+"午饭",
+42.27,
+"wǔ fàn",
+"lunch; CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
 ],
 [
 "午夜",
 21.76,
-"wu3 ye4",
+"wǔ yè",
 "midnight"
+],
+[
+"午后",
+8.33,
+"wǔ hòu",
+"afternoon"
 ],
 [
 "下午茶",
 5.7,
-"xia4 wu3 cha2",
+"xià wǔ chá",
 "afternoon tea (light afternoon meal, typically pastries with tea or coffee)"
 ]
 ],

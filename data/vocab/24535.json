@@ -9,41 +9,72 @@
 [
 "杂志",
 4,
-"zázhì",
-"magazine"
+"zá zhì",
+"magazine; CL:本[ben3],份[fen4],期[qi1]"
 ],
 [
 "标志",
 5,
-"biāozhì",
-"sign; mark; signal; symbol"
+"biāo zhì",
+"sign; mark; symbol; logo; to symbolize; to indicate; to mark"
 ],
 [
 "志愿者",
 5,
-"zhìyuànzhě",
+"zhì yuàn zhě",
 "volunteer"
 ],
 [
 "同志",
 6,
-"tóngzhì",
-"comrade; gay (slang)"
+"tóng zhì",
+"comrade; (slang) homosexual; CL:個|个[ge4]"
 ],
 [
 "意志",
 6,
-"yìzhì",
-"will; willpower; determination"
+"yì zhì",
+"will; willpower; determination; CL:個|个[ge4]"
 ],
 [
 "志气",
 6,
-"zhìqì",
+"zhì qì",
 "ambition; resolve; backbone; drive; spirit"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"志愿",
+21.15,
+"zhì yuàn",
+"aspiration; ambition; to volunteer"
+],
+[
+"斗志",
+6.72,
+"dòu zhì",
+"will to fight; fighting spirit"
+],
+[
+"励志",
+6.49,
+"lì zhì",
+"to encourage; encouragement"
+],
+[
+"日志",
+6.38,
+"rì zhì",
+"journal; log (computing)"
+],
+[
+"标志性",
+5.62,
+"biāo zhì xìng",
+"iconic"
+]
+],
 "strokes": [
 "M 539 590 Q 615 603 695 615 Q 773 630 785 640 Q 795 649 791 658 Q 784 673 751 682 Q 717 691 682 679 Q 613 658 542 641 L 486 630 Q 380 611 261 605 Q 219 601 248 580 Q 291 553 375 565 Q 429 574 487 582 L 539 590 Z",
 "M 531 449 Q 535 522 539 590 L 542 641 Q 545 710 561 781 Q 564 793 543 807 Q 506 826 481 831 Q 465 834 456 825 Q 449 818 457 802 Q 479 771 480 748 Q 484 691 486 630 L 487 582 Q 487 515 486 441 C 486 411 529 419 531 449 Z",

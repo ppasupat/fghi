@@ -10,140 +10,278 @@
 "多",
 1,
 "duō",
-"many"
+"many; much; often; a lot of; numerous; more; in excess; how (to what extent); multi-; Taiwan pr. [duo2] when it means \"how\""
 ],
 [
 "多少",
 1,
-"duōshao",
-"how much?; how many?"
+"duō shǎo",
+"number; amount; somewhat"
+],
+[
+"多少",
+1,
+"duō shao",
+"how much?; how many?; (phone number, student ID etc) what number?"
 ],
 [
 "多么",
 3,
-"duōme",
-"how (wonderful, etc.); what (a great idea)"
+"duō me",
+"how (wonderful etc); what (a great idea etc); however (difficult it may be etc); (in interrogative sentences) how (much etc); to what extent"
 ],
 [
 "差不多",
 4,
-"chàbuduō",
-"almost; about the same"
+"chà bu duō",
+"almost; nearly; more or less; about the same; good enough; not bad"
 ],
 [
 "许多",
 4,
-"xǔduō",
-"many; a lot; much"
+"xǔ duō",
+"many; a lot of; much"
 ],
 [
 "多亏",
 5,
-"duōkuī",
+"duō kuī",
 "thanks to; luckily"
 ],
 [
 "多余",
 5,
-"duōyú",
-"unnecessary; superfluous"
+"duō yú",
+"superfluous; unnecessary; surplus"
 ],
 [
 "多元化",
 6,
-"duōyuánhuà",
-"diversify; diversification"
+"duō yuán huà",
+"diversification; pluralism; to diversify"
 ],
 [
 "见多识广",
 6,
-"jiànduōshíguǎng",
-"experienced and knowledgeable"
+"jiàn duō shí guǎng",
+"experienced and knowledgeable (idiom)"
 ]
 ],
 "extraWords": [
 [
 "多久",
 130.92,
-"duo1 jiu3",
-"how long?"
+"duō jiǔ",
+"(of time) how long?; (not) a long time"
+],
+[
+"多谢",
+78.73,
+"duō xiè",
+"many thanks; thanks a lot"
 ],
 [
 "好多",
 78.5,
-"hao3 duo1",
+"hǎo duō",
 "many; quite a lot; much better"
 ],
 [
 "多次",
 72.15,
-"duo1 ci4",
+"duō cì",
 "many times; repeatedly"
+],
+[
+"众多",
+71.65,
+"zhòng duō",
+"numerous"
+],
+[
+"多年",
+65.16,
+"duō nián",
+"many years; for many years; longstanding"
 ],
 [
 "最多",
 62.3,
-"zui4 duo1",
+"zuì duō",
 "at most; maximum; greatest (amount); maximal"
+],
+[
+"多种",
+62.12,
+"duō zhǒng",
+"many kinds of; multiple; diverse; multi-"
+],
+[
+"大多数",
+55.6,
+"dà duō shù",
+"(great) majority"
+],
+[
+"多数",
+41.77,
+"duō shù",
+"majority; most"
 ],
 [
 "大多",
 33.49,
-"da4 duo1",
+"dà duō",
 "for the most part; many; most; the greater part; mostly"
+],
+[
+"多个",
+29.33,
+"duō ge",
+"many; multiple; multi- (faceted, ethnic etc)"
+],
+[
+"过多",
+28.71,
+"guò duō",
+"too many; excessive"
 ],
 [
 "增多",
 28.43,
-"zeng1 duo1",
+"zēng duō",
 "to increase; to grow in number"
+],
+[
+"诸多",
+27.9,
+"zhū duō",
+"(used for abstract things) a good deal, a lot of"
+],
+[
+"多云",
+22.63,
+"duō yún",
+"cloudy (meteorology)"
+],
+[
+"绝大多数",
+21.65,
+"jué dà duō shù",
+"absolute majority; overwhelming majority"
+],
+[
+"多年来",
+19.09,
+"duō nián lái",
+"for the past many years"
+],
+[
+"多媒体",
+15.38,
+"duō méi tǐ",
+"multimedia"
 ],
 [
 "多方",
 12.71,
-"duo1 fang1",
+"duō fāng",
 "in many ways; from all sides"
 ],
 [
 "多方面",
 12.5,
-"duo1 fang1 mian4",
+"duō fāng miàn",
 "many-sided; in many aspects"
 ],
 [
 "多哈",
 11.78,
-"Duo1 ha1",
+"Duō hā",
 "Doha, capital of Qatar"
+],
+[
+"多头",
+11.09,
+"duō tóu",
+"many-headed; many-layered (authority); devolved (as opposed to centralized); pluralistic; (as classifier) number of animals; long term (finance); long (investment)"
 ],
 [
 "多功能",
 10.07,
-"duo1 gong1 neng2",
+"duō gōng néng",
 "multi-functional; multi-function"
+],
+[
+"多达",
+10.02,
+"duō dá",
+"up to; no less than; as much as"
+],
+[
+"维多利亚",
+9.42,
+"Wéi duō lì yà",
+"Victoria (name); Victoria, capital of the Seychelles"
+],
+[
+"多样化",
+8.51,
+"duō yàng huà",
+"diversification; to diversify"
 ],
 [
 "多重",
 8.31,
-"duo1 chong2",
+"duō chóng",
 "multi- (faceted, cultural, ethnic etc)"
+],
+[
+"丰富多彩",
+7.45,
+"fēng fù duō cǎi",
+"richly colorful"
+],
+[
+"多样",
+7.28,
+"duō yàng",
+"diverse; diversity; manifold"
 ],
 [
 "多半",
 7.07,
-"duo1 ban4",
+"duō bàn",
 "most; mostly; most likely"
+],
+[
+"多样性",
+6.64,
+"duō yàng xìng",
+"variegation; diversity"
+],
+[
+"多变",
+6.46,
+"duō biàn",
+"fickle; multi-variate (math.)"
 ],
 [
 "居多",
 6.13,
-"ju1 duo1",
+"jū duō",
 "to be in the majority"
+],
+[
+"多于",
+5.88,
+"duō yú",
+"more than; greater than"
 ],
 [
 "多多",
 5.16,
-"duo1 duo1",
+"duō duō",
 "many; much; a lot; lots and lots; more; even more"
 ]
 ],

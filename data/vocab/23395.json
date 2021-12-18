@@ -9,81 +9,87 @@
 [
 "季节",
 3,
-"jìjié",
-"season; time; period"
-],
-[
-"淡季",
-6,
-"dànjì",
-"off season; slow business season"
+"jì jié",
+"time; season; period; CL:個|个[ge4]"
 ],
 [
 "季度",
 6,
-"jìdù",
-"(financial) quarter; period of three months"
+"jì dù",
+"quarter of a year; season (sports)"
+],
+[
+"淡季",
+6,
+"dàn jì",
+"off season; slow business season; see also 旺季[wang4 ji4]"
 ],
 [
 "季军",
 6,
-"jìjūn",
+"jì jūn",
 "third in a race; bronze medalist"
 ]
 ],
 "extraWords": [
 [
+"赛季",
+56.81,
+"sài jì",
+"season (sports)"
+],
+[
 "冬季",
 36.72,
-"dong1 ji4",
+"dōng jì",
 "winter"
 ],
 [
 "夏季",
 18.65,
-"xia4 ji4",
+"xià jì",
 "summer"
 ],
 [
 "秋季",
 12.17,
-"qiu1 ji4",
+"qiū jì",
 "autumn; fall"
 ],
 [
 "春季",
 11.53,
-"chun1 ji4",
+"chūn jì",
 "springtime"
 ],
 [
 "第一季度",
 10.33,
-"di4 yi1 ji4 du4",
+"dì yī jì dù",
 "first quarter (of financial year)"
 ],
 [
 "四季",
 8.36,
-"si4 ji4",
+"sì jì",
 "four seasons, namely: spring 春[chun1], summer 夏[xia4], autumn 秋[qiu1] and winter 冬[dong1]"
 ],
 [
 "第三季度",
 7.83,
-"di4 san1 ji4 du4",
+"dì sān jì dù",
 "third quarter (of financial year)"
 ],
 [
 "旺季",
 7.43,
-"wang4 ji4",
+"wàng jì",
 "busy season; peak period; see also 淡季[dan4 ji4]"
 ],
 [
 "第二季度",
 5.86,
-"di4 er4 ji4 du4",
+"dì èr jì dù",
 "second quarter (of financial year)"
 ]
 ],

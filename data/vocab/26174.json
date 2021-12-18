@@ -7,37 +7,80 @@
 },
 "words": [
 [
-"明显",
-5,
-"míngxiǎn",
-"clear; obvious"
-],
-[
-"显得",
-5,
-"xiǎnde",
-"appear; seem; to look"
-],
-[
 "显然",
 5,
-"xiǎnrán",
-"clear; evidently; obviously"
+"xiǎn rán",
+"clear; evident; obvious(ly)"
+],
+[
+"明显",
+5,
+"míng xiǎn",
+"clear; distinct; obvious"
 ],
 [
 "显示",
 5,
-"xiǎnshì",
-"display, illustrate, to show"
+"xiǎn shì",
+"to show; to illustrate; to display; to demonstrate"
+],
+[
+"显得",
+5,
+"xiǎn de",
+"to seem; to look; to appear"
 ],
 [
 "显著",
 6,
-"xiǎnzhù",
-"notable; marked; outstanding; remarkable"
+"xiǎn zhù",
+"outstanding; notable; remarkable; statistically significant"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"显示器",
+14.35,
+"xiǎn shì qì",
+"monitor (computer)"
+],
+[
+"显现",
+14.19,
+"xiǎn xiàn",
+"appearance; to appear"
+],
+[
+"显示屏",
+9.0,
+"xiǎn shì píng",
+"display screen"
+],
+[
+"显露",
+7.71,
+"xiǎn lù",
+"to become visible; to reveal"
+],
+[
+"显而易见",
+7.18,
+"xiǎn ér yì jiàn",
+"clearly and easy to see (idiom); obviously; clearly; it goes without saying"
+],
+[
+"彰显",
+6.5,
+"zhāng xiǎn",
+"to put on display (sth abstract); to draw attention to; conspicuous"
+],
+[
+"显出",
+5.95,
+"xiǎn chū",
+"to express; to exhibit"
+]
+],
 "strokes": [
 "M 361 734 Q 348 741 306 749 Q 293 753 289 747 Q 282 740 292 722 Q 326 649 346 532 Q 350 496 370 473 Q 389 448 396 466 Q 399 476 399 488 L 399 515 Q 398 533 385 593 L 381 618 Q 371 676 368 701 C 364 731 364 733 361 734 Z",
 "M 609 513 Q 625 489 641 481 Q 651 472 667 494 Q 683 519 715 653 Q 725 684 749 710 Q 762 722 752 736 Q 736 754 693 781 Q 678 790 602 774 Q 562 774 361 734 C 332 728 339 694 368 701 Q 453 723 607 742 Q 641 746 653 735 Q 666 719 662 704 Q 635 560 617 545 C 603 521 603 521 609 513 Z",

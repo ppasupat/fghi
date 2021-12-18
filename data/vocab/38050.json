@@ -9,17 +9,60 @@
 [
 "弹钢琴",
 4,
-"tán gāngqín",
-"play the piano"
+"tan2 gang1 qin2",
+"to play the piano"
 ],
 [
 "钢铁",
 5,
-"gāngtiě",
+"gāng tiě",
 "steel"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"钢琴",
+21.94,
+"gāng qín",
+"piano; CL:架[jia4],臺|台[tai2]"
+],
+[
+"钢材",
+11.15,
+"gāng cái",
+"steel (as raw material); steel sheets, bars, tubes, ingots, wire etc"
+],
+[
+"宝钢",
+8.78,
+"Bǎo gāng",
+"Baosteel, Chinese steel maker formed in a 1998 merger, then merged to form Baowu 寶武鋼鐵|宝武钢铁[Bao3 wu3 Gang1 tie3] in 2016"
+],
+[
+"钢筋",
+8.12,
+"gāng jīn",
+"steel reinforcing bar"
+],
+[
+"不锈钢",
+6.73,
+"bù xiù gāng",
+"stainless steel"
+],
+[
+"不锈钢",
+6.73,
+"bù xiù gāng",
+"stainless steel"
+],
+[
+"钢板",
+5.76,
+"gāng bǎn",
+"steel plate"
+]
+],
 "strokes": [
 "M 292 626 Q 358 737 378 755 Q 388 765 383 779 Q 379 792 350 816 Q 322 834 303 834 Q 284 833 293 809 Q 306 778 295 749 Q 256 656 199 570 Q 144 486 67 395 Q 57 385 54 379 Q 51 367 65 370 Q 116 376 278 605 L 292 626 Z",
 "M 278 605 Q 309 590 382 603 Q 409 609 438 616 Q 454 620 456 622 Q 463 629 459 637 Q 452 647 425 653 Q 398 657 338 635 L 292 626 C 263 620 250 617 278 605 Z",

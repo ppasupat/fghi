@@ -9,35 +9,60 @@
 [
 "启发",
 5,
-"qǐfā",
-"enlighten; inspire"
-],
-[
-"启程",
-6,
-"qǐchéng",
-"set out on a journey"
-],
-[
-"启蒙",
-6,
-"qǐméng",
-"enlighten; enlightenment； instruct the young; to initiate"
+"qǐ fā",
+"to enlighten; to explain (a text etc); to stimulate (a mental attitude); enlightenment; revelation; motivation"
 ],
 [
 "启示",
 6,
-"qǐshì",
-"enlightenment; revelation"
+"qǐ shì",
+"to reveal; to enlighten; enlightenment; revelation; illumination; moral (of a story etc); lesson"
+],
+[
+"启程",
+6,
+"qǐ chéng",
+"to set out on a journey"
 ],
 [
 "启事",
 6,
-"qǐshì",
-"announcement; public information (usually posted on a billboard)"
+"qǐ shì",
+"announcement (written, on billboard, letter, newspaper or website); to post information; a notice"
+],
+[
+"启蒙",
+6,
+"qǐ méng",
+"variant of 啟蒙|启蒙[qi3 meng2]; to instruct the young"
+],
+[
+"启蒙",
+6,
+"qǐ méng",
+"to instruct the young; to initiate; to awake sb from ignorance; to free sb from prejudice or superstition; primer; enlightened; the Enlightenment; Western learning from the late Qing dynasty"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"启动",
+76.52,
+"qǐ dòng",
+"to start (a machine); (fig.) to set in motion; to launch (an operation); to activate (a plan)"
+],
+[
+"开启",
+18.95,
+"kāi qǐ",
+"to open; to start; (computing) to enable"
+],
+[
+"启用",
+7.92,
+"qǐ yòng",
+"to start using; (computing) to enable (a feature)"
+]
+],
 "strokes": [
 "M 513 795 Q 544 773 578 746 Q 593 734 610 736 Q 620 737 625 752 Q 628 768 616 798 Q 601 832 503 844 Q 487 847 480 843 Q 476 839 478 825 Q 482 815 513 795 Z",
 "M 711 509 Q 741 603 775 629 Q 793 648 777 666 Q 761 679 706 705 Q 687 712 665 704 Q 557 662 390 637 C 360 632 362 598 392 602 Q 408 602 640 652 Q 667 659 678 648 Q 693 630 664 525 C 656 496 702 481 711 509 Z",

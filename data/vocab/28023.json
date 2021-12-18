@@ -9,37 +9,37 @@
 [
 "海洋",
 4,
-"hǎiyáng",
-"ocean"
+"hǎi yáng",
+"ocean; CL:個|个[ge4]"
 ],
 [
 "海关",
 5,
-"hǎiguān",
-"customs (i.e. border inspection)"
+"hǎi guān",
+"customs (i.e. border crossing inspection); CL:個|个[ge4]"
 ],
 [
 "海鲜",
 5,
-"hǎixiān",
+"hǎi xiān",
 "seafood"
-],
-[
-"海拔",
-6,
-"hǎibá",
-"height above sea level; elevation"
 ],
 [
 "海滨",
 6,
-"hǎibīn",
+"hǎi bīn",
 "shore; seaside"
+],
+[
+"海拔",
+6,
+"hǎi bá",
+"height above sea level; elevation"
 ],
 [
 "沿海",
 6,
-"yánhǎi",
+"yán hǎi",
 "coastal"
 ]
 ],
@@ -47,139 +47,271 @@
 [
 "上海",
 364.48,
-"Shang4 hai3",
+"Shàng hǎi",
 "Shanghai municipality, central east China, abbr. to 滬|沪[Hu4]"
+],
+[
+"海滩",
+33.06,
+"hǎi tān",
+"beach; CL:片[pian4]"
+],
+[
+"海军",
+30.97,
+"hǎi jūn",
+"navy"
 ],
 [
 "上海市",
 29.12,
-"Shang4 hai3 shi4",
+"Shàng hǎi shì",
 "Shanghai municipality in southeast China, abbr. 滬|沪"
+],
+[
+"海盗",
+28.05,
+"hǎi dào",
+"pirate"
 ],
 [
 "海南",
 23.93,
-"Hai3 nan2",
-"Hainan Province, in the South China Sea, short name 瓊|琼[Qiong2], capital Haikou 海口; Hainan Island; Hainan District of Wuhai City 烏海市|乌海市[Wu1 hai3 Shi4], Inner Mongolia; Hainan Tibetan Autonomous Prefecture 海南藏族自治州[Hai3 nan2 Zang4 zu2 Zi4 zhi4 zhou1], Qinghai"
+"Hǎi nán",
+"Hainan Province, in the South China Sea, short name 瓊|琼[Qiong2], capital Haikou 海口[Hai3 kou3]; Hainan Island; Hainan District of Wuhai City 烏海市|乌海市[Wu1 hai3 Shi4], Inner Mongolia; Hainan Tibetan Autonomous Prefecture 海南藏族自治州[Hai3 nan2 Zang4 zu2 Zi4 zhi4 zhou1], Qinghai"
 ],
 [
 "海岸",
 21.67,
-"hai3 an4",
+"hǎi àn",
 "coastal; seacoast"
 ],
 [
 "海上",
 21.09,
-"hai3 shang4",
+"hǎi shàng",
 "maritime"
 ],
 [
 "大海",
 14.64,
-"da4 hai3",
+"dà hǎi",
 "sea; ocean"
 ],
 [
 "海域",
 14.27,
-"hai3 yu4",
+"hǎi yù",
 "sea area; territorial waters; maritime space"
+],
+[
+"海尔",
+13.92,
+"Hǎi ěr",
+"Haier (PRC household appliance brand); Hale (name)"
+],
+[
+"海边",
+12.97,
+"hǎi biān",
+"coast; seaside; seashore; beach"
+],
+[
+"脑海",
+12.97,
+"nǎo hǎi",
+"the mind; the brain"
+],
+[
+"海峡",
+12.59,
+"hǎi xiá",
+"channel; strait"
 ],
 [
 "珠海",
 12.31,
-"Zhu1 hai3",
-"Zhuhai prefecture level city in Guangdong province 廣東省|广东省[Guang3 dong1 sheng3] in south China"
+"Zhū hǎi",
+"Zhuhai prefecture-level city in Guangdong Province 廣東省|广东省[Guang3 dong1 Sheng3] in south China"
+],
+[
+"海伦",
+11.51,
+"Hǎi lún",
+"Hailun county level city in Suihua 綏化|绥化, Heilongjiang; Helen or Hélène (name)"
 ],
 [
 "海洛因",
 11.45,
-"hai3 luo4 yin1",
+"hǎi luò yīn",
 "heroin (loanword)"
 ],
 [
 "海口",
 11.35,
-"Hai3 kou3",
+"Hǎi kǒu",
 "Haikou prefecture-level city and capital of Hainan Province 海南省[Hai3 nan2 Sheng3]"
 ],
 [
 "海口",
 11.35,
-"hai3 kou3",
+"hǎi kǒu",
 "estuary; coastal inlet; river mouth; seaport; see also 誇海口|夸海口[kua1 hai3 kou3]"
+],
+[
+"海报",
+10.96,
+"hǎi bào",
+"poster; playbill; notice"
 ],
 [
 "海水",
 10.91,
-"hai3 shui3",
+"hǎi shuǐ",
 "seawater"
 ],
 [
 "海底",
 10.7,
-"hai3 di3",
+"hǎi dǐ",
 "seabed; seafloor; bottom of the ocean"
 ],
 [
 "青海",
 10.44,
-"Qing1 hai3",
+"Qīng hǎi",
 "Qinghai province (Tsinghai) in west China, abbr. 青, capital Xining 西寧|西宁"
+],
+[
+"海啸",
+10.28,
+"hǎi xiào",
+"tsunami"
+],
+[
+"东海",
+10.12,
+"Dōng Hǎi",
+"East China Sea; East Sea (Chinese mythology and ancient geography)"
 ],
 [
 "南海",
 9.68,
-"Nan2 Hai3",
+"Nán Hǎi",
 "South China Sea"
+],
+[
+"滨海",
+9.13,
+"Bīn hǎi",
+"Binhai (place name); Binhai New District, subprovincial district of Tianjin; Binhai county in Yancheng 鹽城|盐城[Yan2 cheng2], Jiangsu; fictitious city Binhai in political satire; Primorsky, a territory in the far east of Russia"
+],
+[
+"滨海",
+9.13,
+"bīn hǎi",
+"coastal; bordering the sea"
+],
+[
+"海选",
+8.41,
+"hǎi xuǎn",
+"(in elections for village committees in the PRC since the 1990s) unrestricted nomination, a type of election where 1. everyone in the community is eligible to nominate somebody 2. voting is done by writing the name of one's nominee on the ballot, and 3. one's nominee can be anyone in the community (Nominees who receive the highest number of votes may be thereby elected or, more often, presented as the candidates in a further round of voting.); (in other contexts) selection of the best contender in a process open to all comers; (in the entertainment industry) open audition"
+],
+[
+"海内外",
+8.13,
+"hǎi nèi wài",
+"domestic and international; at home and abroad"
+],
+[
+"刘海",
+7.96,
+"liú hǎi",
+"bangs; fringe (hair)"
+],
+[
+"海湾",
+7.45,
+"Hǎi wān",
+"(Persian) Gulf"
+],
+[
+"海湾",
+7.45,
+"hǎi wān",
+"bay; gulf"
 ],
 [
 "海里",
 6.83,
-"hai3 li3",
+"hǎi lǐ",
 "nautical mile"
+],
+[
+"上海证券交易所",
+6.75,
+"Shàng hǎi Zhèng quàn Jiāo yì suǒ",
+"Shanghai Stock Exchange (SSE)"
 ],
 [
 "海面",
 6.46,
-"hai3 mian4",
+"hǎi miàn",
 "sea level; sea surface"
 ],
 [
 "海豚",
 6.2,
-"hai3 tun2",
+"hǎi tún",
 "dolphin"
+],
+[
+"海绵",
+5.78,
+"hǎi mián",
+"sponge (zoology); sponge (piece of absorbent material, either natural or made from plastic etc); foam rubber"
 ],
 [
 "北海",
 5.72,
-"Bei3 hai3",
+"Běi hǎi",
 "Beihai, park in Beijing to the northwest of the Forbidden City; the North Sea (Europe); Beihai prefecture-level city and seaport in Guangxi; Bohai Sea; Lake Baikal"
+],
+[
+"海贼",
+5.66,
+"hǎi zéi",
+"pirate"
 ],
 [
 "海外",
 5.4,
-"hai3 wai4",
+"hǎi wài",
 "overseas; abroad"
 ],
 [
 "航海",
 5.32,
-"hang2 hai3",
-"sailing; navigation; voyage by sea"
+"háng hǎi",
+"to sail the seas; maritime navigation; voyage"
 ],
 [
 "海南省",
 5.11,
-"Hai3 nan2 Sheng3",
-"Hainan Province, in South China Sea, abbr. 瓊|琼[Qiong2], capital Haikou 海口"
+"Hǎi nán Shěng",
+"Hainan Province, in South China Sea, abbr. 瓊|琼[Qiong2], capital Haikou 海口[Hai3 kou3]"
+],
+[
+"海淀区",
+5.02,
+"Hǎi diàn qū",
+"Haidian inner district of northeast Beijing, includes Peking University, Tsinghua University 清華大學|清华大学[Qing1 hua2 da4 xue2] and Zhongguancun 中關村|中关村[Zhong1 guan1 cun1]"
 ],
 [
 "海狸",
 5.01,
-"hai3 li2",
+"hǎi lí",
 "beaver"
 ]
 ],

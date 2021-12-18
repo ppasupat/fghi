@@ -9,35 +9,72 @@
 [
 "补充",
 5,
-"bǔchōng",
-"replenish; to supplement; to complement"
+"bǔ chōng",
+"to replenish; to supplement; to complement; additional; supplementary; CL:個|个[ge4]"
 ],
 [
 "补偿",
 6,
-"bǔcháng",
-"compensation; make up"
-],
-[
-"补救",
-6,
-"bǔjiù",
-"remedy; repair"
-],
-[
-"补贴",
-6,
-"bǔtiē",
-"subsidy; allowance"
+"bǔ cháng",
+"to compensate; to make up"
 ],
 [
 "弥补",
 6,
-"míbǔ",
-"make up for a deficiency; remedy; offset"
+"mí bǔ",
+"to complement; to make up for a deficiency"
+],
+[
+"补救",
+6,
+"bǔ jiù",
+"to remedy"
+],
+[
+"补贴",
+6,
+"bǔ tiē",
+"to subsidize; subsidy; allowance; to supplement (one's salary etc); benefit"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"替补",
+15.19,
+"tì bǔ",
+"to replace (a damaged component with a new one, an injured player with a substitute player, full-time workers with casual workers etc); a substitute; a replacement"
+],
+[
+"补助",
+13.91,
+"bǔ zhù",
+"to subsidize; subsidy; allowance"
+],
+[
+"互补",
+8.53,
+"hù bǔ",
+"complementary; to complement each other"
+],
+[
+"填补",
+8.11,
+"tián bǔ",
+"to fill a gap; to fill in a blank (on a form); to overcome a deficiency"
+],
+[
+"修补",
+6.66,
+"xiū bǔ",
+"to mend"
+],
+[
+"补给",
+5.87,
+"bǔ jǐ",
+"supply; replenishment; to replenish"
+]
+],
 "strokes": [
 "M 358 757 Q 389 735 423 706 Q 439 693 457 696 Q 467 697 472 712 Q 476 728 463 760 Q 456 782 420 794 Q 336 815 324 807 Q 318 803 321 789 Q 327 776 358 757 Z",
 "M 315 389 Q 349 431 386 484 Q 420 536 468 570 Q 484 583 471 599 Q 450 615 419 625 Q 395 634 378 621 Q 288 555 137 542 Q 124 543 122 535 Q 119 525 134 515 Q 174 490 191 494 Q 212 498 342 561 Q 360 568 365 561 Q 371 552 357 530 Q 281 389 109 233 Q 93 221 96 217 Q 99 214 113 219 Q 200 261 289 358 L 315 389 Z",

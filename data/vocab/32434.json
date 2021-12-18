@@ -9,17 +9,30 @@
 [
 "提纲",
 5,
-"tígāng",
-"outline; the key point"
+"tí gāng",
+"outline; synopsis; notes"
 ],
 [
 "纲领",
 6,
-"gānglǐng",
-"program; guiding principle"
+"gāng lǐng",
+"program (i.e. plan of action); guiding principle"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"纲要",
+11.34,
+"gāng yào",
+"outline; essential points"
+],
+[
+"大纲",
+5.15,
+"dà gāng",
+"synopsis; outline; program; leading principles"
+]
+],
 "strokes": [
 "M 295 490 Q 249 490 208 491 Q 171 491 190 513 Q 260 634 329 723 Q 344 741 341 748 Q 338 764 298 795 Q 282 810 262 805 Q 250 802 257 786 Q 275 746 184 576 Q 165 537 123 500 Q 104 485 105 473 Q 109 454 124 435 Q 134 425 148 431 Q 172 444 252 461 Q 265 462 276 463 C 306 466 325 490 295 490 Z",
 "M 276 463 Q 183 340 169 333 Q 156 323 159 310 Q 160 297 187 279 Q 197 267 212 280 Q 275 331 371 370 Q 390 377 391 385 Q 392 395 374 390 Q 319 377 251 352 Q 232 343 243 361 Q 283 419 378 535 Q 406 572 430 593 Q 442 603 436 613 Q 426 632 392 650 Q 376 659 367 656 Q 357 653 360 638 Q 363 595 302 500 Q 298 496 295 490 L 276 463 Z",

@@ -7,54 +7,108 @@
 },
 "words": [
 [
-"旅游",
-2,
-"lǚyóu",
-"trip; journey; tour"
-],
-[
 "游泳",
 2,
-"yóuyǒng",
-"to swim"
+"yóu yǒng",
+"swimming; to swim"
+],
+[
+"旅游",
+2,
+"lu:3 yóu",
+"trip; journey; tourism; travel; tour; to travel"
 ],
 [
 "游戏",
 3,
-"yóuxì",
-"game; play; recreation"
+"yóu xì",
+"game; CL:場|场[chang3]; to play"
 ],
 [
 "导游",
 4,
-"dǎoyóu",
-"tour guide"
+"dǎo yóu",
+"tour guide; guidebook; to conduct a tour"
 ],
 [
 "游览",
 5,
-"yóulǎn",
-"go sight-seeing; tour"
+"yóu lǎn",
+"to go sightseeing; to tour; to visit; CL:次[ci4]"
 ],
 [
 "上游",
 6,
-"shàngyóu",
-"upper reaches (of a river); advanced position"
+"shàng yóu",
+"upper reaches (of a river); upper level; upper echelon; upstream"
 ]
 ],
 "extraWords": [
 [
+"游客",
+54.6,
+"yóu kè",
+"traveler; tourist; (online gaming) guest player"
+],
+[
 "游泳池",
 16.07,
-"you2 yong3 chi2",
+"yóu yǒng chí",
 "swimming pool; CL:場|场[chang3]"
+],
+[
+"游行",
+15.44,
+"yóu xíng",
+"march; parade; demonstration"
+],
+[
+"旅游业",
+11.76,
+"lu:3 yóu yè",
+"tourism industry"
+],
+[
+"游艇",
+10.91,
+"yóu tǐng",
+"barge; yacht; CL:隻|只[zhi1]"
 ],
 [
 "下游",
 10.8,
-"xia4 you2",
+"xià yóu",
 "lower reaches (of a river); lower level; lower echelon; downstream"
+],
+[
+"游人",
+7.23,
+"yóu rén",
+"a tourist"
+],
+[
+"游离",
+7.0,
+"yóu lí",
+"to disassociate; to drift away; to leave (a collective); free (component)"
+],
+[
+"游荡",
+6.71,
+"yóu dàng",
+"to wander; to roam about; to loaf about; to be idle"
+],
+[
+"出游",
+6.6,
+"chū yóu",
+"to go on a tour; to have an outing"
+],
+[
+"游玩",
+6.19,
+"yóu wán",
+"to amuse oneself; to have fun; to go sightseeing; to take a stroll"
 ]
 ],
 "strokes": [

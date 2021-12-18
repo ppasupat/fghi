@@ -9,17 +9,54 @@
 [
 "违反",
 5,
-"wéifǎn",
-"violate (a law)"
+"wéi fǎn",
+"to violate (a law)"
 ],
 [
 "违背",
 6,
-"wéibèi",
-"violate; go against"
+"wéi bèi",
+"to go against; to be contrary to; to violate"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"违法",
+69.46,
+"wéi fǎ",
+"illegal; to break the law"
+],
+[
+"违规",
+31.72,
+"wéi guī",
+"to violate (rules); irregular; illegal; corrupt"
+],
+[
+"违章",
+9.64,
+"wéi zhāng",
+"to break the rules; to violate regulations"
+],
+[
+"违纪",
+7.26,
+"wéi jì",
+"lack of discipline; to break a rule; to violate discipline; to breach a principle"
+],
+[
+"久违",
+6.72,
+"jiǔ wéi",
+"(haven't done sth) for a long time; a long time since we last met"
+],
+[
+"违约",
+6.66,
+"wéi yuē",
+"to break a promise; to violate an agreement; to default (on a loan or contract)"
+]
+],
 "strokes": [
 "M 625 607 Q 772 643 775 645 Q 784 652 779 661 Q 772 671 744 679 Q 714 685 686 673 Q 656 663 626 654 L 577 641 Q 522 631 461 624 Q 425 618 451 602 Q 490 578 547 591 Q 559 595 576 597 L 625 607 Z",
 "M 623 495 Q 759 528 763 530 Q 770 537 767 545 Q 760 555 734 563 Q 707 567 623 539 L 574 526 Q 522 516 464 510 Q 431 504 455 489 Q 491 471 557 482 Q 563 483 573 485 L 623 495 Z",

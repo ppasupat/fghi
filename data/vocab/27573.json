@@ -9,40 +9,70 @@
 [
 "段",
 3,
+"Duàn",
+"surname Duan"
+],
+[
+"段",
+3,
 "duàn",
-"paragraph; segment; section"
+"paragraph; section; segment; stage (of a process); classifier for stories, periods of time, lengths of thread etc"
 ],
 [
 "阶段",
 5,
-"jiēduàn",
-"stage; phase"
+"jiē duàn",
+"stage; section; phase; period; CL:個|个[ge4]"
 ],
 [
 "不择手段",
 6,
-"bùzéshǒuduàn",
-"by fair means or foul"
+"bù zé shǒu duàn",
+"by fair means or foul; by hook or by crook; unscrupulously"
 ]
 ],
 "extraWords": [
 [
 "手段",
 99.89,
-"shou3 duan4",
+"shǒu duàn",
 "method; means (of doing sth); strategy; trick; CL:個|个[ge4]"
+],
+[
+"路段",
+19.47,
+"lù duàn",
+"stretch of road; section of a highway or railway"
+],
+[
+"时段",
+13.49,
+"shí duàn",
+"time interval; work shift; time slot; the twelve two-hour divisions of the day"
 ],
 [
 "地段",
 13.08,
-"di4 duan4",
+"dì duàn",
 "section; district"
 ],
 [
 "片段",
 10.66,
-"pian4 duan4",
+"piàn duàn",
 "fragment (of speech etc); extract (from book etc); episode (of story etc)"
+],
+[
+"现阶段",
+8.24,
+"xiàn jiē duàn",
+"at the present stage"
+],
+[
+"阶段性",
+7.68,
+"jiē duàn xìng",
+"specific to a particular stage (of a project etc); interim (policy etc); occurring in stages; phased"
 ]
 ],
 "strokes": [

@@ -7,78 +7,96 @@
 },
 "words": [
 [
-"触犯",
+"罪犯",
 6,
-"chùfàn",
-"offend; violate"
+"zuì fàn",
+"criminal"
 ],
 [
 "冒犯",
 6,
-"màofàn",
+"mào fàn",
 "to offend"
 ],
 [
 "侵犯",
 6,
-"qīnfàn",
-"encroach on; infringe on; violation"
+"qīn fàn",
+"to infringe on; to encroach on; to violate; to assault"
 ],
 [
-"罪犯",
+"触犯",
 6,
-"zuìfàn",
-"criminal"
+"chù fàn",
+"to violate; to offend"
 ]
 ],
 "extraWords": [
 [
 "犯罪",
 103.41,
-"fan4 zui4",
+"fàn zuì",
 "to commit a crime; crime; offense"
 ],
 [
 "犯人",
 31.0,
-"fan4 ren2",
+"fàn rén",
 "convict; prisoner; criminal"
 ],
 [
 "嫌犯",
 29.15,
-"xian2 fan4",
+"xián fàn",
 "criminal suspect"
 ],
 [
 "嫌疑犯",
 21.25,
-"xian2 yi2 fan4",
+"xián yí fàn",
 "a suspect"
+],
+[
+"杀人犯",
+20.66,
+"shā rén fàn",
+"murderer; homicide"
 ],
 [
 "疑犯",
 20.66,
-"yi2 fan4",
+"yí fàn",
 "a suspect"
 ],
 [
 "囚犯",
 19.14,
-"qiu2 fan4",
+"qiú fàn",
 "prisoner; convict"
+],
+[
+"犯规",
+17.49,
+"fàn guī",
+"to break the rules; an illegality; a foul"
 ],
 [
 "犯法",
 8.02,
-"fan4 fa3",
+"fàn fǎ",
 "to break the law"
 ],
 [
 "逃犯",
 7.9,
-"tao2 fan4",
+"táo fàn",
 "escaped criminal; fugitive from the law (criminal suspect on the run)"
+],
+[
+"强奸犯",
+5.28,
+"qiáng jiān fàn",
+"rapist"
 ]
 ],
 "strokes": [

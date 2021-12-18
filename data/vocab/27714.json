@@ -9,105 +9,147 @@
 [
 "要求",
 3,
-"yāoqiú",
-"to request; to demand; requirement"
+"yāo qiú",
+"to request; to require; requirement; to stake a claim; to ask; to demand; CL:點|点[dian3]"
 ],
 [
 "请求",
 5,
-"qǐngqiú",
-"to request; ask"
-],
-[
-"征求",
-5,
-"zhēngqiú",
-"solicit; seek; ask for; to request"
+"qǐng qiú",
+"to request; to ask; request; CL:個|个[ge4]"
 ],
 [
 "追求",
 5,
-"zhuīqiú",
-"pursue; seek"
+"zhuī qiú",
+"to pursue (a goal etc) stubbornly; to seek after; to woo"
 ],
 [
-"供不应求",
-6,
-"gōng bú yìng qiú",
-"(saying) demand outstrips supply"
+"征求",
+5,
+"zhēng qiú",
+"to solicit; to seek; to request (opinions, feedback etc); to petition"
 ],
 [
-"急于求成",
+"需求",
 6,
-"jíyúqiúchéng",
-"impatient for success"
-],
-[
-"精益求精",
-6,
-"jīng yì qiú jīng",
-"(saying) improving and wanting to improve even more"
+"xū qiú",
+"requirement; to require; (economics) demand"
 ],
 [
 "力求",
 6,
-"lìqiú",
-"make every effort; do one's best"
+"lì qiú",
+"to make every effort to; striving to do one's best"
 ],
 [
 "谋求",
 6,
-"móuqiú",
-"seek; strive for; try to get"
+"móu qiú",
+"to seek; to strive for"
 ],
 [
 "实事求是",
 6,
 "shí shì qiú shì",
-"be practical and realistic; seek truth from facts"
+"to seek truth from facts (idiom); to be practical and realistic"
 ],
 [
-"需求",
+"供不应求",
 6,
-"xūqiú",
-"requirement; demand (economics)"
+"gōng bù yìng qiú",
+"supply does not meet demand"
+],
+[
+"精益求精",
+6,
+"jīng yì qiú jīng",
+"to perfect sth that is already outstanding (idiom); constantly improving"
+],
+[
+"急于求成",
+6,
+"jí yú qiú chéng",
+"anxious for quick results (idiom); to demand instant success; impatient for result; impetuous"
 ]
 ],
 "extraWords": [
 [
+"寻求",
+27.86,
+"xún qiú",
+"to seek; to look for"
+],
+[
 "求婚",
 22.8,
-"qiu2 hun1",
+"qiú hūn",
 "to propose marriage"
 ],
 [
 "供求",
 12.49,
-"gong1 qiu2",
+"gōng qiú",
 "supply and demand (economics)"
 ],
 [
 "求助",
 10.98,
-"qiu2 zhu4",
+"qiú zhù",
 "to request help; to appeal (for help)"
 ],
 [
 "求救",
 9.0,
-"qiu2 jiu4",
-"to cry for help"
+"qiú jiù",
+"to seek help (when in distress or having difficulties)"
+],
+[
+"求职",
+7.78,
+"qiú zhí",
+"to seek employment"
 ],
 [
 "祈求",
 7.45,
-"qi2 qiu2",
+"qí qiú",
 "to pray for; to appeal"
+],
+[
+"恳求",
+6.41,
+"kěn qiú",
+"to beg; to beseech; to entreat; entreaty"
+],
+[
+"诉求",
+5.72,
+"sù qiú",
+"to appeal; to demand (an answer); requirement; demand; claim; appeal; (marketing) message"
+],
+[
+"强求",
+5.44,
+"qiǎng qiú",
+"to insist on; to demand; to impose"
+],
+[
+"求证",
+5.39,
+"qiú zhèng",
+"to seek proof; to seek confirmation"
+],
+[
+"梦寐以求",
+5.16,
+"mèng mèi yǐ qiú",
+"to yearn for sth even in one's dreams (idiom); to long for sth day and night"
 ],
 [
 "乞求",
 5.04,
-"qi3 qiu2",
+"qǐ qiú",
 "to beg"
 ]
 ],

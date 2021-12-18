@@ -9,99 +9,123 @@
 [
 "害怕",
 3,
-"hàipà",
-"afraid of; to fear"
+"hài pà",
+"to be afraid; to be scared"
+],
+[
+"厉害",
+4,
+"lì hai",
+"(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding; (of a person) stern; strict; harsh; shrewd; tough; (of an animal) fierce; (of a resemblance) striking; (of liquor or chili pepper) strong; (of bacteria) virulent"
 ],
 [
 "害羞",
 4,
 "hài xiū",
-"blush; shy"
-],
-[
-"厉害",
-4,
-"lìhai",
-"terrible; formidable; fierce; cool; awesome"
+"shy; embarrassed; bashful"
 ],
 [
 "伤害",
 5,
-"shānghài",
-"injure; to harm; wound"
+"shāng hài",
+"to injure; to harm"
 ],
 [
 "危害",
 5,
-"wēihài",
-"endanger; jeopardize; to harm"
+"wēi hài",
+"to jeopardize; to harm; to endanger; harmful effect; damage; CL:個|个[ge4]"
 ],
 [
 "灾害",
 5,
-"zāihài",
-"disaster; calamity"
-],
-[
-"利害",
-6,
-"lìhai",
-"serious; formidable; devastating; (-hài: advantages and disadvantages)"
-],
-[
-"迫害",
-6,
-"pòhài",
-"persecute; persecution"
+"zāi hài",
+"calamity; disaster; CL:個|个[ge4]"
 ],
 [
 "陷害",
 6,
-"xiànhài",
-"cast blame on; to frame"
+"xiàn hài",
+"to entrap; to set up; to frame (up); to make false charges against"
+],
+[
+"迫害",
+6,
+"pò hài",
+"to persecute; persecution"
+],
+[
+"利害",
+6,
+"lì hài",
+"pros and cons; advantages and disadvantages; gains and losses"
+],
+[
+"利害",
+6,
+"lì hai",
+"terrible; formidable; serious; devastating; tough; capable; sharp; severe; fierce"
 ]
 ],
 "extraWords": [
 [
 "受害者",
 68.2,
-"shou4 hai4 zhe3",
+"shòu hài zhě",
 "casualty; victim; those injured and wounded"
+],
+[
+"杀害",
+43.07,
+"shā hài",
+"to murder"
+],
+[
+"损害",
+40.35,
+"sǔn hài",
+"harm; to damage; to impair"
 ],
 [
 "受害人",
 38.9,
-"shou4 hai4 ren2",
+"shòu hài rén",
 "victim"
 ],
 [
 "有害",
 15.32,
-"you3 hai4",
+"yǒu hài",
 "destructive; harmful; damaging"
 ],
 [
 "侵害",
 11.71,
-"qin1 hai4",
+"qīn hài",
 "to encroach on; to infringe on"
 ],
 [
 "被害人",
 11.27,
-"bei4 hai4 ren2",
+"bèi hài rén",
 "victim"
 ],
 [
 "遇害",
 9.15,
-"yu4 hai4",
+"yù hài",
 "to be murdered"
+],
+[
+"自然灾害",
+6.18,
+"zì rán zāi hài",
+"natural disaster"
 ],
 [
 "受害",
 5.46,
-"shou4 hai4",
+"shòu hài",
 "to suffer damage, injury etc; damaged; injured; killed; robbed"
 ]
 ],

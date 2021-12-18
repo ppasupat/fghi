@@ -9,46 +9,76 @@
 [
 "时候",
 1,
-"shíhou",
-"time"
+"shí hou",
+"time; length of time; moment; period"
 ],
 [
 "气候",
 4,
-"qìhòu",
-"climate; atmosphere; weather"
+"qì hòu",
+"climate; atmosphere; situation; CL:種|种[zhong3]"
 ],
 [
 "问候",
 5,
-"wènhòu",
-"send a greeting; send one's regards to"
-],
-[
-"伺候",
-6,
-"cìhou",
-"serve; wait upon; act as a valet"
+"wèn hòu",
+"to give one's respects; to send a greeting; (fig.) (coll.) to make offensive reference to (somebody dear to the person to whom one is speaking)"
 ],
 [
 "等候",
 6,
-"děnghòu",
-"wait; queue"
+"děng hòu",
+"to wait; to wait for"
+],
+[
+"伺候",
+6,
+"cì hòu",
+"to serve; to wait upon"
 ],
 [
 "候选",
 6,
-"hòuxuǎn",
-"candidate"
+"hòu xuǎn",
+"candidate (attributive)"
 ]
 ],
 "extraWords": [
 [
+"有时候",
+72.82,
+"yǒu shí hou",
+"sometimes"
+],
+[
+"小时候",
+32.19,
+"xiǎo shí hou",
+"in one's childhood"
+],
+[
+"候选人",
+20.06,
+"hòu xuǎn rén",
+"candidate; CL:名[ming2]"
+],
+[
+"到时候",
+15.01,
+"dào shí hòu",
+"when the moment comes; at that time"
+],
+[
 "守候",
 8.87,
-"shou3 hou4",
+"shǒu hòu",
 "to wait for; to expect; to keep watch; to watch over; to nurse"
+],
+[
+"有的时候",
+7.84,
+"yǒu de shí hòu",
+"sometimes; at times"
 ]
 ],
 "strokes": [

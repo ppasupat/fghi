@@ -9,81 +9,87 @@
 [
 "因为",
 2,
-"yīnwèi",
-"because"
-],
-[
-"因此",
-4,
-"yīncǐ",
-"therefore; thus; that is why; because of this"
+"yīn wèi",
+"because; owing to; on account of"
 ],
 [
 "原因",
 4,
-"yuányīn",
-"cause; reason"
+"yuán yīn",
+"cause; origin; root cause; reason; CL:個|个[ge4]"
 ],
 [
-"因而",
-5,
-"yīn'ér",
-"therefore; as a result; thus"
+"因此",
+4,
+"yīn cǐ",
+"thus; consequently; as a result"
 ],
 [
 "因素",
 5,
-"yīnsù",
-"element; factor"
+"yīn sù",
+"element; factor; CL:個|个[ge4]"
+],
+[
+"因而",
+5,
+"yīn ér",
+"therefore; as a result; thus; and as a result, ..."
 ],
 [
 "基因",
 6,
-"jīyīn",
-"gene"
+"jī yīn",
+"gene (loanword)"
 ]
 ],
 "extraWords": [
 [
 "因子",
 22.72,
-"yin1 zi3",
+"yīn zǐ",
 "factor; (genetic) trait; (math.) factor; divisor"
 ],
 [
 "可卡因",
 15.26,
-"ke3 ka3 yin1",
+"kě kǎ yīn",
 "cocaine (loanword)"
 ],
 [
 "死因",
 14.43,
-"si3 yin1",
+"sǐ yīn",
 "cause of death"
 ],
 [
 "海洛因",
 11.45,
-"hai3 luo4 yin1",
+"hǎi luò yīn",
 "heroin (loanword)"
 ],
 [
 "病因",
 8.08,
-"bing4 yin1",
+"bìng yīn",
 "cause of disease; pathogen"
 ],
 [
 "因果",
 7.57,
-"yin1 guo3",
+"yīn guǒ",
 "karma; cause and effect"
+],
+[
+"转基因",
+6.32,
+"zhuǎn jī yīn",
+"genetic modification"
 ],
 [
 "因地制宜",
 5.38,
-"yin1 di4 zhi4 yi2",
+"yīn dì zhì yí",
 "(idiom) to use methods in line with local circumstances"
 ]
 ],

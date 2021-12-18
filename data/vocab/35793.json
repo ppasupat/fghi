@@ -9,11 +9,18 @@
 [
 "翻译",
 4,
-"fānyì",
-"translate; translation; interpret"
+"fān yì",
+"to translate; to interpret; translator; interpreter; translation; interpretation; CL:個|个[ge4],位[wei4],名[ming2]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"编译",
+8.34,
+"biān yì",
+"to translate and edit; translator-editor; (computing) to compile (source code)"
+]
+],
 "strokes": [
 "M 258 730 Q 286 706 315 678 Q 330 665 347 665 Q 359 666 364 680 Q 370 696 359 729 Q 347 763 252 783 Q 236 787 228 783 Q 222 779 224 765 Q 228 752 258 730 Z",
 "M 126 494 Q 77 476 48 473 Q 33 472 31 464 Q 27 455 39 448 Q 82 426 109 437 Q 224 497 231 497 Q 235 498 239 495 Q 249 488 245 462 Q 245 425 243 386 Q 242 277 213 176 Q 197 143 242 93 Q 252 80 263 88 Q 270 95 282 120 Q 319 174 401 267 Q 413 279 410 286 Q 409 295 397 284 Q 357 256 317 223 Q 274 186 281 240 Q 280 301 300 455 Q 303 480 325 505 Q 338 515 328 528 Q 316 544 276 561 Q 264 567 247 555 Q 171 510 126 494 Z",

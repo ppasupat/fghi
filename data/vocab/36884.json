@@ -7,60 +7,66 @@
 },
 "words": [
 [
-"长途",
-5,
-"chángtú",
-"long distance"
-],
-[
 "前途",
 5,
-"qiántú",
-"future; prospects; outlook (for the future)"
+"qián tú",
+"prospects; future outlook; journey"
 ],
 [
 "用途",
 5,
-"yòngtú",
-"use; application; purpose"
+"yòng tú",
+"use; application"
+],
+[
+"长途",
+5,
+"cháng tú",
+"long distance"
+],
+[
+"途径",
+6,
+"tú jìng",
+"way; channel"
 ],
 [
 "半途而废",
 6,
 "bàn tú ér fèi",
-"give up halfway; leave sth. unfinished"
-],
-[
-"途径",
-6,
-"tújìng",
-"way; channel"
+"to give up halfway (idiom); leave sth unfinished"
 ]
 ],
 "extraWords": [
 [
 "途中",
 17.66,
-"tu2 zhong1",
+"tú zhōng",
 "en route"
 ],
 [
 "旅途",
 12.76,
-"lu:3 tu2",
+"lu:3 tú",
 "journey; trip"
 ],
 [
 "中途",
 7.96,
-"zhong1 tu2",
+"zhōng tú",
 "midway"
 ],
 [
 "沿途",
 7.89,
-"yan2 tu2",
+"yán tú",
 "along the sides of the road; by the wayside"
+],
+[
+"途经",
+6.0,
+"tú jīng",
+"to pass through; via; by way of"
 ]
 ],
 "strokes": [

@@ -10,212 +10,254 @@
 "是",
 1,
 "shì",
-"be; is; are; am"
+"is; are; am; yes; to be"
+],
+[
+"是",
+1,
+"shì",
+"variant of 是[shi4]; (used in given names)"
 ],
 [
 "但是",
 2,
-"dànshì",
+"dàn shì",
 "but; however"
 ],
 [
 "还是",
 3,
-"háishi",
+"hái shi",
 "or; still; nevertheless; had better"
 ],
 [
 "总是",
 3,
-"zǒngshì",
-"always; eventually"
+"zǒng shì",
+"always"
 ],
 [
 "可是",
 4,
-"kěshì",
-"but; however"
+"kě shì",
+"but; however; (used for emphasis) indeed"
 ],
 [
 "是否",
 4,
-"shìfǒu",
-"whether (or not); if"
+"shì fǒu",
+"whether (or not); if; is or isn't"
 ],
 [
 "要是",
 4,
-"yàoshi",
-"if; suppose; in case"
+"yào shi",
+"(coll.) if"
 ],
 [
 "于是",
 4,
-"yúshì",
-"as a result; thus; therefore"
+"yú shì",
+"thereupon; as a result; consequently; thus; hence"
+],
+[
+"是非",
+6,
+"shì fēi",
+"right and wrong; quarrel"
 ],
 [
 "凡是",
 6,
-"fánshì",
-"every; any; all; without exception"
+"fán shì",
+"each and every; every; all; any"
 ],
 [
 "实事求是",
 6,
 "shí shì qiú shì",
-"be practical and realistic; seek truth from facts"
-],
-[
-"是非",
-6,
-"shìfēi",
-"right and wrong; truth and fiction; quarrel"
+"to seek truth from facts (idiom); to be practical and realistic"
 ]
 ],
 "extraWords": [
 [
 "是的",
 1317.87,
-"shi4 de5",
+"shì de",
 "yes, that's right; variant of 似的[shi4 de5]"
 ],
 [
 "就是",
 1136.2,
-"jiu4 shi4",
+"jiù shì",
 "(emphasizes that sth is precisely or exactly as stated); precisely; exactly; even; if; just like; in the same way as"
 ],
 [
 "不是",
 801.54,
-"bu2 shi5",
+"bú shi",
 "fault; blame"
 ],
 [
 "不是",
 801.54,
-"bu4 shi4",
+"bù shì",
 "no; is not; not"
 ],
 [
 "只是",
 632.35,
-"zhi3 shi4",
+"zhǐ shì",
 "merely; simply; only; but"
 ],
 [
 "真是",
 314.76,
-"zhen1 shi5",
+"zhēn shi",
 "indeed; truly; (coll.) (used to express disapproval, annoyance etc about sth)"
 ],
 [
 "而是",
 180.06,
-"er2 shi4",
+"ér shì",
 "rather"
 ],
 [
 "是不是",
 150.08,
-"shi4 bu4 shi4",
+"shì bù shì",
 "is or isn't; yes or no; whether or not"
 ],
 [
 "正是",
 110.14,
-"zheng4 shi4",
+"zhèng shì",
 "(emphasizes that sth is precisely or exactly as stated); precisely; exactly; even; if; just like; in the same way as"
+],
+[
+"更是",
+103.55,
+"gèng shì",
+"even more (so)"
 ],
 [
 "尤其是",
 91.13,
-"you2 qi2 shi4",
+"yóu qí shì",
 "especially; most of all; above all; in particular"
 ],
 [
 "算是",
 83.65,
-"suan4 shi4",
+"suàn shì",
 "considered to be; at last"
 ],
 [
 "或是",
 54.91,
-"huo4 shi4",
+"huò shì",
 "or; either one or the other"
 ],
 [
 "也就是",
 41.61,
-"ye3 jiu4 shi4",
+"yě jiù shì",
 "that is; i.e."
 ],
 [
 "便是",
 41.41,
-"bian4 shi4",
+"biàn shì",
 "(emphasizes that sth is precisely or exactly as stated); precisely; exactly; even; if; just like; in the same way as"
+],
+[
+"也就是说",
+36.25,
+"yě jiù shì shuō",
+"in other words; that is to say; so; thus"
 ],
 [
 "倒是",
 34.27,
-"dao4 shi5",
+"dào shi",
 "contrary to what one might expect; actually; contrariwise; why don't you"
 ],
 [
 "若是",
 24.5,
-"ruo4 shi4",
+"ruò shì",
 "if"
 ],
 [
 "既是",
 18.21,
-"ji4 shi4",
+"jì shì",
 "is both ...(and...); since; as; being the case that"
 ],
 [
 "老是",
 15.3,
-"lao3 shi5",
+"lǎo shi",
 "always"
+],
+[
+"就是说",
+13.01,
+"jiù shì shuō",
+"in other words; that is"
 ],
 [
 "乃是",
 12.84,
-"nai3 shi4",
+"nǎi shì",
 "equivalent to either 是[shi4] or 就是[jiu4 shi4]"
 ],
 [
 "可不是",
 10.47,
-"ke3 bu5 shi4",
+"kě bu shì",
 "that's just the way it is; exactly!"
 ],
 [
 "有的是",
 9.79,
-"you3 de5 shi4",
+"yǒu de shì",
 "have plenty of; there's no lack of"
 ],
 [
 "要不是",
 9.74,
-"yao4 bu5 shi4",
+"yào bu shì",
 "if it were not for; but for"
+],
+[
+"自以为是",
+6.95,
+"zì yǐ wéi shì",
+"to believe oneself infallible (idiom); to be opinionated"
+],
+[
+"虽是",
+6.88,
+"suī shì",
+"although; even though; even if"
+],
+[
+"一无是处",
+6.2,
+"yī wú shì chù",
+"not one good point; everything about it is wrong"
 ],
 [
 "如是",
 5.64,
-"ru2 shi4",
+"rú shì",
 "thus"
 ],
 [
 "硬是",
 5.37,
-"ying4 shi4",
+"yìng shì",
 "just; simply; stubbornly; really"
 ]
 ],

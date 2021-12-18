@@ -9,124 +9,154 @@
 [
 "告诉",
 2,
-"gàosu",
-"to tell; inform"
+"gào sù",
+"to press charges; to file a complaint"
+],
+[
+"告诉",
+2,
+"gào su",
+"to tell; to inform; to let know"
 ],
 [
 "广告",
 4,
-"guǎnggào",
-"advertisement; a commercial"
+"guǎng gào",
+"to advertise; a commercial; advertisement; CL:項|项[xiang4]"
 ],
 [
 "报告",
 5,
-"bàogào",
-"to report; make known; inform; speech; lecture"
+"bào gào",
+"to inform; to report; to make known; report; speech; talk; lecture; CL:篇[pian1],份[fen4],個|个[ge4],通[tong4]"
 ],
 [
 "告别",
 5,
-"gàobié",
-"say goodbye to; to leave; to part"
+"gào bié",
+"to leave; to bid farewell to; to say good-bye to"
 ],
 [
 "转告",
 5,
-"zhuǎngào",
-"pass on; to communicate; to transmit"
-],
-[
-"被告",
-6,
-"bèigào",
-"defendant"
-],
-[
-"布告",
-6,
-"bùgào",
-"notice; bulletin"
-],
-[
-"告辞",
-6,
-"gàocí",
-"take leave; bid farewell"
-],
-[
-"告诫",
-6,
-"gàojiè",
-"warn; admonish"
-],
-[
-"公告",
-6,
-"gōnggào",
-"post; announcement"
+"zhuǎn gào",
+"to pass on; to communicate; to transmit"
 ],
 [
 "警告",
 6,
-"jǐnggào",
-"to warn; admonish"
+"jǐng gào",
+"to warn; to admonish"
+],
+[
+"被告",
+6,
+"bèi gào",
+"defendant"
 ],
 [
 "原告",
 6,
-"yuángào",
-"plaintiff; complainant; accuser"
+"yuán gào",
+"complainant; plaintiff"
+],
+[
+"公告",
+6,
+"gōng gào",
+"post; announcement"
+],
+[
+"告辞",
+6,
+"gào cí",
+"to say goodbye; to take one's leave"
+],
+[
+"告诫",
+6,
+"gào jiè",
+"to warn; to admonish"
+],
+[
+"布告",
+6,
+"bù gào",
+"posting on a bulletin board; notice; bulletin; to announce"
 ]
 ],
 "extraWords": [
 [
 "告知",
 19.86,
-"gao4 zhi1",
+"gào zhī",
 "to inform"
 ],
 [
 "被告人",
 13.04,
-"bei4 gao4 ren2",
+"bèi gào rén",
 "defendant (in legal case)"
 ],
 [
 "控告",
 12.97,
-"kong4 gao4",
+"kòng gào",
 "to accuse; to charge; to indict"
+],
+[
+"祷告",
+12.85,
+"dǎo gào",
+"to pray; prayer"
 ],
 [
 "宣告",
 10.43,
-"xuan1 gao4",
+"xuān gào",
 "to declare; to proclaim"
+],
+[
+"预告",
+7.63,
+"yù gào",
+"to forecast; to predict; advance notice"
 ],
 [
 "通告",
 7.07,
-"tong1 gao4",
+"tōng gào",
 "to announce; to give notice"
+],
+[
+"告发",
+7.06,
+"gào fā",
+"to lodge an accusation; accusation (law)"
 ],
 [
 "忠告",
 6.35,
-"zhong1 gao4",
+"zhōng gào",
 "to give sb a word of advice; advice; counsel; a wise word"
 ],
 [
 "告白",
 5.67,
-"gao4 bai2",
+"gào bái",
 "to announce publicly; to explain oneself; to reveal one's feelings; to confess; to declare one's love"
 ],
 [
 "告密",
 5.54,
-"gao4 mi4",
+"gào mì",
 "to inform against sb"
+],
+[
+"报告会",
+5.28,
+"bào gào huì",
+"public lecture (with guest speakers etc)"
 ]
 ],
 "strokes": [

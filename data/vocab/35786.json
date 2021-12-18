@@ -7,19 +7,56 @@
 },
 "words": [
 [
-"急诊",
-5,
-"jízhěn",
-"emergency call; emergency treatment"
-],
-[
 "诊断",
 5,
-"zhěnduàn",
-"diagnosis; diagnose"
+"zhěn duàn",
+"diagnosis; to diagnose"
+],
+[
+"急诊",
+5,
+"jí zhěn",
+"to give or receive urgent medical treatment; emergency treatment (at a hospital emergency department, or from a doctor on a house call)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"诊所",
+21.82,
+"zhěn suǒ",
+"clinic"
+],
+[
+"门诊",
+15.37,
+"mén zhěn",
+"outpatient service"
+],
+[
+"确诊",
+11.79,
+"què zhěn",
+"to make a definite diagnosis; confirmed (case of a specific disease)"
+],
+[
+"急诊室",
+9.99,
+"jí zhěn shì",
+"emergency room"
+],
+[
+"就诊",
+9.72,
+"jiù zhěn",
+"to see a doctor; to seek medical advice"
+],
+[
+"诊治",
+5.68,
+"zhěn zhì",
+"to diagnose and treat"
+]
+],
 "strokes": [
 "M 267 766 Q 298 739 331 707 Q 344 694 361 695 Q 371 695 377 709 Q 381 724 373 753 Q 361 786 262 814 Q 246 818 240 815 Q 236 811 236 798 Q 240 788 267 766 Z",
 "M 139 523 Q 87 510 59 509 Q 44 510 41 503 Q 37 494 48 486 Q 87 458 116 468 Q 171 489 221 511 Q 249 524 260 515 Q 270 508 263 479 Q 256 305 222 198 Q 203 165 247 112 Q 257 99 267 106 Q 276 113 288 137 Q 325 183 403 260 Q 416 270 414 278 Q 413 287 401 278 Q 367 259 333 237 Q 281 197 292 259 Q 292 320 318 471 Q 322 496 346 519 Q 359 529 350 542 Q 338 560 300 578 Q 287 585 270 574 Q 186 535 139 523 Z",

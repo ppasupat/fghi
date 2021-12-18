@@ -9,23 +9,246 @@
 [
 "占线",
 4,
-"zhànxiàn",
-"the (phone) line is busy"
-],
-[
-"视线",
-6,
-"shìxiàn",
-"line of sight; view line"
+"zhàn xiàn",
+"busy (telephone line)"
 ],
 [
 "线索",
 6,
-"xiànsuǒ",
-"trail; clues; hints; thread (of a story)"
+"xiàn suǒ",
+"trail; clues; thread (of a story)"
+],
+[
+"视线",
+6,
+"shì xiàn",
+"line of sight"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"路线",
+60.81,
+"lù xiàn",
+"itinerary; route; political line (e.g. right revisionist road); CL:條|条[tiao2]"
+],
+[
+"在线",
+48.45,
+"zài xiàn",
+"online"
+],
+[
+"线路",
+36.28,
+"xiàn lù",
+"line; circuit; wire; road; railway track; bus route"
+],
+[
+"热线",
+30.1,
+"rè xiàn",
+"hotline (communications link)"
+],
+[
+"无线",
+28.49,
+"wú xiàn",
+"wireless"
+],
+[
+"一线",
+26.57,
+"yī xiàn",
+"front line"
+],
+[
+"短线",
+25.27,
+"duǎn xiàn",
+"short term"
+],
+[
+"曲线",
+22.79,
+"qū xiàn",
+"curve; curved line; indirect; in a roundabout way"
+],
+[
+"底线",
+16.93,
+"dǐ xiàn",
+"to underline; bottom line; base line (in sports); baseline; minimum; spy; plant"
+],
+[
+"无线电",
+15.47,
+"wú xiàn diàn",
+"wireless"
+],
+[
+"航线",
+14.8,
+"háng xiàn",
+"air or shipping route"
+],
+[
+"生产线",
+14.51,
+"shēng chǎn xiàn",
+"assembly line; production line"
+],
+[
+"战线",
+13.84,
+"zhàn xiàn",
+"battle line; battlefront; front"
+],
+[
+"前线",
+13.37,
+"qián xiàn",
+"front line; military front; workface; cutting edge"
+],
+[
+"全线",
+12.53,
+"quán xiàn",
+"the whole front (in a war); the whole length (of a road or railway line)"
+],
+[
+"线条",
+11.73,
+"xiàn tiáo",
+"line (in drawing, calligraphy etc); the lines or contours of a three-dimensional object (hairstyle, clothing, car etc)"
+],
+[
+"直线",
+11.09,
+"zhí xiàn",
+"straight line; sharply (rise or fall)"
+],
+[
+"上线",
+10.9,
+"shàng xiàn",
+"to go online; to put sth online"
+],
+[
+"紫外线",
+10.68,
+"zǐ wài xiàn",
+"ultraviolet ray"
+],
+[
+"光线",
+10.49,
+"guāng xiàn",
+"light ray; CL:條|条[tiao2],道[dao4]; light; illumination; lighting (for a photograph)"
+],
+[
+"出线",
+9.93,
+"chū xiàn",
+"(sports) to go out of bounds; to go over the line; to qualify for the next round of competition; (Tw) (fig.) to make the grade; to achieve success"
+],
+[
+"电线",
+8.82,
+"diàn xiàn",
+"wire; power cord; CL:根[gen1]"
+],
+[
+"中线",
+8.28,
+"zhōng xiàn",
+"half-way line; median line"
+],
+[
+"有线电视",
+6.94,
+"yǒu xiàn diàn shì",
+"cable television"
+],
+[
+"主线",
+6.73,
+"zhǔ xiàn",
+"main line (of communication); main thread (of a plotline or concept); central theme"
+],
+[
+"管线",
+6.51,
+"guǎn xiàn",
+"pipeline; general term for pipes, cables etc"
+],
+[
+"眼线",
+6.23,
+"yǎn xiàn",
+"informer; snitch; spy; scout; (cosmetics) eye line"
+],
+[
+"第一线",
+6.2,
+"dì yī xiàn",
+"front line; forefront"
+],
+[
+"专线",
+6.08,
+"zhuān xiàn",
+"special-purpose phone line or communications link; hotline; special rail line (e.g. between airport and city); CL:條|条[tiao2]"
+],
+[
+"干线",
+6.02,
+"gàn xiàn",
+"main line; trunk line"
+],
+[
+"线性",
+5.74,
+"xiàn xìng",
+"linear; linearity"
+],
+[
+"统一战线",
+5.49,
+"tǒng yī zhàn xiàn",
+"united front"
+],
+[
+"连线",
+5.28,
+"lián xiàn",
+"electrical lead; connecting line; (Tw) to connect (to a network, device etc); to go online; connection; (congressional) caucus"
+],
+[
+"分数线",
+5.24,
+"fēn shù xiàn",
+"horizontal line (in a fraction); minimum passing score"
+],
+[
+"毛线",
+5.23,
+"máo xiàn",
+"knitting wool; wool yarn"
+],
+[
+"射线",
+5.22,
+"shè xiàn",
+"ray"
+],
+[
+"总线",
+5.21,
+"zǒng xiàn",
+"computer bus"
+]
+],
 "strokes": [
 "M 308 478 Q 256 478 213 478 Q 180 478 198 498 Q 274 622 347 712 Q 362 730 359 737 Q 358 752 319 783 Q 303 798 285 794 Q 273 791 279 776 Q 295 734 198 564 Q 177 525 133 488 Q 114 475 115 462 Q 119 443 133 425 Q 143 415 156 421 Q 181 434 271 450 Q 278 451 287 451 C 317 453 338 478 308 478 Z",
 "M 287 451 Q 185 324 165 314 Q 152 305 154 291 Q 155 278 181 259 Q 191 247 206 259 Q 275 307 386 343 Q 405 349 407 357 Q 410 367 390 363 Q 326 351 250 328 Q 226 319 241 339 Q 284 397 386 512 Q 414 549 440 569 Q 453 578 447 588 Q 437 607 405 627 Q 389 637 380 634 Q 370 631 372 616 Q 375 574 308 478 L 287 451 Z",

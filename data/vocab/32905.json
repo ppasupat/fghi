@@ -9,28 +9,58 @@
 [
 "羊肉",
 2,
-"yángròu",
-"mutton; lamb"
+"yáng ròu",
+"mutton; goat meat"
 ],
 [
 "肌肉",
 5,
-"jīròu",
+"jī ròu",
 "muscle; flesh"
 ]
 ],
 "extraWords": [
 [
+"猪肉",
+16.78,
+"zhū ròu",
+"pork"
+],
+[
 "牛肉",
 16.19,
-"niu2 rou4",
+"niú ròu",
 "beef"
+],
+[
+"鸡肉",
+14.9,
+"jī ròu",
+"chicken meat"
+],
+[
+"肉体",
+9.66,
+"ròu tǐ",
+"physical body"
 ],
 [
 "烤肉",
 8.64,
-"kao3 rou4",
+"kǎo ròu",
 "barbecue (lit. roast meat)"
+],
+[
+"肉类",
+5.84,
+"ròu lèi",
+"meat"
+],
+[
+"熏肉",
+5.13,
+"xūn ròu",
+"bacon"
 ]
 ],
 "strokes": [

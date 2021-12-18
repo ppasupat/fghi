@@ -9,23 +9,42 @@
 [
 "地震",
 5,
-"dìzhèn",
+"dì zhèn",
 "earthquake"
-],
-[
-"震撼",
-6,
-"zhènhàn",
-"to shake"
 ],
 [
 "震惊",
 6,
-"zhènjīng",
-"shock; astonish; amaze"
+"zhèn jīng",
+"to shock; to astonish"
+],
+[
+"震撼",
+6,
+"zhèn hàn",
+"to shake; to shock; to stun; shocking; stunning; shock"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"震荡",
+28.96,
+"zhèn dàng",
+"to shake up; to jolt; to vibrate; to oscillate; to fluctuate"
+],
+[
+"震荡",
+28.96,
+"zhèn dàng",
+"to vibrate; to shake; to shudder"
+],
+[
+"震动",
+10.17,
+"zhèn dòng",
+"to shake; to vibrate; to strongly affect; shock; vibration"
+]
+],
 "strokes": [
 "M 515 790 Q 681 820 686 822 Q 693 829 690 837 Q 684 849 658 856 Q 634 862 547 839 Q 468 821 390 817 Q 356 813 379 797 Q 415 773 468 783 Q 469 784 472 783 L 515 790 Z",
 "M 270 688 Q 260 707 250 715 Q 231 730 229 704 Q 235 667 179 610 Q 158 586 187 531 Q 202 504 222 532 Q 237 554 248 589 Q 260 631 273 657 C 280 671 280 671 270 688 Z",

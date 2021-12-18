@@ -10,75 +10,129 @@
 "像",
 3,
 "xiàng",
-"be like; resemble; appearance; appear"
+"to resemble; to be like; to look as if; such as; appearance; image; portrait; image under a mapping (math.)"
 ],
 [
 "好像",
 4,
-"hǎoxiàng",
-"as if; seem to be"
-],
-[
-"不像话",
-6,
-"búxiànghuà",
-"unreasonable; absurd; outrageous"
+"hǎo xiàng",
+"as if; to seem like"
 ],
 [
 "偶像",
 6,
-"ǒuxiàng",
-"Idol"
+"ǒu xiàng",
+"idol"
 ],
 [
 "肖像",
 6,
-"xiàoxiàng",
-"portrait"
+"xiào xiàng",
+"portrait (painting, photo etc); (in a general sense) representation of a person; likeness"
+],
+[
+"不像话",
+6,
+"bù xiàng huà",
+"unreasonable; shocking; outrageous"
 ]
 ],
 "extraWords": [
 [
+"录像",
+43.22,
+"lù xiàng",
+"to videotape; to videorecord; video recording; CL:盤|盘[pan2]"
+],
+[
 "神像",
 32.85,
-"shen2 xiang4",
+"shén xiàng",
 "image of a God"
 ],
 [
 "像素",
 27.17,
-"xiang4 su4",
+"xiàng sù",
 "pixel"
+],
+[
+"摄像机",
+22.48,
+"shè xiàng jī",
+"video camera; CL:部[bu4]"
+],
+[
+"摄像头",
+21.37,
+"shè xiàng tóu",
+"webcam; surveillance camera"
+],
+[
+"图像",
+19.67,
+"tú xiàng",
+"image; picture; graphic"
 ],
 [
 "影像",
 18.96,
-"ying3 xiang4",
+"yǐng xiàng",
 "image"
+],
+[
+"录像带",
+16.66,
+"lù xiàng dài",
+"video cassette; CL:盤|盘[pan2]"
+],
+[
+"摄像",
+16.53,
+"shè xiàng",
+"to videotape"
+],
+[
+"头像",
+14.63,
+"tóu xiàng",
+"portrait; bust"
 ],
 [
 "想像",
 11.69,
-"xiang3 xiang4",
+"xiǎng xiàng",
 "to imagine; to conceive of; to visualize; imagination"
 ],
 [
 "雕像",
 9.72,
-"diao1 xiang4",
+"diāo xiàng",
 "sculpture; (carved) statue; CL:尊[zun1]"
 ],
 [
 "音像",
 6.6,
-"yin1 xiang4",
+"yīn xiàng",
 "audio and video; audiovisual"
 ],
 [
 "成像",
 6.21,
-"cheng2 xiang4",
+"chéng xiàng",
 "to form an image; imaging"
+],
+[
+"像样",
+6.2,
+"xiàng yàng",
+"presentable; decent; up to par"
+],
+[
+"画像",
+5.63,
+"huà xiàng",
+"portrait; to do a portrait of sb"
 ]
 ],
 "strokes": [

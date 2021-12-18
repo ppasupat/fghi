@@ -9,88 +9,148 @@
 [
 "公共汽车",
 2,
-"gōnggòng qìchē",
-"(public) bus"
+"gōng gòng qì chē",
+"bus; CL:輛|辆[liang4],班[ban1]"
 ],
 [
 "一共",
 3,
-"yígòng",
-"altogether; in total"
+"yī gòng",
+"altogether"
 ],
 [
 "共同",
 4,
-"gòngtóng",
-"together; common; joint"
+"gòng tóng",
+"common; joint; jointly; together; collaborative"
 ],
 [
 "总共",
 5,
-"zǒnggòng",
+"zǒng gòng",
 "altogether; in sum; in all; in total"
 ],
 [
 "共和国",
 6,
-"gònghéguó",
+"gòng hé guó",
 "republic"
-],
-[
-"共计",
-6,
-"gòngjì",
-"sum up; total"
 ],
 [
 "共鸣",
 6,
-"gòngmíng",
-"physical resonance; sympathetic response to something"
+"gòng míng",
+"resonance (physics); sympathetic response to sth"
+],
+[
+"共计",
+6,
+"gòng jì",
+"to sum up to; to total"
 ]
 ],
 "extraWords": [
 [
 "公共",
 71.25,
-"gong1 gong4",
+"gōng gòng",
 "public; common; communal"
 ],
 [
 "共有",
 52.32,
-"gong4 you3",
+"gòng yǒu",
 "to have altogether; in all"
+],
+[
+"中华人民共和国",
+30.47,
+"Zhōng huá Rén mín Gòng hé guó",
+"People's Republic of China"
+],
+[
+"中国共产党",
+23.57,
+"Zhōng guó Gòng chǎn dǎng",
+"Communist Party of China"
 ],
 [
 "共享",
 23.3,
-"gong4 xiang3",
+"gòng xiǎng",
 "to share; to enjoy together"
+],
+[
+"共产党",
+20.36,
+"Gòng chǎn dǎng",
+"Communist Party"
+],
+[
+"共识",
+19.46,
+"gòng shí",
+"common understanding; consensus"
 ],
 [
 "中共",
 18.92,
-"Zhong1 Gong4",
+"Zhōng Gòng",
 "abbr. for 中國共產黨|中国共产党[Zhong1 guo2 Gong4 chan3 dang3], Chinese Communist Party"
 ],
 [
 "中共中央",
 16.73,
-"Zhong1 Gong4 Zhong1 yang1",
+"Zhōng Gòng Zhōng yāng",
 "Central Committee of the Communist Party of China, abbr. for 中國共產黨中央委員會|中国共产党中央委员会[Zhong1 guo2 Gong4 chan3 dang3 Zhong1 yang1 Wei3 yuan2 hui4]"
+],
+[
+"共产党员",
+15.13,
+"Gòng chǎn dǎng yuán",
+"Communist Party member"
+],
+[
+"共产主义",
+14.05,
+"gòng chǎn zhǔ yì",
+"communism"
 ],
 [
 "共事",
 12.13,
-"gong4 shi4",
+"gòng shì",
 "to work together"
+],
+[
+"共同点",
+11.48,
+"gòng tóng diǎn",
+"common ground"
+],
+[
+"共和党",
+8.94,
+"Gòng hé dǎng",
+"Republican Party"
+],
+[
+"公共卫生",
+6.02,
+"gōng gòng wèi shēng",
+"public health"
 ],
 [
 "核磁共振",
 5.43,
-"he2 ci2 gong4 zhen4",
+"hé cí gòng zhèn",
 "nuclear magnetic resonance (NMR)"
+],
+[
+"共青团",
+5.28,
+"Gòng qīng tuán",
+"the Communist Youth League, abbr. for 共產主義青年團|共产主义青年团[Gong4 chan3 zhu3 yi4 Qing1 nian2 tuan2]"
 ]
 ],
 "strokes": [

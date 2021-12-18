@@ -9,11 +9,30 @@
 [
 "锦上添花",
 6,
-"jǐnshàngtiānhuā",
-"lit. on brocade, add flowers (idiom); to decorate sth already perfect / gilding the lily"
+"jǐn shàng tiān huā",
+"lit. add flowers to brocade (idiom); fig. to give sth additional splendor; to provide the crowning touch; (derog.) to benefit sb who is already well off"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"胡锦涛",
+29.53,
+"Hú Jǐn tāo",
+"Hu Jintao (1942-), General Secretary of the CCP 2002-2012, president of the PRC 2003-2013"
+],
+[
+"锦标赛",
+23.58,
+"jǐn biāo sài",
+"championship contest; championships"
+],
+[
+"世锦赛",
+18.8,
+"shì jǐn sài",
+"world championship"
+]
+],
 "strokes": [
 "M 311 666 Q 360 753 386 774 Q 395 784 391 799 Q 387 812 358 836 Q 330 855 311 855 Q 292 854 300 830 Q 315 799 302 771 Q 235 612 71 423 Q 61 413 58 407 Q 55 395 69 398 Q 129 407 290 636 L 311 666 Z",
 "M 290 636 Q 323 629 413 650 Q 426 654 444 658 Q 462 664 465 666 Q 472 673 468 682 Q 461 692 433 696 Q 409 699 341 674 Q 326 671 311 666 C 282 657 260 641 290 636 Z",

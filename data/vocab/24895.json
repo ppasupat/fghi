@@ -9,41 +9,96 @@
 [
 "愿意",
 3,
-"yuànyì",
-"be willing; want to; be ready"
+"yuàn yì",
+"to wish; to want; ready; willing (to do sth)"
 ],
 [
 "愿望",
 5,
-"yuànwàng",
-"desire; wish; aspiration"
-],
-[
-"志愿者",
-5,
-"zhìyuànzhě",
-"volunteer"
+"yuàn wàng",
+"desire; wish"
 ],
 [
 "自愿",
 5,
-"zìyuàn",
+"zì yuàn",
 "voluntary"
+],
+[
+"志愿者",
+5,
+"zhì yuàn zhě",
+"volunteer"
 ],
 [
 "宁愿",
 6,
-"nìngyuàn",
+"nìng yuàn",
 "would rather; better"
 ],
 [
 "心甘情愿",
 6,
-"xīngānqíngyuàn",
-"totally willing; perfectly happy to"
+"xīn gān qíng yuàn",
+"delighted to (do sth, idiom); perfectly happy to do; most willing to do"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"不愿",
+46.33,
+"bù yuàn",
+"unwilling; unwillingness"
+],
+[
+"但愿",
+26.32,
+"dàn yuàn",
+"if only (sth were possible); I wish (that)"
+],
+[
+"志愿",
+21.15,
+"zhì yuàn",
+"aspiration; ambition; to volunteer"
+],
+[
+"心愿",
+17.22,
+"xīn yuàn",
+"cherished desire; dream; craving; wish; aspiration"
+],
+[
+"意愿",
+14.67,
+"yì yuàn",
+"aspiration; wish (for); desire"
+],
+[
+"祝愿",
+12.06,
+"zhù yuàn",
+"to wish"
+],
+[
+"情愿",
+8.02,
+"qíng yuàn",
+"willingness; would rather (agree to X than Y)"
+],
+[
+"许愿",
+5.49,
+"xǔ yuàn",
+"to make a wish; to make a vow; to promise a reward"
+],
+[
+"如愿",
+5.03,
+"rú yuàn",
+"to have one's wishes fulfilled"
+]
+],
 "strokes": [
 "M 530 744 Q 734 774 745 782 Q 754 789 750 797 Q 744 809 718 817 Q 697 823 580 794 Q 460 770 346 765 Q 342 765 340 763 C 311 758 323 739 353 735 Q 405 726 482 737 Q 485 738 491 738 L 530 744 Z",
 "M 340 763 Q 327 775 308 784 Q 290 796 278 791 Q 266 785 272 772 Q 288 742 284 686 Q 281 670 280 650 Q 258 472 209 355 Q 163 250 76 133 Q 70 127 68 121 Q 65 111 76 113 Q 112 119 197 239 Q 210 263 226 289 Q 302 440 339 689 Q 342 701 353 735 C 358 750 358 750 340 763 Z",

@@ -9,29 +9,126 @@
 [
 "组",
 5,
+"Zǔ",
+"surname Zu"
+],
+[
+"组",
+5,
 "zǔ",
-"compose; team up; group"
-],
-[
-"组成",
-5,
-"zǔchéng",
-"to form; part; element; constitute"
-],
-[
-"组合",
-5,
-"zǔhé",
-"assemble; combination"
+"to form; to organize; group; team; classifier for sets, series, groups of people, batteries"
 ],
 [
 "组织",
 5,
-"zǔzhī",
-"organize; organization"
+"zǔ zhī",
+"to organize; organization; (biology) tissue; (textiles) weave; CL:個|个[ge4]"
+],
+[
+"组合",
+5,
+"zǔ hé",
+"to assemble; to combine; to compose; combination; association; set; compilation; (math.) combinatorial"
+],
+[
+"组成",
+5,
+"zǔ chéng",
+"to form; to make up; to constitute"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"小组",
+80.9,
+"xiǎo zǔ",
+"group"
+],
+[
+"重组",
+42.22,
+"chóng zǔ",
+"to reorganize; to recombine; recombination"
+],
+[
+"组建",
+29.9,
+"zǔ jiàn",
+"to organize; to set up; to establish"
+],
+[
+"剧组",
+15.03,
+"jù zǔ",
+"cast and crew; performers and production team"
+],
+[
+"机组",
+14.94,
+"jī zǔ",
+"flight crew (on a plane); unit (apparatus)"
+],
+[
+"组长",
+14.3,
+"zǔ zhǎng",
+"group leader"
+],
+[
+"分组",
+10.73,
+"fēn zǔ",
+"to divide into groups; group (formed from a larger group); subgroup; (computer networking) packet"
+],
+[
+"工作组",
+8.31,
+"gōng zuò zǔ",
+"work team; working group; task force"
+],
+[
+"专案组",
+7.06,
+"zhuān àn zǔ",
+"special investigation team (legal or judicial)"
+],
+[
+"党组",
+6.97,
+"dǎng zǔ",
+"party leadership group"
+],
+[
+"世贸组织",
+6.93,
+"Shì mào Zǔ zhī",
+"WTO (World Trade Organization)"
+],
+[
+"芯片组",
+6.74,
+"xīn piàn zǔ",
+"chipset"
+],
+[
+"组织者",
+5.71,
+"zǔ zhī zhě",
+"organizer"
+],
+[
+"组队",
+5.61,
+"zǔ duì",
+"to team up (with); to put a team together"
+],
+[
+"组装",
+5.58,
+"zǔ zhuāng",
+"to assemble and install"
+]
+],
 "strokes": [
 "M 343 482 Q 340 482 337 481 Q 285 481 243 480 Q 209 480 227 501 Q 299 619 368 706 Q 383 724 380 732 Q 379 747 338 780 Q 322 793 302 790 Q 292 787 297 771 Q 315 728 221 563 Q 202 526 159 489 Q 140 474 142 462 Q 146 443 161 423 Q 171 413 185 419 Q 209 434 325 457 C 354 463 373 484 343 482 Z",
 "M 325 457 Q 223 318 200 305 Q 187 296 189 282 Q 190 269 217 250 Q 227 238 242 251 Q 308 299 418 335 Q 437 341 439 349 Q 442 359 422 355 Q 361 343 285 320 Q 258 310 276 333 Q 318 393 418 515 Q 445 552 470 573 Q 482 583 476 593 Q 466 612 433 630 Q 417 640 407 637 Q 397 633 400 618 Q 403 576 343 482 L 325 457 Z",

@@ -9,51 +9,69 @@
 [
 "开幕式",
 5,
-"kāimùshì",
+"kāi mù shì",
 "opening ceremony"
 ],
 [
 "字幕",
 5,
-"zìmù",
-"subtitles; captions"
-],
-[
-"内幕",
-6,
-"nèimù",
-"inside story; non-public information; behind the scenes"
+"zì mù",
+"caption; subtitle"
 ],
 [
 "屏幕",
 6,
-"píngmù",
-"screen (TV, etc.)"
+"píng mù",
+"screen (TV, computer or movie)"
+],
+[
+"内幕",
+6,
+"nèi mù",
+"inside story; non-public information; behind the scenes; internal"
 ]
 ],
 "extraWords": [
 [
+"开幕",
+24.29,
+"kāi mù",
+"to open (a conference); to inaugurate"
+],
+[
+"幕后",
+14.82,
+"mù hòu",
+"behind the scenes"
+],
+[
 "序幕",
 8.62,
-"xu4 mu4",
+"xù mù",
 "prologue"
 ],
 [
 "帷幕",
 8.49,
-"wei2 mu4",
+"wéi mù",
 "heavy curtain"
+],
+[
+"闭幕",
+7.8,
+"bì mù",
+"the curtain falls; lower the curtain; to come to an end (of a meeting)"
 ],
 [
 "揭幕",
 6.54,
-"jie1 mu4",
+"jiē mù",
 "opening; unveiling"
 ],
 [
 "落幕",
 5.01,
-"luo4 mu4",
+"luò mù",
 "the curtain drops; the end of the show"
 ]
 ],

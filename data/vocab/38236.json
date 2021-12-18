@@ -7,25 +7,32 @@
 },
 "words": [
 [
-"镜子",
-4,
-"jìngzi",
-"mirror"
-],
-[
 "眼镜",
 4,
-"yǎnjìng",
-"glasses; spectacles"
+"yǎn jìng",
+"spectacles; eyeglasses; CL:副[fu4]"
+],
+[
+"镜子",
+4,
+"jìng zi",
+"mirror; CL:面[mian4],個|个[ge4]"
 ],
 [
 "镜头",
 6,
-"jìngtóu",
-"camera shot (in a movie, etc.); scene; camera lens"
+"jìng tóu",
+"camera lens; camera shot (in a movie etc); scene"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"望远镜",
+6.08,
+"wàng yuǎn jìng",
+"binoculars; telescope; CL:付[fu4],副[fu4],部[bu4]"
+]
+],
 "strokes": [
 "M 292 624 Q 358 730 377 748 Q 387 758 382 772 Q 378 785 350 808 Q 323 826 305 826 Q 286 825 294 803 Q 309 769 295 741 Q 255 647 194 559 Q 136 474 55 382 Q 45 372 43 366 Q 39 356 53 358 Q 105 365 270 591 Q 273 595 276 599 L 292 624 Z",
 "M 276 599 Q 318 590 383 607 Q 447 625 458 630 Q 465 639 460 646 Q 453 656 425 660 Q 398 661 334 635 Q 313 631 292 624 C 263 615 247 605 276 599 Z",

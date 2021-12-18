@@ -9,47 +9,132 @@
 [
 "职业",
 4,
-"zhíyè",
-"profession; occupation"
+"zhí yè",
+"occupation; profession; vocation; professional"
 ],
 [
 "辞职",
 5,
-"cízhí",
-"resign from a position"
+"cí zhí",
+"to resign"
 ],
 [
 "兼职",
 5,
-"jiānzhí",
-"part time"
+"jiān zhí",
+"to hold concurrent posts; concurrent job; moonlighting"
+],
+[
+"职位",
+6,
+"zhí wèi",
+"post; office; position"
+],
+[
+"职务",
+6,
+"zhí wù",
+"post; position; job; duties"
 ],
 [
 "就职",
 6,
 "jiù zhí",
-"take office; assume a post"
+"to take office; to assume a post"
 ],
 [
 "职能",
 6,
-"zhínéng",
+"zhí néng",
 "function; role"
-],
-[
-"职位",
-6,
-"zhíwèi",
-"(professional) position"
-],
-[
-"职务",
-6,
-"zhíwù",
-"post; a position; job; duties"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"职工",
+119.28,
+"zhí gōng",
+"workers; staff; CL:個|个[ge4]"
+],
+[
+"职责",
+30.52,
+"zhí zé",
+"duty; responsibility; obligation"
+],
+[
+"任职",
+12.03,
+"rèn zhí",
+"to hold an office or post"
+],
+[
+"职场",
+10.26,
+"zhí chǎng",
+"workplace; workforce (of a nation or industry etc); job market"
+],
+[
+"职员",
+9.3,
+"zhí yuán",
+"office worker; staff member; CL:個|个[ge4],位[wei4]"
+],
+[
+"职业教育",
+8.34,
+"zhí yè jiào yù",
+"vocational training"
+],
+[
+"职权",
+8.21,
+"zhí quán",
+"authority; power over others"
+],
+[
+"求职",
+7.78,
+"qiú zhí",
+"to seek employment"
+],
+[
+"专职",
+7.63,
+"zhuān zhí",
+"special duty; assigned full time to a task"
+],
+[
+"职称",
+7.24,
+"zhí chēng",
+"one's professional position; title; job title"
+],
+[
+"在职",
+6.48,
+"zài zhí",
+"to be employed; to be in post; on-the-job"
+],
+[
+"称职",
+6.08,
+"chèn zhí",
+"well qualified; competent; to be equal to the task; able to do sth very well"
+],
+[
+"离职",
+5.25,
+"lí zhí",
+"to retire; to leave office; to quit a job"
+],
+[
+"停职",
+5.01,
+"tíng zhí",
+"to suspend (sb) from duties"
+]
+],
 "strokes": [
 "M 379 703 Q 395 707 414 710 Q 459 719 466 725 Q 475 732 471 740 Q 464 752 436 760 Q 412 766 307 736 Q 169 714 138 711 Q 102 707 127 690 Q 142 680 164 675 L 212 673 Q 230 679 348 698 L 379 703 Z",
 "M 164 675 Q 185 633 185 594 Q 186 557 181 252 C 181 222 221 233 221 263 Q 222 330 224 390 L 224 414 Q 225 469 227 518 L 227 544 Q 228 571 229 596 Q 232 659 223 664 Q 217 668 212 673 C 189 692 151 702 164 675 Z",

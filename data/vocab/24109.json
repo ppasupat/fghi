@@ -9,46 +9,52 @@
 [
 "出席",
 5,
-"chūxí",
-"attend; be present; participate"
+"chū xí",
+"to attend; to participate; present"
 ],
 [
 "主席",
 5,
-"zhǔxí",
-"chairperson; president"
+"zhǔ xí",
+"chairperson; premier; chairman; CL:個|个[ge4],位[wei4]"
 ],
 [
 "缺席",
 6,
 "quē xí",
-"absence; absent; default"
+"absence; absent"
 ]
 ],
 "extraWords": [
 [
 "毛主席",
 80.07,
-"Mao2 Zhu3 xi2",
+"Máo Zhǔ xí",
 "Chairman Mao; Mao Zedong 毛澤東|毛泽东 (1893-1976), Chinese Communist leader"
 ],
 [
 "首席",
 30.02,
-"shou3 xi2",
+"shǒu xí",
 "chief (representative, correspondent etc)"
 ],
 [
 "副主席",
 25.2,
-"fu4 zhu3 xi2",
+"fù zhǔ xí",
 "vice-chairperson"
 ],
 [
 "席位",
 9.41,
-"xi2 wei4",
+"xí wèi",
 "a seat (in a theater, stadium etc); parliamentary or congressional seat"
+],
+[
+"国家主席",
+6.89,
+"guó jiā zhǔ xí",
+"president (title of the head of state of China and several other nations)"
 ]
 ],
 "strokes": [

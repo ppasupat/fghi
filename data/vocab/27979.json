@@ -9,29 +9,90 @@
 [
 "测验",
 5,
-"cèyàn",
-"test; exam; to test"
-],
-[
-"测量",
-6,
-"cèliáng",
-"to survey; to measure"
-],
-[
-"探测",
-6,
-"tàncè",
-"probe; take readings; detect; explore"
+"cè yàn",
+"test; to test; CL:次[ci4],個|个[ge4]"
 ],
 [
 "推测",
 6,
-"tuīcè",
-"speculate; conjecture; surmise"
+"tuī cè",
+"speculation; to conjecture; to surmise; to speculate"
+],
+[
+"测量",
+6,
+"cè liáng",
+"survey; to measure; to gauge; to determine"
+],
+[
+"探测",
+6,
+"tàn cè",
+"to probe; to take readings; to explore; exploration"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"测试",
+80.04,
+"cè shì",
+"to test (machinery etc); to test (students); test; quiz; exam; beta (software)"
+],
+[
+"检测",
+77.52,
+"jiǎn cè",
+"to detect; to test; detection; sensing"
+],
+[
+"预测",
+61.28,
+"yù cè",
+"to forecast; to predict"
+],
+[
+"监测",
+43.11,
+"jiān cè",
+"to monitor"
+],
+[
+"测定",
+39.21,
+"cè dìng",
+"to determine (by measuring or surveying)"
+],
+[
+"猜测",
+15.96,
+"cāi cè",
+"to guess; to conjecture; to surmise"
+],
+[
+"测算",
+10.05,
+"cè suàn",
+"to take measurements and calculate"
+],
+[
+"观测",
+9.96,
+"guān cè",
+"to observe; to survey; observation (scientific etc)"
+],
+[
+"测评",
+7.3,
+"cè píng",
+"to test and evaluate"
+],
+[
+"探测器",
+5.99,
+"tàn cè qì",
+"detector; probe; craft"
+]
+],
 "strokes": [
 "M 205 706 Q 229 682 253 654 Q 266 639 283 639 Q 295 639 301 653 Q 307 668 299 700 Q 293 728 203 757 Q 187 761 180 759 Q 174 755 175 742 Q 179 730 205 706 Z",
 "M 128 543 Q 170 486 205 465 Q 221 461 231 473 Q 238 486 237 503 Q 230 549 144 581 Q 128 587 118 584 Q 111 583 113 570 Q 114 558 128 543 Z",

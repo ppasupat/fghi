@@ -9,83 +9,204 @@
 [
 "服务员",
 2,
-"fúwùyuán",
-"waiter/waitress; server; attendant"
+"fú wù yuán",
+"waiter; waitress; attendant; customer service personnel; CL:個|个[ge4],位[wei4]"
 ],
 [
 "任务",
 4,
-"rènwu",
-"a mission; an assignment; a task"
-],
-[
-"家务",
-5,
-"jiāwù",
-"household duties; chores; housework"
-],
-[
-"商务",
-5,
-"shāngwù",
-"business; commercial affairs"
-],
-[
-"业务",
-5,
-"yèwù",
-"business; profession"
+"rèn wu",
+"mission; assignment; task; duty; role; CL:項|项[xiang4],個|个[ge4]"
 ],
 [
 "义务",
 5,
-"yìwù",
-"duty; obligation; volunteer duty"
+"yì wù",
+"duty; obligation; CL:項|项[xiang4]; volunteer (work etc)"
 ],
 [
-"财务",
-6,
-"cáiwù",
-"financial affairs"
+"业务",
+5,
+"yè wù",
+"business; professional work; service; CL:項|项[xiang4]"
 ],
 [
-"当务之急",
-6,
-"dāngwùzhījí",
-"the most pressing matter of the moment; a top priority task; urgent matter"
+"家务",
+5,
+"jiā wù",
+"household duties; housework"
 ],
 [
-"公务",
-6,
-"gōngwù",
-"public affairs; official business"
-],
-[
-"国务院",
-6,
-"guówùyuàn",
-"State Council (PRC); State Department (USA)"
+"商务",
+5,
+"shāng wù",
+"commercial affairs; commercial; commerce; business"
 ],
 [
 "事务",
 6,
-"shìwù",
-"affairs; work"
+"shì wù",
+"(political, economic etc) affairs; work; transaction (as in a computer database)"
 ],
 [
-"务必",
+"财务",
 6,
-"wùbì",
-"must; need to; be sure to"
+"cái wù",
+"financial affairs"
 ],
 [
 "职务",
 6,
-"zhíwù",
-"post; a position; job; duties"
+"zhí wù",
+"post; position; job; duties"
+],
+[
+"公务",
+6,
+"gōng wù",
+"official business"
+],
+[
+"务必",
+6,
+"wù bì",
+"must; to need to; to be sure to"
+],
+[
+"国务院",
+6,
+"Guó wù yuàn",
+"State Council (PRC); State Department (USA)"
+],
+[
+"当务之急",
+6,
+"dāng wù zhī jí",
+"top priority job; matter of vital importance"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"服务",
+410.41,
+"fú wù",
+"to serve; service; CL:項|项[xiang4]"
+],
+[
+"公务员",
+26.39,
+"gōng wù yuán",
+"functionary; office-bearer"
+],
+[
+"债务",
+24.69,
+"zhài wù",
+"debt; liability; amount due; indebtedness"
+],
+[
+"事务所",
+24.59,
+"shì wù suǒ",
+"office; firm"
+],
+[
+"服务器",
+24.19,
+"fú wù qì",
+"server (computer); CL:臺|台[tai2]"
+],
+[
+"服务业",
+17.33,
+"fú wù yè",
+"service industry"
+],
+[
+"商务部",
+16.51,
+"Shāng wù bù",
+"Department of Trade; Department of Commerce"
+],
+[
+"常务",
+16.47,
+"cháng wù",
+"routine; everyday business; daily operation (of a company)"
+],
+[
+"税务",
+13.62,
+"shuì wù",
+"taxation services; state revenue service"
+],
+[
+"义务教育",
+12.56,
+"yì wù jiào yù",
+"compulsory education"
+],
+[
+"务实",
+11.67,
+"wù shí",
+"pragmatic; dealing with concrete issues"
+],
+[
+"政务",
+11.46,
+"zhèng wù",
+"government affairs"
+],
+[
+"服务生",
+11.39,
+"fú wù shēng",
+"server (at a restaurant)"
+],
+[
+"劳务",
+11.17,
+"láo wù",
+"service (work done for money); services (as in \"goods and services\")"
+],
+[
+"务工",
+10.23,
+"wù gōng",
+"to work as a laborer"
+],
+[
+"医务",
+10.2,
+"yī wù",
+"medical affairs"
+],
+[
+"售后服务",
+9.34,
+"shòu hòu fú wù",
+"after-sales service"
+],
+[
+"业务员",
+7.22,
+"yè wù yuán",
+"salesperson"
+],
+[
+"国务卿",
+6.92,
+"guó wù qīng",
+"Secretary of State"
+],
+[
+"特务",
+6.45,
+"tè wu",
+"special assignment (military); special agent; operative; spy"
+]
+],
 "strokes": [
 "M 441 715 Q 445 733 487 766 Q 499 778 497 791 Q 496 804 470 829 Q 448 850 429 851 Q 410 851 416 830 Q 423 805 413 786 Q 380 722 333 664 Q 287 609 226 549 Q 216 540 212 534 Q 208 524 221 525 Q 281 532 426 697 L 441 715 Z",
 "M 565 534 Q 607 583 651 647 Q 670 674 697 691 Q 713 698 714 707 Q 714 720 686 739 Q 652 764 637 766 Q 625 766 613 759 Q 526 723 460 716 Q 447 716 441 715 C 411 713 399 710 426 697 Q 441 685 472 681 Q 508 681 572 708 Q 591 712 599 705 Q 603 701 582 658 Q 558 612 521 566 L 496 536 Q 373 398 168 328 Q 158 325 158 320 Q 158 316 166 315 Q 232 305 355 363 Q 358 366 363 367 Q 438 404 536 501 L 565 534 Z",

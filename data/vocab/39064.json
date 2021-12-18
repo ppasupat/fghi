@@ -9,59 +9,102 @@
 [
 "题",
 2,
+"Tí",
+"surname Ti"
+],
+[
+"题",
+2,
 "tí",
-"topic; subject; question on a test or assignment"
+"topic; problem for discussion; exam question; subject; to inscribe; to mention; CL:個|个[ge4],道[dao4]"
 ],
 [
 "问题",
 2,
-"wèntí",
-"question; problem"
+"wèn tí",
+"question; problem; issue; topic; CL:個|个[ge4]"
 ],
 [
 "话题",
 5,
-"huàtí",
-"subject (of a talk or conversation)"
-],
-[
-"题目",
-5,
-"tímù",
-"subject; title; topic"
+"huà tí",
+"subject (of a talk or conversation); topic"
 ],
 [
 "主题",
 5,
-"zhǔtí",
-"theme; subject; topic"
+"zhǔ tí",
+"theme; subject"
+],
+[
+"题目",
+5,
+"tí mù",
+"subject; title; topic; CL:個|个[ge4]"
 ],
 [
 "标题",
 6,
-"biāotí",
-"title; header; headline; caption"
-],
-[
-"课题",
-6,
-"kètí",
-"task; problem; issue; question for discussion"
+"biāo tí",
+"title; heading; headline; caption; subject"
 ],
 [
 "题材",
 6,
-"tícái",
+"tí cái",
 "subject matter"
+],
+[
+"课题",
+6,
+"kè tí",
+"task; problem; issue"
 ],
 [
 "专题",
 6,
-"zhuāntí",
-"special topic; questions; special matter or subject"
+"zhuān tí",
+"specific topic (addressed by a book, lecture, TV program etc); article, report or program etc on a specific topic"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"难题",
+25.01,
+"nán tí",
+"difficult problem"
+],
+[
+"命题",
+9.38,
+"mìng tí",
+"proposition (logic, math.); to assign an essay topic"
+],
+[
+"议题",
+9.2,
+"yì tí",
+"topic of discussion; topic; subject; issue (under discussion); CL:項|项[xiang4]"
+],
+[
+"试题",
+7.52,
+"shì tí",
+"exam question; test topic"
+],
+[
+"出问题",
+5.7,
+"chū wèn tí",
+"to have sth go wrong; to have a problem arise; to give problems"
+],
+[
+"主题曲",
+5.07,
+"zhǔ tí qǔ",
+"theme song"
+]
+],
 "strokes": [
 "M 258 748 Q 248 752 226 757 Q 214 761 211 756 Q 204 750 212 735 Q 237 675 248 580 Q 249 552 265 532 Q 281 510 287 525 Q 288 529 290 535 L 292 560 Q 286 621 284 629 L 282 651 Q 276 702 276 719 C 275 742 275 742 258 748 Z",
 "M 401 552 Q 419 528 433 522 Q 443 515 455 535 Q 468 559 489 685 Q 496 713 515 736 Q 525 746 515 759 Q 500 772 462 794 Q 447 800 390 783 Q 371 783 258 748 C 229 739 248 710 276 719 Q 322 735 406 753 Q 425 757 431 750 Q 444 737 442 723 Q 427 605 418 586 Q 415 576 404 572 C 392 563 392 563 401 552 Z",

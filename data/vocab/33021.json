@@ -9,195 +9,261 @@
 [
 "能",
 1,
+"Néng",
+"surname Neng"
+],
+[
+"能",
+1,
 "néng",
-"can; be able"
+"can; to be able to; might possibly; ability; (physics) energy"
 ],
 [
 "可能",
 2,
-"kěnéng",
-"possible; maybe"
+"kě néng",
+"might (happen); possible; probable; possibility; probability; maybe; perhaps; CL:個|个[ge4]"
 ],
 [
 "能力",
 4,
-"nénglì",
-"capability; capable; ability"
+"néng lì",
+"capability; ability; CL:個|个[ge4]"
 ],
 [
 "功能",
 5,
-"gōngnéng",
-"function; feature"
-],
-[
-"能干",
-5,
-"nénggàn",
-"capable; competent"
+"gōng néng",
+"function; capability"
 ],
 [
 "能源",
 5,
-"néngyuán",
-"energy resources; power source"
+"néng yuán",
+"energy; power source; CL:個|个[ge4]"
 ],
 [
-"本能",
-6,
-"běnnéng",
-"instinct"
-],
-[
-"力所能及",
-6,
-"lìsuǒnéngjí",
-"within one's power; to the best of one's ability"
-],
-[
-"难能可贵",
-6,
-"nánnéngkěguì",
-"estimable; extremely good"
+"能干",
+5,
+"néng gàn",
+"capable; competent"
 ],
 [
 "能量",
 6,
-"néngliàng",
+"néng liàng",
 "energy; capabilities"
 ],
 [
 "无能为力",
 6,
 "wú néng wéi lì",
-"incapable of action; powerless; impotent"
+"impotent (idiom); powerless; helpless"
+],
+[
+"本能",
+6,
+"běn néng",
+"instinct"
+],
+[
+"智能",
+6,
+"zhì néng",
+"intelligent; able; smart (phone, system, bomb etc)"
+],
+[
+"力所能及",
+6,
+"lì suǒ néng jí",
+"as far as one's capabilities extend (idiom); to the best of one's ability; within one's powers"
 ],
 [
 "性能",
 6,
-"xìngnéng",
+"xìng néng",
 "function; performance"
 ],
 [
 "职能",
 6,
-"zhínéng",
+"zhí néng",
 "function; role"
 ],
 [
-"智能",
+"难能可贵",
 6,
-"zhìnéng",
-"intelligent; capability; smart (phone, system, bomb, etc.)"
+"nán néng kě guì",
+"rare and precious; valuable; remarkable"
 ]
 ],
 "extraWords": [
 [
 "不能",
 564.77,
-"bu4 neng2",
+"bù néng",
 "cannot; must not; should not"
+],
+[
+"能够",
+299.24,
+"néng gòu",
+"to be capable of; to be able to; can"
 ],
 [
 "才能",
 205.69,
-"cai2 neng2",
+"cái néng",
 "talent; ability; capacity"
 ],
 [
 "只能",
 196.17,
-"zhi3 neng2",
+"zhǐ néng",
 "can only; obliged to do sth; to have no other choice"
 ],
 [
 "不可能",
 91.61,
-"bu4 ke3 neng2",
+"bù kě néng",
 "impossible; cannot; not able"
 ],
 [
 "能否",
 47.86,
-"neng2 fou3",
+"néng fǒu",
 "whether or not; can it or can't it; is it possible?"
 ],
 [
 "技能",
 45.19,
-"ji4 neng2",
+"jì néng",
 "technical ability; skill"
 ],
 [
 "未能",
 40.81,
-"wei4 neng2",
+"wèi néng",
 "cannot; to fail to; unable to"
 ],
 [
 "可能性",
 38.11,
-"ke3 neng2 xing4",
+"kě néng xìng",
 "possibility; probability"
+],
+[
+"节能",
+31.6,
+"jié néng",
+"to save energy; energy-saving"
+],
+[
+"尽可能",
+20.43,
+"jǐn kě néng",
+"as far as possible; to do one's utmost"
 ],
 [
 "有能力",
 17.87,
-"you3 neng2 li4",
+"yǒu néng lì",
 "able"
 ],
 [
 "不能不",
 14.07,
-"bu4 neng2 bu4",
+"bù néng bù",
 "have to; cannot but"
+],
+[
+"体能",
+10.91,
+"tǐ néng",
+"physical capability; stamina"
 ],
 [
 "多功能",
 10.07,
-"duo1 gong1 neng2",
+"duō gōng néng",
 "multi-functional; multi-function"
+],
+[
+"太阳能",
+9.9,
+"tài yáng néng",
+"solar energy"
+],
+[
+"无能",
+8.7,
+"wú néng",
+"incompetence; inability; incapable; powerless"
+],
+[
+"万能",
+8.23,
+"wàn néng",
+"omnipotent; all-purpose; universal"
 ],
 [
 "佳能",
 8.16,
-"Jia1 neng2",
+"Jiā néng",
 "Canon (Japanese company)"
+],
+[
+"总能",
+7.79,
+"zǒng néng",
+"total energy"
 ],
 [
 "能耗",
 7.53,
-"neng2 hao4",
+"néng hào",
 "energy consumption"
+],
+[
+"机能",
+7.1,
+"jī néng",
+"function"
 ],
 [
 "效能",
 7.05,
-"xiao4 neng2",
+"xiào néng",
 "efficacy; effectiveness"
+],
+[
+"潜能",
+7.02,
+"qián néng",
+"potential; hidden capability"
 ],
 [
 "原子能",
 6.66,
-"yuan2 zi3 neng2",
+"yuán zǐ néng",
 "atomic energy"
 ],
 [
 "能耐",
 6.08,
-"neng2 nai4",
+"néng nài",
 "ability; capability"
 ],
 [
 "全能",
 6.07,
-"quan2 neng2",
+"quán néng",
 "omnipotent; all-round; strong in every area"
 ],
 [
 "高性能",
 5.16,
-"gao1 xing4 neng2",
+"gāo xìng néng",
 "high performance"
 ]
 ],

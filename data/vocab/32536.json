@@ -9,17 +9,36 @@
 [
 "边缘",
 6,
-"biānyuán",
-"edge; fringe; verge; brink"
+"biān yuán",
+"edge; fringe; verge; brink; periphery; marginal; borderline"
 ],
 [
 "缘故",
 6,
-"yuángù",
+"yuán gù",
 "reason; cause"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"缘分",
+11.13,
+"yuán fèn",
+"fate or chance that brings people together; predestined affinity or relationship; (Budd.) destiny"
+],
+[
+"无缘",
+10.0,
+"wú yuán",
+"to have no opportunity; no way (of doing sth); no chance; no connection; not placed (in a competition); (in pop lyrics) no chance of love, no place to be together etc"
+],
+[
+"有缘",
+6.22,
+"yǒu yuán",
+"related; brought together by fate"
+]
+],
 "strokes": [
 "M 278 512 Q 277 512 190 509 Q 162 508 176 525 Q 243 637 307 719 Q 320 735 319 743 Q 316 756 279 786 Q 264 799 246 796 Q 236 793 242 779 Q 257 737 171 584 Q 152 548 113 514 Q 95 501 97 489 Q 101 470 116 453 Q 126 443 138 450 Q 169 471 262 489 C 291 495 308 513 278 512 Z",
 "M 262 489 Q 168 360 145 348 Q 132 339 135 326 Q 136 314 161 296 Q 171 286 185 297 Q 242 339 343 376 Q 361 380 363 389 Q 366 399 347 395 Q 292 385 226 363 Q 202 354 218 374 Q 338 542 393 587 Q 405 597 399 606 Q 389 624 357 642 Q 342 651 333 648 Q 324 645 326 630 Q 329 597 278 512 L 262 489 Z",

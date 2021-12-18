@@ -9,23 +9,48 @@
 [
 "摇",
 5,
-"yáo",
-"to shake; to rock"
+"Yáo",
+"surname Yao"
 ],
 [
-"摇摆",
-6,
-"yáobǎi",
-"to waver; to wag; to sway"
+"摇",
+5,
+"yáo",
+"to shake; to rock; to row; to crank"
 ],
 [
 "摇滚",
 6,
-"yáogǔn",
-"rock and roll"
+"yáo gǔn",
+"rock 'n' roll (music); to rock; to fall off"
+],
+[
+"摇摆",
+6,
+"yáo bǎi",
+"to sway; to wobble; to waver"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"摇头",
+23.4,
+"yáo tóu",
+"to shake one's head"
+],
+[
+"动摇",
+9.66,
+"dòng yáo",
+"to sway; to waver; to rock; to rattle; to destabilize; to pose a challenge to"
+],
+[
+"摇滚乐",
+7.09,
+"yáo gǔn yuè",
+"rock music; rock 'n roll"
+]
+],
 "strokes": [
 "M 327 512 Q 343 518 360 521 Q 391 531 397 535 Q 404 544 400 552 Q 393 564 362 569 Q 346 572 329 568 L 279 551 Q 204 527 132 515 Q 95 506 122 491 Q 158 472 234 489 Q 255 495 278 500 L 327 512 Z",
 "M 273 327 Q 270 237 269 124 Q 268 100 255 91 Q 246 88 185 105 Q 152 118 155 109 Q 156 102 175 85 Q 235 31 249 2 Q 265 -32 281 -35 Q 296 -36 311 -2 Q 330 44 331 118 Q 324 245 324 370 L 324 400 Q 324 457 327 512 L 329 568 Q 329 670 350 740 Q 366 771 312 793 Q 278 812 259 805 Q 241 799 257 776 Q 279 749 279 715 Q 280 697 279 551 L 278 500 Q 277 442 274 367 L 273 327 Z",

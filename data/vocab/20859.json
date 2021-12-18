@@ -9,53 +9,114 @@
 [
 "养成",
 4,
-"yǎngchéng",
-"cultivate; acquire; to form"
+"yǎng chéng",
+"to cultivate; to raise; to form (a habit); to acquire"
 ],
 [
 "培养",
 5,
-"péiyǎng",
-"to train; cultivate; bring up"
+"péi yǎng",
+"to cultivate; to breed; to foster; to nurture; to educate; to groom (for a position); education; fostering; culture (biology)"
 ],
 [
 "营养",
 5,
-"yíngyǎng",
-"nutrition; nourishment; sustenance"
-],
-[
-"保养",
-6,
-"bǎoyǎng",
-"take good care of (or conserve) one's health; keep in good repair"
+"yíng yǎng",
+"nutrition; nourishment; CL:種|种[zhong3]"
 ],
 [
 "抚养",
 6,
-"fǔyǎng",
-"foster; bring up; raise"
+"fǔ yǎng",
+"to foster; to bring up; to raise"
 ],
 [
 "教养",
 6,
-"jiàoyǎng",
-"upbringing; education; bring up; nurture and train"
+"jiào yǎng",
+"to train; to educate; to bring up; to nurture; education; culture; upbringing; early conditioning"
+],
+[
+"保养",
+6,
+"bǎo yǎng",
+"to take good care of (or conserve) one's health; to keep in good repair; to maintain; maintenance"
 ],
 [
 "饲养",
 6,
-"sìyǎng",
-"to raise; to rear (domestic animal)"
+"sì yǎng",
+"to raise; to rear"
 ],
 [
 "修养",
 6,
-"xiūyǎng",
-"accomplishment; self-cultivation"
+"xiū yǎng",
+"accomplishment; training; self-cultivation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"养殖",
+22.96,
+"yǎng zhí",
+"to cultivate; cultivation; to further; to encourage"
+],
+[
+"养老",
+20.39,
+"yǎng lǎo",
+"to provide for the elderly (family members); to enjoy a life in retirement"
+],
+[
+"收养",
+17.02,
+"shōu yǎng",
+"to take in and care for (an elderly person, a dog etc); to adopt (a child); adoption"
+],
+[
+"领养",
+11.15,
+"lǐng yǎng",
+"adoption; to adopt (a child)"
+],
+[
+"养生",
+9.4,
+"yǎng shēng",
+"to maintain good health; to raise a child or animal; curing (of concrete etc)"
+],
+[
+"养老金",
+7.34,
+"yǎng lǎo jīn",
+"pension"
+],
+[
+"养护",
+6.14,
+"yǎng hù",
+"to maintain; to conserve; curing (concrete etc)"
+],
+[
+"素养",
+6.09,
+"sù yǎng",
+"(personal) accomplishment; attainment in self-cultivation"
+],
+[
+"养活",
+5.72,
+"yǎng huo",
+"to provide for; to keep (animals, a family etc); to raise animals; to feed and clothe; support; the necessities of life; to give birth"
+],
+[
+"喂养",
+5.63,
+"wèi yǎng",
+"to feed (a child, domestic animal etc); to keep; to raise (an animal)"
+]
+],
 "strokes": [
 "M 376 757 Q 398 739 422 717 Q 435 705 450 707 Q 460 708 465 720 Q 469 735 459 763 Q 447 790 369 803 Q 354 806 348 803 Q 344 799 345 787 Q 349 777 376 757 Z",
 "M 603 808 Q 579 774 532 720 Q 526 714 531 707 Q 538 706 545 710 Q 630 765 671 786 Q 687 790 685 801 Q 679 816 662 834 Q 644 852 624 854 Q 609 854 610 836 Q 611 823 603 808 Z",

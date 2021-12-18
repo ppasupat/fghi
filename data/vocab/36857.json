@@ -7,43 +7,68 @@
 },
 "words": [
 [
-"名胜古迹",
-5,
-"míngshènggǔjì",
-"famous scenic spots and ancient historic sites"
-],
-[
 "奇迹",
 5,
-"qíjì",
-"miracle; miraculous; marvel"
+"qí jì",
+"miracle; miraculous; wonder; marvel"
+],
+[
+"名胜古迹",
+5,
+"míng shèng gǔ jì",
+"historical sites and scenic spots"
 ],
 [
 "痕迹",
 6,
-"hénjì",
-"vestige; trace"
+"hén jì",
+"vestige; mark; trace"
 ],
 [
 "迹象",
 6,
-"jìxiàng",
-"mark; indication; sign"
-],
-[
-"事迹",
-6,
-"shìjì",
-"achievement; deed"
+"jì xiàng",
+"mark; indication; sign; indicator"
 ],
 [
 "踪迹",
 6,
-"zōngjì",
+"zōng jì",
 "tracks; trail; footprint; trace; vestige"
+],
+[
+"事迹",
+6,
+"shì jì",
+"deed; past achievement; important event of the past"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"血迹",
+23.64,
+"xuè jì",
+"bloodstain"
+],
+[
+"轨迹",
+8.08,
+"guǐ jì",
+"locus; orbit; trajectory; track"
+],
+[
+"笔迹",
+6.38,
+"bǐ jì",
+"handwriting"
+],
+[
+"足迹",
+5.23,
+"zú jì",
+"footprint; track; spoor"
+]
+],
 "strokes": [
 "M 548 779 Q 626 694 656 695 Q 674 694 680 718 Q 681 734 668 761 Q 653 782 622 791 Q 573 810 552 814 Q 540 815 539 800 Q 538 790 548 779 Z",
 "M 673 588 Q 737 597 829 600 Q 883 604 889 611 Q 893 623 877 635 Q 826 668 792 658 Q 672 628 382 573 Q 363 570 378 555 Q 406 530 452 543 Q 476 552 506 557 L 543 565 Q 576 574 637 583 L 673 588 Z",

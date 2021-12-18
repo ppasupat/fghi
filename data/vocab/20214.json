@@ -10,99 +10,117 @@
 "件",
 2,
 "jiàn",
-"(mw for things, clothes, and items)"
+"item; component; classifier for events, things, clothes etc"
 ],
 [
 "电子邮件",
 3,
-"diànzǐ yóujiàn",
-"email"
+"diàn zǐ yóu jiàn",
+"email; CL:封[feng1],份[fen4]"
 ],
 [
 "条件",
 4,
-"tiáojiàn",
-"condition; circumstances; prerequisite"
-],
-[
-"零件",
-5,
-"língjiàn",
-"spare parts; component"
-],
-[
-"软件",
-5,
-"ruǎnjiàn",
-"(computer) software"
+"tiáo jiàn",
+"condition; circumstances; term; factor; requirement; prerequisite; qualification; CL:個|个[ge4]"
 ],
 [
 "文件",
 5,
-"wénjiàn",
-"document; file"
-],
-[
-"硬件",
-5,
-"yìngjiàn",
-"hardware"
+"wén jiàn",
+"document; file; CL:份[fen4]"
 ],
 [
 "证件",
 5,
-"zhèngjiàn",
-"paperwork; credentials; papers; certificates"
+"zhèng jiàn",
+"certificate; papers; credentials; document; ID"
 ],
 [
-"案件",
-6,
-"ànjiàn",
-"legal case; judicial case"
+"软件",
+5,
+"ruǎn jiàn",
+"(computer) software"
 ],
 [
-"附件",
-6,
-"fùjiàn",
-"attachment; enclosure"
+"零件",
+5,
+"líng jiàn",
+"part; component"
 ],
 [
-"稿件",
-6,
-"gǎojiàn",
-"rough draft of a document"
+"硬件",
+5,
+"yìng jiàn",
+"hardware"
 ],
 [
 "事件",
 6,
-"shìjiàn",
-"event; happening; incident"
+"shì jiàn",
+"event; happening; incident; CL:個|个[ge4]"
+],
+[
+"案件",
+6,
+"àn jiàn",
+"case; instance; CL:宗[zong1],樁|桩[zhuang1],起[qi3]"
+],
+[
+"附件",
+6,
+"fù jiàn",
+"enclosure; attachment (email); appendix"
+],
+[
+"稿件",
+6,
+"gǎo jiàn",
+"piece of writing submitted for publication; manuscript; article"
 ]
 ],
 "extraWords": [
 [
+"邮件",
+35.62,
+"yóu jiàn",
+"mail; post; email"
+],
+[
 "配件",
 13.07,
-"pei4 jian4",
+"pèi jiàn",
 "component; part; fitting; accessory; replacement part"
 ],
 [
 "零部件",
 11.13,
-"ling2 bu4 jian4",
+"líng bù jiàn",
 "spare part; component"
 ],
 [
 "部件",
 9.08,
-"bu4 jian4",
+"bù jiàn",
 "part; component"
 ],
 [
 "信件",
 8.82,
-"xin4 jian4",
+"xìn jiàn",
 "letter (sent by mail)"
+],
+[
+"复印件",
+6.51,
+"fù yìn jiàn",
+"photocopy; duplicate"
+],
+[
+"无条件",
+6.15,
+"wú tiáo jiàn",
+"unconditional"
 ]
 ],
 "strokes": [

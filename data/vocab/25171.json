@@ -9,237 +9,345 @@
 [
 "打电话",
 1,
-"dǎ diànhuà",
-"make a phone call"
+"dǎ diàn huà",
+"to make a telephone call"
 ],
 [
 "打篮球",
 2,
-"dǎ lánqiú",
-"play basketball"
-],
-[
-"打扫",
-3,
-"dǎsǎo",
-"to clean; to sweep"
+"da3 lan2 qiu2",
+"to play basketball"
 ],
 [
 "打算",
 3,
-"dǎsuàn",
-"to plan; intend"
+"dǎ suàn",
+"to plan; to intend; to calculate; plan; intention; calculation; CL:個|个[ge4]"
 ],
 [
-"打扮",
-4,
-"dǎban",
-"dress up; put on make up"
+"打扫",
+3,
+"dǎ sǎo",
+"to clean; to sweep"
 ],
 [
 "打扰",
 4,
-"dǎrǎo",
-"disturb"
+"dǎ rǎo",
+"to disturb; to bother; to trouble"
 ],
 [
-"打印",
+"打扮",
 4,
-"dǎyìn",
-"to print"
+"dǎ ban",
+"to decorate; to dress; to make up; to adorn; manner of dressing; style of dress"
 ],
 [
 "打招呼",
 4,
-"dǎzhāohu",
-"notify; greet; inform"
+"dǎ zhāo hu",
+"to greet sb by word or action; to give prior notice"
 ],
 [
-"打折",
+"打印",
 4,
-"dǎzhé",
-"sell at a discount"
+"dǎ yìn",
+"to affix a seal; to stamp; to print out (with a printer)"
 ],
 [
 "打针",
 4,
-"dǎzhēn",
-"inject; get a shot"
+"dǎ zhēn",
+"to give or have an injection"
 ],
 [
-"打工",
-5,
-"dǎgōng",
-"work a part time job; (regional) do manual labor; do odd jobs"
+"打折",
+4,
+"dǎ zhé",
+"to give a discount"
 ],
 [
 "打交道",
 5,
-"dǎ jiāodao",
-"come into contact with; to deal with"
+"dǎ jiāo dào",
+"to come into contact with; to have dealings"
 ],
 [
-"打喷嚏",
+"打工",
 5,
-"dǎpēntì",
-"to sneeze"
+"dǎ gōng",
+"to work a temporary or casual job; (of students) to have a job outside of class time, or during vacation"
 ],
 [
 "打听",
 5,
-"dǎting",
-"ask about; inquire about"
+"dǎ ting",
+"to ask about; to make some inquiries; to ask around"
 ],
 [
-"打包",
-6,
-"dǎbāo",
-"get a doggy bag (at a restaurant); pack up"
-],
-[
-"打官司",
-6,
-"dǎ guānsi",
-"go to court"
-],
-[
-"打击",
-6,
-"dǎjī",
-"to strike; to hit; to attack"
+"打喷嚏",
+5,
+"dǎ pēn tì",
+"to sneeze"
 ],
 [
 "打架",
 6,
 "dǎ jià",
-"to fight; scuffle; to come to blows"
+"to fight; to scuffle; to come to blows; CL:場|场[chang2]"
 ],
 [
-"打量",
+"打击",
 6,
-"dǎliang",
-"take measure of; size up"
+"dǎ jī",
+"to hit; to strike; to attack; to crack down on sth; blow; (psychological) shock; percussion (music)"
+],
+[
+"打仗",
+6,
+"dǎ zhàng",
+"to fight a battle; to go to war"
+],
+[
+"打包",
+6,
+"dǎ bāo",
+"to wrap; to pack; to put leftovers in a doggy bag for take-out; to package (computing)"
 ],
 [
 "打猎",
 6,
 "dǎ liè",
-"hunt; to go hunting"
+"to go hunting"
 ],
 [
-"打仗",
+"殴打",
 6,
-"dǎzhàng",
-"fight; go to war; fight a battle"
+"ōu dǎ",
+"to beat up; to come to blows; battery (law)"
+],
+[
+"打官司",
+6,
+"dǎ guān si",
+"to file a lawsuit; to sue; to dispute"
+],
+[
+"打量",
+6,
+"dǎ liang",
+"to size sb up; to look sb up and down; to take the measure of; to suppose; to reckon"
+],
+[
+"无精打采",
+6,
+"wú jīng dǎ cǎi",
+"dispirited and downcast (idiom); listless; in low spirits; washed out"
 ],
 [
 "精打细算",
 6,
 "jīng dǎ xì suàn",
-"(saying) meticulous planning and careful accounting"
-],
-[
-"殴打",
-6,
-"ōudǎ",
-"beat up; hit"
-],
-[
-"无精打采",
-6,
-"wújīngdǎcǎi",
-"listless; be dispirited; in low spirits"
+"meticulous planning and careful accounting (idiom)"
 ]
 ],
 "extraWords": [
 [
+"打开",
+148.72,
+"dǎ kāi",
+"to open; to show (a ticket); to turn on; to switch on"
+],
+[
 "打造",
 52.42,
-"da3 zao4",
+"dǎ zào",
 "to create; to build; to develop; to forge (of metal)"
+],
+[
+"打赌",
+47.55,
+"dǎ dǔ",
+"to bet; to make a bet; a wager"
+],
+[
+"打败",
+37.86,
+"dǎ bài",
+"to defeat; to overpower; to beat; to be defeated"
 ],
 [
 "打破",
 36.89,
-"da3 po4",
+"dǎ pò",
 "to break; to smash"
+],
+[
+"打断",
+27.16,
+"dǎ duàn",
+"to interrupt; to break off; to break (a bone)"
 ],
 [
 "打的",
 17.8,
-"da3 di1",
+"dǎ dī",
 "(coll.) to take a taxi; to go by taxi"
 ],
 [
 "打球",
 17.2,
-"da3 qiu2",
+"dǎ qiú",
 "to play ball; to play with a ball"
 ],
 [
 "打死",
 17.15,
-"da3 si3",
+"dǎ sǐ",
 "to kill; to beat to death"
+],
+[
+"打进",
+13.9,
+"dǎ jìn",
+"to breach; to invade"
+],
+[
+"打搅",
+13.35,
+"dǎ jiǎo",
+"to disturb; to trouble"
 ],
 [
 "打下",
 11.85,
-"da3 xia4",
+"dǎ xià",
 "to lay (a foundation); to conquer (a city etc); to shoot down (a bird etc)"
+],
+[
+"打动",
+11.42,
+"dǎ dòng",
+"to move (to pity); arousing (sympathy); touching"
 ],
 [
 "打倒",
 10.28,
-"da3 dao3",
+"dǎ dǎo",
 "to overthrow; to knock down; Down with ... !"
 ],
 [
 "打底",
 10.27,
-"da3 di3",
+"dǎ dǐ",
 "to lay a foundation (also fig.); to make a first sketch; to eat sth before drinking; to apply an undercoat"
 ],
 [
 "打住",
 9.15,
-"da3 zhu4",
+"dǎ zhù",
 "to stop; to halt"
+],
+[
+"打发",
+8.47,
+"dǎ fa",
+"to dispatch sb to do sth; to make sb leave; to pass (the time); (old) to make arrangements; (old) to bestow (alms etc)"
 ],
 [
 "打碎",
 8.32,
-"da3 sui4",
+"dǎ suì",
 "to shatter; to smash; to break into pieces"
+],
+[
+"打斗",
+8.17,
+"dǎ dòu",
+"to fight"
+],
+[
+"打响",
+8.15,
+"dǎ xiǎng",
+"to start shooting or firing; to win an initial success; to succeed (of a plan)"
+],
+[
+"苏打",
+8.14,
+"sū dá",
+"soda (loanword)"
+],
+[
+"拨打",
+7.84,
+"bō dǎ",
+"to call; to dial"
+],
+[
+"打压",
+7.66,
+"dǎ yā",
+"to suppress; to beat down"
 ],
 [
 "打法",
 7.66,
-"da3 fa3",
+"dǎ fǎ",
 "to play (a card); to make a move in a game"
+],
+[
+"单打",
+7.47,
+"dān dǎ",
+"singles (in sports); CL:場|场[chang3]"
 ],
 [
 "打劫",
 6.35,
-"da3 jie2",
+"dǎ jié",
 "to loot; to rob; to plunder; to ransack"
 ],
 [
 "打通",
 5.89,
-"da3 tong1",
+"dǎ tōng",
 "to open access; to establish contact; to remove a block; to put through (a phone connection)"
 ],
 [
 "打中",
 5.87,
-"da3 zhong4",
+"dǎ zhòng",
 "to hit (a target)"
+],
+[
+"打捞",
+5.78,
+"dǎ lāo",
+"to salvage; to dredge; to fish out (person or object from the sea)"
+],
+[
+"双打",
+5.75,
+"shuāng dǎ",
+"doubles (in sports); CL:場|场[chang3]"
+],
+[
+"打伤",
+5.41,
+"dǎ shāng",
+"to injure; to wound; to damage"
+],
+[
+"打火机",
+5.19,
+"dǎ huǒ jī",
+"lighter; cigarette lighter"
 ],
 [
 "打牌",
 5.04,
-"da3 pai2",
+"dǎ pái",
 "to play mahjong or cards"
 ]
 ],

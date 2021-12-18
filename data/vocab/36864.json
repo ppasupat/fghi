@@ -10,51 +10,99 @@
 "退",
 5,
 "tuì",
-"to retreat; decline; withdraw"
-],
-[
-"退步",
-5,
-"tuìbù",
-"to degenerate; to regress"
+"to retreat; to decline; to move back; to withdraw"
 ],
 [
 "退休",
 5,
-"tuìxiū",
-"retirement (from work); retire"
+"tuì xiū",
+"to retire; retirement (from work)"
+],
+[
+"退步",
+5,
+"tuì bù",
+"to do less well than before; to make a concession; setback; backward step; leeway; room to maneuver; fallback"
 ],
 [
 "撤退",
 6,
-"chètuì",
-"retreat"
+"chè tuì",
+"to retreat"
 ],
 [
 "衰退",
 6,
-"shuāituì",
-"decline; fall; drop; falter"
+"shuāi tuì",
+"to decline; to fall; to drop; to falter; a decline; recession (in economics)"
 ]
 ],
 "extraWords": [
 [
 "退出",
 39.41,
-"tui4 chu1",
+"tuì chū",
 "to withdraw; to abort; to quit; to log out (computing)"
+],
+[
+"退后",
+31.87,
+"tuì hòu",
+"to stand back; to go back (in time); to yield; to make concessions"
+],
+[
+"后退",
+16.69,
+"hòu tuì",
+"to recoil; to draw back; to fall back; to retreat"
 ],
 [
 "退役",
 12.96,
-"tui4 yi4",
+"tuì yì",
 "to retire from the military, sport etc; to demobilize; to decommission; retired from use"
+],
+[
+"退缩",
+6.92,
+"tuì suō",
+"to shrink back; to cower"
+],
+[
+"退还",
+6.64,
+"tuì huán",
+"to return (sth borrowed etc); to send back; to refund; to rebate"
 ],
 [
 "退回",
 6.29,
-"tui4 hui2",
+"tuì huí",
 "to return (an item); to send back; to go back"
+],
+[
+"退税",
+5.7,
+"tuì shuì",
+"tax rebate or refund"
+],
+[
+"减退",
+5.18,
+"jiǎn tuì",
+"to ebb; to go down; to decline"
+],
+[
+"退货",
+5.05,
+"tuì huò",
+"to return merchandise; to withdraw a product"
+],
+[
+"退学",
+5.04,
+"tuì xué",
+"to quit school"
 ]
 ],
 "strokes": [

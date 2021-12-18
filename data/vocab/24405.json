@@ -9,47 +9,96 @@
 [
 "记录",
 5,
-"jìlù",
-"to record; take notes"
+"jì lù",
+"to record; record (written account); note-taker; record (in sports etc); CL:個|个[ge4]"
 ],
 [
 "纪录",
 5,
-"jìlù",
-"a record; to take notes"
-],
-[
-"录取",
-5,
-"lùqǔ",
-"recruit; enroll; matriculate"
+"jì lù",
+"variant of 記錄|记录[ji4 lu4] (but in Taiwan, not for the verb sense \"to record\")"
 ],
 [
 "录音",
 5,
-"lùyīn",
-"sound recording; to record"
+"lù yīn",
+"to record (sound); sound recording; CL:個|个[ge4]"
+],
+[
+"录取",
+5,
+"lù qǔ",
+"to accept an applicant (prospective student, employee etc) who passes an entrance exam; to admit (a student); to hire (a job candidate)"
 ],
 [
 "目录",
 5,
-"mùlù",
-"catalog; table of contents; directory (on computer hard drive)"
-],
-[
-"备忘录",
-6,
-"bèiwànglù",
-"memorandum; aide-memoire; diplomacy memorandum; memorandum book"
+"mù lù",
+"catalog; table of contents; directory (on computer hard drive); list; contents"
 ],
 [
 "登录",
 6,
-"dēnglù",
-"sign-in"
+"dēng lù",
+"to register; to log in"
+],
+[
+"备忘录",
+6,
+"bèi wàng lù",
+"memorandum; aide-memoire; memorandum book"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"录像",
+43.22,
+"lù xiàng",
+"to videotape; to videorecord; video recording; CL:盤|盘[pan2]"
+],
+[
+"录像带",
+16.66,
+"lù xiàng dài",
+"video cassette; CL:盤|盘[pan2]"
+],
+[
+"录制",
+9.64,
+"lù zhì",
+"to record (video or audio)"
+],
+[
+"世界纪录",
+7.6,
+"shì jiè jì lù",
+"world record"
+],
+[
+"纪录片",
+7.2,
+"jì lù piàn",
+"newsreel; documentary (film or TV program); CL:部[bu4]"
+],
+[
+"语录",
+7.08,
+"yǔ lù",
+"quotation (from a book or existing source)"
+],
+[
+"录用",
+5.58,
+"lù yòng",
+"to hire (an employee); to accept (a manuscript) for publication"
+],
+[
+"收录",
+5.49,
+"shōu lù",
+"to include (in a collection); to put together (stories, poems etc); to record; to employ; to recruit"
+]
+],
 "strokes": [
 "M 652 516 Q 683 654 729 694 Q 747 713 732 733 Q 714 748 660 775 Q 641 784 618 775 Q 516 739 353 729 Q 337 729 338 719 Q 339 710 358 703 Q 383 691 418 701 Q 509 713 595 726 Q 617 730 626 720 Q 641 707 637 676 Q 619 582 596 508 C 587 479 645 487 652 516 Z",
 "M 332 607 Q 305 604 326 587 Q 353 566 399 572 Q 510 593 578 596 Q 588 595 597 607 Q 598 617 576 628 Q 548 649 465 626 Q 459 626 456 624 Q 420 618 332 607 Z",

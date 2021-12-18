@@ -9,11 +9,18 @@
 [
 "稿件",
 6,
-"gǎojiàn",
-"rough draft of a document"
+"gǎo jiàn",
+"piece of writing submitted for publication; manuscript; article"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"发稿",
+5.46,
+"fā gǎo",
+"(of a publisher) to send a manuscript off to the printer; (of a journalist) to send a dispatch"
+]
+],
 "strokes": [
 "M 311 687 Q 428 732 460 738 Q 478 739 481 747 Q 485 757 473 769 Q 452 785 409 802 Q 393 809 381 809 Q 374 805 372 794 Q 372 754 161 660 Q 155 651 162 648 Q 183 648 270 675 Q 277 676 285 679 L 311 687 Z",
 "M 346 522 Q 389 534 442 543 Q 458 546 459 553 Q 459 566 441 574 Q 404 587 348 565 L 307 554 Q 157 517 95 507 Q 82 506 80 497 Q 77 487 93 476 Q 132 451 173 466 Q 237 491 286 505 L 346 522 Z",

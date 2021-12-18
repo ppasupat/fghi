@@ -10,321 +10,465 @@
 "好",
 1,
 "hǎo",
-"good"
+"good; well; proper; good to; easy to; very; so; (suffix indicating completion or readiness); (of two people) close; on intimate terms; (after a personal pronoun) hello"
+],
+[
+"好",
+1,
+"hào",
+"to be fond of; to have a tendency to; to be prone to"
 ],
 [
 "好吃",
 2,
-"hǎochī",
-"tasty"
+"hǎo chī",
+"tasty; delicious"
+],
+[
+"好吃",
+2,
+"hào chī",
+"to be fond of eating; to be gluttonous"
 ],
 [
 "爱好",
 3,
-"àihào",
-"hobby; fond of; to like; interest"
-],
-[
-"好处",
-4,
-"hǎochu",
-"benefit; advantage"
+"ài hào",
+"to like; to take pleasure in; keen on; fond of; interest; hobby; appetite for; CL:個|个[ge4]"
 ],
 [
 "好像",
 4,
-"hǎoxiàng",
-"as if; seem to be"
-],
-[
-"友好",
-4,
-"yǒuhǎo",
-"friendly (relations); close friends"
+"hǎo xiàng",
+"as if; to seem like"
 ],
 [
 "正好",
 4,
-"zhènghǎo",
-"just (in time); just right; just enough; happen to; by chance"
+"zhèng hǎo",
+"just (in time); just right; just enough; to happen to; to chance to; by chance; it just so happens that"
 ],
 [
-"只好",
+"好处",
 4,
-"zhǐhǎo",
-"have to; be forced to"
+"hǎo chǔ",
+"easy to get along with"
+],
+[
+"好处",
+4,
+"hǎo chu",
+"benefit; advantage; gain; profit; also pr. [hao3 chu4]; CL:個|个[ge4]"
 ],
 [
 "最好",
 4,
-"zuìhǎo",
-"the best; had better ...; it would be best"
+"zuì hǎo",
+"best; (you) had better (do what we suggest)"
 ],
 [
-"好客",
-5,
-"hàokè",
-"hospitable; to enjoy having guests"
+"友好",
+4,
+"Yǒu hǎo",
+"Youhao district of Yichun city 伊春市[Yi1 chun1 shi4], Heilongjiang"
+],
+[
+"友好",
+4,
+"yǒu hǎo",
+"friendly; amicable; close friend"
+],
+[
+"只好",
+4,
+"zhǐ hǎo",
+"without any better option; to have to; to be forced to"
 ],
 [
 "好奇",
 5,
-"hàoqí",
-"curious"
+"hào qí",
+"inquisitive; curious; inquisitiveness; curiosity"
 ],
 [
 "良好",
 5,
-"liánghǎo",
-"good; favorable; well"
+"liáng hǎo",
+"good; favorable; well; fine"
+],
+[
+"好客",
+5,
+"hào kè",
+"hospitality; to treat guests well; to enjoy having guests; hospitable; friendly"
+],
+[
+"讨好",
+6,
+"tǎo hǎo",
+"to get the desired outcome; to win favor by fawning on sb; to curry favor with; a fruitful outcome to reward one's labor"
 ],
 [
 "恰到好处",
 6,
 "qià dào hǎo chù",
-"just right; it's just perfect"
-],
-[
-"讨好",
-6,
-"tǎohǎo",
-"to flatter"
+"it's just perfect; it's just right"
 ]
 ],
 "extraWords": [
 [
 "好好",
 229.65,
-"hao3 hao3",
+"hǎo hǎo",
 "well; carefully; nicely; properly"
 ],
 [
 "不好意思",
 143.23,
-"bu4 hao3 yi4 si5",
+"bù hǎo yì si",
 "to feel embarrassed; to find it embarrassing; to be sorry (for inconveniencing sb)"
 ],
 [
 "不好",
 133.61,
-"bu4 hao3",
+"bù hǎo",
 "no good"
+],
+[
+"好运",
+98.04,
+"hǎo yùn",
+"good luck"
 ],
 [
 "好多",
 78.5,
-"hao3 duo1",
+"hǎo duō",
 "many; quite a lot; much better"
 ],
 [
 "美好",
 78.09,
-"mei3 hao3",
+"měi hǎo",
 "beautiful; fine"
 ],
 [
 "好看",
 76.14,
-"hao3 kan4",
+"hǎo kàn",
 "good-looking; nice-looking; good (of a movie, book, TV show etc); embarrassed; humiliated"
 ],
 [
 "好事",
 58.04,
-"hao3 shi4",
+"hǎo shì",
 "good action, deed, thing or work (also sarcastic, \"a fine thing indeed\"); charity; happy occasion; Daoist or Buddhist ceremony for the souls of the dead"
 ],
 [
 "好事",
 58.04,
-"hao4 shi4",
+"hào shì",
 "to be meddlesome"
+],
+[
+"好人",
+53.6,
+"hǎo rén",
+"good person; healthy person; person who tries not to offend anyone, even at the expense of principle"
+],
+[
+"好几",
+51.09,
+"hǎo jǐ",
+"several; quite a few"
+],
+[
+"好莱坞",
+50.74,
+"Hǎo lái wù",
+"Hollywood"
 ],
 [
 "好友",
 46.38,
-"hao3 you3",
+"hǎo yǒu",
 "close friend; pal; (social networking website) friend; CL:個|个[ge4]"
+],
+[
+"较好",
+40.26,
+"jiào hǎo",
+"better"
 ],
 [
 "你好",
 37.38,
-"ni3 hao3",
+"nǐ hǎo",
 "hello; hi"
+],
+[
+"还好",
+37.34,
+"hái hǎo",
+"not bad; tolerable; fortunately"
 ],
 [
 "好玩",
 37.17,
-"hao3 wan2",
+"hǎo wán",
 "amusing; fun; interesting"
 ],
 [
 "好玩",
 37.17,
-"hao4 wan2",
+"hào wán",
 "to be playful; to be fond of one's fun"
 ],
 [
 "也好",
 36.67,
-"ye3 hao3",
-"may as well; that's fine"
+"yě hǎo",
+"that's fine; may as well; (reduplicated) regardless of whether ... or ..."
 ],
 [
 "好久",
 36.55,
-"hao3 jiu3",
+"hǎo jiǔ",
 "quite a while"
 ],
 [
 "看好",
 32.15,
-"kan1 hao3",
+"kān hǎo",
 "to keep an eye on"
 ],
 [
 "看好",
 32.15,
-"kan4 hao3",
+"kàn hǎo",
 "to regard as having good prospects"
 ],
 [
 "好笑",
 31.54,
-"hao3 xiao4",
+"hǎo xiào",
 "laughable; funny; ridiculous"
 ],
 [
 "搞好",
 28.99,
-"gao3 hao3",
+"gǎo hǎo",
 "to do well at; to do a good job"
+],
+[
+"好听",
+28.84,
+"hǎo tīng",
+"pleasant to hear"
+],
+[
+"刚好",
+21.02,
+"gāng hǎo",
+"just; exactly; to happen to be"
+],
+[
+"好转",
+20.58,
+"hǎo zhuǎn",
+"to improve; to take a turn for the better; improvement"
 ],
 [
 "好朋友",
 17.54,
-"hao3 peng2 you5",
+"hǎo péng you",
 "good friend; (slang) a visit from Aunt Flo (menstrual period)"
 ],
 [
 "修好",
 17.23,
-"xiu1 hao3",
+"xiū hǎo",
 "to repair (sth broken); to restore (sth damaged); to establish friendly relations with; (literary) to do meritorious deeds"
 ],
 [
 "好受",
 16.57,
-"hao3 shou4",
+"hǎo shòu",
 "feeling better; to be more at ease"
 ],
 [
 "好在",
 16.21,
-"hao3 zai4",
+"hǎo zài",
 "luckily; fortunately"
+],
+[
+"好评",
+14.87,
+"hǎo píng",
+"favorable criticism; positive evaluation"
 ],
 [
 "幸好",
 14.84,
-"xing4 hao3",
+"xìng hǎo",
 "fortunately"
 ],
 [
 "好似",
 14.4,
-"hao3 si4",
+"hǎo sì",
 "to seem; to be like"
+],
+[
+"爱好者",
+13.99,
+"ài hào zhě",
+"lover (of art, sports etc); amateur; enthusiast; fan"
+],
+[
+"问好",
+13.12,
+"wèn hǎo",
+"to say hello to; to send one's regards to"
+],
+[
+"说好",
+12.8,
+"shuō hǎo",
+"to come to an agreement; to complete negotiations"
 ],
 [
 "好不容易",
 12.2,
-"hao3 bu4 rong2 yi4",
+"hǎo bù róng yì",
 "with great difficulty; very difficult"
 ],
 [
 "好感",
 9.82,
-"hao3 gan3",
+"hǎo gǎn",
 "good opinion; favorable impression"
+],
+[
+"好坏",
+9.52,
+"hǎo huài",
+"good or bad; good and bad; standard; quality"
 ],
 [
 "好日子",
 9.36,
-"hao3 ri4 zi5",
+"hǎo rì zi",
 "auspicious day; good day; happy life"
 ],
 [
 "要好",
 9.03,
-"yao4 hao3",
+"yào hǎo",
 "to be on good terms; to be close friends; striving for self-improvement"
 ],
 [
 "恰好",
 8.94,
-"qia4 hao3",
+"qià hǎo",
 "as it turns out; by lucky coincidence; (of number, time, size etc) just right"
 ],
 [
 "好比",
 8.2,
-"hao3 bi3",
+"hǎo bǐ",
 "to be just like; can be compared to"
 ],
 [
 "您好",
 7.99,
-"nin2 hao3",
+"nín hǎo",
 "hello (polite)"
 ],
 [
 "好些",
 7.96,
-"hao3 xie1",
+"hǎo xiē",
 "a good deal of; quite a lot"
 ],
 [
 "好心",
 7.94,
-"hao3 xin1",
+"hǎo xīn",
 "kindness; good intentions"
+],
+[
+"好过",
+7.78,
+"hǎo guò",
+"to have an easy time; (feel) well"
 ],
 [
 "好棒",
 7.71,
-"hao3 bang4",
+"hǎo bàng",
 "excellent (interjection)"
 ],
 [
 "好意",
 7.48,
-"hao3 yi4",
+"hǎo yì",
 "good intention; kindness"
+],
+[
+"好起来",
+7.43,
+"hǎo qǐ lai",
+"to get better; to improve; to get well"
+],
+[
+"好说",
+7.36,
+"hǎo shuō",
+"easy to deal with; not a problem; (polite answer) you flatter me"
+],
+[
+"好心人",
+6.09,
+"hǎo xīn rén",
+"kindhearted person; good Samaritan"
 ],
 [
 "喜好",
 5.81,
-"xi3 hao4",
+"xǐ hào",
 "to like; fond of; to prefer; to love; one's tastes; preference"
 ],
 [
 "好家伙",
 5.37,
-"hao3 jia1 huo5",
+"hǎo jiā huo",
 "my God!; oh boy!; man!"
 ],
 [
 "好歹",
 5.27,
-"hao3 dai3",
+"hǎo dǎi",
 "good and bad; most unfortunate occurrence; in any case; whatever"
+],
+[
+"好久不见",
+5.16,
+"hǎo jiǔ bu jiàn",
+"long time no see"
 ],
 [
 "完好",
 5.07,
-"wan2 hao3",
+"wán hǎo",
 "intact; in good condition"
+],
+[
+"学好",
+5.04,
+"xué hǎo",
+"to follow good examples"
 ]
 ],
 "strokes": [

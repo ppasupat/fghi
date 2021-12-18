@@ -7,257 +7,347 @@
 },
 "words": [
 [
-"符合",
+"适合",
 4,
-"fúhé",
-"in keeping with; in accordance with; conform"
-],
-[
-"合格",
-4,
-"hégé",
-"qualified; up to standard"
+"shì hé",
+"to fit; to suit"
 ],
 [
 "合适",
 4,
-"héshì",
-"suitable; proper; appropriate"
+"hé shì",
+"suitable; fitting; appropriate"
 ],
 [
-"适合",
+"符合",
 4,
-"shìhé",
-"to suit; to fit"
+"fú hé",
+"in keeping with; in accordance with; tallying with; in line with; to agree with; to accord with; to conform to; to correspond with; to manage; to handle"
 ],
 [
-"合法",
-5,
-"héfǎ",
-"lawful; legitimate; legal"
-],
-[
-"合理",
-5,
-"hélǐ",
-"rational; reasonable"
-],
-[
-"合同",
-5,
-"hétong",
-"contract"
-],
-[
-"合影",
-5,
-"héyǐng",
-"joint photo; group photo"
+"合格",
+4,
+"hé gé",
+"to meet the standard required; qualified; eligible (voter etc)"
 ],
 [
 "合作",
 5,
-"hézuò",
-"cooperate; collaborate; work together"
+"hé zuò",
+"to cooperate; to collaborate; to work together; cooperation; CL:個|个[ge4]"
 ],
 [
-"集合",
+"合同",
 5,
-"jíhé",
-"gather; assemble; to muster"
+"hé tong",
+"(business) contract; CL:個|个[ge4]"
 ],
 [
-"结合",
+"合法",
 5,
-"jiéhé",
-"combine; to link; to bind"
-],
-[
-"联合",
-5,
-"liánhé",
-"alliance; combine; unite"
-],
-[
-"配合",
-5,
-"pèihé",
-"be harmoniously combined or arranged; matching; fitting in with; compatible with; to correspond; to fit; to conform to; rapport; to coordinate with; to act in concern with; to cooperate; to become man and wife; to combine parts of a machine"
-],
-[
-"综合",
-5,
-"zōnghé",
-"synthesized; composite; summarize"
+"hé fǎ",
+"lawful; legitimate; legal"
 ],
 [
 "组合",
 5,
-"zǔhé",
-"assemble; combination"
+"zǔ hé",
+"to assemble; to combine; to compose; combination; association; set; compilation; (math.) combinatorial"
 ],
 [
-"场合",
-6,
-"chǎnghé",
-"occasion; situation"
+"合理",
+5,
+"hé lǐ",
+"rational; reasonable; fair"
 ],
 [
-"凑合",
-6,
-"còuhe",
-"bring together; make do in a bad situation; improvise"
+"配合",
+5,
+"pèi hé",
+"matching; fitting in with; compatible with; to correspond; to fit; to conform to; rapport; to coordinate with; to act in concert with; to cooperate; to become man and wife; to combine parts of machine"
 ],
 [
-"合并",
-6,
-"hébìng",
-"merge; annex"
+"联合",
+5,
+"lián hé",
+"to combine; to join; unite; alliance"
 ],
 [
-"合成",
-6,
-"héchéng",
-"compound; synthesis; mixture"
+"集合",
+5,
+"jí hé",
+"to gather; to assemble; set (math.)"
 ],
 [
-"合伙",
-6,
-"héhuǒ",
-"to make a partnership"
+"结合",
+5,
+"jié hé",
+"to combine; to link; to integrate; binding; CL:次[ci4]"
 ],
 [
-"合算",
-6,
-"hésuàn",
-"worthwhile; reckon up"
+"综合",
+5,
+"zōng hé",
+"comprehensive; composite; synthesized; mixed; to sum up; to integrate; to synthesize"
+],
+[
+"合影",
+5,
+"hé yǐng",
+"to take a joint photo; group photo"
 ],
 [
 "混合",
 6,
-"hùnhé",
-"to mix; to blend"
+"hùn hé",
+"to mix; to blend; hybrid; composite"
+],
+[
+"场合",
+6,
+"chǎng hé",
+"situation; occasion; context; setting; location; venue"
+],
+[
+"合并",
+6,
+"hé bìng",
+"variant of 合併|合并[he2 bing4]"
+],
+[
+"合并",
+6,
+"hé bìng",
+"to merge; to annex"
+],
+[
+"合成",
+6,
+"hé chéng",
+"to compose; to constitute; compound; synthesis; mixture; synthetic"
+],
+[
+"合伙",
+6,
+"hé huǒ",
+"to act jointly; to form a partnership"
+],
+[
+"凑合",
+6,
+"còu he",
+"to bring together; to make do in a bad situation; to just get by; to improvise; passable; not too bad"
+],
+[
+"合算",
+6,
+"hé suàn",
+"worthwhile; to be a good deal; to be a bargain; to reckon up; to calculate"
 ],
 [
 "磨合",
 6,
-"móhé",
-"adapt gradually to each other; to consult; break in; wear in"
+"mó hé",
+"to break in; to wear in"
 ]
 ],
 "extraWords": [
 [
+"联合国",
+63.05,
+"Lián hé guó",
+"United Nations"
+],
+[
 "整合",
 41.65,
-"zheng3 he2",
+"zhěng hé",
 "to conform; to integrate"
+],
+[
+"合约",
+35.61,
+"hé yuē",
+"treaty; contract"
 ],
 [
 "融合",
 27.9,
-"rong2 he2",
+"róng hé",
 "a mixture; an amalgam; fusion; welding together; to be in harmony with (nature); to harmonize with; to fit in"
+],
+[
+"合资",
+27.08,
+"hé zī",
+"joint venture"
 ],
 [
 "合伙人",
 22.0,
-"he2 huo3 ren2",
+"hé huǒ rén",
 "partner; associate"
 ],
 [
 "巧合",
 21.11,
-"qiao3 he2",
+"qiǎo hé",
 "coincidence; coincidental; to coincide"
 ],
 [
 "吻合",
 16.99,
-"wen3 he2",
+"wěn hé",
 "to be a good fit; to be identical with; to adjust oneself to; to fit in"
+],
+[
+"复合",
+15.68,
+"fù hé",
+"(of people who were estranged) to be reconciled; (of a couple) to get back together"
+],
+[
+"复合",
+15.68,
+"fù hé",
+"complex; compound; composite; hybrid; to compound; to combine"
 ],
 [
 "合肥",
 13.33,
-"He2 fei2",
+"Hé féi",
 "Hefei, capital of Anhui Province 安徽省[An1 hui1 Sheng3] in south central China"
+],
+[
+"合计",
+12.97,
+"hé jì",
+"to add up the total; to figure what sth amounts to; to consider"
 ],
 [
 "回合",
 11.42,
-"hui2 he2",
+"huí hé",
 "one of a sequence of contests (or subdivisions of a contest) between the same two opponents; round (boxing etc); rally (tennis etc); frame (billiards etc); inning; (tennis, soccer etc) rubber or leg; round (of negotiations)"
+],
+[
+"联合会",
+11.37,
+"lián hé huì",
+"federation"
+],
+[
+"综合性",
+10.78,
+"zōng hé xìng",
+"synthesis"
 ],
 [
 "合作社",
 10.62,
-"he2 zuo4 she4",
+"hé zuò shè",
 "cooperative; workers' or agricultural producers' cooperative etc"
+],
+[
+"愈合",
+10.52,
+"yù hé",
+"(of a wound) to heal"
+],
+[
+"综合征",
+10.32,
+"zōng hé zhēng",
+"syndrome"
 ],
 [
 "合金",
 8.89,
-"he2 jin1",
+"hé jīn",
 "alloy"
 ],
 [
 "合力",
 8.2,
-"he2 li4",
+"hé lì",
 "to cooperate"
+],
+[
+"综合症",
+7.78,
+"zōng hé zhèng",
+"syndrome"
 ],
 [
 "合一",
 7.57,
-"he2 yi1",
+"hé yī",
 "to unite"
+],
+[
+"约合",
+7.43,
+"yuē hé",
+"approximately; about (some numerical value)"
 ],
 [
 "百合",
 7.38,
-"bai3 he2",
+"bǎi hé",
 "lily"
+],
+[
+"会合",
+7.27,
+"huì hé",
+"to meet; to rendezvous; to merge; to link up; meeting; confluence"
 ],
 [
 "合唱",
 6.99,
-"he2 chang4",
+"hé chàng",
 "chorus; to chorus"
 ],
 [
 "不合",
 6.95,
-"bu4 he2",
+"bù hé",
 "to not conform to; to be unsuited to; to be out of keeping with; should not; ought out"
+],
+[
+"缝合",
+6.62,
+"féng hé",
+"to sew together; suture (in surgery); to sew up (a wound)"
 ],
 [
 "化合物",
 5.99,
-"hua4 he2 wu4",
+"huà hé wù",
 "chemical compound"
 ],
 [
 "迎合",
 5.82,
-"ying2 he2",
+"yíng hé",
 "to cater to; to pander to"
 ],
 [
 "合身",
 5.51,
-"he2 shen1",
+"hé shēn",
 "well-fitting (of clothes)"
 ],
 [
 "折合",
 5.47,
-"zhe2 he2",
+"zhé hé",
 "to convert into; to amount to; to be equivalent to"
 ],
 [
 "合理性",
 5.29,
-"he2 li3 xing4",
+"hé lǐ xìng",
 "reason; rationality; rationale; reasonableness"
 ]
 ],

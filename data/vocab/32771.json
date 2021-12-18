@@ -9,82 +9,100 @@
 [
 "考试",
 2,
-"kǎoshì",
-"test; exam; to give or take a test"
+"kǎo shì",
+"to take an exam; exam; CL:次[ci4]"
 ],
 [
 "考虑",
 4,
-"kǎolǜ",
-"think over; consider"
-],
-[
-"参考",
-5,
-"cānkǎo",
-"reference; consult"
+"kǎo lu:4",
+"to think over; to consider; consideration"
 ],
 [
 "思考",
 5,
-"sīkǎo",
-"reflect on; ponder; consider"
+"sī kǎo",
+"to reflect on; to ponder over"
+],
+[
+"参考",
+5,
+"cān kǎo",
+"consultation; reference; to consult; to refer"
+],
+[
+"考验",
+6,
+"kǎo yàn",
+"to test; to put to the test; trial; ordeal"
 ],
 [
 "考察",
 6,
-"kǎochá",
-"inspect; investigate; analyze"
+"kǎo chá",
+"to inspect; to observe and study; on-the-spot investigation"
 ],
 [
 "考古",
 6,
-"kǎogǔ",
+"kǎo gǔ",
 "archaeology"
 ],
 [
 "考核",
 6,
-"kǎohé",
-"examine; check up on"
-],
-[
-"考验",
-6,
-"kǎoyàn",
-"put to the test; trial"
+"kǎo hé",
+"to examine; to check up on; to assess; to review; appraisal; review; evaluation"
 ]
 ],
 "extraWords": [
 [
 "考生",
 58.55,
-"kao3 sheng1",
+"kǎo shēng",
 "exam candidate; student whose name has been put forward for an exam"
 ],
 [
 "高考",
 44.81,
-"gao1 kao3",
+"gāo kǎo",
 "college entrance exam (especially as abbr. for 普通高等學校招生全國統一考試|普通高等学校招生全国统一考试[Pu3 tong1 Gao1 deng3 Xue2 xiao4 Zhao1 sheng1 Quan2 guo2 Tong3 yi1 Kao3 shi4]); (Tw) entrance exam for senior government service posts (abbr. for 公務人員高等考試|公务人员高等考试)"
+],
+[
+"报考",
+14.73,
+"bào kǎo",
+"to enter oneself for an examination"
+],
+[
+"考场",
+9.57,
+"kǎo chǎng",
+"exam room"
 ],
 [
 "考上",
 8.49,
-"kao3 shang4",
+"kǎo shàng",
 "to pass a university entrance exam"
 ],
 [
 "中考",
 7.43,
-"zhong1 kao3",
+"zhōng kǎo",
 "entrance exam for senior middle school"
 ],
 [
 "考查",
 5.61,
-"kao3 cha2",
+"kǎo chá",
 "to investigate; to study"
+],
+[
+"考证",
+5.21,
+"kǎo zhèng",
+"to do textual research; to make textual criticism; to verify by means of research (esp. historical details); to take an exam to get a certificate (abbr. for 考取證件|考取证件[kao3 qu3 zheng4 jian4])"
 ]
 ],
 "strokes": [

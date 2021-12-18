@@ -9,23 +9,36 @@
 [
 "利润",
 5,
-"lìrùn",
-"profit"
+"lì rùn",
+"profits"
 ],
 [
 "湿润",
 5,
-"shīrùn",
-"moist; humid"
+"shī rùn",
+"moist"
 ],
 [
 "滋润",
 6,
-"zīrùn",
-"quenched; moist"
+"zī rùn",
+"moist; humid; to moisten; to provide moisture; comfortably off"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"浸润",
+6.93,
+"jìn rùn",
+"to permeate; to percolate; fig. to saturate (with emotion)"
+],
+[
+"利润率",
+6.07,
+"lì rùn lu:4",
+"profit margin"
+]
+],
 "strokes": [
 "M 202 693 Q 226 671 251 644 Q 264 631 281 631 Q 291 631 297 645 Q 301 660 294 689 Q 285 717 198 742 Q 182 746 176 743 Q 172 739 172 726 Q 176 716 202 693 Z",
 "M 123 506 Q 168 457 200 442 Q 215 439 223 453 Q 229 465 226 481 Q 214 520 134 543 Q 118 547 109 544 Q 103 543 106 531 Q 107 519 123 506 Z",

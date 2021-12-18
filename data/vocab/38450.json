@@ -9,69 +9,111 @@
 [
 "预防",
 5,
-"yùfáng",
-"prevent; take precautions against"
-],
-[
-"防守",
-6,
-"fángshǒu",
-"to defend; protect; to guard"
-],
-[
-"防御",
-6,
-"fángyù",
-"defense; resist; to guard"
-],
-[
-"防止",
-6,
-"fángzhǐ",
-"prevent; protect; guard against; avoid"
-],
-[
-"防治",
-6,
-"fángzhì",
-"prevent and cure"
-],
-[
-"国防",
-6,
-"guófáng",
-"national defense"
+"yù fáng",
+"to prevent; to take precautions against; to protect; to guard against; precautionary; prophylactic"
 ],
 [
 "消防",
 6,
-"xiāofáng",
-"fire-fighting; fire prevention and control"
+"xiāo fáng",
+"firefighting; fire control"
+],
+[
+"防守",
+6,
+"fáng shǒu",
+"to defend; to protect (against)"
+],
+[
+"防止",
+6,
+"fáng zhǐ",
+"to prevent; to guard against; to take precautions"
+],
+[
+"防御",
+6,
+"fáng yù",
+"defense; to defend"
+],
+[
+"国防",
+6,
+"guó fáng",
+"national defense"
+],
+[
+"防治",
+6,
+"fáng zhì",
+"to prevent and cure; prevention and cure"
 ]
 ],
 "extraWords": [
 [
+"防范",
+23.97,
+"fáng fàn",
+"to be on guard; wariness; to guard against; preventive"
+],
+[
+"防护",
+13.83,
+"fáng hù",
+"to defend; to protect"
+],
+[
+"以防万一",
+12.37,
+"yǐ fáng wàn yī",
+"to guard against the unexpected (idiom); just in case; prepared for any eventualities"
+],
+[
+"国防部",
+10.84,
+"Guó fáng bù",
+"Defense Department; Ministry of National Defense"
+],
+[
+"国防部长",
+7.63,
+"guó fáng bù zhǎng",
+"Defense secretary; Defense Minister"
+],
+[
 "防疫",
 6.9,
-"fang2 yi4",
+"fáng yì",
 "disease prevention; protection against epidemic"
 ],
 [
 "防火",
 6.71,
-"fang2 huo3",
+"fáng huǒ",
 "to protect against fire"
+],
+[
+"边防",
+6.64,
+"biān fáng",
+"frontier defense"
 ],
 [
 "以防",
 6.36,
-"yi3 fang2",
+"yǐ fáng",
 "(so as) to avoid; to prevent; (just) in case"
+],
+[
+"防卫",
+6.17,
+"fáng wèi",
+"to defend; defensive; defense"
 ],
 [
 "防洪",
 5.96,
-"fang2 hong2",
+"fáng hóng",
 "flood control; flood prevention"
 ]
 ],

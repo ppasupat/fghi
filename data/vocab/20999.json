@@ -9,99 +9,135 @@
 [
 "一切",
 4,
-"yíqiè",
-"all; every; everything"
-],
-[
-"密切",
-5,
-"mìqiè",
-"close; familiar; intimate"
-],
-[
-"迫切",
-5,
-"pòqiè",
-"urgent; pressing"
+"yī qiè",
+"everything; every; all"
 ],
 [
 "切",
 5,
-"qiē, qiè",
-"to cut; to chop | correspond to; absolutely; ardently"
+"qiē",
+"to cut; to slice; tangent (math)"
+],
+[
+"切",
+5,
+"qiè",
+"definitely; absolutely (not); (scoffing or dismissive interjection) Yeah, right.; Tut!; to grind; close to; eager; to correspond to; see also 反切[fan3 qie4]"
+],
+[
+"密切",
+5,
+"mì qiè",
+"close; familiar; intimate; closely (related); to foster close ties; to pay close attention"
 ],
 [
 "亲切",
 5,
-"qīnqiè",
-"kind; amiable; cordial"
+"qīn qiè",
+"amiable; cordial; close and dear; familiar"
 ],
 [
-"急切",
-6,
-"jíqiè",
-"eager; impatient; imperative"
-],
-[
-"恳切",
-6,
-"kěnqiè",
-"earnest; genuine; fair-spoken"
-],
-[
-"切实",
-6,
-"qièshí",
-"realistic; feasible; conscientiously"
+"迫切",
+5,
+"pò qiè",
+"urgent; pressing"
 ],
 [
 "确切",
 6,
-"quèqiè",
+"què qiè",
 "definite; exact; precise"
+],
+[
+"急切",
+6,
+"jí qiè",
+"eager; impatient"
+],
+[
+"切实",
+6,
+"qiè shí",
+"feasible; realistic; practical; earnestly; conscientiously"
+],
+[
+"恳切",
+6,
+"kěn qiè",
+"earnest; sincere"
 ]
 ],
 "extraWords": [
 [
 "切除",
 26.85,
-"qie1 chu2",
+"qiē chú",
 "to excise; to cut out (a tumor)"
+],
+[
+"切断",
+17.53,
+"qiē duàn",
+"to cut off; to sever"
+],
+[
+"切尔西",
+10.89,
+"Qiè ěr xī",
+"Chelsea"
 ],
 [
 "切口",
 9.21,
-"qie1 kou3",
+"qiē kǒu",
 "incision; notch; slit; gash; margin of a page; trimmed edge (of a page in a book)"
 ],
 [
 "切口",
 9.21,
-"qie4 kou3",
+"qiè kǒu",
 "slang; argot; private language used as secret code"
 ],
 [
 "切片",
 8.72,
-"qie1 pian4",
+"qiē piàn",
 "to slice; slice; thin section of a specimen (for microscopic examination)"
+],
+[
+"密切相关",
+8.67,
+"mì qiè xiāng guān",
+"closely related"
+],
+[
+"切换",
+6.75,
+"qiē huàn",
+"to switch over; to switch modes or data streams; to cut (to a new scene)"
+],
+[
+"关切",
+6.66,
+"guān qiè",
+"to be deeply concerned; to be troubled (by)"
 ],
 [
 "深切",
 6.43,
-"shen1 qie4",
+"shēn qiè",
 "deeply felt; heartfelt; sincere; honest"
 ],
 [
 "切割",
 5.85,
-"qie1 ge1",
+"qiē gē",
 "to cut"
 ],
 [
 "切入",
 5.64,
-"qie1 ru4",
+"qiē rù",
 "to cut into; to incise; to penetrate deeply into (a topic, area etc); cut (offensive moves in basketball)"
 ]
 ],

@@ -9,29 +9,84 @@
 [
 "宁可",
 5,
-"nìngkě",
-"would rather; it is the lesser of two evils to"
-],
-[
-"安宁",
-6,
-"ānníng",
-"peaceful; calm; tranquil; composed"
-],
-[
-"宁肯",
-6,
-"nìngkěn",
-"would rather ...; it would be better"
+"nìng kě",
+"preferably; one would prefer to...(or not to...); would rather; (would) be better to; (to pick) the lesser of two evils"
 ],
 [
 "宁愿",
 6,
-"nìngyuàn",
+"nìng yuàn",
 "would rather; better"
+],
+[
+"安宁",
+6,
+"Ān níng",
+"Anning District of Lanzhou City 蘭州市|兰州市[Lan2 zhou1 Shi4], Gansu; Anning City, to the west of Kunming 昆明[Kun1 ming2], Yunnan"
+],
+[
+"安宁",
+6,
+"ān níng",
+"peaceful; tranquil; calm; composed; free from worry"
+],
+[
+"宁肯",
+6,
+"nìng kěn",
+"would rather...; it would be better...; would prefer"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"辽宁",
+23.08,
+"Liáo níng",
+"Liaoning province in northeast China, short name 遼|辽[Liao2], capital Shenyang 瀋陽|沈阳[Shen3 yang2]"
+],
+[
+"宁波",
+19.7,
+"Níng bō",
+"Ningbo subprovincial city in Zhejiang"
+],
+[
+"宁静",
+12.67,
+"níng jìng",
+"tranquil; tranquility; serenity"
+],
+[
+"南宁",
+11.68,
+"Nán níng",
+"Nanning prefecture level city and capital of Guangxi Zhuang autonomous region in south China 廣西壯族自治區|广西壮族自治区"
+],
+[
+"宁夏",
+9.07,
+"Níng xià",
+"Ningxia Hui Autonomous Region, abbr. 寧|宁[Ning2], capital Yinchuan 銀川|银川[Yin2 chuan1]"
+],
+[
+"辽宁省",
+8.44,
+"Liáo níng Shěng",
+"Liaoning province in northeast China, short name 遼|辽[Liao2], capital Shenyang 瀋陽|沈阳[Shen3 yang2]"
+],
+[
+"列宁",
+7.5,
+"Liè níng",
+"Vladimir Ilyich Lenin (1870-1924), Russian revolutionary leader"
+],
+[
+"马克思列宁主义",
+7.27,
+"Mǎ kè sī Liè níng zhǔ yì",
+"Marxism-Leninism"
+]
+],
 "strokes": [
 "M 484 811 Q 518 787 554 758 Q 569 746 585 748 Q 597 749 601 764 Q 604 780 592 810 Q 579 843 475 860 Q 459 863 452 859 Q 448 855 450 841 Q 454 831 484 811 Z",
 "M 276 651 Q 264 678 252 689 Q 233 705 230 678 Q 230 642 188 591 Q 140 546 156 499 Q 157 487 163 475 Q 178 447 201 474 Q 222 501 238 543 Q 256 586 269 614 C 281 640 281 640 276 651 Z",

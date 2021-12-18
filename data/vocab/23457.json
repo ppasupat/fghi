@@ -7,31 +7,104 @@
 },
 "words": [
 [
+"审判",
+6,
+"shěn pàn",
+"a trial; to try sb"
+],
+[
 "审查",
 6,
-"shěnchá",
-"examine; investigate; censorship"
+"shěn chá",
+"to examine; to investigate; to censor out; censorship"
 ],
 [
 "审理",
 6,
-"shěnlǐ",
-"hear (a case)"
+"shěn lǐ",
+"to hear (a case)"
 ],
 [
 "审美",
 6,
-"shěnměi",
-"aesthetic sense; appreciation of the arts"
-],
-[
-"审判",
-6,
-"shěnpàn",
-"put (someone) to trial; to try somebody"
+"shěn měi",
+"esthetics; appreciating the arts; taste"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"审计",
+77.72,
+"shěn jì",
+"to audit; to examine finances"
+],
+[
+"陪审团",
+53.18,
+"péi shěn tuán",
+"jury"
+],
+[
+"审议",
+40.52,
+"shěn yì",
+"deliberation; pondering; due consideration"
+],
+[
+"审批",
+37.26,
+"shěn pī",
+"to examine and approve; to endorse"
+],
+[
+"审核",
+21.3,
+"shěn hé",
+"to audit; to investigate thoroughly"
+],
+[
+"审讯",
+18.15,
+"shěn xùn",
+"inquest; trial; interrogation; to try; to interrogate"
+],
+[
+"评审",
+15.14,
+"píng shěn",
+"to appraise; to evaluate; to judge"
+],
+[
+"一审",
+12.59,
+"yī shěn",
+"first instance (law)"
+],
+[
+"审问",
+12.43,
+"shěn wèn",
+"to interrogate; to examine; to question"
+],
+[
+"庭审",
+8.31,
+"tíng shěn",
+"court hearing"
+],
+[
+"陪审员",
+8.23,
+"péi shěn yuán",
+"juror"
+],
+[
+"审视",
+6.51,
+"shěn shì",
+"to look closely at; to examine"
+]
+],
 "strokes": [
 "M 459 792 Q 489 773 522 748 Q 538 736 554 740 Q 564 741 569 756 Q 572 772 558 802 Q 549 821 516 831 Q 437 849 424 839 Q 420 835 422 821 Q 428 811 459 792 Z",
 "M 275 667 Q 265 692 253 700 Q 234 716 231 689 Q 237 652 184 594 Q 147 560 175 495 Q 190 467 211 495 Q 230 520 244 560 Q 260 609 274 636 C 282 651 282 651 275 667 Z",

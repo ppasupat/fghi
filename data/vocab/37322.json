@@ -9,29 +9,54 @@
 [
 "解释",
 4,
-"jiěshì",
-"to explain"
-],
-[
-"爱不释手",
-6,
-"àibúshìshǒu",
-"love something too much to part with it"
+"jiě shì",
+"explanation; to explain; to interpret; to resolve; CL:個|个[ge4]"
 ],
 [
 "释放",
 6,
-"shìfàng",
-"release; set free; liberate (a prisoner)"
+"shì fàng",
+"to release; to set free; to liberate (a prisoner); to discharge"
 ],
 [
 "注释",
 6,
-"zhùshì",
-"annotate; annotation; note; make notes in the margin"
+"zhù shì",
+"marginal notes; annotation; to annotate; to add comments to text"
+],
+[
+"爱不释手",
+6,
+"ài bù shì shǒu",
+"to love sth too much to part with it (idiom); to fondle admiringly"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"假释",
+16.01,
+"jiǎ shì",
+"parole"
+],
+[
+"保释",
+15.02,
+"bǎo shì",
+"to release on bail; to bail"
+],
+[
+"诠释",
+10.26,
+"quán shì",
+"to interpret; to comment and explain; to annotate; to perform (i.e. interpret a theatrical role); to decode; interpretation; annotation"
+],
+[
+"稀释",
+7.69,
+"xī shì",
+"to dilute"
+]
+],
 "strokes": [
 "M 300 695 Q 417 743 442 748 Q 458 749 462 757 Q 466 767 454 778 Q 394 817 363 813 Q 356 809 356 799 Q 356 762 173 671 Q 167 664 173 660 Q 194 660 271 686 L 300 695 Z",
 "M 178 568 Q 197 549 216 523 Q 226 513 239 511 Q 248 510 253 521 Q 259 533 254 557 Q 247 584 178 608 Q 165 612 160 611 Q 156 608 156 597 Q 157 588 178 568 Z",

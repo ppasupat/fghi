@@ -9,225 +9,369 @@
 [
 "变化",
 3,
-"biànhuà",
-"change"
+"biàn huà",
+"change; variation; to change; to vary; CL:個|个[ge4]"
 ],
 [
 "文化",
 3,
-"wénhuà",
-"culture; civilization"
+"wén huà",
+"culture; civilization; cultural; CL:個|个[ge4],種|种[zhong3]"
 ],
 [
 "化学",
 5,
-"huàxué",
-"chemistry"
+"huà xué",
+"chemistry; chemical"
 ],
 [
 "消化",
 5,
-"xiāohuà",
-"to digest"
-],
-[
-"多元化",
-6,
-"duōyuánhuà",
-"diversify; diversification"
-],
-[
-"恶化",
-6,
-"èhuà",
-"worsen; deteriorate"
-],
-[
-"二氧化碳",
-6,
-"èryǎnghuàtàn",
-"carbon dioxide; CO2"
-],
-[
-"化肥",
-6,
-"huàféi",
-"chemical fertilizer"
-],
-[
-"化石",
-6,
-"huàshí",
-"fossil"
-],
-[
-"化验",
-6,
-"huàyàn",
-"laboratory test; chemically examine"
+"xiāo huà",
+"to digest; digestion; digestive"
 ],
 [
 "化妆",
 6,
 "huà zhuāng",
-"put on make-up"
+"to put on makeup"
 ],
 [
-"简化",
+"恶化",
 6,
-"jiǎnhuà",
-"simplify; simplification"
+"è huà",
+"to worsen"
 ],
 [
 "进化",
 6,
-"jìnhuà",
-"evolution"
-],
-[
-"潜移默化",
-6,
-"qiányímòhuà",
-"exert a subtle influence on sb.'s character, thinking, etc.; impercebtibly influence; to influence secretly"
+"jìn huà",
+"evolution; CL:個|个[ge4]"
 ],
 [
 "融化",
 6,
-"rónghuà",
-"melt; thaw; dissolve; blend into"
+"róng huà",
+"to melt; to thaw; to dissolve; to blend into; to combine; to fuse"
+],
+[
+"化验",
+6,
+"huà yàn",
+"chemical examination; to do a lab test"
+],
+[
+"二氧化碳",
+6,
+"èr yǎng huà tàn",
+"carbon dioxide CO2"
+],
+[
+"简化",
+6,
+"jiǎn huà",
+"to simplify"
+],
+[
+"化石",
+6,
+"huà shí",
+"fossil"
+],
+[
+"多元化",
+6,
+"duō yuán huà",
+"diversification; pluralism; to diversify"
+],
+[
+"化肥",
+6,
+"huà féi",
+"fertilizer"
+],
+[
+"潜移默化",
+6,
+"qián yí mò huà",
+"imperceptible influence; to influence secretly"
 ]
 ],
 "extraWords": [
 [
+"现代化",
+55.45,
+"xiàn dài huà",
+"modernization; CL:個|个[ge4]"
+],
+[
+"强化",
+49.51,
+"qiáng huà",
+"to strengthen; to intensify"
+],
+[
+"优化",
+37.32,
+"yōu huà",
+"optimization; to optimize; to make superior"
+],
+[
+"转化",
+32.18,
+"zhuǎn huà",
+"to change; to transform; isomerization (chemistry)"
+],
+[
 "深化",
 30.95,
-"shen1 hua4",
+"shēn huà",
 "to deepen; to intensify"
 ],
 [
 "信息化",
 28.67,
-"xin4 xi1 hua4",
+"xìn xī huà",
 "informatization (the Information Age analog of industrialization)"
+],
+[
+"绿化",
+26.55,
+"lu:4 huà",
+"to make green with plants; to reforest; (Internet slang) Islamization"
 ],
 [
 "石化",
 25.53,
-"shi2 hua4",
+"shí huà",
 "to petrify; petrochemical industry"
 ],
 [
 "化工",
 24.21,
-"hua4 gong1",
+"huà gōng",
 "chemical industry, abbr. of 化學工業|化学工业[hua4 xue2 gong1 ye4]; chemical engineering, abbr. of 化學工程|化学工程[hua4 xue2 gong1 cheng2]"
+],
+[
+"国际化",
+19.54,
+"guó jì huà",
+"to internationalize; internationalization"
+],
+[
+"市场化",
+19.53,
+"shì chǎng huà",
+"marketization"
+],
+[
+"产业化",
+19.21,
+"chǎn yè huà",
+"to industrialize; industrialization"
+],
+[
+"一体化",
+18.56,
+"yī tǐ huà",
+"integration; incorporation; unification"
+],
+[
+"化妆品",
+17.3,
+"huà zhuāng pǐn",
+"cosmetic; makeup product"
 ],
 [
 "氧化",
 16.61,
-"yang3 hua4",
+"yǎng huà",
 "to oxidize"
 ],
 [
 "分化",
 15.85,
-"fen1 hua4",
+"fēn huà",
 "to split apart; differentiation"
+],
+[
+"工业化",
+15.55,
+"gōng yè huà",
+"to industrialize; industrialization"
+],
+[
+"化疗",
+15.38,
+"huà liáo",
+"chemotherapy"
 ],
 [
 "化解",
 13.88,
-"hua4 jie3",
+"huà jiě",
 "to dissolve; to resolve (contradictions); to dispel (doubts); to iron out (difficulties); to defuse (conflicts); to neutralize (fears)"
 ],
 [
 "文化大革命",
 13.61,
-"Wen2 hua4 Da4 ge2 ming4",
+"Wén huà Dà gé mìng",
 "Cultural Revolution (1966-1976)"
 ],
 [
 "化名",
 13.39,
-"hua4 ming2",
+"huà míng",
 "to use an alias; assumed name; pseudonym"
+],
+[
+"标准化",
+13.34,
+"biāo zhǔn huà",
+"standardization"
+],
+[
+"规范化",
+11.78,
+"guī fàn huà",
+"to standardize; standardization"
+],
+[
+"净化",
+10.84,
+"jìng huà",
+"to purify"
 ],
 [
 "全球化",
 10.81,
-"quan2 qiu2 hua4",
+"quán qiú huà",
 "globalization"
+],
+[
+"个性化",
+10.8,
+"gè xìng huà",
+"to personalize; to customize; customization"
+],
+[
+"专业化",
+10.68,
+"zhuān yè huà",
+"specialization"
 ],
 [
 "城市化",
 10.32,
-"cheng2 shi4 hua4",
+"chéng shì huà",
 "urbanization"
+],
+[
+"自动化",
+10.23,
+"zì dòng huà",
+"automation"
 ],
 [
 "人性化",
 9.6,
-"ren2 xing4 hua4",
+"rén xìng huà",
 "(of a system or product etc) adapted to human needs; people-oriented; user-friendly"
 ],
 [
 "生化",
 9.58,
-"sheng1 hua4",
+"shēng huà",
 "biochemistry"
 ],
 [
 "老化",
 8.93,
-"lao3 hua4",
+"lǎo huà",
 "to age (of person or object); becoming old"
+],
+[
+"多样化",
+8.51,
+"duō yàng huà",
+"diversification; to diversify"
+],
+[
+"社会化",
+8.18,
+"shè huì huà",
+"socialization; to socialize; to fit into society; to train sb for society"
+],
+[
+"数字化",
+6.84,
+"shù zì huà",
+"to digitalize; digital"
 ],
 [
 "最大化",
 6.76,
-"zui4 da4 hua4",
+"zuì dà huà",
 "to maximize"
 ],
 [
 "美化",
 6.69,
-"mei3 hua4",
+"měi huà",
 "to make more beautiful; to decorate; embellishment"
 ],
 [
 "淡化",
 6.61,
-"dan4 hua4",
+"dàn huà",
 "to water down; to play down; to trivialize; to weaken; to become dull with time; to desalinate; desalination"
 ],
 [
 "量化",
 6.41,
-"liang4 hua4",
+"liàng huà",
 "to quantize; quantization; quantitative"
 ],
 [
 "化身",
 6.31,
-"hua4 shen1",
+"huà shēn",
 "incarnation; reincarnation; embodiment (of abstract idea); personification"
+],
+[
+"异化",
+6.27,
+"yì huà",
+"alienation (philosophy); (of speech) dissimilation"
+],
+[
+"机械化",
+6.24,
+"jī xiè huà",
+"to mechanize"
 ],
 [
 "化合物",
 5.99,
-"hua4 he2 wu4",
+"huà hé wù",
 "chemical compound"
+],
+[
+"细化",
+5.83,
+"xì huà",
+"to give a more granular level of detail; to elaborate; to refine; to become more differentiated"
 ],
 [
 "硬化",
 5.23,
-"ying4 hua4",
+"yìng huà",
 "to harden; hardening; sclerosis; fig. to become rigid or inflexible in opinions; to ossify"
 ],
 [
 "孵化",
 5.05,
-"fu1 hua4",
+"fū huà",
 "breeding; to incubate; innovation (esp. in commerce and marketing)"
 ]
 ],

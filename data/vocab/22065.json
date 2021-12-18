@@ -7,19 +7,26 @@
 },
 "words": [
 [
-"叮嘱",
-6,
-"dīngzhǔ",
-"urge again and again; exhort; repeatedly warn"
-],
-[
 "嘱咐",
 6,
-"zhǔfù",
-"enjoin; to tell; exhort"
+"zhǔ fù",
+"to tell; to exhort; injunction"
+],
+[
+"叮嘱",
+6,
+"dīng zhǔ",
+"to warn repeatedly; to urge; to exhort again and again"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"遗嘱",
+13.68,
+"yí zhǔ",
+"testament; will"
+]
+],
 "strokes": [
 "M 144 576 Q 134 583 102 589 Q 90 593 87 588 Q 80 582 88 567 Q 115 506 127 406 Q 128 376 145 355 Q 161 334 167 349 Q 173 365 171 394 L 167 427 Q 154 524 152 552 C 150 573 150 573 144 576 Z",
 "M 305 448 Q 315 536 338 565 Q 357 590 335 602 Q 316 612 289 626 Q 271 633 227 605 Q 193 590 144 576 C 115 568 123 546 152 552 Q 155 552 239 574 Q 258 580 264 572 Q 273 565 258 456 C 254 426 301 418 305 448 Z",

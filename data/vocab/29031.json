@@ -7,143 +7,155 @@
 },
 "words": [
 [
-"护照",
+"照片",
 3,
-"hùzhào",
-"passport"
+"zhào piàn",
+"photograph; picture; CL:張|张[zhang1],套[tao4],幅[fu2]"
 ],
 [
 "照顾",
 3,
-"zhàogu",
-"take care of; look after; give consideration"
+"zhào gu",
+"to take care of; to show consideration; to attend to; to look after"
 ],
 [
-"照片",
+"护照",
 3,
-"zhàopiàn",
-"picture; photograph"
+"hù zhào",
+"passport; CL:本[ben3],個|个[ge4]"
 ],
 [
 "照相机",
 3,
-"zhàoxiàngjī",
-"camera"
-],
-[
-"按照",
-4,
-"ànzhào",
-"according to; in accordance with; in light of"
+"zhào xiàng jī",
+"camera; CL:個|个[ge4],架[jia4],部[bu4],台[tai2],隻|只[zhi1]"
 ],
 [
 "照",
 4,
 "zhào",
-"to shine; illuminate; according to"
+"variant of 照[zhao4]; to shine; to illuminate"
 ],
 [
-"照常",
-5,
-"zhàocháng",
-"as usual; normal"
+"照",
+4,
+"zhào",
+"according to; in accordance with; to shine; to illuminate; to reflect; to look at (one's reflection); to take (a photo); photo; as requested; as before"
+],
+[
+"按照",
+4,
+"àn zhào",
+"according to; in accordance with; in the light of; on the basis of"
 ],
 [
 "执照",
 5,
-"zhízhào",
-"a license; a permit"
+"zhí zhào",
+"license; permit"
 ],
 [
-"参照",
-6,
-"cānzhào",
-"consult a reference; refer to (another document)"
-],
-[
-"对照",
-6,
-"duìzhào",
-"contrast; compare"
+"照常",
+5,
+"zhào cháng",
+"as usual"
 ],
 [
 "关照",
 6,
-"guānzhào",
-"concern; look after; keep an eye on"
+"guān zhào",
+"to take care; to keep an eye on; to look after; to tell; to remind"
 ],
 [
 "照样",
 6,
-"zhàoyàng",
-"as before; (same) as usual"
+"zhào yàng",
+"as before; (same) as usual; in the same manner; still; nevertheless"
 ],
 [
 "照耀",
 6,
-"zhàoyào",
-"to shine; illuminate"
+"zhào yào",
+"to shine; to illuminate"
+],
+[
+"参照",
+6,
+"cān zhào",
+"to consult a reference; to refer to (another document)"
+],
+[
+"对照",
+6,
+"duì zhào",
+"to contrast; to compare; to place side by side for comparison (as parallel texts); to check"
 ]
 ],
 "extraWords": [
 [
 "拍照",
 30.41,
-"pai1 zhao4",
+"pāi zhào",
 "to take a picture"
 ],
 [
 "照看",
 18.99,
-"zhao4 kan4",
+"zhào kàn",
 "to look after; to attend to; to have in care"
 ],
 [
 "依照",
 15.84,
-"yi1 zhao4",
+"yī zhào",
 "according to; in light of"
+],
+[
+"驾照",
+13.24,
+"jià zhào",
+"driver's license"
 ],
 [
 "照明",
 11.33,
-"zhao4 ming2",
+"zhào míng",
 "lighting; illumination; to light up; to illuminate"
 ],
 [
 "牌照",
 11.06,
-"pai2 zhao4",
+"pái zhào",
 "(business) license; vehicle license; car registration; license plate"
 ],
 [
 "照射",
 10.77,
-"zhao4 she4",
+"zhào shè",
 "to shine on; to light up; to irradiate"
 ],
 [
 "照相",
 8.56,
-"zhao4 xiang4",
+"zhào xiàng",
 "to take a photograph"
 ],
 [
 "照亮",
 6.11,
-"zhao4 liang4",
+"zhào liàng",
 "to illuminate; to light up; lighting"
 ],
 [
 "照料",
 5.75,
-"zhao4 liao4",
+"zhào liào",
 "to tend; to take care of sb"
 ],
 [
 "遵照",
 5.58,
-"zun1 zhao4",
+"zūn zhào",
 "in accordance with; to follow (the rules)"
 ]
 ],

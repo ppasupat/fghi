@@ -9,17 +9,24 @@
 [
 "习惯",
 3,
-"xíguàn",
-"habit; be accustomed to; usual practice"
+"xí guàn",
+"habit; custom; usual practice; to be used to; CL:個|个[ge4]"
 ],
 [
 "惯例",
 6,
-"guànlì",
-"conventional"
+"guàn lì",
+"convention; usual practice"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"惯性",
+5.55,
+"guàn xìng",
+"(physics) inertia; (fig.) force of habit; tendency to do things in the accustomed way; habitual"
+]
+],
 "strokes": [
 "M 148 545 Q 138 473 115 406 Q 103 373 129 338 Q 142 322 160 340 Q 205 397 188 493 Q 185 527 172 551 Q 165 558 159 558 Q 150 554 148 545 Z",
 "M 311 573 Q 327 563 376 509 Q 386 499 400 498 Q 409 498 413 509 Q 417 521 412 545 Q 405 576 318 605 Q 317 606 312 606 C 282 609 286 590 311 573 Z",

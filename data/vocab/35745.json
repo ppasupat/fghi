@@ -7,61 +7,176 @@
 },
 "words": [
 [
-"估计",
-4,
-"gūjì",
-"appraise; estimate"
-],
-[
 "计划",
 4,
-"jìhuà",
-"plan; project"
+"jì huà",
+"plan; project; program; to plan; to map out; CL:個|个[ge4],項|项[xiang4]"
 ],
 [
-"计算",
-5,
-"jìsuàn",
-"to count; calculate; compute"
-],
-[
-"会计",
-5,
-"kuàijì",
-"accountant; accounting"
+"估计",
+4,
+"gū jì",
+"to estimate; to reckon; CL:個|个[ge4]; (coll.) to suppose"
 ],
 [
 "设计",
 5,
-"shèjì",
-"plan; design"
+"shè jì",
+"plan; design; to design; to plan; CL:個|个[ge4]"
 ],
 [
-"共计",
+"计算",
+5,
+"jì suàn",
+"to count; to calculate; to compute; CL:個|个[ge4]"
+],
+[
+"会计",
+5,
+"kuài jì",
+"accountant; accountancy; accounting"
+],
+[
+"统计",
 6,
-"gòngjì",
-"sum up; total"
+"tǒng jì",
+"statistics; to count; to add up"
 ],
 [
 "计较",
 6,
-"jìjiào",
-"focus excessively on; haggle; bicker; argue"
+"jì jiào",
+"to bother about; to haggle; to bicker; to argue; plan; stratagem"
 ],
 [
 "千方百计",
 6,
 "qiān fāng bǎi jì",
-"by every possible means"
+"lit. thousand ways, a hundred plans (idiom); by every possible means"
 ],
 [
-"统计",
+"共计",
 6,
-"tǒngjì",
-"statistics; to tally; to add up"
+"gòng jì",
+"to sum up to; to total"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"伙计",
+449.02,
+"huǒ ji",
+"partner; fellow; mate; waiter; servant; shop assistant"
+],
+[
+"预计",
+107.63,
+"yù jì",
+"to forecast; to predict; to estimate"
+],
+[
+"审计",
+77.72,
+"shěn jì",
+"to audit; to examine finances"
+],
+[
+"计算机",
+45.99,
+"jì suàn jī",
+"computer; (Tw) calculator; CL:臺|台[tai2]"
+],
+[
+"累计",
+40.7,
+"lěi jì",
+"to calculate the running total; cumulative; total; in total"
+],
+[
+"设计师",
+24.79,
+"shè jì shī",
+"designer; architect"
+],
+[
+"会计师",
+16.26,
+"kuài jì shī",
+"accountant"
+],
+[
+"合计",
+12.97,
+"hé jì",
+"to add up the total; to figure what sth amounts to; to consider"
+],
+[
+"计量",
+10.68,
+"jì liàng",
+"measurement; to calculate"
+],
+[
+"统计学",
+10.43,
+"tǒng jì xué",
+"statistics"
+],
+[
+"计划生育",
+10.41,
+"jì huà shēng yù",
+"family planning"
+],
+[
+"计时",
+10.4,
+"jì shí",
+"to measure time; to time; to reckon by time"
+],
+[
+"计划经济",
+8.56,
+"jì huà jīng jì",
+"planned economy"
+],
+[
+"总计",
+8.44,
+"zǒng jì",
+"(grand) total"
+],
+[
+"倒计时",
+8.26,
+"dào jì shí",
+"to count down; countdown"
+],
+[
+"诡计",
+7.75,
+"guǐ jì",
+"trick; ruse; crafty scheme"
+],
+[
+"计程车",
+7.21,
+"jì chéng chē",
+"(Tw) taxi; cab"
+],
+[
+"不计",
+6.41,
+"bù jì",
+"to disregard; to take no account of"
+],
+[
+"计数",
+5.78,
+"jì shù",
+"to count; reckoning"
+]
+],
 "strokes": [
 "M 342 765 Q 382 735 425 700 Q 441 687 459 688 Q 472 689 476 704 Q 480 722 469 755 Q 454 795 333 820 Q 315 823 308 820 Q 302 814 305 800 Q 309 787 342 765 Z",
 "M 162 526 Q 107 511 79 510 Q 63 511 60 503 Q 56 494 67 486 Q 106 459 147 472 Q 202 493 254 517 Q 285 530 295 522 Q 307 515 299 484 Q 299 439 297 395 Q 297 268 263 150 Q 245 119 292 62 Q 302 49 314 56 Q 321 63 334 89 Q 371 137 447 218 Q 460 231 458 238 Q 457 247 444 237 Q 410 218 377 195 Q 325 152 334 216 Q 333 292 357 477 Q 361 502 385 527 Q 398 539 388 552 Q 376 570 335 588 Q 322 595 304 583 Q 213 540 162 526 Z",

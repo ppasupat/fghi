@@ -9,45 +9,63 @@
 [
 "污染",
 4,
-"wūrǎn",
-"pollution; contamination"
+"wū rǎn",
+"pollution; contamination; CL:個|个[ge4]"
 ],
 [
 "传染",
 5,
-"chuánrǎn",
-"infect; be contagious"
-],
-[
-"感染",
-6,
-"gǎnrǎn",
-"infection; infect; influence"
+"chuán rǎn",
+"to infect; contagious"
 ],
 [
 "染",
 6,
 "rǎn",
-"dye; to catch (a disease)"
+"to dye; to catch (a disease); to acquire (bad habits etc); to contaminate; to add color washes to a painting"
+],
+[
+"感染",
+6,
+"gǎn rǎn",
+"infection; to infect; to influence"
 ]
 ],
 "extraWords": [
 [
 "染色",
 11.73,
-"ran3 se4",
+"rǎn sè",
 "dye"
+],
+[
+"传染病",
+10.54,
+"chuán rǎn bìng",
+"infectious disease; contagious disease; pestilence"
+],
+[
+"染色体",
+7.46,
+"rǎn sè tǐ",
+"chromosome"
 ],
 [
 "污染物",
 7.21,
-"wu1 ran3 wu4",
+"wū rǎn wù",
 "pollutant"
+],
+[
+"环境污染",
+7.14,
+"huán jìng wū rǎn",
+"environmental pollution"
 ],
 [
 "渲染",
 6.08,
-"xuan4 ran3",
+"xuàn rǎn",
 "rendering (computing); to add washes of ink or color to a drawing (Chinese painting); to exaggerate; to embellish"
 ]
 ],

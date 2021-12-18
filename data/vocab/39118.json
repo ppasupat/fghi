@@ -9,107 +9,246 @@
 [
 "刮风",
 3,
-"guāfēng",
-"windy; to blow (wind)"
+"guā fēng",
+"to be windy"
 ],
 [
 "风格",
 5,
-"fēnggé",
+"fēng gé",
 "style"
-],
-[
-"风景",
-5,
-"fēngjǐng",
-"scenery; landscape"
-],
-[
-"风俗",
-5,
-"fēngsú",
-"social custom"
 ],
 [
 "风险",
 5,
-"fēngxiǎn",
-"risk; venture; hazard"
+"fēng xiǎn",
+"risk; hazard"
+],
+[
+"风景",
+5,
+"fēng jǐng",
+"scenery; landscape; CL:個|个[ge4]"
 ],
 [
 "麦克风",
 5,
-"màikèfēng",
-"microphone"
+"mài kè fēng",
+"microphone (loanword)"
+],
+[
+"风俗",
+5,
+"fēng sú",
+"social custom; CL:個|个[ge4]"
 ],
 [
 "风暴",
 6,
-"fēngbào",
-"storm; violent commotion"
-],
-[
-"风度",
-6,
-"fēngdù",
-"elegant demeanor; grace; poise; style"
-],
-[
-"风光",
-6,
-"fēngguāng",
-"a natural scenic view; sight"
-],
-[
-"风气",
-6,
-"fēngqì",
-"general mood; atmosphere; common practice"
+"fēng bào",
+"storm; violent commotion; fig. crisis (e.g. revolution, uprising, financial crisis etc)"
 ],
 [
 "风趣",
 6,
-"fēngqù",
-"humor; wit; humorous"
-],
-[
-"风土人情",
-6,
-"fēngtǔrénqíng",
-"local conditions (human and environmental)"
-],
-[
-"风味",
-6,
-"fēngwèi",
-"local flavor; local style"
-],
-[
-"台风",
-6,
-"táifēng",
-"typhoon"
-],
-[
-"威风",
-6,
-"wēifēng",
-"awe-inspiring authority; power and prestige; impressive force"
-],
-[
-"一帆风顺",
-6,
-"yìfānfēngshùn",
-"(saying) smooth sailing"
+"fēng qù",
+"charm; humor; wit; humorous; witty"
 ],
 [
 "作风",
 6,
-"zuòfēng",
-"work style; way"
+"zuò fēng",
+"style; style of work; way"
+],
+[
+"风度",
+6,
+"fēng dù",
+"elegance (for men); elegant demeanor; grace; poise"
+],
+[
+"风光",
+6,
+"fēng guāng",
+"scene; view; sight; landscape; to be well-regarded; to be well-off; grand (dialect); impressive (dialect)"
+],
+[
+"风味",
+6,
+"fēng wèi",
+"distinctive flavor; distinctive style"
+],
+[
+"台风",
+6,
+"tái fēng",
+"stage presence, poise"
+],
+[
+"台风",
+6,
+"tái fēng",
+"hurricane; typhoon"
+],
+[
+"一帆风顺",
+6,
+"yī fān fēng shùn",
+"propitious wind throughout the journey (idiom); plain sailing; to go smoothly; have a nice trip!"
+],
+[
+"威风",
+6,
+"wēi fēng",
+"might; awe-inspiring authority; impressive"
+],
+[
+"风气",
+6,
+"fēng qì",
+"general mood; atmosphere; common practice"
+],
+[
+"风土人情",
+6,
+"fēng tǔ rén qíng",
+"local conditions and customs (idiom)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"风情",
+20.28,
+"fēng qíng",
+"mien; bearing; grace; amorous feelings; flirtatious expressions; local conditions and customs; wind force, direction etc"
+],
+[
+"微风",
+15.35,
+"wēi fēng",
+"breeze; light wind"
+],
+[
+"风云",
+14.76,
+"fēng yún",
+"weather; unstable situation"
+],
+[
+"风雨",
+12.62,
+"fēng yǔ",
+"wind and rain; the elements; (fig.) trials and hardships"
+],
+[
+"风采",
+12.26,
+"fēng cǎi",
+"svelte; elegant manner; graceful bearing"
+],
+[
+"大风",
+11.49,
+"dà fēng",
+"gale; CL:場|场[chang2]"
+],
+[
+"通风",
+9.04,
+"tōng fēng",
+"airy; ventilation; to ventilate; to disclose information"
+],
+[
+"风波",
+8.71,
+"fēng bō",
+"disturbance; crisis; disputes; restlessness; CL:場|场[chang2]"
+],
+[
+"飓风",
+7.93,
+"jù fēng",
+"hurricane"
+],
+[
+"风貌",
+7.19,
+"fēng mào",
+"style; manner; ethos"
+],
+[
+"龙卷风",
+7.04,
+"lóng juǎn fēng",
+"tornado; hurricane; twister; cyclone"
+],
+[
+"中风",
+6.65,
+"zhòng fēng",
+"to suffer a paralyzing stroke"
+],
+[
+"暴风雨",
+6.35,
+"bào fēng yǔ",
+"rainstorm; storm; tempest"
+],
+[
+"风尚",
+6.21,
+"fēng shàng",
+"current custom; current way of doing things"
+],
+[
+"兜风",
+6.2,
+"dōu fēng",
+"to catch the wind; to go for a spin in the fresh air"
+],
+[
+"风声",
+6.2,
+"fēng shēng",
+"sound of the wind; rumor; talk; news; reputation"
+],
+[
+"风筝",
+6.01,
+"fēng zhēng",
+"kite"
+],
+[
+"风水",
+5.95,
+"fēng shuǐ",
+"feng shui; geomancy"
+],
+[
+"风范",
+5.93,
+"fēng fàn",
+"air; manner; model; paragon; demeanor"
+],
+[
+"风衣",
+5.81,
+"fēng yī",
+"windbreaker; wind cheater; wind jacket; CL:件[jian4]"
+],
+[
+"随风",
+5.66,
+"suí fēng",
+"wind-borne; tossed about by the wind"
+],
+[
+"风力",
+5.32,
+"fēng lì",
+"wind force; wind power"
+]
+],
 "strokes": [
 "M 312 661 Q 263 697 237 686 Q 224 677 232 664 Q 253 637 254 570 Q 254 372 227 275 Q 199 179 133 56 Q 129 49 127 43 Q 126 31 136 34 Q 154 37 186 86 Q 315 254 316 536 Q 316 584 323 625 C 327 651 327 651 312 661 Z",
 "M 956 10 Q 949 89 947 222 Q 948 235 941 241 Q 934 245 930 230 Q 900 119 884 102 Q 878 93 854 104 Q 802 128 764 209 Q 731 282 721 375 Q 711 472 732 597 Q 736 640 766 674 Q 785 687 772 700 Q 760 719 725 745 Q 704 760 653 738 Q 611 732 312 661 C 283 654 294 617 323 625 Q 333 626 345 631 Q 478 668 645 692 Q 664 695 673 688 Q 676 685 677 654 Q 623 239 781 75 Q 835 9 923 -19 Q 942 -26 952 -16 Q 959 -9 956 10 Z",

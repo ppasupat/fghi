@@ -9,11 +9,54 @@
 [
 "沼泽",
 6,
-"zhǎozé",
-"marsh; swamp; glade; wetlands"
+"zhǎo zé",
+"marsh; swamp; wetlands; glade"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"毛泽东",
+33.98,
+"Máo Zé dōng",
+"Mao Zedong (1893-1976), Chinese communist leader"
+],
+[
+"毛泽东思想",
+24.05,
+"Máo Zé dōng Sī xiǎng",
+"Mao Zedong Thought; Maoism"
+],
+[
+"江泽民",
+18.05,
+"Jiāng Zé mín",
+"Jiang Zemin (1926-), politician, president of PRC 1993-2003"
+],
+[
+"新泽西",
+12.07,
+"Xīn zé xī",
+"New Jersey, US state"
+],
+[
+"光泽",
+7.2,
+"Guāng zé",
+"Guangze county in Nanping 南平[Nan2 ping2] Fujian"
+],
+[
+"光泽",
+7.2,
+"guāng zé",
+"luster; gloss"
+],
+[
+"色泽",
+6.26,
+"sè zé",
+"color and luster"
+]
+],
 "strokes": [
 "M 209 716 Q 239 694 271 667 Q 287 654 304 656 Q 316 657 321 672 Q 325 688 312 721 Q 305 740 270 754 Q 189 776 176 767 Q 170 763 173 749 Q 177 736 209 716 Z",
 "M 120 528 Q 174 471 211 457 Q 226 454 235 469 Q 241 482 238 499 Q 223 541 134 567 Q 133 568 132 568 Q 114 572 105 568 Q 99 567 102 554 Q 103 542 120 528 Z",

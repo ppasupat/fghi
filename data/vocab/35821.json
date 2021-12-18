@@ -9,53 +9,168 @@
 [
 "汉语",
 1,
-"Hànyǔ",
-"Chinese language"
-],
-[
-"词语",
-4,
-"cíyǔ",
-"words and expressions; terms"
-],
-[
-"语法",
-4,
-"yǔfǎ",
-"grammar"
+"Hàn yǔ",
+"Chinese language; CL:門|门[men2]"
 ],
 [
 "语言",
 4,
-"yǔyán",
-"language"
+"yǔ yán",
+"language; CL:門|门[men2],種|种[zhong3]"
 ],
 [
-"成语",
-5,
-"chéngyǔ",
-"idiom; proverb"
+"词语",
+4,
+"cí yǔ",
+"word (general term including monosyllables through to short phrases); term (e.g. technical term); expression"
+],
+[
+"语法",
+4,
+"yǔ fǎ",
+"grammar"
 ],
 [
 "语气",
 5,
-"yǔqì",
-"tone; manner of speaking; mood"
+"yǔ qì",
+"tone; manner of speaking; mood; CL:個|个[ge4]"
+],
+[
+"成语",
+5,
+"chéng yǔ",
+"Chinese set expression, typically of 4 characters, often alluding to a story or historical quotation; idiom; proverb; saying; adage; CL:條|条[tiao2],本[ben3],句[ju4]"
 ],
 [
 "谜语",
 6,
-"míyǔ",
-"riddle; conundrum"
+"mí yǔ",
+"riddle; conundrum; CL:條|条[tiao2]"
 ],
 [
 "母语",
 6,
-"mǔyǔ",
-"native/mother tongue"
+"mǔ yǔ",
+"native language; mother tongue; (linguistics) parent language"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"英语",
+67.01,
+"Yīng yǔ",
+"English (language)"
+],
+[
+"法语",
+24.68,
+"Fǎ yǔ",
+"French (language)"
+],
+[
+"语文",
+24.07,
+"yǔ wén",
+"literature and language; (PRC) Chinese (as a school subject)"
+],
+[
+"西班牙语",
+22.12,
+"Xī bān yá yǔ",
+"Spanish language"
+],
+[
+"话语",
+16.53,
+"huà yǔ",
+"words; speech; utterance; discourse"
+],
+[
+"言语",
+14.7,
+"yán yǔ",
+"words; speech; (spoken) language"
+],
+[
+"言语",
+14.7,
+"yán yu",
+"to speak; to tell"
+],
+[
+"语音",
+14.25,
+"yǔ yīn",
+"speech sounds; pronunciation; colloquial (rather than literary) pronunciation of a Chinese character; phonetic; audio; voice; (Internet) to voice chat; voice message"
+],
+[
+"外语",
+14.17,
+"wài yǔ",
+"foreign language; CL:門|门[men2]"
+],
+[
+"咒语",
+10.94,
+"zhòu yǔ",
+"incantation; spell; enchantment; curse"
+],
+[
+"德语",
+8.23,
+"Dé yǔ",
+"German (language)"
+],
+[
+"标语",
+7.67,
+"biāo yǔ",
+"written slogan; placard; CL:幅[fu2],張|张[zhang1],條|条[tiao2]"
+],
+[
+"粤语",
+7.59,
+"Yuè yǔ",
+"Cantonese language"
+],
+[
+"语录",
+7.08,
+"yǔ lù",
+"quotation (from a book or existing source)"
+],
+[
+"俄语",
+7.01,
+"É yǔ",
+"Russian (language)"
+],
+[
+"日语",
+6.36,
+"Rì yǔ",
+"Japanese language"
+],
+[
+"口语",
+6.24,
+"kǒu yǔ",
+"colloquial speech; spoken language; vernacular language; slander; gossip; CL:門|门[men2]"
+],
+[
+"华语",
+5.42,
+"Huá yǔ",
+"Chinese language"
+],
+[
+"术语",
+5.22,
+"shù yǔ",
+"term; terminology"
+]
+],
 "strokes": [
 "M 260 732 Q 291 708 323 680 Q 339 667 356 668 Q 368 669 373 684 Q 377 700 365 733 Q 355 763 252 784 Q 234 787 228 783 Q 222 779 225 765 Q 229 752 260 732 Z",
 "M 130 472 Q 81 457 54 455 Q 41 456 37 449 Q 33 440 44 433 Q 66 418 82 416 Q 91 413 167 444 Q 239 478 249 471 Q 259 464 253 437 Q 253 400 251 361 Q 250 252 219 151 Q 203 121 244 70 Q 254 58 264 65 Q 273 72 283 95 Q 320 143 400 224 Q 413 234 410 242 Q 409 251 398 241 Q 361 219 323 192 Q 275 153 284 211 Q 284 275 306 430 Q 310 454 332 477 Q 344 487 335 499 Q 325 515 286 532 Q 274 539 258 528 Q 176 486 130 472 Z",

@@ -10,158 +10,278 @@
 "回",
 1,
 "huí",
-"to return; to reply; to go back"
+"to circle; to go back; to turn around; to answer; to return; to revolve; Hui ethnic group (Chinese Muslims); time; classifier for acts of a play; section or chapter (of a classic book)"
+],
+[
+"回",
+1,
+"huí",
+"to curve; to return; to revolve"
+],
+[
+"回",
+1,
+"huí",
+"variant of 迴|回[hui2]"
 ],
 [
 "回答",
 3,
-"huídá",
-"to reply; to answer"
+"huí dá",
+"to reply; to answer; the answer; CL:個|个[ge4]"
 ],
 [
 "回忆",
 4,
-"huíyì",
-"to recall; recollect"
+"huí yì",
+"to recall; memories; CL:個|个[ge4]"
 ],
 [
 "回报",
 6,
-"huíbào",
-"repayment; payback"
-],
-[
-"回避",
-6,
-"huíbì",
-"avoid; shun; evade"
+"huí bào",
+"(in) return; reciprocation; payback; retaliation; to report back; to reciprocate"
 ],
 [
 "回顾",
 6,
-"huígù",
-"look back; to review"
+"huí gù",
+"to look back; to review"
 ],
 [
-"回收",
+"回避",
 6,
-"huíshōu",
-"recycle; recover and put back to use"
+"huí bì",
+"variant of 迴避|回避[hui2 bi4]"
+],
+[
+"回避",
+6,
+"huí bì",
+"to shun; to avoid (sb); to skirt; to evade (an issue); to step back; to withdraw; to recuse (a judge etc)"
 ],
 [
 "挽回",
 6,
-"wǎnhuí",
-"reverse or salvage (a situation); redeem; retrieve"
+"wǎn huí",
+"to retrieve; to redeem"
+],
+[
+"回收",
+6,
+"huí shōu",
+"to recycle; to reclaim; to retrieve; to recover; to recall (a defective product)"
 ]
 ],
 "extraWords": [
 [
+"回来",
+668.42,
+"huí lai",
+"to return; to come back"
+],
+[
 "回家",
 279.02,
-"hui2 jia1",
+"huí jiā",
 "to return home"
 ],
 [
 "回去",
 238.27,
-"hui2 qu5",
+"huí qu",
 "to return; to go back"
+],
+[
+"回复",
+220.72,
+"huí fù",
+"to reply; to recover; to return (to a previous condition); Re: in reply to (email)"
 ],
 [
 "回到",
 142.7,
-"hui2 dao4",
+"huí dào",
 "to return to"
+],
+[
+"回头",
+47.16,
+"huí tóu",
+"to turn round; to turn one's head; later; by and by"
+],
+[
+"回归",
+34.19,
+"huí guī",
+"to return to; to retreat; regression (statistics)"
 ],
 [
 "返回",
 28.83,
-"fan3 hui2",
+"fǎn huí",
 "to return to; to come (or go) back"
 ],
 [
 "回落",
 27.53,
-"hui2 luo4",
+"huí luò",
 "to fall back; to return to low level after a rise (in water level, price etc)"
+],
+[
+"回应",
+22.58,
+"huí yìng",
+"to respond; response"
 ],
 [
 "收回",
 19.82,
-"shou1 hui2",
+"shōu huí",
 "to regain; to retake; to take back; to withdraw; to revoke"
 ],
 [
 "找回",
 19.55,
-"zhao3 hui2",
+"zhǎo huí",
 "to retrieve"
+],
+[
+"回国",
+19.34,
+"huí guó",
+"to return to one's home country"
+],
+[
+"带回",
+18.68,
+"dài huí",
+"to bring back"
 ],
 [
 "回升",
 15.36,
-"hui2 sheng1",
+"huí shēng",
 "to rise again after a fall; to pick up; rally (stock market etc)"
+],
+[
+"回见",
+12.82,
+"huí jiàn",
+"See you later!"
+],
+[
+"来回",
+11.91,
+"lái huí",
+"to make a round trip; return journey; back and forth; to and fro; repeatedly"
 ],
 [
 "回合",
 11.42,
-"hui2 he2",
+"huí hé",
 "one of a sequence of contests (or subdivisions of a contest) between the same two opponents; round (boxing etc); rally (tennis etc); frame (billiards etc); inning; (tennis, soccer etc) rubber or leg; round (of negotiations)"
 ],
 [
 "回想",
 11.3,
-"hui2 xiang3",
+"huí xiǎng",
 "to recall; to recollect; to think back"
+],
+[
+"赎回",
+10.11,
+"shú huí",
+"to redeem"
 ],
 [
 "回回",
 8.8,
-"Hui2 hui5",
+"Huí hui",
 "Hui ethnic group (Chinese Muslims)"
 ],
 [
 "回回",
 8.8,
-"hui2 hui2",
+"huí huí",
 "time and again; every time"
 ],
 [
 "回味",
 7.71,
-"hui2 wei4",
+"huí wèi",
 "to reflect on; to ponder over; aftertaste"
+],
+[
+"回馈",
+7.71,
+"huí kuì",
+"to repay a favor; to give back; feedback"
 ],
 [
 "召回",
 7.62,
-"zhao4 hui2",
+"zhào huí",
 "to recall (a product, an ambassador etc)"
 ],
 [
 "回首",
 7.41,
-"hui2 shou3",
+"huí shǒu",
 "to turn around; to look back; to recollect"
+],
+[
+"巡回",
+6.82,
+"xún huí",
+"to go around; to roam; to tour"
+],
+[
+"买回",
+6.75,
+"mǎi huí",
+"to buy back; to redeem; repurchase"
+],
+[
+"轮回",
+6.61,
+"lún huí",
+"variant of 輪迴|轮回[lun2 hui2]"
+],
+[
+"轮回",
+6.61,
+"lún huí",
+"to reincarnate; reincarnation (Buddhism); (of the seasons etc) to follow each other cyclically; cycle; CL:個|个[ge4]"
 ],
 [
 "退回",
 6.29,
-"tui4 hui2",
+"tuì huí",
 "to return (an item); to send back; to go back"
 ],
 [
 "一回事",
 6.17,
-"yi1 hui2 shi4",
+"yī huí shì",
 "one thing; the same as"
+],
+[
+"驳回",
+5.96,
+"bó huí",
+"to reject; to turn down; to overrule"
+],
+[
+"回电",
+5.75,
+"huí diàn",
+"to call sb back (on the phone); a return call; to reply to a telegram; to wire back; a reply telegram"
 ],
 [
 "回扣",
 5.73,
-"hui2 kou4",
+"huí kòu",
 "brokerage; a commission paid to a middleman; euphemism for a bribe; a kickback"
 ]
 ],

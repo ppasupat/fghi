@@ -10,63 +10,105 @@
 "付款",
 4,
 "fù kuǎn",
-"to pay"
+"to pay a sum of money; payment"
 ],
 [
 "贷款",
 5,
 "dài kuǎn",
-"(bank) loan; provide a loan"
+"a loan; CL:筆|笔[bi3]; to provide a loan (e.g. bank); to raise a loan (from e.g. a bank)"
 ],
 [
 "罚款",
 5,
-"fákuǎn",
-"fine; penalty (monetary)"
-],
-[
-"款待",
-6,
-"kuǎndài",
-"to entertain (guests)"
-],
-[
-"款式",
-6,
-"kuǎnshì",
-"pattern; design; style"
+"fá kuǎn",
+"to fine; penalty; fine (monetary)"
 ],
 [
 "条款",
 6,
-"tiáokuǎn",
-"clause (of contract or law)"
+"tiáo kuǎn",
+"clause (of contract or law); CL:項|项[xiang4]"
+],
+[
+"款待",
+6,
+"kuǎn dài",
+"to entertain; to be hospitable to"
+],
+[
+"款式",
+6,
+"kuǎn shì",
+"pattern; style; design; CL:種|种[zhong3]"
+],
+[
+"款式",
+6,
+"kuǎn shi",
+"elegant; elegance; good taste"
 ]
 ],
 "extraWords": [
 [
 "存款",
 37.93,
-"cun2 kuan3",
+"cún kuǎn",
 "to deposit money (in a bank etc); bank savings; bank deposit"
 ],
 [
 "捐款",
 19.67,
-"juan1 kuan3",
+"juān kuǎn",
 "to donate money; to contribute funds; donation; contribution (of money)"
 ],
 [
 "借款",
 15.72,
-"jie4 kuan3",
+"jiè kuǎn",
 "to lend money; to borrow money; loan"
 ],
 [
 "公款",
 9.75,
-"gong1 kuan3",
+"gōng kuǎn",
 "public money"
+],
+[
+"款项",
+8.42,
+"kuǎn xiàng",
+"funds; a sum of money; CL:宗[zong1]"
+],
+[
+"拨款",
+7.72,
+"bō kuǎn",
+"to allocate funds; appropriation"
+],
+[
+"税款",
+6.47,
+"shuì kuǎn",
+"tax payments"
+],
+[
+"筹款",
+5.87,
+"chóu kuǎn",
+"fundraising"
+],
+[
+"汇款",
+5.32,
+"huì kuǎn",
+"to remit money; remittance"
+],
+[
+"货款",
+5.07,
+"huò kuǎn",
+"payment for goods"
 ]
 ],
 "strokes": [

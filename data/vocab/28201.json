@@ -9,35 +9,132 @@
 [
 "温度",
 4,
-"wēndù",
-"temperature"
-],
-[
-"温暖",
-5,
-"wēnnuǎn",
-"warm"
+"wēn dù",
+"temperature; CL:個|个[ge4]"
 ],
 [
 "温柔",
 5,
-"wēnróu",
-"gentle and soft; tender; gentle"
+"wēn róu",
+"gentle and soft; tender"
 ],
 [
-"温带",
-6,
-"wēndài",
-"temperate zone"
+"温暖",
+5,
+"wēn nuǎn",
+"warm"
 ],
 [
 "温和",
 6,
-"wēnhé",
-"moderate; warm; (-huo: lukewarm)"
+"wēn hé",
+"mild; gentle; moderate"
+],
+[
+"温和",
+6,
+"wēn huo",
+"lukewarm"
+],
+[
+"温带",
+6,
+"wēn dài",
+"temperate zone"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"气温",
+39.08,
+"qì wēn",
+"air temperature; CL:個|个[ge4]"
+],
+[
+"温馨",
+24.71,
+"wēn xīn",
+"comfort; soft and fragrant; warm"
+],
+[
+"温州",
+23.32,
+"Wēn zhōu",
+"Wenzhou prefecture level city in Zhejiang"
+],
+[
+"高温",
+21.46,
+"gāo wēn",
+"high temperature"
+],
+[
+"温家宝",
+18.06,
+"Wēn Jiā bǎo",
+"Wen Jiabao (1942-), Premier of PRC from 2003-2013"
+],
+[
+"降温",
+14.09,
+"jiàng wēn",
+"to become cooler; to lower the temperature; cooling; (of interest, activity etc) to decline"
+],
+[
+"温泉",
+13.05,
+"Wēn quán",
+"Arishang Nahiyisi or Wenquan county in Börtala Mongol autonomous prefecture 博爾塔拉蒙古自治州|博尔塔拉蒙古自治州, Xinjiang"
+],
+[
+"温泉",
+13.05,
+"wēn quán",
+"hot spring; spa; onsen"
+],
+[
+"体温",
+10.25,
+"tǐ wēn",
+"(body) temperature"
+],
+[
+"低温",
+10.07,
+"dī wēn",
+"low temperature"
+],
+[
+"升温",
+7.61,
+"shēng wēn",
+"to become hot; temperature rise; (fig.) to intensify; to hot up; to escalate; to get a boost"
+],
+[
+"保温",
+6.28,
+"bǎo wēn",
+"to keep hot; heat preservation"
+],
+[
+"温情",
+5.68,
+"wēn qíng",
+"tenderness; warmth; warmhearted; softhearted"
+],
+[
+"重温",
+5.65,
+"chóng wēn",
+"to learn sth over again; to review; to brush up; to revive (memories, friendship etc)"
+],
+[
+"温室",
+5.41,
+"wēn shì",
+"greenhouse"
+]
+],
 "strokes": [
 "M 229 718 Q 256 694 283 667 Q 298 652 315 653 Q 327 654 333 669 Q 337 685 328 717 Q 316 750 224 770 Q 208 774 200 771 Q 194 767 196 753 Q 200 740 229 718 Z",
 "M 124 537 Q 181 480 219 465 Q 234 462 243 476 Q 249 489 245 507 Q 232 552 162 568 Q 120 581 109 576 Q 102 575 106 562 Q 107 550 124 537 Z",

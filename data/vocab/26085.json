@@ -9,273 +9,399 @@
 [
 "日",
 2,
+"Rì",
+"abbr. for 日本[Ri4 ben3], Japan"
+],
+[
+"日",
+2,
 "rì",
-"sun; day; date; time (Kangxi radical 72)"
+"sun; day; date, day of the month"
 ],
 [
 "生日",
 2,
-"shēngrì",
-"birthday"
+"shēng rì",
+"birthday; CL:個|个[ge4]"
 ],
 [
 "节日",
 3,
-"jiérì",
-"holiday; festival"
+"jié rì",
+"holiday; festival; CL:個|个[ge4]"
 ],
 [
 "日记",
 4,
-"rìjì",
-"diary"
+"rì jì",
+"diary; CL:則|则[ze2],本[ben3],篇[pian1]"
+],
+[
+"日子",
+5,
+"rì zi",
+"day; a (calendar) date; days of one's life"
+],
+[
+"日期",
+5,
+"rì qī",
+"date; CL:個|个[ge4]"
 ],
 [
 "日常",
 5,
-"rìcháng",
+"rì cháng",
 "daily; everyday"
 ],
 [
 "日程",
 5,
-"rìchéng",
-"schedule; itinerary"
+"rì chéng",
+"schedule; itinerary; CL:個|个[ge4]"
 ],
 [
 "日历",
 5,
-"rìlì",
-"calendar"
-],
-[
-"日期",
-5,
-"rìqī",
-"date"
+"rì lì",
+"calendar; CL:張|张[zhang1],本[ben3]"
 ],
 [
 "日用品",
 5,
-"rìyòngpǐn",
-"daily necessities"
-],
-[
-"日子",
-5,
-"rìzi",
-"days; date; time; life"
-],
-[
-"日新月异",
-6,
-"rìxīnyuèyì",
-"change with each passing day"
+"rì yòng pǐn",
+"articles for daily use; CL:件[jian4],個|个[ge4]"
 ],
 [
 "日益",
 6,
-"rìyì",
-"day by day; more and more; increasingly"
+"rì yì",
+"day by day; more and more; increasingly; more and more with each passing day"
 ],
 [
 "昔日",
 6,
-"xīrì",
-"formerly; in olden days"
+"xī rì",
+"former days; in the past"
 ],
 [
 "与日俱增",
 6,
-"yǔrìjùzēng",
-"grow with each passing day"
+"yǔ rì jù zēng",
+"to increase steadily; to grow with each passing day"
+],
+[
+"日新月异",
+6,
+"rì xīn yuè yì",
+"daily renewal, monthly change (idiom); every day sees new developments; rapid progress"
 ]
 ],
 "extraWords": [
 [
 "日本",
 302.69,
-"Ri4 ben3",
+"Rì běn",
 "Japan"
 ],
 [
 "昨日",
 181.34,
-"zuo2 ri4",
+"zuó rì",
 "yesterday"
 ],
 [
 "今日",
 126.59,
-"jin1 ri4",
+"jīn rì",
 "today"
 ],
 [
 "近日",
 101.14,
-"jin4 ri4",
-"in the past few days; recently; in the last few days"
+"jìn rì",
+"(in) the past few days; recently; (within) the next few days"
+],
+[
+"生日快乐",
+48.94,
+"shēng rì kuài lè",
+"Happy birthday"
 ],
 [
 "每日",
 44.79,
-"mei3 ri4",
+"měi rì",
 "daily; (soup etc) of the day"
+],
+[
+"当日",
+44.66,
+"dāng rì",
+"on that day"
+],
+[
+"当日",
+44.66,
+"dàng rì",
+"that very day; the same day"
 ],
 [
 "中日",
 21.5,
-"Zhong1 Ri4",
+"Zhōng Rì",
 "China-Japan"
 ],
 [
 "早日",
 18.62,
-"zao3 ri4",
+"zǎo rì",
 "soon; shortly; on a day quite soon; promptly"
 ],
 [
 "交易日",
 17.98,
-"jiao1 yi4 ri4",
+"jiāo yì rì",
 "working day (in banking, share trading)"
 ],
 [
 "末日",
 16.9,
-"Mo4 ri4",
+"Mò rì",
 "Judgment Day (in Christian eschatology)"
 ],
 [
 "末日",
 16.9,
-"mo4 ri4",
+"mò rì",
 "last day; end; final days; doomsday"
 ],
 [
 "日本人",
 16.56,
-"Ri4 ben3 ren2",
+"Rì běn rén",
 "Japanese person or people"
+],
+[
+"周日",
+15.19,
+"Zhōu rì",
+"Sunday; diurnal"
+],
+[
+"日后",
+13.66,
+"rì hòu",
+"sometime; someday (in the future)"
+],
+[
+"日趋",
+12.4,
+"rì qū",
+"(increasing) day by day; (more critical) with every passing day; gradually"
 ],
 [
 "明日",
 11.7,
-"ming2 ri4",
+"míng rì",
 "tomorrow"
 ],
 [
 "次日",
 11.69,
-"ci4 ri4",
+"cì rì",
 "next day; the morrow"
 ],
 [
 "即日",
 11.33,
-"ji2 ri4",
+"jí rì",
 "this or that very day; in the next few days"
 ],
 [
 "假日",
 10.51,
-"jia4 ri4",
+"jià rì",
 "holiday; non-working day"
+],
+[
+"人民日报",
+10.4,
+"Rén mín Rì bào",
+"People's Daily (PRC newspaper)"
 ],
 [
 "前日",
 10.37,
-"qian2 ri4",
+"qián rì",
 "day before yesterday"
 ],
 [
 "日落",
 10.22,
-"ri4 luo4",
+"rì luò",
 "sundown; sunset"
+],
+[
+"日渐",
+9.93,
+"rì jiàn",
+"to progress (or increase, change etc) day by day; more (or better etc) with each passing day"
 ],
 [
 "日元",
 9.93,
-"Ri4 yuan2",
-"Japanese yen (unit of currency); also written 日圓|日圆"
+"Rì yuán",
+"Japanese yen (unit of currency); also written 日圓|日圆[Ri4 yuan2]"
 ],
 [
 "好日子",
 9.36,
-"hao3 ri4 zi5",
+"hǎo rì zi",
 "auspicious day; good day; happy life"
+],
+[
+"纪念日",
+9.06,
+"jì niàn rì",
+"day of commemoration; memorial day"
 ],
 [
 "平日",
 8.74,
-"ping2 ri4",
+"píng rì",
 "ordinary day; everyday; ordinarily; usually"
+],
+[
+"日圆",
+8.52,
+"Rì yuán",
+"Japanese yen (unit of currency); CL:個|个[ge4]"
 ],
 [
 "工作日",
 8.3,
-"gong1 zuo4 ri4",
+"gōng zuò rì",
 "workday; working day; weekday"
+],
+[
+"日产",
+8.23,
+"Rì chǎn",
+"Nissan, Japanese car make; also transliterated 尼桑[Ni2 sang1]"
+],
+[
+"日报",
+8.1,
+"rì bào",
+"daily newspaper"
+],
+[
+"抗日战争",
+7.99,
+"Kàng Rì Zhàn zhēng",
+"(China's) War of Resistance against Japan (1937-1945)"
+],
+[
+"节假日",
+7.68,
+"jié jià rì",
+"public holiday"
 ],
 [
 "日日",
 7.45,
-"ri4 ri4",
+"rì rì",
 "every day"
 ],
 [
 "金正日",
 7.0,
-"Jin1 Zheng4 ri4",
+"Jīn Zhèng rì",
 "Kim Jong-il (1942-2011), Dear Leader of North Korea 1982-2011"
+],
+[
+"日内瓦",
+6.57,
+"Rì nèi wǎ",
+"Geneva, Switzerland"
 ],
 [
 "日夜",
 6.39,
-"ri4 ye4",
+"rì yè",
 "day and night; around the clock"
+],
+[
+"日志",
+6.38,
+"rì zhì",
+"journal; log (computing)"
+],
+[
+"日语",
+6.36,
+"Rì yǔ",
+"Japanese language"
+],
+[
+"尼日利亚",
+6.29,
+"Ní rì lì yà",
+"Nigeria"
 ],
 [
 "往日",
 6.14,
-"wang3 ri4",
+"wǎng rì",
 "former days; the past"
 ],
 [
 "夏日",
 6.11,
-"xia4 ri4",
+"xià rì",
 "summertime"
+],
+[
+"中国日报",
+6.0,
+"Zhōng guó Rì bào",
+"China Daily (an English language newspaper)"
 ],
 [
 "日中",
 5.78,
-"Ri4 Zhong1",
+"Rì Zhōng",
 "Japan-China"
 ],
 [
 "日中",
 5.78,
-"ri4 zhong1",
+"rì zhōng",
 "noon; midday; zenith"
 ],
 [
 "世界末日",
 5.48,
-"shi4 jie4 mo4 ri4",
+"shì jiè mò rì",
 "end of the world"
+],
+[
+"过日子",
+5.46,
+"guò rì zi",
+"to live one's life; to pass one's days; to get along"
 ],
 [
 "星期日",
 5.45,
-"Xing1 qi1 ri4",
+"Xīng qī rì",
 "Sunday; CL:個|个[ge4]"
 ],
 [
 "日出",
 5.27,
-"ri4 chu1",
+"rì chū",
 "sunrise"
 ]
 ],

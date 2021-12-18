@@ -10,16 +10,41 @@
 "递",
 5,
 "dì",
-"hand over; to pass; to give"
+"to hand over; to pass on sth; to gradually increase or decrease; progressively"
 ],
 [
 "递增",
 6,
-"dìzēng",
-"increase step by step; steadily increase"
+"dì zēng",
+"to increase by degrees; in increasing order; incremental; progressive"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"传递",
+26.18,
+"chuán dì",
+"to transmit; to pass on to sb else; (math.) transitive"
+],
+[
+"快递",
+15.44,
+"kuài dì",
+"express delivery"
+],
+[
+"递给",
+9.84,
+"dì gěi",
+"to hand it (i.e. the aforementioned item) to (sb)"
+],
+[
+"递交",
+8.71,
+"dì jiāo",
+"to present; to give; to hand over; to hand in; to lay before"
+]
+],
 "strokes": [
 "M 473 733 Q 492 709 514 681 Q 524 668 538 667 Q 547 666 553 677 Q 559 689 555 716 Q 554 734 528 750 Q 468 781 456 779 Q 452 776 451 765 Q 452 755 473 733 Z",
 "M 659 791 Q 647 757 608 689 Q 602 673 617 679 Q 654 707 673 728 Q 724 780 738 789 Q 754 801 743 815 Q 728 828 702 837 Q 680 844 668 841 Q 658 837 663 826 Q 669 810 659 791 Z",

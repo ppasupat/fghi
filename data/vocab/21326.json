@@ -9,41 +9,198 @@
 [
 "豪华",
 5,
-"háohuá",
+"háo huá",
 "luxurious"
 ],
 [
 "华裔",
 5,
-"Huáyì",
-"person of Chinese descent"
-],
-[
-"繁华",
-6,
-"fánhuá",
-"flourishing; bustling; prosperous"
+"Huá yì",
+"ethnic Chinese; non-Chinese citizen of Chinese ancestry"
 ],
 [
 "华丽",
 6,
-"huálì",
-"gorgeous; magnificent"
-],
-[
-"华侨",
-6,
-"huáqiáo",
-"overseas Chinese"
+"huá lì",
+"gorgeous"
 ],
 [
 "精华",
 6,
-"jīnghuá",
-"elite; best feature; most important part of an object; essence; quintessence"
+"jīng huá",
+"best feature; most important part of an object; quintessence; essence; soul"
+],
+[
+"繁华",
+6,
+"fán huá",
+"flourishing; bustling"
+],
+[
+"华侨",
+6,
+"Huá qiáo",
+"overseas Chinese; (in a restricted sense) Chinese emigrant who still retains Chinese nationality; CL:個|个[ge4],位[wei4],名[ming2]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"新华社",
+186.26,
+"Xīn huá shè",
+"Xinhua News Agency"
+],
+[
+"中华",
+46.18,
+"Zhōng huá",
+"China (alternate formal name)"
+],
+[
+"华盛顿",
+39.97,
+"Huá shèng dùn",
+"Washington (name); George Washington (1732-1799), first US president; Washington, US State; Washington, D.C. (US federal capital)"
+],
+[
+"新华网",
+39.55,
+"Xīn huá Wǎng",
+"Xinhua News Network"
+],
+[
+"中华人民共和国",
+30.47,
+"Zhōng huá Rén mín Gòng hé guó",
+"People's Republic of China"
+],
+[
+"华人",
+23.73,
+"Huá rén",
+"ethnic Chinese person or people"
+],
+[
+"中华民族",
+16.78,
+"Zhōng huá mín zú",
+"the Chinese people"
+],
+[
+"才华",
+14.49,
+"cái huá",
+"talent; CL:份[fen4]"
+],
+[
+"霍华德",
+13.47,
+"Huò huá dé",
+"Howard (name)"
+],
+[
+"清华",
+12.94,
+"Qīng huá",
+"abbr. for 清華大學|清华大学[Qing1 hua2 Da4 xue2]"
+],
+[
+"新华",
+11.85,
+"Xīn huá",
+"Xinhua (the official Chinese news agency)"
+],
+[
+"华夏",
+11.78,
+"Huá xià",
+"old name for China; Cathay"
+],
+[
+"奢华",
+10.73,
+"shē huá",
+"luxurious; sumptuous; lavish"
+],
+[
+"清华大学",
+10.34,
+"Qīng huá Dà xué",
+"Tsinghua or Qinghua University, Beijing; National Tsing Hua University, Hsinchu, Taiwan"
+],
+[
+"爱德华",
+10.22,
+"Ài dé huá",
+"Edward; Édouard (name)"
+],
+[
+"华为",
+9.14,
+"Huá wéi",
+"Huawei (brand)"
+],
+[
+"华北",
+8.47,
+"Huá běi",
+"North China"
+],
+[
+"刘德华",
+7.8,
+"Liú Dé huá",
+"Andy Lau (1961-), Hong Kong Cantopop singer and actor"
+],
+[
+"华尔兹",
+6.89,
+"huá ěr zī",
+"waltz (dance) (loanword)"
+],
+[
+"华东",
+6.45,
+"Huá dōng",
+"East China"
+],
+[
+"升华",
+6.31,
+"shēng huá",
+"to sublimate; sublimation (physics); to raise to a higher level; to refine; promotion"
+],
+[
+"华南",
+6.11,
+"Huá nán",
+"Southern China"
+],
+[
+"驻华",
+6.09,
+"zhù huá",
+"stationed in China; located in China"
+],
+[
+"年华",
+5.93,
+"nián huá",
+"years; time; age"
+],
+[
+"华语",
+5.42,
+"Huá yǔ",
+"Chinese language"
+],
+[
+"嘉年华",
+5.34,
+"jiā nián huá",
+"carnival (loanword)"
+]
+],
 "strokes": [
 "M 323 621 Q 350 652 380 690 Q 404 724 424 741 Q 434 750 431 764 Q 427 777 402 800 Q 378 821 360 822 Q 342 821 348 800 Q 370 728 157 501 Q 147 492 144 486 Q 140 476 153 477 Q 184 481 297 593 L 323 621 Z",
 "M 297 593 Q 316 533 289 420 Q 277 380 309 337 Q 310 336 312 334 Q 328 321 338 344 Q 351 378 350 419 Q 353 528 357 553 Q 364 577 355 586 Q 339 604 328 616 Q 325 619 323 621 C 302 642 289 622 297 593 Z",

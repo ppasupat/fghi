@@ -9,41 +9,102 @@
 [
 "地图",
 3,
-"dìtú",
-"map"
+"dì tú",
+"map; CL:張|张[zhang1],本[ben3]"
 ],
 [
 "图书馆",
 3,
-"túshūguǎn",
-"library"
-],
-[
-"企图",
-6,
-"qǐtú",
-"(to ) attempt; try; attempt"
+"tú shū guǎn",
+"library; CL:家[jia1],個|个[ge4]"
 ],
 [
 "试图",
 6,
-"shìtú",
-"to try; to attempt"
+"shì tú",
+"to attempt; to try"
 ],
 [
-"图案",
+"企图",
 6,
-"tú'àn",
-"design; pattern"
+"qǐ tú",
+"to attempt; to try; attempt; CL:種|种[zhong3]"
 ],
 [
 "意图",
 6,
-"yìtú",
-"intent; intention; intend"
+"yì tú",
+"intent; intention; to intend"
+],
+[
+"图案",
+6,
+"tú àn",
+"design; pattern"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"图片",
+86.76,
+"tú piàn",
+"image; picture; photograph; CL:張|张[zhang1]"
+],
+[
+"图书",
+24.39,
+"tú shū",
+"books (in a library or bookstore); CL:本[ben3],冊|册[ce4],部[bu4]"
+],
+[
+"图像",
+19.67,
+"tú xiàng",
+"image; picture; graphic"
+],
+[
+"西雅图",
+12.13,
+"Xī yǎ tú",
+"Seattle, Washington State"
+],
+[
+"图形",
+11.43,
+"tú xíng",
+"picture; figure; diagram; graph; depiction; graphical"
+],
+[
+"心电图",
+7.26,
+"xīn diàn tú",
+"electrocardiogram (ECG)"
+],
+[
+"拼图",
+7.24,
+"pīn tú",
+"jigsaw puzzle; to do a jigsaw puzzle"
+],
+[
+"尤文图斯",
+5.39,
+"Yóu wén tú sī",
+"Juventus, Italian football team"
+],
+[
+"图纸",
+5.33,
+"tú zhǐ",
+"blueprint; drawing; design plans; graph paper"
+],
+[
+"图表",
+5.26,
+"tú biǎo",
+"chart; diagram"
+]
+],
 "strokes": [
 "M 259 728 Q 253 734 226 748 Q 214 754 201 749 Q 192 743 199 729 Q 223 641 225 606 Q 224 602 225 597 Q 234 347 195 173 Q 168 83 198 36 Q 202 30 208 22 Q 218 7 232 21 Q 242 36 246 52 L 251 92 Q 255 128 256 179 Q 272 645 277 675 Q 278 679 278 684 C 281 714 281 714 259 728 Z",
 "M 720 71 Q 745 41 768 -4 Q 778 -26 793 -26 Q 806 -25 814 -4 Q 845 47 823 240 Q 799 663 823 694 Q 824 698 829 702 Q 839 717 839 725 Q 838 738 805 760 Q 745 799 703 784 Q 684 781 652 775 Q 502 760 323 731 Q 290 727 259 728 C 229 727 249 678 278 684 Q 287 685 302 689 Q 315 693 437 713 Q 588 735 703 742 Q 728 743 734 731 Q 758 703 760 370 L 760 353 Q 764 205 766 166 Q 770 117 759 98 Q 755 85 749 85 L 748 85 C 734 58 708 88 720 71 Z",

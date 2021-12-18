@@ -7,43 +7,248 @@
 },
 "words": [
 [
-"挑战",
-5,
-"tiǎozhàn",
-"challenge"
-],
-[
 "战争",
 5,
-"zhànzhēng",
-"war; conflict"
+"zhàn zhēng",
+"war; conflict; CL:場|场[chang2],次[ci4]"
+],
+[
+"挑战",
+5,
+"tiǎo zhàn",
+"to challenge; challenge"
 ],
 [
 "战斗",
 6,
-"zhàndòu",
-"to fight; to battle; to struggle"
-],
-[
-"战略",
-6,
-"zhànlüè",
-"strategy"
+"zhàn dòu",
+"to fight; to engage in combat; struggle; battle; CL:場|场[chang2],次[ci4]"
 ],
 [
 "战术",
 6,
-"zhànshù",
-"(military) tactics"
+"zhàn shù",
+"tactics"
+],
+[
+"战略",
+6,
+"zhàn lu:è",
+"strategy"
 ],
 [
 "战役",
 6,
-"zhànyì",
-"military campaign; battle"
+"zhàn yì",
+"military campaign"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"战胜",
+44.43,
+"zhàn shèng",
+"to prevail over; to defeat; to surmount"
+],
+[
+"作战",
+43.32,
+"zuò zhàn",
+"combat; to fight"
+],
+[
+"战士",
+39.12,
+"zhàn shì",
+"fighter; soldier; warrior; CL:個|个[ge4]"
+],
+[
+"战场",
+23.06,
+"zhàn chǎng",
+"battlefield; CL:個|个[ge4]"
+],
+[
+"大战",
+22.91,
+"dà zhàn",
+"war; to wage war"
+],
+[
+"备战",
+16.28,
+"bèi zhàn",
+"prepared against war; to prepare for war; warmongering"
+],
+[
+"战线",
+13.84,
+"zhàn xiàn",
+"battle line; battlefront; front"
+],
+[
+"战绩",
+13.19,
+"zhàn jì",
+"military successes; (fig.) success; accomplishment"
+],
+[
+"迎战",
+12.87,
+"yíng zhàn",
+"to meet the enemy head-on"
+],
+[
+"抗战",
+12.24,
+"kàng zhàn",
+"war of resistance, especially the war against Japan (1937-1945)"
+],
+[
+"战斗机",
+11.1,
+"zhàn dòu jī",
+"fighter (aircraft)"
+],
+[
+"战斗力",
+10.18,
+"zhàn dòu lì",
+"fighting strength"
+],
+[
+"战友",
+9.51,
+"zhàn yǒu",
+"comrade-in-arms; battle companion"
+],
+[
+"战机",
+9.29,
+"zhàn jī",
+"opportunity in a battle; fighter aircraft; war secret"
+],
+[
+"二战",
+9.23,
+"Èr zhàn",
+"World War II"
+],
+[
+"抗日战争",
+7.99,
+"Kàng Rì Zhàn zhēng",
+"(China's) War of Resistance against Japan (1937-1945)"
+],
+[
+"开战",
+7.81,
+"kāi zhàn",
+"to start a war; to make war; to battle against"
+],
+[
+"实战",
+7.33,
+"shí zhàn",
+"real combat; actual combat"
+],
+[
+"征战",
+6.92,
+"zhēng zhàn",
+"campaign; expedition"
+],
+[
+"冷战",
+6.74,
+"Lěng zhàn",
+"(US-Soviet) Cold War"
+],
+[
+"冷战",
+6.74,
+"lěng zhàn",
+"cold war; (fig.) strained relationship; to be barely on speaking terms"
+],
+[
+"冷战",
+6.74,
+"lěng zhan",
+"(coll.) shiver; shudder"
+],
+[
+"决战",
+6.7,
+"jué zhàn",
+"decisive battle; to fight a decisive battle; to fight for supremacy in ..."
+],
+[
+"战后",
+6.7,
+"zhàn hòu",
+"after the war; postwar"
+],
+[
+"战利品",
+6.68,
+"zhàn lì pǐn",
+"spoils of war"
+],
+[
+"奋战",
+6.6,
+"fèn zhàn",
+"to fight bravely; (fig.) to struggle; to work hard"
+],
+[
+"出战",
+6.56,
+"chū zhàn",
+"(military) to go off to war; (sports) to compete"
+],
+[
+"战舰",
+6.5,
+"zhàn jiàn",
+"battleship; warship"
+],
+[
+"战略性",
+6.45,
+"zhàn lu:è xìng",
+"strategic"
+],
+[
+"世界大战",
+6.29,
+"shì jiè dà zhàn",
+"world war"
+],
+[
+"统战",
+6.2,
+"tǒng zhàn",
+"united front (abbr. for 統一戰線|统一战线[tong3 yi1 zhan4 xian4])"
+],
+[
+"激战",
+5.98,
+"jī zhàn",
+"to fight fiercely; fierce battle"
+],
+[
+"统一战线",
+5.49,
+"tǒng yī zhàn xiàn",
+"united front"
+],
+[
+"内战",
+5.19,
+"nèi zhàn",
+"civil war"
+]
+],
 "strokes": [
 "M 317 342 Q 318 438 321 526 L 321 555 Q 324 651 337 708 Q 340 718 319 733 Q 283 751 258 754 Q 242 757 235 748 Q 228 739 236 725 Q 261 692 262 669 Q 275 513 275 330 C 275 300 317 312 317 342 Z",
 "M 321 526 Q 370 520 404 535 Q 438 547 476 560 Q 492 566 495 569 Q 502 578 497 585 Q 488 595 459 598 Q 429 599 403 583 Q 384 574 364 567 Q 345 560 321 555 C 292 549 291 529 321 526 Z",

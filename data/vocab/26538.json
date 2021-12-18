@@ -9,11 +9,84 @@
 [
 "枪",
 5,
+"Qiāng",
+"surname Qiang"
+],
+[
+"枪",
+5,
 "qiāng",
-"gun; spear"
+"gun; firearm; rifle; spear; thing with shape or function similar to a gun; CL:支[zhi1],把[ba3],桿|杆[gan3],條|条[tiao2],枝[zhi1]; to substitute for another person in a test; to knock; classifier for rifle shots"
+],
+[
+"枪",
+5,
+"qiāng",
+"variant of 槍|枪[qiang1]; rifle; spear"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"开枪",
+130.12,
+"kāi qiāng",
+"to open fire; to shoot a gun"
+],
+[
+"枪击",
+20.6,
+"qiāng jī",
+"to shoot with a gun; shooting incident"
+],
+[
+"手枪",
+18.39,
+"shǒu qiāng",
+"pistol; CL:把[ba3]"
+],
+[
+"枪杀",
+14.37,
+"qiāng shā",
+"to shoot dead"
+],
+[
+"枪支",
+10.43,
+"qiāng zhī",
+"a gun; guns in general"
+],
+[
+"枪声",
+9.63,
+"qiāng shēng",
+"crack; shooting sound; gunshot"
+],
+[
+"枪手",
+8.94,
+"qiāng shǒu",
+"gunman; sharpshooter; sb who takes an exam for sb else; sb who produces a piece of work for sb else to pass off as their own"
+],
+[
+"步枪",
+6.86,
+"bù qiāng",
+"rifle; CL:把[ba3],枝[zhi1]"
+],
+[
+"金枪鱼",
+6.05,
+"jīn qiāng yú",
+"tuna"
+],
+[
+"机枪",
+5.47,
+"jī qiāng",
+"machine gun"
+]
+],
 "strokes": [
 "M 331 520 Q 427 550 433 557 Q 440 564 436 573 Q 429 583 399 589 Q 384 590 333 574 L 289 556 Q 151 517 114 509 Q 80 500 106 486 Q 151 467 201 483 Q 234 493 271 503 L 331 520 Z",
 "M 329 439 Q 329 478 331 520 L 333 574 Q 334 665 353 726 Q 362 741 359 754 Q 352 764 298 797 Q 276 813 255 799 Q 251 795 256 779 Q 289 731 289 682 Q 289 624 289 556 L 285 418 Q 281 331 281 236 Q 277 160 255 89 Q 243 46 269 -10 Q 275 -28 283 -31 Q 289 -37 296 -29 Q 303 -25 314 -5 Q 324 20 323 50 Q 322 93 328 410 L 329 439 Z",

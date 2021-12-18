@@ -9,93 +9,111 @@
 [
 "着急",
 3,
-"zháojí",
-"to worry; feel anxious"
-],
-[
-"急忙",
-5,
-"jímáng",
-"hastily"
-],
-[
-"急诊",
-5,
-"jízhěn",
-"emergency call; emergency treatment"
+"zháo jí",
+"to worry; to feel anxious; Taiwan pr. [zhao1 ji2]"
 ],
 [
 "紧急",
 5,
-"jǐnjí",
-"urgent; pressing"
+"jǐn jí",
+"urgent; emergency"
 ],
 [
-"当务之急",
-6,
-"dāngwùzhījí",
-"the most pressing matter of the moment; a top priority task; urgent matter"
+"急诊",
+5,
+"jí zhěn",
+"to give or receive urgent medical treatment; emergency treatment (at a hospital emergency department, or from a doctor on a house call)"
 ],
 [
-"急功近利",
-6,
-"jígōngjìnlì",
-"eager for success and profit"
-],
-[
-"急剧",
-6,
-"jíjù",
-"rapid; sudden"
+"急忙",
+5,
+"jí máng",
+"hastily"
 ],
 [
 "急切",
 6,
-"jíqiè",
-"eager; impatient; imperative"
-],
-[
-"急于求成",
-6,
-"jíyúqiúchéng",
-"impatient for success"
+"jí qiè",
+"eager; impatient"
 ],
 [
 "急躁",
 6,
-"jízào",
-"irritable; impetuous; impatient"
+"jí zào",
+"irritable; irascible; impetuous"
 ],
 [
 "焦急",
 6,
-"jiāojí",
-"anxiety; worried"
+"jiāo jí",
+"anxiety; anxious"
+],
+[
+"当务之急",
+6,
+"dāng wù zhī jí",
+"top priority job; matter of vital importance"
+],
+[
+"急剧",
+6,
+"jí jù",
+"rapid; sudden"
+],
+[
+"急功近利",
+6,
+"jí gōng jìn lì",
+"seeking instant benefit (idiom); shortsighted vision, looking only for fast return"
+],
+[
+"急于求成",
+6,
+"jí yú qiú chéng",
+"anxious for quick results (idiom); to demand instant success; impatient for result; impetuous"
 ]
 ],
 "extraWords": [
 [
 "急性",
 25.28,
-"ji2 xing4",
+"jí xìng",
 "acute"
+],
+[
+"应急",
+22.92,
+"yìng jí",
+"to respond to an emergency; to meet a contingency; (attributive) emergency"
 ],
 [
 "急需",
 12.69,
-"ji2 xu1",
+"jí xū",
 "to urgently need; urgent need"
 ],
 [
 "急救",
 11.54,
-"ji2 jiu4",
+"jí jiù",
 "first aid; emergency treatment"
+],
+[
+"急诊室",
+9.99,
+"jí zhěn shì",
+"emergency room"
+],
+[
+"急于",
+8.73,
+"jí yú",
+"eager to; in a hurry to"
 ],
 [
 "急速",
 6.04,
-"ji2 su4",
+"jí sù",
 "hurried; at a great speed; rapid (development)"
 ]
 ],

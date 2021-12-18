@@ -7,37 +7,62 @@
 },
 "words": [
 [
-"称赞",
-5,
-"chēngzàn",
-"to praise; to acclaim"
-],
-[
 "赞成",
 5,
-"zànchéng",
-"approve; endorse"
+"zàn chéng",
+"to approve; to endorse; (literary) to assist"
 ],
 [
 "赞美",
 5,
-"zànměi",
-"admire; applause; to praise"
+"zàn měi",
+"to admire; to praise; to eulogize"
 ],
 [
-"赞叹",
-6,
-"zàntàn",
-"sigh or grasp in admiration; highly praise"
+"称赞",
+5,
+"chēng zàn",
+"to praise; to acclaim; to commend; to compliment"
 ],
 [
 "赞助",
 6,
-"zànzhù",
-"support; sponsor"
+"zàn zhù",
+"to support; to assist; to sponsor"
+],
+[
+"赞叹",
+6,
+"zàn tàn",
+"to exclaim in admiration"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"赞同",
+13.25,
+"zàn tóng",
+"to approve of; to endorse; (vote) in favor"
+],
+[
+"赞同",
+13.25,
+"zàn tóng",
+"to approve of; to endorse; (vote) in favor"
+],
+[
+"赞扬",
+9.48,
+"zàn yáng",
+"to praise; to approve of; to show approval"
+],
+[
+"赞赏",
+9.15,
+"zàn shǎng",
+"to admire; to praise; to appreciate"
+]
+],
 "strokes": [
 "M 285 696 Q 300 720 313 739 Q 320 749 310 758 Q 280 780 260 778 Q 253 777 254 766 Q 263 708 192 621 Q 188 611 198 613 Q 228 619 273 679 L 285 696 Z",
 "M 392 681 Q 413 687 436 691 Q 455 695 459 699 Q 466 705 462 711 Q 458 720 435 725 Q 414 729 397 722 L 355 709 Q 306 700 285 696 C 256 690 251 690 273 679 L 274 679 Q 301 661 349 673 Q 350 673 355 673 L 392 681 Z",

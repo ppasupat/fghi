@@ -9,88 +9,136 @@
 [
 "声音",
 3,
-"shēngyīn",
-"sound; voice"
+"shēng yīn",
+"voice; sound; CL:個|个[ge4]"
 ],
 [
 "音乐",
 3,
-"yīnyuè",
-"music"
+"yīn yuè",
+"music; CL:張|张[zhang1],曲[qu3],段[duan4]"
 ],
 [
 "录音",
 5,
-"lùyīn",
-"sound recording; to record"
+"lù yīn",
+"to record (sound); sound recording; CL:個|个[ge4]"
 ],
 [
 "拼音",
 5,
-"pīnyīn",
-"pinyin; phonetic writing"
+"pīn yīn",
+"phonetic writing; pinyin (Chinese romanization)"
 ],
 [
 "口音",
 6,
-"kǒuyīn",
-"accent"
+"kǒu yīn",
+"oral speech sounds (linguistics)"
+],
+[
+"口音",
+6,
+"kǒu yin",
+"voice; accent"
 ],
 [
 "收音机",
 6,
-"shōuyīnjī",
-"radio"
-],
-[
-"音响",
-6,
-"yīnxiǎng",
-"(Electronic) speakers; acoustics; sound field (i.e., in a room or theater)"
+"shōu yīn jī",
+"radio; CL:臺|台[tai2]"
 ],
 [
 "噪音",
 6,
-"zàoyīn",
-"uproar; rumble; noise; static"
+"zào yīn",
+"rumble; noise; static (in a signal)"
+],
+[
+"音响",
+6,
+"yīn xiǎng",
+"sound; acoustics; audio; hi-fi system; stereo sound system; abbr. for 組合音響|组合音响[zu3 he2 yin1 xiang3]"
 ]
 ],
 "extraWords": [
 [
+"语音",
+14.25,
+"yǔ yīn",
+"speech sounds; pronunciation; colloquial (rather than literary) pronunciation of a Chinese character; phonetic; audio; voice; (Internet) to voice chat; voice message"
+],
+[
+"音乐会",
+12.73,
+"yīn yuè huì",
+"concert; CL:場|场[chang3]"
+],
+[
 "嗓音",
 10.4,
-"sang3 yin1",
+"sǎng yīn",
 "voice"
+],
+[
+"音频",
+9.01,
+"yīn pín",
+"audio; sound; audio frequency; sound frequency"
+],
+[
+"发音",
+8.41,
+"fā yīn",
+"to pronounce; pronunciation; to emit sound"
+],
+[
+"观音",
+6.96,
+"Guān yīn",
+"Guanyin, the Bodhisattva of Compassion or Goddess of Mercy (Sanskrit Avalokiteśvara)"
 ],
 [
 "音箱",
 6.7,
-"yin1 xiang1",
+"yīn xiāng",
 "loudspeaker box; speaker (audio equipment); resonating chamber of a musical instrument; sound box"
 ],
 [
 "音像",
 6.6,
-"yin1 xiang4",
+"yīn xiàng",
 "audio and video; audiovisual"
+],
+[
+"音乐家",
+6.35,
+"yīn yuè jiā",
+"musician"
 ],
 [
 "配音",
 6.1,
-"pei4 yin1",
+"pèi yīn",
 "dubbing (filmmaking)"
 ],
 [
 "波音",
 6.01,
-"Bo1 yin1",
+"Bō yīn",
 "Boeing (aerospace company)"
 ],
 [
 "波音",
 6.01,
-"bo1 yin1",
+"bō yīn",
 "mordent (music)"
+],
+[
+"话音",
+5.83,
+"huà yīn",
+"one's speaking voice; tone; implication"
 ]
 ],
 "strokes": [

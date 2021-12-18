@@ -9,29 +9,42 @@
 [
 "打扰",
 4,
-"dǎrǎo",
-"disturb"
-],
-[
-"干扰",
-6,
-"gānrǎo",
-"interfere; obstruction"
-],
-[
-"扰乱",
-6,
-"rǎoluàn",
-"disturb; perturb; harass"
+"dǎ rǎo",
+"to disturb; to bother; to trouble"
 ],
 [
 "骚扰",
 6,
-"sāorǎo",
-"harass; disturb; molest; cause a commotion"
+"sāo rǎo",
+"to disturb; to cause a commotion; to harass"
+],
+[
+"干扰",
+6,
+"gān rǎo",
+"to disturb; to interfere; perturbation; interference (physics)"
+],
+[
+"扰乱",
+6,
+"rǎo luàn",
+"to disturb; to perturb; to harass"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"困扰",
+18.21,
+"kùn rǎo",
+"to perplex; to disturb; to cause complications"
+],
+[
+"性骚扰",
+9.72,
+"xìng sāo rǎo",
+"sexual harassment"
+]
+],
 "strokes": [
 "M 323 520 Q 345 529 371 536 Q 405 548 410 553 Q 417 562 412 569 Q 405 579 375 584 Q 348 587 325 575 L 277 554 Q 202 527 137 513 Q 103 503 130 490 Q 175 471 225 490 Q 250 497 276 506 L 323 520 Z",
 "M 274 343 Q 273 249 271 128 Q 270 104 257 96 Q 253 93 184 107 Q 153 119 155 109 Q 156 102 175 87 Q 236 38 251 10 Q 269 -23 284 -24 Q 297 -25 312 8 Q 330 51 329 122 Q 322 254 321 384 L 321 415 Q 321 469 323 520 L 325 575 Q 325 674 345 739 Q 361 767 308 789 Q 277 807 257 801 Q 241 794 256 772 Q 275 747 277 714 Q 278 696 277 554 L 276 506 Q 275 454 274 384 L 274 343 Z",

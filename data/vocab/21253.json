@@ -9,94 +9,136 @@
 [
 "包",
 3,
+"Bāo",
+"surname Bao"
+],
+[
+"包",
+3,
 "bāo",
-"to cover; to wrap; to hold; include; (mw for containers, packages, etc.)"
+"to cover; to wrap; to hold; to include; to take charge of; to contract (to or for); package; wrapper; container; bag; to hold or embrace; bundle; packet; CL:個|个[ge4],隻|只[zhi1]"
 ],
 [
 "面包",
 3,
-"miànbāo",
-"bread"
+"miàn bāo",
+"bread; CL:片[pian4],袋[dai4],塊|块[kuai4]"
 ],
 [
 "包子",
 4,
-"bāozi",
-"steamed stuffed bun"
-],
-[
-"包裹",
-5,
-"bāoguǒ",
-"wrap up; bind up; package"
-],
-[
-"包含",
-5,
-"bāohán",
-"contain; embody; include"
+"bāo zi",
+"steamed stuffed bun; CL:個|个[ge4]"
 ],
 [
 "包括",
 5,
-"bāokuò",
-"comprise; include; consist of"
+"bāo kuò",
+"to comprise; to include; to involve; to incorporate; to consist of"
 ],
 [
-"包庇",
-6,
-"bāobì",
-"to shield; to harbor; cover up"
+"包裹",
+5,
+"bāo guǒ",
+"to wrap up; to bind up; bundle; parcel; package; CL:個|个[ge4]"
 ],
 [
-"包袱",
-6,
-"bāofu",
-"bundle wrapped in cloth; cloth-wrapper"
+"包含",
+5,
+"bāo hán",
+"to contain; to embody; to include"
 ],
 [
 "包围",
 6,
-"bāowéi",
-"surround; encircle; hem in"
-],
-[
-"包装",
-6,
-"bāozhuāng",
-"to pack; package; make up"
-],
-[
-"承包",
-6,
-"chéngbāo",
-"to contract (to undertake a job)"
+"bāo wéi",
+"to surround; to encircle; to hem in"
 ],
 [
 "打包",
 6,
-"dǎbāo",
-"get a doggy bag (at a restaurant); pack up"
+"dǎ bāo",
+"to wrap; to pack; to put leftovers in a doggy bag for take-out; to package (computing)"
+],
+[
+"包装",
+6,
+"bāo zhuāng",
+"to pack; to package; to wrap; packaging"
+],
+[
+"包袱",
+6,
+"bāo fu",
+"wrapping cloth; a bundle wrapped in cloth; load; weight; burden; funny part; punchline"
+],
+[
+"包庇",
+6,
+"bāo bì",
+"to shield; to harbor; to cover up"
+],
+[
+"承包",
+6,
+"chéng bāo",
+"to contract; to undertake (a job)"
 ]
 ],
 "extraWords": [
 [
+"钱包",
+29.72,
+"qián bāo",
+"purse; wallet"
+],
+[
+"红包",
+25.03,
+"hóng bāo",
+"money wrapped in red as a gift; bonus payment; kickback; bribe"
+],
+[
 "包包",
 13.35,
-"bao1 bao1",
+"bāo bāo",
 "bag or purse etc; small bump or pimple; hillock"
 ],
 [
 "包容",
 11.82,
-"bao1 rong2",
+"bāo róng",
 "to pardon; to forgive; to show tolerance; to contain; to hold; inclusive"
 ],
 [
 "背包",
 8.91,
-"bei1 bao1",
+"bēi bāo",
 "knapsack; rucksack; infantry pack; field pack; blanket roll; CL:個|个[ge4]"
+],
+[
+"包机",
+7.59,
+"bāo jī",
+"chartered plane; to charter a plane"
+],
+[
+"面包车",
+7.31,
+"miàn bāo chē",
+"van for carrying people; taxi minibus"
+],
+[
+"汉堡包",
+6.74,
+"hàn bǎo bāo",
+"hamburger (loanword)"
+],
+[
+"书包",
+6.52,
+"shū bāo",
+"schoolbag; satchel; bookbag; CL:個|个[ge4],隻|只[zhi1]"
 ]
 ],
 "strokes": [

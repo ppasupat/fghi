@@ -10,46 +10,227 @@
 "内",
 4,
 "nèi",
-"inside; inner; internal; within"
+"inside; inner; internal; within; interior"
 ],
 [
 "内容",
 4,
-"nèiróng",
-"content; substance; details"
+"nèi róng",
+"content; substance; details; CL:個|个[ge4],項|项[xiang4]"
 ],
 [
 "内部",
 5,
-"nèibù",
-"internal; interior; inside (part, section)"
+"nèi bù",
+"interior; inside (part, section); internal"
 ],
 [
 "内科",
 5,
-"nèikē",
-"internal medicine"
-],
-[
-"内涵",
-6,
-"nèihán",
-"connotation"
-],
-[
-"内幕",
-6,
-"nèimù",
-"inside story; non-public information; behind the scenes"
+"nèi kē",
+"internal medicine; general medicine"
 ],
 [
 "内在",
 6,
-"nèizài",
-"intrinsic; innate"
+"nèi zài",
+"inner; internal; intrinsic; innate"
+],
+[
+"内幕",
+6,
+"nèi mù",
+"inside story; non-public information; behind the scenes; internal"
+],
+[
+"内涵",
+6,
+"nèi hán",
+"meaningful content; implication; connotation (semantics); inner qualities (of a person)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"国内",
+264.06,
+"guó nèi",
+"domestic; internal (to a country); civil"
+],
+[
+"内心",
+61.01,
+"nèi xīn",
+"heart; innermost being; (math.) incenter"
+],
+[
+"内地",
+58.29,
+"Nèi dì",
+"mainland China (PRC excluding Hong Kong and Macau, but including islands such as Hainan); Japan (used in Taiwan during Japanese colonization)"
+],
+[
+"内地",
+58.29,
+"nèi dì",
+"inland; interior; hinterland"
+],
+[
+"在内",
+46.26,
+"zài nèi",
+"(included) in it; among them"
+],
+[
+"国内外",
+35.18,
+"guó nèi wài",
+"domestic and international; at home and abroad"
+],
+[
+"境内",
+33.37,
+"jìng nèi",
+"within the borders; internal (to a country, province, city etc); domestic"
+],
+[
+"体内",
+33.0,
+"tǐ nèi",
+"within the body; in vivo (vs in vitro); internal to"
+],
+[
+"室内",
+31.82,
+"shì nèi",
+"indoor"
+],
+[
+"之内",
+31.03,
+"zhī nèi",
+"inside; within"
+],
+[
+"内裤",
+25.84,
+"nèi kù",
+"underpants; panties; briefs"
+],
+[
+"内外",
+25.38,
+"nèi wài",
+"inside and outside; domestic and foreign; approximately; about"
+],
+[
+"内存",
+23.87,
+"nèi cún",
+"internal storage; computer memory; random access memory (RAM)"
+],
+[
+"内衣",
+18.98,
+"nèi yī",
+"undergarment; underwear; CL:件[jian4]"
+],
+[
+"以内",
+18.67,
+"yǐ nèi",
+"within; less than"
+],
+[
+"党内",
+15.83,
+"dǎng nèi",
+"within the party (esp. Chinese communist party)"
+],
+[
+"内蒙古",
+15.76,
+"Nèi měng gǔ",
+"Inner Mongolia; abbr. for 內蒙古自治區|内蒙古自治区[Nei4 meng3 gu3 Zi4 zhi4 qu1], Inner Mongolia autonomous region"
+],
+[
+"内疚",
+14.31,
+"nèi jiù",
+"guilty conscience; to feel a twinge of guilt"
+],
+[
+"内阁",
+13.49,
+"nèi gé",
+"(government) cabinet"
+],
+[
+"内皮",
+8.5,
+"nèi pí",
+"(med.) endothelium; thin skin on the inside of some fruits (e.g. oranges)"
+],
+[
+"市内",
+8.2,
+"shì nèi",
+"inside the city"
+],
+[
+"海内外",
+8.13,
+"hǎi nèi wài",
+"domestic and international; at home and abroad"
+],
+[
+"内分泌",
+6.58,
+"nèi fēn mì",
+"endocrine (internal secretion, e.g. hormone)"
+],
+[
+"日内瓦",
+6.57,
+"Rì nèi wǎ",
+"Geneva, Switzerland"
+],
+[
+"委内瑞拉",
+6.45,
+"Wěi nèi ruì lā",
+"Venezuela"
+],
+[
+"内向",
+6.37,
+"nèi xiàng",
+"reserved (personality); introverted; (economics etc) domestic-oriented"
+],
+[
+"国内生产总值",
+6.24,
+"guó nèi shēng chǎn zǒng zhí",
+"gross domestic product (GDP)"
+],
+[
+"白内障",
+5.71,
+"bái nèi zhàng",
+"cataract (ophthalmology)"
+],
+[
+"内政",
+5.21,
+"nèi zhèng",
+"internal affairs (of a country)"
+],
+[
+"内战",
+5.19,
+"nèi zhàn",
+"civil war"
+]
+],
 "strokes": [
 "M 279 588 Q 258 604 234 613 Q 224 616 217 607 Q 213 601 221 590 Q 266 473 221 221 Q 214 187 201 150 Q 192 123 196 103 Q 205 67 216 53 Q 228 38 238 53 Q 274 90 275 215 Q 287 494 295 542 C 299 572 299 574 279 588 Z",
 "M 528 587 Q 699 620 718 601 Q 731 594 736 536 Q 752 341 743 120 Q 742 87 730 79 Q 715 69 639 86 Q 621 90 622 79 Q 623 70 638 64 Q 705 15 741 -24 Q 765 -45 778 -42 Q 791 -39 804 -7 Q 820 42 819 114 Q 800 403 800 510 Q 800 553 812 580 Q 825 605 814 617 Q 801 633 749 660 Q 727 670 706 665 Q 649 646 532 622 L 475 612 Q 378 597 279 588 C 249 585 266 536 295 542 Q 302 542 310 544 Q 385 562 471 577 L 528 587 Z",

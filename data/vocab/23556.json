@@ -9,64 +9,76 @@
 [
 "射击",
 5,
-"shèjī",
+"shè jī",
 "to shoot; to fire (a gun)"
-],
-[
-"发射",
-6,
-"fāshè",
-"to launch; to shoot (a projectile); to fire (a rocket)"
-],
-[
-"反射",
-6,
-"fǎnshè",
-"reflex; reflection (from a mirror, etc.)"
-],
-[
-"放射",
-6,
-"fàngshè",
-"radiate; radioactive"
-],
-[
-"辐射",
-6,
-"fúshè",
-"radiation"
 ],
 [
 "注射",
 6,
-"zhùshè",
-"injection; inject (medicine)"
+"zhù shè",
+"injection; to inject"
+],
+[
+"发射",
+6,
+"fā shè",
+"to shoot (a projectile); to fire (a rocket); to launch; to emit (a particle); to discharge; emanation; emission"
+],
+[
+"辐射",
+6,
+"fú shè",
+"radiation"
+],
+[
+"反射",
+6,
+"fǎn shè",
+"to reflect; reflection (from a mirror etc); reflex (i.e. automatic reaction of organism)"
+],
+[
+"放射",
+6,
+"fàng shè",
+"to radiate; radioactive"
 ]
 ],
 "extraWords": [
 [
 "射手",
 53.24,
-"she4 shou3",
+"shè shǒu",
 "archer; shooter; marksman; (football etc) striker"
+],
+[
+"射门",
+14.89,
+"shè mén",
+"(soccer, handball etc) to kick or shoot the ball towards the goal"
 ],
 [
 "照射",
 10.77,
-"zhao4 she4",
+"zhào shè",
 "to shine on; to light up; to irradiate"
 ],
 [
 "放射性",
 6.22,
-"fang4 she4 xing4",
+"fàng shè xìng",
 "radioactive"
 ],
 [
 "折射",
 5.32,
-"zhe2 she4",
+"zhé shè",
 "to refract; refraction; to reflect (in the figurative sense: to show the nature of)"
+],
+[
+"射线",
+5.22,
+"shè xiàn",
+"ray"
 ]
 ],
 "strokes": [

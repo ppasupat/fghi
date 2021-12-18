@@ -10,58 +10,95 @@
 "睡觉",
 1,
 "shuì jiào",
-"to sleep; go to bed"
+"to go to bed; to sleep"
 ],
 [
 "觉得",
 2,
-"juéde",
-"feel; think"
+"jué de",
+"to think; to feel"
 ],
 [
 "感觉",
 4,
-"gǎnjué",
-"to feel; become aware of; feeling"
+"gǎn jué",
+"to feel; to become aware of; feeling; sense; perception; CL:個|个[ge4]"
 ],
 [
 "自觉",
 5,
-"zìjué",
-"conscious; be aware of; self-motivated"
+"zì jué",
+"conscious; aware; on one's own initiative; conscientious"
 ],
 [
 "发觉",
 6,
-"fājué",
-"discover; detect"
-],
-[
-"觉悟",
-6,
-"juéwù",
-"consciousness; awareness; (Buddhist) enlightenment"
-],
-[
-"觉醒",
-6,
-"juéxǐng",
-"awaken; arousal; realize"
-],
-[
-"嗅觉",
-6,
-"xiùjué",
-"sense of smell; scent"
+"fā jué",
+"to become aware; to detect; to realize; to perceive"
 ],
 [
 "知觉",
 6,
-"zhījué",
-"perception; consciousness; feeling"
+"zhī jué",
+"perception; consciousness"
+],
+[
+"嗅觉",
+6,
+"xiù jué",
+"sense of smell"
+],
+[
+"觉醒",
+6,
+"jué xǐng",
+"to awaken; to come to realize; awakened to the truth; the truth dawns upon one; scales fall from the eyes; to become aware"
+],
+[
+"觉悟",
+6,
+"jué wù",
+"to come to understand; to realize; consciousness; awareness; Buddhist enlightenment (Sanskrit: cittotpāda)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"感觉到",
+30.43,
+"gǎn jué dào",
+"to feel; to sense; to detect; to perceive; to become aware"
+],
+[
+"视觉",
+23.96,
+"shì jué",
+"sight; vision; visual"
+],
+[
+"直觉",
+21.64,
+"zhí jué",
+"intuition"
+],
+[
+"幻觉",
+20.78,
+"huàn jué",
+"illusion; hallucination; figment of one's imagination"
+],
+[
+"察觉",
+10.64,
+"chá jué",
+"to sense; to perceive; to become aware of; to detect"
+],
+[
+"不知不觉",
+9.39,
+"bù zhī bù jué",
+"unconsciously; unwittingly"
+]
+],
 "strokes": [
 "M 304 698 Q 329 677 356 651 Q 369 639 383 640 Q 393 640 397 653 Q 401 666 393 693 Q 384 723 300 742 Q 285 745 280 743 Q 276 739 277 727 Q 280 717 304 698 Z",
 "M 410 786 Q 467 705 491 702 Q 506 701 514 719 Q 517 734 509 757 Q 499 776 474 788 Q 435 810 418 815 Q 408 818 406 805 Q 403 796 410 786 Z",

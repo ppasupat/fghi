@@ -9,17 +9,78 @@
 [
 "宝贝",
 5,
-"bǎobèi",
-"treasure; precious things; darling; baby"
+"bǎo bèi",
+"treasured object; treasure; darling; baby; cowry; good-for-nothing or queer character"
 ],
 [
 "宝贵",
 5,
-"bǎoguì",
-"valuable; precious; value"
+"bǎo guì",
+"valuable; precious; to value; to treasure; to set store by"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"宝宝",
+66.06,
+"bǎo bǎo",
+"darling; baby"
+],
+[
+"温家宝",
+18.06,
+"Wēn Jiā bǎo",
+"Wen Jiabao (1942-), Premier of PRC from 2003-2013"
+],
+[
+"珠宝",
+17.56,
+"zhū bǎo",
+"pearls; jewels; precious stones"
+],
+[
+"宝马",
+15.94,
+"Bǎo mǎ",
+"BMW (car company)"
+],
+[
+"宝马",
+15.94,
+"bǎo mǎ",
+"precious horse"
+],
+[
+"宝藏",
+9.75,
+"bǎo zàng",
+"precious mineral deposits; hidden treasure; (fig.) treasure; (Buddhism) the treasure of Buddha's law"
+],
+[
+"法宝",
+9.68,
+"fǎ bǎo",
+"Buddha's teaching; Buddhist monk's apparel, staff etc; (Daoism) magic weapon; talisman; fig. specially effective device; magic wand"
+],
+[
+"宝钢",
+8.78,
+"Bǎo gāng",
+"Baosteel, Chinese steel maker formed in a 1998 merger, then merged to form Baowu 寶武鋼鐵|宝武钢铁[Bao3 wu3 Gang1 tie3] in 2016"
+],
+[
+"财宝",
+8.73,
+"cái bǎo",
+"money and valuables"
+],
+[
+"宝石",
+7.58,
+"bǎo shí",
+"precious stone; gem; CL:枚[mei2],顆|颗[ke1]"
+]
+],
 "strokes": [
 "M 460 785 Q 508 730 547 709 Q 563 706 574 721 Q 581 734 579 754 Q 567 802 477 827 Q 476 828 475 828 Q 456 832 446 829 Q 439 828 441 814 Q 442 801 460 785 Z",
 "M 279 614 Q 266 636 256 644 Q 235 659 234 631 Q 238 598 204 551 Q 158 500 182 446 Q 183 442 187 435 Q 203 407 224 437 Q 227 443 281 578 Q 282 581 283 583 C 289 598 289 598 279 614 Z",

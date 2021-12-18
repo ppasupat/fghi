@@ -9,63 +9,81 @@
 [
 "信用卡",
 3,
-"xìnyòngkǎ",
+"xìn yòng kǎ",
 "credit card"
 ],
 [
 "卡车",
 5,
-"kǎchē",
-"truck"
+"kǎ chē",
+"truck; CL:輛|辆[liang4]"
 ],
 [
 "卡通",
 6,
-"kǎtōng",
-"cartoon"
+"kǎ tōng",
+"cartoon (loanword)"
 ]
 ],
 "extraWords": [
 [
+"卡尔",
+26.89,
+"Kǎ ěr",
+"Karl (name)"
+],
+[
 "可卡因",
 15.26,
-"ke3 ka3 yin1",
+"kě kǎ yīn",
 "cocaine (loanword)"
 ],
 [
 "卡片",
 13.86,
-"ka3 pian4",
+"kǎ piàn",
 "card"
 ],
 [
 "卡拉",
 12.67,
-"Ka3 la1",
+"Kǎ lā",
 "Kara, city in northern Togo 多哥[Duo1 ge1]; Cara, Karla etc (name)"
 ],
 [
 "卡拉",
 12.67,
-"ka3 la1",
+"kǎ lā",
 "karaoke"
+],
+[
+"奥斯卡",
+12.67,
+"Ào sī kǎ",
+"(film industry) Oscar (Academy Award); CL:屆|届[jie4]; (name) Oscar"
 ],
 [
 "卡住",
 11.6,
-"ka3 zhu4",
+"kǎ zhù",
 "to jam; to choke; to clutch; also pr. [qia3 zhu4]"
 ],
 [
 "卡特",
 9.72,
-"Ka3 te4",
+"Kǎ tè",
 "Carter (name); James Earl (Jimmy) Carter (1924-), US Democrat politician, president 1977-1981"
+],
+[
+"网卡",
+6.51,
+"wǎng kǎ",
+"network adapter card (computing)"
 ],
 [
 "充值卡",
 6.21,
-"chong1 zhi2 ka3",
+"chōng zhí kǎ",
 "rechargeable card; to recharge a card"
 ]
 ],

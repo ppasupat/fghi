@@ -7,19 +7,32 @@
 },
 "words": [
 [
-"过瘾",
-6,
-"guòyǐn",
-"satisfy a craving; get a kick out of sth; do to one's heart's content"
-],
-[
 "上瘾",
 6,
-"shàngyǐn",
-"become addicted; get into a habit"
+"shàng yǐn",
+"to get into a habit; to become addicted"
+],
+[
+"过瘾",
+6,
+"guò yǐn",
+"to satisfy a craving; to get a kick out of sth; gratifying; immensely enjoyable; satisfying; fulfilling"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"瘾君子",
+13.09,
+"yǐn jūn zǐ",
+"opium eater; drug addict; chain smoker"
+],
+[
+"毒瘾",
+6.05,
+"dú yǐn",
+"drug addiction"
+]
+],
 "strokes": [
 "M 510 803 Q 538 785 568 763 Q 584 753 599 756 Q 609 757 613 772 Q 614 788 601 816 Q 594 832 562 842 Q 487 857 475 847 Q 471 843 475 830 Q 479 820 510 803 Z",
 "M 334 657 Q 370 644 432 651 Q 565 669 706 689 Q 775 699 785 709 Q 794 716 790 724 Q 784 737 756 745 Q 728 754 634 727 Q 463 691 332 687 Q 326 687 322 684 C 293 678 305 665 334 657 Z",

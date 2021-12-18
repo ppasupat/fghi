@@ -9,35 +9,102 @@
 [
 "什么",
 1,
-"shénme",
-"what? (replaces the noun to turn a statement into a question)"
+"shén me",
+"what?; something; anything"
 ],
 [
 "怎么",
 1,
-"zěnme",
-"how?"
+"zěn me",
+"how?; what?; why?"
+],
+[
+"怎么",
+1,
+"zěn me",
+"variant of 怎麼|怎么[zen3 me5]"
 ],
 [
 "怎么样",
 1,
-"zěnmeyàng",
-"how about?; how is/was it?"
+"zěn me yàng",
+"how?; how about?; how was it?; how are things?"
 ],
 [
 "为什么",
 2,
-"wèishénme",
+"wèi shén me",
 "why?; for what reason?"
 ],
 [
 "多么",
 3,
-"duōme",
-"how (wonderful, etc.); what (a great idea)"
+"duō me",
+"how (wonderful etc); what (a great idea etc); however (difficult it may be etc); (in interrogative sentences) how (much etc); to what extent"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"这么",
+1463.1,
+"zhè me",
+"so much; this much; how much?; this way; like this"
+],
+[
+"那么",
+1245.85,
+"nà me",
+"like that; in that way; or so; so; so very much; about; in that case"
+],
+[
+"没什么",
+281.76,
+"méi shén me",
+"nothing; it doesn't matter; it's nothing; never mind"
+],
+[
+"怎么办",
+204.82,
+"zěn me bàn",
+"what's to be done"
+],
+[
+"干什么",
+104.09,
+"gàn shén me",
+"what are you doing?; what's he up to?"
+],
+[
+"什么样",
+88.03,
+"shén me yàng",
+"what kind?; what sort?; what appearance?"
+],
+[
+"要么",
+78.34,
+"yào me",
+"or; either one or the other"
+],
+[
+"什么的",
+33.87,
+"shén me de",
+"and so on; and what not"
+],
+[
+"怎么着",
+12.16,
+"zěn me zhāo",
+"what?; how?; how about?; whatever; also pr. [zen3 me5 zhe5]"
+],
+[
+"不怎么",
+8.87,
+"bù zěn me",
+"not very; not particularly"
+]
+],
 "strokes": [
 "M 464 772 Q 476 682 334 526 Q 256 448 174 381 Q 164 375 176 372 Q 263 387 398 520 Q 401 524 405 528 Q 456 583 534 696 Q 544 711 552 717 Q 559 721 559 734 Q 558 744 544 759 Q 505 795 471 788 Q 461 787 464 772 Z",
 "M 727 196 Q 574 180 407 145 Q 391 139 386 144 Q 382 153 397 172 Q 644 446 695 491 Q 713 501 707 518 Q 701 536 644 574 Q 625 587 611 584 Q 593 580 597 551 Q 603 515 574 472 Q 498 343 376 218 Q 342 178 273 142 Q 252 129 256 114 Q 260 92 290 62 Q 302 46 321 58 Q 390 107 741 166 Q 742 166 744 166 C 774 171 757 199 727 196 Z",

@@ -9,17 +9,60 @@
 [
 "企业",
 5,
-"qǐyè",
-"company; business; firm"
+"qǐ yè",
+"company; firm; enterprise; corporation; CL:家[jia1]"
 ],
 [
 "企图",
 6,
-"qǐtú",
-"(to ) attempt; try; attempt"
+"qǐ tú",
+"to attempt; to try; attempt; CL:種|种[zhong3]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"国有企业",
+30.77,
+"guó yǒu qǐ yè",
+"nationalized business; state-owned business"
+],
+[
+"中小企业",
+30.58,
+"zhōng xiǎo qǐ yè",
+"small and medium enterprise"
+],
+[
+"企业家",
+29.22,
+"qǐ yè jiā",
+"entrepreneur"
+],
+[
+"国企",
+15.83,
+"guó qǐ",
+"state enterprise; (Tw) abbr. for 國際企業管理|国际企业管理, international business management (as a subject of study)"
+],
+[
+"企鹅",
+7.33,
+"qǐ é",
+"penguin"
+],
+[
+"外资企业",
+6.55,
+"wài zī qǐ yè",
+"abbr. for 外商獨資企業|外商独资企业[wai4 shang1 du2 zi1 qi3 ye4]"
+],
+[
+"企业集团",
+6.17,
+"qǐ yè jí tuán",
+"business conglomerate"
+]
+],
 "strokes": [
 "M 498 699 Q 510 724 526 737 Q 533 744 532 755 Q 531 765 516 779 Q 477 815 443 806 Q 433 803 436 790 Q 452 691 291 488 Q 276 473 263 457 Q 211 399 77 285 Q 68 279 80 276 Q 140 282 279 406 Q 373 502 483 675 L 498 699 Z",
 "M 483 675 Q 594 533 735 384 Q 757 360 795 362 Q 919 369 959 376 Q 971 379 972 385 Q 972 392 955 399 Q 783 453 724 495 Q 619 579 498 699 C 477 720 464 699 483 675 Z",

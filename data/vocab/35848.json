@@ -9,29 +9,102 @@
 [
 "谈",
 4,
+"Tán",
+"surname Tan"
+],
+[
+"谈",
+4,
 "tán",
-"to talk; to chat; discuss"
+"to speak; to talk; to converse; to chat; to discuss"
 ],
 [
 "谈判",
 5,
-"tánpàn",
-"negotiate; negotiation; conference"
-],
-[
-"侃侃而谈",
-6,
-"kǎnkǎn'értán",
-"speak frankly and in measured tones; argue about leisurely and boldly"
+"tán pàn",
+"to negotiate; negotiation; talks; conference; CL:個|个[ge4]"
 ],
 [
 "洽谈",
 6,
-"qiàtán",
-"discuss; talk over"
+"qià tán",
+"to discuss"
+],
+[
+"侃侃而谈",
+6,
+"kǎn kǎn ér tán",
+"to speak frankly with assurance"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"谈谈",
+262.92,
+"tán tán",
+"to discuss; to have a chat"
+],
+[
+"谈话",
+60.3,
+"tán huà",
+"to talk (with sb); to have a conversation; talk; conversation; CL:次[ci4]"
+],
+[
+"谈论",
+49.36,
+"tán lùn",
+"to discuss; to talk about"
+],
+[
+"会谈",
+37.47,
+"huì tán",
+"talks; discussions; CL:次[ci4]"
+],
+[
+"谈到",
+33.93,
+"tán dào",
+"to refer to; to speak about; to talk about"
+],
+[
+"交谈",
+20.42,
+"jiāo tán",
+"to discuss; to converse; chat; discussion"
+],
+[
+"座谈会",
+20.39,
+"zuò tán huì",
+"conference; symposium; rap session"
+],
+[
+"访谈",
+10.16,
+"fǎng tán",
+"to visit and discuss; to interview"
+],
+[
+"谈起",
+10.08,
+"tán qǐ",
+"to mention; to speak of; to talk about"
+],
+[
+"座谈",
+6.83,
+"zuò tán",
+"to have an informal discussion; CL:次[ci4],個|个[ge4]"
+],
+[
+"谈及",
+5.87,
+"tán jí",
+"to talk about; to mention"
+]
+],
 "strokes": [
 "M 255 739 Q 286 711 321 676 Q 334 663 352 663 Q 362 663 369 677 Q 373 692 365 724 Q 359 746 325 764 Q 247 798 228 791 Q 222 787 224 774 Q 228 762 255 739 Z",
 "M 150 488 Q 101 473 74 471 Q 59 472 57 464 Q 53 457 64 449 Q 98 427 137 438 Q 254 489 260 488 Q 261 488 264 486 Q 274 480 268 454 Q 261 270 228 164 Q 210 134 252 83 Q 262 70 272 77 Q 281 84 292 107 Q 326 153 400 232 Q 413 242 410 250 Q 409 257 398 249 Q 364 228 330 204 Q 287 168 294 222 Q 295 286 321 446 Q 325 470 347 492 Q 360 502 350 515 Q 340 531 302 548 Q 290 554 273 544 Q 194 502 150 488 Z",

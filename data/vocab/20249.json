@@ -9,69 +9,93 @@
 [
 "小伙子",
 4,
-"xiǎohuǒzi",
-"young man; lad; youngster"
+"xiǎo huǒ zi",
+"young man; young guy; lad; youngster; CL:個|个[ge4]"
 ],
 [
 "伙伴",
 5,
-"huǒbàn",
-"partner (for an activity); friend; pal"
-],
-[
-"大伙儿",
-6,
-"dàhuǒr",
-"everyone"
-],
-[
-"合伙",
-6,
-"héhuǒ",
-"to make a partnership"
+"huǒ bàn",
+"partner; companion; comrade"
 ],
 [
 "家伙",
 6,
-"jiāhuo",
-"guy; chap; tool; weapon"
+"jiā huo",
+"variant of 家伙[jia1 huo5]"
+],
+[
+"家伙",
+6,
+"jiā huo",
+"household dish, implement or furniture; domestic animal; (coll.) guy; chap; weapon"
+],
+[
+"大伙儿",
+6,
+"dà huǒ r5",
+"erhua variant of 大伙[da4 huo3]"
+],
+[
+"合伙",
+6,
+"hé huǒ",
+"to act jointly; to form a partnership"
 ]
 ],
 "extraWords": [
 [
+"伙计",
+449.02,
+"huǒ ji",
+"partner; fellow; mate; waiter; servant; shop assistant"
+],
+[
 "合伙人",
 22.0,
-"he2 huo3 ren2",
+"hé huǒ rén",
 "partner; associate"
 ],
 [
 "大伙",
 17.53,
-"da4 huo3",
+"dà huǒ",
 "everybody; everyone; we all"
+],
+[
+"团伙",
+14.65,
+"tuán huǒ",
+"(criminal) gang; gang member; accomplice; crony"
 ],
 [
 "同伙",
 14.25,
-"tong2 huo3",
+"tóng huǒ",
 "colleague; co-conspirator; accomplice"
 ],
 [
 "老家伙",
 12.73,
-"lao3 jia1 huo5",
+"lǎo jiā huo",
+"variant of 老家伙[lao3 jia1 huo5]"
+],
+[
+"老家伙",
+12.73,
+"lǎo jiā huo",
 "(coll.) old fellow; old codger"
 ],
 [
 "小伙",
 7.84,
-"xiao3 huo3",
+"xiǎo huǒ",
 "young guy; lad; youngster; CL:個|个[ge4]"
 ],
 [
 "好家伙",
 5.37,
-"hao3 jia1 huo5",
+"hǎo jiā huo",
 "my God!; oh boy!; man!"
 ]
 ],

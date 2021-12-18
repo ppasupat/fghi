@@ -9,59 +9,114 @@
 [
 "历史",
 3,
-"lìshǐ",
-"history"
+"lì shǐ",
+"history; CL:門|门[men2],段[duan4]"
 ],
 [
 "经历",
 4,
-"jīnglì",
-"undergo; to experience"
+"jīng lì",
+"experience; CL:個|个[ge4],次[ci4]; to experience; to go through"
 ],
 [
 "简历",
 5,
-"jiǎnlì",
-"resume; curriculum vitae"
+"jiǎn lì",
+"curriculum vitae (CV); résumé; biographical notes"
 ],
 [
 "日历",
 5,
-"rìlì",
-"calendar"
+"rì lì",
+"calendar; CL:張|张[zhang1],本[ben3]"
 ],
 [
 "学历",
 5,
-"xuélì",
-"educational background; school record"
+"xué lì",
+"educational background; academic qualifications"
 ],
 [
 "来历",
 6,
-"láilì",
+"lái lì",
 "history; antecedents; origin"
-],
-[
-"历代",
-6,
-"lìdài",
-"successive dynasties; past dynasties"
 ],
 [
 "历来",
 6,
-"lìlái",
-"always; throughout (a period of time)"
+"lì lái",
+"always; throughout (a period of time); (of) all-time"
+],
+[
+"历代",
+6,
+"lì dài",
+"successive generations; successive dynasties; past dynasties"
 ],
 [
 "农历",
 6,
-"nónglì",
-"agricultural calendar; lunar calendar"
+"nóng lì",
+"the traditional Chinese calendar; the lunar calendar"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"历史上",
+36.48,
+"lì shǐ shàng",
+"historical; in history"
+],
+[
+"历程",
+14.41,
+"lì chéng",
+"course; process"
+],
+[
+"历时",
+12.26,
+"lì shí",
+"to last; to take (time); period; diachronic"
+],
+[
+"历经",
+9.55,
+"lì jīng",
+"to experience; to go through"
+],
+[
+"历史性",
+9.06,
+"lì shǐ xìng",
+"historic"
+],
+[
+"亚历山大",
+7.3,
+"Yà lì shān dà",
+"Alexander (name); Alexandria (town name)"
+],
+[
+"病历",
+6.14,
+"bìng lì",
+"medical record; case history"
+],
+[
+"历年",
+5.27,
+"lì nián",
+"calendar year"
+],
+[
+"历年",
+5.27,
+"lì nián",
+"over the years; bygone years"
+]
+],
 "strokes": [
 "M 349 671 Q 358 670 366 666 Q 399 659 434 667 Q 567 689 705 711 Q 768 724 777 732 Q 787 741 783 750 Q 776 763 743 774 Q 709 781 605 750 Q 463 720 342 709 C 312 706 320 678 349 671 Z",
 "M 342 709 Q 339 712 336 713 Q 284 741 268 738 Q 246 734 263 710 Q 294 655 268 435 Q 258 363 219 279 Q 189 210 89 118 Q 73 105 70 97 Q 67 90 80 90 Q 122 90 203 170 Q 288 260 318 412 Q 337 506 344 646 Q 347 661 349 671 C 355 700 355 702 342 709 Z",

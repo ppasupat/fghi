@@ -9,57 +9,99 @@
 [
 "官",
 5,
+"Guān",
+"surname Guan"
+],
+[
+"官",
+5,
 "guān",
-"an official; organ; governmental"
-],
-[
-"打官司",
-6,
-"dǎ guānsi",
-"go to court"
-],
-[
-"官方",
-6,
-"guānfāng",
-"official; (by the) government"
+"government official; governmental; official; public; organ of the body; CL:個|个[ge4]"
 ],
 [
 "器官",
 6,
-"qìguān",
-"organ; apparatus"
+"qì guān",
+"organ (part of body tissue); apparatus"
+],
+[
+"官方",
+6,
+"guān fāng",
+"government; official (approved or issued by an authority)"
+],
+[
+"打官司",
+6,
+"dǎ guān si",
+"to file a lawsuit; to sue; to dispute"
 ]
 ],
 "extraWords": [
 [
+"长官",
+202.11,
+"zhǎng guān",
+"senior official; senior officer; commanding officer; CL:位[wei4]; sir (term of address for senior officer)"
+],
+[
 "法官",
 111.76,
-"fa3 guan1",
+"fǎ guān",
 "judge (in court)"
+],
+[
+"官员",
+89.52,
+"guān yuán",
+"official (in an organization or government); administrator"
 ],
 [
 "警官",
 88.77,
-"jing3 guan1",
+"jǐng guān",
 "constable; police officer"
+],
+[
+"检察官",
+38.13,
+"jiǎn chá guān",
+"public prosecutor; public procurator (judicial officer whose job may involve both criminal investigation and public prosecution)"
 ],
 [
 "官兵",
 25.04,
-"guan1 bing1",
+"guān bīng",
 "(military) officers and soldiers; officers and men; (old) government troops"
+],
+[
+"指挥官",
+22.21,
+"zhǐ huī guān",
+"commander"
 ],
 [
 "官司",
 15.86,
-"guan1 si5",
+"guān si",
 "lawsuit; CL:場|场[chang2]"
+],
+[
+"军官",
+13.58,
+"jūn guān",
+"officer (military)"
+],
+[
+"贪官",
+6.57,
+"tān guān",
+"corrupt official; grasping functionary; greedy mandarin"
 ],
 [
 "高官",
 6.25,
-"gao1 guan1",
+"gāo guān",
 "high official"
 ]
 ],

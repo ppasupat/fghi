@@ -9,53 +9,84 @@
 [
 "根据",
 3,
-"gēnjù",
-"according to; based on; basis"
+"gēn jù",
+"according to; based on; basis; foundation; CL:個|个[ge4]"
+],
+[
+"证据",
+5,
+"zhèng jù",
+"evidence; proof; testimony"
+],
+[
+"数据",
+5,
+"shù jù",
+"data; numbers; digital"
 ],
 [
 "据说",
 5,
-"jùshuō",
+"jù shuō",
 "it is said that; reportedly"
 ],
 [
 "收据",
 5,
-"shōujù",
-"receipt"
-],
-[
-"数据",
-5,
-"shùjù",
-"data; numbers; digital"
-],
-[
-"证据",
-5,
-"zhèngjù",
-"evidence; proof; testimony"
-],
-[
-"据悉",
-6,
-"jùxī",
-"according to reports; it is reported (that)"
-],
-[
-"依据",
-6,
-"yījù",
-"according to; basis; foundation"
+"shōu jù",
+"receipt; CL:張|张[zhang1]"
 ],
 [
 "占据",
 6,
-"zhànjù",
-"occupy; hold; inhabit"
+"zhàn jù",
+"to occupy; to hold"
+],
+[
+"依据",
+6,
+"yī jù",
+"according to; basis; foundation"
+],
+[
+"据悉",
+6,
+"jù xī",
+"according to reports; it is reported (that)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"数据库",
+14.99,
+"shù jù kù",
+"database"
+],
+[
+"据此",
+10.19,
+"jù cǐ",
+"according to this; on the ground of the above; (formally introduces reported speech in writing)"
+],
+[
+"据称",
+8.96,
+"jù chēng",
+"it is said; allegedly; according to reports; or so they say"
+],
+[
+"票据",
+8.32,
+"piào jù",
+"negotiable instrument (draft, note etc); voucher; receipt"
+],
+[
+"根据地",
+6.35,
+"gēn jù dì",
+"base of operations"
+]
+],
 "strokes": [
 "M 307 552 Q 391 576 392 577 Q 399 584 395 593 Q 388 603 360 610 Q 332 614 309 605 L 261 588 Q 156 564 124 560 Q 88 553 115 538 Q 154 514 212 531 Q 234 537 260 541 L 307 552 Z",
 "M 255 353 Q 252 265 251 154 Q 250 132 238 123 Q 232 119 168 131 Q 137 143 139 133 Q 140 126 159 112 Q 219 64 233 37 Q 251 6 265 4 Q 278 3 293 36 Q 311 79 309 150 Q 303 268 303 388 L 303 420 Q 303 487 307 552 L 309 605 Q 309 606 310 607 Q 314 691 328 734 Q 344 762 292 785 Q 261 804 241 797 Q 225 791 239 769 Q 260 742 261 710 Q 262 695 261 588 L 260 541 Q 259 480 256 394 L 255 353 Z",

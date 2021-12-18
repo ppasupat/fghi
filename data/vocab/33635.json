@@ -9,41 +9,60 @@
 [
 "繁荣",
 5,
-"fánróng",
-"prosperous; prosperity; booming (economy)"
-],
-[
-"光荣",
-6,
-"guāngróng",
-"glory; honor"
+"fán róng",
+"prosperous; booming (economy)"
 ],
 [
 "荣幸",
 6,
-"róngxìng",
-"honored"
+"róng xìng",
+"honored (to have the privilege of ...)"
 ],
 [
 "荣誉",
 6,
-"róngyù",
-"honor; glory"
+"róng yù",
+"honor; credit; glory; (honorable) reputation; honorary"
 ],
 [
-"欣欣向荣",
+"光荣",
 6,
-"xīnxīn xiàng róng",
-"flourishing; thriving; prosperous"
+"guāng róng",
+"honor and glory; glorious"
 ],
 [
 "虚荣",
 6,
-"xūróng",
+"xū róng",
 "vanity"
+],
+[
+"欣欣向荣",
+6,
+"xīn xīn xiàng róng",
+"(idiom) flourishing; thriving"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"荣耀",
+12.97,
+"róng yào",
+"honor; glory"
+],
+[
+"荣获",
+12.23,
+"róng huò",
+"be honored with"
+],
+[
+"荣辱",
+5.75,
+"róng rǔ",
+"honor and disgrace; reputation"
+]
+],
 "strokes": [
 "M 627 665 Q 676 666 734 665 Q 795 662 802 671 Q 806 681 792 695 Q 738 735 677 719 Q 661 718 646 714 L 592 706 Q 457 691 423 685 L 374 680 Q 298 674 216 664 Q 197 663 211 646 Q 224 633 240 628 Q 259 622 274 626 Q 325 639 382 647 L 425 652 Q 473 661 582 664 L 627 665 Z",
 "M 423 685 Q 422 710 421 729 Q 422 748 403 754 Q 361 772 344 766 Q 328 759 341 739 Q 363 712 374 680 L 382 647 Q 394 590 408 575 Q 421 565 425 576 Q 429 591 425 652 L 423 685 Z",

@@ -9,17 +9,42 @@
 [
 "宾馆",
 2,
-"bīnguǎn",
-"guesthouse; hotel"
+"bīn guǎn",
+"guesthouse; lodge; hotel; CL:個|个[ge4],家[jia1]"
 ],
 [
 "嘉宾",
 5,
-"jiābīn",
-"honored guest"
+"jiā bīn",
+"esteemed guest; honored guest; guest (on a show)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"菲律宾",
+13.84,
+"Fēi lu:4 bīn",
+"the Philippines"
+],
+[
+"贵宾",
+8.59,
+"guì bīn",
+"honored guest; distinguished guest; VIP"
+],
+[
+"来宾",
+5.26,
+"Lái bīn",
+"Laibin prefecture-level city in Guangxi"
+],
+[
+"来宾",
+5.26,
+"lái bīn",
+"guest; visitor"
+]
+],
 "strokes": [
 "M 456 787 Q 507 736 549 722 Q 565 721 575 736 Q 579 751 575 770 Q 557 815 491 826 Q 448 835 437 829 Q 430 828 434 814 Q 437 801 456 787 Z",
 "M 278 646 Q 278 647 278 649 Q 265 674 252 683 Q 231 699 230 670 Q 234 634 187 573 Q 147 536 183 471 Q 199 443 220 473 Q 238 500 250 540 Q 265 589 277 616 L 278 646 Z",

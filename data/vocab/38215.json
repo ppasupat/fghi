@@ -7,25 +7,56 @@
 },
 "words": [
 [
-"乡镇",
-6,
-"xiāngzhèn",
-"village and town"
-],
-[
 "镇定",
 6,
-"zhèndìng",
-"cool; calm; unperturbed"
+"zhèn dìng",
+"calm; unperturbed; cool"
 ],
 [
 "镇静",
 6,
-"zhènjìng",
-"calm; cool; tranquil"
+"zhèn jìng",
+"calm; cool"
+],
+[
+"乡镇",
+6,
+"xiāng zhèn",
+"village; township"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"城镇",
+39.9,
+"chéng zhèn",
+"town; cities and towns"
+],
+[
+"小镇",
+26.2,
+"xiǎo zhèn",
+"small town; village"
+],
+[
+"镇子",
+12.94,
+"zhèn zi",
+"town; village"
+],
+[
+"镇静剂",
+7.27,
+"zhèn jìng jì",
+"tranquilizer"
+],
+[
+"镇压",
+7.11,
+"zhèn yā",
+"suppression; repression; to suppress; to put down; to quell"
+]
+],
 "strokes": [
 "M 298 578 Q 358 684 389 712 Q 399 722 394 736 Q 390 749 362 772 Q 337 790 317 790 Q 298 789 306 767 Q 321 733 307 704 Q 267 608 204 520 Q 144 435 63 342 Q 53 332 51 326 Q 47 316 61 318 Q 112 324 281 554 L 298 578 Z",
 "M 281 554 Q 317 539 404 564 Q 423 570 447 577 Q 463 581 466 585 Q 473 594 468 601 Q 461 611 431 615 Q 404 616 339 589 Q 318 585 298 578 C 270 568 255 563 281 554 Z",

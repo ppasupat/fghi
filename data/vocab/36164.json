@@ -9,71 +9,240 @@
 [
 "工资",
 4,
-"gōngzī",
-"wages; pay; earnings; salary"
+"gōng zī",
+"wages; pay; CL:個|个[ge4],份[fen4],月[yue4]"
+],
+[
+"资料",
+5,
+"zī liào",
+"material; resources; data; information; profile (Internet); CL:份[fen4],個|个[ge4]"
 ],
 [
 "投资",
 5,
 "tóu zī",
-"investment"
+"investment; to invest"
 ],
 [
 "资格",
 5,
-"zīgé",
+"zī gé",
 "qualifications; seniority"
 ],
 [
 "资金",
 5,
-"zījīn",
-"funds; funding"
-],
-[
-"资料",
-5,
-"zīliào",
-"data; material; resources; information"
+"zī jīn",
+"funds; funding; capital"
 ],
 [
 "资源",
 5,
-"zīyuán",
-"natural resource; resource"
+"Zī yuán",
+"Ziyuan county in Guilin 桂林[Gui4 lin2], Guangxi"
 ],
 [
-"物资",
-6,
-"wùzī",
-"goods and materials; commodity"
-],
-[
-"资本",
-6,
-"zīběn",
-"(Economics) capital; asset"
-],
-[
-"资产",
-6,
-"zīchǎn",
-"property; assets"
-],
-[
-"资深",
-6,
-"zīshēn",
-"experienced; senior"
+"资源",
+5,
+"zī yuán",
+"natural resource (such as water or minerals); resource (such as manpower or tourism)"
 ],
 [
 "资助",
 6,
-"zīzhù",
-"subsidy; provide financial aid"
+"zī zhù",
+"to subsidize; to provide financial aid; subsidy"
+],
+[
+"资产",
+6,
+"zī chǎn",
+"property; assets"
+],
+[
+"资本",
+6,
+"zī běn",
+"capital (economics)"
+],
+[
+"资深",
+6,
+"zī shēn",
+"veteran (journalist etc); senior; highly experienced"
+],
+[
+"物资",
+6,
+"wù zī",
+"goods; supplies"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"投资者",
+133.87,
+"tóu zī zhě",
+"investor"
+],
+[
+"外资",
+47.19,
+"wài zī",
+"foreign investment"
+],
+[
+"融资",
+47.15,
+"róng zī",
+"financing"
+],
+[
+"资本主义",
+29.05,
+"zī běn zhǔ yì",
+"capitalism"
+],
+[
+"合资",
+27.08,
+"hé zī",
+"joint venture"
+],
+[
+"资本市场",
+24.14,
+"zī běn shì chǎng",
+"capital market"
+],
+[
+"资产阶级",
+23.97,
+"zī chǎn jiē jí",
+"the capitalist class; the bourgeoisie"
+],
+[
+"出资",
+19.33,
+"chū zī",
+"to fund; to put money into sth; to invest"
+],
+[
+"资讯",
+18.98,
+"zī xùn",
+"information"
+],
+[
+"人力资源",
+14.15,
+"rén lì zī yuán",
+"human resources"
+],
+[
+"国资委",
+13.41,
+"Guó Zī Wěi",
+"see 國務院國有資產監督管理委員會|国务院国有资产监督管理委员会[Guo2 wu4 yuan4 Guo2 you3 Zi1 chan3 Jian1 du1 Guan3 li3 Wei3 yuan2 hui4]"
+],
+[
+"资质",
+11.25,
+"zī zhì",
+"aptitude; natural endowments"
+],
+[
+"投资人",
+10.84,
+"tóu zī rén",
+"investor"
+],
+[
+"集资",
+10.71,
+"jí zī",
+"to raise money; to accumulate funds"
+],
+[
+"招商引资",
+10.02,
+"zhāo shāng yǐn zī",
+"investment promotion"
+],
+[
+"师资",
+7.57,
+"shī zī",
+"qualified teacher"
+],
+[
+"生产资料",
+7.06,
+"shēng chǎn zī liào",
+"means of production"
+],
+[
+"外资企业",
+6.55,
+"wài zī qǐ yè",
+"abbr. for 外商獨資企業|外商独资企业[wai4 shang1 du2 zi1 qi3 ye4]"
+],
+[
+"独资",
+6.47,
+"dú zī",
+"wholly-owned (often by foreign company); exclusive investment"
+],
+[
+"中资",
+6.26,
+"zhōng zī",
+"Chinese capital; Chinese enterprise"
+],
+[
+"劳资",
+6.19,
+"láo zī",
+"labor and capital; labor and management"
+],
+[
+"增资",
+6.02,
+"zēng zī",
+"capital increase"
+],
+[
+"资费",
+5.92,
+"zī fèi",
+"(postal, telecom etc) service charge"
+],
+[
+"筹资",
+5.62,
+"chóu zī",
+"to raise resources"
+],
+[
+"国土资源部",
+5.37,
+"Guó tǔ Zī yuán bù",
+"Ministry of Land and Resources (MLR), formed in 1998"
+],
+[
+"资本家",
+5.07,
+"zī běn jiā",
+"capitalist"
+],
+[
+"有资格",
+5.01,
+"yǒu zī gé",
+"to be entitled; to qualify; to be qualified"
+]
+],
 "strokes": [
 "M 277 726 Q 305 707 336 684 Q 352 674 367 676 Q 377 677 381 692 Q 384 708 370 736 Q 363 754 331 764 Q 253 779 244 771 Q 240 767 242 754 Q 248 744 277 726 Z",
 "M 218 507 Q 208 507 207 493 Q 203 436 225 413 Q 229 406 237 406 Q 244 406 249 425 Q 258 447 364 604 Q 373 614 373 619 Q 374 626 366 623 Q 357 622 251 526 Q 239 516 218 507 Z",

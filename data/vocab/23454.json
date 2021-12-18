@@ -9,203 +9,360 @@
 [
 "其实",
 3,
-"qíshí",
-"actually; in fact"
-],
-[
-"诚实",
-4,
-"chéngshí",
-"honest; honorable"
+"qí shí",
+"actually; in fact; really"
 ],
 [
 "确实",
 4,
-"quèshí",
-"indeed; in truth; reliable"
-],
-[
-"实际",
-4,
-"shíjì",
-"actual; reality; practice"
+"què shí",
+"indeed; really; reliable; real; true"
 ],
 [
 "实在",
 4,
-"shízài",
-"honest; in reality; honestly; indeed; certainly"
+"shí zài",
+"really; actually; indeed; true; real; honest; dependable; (philosophy) reality"
 ],
 [
-"果实",
-5,
-"guǒshí",
-"fruit; gains; results"
+"诚实",
+4,
+"chéng shí",
+"honest; honesty; honorable; truthful"
 ],
 [
-"结实",
-5,
-"jiēshi",
-"sturdy; (also -shí: bear fruit)"
-],
-[
-"老实",
-5,
-"lǎoshi",
-"honest; sincere; naive; simpleminded"
-],
-[
-"实话",
-5,
-"shíhuà",
-"truth"
-],
-[
-"实践",
-5,
-"shíjiàn",
-"practice; put into practice; carry out"
-],
-[
-"实习",
-5,
-"shíxí",
-"to practice; field work; work as an intern"
-],
-[
-"实现",
-5,
-"shíxiàn",
-"achieve; to implement"
-],
-[
-"实验",
-5,
-"shíyàn",
-"experiment; test"
-],
-[
-"实用",
-5,
-"shíyòng",
-"practical; pragmatic; functional"
+"实际",
+4,
+"shí jì",
+"reality; practice; practical; realistic; real; actual"
 ],
 [
 "事实",
 5,
-"shìshí",
-"fact; in fact"
-],
-[
-"现实",
-5,
-"xiànshí",
-"reality; actuality; practical"
+"shì shí",
+"fact; CL:個|个[ge4]"
 ],
 [
 "真实",
 5,
-"zhēnshí",
-"true; real; authentic"
+"zhēn shí",
+"true; real"
 ],
 [
-"充实",
-6,
-"chōngshí",
-"substantial; rich; enrich; substantiate"
+"现实",
+5,
+"xiàn shí",
+"reality; actuality; real; actual; realistic; pragmatic; materialistic; self-interested"
 ],
 [
-"坚实",
-6,
-"jiānshí",
-"firm and substantial; solid"
+"实话",
+5,
+"shí huà",
+"truth"
 ],
 [
-"落实",
-6,
-"luòshí",
-"workable; implement"
+"老实",
+5,
+"lǎo shi",
+"honest; sincere; well-behaved; open and guileless; naive"
 ],
 [
-"名副其实",
-6,
-"míng fù qí shí",
-"not just in name only; but also in reality"
+"实现",
+5,
+"shí xiàn",
+"to achieve; to implement; to realize; to bring about"
 ],
 [
-"朴实",
-6,
-"pǔshí",
-"plain; sober; down-to-earth"
+"实验",
+5,
+"shí yàn",
+"experiment; test; CL:個|个[ge4],次[ci4]; experimental; to experiment"
 ],
 [
-"切实",
-6,
-"qièshí",
-"realistic; feasible; conscientiously"
+"实习",
+5,
+"shí xí",
+"to practice; field work; to intern; internship"
 ],
 [
-"实惠",
+"结实",
+5,
+"jiē shí",
+"to bear fruit"
+],
+[
+"结实",
+5,
+"jiē shi",
+"rugged; sturdy; strong; durable; buff (physique)"
+],
+[
+"实践",
+5,
+"shí jiàn",
+"practice; to put into practice; to live up to (a promise); to carry out (a project)"
+],
+[
+"实用",
+5,
+"shí yòng",
+"practical; functional; pragmatic; applied (science)"
+],
+[
+"果实",
+5,
+"guǒ shí",
+"fruit (produced by a plant); (fig.) fruits (of success etc); results; gains"
+],
+[
+"证实",
 6,
-"shíhuì",
-"substantial material benefit; advantageous (deal)"
+"zhèng shí",
+"to confirm (sth to be true); to verify"
 ],
 [
 "实力",
 6,
-"shílì",
+"shí lì",
 "strength"
 ],
 [
 "实施",
 6,
-"shíshī",
-"to implement; put into effect; carry out"
+"shí shī",
+"to implement; to carry out"
+],
+[
+"忠实",
+6,
+"zhōng shí",
+"faithful"
+],
+[
+"实行",
+6,
+"shí xíng",
+"to implement; to carry out; to put into practice"
+],
+[
+"充实",
+6,
+"chōng shí",
+"rich; full; substantial; to enrich; to augment; to substantiate (an argument)"
+],
+[
+"实质",
+6,
+"shí zhì",
+"substance; essence"
+],
+[
+"名副其实",
+6,
+"míng fù qí shí",
+"not just in name only, but also in reality (idiom); aptly named; worthy of the name"
+],
+[
+"坚实",
+6,
+"jiān shí",
+"firm and substantial; solid"
+],
+[
+"切实",
+6,
+"qiè shí",
+"feasible; realistic; practical; earnestly; conscientiously"
+],
+[
+"踏实",
+6,
+"tā shi",
+"firmly-based; steady; steadfast; to have peace of mind; free from anxiety; Taiwan pr. [ta4 shi2]"
+],
+[
+"朴实",
+6,
+"pǔ shí",
+"plain; simple; guileless; down-to-earth; sincere and honest"
+],
+[
+"扎实",
+6,
+"zhā shi",
+"strong; solid; sturdy; firm; practical"
+],
+[
+"扎实",
+6,
+"zhá shi",
+"see 扎實|扎实[zha1 shi5]"
+],
+[
+"实惠",
+6,
+"shí huì",
+"tangible benefit; material advantages; cheap; economical; advantageous (deal); substantial (discount)"
+],
+[
+"落实",
+6,
+"luò shí",
+"practical; workable; to implement; to carry out; to decide"
 ],
 [
 "实事求是",
 6,
 "shí shì qiú shì",
-"be practical and realistic; seek truth from facts"
-],
-[
-"实行",
-6,
-"shíxíng",
-"to implement; put into practice; carry out"
-],
-[
-"实质",
-6,
-"shízhì",
-"substance; essence; gist"
-],
-[
-"踏实",
-6,
-"tāshi",
-"practical; down-to-earth; realistic; feel at ease; steadfast"
-],
-[
-"扎实",
-6,
-"zhāshi",
-"strong; sturdy; practical"
-],
-[
-"证实",
-6,
-"zhèngshí",
-"confirm; verify"
-],
-[
-"忠实",
-6,
-"zhōngshí",
-"faithful; dependable"
+"to seek truth from facts (idiom); to be practical and realistic"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"事实上",
+162.79,
+"shì shí shàng",
+"in fact; in reality; actually; as a matter of fact; de facto; ipso facto"
+],
+[
+"实际上",
+131.46,
+"shí jì shàng",
+"in fact; in reality; as a matter of fact; in practice"
+],
+[
+"实验室",
+55.24,
+"shí yàn shì",
+"laboratory; CL:間|间[jian1]"
+],
+[
+"说实话",
+45.67,
+"shuō shí huà",
+"to speak the truth; truth to tell; frankly"
+],
+[
+"实习生",
+31.27,
+"shí xí sheng",
+"intern (student)"
+],
+[
+"实体",
+14.1,
+"shí tǐ",
+"entity; substance; thing that has a material existence (as opposed to a conceptual, virtual or online existence); the real thing (as opposed to an image or model of it)"
+],
+[
+"实业",
+12.44,
+"shí yè",
+"industry; commercial enterprise"
+],
+[
+"实质性",
+11.89,
+"shí zhì xìng",
+"substantive; substantial; material; considerable"
+],
+[
+"实时",
+11.81,
+"shí shí",
+"(in) real time; instantaneous"
+],
+[
+"务实",
+11.67,
+"wù shí",
+"pragmatic; dealing with concrete issues"
+],
+[
+"核实",
+11.3,
+"hé shí",
+"to verify; to check"
+],
+[
+"实物",
+11.08,
+"shí wù",
+"material object; concrete object; original object; in kind; object for practical use; definite thing; reality; matter (physics)"
+],
+[
+"实话实说",
+10.02,
+"shí huà shí shuō",
+"to tell the truth; to tell it as it is"
+],
+[
+"实地",
+9.87,
+"shí dì",
+"on-site"
+],
+[
+"实事",
+9.5,
+"shí shì",
+"fact; actual thing; practical matter"
+],
+[
+"着实",
+8.41,
+"zhuó shí",
+"truly; indeed; severely; harshly"
+],
+[
+"实战",
+7.33,
+"shí zhàn",
+"real combat; actual combat"
+],
+[
+"真实性",
+7.23,
+"zhēn shí xìng",
+"authenticity; truthfulness; veracity; reality; validity"
+],
+[
+"实情",
+7.15,
+"shí qíng",
+"actual situation; truth"
+],
+[
+"实名制",
+6.62,
+"shí míng zhì",
+"system for identifying users (on a rail network, the Internet etc)"
+],
+[
+"实效",
+6.17,
+"shí xiào",
+"actual effect; practical result; efficacy"
+],
+[
+"实质上",
+5.37,
+"shí zhì shàng",
+"virtually; essentially"
+],
+[
+"如实",
+5.12,
+"rú shí",
+"as things really are; realistic"
+],
+[
+"属实",
+5.05,
+"shǔ shí",
+"to turn out to be true; verified; true"
+]
+],
 "strokes": [
 "M 474 789 Q 502 765 533 737 Q 548 724 565 725 Q 575 726 581 740 Q 585 756 575 787 Q 563 818 467 839 Q 451 842 444 839 Q 438 835 441 821 Q 445 811 474 789 Z",
 "M 279 639 Q 270 657 261 664 Q 242 680 239 653 Q 243 626 227 601 Q 211 582 186 561 Q 176 549 178 528 Q 182 497 191 479 Q 206 451 227 479 Q 230 485 282 601 Q 283 602 284 605 C 290 618 290 618 279 639 Z",

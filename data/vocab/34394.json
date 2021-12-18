@@ -9,41 +9,60 @@
 [
 "谦虚",
 5,
-"qiānxū",
-"modest"
+"qiān xū",
+"modest; self-effacing; to make modest remarks"
 ],
 [
 "虚心",
 5,
-"xūxīn",
-"modest; open-minded"
+"xū xīn",
+"open-minded; humble"
+],
+[
+"虚伪",
+6,
+"xū wěi",
+"false; hypocritical; artificial; sham"
 ],
 [
 "空虚",
 6,
-"kōngxū",
+"kōng xū",
 "hollow; emptiness; meaningless"
 ],
 [
 "虚假",
 6,
-"xūjiǎ",
-"false; phony; pretense; deceit"
+"xū jiǎ",
+"false; phony; pretense"
 ],
 [
 "虚荣",
 6,
-"xūróng",
+"xū róng",
 "vanity"
-],
-[
-"虚伪",
-6,
-"xūwěi",
-"false; hypocritical; artificial; sham"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"虚拟",
+16.46,
+"xū nǐ",
+"to imagine; to make up; fictitious; theoretical; hypothetical; (computing) to emulate; virtual"
+],
+[
+"虚构",
+10.08,
+"xū gòu",
+"to make up; fabrication; fictional; imaginary"
+],
+[
+"虚弱",
+8.14,
+"xū ruò",
+"weak; in poor health"
+]
+],
 "strokes": [
 "M 536 671 Q 540 710 546 745 L 550 777 Q 550 778 551 779 Q 554 800 561 816 Q 565 826 547 839 Q 516 855 495 860 Q 482 863 474 855 Q 467 848 474 836 Q 493 812 497 664 C 498 634 533 641 536 671 Z",
 "M 546 745 Q 564 739 634 756 Q 665 763 701 773 Q 722 779 725 782 Q 732 789 728 797 Q 721 807 693 812 Q 665 816 639 803 Q 617 794 591 787 Q 572 783 550 777 C 521 769 517 751 546 745 Z",

@@ -9,107 +9,198 @@
 [
 "现在",
 1,
-"xiànzài",
-"now"
+"xiàn zài",
+"now; at present; at the moment; modern; current; nowadays"
 ],
 [
 "发现",
 3,
-"fāxiàn",
-"discover; to find"
+"fā xiàn",
+"to find; to discover"
 ],
 [
 "出现",
 4,
-"chūxiàn",
-"appear; arise; emerge"
+"chū xiàn",
+"to appear; to arise; to emerge; to show up"
 ],
 [
 "现金",
 4,
-"xiànjīn",
+"xiàn jīn",
 "cash"
 ],
 [
 "表现",
 5,
-"biǎoxiàn",
-"to show; to show off; display; performance"
-],
-[
-"实现",
-5,
-"shíxiàn",
-"achieve; to implement"
-],
-[
-"体现",
-5,
-"tǐxiàn",
-"embody; incarnate; reflect; to manifest"
-],
-[
-"现代",
-5,
-"xiàndài",
-"modern times; modern age"
+"biǎo xiàn",
+"to show; to show off; to display; to manifest; expression; manifestation; show; display; performance (at work etc); behavior"
 ],
 [
 "现实",
 5,
-"xiànshí",
-"reality; actuality; practical"
+"xiàn shí",
+"reality; actuality; real; actual; realistic; pragmatic; materialistic; self-interested"
+],
+[
+"实现",
+5,
+"shí xiàn",
+"to achieve; to implement; to realize; to bring about"
 ],
 [
 "现象",
 5,
-"xiànxiàng",
-"appearance; phenomenon"
+"xiàn xiàng",
+"phenomenon; CL:個|个[ge4],種|种[zhong3]; appearance"
 ],
 [
-"呈现",
-6,
-"chéngxiàn",
-"appear; emerge; present (a certain appearance)"
+"现代",
+5,
+"Xiàn dài",
+"Hyundai, South Korean company"
 ],
 [
-"兑现",
-6,
-"duìxiàn",
-"cash a check; honor a commitment"
+"现代",
+5,
+"xiàn dài",
+"modern times; modern age; modern era"
+],
+[
+"体现",
+5,
+"tǐ xiàn",
+"to embody; to reflect; to incarnate"
 ],
 [
 "现场",
 6,
-"xiànchǎng",
-"scene (of event or incident); on the spot"
-],
-[
-"现成",
-6,
-"xiànchéng",
-"ready-made; off-the-shelf"
-],
-[
-"现状",
-6,
-"xiànzhuàng",
-"current situation; status quo"
-],
-[
-"涌现",
-6,
-"yǒngxiàn",
-"spring up; emerge prominently"
+"xiàn chǎng",
+"the scene (of a crime, accident etc); (on) the spot; (at) the site"
 ],
 [
 "展现",
 6,
-"zhǎnxiàn",
-"come out; emerge; express; show"
+"zhǎn xiàn",
+"to come out; to emerge; to reveal; to display"
+],
+[
+"呈现",
+6,
+"chéng xiàn",
+"to appear; to emerge; to present (a certain appearance); to demonstrate"
+],
+[
+"兑现",
+6,
+"duì xiàn",
+"(of a check etc) to cash; to honor a commitment"
+],
+[
+"现状",
+6,
+"xiàn zhuàng",
+"current situation"
+],
+[
+"现成",
+6,
+"xiàn chéng",
+"ready-made; readily available"
+],
+[
+"涌现",
+6,
+"yǒng xiàn",
+"to emerge in large numbers; to spring up; to emerge prominently"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"现代化",
+55.45,
+"xiàn dài huà",
+"modernization; CL:個|个[ge4]"
+],
+[
+"现有",
+53.6,
+"xiàn yǒu",
+"currently existing; currently available"
+],
+[
+"现行",
+22.58,
+"xiàn xíng",
+"to be in effect; in force; current"
+],
+[
+"现货",
+19.73,
+"xiàn huò",
+"merchandise or commodities available immediately after sale; merchandise in stock; available item; actuals (investment); actual commodities"
+],
+[
+"现任",
+15.29,
+"xiàn rèn",
+"to occupy a post currently; current (president etc); incumbent; (coll.) current boyfriend (girlfriend, spouse)"
+],
+[
+"显现",
+14.19,
+"xiǎn xiàn",
+"appearance; to appear"
+],
+[
+"再现",
+9.65,
+"zài xiàn",
+"to recreate; to reconstruct (a historical relic)"
+],
+[
+"现身",
+9.58,
+"xiàn shēn",
+"to show oneself; to appear; (of a deity) to appear in the flesh"
+],
+[
+"现代舞",
+8.5,
+"xiàn dài wǔ",
+"modern dance"
+],
+[
+"现阶段",
+8.24,
+"xiàn jiē duàn",
+"at the present stage"
+],
+[
+"浮现",
+6.44,
+"fú xiàn",
+"to appear before one's eyes; to come into view; to float into appearance; to come back (of images from the past); to emerge; it emerges; it occurs (to me that..)"
+],
+[
+"重现",
+5.36,
+"chóng xiàn",
+"to reappear"
+],
+[
+"现今",
+5.34,
+"xiàn jīn",
+"now; nowadays; modern"
+],
+[
+"现代人",
+5.25,
+"xiàn dài rén",
+"modern man; Homo sapiens"
+]
+],
 "strokes": [
 "M 270 629 Q 375 659 381 663 Q 390 672 384 680 Q 377 692 346 697 Q 315 701 285 687 Q 254 674 220 664 Q 183 654 139 647 Q 102 638 130 623 Q 167 604 225 617 L 270 629 Z",
 "M 287 438 Q 374 465 378 469 Q 385 476 380 485 Q 373 495 343 500 Q 315 503 289 490 L 240 470 Q 168 451 142 445 Q 108 436 134 422 Q 170 407 240 424 L 287 438 Z",

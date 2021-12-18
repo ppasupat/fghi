@@ -9,11 +9,30 @@
 [
 "页",
 4,
+"xié",
+"head"
+],
+[
+"页",
+4,
 "yè",
-"page; leaf (Kangxi radical 181)"
+"page; leaf"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"页面",
+8.12,
+"yè miàn",
+"page; web page"
+],
+[
+"首页",
+5.97,
+"shǒu yè",
+"home page (of a website); title page; front page; first page; fig. beginning; cover letter"
+]
+],
 "strokes": [
 "M 502 722 Q 595 737 837 749 Q 850 746 862 761 Q 863 774 838 789 Q 805 814 769 808 Q 510 760 357 752 Q 284 751 204 745 Q 170 744 194 721 Q 233 687 265 693 Q 353 706 457 717 L 502 722 Z",
 "M 450 591 Q 468 615 495 655 Q 502 665 515 680 Q 528 690 521 700 Q 515 710 502 722 C 480 743 456 747 457 717 Q 460 692 430 611 Q 423 598 421 586 C 415 557 432 567 450 591 Z",

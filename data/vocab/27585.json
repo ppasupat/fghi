@@ -9,17 +9,36 @@
 [
 "毁灭",
 6,
-"huǐmiè",
-"perish; ruin; destroy"
+"huǐ miè",
+"to perish; to ruin; to destroy"
 ],
 [
 "销毁",
 6,
-"xiāohuǐ",
-"destroy (by melting or burning)"
+"xiāo huǐ",
+"to destroy (by melting or burning); to obliterate"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"摧毁",
+25.25,
+"cuī huǐ",
+"to destroy; to wreck"
+],
+[
+"烧毁",
+6.95,
+"shāo huǐ",
+"to burn; to burn down"
+],
+[
+"坠毁",
+6.35,
+"zhuì huǐ",
+"(of an airplane etc) to fall to the ground and crash"
+]
+],
 "strokes": [
 "M 189 627 Q 234 658 260 682 Q 326 739 342 747 Q 363 759 350 775 Q 337 791 310 803 Q 285 815 273 811 Q 261 808 266 796 Q 272 769 176 639 C 158 615 164 610 189 627 Z",
 "M 222 431 Q 221 444 218 458 Q 212 489 207 514 L 201 548 Q 191 602 191 617 Q 191 623 189 627 C 187 635 187 635 176 639 Q 164 645 136 648 Q 124 652 121 646 Q 114 640 123 624 Q 154 557 173 447 Q 177 413 196 391 Q 214 369 219 385 Q 222 395 223 407 L 222 431 Z",

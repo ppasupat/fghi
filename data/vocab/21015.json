@@ -9,99 +9,117 @@
 [
 "排列",
 4,
-"páiliè",
-"arrange; align; permutation"
+"pái liè",
+"to arrange in order; (math.) permutation"
 ],
 [
 "列车",
 5,
-"lièchē",
-"train (railway term)"
-],
-[
-"并列",
-6,
-"bìngliè",
-"stand side by side; be juxtaposed"
-],
-[
-"陈列",
-6,
-"chénliè",
-"to display; to exhibit"
-],
-[
-"行列",
-6,
-"hángliè",
-"procession; ranks; queue"
-],
-[
-"列举",
-6,
-"lièjǔ",
-"make a list; enumerate"
+"liè chē",
+"(railway) train"
 ],
 [
 "系列",
 6,
-"xìliè",
-"series"
+"xì liè",
+"series; set"
+],
+[
+"行列",
+6,
+"háng liè",
+"formation; array; (fig.) ranks (as in \"join the ranks of ...\")"
+],
+[
+"陈列",
+6,
+"chén liè",
+"to display; to exhibit"
+],
+[
+"列举",
+6,
+"liè jǔ",
+"a list; to list; to enumerate"
+],
+[
+"并列",
+6,
+"bìng liè",
+"to stand side by side; to be juxtaposed"
 ]
 ],
 "extraWords": [
 [
 "一系列",
 65.76,
-"yi1 xi4 lie4",
+"yī xì liè",
 "a series of; a string of"
 ],
 [
 "以色列",
 48.31,
-"Yi3 se4 lie4",
+"Yǐ sè liè",
 "Israel"
 ],
 [
 "列入",
 23.19,
-"lie4 ru4",
+"liè rù",
 "to include on a list"
+],
+[
+"列为",
+15.83,
+"liè wéi",
+"to be classified as"
 ],
 [
 "下列",
 13.69,
-"xia4 lie4",
+"xià liè",
 "following"
 ],
 [
 "前列",
 10.48,
-"qian2 lie4",
+"qián liè",
 "the very front"
 ],
 [
 "序列",
 10.16,
-"xu4 lie4",
+"xù liè",
 "sequence"
+],
+[
+"列宁",
+7.5,
+"Liè níng",
+"Vladimir Ilyich Lenin (1870-1924), Russian revolutionary leader"
 ],
 [
 "前列腺",
 7.42,
-"qian2 lie4 xian4",
+"qián liè xiàn",
 "prostate"
+],
+[
+"马克思列宁主义",
+7.27,
+"Mǎ kè sī Liè níng zhǔ yì",
+"Marxism-Leninism"
 ],
 [
 "列出",
 6.69,
-"lie4 chu1",
+"liè chū",
 "to list; to make a list"
 ],
 [
 "位列",
 5.16,
-"wei4 lie4",
+"wèi liè",
 "to rank"
 ]
 ],

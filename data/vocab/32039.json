@@ -9,41 +9,96 @@
 [
 "紧张",
 4,
-"jǐnzhāng",
-"nervous; tension; strain"
-],
-[
-"不要紧",
-5,
-"bú yàojǐn",
-"unimportant; not serious; it doesn't matter"
-],
-[
-"赶紧",
-5,
-"gǎnjǐn",
-"at once; hurriedly; lose no time"
+"jǐn zhāng",
+"nervous; keyed up; intense; tense; strained; in short supply; scarce; CL:陣|阵[zhen4]"
 ],
 [
 "紧急",
 5,
-"jǐnjí",
-"urgent; pressing"
+"jǐn jí",
+"urgent; emergency"
+],
+[
+"赶紧",
+5,
+"gǎn jǐn",
+"hurriedly; without delay"
 ],
 [
 "抓紧",
 5,
 "zhuā jǐn",
-"to grasp firmly; to pay close or special attention to; to rush in; to make the most of"
+"to grasp firmly; to pay special attention to; to rush in; to make the most of"
+],
+[
+"不要紧",
+5,
+"bù yào jǐn",
+"unimportant; not serious; it doesn't matter; never mind; it looks all right, but"
 ],
 [
 "紧迫",
 6,
-"jǐnpò",
-"urgent; urgency"
+"jǐn pò",
+"pressing; urgent"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"紧紧",
+30.39,
+"jǐn jǐn",
+"closely; tightly"
+],
+[
+"紧密",
+27.18,
+"jǐn mì",
+"inseparably close"
+],
+[
+"无关紧要",
+12.97,
+"wú guān jǐn yào",
+"indifferent; insignificant"
+],
+[
+"加紧",
+11.32,
+"jiā jǐn",
+"to intensify; to speed up; to step up"
+],
+[
+"紧接着",
+9.52,
+"jǐn jiē zhe",
+"immediately afterwards; shortly after that"
+],
+[
+"要紧",
+7.9,
+"yào jǐn",
+"important; urgent"
+],
+[
+"紧跟",
+7.02,
+"jǐn gēn",
+"to follow precisely; to comply with"
+],
+[
+"紧缩",
+6.25,
+"jǐn suō",
+"(economics) to reduce; to curtail; to cut back; to tighten; austerity; tightening; crunch"
+],
+[
+"紧缺",
+5.54,
+"jǐn quē",
+"in short supply; scarce"
+]
+],
 "strokes": [
 "M 222 699 Q 246 651 233 533 Q 224 499 261 469 Q 271 460 274 470 Q 280 473 283 491 Q 286 504 284 551 Q 281 632 284 661 Q 288 674 282 686 Q 261 710 232 718 Q 228 721 223 715 Q 219 711 222 699 Z",
 "M 342 777 Q 363 734 367 616 Q 367 481 371 468 Q 371 467 373 463 Q 377 453 386 458 Q 407 473 404 543 Q 419 741 422 747 Q 429 765 418 775 Q 405 787 380 799 Q 361 806 340 798 Q 330 791 342 777 Z",

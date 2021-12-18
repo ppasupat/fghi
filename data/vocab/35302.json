@@ -9,17 +9,36 @@
 [
 "接触",
 5,
-"jiēchù",
-"come into contact with"
+"jiē chù",
+"to touch; to contact; access; in touch with"
 ],
 [
 "触犯",
 6,
-"chùfàn",
-"offend; violate"
+"chù fàn",
+"to violate; to offend"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"触及",
+9.09,
+"chù jí",
+"to touch (physically, one's feelings etc); to touch on (a topic)"
+],
+[
+"触摸",
+8.43,
+"chù mō",
+"to touch"
+],
+[
+"触动",
+6.59,
+"chù dòng",
+"to touch; to stir up (trouble or emotions); to move (sb's emotions or worry)"
+]
+],
 "strokes": [
 "M 289 715 Q 316 749 340 775 Q 352 785 340 801 Q 306 835 281 836 Q 271 835 271 821 Q 272 737 163 637 Q 157 637 118 599 Q 109 586 123 589 Q 139 589 164 603 Q 230 643 274 696 L 289 715 Z",
 "M 337 561 Q 434 660 472 680 Q 491 689 480 703 Q 467 716 433 739 Q 417 746 402 738 Q 395 734 325 719 Q 309 716 289 715 C 259 713 246 707 274 696 Q 292 684 368 693 Q 375 694 378 692 Q 382 688 376 678 Q 333 599 307 563 Q 303 557 300 552 C 284 527 316 540 337 561 Z",

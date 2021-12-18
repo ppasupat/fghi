@@ -9,41 +9,198 @@
 [
 "东西",
 1,
-"dōngxi",
-"things; stuff"
+"dōng xī",
+"east and west"
+],
+[
+"东西",
+1,
+"dōng xi",
+"thing; stuff; person; CL:個|个[ge4],件[jian4]"
+],
+[
+"东",
+3,
+"Dōng",
+"surname Dong"
 ],
 [
 "东",
 3,
 "dōng",
-"East"
+"east; host (i.e. sitting on east side of guest); landlord"
 ],
 [
 "房东",
 4,
-"fángdōng",
+"fáng dōng",
 "landlord"
-],
-[
-"东道主",
-6,
-"dōngdàozhǔ",
-"host for a party or conference"
-],
-[
-"东张西望",
-6,
-"dōngzhāngxīwàng",
-"look in all directions; glance around"
 ],
 [
 "股东",
 6,
-"gǔdōng",
-"stockholder; shareholder"
+"gǔ dōng",
+"shareholder; stockholder"
+],
+[
+"东张西望",
+6,
+"dōng zhāng xī wàng",
+"to look in all directions (idiom); to glance around"
+],
+[
+"东道主",
+6,
+"dōng dào zhǔ",
+"host; official host (e.g. venue for games or a conference)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"广东",
+78.66,
+"Guǎng dōng",
+"Guangdong province (Kwangtung) in south China, short name 粵|粤[Yue4], capital Guangzhou 廣州|广州"
+],
+[
+"山东",
+54.95,
+"Shān dōng",
+"Shandong, province in northeast China, short name 魯|鲁[Lu3], capital Jinan 濟南|济南[Ji3 nan2]"
+],
+[
+"东方",
+48.51,
+"Dōng fāng",
+"the East; the Orient; two-character surname Dongfang"
+],
+[
+"东方",
+48.51,
+"dōng fāng",
+"east"
+],
+[
+"东北",
+37.36,
+"Dōng běi",
+"Northeast China; Manchuria"
+],
+[
+"东北",
+37.36,
+"dōng běi",
+"northeast"
+],
+[
+"毛泽东",
+33.98,
+"Máo Zé dōng",
+"Mao Zedong (1893-1976), Chinese communist leader"
+],
+[
+"东部",
+30.37,
+"dōng bù",
+"the east; eastern part"
+],
+[
+"广东省",
+26.69,
+"Guǎng dōng Shěng",
+"Guangdong Province (Kwangtung) in south China, short name 粵|粤[Yue4], capital Guangzhou 廣州|广州[Guang3 zhou1]"
+],
+[
+"股东大会",
+25.98,
+"gǔ dōng dà huì",
+"general shareholders' meeting"
+],
+[
+"东京",
+24.12,
+"Dōng jīng",
+"Tokyo, capital of Japan; Tonkin (northern Vietnam during the French colonial period)"
+],
+[
+"毛泽东思想",
+24.05,
+"Máo Zé dōng Sī xiǎng",
+"Mao Zedong Thought; Maoism"
+],
+[
+"中东",
+16.28,
+"Zhōng dōng",
+"Middle East"
+],
+[
+"山东省",
+14.94,
+"Shān dōng Shěng",
+"Shandong, province in northeast China, short name 魯|鲁[Lu3], capital Jinan 濟南|济南[Ji3 nan2]"
+],
+[
+"东莞",
+14.63,
+"Dōng guǎn",
+"Dongguan prefecture-level city in Guangdong 廣東省|广东省[Guang3 dong1 Sheng3]"
+],
+[
+"东南亚",
+12.88,
+"Dōng nán yà",
+"Southeast Asia"
+],
+[
+"东南",
+12.83,
+"dōng nán",
+"southeast"
+],
+[
+"东亚",
+12.65,
+"Dōng yà",
+"East Asia"
+],
+[
+"东盟",
+10.52,
+"Dōng Méng",
+"ASEAN; abbr. for 東南亞國家聯盟|东南亚国家联盟[Dong1 nan2 ya4 Guo2 jia1 Lian2 meng2]"
+],
+[
+"东海",
+10.12,
+"Dōng Hǎi",
+"East China Sea; East Sea (Chinese mythology and ancient geography)"
+],
+[
+"浦东",
+9.63,
+"Pǔ dōng",
+"Pudong, subprovincial district of Shanghai"
+],
+[
+"安东尼",
+8.26,
+"Ān dōng ní",
+"Anthony (name)"
+],
+[
+"华东",
+6.45,
+"Huá dōng",
+"East China"
+],
+[
+"远东",
+5.78,
+"Yuǎn dōng",
+"Far East (loanword)"
+]
+],
 "strokes": [
 "M 444 562 Q 574 584 711 605 Q 807 623 821 634 Q 831 643 827 654 Q 820 669 785 679 Q 751 688 713 676 Q 568 633 465 615 L 409 606 Q 310 594 203 587 Q 158 583 189 560 Q 234 530 337 547 Q 361 551 389 554 L 444 562 Z",
 "M 560 320 Q 645 332 704 335 Q 752 338 754 351 Q 755 367 721 388 Q 691 406 560 374 L 505 363 Q 445 354 375 343 Q 354 340 353 345 L 444 562 L 465 615 Q 520 747 544 764 Q 566 782 553 795 Q 492 849 462 850 Q 450 849 457 824 Q 470 775 409 606 L 389 554 Q 334 403 275 353 Q 248 331 267 278 Q 274 259 293 267 Q 369 294 506 313 L 560 320 Z",

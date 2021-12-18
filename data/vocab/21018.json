@@ -9,17 +9,48 @@
 [
 "刚才",
 3,
-"gāngcái",
+"gāng cái",
 "just now; a moment ago"
+],
+[
+"刚才",
+3,
+"gāng cái",
+"just now (variant of 剛才|刚才[gang1 cai2])"
 ],
 [
 "刚",
 4,
 "gāng",
-"just (indicating the immediate past); recently; firm"
+"hard; firm; strong; just; barely; exactly"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"刚刚",
+191.44,
+"gāng gang",
+"just recently; just a moment ago"
+],
+[
+"刚好",
+21.02,
+"gāng hǎo",
+"just; exactly; to happen to be"
+],
+[
+"金刚",
+10.07,
+"Jīn gāng",
+"King Kong"
+],
+[
+"金刚",
+10.07,
+"jīn gāng",
+"diamond; (used to translate Sanskrit \"vajra\", a thunderbolt or mythical weapon); guardian deity (in Buddhist iconography)"
+]
+],
 "strokes": [
 "M 165 628 Q 164 627 168 620 Q 208 469 160 220 Q 133 118 144 90 Q 150 72 159 61 Q 172 46 182 61 Q 218 100 220 247 Q 226 524 238 602 C 241 626 241 626 225 639 Q 201 660 173 669 Q 163 670 156 662 Q 152 656 160 644 Q 163 637 165 628 Z",
 "M 238 602 Q 464 671 489 651 Q 502 644 506 585 Q 519 386 508 161 Q 508 127 495 118 Q 480 108 408 126 Q 392 127 394 119 Q 395 112 407 107 Q 471 64 506 29 Q 525 10 538 13 Q 550 16 560 43 Q 575 86 573 149 Q 549 590 569 631 Q 579 652 570 662 Q 560 677 515 698 Q 496 707 434 687 Q 334 660 225 639 C 196 633 209 593 238 602 Z",

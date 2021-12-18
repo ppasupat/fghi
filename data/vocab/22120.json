@@ -7,78 +7,150 @@
 },
 "words": [
 [
-"充电器",
-5,
-"chōngdiànqì",
-"battery charger"
-],
-[
 "机器",
 5,
-"jīqì",
-"machine"
+"jī qì",
+"machine; CL:臺|台[tai2],部[bu4],個|个[ge4]"
 ],
 [
 "乐器",
 5,
-"yuèqì",
-"musical instrument"
+"yuè qì",
+"musical instrument; CL:件[jian4]"
 ],
 [
-"器材",
-6,
-"qìcái",
-"equipment; material"
-],
-[
-"器官",
-6,
-"qìguān",
-"organ; apparatus"
-],
-[
-"容器",
-6,
-"róngqì",
-"container; receptacle; vessel"
+"充电器",
+5,
+"chōng diàn qì",
+"battery charger"
 ],
 [
 "武器",
 6,
-"wǔqì",
-"weapon; arms"
+"wǔ qì",
+"weapon; arms; CL:種|种[zhong3]"
+],
+[
+"器官",
+6,
+"qì guān",
+"organ (part of body tissue); apparatus"
 ],
 [
 "仪器",
 6,
-"yíqì",
-"apparatus; (scientific) instrument"
+"yí qì",
+"instrument; apparatus; CL:臺|台[tai2]"
+],
+[
+"容器",
+6,
+"róng qì",
+"receptacle; vessel; (computing) container"
+],
+[
+"器材",
+6,
+"qì cái",
+"equipment; material"
 ]
 ],
 "extraWords": [
 [
+"机器人",
+37.92,
+"jī qì rén",
+"mechanical person; robot; android"
+],
+[
+"电器",
+26.4,
+"diàn qì",
+"(electrical) appliance; device"
+],
+[
+"凶器",
+24.5,
+"xiōng qì",
+"lethal weapon; murder weapon"
+],
+[
+"服务器",
+24.19,
+"fú wù qì",
+"server (computer); CL:臺|台[tai2]"
+],
+[
+"处理器",
+21.79,
+"chǔ lǐ qì",
+"processor"
+],
+[
+"显示器",
+14.35,
+"xiǎn shì qì",
+"monitor (computer)"
+],
+[
 "核武器",
 11.31,
-"he2 wu3 qi4",
+"hé wǔ qì",
 "nuclear weapon"
 ],
 [
 "兵器",
 11.15,
-"bing1 qi4",
+"bīng qì",
 "weaponry; weapons; arms"
 ],
 [
 "器械",
 10.76,
-"qi4 xie4",
+"qì xiè",
 "apparatus; instrument; equipment; weapon"
+],
+[
+"监视器",
+8.53,
+"jiān shì qì",
+"security camera; surveillance monitor"
+],
+[
+"窃听器",
+8.41,
+"qiè tīng qì",
+"tapping device; bug"
+],
+[
+"传感器",
+8.02,
+"chuán gǎn qì",
+"sensor; transducer"
+],
+[
+"热水器",
+6.11,
+"rè shuǐ qì",
+"water heater"
+],
+[
+"探测器",
+5.99,
+"tàn cè qì",
+"detector; probe; craft"
 ],
 [
 "瓷器",
 5.67,
-"ci2 qi4",
+"cí qì",
 "chinaware; porcelain"
+],
+[
+"遥控器",
+5.63,
+"yáo kòng qì",
+"remote control"
 ]
 ],
 "strokes": [

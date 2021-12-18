@@ -9,71 +9,156 @@
 [
 "预习",
 4,
-"yùxí",
-"(of students) prepare a lesson before class; preview"
-],
-[
-"预报",
-5,
-"yùbào",
-"to predict; forecast"
+"yù xí",
+"to prepare a lesson"
 ],
 [
 "预订",
 5,
-"yùdìng",
-"place an order; book ahead; subscribe for"
+"yù dìng",
+"to place an order; to book ahead"
 ],
 [
 "预防",
 5,
-"yùfáng",
-"prevent; take precautions against"
+"yù fáng",
+"to prevent; to take precautions against; to protect; to guard against; precautionary; prophylactic"
 ],
 [
-"干预",
-6,
-"gānyù",
-"meddle; intervene; intervention"
-],
-[
-"预料",
-6,
-"yùliào",
-"anticipate; to forecast; expectation"
-],
-[
-"预期",
-6,
-"yùqī",
-"expect; expected; anticipate"
-],
-[
-"预算",
-6,
-"yùsuàn",
-"budget"
-],
-[
-"预先",
-6,
-"yùxiān",
-"beforehand; prior"
+"预报",
+5,
+"yù bào",
+"forecast"
 ],
 [
 "预言",
 6,
-"yùyán",
-"predict; prophecy"
+"yù yán",
+"to predict; prophecy"
+],
+[
+"预算",
+6,
+"yù suàn",
+"budget"
+],
+[
+"预料",
+6,
+"yù liào",
+"to forecast; to anticipate; expectation"
+],
+[
+"预期",
+6,
+"yù qī",
+"to expect; to anticipate"
+],
+[
+"预先",
+6,
+"yù xiān",
+"beforehand; in advance"
+],
+[
+"干预",
+6,
+"gān yù",
+"to meddle; to intervene; intervention"
 ],
 [
 "预兆",
 6,
-"yùzhào",
-"omen, sign"
+"yù zhào",
+"omen; sign (of sth yet to occur); prior indication; to foreshadow"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"预计",
+107.63,
+"yù jì",
+"to forecast; to predict; to estimate"
+],
+[
+"预测",
+61.28,
+"yù cè",
+"to forecast; to predict"
+],
+[
+"预约",
+19.94,
+"yù yuē",
+"booking; reservation; to book; to make an appointment"
+],
+[
+"预感",
+13.65,
+"yù gǎn",
+"to have a premonition; premonition"
+],
+[
+"预备",
+13.44,
+"yù bèi",
+"to prepare; to make ready; preparation; preparatory"
+],
+[
+"预警",
+13.44,
+"yù jǐng",
+"warning; early warning"
+],
+[
+"预定",
+13.24,
+"yù dìng",
+"to schedule in advance"
+],
+[
+"预售",
+11.64,
+"yù shòu",
+"advance sale; to sell in advance; to book"
+],
+[
+"预见",
+9.33,
+"yù jiàn",
+"to foresee; to predict; to forecast; to envision; foresight; intuition; vision"
+],
+[
+"预后",
+8.69,
+"yù hòu",
+"prognosis"
+],
+[
+"预示",
+8.05,
+"yù shì",
+"to indicate; to foretell; to forebode; to betoken"
+],
+[
+"预告",
+7.63,
+"yù gào",
+"to forecast; to predict; advance notice"
+],
+[
+"预赛",
+6.09,
+"yù sài",
+"preliminary competition; to hold preliminary heats"
+],
+[
+"天气预报",
+5.33,
+"tiān qì yù bào",
+"weather forecast"
+]
+],
 "strokes": [
 "M 331 614 Q 419 698 453 712 Q 469 719 464 733 Q 461 746 402 776 Q 386 783 367 776 Q 318 757 242 733 Q 223 726 174 727 Q 153 727 161 709 Q 168 699 185 689 Q 212 674 241 693 Q 352 744 368 734 Q 380 727 374 715 Q 347 672 318 622 C 303 596 309 593 331 614 Z",
 "M 318 622 Q 312 628 257 642 Q 244 645 240 643 Q 236 639 237 629 Q 240 622 261 605 Q 286 584 314 559 Q 324 549 337 550 Q 346 550 349 561 Q 353 571 346 595 Q 342 605 331 614 L 318 622 Z",

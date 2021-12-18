@@ -7,25 +7,44 @@
 },
 "words": [
 [
-"后顾之忧",
+"忧郁",
 6,
-"hòugùzhīyōu",
-"fears of trouble in the rear (idiom); family worries (obstructing freedom to act); trouble back at home; worries about the future consequences; often in negative expressions, meaning no worries about anything"
+"yōu yù",
+"sullen; depressed; melancholy; dejected"
 ],
 [
 "无忧无虑",
 6,
-"wúyōuwúlǜ",
-"carefree and without worries"
+"wú yōu wú lu:4",
+"carefree and without worries (idiom)"
 ],
 [
-"忧郁",
+"后顾之忧",
 6,
-"yōuyù",
-"melancholy; dejected"
+"hòu gù zhī yōu",
+"fears of trouble in the rear (idiom); family worries (obstructing freedom of action); worries about the future consequences; often in negative expressions, meaning \"no worries about anything\""
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"担忧",
+22.33,
+"dān yōu",
+"to worry; to be concerned"
+],
+[
+"忧伤",
+10.77,
+"yōu shāng",
+"distressed; laden with grief"
+],
+[
+"忧虑",
+9.98,
+"yōu lu:4",
+"to worry; anxiety (about)"
+]
+],
 "strokes": [
 "M 131 528 Q 113 464 85 405 Q 67 369 91 336 Q 101 318 121 334 Q 142 353 153 388 Q 168 434 165 471 Q 166 505 155 531 Q 149 538 143 539 Q 134 538 131 528 Z",
 "M 296 576 Q 389 510 392 508 Q 393 508 397 508 Q 406 509 409 520 Q 412 533 404 557 Q 392 587 306 603 Q 300 604 297 603 C 267 600 272 593 296 576 Z",

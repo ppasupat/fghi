@@ -7,49 +7,158 @@
 },
 "words": [
 [
+"约会",
+4,
+"yuē huì",
+"appointment; engagement; date; CL:次[ci4],個|个[ge4]; to arrange to meet"
+],
+[
 "大约",
 4,
-"dàyuē",
-"approximately; about"
+"dà yuē",
+"approximately; probably"
 ],
 [
 "节约",
 4,
-"jiéyuē",
-"frugal; to save"
-],
-[
-"约会",
-4,
-"yuēhuì",
-"appointment; engagement; date"
-],
-[
-"条约",
-6,
-"tiáoyuē",
-"treaty; pact"
-],
-[
-"隐约",
-6,
-"yǐnyuē",
-"vague; faint; indistinct"
+"jié yuē",
+"to economize; to conserve (resources); economy; frugal"
 ],
 [
 "约束",
 6,
-"yuēshù",
-"restrict; limit to; constrain; restriction"
+"yuē shù",
+"to restrict; to limit to; to constrain; restriction; constraint"
+],
+[
+"条约",
+6,
+"tiáo yuē",
+"treaty; pact; CL:個|个[ge4]"
+],
+[
+"隐约",
+6,
+"yǐn yuē",
+"vague; faint; indistinct"
 ],
 [
 "制约",
 6,
-"zhìyuē",
-"restrict; condition"
+"zhì yuē",
+"to restrict; condition"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"纽约",
+136.11,
+"Niǔ yuē",
+"New York"
+],
+[
+"约翰",
+60.07,
+"Yuē hàn",
+"John (name); Johan (name); Johann (name)"
+],
+[
+"合约",
+35.61,
+"hé yuē",
+"treaty; contract"
+],
+[
+"约定",
+27.17,
+"yuē dìng",
+"to agree on sth (after discussion); to conclude a bargain; to arrange; to promise; to stipulate; to make an appointment; stipulated (time, amount, quality etc); an arrangement; a deal; appointment; undertaking; commitment; understanding; engagement; stipulation"
+],
+[
+"签约",
+24.25,
+"qiān yuē",
+"to sign a contract or agreement"
+],
+[
+"预约",
+19.94,
+"yù yuē",
+"booking; reservation; to book; to make an appointment"
+],
+[
+"特约",
+12.69,
+"tè yuē",
+"specially engaged; employed or commissioned for a special task"
+],
+[
+"公约",
+12.2,
+"gōng yuē",
+"convention (i.e. international agreement)"
+],
+[
+"简约",
+10.14,
+"jiǎn yuē",
+"sketchy; concise; abbreviated"
+],
+[
+"北约",
+9.24,
+"Běi yuē",
+"NATO; abbr. for 北大西洋公約組織|北大西洋公约组织[Bei3 Da4 xi1 Yang2 Gong1 yue1 Zu3 zhi1], North Atlantic Treaty Organization"
+],
+[
+"契约",
+7.57,
+"qì yuē",
+"agreement; contract"
+],
+[
+"约瑟夫",
+7.45,
+"Yuē sè fū",
+"Joseph (name)"
+],
+[
+"约合",
+7.43,
+"yuē hé",
+"approximately; about (some numerical value)"
+],
+[
+"约旦",
+6.76,
+"Yuē dàn",
+"Jordan"
+],
+[
+"违约",
+6.66,
+"wéi yuē",
+"to break a promise; to violate an agreement; to default (on a loan or contract)"
+],
+[
+"约翰逊",
+6.44,
+"Yuē hàn xùn",
+"Johnson or Johnston (name)"
+],
+[
+"相约",
+5.84,
+"xiāng yuē",
+"to agree (on a meeting place, date etc); to reach agreement; to make an appointment"
+],
+[
+"不约而同",
+5.43,
+"bù yuē ér tóng",
+"to agree by chance (idiom); taking the same action without prior consultation"
+]
+],
 "strokes": [
 "M 344 487 Q 295 490 253 492 Q 211 493 234 518 Q 297 624 357 703 Q 372 721 369 729 Q 366 744 326 775 Q 310 788 290 785 Q 278 782 285 766 Q 303 724 221 572 Q 205 538 167 504 Q 148 491 149 478 Q 153 459 167 440 Q 177 428 190 435 Q 217 450 326 462 C 356 465 374 485 344 487 Z",
 "M 326 462 Q 218 318 199 309 Q 186 300 189 286 Q 190 273 216 254 Q 226 242 241 255 Q 308 300 418 336 Q 437 340 439 349 Q 442 359 422 356 Q 361 346 286 323 Q 258 313 276 337 Q 319 401 426 531 Q 454 568 478 589 Q 490 599 484 609 Q 474 628 440 646 Q 424 655 415 653 Q 405 649 408 634 Q 411 591 345 488 Q 344 488 344 487 L 326 462 Z",

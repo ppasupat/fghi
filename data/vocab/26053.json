@@ -9,45 +9,57 @@
 [
 "旅游",
 2,
-"lǚyóu",
-"trip; journey; tour"
+"lu:3 yóu",
+"trip; journey; tourism; travel; tour; to travel"
 ],
 [
 "旅行",
 4,
-"lǚxíng",
-"travel"
+"lu:3 xíng",
+"to travel; journey; trip; CL:趟[tang4],次[ci4],個|个[ge4]"
 ]
 ],
 "extraWords": [
 [
+"旅馆",
+51.33,
+"lu:3 guǎn",
+"hotel; CL:家[jia1]"
+],
+[
 "旅客",
 40.18,
-"lu:3 ke4",
+"lu:3 kè",
 "traveler; tourist"
 ],
 [
 "旅行社",
 17.09,
-"lu:3 xing2 she4",
+"lu:3 xíng shè",
 "travel agency"
 ],
 [
 "旅程",
 16.93,
-"lu:3 cheng2",
+"lu:3 chéng",
 "journey; trip"
 ],
 [
 "旅途",
 12.76,
-"lu:3 tu2",
+"lu:3 tú",
 "journey; trip"
+],
+[
+"旅游业",
+11.76,
+"lu:3 yóu yè",
+"tourism industry"
 ],
 [
 "旅店",
 6.44,
-"lu:3 dian4",
+"lu:3 diàn",
 "inn; small hotel"
 ]
 ],

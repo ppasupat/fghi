@@ -10,56 +10,62 @@
 "散步",
 4,
 "sàn bù",
-"to go for a walk"
+"to take a walk; to go for a walk"
 ],
 [
 "分散",
 6,
-"fēnsàn",
-"to scatter; disperse; distribute"
+"fēn sàn",
+"to scatter; to disperse; to distribute"
 ],
 [
 "解散",
 6,
-"jiěsàn",
-"dismiss; dissolve; disband"
+"jiě sàn",
+"to dissolve; to disband"
 ],
 [
 "扩散",
 6,
-"kuòsàn",
-"spread; proliferation"
-],
-[
-"散文",
-6,
-"sǎnwén",
-"prose; essay"
-],
-[
-"散布",
-6,
-"sànbù",
-"to scatter; disseminate; to spread"
+"kuò sàn",
+"to spread; to proliferate; to diffuse; spread; proliferation; diffusion"
 ],
 [
 "散发",
 6,
-"sànfā",
-"distribute; emit"
+"sàn fā",
+"to distribute; to emit; to issue"
+],
+[
+"散布",
+6,
+"sàn bù",
+"to disseminate"
+],
+[
+"散文",
+6,
+"sǎn wén",
+"prose; essay"
 ]
 ],
 "extraWords": [
 [
 "疏散",
 8.91,
-"shu1 san4",
+"shū sàn",
 "to scatter; to disperse; to evacuate; scattered; to relax"
+],
+[
+"散热",
+7.98,
+"sàn rè",
+"to dissipate heat"
 ],
 [
 "散落",
 5.31,
-"san4 luo4",
+"sàn luò",
 "to disperse; to fall scattered; to sprinkle"
 ]
 ],

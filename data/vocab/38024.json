@@ -9,29 +9,54 @@
 [
 "打针",
 4,
-"dǎzhēn",
-"inject; get a shot"
+"dǎ zhēn",
+"to give or have an injection"
 ],
 [
 "针对",
 5,
-"zhēnduì",
-"in connection with; directed towards"
-],
-[
-"方针",
-6,
-"fāngzhēn",
-"policy; guidelines"
+"zhēn duì",
+"to target; to focus on; to be aimed at or against; in response to"
 ],
 [
 "指南针",
 6,
-"zhǐnánzhēn",
+"zhǐ nán zhēn",
 "compass"
+],
+[
+"方针",
+6,
+"fāng zhēn",
+"policy; guidelines; CL:個|个[ge4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"针对性",
+14.53,
+"zhēn duì xìng",
+"focus; direction; purpose; relevance"
+],
+[
+"针织",
+11.21,
+"zhēn zhī",
+"knitting; knitted garment"
+],
+[
+"针灸",
+6.35,
+"zhēn jiǔ",
+"acupuncture and moxibustion; to give or have acupuncture and moxibustion"
+],
+[
+"针刺",
+6.04,
+"zhēn cì",
+"to prick with a needle; to treat by acupuncture"
+]
+],
 "strokes": [
 "M 332 651 Q 390 747 413 768 Q 423 778 418 792 Q 414 805 386 828 Q 361 846 341 846 Q 322 845 330 823 Q 345 789 331 760 Q 289 663 226 574 Q 165 489 83 394 Q 73 384 71 378 Q 67 368 81 370 Q 141 379 301 606 Q 307 615 313 623 L 332 651 Z",
 "M 313 623 Q 350 611 413 626 Q 453 638 496 647 Q 518 654 521 657 Q 528 664 524 673 Q 517 683 487 689 Q 463 692 382 662 Q 355 656 332 651 C 303 645 284 631 313 623 Z",

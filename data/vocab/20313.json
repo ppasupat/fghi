@@ -7,25 +7,56 @@
 },
 "words": [
 [
-"多余",
+"业余",
 5,
-"duōyú",
-"unnecessary; superfluous"
+"yè yú",
+"in one's spare time; outside working hours; amateur (historian etc)"
 ],
 [
 "其余",
 5,
-"qíyú",
-"the others; the rest; remaining"
+"qí yú",
+"the rest; the others; remaining; remainder; apart from them"
 ],
 [
-"业余",
+"多余",
 5,
-"yèyú",
-"spare time; amateur"
+"duō yú",
+"superfluous; unnecessary; surplus"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"剩余",
+15.49,
+"shèng yú",
+"remainder; surplus"
+],
+[
+"余额",
+15.18,
+"yú é",
+"balance (of an account, bill etc); surplus; remainder"
+],
+[
+"余地",
+7.72,
+"yú dì",
+"margin; leeway"
+],
+[
+"有余",
+5.81,
+"yǒu yú",
+"to have an abundance"
+],
+[
+"残余",
+5.35,
+"cán yú",
+"remnant; relic; residue; vestige; surplus; to remain; to leave surplus"
+]
+],
 "strokes": [
 "M 521 752 Q 524 764 548 787 Q 557 793 556 805 Q 555 815 540 830 Q 504 866 466 861 Q 456 858 458 844 Q 476 742 291 536 Q 282 530 276 522 Q 221 465 86 357 Q 76 351 88 348 Q 158 357 299 476 Q 389 563 507 731 L 521 752 Z",
 "M 507 731 Q 735 460 787 443 Q 848 427 965 445 Q 984 446 987 451 Q 990 458 974 465 Q 773 552 765 557 Q 675 609 527 747 Q 523 750 521 752 C 499 772 488 754 507 731 Z",

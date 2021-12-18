@@ -9,238 +9,340 @@
 [
 "重要",
 3,
-"zhòngyào",
+"zhòng yào",
 "important; significant; major"
 ],
 [
-"重新",
+"重",
 4,
-"chóngxīn",
-"again; anew; once more"
-],
-[
-"严重",
-4,
-"yánzhòng",
-"grave; serious; critical"
+"chóng",
+"to repeat; repetition; again; re-; classifier: layer"
 ],
 [
 "重",
 4,
 "zhòng",
-"heavy; serious; important"
+"heavy; serious; to attach importance to"
 ],
 [
-"重点",
+"重新",
 4,
-"zhòngdiǎn",
-"emphasis; main point"
+"chóng xīn",
+"again; once more; re-"
 ],
 [
-"重视",
+"严重",
 4,
-"zhòngshì",
-"to value; take seriously"
+"yán zhòng",
+"grave; serious; severe; critical"
 ],
 [
 "尊重",
 4,
-"zūnzhòng",
-"esteem; to respect; to value; to honor"
+"zūn zhòng",
+"to esteem; to respect; to honor; to value; eminent; serious; proper"
+],
+[
+"重点",
+4,
+"chóng diǎn",
+"to recount (e.g. results of election); to re-evaluate"
+],
+[
+"重点",
+4,
+"zhòng diǎn",
+"important point; main point; focus; key (project etc); to focus on; to put the emphasis on"
+],
+[
+"重视",
+4,
+"zhòng shì",
+"to attach importance to sth; to value"
 ],
 [
 "重复",
 5,
-"chóngfù",
-"to repeat; to duplicate"
+"chóng fù",
+"to repeat; to duplicate; CL:個|个[ge4]"
+],
+[
+"重复",
+5,
+"chóng fù",
+"variant of 重複|重复[chong2 fu4]"
 ],
 [
 "重大",
 5,
-"zhòngdà",
-"great; important; major"
+"zhòng dà",
+"great; important; major; significant"
 ],
 [
 "重量",
 5,
-"zhòngliàng",
-"weight"
+"zhòng liàng",
+"weight; CL:個|个[ge4]"
 ],
 [
 "保重",
 6,
-"bǎozhòng",
-"take care (of oneself)"
-],
-[
-"比重",
-6,
-"bǐzhòng",
-"proportion; specific gravity"
+"bǎo zhòng",
+"to take care of oneself"
 ],
 [
 "沉重",
 6,
-"chénzhòng",
-"heavy; hard; serious"
-],
-[
-"重叠",
-6,
-"chóngdié",
-"to overlap"
-],
-[
-"举足轻重",
-6,
-"jǔzúqīngzhòng",
-"a foot's move sways the balance; hold the balance of power; play a key role"
+"chén zhòng",
+"heavy; hard; serious; critical"
 ],
 [
 "隆重",
 6,
-"lóngzhòng",
-"grand; prosperous; ceremonious"
+"lóng zhòng",
+"grand; prosperous; ceremonious; solemn"
 ],
 [
-"任重道远",
+"注重",
 6,
-"rènzhòngdàoyuǎn",
-"lit. a heavy load and a long road; fig. to bear heavy responsibilities through a long struggle; shoulder heavy responsibilities"
+"zhù zhòng",
+"to pay attention to; to emphasize"
+],
+[
+"重心",
+6,
+"zhòng xīn",
+"center of gravity; central core; main part"
 ],
 [
 "慎重",
 6,
-"shènzhòng",
+"shèn zhòng",
 "cautious; careful; prudent"
 ],
 [
 "郑重",
 6,
-"zhèngzhòng",
-"serious; solemn"
-],
-[
-"重心",
-6,
-"zhòngxīn",
-"center of gravity; central core; main part"
-],
-[
-"注重",
-6,
-"zhùzhòng",
-"pay attention; emphasize; put stress on"
+"zhèng zhòng",
+"serious; solemn; earnest; conscientious"
 ],
 [
 "庄重",
 6,
-"zhuāngzhòng",
+"zhuāng zhòng",
 "grave; solemn; dignified"
+],
+[
+"重叠",
+6,
+"chóng dié",
+"to overlap; to superimpose; to telescope; to run together; to duplicate; one over another; superposition; an overlap; redundancy; reduplication (in Chinese grammar, e.g. 散散步[san4 san4 bu4] to have a stroll)"
+],
+[
+"举足轻重",
+6,
+"jǔ zú qīng zhòng",
+"to play a critical role (idiom); influential"
 ],
 [
 "着重",
 6,
-"zhuózhòng",
-"put emphasis on; to stress"
+"zhuó zhòng",
+"to put emphasis on; to stress"
+],
+[
+"比重",
+6,
+"bǐ zhòng",
+"proportion; specific gravity"
+],
+[
+"任重道远",
+6,
+"rèn zhòng dào yuǎn",
+"a heavy load and a long road; fig. to bear heavy responsibilities through a long struggle (cf Confucian Analects, 8.7)"
 ]
 ],
 "extraWords": [
 [
+"重庆",
+68.16,
+"Chóng qìng",
+"Chongqing city (Chungking), formerly in Sichuan province, a municipality since 1997, short name 渝[Yu2]"
+],
+[
+"重组",
+42.22,
+"chóng zǔ",
+"to reorganize; to recombine; recombination"
+],
+[
+"体重",
+32.27,
+"tǐ zhòng",
+"body weight"
+],
+[
 "重要性",
 20.48,
-"zhong4 yao4 xing4",
+"zhòng yào xìng",
 "importance"
 ],
 [
 "加重",
 19.76,
-"jia1 zhong4",
+"jiā zhòng",
 "to make heavier; to emphasize; (of an illness etc) to become more serious; to aggravate (a bad situation); to increase (a burden, punishment etc)"
 ],
 [
 "重建",
 19.06,
-"chong2 jian4",
+"chóng jiàn",
 "to rebuild; to reestablish; reconstruction; rebuilding"
+],
+[
+"双重",
+15.27,
+"shuāng chóng",
+"double"
 ],
 [
 "重重",
 12.28,
-"chong2 chong2",
+"chóng chóng",
 "layer upon layer; one after another"
 ],
 [
 "重重",
 12.28,
-"zhong4 zhong4",
+"zhòng zhòng",
 "heavily; severely"
+],
+[
+"重伤",
+11.73,
+"zhòng shāng",
+"seriously hurt; serious injury"
+],
+[
+"重庆市",
+11.38,
+"Chóng qìng shì",
+"Chongqing city, formerly in Sichuan province, a municipality since 1997, short name 渝[Yu2]"
 ],
 [
 "看重",
 11.38,
-"kan4 zhong4",
+"kàn zhòng",
 "to regard as important; to care about"
+],
+[
+"至关重要",
+10.22,
+"zhì guān zhòng yào",
+"extremely important; vital; crucial; essential"
 ],
 [
 "重返",
 9.94,
-"chong2 fan3",
+"chóng fǎn",
 "to return to"
 ],
 [
 "重申",
 9.77,
-"chong2 shen1",
+"chóng shēn",
 "to reaffirm; to reiterate"
 ],
 [
 "多重",
 8.31,
-"duo1 chong2",
+"duō chóng",
 "multi- (faceted, cultural, ethnic etc)"
 ],
 [
 "重任",
 8.21,
-"zhong4 ren4",
+"zhòng rèn",
 "heavy responsibility"
+],
+[
+"权重",
+7.0,
+"quán zhòng",
+"weight (i.e. importance attached to sth)"
 ],
 [
 "重度",
 6.45,
-"zhong4 du4",
+"zhòng dù",
 "serious; severe"
 ],
 [
 "重型",
 6.43,
-"zhong4 xing2",
+"zhòng xíng",
 "heavy; heavy duty; large caliber"
+],
+[
+"侧重",
+6.38,
+"cè zhòng",
+"to place particular emphasis on"
 ],
 [
 "重罪",
 6.35,
-"zhong4 zui4",
+"zhòng zuì",
 "serious crime; felony"
+],
+[
+"稳重",
+5.83,
+"wěn zhòng",
+"steady; earnest; staid"
 ],
 [
 "重演",
 5.78,
-"chong2 yan3",
+"chóng yǎn",
 "to recur (of events, esp. adverse ones); to repeat (a performance)"
 ],
 [
 "重力",
 5.69,
-"zhong4 li4",
+"zhòng lì",
 "gravity"
+],
+[
+"重温",
+5.65,
+"chóng wēn",
+"to learn sth over again; to review; to brush up; to revive (memories, friendship etc)"
 ],
 [
 "厚重",
 5.5,
-"hou4 zhong4",
+"hòu zhòng",
 "thick; heavy; thickset (body); massive; generous; extravagant; profound; dignified"
+],
+[
+"重量级",
+5.48,
+"zhòng liàng jí",
+"heavyweight (boxing etc)"
+],
+[
+"重现",
+5.36,
+"chóng xiàn",
+"to reappear"
+],
+[
+"惨重",
+5.19,
+"cǎn zhòng",
+"disastrous"
 ]
 ],
 "strokes": [

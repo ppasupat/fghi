@@ -10,22 +10,29 @@
 "毕业",
 4,
 "bì yè",
-"to graduate; to finish school"
+"graduation; to graduate; to finish school"
 ],
 [
 "毕竟",
 5,
-"bìjìng",
-"after all; overall; when all is said and done"
+"bì jìng",
+"after all; all in all; when all is said and done; in the final analysis"
 ],
 [
 "完毕",
 6,
-"wánbì",
-"finish; end; complete"
+"wán bì",
+"to finish; to end; to complete"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"毕业生",
+36.72,
+"bì yè shēng",
+"graduate"
+]
+],
 "strokes": [
 "M 329 606 L 477 641 Q 501 648 490 660 Q 477 673 450 676 Q 414 676 330 634 C 303 621 300 599 329 606 Z",
 "M 330 634 Q 331 656 331 675 Q 331 696 334 712 Q 338 725 330 735 Q 308 756 286 766 Q 270 773 261 767 Q 251 761 259 747 Q 293 675 281 559 Q 275 514 235 471 Q 223 458 228 437 Q 235 412 247 400 Q 259 391 271 406 Q 293 431 469 522 Q 488 531 495 538 Q 499 547 491 549 Q 478 550 345 507 Q 321 500 324 521 Q 328 567 329 606 L 330 634 Z",

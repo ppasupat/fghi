@@ -10,219 +10,327 @@
 "到",
 2,
 "dào",
-"arrive (at a place); until (a time)"
-],
-[
-"迟到",
-3,
-"chídào",
-"arrive late"
+"to (a place); until (a time); up to; to go; to arrive; (verb complement denoting completion or result of an action)"
 ],
 [
 "遇到",
 3,
-"yùdào",
-"to meet; run into; come across"
+"yù dào",
+"to meet; to run into; to come across"
 ],
 [
-"到处",
-4,
-"dàochù",
-"everywhere; in all places; all over"
+"迟到",
+3,
+"chí dào",
+"to arrive late"
 ],
 [
 "到底",
 4,
 "dào dǐ",
-"after all; in the end (used in a question)"
+"finally; in the end; when all is said and done; after all; to the end; to the last"
+],
+[
+"到处",
+4,
+"dào chù",
+"everywhere"
 ],
 [
 "受到",
 4,
-"shòudào",
-"receive (influence, restriction, etc.); be subjected to"
+"shòu dào",
+"to receive (praise, an education, punishment etc); to be ...ed (praised, educated, punished etc)"
 ],
 [
-"报到",
+"到达",
 5,
-"bàodào",
-"report for duty; to check in; register"
+"dào dá",
+"to reach; to arrive"
 ],
 [
 "达到",
 5,
 "dá dào",
-"achieve; attain; to reach"
+"to reach; to achieve; to attain"
 ],
 [
-"到达",
+"报到",
 5,
-"dàodá",
-"to reach; arrive"
+"bào dào",
+"to report for duty; to check in; to register"
 ],
 [
 "周到",
 5,
-"zhōudào",
-"thoughtful; considerate; thorough"
-],
-[
-"归根到底",
-6,
-"guī gēn dào dǐ",
-"(saying) to sum it up ..."
+"zhōu dào",
+"thoughtful; considerate; attentive; thorough; also pr. [zhou1 dao5]"
 ],
 [
 "恰到好处",
 6,
 "qià dào hǎo chù",
-"just right; it's just perfect"
+"it's just perfect; it's just right"
+],
+[
+"归根到底",
+6,
+"guī gēn dào dǐ",
+"after all; in the final analysis; ultimately"
 ]
 ],
 "extraWords": [
 [
+"看到",
+798.38,
+"kàn dào",
+"to see"
+],
+[
 "找到",
 659.62,
-"zhao3 dao4",
+"zhǎo dào",
 "to find"
 ],
 [
 "得到",
 357.17,
-"de2 dao4",
+"dé dào",
 "to get; to obtain; to receive"
+],
+[
+"见到",
+307.54,
+"jiàn dào",
+"to see"
 ],
 [
 "到了",
 291.62,
-"dao4 liao3",
+"dào liǎo",
 "at last; finally; in the end"
+],
+[
+"听到",
+199.57,
+"tīng dào",
+"to hear"
 ],
 [
 "感到",
 197.1,
-"gan3 dao4",
+"gǎn dào",
 "to feel; to sense; to have the feeling that; to think that; to move; to affect"
 ],
 [
 "不到",
 178.93,
-"bu4 dao4",
+"bù dào",
 "not to arrive; not reaching; insufficient; less than"
 ],
 [
 "想到",
 154.85,
-"xiang3 dao4",
+"xiǎng dào",
 "to think of; to call to mind; to anticipate"
 ],
 [
 "直到",
 145.05,
-"zhi2 dao4",
+"zhí dào",
 "until"
 ],
 [
 "回到",
 142.7,
-"hui2 dao4",
+"huí dào",
 "to return to"
 ],
 [
 "收到",
 137.27,
-"shou1 dao4",
+"shōu dào",
 "to receive"
+],
+[
+"来到",
+135.01,
+"lái dào",
+"to come; to arrive"
 ],
 [
 "做到",
 113.78,
-"zuo4 dao4",
+"zuò dào",
 "to accomplish; to achieve"
+],
+[
+"拿到",
+51.49,
+"ná dào",
+"to get; to obtain"
+],
+[
+"赶到",
+51.03,
+"gǎn dào",
+"to hurry (to some place)"
 ],
 [
 "接到",
 46.44,
-"jie1 dao4",
+"jiē dào",
 "to receive (letter etc)"
 ],
 [
 "遭到",
 46.24,
-"zao1 dao4",
+"zāo dào",
 "to suffer; to meet with (sth unfortunate)"
 ],
 [
 "碰到",
 45.94,
-"peng4 dao4",
+"pèng dào",
 "to come across; to run into; to meet; to hit"
+],
+[
+"起到",
+42.84,
+"qǐ dào",
+"(in an expression of the form 起到…作用[qi3 dao4 xx5 zuo4 yong4]) to have (a (motivating etc) effect); to play (a (stabilizing etc) role)"
 ],
 [
 "等到",
 41.81,
-"deng3 dao4",
+"děng dào",
 "to wait until; by the time when (sth is ready etc)"
+],
+[
+"到来",
+39.54,
+"dào lái",
+"to arrive; arrival; advent"
 ],
 [
 "提到",
 39.23,
-"ti2 dao4",
+"tí dào",
 "to mention; to raise (a subject); to refer to"
 ],
 [
 "到位",
 35.19,
-"dao4 wei4",
+"dào wèi",
 "to get to the intended location; to be in place; to be in position; precise; well (done)"
 ],
 [
 "找不到",
 34.75,
-"zhao3 bu5 dao4",
+"zhǎo bu dào",
 "can't find"
+],
+[
+"谈到",
+33.93,
+"tán dào",
+"to refer to; to speak about; to talk about"
+],
+[
+"感觉到",
+30.43,
+"gǎn jué dào",
+"to feel; to sense; to detect; to perceive; to become aware"
+],
+[
+"签到",
+25.32,
+"qiān dào",
+"to register; to sign in"
+],
+[
+"到此为止",
+18.72,
+"dào cǐ wéi zhǐ",
+"to stop at this point; to end here; to call it a day"
 ],
 [
 "到家",
 18.29,
-"dao4 jia1",
+"dào jiā",
 "perfect; excellent; brought to the utmost degree"
 ],
 [
 "想不到",
 18.2,
-"xiang3 bu5 dao4",
+"xiǎng bu dào",
 "unexpected; hard to imagine; it had not occurred to me; who could have thought that"
+],
+[
+"到时候",
+15.01,
+"dào shí hòu",
+"when the moment comes; at that time"
 ],
 [
 "到期",
 13.75,
-"dao4 qi1",
+"dào qī",
 "to fall due (loan etc); to expire (visa etc); to mature (investment bond etc)"
+],
+[
+"关系到",
+12.64,
+"guān xì dào",
+"relates to; bears upon"
 ],
 [
 "到手",
 12.06,
-"dao4 shou3",
+"dào shǒu",
 "to take possession of; to get hold of"
 ],
 [
 "做不到",
 10.71,
-"zuo4 bu4 dao4",
+"zuò bù dào",
 "impossible"
+],
+[
+"到时",
+10.65,
+"dào shí",
+"at that (future) time"
+],
+[
+"到场",
+10.26,
+"dào chǎng",
+"to show up; present (at the scene)"
 ],
 [
 "料到",
 9.48,
-"liao4 dao4",
+"liào dào",
 "to foresee; to anticipate"
+],
+[
+"办到",
+7.57,
+"bàn dào",
+"to accomplish; to get sth done"
 ],
 [
 "意想不到",
 6.48,
-"yi4 xiang3 bu4 dao4",
+"yì xiǎng bù dào",
 "unexpected; previously unimagined"
+],
+[
+"闻到",
+6.32,
+"wén dào",
+"to smell; to sniff sth out; to perceive by smelling"
 ]
 ],
 "strokes": [

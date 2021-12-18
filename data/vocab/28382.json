@@ -9,17 +9,24 @@
 [
 "停滞",
 6,
-"tíngzhì",
-"stagnation; be at a standstill; bogged down"
+"tíng zhì",
+"stagnation; at a standstill; bogged down"
 ],
 [
 "滞留",
 6,
-"zhìliú",
-"detain; retention"
+"zhì liú",
+"to detain; retention"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"滞后",
+10.43,
+"zhì hòu",
+"to lag behind"
+]
+],
 "strokes": [
 "M 195 728 Q 220 703 247 671 Q 260 658 276 656 Q 286 656 293 669 Q 299 682 292 714 Q 288 733 258 751 Q 188 782 172 779 Q 166 775 167 762 Q 170 752 195 728 Z",
 "M 108 540 Q 156 489 190 473 Q 206 472 215 485 Q 221 498 218 515 Q 206 555 120 580 Q 102 584 93 580 Q 87 579 90 566 Q 91 554 108 540 Z",

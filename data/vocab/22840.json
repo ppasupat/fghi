@@ -10,16 +10,35 @@
 "夸",
 5,
 "kuā",
-"to boast; to praise; exaggerate"
+"see 夸克[kua1 ke4]"
+],
+[
+"夸",
+5,
+"kuā",
+"to boast; to exaggerate; to praise"
 ],
 [
 "夸张",
 5,
-"kuāzhāng",
-"exaggerate; overstate; exaggerated; overstated; vaunted; hyperbole"
+"kuā zhāng",
+"to exaggerate; overstated; exaggerated; hyperbole; (coll.) excessive; ridiculous; outrageous"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"夸奖",
+7.27,
+"kuā jiǎng",
+"to praise; to applaud; to compliment"
+],
+[
+"夸大",
+5.01,
+"kuā dà",
+"to exaggerate"
+]
+],
 "strokes": [
 "M 571 651 Q 590 657 734 671 Q 746 670 756 683 Q 757 696 733 708 Q 694 732 601 706 Q 541 696 471 678 L 410 668 Q 356 665 241 651 Q 210 648 234 629 Q 270 598 300 606 Q 340 615 388 622 L 451 633 Q 494 640 542 647 L 571 651 Z",
 "M 471 678 Q 495 738 525 788 Q 534 798 528 810 Q 521 822 488 841 Q 464 854 454 853 Q 439 849 441 832 Q 445 759 415 680 Q 412 676 410 668 L 388 622 Q 316 490 183 375 Q 137 336 72 287 Q 63 280 71 276 Q 78 273 91 278 Q 182 315 258 378 Q 334 435 382 511 Q 416 560 451 633 L 471 678 Z",

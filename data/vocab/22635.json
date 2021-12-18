@@ -9,11 +9,24 @@
 [
 "填空",
 4,
-"tiánkòng",
-"fill in the blanks; fill a vacancy"
+"tián kòng",
+"to fill a job vacancy; to fill in a blank (e.g. on questionnaire or exam paper)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"填写",
+12.73,
+"tián xiě",
+"to fill in a form; to write data in a box (on a questionnaire or web form)"
+],
+[
+"填补",
+8.11,
+"tián bǔ",
+"to fill a gap; to fill in a blank (on a form); to overcome a deficiency"
+]
+],
 "strokes": [
 "M 296 488 Q 315 495 339 500 Q 369 510 374 515 Q 381 524 376 532 Q 369 544 338 548 Q 316 551 298 544 L 249 524 Q 167 497 114 487 Q 77 477 106 463 Q 149 444 223 467 Q 235 471 249 474 L 296 488 Z",
 "M 287 293 Q 291 393 296 488 L 298 544 Q 301 661 320 722 Q 323 735 303 751 Q 266 770 241 775 Q 225 779 216 769 Q 209 762 217 746 Q 245 706 245 677 Q 248 604 249 524 L 249 474 Q 248 378 242 274 C 240 244 286 263 287 293 Z",

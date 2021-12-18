@@ -9,59 +9,132 @@
 [
 "高兴",
 1,
-"gāoxìng",
-"happy; glad"
+"gāo xìng",
+"happy; glad; willing (to do sth); in a cheerful mood"
 ],
 [
 "感兴趣",
 3,
-"gǎn xìngqù",
-"be interested in"
+"gǎn xìng qù",
+"to be interested"
 ],
 [
 "兴奋",
 4,
-"xīngfèn",
-"excitement； be excited"
+"xīng fèn",
+"excited; excitement; (physiology) excitation"
 ],
 [
 "复兴",
 6,
-"fùxīng",
-"revive; restore"
+"Fù xīng",
+"Fuxing district of Handan city 邯鄲市|邯郸市[Han2 dan1 shi4], Hebei; Fuxing or Fuhsing township in Taoyuan county 桃園縣|桃园县[Tao2 yuan2 xian4], north Taiwan"
 ],
 [
-"兴隆",
+"复兴",
 6,
-"xīnglóng",
-"prosperous; flourishing"
-],
-[
-"兴旺",
-6,
-"xīngwàng",
-"prosperous; thriving; to prosper"
+"fù xīng",
+"to revive; to rejuvenate"
 ],
 [
 "兴高采烈",
 6,
 "xìng gāo cǎi liè",
-"in high spirits"
+"happy and excited (idiom); in high spirits; in great delight"
+],
+[
+"兴旺",
+6,
+"xīng wàng",
+"prosperous; thriving; to prosper; to flourish"
+],
+[
+"兴隆",
+6,
+"Xīng lóng",
+"Xinglong county in Chengde 承德[Cheng2 de2], Hebei"
+],
+[
+"兴隆",
+6,
+"xīng lóng",
+"prosperous; thriving; flourishing"
 ],
 [
 "兴致勃勃",
 6,
-"xìngzhìbóbó",
-"in high spirits"
+"xìng zhì bó bó",
+"to become exhilarated (idiom); in high spirits; full of zest"
 ],
 [
 "振兴",
 6,
-"zhènxīng",
-"develop vigorously; promote; revive; revitalize; invigorate; re-energize"
+"Zhèn xīng",
+"Zhengxing district of Dandong city 丹東市|丹东市[Dan1 dong1 shi4], Liaoning"
+],
+[
+"振兴",
+6,
+"zhèn xīng",
+"to revive; to revitalize; to invigorate; to re-energize"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"兴趣",
+116.91,
+"xìng qù",
+"interest (desire to know about sth); interest (thing in which one is interested); hobby; CL:個|个[ge4]"
+],
+[
+"新兴",
+13.17,
+"Xīn xīng",
+"Xinxing county in Yunfu 雲浮|云浮[Yun2 fu2], Guangdong; Xinxing or Hsinhsing district of Kaohsiung city 高雄市[Gao1 xiong2 shi4], south Taiwan"
+],
+[
+"新兴",
+13.17,
+"xīn xīng",
+"(of markets, industries, infectious diseases etc) rising; emerging; in the ascendant"
+],
+[
+"有兴趣",
+11.89,
+"yǒu xìng qù",
+"interested; interesting"
+],
+[
+"兴建",
+11.88,
+"xīng jiàn",
+"to build; to construct"
+],
+[
+"兴起",
+10.67,
+"xīng qǐ",
+"to rise; to spring up; to burgeon; to be aroused; to come into vogue"
+],
+[
+"中兴",
+8.46,
+"zhōng xīng",
+"resurgence; recovery; restoration"
+],
+[
+"绍兴",
+5.67,
+"Shào xīng",
+"Shaoxing prefecture level city in Zhejiang"
+],
+[
+"兴奋剂",
+5.05,
+"xīng fèn jì",
+"stimulant; doping (in athletics)"
+]
+],
 "strokes": [
 "M 234 578 Q 271 544 313 502 Q 326 487 343 487 Q 355 487 361 501 Q 367 516 359 548 Q 349 593 231 629 Q 215 633 208 631 Q 202 627 204 614 Q 207 602 234 578 Z",
 "M 405 686 Q 444 646 486 600 Q 498 587 512 585 Q 522 585 529 597 Q 535 610 529 640 Q 525 668 488 693 Q 449 714 405 732 Q 390 736 384 735 Q 380 732 379 719 Q 380 709 405 686 Z",

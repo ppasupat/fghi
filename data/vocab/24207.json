@@ -9,57 +9,57 @@
 [
 "顺序",
 4,
-"shùnxù",
+"shùn xù",
 "sequence; order"
 ],
 [
 "程序",
 5,
-"chéngxù",
-"procedure; sequence; program"
+"chéng xù",
+"procedures; sequence; order; computer program"
 ],
 [
 "秩序",
 5,
-"zhìxù",
-"order; sequence"
+"zhì xù",
+"order (orderly); order (sequence); social order; the state (of society); CL:個|个[ge4]"
 ],
 [
 "次序",
 6,
-"cìxù",
+"cì xù",
 "sequence; order"
-],
-[
-"序言",
-6,
-"xùyán",
-"preface of a book, used to explain the book's objective"
 ],
 [
 "循序渐进",
 6,
 "xún xù jiàn jìn",
-"make steady progress incrementally; step by step program"
+"in sequence, step by step (idiom); to make steady progress incrementally"
+],
+[
+"序言",
+6,
+"xù yán",
+"preface; introductory remarks; preamble; prelude"
 ]
 ],
 "extraWords": [
 [
 "序列",
 10.16,
-"xu4 lie4",
+"xù liè",
 "sequence"
 ],
 [
 "序幕",
 8.62,
-"xu4 mu4",
+"xù mù",
 "prologue"
 ],
 [
 "工序",
 6.52,
-"gong1 xu4",
+"gōng xù",
 "working procedure; process"
 ]
 ],

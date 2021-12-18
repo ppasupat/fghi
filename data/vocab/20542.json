@@ -7,25 +7,38 @@
 },
 "words": [
 [
-"倾听",
-6,
-"qīngtīng",
-"listen attentively; heed (other people's opinions)"
-],
-[
 "倾向",
 6,
-"qīngxiàng",
-"trend; tendency; inclination"
+"qīng xiàng",
+"trend; tendency; orientation"
+],
+[
+"倾听",
+6,
+"qīng tīng",
+"to listen attentively"
 ],
 [
 "倾斜",
 6,
-"qīngxié",
-"incline; lean; to slant; to slope; to tilt"
+"qīng xié",
+"to incline; to lean; to slant; to slope; to tilt"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"倾销",
+10.36,
+"qīng xiāo",
+"to dump (goods, products)"
+],
+[
+"倾诉",
+7.01,
+"qīng sù",
+"to say everything (that is on one's mind)"
+]
+],
 "strokes": [
 "M 222 535 Q 267 596 315 679 Q 342 731 367 757 Q 376 767 371 781 Q 367 794 338 815 Q 311 833 293 832 Q 274 831 283 809 Q 298 775 285 746 Q 248 650 189 560 Q 132 475 54 379 Q 44 369 42 362 Q 39 352 53 354 Q 89 360 191 495 Q 195 499 199 505 L 222 535 Z",
 "M 199 505 Q 220 433 222 405 Q 221 383 221 357 Q 220 255 192 151 Q 180 100 214 61 Q 215 58 218 56 Q 234 40 246 66 Q 261 106 260 151 Q 263 395 272 451 Q 279 478 270 488 Q 231 530 222 535 C 199 554 191 534 199 505 Z",

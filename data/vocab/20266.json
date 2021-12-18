@@ -9,17 +9,30 @@
 [
 "伪造",
 6,
-"wěizào",
-"forge; to fake; to counterfeit"
+"wěi zào",
+"to forge; to fake; to counterfeit"
 ],
 [
 "虚伪",
 6,
-"xūwěi",
+"xū wěi",
 "false; hypocritical; artificial; sham"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"伪装",
+17.83,
+"wěi zhuāng",
+"to pretend to be (asleep etc); to disguise oneself as; pretense; disguise; (military) to camouflage; camouflage"
+],
+[
+"假冒伪劣",
+6.88,
+"jiǎ mào wěi liè",
+"cheap quality counterfeit (goods); low-quality commodities"
+]
+],
 "strokes": [
 "M 246 501 Q 297 565 353 654 Q 381 705 406 729 Q 416 739 411 754 Q 407 767 378 792 Q 350 811 330 811 Q 311 810 319 786 Q 334 752 320 724 Q 280 630 220 542 Q 162 457 83 364 Q 73 354 70 347 Q 66 335 81 338 Q 114 341 219 468 L 246 501 Z",
 "M 219 468 Q 240 423 242 345 Q 242 222 218 123 Q 208 78 242 27 Q 243 27 245 24 Q 263 8 275 35 Q 290 75 289 122 Q 286 362 293 416 Q 300 443 291 454 Q 249 499 246 501 C 225 522 208 496 219 468 Z",

@@ -10,24 +10,24 @@
 "住",
 1,
 "zhù",
-"to live; reside; to stop"
+"to live; to dwell; to stay; to reside; to stop; (suffix indicating firmness, steadiness, or coming to a halt)"
 ],
 [
 "忍不住",
 5,
 "rěn bu zhù",
-"cannot help but; unable to bear"
+"cannot help; unable to bear"
 ],
 [
 "居住",
 6,
-"jūzhù",
-"reside; dwell; to live (in a place)"
+"jū zhù",
+"to reside; to dwell; to live in a place; resident in"
 ],
 [
 "住宅",
 6,
-"zhùzhái",
+"zhù zhái",
 "residence; tenement"
 ]
 ],
@@ -35,97 +35,127 @@
 [
 "抓住",
 133.58,
-"zhua1 zhu4",
+"zhuā zhù",
 "to grab; to capture"
+],
+[
+"记住",
+104.75,
+"jì zhu",
+"to remember; to bear in mind; to learn by heart"
 ],
 [
 "住房",
 83.37,
-"zhu4 fang2",
+"zhù fáng",
 "housing"
 ],
 [
 "住手",
 55.95,
-"zhu4 shou3",
+"zhù shǒu",
 "to desist; to stop; to stay one's hand"
 ],
 [
 "不住",
 48.39,
-"bu4 zhu4",
+"bù zhù",
 "repeatedly; continuously; constantly; unable to (resist, conceal etc)"
 ],
 [
 "住院",
 26.57,
-"zhu4 yuan4",
+"zhù yuàn",
 "to be in hospital; to be hospitalized"
 ],
 [
 "站住",
 24.15,
-"zhan4 zhu4",
+"zhàn zhù",
 "to stand"
 ],
 [
 "保住",
 15.47,
-"bao3 zhu4",
+"bǎo zhù",
 "to preserve; to save"
+],
+[
+"住处",
+14.31,
+"zhù chù",
+"residence; dwelling; dwelling place"
 ],
 [
 "住嘴",
 12.73,
-"zhu4 zui3",
+"zhù zuǐ",
 "to hold one's tongue; Shut up!"
+],
+[
+"挡住",
+12.28,
+"dǎng zhù",
+"to obstruct"
 ],
 [
 "卡住",
 11.6,
-"ka3 zhu4",
+"kǎ zhù",
 "to jam; to choke; to clutch; also pr. [qia3 zhu4]"
+],
+[
+"住户",
+10.9,
+"zhù hù",
+"household; inhabitant; householder"
 ],
 [
 "住宿",
 9.61,
-"zhu4 su4",
+"zhù sù",
 "to stay at; lodging; accommodation"
+],
+[
+"拦住",
+9.42,
+"lán zhù",
+"to stop; to bar the way"
 ],
 [
 "打住",
 9.15,
-"da3 zhu4",
+"dǎ zhù",
 "to stop; to halt"
 ],
 [
 "住所",
 7.99,
-"zhu4 suo3",
+"zhù suǒ",
 "habitation; dwelling place; residence; CL:處|处[chu4]"
 ],
 [
 "住口",
 6.95,
-"zhu4 kou3",
+"zhù kǒu",
 "shut up; shut your mouth; stop talking"
 ],
 [
 "住址",
 6.38,
-"zhu4 zhi3",
+"zhù zhǐ",
 "address"
 ],
 [
 "堵住",
 5.99,
-"du3 zhu4",
+"dǔ zhù",
 "to block up"
 ],
 [
 "握住",
 5.68,
-"wo4 zhu4",
+"wò zhù",
 "to grip; to hold"
 ]
 ],

@@ -9,17 +9,54 @@
 [
 "闪电",
 5,
-"shǎndiàn",
-"lightning"
+"shǎn diàn",
+"lightning; CL:道[dao4]"
 ],
 [
 "闪烁",
 6,
-"shǎnshuò",
-"to twinkle; to flicker; glimmer"
+"shǎn shuò",
+"flickering; twinkling; evasive; vague (of speech)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"闪闪",
+9.51,
+"shǎn shǎn",
+"flickering; sparkling; glistening; glittering"
+],
+[
+"闪开",
+9.27,
+"shǎn kāi",
+"to get out of the way"
+],
+[
+"闪亮",
+8.32,
+"shǎn liàng",
+"brilliant; shiny; a flare; to glisten; to twinkle"
+],
+[
+"闪耀",
+6.71,
+"shǎn yào",
+"to glint; to glitter; to sparkle; to radiate"
+],
+[
+"闪光",
+6.05,
+"shǎn guāng",
+"flash"
+],
+[
+"闪过",
+5.88,
+"shǎn guò",
+"to flash through (one's mind); to dodge (away from pursuers)"
+]
+],
 "strokes": [
 "M 319 751 Q 379 670 404 666 Q 417 665 426 683 Q 429 696 420 719 Q 410 738 384 751 Q 344 775 326 779 Q 316 782 314 769 Q 313 762 319 751 Z",
 "M 206 687 Q 231 627 230 555 Q 234 285 189 154 Q 170 97 205 52 L 207 50 Q 219 34 231 49 Q 270 94 270 251 Q 270 555 290 650 Q 291 671 274 681 Q 249 703 220 712 Q 210 715 202 705 Q 198 699 206 687 Z",

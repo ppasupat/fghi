@@ -10,34 +10,89 @@
 "乱",
 4,
 "luàn",
-"disorder; confusion; arbitrarily"
+"in confusion or disorder; in a confused state of mind; disorder; upheaval; riot; illicit sexual relations; to throw into disorder; to mix up; indiscriminate; random; arbitrary"
+],
+[
+"混乱",
+6,
+"hùn luàn",
+"confusion; chaos; disorder"
 ],
 [
 "捣乱",
 6,
 "dǎo luàn",
-"cause a disturbance; look for trouble"
-],
-[
-"胡乱",
-6,
-"húluàn",
-"carelessly; recklessly"
-],
-[
-"混乱",
-6,
-"hùnluàn",
-"confusion; chaotic"
+"to disturb; to look for trouble; to stir up a row; to bother sb intentionally"
 ],
 [
 "扰乱",
 6,
-"rǎoluàn",
-"disturb; perturb; harass"
+"rǎo luàn",
+"to disturb; to perturb; to harass"
+],
+[
+"胡乱",
+6,
+"hú luàn",
+"careless; reckless; casually; absent-mindedly; at will; at random; any old how"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"乱七八糟",
+11.27,
+"luàn qī bā zāo",
+"everything in disorder (idiom); in a hideous mess; at sixes and sevens"
+],
+[
+"乱动",
+8.11,
+"luàn dòng",
+"to fiddle with; to tamper with; to meddle with; to move randomly; to flail about"
+],
+[
+"紊乱",
+8.07,
+"wěn luàn",
+"disorder; chaos"
+],
+[
+"乱世",
+6.69,
+"luàn shì",
+"the world in chaos; troubled times; (in Buddhism) the mortal world"
+],
+[
+"凌乱",
+6.57,
+"líng luàn",
+"messy; disarrayed; disheveled; chaos"
+],
+[
+"错乱",
+6.32,
+"cuò luàn",
+"in disorder; deranged (mentally)"
+],
+[
+"乱跑",
+5.96,
+"luàn pǎo",
+"to run around all over the place"
+],
+[
+"骚乱",
+5.54,
+"sāo luàn",
+"disturbance; riot; to create a disturbance"
+],
+[
+"乱来",
+5.22,
+"luàn lái",
+"to act recklessly; to mess around"
+]
+],
 "strokes": [
 "M 337 644 Q 373 660 405 679 Q 447 698 484 708 Q 500 709 503 717 Q 507 727 494 738 Q 437 774 403 770 Q 396 766 396 756 Q 399 714 176 599 Q 172 590 178 588 Q 236 607 297 628 L 337 644 Z",
 "M 363 465 Q 382 472 512 490 Q 524 489 533 503 Q 534 516 509 527 Q 469 551 383 519 Q 374 518 368 515 L 316 501 Q 286 495 80 459 Q 49 455 73 436 Q 106 411 151 420 Q 223 438 315 456 L 363 465 Z",

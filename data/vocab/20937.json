@@ -9,29 +9,42 @@
 [
 "凉快",
 4,
-"liángkuai",
-"nice and cool; pleasantly cool"
+"liáng kuai",
+"nice and cold; pleasantly cool"
 ],
 [
 "着凉",
 5,
 "zháo liáng",
-"catch a cold"
+"to catch cold; Taiwan pr. [zhao1 liang2]"
 ],
 [
 "荒凉",
 6,
-"huāngliáng",
+"huāng liáng",
 "desolate"
 ],
 [
 "凄凉",
 6,
-"qīliáng",
-"desolate; feel like no one likes you"
+"qī liáng",
+"mournful; miserable"
+],
+[
+"凄凉",
+6,
+"qī liáng",
+"desolate (place)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"清凉",
+5.79,
+"qīng liáng",
+"cool; refreshing; (of clothing) skimpy; revealing"
+]
+],
 "strokes": [
 "M 220 656 Q 251 629 285 598 Q 301 583 319 584 Q 331 585 336 600 Q 342 618 331 651 Q 319 687 213 711 Q 195 715 188 711 Q 182 707 184 692 Q 188 679 220 656 Z",
 "M 130 230 Q 117 229 118 210 Q 125 132 159 108 Q 166 101 177 103 Q 184 103 188 129 Q 197 165 322 424 Q 331 439 330 445 Q 331 455 321 450 Q 303 440 175 269 Q 160 250 130 230 Z",

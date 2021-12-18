@@ -9,23 +9,78 @@
 [
 "公园",
 3,
-"gōngyuán",
-"public park"
+"gōng yuán",
+"park (for public recreation); CL:個|个[ge4],座[zuo4]"
 ],
 [
 "幼儿园",
 5,
-"yòu'éryuán",
+"yòu ér yuán",
 "kindergarten; nursery school"
 ],
 [
 "园林",
 6,
-"yuánlín",
-"gardens; park; landscape"
+"yuán lín",
+"gardens; park; landscape garden"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"校园",
+32.82,
+"xiào yuán",
+"campus"
+],
+[
+"花园",
+31.22,
+"huā yuán",
+"garden; CL:座[zuo4],個|个[ge4]"
+],
+[
+"园区",
+18.05,
+"yuán qū",
+"site developed for a group of related enterprises; (industrial or technology) park"
+],
+[
+"家园",
+15.1,
+"jiā yuán",
+"home; homeland"
+],
+[
+"乐园",
+13.88,
+"lè yuán",
+"paradise"
+],
+[
+"动物园",
+9.57,
+"dòng wù yuán",
+"zoo; CL:個|个[ge4]"
+],
+[
+"庄园",
+6.47,
+"zhuāng yuán",
+"manor; feudal land; villa and park"
+],
+[
+"田园",
+5.61,
+"tián yuán",
+"fields; countryside; rural; bucolic"
+],
+[
+"圆明园",
+5.25,
+"Yuán míng yuán",
+"Yuanmingyuan, the Old Summer Palace, destroyed by the British and French army in 1860"
+]
+],
 "strokes": [
 "M 272 720 Q 257 735 233 744 Q 223 750 209 745 Q 200 741 207 726 Q 210 710 216 694 Q 247 625 216 267 Q 209 204 187 129 Q 169 63 208 15 Q 218 -1 232 13 Q 239 23 244 36 L 251 78 Q 255 115 257 172 Q 279 671 285 676 C 289 706 289 707 272 720 Z",
 "M 735 64 Q 756 43 781 -6 Q 791 -27 805 -26 Q 818 -25 825 -5 Q 855 46 831 238 Q 801 667 825 696 Q 826 700 830 702 Q 840 717 840 724 Q 839 737 807 758 Q 753 795 709 781 Q 690 777 656 770 Q 506 754 327 723 Q 299 719 272 720 C 242 719 256 669 285 676 Q 294 677 306 682 Q 319 686 441 707 Q 592 729 708 738 Q 733 739 739 727 Q 764 702 769 392 Q 775 205 777 160 Q 780 126 766 82 C 759 53 717 88 735 64 Z",

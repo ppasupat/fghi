@@ -7,222 +7,336 @@
 },
 "words": [
 [
-"流利",
-4,
-"liúlì",
-"fluent"
-],
-[
 "顺利",
 4,
-"shùnlì",
-"go smoothly; without a hitch; successful"
+"shùn lì",
+"smoothly; without a hitch"
 ],
 [
-"利润",
-5,
-"lìrùn",
-"profit"
-],
-[
-"利息",
-5,
-"lìxī",
-"interest (on a loan)"
-],
-[
-"利益",
-5,
-"lìyì",
-"benefit; (in sb.'s) interest"
+"流利",
+4,
+"liú lì",
+"fluent"
 ],
 [
 "利用",
 5,
-"lìyòng",
-"to use; to make use of; to exploit"
+"lì yòng",
+"to exploit; to make use of; to use; to take advantage of; to utilize"
 ],
 [
 "权利",
 5,
-"quánlì",
-"right; privilege"
+"quán lì",
+"right (i.e. an entitlement to sth); (classical) power and wealth"
 ],
 [
 "胜利",
 5,
-"shènglì",
-"victory; triumph"
+"shèng lì",
+"victory; CL:個|个[ge4]"
+],
+[
+"利益",
+5,
+"lì yì",
+"benefit; (in sb's) interest; CL:個|个[ge4]"
 ],
 [
 "有利",
 5,
-"yǒulì",
-"advantageous; beneficial"
+"yǒu lì",
+"advantageous; to have advantages; favorable"
 ],
 [
-"便利",
-6,
-"biànlì",
-"convenient; easy; facilitate"
+"利润",
+5,
+"lì rùn",
+"profits"
 ],
 [
-"锋利",
-6,
-"fēnglì",
-"sharp (i.e. a knife blade); incisive; to the point"
+"利息",
+5,
+"lì xī",
+"interest (on a loan); CL:筆|笔[bi3]"
 ],
 [
 "福利",
 6,
-"fúlì",
-"material benefits; welfare; well-being"
+"fú lì",
+"material benefit; benefit in kind; (social) welfare"
 ],
 [
-"急功近利",
+"便利",
 6,
-"jígōngjìnlì",
-"eager for success and profit"
+"biàn lì",
+"convenient; easy; to facilitate"
 ],
 [
-"利害",
+"锋利",
 6,
-"lìhai",
-"serious; formidable; devastating; (-hài: advantages and disadvantages)"
-],
-[
-"水利",
-6,
-"shuǐlì",
-"water conservancy; irrigation works"
-],
-[
-"盈利",
-6,
-"yínglì",
-"profit; gain"
+"fēng lì",
+"sharp (e.g. knife blade); incisive; to the point"
 ],
 [
 "专利",
 6,
-"zhuānlì",
-"patent"
+"zhuān lì",
+"patent; sth uniquely enjoyed (or possessed etc) by a certain group of people; monopoly"
+],
+[
+"盈利",
+6,
+"yíng lì",
+"profit; gain; to make profits"
+],
+[
+"利害",
+6,
+"lì hài",
+"pros and cons; advantages and disadvantages; gains and losses"
+],
+[
+"利害",
+6,
+"lì hai",
+"terrible; formidable; serious; devastating; tough; capable; sharp; severe; fierce"
+],
+[
+"水利",
+6,
+"shuǐ lì",
+"water conservancy; irrigation works"
+],
+[
+"急功近利",
+6,
+"jí gōng jìn lì",
+"seeking instant benefit (idiom); shortsighted vision, looking only for fast return"
 ]
 ],
 "extraWords": [
 [
+"有利于",
+61.58,
+"yǒu lì yú",
+"to be advantageous to; to be beneficial for"
+],
+[
 "利率",
 60.42,
-"li4 lu:4",
+"lì lu:4",
 "interest rates"
 ],
 [
 "意大利",
 57.55,
-"Yi4 da4 li4",
+"Yì dà lì",
 "Italy; Italian"
+],
+[
+"澳大利亚",
+38.56,
+"Ào dà lì yà",
+"Australia"
 ],
 [
 "不利",
 26.11,
-"bu4 li4",
+"bù lì",
 "unfavorable; disadvantageous; harmful; detrimental"
 ],
 [
 "亨利",
 22.83,
-"Heng1 li4",
+"Hēng lì",
 "Henry (name); henry (unit of inductance)"
 ],
 [
 "比利",
 19.94,
-"Bi3 li4",
+"Bǐ lì",
 "Pelé (1940-), Edson Arantes Do Nascimento, Brazilian football star"
 ],
 [
 "哈利",
 17.44,
-"Ha1 li4",
+"Hā lì",
 "Harry"
+],
+[
+"获利",
+17.23,
+"huò lì",
+"profit; to obtain benefits; benefits obtained"
 ],
 [
 "威利",
 11.39,
-"Wei1 li4",
+"Wēi lì",
 "Wylie (name); Turrell Wylie, originator of the Wylie transcription of Tibetan script"
+],
+[
+"叙利亚",
+10.79,
+"Xù lì yà",
+"Syria"
 ],
 [
 "失利",
 10.12,
-"shi1 li4",
+"shī lì",
 "to lose; to suffer defeat"
 ],
 [
 "利物浦",
 9.77,
-"Li4 wu4 pu3",
+"Lì wù pǔ",
 "Liverpool (England)"
 ],
 [
 "犀利",
 9.46,
-"xi1 li4",
+"xī lì",
 "sharp; incisive; penetrating"
+],
+[
+"维多利亚",
+9.42,
+"Wéi duō lì yà",
+"Victoria (name); Victoria, capital of the Seychelles"
+],
+[
+"红利",
+9.33,
+"hóng lì",
+"bonus; dividend"
+],
+[
+"比利时",
+9.14,
+"Bǐ lì shí",
+"Belgium"
+],
+[
+"加利福尼亚",
+8.76,
+"Jiā lì fú ní yà",
+"California"
 ],
 [
 "法拉利",
 8.43,
-"Fa3 la1 li4",
+"Fǎ lā lì",
 "Ferrari"
+],
+[
+"奥地利",
+7.92,
+"Ào dì lì",
+"Austria"
+],
+[
+"凯利",
+7.72,
+"Kǎi lì",
+"Kelly (person name)"
 ],
 [
 "吉利",
 7.44,
-"Ji2 li4",
+"Jí lì",
 "Geely, Chinese car make"
 ],
 [
 "吉利",
 7.44,
-"ji2 li4",
+"jí lì",
 "auspicious; lucky; propitious"
+],
+[
+"利于",
+7.23,
+"lì yú",
+"to be beneficial; to be good for"
 ],
 [
 "智利",
 7.1,
-"Zhi4 li4",
+"Zhì lì",
 "Chile"
+],
+[
+"赢利",
+6.84,
+"yíng lì",
+"gain; profit; to make a profit"
 ],
 [
 "匈牙利",
 6.69,
-"Xiong1 ya2 li4",
+"Xiōng yá lì",
 "Hungary"
+],
+[
+"战利品",
+6.68,
+"zhàn lì pǐn",
+"spoils of war"
+],
+[
+"飞利浦",
+6.52,
+"Fēi lì pǔ",
+"Philips (company)"
 ],
 [
 "互利",
 6.37,
-"hu4 li4",
+"hù lì",
 "mutually beneficial"
+],
+[
+"尼日利亚",
+6.29,
+"Ní rì lì yà",
+"Nigeria"
+],
+[
+"玛利亚",
+6.08,
+"Mǎ lì yà",
+"Mary (biblical name)"
+],
+[
+"利润率",
+6.07,
+"lì rùn lu:4",
+"profit margin"
 ],
 [
 "暴利",
 6.06,
-"bao4 li4",
+"bào lì",
 "sudden huge profits"
+],
+[
+"胜利者",
+5.84,
+"shèng lì zhě",
+"victor; winner"
 ],
 [
 "套利",
 5.22,
-"tao4 li4",
+"tào lì",
 "arbitrage"
 ],
 [
 "塔利班",
 5.15,
-"Ta3 li4 ban1",
-"Taliban (Farsi: student), Afghan guerrilla faction"
+"Tǎ lì bān",
+"the Taliban, Islamist organization that emerged in the mid-1990s in Afghanistan"
 ]
 ],
 "strokes": [

@@ -9,117 +9,189 @@
 [
 "不管",
 4,
-"bùguǎn",
-"no matter (what, how, etc.); regardless of"
-],
-[
-"管理",
-4,
-"guǎnlǐ",
-"supervise; manage"
+"bù guǎn",
+"not to be concerned; regardless of; no matter"
 ],
 [
 "尽管",
 4,
-"jǐnguǎn",
-"despite; although; even though | freely; without hesitation"
+"jǐn guǎn",
+"despite; although; even though; in spite of; unhesitatingly; do not hesitate (to ask, complain etc); (go ahead and do it) without hesitating"
+],
+[
+"管理",
+4,
+"guǎn lǐ",
+"to supervise; to manage; to administer; management; administration; CL:個|个[ge4]"
 ],
 [
 "管子",
 5,
-"guǎnzi",
-"tube; pipe; drinking straw"
+"Guǎn zǐ",
+"Guanzi or Guan Zhong 管仲 (-645 BC), famous politician of Qi 齊國|齐国 of Spring and Autumn period; Guanzi, classical book containing writings of Guan Zhong and his school"
 ],
 [
-"保管",
-6,
-"bǎoguǎn",
-"assure; take care of; surely"
-],
-[
-"管辖",
-6,
-"guǎnxiá",
-"administer; have jurisdiction (over)"
+"管子",
+5,
+"guǎn zi",
+"tube; pipe; drinking straw; CL:根[gen1]"
 ],
 [
 "主管",
 6,
-"zhǔguǎn",
-"person in charge of (a position, etc.); preside over; Chief Operating Officer (COO)"
+"zhǔ guǎn",
+"in charge; responsible for; person in charge; manager"
+],
+[
+"保管",
+6,
+"bǎo guǎn",
+"to hold in safekeeping; to have in one's care; to guarantee; certainly; surely; custodian; curator"
+],
+[
+"管辖",
+6,
+"guǎn xiá",
+"to administer; to have jurisdiction (over)"
 ]
 ],
 "extraWords": [
 [
+"监管",
+76.82,
+"jiān guǎn",
+"to oversee; to take charge of; to supervise; to administer; supervisory; supervision"
+],
+[
 "血管",
 48.93,
-"xue4 guan3",
+"xuè guǎn",
 "vein; artery; CL:根[gen1]"
+],
+[
+"不管怎样",
+37.83,
+"bù guǎn zěn yàng",
+"in any case; no matter what"
 ],
 [
 "管用",
 25.37,
-"guan3 yong4",
+"guǎn yòng",
 "efficacious; useful"
 ],
 [
 "管道",
 21.36,
-"guan3 dao4",
+"guǎn dào",
 "tubing; pipeline; (fig.) channel; means"
 ],
 [
 "托管",
 15.72,
-"tuo1 guan3",
+"tuō guǎn",
 "trusteeship; to trust"
+],
+[
+"物业管理",
+12.48,
+"wù yè guǎn lǐ",
+"property management"
 ],
 [
 "接管",
 11.27,
-"jie1 guan3",
+"jiē guǎn",
 "to take over; to assume control"
 ],
 [
 "管制",
 11.19,
-"guan3 zhi4",
+"guǎn zhì",
 "to control; to restrict; (PRC law) non-custodial sentence with specified restrictions on one's activities for up to 3 years (e.g. not to participate in demonstrations)"
+],
+[
+"管理员",
+9.9,
+"guǎn lǐ yuán",
+"manager; administrator"
 ],
 [
 "水管",
 9.18,
-"shui3 guan3",
+"shuǐ guǎn",
 "water pipe"
 ],
 [
 "管家",
 9.12,
-"guan3 jia1",
+"guǎn jiā",
 "housekeeper; butler; manage one's household"
 ],
 [
 "心血管",
 8.99,
-"xin1 xue4 guan3",
+"xīn xuè guǎn",
 "cardiovascular"
+],
+[
+"导管",
+7.23,
+"dǎo guǎn",
+"duct; conduit; vessel; catheter"
+],
+[
+"气管",
+7.1,
+"qì guǎn",
+"windpipe; trachea; respiratory tract; air duct; gas pipe"
+],
+[
+"质量管理",
+6.83,
+"zhì liàng guǎn lǐ",
+"quality management"
 ],
 [
 "分管",
 6.75,
-"fen1 guan3",
+"fēn guǎn",
 "to be put in charge of; to be responsible for; branched passage"
+],
+[
+"支气管",
+6.62,
+"zhī qì guǎn",
+"bronchial tube; bronchus"
+],
+[
+"管线",
+6.51,
+"guǎn xiàn",
+"pipeline; general term for pipes, cables etc"
 ],
 [
 "食管",
 6.23,
-"shi2 guan3",
+"shí guǎn",
 "esophagus"
+],
+[
+"管闲事",
+5.99,
+"guǎn xián shì",
+"to meddle; to be a \"nosy Parker\"; to be too inquisitive about other people's business"
+],
+[
+"管理费",
+5.64,
+"guǎn lǐ fèi",
+"management fee"
 ],
 [
 "掌管",
 5.34,
-"zhang3 guan3",
+"zhǎng guǎn",
 "in charge of; to control"
 ]
 ],

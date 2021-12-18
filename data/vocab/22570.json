@@ -7,19 +7,26 @@
 },
 "words": [
 [
-"不堪",
-6,
-"bùkān",
-"cannot bear/stand; utterly"
-],
-[
 "难堪",
 6,
-"nánkān",
-"hard to take; endure; embarrassed"
+"nán kān",
+"hard to take; embarrassed"
+],
+[
+"不堪",
+6,
+"bù kān",
+"cannot bear; cannot stand; utterly; extremely"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"堪称",
+11.76,
+"kān chēng",
+"can be rated as; can be said to be"
+]
+],
 "strokes": [
 "M 296 477 Q 318 486 346 493 Q 377 503 382 509 Q 389 516 384 525 Q 377 535 347 540 Q 320 541 297 531 L 248 510 Q 179 486 121 473 Q 87 463 114 450 Q 156 432 209 450 Q 228 456 248 462 L 296 477 Z",
 "M 289 296 Q 293 390 296 477 L 297 531 Q 298 621 317 717 Q 321 729 299 744 Q 262 763 237 766 Q 221 770 212 761 Q 205 752 213 737 Q 241 700 241 672 Q 245 594 248 510 L 248 462 Q 248 374 246 277 C 245 247 288 266 289 296 Z",

@@ -9,101 +9,174 @@
 [
 "别",
 2,
+"Bié",
+"surname Bie"
+],
+[
+"别",
+2,
 "bié",
-"don't do something; don't | depart; | other; difference; distinguish"
+"to leave; to depart; to separate; to distinguish; to classify; other; another; don't ...!; to pin; to stick (sth) in"
+],
+[
+"别",
+2,
+"biè",
+"to make sb change their ways, opinions etc"
 ],
 [
 "别人",
 3,
-"biéren",
-"other people; others"
+"bié ren",
+"other people; others; other person"
 ],
 [
 "特别",
 3,
-"tèbié",
-"special; especially; particular"
+"tè bié",
+"especially; special; particular; unusual"
 ],
 [
 "区别",
 4,
-"qūbié",
-"difference; distinguish"
+"qū bié",
+"difference; to distinguish; to discriminate; to make a distinction; CL:個|个[ge4]"
 ],
 [
 "性别",
 4,
-"xìngbié",
-"gender; sex; sexual distinction"
-],
-[
-"分别",
-5,
-"fēnbié",
-"distinguish; split up; difference; to part"
+"xìng bié",
+"gender; sex"
 ],
 [
 "告别",
 5,
-"gàobié",
-"say goodbye to; to leave; to part"
+"gào bié",
+"to leave; to bid farewell to; to say good-bye to"
+],
+[
+"分别",
+5,
+"fēn bié",
+"to part or leave each other; to distinguish; difference; in different ways; differently; separately or individually"
 ],
 [
 "个别",
 5,
-"gèbié",
-"individual; specific; isolated; very few"
-],
-[
-"别墅",
-6,
-"biéshù",
-"villa"
-],
-[
-"别致",
-6,
-"biézhì",
-"unique; unconventional; fancy"
-],
-[
-"别扭",
-6,
-"bièniu",
-"awkward; unnatural"
-],
-[
-"差别",
-6,
-"chābié",
-"difference; disparity"
+"gè bié",
+"individual; specific; respective; just one or two"
 ],
 [
 "级别",
 6,
-"jíbié",
-"rank; level; grade"
+"jí bié",
+"(military) rank; level; grade"
 ],
 [
-"鉴别",
+"别墅",
 6,
-"jiànbié",
-"differentiate; distinguish"
-],
-[
-"派别",
-6,
-"pàibié",
-"denomination; group; school; faction; school of thought; sect"
+"bié shù",
+"villa; CL:幢[zhuang4],座[zuo4]"
 ],
 [
 "识别",
 6,
-"shíbié",
-"identify; distinguish; discern"
+"shí bié",
+"to distinguish; to discern; to identify; to recognize"
+],
+[
+"差别",
+6,
+"chā bié",
+"difference; distinction; disparity"
+],
+[
+"别扭",
+6,
+"biè niu",
+"awkward; difficult; uncomfortable; not agreeing; at loggerheads; gauche"
+],
+[
+"鉴别",
+6,
+"jiàn bié",
+"to differentiate; to distinguish"
+],
+[
+"派别",
+6,
+"pài bié",
+"denomination; group; school; faction; school of thought"
+],
+[
+"别致",
+6,
+"bié zhì",
+"unusual; unique"
+],
+[
+"别致",
+6,
+"bié zhì",
+"variant of 別緻|别致[bie2 zhi4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"别的",
+185.12,
+"bié de",
+"else; other"
+],
+[
+"别无选择",
+23.67,
+"bié wú xuǎn zé",
+"to have no other choice"
+],
+[
+"别说",
+13.99,
+"bié shuō",
+"to say nothing of; not to mention; let alone"
+],
+[
+"道别",
+9.81,
+"dào bié",
+"leave-taking; to say goodbye"
+],
+[
+"别处",
+9.0,
+"bié chù",
+"elsewhere"
+],
+[
+"类别",
+8.33,
+"lèi bié",
+"classification; category"
+],
+[
+"别看",
+6.1,
+"bié kàn",
+"don't be fooled by the fact that"
+],
+[
+"离别",
+5.34,
+"lí bié",
+"to leave (on a long journey); to part from sb"
+],
+[
+"辨别",
+5.0,
+"biàn bié",
+"to differentiate; to distinguish; to discriminate"
+]
+],
 "strokes": [
 "M 247 698 Q 237 705 201 714 Q 188 718 185 712 Q 178 706 186 690 Q 211 630 223 533 Q 224 505 240 484 Q 256 462 263 477 Q 267 489 268 508 L 267 537 Q 258 627 254 663 C 251 693 250 696 247 698 Z",
 "M 459 563 Q 484 651 521 679 Q 537 698 522 715 Q 506 728 452 752 Q 433 759 412 750 Q 361 728 247 698 C 218 690 224 659 254 663 Q 273 664 406 696 Q 421 700 427 694 Q 436 685 433 666 Q 424 615 412 573 C 404 544 450 534 459 563 Z",

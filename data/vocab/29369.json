@@ -9,17 +9,36 @@
 [
 "犹豫",
 5,
-"yóuyù",
-"hesitate; hesitant; undecided"
+"yóu yù",
+"to hesitate"
 ],
 [
 "犹如",
 6,
-"yóurú",
-"just as; similar to; appearing to be"
+"yóu rú",
+"similar to; appearing to be"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"犹太人",
+32.43,
+"Yóu tài rén",
+"Jew"
+],
+[
+"犹太",
+20.93,
+"Yóu tài",
+"Jew; Jewish; Judea (in Biblical Palestine)"
+],
+[
+"毫不犹豫",
+6.94,
+"háo bù yóu yù",
+"without the slightest hesitation"
+]
+],
 "strokes": [
 "M 309 585 Q 342 633 406 713 Q 418 723 405 740 Q 368 777 341 777 Q 331 776 331 761 Q 331 695 282 623 L 253 585 Q 252 584 249 580 Q 210 531 163 493 Q 123 463 102 444 Q 92 429 108 433 Q 165 436 278 548 L 309 585 Z",
 "M 312 383 Q 324 235 274 109 Q 265 91 254 88 Q 238 85 195 99 Q 167 109 162 104 Q 158 98 168 86 Q 208 50 235 17 Q 251 -10 262 -8 Q 272 -9 292 13 Q 385 127 356 404 Q 346 512 309 585 L 282 623 Q 240 668 153 696 Q 140 700 137 689 Q 136 676 146 659 Q 156 643 175 642 Q 217 630 253 585 L 278 548 Q 293 509 302 466 L 312 383 Z",

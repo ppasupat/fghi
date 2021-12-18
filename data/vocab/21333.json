@@ -7,61 +7,164 @@
 },
 "words": [
 [
-"菜单",
-3,
-"càidān",
-"menu"
-],
-[
 "简单",
 3,
-"jiǎndān",
+"jiǎn dān",
 "simple; not complicated"
 ],
 [
-"单纯",
-5,
-"dānchún",
-"simple; pure; merely"
-],
-[
-"单调",
-5,
-"dāndiào",
-"monotonous; dull"
+"菜单",
+3,
+"cài dān",
+"menu; CL:份[fen4],張|张[zhang1]"
 ],
 [
 "单独",
 5,
-"dāndú",
-"alone"
+"dān dú",
+"alone; by oneself; on one's own"
 ],
 [
 "单位",
 5,
-"dānwèi",
-"unit; work unit"
+"dān wèi",
+"unit (of measure); unit (group of people as a whole); work unit (place of employment, esp. in the PRC prior to economic reform); CL:個|个[ge4]"
+],
+[
+"单纯",
+5,
+"dān chún",
+"simple; pure; unsophisticated; merely; purely"
 ],
 [
 "单元",
 5,
-"dānyuán",
-"unit; entrance number; staircase (for residential buildings)"
+"dān yuán",
+"unit (forming an entity); element; (in a residential building) entrance or staircase"
 ],
 [
-"传单",
-6,
-"chuándān",
-"leaflet; flier; pamphlet"
+"单调",
+5,
+"dān diào",
+"monotonous"
 ],
 [
 "床单",
 6,
-"chuángdān",
-"bed sheet"
+"chuáng dān",
+"bed sheet; CL:條|条[tiao2],件[jian4],張|张[zhang1],床[chuang2]"
+],
+[
+"传单",
+6,
+"chuán dān",
+"leaflet; flier; pamphlet"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"名单",
+65.94,
+"míng dān",
+"list of names"
+],
+[
+"单身",
+36.88,
+"dān shēn",
+"unmarried; single"
+],
+[
+"单一",
+22.4,
+"dān yī",
+"single; only; sole"
+],
+[
+"孤单",
+18.36,
+"gū dān",
+"lone; lonely; loneliness"
+],
+[
+"订单",
+16.49,
+"dìng dān",
+"(purchase) order"
+],
+[
+"清单",
+15.38,
+"qīng dān",
+"list of items"
+],
+[
+"单子",
+11.77,
+"dān zǐ",
+"the only son of a family; (functional programming or philosophy) monad"
+],
+[
+"单子",
+11.77,
+"dān zi",
+"list of items; bill; form; bedsheet"
+],
+[
+"账单",
+10.76,
+"zhàng dān",
+"bill"
+],
+[
+"单词",
+8.61,
+"dān cí",
+"word; CL:個|个[ge4]"
+],
+[
+"单打",
+7.47,
+"dān dǎ",
+"singles (in sports); CL:場|场[chang3]"
+],
+[
+"女单",
+7.27,
+"nu:3 dān",
+"women's singles (in tennis, badminton etc)"
+],
+[
+"单价",
+7.11,
+"dān jià",
+"unit price"
+],
+[
+"男单",
+6.85,
+"nán dān",
+"men's singles (in tennis, badminton etc)"
+],
+[
+"买单",
+6.61,
+"mǎi dān",
+"to pay the restaurant bill"
+],
+[
+"单车",
+6.38,
+"dān chē",
+"(coll.) bike; bicycle (esp. bike-share bicycle)"
+],
+[
+"单项",
+6.32,
+"dān xiàng",
+"single-item"
+]
+],
 "strokes": [
 "M 347 726 Q 377 698 410 662 Q 422 649 437 649 Q 447 648 453 661 Q 459 674 452 704 Q 446 737 345 773 Q 330 777 324 775 Q 320 771 320 759 Q 321 749 347 726 Z",
 "M 538 632 Q 584 669 611 695 Q 665 755 698 772 Q 719 785 705 803 Q 689 819 660 831 Q 633 841 620 837 Q 607 834 613 820 Q 622 792 517 635 Q 516 631 514 628 C 502 603 515 613 538 632 Z",

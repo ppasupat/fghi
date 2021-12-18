@@ -9,57 +9,69 @@
 [
 "母亲",
 4,
-"mǔqin",
-"mother"
+"mǔ qīn",
+"mother; also pr. [mu3 qin5]; CL:個|个[ge4]"
 ],
 [
 "字母",
 5,
-"zìmǔ",
-"letter (of the alphabet)"
-],
-[
-"伯母",
-6,
-"bómǔ",
-"aunt; wife of father's older brother"
-],
-[
-"母语",
-6,
-"mǔyǔ",
-"native/mother tongue"
+"zì mǔ",
+"letter (of the alphabet); CL:個|个[ge4]"
 ],
 [
 "岳母",
 6,
-"yuèmǔ",
-"wife's mother; mother-in-law"
+"yuè mǔ",
+"wife's mother, mother-in-law"
+],
+[
+"伯母",
+6,
+"bó mǔ",
+"wife of father's elder brother; aunt; (polite form of address for a woman who is about the age of one's mother); CL:個|个[ge4]"
+],
+[
+"母语",
+6,
+"mǔ yǔ",
+"native language; mother tongue; (linguistics) parent language"
 ]
 ],
 "extraWords": [
 [
 "父母",
 151.46,
-"fu4 mu3",
+"fù mǔ",
 "father and mother; parents"
 ],
 [
 "祖母",
 17.2,
-"zu3 mu3",
+"zǔ mǔ",
 "father's mother; paternal grandmother"
+],
+[
+"圣母",
+7.33,
+"Shèng mǔ",
+"the Virgin Mary"
+],
+[
+"圣母",
+7.33,
+"shèng mǔ",
+"goddess"
 ],
 [
 "母子",
 6.14,
-"mu3 zi3",
+"mǔ zǐ",
 "mother and child; parent and subsidiary (companies); principal and interest"
 ],
 [
 "母女",
 5.27,
-"mu3 nu:3",
+"mǔ nu:3",
 "mother-daughter"
 ]
 ],

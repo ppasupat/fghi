@@ -10,248 +10,416 @@
 "外",
 2,
 "wài",
-"outer; outside; in addition; foreign"
+"outside; in addition; foreign; external"
 ],
 [
 "另外",
 4,
-"lìngwài",
-"another; in addition; besides"
-],
-[
-"此外",
-5,
-"cǐwài",
-"besides; in addition; moreover"
-],
-[
-"格外",
-5,
-"géwài",
-"especially; additionally"
-],
-[
-"外公",
-5,
-"wàigōng",
-"maternal grandfather"
-],
-[
-"外交",
-5,
-"wàijiāo",
-"diplomacy; foreign affairs"
+"lìng wài",
+"additional; in addition; besides; separate; other; moreover; furthermore"
 ],
 [
 "意外",
 5,
-"yìwài",
-"unexpected; accident; mishap"
+"yì wài",
+"unexpected; accident; mishap; CL:個|个[ge4]"
+],
+[
+"此外",
+5,
+"cǐ wài",
+"besides; in addition; moreover; furthermore"
+],
+[
+"外交",
+5,
+"wài jiāo",
+"diplomacy; diplomatic; foreign affairs; CL:個|个[ge4]"
+],
+[
+"外公",
+5,
+"wài gōng",
+"(coll.) mother's father; maternal grandfather"
+],
+[
+"格外",
+5,
+"gé wài",
+"especially; particularly"
+],
+[
+"外表",
+6,
+"wài biǎo",
+"external; outside; outward appearance"
 ],
 [
 "额外",
 6,
-"éwài",
+"é wài",
 "extra; added; additional"
 ],
 [
 "例外",
 6,
-"lìwài",
-"(make an) exception"
-],
-[
-"外表",
-6,
-"wàibiǎo",
-"outward appearance; external; outside"
-],
-[
-"外行",
-6,
-"wàiháng",
-"layman; amateur; nonprofessional"
+"lì wài",
+"exception; to be an exception"
 ],
 [
 "外界",
 6,
-"wàijiè",
+"wài jiè",
 "the outside world; external"
+],
+[
+"外行",
+6,
+"wài háng",
+"layman; amateur"
 ],
 [
 "外向",
 6,
-"wàixiàng",
-"extroverted; export-oriented (economy)"
+"wài xiàng",
+"extroverted (personality); (economics etc) export-oriented"
 ]
 ],
 "extraWords": [
 [
 "外面",
 167.02,
-"wai4 mian4",
+"wài miàn",
 "outside (also pr. [wai4 mian5] for this sense); surface; exterior; external appearance"
+],
+[
+"国外",
+85.6,
+"guó wài",
+"abroad; external (affairs); overseas; foreign"
 ],
 [
 "之外",
 68.54,
-"zhi1 wai4",
+"zhī wài",
 "outside; excluding"
+],
+[
+"对外",
+60.4,
+"duì wài",
+"external; foreign; pertaining to external or foreign (affairs)"
+],
+[
+"外国",
+48.05,
+"wài guó",
+"foreign (country); CL:個|个[ge4]"
+],
+[
+"外资",
+47.19,
+"wài zī",
+"foreign investment"
 ],
 [
 "以外",
 39.84,
-"yi3 wai4",
+"yǐ wài",
 "apart from; other than; except for; external; outside of; on the other side of; beyond"
+],
+[
+"国内外",
+35.18,
+"guó nèi wài",
+"domestic and international; at home and abroad"
 ],
 [
 "外地",
 34.62,
-"wai4 di4",
+"wài dì",
 "parts of the country other than where one is"
 ],
 [
 "外套",
 32.76,
-"wai4 tao4",
+"wài tào",
 "coat; jacket; CL:件[jian4]"
+],
+[
+"外汇",
+29.64,
+"wài huì",
+"foreign (currency) exchange"
+],
+[
+"外观",
+28.2,
+"wài guān",
+"exterior appearance; to view sth from the outside; exterior condition"
+],
+[
+"内外",
+25.38,
+"nèi wài",
+"inside and outside; domestic and foreign; approximately; about"
+],
+[
+"外来",
+23.7,
+"wài lái",
+"external; foreign; outside"
 ],
 [
 "外星人",
 23.43,
-"wai4 xing1 ren2",
+"wài xīng rén",
 "space alien; extraterrestrial"
 ],
 [
 "外部",
 23.08,
-"wai4 bu4",
+"wài bù",
 "external part; external"
 ],
 [
 "外科",
 21.94,
-"wai4 ke1",
+"wài kē",
 "surgery (branch of medicine)"
 ],
 [
 "外出",
 21.57,
-"wai4 chu1",
+"wài chū",
 "to go out; to go away (on a trip etc)"
 ],
 [
 "外商",
 19.57,
-"wai4 shang1",
+"wài shāng",
 "foreign businessman"
 ],
 [
 "外交部",
 19.52,
-"Wai4 jiao1 bu4",
+"Wài jiāo bù",
 "Ministry of Foreign Affairs; foreign office; Dept. of State"
+],
+[
+"外贸",
+19.25,
+"wài mào",
+"foreign trade"
 ],
 [
 "在外",
 18.1,
-"zai4 wai4",
+"zài wài",
 "outer; excluded"
 ],
 [
 "中外",
 16.59,
-"zhong1 wai4",
+"zhōng wài",
 "Sino-foreign; Chinese-foreign; home and abroad"
 ],
 [
 "外形",
 16.45,
-"wai4 xing2",
+"wài xíng",
 "figure; shape; external form; contour"
 ],
 [
 "外援",
 15.79,
-"wai4 yuan2",
-"external help; foreign aid"
+"wài yuán",
+"foreign aid; external aid; (sports) foreign player; player recruited from overseas"
 ],
 [
 "外婆",
 14.49,
-"wai4 po2",
+"wài pó",
 "(coll.) mother's mother; maternal grandmother"
+],
+[
+"外语",
+14.17,
+"wài yǔ",
+"foreign language; CL:門|门[men2]"
 ],
 [
 "外遇",
 14.13,
-"wai4 yu4",
+"wài yù",
 "extramarital affair"
+],
+[
+"外国人",
+13.71,
+"wài guó rén",
+"foreigner"
+],
+[
+"户外",
+13.17,
+"hù wài",
+"outdoor"
+],
+[
+"外电",
+10.77,
+"wài diàn",
+"reports from foreign news agencies"
+],
+[
+"紫外线",
+10.68,
+"zǐ wài xiàn",
+"ultraviolet ray"
 ],
 [
 "除此之外",
 10.39,
-"chu2 ci3 zhi1 wai4",
+"chú cǐ zhī wài",
 "apart from this; in addition to this"
+],
+[
+"外长",
+10.36,
+"wài zhǎng",
+"foreign minister; secretary of state; minister of foreign affairs"
+],
+[
+"逍遥法外",
+9.54,
+"xiāo yáo fǎ wài",
+"unfettered and beyond the law (idiom); evading retribution; getting away with it (e.g. crimes); still at large"
+],
+[
+"外壳",
+9.36,
+"wài ké",
+"envelope; outer shell; hull; cover; case"
 ],
 [
 "外人",
 9.35,
-"wai4 ren2",
+"wài rén",
 "outsider; foreigner; stranger"
+],
+[
+"外围",
+8.67,
+"wài wéi",
+"surrounding"
 ],
 [
 "老外",
 8.45,
-"lao3 wai4",
+"lǎo wài",
 "(coll.) foreigner (esp. non Asian person); layman; amateur"
+],
+[
+"门外",
+8.38,
+"mén wài",
+"outside the door"
 ],
 [
 "除外",
 8.2,
-"chu2 wai4",
+"chú wài",
 "to exclude; not including sth (when counting or listing); except for"
+],
+[
+"海内外",
+8.13,
+"hǎi nèi wài",
+"domestic and international; at home and abroad"
 ],
 [
 "室外",
 7.87,
-"shi4 wai4",
+"shì wài",
 "outdoor"
 ],
 [
 "外籍",
 7.01,
-"wai4 ji2",
+"wài jí",
 "foreign (i.e. of foreign nationality)"
+],
+[
+"外伤",
+6.77,
+"wài shāng",
+"injury; wound; trauma"
 ],
 [
 "外加",
 6.75,
-"wai4 jia1",
+"wài jiā",
 "in addition; extra"
 ],
 [
 "外在",
 6.68,
-"wai4 zai4",
+"wài zài",
 "external; extrinsic"
+],
+[
+"外资企业",
+6.55,
+"wài zī qǐ yè",
+"abbr. for 外商獨資企業|外商独资企业[wai4 shang1 du2 zi1 qi3 ye4]"
 ],
 [
 "野外",
 6.5,
-"ye3 wai4",
+"yě wài",
 "countryside; areas outside the city"
+],
+[
+"外币",
+5.67,
+"wài bì",
+"foreign currency"
+],
+[
+"外交部长",
+5.52,
+"wài jiāo bù zhǎng",
+"minister of foreign affairs"
 ],
 [
 "海外",
 5.4,
-"hai3 wai4",
+"hǎi wài",
 "overseas; abroad"
+],
+[
+"外头",
+5.37,
+"wài tou",
+"outside; out"
+],
+[
+"外侧",
+5.13,
+"wài cè",
+"outer side"
+],
+[
+"外边",
+5.04,
+"wài bian",
+"outside; outer surface; abroad; place other than one's home"
 ],
 [
 "外衣",
 5.02,
-"wai4 yi1",
+"wài yī",
 "outer clothing; semblance; appearance"
 ]
 ],

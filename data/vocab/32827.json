@@ -7,19 +7,32 @@
 },
 "words": [
 [
-"无耻",
-6,
-"wúchǐ",
-"without any sense of shame; shameless; audaciousness"
-],
-[
 "羞耻",
 6,
-"xiūchǐ",
+"xiū chǐ",
 "(a feeling of) shame"
+],
+[
+"无耻",
+6,
+"wú chǐ",
+"without any sense of shame; unembarrassed; shameless"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"耻辱",
+8.85,
+"chǐ rǔ",
+"disgrace; shame; humiliation"
+],
+[
+"可耻",
+6.2,
+"kě chǐ",
+"shameful; disgraceful; ignominious"
+]
+],
 "strokes": [
 "M 426 700 Q 477 709 522 714 Q 532 713 541 726 Q 542 738 519 747 Q 486 771 425 748 Q 245 711 152 697 Q 124 693 146 676 Q 167 658 185 654 L 229 661 Q 299 679 388 693 L 426 700 Z",
 "M 185 654 Q 204 615 205 581 Q 206 547 207 243 C 207 213 250 226 250 256 Q 251 319 252 374 L 252 407 Q 253 456 254 502 L 255 536 Q 255 584 258 613 Q 265 637 229 661 C 205 679 173 681 185 654 Z",

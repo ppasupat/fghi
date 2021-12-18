@@ -10,80 +10,92 @@
 "免费",
 4,
 "miǎn fèi",
-"free (of charge); no cost"
+"free (of charge)"
 ],
 [
 "避免",
 5,
-"bìmiǎn",
-"avoid; avert; prevent"
+"bì miǎn",
+"to avert; to prevent; to avoid; to refrain from"
 ],
 [
 "难免",
 5,
-"nánmiǎn",
-"hard to avoid; difficult to escape from"
-],
-[
-"不免",
-6,
-"bùmiǎn",
-"unavoidable"
+"nán miǎn",
+"hard to avoid; difficult to escape from; will inevitably"
 ],
 [
 "免得",
 6,
-"miǎnde",
+"miǎn de",
 "so as not to; so as to avoid"
 ],
 [
 "免疫",
 6,
-"miǎnyì",
-"immune"
-],
-[
-"未免",
-6,
-"wèimiǎn",
-"(of something that one finds has gone too far); rather a bit too"
+"miǎn yì",
+"immunity (to disease)"
 ],
 [
 "以免",
 6,
-"yǐmiǎn",
-"so as not to; in order to avoid; lest"
+"yǐ miǎn",
+"in order to avoid; so as not to"
+],
+[
+"未免",
+6,
+"wèi miǎn",
+"unavoidably; can't help; really; rather"
+],
+[
+"不免",
+6,
+"bù miǎn",
+"inevitably"
 ]
 ],
 "extraWords": [
 [
 "豁免",
 24.86,
-"huo4 mian3",
+"huò miǎn",
 "to exempt; exemption"
+],
+[
+"豁免权",
+22.15,
+"huò miǎn quán",
+"immunity from prosecution"
 ],
 [
 "不可避免",
 10.9,
-"bu4 ke3 bi4 mian3",
+"bù kě bì miǎn",
 "unavoidably"
+],
+[
+"减免",
+8.18,
+"jiǎn miǎn",
+"to reduce or waive (taxes, punishment, rent, tuition etc)"
 ],
 [
 "赦免",
 7.63,
-"she4 mian3",
+"shè miǎn",
 "to pardon; to absolve; to exempt from punishment"
 ],
 [
 "免疫力",
 6.3,
-"mian3 yi4 li4",
+"miǎn yì lì",
 "immunity"
 ],
 [
 "免除",
 5.51,
-"mian3 chu2",
+"miǎn chú",
 "to prevent; to avoid; to excuse; to exempt; to relieve; (of a debt) to remit"
 ]
 ],

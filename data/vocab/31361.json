@@ -9,29 +9,66 @@
 [
 "突然",
 3,
-"tūrán",
-"sudden; abrupt"
+"tū rán",
+"sudden; abrupt; unexpected"
 ],
 [
 "突出",
 5,
-"tūchū",
-"prominent; stand out; give prominence to"
+"tū chū",
+"prominent; outstanding; to give prominence to; to protrude; to project"
 ],
 [
 "冲突",
 6,
-"chōngtū",
-"conflict; clash"
+"chōng tū",
+"conflict; to conflict; clash of opposing forces; collision (of interests); contention"
 ],
 [
 "突破",
 6,
-"tūpò",
-"break through; breakthrough"
+"tū pò",
+"to break through; to make a breakthrough; to surmount (an obstacle); (sports) to break through the opponent's defense"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"突发",
+17.06,
+"tū fā",
+"to burst out suddenly; sudden outburst"
+],
+[
+"突击",
+11.64,
+"tū jī",
+"sudden and violent attack; assault; fig. rushed job; concentrated effort to finish a job quickly"
+],
+[
+"突变",
+7.91,
+"tū biàn",
+"sudden change; mutation"
+],
+[
+"突然间",
+6.04,
+"tū rán jiān",
+"suddenly"
+],
+[
+"突破口",
+5.98,
+"tū pò kǒu",
+"breach; gap; breakthrough point"
+],
+[
+"突袭",
+5.19,
+"tū xí",
+"surprise attack"
+]
+],
 "strokes": [
 "M 462 784 Q 496 762 533 735 Q 551 722 569 726 Q 581 727 584 744 Q 588 762 572 794 Q 562 815 525 827 Q 489 834 448 838 Q 430 839 424 835 Q 418 831 422 816 Q 429 804 462 784 Z",
 "M 267 646 Q 257 665 248 673 Q 229 689 226 661 Q 226 618 177 574 Q 144 559 175 483 Q 190 455 213 483 Q 249 549 273 616 C 277 628 277 628 267 646 Z",

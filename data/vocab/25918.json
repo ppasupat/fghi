@@ -10,171 +10,243 @@
 "放",
 3,
 "fàng",
-"put; to place; to release; to free"
+"to put; to place; to release; to free; to let go; to let out; to set off (fireworks)"
 ],
 [
 "放心",
 3,
-"fàngxīn",
-"relax; feel relieved; rest assured"
+"fàng xīn",
+"to feel relieved; to feel reassured; to be at ease"
 ],
 [
 "放弃",
 4,
-"fàngqì",
-"abandon; renounce; give up"
-],
-[
-"放暑假",
-4,
-"fàng shǔjià",
-"have summer vacation"
+"fàng qì",
+"to renounce; to abandon; to give up"
 ],
 [
 "放松",
 4,
-"fàngsōng",
-"relax; loosen; slacken"
+"fàng sōng",
+"to loosen; to relax"
+],
+[
+"放暑假",
+4,
+"fang4 shu3 jia4",
+"to have a summer vacation"
 ],
 [
 "播放",
 5,
-"bōfàng",
-"broadcast; transmit"
+"bō fàng",
+"to broadcast; to transmit"
 ],
 [
 "开放",
 5,
-"kāifàng",
-"(of flowers) to bloom; open up; to be open-minded; lift a ban, restriction, etc.; release; liberalization; China's 1979 open policy"
-],
-[
-"放大",
-6,
-"fàngdà",
-"enlarge; amplify"
-],
-[
-"放射",
-6,
-"fàngshè",
-"radiate; radioactive"
-],
-[
-"解放",
-6,
-"jiěfàng",
-"liberate"
-],
-[
-"排放",
-6,
-"páifàng",
-"to discharge; emit"
+"kāi fàng",
+"to bloom; to open; to be open (to the public); to open up (to the outside); to be open-minded; unrestrained by convention; unconstrained in one's sexuality"
 ],
 [
 "释放",
 6,
-"shìfàng",
-"release; set free; liberate (a prisoner)"
+"shì fàng",
+"to release; to set free; to liberate (a prisoner); to discharge"
+],
+[
+"解放",
+6,
+"jiě fàng",
+"to liberate; to emancipate; liberation; refers to the Communists' victory over the Nationalists in 1949; CL:次[ci4]"
+],
+[
+"放大",
+6,
+"fàng dà",
+"to enlarge; to magnify"
+],
+[
+"放射",
+6,
+"fàng shè",
+"to radiate; radioactive"
+],
+[
+"排放",
+6,
+"pái fàng",
+"emission; discharge; exhaust (gas etc)"
 ]
 ],
 "extraWords": [
 [
 "放下",
 94.08,
-"fang4 xia4",
+"fàng xià",
 "to lay down; to put down; to let go of; to relinquish; to set aside; to lower (the blinds etc)"
+],
+[
+"放开",
+82.07,
+"fàng kāi",
+"to let go; to release"
+],
+[
+"发放",
+36.56,
+"fā fàng",
+"to provide; to give; to grant"
+],
+[
+"改革开放",
+33.41,
+"gǎi gé kāi fàng",
+"to reform and open to the outside world; refers to Deng Xiaoping's policies from around 1980"
 ],
 [
 "放手",
 33.33,
-"fang4 shou3",
+"fàng shǒu",
 "to let go one's hold; to give up; to have a free hand"
 ],
 [
 "放假",
 26.15,
-"fang4 jia4",
+"fàng jià",
 "to have a holiday or vacation"
+],
+[
+"解放军",
+24.34,
+"Jiě fàng jūn",
+"People's Liberation Army (PRC armed forces)"
 ],
 [
 "放屁",
 16.96,
-"fang4 pi4",
+"fàng pì",
 "to fart; to break wind; to talk nonsense; Utter rubbish!"
+],
+[
+"放过",
+15.23,
+"fàng guò",
+"to let off; to let slip by; to let sb get away with sth"
 ],
 [
 "投放",
 14.02,
-"tou2 fang4",
+"tóu fàng",
 "to input; to throw in; to unload; to put into circulation"
+],
+[
+"放学",
+12.82,
+"fàng xué",
+"to dismiss students at the end of the school day"
 ],
 [
 "放置",
 11.53,
-"fang4 zhi4",
+"fàng zhì",
 "to put"
 ],
 [
 "流放",
 11.12,
-"liu2 fang4",
+"liú fàng",
 "to exile; to banish; to deport; to float (logs) downstream"
+],
+[
+"摆放",
+10.39,
+"bǎi fàng",
+"to set up; to arrange; to lay out"
 ],
 [
 "放出",
 9.86,
-"fang4 chu1",
+"fàng chū",
 "to let off; to give out"
 ],
 [
 "存放",
 9.07,
-"cun2 fang4",
+"cún fàng",
 "to deposit; to store; to leave in sb's care"
 ],
 [
 "放不下",
 8.59,
-"fang4 bu5 xia4",
+"fàng bu xià",
 "not to have room to put sth; to be unable to let go"
 ],
 [
 "放映",
 8.36,
-"fang4 ying4",
+"fàng yìng",
 "to show (a movie); to screen"
+],
+[
+"放宽",
+7.95,
+"fàng kuān",
+"to relax (a rule); to ease (restrictions); to extend (a time limit); to let out (a garment); to expand; to broaden"
+],
+[
+"绽放",
+7.83,
+"zhàn fàng",
+"to blossom"
+],
+[
+"中国人民解放军",
+7.46,
+"Zhōng guó Rén mín Jiě fàng jūn",
+"Chinese People's Liberation Army (PLA)"
 ],
 [
 "放送",
 6.51,
-"fang4 song4",
+"fàng sòng",
 "to broadcast; to announce over loudspeakers"
 ],
 [
 "放射性",
 6.22,
-"fang4 she4 xing4",
+"fàng shè xìng",
 "radioactive"
 ],
 [
 "放逐",
 5.9,
-"fang4 zhu2",
+"fàng zhú",
 "to banish; to deport; to send into exile; to be marooned"
 ],
 [
 "停放",
 5.78,
-"ting2 fang4",
+"tíng fàng",
 "to park (a car etc); to moor (a boat etc); to leave sth (in a place)"
+],
+[
+"放纵",
+5.35,
+"fàng zòng",
+"to indulge; to pamper; to connive at; permissive; indulgent; self-indulgent; unrestrained; undisciplined; uncultured; boorish"
 ],
 [
 "下放",
 5.25,
-"xia4 fang4",
+"xià fàng",
 "to delegate; to decentralize; to demote a party cadre to work on the shop floor or in the countryside"
+],
+[
+"放慢",
+5.06,
+"fàng màn",
+"to reduce the pace (of movements, steps etc)"
 ]
 ],
 "strokes": [

@@ -10,212 +10,272 @@
 "交",
 4,
 "jiāo",
-"deliver; turn over; intersect; to pay (money); friendship"
+"to hand over; to deliver; to pay (money); to turn over; to make friends; to intersect (lines); variant of 跤[jiao1]"
 ],
 [
 "交流",
 4,
-"jiāoliú",
-"communicate; exchange; give and take; interaction; to alternate"
+"jiāo liú",
+"to exchange; exchange; communication; interaction; to have social contact (with sb)"
 ],
 [
 "交通",
 4,
-"jiāotōng",
-"traffic; transportation"
-],
-[
-"打交道",
-5,
-"dǎ jiāodao",
-"come into contact with; to deal with"
+"jiāo tōng",
+"to be connected; traffic; transportation; communications; liaison"
 ],
 [
 "交换",
 5,
-"jiāohuàn",
-"to exchange; to swap; to switch"
-],
-[
-"交际",
-5,
-"jiāojì",
-"socialize; social intercourse; communication"
+"jiāo huàn",
+"to exchange; to swap; to switch (telecom); commutative (math); to commute"
 ],
 [
 "交往",
 5,
-"jiāowǎng",
-"to associate; to contact"
+"jiāo wǎng",
+"to associate (with); to have contact (with); to hang out (with); to date; (interpersonal) relationship; association; contact"
+],
+[
+"打交道",
+5,
+"dǎ jiāo dào",
+"to come into contact with; to have dealings"
 ],
 [
 "外交",
 5,
-"wàijiāo",
-"diplomacy; foreign affairs"
+"wài jiāo",
+"diplomacy; diplomatic; foreign affairs; CL:個|个[ge4]"
 ],
 [
-"成交",
-6,
-"chéngjiāo",
-"complete a contract; clinch a deal; to seal"
-],
-[
-"交叉",
-6,
-"jiāochā",
-"cross; intersect"
-],
-[
-"交代",
-6,
-"jiāodài",
-"explain; account for; hand over"
-],
-[
-"交涉",
-6,
-"jiāoshè",
-"negotiate; discuss a matter with the opposing side"
+"交际",
+5,
+"jiāo jì",
+"communication; social intercourse"
 ],
 [
 "交易",
 6,
-"jiāoyì",
-"business transaction; deal; trade"
+"jiāo yì",
+"(business) transaction; business deal; CL:筆|笔[bi3]"
 ],
 [
-"立交桥",
+"成交",
 6,
-"lìjiāoqiáo",
-"overpass; one road goes on top of another; cloverleaf intersection"
+"chéng jiāo",
+"to complete a contract; to reach a deal"
+],
+[
+"交叉",
+6,
+"jiāo chā",
+"to cross; to intersect; to overlap"
+],
+[
+"交代",
+6,
+"jiāo dài",
+"to hand over; to explain; to make clear; to brief (sb); to account for; to justify oneself; to confess; (coll.) to finish"
+],
+[
+"交涉",
+6,
+"jiāo shè",
+"to negotiate (with); to have dealings (with)"
 ],
 [
 "杂交",
 6,
-"zájiāo",
-"create a hybrid; cross-fertilize"
+"zá jiāo",
+"to hybridize; to crossbreed; promiscuity"
+],
+[
+"立交桥",
+6,
+"lì jiāo qiáo",
+"overpass; flyover"
 ]
 ],
 "extraWords": [
 [
+"交给",
+53.36,
+"jiāo gěi",
+"to give; to deliver; to hand over"
+],
+[
 "交警",
 36.23,
-"jiao1 jing3",
+"jiāo jǐng",
 "traffic police; abbr. for 交通警察"
 ],
 [
 "提交",
 31.86,
-"ti2 jiao1",
+"tí jiāo",
 "to submit (a report etc); to refer (a problem) to sb"
+],
+[
+"交谈",
+20.42,
+"jiāo tán",
+"to discuss; to converse; chat; discussion"
 ],
 [
 "外交部",
 19.52,
-"Wai4 jiao1 bu4",
+"Wài jiāo bù",
 "Ministry of Foreign Affairs; foreign office; Dept. of State"
 ],
 [
 "交易所",
 18.56,
-"jiao1 yi4 suo3",
+"jiāo yì suǒ",
 "exchange; stock exchange"
 ],
 [
 "交易日",
 17.98,
-"jiao1 yi4 ri4",
+"jiāo yì rì",
 "working day (in banking, share trading)"
 ],
 [
 "社交",
 15.59,
-"she4 jiao1",
+"shè jiāo",
 "interaction; social contact"
 ],
 [
 "交付",
 10.97,
-"jiao1 fu4",
+"jiāo fù",
 "to hand over; to deliver"
+],
+[
+"交纳",
+9.94,
+"jiāo nà",
+"to pay (taxes or dues)"
 ],
 [
 "移交",
 8.95,
-"yi2 jiao1",
+"yí jiāo",
 "to transfer; to hand over"
+],
+[
+"交会",
+8.88,
+"jiāo huì",
+"to encounter; to rendezvous; to converge; to meet (a payment)"
+],
+[
+"递交",
+8.71,
+"dì jiāo",
+"to present; to give; to hand over; to hand in; to lay before"
+],
+[
+"交锋",
+8.11,
+"jiāo fēng",
+"to cross swords; to have a confrontation (with sb)"
 ],
 [
 "交替",
 7.98,
-"jiao1 ti4",
+"jiāo tì",
 "to replace; alternately; in turn"
 ],
 [
 "交出",
 7.96,
-"jiao1 chu1",
+"jiāo chū",
 "to hand over"
 ],
 [
 "交手",
 6.89,
-"jiao1 shou3",
+"jiāo shǒu",
 "to fight hand to hand"
 ],
 [
 "交待",
 6.87,
-"jiao1 dai4",
+"jiāo dài",
 "variant of 交代[jiao1 dai4]"
 ],
 [
 "性交",
 6.8,
-"xing4 jiao1",
+"xìng jiāo",
 "sexual intercourse"
+],
+[
+"上海证券交易所",
+6.75,
+"Shàng hǎi Zhèng quàn Jiāo yì suǒ",
+"Shanghai Stock Exchange (SSE)"
+],
+[
+"成交价",
+6.42,
+"chéng jiāo jià",
+"sale price; negotiated price; price reached in an auction"
 ],
 [
 "交友",
 5.94,
-"jiao1 you3",
+"jiāo yǒu",
 "to make friends"
 ],
 [
 "公交",
 5.93,
-"gong1 jiao1",
+"gōng jiāo",
 "public transportation; mass transit; abbr. for 公共交通[gong1 gong4 jiao1 tong1]"
 ],
 [
 "交接",
 5.71,
-"jiao1 jie1",
+"jiāo jiē",
 "(of two things) to come into contact; to meet; to hand over to; to take over from; to associate with; to have friendly relations with; to have sexual intercourse"
+],
+[
+"外交部长",
+5.52,
+"wài jiāo bù zhǎng",
+"minister of foreign affairs"
 ],
 [
 "交割",
 5.33,
-"jiao1 ge1",
+"jiāo gē",
 "delivery (commerce)"
 ],
 [
 "上交",
 5.29,
-"shang4 jiao1",
+"shàng jiāo",
 "to hand over to; to give to higher authority; to seek connections in high places"
 ],
 [
 "交通部",
 5.24,
-"Jiao1 tong1 bu4",
+"Jiāo tōng bù",
 "Ministry of Transport; Transport Department"
+],
+[
+"交织",
+5.07,
+"jiāo zhī",
+"to interweave"
 ],
 [
 "交通工具",
 5.01,
-"jiao1 tong1 gong1 ju4",
+"jiāo tōng gōng jù",
 "means of transportation; vehicle"
 ]
 ],

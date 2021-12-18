@@ -9,131 +9,420 @@
 [
 "飞机",
 1,
-"fēijī",
-"airplane"
-],
-[
-"机场",
-2,
-"jīchǎng",
-"airport; airfield"
+"fēi jī",
+"airplane; CL:架[jia4]"
 ],
 [
 "手机",
 2,
-"shǒujī",
-"mobile (cell) phone"
+"shǒu jī",
+"cell phone; mobile phone; CL:部[bu4],支[zhi1]"
+],
+[
+"机场",
+2,
+"jī chǎng",
+"airport; airfield; (slang) service provider for Shadowsocks or similar software for circumventing Internet censorship; CL:家[jia1],處|处[chu4]"
 ],
 [
 "机会",
 3,
-"jīhuì",
-"opportunity; chance; occasion"
+"jī huì",
+"opportunity; chance; occasion; CL:個|个[ge4]"
 ],
 [
 "司机",
 3,
-"sījī",
-"driver; chauffeur"
+"sī jī",
+"chauffeur; driver; CL:個|个[ge4]"
 ],
 [
 "照相机",
 3,
-"zhàoxiàngjī",
-"camera"
+"zhào xiàng jī",
+"camera; CL:個|个[ge4],架[jia4],部[bu4],台[tai2],隻|只[zhi1]"
 ],
 [
 "登机牌",
 4,
-"dēngjīpái",
+"dēng jī pái",
 "boarding pass"
 ],
 [
 "机器",
 5,
-"jīqì",
-"machine"
-],
-[
-"动机",
-6,
-"dòngjī",
-"motive; motivation; intention"
-],
-[
-"机动",
-6,
-"jīdòng",
-"motorized; mobile; flexible"
+"jī qì",
+"machine; CL:臺|台[tai2],部[bu4],個|个[ge4]"
 ],
 [
 "机构",
 6,
-"jīgòu",
-"structure; organization; institution"
+"jī gòu",
+"mechanism; structure; organization; agency; institution; CL:所[suo3]"
 ],
 [
-"机灵",
+"动机",
 6,
-"jīling",
-"clever; quick-witted; smartness"
-],
-[
-"机密",
-6,
-"jīmì",
-"secret; classified (information)"
-],
-[
-"机械",
-6,
-"jīxiè",
-"machine; mechanical"
-],
-[
-"机遇",
-6,
-"jīyù",
-"opportunity; stroke of good luck; favorable circumstance"
-],
-[
-"机智",
-6,
-"jīzhì",
-"tact; quick-witted; resourceful"
-],
-[
-"生机",
-6,
-"shēngjī",
-"reprieve from death; life force; vitality"
+"dòng jī",
+"motor; locomotive; motive; motivation; intention"
 ],
 [
 "时机",
 6,
-"shíjī",
-"opportune time; opportunity"
+"shí jī",
+"fortunate timing; occasion; opportunity"
 ],
 [
-"收音机",
+"机密",
 6,
-"shōuyīnjī",
-"radio"
-],
-[
-"投机",
-6,
-"tóujī",
-"speculate (on financial markets); congenial; opportunistic"
+"jī mì",
+"secret; classified (information)"
 ],
 [
 "危机",
 6,
-"wēijī",
-"crisis"
+"wēi jī",
+"crisis; CL:個|个[ge4]"
+],
+[
+"收音机",
+6,
+"shōu yīn jī",
+"radio; CL:臺|台[tai2]"
+],
+[
+"机械",
+6,
+"jī xiè",
+"machine; machinery; mechanical; (old) cunning; scheming"
+],
+[
+"机遇",
+6,
+"jī yù",
+"opportunity; favorable circumstance; stroke of luck"
+],
+[
+"机灵",
+6,
+"jī ling",
+"clever; quick-witted"
+],
+[
+"机动",
+6,
+"jī dòng",
+"locomotive; motorized; power-driven; adaptable; flexible (use, treatment, timing etc)"
+],
+[
+"机智",
+6,
+"jī zhì",
+"quick-witted; resourceful"
+],
+[
+"生机",
+6,
+"shēng jī",
+"opportunity to live; to reprieve from death; life force; vitality"
+],
+[
+"投机",
+6,
+"tóu jī",
+"to speculate (on financial markets); opportunistic; congenial; agreeable"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"机制",
+127.11,
+"jī zhì",
+"mechanism"
+],
+[
+"机制",
+127.11,
+"jī zhì",
+"machine processed; machine made; mechanism"
+],
+[
+"机关",
+111.6,
+"jī guān",
+"mechanism; gear; machine-operated; office; agency; organ; organization; establishment; institution; body; stratagem; scheme; intrigue; plot; trick; CL:個|个[ge4]"
+],
+[
+"计算机",
+45.99,
+"jì suàn jī",
+"computer; (Tw) calculator; CL:臺|台[tai2]"
+],
+[
+"相机",
+41.88,
+"xiàng jī",
+"camera (abbr. for 照相機|照相机[zhao4 xiang4 ji1]); at the opportune moment; as the circumstances allow"
+],
+[
+"机器人",
+37.92,
+"jī qì rén",
+"mechanical person; robot; android"
+],
+[
+"发动机",
+30.84,
+"fā dòng jī",
+"engine; motor; CL:臺|台[tai2]"
+],
+[
+"直升机",
+27.84,
+"zhí shēng jī",
+"helicopter; CL:架[jia4]"
+],
+[
+"公安机关",
+23.5,
+"gōng ān jī guān",
+"public security bureau"
+],
+[
+"摄像机",
+22.48,
+"shè xiàng jī",
+"video camera; CL:部[bu4]"
+],
+[
+"有机",
+22.16,
+"yǒu jī",
+"organic"
+],
+[
+"机身",
+22.12,
+"jī shēn",
+"body of a vehicle or machine; fuselage of a plane"
+],
+[
+"随机",
+21.8,
+"suí jī",
+"according to the situation; pragmatic; random"
+],
+[
+"机动车",
+20.65,
+"jī dòng chē",
+"motor vehicle"
+],
+[
+"机票",
+16.23,
+"jī piào",
+"air ticket; passenger ticket; CL:張|张[zhang1]"
+],
+[
+"耳机",
+15.91,
+"ěr jī",
+"headphones; earphones; telephone receiver"
+],
+[
+"机组",
+14.94,
+"jī zǔ",
+"flight crew (on a plane); unit (apparatus)"
+],
+[
+"机体",
+14.45,
+"jī tǐ",
+"organism (biology); airframe (aeronautics)"
+],
+[
+"电视机",
+12.13,
+"diàn shì jī",
+"television set; CL:臺|台[tai2]"
+],
+[
+"战斗机",
+11.1,
+"zhàn dòu jī",
+"fighter (aircraft)"
+],
+[
+"契机",
+10.63,
+"qì jī",
+"opportunity; turning point; juncture"
+],
+[
+"扳机",
+10.46,
+"bān jī",
+"(gun) trigger"
+],
+[
+"机理",
+9.32,
+"jī lǐ",
+"mechanism"
+],
+[
+"战机",
+9.29,
+"zhàn jī",
+"opportunity in a battle; fighter aircraft; war secret"
+],
+[
+"机电",
+9.16,
+"jī diàn",
+"machinery and power-generating equipment; electromechanical"
+],
+[
+"主机",
+8.38,
+"zhǔ jī",
+"main engine; (military) lead aircraft; (computing) host computer; main processor; server"
+],
+[
+"摄影机",
+8.23,
+"shè yǐng jī",
+"camera; movie camera"
+],
+[
+"电机",
+8.04,
+"diàn jī",
+"electrical machinery"
+],
+[
+"关机",
+7.96,
+"guān jī",
+"to turn off (a machine or device); to finish shooting a film"
+],
+[
+"包机",
+7.59,
+"bāo jī",
+"chartered plane; to charter a plane"
+],
+[
+"登机",
+7.45,
+"dēng jī",
+"to board a plane"
+],
+[
+"洗衣机",
+7.15,
+"xǐ yī jī",
+"washer; washing machine; CL:臺|台[tai2]"
+],
+[
+"机能",
+7.1,
+"jī néng",
+"function"
+],
+[
+"客机",
+6.91,
+"kè jī",
+"passenger plane"
+],
+[
+"航天飞机",
+6.37,
+"háng tiān fēi jī",
+"space shuttle"
+],
+[
+"机长",
+6.26,
+"jī zhǎng",
+"captain; chief pilot"
+],
+[
+"机械化",
+6.24,
+"jī xiè huà",
+"to mechanize"
+],
+[
+"机床",
+6.13,
+"jī chuáng",
+"machine tool; a lathe; CL:張|张[zhang1]"
+],
+[
+"趁机",
+6.08,
+"chèn jī",
+"to seize an opportunity; to take advantage of situation"
+],
+[
+"拖拉机",
+5.83,
+"tuō lā jī",
+"tractor; CL:臺|台[tai2]"
+],
+[
+"发电机",
+5.57,
+"fā diàn jī",
+"electricity generator; dynamo"
+],
+[
+"机枪",
+5.47,
+"jī qiāng",
+"machine gun"
+],
+[
+"机车",
+5.32,
+"jī chē",
+"locomotive; train engine car; scooter (Tw); (slang) (Tw) hard to get along with; a pain in the ass; damn!; crap!"
+],
+[
+"农机",
+5.24,
+"nóng jī",
+"agricultural machinery"
+],
+[
+"良机",
+5.21,
+"liáng jī",
+"a good chance; a golden opportunity"
+],
+[
+"打火机",
+5.19,
+"dǎ huǒ jī",
+"lighter; cigarette lighter"
+],
+[
+"对讲机",
+5.16,
+"duì jiǎng jī",
+"intercom; walkie-talkie"
+],
+[
+"直升飞机",
+5.16,
+"zhí shēng fēi jī",
+"see 直升機|直升机[zhi2 sheng1 ji1]"
+]
+],
 "strokes": [
 "M 331 513 Q 418 540 420 541 Q 427 548 423 557 Q 416 567 388 574 Q 360 578 332 568 L 286 551 Q 178 520 96 508 Q 62 501 87 486 Q 123 465 192 481 Q 226 490 267 497 L 331 513 Z",
 "M 282 421 Q 278 336 277 241 Q 271 165 250 93 Q 238 54 263 -9 Q 270 -28 278 -31 Q 284 -38 292 -29 Q 299 -25 310 -4 Q 320 21 320 52 Q 319 100 331 513 L 332 568 Q 332 569 333 570 Q 334 667 354 731 Q 363 747 360 760 Q 353 770 298 805 Q 274 823 253 807 Q 249 803 254 787 Q 285 738 286 689 Q 286 625 286 551 L 282 421 Z",

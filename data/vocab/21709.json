@@ -9,35 +9,66 @@
 [
 "影响",
 3,
-"yǐngxiǎng",
-"influence; affect; effect"
+"yǐng xiǎng",
+"influence; effect; to influence; to affect (usually adversely); to disturb; CL:股[gu3]"
 ],
 [
 "响",
 4,
 "xiǎng",
-"make a sound; to ring; echo"
-],
-[
-"响亮",
-6,
-"xiǎngliàng",
-"loud and clear; resounding"
-],
-[
-"响应",
-6,
-"xiǎngyìng",
-"respond to; answer"
+"echo; sound; noise; to make a sound; to sound; to ring; loud; classifier for noises"
 ],
 [
 "音响",
 6,
-"yīnxiǎng",
-"(Electronic) speakers; acoustics; sound field (i.e., in a room or theater)"
+"yīn xiǎng",
+"sound; acoustics; audio; hi-fi system; stereo sound system; abbr. for 組合音響|组合音响[zu3 he2 yin1 xiang3]"
+],
+[
+"响应",
+6,
+"xiǎng yìng",
+"to respond to; answer; CL:個|个[ge4]"
+],
+[
+"响亮",
+6,
+"xiǎng liàng",
+"loud and clear; resounding"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"影响力",
+34.8,
+"yǐng xiǎng lì",
+"influence; impact"
+],
+[
+"响起",
+19.62,
+"xiǎng qǐ",
+"(of a sound) to come forth; (of a sound source) to ring out; to sound; to go off"
+],
+[
+"反响",
+10.79,
+"fǎn xiǎng",
+"repercussions; reaction; echo"
+],
+[
+"打响",
+8.15,
+"dǎ xiǎng",
+"to start shooting or firing; to win an initial success; to succeed (of a plan)"
+],
+[
+"声响",
+5.83,
+"shēng xiǎng",
+"sound; noise"
+]
+],
 "strokes": [
 "M 132 540 Q 119 544 96 549 Q 84 552 81 547 Q 74 541 83 525 Q 114 456 130 344 Q 133 310 152 288 Q 170 266 175 281 Q 181 299 178 331 L 173 366 Q 152 487 151 514 C 149 535 149 535 132 540 Z",
 "M 306 400 Q 315 500 338 532 Q 357 560 333 571 Q 312 581 284 595 Q 266 604 228 578 Q 189 557 132 540 C 103 531 123 504 151 514 Q 154 515 159 517 Q 198 530 230 540 Q 252 547 259 538 Q 269 531 265 491 Q 261 448 256 397 C 253 367 303 370 306 400 Z",

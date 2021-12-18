@@ -9,214 +9,328 @@
 [
 "特别",
 3,
-"tèbié",
-"special; especially; particular"
+"tè bié",
+"especially; special; particular; unusual"
 ],
 [
 "特点",
 4,
-"tèdiǎn",
-"a characteristic; trait; feature"
-],
-[
-"独特",
-5,
-"dútè",
-"unique; distinctive"
+"tè diǎn",
+"characteristic (feature); trait; feature; CL:個|个[ge4]"
 ],
 [
 "模特",
 5,
-"mótè",
-"(fashion) model"
-],
-[
-"特色",
-5,
-"tèsè",
-"characteristic; distinguishing feature"
+"mó tè",
+"(fashion) model (loanword)"
 ],
 [
 "特殊",
 5,
-"tèshū",
-"special; particular; extraordinary; unusual"
+"tè shū",
+"special; particular; unusual; extraordinary"
+],
+[
+"独特",
+5,
+"dú tè",
+"unique; distinct; having special characteristics"
 ],
 [
 "特征",
 5,
-"tèzhēng",
-"characteristics; distinctive features; trait"
+"tè zhēng",
+"characteristic; diagnostic property; distinctive feature; trait"
 ],
 [
-"特长",
-6,
-"tècháng",
-"strong point; specialty"
+"特色",
+5,
+"tè sè",
+"characteristic; distinguishing feature or quality"
 ],
 [
 "特定",
 6,
-"tèdìng",
-"special; specific; designated"
+"tè dìng",
+"special; specific; designated; particular"
 ],
 [
 "特意",
 6,
-"tèyì",
-"specially for; with the special intention of"
+"tè yì",
+"specially; intentionally"
+],
+[
+"特长",
+6,
+"tè cháng",
+"personal strength; one's special ability or strong points"
 ]
 ],
 "extraWords": [
 [
 "特工",
 47.28,
-"te4 gong1",
+"tè gōng",
 "secret service; special service; secret service agent; special agent"
 ],
 [
 "特性",
 26.71,
-"te4 xing4",
+"tè xìng",
 "property; characteristic"
+],
+[
+"特价",
+20.1,
+"tè jià",
+"special price"
+],
+[
+"凯特",
+17.95,
+"Kǎi tè",
+"Kate (name)"
+],
+[
+"特大",
+17.43,
+"tè dà",
+"exceptionally big"
+],
+[
+"英特尔",
+16.81,
+"Yīng tè ěr",
+"Intel"
 ],
 [
 "希特勒",
 15.35,
-"Xi1 te4 le4",
+"Xī tè lè",
 "Adolf Hitler (1889-1945)"
 ],
 [
 "特有",
 13.96,
-"te4 you3",
+"tè yǒu",
 "specific (to); characteristic (of); distinctive"
+],
+[
+"特约",
+12.69,
+"tè yuē",
+"specially engaged; employed or commissioned for a special task"
+],
+[
+"罗伯特",
+12.64,
+"Luó bó tè",
+"Robert (name)"
 ],
 [
 "特地",
 12.23,
-"te4 di4",
+"tè dì",
 "specially; for a special purpose"
 ],
 [
 "伏特",
 11.77,
-"fu2 te4",
+"fú tè",
 "volt (loanword)"
+],
+[
+"特种",
+10.88,
+"tè zhǒng",
+"particular kind; special type"
+],
+[
+"特区",
+10.76,
+"tè qū",
+"special administrative region; abbr. for 特別行政區|特别行政区"
 ],
 [
 "比特",
 9.99,
-"bi3 te4",
+"bǐ tè",
 "bit (binary digit) (loanword)"
 ],
 [
 "卡特",
 9.72,
-"Ka3 te4",
+"Kǎ tè",
 "Carter (name); James Earl (Jimmy) Carter (1924-), US Democrat politician, president 1977-1981"
 ],
 [
 "福特",
 9.6,
-"Fu2 te4",
+"Fú tè",
 "Ford (name); Ford, US car make"
 ],
 [
 "帕特里克",
 8.53,
-"Pa4 te4 li3 ke4",
+"Pà tè lǐ kè",
 "Patrick (name)"
+],
+[
+"特许",
+8.53,
+"tè xǔ",
+"license; licensed; concession; concessionary"
+],
+[
+"特异性",
+8.4,
+"tè yì xìng",
+"specific; specificity; idiosyncrasy"
 ],
 [
 "特派",
 8.33,
-"te4 pai4",
+"tè pài",
 "special appointment; special correspondent; task force; sb dispatched on a mission"
 ],
 [
 "特此",
 8.27,
-"te4 ci3",
+"tè cǐ",
 "hereby"
+],
+[
+"特权",
+8.02,
+"tè quán",
+"prerogative; privilege; privileged"
 ],
 [
 "波特",
 7.72,
-"Bo1 te4",
+"Bō tè",
 "Potter or Porter (surname)"
 ],
 [
 "波特",
 7.72,
-"bo1 te4",
+"bō tè",
 "(loanword) baud (computing); porter (beer)"
 ],
 [
 "特警",
 7.45,
-"te4 jing3",
+"tè jǐng",
 "SWAT (Special Weapons And Tactics); riot police; abbr. for 特種警察|特种警察[te4 zhong3 jing3 cha2]"
 ],
 [
 "底特律",
 7.36,
-"Di3 te4 lu:4",
+"Dǐ tè lu:4",
 "Detroit, Michigan"
 ],
 [
 "阿姆斯特丹",
 7.33,
-"A1 mu3 si1 te4 dan1",
+"Ā mǔ sī tè dān",
 "Amsterdam, capital of Netherlands"
 ],
 [
 "夏洛特",
 7.15,
-"Xia4 luo4 te4",
+"Xià luò tè",
 "Charlotte (name)"
+],
+[
+"亚特兰大",
+6.98,
+"Yà tè lán dà",
+"Atlanta"
 ],
 [
 "奇特",
 6.94,
-"qi2 te4",
+"qí tè",
 "peculiar; unusual; queer"
+],
+[
+"特质",
+6.85,
+"tè zhì",
+"characteristic; special quality"
 ],
 [
 "沙特",
 6.7,
-"Sha1 te4",
+"Shā tè",
 "Saudi; abbr. for Saudi Arabia"
+],
+[
+"特务",
+6.45,
+"tè wu",
+"special assignment (military); special agent; operative; spy"
 ],
 [
 "特技",
 6.38,
-"te4 ji4",
+"tè jì",
 "special effect; stunt"
 ],
 [
 "艾特",
 6.01,
-"ai4 te4",
+"ài tè",
 "at symbol, @"
 ],
 [
 "阿拉法特",
 5.66,
-"A1 la1 fa3 te4",
+"Ā lā fǎ tè",
 "Mohammed Abdel Rahman Abdel Raouf Arafat al-Qudwa al-Husseini (1929-2004), Palestinian leader, popularly known as Yasser Arafat 亞西爾·阿拉法特|亚西尔·阿拉法特[Ya4 xi1 er3 · A1 la1 fa3 te4]"
+],
+[
+"格兰特",
+5.57,
+"Gé lán tè",
+"Grant (name)"
+],
+[
+"特产",
+5.56,
+"tè chǎn",
+"special local product; (regional) specialty"
+],
+[
+"特种部队",
+5.48,
+"tè zhǒng bù duì",
+"(military) special forces"
 ],
 [
 "特效",
 5.42,
-"te4 xiao4",
+"tè xiào",
 "special effect; specially good effect; especially efficacious"
 ],
 [
 "阿姆斯特朗",
 5.34,
-"A1 mu3 si1 te4 lang3",
+"Ā mǔ sī tè lǎng",
 "surname Armstrong"
+],
+[
+"玛格丽特",
+5.07,
+"Mǎ gé lì tè",
+"Margaret (name)"
+],
+[
+"玛格丽特",
+5.07,
+"mǎ gé lì tè",
+"margarita (cocktail)"
 ]
 ],
 "strokes": [

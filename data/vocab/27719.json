@@ -9,23 +9,90 @@
 [
 "词汇",
 5,
-"cíhuì",
-"vocabulary"
+"cí huì",
+"variant of 詞彙|词汇[ci2 hui4]"
+],
+[
+"词汇",
+5,
+"cí huì",
+"vocabulary; list of words (e.g. for language teaching purposes); word"
 ],
 [
 "汇率",
 5,
-"huìlǜ",
+"huì lu:4",
 "exchange rate"
 ],
 [
 "汇报",
 6,
-"huìbào",
-"report; give an account of; to collect information and report back"
+"huì bào",
+"to report; to give an account of; to collect information and report back"
+],
+[
+"汇报",
+6,
+"huì bào",
+"to report; to give an account of; report"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"外汇",
+29.64,
+"wài huì",
+"foreign (currency) exchange"
+],
+[
+"百老汇",
+13.71,
+"Bǎi lǎo huì",
+"Broadway (New York City)"
+],
+[
+"汇价",
+8.11,
+"huì jià",
+"exchange rate"
+],
+[
+"汇聚",
+8.03,
+"huì jù",
+"convergence; to come together"
+],
+[
+"汇集",
+7.23,
+"huì jí",
+"to collect; to compile; to converge; also written 彙集|汇集[hui4 ji2]"
+],
+[
+"汇集",
+7.23,
+"huì jí",
+"to collect; to compile; to converge"
+],
+[
+"汇总",
+6.91,
+"huì zǒng",
+"summary; to summarize; to collect (data, receipts etc); to gather and report"
+],
+[
+"汇总",
+6.91,
+"huì zǒng",
+"summary; to summarize; to collect (data, receipts etc); to gather and report; also written 匯總|汇总"
+],
+[
+"汇款",
+5.32,
+"huì kuǎn",
+"to remit money; remittance"
+]
+],
 "strokes": [
 "M 254 718 Q 285 693 319 662 Q 335 649 351 649 Q 363 650 368 664 Q 374 680 363 713 Q 356 735 321 751 Q 239 779 224 771 Q 218 767 220 753 Q 224 740 254 718 Z",
 "M 157 531 Q 211 477 245 464 Q 261 463 271 476 Q 277 491 273 508 Q 258 550 169 573 Q 151 577 141 573 Q 134 572 138 558 Q 139 545 157 531 Z",

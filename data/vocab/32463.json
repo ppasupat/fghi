@@ -9,101 +9,258 @@
 [
 "已经",
 2,
-"yǐjing",
+"yǐ jīng",
 "already"
 ],
 [
 "经常",
 3,
-"jīngcháng",
-"often; frequently; daily"
+"jīng cháng",
+"frequently; constantly; regularly; often; day-to-day; everyday; daily"
 ],
 [
 "经过",
 3,
-"jīngguò",
-"to pass; go through; as a result of"
+"jīng guò",
+"to pass; to go through; process; course; CL:個|个[ge4]"
 ],
 [
 "经理",
 3,
-"jīnglǐ",
-"manager; director"
-],
-[
-"经济",
-4,
-"jīngjì",
-"economy; economic"
+"jīng lǐ",
+"manager; director; CL:個|个[ge4],位[wei4],名[ming2]"
 ],
 [
 "经历",
 4,
-"jīnglì",
-"undergo; to experience"
+"jīng lì",
+"experience; CL:個|个[ge4],次[ci4]; to experience; to go through"
 ],
 [
 "经验",
 4,
-"jīngyàn",
-"experience"
+"jīng yàn",
+"experience; to experience"
+],
+[
+"经济",
+4,
+"jīng jì",
+"economy; economic"
 ],
 [
 "曾经",
 5,
-"céngjīng",
-"once; (refers to something that happened previously)"
+"céng jīng",
+"once; already; former; previously; ever; (past tense marker used before verb or clause)"
 ],
 [
 "经典",
 5,
-"jīngdiǎn",
-"classics; scriptures"
+"jīng diǎn",
+"the classics; scriptures; classical; classic (example, case etc); typical"
+],
+[
+"经营",
+5,
+"jīng yíng",
+"to engage in (business etc); to run; to operate"
 ],
 [
 "经商",
 5,
 "jīng shāng",
-"trade; be in business; do commerce"
-],
-[
-"经营",
-5,
-"jīngyíng",
-"engage in (a business activity, etc.); run/operate (a business)"
-],
-[
-"饱经沧桑",
-6,
-"bǎojīngcāngsāng",
-"experienced many changes"
-],
-[
-"经费",
-6,
-"jīngfèi",
-"funds; expenses"
-],
-[
-"经纬",
-6,
-"jīngwěi",
-"warp and woof; longitude and latitude; main points"
+"to trade; to carry out commercial activities; in business"
 ],
 [
 "神经",
 6,
-"shénjīng",
-"nerve"
+"shén jīng",
+"nerve; mental state; (coll.) unhinged; nutjob"
 ],
 [
 "正经",
 6,
-"zhèngjing",
-"decent; serious; standard; really"
+"zhèng jīng",
+"decent; honorable; proper; serious; according to standards"
+],
+[
+"经费",
+6,
+"jīng fèi",
+"funds; expenditure; CL:筆|笔[bi3]"
+],
+[
+"经纬",
+6,
+"jīng wěi",
+"warp and woof; longitude and latitude; main points"
+],
+[
+"饱经沧桑",
+6,
+"bǎo jīng cāng sāng",
+"having lived through many changes"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"市场经济",
+53.21,
+"shì chǎng jīng jì",
+"market economy"
+],
+[
+"总经理",
+50.66,
+"zǒng jīng lǐ",
+"general manager; CEO"
+],
+[
+"国民经济",
+27.02,
+"guó mín jīng jì",
+"national economy"
+],
+[
+"经纪人",
+25.61,
+"jīng jì rén",
+"broker; middleman; agent; manager"
+],
+[
+"财经",
+24.95,
+"cái jīng",
+"finance and economics"
+],
+[
+"经销商",
+24.07,
+"jīng xiāo shāng",
+"dealer; seller; distributor; broker; agency; franchise (i.e. company); retail outlet"
+],
+[
+"圣经",
+23.67,
+"Shèng jīng",
+"Holy Bible; the Confucian classics; CL:本[ben3],部[bu4]"
+],
+[
+"经贸",
+21.55,
+"jīng mào",
+"trade"
+],
+[
+"经营者",
+20.68,
+"jīng yíng zhě",
+"executive; manager; transactor"
+],
+[
+"未经",
+18.05,
+"wèi jīng",
+"not having undergone; without (having gone though a certain process)"
+],
+[
+"经济学",
+16.79,
+"jīng jì xué",
+"economics (as a field of study)"
+],
+[
+"经济学家",
+15.76,
+"jīng jì xué jiā",
+"economist"
+],
+[
+"经纪",
+13.06,
+"jīng jì",
+"to manage (a business); manager; broker"
+],
+[
+"神经病",
+12.88,
+"shén jīng bìng",
+"mental disorder; neuropathy; (derog.) mental case"
+],
+[
+"不经意",
+9.6,
+"bù jīng yì",
+"not paying attention; carelessly; by accident"
+],
+[
+"历经",
+9.55,
+"lì jīng",
+"to experience; to go through"
+],
+[
+"计划经济",
+8.56,
+"jì huà jīng jì",
+"planned economy"
+],
+[
+"一经",
+8.37,
+"yī jīng",
+"as soon as; once (an action has been completed)"
+],
+[
+"月经",
+7.98,
+"yuè jīng",
+"menstruation; a woman's period"
+],
+[
+"经济体制",
+7.94,
+"jīng jì tǐ zhì",
+"economic system"
+],
+[
+"经受",
+7.79,
+"jīng shòu",
+"to undergo (hardship); to endure; to withstand"
+],
+[
+"经销",
+6.56,
+"jīng xiāo",
+"to sell; to sell on commission; to distribute"
+],
+[
+"途经",
+6.0,
+"tú jīng",
+"to pass through; via; by way of"
+],
+[
+"神经元",
+5.35,
+"shén jīng yuán",
+"neuron"
+],
+[
+"神经质",
+5.07,
+"shén jīng zhì",
+"nervous; on edge; excitable; neurotic"
+],
+[
+"经得起",
+5.04,
+"jīng de qǐ",
+"to be able to withstand; to be able to endure"
+]
+],
 "strokes": [
 "M 336 480 Q 281 481 234 480 Q 197 480 216 503 Q 288 623 357 712 Q 373 731 370 739 Q 367 755 325 788 Q 309 803 288 799 Q 276 795 283 779 Q 304 719 189 535 Q 171 514 146 490 Q 127 474 128 462 Q 132 441 147 422 Q 159 410 172 418 Q 202 434 302 451 Q 308 452 315 452 C 345 455 366 480 336 480 Z",
 "M 315 452 Q 204 310 183 299 Q 170 289 172 275 Q 173 262 200 241 Q 210 228 226 241 Q 286 283 413 327 Q 432 331 435 341 Q 438 351 417 348 Q 353 336 273 313 Q 245 303 263 326 Q 306 384 406 500 Q 436 537 462 559 Q 475 569 468 580 Q 458 599 424 619 Q 408 629 398 626 Q 388 623 390 607 Q 391 570 336 480 L 315 452 Z",

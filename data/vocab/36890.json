@@ -7,191 +7,275 @@
 },
 "words": [
 [
-"交通",
-4,
-"jiāotōng",
-"traffic; transportation"
-],
-[
-"普通话",
-4,
-"pǔtōnghuà",
-"Mandarin (common language)"
-],
-[
 "通过",
 4,
-"tōngguò",
-"by means of; through (a method); pass through; via"
+"tōng guò",
+"by means of; through; via; to pass through; to get through; to adopt; to pass (a bill or inspection etc); to switch over"
 ],
 [
 "通知",
 4,
-"tōngzhī",
-"notify; to inform; notice"
+"tōng zhī",
+"to notify; to inform; notice; notification; CL:個|个[ge4]"
 ],
 [
-"沟通",
-5,
-"gōutōng",
-"link; connect; communicate"
+"交通",
+4,
+"jiāo tōng",
+"to be connected; traffic; transportation; communications; liaison"
+],
+[
+"普通话",
+4,
+"pǔ tōng huà",
+"Mandarin (common language); Putonghua (common speech of the Chinese language); ordinary speech"
 ],
 [
 "通常",
 5,
-"tōngcháng",
-"regular; usual; normal; ordinary"
+"tōng cháng",
+"regular; usual; normal; usually; normally"
 ],
 [
-"畅通",
-6,
-"chàngtōng",
-"unimpeded; unclogged; free-flowing; straight path; to expedite"
-],
-[
-"精通",
-6,
-"jīngtōng",
-"proficient; have a good command of"
-],
-[
-"卡通",
-6,
-"kǎtōng",
-"cartoon"
-],
-[
-"流通",
-6,
-"liútōng",
-"circulate; currency"
-],
-[
-"通货膨胀",
-6,
-"tōnghuò péngzhàng",
-"inflation"
-],
-[
-"通缉",
-6,
-"tōngjī",
-"order the arrest of a criminal"
-],
-[
-"通俗",
-6,
-"tōngsú",
-"popular; common; everyday; average; vulgar"
+"沟通",
+5,
+"gōu tōng",
+"to join; to connect; to link up; to communicate"
 ],
 [
 "通讯",
 6,
-"tōngxùn",
-"communication; correspondence; news dispatch"
+"tōng xùn",
+"communications; news story; dispatch; CL:個|个[ge4]"
+],
+[
+"卡通",
+6,
+"kǎ tōng",
+"cartoon (loanword)"
+],
+[
+"通缉",
+6,
+"tōng jī",
+"to order the arrest of sb as criminal; to list as wanted"
+],
+[
+"精通",
+6,
+"jīng tōng",
+"to be proficient in; to master (a subject)"
 ],
 [
 "通用",
 6,
-"tōngyòng",
-"in common use; interchangeable; General Motors"
+"tōng yòng",
+"to use anywhere, anytime (card, ticket etc); to be used by everyone (language, textbook etc); (of two or more things) interchangeable"
+],
+[
+"流通",
+6,
+"liú tōng",
+"to circulate; to distribute; circulation; distribution"
+],
+[
+"畅通",
+6,
+"chàng tōng",
+"unimpeded; free-flowing; straight path; unclogged; move without obstruction"
+],
+[
+"通货膨胀",
+6,
+"tōng huò péng zhàng",
+"inflation"
+],
+[
+"通俗",
+6,
+"tōng sú",
+"common; everyday; average"
 ]
 ],
 "extraWords": [
 [
 "普通",
 110.98,
-"pu3 tong1",
+"pǔ tōng",
 "common; ordinary; general; average"
+],
+[
+"通讯员",
+50.76,
+"tōng xùn yuán",
+"correspondent; reporter; messenger boy"
 ],
 [
 "通道",
 43.27,
-"Tong1 dao4",
+"Tōng dào",
 "Tongdao Dong autonomous county in Huaihua 懷化|怀化[Huai2 hua4], Hunan"
 ],
 [
 "通道",
 43.27,
-"tong1 dao4",
+"tōng dào",
 "(communications) channel; thoroughfare; passage"
 ],
 [
 "通信",
 40.95,
-"tong1 xin4",
+"tōng xìn",
 "to correspond (by letter etc); to communicate; communication"
+],
+[
+"联通",
+30.9,
+"Lián tōng",
+"China United Telecommunications Corporation; aka China Unicom or Unicom; abbr. for 中國聯通|中国联通"
+],
+[
+"联通",
+30.9,
+"lián tōng",
+"connection; link; to link together"
+],
+[
+"开通",
+29.08,
+"kāi tōng",
+"to open up (windows for air, ideas for discussion, transportation routes etc)"
+],
+[
+"开通",
+29.08,
+"kāi tong",
+"open-minded"
+],
+[
+"通话",
+28.62,
+"tōng huà",
+"to hold a conversation; to talk over the telephone; phone call"
+],
+[
+"通报",
+25.08,
+"tōng bào",
+"to inform; to notify; to announce; circular; bulletin; (scientific) journal"
 ],
 [
 "通行",
 14.42,
-"tong1 xing2",
+"tōng xíng",
 "to go through; to pass through; to be in general use"
 ],
 [
 "接通",
 12.7,
-"jie1 tong1",
+"jiē tōng",
 "to connect; to put through"
 ],
 [
 "普通人",
 12.34,
-"pu3 tong1 ren2",
+"pǔ tōng rén",
 "ordinary person; private citizen; people; the person in the street"
 ],
 [
 "不通",
 12.1,
-"bu4 tong1",
+"bù tōng",
 "to be obstructed; to be blocked up; to be impassable; to make no sense; to be illogical"
+],
+[
+"通车",
+11.52,
+"tōng chē",
+"to open to traffic (e.g. new bridge, rail line etc); (of a locality) to have a transportation service; (Tw) to commute"
 ],
 [
 "通往",
 10.85,
-"tong1 wang3",
+"tōng wǎng",
 "to lead to"
 ],
 [
 "通宵",
 9.2,
-"tong1 xiao1",
+"tōng xiāo",
 "all night; throughout the night"
+],
+[
+"通风",
+9.04,
+"tōng fēng",
+"airy; ventilation; to ventilate; to disclose information"
 ],
 [
 "行不通",
 8.97,
-"xing2 bu5 tong1",
+"xíng bu tōng",
 "won't work; will get (you) nowhere"
+],
+[
+"通胀",
+8.86,
+"tōng zhàng",
+"inflation"
+],
+[
+"通行证",
+8.64,
+"tōng xíng zhèng",
+"a pass (authority to enter); a laissez-passer or safe conduct"
+],
+[
+"通知书",
+8.63,
+"tōng zhī shū",
+"written notice"
+],
+[
+"灵通",
+8.32,
+"líng tōng",
+"fast and abundant (news); clever; effective"
 ],
 [
 "通向",
 8.32,
-"tong1 xiang4",
+"tōng xiàng",
 "to lead to"
 ],
 [
 "通告",
 7.07,
-"tong1 gao4",
+"tōng gào",
 "to announce; to give notice"
 ],
 [
 "打通",
 5.89,
-"da3 tong1",
+"dǎ tōng",
 "to open access; to establish contact; to remove a block; to put through (a phone connection)"
+],
+[
+"通气",
+5.27,
+"tōng qì",
+"ventilation; aeration; to keep each other informed; to release information"
 ],
 [
 "交通部",
 5.24,
-"Jiao1 tong1 bu4",
+"Jiāo tōng bù",
 "Ministry of Transport; Transport Department"
 ],
 [
 "交通工具",
 5.01,
-"jiao1 tong1 gong1 ju4",
+"jiāo tōng gōng jù",
 "means of transportation; vehicle"
 ]
 ],

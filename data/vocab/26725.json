@@ -10,22 +10,41 @@
 "桥",
 4,
 "qiáo",
-"bridge"
-],
-[
-"立交桥",
-6,
-"lìjiāoqiáo",
-"overpass; one road goes on top of another; cloverleaf intersection"
+"bridge; CL:座[zuo4]"
 ],
 [
 "桥梁",
 6,
-"qiáoliáng",
-"bridge"
+"qiáo liáng",
+"bridge (lit. and fig.)"
+],
+[
+"立交桥",
+6,
+"lì jiāo qiáo",
+"overpass; flyover"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"大桥",
+21.85,
+"Dà Qiáo",
+"Da Qiao, one of the Two Qiaos, according to Romance of the Three Kingdoms 三國演義|三国演义[San1 guo2 Yan3 yi4], the two great beauties of ancient China"
+],
+[
+"天桥",
+7.84,
+"Tiān qiáo",
+"Tianqiao district of Jinan city 濟南市|济南市[Ji3 nan2 shi4], Shandong; Tianqiao district in Beijing, formerly a center of folk culture"
+],
+[
+"天桥",
+7.84,
+"tiān qiáo",
+"overhead walkway; pedestrian bridge"
+]
+],
 "strokes": [
 "M 311 523 Q 336 532 365 539 Q 399 549 405 555 Q 414 564 408 572 Q 401 584 370 589 Q 339 593 312 579 L 272 563 Q 179 533 123 523 Q 86 513 114 499 Q 156 481 234 502 Q 244 505 258 508 L 311 523 Z",
 "M 309 454 Q 310 488 311 523 L 312 579 Q 312 685 333 758 Q 348 783 318 803 Q 303 815 279 829 Q 255 845 236 831 Q 230 825 237 811 Q 271 760 271 709 Q 271 642 272 563 L 269 411 Q 265 329 265 239 Q 261 160 238 85 Q 228 48 252 -14 Q 259 -32 267 -35 Q 273 -42 280 -34 Q 307 -10 306 46 Q 305 89 309 424 L 309 454 Z",

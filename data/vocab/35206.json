@@ -9,11 +9,24 @@
 [
 "覆盖",
 6,
-"fùgài",
+"fù gài",
 "to cover"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"颠覆",
+7.84,
+"diān fù",
+"to topple (i.e. knock over); to capsize; fig. to overturn (a regime, by plotting or subversion); to undermine; to subvert"
+],
+[
+"覆盖率",
+5.5,
+"fù gài lu:4",
+"coverage"
+]
+],
 "strokes": [
 "M 594 781 Q 615 785 639 787 Q 700 797 709 804 Q 716 810 714 818 Q 708 828 684 837 Q 659 844 632 836 Q 563 818 488 805 Q 406 792 310 791 Q 279 788 300 772 Q 327 753 377 754 L 419 759 Q 482 768 550 776 L 594 781 Z",
 "M 289 680 Q 288 687 284 690 Q 272 696 237 699 Q 225 702 223 696 Q 217 690 226 675 Q 251 635 270 567 Q 274 546 288 534 Q 307 515 310 530 Q 311 537 312 548 L 309 574 Q 300 616 296 640 L 289 680 Z",

@@ -9,11 +9,30 @@
 [
 "建筑",
 5,
-"jiànzhù",
-"a building; to construct; architecture"
+"jiàn zhù",
+"to construct; building; CL:個|个[ge4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"建筑物",
+12.88,
+"jiàn zhù wù",
+"building; structure; edifice"
+],
+[
+"构筑",
+9.0,
+"gòu zhù",
+"to build; to construct"
+],
+[
+"建筑师",
+5.93,
+"jiàn zhù shī",
+"architect"
+]
+],
 "strokes": [
 "M 310 664 Q 332 707 355 741 Q 365 754 351 767 Q 309 798 285 793 Q 275 792 277 777 Q 289 693 194 567 Q 184 563 153 520 Q 146 505 160 510 Q 176 513 199 532 Q 259 581 296 640 L 310 664 Z",
 "M 296 640 Q 326 627 382 639 Q 422 648 466 656 Q 488 660 491 664 Q 498 671 495 678 Q 488 688 463 694 Q 447 697 360 673 Q 336 669 310 664 C 281 658 268 651 296 640 Z",

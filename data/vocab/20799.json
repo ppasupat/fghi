@@ -7,109 +7,284 @@
 },
 "words": [
 [
-"儿子",
-1,
-"érzi",
-"son"
-],
-[
 "哪儿",
 1,
-"nǎr",
-"where? (Beijing accent)"
+"nǎ r5",
+"where?; wherever; anywhere"
+],
+[
+"儿子",
+1,
+"ér zi",
+"son"
 ],
 [
 "女儿",
 1,
-"nǚ'ér",
+"nu:3 ér",
 "daughter"
 ],
 [
 "一点儿",
 1,
-"yìdiǎnr",
-"a bit; a few"
+"yī diǎn r5",
+"erhua variant of 一點|一点[yi1 dian3]"
 ],
 [
 "一会儿",
 3,
-"yíhuìr",
-"a while; a moment"
+"yī huì r5",
+"a moment; a while; in a moment; now...now...; also pr. [yi1 hui3 r5]"
 ],
 [
 "儿童",
 4,
-"értóng",
-"child; children"
-],
-[
-"干活儿",
-5,
-"gàn huór",
-"do manual labor; to work"
+"ér tóng",
+"child; CL:個|个[ge4]"
 ],
 [
 "使劲儿",
 5,
-"shǐjìnr",
-"exert all one's strength"
+"shǐ jìn r5",
+"erhua variant of 使勁|使劲[shi3 jin4]"
 ],
 [
 "幼儿园",
 5,
-"yòu'éryuán",
+"yòu ér yuán",
 "kindergarten; nursery school"
 ],
 [
-"大伙儿",
-6,
-"dàhuǒr",
-"everyone"
-],
-[
-"墨水儿",
-6,
-"mòshuǐer",
-"ink"
-],
-[
-"纳闷儿",
-6,
-"nà mènr",
-"feel puzzled; bewildered"
-],
-[
-"纽扣儿",
-6,
-"niǔkòur",
-"button"
-],
-[
-"玩意儿",
-6,
-"wányìr",
-"thing; toy; gadget"
-],
-[
-"馅儿",
-6,
-"xiànr",
-"stuffing; filling"
+"干活儿",
+5,
+"gàn huó r5",
+"erhua variant of 幹活|干活[gan4 huo2]"
 ],
 [
 "心眼儿",
 6,
-"xīnyǎnr",
-"one's thoughts; mind; intention; willingness to accept new ideas"
+"xīn yǎn r5",
+"one's thoughts; mind; intention; willingness to accept new ideas; baseless suspicions"
+],
+[
+"玩意儿",
+6,
+"wán yì r5",
+"erhua variant of 玩意[wan2 yi4]"
 ],
 [
 "婴儿",
 6,
-"yīng'ér",
-"baby infant"
+"yīng ér",
+"infant; baby; CL:個|个[ge4]; lead (Pb)"
+],
+[
+"纳闷儿",
+6,
+"nà mèn r5",
+"erhua variant of 納悶|纳闷[na4 men4]"
+],
+[
+"大伙儿",
+6,
+"dà huǒ r5",
+"erhua variant of 大伙[da4 huo3]"
+],
+[
+"墨水儿",
+6,
+"mò shuǐ r5",
+"erhua variant of 墨水[mo4 shui3]"
+],
+[
+"纽扣儿",
+6,
+"niu3 kou4 r5",
+"button"
+],
+[
+"馅儿",
+6,
+"xiàn r5",
+"erhua variant of 餡|馅[xian4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"这儿",
+739.99,
+"zhè r5",
+"here"
+],
+[
+"那儿",
+305.67,
+"nà r5",
+"there"
+],
+[
+"点儿",
+133.31,
+"diǎn r5",
+"erhua variant of 點|点[dian3]"
+],
+[
+"事儿",
+104.0,
+"shì r5",
+"one's employment; business; matter that needs to be settled; (northern dialect) (of a person) demanding; trying; troublesome; erhua variant of 事[shi4]; CL:件[jian4],樁|桩[zhuang1]"
+],
+[
+"头儿",
+60.01,
+"tóu r5",
+"leader"
+],
+[
+"没事儿",
+30.79,
+"méi shì r5",
+"to have spare time; free from work; it's not important; it's nothing; never mind"
+],
+[
+"哥们儿",
+25.19,
+"gē men r5",
+"erhua variant of 哥們|哥们[ge1 men5]"
+],
+[
+"孩儿",
+21.37,
+"hái r5",
+"child"
+],
+[
+"活儿",
+17.47,
+"huó r5",
+"work; (lots of) things to do"
+],
+[
+"待会儿",
+16.87,
+"dāi huì r5",
+"in a moment; later; also pr. [dai1 hui3 r5] or [dai1 hui5 r5]"
+],
+[
+"幼儿",
+15.3,
+"yòu ér",
+"young child; infant; preschooler"
+],
+[
+"玩儿",
+14.46,
+"wán r5",
+"to play; to have fun; to hang out"
+],
+[
+"胎儿",
+12.48,
+"tāi ér",
+"unborn child; fetus; embryo"
+],
+[
+"孤儿",
+11.69,
+"gū ér",
+"orphan"
+],
+[
+"儿女",
+11.46,
+"ér nu:3",
+"children; sons and daughters"
+],
+[
+"一块儿",
+9.51,
+"yī kuài r5",
+"erhua variant of 一塊|一块[yi1 kuai4]"
+],
+[
+"新生儿",
+9.26,
+"xīn shēng ér",
+"newborn baby; neonate"
+],
+[
+"小儿",
+9.14,
+"xiǎo ér",
+"young child; (humble) my son"
+],
+[
+"小儿",
+9.14,
+"xiǎo r5",
+"(coll.) early childhood; baby boy"
+],
+[
+"今儿",
+8.48,
+"jīn r5",
+"(coll.) today"
+],
+[
+"有点儿",
+7.1,
+"yǒu diǎn r5",
+"slightly; a little; somewhat"
+],
+[
+"味儿",
+7.04,
+"wèi r5",
+"taste"
+],
+[
+"鸟儿",
+6.89,
+"niǎo r5",
+"bird"
+],
+[
+"劲儿",
+6.71,
+"jìn r5",
+"erhua variant of 勁|劲[jin4]"
+],
+[
+"孤儿院",
+6.56,
+"gū ér yuàn",
+"orphanage; child asylum"
+],
+[
+"那会儿",
+6.44,
+"nà huì r5",
+"at that time (in the past or the future); also pr. [nei4 hui4 r5]"
+],
+[
+"少儿",
+6.41,
+"shào ér",
+"child"
+],
+[
+"花儿",
+6.18,
+"huā ér",
+"style of folk song popular in Gansu, Qinghai and Ningxia; CL:首[shou3]"
+],
+[
+"花儿",
+6.18,
+"huā r5",
+"erhua variant of 花[hua1]"
+]
+],
 "strokes": [
 "M 310 637 Q 340 577 311 357 Q 299 300 269 232 Q 236 163 146 80 Q 130 67 125 59 Q 122 50 136 50 Q 178 50 258 125 Q 354 224 386 446 Q 395 524 405 602 Q 412 627 389 639 Q 334 669 315 667 Q 293 663 310 637 Z",
 "M 979 84 Q 954 144 939 247 Q 936 265 930 272 Q 920 279 916 262 Q 903 201 887 155 Q 880 124 852 105 Q 825 78 707 87 Q 641 96 622 132 Q 595 201 620 515 Q 627 621 641 666 Q 653 697 566 747 Q 547 760 526 749 Q 513 742 536 711 Q 564 671 565 570 Q 565 489 557 329 Q 542 128 591 71 Q 630 32 708 20 Q 753 16 816 16 Q 895 17 953 42 Q 993 54 979 84 Z"

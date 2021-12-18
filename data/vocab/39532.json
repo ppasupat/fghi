@@ -9,23 +9,234 @@
 [
 "马",
 3,
+"Mǎ",
+"surname Ma; abbr. for Malaysia 馬來西亞|马来西亚[Ma3 lai2 xi1 ya4]"
+],
+[
+"马",
+3,
 "mǎ",
-"horse (Kangxi radical 187)"
+"horse; CL:匹[pi3]; horse or cavalry piece in Chinese chess; knight in Western chess"
 ],
 [
 "马上",
 3,
-"mǎshàng",
-"at once; immediately; right away"
+"mǎ shàng",
+"at once; right away; immediately; on horseback (i.e. by military force)"
 ],
 [
 "马虎",
 4,
-"mǎhu",
-"careless; sloppy; casual"
+"mǎ hu",
+"careless; sloppy; negligent; skimpy"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"神马",
+46.89,
+"shén mǎ",
+"mythical horse; Internet slang for 什麼|什么[shen2 me5]"
+],
+[
+"罗马",
+34.4,
+"Luó mǎ",
+"Rome, capital of Italy"
+],
+[
+"马克",
+22.42,
+"Mǎ kè",
+"Mark (name)"
+],
+[
+"马克",
+22.42,
+"mǎ kè",
+"mark (monetary unit)"
+],
+[
+"马路",
+21.37,
+"mǎ lù",
+"street; road; CL:條|条[tiao2]"
+],
+[
+"马克思主义",
+20.7,
+"Mǎ kè sī zhǔ yì",
+"Marxism"
+],
+[
+"马丁",
+16.93,
+"Mǎ dīng",
+"Martin (name)"
+],
+[
+"马来西亚",
+16.59,
+"Mǎ lái xī yà",
+"Malaysia"
+],
+[
+"宝马",
+15.94,
+"Bǎo mǎ",
+"BMW (car company)"
+],
+[
+"宝马",
+15.94,
+"bǎo mǎ",
+"precious horse"
+],
+[
+"马戏团",
+11.83,
+"mǎ xì tuán",
+"circus"
+],
+[
+"马桶",
+11.77,
+"mǎ tǒng",
+"chamber pot; wooden pan used as toilet; toilet bowl"
+],
+[
+"马车",
+11.54,
+"mǎ chē",
+"cart; chariot; carriage; buggy"
+],
+[
+"马克思",
+10.68,
+"Mǎ kè sī",
+"Marx (name); Karl Marx (1818-1883), German revolutionary, economist and historian"
+],
+[
+"立马",
+10.22,
+"lì mǎ",
+"at once; immediately; promptly; swiftly"
+],
+[
+"骑马",
+9.84,
+"qí mǎ",
+"to ride a horse"
+],
+[
+"哈马斯",
+9.33,
+"Hā mǎ sī",
+"Hamas (radical Palestinian group)"
+],
+[
+"人马",
+9.16,
+"rén mǎ",
+"men and horses; troops; group of people; troop; staff; centaur"
+],
+[
+"马英九",
+8.79,
+"Mǎ Yīng jiǔ",
+"Ma Ying-jeou (1950-), Taiwanese Kuomintang politician, Mayor of Taipei 1998-2006, president of Republic of China 2008-2016"
+],
+[
+"马刺",
+8.16,
+"mǎ cì",
+"spur (on riding boots)"
+],
+[
+"托马斯",
+8.08,
+"Tuō mǎ sī",
+"Thomas (male name)"
+],
+[
+"赛马",
+8.05,
+"sài mǎ",
+"horse race; horse racing"
+],
+[
+"马歇尔",
+8.05,
+"Mǎ xiē ěr",
+"Marshall (name); George Catlett Marshall (1880-1959), US general in WWII and Secretary of State 1947-1949, author of the postwar Marshall plan for Europe and Nobel peace laureate"
+],
+[
+"舒马赫",
+7.74,
+"Shū mǎ hè",
+"Michael Schumacher (1969-), former German racing driver"
+],
+[
+"马克思列宁主义",
+7.27,
+"Mǎ kè sī Liè níng zhǔ yì",
+"Marxism-Leninism"
+],
+[
+"马德里",
+7.06,
+"Mǎ dé lǐ",
+"variant of 馬德里|马德里[Ma3 de2 li3], Madrid"
+],
+[
+"马德里",
+7.06,
+"Mǎ dé lǐ",
+"Madrid, capital of Spain"
+],
+[
+"野马",
+6.56,
+"yě mǎ",
+"feral horse; free-roaming horse; wild horse"
+],
+[
+"罗马尼亚",
+6.55,
+"Luó mǎ ní yà",
+"Romania"
+],
+[
+"马拉松",
+6.08,
+"mǎ lā sōng",
+"marathon (loanword)"
+],
+[
+"司马",
+6.05,
+"Sī mǎ",
+"Minister of War (official title in pre-Han Chinese states); two-character surname Sima"
+],
+[
+"黑马",
+5.76,
+"hēi mǎ",
+"dark horse; fig. unexpected winner"
+],
+[
+"上马",
+5.54,
+"shàng mǎ",
+"to get on a horse; to mount"
+],
+[
+"小马",
+5.5,
+"xiǎo mǎ",
+"colt; pony"
+]
+],
 "strokes": [
 "M 303 726 Q 284 725 282 719 Q 278 713 296 701 Q 333 682 357 690 Q 418 709 554 728 Q 579 731 587 726 Q 602 719 598 674 Q 582 509 570 476 Q 564 457 571 439 Q 578 423 592 425 Q 605 429 613 445 Q 629 475 648 610 Q 661 670 699 705 Q 718 724 699 741 Q 677 757 620 782 Q 605 789 533 771 Q 515 771 399 744 Q 341 731 303 726 Z",
 "M 723 386 Q 739 386 757 377 Q 770 368 769 349 Q 770 334 744 197 Q 725 116 705 87 Q 693 62 665 64 Q 626 77 586 88 Q 567 94 564 89 Q 561 83 577 71 Q 662 -8 671 -35 Q 675 -45 685 -46 Q 703 -49 737 -15 Q 770 19 779 60 Q 839 345 861 360 Q 871 367 870 375 Q 871 384 836 409 Q 802 431 794 433 Q 781 436 755 428 Q 736 424 710 423 Q 661 422 584 409 Q 484 396 423 380 Q 389 373 384 398 Q 378 461 395 536 Q 399 578 405 581 Q 420 605 385 631 Q 352 656 334 658 Q 321 659 317 648 Q 313 638 323 629 Q 336 604 339 584 Q 342 535 332 447 Q 323 378 316 367 Q 309 351 331 332 Q 344 319 352 317 Q 364 320 380 324 Q 395 334 493 355 Q 604 379 723 386 Z",

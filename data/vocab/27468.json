@@ -9,51 +9,75 @@
 [
 "唱歌",
 2,
-"chànggē",
-"sing (a song)"
+"chàng gē",
+"to sing a song"
 ],
 [
 "歌颂",
 6,
-"gēsòng",
-"sing the praise of; extol; eulogize"
+"gē sòng",
+"to sing the praises of; to extol; to eulogize"
 ]
 ],
 "extraWords": [
 [
 "歌曲",
 42.06,
-"ge1 qu3",
+"gē qǔ",
 "song"
 ],
 [
 "歌手",
 41.58,
-"ge1 shou3",
+"gē shǒu",
 "singer"
 ],
 [
 "歌迷",
 17.18,
-"ge1 mi2",
+"gē mí",
 "fan of a singer"
+],
+[
+"歌词",
+14.52,
+"gē cí",
+"song lyric; lyrics"
+],
+[
+"歌声",
+12.0,
+"gē shēng",
+"singing voice; fig. original voice of a poet"
 ],
 [
 "歌唱",
 11.8,
-"ge1 chang4",
+"gē chàng",
 "to sing"
+],
+[
+"诗歌",
+11.52,
+"shī gē",
+"poem; CL:本[ben3],首[shou3],段[duan4]"
 ],
 [
 "歌舞",
 8.17,
-"ge1 wu3",
+"gē wǔ",
 "singing and dancing"
+],
+[
+"歌剧",
+7.39,
+"gē jù",
+"Western opera; CL:場|场[chang3],齣|出[chu1]"
 ],
 [
 "情歌",
 7.0,
-"qing2 ge1",
+"qíng gē",
 "love song"
 ]
 ],

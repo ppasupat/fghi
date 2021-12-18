@@ -9,47 +9,114 @@
 [
 "号",
 1,
+"háo",
+"roar; cry; CL:個|个[ge4]"
+],
+[
+"号",
+1,
 "hào",
-"number; day of a month"
+"ordinal number; day of a month; mark; sign; business establishment; size; ship suffix; horn (wind instrument); bugle call; assumed name; to take a pulse; classifier used to indicate number of people"
 ],
 [
 "号码",
 4,
-"hàomǎ",
-"number"
+"hào mǎ",
+"number; CL:堆[dui1],個|个[ge4]"
+],
+[
+"信号",
+5,
+"xìn hào",
+"signal"
 ],
 [
 "挂号",
 5,
 "guà hào",
-"register; check into hospital; send by registered mail"
-],
-[
-"信号",
-5,
-"xìnhào",
-"signal"
-],
-[
-"称号",
-6,
-"chēnghào",
-"title; term of address"
+"to register (at a hospital etc); to send by registered mail"
 ],
 [
 "符号",
 6,
-"fúhào",
+"fú hào",
 "symbol; mark; sign"
+],
+[
+"称号",
+6,
+"chēng hào",
+"name; term of address; title"
 ],
 [
 "号召",
 6,
-"hàozhào",
-"call upon; summon; to appeal"
+"hào zhào",
+"to call; to appeal"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"口号",
+19.09,
+"kǒu hào",
+"slogan; catchphrase; CL:個|个[ge4]"
+],
+[
+"型号",
+14.67,
+"xíng hào",
+"model (particular version of a manufactured article); type (product specification in terms of color, size etc)"
+],
+[
+"编号",
+12.25,
+"biān hào",
+"to number; numbering; serial number"
+],
+[
+"账号",
+12.05,
+"zhàng hào",
+"account; username"
+],
+[
+"号称",
+10.39,
+"hào chēng",
+"to be known as; to be nicknamed; to be purportedly; to claim (often exaggeratedly or falsely)"
+],
+[
+"头号",
+10.22,
+"tóu hào",
+"first rate; top rank; number one"
+],
+[
+"记号",
+7.48,
+"jì hao",
+"mark; symbol; notation; seal"
+],
+[
+"代号",
+7.27,
+"dài hào",
+"code name"
+],
+[
+"绰号",
+7.12,
+"chuò hào",
+"nickname"
+],
+[
+"暗号",
+5.54,
+"àn hào",
+"secret signal (sign); countersign; password"
+]
+],
 "strokes": [
 "M 363 750 Q 350 756 319 760 Q 306 764 303 758 Q 296 751 306 735 Q 334 677 354 580 Q 358 552 375 532 Q 394 510 399 526 Q 402 536 402 550 L 399 586 Q 384 685 378 717 C 373 746 373 746 363 750 Z",
 "M 651 622 Q 678 703 709 723 Q 727 742 712 760 Q 696 775 642 801 Q 623 810 601 801 Q 514 768 363 750 C 333 746 348 713 378 717 Q 391 718 406 722 Q 494 737 580 752 Q 602 756 611 747 Q 620 738 618 720 Q 609 668 597 625 C 589 596 641 594 651 622 Z",

@@ -9,11 +9,48 @@
 [
 "调剂",
 6,
-"tiáojì",
-"make an adjustment"
+"tiáo jì",
+"to adjust; to balance; to make up a medical prescription"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"剂量",
+23.7,
+"jì liàng",
+"dosage; prescribed dose of medicine"
+],
+[
+"制剂",
+9.74,
+"zhì jì",
+"(chemical or pharmaceutical) preparation"
+],
+[
+"试剂",
+8.77,
+"shì jì",
+"reagent"
+],
+[
+"镇静剂",
+7.27,
+"zhèn jìng jì",
+"tranquilizer"
+],
+[
+"添加剂",
+6.6,
+"tiān jiā jì",
+"additive; food additive"
+],
+[
+"兴奋剂",
+5.05,
+"xīng fèn jì",
+"stimulant; doping (in athletics)"
+]
+],
 "strokes": [
 "M 350 757 Q 378 733 409 705 Q 424 692 441 693 Q 451 694 457 708 Q 461 724 451 755 Q 439 786 343 807 Q 327 810 320 807 Q 314 803 317 789 Q 321 779 350 757 Z",
 "M 441 602 Q 498 611 544 618 Q 556 617 565 631 Q 566 644 541 654 Q 508 675 435 653 Q 347 631 172 599 Q 141 595 165 576 Q 204 549 233 558 Q 306 576 401 594 L 441 602 Z",

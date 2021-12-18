@@ -9,17 +9,54 @@
 [
 "麦克风",
 5,
-"màikèfēng",
-"microphone"
+"mài kè fēng",
+"microphone (loanword)"
 ],
 [
 "小麦",
 5,
-"xiǎomài",
-"wheat"
+"xiǎo mài",
+"wheat; CL:粒[li4]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"麦克",
+38.33,
+"Mài kè",
+"Mike (name)"
+],
+[
+"麦克",
+38.33,
+"mài kè",
+"microphone (loanword)"
+],
+[
+"麦当劳",
+10.84,
+"Mài dāng láo",
+"MacDonald or McDonald (name); McDonald's (fast food company)"
+],
+[
+"丹麦",
+9.39,
+"Dān mài",
+"Denmark"
+],
+[
+"麦片",
+7.63,
+"mài piàn",
+"oatmeal; rolled oats"
+],
+[
+"麦迪逊",
+5.46,
+"Mài dí xùn",
+"Madison (name); Madison, capital of Wisconsin"
+]
+],
 "strokes": [
 "M 541 684 Q 701 712 709 719 Q 719 726 715 736 Q 708 748 678 757 Q 648 764 545 733 L 481 719 Q 405 706 320 701 Q 283 697 308 678 Q 351 651 407 663 Q 443 669 482 675 L 541 684 Z",
 "M 533 569 Q 560 575 680 587 Q 690 586 700 598 Q 701 610 679 620 Q 648 644 564 621 Q 549 618 536 614 L 483 603 Q 429 597 317 584 Q 289 581 310 564 Q 337 537 384 546 Q 427 555 483 562 L 533 569 Z",

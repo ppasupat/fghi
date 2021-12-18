@@ -10,57 +10,135 @@
 "票",
 2,
 "piào",
-"ticket; bank note; a vote"
-],
-[
-"发票",
-5,
-"fāpiào",
-"receipt or bill for purchase; invoice"
-],
-[
-"股票",
-5,
-"gǔpiào",
-"shares; stock (market)"
+"ticket; ballot; banknote; CL:張|张[zhang1]; person held for ransom; amateur performance of Chinese opera; classifier for groups, batches, business transactions"
 ],
 [
 "支票",
 5,
-"zhīpiào",
-"(bank) check"
+"zhī piào",
+"check (bank); cheque; CL:本[ben3]"
 ],
 [
-"彩票",
-6,
-"cǎipiào",
-"lottery; lottery ticket"
+"股票",
+5,
+"gǔ piào",
+"share certificate; stock (finance)"
 ],
 [
-"钞票",
-6,
-"chāopiào",
-"paper money; bill"
+"发票",
+5,
+"fā piào",
+"invoice; receipt or bill for purchase"
 ],
 [
 "投票",
 6,
-"tóupiào",
-"vote; poll"
+"tóu piào",
+"to vote; vote"
+],
+[
+"钞票",
+6,
+"chāo piào",
+"paper money; a bill (e.g. 100 yuan); CL:張|张[zhang1],紮|扎[za1]"
+],
+[
+"彩票",
+6,
+"cǎi piào",
+"lottery ticket"
 ]
 ],
 "extraWords": [
 [
+"门票",
+22.06,
+"mén piào",
+"ticket (for theater, cinema etc)"
+],
+[
+"机票",
+16.23,
+"jī piào",
+"air ticket; passenger ticket; CL:張|张[zhang1]"
+],
+[
+"票价",
+14.44,
+"piào jià",
+"ticket price; fare; admission fee"
+],
+[
 "船票",
 13.27,
-"chuan2 piao4",
+"chuán piào",
 "ship ticket"
 ],
 [
 "票房",
 13.05,
-"piao4 fang2",
+"piào fáng",
 "box office"
+],
+[
+"车票",
+11.65,
+"chē piào",
+"ticket (for a bus or train)"
+],
+[
+"选票",
+10.58,
+"xuǎn piào",
+"a vote; ballot; CL:張|张[zhang1]"
+],
+[
+"邮票",
+9.06,
+"yóu piào",
+"(postage) stamp; CL:枚[mei2],張|张[zhang1]"
+],
+[
+"售票",
+9.02,
+"shòu piào",
+"to sell tickets"
+],
+[
+"票据",
+8.32,
+"piào jù",
+"negotiable instrument (draft, note etc); voucher; receipt"
+],
+[
+"火车票",
+7.92,
+"huǒ chē piào",
+"train ticket"
+],
+[
+"传票",
+6.92,
+"chuán piào",
+"summons; subpoena; voucher"
+],
+[
+"股票市场",
+6.63,
+"gǔ piào shì chǎng",
+"stock market; stock exchange"
+],
+[
+"买票",
+6.46,
+"mǎi piào",
+"to buy tickets; (Tw) to buy votes (in an election)"
+],
+[
+"订票",
+6.17,
+"dìng piào",
+"to book tickets; to issue tickets"
 ]
 ],
 "strokes": [

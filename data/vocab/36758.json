@@ -9,11 +9,24 @@
 [
 "管辖",
 6,
-"guǎnxiá",
-"administer; have jurisdiction (over)"
+"guǎn xiá",
+"to administer; to have jurisdiction (over)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"辖区",
+13.96,
+"xiá qū",
+"administrative region"
+],
+[
+"直辖市",
+8.3,
+"zhí xiá shì",
+"municipality, namely: Beijing 北京, Tianjin 天津, Shanghai 上海 and Chongqing 重慶|重庆, the first level administrative subdivision; province level city; also called directly governed city"
+]
+],
 "strokes": [
 "M 287 602 Q 335 615 388 626 Q 422 636 428 641 Q 435 648 431 657 Q 424 667 396 674 Q 371 677 312 656 L 261 640 Q 257 640 255 639 Q 209 627 152 620 Q 116 613 143 598 Q 182 574 237 591 Q 238 592 244 592 L 287 602 Z",
 "M 350 403 Q 390 413 428 416 Q 456 419 448 433 Q 438 445 422 451 Q 407 457 352 437 L 306 425 Q 269 418 227 408 Q 214 405 213 408 Q 212 409 213 420 Q 244 504 287 602 L 312 656 Q 342 732 366 756 Q 379 768 362 787 Q 337 814 318 826 Q 305 833 295 831 Q 286 827 292 806 Q 299 770 261 640 L 244 592 Q 183 444 146 406 Q 131 390 136 375 Q 143 356 153 346 Q 163 336 173 341 Q 209 363 301 390 Q 302 391 306 391 L 350 403 Z",

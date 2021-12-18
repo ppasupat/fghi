@@ -10,16 +10,125 @@
 "杀",
 5,
 "shā",
-"to kill; to murder"
+"to kill; to murder; to attack; to weaken or reduce; to smart (dialect); (used after a verb) extremely"
 ],
 [
 "抹杀",
 6,
-"mǒshā",
-"write off; erase; remove from evidence"
+"mǒ shā",
+"to erase; to cover traces; to obliterate evidence; to expunge; to blot out; to suppress"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"谋杀",
+118.91,
+"móu shā",
+"to murder; to assassinate; intentional homicide"
+],
+[
+"杀死",
+92.2,
+"shā sǐ",
+"to kill"
+],
+[
+"杀人",
+91.31,
+"shā rén",
+"homicide; to murder; to kill (a person)"
+],
+[
+"自杀",
+88.5,
+"zì shā",
+"to kill oneself; to commit suicide; to attempt suicide"
+],
+[
+"杀手",
+76.28,
+"shā shǒu",
+"killer; murderer; hit man; (sports) formidable player"
+],
+[
+"杀害",
+43.07,
+"shā hài",
+"to murder"
+],
+[
+"谋杀案",
+31.39,
+"móu shā àn",
+"murder case"
+],
+[
+"杀人犯",
+20.66,
+"shā rén fàn",
+"murderer; homicide"
+],
+[
+"枪杀",
+14.37,
+"qiāng shā",
+"to shoot dead"
+],
+[
+"屠杀",
+12.22,
+"tú shā",
+"to massacre; massacre; bloodbath; carnage"
+],
+[
+"暗杀",
+10.91,
+"àn shā",
+"to assassinate"
+],
+[
+"凶杀",
+10.16,
+"xiōng shā",
+"to murder; assassination"
+],
+[
+"杀戮",
+9.57,
+"shā lù",
+"to massacre; to slaughter"
+],
+[
+"谋杀罪",
+8.08,
+"móu shā zuì",
+"murder"
+],
+[
+"凶杀案",
+7.75,
+"xiōng shā àn",
+"murder case"
+],
+[
+"刺杀",
+7.24,
+"cì shā",
+"to assassinate; (military) to fight with a bayonet; (baseball) to put out (a baserunner)"
+],
+[
+"杀人狂",
+5.93,
+"shā rén kuáng",
+"homicidal maniac"
+],
+[
+"大屠杀",
+5.69,
+"dà tú shā",
+"massacre; Holocaust"
+]
+],
 "strokes": [
 "M 566 629 Q 572 641 673 739 Q 686 749 676 769 Q 639 814 613 816 Q 601 816 600 801 Q 591 729 523 650 L 489 615 Q 480 609 473 601 Q 418 549 356 513 Q 304 483 276 464 Q 263 451 280 451 Q 308 450 351 471 Q 453 520 528 590 L 566 629 Z",
 "M 528 590 Q 705 470 708 469 Q 715 469 720 478 Q 729 491 712 525 Q 697 564 566 629 L 523 650 Q 408 705 343 730 Q 336 733 335 722 Q 336 712 347 704 Q 414 665 489 615 L 528 590 Z",

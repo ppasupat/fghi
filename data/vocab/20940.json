@@ -9,17 +9,24 @@
 [
 "冰激凌",
 5,
-"bīngjīlíng",
+"bīng jī líng",
 "ice cream"
 ],
 [
 "凌晨",
 6,
-"língchén",
-"early in the morning"
+"líng chén",
+"very early in the morning; in the wee hours"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"凌乱",
+6.57,
+"líng luàn",
+"messy; disarrayed; disheveled; chaos"
+]
+],
 "strokes": [
 "M 189 605 Q 214 577 241 544 Q 254 528 273 527 Q 285 526 292 541 Q 299 557 293 592 Q 289 614 257 632 Q 184 671 164 663 Q 158 659 158 645 Q 161 632 189 605 Z",
 "M 116 211 Q 103 208 105 190 Q 112 115 146 94 Q 153 87 163 88 Q 170 89 174 114 Q 184 165 295 396 Q 302 412 302 418 Q 302 428 293 422 Q 283 415 269 400 Q 211 319 158 248 Q 145 229 116 211 Z",

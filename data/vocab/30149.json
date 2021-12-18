@@ -9,147 +9,189 @@
 [
 "生病",
 2,
-"shēngbìng",
-"get sick; fall ill"
+"shēng bìng",
+"to fall ill"
 ],
 [
 "病毒",
 5,
-"bìngdú",
+"bìng dú",
 "virus"
 ],
 [
 "毛病",
 5,
-"máobìng",
-"fault; bad habit; shortcoming"
-],
-[
-"弊病",
-6,
-"bìbìng",
-"malady; evil; malpractice; drawback"
+"máo bìng",
+"fault; defect; shortcomings; ailment; CL:個|个[ge4]"
 ],
 [
 "疾病",
 6,
-"jíbìng",
-"disease; illness; sickness; ailment"
+"jí bìng",
+"disease; sickness; ailment"
+],
+[
+"弊病",
+6,
+"bì bìng",
+"malady; evil; malpractice; drawback; disadvantage"
 ]
 ],
 "extraWords": [
 [
 "病人",
 101.77,
-"bing4 ren2",
+"bìng rén",
 "sick person; patient; invalid; CL:個|个[ge4]"
 ],
 [
 "病例",
 36.72,
-"bing4 li4",
+"bìng lì",
 "(medical) case; occurrence of illness"
 ],
 [
 "病情",
 27.61,
-"bing4 qing2",
+"bìng qíng",
 "state of an illness; patient's condition"
+],
+[
+"发病",
+26.44,
+"fā bìng",
+"onset; outbreak (of a disease)"
+],
+[
+"病变",
+25.41,
+"bìng biàn",
+"pathological changes; lesion; diseased (kidney, cornea etc)"
+],
+[
+"心脏病",
+25.1,
+"xīn zàng bìng",
+"heart disease"
 ],
 [
 "病理",
 23.53,
-"bing4 li3",
+"bìng lǐ",
 "pathology"
 ],
 [
 "艾滋病",
 23.1,
-"ai4 zi1 bing4",
+"ài zī bìng",
 "AIDS (loanword)"
 ],
 [
 "糖尿病",
 18.73,
-"tang2 niao4 bing4",
+"táng niào bìng",
 "diabetes; diabetes mellitus"
 ],
 [
 "看病",
 15.75,
-"kan4 bing4",
+"kàn bìng",
 "to visit a doctor; to see a patient"
 ],
 [
 "精神病",
 15.26,
-"jing1 shen2 bing4",
+"jīng shén bìng",
 "mental disorder; psychosis"
+],
+[
+"神经病",
+12.88,
+"shén jīng bìng",
+"mental disorder; neuropathy; (derog.) mental case"
 ],
 [
 "病房",
 12.79,
-"bing4 fang2",
+"bìng fáng",
 "ward (of a hospital); sickroom; CL:間|间[jian1]"
+],
+[
+"传染病",
+10.54,
+"chuán rǎn bìng",
+"infectious disease; contagious disease; pestilence"
+],
+[
+"发病率",
+9.61,
+"fā bìng lu:4",
+"incidence of a disease; disease rate"
 ],
 [
 "治病",
 8.97,
-"zhi4 bing4",
+"zhì bìng",
 "to treat an illness"
 ],
 [
 "病灶",
 8.14,
-"bing4 zao4",
+"bìng zào",
 "focus of infection; lesion; nidus"
 ],
 [
 "病因",
 8.08,
-"bing4 yin1",
+"bìng yīn",
 "cause of disease; pathogen"
 ],
 [
 "白血病",
 7.61,
-"bai2 xue4 bing4",
+"bái xuè bìng",
 "leukemia"
 ],
 [
 "冠心病",
 7.1,
-"guan1 xin1 bing4",
+"guān xīn bìng",
 "coronary heart disease"
 ],
 [
 "病程",
 6.98,
-"bing4 cheng2",
+"bìng chéng",
 "course of disease"
 ],
 [
 "病床",
 6.53,
-"bing4 chuang2",
+"bìng chuáng",
 "hospital bed; sickbed"
 ],
 [
 "病史",
 6.37,
-"bing4 shi3",
+"bìng shǐ",
 "medical history"
 ],
 [
 "患病",
 6.35,
-"huan4 bing4",
+"huàn bìng",
 "to fall ill"
+],
+[
+"病历",
+6.14,
+"bìng lì",
+"medical record; case history"
 ],
 [
 "性病",
 5.06,
-"xing4 bing4",
+"xìng bìng",
 "sexually transmitted disease; venereal disease"
 ]
 ],

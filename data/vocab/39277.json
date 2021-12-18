@@ -9,17 +9,72 @@
 [
 "饭店",
 1,
-"fàndiàn",
-"restaurant; hotel"
+"fàn diàn",
+"restaurant; hotel; CL:家[jia1],個|个[ge4]"
 ],
 [
 "米饭",
 1,
-"mǐfàn",
+"mǐ fàn",
 "(cooked) rice"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"吃饭",
+89.87,
+"chī fàn",
+"to have a meal; to eat; to make a living"
+],
+[
+"晚饭",
+48.08,
+"wǎn fàn",
+"evening meal; dinner; supper; CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
+],
+[
+"午饭",
+42.27,
+"wǔ fàn",
+"lunch; CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
+],
+[
+"做饭",
+16.16,
+"zuò fàn",
+"to prepare a meal; to cook"
+],
+[
+"早饭",
+14.49,
+"zǎo fàn",
+"breakfast; CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
+],
+[
+"稀饭",
+7.96,
+"xī fàn",
+"porridge; gruel"
+],
+[
+"饭菜",
+7.14,
+"fàn cài",
+"food"
+],
+[
+"饭碗",
+6.2,
+"fàn wǎn",
+"rice bowl; fig. livelihood; job; way of making a living"
+],
+[
+"年夜饭",
+5.2,
+"nián yè fàn",
+"New Year's Eve family dinner"
+]
+],
 "strokes": [
 "M 259 579 Q 341 729 351 738 Q 360 750 354 764 Q 350 777 318 799 Q 288 815 269 815 Q 250 811 259 789 Q 277 756 265 727 Q 205 553 53 349 Q 43 337 41 331 Q 38 318 53 322 Q 119 349 250 565 L 259 579 Z",
 "M 250 565 Q 265 555 340 570 Q 376 585 381 577 Q 385 574 381 566 Q 356 499 337 467 Q 331 454 330 448 Q 329 438 340 444 Q 352 450 405 514 Q 438 554 470 578 Q 486 588 475 600 Q 462 610 426 629 Q 410 633 397 623 Q 387 619 310 591 Q 288 584 259 579 C 229 574 225 573 250 565 Z",

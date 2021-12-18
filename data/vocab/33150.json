@@ -7,19 +7,38 @@
 },
 "words": [
 [
-"沸腾",
-6,
-"fèiténg",
-"to boil; boiling"
-],
-[
 "折腾",
 6,
-"zhēteng",
-"toss from side to side (e.g. sleeplessly); do something over and over again; cause suffering; play crazy; screw around"
+"zhē teng",
+"to toss from side to side (e.g. sleeplessly); to repeat sth over and over again; to torment sb; to play crazy; to squander (time, money)"
+],
+[
+"沸腾",
+6,
+"fèi téng",
+"(of a liquid) to boil; (of sentiments etc) to boil over; to flare up; to be impassioned"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"奔腾",
+7.52,
+"Bēn téng",
+"Pentium (microprocessor by Intel)"
+],
+[
+"奔腾",
+7.52,
+"bēn téng",
+"(of waves) to surge forward; to roll on in waves; to gallop"
+],
+[
+"腾出",
+5.79,
+"téng chū",
+"to make (some time or space) available (for sb)"
+]
+],
 "strokes": [
 "M 187 735 Q 177 742 162 746 Q 146 753 134 748 Q 125 741 132 730 Q 186 663 145 383 Q 139 358 134 333 Q 107 233 43 107 Q 39 101 39 96 Q 38 86 46 89 Q 85 105 147 244 Q 151 260 158 275 Q 174 327 186 386 L 191 414 Q 198 448 202 532 L 203 565 Q 203 697 208 708 C 210 724 210 724 187 735 Z",
 "M 351 119 Q 352 132 352 145 Q 342 329 340 629 Q 339 681 352 704 Q 364 722 352 732 Q 333 748 300 763 Q 284 770 269 763 Q 247 750 233 746 Q 217 742 187 735 C 158 728 179 700 208 708 Q 232 714 258 722 Q 277 725 282 714 Q 297 675 297 387 Q 297 158 282 133 Q 276 129 206 140 Q 187 144 189 136 Q 244 96 277 65 Q 290 49 304 45 Q 311 41 319 51 Q 341 81 348 107 L 351 119 Z",

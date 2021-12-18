@@ -9,47 +9,198 @@
 [
 "年级",
 3,
-"niánjí",
-"grade; year (in school)"
+"nián jí",
+"grade; year (in school, college etc); CL:個|个[ge4]"
 ],
 [
 "超级",
 5,
-"chāojí",
-"super; transcending; high grade"
-],
-[
-"初级",
-5,
-"chūjí",
-"junior; primary"
+"chāo jí",
+"super-; ultra-; hyper-"
 ],
 [
 "高级",
 5,
-"gāojí",
-"high-level; high-grade; advanced"
+"gāo jí",
+"high level; high grade; advanced; high-ranking"
 ],
 [
-"等级",
-6,
-"děngjí",
-"degree; rate"
+"初级",
+5,
+"chū jí",
+"junior; primary"
 ],
 [
 "级别",
 6,
-"jíbié",
-"rank; level; grade"
+"jí bié",
+"(military) rank; level; grade"
 ],
 [
 "上级",
 6,
-"shàngjí",
-"higher authorities; superiors"
+"shàng jí",
+"higher authorities; superiors; CL:個|个[ge4]"
+],
+[
+"等级",
+6,
+"děng jí",
+"grade; rank; status"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"各级",
+76.59,
+"gè jí",
+"all levels"
+],
+[
+"升级",
+75.69,
+"shēng jí",
+"to escalate (in intensity); to go up by one grade; to be promoted; to upgrade (computing)"
+],
+[
+"无产阶级",
+42.58,
+"wú chǎn jiē jí",
+"proletariat"
+],
+[
+"阶级",
+24.48,
+"jiē jí",
+"(social) class; CL:個|个[ge4]"
+],
+[
+"资产阶级",
+23.97,
+"zī chǎn jiē jí",
+"the capitalist class; the bourgeoisie"
+],
+[
+"晋级",
+21.64,
+"jìn jí",
+"to advance in rank; promotion; advancement"
+],
+[
+"省级",
+20.36,
+"shěng jí",
+"(administrative) province-level"
+],
+[
+"国家级",
+14.14,
+"guó jiā jí",
+"(administrative) national-level"
+],
+[
+"评级",
+12.05,
+"píng jí",
+"rating"
+],
+[
+"阶级斗争",
+11.77,
+"jiē jí dòu zhēng",
+"class struggle"
+],
+[
+"县级",
+11.71,
+"xiàn jí",
+"county level"
+],
+[
+"工人阶级",
+10.55,
+"gōng rén jiē jí",
+"working class"
+],
+[
+"顶级",
+9.39,
+"dǐng jí",
+"top-notch; first-rate"
+],
+[
+"中级",
+8.28,
+"zhōng jí",
+"middle level (in a hierarchy)"
+],
+[
+"班级",
+7.86,
+"bān jí",
+"class (group of students); grade (in school)"
+],
+[
+"分级",
+7.6,
+"fēn jí",
+"to rank; to grade; to classify; rank; grade; classification"
+],
+[
+"甲级",
+7.22,
+"jiǎ jí",
+"first rate; top class; excellent"
+],
+[
+"一级",
+7.21,
+"yī jí",
+"first class; category A"
+],
+[
+"二级",
+5.72,
+"èr jí",
+"grade 2; second class; category B"
+],
+[
+"世界级",
+5.6,
+"shì jiè jí",
+"world-class"
+],
+[
+"低级",
+5.51,
+"dī jí",
+"low level; rudimentary; vulgar; low; inferior"
+],
+[
+"星级",
+5.5,
+"xīng jí",
+"star rating; top-class; highly rated"
+],
+[
+"重量级",
+5.48,
+"zhòng liàng jí",
+"heavyweight (boxing etc)"
+],
+[
+"降级",
+5.26,
+"jiàng jí",
+"to demote; to relegate; to degrade"
+],
+[
+"五星级",
+5.1,
+"wǔ xīng jí",
+"five-star (hotel)"
+]
+],
 "strokes": [
 "M 312 490 Q 264 493 224 494 Q 185 494 206 517 Q 275 632 341 719 Q 356 737 353 744 Q 350 760 310 791 Q 294 806 274 801 Q 262 798 269 782 Q 287 740 198 577 Q 179 540 139 504 Q 120 491 121 478 Q 125 459 139 440 Q 149 428 163 435 Q 188 448 276 463 Q 283 464 292 463 C 322 463 342 488 312 490 Z",
 "M 292 463 Q 201 346 184 337 Q 171 328 174 315 Q 175 302 201 283 Q 211 271 226 283 Q 283 325 390 363 Q 409 369 411 377 Q 414 387 394 383 Q 339 373 269 352 Q 244 343 260 364 Q 300 419 392 528 Q 420 565 445 585 Q 458 595 451 605 Q 441 624 409 643 Q 393 652 384 649 Q 374 646 376 631 Q 377 592 312 490 L 292 463 Z",

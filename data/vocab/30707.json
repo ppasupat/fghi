@@ -9,40 +9,76 @@
 [
 "石头",
 5,
-"shítou",
-"stone; rock"
+"shí tou",
+"stone; CL:塊|块[kuai4]"
 ],
 [
-"化石",
+"钻石",
 6,
-"huàshí",
-"fossil"
+"zuàn shí",
+"diamond; CL:顆|颗[ke1]"
 ],
 [
 "石油",
 6,
-"shíyóu",
+"shí yóu",
 "oil; petroleum"
 ],
 [
 "岩石",
 6,
-"yánshí",
-"rock; stone"
+"yán shí",
+"rock"
 ],
 [
-"钻石",
+"化石",
 6,
-"zuànshí",
-"diamond"
+"huà shí",
+"fossil"
 ]
 ],
 "extraWords": [
 [
 "石化",
 25.53,
-"shi2 hua4",
+"shí huà",
 "to petrify; petrochemical industry"
+],
+[
+"蒋介石",
+11.78,
+"Jiǎng Jiè shí",
+"Chiang Kai-shek (1887-1975), military leader, head of the Nationalist government in China 1928-1949 and the government in exile on Taiwan 1950-1975"
+],
+[
+"石家庄",
+8.17,
+"Shí jiā zhuāng",
+"Shijiazhuang prefecture level city and capital of Hebei Province 河北省[He2 bei3 Sheng3] in north China"
+],
+[
+"宝石",
+7.58,
+"bǎo shí",
+"precious stone; gem; CL:枚[mei2],顆|颗[ke1]"
+],
+[
+"结石",
+7.24,
+"jié shí",
+"calculus; stone"
+],
+[
+"陨石",
+6.71,
+"yǔn shí",
+"meteorite; aerolite; CL:塊|块[kuai4],顆|颗[ke1]"
+],
+[
+"铁矿石",
+6.46,
+"tiě kuàng shí",
+"iron ore"
 ]
 ],
 "strokes": [

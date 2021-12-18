@@ -10,27 +10,45 @@
 "群",
 5,
 "qún",
-"crowd; group; (mw for groups, flocks, or swarms)"
+"variant of 群[qun2]"
+],
+[
+"群",
+5,
+"qún",
+"group; crowd; flock, herd, pack etc"
 ],
 [
 "群众",
 6,
-"qúnzhòng",
-"the masses; multitude"
+"qún zhòng",
+"mass; multitude; the masses"
 ]
 ],
 "extraWords": [
 [
 "人群",
 51.0,
-"ren2 qun2",
+"rén qún",
 "crowd"
+],
+[
+"群体",
+43.24,
+"qún tǐ",
+"community; colony"
 ],
 [
 "集群",
 5.85,
-"ji2 qun2",
+"jí qún",
 "clan; to clan together; to flock together"
+],
+[
+"群众性",
+5.0,
+"qún zhòng xìng",
+"to do with the masses; mass (meeting, movement etc)"
 ]
 ],
 "strokes": [

@@ -9,23 +9,156 @@
 [
 "红",
 2,
+"Hóng",
+"surname Hong"
+],
+[
+"红",
+2,
 "hóng",
-"red; symbol of success; bonus; popular"
+"red; popular; revolutionary; bonus"
 ],
 [
 "西红柿",
 4,
-"xīhóngshì",
-"tomato"
+"xī hóng shì",
+"tomato; CL:隻|只[zhi1]"
 ],
 [
 "分红",
 6,
 "fēn hóng",
-"a bonus; to award a bonus; to draw or recieve dividends; to share profits"
+"dividend; to award a bonus"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"红色",
+50.43,
+"hóng sè",
+"red (color); revolutionary"
+],
+[
+"红包",
+25.03,
+"hóng bāo",
+"money wrapped in red as a gift; bonus payment; kickback; bribe"
+],
+[
+"红军",
+21.02,
+"Hóng jūn",
+"Red Army (1928-1937), predecessor of the PLA; (Soviet) Red Army (1917-1946)"
+],
+[
+"红旗",
+14.33,
+"Hóng qí",
+"Hongqi district of Xinxiang city 新鄉市|新乡市[Xin1 xiang1 shi4], Henan"
+],
+[
+"红旗",
+14.33,
+"hóng qí",
+"red flag; CL:面[mian4]"
+],
+[
+"红星",
+12.15,
+"Hóng xīng",
+"Hongxing district of Yichun city 伊春市[Yi1 chun1 shi4], Heilongjiang"
+],
+[
+"红星",
+12.15,
+"hóng xīng",
+"red star; five pointed star as symbol or communism or proletariat; hot film star"
+],
+[
+"红利",
+9.33,
+"hóng lì",
+"bonus; dividend"
+],
+[
+"红细胞",
+8.11,
+"hóng xì bāo",
+"erythrocyte; red blood cell"
+],
+[
+"粉红",
+7.75,
+"fěn hóng",
+"pink"
+],
+[
+"红楼梦",
+7.65,
+"Hóng lóu Mèng",
+"A Dream of Red Mansions (first completed edition 1791) by Cao Xueqin 曹雪芹[Cao2 Xue3 qin2], one of the four great novels"
+],
+[
+"口红",
+7.3,
+"kǒu hóng",
+"lipstick"
+],
+[
+"红灯",
+7.09,
+"hóng dēng",
+"red light"
+],
+[
+"红枣",
+6.6,
+"hóng zǎo",
+"jujube; red date"
+],
+[
+"红豆",
+6.33,
+"hóng dòu",
+"azuki bean; red bean"
+],
+[
+"红火",
+6.17,
+"hóng huǒ",
+"prosperous"
+],
+[
+"大红",
+5.7,
+"dà hóng",
+"crimson"
+],
+[
+"红牌",
+5.61,
+"hóng pái",
+"red card (sports)"
+],
+[
+"红薯",
+5.47,
+"hóng shǔ",
+"sweet potato"
+],
+[
+"脸红",
+5.34,
+"liǎn hóng",
+"to blush; to redden (with shame, indignation etc)"
+],
+[
+"粉红色",
+5.22,
+"fěn hóng sè",
+"pink"
+]
+],
 "strokes": [
 "M 341 453 Q 283 454 236 453 Q 196 453 217 477 Q 290 607 363 702 Q 379 721 375 730 Q 372 746 328 780 Q 310 795 290 791 Q 277 787 285 770 Q 307 710 193 516 Q 175 491 145 463 Q 124 447 126 433 Q 130 412 147 393 Q 159 380 172 389 Q 214 411 322 425 C 352 429 371 453 341 453 Z",
 "M 322 425 Q 210 278 187 267 Q 172 257 175 243 Q 176 230 203 209 Q 213 196 230 209 Q 299 254 413 291 Q 432 295 435 305 Q 438 315 417 312 Q 354 302 277 280 Q 247 270 267 294 Q 406 483 466 531 Q 479 541 472 552 Q 462 571 428 591 Q 412 601 402 598 Q 392 595 394 579 Q 395 543 341 453 L 322 425 Z",

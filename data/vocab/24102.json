@@ -10,40 +10,161 @@
 "带",
 3,
 "dài",
-"band; belt; ribbon; carry; bring; take along; bring up (kids)"
+"band; belt; girdle; ribbon; tire; area; zone; region; CL:條|条[tiao2]; to wear; to carry; to take along; to bear (i.e. to have); to lead; to bring; to look after; to raise"
 ],
 [
 "系领带",
 5,
-"jìlǐngdài",
-"tie a neck tie"
-],
-[
-"磁带",
-6,
-"cídài",
-"cassette tape"
-],
-[
-"带领",
-6,
-"dàilǐng",
-"to guide; to lead"
-],
-[
-"温带",
-6,
-"wēndài",
-"temperate zone"
+"xi4 ling3 dai4",
+"to tie a necktie"
 ],
 [
 "携带",
 6,
-"xiédài",
-"take with; portable"
+"xié dài",
+"to carry (on one's person); to support (old); Taiwan pr. [xi1 dai4]"
+],
+[
+"带领",
+6,
+"dài lǐng",
+"to guide; to lead"
+],
+[
+"磁带",
+6,
+"cí dài",
+"magnetic tape; CL:盤|盘[pan2],盒[he2]"
+],
+[
+"温带",
+6,
+"wēn dài",
+"temperate zone"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"带来",
+192.74,
+"dài lái",
+"to bring; to bring about; to produce"
+],
+[
+"带走",
+71.9,
+"dài zǒu",
+"to carry; to take away"
+],
+[
+"带动",
+41.37,
+"dài dòng",
+"to spur; to provide impetus; to drive"
+],
+[
+"一带",
+22.59,
+"yī dài",
+"region; district"
+],
+[
+"带子",
+20.87,
+"dài zi",
+"belt; band; ribbon; strap; girdle; (coll.) audio or video tape; Farrer's scallop (Chlamys farreri); comb pen shell (Atrina pectinata)"
+],
+[
+"带回",
+18.68,
+"dài huí",
+"to bring back"
+],
+[
+"地带",
+18.43,
+"dì dài",
+"zone; CL:個|个[ge4]"
+],
+[
+"宽带",
+16.83,
+"kuān dài",
+"broadband"
+],
+[
+"录像带",
+16.66,
+"lù xiàng dài",
+"video cassette; CL:盤|盘[pan2]"
+],
+[
+"领带",
+15.23,
+"lǐng dài",
+"necktie; CL:條|条[tiao2]"
+],
+[
+"带头",
+13.97,
+"dài tóu",
+"to take the lead; to be the first; to set an example"
+],
+[
+"安全带",
+13.32,
+"ān quán dài",
+"seat belt; safety belt"
+],
+[
+"带有",
+9.06,
+"dài yǒu",
+"to have; to involve"
+],
+[
+"皮带",
+8.38,
+"pí dài",
+"strap; leather belt; CL:條|条[tiao2],根[gen1]"
+],
+[
+"连带",
+7.91,
+"lián dài",
+"to be related; to entail; to involve; joint (liability etc)"
+],
+[
+"腰带",
+7.15,
+"yāo dài",
+"belt"
+],
+[
+"胶带",
+6.65,
+"jiāo dài",
+"adhesive tape; rubber belt; recording tape"
+],
+[
+"带队",
+6.29,
+"dài duì",
+"to lead a team; to lead a group; group leader; (tourism) tour guide"
+],
+[
+"绷带",
+5.46,
+"bēng dài",
+"bandage (loanword)"
+],
+[
+"纽带",
+5.27,
+"niǔ dài",
+"tie; link; bond"
+]
+],
 "strokes": [
 "M 531 658 Q 574 665 625 670 L 673 675 Q 739 682 796 687 Q 806 686 816 698 Q 817 710 795 721 Q 756 743 695 725 Q 692 725 692 724 L 633 711 Q 630 711 533 693 L 488 685 Q 442 679 397 674 L 348 670 Q 293 666 234 660 Q 206 659 226 640 Q 236 630 251 621 Q 264 612 286 618 Q 320 625 358 630 L 399 637 Q 441 644 488 651 L 531 658 Z",
 "M 397 674 Q 396 696 395 715 Q 396 733 378 738 Q 339 757 322 751 Q 306 744 319 725 Q 338 700 348 670 L 358 630 Q 371 551 384 535 Q 396 525 401 536 Q 402 545 399 637 L 397 674 Z",

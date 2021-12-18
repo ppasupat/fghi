@@ -7,103 +7,428 @@
 },
 "words": [
 [
-"同学",
+"学校",
 1,
-"tóngxué",
-"fellow student; schoolmate"
+"xué xiào",
+"school; CL:所[suo3]"
 ],
 [
 "学生",
 1,
-"xuésheng",
-"student"
+"xué sheng",
+"student; schoolchild"
 ],
 [
 "学习",
 1,
-"xuéxí",
-"learn; to study"
+"xué xí",
+"to learn; to study"
 ],
 [
-"学校",
+"同学",
 1,
-"xuéxiào",
-"school"
-],
-[
-"留学",
-3,
-"liúxué",
-"study abroad"
+"tóng xué",
+"to study at the same school; fellow student; classmate; CL:位[wei4],個|个[ge4]"
 ],
 [
 "数学",
 3,
-"shùxué",
-"mathematics"
+"shù xué",
+"mathematics; mathematical"
+],
+[
+"留学",
+3,
+"liú xué",
+"to study abroad"
 ],
 [
 "科学",
 4,
-"kēxué",
-"science; scientific knowledge"
+"kē xué",
+"science; scientific knowledge; scientific; rational; CL:門|门[men2],個|个[ge4],種|种[zhong3]"
 ],
 [
 "学期",
 4,
-"xuéqī",
-"semester; school term"
+"xué qī",
+"term; semester; CL:個|个[ge4]"
 ],
 [
 "化学",
 5,
-"huàxué",
-"chemistry"
+"huà xué",
+"chemistry; chemical"
 ],
 [
 "文学",
 5,
-"wénxué",
-"literature"
-],
-[
-"学历",
-5,
-"xuélì",
-"educational background; school record"
-],
-[
-"学术",
-5,
-"xuéshù",
-"learning; science; academic"
-],
-[
-"学问",
-5,
-"xuéwen",
-"learning; knowledge"
+"wén xué",
+"literature; CL:種|种[zhong3]"
 ],
 [
 "哲学",
 5,
-"zhéxué",
-"philosophy"
+"zhé xué",
+"philosophy; CL:個|个[ge4]"
 ],
 [
-"学说",
-6,
-"xuéshuō",
-"theory; doctrine"
+"学术",
+5,
+"xué shù",
+"learning; science; academic; CL:個|个[ge4]"
+],
+[
+"学历",
+5,
+"xué lì",
+"educational background; academic qualifications"
+],
+[
+"学问",
+5,
+"xué wèn",
+"learning; knowledge; CL:個|个[ge4]"
 ],
 [
 "学位",
 6,
-"xuéwèi",
-"academic degree; educational level"
+"xué wèi",
+"academic degree; place in school"
+],
+[
+"学说",
+6,
+"xué shuō",
+"theory; doctrine"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"大学",
+140.85,
+"Dà xué",
+"the Great Learning, one of the Four Books 四書|四书[Si4 shu1] in Confucianism"
+],
+[
+"大学",
+140.85,
+"dà xué",
+"university; college; CL:所[suo3]"
+],
+[
+"教学",
+121.55,
+"jiāo xué",
+"to teach (as a professor)"
+],
+[
+"教学",
+121.55,
+"jiào xué",
+"teaching; instruction; CL:門|门[men2],個|个[ge4]"
+],
+[
+"学会",
+83.63,
+"xué huì",
+"to learn; to master; institute; learned society; (scholarly) association"
+],
+[
+"学院",
+62.29,
+"xué yuàn",
+"college; educational institute; school; faculty; CL:所[suo3]"
+],
+[
+"大学生",
+58.06,
+"dà xué shēng",
+"university student; college student"
+],
+[
+"小学",
+53.87,
+"xiǎo xué",
+"elementary school; primary school; CL:個|个[ge4]"
+],
+[
+"学者",
+46.86,
+"xué zhě",
+"scholar"
+],
+[
+"医学",
+44.11,
+"yī xué",
+"medicine; medical science; study of medicine"
+],
+[
+"中学",
+38.27,
+"zhōng xué",
+"middle school; CL:個|个[ge4]"
+],
+[
+"上学",
+36.99,
+"shàng xué",
+"to go to school; to attend school"
+],
+[
+"学科",
+33.62,
+"xué kē",
+"subject; branch of learning; course; academic discipline"
+],
+[
+"科学家",
+27.96,
+"kē xué jiā",
+"scientist; CL:個|个[ge4]"
+],
+[
+"科学技术",
+23.52,
+"kē xué jì shù",
+"science and technology"
+],
+[
+"学员",
+20.21,
+"xué yuán",
+"student; member of an institution of learning; officer cadet"
+],
+[
+"办学",
+18.79,
+"bàn xué",
+"to run a school"
+],
+[
+"经济学",
+16.79,
+"jīng jì xué",
+"economics (as a field of study)"
+],
+[
+"经济学家",
+15.76,
+"jīng jì xué jiā",
+"economist"
+],
+[
+"中小学",
+15.71,
+"zhōng xiǎo xué",
+"middle and elementary school"
+],
+[
+"学费",
+15.38,
+"xué fèi",
+"tuition fee; tuition; CL:個|个[ge4]"
+],
+[
+"小学生",
+12.92,
+"xiǎo xué shēng",
+"primary school student; schoolchild; CL:個|个[ge4],名[ming2]; (fig.) beginner"
+],
+[
+"放学",
+12.82,
+"fàng xué",
+"to dismiss students at the end of the school day"
+],
+[
+"入学",
+12.69,
+"rù xué",
+"to enter a school or college; to go to school for the first time as a child"
+],
+[
+"奖学金",
+11.98,
+"jiǎng xué jīn",
+"scholarship; CL:筆|笔[bi3]"
+],
+[
+"光学",
+11.73,
+"guāng xué",
+"optics; optical (instrument)"
+],
+[
+"北京大学",
+11.67,
+"Běi jīng Dà xué",
+"Peking University"
+],
+[
+"中学生",
+11.24,
+"zhōng xué shēng",
+"middle-school student; high school student"
+],
+[
+"心理学",
+10.7,
+"xīn lǐ xué",
+"psychology"
+],
+[
+"开学",
+10.64,
+"kāi xué",
+"foundation of a University or College; school opening; the start of a new term"
+],
+[
+"统计学",
+10.43,
+"tǒng jì xué",
+"statistics"
+],
+[
+"清华大学",
+10.34,
+"Qīng huá Dà xué",
+"Tsinghua or Qinghua University, Beijing; National Tsing Hua University, Hsinchu, Taiwan"
+],
+[
+"留学生",
+9.89,
+"liú xué shēng",
+"student studying abroad; (foreign) exchange student; CL:個|个[ge4],位[wei4]"
+],
+[
+"学业",
+9.35,
+"xué yè",
+"studies; schoolwork"
+],
+[
+"医学院",
+8.47,
+"yī xué yuàn",
+"medical school"
+],
+[
+"美学",
+7.83,
+"měi xué",
+"aesthetics"
+],
+[
+"力学",
+7.81,
+"lì xué",
+"mechanics; to study hard"
+],
+[
+"自学",
+7.72,
+"zì xué",
+"self-study; to study on one's own"
+],
+[
+"社会科学",
+7.68,
+"shè huì kē xué",
+"social sciences"
+],
+[
+"生物学",
+7.63,
+"shēng wù xué",
+"biology"
+],
+[
+"科学院",
+7.56,
+"kē xué yuàn",
+"academy of sciences; CL:個|个[ge4]"
+],
+[
+"法学",
+7.46,
+"fǎ xué",
+"law; legal studies"
+],
+[
+"中国科学院",
+7.04,
+"Zhōng guó Kē xué yuàn",
+"Chinese Academy of Science"
+],
+[
+"法学院",
+6.59,
+"fǎ xué yuàn",
+"law school"
+],
+[
+"自然科学",
+6.2,
+"zì rán kē xué",
+"natural sciences"
+],
+[
+"学子",
+5.91,
+"xué zǐ",
+"(literary) student; scholar"
+],
+[
+"学报",
+5.8,
+"xué bào",
+"a scholarly journal; Journal, Bulletin etc"
+],
+[
+"学派",
+5.76,
+"xué pài",
+"school of thought"
+],
+[
+"复旦大学",
+5.61,
+"Fù dàn Dà xué",
+"Fudan University, Shanghai"
+],
+[
+"学徒",
+5.57,
+"xué tú",
+"apprentice"
+],
+[
+"社会学",
+5.27,
+"shè huì xué",
+"sociology"
+],
+[
+"浙江大学",
+5.13,
+"Zhè jiāng Dà xué",
+"Zhejiang University"
+],
+[
+"学好",
+5.04,
+"xué hǎo",
+"to follow good examples"
+],
+[
+"退学",
+5.04,
+"tuì xué",
+"to quit school"
+]
+],
 "strokes": [
 "M 311 681 Q 332 656 354 626 Q 364 611 380 610 Q 390 609 397 621 Q 404 634 399 664 Q 395 694 313 727 Q 298 733 292 731 Q 288 728 287 715 Q 288 705 311 681 Z",
 "M 456 744 Q 475 717 495 685 Q 504 672 517 669 Q 526 668 533 677 Q 540 689 539 715 Q 536 745 462 785 Q 450 792 444 791 Q 440 788 438 777 Q 439 767 456 744 Z",

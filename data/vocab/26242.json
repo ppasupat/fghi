@@ -9,17 +9,36 @@
 [
 "暂时",
 4,
-"zànshí",
-"temporary; transient; for the moment"
+"zàn shí",
+"temporary; provisional; for the time being"
 ],
 [
 "暂且",
 6,
-"zànqiě",
-"for the moment; for the time being; temporarily"
+"zàn qiě",
+"for now; for the time being; temporarily"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"暂停",
+21.19,
+"zàn tíng",
+"to suspend; time-out (e.g. in sports); stoppage; pause (media player)"
+],
+[
+"短暂",
+19.04,
+"duǎn zàn",
+"of short duration; brief; momentary"
+],
+[
+"暂行",
+11.0,
+"zàn xíng",
+"provisional"
+]
+],
 "strokes": [
 "M 342 689 Q 499 722 502 724 Q 509 731 506 738 Q 500 748 476 755 Q 451 761 424 751 Q 396 744 367 735 L 312 722 Q 269 716 220 712 Q 189 708 211 692 Q 250 671 295 681 L 342 689 Z",
 "M 415 544 Q 446 550 476 551 Q 501 552 494 565 Q 487 577 472 583 Q 457 589 418 576 L 372 565 Q 333 559 287 550 Q 277 549 275 550 Q 274 551 276 560 Q 303 618 342 689 L 367 735 Q 389 775 400 783 Q 413 793 399 811 Q 360 859 341 855 Q 334 852 337 833 Q 343 809 312 722 L 295 681 L 295 679 Q 247 582 215 551 Q 200 538 203 524 Q 209 506 217 497 Q 224 488 235 492 Q 269 511 356 532 Q 363 535 373 535 L 415 544 Z",
