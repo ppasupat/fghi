@@ -1,3 +1,54 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+v2.0 | 20110126
+License: none (public domain)
+ */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*################################
+  Layout */
+
 html, body {
   height: 100%;
   margin: 0;
@@ -5,6 +56,7 @@ html, body {
 }
 
 body {
+  font-family: 'Noto Sans SC', serif;
   display: flex;
   flex-direction: column;
   background-color: white;
@@ -61,66 +113,42 @@ body {
 #chars-pane {
   flex: 1 1 60%;
   overflow-y: scroll;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
 }
 #words-pane {
   flex: 1 1 40%;
   overflow-y: scroll;
 }
 
-#chars-pane table {
-  margin: 15px auto;
+/*################################
+  Grid */
+
+#chars-pane-inner {
+  padding: 30px 0;
 }
-#chars-pane th {
-  text-align: right;
-  padding-right: 10px;
+#chars-pane p {
+  margin: 5px 0;
 }
-#chars-pane td {
-  padding-left: 5px;
-  padding-right: 5px;
+#chars-pane i {
+  display: inline-block;
+  padding: 5px;
+  margin: 1px;
   cursor: pointer;
   border: 2px solid transparent;
 }
-#chars-pane td.flash {
+#chars-pane i.flash {
   background-color: yellow;
 }
-#chars-pane td:hover{
+#chars-pane i:hover{
   border: 2px solid pink;
 }
-#chars-pane td.selected {
+#chars-pane i.selected {
   border: 2px solid red;
 }
 
-#words-pane .char-info {
-  margin: 10px auto;
-  text-align: center;
-}
-#words-pane .char-img {
-  border: 1px solid #bbb;
-}
-
-#words-pane .words-list {
-  margin: 15px 0;
-}
-#words-pane .level {
-  width: 30px;
-  font-size: 80%;
-  display: inline-block;
-  text-align: right;
-  padding-right: 20px;
-}
-#words-pane .wc {
-  cursor: pointer;
-}
-#words-pane .pron {
-  font-size: 80%;
-  padding: 0 20px;
-}
-#words-pane .gloss {
-  font-size: 60%;
-  padding: 0 30px 10px;
-}
-
-#chars-pane td {
+#chars-pane span {
   color: #ddd;
 }
 #chars-pane.f-hsk1 .h1,
@@ -146,10 +174,50 @@ body {
 #chars-pane.f-hsk6 .h6,
 #chars-pane.f-book1k .hB,
 #chars-pane.f-movie1k .hM,
-#chars-pane.f-common td,
-#chars-pane.f-all td {
+#chars-pane.f-common span,
+#chars-pane.f-all span {
   color: #2a2a2a;
 }
 #chars-pane.f-common .hUC {
   color: #ddd;
+}
+
+/*################################
+  Character Info + Vocab */
+
+#words-pane .char-info {
+  margin: 10px auto;
+  text-align: center;
+}
+#words-pane .char-img {
+  border: 1px solid #bbb;
+}
+
+#words-pane .words-list {
+  margin: 15px 0;
+}
+#words-pane .entry {
+  margin-bottom: 1em;
+}
+#words-pane .entry p {
+  margin: .35em 0;
+}
+#words-pane .level {
+  width: 30px;
+  font-size: 80%;
+  display: inline-block;
+  text-align: right;
+  padding-right: 20px;
+}
+#words-pane .wc {
+  cursor: pointer;
+}
+#words-pane .pron {
+  font-size: 80%;
+  padding: 0 20px;
+}
+#words-pane .gloss {
+  font-size: 60%;
+  padding-left: 50px;
+  padding-right: 10px;
 }

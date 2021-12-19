@@ -4,6 +4,18 @@ $(function () {
   // ################################################
   // Utilities
 
+  function scrollOffset(cell) {
+    console.log(
+      cell.position(),
+      cell.offset(),
+      $('#chars-pane-inner').position(),
+      $('#chars-pane-inner').offset(),
+      $('#chars-pane-inner').height(),
+      $('body').height(),
+    );
+    return cell.position().top - $('#chars-pane-inner').position().top - $('body').height() * .4;
+  }
+
   // Generate a tag in SVG namespace
   function S(tag, attr) {
     return $(document.createElementNS(
@@ -29,11 +41,12 @@ $(function () {
       $('<span class=wc>').text(word.charAt(i)).appendTo(wordSpan);
     }
     let wordDiv = (
-      $('<div>')
-        .append($('<span class=level>').text(level))
-        .append(wordSpan)
-        .append($('<span class=pron>').text(pron))
-        .append($('<div class=gloss>').text(gloss))
+      $('<div class=entry>')
+        .append($('<p>')
+          .append($('<span class=level>').text(level))
+          .append(wordSpan)
+          .append($('<span class=pron>').text(pron)))
+        .append($('<p class=gloss>').text(gloss))
         .appendTo(parentDiv)
     );
     if (level !== '') {
@@ -75,7 +88,7 @@ $(function () {
   // ################################################
   // Character grid
 
-  let charToCats = null, charToTd = {};
+  let charToCats = null, charToCell = {};
 
   function readCats(catsRaw) {
     if (charToCats !== null) throw 'readCats already called.';
@@ -91,29 +104,26 @@ $(function () {
   }
 
   function populateGrid(gridRaw) {
-    charToTd = {};
-    $('#chars-pane').empty();
-    let grid = $('<table>').appendTo('#chars-pane');
+    $('#chars-pane-inner').empty();
     gridRaw.forEach(function (row_raw) {
-      let row = $('<tr>').appendTo(grid);
-      $('<th>').text(row_raw[0]).appendTo(row);
+      let row = $('<p>').appendTo('#chars-pane-inner');
       for (let x of row_raw[1]) {
-        charToTd[x] = $('<td>').text(x).appendTo(row);
+        charToCell[x] = $('<i>').text(x).appendTo(row);
         let isCommon = false;
         (charToCats[x] || []).forEach(function (cat) {
           if (cat === 'C') {
             isCommon = true;
           } else {
-            charToTd[x].addClass('h' + cat);
+            charToCell[x].addClass('h' + cat);
           }
         });
-        if (!isCommon) charToTd[x].addClass('hUC');
+        if (!isCommon) charToCell[x].addClass('hUC');
       }
     });
   }
 
   // Click on a character in the grid
-  $('#chars-pane').on('click', 'td', function (event) {
+  $('#chars-pane').on('click', 'i', function (event) {
     let cell = $(this), char = cell.text(), code = char.charCodeAt(0);
     $('#chars-pane .selected').removeClass('selected');
     cell.addClass('selected');
@@ -125,11 +135,11 @@ $(function () {
 
   // Click on a character in a vocab entry
   $('#words-pane').on('click', '.wc', function () {
-    let td = charToTd[$(this).text()];
-    if (!td) return;
-    $('#chars-pane').animate({ scrollTop: td.position().top });
-    td.addClass('flash');
-    setTimeout(function () { td.removeClass('flash'); }, 1000);
+    let cell = charToCell[$(this).text()];
+    if (!cell) return;
+    $('#chars-pane').animate({ scrollTop: scrollOffset(cell) });
+    cell.addClass('flash');
+    setTimeout(function () { cell.removeClass('flash'); }, 1000);
   });
 
   // The "Show:" dropdown

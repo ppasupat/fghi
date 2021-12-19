@@ -49,6 +49,9 @@ update_subtlexch() {
   echo Updating SUBTLEX-CH ...
   local dir=raw/subtlex-ch
   mkdir -p "${dir}"
+  wget -O "${dir}/subtlexch.zip" 'http://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/subtlexchchr.zip'
+  unzip -d "${dir}" "${dir}/subtlexch.zip"
+  iconv -f GB18030 -t UTF-8 "${dir}/SUBTLEX-CH-CHR" > "${dir}/SUBTLEX-CH-CHR.utf8"
   wget -O "${dir}/subtlexch131210.zip" 'http://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexch/subtlexch131210.zip'
   unzip -d "${dir}" "${dir}/subtlexch131210.zip"
 }
