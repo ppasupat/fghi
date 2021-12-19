@@ -95,21 +95,36 @@ $(function () {
     }
   }
 
+  function genSection() {
+    return $('<div class=grid-section>').appendTo('#chars-pane-inner');
+  }
+
   function populateGrid(gridRaw) {
     $('#chars-pane-inner').empty();
+    let currentSection = null;
     gridRaw.forEach(function (row_raw) {
-      let row = $('<p>').appendTo('#chars-pane-inner');
-      for (let x of row_raw[1]) {
-        charToCell[x] = $('<i>').text(x).appendTo(row);
-        let isCommon = false;
-        (charToCats[x] || []).forEach(function (cat) {
-          if (cat === 'C') {
-            isCommon = true;
-          } else {
-            charToCell[x].addClass('h' + cat);
-          }
-        });
-        if (!isCommon) charToCell[x].addClass('hUC');
+      if (row_raw[0] === "#") {
+        // Start a new section
+        currentSection = genSection();
+        if (row_raw.length > 1) {
+          $('<p class=grid-section-title>').text(row_raw[1]).appendTo(currentSection);
+        }
+      } else {
+        // A line of characters
+        if (currentSection === null) currentSection = genSection();
+        let row = $('<p>').appendTo(currentSection);
+        for (let x of row_raw[0]) {
+          charToCell[x] = $('<i>').text(x).appendTo(row);
+          let isCommon = false;
+          (charToCats[x] || []).forEach(function (cat) {
+            if (cat === 'C') {
+              isCommon = true;
+            } else {
+              charToCell[x].addClass('h' + cat);
+            }
+          });
+          if (!isCommon) charToCell[x].addClass('hUC');
+        }
       }
     });
   }
@@ -143,7 +158,7 @@ $(function () {
 
   $.get('data/cats.json', function (catsRaw) {
     readCats(catsRaw);
-    $.get('data/grid-fghi.json', function (gridRaw) {
+    $.get('data/grids/grid-ice.json', function (gridRaw) {
       populateGrid(gridRaw);
       changeFilter();
     });
