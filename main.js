@@ -5,14 +5,6 @@ $(function () {
   // Utilities
 
   function scrollOffset(cell) {
-    console.log(
-      cell.position(),
-      cell.offset(),
-      $('#chars-pane-inner').position(),
-      $('#chars-pane-inner').offset(),
-      $('#chars-pane-inner').height(),
-      $('body').height(),
-    );
     return cell.position().top - $('#chars-pane-inner').position().top - $('body').height() * .4;
   }
 

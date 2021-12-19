@@ -148,37 +148,37 @@ body {
   border: 2px solid red;
 }
 
-#chars-pane span {
+#chars-pane i {
   color: #ddd;
 }
-#chars-pane.f-hsk1 .h1,
-#chars-pane.f-hsk2 .h1,
-#chars-pane.f-hsk2 .h2,
-#chars-pane.f-hsk3 .h1,
-#chars-pane.f-hsk3 .h2,
-#chars-pane.f-hsk3 .h3,
-#chars-pane.f-hsk4 .h1,
-#chars-pane.f-hsk4 .h2,
-#chars-pane.f-hsk4 .h3,
-#chars-pane.f-hsk4 .h4,
-#chars-pane.f-hsk5 .h1,
-#chars-pane.f-hsk5 .h2,
-#chars-pane.f-hsk5 .h3,
-#chars-pane.f-hsk5 .h4,
-#chars-pane.f-hsk5 .h5,
-#chars-pane.f-hsk6 .h1,
-#chars-pane.f-hsk6 .h2,
-#chars-pane.f-hsk6 .h3,
-#chars-pane.f-hsk6 .h4,
-#chars-pane.f-hsk6 .h5,
-#chars-pane.f-hsk6 .h6,
-#chars-pane.f-book1k .hB,
-#chars-pane.f-movie1k .hM,
-#chars-pane.f-common span,
-#chars-pane.f-all span {
+#chars-pane.f-hsk1 i.h1,
+#chars-pane.f-hsk2 i.h1,
+#chars-pane.f-hsk2 i.h2,
+#chars-pane.f-hsk3 i.h1,
+#chars-pane.f-hsk3 i.h2,
+#chars-pane.f-hsk3 i.h3,
+#chars-pane.f-hsk4 i.h1,
+#chars-pane.f-hsk4 i.h2,
+#chars-pane.f-hsk4 i.h3,
+#chars-pane.f-hsk4 i.h4,
+#chars-pane.f-hsk5 i.h1,
+#chars-pane.f-hsk5 i.h2,
+#chars-pane.f-hsk5 i.h3,
+#chars-pane.f-hsk5 i.h4,
+#chars-pane.f-hsk5 i.h5,
+#chars-pane.f-hsk6 i.h1,
+#chars-pane.f-hsk6 i.h2,
+#chars-pane.f-hsk6 i.h3,
+#chars-pane.f-hsk6 i.h4,
+#chars-pane.f-hsk6 i.h5,
+#chars-pane.f-hsk6 i.h6,
+#chars-pane.f-book1k i.hB,
+#chars-pane.f-movie1k i.hM,
+#chars-pane.f-common i,
+#chars-pane.f-all i {
   color: #2a2a2a;
 }
-#chars-pane.f-common .hUC {
+#chars-pane.f-common i.hUC {
   color: #ddd;
 }
 
