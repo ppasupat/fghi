@@ -31,6 +31,10 @@ body {
 #toolbar #about-link:hover {
   text-decoration: underline;
 }
+#toolbar .toolbar-sep {
+  display: inline-block;
+  width: 2em;
+}
 #toolbar button {
   margin: 0 3px;
   padding: 4px 12px;
@@ -119,33 +123,33 @@ body {
 #chars-pane td {
   color: #ddd;
 }
-#chars-pane.d1 .h1,
-#chars-pane.d2 .h1,
-#chars-pane.d2 .h2,
-#chars-pane.d3 .h1,
-#chars-pane.d3 .h2,
-#chars-pane.d3 .h3,
-#chars-pane.d4 .h1,
-#chars-pane.d4 .h2,
-#chars-pane.d4 .h3,
-#chars-pane.d4 .h4,
-#chars-pane.d5 .h1,
-#chars-pane.d5 .h2,
-#chars-pane.d5 .h3,
-#chars-pane.d5 .h4,
-#chars-pane.d5 .h5,
-#chars-pane.d6 .h1,
-#chars-pane.d6 .h2,
-#chars-pane.d6 .h3,
-#chars-pane.d6 .h4,
-#chars-pane.d6 .h5,
-#chars-pane.d6 .h6,
-#chars-pane.dtop-1000 .hK,
-#chars-pane.dcommon td,
-#chars-pane.dall td {
+#chars-pane.f-hsk1 .h1,
+#chars-pane.f-hsk2 .h1,
+#chars-pane.f-hsk2 .h2,
+#chars-pane.f-hsk3 .h1,
+#chars-pane.f-hsk3 .h2,
+#chars-pane.f-hsk3 .h3,
+#chars-pane.f-hsk4 .h1,
+#chars-pane.f-hsk4 .h2,
+#chars-pane.f-hsk4 .h3,
+#chars-pane.f-hsk4 .h4,
+#chars-pane.f-hsk5 .h1,
+#chars-pane.f-hsk5 .h2,
+#chars-pane.f-hsk5 .h3,
+#chars-pane.f-hsk5 .h4,
+#chars-pane.f-hsk5 .h5,
+#chars-pane.f-hsk6 .h1,
+#chars-pane.f-hsk6 .h2,
+#chars-pane.f-hsk6 .h3,
+#chars-pane.f-hsk6 .h4,
+#chars-pane.f-hsk6 .h5,
+#chars-pane.f-hsk6 .h6,
+#chars-pane.f-book1k .hB,
+#chars-pane.f-movie1k .hM,
+#chars-pane.f-common td,
+#chars-pane.f-all td {
   color: #2a2a2a;
 }
-#chars-pane.dcommon .huC {
+#chars-pane.f-common .hUC {
   color: #ddd;
 }
-

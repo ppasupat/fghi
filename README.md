@@ -1,4 +1,4 @@
-# fghi: Fabulous Grouping of Hanzi by Ice
+# fghi: Fabulous Gallery of Hanzi by Ice
 
 ## Attributions
 

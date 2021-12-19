@@ -111,7 +111,7 @@ def main():
     print('Added {} chars + {} words.'.format(len(hsk_so_far), len(used_words)))
 
     # Read the extra characters
-    with open('hsk.json') as fin:
+    with open('cats.json') as fin:
         # The keys beyond 1, ..., 6 are extra characters
         all_chars = set(''.join(json.load(fin).values()))
     for level in (1,2,3,4,5,6):
