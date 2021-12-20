@@ -37,7 +37,8 @@ def get_word_to_pron_gloss():
             _, word, pron, gloss = m.groups()
             pron = pinyin_utils.decode_pinyin(pron)
             gloss = _clean_gloss(gloss)
-            cedict[word].append([pron, gloss])
+            if _verify_gloss(word, gloss):
+                cedict[word].append([pron, gloss])
     return dict(cedict)
 
 
@@ -51,5 +52,4 @@ def lookup_cedict(cedict, word, verbose=False):
         if verbose:
             print('WARNING: "{}" not in CEDICT'.format(word))
         return [['???', '???']]
-    return [(pron, gloss) for (pron, gloss) in cedict[word]
-            if _verify_gloss(word, gloss)]
+    return cedict[word]

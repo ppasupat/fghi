@@ -1,12 +1,30 @@
 {
 "char": "耶",
-"level": 7,
+"level": "C2",
 "info": {
 "gloss": "used in transliteration",
 "pron": "yē, yé"
 },
 "words": [],
 "extraWords": [
+[
+"耶",
+122.81,
+"yē",
+"(phonetic ye)"
+],
+[
+"耶",
+122.81,
+"yé",
+"interrogative particle (classical)"
+],
+[
+"耶",
+122.81,
+"ye",
+"final particle indicating enthusiasm etc"
+],
 [
 "耶稣",
 44.83,
@@ -18,6 +36,12 @@
 9.99,
 "Yē lǔ",
 "Yale"
+],
+[
+"费耶德",
+8.61,
+"???",
+"???"
 ]
 ],
 "strokes": [

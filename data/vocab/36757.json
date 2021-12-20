@@ -1,19 +1,31 @@
 {
 "char": "辕",
-"level": 6,
+"level": "C2",
 "info": {
 "gloss": "axle; magistrate's office; surname",
 "pron": "yuán"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
-"南辕北辙",
-6,
-"nán yuán běi zhé",
-"to act in a way that defeats one's purpose (idiom)"
+"轩辕",
+2.65,
+"Xuān Yuán",
+"Xuan Yuan, personal name of Huangdi, the Yellow Emperor 黄帝[Huáng dì]"
+],
+[
+"轩辕",
+2.65,
+"Xuān yuán",
+"two-character surname Xuanyuan"
+],
+[
+"轩辕龙",
+0.91,
+"???",
+"???"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 279 591 Q 337 607 399 621 Q 438 633 444 638 Q 451 645 447 653 Q 440 663 413 669 Q 385 673 359 662 Q 329 652 299 640 L 254 627 Q 205 615 147 606 Q 114 599 138 585 Q 180 564 230 580 Q 233 581 240 581 L 279 591 Z",
 "M 352 397 Q 388 407 421 409 Q 448 413 439 425 Q 430 437 415 443 Q 402 449 354 431 L 310 419 Q 271 410 228 399 Q 215 396 213 399 Q 212 400 213 411 Q 240 493 279 591 L 299 640 Q 332 734 354 755 Q 366 767 350 785 Q 325 809 306 820 Q 293 827 284 824 Q 277 820 282 800 Q 292 770 254 627 L 240 581 Q 185 431 149 395 Q 136 380 140 366 Q 147 347 158 338 Q 167 331 177 335 Q 235 371 310 386 L 352 397 Z",

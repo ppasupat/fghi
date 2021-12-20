@@ -1,19 +1,31 @@
 {
 "char": "迸",
-"level": 6,
+"level": "C2",
 "info": {
 "gloss": "gush out; burst forth; split",
 "pron": "bèng"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "迸发",
-6,
+1.61,
 "bèng fā",
 "to burst forth"
+],
+[
+"迸",
+1.4,
+"bèng",
+"to burst forth; to spurt; to crack; split"
+],
+[
+"迸发出",
+0.8,
+"bèng fā chū",
+"to burst forth; to burst out"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 470 734 Q 504 680 536 662 Q 549 658 559 669 Q 566 679 566 696 Q 557 742 487 766 L 486 767 Q 471 774 462 771 Q 456 771 457 759 Q 457 749 470 734 Z",
 "M 703 793 Q 690 762 633 678 Q 626 662 641 666 Q 665 684 749 754 Q 765 772 788 784 Q 807 796 795 812 Q 780 827 753 838 Q 729 850 717 845 Q 704 842 710 830 Q 714 812 703 793 Z",

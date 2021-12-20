@@ -1,19 +1,31 @@
 {
 "char": "锲",
-"level": 6,
+"level": "C2",
 "info": {
 "gloss": "sickle; cut, carve, engrave",
 "pron": "qiè"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "锲而不舍",
-6,
+1.13,
 "qiè ér bù shě",
 "to chip away at a task and not abandon it (idiom); to chisel away at sth; to persevere; unflagging efforts"
+],
+[
+"锲",
+0.49,
+"qiè",
+"to cut; to carve; to engrave; to chisel; fig. to chisel away at"
+],
+[
+"张锲",
+0.03,
+"???",
+"???"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 291 637 Q 321 703 359 741 Q 368 751 363 765 Q 359 778 330 799 Q 303 817 285 817 Q 266 814 275 793 Q 311 706 72 403 Q 66 397 62 391 Q 52 381 50 374 Q 47 364 61 366 Q 112 375 268 601 Q 271 607 274 610 L 291 637 Z",
 "M 274 610 Q 301 604 368 622 Q 383 626 398 630 Q 408 634 410 636 Q 417 643 412 650 Q 405 660 379 662 Q 370 662 303 640 Q 297 639 291 637 C 262 628 244 615 274 610 Z",

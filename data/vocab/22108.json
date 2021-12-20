@@ -1,12 +1,31 @@
 {
 "char": "噜",
-"level": 8,
+"level": "C2",
 "info": {
 "gloss": "verbose, talkative; mumbling",
 "pron": "lū"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"噜",
+3.42,
+"lū",
+"grumble; chatter"
+],
+[
+"咕噜",
+2.15,
+"gū lu",
+"(onom.) to rumble (of a stomach); to coo (of a dove); rumbling; noisy drinking sound"
+],
+[
+"打呼噜",
+1.19,
+"dǎ hū lu",
+"to snore"
+]
+],
 "strokes": [
 "M 115 558 Q 103 564 77 569 Q 64 573 61 568 Q 54 562 62 546 Q 90 476 104 365 Q 105 331 124 308 Q 140 286 147 301 Q 154 322 151 361 L 147 394 Q 131 503 130 531 C 129 552 129 552 115 558 Z",
 "M 286 415 Q 302 509 326 537 Q 348 564 325 577 Q 306 587 278 604 Q 259 614 216 588 Q 155 567 115 558 C 86 551 101 522 130 531 Q 158 540 218 553 Q 243 557 248 549 Q 257 543 237 421 C 232 391 281 385 286 415 Z",

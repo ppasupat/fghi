@@ -75,7 +75,10 @@ def main():
         if len(char_cats['M']) == args.top_char_limit:
             break
     # Common use characters
-    char_cats['C'] = parse_commonuse.get_commonuse()['1']    
+    commonuse = parse_commonuse.get_commonuse()
+    char_cats['C'] = commonuse['1']
+    char_cats['C2'] = commonuse['2']
+    char_cats['C3'] = commonuse['3']
     # Write to cats.json
     char_cats = {key: ''.join(value) for (key, value) in char_cats.items()}
     with open('cats.json', 'w') as fout:
@@ -133,12 +136,16 @@ def main():
 
     print('Writing information to vocab/ ...')
     written_chars = set()
-    for level in '1234567C':
+    for level in ('1', '2', '3', '4', '5', '6', '7', 'C', 'C2', 'C3'):
         num_chars_in_level = 0
         for char in char_cats[level]:
             if char in written_chars:
                 continue
-            paths = parse_makemeahanzi.get_svg_paths(char)
+            try:
+                paths = parse_makemeahanzi.get_svg_paths(char)
+            except FileNotFoundError:
+                print('WARNING: SVG for {} not found'.format(char))
+                paths = []
             info = {
                     'char': char,
                     'level': level,

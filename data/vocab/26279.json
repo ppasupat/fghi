@@ -1,19 +1,31 @@
 {
 "char": "暧",
-"level": 6,
+"level": "C2",
 "info": {
 "gloss": "obscure, dim, ambiguous, vague",
 "pron": "ài"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "暧昧",
-6,
+10.81,
 "ài mèi",
 "vague; ambiguous; equivocal; dubious"
+],
+[
+"暧",
+0.87,
+"ài",
+"(of daylight) dim; obscure; clandestine; dubious"
+],
+[
+"暧昧关系",
+0.51,
+"ài mèi guān xì",
+"shady relationship; affair; adulterous relationship"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 162 658 Q 153 670 125 680 Q 115 684 104 681 Q 97 677 103 664 Q 122 583 124 572 Q 123 571 124 566 Q 139 359 104 224 Q 92 169 126 125 Q 136 112 147 125 Q 156 138 158 152 L 161 188 Q 162 213 163 248 Q 164 336 165 402 L 166 437 Q 169 620 173 631 C 175 647 175 647 162 658 Z",
 "M 253 164 Q 263 148 274 133 Q 290 109 297 112 Q 310 115 324 150 Q 339 189 334 239 Q 327 339 322 557 Q 321 614 336 642 Q 346 660 338 671 Q 331 681 281 694 Q 257 703 241 692 Q 198 670 162 658 C 134 648 144 623 173 631 Q 177 632 184 634 Q 256 655 262 650 Q 277 635 276 579 Q 280 344 271 216 Q 272 206 268 199 C 263 169 245 176 253 164 Z",
