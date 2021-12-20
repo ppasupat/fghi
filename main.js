@@ -127,6 +127,7 @@ $(function () {
         }
       }
     });
+    $('#chars-pane').scrollTop(0);
   }
 
   // Click on a character in the grid
@@ -149,6 +150,17 @@ $(function () {
     setTimeout(function () { cell.removeClass('flash'); }, 1000);
   });
 
+  // The "Grid:" dropdown
+  function changeGrid() {
+    $('#grid-select').prop('disabled', true);
+    $.get('data/grids/grid-' + $('#grid-select').val() + '.json', function (gridRaw) {
+      populateGrid(gridRaw);
+      changeFilter();
+      $('#grid-select').prop('disabled', false);
+    });
+  }
+  $('#grid-select').change(changeGrid);
+
   // The "Show:" dropdown
   function changeFilter() {
     let name = $('#show-select').val();
@@ -156,12 +168,12 @@ $(function () {
   }
   $('#show-select').change(changeFilter);
 
+  // ################################################
+  // Start!
+
   $.get('data/cats.json', function (catsRaw) {
     readCats(catsRaw);
-    $.get('data/grids/grid-ice.json', function (gridRaw) {
-      populateGrid(gridRaw);
-      changeFilter();
-    });
+    changeGrid();
   });
 
 });
