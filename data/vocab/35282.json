@@ -1,6 +1,6 @@
 {
 "char": "角",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "horn; angle, corner; point",
 "pron": "jiǎo, jué"
@@ -8,59 +8,83 @@
 "words": [
 [
 "角",
-3,
+2,
 "Jué",
 "surname Jue"
 ],
 [
 "角",
-3,
+2,
 "jiǎo",
-"angle; corner; horn; horn-shaped; unit of money equal to 0.1 yuan, or 10 cents (a dime); CL:個|个[ge4]"
+"angle; corner; horn; horn-shaped; unit of money equal to 0.1 yuan, or 10 cents (a dime); CL:个[gè]"
 ],
 [
 "角",
-3,
+2,
 "jué",
 "role (theater); to compete; ancient three legged wine vessel; third note of pentatonic scale"
 ],
 [
-"角色",
-5,
-"jué sè",
-"role; character in a novel; persona; also pr. [jiao3 se4]"
-],
-[
 "角度",
-5,
+2,
 "jiǎo dù",
 "angle; point of view"
 ],
 [
-"角落",
-6,
-"jiǎo luò",
-"nook; corner"
-]
+"角色",
+4,
+"jué sè",
+"role; character in a novel; persona; also pr. [jiao3 se4]"
 ],
-"extraWords": [
 [
 "主角",
-24.78,
+6,
 "zhǔ jué",
 "leading role; lead"
 ],
 [
+"角落",
+7,
+"jiǎo luò",
+"nook; corner"
+],
+[
+"角逐",
+7,
+"jué zhú",
+"to tussle; to contend; to contest"
+],
+[
+"棱角",
+7,
+"léng jiǎo",
+"edge and corner; protrusion; sharpness (of a protrusion); craggy; ridge corner"
+],
+[
 "三角",
-18.46,
+7,
 "sān jiǎo",
 "triangle"
 ],
+[
+"视角",
+7,
+"shì jiǎo",
+"viewpoint; angle on sth; perspective"
+]
+],
+"extraWords": [
 [
 "角膜",
 13.3,
 "jiǎo mó",
 "cornea"
+],
+[
+"女主角",
+11.56,
+"???",
+"???"
 ],
 [
 "嘴角",
@@ -69,22 +93,22 @@
 "corner of the mouth"
 ],
 [
-"视角",
-11.28,
-"shì jiǎo",
-"viewpoint; angle on sth; perspective"
+"男主角",
+8.64,
+"???",
+"???"
 ],
 [
-"角逐",
-10.44,
-"jué zhú",
-"to tussle; to contend; to contest"
+"一角",
+8.44,
+"???",
+"???"
 ],
 [
 "长三角",
 8.43,
 "Cháng Sān jiǎo",
-"Yangtze River Delta (abbr. for 長江三角洲|长江三角洲[Chang2 jiang1 San1 jiao3 zhou1])"
+"Yangtze River Delta (abbr. for 长江三角洲[Cháng jiāng Sān jiǎo zhōu])"
 ],
 [
 "角球",

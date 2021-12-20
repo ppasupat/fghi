@@ -1,6 +1,6 @@
 {
 "char": "划",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "to row or paddle boat; to scratch",
 "pron": "huá, huà"
@@ -8,27 +8,45 @@
 "words": [
 [
 "计划",
-4,
+2,
 "jì huà",
-"plan; project; program; to plan; to map out; CL:個|个[ge4],項|项[xiang4]"
+"plan; project; program; to plan; to map out; CL:个[gè],项[xiàng]"
+],
+[
+"划船",
+3,
+"huá chuán",
+"to row a boat; rowing boat; rowing (sport)"
 ],
 [
 "划",
-5,
+4,
 "huá",
 "to row; to paddle; profitable; worth (the effort); it pays (to do sth)"
 ],
 [
 "划",
-5,
+4,
 "huá",
 "to cut; to slash; to scratch (cut into the surface of sth); to strike (a match)"
 ],
 [
 "划",
-5,
+4,
 "huà",
 "to delimit; to transfer; to assign; to plan; to draw (a line); stroke of a Chinese character"
+],
+[
+"规划",
+5,
+"guī huà",
+"to plan (how to do sth); planning; plan; program"
+],
+[
+"划分",
+5,
+"huà fēn",
+"to divide up; to partition; to differentiate"
 ],
 [
 "策划",
@@ -37,16 +55,22 @@
 "to plot; to scheme; to bring about; to engineer; planning; producer; planner"
 ],
 [
-"规划",
-6,
-"guī huà",
-"to plan (how to do sth); planning; plan; program"
+"筹划",
+7,
+"chóu huà",
+"to plan and prepare"
 ],
 [
-"划分",
-6,
-"huà fēn",
-"to divide up; to partition; to differentiate"
+"划算",
+7,
+"huá suàn",
+"to calculate; to weigh (pros and cons); to view as profitable; worthwhile; value for money; cost-effective"
+],
+[
+"划时代",
+7,
+"huà shí dài",
+"epoch-marking"
 ]
 ],
 "extraWords": [
@@ -57,16 +81,16 @@
 "family planning"
 ],
 [
+"有计划",
+9.25,
+"???",
+"???"
+],
+[
 "计划经济",
 8.56,
 "jì huà jīng jì",
 "planned economy"
-],
-[
-"划算",
-7.21,
-"huá suàn",
-"to calculate; to weigh (pros and cons); to view as profitable; worthwhile; value for money; cost-effective"
 ]
 ],
 "strokes": [

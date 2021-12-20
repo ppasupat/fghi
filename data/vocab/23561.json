@@ -1,6 +1,6 @@
 {
 "char": "尉",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "officer, military rank",
 "pron": "wèi, yù"
@@ -18,6 +18,12 @@
 26.89,
 "zhōng wèi",
 "lieutenant (navy); first lieutenant (army); subaltern"
+],
+[
+"少尉",
+2.38,
+"shào wèi",
+"second lieutenant (army rank)"
 ]
 ],
 "strokes": [

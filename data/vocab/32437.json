@@ -1,6 +1,6 @@
 {
 "char": "纵",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "indulge in, give free reign to",
 "pron": "zòng"
@@ -13,13 +13,49 @@
 "to operate; to control; to rig; to manipulate"
 ],
 [
-"纵横",
-6,
-"zòng héng",
-"lit. warp and weft in weaving; vertically and horizontal; length and breadth; criss-crossed; able to move unhindered; abbr. for 合縱連橫|合纵连横[He2 zong4 Lian2 heng2], School of Diplomacy during the Warring States Period (475-221 BC)"
+"放纵",
+7,
+"fàng zòng",
+"to indulge; to pamper; to connive at; permissive; indulgent; self-indulgent; unrestrained; undisciplined; uncultured; boorish"
+],
+[
+"纵观",
+7,
+"zòng guān",
+"to survey comprehensively; an overall survey"
+],
+[
+"纵横交错",
+7,
+"zòng héng jiāo cuò",
+"criss-crossed (idiom)"
+],
+[
+"纵然",
+7,
+"zòng rán",
+"even if; even though"
+],
+[
+"纵容",
+7,
+"zòng róng",
+"to indulge; to connive at"
+],
+[
+"纵深",
+7,
+"zòng shēn",
+"depth (from front to rear); depth (into a territory); span (of time); (fig.) depth (of deployment, progress, development etc)"
 ]
 ],
 "extraWords": [
+[
+"纵",
+16.49,
+"zòng",
+"warp (the vertical threads in weaving); vertical; longitudinal; north-south (lines of longitude); lengthwise; to release; to indulge; even if"
+],
 [
 "纵火",
 8.08,
@@ -27,10 +63,10 @@
 "to set on fire; to commit arson"
 ],
 [
-"放纵",
-5.35,
-"fàng zòng",
-"to indulge; to pamper; to connive at; permissive; indulgent; self-indulgent; unrestrained; undisciplined; uncultured; boorish"
+"纵横",
+6.04,
+"zòng héng",
+"lit. warp and weft in weaving; vertically and horizontal; length and breadth; criss-crossed; able to move unhindered; abbr. for 合纵连横[Hé zòng Lián héng], School of Diplomacy during the Warring States Period (475-221 BC)"
 ],
 [
 "纵向",

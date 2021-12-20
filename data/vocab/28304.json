@@ -1,61 +1,115 @@
 {
 "char": "源",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "spring; source, head; surname",
 "pron": "yuán"
 },
 "words": [
 [
-"资源",
-5,
-"Zī yuán",
-"Ziyuan county in Guilin 桂林[Gui4 lin2], Guangxi"
-],
-[
-"资源",
-5,
-"zī yuán",
-"natural resource (such as water or minerals); resource (such as manpower or tourism)"
-],
-[
-"能源",
-5,
-"néng yuán",
-"energy; power source; CL:個|个[ge4]"
-],
-[
-"来源",
-6,
-"lái yuán",
-"source (of information etc); origin"
-],
-[
 "电源",
-6,
+4,
 "diàn yuán",
 "electric power source"
 ],
 [
-"起源",
-6,
-"qǐ yuán",
-"origin; to originate; to come from"
+"来源",
+4,
+"lái yuán",
+"source (of information etc); origin"
+],
+[
+"资源",
+4,
+"Zī yuán",
+"Ziyuan county in Guilin 桂林[Guì lín], Guangxi"
+],
+[
+"资源",
+4,
+"zī yuán",
+"natural resource (such as water or minerals); resource (such as manpower or tourism)"
+],
+[
+"发源地",
+7,
+"fā yuán dì",
+"place of origin; birthplace; source"
 ],
 [
 "根源",
-6,
+7,
 "gēn yuán",
 "origin; root (cause)"
 ],
 [
+"来源于",
+7,
+"lái yuán yú",
+"to originate in"
+],
+[
+"能源",
+7,
+"néng yuán",
+"energy; power source; CL:个[gè]"
+],
+[
+"起源",
+7,
+"qǐ yuán",
+"origin; to originate; to come from"
+],
+[
+"水源",
+7,
+"shuǐ yuán",
+"water source; water supply; headwaters of a river"
+],
+[
+"渊源",
+7,
+"yuān yuán",
+"origin; source; relationship"
+],
+[
 "源泉",
-6,
+7,
 "yuán quán",
 "fountainhead; well-spring; water source; fig. origin"
+],
+[
+"源头",
+7,
+"yuán tóu",
+"source; fountainhead"
+],
+[
+"源于",
+7,
+"yuán yú",
+"has its origins in"
+],
+[
+"源源不断",
+7,
+"yuán yuán bù duàn",
+"a steady flow (idiom); an unending stream"
 ]
 ],
 "extraWords": [
+[
+"源",
+69.74,
+"yuán",
+"root; source; origin"
+],
+[
+"房源",
+15.59,
+"???",
+"???"
+],
 [
 "人力资源",
 14.15,
@@ -63,22 +117,10 @@
 "human resources"
 ],
 [
-"水源",
-11.64,
-"shuǐ yuán",
-"water source; water supply; headwaters of a river"
-],
-[
-"源于",
-11.63,
-"yuán yú",
-"has its origins in"
-],
-[
-"源头",
-10.94,
-"yuán tóu",
-"source; fountainhead"
+"水资源",
+11.46,
+"???",
+"???"
 ],
 [
 "源自",
@@ -103,6 +145,12 @@
 5.37,
 "Guó tǔ Zī yuán bù",
 "Ministry of Land and Resources (MLR), formed in 1998"
+],
+[
+"新能源",
+5.18,
+"???",
+"???"
 ]
 ],
 "strokes": [

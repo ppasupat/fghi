@@ -1,17 +1,30 @@
 {
 "char": "顷",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "a moment; a measure of area equal to 100 mu or 6.7 hectares; to lean",
 "pron": "qǐng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "公顷",
-12.64,
+7,
 "gōng qǐng",
 "hectare"
+]
+],
+"extraWords": [
+[
+"顷",
+2.28,
+"qīng",
+"variant of 倾[qīng]"
+],
+[
+"顷",
+2.28,
+"qǐng",
+"unit of area equal to 100 亩[mǔ] or 6.67 hectares; a short while; a little while ago; circa. (for approximate dates)"
 ]
 ],
 "strokes": [

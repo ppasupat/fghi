@@ -1,23 +1,30 @@
 {
 "char": "撰",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "compose, write, compile",
 "pron": "zhuàn"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "撰写",
-7.98,
+7,
 "zhuàn xiě",
 "to write; to compose"
+]
 ],
+"extraWords": [
 [
 "撰文",
 5.85,
 "zhuàn wén",
 "to write an article"
+],
+[
+"撰稿",
+3.15,
+"zhuàn gǎo",
+"to write (an article for publication)"
 ]
 ],
 "strokes": [

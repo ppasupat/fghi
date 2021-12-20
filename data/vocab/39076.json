@@ -1,6 +1,6 @@
 {
 "char": "颤",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "shiver, tremble; trembling",
 "pron": "chàn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "颤抖",
-6,
+7,
 "chàn dǒu",
 "to shudder; to shiver; to shake; to tremble"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"颤",
+8.33,
+"chàn",
+"to tremble; to shiver; to shake; to vibrate; Taiwan pr. [zhan4]"
+],
+[
+"颤动",
+2.44,
+"chàn dòng",
+"to tremble"
+]
+],
 "strokes": [
 "M 327 804 Q 355 785 386 761 Q 401 751 415 753 Q 425 754 429 768 Q 432 783 420 810 Q 407 837 316 849 Q 301 850 296 847 Q 292 843 294 831 Q 298 821 327 804 Z",
 "M 112 671 Q 84 667 106 651 Q 140 627 164 634 Q 308 667 507 696 Q 517 695 525 707 Q 526 717 504 728 Q 474 750 396 723 Q 294 701 112 671 Z",

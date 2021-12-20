@@ -1,11 +1,23 @@
 {
 "char": "止",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "stop, halt, desist; detain",
 "pron": "zhǐ"
 },
 "words": [
+[
+"防止",
+3,
+"fáng zhǐ",
+"to prevent; to guard against; to take precautions"
+],
+[
+"停止",
+3,
+"tíng zhǐ",
+"to stop; to halt; to cease"
+],
 [
 "禁止",
 4,
@@ -14,83 +26,95 @@
 ],
 [
 "阻止",
-5,
+4,
 "zǔ zhǐ",
 "to prevent; to block"
 ],
 [
 "不止",
-6,
+5,
 "bù zhǐ",
 "incessantly; without end; more than; not limited to"
 ],
 [
-"防止",
-6,
-"fáng zhǐ",
-"to prevent; to guard against; to take precautions"
+"为止",
+5,
+"wéi zhǐ",
+"until; (used in combination with words like 到[dào] or 至[zhì] in constructs of the form 到...為止|到...为止)"
 ],
 [
 "终止",
-6,
+5,
 "zhōng zhǐ",
 "to stop; to terminate (law)"
-],
-[
-"制止",
-6,
-"zhì zhǐ",
-"to curb; to put a stop to; to stop; to check; to limit"
-],
-[
-"迄今为止",
-6,
-"qì jīn wéi zhǐ",
-"so far; up to now; still (not)"
 ],
 [
 "截止",
 6,
 "jié zhǐ",
 "to close; to stop; to put a stop to sth; cut-off point; stopping point; deadline"
+],
+[
+"止",
+6,
+"zhǐ",
+"to stop; to prohibit; until; only"
+],
+[
+"静止",
+7,
+"jìng zhǐ",
+"still; immobile; static; stationary"
+],
+[
+"举止",
+7,
+"jǔ zhǐ",
+"bearing; manner; mien"
+],
+[
+"迄今为止",
+7,
+"qì jīn wéi zhǐ",
+"so far; up to now; still (not)"
+],
+[
+"止步",
+7,
+"zhǐ bù",
+"to halt; to stop; to go no farther"
+],
+[
+"止咳",
+7,
+"zhǐ ké",
+"to suppress coughing"
+],
+[
+"止血",
+7,
+"zhǐ xuè",
+"to staunch (bleeding); hemostatic (drug)"
+],
+[
+"制止",
+7,
+"zhì zhǐ",
+"to curb; to put a stop to; to stop; to check; to limit"
+],
+[
+"中止",
+7,
+"zhōng zhǐ",
+"to cease; to suspend; to break off; to stop; to discontinue"
 ]
 ],
 "extraWords": [
-[
-"停止",
-85.14,
-"tíng zhǐ",
-"to stop; to halt; to cease"
-],
-[
-"为止",
-51.45,
-"wéi zhǐ",
-"until; (used in combination with words like 到[dao4] or 至[zhi4] in constructs of the form 到...為止|到...为止)"
-],
 [
 "到此为止",
 18.72,
 "dào cǐ wéi zhǐ",
 "to stop at this point; to end here; to call it a day"
-],
-[
-"举止",
-8.5,
-"jǔ zhǐ",
-"bearing; manner; mien"
-],
-[
-"止血",
-6.8,
-"zhǐ xuè",
-"to staunch (bleeding); hemostatic (drug)"
-],
-[
-"中止",
-6.71,
-"zhōng zhǐ",
-"to cease; to suspend; to break off; to stop; to discontinue"
 ],
 [
 "止痛药",

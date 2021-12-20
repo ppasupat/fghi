@@ -1,12 +1,31 @@
 {
 "char": "鹃",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "cuckoo",
 "pron": "juān"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"杜鹃",
+2.24,
+"dù juān",
+"cuckoo (Cercococcyx spp., also written 杜鵑鳥|杜鹃鸟); Indian azalea (Rhododendron simsii Planch, also written 杜鵑花|杜鹃花)"
+],
+[
+"鹃",
+0.94,
+"juān",
+"cuckoo"
+],
+[
+"杜鹃花",
+0.68,
+"dù juān huā",
+"Indian Azalea (Rhododendron simsii Planch)"
+]
+],
 "strokes": [
 "M 235 733 Q 225 740 195 744 Q 183 747 181 743 Q 175 737 182 723 Q 204 680 218 606 Q 221 585 234 570 Q 250 551 254 565 Q 257 572 257 582 L 256 611 Q 247 683 243 707 C 239 731 239 731 235 733 Z",
 "M 424 638 Q 443 702 464 720 Q 486 744 465 757 Q 446 767 422 785 Q 406 795 387 785 Q 345 758 235 733 C 206 726 215 698 243 707 Q 252 711 354 738 Q 385 747 394 734 Q 397 731 377 644 C 370 615 415 609 424 638 Z",

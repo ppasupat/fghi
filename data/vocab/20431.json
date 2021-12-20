@@ -1,12 +1,32 @@
 {
 "char": "俏",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "like, similar; resemble; pretty",
 "pron": "qiào"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"俊俏",
+7,
+"jùn qiào",
+"attractive and intelligent; charming; elegant"
+]
+],
+"extraWords": [
+[
+"俏",
+9.3,
+"qiào",
+"good-looking; charming; (of goods) in great demand; (coll.) to season (food)"
+],
+[
+"俏皮",
+3.31,
+"qiào pi",
+"smart; charming; attractive; witty; facetious; ironic"
+]
+],
 "strokes": [
 "M 263 512 Q 303 567 349 638 Q 377 689 402 713 Q 412 723 407 738 Q 403 751 374 776 Q 346 795 326 795 Q 307 794 315 770 Q 330 736 316 708 Q 276 614 216 526 Q 158 441 79 348 Q 69 338 66 331 Q 62 319 77 322 Q 110 325 236 477 L 263 512 Z",
 "M 236 477 Q 237 471 242 466 Q 275 400 255 214 Q 248 160 234 103 Q 224 58 258 7 Q 259 7 261 4 Q 279 -12 291 15 Q 306 55 305 102 Q 301 367 309 428 Q 316 455 307 466 Q 268 508 263 512 C 242 533 222 504 236 477 Z",

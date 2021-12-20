@@ -1,12 +1,37 @@
 {
 "char": "赫",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "bright, radiant, glowing",
 "pron": "hè"
 },
-"words": [],
+"words": [
+[
+"赫然",
+7,
+"hè rán",
+"with astonishment; with a shock; awe-inspiringly; impressively; furiously (angry)"
+],
+[
+"显赫",
+7,
+"xiǎn hè",
+"illustrious; celebrated"
+]
+],
 "extraWords": [
+[
+"赫",
+10.07,
+"Hè",
+"surname He"
+],
+[
+"赫",
+10.07,
+"hè",
+"awe-inspiring; abbr. for 赫兹[hè zī], hertz (Hz)"
+],
 [
 "赫尔",
 8.11,
@@ -18,12 +43,6 @@
 7.74,
 "Shū mǎ hè",
 "Michael Schumacher (1969-), former German racing driver"
-],
-[
-"赫然",
-5.47,
-"hè rán",
-"with astonishment; with a shock; awe-inspiringly; impressively; furiously (angry)"
 ]
 ],
 "strokes": [

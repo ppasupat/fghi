@@ -1,6 +1,6 @@
 {
 "char": "九",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "nine",
 "pron": "jiǔ"
@@ -15,16 +15,40 @@
 ],
 "extraWords": [
 [
+"九段",
+13.28,
+"???",
+"???"
+],
+[
 "九月",
 12.76,
 "Jiǔ yuè",
 "September; ninth month (of the lunar year)"
 ],
 [
+"第九",
+9.3,
+"???",
+"???"
+],
+[
 "马英九",
 8.79,
 "Mǎ Yīng jiǔ",
 "Ma Ying-jeou (1950-), Taiwanese Kuomintang politician, Mayor of Taipei 1998-2006, president of Republic of China 2008-2016"
+],
+[
+"九点",
+7.45,
+"???",
+"???"
+],
+[
+"第九名",
+6.5,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,16 +1,16 @@
 {
 "char": "献",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "offer, present; show, display",
 "pron": "xiàn"
 },
 "words": [
 [
-"贡献",
+"献",
 5,
-"gòng xiàn",
-"to contribute; to dedicate; to devote; contribution; CL:個|个[ge4]"
+"xiàn",
+"to offer; to present; to dedicate; to donate; to show; to put on display; worthy person (old)"
 ],
 [
 "奉献",
@@ -19,24 +19,36 @@
 "to offer respectfully; to consecrate; to dedicate; to devote"
 ],
 [
-"文献",
+"贡献",
 6,
-"wén xiàn",
-"document"
-]
+"gòng xiàn",
+"to contribute; to dedicate; to devote; contribution; CL:个[gè]"
 ],
-"extraWords": [
 [
 "捐献",
-8.22,
+7,
 "juān xiàn",
 "to donate; to contribute; donation; contribution"
 ],
 [
+"文献",
+7,
+"wén xiàn",
+"document"
+],
+[
 "献血",
-6.85,
+7,
 "xiàn xuè",
 "to donate blood"
+]
+],
+"extraWords": [
+[
+"献给",
+12.25,
+"???",
+"???"
 ],
 [
 "献上",

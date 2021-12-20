@@ -1,34 +1,46 @@
 {
 "char": "染",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "dye; be contagious; infect",
 "pron": "rǎn"
 },
 "words": [
 [
-"污染",
-4,
-"wū rǎn",
-"pollution; contamination; CL:個|个[ge4]"
-],
-[
-"传染",
-5,
-"chuán rǎn",
-"to infect; contagious"
-],
-[
 "染",
-6,
+5,
 "rǎn",
 "to dye; to catch (a disease); to acquire (bad habits etc); to contaminate; to add color washes to a painting"
 ],
 [
+"污染",
+5,
+"wū rǎn",
+"pollution; contamination; CL:个[gè]"
+],
+[
+"传染",
+7,
+"chuán rǎn",
+"to infect; contagious"
+],
+[
+"传染病",
+7,
+"chuán rǎn bìng",
+"infectious disease; contagious disease; pestilence"
+],
+[
 "感染",
-6,
+7,
 "gǎn rǎn",
 "infection; to infect; to influence"
+],
+[
+"感染力",
+7,
+"gǎn rǎn lì",
+"inspiration; infectious (enthusiasm)"
 ]
 ],
 "extraWords": [
@@ -37,12 +49,6 @@
 11.73,
 "rǎn sè",
 "dye"
-],
-[
-"传染病",
-10.54,
-"chuán rǎn bìng",
-"infectious disease; contagious disease; pestilence"
 ],
 [
 "染色体",

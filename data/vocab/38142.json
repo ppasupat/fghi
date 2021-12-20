@@ -1,6 +1,6 @@
 {
 "char": "链",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "chain, wire, cable; chain, shack",
 "pron": "liàn"
@@ -8,9 +8,9 @@
 "words": [
 [
 "项链",
-5,
+7,
 "xiàng liàn",
-"necklace; CL:條|条[tiao2]"
+"necklace; CL:条[tiáo]"
 ]
 ],
 "extraWords": [
@@ -19,6 +19,12 @@
 44.73,
 "liàn jiē",
 "link (on a website)"
+],
+[
+"链",
+34.68,
+"liàn",
+"chain; cable (unit of length: 100 fathoms, about 185 m); chain (unit of length: 66 feet, about 20 m); to chain; to enchain"
 ],
 [
 "拉链",
@@ -30,7 +36,7 @@
 "链条",
 5.59,
 "liàn tiáo",
-"chain; CL:根[gen1],條|条[tiao2]"
+"chain; CL:根[gēn],条[tiáo]"
 ]
 ],
 "strokes": [

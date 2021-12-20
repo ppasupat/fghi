@@ -1,17 +1,30 @@
 {
 "char": "肇",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "begin, commence, originate",
 "pron": "zhào"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "肇事",
-9.89,
+7,
 "zhào shì",
 "to cause an accident; to be responsible for an incident; to provoke a disturbance"
+]
+],
+"extraWords": [
+[
+"肇",
+3.5,
+"zhào",
+"at first; devise; originate"
+],
+[
+"肇",
+3.5,
+"zhào",
+"the start; the origin"
 ]
 ],
 "strokes": [

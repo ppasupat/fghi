@@ -1,17 +1,30 @@
 {
 "char": "寡",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "widowed; alone, friendless",
 "pron": "guǎ"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"孤陋寡闻",
+7,
+"gū lòu guǎ wén",
+"ignorant and inexperienced; ill-informed and narrow-minded"
+],
 [
 "寡妇",
-8.5,
+7,
 "guǎ fu",
 "widow"
+]
+],
+"extraWords": [
+[
+"寡",
+3.63,
+"guǎ",
+"few; scant; widowed"
 ]
 ],
 "strokes": [

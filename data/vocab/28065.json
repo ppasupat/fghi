@@ -1,12 +1,32 @@
 {
 "char": "涡",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "swirl, whirlpool, eddy",
 "pron": "guō, wō"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"旋涡",
+7,
+"xuán wō",
+"spiral; whirlpool; eddy; vortex"
+]
+],
+"extraWords": [
+[
+"漩涡",
+3.02,
+"xuán wō",
+"whirlpool; eddy; vortex; (fig.) maelstrom"
+],
+[
+"涡轮",
+2.09,
+"wō lún",
+"turbine"
+]
+],
 "strokes": [
 "M 249 709 Q 277 685 309 657 Q 325 642 343 644 Q 355 645 360 660 Q 364 678 353 711 Q 341 742 241 763 Q 223 767 216 763 Q 210 759 213 744 Q 217 731 249 709 Z",
 "M 149 529 Q 207 466 244 453 Q 260 449 271 465 Q 277 478 274 498 Q 262 543 189 564 Q 146 579 133 573 Q 126 572 129 558 Q 132 545 149 529 Z",

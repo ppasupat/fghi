@@ -1,6 +1,6 @@
 {
 "char": "姓",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "one's family name; clan, people",
 "pron": "xìng"
@@ -10,13 +10,25 @@
 "姓",
 2,
 "xìng",
-"family name; surname; CL:個|个[ge4]; to be surnamed"
+"family name; surname; CL:个[gè]; to be surnamed"
+],
+[
+"姓名",
+2,
+"xìng míng",
+"surname and given name; full name"
 ],
 [
 "老百姓",
-5,
+3,
 "lǎo bǎi xìng",
-"ordinary people; the \"person in the street\"; CL:個|个[ge4]"
+"ordinary people; the \"person in the street\"; CL:个[gè]"
+],
+[
+"姓氏",
+7,
+"xìng shì",
+"family name"
 ]
 ],
 "extraWords": [
@@ -25,12 +37,6 @@
 37.87,
 "bǎi xìng",
 "common people"
-],
-[
-"姓名",
-25.32,
-"xìng míng",
-"surname and given name; full name"
 ]
 ],
 "strokes": [

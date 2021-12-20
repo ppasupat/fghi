@@ -1,6 +1,6 @@
 {
 "char": "脂",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "fat, grease, lard; grease",
 "pron": "zhī"
@@ -8,12 +8,18 @@
 "words": [
 [
 "脂肪",
-6,
+7,
 "zhī fáng",
 "fat (in the body, in a plant, or in food)"
 ]
 ],
 "extraWords": [
+[
+"脂",
+19.96,
+"zhī",
+"fat; rouge (cosmetics); resin"
+],
 [
 "油脂",
 7.59,

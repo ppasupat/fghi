@@ -1,34 +1,76 @@
 {
 "char": "印",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "print, seal, stamp, chop, mark",
 "pron": "yìn"
 },
 "words": [
 [
-"印象",
-4,
-"yìn xiàng",
-"impression"
-],
-[
 "打印",
-4,
+2,
 "dǎ yìn",
 "to affix a seal; to stamp; to print out (with a printer)"
 ],
 [
 "复印",
-4,
+3,
 "fù yìn",
 "to photocopy; to duplicate a document"
+],
+[
+"印象",
+3,
+"yìn xiàng",
+"impression"
 ],
 [
 "印刷",
 5,
 "yìn shuā",
 "to print; printing"
+],
+[
+"打印机",
+6,
+"dǎ yìn jī",
+"printer"
+],
+[
+"脚印",
+6,
+"jiǎo yìn",
+"footprint"
+],
+[
+"印",
+6,
+"Yìn",
+"surname Yin; abbr. for 印度[Yìn dù]"
+],
+[
+"印",
+6,
+"yìn",
+"to print; to mark; to engrave; a seal; a print; a stamp; a mark; a trace; image"
+],
+[
+"印刷术",
+7,
+"yìn shuā shù",
+"printing; printing technology"
+],
+[
+"印章",
+7,
+"yìn zhāng",
+"seal; signet; chop; stamp; CL:方[fāng]"
+],
+[
+"印证",
+7,
+"yìn zhèng",
+"to seal; to confirm; to corroborate; to verify"
 ]
 ],
 "extraWords": [
@@ -57,22 +99,10 @@
 "Indonesia"
 ],
 [
-"脚印",
-7.18,
-"jiǎo yìn",
-"footprint"
-],
-[
 "复印件",
 6.51,
 "fù yìn jiàn",
 "photocopy; duplicate"
-],
-[
-"印证",
-5.64,
-"yìn zhèng",
-"to seal; to confirm; to corroborate; to verify"
 ],
 [
 "印花",

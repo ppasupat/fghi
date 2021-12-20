@@ -1,11 +1,17 @@
 {
 "char": "既",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "already; de facto; since; then",
 "pron": "jì"
 },
 "words": [
+[
+"既",
+4,
+"jì",
+"already; since; both... (and...)"
+],
 [
 "既然",
 4,
@@ -14,7 +20,7 @@
 ],
 [
 "一如既往",
-6,
+7,
 "yī rú jì wǎng",
 "just as in the past (idiom); as before; continuing as always"
 ]

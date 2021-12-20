@@ -1,16 +1,28 @@
 {
 "char": "纽",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "knot; button; handle, knob; tie",
 "pron": "niǔ"
 },
 "words": [
 [
-"纽扣儿",
-6,
-"niu3 kou4 r5",
+"纽带",
+7,
+"niǔ dài",
+"tie; link; bond"
+],
+[
+"纽扣",
+7,
+"niǔ kòu",
 "button"
+],
+[
+"枢纽",
+7,
+"shū niǔ",
+"hub (e.g. of traffic network); hinge; pivot; fulcrum"
 ]
 ],
 "extraWords": [
@@ -21,16 +33,10 @@
 "New York"
 ],
 [
-"枢纽",
-8.37,
-"shū niǔ",
-"hub (e.g. of traffic network); hinge; pivot; fulcrum"
-],
-[
-"纽带",
-5.27,
-"niǔ dài",
-"tie; link; bond"
+"纽",
+7.32,
+"niǔ",
+"to turn; to wrench; button; nu (Greek letter Νν)"
 ]
 ],
 "strokes": [

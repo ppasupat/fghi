@@ -1,16 +1,28 @@
 {
 "char": "灌",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "pour; water; irrigate, flood",
 "pron": "guàn"
 },
 "words": [
 [
+"灌",
+7,
+"guàn",
+"to irrigate; to pour; to install (software); to record (music)"
+],
+[
 "灌溉",
-6,
+7,
 "guàn gài",
 "to irrigate"
+],
+[
+"灌输",
+7,
+"guàn shū",
+"to imbue with; to inculcate; to instill into; to teach; to impart; to channel water to another place"
 ]
 ],
 "extraWords": [

@@ -1,6 +1,6 @@
 {
 "char": "推",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "push, expel; push forward",
 "pron": "tuī"
@@ -8,9 +8,33 @@
 "words": [
 [
 "推",
-4,
+2,
 "tuī",
 "to push; to cut; to refuse; to reject; to decline; to shirk (responsibility); to put off; to delay; to push forward; to nominate; to elect; massage"
+],
+[
+"推动",
+3,
+"tuī dòng",
+"to push (for acceptance of a plan); to push forward; to promote; to actuate; CL:个[gè]"
+],
+[
+"推广",
+3,
+"tuī guǎng",
+"to extend; to spread; to popularize; generalization; promotion (of a product etc)"
+],
+[
+"推进",
+3,
+"tuī jìn",
+"to impel; to carry forward; to push on; to advance; to drive forward"
+],
+[
+"推开",
+3,
+"tuī kāi",
+"to push open (a gate etc); to push away; to reject; to decline"
 ],
 [
 "推迟",
@@ -19,91 +43,91 @@
 "to postpone; to put off; to defer"
 ],
 [
-"推荐",
-5,
-"tuī jiàn",
-"to recommend; recommendation"
-],
-[
-"推广",
-5,
-"tuī guǎng",
-"to extend; to spread; to popularize; generalization; promotion (of a product etc)"
-],
-[
-"推辞",
-5,
-"tuī cí",
-"to decline (an appointment, invitation etc)"
-],
-[
-"推测",
-6,
-"tuī cè",
-"speculation; to conjecture; to surmise; to speculate"
-],
-[
 "推销",
-6,
+4,
 "tuī xiāo",
 "to market; to sell"
 ],
 [
-"推翻",
-6,
-"tuī fān",
-"to overthrow"
-],
-[
-"推理",
-6,
-"tuī lǐ",
-"reasoning; inference; to infer; to deduce"
-],
-[
-"推论",
-6,
-"tuī lùn",
-"to infer; inference; corollary; reasoned conclusion"
-]
-],
-"extraWords": [
-[
-"推出",
-143.67,
-"tuī chū",
-"to push out; to release; to launch; to publish; to recommend"
-],
-[
-"推动",
-106.75,
-"tuī dòng",
-"to push (for acceptance of a plan); to push forward; to promote; to actuate; CL:個|个[ge4]"
-],
-[
-"推进",
-103.28,
-"tuī jìn",
-"to impel; to carry forward; to push on; to advance; to drive forward"
-],
-[
 "推行",
-32.19,
+5,
 "tuī xíng",
 "to put into effect; to carry out"
 ],
 [
-"推开",
-9.88,
-"tuī kāi",
-"to push open (a gate etc); to push away; to reject; to decline"
+"推出",
+6,
+"tuī chū",
+"to push out; to release; to launch; to publish; to recommend"
+],
+[
+"推测",
+7,
+"tuī cè",
+"speculation; to conjecture; to surmise; to speculate"
+],
+[
+"推辞",
+7,
+"tuī cí",
+"to decline (an appointment, invitation etc)"
 ],
 [
 "推断",
-5.37,
+7,
 "tuī duàn",
 "to infer; to deduce; to predict; to extrapolate"
 ],
+[
+"推翻",
+7,
+"tuī fān",
+"to overthrow"
+],
+[
+"推荐",
+7,
+"tuī jiàn",
+"to recommend; recommendation"
+],
+[
+"推理",
+7,
+"tuī lǐ",
+"reasoning; inference; to infer; to deduce"
+],
+[
+"推敲",
+7,
+"tuī qiāo",
+"to think over"
+],
+[
+"推算",
+7,
+"tuī suàn",
+"to calculate; to reckon; to extrapolate (in calculation)"
+],
+[
+"推卸",
+7,
+"tuī xiè",
+"to avoid (esp. responsibility); to shift (the blame); to pass the buck"
+],
+[
+"推选",
+7,
+"tuī xuǎn",
+"to elect; to choose; to nominate"
+],
+[
+"推移",
+7,
+"tuī yí",
+"(of time) to elapse or pass; (of a situation) to develop or evolve"
+]
+],
+"extraWords": [
 [
 "推崇",
 5.2,

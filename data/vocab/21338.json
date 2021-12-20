@@ -1,14 +1,26 @@
 {
 "char": "博",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "gamble, play games; wide, broad",
 "pron": "bó"
 },
 "words": [
 [
+"博客",
+5,
+"bó kè",
+"blog (loanword); weblog; blogger"
+],
+[
+"博览会",
+5,
+"bó lǎn huì",
+"exposition; international fair"
+],
+[
 "博士",
-4,
+5,
 "bó shì",
 "doctor; court academician (in feudal China); Ph.D."
 ],
@@ -19,25 +31,31 @@
 "museum"
 ],
 [
+"微博",
+5,
+"wēi bó",
+"microblogging; microblog"
+],
+[
 "赌博",
 6,
 "dǔ bó",
 "to gamble"
-],
-[
-"博览会",
-6,
-"bó lǎn huì",
-"exposition; international fair"
-],
-[
-"博大精深",
-6,
-"bó dà jīng shēn",
-"wide-ranging and profound; broad and deep"
 ]
 ],
 "extraWords": [
+[
+"博",
+416.11,
+"bó",
+"extensive; ample; rich; obtain; aim; to win; to get; plentiful; to gamble"
+],
+[
+"博",
+416.11,
+"bó",
+"old variant of 博[bó]"
+],
 [
 "博文",
 40.57,
@@ -45,16 +63,16 @@
 "blog article; to write a blog article (netspeak)"
 ],
 [
-"博客",
-8.64,
-"bó kè",
-"blog (loanword); weblog; blogger"
-],
-[
 "博弈",
 7.02,
 "bó yì",
 "games (such as chess, dice etc); gambling; contest"
+],
+[
+"博士生",
+6.26,
+"???",
+"???"
 ]
 ],
 "strokes": [

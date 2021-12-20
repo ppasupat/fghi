@@ -1,31 +1,31 @@
 {
 "char": "契",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "deed, contract, bond; engrave",
 "pron": "qì"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "默契",
-11.22,
+7,
 "mò qì",
 "tacit understanding; mutual understanding; rapport; connected at a deep level with each other; (of team members) well coordinated; tight"
 ],
 [
 "契机",
-10.63,
+7,
 "qì jī",
 "opportunity; turning point; juncture"
 ],
 [
 "契约",
-7.57,
+7,
 "qì yuē",
 "agreement; contract"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 394 673 Q 416 680 442 685 Q 478 695 484 700 Q 491 707 487 714 Q 480 724 455 730 Q 430 734 404 723 Q 400 722 397 720 L 346 703 Q 243 682 211 676 Q 180 670 202 656 Q 235 638 322 658 Q 334 661 349 663 L 394 673 Z",
 "M 391 557 Q 409 563 466 572 Q 476 572 483 584 Q 483 594 462 602 Q 441 618 410 609 Q 400 606 392 602 L 350 588 Q 346 588 345 587 L 222 558 Q 197 554 217 539 Q 245 521 283 529 Q 311 538 350 546 L 391 557 Z",

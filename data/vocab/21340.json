@@ -1,17 +1,42 @@
 {
 "char": "卜",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "fortune telling; prophesy",
 "pron": "bo, bǔ"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "萝卜",
-14.39,
+7,
 "luó bo",
-"radish (Raphanus sativus), esp. white radish 白蘿蔔|白萝卜[bai2 luo2 bo5]; CL:條|条[tiao2]"
+"radish (Raphanus sativus), esp. white radish 白萝卜[bái luó bo]; CL:条[tiáo]"
+],
+[
+"占卜",
+7,
+"zhān bǔ",
+"to divine"
+]
+],
+"extraWords": [
+[
+"卜",
+14.96,
+"Bǔ",
+"surname Bu"
+],
+[
+"卜",
+14.96,
+"bǔ",
+"to divine; to forecast or estimate; (of a place to live etc) to choose"
+],
+[
+"卜",
+14.96,
+"bo",
+"see 萝卜[luó bo]"
 ],
 [
 "胡萝卜",

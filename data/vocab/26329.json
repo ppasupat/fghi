@@ -1,17 +1,30 @@
 {
 "char": "曙",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "bright, light of rising sun",
 "pron": "shǔ"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "曙光",
-5.11,
+7,
 "shǔ guāng",
 "dawn; fig. the dawn of a new era"
+]
+],
+"extraWords": [
+[
+"张曙光",
+1.59,
+"???",
+"???"
+],
+[
+"曙",
+0.81,
+"shǔ",
+"daybreak; dawn; the dawn of a new epoch (metaphor); Taiwan pr. [shu4]"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "尝",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "taste; experience, experiment",
 "pron": "cháng"
@@ -8,36 +8,43 @@
 "words": [
 [
 "尝",
-4,
+5,
 "cháng",
 "to taste; to try; to experience; already; ever; once"
 ],
 [
 "尝",
-4,
+5,
 "cháng",
-"variant of 嘗|尝[chang2]; to taste; to experience"
+"variant of 尝[cháng]; to taste; to experience"
 ],
 [
 "尝",
-4,
+5,
 "cháng",
-"old variant of 嘗|尝[chang2]"
+"old variant of 尝[cháng]"
 ],
 [
 "尝试",
-6,
+5,
 "cháng shì",
-"to try; to attempt; CL:次[ci4]"
+"to try; to attempt; CL:次[cì]"
 ],
 [
 "品尝",
-6,
+7,
 "pǐn cháng",
 "to taste a small amount; to sample"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"尝尝",
+24.29,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 530 580 Q 552 763 561 783 Q 565 793 545 809 Q 511 828 487 832 Q 472 836 464 827 Q 457 820 464 805 Q 479 786 480 771 Q 487 680 488 574 C 488 544 526 550 530 580 Z",
 "M 311 686 Q 354 629 380 617 Q 393 613 403 625 Q 410 635 409 652 Q 400 692 346 712 Q 312 727 302 723 Q 296 722 297 711 Q 298 701 311 686 Z",

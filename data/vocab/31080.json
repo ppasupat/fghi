@@ -1,34 +1,64 @@
 {
 "char": "票",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "slip of paper or bamboo; ticket",
 "pron": "piào"
 },
 "words": [
 [
+"车票",
+1,
+"chē piào",
+"ticket (for a bus or train)"
+],
+[
+"机票",
+1,
+"jī piào",
+"air ticket; passenger ticket; CL:张[zhāng]"
+],
+[
+"门票",
+1,
+"mén piào",
+"ticket (for theater, cinema etc)"
+],
+[
 "票",
-2,
+1,
 "piào",
-"ticket; ballot; banknote; CL:張|张[zhang1]; person held for ransom; amateur performance of Chinese opera; classifier for groups, batches, business transactions"
+"ticket; ballot; banknote; CL:张[zhāng]; person held for ransom; amateur performance of Chinese opera; classifier for groups, batches, business transactions"
 ],
 [
-"支票",
-5,
-"zhī piào",
-"check (bank); cheque; CL:本[ben3]"
+"票价",
+3,
+"piào jià",
+"ticket price; fare; admission fee"
 ],
 [
-"股票",
-5,
-"gǔ piào",
-"share certificate; stock (finance)"
+"邮票",
+3,
+"yóu piào",
+"(postage) stamp; CL:枚[méi],张[zhāng]"
 ],
 [
 "发票",
-5,
+4,
 "fā piào",
 "invoice; receipt or bill for purchase"
+],
+[
+"彩票",
+5,
+"cǎi piào",
+"lottery ticket"
+],
+[
+"股票",
+6,
+"gǔ piào",
+"share certificate; stock (finance)"
 ],
 [
 "投票",
@@ -37,37 +67,43 @@
 "to vote; vote"
 ],
 [
-"钞票",
+"退票",
 6,
-"chāo piào",
-"paper money; a bill (e.g. 100 yuan); CL:張|张[zhang1],紮|扎[za1]"
+"tuì piào",
+"to bounce (a check); to return a ticket; ticket refund"
 ],
 [
-"彩票",
-6,
-"cǎi piào",
-"lottery ticket"
+"钞票",
+7,
+"chāo piào",
+"paper money; a bill (e.g. 100 yuan); CL:张[zhāng],扎[zā]"
+],
+[
+"票房",
+7,
+"piào fáng",
+"box office"
+],
+[
+"售票",
+7,
+"shòu piào",
+"to sell tickets"
+],
+[
+"月票",
+7,
+"yuè piào",
+"monthly ticket"
+],
+[
+"支票",
+7,
+"zhī piào",
+"check (bank); cheque; CL:本[běn]"
 ]
 ],
 "extraWords": [
-[
-"门票",
-22.06,
-"mén piào",
-"ticket (for theater, cinema etc)"
-],
-[
-"机票",
-16.23,
-"jī piào",
-"air ticket; passenger ticket; CL:張|张[zhang1]"
-],
-[
-"票价",
-14.44,
-"piào jià",
-"ticket price; fare; admission fee"
-],
 [
 "船票",
 13.27,
@@ -75,34 +111,10 @@
 "ship ticket"
 ],
 [
-"票房",
-13.05,
-"piào fáng",
-"box office"
-],
-[
-"车票",
-11.65,
-"chē piào",
-"ticket (for a bus or train)"
-],
-[
 "选票",
 10.58,
 "xuǎn piào",
-"a vote; ballot; CL:張|张[zhang1]"
-],
-[
-"邮票",
-9.06,
-"yóu piào",
-"(postage) stamp; CL:枚[mei2],張|张[zhang1]"
-],
-[
-"售票",
-9.02,
-"shòu piào",
-"to sell tickets"
+"a vote; ballot; CL:张[zhāng]"
 ],
 [
 "票据",
@@ -139,6 +151,12 @@
 6.17,
 "dìng piào",
 "to book tickets; to issue tickets"
+],
+[
+"购票",
+6.01,
+"???",
+"???"
 ]
 ],
 "strokes": [

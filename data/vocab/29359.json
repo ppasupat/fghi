@@ -1,22 +1,28 @@
 {
 "char": "犯",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "commit crime, violate; criminal",
 "pron": "fàn"
 },
 "words": [
 [
-"罪犯",
+"犯",
 6,
-"zuì fàn",
-"criminal"
+"fàn",
+"to violate; to offend; to assault; criminal; crime; to make a mistake; recurrence (of mistake or sth bad)"
 ],
 [
-"冒犯",
+"犯规",
 6,
-"mào fàn",
-"to offend"
+"fàn guī",
+"to break the rules; an illegality; a foul"
+],
+[
+"犯罪",
+6,
+"fàn zuì",
+"to commit a crime; crime; offense"
 ],
 [
 "侵犯",
@@ -26,18 +32,36 @@
 ],
 [
 "触犯",
-6,
+7,
 "chù fàn",
 "to violate; to offend"
+],
+[
+"犯愁",
+7,
+"fàn chóu",
+"to worry; to be anxious"
+],
+[
+"冒犯",
+7,
+"mào fàn",
+"to offend"
+],
+[
+"囚犯",
+7,
+"qiú fàn",
+"prisoner; convict"
+],
+[
+"罪犯",
+7,
+"zuì fàn",
+"criminal"
 ]
 ],
 "extraWords": [
-[
-"犯罪",
-103.41,
-"fàn zuì",
-"to commit a crime; crime; offense"
-],
 [
 "犯人",
 31.0,
@@ -67,18 +91,6 @@
 20.66,
 "yí fàn",
 "a suspect"
-],
-[
-"囚犯",
-19.14,
-"qiú fàn",
-"prisoner; convict"
-],
-[
-"犯规",
-17.49,
-"fàn guī",
-"to break the rules; an illegality; a foul"
 ],
 [
 "犯法",

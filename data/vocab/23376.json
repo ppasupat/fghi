@@ -1,11 +1,29 @@
 {
 "char": "子",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "offspring, child; fruit, seed of; 1st terrestrial branch",
 "pron": "zǐ"
 },
 "words": [
+[
+"包子",
+1,
+"bāo zi",
+"steamed stuffed bun; CL:个[gè]"
+],
+[
+"杯子",
+1,
+"bēi zi",
+"cup; glass; CL:个[gè],只[zhī]"
+],
+[
+"本子",
+1,
+"běn zi",
+"book; notebook; Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"; CL:本[běn]; edition"
+],
 [
 "儿子",
 1,
@@ -13,136 +31,238 @@
 "son"
 ],
 [
-"桌子",
+"房子",
 1,
-"zhuō zi",
-"table; desk; CL:張|张[zhang1],套[tao4]"
-],
-[
-"椅子",
-1,
-"yǐ zi",
-"chair; CL:把[ba3],套[tao4]"
-],
-[
-"杯子",
-1,
-"bēi zi",
-"cup; glass; CL:個|个[ge4],隻|只[zhi1]"
+"fáng zi",
+"house; building (single- or two-story); apartment; room; CL:栋[dòng],幢[zhuàng],座[zuò],套[tào],间[jiān]"
 ],
 [
 "孩子",
-2,
+1,
 "hái zi",
 "child"
 ],
 [
-"妻子",
+"桌子",
+1,
+"zhuō zi",
+"table; desk; CL:张[zhāng],套[tào]"
+],
+[
+"子",
+1,
+"zǐ",
+"son; child; seed; egg; small thing; 1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat; Viscount, fourth of five orders of nobility 五等爵位[wǔ děng jué wèi]; ancient Chinese compass point: 0° (north); subsidiary; subordinate; sub-"
+],
+[
+"子",
+1,
+"zi",
+"(noun suffix)"
+],
+[
+"个子",
 2,
-"qī zǐ",
-"wife and children"
+"gè zi",
+"height; stature; build; size"
 ],
 [
-"妻子",
+"饺子",
 2,
-"qī zi",
-"wife; CL:個|个[ge4]"
+"jiǎo zi",
+"dumpling; pot-sticker; CL:个[gè],只[zhī]"
 ],
 [
-"裤子",
-3,
-"kù zi",
-"trousers; pants; CL:條|条[tiao2]"
+"句子",
+2,
+"jù zi",
+"sentence; CL:个[gè]"
 ],
 [
-"帽子",
-3,
-"mào zi",
-"hat; cap; (fig.) label; bad name; CL:頂|顶[ding3]"
+"筷子",
+2,
+"kuài zi",
+"chopsticks; CL:对[duì],根[gēn],把[bǎ],双[shuāng]"
 ],
 [
-"鼻子",
+"例子",
+2,
+"lì zi",
+"case; (for) instance; example; CL:个[gè]"
+],
+[
+"瓶子",
+2,
+"píng zi",
+"bottle; CL:个[gè]"
+],
+[
+"日子",
+2,
+"rì zi",
+"day; a (calendar) date; days of one's life"
+],
+[
+"样子",
+2,
+"yàng zi",
+"appearance; manner; pattern; model"
+],
+[
+"椅子",
+2,
+"yǐ zi",
+"chair; CL:把[bǎ],套[tào]"
+],
+[
+"院子",
+2,
+"yuàn zi",
+"courtyard; garden; yard; patio; CL:个[gè]; (old) servant"
+],
+[
+"被子",
 3,
-"bí zi",
-"nose; CL:個|个[ge4],隻|只[zhi1]"
+"bèi zi",
+"quilt; CL:床[chuáng]"
 ],
 [
 "电子邮件",
 3,
 "diàn zǐ yóu jiàn",
-"email; CL:封[feng1],份[fen4]"
+"email; CL:封[fēng],份[fèn]"
+],
+[
+"裤子",
+3,
+"kù zi",
+"trousers; pants; CL:条[tiáo]"
+],
+[
+"男子",
+3,
+"nán zǐ",
+"a man; a male"
+],
+[
+"女子",
+3,
+"nǚ zǐ",
+"woman; female"
+],
+[
+"牌子",
+3,
+"pái zi",
+"sign; trademark; brand"
 ],
 [
 "裙子",
 3,
 "qún zi",
-"skirt; CL:條|条[tiao2]"
+"skirt; CL:条[tiáo]"
 ],
 [
-"盘子",
+"沙子",
 3,
-"pán zi",
-"tray; plate; dish; CL:個|个[ge4]"
+"shā zi",
+"sand; grit; CL:粒[lì],把[bǎ]"
 ],
 [
-"瓶子",
+"屋子",
 3,
-"píng zi",
-"bottle; CL:個|个[ge4]"
+"wū zi",
+"house; room; CL:间[jiān]"
 ],
 [
-"个子",
+"种子",
 3,
-"gè zi",
-"height; stature; build; size"
+"zhǒng zi",
+"seed; CL:颗[kē],粒[lì]"
 ],
 [
-"句子",
+"子女",
 3,
-"jù zi",
-"sentence; CL:個|个[ge4]"
+"zǐ nǚ",
+"children; sons and daughters"
 ],
 [
-"筷子",
-3,
-"kuài zi",
-"chopsticks; CL:對|对[dui4],根[gen1],把[ba3],雙|双[shuang1]"
-],
-[
-"样子",
+"尺子",
 4,
-"yàng zi",
-"appearance; manner; pattern; model"
+"chǐ zi",
+"rule; ruler (measuring instrument); CL:把[bǎ]"
 ],
 [
-"小伙子",
+"虫子",
 4,
-"xiǎo huǒ zi",
-"young man; young guy; lad; youngster; CL:個|个[ge4]"
+"chóng zi",
+"insect; bug; worm; CL:条[tiáo],只[zhī]"
 ],
 [
-"盒子",
+"窗子",
 4,
-"hé zi",
-"box; case"
+"chuāng zi",
+"window"
 ],
 [
 "肚子",
 4,
 "dù zi",
-"belly; abdomen; stomach; CL:個|个[ge4]"
+"belly; abdomen; stomach; CL:个[gè]"
 ],
 [
 "镜子",
 4,
 "jìng zi",
-"mirror; CL:面[mian4],個|个[ge4]"
+"mirror; CL:面[miàn],个[gè]"
+],
+[
+"轮子",
+4,
+"lún zi",
+"wheel; CL:个[gè]"
+],
+[
+"帽子",
+4,
+"mào zi",
+"hat; cap; (fig.) label; bad name; CL:顶[dǐng]"
+],
+[
+"盘子",
+4,
+"pán zi",
+"tray; plate; dish; CL:个[gè]"
+],
+[
+"胖子",
+4,
+"pàng zi",
+"fat person; fatty"
+],
+[
+"妻子",
+4,
+"qī zǐ",
+"wife and children"
+],
+[
+"妻子",
+4,
+"qī zi",
+"wife; CL:个[gè]"
+],
+[
+"刷子",
+4,
+"shuā zi",
+"brush; scrub; CL:把[bǎ]"
 ],
 [
 "孙子",
 4,
 "Sūn zǐ",
-"Sun Tzu, also known as Sun Wu 孫武|孙武[Sun1 Wu3] (c. 500 BC, dates of birth and death uncertain), general, strategist and philosopher of the Spring and Autumn Period (700-475 BC), believed to be the author of the “Art of War” 孫子兵法|孙子兵法[Sun1 zi3 Bing1 fa3], one of the Seven Military Classics of ancient China 武經七書|武经七书[Wu3 jing1 Qi1 shu1]"
+"Sun Tzu, also known as Sun Wu 孙武[Sūn Wǔ] (c. 500 BC, dates of birth and death uncertain), general, strategist and philosopher of the Spring and Autumn Period (700-475 BC), believed to be the author of the “Art of War” 孙子兵法[Sūn zǐ Bīng fǎ], one of the Seven Military Classics of ancient China 武经七书[Wǔ jīng Qī shū]"
 ],
 [
 "孙子",
@@ -154,43 +274,109 @@
 "袜子",
 4,
 "wà zi",
-"socks; stockings; CL:隻|只[zhi1],對|对[dui4],雙|双[shuang1]"
+"socks; stockings; CL:只[zhī],对[duì],双[shuāng]"
 ],
 [
-"勺子",
+"箱子",
 4,
-"sháo zi",
-"scoop; ladle; CL:把[ba3]"
+"xiāng zi",
+"suitcase; chest; box; case; trunk; CL:只[zhī],个[gè]"
+],
+[
+"小伙子",
+4,
+"xiǎo huǒ zi",
+"young man; young guy; lad; youngster; CL:个[gè]"
 ],
 [
 "叶子",
 4,
 "yè zi",
-"foliage; leaf; CL:片[pian4]; (slang) marijuana; weed"
+"foliage; leaf; CL:片[piàn]; (slang) marijuana; weed"
 ],
 [
-"饺子",
+"影子",
 4,
-"jiǎo zi",
-"dumpling; pot-sticker; CL:個|个[ge4],隻|只[zhi1]"
+"yǐng zi",
+"shadow; reflection; (fig.) hint; indication; influence; CL:个[gè]"
 ],
 [
-"包子",
-4,
-"bāo zi",
-"steamed stuffed bun; CL:個|个[ge4]"
-],
-[
-"日子",
+"鼻子",
 5,
-"rì zi",
-"day; a (calendar) date; days of one's life"
+"bí zi",
+"nose; CL:个[gè],只[zhī]"
 ],
 [
-"屋子",
+"叉子",
 5,
-"wū zi",
-"house; room; CL:間|间[jian1]"
+"chā zi",
+"fork; CL:把[bǎ]"
+],
+[
+"池子",
+5,
+"chí zi",
+"pond; bathhouse pool; dance floor of a ballroom; (old) stalls (front rows in a theater)"
+],
+[
+"电子版",
+5,
+"diàn zǐ bǎn",
+"electronic edition; digital version"
+],
+[
+"柜子",
+5,
+"guì zi",
+"cupboard; cabinet"
+],
+[
+"盒子",
+5,
+"hé zi",
+"box; case"
+],
+[
+"胡子",
+5,
+"hú zi",
+"beard; mustache or whiskers; facial hair; CL:撮[zuǒ],根[gēn]; (coll.) bandit"
+],
+[
+"剪子",
+5,
+"jiǎn zi",
+"clippers; scissors; shears; CL:把[bǎ]"
+],
+[
+"面子",
+5,
+"miàn zi",
+"outer surface; outside; honor; reputation; face (as in \"losing face\"); self-respect; feelings; (medicinal) powder"
+],
+[
+"脑子",
+5,
+"nǎo zi",
+"brains; mind; CL:个[gè]"
+],
+[
+"骗子",
+5,
+"piàn zi",
+"swindler; a cheat"
+],
+[
+"扇子",
+5,
+"shàn zi",
+"fan; CL:把[bǎ]"
+],
+[
+"鸭子",
+5,
+"yā zi",
+"duck; male prostitute (slang)"
 ],
 [
 "一辈子",
@@ -199,193 +385,511 @@
 "(for) a lifetime"
 ],
 [
-"脖子",
+"一下子",
 5,
-"bó zi",
-"neck; CL:個|个[ge4]"
-],
-[
-"王子",
-5,
-"wáng zǐ",
-"prince; son of a king"
-],
-[
-"猴子",
-5,
-"hóu zi",
-"monkey; CL:隻|只[zhi1]"
-],
-[
-"兔子",
-5,
-"tù zi",
-"hare; rabbit; CL:隻|只[zhi1]"
-],
-[
-"绳子",
-5,
-"shéng zi",
-"cord; string; rope; CL:條|条[tiao2]"
-],
-[
-"狮子",
-5,
-"Shī zǐ",
-"Leo (star sign); Shihtzu township in Pingtung County 屏東縣|屏东县[Ping2 dong1 Xian4], Taiwan"
-],
-[
-"狮子",
-5,
-"shī zi",
-"lion; CL:隻|只[zhi1],頭|头[tou2]"
-],
-[
-"管子",
-5,
-"Guǎn zǐ",
-"Guanzi or Guan Zhong 管仲 (-645 BC), famous politician of Qi 齊國|齐国 of Spring and Autumn period; Guanzi, classical book containing writings of Guan Zhong and his school"
-],
-[
-"管子",
-5,
-"guǎn zi",
-"tube; pipe; drinking straw; CL:根[gen1]"
-],
-[
-"影子",
-5,
-"yǐng zi",
-"shadow; reflection; (fig.) hint; indication; influence; CL:個|个[ge4]"
-],
-[
-"嗓子",
-5,
-"sǎng zi",
-"throat; voice; CL:把[ba3]"
-],
-[
-"叉子",
-5,
-"chā zi",
-"fork; CL:把[ba3]"
-],
-[
-"被子",
-5,
-"bèi zi",
-"quilt; CL:床[chuang2]"
-],
-[
-"梳子",
-5,
-"shū zi",
-"comb; CL:把[ba3]"
-],
-[
-"桔子",
-5,
-"jú zi",
-"tangerine; also written 橘子; CL:個|个[ge4],瓣[ban4]"
-],
-[
-"夹子",
-5,
-"jiā zi",
-"clip; clamp; tongs; folder; wallet"
+"yī xià zi",
+"in a short while; all at once; all of a sudden"
 ],
 [
 "竹子",
 5,
 "zhú zi",
-"bamboo; CL:棵[ke1],支[zhi1],根[gen1]"
-],
-[
-"扇子",
-5,
-"shàn zi",
-"fan; CL:把[ba3]"
-],
-[
-"尺子",
-5,
-"chǐ zi",
-"rule; ruler (measuring instrument); CL:把[ba3]"
+"bamboo; CL:棵[kē],支[zhī],根[gēn]"
 ],
 [
 "子弹",
-6,
+5,
 "zǐ dàn",
-"bullet; CL:粒[li4],顆|颗[ke1],發|发[fa1]"
+"bullet; CL:粒[lì],颗[kē],发[fā]"
+],
+[
+"父子",
+6,
+"fù zǐ",
+"father and son"
+],
+[
+"稿子",
+6,
+"gǎo zi",
+"draft of a document; script; manuscript; mental plan; precedent"
+],
+[
+"母子",
+6,
+"mǔ zǐ",
+"mother and child; parent and subsidiary (companies); principal and interest"
+],
+[
+"茄子",
+6,
+"qié zi",
+"eggplant (Solanum melongena L.); aubergine; brinjal; Guinea squash; phonetic \"cheese\" (when being photographed); equivalent of \"say cheese\""
+],
+[
+"王子",
+6,
+"wáng zǐ",
+"prince; son of a king"
+],
+[
+"柱子",
+6,
+"zhù zi",
+"pillar; CL:根[gēn]"
+],
+[
+"爱面子",
+7,
+"ài miàn zi",
+"to like to look good in the eyes of others; sensitive about how one is regarded by others; proud"
+],
+[
+"靶子",
+7,
+"bǎ zi",
+"target"
+],
+[
+"辫子",
+7,
+"biàn zi",
+"plait; braid; pigtail; a mistake or shortcoming that may be exploited by an opponent; handle; CL:根[gēn],条[tiáo]"
+],
+[
+"脖子",
+7,
+"bó zi",
+"neck; CL:个[gè]"
+],
+[
+"铲子",
+7,
+"chǎn zi",
+"shovel; spade; trowel; spatula (kitchen utensil); CL:把[bǎ]"
+],
+[
+"锤子",
+7,
+"chuí zi",
+"hammer; CL:把[bǎ]"
+],
+[
+"胆子",
+7,
+"dǎn zi",
+"courage; nerve; guts"
+],
+[
+"担子",
+7,
+"dàn zi",
+"carrying pole and the loads on it; burden; task; responsibility; CL:副[fù]"
+],
+[
+"凳子",
+7,
+"dèng zi",
+"stool; small seat"
+],
+[
+"笛子",
+7,
+"dí zi",
+"bamboo flute; CL:管[guǎn]"
+],
+[
+"底子",
+7,
+"dǐ zi",
+"base; foundation; bottom"
+],
+[
+"弟子",
+7,
+"dì zǐ",
+"disciple; follower"
+],
+[
+"点子",
+7,
+"diǎn zi",
+"spot; point; dot; speck; drop (of liquid); droplet; point (of argument); idea; crux; indication; pointer"
+],
+[
+"垫子",
+7,
+"diàn zi",
+"cushion; mat; pad"
+],
+[
+"钉子",
+7,
+"dīng zi",
+"nail; snag; saboteur"
+],
+[
+"豆子",
+7,
+"dòu zi",
+"bean; pea; CL:颗[kē]"
+],
+[
+"疯子",
+7,
+"fēng zi",
+"madman; lunatic"
+],
+[
+"斧子",
+7,
+"fǔ zi",
+"axe; hatchet; CL:把[bǎ]"
+],
+[
+"盖子",
+7,
+"gài zi",
+"cover; lid; shell"
 ],
 [
 "鸽子",
-6,
+7,
 "gē zi",
 "pigeon; dove; various birds of the family Columbidae"
 ],
 [
-"侄子",
-6,
-"zhí zi",
-"brother's son; nephew"
-],
-[
-"曲子",
-6,
-"qǔ zi",
-"poem for singing; tune; music; CL:支[zhi1]"
-],
-[
-"面子",
-6,
-"miàn zi",
-"outer surface; outside; honor; reputation; face (as in \"losing face\"); self-respect; feelings; (medicinal) powder"
-],
-[
-"种子",
-6,
-"zhǒng zi",
-"seed; CL:顆|颗[ke1],粒[li4]"
-],
-[
-"辫子",
-6,
-"biàn zi",
-"plait; braid; pigtail; a mistake or shortcoming that may be exploited by an opponent; handle; CL:根[gen1],條|条[tiao2]"
-],
-[
 "钩子",
-6,
+7,
 "gōu zi",
 "hook"
 ],
 [
+"瓜子",
+7,
+"guā zǐ",
+"melon seed; seeds of pumpkin, watermelon or sunflower etc, roasted and flavored, consumed as a snack"
+],
+[
+"管子",
+7,
+"Guǎn zǐ",
+"Guanzi or Guan Zhong 管仲 (-645 BC), famous politician of Qi 齊國|齐国 of Spring and Autumn period; Guanzi, classical book containing writings of Guan Zhong and his school"
+],
+[
+"管子",
+7,
+"guǎn zi",
+"tube; pipe; drinking straw; CL:根[gēn]"
+],
+[
+"棍子",
+7,
+"gùn zi",
+"stick; rod"
+],
+[
+"过日子",
+7,
+"guò rì zi",
+"to live one's life; to pass one's days; to get along"
+],
+[
+"架子",
+7,
+"jià zi",
+"shelf; frame; stand; framework; airs; arrogance"
+],
+[
+"金子",
+7,
+"Jīn zǐ",
+"Kaneko (Japanese surname)"
+],
+[
+"金子",
+7,
+"jīn zi",
+"gold"
+],
+[
+"橘子",
+7,
+"jú zi",
+"tangerine; CL:个[gè],瓣[bàn]"
+],
+[
+"卷子",
+7,
+"juǎn zi",
+"steamed roll; spring roll"
+],
+[
+"卷子",
+7,
+"juàn zi",
+"test paper; examination paper"
+],
+[
 "君子",
-6,
+7,
 "jūn zǐ",
 "nobleman; person of noble character"
 ],
 [
-"嫂子",
-6,
-"sǎo zi",
-"(coll.) older brother's wife; sister-in-law; CL:個|个[ge4]"
+"看样子",
+7,
+"kàn yàng zi",
+"it seems; it looks as if"
 ],
 [
-"亭子",
-6,
-"tíng zi",
-"pavilion"
+"口子",
+7,
+"kǒu zi",
+"hole; opening; cut; gap; gash; my husband or wife; classifier for people (used for indicating the number of people in a family etc); precedent"
+],
+[
+"帘子",
+7,
+"lián zi",
+"curtain"
+],
+[
+"莲子",
+7,
+"lián zǐ",
+"lotus seed"
+],
+[
+"两口子",
+7,
+"liǎng kǒu zi",
+"husband and wife"
+],
+[
+"笼子",
+7,
+"lóng zi",
+"cage; basket; container"
+],
+[
+"炉子",
+7,
+"lú zi",
+"stove; oven; furnace"
+],
+[
+"路子",
+7,
+"lù zi",
+"method; way; approach"
+],
+[
+"碰钉子",
+7,
+"pèng dīng zi",
+"to meet with a rebuff"
+],
+[
+"片子",
+7,
+"piān zi",
+"film; movie; film reel; phonograph record; X-ray image"
+],
+[
+"片子",
+7,
+"piàn zi",
+"thin flake; small piece"
+],
+[
+"棋子",
+7,
+"qí zǐ",
+"chess piece; CL:个[gè],颗[kē]; (fig.) a pawn (used by others for their own purposes)"
+],
+[
+"卡子",
+7,
+"qiǎ zi",
+"clip; hair fastener; checkpoint"
+],
+[
+"钳子",
+7,
+"qián zi",
+"pliers; pincers; tongs; forceps; vise; clamp; claw (of a crab etc); CL:把[bǎ]; (dialect) earring"
+],
+[
+"圈子",
+7,
+"quān zi",
+"circle; ring; (social) circle"
+],
+[
+"嗓子",
+7,
+"sǎng zi",
+"throat; voice; CL:把[bǎ]"
+],
+[
+"嫂子",
+7,
+"sǎo zi",
+"(coll.) older brother's wife; sister-in-law; CL:个[gè]"
+],
+[
+"身子",
+7,
+"shēn zi",
+"body; pregnancy; health"
+],
+[
+"绳子",
+7,
+"shéng zi",
+"cord; string; rope; CL:条[tiáo]"
+],
+[
+"狮子",
+7,
+"Shī zǐ",
+"Leo (star sign); Shihtzu township in Pingtung County 屏东县[Píng dōng Xiàn], Taiwan"
+],
+[
+"狮子",
+7,
+"shī zi",
+"lion; CL:只[zhī],头[tóu]"
+],
+[
+"柿子",
+7,
+"shì zi",
+"persimmon; CL:个[gè]"
+],
+[
+"梳子",
+7,
+"shū zi",
+"comb; CL:把[bǎ]"
+],
+[
+"毯子",
+7,
+"tǎn zi",
+"blanket; CL:条[tiáo],张[zhāng],床[chuáng],面[miàn]"
+],
+[
+"梯子",
+7,
+"tī zi",
+"ladder; stepladder"
+],
+[
+"帖子",
+7,
+"tiě zi",
+"card; invitation; message; (forum) post"
+],
+[
+"位子",
+7,
+"wèi zi",
+"place; seat"
+],
+[
+"蚊子",
+7,
+"wén zi",
+"mosquito"
+],
+[
+"靴子",
+7,
+"xuē zi",
+"boots"
+],
+[
+"学子",
+7,
+"xué zǐ",
+"(literary) student; scholar"
+],
+[
+"燕子",
+7,
+"yàn zi",
+"swallow"
+],
+[
+"椰子",
+7,
+"yē zi",
+"coconut"
+],
+[
+"一揽子",
+7,
+"yī lǎn zi",
+"all-inclusive; undiscriminating"
+],
+[
+"有两下子",
+7,
+"yǒu liǎng xià zi",
+"to have real skill; to know one's stuff"
+],
+[
+"渣子",
+7,
+"zhā zi",
+"dregs; bits; dregs (of society)"
+],
+[
+"帐子",
+7,
+"zhàng zi",
+"mosquito net; CL:顶[dǐng]"
+],
+[
+"知识分子",
+7,
+"zhī shi fèn zǐ",
+"intellectual; intelligentsia; learned person"
+],
+[
+"爪子",
+7,
+"zhuǎ zi",
+"(animal's) claw"
+],
+[
+"子弟",
+7,
+"zǐ dì",
+"child; the younger generation"
+],
+[
+"子孙",
+7,
+"zǐ sūn",
+"offspring; posterity"
+],
+[
+"粽子",
+7,
+"zòng zi",
+"glutinous rice and choice of filling wrapped in leaves and steamed or boiled"
+],
+[
+"钻空子",
+7,
+"zuān kòng zi",
+"lit. to drill a hole; to take advantage of a loophole; to exploit an advantage; to seize the opportunity (esp. to do sth bad)"
 ]
 ],
 "extraWords": [
-[
-"房子",
-245.12,
-"fáng zi",
-"house; building (single- or two-story); apartment; room; CL:棟|栋[dong4],幢[zhuang4],座[zuo4],套[tao4],間|间[jian1]"
-],
 [
 "案子",
 191.17,
@@ -411,34 +915,10 @@
 "electronic; electron (particle physics)"
 ],
 [
-"男子",
-113.72,
-"nán zǐ",
-"a man; a male"
-],
-[
-"女子",
-93.29,
-"nǚ zǐ",
-"woman; female"
-],
-[
 "婊子",
 84.33,
 "biǎo zi",
 "prostitute; whore"
-],
-[
-"脑子",
-71.57,
-"nǎo zi",
-"brains; mind; CL:個|个[ge4]"
-],
-[
-"疯子",
-63.88,
-"fēng zi",
-"madman; lunatic"
 ],
 [
 "分子",
@@ -451,18 +931,6 @@
 58.55,
 "fèn zǐ",
 "members of a class or group; political elements (such as intellectuals or extremists); part"
-],
-[
-"箱子",
-44.86,
-"xiāng zi",
-"suitcase; chest; box; case; trunk; CL:隻|只[zhi1],個|个[ge4]"
-],
-[
-"骗子",
-44.39,
-"piàn zi",
-"swindler; a cheat"
 ],
 [
 "孩子们",
@@ -489,22 +957,10 @@
 "car or other vehicle (bicycle, truck etc)"
 ],
 [
-"一下子",
-31.5,
-"yī xià zi",
-"in a short while; all at once; all of a sudden"
-],
-[
-"子女",
-31.49,
-"zǐ nǚ",
-"children; sons and daughters"
-],
-[
 "老子",
 31.22,
 "Lǎo zǐ",
-"Laozi or Lao-tze (c. 500 BC), Chinese philosopher, the founder of Taoism; the sacred book of Daoism, 道德經|道德经[Dao4 de2 jing1] by Laozi"
+"Laozi or Lao-tze (c. 500 BC), Chinese philosopher, the founder of Taoism; the sacred book of Daoism, 道德经[Dào dé jīng] by Laozi"
 ],
 [
 "老子",
@@ -531,16 +987,22 @@
 "Gemini (constellation and sign of the zodiac)"
 ],
 [
+"猴子",
+26.56,
+"hóu zi",
+"monkey; CL:只[zhī]"
+],
+[
+"兔子",
+23.76,
+"tù zi",
+"hare; rabbit; CL:只[zhī]"
+],
+[
 "袋子",
 23.76,
 "dài zi",
 "bag"
-],
-[
-"胡子",
-23.49,
-"hú zi",
-"beard; mustache or whiskers; facial hair; CL:撮[zuo3],根[gen1]; (coll.) bandit"
 ],
 [
 "傻子",
@@ -555,12 +1017,6 @@
 "factor; (genetic) trait; (math.) factor; divisor"
 ],
 [
-"虫子",
-21.49,
-"chóng zi",
-"insect; bug; worm; CL:條|条[tiao2],隻|只[zhi1]"
-],
-[
 "带子",
 20.87,
 "dài zi",
@@ -571,30 +1027,6 @@
 20.41,
 "lí zǐ",
 "ion"
-],
-[
-"胖子",
-20.19,
-"pàng zi",
-"fat person; fatty"
-],
-[
-"弟子",
-20.06,
-"dì zǐ",
-"disciple; follower"
-],
-[
-"例子",
-19.9,
-"lì zi",
-"case; (for) instance; example; CL:個|个[ge4]"
-],
-[
-"位子",
-19.32,
-"wèi zi",
-"place; seat"
 ],
 [
 "小孩子",
@@ -609,34 +1041,10 @@
 "(dialect) younger sister; girl"
 ],
 [
-"点子",
-17.92,
-"diǎn zi",
-"spot; point; dot; speck; drop (of liquid); droplet; point (of argument); idea; crux; indication; pointer"
-],
-[
-"片子",
-16.9,
-"piān zi",
-"film; movie; film reel; phonograph record; X-ray image"
-],
-[
-"片子",
-16.9,
-"piàn zi",
-"thin flake; small piece"
-],
-[
 "子宫",
 16.27,
 "zǐ gōng",
 "uterus; womb"
-],
-[
-"牌子",
-15.77,
-"pái zi",
-"sign; trademark; brand"
 ],
 [
 "子公司",
@@ -651,16 +1059,10 @@
 "a while; a spell; a short time; a burst"
 ],
 [
-"知识分子",
-14.84,
-"zhī shi fèn zǐ",
-"intellectual; intelligentsia; learned person"
-],
-[
-"靴子",
-14.31,
-"xuē zi",
-"boots"
+"侄子",
+13.92,
+"zhí zi",
+"brother's son; nephew"
 ],
 [
 "公子",
@@ -675,12 +1077,6 @@
 "village"
 ],
 [
-"鸭子",
-13.24,
-"yā zi",
-"duck; male prostitute (slang)"
-],
-[
 "瘾君子",
 13.09,
 "yǐn jūn zǐ",
@@ -693,16 +1089,16 @@
 "town; village"
 ],
 [
-"金子",
-12.67,
-"Jīn zǐ",
-"Kaneko (Japanese surname)"
+"领导班子",
+12.49,
+"???",
+"???"
 ],
 [
-"金子",
-12.67,
-"jīn zi",
-"gold"
+"曲子",
+12.43,
+"qǔ zi",
+"poem for singing; tune; music; CL:支[zhī]"
 ],
 [
 "太子",
@@ -735,12 +1131,6 @@
 "list of items; bill; form; bedsheet"
 ],
 [
-"院子",
-11.33,
-"yuàn zi",
-"courtyard; garden; yard; patio; CL:個|个[ge4]; (old) servant"
-],
-[
 "童子军",
 11.06,
 "Tóng zǐ jūn",
@@ -756,19 +1146,7 @@
 "孔子",
 10.9,
 "Kǒng zǐ",
-"Confucius (551-479 BC), Chinese thinker and social philosopher, also known as 孔夫子[Kong3 fu1 zi3]"
-],
-[
-"毯子",
-10.82,
-"tǎn zi",
-"blanket; CL:條|条[tiao2],張|张[zhang1],床[chuang2],面[mian4]"
-],
-[
-"帖子",
-10.8,
-"tiě zi",
-"card; invitation; message; (forum) post"
+"Confucius (551-479 BC), Chinese thinker and social philosopher, also known as 孔夫子[Kǒng fū zǐ]"
 ],
 [
 "汉子",
@@ -792,37 +1170,13 @@
 "刀子",
 10.46,
 "dāo zi",
-"knife; CL:把[ba3]"
-],
-[
-"父子",
-10.45,
-"fù zǐ",
-"father and son"
-],
-[
-"笼子",
-10.14,
-"lóng zi",
-"cage; basket; container"
-],
-[
-"柜子",
-9.81,
-"guì zi",
-"cupboard; cabinet"
-],
-[
-"圈子",
-9.54,
-"quān zi",
-"circle; ring; (social) circle"
+"knife; CL:把[bǎ]"
 ],
 [
 "份子",
 9.45,
 "fèn zǐ",
-"variant of 分子[fen4 zi3] (used in Taiwan but not in mainland China)"
+"variant of 分子[fèn zǐ] (used in Taiwan but not in mainland China)"
 ],
 [
 "份子",
@@ -843,12 +1197,6 @@
 "way; method; Taiwan pr. [fa2 zi5]"
 ],
 [
-"豆子",
-8.82,
-"dòu zi",
-"bean; pea; CL:顆|颗[ke1]"
-],
-[
 "男孩子",
 8.79,
 "nán hái zi",
@@ -861,46 +1209,10 @@
 "sperm; spermatozoon"
 ],
 [
-"身子",
-8.53,
-"shēn zi",
-"body; pregnancy; health"
-],
-[
-"架子",
-8.5,
-"jià zi",
-"shelf; frame; stand; framework; airs; arrogance"
-],
-[
 "西门子",
 8.48,
 "Xī mén zǐ",
 "Siemens (company name)"
-],
-[
-"蚊子",
-8.29,
-"wén zi",
-"mosquito"
-],
-[
-"棍子",
-8.02,
-"gùn zi",
-"stick; rod"
-],
-[
-"沙子",
-7.96,
-"shā zi",
-"sand; grit; CL:粒[li4],把[ba3]"
-],
-[
-"锤子",
-7.96,
-"chuí zi",
-"hammer; CL:把[ba3]"
 ],
 [
 "原子",
@@ -921,12 +1233,6 @@
 "devils; refers to 日本鬼子, wartime term insult for Japanese"
 ],
 [
-"子弟",
-7.24,
-"zǐ dì",
-"child; the younger generation"
-],
-[
 "老头子",
 7.24,
 "lǎo tóu zi",
@@ -945,40 +1251,10 @@
 "pills; balls; meatballs"
 ],
 [
-"梯子",
-7.04,
-"tī zi",
-"ladder; stepladder"
-],
-[
-"路子",
-6.97,
-"lù zi",
-"method; way; approach"
-],
-[
 "原子能",
 6.66,
 "yuán zǐ néng",
 "atomic energy"
-],
-[
-"看样子",
-6.56,
-"kàn yàng zi",
-"it seems; it looks as if"
-],
-[
-"爪子",
-6.44,
-"zhuǎ zi",
-"(animal's) claw"
-],
-[
-"胆子",
-6.35,
-"dǎn zi",
-"courage; nerve; guts"
 ],
 [
 "半辈子",
@@ -993,18 +1269,6 @@
 "fool; sucker"
 ],
 [
-"钉子",
-6.2,
-"dīng zi",
-"nail; snag; saboteur"
-],
-[
-"母子",
-6.14,
-"mǔ zǐ",
-"mother and child; parent and subsidiary (companies); principal and interest"
-],
-[
 "格子",
 6.09,
 "gé zi",
@@ -1017,22 +1281,10 @@
 "the (rightful) emperor; \"Son of Heaven\" (traditional English translation)"
 ],
 [
-"轮子",
-6.05,
-"lún zi",
-"wheel; CL:個|个[ge4]"
-],
-[
 "耗子",
 5.99,
 "hào zi",
 "(dialect) mouse; rat"
-],
-[
-"学子",
-5.91,
-"xué zǐ",
-"(literary) student; scholar"
 ],
 [
 "松子",
@@ -1047,28 +1299,10 @@
 "Zhang Ziyi (1979-), PRC actress"
 ],
 [
-"茄子",
-5.67,
-"qié zi",
-"eggplant (Solanum melongena L.); aubergine; brinjal; Guinea squash; phonetic \"cheese\" (when being photographed); equivalent of \"say cheese\""
-],
-[
-"橘子",
-5.66,
-"jú zi",
-"tangerine; CL:個|个[ge4],瓣[ban4]"
-],
-[
 "老爷子",
 5.64,
 "lǎo yé zi",
 "my (you etc) old father; polite appellation for an elderly male"
-],
-[
-"窗子",
-5.6,
-"chuāng zi",
-"window"
 ],
 [
 "瞎子",
@@ -1083,16 +1317,16 @@
 "the next life"
 ],
 [
-"过日子",
-5.46,
-"guò rì zi",
-"to live one's life; to pass one's days; to get along"
-],
-[
 "原子弹",
 5.43,
 "yuán zǐ dàn",
 "atom bomb; atomic bomb; A-bomb"
+],
+[
+"大个子",
+5.43,
+"???",
+"???"
 ],
 [
 "书呆子",
@@ -1113,22 +1347,10 @@
 "trafficker; dealer; monger; peddler"
 ],
 [
-"铲子",
-5.31,
-"chǎn zi",
-"shovel; spade; trowel; spatula (kitchen utensil); CL:把[ba3]"
-],
-[
 "柚子",
 5.26,
 "yòu zi",
 "pomelo (Citrus maxima or C. grandis); shaddock; oriental grapefruit"
-],
-[
-"炉子",
-5.19,
-"lú zi",
-"stove; oven; furnace"
 ]
 ],
 "strokes": [

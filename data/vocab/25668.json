@@ -1,11 +1,29 @@
 {
 "char": "摄",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "take in, absorb; act as deputy",
 "pron": "shè"
 },
 "words": [
+[
+"拍摄",
+5,
+"pāi shè",
+"to film; to shoot (a picture)"
+],
+[
+"摄像",
+5,
+"shè xiàng",
+"to videotape"
+],
+[
+"摄像机",
+5,
+"shè xiàng jī",
+"video camera; CL:部[bù]"
+],
 [
 "摄影",
 5,
@@ -13,42 +31,30 @@
 "to take a photograph; photography; to shoot (a movie)"
 ],
 [
+"摄影师",
+5,
+"shè yǐng shī",
+"photographer; cameraman"
+],
+[
 "摄氏度",
-6,
+7,
 "Shè shì dù",
 "°C (degrees Celsius)"
 ]
 ],
 "extraWords": [
 [
-"拍摄",
-82.19,
-"pāi shè",
-"to film; to shoot (a picture)"
-],
-[
-"摄像机",
-22.48,
-"shè xiàng jī",
-"video camera; CL:部[bu4]"
-],
-[
-"摄影师",
-22.27,
-"shè yǐng shī",
-"photographer; cameraman"
+"摄",
+74.28,
+"shè",
+"to take in; to absorb; to assimilate; to act for; to take a photo; photo shoot; photo; to conserve (one's health)"
 ],
 [
 "摄像头",
 21.37,
 "shè xiàng tóu",
 "webcam; surveillance camera"
-],
-[
-"摄像",
-16.53,
-"shè xiàng",
-"to videotape"
 ],
 [
 "摄影机",

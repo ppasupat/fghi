@@ -1,11 +1,30 @@
 {
 "char": "焊",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "weld, solder",
 "pron": "hàn"
 },
-"words": [],
+"words": [
+[
+"焊",
+7,
+"hàn",
+"to weld; to solder"
+],
+[
+"焊",
+7,
+"hàn",
+"variant of 焊[hàn]"
+],
+[
+"焊",
+7,
+"hàn",
+"variant of 焊[hàn]"
+]
+],
 "extraWords": [],
 "strokes": [
 "M 134 573 Q 127 515 111 459 Q 99 426 126 397 Q 138 382 154 400 Q 190 448 173 527 Q 169 558 156 579 Q 149 586 144 585 Q 137 581 134 573 Z",

@@ -1,6 +1,6 @@
 {
 "char": "惊",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "frighten, surprise, startle",
 "pron": "jīng"
@@ -13,61 +13,115 @@
 "to be startled; to be shocked; to be amazed"
 ],
 [
-"惊讶",
-6,
-"jīng yà",
-"amazed; astonished; to surprise; amazing; astonishment; awe"
-],
-[
 "震惊",
-6,
+5,
 "zhèn jīng",
 "to shock; to astonish"
 ],
 [
-"惊奇",
-6,
-"jīng qí",
-"to be amazed; to be surprised; to wonder"
-],
-[
-"惊动",
-6,
-"jīng dòng",
-"to alarm; to startle; to disturb"
-]
-],
-"extraWords": [
-[
-"惊喜",
-62.87,
-"jīng xǐ",
-"nice surprise; to be pleasantly surprised"
-],
-[
 "惊人",
-23.93,
+6,
 "jīng rén",
 "astonishing"
 ],
 [
+"惊喜",
+6,
+"jīng xǐ",
+"nice surprise; to be pleasantly surprised"
+],
+[
+"触目惊心",
+7,
+"chù mù jīng xīn",
+"lit. shocks the eye, astonishes the heart (idiom); shocking; horrible to see; a ghastly sight"
+],
+[
 "大吃一惊",
-8.29,
+7,
 "dà chī yī jīng",
 "to have a surprise (idiom); shocked or startled; gobsmacked"
 ],
 [
+"大惊小怪",
+7,
+"dà jīng xiǎo guài",
+"to make a fuss about nothing (idiom)"
+],
+[
+"惊",
+7,
+"jīng",
+"to startle; to be frightened; to be scared; alarm"
+],
+[
+"惊诧",
+7,
+"jīng chà",
+"to be surprised; to be amazed; to be stunned"
+],
+[
+"惊慌",
+7,
+"jīng huāng",
+"to panic; to be alarmed"
+],
+[
+"惊慌失措",
+7,
+"jīng huāng shī cuò",
+"to lose one's head out of fear (idiom)"
+],
+[
+"惊奇",
+7,
+"jīng qí",
+"to be amazed; to be surprised; to wonder"
+],
+[
+"惊叹",
+7,
+"jīng tàn",
+"to exclaim in admiration; a gasp of surprise"
+],
+[
+"惊天动地",
+7,
+"jīng tiān dòng dì",
+"world-shaking (idiom)"
+],
+[
+"惊险",
+7,
+"jīng xiǎn",
+"thrilling; a thriller"
+],
+[
+"惊心动魄",
+7,
+"jīng xīn dòng pò",
+"shaking one to the core; extremely disturbing; hair-raising (idiom)"
+],
+[
 "惊醒",
-7.19,
+7,
 "jīng xǐng",
 "to rouse; to be woken by sth; to wake with a start; to sleep lightly"
 ],
 [
-"惊慌",
-7.15,
-"jīng huāng",
-"to panic; to be alarmed"
+"惊讶",
+7,
+"jīng yà",
+"amazed; astonished; to surprise; amazing; astonishment; awe"
 ],
+[
+"受惊",
+7,
+"shòu jīng",
+"startled"
+]
+],
+"extraWords": [
 [
 "惊吓",
 6.89,
@@ -75,28 +129,10 @@
 "to frighten; to horrify; to terrify"
 ],
 [
-"大惊小怪",
-6.41,
-"dà jīng xiǎo guài",
-"to make a fuss about nothing (idiom)"
-],
-[
-"惊叹",
-6.4,
-"jīng tàn",
-"to exclaim in admiration; a gasp of surprise"
-],
-[
 "惊呼",
 5.91,
 "jīng hū",
 "to cry out in alarm or surprise"
-],
-[
-"惊险",
-5.13,
-"jīng xiǎn",
-"thrilling; a thriller"
 ]
 ],
 "strokes": [

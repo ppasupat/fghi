@@ -1,14 +1,26 @@
 {
 "char": "撒",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "release, cast away, let go; disperse; relax",
 "pron": "sā, sǎ"
 },
 "words": [
 [
+"撒",
+7,
+"sā",
+"to let go; to cast; to let loose; to discharge; to give expression to; (coll.) to pee"
+],
+[
+"撒",
+7,
+"sǎ",
+"to scatter; to sprinkle; to spill"
+],
+[
 "撒谎",
-6,
+7,
 "sā huǎng",
 "to tell lies"
 ]

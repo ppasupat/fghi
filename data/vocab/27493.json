@@ -1,102 +1,132 @@
 {
 "char": "步",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "step, pace; walk, stroll",
 "pron": "bù"
 },
 "words": [
 [
+"步",
+3,
+"Bù",
+"surname Bu"
+],
+[
+"步",
+3,
+"bù",
+"a step; a pace; walk; march; stages in a process; situation"
+],
+[
+"初步",
+3,
+"chū bù",
+"initial; preliminary; tentative"
+],
+[
+"进步",
+3,
+"jìn bù",
+"progress; improvement; to improve; to progress; CL:个[gè]"
+],
+[
+"进一步",
+3,
+"jìn yī bù",
+"one step further; to move forward a step; further onwards"
+],
+[
 "跑步",
-2,
+3,
 "pǎo bù",
 "to run; to jog; (military) to march at the double"
 ],
 [
 "散步",
-4,
+3,
 "sàn bù",
 "to take a walk; to go for a walk"
 ],
 [
-"进步",
-5,
-"jìn bù",
-"progress; improvement; to improve; to progress; CL:個|个[ge4]"
-],
-[
-"步骤",
-5,
-"bù zhòu",
-"procedure; step"
+"步行",
+4,
+"bù xíng",
+"to go on foot; to walk"
 ],
 [
 "逐步",
-5,
+4,
 "zhú bù",
 "progressively; step by step"
 ],
 [
-"退步",
+"脚步",
 5,
-"tuì bù",
-"to do less well than before; to make a concession; setback; backward step; leeway; room to maneuver; fallback"
+"jiǎo bù",
+"footstep; step"
+],
+[
+"步伐",
+7,
+"bù fá",
+"pace; (measured) step; march"
+],
+[
+"步入",
+7,
+"bù rù",
+"to step into; to enter"
+],
+[
+"步骤",
+7,
+"bù zhòu",
+"procedure; step"
 ],
 [
 "地步",
-6,
+7,
 "dì bù",
 "stage; degree (to which a situation has evolved); situation; leeway"
 ],
 [
-"初步",
-6,
-"chū bù",
-"initial; preliminary; tentative"
+"起步",
+7,
+"qǐ bù",
+"to set out; to set in motion; the start (of some activity)"
 ],
 [
 "让步",
-6,
+7,
 "ràng bù",
 "to concede; to give in; to yield; a concession; (linguistics) concessive"
 ],
 [
-"步伐",
-6,
-"bù fá",
-"pace; (measured) step; march"
-]
-],
-"extraWords": [
-[
-"进一步",
-237.88,
-"jìn yī bù",
-"one step further; to move forward a step; further onwards"
-],
-[
 "同步",
-25.71,
+7,
 "tóng bù",
 "synchronous; to synchronize; to keep step with"
 ],
 [
-"脚步",
-23.05,
-"jiǎo bù",
-"footstep; step"
+"徒步",
+7,
+"tú bù",
+"to be on foot"
 ],
+[
+"止步",
+7,
+"zhǐ bù",
+"to halt; to stop; to go no farther"
+]
+],
+"extraWords": [
 [
 "下一步",
 17.16,
 "xià yī bù",
 "the next step"
-],
-[
-"起步",
-16.67,
-"qǐ bù",
-"to set out; to set in motion; the start (of some activity)"
 ],
 [
 "舞步",
@@ -111,22 +141,16 @@
 "steadily; a steady pace"
 ],
 [
-"步入",
-13.14,
-"bù rù",
-"to step into; to enter"
+"台步",
+12.01,
+"???",
+"???"
 ],
 [
 "第一步",
 11.48,
 "dì yī bù",
 "step one; first step"
-],
-[
-"步行",
-9.22,
-"bù xíng",
-"to go on foot; to walk"
 ],
 [
 "步步",
@@ -144,7 +168,13 @@
 "步枪",
 6.86,
 "bù qiāng",
-"rifle; CL:把[ba3],枝[zhi1]"
+"rifle; CL:把[bǎ],枝[zhī]"
+],
+[
+"一步步",
+6.25,
+"???",
+"???"
 ],
 [
 "漫步",

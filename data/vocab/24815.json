@@ -1,6 +1,6 @@
 {
 "char": "惯",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "habit, custom; habitually, usual",
 "pron": "guàn"
@@ -8,25 +8,42 @@
 "words": [
 [
 "习惯",
-3,
+2,
 "xí guàn",
-"habit; custom; usual practice; to be used to; CL:個|个[ge4]"
+"habit; custom; usual practice; to be used to; CL:个[gè]"
+],
+[
+"惯",
+7,
+"guàn",
+"accustomed to; used to; indulge; to spoil (a child)"
 ],
 [
 "惯例",
-6,
+7,
 "guàn lì",
 "convention; usual practice"
-]
 ],
-"extraWords": [
 [
 "惯性",
-5.55,
+7,
 "guàn xìng",
 "(physics) inertia; (fig.) force of habit; tendency to do things in the accustomed way; habitual"
+],
+[
+"娇惯",
+7,
+"jiāo guàn",
+"to pamper; to coddle; to spoil"
+],
+[
+"司空见惯",
+7,
+"sī kōng jiàn guàn",
+"a common occurrence (idiom)"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 148 545 Q 138 473 115 406 Q 103 373 129 338 Q 142 322 160 340 Q 205 397 188 493 Q 185 527 172 551 Q 165 558 159 558 Q 150 554 148 545 Z",
 "M 311 573 Q 327 563 376 509 Q 386 499 400 498 Q 409 498 413 509 Q 417 521 412 545 Q 405 576 318 605 Q 317 606 312 606 C 282 609 286 590 311 573 Z",

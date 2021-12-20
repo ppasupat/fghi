@@ -1,12 +1,31 @@
 {
 "char": "祠",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "ancestral temple; offer sacrifice",
 "pron": "cí"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"祠",
+2.65,
+"cí",
+"shrine; to offer a sacrifice"
+],
+[
+"祠堂",
+1.66,
+"cí táng",
+"ancestral hall; memorial hall"
+],
+[
+"宗祠",
+0.55,
+"zōng cí",
+"ancestral temple; clan hall"
+]
+],
 "strokes": [
 "M 280 781 Q 328 726 367 705 Q 383 702 394 717 Q 401 730 399 750 Q 387 798 297 823 Q 296 824 295 824 Q 276 828 266 825 Q 259 824 261 810 Q 262 797 280 781 Z",
 "M 271 374 Q 302 417 335 469 Q 371 527 420 565 Q 436 577 423 592 Q 404 607 374 617 Q 352 626 334 614 Q 253 554 97 542 Q 85 543 82 536 Q 79 526 95 515 Q 134 490 151 492 Q 167 495 293 551 Q 309 558 314 551 Q 320 541 306 516 Q 231 366 48 183 Q 33 173 36 169 Q 39 166 52 171 Q 154 223 247 342 L 271 374 Z",

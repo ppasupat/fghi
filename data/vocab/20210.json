@@ -1,17 +1,30 @@
 {
 "char": "仲",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "middle brother; go between, mediator; surname",
 "pron": "zhòng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "仲裁",
-10.23,
+7,
 "zhòng cái",
 "arbitration"
+]
+],
+"extraWords": [
+[
+"仲",
+23.34,
+"Zhòng",
+"surname Zhong"
+],
+[
+"仲",
+23.34,
+"zhòng",
+"second month of a season; middle; intermediate; second amongst brothers"
 ]
 ],
 "strokes": [

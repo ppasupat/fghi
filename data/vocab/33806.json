@@ -1,24 +1,30 @@
 {
 "char": "萎",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "wither, wilt",
 "pron": "wěi"
 },
 "words": [
 [
-"枯萎",
-6,
-"kū wěi",
-"to wilt; to wither; wilted; withered; drained; enervated; exhausted"
+"萎缩",
+7,
+"wěi suō",
+"to wither; to dry up (of a plant); to atrophy (of muscle, social custom etc)"
 ]
 ],
 "extraWords": [
 [
-"萎缩",
-13.49,
-"wěi suō",
-"to wither; to dry up (of a plant); to atrophy (of muscle, social custom etc)"
+"枯萎",
+2.21,
+"kū wěi",
+"to wilt; to wither; wilted; withered; drained; enervated; exhausted"
+],
+[
+"萎",
+1.63,
+"wěi",
+"to wither; to drop; to decline; spiritless; Taiwan pr. [wei1]"
 ]
 ],
 "strokes": [

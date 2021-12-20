@@ -1,42 +1,84 @@
 {
 "char": "宝",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "treasure, jewel; precious, rare",
 "pron": "bǎo"
 },
 "words": [
 [
+"宝",
+4,
+"bǎo",
+"variant of 宝[bǎo]"
+],
+[
+"宝",
+4,
+"bǎo",
+"jewel; gem; treasure; precious"
+],
+[
+"宝宝",
+4,
+"bǎo bǎo",
+"darling; baby"
+],
+[
 "宝贝",
-5,
+4,
 "bǎo bèi",
 "treasured object; treasure; darling; baby; cowry; good-for-nothing or queer character"
 ],
 [
 "宝贵",
-5,
+4,
 "bǎo guì",
 "valuable; precious; to value; to treasure; to set store by"
+],
+[
+"宝石",
+4,
+"bǎo shí",
+"precious stone; gem; CL:枚[méi],颗[kē]"
+],
+[
+"珠宝",
+6,
+"zhū bǎo",
+"pearls; jewels; precious stones"
+],
+[
+"宝库",
+7,
+"bǎo kù",
+"treasure-house; treasury; treasure-trove (often fig., book of treasured wisdom)"
+],
+[
+"宝藏",
+7,
+"bǎo zàng",
+"precious mineral deposits; hidden treasure; (fig.) treasure; (Buddhism) the treasure of Buddha's law"
+],
+[
+"瑰宝",
+7,
+"guī bǎo",
+"gem; (fig.) rare and valuable item; gem; treasure"
+],
+[
+"国宝",
+7,
+"guó bǎo",
+"national treasure"
 ]
 ],
 "extraWords": [
-[
-"宝宝",
-66.06,
-"bǎo bǎo",
-"darling; baby"
-],
 [
 "温家宝",
 18.06,
 "Wēn Jiā bǎo",
 "Wen Jiabao (1942-), Premier of PRC from 2003-2013"
-],
-[
-"珠宝",
-17.56,
-"zhū bǎo",
-"pearls; jewels; precious stones"
 ],
 [
 "宝马",
@@ -51,12 +93,6 @@
 "precious horse"
 ],
 [
-"宝藏",
-9.75,
-"bǎo zàng",
-"precious mineral deposits; hidden treasure; (fig.) treasure; (Buddhism) the treasure of Buddha's law"
-],
-[
 "法宝",
 9.68,
 "fǎ bǎo",
@@ -66,19 +102,13 @@
 "宝钢",
 8.78,
 "Bǎo gāng",
-"Baosteel, Chinese steel maker formed in a 1998 merger, then merged to form Baowu 寶武鋼鐵|宝武钢铁[Bao3 wu3 Gang1 tie3] in 2016"
+"Baosteel, Chinese steel maker formed in a 1998 merger, then merged to form Baowu 宝武钢铁[Bǎo wǔ Gāng tiě] in 2016"
 ],
 [
 "财宝",
 8.73,
 "cái bǎo",
 "money and valuables"
-],
-[
-"宝石",
-7.58,
-"bǎo shí",
-"precious stone; gem; CL:枚[mei2],顆|颗[ke1]"
 ]
 ],
 "strokes": [

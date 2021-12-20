@@ -1,17 +1,30 @@
 {
 "char": "镑",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "pound sterling",
 "pron": "bàng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "英镑",
-21.82,
+7,
 "Yīng bàng",
 "pound sterling"
+]
+],
+"extraWords": [
+[
+"镑",
+9.36,
+"bàng",
+"pound (sterling) (loanword)"
+],
+[
+"埃镑",
+0.03,
+"???",
+"???"
 ]
 ],
 "strokes": [

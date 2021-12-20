@@ -1,12 +1,32 @@
 {
 "char": "萧",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "common artemisia; dejected",
 "pron": "xiāo"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"萧条",
+7,
+"xiāo tiáo",
+"bleak; desolate; (economic) depression or slump"
+]
+],
+"extraWords": [
+[
+"萧",
+15.71,
+"Xiāo",
+"surname Xiao"
+],
+[
+"萧",
+15.71,
+"xiāo",
+"miserable; desolate; dreary; Chinese mugwort"
+]
+],
 "strokes": [
 "M 640 738 Q 695 747 813 739 Q 826 738 830 745 Q 834 755 824 768 Q 782 804 698 785 Q 679 784 661 779 L 610 771 Q 525 761 431 749 L 390 745 Q 311 738 225 730 Q 200 729 217 714 Q 251 692 301 698 Q 350 711 397 717 L 432 723 Q 462 733 600 736 L 640 738 Z",
 "M 431 749 Q 430 779 429 802 Q 430 818 413 824 Q 380 842 361 835 Q 346 828 358 811 Q 382 783 389 751 Q 389 748 390 745 L 397 717 Q 400 684 417 666 Q 427 656 432 667 Q 438 685 432 723 L 431 749 Z",

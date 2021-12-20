@@ -1,11 +1,29 @@
 {
 "char": "导",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "direct, guide, lead, conduct",
 "pron": "dǎo"
 },
 "words": [
+[
+"导演",
+3,
+"dǎo yǎn",
+"to direct; director (film etc)"
+],
+[
+"领导",
+3,
+"lǐng dǎo",
+"lead; leading; to lead; leadership; leader; CL:位[wèi],个[gè]"
+],
+[
+"指导",
+3,
+"zhǐ dǎo",
+"to guide; to give directions; to direct; to coach; guidance; tuition; CL:个[gè]"
+],
 [
 "导游",
 4,
@@ -14,75 +32,81 @@
 ],
 [
 "导致",
-5,
+4,
 "dǎo zhì",
 "to lead to; to create; to cause; to bring about"
 ],
 [
-"领导",
-5,
-"lǐng dǎo",
-"lead; leading; to lead; leadership; leader; CL:位[wei4],個|个[ge4]"
-],
-[
-"指导",
-5,
-"zhǐ dǎo",
-"to guide; to give directions; to direct; to coach; guidance; tuition; CL:個|个[ge4]"
-],
-[
-"辅导",
-5,
-"fǔ dǎo",
-"to give guidance; to mentor; to counsel; to coach; to tutor"
-],
-[
-"导演",
-5,
-"dǎo yǎn",
-"to direct; director (film etc)"
-],
-[
-"导弹",
-6,
-"dǎo dàn",
-"guided missile; cruise missile; missile; CL:枚[mei2]"
-],
-[
 "引导",
-6,
+4,
 "yǐn dǎo",
 "to guide; to lead (around); to conduct; to boot; introduction; primer"
 ],
 [
-"导航",
-6,
-"dǎo háng",
-"navigation"
+"倡导",
+5,
+"chàng dǎo",
+"to advocate; to initiate; to propose; to be a proponent of (an idea or school of thought)"
 ],
 [
 "向导",
-6,
+5,
 "xiàng dǎo",
 "guide"
 ],
 [
 "主导",
-6,
+5,
 "zhǔ dǎo",
 "leading; dominant; prevailing; to lead; to direct; to dominate"
 ],
 [
-"倡导",
-6,
-"chàng dǎo",
-"to advocate; to initiate; to propose; to be a proponent of (an idea or school of thought)"
+"导弹",
+7,
+"dǎo dàn",
+"guided missile; cruise missile; missile; CL:枚[méi]"
+],
+[
+"导航",
+7,
+"dǎo háng",
+"navigation"
+],
+[
+"导火索",
+7,
+"dǎo huǒ suǒ",
+"fuse (for explosive)"
+],
+[
+"导师",
+7,
+"dǎo shī",
+"tutor; teacher; academic advisor"
 ],
 [
 "导向",
-6,
+7,
 "dǎo xiàng",
 "to be oriented towards; orientation"
+],
+[
+"辅导",
+7,
+"fǔ dǎo",
+"to give guidance; to mentor; to counsel; to coach; to tutor"
+],
+[
+"疏导",
+7,
+"shū dǎo",
+"to dredge; to open up a path for; to remove obstructions; to clear the way; to enlighten; persuasion"
+],
+[
+"误导",
+7,
+"wù dǎo",
+"to mislead; to misguide; misleading"
 ]
 ],
 "extraWords": [
@@ -93,22 +117,28 @@
 "leader"
 ],
 [
+"导",
+38.81,
+"dǎo",
+"to transmit; to lead; to guide; to conduct; to direct"
+],
+[
 "教导",
 15.43,
 "jiào dǎo",
 "to instruct; to teach; guidance; teaching"
 ],
 [
+"领导班子",
+12.49,
+"???",
+"???"
+],
+[
 "诱导",
 12.49,
 "yòu dǎo",
 "to induce; to encourage; to provide guidance; (medicine, chemistry) induction"
-],
-[
-"导师",
-11.68,
-"dǎo shī",
-"tutor; teacher; academic advisor"
 ],
 [
 "报导",
@@ -129,12 +159,6 @@
 "duct; conduit; vessel; catheter"
 ],
 [
-"误导",
-7.19,
-"wù dǎo",
-"to mislead; to misguide; misleading"
-],
-[
 "传导",
 6.55,
 "chuán dǎo",
@@ -145,6 +169,12 @@
 6.11,
 "bàn dǎo tǐ",
 "semiconductor"
+],
+[
+"误导性",
+5.56,
+"???",
+"???"
 ],
 [
 "执导",

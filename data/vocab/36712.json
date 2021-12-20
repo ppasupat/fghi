@@ -1,6 +1,6 @@
 {
 "char": "轨",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "track, rut, path",
 "pron": "guǐ"
@@ -11,20 +11,26 @@
 6,
 "guǐ dào",
 "track (for trains etc); orbit (of a satellite); (fig.) a person's established path in life; desired trajectory (of a business or other endeavor); (audio engineering) track; (quantum mechanics) orbital"
+],
+[
+"轨迹",
+7,
+"guǐ jì",
+"locus; orbit; trajectory; track"
+],
+[
+"接轨",
+7,
+"jiē guǐ",
+"railtrack connection; to integrate into sth; to dock; to connect; to be in step with; to bring into line with; to align"
 ]
 ],
 "extraWords": [
 [
-"接轨",
-10.6,
-"jiē guǐ",
-"railtrack connection; to integrate into sth; to dock; to connect; to be in step with; to bring into line with; to align"
-],
-[
-"轨迹",
-8.08,
-"guǐ jì",
-"locus; orbit; trajectory; track"
+"轨",
+11.77,
+"guǐ",
+"course; path; track; rail"
 ],
 [
 "出轨",

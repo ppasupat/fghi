@@ -1,19 +1,32 @@
 {
 "char": "泣",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cry, sob, weep",
 "pron": "qì"
 },
 "words": [
 [
+"可歌可泣",
+7,
+"kě gē kě qì",
+"lit. you can sing or you can cry (idiom); fig. deeply moving; happy and sad; inspiring and tragic"
+],
+[
 "哭泣",
-6,
+7,
 "kū qì",
 "to weep"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"泣",
+3.72,
+"qì",
+"to sob"
+]
+],
 "strokes": [
 "M 250 679 Q 277 655 305 627 Q 321 612 338 613 Q 351 613 356 629 Q 362 645 352 679 Q 340 715 245 734 Q 227 738 220 735 Q 214 731 216 716 Q 220 703 250 679 Z",
 "M 144 458 Q 184 410 225 389 Q 241 386 251 401 Q 257 414 254 432 Q 242 475 157 500 Q 139 504 129 501 Q 122 500 125 486 Q 126 473 144 458 Z",

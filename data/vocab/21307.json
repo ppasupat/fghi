@@ -1,6 +1,6 @@
 {
 "char": "医",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "cure, heal; doctor, medical",
 "pron": "yī"
@@ -10,39 +10,69 @@
 "医生",
 1,
 "yī shēng",
-"doctor; CL:個|个[ge4],位[wei4],名[ming2]"
+"doctor; CL:个[gè],位[wèi],名[míng]"
 ],
 [
 "医院",
 1,
 "yī yuàn",
-"hospital; CL:所[suo3],家[jia1],座[zuo4]"
-]
+"hospital; CL:所[suǒ],家[jiā],座[zuò]"
 ],
-"extraWords": [
+[
+"西医",
+2,
+"xī yī",
+"Western medicine; a doctor trained in Western medicine"
+],
+[
+"中医",
+2,
+"Zhōng yī",
+"traditional Chinese medical science; a doctor trained in Chinese medicine"
+],
 [
 "医疗",
-105.43,
+4,
 "yī liáo",
 "medical treatment"
 ],
 [
 "医学",
-44.11,
+4,
 "yī xué",
 "medicine; medical science; study of medicine"
 ],
 [
 "医药",
-31.15,
+6,
 "yī yào",
 "medical care and medicines; medicine (drug); medical; pharmaceutical"
 ],
 [
-"中医",
-30.56,
-"Zhōng yī",
-"traditional Chinese medical science; a doctor trained in Chinese medicine"
+"就医",
+7,
+"jiù yī",
+"to receive medical treatment"
+],
+[
+"求医",
+7,
+"qiú yī",
+"to seek medical treatment; to see a doctor"
+],
+[
+"医务",
+7,
+"yī wù",
+"medical affairs"
+]
+],
+"extraWords": [
+[
+"医",
+41.65,
+"yī",
+"medical; medicine; doctor; to cure; to treat"
 ],
 [
 "法医",
@@ -63,10 +93,16 @@
 "dentist"
 ],
 [
-"医务",
-10.2,
-"yī wù",
-"medical affairs"
+"人民医院",
+10.8,
+"???",
+"???"
+],
+[
+"中医药",
+10.34,
+"???",
+"???"
 ],
 [
 "医学院",
@@ -87,16 +123,22 @@
 "veterinarian; veterinary surgeon; vet"
 ],
 [
+"医疗卫生",
+6.97,
+"???",
+"???"
+],
+[
+"总医院",
+5.65,
+"???",
+"???"
+],
+[
 "中西医",
 5.59,
 "zhōng xī yī",
 "Chinese and Western medicine; a doctor trained in Chinese and Western medicine"
-],
-[
-"就医",
-5.41,
-"jiù yī",
-"to receive medical treatment"
 ]
 ],
 "strokes": [

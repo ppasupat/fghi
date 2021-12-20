@@ -1,6 +1,6 @@
 {
 "char": "义",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "right conduct, righteousness",
 "pron": "yì"
@@ -8,71 +8,125 @@
 "words": [
 [
 "意义",
-5,
+3,
 "yì yì",
-"sense; meaning; significance; importance; CL:個|个[ge4]"
-],
-[
-"义务",
-5,
-"yì wù",
-"duty; obligation; CL:項|项[xiang4]; volunteer (work etc)"
-],
-[
-"正义",
-6,
-"zhèng yì",
-"justice; righteousness; just; righteous"
-],
-[
-"主义",
-6,
-"zhǔ yì",
-"-ism; ideology"
-],
-[
-"定义",
-6,
-"dìng yì",
-"definition; to define"
+"sense; meaning; significance; importance; CL:个[gè]"
 ],
 [
 "含义",
-6,
+4,
 "hán yì",
 "meaning (implicit in a phrase); implied meaning; hidden meaning; hint; connotation"
 ],
 [
-"贬义",
+"义务",
+4,
+"yì wù",
+"duty; obligation; CL:项[xiàng]; volunteer (work etc)"
+],
+[
+"正义",
+5,
+"zhèng yì",
+"justice; righteousness; just; righteous"
+],
+[
+"名义",
 6,
-"biǎn yì",
-"derogatory sense; negative connotation"
+"míng yì",
+"name; titular; nominal; in name; ostensible purpose"
+],
+[
+"帝国主义",
+7,
+"dì guó zhǔ yì",
+"imperialism"
+],
+[
+"定义",
+7,
+"dìng yì",
+"definition; to define"
+],
+[
+"官僚主义",
+7,
+"guān liáo zhǔ yì",
+"bureaucracy"
+],
+[
+"广义",
+7,
+"guǎng yì",
+"broad sense; general sense"
+],
+[
+"涵义",
+7,
+"hán yì",
+"content; meaning; connotation; implication"
 ],
 [
 "见义勇为",
-6,
+7,
 "jiàn yì yǒng wéi",
 "to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
-]
 ],
-"extraWords": [
 [
 "社会主义",
-151.3,
+7,
 "shè huì zhǔ yì",
 "socialism"
 ],
 [
-"资本主义",
-29.05,
-"zī běn zhǔ yì",
-"capitalism"
+"天经地义",
+7,
+"tiān jīng dì yì",
+"lit. heaven's law and earth's principle (idiom); fig. right and proper; right and unalterable; a matter of course"
 ],
 [
-"名义",
-22.13,
-"míng yì",
-"name; titular; nominal; in name; ostensible purpose"
+"无情无义",
+7,
+"wú qíng wú yì",
+"completely lacking any feeling or sense of justice (idiom); cold and ruthless"
+],
+[
+"侠义",
+7,
+"xiá yì",
+"chivalrous; chivalry; knight-errantry"
+],
+[
+"义工",
+7,
+"yì gōng",
+"volunteer worker; volunteer work"
+],
+[
+"主义",
+7,
+"zhǔ yì",
+"-ism; ideology"
+],
+[
+"资本主义",
+7,
+"zī běn zhǔ yì",
+"capitalism"
+]
+],
+"extraWords": [
+[
+"义",
+37.46,
+"Yì",
+"surname Yi; (Tw) abbr. for 义大利[Yì dà lì], Italy"
+],
+[
+"义",
+37.46,
+"yì",
+"justice; righteousness; meaning; foster (father etc); adopted; artificial (tooth, limb etc); relationship; friendship"
 ],
 [
 "马克思主义",
@@ -81,10 +135,10 @@
 "Marxism"
 ],
 [
-"帝国主义",
-20.63,
-"dì guó zhǔ yì",
-"imperialism"
+"美帝国主义",
+14.94,
+"???",
+"???"
 ],
 [
 "共产主义",

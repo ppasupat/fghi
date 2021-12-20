@@ -1,6 +1,6 @@
 {
 "char": "脸",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "face; cheek; reputation",
 "pron": "liǎn"
@@ -8,23 +8,53 @@
 "words": [
 [
 "脸",
-3,
+2,
 "liǎn",
-"face; CL:張|张[zhang1],個|个[ge4]"
-]
+"face; CL:张[zhāng],个[gè]"
 ],
-"extraWords": [
+[
+"脸盆",
+5,
+"liǎn pén",
+"washbowl; basin for washing hands and face; CL:个[gè]"
+],
 [
 "脸色",
-26.52,
+5,
 "liǎn sè",
 "complexion; look"
 ],
 [
+"笑脸",
+6,
+"xiào liǎn",
+"smiling face; smiley :) ☺; CL:副[fù]"
+],
+[
+"愁眉苦脸",
+7,
+"chóu méi kǔ liǎn",
+"to look anxious (idiom); to look miserable"
+],
+[
 "丢脸",
-16.96,
+7,
 "diū liǎn",
 "to lose face; humiliation"
+],
+[
+"脸颊",
+7,
+"liǎn jiá",
+"cheek"
+]
+],
+"extraWords": [
+[
+"脸上",
+45.19,
+"???",
+"???"
 ],
 [
 "满脸",
@@ -37,12 +67,6 @@
 8.6,
 "xǐ liǎn",
 "to wash your face"
-],
-[
-"笑脸",
-8.4,
-"xiào liǎn",
-"smiling face; smiley :) ☺; CL:副[fu4]"
 ],
 [
 "不要脸",
@@ -67,12 +91,6 @@
 5.34,
 "liǎn hóng",
 "to blush; to redden (with shame, indignation etc)"
-],
-[
-"脸颊",
-5.17,
-"liǎn jiá",
-"cheek"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "鲁",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "foolish, stupid, rash; vulgar",
 "pron": "lǔ"
@@ -8,12 +8,36 @@
 "words": [
 [
 "粗鲁",
-6,
+7,
 "cū lǔ",
 "coarse; crude (in one's manner); boorish"
+],
+[
+"鲁莽",
+7,
+"lǔ mǎng",
+"hot-headed; impulsive; reckless"
 ]
 ],
 "extraWords": [
+[
+"鲁",
+38.08,
+"Lǔ",
+"surname Lu; Lu, ancient state of China 鲁国[Lǔ guó]; Lu, short name for Shandong 山东[Shān dōng]"
+],
+[
+"鲁",
+38.08,
+"lǔ",
+"(bound form) crass; stupid; rude; (used to represent the sounds of \"ru\", \"lu\" etc in loanwords)"
+],
+[
+"克鲁",
+13.06,
+"???",
+"???"
+],
 [
 "鲁迅",
 12.58,
@@ -39,22 +63,22 @@
 "Yale"
 ],
 [
+"鲁能",
+8.8,
+"???",
+"???"
+],
+[
 "乌鲁木齐",
 7.49,
 "Wū lǔ mù qí",
-"Ürümqi or Urumqi prefecture level city and capital of Xinjiang Uighur Autonomous Region 新疆維吾爾自治區|新疆维吾尔自治区[Xin1 jiang1 Wei2 wu2 er3 Zi4 zhi4 qu1] in west China"
+"Ürümqi or Urumqi prefecture level city and capital of Xinjiang Uighur Autonomous Region 新疆维吾尔自治区[Xīn jiāng Wéi wú ěr Zì zhì qū] in west China"
 ],
 [
 "安德鲁",
 5.75,
 "Ān dé lǔ",
 "Andrew (name)"
-],
-[
-"鲁莽",
-5.43,
-"lǔ mǎng",
-"hot-headed; impulsive; reckless"
 ],
 [
 "秘鲁",

@@ -1,6 +1,6 @@
 {
 "char": "禁",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "restrict, prohibit, forbid",
 "pron": "jīn, jìn"
@@ -19,18 +19,48 @@
 "can't help (doing sth); can't refrain from"
 ],
 [
+"禁不住",
+7,
+"jīn bu zhù",
+"can't help it; can't bear it"
+],
+[
+"禁忌",
+7,
+"jìn jì",
+"taboo; contraindication (medicine); to abstain from"
+],
+[
+"禁区",
+7,
+"jìn qū",
+"restricted area; forbidden region"
+],
+[
+"情不自禁",
+7,
+"qíng bù zì jīn",
+"unable to restrain emotions; cannot help"
+],
+[
 "严禁",
-6,
+7,
 "yán jìn",
 "to strictly prohibit"
 ]
 ],
 "extraWords": [
 [
-"禁区",
-21.9,
-"jìn qū",
-"restricted area; forbidden region"
+"禁",
+27.42,
+"jīn",
+"to endure"
+],
+[
+"禁",
+27.42,
+"jìn",
+"to prohibit; to forbid"
 ],
 [
 "监禁",
@@ -55,12 +85,6 @@
 5.37,
 "jìn lìng",
 "prohibition; ban"
-],
-[
-"禁忌",
-5.11,
-"jìn jì",
-"taboo; contraindication (medicine); to abstain from"
 ]
 ],
 "strokes": [

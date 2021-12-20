@@ -1,16 +1,34 @@
 {
 "char": "什",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "file of ten soldiers; mixed, miscellaneous",
 "pron": "shén, shí"
 },
 "words": [
 [
+"干什么",
+1,
+"gàn shén me",
+"what are you doing?; what's he up to?"
+],
+[
+"没什么",
+1,
+"méi shén me",
+"nothing; it doesn't matter; it's nothing; never mind"
+],
+[
 "什么",
 1,
 "shén me",
 "what?; something; anything"
+],
+[
+"什么样",
+2,
+"shén me yàng",
+"what kind?; what sort?; what appearance?"
 ],
 [
 "为什么",
@@ -21,22 +39,16 @@
 ],
 "extraWords": [
 [
-"没什么",
-281.76,
-"méi shén me",
-"nothing; it doesn't matter; it's nothing; never mind"
+"什",
+45.64,
+"shén",
+"what"
 ],
 [
-"干什么",
-104.09,
-"gàn shén me",
-"what are you doing?; what's he up to?"
-],
-[
-"什么样",
-88.03,
-"shén me yàng",
-"what kind?; what sort?; what appearance?"
+"什",
+45.64,
+"shí",
+"ten (used in fractions, writing checks etc); assorted; miscellaneous"
 ],
 [
 "布什",
@@ -49,6 +61,12 @@
 33.87,
 "shén me de",
 "and so on; and what not"
+],
+[
+"什么是",
+23.12,
+"???",
+"???"
 ]
 ],
 "strokes": [

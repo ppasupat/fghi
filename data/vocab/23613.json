@@ -1,96 +1,108 @@
 {
 "char": "尽",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "exhaust, use up; deplete",
 "pron": "jǐn, jìn"
 },
 "words": [
 [
-"尽管",
-4,
-"jǐn guǎn",
-"despite; although; even though; in spite of; unhesitatingly; do not hesitate (to ask, complain etc); (go ahead and do it) without hesitating"
-],
-[
-"尽力",
-5,
-"jìn lì",
-"to strive one's hardest; to spare no effort"
-],
-[
-"尽快",
-5,
-"jǐn kuài",
-"as quickly as possible; as soon as possible; with all speed"
-],
-[
-"尽快",
-5,
-"jìn kuài",
-"see 儘快|尽快[jin3 kuai4]"
-],
-[
 "尽量",
-5,
+3,
 "jǐn liàng",
 "as much as possible; to the greatest extent"
 ],
 [
 "尽量",
-5,
+3,
 "jìn liàng",
 "as much as possible; to the greatest extent"
 ],
 [
-"竭尽全力",
-6,
-"jié jìn quán lì",
-"to spare no effort (idiom); to do one's utmost"
+"尽快",
+4,
+"jǐn kuài",
+"as quickly as possible; as soon as possible; with all speed"
 ],
 [
-"无穷无尽",
-6,
-"wú qióng wú jìn",
-"endless; boundless; infinite"
+"尽快",
+4,
+"jìn kuài",
+"see 尽快[jǐn kuài]"
 ],
 [
-"苦尽甘来",
-6,
-"kǔ jìn gān lái",
-"bitterness finishes, sweetness begins (idiom); the hard times are over, the good times just beginning"
-]
+"尽力",
+4,
+"jìn lì",
+"to strive one's hardest; to spare no effort"
 ],
-"extraWords": [
+[
+"尽管",
+5,
+"jǐn guǎn",
+"despite; although; even though; in spite of; unhesitatingly; do not hesitate (to ask, complain etc); (go ahead and do it) without hesitating"
+],
 [
 "尽可能",
-20.43,
+5,
 "jǐn kě néng",
 "as far as possible; to do one's utmost"
 ],
 [
+"尽",
+6,
+"jǐn",
+"to the greatest extent; (when used before a noun of location) furthest or extreme; to be within the limits of; to give priority to"
+],
+[
+"尽",
+6,
+"jìn",
+"to use up; to exhaust; to end; to finish; to the utmost; exhausted; finished; to the limit (of sth); all; entirely"
+],
+[
+"竭尽全力",
+7,
+"jié jìn quán lì",
+"to spare no effort (idiom); to do one's utmost"
+],
+[
+"尽早",
+7,
+"jǐn zǎo",
+"as early as possible"
+],
+[
 "尽情",
-16.19,
+7,
 "jìn qíng",
 "as much as one likes"
 ],
 [
 "尽头",
-13.29,
+7,
 "jìn tóu",
 "end; extremity; limit"
 ],
+[
+"详尽",
+7,
+"xiáng jìn",
+"thorough and detailed; exhaustive; the tedious details in full"
+],
+[
+"应有尽有",
+7,
+"yīng yǒu jìn yǒu",
+"everything that should be here is here (idiom); all one can think of is on hand; to have all one needs"
+]
+],
+"extraWords": [
 [
 "不尽",
 9.5,
 "bù jìn",
 "not completely; endlessly"
-],
-[
-"尽早",
-8.74,
-"jǐn zǎo",
-"as early as possible"
 ],
 [
 "尽力而为",

@@ -1,24 +1,36 @@
 {
 "char": "耽",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "indulge in; be negligent",
 "pron": "dān"
 },
 "words": [
 [
+"耽搁",
+7,
+"dān ge",
+"to tarry; to delay; to stop over"
+],
+[
 "耽误",
-5,
+7,
 "dān wu",
 "to delay; to hold up; to waste time; to interfere with"
 ]
 ],
 "extraWords": [
 [
-"耽搁",
-5.78,
-"dān ge",
-"to tarry; to delay; to stop over"
+"耽",
+2.11,
+"dān",
+"to indulge in; to delay"
+],
+[
+"耽",
+2.11,
+"dān",
+"variant of 耽[dān]"
 ]
 ],
 "strokes": [

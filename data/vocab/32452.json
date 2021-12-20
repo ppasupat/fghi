@@ -1,66 +1,90 @@
 {
 "char": "组",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "class; section, department",
 "pron": "zǔ"
 },
 "words": [
 [
+"小组",
+2,
+"xiǎo zǔ",
+"group"
+],
+[
 "组",
-5,
+2,
 "Zǔ",
 "surname Zu"
 ],
 [
 "组",
-5,
+2,
 "zǔ",
 "to form; to organize; group; team; classifier for sets, series, groups of people, batteries"
+],
+[
+"组成",
+2,
+"zǔ chéng",
+"to form; to make up; to constitute"
+],
+[
+"组长",
+2,
+"zǔ zhǎng",
+"group leader"
+],
+[
+"分组",
+3,
+"fēn zǔ",
+"to divide into groups; group (formed from a larger group); subgroup; (computer networking) packet"
+],
+[
+"组合",
+3,
+"zǔ hé",
+"to assemble; to combine; to compose; combination; association; set; compilation; (math.) combinatorial"
 ],
 [
 "组织",
 5,
 "zǔ zhī",
-"to organize; organization; (biology) tissue; (textiles) weave; CL:個|个[ge4]"
-],
-[
-"组合",
-5,
-"zǔ hé",
-"to assemble; to combine; to compose; combination; association; set; compilation; (math.) combinatorial"
-],
-[
-"组成",
-5,
-"zǔ chéng",
-"to form; to make up; to constitute"
-]
-],
-"extraWords": [
-[
-"小组",
-80.9,
-"xiǎo zǔ",
-"group"
+"to organize; organization; (biology) tissue; (textiles) weave; CL:个[gè]"
 ],
 [
 "重组",
-42.22,
+6,
 "chóng zǔ",
 "to reorganize; to recombine; recombination"
 ],
 [
+"剧组",
+7,
+"jù zǔ",
+"cast and crew; performers and production team"
+],
+[
 "组建",
-29.9,
+7,
 "zǔ jiàn",
 "to organize; to set up; to establish"
 ],
 [
-"剧组",
-15.03,
-"jù zǔ",
-"cast and crew; performers and production team"
+"组装",
+7,
+"zǔ zhuāng",
+"to assemble and install"
+]
+],
+"extraWords": [
+[
+"组委会",
+20.61,
+"???",
+"???"
 ],
 [
 "机组",
@@ -69,16 +93,16 @@
 "flight crew (on a plane); unit (apparatus)"
 ],
 [
-"组长",
-14.3,
-"zǔ zhǎng",
-"group leader"
+"党组织",
+14.41,
+"???",
+"???"
 ],
 [
-"分组",
-10.73,
-"fēn zǔ",
-"to divide into groups; group (formed from a larger group); subgroup; (computer networking) packet"
+"组团",
+8.38,
+"???",
+"???"
 ],
 [
 "工作组",
@@ -121,12 +145,6 @@
 5.61,
 "zǔ duì",
 "to team up (with); to put a team together"
-],
-[
-"组装",
-5.58,
-"zǔ zhuāng",
-"to assemble and install"
 ]
 ],
 "strokes": [

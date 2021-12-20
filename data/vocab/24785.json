@@ -1,38 +1,43 @@
 {
 "char": "惑",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "confuse, mislead, baffle; doubt",
 "pron": "huò"
 },
 "words": [
 [
-"诱惑",
-6,
-"yòu huò",
-"to entice; to lure; to induce; to attract"
+"困惑",
+7,
+"kùn huò",
+"bewildered; perplexed; confused; difficult problem; perplexity"
 ],
 [
 "迷惑",
-6,
+7,
 "mí huo",
 "to puzzle; to confuse; to baffle"
 ],
 [
+"迷惑不解",
+7,
+"mí huò bù jiě",
+"to feel puzzled"
+],
+[
 "疑惑",
-6,
+7,
 "yí huò",
 "to doubt; to distrust; unconvincing; to puzzle over; misgivings; suspicions"
-]
 ],
-"extraWords": [
 [
-"困惑",
-16.69,
-"kùn huò",
-"bewildered; perplexed; confused; difficult problem; perplexity"
+"诱惑",
+7,
+"yòu huò",
+"to entice; to lure; to induce; to attract"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 546 653 Q 672 689 675 691 Q 684 700 679 708 Q 672 720 642 727 Q 603 734 534 702 L 494 690 Q 335 654 277 646 Q 240 639 267 622 Q 312 598 367 613 Q 437 629 508 645 L 546 653 Z",
 "M 279 536 Q 269 540 242 543 Q 232 546 228 541 Q 224 535 232 521 Q 254 482 272 417 Q 276 398 289 385 Q 305 367 310 381 Q 311 388 312 399 L 308 428 Q 295 495 293 513 C 290 532 290 532 279 536 Z",

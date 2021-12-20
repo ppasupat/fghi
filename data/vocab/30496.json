@@ -1,36 +1,48 @@
 {
 "char": "眠",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "close eyes, sleep; hibernate",
 "pron": "mián"
 },
 "words": [
 [
-"失眠",
-5,
-"shī mián",
-"to suffer from insomnia"
-]
-],
-"extraWords": [
-[
 "睡眠",
-25.97,
+5,
 "shuì mián",
 "sleep; to sleep; (computing) to enter sleep mode"
 ],
 [
+"安眠药",
+7,
+"ān mián yào",
+"sleeping pill; CL:粒[lì]"
+],
+[
 "催眠",
-9.48,
+7,
 "cuī mián",
 "hypnosis"
 ],
 [
-"安眠药",
-5.37,
-"ān mián yào",
-"sleeping pill; CL:粒[li4]"
+"失眠",
+7,
+"shī mián",
+"to suffer from insomnia"
+],
+[
+"休眠",
+7,
+"xiū mián",
+"to be dormant (biology); inactive (volcano); to hibernate (computing)"
+]
+],
+"extraWords": [
+[
+"眠",
+7.98,
+"mián",
+"to sleep; to hibernate"
 ]
 ],
 "strokes": [

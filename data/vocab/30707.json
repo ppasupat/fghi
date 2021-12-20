@@ -1,6 +1,6 @@
 {
 "char": "石",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "stone, rock, mineral; rad. 112",
 "pron": "dàn, shí"
@@ -8,36 +8,78 @@
 "words": [
 [
 "石头",
-5,
+3,
 "shí tou",
-"stone; CL:塊|块[kuai4]"
-],
-[
-"钻石",
-6,
-"zuàn shí",
-"diamond; CL:顆|颗[ke1]"
+"stone; CL:块[kuài]"
 ],
 [
 "石油",
-6,
+3,
 "shí yóu",
 "oil; petroleum"
 ],
 [
+"宝石",
+4,
+"bǎo shí",
+"precious stone; gem; CL:枚[méi],颗[kē]"
+],
+[
+"化石",
+5,
+"huà shí",
+"fossil"
+],
+[
+"礁石",
+7,
+"jiāo shí",
+"reef"
+],
+[
+"水落石出",
+7,
+"shuǐ luò shí chū",
+"as the water recedes, the rocks appear (idiom); the truth comes to light"
+],
+[
 "岩石",
-6,
+7,
 "yán shí",
 "rock"
 ],
 [
-"化石",
-6,
-"huà shí",
-"fossil"
+"陨石",
+7,
+"yǔn shí",
+"meteorite; aerolite; CL:块[kuài],颗[kē]"
+],
+[
+"钻石",
+7,
+"zuàn shí",
+"diamond; CL:颗[kē]"
 ]
 ],
 "extraWords": [
+[
+"石",
+94.98,
+"Shí",
+"surname Shi; abbr. for Shijiazhuang 石家庄[Shí jiā zhuāng]"
+],
+[
+"石",
+94.98,
+"dàn",
+"dry measure for grain equal to ten dou 斗; ten pecks; one hundred liters"
+],
+[
+"石",
+94.98,
+"shí",
+"rock; stone; stone inscription; one of the eight categories of ancient musical instruments 八音[bā yīn]"
+],
 [
 "石化",
 25.53,
@@ -54,25 +96,13 @@
 "石家庄",
 8.17,
 "Shí jiā zhuāng",
-"Shijiazhuang prefecture level city and capital of Hebei Province 河北省[He2 bei3 Sheng3] in north China"
-],
-[
-"宝石",
-7.58,
-"bǎo shí",
-"precious stone; gem; CL:枚[mei2],顆|颗[ke1]"
+"Shijiazhuang prefecture level city and capital of Hebei Province 河北省[Hé běi Shěng] in north China"
 ],
 [
 "结石",
 7.24,
 "jié shí",
 "calculus; stone"
-],
-[
-"陨石",
-6.71,
-"yǔn shí",
-"meteorite; aerolite; CL:塊|块[kuai4],顆|颗[ke1]"
 ],
 [
 "铁矿石",

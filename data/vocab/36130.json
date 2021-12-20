@@ -1,6 +1,6 @@
 {
 "char": "财",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "wealth, valuables, riches",
 "pron": "cái"
@@ -8,47 +8,71 @@
 "words": [
 [
 "财产",
-5,
+4,
 "cái chǎn",
-"property; assets; estate; CL:筆|笔[bi3]"
+"property; assets; estate; CL:笔[bǐ]"
 ],
 [
 "财富",
-6,
+4,
 "cái fù",
 "wealth; riches"
 ],
 [
-"财务",
-6,
-"cái wù",
-"financial affairs"
-],
-[
-"财政",
-6,
-"cái zhèng",
-"finances (public); financial"
-],
-[
-"发财",
-6,
-"fā cái",
-"to get rich"
-]
-],
-"extraWords": [
-[
 "理财",
-36.66,
+6,
 "lǐ cái",
 "financial management; finance"
 ],
 [
 "财经",
-24.95,
+7,
 "cái jīng",
 "finance and economics"
+],
+[
+"财力",
+7,
+"cái lì",
+"financial resources; financial ability"
+],
+[
+"财务",
+7,
+"cái wù",
+"financial affairs"
+],
+[
+"财物",
+7,
+"cái wù",
+"property; belongings"
+],
+[
+"财政",
+7,
+"cái zhèng",
+"finances (public); financial"
+],
+[
+"发财",
+7,
+"fā cái",
+"to get rich"
+],
+[
+"钱财",
+7,
+"qián cái",
+"wealth; money"
+]
+],
+"extraWords": [
+[
+"财",
+46.29,
+"cái",
+"money; wealth; riches; property; valuables"
 ],
 [
 "财政部",
@@ -57,16 +81,10 @@
 "Ministry of Finance"
 ],
 [
-"财力",
-9.75,
-"cái lì",
-"financial resources; financial ability"
-],
-[
-"财物",
-9.64,
-"cái wù",
-"property; belongings"
+"财政收入",
+10.17,
+"???",
+"???"
 ],
 [
 "财宝",
@@ -75,16 +93,16 @@
 "money and valuables"
 ],
 [
-"钱财",
-6.88,
-"qián cái",
-"wealth; money"
-],
-[
 "财源",
 5.63,
 "cái yuán",
 "financial resources; source of revenue"
+],
+[
+"第一财经日报",
+5.34,
+"???",
+"???"
 ]
 ],
 "strokes": [

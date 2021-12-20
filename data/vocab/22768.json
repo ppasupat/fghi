@@ -1,114 +1,168 @@
 {
 "char": "声",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "sound, voice, noise; tone; music",
 "pron": "shēng"
 },
 "words": [
 [
-"声音",
-3,
-"shēng yīn",
-"voice; sound; CL:個|个[ge4]"
-],
-[
-"声调",
-5,
-"shēng diào",
-"tone; note; a tone (on a Chinese syllable); CL:個|个[ge4]"
-],
-[
-"声明",
-6,
-"shēng míng",
-"to state; to declare; statement; declaration; CL:項|项[xiang4],份[fen4]"
-],
-[
-"声誉",
-6,
-"shēng yù",
-"reputation; fame"
-],
-[
-"相声",
-6,
-"xiàng sheng",
-"comic dialogue; sketch; crosstalk"
-],
-[
-"声势",
-6,
-"shēng shì",
-"fame and power; prestige; influence; impetus; momentum"
-],
-[
-"鸦雀无声",
-6,
-"yā què wú shēng",
-"lit. crow and peacock make no sound; absolute silence (idiom); not a single voice can be heard; absolute silence"
-]
-],
-"extraWords": [
-[
 "大声",
-32.31,
+2,
 "dà shēng",
 "loud voice; in a loud voice; loudly"
 ],
 [
-"掌声",
-17.32,
-"zhǎng shēng",
-"applause; CL:陣|阵[zhen4]"
-],
-[
-"声称",
-16.87,
-"shēng chēng",
-"to claim; to state; to proclaim; to assert"
-],
-[
-"名声",
-13.56,
-"míng shēng",
-"reputation"
-],
-[
-"超声",
-12.91,
-"chāo shēng",
-"ultrasonic; ultrasound"
+"声音",
+2,
+"shēng yīn",
+"voice; sound; CL:个[gè]"
 ],
 [
 "小声",
-12.55,
+2,
 "xiǎo shēng",
 "in a low voice; (speak) in whispers"
 ],
 [
 "歌声",
-12.0,
+3,
 "gē shēng",
 "singing voice; fig. original voice of a poet"
 ],
 [
-"心声",
-11.67,
-"xīn shēng",
-"thoughts; feelings; aspirations; heartfelt wishes; inner voice"
+"声明",
+3,
+"shēng míng",
+"to state; to declare; statement; declaration; CL:项[xiàng],份[fèn]"
+],
+[
+"铃声",
+5,
+"líng shēng",
+"ring; ringtone; bell stroke; tintinnabulation"
+],
+[
+"声",
+5,
+"shēng",
+"sound; voice; tone; noise; reputation; classifier for sounds"
+],
+[
+"相声",
+5,
+"xiàng sheng",
+"comic dialogue; sketch; crosstalk"
+],
+[
+"响声",
+6,
+"xiǎng shēng",
+"noise"
 ],
 [
 "笑声",
-11.45,
+6,
 "xiào shēng",
 "laughter"
 ],
 [
-"铃声",
-11.39,
-"líng shēng",
-"ring; ringtone; bell stroke; tintinnabulation"
+"掌声",
+6,
+"zhǎng shēng",
+"applause; CL:阵[zhèn]"
+],
+[
+"呼声",
+7,
+"hū shēng",
+"a shout; fig. opinion or demand, esp. expressed by a group"
+],
+[
+"欢声笑语",
+7,
+"huān shēng xiào yǔ",
+"cheers and laughter"
+],
+[
+"绘声绘色",
+7,
+"huì shēng huì sè",
+"vivid and colorful (idiom); true to life; lively and realistic"
+],
+[
+"名声",
+7,
+"míng shēng",
+"reputation"
+],
+[
+"声称",
+7,
+"shēng chēng",
+"to claim; to state; to proclaim; to assert"
+],
+[
+"声望",
+7,
+"shēng wàng",
+"popularity; prestige"
+],
+[
+"声誉",
+7,
+"shēng yù",
+"reputation; fame"
+],
+[
+"尾声",
+7,
+"wěi shēng",
+"coda; epilogue; end"
+],
+[
+"心声",
+7,
+"xīn shēng",
+"thoughts; feelings; aspirations; heartfelt wishes; inner voice"
+],
+[
+"鸦雀无声",
+7,
+"yā què wú shēng",
+"lit. crow and peacock make no sound; absolute silence (idiom); not a single voice can be heard; absolute silence"
+],
+[
+"一声不吭",
+7,
+"yī shēng bù kēng",
+"to not say a word"
+],
+[
+"异口同声",
+7,
+"yì kǒu tóng shēng",
+"different mouths, same voice; to speak in unison (idiom)"
+],
+[
+"有声有色",
+7,
+"yǒu shēng yǒu sè",
+"having sound and color (idiom); vivid; dazzling"
+],
+[
+"噪声",
+7,
+"zào shēng",
+"noise"
+]
+],
+"extraWords": [
+[
+"超声",
+12.91,
+"chāo shēng",
+"ultrasonic; ultrasound"
 ],
 [
 "低声",
@@ -123,16 +177,10 @@
 "crack; shooting sound; gunshot"
 ],
 [
-"呼声",
-9.1,
-"hū shēng",
-"a shout; fig. opinion or demand, esp. expressed by a group"
-],
-[
-"噪声",
-8.67,
-"zào shēng",
-"noise"
+"女声",
+8.25,
+"???",
+"???"
 ],
 [
 "轻声",
@@ -165,22 +213,10 @@
 "sound; noise"
 ],
 [
-"声望",
-5.65,
-"shēng wàng",
-"popularity; prestige"
-],
-[
 "叫声",
 5.46,
 "jiào shēng",
 "yelling (sound made by person); barking; braying; roaring (sound made by animals)"
-],
-[
-"尾声",
-5.01,
-"wěi shēng",
-"coda; epilogue; end"
 ]
 ],
 "strokes": [

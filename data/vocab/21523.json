@@ -1,6 +1,6 @@
 {
 "char": "吓",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "scare, frighten; intimidate",
 "pron": "hè, xià"
@@ -20,9 +20,21 @@
 ],
 [
 "恐吓",
-6,
+7,
 "kǒng hè",
 "to threaten; to menace"
+],
+[
+"吓唬",
+7,
+"xià hu",
+"to scare; to frighten"
+],
+[
+"吓人",
+7,
+"xià rén",
+"to scare; scary; frightening"
 ]
 ],
 "extraWords": [
@@ -33,16 +45,10 @@
 "to be terrified; to terrify sb"
 ],
 [
-"吓人",
-20.63,
-"xià rén",
-"to scare; scary; frightening"
-],
-[
-"吓唬",
-10.37,
-"xià hu",
-"to scare; to frighten"
+"吓死",
+8.64,
+"???",
+"???"
 ],
 [
 "惊吓",

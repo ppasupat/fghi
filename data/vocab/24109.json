@@ -1,6 +1,6 @@
 {
 "char": "席",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "seat; mat; take seat; banquet",
 "pron": "xí"
@@ -8,21 +8,51 @@
 "words": [
 [
 "出席",
-5,
+4,
 "chū xí",
 "to attend; to participate; present"
 ],
 [
 "主席",
-5,
+4,
 "zhǔ xí",
-"chairperson; premier; chairman; CL:個|个[ge4],位[wei4]"
+"chairperson; premier; chairman; CL:个[gè],位[wèi]"
+],
+[
+"首席",
+6,
+"shǒu xí",
+"chief (representative, correspondent etc)"
 ],
 [
 "缺席",
-6,
+7,
 "quē xí",
 "absence; absent"
+],
+[
+"席",
+7,
+"Xí",
+"surname Xi"
+],
+[
+"席",
+7,
+"xí",
+"woven mat; seat; banquet; place in a democratic assembly; classifier for banquets, conversations etc"
+],
+[
+"席",
+7,
+"xí",
+"variant of 席[xí]; woven mat"
+],
+[
+"席位",
+7,
+"xí wèi",
+"a seat (in a theater, stadium etc); parliamentary or congressional seat"
 ]
 ],
 "extraWords": [
@@ -33,28 +63,22 @@
 "Chairman Mao; Mao Zedong 毛澤東|毛泽东 (1893-1976), Chinese Communist leader"
 ],
 [
-"首席",
-30.02,
-"shǒu xí",
-"chief (representative, correspondent etc)"
-],
-[
 "副主席",
 25.2,
 "fù zhǔ xí",
 "vice-chairperson"
 ],
 [
-"席位",
-9.41,
-"xí wèi",
-"a seat (in a theater, stadium etc); parliamentary or congressional seat"
-],
-[
 "国家主席",
 6.89,
 "guó jiā zhǔ xí",
 "president (title of the head of state of China and several other nations)"
+],
+[
+"联席",
+5.82,
+"???",
+"???"
 ]
 ],
 "strokes": [

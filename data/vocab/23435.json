@@ -1,6 +1,6 @@
 {
 "char": "宋",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "Song dynasty; surname",
 "pron": "sòng"
@@ -8,10 +8,22 @@
 "words": [],
 "extraWords": [
 [
+"宋",
+24.88,
+"Sòng",
+"surname Song; the Song dynasty (960-1279); also Song of the Southern dynasties 南朝宋 (420-479)"
+],
+[
 "宋楚瑜",
 5.45,
 "Sòng Chǔ yú",
 "James Soong (1942-), Taiwanese politician expelled from Guomindang in 2000 when he founded People First Party 親民黨|亲民党"
+],
+[
+"宋代",
+4.08,
+"Sòng dài",
+"Song dynasty (960-1279)"
 ]
 ],
 "strokes": [

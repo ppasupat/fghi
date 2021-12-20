@@ -1,11 +1,53 @@
 {
 "char": "当",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "bear, accept, undertake; just",
 "pron": "dāng, dàng"
 },
 "words": [
+[
+"当",
+2,
+"dāng",
+"(onom.) dong; ding dong (bell)"
+],
+[
+"当",
+2,
+"dāng",
+"to be; to act as; manage; withstand; when; during; ought; should; match equally; equal; same; obstruct; just at (a time or place); on the spot; right; just at"
+],
+[
+"当",
+2,
+"dàng",
+"at or in the very same...; suitable; adequate; fitting; proper; to replace; to regard as; to think; to pawn; (coll.) to fail (a student)"
+],
+[
+"当时",
+2,
+"dāng shí",
+"then; at that time; while"
+],
+[
+"当时",
+2,
+"dàng shí",
+"at once; right away"
+],
+[
+"当初",
+3,
+"dāng chū",
+"at that time; originally"
+],
+[
+"当地",
+3,
+"dāng dì",
+"local"
+],
 [
 "当然",
 3,
@@ -13,70 +55,106 @@
 "only natural; as it should be; certainly; of course; without doubt"
 ],
 [
-"当",
-4,
-"dāng",
-"(onom.) dong; ding dong (bell)"
-],
-[
-"当",
-4,
-"dāng",
-"to be; to act as; manage; withstand; when; during; ought; should; match equally; equal; same; obstruct; just at (a time or place); on the spot; right; just at"
-],
-[
-"当",
-4,
-"dàng",
-"at or in the very same...; suitable; adequate; fitting; proper; to replace; to regard as; to think; to pawn; (coll.) to fail (a student)"
-],
-[
-"当时",
-4,
-"dāng shí",
-"then; at that time; while"
-],
-[
-"当时",
-4,
-"dàng shí",
-"at once; right away"
+"当中",
+3,
+"dāng zhōng",
+"among; in the middle; in the center"
 ],
 [
 "相当",
-5,
+3,
 "xiāng dāng",
 "equivalent to; appropriate; considerably; to a certain extent; fairly; quite"
 ],
 [
-"当地",
-5,
-"dāng dì",
-"local"
+"应当",
+3,
+"yīng dāng",
+"should; ought to"
 ],
 [
-"当心",
+"不敢当",
 5,
-"dāng xīn",
-"to take care; to look out"
+"bù gǎn dāng",
+"lit. I dare not (accept the honor); fig. I don't deserve your praise; you flatter me"
+],
+[
+"当场",
+5,
+"dāng chǎng",
+"at the scene; on the spot"
+],
+[
+"当代",
+5,
+"dāng dài",
+"the present age; the contemporary era"
+],
+[
+"当年",
+5,
+"dāng nián",
+"in those days; then; in those years; during that time"
+],
+[
+"当年",
+5,
+"dàng nián",
+"that very same year"
+],
+[
+"当前",
+5,
+"dāng qián",
+"current; today's; modern; present; to be facing (us)"
+],
+[
+"当选",
+5,
+"dāng xuǎn",
+"to be elected; to be selected"
+],
+[
+"当成",
+6,
+"dàng chéng",
+"to consider as; to take to be"
+],
+[
+"当天",
+6,
+"dāng tiān",
+"on that day"
+],
+[
+"当天",
+6,
+"dàng tiān",
+"the same day"
+],
+[
+"当作",
+6,
+"dàng zuò",
+"to treat as; to regard as"
+],
+[
+"恰当",
+6,
+"qià dàng",
+"appropriate; suitable"
 ],
 [
 "上当",
-5,
+6,
 "shàng dàng",
 "taken in (by sb's deceit); to be fooled; to be duped"
 ],
 [
-"当事人",
+"适当",
 6,
-"dāng shì rén",
-"persons involved or implicated; party (to an affair)"
-],
-[
-"当初",
-6,
-"dāng chū",
-"at that time; originally"
+"shì dàng",
+"suitable; appropriate"
 ],
 [
 "正当",
@@ -91,174 +169,156 @@
 "honest; reasonable; fair; sensible"
 ],
 [
-"恰当",
-6,
-"qià dàng",
-"appropriate; suitable"
-],
-[
-"当面",
-6,
-"dāng miàn",
-"to sb's face; in sb's presence"
-],
-[
-"当场",
-6,
-"dāng chǎng",
-"at the scene; on the spot"
-],
-[
-"当选",
-6,
-"dāng xuǎn",
-"to be elected; to be selected"
-],
-[
-"理所当然",
-6,
-"lǐ suǒ dāng rán",
-"as it should be by rights (idiom); proper and to be expected as a matter of course; inevitable and right"
-],
-[
-"当前",
-6,
-"dāng qián",
-"current; today's; modern; present; to be facing (us)"
-],
-[
-"妥当",
-6,
-"tuǒ dang",
-"appropriate; proper; ready"
-],
-[
 "充当",
-6,
+7,
 "chōng dāng",
 "to serve as; to act as; to play the role of"
 ],
 [
-"当代",
-6,
-"dāng dài",
-"the present age; the contemporary era"
+"担当",
+7,
+"dān dāng",
+"to take upon oneself; to assume"
 ],
 [
-"当务之急",
-6,
-"dāng wù zhī jí",
-"top priority job; matter of vital importance"
+"当即",
+7,
+"dāng jí",
+"at once; on the spot"
 ],
 [
-"不敢当",
-6,
-"bù gǎn dāng",
-"lit. I dare not (accept the honor); fig. I don't deserve your praise; you flatter me"
-]
-],
-"extraWords": [
-[
-"应当",
-97.06,
-"yīng dāng",
-"should; ought to"
+"当今",
+7,
+"dāng jīn",
+"current; present; now; nowadays"
 ],
 [
-"当年",
-91.83,
-"dāng nián",
-"in those days; then; in those years; during that time"
-],
-[
-"当年",
-91.83,
-"dàng nián",
-"that very same year"
-],
-[
-"当天",
-77.97,
-"dāng tiān",
-"on that day"
-],
-[
-"当天",
-77.97,
-"dàng tiān",
-"the same day"
-],
-[
-"当中",
-58.09,
-"dāng zhōng",
-"among; in the middle; in the center"
-],
-[
-"适当",
-53.62,
-"shì dàng",
-"suitable; appropriate"
+"当面",
+7,
+"dāng miàn",
+"to sb's face; in sb's presence"
 ],
 [
 "当日",
-44.66,
+7,
 "dāng rì",
 "on that day"
 ],
 [
 "当日",
-44.66,
+7,
 "dàng rì",
 "that very day; the same day"
 ],
 [
-"当作",
-32.64,
-"dàng zuò",
-"to treat as; to regard as"
+"当事人",
+7,
+"dāng shì rén",
+"persons involved or implicated; party (to an affair)"
 ],
 [
-"当成",
-31.39,
-"dàng chéng",
-"to consider as; to take to be"
+"当务之急",
+7,
+"dāng wù zhī jí",
+"top priority job; matter of vital importance"
 ],
 [
-"相当于",
-28.8,
-"xiāng dāng yú",
-"equivalent to"
+"当下",
+7,
+"dāng xià",
+"immediately; at once; at that moment; at the moment"
 ],
 [
-"当局",
-27.6,
-"dāng jú",
-"authorities"
+"当心",
+7,
+"dāng xīn",
+"to take care; to look out"
 ],
 [
-"当今",
-22.5,
-"dāng jīn",
-"current; present; now; nowadays"
+"当着",
+7,
+"dāng zhe",
+"in front of; in the presence of"
+],
+[
+"当之无愧",
+7,
+"dāng zhī wú kuì",
+"fully deserving, without any reservations (idiom); entirely worthy (of a title, honor etc)"
+],
+[
+"当众",
+7,
+"dāng zhòng",
+"in public; in front of everybody"
 ],
 [
 "当晚",
-20.03,
+7,
 "dāng wǎn",
 "on that evening"
 ],
 [
 "当晚",
-20.03,
+7,
 "dàng wǎn",
 "the same evening"
 ],
 [
-"当下",
-19.48,
-"dāng xià",
-"immediately; at once; at that moment; at the moment"
+"当真",
+7,
+"dàng zhēn",
+"to take seriously; serious; No joking, really!"
+],
+[
+"得当",
+7,
+"dé dàng",
+"appropriate; suitable"
+],
+[
+"理所当然",
+7,
+"lǐ suǒ dāng rán",
+"as it should be by rights (idiom); proper and to be expected as a matter of course; inevitable and right"
+],
+[
+"每当",
+7,
+"měi dāng",
+"whenever; every time; on every"
+],
+[
+"门当户对",
+7,
+"mén dāng hù duì",
+"the families are well-matched in terms of social status (idiom); (of a prospective marriage partner) an appropriate match"
+],
+[
+"势不可当",
+7,
+"shì bù kě dāng",
+"impossible to resist (idiom); an irresistible force"
+],
+[
+"妥当",
+7,
+"tuǒ dang",
+"appropriate; proper; ready"
+],
+[
+"相当于",
+7,
+"xiāng dāng yú",
+"equivalent to"
+]
+],
+"extraWords": [
+[
+"当局",
+27.6,
+"dāng jú",
+"authorities"
 ],
 [
 "亚当",
@@ -273,40 +333,22 @@
 "unsuitable; improper; inappropriate"
 ],
 [
-"当即",
-15.91,
-"dāng jí",
-"at once; on the spot"
-],
-[
-"每当",
-14.0,
-"měi dāng",
-"whenever; every time; on every"
-],
-[
 "麦当劳",
 10.84,
 "Mài dāng láo",
 "MacDonald or McDonald (name); McDonald's (fast food company)"
 ],
 [
-"当真",
-9.84,
-"dàng zhēn",
-"to take seriously; serious; No joking, really!"
-],
-[
-"担当",
-9.2,
-"dān dāng",
-"to take upon oneself; to assume"
-],
-[
 "当家",
 6.68,
 "dāng jiā",
 "to manage the household; to be the one in charge of the family; to call the shots; to be in charge"
+],
+[
+"当地人",
+5.99,
+"???",
+"???"
 ],
 [
 "当当",

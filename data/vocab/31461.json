@@ -1,6 +1,6 @@
 {
 "char": "童",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "child, boy, servant boy; virgin",
 "pron": "tóng"
@@ -10,21 +10,33 @@
 "儿童",
 4,
 "ér tóng",
-"child; CL:個|个[ge4]"
+"child; CL:个[gè]"
 ],
 [
 "童话",
-6,
+4,
 "tóng huà",
 "children's fairy tales"
+],
+[
+"童年",
+4,
+"tóng nián",
+"childhood"
 ]
 ],
 "extraWords": [
 [
-"童年",
-16.0,
-"tóng nián",
-"childhood"
+"童",
+52.29,
+"Tóng",
+"surname Tong"
+],
+[
+"童",
+52.29,
+"tóng",
+"child"
 ],
 [
 "童子军",

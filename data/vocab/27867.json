@@ -1,6 +1,6 @@
 {
 "char": "泛",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "to drift, float; careless, reckless",
 "pron": "fàn"
@@ -14,12 +14,37 @@
 ],
 [
 "泛滥",
-6,
+7,
 "fàn làn",
 "to be in flood; to overflow (the banks); to inundate; to spread unchecked"
+],
+[
+"宽泛",
+7,
+"kuān fàn",
+"wide-ranging"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"泛",
+18.17,
+"fàn",
+"variant of 泛[fàn]"
+],
+[
+"泛",
+18.17,
+"fàn",
+"variant of 泛[fàn]"
+],
+[
+"泛",
+18.17,
+"fàn",
+"(bound form) general; non-specific; extensive; pan-; to flood; (literary) to float about; to be suffused with (a color, emotion, odor etc)"
+]
+],
 "strokes": [
 "M 242 693 Q 270 668 298 636 Q 314 620 333 621 Q 346 621 352 637 Q 359 653 349 690 Q 339 721 238 750 Q 219 754 212 752 Q 206 748 207 732 Q 211 719 242 693 Z",
 "M 151 492 Q 193 435 227 419 Q 243 415 254 429 Q 261 442 260 462 Q 254 489 235 504 Q 214 520 167 534 Q 148 541 138 537 Q 131 536 133 522 Q 134 509 151 492 Z",

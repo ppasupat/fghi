@@ -1,24 +1,29 @@
 {
 "char": "眶",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "eye socket; rim of eye",
 "pron": "kuàng"
 },
-"words": [
-[
-"热泪盈眶",
-6,
-"rè lèi yíng kuàng",
-"eyes brimming with tears of excitement (idiom); extremely moved"
-]
-],
+"words": [],
 "extraWords": [
 [
 "眼眶",
 5.51,
 "yǎn kuàng",
 "eye socket; rim of the eye"
+],
+[
+"热泪盈眶",
+2.53,
+"rè lèi yíng kuàng",
+"eyes brimming with tears of excitement (idiom); extremely moved"
+],
+[
+"眶",
+2.29,
+"kuàng",
+"eye socket"
 ]
 ],
 "strokes": [

@@ -1,49 +1,85 @@
 {
 "char": "野",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "open country, field; wilderness",
 "pron": "yě"
 },
 "words": [
 [
-"野蛮",
+"野",
 6,
-"yě mán",
-"barbarous; uncivilized"
+"yě",
+"old variant of 野[yě]"
 ],
 [
-"野心",
+"野",
 6,
-"yě xīn",
-"ambition; wild schemes; careerism"
+"yě",
+"erroneous variant of 野[yě]"
+],
+[
+"野",
+6,
+"yě",
+"field; plain; open space; limit; boundary; rude; feral"
+],
+[
+"野生",
+6,
+"yě shēng",
+"wild; undomesticated"
 ],
 [
 "视野",
-6,
+7,
 "shì yě",
 "field of view; horizon"
 ],
 [
-"田野",
-6,
-"tián yě",
-"field; open land; CL:片[pian4]"
-]
+"野餐",
+7,
+"yě cān",
+"picnic; to have a picnic"
 ],
-"extraWords": [
+[
+"野炊",
+7,
+"yě chuī",
+"to cook a meal over a campfire (usu. for a group of people on an outing); cookout"
+],
+[
+"野蛮",
+7,
+"yě mán",
+"barbarous; uncivilized"
+],
 [
 "野兽",
-15.17,
+7,
 "yě shòu",
 "beast; wild animal"
 ],
 [
-"野生",
-9.48,
-"yě shēng",
-"wild; undomesticated"
+"野外",
+7,
+"yě wài",
+"countryside; areas outside the city"
 ],
+[
+"野心",
+7,
+"yě xīn",
+"ambition; wild schemes; careerism"
+],
+[
+"野营",
+7,
+"yě yíng",
+"to camp; field lodgings"
+]
+],
+"extraWords": [
 [
 "野生动物",
 8.04,
@@ -51,28 +87,10 @@
 "wild animal"
 ],
 [
-"野餐",
-7.57,
-"yě cān",
-"picnic; to have a picnic"
-],
-[
 "野马",
 6.56,
 "yě mǎ",
 "feral horse; free-roaming horse; wild horse"
-],
-[
-"野外",
-6.5,
-"yě wài",
-"countryside; areas outside the city"
-],
-[
-"野营",
-5.84,
-"yě yíng",
-"to camp; field lodgings"
 ]
 ],
 "strokes": [

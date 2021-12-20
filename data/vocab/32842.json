@@ -1,25 +1,43 @@
 {
 "char": "聊",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "somewhat, slightly, at least",
 "pron": "liáo"
 },
 "words": [
 [
-"聊天",
-3,
-"liáo tiān",
-"to chat; to gossip"
-],
-[
 "无聊",
 4,
 "wú liáo",
 "bored; boring; senseless"
+],
+[
+"聊",
+6,
+"liáo",
+"to chat; to depend upon (literary); temporarily; just; slightly"
+],
+[
+"聊天儿",
+6,
+"liáo tiān r5",
+"erhua variant of 聊天[liáo tiān]"
 ]
 ],
 "extraWords": [
+[
+"聊天",
+42.14,
+"liáo tiān",
+"to chat; to gossip"
+],
+[
+"聊聊",
+34.13,
+"???",
+"???"
+],
 [
 "闲聊",
 5.13,

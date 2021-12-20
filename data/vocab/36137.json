@@ -1,6 +1,6 @@
 {
 "char": "贩",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "peddler, hawker, street merchant",
 "pron": "fàn"
@@ -8,9 +8,21 @@
 "words": [
 [
 "贩卖",
-6,
+7,
 "fàn mài",
 "to sell; to peddle; to traffic"
+],
+[
+"商贩",
+7,
+"shāng fàn",
+"trader; peddler"
+],
+[
+"小贩",
+7,
+"xiǎo fàn",
+"peddler; hawker"
 ]
 ],
 "extraWords": [
@@ -25,6 +37,12 @@
 9.81,
 "fàn dú",
 "to traffic narcotics; drugs trade; opium trade"
+],
+[
+"贩",
+5.57,
+"fàn",
+"to deal in; to buy and sell; to trade in; to retail; to peddle"
 ],
 [
 "贩子",

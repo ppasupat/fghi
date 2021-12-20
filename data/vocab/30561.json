@@ -1,30 +1,60 @@
 {
 "char": "睡",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "sleep, doze",
 "pron": "shuì"
 },
 "words": [
 [
+"睡",
+1,
+"shuì",
+"to sleep; to lie down"
+],
+[
 "睡觉",
 1,
 "shuì jiào",
 "to go to bed; to sleep"
-]
 ],
-"extraWords": [
+[
+"午睡",
+2,
+"wǔ shuì",
+"to take a nap; siesta"
+],
+[
+"睡着",
+4,
+"shuì zháo",
+"to fall asleep"
+],
 [
 "睡眠",
-25.97,
+5,
 "shuì mián",
 "sleep; to sleep; (computing) to enter sleep mode"
 ],
 [
-"睡着",
-23.31,
-"shuì zháo",
-"to fall asleep"
+"酣睡",
+7,
+"hān shuì",
+"to sleep soundly; to fall into a deep sleep"
+],
+[
+"睡袋",
+7,
+"shuì dài",
+"sleeping bag"
+]
+],
+"extraWords": [
+[
+"睡不着",
+26.29,
+"???",
+"???"
 ],
 [
 "睡衣",

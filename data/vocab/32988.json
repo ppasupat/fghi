@@ -1,66 +1,78 @@
 {
 "char": "胜",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "victory; excel, be better than",
 "pron": "shèng"
 },
 "words": [
 [
+"胜",
+3,
+"shèng",
+"victory; success; to beat; to defeat; to surpass; victorious; superior to; to get the better of; better than; surpassing; superb (of vista); beautiful (scenery); wonderful (view); (Taiwan pr. [sheng1]) able to bear; equal to (a task)"
+],
+[
 "胜利",
-5,
+3,
 "shèng lì",
-"victory; CL:個|个[ge4]"
+"victory; CL:个[gè]"
 ],
-[
-"名胜古迹",
-5,
-"míng shèng gǔ jì",
-"historical sites and scenic spots"
-],
-[
-"胜负",
-6,
-"shèng fù",
-"victory or defeat; the outcome of a battle"
-],
-[
-"优胜劣汰",
-6,
-"yōu shèng liè tài",
-"survival of the fittest (idiom)"
-]
-],
-"extraWords": [
 [
 "战胜",
-44.43,
+4,
 "zhàn shèng",
 "to prevail over; to defeat; to surmount"
 ],
 [
+"胜负",
+5,
+"shèng fù",
+"victory or defeat; the outcome of a battle"
+],
+[
+"名胜",
+6,
+"míng shèng",
+"a place famous for its scenery or historical relics; scenic spot; CL:处[chù]"
+],
+[
 "获胜",
-26.44,
+7,
 "huò shèng",
 "victorious; to win; to triumph"
 ],
 [
 "取胜",
-13.28,
+7,
 "qǔ shèng",
 "to score a victory; to prevail over one's opponents"
 ],
+[
+"胜出",
+7,
+"shèng chū",
+"to come out on top; to win (in an election, contest etc); success; victory"
+],
+[
+"胜任",
+7,
+"shèng rèn",
+"qualified; competent (professionally); to be up to a task"
+],
+[
+"引人入胜",
+7,
+"yǐn rén rù shèng",
+"to enchant; fascinating"
+]
+],
+"extraWords": [
 [
 "胜过",
 9.42,
 "shèng guò",
 "to excel; to surpass"
-],
-[
-"胜任",
-7.81,
-"shèng rèn",
-"qualified; competent (professionally); to be up to a task"
 ],
 [
 "胜利者",

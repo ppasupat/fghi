@@ -1,11 +1,35 @@
 {
 "char": "单",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "single, individual, only; lone",
 "pron": "chán, dān, shàn"
 },
 "words": [
+[
+"菜单",
+2,
+"cài dān",
+"menu; CL:份[fèn],张[zhāng]"
+],
+[
+"单位",
+2,
+"dān wèi",
+"unit (of measure); unit (group of people as a whole); work unit (place of employment, esp. in the PRC prior to economic reform); CL:个[gè]"
+],
+[
+"名单",
+2,
+"míng dān",
+"list of names"
+],
+[
+"单元",
+3,
+"dān yuán",
+"unit (forming an entity); element; (in a residential building) entrance or staircase"
+],
 [
 "简单",
 3,
@@ -13,90 +37,102 @@
 "simple; not complicated"
 ],
 [
-"菜单",
-3,
-"cài dān",
-"menu; CL:份[fen4],張|张[zhang1]"
+"单",
+4,
+"Shàn",
+"surname Shan"
 ],
 [
-"单独",
-5,
-"dān dú",
-"alone; by oneself; on one's own"
-],
-[
-"单位",
-5,
-"dān wèi",
-"unit (of measure); unit (group of people as a whole); work unit (place of employment, esp. in the PRC prior to economic reform); CL:個|个[ge4]"
+"单",
+4,
+"dān",
+"bill; list; form; single; only; sole; odd number; CL:个[gè]"
 ],
 [
 "单纯",
-5,
+4,
 "dān chún",
 "simple; pure; unsophisticated; merely; purely"
 ],
 [
-"单元",
-5,
-"dān yuán",
-"unit (forming an entity); element; (in a residential building) entrance or staircase"
-],
-[
 "单调",
-5,
+4,
 "dān diào",
 "monotonous"
 ],
 [
-"床单",
-6,
-"chuáng dān",
-"bed sheet; CL:條|条[tiao2],件[jian4],張|张[zhang1],床[chuang2]"
-],
-[
-"传单",
-6,
-"chuán dān",
-"leaflet; flier; pamphlet"
-]
-],
-"extraWords": [
-[
-"名单",
-65.94,
-"míng dān",
-"list of names"
-],
-[
-"单身",
-36.88,
-"dān shēn",
-"unmarried; single"
+"单独",
+4,
+"dān dú",
+"alone; by oneself; on one's own"
 ],
 [
 "单一",
-22.4,
+5,
 "dān yī",
 "single; only; sole"
 ],
 [
-"孤单",
-18.36,
-"gū dān",
-"lone; lonely; loneliness"
+"单打",
+6,
+"dān dǎ",
+"singles (in sports); CL:场[chǎng]"
+],
+[
+"单边",
+7,
+"dān biān",
+"unilateral"
+],
+[
+"单薄",
+7,
+"dān bó",
+"weak; frail; thin; flimsy"
+],
+[
+"单方面",
+7,
+"dān fāng miàn",
+"unilateral"
+],
+[
+"单身",
+7,
+"dān shēn",
+"unmarried; single"
 ],
 [
 "订单",
-16.49,
+7,
 "dìng dān",
 "(purchase) order"
 ],
 [
+"孤单",
+7,
+"gū dān",
+"lone; lonely; loneliness"
+],
+[
 "清单",
-15.38,
+7,
 "qīng dān",
 "list of items"
+],
+[
+"账单",
+7,
+"zhàng dān",
+"bill"
+]
+],
+"extraWords": [
+[
+"事业单位",
+13.32,
+"???",
+"???"
 ],
 [
 "单子",
@@ -111,22 +147,22 @@
 "list of items; bill; form; bedsheet"
 ],
 [
-"账单",
-10.76,
-"zhàng dān",
-"bill"
-],
-[
 "单词",
 8.61,
 "dān cí",
-"word; CL:個|个[ge4]"
+"word; CL:个[gè]"
 ],
 [
-"单打",
-7.47,
-"dān dǎ",
-"singles (in sports); CL:場|场[chang3]"
+"床单",
+8.23,
+"chuáng dān",
+"bed sheet; CL:条[tiáo],件[jiàn],张[zhāng],床[chuáng]"
+],
+[
+"传单",
+7.33,
+"chuán dān",
+"leaflet; flier; pamphlet"
 ],
 [
 "女单",
@@ -153,6 +189,12 @@
 "to pay the restaurant bill"
 ],
 [
+"企事业单位",
+6.58,
+"???",
+"???"
+],
+[
 "单车",
 6.38,
 "dān chē",
@@ -163,6 +205,18 @@
 6.32,
 "dān xiàng",
 "single-item"
+],
+[
+"本单位",
+5.71,
+"???",
+"???"
+],
+[
+"有关单位",
+5.43,
+"???",
+"???"
 ]
 ],
 "strokes": [

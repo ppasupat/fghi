@@ -1,48 +1,60 @@
 {
 "char": "毫",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "fine hair; measure of length",
 "pron": "háo"
 },
 "words": [
 [
-"丝毫",
-5,
-"sī háo",
-"the slightest amount or degree; a bit"
-],
-[
-"毫无",
-6,
-"háo wú",
-"not in the least; to completely lack"
-],
-[
 "毫米",
-6,
+4,
 "háo mǐ",
 "millimeter"
-]
 ],
-"extraWords": [
 [
-"毫无疑问",
-26.41,
-"háo wú yí wèn",
-"certainty; without a doubt"
+"毫升",
+4,
+"háo shēng",
+"milliliter"
 ],
 [
 "毫不",
-16.58,
+7,
 "háo bù",
 "hardly; not in the least; not at all"
 ],
 [
 "毫不犹豫",
-6.94,
+7,
 "háo bù yóu yù",
 "without the slightest hesitation"
+],
+[
+"毫无",
+7,
+"háo wú",
+"not in the least; to completely lack"
+],
+[
+"丝毫",
+7,
+"sī háo",
+"the slightest amount or degree; a bit"
+]
+],
+"extraWords": [
+[
+"毫",
+32.59,
+"háo",
+"hair; drawing brush; (in the) least; one thousandth; currency unit, 0.1 yuan"
+],
+[
+"毫无疑问",
+26.41,
+"háo wú yí wèn",
+"certainty; without a doubt"
 ]
 ],
 "strokes": [

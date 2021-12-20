@@ -1,12 +1,31 @@
 {
 "char": "澎",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "splatter",
 "pron": "péng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"澎湃",
+3.06,
+"péng pài",
+"to surge"
+],
+[
+"澎湖",
+0.97,
+"Péng hú",
+"Penghu county (Pescadores Islands), Taiwan"
+],
+[
+"澎",
+0.72,
+"péng",
+"sound of waves"
+]
+],
 "strokes": [
 "M 209 717 Q 231 695 255 669 Q 268 656 284 655 Q 294 656 301 669 Q 305 684 298 713 Q 294 732 265 746 Q 195 773 184 767 Q 180 763 180 750 Q 183 740 209 717 Z",
 "M 136 520 Q 181 471 215 457 Q 230 454 239 469 Q 245 482 242 499 Q 230 536 149 560 L 148 560 Q 130 564 121 560 Q 115 559 118 546 Q 119 534 136 520 Z",

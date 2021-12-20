@@ -1,34 +1,34 @@
 {
 "char": "削",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "scrape off, pare, trim",
 "pron": "xiāo, xuē"
 },
 "words": [
 [
+"剥削",
+7,
+"bō xuē",
+"to exploit; exploitation"
+],
+[
 "削",
-6,
+7,
 "xiāo",
 "to peel with a knife; to pare; to cut (a ball at tennis etc)"
 ],
 [
 "削",
-6,
+7,
 "xuē",
 "to pare; to reduce; to remove; Taiwan pr. [xue4]"
 ],
 [
 "削弱",
-6,
+7,
 "xuē ruò",
 "to weaken; to impair; to cripple"
-],
-[
-"剥削",
-6,
-"bō xuē",
-"to exploit; exploitation"
 ]
 ],
 "extraWords": [

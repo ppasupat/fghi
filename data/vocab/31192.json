@@ -1,6 +1,6 @@
 {
 "char": "秘",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "secret, mysterious, abstruse",
 "pron": "bì, mì"
@@ -8,27 +8,39 @@
 "words": [
 [
 "秘密",
-5,
+4,
 "mì mì",
-"secret; CL:個|个[ge4]"
-],
-[
-"神秘",
-5,
-"shén mì",
-"mysterious; mystery"
+"secret; CL:个[gè]"
 ],
 [
 "秘书",
-5,
+4,
 "mì shū",
 "secretary"
 ],
 [
+"神秘",
+4,
+"shén mì",
+"mysterious; mystery"
+],
+[
 "奥秘",
-6,
+7,
 "ào mì",
 "secret; mystery"
+],
+[
+"秘方",
+7,
+"mì fāng",
+"secret recipe"
+],
+[
+"秘诀",
+7,
+"mì jué",
+"secret know-how; key (to longevity); secret (of happiness); recipe (for success)"
 ]
 ],
 "extraWords": [
@@ -37,6 +49,24 @@
 23.33,
 "mì shū zhǎng",
 "secretary-general"
+],
+[
+"秘",
+13.42,
+"mì",
+"variant of 秘[mì]"
+],
+[
+"秘",
+13.42,
+"bì",
+"see 秘鲁[Bì lǔ]"
+],
+[
+"秘",
+13.42,
+"mì",
+"secret; secretary"
 ],
 [
 "便秘",
@@ -51,22 +81,10 @@
 "vice-secretary"
 ],
 [
-"秘诀",
-6.88,
-"mì jué",
-"secret know-how; key (to longevity); secret (of happiness); recipe (for success)"
-],
-[
 "秘鲁",
 5.36,
 "Bì lǔ",
 "Peru"
-],
-[
-"秘方",
-5.25,
-"mì fāng",
-"secret recipe"
 ]
 ],
 "strokes": [

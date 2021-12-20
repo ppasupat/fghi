@@ -1,28 +1,28 @@
 {
 "char": "熬",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "cook down, to boil; endure",
 "pron": "āo, áo"
 },
 "words": [
 [
-"熬夜",
-5,
-"áo yè",
-"to stay up late or all night"
-],
-[
 "熬",
-6,
+7,
 "āo",
 "to boil; to simmer"
 ],
 [
 "熬",
-6,
+7,
 "áo",
 "to cook on a slow fire; to extract by heating; to decoct; to endure"
+],
+[
+"熬夜",
+7,
+"áo yè",
+"to stay up late or all night"
 ]
 ],
 "extraWords": [

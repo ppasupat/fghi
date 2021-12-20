@@ -1,17 +1,11 @@
 {
 "char": "竟",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "finally, after all, at last",
 "pron": "jìng"
 },
 "words": [
-[
-"究竟",
-4,
-"jiū jìng",
-"to go to the bottom of a matter; after all; when all is said and done; (in an interrogative sentence) finally; outcome; result"
-],
 [
 "竟然",
 4,
@@ -19,18 +13,36 @@
 "unexpectedly; to one's surprise; in spite of everything; in that crazy way; actually; to go as far as to"
 ],
 [
+"究竟",
+4,
+"jiū jìng",
+"to go to the bottom of a matter; after all; when all is said and done; (in an interrogative sentence) finally; outcome; result"
+],
+[
 "毕竟",
 5,
 "bì jìng",
 "after all; all in all; when all is said and done; in the final analysis"
+],
+[
+"竟",
+7,
+"jìng",
+"unexpectedly; actually; to go so far as to; indeed"
+],
+[
+"竟敢",
+7,
+"jìng gǎn",
+"to have the impertinence; to have the cheek to"
 ]
 ],
 "extraWords": [
 [
-"竟敢",
-5.34,
-"jìng gǎn",
-"to have the impertinence; to have the cheek to"
+"竟是",
+12.36,
+"???",
+"???"
 ]
 ],
 "strokes": [

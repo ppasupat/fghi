@@ -1,12 +1,32 @@
 {
 "char": "闸",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "sluice; flood gate, canal lock",
 "pron": "zhá"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"闸",
+7,
+"zhá",
+"old variant of 闸[zhá]; sluice; lock (on waterway)"
+],
+[
+"闸",
+7,
+"zhá",
+"gear; brake; sluice; lock (on waterway); electric switch or circuit breaker"
+]
+],
+"extraWords": [
+[
+"闸门",
+2.81,
+"zhá mén",
+"sluice gate"
+]
+],
 "strokes": [
 "M 321 744 Q 396 666 420 664 Q 433 663 440 683 Q 441 696 431 718 Q 406 754 325 773 Q 315 774 315 762 Q 314 753 321 744 Z",
 "M 184 675 Q 241 531 196 231 Q 187 189 173 145 Q 155 88 191 45 Q 204 30 214 45 Q 248 82 250 245 Q 250 558 265 641 Q 266 660 250 671 Q 225 692 197 700 Q 187 703 180 693 Q 176 687 184 675 Z",

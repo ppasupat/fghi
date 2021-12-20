@@ -1,11 +1,47 @@
 {
 "char": "留",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "stop, halt; stay, detain, keep",
 "pron": "liú"
 },
 "words": [
+[
+"留",
+2,
+"liú",
+"old variant of 留[liú]"
+],
+[
+"留",
+2,
+"liú",
+"to leave (a message etc); to retain; to stay; to remain; to keep; to preserve"
+],
+[
+"留",
+2,
+"liú",
+"old variant of 留[liú]"
+],
+[
+"留下",
+2,
+"liú xià",
+"to leave behind; to stay behind; to remain; to keep; not to let (sb) go"
+],
+[
+"留学生",
+2,
+"liú xué shēng",
+"student studying abroad; (foreign) exchange student; CL:个[gè],位[wèi]"
+],
+[
+"保留",
+3,
+"bǎo liú",
+"to keep; to retain; to have reservations (about sth); to hold back (from saying sth); to put aside for later"
+],
 [
 "留学",
 3,
@@ -13,108 +49,96 @@
 "to study abroad"
 ],
 [
-"留",
-4,
-"liú",
-"old variant of 留[liu2]"
-],
-[
-"留",
-4,
-"liú",
-"to leave (a message etc); to retain; to stay; to remain; to keep; to preserve"
-],
-[
-"留",
-4,
-"liú",
-"old variant of 留[liu2]"
-],
-[
-"保留",
+"停留",
 5,
-"bǎo liú",
-"to keep; to retain; to have reservations (about sth); to hold back (from saying sth); to put aside for later"
+"tíng liú",
+"to stay somewhere temporarily; to stop over"
 ],
 [
-"拘留",
+"留言",
 6,
-"jū liú",
-"to detain (a prisoner); to keep sb in custody"
+"liú yán",
+"to leave a message; to leave one's comments; message"
 ],
 [
 "残留",
-6,
+7,
 "cán liú",
 "to remain; left over; surplus; remnant"
 ],
 [
-"留神",
-6,
-"liú shén",
-"to take care; to be careful"
+"拘留",
+7,
+"jū liú",
+"to detain (a prisoner); to keep sb in custody"
 ],
 [
-"遗留",
-6,
-"yí liú",
-"to leave behind; to hand down"
+"扣留",
+7,
+"kòu liú",
+"to detain; to arrest; to hold; to confiscate"
 ],
 [
 "留恋",
-6,
+7,
 "liú liàn",
 "reluctant to leave; to hate to have to go; to recall fondly"
 ],
 [
-"滞留",
-6,
-"zhì liú",
-"to detain; retention"
-],
-[
 "留念",
-6,
+7,
 "liú niàn",
 "to keep as a souvenir; to recall fondly"
+],
+[
+"留神",
+7,
+"liú shén",
+"to take care; to be careful"
+],
+[
+"留心",
+7,
+"liú xīn",
+"to be careful; to pay attention to"
+],
+[
+"留意",
+7,
+"liú yì",
+"to be mindful; to pay attention to; to take note of"
+],
+[
+"收留",
+7,
+"shōu liú",
+"to offer shelter; to have sb in one's care"
+],
+[
+"遗留",
+7,
+"yí liú",
+"to leave behind; to hand down"
+],
+[
+"滞留",
+7,
+"zhì liú",
+"to detain; retention"
 ]
 ],
 "extraWords": [
 [
-"留下",
-140.7,
-"liú xià",
-"to leave behind; to stay behind; to remain; to keep; not to let (sb) go"
-],
-[
-"留言",
-43.88,
-"liú yán",
-"to leave a message; to leave one's comments; message"
+"留下来",
+37.59,
+"???",
+"???"
 ],
 [
 "留给",
 29.54,
 "liú gěi",
 "to set aside for"
-],
-[
-"停留",
-21.56,
-"tíng liú",
-"to stay somewhere temporarily; to stop over"
-],
-[
-"留意",
-12.3,
-"liú yì",
-"to be mindful; to pay attention to; to take note of"
-],
-[
-"留学生",
-9.89,
-"liú xué shēng",
-"student studying abroad; (foreign) exchange student; CL:個|个[ge4],位[wei4]"
 ],
 [
 "留守",

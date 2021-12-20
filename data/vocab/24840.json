@@ -1,36 +1,48 @@
 {
 "char": "愈",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "more and more, even more",
 "pron": "yù"
 },
 "words": [
 [
+"愈合",
+7,
+"yù hé",
+"(of a wound) to heal"
+],
+[
+"愈来愈",
+7,
+"yù lái yù",
+"more and more"
+],
+[
+"愈演愈烈",
+7,
+"yù yǎn yù liè",
+"ever more critical; problems get more and more intense"
+],
+[
+"治愈",
+7,
+"zhì yù",
+"to cure"
+]
+],
+"extraWords": [
+[
 "愈",
-6,
+24.36,
 "yù",
 "the more...(the more...); to recover; to heal; better"
 ],
 [
 "愈",
-6,
+24.36,
 "yù",
-"variant of 愈[yu4]; to heal"
-]
-],
-"extraWords": [
-[
-"治愈",
-18.04,
-"zhì yù",
-"to cure"
-],
-[
-"愈合",
-10.52,
-"yù hé",
-"(of a wound) to heal"
+"variant of 愈[yù]; to heal"
 ],
 [
 "痊愈",

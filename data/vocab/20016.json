@@ -1,6 +1,6 @@
 {
 "char": "丰",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "abundant, lush, bountiful, plenty",
 "pron": "fēng"
@@ -8,53 +8,77 @@
 "words": [
 [
 "丰富",
-4,
+3,
 "fēng fù",
 "to enrich; rich; plentiful; abundant"
 ],
 [
+"丰收",
+5,
+"fēng shōu",
+"bumper harvest"
+],
+[
+"丰富多彩",
+7,
+"fēng fù duō cǎi",
+"richly colorful"
+],
+[
+"丰厚",
+7,
+"fēng hòu",
+"generous; ample"
+],
+[
 "丰满",
-6,
+7,
 "Fēng mǎn",
 "Fengman district of Jilin city 吉林市, Jilin province"
 ],
 [
 "丰满",
-6,
+7,
 "fēng mǎn",
 "ample; well developed; fully rounded"
 ],
 [
 "丰盛",
-6,
+7,
 "fēng shèng",
 "rich; sumptuous"
 ],
 [
-"丰收",
-6,
-"fēng shōu",
-"bumper harvest"
+"丰硕",
+7,
+"fēng shuò",
+"plentiful; substantial; rich (in resources etc)"
 ]
 ],
 "extraWords": [
+[
+"丰",
+23.32,
+"fēng",
+"luxuriant; buxom; variant of 丰[fēng]; variant of 风[fēng]; appearance; charm"
+],
+[
+"丰",
+23.32,
+"Fēng",
+"surname Feng"
+],
+[
+"丰",
+23.32,
+"fēng",
+"abundant; plentiful; fertile; plump; great"
+],
 [
 "丰田",
 11.82,
 "Fēng tián",
 "Toyota or Toyoda (name); Toyota, Japanese car make"
-],
-[
-"丰厚",
-11.22,
-"fēng hòu",
-"generous; ample"
-],
-[
-"丰富多彩",
-7.45,
-"fēng fù duō cǎi",
-"richly colorful"
 ]
 ],
 "strokes": [

@@ -1,54 +1,66 @@
 {
 "char": "唱",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "sing, chant, call; ditty, song",
 "pron": "chàng"
 },
 "words": [
 [
+"唱",
+1,
+"chàng",
+"to sing; to call loudly; to chant"
+],
+[
 "唱歌",
-2,
+1,
 "chàng gē",
 "to sing a song"
-]
-],
-"extraWords": [
-[
-"演唱会",
-34.13,
-"yǎn chàng huì",
-"vocal recital or concert"
 ],
 [
 "演唱",
-28.53,
+3,
 "yǎn chàng",
 "sung performance; to sing for an audience"
 ],
 [
+"演唱会",
+3,
+"yǎn chàng huì",
+"vocal recital or concert"
+],
+[
 "唱片",
-28.47,
+4,
 "chàng piàn",
-"gramophone record; LP; music CD; musical album; CL:張|张[zhang1]"
+"gramophone record; LP; music CD; musical album; CL:张[zhāng]"
 ],
 [
 "歌唱",
-11.8,
+6,
 "gē chàng",
 "to sing"
 ],
 [
-"说唱",
-7.57,
-"shuō chàng",
-"speaking and singing, as in various forms of storytelling such as 彈詞|弹词[tan2 ci2] and 相聲|相声[xiang4 sheng5]; (music) rapping"
+"独唱",
+7,
+"dú chàng",
+"(in singing) solo; to solo"
 ],
 [
 "合唱",
-6.99,
+7,
 "hé chàng",
 "chorus; to chorus"
+]
+],
+"extraWords": [
+[
+"说唱",
+7.57,
+"shuō chàng",
+"speaking and singing, as in various forms of storytelling such as 弹词[tán cí] and 相声[xiàng sheng]; (music) rapping"
 ]
 ],
 "strokes": [

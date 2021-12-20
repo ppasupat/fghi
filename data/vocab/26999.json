@@ -1,12 +1,38 @@
 {
 "char": "楷",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "model style of Chinese writing",
 "pron": "jiē, kǎi"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"楷模",
+7,
+"kǎi mó",
+"model; example"
+]
+],
+"extraWords": [
+[
+"李泽楷",
+0.87,
+"Lǐ Zé kǎi",
+"Richard Li (1966-), Hong Kong businessman and philanthropist"
+],
+[
+"楷",
+0.64,
+"jiē",
+"Chinese pistachio tree (Pistacia chinensis)"
+],
+[
+"楷",
+0.64,
+"kǎi",
+"model; pattern; regular script (calligraphic style)"
+]
+],
 "strokes": [
 "M 307 539 Q 380 561 384 565 Q 393 572 388 581 Q 381 591 352 597 Q 328 601 308 593 L 264 576 Q 177 546 91 533 Q 57 524 82 510 Q 130 489 177 505 Q 210 514 247 522 L 307 539 Z",
 "M 304 418 Q 305 475 307 539 L 308 593 Q 308 594 309 596 Q 310 696 330 764 Q 339 779 336 792 Q 329 802 274 837 Q 250 855 229 839 Q 225 835 230 818 Q 264 769 264 718 Q 264 652 264 576 L 260 424 Q 253 208 248 181 Q 241 141 229 101 Q 219 64 243 -2 Q 250 -20 258 -23 Q 264 -30 272 -21 Q 299 -5 300 61 Q 299 101 304 389 L 304 418 Z",

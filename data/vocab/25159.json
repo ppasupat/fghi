@@ -1,16 +1,28 @@
 {
 "char": "扇",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "fan; door panel",
 "pron": "shān, shàn"
 },
 "words": [
 [
+"扇",
+5,
+"shān",
+"to fan; to slap sb on the face"
+],
+[
+"扇",
+5,
+"shàn",
+"fan; sliding, hinged or detachable flat part of sth; classifier for doors, windows etc"
+],
+[
 "扇子",
 5,
 "shàn zi",
-"fan; CL:把[ba3]"
+"fan; CL:把[bǎ]"
 ]
 ],
 "extraWords": [],

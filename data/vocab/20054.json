@@ -1,6 +1,6 @@
 {
 "char": "乖",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "rebel; crafty, shrewd",
 "pron": "guāi"
@@ -8,9 +8,15 @@
 "words": [
 [
 "乖",
-5,
+7,
 "guāi",
 "(of a child) obedient, well-behaved; clever; shrewd; alert; perverse; contrary to reason; irregular; abnormal"
+],
+[
+"乖巧",
+7,
+"guāi qiǎo",
+"clever (child); smart; lovable; cute"
 ]
 ],
 "extraWords": [

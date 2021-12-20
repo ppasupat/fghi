@@ -1,6 +1,6 @@
 {
 "char": "彼",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "that, there, those",
 "pron": "bǐ"
@@ -11,6 +11,12 @@
 5,
 "bǐ cǐ",
 "each other; one another"
+],
+[
+"此起彼伏",
+7,
+"cǐ qǐ bǐ fú",
+"up here, down there (idiom); to rise and fall in succession; no sooner one subsides, the next arises; repeating continuously; occurring again and again (of applause, fires, waves, protests, conflicts, uprisings etc)"
 ]
 ],
 "extraWords": [
@@ -19,6 +25,12 @@
 30.35,
 "Bǐ dé",
 "Peter (name)"
+],
+[
+"彼",
+8.4,
+"bǐ",
+"that; those; (one) another"
 ]
 ],
 "strokes": [

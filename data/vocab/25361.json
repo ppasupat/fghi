@@ -1,48 +1,60 @@
 {
 "char": "挑",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "a load carried on the shoulders; to carry",
 "pron": "tiāo, tiǎo"
 },
 "words": [
 [
+"挑",
+4,
+"tiāo",
+"to carry on a shoulder pole; to choose; to pick; to nitpick"
+],
+[
+"挑",
+4,
+"tiǎo",
+"to raise; to dig up; to poke; to prick; to incite; to stir up"
+],
+[
+"挑选",
+4,
+"tiāo xuǎn",
+"to choose; to select"
+],
+[
 "挑战",
-5,
+4,
 "tiǎo zhàn",
 "to challenge; challenge"
 ],
 [
 "挑剔",
-6,
+7,
 "tiāo ti",
 "picky; fussy"
 ],
 [
-"挑衅",
-6,
-"tiǎo xìn",
-"to provoke; provocation"
+"挑起",
+7,
+"tiǎo qǐ",
+"to provoke; to stir up; to incite"
 ],
 [
-"挑拨",
-6,
-"tiǎo bō",
-"to incite disharmony; to instigate"
+"挑衅",
+7,
+"tiǎo xìn",
+"to provoke; provocation"
 ]
 ],
 "extraWords": [
 [
-"挑选",
-19.47,
-"tiāo xuǎn",
-"to choose; to select"
-],
-[
-"挑起",
-7.36,
-"tiǎo qǐ",
-"to provoke; to stir up; to incite"
+"挑战赛",
+8.44,
+"???",
+"???"
 ],
 [
 "挑逗",

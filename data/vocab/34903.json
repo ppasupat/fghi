@@ -1,36 +1,54 @@
 {
 "char": "街",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "street, road, thoroughfare",
 "pron": "jiē"
 },
 "words": [
 [
+"街",
+2,
+"jiē",
+"street; CL:条[tiáo]"
+],
+[
 "街道",
-3,
+4,
 "jiē dào",
-"street; CL:條|条[tiao2]; subdistrict; residential district"
+"street; CL:条[tiáo]; subdistrict; residential district"
+],
+[
+"大街",
+6,
+"dà jiē",
+"street; main street; CL:条[tiáo]"
+],
+[
+"街头",
+6,
+"jiē tóu",
+"street"
+],
+[
+"大街小巷",
+7,
+"dà jiē xiǎo xiàng",
+"great streets and small alleys (idiom); everywhere in the city"
+],
+[
+"临街",
+7,
+"lín jiē",
+"facing the street"
 ]
 ],
 "extraWords": [
-[
-"大街",
-44.89,
-"dà jiē",
-"street; main street; CL:條|条[tiao2]"
-],
 [
 "街上",
 41.2,
 "jiē shang",
 "on the street; in town"
-],
-[
-"街头",
-25.65,
-"jiē tóu",
-"street"
 ],
 [
 "街区",

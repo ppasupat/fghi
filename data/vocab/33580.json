@@ -1,12 +1,31 @@
 {
 "char": "茬",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "harvest",
 "pron": "chá"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"茬",
+4.24,
+"chá",
+"stubble land after crop has been taken; a second crop obtained by rotation of land; an opportunity"
+],
+[
+"找茬",
+1.58,
+"zhǎo chá",
+"to pick fault with; to spot the differences; to nitpick; to pick a quarrel; to find complaint with"
+],
+[
+"话茬",
+0.3,
+"huà chá",
+"tone of voice; topic; subject under discussion"
+]
+],
 "strokes": [
 "M 620 656 Q 689 668 810 663 Q 826 662 831 671 Q 837 683 823 697 Q 774 739 676 715 Q 660 712 644 708 L 586 698 Q 502 685 409 670 L 364 663 Q 285 654 199 643 Q 169 639 190 623 Q 236 596 291 607 Q 331 619 373 627 L 412 635 Q 511 650 573 653 L 620 656 Z",
 "M 409 670 Q 405 713 403 745 Q 404 764 384 770 Q 344 788 323 781 Q 305 771 320 753 Q 356 711 364 663 L 373 627 Q 380 594 395 579 Q 408 569 413 581 Q 420 608 412 635 L 409 670 Z",

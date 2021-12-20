@@ -1,40 +1,46 @@
 {
 "char": "支",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "disperse, pay; support; branch",
 "pron": "zhī"
 },
 "words": [
 [
-"支持",
-4,
-"zhī chí",
-"to be in favor of; to support; to back; support; backing; to stand by; CL:個|个[ge4]"
-],
-[
 "支",
-5,
+3,
 "Zhī",
 "surname Zhi"
 ],
 [
 "支",
-5,
+3,
 "zhī",
 "to support; to sustain; to erect; to raise; branch; division; to draw money; classifier for rods such as pens and guns, for army divisions and for songs or compositions"
 ],
 [
-"支票",
-5,
-"zhī piào",
-"check (bank); cheque; CL:本[ben3]"
+"支持",
+3,
+"zhī chí",
+"to be in favor of; to support; to back; support; backing; to stand by; CL:个[gè]"
 ],
 [
-"支援",
-6,
-"zhī yuán",
-"to provide assistance; to support; to back"
+"支付",
+3,
+"zhī fù",
+"to pay (money)"
+],
+[
+"支出",
+5,
+"zhī chū",
+"to spend; to pay out; expense"
+],
+[
+"支配",
+5,
+"zhī pèi",
+"to control; to dominate; to allocate"
 ],
 [
 "支撑",
@@ -43,43 +49,49 @@
 "to prop up; to support; strut; brace"
 ],
 [
-"支配",
+"支援",
 6,
-"zhī pèi",
-"to control; to dominate; to allocate"
+"zhī yuán",
+"to provide assistance; to support; to back"
+],
+[
+"分支",
+7,
+"fēn zhī",
+"branch (of company, river etc); to branch; to diverge; to ramify; to subdivide"
 ],
 [
 "开支",
-6,
+7,
 "kāi zhī",
-"expenditures; expenses; CL:筆|笔[bi3], 項|项[xiang4]; to spend money; (coll.) to pay wages"
+"expenditures; expenses; CL:笔[bǐ], 项[xiàng]; to spend money; (coll.) to pay wages"
+],
+[
+"收支",
+7,
+"shōu zhī",
+"cash flow; financial balance; income and expenditure"
+],
+[
+"透支",
+7,
+"tòu zhī",
+"(banking) to overdraw; to take out an overdraft; an overdraft; to overspend (i.e. expenditure in excess of revenue); (old) to draw one's wage in advance; (fig.) to exhaust (one's enthusiasm, energy etc); to damage a natural resource through overuse"
+],
+[
+"支票",
+7,
+"zhī piào",
+"check (bank); cheque; CL:本[běn]"
 ],
 [
 "支柱",
-6,
+7,
 "zhī zhù",
 "mainstay; pillar; prop; backbone"
-],
-[
-"支出",
-6,
-"zhī chū",
-"to spend; to pay out; expense"
-],
-[
-"支流",
-6,
-"zhī liú",
-"tributary (river)"
 ]
 ],
 "extraWords": [
-[
-"支付",
-74.64,
-"zhī fù",
-"to pay (money)"
-],
 [
 "支队",
 15.18,
@@ -87,22 +99,22 @@
 "detachment (of troops)"
 ],
 [
-"分支",
-12.4,
-"fēn zhī",
-"branch (of company, river etc); to branch; to diverge; to ramify; to subdivide"
-],
-[
-"收支",
-10.58,
-"shōu zhī",
-"cash flow; financial balance; income and expenditure"
+"党支部",
+14.97,
+"???",
+"???"
 ],
 [
 "枪支",
 10.43,
 "qiāng zhī",
 "a gun; guns in general"
+],
+[
+"大力支持",
+10.05,
+"???",
+"???"
 ],
 [
 "支架",
@@ -139,12 +151,6 @@
 5.6,
 "zhī diǎn",
 "fulcrum (for a lever)"
-],
-[
-"透支",
-5.49,
-"tòu zhī",
-"(banking) to overdraw; to take out an overdraft; an overdraft; to overspend (i.e. expenditure in excess of revenue); (old) to draw one's wage in advance; (fig.) to exhaust (one's enthusiasm, energy etc); to damage a natural resource through overuse"
 ]
 ],
 "strokes": [

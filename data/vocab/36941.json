@@ -1,6 +1,6 @@
 {
 "char": "遍",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "everywhere, all over, throughout",
 "pron": "biàn"
@@ -8,25 +8,31 @@
 "words": [
 [
 "遍",
-4,
+2,
 "biàn",
-"variant of 遍[bian4]"
+"variant of 遍[biàn]"
 ],
 [
 "遍",
-4,
+2,
 "biàn",
 "everywhere; all over; classifier for actions: one time"
 ],
 [
 "普遍",
-4,
+3,
 "pǔ biàn",
 "universal; general; widespread; common"
 ],
 [
-"遍布",
+"遍地",
 6,
+"biàn dì",
+"everywhere; all over"
+],
+[
+"遍布",
+7,
 "biàn bù",
 "to cover the whole (area); to be found throughout"
 ]

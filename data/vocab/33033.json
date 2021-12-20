@@ -1,28 +1,40 @@
 {
 "char": "脉",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "blood vessels, veins, arteries",
 "pron": "mài, mò"
 },
 "words": [
 [
-"脉搏",
-6,
-"mài bó",
-"pulse (both medical and figurative)"
-],
-[
 "动脉",
-6,
+7,
 "dòng mài",
 "artery"
 ],
 [
-"山脉",
-6,
-"shān mài",
-"mountain range; CL:條|条[tiao2]"
+"来龙去脉",
+7,
+"lái lóng qù mài",
+"the rise and fall of the terrain (idiom); (fig.) the whole sequence of events; causes and effects"
+],
+[
+"脉搏",
+7,
+"mài bó",
+"pulse (both medical and figurative)"
+],
+[
+"脉络",
+7,
+"mài luò",
+"arteries and veins; network of blood vessels; vascular system (of a plant or animal); (fig.) fabric (i.e. underlying structure, as in \"social fabric\"); overall context"
+],
+[
+"血脉",
+7,
+"xuè mài",
+"blood vessels"
 ]
 ],
 "extraWords": [
@@ -31,6 +43,36 @@
 22.47,
 "jìng mài",
 "vein"
+],
+[
+"脉",
+21.55,
+"mài",
+"old variant of 脉[mài]"
+],
+[
+"脉",
+21.55,
+"mài",
+"arteries and veins; vein (on a leaf, insect wing etc)"
+],
+[
+"脉",
+21.55,
+"mò",
+"see 脉脉[mò mò]"
+],
+[
+"脉",
+21.55,
+"mài",
+"variant of 脉[mài]"
+],
+[
+"动脉瘤",
+5.57,
+"???",
+"???"
 ],
 [
 "冠状动脉",

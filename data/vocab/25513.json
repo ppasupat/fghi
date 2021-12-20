@@ -1,31 +1,38 @@
 {
 "char": "掩",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "to cover (with the hand); shut, conceal; ambush",
 "pron": "yǎn"
 },
 "words": [
 [
-"掩护",
-6,
-"yǎn hù",
-"to screen; to shield; to cover; protection; cover; CL:面[mian4]"
-],
-[
 "掩盖",
-6,
+7,
 "yǎn gài",
 "to conceal; to hide behind; to cover up"
 ],
 [
+"掩护",
+7,
+"yǎn hù",
+"to screen; to shield; to cover; protection; cover; CL:面[miàn]"
+],
+[
 "掩饰",
-6,
+7,
 "yǎn shì",
 "to cover up; to conceal; to mask; to gloss over"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"掩",
+8.7,
+"yǎn",
+"to cover up; to close; to surprise"
+]
+],
 "strokes": [
 "M 323 550 Q 336 556 353 560 Q 381 570 386 575 Q 395 585 389 592 Q 380 604 350 607 Q 337 608 325 605 L 277 588 Q 187 555 133 543 Q 97 533 126 519 Q 172 498 226 520 Q 250 529 276 536 L 323 550 Z",
 "M 273 365 Q 270 272 269 154 Q 269 130 256 121 Q 253 121 199 129 Q 169 142 171 133 Q 172 126 190 110 Q 241 61 253 34 Q 266 3 280 0 Q 293 -1 309 32 Q 328 75 329 146 Q 322 275 321 403 L 321 429 Q 321 490 323 550 L 325 605 Q 335 738 345 767 Q 361 795 308 817 Q 277 835 257 829 Q 241 822 256 800 Q 275 775 277 742 Q 278 726 277 588 L 276 536 Q 275 478 273 402 L 273 365 Z",

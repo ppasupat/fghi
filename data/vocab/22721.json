@@ -1,6 +1,6 @@
 {
 "char": "壁",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "partition wall; walls of a house",
 "pron": "bì"
@@ -13,18 +13,30 @@
 "next door; neighbor"
 ],
 [
-"悬崖峭壁",
-6,
-"xuán yá qiào bì",
-"sheer cliffs and precipitous rock faces (idiom)"
+"墙壁",
+5,
+"qiáng bì",
+"wall"
+],
+[
+"壁画",
+7,
+"bì huà",
+"mural (painting); fresco"
+],
+[
+"戈壁",
+7,
+"Gē bì",
+"Gobi (desert)"
 ]
 ],
 "extraWords": [
 [
-"墙壁",
-10.24,
-"qiáng bì",
-"wall"
+"壁",
+28.96,
+"bì",
+"wall; rampart"
 ],
 [
 "壁橱",

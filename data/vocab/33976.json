@@ -1,19 +1,32 @@
 {
 "char": "蒸",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "steam; evaporate",
 "pron": "zhēng"
 },
 "words": [
 [
-"蒸发",
-6,
-"zhēng fā",
-"to evaporate; evaporation"
+"蒸",
+7,
+"zhēng",
+"to evaporate; (of cooking) to steam; torch made from hemp stalks or bamboo (old); finely chopped firewood (old)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"蒸发",
+5.83,
+"zhēng fā",
+"to evaporate; evaporation"
+],
+[
+"蒸汽",
+5.0,
+"zhēng qì",
+"steam"
+]
+],
 "strokes": [
 "M 616 676 Q 721 689 824 682 Q 839 681 843 690 Q 847 700 835 714 Q 793 753 694 729 Q 664 725 634 718 L 586 709 Q 513 699 433 686 L 391 681 Q 307 671 214 660 Q 186 657 205 643 Q 244 619 312 631 Q 355 644 398 651 L 436 658 Q 442 664 576 673 L 616 676 Z",
 "M 433 686 Q 429 735 426 770 Q 427 789 408 794 Q 368 812 348 805 Q 332 796 346 778 Q 374 742 391 681 L 398 651 Q 404 621 419 603 Q 432 593 436 604 Q 443 625 436 658 L 433 686 Z",

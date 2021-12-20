@@ -1,97 +1,199 @@
 {
 "char": "入",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "enter, come in(to), join",
 "pron": "rù"
 },
 "words": [
 [
-"收入",
-4,
-"shōu rù",
-"to take in; income; revenue; CL:筆|笔[bi3],個|个[ge4]"
+"进入",
+2,
+"jìn rù",
+"to enter; to join; to go into"
 ],
 [
 "入口",
-4,
+2,
 "rù kǒu",
 "entrance; to import"
 ],
 [
+"收入",
+2,
+"shōu rù",
+"to take in; income; revenue; CL:笔[bǐ],个[gè]"
+],
+[
+"深入",
+3,
+"shēn rù",
+"to penetrate deeply; thorough"
+],
+[
+"输入",
+3,
+"shū rù",
+"to import; to input"
+],
+[
+"加入",
+4,
+"jiā rù",
+"to become a member; to join; to mix into; to participate in; to add in"
+],
+[
+"列入",
+4,
+"liè rù",
+"to include on a list"
+],
+[
 "投入",
-5,
+4,
 "tóu rù",
 "to throw into; to put into; to throw oneself into; to participate in; to invest in; absorbed; engrossed"
 ],
 [
-"输入",
+"入门",
 5,
-"shū rù",
-"to import; to input"
+"rù mén",
+"entrance door; to enter a door; introduction (to a subject); to learn the basics of a subject"
+],
+[
+"出入",
+6,
+"chū rù",
+"to go out and come in; entrance and exit; expenditure and income; discrepancy; inconsistent"
+],
+[
+"融入",
+6,
+"róng rù",
+"to blend into; to integrate; to assimilate; to merge"
+],
+[
+"入",
+6,
+"rù",
+"to enter; to go into; to join; to become a member of; to confirm or agree with; abbr. for 入声[rù shēng]"
+],
+[
+"入学",
+6,
+"rù xué",
+"to enter a school or college; to go to school for the first time as a child"
 ],
 [
 "陷入",
 6,
 "xiàn rù",
 "to sink into; to get caught up in; to land in (a predicament)"
-]
-],
-"extraWords": [
-[
-"进入",
-327.12,
-"jìn rù",
-"to enter; to join; to go into"
 ],
 [
-"加入",
-110.31,
-"jiā rù",
-"to become a member; to join; to mix into; to participate in; to add in"
+"步入",
+7,
+"bù rù",
+"to step into; to enter"
 ],
 [
-"深入",
-91.56,
-"shēn rù",
-"to penetrate deeply; thorough"
-],
-[
-"纳入",
-29.75,
-"nà rù",
-"to bring into; to channel into; to integrate into; to incorporate"
+"格格不入",
+7,
+"gé gé bù rù",
+"(idiom) inharmonious; incompatible"
 ],
 [
 "介入",
-26.68,
+7,
 "jiè rù",
 "to intervene; to get involved"
 ],
 [
-"列入",
-23.19,
-"liè rù",
-"to include on a list"
+"卷入",
+7,
+"juǎn rù",
+"to be drawn into; to be involved in"
 ],
 [
-"注入",
-21.78,
-"zhù rù",
-"to pour into; to empty into"
+"流入",
+7,
+"liú rù",
+"to flow into; to drift into; influx; inflow"
+],
+[
+"纳入",
+7,
+"nà rù",
+"to bring into; to channel into; to integrate into; to incorporate"
+],
+[
+"入场",
+7,
+"rù chǎng",
+"to enter the venue for a meeting; to enter into an examination; to enter a stadium, arena etc"
+],
+[
+"入场券",
+7,
+"rù chǎng quàn",
+"admission ticket"
+],
+[
+"入境",
+7,
+"rù jìng",
+"to enter a country"
+],
+[
+"入侵",
+7,
+"rù qīn",
+"to invade"
+],
+[
+"入手",
+7,
+"rù shǒu",
+"to begin; to set one's hand to"
+],
+[
+"入选",
+7,
+"rù xuǎn",
+"to be chosen; to be elected as"
+],
+[
+"深入人心",
+7,
+"shēn rù rén xīn",
+"to enter deeply into people's hearts; to have a real impact on the people (idiom)"
+],
+[
+"引人入胜",
+7,
+"yǐn rén rù shèng",
+"to enchant; fascinating"
 ],
 [
 "引入",
-21.66,
+7,
 "yǐn rù",
 "to draw into; to pull into; to introduce"
 ],
 [
-"入侵",
-20.09,
-"rù qīn",
-"to invade"
+"涌入",
+7,
+"yǒng rù",
+"to come pouring in; influx"
 ],
+[
+"注入",
+7,
+"zhù rù",
+"to pour into; to empty into"
+]
+],
+"extraWords": [
 [
 "买入",
 17.33,
@@ -105,52 +207,10 @@
 "to intrude; to charge in; to gate-crash"
 ],
 [
-"入选",
-14.32,
-"rù xuǎn",
-"to be chosen; to be elected as"
-],
-[
-"入手",
-14.31,
-"rù shǒu",
-"to begin; to set one's hand to"
-],
-[
-"步入",
-13.14,
-"bù rù",
-"to step into; to enter"
-],
-[
-"流入",
-13.09,
-"liú rù",
-"to flow into; to drift into; influx; inflow"
-],
-[
-"入学",
-12.69,
-"rù xué",
-"to enter a school or college; to go to school for the first time as a child"
-],
-[
-"融入",
-11.8,
-"róng rù",
-"to blend into; to integrate; to assimilate; to merge"
-],
-[
 "侵入",
 11.77,
 "qīn rù",
 "to make (military) incursions; to invade; to intrude into; to trespass; to gain unauthorized access (computing)"
-],
-[
-"卷入",
-10.94,
-"juǎn rù",
-"to be drawn into; to be involved in"
 ],
 [
 "转入",
@@ -159,10 +219,34 @@
 "change over to; shift to; switch to"
 ],
 [
+"入市",
+10.45,
+"???",
+"???"
+],
+[
+"财政收入",
+10.17,
+"???",
+"???"
+],
+[
 "入院",
 9.94,
 "rù yuàn",
 "to enter hospital; to be hospitalized"
+],
+[
+"倒入",
+9.84,
+"???",
+"???"
+],
+[
+"打入",
+9.62,
+"???",
+"???"
 ],
 [
 "入围",
@@ -183,12 +267,6 @@
 "low income"
 ],
 [
-"出入",
-8.88,
-"chū rù",
-"to go out and come in; entrance and exit; expenditure and income; discrepancy; inconsistent"
-],
-[
 "入股",
 8.68,
 "rù gǔ",
@@ -204,13 +282,19 @@
 "入世",
 8.45,
 "rù shì",
-"to engage with secular society; to involve oneself in human affairs; to join the WTO (abbr. for 加入世界貿易組織|加入世界贸易组织[jia1 ru4 Shi4 jie4 Mao4 yi4 Zu3 zhi1])"
+"to engage with secular society; to involve oneself in human affairs; to join the WTO (abbr. for 加入世界贸易组织[jiā rù Shì jiè Mào yì Zǔ zhī])"
 ],
 [
 "插入",
 8.37,
 "chā rù",
 "to insert; to stick; to thrust"
+],
+[
+"入室",
+8.05,
+"???",
+"???"
 ],
 [
 "植入",
@@ -229,18 +313,6 @@
 7.33,
 "rù yù",
 "to go to jail; to be sent to prison"
-],
-[
-"入境",
-7.23,
-"rù jìng",
-"to enter a country"
-],
-[
-"入门",
-6.73,
-"rù mén",
-"entrance door; to enter a door; introduction (to a subject); to learn the basics of a subject"
 ],
 [
 "吸入",
@@ -285,16 +357,16 @@
 "annual income"
 ],
 [
-"涌入",
-5.49,
-"yǒng rù",
-"to come pouring in; influx"
+"出入境",
+5.24,
+"???",
+"???"
 ],
 [
-"入场",
-5.45,
-"rù chǎng",
-"to enter the venue for a meeting; to enter into an examination; to enter a stadium, arena etc"
+"纯收入",
+5.21,
+"???",
+"???"
 ],
 [
 "落入",

@@ -1,6 +1,6 @@
 {
 "char": "虹",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "rainbow",
 "pron": "hóng, jiàng"
@@ -8,12 +8,18 @@
 "words": [
 [
 "彩虹",
-5,
+7,
 "cǎi hóng",
-"rainbow; CL:道[dao4]"
+"rainbow; CL:道[dào]"
 ]
 ],
 "extraWords": [
+[
+"虹",
+10.25,
+"hóng",
+"rainbow"
+],
 [
 "长虹",
 9.09,

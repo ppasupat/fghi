@@ -1,6 +1,6 @@
 {
 "char": "叫",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "cry, shout; hail, greet, call",
 "pron": "jiào"
@@ -16,7 +16,25 @@
 "叫",
 1,
 "jiào",
-"variant of 叫[jiao4]"
+"variant of 叫[jiào]"
+],
+[
+"叫作",
+2,
+"jiào zuò",
+"to call; to be called"
+],
+[
+"叫板",
+7,
+"jiào bǎn",
+"to signal the musicians (in Chinese opera, by prolonging a spoken word before attacking a song); (coll.) to challenge"
+],
+[
+"叫好",
+7,
+"jiào hǎo",
+"to applaud; to cheer"
 ]
 ],
 "extraWords": [
@@ -49,6 +67,12 @@
 11.09,
 "jiào xǐng",
 "to awaken; to wake sb up; to rouse"
+],
+[
+"大叫",
+11.08,
+"???",
+"???"
 ],
 [
 "大喊大叫",

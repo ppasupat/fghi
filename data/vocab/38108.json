@@ -1,19 +1,32 @@
 {
 "char": "铜",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "copper, brass, bronze",
 "pron": "tóng"
 },
 "words": [
 [
-"铜",
+"铜牌",
 6,
+"tóng pái",
+"bronze medal; bronze plaque bearing a business name or logo etc; CL:枚[méi]"
+],
+[
+"铜",
+7,
 "tóng",
-"copper (chemistry); see also 紅銅|红铜[hong2 tong2]; CL:塊|块[kuai4]"
+"copper (chemistry); see also 红铜[hóng tóng]; CL:块[kuài]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"铜矿",
+3.21,
+"tóng kuàng",
+"copper mine; copper ore"
+]
+],
 "strokes": [
 "M 287 619 Q 368 745 392 768 Q 402 778 397 792 Q 393 805 366 828 Q 341 847 321 847 Q 302 846 310 824 Q 325 788 310 759 Q 232 591 51 390 Q 41 380 39 374 Q 35 364 49 366 Q 106 372 268 593 L 287 619 Z",
 "M 268 593 Q 304 581 371 596 Q 401 605 434 613 Q 450 617 454 621 Q 461 628 456 637 Q 449 647 419 652 Q 403 653 326 628 Q 305 624 287 619 C 258 611 239 601 268 593 Z",

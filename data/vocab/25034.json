@@ -1,12 +1,31 @@
 {
 "char": "懊",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "vexed, worried, nervous; regret",
 "pron": "ào"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"懊恼",
+2.58,
+"ào nǎo",
+"annoyed; vexed; upset"
+],
+[
+"懊悔",
+2.18,
+"ào huǐ",
+"to feel remorse; to repent; to regret"
+],
+[
+"懊",
+0.96,
+"ào",
+"to regret"
+]
+],
 "strokes": [
 "M 122 522 Q 112 458 91 396 Q 79 363 103 334 Q 113 318 131 335 Q 147 354 154 387 Q 164 436 158 474 Q 157 505 144 527 Q 137 534 132 534 Q 125 530 122 522 Z",
 "M 288 561 Q 319 537 354 503 Q 366 493 380 492 Q 389 493 393 505 Q 397 518 389 543 Q 385 561 357 573 Q 300 594 289 591 C 259 589 264 579 288 561 Z",

@@ -1,6 +1,6 @@
 {
 "char": "窝",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "nest; cave, den; hiding place",
 "pron": "wō"
@@ -8,7 +8,7 @@
 "words": [
 [
 "窝",
-6,
+7,
 "wō",
 "nest; pit or hollow on the human body; lair; den; place; to harbor or shelter; to hold in check; to bend; classifier for litters and broods"
 ]
@@ -19,6 +19,12 @@
 13.5,
 "bèi wō",
 "quilt wrapped around the body as a tube (traditional bedding); (contemporary) bedding; quilt; blankets; cover; bed"
+],
+[
+"窝点",
+4.6,
+"wō diǎn",
+"lair; den (of illegal activities)"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "草",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "grass, straw, thatch, herbs",
 "pron": "cǎo"
@@ -8,53 +8,83 @@
 "words": [
 [
 "草",
-3,
+2,
 "cǎo",
-"variant of 草[cao3]"
+"variant of 草[cǎo]"
 ],
 [
 "草",
-3,
+2,
 "cǎo",
-"grass; straw; manuscript; draft (of a document); careless; rough; CL:棵[ke1],撮[zuo3],株[zhu1],根[gen1]"
+"grass; straw; manuscript; draft (of a document); careless; rough; CL:棵[kē],撮[zuǒ],株[zhū],根[gēn]"
 ],
 [
 "草",
-3,
+2,
 "cào",
-"variant of 肏[cao4]"
+"variant of 肏[cào]"
 ],
 [
-"草率",
-6,
-"cǎo shuài",
-"careless; negligent; sloppy; not serious"
+"草地",
+2,
+"cǎo dì",
+"lawn; meadow; sod; turf; CL:片[piàn]"
+],
+[
+"草原",
+5,
+"cǎo yuán",
+"grassland; prairie; CL:片[piàn]"
+],
+[
+"草案",
+7,
+"cǎo àn",
+"draft (legislation, proposal etc)"
+],
+[
+"草坪",
+7,
+"cǎo píng",
+"lawn"
+],
+[
+"稻草",
+7,
+"dào cǎo",
+"rice straw"
+],
+[
+"潦草",
+7,
+"liáo cǎo",
+"careless; slovenly; illegible (of handwriting)"
+],
+[
+"奇花异草",
+7,
+"qí huā yì cǎo",
+"very rarely seen, unusual (idiom)"
 ],
 [
 "起草",
-6,
+7,
 "qǐ cǎo",
 "to make a draft; to draw up (plans)"
 ],
 [
-"草案",
-6,
-"cǎo àn",
-"draft (legislation, proposal etc)"
+"斩草除根",
+7,
+"zhǎn cǎo chú gēn",
+"to cut weeds and eliminate the roots (idiom); to destroy root and branch; to eliminate completely"
 ]
 ],
 "extraWords": [
 [
-"草原",
-14.34,
-"cǎo yuán",
-"grassland; prairie; CL:片[pian4]"
-],
-[
 "草莓",
 12.99,
 "cǎo méi",
-"strawberry; CL:顆|颗[ke1]; (Tw) hickey; love bite"
+"strawberry; CL:颗[kē]; (Tw) hickey; love bite"
 ],
 [
 "草根",
@@ -67,18 +97,6 @@
 9.85,
 "yān cǎo",
 "tobacco"
-],
-[
-"草坪",
-8.79,
-"cǎo píng",
-"lawn"
-],
-[
-"草地",
-8.54,
-"cǎo dì",
-"lawn; meadow; sod; turf; CL:片[pian4]"
 ],
 [
 "甘草",

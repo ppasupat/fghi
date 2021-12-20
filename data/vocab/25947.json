@@ -1,17 +1,30 @@
 {
 "char": "敛",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "draw back, fold back; collect",
 "pron": "liǎn"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "收敛",
-6.69,
+7,
 "shōu liǎn",
 "to dwindle; to vanish; to make vanish; to exercise restraint; to curb (one's mirth, arrogance etc); to astringe; (math.) to converge"
+]
+],
+"extraWords": [
+[
+"敛",
+6.36,
+"liǎn",
+"to hold back; to restrain; to control (oneself); to collect; Taiwan pr. [lian4]"
+],
+[
+"敛",
+6.36,
+"liàn",
+"variant of 殓[liàn]"
 ]
 ],
 "strokes": [

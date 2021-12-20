@@ -1,72 +1,96 @@
 {
 "char": "城",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "castle; city, town; municipality",
 "pron": "chéng"
 },
 "words": [
 [
-"城市",
-3,
-"chéng shì",
-"city; town; CL:座[zuo4]"
-],
-[
 "长城",
-4,
+3,
 "Cháng chéng",
 "the Great Wall"
 ],
 [
-"城堡",
-6,
-"chéng bǎo",
-"castle; rook (chess piece)"
-]
+"城",
+3,
+"chéng",
+"city walls; city; town; CL:座[zuò],道[dào],个[gè]"
 ],
-"extraWords": [
 [
-"城镇",
-39.9,
-"chéng zhèn",
-"town; cities and towns"
+"城市",
+3,
+"chéng shì",
+"city; town; CL:座[zuò]"
+],
+[
+"城里",
+5,
+"???",
+"???"
+],
+[
+"城区",
+6,
+"chéng qū",
+"city district; urban area"
 ],
 [
 "城乡",
-30.78,
+6,
 "chéng xiāng",
 "city and countryside"
 ],
 [
-"城区",
-25.63,
-"chéng qū",
-"city district; urban area"
+"城镇",
+6,
+"chéng zhèn",
+"town; cities and towns"
+],
+[
+"商城",
+6,
+"Shāng chéng",
+"see 商城县[Shāng chéng xiàn]"
+],
+[
+"商城",
+6,
+"shāng chéng",
+"shopping center; department store"
+],
+[
+"城墙",
+7,
+"chéng qiáng",
+"city wall"
+],
+[
+"众志成城",
+7,
+"zhòng zhì chéng chéng",
+"unity of will is an impregnable stronghold (idiom)"
+]
+],
+"extraWords": [
+[
+"城堡",
+20.72,
+"chéng bǎo",
+"castle; rook (chess piece)"
 ],
 [
 "费城",
 14.1,
 "Fèi chéng",
-"Philadelphia, Pennsylvania; abbr. for 費拉德爾菲亞|费拉德尔菲亚[Fei4 la1 de2 er3 fei1 ya4]"
+"Philadelphia, Pennsylvania; abbr. for 费拉德尔菲亚[Fèi lā dé ěr fēi yà]"
 ],
 [
 "县城",
 13.88,
 "xiàn chéng",
 "county seat; county town"
-],
-[
-"商城",
-13.18,
-"Shāng chéng",
-"see 商城縣|商城县[Shang1 cheng2 xian4]"
-],
-[
-"商城",
-13.18,
-"shāng chéng",
-"shopping center; department store"
 ],
 [
 "城市化",
@@ -78,7 +102,7 @@
 "汉城",
 10.05,
 "Hàn chéng",
-"Hanseong, former name of Seoul (capital of South Korea), replaced in 2005 with 首爾|首尔[Shou3 er3]"
+"Hanseong, former name of Seoul (capital of South Korea), replaced in 2005 with 首尔[Shǒu ěr]"
 ],
 [
 "进城",
@@ -93,10 +117,10 @@
 "ancient city"
 ],
 [
-"城墙",
-7.94,
-"chéng qiáng",
-"city wall"
+"城建",
+6.46,
+"???",
+"???"
 ],
 [
 "省城",
@@ -105,10 +129,22 @@
 "provincial capital"
 ],
 [
+"影城",
+5.98,
+"???",
+"???"
+],
+[
 "城门",
 5.53,
 "chéng mén",
 "city gate"
+],
+[
+"大中城市",
+5.29,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,17 +1,48 @@
 {
 "char": "戈",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "halberd, spear, lance; rad. 62",
 "pron": "gē"
 },
-"words": [],
+"words": [
+[
+"干戈",
+7,
+"gān gē",
+"weapons of war; arms"
+],
+[
+"戈壁",
+7,
+"Gē bì",
+"Gobi (desert)"
+]
+],
 "extraWords": [
+[
+"戈",
+8.75,
+"Gē",
+"surname Ge"
+],
+[
+"戈",
+8.75,
+"gē",
+"dagger-axe; abbr. for 戈瑞[gē ruì]; (Tw) abbr. for 戈雷[gē léi]"
+],
 [
 "探戈",
 7.57,
 "tàn gē",
 "tango (dance) (loanword)"
+],
+[
+"戈登",
+6.02,
+"???",
+"???"
 ]
 ],
 "strokes": [

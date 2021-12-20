@@ -1,11 +1,24 @@
 {
 "char": "脊",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "spine, backbone; ridge",
 "pron": "jǐ"
 },
-"words": [],
+"words": [
+[
+"脊梁",
+7,
+"jǐ liáng",
+"backbone; spine; Taiwan pr. [ji3 liang5]"
+],
+[
+"脊梁",
+7,
+"jǐ liang",
+"(coll.) back (of a human or other vertebrate)"
+]
+],
 "extraWords": [
 [
 "脊髓",

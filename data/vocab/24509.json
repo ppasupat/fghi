@@ -1,17 +1,30 @@
 {
 "char": "徽",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "a badge, insignia",
 "pron": "huī"
 },
-"words": [],
+"words": [
+[
+"国徽",
+7,
+"Guó huī",
+"the national emblem of the PRC (a red circle containing the five stars of the PRC flag over Tiananmen 天安门[Tiān ān mén])"
+],
+[
+"国徽",
+7,
+"guó huī",
+"national emblem; national coat of arms"
+]
+],
 "extraWords": [
 [
 "安徽",
 24.0,
 "Ān huī",
-"Anhui Province (Anhwei) in south central China, abbr. 皖[Wan3], capital Hefei 合肥[He2 fei2]"
+"Anhui Province (Anhwei) in south central China, abbr. 皖[Wǎn], capital Hefei 合肥[Hé féi]"
 ],
 [
 "徽章",
@@ -23,13 +36,25 @@
 "安徽省",
 9.56,
 "Ān huī Shěng",
-"Anhui Province (Anhwei) in south central China, abbr. 皖[Wan3], capital Hefei 合肥[He2 fei2]"
+"Anhui Province (Anhwei) in south central China, abbr. 皖[Wǎn], capital Hefei 合肥[Hé féi]"
 ],
 [
 "警徽",
 8.53,
 "jǐng huī",
 "police badge"
+],
+[
+"徽",
+6.46,
+"huī",
+"old variant of 徽[huī]"
+],
+[
+"徽",
+6.46,
+"huī",
+"badge; emblem; insignia; crest; logo; coat of arms"
 ]
 ],
 "strokes": [

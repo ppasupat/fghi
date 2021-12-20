@@ -1,44 +1,98 @@
 {
 "char": "团",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "sphere, ball, circle; mass, lump",
 "pron": "tuán"
 },
 "words": [
 [
+"代表团",
+3,
+"dài biǎo tuán",
+"delegation; CL:个[gè]"
+],
+[
 "团",
-5,
+3,
 "tuán",
 "round; lump; ball; to roll into a ball; to gather; regiment; group; society; classifier for a lump or a soft mass: wad (of paper), ball (of wool), cloud (of smoke)"
 ],
 [
 "团",
-5,
+3,
 "tuán",
 "dumpling"
 ],
 [
-"集团",
-6,
-"jí tuán",
-"group; bloc; corporation; conglomerate"
-],
-[
 "团结",
-6,
+3,
 "tuán jié",
 "to unite; unity; solidarity; united"
 ],
 [
 "团体",
-6,
+3,
 "tuán tǐ",
-"group; organization; team; CL:個|个[ge4]"
+"group; organization; team; CL:个[gè]"
+],
+[
+"集团",
+5,
+"jí tuán",
+"group; bloc; corporation; conglomerate"
+],
+[
+"团长",
+5,
+"tuán zhǎng",
+"regimental command; head of a delegation"
+],
+[
+"团队",
+6,
+"tuán duì",
+"team"
+],
+[
+"剧团",
+7,
+"jù tuán",
+"theatrical troupe"
+],
+[
+"谜团",
+7,
+"mí tuán",
+"riddle; enigma; unpredictable situation; elusive matters"
+],
+[
+"社团",
+7,
+"shè tuán",
+"association; society; group; union; club; organization"
+],
+[
+"团伙",
+7,
+"tuán huǒ",
+"(criminal) gang; gang member; accomplice; crony"
+],
+[
+"团聚",
+7,
+"tuán jù",
+"to reunite; to have a reunion"
+],
+[
+"团员",
+7,
+"tuán yuán",
+"member; group member"
 ],
 [
 "团圆",
-6,
+7,
 "tuán yuán",
 "to have a reunion"
 ]
@@ -51,34 +105,10 @@
 "jury"
 ],
 [
-"团队",
-41.05,
-"tuán duì",
-"team"
-],
-[
-"代表团",
-39.39,
-"dài biǎo tuán",
-"delegation; CL:個|个[ge4]"
-],
-[
 "一团糟",
 27.72,
 "yī tuán zāo",
 "chaos; bungle; complete mess; shambles"
-],
-[
-"团伙",
-14.65,
-"tuán huǒ",
-"(criminal) gang; gang member; accomplice; crony"
-],
-[
-"团长",
-13.94,
-"tuán zhǎng",
-"regimental command; head of a delegation"
 ],
 [
 "马戏团",
@@ -87,28 +117,22 @@
 "circus"
 ],
 [
+"集团公司",
+11.56,
+"???",
+"???"
+],
+[
+"组团",
+8.38,
+"???",
+"???"
+],
+[
 "军团",
 8.35,
 "jūn tuán",
 "corps; legion"
-],
-[
-"社团",
-7.92,
-"shè tuán",
-"association; society; group; union; club; organization"
-],
-[
-"团聚",
-6.62,
-"tuán jù",
-"to reunite; to have a reunion"
-],
-[
-"团员",
-6.3,
-"tuán yuán",
-"member; group member"
 ],
 [
 "企业集团",
@@ -126,7 +150,7 @@
 "共青团",
 5.28,
 "Gòng qīng tuán",
-"the Communist Youth League, abbr. for 共產主義青年團|共产主义青年团[Gong4 chan3 zhu3 yi4 Qing1 nian2 tuan2]"
+"the Communist Youth League, abbr. for 共产主义青年团[Gòng chǎn zhǔ yì Qīng nián tuán]"
 ]
 ],
 "strokes": [

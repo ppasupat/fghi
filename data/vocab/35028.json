@@ -1,19 +1,32 @@
 {
 "char": "裔",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "progeny, descendants, posterity",
 "pron": "yì"
 },
 "words": [
 [
+"后裔",
+7,
+"hòu yì",
+"descendant"
+],
+[
 "华裔",
-5,
+7,
 "Huá yì",
 "ethnic Chinese; non-Chinese citizen of Chinese ancestry"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"裔",
+8.35,
+"yì",
+"descendants; frontier"
+]
+],
 "strokes": [
 "M 477 825 Q 505 806 536 782 Q 549 772 564 774 Q 574 775 577 788 Q 580 801 569 828 Q 557 856 467 868 Q 454 869 448 867 Q 444 863 446 851 Q 450 841 477 825 Z",
 "M 463 693 Q 703 730 721 742 Q 730 749 726 757 Q 720 769 694 776 Q 670 782 573 756 Q 405 717 262 709 Q 228 705 252 689 Q 285 664 340 674 Q 377 680 418 686 L 463 693 Z",

@@ -1,6 +1,6 @@
 {
 "char": "钞",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "paper money, bank notes; copy",
 "pron": "chāo"
@@ -8,12 +8,25 @@
 "words": [
 [
 "钞票",
-6,
+7,
 "chāo piào",
-"paper money; a bill (e.g. 100 yuan); CL:張|张[zhang1],紮|扎[za1]"
+"paper money; a bill (e.g. 100 yuan); CL:张[zhāng],扎[zā]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"钞",
+7.04,
+"chāo",
+"money; paper money; variant of 抄[chāo]"
+],
+[
+"运钞车",
+2.12,
+"yùn chāo chē",
+"armored car (for transporting valuables)"
+]
+],
 "strokes": [
 "M 248 516 Q 252 525 260 532 Q 309 596 343 653 L 361 684 Q 368 711 406 760 Q 413 772 406 787 Q 373 841 338 841 Q 322 841 327 819 Q 354 684 87 395 Q 48 359 47 349 Q 47 343 53 344 Q 63 345 72 351 Q 139 396 171 430 Q 205 464 236 502 L 248 516 Z",
 "M 343 653 Q 385 641 425 655 Q 461 664 498 673 Q 514 677 517 681 Q 524 688 520 697 Q 513 707 483 713 Q 455 716 426 702 Q 414 698 361 684 C 332 676 314 661 343 653 Z",

@@ -1,16 +1,16 @@
 {
 "char": "抗",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "resist, oppose, defy, reject",
 "pron": "kàng"
 },
 "words": [
 [
-"反抗",
+"抵抗",
 6,
-"fǎn kàng",
-"to resist; to rebel"
+"dǐ kàng",
+"to resist; resistance"
 ],
 [
 "对抗",
@@ -19,19 +19,49 @@
 "to withstand; to resist; to stand off; antagonism; confrontation"
 ],
 [
+"反抗",
+6,
+"fǎn kàng",
+"to resist; to rebel"
+],
+[
 "抗议",
 6,
 "kàng yì",
 "to protest; protest"
 ],
 [
-"抵抗",
-6,
-"dǐ kàng",
-"to resist; resistance"
+"抗衡",
+7,
+"kàng héng",
+"to compete with; to vie with; to counter"
+],
+[
+"抗拒",
+7,
+"kàng jù",
+"to resist; to defy; to oppose"
+],
+[
+"抗生素",
+7,
+"kàng shēng sù",
+"antibiotic"
+],
+[
+"抗争",
+7,
+"kàng zhēng",
+"to resist; to make a stand and fight (against)"
 ]
 ],
 "extraWords": [
+[
+"抗",
+98.11,
+"kàng",
+"to resist; to fight; to defy; anti-"
+],
 [
 "抗体",
 17.43,
@@ -43,12 +73,6 @@
 12.24,
 "kàng zhàn",
 "war of resistance, especially the war against Japan (1937-1945)"
-],
-[
-"抗生素",
-12.13,
-"kàng shēng sù",
-"antibiotic"
 ],
 [
 "抗原",
@@ -67,18 +91,6 @@
 7.75,
 "kàng hàn",
 "drought-resistant; to weather a drought"
-],
-[
-"抗拒",
-7.66,
-"kàng jù",
-"to resist; to defy; to oppose"
-],
-[
-"抗争",
-6.71,
-"kàng zhēng",
-"to resist; to make a stand and fight (against)"
 ],
 [
 "抗菌",

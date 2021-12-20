@@ -1,11 +1,17 @@
 {
 "char": "奏",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "memorialize emperor; report",
 "pron": "zòu"
 },
 "words": [
+[
+"节奏",
+6,
+"jié zòu",
+"rhythm; tempo; musical pulse; cadence; beat"
+],
 [
 "演奏",
 6,
@@ -13,20 +19,25 @@
 "to perform on a musical instrument"
 ],
 [
-"节奏",
+"奏",
 6,
-"jié zòu",
-"rhythm; tempo; musical pulse; cadence; beat"
-]
+"zòu",
+"to play music; to achieve; to present a memorial to the emperor (old)"
 ],
-"extraWords": [
+[
+"伴奏",
+7,
+"bàn zòu",
+"to accompany (musically)"
+],
 [
 "奏效",
-7.27,
+7,
 "zòu xiào",
 "to show results; effective"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 511 678 Q 572 691 639 702 Q 697 715 706 722 Q 715 729 710 737 Q 704 747 678 756 Q 650 762 623 752 Q 572 736 521 722 L 461 707 Q 391 697 309 689 Q 275 685 299 669 Q 335 645 388 656 Q 419 662 455 668 L 511 678 Z",
 "M 481 559 Q 529 569 648 586 Q 657 585 665 596 Q 666 606 646 616 Q 619 635 541 611 Q 517 607 496 601 Q 492 600 490 599 L 438 588 Q 410 584 385 580 Q 348 576 308 570 Q 283 566 302 551 Q 332 530 370 537 Q 395 543 426 549 L 481 559 Z",

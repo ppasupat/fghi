@@ -1,19 +1,31 @@
 {
 "char": "疙",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "pimple, sore, boil, wart, pustule",
 "pron": "gē"
 },
-"words": [
+"words": [],
+"extraWords": [
+[
+"鸡皮疙瘩",
+3.58,
+"jī pí gē da",
+"goose pimples; goose bumps"
+],
 [
 "疙瘩",
-6,
+3.03,
 "gē da",
 "swelling or lump on skin; pimple; knot; preoccupation; problem"
+],
+[
+"疙瘩汤",
+0.16,
+"???",
+"???"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 497 790 Q 530 769 564 744 Q 580 734 595 736 Q 605 737 609 752 Q 612 768 598 796 Q 589 815 556 826 Q 474 844 464 835 Q 460 831 462 818 Q 468 808 497 790 Z",
 "M 363 609 Q 400 602 496 616 Q 751 658 773 665 Q 785 669 789 672 Q 799 681 795 690 Q 788 703 755 714 Q 727 720 607 688 Q 495 661 358 649 C 328 646 333 613 363 609 Z",

@@ -1,6 +1,6 @@
 {
 "char": "痊",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "be healed, be cured; recover",
 "pron": "quán"
@@ -12,6 +12,18 @@
 9.13,
 "quán yù",
 "to recover completely (from illness or injury)"
+],
+[
+"痊愈率",
+0.23,
+"???",
+"???"
+],
+[
+"痊",
+0.18,
+"quán",
+"to recover (from illness)"
 ]
 ],
 "strokes": [

@@ -1,24 +1,30 @@
 {
 "char": "膨",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "to swell; swollen, bloated, inflated",
 "pron": "péng"
 },
 "words": [
 [
-"通货膨胀",
-6,
-"tōng huò péng zhàng",
-"inflation"
+"膨胀",
+7,
+"péng zhàng",
+"to expand; to inflate; to swell"
 ]
 ],
 "extraWords": [
 [
-"膨胀",
-10.93,
-"péng zhàng",
-"to expand; to inflate; to swell"
+"通货膨胀",
+8.47,
+"tōng huò péng zhàng",
+"inflation"
+],
+[
+"膨",
+2.12,
+"péng",
+"swollen"
 ]
 ],
 "strokes": [

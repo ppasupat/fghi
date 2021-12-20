@@ -1,6 +1,6 @@
 {
 "char": "己",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "self, oneself; personal, private; 6th heavenly stem",
 "pron": "jǐ"
@@ -8,23 +8,35 @@
 "words": [
 [
 "自己",
-3,
+2,
 "zì jǐ",
 "oneself; one's own"
 ],
 [
-"各抒己见",
-6,
-"gè shū jǐ jiàn",
-"everyone gives their own view"
+"身不由己",
+7,
+"shēn bù yóu jǐ",
+"without the freedom to act independently (idiom); involuntary; not of one's own volition; in spite of oneself"
+],
+[
+"损人利己",
+7,
+"sǔn rén lì jǐ",
+"harming others for one's personal benefit (idiom); personal gain to the detriment of others"
+],
+[
+"知己",
+7,
+"zhī jǐ",
+"to know oneself; to be intimate or close; intimate friend"
 ]
 ],
 "extraWords": [
 [
-"知己",
-7.29,
-"zhī jǐ",
-"to know oneself; to be intimate or close; intimate friend"
+"己",
+22.59,
+"jǐ",
+"self; oneself; sixth of the ten Heavenly Stems 十天干[shí tiān gān]; sixth in order; letter \"F\" or Roman \"VI\" in list \"A, B, C\", or \"I, II, III\" etc; hexa"
 ]
 ],
 "strokes": [

@@ -1,11 +1,17 @@
 {
 "char": "突",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "suddenly, abruptly, unexpectedly",
 "pron": "tū"
 },
 "words": [
+[
+"突出",
+3,
+"tū chū",
+"prominent; outstanding; to give prominence to; to protrude; to project"
+],
 [
 "突然",
 3,
@@ -13,36 +19,48 @@
 "sudden; abrupt; unexpected"
 ],
 [
-"突出",
-5,
-"tū chū",
-"prominent; outstanding; to give prominence to; to protrude; to project"
-],
-[
 "冲突",
-6,
+5,
 "chōng tū",
 "conflict; to conflict; clash of opposing forces; collision (of interests); contention"
 ],
 [
 "突破",
-6,
+5,
 "tū pò",
 "to break through; to make a breakthrough; to surmount (an obstacle); (sports) to break through the opponent's defense"
-]
 ],
-"extraWords": [
 [
 "突发",
-17.06,
+7,
 "tū fā",
 "to burst out suddenly; sudden outburst"
 ],
 [
 "突击",
-11.64,
+7,
 "tū jī",
 "sudden and violent attack; assault; fig. rushed job; concentrated effort to finish a job quickly"
+],
+[
+"突破口",
+7,
+"tū pò kǒu",
+"breach; gap; breakthrough point"
+],
+[
+"突如其来",
+7,
+"tū rú qí lái",
+"to arise abruptly; to arrive suddenly; happening suddenly"
+]
+],
+"extraWords": [
+[
+"突",
+25.02,
+"tū",
+"to dash; to move forward quickly; to bulge; to protrude; to break through; to rush out; sudden; Taiwan pr. [tu2]"
 ],
 [
 "突变",
@@ -55,12 +73,6 @@
 6.04,
 "tū rán jiān",
 "suddenly"
-],
-[
-"突破口",
-5.98,
-"tū pò kǒu",
-"breach; gap; breakthrough point"
 ],
 [
 "突袭",

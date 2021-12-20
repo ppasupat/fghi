@@ -1,6 +1,6 @@
 {
 "char": "媒",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "go-between, matchmaker; medium",
 "pron": "méi"
@@ -8,29 +8,35 @@
 "words": [
 [
 "媒体",
-5,
+3,
 "méi tǐ",
 "media, esp. news media"
 ],
 [
-"媒介",
-6,
-"méi jiè",
-"intermediary; vehicle; vector; medium; media"
-]
-],
-"extraWords": [
-[
 "传媒",
-24.03,
+6,
 "chuán méi",
 "media"
 ],
 [
 "多媒体",
-15.38,
+6,
 "duō méi tǐ",
 "multimedia"
+]
+],
+"extraWords": [
+[
+"媒",
+8.99,
+"méi",
+"medium; intermediary; matchmaker; go-between; abbr. for 媒体[méi tǐ], media, esp. news media"
+],
+[
+"媒介",
+7.45,
+"méi jiè",
+"intermediary; vehicle; vector; medium; media"
 ]
 ],
 "strokes": [

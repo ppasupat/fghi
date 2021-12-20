@@ -1,12 +1,31 @@
 {
 "char": "茁",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "to sprout, flourish; sprouts appearing above-ground; vigorous",
 "pron": "zhuó"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"茁壮成长",
+1.29,
+"???",
+"???"
+],
+[
+"茁壮",
+0.73,
+"zhuó zhuàng",
+"healthy and strong; sturdy; thriving; vigorous; robust; flourishing"
+],
+[
+"茁",
+0.42,
+"zhuó",
+"to display vigorous, new growth; to sprout"
+]
+],
 "strokes": [
 "M 651 676 Q 705 685 826 677 Q 841 676 846 685 Q 852 695 839 710 Q 794 752 701 731 Q 685 730 671 726 L 612 717 Q 521 705 420 692 L 371 687 Q 296 681 215 673 Q 187 670 206 655 Q 248 630 317 640 Q 347 647 380 653 L 423 660 Q 456 669 602 675 L 651 676 Z",
 "M 420 692 Q 416 726 415 752 Q 416 771 396 778 Q 356 796 335 789 Q 317 780 332 761 Q 360 727 371 687 L 380 653 Q 392 592 407 576 Q 420 566 425 577 Q 428 586 423 660 L 420 692 Z",

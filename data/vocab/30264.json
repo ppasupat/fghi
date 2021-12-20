@@ -1,19 +1,31 @@
 {
 "char": "瘸",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "lameness, paralysis of hands, leg",
 "pron": "qué"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "瘸",
-6,
+3.31,
 "qué",
 "lame"
+],
+[
+"瘸子",
+2.71,
+"qué zi",
+"lame person (colloquial)"
+],
+[
+"瘸腿",
+0.86,
+"qué tuǐ",
+"crippled; lame; a cripple; a lame person"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 517 814 Q 541 798 566 775 Q 579 765 595 766 Q 605 767 609 780 Q 612 795 601 823 Q 589 847 509 860 Q 493 861 488 859 Q 484 855 486 843 Q 490 833 517 814 Z",
 "M 453 672 Q 568 691 688 710 Q 752 722 762 730 Q 769 737 766 745 Q 760 757 734 764 Q 707 771 610 742 Q 450 709 338 701 Q 334 701 334 700 C 304 696 313 679 342 672 Q 384 660 419 667 Q 423 668 428 668 L 453 672 Z",

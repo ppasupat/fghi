@@ -1,6 +1,6 @@
 {
 "char": "谋",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "plan, scheme; stratagem",
 "pron": "móu"
@@ -14,15 +14,33 @@
 ],
 [
 "参谋",
-6,
+7,
 "cān móu",
 "staff officer; to give advice"
 ],
 [
+"谋害",
+7,
+"móu hài",
+"to conspire to murder; to plot against sb's life"
+],
+[
 "谋求",
-6,
+7,
 "móu qiú",
 "to seek; to strive for"
+],
+[
+"谋生",
+7,
+"móu shēng",
+"to seek one's livelihood; to work to support oneself; to earn a living"
+],
+[
+"足智多谋",
+7,
+"zú zhì duō móu",
+"resourceful; full of stratagems"
 ]
 ],
 "extraWords": [
@@ -37,6 +55,12 @@
 31.39,
 "móu shā àn",
 "murder case"
+],
+[
+"谋",
+19.38,
+"móu",
+"to plan; to seek; scheme"
 ],
 [
 "谋杀罪",

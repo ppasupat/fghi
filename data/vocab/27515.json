@@ -1,6 +1,6 @@
 {
 "char": "死",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "die; dead; death",
 "pron": "sǐ"
@@ -8,7 +8,7 @@
 "words": [
 [
 "死",
-4,
+3,
 "sǐ",
 "to die; impassable; uncrossable; inflexible; rigid; extremely; damned"
 ],
@@ -17,6 +17,24 @@
 6,
 "sǐ wáng",
 "to die; death"
+],
+[
+"生死",
+7,
+"shēng sǐ",
+"life or death"
+],
+[
+"死心",
+7,
+"sǐ xīn",
+"to give up; to admit failure; to drop the matter; to reconcile oneself to loss; to have no more illusions about"
+],
+[
+"死心塌地",
+7,
+"sǐ xīn tā dì",
+"to be hell-bent on; dead set on sth; unswerving"
 ]
 ],
 "extraWords": [
@@ -69,12 +87,6 @@
 "cause of death"
 ],
 [
-"生死",
-14.13,
-"shēng sǐ",
-"life or death"
-],
-[
 "坏死",
 11.04,
 "huài sǐ",
@@ -93,6 +105,12 @@
 "to drown"
 ],
 [
+"死于",
+9.66,
+"???",
+"???"
+],
+[
 "死亡率",
 9.41,
 "sǐ wáng lǜ",
@@ -103,6 +121,24 @@
 8.76,
 "zhì sǐ",
 "deadly"
+],
+[
+"吓死",
+8.64,
+"???",
+"???"
+],
+[
+"累死",
+8.21,
+"???",
+"???"
+],
+[
+"想死",
+7.99,
+"???",
+"???"
 ],
 [
 "气死",
@@ -123,10 +159,22 @@
 "an execution; to put sb to death"
 ],
 [
+"恨死",
+5.72,
+"???",
+"???"
+],
+[
 "死尸",
 5.31,
 "sǐ shī",
 "a corpse; a dead body"
+],
+[
+"毒死",
+5.16,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,11 +1,17 @@
 {
 "char": "听",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "hear; understand; obey, comply",
 "pron": "tīng"
 },
 "words": [
+[
+"好听",
+1,
+"hǎo tīng",
+"pleasant to hear"
+],
 [
 "听",
 1,
@@ -25,54 +31,114 @@
 "(literary pronunciation, still advocated in Taiwan) to rule; to sentence; to allow"
 ],
 [
-"打听",
-5,
-"dǎ ting",
-"to ask about; to make some inquiries; to ask around"
-],
-[
-"倾听",
-6,
-"qīng tīng",
-"to listen attentively"
-]
-],
-"extraWords": [
-[
-"听说",
-241.4,
-"tīng shuō",
-"to hear (sth said); one hears (that); hearsay; listening and speaking"
-],
-[
 "听到",
-199.57,
+1,
 "tīng dào",
 "to hear"
 ],
 [
 "听见",
-77.27,
+1,
 "tīng jiàn",
 "to hear"
 ],
 [
-"好听",
-28.84,
-"hǎo tīng",
-"pleasant to hear"
+"听写",
+1,
+"tīng xiě",
+"(of a pupil) to write down (in a dictation exercise); dictation; (music) to transcribe by ear"
+],
+[
+"难听",
+2,
+"nán tīng",
+"unpleasant to hear; coarse; vulgar; offensive; shameful"
+],
+[
+"听讲",
+2,
+"tīng jiǎng",
+"to attend a lecture; to listen to a talk"
+],
+[
+"听说",
+2,
+"tīng shuō",
+"to hear (sth said); one hears (that); hearsay; listening and speaking"
+],
+[
+"打听",
+3,
+"dǎ ting",
+"to ask about; to make some inquiries; to ask around"
+],
+[
+"收听",
+3,
+"shōu tīng",
+"to listen to (a radio broadcast)"
+],
+[
+"听力",
+3,
+"tīng lì",
+"hearing; listening ability"
+],
+[
+"听众",
+3,
+"tīng zhòng",
+"audience; listeners"
 ],
 [
 "听取",
-21.26,
+6,
 "tīng qǔ",
 "to hear (news); to listen to"
 ],
 [
+"动听",
+7,
+"dòng tīng",
+"pleasant to listen to"
+],
+[
+"骇人听闻",
+7,
+"hài rén tīng wén",
+"shocking; horrifying; atrocious; terrible"
+],
+[
+"接听",
+7,
+"jiē tīng",
+"to answer the phone"
+],
+[
+"倾听",
+7,
+"qīng tīng",
+"to listen attentively"
+],
+[
+"听从",
+7,
+"tīng cóng",
+"to listen and obey; to comply with; to heed; to hearken"
+],
+[
 "听话",
-13.29,
+7,
 "tīng huà",
 "to do what one is told; obedient"
+]
+],
+"extraWords": [
+[
+"听听",
+63.2,
+"???",
+"???"
 ],
 [
 "听证会",
@@ -81,28 +147,10 @@
 "(legislative) hearing"
 ],
 [
-"收听",
-11.11,
-"shōu tīng",
-"to listen to (a radio broadcast)"
-],
-[
-"听力",
-8.78,
-"tīng lì",
-"hearing; listening ability"
-],
-[
 "窃听器",
 8.41,
 "qiè tīng qì",
 "tapping device; bug"
-],
-[
-"听众",
-7.81,
-"tīng zhòng",
-"audience; listeners"
 ],
 [
 "监听",
@@ -115,12 +163,6 @@
 7.31,
 "líng tīng",
 "to listen (respectfully)"
-],
-[
-"听从",
-6.86,
-"tīng cóng",
-"to listen and obey; to comply with; to heed; to hearken"
 ],
 [
 "听起来",

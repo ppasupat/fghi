@@ -1,46 +1,94 @@
 {
 "char": "民",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "people, subjects, citizens",
 "pron": "mín"
 },
 "words": [
 [
-"民族",
-4,
-"mín zú",
-"nationality; ethnic group; CL:個|个[ge4]"
-],
-[
-"移民",
-5,
-"yí mín",
-"to immigrate; to migrate; emigrant; immigrant"
-],
-[
-"农民",
-5,
-"nóng mín",
-"peasant; farmer; CL:個|个[ge4]"
-],
-[
-"人民币",
-5,
-"rén mín bì",
-"Renminbi (RMB); Chinese Yuan (CNY)"
-],
-[
 "公民",
-6,
+3,
 "gōng mín",
 "citizen"
 ],
 [
+"民间",
+3,
+"mín jiān",
+"among the people; popular; folk; non-governmental; involving people rather than governments"
+],
+[
+"民族",
+3,
+"mín zú",
+"nationality; ethnic group; CL:个[gè]"
+],
+[
+"农民",
+3,
+"nóng mín",
+"peasant; farmer; CL:个[gè]"
+],
+[
+"人民",
+3,
+"rén mín",
+"the people; CL:个[gè]"
+],
+[
+"人民币",
+3,
+"rén mín bì",
+"Renminbi (RMB); Chinese Yuan (CNY)"
+],
+[
+"中华民族",
+3,
+"Zhōng huá mín zú",
+"the Chinese people"
+],
+[
 "居民",
-6,
+4,
 "jū mín",
 "resident; inhabitant"
+],
+[
+"移民",
+4,
+"yí mín",
+"to immigrate; to migrate; emigrant; immigrant"
+],
+[
+"国民",
+5,
+"guó mín",
+"nationals; citizens; people of a nation"
+],
+[
+"民歌",
+6,
+"mín gē",
+"folk song; CL:支[zhī],首[shǒu]"
+],
+[
+"民工",
+6,
+"mín gōng",
+"migrant worker (who moved from a rural area of China to a city to find work); temporary worker enlisted on a public project"
+],
+[
+"民警",
+6,
+"mín jǐng",
+"civil police; PRC police; abbr. for 人民警察"
+],
+[
+"民意",
+6,
+"mín yì",
+"public opinion; popular will; public will"
 ],
 [
 "民主",
@@ -49,42 +97,96 @@
 "democracy"
 ],
 [
-"殖民地",
+"市民",
 6,
-"zhí mín dì",
-"colony"
+"shì mín",
+"city resident"
 ],
 [
-"民间",
-6,
-"mín jiān",
-"among the people; popular; folk; non-governmental; involving people rather than governments"
+"股民",
+7,
+"gǔ mín",
+"stock investor; share trader"
+],
+[
+"居民楼",
+7,
+"jū mín lóu",
+"apartment building; residential tower"
+],
+[
+"民办",
+7,
+"mín bàn",
+"run by the local people; privately operated"
+],
+[
+"民俗",
+7,
+"mín sú",
+"popular custom"
+],
+[
+"民用",
+7,
+"mín yòng",
+"(for) civilian use"
+],
+[
+"民众",
+7,
+"mín zhòng",
+"populace; masses; the people"
+],
+[
+"牧民",
+7,
+"mù mín",
+"herdsman"
+],
+[
+"农民工",
+7,
+"nóng mín gōng",
+"migrant worker (who moved from a rural area of China to a city to find work)"
+],
+[
+"平民",
+7,
+"píng mín",
+"ordinary people; commoner; civilian"
+],
+[
+"网民",
+7,
+"wǎng mín",
+"web user; netizen"
+],
+[
+"选民",
+7,
+"xuǎn mín",
+"voter; constituency; electorate"
 ],
 [
 "渔民",
-6,
+7,
 "yú mín",
 "fisherman; fisher folk"
 ]
 ],
 "extraWords": [
 [
-"人民",
-353.77,
-"rén mín",
-"the people; CL:個|个[ge4]"
+"民",
+99.03,
+"Mín",
+"surname Min"
 ],
 [
-"市民",
-130.04,
-"shì mín",
-"city resident"
-],
-[
-"民警",
-72.7,
-"mín jǐng",
-"civil police; PRC police; abbr. for 人民警察"
+"民",
+99.03,
+"mín",
+"(bound form) the people; inhabitants of a country"
 ],
 [
 "村民",
@@ -99,10 +201,10 @@
 "privately run (i.e. by a company, not the state)"
 ],
 [
-"民众",
-37.82,
-"mín zhòng",
-"populace; masses; the people"
+"中国人民",
+37.68,
+"???",
+"???"
 ],
 [
 "国民党",
@@ -115,12 +217,6 @@
 30.47,
 "Zhōng huá Rén mín Gòng hé guó",
 "People's Republic of China"
-],
-[
-"农民工",
-29.24,
-"nóng mín gōng",
-"migrant worker (who moved from a rural area of China to a city to find work)"
 ],
 [
 "国民经济",
@@ -141,28 +237,10 @@
 "entire population (of a country)"
 ],
 [
-"国民",
-19.9,
-"guó mín",
-"nationals; citizens; people of a nation"
-],
-[
 "江泽民",
 18.05,
 "Jiāng Zé mín",
 "Jiang Zemin (1926-), politician, president of PRC 1993-2003"
-],
-[
-"中华民族",
-16.78,
-"Zhōng huá mín zú",
-"the Chinese people"
-],
-[
-"民工",
-16.59,
-"mín gōng",
-"migrant worker (who moved from a rural area of China to a city to find work); temporary worker enlisted on a public project"
 ],
 [
 "人民法院",
@@ -171,16 +249,10 @@
 "people's court (of law); people's tribunal"
 ],
 [
-"网民",
-15.87,
-"wǎng mín",
-"web user; netizen"
-],
-[
-"平民",
-13.68,
-"píng mín",
-"ordinary people; commoner; civilian"
+"民进",
+14.34,
+"???",
+"???"
 ],
 [
 "民事",
@@ -193,12 +265,6 @@
 13.32,
 "mín háng",
 "civil aviation"
-],
-[
-"民办",
-12.91,
-"mín bàn",
-"run by the local people; privately operated"
 ],
 [
 "民生",
@@ -219,22 +285,16 @@
 "civil administration"
 ],
 [
-"股民",
-10.92,
-"gǔ mín",
-"stock investor; share trader"
+"人民医院",
+10.8,
+"???",
+"???"
 ],
 [
 "人民日报",
 10.4,
 "Rén mín Rì bào",
 "People's Daily (PRC newspaper)"
-],
-[
-"民用",
-9.49,
-"mín yòng",
-"(for) civilian use"
 ],
 [
 "中国人民银行",
@@ -255,22 +315,10 @@
 "the Great Hall of the People in Beijing"
 ],
 [
-"选民",
-8.96,
-"xuǎn mín",
-"voter; constituency; electorate"
-],
-[
-"民意",
-8.81,
-"mín yì",
-"public opinion; popular will; public will"
-],
-[
-"民俗",
-8.79,
-"mín sú",
-"popular custom"
+"人民代表大会",
+8.97,
+"???",
+"???"
 ],
 [
 "军民",
@@ -301,6 +349,18 @@
 6.53,
 "Rén mín Yín háng",
 "People's Bank of China"
+],
+[
+"村民们",
+6.32,
+"???",
+"???"
+],
+[
+"民主党派",
+6.16,
+"???",
+"???"
 ],
 [
 "最高人民法院",

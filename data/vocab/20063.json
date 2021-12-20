@@ -1,6 +1,6 @@
 {
 "char": "也",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "also; classical final particle of strong affirmation or identity",
 "pron": "yě"
@@ -8,21 +8,39 @@
 "words": [
 [
 "也",
-2,
+1,
 "Yě",
 "surname Ye"
 ],
 [
 "也",
-2,
+1,
 "yě",
 "also; too; (in Classical Chinese) final particle implying affirmation"
 ],
 [
 "也许",
-4,
+2,
 "yě xǔ",
 "perhaps; maybe"
+],
+[
+"也好",
+5,
+"yě hǎo",
+"that's fine; may as well; (reduplicated) regardless of whether ... or ..."
+],
+[
+"再也",
+5,
+"zài yě",
+"(not) any more"
+],
+[
+"也就是说",
+7,
+"yě jiù shì shuō",
+"in other words; that is to say; so; thus"
 ]
 ],
 "extraWords": [
@@ -33,22 +51,22 @@
 "that is; i.e."
 ],
 [
-"也好",
-36.67,
-"yě hǎo",
-"that's fine; may as well; (reduplicated) regardless of whether ... or ..."
+"也曾",
+15.38,
+"???",
+"???"
 ],
 [
-"也就是说",
-36.25,
-"yě jiù shì shuō",
-"in other words; that is to say; so; thus"
+"一点也不",
+10.74,
+"???",
+"???"
 ],
 [
-"再也",
-7.04,
-"zài yě",
-"(not) any more"
+"再也没有",
+7.76,
+"???",
+"???"
 ],
 [
 "也罢",

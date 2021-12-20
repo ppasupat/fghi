@@ -1,46 +1,82 @@
 {
 "char": "伙",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "companion, colleague; utensils",
 "pron": "huǒ"
 },
 "words": [
 [
-"小伙子",
+"伙",
 4,
-"xiǎo huǒ zi",
-"young man; young guy; lad; youngster; CL:個|个[ge4]"
+"huǒ",
+"meals (abbr. for 伙食[huǒ shí]); variant of 伙[huǒ]"
+],
+[
+"伙",
+4,
+"huǒ",
+"companion; partner; group; classifier for groups of people; to combine; together"
 ],
 [
 "伙伴",
-5,
+4,
 "huǒ bàn",
 "partner; companion; comrade"
 ],
 [
-"家伙",
-6,
-"jiā huo",
-"variant of 家伙[jia1 huo5]"
+"小伙子",
+4,
+"xiǎo huǒ zi",
+"young man; young guy; lad; youngster; CL:个[gè]"
+],
+[
+"大伙儿",
+5,
+"dà huǒ r5",
+"erhua variant of 大伙[dà huǒ]"
+],
+[
+"好家伙",
+7,
+"hǎo jiā huo",
+"my God!; oh boy!; man!"
+],
+[
+"合伙",
+7,
+"hé huǒ",
+"to act jointly; to form a partnership"
+],
+[
+"伙食",
+7,
+"huǒ shí",
+"food; meals"
 ],
 [
 "家伙",
-6,
+7,
+"jiā huo",
+"variant of 家伙[jiā huo]"
+],
+[
+"家伙",
+7,
 "jiā huo",
 "household dish, implement or furniture; domestic animal; (coll.) guy; chap; weapon"
 ],
 [
-"大伙儿",
-6,
-"dà huǒ r5",
-"erhua variant of 大伙[da4 huo3]"
+"同伙",
+7,
+"tóng huǒ",
+"colleague; co-conspirator; accomplice"
 ],
 [
-"合伙",
-6,
-"hé huǒ",
-"to act jointly; to form a partnership"
+"团伙",
+7,
+"tuán huǒ",
+"(criminal) gang; gang member; accomplice; crony"
 ]
 ],
 "extraWords": [
@@ -49,6 +85,12 @@
 449.02,
 "huǒ ji",
 "partner; fellow; mate; waiter; servant; shop assistant"
+],
+[
+"小家伙",
+30.82,
+"???",
+"???"
 ],
 [
 "合伙人",
@@ -63,22 +105,10 @@
 "everybody; everyone; we all"
 ],
 [
-"团伙",
-14.65,
-"tuán huǒ",
-"(criminal) gang; gang member; accomplice; crony"
-],
-[
-"同伙",
-14.25,
-"tóng huǒ",
-"colleague; co-conspirator; accomplice"
-],
-[
 "老家伙",
 12.73,
 "lǎo jiā huo",
-"variant of 老家伙[lao3 jia1 huo5]"
+"variant of 老家伙[lǎo jiā huo]"
 ],
 [
 "老家伙",
@@ -90,13 +120,7 @@
 "小伙",
 7.84,
 "xiǎo huǒ",
-"young guy; lad; youngster; CL:個|个[ge4]"
-],
-[
-"好家伙",
-5.37,
-"hǎo jiā huo",
-"my God!; oh boy!; man!"
+"young guy; lad; youngster; CL:个[gè]"
 ]
 ],
 "strokes": [

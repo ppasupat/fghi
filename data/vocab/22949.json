@@ -1,28 +1,40 @@
 {
 "char": "妥",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "satisfactory, appropriate",
 "pron": "tuǒ"
 },
 "words": [
 [
-"妥协",
-6,
-"tuǒ xié",
-"to compromise; to reach terms; a compromise"
+"妥",
+7,
+"tuǒ",
+"suitable; adequate; ready; settled"
 ],
 [
 "妥当",
-6,
+7,
 "tuǒ dang",
 "appropriate; proper; ready"
 ],
 [
 "妥善",
-6,
+7,
 "tuǒ shàn",
 "appropriate; proper"
+],
+[
+"妥协",
+7,
+"tuǒ xié",
+"to compromise; to reach terms; a compromise"
+],
+[
+"稳妥",
+7,
+"wěn tuǒ",
+"dependable"
 ]
 ],
 "extraWords": [
@@ -31,12 +43,6 @@
 5.43,
 "bù tuǒ",
 "not proper; inappropriate"
-],
-[
-"稳妥",
-5.14,
-"wěn tuǒ",
-"dependable"
 ]
 ],
 "strokes": [

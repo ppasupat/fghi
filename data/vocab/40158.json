@@ -1,12 +1,31 @@
 {
 "char": "鳞",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "fish scales",
 "pron": "lín"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"鳞",
+4.87,
+"lín",
+"scales (of fish)"
+],
+[
+"遍体鳞伤",
+1.6,
+"biàn tǐ lín shāng",
+"covered all over with cuts and bruises; beaten black and blue; be a mass of bruises"
+],
+[
+"鳞片",
+1.01,
+"lín piàn",
+"scale; fish scales"
+]
+],
 "strokes": [
 "M 291 735 Q 318 771 337 785 Q 346 792 343 805 Q 342 815 320 837 Q 299 853 284 856 Q 268 856 273 837 Q 292 779 116 600 Q 107 593 105 588 Q 101 579 113 580 Q 164 589 271 712 L 291 735 Z",
 "M 301 556 Q 421 685 454 706 Q 470 715 460 728 Q 448 740 415 761 Q 406 765 355 750 Q 328 747 291 735 C 262 726 241 715 271 712 Q 290 708 355 716 Q 362 717 365 715 Q 369 711 362 700 Q 316 613 288 572 Q 278 557 275 549 C 262 522 281 534 301 556 Z",

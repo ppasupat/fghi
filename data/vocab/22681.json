@@ -1,6 +1,6 @@
 {
 "char": "墙",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "wall",
 "pron": "qiáng"
@@ -8,35 +8,47 @@
 "words": [
 [
 "墙",
-5,
+2,
 "qiáng",
-"variant of 牆|墙[qiang2], wall"
+"variant of 墙[qiáng], wall"
 ],
 [
 "墙",
-5,
+2,
 "qiáng",
-"wall; CL:面[mian4],堵[du3]"
-]
+"wall; CL:面[miàn],堵[dǔ]"
 ],
-"extraWords": [
 [
 "墙壁",
-10.24,
+5,
 "qiáng bì",
 "wall"
 ],
 [
 "城墙",
-7.94,
+7,
 "chéng qiáng",
 "city wall"
 ],
 [
+"防火墙",
+7,
+"fáng huǒ qiáng",
+"firewall; CL:堵[dǔ]"
+],
+[
 "围墙",
-6.46,
+7,
 "wéi qiáng",
-"perimeter wall; fence; CL:道[dao4]"
+"perimeter wall; fence; CL:道[dào]"
+]
+],
+"extraWords": [
+[
+"墙上",
+23.4,
+"???",
+"???"
 ]
 ],
 "strokes": [

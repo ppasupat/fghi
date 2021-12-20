@@ -1,17 +1,30 @@
 {
 "char": "絮",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "waste cotton, raw silk or cotton",
 "pron": "xù"
 },
-"words": [],
+"words": [
+[
+"絮叨",
+7,
+"xù dao",
+"long-winded; garrulous; to talk endlessly without getting to the point"
+]
+],
 "extraWords": [
 [
 "花絮",
 5.15,
 "huā xù",
 "bits of news; interesting sidelights"
+],
+[
+"絮",
+1.78,
+"xù",
+"cotton wadding; fig. padding; long-winded"
 ]
 ],
 "strokes": [

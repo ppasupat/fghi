@@ -1,86 +1,115 @@
 {
 "char": "顾",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "look back; look at; look after",
 "pron": "gù"
 },
 "words": [
 [
+"顾客",
+2,
+"gù kè",
+"client; customer; CL:位[wèi]"
+],
+[
 "照顾",
-3,
+2,
 "zhào gu",
 "to take care of; to show consideration; to attend to; to look after"
 ],
 [
-"顾客",
-4,
-"gù kè",
-"client; customer; CL:位[wei4]"
+"不顾",
+5,
+"bù gù",
+"in spite of; regardless of"
 ],
 [
 "顾问",
-6,
+5,
 "gù wèn",
 "adviser; consultant"
 ],
 [
 "回顾",
-6,
+5,
 "huí gù",
 "to look back; to review"
 ],
 [
-"不顾",
+"顾",
 6,
-"bù gù",
-"in spite of; regardless of"
+"Gù",
+"surname Gu"
 ],
 [
-"顾虑",
+"顾",
 6,
-"gù lǜ",
-"misgivings; apprehensions"
+"gù",
+"to look after; to take into consideration; to attend to"
 ],
 [
-"统筹兼顾",
+"只顾",
 6,
-"tǒng chóu jiān gù",
-"an overall plan taking into account all factors"
+"zhǐ gù",
+"solely preoccupied (with one thing); engrossed; focusing (on sth); to look after only one aspect"
 ],
 [
-"不屑一顾",
-6,
-"bù xiè yī gù",
-"to disdain as beneath contempt (idiom)"
+"顾不得",
+7,
+"gù bu de",
+"unable to change sth; unable to deal with"
 ],
 [
-"后顾之忧",
-6,
-"hòu gù zhī yōu",
-"fears of trouble in the rear (idiom); family worries (obstructing freedom of action); worries about the future consequences; often in negative expressions, meaning \"no worries about anything\""
-]
-],
-"extraWords": [
-[
-"兼顾",
-8.81,
-"jiān gù",
-"to attend simultaneously to two or more things; to balance (career and family, family and education etc)"
+"顾不上",
+7,
+"gù bu shàng",
+"cannot attend to or manage"
 ],
 [
 "顾及",
-5.61,
+7,
 "gù jí",
 "to take into consideration; to attend to"
 ],
 [
+"顾虑",
+7,
+"gù lǜ",
+"misgivings; apprehensions"
+],
+[
+"顾全大局",
+7,
+"gù quán dà jú",
+"to take the big picture into consideration (idiom); to work for the benefits of all"
+],
+[
 "光顾",
-5.41,
+7,
 "guāng gù",
 "to visit (as a customer)"
+],
+[
+"后顾之忧",
+7,
+"hòu gù zhī yōu",
+"fears of trouble in the rear (idiom); family worries (obstructing freedom of action); worries about the future consequences; often in negative expressions, meaning \"no worries about anything\""
+],
+[
+"兼顾",
+7,
+"jiān gù",
+"to attend simultaneously to two or more things; to balance (career and family, family and education etc)"
+],
+[
+"左顾右盼",
+7,
+"zuǒ gù yòu pàn",
+"glancing to left and right (idiom); to look all around"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 240 633 Q 276 629 348 644 Q 477 677 484 682 Q 491 689 487 697 Q 480 707 453 713 Q 425 717 399 705 Q 363 692 324 680 Q 285 671 242 662 C 213 656 210 635 240 633 Z",
 "M 242 662 Q 226 678 196 691 Q 178 701 166 696 Q 154 689 161 676 Q 177 652 178 597 Q 177 584 177 568 Q 174 418 136 300 Q 108 221 34 94 Q 30 87 27 81 Q 26 71 35 73 Q 68 79 142 204 Q 151 222 160 241 Q 220 382 229 542 Q 235 621 240 633 C 245 659 245 659 242 662 Z",

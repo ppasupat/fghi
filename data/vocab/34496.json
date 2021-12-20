@@ -1,12 +1,31 @@
 {
 "char": "蛀",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "insects that eat books, clothes",
 "pron": "zhù"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"蛀",
+1.13,
+"zhù",
+"termite; to bore (of insects)"
+],
+[
+"蛀牙",
+0.74,
+"zhù yá",
+"tooth decay; dental cavities; CL:颗[kē],个[gè]"
+],
+[
+"蛀虫",
+0.65,
+"zhù chóng",
+"insect that eats into wood, books, clothes etc; fig. vermin"
+]
+],
 "strokes": [
 "M 143 475 Q 130 479 101 484 Q 89 487 87 481 Q 81 475 89 461 Q 117 407 136 318 Q 140 291 156 274 Q 174 255 178 269 Q 181 279 181 294 L 177 325 Q 159 415 155 445 C 151 473 151 473 143 475 Z",
 "M 399 366 Q 424 450 456 473 Q 471 491 457 507 Q 387 558 335 529 Q 313 522 292 512 L 248 499 Q 194 486 143 475 C 114 469 127 434 155 445 Q 176 455 248 469 L 291 480 Q 315 487 339 492 Q 361 499 370 490 Q 377 483 376 465 Q 366 414 354 373 C 346 344 390 337 399 366 Z",

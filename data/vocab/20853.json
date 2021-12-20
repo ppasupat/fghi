@@ -1,25 +1,31 @@
 {
 "char": "兵",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "soldier, troops",
 "pron": "bīng"
 },
 "words": [
 [
+"兵",
+4,
+"bīng",
+"soldiers; a force; an army; weapons; arms; military; warlike; CL:个[gè]"
+],
+[
 "士兵",
-5,
+4,
 "shì bīng",
-"soldier; CL:個|个[ge4]"
+"soldier; CL:个[gè]"
+],
+[
+"官兵",
+7,
+"guān bīng",
+"(military) officers and soldiers; officers and men; (old) government troops"
 ]
 ],
 "extraWords": [
-[
-"官兵",
-25.04,
-"guān bīng",
-"(military) officers and soldiers; officers and men; (old) government troops"
-],
 [
 "民兵",
 12.48,

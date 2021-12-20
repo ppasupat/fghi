@@ -1,6 +1,6 @@
 {
 "char": "辛",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "bitter; toilsome, laborious; 8th heavenly stem",
 "pron": "xīn"
@@ -8,23 +8,41 @@
 "words": [
 [
 "辛苦",
-4,
+5,
 "xīn kǔ",
 "exhausting; hard; tough; arduous; to work hard; to go to a lot of trouble; hardship(s)"
 ],
 [
+"艰辛",
+7,
+"jiān xīn",
+"hardships; arduous; difficult"
+],
+[
 "辛勤",
-6,
+7,
 "xīn qín",
 "hardworking; industrious"
+],
+[
+"辛酸",
+7,
+"xīn suān",
+"pungent (taste); bitter; fig. sad; miserable"
 ]
 ],
 "extraWords": [
 [
-"艰辛",
-8.97,
-"jiān xīn",
-"hardships; arduous; difficult"
+"辛",
+12.24,
+"Xīn",
+"surname Xin"
+],
+[
+"辛",
+12.24,
+"xīn",
+"(of taste) hot or pungent; hard; laborious; suffering; eighth in order; eighth of the ten Heavenly Stems 十天干[shí tiān gān]; letter \"H\" or Roman \"VIII\" in list \"A, B, C\", or \"I, II, III\" etc; ancient Chinese compass point: 285°; octa"
 ],
 [
 "辛普森",

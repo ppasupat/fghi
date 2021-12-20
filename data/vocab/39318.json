@@ -1,61 +1,109 @@
 {
 "char": "首",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "head; first; leader, chief; a poem",
 "pron": "shǒu"
 },
 "words": [
 [
+"首都",
+3,
+"shǒu dū",
+"capital (city); CL:个[gè]"
+],
+[
 "首先",
-4,
+3,
 "shǒu xiān",
 "first (of all); in the first place"
 ],
 [
-"首都",
-4,
-"shǒu dū",
-"capital (city); CL:個|个[ge4]"
-],
-[
 "首",
-5,
+4,
 "shǒu",
 "head; chief; first (occasion, thing etc); classifier for poems, songs etc"
 ],
 [
-"元首",
-6,
-"yuán shǒu",
-"head of state"
-],
-[
-"首要",
-6,
-"shǒu yào",
-"the most important; of chief importance"
-],
-[
-"首饰",
-6,
-"shǒu shì",
-"jewelry; head ornament"
-]
-],
-"extraWords": [
-[
 "首次",
-99.48,
+6,
 "shǒu cì",
 "first; first time; for the first time"
 ],
 [
+"首脑",
+6,
+"shǒu nǎo",
+"head (of state); summit (meeting); leader"
+],
+[
 "首席",
-30.02,
+6,
 "shǒu xí",
 "chief (representative, correspondent etc)"
 ],
+[
+"首相",
+6,
+"shǒu xiàng",
+"prime minister (of Japan or UK etc)"
+],
+[
+"俯首",
+7,
+"fǔ shǒu",
+"to bend one's head"
+],
+[
+"回首",
+7,
+"huí shǒu",
+"to turn around; to look back; to recollect"
+],
+[
+"首创",
+7,
+"shǒu chuàng",
+"to create; original creation; to be the first to do sth"
+],
+[
+"首府",
+7,
+"shǒu fǔ",
+"capital city of an autonomous region"
+],
+[
+"首批",
+7,
+"shǒu pī",
+"first batch"
+],
+[
+"首饰",
+7,
+"shǒu shì",
+"jewelry; head ornament"
+],
+[
+"首要",
+7,
+"shǒu yào",
+"the most important; of chief importance"
+],
+[
+"元首",
+7,
+"yuán shǒu",
+"head of state"
+],
+[
+"罪魁祸首",
+7,
+"zuì kuí huò shǒu",
+"criminal ringleader, main offender (idiom); main culprit; fig. main cause of a disaster"
+]
+],
+"extraWords": [
 [
 "首发",
 20.41,
@@ -63,22 +111,10 @@
 "first issue; first public showing"
 ],
 [
-"首相",
-19.37,
-"shǒu xiàng",
-"prime minister (of Japan or UK etc)"
-],
-[
 "首届",
 18.48,
 "shǒu jiè",
 "first session (of a conference etc)"
-],
-[
-"首批",
-17.74,
-"shǒu pī",
-"first batch"
 ],
 [
 "为首",
@@ -93,6 +129,12 @@
 "first place"
 ],
 [
+"首个",
+12.25,
+"???",
+"???"
+],
+[
 "首选",
 11.81,
 "shǒu xuǎn",
@@ -103,12 +145,6 @@
 11.6,
 "shǒu lún",
 "first round (of a competition etc)"
-],
-[
-"首脑",
-9.94,
-"shǒu nǎo",
-"head (of state); summit (meeting); leader"
 ],
 [
 "自首",
@@ -123,22 +159,22 @@
 "first (hotel of its type, store of its type etc)"
 ],
 [
+"首场",
+9.14,
+"???",
+"???"
+],
+[
 "首领",
 7.66,
 "shǒu lǐng",
 "head; boss; chief"
 ],
 [
-"回首",
-7.41,
-"huí shǒu",
-"to turn around; to look back; to recollect"
-],
-[
-"首创",
-7.11,
-"shǒu chuàng",
-"to create; original creation; to be the first to do sth"
+"首日",
+7.26,
+"???",
+"???"
 ],
 [
 "榜首",
@@ -157,6 +193,12 @@
 5.97,
 "shǒu yè",
 "home page (of a website); title page; front page; first page; fig. beginning; cover letter"
+],
+[
+"首播",
+5.71,
+"???",
+"???"
 ],
 [
 "首映",

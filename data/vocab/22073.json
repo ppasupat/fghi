@@ -1,12 +1,25 @@
 {
 "char": "嘹",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "used describe clarity of voice; resonant",
 "pron": "liáo"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"嘹亮",
+1.24,
+"liáo liàng",
+"loud and clear; resonant"
+],
+[
+"嘹",
+0.15,
+"liáo",
+"clear sound; cry (of cranes etc)"
+]
+],
 "strokes": [
 "M 124 603 Q 112 610 81 618 Q 69 622 65 617 Q 58 611 66 595 Q 93 522 102 407 Q 103 373 121 349 Q 137 325 143 341 Q 150 360 149 395 L 146 429 Q 133 538 133 573 C 132 599 132 599 124 603 Z",
 "M 282 456 Q 298 553 324 583 Q 346 611 322 624 Q 301 634 272 651 Q 250 663 210 634 Q 147 610 124 603 C 95 594 105 562 133 573 Q 148 580 215 596 Q 237 602 244 593 Q 253 586 245 546 Q 238 504 228 455 C 222 426 277 426 282 456 Z",

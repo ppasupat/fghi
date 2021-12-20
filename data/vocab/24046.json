@@ -1,6 +1,6 @@
 {
 "char": "差",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "to differ; different, wrong; nearly, almost; an officer",
 "pron": "chā, chà, chāi, cī"
@@ -8,33 +8,33 @@
 "words": [
 [
 "差",
-3,
+1,
 "chā",
 "difference; discrepancy; to differ; error; to err; to make a mistake"
 ],
 [
 "差",
-3,
+1,
 "chà",
 "to differ from; to fall short of; lacking; wrong; inferior; Taiwan pr. [cha1]"
 ],
 [
 "差",
-3,
+1,
 "chāi",
 "to send; to commission; messenger; mission"
 ],
 [
 "差不多",
-4,
+2,
 "chà bu duō",
 "almost; nearly; more or less; about the same; good enough; not bad"
 ],
 [
-"出差",
-4,
-"chū chāi",
-"to go on an official or business trip"
+"差别",
+5,
+"chā bié",
+"difference; distinction; disparity"
 ],
 [
 "差距",
@@ -43,34 +43,70 @@
 "disparity; gap"
 ],
 [
-"时差",
+"差点儿",
 5,
-"shí chā",
-"time difference; time lag; jet lag"
+"chà diǎn r5",
+"erhua variant of 差点[chà diǎn]"
 ],
 [
-"差别",
-6,
-"chā bié",
-"difference; distinction; disparity"
+"出差",
+5,
+"chū chāi",
+"to go on an official or business trip"
 ],
 [
-"相差",
+"差异",
 6,
-"xiāng chà",
-"to differ; discrepancy between"
+"chā yì",
+"difference; discrepancy"
+],
+[
+"差错",
+7,
+"chā cuò",
+"mistake; slip-up; fault; error (in data transmission); accident; mishap"
+],
+[
+"差额",
+7,
+"chā é",
+"balance (financial); discrepancy (in a sum or quota); difference"
+],
+[
+"反差",
+7,
+"fǎn chā",
+"contrast; discrepancy"
+],
+[
+"落差",
+7,
+"luò chā",
+"drop in elevation; (fig.) gap (in wages, expectations etc); disparity"
 ],
 [
 "偏差",
-6,
+7,
 "piān chā",
 "bias; deviation"
 ],
 [
+"顺差",
+7,
+"shùn chā",
+"(trade or budget) surplus"
+],
+[
 "误差",
-6,
+7,
 "wù chā",
 "difference; error; inaccuracy"
+],
+[
+"相差",
+7,
+"xiāng chà",
+"to differ; discrepancy between"
 ]
 ],
 "extraWords": [
@@ -79,12 +115,6 @@
 68.86,
 "chà diǎn",
 "almost; nearly"
-],
-[
-"差异",
-65.61,
-"chā yì",
-"difference; discrepancy"
 ],
 [
 "差劲",
@@ -105,22 +135,10 @@
 "mediocre; rather poor; not specially good"
 ],
 [
-"顺差",
-7.91,
-"shùn chā",
-"(trade or budget) surplus"
-],
-[
 "差价",
 6.21,
 "chā jià",
 "difference in price"
-],
-[
-"差错",
-5.22,
-"chā cuò",
-"mistake; slip-up; fault; error (in data transmission); accident; mishap"
 ]
 ],
 "strokes": [

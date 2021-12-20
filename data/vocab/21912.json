@@ -1,16 +1,22 @@
 {
 "char": "喘",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "pant, gasp, breathe heavily",
 "pron": "chuǎn"
 },
 "words": [
 [
-"喘气",
-6,
-"chuǎn qì",
-"to breathe deeply; to pant"
+"喘",
+7,
+"chuǎn",
+"to gasp; to pant; asthma"
+],
+[
+"喘息",
+7,
+"chuǎn xī",
+"to gasp for breath; to take a breather"
 ]
 ],
 "extraWords": [

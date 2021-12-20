@@ -1,6 +1,6 @@
 {
 "char": "录",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "copy, write down, record",
 "pron": "lù"
@@ -8,77 +8,101 @@
 "words": [
 [
 "记录",
-5,
+3,
 "jì lù",
-"to record; record (written account); note-taker; record (in sports etc); CL:個|个[ge4]"
+"to record; record (written account); note-taker; record (in sports etc); CL:个[gè]"
 ],
 [
 "纪录",
-5,
+3,
 "jì lù",
-"variant of 記錄|记录[ji4 lu4] (but in Taiwan, not for the verb sense \"to record\")"
+"variant of 记录[jì lù] (but in Taiwan, not for the verb sense \"to record\")"
+],
+[
+"录",
+3,
+"lù",
+"to carve wood"
+],
+[
+"录",
+3,
+"Lù",
+"surname Lu"
+],
+[
+"录",
+3,
+"lù",
+"diary; record; to hit; to copy"
 ],
 [
 "录音",
-5,
+3,
 "lù yīn",
-"to record (sound); sound recording; CL:個|个[ge4]"
-],
-[
-"录取",
-5,
-"lù qǔ",
-"to accept an applicant (prospective student, employee etc) who passes an entrance exam; to admit (a student); to hire (a job candidate)"
-],
-[
-"目录",
-5,
-"mù lù",
-"catalog; table of contents; directory (on computer hard drive); list; contents"
+"to record (sound); sound recording; CL:个[gè]"
 ],
 [
 "登录",
-6,
+4,
 "dēng lù",
 "to register; to log in"
 ],
 [
-"备忘录",
+"录取",
+4,
+"lù qǔ",
+"to accept an applicant (prospective student, employee etc) who passes an entrance exam; to admit (a student); to hire (a job candidate)"
+],
+[
+"录像",
 6,
-"bèi wàng lù",
-"memorandum; aide-memoire; memorandum book"
+"lù xiàng",
+"to videotape; to videorecord; video recording; CL:盘[pán]"
+],
+[
+"录音机",
+6,
+"lù yīn jī",
+"(tape) recording machine; tape recorder; CL:台[tái]"
+],
+[
+"回忆录",
+7,
+"huí yì lù",
+"memoir"
+],
+[
+"纪录片",
+7,
+"jì lù piàn",
+"newsreel; documentary (film or TV program); CL:部[bù]"
+],
+[
+"录制",
+7,
+"lù zhì",
+"to record (video or audio)"
+],
+[
+"目录",
+7,
+"mù lù",
+"catalog; table of contents; directory (on computer hard drive); list; contents"
 ]
 ],
 "extraWords": [
 [
-"录像",
-43.22,
-"lù xiàng",
-"to videotape; to videorecord; video recording; CL:盤|盘[pan2]"
-],
-[
 "录像带",
 16.66,
 "lù xiàng dài",
-"video cassette; CL:盤|盘[pan2]"
-],
-[
-"录制",
-9.64,
-"lù zhì",
-"to record (video or audio)"
+"video cassette; CL:盘[pán]"
 ],
 [
 "世界纪录",
 7.6,
 "shì jiè jì lù",
 "world record"
-],
-[
-"纪录片",
-7.2,
-"jì lù piàn",
-"newsreel; documentary (film or TV program); CL:部[bu4]"
 ],
 [
 "语录",
@@ -91,6 +115,12 @@
 5.58,
 "lù yòng",
 "to hire (an employee); to accept (a manuscript) for publication"
+],
+[
+"备忘录",
+5.54,
+"bèi wàng lù",
+"memorandum; aide-memoire; memorandum book"
 ],
 [
 "收录",

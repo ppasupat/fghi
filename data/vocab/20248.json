@@ -1,34 +1,40 @@
 {
 "char": "优",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "superior, excellent; actor",
 "pron": "yōu"
 },
 "words": [
 [
-"优秀",
-4,
-"yōu xiù",
-"outstanding; excellent"
-],
-[
 "优点",
-4,
+3,
 "yōu diǎn",
-"merit; benefit; strong point; advantage; CL:個|个[ge4],項|项[xiang4]"
+"merit; benefit; strong point; advantage; CL:个[gè],项[xiàng]"
 ],
 [
 "优势",
-5,
+3,
 "yōu shì",
 "superiority; dominance; advantage"
 ],
 [
+"优良",
+4,
+"yōu liáng",
+"fine; good; first-rate"
+],
+[
 "优美",
-5,
+4,
 "yōu měi",
 "graceful; fine; elegant"
+],
+[
+"优秀",
+4,
+"yōu xiù",
+"outstanding; excellent"
 ],
 [
 "优惠",
@@ -38,54 +44,48 @@
 ],
 [
 "优先",
-6,
+5,
 "yōu xiān",
 "to have priority; to take precedence"
 ],
 [
-"优越",
-6,
-"yōu yuè",
-"superior; superiority"
-],
-[
-"优异",
-6,
-"yōu yì",
-"exceptional; outstandingly good"
-],
-[
-"优胜劣汰",
-6,
-"yōu shèng liè tài",
-"survival of the fittest (idiom)"
-]
-],
-"extraWords": [
-[
 "优质",
-38.03,
+6,
 "yōu zhì",
 "excellent quality"
 ],
 [
+"优",
+7,
+"yōu",
+"excellent; superior"
+],
+[
 "优化",
-37.32,
+7,
 "yōu huà",
 "optimization; to optimize; to make superior"
 ],
 [
 "优雅",
-25.85,
+7,
 "yōu yǎ",
 "grace; graceful"
 ],
 [
-"优良",
-21.19,
-"yōu liáng",
-"fine; good; first-rate"
+"优异",
+7,
+"yōu yì",
+"exceptional; outstandingly good"
 ],
+[
+"优越",
+7,
+"yōu yuè",
+"superior; superiority"
+]
+],
+"extraWords": [
 [
 "优于",
 8.74,

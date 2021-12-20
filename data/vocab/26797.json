@@ -1,6 +1,6 @@
 {
 "char": "梭",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "weaver's shuttle; go to and fro",
 "pron": "suō"
@@ -8,10 +8,22 @@
 "words": [],
 "extraWords": [
 [
+"梭",
+7.77,
+"suō",
+"shuttle (textiles); to move back and fro"
+],
+[
 "穿梭",
 6.63,
 "chuān suō",
 "to travel back and forth; to shuttle"
+],
+[
+"穿梭机",
+3.96,
+"???",
+"???"
 ]
 ],
 "strokes": [

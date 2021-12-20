@@ -1,6 +1,6 @@
 {
 "char": "炎",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "flame, blaze; hot",
 "pron": "yán"
@@ -14,17 +14,23 @@
 ],
 [
 "炎热",
-6,
+7,
 "yán rè",
 "blistering hot; sizzling hot (weather)"
+],
+[
+"炎症",
+7,
+"yán zhèng",
+"inflammation"
 ]
 ],
 "extraWords": [
 [
-"炎症",
-11.5,
-"yán zhèng",
-"inflammation"
+"炎",
+23.88,
+"yán",
+"flame; inflammation; -itis"
 ],
 [
 "肺炎",

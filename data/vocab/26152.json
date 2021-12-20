@@ -1,6 +1,6 @@
 {
 "char": "昨",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "yesterday; in former times, past",
 "pron": "zuó"
@@ -25,6 +25,12 @@
 161.98,
 "zuó wǎn",
 "yesterday evening; last night"
+],
+[
+"昨",
+13.68,
+"zuó",
+"yesterday"
 ],
 [
 "昨夜",

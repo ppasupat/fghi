@@ -1,22 +1,28 @@
 {
 "char": "宏",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "wide, spacious, great, vast",
 "pron": "hóng"
 },
 "words": [
 [
-"宏伟",
+"宏大",
 6,
-"hóng wěi",
-"grand; imposing; magnificent"
+"hóng dà",
+"great; grand"
 ],
 [
 "宏观",
-6,
+7,
 "hóng guān",
 "macro-; macroscopic; holistic"
+],
+[
+"宏伟",
+7,
+"hóng wěi",
+"grand; imposing; magnificent"
 ]
 ],
 "extraWords": [
@@ -25,6 +31,12 @@
 24.23,
 "hóng guān tiáo kòng",
 "macro-control"
+],
+[
+"宏",
+17.94,
+"hóng",
+"great; magnificent; macro (computing); macro-"
 ]
 ],
 "strokes": [

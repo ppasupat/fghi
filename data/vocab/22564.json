@@ -1,14 +1,26 @@
 {
 "char": "堤",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "dike",
 "pron": "dī"
 },
 "words": [
 [
+"堤",
+7,
+"dī",
+"dike; Taiwan pr. [ti2]"
+],
+[
+"堤",
+7,
+"dī",
+"variant of 堤[dī]"
+],
+[
 "堤坝",
-6,
+7,
 "dī bà",
 "dam; dike"
 ]

@@ -1,6 +1,6 @@
 {
 "char": "着",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "make move, take action",
 "pron": "zhāo, zháo, zhe, zhuó"
@@ -8,119 +8,257 @@
 "words": [
 [
 "着",
-2,
+1,
 "zhāo",
 "(chess) move; trick; all right!; (dialect) to add"
 ],
 [
 "着",
-2,
+1,
 "zháo",
 "to touch; to come in contact with; to feel; to be affected by; to catch fire; to burn; (coll.) to fall asleep; (after a verb) hitting the mark; succeeding in"
 ],
 [
 "着",
-2,
+1,
 "zhe",
 "aspect particle indicating action in progress"
 ],
 [
 "着",
-2,
+1,
 "zhuó",
 "to wear (clothes); to contact; to use; to apply"
 ],
 [
-"着急",
-3,
-"zháo jí",
-"to worry; to feel anxious; Taiwan pr. [zhao1 ji2]"
-],
-[
 "接着",
-4,
+2,
 "jiē zhe",
 "to catch and hold on; to continue; to go on to do sth; to follow; to carry on; then; after that; subsequently; to proceed; to ensue; in turn; in one's turn"
 ],
 [
-"随着",
+"睡着",
 4,
-"suí zhe",
-"along with; in the wake of; following"
+"shuì zháo",
+"to fall asleep"
 ],
 [
 "着火",
-5,
+4,
 "zháo huǒ",
 "to ignite; to burn"
 ],
 [
-"着凉",
+"着急",
+4,
+"zháo jí",
+"to worry; to feel anxious; Taiwan pr. [zhao1 ji2]"
+],
+[
+"随着",
 5,
-"zháo liáng",
-"to catch cold; Taiwan pr. [zhao1 liang2]"
+"suí zhe",
+"along with; in the wake of; following"
 ],
 [
 "意味着",
-6,
+5,
 "yì wèi zhe",
 "to signify; to mean; to imply"
 ],
 [
-"着迷",
-6,
-"zháo mí",
-"to be fascinated; to be captivated"
+"用不着",
+5,
+"yòng bu zháo",
+"not need; have no use for"
 ],
 [
-"着想",
-6,
-"zhuó xiǎng",
-"to give thought (to others); to consider (other people's needs); also pr. [zhao2 xiang3]"
+"有着",
+5,
+"yǒu zhe",
+"to have; to possess"
 ],
 [
-"着手",
+"挨着",
 6,
-"zhuó shǒu",
-"to put one's hand to it; to start out on a task; to set out"
+"āi zhe",
+"near"
 ],
 [
-"执着",
+"背着",
 6,
-"zhí zhuó",
-"to be strongly attached to; to be dedicated; to cling to"
+"bēi zhe",
+"carrying on one's back"
+],
+[
+"背着",
+6,
+"bèi zhe",
+"turning one's back to (sth or sb); keeping sth secret from (sb); keeping (one's hands) behind one's back"
+],
+[
+"沿着",
+6,
+"yán zhe",
+"to go along; to follow"
+],
+[
+"用得着",
+6,
+"yòng de zháo",
+"to be able to use; useable; to have a use for sth; (in interrogative sentence) to be necessary to"
+],
+[
+"指着",
+6,
+"???",
+"???"
+],
+[
+"本着",
+7,
+"běn zhe",
+"based on...; in conformance with..; taking as one's main principle"
+],
+[
+"朝着",
+7,
+"cháo zhe",
+"facing; advancing (towards)"
 ],
 [
 "沉着",
-6,
+7,
 "chén zhuó",
 "steady; calm and collected; not nervous"
 ],
 [
+"趁着",
+7,
+"???",
+"???"
+],
+[
+"穿着",
+7,
+"chuān zhuó",
+"attire; clothes; dress"
+],
+[
+"当着",
+7,
+"dāng zhe",
+"in front of; in the presence of"
+],
+[
+"怀着",
+7,
+"???",
+"???"
+],
+[
+"紧接着",
+7,
+"jǐn jiē zhe",
+"immediately afterwards; shortly after that"
+],
+[
+"闹着玩儿",
+7,
+"nào zhe wán r5",
+"to play games; to joke around; to play a joke on sb"
+],
+[
+"凭着",
+7,
+"píng zhe",
+"relying on; on the basis of"
+],
+[
+"顺着",
+7,
+"shùn zhe",
+"to follow; following; along"
+],
+[
+"向着",
+7,
+"xiàng zhe",
+"towards; facing (sb or sth); (coll.) to side with; to favor"
+],
+[
+"着迷",
+7,
+"zháo mí",
+"to be fascinated; to be captivated"
+],
+[
+"执着",
+7,
+"zhí zhuó",
+"to be strongly attached to; to be dedicated; to cling to"
+],
+[
+"着力",
+7,
+"zhuó lì",
+"to put effort into sth; to try really hard"
+],
+[
+"着落",
+7,
+"zhuó luò",
+"whereabouts; place to settle; reliable source (of funds etc); (of responsibility for a matter) to rest with sb; settlement; solution"
+],
+[
+"着实",
+7,
+"zhuó shí",
+"truly; indeed; severely; harshly"
+],
+[
+"着手",
+7,
+"zhuó shǒu",
+"to put one's hand to it; to start out on a task; to set out"
+],
+[
+"着想",
+7,
+"zhuó xiǎng",
+"to give thought (to others); to consider (other people's needs); also pr. [zhao2 xiang3]"
+],
+[
+"着眼",
+7,
+"zhuó yǎn",
+"to have one's eyes on (a goal); having sth in mind; to concentrate"
+],
+[
+"着眼于",
+7,
+"???",
+"???"
+],
+[
 "着重",
-6,
+7,
 "zhuó zhòng",
 "to put emphasis on; to stress"
 ]
 ],
 "extraWords": [
 [
-"有着",
-87.45,
-"yǒu zhe",
-"to have; to possess"
+"着名",
+51.54,
+"???",
+"???"
 ],
 [
-"睡着",
-23.31,
-"shuì zháo",
-"to fall asleep"
-],
-[
-"穿着",
-21.97,
-"chuān zhuó",
-"attire; clothes; dress"
+"睡不着",
+26.29,
+"???",
+"???"
 ],
 [
 "跟着",
@@ -135,58 +273,16 @@
 "auxiliary showing sth happened in the past"
 ],
 [
-"用不着",
-16.57,
-"yòng bu zháo",
-"not need; have no use for"
-],
-[
 "着呢",
 15.92,
 "zhe ne",
 "comes at the end of the sentence to indicate a strong degree; quite; rather"
 ],
 [
-"沿着",
-14.99,
-"yán zhe",
-"to go along; to follow"
-],
-[
-"着力",
-14.72,
-"zhuó lì",
-"to put effort into sth; to try really hard"
-],
-[
 "怎么着",
 12.16,
 "zěn me zhāo",
 "what?; how?; how about?; whatever; also pr. [zen3 me5 zhe5]"
-],
-[
-"着眼",
-11.55,
-"zhuó yǎn",
-"to have one's eyes on (a goal); having sth in mind; to concentrate"
-],
-[
-"背着",
-11.04,
-"bēi zhe",
-"carrying on one's back"
-],
-[
-"背着",
-11.04,
-"bèi zhe",
-"turning one's back to (sth or sb); keeping sth secret from (sb); keeping (one's hands) behind one's back"
-],
-[
-"本着",
-10.32,
-"běn zhe",
-"based on...; in conformance with..; taking as one's main principle"
 ],
 [
 "身着",
@@ -201,10 +297,10 @@
 "landing; touchdown; to land; to touch down"
 ],
 [
-"紧接着",
-9.52,
-"jǐn jiē zhe",
-"immediately afterwards; shortly after that"
+"冲着",
+8.61,
+"???",
+"???"
 ],
 [
 "走着瞧",
@@ -213,28 +309,16 @@
 "wait and see (who is right)"
 ],
 [
-"着实",
-8.41,
-"zhuó shí",
-"truly; indeed; severely; harshly"
+"照着",
+7.18,
+"???",
+"???"
 ],
 [
-"顺着",
-8.32,
-"shùn zhe",
-"to follow; following; along"
-],
-[
-"凭着",
-7.41,
-"píng zhe",
-"relying on; on the basis of"
-],
-[
-"朝着",
-6.86,
-"cháo zhe",
-"facing; advancing (towards)"
+"闹着玩",
+5.57,
+"???",
+"???"
 ]
 ],
 "strokes": [

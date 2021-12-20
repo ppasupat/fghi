@@ -1,11 +1,23 @@
 {
 "char": "便",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "convenience, ease; expedient",
 "pron": "biàn, pián"
 },
 "words": [
+[
+"方便",
+2,
+"fāng biàn",
+"convenient; suitable; to facilitate; to make things easy; having money to spare; (euphemism) to relieve oneself"
+],
+[
+"方便面",
+2,
+"fāng biàn miàn",
+"instant noodles"
+],
 [
 "便宜",
 2,
@@ -19,85 +31,103 @@
 "cheap; inexpensive; small advantages; to let sb off lightly"
 ],
 [
-"方便",
-3,
-"fāng biàn",
-"convenient; suitable; to facilitate; to make things easy; having money to spare; (euphemism) to relieve oneself"
-],
-[
 "随便",
-4,
+2,
 "suí biàn",
 "as one wishes; as one pleases; at random; negligent; casual; wanton"
 ],
 [
-"顺便",
-4,
-"shùn biàn",
-"conveniently; in passing; without much extra effort"
-],
-[
-"便",
-5,
-"biàn",
-"plain; informal; suitable; convenient; opportune; to urinate or defecate; equivalent to 就[jiu4]: then; in that case; even if; soon afterwards"
-],
-[
-"便",
-5,
-"pián",
-"see 便宜|便宜[pian2 yi5]"
-],
-[
-"即便",
-6,
-"jí biàn",
-"even if; even though; right away; immediately"
-],
-[
-"以便",
-6,
-"yǐ biàn",
-"so that; so as to; in order to"
-],
-[
 "便利",
-6,
+5,
 "biàn lì",
 "convenient; easy; to facilitate"
 ],
 [
 "便条",
-6,
+5,
 "biàn tiáo",
-"(informal) note; CL:張|张[zhang1],個|个[ge4]"
+"(informal) note; CL:张[zhāng],个[gè]"
 ],
 [
 "便于",
-6,
+5,
 "biàn yú",
 "easy to; convenient for"
-]
 ],
-"extraWords": [
+[
+"以便",
+5,
+"yǐ biàn",
+"so that; so as to; in order to"
+],
+[
+"便",
+6,
+"biàn",
+"plain; informal; suitable; convenient; opportune; to urinate or defecate; equivalent to 就[jiù]: then; in that case; even if; soon afterwards"
+],
+[
+"便",
+6,
+"pián",
+"see 便宜[pián yi]"
+],
 [
 "便是",
-41.41,
+6,
 "biàn shì",
 "(emphasizes that sth is precisely or exactly as stated); precisely; exactly; even; if; just like; in the same way as"
 ],
 [
 "不便",
-15.94,
+6,
 "bù biàn",
 "inconvenient; inappropriate; unsuitable; short of cash"
 ],
 [
+"便道",
+7,
+"biàn dào",
+"pavement; sidewalk; shortcut; makeshift road"
+],
+[
+"便饭",
+7,
+"biàn fàn",
+"an ordinary meal; simple home cooking"
+],
+[
 "便捷",
-10.98,
+7,
 "biàn jié",
 "convenient and fast"
 ],
+[
+"便利店",
+7,
+"biàn lì diàn",
+"convenience store"
+],
+[
+"粪便",
+7,
+"fèn biàn",
+"excrement; feces; night soil"
+],
+[
+"即便",
+7,
+"jí biàn",
+"even if; even though; right away; immediately"
+],
+[
+"顺便",
+7,
+"shùn biàn",
+"conveniently; in passing; without much extra effort"
+]
+],
+"extraWords": [
 [
 "大便",
 9.99,
@@ -123,12 +153,6 @@
 "simple and convenient; handy"
 ],
 [
-"方便面",
-7.27,
-"fāng biàn miàn",
-"instant noodles"
-],
-[
 "小便",
 6.08,
 "xiǎo biàn",
@@ -139,12 +163,6 @@
 5.31,
 "biàn chē",
 "to hitchhike"
-],
-[
-"粪便",
-5.19,
-"fèn biàn",
-"excrement; feces; night soil"
 ]
 ],
 "strokes": [

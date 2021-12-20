@@ -1,14 +1,20 @@
 {
 "char": "峡",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "gorge, strait, ravine; isthmus",
 "pron": "xiá"
 },
 "words": [
 [
+"海峡",
+7,
+"hǎi xiá",
+"channel; strait"
+],
+[
 "峡谷",
-6,
+7,
 "xiá gǔ",
 "canyon; gill; ravine"
 ]
@@ -18,13 +24,7 @@
 "三峡",
 17.88,
 "Sān xiá",
-"Three Gorges on the Chang Jiang or Yangtze, namely: Qutang Gorge 瞿塘峽|瞿塘峡[Qu2 tang2 Xia2], Wuxia Gorge 巫峽|巫峡[Wu1 Xia2] and Xiling Gorge 西陵峽|西陵峡[Xi1 ling2 Xia2]; Sanxia or Sanhsia town in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
-],
-[
-"海峡",
-12.59,
-"hǎi xiá",
-"channel; strait"
+"Three Gorges on the Chang Jiang or Yangtze, namely: Qutang Gorge 瞿塘峡[Qú táng Xiá], Wuxia Gorge 巫峡[Wū Xiá] and Xiling Gorge 西陵峡[Xī líng Xiá]; Sanxia or Sanhsia town in New Taipei City 新北市[Xīn běi shì], Taiwan"
 ]
 ],
 "strokes": [

@@ -1,12 +1,25 @@
 {
 "char": "鹏",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "fabulous bird of enormous size",
 "pron": "péng"
 },
-"words": [],
+"words": [
+[
+"鹏程万里",
+7,
+"péng chéng wàn lǐ",
+"the fabled roc flies ten thousand miles (idiom); one's future prospects are brilliant"
+]
+],
 "extraWords": [
+[
+"鹏",
+12.48,
+"Péng",
+"Peng, large fabulous bird; roc"
+],
 [
 "李鹏",
 5.37,

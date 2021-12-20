@@ -1,17 +1,30 @@
 {
 "char": "媚",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "charming, attractive; flatter",
 "pron": "mèi"
 },
-"words": [],
+"words": [
+[
+"明媚",
+7,
+"míng mèi",
+"bright and beautiful"
+]
+],
 "extraWords": [
 [
 "妩媚",
 6.48,
 "wǔ mèi",
 "lovely; charming"
+],
+[
+"媚",
+6.15,
+"mèi",
+"flatter; charm"
 ]
 ],
 "strokes": [

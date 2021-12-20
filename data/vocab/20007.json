@@ -1,36 +1,54 @@
 {
 "char": "丧",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "mourning; mourn; funeral",
 "pron": "sāng, sàng"
 },
 "words": [
 [
-"沮丧",
-6,
-"jǔ sàng",
-"dispirited; dejected; dismayed"
-],
-[
 "丧失",
 6,
 "sàng shī",
 "to lose; to forfeit"
+],
+[
+"垂头丧气",
+7,
+"chuí tóu sàng qì",
+"hanging one's head dispiritedly (idiom); dejected; crestfallen"
+],
+[
+"沮丧",
+7,
+"jǔ sàng",
+"dispirited; dejected; dismayed"
+],
+[
+"丧生",
+7,
+"sàng shēng",
+"to die; to lose one's life"
 ]
 ],
 "extraWords": [
+[
+"丧",
+8.67,
+"sāng",
+"mourning; funeral; (old) corpse"
+],
+[
+"丧",
+8.67,
+"sàng",
+"to lose sth abstract but important (courage, authority, one's life etc); to be bereaved of (one's spouse etc); to die; disappointed; discouraged"
+],
 [
 "丧命",
 6.95,
 "sàng mìng",
 "to lose one's life"
-],
-[
-"丧生",
-6.28,
-"sàng shēng",
-"to die; to lose one's life"
 ]
 ],
 "strokes": [

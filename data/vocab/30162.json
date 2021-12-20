@@ -1,6 +1,6 @@
 {
 "char": "痒",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "itch",
 "pron": "yǎng"
@@ -8,18 +8,25 @@
 "words": [
 [
 "痒",
-5,
+7,
 "yǎng",
-"variant of 癢|痒[yang3]; to itch; to tickle"
+"variant of 痒[yǎng]; to itch; to tickle"
 ],
 [
 "痒",
-5,
+7,
 "yǎng",
 "to itch; to tickle"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"痒痒",
+3.13,
+"yǎng yang",
+"to itch; to tickle"
+]
+],
 "strokes": [
 "M 523 803 Q 553 784 586 758 Q 601 748 615 749 Q 625 750 629 764 Q 632 779 620 806 Q 613 825 580 836 Q 504 854 492 847 Q 488 843 490 831 Q 494 821 523 803 Z",
 "M 370 650 Q 397 637 466 647 Q 586 668 711 688 Q 772 701 782 709 Q 791 716 786 724 Q 780 736 752 744 Q 724 751 627 721 Q 485 688 367 679 C 337 677 342 660 370 650 Z",

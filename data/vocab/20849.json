@@ -1,6 +1,6 @@
 {
 "char": "共",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "together with, all, total; to share",
 "pron": "gòng"
@@ -10,63 +10,111 @@
 "公共汽车",
 2,
 "gōng gòng qì chē",
-"bus; CL:輛|辆[liang4],班[ban1]"
+"bus; CL:辆[liàng],班[bān]"
 ],
 [
 "一共",
-3,
+2,
 "yī gòng",
 "altogether"
 ],
 [
-"共同",
-4,
-"gòng tóng",
-"common; joint; jointly; together; collaborative"
-],
-[
-"总共",
-5,
-"zǒng gòng",
-"altogether; in sum; in all; in total"
-],
-[
-"共和国",
-6,
-"gòng hé guó",
-"republic"
-],
-[
-"共鸣",
-6,
-"gòng míng",
-"resonance (physics); sympathetic response to sth"
-],
-[
-"共计",
-6,
-"gòng jì",
-"to sum up to; to total"
-]
-],
-"extraWords": [
-[
 "公共",
-71.25,
+3,
 "gōng gòng",
 "public; common; communal"
 ],
 [
+"共同",
+3,
+"gòng tóng",
+"common; joint; jointly; together; collaborative"
+],
+[
 "共有",
-52.32,
+3,
 "gòng yǒu",
 "to have altogether; in all"
 ],
+[
+"共",
+4,
+"gòng",
+"common; general; to share; together; total; altogether; abbr. for 共产党[Gòng chǎn dǎng], Communist party"
+],
+[
+"总共",
+4,
+"zǒng gòng",
+"altogether; in sum; in all; in total"
+],
+[
+"共计",
+5,
+"gòng jì",
+"to sum up to; to total"
+],
+[
+"共享",
+5,
+"gòng xiǎng",
+"to share; to enjoy together"
+],
+[
+"公共场所",
+7,
+"gōng gòng chǎng suǒ",
+"public place"
+],
+[
+"共鸣",
+7,
+"gòng míng",
+"resonance (physics); sympathetic response to sth"
+],
+[
+"共识",
+7,
+"gòng shí",
+"common understanding; consensus"
+],
+[
+"共同体",
+7,
+"gòng tóng tǐ",
+"community"
+],
+[
+"共性",
+7,
+"gòng xìng",
+"overall character"
+],
+[
+"和平共处",
+7,
+"hé píng gòng chǔ",
+"peaceful coexistence of nations, societies etc"
+],
+[
+"同舟共济",
+7,
+"tóng zhōu gòng jì",
+"cross a river in the same boat (idiom); fig. having common interests; obliged to collaborate towards common goals"
+]
+],
+"extraWords": [
 [
 "中华人民共和国",
 30.47,
 "Zhōng huá Rén mín Gòng hé guó",
 "People's Republic of China"
+],
+[
+"共和国",
+24.79,
+"gòng hé guó",
+"republic"
 ],
 [
 "中国共产党",
@@ -75,34 +123,22 @@
 "Communist Party of China"
 ],
 [
-"共享",
-23.3,
-"gòng xiǎng",
-"to share; to enjoy together"
-],
-[
 "共产党",
 20.36,
 "Gòng chǎn dǎng",
 "Communist Party"
 ],
 [
-"共识",
-19.46,
-"gòng shí",
-"common understanding; consensus"
-],
-[
 "中共",
 18.92,
 "Zhōng Gòng",
-"abbr. for 中國共產黨|中国共产党[Zhong1 guo2 Gong4 chan3 dang3], Chinese Communist Party"
+"abbr. for 中国共产党[Zhōng guó Gòng chǎn dǎng], Chinese Communist Party"
 ],
 [
 "中共中央",
 16.73,
 "Zhōng Gòng Zhōng yāng",
-"Central Committee of the Communist Party of China, abbr. for 中國共產黨中央委員會|中国共产党中央委员会[Zhong1 guo2 Gong4 chan3 dang3 Zhong1 yang1 Wei3 yuan2 hui4]"
+"Central Committee of the Communist Party of China, abbr. for 中国共产党中央委员会[Zhōng guó Gòng chǎn dǎng Zhōng yāng Wěi yuán huì]"
 ],
 [
 "共产党员",
@@ -123,10 +159,22 @@
 "to work together"
 ],
 [
+"共度",
+11.86,
+"???",
+"???"
+],
+[
 "共同点",
 11.48,
 "gòng tóng diǎn",
 "common ground"
+],
+[
+"中共中央政治局",
+9.2,
+"???",
+"???"
 ],
 [
 "共和党",
@@ -141,6 +189,12 @@
 "public health"
 ],
 [
+"共建",
+5.65,
+"???",
+"???"
+],
+[
 "核磁共振",
 5.43,
 "hé cí gòng zhèn",
@@ -150,7 +204,7 @@
 "共青团",
 5.28,
 "Gòng qīng tuán",
-"the Communist Youth League, abbr. for 共產主義青年團|共产主义青年团[Gong4 chan3 zhu3 yi4 Qing1 nian2 tuan2]"
+"the Communist Youth League, abbr. for 共产主义青年团[Gòng chǎn zhǔ yì Qīng nián tuán]"
 ]
 ],
 "strokes": [

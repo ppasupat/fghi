@@ -1,19 +1,43 @@
 {
 "char": "肴",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "cooked or prepared meat",
 "pron": "yáo"
 },
-"words": [
+"words": [],
+"extraWords": [
+[
+"菜肴",
+4.33,
+"cài yáo",
+"vegetable and meat dishes; dish"
+],
 [
 "佳肴",
-6,
+2.15,
 "jiā yáo",
 "fine food; delicacies; delicious food"
+],
+[
+"肴",
+1.5,
+"yáo",
+"variant of 肴[yáo]"
+],
+[
+"肴",
+1.5,
+"yáo",
+"meat dishes; mixed viands"
+],
+[
+"肴",
+1.5,
+"yáo",
+"variant of 肴[yáo]"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 553 731 Q 628 798 630 800 Q 631 810 623 823 Q 599 860 570 860 Q 561 861 561 849 Q 558 810 495 747 L 463 718 Q 412 676 288 610 Q 279 607 288 603 Q 348 594 475 671 Q 479 675 510 697 L 553 731 Z",
 "M 510 697 Q 580 666 658 626 Q 674 616 687 616 Q 693 617 696 626 Q 702 639 681 667 Q 663 700 553 731 L 495 747 Q 413 771 365 779 Q 358 780 359 771 Q 362 761 372 756 Q 415 740 463 718 L 510 697 Z",

@@ -1,11 +1,35 @@
 {
 "char": "养",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "raise, rear, bring up; support",
 "pron": "yǎng"
 },
 "words": [
+[
+"养",
+2,
+"yǎng",
+"to raise (animals); to bring up (children); to keep (pets); to support; to give birth"
+],
+[
+"营养",
+3,
+"yíng yǎng",
+"nutrition; nourishment; CL:种[zhǒng]"
+],
+[
+"疗养",
+4,
+"liáo yǎng",
+"to get well; to heal; to recuperate; to convalesce; convalescence; to nurse"
+],
+[
+"培养",
+4,
+"péi yǎng",
+"to cultivate; to breed; to foster; to nurture; to educate; to groom (for a position); education; fostering; culture (biology)"
+],
 [
 "养成",
 4,
@@ -13,108 +37,126 @@
 "to cultivate; to raise; to form (a habit); to acquire"
 ],
 [
-"培养",
-5,
-"péi yǎng",
-"to cultivate; to breed; to foster; to nurture; to educate; to groom (for a position); education; fostering; culture (biology)"
-],
-[
-"营养",
-5,
-"yíng yǎng",
-"nutrition; nourishment; CL:種|种[zhong3]"
-],
-[
-"抚养",
-6,
-"fǔ yǎng",
-"to foster; to bring up; to raise"
-],
-[
-"教养",
-6,
-"jiào yǎng",
-"to train; to educate; to bring up; to nurture; education; culture; upbringing; early conditioning"
-],
-[
 "保养",
-6,
+5,
 "bǎo yǎng",
 "to take good care of (or conserve) one's health; to keep in good repair; to maintain; maintenance"
 ],
 [
-"饲养",
-6,
-"sì yǎng",
-"to raise; to rear"
-],
-[
 "修养",
-6,
+5,
 "xiū yǎng",
 "accomplishment; training; self-cultivation"
-]
-],
-"extraWords": [
-[
-"养殖",
-22.96,
-"yǎng zhí",
-"to cultivate; cultivation; to further; to encourage"
-],
-[
-"养老",
-20.39,
-"yǎng lǎo",
-"to provide for the elderly (family members); to enjoy a life in retirement"
 ],
 [
 "收养",
-17.02,
+6,
 "shōu yǎng",
 "to take in and care for (an elderly person, a dog etc); to adopt (a child); adoption"
 ],
 [
+"养老",
+6,
+"yǎng lǎo",
+"to provide for the elderly (family members); to enjoy a life in retirement"
+],
+[
+"抚养",
+7,
+"fǔ yǎng",
+"to foster; to bring up; to raise"
+],
+[
+"抚养费",
+7,
+"fǔ yǎng fèi",
+"child support payment (after a divorce)"
+],
+[
+"教养",
+7,
+"jiào yǎng",
+"to train; to educate; to bring up; to nurture; education; culture; upbringing; early conditioning"
+],
+[
 "领养",
-11.15,
+7,
 "lǐng yǎng",
 "adoption; to adopt (a child)"
 ],
 [
+"赡养",
+7,
+"shàn yǎng",
+"to support; to provide support for; to maintain"
+],
+[
+"饲养",
+7,
+"sì yǎng",
+"to raise; to rear"
+],
+[
+"素养",
+7,
+"sù yǎng",
+"(personal) accomplishment; attainment in self-cultivation"
+],
+[
+"喂养",
+7,
+"wèi yǎng",
+"to feed (a child, domestic animal etc); to keep; to raise (an animal)"
+],
+[
+"休养",
+7,
+"xiū yǎng",
+"to recuperate; to recover; to convalesce"
+],
+[
+"养活",
+7,
+"yǎng huo",
+"to provide for; to keep (animals, a family etc); to raise animals; to feed and clothe; support; the necessities of life; to give birth"
+],
+[
+"养老金",
+7,
+"yǎng lǎo jīn",
+"pension"
+],
+[
+"养老院",
+7,
+"yǎng lǎo yuàn",
+"nursing home"
+],
+[
 "养生",
-9.4,
+7,
 "yǎng shēng",
 "to maintain good health; to raise a child or animal; curing (of concrete etc)"
 ],
 [
-"养老金",
-7.34,
-"yǎng lǎo jīn",
-"pension"
+"养殖",
+7,
+"yǎng zhí",
+"to cultivate; cultivation; to further; to encourage"
+]
+],
+"extraWords": [
+[
+"养猪",
+6.39,
+"???",
+"???"
 ],
 [
 "养护",
 6.14,
 "yǎng hù",
 "to maintain; to conserve; curing (concrete etc)"
-],
-[
-"素养",
-6.09,
-"sù yǎng",
-"(personal) accomplishment; attainment in self-cultivation"
-],
-[
-"养活",
-5.72,
-"yǎng huo",
-"to provide for; to keep (animals, a family etc); to raise animals; to feed and clothe; support; the necessities of life; to give birth"
-],
-[
-"喂养",
-5.63,
-"wèi yǎng",
-"to feed (a child, domestic animal etc); to keep; to raise (an animal)"
 ]
 ],
 "strokes": [

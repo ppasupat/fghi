@@ -1,6 +1,6 @@
 {
 "char": "恢",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "restore; big, great, immense, vast",
 "pron": "huī"
@@ -13,7 +13,20 @@
 "to reinstate; to resume; to restore; to recover; to regain; to rehabilitate"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"恢",
+6.59,
+"huī",
+"to restore; to recover; great"
+],
+[
+"恢复性",
+1.37,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 141 516 Q 125 458 98 403 Q 83 367 104 339 Q 113 323 132 337 Q 178 385 172 465 Q 173 496 163 519 Q 157 526 152 527 Q 145 526 141 516 Z",
 "M 296 579 Q 302 573 313 563 Q 335 542 358 517 Q 368 505 383 505 Q 392 505 397 517 Q 401 530 395 555 Q 391 573 366 586 Q 306 610 297 607 C 269 606 275 600 296 579 Z",

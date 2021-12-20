@@ -1,102 +1,132 @@
 {
 "char": "记",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "record; keep in mind, remember",
 "pron": "jì"
 },
 "words": [
 [
+"记",
+1,
+"jì",
+"to record; to note; to memorize; to remember; mark; sign; classifier for blows, kicks, shots"
+],
+[
 "记得",
-3,
+1,
 "jì de",
 "to remember"
 ],
 [
+"记住",
+1,
+"jì zhu",
+"to remember; to bear in mind; to learn by heart"
+],
+[
 "忘记",
-3,
+1,
 "wàng jì",
 "to forget"
 ],
 [
+"笔记",
+2,
+"bǐ jì",
+"to take down (in writing); notes; a type of literature consisting mainly of short sketches; CL:本[běn]"
+],
+[
 "笔记本",
-3,
+2,
 "bǐ jì běn",
-"notebook (stationery); CL:本[ben3]; notebook (computing)"
+"notebook (stationery); CL:本[běn]; notebook (computing)"
+],
+[
+"记录",
+3,
+"jì lù",
+"to record; record (written account); note-taker; record (in sports etc); CL:个[gè]"
 ],
 [
 "记者",
-4,
+3,
 "jì zhě",
-"reporter; journalist; CL:個|个[ge4]"
+"reporter; journalist; CL:个[gè]"
+],
+[
+"登记",
+4,
+"dēng jì",
+"to register (one's name)"
+],
+[
+"记载",
+4,
+"jì zǎi",
+"to write down; to record; written account"
 ],
 [
 "日记",
 4,
 "rì jì",
-"diary; CL:則|则[ze2],本[ben3],篇[pian1]"
-],
-[
-"记录",
-5,
-"jì lù",
-"to record; record (written account); note-taker; record (in sports etc); CL:個|个[ge4]"
+"diary; CL:则[zé],本[běn],篇[piān]"
 ],
 [
 "记忆",
 5,
 "jì yì",
-"to remember; to recall; memory; CL:個|个[ge4]"
-],
-[
-"登记",
-5,
-"dēng jì",
-"to register (one's name)"
-],
-[
-"标记",
-6,
-"biāo jì",
-"sign; mark; symbol; to mark up; (computing) token"
-],
-[
-"记载",
-6,
-"jì zǎi",
-"to write down; to record; written account"
+"to remember; to recall; memory; CL:个[gè]"
 ],
 [
 "惦记",
-6,
+7,
 "diàn jì",
 "to think of; to keep thinking about; to be concerned about"
 ],
 [
-"记性",
-6,
-"jì xing",
-"memory (ability to retain information)"
+"记号",
+7,
+"jì hao",
+"mark; symbol; notation; seal"
 ],
 [
-"传记",
-6,
-"zhuàn jì",
-"biography; CL:篇[pian1],部[bu4]"
+"记忆犹新",
+7,
+"jì yì yóu xīn",
+"to remain fresh in one's memory (idiom)"
+],
+[
+"牢记",
+7,
+"láo jì",
+"to keep in mind; to remember"
+],
+[
+"铭记",
+7,
+"míng jì",
+"to engrave in one's memory"
 ],
 [
 "书记",
-6,
+7,
 "shū ji",
 "secretary (chief official of a branch of a socialist or communist party); clerk; scribe"
+],
+[
+"传记",
+7,
+"zhuàn jì",
+"biography; CL:篇[piān],部[bù]"
 ]
 ],
 "extraWords": [
 [
-"记住",
-104.75,
-"jì zhu",
-"to remember; to bear in mind; to learn by heart"
+"标记",
+21.97,
+"biāo jì",
+"sign; mark; symbol; to mark up; (computing) token"
 ],
 [
 "副书记",
@@ -111,16 +141,10 @@
 "general secretary (of the Communist Party)"
 ],
 [
-"笔记",
-8.54,
-"bǐ jì",
-"to take down (in writing); notes; a type of literature consisting mainly of short sketches; CL:本[ben3]"
-],
-[
-"记号",
-7.48,
-"jì hao",
-"mark; symbol; notation; seal"
+"见习记者",
+7.1,
+"???",
+"???"
 ],
 [
 "记者招待会",
@@ -129,10 +153,16 @@
 "press conference"
 ],
 [
-"牢记",
-5.34,
-"láo jì",
-"to keep in mind; to remember"
+"记者们",
+5.62,
+"???",
+"???"
+],
+[
+"实习记者",
+5.12,
+"???",
+"???"
 ]
 ],
 "strokes": [

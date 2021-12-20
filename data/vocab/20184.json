@@ -1,60 +1,78 @@
 {
 "char": "付",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "give, deliver, pay, hand over; entrust",
 "pron": "fù"
 },
 "words": [
 [
-"付款",
-4,
-"fù kuǎn",
-"to pay a sum of money; payment"
+"付",
+3,
+"Fù",
+"surname Fu"
 ],
 [
-"应付",
-5,
-"yìng fu",
-"to deal with; to cope"
+"付",
+3,
+"fù",
+"to pay; to hand over to; classifier for pairs or sets of things"
 ],
-[
-"对付",
-6,
-"duì fu",
-"to handle; to deal with; to cope; to get by with"
-]
-],
-"extraWords": [
 [
 "支付",
-74.64,
+3,
 "zhī fù",
 "to pay (money)"
 ],
 [
+"对付",
+4,
+"duì fu",
+"to handle; to deal with; to cope; to get by with"
+],
+[
 "付出",
-51.78,
+4,
 "fù chū",
 "to pay; to invest (energy or time in a friendship etc)"
 ],
 [
+"付费",
+7,
+"fù fèi",
+"to pay; to cover the costs"
+],
+[
+"付款",
+7,
+"fù kuǎn",
+"to pay a sum of money; payment"
+],
+[
 "交付",
-10.97,
+7,
 "jiāo fù",
 "to hand over; to deliver"
 ],
+[
+"托付",
+7,
+"tuō fù",
+"to entrust"
+],
+[
+"应付",
+7,
+"yìng fu",
+"to deal with; to cope"
+]
+],
+"extraWords": [
 [
 "付给",
 9.69,
 "fù gěi",
 "to deliver; to pay"
-],
-[
-"付费",
-5.1,
-"fù fèi",
-"to pay; to cover the costs"
 ]
 ],
 "strokes": [

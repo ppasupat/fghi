@@ -1,6 +1,6 @@
 {
 "char": "收",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "gather together, collect; harvest",
 "pron": "shōu"
@@ -8,51 +8,117 @@
 "words": [
 [
 "收",
-4,
+2,
 "shōu",
 "to receive; to accept; to collect; to put away; to restrain; to stop; in care of (used on address line after name)"
 ],
 [
-"收拾",
-4,
-"shōu shi",
-"to put in order; to tidy up; to pack; to repair; (coll.) to sort sb out; to fix sb"
+"收到",
+2,
+"shōu dào",
+"to receive"
 ],
 [
 "收入",
-4,
+2,
 "shōu rù",
-"to take in; income; revenue; CL:筆|笔[bi3],個|个[ge4]"
+"to take in; income; revenue; CL:笔[bǐ],个[gè]"
+],
+[
+"收费",
+3,
+"shōu fèi",
+"to charge a fee"
+],
+[
+"收看",
+3,
+"shōu kàn",
+"to watch (a TV program)"
+],
+[
+"收听",
+3,
+"shōu tīng",
+"to listen to (a radio broadcast)"
+],
+[
+"收音机",
+3,
+"shōu yīn jī",
+"radio; CL:台[tái]"
+],
+[
+"收回",
+4,
+"shōu huí",
+"to regain; to retake; to take back; to withdraw; to revoke"
 ],
 [
 "收获",
-5,
+4,
 "shōu huò",
-"variant of 收穫|收获[shou1 huo4]"
+"variant of 收获[shōu huò]"
 ],
 [
 "收获",
-5,
+4,
 "shōu huò",
 "to harvest; to reap; to gain; crop; harvest; profit; gain; bonus; reward"
 ],
 [
-"收据",
-5,
-"shōu jù",
-"receipt; CL:張|张[zhang1]"
+"收益",
+4,
+"shōu yì",
+"earnings; profit"
 ],
 [
 "吸收",
-5,
+4,
 "xī shōu",
 "to absorb; to assimilate; to ingest; to recruit"
 ],
 [
-"收音机",
+"丰收",
+5,
+"fēng shōu",
+"bumper harvest"
+],
+[
+"回收",
+5,
+"huí shōu",
+"to recycle; to reclaim; to retrieve; to recover; to recall (a defective product)"
+],
+[
+"收购",
+5,
+"shōu gòu",
+"to purchase (from various places); to acquire (a company)"
+],
+[
+"收集",
+5,
+"shōu jí",
+"to gather; to collect"
+],
+[
+"收拾",
+5,
+"shōu shi",
+"to put in order; to tidy up; to pack; to repair; (coll.) to sort sb out; to fix sb"
+],
+[
+"接收",
 6,
-"shōu yīn jī",
-"radio; CL:臺|台[tai2]"
+"jiē shōu",
+"reception (of transmitted signal); to receive; to accept; to admit; to take over (e.g. a factory); to expropriate"
+],
+[
+"没收",
+6,
+"mò shōu",
+"to confiscate; to seize"
 ],
 [
 "收藏",
@@ -61,85 +127,97 @@
 "to hoard; to collect; collection; to bookmark (Internet)"
 ],
 [
-"回收",
+"收取",
 6,
-"huí shōu",
-"to recycle; to reclaim; to retrieve; to recover; to recall (a defective product)"
+"shōu qǔ",
+"to receive; to collect"
 ],
 [
-"收益",
+"收养",
 6,
-"shōu yì",
-"earnings; profit"
+"shōu yǎng",
+"to take in and care for (an elderly person, a dog etc); to adopt (a child); adoption"
+],
+[
+"收复",
+7,
+"shōu fù",
+"to recover (lost territory etc); to recapture"
+],
+[
+"收据",
+7,
+"shōu jù",
+"receipt; CL:张[zhāng]"
+],
+[
+"收敛",
+7,
+"shōu liǎn",
+"to dwindle; to vanish; to make vanish; to exercise restraint; to curb (one's mirth, arrogance etc); to astringe; (math.) to converge"
+],
+[
+"收留",
+7,
+"shōu liú",
+"to offer shelter; to have sb in one's care"
+],
+[
+"收买",
+7,
+"shōu mǎi",
+"to purchase; to bribe"
+],
+[
+"收视率",
+7,
+"shōu shì lǜ",
+"ratings (of a TV show)"
 ],
 [
 "收缩",
-6,
+7,
 "shōu suō",
 "to pull back; to shrink; to contract; (physiology) systole"
 ],
 [
-"丰收",
-6,
-"fēng shōu",
-"bumper harvest"
+"收支",
+7,
+"shōu zhī",
+"cash flow; financial balance; income and expenditure"
+],
+[
+"税收",
+7,
+"shuì shōu",
+"taxation"
+],
+[
+"验收",
+7,
+"yàn shōu",
+"to inspect and accept; acceptance"
+],
+[
+"增收",
+7,
+"zēng shōu",
+"to increase revenue; to increase income by (x amount); to levy (a surcharge, tax increase etc); (of a school) to have an increased student intake"
 ],
 [
 "招收",
-6,
+7,
 "zhāo shōu",
 "to hire; to recruit"
 ],
 [
 "征收",
-6,
+7,
 "zhēng shōu",
 "to levy (a tax); to expropriate"
-],
-[
-"验收",
-6,
-"yàn shōu",
-"to inspect and accept; acceptance"
 ]
 ],
 "extraWords": [
-[
-"收到",
-137.27,
-"shōu dào",
-"to receive"
-],
-[
-"收购",
-86.5,
-"shōu gòu",
-"to purchase (from various places); to acquire (a company)"
-],
-[
-"收费",
-68.75,
-"shōu fèi",
-"to charge a fee"
-],
-[
-"税收",
-39.98,
-"shuì shōu",
-"taxation"
-],
-[
-"收集",
-38.11,
-"shōu jí",
-"to gather; to collect"
-],
-[
-"收取",
-28.32,
-"shōu qǔ",
-"to receive; to collect"
-],
 [
 "收盘",
 23.07,
@@ -153,52 +231,10 @@
 "earnings rate; earnings yield (finance)"
 ],
 [
-"收回",
-19.82,
-"shōu huí",
-"to regain; to retake; to take back; to withdraw; to revoke"
-],
-[
-"接收",
-19.22,
-"jiē shōu",
-"reception (of transmitted signal); to receive; to accept; to admit; to take over (e.g. a factory); to expropriate"
-],
-[
-"收养",
-17.02,
-"shōu yǎng",
-"to take in and care for (an elderly person, a dog etc); to adopt (a child); adoption"
-],
-[
-"收看",
-15.74,
-"shōu kàn",
-"to watch (a TV program)"
-],
-[
-"没收",
-12.18,
-"mò shōu",
-"to confiscate; to seize"
-],
-[
-"增收",
-11.27,
-"zēng shōu",
-"to increase revenue; to increase income by (x amount); to levy (a surcharge, tax increase etc); (of a school) to have an increased student intake"
-],
-[
-"收听",
-11.11,
-"shōu tīng",
-"to listen to (a radio broadcast)"
-],
-[
-"收支",
-10.58,
-"shōu zhī",
-"cash flow; financial balance; income and expenditure"
+"财政收入",
+10.17,
+"???",
+"???"
 ],
 [
 "低收入",
@@ -207,28 +243,16 @@
 "low income"
 ],
 [
-"收视率",
-7.81,
-"shōu shì lǜ",
-"ratings (of a TV show)"
-],
-[
-"收买",
-7.3,
-"shōu mǎi",
-"to purchase; to bribe"
-],
-[
 "收受",
 7.28,
 "shōu shòu",
 "to receive; to accept"
 ],
 [
-"收敛",
-6.69,
-"shōu liǎn",
-"to dwindle; to vanish; to make vanish; to exercise restraint; to curb (one's mirth, arrogance etc); to astringe; (math.) to converge"
+"乱收费",
+7.14,
+"???",
+"???"
 ],
 [
 "总收入",
@@ -241,6 +265,12 @@
 6.58,
 "shōu pán jià",
 "closing price (of share, commodity etc)"
+],
+[
+"收起",
+5.82,
+"???",
+"???"
 ],
 [
 "收缴",
@@ -265,6 +295,12 @@
 5.45,
 "shōu shì",
 "to watch TV"
+],
+[
+"纯收入",
+5.21,
+"???",
+"???"
 ]
 ],
 "strokes": [

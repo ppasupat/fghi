@@ -1,6 +1,6 @@
 {
 "char": "器",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "receptacle, vessel; instrument",
 "pron": "qì"
@@ -8,65 +8,107 @@
 "words": [
 [
 "机器",
-5,
+3,
 "jī qì",
-"machine; CL:臺|台[tai2],部[bu4],個|个[ge4]"
+"machine; CL:台[tái],部[bù],个[gè]"
 ],
 [
-"乐器",
-5,
-"yuè qì",
-"musical instrument; CL:件[jian4]"
+"武器",
+3,
+"wǔ qì",
+"weapon; arms; CL:种[zhǒng]"
 ],
 [
 "充电器",
-5,
+4,
 "chōng diàn qì",
 "battery charger"
 ],
 [
-"武器",
-6,
-"wǔ qì",
-"weapon; arms; CL:種|种[zhong3]"
-],
-[
 "器官",
-6,
+4,
 "qì guān",
 "organ (part of body tissue); apparatus"
 ],
 [
-"仪器",
-6,
-"yí qì",
-"instrument; apparatus; CL:臺|台[tai2]"
-],
-[
-"容器",
-6,
-"róng qì",
-"receptacle; vessel; (computing) container"
-],
-[
-"器材",
-6,
-"qì cái",
-"equipment; material"
-]
-],
-"extraWords": [
-[
 "机器人",
-37.92,
+5,
 "jī qì rén",
 "mechanical person; robot; android"
 ],
 [
 "电器",
-26.4,
+6,
 "diàn qì",
 "(electrical) appliance; device"
+],
+[
+"热水器",
+6,
+"rè shuǐ qì",
+"water heater"
+],
+[
+"仪器",
+6,
+"yí qì",
+"instrument; apparatus; CL:台[tái]"
+],
+[
+"瓷器",
+7,
+"cí qì",
+"chinaware; porcelain"
+],
+[
+"服务器",
+7,
+"fú wù qì",
+"server (computer); CL:台[tái]"
+],
+[
+"核武器",
+7,
+"hé wǔ qì",
+"nuclear weapon"
+],
+[
+"浏览器",
+7,
+"liú lǎn qì",
+"browser (software)"
+],
+[
+"器材",
+7,
+"qì cái",
+"equipment; material"
+],
+[
+"器械",
+7,
+"qì xiè",
+"apparatus; instrument; equipment; weapon"
+],
+[
+"显示器",
+7,
+"xiǎn shì qì",
+"monitor (computer)"
+],
+[
+"乐器",
+7,
+"yuè qì",
+"musical instrument; CL:件[jiàn]"
+]
+],
+"extraWords": [
+[
+"器",
+82.82,
+"qì",
+"device; tool; utensil; CL:台[tái]"
 ],
 [
 "凶器",
@@ -75,28 +117,10 @@
 "lethal weapon; murder weapon"
 ],
 [
-"服务器",
-24.19,
-"fú wù qì",
-"server (computer); CL:臺|台[tai2]"
-],
-[
 "处理器",
 21.79,
 "chǔ lǐ qì",
 "processor"
-],
-[
-"显示器",
-14.35,
-"xiǎn shì qì",
-"monitor (computer)"
-],
-[
-"核武器",
-11.31,
-"hé wǔ qì",
-"nuclear weapon"
 ],
 [
 "兵器",
@@ -105,16 +129,16 @@
 "weaponry; weapons; arms"
 ],
 [
-"器械",
-10.76,
-"qì xiè",
-"apparatus; instrument; equipment; weapon"
-],
-[
 "监视器",
 8.53,
 "jiān shì qì",
 "security camera; surveillance monitor"
+],
+[
+"容器",
+8.44,
+"róng qì",
+"receptacle; vessel; (computing) container"
 ],
 [
 "窃听器",
@@ -129,22 +153,16 @@
 "sensor; transducer"
 ],
 [
-"热水器",
-6.11,
-"rè shuǐ qì",
-"water heater"
+"播放器",
+7.27,
+"???",
+"???"
 ],
 [
 "探测器",
 5.99,
 "tàn cè qì",
 "detector; probe; craft"
-],
-[
-"瓷器",
-5.67,
-"cí qì",
-"chinaware; porcelain"
 ],
 [
 "遥控器",

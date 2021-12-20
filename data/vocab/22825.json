@@ -1,11 +1,29 @@
 {
 "char": "天",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "sky, heaven; god, celestial",
 "pron": "tiān"
 },
 "words": [
+[
+"白天",
+1,
+"bái tiān",
+"daytime; during the day; day; CL:个[gè]"
+],
+[
+"半天",
+1,
+"bàn tiān",
+"half of the day; a long time; quite a while; midair; CL:个[gè]"
+],
+[
+"后天",
+1,
+"hòu tiān",
+"the day after tomorrow; acquired (not innate); a posteriori"
+],
 [
 "今天",
 1,
@@ -19,10 +37,16 @@
 "tomorrow"
 ],
 [
-"昨天",
+"前天",
 1,
-"zuó tiān",
-"yesterday"
+"qián tiān",
+"the day before yesterday"
+],
+[
+"天",
+1,
+"tiān",
+"day; sky; heaven"
 ],
 [
 "天气",
@@ -31,28 +55,124 @@
 "weather"
 ],
 [
-"聊天",
-3,
-"liáo tiān",
-"to chat; to gossip"
+"星期天",
+1,
+"Xīng qī tiān",
+"Sunday; CL:个[gè]"
 ],
 [
-"礼拜天",
-4,
-"Lǐ bài tiān",
-"Sunday"
+"昨天",
+1,
+"zuó tiān",
+"yesterday"
+],
+[
+"春天",
+2,
+"chūn tiān",
+"spring (season); CL:个[gè]"
+],
+[
+"冬天",
+2,
+"dōng tiān",
+"winter; CL:个[gè]"
+],
+[
+"晴天",
+2,
+"qíng tiān",
+"clear sky; sunny day"
+],
+[
+"秋天",
+2,
+"qiū tiān",
+"autumn; CL:个[gè]"
+],
+[
+"天上",
+2,
+"tiān shàng",
+"celestial; heavenly"
+],
+[
+"夏天",
+2,
+"xià tiān",
+"summer; CL:个[gè]"
+],
+[
+"阴天",
+2,
+"yīn tiān",
+"cloudy day; overcast sky"
 ],
 [
 "天空",
-5,
+3,
 "tiān kōng",
 "sky"
 ],
 [
+"整天",
+3,
+"zhěng tiān",
+"all day long; whole day"
+],
+[
 "天真",
-5,
+4,
 "tiān zhēn",
 "naive; innocent; artless"
+],
+[
+"天才",
+5,
+"tiān cái",
+"talent; gift; genius; talented; gifted"
+],
+[
+"天然气",
+5,
+"tiān rán qì",
+"natural gas"
+],
+[
+"天文",
+5,
+"tiān wén",
+"astronomy"
+],
+[
+"当天",
+6,
+"dāng tiān",
+"on that day"
+],
+[
+"当天",
+6,
+"dàng tiān",
+"the same day"
+],
+[
+"蓝天",
+6,
+"lán tiān",
+"blue sky"
+],
+[
+"聊天儿",
+6,
+"liáo tiān r5",
+"erhua variant of 聊天[liáo tiān]"
+],
+[
+"天然",
+6,
+"tiān rán",
+"natural"
 ],
 [
 "天堂",
@@ -61,58 +181,166 @@
 "paradise; heaven"
 ],
 [
-"天赋",
+"天下",
 6,
-"tiān fù",
-"gift; innate skill"
+"tiān xià",
+"land under heaven; the whole world; the whole of China; realm; rule"
 ],
 [
-"天才",
-6,
-"tiān cái",
-"talent; gift; genius; talented; gifted"
-],
-[
-"天生",
-6,
-"tiān shēng",
-"nature; disposition; innate; natural"
+"半边天",
+7,
+"bàn biān tiān",
+"half the sky; women of the new society; womenfolk"
 ],
 [
 "成天",
-6,
+7,
 "chéng tiān",
 "(coll.) all day long; all the time"
 ],
 [
+"得天独厚",
+7,
+"dé tiān dú hòu",
+"blessed by heaven (idiom); enjoying exceptional advantages; favored by nature"
+],
+[
+"翻天覆地",
+7,
+"fān tiān fù dì",
+"sky and the earth turning upside down (idiom); fig. complete confusion; everything turned on its head"
+],
+[
 "航天",
-6,
+7,
 "háng tiān",
 "space flight"
 ],
 [
-"天然气",
-6,
-"tiān rán qì",
-"natural gas"
+"航天员",
+7,
+"háng tiān yuán",
+"astronaut"
 ],
 [
-"天文",
-6,
-"tiān wén",
-"astronomy"
+"惊天动地",
+7,
+"jīng tiān dòng dì",
+"world-shaking (idiom)"
 ],
 [
-"天伦之乐",
-6,
-"tiān lún zhī lè",
-"family love and joy; domestic bliss"
+"开天辟地",
+7,
+"kāi tiān pì dì",
+"to split heaven and earth apart (idiom); refers to the Pangu 盘古[Pán gǔ] creation myth"
 ],
 [
-"得天独厚",
-6,
-"dé tiān dú hòu",
-"blessed by heaven (idiom); enjoying exceptional advantages; favored by nature"
+"露天",
+7,
+"lù tiān",
+"outdoors; al fresco; in the open"
+],
+[
+"天长地久",
+7,
+"tiān cháng dì jiǔ",
+"enduring while the world lasts (idiom); eternal"
+],
+[
+"天地",
+7,
+"tiān dì",
+"heaven and earth; world; scope; field of activity"
+],
+[
+"天鹅",
+7,
+"tiān é",
+"swan"
+],
+[
+"天分",
+7,
+"tiān fèn",
+"natural gift; talent"
+],
+[
+"天赋",
+7,
+"tiān fù",
+"gift; innate skill"
+],
+[
+"天经地义",
+7,
+"tiān jīng dì yì",
+"lit. heaven's law and earth's principle (idiom); fig. right and proper; right and unalterable; a matter of course"
+],
+[
+"天平",
+7,
+"tiān píng",
+"scales (to weigh things)"
+],
+[
+"天桥",
+7,
+"Tiān qiáo",
+"Tianqiao district of Jinan city 济南市[Jǐ nán shì], Shandong; Tianqiao district in Beijing, formerly a center of folk culture"
+],
+[
+"天桥",
+7,
+"tiān qiáo",
+"overhead walkway; pedestrian bridge"
+],
+[
+"天生",
+7,
+"tiān shēng",
+"nature; disposition; innate; natural"
+],
+[
+"天使",
+7,
+"tiān shǐ",
+"angel"
+],
+[
+"天线",
+7,
+"tiān xiàn",
+"antenna; mast; connection with high-ranking officials"
+],
+[
+"天性",
+7,
+"tiān xìng",
+"nature; innate tendency"
+],
+[
+"天主教",
+7,
+"Tiān zhǔ jiào",
+"Catholicism"
+],
+[
+"先天",
+7,
+"xiān tiān",
+"inborn; innate; natural"
+],
+[
+"一天到晚",
+7,
+"yī tiān dào wǎn",
+"all day long; the whole day"
+],
+[
+"异想天开",
+7,
+"yì xiǎng tiān kāi",
+"to imagine the wildest thing; to indulge in fantasy"
 ]
 ],
 "extraWords": [
@@ -129,18 +357,6 @@
 "that day; the other day"
 ],
 [
-"当天",
-77.97,
-"dāng tiān",
-"on that day"
-],
-[
-"当天",
-77.97,
-"dàng tiān",
-"the same day"
-],
-[
 "天天",
 65.02,
 "tiān tiān",
@@ -153,58 +369,22 @@
 "God; Heavens"
 ],
 [
-"冬天",
-61.05,
-"dōng tiān",
-"winter; CL:個|个[ge4]"
-],
-[
-"天下",
-59.51,
-"tiān xià",
-"land under heaven; the whole world; the whole of China; realm; rule"
-],
-[
 "天津",
 58.39,
 "Tiān jīn",
 "Tianjin, a municipality in northeast China, abbr. 津"
 ],
 [
-"天使",
-51.66,
-"tiān shǐ",
-"angel"
+"聊天",
+42.14,
+"liáo tiān",
+"to chat; to gossip"
 ],
 [
 "第二天",
 40.62,
 "dì èr tiān",
 "next day; the morrow"
-],
-[
-"夏天",
-34.46,
-"xià tiān",
-"summer; CL:個|个[ge4]"
-],
-[
-"整天",
-33.09,
-"zhěng tiān",
-"all day long; whole day"
-],
-[
-"白天",
-32.66,
-"bái tiān",
-"daytime; during the day; day; CL:個|个[ge4]"
-],
-[
-"天然",
-30.93,
-"tiān rán",
-"natural"
 ],
 [
 "谢天谢地",
@@ -219,16 +399,10 @@
 "Scorpio or Scorpius (constellation and sign of the zodiac)"
 ],
 [
-"半天",
-26.21,
-"bàn tiān",
-"half of the day; a long time; quite a while; midair; CL:個|个[ge4]"
-],
-[
-"春天",
-25.82,
-"chūn tiān",
-"spring (season); CL:個|个[ge4]"
+"一整天",
+27.16,
+"???",
+"???"
 ],
 [
 "天秤座",
@@ -237,16 +411,10 @@
 "Libra (constellation and sign of the zodiac)"
 ],
 [
-"天地",
-20.36,
-"tiān dì",
-"heaven and earth; world; scope; field of activity"
-],
-[
-"前天",
-18.84,
-"qián tiān",
-"the day before yesterday"
+"第一天",
+22.41,
+"???",
+"???"
 ],
 [
 "老天爷",
@@ -255,34 +423,10 @@
 "God; Heavens"
 ],
 [
-"后天",
-14.84,
-"hòu tiān",
-"the day after tomorrow; acquired (not innate); a posteriori"
-],
-[
-"星期天",
-13.95,
-"Xīng qī tiān",
-"Sunday; CL:個|个[ge4]"
-],
-[
-"天上",
-13.27,
-"tiān shàng",
-"celestial; heavenly"
-],
-[
 "前几天",
 12.69,
 "qián jǐ tiān",
 "a few days ago; a few days before; the past few days; the previous few days"
-],
-[
-"秋天",
-12.16,
-"qiū tiān",
-"autumn; CL:個|个[ge4]"
 ],
 [
 "天涯",
@@ -291,28 +435,22 @@
 "the other end of the world; a faraway place"
 ],
 [
-"蓝天",
-10.88,
-"lán tiān",
-"blue sky"
-],
-[
 "上天",
 10.63,
 "shàng tiān",
 "Heaven; Providence; God; the day before; the sky above; to fly to the sky; to take off and fly into space; to die; to pass away"
 ],
 [
+"天啊",
+10.6,
+"???",
+"???"
+],
+[
 "天津市",
 10.17,
 "Tiān jīn shì",
 "Tianjin, a municipality in northeast China, abbr. 津"
-],
-[
-"天鹅",
-9.6,
-"tiān é",
-"swan"
 ],
 [
 "天朝",
@@ -324,25 +462,7 @@
 "天王",
 8.71,
 "tiān wáng",
-"emperor; god; Hong Xiuquan's self-proclaimed title; see also 洪秀全[Hong2 Xiu4 quan2]"
-],
-[
-"天桥",
-7.84,
-"Tiān qiáo",
-"Tianqiao district of Jinan city 濟南市|济南市[Ji3 nan2 shi4], Shandong; Tianqiao district in Beijing, formerly a center of folk culture"
-],
-[
-"天桥",
-7.84,
-"tiān qiáo",
-"overhead walkway; pedestrian bridge"
-],
-[
-"航天员",
-7.77,
-"háng tiān yuán",
-"astronaut"
+"emperor; god; Hong Xiuquan's self-proclaimed title; see also 洪秀全[Hóng Xiù quán]"
 ],
 [
 "天亮",
@@ -355,24 +475,6 @@
 6.98,
 "tiān huā bǎn",
 "ceiling"
-],
-[
-"天分",
-6.95,
-"tiān fèn",
-"natural gift; talent"
-],
-[
-"天主教",
-6.89,
-"Tiān zhǔ jiào",
-"Catholicism"
-],
-[
-"先天",
-6.86,
-"xiān tiān",
-"inborn; innate; natural"
 ],
 [
 "改天",
@@ -390,13 +492,13 @@
 "天河",
 6.3,
 "Tiān hé",
-"Milky Way; Tianhe District of Guangzhou City 廣州市|广州市[Guang3 zhou1 Shi4], Guangdong"
+"Milky Way; Tianhe District of Guangzhou City 广州市[Guǎng zhōu Shì], Guangdong"
 ],
 [
-"露天",
-6.25,
-"lù tiān",
-"outdoors; al fresco; in the open"
+"天津队",
+6.16,
+"???",
+"???"
 ],
 [
 "天子",
@@ -405,28 +507,22 @@
 "the (rightful) emperor; \"Son of Heaven\" (traditional English translation)"
 ],
 [
-"晴天",
-5.99,
-"qíng tiān",
-"clear sky; sunny day"
-],
-[
 "先天性",
 5.86,
 "xiān tiān xìng",
 "congenital; intrinsic; innateness"
 ],
 [
+"第三天",
+5.71,
+"???",
+"???"
+],
+[
 "天山",
 5.66,
 "Tiān shān",
 "Tianshan mountain range between XinJiang and Mongolia and Kyrgyzstan"
-],
-[
-"天性",
-5.4,
-"tiān xìng",
-"nature; innate tendency"
 ],
 [
 "天气预报",
@@ -441,10 +537,10 @@
 "gargantuan; as big as the sky; enormous"
 ],
 [
-"天平",
-5.09,
-"tiān píng",
-"scales (to weigh things)"
+"天宇",
+5.29,
+"???",
+"???"
 ],
 [
 "天主教徒",

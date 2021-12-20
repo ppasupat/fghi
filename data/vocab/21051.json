@@ -1,6 +1,6 @@
 {
 "char": "刻",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "carve, engrave; quarter hour",
 "pron": "kè"
@@ -8,65 +8,77 @@
 "words": [
 [
 "刻",
-3,
+2,
 "kè",
 "quarter (hour); moment; to carve; to engrave; to cut; oppressive; classifier for short time intervals"
 ],
 [
-"时刻",
-5,
-"shí kè",
-"time; juncture; moment; period of time; CL:個|个[ge4],段[duan4]; constantly; always"
-],
-[
 "立刻",
-5,
+3,
 "lì kè",
 "forthwith; immediate; prompt; promptly; straightway; thereupon; at once"
 ],
 [
 "深刻",
-5,
+3,
 "shēn kè",
 "profound; deep; deep-going"
 ],
 [
-"刻苦",
-5,
-"kè kǔ",
-"hardworking; assiduous"
+"时刻",
+3,
+"shí kè",
+"time; juncture; moment; period of time; CL:个[gè],段[duàn]; constantly; always"
 ],
-[
-"片刻",
-6,
-"piàn kè",
-"short period of time; a moment"
-],
-[
-"雕刻",
-6,
-"diāo kè",
-"to carve; to engrave; carving"
-],
-[
-"刻不容缓",
-6,
-"kè bù róng huǎn",
-"to brook no delay; to demand immediate action"
-]
-],
-"extraWords": [
 [
 "此刻",
-25.49,
+5,
 "cǐ kè",
 "this moment; now; at present"
 ],
 [
+"雕刻",
+7,
+"diāo kè",
+"to carve; to engrave; carving"
+],
+[
+"苛刻",
+7,
+"kē kè",
+"harsh; severe; demanding"
+],
+[
+"刻苦",
+7,
+"kè kǔ",
+"hardworking; assiduous"
+],
+[
 "刻意",
-12.87,
+7,
 "kè yì",
 "meticulous; painstaking; deliberate"
+],
+[
+"刻舟求剑",
+7,
+"kè zhōu qiú jiàn",
+"lit. a notch on the side of a boat to locate a sword dropped overboard (idiom); fig. an action made pointless by changed circumstances"
+]
+],
+"extraWords": [
+[
+"一刻",
+46.59,
+"???",
+"???"
+],
+[
+"片刻",
+14.25,
+"piàn kè",
+"short period of time; a moment"
 ],
 [
 "刻薄",
@@ -85,12 +97,6 @@
 5.89,
 "jí kè",
 "immediately; instant; instantly"
-],
-[
-"苛刻",
-5.46,
-"kē kè",
-"harsh; severe; demanding"
 ]
 ],
 "strokes": [

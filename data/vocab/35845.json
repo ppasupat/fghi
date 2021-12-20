@@ -1,6 +1,6 @@
 {
 "char": "谅",
-"level": 4,
+"level": "6",
 "info": {
 "gloss": "excuse, forgive; guess, presume",
 "pron": "liàng"
@@ -8,21 +8,21 @@
 "words": [
 [
 "原谅",
-4,
+6,
 "yuán liàng",
 "to excuse; to forgive; to pardon"
 ],
 [
-"体谅",
-6,
-"tǐ liàng",
-"to empathize; to allow (for sth); to show understanding; to appreciate"
-],
-[
 "谅解",
-6,
+7,
 "liàng jiě",
 "to understand; to make allowances for; understanding"
+],
+[
+"体谅",
+7,
+"tǐ liàng",
+"to empathize; to allow (for sth); to show understanding; to appreciate"
 ]
 ],
 "extraWords": [],

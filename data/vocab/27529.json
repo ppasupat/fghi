@@ -1,12 +1,31 @@
 {
 "char": "殉",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "die for cause, be martyr for",
 "pron": "xùn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"殉职",
+1.76,
+"xùn zhí",
+"to die in the line of duty"
+],
+[
+"殉",
+1.4,
+"xùn",
+"to be buried with the dead; to die for a cause"
+],
+[
+"殉情",
+0.6,
+"xùn qíng",
+"to die together in the name of love; to sacrifice oneself for love"
+]
+],
 "strokes": [
 "M 279 658 Q 456 703 464 711 Q 473 720 468 728 Q 461 740 430 746 Q 399 750 369 736 Q 326 720 280 705 Q 228 692 168 683 Q 131 674 158 659 Q 189 643 242 648 L 279 658 Z",
 "M 177 390 Q 240 478 252 497 L 260 509 Q 290 572 317 602 Q 324 611 320 622 Q 316 632 291 651 Q 284 655 279 658 C 253 673 229 675 242 648 Q 243 647 244 644 Q 257 620 248 599 Q 203 472 88 322 Q 81 313 79 308 Q 76 298 88 301 Q 109 304 162 371 L 177 390 Z",

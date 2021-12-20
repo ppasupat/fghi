@@ -1,12 +1,31 @@
 {
 "char": "甥",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "sister's child",
 "pron": "shēng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"外甥",
+4.26,
+"wài shēng",
+"sister's son; wife's sibling's son"
+],
+[
+"外甥女",
+1.15,
+"wài sheng nǚ",
+"sister's daughter; wife's sibling's daughter"
+],
+[
+"甥",
+0.3,
+"shēng",
+"sister's son; nephew"
+]
+],
 "strokes": [
 "M 209 511 Q 257 610 257 612 Q 256 616 255 618 Q 249 628 224 643 Q 200 653 185 652 Q 170 648 179 631 Q 207 583 98 382 Q 91 372 90 367 Q 89 357 99 361 Q 126 376 197 489 L 209 511 Z",
 "M 365 507 Q 392 516 424 524 Q 455 534 461 538 Q 468 545 464 553 Q 457 563 429 568 Q 402 572 367 555 L 323 538 Q 311 537 300 532 Q 258 520 209 511 C 180 505 169 500 197 489 L 198 489 Q 240 468 289 487 Q 304 491 322 495 L 365 507 Z",

@@ -1,12 +1,31 @@
 {
 "char": "禀",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "report to, petition",
 "pron": "bǐng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"禀",
+1.85,
+"bǐng",
+"to make a report (to a superior); to give; to endow; to receive; petition"
+],
+[
+"禀报",
+1.39,
+"bǐng bào",
+"to report (to one's superior)"
+],
+[
+"禀赋",
+0.93,
+"bǐng fù",
+"natural endowment; gift"
+]
+],
 "strokes": [
 "M 467 816 Q 495 797 526 773 Q 541 763 555 765 Q 565 766 569 780 Q 572 795 560 822 Q 547 849 456 861 Q 441 862 436 859 Q 432 855 434 843 Q 438 833 467 816 Z",
 "M 203 693 Q 184 690 198 675 Q 211 662 228 657 Q 247 653 263 657 Q 468 714 793 715 Q 794 715 796 715 Q 815 715 819 723 Q 823 733 809 747 Q 761 783 725 774 Q 572 741 203 693 Z",

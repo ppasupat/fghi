@@ -1,6 +1,6 @@
 {
 "char": "粥",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "rice gruel, congee",
 "pron": "zhōu"
@@ -10,13 +10,19 @@
 "粥",
 6,
 "yù",
-"see 葷粥|荤粥[Xun1 yu4]"
+"see 荤粥[Xūn yù]"
 ],
 [
 "粥",
 6,
 "zhōu",
-"congee; gruel; porridge; CL:碗[wan3]"
+"congee; gruel; porridge; CL:碗[wǎn]"
+],
+[
+"一锅粥",
+7,
+"yī guō zhōu",
+"(lit.) a pot of porridge; (fig.) a complete mess"
 ]
 ],
 "extraWords": [],

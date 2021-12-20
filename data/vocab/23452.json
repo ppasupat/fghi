@@ -1,6 +1,6 @@
 {
 "char": "宜",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "suitable, right, fitting, proper",
 "pron": "yí"
@@ -19,24 +19,36 @@
 "cheap; inexpensive; small advantages; to let sb off lightly"
 ],
 [
+"不宜",
+7,
+"bù yí",
+"not suitable; inadvisable; inappropriate"
+],
+[
+"事宜",
+7,
+"shì yí",
+"matters; arrangements"
+],
+[
 "适宜",
-6,
+7,
 "shì yí",
 "suitable; appropriate"
 ]
 ],
 "extraWords": [
 [
-"不宜",
-20.89,
-"bù yí",
-"not suitable; inadvisable; inappropriate"
+"宜",
+44.7,
+"Yí",
+"surname Yi"
 ],
 [
-"事宜",
-17.79,
-"shì yí",
-"matters; arrangements"
+"宜",
+44.7,
+"yí",
+"proper; should; suitable; appropriate"
 ],
 [
 "因地制宜",

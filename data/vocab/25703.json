@@ -1,24 +1,30 @@
 {
 "char": "摧",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "destroy, break, injure",
 "pron": "cuī"
 },
 "words": [
 [
-"摧残",
-6,
-"cuī cán",
-"to ravage; to ruin"
+"摧毁",
+7,
+"cuī huǐ",
+"to destroy; to wreck"
 ]
 ],
 "extraWords": [
 [
-"摧毁",
-25.25,
-"cuī huǐ",
-"to destroy; to wreck"
+"摧残",
+3.77,
+"cuī cán",
+"to ravage; to ruin"
+],
+[
+"摧",
+2.18,
+"cuī",
+"to break; to destroy; to devastate; to ravage; to repress"
 ]
 ],
 "strokes": [

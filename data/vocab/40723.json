@@ -1,14 +1,26 @@
 {
 "char": "鼓",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "drum; beat, top, strike",
 "pron": "gǔ"
 },
 "words": [
 [
+"鼓",
+5,
+"gǔ",
+"old variant of 鼓[gǔ]"
+],
+[
+"鼓",
+5,
+"gǔ",
+"drum; CL:通[tòng],面[miàn]; to drum; to strike; to rouse; to bulge; to swell"
+],
+[
 "鼓励",
-4,
+5,
 "gǔ lì",
 "to encourage"
 ],
@@ -19,16 +31,28 @@
 "to applaud; to clap"
 ],
 [
-"鼓舞",
-5,
-"gǔ wǔ",
-"heartening (news); to boost (morale); CL:個|个[ge4]"
-],
-[
 "鼓动",
-6,
+7,
 "gǔ dòng",
 "to agitate; to arouse; to instigate; to encite"
+],
+[
+"鼓舞",
+7,
+"gǔ wǔ",
+"heartening (news); to boost (morale); CL:个[gè]"
+],
+[
+"敲边鼓",
+7,
+"qiāo biān gǔ",
+"to back sb up; to support sb in an argument; (lit. to beat nearby drum)"
+],
+[
+"一鼓作气",
+7,
+"yī gǔ zuò qì",
+"in a spurt of energy"
 ]
 ],
 "extraWords": [
@@ -36,7 +60,13 @@
 "鼓浪屿",
 5.57,
 "Gǔ làng yǔ",
-"Gulangyu, scenic island off Xiamen 廈門|厦门[Xia4 men2]"
+"Gulangyu, scenic island off Xiamen 厦门[Xià mén]"
+],
+[
+"战鼓",
+5.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

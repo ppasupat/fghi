@@ -1,6 +1,6 @@
 {
 "char": "圈",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "to circle; a circle; corral",
 "pron": "juān, juàn, quān"
@@ -8,35 +8,47 @@
 "words": [
 [
 "圈",
-5,
+4,
 "juān",
 "to confine; to lock up; to pen in"
 ],
 [
 "圈",
-5,
+4,
 "juàn",
 "pen (pig); a fold"
 ],
 [
 "圈",
-5,
+4,
 "quān",
-"circle; ring; loop; classifier for loops, orbits, laps of race etc; CL:個|个[ge4]; to surround; to circle"
+"circle; ring; loop; classifier for loops, orbits, laps of race etc; CL:个[gè]; to surround; to circle"
 ],
 [
 "圈套",
-6,
+7,
 "quān tào",
 "trap; snare; trick"
+],
+[
+"圈子",
+7,
+"quān zi",
+"circle; ring; (social) circle"
+],
+[
+"演艺圈",
+7,
+"yǎn yì quān",
+"show business"
 ]
 ],
 "extraWords": [
 [
-"圈子",
-9.54,
-"quān zi",
-"circle; ring; (social) circle"
+"娱乐圈",
+7.97,
+"???",
+"???"
 ],
 [
 "眼圈",

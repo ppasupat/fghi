@@ -1,6 +1,6 @@
 {
 "char": "吊",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "condole, mourn, pity; hang",
 "pron": "diào"
@@ -16,7 +16,19 @@
 "吊",
 6,
 "diào",
-"a string of 100 cash (arch.); to lament; to condole with; variant of 吊[diao4]"
+"a string of 100 cash (arch.); to lament; to condole with; variant of 吊[diào]"
+],
+[
+"吊销",
+7,
+"diào xiāo",
+"to suspend (an agreement); to revoke"
+],
+[
+"提心吊胆",
+7,
+"tí xīn diào dǎn",
+"(saying) to be very scared and on edge"
 ]
 ],
 "extraWords": [],

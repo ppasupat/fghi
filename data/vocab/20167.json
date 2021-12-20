@@ -1,6 +1,6 @@
 {
 "char": "仇",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "enemy, hate, hatred, enmity",
 "pron": "chóu, qiú"
@@ -8,9 +8,51 @@
 "words": [
 [
 "报仇",
-6,
+7,
 "bào chóu",
 "to take revenge; to avenge"
+],
+[
+"仇",
+7,
+"Qiú",
+"surname Qiu"
+],
+[
+"仇",
+7,
+"chóu",
+"hatred; animosity; enmity; foe; enemy; to feel animosity toward (the wealthy, foreigners etc)"
+],
+[
+"仇",
+7,
+"qiú",
+"spouse; companion"
+],
+[
+"仇",
+7,
+"chóu",
+"variant of 仇[chóu]"
+],
+[
+"仇",
+7,
+"chóu",
+"variant of 仇[chóu]"
+],
+[
+"仇恨",
+7,
+"chóu hèn",
+"to hate; hatred; enmity; hostility"
+],
+[
+"仇人",
+7,
+"chóu rén",
+"foe; one's personal enemy"
 ]
 ],
 "extraWords": [
@@ -19,12 +61,6 @@
 21.94,
 "fù chóu",
 "to avenge; vengeance"
-],
-[
-"仇恨",
-11.18,
-"chóu hèn",
-"to hate; hatred; enmity; hostility"
 ]
 ],
 "strokes": [

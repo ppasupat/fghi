@@ -1,11 +1,35 @@
 {
 "char": "引",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "to pull, draw out, attract; to stretch",
 "pron": "yǐn"
 },
 "words": [
+[
+"吸引",
+4,
+"xī yǐn",
+"to attract (interest, investment etc); CL:个[gè]"
+],
+[
+"引",
+4,
+"yǐn",
+"to draw (e.g. a bow); to pull; to stretch sth; to extend; to lengthen; to involve or implicate in; to attract; to lead; to guide; to leave; to provide evidence or justification for; old unit of distance equal to 10 丈[zhàng], one-thirtieth of a km or 33.33 meters"
+],
+[
+"引导",
+4,
+"yǐn dǎo",
+"to guide; to lead (around); to conduct; to boot; introduction; primer"
+],
+[
+"引进",
+4,
+"yǐn jìn",
+"to recommend; to introduce (from outside)"
+],
 [
 "引起",
 4,
@@ -13,49 +37,67 @@
 "to give rise to; to lead to; to cause; to arouse"
 ],
 [
-"吸引",
-4,
-"xī yǐn",
-"to attract (interest, investment etc); CL:個|个[ge4]"
-],
-[
-"引擎",
-6,
-"yǐn qíng",
-"engine (loanword); CL:臺|台[tai2]"
-],
-[
-"引导",
-6,
-"yǐn dǎo",
-"to guide; to lead (around); to conduct; to boot; introduction; primer"
-],
-[
-"引用",
-6,
-"yǐn yòng",
-"to quote; to cite; to recommend; to appoint; (computing) reference"
-]
-],
-"extraWords": [
-[
-"引进",
-59.2,
-"yǐn jìn",
-"to recommend; to introduce (from outside)"
-],
-[
 "引发",
-51.24,
+7,
 "yǐn fā",
 "to lead to; to trigger; to initiate; to cause; to evoke (emotions)"
 ],
 [
+"引经据典",
+7,
+"yǐn jīng jù diǎn",
+"lit. to quote the classics; to quote chapter and verse (idiom)"
+],
+[
+"引领",
+7,
+"yǐn lǐng",
+"to crane one's neck; to await eagerly; to lead; to show the way"
+],
+[
+"引擎",
+7,
+"yǐn qíng",
+"engine (loanword); CL:台[tái]"
+],
+[
+"引人入胜",
+7,
+"yǐn rén rù shèng",
+"to enchant; fascinating"
+],
+[
+"引人注目",
+7,
+"yǐn rén zhù mù",
+"to attract attention; eye-catching; conspicuous"
+],
+[
 "引入",
-21.66,
+7,
 "yǐn rù",
 "to draw into; to pull into; to introduce"
 ],
+[
+"引用",
+7,
+"yǐn yòng",
+"to quote; to cite; to recommend; to appoint; (computing) reference"
+],
+[
+"引诱",
+7,
+"yǐn yòu",
+"to coerce (sb into doing sth bad); to lure (into a trap); to seduce"
+],
+[
+"指引",
+7,
+"zhǐ yǐn",
+"to guide; to show; to point (the way); directions; guidance; guidelines"
+]
+],
+"extraWords": [
 [
 "引爆",
 16.99,
@@ -69,16 +111,16 @@
 "attractive force (such as gravitation); sex appeal; attractiveness"
 ],
 [
-"指引",
-13.12,
-"zhǐ yǐn",
-"to guide; to show; to point (the way); directions; guidance; guidelines"
-],
-[
 "勾引",
 11.54,
 "gōu yǐn",
 "to seduce; to tempt"
+],
+[
+"引来",
+11.13,
+"???",
+"???"
 ],
 [
 "招商引资",
@@ -87,28 +129,10 @@
 "investment promotion"
 ],
 [
-"引领",
-9.85,
-"yǐn lǐng",
-"to crane one's neck; to await eagerly; to lead; to show the way"
-],
-[
 "援引",
 9.2,
 "yuán yǐn",
 "to quote; to cite; to recommend (one's friend's, associates etc)"
-],
-[
-"引诱",
-9.0,
-"yǐn yòu",
-"to coerce (sb into doing sth bad); to lure (into a trap); to seduce"
-],
-[
-"引人注目",
-8.6,
-"yǐn rén zhù mù",
-"to attract attention; eye-catching; conspicuous"
 ],
 [
 "引流",
@@ -121,6 +145,12 @@
 6.8,
 "qiān yǐn",
 "to pull; to draw (a cart); to tow"
+],
+[
+"吸引人",
+5.47,
+"???",
+"???"
 ]
 ],
 "strokes": [

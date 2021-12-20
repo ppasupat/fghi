@@ -1,11 +1,17 @@
 {
 "char": "肥",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "fat, plump, obese; fertile",
 "pron": "féi"
 },
 "words": [
+[
+"肥",
+4,
+"féi",
+"fat; fertile; loose-fitting or large; to fertilize; to become rich by illegal means; fertilizer; manure"
+],
 [
 "减肥",
 4,
@@ -13,20 +19,32 @@
 "to lose weight"
 ],
 [
-"肥皂",
-5,
-"féi zào",
-"soap; CL:塊|块[kuai4],條|条[tiao2]"
+"肥料",
+7,
+"féi liào",
+"fertilizer; manure"
+],
+[
+"肥胖",
+7,
+"féi pàng",
+"fat; obese"
 ],
 [
 "肥沃",
-6,
+7,
 "féi wò",
 "fertile"
 ],
 [
+"肥皂",
+7,
+"féi zào",
+"soap; CL:块[kuài],条[tiáo]"
+],
+[
 "化肥",
-6,
+7,
 "huà féi",
 "fertilizer"
 ]
@@ -36,19 +54,7 @@
 "合肥",
 13.33,
 "Hé féi",
-"Hefei, capital of Anhui Province 安徽省[An1 hui1 Sheng3] in south central China"
-],
-[
-"肥胖",
-10.25,
-"féi pàng",
-"fat; obese"
-],
-[
-"肥料",
-7.59,
-"féi liào",
-"fertilizer; manure"
+"Hefei, capital of Anhui Province 安徽省[Ān huī Shěng] in south central China"
 ],
 [
 "施肥",

@@ -1,22 +1,29 @@
 {
 "char": "凰",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "female phoenix",
 "pron": "huáng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "凤凰",
-19.78,
+7,
 "Fèng huáng",
-"Fenghuang County in Xiangxi Tujia and Miao Autonomous Prefecture 湘西土家族苗族自治州[Xiang1 xi1 Tu3 jia1 zu2 Miao2 zu2 Zi4 zhi4 zhou1]"
+"Fenghuang County in Xiangxi Tujia and Miao Autonomous Prefecture 湘西土家族苗族自治州[Xiāng xī Tǔ jiā zú Miáo zú Zì zhì zhōu]"
 ],
 [
 "凤凰",
-19.78,
+7,
 "fèng huáng",
+"phoenix"
+]
+],
+"extraWords": [
+[
+"凰",
+2.99,
+"huáng",
 "phoenix"
 ]
 ],

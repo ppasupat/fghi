@@ -1,11 +1,17 @@
 {
 "char": "供",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "supply, provide for; offer in worship",
 "pron": "gōng, gòng"
 },
 "words": [
+[
+"供应",
+4,
+"gōng yìng",
+"to supply; to provide; to offer"
+],
 [
 "提供",
 4,
@@ -19,19 +25,43 @@
 "to furnish; to provide; supply (as in supply and demand)"
 ],
 [
+"供",
+7,
+"gōng",
+"to provide; to supply"
+],
+[
+"供",
+7,
+"gòng",
+"sacrificial offering; to confess"
+],
+[
 "供不应求",
-6,
+7,
 "gōng bù yìng qiú",
 "supply does not meet demand"
+],
+[
+"供暖",
+7,
+"gōng nuǎn",
+"to supply heating (in a building); heating"
+],
+[
+"供求",
+7,
+"gōng qiú",
+"supply and demand (economics)"
+],
+[
+"供奉",
+7,
+"gòng fèng",
+"to consecrate; to enshrine and worship; an offering (to one's ancestors); a sacrifice (to a god)"
 ]
 ],
 "extraWords": [
-[
-"供应",
-89.57,
-"gōng yìng",
-"to supply; to provide; to offer"
-],
 [
 "供电",
 17.58,
@@ -45,16 +75,22 @@
 "to supply water"
 ],
 [
-"供求",
-12.49,
-"gōng qiú",
-"supply and demand (economics)"
+"可供",
+10.67,
+"???",
+"???"
 ],
 [
 "供需",
 10.15,
 "gōng xū",
 "supply and demand"
+],
+[
+"供应量",
+7.88,
+"???",
+"???"
 ],
 [
 "招供",
@@ -66,7 +102,7 @@
 "口供",
 7.66,
 "kǒu gòng",
-"oral confession (as opposed to 筆供|笔供[bi3 gong4]); statement; deposition"
+"oral confession (as opposed to 笔供[bǐ gòng]); statement; deposition"
 ],
 [
 "供货",
@@ -85,12 +121,6 @@
 6.89,
 "gōng rè",
 "heating (for a building); to supply heating"
-],
-[
-"供暖",
-5.15,
-"gōng nuǎn",
-"to supply heating (in a building); heating"
 ]
 ],
 "strokes": [

@@ -1,12 +1,31 @@
 {
 "char": "霹",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "thunder, crashing thunder",
 "pron": "pī"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"霹雳",
+2.83,
+"Pī lì",
+"Perak (state of Malaysia)"
+],
+[
+"霹雳",
+2.83,
+"pī lì",
+"clap of thunder; thunderbolt; (slang) awesome; shocking; terrifying"
+],
+[
+"霹雳舞",
+2.33,
+"pī lì wǔ",
+"to breakdance; breakdancing"
+]
+],
 "strokes": [
 "M 513 779 Q 657 800 665 806 Q 674 813 670 821 Q 664 833 638 840 Q 617 846 508 820 Q 409 807 370 805 Q 336 801 360 785 Q 393 761 450 770 Q 456 771 466 772 L 513 779 Z",
 "M 266 676 Q 256 697 247 704 Q 231 719 227 694 Q 227 652 172 603 Q 151 582 175 527 Q 188 502 208 526 Q 224 548 238 581 Q 254 621 266 645 Q 267 646 267 649 L 266 676 Z",

@@ -1,19 +1,32 @@
 {
 "char": "岔",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "diverge, branch off; fork in road",
 "pron": "chà"
 },
 "words": [
 [
+"打岔",
+7,
+"dǎ chà",
+"interruption; to interrupt (esp. talk); to change the subject"
+]
+],
+"extraWords": [
+[
+"岔子",
+2.47,
+"chà zi",
+"branch road; setback; accident; hiccup"
+],
+[
 "岔",
-6,
+2.22,
 "chà",
 "fork in road; bifurcation; branch in road, river, mountain range etc; to branch off; to turn off; to diverge; to stray (from the path); to change the subject; to interrupt; to stagger (times)"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 331 726 Q 322 612 164 497 Q 139 485 99 451 Q 89 438 104 440 Q 126 440 158 457 Q 261 509 325 587 Q 365 633 402 671 Q 415 681 404 698 Q 365 740 343 740 Q 331 740 331 726 Z",
 "M 464 796 Q 518 777 582 702 Q 748 507 806 507 Q 827 507 957 542 Q 982 549 980 555 Q 979 562 954 565 Q 783 587 698 653 Q 641 698 550 792 Q 523 820 487 816 Q 460 813 460 806 Q 457 797 464 796 Z",

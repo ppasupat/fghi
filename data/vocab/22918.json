@@ -1,6 +1,6 @@
 {
 "char": "妆",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "to adorn oneself, dress up, use make-up",
 "pron": "zhuāng"
@@ -8,12 +8,30 @@
 "words": [
 [
 "化妆",
-6,
+7,
 "huà zhuāng",
 "to put on makeup"
+],
+[
+"嫁妆",
+7,
+"jià zhuang",
+"dowry"
 ]
 ],
 "extraWords": [
+[
+"妆",
+27.46,
+"zhuāng",
+"(of a woman) to adorn oneself; makeup; adornment; trousseau; stage makeup and costume"
+],
+[
+"妆",
+27.46,
+"zhuāng",
+"variant of 妆[zhuāng]"
+],
 [
 "化妆品",
 17.3,

@@ -1,12 +1,31 @@
 {
 "char": "蠕",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "eumenes polifomis, kind of wasp",
 "pron": "rú"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"蠕动",
+4.55,
+"rú dòng",
+"to wiggle; to squirm; peristalsis (wave movement of gut wall)"
+],
+[
+"蠕",
+1.5,
+"rú",
+"variant of 蠕[rú]"
+],
+[
+"蠕",
+1.5,
+"rú",
+"to squirm; to wiggle; to wriggle; Taiwan pr. [ruan3]"
+]
+],
 "strokes": [
 "M 112 533 Q 102 537 78 539 Q 68 542 64 537 Q 60 531 68 517 Q 95 469 114 389 Q 118 365 133 350 Q 149 331 154 345 Q 157 355 156 372 L 151 401 Q 132 483 129 507 C 126 529 126 529 112 533 Z",
 "M 335 423 Q 357 499 386 519 Q 399 535 387 549 Q 374 559 332 579 Q 317 586 300 579 Q 273 569 248 559 L 204 548 Q 158 541 112 533 C 82 528 100 501 129 507 Q 136 508 147 511 Q 174 517 204 522 L 247 530 Q 299 542 309 534 Q 321 522 298 433 C 291 404 326 394 335 423 Z",

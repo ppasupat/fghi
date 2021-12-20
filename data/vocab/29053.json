@@ -1,12 +1,32 @@
 {
 "char": "煽",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "stir up, incite, agitate, provoke",
 "pron": "shān"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"煽动",
+7,
+"shān dòng",
+"to incite; to instigate"
+]
+],
+"extraWords": [
+[
+"煽情",
+2.95,
+"shān qíng",
+"to stir up emotion; to arouse sympathy; moving"
+],
+[
+"煽",
+2.56,
+"shān",
+"to fan into a flame; to incite"
+]
+],
 "strokes": [
 "M 119 603 Q 123 545 119 488 Q 119 454 143 438 Q 155 428 166 444 Q 190 495 160 570 Q 153 597 137 612 Q 130 616 125 615 Q 119 611 119 603 Z",
 "M 275 542 Q 306 563 365 605 Q 378 618 397 626 Q 413 633 404 647 Q 394 660 374 670 Q 355 680 346 678 Q 336 677 340 667 Q 343 648 276 565 C 257 542 250 525 275 542 Z",

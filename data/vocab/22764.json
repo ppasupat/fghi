@@ -1,12 +1,31 @@
 {
 "char": "壬",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "9th heavenly stem",
 "pron": "rén"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"壬",
+2.54,
+"rén",
+"ninth of the ten Heavenly Stems 十天干[shí tiān gān]; ninth in order; letter \"I\" or Roman \"IX\" in list \"A, B, C\", or \"I, II, III\" etc; ancient Chinese compass point: 345°; nona"
+],
+[
+"壬辰",
+0.85,
+"rén chén",
+"twenty-ninth year I5 of the 60 year cycle, e.g. 2012 or 2072"
+],
+[
+"壬午",
+0.39,
+"rén wǔ",
+"nineteenth year I7 of the 60 year cycle, e.g. 2002 or 2062"
+]
+],
 "strokes": [
 "M 509 645 Q 650 694 662 696 Q 713 706 716 709 Q 720 721 709 734 Q 687 753 639 775 Q 623 785 608 785 Q 601 781 598 769 Q 592 715 282 605 Q 275 595 282 592 Q 303 586 468 634 L 509 645 Z",
 "M 543 379 Q 633 386 894 387 Q 918 387 923 397 Q 930 410 911 427 Q 835 482 791 461 Q 694 445 544 420 L 490 412 Q 318 393 119 370 Q 94 367 112 347 Q 128 331 150 324 Q 175 317 194 323 Q 344 362 489 373 L 543 379 Z",

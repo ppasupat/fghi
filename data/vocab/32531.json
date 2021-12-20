@@ -1,6 +1,6 @@
 {
 "char": "缓",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "slow, leisurely; to postpone, delay",
 "pron": "huǎn"
@@ -8,53 +8,47 @@
 "words": [
 [
 "缓解",
-5,
+4,
 "huǎn jiě",
 "to bring relief; to alleviate (a crisis); to dull (a pain)"
 ],
 [
+"缓",
+7,
+"huǎn",
+"slow; unhurried; sluggish; gradual; not tense; relaxed; to postpone; to defer; to stall; to stave off; to revive; to recuperate"
+],
+[
 "缓和",
-6,
+7,
 "huǎn hé",
 "to ease (tension); to alleviate; to moderate; to allay; to make more mild"
 ],
 [
-"迟缓",
-6,
-"chí huǎn",
-"slow; sluggish"
+"缓缓",
+7,
+"huǎn huǎn",
+"slowly; unhurriedly; little by little"
 ],
-[
-"刻不容缓",
-6,
-"kè bù róng huǎn",
-"to brook no delay; to demand immediate action"
-]
-],
-"extraWords": [
 [
 "缓慢",
-21.41,
+7,
 "huǎn màn",
 "slow; slow-moving"
 ],
 [
-"缓缓",
-20.86,
-"huǎn huǎn",
-"slowly; unhurriedly; little by little"
+"延缓",
+7,
+"yán huǎn",
+"to defer; to postpone; to put off; to retard; to slow sth down"
+]
 ],
+"extraWords": [
 [
 "减缓",
 5.77,
 "jiǎn huǎn",
 "to slow down; to retard"
-],
-[
-"延缓",
-5.58,
-"yán huǎn",
-"to defer; to postpone; to put off; to retard; to slow sth down"
 ],
 [
 "舒缓",

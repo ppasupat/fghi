@@ -1,11 +1,17 @@
 {
 "char": "今",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "now, today, modern era",
 "pron": "jīn"
 },
 "words": [
+[
+"今年",
+1,
+"jīn nián",
+"this year"
+],
 [
 "今天",
 1,
@@ -13,31 +19,61 @@
 "today; at the present; now"
 ],
 [
-"如今",
-5,
-"rú jīn",
-"nowadays; now"
+"今后",
+2,
+"jīn hòu",
+"hereafter; henceforth; in the future; from now on"
 ],
 [
 "至今",
-5,
+3,
 "zhì jīn",
 "so far; to this day; until now"
 ],
 [
+"如今",
+4,
+"rú jīn",
+"nowadays; now"
+],
+[
+"今日",
+5,
+"jīn rì",
+"today"
+],
+[
+"从今以后",
+7,
+"cóng jīn yǐ hòu",
+"from now on; henceforward"
+],
+[
+"当今",
+7,
+"dāng jīn",
+"current; present; now; nowadays"
+],
+[
+"古今中外",
+7,
+"gǔ jīn zhōng wài",
+"at all times and in all places (idiom)"
+],
+[
+"迄今",
+7,
+"qì jīn",
+"so far; to date; until now"
+],
+[
 "迄今为止",
-6,
+7,
 "qì jīn wéi zhǐ",
 "so far; up to now; still (not)"
 ]
 ],
 "extraWords": [
-[
-"今年",
-522.91,
-"jīn nián",
-"this year"
-],
 [
 "今晚",
 422.64,
@@ -45,28 +81,10 @@
 "tonight"
 ],
 [
-"今日",
-126.59,
-"jīn rì",
-"today"
-],
-[
-"今后",
-90.34,
-"jīn hòu",
-"hereafter; henceforth; in the future; from now on"
-],
-[
-"当今",
-22.5,
-"dāng jīn",
-"current; present; now; nowadays"
-],
-[
-"迄今",
-16.95,
-"qì jīn",
-"so far; to date; until now"
+"今",
+77.77,
+"jīn",
+"now; the present time; current; contemporary; this (day, year etc)"
 ],
 [
 "今儿",
@@ -87,10 +105,22 @@
 "this life"
 ],
 [
+"今年初",
+5.55,
+"???",
+"???"
+],
+[
 "现今",
 5.34,
 "xiàn jīn",
 "now; nowadays; modern"
+],
+[
+"从今",
+5.31,
+"???",
+"???"
 ]
 ],
 "strokes": [

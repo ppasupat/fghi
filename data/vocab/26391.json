@@ -1,6 +1,6 @@
 {
 "char": "朗",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "clear, bright; distinct",
 "pron": "lǎng"
@@ -14,15 +14,33 @@
 ],
 [
 "晴朗",
-6,
+5,
 "qíng lǎng",
 "sunny and cloudless"
 ],
 [
 "开朗",
-6,
+7,
 "kāi lǎng",
 "spacious and well-lit; open and clear; (of character) optimistic; cheerful; carefree"
+],
+[
+"朗诵",
+7,
+"lǎng sòng",
+"to read aloud with expression; to recite; to declaim"
+],
+[
+"明朗",
+7,
+"míng lǎng",
+"bright; clear; obvious; forthright; open-minded; bright and cheerful"
+],
+[
+"硬朗",
+7,
+"yìng lǎng",
+"robust; healthy"
 ]
 ],
 "extraWords": [
@@ -33,16 +51,22 @@
 "Iran"
 ],
 [
+"朗",
+15.02,
+"lǎng",
+"clear; bright"
+],
+[
 "布朗",
 8.35,
 "Bù lǎng",
 "Brown (name); Gordon Brown (1951-), UK politician, prime minister 2007-2010"
 ],
 [
-"明朗",
-8.05,
-"míng lǎng",
-"bright; clear; obvious; forthright; open-minded; bright and cheerful"
+"弗朗西斯",
+5.37,
+"???",
+"???"
 ],
 [
 "阿姆斯特朗",

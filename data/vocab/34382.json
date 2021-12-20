@@ -1,31 +1,31 @@
 {
 "char": "虎",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "tiger; brave, fierce; surname",
 "pron": "hǔ"
 },
 "words": [
 [
-"老虎",
-4,
-"lǎo hǔ",
-"tiger; CL:隻|只[zhi1]"
+"虎",
+5,
+"hǔ",
+"tiger; CL:只[zhī]"
 ],
 [
 "马虎",
-4,
+7,
 "mǎ hu",
 "careless; sloppy; negligent; skimpy"
-],
-[
-"狼吞虎咽",
-6,
-"láng tūn hǔ yàn",
-"to wolf down one's food (idiom); to devour ravenously; to gorge oneself"
 ]
 ],
 "extraWords": [
+[
+"老虎",
+17.71,
+"lǎo hǔ",
+"tiger; CL:只[zhī]"
+],
 [
 "雅虎",
 10.39,

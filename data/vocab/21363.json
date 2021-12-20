@@ -1,55 +1,61 @@
 {
 "char": "即",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "promptly, quickly, immediately",
 "pron": "jí"
 },
 "words": [
 [
-"即使",
-4,
-"jí shǐ",
-"even if; even though"
-],
-[
-"立即",
-5,
-"lì jí",
-"immediately"
-],
-[
 "即将",
-6,
+4,
 "jí jiāng",
 "on the eve of; to be about to; to be on the verge of"
 ],
 [
+"立即",
+4,
+"lì jí",
+"immediately"
+],
+[
+"即使",
+5,
+"jí shǐ",
+"even if; even though"
+],
+[
+"当即",
+7,
+"dāng jí",
+"at once; on the spot"
+],
+[
+"即",
+7,
+"jí",
+"namely; that is; i.e.; prompt; at once; at present; even if; prompted (by the occasion); to approach; to come into contact; to assume (office); to draw near"
+],
+[
 "即便",
-6,
+7,
 "jí biàn",
 "even if; even though; right away; immediately"
 ],
 [
+"即可",
+7,
+"jí kě",
+"equivalent to 就可以; can then (do sth); can immediately (do sth); (do sth) and that will suffice"
+],
+[
 "随即",
-6,
+7,
 "suí jí",
 "immediately; presently; following which"
 ]
 ],
 "extraWords": [
-[
-"即可",
-54.47,
-"jí kě",
-"equivalent to 就可以; can then (do sth); can immediately (do sth); (do sth) and that will suffice"
-],
-[
-"当即",
-15.91,
-"dāng jí",
-"at once; on the spot"
-],
 [
 "即日",
 11.33,
@@ -61,6 +67,12 @@
 8.98,
 "jí shí",
 "immediate"
+],
+[
+"即将到来",
+6.66,
+"???",
+"???"
 ],
 [
 "即刻",

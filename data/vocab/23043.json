@@ -1,6 +1,6 @@
 {
 "char": "娃",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "baby; doll; pretty girl",
 "pron": "wá"
@@ -14,6 +14,12 @@
 ]
 ],
 "extraWords": [
+[
+"娃",
+26.97,
+"wá",
+"baby; doll"
+],
 [
 "伊娃",
 5.31,

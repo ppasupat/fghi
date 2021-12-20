@@ -1,12 +1,32 @@
 {
 "char": "匠",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "craftsman, artisan; workman",
 "pron": "jiàng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"别具匠心",
+7,
+"bié jù jiàng xīn",
+"to show ingenuity; (of a design) clever; brilliantly conceived"
+],
+[
+"木匠",
+7,
+"mù jiàng",
+"carpenter"
+]
+],
+"extraWords": [
+[
+"匠",
+4.02,
+"jiàng",
+"craftsman"
+]
+],
 "strokes": [
 "M 313 679 Q 322 678 336 681 Q 550 720 777 740 Q 789 737 799 751 Q 800 764 777 776 Q 735 801 673 782 Q 490 748 301 729 C 271 726 283 678 313 679 Z",
 "M 488 545 Q 564 563 610 584 Q 653 605 692 614 Q 708 615 712 624 Q 715 634 702 645 Q 645 684 607 679 Q 600 675 600 664 Q 600 634 479 560 C 453 544 459 538 488 545 Z",

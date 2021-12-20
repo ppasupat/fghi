@@ -1,6 +1,6 @@
 {
 "char": "七",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "seven",
 "pron": "qī"
@@ -11,9 +11,33 @@
 1,
 "qī",
 "seven; 7"
+],
+[
+"横七竖八",
+7,
+"héng qī shù bā",
+"in disorder; at sixes and sevens (idiom)"
+],
+[
+"乱七八糟",
+7,
+"luàn qī bā zāo",
+"everything in disorder (idiom); in a hideous mess; at sixes and sevens"
+],
+[
+"七嘴八舌",
+7,
+"qī zuǐ bā shé",
+"lively discussion with everybody talking at once"
 ]
 ],
 "extraWords": [
+[
+"第七",
+16.45,
+"???",
+"???"
+],
 [
 "七月",
 12.75,
@@ -21,10 +45,16 @@
 "July; seventh month (of the lunar year)"
 ],
 [
-"乱七八糟",
-11.27,
-"luàn qī bā zāo",
-"everything in disorder (idiom); in a hideous mess; at sixes and sevens"
+"第七名",
+6.97,
+"???",
+"???"
+],
+[
+"七点",
+6.29,
+"???",
+"???"
 ]
 ],
 "strokes": [

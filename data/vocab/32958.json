@@ -1,11 +1,18 @@
 {
 "char": "肾",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "kidneys; testes, gizzard",
 "pron": "shèn"
 },
-"words": [],
+"words": [
+[
+"肾",
+7,
+"shèn",
+"kidney"
+]
+],
 "extraWords": [
 [
 "肾脏",

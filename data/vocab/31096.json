@@ -1,24 +1,42 @@
 {
 "char": "祸",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "misfortune, calamity, disaster",
 "pron": "huò"
 },
 "words": [
 [
-"惹祸",
-6,
-"rě huò",
-"to stir up trouble; to invite disaster"
+"车祸",
+7,
+"chē huò",
+"traffic accident; car crash; CL:场[cháng]"
+],
+[
+"祸害",
+7,
+"huò hài",
+"disaster; harm; scourge; bad person; to damage; to harm; to wreck"
+],
+[
+"罪魁祸首",
+7,
+"zuì kuí huò shǒu",
+"criminal ringleader, main offender (idiom); main culprit; fig. main cause of a disaster"
 ]
 ],
 "extraWords": [
 [
-"车祸",
-30.7,
-"chē huò",
-"traffic accident; car crash; CL:場|场[chang2]"
+"祸",
+10.81,
+"huò",
+"old variant of 祸[huò]"
+],
+[
+"祸",
+10.81,
+"huò",
+"disaster; misfortune; calamity"
 ]
 ],
 "strokes": [

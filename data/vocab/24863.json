@@ -1,58 +1,70 @@
 {
 "char": "感",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "feel, perceive, emotion",
 "pron": "gǎn"
 },
 "words": [
 [
-"感冒",
-3,
-"gǎn mào",
-"to catch cold; (common) cold; CL:場|场[chang2],次[ci4]; (coll.) to be interested in (often used in the negative); (Tw) to detest; can't stand"
-],
-[
-"感兴趣",
-3,
-"gǎn xìng qù",
-"to be interested"
-],
-[
-"感觉",
-4,
-"gǎn jué",
-"to feel; to become aware of; feeling; sense; perception; CL:個|个[ge4]"
-],
-[
-"感谢",
-4,
-"gǎn xiè",
-"(express) thanks; gratitude; grateful; thankful; thanks"
-],
-[
-"感情",
-4,
-"gǎn qíng",
-"emotion; sentiment; affection; feelings between two persons; CL:個|个[ge4],種|种[zhong3]"
+"感到",
+2,
+"gǎn dào",
+"to feel; to sense; to have the feeling that; to think that; to move; to affect"
 ],
 [
 "感动",
-4,
+2,
 "gǎn dòng",
 "to move (sb); to touch (sb emotionally); moving"
 ],
 [
+"感觉",
+2,
+"gǎn jué",
+"to feel; to become aware of; feeling; sense; perception; CL:个[gè]"
+],
+[
+"感谢",
+2,
+"gǎn xiè",
+"(express) thanks; gratitude; grateful; thankful; thanks"
+],
+[
+"感冒",
+3,
+"gǎn mào",
+"to catch cold; (common) cold; CL:场[cháng],次[cì]; (coll.) to be interested in (often used in the negative); (Tw) to detest; can't stand"
+],
+[
+"感情",
+3,
+"gǎn qíng",
+"emotion; sentiment; affection; feelings between two persons; CL:个[gè],种[zhǒng]"
+],
+[
 "感受",
-5,
+3,
 "gǎn shòu",
 "to sense; perception; to feel (through the senses); to experience; a feeling; an impression; an experience"
 ],
 [
-"感激",
+"情感",
+3,
+"qíng gǎn",
+"feeling; emotion; to move (emotionally)"
+],
+[
+"感兴趣",
+4,
+"gǎn xìng qù",
+"to be interested"
+],
+[
+"感想",
 5,
-"gǎn jī",
-"to be grateful; to appreciate; thankful"
+"gǎn xiǎng",
+"impressions; reflections; thoughts; CL:通[tòng],个[gè]"
 ],
 [
 "敏感",
@@ -61,60 +73,138 @@
 "sensitive; susceptible"
 ],
 [
-"感想",
-5,
-"gǎn xiǎng",
-"impressions; reflections; thoughts; CL:通[tong4],個|个[ge4]"
+"感人",
+6,
+"gǎn rén",
+"touching; moving"
 ],
 [
-"性感",
+"流感",
 6,
-"xìng gǎn",
-"sex appeal; eroticism; sexuality; sexy"
+"liú gǎn",
+"flu; influenza"
 ],
 [
-"感染",
-6,
-"gǎn rǎn",
-"infection; to infect; to influence"
-],
-[
-"灵感",
-6,
-"líng gǎn",
-"inspiration; insight; a burst of creativity in scientific or artistic endeavor"
+"动感",
+7,
+"dòng gǎn",
+"sense of movement (often in a static work of art); dynamic; vivid; lifelike"
 ],
 [
 "反感",
-6,
+7,
 "fǎn gǎn",
 "to be disgusted with; to dislike; bad reaction; antipathy"
 ],
 [
+"感",
+7,
+"gǎn",
+"to feel; to move; to touch; to affect; feeling; emotion; (suffix) sense of ~"
+],
+[
+"感触",
+7,
+"gǎn chù",
+"one's thoughts and feelings; emotional stirring; moved; touched"
+],
+[
+"感恩",
+7,
+"gǎn ēn",
+"to be grateful"
+],
+[
+"感激",
+7,
+"gǎn jī",
+"to be grateful; to appreciate; thankful"
+],
+[
 "感慨",
-6,
+7,
 "gǎn kǎi",
 "to sigh with sorrow, regret etc; rueful; deeply moved"
+],
+[
+"感染",
+7,
+"gǎn rǎn",
+"infection; to infect; to influence"
+],
+[
+"感染力",
+7,
+"gǎn rǎn lì",
+"inspiration; infectious (enthusiasm)"
+],
+[
+"感叹",
+7,
+"gǎn tàn",
+"to sigh (with feeling); to lament"
+],
+[
+"感性",
+7,
+"gǎn xìng",
+"perception; perceptual; sensibility; sensitive; emotional; sentimental"
+],
+[
+"观感",
+7,
+"guān gǎn",
+"one's impressions; observations"
+],
+[
+"好感",
+7,
+"hǎo gǎn",
+"good opinion; favorable impression"
+],
+[
+"口感",
+7,
+"kǒu gǎn",
+"taste; texture (of food); how food feels in the mouth"
+],
+[
+"灵感",
+7,
+"líng gǎn",
+"inspiration; insight; a burst of creativity in scientific or artistic endeavor"
+],
+[
+"伤感",
+7,
+"shāng gǎn",
+"sad; emotional; sentimental; pathos"
+],
+[
+"同感",
+7,
+"tóng gǎn",
+"(have the) same feeling; similar impression; common feeling"
+],
+[
+"预感",
+7,
+"yù gǎn",
+"to have a premonition; premonition"
 ]
 ],
 "extraWords": [
 [
-"感到",
-197.1,
-"gǎn dào",
-"to feel; to sense; to have the feeling that; to think that; to move; to affect"
+"性感",
+88.62,
+"xìng gǎn",
+"sex appeal; eroticism; sexuality; sexy"
 ],
 [
-"情感",
-41.57,
-"qíng gǎn",
-"feeling; emotion; to move (emotionally)"
-],
-[
-"流感",
-31.76,
-"liú gǎn",
-"flu; influenza"
+"有感而发",
+38.4,
+"???",
+"???"
 ],
 [
 "感觉到",
@@ -123,28 +213,10 @@
 "to feel; to sense; to detect; to perceive; to become aware"
 ],
 [
-"感恩",
-26.11,
-"gǎn ēn",
-"to be grateful"
-],
-[
 "感恩节",
 16.66,
 "Gǎn ēn jié",
 "Thanksgiving Day"
-],
-[
-"感叹",
-15.86,
-"gǎn tàn",
-"to sigh (with feeling); to lament"
-],
-[
-"感人",
-14.24,
-"gǎn rén",
-"touching; moving"
 ],
 [
 "安全感",
@@ -153,52 +225,16 @@
 "sense of security"
 ],
 [
-"预感",
-13.65,
-"yù gǎn",
-"to have a premonition; premonition"
-],
-[
 "责任感",
 13.62,
 "zé rèn gǎn",
 "sense of responsibility"
 ],
 [
-"伤感",
-11.12,
-"shāng gǎn",
-"sad; emotional; sentimental; pathos"
-],
-[
 "感应",
 11.0,
 "gǎn yìng",
 "response; reaction; interaction; irritability (biol.); induction (elec.); inductance"
-],
-[
-"感性",
-10.41,
-"gǎn xìng",
-"perception; perceptual; sensibility; sensitive; emotional; sentimental"
-],
-[
-"好感",
-9.82,
-"hǎo gǎn",
-"good opinion; favorable impression"
-],
-[
-"动感",
-9.75,
-"dòng gǎn",
-"sense of movement (often in a static work of art); dynamic; vivid; lifelike"
-],
-[
-"同感",
-9.12,
-"tóng gǎn",
-"(have the) same feeling; similar impression; common feeling"
 ],
 [
 "质感",
@@ -235,12 +271,6 @@
 6.51,
 "mǐn gǎn xìng",
 "sensitive; sensitivity"
-],
-[
-"口感",
-6.48,
-"kǒu gǎn",
-"taste; texture (of food); how food feels in the mouth"
 ],
 [
 "深感",

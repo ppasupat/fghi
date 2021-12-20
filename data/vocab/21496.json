@@ -1,6 +1,6 @@
 {
 "char": "司",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "take charge of, control, manage; officer",
 "pron": "sī"
@@ -10,31 +10,61 @@
 "公司",
 2,
 "gōng sī",
-"(business) company; company; firm; corporation; incorporated; CL:家[jia1]"
+"(business) company; company; firm; corporation; incorporated; CL:家[jiā]"
 ],
 [
 "司机",
-3,
+2,
 "sī jī",
-"chauffeur; driver; CL:個|个[ge4]"
+"chauffeur; driver; CL:个[gè]"
 ],
 [
-"司法",
-6,
-"sī fǎ",
-"judicial; (administration of) justice"
-],
-[
-"司令",
-6,
-"sī lìng",
-"commanding officer"
+"寿司",
+5,
+"shòu sī",
+"sushi"
 ],
 [
 "打官司",
 6,
 "dǎ guān si",
 "to file a lawsuit; to sue; to dispute"
+],
+[
+"官司",
+6,
+"guān si",
+"lawsuit; CL:场[cháng]"
+],
+[
+"司长",
+6,
+"sī zhǎng",
+"bureau chief"
+],
+[
+"上司",
+7,
+"shàng si",
+"boss; superior"
+],
+[
+"司法",
+7,
+"sī fǎ",
+"judicial; (administration of) justice"
+],
+[
+"司空见惯",
+7,
+"sī kōng jiàn guàn",
+"a common occurrence (idiom)"
+],
+[
+"司令",
+7,
+"sī lìng",
+"commanding officer"
 ]
 ],
 "extraWords": [
@@ -45,34 +75,52 @@
 "limited company; corporation"
 ],
 [
+"司",
+33.83,
+"Sī",
+"surname Si"
+],
+[
+"司",
+33.83,
+"sī",
+"to take charge of; to manage; department (under a ministry)"
+],
+[
+"本公司",
+33.03,
+"???",
+"???"
+],
+[
+"保险公司",
+27.4,
+"???",
+"???"
+],
+[
 "股份有限公司",
 26.88,
 "gǔ fèn yǒu xiàn gōng sī",
 "joint-stock limited company; corporation"
 ],
 [
-"上司",
-19.7,
-"shàng si",
-"boss; superior"
-],
-[
-"官司",
-15.86,
-"guān si",
-"lawsuit; CL:場|场[chang2]"
-],
-[
 "航空公司",
 15.85,
 "háng kōng gōng sī",
-"airline; CL:家[jia1]"
+"airline; CL:家[jiā]"
 ],
 [
 "子公司",
 15.73,
 "zǐ gōng sī",
 "subsidiary company; subsidiary corporation"
+],
+[
+"有限责任公司",
+15.01,
+"???",
+"???"
 ],
 [
 "证券公司",
@@ -85,6 +133,12 @@
 11.85,
 "kuà guó gōng sī",
 "transnational corporation; multinational corporation"
+],
+[
+"集团公司",
+11.56,
+"???",
+"???"
 ],
 [
 "分公司",
@@ -117,6 +171,12 @@
 "large company; corporation"
 ],
 [
+"物业公司",
+7.36,
+"???",
+"???"
+],
+[
 "公司法",
 7.21,
 "gōng sī fǎ",
@@ -127,12 +187,6 @@
 6.05,
 "Sī mǎ",
 "Minister of War (official title in pre-Han Chinese states); two-character surname Sima"
-],
-[
-"寿司",
-6.03,
-"shòu sī",
-"sushi"
 ]
 ],
 "strokes": [

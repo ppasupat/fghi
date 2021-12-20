@@ -1,17 +1,30 @@
 {
 "char": "蘑",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "type of edible mushroom",
 "pron": "mó"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "蘑菇",
-8.28,
+7,
 "mó gu",
 "mushroom; to pester; to dawdle"
+]
+],
+"extraWords": [
+[
+"蘑",
+0.44,
+"mó",
+"mushroom"
+],
+[
+"蘑菇云",
+0.36,
+"mó gū yún",
+"mushroom cloud"
 ]
 ],
 "strokes": [

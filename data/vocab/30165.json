@@ -1,6 +1,6 @@
 {
 "char": "痕",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "scar; mark; trace",
 "pron": "hén"
@@ -8,17 +8,29 @@
 "words": [
 [
 "痕迹",
-6,
+7,
 "hén jì",
 "vestige; mark; trace"
+],
+[
+"裂痕",
+7,
+"liè hén",
+"crack; gap; split"
+],
+[
+"伤痕",
+7,
+"shāng hén",
+"scar; bruise"
 ]
 ],
 "extraWords": [
 [
-"伤痕",
-9.24,
-"shāng hén",
-"scar; bruise"
+"痕",
+13.5,
+"hén",
+"scar; traces"
 ]
 ],
 "strokes": [

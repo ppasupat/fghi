@@ -1,6 +1,6 @@
 {
 "char": "捏",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "pick with fingers; knead; mold",
 "pron": "niē"
@@ -8,18 +8,25 @@
 "words": [
 [
 "捏",
-6,
+7,
 "niē",
 "to hold between the thumb and fingers; to pinch; to mold (using the fingers); to hold (lit. in one's hand and fig.); to join together; to fabricate (a story, a report, etc)"
 ],
 [
 "捏",
-6,
+7,
 "niē",
-"variant of 捏[nie1]"
+"variant of 捏[niē]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"捏造",
+3.85,
+"niē zào",
+"to make up; to fabricate"
+]
+],
 "strokes": [
 "M 345 556 Q 418 577 424 581 Q 433 588 427 597 Q 420 607 392 614 Q 367 618 346 609 L 297 592 Q 209 565 143 556 Q 109 549 134 534 Q 182 513 229 528 Q 260 535 296 544 L 345 556 Z",
 "M 294 367 Q 293 264 291 130 Q 290 106 277 97 Q 267 90 243 96 Q 215 103 189 108 Q 156 118 159 109 Q 160 102 181 87 Q 251 38 269 8 Q 291 -26 308 -27 Q 321 -27 336 7 Q 354 53 351 126 Q 344 265 342 403 L 342 433 Q 342 494 345 556 L 346 609 Q 364 762 366 765 Q 384 795 328 817 Q 294 836 275 829 Q 257 823 273 800 Q 295 772 296 739 Q 297 723 297 592 L 296 544 Q 295 486 294 406 L 294 367 Z",

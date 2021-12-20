@@ -1,48 +1,72 @@
 {
 "char": "朋",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "friend, pal, acquaintance",
 "pron": "péng"
 },
 "words": [
 [
-"朋友",
-1,
-"péng you",
-"friend; CL:個|个[ge4],位[wei4]"
-]
-],
-"extraWords": [
-[
-"女朋友",
-78.73,
-"nǚ péng you",
-"girlfriend"
-],
-[
 "男朋友",
-73.87,
+1,
 "nán péng you",
 "boyfriend"
 ],
 [
+"女朋友",
+1,
+"nǚ péng you",
+"girlfriend"
+],
+[
+"朋友",
+1,
+"péng you",
+"friend; CL:个[gè],位[wèi]"
+],
+[
+"小朋友",
+1,
+"xiǎo péng yǒu",
+"child; CL:个[gè]"
+],
+[
+"交朋友",
+2,
+"jiāo péng you",
+"to make friends; (dialect) to start an affair with sb"
+],
+[
 "老朋友",
-26.17,
+2,
 "lǎo péng you",
 "old friend; (slang) period; menstruation"
 ],
 [
-"小朋友",
-23.79,
-"xiǎo péng yǒu",
-"child; CL:個|个[ge4]"
+"亲朋好友",
+7,
+"qīn péng hǎo yǒu",
+"friends and family; kith and kin"
+]
+],
+"extraWords": [
+[
+"朋友们",
+32.79,
+"???",
+"???"
 ],
 [
 "好朋友",
 17.54,
 "hǎo péng you",
 "good friend; (slang) a visit from Aunt Flo (menstrual period)"
+],
+[
+"朋",
+6.45,
+"péng",
+"friend"
 ]
 ],
 "strokes": [

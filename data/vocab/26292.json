@@ -1,11 +1,17 @@
 {
 "char": "暴",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "violent, brutal, tyrannical",
 "pron": "bào"
 },
 "words": [
+[
+"暴风雨",
+6,
+"bào fēng yǔ",
+"rainstorm; storm; tempest"
+],
 [
 "暴力",
 6,
@@ -19,18 +25,60 @@
 "to expose; to reveal; to lay bare; also pr. [pu4 lu4]"
 ],
 [
+"暴雨",
+6,
+"bào yǔ",
+"torrential rain; rainstorm; CL:场[cháng],阵[zhèn]"
+],
+[
 "风暴",
 6,
 "fēng bào",
 "storm; violent commotion; fig. crisis (e.g. revolution, uprising, financial crisis etc)"
+],
+[
+"暴风骤雨",
+7,
+"bào fēng zhòu yǔ",
+"violent wind and rainstorm; hurricane; tempest"
+],
+[
+"暴利",
+7,
+"bào lì",
+"sudden huge profits"
+],
+[
+"暴躁",
+7,
+"bào zào",
+"irascible; irritable; violent"
+],
+[
+"粗暴",
+7,
+"cū bào",
+"rough; cruel"
+],
+[
+"火暴",
+7,
+"huǒ bào",
+"variant of 火爆[huǒ bào]"
 ]
 ],
 "extraWords": [
 [
-"暴雨",
-14.02,
-"bào yǔ",
-"torrential rain; rainstorm; CL:場|场[chang2],陣|阵[zhen4]"
+"暴",
+26.1,
+"Bào",
+"surname Bao"
+],
+[
+"暴",
+26.1,
+"bào",
+"sudden; violent; cruel; to show or expose; to injure"
 ],
 [
 "强暴",
@@ -39,34 +87,10 @@
 "violent; to rape"
 ],
 [
-"暴躁",
-6.47,
-"bào zào",
-"irascible; irritable; violent"
-],
-[
 "暴徒",
 6.35,
 "bào tú",
 "bandit; thug; ruffian"
-],
-[
-"暴风雨",
-6.35,
-"bào fēng yǔ",
-"rainstorm; storm; tempest"
-],
-[
-"暴利",
-6.06,
-"bào lì",
-"sudden huge profits"
-],
-[
-"粗暴",
-5.63,
-"cū bào",
-"rough; cruel"
 ],
 [
 "暴跌",

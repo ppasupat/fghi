@@ -1,12 +1,31 @@
 {
 "char": "湃",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "sound of waves; turbulent",
 "pron": "pài"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"澎湃",
+3.06,
+"péng pài",
+"to surge"
+],
+[
+"湃",
+1.22,
+"pài",
+"sound of waves"
+],
+[
+"心潮澎湃",
+0.7,
+"xīn cháo péng pài",
+"to be overwhelmed by emotions"
+]
+],
 "strokes": [
 "M 175 704 Q 197 682 219 655 Q 232 640 248 640 Q 258 640 265 653 Q 271 668 264 698 Q 260 716 233 731 Q 167 758 152 755 Q 146 751 147 738 Q 150 728 175 704 Z",
 "M 96 519 Q 138 468 165 456 Q 178 453 187 465 Q 194 477 191 492 Q 187 514 170 526 Q 148 544 109 554 Q 94 558 85 555 Q 79 554 82 543 Q 83 533 96 519 Z",

@@ -1,6 +1,6 @@
 {
 "char": "勘",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "investigate; compare; collate",
 "pron": "kān"
@@ -8,7 +8,7 @@
 "words": [
 [
 "勘探",
-6,
+7,
 "kān tàn",
 "to explore; to survey; to prospect (for oil etc); prospecting"
 ]
@@ -19,6 +19,12 @@
 5.1,
 "kān chá",
 "to reconnoiter; to explore; to survey"
+],
+[
+"勘查",
+4.64,
+"kān chá",
+"variant of 勘察[kān chá]"
 ]
 ],
 "strokes": [

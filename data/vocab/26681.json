@@ -1,46 +1,70 @@
 {
 "char": "根",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "root, base(d on); foundation",
 "pron": "gēn"
 },
 "words": [
 [
-"根据",
+"根本",
 3,
-"gēn jù",
-"according to; based on; basis; foundation; CL:個|个[ge4]"
+"gēn běn",
+"fundamental; basic; root; simply; absolutely (not); (not) at all; CL:个[gè]"
 ],
 [
 "根",
-5,
+4,
 "gēn",
-"root; basis; classifier for long slender objects, e.g. cigarettes, guitar strings; CL:條|条[tiao2]; radical (chemistry)"
+"root; basis; classifier for long slender objects, e.g. cigarettes, guitar strings; CL:条[tiáo]; radical (chemistry)"
 ],
 [
-"根本",
-5,
-"gēn běn",
-"fundamental; basic; root; simply; absolutely (not); (not) at all; CL:個|个[ge4]"
+"根据",
+4,
+"gēn jù",
+"according to; based on; basis; foundation; CL:个[gè]"
+],
+[
+"根基",
+7,
+"gēn jī",
+"foundation"
+],
+[
+"根深蒂固",
+7,
+"gēn shēn dì gù",
+"deep-rooted (problem etc)"
 ],
 [
 "根源",
-6,
+7,
 "gēn yuán",
 "origin; root (cause)"
 ],
 [
+"根治",
+7,
+"gēn zhì",
+"to bring under permanent control; to effect a radical cure"
+],
+[
 "归根到底",
-6,
+7,
 "guī gēn dào dǐ",
 "after all; in the final analysis; ultimately"
 ],
 [
-"根深蒂固",
-6,
-"gēn shēn dì gù",
-"deep-rooted (problem etc)"
+"扎根",
+7,
+"zhā gēn",
+"to take root"
+],
+[
+"斩草除根",
+7,
+"zhǎn cǎo chú gēn",
+"to cut weeds and eliminate the roots (idiom); to destroy root and branch; to eliminate completely"
 ]
 ],
 "extraWords": [
@@ -49,6 +73,12 @@
 17.26,
 "Ā gēn tíng",
 "Argentina"
+],
+[
+"根本上",
+13.18,
+"???",
+"???"
 ],
 [
 "草根",
@@ -67,6 +97,12 @@
 6.35,
 "gēn jù dì",
 "base of operations"
+],
+[
+"根本性",
+5.03,
+"???",
+"???"
 ]
 ],
 "strokes": [

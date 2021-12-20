@@ -1,16 +1,22 @@
 {
 "char": "殿",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "hall; palace; temple",
 "pron": "diàn"
 },
 "words": [
 [
+"殿堂",
+7,
+"diàn táng",
+"palace; hall; temple buildings"
+],
+[
 "宫殿",
-6,
+7,
 "gōng diàn",
-"palace; CL:座[zuo4]"
+"palace; CL:座[zuò]"
 ]
 ],
 "extraWords": [
@@ -19,6 +25,12 @@
 24.32,
 "diàn xià",
 "Your Majesty (honorific); His or Her Highness"
+],
+[
+"殿",
+11.62,
+"diàn",
+"palace hall"
 ]
 ],
 "strokes": [

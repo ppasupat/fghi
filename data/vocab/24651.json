@@ -1,6 +1,6 @@
 {
 "char": "恋",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "love; long for, yearn for; love",
 "pron": "liàn"
@@ -10,13 +10,31 @@
 "恋爱",
 5,
 "liàn ài",
-"(romantic) love; CL:個|个[ge4],場|场[chang3]; in love; to have an affair"
+"(romantic) love; CL:个[gè],场[chǎng]; in love; to have an affair"
+],
+[
+"恋恋不舍",
+7,
+"liàn liàn bù shě",
+"reluctant to part"
 ],
 [
 "留恋",
-6,
+7,
 "liú liàn",
 "reluctant to leave; to hate to have to go; to recall fondly"
+],
+[
+"迷恋",
+7,
+"mí liàn",
+"to be infatuated with; to be enchanted by; to be passionate about"
+],
+[
+"失恋",
+7,
+"shī liàn",
+"to lose one's love; to break up (in a romantic relationship); to feel jilted"
 ]
 ],
 "extraWords": [
@@ -27,10 +45,10 @@
 "homosexuality; gay person; gay love"
 ],
 [
-"失恋",
-24.42,
-"shī liàn",
-"to lose one's love; to break up (in a romantic relationship); to feel jilted"
+"恋",
+38.78,
+"liàn",
+"to feel attached to; to long for; to love"
 ],
 [
 "恋人",
@@ -43,12 +61,6 @@
 8.95,
 "chū liàn",
 "first love"
-],
-[
-"迷恋",
-7.75,
-"mí liàn",
-"to be infatuated with; to be enchanted by; to be passionate about"
 ],
 [
 "恋情",

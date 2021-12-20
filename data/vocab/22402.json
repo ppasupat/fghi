@@ -1,19 +1,32 @@
 {
 "char": "垂",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "let down; suspend, hand; down",
 "pron": "chuí"
 },
 "words": [
 [
+"垂",
+7,
+"chuí",
+"to hang (down); droop; dangle; bend down; hand down; bequeath; nearly; almost; to approach"
+],
+[
+"垂头丧气",
+7,
+"chuí tóu sàng qì",
+"hanging one's head dispiritedly (idiom); dejected; crestfallen"
+]
+],
+"extraWords": [
+[
 "垂直",
-6,
+11.6,
 "chuí zhí",
 "perpendicular; vertical"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 505 717 Q 586 742 637 744 Q 656 743 661 750 Q 665 760 655 775 Q 636 794 591 819 Q 575 829 561 829 Q 554 826 551 815 Q 550 797 489 767 Q 386 724 323 704 Q 316 695 322 692 Q 337 688 434 705 Q 444 706 455 707 L 505 717 Z",
 "M 534 553 Q 597 563 663 572 Q 727 582 737 591 Q 747 598 742 608 Q 735 621 707 630 Q 676 637 645 628 Q 590 612 534 600 L 483 590 Q 398 577 300 573 Q 263 569 288 550 Q 333 522 387 533 Q 433 540 483 546 L 534 553 Z",

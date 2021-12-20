@@ -1,6 +1,6 @@
 {
 "char": "棒",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "stick, club, truncheon; hit",
 "pron": "bàng"
@@ -8,24 +8,18 @@
 "words": [
 [
 "棒",
-4,
+5,
 "bàng",
 "stick; club; cudgel; smart; capable; strong; wonderful; classifier for legs of a relay race"
 ],
 [
-"棍棒",
-6,
-"gùn bàng",
-"club; staff; stick"
+"棒球",
+7,
+"bàng qiú",
+"baseball; CL:个[gè],只[zhī]"
 ]
 ],
 "extraWords": [
-[
-"棒球",
-34.19,
-"bàng qiú",
-"baseball; CL:個|个[ge4],隻|只[zhi1]"
-],
 [
 "好棒",
 7.71,

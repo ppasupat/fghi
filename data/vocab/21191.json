@@ -1,11 +1,17 @@
 {
 "char": "勇",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "brave, courageous, fierce",
 "pron": "yǒng"
 },
 "words": [
+[
+"英勇",
+4,
+"yīng yǒng",
+"heroic; gallant; valiant"
+],
 [
 "勇敢",
 4,
@@ -14,30 +20,42 @@
 ],
 [
 "勇气",
-5,
+4,
 "yǒng qì",
 "courage; valor"
 ],
 [
-"英勇",
-6,
-"yīng yǒng",
-"heroic; gallant; valiant"
-],
-[
-"勇于",
-6,
-"yǒng yú",
-"to dare to; to be brave enough to"
+"奋勇",
+7,
+"fèn yǒng",
+"dauntless; to summon up courage and determination; using extreme force of will"
 ],
 [
 "见义勇为",
-6,
+7,
 "jiàn yì yǒng wéi",
 "to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
+],
+[
+"勇往直前",
+7,
+"yǒng wǎng zhí qián",
+"to advance bravely"
+],
+[
+"勇于",
+7,
+"yǒng yú",
+"to dare to; to be brave enough to"
 ]
 ],
 "extraWords": [
+[
+"勇",
+17.8,
+"yǒng",
+"brave"
+],
 [
 "勇士",
 12.46,

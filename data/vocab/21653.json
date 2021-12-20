@@ -1,12 +1,31 @@
 {
 "char": "咕",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "mumble, mutter, murmur; rumble",
 "pron": "gū"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"咕",
+4.47,
+"gū",
+"(onom.) for the sound of a bird, an empty stomach etc"
+],
+[
+"嘀咕",
+3.68,
+"dí gu",
+"to mutter; to feel apprehensive"
+],
+[
+"咕噜",
+2.15,
+"gū lu",
+"(onom.) to rumble (of a stomach); to coo (of a dove); rumbling; noisy drinking sound"
+]
+],
 "strokes": [
 "M 140 559 Q 128 565 105 570 Q 92 574 89 569 Q 82 563 90 546 Q 118 476 129 365 Q 130 331 148 308 Q 164 286 171 301 Q 178 320 177 353 L 173 387 Q 158 501 158 531 C 157 552 157 552 140 559 Z",
 "M 317 408 Q 330 505 354 537 Q 376 565 351 578 Q 330 588 301 606 Q 282 616 238 589 Q 184 568 140 559 C 111 553 129 523 158 531 Q 165 534 242 551 Q 264 555 270 547 Q 280 540 275 497 Q 271 458 265 413 C 261 383 313 378 317 408 Z",

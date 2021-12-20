@@ -1,11 +1,17 @@
 {
 "char": "诊",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "examine patient, diagnose",
 "pron": "zhěn"
 },
 "words": [
+[
+"门诊",
+5,
+"mén zhěn",
+"outpatient service"
+],
 [
 "诊断",
 5,
@@ -13,30 +19,42 @@
 "diagnosis; to diagnose"
 ],
 [
+"会诊",
+7,
+"huì zhěn",
+"consultation (medical); to meet for diagnosis; (by extension) consultation of different specialists"
+],
+[
 "急诊",
-5,
+7,
 "jí zhěn",
 "to give or receive urgent medical treatment; emergency treatment (at a hospital emergency department, or from a doctor on a house call)"
+],
+[
+"就诊",
+7,
+"jiù zhěn",
+"to see a doctor; to seek medical advice"
+],
+[
+"确诊",
+7,
+"què zhěn",
+"to make a definite diagnosis; confirmed (case of a specific disease)"
+],
+[
+"诊所",
+7,
+"zhěn suǒ",
+"clinic"
 ]
 ],
 "extraWords": [
 [
-"诊所",
-21.82,
-"zhěn suǒ",
-"clinic"
-],
-[
-"门诊",
-15.37,
-"mén zhěn",
-"outpatient service"
-],
-[
-"确诊",
-11.79,
-"què zhěn",
-"to make a definite diagnosis; confirmed (case of a specific disease)"
+"诊",
+11.21,
+"zhěn",
+"to examine or treat medically"
 ],
 [
 "急诊室",
@@ -45,10 +63,10 @@
 "emergency room"
 ],
 [
-"就诊",
-9.72,
-"jiù zhěn",
-"to see a doctor; to seek medical advice"
+"误诊",
+5.9,
+"???",
+"???"
 ],
 [
 "诊治",

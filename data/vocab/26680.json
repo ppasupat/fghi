@@ -1,31 +1,79 @@
 {
 "char": "核",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "seed, kernel, core, nut; atom",
 "pron": "hé, hú"
 },
 "words": [
 [
-"核心",
+"考核",
 5,
+"kǎo hé",
+"to examine; to check up on; to assess; to review; appraisal; review; evaluation"
+],
+[
+"核心",
+6,
 "hé xīn",
 "core; nucleus"
 ],
 [
-"考核",
-6,
-"kǎo hé",
-"to examine; to check up on; to assess; to review; appraisal; review; evaluation"
+"核",
+7,
+"hé",
+"pit; stone; nucleus; nuclear; to examine; to check; to verify"
+],
+[
+"核",
+7,
+"hé",
+"variant of 核[hé]; to investigate"
+],
+[
+"核电站",
+7,
+"hé diàn zhàn",
+"nuclear power plant"
+],
+[
+"核对",
+7,
+"hé duì",
+"to check; to verify; to audit; to examine"
+],
+[
+"核能",
+7,
+"hé néng",
+"nuclear energy"
+],
+[
+"核实",
+7,
+"hé shí",
+"to verify; to check"
+],
+[
+"核桃",
+7,
+"hé tao",
+"walnut; CL:个[gè],棵[kē]"
+],
+[
+"核武器",
+7,
+"hé wǔ qì",
+"nuclear weapon"
+],
+[
+"审核",
+7,
+"shěn hé",
+"to audit; to investigate thoroughly"
 ]
 ],
 "extraWords": [
-[
-"审核",
-21.3,
-"shěn hé",
-"to audit; to investigate thoroughly"
-],
 [
 "核弹",
 13.74,
@@ -39,28 +87,10 @@
 "to calculate; accounting"
 ],
 [
-"核武器",
-11.31,
-"hé wǔ qì",
-"nuclear weapon"
-],
-[
-"核实",
-11.3,
-"hé shí",
-"to verify; to check"
-],
-[
 "核准",
 9.19,
 "hé zhǔn",
 "to authorize; to investigate then ratify"
-],
-[
-"核桃",
-7.66,
-"hé tao",
-"walnut; CL:個|个[ge4],棵[ke1]"
 ],
 [
 "核查",

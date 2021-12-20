@@ -1,6 +1,6 @@
 {
 "char": "碰",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "collide, bump into",
 "pron": "pèng"
@@ -8,48 +8,60 @@
 "words": [
 [
 "碰",
-5,
+2,
 "pèng",
-"variant of 碰[peng4]"
+"variant of 碰[pèng]"
 ],
 [
 "碰",
-5,
+2,
 "pèng",
 "to touch; to meet with; to bump"
 ],
 [
 "碰",
-5,
+2,
 "pèng",
-"old variant of 碰[peng4]"
-]
+"old variant of 碰[pèng]"
 ],
-"extraWords": [
 [
 "碰到",
-45.94,
+2,
 "pèng dào",
 "to come across; to run into; to meet; to hit"
 ],
 [
+"碰见",
+2,
+"pèng jiàn",
+"to run into; to meet (unexpectedly); to bump into"
+],
+[
+"碰钉子",
+7,
+"pèng dīng zi",
+"to meet with a rebuff"
+],
+[
 "碰巧",
-15.08,
+7,
 "pèng qiǎo",
 "by chance; by coincidence; to happen to"
 ],
 [
-"碰撞",
-13.38,
-"pèng zhuàng",
-"to collide; collision"
-],
-[
 "碰上",
-10.34,
+7,
 "pèng shàng",
 "to run into; to come upon; to meet"
 ],
+[
+"碰撞",
+7,
+"pèng zhuàng",
+"to collide; collision"
+]
+],
+"extraWords": [
 [
 "碰头",
 8.5,
@@ -61,12 +73,6 @@
 7.24,
 "pèng miàn",
 "to meet; to run into (sb); to get together (with sb)"
-],
-[
-"碰见",
-5.37,
-"pèng jiàn",
-"to run into; to meet (unexpectedly); to bump into"
 ]
 ],
 "strokes": [

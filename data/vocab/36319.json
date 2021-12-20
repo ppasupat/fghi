@@ -1,6 +1,6 @@
 {
 "char": "跟",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "heel; to follow, accompany; with",
 "pron": "gēn"
@@ -8,33 +8,51 @@
 "words": [
 [
 "跟",
-3,
+1,
 "gēn",
 "heel; to follow closely; to go with; (of a woman) to marry sb; with; compared with; to; towards; and (joining two nouns)"
 ],
 [
-"跟踪",
-6,
-"gēn zōng",
-"to follow sb's tracks; to tail; to shadow; tracking"
-],
-[
-"跟随",
-6,
-"gēn suí",
-"to follow"
+"高跟鞋",
+5,
+"gāo gēn xié",
+"high-heeled shoes"
 ],
 [
 "跟前",
-6,
+5,
 "gēn qián",
 "the front (of); (in) front; (in) sb's presence; just before (a date)"
 ],
 [
 "跟前",
-6,
+5,
 "gēn qian",
 "(of children, parents etc) at one's side; living with one"
+],
+[
+"跟随",
+5,
+"gēn suí",
+"to follow"
+],
+[
+"跟不上",
+7,
+"gēn bu shàng",
+"not able to keep up with"
+],
+[
+"跟上",
+7,
+"gēn shàng",
+"to catch up with; to keep pace with"
+],
+[
+"跟踪",
+7,
+"gēn zōng",
+"to follow sb's tracks; to tail; to shadow; tracking"
 ]
 ],
 "extraWords": [
@@ -43,18 +61,6 @@
 20.99,
 "gēn zhe",
 "to follow after; immediately afterwards"
-],
-[
-"跟上",
-9.14,
-"gēn shàng",
-"to catch up with; to keep pace with"
-],
-[
-"高跟鞋",
-8.56,
-"gāo gēn xié",
-"high-heeled shoes"
 ],
 [
 "紧跟",
@@ -67,12 +73,6 @@
 6.15,
 "gēn jìn",
 "to follow; to follow up"
-],
-[
-"跟不上",
-5.58,
-"gēn bu shàng",
-"not able to keep up with"
 ]
 ],
 "strokes": [

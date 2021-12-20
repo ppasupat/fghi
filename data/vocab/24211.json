@@ -1,22 +1,40 @@
 {
 "char": "库",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "armory, treasury, storehouse",
 "pron": "kù"
 },
 "words": [
 [
-"车库",
+"库",
 5,
-"chē kù",
-"garage"
+"kù",
+"warehouse; storehouse; (file) library"
+],
+[
+"水库",
+5,
+"shuǐ kù",
+"reservoir; CL:座[zuò]"
 ],
 [
 "仓库",
 6,
 "cāng kù",
 "depot; storehouse; warehouse"
+],
+[
+"宝库",
+7,
+"bǎo kù",
+"treasure-house; treasury; treasure-trove (often fig., book of treasured wisdom)"
+],
+[
+"数据库",
+7,
+"shù jù kù",
+"database"
 ]
 ],
 "extraWords": [
@@ -27,22 +45,22 @@
 "property or cash held in reserve; stock"
 ],
 [
-"水库",
-19.55,
-"shuǐ kù",
-"reservoir; CL:座[zuo4]"
-],
-[
-"数据库",
-14.99,
-"shù jù kù",
-"database"
+"车库",
+15.98,
+"chē kù",
+"garage"
 ],
 [
 "巴库",
 7.15,
 "Bā kù",
 "Baku, capital of Azerbaijan"
+],
+[
+"库区",
+5.45,
+"???",
+"???"
 ],
 [
 "金库",

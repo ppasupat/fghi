@@ -1,31 +1,43 @@
 {
 "char": "疗",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "be healed, cured, recover",
 "pron": "liáo"
 },
 "words": [
 [
-"治疗",
-5,
-"zhì liáo",
-"to treat (an illness); medical treatment; therapy"
-]
+"疗养",
+4,
+"liáo yǎng",
+"to get well; to heal; to recuperate; to convalesce; convalescence; to nurse"
 ],
-"extraWords": [
 [
 "医疗",
-105.43,
+4,
 "yī liáo",
 "medical treatment"
 ],
 [
+"治疗",
+4,
+"zhì liáo",
+"to treat (an illness); medical treatment; therapy"
+],
+[
+"疗法",
+7,
+"liáo fǎ",
+"therapy; treatment"
+],
+[
 "疗效",
-37.13,
+7,
 "liáo xiào",
 "healing efficacy; healing effect"
+]
 ],
+"extraWords": [
 [
 "化疗",
 15.38,
@@ -33,16 +45,28 @@
 "chemotherapy"
 ],
 [
-"疗法",
-12.78,
-"liáo fǎ",
-"therapy; treatment"
-],
-[
 "疗程",
 12.37,
 "liáo chéng",
 "course of treatment"
+],
+[
+"疗",
+9.87,
+"liáo",
+"to treat; to cure; therapy"
+],
+[
+"医疗卫生",
+6.97,
+"???",
+"???"
+],
+[
+"放疗",
+6.31,
+"???",
+"???"
 ]
 ],
 "strokes": [

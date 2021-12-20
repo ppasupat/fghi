@@ -1,11 +1,29 @@
 {
 "char": "经",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "classic works; pass through",
 "pron": "jīng, jìng"
 },
 "words": [
+[
+"经常",
+2,
+"jīng cháng",
+"frequently; constantly; regularly; often; day-to-day; everyday; daily"
+],
+[
+"经过",
+2,
+"jīng guò",
+"to pass; to go through; process; course; CL:个[gè]"
+],
+[
+"经理",
+2,
+"jīng lǐ",
+"manager; director; CL:个[gè],位[wèi],名[míng]"
+],
 [
 "已经",
 2,
@@ -13,109 +31,157 @@
 "already"
 ],
 [
-"经常",
-3,
-"jīng cháng",
-"frequently; constantly; regularly; often; day-to-day; everyday; daily"
-],
-[
-"经过",
-3,
-"jīng guò",
-"to pass; to go through; process; course; CL:個|个[ge4]"
-],
-[
-"经理",
-3,
-"jīng lǐ",
-"manager; director; CL:個|个[ge4],位[wei4],名[ming2]"
-],
-[
-"经历",
-4,
-"jīng lì",
-"experience; CL:個|个[ge4],次[ci4]; to experience; to go through"
-],
-[
-"经验",
-4,
-"jīng yàn",
-"experience; to experience"
-],
-[
-"经济",
-4,
-"jīng jì",
-"economy; economic"
-],
-[
 "曾经",
-5,
+3,
 "céng jīng",
 "once; already; former; previously; ever; (past tense marker used before verb or clause)"
 ],
 [
-"经典",
-5,
-"jīng diǎn",
-"the classics; scriptures; classical; classic (example, case etc); typical"
+"经济",
+3,
+"jīng jì",
+"economy; economic"
+],
+[
+"经历",
+3,
+"jīng lì",
+"experience; CL:个[gè],次[cì]; to experience; to go through"
+],
+[
+"经验",
+3,
+"jīng yàn",
+"experience; to experience"
 ],
 [
 "经营",
-5,
+3,
 "jīng yíng",
 "to engage in (business etc); to run; to operate"
 ],
 [
-"经商",
+"经典",
+4,
+"jīng diǎn",
+"the classics; scriptures; classical; classic (example, case etc); typical"
+],
+[
+"经费",
 5,
-"jīng shāng",
-"to trade; to carry out commercial activities; in business"
+"jīng fèi",
+"funds; expenditure; CL:笔[bǐ]"
 ],
 [
 "神经",
-6,
+5,
 "shén jīng",
 "nerve; mental state; (coll.) unhinged; nutjob"
 ],
 [
-"正经",
+"总经理",
 6,
-"zhèng jīng",
-"decent; honorable; proper; serious; according to standards"
+"zǒng jīng lǐ",
+"general manager; CEO"
 ],
 [
-"经费",
-6,
-"jīng fèi",
-"funds; expenditure; CL:筆|笔[bi3]"
+"不经意",
+7,
+"bù jīng yì",
+"not paying attention; carelessly; by accident"
 ],
 [
-"经纬",
-6,
-"jīng wěi",
-"warp and woof; longitude and latitude; main points"
+"财经",
+7,
+"cái jīng",
+"finance and economics"
 ],
 [
-"饱经沧桑",
-6,
-"bǎo jīng cāng sāng",
-"having lived through many changes"
-]
+"经",
+7,
+"Jīng",
+"surname Jing"
 ],
-"extraWords": [
+[
+"经",
+7,
+"jīng",
+"classics; sacred book; scripture; to pass through; to undergo; to bear; to endure; warp (textile); longitude; menstruation; channel (TCM); abbr. for economics 经济[jīng jì]"
+],
+[
+"经度",
+7,
+"jīng dù",
+"longitude"
+],
+[
+"经久不息",
+7,
+"jīng jiǔ bù xī",
+"prolonged (applause, cheering etc)"
+],
+[
+"经贸",
+7,
+"jīng mào",
+"trade"
+],
+[
+"经商",
+7,
+"jīng shāng",
+"to trade; to carry out commercial activities; in business"
+],
+[
+"经受",
+7,
+"jīng shòu",
+"to undergo (hardship); to endure; to withstand"
+],
+[
+"历经",
+7,
+"lì jīng",
+"to experience; to go through"
+],
+[
+"取经",
+7,
+"qǔ jīng",
+"to journey to India on a quest for the Buddhist scriptures; to learn by studying another's experience"
+],
 [
 "市场经济",
-53.21,
+7,
 "shì chǎng jīng jì",
 "market economy"
 ],
 [
-"总经理",
-50.66,
-"zǒng jīng lǐ",
-"general manager; CEO"
+"天经地义",
+7,
+"tiān jīng dì yì",
+"lit. heaven's law and earth's principle (idiom); fig. right and proper; right and unalterable; a matter of course"
 ],
+[
+"未经",
+7,
+"wèi jīng",
+"not having undergone; without (having gone though a certain process)"
+],
+[
+"一经",
+7,
+"yī jīng",
+"as soon as; once (an action has been completed)"
+],
+[
+"引经据典",
+7,
+"yǐn jīng jù diǎn",
+"lit. to quote the classics; to quote chapter and verse (idiom)"
+]
+],
+"extraWords": [
 [
 "国民经济",
 27.02,
@@ -123,16 +189,16 @@
 "national economy"
 ],
 [
+"经济效益",
+25.93,
+"???",
+"???"
+],
+[
 "经纪人",
 25.61,
 "jīng jì rén",
 "broker; middleman; agent; manager"
-],
-[
-"财经",
-24.95,
-"cái jīng",
-"finance and economics"
 ],
 [
 "经销商",
@@ -144,25 +210,13 @@
 "圣经",
 23.67,
 "Shèng jīng",
-"Holy Bible; the Confucian classics; CL:本[ben3],部[bu4]"
-],
-[
-"经贸",
-21.55,
-"jīng mào",
-"trade"
+"Holy Bible; the Confucian classics; CL:本[běn],部[bù]"
 ],
 [
 "经营者",
 20.68,
 "jīng yíng zhě",
 "executive; manager; transactor"
-],
-[
-"未经",
-18.05,
-"wèi jīng",
-"not having undergone; without (having gone though a certain process)"
 ],
 [
 "经济学",
@@ -177,6 +231,12 @@
 "economist"
 ],
 [
+"副总经理",
+13.96,
+"???",
+"???"
+],
+[
 "经纪",
 13.06,
 "jīng jì",
@@ -189,28 +249,16 @@
 "mental disorder; neuropathy; (derog.) mental case"
 ],
 [
-"不经意",
-9.6,
-"bù jīng yì",
-"not paying attention; carelessly; by accident"
-],
-[
-"历经",
-9.55,
-"lì jīng",
-"to experience; to go through"
+"正经",
+10.85,
+"zhèng jīng",
+"decent; honorable; proper; serious; according to standards"
 ],
 [
 "计划经济",
 8.56,
 "jì huà jīng jì",
 "planned economy"
-],
-[
-"一经",
-8.37,
-"yī jīng",
-"as soon as; once (an action has been completed)"
 ],
 [
 "月经",
@@ -225,16 +273,16 @@
 "economic system"
 ],
 [
-"经受",
-7.79,
-"jīng shòu",
-"to undergo (hardship); to endure; to withstand"
-],
-[
 "经销",
 6.56,
 "jīng xiāo",
 "to sell; to sell on commission; to distribute"
+],
+[
+"经营权",
+6.0,
+"???",
+"???"
 ],
 [
 "途经",
@@ -243,10 +291,34 @@
 "to pass through; via; by way of"
 ],
 [
+"经营性",
+5.54,
+"???",
+"???"
+],
+[
+"经常性",
+5.43,
+"???",
+"???"
+],
+[
 "神经元",
 5.35,
 "shén jīng yuán",
 "neuron"
+],
+[
+"第一财经日报",
+5.34,
+"???",
+"???"
+],
+[
+"经济全球化",
+5.28,
+"???",
+"???"
 ],
 [
 "神经质",

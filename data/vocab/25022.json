@@ -1,6 +1,6 @@
 {
 "char": "憾",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "to regret, remorse; dissatisfied",
 "pron": "hàn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "遗憾",
-5,
+6,
 "yí hàn",
 "regret; to regret; to be sorry that"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"憾",
+3.93,
+"hàn",
+"regret (sense of loss or dissatisfaction)"
+],
+[
+"缺憾",
+2.13,
+"quē hàn",
+"a regret; sth regrettable"
+]
+],
 "strokes": [
 "M 133 499 Q 120 432 94 370 Q 81 336 103 306 Q 113 291 131 306 Q 176 357 167 449 Q 167 480 156 503 Q 149 510 144 510 Q 137 507 133 499 Z",
 "M 281 568 Q 285 564 294 558 Q 343 516 354 517 Q 361 518 365 528 Q 369 540 361 563 Q 352 582 289 595 Q 285 596 282 595 C 255 591 259 588 281 568 Z",

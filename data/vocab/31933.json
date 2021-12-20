@@ -1,12 +1,32 @@
 {
 "char": "粽",
-"level": 8,
+"level": "7",
 "info": {
 "gloss": "dumpling made of glutinous rice",
 "pron": "zòng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"粽子",
+7,
+"zòng zi",
+"glutinous rice and choice of filling wrapped in leaves and steamed or boiled"
+]
+],
+"extraWords": [
+[
+"粽",
+2.83,
+"zòng",
+"rice dumplings wrapped in leaves"
+],
+[
+"粽",
+2.83,
+"zòng",
+"variant of 粽[zòng]"
+]
+],
 "strokes": [
 "M 145 624 Q 164 564 187 542 Q 199 535 212 542 Q 222 551 225 566 Q 228 588 217 606 Q 208 621 169 652 Q 157 662 148 662 Q 142 663 140 652 Q 137 642 145 624 Z",
 "M 385 670 Q 372 642 346 595 Q 342 588 347 583 Q 354 583 359 588 Q 417 642 445 663 Q 458 669 454 677 Q 447 689 430 701 Q 412 713 394 712 Q 384 711 386 695 Q 390 685 385 670 Z",

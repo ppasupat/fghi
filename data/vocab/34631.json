@@ -1,17 +1,30 @@
 {
 "char": "蝇",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "flies",
 "pron": "yíng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "苍蝇",
-8.67,
+7,
 "cāng ying",
-"housefly; CL:隻|只[zhi1]"
+"housefly; CL:只[zhī]"
+]
+],
+"extraWords": [
+[
+"蝇",
+3.31,
+"yíng",
+"fly; musca; CL:只[zhī]"
+],
+[
+"果蝇",
+0.44,
+"guǒ yíng",
+"fruit fly"
 ]
 ],
 "strokes": [

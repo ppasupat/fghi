@@ -1,31 +1,37 @@
 {
 "char": "翼",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "wings; fins on fish; shelter",
 "pron": "yì"
 },
 "words": [
 [
-"翼",
-6,
-"Yì",
-"surname Yi; alternative name for 絳|绛[Jiang4] capital of the Jin State during the Spring and Autumn Period (770-475 BC)"
-],
-[
-"翼",
-6,
-"yì",
-"wing; area surrounding the bullseye of a target; to assist; one of the 28 constellations of Chinese astronomy; old variant of 翌"
+"不翼而飞",
+7,
+"bù yì ér fēi",
+"to disappear without trace; to vanish all of a sudden; to spread fast; to spread like wildfire"
 ],
 [
 "小心翼翼",
-6,
+7,
 "xiǎo xīn yì yì",
 "cautious and solemn (idiom); very carefully; prudent; gently and cautiously"
 ]
 ],
 "extraWords": [
+[
+"翼",
+18.35,
+"Yì",
+"surname Yi; alternative name for 绛[Jiàng] capital of the Jin State during the Spring and Autumn Period (770-475 BC)"
+],
+[
+"翼",
+18.35,
+"yì",
+"wing; area surrounding the bullseye of a target; to assist; one of the 28 constellations of Chinese astronomy; old variant of 翌"
+],
 [
 "右翼",
 5.68,

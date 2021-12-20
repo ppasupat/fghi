@@ -1,6 +1,6 @@
 {
 "char": "斗",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "Chinese peck; liquid measure",
 "pron": "dǒu, dòu"
@@ -8,15 +8,15 @@
 "words": [
 [
 "奋斗",
-5,
+4,
 "fèn dòu",
 "to strive; to struggle"
 ],
 [
 "战斗",
-6,
+4,
 "zhàn dòu",
-"to fight; to engage in combat; struggle; battle; CL:場|场[chang2],次[ci4]"
+"to fight; to engage in combat; struggle; battle; CL:场[cháng],次[cì]"
 ],
 [
 "斗争",
@@ -26,15 +26,63 @@
 ],
 [
 "搏斗",
-6,
+7,
 "bó dòu",
 "to wrestle; to fight; to struggle"
 ],
 [
+"斗",
+7,
+"Dǒu",
+"abbr. for the Big Dipper constellation 北斗星[Běi dǒu xīng]"
+],
+[
+"斗",
+7,
+"dǒu",
+"dry measure for grain equal to ten 升[shēng] or one-tenth of a 石[dàn]; decaliter; peck; cup or dipper shaped object; old variant of 陡[dǒu]"
+],
+[
+"斗",
+7,
+"dòu",
+"to fight; to struggle; to condemn; to censure; to contend; to put together; coming together"
+],
+[
+"斗",
+7,
+"dòu",
+"variant of 斗[dòu]"
+],
+[
+"斗",
+7,
+"dòu",
+"variant of 斗[dòu]"
+],
+[
+"斗",
+7,
+"dòu",
+"variant of 斗[dòu]"
+],
+[
+"斗志",
+7,
+"dòu zhì",
+"will to fight; fighting spirit"
+],
+[
+"艰苦奋斗",
+7,
+"jiān kǔ fèn dòu",
+"to struggle arduously"
+],
+[
 "泰斗",
-6,
+7,
 "tài dǒu",
-"(abbr. for 泰山北斗[Tai4 Shan1 Bei3 dou3]) distinguished figure; doyen; revered authority"
+"(abbr. for 泰山北斗[Tài Shān Běi dǒu]) distinguished figure; doyen; revered authority"
 ]
 ],
 "extraWords": [
@@ -67,18 +115,6 @@
 8.14,
 "jué dòu",
 "to duel; a duel; decisive struggle"
-],
-[
-"艰苦奋斗",
-7.71,
-"jiān kǔ fèn dòu",
-"to struggle arduously"
-],
-[
-"斗志",
-6.72,
-"dòu zhì",
-"will to fight; fighting spirit"
 ],
 [
 "斗牛",

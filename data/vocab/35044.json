@@ -1,36 +1,48 @@
 {
 "char": "裤",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "trousers, pants",
 "pron": "kù"
 },
 "words": [
 [
+"短裤",
+3,
+"duǎn kù",
+"short pants; shorts"
+],
+[
 "裤子",
 3,
 "kù zi",
-"trousers; pants; CL:條|条[tiao2]"
+"trousers; pants; CL:条[tiáo]"
 ],
 [
 "牛仔裤",
 5,
 "niú zǎi kù",
-"jeans; CL:條|条[tiao2]"
+"jeans; CL:条[tiáo]"
 ]
 ],
 "extraWords": [
+[
+"裤",
+37.28,
+"kù",
+"variant of 裤[kù]"
+],
+[
+"裤",
+37.28,
+"kù",
+"underpants; trousers; pants"
+],
 [
 "内裤",
 25.84,
 "nèi kù",
 "underpants; panties; briefs"
-],
-[
-"短裤",
-10.25,
-"duǎn kù",
-"short pants; shorts"
 ]
 ],
 "strokes": [

@@ -1,31 +1,49 @@
 {
 "char": "疲",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "feel tired, be exhausted; weak",
 "pron": "pí"
 },
 "words": [
 [
-"疲劳",
-5,
-"pí láo",
-"fatigue; wearily; weariness; weary"
+"精疲力竭",
+7,
+"jīng pí lì jié",
+"spirit weary, strength exhausted (idiom); spent; drained; washed out"
 ],
 [
 "疲惫",
-6,
+7,
 "pí bèi",
 "beaten; exhausted; tired"
 ],
 [
+"疲惫不堪",
+7,
+"pí bèi bù kān",
+"exhausted; fatigued to the extreme"
+],
+[
 "疲倦",
-6,
+7,
 "pí juàn",
 "to tire; tired"
+],
+[
+"疲劳",
+7,
+"pí láo",
+"fatigue; wearily; weariness; weary"
 ]
 ],
 "extraWords": [
+[
+"疲",
+8.82,
+"pí",
+"weary"
+],
 [
 "疲软",
 5.71,

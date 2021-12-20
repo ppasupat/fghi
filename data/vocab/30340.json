@@ -1,11 +1,17 @@
 {
 "char": "的",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "possessive, adjectival suffix",
 "pron": "de, dī, dí, dì"
 },
 "words": [
+[
+"别的",
+1,
+"bié de",
+"else; other"
+],
 [
 "的",
 1,
@@ -16,7 +22,7 @@
 "的",
 1,
 "dī",
-"see 的士[di1 shi4]"
+"see 的士[dī shì]"
 ],
 [
 "的",
@@ -31,22 +37,82 @@
 "aim; clear"
 ],
 [
+"有的",
+1,
+"yǒu de",
+"(there are) some (who are...); some (exist)"
+],
+[
+"真的",
+1,
+"???",
+"???"
+],
+[
+"的话",
+2,
+"de huà",
+"if (coming after a conditional clause)"
+],
+[
 "目的",
-4,
+2,
 "mù dì",
-"purpose; aim; goal; target; objective; CL:個|个[ge4]"
+"purpose; aim; goal; target; objective; CL:个[gè]"
+],
+[
+"有的是",
+3,
+"yǒu de shì",
+"have plenty of; there's no lack of"
 ],
 [
 "的确",
-5,
+4,
 "dí què",
 "really; indeed"
 ],
 [
 "似的",
-5,
+4,
 "shì de",
 "seems as if; rather like; Taiwan pr. [si4 de5]"
+],
+[
+"没说的",
+7,
+"méi shuō de",
+"nothing to pick on; really good; nothing to discuss; settled matter; no problem"
+],
+[
+"目的地",
+7,
+"mù dì dì",
+"destination (location)"
+],
+[
+"说真的",
+7,
+"shuō zhēn de",
+"to tell the truth; honestly; in fact"
+],
+[
+"有的放矢",
+7,
+"yǒu dì fàng shǐ",
+"lit. to have a target in mind when shooting one's arrows (idiom); fig. to have a clear objective"
+],
+[
+"真是的",
+7,
+"zhēn shi de",
+"Really! (interj. of annoyance or frustration)"
+],
+[
+"总的来说",
+7,
+"zǒng de lái shuō",
+"generally speaking; to sum up; in summary; in short"
 ]
 ],
 "extraWords": [
@@ -54,7 +120,7 @@
 "是的",
 1317.87,
 "shì de",
-"yes, that's right; variant of 似的[shi4 de5]"
+"yes, that's right; variant of 似的[shì de]"
 ],
 [
 "他妈的",
@@ -63,34 +129,28 @@
 "(taboo curse) damn it!; fucking"
 ],
 [
-"别的",
-185.12,
-"bié de",
-"else; other"
-],
-[
-"有的",
-171.34,
-"yǒu de",
-"(there are) some (who are...); some (exist)"
-],
-[
 "什么的",
 33.87,
 "shén me de",
 "and so on; and what not"
 ],
 [
-"的话",
-33.09,
-"de huà",
-"if (coming after a conditional clause)"
-],
-[
 "面的",
 19.67,
 "miàn dī",
-"abbr. of 麵包車的士|面包车的士[mian4 bao1 che1 di1 shi4]; minivan taxi"
+"abbr. of 面包车的士[miàn bāo chē dī shì]; minivan taxi"
+],
+[
+"亲爱的",
+19.02,
+"???",
+"???"
+],
+[
+"小小的",
+17.92,
+"???",
+"???"
 ],
 [
 "打的",
@@ -99,16 +159,10 @@
 "(coll.) to take a taxi; to go by taxi"
 ],
 [
-"目的地",
-11.13,
-"mù dì dì",
-"destination (location)"
-],
-[
-"有的是",
-9.79,
-"yǒu de shì",
-"have plenty of; there's no lack of"
+"深深的",
+9.96,
+"???",
+"???"
 ],
 [
 "有的时候",

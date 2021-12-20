@@ -1,6 +1,6 @@
 {
 "char": "柬",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "letter, invitation; choose",
 "pron": "jiǎn"
@@ -8,7 +8,7 @@
 "words": [
 [
 "请柬",
-6,
+7,
 "qǐng jiǎn",
 "invitation card; written invitation"
 ]
@@ -19,6 +19,18 @@
 12.26,
 "Jiǎn pǔ zhài",
 "Cambodia"
+],
+[
+"柬",
+2.56,
+"Jiǎn",
+"abbr. for 柬埔寨[Jiǎn pǔ zhài], Cambodia"
+],
+[
+"柬",
+2.56,
+"jiǎn",
+"card; note; letter; old variant of 拣[jiǎn]"
 ]
 ],
 "strokes": [

@@ -1,11 +1,29 @@
 {
 "char": "律",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "statute, principle, regulation",
 "pron": "lǜ"
 },
 "words": [
+[
+"法律",
+4,
+"fǎ lǜ",
+"law; CL:条[tiáo], 套[tào], 个[gè]"
+],
+[
+"规律",
+4,
+"guī lǜ",
+"rule (e.g. of science); law of behavior; regular pattern; rhythm; discipline"
+],
+[
+"纪律",
+4,
+"jì lǜ",
+"discipline"
+],
 [
 "律师",
 4,
@@ -13,32 +31,14 @@
 "lawyer"
 ],
 [
-"法律",
-4,
-"fǎ lǜ",
-"law; CL:條|条[tiao2], 套[tao4], 個|个[ge4]"
-],
-[
-"纪律",
-5,
-"jì lǜ",
-"discipline"
-],
-[
-"规律",
-5,
-"guī lǜ",
-"rule (e.g. of science); law of behavior; regular pattern; rhythm; discipline"
-],
-[
 "一律",
-5,
+4,
 "yī lǜ",
 "same; uniformly; all; without exception"
 ],
 [
 "旋律",
-6,
+7,
 "xuán lǜ",
 "melody"
 ]
@@ -49,6 +49,24 @@
 13.84,
 "Fēi lǜ bīn",
 "the Philippines"
+],
+[
+"律",
+10.36,
+"Lǜ",
+"surname Lü"
+],
+[
+"律",
+10.36,
+"lǜ",
+"law"
+],
+[
+"辩护律师",
+9.57,
+"???",
+"???"
 ],
 [
 "自律",
@@ -67,6 +85,12 @@
 7.36,
 "Dǐ tè lǜ",
 "Detroit, Michigan"
+],
+[
+"心律",
+6.71,
+"???",
+"???"
 ]
 ],
 "strokes": [

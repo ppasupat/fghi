@@ -1,6 +1,6 @@
 {
 "char": "挫",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "push down; chop down; grind",
 "pron": "cuò"
@@ -8,12 +8,25 @@
 "words": [
 [
 "挫折",
-6,
+7,
 "cuò zhé",
 "setback; reverse; check; defeat; frustration; disappointment; to frustrate; to discourage; to set sb back; to blunt; to subdue"
+],
+[
+"抑扬顿挫",
+7,
+"yì yáng dùn cuò",
+"see 顿挫抑扬[dùn cuò yì yáng]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"挫",
+12.11,
+"cuò",
+"obstructed; to fail; to oppress; to repress; to lower the tone; to bend back; to dampen"
+]
+],
 "strokes": [
 "M 346 530 Q 446 557 452 561 Q 459 568 455 577 Q 448 587 420 594 Q 392 598 348 581 L 299 564 Q 190 540 160 536 Q 124 529 151 514 Q 190 490 248 507 Q 270 513 298 518 L 346 530 Z",
 "M 293 322 Q 290 237 289 133 Q 288 109 275 100 Q 274 100 224 104 Q 193 120 194 109 Q 195 102 214 85 Q 263 34 273 7 Q 286 -24 299 -27 Q 314 -28 330 6 Q 349 52 351 126 Q 345 246 344 366 L 344 401 Q 343 465 346 530 L 348 581 Q 354 719 370 768 Q 386 799 332 821 Q 298 840 279 833 Q 261 827 277 804 Q 299 777 300 743 Q 301 724 299 564 L 298 518 Q 297 454 294 370 L 293 322 Z",

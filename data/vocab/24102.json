@@ -1,6 +1,6 @@
 {
 "char": "带",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "belt, girdle, band, strap, zone",
 "pron": "dài"
@@ -8,65 +8,137 @@
 "words": [
 [
 "带",
-3,
+2,
 "dài",
-"band; belt; girdle; ribbon; tire; area; zone; region; CL:條|条[tiao2]; to wear; to carry; to take along; to bear (i.e. to have); to lead; to bring; to look after; to raise"
+"band; belt; girdle; ribbon; tire; area; zone; region; CL:条[tiáo]; to wear; to carry; to take along; to bear (i.e. to have); to lead; to bring; to look after; to raise"
 ],
 [
-"系领带",
-5,
-"xi4 ling3 dai4",
-"to tie a necktie"
+"带来",
+2,
+"dài lái",
+"to bring; to bring about; to produce"
 ],
 [
-"携带",
-6,
-"xié dài",
-"to carry (on one's person); to support (old); Taiwan pr. [xi1 dai4]"
+"带动",
+3,
+"dài dòng",
+"to spur; to provide impetus; to drive"
 ],
 [
 "带领",
-6,
+3,
 "dài lǐng",
 "to guide; to lead"
 ],
 [
-"磁带",
-6,
-"cí dài",
-"magnetic tape; CL:盤|盘[pan2],盒[he2]"
+"带有",
+5,
+"dài yǒu",
+"to have; to involve"
 ],
 [
-"温带",
-6,
-"wēn dài",
-"temperate zone"
+"地带",
+5,
+"dì dài",
+"zone; CL:个[gè]"
+],
+[
+"胶带",
+5,
+"jiāo dài",
+"adhesive tape; rubber belt; recording tape"
+],
+[
+"领带",
+5,
+"lǐng dài",
+"necktie; CL:条[tiáo]"
+],
+[
+"一带",
+5,
+"yī dài",
+"region; district"
+],
+[
+"绷带",
+7,
+"bēng dài",
+"bandage (loanword)"
+],
+[
+"磁带",
+7,
+"cí dài",
+"magnetic tape; CL:盘[pán],盒[hé]"
+],
+[
+"带队",
+7,
+"dài duì",
+"to lead a team; to lead a group; group leader; (tourism) tour guide"
+],
+[
+"带路",
+7,
+"dài lù",
+"to lead the way; to guide; to show the way; fig. to instruct"
+],
+[
+"带头",
+7,
+"dài tóu",
+"to take the lead; to be the first; to set an example"
+],
+[
+"带头人",
+7,
+"dài tóu rén",
+"leader"
+],
+[
+"附带",
+7,
+"fù dài",
+"supplementary; incidentally; in parentheses; by chance; in passing; additionally; secondary; subsidiary; to attach"
+],
+[
+"连滚带爬",
+7,
+"lián gǔn dài pá",
+"rolling and crawling; trying frantically to escape (idiom)"
+],
+[
+"纽带",
+7,
+"niǔ dài",
+"tie; link; bond"
+],
+[
+"皮带",
+7,
+"pí dài",
+"strap; leather belt; CL:条[tiáo],根[gēn]"
+],
+[
+"热带",
+7,
+"rè dài",
+"the tropics; tropical"
+],
+[
+"携带",
+7,
+"xié dài",
+"to carry (on one's person); to support (old); Taiwan pr. [xi1 dai4]"
 ]
 ],
 "extraWords": [
-[
-"带来",
-192.74,
-"dài lái",
-"to bring; to bring about; to produce"
-],
 [
 "带走",
 71.9,
 "dài zǒu",
 "to carry; to take away"
-],
-[
-"带动",
-41.37,
-"dài dòng",
-"to spur; to provide impetus; to drive"
-],
-[
-"一带",
-22.59,
-"yī dài",
-"region; district"
 ],
 [
 "带子",
@@ -81,12 +153,6 @@
 "to bring back"
 ],
 [
-"地带",
-18.43,
-"dì dài",
-"zone; CL:個|个[ge4]"
-],
-[
 "宽带",
 16.83,
 "kuān dài",
@@ -96,37 +162,13 @@
 "录像带",
 16.66,
 "lù xiàng dài",
-"video cassette; CL:盤|盘[pan2]"
-],
-[
-"领带",
-15.23,
-"lǐng dài",
-"necktie; CL:條|条[tiao2]"
-],
-[
-"带头",
-13.97,
-"dài tóu",
-"to take the lead; to be the first; to set an example"
+"video cassette; CL:盘[pán]"
 ],
 [
 "安全带",
 13.32,
 "ān quán dài",
 "seat belt; safety belt"
-],
-[
-"带有",
-9.06,
-"dài yǒu",
-"to have; to involve"
-],
-[
-"皮带",
-8.38,
-"pí dài",
-"strap; leather belt; CL:條|条[tiao2],根[gen1]"
 ],
 [
 "连带",
@@ -141,28 +183,10 @@
 "belt"
 ],
 [
-"胶带",
-6.65,
-"jiāo dài",
-"adhesive tape; rubber belt; recording tape"
-],
-[
-"带队",
-6.29,
-"dài duì",
-"to lead a team; to lead a group; group leader; (tourism) tour guide"
-],
-[
-"绷带",
-5.46,
-"bēng dài",
-"bandage (loanword)"
-],
-[
-"纽带",
-5.27,
-"niǔ dài",
-"tie; link; bond"
+"带到",
+6.11,
+"???",
+"???"
 ]
 ],
 "strokes": [

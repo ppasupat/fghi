@@ -1,6 +1,6 @@
 {
 "char": "椅",
-"level": 1,
+"level": "2",
 "info": {
 "gloss": "chair, seat",
 "pron": "yī, yǐ"
@@ -8,17 +8,29 @@
 "words": [
 [
 "椅子",
-1,
+2,
 "yǐ zi",
-"chair; CL:把[ba3],套[tao4]"
+"chair; CL:把[bǎ],套[tào]"
+],
+[
+"轮椅",
+4,
+"lún yǐ",
+"wheelchair"
+],
+[
+"藤椅",
+7,
+"téng yǐ",
+"rattan chair"
 ]
 ],
 "extraWords": [
 [
-"轮椅",
-11.3,
-"lún yǐ",
-"wheelchair"
+"椅",
+10.83,
+"yǐ",
+"chair"
 ],
 [
 "座椅",

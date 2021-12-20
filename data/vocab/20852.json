@@ -1,6 +1,6 @@
 {
 "char": "兴",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "thrive, prosper, flourish",
 "pron": "xīng, xìng"
@@ -14,7 +14,7 @@
 ],
 [
 "感兴趣",
-3,
+4,
 "gǎn xìng qù",
 "to be interested"
 ],
@@ -25,22 +25,22 @@
 "excited; excitement; (physiology) excitation"
 ],
 [
-"复兴",
-6,
-"Fù xīng",
-"Fuxing district of Handan city 邯鄲市|邯郸市[Han2 dan1 shi4], Hebei; Fuxing or Fuhsing township in Taoyuan county 桃園縣|桃园县[Tao2 yuan2 xian4], north Taiwan"
+"兴趣",
+4,
+"xìng qù",
+"interest (desire to know about sth); interest (thing in which one is interested); hobby; CL:个[gè]"
 ],
 [
-"复兴",
+"新兴",
 6,
-"fù xīng",
-"to revive; to rejuvenate"
+"Xīn xīng",
+"Xinxing county in Yunfu 云浮[Yún fú], Guangdong; Xinxing or Hsinhsing district of Kaohsiung city 高雄市[Gāo xióng shì], south Taiwan"
 ],
 [
-"兴高采烈",
+"新兴",
 6,
-"xìng gāo cǎi liè",
-"happy and excited (idiom); in high spirits; in great delight"
+"xīn xīng",
+"(of markets, industries, infectious diseases etc) rising; emerging; in the ascendant"
 ],
 [
 "兴旺",
@@ -49,72 +49,90 @@
 "prosperous; thriving; to prosper; to flourish"
 ],
 [
-"兴隆",
-6,
-"Xīng lóng",
-"Xinglong county in Chengde 承德[Cheng2 de2], Hebei"
+"复兴",
+7,
+"Fù xīng",
+"Fuxing district of Handan city 邯郸市[Hán dān shì], Hebei; Fuxing or Fuhsing township in Taoyuan county 桃园县[Táo yuán xiàn], north Taiwan"
 ],
 [
-"兴隆",
-6,
-"xīng lóng",
-"prosperous; thriving; flourishing"
+"复兴",
+7,
+"fù xīng",
+"to revive; to rejuvenate"
 ],
 [
-"兴致勃勃",
-6,
-"xìng zhì bó bó",
-"to become exhilarated (idiom); in high spirits; full of zest"
+"扫兴",
+7,
+"sǎo xìng",
+"to have one's spirits dampened; to feel disappointed"
+],
+[
+"兴奋剂",
+7,
+"xīng fèn jì",
+"stimulant; doping (in athletics)"
+],
+[
+"兴建",
+7,
+"xīng jiàn",
+"to build; to construct"
+],
+[
+"兴起",
+7,
+"xīng qǐ",
+"to rise; to spring up; to burgeon; to be aroused; to come into vogue"
+],
+[
+"兴高采烈",
+7,
+"xìng gāo cǎi liè",
+"happy and excited (idiom); in high spirits; in great delight"
+],
+[
+"兴致",
+7,
+"xìng zhì",
+"mood; spirits; interest"
 ],
 [
 "振兴",
-6,
+7,
 "Zhèn xīng",
-"Zhengxing district of Dandong city 丹東市|丹东市[Dan1 dong1 shi4], Liaoning"
+"Zhengxing district of Dandong city 丹东市[Dān dōng shì], Liaoning"
 ],
 [
 "振兴",
-6,
+7,
 "zhèn xīng",
 "to revive; to revitalize; to invigorate; to re-energize"
 ]
 ],
 "extraWords": [
 [
-"兴趣",
-116.91,
-"xìng qù",
-"interest (desire to know about sth); interest (thing in which one is interested); hobby; CL:個|个[ge4]"
+"兴",
+27.71,
+"Xīng",
+"surname Xing"
 ],
 [
-"新兴",
-13.17,
-"Xīn xīng",
-"Xinxing county in Yunfu 雲浮|云浮[Yun2 fu2], Guangdong; Xinxing or Hsinhsing district of Kaohsiung city 高雄市[Gao1 xiong2 shi4], south Taiwan"
+"兴",
+27.71,
+"xīng",
+"to rise; to flourish; to become popular; to start; to encourage; to get up; (often used in the negative) to permit or allow (dialect); maybe (dialect)"
 ],
 [
-"新兴",
-13.17,
-"xīn xīng",
-"(of markets, industries, infectious diseases etc) rising; emerging; in the ascendant"
+"兴",
+27.71,
+"xìng",
+"feeling or desire to do sth; interest in sth; excitement"
 ],
 [
 "有兴趣",
 11.89,
 "yǒu xìng qù",
 "interested; interesting"
-],
-[
-"兴建",
-11.88,
-"xīng jiàn",
-"to build; to construct"
-],
-[
-"兴起",
-10.67,
-"xīng qǐ",
-"to rise; to spring up; to burgeon; to be aroused; to come into vogue"
 ],
 [
 "中兴",
@@ -127,12 +145,6 @@
 5.67,
 "Shào xīng",
 "Shaoxing prefecture level city in Zhejiang"
-],
-[
-"兴奋剂",
-5.05,
-"xīng fèn jì",
-"stimulant; doping (in athletics)"
 ]
 ],
 "strokes": [

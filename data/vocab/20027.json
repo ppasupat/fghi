@@ -1,70 +1,94 @@
 {
 "char": "主",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "master, chief owner; host; lord",
 "pron": "zhǔ"
 },
 "words": [
 [
+"主人",
+2,
+"zhǔ rén",
+"master; host; owner; CL:个[gè]"
+],
+[
 "主要",
-3,
+2,
 "zhǔ yào",
 "main; principal; major; primary"
 ],
 [
-"主意",
-4,
-"zhǔ yi",
-"plan; idea; decision; CL:個|个[ge4]; Beijing pr. [zhu2 yi5]"
-],
-[
-"主人",
-5,
-"zhǔ rén",
-"master; host; owner; CL:個|个[ge4]"
-],
-[
-"公主",
-5,
-"gōng zhǔ",
-"princess"
-],
-[
-"主题",
-5,
-"zhǔ tí",
-"theme; subject"
-],
-[
-"主任",
-5,
-"zhǔ rèn",
-"director; head; CL:個|个[ge4]"
-],
-[
-"主席",
-5,
-"zhǔ xí",
-"chairperson; premier; chairman; CL:個|个[ge4],位[wei4]"
-],
-[
-"主动",
-5,
-"zhǔ dòng",
-"to take the initiative; to do sth of one's own accord; spontaneous; active; opposite: passive 被動|被动[bei4 dong4]; drive (of gears and shafts etc)"
-],
-[
 "主持",
-5,
+3,
 "zhǔ chí",
 "to take charge of; to manage or direct; to preside over; to uphold; to stand for (justice etc); to host (a TV or radio program etc); (TV) anchor"
 ],
 [
+"主动",
+3,
+"zhǔ dòng",
+"to take the initiative; to do sth of one's own accord; spontaneous; active; opposite: passive 被动[bèi dòng]; drive (of gears and shafts etc)"
+],
+[
+"主任",
+3,
+"zhǔ rèn",
+"director; head; CL:个[gè]"
+],
+[
+"主意",
+3,
+"zhǔ yi",
+"plan; idea; decision; CL:个[gè]; Beijing pr. [zhu2 yi5]"
+],
+[
 "主张",
-5,
+3,
 "zhǔ zhāng",
-"to advocate; to stand for; view; position; stand; proposition; viewpoint; assertion; CL:個|个[ge4]"
+"to advocate; to stand for; view; position; stand; proposition; viewpoint; assertion; CL:个[gè]"
+],
+[
+"自主",
+3,
+"zì zhǔ",
+"independent; to act for oneself; autonomous"
+],
+[
+"主题",
+4,
+"zhǔ tí",
+"theme; subject"
+],
+[
+"主席",
+4,
+"zhǔ xí",
+"chairperson; premier; chairman; CL:个[gè],位[wèi]"
+],
+[
+"车主",
+5,
+"chē zhǔ",
+"vehicle owner"
+],
+[
+"为主",
+5,
+"wéi zhǔ",
+"to rely mainly on; to attach most importance to"
+],
+[
+"主办",
+5,
+"zhǔ bàn",
+"to organize; to host (a conference or sports event)"
+],
+[
+"主导",
+5,
+"zhǔ dǎo",
+"leading; dominant; prevailing; to lead; to direct; to dominate"
 ],
 [
 "主观",
@@ -74,15 +98,21 @@
 ],
 [
 "主管",
-6,
+5,
 "zhǔ guǎn",
 "in charge; responsible for; person in charge; manager"
 ],
 [
-"主义",
+"主体",
+5,
+"zhǔ tǐ",
+"main part; bulk; body; subject; agent"
+],
+[
+"公主",
 6,
-"zhǔ yì",
-"-ism; ideology"
+"gōng zhǔ",
+"princess"
 ],
 [
 "民主",
@@ -91,22 +121,16 @@
 "democracy"
 ],
 [
-"做主",
+"主持人",
 6,
-"zuò zhǔ",
-"see 作主[zuo4 zhu3]"
+"zhǔ chí rén",
+"TV or radio presenter; host; anchor"
 ],
 [
-"主导",
+"主角",
 6,
-"zhǔ dǎo",
-"leading; dominant; prevailing; to lead; to direct; to dominate"
-],
-[
-"自主",
-6,
-"zì zhǔ",
-"independent; to act for oneself; autonomous"
+"zhǔ jué",
+"leading role; lead"
 ],
 [
 "主流",
@@ -115,60 +139,144 @@
 "main stream (of a river); fig. the essential point; main viewpoint of a matter; mainstream (culture etc)"
 ],
 [
-"主权",
-6,
-"zhǔ quán",
-"sovereignty"
+"不由自主",
+7,
+"bù yóu zì zhǔ",
+"can't help; involuntarily (idiom)"
 ],
 [
-"主办",
-6,
-"zhǔ bàn",
-"to organize; to host (a conference or sports event)"
+"出主意",
+7,
+"chū zhǔ yi",
+"to come up with ideas; to make suggestions; to offer advice"
+],
+[
+"帝国主义",
+7,
+"dì guó zhǔ yì",
+"imperialism"
 ],
 [
 "东道主",
-6,
+7,
 "dōng dào zhǔ",
 "host; official host (e.g. venue for games or a conference)"
-]
 ],
-"extraWords": [
+[
+"独立自主",
+7,
+"dú lì zì zhǔ",
+"independent and autonomous (idiom); self-determination; to act independently; to maintain control over one's own affairs"
+],
+[
+"雇主",
+7,
+"gù zhǔ",
+"employer"
+],
+[
+"官僚主义",
+7,
+"guān liáo zhǔ yì",
+"bureaucracy"
+],
 [
 "社会主义",
-151.3,
+7,
 "shè huì zhǔ yì",
 "socialism"
 ],
 [
-"为主",
-88.61,
-"wéi zhǔ",
-"to rely mainly on; to attach most importance to"
+"天主教",
+7,
+"Tiān zhǔ jiào",
+"Catholicism"
 ],
+[
+"主",
+7,
+"zhǔ",
+"owner; master; host; individual or party concerned; God; Lord; main; to indicate or signify; trump card (in card games)"
+],
+[
+"主编",
+7,
+"zhǔ biān",
+"editor in chief"
+],
+[
+"主妇",
+7,
+"zhǔ fù",
+"housewife; woman of senior authority in a household; the lady of the house; hostess"
+],
+[
+"主力",
+7,
+"zhǔ lì",
+"main force; main strength of an army"
+],
+[
+"主权",
+7,
+"zhǔ quán",
+"sovereignty"
+],
+[
+"主人公",
+7,
+"zhǔ rén gōng",
+"hero (of a novel or film); main protagonist"
+],
+[
+"主食",
+7,
+"zhǔ shí",
+"main food; staple (rice and noodles)"
+],
+[
+"主题歌",
+7,
+"zhǔ tí gē",
+"theme song"
+],
+[
+"主演",
+7,
+"zhǔ yǎn",
+"to act the leading role (in a movie or a play); to star; lead actor"
+],
+[
+"主页",
+7,
+"zhǔ yè",
+"home page"
+],
+[
+"主义",
+7,
+"zhǔ yì",
+"-ism; ideology"
+],
+[
+"主宰",
+7,
+"zhǔ zǎi",
+"to dominate; to rule; to dictate; master"
+],
+[
+"资本主义",
+7,
+"zī běn zhǔ yì",
+"capitalism"
+]
+],
+"extraWords": [
 [
 "毛主席",
 80.07,
 "Máo Zhǔ xí",
 "Chairman Mao; Mao Zedong 毛澤東|毛泽东 (1893-1976), Chinese Communist leader"
-],
-[
-"主持人",
-69.06,
-"zhǔ chí rén",
-"TV or radio presenter; host; anchor"
-],
-[
-"主体",
-61.49,
-"zhǔ tǐ",
-"main part; bulk; body; subject; agent"
-],
-[
-"主力",
-49.24,
-"zhǔ lì",
-"main force; main strength of an army"
 ],
 [
 "主场",
@@ -183,16 +291,16 @@
 "owner; proprietor"
 ],
 [
+"主教练",
+31.51,
+"???",
+"???"
+],
+[
 "副主任",
 30.93,
 "fù zhǔ rèn",
 "deputy director; assistant head"
-],
-[
-"资本主义",
-29.05,
-"zī běn zhǔ yì",
-"capitalism"
 ],
 [
 "副主席",
@@ -201,28 +309,10 @@
 "vice-chairperson"
 ],
 [
-"主角",
-24.78,
-"zhǔ jué",
-"leading role; lead"
-],
-[
-"车主",
-20.99,
-"chē zhǔ",
-"vehicle owner"
-],
-[
 "马克思主义",
 20.7,
 "Mǎ kè sī zhǔ yì",
 "Marxism"
-],
-[
-"帝国主义",
-20.63,
-"dì guó zhǔ yì",
-"imperialism"
 ],
 [
 "主帅",
@@ -231,10 +321,22 @@
 "(military) commander-in-chief; (sports) team manager; coach"
 ],
 [
-"主演",
-15.81,
-"zhǔ yǎn",
-"to act the leading role (in a movie or a play); to star; lead actor"
+"主营",
+16.45,
+"???",
+"???"
+],
+[
+"最主要",
+15.02,
+"???",
+"???"
+],
+[
+"美帝国主义",
+14.94,
+"???",
+"???"
 ],
 [
 "地主",
@@ -249,10 +351,10 @@
 "communism"
 ],
 [
-"主编",
-13.53,
-"zhǔ biān",
-"editor in chief"
+"女主角",
+11.56,
+"???",
+"???"
 ],
 [
 "班主任",
@@ -273,12 +375,6 @@
 "bishop"
 ],
 [
-"主妇",
-9.69,
-"zhǔ fù",
-"housewife; woman of senior authority in a household; the lady of the house; hostess"
-],
-[
 "民主党",
 9.13,
 "Mín zhǔ dǎng",
@@ -295,6 +391,12 @@
 8.68,
 "ài guó zhǔ yì",
 "patriotism"
+],
+[
+"男主角",
+8.64,
+"???",
+"???"
 ],
 [
 "主机",
@@ -321,12 +423,6 @@
 "Marxism-Leninism"
 ],
 [
-"天主教",
-6.89,
-"Tiān zhǔ jiào",
-"Catholicism"
-],
-[
 "国家主席",
 6.89,
 "guó jiā zhǔ xí",
@@ -351,6 +447,12 @@
 "main line (of communication); main thread (of a plotline or concept); central theme"
 ],
 [
+"民主党派",
+6.16,
+"???",
+"???"
+],
+[
 "恐怖主义",
 6.15,
 "kǒng bù zhǔ yì",
@@ -361,30 +463,6 @@
 6.13,
 "jiào zhǔ",
 "founder or leader of a religion or sect; (fig.) revered figure"
-],
-[
-"主宰",
-5.69,
-"zhǔ zǎi",
-"to dominate; to rule; to dictate; master"
-],
-[
-"主人公",
-5.62,
-"zhǔ rén gōng",
-"hero (of a novel or film); main protagonist"
-],
-[
-"不由自主",
-5.56,
-"bù yóu zì zhǔ",
-"can't help; involuntarily (idiom)"
-],
-[
-"雇主",
-5.37,
-"gù zhǔ",
-"employer"
 ],
 [
 "君主",

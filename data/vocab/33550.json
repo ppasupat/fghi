@@ -1,6 +1,6 @@
 {
 "char": "茎",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "stem, stalk",
 "pron": "jīng"
@@ -8,9 +8,9 @@
 "words": [
 [
 "茎",
-6,
+7,
 "jīng",
-"stalk; stem; CL:條|条[tiao2]"
+"stalk; stem; CL:条[tiáo]"
 ]
 ],
 "extraWords": [
@@ -19,6 +19,12 @@
 8.02,
 "yīn jīng",
 "penis"
+],
+[
+"根茎",
+0.5,
+"gēn jīng",
+"stolon; runner; rhizome; rhizoma"
 ]
 ],
 "strokes": [

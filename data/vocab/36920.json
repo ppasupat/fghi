@@ -1,12 +1,25 @@
 {
 "char": "逸",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "flee, escape, break loose",
 "pron": "yì"
 },
-"words": [],
+"words": [
+[
+"安逸",
+7,
+"ān yì",
+"easy and comfortable; easy"
+]
+],
 "extraWords": [
+[
+"逸",
+10.01,
+"yì",
+"to escape; leisurely; outstanding"
+],
 [
 "逃逸",
 5.31,

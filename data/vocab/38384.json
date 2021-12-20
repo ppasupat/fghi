@@ -1,12 +1,31 @@
 {
 "char": "闰",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "intercalary; extra, surplus",
 "pron": "rùn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"闰",
+1.38,
+"rùn",
+"intercalary; an extra day or month inserted into the lunar or solar calendar (such as February 29)"
+],
+[
+"闰年",
+0.48,
+"rùn nián",
+"leap year; (lunar calendar) year with a thirteen intercalary month"
+],
+[
+"闰月",
+0.31,
+"rùn yuè",
+"intercalary month in the lunar calendar; leap month"
+]
+],
 "strokes": [
 "M 299 762 Q 362 678 387 674 Q 402 671 410 691 Q 413 706 404 729 Q 394 750 367 762 Q 324 787 306 791 Q 296 794 294 781 Q 291 772 299 762 Z",
 "M 176 680 Q 231 533 186 219 Q 156 96 157 86 Q 157 55 179 29 Q 192 14 202 29 Q 239 68 240 234 Q 240 561 257 645 Q 258 664 242 675 Q 217 696 189 704 Q 179 707 172 698 Q 168 691 176 680 Z",

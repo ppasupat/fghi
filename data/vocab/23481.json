@@ -1,11 +1,17 @@
 {
 "char": "容",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "looks, appearance; figure, form",
 "pron": "róng"
 },
 "words": [
+[
+"内容",
+3,
+"nèi róng",
+"content; substance; details; CL:个[gè],项[xiàng]"
+],
 [
 "容易",
 3,
@@ -13,90 +19,126 @@
 "easy; likely; liable (to)"
 ],
 [
-"内容",
-4,
-"nèi róng",
-"content; substance; details; CL:個|个[ge4],項|项[xiang4]"
-],
-[
 "形容",
-5,
+4,
 "xíng róng",
 "to describe; description; appearance; look"
 ],
 [
-"容忍",
+"好容易",
 6,
-"róng rěn",
-"to put up with; to tolerate"
-],
-[
-"容器",
-6,
-"róng qì",
-"receptacle; vessel; (computing) container"
-],
-[
-"宽容",
-6,
-"kuān róng",
-"lenient; tolerant; indulgent; charitable; to forgive"
-],
-[
-"容貌",
-6,
-"róng mào",
-"one's appearance; one's aspect; looks; features"
-],
-[
-"容纳",
-6,
-"róng nà",
-"to hold; to contain; to accommodate; to tolerate (different opinions)"
-],
-[
-"从容",
-6,
-"cóng róng",
-"to go easy; unhurried; calm; Taiwan pr. [cong1 rong2]"
-],
-[
-"阵容",
-6,
-"zhèn róng",
-"troop arrangement; battle formation; lineup (of a sports team etc)"
-],
-[
-"刻不容缓",
-6,
-"kè bù róng huǎn",
-"to brook no delay; to demand immediate action"
-]
-],
-"extraWords": [
-[
-"笑容",
-34.21,
-"xiào róng",
-"smile; smiling expression; CL:副[fu4]"
+"hǎo róng yì",
+"(idiomatic usage) with great difficulty; to have a hard time (convincing sb, relinquishing sth etc); (literal usage) so easy"
 ],
 [
 "美容",
-27.72,
+6,
 "měi róng",
 "to improve one's appearance (using cosmetics or cosmetic surgery); to make oneself more attractive; to beautify"
 ],
 [
+"笑容",
+6,
+"xiào róng",
+"smile; smiling expression; CL:副[fù]"
+],
+[
+"包容",
+7,
+"bāo róng",
+"to pardon; to forgive; to show tolerance; to contain; to hold; inclusive"
+],
+[
+"不容",
+7,
+"bù róng",
+"must not; cannot; to not allow; cannot tolerate"
+],
+[
+"从容",
+7,
+"cóng róng",
+"to go easy; unhurried; calm; Taiwan pr. [cong1 rong2]"
+],
+[
+"从容不迫",
+7,
+"cóng róng bù pò",
+"calm; unruffled"
+],
+[
+"兼容",
+7,
+"jiān róng",
+"compatible"
+],
+[
+"宽容",
+7,
+"kuān róng",
+"lenient; tolerant; indulgent; charitable; to forgive"
+],
+[
+"容光焕发",
+7,
+"róng guāng huàn fā",
+"face glowing (idiom); looking radiant; all smiles"
+],
+[
 "容量",
-26.65,
+7,
 "róng liàng",
 "capacity; volume; quantitative (science)"
 ],
 [
-"不容",
-13.23,
-"bù róng",
-"must not; cannot; to not allow; cannot tolerate"
+"容纳",
+7,
+"róng nà",
+"to hold; to contain; to accommodate; to tolerate (different opinions)"
+],
+[
+"容忍",
+7,
+"róng rěn",
+"to put up with; to tolerate"
+],
+[
+"容许",
+7,
+"róng xǔ",
+"to permit; to allow"
+],
+[
+"容颜",
+7,
+"róng yán",
+"mien; complexion"
+],
+[
+"阵容",
+7,
+"zhèn róng",
+"troop arrangement; battle formation; lineup (of a sports team etc)"
+],
+[
+"纵容",
+7,
+"zòng róng",
+"to indulge; to connive at"
+]
+],
+"extraWords": [
+[
+"容",
+36.97,
+"Róng",
+"surname Rong"
+],
+[
+"容",
+36.97,
+"róng",
+"to hold; to contain; to allow; to tolerate; appearance; look; countenance"
 ],
 [
 "好不容易",
@@ -105,22 +147,16 @@
 "with great difficulty; very difficult"
 ],
 [
-"包容",
-11.82,
-"bāo róng",
-"to pardon; to forgive; to show tolerance; to contain; to hold; inclusive"
+"容器",
+8.44,
+"róng qì",
+"receptacle; vessel; (computing) container"
 ],
 [
 "整容",
 7.39,
 "zhěng róng",
 "plastic surgery"
-],
-[
-"兼容",
-6.23,
-"jiān róng",
-"compatible"
 ],
 [
 "市容",

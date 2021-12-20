@@ -1,31 +1,61 @@
 {
 "char": "访",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "visit; ask, inquire",
 "pron": "fǎng"
 },
 "words": [
 [
+"访问",
+3,
+"fǎng wèn",
+"to visit; to call on; to interview; CL:次[cì]"
+],
+[
 "采访",
-5,
+4,
 "cǎi fǎng",
 "to interview; to gather news; to hunt for and collect; to cover"
 ],
 [
 "拜访",
-6,
+5,
 "bài fǎng",
 "to pay a visit; to call on"
 ],
 [
-"访问",
+"出访",
 6,
-"fǎng wèn",
-"to visit; to call on; to interview; CL:次[ci4]"
+"chū fǎng",
+"to go and visit in an official capacity or for investigation"
+],
+[
+"访谈",
+7,
+"fǎng tán",
+"to visit and discuss; to interview"
+],
+[
+"互访",
+7,
+"hù fǎng",
+"exchange visits"
+],
+[
+"来访",
+7,
+"lái fǎng",
+"to pay a visit"
 ]
 ],
 "extraWords": [
+[
+"访",
+40.06,
+"fǎng",
+"(bound form) to visit; to call on; to seek; to inquire; to investigate"
+],
 [
 "走访",
 13.75,
@@ -42,25 +72,13 @@
 "信访",
 10.93,
 "xìn fǎng",
-"complaint letter; petition letter; see also 上訪|上访[shang4 fang3]"
+"complaint letter; petition letter; see also 上访[shàng fǎng]"
 ],
 [
 "专访",
 10.75,
 "zhuān fǎng",
 "to interview (a particular person or on a particular topic); special interview; special report based on such an interview"
-],
-[
-"访谈",
-10.16,
-"fǎng tán",
-"to visit and discuss; to interview"
-],
-[
-"来访",
-8.51,
-"lái fǎng",
-"to pay a visit"
 ],
 [
 "上访",

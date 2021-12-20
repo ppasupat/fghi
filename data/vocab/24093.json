@@ -1,6 +1,6 @@
 {
 "char": "帝",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "supreme ruler, emperor; god",
 "pron": "dì"
@@ -10,27 +10,39 @@
 "皇帝",
 6,
 "huáng dì",
-"emperor; CL:個|个[ge4]"
-]
+"emperor; CL:个[gè]"
 ],
-"extraWords": [
 [
 "上帝",
-435.37,
+6,
 "Shàng dì",
 "God"
 ],
 [
-"帝国主义",
-20.63,
-"dì guó zhǔ yì",
-"imperialism"
-],
-[
 "帝国",
-16.43,
+7,
 "dì guó",
 "empire; imperial"
+],
+[
+"帝国主义",
+7,
+"dì guó zhǔ yì",
+"imperialism"
+]
+],
+"extraWords": [
+[
+"帝",
+47.83,
+"dì",
+"emperor"
+],
+[
+"美帝国主义",
+14.94,
+"???",
+"???"
 ],
 [
 "帝王",

@@ -1,6 +1,6 @@
 {
 "char": "副",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "assist; supplement; assistant",
 "pron": "fù"
@@ -13,8 +13,14 @@
 "secondary; auxiliary; deputy; assistant; vice-; abbr. for 副詞|副词 adverb; classifier for pairs, sets of things & facial expressions"
 ],
 [
+"副作用",
+7,
+"fù zuò yòng",
+"side effect"
+],
+[
 "名副其实",
-6,
+7,
 "míng fù qí shí",
 "not just in name only, but also in reality (idiom); aptly named; worthy of the name"
 ]
@@ -39,6 +45,12 @@
 "deputy secretary"
 ],
 [
+"副局长",
+17.3,
+"???",
+"???"
+],
+[
 "副部长",
 16.65,
 "fù bù zhǎng",
@@ -57,16 +69,22 @@
 "vice-chairman (of an organization); vice president (of a company); deputy governor (of a bank)"
 ],
 [
+"副总经理",
+13.96,
+"???",
+"???"
+],
+[
 "副总理",
 11.81,
 "fù zǒng lǐ",
 "vice-premier; vice prime minister; deputy prime minister"
 ],
 [
-"副作用",
-10.43,
-"fù zuò yòng",
-"side effect"
+"副省长",
+9.39,
+"???",
+"???"
 ],
 [
 "副院长",
@@ -79,6 +97,18 @@
 7.03,
 "fù mì shū zhǎng",
 "vice-secretary"
+],
+[
+"副总",
+6.6,
+"???",
+"???"
+],
+[
+"农副产品",
+5.41,
+"???",
+"???"
 ],
 [
 "副教授",

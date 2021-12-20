@@ -1,6 +1,6 @@
 {
 "char": "曾",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "already; sign of past",
 "pron": "céng, zēng"
@@ -8,17 +8,47 @@
 "words": [
 [
 "曾经",
-5,
+3,
 "céng jīng",
 "once; already; former; previously; ever; (past tense marker used before verb or clause)"
+],
+[
+"曾",
+4,
+"Zēng",
+"surname Zeng"
+],
+[
+"曾",
+4,
+"céng",
+"once; already; ever (in the past); former; previously; (past tense marker used before verb or clause)"
+],
+[
+"曾",
+4,
+"zēng",
+"great- (grandfather, grandchild etc)"
+],
+[
+"不曾",
+5,
+"bù céng",
+"hasn't yet; hasn't ever"
+],
+[
+"似曾相识",
+7,
+"sì céng xiāng shí",
+"déjà vu (the experience of seeing exactly the same situation a second time); seemingly familiar; apparently already acquainted"
 ]
 ],
 "extraWords": [
 [
-"不曾",
-14.3,
-"bù céng",
-"hasn't yet; hasn't ever"
+"也曾",
+15.38,
+"???",
+"???"
 ],
 [
 "未曾",

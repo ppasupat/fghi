@@ -1,6 +1,6 @@
 {
 "char": "惨",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "sad, pitiful, wretched; cruel",
 "pron": "cǎn"
@@ -11,16 +11,33 @@
 6,
 "bēi cǎn",
 "miserable; tragic"
-]
 ],
-"extraWords": [
+[
+"惨",
+6,
+"cǎn",
+"miserable; wretched; cruel; inhuman; disastrous; tragic; dim; gloomy"
+],
+[
+"惨白",
+7,
+"cǎn bái",
+"deathly pale"
+],
+[
+"惨痛",
+7,
+"cǎn tòng",
+"bitter; painful; deeply distressed"
+],
 [
 "惨重",
-5.19,
+7,
 "cǎn zhòng",
 "disastrous"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 122 569 Q 113 499 93 432 Q 81 399 106 369 Q 118 354 134 371 Q 176 425 160 522 Q 157 553 144 575 Q 137 582 132 581 Q 125 578 122 569 Z",
 "M 282 586 Q 286 582 294 577 Q 321 556 350 530 Q 362 520 373 521 Q 382 522 385 532 Q 389 544 381 567 Q 372 594 289 614 Q 285 615 283 614 C 253 612 260 606 282 586 Z",

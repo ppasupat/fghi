@@ -1,6 +1,6 @@
 {
 "char": "丁",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "male adult; robust, vigorous; 4th heavenly stem",
 "pron": "dīng"
@@ -8,15 +8,15 @@
 "words": [
 [
 "丁",
-6,
+7,
 "Dīng",
 "surname Ding"
 ],
 [
 "丁",
-6,
+7,
 "dīng",
-"fourth of the ten Heavenly Stems 十天干[shi2 tian1 gan1]; fourth in order; letter \"D\" or Roman \"IV\" in list \"A, B, C\", or \"I, II, III\" etc; ancient Chinese compass point: 195°; butyl; cubes (of food)"
+"fourth of the ten Heavenly Stems 十天干[shí tiān gān]; fourth in order; letter \"D\" or Roman \"IV\" in list \"A, B, C\", or \"I, II, III\" etc; ancient Chinese compass point: 195°; butyl; cubes (of food)"
 ]
 ],
 "extraWords": [
@@ -31,6 +31,12 @@
 11.06,
 "lā dīng",
 "Latin; (in former times) to press-gang; to kidnap and force people into service"
+],
+[
+"丁俊晖",
+8.38,
+"???",
+"???"
 ],
 [
 "布丁",

@@ -1,32 +1,31 @@
 {
 "char": "颁",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "confer, bestow; publish, promulgate",
 "pron": "bān"
 },
 "words": [
 [
+"颁布",
+7,
+"bān bù",
+"to issue; to proclaim; to enact (laws, decrees etc)"
+],
+[
 "颁发",
-6,
+7,
 "bān fā",
 "to issue; to promulgate; to award"
 ],
 [
-"颁布",
-6,
-"bān bù",
-"to issue; to proclaim; to enact (laws, decrees etc)"
-]
-],
-"extraWords": [
-[
 "颁奖",
-26.2,
+7,
 "bān jiǎng",
 "to confer an award"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 214 656 Q 223 565 115 443 Q 103 437 69 396 Q 62 381 76 385 Q 94 388 119 406 Q 197 463 240 535 Q 268 578 294 614 Q 304 627 290 641 Q 251 677 224 673 Q 212 670 214 656 Z",
 "M 326 723 Q 374 671 431 596 Q 444 577 458 572 Q 465 571 473 578 Q 486 590 477 630 Q 470 676 329 751 Q 322 755 318 745 Q 317 733 326 723 Z",

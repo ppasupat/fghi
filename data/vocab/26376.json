@@ -1,6 +1,6 @@
 {
 "char": "月",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "moon; month; KangXi radical 74",
 "pron": "yuè"
@@ -10,40 +10,88 @@
 "月",
 1,
 "yuè",
-"moon; month; monthly; CL:個|个[ge4],輪|轮[lun2]"
+"moon; month; monthly; CL:个[gè],轮[lún]"
+],
+[
+"月份",
+2,
+"yuè fèn",
+"month"
 ],
 [
 "月亮",
-3,
+2,
 "yuè liang",
 "the moon"
 ],
 [
+"上个月",
+4,
+"shàng gè yuè",
+"last month"
+],
+[
+"下个月",
+4,
+"xià gè yuè",
+"next month"
+],
+[
+"月底",
+4,
+"yuè dǐ",
+"end of the month"
+],
+[
 "岁月",
-6,
+5,
 "suì yuè",
 "years; time"
 ],
 [
+"月饼",
+5,
+"yuè bǐng",
+"mooncake (esp. for the Mid-Autumn Festival)"
+],
+[
+"月球",
+5,
+"yuè qiú",
+"the moon"
+],
+[
+"腊月",
+7,
+"Là yuè",
+"twelfth lunar month"
+],
+[
+"蜜月",
+7,
+"mì yuè",
+"honeymoon"
+],
+[
 "日新月异",
-6,
+7,
 "rì xīn yuè yì",
 "daily renewal, monthly change (idiom); every day sees new developments; rapid progress"
 ],
 [
-"正月",
-6,
-"Zhēng yuè",
-"first month of the lunar year"
+"月初",
+7,
+"yuè chū",
+"start of month; early in the month"
+],
+[
+"月票",
+7,
+"yuè piào",
+"monthly ticket"
 ]
 ],
 "extraWords": [
-[
-"月份",
-112.19,
-"yuè fèn",
-"month"
-],
 [
 "每月",
 37.12,
@@ -99,12 +147,6 @@
 "last month"
 ],
 [
-"蜜月",
-12.79,
-"mì yuè",
-"honeymoon"
-],
-[
 "九月",
 12.76,
 "Jiǔ yuè",
@@ -141,18 +183,6 @@
 "February; second month (of the lunar year)"
 ],
 [
-"月饼",
-10.39,
-"yuè bǐng",
-"mooncake (esp. for the Mid-Autumn Festival)"
-],
-[
-"月球",
-9.47,
-"yuè qiú",
-"the moon"
-],
-[
 "月光",
 8.76,
 "yuè guāng",
@@ -177,22 +207,16 @@
 "menstruation; a woman's period"
 ],
 [
-"上个月",
-7.87,
-"shàng gè yuè",
-"last month"
+"正月",
+7.89,
+"Zhēng yuè",
+"first month of the lunar year"
 ],
 [
 "明月",
 6.91,
 "míng yuè",
-"bright moon; refers to 夜明珠, a legendary pearl that can glow in the dark; CL:輪|轮[lun2]"
-],
-[
-"月底",
-5.77,
-"yuè dǐ",
-"end of the month"
+"bright moon; refers to 夜明珠, a legendary pearl that can glow in the dark; CL:轮[lún]"
 ],
 [
 "下月",

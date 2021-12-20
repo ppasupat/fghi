@@ -1,19 +1,32 @@
 {
 "char": "敷",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "spread, diffuse; apply, paint",
 "pron": "fū"
 },
 "words": [
 [
-"敷衍",
-6,
-"fū yǎn",
-"to elaborate (on a theme); to expound (the classics); perfunctory; to skimp; to botch; to do sth half-heartedly or just for show; barely enough to get by"
+"敷",
+7,
+"fū",
+"to spread; to lay out; to apply (powder, ointment etc); sufficient (to cover); enough"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"敷衍",
+3.59,
+"fū yǎn",
+"to elaborate (on a theme); to expound (the classics); perfunctory; to skimp; to botch; to do sth half-heartedly or just for show; barely enough to get by"
+],
+[
+"外敷",
+1.53,
+"wài fū",
+"to apply externally"
+]
+],
 "strokes": [
 "M 366 695 Q 394 702 427 708 Q 458 715 463 720 Q 470 727 467 734 Q 460 744 435 750 Q 402 756 369 739 L 317 724 Q 313 724 309 723 Q 266 713 215 708 Q 184 702 206 688 Q 237 672 303 683 Q 310 684 320 686 L 366 695 Z",
 "M 191 601 Q 164 617 150 619 Q 146 622 141 615 Q 138 609 143 599 Q 170 556 169 437 Q 168 416 177 399 Q 189 383 204 372 Q 217 365 219 375 Q 225 379 225 398 Q 226 411 220 457 Q 211 526 211 572 C 211 590 211 590 191 601 Z",

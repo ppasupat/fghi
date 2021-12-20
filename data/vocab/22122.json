@@ -1,24 +1,36 @@
 {
 "char": "噪",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "be noisy; chirp loudly",
 "pron": "zào"
 },
 "words": [
 [
+"噪声",
+7,
+"zào shēng",
+"noise"
+],
+[
 "噪音",
-6,
+7,
 "zào yīn",
 "rumble; noise; static (in a signal)"
 ]
 ],
 "extraWords": [
 [
-"噪声",
-8.67,
-"zào shēng",
-"noise"
+"噪",
+4.02,
+"zào",
+"the chirping of birds or insects; noise; clamor; buzzing; disturbance"
+],
+[
+"噪",
+4.02,
+"zào",
+"variant of 噪[zào]"
 ]
 ],
 "strokes": [

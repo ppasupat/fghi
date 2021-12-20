@@ -1,11 +1,29 @@
 {
 "char": "久",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "long time (ago); time passage, grow late",
 "pron": "jiǔ"
 },
 "words": [
+[
+"不久",
+2,
+"bù jiǔ",
+"not long (after); before too long; soon; soon after"
+],
+[
+"多久",
+2,
+"duō jiǔ",
+"(of time) how long?; (not) a long time"
+],
+[
+"好久",
+2,
+"hǎo jiǔ",
+"quite a while"
+],
 [
 "久",
 3,
@@ -13,60 +31,72 @@
 "(long) time; (long) duration of time"
 ],
 [
-"悠久",
-5,
-"yōu jiǔ",
-"long (tradition, history etc)"
+"长久",
+6,
+"cháng jiǔ",
+"(for a) long time"
 ],
 [
 "持久",
-6,
+7,
 "chí jiǔ",
 "lasting; enduring; persistent; permanent; protracted; endurance; persistence; to last long"
+],
+[
+"经久不息",
+7,
+"jīng jiǔ bù xī",
+"prolonged (applause, cheering etc)"
+],
+[
+"久违",
+7,
+"jiǔ wéi",
+"(haven't done sth) for a long time; a long time since we last met"
+],
+[
+"久仰",
+7,
+"jiǔ yǎng",
+"honorific: I've long looked forward to meeting you.; It's an honor to meet you at last."
+],
+[
+"前不久",
+7,
+"qián bù jiǔ",
+"not long ago; not long before"
+],
+[
+"天长地久",
+7,
+"tiān cháng dì jiǔ",
+"enduring while the world lasts (idiom); eternal"
+],
+[
+"永久",
+7,
+"yǒng jiǔ",
+"everlasting; perpetual; lasting; forever; permanent"
+],
+[
+"悠久",
+7,
+"yōu jiǔ",
+"long (tradition, history etc)"
 ]
 ],
 "extraWords": [
 [
-"多久",
-130.92,
-"duō jiǔ",
-"(of time) how long?; (not) a long time"
-],
-[
-"不久",
-45.58,
-"bù jiǔ",
-"not long (after); before too long; soon; soon after"
-],
-[
-"好久",
-36.55,
-"hǎo jiǔ",
-"quite a while"
-],
-[
-"长久",
-14.8,
-"cháng jiǔ",
-"(for a) long time"
+"很久",
+39.47,
+"???",
+"???"
 ],
 [
 "不久前",
 14.73,
 "bù jiǔ qián",
 "not long ago"
-],
-[
-"前不久",
-11.53,
-"qián bù jiǔ",
-"not long ago; not long before"
-],
-[
-"永久",
-10.13,
-"yǒng jiǔ",
-"everlasting; perpetual; lasting; forever; permanent"
 ],
 [
 "已久",
@@ -79,12 +109,6 @@
 6.97,
 "xǔ jiǔ",
 "for a long time; for ages"
-],
-[
-"久违",
-6.72,
-"jiǔ wéi",
-"(haven't done sth) for a long time; a long time since we last met"
 ],
 [
 "久久",

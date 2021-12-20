@@ -1,11 +1,29 @@
 {
 "char": "粗",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "rough, thick, course; rude",
 "pron": "cū"
 },
 "words": [
+[
+"粗",
+4,
+"cū",
+"coarse; rough; thick (for cylindrical objects); unfinished; vulgar; rude; crude"
+],
+[
+"粗",
+4,
+"cū",
+"variant of 粗[cū]"
+],
+[
+"粗",
+4,
+"cū",
+"remote; distant; variant of 粗[cū]"
+],
 [
 "粗心",
 4,
@@ -13,26 +31,37 @@
 "careless; thoughtless"
 ],
 [
+"粗暴",
+7,
+"cū bào",
+"rough; cruel"
+],
+[
 "粗糙",
-5,
+7,
 "cū cāo",
 "crude; gruff; rough; coarse"
 ],
 [
 "粗鲁",
-6,
+7,
 "cū lǔ",
 "coarse; crude (in one's manner); boorish"
-]
 ],
-"extraWords": [
 [
-"粗暴",
-5.63,
-"cū bào",
-"rough; cruel"
+"粗略",
+7,
+"cū lüè",
+"rough (not precise or accurate); cursory"
+],
+[
+"粗心大意",
+7,
+"cū xīn dà yì",
+"negligent; careless; inadvertent"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 184 574 Q 197 547 212 515 Q 219 499 234 495 Q 244 491 253 501 Q 263 513 264 543 Q 265 561 244 582 Q 193 627 177 627 Q 171 626 168 613 Q 167 601 184 574 Z",
 "M 425 618 Q 412 590 382 544 Q 378 537 383 531 Q 390 530 396 535 Q 460 586 492 606 Q 508 612 503 621 Q 496 634 478 649 Q 459 664 439 664 Q 426 663 429 645 Q 432 633 425 618 Z",

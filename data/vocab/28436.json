@@ -1,6 +1,6 @@
 {
 "char": "演",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "perform, put on; exercise",
 "pron": "yǎn"
@@ -8,39 +8,63 @@
 "words": [
 [
 "表演",
-4,
+3,
 "biǎo yǎn",
-"play; show; performance; exhibition; to perform; to act; to demonstrate; CL:場|场[chang3]"
-],
-[
-"演员",
-4,
-"yǎn yuán",
-"actor or actress; performer; CL:個|个[ge4],位[wei4],名[ming2]"
-],
-[
-"演出",
-4,
-"yǎn chū",
-"to act (in a play); to perform; to put on (a performance); performance; concert; show; CL:場|场[chang3],次[ci4]"
-],
-[
-"演讲",
-5,
-"yǎn jiǎng",
-"lecture; to make a speech"
+"play; show; performance; exhibition; to perform; to act; to demonstrate; CL:场[chǎng]"
 ],
 [
 "导演",
-5,
+3,
 "dǎo yǎn",
 "to direct; director (film etc)"
 ],
 [
+"演",
+3,
+"yǎn",
+"to develop; to evolve; to practice; to perform; to play; to act"
+],
+[
+"演唱",
+3,
+"yǎn chàng",
+"sung performance; to sing for an audience"
+],
+[
+"演唱会",
+3,
+"yǎn chàng huì",
+"vocal recital or concert"
+],
+[
+"演出",
+3,
+"yǎn chū",
+"to act (in a play); to perform; to put on (a performance); performance; concert; show; CL:场[chǎng],次[cì]"
+],
+[
+"演员",
+3,
+"yǎn yuán",
+"actor or actress; performer; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"演讲",
+4,
+"yǎn jiǎng",
+"lecture; to make a speech"
+],
+[
 "扮演",
-6,
+5,
 "bàn yǎn",
 "to play the role of; to act"
+],
+[
+"上演",
+6,
+"shàng yǎn",
+"to screen (a movie); to stage (a play); a screening; a staging"
 ],
 [
 "演奏",
@@ -49,67 +73,85 @@
 "to perform on a musical instrument"
 ],
 [
-"演绎",
-6,
-"yǎn yì",
-"(of a story etc) to unfold; to play out; to develop (a technique etc); to enact; (logic) to deduce; to infer"
-],
-[
-"演习",
-6,
-"yǎn xí",
-"maneuver; exercise; practice; to maneuver"
-],
-[
-"演变",
-6,
-"yǎn biàn",
-"to develop; to evolve; development; evolution"
-]
-],
-"extraWords": [
-[
-"演唱会",
-34.13,
-"yǎn chàng huì",
-"vocal recital or concert"
-],
-[
-"演唱",
-28.53,
-"yǎn chàng",
-"sung performance; to sing for an audience"
-],
-[
-"上演",
-24.14,
-"shàng yǎn",
-"to screen (a movie); to stage (a play); a screening; a staging"
-],
-[
-"主演",
-15.81,
-"zhǔ yǎn",
-"to act the leading role (in a movie or a play); to star; lead actor"
-],
-[
-"演戏",
-13.77,
-"yǎn xì",
-"to put on a play; to perform; fig. to pretend; to feign"
-],
-[
 "出演",
-9.96,
+7,
 "chū yǎn",
 "to appear (in a show etc); an appearance (on stage etc)"
 ],
 [
+"演变",
+7,
+"yǎn biàn",
+"to develop; to evolve; development; evolution"
+],
+[
+"演播室",
+7,
+"yǎn bō shì",
+"broadcasting studio"
+],
+[
+"演技",
+7,
+"yǎn jì",
+"acting; performing skills"
+],
+[
 "演练",
-9.43,
+7,
 "yǎn liàn",
 "to do a drill; to practice; training; drill"
 ],
+[
+"演示",
+7,
+"yǎn shì",
+"to demonstrate; to show; presentation; demonstration"
+],
+[
+"演说",
+7,
+"yǎn shuō",
+"speech; to deliver a speech"
+],
+[
+"演习",
+7,
+"yǎn xí",
+"maneuver; exercise; practice; to maneuver"
+],
+[
+"演戏",
+7,
+"yǎn xì",
+"to put on a play; to perform; fig. to pretend; to feign"
+],
+[
+"演艺圈",
+7,
+"yǎn yì quān",
+"show business"
+],
+[
+"演绎",
+7,
+"yǎn yì",
+"(of a story etc) to unfold; to play out; to develop (a technique etc); to enact; (logic) to deduce; to infer"
+],
+[
+"愈演愈烈",
+7,
+"yù yǎn yù liè",
+"ever more critical; problems get more and more intense"
+],
+[
+"主演",
+7,
+"zhǔ yǎn",
+"to act the leading role (in a movie or a play); to star; lead actor"
+]
+],
+"extraWords": [
 [
 "饰演",
 9.17,
@@ -123,40 +165,22 @@
 "performing arts"
 ],
 [
-"演示",
-8.47,
-"yǎn shì",
-"to demonstrate; to show; presentation; demonstration"
-],
-[
-"演技",
-7.77,
-"yǎn jì",
-"acting; performing skills"
-],
-[
-"演说",
-7.66,
-"yǎn shuō",
-"speech; to deliver a speech"
-],
-[
-"演播室",
-6.71,
-"yǎn bō shì",
-"broadcasting studio"
-],
-[
 "巡演",
 6.23,
 "xún yǎn",
-"(theater etc) to tour; to be on tour; to give itinerant performances; abbr. for 巡迴演出|巡回演出[xun2 hui2 yan3 chu1]"
+"(theater etc) to tour; to be on tour; to give itinerant performances; abbr. for 巡回演出[xún huí yǎn chū]"
 ],
 [
 "重演",
 5.78,
 "chóng yǎn",
 "to recur (of events, esp. adverse ones); to repeat (a performance)"
+],
+[
+"表演者",
+5.31,
+"???",
+"???"
 ],
 [
 "试演",

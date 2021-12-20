@@ -1,37 +1,73 @@
 {
 "char": "警",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "guard, watch; alert, alarm",
 "pron": "jǐng"
 },
 "words": [
 [
-"警察",
-4,
-"jǐng chá",
-"police; police officer; CL:個|个[ge4]"
+"交警",
+3,
+"jiāo jǐng",
+"traffic police; abbr. for 交通警察"
 ],
 [
-"警告",
-6,
-"jǐng gào",
-"to warn; to admonish"
+"警察",
+3,
+"jǐng chá",
+"police; police officer; CL:个[gè]"
 ],
 [
 "报警",
-6,
+5,
 "bào jǐng",
 "to sound an alarm; to report sth to the police"
 ],
 [
-"警惕",
+"警告",
+5,
+"jǐng gào",
+"to warn; to admonish"
+],
+[
+"民警",
 6,
+"mín jǐng",
+"civil police; PRC police; abbr. for 人民警察"
+],
+[
+"警车",
+7,
+"jǐng chē",
+"police car"
+],
+[
+"警官",
+7,
+"jǐng guān",
+"constable; police officer"
+],
+[
+"警惕",
+7,
 "jǐng tì",
 "to be on the alert; vigilant; alert; on guard; to warn"
+],
+[
+"警钟",
+7,
+"jǐng zhōng",
+"alarm bell"
 ]
 ],
 "extraWords": [
+[
+"警",
+126.48,
+"jǐng",
+"to alert; to warn; police"
+],
 [
 "警方",
 101.9,
@@ -39,22 +75,10 @@
 "police"
 ],
 [
-"警官",
-88.77,
-"jǐng guān",
-"constable; police officer"
-],
-[
-"民警",
-72.7,
-"mín jǐng",
-"civil police; PRC police; abbr. for 人民警察"
-],
-[
-"交警",
-36.23,
-"jiāo jǐng",
-"traffic police; abbr. for 交通警察"
+"警长",
+39.02,
+"???",
+"???"
 ],
 [
 "警报",
@@ -75,6 +99,12 @@
 "to stand guard over; (security) guard"
 ],
 [
+"警员",
+14.46,
+"???",
+"???"
+],
+[
 "武警",
 13.53,
 "wǔ jǐng",
@@ -85,12 +115,6 @@
 13.44,
 "yù jǐng",
 "warning; early warning"
-],
-[
-"警车",
-10.05,
-"jǐng chē",
-"police car"
 ],
 [
 "警示",
@@ -114,13 +138,13 @@
 "刑警",
 7.57,
 "xíng jǐng",
-"abbr. for 刑事警察[xing2 shi4 jing3 cha2]; criminal police"
+"abbr. for 刑事警察[xíng shì jǐng chá]; criminal police"
 ],
 [
 "特警",
 7.45,
 "tè jǐng",
-"SWAT (Special Weapons And Tactics); riot police; abbr. for 特種警察|特种警察[te4 zhong3 jing3 cha2]"
+"SWAT (Special Weapons And Tactics); riot police; abbr. for 特种警察[tè zhǒng jǐng chá]"
 ],
 [
 "巡警",
@@ -135,10 +159,28 @@
 "police force; police officers"
 ],
 [
+"警监",
+6.68,
+"???",
+"???"
+],
+[
+"警卫队",
+6.26,
+"???",
+"???"
+],
+[
 "干警",
 6.21,
 "gàn jǐng",
 "police; police cadres"
+],
+[
+"狱警",
+5.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

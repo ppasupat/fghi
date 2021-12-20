@@ -1,6 +1,6 @@
 {
 "char": "其",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "his, her, its, their; that",
 "pron": "qí"
@@ -8,9 +8,21 @@
 "words": [
 [
 "其他",
-3,
+2,
 "qí tā",
 "other; (sth or sb) else; the rest"
+],
+[
+"其中",
+2,
+"qí zhōng",
+"among; in; included among these"
+],
+[
+"其次",
+3,
+"qí cì",
+"next; secondly"
 ],
 [
 "其实",
@@ -19,52 +31,88 @@
 "actually; in fact; really"
 ],
 [
-"其中",
-4,
-"qí zhōng",
-"among; in; included among these"
-],
-[
-"尤其",
-4,
-"yóu qí",
-"especially; particularly"
-],
-[
-"其次",
-4,
-"qí cì",
-"next; secondly"
-],
-[
 "极其",
-5,
+4,
 "jí qí",
 "extremely"
 ],
 [
 "其余",
-5,
+4,
 "qí yú",
 "the rest; the others; remaining; remainder; apart from them"
 ],
 [
-"与其",
+"其",
 5,
-"yǔ qí",
-"rather than...; 與其|与其[yu3 qi2] A 不如[bu4 ru2] B (rather than A, better to B)"
+"qí",
+"his; her; its; their; that; such; it (refers to sth preceding it)"
+],
+[
+"尤其",
+5,
+"yóu qí",
+"especially; particularly"
+],
+[
+"及其",
+7,
+"jí qí",
+"(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ..."
+],
+[
+"夸夸其谈",
+7,
+"kuā kuā qí tán",
+"to talk big; to sound off; bombastic; grandiloquent"
+],
+[
+"名副其实",
+7,
+"míng fù qí shí",
+"not just in name only, but also in reality (idiom); aptly named; worthy of the name"
 ],
 [
 "莫名其妙",
-6,
+7,
 "mò míng qí miào",
 "(idiom) baffling; inexplicable"
 ],
 [
-"名副其实",
-6,
-"míng fù qí shí",
-"not just in name only, but also in reality (idiom); aptly named; worthy of the name"
+"其后",
+7,
+"qí hòu",
+"next; later; after that"
+],
+[
+"其间",
+7,
+"qí jiān",
+"in between; within that interval; in the meantime"
+],
+[
+"恰如其分",
+7,
+"qià rú qí fèn",
+"(idiom) appropriate; apt; just right"
+],
+[
+"顺其自然",
+7,
+"shùn qí zì rán",
+"to let nature take its course (idiom)"
+],
+[
+"突如其来",
+7,
+"tū rú qí lái",
+"to arise abruptly; to arrive suddenly; happening suddenly"
+],
+[
+"与其",
+7,
+"yǔ qí",
+"rather than...; 与其[yǔ qí] A 不如[bù rú] B (rather than A, better to B)"
 ]
 ],
 "extraWords": [
@@ -75,34 +123,22 @@
 "especially; most of all; above all; in particular"
 ],
 [
-"及其",
-84.0,
-"jí qí",
-"(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ..."
-],
-[
 "其它",
 78.06,
 "qí tā",
 "other; the others; else; other than it; in addition to the thing mentioned above"
 ],
 [
-"其后",
-13.33,
-"qí hòu",
-"next; later; after that"
+"其他人",
+20.18,
+"???",
+"???"
 ],
 [
 "土耳其",
 12.58,
 "Tǔ ěr qí",
 "Turkey"
-],
-[
-"其间",
-11.91,
-"qí jiān",
-"in between; within that interval; in the meantime"
 ],
 [
 "其一",
@@ -115,12 +151,6 @@
 8.36,
 "qí èr",
 "secondly; the other (usu. of two); the second"
-],
-[
-"顺其自然",
-5.37,
-"shùn qí zì rán",
-"to let nature take its course (idiom)"
 ]
 ],
 "strokes": [

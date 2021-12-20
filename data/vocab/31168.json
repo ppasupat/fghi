@@ -1,6 +1,6 @@
 {
 "char": "秀",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "ear of grain; flowering, luxuriant; refined, elegant, graceful",
 "pron": "xiù"
@@ -11,9 +11,34 @@
 4,
 "yōu xiù",
 "outstanding; excellent"
+],
+[
+"秀丽",
+7,
+"xiù lì",
+"pretty; beautiful"
+],
+[
+"秀美",
+7,
+"xiù měi",
+"elegant; graceful"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"秀",
+71.24,
+"xiù",
+"handsome; refined; elegant; graceful; superior; show (loanword); CL:场[cháng]; (literary) to grow; to bloom; (of crops) to produce ears"
+],
+[
+"新秀",
+5.53,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 510 731 Q 565 752 631 758 Q 647 757 652 763 Q 656 773 647 785 Q 593 833 563 834 Q 556 831 553 821 Q 547 785 315 711 Q 308 710 302 707 Q 296 700 301 696 Q 316 692 424 713 Q 443 717 461 719 L 510 731 Z",
 "M 537 602 Q 619 612 731 613 Q 792 610 800 622 Q 804 632 788 646 Q 731 686 683 670 Q 623 658 534 641 L 478 632 Q 354 614 208 594 Q 187 591 203 575 Q 216 562 234 557 Q 255 553 270 557 Q 352 581 447 592 L 537 602 Z",

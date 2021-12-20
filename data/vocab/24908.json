@@ -1,32 +1,61 @@
 {
 "char": "慌",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "nervous, panicky, frantic",
 "pron": "huāng"
 },
 "words": [
 [
-"慌张",
+"慌",
 5,
+"huāng",
+"to get panicky; to lose one's head; (coll.) (after 得) unbearably; terribly"
+],
+[
+"慌忙",
+5,
+"huāng máng",
+"in a great rush; in a flurry"
+],
+[
+"慌乱",
+7,
+"huāng luàn",
+"frenetic; hurried"
+],
+[
+"慌张",
+7,
 "huāng zhāng",
 "flustered; agitated"
-]
 ],
-"extraWords": [
+[
+"惊慌",
+7,
+"jīng huāng",
+"to panic; to be alarmed"
+],
+[
+"惊慌失措",
+7,
+"jīng huāng shī cuò",
+"to lose one's head out of fear (idiom)"
+],
 [
 "恐慌",
-11.0,
+7,
 "kǒng huāng",
 "panic; panicky; panic-stricken"
 ],
 [
-"惊慌",
-7.15,
-"jīng huāng",
-"to panic; to be alarmed"
+"心慌",
+7,
+"xīn huāng",
+"to be flustered; (dialect) irregular heart-beat"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 112 507 Q 97 435 70 369 Q 57 333 79 303 Q 89 287 108 302 Q 156 356 147 454 Q 147 488 136 511 Q 129 518 123 519 Q 116 516 112 507 Z",
 "M 262 577 Q 268 573 277 567 Q 340 524 350 524 Q 359 525 361 536 Q 364 548 354 570 Q 348 586 322 594 Q 265 607 262 604 C 232 600 237 594 262 577 Z",

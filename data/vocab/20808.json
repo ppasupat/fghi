@@ -1,102 +1,132 @@
 {
 "char": "先",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "first, former, previous",
 "pron": "xiān"
 },
 "words": [
 [
-"先生",
-1,
-"xiān sheng",
-"teacher; husband; doctor (dialect); CL:位[wei4]; Mister (Mr.)"
-],
-[
 "先",
-3,
+1,
 "xiān",
 "early; prior; former; in advance; first"
 ],
 [
-"首先",
-4,
-"shǒu xiān",
-"first (of all); in the first place"
-],
-[
-"事先",
-5,
-"shì xiān",
-"in advance; before the event; beforehand; prior"
+"先生",
+1,
+"xiān sheng",
+"teacher; husband; doctor (dialect); CL:位[wèi]; Mister (Mr.)"
 ],
 [
 "领先",
-6,
+3,
 "lǐng xiān",
 "to lead; to be in front"
 ],
 [
+"首先",
+3,
+"shǒu xiān",
+"first (of all); in the first place"
+],
+[
 "先进",
-6,
+3,
 "xiān jìn",
 "advanced (technology); to advance"
 ],
 [
-"优先",
-6,
-"yōu xiān",
-"to have priority; to take precedence"
+"事先",
+4,
+"shì xiān",
+"in advance; before the event; beforehand; prior"
 ],
 [
-"祖先",
-6,
-"zǔ xiān",
-"ancestor; forebears"
+"率先",
+4,
+"shuài xiān",
+"to take the lead; to show initiative"
+],
+[
+"先后",
+5,
+"xiān hòu",
+"early or late; priority; in succession; one after another"
 ],
 [
 "先前",
-6,
+5,
 "xiān qián",
 "before; previously"
 ],
 [
+"优先",
+5,
+"yōu xiān",
+"to have priority; to take precedence"
+],
+[
 "原先",
-6,
+5,
 "yuán xiān",
 "originally; original; former"
 ],
 [
-"预先",
+"先锋",
 6,
+"xiān fēng",
+"vanguard; pioneer; avant-garde"
+],
+[
+"先例",
+7,
+"xiān lì",
+"antecedent; precedent"
+],
+[
+"先天",
+7,
+"xiān tiān",
+"inborn; innate; natural"
+],
+[
+"预先",
+7,
 "yù xiān",
 "beforehand; in advance"
 ],
 [
 "争先恐后",
-6,
+7,
 "zhēng xiān kǒng hòu",
 "striving to be first and fearing to be last (idiom); outdoing one another"
+],
+[
+"祖先",
+7,
+"zǔ xiān",
+"ancestor; forebears"
 ]
 ],
 "extraWords": [
 [
-"先后",
-75.47,
-"xiān hòu",
-"early or late; priority; in succession; one after another"
+"先进性",
+17.37,
+"???",
+"???"
 ],
 [
-"率先",
-31.33,
-"shuài xiān",
-"to take the lead; to show initiative"
+"先是",
+16.6,
+"???",
+"???"
 ],
 [
-"先锋",
-13.58,
-"xiān fēng",
-"vanguard; pioneer; avant-garde"
+"王先生",
+13.38,
+"???",
+"???"
 ],
 [
 "先行",
@@ -105,10 +135,28 @@
 "to precede others; in advance"
 ],
 [
+"张先生",
+11.34,
+"???",
+"???"
+],
+[
+"李先生",
+10.62,
+"???",
+"???"
+],
+[
 "先知",
 10.28,
 "xiān zhī",
 "prophet"
+],
+[
+"陈先生",
+8.36,
+"???",
+"???"
 ],
 [
 "最先",
@@ -117,10 +165,10 @@
 "(the) very first"
 ],
 [
-"先天",
-6.86,
-"xiān tiān",
-"inborn; innate; natural"
+"刘先生",
+7.43,
+"???",
+"???"
 ],
 [
 "抢先",

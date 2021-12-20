@@ -1,79 +1,121 @@
 {
 "char": "势",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "power, force; tendency",
 "pron": "shì"
 },
 "words": [
 [
-"姿势",
-5,
-"zī shì",
-"posture; position"
-],
-[
 "优势",
-5,
+3,
 "yōu shì",
 "superiority; dominance; advantage"
 ],
 [
-"形势",
-5,
-"xíng shì",
-"circumstances; situation; terrain; CL:個|个[ge4]"
-],
-[
 "趋势",
-5,
+4,
 "qū shì",
 "trend; tendency"
 ],
 [
-"局势",
-6,
-"jú shì",
-"situation; state (of affairs)"
+"形势",
+4,
+"xíng shì",
+"circumstances; situation; terrain; CL:个[gè]"
 ],
 [
 "势力",
-6,
+5,
 "shì li",
 "power; influence; a force (military, political etc)"
 ],
 [
-"手势",
+"强势",
 6,
-"shǒu shì",
-"gesture; sign; signal"
+"qiáng shì",
+"strong; powerful; (linguistics) emphatic; intensive"
+],
+[
+"架势",
+7,
+"jià shi",
+"attitude; position (on an issue etc)"
+],
+[
+"局势",
+7,
+"jú shì",
+"situation; state (of affairs)"
+],
+[
+"劣势",
+7,
+"liè shì",
+"inferior; disadvantaged"
 ],
 [
 "气势",
-6,
+7,
 "qì shì",
 "imposing manner; loftiness; grandeur; energetic looks; vigor"
 ],
 [
-"地势",
-6,
-"dì shì",
-"terrain; topography relief"
+"弱势",
+7,
+"ruò shì",
+"vulnerable; weak"
+],
+[
+"伤势",
+7,
+"shāng shì",
+"condition of an injury"
 ],
 [
 "势必",
-6,
+7,
 "shì bì",
 "to be bound to; undoubtedly will"
 ],
 [
-"声势",
-6,
-"shēng shì",
-"fame and power; prestige; influence; impetus; momentum"
+"势不可当",
+7,
+"shì bù kě dāng",
+"impossible to resist (idiom); an irresistible force"
+],
+[
+"势头",
+7,
+"shì tóu",
+"power; momentum; tendency; impetus; situation; the look of things"
+],
+[
+"手势",
+7,
+"shǒu shì",
+"gesture; sign; signal"
+],
+[
+"顺势",
+7,
+"shùn shì",
+"to take advantage; to seize an opportunity; in passing; without taking extra trouble; conveniently"
+],
+[
+"姿势",
+7,
+"zī shì",
+"posture; position"
 ]
 ],
 "extraWords": [
+[
+"势",
+87.02,
+"shì",
+"power; influence; potential; momentum; tendency; trend; situation; conditions; outward appearance; sign; gesture; male genitals"
+],
 [
 "走势",
 51.76,
@@ -87,34 +129,10 @@
 "posture; situation"
 ],
 [
-"势头",
-23.0,
-"shì tóu",
-"power; momentum; tendency; impetus; situation; the look of things"
-],
-[
 "攻势",
 11.19,
 "gōng shì",
 "(military) offensive"
-],
-[
-"伤势",
-10.82,
-"shāng shì",
-"condition of an injury"
-],
-[
-"劣势",
-6.48,
-"liè shì",
-"inferior; disadvantaged"
-],
-[
-"强势",
-6.2,
-"qiáng shì",
-"strong; powerful; (linguistics) emphatic; intensive"
 ]
 ],
 "strokes": [

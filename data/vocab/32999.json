@@ -1,17 +1,30 @@
 {
 "char": "胧",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "condition or appearance of moon",
 "pron": "lóng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "朦胧",
-6.04,
+7,
 "méng lóng",
 "hazy"
+]
+],
+"extraWords": [
+[
+"胧",
+2.49,
+"lóng",
+"rising moon"
+],
+[
+"朦朦胧胧",
+0.55,
+"???",
+"???"
 ]
 ],
 "strokes": [

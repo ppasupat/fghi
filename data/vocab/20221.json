@@ -1,6 +1,6 @@
 {
 "char": "份",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "portion, part; duty",
 "pron": "fèn"
@@ -8,53 +8,59 @@
 "words": [
 [
 "份",
-4,
+2,
 "fèn",
-"classifier for gifts, newspaper, magazine, papers, reports, contracts etc; variant of 分[fen4]"
+"classifier for gifts, newspaper, magazine, papers, reports, contracts etc; variant of 分[fèn]"
 ],
-[
-"身份",
-5,
-"shēn fèn",
-"identity; aspect of one's identity (i.e. sth that one is – mayor, father, permanent resident etc); role; capacity (as in \"in his capacity as a ...\" 以…的身份[yi3 xx5 de5 shen1 fen4]); status (social, legal etc); position; rank"
-],
-[
-"股份",
-6,
-"gǔ fèn",
-"a share (in a company); stock"
-],
-[
-"备份",
-6,
-"bèi fèn",
-"backup"
-]
-],
-"extraWords": [
 [
 "月份",
-112.19,
+2,
 "yuè fèn",
 "month"
 ],
 [
+"身份证",
+3,
+"shēn fèn zhèng",
+"identity card; ID"
+],
+[
+"身份",
+4,
+"shēn fèn",
+"identity; aspect of one's identity (i.e. sth that one is – mayor, father, permanent resident etc); role; capacity (as in \"in his capacity as a ...\" 以…的身份[yǐ xx5 de shēn fèn]); status (social, legal etc); position; rank"
+],
+[
 "份额",
-43.92,
+7,
 "fèn é",
 "share; portion"
 ],
 [
-"身份证",
-27.7,
-"shēn fèn zhèng",
-"identity card; ID"
+"股份",
+7,
+"gǔ fèn",
+"a share (in a company); stock"
+]
+],
+"extraWords": [
+[
+"一份",
+98.16,
+"???",
+"???"
 ],
 [
 "股份有限公司",
 26.88,
 "gǔ fèn yǒu xiàn gōng sī",
 "joint-stock limited company; corporation"
+],
+[
+"股份制",
+11.3,
+"???",
+"???"
 ],
 [
 "省份",
@@ -66,7 +72,7 @@
 "份子",
 9.45,
 "fèn zǐ",
-"variant of 分子[fen4 zi3] (used in Taiwan but not in mainland China)"
+"variant of 分子[fèn zǐ] (used in Taiwan but not in mainland China)"
 ],
 [
 "份子",

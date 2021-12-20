@@ -1,6 +1,6 @@
 {
 "char": "酸",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "tart, sour; acid; stiff; spoiled",
 "pron": "suān"
@@ -11,21 +11,33 @@
 4,
 "suān",
 "sour; tart; sick at heart; grieved; sore; aching; pedantic; impractical; to make sarcastic remarks about sb; an acid"
-]
 ],
-"extraWords": [
 [
 "酸奶",
-13.64,
+4,
 "suān nǎi",
 "yogurt"
 ],
 [
+"酸甜苦辣",
+5,
+"suān tián kǔ là",
+"sour, sweet, bitter and spicy hot; fig. the joys and sorrows of life"
+],
+[
 "心酸",
-9.51,
+7,
 "xīn suān",
 "to feel sad"
 ],
+[
+"辛酸",
+7,
+"xīn suān",
+"pungent (taste); bitter; fig. sad; miserable"
+]
+],
+"extraWords": [
 [
 "氨基酸",
 7.27,

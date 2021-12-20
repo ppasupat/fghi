@@ -1,22 +1,28 @@
 {
 "char": "守",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "defend, protect, guard, conserve",
 "pron": "shǒu"
 },
 "words": [
 [
+"保守",
+4,
+"bǎo shǒu",
+"conservative; to guard; to keep"
+],
+[
+"守",
+4,
+"shǒu",
+"to guard; to defend; to keep watch; to abide by the law; to observe (rules or ritual); nearby; adjoining"
+],
+[
 "遵守",
 5,
 "zūn shǒu",
 "to comply with; to abide by; to respect (an agreement)"
-],
-[
-"保守",
-6,
-"bǎo shǒu",
-"conservative; to guard; to keep"
 ],
 [
 "防守",
@@ -25,10 +31,28 @@
 "to defend; to protect (against)"
 ],
 [
+"坚守",
+7,
+"jiān shǒu",
+"to hold fast to; to stick to"
+],
+[
+"守候",
+7,
+"shǒu hòu",
+"to wait for; to expect; to keep watch; to watch over; to nurse"
+],
+[
 "守护",
-6,
+7,
 "shǒu hù",
 "to guard; to protect"
+],
+[
+"守株待兔",
+7,
+"shǒu zhū dài tù",
+"lit. to guard a tree-stump, waiting for rabbits (idiom); to wait idly for opportunities; to trust to chance rather than show initiative"
 ]
 ],
 "extraWords": [
@@ -45,22 +69,16 @@
 "to guard; to watch over"
 ],
 [
-"坚守",
-9.01,
-"jiān shǒu",
-"to hold fast to; to stick to"
-],
-[
-"守候",
-8.87,
-"shǒu hòu",
-"to wait for; to expect; to keep watch; to watch over; to nurse"
-],
-[
 "留守",
 5.71,
 "liú shǒu",
 "to stay behind to take care of things"
+],
+[
+"守在",
+5.35,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "赢",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "win; surplus, gain, profit",
 "pron": "yíng"
@@ -8,24 +8,30 @@
 "words": [
 [
 "赢",
-4,
+3,
 "yíng",
 "to beat; to win; to profit"
-]
 ],
-"extraWords": [
 [
 "赢得",
-76.16,
+4,
 "yíng dé",
 "to win; to gain"
 ],
 [
+"双赢",
+7,
+"shuāng yíng",
+"profitable to both sides; a win-win situation"
+],
+[
 "赢家",
-6.98,
+7,
 "yíng jiā",
 "winner"
+]
 ],
+"extraWords": [
 [
 "赢利",
 6.84,

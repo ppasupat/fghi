@@ -1,6 +1,6 @@
 {
 "char": "泼",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "pour, splash, water, sprinkle",
 "pron": "pō"
@@ -8,15 +8,21 @@
 "words": [
 [
 "活泼",
-4,
+5,
 "huó po",
 "lively; vivacious; brisk; active; (chemistry) reactive"
 ],
 [
 "泼",
-6,
+5,
 "pō",
 "to splash; to spill; rough and coarse; brutish"
+],
+[
+"泼冷水",
+7,
+"pō lěng shuǐ",
+"lit. to pour cold water on; fig. to dampen one's enthusiasm"
 ]
 ],
 "extraWords": [],

@@ -1,60 +1,78 @@
 {
 "char": "构",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "frame, building, structure",
 "pron": "gòu"
 },
 "words": [
 [
-"结构",
-5,
-"jié gòu",
-"structure; composition; makeup; architecture; CL:座[zuo4],個|个[ge4]"
-],
-[
 "构成",
-5,
+4,
 "gòu chéng",
 "to constitute; to form; to compose; to make up; to configure (computing)"
 ],
 [
-"机构",
-6,
-"jī gòu",
-"mechanism; structure; organization; agency; institution; CL:所[suo3]"
+"构造",
+4,
+"gòu zào",
+"structure; composition; tectonic (geology); CL:个[gè]"
 ],
 [
-"构思",
-6,
-"gòu sī",
-"to design; to plot; to plan out; to compose; to draw a mental sketch; conception; plan; idea; composition"
-]
+"机构",
+4,
+"jī gòu",
+"mechanism; structure; organization; agency; institution; CL:所[suǒ]"
 ],
-"extraWords": [
+[
+"结构",
+4,
+"jié gòu",
+"structure; composition; makeup; architecture; CL:座[zuò],个[gè]"
+],
 [
 "构建",
-33.82,
+6,
 "gòu jiàn",
 "to construct (sth abstract)"
 ],
 [
-"构造",
-12.22,
-"gòu zào",
-"structure; composition; tectonic (geology); CL:個|个[ge4]"
+"构思",
+7,
+"gòu sī",
+"to design; to plot; to plan out; to compose; to draw a mental sketch; conception; plan; idea; composition"
+],
+[
+"构想",
+7,
+"gòu xiǎng",
+"to conceive; concept"
+],
+[
+"虚构",
+7,
+"xū gòu",
+"to make up; fabrication; fictional; imaginary"
+]
+],
+"extraWords": [
+[
+"构",
+11.67,
+"gòu",
+"variant of 构[gòu]; (Tw) (coll.) variant of 够[gòu]; to reach by stretching"
+],
+[
+"构",
+11.67,
+"gòu",
+"to construct; to form; to make up; to compose; literary composition; paper mulberry (Broussonetia papyrifera)"
 ],
 [
 "架构",
 10.35,
 "jià gòu",
 "to construct; to build; infrastructure; architecture; framework"
-],
-[
-"虚构",
-10.08,
-"xū gòu",
-"to make up; fabrication; fictional; imaginary"
 ],
 [
 "构筑",
@@ -67,12 +85,6 @@
 6.52,
 "jié gòu xìng",
 "structural; structured"
-],
-[
-"构想",
-5.56,
-"gòu xiǎng",
-"to conceive; concept"
 ]
 ],
 "strokes": [

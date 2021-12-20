@@ -1,24 +1,30 @@
 {
 "char": "迄",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "extend, reach; until; till",
 "pron": "qì"
 },
 "words": [
 [
+"迄今",
+7,
+"qì jīn",
+"so far; to date; until now"
+],
+[
 "迄今为止",
-6,
+7,
 "qì jīn wéi zhǐ",
 "so far; up to now; still (not)"
 ]
 ],
 "extraWords": [
 [
-"迄今",
-16.95,
-"qì jīn",
-"so far; to date; until now"
+"迄",
+0.64,
+"qì",
+"as yet; until"
 ]
 ],
 "strokes": [

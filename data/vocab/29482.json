@@ -1,6 +1,6 @@
 {
 "char": "猪",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "pig, hog, wild boar",
 "pron": "zhū"
@@ -8,9 +8,9 @@
 "words": [
 [
 "猪",
-5,
+3,
 "zhū",
-"hog; pig; swine; CL:口[kou3],頭|头[tou2]"
+"hog; pig; swine; CL:口[kǒu],头[tóu]"
 ]
 ],
 "extraWords": [
@@ -25,6 +25,30 @@
 7.06,
 "zhū tóu",
 "pig head; (coll.) fool; jerk"
+],
+[
+"生猪",
+6.89,
+"???",
+"???"
+],
+[
+"养猪",
+6.39,
+"???",
+"???"
+],
+[
+"小猪",
+6.02,
+"???",
+"???"
+],
+[
+"母猪",
+5.28,
+"???",
+"???"
 ]
 ],
 "strokes": [

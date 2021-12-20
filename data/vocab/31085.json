@@ -1,11 +1,36 @@
 {
 "char": "祭",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "sacrifice to, worship",
 "pron": "jì, zhài"
 },
-"words": [],
+"words": [
+[
+"祭",
+7,
+"Zhài",
+"surname Zhai"
+],
+[
+"祭",
+7,
+"jì",
+"to offer a sacrifice to (gods or ancestors); memorial ceremony; (in classical novels) to recite an incantation to activate a magic weapon; (lit. and fig.) to wield"
+],
+[
+"祭奠",
+7,
+"jì diàn",
+"to offer sacrifices (to one's ancestors); to hold or attend a memorial service"
+],
+[
+"祭祀",
+7,
+"jì sì",
+"to offer sacrifices to the gods or ancestors"
+]
+],
 "extraWords": [],
 "strokes": [
 "M 257 643 Q 287 673 311 704 L 323 722 Q 332 741 378 808 Q 388 821 374 835 Q 337 866 309 863 Q 299 860 300 847 Q 312 757 214 645 Q 205 642 173 600 Q 166 585 180 590 Q 192 591 246 633 L 257 643 Z",

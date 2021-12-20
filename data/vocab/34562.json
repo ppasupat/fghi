@@ -1,24 +1,42 @@
 {
 "char": "蜂",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "bee, wasp, hornet",
 "pron": "fēng"
 },
 "words": [
 [
+"蜂蜜",
+7,
+"fēng mì",
+"honey"
+],
+[
 "蜜蜂",
-5,
+7,
 "mì fēng",
-"bee; honeybee; CL:隻|只[zhi1],群[qun2]"
+"bee; honeybee; CL:只[zhī],群[qún]"
 ]
 ],
 "extraWords": [
 [
-"蜂蜜",
-16.58,
-"fēng mì",
-"honey"
+"蜂",
+10.87,
+"fēng",
+"variant of 蜂[fēng]"
+],
+[
+"蜂",
+10.87,
+"fēng",
+"bee; wasp"
+],
+[
+"蜂",
+10.87,
+"fēng",
+"old variant of 蜂[fēng]"
 ]
 ],
 "strokes": [

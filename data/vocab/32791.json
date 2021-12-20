@@ -1,6 +1,6 @@
 {
 "char": "耗",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "consume, use up; waste, squander",
 "pron": "hào"
@@ -13,19 +13,31 @@
 "to use up; to consume"
 ],
 [
+"耗",
+7,
+"hào",
+"to waste; to spend; to consume; to squander; news; (coll.) to delay; to dilly-dally"
+],
+[
 "耗费",
-6,
+7,
 "hào fèi",
 "to waste; to spend; to consume; to squander"
+],
+[
+"耗时",
+7,
+"hào shí",
+"time-consuming; to take a period of (x amount of time)"
+],
+[
+"能耗",
+7,
+"néng hào",
+"energy consumption"
 ]
 ],
 "extraWords": [
-[
-"能耗",
-7.53,
-"néng hào",
-"energy consumption"
-],
 [
 "耗子",
 5.99,

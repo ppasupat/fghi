@@ -1,6 +1,6 @@
 {
 "char": "惜",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "pity, regret, rue, begrudge",
 "pron": "xī"
@@ -8,7 +8,7 @@
 "words": [
 [
 "可惜",
-4,
+5,
 "kě xī",
 "it is a pity; what a pity; unfortunately"
 ],
@@ -20,24 +20,37 @@
 ],
 [
 "爱惜",
-5,
+7,
 "ài xī",
 "to cherish; to treasure; to use sparingly"
 ],
 [
 "不惜",
-6,
+7,
 "bù xī",
 "not stint; not spare; not hesitate (to do sth); not scruple (to do sth)"
 ],
 [
+"怜惜",
+7,
+"lián xī",
+"to take pity on; to feel tenderness toward"
+],
+[
 "惋惜",
-6,
+7,
 "wǎn xī",
 "to regret; to feel that it is a great pity; to feel sorry for sb"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"惜",
+10.06,
+"xī",
+"to cherish; to begrudge; to pity; Taiwan pr. [xi2]"
+]
+],
 "strokes": [
 "M 150 518 Q 138 451 116 389 Q 103 355 127 326 Q 137 310 155 327 Q 171 346 179 379 Q 192 428 185 470 Q 184 501 172 523 Q 165 530 160 530 Q 153 527 150 518 Z",
 "M 310 576 Q 317 569 338 557 Q 360 542 387 524 Q 400 515 414 518 Q 423 519 425 532 Q 426 545 415 569 Q 408 584 381 591 Q 321 601 311 595 C 295 589 295 589 310 576 Z",

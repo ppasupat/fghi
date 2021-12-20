@@ -1,19 +1,32 @@
 {
 "char": "仁",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "humaneness, benevolence, kindness",
 "pron": "rén"
 },
 "words": [
 [
+"见仁见智",
+7,
+"jiàn rén jiàn zhì",
+"opinions differ (idiom)"
+],
+[
 "仁慈",
-6,
+7,
 "rén cí",
 "benevolent; charitable; kind; kindly; kindness; merciful"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"仁",
+31.87,
+"rén",
+"humane; kernel"
+]
+],
 "strokes": [
 "M 255 508 Q 303 569 356 651 Q 387 706 415 731 Q 425 743 421 759 Q 417 774 385 800 Q 354 821 333 821 Q 312 820 321 794 Q 336 758 322 728 Q 277 626 211 532 Q 147 441 60 343 Q 48 331 46 324 Q 42 311 58 314 Q 104 323 226 474 Q 226 475 228 476 L 255 508 Z",
 "M 228 476 Q 252 407 255 396 Q 254 395 255 392 Q 255 212 223 91 Q 210 45 245 -7 Q 246 -11 251 -15 Q 270 -33 283 -3 Q 299 40 298 90 Q 302 354 311 413 Q 320 443 308 454 Q 268 500 255 508 C 232 527 218 504 228 476 Z",

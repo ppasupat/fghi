@@ -1,6 +1,6 @@
 {
 "char": "尔",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "you; that, those; final particle",
 "pron": "ěr"
@@ -8,12 +8,30 @@
 "words": [
 [
 "偶尔",
-4,
+5,
 "ǒu ěr",
 "occasionally; once in a while; sometimes"
+],
+[
+"高尔夫球",
+7,
+"gāo ěr fū qiú",
+"golf; golf ball"
 ]
 ],
 "extraWords": [
+[
+"尔",
+155.73,
+"ěr",
+"variant of 尔[ěr]"
+],
+[
+"尔",
+155.73,
+"ěr",
+"thus; so; like that; you; thou"
+],
 [
 "比尔",
 35.71,
@@ -31,6 +49,12 @@
 26.89,
 "Kǎ ěr",
 "Karl (name)"
+],
+[
+"威尔",
+25.73,
+"???",
+"???"
 ],
 [
 "克莱尔",
@@ -54,7 +78,7 @@
 "哈尔滨",
 19.41,
 "Hā ěr bīn",
-"Harbin, subprovincial city and capital of Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1] in northeast China"
+"Harbin, subprovincial city and capital of Heilongjiang province 黑龙江[Hēi lóng jiāng] in northeast China"
 ],
 [
 "英特尔",
@@ -75,6 +99,24 @@
 "golf (loanword)"
 ],
 [
+"鲍尔",
+15.05,
+"???",
+"???"
+],
+[
+"沃尔特",
+14.82,
+"???",
+"???"
+],
+[
+"凯尔",
+14.25,
+"???",
+"???"
+],
+[
 "海尔",
 13.92,
 "Hǎi ěr",
@@ -93,6 +135,18 @@
 "Chelsea"
 ],
 [
+"迈尔斯",
+10.37,
+"???",
+"???"
+],
+[
+"吉尔",
+10.14,
+"???",
+"???"
+],
+[
 "戴尔",
 10.09,
 "Dài ěr",
@@ -105,10 +159,10 @@
 "Blair (name)"
 ],
 [
-"高尔夫球",
-8.25,
-"gāo ěr fū qiú",
-"golf; golf ball"
+"尼尔",
+8.64,
+"???",
+"???"
 ],
 [
 "赫尔",
@@ -129,6 +183,18 @@
 "Michel or Mitchell (name); George Mitchell (1933-), US Democratic party politician and diplomat, influential in brokering Northern Ireland peace deal in 1990s, US Middle East special envoy from 2009"
 ],
 [
+"杰克·鲍尔",
+7.99,
+"???",
+"???"
+],
+[
+"菲尔",
+7.63,
+"???",
+"???"
+],
+[
 "华尔兹",
 6.89,
 "huá ěr zī",
@@ -138,13 +204,13 @@
 "哈尔滨市",
 6.8,
 "Hā ěr bīn shì",
-"Harbin, subprovincial city and capital of Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1] in northeast China"
+"Harbin, subprovincial city and capital of Heilongjiang province 黑龙江[Hēi lóng jiāng] in northeast China"
 ],
 [
 "荷尔蒙",
 6.05,
 "hé ěr méng",
-"hormone (loanword); see 激素[ji1 su4]"
+"hormone (loanword); see 激素[jī sù]"
 ],
 [
 "新奥尔良",

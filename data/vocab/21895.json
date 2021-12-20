@@ -1,6 +1,6 @@
 {
 "char": "喇",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "horn, bugle; lama; final particle",
 "pron": "lǎ"
@@ -8,12 +8,25 @@
 "words": [
 [
 "喇叭",
-6,
+7,
 "lǎ ba",
-"horn (automobile etc); loudspeaker; brass wind instrument; trumpet; suona 鎖吶|锁呐[suo3 na4]"
+"horn (automobile etc); loudspeaker; brass wind instrument; trumpet; suona 锁呐[suǒ nà]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"喇",
+13.8,
+"lā",
+"(onom.) sound of wind, rain etc"
+],
+[
+"喇",
+13.8,
+"lǎ",
+"(phonetic)"
+]
+],
 "strokes": [
 "M 119 573 Q 107 579 78 585 Q 66 589 63 584 Q 56 578 64 563 Q 91 496 103 390 Q 104 359 121 336 Q 137 314 143 329 Q 150 348 147 385 L 143 416 Q 130 516 128 546 C 126 570 126 570 119 573 Z",
 "M 270 432 Q 285 523 309 552 Q 328 577 307 589 Q 288 599 262 614 Q 244 624 202 599 Q 154 581 119 573 C 90 566 99 539 128 546 Q 176 558 209 565 Q 230 569 234 562 Q 243 555 237 517 Q 231 481 224 439 C 219 409 265 402 270 432 Z",

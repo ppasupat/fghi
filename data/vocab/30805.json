@@ -1,6 +1,6 @@
 {
 "char": "硕",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "great, eminent; large, big",
 "pron": "shuò"
@@ -8,12 +8,31 @@
 "words": [
 [
 "硕士",
-4,
+5,
 "shuò shì",
 "master's degree; person who has a master's degree; learned person"
+],
+[
+"丰硕",
+7,
+"fēng shuò",
+"plentiful; substantial; rich (in resources etc)"
+],
+[
+"硕果",
+7,
+"shuò guǒ",
+"major achievement; great work; triumphant success"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"硕",
+11.11,
+"shuò",
+"large; big"
+]
+],
 "strokes": [
 "M 284 662 Q 434 704 440 709 Q 449 716 444 725 Q 437 735 408 741 Q 383 744 293 712 Q 223 693 175 685 Q 141 676 166 662 Q 199 647 245 652 L 284 662 Z",
 "M 246 450 Q 274 508 312 597 Q 327 633 327 635 Q 324 642 311 652 Q 298 659 284 662 C 255 671 240 675 245 652 Q 264 592 203 455 L 189 427 Q 147 348 43 223 Q 37 217 46 216 Q 100 231 194 359 Q 200 368 206 376 L 246 450 Z",

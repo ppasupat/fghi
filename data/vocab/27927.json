@@ -1,6 +1,6 @@
 {
 "char": "洗",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "wash, rinse; clean, purify",
 "pron": "xǐ, xiǎn"
@@ -8,30 +8,60 @@
 "words": [
 [
 "洗",
-2,
+1,
 "xǐ",
 "to wash; to bathe; to develop (photo)"
 ],
 [
 "洗手间",
-3,
+1,
 "xǐ shǒu jiān",
 "toilet; lavatory; washroom"
 ],
 [
+"洗衣机",
+2,
+"xǐ yī jī",
+"washer; washing machine; CL:台[tái]"
+],
+[
 "洗澡",
-3,
+2,
 "xǐ zǎo",
 "to bathe; to take a shower"
-]
 ],
-"extraWords": [
 [
 "清洗",
-14.55,
+6,
 "qīng xǐ",
 "to wash; to clean; to purge"
 ],
+[
+"洗衣粉",
+6,
+"xǐ yī fěn",
+"laundry detergent; washing powder"
+],
+[
+"冲洗",
+7,
+"chōng xǐ",
+"to rinse; to wash; to develop (photographic film)"
+],
+[
+"洗涤剂",
+7,
+"xǐ dí jì",
+"cleaning agent; detergent"
+],
+[
+"洗礼",
+7,
+"xǐ lǐ",
+"baptism (lit. or fig.)"
+]
+],
+"extraWords": [
 [
 "洗净",
 13.03,
@@ -43,12 +73,6 @@
 10.2,
 "xǐ yī",
 "laundry"
-],
-[
-"冲洗",
-9.33,
-"chōng xǐ",
-"to rinse; to wash; to develop (photographic film)"
 ],
 [
 "洗脸",
@@ -63,16 +87,16 @@
 "to wash one's hands; to go to the toilet"
 ],
 [
-"洗衣机",
-7.15,
-"xǐ yī jī",
-"washer; washing machine; CL:臺|台[tai2]"
-],
-[
 "洗头",
 6.51,
 "xǐ tóu",
 "to wash one's hair; to have a shampoo"
+],
+[
+"洗洗",
+5.43,
+"???",
+"???"
 ],
 [
 "洗涤",

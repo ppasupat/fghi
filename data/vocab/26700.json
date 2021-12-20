@@ -1,6 +1,6 @@
 {
 "char": "桌",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "table, desk, stand",
 "pron": "zhuō"
@@ -10,10 +10,40 @@
 "桌子",
 1,
 "zhuō zi",
-"table; desk; CL:張|张[zhang1],套[tao4]"
+"table; desk; CL:张[zhāng],套[tào]"
+],
+[
+"书桌",
+5,
+"shū zhuō",
+"desk; CL:张[zhāng]"
+],
+[
+"餐桌",
+7,
+"cān zhuō",
+"dining table; dinner table"
 ]
 ],
 "extraWords": [
+[
+"桌",
+34.72,
+"zhuō",
+"table; desk; classifier for tables of guests at a banquet etc"
+],
+[
+"桌",
+34.72,
+"zhuō",
+"old variant of 桌[zhuō]"
+],
+[
+"桌上",
+17.29,
+"???",
+"???"
+],
 [
 "桌面",
 12.97,
@@ -21,10 +51,10 @@
 "desktop; tabletop"
 ],
 [
-"餐桌",
-6.68,
-"cān zhuō",
-"dining table; dinner table"
+"办公桌",
+5.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

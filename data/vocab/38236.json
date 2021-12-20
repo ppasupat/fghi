@@ -1,36 +1,42 @@
 {
 "char": "镜",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "mirror; lens; glass; glasses",
 "pron": "jìng"
 },
 "words": [
 [
-"眼镜",
+"镜头",
 4,
-"yǎn jìng",
-"spectacles; eyeglasses; CL:副[fu4]"
+"jìng tóu",
+"camera lens; camera shot (in a movie etc); scene"
 ],
 [
 "镜子",
 4,
 "jìng zi",
-"mirror; CL:面[mian4],個|个[ge4]"
+"mirror; CL:面[miàn],个[gè]"
 ],
 [
-"镜头",
-6,
-"jìng tóu",
-"camera lens; camera shot (in a movie etc); scene"
+"眼镜",
+4,
+"yǎn jìng",
+"spectacles; eyeglasses; CL:副[fù]"
+],
+[
+"望远镜",
+7,
+"wàng yuǎn jìng",
+"binoculars; telescope; CL:付[fù],副[fù],部[bù]"
 ]
 ],
 "extraWords": [
 [
-"望远镜",
-6.08,
-"wàng yuǎn jìng",
-"binoculars; telescope; CL:付[fu4],副[fu4],部[bu4]"
+"镜",
+44.98,
+"jìng",
+"mirror; lens"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "飘",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "whirlwind, cyclone; floating",
 "pron": "piāo"
@@ -8,24 +8,25 @@
 "words": [
 [
 "飘",
-5,
+7,
 "piāo",
-"variant of 飄|飘[piao1]"
+"variant of 飘[piāo]"
 ],
 [
 "飘",
-5,
+7,
 "piāo",
 "to float"
-],
-[
-"飘扬",
-6,
-"piāo yáng",
-"to wave; to flutter; to fly"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"飘逸",
+4.4,
+"piāo yì",
+"graceful; elegant; to drift; to float"
+]
+],
 "strokes": [
 "M 329 727 Q 360 736 395 743 Q 431 752 436 757 Q 443 764 439 771 Q 432 780 409 785 Q 391 788 299 758 Q 206 736 170 730 Q 140 724 162 712 Q 193 696 264 712 Q 282 716 302 720 L 329 727 Z",
 "M 148 609 Q 141 613 120 615 Q 111 618 108 613 Q 104 609 110 596 Q 135 550 150 471 Q 153 449 167 433 Q 182 417 185 428 Q 186 435 187 443 L 186 467 Q 183 479 165 581 C 161 604 161 604 148 609 Z",

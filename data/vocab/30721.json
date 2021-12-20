@@ -1,6 +1,6 @@
 {
 "char": "码",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "number, numerals; yard; symbol",
 "pron": "mǎ"
@@ -10,7 +10,7 @@
 "号码",
 4,
 "hào mǎ",
-"number; CL:堆[dui1],個|个[ge4]"
+"number; CL:堆[duī],个[gè]"
 ],
 [
 "密码",
@@ -20,21 +20,39 @@
 ],
 [
 "数码",
-5,
+4,
 "shù mǎ",
 "number; numerals; figures; digital; amount; numerical code"
 ],
 [
+"二维码",
+5,
+"èr wéi mǎ",
+"two-dimensional barcode; QR code"
+],
+[
+"码头",
+5,
+"mǎ tóu",
+"dock; pier; wharf; CL:个[gè]"
+],
+[
 "起码",
-6,
+5,
 "qǐ mǎ",
 "at the minimum; at the very least"
 ],
 [
-"码头",
-6,
-"mǎ tóu",
-"dock; pier; wharf; CL:個|个[ge4]"
+"筹码",
+7,
+"chóu mǎ",
+"bargaining chip; gaming chip; casino token"
+],
+[
+"码",
+7,
+"mǎ",
+"weight; number; code; to pile; to stack; classifier for length or distance (yard), happenings etc"
 ]
 ],
 "extraWords": [
@@ -45,16 +63,16 @@
 "code"
 ],
 [
-"筹码",
-14.05,
-"chóu mǎ",
-"bargaining chip; gaming chip; casino token"
-],
-[
 "编码",
 7.41,
 "biān mǎ",
 "to code; to encode; code"
+],
+[
+"电话号码",
+6.72,
+"???",
+"???"
 ]
 ],
 "strokes": [

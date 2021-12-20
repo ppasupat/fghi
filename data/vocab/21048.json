@@ -1,16 +1,28 @@
 {
 "char": "券",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "certificate, ticket; title deeds",
 "pron": "quàn, xuàn"
 },
 "words": [
 [
-"债券",
+"券",
 6,
-"zhài quàn",
-"bond; debenture"
+"quàn",
+"bond (esp. document split in two, with each party holding one half); contract; deed (i.e. title deeds); ticket; voucher; certificate"
+],
+[
+"券",
+6,
+"quàn",
+"variant of 券[quàn]"
+],
+[
+"入场券",
+7,
+"rù chǎng quàn",
+"admission ticket"
 ]
 ],
 "extraWords": [
@@ -19,6 +31,12 @@
 105.7,
 "zhèng quàn",
 "negotiable security (financial); certificate; stocks and bonds"
+],
+[
+"债券",
+23.21,
+"zhài quàn",
+"bond; debenture"
 ],
 [
 "证券市场",
@@ -31,6 +49,12 @@
 12.37,
 "zhèng quàn gōng sī",
 "securities company; share company"
+],
+[
+"证券投资",
+12.09,
+"???",
+"???"
 ],
 [
 "上海证券交易所",

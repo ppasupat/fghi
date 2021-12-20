@@ -1,54 +1,72 @@
 {
 "char": "练",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "to practice, drill, exercise, train",
 "pron": "liàn"
 },
 "words": [
 [
-"练习",
-3,
-"liàn xí",
-"to practice; exercise; drill; practice; CL:個|个[ge4]"
+"练",
+2,
+"liàn",
+"to practice; to train; to drill; to perfect (one's skill); exercise; (literary) white silk; to boil and scour raw silk"
 ],
 [
-"训练",
-5,
-"xùn liàn",
-"to train; to drill; training; CL:個|个[ge4]"
+"练习",
+2,
+"liàn xí",
+"to practice; exercise; drill; practice; CL:个[gè]"
 ],
 [
 "教练",
-5,
+3,
 "jiào liàn",
-"instructor; sports coach; trainer; CL:個|个[ge4],位[wei4],名[ming2]"
+"instructor; sports coach; trainer; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"训练",
+3,
+"xùn liàn",
+"to train; to drill; training; CL:个[gè]"
 ],
 [
 "熟练",
-5,
+4,
 "shú liàn",
 "practiced; proficient; skilled; skillful"
 ],
 [
+"精练",
+7,
+"jīng liàn",
+"(textiles) to scour; to degum (silk); variant of 精炼[jīng liàn]"
+],
+[
+"苦练",
+7,
+"kǔ liàn",
+"to train hard; to practice diligently; hard work; blood, sweat, and tears"
+],
+[
 "排练",
-6,
+7,
 "pái liàn",
 "to rehearse; rehearsal"
 ],
 [
-"操练",
-6,
-"cāo liàn",
-"drill; practice"
+"演练",
+7,
+"yǎn liàn",
+"to do a drill; to practice; training; drill"
 ]
 ],
 "extraWords": [
 [
-"演练",
-9.43,
-"yǎn liàn",
-"to do a drill; to practice; training; drill"
+"主教练",
+31.51,
+"???",
+"???"
 ],
 [
 "教练员",

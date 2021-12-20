@@ -1,6 +1,6 @@
 {
 "char": "穷",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "poor, destitute, impoverished",
 "pron": "qióng"
@@ -13,38 +13,31 @@
 "poor; destitute; to use up; to exhaust; thoroughly; extremely; (coll.) persistently and pointlessly"
 ],
 [
-"无穷无尽",
-6,
-"wú qióng wú jìn",
-"endless; boundless; infinite"
-],
-[
-"层出不穷",
-6,
-"céng chū bù qióng",
-"more and more emerge; innumerable succession; breeding like flies (idiom)"
-]
-],
-"extraWords": [
-[
 "穷人",
-11.1,
+4,
 "qióng rén",
 "poor people; the poor"
 ],
 [
-"无穷",
-10.1,
-"wú qióng",
-"endless; boundless; inexhaustible"
+"层出不穷",
+7,
+"céng chū bù qióng",
+"more and more emerge; innumerable succession; breeding like flies (idiom)"
 ],
 [
 "贫穷",
-8.35,
+7,
 "pín qióng",
 "poor; impoverished"
+],
+[
+"无穷",
+7,
+"wú qióng",
+"endless; boundless; inexhaustible"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 455 789 Q 483 767 513 740 Q 529 727 545 729 Q 555 730 561 744 Q 565 760 554 791 Q 542 822 447 839 Q 431 843 424 839 Q 418 835 421 821 Q 425 811 455 789 Z",
 "M 278 654 Q 268 676 258 684 Q 240 700 237 674 Q 243 638 175 566 Q 154 542 179 487 Q 192 460 214 487 Q 233 512 247 549 Q 265 595 278 623 L 278 624 L 278 654 Z",

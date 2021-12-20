@@ -1,38 +1,37 @@
 {
 "char": "躁",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "tense, excited, irritable",
 "pron": "zào"
 },
 "words": [
 [
-"急躁",
-6,
-"jí zào",
-"irritable; irascible; impetuous"
-]
-],
-"extraWords": [
-[
-"烦躁",
-10.2,
-"fán zào",
-"jittery; twitchy; fidgety"
-],
-[
 "暴躁",
-6.47,
+7,
 "bào zào",
 "irascible; irritable; violent"
 ],
 [
+"烦躁",
+7,
+"fán zào",
+"jittery; twitchy; fidgety"
+],
+[
 "浮躁",
-6.11,
+7,
 "fú zào",
 "fickle and impatient; restless; giddy; scatterbrained"
+],
+[
+"焦躁",
+7,
+"jiāo zào",
+"fretful; impatient"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 183 684 Q 173 690 138 696 Q 128 697 124 693 Q 120 687 127 674 Q 152 625 171 545 Q 175 521 189 506 Q 205 487 210 501 Q 211 508 212 518 L 210 547 Q 206 562 189 659 C 185 683 185 683 183 684 Z",
 "M 342 573 Q 357 649 378 673 Q 397 697 376 708 Q 358 718 334 732 Q 318 741 301 730 Q 267 706 183 684 C 154 676 160 652 189 659 Q 195 660 207 664 Q 247 676 280 685 Q 304 692 309 682 Q 316 676 310 645 Q 304 612 296 573 C 290 544 336 544 342 573 Z",

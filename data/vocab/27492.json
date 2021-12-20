@@ -1,6 +1,6 @@
 {
 "char": "此",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "this, these; in this case, then",
 "pron": "cǐ"
@@ -8,9 +8,27 @@
 "words": [
 [
 "因此",
-4,
+3,
 "yīn cǐ",
 "thus; consequently; as a result"
+],
+[
+"此",
+4,
+"cǐ",
+"this; these"
+],
+[
+"此外",
+4,
+"cǐ wài",
+"besides; in addition; moreover; furthermore"
+],
+[
+"从此",
+4,
+"cóng cǐ",
+"from now on; since then; henceforth"
 ],
 [
 "彼此",
@@ -19,78 +37,138 @@
 "each other; one another"
 ],
 [
-"从此",
+"此后",
 5,
-"cóng cǐ",
-"from now on; since then; henceforth"
+"cǐ hòu",
+"after this; afterwards; hereafter"
 ],
 [
-"此外",
+"此刻",
 5,
-"cǐ wài",
-"besides; in addition; moreover; furthermore"
-],
-[
-"岂有此理",
-6,
-"qǐ yǒu cǐ lǐ",
-"how can this be so? (idiom); preposterous; ridiculous; absurd"
-]
-],
-"extraWords": [
-[
-"如此",
-247.57,
-"rú cǐ",
-"in this way; so"
-],
-[
-"此次",
-134.31,
-"cǐ cì",
-"this time"
+"cǐ kè",
+"this moment; now; at present"
 ],
 [
 "此时",
-78.51,
+5,
 "cǐ shí",
 "now; this moment"
 ],
 [
+"如此",
+5,
+"rú cǐ",
+"in this way; so"
+],
+[
+"由此",
+5,
+"yóu cǐ",
+"hereby; from this"
+],
+[
+"此处",
+6,
+"cǐ chù",
+"this place; here (literary)"
+],
+[
+"此次",
+6,
+"cǐ cì",
+"this time"
+],
+[
+"此前",
+6,
+"cǐ qián",
+"before this; before then; previously"
+],
+[
+"此事",
+6,
+"cǐ shì",
+"this matter"
+],
+[
+"此致",
+6,
+"cǐ zhì",
+"(used at the end of a letter to introduce a polite salutation)"
+],
+[
 "为此",
-67.04,
+6,
 "wèi cǐ",
 "for this reason; with regards to this; in this respect; in order to do this; to this end"
 ],
 [
-"此前",
-64.32,
-"cǐ qián",
-"before this; before then; previously"
+"除此之外",
+7,
+"chú cǐ zhī wài",
+"apart from this; in addition to this"
+],
+[
+"此起彼伏",
+7,
+"cǐ qǐ bǐ fú",
+"up here, down there (idiom); to rise and fall in succession; no sooner one subsides, the next arises; repeating continuously; occurring again and again (of applause, fires, waves, protests, conflicts, uprisings etc)"
+],
+[
+"据此",
+7,
+"jù cǐ",
+"according to this; on the ground of the above; (formally introduces reported speech in writing)"
+],
+[
+"岂有此理",
+7,
+"qǐ yǒu cǐ lǐ",
+"how can this be so? (idiom); preposterous; ridiculous; absurd"
+],
+[
+"由此看来",
+7,
+"yóu cǐ kàn lái",
+"thereby; judging from this"
+],
+[
+"由此可见",
+7,
+"yóu cǐ kě jiàn",
+"from this, it can be seen that..."
+],
+[
+"与此同时",
+7,
+"yǔ cǐ tóng shí",
+"at the same time; meanwhile"
+],
+[
+"至此",
+7,
+"zhì cǐ",
+"up until now; so far"
+],
+[
+"诸如此类",
+7,
+"zhū rú cǐ lèi",
+"things like this (idiom); and so on; and the rest; etc"
+]
+],
+"extraWords": [
+[
+"对此",
+97.21,
+"???",
+"???"
 ],
 [
 "在此",
 53.06,
 "zài cǐ",
 "hereto; here"
-],
-[
-"由此",
-40.81,
-"yóu cǐ",
-"hereby; from this"
-],
-[
-"与此同时",
-33.46,
-"yǔ cǐ tóng shí",
-"at the same time; meanwhile"
-],
-[
-"此后",
-32.65,
-"cǐ hòu",
-"after this; afterwards; hereafter"
 ],
 [
 "以此",
@@ -105,10 +183,10 @@
 "at this point; thus; from then on"
 ],
 [
-"此刻",
-25.49,
-"cǐ kè",
-"this moment; now; at present"
+"此案",
+18.79,
+"???",
+"???"
 ],
 [
 "到此为止",
@@ -117,46 +195,16 @@
 "to stop at this point; to end here; to call it a day"
 ],
 [
-"至此",
-15.66,
-"zhì cǐ",
-"up until now; so far"
-],
-[
-"此事",
-11.54,
-"cǐ shì",
-"this matter"
+"此举",
+16.46,
+"???",
+"???"
 ],
 [
 "此间",
 10.84,
 "cǐ jiān",
 "here; this place"
-],
-[
-"此处",
-10.4,
-"cǐ chù",
-"this place; here (literary)"
-],
-[
-"除此之外",
-10.39,
-"chú cǐ zhī wài",
-"apart from this; in addition to this"
-],
-[
-"据此",
-10.19,
-"jù cǐ",
-"according to this; on the ground of the above; (formally introduces reported speech in writing)"
-],
-[
-"由此可见",
-9.18,
-"yóu cǐ kě jiàn",
-"from this, it can be seen that..."
 ],
 [
 "特此",
@@ -187,6 +235,24 @@
 6.79,
 "zài cǐ zhī qián",
 "before that; beforehand; previously"
+],
+[
+"此番",
+6.13,
+"???",
+"???"
+],
+[
+"并非如此",
+5.96,
+"???",
+"???"
+],
+[
+"此行",
+5.4,
+"???",
+"???"
 ]
 ],
 "strokes": [

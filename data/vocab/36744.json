@@ -1,11 +1,17 @@
 {
 "char": "辈",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "generation, lifetime; class",
 "pron": "bèi"
 },
 "words": [
+[
+"辈",
+5,
+"bèi",
+"lifetime; generation; group of people; class; classifier for generations; (literary) classifier for people"
+],
 [
 "一辈子",
 5,
@@ -13,8 +19,14 @@
 "(for) a lifetime"
 ],
 [
+"前辈",
+7,
+"qián bèi",
+"senior; older generation; precursor"
+],
+[
 "长辈",
-5,
+7,
 "zhǎng bèi",
 "one's elders; older generation"
 ]
@@ -25,12 +37,6 @@
 30.52,
 "bèi zi",
 "all one's life; lifetime"
-],
-[
-"前辈",
-12.32,
-"qián bèi",
-"senior; older generation; precursor"
 ],
 [
 "半辈子",

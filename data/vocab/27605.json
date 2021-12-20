@@ -1,6 +1,6 @@
 {
 "char": "毕",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "end, finish, conclude; completed",
 "pron": "bì"
@@ -13,6 +13,12 @@
 "graduation; to graduate; to finish school"
 ],
 [
+"毕业生",
+4,
+"bì yè shēng",
+"graduate"
+],
+[
 "毕竟",
 5,
 "bì jìng",
@@ -20,17 +26,23 @@
 ],
 [
 "完毕",
-6,
+7,
 "wán bì",
 "to finish; to end; to complete"
 ]
 ],
 "extraWords": [
 [
-"毕业生",
-36.72,
-"bì yè shēng",
-"graduate"
+"毕",
+13.12,
+"Bì",
+"surname Bi"
+],
+[
+"毕",
+13.12,
+"bì",
+"the whole of; to finish; to complete; complete; full; finished"
 ]
 ],
 "strokes": [

@@ -1,28 +1,46 @@
 {
 "char": "极",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "extreme, utmost, furthest, final",
 "pron": "jí"
 },
 "words": [
 [
-"极",
-3,
-"jí",
-"extremely; pole (geography, physics); utmost; top"
-],
-[
 "积极",
-4,
+3,
 "jī jí",
 "active; energetic; vigorous; positive (outlook); proactive"
 ],
 [
+"极了",
+3,
+"jí le",
+"extremely; exceedingly"
+],
+[
+"极",
+4,
+"jí",
+"extremely; pole (geography, physics); utmost; top"
+],
+[
 "极其",
-5,
+4,
 "jí qí",
 "extremely"
+],
+[
+"北极",
+5,
+"běi jí",
+"the North Pole; the Arctic Pole; the north magnetic pole"
+],
+[
+"南极",
+5,
+"nán jí",
+"south pole"
 ],
 [
 "消极",
@@ -31,37 +49,55 @@
 "negative; passive; inactive"
 ],
 [
-"太极拳",
-5,
-"tài jí quán",
-"shadowboxing or Taiji, T'aichi or T'aichichuan; traditional form of physical exercise or relaxation; a martial art"
-],
-[
 "极端",
 6,
 "jí duān",
 "extreme"
 ],
 [
+"极度",
+7,
+"jí dù",
+"extremely"
+],
+[
+"极力",
+7,
+"jí lì",
+"to make a supreme effort; at all costs"
+],
+[
+"极少数",
+7,
+"jí shǎo shù",
+"extremely few; a small minority"
+],
+[
+"极为",
+7,
+"jí wéi",
+"extremely; exceedingly"
+],
+[
 "极限",
-6,
+7,
 "jí xiàn",
 "limit; extreme boundary"
 ],
 [
-"北极",
-6,
-"běi jí",
-"the North Pole; the Arctic Pole; the north magnetic pole"
+"太极",
+7,
+"Tài jí",
+"the Absolute or Supreme Ultimate, the source of all things according to some interpretations of Chinese mythology"
+],
+[
+"太极拳",
+7,
+"tài jí quán",
+"shadowboxing or Taiji, T'aichi or T'aichichuan; traditional form of physical exercise or relaxation; a martial art"
 ]
 ],
 "extraWords": [
-[
-"极了",
-172.03,
-"jí le",
-"extremely; exceedingly"
-],
 [
 "极大",
 46.51,
@@ -69,22 +105,10 @@
 "maximum; enormous"
 ],
 [
-"极为",
-30.54,
-"jí wéi",
-"extremely; exceedingly"
-],
-[
 "积极性",
 29.86,
 "jī jí xìng",
 "zeal; initiative; enthusiasm; activity"
-],
-[
-"极度",
-13.53,
-"jí dù",
-"extremely"
 ],
 [
 "终极",
@@ -99,28 +123,16 @@
 "best quality; item of the highest quality; (slang) outrageous; annoying in the extreme; gross; person with these qualities"
 ],
 [
-"极力",
-8.08,
-"jí lì",
-"to make a supreme effort; at all costs"
-],
-[
 "极致",
 7.79,
 "jí zhì",
 "peak; pinnacle; ultimate"
 ],
 [
-"南极",
-6.02,
-"nán jí",
-"south pole"
-],
-[
 "无极",
 5.92,
 "Wú jí",
-"Wuji county in Shijiazhuang 石家莊地區|石家庄地区[Shi2 jia1 zhuang1 di4 qu1], Hebei; The Promise (name of film by Chen Kaige)"
+"Wuji county in Shijiazhuang 石家庄地区[Shí jiā zhuāng dì qū], Hebei; The Promise (name of film by Chen Kaige)"
 ],
 [
 "无极",

@@ -1,6 +1,6 @@
 {
 "char": "技",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "skill, ability, talent, ingenuity",
 "pron": "jì"
@@ -8,53 +8,89 @@
 "words": [
 [
 "技术",
-4,
+3,
 "jì shù",
-"technology; technique; skill; CL:門|门[men2],種|种[zhong3],項|项[xiang4]"
+"technology; technique; skill; CL:门[mén],种[zhǒng],项[xiàng]"
 ],
-[
-"技巧",
-6,
-"jì qiǎo",
-"skill; technique"
-],
-[
-"杂技",
-6,
-"zá jì",
-"acrobatics; CL:場|场[chang3]"
-]
-],
-"extraWords": [
 [
 "科技",
-185.26,
+3,
 "kē jì",
 "science and technology"
 ],
 [
+"技巧",
+4,
+"jì qiǎo",
+"skill; technique"
+],
+[
 "技能",
-45.19,
+5,
 "jì néng",
 "technical ability; skill"
 ],
 [
 "高科技",
-23.85,
+6,
 "gāo kē jì",
 "high tech; high technology"
+],
+[
+"高新技术",
+7,
+"gāo xīn jì shù",
+"high tech; high technology"
+],
+[
+"技艺",
+7,
+"jì yì",
+"skill; art"
+],
+[
+"竞技",
+7,
+"jìng jì",
+"competition of skill (e.g. sports); athletics tournament"
+],
+[
+"绝技",
+7,
+"jué jì",
+"consummate skill; supreme feat; tour-de-force; stunt"
+],
+[
+"演技",
+7,
+"yǎn jì",
+"acting; performing skills"
+],
+[
+"一技之长",
+7,
+"yī jì zhī cháng",
+"proficiency in a particular field (idiom); skill in a specialized area (idiom)"
+],
+[
+"杂技",
+7,
+"zá jì",
+"acrobatics; CL:场[chǎng]"
+]
+],
+"extraWords": [
+[
+"技",
+24.23,
+"jì",
+"skill"
 ],
 [
 "科学技术",
 23.52,
 "kē xué jì shù",
 "science and technology"
-],
-[
-"高新技术",
-22.52,
-"gāo xīn jì shù",
-"high tech; high technology"
 ],
 [
 "技术人员",
@@ -69,22 +105,10 @@
 "new technology"
 ],
 [
-"竞技",
-13.63,
-"jìng jì",
-"competition of skill (e.g. sports); athletics tournament"
-],
-[
 "信息技术",
 11.81,
 "xìn xī jì shù",
 "information technology; IT"
-],
-[
-"演技",
-7.77,
-"yǎn jì",
-"acting; performing skills"
 ],
 [
 "高技术",
@@ -97,12 +121,6 @@
 6.38,
 "tè jì",
 "special effect; stunt"
-],
-[
-"技艺",
-5.31,
-"jì yì",
-"skill; art"
 ],
 [
 "技术性",

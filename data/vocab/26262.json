@@ -1,6 +1,6 @@
 {
 "char": "暖",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "warm, genial",
 "pron": "nuǎn"
@@ -8,47 +8,77 @@
 "words": [
 [
 "暖和",
-4,
+3,
 "nuǎn huo",
 "warm; nice and warm"
 ],
 [
 "温暖",
-5,
+3,
 "wēn nuǎn",
 "warm"
-]
-],
-"extraWords": [
-[
-"保暖",
-24.98,
-"bǎo nuǎn",
-"to stay warm; to protect against the cold"
-],
-[
-"暖暖",
-10.57,
-"Nuǎn nuǎn",
-"Nuannuan District of Keelung City 基隆市[Ji1 long2 Shi4], Taiwan"
-],
-[
-"取暖",
-7.19,
-"qǔ nuǎn",
-"to warm oneself (by a fire etc)"
 ],
 [
 "暖气",
-6.56,
+4,
 "nuǎn qì",
 "central heating; heater; warm air"
 ],
 [
+"暖",
+5,
+"nuǎn",
+"old variant of 暖[nuǎn]"
+],
+[
+"暖",
+5,
+"nuǎn",
+"warm; to warm"
+],
+[
+"暖",
+5,
+"nuǎn",
+"variant of 暖[nuǎn]"
+],
+[
+"暖",
+5,
+"nuǎn",
+"variant of 暖[nuǎn], warm"
+],
+[
+"保暖",
+7,
+"bǎo nuǎn",
+"to stay warm; to protect against the cold"
+],
+[
 "供暖",
-5.15,
+7,
 "gōng nuǎn",
 "to supply heating (in a building); heating"
+],
+[
+"暖烘烘",
+7,
+"nuǎn hōng hōng",
+"nice and warm; cozy; heartwarming"
+],
+[
+"取暖",
+7,
+"qǔ nuǎn",
+"to warm oneself (by a fire etc)"
+]
+],
+"extraWords": [
+[
+"暖暖",
+10.57,
+"Nuǎn nuǎn",
+"Nuannuan District of Keelung City 基隆市[Jī lóng Shì], Taiwan"
 ]
 ],
 "strokes": [

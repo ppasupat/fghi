@@ -1,37 +1,31 @@
 {
 "char": "踪",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "footprints, traces, tracks",
 "pron": "zōng"
 },
 "words": [
 [
-"失踪",
-6,
-"shī zōng",
-"to be missing; to disappear; unaccounted for"
-],
-[
 "跟踪",
-6,
+7,
 "gēn zōng",
 "to follow sb's tracks; to tail; to shadow; tracking"
 ],
 [
-"踪迹",
-6,
-"zōng jì",
-"tracks; trail; footprint; trace; vestige"
+"失踪",
+7,
+"shī zōng",
+"to be missing; to disappear; unaccounted for"
+],
+[
+"追踪",
+7,
+"zhuī zōng",
+"to follow a trail; to trace; to pursue"
 ]
 ],
 "extraWords": [
-[
-"追踪",
-51.0,
-"zhuī zōng",
-"to follow a trail; to trace; to pursue"
-],
 [
 "行踪",
 9.24,
@@ -43,6 +37,18 @@
 5.82,
 "zōng yǐng",
 "trace; vestige; presence"
+],
+[
+"踪迹",
+5.72,
+"zōng jì",
+"tracks; trail; footprint; trace; vestige"
+],
+[
+"踪",
+5.48,
+"zōng",
+"footprint; trace; tracks"
 ]
 ],
 "strokes": [

@@ -1,19 +1,55 @@
 {
 "char": "贺",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "congratulate; send present",
 "pron": "hè"
 },
 "words": [
 [
+"贺卡",
+5,
+"hè kǎ",
+"greeting card; congratulation card"
+],
+[
 "祝贺",
-4,
+5,
 "zhù hè",
-"to congratulate; congratulations; CL:個|个[ge4]"
+"to congratulate; congratulations; CL:个[gè]"
+],
+[
+"贺电",
+7,
+"hè diàn",
+"congratulatory telegram"
+],
+[
+"贺信",
+7,
+"hè xìn",
+"congratulatory letter or message"
+],
+[
+"庆贺",
+7,
+"qìng hè",
+"to congratulate; to celebrate"
 ]
 ],
 "extraWords": [
+[
+"贺",
+10.49,
+"Hè",
+"surname He"
+],
+[
+"贺",
+10.49,
+"hè",
+"to congratulate"
+],
 [
 "贺岁",
 6.04,

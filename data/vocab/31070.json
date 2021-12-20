@@ -1,6 +1,6 @@
 {
 "char": "神",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "spirit, god, supernatural being",
 "pron": "shén"
@@ -8,87 +8,105 @@
 "words": [
 [
 "精神",
-5,
+3,
 "jīng shén",
-"spirit; mind; consciousness; thought; mental; psychological; essence; gist; CL:個|个[ge4]"
+"spirit; mind; consciousness; thought; mental; psychological; essence; gist; CL:个[gè]"
 ],
 [
 "精神",
-5,
+3,
 "jīng shen",
 "vigor; vitality; drive; spiritual"
 ],
 [
-"神秘",
-5,
-"shén mì",
-"mysterious; mystery"
-],
-[
 "神话",
-5,
+4,
 "shén huà",
 "legend; fairy tale; myth; mythology"
 ],
 [
+"神秘",
+4,
+"shén mì",
+"mysterious; mystery"
+],
+[
+"神",
+5,
+"Shén",
+"God; abbr. for 神舟[Shén zhōu]"
+],
+[
+"神",
+5,
+"shén",
+"deity; soul; spirit; unusual; mysterious; lively; expressive; expression; look; CL:个[gè]; (slang) awesome; amazing"
+],
+[
 "神经",
-6,
+5,
 "shén jīng",
 "nerve; mental state; (coll.) unhinged; nutjob"
 ],
 [
 "神奇",
-6,
+5,
 "shén qí",
 "magical; mystical; miraculous"
 ],
 [
-"眼神",
-6,
-"yǎn shén",
-"expression or emotion showing in one's eyes; meaningful glance; wink; eyesight (dialect)"
+"神情",
+5,
+"shén qíng",
+"look; expression"
 ],
 [
-"神圣",
-6,
-"shén shèng",
-"divine; hallow; holy; sacred"
-],
-[
-"留神",
-6,
-"liú shén",
-"to take care; to be careful"
-],
-[
-"神仙",
-6,
-"shén xiān",
-"Daoist immortal; supernatural entity; (in modern fiction) fairy, elf, leprechaun etc; fig. lighthearted person"
-],
-[
-"神气",
-6,
-"shén qì",
-"expression; manner; vigorous; impressive; lofty; pretentious"
-],
-[
-"神态",
-6,
-"shén tài",
-"appearance; manner; bearing; deportment; look; expression; mien"
+"精神病",
+7,
+"jīng shén bìng",
+"mental disorder; psychosis"
 ],
 [
 "聚精会神",
-6,
+7,
 "jù jīng huì shén",
 "to concentrate one's attention (idiom)"
 ],
 [
-"出神",
-6,
-"chū shén",
-"spellbound; entranced; lost in thought"
+"留神",
+7,
+"liú shén",
+"to take care; to be careful"
+],
+[
+"神气",
+7,
+"shén qì",
+"expression; manner; vigorous; impressive; lofty; pretentious"
+],
+[
+"神圣",
+7,
+"shén shèng",
+"divine; hallow; holy; sacred"
+],
+[
+"神态",
+7,
+"shén tài",
+"appearance; manner; bearing; deportment; look; expression; mien"
+],
+[
+"神仙",
+7,
+"shén xiān",
+"Daoist immortal; supernatural entity; (in modern fiction) fairy, elf, leprechaun etc; fig. lighthearted person"
+],
+[
+"眼神",
+7,
+"yǎn shén",
+"expression or emotion showing in one's eyes; meaningful glance; wink; eyesight (dialect)"
 ]
 ],
 "extraWords": [
@@ -96,7 +114,7 @@
 "神马",
 46.89,
 "shén mǎ",
-"mythical horse; Internet slang for 什麼|什么[shen2 me5]"
+"mythical horse; Internet slang for 什么[shén me]"
 ],
 [
 "神父",
@@ -109,18 +127,6 @@
 32.85,
 "shén xiàng",
 "image of a God"
-],
-[
-"神情",
-16.46,
-"shén qíng",
-"look; expression"
-],
-[
-"精神病",
-15.26,
-"jīng shén bìng",
-"mental disorder; psychosis"
 ],
 [
 "精神文明",
@@ -147,6 +153,12 @@
 "expression; look"
 ],
 [
+"神龙",
+12.23,
+"???",
+"???"
+],
+[
 "神舟",
 10.52,
 "Shén zhōu",
@@ -157,6 +169,12 @@
 9.93,
 "sǐ shén",
 "mythological figure (such as the Grim Reaper) in charge of taking the souls of those who die; (fig.) death"
+],
+[
+"精神病院",
+8.44,
+"???",
+"???"
 ],
 [
 "靖国神社",

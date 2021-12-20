@@ -1,24 +1,41 @@
 {
 "char": "侄",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "nephew",
 "pron": "zhí"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "侄子",
-6,
+13.92,
 "zhí zi",
 "brother's son; nephew"
-]
 ],
-"extraWords": [
 [
 "侄女",
 8.08,
 "zhí nǚ",
 "niece; brother's daughter"
+],
+[
+"侄",
+5.14,
+"zhí",
+"variant of 侄[zhí]"
+],
+[
+"侄",
+5.14,
+"zhí",
+"variant of 侄[zhí]"
+],
+[
+"侄",
+5.14,
+"zhí",
+"nephew by the male line"
 ]
 ],
 "strokes": [

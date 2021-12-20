@@ -1,12 +1,24 @@
 {
 "char": "蟹",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "crab, brachyura",
 "pron": "xiè"
 },
 "words": [],
 "extraWords": [
+[
+"蟹",
+38.95,
+"xiè",
+"crab"
+],
+[
+"蟹",
+38.95,
+"xiè",
+"variant of 蟹[xiè]"
+],
 [
 "巨蟹座",
 26.77,
@@ -17,7 +29,7 @@
 "螃蟹",
 6.71,
 "páng xiè",
-"crab; CL:隻|只[zhi1]"
+"crab; CL:只[zhī]"
 ]
 ],
 "strokes": [

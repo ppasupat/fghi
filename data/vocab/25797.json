@@ -1,6 +1,6 @@
 {
 "char": "擅",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "monopolize; claim; arbitrarily; to dare",
 "pron": "shàn"
@@ -8,18 +8,25 @@
 "words": [
 [
 "擅长",
-6,
+7,
 "shàn cháng",
 "to be good at; to be expert in"
 ],
 [
 "擅自",
-6,
+7,
 "shàn zì",
 "without permission"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"擅",
+4.95,
+"shàn",
+"without authority; to usurp; to arrogate to oneself; to monopolize; expert in; to be good at"
+]
+],
 "strokes": [
 "M 308 567 Q 324 573 345 577 Q 379 587 385 593 Q 392 600 388 609 Q 381 619 351 625 Q 329 628 310 621 L 262 602 Q 157 572 111 565 Q 77 556 102 542 Q 148 521 197 538 Q 227 545 261 554 L 308 567 Z",
 "M 258 349 Q 257 250 255 122 Q 254 97 241 88 Q 234 85 172 98 Q 141 111 143 101 Q 144 94 163 79 Q 221 30 236 2 Q 252 -29 267 -32 Q 280 -33 296 0 Q 314 43 313 115 Q 306 251 304 386 L 304 418 Q 304 493 308 567 L 310 621 Q 310 697 329 759 Q 345 787 292 809 Q 261 827 241 821 Q 225 814 240 792 Q 259 767 261 734 Q 262 718 262 602 L 261 554 Q 260 487 259 390 L 258 349 Z",

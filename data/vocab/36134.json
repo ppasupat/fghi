@@ -1,37 +1,43 @@
 {
 "char": "账",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "accounts; bill, debt; credit",
 "pron": "zhàng"
 },
 "words": [
 [
+"账",
+6,
+"zhàng",
+"account; bill; debt; CL:本[běn],笔[bǐ]"
+],
+[
 "账户",
-5,
+6,
 "zhàng hù",
 "bank account; online account"
 ],
 [
-"结账",
-5,
-"jié zhàng",
-"to pay the bill; to settle accounts; also written 結帳|结帐"
-]
-],
-"extraWords": [
-[
-"账号",
-12.05,
-"zhàng hào",
-"account; username"
+"算账",
+7,
+"suàn zhàng",
+"(accounting) to balance the books; to do the accounts; (fig.) to settle an account; to get one's revenge"
 ],
 [
 "账单",
-10.76,
+7,
 "zhàng dān",
 "bill"
 ],
+[
+"账号",
+7,
+"zhàng hào",
+"account; username"
+]
+],
+"extraWords": [
 [
 "混账",
 5.07,

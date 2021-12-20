@@ -1,6 +1,6 @@
 {
 "char": "叔",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "father's younger brother",
 "pron": "shū"
@@ -8,12 +8,18 @@
 "words": [
 [
 "叔叔",
-3,
+4,
 "shū shu",
-"father's younger brother; uncle; Taiwan pr. [shu2 shu5]; CL:個|个[ge4]"
+"father's younger brother; uncle; Taiwan pr. [shu2 shu5]; CL:个[gè]"
 ]
 ],
 "extraWords": [
+[
+"叔",
+29.31,
+"shū",
+"uncle; father's younger brother; husband's younger brother; Taiwan pr. [shu2]"
+],
 [
 "大叔",
 15.68,

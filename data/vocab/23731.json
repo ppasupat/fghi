@@ -1,19 +1,50 @@
 {
 "char": "岳",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "mountain peak; surname",
 "pron": "yuè"
 },
 "words": [
 [
+"岳父",
+7,
+"yuè fù",
+"wife's father, father-in-law"
+],
+[
 "岳母",
-6,
+7,
 "yuè mǔ",
 "wife's mother, mother-in-law"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"岳",
+7.42,
+"Yuè",
+"surname Yue"
+],
+[
+"岳",
+7.42,
+"yuè",
+"wife's parents and paternal uncles"
+],
+[
+"岳",
+7.42,
+"Yuè",
+"surname Yue"
+],
+[
+"岳",
+7.42,
+"yuè",
+"high mountain; highest peak of a mountain ridge"
+]
+],
 "strokes": [
 "M 389 659 Q 494 701 565 747 Q 608 771 647 784 Q 665 787 668 796 Q 669 806 656 817 Q 632 830 585 842 Q 569 848 555 845 Q 548 841 549 829 Q 550 790 375 676 C 350 660 361 648 389 659 Z",
 "M 390 601 Q 389 629 391 640 Q 391 650 389 659 C 388 666 388 666 375 676 Q 353 694 324 700 Q 309 704 300 698 Q 293 691 300 676 Q 324 636 336 593 Q 345 550 366 377 C 370 347 411 352 408 382 Q 398 484 393 551 Q 392 569 391 582 L 390 601 Z",

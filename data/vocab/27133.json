@@ -1,11 +1,30 @@
 {
 "char": "槽",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "trough; manger; vat, tank; groove; a distillery",
 "pron": "cáo"
 },
-"words": [],
+"words": [
+[
+"槽",
+7,
+"cáo",
+"trough; manger; groove; channel; (Tw) (computing) hard drive"
+],
+[
+"水槽",
+7,
+"shuǐ cáo",
+"sink"
+],
+[
+"跳槽",
+7,
+"tiào cáo",
+"to change jobs; job-hopping"
+]
+],
 "extraWords": [
 [
 "插槽",

@@ -1,102 +1,126 @@
 {
 "char": "确",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "sure, certain; real, true",
 "pron": "què"
 },
 "words": [
 [
-"确实",
-4,
-"què shí",
-"indeed; really; reliable; real; true"
-],
-[
 "正确",
-4,
+2,
 "zhèng què",
 "correct; proper"
 ],
 [
 "准确",
-4,
+2,
 "zhǔn què",
 "accurate; exact; precise"
 ],
 [
-"确定",
-5,
-"què dìng",
-"definite; certain; fixed; to fix (on sth); to determine; to be sure; to ensure; to make certain; to ascertain; to clinch; to recognize; to confirm; OK (on computer dialog box)"
-],
-[
-"的确",
-5,
-"dí què",
-"really; indeed"
-],
-[
-"确认",
-5,
-"què rèn",
-"to confirm; to verify; confirmation"
-],
-[
 "明确",
-5,
+3,
 "míng què",
 "clear-cut; definite; explicit; to clarify; to specify; to make definite"
 ],
 [
 "确保",
-6,
+3,
 "què bǎo",
 "to ensure; to guarantee"
 ],
 [
-"确信",
-6,
-"què xìn",
-"to be convinced; to be sure; to firmly believe; to be positive that; definite news"
+"确定",
+3,
+"què dìng",
+"definite; certain; fixed; to fix (on sth); to determine; to be sure; to ensure; to make certain; to ascertain; to clinch; to recognize; to confirm; OK (on computer dialog box)"
 ],
 [
-"确切",
-6,
-"què qiè",
-"definite; exact; precise"
+"确实",
+3,
+"què shí",
+"indeed; really; reliable; real; true"
+],
+[
+"的确",
+4,
+"dí què",
+"really; indeed"
+],
+[
+"确认",
+4,
+"què rèn",
+"to confirm; to verify; confirmation"
+],
+[
+"确立",
+5,
+"què lì",
+"to establish; to institute"
 ],
 [
 "精确",
-6,
+7,
 "jīng què",
 "accurate; precise"
 ],
 [
-"确立",
-6,
-"què lì",
-"to establish; to institute"
+"确切",
+7,
+"què qiè",
+"definite; exact; precise"
+],
+[
+"确信",
+7,
+"què xìn",
+"to be convinced; to be sure; to firmly believe; to be positive that; definite news"
+],
+[
+"确凿",
+7,
+"què záo",
+"definite; conclusive; undeniable; authentic; also pr. [que4 zuo4]"
+],
+[
+"确诊",
+7,
+"què zhěn",
+"to make a definite diagnosis; confirmed (case of a specific disease)"
 ]
 ],
 "extraWords": [
 [
-"确诊",
-11.79,
-"què zhěn",
-"to make a definite diagnosis; confirmed (case of a specific disease)"
+"确",
+23.15,
+"què",
+"variant of 确[què]; variant of 埆[què]"
+],
+[
+"确",
+23.15,
+"què",
+"authenticated; solid; firm; real; true"
+],
+[
+"不确定",
+8.75,
+"???",
+"???"
+],
+[
+"不确定性",
+6.5,
+"???",
+"???"
 ],
 [
 "准确性",
 5.7,
 "zhǔn què xìng",
 "accuracy"
-],
-[
-"确凿",
-5.54,
-"què záo",
-"definite; conclusive; undeniable; authentic; also pr. [que4 zuo4]"
 ]
 ],
 "strokes": [

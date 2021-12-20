@@ -1,6 +1,6 @@
 {
 "char": "目",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "eye; look, see; division, topic",
 "pron": "mù"
@@ -8,69 +8,51 @@
 "words": [
 [
 "节目",
-3,
+2,
 "jié mù",
-"program; item (on a program); CL:臺|台[tai2],個|个[ge4],套[tao4]"
+"program; item (on a program); CL:台[tái],个[gè],套[tào]"
 ],
 [
 "目的",
-4,
+2,
 "mù dì",
-"purpose; aim; goal; target; objective; CL:個|个[ge4]"
+"purpose; aim; goal; target; objective; CL:个[gè]"
 ],
 [
 "目标",
-5,
+3,
 "mù biāo",
-"target; goal; objective; CL:個|个[ge4]"
+"target; goal; objective; CL:个[gè]"
 ],
 [
 "目前",
-5,
+3,
 "mù qián",
 "at the present time; currently"
 ],
 [
-"项目",
-5,
-"xiàng mù",
-"item; project; (sports) event; CL:個|个[ge4]"
-],
-[
-"目录",
-5,
-"mù lù",
-"catalog; table of contents; directory (on computer hard drive); list; contents"
-],
-[
 "题目",
-5,
+3,
 "tí mù",
-"subject; title; topic; CL:個|个[ge4]"
+"subject; title; topic; CL:个[gè]"
 ],
 [
-"目睹",
-6,
-"mù dǔ",
-"to witness; to see at first hand; to see with one's own eyes"
+"项目",
+4,
+"xiàng mù",
+"item; project; (sports) event; CL:个[gè]"
 ],
 [
 "目光",
-6,
+5,
 "mù guāng",
 "sight; vision; view; gaze; look"
 ],
 [
-"盲目",
-6,
-"máng mù",
-"blind; blindly; ignorant; lacking understanding"
-],
-[
-"科目",
-6,
-"kē mù",
-"academic subject; field of study"
+"数目",
+5,
+"shù mù",
+"amount; number"
 ],
 [
 "栏目",
@@ -79,36 +61,138 @@
 "regular column or segment (in a publication or broadcast program); program (TV or radio)"
 ],
 [
-"一目了然",
-6,
-"yī mù liǎo rán",
-"obvious at a glance (idiom)"
+"触目惊心",
+7,
+"chù mù jīng xīn",
+"lit. shocks the eye, astonishes the heart (idiom); shocking; horrible to see; a ghastly sight"
 ],
 [
-"一目了然",
-6,
-"yī mù liǎo rán",
-"obvious at a glance (idiom)"
+"耳目一新",
+7,
+"ěr mù yī xīn",
+"a pleasant change; a breath of fresh air; refreshing"
+],
+[
+"耳闻目睹",
+7,
+"ěr wén mù dǔ",
+"to witness personally"
 ],
 [
 "举世瞩目",
-6,
+7,
 "jǔ shì zhǔ mù",
 "to receive worldwide attention"
+],
+[
+"剧目",
+7,
+"jù mù",
+"theatrical piece (play or opera); repertoire; list of plays or operas"
+],
+[
+"科目",
+7,
+"kē mù",
+"academic subject; field of study"
+],
+[
+"盲目",
+7,
+"máng mù",
+"blind; blindly; ignorant; lacking understanding"
+],
+[
+"面目全非",
+7,
+"miàn mù quán fēi",
+"nothing remains the same (idiom); change beyond recognition"
+],
+[
+"目不转睛",
+7,
+"mù bù zhuǎn jīng",
+"unable to take one's eyes off (idiom); to gaze steadily; to stare"
+],
+[
+"目瞪口呆",
+7,
+"mù dèng kǒu dāi",
+"dumbstruck (idiom); stupefied; stunned"
+],
+[
+"目的地",
+7,
+"mù dì dì",
+"destination (location)"
+],
+[
+"目睹",
+7,
+"mù dǔ",
+"to witness; to see at first hand; to see with one's own eyes"
+],
+[
+"目录",
+7,
+"mù lù",
+"catalog; table of contents; directory (on computer hard drive); list; contents"
+],
+[
+"目中无人",
+7,
+"mù zhōng wú rén",
+"to consider everyone else beneath one (idiom); so arrogant that no-one else matters; condescending; to go about with one's nose in the air"
+],
+[
+"心目",
+7,
+"xīn mù",
+"mind"
+],
+[
+"醒目",
+7,
+"xǐng mù",
+"eye-grabbing (headline); striking (illustration)"
+],
+[
+"一目了然",
+7,
+"yī mù liǎo rán",
+"obvious at a glance (idiom)"
+],
+[
+"一目了然",
+7,
+"yī mù liǎo rán",
+"obvious at a glance (idiom)"
+],
+[
+"引人注目",
+7,
+"yǐn rén zhù mù",
+"to attract attention; eye-catching; conspicuous"
+],
+[
+"瞩目",
+7,
+"zhǔ mù",
+"to focus attention upon"
 ]
 ],
 "extraWords": [
+[
+"目",
+56.52,
+"mù",
+"eye; item; section; list; catalogue; table of contents; order (taxonomy); goal; name; title"
+],
 [
 "目击",
 18.27,
 "mù jī",
 "to see with one's own eyes; to witness"
-],
-[
-"心目",
-18.15,
-"xīn mù",
-"mind"
 ],
 [
 "目击者",
@@ -117,34 +201,10 @@
 "eyewitness"
 ],
 [
-"数目",
-11.91,
-"shù mù",
-"amount; number"
-],
-[
-"目的地",
-11.13,
-"mù dì dì",
-"destination (location)"
-],
-[
-"瞩目",
-8.71,
-"zhǔ mù",
-"to focus attention upon"
-],
-[
-"引人注目",
-8.6,
-"yǐn rén zhù mù",
-"to attract attention; eye-catching; conspicuous"
-],
-[
-"醒目",
-7.39,
-"xǐng mù",
-"eye-grabbing (headline); striking (illustration)"
+"截至目前",
+8.31,
+"???",
+"???"
 ],
 [
 "电视节目",

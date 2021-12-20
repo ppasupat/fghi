@@ -1,6 +1,6 @@
 {
 "char": "枪",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "spear, lance; gun, rifle",
 "pron": "qiāng"
@@ -16,33 +16,39 @@
 "枪",
 5,
 "qiāng",
-"gun; firearm; rifle; spear; thing with shape or function similar to a gun; CL:支[zhi1],把[ba3],桿|杆[gan3],條|条[tiao2],枝[zhi1]; to substitute for another person in a test; to knock; classifier for rifle shots"
+"gun; firearm; rifle; spear; thing with shape or function similar to a gun; CL:支[zhī],把[bǎ],杆[gǎn],条[tiáo],枝[zhī]; to substitute for another person in a test; to knock; classifier for rifle shots"
 ],
 [
 "枪",
 5,
 "qiāng",
-"variant of 槍|枪[qiang1]; rifle; spear"
-]
+"variant of 枪[qiāng]; rifle; spear"
 ],
-"extraWords": [
 [
 "开枪",
-130.12,
+7,
 "kāi qiāng",
 "to open fire; to shoot a gun"
 ],
+[
+"枪毙",
+7,
+"qiāng bì",
+"to execute by firing squad; to shoot dead; fig. to discard; to get rid of"
+],
+[
+"手枪",
+7,
+"shǒu qiāng",
+"pistol; CL:把[bǎ]"
+]
+],
+"extraWords": [
 [
 "枪击",
 20.6,
 "qiāng jī",
 "to shoot with a gun; shooting incident"
-],
-[
-"手枪",
-18.39,
-"shǒu qiāng",
-"pistol; CL:把[ba3]"
 ],
 [
 "枪杀",
@@ -69,10 +75,16 @@
 "gunman; sharpshooter; sb who takes an exam for sb else; sb who produces a piece of work for sb else to pass off as their own"
 ],
 [
+"持枪",
+8.05,
+"???",
+"???"
+],
+[
 "步枪",
 6.86,
 "bù qiāng",
-"rifle; CL:把[ba3],枝[zhi1]"
+"rifle; CL:把[bǎ],枝[zhī]"
 ],
 [
 "金枪鱼",

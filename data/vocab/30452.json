@@ -1,6 +1,6 @@
 {
 "char": "直",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "straight, erect, vertical",
 "pron": "zhí"
@@ -8,89 +8,143 @@
 "words": [
 [
 "一直",
-3,
+2,
 "yī zhí",
 "straight (in a straight line); continuously; always; from the beginning of ... up to ...; all along"
 ],
 [
 "直接",
-4,
+2,
 "zhí jiē",
-"direct (opposite: indirect 間接|间接[jian4 jie1]); immediate; straightforward"
-],
-[
-"直",
-5,
-"Zhí",
-"surname Zhi; Zhi (c. 2000 BC), fifth of the legendary Flame Emperors 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God"
-],
-[
-"直",
-5,
-"zhí",
-"straight; to straighten; fair and reasonable; frank; straightforward; (indicates continuing motion or action); vertical; vertical downward stroke in Chinese characters"
+"direct (opposite: indirect 间接[jiàn jiē]); immediate; straightforward"
 ],
 [
 "简直",
-5,
+3,
 "jiǎn zhí",
 "simply; at all; practically"
 ],
 [
+"直",
+3,
+"Zhí",
+"surname Zhi; Zhi (c. 2000 BC), fifth of the legendary Flame Emperors 炎帝[Yán dì] descended from Shennong 神农[Shén nóng] Farmer God"
+],
+[
+"直",
+3,
+"zhí",
+"straight; to straighten; fair and reasonable; frank; straightforward; (indicates continuing motion or action); vertical; vertical downward stroke in Chinese characters"
+],
+[
 "直播",
-6,
+3,
 "zhí bō",
 "(TV, radio) to broadcast live; live broadcast; (Internet) to livestream; (agriculture) direct seeding"
 ],
 [
-"垂直",
-6,
-"chuí zhí",
-"perpendicular; vertical"
-],
-[
-"直径",
-6,
-"zhí jìng",
-"diameter"
-],
-[
-"理直气壮",
-6,
-"lǐ zhí qì zhuàng",
-"in the right and self-confident (idiom); bold and confident with justice on one's side; to have the courage of one's convictions; just and forceful"
-]
-],
-"extraWords": [
-[
 "直到",
-145.05,
+3,
 "zhí dào",
 "until"
 ],
 [
+"直线",
+5,
+"zhí xiàn",
+"straight line; sharply (rise or fall)"
+],
+[
 "直升机",
-27.84,
+6,
 "zhí shēng jī",
-"helicopter; CL:架[jia4]"
+"helicopter; CL:架[jià]"
+],
+[
+"耿直",
+7,
+"gěng zhí",
+"honest; frank; candid"
+],
+[
+"理直气壮",
+7,
+"lǐ zhí qì zhuàng",
+"in the right and self-confident (idiom); bold and confident with justice on one's side; to have the courage of one's convictions; just and forceful"
+],
+[
+"勇往直前",
+7,
+"yǒng wǎng zhí qián",
+"to advance bravely"
+],
+[
+"正直",
+7,
+"zhèng zhí",
+"upright; upstanding; honest"
+],
+[
+"直奔",
+7,
+"zhí bèn",
+"to go straight to; to make a beeline for"
+],
+[
+"直达",
+7,
+"zhí dá",
+"to go nonstop to; through (as in \"through train\"); nonstop"
+],
+[
+"直观",
+7,
+"zhí guān",
+"direct observation; directly perceived through the senses; intuitive; audiovisual"
+],
+[
+"直径",
+7,
+"zhí jìng",
+"diameter"
 ],
 [
 "直觉",
-21.64,
+7,
 "zhí jué",
 "intuition"
 ],
 [
-"直至",
-18.35,
-"zhí zhì",
-"lasting until; up till (the present)"
+"直视",
+7,
+"zhí shì",
+"to look straight at"
 ],
 [
-"直线",
-11.09,
-"zhí xiàn",
-"straight line; sharply (rise or fall)"
+"直至",
+7,
+"zhí zhì",
+"lasting until; up till (the present)"
+]
+],
+"extraWords": [
+[
+"直播员",
+41.43,
+"???",
+"???"
+],
+[
+"直说",
+16.07,
+"???",
+"???"
+],
+[
+"垂直",
+11.6,
+"chuí zhí",
+"perpendicular; vertical"
 ],
 [
 "直销",
@@ -99,34 +153,16 @@
 "to sell directly; direct sale (by a factory); direct marketing"
 ],
 [
-"正直",
-9.63,
-"zhèng zhí",
-"upright; upstanding; honest"
-],
-[
 "直辖市",
 8.3,
 "zhí xiá shì",
 "municipality, namely: Beijing 北京, Tianjin 天津, Shanghai 上海 and Chongqing 重慶|重庆, the first level administrative subdivision; province level city; also called directly governed city"
 ],
 [
-"直观",
-7.24,
-"zhí guān",
-"direct observation; directly perceived through the senses; intuitive; audiovisual"
-],
-[
 "直属",
 7.03,
 "zhí shǔ",
 "directly subordinate"
-],
-[
-"直奔",
-6.24,
-"zhí bèn",
-"to go straight to; to make a beeline for"
 ],
 [
 "直言",
@@ -138,13 +174,7 @@
 "直升飞机",
 5.16,
 "zhí shēng fēi jī",
-"see 直升機|直升机[zhi2 sheng1 ji1]"
-],
-[
-"直达",
-5.02,
-"zhí dá",
-"to go nonstop to; through (as in \"through train\"); nonstop"
+"see 直升机[zhí shēng jī]"
 ]
 ],
 "strokes": [

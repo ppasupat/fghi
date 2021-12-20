@@ -1,28 +1,46 @@
 {
 "char": "纯",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "pure, clean, simple",
 "pron": "chún"
 },
 "words": [
 [
+"纯",
+4,
+"chún",
+"pure; simple; unmixed; genuine"
+],
+[
+"纯净水",
+4,
+"chún jìng shuǐ",
+"purified water"
+],
+[
 "单纯",
-5,
+4,
 "dān chún",
 "simple; pure; unsophisticated; merely; purely"
 ],
 [
 "纯粹",
-6,
+7,
 "chún cuì",
 "pure; unadulterated; purely; completely"
 ],
 [
 "纯洁",
-6,
+7,
 "chún jié",
 "pure; clean and honest; to purify"
+],
+[
+"纯朴",
+7,
+"chún pǔ",
+"variant of 淳朴[chún pǔ]"
 ]
 ],
 "extraWords": [
@@ -49,6 +67,12 @@
 5.73,
 "qīng chún",
 "fresh and pure"
+],
+[
+"纯收入",
+5.21,
+"???",
+"???"
 ]
 ],
 "strokes": [

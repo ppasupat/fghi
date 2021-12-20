@@ -1,36 +1,36 @@
 {
 "char": "凝",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "coagulate; congeal; freeze",
 "pron": "níng"
 },
 "words": [
 [
-"凝视",
-6,
-"níng shì",
-"to gaze at; to fix one's eyes on"
+"混凝土",
+7,
+"hùn níng tǔ",
+"concrete"
 ],
 [
 "凝固",
-6,
+7,
 "níng gù",
 "to freeze; to solidify; to congeal; fig. with rapt attention"
 ],
 [
 "凝聚",
-6,
+7,
 "níng jù",
 "to condense; to coagulate; coacervation (i.e. form tiny droplets); aggregation; coherent"
 ]
 ],
 "extraWords": [
 [
-"混凝土",
-12.77,
-"hùn níng tǔ",
-"concrete"
+"凝",
+19.5,
+"níng",
+"to congeal; to concentrate attention; to stare"
 ],
 [
 "凝聚力",

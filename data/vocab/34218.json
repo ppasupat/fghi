@@ -1,6 +1,6 @@
 {
 "char": "薪",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "fuel, firewood; salary",
 "pron": "xīn"
@@ -11,20 +11,26 @@
 6,
 "xīn shuǐ",
 "salary; wage"
+],
+[
+"年薪",
+7,
+"nián xīn",
+"annual salary"
 ]
 ],
 "extraWords": [
+[
+"薪",
+21.11,
+"xīn",
+"fuel; salary"
+],
 [
 "月薪",
 8.5,
 "yuè xīn",
 "monthly income (in kind)"
-],
-[
-"年薪",
-7.47,
-"nián xīn",
-"annual salary"
 ]
 ],
 "strokes": [

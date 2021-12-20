@@ -1,20 +1,32 @@
 {
 "char": "土",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "soil, earth; items made of earth",
 "pron": "tǔ"
 },
 "words": [
 [
-"土地",
-5,
-"tǔ dì",
-"land; soil; territory; CL:片[pian4],塊|块[kuai4]"
+"土",
+3,
+"Tǔ",
+"Tu (ethnic group); surname Tu"
+],
+[
+"土",
+3,
+"tǔ",
+"earth; dust; clay; local; indigenous; crude opium; unsophisticated; one of the eight categories of ancient musical instruments 八音[bā yīn]"
 ],
 [
 "土地",
-5,
+4,
+"tǔ dì",
+"land; soil; territory; CL:片[piàn],块[kuài]"
+],
+[
+"土地",
+4,
 "tǔ di",
 "local god; genius loci"
 ],
@@ -22,63 +34,69 @@
 "土豆",
 5,
 "tǔ dòu",
-"potato; CL:個|个[ge4]; (Tw) peanut; CL:顆|颗[ke1]"
+"potato; CL:个[gè]; (Tw) peanut; CL:颗[kē]"
 ],
-[
-"领土",
-6,
-"lǐng tǔ",
-"territory"
-],
-[
-"土壤",
-6,
-"tǔ rǎng",
-"soil"
-],
-[
-"风土人情",
-6,
-"fēng tǔ rén qíng",
-"local conditions and customs (idiom)"
-]
-],
-"extraWords": [
 [
 "本土",
-21.23,
+6,
 "běn tǔ",
 "one's native country; native; local; metropolitan territory"
 ],
 [
+"出土",
+7,
+"chū tǔ",
+"to dig up; to appear in an excavation; unearthed; to come up out of the ground"
+],
+[
 "国土",
-16.74,
+7,
 "guó tǔ",
 "country's territory; national land"
 ],
 [
 "混凝土",
-12.77,
+7,
 "hùn níng tǔ",
 "concrete"
 ],
+[
+"领土",
+7,
+"lǐng tǔ",
+"territory"
+],
+[
+"泥土",
+7,
+"ní tǔ",
+"earth; soil; mud; clay"
+],
+[
+"土匪",
+7,
+"tǔ fěi",
+"bandit"
+],
+[
+"土壤",
+7,
+"tǔ rǎng",
+"soil"
+],
+[
+"土生土长",
+7,
+"tǔ shēng tǔ zhǎng",
+"locally born and bred; indigenous; home-grown"
+]
+],
+"extraWords": [
 [
 "土耳其",
 12.58,
 "Tǔ ěr qí",
 "Turkey"
-],
-[
-"出土",
-6.33,
-"chū tǔ",
-"to dig up; to appear in an excavation; unearthed; to come up out of the ground"
-],
-[
-"泥土",
-6.11,
-"ní tǔ",
-"earth; soil; mud; clay"
 ],
 [
 "国土资源部",

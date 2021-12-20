@@ -1,17 +1,30 @@
 {
 "char": "缸",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "earthen jug, crock, cistern",
 "pron": "gāng"
 },
-"words": [],
+"words": [
+[
+"缸",
+7,
+"gāng",
+"jar; vat; classifier for loads of laundry; CL:口[kǒu]"
+]
+],
 "extraWords": [
 [
 "浴缸",
 12.52,
 "yù gāng",
 "bathtub"
+],
+[
+"烟灰缸",
+2.59,
+"yān huī gāng",
+"ashtray"
 ]
 ],
 "strokes": [

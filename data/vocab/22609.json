@@ -1,11 +1,17 @@
 {
 "char": "塑",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "model in clay, sculpt; plastics",
 "pron": "sù"
 },
 "words": [
+[
+"塑料",
+4,
+"sù liào",
+"plastics; CL:种[zhǒng]"
+],
 [
 "塑料袋",
 4,
@@ -14,23 +20,23 @@
 ],
 [
 "雕塑",
-6,
+7,
 "diāo sù",
 "a statue; a Buddhist image; sculpture; to carve"
 ],
 [
 "塑造",
-6,
+7,
 "sù zào",
 "to model; to mold; (fig.) to create (a character, a market, an image etc); (literature) to portray (in words)"
 ]
 ],
 "extraWords": [
 [
-"塑料",
-21.29,
-"sù liào",
-"plastics; CL:種|种[zhong3]"
+"塑",
+9.76,
+"sù",
+"to model (a figure) in clay"
 ]
 ],
 "strokes": [

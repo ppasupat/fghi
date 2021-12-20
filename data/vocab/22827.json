@@ -1,54 +1,90 @@
 {
 "char": "夫",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "man, male adult, husband; those",
 "pron": "fū"
 },
 "words": [
 [
-"丈夫",
-2,
-"zhàng fu",
-"husband; CL:個|个[ge4]"
-],
-[
-"功夫",
-4,
-"gōng fu",
-"skill; art; kung fu; labor; effort"
-],
-[
 "大夫",
-4,
+3,
 "dà fū",
 "senior official (in imperial China)"
 ],
 [
 "大夫",
-4,
+3,
 "dài fu",
 "doctor; physician"
 ],
 [
-"夫人",
-6,
-"fū ren",
-"lady; madam; Mrs.; CL:位[wei4]"
+"工夫",
+3,
+"gōng fū",
+"(old) laborer"
+],
+[
+"工夫",
+3,
+"gōng fu",
+"period of time (may be months, or mere seconds); spare time; skill; labor; effort"
+],
+[
+"功夫",
+3,
+"gōng fu",
+"skill; art; kung fu; labor; effort"
 ],
 [
 "夫妇",
-6,
+4,
 "fū fù",
-"a (married) couple; husband and wife; CL:對|对[dui4]"
+"a (married) couple; husband and wife; CL:对[duì]"
+],
+[
+"夫妻",
+4,
+"fū qī",
+"husband and wife; married couple"
+],
+[
+"夫人",
+4,
+"fū ren",
+"lady; madam; Mrs.; CL:位[wèi]"
+],
+[
+"丈夫",
+4,
+"zhàng fu",
+"husband; CL:个[gè]"
+],
+[
+"高尔夫球",
+7,
+"gāo ěr fū qiú",
+"golf; golf ball"
+],
+[
+"下功夫",
+7,
+"xià gōng fu",
+"see 下工夫[xià gōng fu]"
 ]
 ],
 "extraWords": [
 [
-"夫妻",
-35.39,
-"fū qī",
-"husband and wife; married couple"
+"夫",
+44.56,
+"fū",
+"husband; man; manual worker; conscripted laborer (old)"
+],
+[
+"夫",
+44.56,
+"fú",
+"(classical) this, that; he, she, they; (exclamatory final particle); (initial particle, introduces an opinion)"
 ],
 [
 "高尔夫",
@@ -67,6 +103,12 @@
 13.77,
 "wèi hūn fū",
 "fiancé"
+],
+[
+"戴夫",
+13.5,
+"???",
+"???"
 ],
 [
 "懦夫",
@@ -93,34 +135,10 @@
 "I (spoken by an old man)"
 ],
 [
-"高尔夫球",
-8.25,
-"gāo ěr fū qiú",
-"golf; golf ball"
-],
-[
 "约瑟夫",
 7.45,
 "Yuē sè fū",
 "Joseph (name)"
-],
-[
-"工夫",
-6.58,
-"gōng fū",
-"(old) laborer"
-],
-[
-"工夫",
-6.58,
-"gōng fu",
-"period of time (may be months, or mere seconds); spare time; skill; labor; effort"
-],
-[
-"下功夫",
-6.37,
-"xià gōng fu",
-"see 下工夫[xia4 gong1 fu5]"
 ],
 [
 "姐夫",

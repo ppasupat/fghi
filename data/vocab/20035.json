@@ -1,23 +1,42 @@
 {
 "char": "乃",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "then; really, indeed; as it turned out, after all; namely",
 "pron": "nǎi"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"乃",
+7,
+"nǎi",
+"to be; thus; so; therefore; then; only; thereupon"
+],
+[
+"乃",
+7,
+"nǎi",
+"variant of 乃[nǎi]"
+],
+[
+"乃",
+7,
+"nǎi",
+"variant of 乃[nǎi]"
+],
 [
 "乃至",
-25.18,
+7,
 "nǎi zhì",
 "and even; to go so far as to"
+]
 ],
+"extraWords": [
 [
 "乃是",
 12.84,
 "nǎi shì",
-"equivalent to either 是[shi4] or 就是[jiu4 shi4]"
+"equivalent to either 是[shì] or 就是[jiù shì]"
 ],
 [
 "木乃伊",

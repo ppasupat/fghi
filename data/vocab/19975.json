@@ -1,6 +1,6 @@
 {
 "char": "万",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "ten thousand; innumerable",
 "pron": "mò, wàn"
@@ -8,39 +8,93 @@
 "words": [
 [
 "万",
-3,
+2,
 "Mò",
-"see 万俟[Mo4 qi2]"
+"see 万俟[Mò qí]"
 ],
 [
 "万",
-3,
+2,
 "Wàn",
 "surname Wan"
 ],
 [
 "万",
-3,
+2,
 "wàn",
 "ten thousand; a great number"
 ],
 [
 "千万",
-4,
+3,
 "qiān wàn",
 "ten million; countless; many; one must by all means"
 ],
 [
 "万一",
-5,
+4,
 "wàn yī",
 "just in case; if by any chance; contingency"
 ],
 [
+"成千上万",
+7,
+"chéng qiān shàng wàn",
+"lit. by the thousands and tens of thousands (idiom); untold numbers; innumerable; thousands upon thousands"
+],
+[
+"鹏程万里",
+7,
+"péng chéng wàn lǐ",
+"the fabled roc flies ten thousand miles (idiom); one's future prospects are brilliant"
+],
+[
+"千变万化",
+7,
+"qiān biàn wàn huà",
+"countless changes; constant permutation"
+],
+[
+"千家万户",
+7,
+"qiān jiā wàn hù",
+"every family (idiom)"
+],
+[
+"千军万马",
+7,
+"qiān jūn wàn mǎ",
+"magnificent army with thousands of men and horses (idiom); impressive display of manpower; all the King's horses and all the King's men"
+],
+[
 "万分",
-6,
+7,
 "wàn fēn",
 "very much; extremely; one ten thousandth part"
+],
+[
+"万古长青",
+7,
+"wàn gǔ cháng qīng",
+"remain fresh; last forever; eternal"
+],
+[
+"万能",
+7,
+"wàn néng",
+"omnipotent; all-purpose; universal"
+],
+[
+"万万",
+7,
+"wàn wàn",
+"absolutely; wholly"
+],
+[
+"万无一失",
+7,
+"wàn wú yī shī",
+"surefire; absolutely safe (idiom)"
 ]
 ],
 "extraWords": [
@@ -57,16 +111,22 @@
 "Long live (the king, the revolution etc)!; Your Majesty; His Majesty"
 ],
 [
+"一百万",
+17.59,
+"???",
+"???"
+],
+[
+"一万",
+14.67,
+"???",
+"???"
+],
+[
 "以防万一",
 12.37,
 "yǐ fáng wàn yī",
 "to guard against the unexpected (idiom); just in case; prepared for any eventualities"
-],
-[
-"成千上万",
-10.4,
-"chéng qiān shàng wàn",
-"lit. by the thousands and tens of thousands (idiom); untold numbers; innumerable; thousands upon thousands"
 ],
 [
 "万科",
@@ -81,12 +141,6 @@
 "all things; all that exists"
 ],
 [
-"万能",
-8.23,
-"wàn néng",
-"omnipotent; all-purpose; universal"
-],
-[
 "十万",
 8.08,
 "shí wàn",
@@ -99,6 +153,18 @@
 "over ten thousand; fig. untold numbers; innumerable; thousands upon thousands"
 ],
 [
+"几百万",
+6.71,
+"???",
+"???"
+],
+[
+"几万",
+6.18,
+"???",
+"???"
+],
+[
 "数万",
 6.17,
 "shù wàn",
@@ -109,6 +175,18 @@
 5.75,
 "yì wàn",
 "millions and millions"
+],
+[
+"几十万",
+5.61,
+"???",
+"???"
+],
+[
+"两百万",
+5.31,
+"???",
+"???"
 ],
 [
 "万事",

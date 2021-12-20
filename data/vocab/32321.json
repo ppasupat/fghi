@@ -1,6 +1,6 @@
 {
 "char": "繁",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "complicated, complex, difficult",
 "pron": "fán, pó"
@@ -14,7 +14,7 @@
 ],
 [
 "频繁",
-6,
+5,
 "pín fán",
 "frequently; often"
 ],
@@ -25,25 +25,44 @@
 "to breed; to reproduce; to propagate"
 ],
 [
-"繁忙",
-6,
-"fán máng",
-"busy; bustling"
-],
-[
 "繁华",
-6,
+7,
 "fán huá",
 "flourishing; bustling"
 ],
 [
+"繁忙",
+7,
+"fán máng",
+"busy; bustling"
+],
+[
 "繁体字",
-6,
+7,
 "fán tǐ zì",
 "traditional Chinese character"
+],
+[
+"繁重",
+7,
+"fán zhòng",
+"heavy; burdensome; heavy-duty; arduous; onerous"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"繁",
+7.03,
+"fán",
+"old variant of 繁[fán]"
+],
+[
+"繁",
+7.03,
+"fán",
+"complicated; many; in great numbers; abbr. for 繁体[fán tǐ], traditional form of Chinese characters"
+]
+],
 "strokes": [
 "M 267 703 Q 282 719 296 737 L 308 756 Q 323 778 337 797 Q 344 807 334 817 Q 301 842 283 840 Q 274 839 276 827 Q 285 764 218 690 Q 203 677 197 665 Q 190 655 202 657 Q 217 660 254 691 L 267 703 Z",
 "M 296 737 Q 330 725 395 737 Q 432 744 475 754 Q 500 760 503 763 Q 510 769 506 775 Q 502 784 479 789 Q 457 793 434 785 Q 406 775 375 767 Q 344 761 308 756 C 278 752 267 746 296 737 Z",

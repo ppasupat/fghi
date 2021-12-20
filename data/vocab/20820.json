@@ -1,19 +1,38 @@
 {
 "char": "兔",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "rabbit, hare",
 "pron": "tù"
 },
 "words": [
 [
-"兔子",
+"兔",
 5,
-"tù zi",
-"hare; rabbit; CL:隻|只[zhi1]"
+"tù",
+"variant of 兔[tù]"
+],
+[
+"兔",
+5,
+"tù",
+"rabbit"
+],
+[
+"守株待兔",
+7,
+"shǒu zhū dài tù",
+"lit. to guard a tree-stump, waiting for rabbits (idiom); to wait idly for opportunities; to trust to chance rather than show initiative"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"兔子",
+23.76,
+"tù zi",
+"hare; rabbit; CL:只[zhī]"
+]
+],
 "strokes": [
 "M 445 732 Q 472 769 498 788 Q 507 797 504 809 Q 503 822 479 845 Q 457 864 440 866 Q 422 866 428 845 Q 435 827 427 812 Q 381 722 289 627 Q 279 620 276 614 Q 272 604 285 605 Q 318 605 430 716 L 445 732 Z",
 "M 489 553 Q 514 575 566 627 Q 615 679 662 707 Q 681 717 670 731 Q 657 744 619 769 Q 601 776 586 766 Q 576 762 494 740 Q 472 736 445 732 C 415 727 408 726 430 716 Q 445 703 506 709 Q 560 722 564 716 Q 568 712 561 700 Q 506 612 474 570 Q 464 557 461 549 C 447 523 467 533 489 553 Z",

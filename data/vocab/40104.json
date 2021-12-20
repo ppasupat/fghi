@@ -1,17 +1,30 @@
 {
 "char": "鲨",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "shark",
 "pron": "shā"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "鲨鱼",
-18.57,
+7,
 "shā yú",
 "shark"
+]
+],
+"extraWords": [
+[
+"鲨",
+6.38,
+"shā",
+"shark"
+],
+[
+"鲸鲨",
+0.12,
+"jīng shā",
+"whale shark"
 ]
 ],
 "strokes": [

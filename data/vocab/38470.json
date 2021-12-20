@@ -1,54 +1,90 @@
 {
 "char": "陆",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "land, continental; army",
 "pron": "liù, lù"
 },
 "words": [
 [
-"陆地",
-5,
-"lù dì",
-"dry land (as opposed to the sea)"
-],
-[
-"陆续",
-5,
-"lù xù",
-"in turn; successively; one after the other; bit by bit"
-],
-[
-"登陆",
-6,
-"dēng lù",
-"to land; to come ashore; to make landfall (of typhoon etc); to log in (frequently used erroneous variant of 登錄|登录[deng1 lu4])"
-]
-],
-"extraWords": [
-[
 "大陆",
-59.03,
+4,
 "Dà lù",
 "mainland China (reference to the PRC)"
 ],
 [
 "大陆",
-59.03,
+4,
 "dà lù",
-"continent; mainland; CL:個|个[ge4],塊|块[kuai4]"
+"continent; mainland; CL:个[gè],块[kuài]"
+],
+[
+"陆地",
+4,
+"lù dì",
+"dry land (as opposed to the sea)"
+],
+[
+"陆续",
+4,
+"lù xù",
+"in turn; successively; one after the other; bit by bit"
 ],
 [
 "陆军",
-10.69,
+6,
 "lù jūn",
 "army; ground forces"
+],
+[
+"登陆",
+7,
+"dēng lù",
+"to land; to come ashore; to make landfall (of typhoon etc); to log in (frequently used erroneous variant of 登录[dēng lù])"
+]
+],
+"extraWords": [
+[
+"陆",
+21.73,
+"Lù",
+"surname Lu"
+],
+[
+"陆",
+21.73,
+"liù",
+"six (banker's anti-fraud numeral)"
+],
+[
+"陆",
+21.73,
+"lù",
+"shore; land; continent"
 ],
 [
 "着陆",
 9.9,
 "zhuó lù",
 "landing; touchdown; to land; to touch down"
+],
+[
+"陆战队",
+8.41,
+"???",
+"???"
+],
+[
+"中国大陆",
+7.94,
+"???",
+"???"
+],
+[
+"陆战",
+5.81,
+"???",
+"???"
 ]
 ],
 "strokes": [

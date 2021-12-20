@@ -1,6 +1,6 @@
 {
 "char": "近",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "near, close; approach; intimate",
 "pron": "jìn"
@@ -14,95 +14,119 @@
 ],
 [
 "最近",
-3,
+2,
 "zuì jìn",
 "recently; soon; nearest"
 ],
 [
-"附近",
+"将近",
 3,
-"fù jìn",
-"(in the) vicinity; nearby; neighboring; next to"
+"jiāng jìn",
+"almost; nearly; close to"
 ],
 [
 "接近",
-5,
+3,
 "jiē jìn",
 "to approach; to get close to"
 ],
 [
+"近期",
+3,
+"jìn qī",
+"near in time; in the near future; very soon; recent"
+],
+[
+"附近",
+4,
+"fù jìn",
+"(in the) vicinity; nearby; neighboring; next to"
+],
+[
 "近代",
-5,
+4,
 "jìn dài",
 "the not-very-distant past; modern times, excluding recent decades; (in the context of Chinese history) the period from the Opium Wars until the May 4th Movement (mid-19th century to 1919); capitalist times (pre-1949)"
 ],
 [
 "近来",
-6,
+5,
 "jìn lái",
 "recently; lately"
 ],
 [
-"将近",
-6,
-"jiāng jìn",
-"almost; nearly; close to"
-],
-[
-"急功近利",
-6,
-"jí gōng jìn lì",
-"seeking instant benefit (idiom); shortsighted vision, looking only for fast return"
-],
-[
-"就近",
-6,
-"jiù jìn",
-"nearby; in a close neighborhood"
-]
-],
-"extraWords": [
-[
-"近日",
-101.14,
-"jìn rì",
-"(in) the past few days; recently; (within) the next few days"
-],
-[
-"近期",
-83.08,
-"jìn qī",
-"near in time; in the near future; very soon; recent"
-],
-[
-"近年来",
-66.25,
-"jìn nián lái",
-"for the past few years"
-],
-[
 "靠近",
-46.71,
+5,
 "kào jìn",
 "near; to approach"
 ],
 [
-"近几年",
-24.17,
-"jìn jǐ nián",
-"in recent years"
+"近日",
+6,
+"jìn rì",
+"(in) the past few days; recently; (within) the next few days"
+],
+[
+"近视",
+6,
+"jìn shì",
+"shortsighted; nearsighted; myopia"
+],
+[
+"逼近",
+7,
+"bī jìn",
+"to press on towards; to close in on; to approach; to draw near"
+],
+[
+"近年来",
+7,
+"jìn nián lái",
+"for the past few years"
+],
+[
+"就近",
+7,
+"jiù jìn",
+"nearby; in a close neighborhood"
 ],
 [
 "临近",
-15.44,
+7,
 "lín jìn",
 "close to; approaching"
 ],
 [
 "亲近",
-13.35,
+7,
 "qīn jìn",
 "intimate; to get close to"
+],
+[
+"贴近",
+7,
+"tiē jìn",
+"to press close to; to snuggle close; intimate"
+],
+[
+"远近闻名",
+7,
+"yuǎn jìn wén míng",
+"to be known far and wide; to be well-known"
+],
+[
+"走近",
+7,
+"zǒu jìn",
+"to approach; to draw near to"
+]
+],
+"extraWords": [
+[
+"近几年",
+24.17,
+"jìn jǐ nián",
+"in recent years"
 ],
 [
 "近年",
@@ -111,28 +135,16 @@
 "recent year(s)"
 ],
 [
-"贴近",
-9.57,
-"tiē jìn",
-"to press close to; to snuggle close; intimate"
-],
-[
-"走近",
-7.71,
-"zǒu jìn",
-"to approach; to draw near to"
+"近百",
+10.32,
+"???",
+"???"
 ],
 [
 "相近",
 7.4,
 "xiāng jìn",
 "close; similar to"
-],
-[
-"逼近",
-6.89,
-"bī jìn",
-"to press on towards; to close in on; to approach; to draw near"
 ],
 [
 "近乎",
@@ -147,22 +159,28 @@
 "close range"
 ],
 [
-"近视",
-5.61,
-"jìn shì",
-"shortsighted; nearsighted; myopia"
-],
-[
 "新近",
 5.48,
 "xīn jìn",
 "newly"
 ],
 [
+"近千",
+5.33,
+"???",
+"???"
+],
+[
 "邻近",
 5.29,
 "lín jìn",
 "neighboring; adjacent; near; vicinity"
+],
+[
+"近十",
+5.17,
+"???",
+"???"
 ]
 ],
 "strokes": [

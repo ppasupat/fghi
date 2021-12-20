@@ -1,24 +1,30 @@
 {
 "char": "债",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "debt, loan, liabilities",
 "pron": "zhài"
 },
 "words": [
 [
-"债券",
+"债",
 6,
-"zhài quàn",
-"bond; debenture"
+"zhài",
+"debt; CL:笔[bǐ]"
+],
+[
+"债务",
+7,
+"zhài wù",
+"debt; liability; amount due; indebtedness"
 ]
 ],
 "extraWords": [
 [
-"债务",
-24.69,
-"zhài wù",
-"debt; liability; amount due; indebtedness"
+"债券",
+23.21,
+"zhài quàn",
+"bond; debenture"
 ],
 [
 "国债",

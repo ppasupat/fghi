@@ -1,91 +1,115 @@
 {
 "char": "命",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "life; destiny, fate, luck; an order, instruction",
 "pron": "mìng"
 },
 "words": [
 [
+"命运",
+3,
+"mìng yùn",
+"fate; destiny; CL:个[gè]"
+],
+[
 "生命",
-4,
+3,
 "shēng mìng",
-"life (as the characteristic of living beings); living being; creature; CL:個|个[ge4],條|条[tiao2]"
+"life (as the characteristic of living beings); living being; creature; CL:个[gè],条[tiáo]"
 ],
 [
 "命令",
 5,
 "mìng lìng",
-"order; command; CL:道[dao4],個|个[ge4]"
+"order; command; CL:道[dào],个[gè]"
 ],
-[
-"命运",
-5,
-"mìng yùn",
-"fate; destiny; CL:個|个[ge4]"
-],
-[
-"寿命",
-5,
-"shòu mìng",
-"life span; life expectancy; lifetime (of a machine)"
-],
-[
-"性命",
-6,
-"xìng mìng",
-"life"
-],
-[
-"使命",
-6,
-"shǐ mìng",
-"mission; long-term task to which one devotes oneself; a calling"
-],
-[
-"拼命",
-6,
-"pīn mìng",
-"to do one's utmost; with all one's might; at all costs; (to work or fight) as if one's life depends on it"
-],
-[
-"命名",
-6,
-"mìng míng",
-"to give a name to; to dub; to christen; to designate; named after; naming"
-],
-[
-"革命",
-6,
-"gé mìng",
-"to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning); revolution; revolutionary; to revolt (against sb or sth); to revolutionize (sth); (separable verb sometimes used in the pattern 革noun的命); CL:次[ci4]"
-],
-[
-"要命",
-6,
-"yào mìng",
-"to cause sb's death; very; extremely; frightening; annoying"
-],
-[
-"任命",
-6,
-"rèn mìng",
-"to appoint; (job) appointment; CL:紙|纸[zhi3]"
-]
-],
-"extraWords": [
 [
 "救命",
-64.06,
+6,
 "jiù mìng",
 "to save sb's life; (interj.) Help!; Save me!"
 ],
 [
+"命",
+6,
+"mìng",
+"life; fate; order or command; to assign a name, title etc"
+],
+[
+"革命",
+7,
+"gé mìng",
+"to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning); revolution; revolutionary; to revolt (against sb or sth); to revolutionize (sth); (separable verb sometimes used in the pattern 革noun的命); CL:次[cì]"
+],
+[
+"命名",
+7,
+"mìng míng",
+"to give a name to; to dub; to christen; to designate; named after; naming"
+],
+[
+"命题",
+7,
+"mìng tí",
+"proposition (logic, math.); to assign an essay topic"
+],
+[
+"拼命",
+7,
+"pīn mìng",
+"to do one's utmost; with all one's might; at all costs; (to work or fight) as if one's life depends on it"
+],
+[
+"任命",
+7,
+"rèn mìng",
+"to appoint; (job) appointment; CL:纸[zhǐ]"
+],
+[
+"生命线",
+7,
+"shēng mìng xiàn",
+"lifeline"
+],
+[
+"使命",
+7,
+"shǐ mìng",
+"mission; long-term task to which one devotes oneself; a calling"
+],
+[
+"寿命",
+7,
+"shòu mìng",
+"life span; life expectancy; lifetime (of a machine)"
+],
+[
+"相依为命",
+7,
+"xiāng yī wéi mìng",
+"mutually dependent for life (idiom); to rely upon one another for survival; interdependent"
+],
+[
+"性命",
+7,
+"xìng mìng",
+"life"
+],
+[
+"要命",
+7,
+"yào mìng",
+"to cause sb's death; very; extremely; frightening; annoying"
+],
+[
 "致命",
-26.89,
+7,
 "zhì mìng",
 "fatal; mortal; deadly; to sacrifice one's life"
+]
 ],
+"extraWords": [
 [
 "待命",
 15.5,
@@ -117,12 +141,6 @@
 "to hit (a target)"
 ],
 [
-"命题",
-9.38,
-"mìng tí",
-"proposition (logic, math.); to assign an essay topic"
-],
-[
 "生命力",
 8.4,
 "shēng mìng lì",
@@ -150,7 +168,7 @@
 "人命",
 5.31,
 "rén mìng",
-"human life; CL:條|条[tiao2]"
+"human life; CL:条[tiáo]"
 ],
 [
 "没命",

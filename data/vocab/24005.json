@@ -1,17 +1,30 @@
 {
 "char": "巅",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "summit of mountain, mountain top",
 "pron": "diān"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "巅峰",
-5.44,
+7,
 "diān fēng",
 "summit; apex; pinnacle (of one's career etc); peak (of a civilization etc)"
+]
+],
+"extraWords": [
+[
+"巅",
+1.91,
+"diān",
+"summit"
+],
+[
+"山巅",
+0.5,
+"shān diān",
+"summit"
 ]
 ],
 "strokes": [

@@ -1,22 +1,40 @@
 {
 "char": "闷",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "gloomy, depressed, melancholy",
 "pron": "mēn, mèn"
 },
 "words": [
 [
-"纳闷儿",
-6,
-"nà mèn r5",
-"erhua variant of 納悶|纳闷[na4 men4]"
-],
-[
 "沉闷",
-6,
+7,
 "chén mèn",
 "oppressive (of weather); heavy; depressed; not happy; (of sound) dull; muffled"
+],
+[
+"烦闷",
+7,
+"fán mèn",
+"moody; gloomy"
+],
+[
+"闷",
+7,
+"mēn",
+"stuffy; shut indoors; to smother; to cover tightly"
+],
+[
+"闷",
+7,
+"mèn",
+"bored; depressed; melancholy; sealed; airtight; tightly closed"
+],
+[
+"纳闷儿",
+7,
+"nà mèn r5",
+"erhua variant of 纳闷[nà mèn]"
 ]
 ],
 "extraWords": [

@@ -1,6 +1,6 @@
 {
 "char": "溶",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "to melt, dissolve; overflowing with",
 "pron": "róng"
@@ -8,7 +8,7 @@
 "words": [
 [
 "溶解",
-6,
+7,
 "róng jiě",
 "to dissolve"
 ]
@@ -19,6 +19,12 @@
 14.2,
 "róng yè",
 "solution (chemistry)"
+],
+[
+"溶",
+14.19,
+"róng",
+"to dissolve; soluble"
 ]
 ],
 "strokes": [

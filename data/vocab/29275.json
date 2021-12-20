@@ -1,6 +1,6 @@
 {
 "char": "牛",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "cow, ox, bull; KangXi radical93",
 "pron": "niú"
@@ -8,19 +8,37 @@
 "words": [
 [
 "牛奶",
-2,
+1,
 "niú nǎi",
-"cow's milk; CL:瓶[ping2],杯[bei1]"
+"cow's milk; CL:瓶[píng],杯[bēi]"
+],
+[
+"牛",
+3,
+"Niú",
+"surname Niu"
+],
+[
+"牛",
+3,
+"niú",
+"ox; cow; bull; CL:条[tiáo],头[tóu]; newton (abbr. for 牛顿[niú dùn]); (slang) awesome"
 ],
 [
 "牛仔裤",
 5,
 "niú zǎi kù",
-"jeans; CL:條|条[tiao2]"
+"jeans; CL:条[tiáo]"
+],
+[
+"奶牛",
+6,
+"nǎi niú",
+"milk cow; dairy cow"
 ],
 [
 "吹牛",
-6,
+7,
 "chuī niú",
 "to talk big; to shoot off one's mouth; to chat (dialect)"
 ]
@@ -61,12 +79,6 @@
 10.03,
 "niú shì",
 "bull market"
-],
-[
-"奶牛",
-7.58,
-"nǎi niú",
-"milk cow; dairy cow"
 ],
 [
 "牛皮",

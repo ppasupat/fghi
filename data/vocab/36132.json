@@ -1,19 +1,32 @@
 {
 "char": "贤",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "virtuous, worthy, good; able",
 "pron": "xián"
 },
 "words": [
 [
-"贤惠",
-6,
-"xián huì",
-"variant of 賢慧|贤慧[xian2 hui4]"
+"圣贤",
+7,
+"shèng xián",
+"a sage; wise and holy man; virtuous ruler; Buddhist lama; wine"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"贤",
+15.82,
+"xián",
+"worthy or virtuous person; honorific used for a person of the same or a younger generation"
+],
+[
+"贤惠",
+2.78,
+"xián huì",
+"variant of 贤慧[xián huì]"
+]
+],
 "strokes": [
 "M 215 702 Q 239 657 235 523 Q 232 496 257 469 Q 266 460 274 471 Q 287 496 283 564 Q 279 642 282 680 Q 286 699 267 709 Q 230 727 218 721 Q 211 714 215 702 Z",
 "M 376 487 Q 382 466 387 458 Q 391 452 398 455 Q 405 458 409 471 Q 415 493 416 684 Q 416 744 420 764 Q 423 779 411 787 Q 366 814 346 802 Q 339 795 345 786 Q 357 768 364 679 Q 368 522 376 487 Z",

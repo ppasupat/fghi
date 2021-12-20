@@ -1,6 +1,6 @@
 {
 "char": "困",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "to surround, besiege; to be surrounded; difficult",
 "pron": "kùn"
@@ -8,49 +8,48 @@
 "words": [
 [
 "困",
-4,
+3,
 "kùn",
 "to trap; to surround; hard-pressed; stranded; destitute"
 ],
 [
 "困",
-4,
+3,
 "kùn",
 "sleepy; tired"
 ],
 [
 "困难",
-4,
+3,
 "kùn nan",
 "difficult; challenging; straitened circumstances; difficult situation"
+],
+[
+"困扰",
+5,
+"kùn rǎo",
+"to perplex; to disturb; to cause complications"
 ],
 [
 "贫困",
 6,
 "pín kùn",
 "impoverished; poverty"
-]
-],
-"extraWords": [
-[
-"困扰",
-18.21,
-"kùn rǎo",
-"to perplex; to disturb; to cause complications"
-],
-[
-"困境",
-17.82,
-"kùn jìng",
-"predicament; plight"
 ],
 [
 "困惑",
-16.69,
+7,
 "kùn huò",
 "bewildered; perplexed; confused; difficult problem; perplexity"
+],
+[
+"困境",
+7,
+"kùn jìng",
+"predicament; plight"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 246 742 Q 239 749 210 764 Q 198 768 185 765 Q 178 759 183 745 Q 207 657 209 638 Q 209 296 179 172 Q 155 88 195 34 Q 207 19 220 33 Q 232 49 234 67 L 239 111 Q 243 145 243 192 Q 258 661 262 691 Q 262 694 262 695 C 264 725 264 730 246 742 Z",
 "M 719 87 Q 743 56 759 21 Q 769 -3 785 -2 Q 798 -1 808 21 Q 841 73 820 263 Q 802 675 826 710 Q 827 714 831 716 Q 843 731 842 740 Q 841 753 807 776 Q 752 813 737 812 Q 727 812 718 808 Q 700 801 645 792 Q 491 776 305 745 Q 275 741 246 742 C 216 741 233 688 262 695 Q 272 696 286 701 Q 301 705 425 726 Q 582 750 701 757 Q 726 758 733 746 Q 757 718 755 419 Q 756 238 758 194 Q 761 128 743 115 C 732 87 710 100 719 87 Z",

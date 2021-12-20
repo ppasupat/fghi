@@ -1,19 +1,43 @@
 {
 "char": "稿",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "draft, manuscript, rough copy",
 "pron": "gǎo"
 },
 "words": [
 [
-"稿件",
+"稿子",
 6,
-"gǎo jiàn",
-"piece of writing submitted for publication; manuscript; article"
+"gǎo zi",
+"draft of a document; script; manuscript; mental plan; precedent"
+],
+[
+"投稿",
+7,
+"tóu gǎo",
+"to submit articles for publication; to contribute (writing)"
 ]
 ],
 "extraWords": [
+[
+"稿",
+29.1,
+"gǎo",
+"variant of 稿[gǎo]"
+],
+[
+"稿",
+29.1,
+"gǎo",
+"manuscript; draft; stalk of grain"
+],
+[
+"稿件",
+6.1,
+"gǎo jiàn",
+"piece of writing submitted for publication; manuscript; article"
+],
 [
 "发稿",
 5.46,

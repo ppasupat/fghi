@@ -1,19 +1,55 @@
 {
 "char": "伯",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "older brother; father's elder brother; senior male 'sire'; feudal rank 'count'",
 "pron": "bǎi, bó"
 },
 "words": [
 [
+"阿拉伯语",
+7,
+"Ā lā bó yǔ",
+"Arabic (language)"
+],
+[
+"伯伯",
+7,
+"bó bo",
+"father's elder brother; uncle"
+],
+[
+"伯父",
+7,
+"bó fù",
+"father's elder brother; term of respect for older man; CL:个[gè]"
+],
+[
 "伯母",
-6,
+7,
 "bó mǔ",
-"wife of father's elder brother; aunt; (polite form of address for a woman who is about the age of one's mother); CL:個|个[ge4]"
+"wife of father's elder brother; aunt; (polite form of address for a woman who is about the age of one's mother); CL:个[gè]"
 ]
 ],
 "extraWords": [
+[
+"伯",
+24.78,
+"bà",
+"variant of 霸[bà]"
+],
+[
+"伯",
+24.78,
+"bǎi",
+"one hundred (old)"
+],
+[
+"伯",
+24.78,
+"bó",
+"father's elder brother; senior; paternal elder uncle; eldest of brothers; respectful form of address; Count, third of five orders of nobility 五等爵位[wǔ děng jué wèi]"
+],
 [
 "伯爵",
 12.67,
@@ -31,6 +67,12 @@
 8.7,
 "Ā lā bó",
 "Arabian; Arabic; Arab"
+],
+[
+"罗伯",
+6.53,
+"???",
+"???"
 ]
 ],
 "strokes": [

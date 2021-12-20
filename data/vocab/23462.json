@@ -1,12 +1,31 @@
 {
 "char": "宦",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "officialdom, government official",
 "pron": "huàn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"宦",
+1.99,
+"Huàn",
+"surname Huan"
+],
+[
+"宦",
+1.99,
+"huàn",
+"imperial official; court eunuch"
+],
+[
+"宦官",
+1.76,
+"huàn guān",
+"court eunuch"
+]
+],
 "strokes": [
 "M 474 810 Q 501 788 529 763 Q 545 750 563 751 Q 576 752 580 768 Q 584 786 572 819 Q 565 838 532 850 Q 456 871 440 863 Q 434 859 437 844 Q 441 831 474 810 Z",
 "M 263 667 Q 247 694 234 703 Q 212 719 211 689 Q 217 656 186 610 Q 147 568 151 547 Q 151 526 171 487 Q 190 457 211 490 Q 227 518 239 557 Q 252 605 262 632 C 270 655 270 655 263 667 Z",

@@ -1,64 +1,100 @@
 {
 "char": "绝",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "to cut, sever, break off, terminate",
 "pron": "jué"
 },
 "words": [
 [
-"拒绝",
-4,
-"jù jué",
-"to refuse; to decline; to reject"
-],
-[
 "绝对",
-5,
+3,
 "jué duì",
 "absolute; unconditional"
 ],
 [
+"拒绝",
+5,
+"jù jué",
+"to refuse; to decline; to reject"
+],
+[
 "绝望",
-6,
+5,
 "jué wàng",
 "to despair; to give up all hope; desperate; desperation"
 ],
 [
-"断绝",
+"绝",
 6,
-"duàn jué",
-"to sever; to break off"
+"jué",
+"to cut short; extinct; to disappear; to vanish; absolutely; by no means"
 ],
 [
-"滔滔不绝",
+"绝",
 6,
-"tāo tāo bù jué",
-"unceasing torrent (idiom); talking non-stop; gabbling forty to the dozen"
+"jué",
+"variant of 绝[jué]"
 ],
 [
-"谢绝",
+"绝大多数",
 6,
-"xiè jué",
-"to refuse politely"
-],
-[
-"空前绝后",
-6,
-"kōng qián jué hòu",
-"unprecedented and never to be duplicated; the first and the last; unmatched; unique"
+"jué dà duō shù",
+"absolute majority; overwhelming majority"
 ],
 [
 "杜绝",
-6,
+7,
 "dù jué",
 "to put an end to"
 ],
 [
+"绝技",
+7,
+"jué jì",
+"consummate skill; supreme feat; tour-de-force; stunt"
+],
+[
+"绝缘",
+7,
+"jué yuán",
+"to have no contact with; to be cut off from; (electricity) to insulate"
+],
+[
+"绝招",
+7,
+"jué zhāo",
+"unique skill; unexpected tricky move (as a last resort); masterstroke; finishing blow"
+],
+[
 "络绎不绝",
-6,
+7,
 "luò yì bù jué",
 "continuously; in an endless stream (idiom)"
+],
+[
+"灭绝",
+7,
+"miè jué",
+"to extinguish; to become extinct; to die out"
+],
+[
+"滔滔不绝",
+7,
+"tāo tāo bù jué",
+"unceasing torrent (idiom); talking non-stop; gabbling forty to the dozen"
+],
+[
+"赞不绝口",
+7,
+"zàn bù jué kǒu",
+"to praise without cease (idiom); praise sb to high heaven"
+],
+[
+"赞不绝口",
+7,
+"zàn bù jué kǒu",
+"to praise without cease (idiom); praise sb to high heaven"
 ]
 ],
 "extraWords": [
@@ -67,12 +103,6 @@
 57.0,
 "jué bù",
 "in no way; not in the least; absolutely not"
-],
-[
-"绝大多数",
-21.65,
-"jué dà duō shù",
-"absolute majority; overwhelming majority"
 ],
 [
 "绝大部分",
@@ -91,12 +121,6 @@
 5.99,
 "jué miào",
 "exquisite"
-],
-[
-"灭绝",
-5.6,
-"miè jué",
-"to extinguish; to become extinct; to die out"
 ],
 [
 "绝非",

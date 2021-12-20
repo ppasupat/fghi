@@ -1,6 +1,6 @@
 {
 "char": "辖",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "linchpin of wheel; control",
 "pron": "xiá"
@@ -8,7 +8,7 @@
 "words": [
 [
 "管辖",
-6,
+7,
 "guǎn xiá",
 "to administer; to have jurisdiction (over)"
 ]
@@ -25,6 +25,12 @@
 8.3,
 "zhí xiá shì",
 "municipality, namely: Beijing 北京, Tianjin 天津, Shanghai 上海 and Chongqing 重慶|重庆, the first level administrative subdivision; province level city; also called directly governed city"
+],
+[
+"辖",
+7.45,
+"xiá",
+"to govern; to control; having jurisdiction over; linchpin of a wheel (archaic); noise of a barrow"
 ]
 ],
 "strokes": [

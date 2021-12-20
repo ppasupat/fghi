@@ -1,6 +1,6 @@
 {
 "char": "日",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "sun; day; daytime",
 "pron": "rì"
@@ -8,93 +8,261 @@
 "words": [
 [
 "日",
-2,
+1,
 "Rì",
-"abbr. for 日本[Ri4 ben3], Japan"
+"abbr. for 日本[Rì běn], Japan"
 ],
 [
 "日",
-2,
+1,
 "rì",
 "sun; day; date, day of the month"
 ],
 [
+"日期",
+1,
+"rì qī",
+"date; CL:个[gè]"
+],
+[
 "生日",
-2,
+1,
 "shēng rì",
-"birthday; CL:個|个[ge4]"
+"birthday; CL:个[gè]"
+],
+[
+"星期日",
+1,
+"Xīng qī rì",
+"Sunday; CL:个[gè]"
 ],
 [
 "节日",
-3,
+2,
 "jié rì",
-"holiday; festival; CL:個|个[ge4]"
+"holiday; festival; CL:个[gè]"
+],
+[
+"日报",
+2,
+"rì bào",
+"daily newspaper"
+],
+[
+"日子",
+2,
+"rì zi",
+"day; a (calendar) date; days of one's life"
+],
+[
+"日常",
+3,
+"rì cháng",
+"daily; everyday"
 ],
 [
 "日记",
 4,
 "rì jì",
-"diary; CL:則|则[ze2],本[ben3],篇[pian1]"
-],
-[
-"日子",
-5,
-"rì zi",
-"day; a (calendar) date; days of one's life"
-],
-[
-"日期",
-5,
-"rì qī",
-"date; CL:個|个[ge4]"
-],
-[
-"日常",
-5,
-"rì cháng",
-"daily; everyday"
-],
-[
-"日程",
-5,
-"rì chéng",
-"schedule; itinerary; CL:個|个[ge4]"
+"diary; CL:则[zé],本[běn],篇[piān]"
 ],
 [
 "日历",
-5,
+4,
 "rì lì",
-"calendar; CL:張|张[zhang1],本[ben3]"
+"calendar; CL:张[zhāng],本[běn]"
 ],
 [
-"日用品",
+"工作日",
 5,
-"rì yòng pǐn",
-"articles for daily use; CL:件[jian4],個|个[ge4]"
+"gōng zuò rì",
+"workday; working day; weekday"
+],
+[
+"今日",
+5,
+"jīn rì",
+"today"
+],
+[
+"假日",
+6,
+"jià rì",
+"holiday; non-working day"
+],
+[
+"节假日",
+6,
+"jié jià rì",
+"public holiday"
+],
+[
+"近日",
+6,
+"jìn rì",
+"(in) the past few days; recently; (within) the next few days"
+],
+[
+"明日",
+6,
+"míng rì",
+"tomorrow"
+],
+[
+"日夜",
+6,
+"rì yè",
+"day and night; around the clock"
+],
+[
+"日语",
+6,
+"Rì yǔ",
+"Japanese language"
+],
+[
+"次日",
+7,
+"cì rì",
+"next day; the morrow"
+],
+[
+"当日",
+7,
+"dāng rì",
+"on that day"
+],
+[
+"当日",
+7,
+"dàng rì",
+"that very day; the same day"
+],
+[
+"风和日丽",
+7,
+"fēng hé rì lì",
+"moderate wind, beautiful sun (idiom); fine sunny weather, esp. in springtime"
+],
+[
+"改日",
+7,
+"gǎi rì",
+"another day; some other day"
+],
+[
+"过日子",
+7,
+"guò rì zi",
+"to live one's life; to pass one's days; to get along"
+],
+[
+"纪念日",
+7,
+"jì niàn rì",
+"day of commemoration; memorial day"
+],
+[
+"末日",
+7,
+"Mò rì",
+"Judgment Day (in Christian eschatology)"
+],
+[
+"末日",
+7,
+"mò rì",
+"last day; end; final days; doomsday"
+],
+[
+"平日",
+7,
+"píng rì",
+"ordinary day; everyday; ordinarily; usually"
+],
+[
+"日程",
+7,
+"rì chéng",
+"schedule; itinerary; CL:个[gè]"
+],
+[
+"日复一日",
+7,
+"rì fù yī rì",
+"day after day"
+],
+[
+"日后",
+7,
+"rì hòu",
+"sometime; someday (in the future)"
+],
+[
+"日前",
+7,
+"rì qián",
+"the other day; a few days ago"
+],
+[
+"日趋",
+7,
+"rì qū",
+"(increasing) day by day; (more critical) with every passing day; gradually"
+],
+[
+"日新月异",
+7,
+"rì xīn yuè yì",
+"daily renewal, monthly change (idiom); every day sees new developments; rapid progress"
 ],
 [
 "日益",
-6,
+7,
 "rì yì",
 "day by day; more and more; increasingly; more and more with each passing day"
 ],
 [
+"往日",
+7,
+"wǎng rì",
+"former days; the past"
+],
+[
 "昔日",
-6,
+7,
 "xī rì",
 "former days; in the past"
 ],
 [
+"旭日",
+7,
+"xù rì",
+"the rising sun"
+],
+[
+"夜以继日",
+7,
+"yè yǐ jì rì",
+"night and day (idiom); continuous strenuous effort"
+],
+[
+"有朝一日",
+7,
+"yǒu zhāo yī rì",
+"one day; sometime in the future"
+],
+[
 "与日俱增",
-6,
+7,
 "yǔ rì jù zēng",
 "to increase steadily; to grow with each passing day"
 ],
 [
-"日新月异",
-6,
-"rì xīn yuè yì",
-"daily renewal, monthly change (idiom); every day sees new developments; rapid progress"
+"早日",
+7,
+"zǎo rì",
+"soon; shortly; on a day quite soon; promptly"
 ]
 ],
 "extraWords": [
@@ -111,18 +279,6 @@
 "yesterday"
 ],
 [
-"今日",
-126.59,
-"jīn rì",
-"today"
-],
-[
-"近日",
-101.14,
-"jìn rì",
-"(in) the past few days; recently; (within) the next few days"
-],
-[
 "生日快乐",
 48.94,
 "shēng rì kuài lè",
@@ -135,46 +291,16 @@
 "daily; (soup etc) of the day"
 ],
 [
-"当日",
-44.66,
-"dāng rì",
-"on that day"
-],
-[
-"当日",
-44.66,
-"dàng rì",
-"that very day; the same day"
-],
-[
 "中日",
 21.5,
 "Zhōng Rì",
 "China-Japan"
 ],
 [
-"早日",
-18.62,
-"zǎo rì",
-"soon; shortly; on a day quite soon; promptly"
-],
-[
 "交易日",
 17.98,
 "jiāo yì rì",
 "working day (in banking, share trading)"
-],
-[
-"末日",
-16.9,
-"Mò rì",
-"Judgment Day (in Christian eschatology)"
-],
-[
-"末日",
-16.9,
-"mò rì",
-"last day; end; final days; doomsday"
 ],
 [
 "日本人",
@@ -189,40 +315,16 @@
 "Sunday; diurnal"
 ],
 [
-"日后",
-13.66,
-"rì hòu",
-"sometime; someday (in the future)"
-],
-[
-"日趋",
-12.4,
-"rì qū",
-"(increasing) day by day; (more critical) with every passing day; gradually"
-],
-[
-"明日",
-11.7,
-"míng rì",
-"tomorrow"
-],
-[
-"次日",
-11.69,
-"cì rì",
-"next day; the morrow"
+"日常生活",
+11.35,
+"???",
+"???"
 ],
 [
 "即日",
 11.33,
 "jí rì",
 "this or that very day; in the next few days"
-],
-[
-"假日",
-10.51,
-"jià rì",
-"holiday; non-working day"
 ],
 [
 "人民日报",
@@ -252,7 +354,7 @@
 "日元",
 9.93,
 "Rì yuán",
-"Japanese yen (unit of currency); also written 日圓|日圆[Ri4 yuan2]"
+"Japanese yen (unit of currency); also written 日圆[Rì yuán]"
 ],
 [
 "好日子",
@@ -261,40 +363,28 @@
 "auspicious day; good day; happy life"
 ],
 [
-"纪念日",
-9.06,
-"jì niàn rì",
-"day of commemoration; memorial day"
-],
-[
-"平日",
-8.74,
-"píng rì",
-"ordinary day; everyday; ordinarily; usually"
+"冬日",
+8.95,
+"???",
+"???"
 ],
 [
 "日圆",
 8.52,
 "Rì yuán",
-"Japanese yen (unit of currency); CL:個|个[ge4]"
-],
-[
-"工作日",
-8.3,
-"gōng zuò rì",
-"workday; working day; weekday"
+"Japanese yen (unit of currency); CL:个[gè]"
 ],
 [
 "日产",
 8.23,
 "Rì chǎn",
-"Nissan, Japanese car make; also transliterated 尼桑[Ni2 sang1]"
+"Nissan, Japanese car make; also transliterated 尼桑[Ní sāng]"
 ],
 [
-"日报",
-8.1,
-"rì bào",
-"daily newspaper"
+"日本队",
+8.23,
+"???",
+"???"
 ],
 [
 "抗日战争",
@@ -303,16 +393,16 @@
 "(China's) War of Resistance against Japan (1937-1945)"
 ],
 [
-"节假日",
-7.68,
-"jié jià rì",
-"public holiday"
-],
-[
 "日日",
 7.45,
 "rì rì",
 "every day"
+],
+[
+"首日",
+7.26,
+"???",
+"???"
 ],
 [
 "金正日",
@@ -327,10 +417,10 @@
 "Geneva, Switzerland"
 ],
 [
-"日夜",
-6.39,
-"rì yè",
-"day and night; around the clock"
+"连日来",
+6.44,
+"???",
+"???"
 ],
 [
 "日志",
@@ -339,22 +429,10 @@
 "journal; log (computing)"
 ],
 [
-"日语",
-6.36,
-"Rì yǔ",
-"Japanese language"
-],
-[
 "尼日利亚",
 6.29,
 "Ní rì lì yà",
 "Nigeria"
-],
-[
-"往日",
-6.14,
-"wǎng rì",
-"former days; the past"
 ],
 [
 "夏日",
@@ -367,6 +445,12 @@
 6.0,
 "Zhōng guó Rì bào",
 "China Daily (an English language newspaper)"
+],
+[
+"过生日",
+5.79,
+"???",
+"???"
 ],
 [
 "日中",
@@ -387,16 +471,10 @@
 "end of the world"
 ],
 [
-"过日子",
-5.46,
-"guò rì zi",
-"to live one's life; to pass one's days; to get along"
-],
-[
-"星期日",
-5.45,
-"Xīng qī rì",
-"Sunday; CL:個|个[ge4]"
+"第一财经日报",
+5.34,
+"???",
+"???"
 ],
 [
 "日出",

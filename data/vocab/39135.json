@@ -1,6 +1,6 @@
 {
 "char": "食",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "eat; meal; food; KangXi radical number 184",
 "pron": "shí"
@@ -8,71 +8,119 @@
 "words": [
 [
 "食物",
-5,
+2,
 "shí wù",
-"food; CL:種|种[zhong3]"
-],
-[
-"零食",
-5,
-"líng shí",
-"between-meal nibbles; snacks"
-],
-[
-"粮食",
-5,
-"liáng shi",
-"foodstuff; cereals; CL:種|种[zhong3]"
-],
-[
-"饮食",
-6,
-"yǐn shí",
-"food and drink; diet"
-],
-[
-"素食",
-6,
-"sù shí",
-"vegetables; vegetarian food"
-],
-[
-"废寝忘食",
-6,
-"fèi qǐn wàng shí",
-"to neglect sleep and forget about food (idiom); to skip one's sleep and meals; to be completely wrapped up in one's work"
-]
-],
-"extraWords": [
-[
-"食品",
-115.2,
-"shí pǐn",
-"foodstuff; food; provisions; CL:種|种[zhong3]"
+"food; CL:种[zhǒng]"
 ],
 [
 "美食",
-25.19,
+3,
 "měi shí",
 "culinary delicacy; fine food; gourmet food"
 ],
 [
+"食品",
+3,
+"shí pǐn",
+"foodstuff; food; provisions; CL:种[zhǒng]"
+],
+[
+"粮食",
+4,
+"liáng shi",
+"foodstuff; cereals; CL:种[zhǒng]"
+],
+[
+"零食",
+4,
+"líng shí",
+"between-meal nibbles; snacks"
+],
+[
+"食堂",
+4,
+"shí táng",
+"dining hall; CL:个[gè],间[jiān]"
+],
+[
+"饮食",
+5,
+"yǐn shí",
+"food and drink; diet"
+],
+[
+"食欲",
+6,
+"shí yù",
+"appetite"
+],
+[
+"废寝忘食",
+7,
+"fèi qǐn wàng shí",
+"to neglect sleep and forget about food (idiom); to skip one's sleep and meals; to be completely wrapped up in one's work"
+],
+[
+"伙食",
+7,
+"huǒ shí",
+"food; meals"
+],
+[
+"节衣缩食",
+7,
+"jié yī suō shí",
+"to save on food and clothing (idiom); to live frugally"
+],
+[
+"膳食",
+7,
+"shàn shí",
+"meal"
+],
+[
+"食宿",
+7,
+"shí sù",
+"board and lodging; room and board"
+],
+[
 "食用",
-20.64,
+7,
 "shí yòng",
 "food product; to use as food; edible"
 ],
 [
-"食堂",
-17.26,
-"shí táng",
-"dining hall; CL:個|个[ge4],間|间[jian1]"
+"素食",
+7,
+"sù shí",
+"vegetables; vegetarian food"
 ],
 [
-"食欲",
-8.53,
-"shí yù",
-"appetite"
+"衣食住行",
+7,
+"yī shí zhù xíng",
+"clothing, food, housing and transport (idiom); people's basic needs"
+],
+[
+"主食",
+7,
+"zhǔ shí",
+"main food; staple (rice and noodles)"
+]
+],
+"extraWords": [
+[
+"食",
+88.4,
+"shí",
+"to eat; food; animal feed; eclipse"
+],
+[
+"食",
+88.4,
+"sì",
+"to feed (a person or animal)"
 ],
 [
 "进食",

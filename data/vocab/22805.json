@@ -1,6 +1,6 @@
 {
 "char": "夕",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "evening, night, dusk; slanted",
 "pron": "xī"
@@ -13,18 +13,30 @@
 "lunar New Year's Eve"
 ],
 [
-"夕阳",
-6,
-"xī yáng",
-"sunset; the setting sun"
+"前夕",
+7,
+"qián xī",
+"eve; the day before"
+],
+[
+"朝夕相处",
+7,
+"zhāo xī xiāng chǔ",
+"to spend all one's time together (idiom)"
 ]
 ],
 "extraWords": [
 [
-"前夕",
-11.85,
-"qián xī",
-"eve; the day before"
+"夕阳",
+6.8,
+"xī yáng",
+"sunset; the setting sun"
+],
+[
+"夕",
+5.29,
+"xī",
+"dusk; evening; Taiwan pr. [xi4]"
 ]
 ],
 "strokes": [

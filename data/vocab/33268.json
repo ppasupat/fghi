@@ -1,6 +1,6 @@
 {
 "char": "致",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "send, deliver, present; cause",
 "pron": "zhì"
@@ -8,95 +8,131 @@
 "words": [
 [
 "导致",
-5,
+4,
 "dǎo zhì",
 "to lead to; to create; to cause; to bring about"
 ],
 [
-"一致",
-5,
-"yī zhì",
-"unanimous; identical (views or opinions)"
-],
-[
-"致力",
-6,
-"zhì lì",
-"to work for; to devote one's efforts to"
-],
-[
-"精致",
-6,
-"jīng zhì",
-"delicate; fine; exquisite; refined"
-],
-[
-"大致",
-6,
-"dà zhì",
-"more or less; roughly; approximately"
-],
-[
-"以致",
-6,
-"yǐ zhì",
-"to such an extent as to; down to; up to"
-],
-[
 "细致",
-6,
+4,
 "xì zhì",
 "delicate; fine; careful; meticulous; painstaking"
 ],
 [
-"致辞",
-6,
-"zhì cí",
-"to express in words or writing; to make a speech (esp. short introduction, vote of thanks, afterword, funeral homily etc); to address (an audience); same as 致詞|致词"
+"一致",
+4,
+"yī zhì",
+"unanimous; identical (views or opinions)"
 ],
 [
-"致使",
+"大致",
+5,
+"dà zhì",
+"more or less; roughly; approximately"
+],
+[
+"此致",
 6,
-"zhì shǐ",
-"to cause; to result in"
+"cǐ zhì",
+"(used at the end of a letter to introduce a polite salutation)"
+],
+[
+"标致",
+7,
+"Biāo zhì",
+"Peugeot"
+],
+[
+"标致",
+7,
+"biāo zhi",
+"beautiful (of woman); pretty"
 ],
 [
 "别致",
-6,
+7,
 "bié zhì",
 "unusual; unique"
 ],
 [
 "别致",
-6,
+7,
 "bié zhì",
-"variant of 別緻|别致[bie2 zhi4]"
+"variant of 别致[bié zhì]"
 ],
 [
-"兴致勃勃",
-6,
-"xìng zhì bó bó",
-"to become exhilarated (idiom); in high spirits; full of zest"
-]
+"精致",
+7,
+"jīng zhì",
+"delicate; fine; exquisite; refined"
 ],
-"extraWords": [
+[
+"兴致",
+7,
+"xìng zhì",
+"mood; spirits; interest"
+],
+[
+"以致",
+7,
+"yǐ zhì",
+"to such an extent as to; down to; up to"
+],
+[
+"致",
+7,
+"zhì",
+"(bound form) fine; delicate"
+],
+[
+"致",
+7,
+"zhì",
+"to send; to devote; to deliver; to cause; to convey"
+],
+[
+"致辞",
+7,
+"zhì cí",
+"to express in words or writing; to make a speech (esp. short introduction, vote of thanks, afterword, funeral homily etc); to address (an audience); same as 致詞|致词"
+],
+[
+"致富",
+7,
+"zhì fù",
+"to become rich"
+],
+[
+"致敬",
+7,
+"zhì jìng",
+"to salute; to pay one's respects to; to pay tribute to; to pay homage to"
+],
+[
+"致力于",
+7,
+"???",
+"???"
+],
 [
 "致命",
-26.89,
+7,
 "zhì mìng",
 "fatal; mortal; deadly; to sacrifice one's life"
 ],
+[
+"致使",
+7,
+"zhì shǐ",
+"to cause; to result in"
+]
+],
+"extraWords": [
 [
 "所致",
 20.62,
 "suǒ zhì",
 "to be caused by"
-],
-[
-"致富",
-10.5,
-"zhì fù",
-"to become rich"
 ],
 [
 "致电",
@@ -111,16 +147,16 @@
 "deadly"
 ],
 [
-"致敬",
-7.99,
-"zhì jìng",
-"to salute; to pay one's respects to; to pay tribute to; to pay homage to"
-],
-[
 "极致",
 7.79,
 "jí zhì",
 "peak; pinnacle; ultimate"
+],
+[
+"致力",
+5.1,
+"zhì lì",
+"to work for; to devote one's efforts to"
 ]
 ],
 "strokes": [

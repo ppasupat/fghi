@@ -1,6 +1,6 @@
 {
 "char": "剖",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "split in two, slice; dissect",
 "pron": "pōu"
@@ -8,12 +8,25 @@
 "words": [
 [
 "解剖",
-6,
+7,
 "jiě pōu",
 "to dissect (an animal); to analyze; anatomy"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"剖",
+6.02,
+"pōu",
+"to cut open; to analyze; Taiwan pr. [pou3]"
+],
+[
+"剖析",
+4.67,
+"pōu xī",
+"to analyze; to dissect"
+]
+],
 "strokes": [
 "M 353 755 Q 380 734 410 710 Q 425 698 441 700 Q 453 701 457 716 Q 460 732 448 762 Q 441 781 409 792 Q 331 810 320 803 Q 316 799 318 785 Q 322 775 353 755 Z",
 "M 471 608 Q 481 612 495 614 Q 537 624 543 630 Q 550 637 547 645 Q 540 655 514 662 Q 490 668 374 630 Q 277 612 236 606 Q 202 600 227 585 Q 266 564 316 576 Q 376 589 439 602 L 471 608 Z",

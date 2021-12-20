@@ -1,16 +1,40 @@
 {
 "char": "模",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "model, standard, pattern; copy",
 "pron": "mó, mú"
 },
 "words": [
 [
-"模特",
-5,
-"mó tè",
+"大规模",
+4,
+"dà guī mó",
+"large scale; extensive; wide scale; broad scale"
+],
+[
+"规模",
+4,
+"guī mó",
+"scale; scope; extent; CL:个[gè]"
+],
+[
+"模特儿",
+4,
+"mó tè r5",
 "(fashion) model (loanword)"
+],
+[
+"模型",
+4,
+"mó xíng",
+"model; mold; matrix; pattern"
+],
+[
+"模范",
+5,
+"mó fàn",
+"model; fine example"
 ],
 [
 "模仿",
@@ -25,54 +49,60 @@
 "vague; indistinct; fuzzy"
 ],
 [
-"规模",
-5,
-"guī mó",
-"scale; scope; extent; CL:個|个[ge4]"
-],
-[
-"模型",
-6,
-"mó xíng",
-"model; mold; matrix; pattern"
-],
-[
 "模式",
-6,
+5,
 "mó shì",
 "mode; method; pattern"
 ],
 [
 "模样",
-6,
+5,
 "mú yàng",
-"look; style; appearance; approximation; about; CL:個|个[ge4]; also pr. [mo2 yang4]"
+"look; style; appearance; approximation; about; CL:个[gè]; also pr. [mo2 yang4]"
 ],
 [
-"模范",
+"一模一样",
 6,
-"mó fàn",
-"model; fine example"
+"yī mú yī yàng",
+"exactly the same (idiom); carbon copy; also pr. [yi1 mo2 yi1 yang4]"
+],
+[
+"大模大样",
+7,
+"dà mú dà yàng",
+"boldly; ostentatiously; poised; self-assured; Taiwan pr. [da4 mo2 da4 yang4]"
+],
+[
+"楷模",
+7,
+"kǎi mó",
+"model; example"
+],
+[
+"模拟",
+7,
+"mó nǐ",
+"imitation; to simulate; to imitate; analog (device, as opposed to digital)"
 ]
 ],
 "extraWords": [
 [
-"大规模",
-38.5,
-"dà guī mó",
-"large scale; extensive; wide scale; broad scale"
+"模特",
+87.91,
+"mó tè",
+"(fashion) model (loanword)"
 ],
 [
-"模拟",
-22.51,
-"mó nǐ",
-"imitation; to simulate; to imitate; analog (device, as opposed to digital)"
+"模",
+35.8,
+"mó",
+"to imitate; model; norm; pattern"
 ],
 [
-"一模一样",
-15.74,
-"yī mú yī yàng",
-"exactly the same (idiom); carbon copy; also pr. [yi1 mo2 yi1 yang4]"
+"模",
+35.8,
+"mú",
+"mold; die; matrix; pattern"
 ],
 [
 "模块",

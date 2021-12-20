@@ -1,6 +1,6 @@
 {
 "char": "寝",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "sleep, rest; bed chamber",
 "pron": "qǐn"
@@ -8,17 +8,29 @@
 "words": [
 [
 "废寝忘食",
-6,
+7,
 "fèi qǐn wàng shí",
 "to neglect sleep and forget about food (idiom); to skip one's sleep and meals; to be completely wrapped up in one's work"
+],
+[
+"寝室",
+7,
+"qǐn shì",
+"bedroom; dormitory; CL:间[jiān]"
 ]
 ],
 "extraWords": [
 [
-"寝室",
-12.17,
-"qǐn shì",
-"bedroom; dormitory; CL:間|间[jian1]"
+"寝",
+2.12,
+"qǐn",
+"old variant of 寝[qǐn]"
+],
+[
+"寝",
+2.12,
+"qǐn",
+"to lie down"
 ]
 ],
 "strokes": [

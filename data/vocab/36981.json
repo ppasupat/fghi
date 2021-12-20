@@ -1,6 +1,6 @@
 {
 "char": "遵",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "obey, comply with, follow; honor",
 "pron": "zūn"
@@ -14,9 +14,15 @@
 ],
 [
 "遵循",
-6,
+7,
 "zūn xún",
 "to follow; to abide by; to comply with; compliance"
+],
+[
+"遵照",
+7,
+"zūn zhào",
+"in accordance with; to follow (the rules)"
 ]
 ],
 "extraWords": [
@@ -25,12 +31,6 @@
 14.13,
 "zūn mìng",
 "to follow your orders; to do as you bid"
-],
-[
-"遵照",
-5.58,
-"zūn zhào",
-"in accordance with; to follow (the rules)"
 ]
 ],
 "strokes": [

@@ -1,25 +1,62 @@
 {
 "char": "朴",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "simple, unadorned; sincere; surname; a tree",
 "pron": "piáo, pò, pǔ"
 },
 "words": [
 [
+"纯朴",
+7,
+"chún pǔ",
+"variant of 淳朴[chún pǔ]"
+],
+[
+"古朴",
+7,
+"gǔ pǔ",
+"simple and unadorned (of art, architecture etc)"
+],
+[
+"朴实",
+7,
+"pǔ shí",
+"plain; simple; guileless; down-to-earth; sincere and honest"
+],
+[
 "朴素",
-6,
+7,
 "pǔ sù",
 "plain and simple; unadorned; simple living; not frivolous"
 ],
 [
-"朴实",
-6,
-"pǔ shí",
-"plain; simple; guileless; down-to-earth; sincere and honest"
+"质朴",
+7,
+"zhì pǔ",
+"simple; plain; unadorned; unaffected; unsophisticated; rustic; earthy"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"朴",
+9.39,
+"Piáo",
+"surname Piao; Korean surname (Park, Pak, or Bak); also pr. [Pu2]"
+],
+[
+"朴",
+9.39,
+"pò",
+"Celtis sinensis var. japonica"
+],
+[
+"朴",
+9.39,
+"pǔ",
+"plain and simple; Taiwan pr. [pu2]"
+]
+],
 "strokes": [
 "M 365 536 Q 390 542 475 557 Q 485 556 494 569 Q 495 581 472 590 Q 439 609 370 585 Q 369 585 367 584 L 323 571 Q 319 571 315 569 Q 261 554 127 529 Q 99 523 121 508 Q 157 484 184 492 Q 236 507 306 522 L 365 536 Z",
 "M 362 444 Q 363 487 365 536 L 367 584 Q 367 690 388 762 Q 404 786 378 805 Q 362 817 334 834 Q 312 850 291 836 Q 287 830 292 816 Q 323 770 323 723 Q 323 654 324 577 Q 323 576 323 571 L 317 431 Q 313 365 313 294 Q 309 221 288 153 Q 275 111 301 54 Q 307 36 315 33 Q 321 27 328 35 Q 335 39 346 59 Q 356 84 355 114 Q 355 151 361 419 L 362 444 Z",

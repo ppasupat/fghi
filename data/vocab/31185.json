@@ -1,78 +1,132 @@
 {
 "char": "科",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "section, department, science",
 "pron": "kē"
 },
 "words": [
 [
+"科",
+2,
+"kē",
+"branch of study; administrative section; division; field; branch; stage directions; family (taxonomy); rules; laws; to mete out (punishment); to levy (taxes etc); to fine sb; CL:个[gè]"
+],
+[
 "科学",
-4,
+2,
 "kē xué",
-"science; scientific knowledge; scientific; rational; CL:門|门[men2],個|个[ge4],種|种[zhong3]"
+"science; scientific knowledge; scientific; rational; CL:门[mén],个[gè],种[zhǒng]"
 ],
-[
-"内科",
-5,
-"nèi kē",
-"internal medicine; general medicine"
-],
-[
-"本科",
-5,
-"běn kē",
-"undergraduate course; undergraduate (attributive)"
-],
-[
-"科目",
-6,
-"kē mù",
-"academic subject; field of study"
-]
-],
-"extraWords": [
 [
 "科技",
-185.26,
+3,
 "kē jì",
 "science and technology"
 ],
 [
-"科研",
-48.23,
-"kē yán",
-"(scientific) research"
+"本科",
+4,
+"běn kē",
+"undergraduate course; undergraduate (attributive)"
+],
+[
+"内科",
+4,
+"nèi kē",
+"internal medicine; general medicine"
 ],
 [
 "学科",
-33.62,
+5,
 "xué kē",
 "subject; branch of learning; course; academic discipline"
 ],
 [
-"科学家",
-27.96,
-"kē xué jiā",
-"scientist; CL:個|个[ge4]"
+"儿科",
+6,
+"ér kē",
+"pediatrics"
 ],
 [
 "高科技",
-23.85,
+6,
 "gāo kē jì",
 "high tech; high technology"
+],
+[
+"科研",
+6,
+"kē yán",
+"(scientific) research"
+],
+[
+"外科",
+6,
+"wài kē",
+"surgery (branch of medicine)"
+],
+[
+"百科全书",
+7,
+"bǎi kē quán shū",
+"encyclopedia; CL:本[běn],集[jí]"
+],
+[
+"工科",
+7,
+"gōng kē",
+"engineering as an academic subject"
+],
+[
+"教科书",
+7,
+"jiào kē shū",
+"textbook; CL:本[běn]"
+],
+[
+"科幻",
+7,
+"kē huàn",
+"science fiction; abbr. for 科学幻想[kē xué huàn xiǎng]"
+],
+[
+"科目",
+7,
+"kē mù",
+"academic subject; field of study"
+],
+[
+"科普",
+7,
+"kē pǔ",
+"popular science; popularization of science; abbr. of 科學普及|科学普及"
+],
+[
+"理科",
+7,
+"lǐ kē",
+"the sciences (as opposed to the humanities 文科[wén kē])"
+],
+[
+"文科",
+7,
+"wén kē",
+"liberal arts; humanities"
+]
+],
+"extraWords": [
+[
+"科学家",
+27.96,
+"kē xué jiā",
+"scientist; CL:个[gè]"
 ],
 [
 "科学技术",
 23.52,
 "kē xué jì shù",
 "science and technology"
-],
-[
-"外科",
-21.94,
-"wài kē",
-"surgery (branch of medicine)"
 ],
 [
 "莫斯科",
@@ -93,22 +147,16 @@
 "criminal record; previous convictions"
 ],
 [
-"科普",
-10.13,
-"kē pǔ",
-"popular science; popularization of science; abbr. of 科學普及|科学普及"
+"斯科特",
+10.37,
+"???",
+"???"
 ],
 [
 "万科",
 9.53,
 "Wàn kē",
 "Vanke, large Chinese real estate company, founded in 1984"
-],
-[
-"教科书",
-7.94,
-"jiào kē shū",
-"textbook; CL:本[ben3]"
 ],
 [
 "社会科学",
@@ -120,7 +168,13 @@
 "科学院",
 7.56,
 "kē xué yuàn",
-"academy of sciences; CL:個|个[ge4]"
+"academy of sciences; CL:个[gè]"
+],
+[
+"科龙",
+7.44,
+"???",
+"???"
 ],
 [
 "中国科学院",
@@ -147,12 +201,6 @@
 "science education; popular science"
 ],
 [
-"理科",
-6.29,
-"lǐ kē",
-"the sciences (as opposed to the humanities 文科[wen2 ke1])"
-],
-[
 "自然科学",
 6.2,
 "zì rán kē xué",
@@ -162,7 +210,7 @@
 "科长",
 6.06,
 "kē zhǎng",
-"section chief; CL:個|个[ge4]"
+"section chief; CL:个[gè]"
 ],
 [
 "科比",
@@ -177,12 +225,6 @@
 "disco (loanword)"
 ],
 [
-"文科",
-5.83,
-"wén kē",
-"liberal arts; humanities"
-],
-[
 "妇科",
 5.78,
 "fù kē",
@@ -192,7 +234,19 @@
 "中科院",
 5.47,
 "Zhōng kē yuàn",
-"abbr. for 中國社會科學院|中国社会科学院[Zhong1 guo2 She4 hui4 Ke1 xue2 yuan4], Chinese Academy of Sciences (CAS)"
+"abbr. for 中国社会科学院[Zhōng guó Shè huì Kē xué yuàn], Chinese Academy of Sciences (CAS)"
+],
+[
+"格列登科",
+5.37,
+"???",
+"???"
+],
+[
+"科迪",
+5.28,
+"???",
+"???"
 ],
 [
 "社科院",

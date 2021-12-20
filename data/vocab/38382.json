@@ -1,22 +1,76 @@
 {
 "char": "问",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "ask about, inquire after",
 "pron": "wèn"
 },
 "words": [
 [
+"请问",
+1,
+"qǐng wèn",
+"Excuse me, may I ask...?"
+],
+[
 "问",
-2,
+1,
 "wèn",
 "to ask; to inquire"
+],
+[
+"问路",
+2,
+"wèn lù",
+"to ask for directions; to ask the way (to some place)"
 ],
 [
 "问题",
 2,
 "wèn tí",
-"question; problem; issue; topic; CL:個|个[ge4]"
+"question; problem; issue; topic; CL:个[gè]"
+],
+[
+"访问",
+3,
+"fǎng wèn",
+"to visit; to call on; to interview; CL:次[cì]"
+],
+[
+"提问",
+3,
+"tí wèn",
+"to question; to quiz; to grill"
+],
+[
+"问候",
+4,
+"wèn hòu",
+"to give one's respects; to send a greeting; (fig.) (coll.) to make offensive reference to (somebody dear to the person to whom one is speaking)"
+],
+[
+"学问",
+4,
+"xué wèn",
+"learning; knowledge; CL:个[gè]"
+],
+[
+"疑问",
+4,
+"yí wèn",
+"question; interrogation; doubt"
+],
+[
+"顾问",
+5,
+"gù wèn",
+"adviser; consultant"
+],
+[
+"慰问",
+5,
+"wèi wèn",
+"to express sympathy, greetings, consolation etc"
 ],
 [
 "询问",
@@ -25,78 +79,66 @@
 "to inquire"
 ],
 [
-"疑问",
-5,
-"yí wèn",
-"question; interrogation; doubt"
-],
-[
-"问候",
-5,
-"wèn hòu",
-"to give one's respects; to send a greeting; (fig.) (coll.) to make offensive reference to (somebody dear to the person to whom one is speaking)"
-],
-[
-"提问",
-5,
-"tí wèn",
-"to question; to quiz; to grill"
-],
-[
-"学问",
-5,
-"xué wèn",
-"learning; knowledge; CL:個|个[ge4]"
-],
-[
-"顾问",
-6,
-"gù wèn",
-"adviser; consultant"
-],
-[
-"访问",
-6,
-"fǎng wèn",
-"to visit; to call on; to interview; CL:次[ci4]"
-],
-[
-"过问",
-6,
-"guò wèn",
-"to show an interest in; to get involved with"
-],
-[
-"慰问",
-6,
-"wèi wèn",
-"to express sympathy, greetings, consolation etc"
-],
-[
 "反问",
 6,
 "fǎn wèn",
 "to ask (a question) in reply; to answer a question with a question; rhetorical question"
 ],
 [
+"不耻下问",
+7,
+"bù chǐ xià wèn",
+"not feel ashamed to ask and learn from one's subordinates"
+],
+[
+"成问题",
+7,
+"chéng wèn tí",
+"to be a problem; problematic; questionable"
+],
+[
+"问卷",
+7,
+"wèn juàn",
+"questionnaire; CL:份[fèn]"
+],
+[
 "问世",
-6,
+7,
 "wèn shì",
 "to be published; to come out"
+],
+[
+"质问",
+7,
+"zhì wèn",
+"to question; to ask questions; to inquire; to bring to account; to interrogate"
+],
+[
+"追问",
+7,
+"zhuī wèn",
+"to question closely; to investigate in detail; to examine minutely; to get to the heart of the matter"
 ]
 ],
 "extraWords": [
 [
-"请问",
-29.96,
-"qǐng wèn",
-"Excuse me, may I ask...?"
+"问问",
+43.43,
+"???",
+"???"
 ],
 [
 "毫无疑问",
 26.41,
 "háo wú yí wèn",
 "certainty; without a doubt"
+],
+[
+"有问题",
+18.41,
+"???",
+"???"
 ],
 [
 "问好",
@@ -111,16 +153,10 @@
 "to interrogate; to examine; to question"
 ],
 [
-"追问",
-9.19,
-"zhuī wèn",
-"to question closely; to investigate in detail; to examine minutely; to get to the heart of the matter"
-],
-[
-"问卷",
-9.1,
-"wèn juàn",
-"questionnaire; CL:份[fen4]"
+"问及",
+6.74,
+"???",
+"???"
 ],
 [
 "不问",
@@ -151,12 +187,6 @@
 5.6,
 "wèn huà",
 "questioning (a suspect); interrogation"
-],
-[
-"质问",
-5.01,
-"zhì wèn",
-"to question; to ask questions; to inquire; to bring to account; to interrogate"
 ]
 ],
 "strokes": [

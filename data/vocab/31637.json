@@ -1,12 +1,31 @@
 {
 "char": "箕",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "sieve; dust pan, garbage bag",
 "pron": "jī"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"箕",
+1.15,
+"jī",
+"winnow basket"
+],
+[
+"簸箕",
+0.44,
+"bò jī",
+"wicker or bamboo winnowing basket; dustpan"
+],
+[
+"畚箕",
+0.17,
+"běn jī",
+"a bamboo or wicker scoop; dustpan"
+]
+],
 "strokes": [
 "M 339 743 Q 349 761 361 776 Q 370 786 357 800 Q 317 830 296 825 Q 286 824 288 810 Q 301 734 219 638 Q 198 616 189 603 Q 182 590 195 594 Q 240 600 307 691 Q 310 698 327 723 L 339 743 Z",
 "M 327 723 Q 372 702 419 718 Q 495 737 497 738 Q 504 745 500 753 Q 493 763 465 768 Q 437 772 380 750 Q 361 746 339 743 C 309 739 300 735 327 723 Z",

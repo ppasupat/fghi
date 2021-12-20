@@ -1,17 +1,36 @@
 {
 "char": "熙",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "bright, splendid, glorious",
 "pron": "xī"
 },
-"words": [],
+"words": [
+[
+"熙熙攘攘",
+7,
+"xī xī rǎng rǎng",
+"bustling with activity (idiom)"
+]
+],
 "extraWords": [
 [
 "康熙",
 8.2,
 "Kāng xī",
-"Kangxi, title of the reign (1661-1722) of the Kangxi Emperor 聖祖|圣祖[Sheng4 zu3]"
+"Kangxi, title of the reign (1661-1722) of the Kangxi Emperor 圣祖[Shèng zǔ]"
+],
+[
+"熙",
+5.42,
+"xī",
+"variant of 熙[xī]"
+],
+[
+"熙",
+5.42,
+"xī",
+"(used in names); (bound form) (literary) bright; prosperous; splendid; genial"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "攻",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "attack, assault; criticize",
 "pron": "gōng"
@@ -19,10 +19,22 @@
 "to attack; to assault; to go on the offensive; attack; assault; offense (sports)"
 ],
 [
-"攻克",
-6,
-"gōng kè",
-"to capture; to take; to overcome; to solve"
+"攻",
+7,
+"gōng",
+"to attack; to accuse; to study"
+],
+[
+"攻读",
+7,
+"gōng dú",
+"to major (in a field); to study a specialty to obtain a higher degree"
+],
+[
+"攻关",
+7,
+"gōng guān",
+"to storm a strategic pass; fig. to tackle a key problem"
 ]
 ],
 "extraWords": [
@@ -37,12 +49,6 @@
 11.19,
 "gōng shì",
 "(military) offensive"
-],
-[
-"攻关",
-7.49,
-"gōng guān",
-"to storm a strategic pass; fig. to tackle a key problem"
 ],
 [
 "攻略",

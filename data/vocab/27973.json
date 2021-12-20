@@ -1,6 +1,6 @@
 {
 "char": "浅",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "shallow, not deep; superficial",
 "pron": "qiǎn"
@@ -8,15 +8,21 @@
 "words": [
 [
 "浅",
-5,
+4,
 "jiān",
 "sound of moving water"
 ],
 [
 "浅",
-5,
+4,
 "qiǎn",
 "shallow; light (color)"
+],
+[
+"搁浅",
+7,
+"gē qiǎn",
+"to be stranded (of ship); to run aground; fig. to run into difficulties and stop"
 ]
 ],
 "extraWords": [],

@@ -1,6 +1,6 @@
 {
 "char": "纺",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "spin, reel, weave; reeled pongee",
 "pron": "fǎng"
@@ -8,7 +8,7 @@
 "words": [
 [
 "纺织",
-6,
+7,
 "fǎng zhī",
 "spinning and weaving"
 ]
@@ -19,6 +19,12 @@
 15.99,
 "fǎng zhī pǐn",
 "textile; fabrics"
+],
+[
+"纺",
+9.39,
+"fǎng",
+"to spin (cotton or hemp etc); fine woven silk fabric"
 ]
 ],
 "strokes": [

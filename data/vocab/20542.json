@@ -1,6 +1,6 @@
 {
 "char": "倾",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "upset, pour out, overflow",
 "pron": "qīng"
@@ -13,30 +13,42 @@
 "trend; tendency; orientation"
 ],
 [
+"倾家荡产",
+7,
+"qīng jiā dàng chǎn",
+"to lose a family fortune (idiom)"
+],
+[
+"倾诉",
+7,
+"qīng sù",
+"to say everything (that is on one's mind)"
+],
+[
 "倾听",
-6,
+7,
 "qīng tīng",
 "to listen attentively"
 ],
 [
+"倾销",
+7,
+"qīng xiāo",
+"to dump (goods, products)"
+],
+[
 "倾斜",
-6,
+7,
 "qīng xié",
 "to incline; to lean; to slant; to slope; to tilt"
 ]
 ],
 "extraWords": [
 [
-"倾销",
-10.36,
-"qīng xiāo",
-"to dump (goods, products)"
-],
-[
-"倾诉",
-7.01,
-"qīng sù",
-"to say everything (that is on one's mind)"
+"倾",
+13.04,
+"qīng",
+"to overturn; to collapse; to lean; to tend; to incline; to pour out"
 ]
 ],
 "strokes": [

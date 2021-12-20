@@ -1,17 +1,11 @@
 {
 "char": "阔",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "broad, ample, wide; be apart",
 "pron": "kuò"
 },
 "words": [
-[
-"开阔",
-6,
-"kāi kuò",
-"wide; open (spaces); to open up"
-],
 [
 "广阔",
 6,
@@ -19,20 +13,43 @@
 "wide; vast"
 ],
 [
-"辽阔",
+"宽阔",
 6,
+"kuān kuò",
+"expansive; wide; width; thickness"
+],
+[
+"阔",
+6,
+"kuò",
+"variant of 阔[kuò]"
+],
+[
+"阔",
+6,
+"kuò",
+"rich; wide; broad"
+],
+[
+"开阔",
+7,
+"kāi kuò",
+"wide; open (spaces); to open up"
+],
+[
+"阔绰",
+7,
+"kuò chuò",
+"ostentatious; extravagant; liberal with money"
+],
+[
+"辽阔",
+7,
 "liáo kuò",
 "vast; extensive"
 ]
 ],
-"extraWords": [
-[
-"宽阔",
-6.91,
-"kuān kuò",
-"expansive; wide; width; thickness"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 307 741 Q 379 669 404 671 Q 419 671 424 691 Q 424 704 412 725 Q 399 744 371 751 Q 328 767 309 769 Q 299 770 299 758 Q 298 749 307 741 Z",
 "M 188 676 Q 215 610 213 542 Q 214 265 170 134 Q 152 80 185 35 L 187 33 Q 200 18 210 33 Q 249 73 249 236 Q 249 530 268 641 Q 271 660 254 671 Q 229 692 201 701 Q 191 702 184 694 Q 180 687 188 676 Z",

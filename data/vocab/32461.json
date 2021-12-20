@@ -1,6 +1,6 @@
 {
 "char": "绍",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "continue, carry on; join",
 "pron": "shào"
@@ -8,7 +8,7 @@
 "words": [
 [
 "介绍",
-2,
+1,
 "jiè shào",
 "to introduce (sb to sb); to give a presentation; to present (sb for a job etc); introduction"
 ]
@@ -19,6 +19,12 @@
 5.67,
 "Shào xīng",
 "Shaoxing prefecture level city in Zhejiang"
+],
+[
+"袁绍",
+2.71,
+"Yuán Shào",
+"Yuan Shao (153-202), general during late Han, subsequently warlord"
 ]
 ],
 "strokes": [

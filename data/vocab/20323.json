@@ -1,6 +1,6 @@
 {
 "char": "佣",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "commission fee",
 "pron": "yōng, yòng"
@@ -8,7 +8,7 @@
 "words": [
 [
 "雇佣",
-6,
+7,
 "gù yōng",
 "to employ; to hire"
 ]
@@ -19,6 +19,12 @@
 6.23,
 "nǚ yōng",
 "(female) maid"
+],
+[
+"佣金",
+3.9,
+"yòng jīn",
+"commission"
 ]
 ],
 "strokes": [

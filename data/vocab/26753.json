@@ -1,6 +1,6 @@
 {
 "char": "梁",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "bridge; beam; rafters; surname",
 "pron": "liáng"
@@ -11,9 +11,46 @@
 6,
 "qiáo liáng",
 "bridge (lit. and fig.)"
+],
+[
+"栋梁",
+7,
+"dòng liáng",
+"ridgepole; ridgepole and beams; person able to bear heavy responsibility; mainstay (of organization); pillar (of state)"
+],
+[
+"脊梁",
+7,
+"jǐ liáng",
+"backbone; spine; Taiwan pr. [ji3 liang5]"
+],
+[
+"脊梁",
+7,
+"jǐ liang",
+"(coll.) back (of a human or other vertebrate)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"梁",
+28.09,
+"Liáng",
+"Liang Dynasty (502-557); Later Liang Dynasty (907-923); surname Liang"
+],
+[
+"梁",
+28.09,
+"liáng",
+"roof beam; beam (structure); bridge"
+],
+[
+"梁",
+28.09,
+"liáng",
+"variant of 梁[liáng]"
+]
+],
 "strokes": [
 "M 285 771 Q 306 752 328 730 Q 341 720 355 720 Q 365 720 369 732 Q 373 745 365 773 Q 359 789 334 800 Q 277 821 260 815 Q 256 811 257 799 Q 260 789 285 771 Z",
 "M 209 660 Q 240 629 274 611 Q 286 610 292 620 Q 296 630 293 644 Q 283 675 235 686 Q 205 695 196 690 Q 192 689 194 680 Q 195 671 209 660 Z",

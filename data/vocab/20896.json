@@ -1,6 +1,6 @@
 {
 "char": "冠",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "cap, crown, headgear",
 "pron": "guān, guàn"
@@ -10,15 +10,33 @@
 "冠军",
 5,
 "guàn jūn",
-"champion; CL:個|个[ge4]"
+"champion; CL:个[gè]"
+],
+[
+"夺冠",
+7,
+"duó guàn",
+"to seize the crown; fig. to win a championship; to win gold medal"
 ]
 ],
 "extraWords": [
 [
-"夺冠",
-20.64,
-"duó guàn",
-"to seize the crown; fig. to win a championship; to win gold medal"
+"冠",
+47.84,
+"Guàn",
+"surname Guan"
+],
+[
+"冠",
+47.84,
+"guān",
+"hat; crown; crest; cap"
+],
+[
+"冠",
+47.84,
+"guàn",
+"to put on a hat; to be first; to dub"
 ],
 [
 "冠心病",

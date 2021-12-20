@@ -1,6 +1,6 @@
 {
 "char": "傻",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "foolish, silly, stupid; an imbecile",
 "pron": "shǎ"
@@ -11,20 +11,26 @@
 5,
 "shǎ",
 "foolish"
+],
+[
+"傻瓜",
+7,
+"shǎ guā",
+"idiot; fool"
 ]
 ],
 "extraWords": [
-[
-"傻瓜",
-59.05,
-"shǎ guā",
-"idiot; fool"
-],
 [
 "傻子",
 22.83,
 "shǎ zi",
 "idiot; fool"
+],
+[
+"傻事",
+10.25,
+"???",
+"???"
 ]
 ],
 "strokes": [

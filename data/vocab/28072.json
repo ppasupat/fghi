@@ -1,11 +1,17 @@
 {
 "char": "涨",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "rise in price",
 "pron": "zhǎng, zhàng"
 },
 "words": [
+[
+"上涨",
+5,
+"shàng zhǎng",
+"to rise; to go up"
+],
 [
 "涨",
 5,
@@ -19,30 +25,30 @@
 "to swell; to distend"
 ],
 [
+"涨价",
+5,
+"zhǎng jià",
+"to appreciate (in value); to increase in price"
+],
+[
 "高涨",
-6,
+7,
 "gāo zhǎng",
 "to surge up; to rise; (of tensions etc) to run high"
+],
+[
+"水涨船高",
+7,
+"shuǐ zhǎng chuán gāo",
+"the tide rises, the boat floats (idiom); fig. to change with the overall trend; to develop according to the situation"
 ]
 ],
 "extraWords": [
-[
-"上涨",
-121.98,
-"shàng zhǎng",
-"to rise; to go up"
-],
 [
 "涨幅",
 36.87,
 "zhǎng fú",
 "extent of a rise (in prices etc); amount of increase; growth (typically expressed as a percentage)"
-],
-[
-"涨价",
-17.89,
-"zhǎng jià",
-"to appreciate (in value); to increase in price"
 ],
 [
 "暴涨",

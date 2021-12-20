@@ -1,6 +1,6 @@
 {
 "char": "乐",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "happy, glad; enjoyable; music",
 "pron": "lè, yuè"
@@ -14,84 +14,132 @@
 ],
 [
 "音乐",
-3,
+2,
 "yīn yuè",
-"music; CL:張|张[zhang1],曲[qu3],段[duan4]"
+"music; CL:张[zhāng],曲[qǔ],段[duàn]"
+],
+[
+"音乐会",
+2,
+"yīn yuè huì",
+"concert; CL:场[chǎng]"
+],
+[
+"欢乐",
+3,
+"huān lè",
+"gaiety; gladness; glee; merriment; pleasure; happy; joyous; gay"
+],
+[
+"可乐",
+3,
+"kě lè",
+"amusing; entertaining; (loanword) cola"
+],
+[
+"乐",
+3,
+"Lè",
+"surname Le"
+],
+[
+"乐",
+3,
+"Yuè",
+"surname Yue"
+],
+[
+"乐",
+3,
+"lè",
+"happy; cheerful; to laugh"
+],
+[
+"乐",
+3,
+"yuè",
+"music"
+],
+[
+"乐观",
+3,
+"lè guān",
+"optimistic; hopeful"
+],
+[
+"乐队",
+3,
+"yuè duì",
+"band; pop group; CL:支[zhī]"
+],
+[
+"乐趣",
+4,
+"lè qù",
+"delight; pleasure; joy"
 ],
 [
 "俱乐部",
 5,
 "jù lè bù",
-"club (the organisation or its premises) (loanword); CL:個|个[ge4]"
+"club (the organisation or its premises) (loanword); CL:个[gè]"
 ],
 [
 "娱乐",
-5,
+6,
 "yú lè",
 "to entertain; to amuse; entertainment; recreation; amusement; hobby; fun; joy"
 ],
 [
-"乐观",
-5,
-"lè guān",
-"optimistic; hopeful"
+"乐曲",
+6,
+"yuè qǔ",
+"musical composition"
 ],
 [
-"乐器",
-5,
-"yuè qì",
-"musical instrument; CL:件[jian4]"
+"不亦乐乎",
+7,
+"bù yì lè hū",
+"lit. isn't that a joy? (quote from Confucius); fig. (jocularly) extremely; awfully"
+],
+[
+"吃喝玩乐",
+7,
+"chī hē wán lè",
+"to eat, drink and be merry (idiom); to abandon oneself to a life of pleasure"
+],
+[
+"交响乐",
+7,
+"jiāo xiǎng yuè",
+"symphony"
 ],
 [
 "乐意",
-6,
+7,
 "lè yì",
 "to be willing to do sth; to be ready to do sth; to be happy to do sth; content; satisfied"
 ],
 [
-"乐趣",
-6,
-"lè qù",
-"delight; pleasure; joy"
+"乐园",
+7,
+"lè yuán",
+"paradise"
 ],
 [
-"欢乐",
-6,
-"huān lè",
-"gaiety; gladness; glee; merriment; pleasure; happy; joyous; gay"
+"喜怒哀乐",
+7,
+"xǐ nù āi lè",
+"four types of human emotions, namely: happiness 欢喜[huān xǐ], anger 愤怒[fèn nù], sorrow 悲哀[bēi āi] and joy 快乐[kuài lè]"
 ],
 [
-"乐谱",
-6,
-"yuè pǔ",
-"a musical score; sheet music"
-],
-[
-"天伦之乐",
-6,
-"tiān lún zhī lè",
-"family love and joy; domestic bliss"
-],
-[
-"知足常乐",
-6,
-"zhī zú cháng lè",
-"satisfied with what one has (idiom)"
-],
-[
-"喜闻乐见",
-6,
-"xǐ wén lè jiàn",
-"to love to hear and see (idiom); well received; to one's liking"
+"乐器",
+7,
+"yuè qì",
+"musical instrument; CL:件[jiàn]"
 ]
 ],
 "extraWords": [
-[
-"乐队",
-63.37,
-"yuè duì",
-"band; pop group; CL:支[zhi1]"
-],
 [
 "生日快乐",
 48.94,
@@ -105,34 +153,34 @@
 "Happy New Year!"
 ],
 [
-"乐园",
-13.88,
-"lè yuán",
-"paradise"
+"音乐剧",
+8.41,
+"???",
+"???"
 ],
 [
-"音乐会",
-12.73,
-"yīn yuè huì",
-"concert; CL:場|场[chang3]"
-],
-[
-"可乐",
-11.86,
-"kě lè",
-"amusing; entertaining; (loanword) cola"
+"娱乐圈",
+7.97,
+"???",
+"???"
 ],
 [
 "永乐",
 7.92,
 "Yǒng lè",
-"Yongle Emperor, reign name of third Ming emperor Zhu Di 朱棣[Zhu1 Di4] (1360-1424), reigned 1403-1424, temple name 明成祖[Ming2 Cheng2 zu3]"
+"Yongle Emperor, reign name of third Ming emperor Zhu Di 朱棣[Zhū Dì] (1360-1424), reigned 1403-1424, temple name 明成祖[Míng Chéng zǔ]"
 ],
 [
 "摇滚乐",
 7.09,
 "yáo gǔn yuè",
 "rock music; rock 'n roll"
+],
+[
+"找乐",
+6.56,
+"???",
+"???"
 ],
 [
 "音乐家",
@@ -157,6 +205,12 @@
 5.78,
 "yú lè chǎng suǒ",
 "place of entertainment"
+],
+[
+"乐乐",
+5.67,
+"???",
+"???"
 ],
 [
 "家乐福",

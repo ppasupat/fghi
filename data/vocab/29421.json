@@ -1,22 +1,28 @@
 {
 "char": "狭",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "narrow, limited; narrow-minded",
 "pron": "xiá"
 },
 "words": [
 [
-"狭窄",
-6,
-"xiá zhǎi",
+"狭隘",
+7,
+"xiá ài",
+"narrow; tight; narrow minded; lacking in experience"
+],
+[
+"狭小",
+7,
+"xiá xiǎo",
 "narrow"
 ],
 [
-"狭隘",
-6,
-"xiá ài",
-"narrow; tight; narrow minded; lacking in experience"
+"狭窄",
+7,
+"xiá zhǎi",
+"narrow"
 ]
 ],
 "extraWords": [],

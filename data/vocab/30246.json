@@ -1,6 +1,6 @@
 {
 "char": "瘦",
-"level": 3,
+"level": "5",
 "info": {
 "gloss": "thin, emaciated, lean; meager",
 "pron": "shòu"
@@ -8,12 +8,25 @@
 "words": [
 [
 "瘦",
-3,
+5,
 "shòu",
 "thin; to lose weight; (of clothing) tight; (of meat) lean; (of land) unproductive"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"瘦肉",
+4.05,
+"shòu ròu",
+"lean meat"
+],
+[
+"消瘦",
+2.97,
+"xiāo shòu",
+"to waste away; to become thin"
+]
+],
 "strokes": [
 "M 527 813 Q 558 792 594 767 Q 610 757 626 759 Q 638 762 641 776 Q 642 792 629 822 Q 620 841 586 852 Q 505 870 491 859 Q 487 855 491 841 Q 495 831 527 813 Z",
 "M 361 662 Q 397 647 459 656 Q 769 701 791 712 Q 791 713 793 713 Q 802 720 798 728 Q 792 741 764 749 Q 736 756 706 747 Q 631 726 552 710 Q 462 695 359 691 Q 355 691 353 689 C 323 684 333 672 361 662 Z",

@@ -1,138 +1,174 @@
 {
 "char": "保",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "protect, safeguard, defend, care",
 "pron": "bǎo"
 },
 "words": [
 [
-"保证",
-4,
-"bǎo zhèng",
-"guarantee; to guarantee; to ensure; to safeguard; to pledge; CL:個|个[ge4]"
+"保",
+3,
+"Bǎo",
+"Bulgaria; Bulgarian; abbr. for 保加利亚[Bǎo jiā lì yà]"
 ],
 [
-"保护",
-4,
-"bǎo hù",
-"to protect; to defend; to safeguard; protection; CL:種|种[zhong3]"
-],
-[
-"保持",
-5,
-"bǎo chí",
-"to keep; to maintain; to hold; to preserve"
-],
-[
-"保险",
-5,
-"bǎo xiǎn",
-"insurance; to insure; safe; secure; be sure; be bound to; CL:份[fen4]"
-],
-[
-"保留",
-5,
-"bǎo liú",
-"to keep; to retain; to have reservations (about sth); to hold back (from saying sth); to put aside for later"
-],
-[
-"保存",
-5,
-"bǎo cún",
-"to conserve; to preserve; to keep; to save (a file etc) (computing)"
-],
-[
-"确保",
-6,
-"què bǎo",
-"to ensure; to guarantee"
-],
-[
-"保姆",
-6,
-"bǎo mǔ",
-"nanny; housekeeper"
-],
-[
-"保密",
-6,
-"bǎo mì",
-"to keep sth confidential; to maintain secrecy"
-],
-[
-"保重",
-6,
-"bǎo zhòng",
-"to take care of oneself"
-],
-[
-"保守",
-6,
-"bǎo shǒu",
-"conservative; to guard; to keep"
-],
-[
-"保卫",
-6,
-"bǎo wèi",
-"to defend; to safeguard"
-],
-[
-"保管",
-6,
-"bǎo guǎn",
-"to hold in safekeeping; to have in one's care; to guarantee; certainly; surely; custodian; curator"
-],
-[
-"保障",
-6,
-"bǎo zhàng",
-"to ensure; to guarantee; to safeguard"
-],
-[
-"担保",
-6,
-"dān bǎo",
-"to guarantee; to vouch for"
-],
-[
-"保养",
-6,
-"bǎo yǎng",
-"to take good care of (or conserve) one's health; to keep in good repair; to maintain; maintenance"
-]
-],
-"extraWords": [
-[
-"环保",
-74.26,
-"huán bǎo",
-"environmental protection; environmentally friendly; abbr. for 環境保護|环境保护[huan2 jing4 bao3 hu4]"
+"保",
+3,
+"bǎo",
+"to defend; to protect; to keep; to guarantee; to ensure; civil administration unit in the baojia 保甲[bǎo jiǎ] system (old)"
 ],
 [
 "保安",
-40.45,
+3,
 "bǎo ān",
 "to ensure public security; to ensure safety (for workers engaged in production); public security; security guard"
 ],
 [
-"保佑",
-35.12,
-"bǎo yòu",
-"to bless and protect; blessing"
+"保持",
+3,
+"bǎo chí",
+"to keep; to maintain; to hold; to preserve"
+],
+[
+"保存",
+3,
+"bǎo cún",
+"to conserve; to preserve; to keep; to save (a file etc) (computing)"
+],
+[
+"保护",
+3,
+"bǎo hù",
+"to protect; to defend; to safeguard; protection; CL:种[zhǒng]"
+],
+[
+"保留",
+3,
+"bǎo liú",
+"to keep; to retain; to have reservations (about sth); to hold back (from saying sth); to put aside for later"
+],
+[
+"保险",
+3,
+"bǎo xiǎn",
+"insurance; to insure; safe; secure; be sure; be bound to; CL:份[fèn]"
+],
+[
+"保证",
+3,
+"bǎo zhèng",
+"guarantee; to guarantee; to ensure; to safeguard; to pledge; CL:个[gè]"
+],
+[
+"环保",
+3,
+"huán bǎo",
+"environmental protection; environmentally friendly; abbr. for 环境保护[huán jìng bǎo hù]"
+],
+[
+"确保",
+3,
+"què bǎo",
+"to ensure; to guarantee"
+],
+[
+"保密",
+4,
+"bǎo mì",
+"to keep sth confidential; to maintain secrecy"
+],
+[
+"保守",
+4,
+"bǎo shǒu",
+"conservative; to guard; to keep"
+],
+[
+"担保",
+4,
+"dān bǎo",
+"to guarantee; to vouch for"
+],
+[
+"保卫",
+5,
+"bǎo wèi",
+"to defend; to safeguard"
+],
+[
+"保养",
+5,
+"bǎo yǎng",
+"to take good care of (or conserve) one's health; to keep in good repair; to maintain; maintenance"
 ],
 [
 "保健",
-27.32,
+6,
 "bǎo jiàn",
 "health protection; health care; to maintain in good health"
 ],
 [
+"保管",
+7,
+"bǎo guǎn",
+"to hold in safekeeping; to have in one's care; to guarantee; certainly; surely; custodian; curator"
+],
+[
+"保姆",
+7,
+"bǎo mǔ",
+"nanny; housekeeper"
+],
+[
 "保暖",
-24.98,
+7,
 "bǎo nuǎn",
 "to stay warm; to protect against the cold"
+],
+[
+"保鲜",
+7,
+"bǎo xiān",
+"to keep fresh"
+],
+[
+"保修",
+7,
+"bǎo xiū",
+"to promise to keep sth in good repair; guarantee; warranty"
+],
+[
+"保佑",
+7,
+"bǎo yòu",
+"to bless and protect; blessing"
+],
+[
+"保障",
+7,
+"bǎo zhàng",
+"to ensure; to guarantee; to safeguard"
+],
+[
+"保质期",
+7,
+"bǎo zhì qī",
+"date of use (on foodstuffs); best before date"
+],
+[
+"保重",
+7,
+"bǎo zhòng",
+"to take care of oneself"
+]
+],
+"extraWords": [
+[
+"保险公司",
+27.4,
+"???",
+"???"
 ],
 [
 "保罗",
@@ -174,7 +210,7 @@
 "保护区",
 11.0,
 "bǎo hù qū",
-"conservation district; CL:個|个[ge4],片[pian4]"
+"conservation district; CL:个[gè],片[piàn]"
 ],
 [
 "保龄球",
@@ -189,16 +225,28 @@
 "earnest money; cash deposit; bail; margin (in derivative trading)"
 ],
 [
-"保鲜",
-6.83,
-"bǎo xiān",
-"to keep fresh"
+"保荐",
+7.11,
+"???",
+"???"
+],
+[
+"保值",
+6.89,
+"???",
+"???"
 ],
 [
 "投保",
 6.57,
 "tóu bǎo",
 "to take out insurance; to insure"
+],
+[
+"保险业",
+6.42,
+"???",
+"???"
 ],
 [
 "保温",
@@ -211,6 +259,12 @@
 5.9,
 "ān bǎo",
 "to maintain security (abbr.)"
+],
+[
+"保健品",
+5.5,
+"???",
+"???"
 ],
 [
 "保险柜",

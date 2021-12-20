@@ -1,6 +1,6 @@
 {
 "char": "姆",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "child's governess; matron",
 "pron": "mǔ"
@@ -8,7 +8,7 @@
 "words": [
 [
 "保姆",
-6,
+7,
 "bǎo mǔ",
 "nanny; housekeeper"
 ]
@@ -21,6 +21,18 @@
 "Tom (name)"
 ],
 [
+"姆",
+37.75,
+"mǔ",
+"woman who looks after small children; (old) female tutor"
+],
+[
+"山姆",
+21.08,
+"???",
+"???"
+],
+[
 "詹姆斯",
 20.51,
 "Zhān mǔ sī",
@@ -31,6 +43,18 @@
 19.28,
 "Sà dá mǔ",
 "Saddam"
+],
+[
+"吉姆",
+17.92,
+"???",
+"???"
+],
+[
+"萨姆",
+9.36,
+"???",
+"???"
 ],
 [
 "阿姆斯特丹",

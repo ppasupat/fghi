@@ -1,17 +1,30 @@
 {
 "char": "靴",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "boots",
 "pron": "xuē"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "靴子",
-14.31,
+7,
 "xuē zi",
 "boots"
+]
+],
+"extraWords": [
+[
+"靴",
+26.16,
+"xuē",
+"boots"
+],
+[
+"靴",
+26.16,
+"xuē",
+"variant of 靴[xuē]"
 ]
 ],
 "strokes": [

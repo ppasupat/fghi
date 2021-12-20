@@ -1,6 +1,6 @@
 {
 "char": "辫",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "braid; pigtail, plait, queue",
 "pron": "biàn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "辫子",
-6,
+7,
 "biàn zi",
-"plait; braid; pigtail; a mistake or shortcoming that may be exploited by an opponent; handle; CL:根[gen1],條|条[tiao2]"
+"plait; braid; pigtail; a mistake or shortcoming that may be exploited by an opponent; handle; CL:根[gēn],条[tiáo]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"辫",
+2.25,
+"biàn",
+"a braid or queue; to plait"
+],
+[
+"小辫子",
+0.89,
+"xiǎo biàn zi",
+"pigtail; (fig.) a shortcoming or evidence of wrongdoing that can be seized upon by others"
+]
+],
 "strokes": [
 "M 253 757 Q 283 739 315 717 Q 328 707 342 710 Q 351 711 353 724 Q 354 737 343 762 Q 336 778 305 788 Q 233 803 223 795 Q 220 791 223 780 Q 227 771 253 757 Z",
 "M 166 629 Q 135 622 158 608 Q 194 589 242 604 Q 302 620 364 635 Q 392 644 396 648 Q 403 655 399 662 Q 392 672 367 677 Q 342 680 316 669 Q 285 656 249 646 Q 212 636 166 629 Z",

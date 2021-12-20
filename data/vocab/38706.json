@@ -1,6 +1,6 @@
 {
 "char": "露",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "dew; bare, open, exposed",
 "pron": "lòu, lù"
@@ -13,37 +13,85 @@
 "to expose; to reveal; to lay bare; also pr. [pu4 lu4]"
 ],
 [
+"露",
+6,
+"Lù",
+"surname Lu"
+],
+[
+"露",
+6,
+"lòu",
+"to show; to reveal; to betray; to expose"
+],
+[
+"露",
+6,
+"lù",
+"dew; syrup; nectar; outdoors (not under cover); to show; to reveal; to betray; to expose"
+],
+[
 "透露",
 6,
 "tòu lù",
 "to leak out; to divulge; to reveal"
 ],
 [
-"泄露",
-6,
-"xiè lù",
-"to leak (information); to divulge; also pr. [xie4 lou4]"
+"风餐露宿",
+7,
+"fēng cān lù sù",
+"lit. to eat in the open air and sleep outdoors (idiom); fig. to rough it"
 ],
 [
 "揭露",
-6,
+7,
 "jiē lù",
 "to expose; to unmask; to ferret out; to disclose; disclosure"
 ],
 [
 "流露",
-6,
+7,
 "liú lù",
 "to reveal (indirectly, implicitly); to show (interest, contempt etc) by means of one's actions, tone of voice etc"
-]
 ],
-"extraWords": [
+[
+"露面",
+7,
+"lòu miàn",
+"to show one's face; to appear (in public)"
+],
+[
+"露天",
+7,
+"lù tiān",
+"outdoors; al fresco; in the open"
+],
+[
+"裸露",
+7,
+"luǒ lù",
+"naked; bare; uncovered; exposed"
+],
+[
+"沐浴露",
+7,
+"mù yù lù",
+"shower gel"
+],
 [
 "披露",
-43.61,
+7,
 "pī lù",
 "to reveal; to publish; to make public; to announce"
 ],
+[
+"泄露",
+7,
+"xiè lù",
+"to leak (information); to divulge; also pr. [xie4 lou4]"
+]
+],
+"extraWords": [
 [
 "露出",
 28.1,
@@ -57,22 +105,10 @@
 "to camp out; camping"
 ],
 [
-"露面",
-7.78,
-"lòu miàn",
-"to show one's face; to appear (in public)"
-],
-[
 "显露",
 7.71,
 "xiǎn lù",
 "to become visible; to reveal"
-],
-[
-"露天",
-6.25,
-"lù tiān",
-"outdoors; al fresco; in the open"
 ]
 ],
 "strokes": [

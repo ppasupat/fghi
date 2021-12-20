@@ -1,6 +1,6 @@
 {
 "char": "谨",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "prudent, cautious; attentive",
 "pron": "jǐn"
@@ -8,17 +8,23 @@
 "words": [
 [
 "谨慎",
-5,
+7,
 "jǐn shèn",
 "cautious; prudent"
+],
+[
+"严谨",
+7,
+"yán jǐn",
+"rigorous; strict; careful; cautious; compact; well-knit"
 ]
 ],
 "extraWords": [
 [
-"严谨",
-8.79,
-"yán jǐn",
-"rigorous; strict; careful; cautious; compact; well-knit"
+"谨",
+5.3,
+"jǐn",
+"cautious; careful; solemnly; sincerely (formal)"
 ]
 ],
 "strokes": [

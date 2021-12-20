@@ -1,17 +1,30 @@
 {
 "char": "橘",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "orange, tangerine",
 "pron": "jú"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "橘子",
-5.66,
+7,
 "jú zi",
-"tangerine; CL:個|个[ge4],瓣[ban4]"
+"tangerine; CL:个[gè],瓣[bàn]"
+]
+],
+"extraWords": [
+[
+"橘",
+10.12,
+"jú",
+"mandarin orange (Citrus reticulata); tangerine"
+],
+[
+"柑橘",
+1.95,
+"gān jú",
+"citrus"
 ]
 ],
 "strokes": [

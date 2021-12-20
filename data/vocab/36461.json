@@ -1,12 +1,32 @@
 {
 "char": "蹭",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "to shuffle, procrastinate, dilly-dally",
 "pron": "cèng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"蹭",
+7,
+"cèng",
+"to rub against; to walk slowly; (coll.) to freeload"
+]
+],
+"extraWords": [
+[
+"磨蹭",
+4.38,
+"mó ceng",
+"to rub lightly; to move slowly; to dawdle; to dillydally; to pester; to nag"
+],
+[
+"磨磨蹭蹭",
+0.59,
+"mó mó cèng cèng",
+"to dillydally; slow-going"
+]
+],
 "strokes": [
 "M 200 660 Q 190 667 152 672 Q 140 676 137 670 Q 130 664 139 648 Q 164 597 181 513 Q 185 488 200 471 Q 218 449 223 465 Q 224 471 226 478 L 225 509 Q 216 545 207 631 C 204 658 204 658 200 660 Z",
 "M 361 532 Q 380 614 404 639 Q 426 664 403 679 Q 384 689 357 706 Q 333 718 295 690 Q 232 668 200 660 C 171 652 178 623 207 631 Q 213 632 220 635 Q 262 647 298 655 Q 323 662 329 652 Q 335 646 311 534 C 305 505 354 503 361 532 Z",

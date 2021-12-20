@@ -1,24 +1,30 @@
 {
 "char": "辆",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "numerary adjunct for vehicles",
 "pron": "liàng"
 },
 "words": [
 [
+"车辆",
+2,
+"chē liàng",
+"vehicle"
+],
+[
 "辆",
-3,
+2,
 "liàng",
 "classifier for vehicles"
 ]
 ],
 "extraWords": [
 [
-"车辆",
-77.98,
-"chē liàng",
-"vehicle"
+"第一辆",
+1.44,
+"???",
+"???"
 ]
 ],
 "strokes": [

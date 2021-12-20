@@ -1,49 +1,79 @@
 {
 "char": "超",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "jump over, leap over; surpass",
 "pron": "chāo"
 },
 "words": [
 [
-"超市",
-3,
-"chāo shì",
-"supermarket; abbr. for 超級市場|超级市场; CL:家[jia1]"
-],
-[
 "超过",
-4,
+2,
 "chāo guò",
 "to surpass; to exceed; to outstrip"
 ],
 [
+"超市",
+2,
+"chāo shì",
+"supermarket; abbr. for 超級市場|超级市场; CL:家[jiā]"
+],
+[
 "超级",
-5,
+3,
 "chāo jí",
 "super-; ultra-; hyper-"
 ],
 [
 "超越",
-6,
+5,
 "chāo yuè",
 "to surpass; to exceed; to transcend"
 ],
 [
-"高超",
+"超",
 6,
+"chāo",
+"to exceed; to overtake; to surpass; to transcend; to pass; to cross; ultra-; super-"
+],
+[
+"超出",
+6,
+"chāo chū",
+"to exceed; to overstep; to go too far; to encroach"
+],
+[
+"超标",
+7,
+"chāo biāo",
+"to cross the limit; to be over the accepted norm; excessive"
+],
+[
+"超车",
+7,
+"chāo chē",
+"to overtake (another car)"
+],
+[
+"超前",
+7,
+"chāo qián",
+"to be ahead of one's time; to surpass or outdo one's predecessors; to be ahead of the pack; to take the lead; advanced"
+],
+[
+"超速",
+7,
+"chāo sù",
+"to exceed the speed limit; to speed; high-speed"
+],
+[
+"高超",
+7,
 "gāo chāo",
 "excellent; superlative"
 ]
 ],
 "extraWords": [
-[
-"超出",
-19.41,
-"chāo chū",
-"to exceed; to overstep; to go too far; to encroach"
-],
 [
 "超人",
 18.6,
@@ -57,16 +87,16 @@
 "superhuman; exceptional"
 ],
 [
-"超标",
-13.27,
-"chāo biāo",
-"to cross the limit; to be over the accepted norm; excessive"
-],
-[
 "超声",
 12.91,
 "chāo shēng",
 "ultrasonic; ultrasound"
+],
+[
+"全美超",
+12.85,
+"???",
+"???"
 ],
 [
 "超额",
@@ -81,10 +111,10 @@
 "to overload"
 ],
 [
-"超前",
-5.94,
-"chāo qián",
-"to be ahead of one's time; to surpass or outdo one's predecessors; to be ahead of the pack; to take the lead; advanced"
+"超薄",
+5.33,
+"???",
+"???"
 ]
 ],
 "strokes": [

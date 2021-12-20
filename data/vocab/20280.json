@@ -1,6 +1,6 @@
 {
 "char": "伸",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "extend, stretch out, open up; trust",
 "pron": "shēn"
@@ -14,9 +14,27 @@
 ],
 [
 "延伸",
-6,
+5,
 "yán shēn",
 "to extend; to spread"
+],
+[
+"伸手",
+7,
+"shēn shǒu",
+"to reach out with one's hand; to hold out a hand; (fig.) to beg; to get involved; to meddle"
+],
+[
+"伸缩",
+7,
+"shēn suō",
+"to lengthen and shorten; flexible; adjustable; retractable; extensible; telescoping (collapsible)"
+],
+[
+"伸张",
+7,
+"shēn zhāng",
+"to uphold (e.g. justice or virtue); to promote"
 ]
 ],
 "extraWords": [
@@ -25,12 +43,6 @@
 30.54,
 "shēn chū",
 "to extend"
-],
-[
-"伸手",
-17.66,
-"shēn shǒu",
-"to reach out with one's hand; to hold out a hand; (fig.) to beg; to get involved; to meddle"
 ],
 [
 "伸展",

@@ -1,19 +1,44 @@
 {
 "char": "恒",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "constant, regular, persistent",
 "pron": "héng"
 },
 "words": [
 [
+"持之以恒",
+7,
+"chí zhī yǐ héng",
+"to pursue unremittingly (idiom); to persevere"
+],
+[
 "永恒",
-6,
+7,
 "yǒng héng",
 "eternal; everlasting; fig. to pass into eternity (i.e. to die)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"恒",
+18.43,
+"Héng",
+"surname Heng"
+],
+[
+"恒",
+18.43,
+"héng",
+"permanent; constant; fixed; usual; ordinary; rule (old); one of the 64 hexagrams of the Book of Changes (䷟)"
+],
+[
+"恒",
+18.43,
+"héng",
+"variant of 恒[héng]"
+]
+],
 "strokes": [
 "M 125 557 Q 115 488 93 423 Q 80 389 106 358 Q 118 342 135 359 Q 178 416 163 507 Q 162 541 148 563 Q 141 570 135 570 Q 128 566 125 557 Z",
 "M 298 568 Q 380 502 394 500 L 396 500 Q 405 501 409 512 Q 413 525 404 551 Q 391 579 311 595 Q 304 596 299 596 C 269 597 275 587 298 568 Z",

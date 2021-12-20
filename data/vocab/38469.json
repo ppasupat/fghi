@@ -1,6 +1,6 @@
 {
 "char": "际",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "border, boundary, juncture",
 "pron": "jì"
@@ -8,41 +8,47 @@
 "words": [
 [
 "国际",
-4,
+2,
 "guó jì",
 "international"
 ],
 [
 "实际",
-4,
+2,
 "shí jì",
 "reality; practice; practical; realistic; real; actual"
 ],
 [
-"交际",
-5,
-"jiāo jì",
-"communication; social intercourse"
+"实际上",
+3,
+"shí jì shàng",
+"in fact; in reality; as a matter of fact; in practice"
 ],
 [
-"之际",
-6,
-"zhī jì",
-"during; at the time of"
+"交际",
+4,
+"jiāo jì",
+"communication; social intercourse"
 ]
 ],
 "extraWords": [
 [
-"实际上",
-131.46,
-"shí jì shàng",
-"in fact; in reality; as a matter of fact; in practice"
+"之际",
+30.09,
+"zhī jì",
+"during; at the time of"
 ],
 [
 "国际化",
 19.54,
 "guó jì huà",
 "to internationalize; internationalization"
+],
+[
+"际",
+16.25,
+"jì",
+"border; edge; boundary; interval; between; inter-; to meet; time; occasion; to meet with (circumstances)"
 ],
 [
 "星际",

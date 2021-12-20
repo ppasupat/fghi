@@ -1,6 +1,6 @@
 {
 "char": "宪",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "constitution, statute, law",
 "pron": "xiàn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "宪法",
-6,
+7,
 "xiàn fǎ",
-"constitution (of a country); CL:部[bu4]"
+"constitution (of a country); CL:部[bù]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"宪",
+3.35,
+"xiàn",
+"statute; constitution"
+],
+[
+"宪章",
+2.72,
+"xiàn zhāng",
+"charter"
+]
+],
 "strokes": [
 "M 458 782 Q 491 757 525 727 Q 541 714 559 715 Q 572 716 576 732 Q 580 750 568 783 Q 561 805 524 819 Q 442 843 424 836 Q 418 830 421 816 Q 425 803 458 782 Z",
 "M 272 651 Q 260 678 248 689 Q 229 705 226 677 Q 226 641 192 602 Q 143 562 171 491 Q 186 463 209 491 Q 227 515 240 551 Q 258 596 271 624 C 278 639 278 639 272 651 Z",

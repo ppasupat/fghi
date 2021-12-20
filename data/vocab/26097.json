@@ -1,6 +1,6 @@
 {
 "char": "旱",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "drought; dry; dry land",
 "pron": "hàn"
@@ -8,9 +8,21 @@
 "words": [
 [
 "干旱",
-6,
+7,
 "gān hàn",
 "drought; arid; dry"
+],
+[
+"旱",
+7,
+"hàn",
+"drought"
+],
+[
+"旱灾",
+7,
+"hàn zāi",
+"drought"
 ]
 ],
 "extraWords": [

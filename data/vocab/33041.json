@@ -1,6 +1,6 @@
 {
 "char": "脑",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "brain",
 "pron": "nǎo"
@@ -10,51 +10,63 @@
 "电脑",
 1,
 "diàn nǎo",
-"computer; CL:臺|台[tai2]"
+"computer; CL:台[tái]"
+],
+[
+"头脑",
+3,
+"tóu nǎo",
+"brains; mind; skull; (fig.) gist (of a matter); leader; boss"
 ],
 [
 "脑袋",
-5,
+4,
 "nǎo dai",
-"head; skull; brains; mental capability; CL:顆|颗[ke1],個|个[ge4]"
+"head; skull; brains; mental capability; CL:颗[kē],个[gè]"
+],
+[
+"大脑",
+5,
+"dà nǎo",
+"brain; cerebrum"
+],
+[
+"脑子",
+5,
+"nǎo zi",
+"brains; mind; CL:个[gè]"
+],
+[
+"首脑",
+6,
+"shǒu nǎo",
+"head (of state); summit (meeting); leader"
+],
+[
+"脑海",
+7,
+"nǎo hǎi",
+"the mind; the brain"
+],
+[
+"脑筋",
+7,
+"nǎo jīn",
+"brains; mind; head; way of thinking"
 ],
 [
 "伤脑筋",
-6,
+7,
 "shāng nǎo jīn",
 "to be a real headache; to find sth a real headache; to beat one's brains"
 ]
 ],
 "extraWords": [
 [
-"脑子",
-71.57,
-"nǎo zi",
-"brains; mind; CL:個|个[ge4]"
-],
-[
-"大脑",
-43.55,
-"dà nǎo",
-"brain; cerebrum"
-],
-[
-"头脑",
-27.87,
-"tóu nǎo",
-"brains; mind; skull; (fig.) gist (of a matter); leader; boss"
-],
-[
-"脑海",
-12.97,
-"nǎo hǎi",
-"the mind; the brain"
-],
-[
-"首脑",
-9.94,
-"shǒu nǎo",
-"head (of state); summit (meeting); leader"
+"脑",
+82.95,
+"nǎo",
+"brain; mind; head; essence"
 ]
 ],
 "strokes": [

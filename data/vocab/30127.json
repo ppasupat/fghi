@@ -1,25 +1,31 @@
 {
 "char": "疯",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "crazy, insane, mentally ill",
 "pron": "fēng"
 },
 "words": [
 [
+"疯",
+5,
+"fēng",
+"insane; mad; wild"
+],
+[
 "疯狂",
 5,
 "fēng kuáng",
 "crazy; frantic; extreme popularity"
+],
+[
+"疯子",
+7,
+"fēng zi",
+"madman; lunatic"
 ]
 ],
 "extraWords": [
-[
-"疯子",
-63.88,
-"fēng zi",
-"madman; lunatic"
-],
 [
 "发疯",
 23.7,

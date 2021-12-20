@@ -1,6 +1,6 @@
 {
 "char": "湿",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "wet, moist, humid, damp; illness",
 "pron": "shī"
@@ -8,13 +8,31 @@
 "words": [
 [
 "潮湿",
-5,
+4,
 "cháo shī",
 "damp; moist"
 ],
 [
+"湿",
+4,
+"shī",
+"variant of 湿[shī]"
+],
+[
+"湿",
+4,
+"shī",
+"moist; wet"
+],
+[
+"湿度",
+7,
+"shī dù",
+"humidity level"
+],
+[
 "湿润",
-5,
+7,
 "shī rùn",
 "moist"
 ]
@@ -25,12 +43,6 @@
 7.65,
 "shī dì",
 "wetland"
-],
-[
-"湿度",
-6.73,
-"shī dù",
-"humidity level"
 ]
 ],
 "strokes": [

@@ -1,17 +1,30 @@
 {
 "char": "绽",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "ripped seam, rend, crack",
 "pron": "zhàn"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "绽放",
-7.83,
+7,
 "zhàn fàng",
 "to blossom"
+]
+],
+"extraWords": [
+[
+"破绽",
+2.94,
+"pò zhàn",
+"split seam; (fig.) flaw; weak point"
+],
+[
+"绽",
+1.15,
+"zhàn",
+"to burst open; to split at the seam"
 ]
 ],
 "strokes": [

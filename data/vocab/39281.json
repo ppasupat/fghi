@@ -1,6 +1,6 @@
 {
 "char": "饱",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "eat heartily; eat one's fill",
 "pron": "bǎo"
@@ -8,21 +8,21 @@
 "words": [
 [
 "饱",
-3,
+2,
 "bǎo",
 "to eat till full; satisfied"
 ],
 [
 "饱和",
-6,
+7,
 "bǎo hé",
 "saturation"
 ],
 [
-"饱经沧桑",
-6,
-"bǎo jīng cāng sāng",
-"having lived through many changes"
+"饱满",
+7,
+"bǎo mǎn",
+"full; plump"
 ]
 ],
 "extraWords": [
@@ -31,12 +31,6 @@
 10.51,
 "chī bǎo",
 "to eat one's fill"
-],
-[
-"饱满",
-7.34,
-"bǎo mǎn",
-"full; plump"
 ]
 ],
 "strokes": [

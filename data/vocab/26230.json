@@ -1,6 +1,6 @@
 {
 "char": "晶",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "crystal; clear, bright; radiant",
 "pron": "jīng"
@@ -8,22 +8,34 @@
 "words": [
 [
 "结晶",
-6,
+7,
 "jié jīng",
 "to crystallize; crystallization; crystal; crystalline; (fig.) the fruit (of labor etc)"
+],
+[
+"晶莹",
+7,
+"jīng yíng",
+"sparkling and translucent"
+],
+[
+"水晶",
+7,
+"shuǐ jīng",
+"crystal"
+],
+[
+"液晶",
+7,
+"yè jīng",
+"liquid crystal"
 ]
 ],
 "extraWords": [
 [
-"液晶",
-35.02,
-"yè jīng",
-"liquid crystal"
-],
-[
-"水晶",
-14.58,
-"shuǐ jīng",
+"晶",
+18.35,
+"jīng",
 "crystal"
 ],
 [

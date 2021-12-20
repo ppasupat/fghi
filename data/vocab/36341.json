@@ -1,6 +1,6 @@
 {
 "char": "践",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "trample, tread upon, walk on",
 "pron": "jiàn"
@@ -8,18 +8,25 @@
 "words": [
 [
 "实践",
-5,
+6,
 "shí jiàn",
 "practice; to put into practice; to live up to (a promise); to carry out (a project)"
-],
-[
-"践踏",
-6,
-"jiàn tà",
-"to trample"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"践踏",
+3.81,
+"jiàn tà",
+"to trample"
+],
+[
+"践行",
+2.17,
+"jiàn xíng",
+"to practice; to put into practice"
+]
+],
 "strokes": [
 "M 204 665 Q 194 672 161 676 Q 151 679 147 674 Q 141 668 149 653 Q 174 602 191 517 Q 194 492 209 475 Q 225 454 230 469 Q 233 478 234 491 L 231 520 Q 231 529 213 638 C 209 662 209 662 204 665 Z",
 "M 376 554 Q 395 627 416 647 Q 438 672 415 687 Q 354 720 346 718 Q 339 718 332 713 Q 298 691 204 665 C 175 657 183 633 213 638 Q 223 639 236 643 Q 276 655 311 663 Q 335 669 341 660 Q 348 654 341 624 Q 334 590 325 550 C 318 521 368 525 376 554 Z",

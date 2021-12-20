@@ -1,6 +1,6 @@
 {
 "char": "南",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "south; southern part; southward",
 "pron": "nā, nán"
@@ -8,27 +8,75 @@
 "words": [
 [
 "南",
-3,
+1,
 "Nán",
 "surname Nan"
 ],
 [
 "南",
-3,
+1,
 "nán",
 "south"
 ],
 [
-"指南针",
-6,
-"zhǐ nán zhēn",
-"compass"
+"南边",
+1,
+"nán bian",
+"south; south side; southern part; to the south of"
 ],
 [
-"南辕北辙",
-6,
-"nán yuán běi zhé",
-"to act in a way that defeats one's purpose (idiom)"
+"东南",
+2,
+"dōng nán",
+"southeast"
+],
+[
+"南方",
+2,
+"nán fāng",
+"south; the southern part of the country; the South"
+],
+[
+"西南",
+2,
+"xī nán",
+"southwest"
+],
+[
+"南部",
+3,
+"nán bù",
+"southern part"
+],
+[
+"南北",
+5,
+"nán běi",
+"north and south; north to south"
+],
+[
+"南极",
+5,
+"nán jí",
+"south pole"
+],
+[
+"南瓜",
+7,
+"nán guā",
+"pumpkin"
+],
+[
+"指南",
+7,
+"zhǐ nán",
+"to guide; guidebook"
+],
+[
+"指南针",
+7,
+"zhǐ nán zhēn",
+"compass"
 ]
 ],
 "extraWords": [
@@ -48,37 +96,25 @@
 "河南",
 39.73,
 "Hé nán",
-"Henan province (Honan) in central China, abbr. 豫, capital Zhengzhou 鄭州|郑州[Zheng4 zhou1]"
+"Henan province (Honan) in central China, abbr. 豫, capital Zhengzhou 郑州[Zhèng zhōu]"
 ],
 [
 "湖南",
 37.47,
 "Hú nán",
-"Hunan province in south central China, abbr. 湘, capital Changsha 長沙|长沙[Chang2 sha1]"
-],
-[
-"南方",
-35.8,
-"nán fāng",
-"south; the southern part of the country; the South"
+"Hunan province in south central China, abbr. 湘, capital Changsha 长沙[Cháng shā]"
 ],
 [
 "云南",
 34.38,
 "Yún nán",
-"Yunnan province in southwest China, bordering on Vietnam, Laos and Myanmar, abbr. 滇[dian1] or 雲|云, capital Kunming 昆明"
-],
-[
-"南部",
-26.59,
-"nán bù",
-"southern part"
+"Yunnan province in southwest China, bordering on Vietnam, Laos and Myanmar, abbr. 滇[diān] or 雲|云, capital Kunming 昆明"
 ],
 [
 "海南",
 23.93,
 "Hǎi nán",
-"Hainan Province, in the South China Sea, short name 瓊|琼[Qiong2], capital Haikou 海口[Hai3 kou3]; Hainan Island; Hainan District of Wuhai City 烏海市|乌海市[Wu1 hai3 Shi4], Inner Mongolia; Hainan Tibetan Autonomous Prefecture 海南藏族自治州[Hai3 nan2 Zang4 zu2 Zi4 zhi4 zhou1], Qinghai"
+"Hainan Province, in the South China Sea, short name 琼[Qióng], capital Haikou 海口[Hǎi kǒu]; Hainan Island; Hainan District of Wuhai City 乌海市[Wū hǎi Shì], Inner Mongolia; Hainan Tibetan Autonomous Prefecture 海南藏族自治州[Hǎi nán Zàng zú Zì zhì zhōu], Qinghai"
 ],
 [
 "济南",
@@ -93,18 +129,6 @@
 "south of Changjiang or Yangtze river; south of the lower reaches of Changjiang; often refers to south Jiangsu, south Anhui and north Zhejiang provinces; a province during Qing times; in literature, refers to the sunny south; Gangnam (district in Seoul, South Korea)"
 ],
 [
-"西南",
-19.86,
-"xī nán",
-"southwest"
-],
-[
-"南北",
-19.14,
-"nán běi",
-"north and south; north to south"
-],
-[
 "南昌",
 13.96,
 "Nán chāng",
@@ -114,7 +138,7 @@
 "河南省",
 13.47,
 "Hé nán shěng",
-"Henan province (Honan) in central China, abbr. 豫[Yu4], capital Zhengzhou 鄭州|郑州[Zheng4 zhou1]"
+"Henan province (Honan) in central China, abbr. 豫[Yù], capital Zhengzhou 郑州[Zhèng zhōu]"
 ],
 [
 "南非",
@@ -129,12 +153,6 @@
 "Southeast Asia"
 ],
 [
-"东南",
-12.83,
-"dōng nán",
-"southeast"
-],
-[
 "南京市",
 12.24,
 "Nán jīng shì",
@@ -147,16 +165,10 @@
 "Nanning prefecture level city and capital of Guangxi Zhuang autonomous region in south China 廣西壯族自治區|广西壮族自治区"
 ],
 [
-"指南",
-10.64,
-"zhǐ nán",
-"to guide; guidebook"
-],
-[
 "湖南省",
 10.3,
 "Hú nán Shěng",
-"Hunan Province in south central China, abbr. 湘[Xiang1], capital Changsha 長沙|长沙[Chang2 sha1]"
+"Hunan Province in south central China, abbr. 湘[Xiāng], capital Changsha 长沙[Cháng shā]"
 ],
 [
 "南海",
@@ -168,19 +180,13 @@
 "云南省",
 9.08,
 "Yún nán Shěng",
-"Yunnan Province in southwest China, bordering on Vietnam, Laos and Myanmar, abbr. 滇[Dian1] or 雲|云[Yun2], capital Kunming 昆明[Kun1 ming2]"
-],
-[
-"南瓜",
-8.94,
-"nán guā",
-"pumpkin"
+"Yunnan Province in southwest China, bordering on Vietnam, Laos and Myanmar, abbr. 滇[Diān] or 云[Yún], capital Kunming 昆明[Kūn míng]"
 ],
 [
 "安南",
 6.85,
 "Ān nán",
-"Annam (Tang Dynasty protectorate located in what is now northern Vietnam); Annam (autonomous kingdom located in what is now northern Vietnam, 10th-15th century); Annam (central part of Vietnam during the French colonial period); old name for Vietnam; Annan District in Tainan 臺南|台南[Tai2 nan2], Taiwan; Kofi Annan (1938-2018), UN secretary-general 1997-2006"
+"Annam (Tang Dynasty protectorate located in what is now northern Vietnam); Annam (autonomous kingdom located in what is now northern Vietnam, 10th-15th century); Annam (central part of Vietnam during the French colonial period); old name for Vietnam; Annan District in Tainan 台南[Tái nán], Taiwan; Kofi Annan (1938-2018), UN secretary-general 1997-2006"
 ],
 [
 "南下",
@@ -189,10 +195,28 @@
 "to go down south"
 ],
 [
+"湖南卫视",
+6.53,
+"???",
+"???"
+],
+[
 "南宫",
 6.39,
 "Nán gōng",
-"Nangong county level city in Xingtai 邢台[Xing2 tai2], Hebei"
+"Nangong county level city in Xingtai 邢台[Xíng tái], Hebei"
+],
+[
+"南方都市报",
+6.24,
+"???",
+"???"
+],
+[
+"南茜",
+6.14,
+"???",
+"???"
 ],
 [
 "华南",
@@ -207,28 +231,22 @@
 "South Central China (Henan, Hubei, Hunan, Guangdong, Guangxi, Hainan); abbr. for China-South Africa"
 ],
 [
-"南极",
-6.02,
-"nán jí",
-"south pole"
-],
-[
 "济南市",
 5.28,
 "Jǐ nán shì",
 "Jinan subprovincial city and capital of Shandong province in northeast China"
 ],
 [
-"南边",
-5.28,
-"nán bian",
-"south; south side; southern part; to the south of"
+"柯南",
+5.22,
+"???",
+"???"
 ],
 [
 "海南省",
 5.11,
 "Hǎi nán Shěng",
-"Hainan Province, in South China Sea, abbr. 瓊|琼[Qiong2], capital Haikou 海口[Hai3 kou3]"
+"Hainan Province, in South China Sea, abbr. 琼[Qióng], capital Haikou 海口[Hǎi kǒu]"
 ]
 ],
 "strokes": [

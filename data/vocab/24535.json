@@ -1,6 +1,6 @@
 {
 "char": "志",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "purpose, will, determination; annals",
 "pron": "zhì"
@@ -8,59 +8,83 @@
 "words": [
 [
 "杂志",
-4,
+3,
 "zá zhì",
-"magazine; CL:本[ben3],份[fen4],期[qi1]"
+"magazine; CL:本[běn],份[fèn],期[qī]"
 ],
-[
-"标志",
-5,
-"biāo zhì",
-"sign; mark; symbol; logo; to symbolize; to indicate; to mark"
-],
-[
-"志愿者",
-5,
-"zhì yuàn zhě",
-"volunteer"
-],
-[
-"同志",
-6,
-"tóng zhì",
-"comrade; (slang) homosexual; CL:個|个[ge4]"
-],
-[
-"意志",
-6,
-"yì zhì",
-"will; willpower; determination; CL:個|个[ge4]"
-],
-[
-"志气",
-6,
-"zhì qì",
-"ambition; resolve; backbone; drive; spirit"
-]
-],
-"extraWords": [
 [
 "志愿",
-21.15,
+3,
 "zhì yuàn",
 "aspiration; ambition; to volunteer"
 ],
 [
+"志愿者",
+3,
+"zhì yuàn zhě",
+"volunteer"
+],
+[
+"标志",
+4,
+"biāo zhì",
+"sign; mark; symbol; logo; to symbolize; to indicate; to mark"
+],
+[
+"意志",
+5,
+"yì zhì",
+"will; willpower; determination; CL:个[gè]"
+],
+[
 "斗志",
-6.72,
+7,
 "dòu zhì",
 "will to fight; fighting spirit"
 ],
 [
 "励志",
-6.49,
+7,
 "lì zhì",
 "to encourage; encouragement"
+],
+[
+"同志",
+7,
+"tóng zhì",
+"comrade; (slang) homosexual; CL:个[gè]"
+],
+[
+"志气",
+7,
+"zhì qì",
+"ambition; resolve; backbone; drive; spirit"
+],
+[
+"众志成城",
+7,
+"zhòng zhì chéng chéng",
+"unity of will is an impregnable stronghold (idiom)"
+]
+],
+"extraWords": [
+[
+"志",
+32.12,
+"zhì",
+"aspiration; ambition; the will"
+],
+[
+"志",
+32.12,
+"zhì",
+"sign; mark; to record; to write a footnote"
+],
+[
+"同志们",
+13.86,
+"???",
+"???"
 ],
 [
 "日志",

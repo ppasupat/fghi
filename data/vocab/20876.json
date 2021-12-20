@@ -1,6 +1,6 @@
 {
 "char": "册",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "book, volume, register, list",
 "pron": "cè"
@@ -17,15 +17,21 @@
 5,
 "zhù cè",
 "to register; to enroll"
+],
+[
+"画册",
+7,
+"huà cè",
+"picture album"
+],
+[
+"手册",
+7,
+"shǒu cè",
+"manual; handbook"
 ]
 ],
 "extraWords": [
-[
-"手册",
-9.12,
-"shǒu cè",
-"manual; handbook"
-],
 [
 "相册",
 5.54,

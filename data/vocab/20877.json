@@ -1,11 +1,17 @@
 {
 "char": "再",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "again, twice, re-",
 "pron": "zài"
 },
 "words": [
+[
+"再",
+1,
+"zài",
+"again; once more; re-; second; another; then (after sth, and not until then); no matter how ... (followed by an adjective or verb, and then (usually) 也[yě] or 都[dōu] for emphasis)"
+],
 [
 "再见",
 1,
@@ -13,54 +19,66 @@
 "goodbye; see you again later"
 ],
 [
-"再",
-2,
-"zài",
-"again; once more; re-; second; another; then (after sth, and not until then); no matter how ... (followed by an adjective or verb, and then (usually) 也[ye3] or 都[dou1] for emphasis)"
-],
-[
 "一再",
-5,
+4,
 "yī zài",
 "repeatedly"
 ],
 [
 "再三",
-5,
+4,
 "zài sān",
 "over and over again; again and again"
 ],
 [
-"再接再厉",
-6,
-"zài jiē zài lì",
-"to continue the struggle (idiom); to persist; unremitting efforts"
-]
-],
-"extraWords": [
-[
 "再次",
-146.85,
+5,
 "zài cì",
 "one more time; again; one more; once again"
 ],
 [
+"再也",
+5,
+"zài yě",
+"(not) any more"
+],
+[
 "不再",
-125.35,
+6,
 "bù zài",
 "no more; no longer"
 ],
 [
+"再生",
+6,
+"zài shēng",
+"to be reborn; to regenerate; to be a second so-and-so (famous dead person); recycling; regeneration"
+],
+[
 "再说",
-66.83,
+6,
 "zài shuō",
 "to say again; to put off a discussion until later; moreover; what's more; besides"
 ],
 [
 "再度",
-34.55,
+7,
 "zài dù",
 "once more; once again; one more time"
+],
+[
+"再现",
+7,
+"zài xiàn",
+"to recreate; to reconstruct (a historical relic)"
+]
+],
+"extraWords": [
+[
+"再来",
+20.95,
+"???",
+"???"
 ],
 [
 "再不",
@@ -69,22 +87,10 @@
 "if not, then; otherwise"
 ],
 [
-"再生",
-13.4,
-"zài shēng",
-"to be reborn; to regenerate; to be a second so-and-so (famous dead person); recycling; regeneration"
-],
-[
-"再现",
-9.65,
-"zài xiàn",
-"to recreate; to reconstruct (a historical relic)"
-],
-[
-"再也",
-7.04,
-"zài yě",
-"(not) any more"
+"再也没有",
+7.76,
+"???",
+"???"
 ]
 ],
 "strokes": [

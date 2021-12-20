@@ -1,36 +1,90 @@
 {
 "char": "奔",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "run fast, flee; rush about; run",
 "pron": "bēn, bèn"
 },
 "words": [
 [
-"奔驰",
+"奔跑",
 6,
+"bēn pǎo",
+"to run"
+],
+[
+"奔波",
+7,
+"bēn bō",
+"to rush about; to be constantly on the move"
+],
+[
+"奔赴",
+7,
+"bēn fù",
+"to rush to; to hurry to"
+],
+[
+"奔",
+7,
+"bēn",
+"to hurry; to rush; to run quickly; to elope"
+],
+[
+"奔",
+7,
+"bèn",
+"to go to; to head for; towards"
+],
+[
+"奔",
+7,
+"bēn",
+"(used in given names); variant of 奔[bēn]"
+],
+[
+"奔",
+7,
+"bēn",
+"variant of 奔[bēn]; variant of 奔[bèn]"
+],
+[
+"东奔西走",
+7,
+"dōng bēn xī zǒu",
+"to run this way and that (idiom); to rush about busily; to bustle about; to hopscotch; also 东跑西颠[dōng pǎo xī diān]"
+],
+[
+"各奔前程",
+7,
+"gè bèn qián chéng",
+"each goes his own way (idiom); each person has his own life to lead"
+],
+[
+"投奔",
+7,
+"tóu bèn",
+"to seek shelter; to seek asylum"
+],
+[
+"直奔",
+7,
+"zhí bèn",
+"to go straight to; to make a beeline for"
+]
+],
+"extraWords": [
+[
+"奔驰",
+14.61,
 "Bēn chí",
 "Benz (name); Mercedes-Benz, German car maker"
 ],
 [
 "奔驰",
-6,
+14.61,
 "bēn chí",
 "to run quickly; to speed; to gallop"
-],
-[
-"奔波",
-6,
-"bēn bō",
-"to rush about; to be constantly on the move"
-]
-],
-"extraWords": [
-[
-"奔跑",
-8.58,
-"bēn pǎo",
-"to run"
 ],
 [
 "奔腾",
@@ -43,18 +97,6 @@
 7.52,
 "bēn téng",
 "(of waves) to surge forward; to roll on in waves; to gallop"
-],
-[
-"直奔",
-6.24,
-"zhí bèn",
-"to go straight to; to make a beeline for"
-],
-[
-"奔赴",
-5.16,
-"bēn fù",
-"to rush to; to hurry to"
 ]
 ],
 "strokes": [

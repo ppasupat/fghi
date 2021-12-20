@@ -1,12 +1,31 @@
 {
 "char": "簧",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "reed of woodwind instrument",
 "pron": "huáng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"弹簧",
+3.48,
+"tán huáng",
+"spring"
+],
+[
+"簧",
+3.32,
+"huáng",
+"metallic reed; spring of lock"
+],
+[
+"双簧",
+0.48,
+"shuāng huáng",
+"a form of theatrical double act in which one performer speaks or sings while the other, in front, pretends to be doing the speaking or singing; double reed (as in an oboe or bassoon)"
+]
+],
 "strokes": [
 "M 349 724 Q 368 752 387 776 Q 396 786 384 799 Q 350 829 326 827 Q 317 826 318 812 Q 327 737 241 643 Q 234 643 205 606 Q 198 593 211 597 Q 224 598 245 613 Q 302 653 337 705 L 349 724 Z",
 "M 337 705 Q 350 698 371 694 L 527 725 Q 530 726 532 728 Q 539 735 535 742 Q 528 752 503 757 Q 482 760 408 736 Q 381 730 349 724 C 320 718 312 717 337 705 Z",

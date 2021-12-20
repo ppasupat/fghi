@@ -1,24 +1,30 @@
 {
 "char": "紊",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "confused, disorder",
 "pron": "wěn"
 },
 "words": [
 [
-"有条不紊",
-6,
-"yǒu tiáo bù wěn",
-"regular and thorough (idiom); methodically arranged"
+"紊乱",
+7,
+"wěn luàn",
+"disorder; chaos"
 ]
 ],
 "extraWords": [
 [
-"紊乱",
-8.07,
-"wěn luàn",
-"disorder; chaos"
+"有条不紊",
+2.44,
+"yǒu tiáo bù wěn",
+"regular and thorough (idiom); methodically arranged"
+],
+[
+"紊",
+0.7,
+"wěn",
+"involved; tangled; disorderly; confused; chaotic; Taiwan pr. [wen4]"
 ]
 ],
 "strokes": [

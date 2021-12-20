@@ -1,6 +1,6 @@
 {
 "char": "剑",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "sword, dagger, saber",
 "pron": "jiàn"
@@ -10,16 +10,29 @@
 "剑",
 6,
 "jiàn",
-"double-edged sword; CL:口[kou3],把[ba3]; classifier for blows of a sword"
+"double-edged sword; CL:口[kǒu],把[bǎ]; classifier for blows of a sword"
 ],
 [
 "剑",
 6,
 "jiàn",
-"variant of 劍|剑[jian4]"
+"variant of 剑[jiàn]"
+],
+[
+"刻舟求剑",
+7,
+"kè zhōu qiú jiàn",
+"lit. a notch on the side of a boat to locate a sword dropped overboard (idiom); fig. an action made pointless by changed circumstances"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"长剑",
+5.6,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 369 691 Q 384 713 398 725 Q 408 735 403 750 Q 399 763 369 788 Q 341 807 322 807 Q 303 806 311 783 Q 324 749 312 722 Q 246 568 76 368 Q 66 358 62 351 Q 58 339 73 342 Q 136 349 318 610 Q 330 631 345 651 Q 349 660 354 667 L 369 691 Z",
 "M 354 667 Q 411 628 481 570 Q 497 554 512 553 Q 519 553 525 563 Q 534 576 517 612 Q 502 655 369 691 C 340 699 329 684 354 667 Z",

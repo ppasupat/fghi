@@ -1,6 +1,6 @@
 {
 "char": "贯",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "a string of 1000 coins; to go through",
 "pron": "guàn"
@@ -14,23 +14,29 @@
 ],
 [
 "贯彻",
-6,
+7,
 "guàn chè",
 "to implement; to put into practice; to carry out"
 ],
 [
-"籍贯",
-6,
-"jí guàn",
-"one's native place; place of ancestry; registered birthplace"
+"贯穿",
+7,
+"guàn chuān",
+"to run through; a connecting thread from beginning to end; to link"
+],
+[
+"贯通",
+7,
+"guàn tōng",
+"to link up; to thread together"
 ]
 ],
 "extraWords": [
 [
-"贯穿",
-10.01,
-"guàn chuān",
-"to run through; a connecting thread from beginning to end; to link"
+"贯",
+10.88,
+"guàn",
+"to pierce through; to pass through; to be stringed together; string of 1000 cash"
 ]
 ],
 "strokes": [

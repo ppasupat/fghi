@@ -1,43 +1,61 @@
 {
 "char": "损",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "diminish; impair; injure",
 "pron": "sǔn"
 },
 "words": [
 [
-"损失",
-5,
-"sǔn shī",
-"loss; damage; CL:個|个[ge4]; to lose; to suffer damage"
-],
-[
-"损坏",
-6,
-"sǔn huài",
-"to damage; to injure"
-],
-[
-"亏损",
-6,
-"kuī sǔn",
-"deficit; (financial) loss"
-]
-],
-"extraWords": [
-[
 "损害",
-40.35,
+5,
 "sǔn hài",
 "harm; to damage; to impair"
 ],
 [
+"损失",
+5,
+"sǔn shī",
+"loss; damage; CL:个[gè]; to lose; to suffer damage"
+],
+[
+"亏损",
+7,
+"kuī sǔn",
+"deficit; (financial) loss"
+],
+[
+"磨损",
+7,
+"mó sǔn",
+"wear and tear; abrasion"
+],
+[
+"损",
+7,
+"sǔn",
+"to decrease; to lose; to damage; to harm; (coll.) to speak sarcastically; to deride; caustic; mean; one of the 64 hexagrams of the Book of Changes (䷨)"
+],
+[
+"损坏",
+7,
+"sǔn huài",
+"to damage; to injure"
+],
+[
+"损人利己",
+7,
+"sǔn rén lì jǐ",
+"harming others for one's personal benefit (idiom); personal gain to the detriment of others"
+],
+[
 "损伤",
-40.01,
+7,
 "sǔn shāng",
 "to harm; to damage; to injure; impairment; loss; disability"
+]
 ],
+"extraWords": [
 [
 "缺损",
 6.91,
@@ -49,12 +67,6 @@
 5.37,
 "shòu sǔn",
 "to suffer damage"
-],
-[
-"磨损",
-5.02,
-"mó sǔn",
-"wear and tear; abrasion"
 ]
 ],
 "strokes": [

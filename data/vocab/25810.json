@@ -1,12 +1,31 @@
 {
 "char": "擒",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "catch, capture, seize, arrest",
 "pron": "qín"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"擒",
+5.23,
+"qín",
+"to capture"
+],
+[
+"擒获",
+2.01,
+"qín huò",
+"to apprehend; to capture; to seize"
+],
+[
+"欲擒故纵",
+0.86,
+"yù qín gù zòng",
+"In order to capture, one must let loose.; to loosen the reins only to grasp them better"
+]
+],
 "strokes": [
 "M 315 548 Q 331 554 353 559 Q 384 569 389 574 Q 396 581 392 590 Q 385 600 357 604 Q 336 607 317 600 L 271 580 Q 189 553 133 543 Q 100 534 126 521 Q 166 502 215 519 Q 242 528 270 535 L 315 548 Z",
 "M 267 343 Q 266 246 264 122 Q 263 98 251 89 Q 247 86 175 100 Q 144 110 147 101 Q 148 94 167 81 Q 228 35 244 7 Q 263 -24 278 -25 Q 291 -26 304 6 Q 320 48 319 115 Q 312 247 311 378 L 311 411 Q 311 481 315 548 L 317 600 Q 317 678 335 741 Q 351 769 300 789 Q 269 807 251 800 Q 235 794 250 773 Q 269 748 270 717 Q 271 701 271 580 L 270 535 Q 269 474 268 388 L 267 343 Z",

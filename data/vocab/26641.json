@@ -1,6 +1,6 @@
 {
 "char": "树",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "tree; plant; set up, establish",
 "pron": "shù"
@@ -8,35 +8,113 @@
 "words": [
 [
 "树",
-3,
+1,
 "shù",
-"tree; CL:棵[ke1]; to cultivate; to set up"
+"tree; CL:棵[kē]; to cultivate; to set up"
 ],
-[
-"树立",
-6,
-"shù lì",
-"to set up; to establish"
-]
-],
-"extraWords": [
 [
 "树林",
-18.72,
+4,
 "Shù lín",
-"Shulin city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+"Shulin city in New Taipei City 新北市[Xīn běi shì], Taiwan"
 ],
 [
 "树林",
-18.72,
+4,
 "shù lín",
 "woods; grove; forest"
 ],
 [
+"树叶",
+4,
+"shù yè",
+"tree leaves"
+],
+[
+"松树",
+4,
+"sōng shù",
+"pine; pine tree; CL:棵[kē]"
+],
+[
+"桃树",
+5,
+"táo shù",
+"peach tree; CL:株[zhū]"
+],
+[
+"果树",
+6,
+"guǒ shù",
+"fruit tree; CL:棵[kē]"
+],
+[
+"柏树",
+7,
+"bǎi shù",
+"cypress tree; Taiwan pr. [bo2 shu4]"
+],
+[
+"槐树",
+7,
+"huái shù",
+"locust tree (Sophora japonica)"
+],
+[
+"建树",
+7,
+"jiàn shù",
+"to make a contribution; to establish; to found; contribution"
+],
+[
+"柳树",
+7,
+"liǔ shù",
+"willow"
+],
+[
+"树立",
+7,
+"shù lì",
+"to set up; to establish"
+],
+[
 "树木",
-10.12,
+7,
 "shù mù",
 "tree"
+],
+[
+"树梢",
+7,
+"shù shāo",
+"the tip of a tree; treetop"
+],
+[
+"树荫",
+7,
+"shù yìn",
+"shade of a tree"
+],
+[
+"树枝",
+7,
+"shù zhī",
+"branch; twig"
+],
+[
+"杨树",
+7,
+"yáng shù",
+"poplar tree; various trees of genus Populus"
+]
+],
+"extraWords": [
+[
+"树上",
+6.11,
+"???",
+"???"
 ],
 [
 "圣诞树",
@@ -45,28 +123,10 @@
 "Christmas tree"
 ],
 [
-"果树",
-5.58,
-"guǒ shù",
-"fruit tree; CL:棵[ke1]"
-],
-[
 "树脂",
 5.36,
 "shù zhī",
 "resin"
-],
-[
-"树枝",
-5.29,
-"shù zhī",
-"branch; twig"
-],
-[
-"树叶",
-5.08,
-"shù yè",
-"tree leaves"
 ]
 ],
 "strokes": [

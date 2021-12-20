@@ -1,52 +1,112 @@
 {
 "char": "级",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "level, rank, class; grade",
 "pron": "jí"
 },
 "words": [
 [
-"年级",
-3,
-"nián jí",
-"grade; year (in school, college etc); CL:個|个[ge4]"
-],
-[
-"超级",
-5,
-"chāo jí",
-"super-; ultra-; hyper-"
-],
-[
 "高级",
-5,
+2,
 "gāo jí",
 "high level; high grade; advanced; high-ranking"
 ],
 [
+"级",
+2,
+"jí",
+"level; grade; rank; step (of stairs); CL:个[gè]; classifier: step, level"
+],
+[
+"年级",
+2,
+"nián jí",
+"grade; year (in school, college etc); CL:个[gè]"
+],
+[
+"中级",
+2,
+"zhōng jí",
+"middle level (in a hierarchy)"
+],
+[
+"班级",
+3,
+"bān jí",
+"class (group of students); grade (in school)"
+],
+[
+"超级",
+3,
+"chāo jí",
+"super-; ultra-; hyper-"
+],
+[
 "初级",
-5,
+3,
 "chū jí",
 "junior; primary"
 ],
 [
-"级别",
+"等级",
+5,
+"děng jí",
+"grade; rank; status"
+],
+[
+"上级",
+5,
+"shàng jí",
+"higher authorities; superiors; CL:个[gè]"
+],
+[
+"升级",
 6,
+"shēng jí",
+"to escalate (in intensity); to go up by one grade; to be promoted; to upgrade (computing)"
+],
+[
+"顶级",
+7,
+"dǐng jí",
+"top-notch; first-rate"
+],
+[
+"级别",
+7,
 "jí bié",
 "(military) rank; level; grade"
 ],
 [
-"上级",
-6,
-"shàng jí",
-"higher authorities; superiors; CL:個|个[ge4]"
+"阶级",
+7,
+"jiē jí",
+"(social) class; CL:个[gè]"
 ],
 [
-"等级",
-6,
-"děng jí",
-"grade; rank; status"
+"世界级",
+7,
+"shì jiè jí",
+"world-class"
+],
+[
+"五星级",
+7,
+"wǔ xīng jí",
+"five-star (hotel)"
+],
+[
+"下级",
+7,
+"xià jí",
+"low ranking; low level; underclass; subordinate"
+],
+[
+"重量级",
+7,
+"zhòng liàng jí",
+"heavyweight (boxing etc)"
 ]
 ],
 "extraWords": [
@@ -57,22 +117,10 @@
 "all levels"
 ],
 [
-"升级",
-75.69,
-"shēng jí",
-"to escalate (in intensity); to go up by one grade; to be promoted; to upgrade (computing)"
-],
-[
 "无产阶级",
 42.58,
 "wú chǎn jiē jí",
 "proletariat"
-],
-[
-"阶级",
-24.48,
-"jiē jí",
-"(social) class; CL:個|个[ge4]"
 ],
 [
 "资产阶级",
@@ -123,22 +171,16 @@
 "working class"
 ],
 [
-"顶级",
-9.39,
-"dǐng jí",
-"top-notch; first-rate"
+"二级市场",
+8.99,
+"???",
+"???"
 ],
 [
-"中级",
-8.28,
-"zhōng jí",
-"middle level (in a hierarchy)"
-],
-[
-"班级",
-7.86,
-"bān jí",
-"class (group of students); grade (in school)"
+"市级",
+7.78,
+"???",
+"???"
 ],
 [
 "分级",
@@ -165,12 +207,6 @@
 "grade 2; second class; category B"
 ],
 [
-"世界级",
-5.6,
-"shì jiè jí",
-"world-class"
-],
-[
 "低级",
 5.51,
 "dī jí",
@@ -183,22 +219,10 @@
 "star rating; top-class; highly rated"
 ],
 [
-"重量级",
-5.48,
-"zhòng liàng jí",
-"heavyweight (boxing etc)"
-],
-[
 "降级",
 5.26,
 "jiàng jí",
 "to demote; to relegate; to degrade"
-],
-[
-"五星级",
-5.1,
-"wǔ xīng jí",
-"five-star (hotel)"
 ]
 ],
 "strokes": [

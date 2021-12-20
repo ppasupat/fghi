@@ -1,12 +1,31 @@
 {
 "char": "癸",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "10th heavenly stem",
 "pron": "guǐ"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"癸",
+0.73,
+"guǐ",
+"tenth of the ten Heavenly Stems 十天干[shí tiān gān]; tenth in order; letter \"J\" or Roman \"X\" in list \"A, B, C\", or \"I, II, III\" etc; ancient Chinese compass point: 15°; deca"
+],
+[
+"癸卯",
+0.35,
+"guǐ mǎo",
+"fortieth year J4 of the 60 year cycle, e.g. 1963 or 2023"
+],
+[
+"癸未",
+0.34,
+"guǐ wèi",
+"twentieth year J8 of the 60 year cycle, e.g. 2003 or 2063"
+]
+],
 "strokes": [
 "M 296 510 Q 215 386 78 281 Q 65 269 74 267 Q 83 266 102 275 Q 198 323 276 404 Q 352 479 447 674 Q 457 695 467 705 Q 480 715 473 725 Q 464 737 430 749 Q 409 761 369 741 Q 315 726 238 719 Q 225 718 225 710 Q 224 704 237 697 Q 280 675 305 683 Q 374 705 380 705 Q 393 702 382 679 Q 346 598 313 539 L 296 510 Z",
 "M 313 539 Q 298 575 260 585 Q 214 601 195 602 Q 186 602 187 591 Q 187 579 264 522 Q 283 509 296 510 C 326 509 325 512 313 539 Z",

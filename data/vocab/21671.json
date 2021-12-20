@@ -1,12 +1,44 @@
 {
 "char": "咧",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "stretch mouth, grimace, grin",
 "pron": "liē, liě"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"大大咧咧",
+7,
+"dà dà liē liē",
+"carefree; offhand; casual"
+],
+[
+"咧嘴",
+7,
+"liě zuǐ",
+"to grin"
+]
+],
+"extraWords": [
+[
+"咧",
+15.37,
+"liē",
+"see 咧咧[liē liē]"
+],
+[
+"咧",
+15.37,
+"liě",
+"to draw back the corners of one's mouth"
+],
+[
+"咧",
+15.37,
+"lie",
+"modal particle expressing exclamation"
+]
+],
 "strokes": [
 "M 126 585 Q 116 591 86 597 Q 74 601 71 596 Q 64 590 72 575 Q 99 514 111 414 Q 112 384 129 363 Q 145 342 151 357 Q 155 370 156 393 L 152 427 Q 137 527 136 558 C 135 581 135 581 126 585 Z",
 "M 276 446 Q 291 534 314 561 Q 336 588 312 601 Q 293 611 266 627 Q 250 636 202 610 Q 165 598 126 585 C 98 576 107 551 136 558 Q 175 567 214 575 Q 233 579 237 572 Q 244 565 226 449 C 221 419 271 416 276 446 Z",

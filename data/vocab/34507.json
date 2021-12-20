@@ -1,6 +1,6 @@
 {
 "char": "蛋",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "eggs; term of abuse",
 "pron": "dàn"
@@ -8,21 +8,45 @@
 "words": [
 [
 "鸡蛋",
-2,
+1,
 "jī dàn",
-"(chicken) egg; hen's egg; CL:個|个[ge4],打[da2]"
+"(chicken) egg; hen's egg; CL:个[gè],打[dá]"
+],
+[
+"蛋",
+2,
+"Dàn",
+"variant of 蜑[Dàn]"
+],
+[
+"蛋",
+2,
+"dàn",
+"egg; CL:个[gè],打[dá]; oval-shaped thing"
 ],
 [
 "蛋糕",
-3,
+5,
 "dàn gāo",
-"cake; CL:塊|块[kuai4],個|个[ge4]"
+"cake; CL:块[kuài],个[gè]"
+],
+[
+"笨蛋",
+7,
+"bèn dàn",
+"fool; idiot"
 ],
 [
 "蛋白质",
-6,
+7,
 "dàn bái zhì",
 "protein"
+],
+[
+"完蛋",
+7,
+"wán dàn",
+"(coll.) to be done for"
 ]
 ],
 "extraWords": [
@@ -33,22 +57,10 @@
 "scoundrel; bastard; hoodlum; wretch"
 ],
 [
-"笨蛋",
-69.9,
-"bèn dàn",
-"fool; idiot"
-],
-[
 "蛋白",
 33.89,
 "dàn bái",
 "egg white; protein; albumen"
-],
-[
-"完蛋",
-26.26,
-"wán dàn",
-"(coll.) to be done for"
 ],
 [
 "坏蛋",

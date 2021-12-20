@@ -1,42 +1,60 @@
 {
 "char": "姐",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "elder sister, young lady",
 "pron": "jiě"
 },
 "words": [
 [
+"姐姐",
+1,
+"jiě jie",
+"older sister; CL:个[gè]"
+],
+[
+"姐",
+1,
+"jiě",
+"older sister"
+],
+[
 "小姐",
 1,
 "xiǎo jie",
-"young lady; miss; (slang) prostitute; CL:個|个[ge4],位[wei4]"
+"young lady; miss; (slang) prostitute; CL:个[gè],位[wèi]"
 ],
 [
-"姐姐",
-2,
-"jiě jie",
-"older sister; CL:個|个[ge4]"
+"大姐",
+4,
+"dà jiě",
+"big sister; elder sister; older sister (also polite term of address for a girl or woman slightly older than the speaker)"
+],
+[
+"姐妹",
+4,
+"jiě mèi",
+"sisters; siblings; sister (school, city etc)"
 ]
 ],
 "extraWords": [
 [
-"姐妹",
-39.94,
-"jiě mèi",
-"sisters; siblings; sister (school, city etc)"
-],
-[
-"大姐",
-9.59,
-"dà jiě",
-"big sister; elder sister; older sister (also polite term of address for a girl or woman slightly older than the speaker)"
+"姐妹们",
+7.35,
+"???",
+"???"
 ],
 [
 "姐夫",
 5.85,
 "jiě fu",
 "(coll.) older sister's husband"
+],
+[
+"凤姐",
+5.18,
+"???",
+"???"
 ],
 [
 "师姐",

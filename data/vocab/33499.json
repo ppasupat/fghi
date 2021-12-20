@@ -1,17 +1,30 @@
 {
 "char": "苛",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "small, petty; harsh, rigorous",
 "pron": "kē"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "苛刻",
-5.46,
+7,
 "kē kè",
 "harsh; severe; demanding"
+]
+],
+"extraWords": [
+[
+"苛求",
+2.33,
+"kē qiú",
+"demanding"
+],
+[
+"苛",
+1.99,
+"kē",
+"severe; exacting"
 ]
 ],
 "strokes": [

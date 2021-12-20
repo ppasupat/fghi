@@ -1,6 +1,6 @@
 {
 "char": "沙",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "sand, gravel, pebbles; granulated",
 "pron": "shā, shà"
@@ -8,24 +8,54 @@
 "words": [
 [
 "沙发",
-4,
+3,
 "shā fā",
-"sofa (loanword); CL:條|条[tiao2],張|张[zhang1]; (Internet slang) the first reply or replier to a forum post"
+"sofa (loanword); CL:条[tiáo],张[zhāng]; (Internet slang) the first reply or replier to a forum post"
+],
+[
+"沙子",
+3,
+"shā zi",
+"sand; grit; CL:粒[lì],把[bǎ]"
 ],
 [
 "沙漠",
 5,
 "shā mò",
-"desert; CL:個|个[ge4]"
+"desert; CL:个[gè]"
+],
+[
+"风沙",
+7,
+"fēng shā",
+"sand blown by wind; sandstorm"
+],
+[
+"沙龙",
+7,
+"shā lóng",
+"salon (loanword)"
 ],
 [
 "沙滩",
-5,
+7,
 "shā tān",
-"beach; sandy shore; CL:片[pian4]"
+"beach; sandy shore; CL:片[piàn]"
 ]
 ],
 "extraWords": [
+[
+"沙",
+45.26,
+"Shā",
+"surname Sha"
+],
+[
+"沙",
+45.26,
+"shā",
+"granule; hoarse; raspy; sand; powder; CL:粒[lì]; abbr. for Tsar or Tsarist Russia"
+],
 [
 "长沙",
 28.69,
@@ -39,22 +69,10 @@
 "salad (loanword)"
 ],
 [
-"沙龙",
-10.97,
-"shā lóng",
-"salon (loanword)"
-],
-[
-"沙子",
-7.96,
-"shā zi",
-"sand; grit; CL:粒[li4],把[ba3]"
-],
-[
 "加沙",
 7.42,
 "Jiā shā",
-"Gaza; same as 加沙地帶|加沙地带[Jia1 sha1 di4 dai4], the Gaza strip"
+"Gaza; same as 加沙地带[Jiā shā dì dài], the Gaza strip"
 ],
 [
 "沙特",

@@ -1,12 +1,43 @@
 {
 "char": "剿",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "destroy, exterminate, annihilate",
 "pron": "jiǎo"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"围剿",
+3.07,
+"wéi jiǎo",
+"to encircle and annihilate; refers to repeated campaigns of the Guomindang against the communists from 1930 onwards"
+],
+[
+"剿",
+1.9,
+"chāo",
+"to plagiarize"
+],
+[
+"剿",
+1.9,
+"jiǎo",
+"to destroy; to extirpate"
+],
+[
+"剿",
+1.9,
+"chāo",
+"variant of 剿[chāo]"
+],
+[
+"剿",
+1.9,
+"jiǎo",
+"variant of 剿[jiǎo]"
+]
+],
 "strokes": [
 "M 232 754 Q 213 703 177 670 Q 170 663 169 655 Q 168 645 189 629 Q 217 611 258 574 Q 271 558 281 562 Q 293 563 297 580 Q 301 601 293 614 Q 284 630 212 644 Q 200 647 199 653 Q 202 675 262 714 Q 274 724 282 728 Q 309 737 284 772 Q 271 793 255 799 Q 239 803 234 799 Q 231 796 234 787 Q 240 774 232 754 Z",
 "M 352 766 Q 337 721 309 693 Q 302 686 301 678 Q 300 669 319 654 Q 344 636 380 600 Q 392 585 401 588 Q 413 589 417 604 Q 421 623 415 636 Q 406 654 341 669 Q 331 672 331 677 Q 331 686 365 716 Q 390 738 400 743 Q 409 746 411 751 Q 415 764 400 785 Q 387 804 372 809 Q 357 813 352 808 Q 349 805 352 797 Q 359 785 352 766 Z",

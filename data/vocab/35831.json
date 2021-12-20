@@ -1,6 +1,6 @@
 {
 "char": "请",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "ask, request; invite; please",
 "pron": "qǐng"
@@ -14,83 +14,89 @@
 ],
 [
 "请假",
-3,
+1,
 "qǐng jià",
 "to request leave of absence"
 ],
 [
-"邀请",
-4,
-"yāo qǐng",
-"to invite; invitation; CL:個|个[ge4]"
+"请进",
+1,
+"qǐng jìn",
+"\"please come in\""
+],
+[
+"请问",
+1,
+"qǐng wèn",
+"Excuse me, may I ask...?"
+],
+[
+"请坐",
+1,
+"???",
+"???"
+],
+[
+"请客",
+2,
+"qǐng kè",
+"to give a dinner party; to entertain guests; to invite to dinner"
+],
+[
+"请求",
+2,
+"qǐng qiú",
+"to request; to ask; request; CL:个[gè]"
+],
+[
+"请教",
+3,
+"qǐng jiào",
+"to ask for guidance; to consult"
 ],
 [
 "申请",
 4,
 "shēn qǐng",
-"to apply for sth; application (form etc); CL:份[fen4]"
+"to apply for sth; application (form etc); CL:份[fèn]"
 ],
 [
-"请求",
+"邀请",
 5,
-"qǐng qiú",
-"to request; to ask; request; CL:個|个[ge4]"
-],
-[
-"请教",
-6,
-"qǐng jiào",
-"to ask for guidance; to consult"
-],
-[
-"请柬",
-6,
-"qǐng jiǎn",
-"invitation card; written invitation"
-],
-[
-"请帖",
-6,
-"qǐng tiě",
-"invitation card; written invitation"
-],
-[
-"请示",
-6,
-"qǐng shì",
-"to ask for instructions"
-]
-],
-"extraWords": [
-[
-"请问",
-29.96,
-"qǐng wèn",
-"Excuse me, may I ask...?"
+"yāo qǐng",
+"to invite; invitation; CL:个[gè]"
 ],
 [
 "聘请",
-14.32,
+6,
 "pìn qǐng",
 "to engage; to hire (a lawyer etc)"
 ],
 [
 "敬请",
-10.05,
+7,
 "jìng qǐng",
 "please (do sth) (deferential form)"
 ],
+[
+"请柬",
+7,
+"qǐng jiǎn",
+"invitation card; written invitation"
+],
+[
+"请帖",
+7,
+"qǐng tiě",
+"invitation card; written invitation"
+]
+],
+"extraWords": [
 [
 "请便",
 7.78,
 "qǐng biàn",
 "Please do as you wish!; You are welcome to do whatever you like!; Please make yourself at home."
-],
-[
-"请客",
-7.66,
-"qǐng kè",
-"to give a dinner party; to entertain guests; to invite to dinner"
 ],
 [
 "有请",

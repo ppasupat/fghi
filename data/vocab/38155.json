@@ -1,16 +1,28 @@
 {
 "char": "锋",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "point of spear, sharp point",
 "pron": "fēng"
 },
 "words": [
 [
-"锋利",
+"先锋",
 6,
-"fēng lì",
-"sharp (e.g. knife blade); incisive; to the point"
+"xiān fēng",
+"vanguard; pioneer; avant-garde"
+],
+[
+"交锋",
+7,
+"jiāo fēng",
+"to cross swords; to have a confrontation (with sb)"
+],
+[
+"针锋相对",
+7,
+"zhēn fēng xiāng duì",
+"to oppose each other with equal harshness (idiom); tit for tat; measure for measure"
 ]
 ],
 "extraWords": [
@@ -21,22 +33,16 @@
 "vanguard; front line; a forward (sports)"
 ],
 [
-"先锋",
-13.58,
-"xiān fēng",
-"vanguard; pioneer; avant-garde"
+"锋",
+12.62,
+"fēng",
+"point of a spear; edge of a tool; vanguard; forward (in sports team)"
 ],
 [
 "雷锋",
 8.24,
 "Léi Fēng",
 "Lei Feng (1940-1962), made into a model of altruism and dedication to the Party by propaganda from 1963 onwards"
-],
-[
-"交锋",
-8.11,
-"jiāo fēng",
-"to cross swords; to have a confrontation (with sb)"
 ],
 [
 "中锋",

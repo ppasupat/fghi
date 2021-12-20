@@ -1,67 +1,79 @@
 {
 "char": "属",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "class, category, type; belong to",
 "pron": "shǔ"
 },
 "words": [
 [
-"属于",
-5,
-"shǔ yú",
-"to be classified as; to belong to; to be part of"
-],
-[
-"金属",
-5,
-"jīn shǔ",
-"metal; CL:種|种[zhong3]"
-],
-[
 "家属",
-6,
+3,
 "jiā shǔ",
 "family member; (family) dependent"
 ],
 [
-"下属",
-6,
-"xià shǔ",
-"subordinate; underling"
+"属",
+3,
+"shǔ",
+"category; genus (taxonomy); family members; dependents; to belong to; subordinate to; affiliated with; be born in the year of (one of the 12 animals); to be; to prove to be; to constitute"
 ],
 [
-"附属",
-6,
-"fù shǔ",
-"subsidiary; auxiliary; attached; affiliated; subordinate; subordinating"
-]
-],
-"extraWords": [
-[
-"所属",
-17.91,
-"suǒ shǔ",
-"one's affiliation (i.e. the organization one is affiliated with); subordinate (i.e. those subordinate to oneself); belonging to; affiliated; under one's command"
+"属",
+3,
+"zhǔ",
+"to join together; to fix one's attention on; to concentrate on"
 ],
 [
-"属性",
-16.51,
-"shǔ xìng",
-"attribute; property"
+"属于",
+3,
+"shǔ yú",
+"to be classified as; to belong to; to be part of"
 ],
 [
 "亲属",
-10.41,
+6,
 "qīn shǔ",
 "kin; kindred; relatives"
 ],
 [
+"附属",
+7,
+"fù shǔ",
+"subsidiary; auxiliary; attached; affiliated; subordinate; subordinating"
+],
+[
 "归属",
-9.08,
+7,
 "guī shǔ",
 "to belong to; to be affiliated to; to fall under the jurisdiction of; a place where one feels that one belongs; one's final destination (where one need look no further)"
 ],
+[
+"金属",
+7,
+"jīn shǔ",
+"metal; CL:种[zhǒng]"
+],
+[
+"属性",
+7,
+"shǔ xìng",
+"attribute; property"
+],
+[
+"所属",
+7,
+"suǒ shǔ",
+"one's affiliation (i.e. the organization one is affiliated with); subordinate (i.e. those subordinate to oneself); belonging to; affiliated; under one's command"
+],
+[
+"下属",
+7,
+"xià shǔ",
+"subordinate; underling"
+]
+],
+"extraWords": [
 [
 "直属",
 7.03,

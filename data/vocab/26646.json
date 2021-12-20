@@ -1,12 +1,32 @@
 {
 "char": "栖",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "perch; roost; stay",
 "pron": "qī"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"两栖",
+7,
+"liǎng qī",
+"amphibious; dual-talented; able to work in two different lines"
+]
+],
+"extraWords": [
+[
+"栖息",
+3.95,
+"qī xī",
+"(of a bird) to perch; (of creatures in general) to inhabit; to dwell"
+],
+[
+"栖",
+3.89,
+"qī",
+"to perch; to rest (of birds); to dwell; to live; to stay"
+]
+],
 "strokes": [
 "M 298 513 Q 320 520 347 526 Q 387 536 392 543 Q 401 552 396 560 Q 389 572 358 578 Q 327 582 299 568 L 258 553 Q 158 523 84 511 Q 47 502 74 487 Q 119 463 175 481 Q 206 490 240 497 L 298 513 Z",
 "M 296 417 Q 296 463 298 513 L 299 568 Q 299 667 321 742 Q 336 767 306 787 Q 291 799 266 813 Q 244 829 223 815 Q 219 811 224 795 Q 257 746 257 697 Q 257 630 258 553 L 254 411 Q 250 330 249 242 Q 245 164 223 93 Q 211 50 237 -6 Q 243 -24 251 -27 Q 257 -34 264 -25 Q 271 -21 282 -1 Q 292 24 291 54 Q 290 94 295 385 L 296 417 Z",

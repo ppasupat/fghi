@@ -1,6 +1,6 @@
 {
 "char": "疑",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "doubt, question, suspect",
 "pron": "yí"
@@ -14,47 +14,71 @@
 ],
 [
 "疑问",
-5,
+4,
 "yí wèn",
 "question; interrogation; doubt"
 ],
 [
+"无疑",
+5,
+"wú yí",
+"no doubt; undoubtedly"
+],
+[
+"半信半疑",
+7,
+"bàn xìn bàn yí",
+"half doubting; dubious; skeptical"
+],
+[
+"迟疑",
+7,
+"chí yí",
+"to hesitate"
+],
+[
+"可疑",
+7,
+"kě yí",
+"suspicious; dubious"
+],
+[
 "嫌疑",
-6,
+7,
 "xián yí",
 "suspicion; to have suspicions"
 ],
 [
+"疑点",
+7,
+"yí diǎn",
+"a doubtful point"
+],
+[
 "疑惑",
-6,
+7,
 "yí huò",
 "to doubt; to distrust; unconvincing; to puzzle over; misgivings; suspicions"
 ],
 [
-"迟疑",
-6,
-"chí yí",
-"to hesitate"
+"疑虑",
+7,
+"yí lǜ",
+"hesitation; misgivings; doubt"
+],
+[
+"质疑",
+7,
+"zhì yí",
+"to call into question; to question (truth or validity)"
 ]
 ],
 "extraWords": [
-[
-"无疑",
-48.63,
-"wú yí",
-"no doubt; undoubtedly"
-],
 [
 "嫌疑人",
 35.63,
 "xián yí rén",
 "a suspect"
-],
-[
-"质疑",
-28.47,
-"zhì yí",
-"to call into question; to question (truth or validity)"
 ],
 [
 "毫无疑问",
@@ -75,16 +99,10 @@
 "a suspect"
 ],
 [
-"可疑",
-16.04,
-"kě yí",
-"suspicious; dubious"
-],
-[
-"疑虑",
-5.39,
-"yí lǜ",
-"hesitation; misgivings; doubt"
+"疑",
+15.32,
+"yí",
+"to doubt; to suspect"
 ]
 ],
 "strokes": [

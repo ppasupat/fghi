@@ -1,6 +1,6 @@
 {
 "char": "亲",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "relatives, parents; intimate the hazel nut or filbert tree a thorny tree",
 "pron": "qīn, qìng"
@@ -8,107 +8,155 @@
 "words": [
 [
 "父亲",
-4,
+3,
 "fù qīn",
-"father; also pr. [fu4 qin5]; CL:個|个[ge4]"
+"father; also pr. [fu4 qin5]; CL:个[gè]"
 ],
 [
 "母亲",
-4,
+3,
 "mǔ qīn",
-"mother; also pr. [mu3 qin5]; CL:個|个[ge4]"
+"mother; also pr. [mu3 qin5]; CL:个[gè]"
 ],
 [
-"亲戚",
-4,
-"qīn qi",
-"a relative (i.e. family relation); CL:門|门[men2],個|个[ge4],位[wei4]"
+"亲",
+3,
+"qīn",
+"parent; one's own (flesh and blood); relative; related; marriage; bride; close; intimate; in person; first-hand; in favor of; pro-; to kiss; (Internet slang) dear"
 ],
 [
-"亲爱",
-5,
-"qīn ài",
-"dear; beloved; darling"
-],
-[
-"亲自",
-5,
-"qīn zì",
-"personally; in person; oneself"
+"亲",
+3,
+"qìng",
+"parents-in-law of one's offspring"
 ],
 [
 "亲切",
-5,
+3,
 "qīn qiè",
 "amiable; cordial; close and dear; familiar"
 ],
 [
+"亲人",
+3,
+"qīn rén",
+"one's close relatives"
+],
+[
+"亲自",
+3,
+"qīn zì",
+"personally; in person; oneself"
+],
+[
+"亲爱",
+4,
+"qīn ài",
+"dear; beloved; darling"
+],
+[
 "亲密",
-6,
+4,
 "qīn mì",
 "intimate; close"
 ],
 [
-"亲热",
+"亲属",
 6,
-"qīn rè",
-"affectionate; intimate; warmhearted; to get intimate with sb"
-]
+"qīn shǔ",
+"kin; kindred; relatives"
 ],
-"extraWords": [
 [
 "亲眼",
-20.84,
+6,
 "qīn yǎn",
 "with one's own eyes; personally"
 ],
 [
-"亲人",
-19.98,
-"qīn rén",
-"one's close relatives"
+"亲和力",
+7,
+"qīn hé lì",
+"(personal) warmth; approachability; accessibility; (in a product) user friendliness; (chemistry) affinity"
+],
+[
+"亲近",
+7,
+"qīn jìn",
+"intimate; to get close to"
+],
+[
+"亲朋好友",
+7,
+"qīn péng hǎo yǒu",
+"friends and family; kith and kin"
+],
+[
+"亲戚",
+7,
+"qīn qi",
+"a relative (i.e. family relation); CL:门[mén],个[gè],位[wèi]"
+],
+[
+"亲情",
+7,
+"qīn qíng",
+"affection; family love; love, esp. within a married couple or between parents and children"
+],
+[
+"亲热",
+7,
+"qīn rè",
+"affectionate; intimate; warmhearted; to get intimate with sb"
+],
+[
+"亲身",
+7,
+"qīn shēn",
+"personal; oneself"
+],
+[
+"亲生",
+7,
+"qīn shēng",
+"one's own (child) (i.e. one's child by birth); biological (parents); birth (parents)"
+],
+[
+"亲手",
+7,
+"qīn shǒu",
+"personally; with one's own hands"
+],
+[
+"亲友",
+7,
+"qīn yǒu",
+"friends and relatives"
+],
+[
+"探亲",
+7,
+"tàn qīn",
+"to go home to visit one's family"
+],
+[
+"乡亲",
+7,
+"xiāng qīn",
+"fellow countryman (from the same village); local people; villager; the folks back home"
+]
+],
+"extraWords": [
+[
+"亲爱的",
+19.02,
+"???",
+"???"
 ],
 [
 "亲吻",
 14.34,
 "qīn wěn",
 "to kiss; kiss"
-],
-[
-"亲手",
-13.77,
-"qīn shǒu",
-"personally; with one's own hands"
-],
-[
-"亲近",
-13.35,
-"qīn jìn",
-"intimate; to get close to"
-],
-[
-"亲生",
-12.16,
-"qīn shēng",
-"one's own (child) (i.e. one's child by birth); biological (parents); birth (parents)"
-],
-[
-"亲情",
-12.16,
-"qīn qíng",
-"affection; family love; love, esp. within a married couple or between parents and children"
-],
-[
-"亲属",
-10.41,
-"qīn shǔ",
-"kin; kindred; relatives"
-],
-[
-"亲友",
-8.44,
-"qīn yǒu",
-"friends and relatives"
 ],
 [
 "相亲",

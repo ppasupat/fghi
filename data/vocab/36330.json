@@ -1,6 +1,6 @@
 {
 "char": "跪",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "kneel",
 "pron": "guì"
@@ -19,6 +19,12 @@
 11.33,
 "guì xia",
 "to kneel down"
+],
+[
+"下跪",
+2.89,
+"xià guì",
+"to kneel; to go down on one's knees"
 ]
 ],
 "strokes": [

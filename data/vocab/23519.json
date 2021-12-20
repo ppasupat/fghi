@@ -1,28 +1,64 @@
 {
 "char": "察",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "examine, investigate; notice",
 "pron": "chá"
 },
 "words": [
 [
-"警察",
-4,
-"jǐng chá",
-"police; police officer; CL:個|个[ge4]"
+"观察",
+3,
+"guān chá",
+"to observe; to watch; to survey; to examine; observation; view; perspective; CL:个[gè]"
 ],
 [
-"观察",
-5,
-"guān chá",
-"to observe; to watch; to survey; to examine; observation; view; perspective; CL:個|个[ge4]"
+"警察",
+3,
+"jǐng chá",
+"police; police officer; CL:个[gè]"
 ],
 [
 "考察",
-6,
+4,
 "kǎo chá",
 "to inspect; to observe and study; on-the-spot investigation"
+],
+[
+"察觉",
+7,
+"chá jué",
+"to sense; to perceive; to become aware of; to detect"
+],
+[
+"察看",
+7,
+"chá kàn",
+"to watch; to look carefully at"
+],
+[
+"监察",
+7,
+"jiān chá",
+"to supervise; to control"
+],
+[
+"检察",
+7,
+"jiǎn chá",
+"to inspect; (law) to prosecute; to investigate"
+],
+[
+"视察",
+7,
+"shì chá",
+"to inspect; an investigation"
+],
+[
+"侦察",
+7,
+"zhēn chá",
+"to investigate a crime; to scout; to reconnoiter; reconnaissance; detection; a scout"
 ]
 ],
 "extraWords": [
@@ -39,30 +75,6 @@
 "police station; police department; police headquarters"
 ],
 [
-"监察",
-20.82,
-"jiān chá",
-"to supervise; to control"
-],
-[
-"检察",
-18.97,
-"jiǎn chá",
-"to inspect; (law) to prosecute; to investigate"
-],
-[
-"察觉",
-10.64,
-"chá jué",
-"to sense; to perceive; to become aware of; to detect"
-],
-[
-"视察",
-10.53,
-"shì chá",
-"to inspect; an investigation"
-],
-[
 "督察",
 10.37,
 "dū chá",
@@ -75,10 +87,22 @@
 "prosecutor's office; procuratorate"
 ],
 [
-"侦察",
-7.61,
-"zhēn chá",
-"to investigate a crime; to scout; to reconnoiter; reconnaissance; detection; a scout"
+"察",
+6.03,
+"Chá",
+"short name for Chahar Province 察哈尔[Chá hā ěr]"
+],
+[
+"察",
+6.03,
+"chá",
+"to examine; to inquire; to observe; to inspect; to look into; obvious; clearly evident"
+],
+[
+"察",
+6.03,
+"chá",
+"variant of 察[chá]"
 ],
 [
 "勘察",

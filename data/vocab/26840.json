@@ -1,17 +1,30 @@
 {
 "char": "棘",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "jujube tree; thorns, brambles",
 "pron": "jí"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "棘手",
-9.45,
+7,
 "jí shǒu",
 "thorny (problem); intractable"
+],
+[
+"荆棘",
+7,
+"jīng jí",
+"thistles and thorns; brambles; thorny undergrowth"
+]
+],
+"extraWords": [
+[
+"棘",
+1.85,
+"jí",
+"thorns"
 ]
 ],
 "strokes": [

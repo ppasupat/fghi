@@ -1,17 +1,11 @@
 {
 "char": "悟",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "to apprehend, realize, become aware",
 "pron": "wù"
 },
 "words": [
-[
-"领悟",
-6,
-"lǐng wù",
-"to understand; to comprehend"
-],
 [
 "觉悟",
 6,
@@ -20,12 +14,30 @@
 ],
 [
 "恍然大悟",
-6,
+7,
 "huǎng rán dà wù",
 "to suddenly realize; to suddenly see the light"
+],
+[
+"领悟",
+7,
+"lǐng wù",
+"to understand; to comprehend"
+],
+[
+"醒悟",
+7,
+"xǐng wù",
+"to come to oneself; to come to realize; to come to see the truth; to wake up to reality"
 ]
 ],
 "extraWords": [
+[
+"悟",
+11.28,
+"wù",
+"to comprehend; to apprehend; to become aware"
+],
 [
 "感悟",
 7.64,

@@ -1,6 +1,6 @@
 {
 "char": "秒",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "beard of grain or corn; a second",
 "pron": "miǎo"
@@ -8,12 +8,25 @@
 "words": [
 [
 "秒",
-4,
+5,
 "miǎo",
 "second (unit of time); arc second (angular measurement unit); (coll.) instantly"
+],
+[
+"争分夺秒",
+7,
+"zhēng fēn duó miǎo",
+"lit. fight minutes, snatch seconds (idiom); a race against time; making every second count"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"一秒",
+10.31,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 315 663 Q 409 711 445 720 Q 463 723 466 731 Q 469 741 455 753 Q 389 792 356 785 Q 349 781 349 769 Q 350 729 160 620 Q 156 610 162 608 Q 181 608 263 643 Q 272 647 284 650 L 315 663 Z",
 "M 338 512 Q 387 522 446 532 Q 462 535 462 542 Q 463 554 446 562 Q 416 574 340 552 L 298 541 Q 150 508 72 497 Q 59 496 57 488 Q 54 478 69 467 Q 108 443 145 456 Q 226 483 282 499 L 338 512 Z",

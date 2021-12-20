@@ -1,6 +1,6 @@
 {
 "char": "附",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "adhere to, append; rely on near to",
 "pron": "fù"
@@ -8,36 +8,54 @@
 "words": [
 [
 "附近",
-3,
+4,
 "fù jìn",
 "(in the) vicinity; nearby; neighboring; next to"
 ],
 [
-"附属",
-6,
-"fù shǔ",
-"subsidiary; auxiliary; attached; affiliated; subordinate; subordinating"
-],
-[
 "附件",
-6,
+5,
 "fù jiàn",
 "enclosure; attachment (email); appendix"
 ],
 [
+"附",
+7,
+"fù",
+"variant of 附[fù]"
+],
+[
+"附",
+7,
+"fù",
+"to add; to attach; to be close to; to be attached"
+],
+[
+"附带",
+7,
+"fù dài",
+"supplementary; incidentally; in parentheses; by chance; in passing; additionally; secondary; subsidiary; to attach"
+],
+[
 "附和",
-6,
+7,
 "fù hè",
 "to agree; to go along with; to echo (what sb says)"
-]
 ],
-"extraWords": [
 [
 "附加",
-10.6,
+7,
 "fù jiā",
 "additional; annex"
 ],
+[
+"附属",
+7,
+"fù shǔ",
+"subsidiary; auxiliary; attached; affiliated; subordinate; subordinating"
+]
+],
+"extraWords": [
 [
 "附加值",
 6.47,

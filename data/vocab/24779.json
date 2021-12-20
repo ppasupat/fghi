@@ -1,6 +1,6 @@
 {
 "char": "惋",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "regret, be sorry; alarmed",
 "pron": "wǎn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "惋惜",
-6,
+7,
 "wǎn xī",
 "to regret; to feel that it is a great pity; to feel sorry for sb"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"惋",
+0.17,
+"wǎn",
+"to sigh in regret or pity; Taiwan pr. [wan4]"
+],
+[
+"叹惋",
+0.07,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 109 499 Q 96 429 70 361 Q 55 328 79 298 Q 89 282 107 298 Q 125 317 133 350 Q 149 405 144 449 Q 143 480 132 503 Q 125 510 120 510 Q 113 507 109 499 Z",
 "M 266 558 Q 344 509 347 507 Q 350 507 354 507 Q 363 508 365 520 Q 368 533 357 556 Q 345 580 269 588 L 267 588 C 237 590 241 574 266 558 Z",

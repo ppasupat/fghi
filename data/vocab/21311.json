@@ -1,17 +1,30 @@
 {
 "char": "匿",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "hide; go into hiding",
 "pron": "nì"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"藏匿",
+7,
+"cáng nì",
+"to cover up; to conceal; to go into hiding"
+],
 [
 "匿名",
-10.61,
+7,
 "nì míng",
 "anonymous"
+]
+],
+"extraWords": [
+[
+"隐匿",
+2.14,
+"yǐn nì",
+"to cover up; to hide; to conceal"
 ]
 ],
 "strokes": [

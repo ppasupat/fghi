@@ -1,6 +1,6 @@
 {
 "char": "则",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "rule, law, regulation; grades",
 "pron": "zé"
@@ -13,26 +13,32 @@
 "if not; otherwise; else; or else"
 ],
 [
-"则",
-5,
-"zé",
-"(conjunction used to express contrast with a previous clause) but; then; standard; norm; principle; to imitate; to follow; classifier for written items"
-],
-[
 "规则",
-5,
+4,
 "guī zé",
 "rule; regulation; rules and regulations"
 ],
 [
 "原则",
-5,
+4,
 "yuán zé",
-"principle; doctrine; CL:個|个[ge4]"
+"principle; doctrine; CL:个[gè]"
+],
+[
+"以身作则",
+7,
+"yǐ shēn zuò zé",
+"to set an example (idiom); to serve as a model"
+],
+[
+"则",
+7,
+"zé",
+"(conjunction used to express contrast with a previous clause) but; then; standard; norm; principle; to imitate; to follow; classifier for written items"
 ],
 [
 "准则",
-6,
+7,
 "zhǔn zé",
 "norm; standard; criterion"
 ]

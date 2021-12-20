@@ -1,17 +1,30 @@
 {
 "char": "淌",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "trickle; flow down; drip",
 "pron": "tǎng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "流淌",
-5.07,
+7,
 "liú tǎng",
 "to flow"
+],
+[
+"淌",
+7,
+"tǎng",
+"to drip; to trickle; to shed (tears)"
+]
+],
+"extraWords": [
+[
+"淌口水",
+0.02,
+"tǎng kǒu shuǐ",
+"to let saliva dribble from the mouth; to slobber"
 ]
 ],
 "strokes": [

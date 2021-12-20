@@ -1,55 +1,85 @@
 {
 "char": "托",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "to hold up with palm; to support, rely on",
 "pron": "tuō"
 },
 "words": [
 [
-"摩托车",
+"摩托",
 5,
-"mó tuō chē",
-"motorbike; motorcycle (loanword); CL:輛|辆[liang4],部[bu4]"
-],
-[
-"拜托",
-6,
-"bài tuō",
-"to request sb to do sth; please!"
+"mó tuō",
+"motor (loanword); motorbike"
 ],
 [
 "委托",
-6,
+5,
 "wěi tuō",
 "to entrust; to trust; to commission"
 ],
 [
-"寄托",
+"托",
 6,
-"jì tuō",
-"to entrust (to sb); to place (one's hope, energy etc) in; a thing in which you invest (your hope, energy etc)"
+"tuō",
+"prop; support (for weight); rest (e.g. arm rest); thanks to; to hold in one's hand; to support in one's palm; to give; to base; to commit; to set; torr (unit of pressure)"
+],
+[
+"托",
+6,
+"tuō",
+"to trust; to entrust; to be entrusted with; to act as trustee"
+],
+[
+"拜托",
+7,
+"bài tuō",
+"to request sb to do sth; please!"
 ],
 [
 "衬托",
-6,
+7,
 "chèn tuō",
 "to set off"
 ],
 [
-"托运",
-6,
-"tuō yùn",
-"to consign (goods); to check through (baggage)"
+"烘托",
+7,
+"hōng tuō",
+"background (of a painting); backdrop; a foil (to set off something to advantage); to offset (something to advantage)"
+],
+[
+"寄托",
+7,
+"jì tuō",
+"to entrust (to sb); to place (one's hope, energy etc) in; a thing in which you invest (your hope, energy etc)"
+],
+[
+"托付",
+7,
+"tuō fù",
+"to entrust"
 ],
 [
 "依托",
-6,
+7,
 "yī tuō",
 "to rely on; to depend on; support"
 ]
 ],
 "extraWords": [
+[
+"摩托车",
+26.88,
+"mó tuō chē",
+"motorbike; motorcycle (loanword); CL:辆[liàng],部[bù]"
+],
+[
+"托尼",
+18.48,
+"???",
+"???"
+],
 [
 "委托人",
 16.31,
@@ -79,12 +109,6 @@
 8.08,
 "Tuō mǎ sī",
 "Thomas (male name)"
-],
-[
-"摩托",
-7.69,
-"mó tuō",
-"motor (loanword); motorbike"
 ]
 ],
 "strokes": [

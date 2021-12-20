@@ -1,6 +1,6 @@
 {
 "char": "倦",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "be tired of, weary",
 "pron": "juàn"
@@ -8,17 +8,29 @@
 "words": [
 [
 "疲倦",
-6,
+7,
 "pí juàn",
 "to tire; tired"
+],
+[
+"厌倦",
+7,
+"yàn juàn",
+"to be weary of; to be fed up with; tedious"
 ]
 ],
 "extraWords": [
 [
-"厌倦",
-22.12,
-"yàn juàn",
-"to be weary of; to be fed up with; tedious"
+"倦",
+3.08,
+"juàn",
+"tired"
+],
+[
+"倦",
+3.08,
+"juàn",
+"old variant of 倦[juàn]"
 ]
 ],
 "strokes": [

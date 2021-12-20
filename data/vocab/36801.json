@@ -1,50 +1,49 @@
 {
 "char": "迁",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "move, shift, change; transfer; relocate a capital city",
 "pron": "qiān"
 },
 "words": [
 [
-"迁徙",
-6,
-"qiān xǐ",
-"to migrate; to move"
-],
-[
-"迁就",
-6,
-"qiān jiù",
-"to yield; to adapt to; to accommodate to (sth)"
-],
-[
-"变迁",
-6,
-"biàn qiān",
-"changes; vicissitudes"
-]
-],
-"extraWords": [
-[
 "拆迁",
-22.95,
+6,
 "chāi qiān",
 "to demolish a building and relocate the inhabitants"
 ],
 [
 "搬迁",
-10.6,
+7,
 "bān qiān",
 "to move; to relocate; removal"
 ],
 [
+"变迁",
+7,
+"biàn qiān",
+"changes; vicissitudes"
+],
+[
+"迁",
+7,
+"qiān",
+"to move; to shift; to change (a position or location etc); to promote"
+],
+[
+"迁就",
+7,
+"qiān jiù",
+"to yield; to adapt to; to accommodate to (sth)"
+],
+[
 "迁移",
-7.92,
+7,
 "qiān yí",
 "to migrate; to move"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 600 657 Q 715 712 752 722 Q 770 725 774 733 Q 777 745 763 756 Q 739 771 692 786 Q 674 793 661 791 Q 654 787 653 775 Q 654 730 436 613 Q 432 603 438 600 Q 459 600 553 639 Q 557 640 565 643 L 600 657 Z",
 "M 646 439 Q 724 452 839 457 Q 893 457 901 468 Q 905 481 889 493 Q 826 532 772 512 Q 720 500 647 482 L 591 471 Q 492 452 379 431 Q 358 427 375 411 Q 405 384 472 404 Q 527 420 591 430 L 646 439 Z",

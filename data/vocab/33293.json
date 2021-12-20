@@ -1,17 +1,11 @@
 {
 "char": "舍",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "house, dwelling; dwell, reside",
 "pron": "shě, shè"
 },
 "words": [
-[
-"宿舍",
-5,
-"sù shè",
-"dormitory; dorm room; living quarters; hostel; CL:間|间[jian1]"
-],
 [
 "舍不得",
 5,
@@ -19,18 +13,54 @@
 "to hate to do sth; to hate to part with; to begrudge"
 ],
 [
-"锲而不舍",
-6,
-"qiè ér bù shě",
-"to chip away at a task and not abandon it (idiom); to chisel away at sth; to persevere; unflagging efforts"
+"舍得",
+5,
+"shě de",
+"to be willing to part with sth"
+],
+[
+"宿舍",
+5,
+"sù shè",
+"dormitory; dorm room; living quarters; hostel; CL:间[jiān]"
+],
+[
+"恋恋不舍",
+7,
+"liàn liàn bù shě",
+"reluctant to part"
+],
+[
+"依依不舍",
+7,
+"yī yī bù shě",
+"reluctant to part (idiom); broken-hearted at having to leave"
 ]
 ],
 "extraWords": [
 [
-"舍得",
-13.27,
-"shě de",
-"to be willing to part with sth"
+"舍",
+30.25,
+"shě",
+"to give up; to abandon; to give alms"
+],
+[
+"舍",
+30.25,
+"Shè",
+"surname She"
+],
+[
+"舍",
+30.25,
+"shě",
+"old variant of 舍[shě]"
+],
+[
+"舍",
+30.25,
+"shè",
+"residence"
 ]
 ],
 "strokes": [

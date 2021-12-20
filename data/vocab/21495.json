@@ -1,6 +1,6 @@
 {
 "char": "号",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "mark, sign; symbol; number",
 "pron": "háo, hào"
@@ -10,7 +10,7 @@
 "号",
 1,
 "háo",
-"roar; cry; CL:個|个[ge4]"
+"roar; cry; CL:个[gè]"
 ],
 [
 "号",
@@ -19,96 +19,126 @@
 "ordinal number; day of a month; mark; sign; business establishment; size; ship suffix; horn (wind instrument); bugle call; assumed name; to take a pulse; classifier used to indicate number of people"
 ],
 [
-"号码",
-4,
-"hào mǎ",
-"number; CL:堆[dui1],個|个[ge4]"
-],
-[
 "信号",
-5,
+2,
 "xìn hào",
 "signal"
 ],
 [
-"挂号",
-5,
-"guà hào",
-"to register (at a hospital etc); to send by registered mail"
-],
-[
 "符号",
-6,
+4,
 "fú hào",
 "symbol; mark; sign"
 ],
 [
+"号码",
+4,
+"hào mǎ",
+"number; CL:堆[duī],个[gè]"
+],
+[
+"括号",
+4,
+"kuò hào",
+"parentheses; brackets"
+],
+[
+"型号",
+4,
+"xíng hào",
+"model (particular version of a manufactured article); type (product specification in terms of color, size etc)"
+],
+[
 "称号",
-6,
+5,
 "chēng hào",
 "name; term of address; title"
 ],
 [
 "号召",
-6,
+5,
 "hào zhào",
 "to call; to appeal"
-]
 ],
-"extraWords": [
 [
 "口号",
-19.09,
+5,
 "kǒu hào",
-"slogan; catchphrase; CL:個|个[ge4]"
+"slogan; catchphrase; CL:个[gè]"
 ],
 [
-"型号",
-14.67,
-"xíng hào",
-"model (particular version of a manufactured article); type (product specification in terms of color, size etc)"
+"车号",
+6,
+"chē hào",
+"vehicle number (license plate number, taxi number, bus number, train car number)"
 ],
 [
 "编号",
-12.25,
+7,
 "biān hào",
 "to number; numbering; serial number"
 ],
 [
-"账号",
-12.05,
-"zhàng hào",
-"account; username"
-],
-[
-"号称",
-10.39,
-"hào chēng",
-"to be known as; to be nicknamed; to be purportedly; to claim (often exaggeratedly or falsely)"
-],
-[
-"头号",
-10.22,
-"tóu hào",
-"first rate; top rank; number one"
-],
-[
-"记号",
-7.48,
-"jì hao",
-"mark; symbol; notation; seal"
+"绰号",
+7,
+"chuò hào",
+"nickname"
 ],
 [
 "代号",
-7.27,
+7,
 "dài hào",
 "code name"
 ],
 [
-"绰号",
-7.12,
-"chuò hào",
+"挂号",
+7,
+"guà hào",
+"to register (at a hospital etc); to send by registered mail"
+],
+[
+"号称",
+7,
+"hào chēng",
+"to be known as; to be nicknamed; to be purportedly; to claim (often exaggeratedly or falsely)"
+],
+[
+"记号",
+7,
+"jì hao",
+"mark; symbol; notation; seal"
+],
+[
+"老字号",
+7,
+"lǎo zì hào",
+"shop, firm, or brand of merchandise with a long-established reputation"
+],
+[
+"头号",
+7,
+"tóu hào",
+"first rate; top rank; number one"
+],
+[
+"外号",
+7,
+"wài hào",
 "nickname"
+],
+[
+"账号",
+7,
+"zhàng hào",
+"account; username"
+]
+],
+"extraWords": [
+[
+"电话号码",
+6.72,
+"???",
+"???"
 ],
 [
 "暗号",

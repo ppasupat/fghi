@@ -1,6 +1,6 @@
 {
 "char": "壳",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "casing, shell, husk",
 "pron": "ké, qiào"
@@ -8,9 +8,15 @@
 "words": [
 [
 "贝壳",
-6,
+7,
 "bèi ké",
 "shell; conch; cowry; mother of pearl; hard outer skin; also pr. [bei4 qiao4]"
+],
+[
+"壳",
+7,
+"qiào",
+"shell; carapace; crust (earth's crust etc); also pr. [ke2]"
 ]
 ],
 "extraWords": [

@@ -1,6 +1,6 @@
 {
 "char": "典",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "law, canon; documentation; classic, scripture",
 "pron": "diǎn"
@@ -8,33 +8,63 @@
 "words": [
 [
 "词典",
-3,
+2,
 "cí diǎn",
-"dictionary; also written 辭典|辞典[ci2 dian3]; CL:部[bu4],本[ben3]"
+"dictionary; also written 辞典[cí diǎn]; CL:部[bù],本[běn]"
 ],
 [
-"经典",
-5,
-"jīng diǎn",
-"the classics; scriptures; classical; classic (example, case etc); typical"
-],
-[
-"古典",
-5,
-"gǔ diǎn",
-"classical"
+"字典",
+2,
+"zì diǎn",
+"Chinese character dictionary (containing entries for single characters, contrasted with a 词典[cí diǎn], which has entries for words of one or more characters); (coll.) dictionary; CL:本[běn]"
 ],
 [
 "典型",
-6,
+4,
 "diǎn xíng",
 "model; typical case; archetype; typical; representative"
 ],
 [
+"经典",
+4,
+"jīng diǎn",
+"the classics; scriptures; classical; classic (example, case etc); typical"
+],
+[
+"辞典",
+5,
+"cí diǎn",
+"dictionary; also written 词典[cí diǎn]; CL:本[běn],部[bù]"
+],
+[
 "典礼",
-6,
+5,
 "diǎn lǐ",
 "celebration; ceremony"
+],
+[
+"古典",
+6,
+"gǔ diǎn",
+"classical"
+],
+[
+"典范",
+7,
+"diǎn fàn",
+"model; example; paragon"
+],
+[
+"庆典",
+7,
+"qìng diǎn",
+"celebration"
+],
+[
+"引经据典",
+7,
+"yǐn jīng jù diǎn",
+"lit. to quote the classics; to quote chapter and verse (idiom)"
 ]
 ],
 "extraWords": [
@@ -51,10 +81,10 @@
 "atypical pneumonia; Severe Acute Respiratory Syndrome; SARS"
 ],
 [
-"庆典",
-8.66,
-"qìng diǎn",
-"celebration"
+"典",
+12.69,
+"diǎn",
+"canon; law; standard work of scholarship; literary quotation or allusion; ceremony; to be in charge of; to mortgage or pawn"
 ],
 [
 "盛典",
@@ -63,16 +93,16 @@
 "majestic pomp; grand ceremony"
 ],
 [
-"典范",
-6.58,
-"diǎn fàn",
-"model; example; paragon"
-],
-[
 "典雅",
 6.29,
 "diǎn yǎ",
 "refined; elegant"
+],
+[
+"雅典奥运会",
+6.28,
+"???",
+"???"
 ],
 [
 "雅典",

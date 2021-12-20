@@ -1,37 +1,55 @@
 {
 "char": "瓜",
-"level": 2,
+"level": "4",
 "info": {
 "gloss": "melon, gourd, cucumber; rad. 97",
 "pron": "guā"
 },
 "words": [
 [
-"西瓜",
-2,
-"xī guā",
-"watermelon; CL:顆|颗[ke1],粒[li4],個|个[ge5]"
-]
-],
-"extraWords": [
-[
-"傻瓜",
-59.05,
-"shǎ guā",
-"idiot; fool"
+"瓜",
+4,
+"guā",
+"melon; gourd; squash"
 ],
 [
 "黄瓜",
-9.9,
+4,
 "huáng guā",
-"cucumber; CL:條|条[tiao2]"
+"cucumber; CL:条[tiáo]"
+],
+[
+"西瓜",
+4,
+"xī guā",
+"watermelon; CL:颗[kē],粒[lì],个[ge]"
+],
+[
+"瓜分",
+7,
+"guā fēn",
+"to partition; to divide up"
+],
+[
+"瓜子",
+7,
+"guā zǐ",
+"melon seed; seeds of pumpkin, watermelon or sunflower etc, roasted and flavored, consumed as a snack"
 ],
 [
 "南瓜",
-8.94,
+7,
 "nán guā",
 "pumpkin"
 ],
+[
+"傻瓜",
+7,
+"shǎ guā",
+"idiot; fool"
+]
+],
+"extraWords": [
 [
 "木瓜",
 6.25,

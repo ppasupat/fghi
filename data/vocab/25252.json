@@ -1,6 +1,6 @@
 {
 "char": "护",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "protect, guard, defend, shelter",
 "pron": "hù"
@@ -8,72 +8,102 @@
 "words": [
 [
 "护照",
-3,
+2,
 "hù zhào",
-"passport; CL:本[ben3],個|个[ge4]"
+"passport; CL:本[běn],个[gè]"
 ],
 [
 "保护",
-4,
+3,
 "bǎo hù",
-"to protect; to defend; to safeguard; protection; CL:種|种[zhong3]"
+"to protect; to defend; to safeguard; protection; CL:种[zhǒng]"
+],
+[
+"爱护",
+4,
+"ài hù",
+"to cherish; to treasure; to take care of; to love and protect"
 ],
 [
 "护士",
 4,
 "hù shi",
-"nurse; CL:個|个[ge4]"
-],
-[
-"救护车",
-5,
-"jiù hù chē",
-"ambulance; CL:輛|辆[liang4]"
-],
-[
-"爱护",
-5,
-"ài hù",
-"to cherish; to treasure; to take care of; to love and protect"
-],
-[
-"辩护",
-6,
-"biàn hù",
-"to speak in defense of; to argue in favor of; to defend; to plead"
-],
-[
-"掩护",
-6,
-"yǎn hù",
-"to screen; to shield; to cover; protection; cover; CL:面[mian4]"
+"nurse; CL:个[gè]"
 ],
 [
 "维护",
-6,
+4,
 "wéi hù",
 "to defend; to safeguard; to protect; to uphold; to maintain"
 ],
 [
-"守护",
+"护",
 6,
+"hù",
+"to protect"
+],
+[
+"辩护",
+7,
+"biàn hù",
+"to speak in defense of; to argue in favor of; to defend; to plead"
+],
+[
+"防护",
+7,
+"fáng hù",
+"to defend; to protect"
+],
+[
+"呵护",
+7,
+"hē hù",
+"to bless; to cherish; to take good care of; to conserve"
+],
+[
+"护理",
+7,
+"hù lǐ",
+"to nurse; to tend and protect"
+],
+[
+"监护",
+7,
+"jiān hù",
+"to act as a guardian"
+],
+[
+"救护车",
+7,
+"jiù hù chē",
+"ambulance; CL:辆[liàng]"
+],
+[
+"看护",
+7,
+"kān hù",
+"to nurse; to look after; to watch over; (old) hospital nurse"
+],
+[
+"守护",
+7,
 "shǒu hù",
 "to guard; to protect"
 ],
 [
+"掩护",
+7,
+"yǎn hù",
+"to screen; to shield; to cover; protection; cover; CL:面[miàn]"
+],
+[
 "拥护",
-6,
+7,
 "yōng hù",
 "to endorse; to support"
 ]
 ],
 "extraWords": [
-[
-"护理",
-26.28,
-"hù lǐ",
-"to nurse; to tend and protect"
-],
 [
 "环境保护",
 16.44,
@@ -81,22 +111,16 @@
 "environmental protection"
 ],
 [
-"防护",
-13.83,
-"fáng hù",
-"to defend; to protect"
-],
-[
 "保护区",
 11.0,
 "bǎo hù qū",
-"conservation district; CL:個|个[ge4],片[pian4]"
+"conservation district; CL:个[gè],片[piàn]"
 ],
 [
-"呵护",
-8.61,
-"hē hù",
-"to bless; to cherish; to take good care of; to conserve"
+"辩护律师",
+9.57,
+"???",
+"???"
 ],
 [
 "护送",
@@ -111,12 +135,6 @@
 "doctors and nurses; medic; medical (personnel)"
 ],
 [
-"监护",
-6.89,
-"jiān hù",
-"to act as a guardian"
-],
-[
 "监护权",
 6.89,
 "jiān hù quán",
@@ -127,12 +145,6 @@
 6.47,
 "jiān hù rén",
 "guardian"
-],
-[
-"看护",
-6.2,
-"kān hù",
-"to nurse; to look after; to watch over; (old) hospital nurse"
 ],
 [
 "养护",

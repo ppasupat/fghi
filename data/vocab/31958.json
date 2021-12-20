@@ -1,6 +1,6 @@
 {
 "char": "糖",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "sugar; candy; sweets",
 "pron": "táng"
@@ -8,36 +8,48 @@
 "words": [
 [
 "糖",
-4,
+3,
 "táng",
-"sugar; sweets; candy; CL:顆|颗[ke1],塊|块[kuai4]"
+"sugar; sweets; candy; CL:颗[kē],块[kuài]"
 ],
 [
 "糖",
-4,
+3,
 "táng",
-"old variant of 糖[tang2]"
-]
+"old variant of 糖[táng]"
 ],
-"extraWords": [
+[
+"口香糖",
+7,
+"kǒu xiāng táng",
+"chewing gum"
+],
+[
+"砂糖",
+7,
+"shā táng",
+"granulated sugar"
+],
+[
+"糖果",
+7,
+"táng guǒ",
+"candy; CL:粒[lì]"
+],
 [
 "糖尿病",
-18.73,
+7,
 "táng niào bìng",
 "diabetes; diabetes mellitus"
 ],
 [
-"糖果",
-16.9,
-"táng guǒ",
-"candy; CL:粒[li4]"
+"喜糖",
+7,
+"xǐ táng",
+"sweet given on a happy occasion (esp. wedding)"
+]
 ],
-[
-"口香糖",
-12.19,
-"kǒu xiāng táng",
-"chewing gum"
-],
+"extraWords": [
 [
 "血糖",
 7.82,

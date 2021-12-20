@@ -1,34 +1,58 @@
 {
 "char": "偏",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "inclined one side; slanting",
 "pron": "piān"
 },
 "words": [
 [
-"偏见",
+"偏",
 6,
+"piān",
+"to lean; to slant; oblique; prejudiced; to deviate from average; to stray from the intended line; stubbornly; contrary to expectations"
+],
+[
+"偏差",
+7,
+"piān chā",
+"bias; deviation"
+],
+[
+"偏方",
+7,
+"piān fāng",
+"folk remedy; home remedy"
+],
+[
+"偏见",
+7,
 "piān jiàn",
 "prejudice; bias"
 ],
 [
-"偏偏",
-6,
-"piān piān",
-"(indicates that sth turns out just the opposite of what one would wish) unfortunately; as it happened; (indicates that sth is the opposite of what would be normal or reasonable) stubbornly; contrarily; against reason; (indicates that sb or a group is singled out) precisely; only; of all people"
-],
-[
 "偏僻",
-6,
+7,
 "piān pì",
 "remote; desolate; far from the city"
 ],
 [
-"偏差",
-6,
-"piān chā",
-"bias; deviation"
+"偏偏",
+7,
+"piān piān",
+"(indicates that sth turns out just the opposite of what one would wish) unfortunately; as it happened; (indicates that sth is the opposite of what would be normal or reasonable) stubbornly; contrarily; against reason; (indicates that sb or a group is singled out) precisely; only; of all people"
+],
+[
+"偏向",
+7,
+"piān xiàng",
+"partial towards sth; to prefer; to incline; erroneous tendencies (Leftist or Revisionist deviation)"
+],
+[
+"偏远",
+7,
+"piān yuǎn",
+"remote; far from civilization"
 ]
 ],
 "extraWords": [

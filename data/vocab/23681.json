@@ -1,6 +1,6 @@
 {
 "char": "岁",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "year; age; harvest",
 "pron": "suì"
@@ -10,7 +10,7 @@
 "岁",
 1,
 "suì",
-"variant of 歲|岁[sui4], year; years old"
+"variant of 岁[suì], year; years old"
 ],
 [
 "岁",
@@ -20,15 +20,15 @@
 ],
 [
 "岁月",
-6,
+5,
 "suì yuè",
 "years; time"
 ],
 [
-"压岁钱",
+"岁数",
 6,
-"yā suì qián",
-"money given to children as new year present"
+"suì shu",
+"age (number of years old)"
 ]
 ],
 "extraWords": [

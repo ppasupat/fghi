@@ -1,11 +1,23 @@
 {
 "char": "女",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "woman, girl; feminine; rad. 38",
 "pron": "nǚ"
 },
 "words": [
+[
+"女",
+1,
+"nǚ",
+"female; woman; daughter"
+],
+[
+"女",
+1,
+"rǔ",
+"archaic variant of 汝[rǔ]"
+],
 [
 "女儿",
 1,
@@ -13,43 +25,127 @@
 "daughter"
 ],
 [
-"女",
-2,
-"nǚ",
-"female; woman; daughter"
+"女孩儿",
+1,
+"nǚ hái r5",
+"erhua variant of 女孩[nǚ hái]"
 ],
 [
-"女",
-2,
-"rǔ",
-"archaic variant of 汝[ru3]"
+"女朋友",
+1,
+"nǚ péng you",
+"girlfriend"
 ],
-[
-"女士",
-5,
-"nǚ shì",
-"lady; madam; CL:個|个[ge4],位[wei4]; Miss; Ms"
-],
-[
-"妇女",
-5,
-"fù nǚ",
-"woman"
-]
-],
-"extraWords": [
 [
 "女人",
-428.9,
+1,
 "nǚ rén",
 "woman"
 ],
 [
 "女人",
-428.9,
+1,
 "nǚ ren",
 "wife"
 ],
+[
+"女生",
+1,
+"nǚ shēng",
+"schoolgirl; female student; girl"
+],
+[
+"女子",
+3,
+"nǚ zǐ",
+"woman; female"
+],
+[
+"子女",
+3,
+"zǐ nǚ",
+"children; sons and daughters"
+],
+[
+"美女",
+4,
+"měi nǚ",
+"beautiful woman"
+],
+[
+"男女",
+4,
+"nán nǚ",
+"male-female; male and female"
+],
+[
+"女士",
+4,
+"nǚ shì",
+"lady; madam; CL:个[gè],位[wèi]; Miss; Ms"
+],
+[
+"孙女",
+4,
+"sūn nǚ",
+"son's daughter; granddaughter"
+],
+[
+"儿女",
+5,
+"ér nǚ",
+"children; sons and daughters"
+],
+[
+"女性",
+5,
+"nǚ xìng",
+"woman; the female sex"
+],
+[
+"父女",
+6,
+"fù nǚ",
+"father and daughter"
+],
+[
+"妇女",
+6,
+"fù nǚ",
+"woman"
+],
+[
+"母女",
+6,
+"mǔ nǚ",
+"mother-daughter"
+],
+[
+"闺女",
+7,
+"guī nǚ",
+"maiden; unmarried woman; daughter"
+],
+[
+"女婿",
+7,
+"nǚ xu",
+"daughter's husband; son-in-law"
+],
+[
+"少女",
+7,
+"shào nǚ",
+"girl; young lady"
+],
+[
+"仙女",
+7,
+"xiān nǚ",
+"fairy"
+]
+],
+"extraWords": [
 [
 "女孩",
 393.39,
@@ -57,46 +153,10 @@
 "girl; lass"
 ],
 [
-"女性",
-95.59,
-"nǚ xìng",
-"woman; the female sex"
-],
-[
-"女子",
-93.29,
-"nǚ zǐ",
-"woman; female"
-],
-[
-"女朋友",
-78.73,
-"nǚ péng you",
-"girlfriend"
-],
-[
-"美女",
-62.55,
-"měi nǚ",
-"beautiful woman"
-],
-[
-"女生",
-59.68,
-"nǚ shēng",
-"schoolgirl; female student; girl"
-],
-[
 "处女",
 47.82,
 "chǔ nǚ",
 "virgin; maiden; inaugural"
-],
-[
-"男女",
-43.95,
-"nán nǚ",
-"male-female; male and female"
 ],
 [
 "女孩子",
@@ -123,22 +183,16 @@
 "girlfriend"
 ],
 [
-"少女",
-33.33,
-"shào nǚ",
-"girl; young lady"
-],
-[
-"子女",
-31.49,
-"zǐ nǚ",
-"children; sons and daughters"
+"女足",
+24.42,
+"???",
+"???"
 ],
 [
 "女郎",
 21.94,
 "nǚ láng",
-"young woman; maiden; girl; CL:個|个[ge4],位[wei4]"
+"young woman; maiden; girl; CL:个[gè],位[wèi]"
 ],
 [
 "女排",
@@ -171,10 +225,16 @@
 "witch"
 ],
 [
-"儿女",
-11.46,
-"ér nǚ",
-"children; sons and daughters"
+"女主角",
+11.56,
+"???",
+"???"
+],
+[
+"女声",
+8.25,
+"???",
+"???"
 ],
 [
 "侄女",
@@ -201,40 +261,46 @@
 "female servant; drudge"
 ],
 [
-"仙女",
-6.62,
-"xiān nǚ",
-"fairy"
-],
-[
 "女佣",
 6.23,
 "nǚ yōng",
 "(female) maid"
 ],
 [
-"孙女",
-6.02,
-"sūn nǚ",
-"son's daughter; granddaughter"
+"女篮",
+5.85,
+"???",
+"???"
+],
+[
+"王女士",
+5.84,
+"???",
+"???"
 ],
 [
 "女工",
 5.74,
 "nǚ gōng",
-"working woman; variant of 女紅|女红[nu:3 gong1]"
+"working woman; variant of 女红[nǚ gōng]"
 ],
 [
-"女婿",
-5.66,
-"nǚ xu",
-"daughter's husband; son-in-law"
+"女队",
+5.41,
+"???",
+"???"
 ],
 [
-"母女",
-5.27,
-"mǔ nǚ",
-"mother-daughter"
+"李女士",
+5.25,
+"???",
+"???"
+],
+[
+"张女士",
+5.06,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,16 +1,34 @@
 {
 "char": "浮",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "to float, drift, waft; to exceed; superfluous",
 "pron": "fú"
 },
 "words": [
 [
-"漂浮",
+"浮",
 6,
-"piāo fú",
-"to float; to hover; to drift (also fig., to lead a wandering life); to rove; showy; superficial"
+"fú",
+"to float; superficial; floating; unstable; movable; provisional; temporary; transient; impetuous; hollow; inflated; to exceed; superfluous; excessive; surplus"
+],
+[
+"浮力",
+7,
+"fú lì",
+"buoyancy"
+],
+[
+"浮现",
+7,
+"fú xiàn",
+"to appear before one's eyes; to come into view; to float into appearance; to come back (of images from the past); to emerge; it emerges; it occurs (to me that..)"
+],
+[
+"浮躁",
+7,
+"fú zào",
+"fickle and impatient; restless; giddy; scatterbrained"
 ]
 ],
 "extraWords": [
@@ -25,18 +43,6 @@
 7.46,
 "fú dòng",
 "to float and drift; unstable"
-],
-[
-"浮现",
-6.44,
-"fú xiàn",
-"to appear before one's eyes; to come into view; to float into appearance; to come back (of images from the past); to emerge; it emerges; it occurs (to me that..)"
-],
-[
-"浮躁",
-6.11,
-"fú zào",
-"fickle and impatient; restless; giddy; scatterbrained"
 ]
 ],
 "strokes": [

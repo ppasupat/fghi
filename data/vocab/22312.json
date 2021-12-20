@@ -1,17 +1,11 @@
 {
 "char": "在",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "be at, in, on; consist in, rest",
 "pron": "zài"
 },
 "words": [
-[
-"在",
-1,
-"zài",
-"(located) at; (to be) in; to exist; in the middle of doing sth; (indicating an action in progress)"
-],
 [
 "现在",
 1,
@@ -19,72 +13,138 @@
 "now; at present; at the moment; modern; current; nowadays"
 ],
 [
+"在",
+1,
+"zài",
+"(located) at; (to be) in; to exist; in the middle of doing sth; (indicating an action in progress)"
+],
+[
+"在家",
+1,
+"zài jiā",
+"to be at home; (at a workplace) to be in (as opposed to being away on official business 出差[chū chāi]); (Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 出家[chū jiā])"
+],
+[
 "正在",
-2,
+1,
 "zhèng zài",
 "just at (that time); right in (that place); right in the middle of (doing sth)"
 ],
 [
 "实在",
-4,
+2,
 "shí zài",
 "really; actually; indeed; true; real; honest; dependable; (philosophy) reality"
 ],
 [
 "存在",
-5,
+3,
 "cún zài",
 "to exist; to be; existence"
 ],
 [
+"不在乎",
+4,
+"bù zài hu",
+"not to care"
+],
+[
 "在乎",
-5,
+4,
 "zài hu",
-"to care about; equivalent of 在於|在于[zai4 yu2]"
+"to care about; equivalent of 在于[zài yú]"
 ],
 [
 "在于",
-5,
+4,
 "zài yú",
 "to be in; to lie in; to consist in; to depend on; to rest with"
 ],
 [
-"在意",
+"处在",
+5,
+"chǔ zài",
+"to be situated at; to find oneself at"
+],
+[
+"内在",
+5,
+"nèi zài",
+"inner; internal; intrinsic; innate"
+],
+[
+"所在",
+5,
+"suǒ zài",
+"place; location; (after a noun) place where it is located"
+],
+[
+"在场",
+5,
+"zài chǎng",
+"to be present; to be on the scene"
+],
+[
+"在内",
+5,
+"zài nèi",
+"(included) in it; among them"
+],
+[
+"自在",
 6,
+"zì zai",
+"free; unrestrained; comfortable; at ease"
+],
+[
+"好在",
+7,
+"hǎo zài",
+"luckily; fortunately"
+],
+[
+"潜在",
+7,
+"qián zài",
+"hidden; potential; latent"
+],
+[
+"在线",
+7,
+"zài xiàn",
+"online"
+],
+[
+"在意",
+7,
 "zài yì",
 "to care about; to mind"
 ],
 [
-"内在",
-6,
-"nèi zài",
-"inner; internal; intrinsic; innate"
+"在职",
+7,
+"zài zhí",
+"to be employed; to be in post; on-the-job"
+],
+[
+"旨在",
+7,
+"zhǐ zài",
+"to have as its purpose; to be intended to; to aim to (do sth)"
+],
+[
+"自由自在",
+7,
+"zì yóu zì zài",
+"free and easy (idiom); carefree; leisurely"
 ]
 ],
 "extraWords": [
-[
-"不在乎",
-72.62,
-"bù zài hu",
-"not to care"
-],
 [
 "不在",
 65.14,
 "bù zài",
 "not to be present; to be out; (euphemism) to pass away; to be deceased"
-],
-[
-"在家",
-56.44,
-"zài jiā",
-"to be at home; (at a workplace) to be in (as opposed to being away on official business 出差[chu1 chai1]); (Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 出家[chu1 jia1])"
-],
-[
-"所在",
-54.59,
-"suǒ zài",
-"place; location; (after a noun) place where it is located"
 ],
 [
 "在此",
@@ -93,22 +153,16 @@
 "hereto; here"
 ],
 [
-"在线",
-48.45,
-"zài xiàn",
-"online"
+"放在",
+36.96,
+"???",
+"???"
 ],
 [
-"在内",
-46.26,
-"zài nèi",
-"(included) in it; among them"
-],
-[
-"在场",
-35.12,
-"zài chǎng",
-"to be present; to be on the scene"
+"实在是",
+29.12,
+"???",
+"???"
 ],
 [
 "在下",
@@ -117,34 +171,16 @@
 "under; myself (humble)"
 ],
 [
-"处在",
-24.25,
-"chǔ zài",
-"to be situated at; to find oneself at"
-],
-[
-"潜在",
-21.44,
-"qián zài",
-"hidden; potential; latent"
+"仍在",
+27.14,
+"???",
+"???"
 ],
 [
 "在外",
 18.1,
 "zài wài",
 "outer; excluded"
-],
-[
-"旨在",
-17.19,
-"zhǐ zài",
-"to have as its purpose; to be intended to; to aim to (do sth)"
-],
-[
-"好在",
-16.21,
-"hǎo zài",
-"luckily; fortunately"
 ],
 [
 "在前",
@@ -159,10 +195,22 @@
 "location; site"
 ],
 [
-"自在",
-11.39,
-"zì zai",
-"free; unrestrained; comfortable; at ease"
+"就在于",
+9.31,
+"???",
+"???"
+],
+[
+"在建",
+8.3,
+"???",
+"???"
+],
+[
+"实实在在",
+7.84,
+"???",
+"???"
 ],
 [
 "在此之前",
@@ -183,16 +231,28 @@
 "to be present"
 ],
 [
-"在职",
-6.48,
-"zài zhí",
-"to be employed; to be in post; on-the-job"
+"远在",
+6.28,
+"???",
+"???"
 ],
 [
 "何在",
 5.9,
 "hé zài",
 "where?; what place?"
+],
+[
+"靠在",
+5.74,
+"???",
+"???"
+],
+[
+"守在",
+5.35,
+"???",
+"???"
 ],
 [
 "无处不在",

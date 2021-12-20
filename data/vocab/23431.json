@@ -1,19 +1,31 @@
 {
 "char": "宇",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "house; building, structure; eaves",
 "pron": "yǔ"
 },
 "words": [
 [
-"宇宙",
+"宇航员",
 6,
+"yǔ háng yuán",
+"astronaut"
+],
+[
+"宇宙",
+7,
 "yǔ zhòu",
 "universe; cosmos"
 ]
 ],
 "extraWords": [
+[
+"宇",
+20.78,
+"yǔ",
+"room; universe"
+],
 [
 "李宇春",
 8.26,
@@ -21,10 +33,10 @@
 "Li Yuchun aka Chris Lee (1984-), Chinese pop singer"
 ],
 [
-"宇航员",
-6.41,
-"yǔ háng yuán",
-"astronaut"
+"天宇",
+5.29,
+"???",
+"???"
 ]
 ],
 "strokes": [

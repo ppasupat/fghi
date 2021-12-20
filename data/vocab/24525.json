@@ -1,11 +1,17 @@
 {
 "char": "忍",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "endure, bear, suffer; forbear",
 "pron": "rěn"
 },
 "words": [
+[
+"忍",
+5,
+"rěn",
+"to bear; to endure; to tolerate; to restrain oneself"
+],
 [
 "忍不住",
 5,
@@ -14,36 +20,42 @@
 ],
 [
 "忍受",
-6,
+5,
 "rěn shòu",
 "to bear; to endure"
 ],
 [
 "残忍",
-6,
+7,
 "cán rěn",
 "cruel; mean; merciless; ruthless"
 ],
 [
-"容忍",
-6,
-"róng rěn",
-"to put up with; to tolerate"
+"忍饥挨饿",
+7,
+"rěn jī ái è",
+"starving; famished"
 ],
 [
 "忍耐",
-6,
+7,
 "rěn nài",
 "to endure; to bear with; to exercise patience; to restrain oneself; patience; endurance"
-]
 ],
-"extraWords": [
 [
 "忍心",
-6.41,
+7,
 "rěn xīn",
 "to have the heart to do sth; to steel oneself to a task"
 ],
+[
+"容忍",
+7,
+"róng rěn",
+"to put up with; to tolerate"
+]
+],
+"extraWords": [
 [
 "不忍",
 5.01,

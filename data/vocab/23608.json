@@ -1,6 +1,6 @@
 {
 "char": "尸",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "corpse; to impersonate the dead; to preside; KangXi radical 44",
 "pron": "shī"
@@ -8,12 +8,24 @@
 "words": [
 [
 "尸体",
-6,
+7,
 "shī tǐ",
-"dead body; corpse; carcass; CL:具[ju4]"
+"dead body; corpse; carcass; CL:具[jù]"
 ]
 ],
 "extraWords": [
+[
+"尸",
+43.94,
+"shī",
+"person representing the dead (during burial ceremonies); to put a corpse on display (after execution); variant of 尸[shī]; corpse"
+],
+[
+"尸",
+43.94,
+"shī",
+"corpse"
+],
 [
 "验尸",
 14.19,

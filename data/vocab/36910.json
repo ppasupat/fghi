@@ -1,14 +1,26 @@
 {
 "char": "逮",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "seize, catch; reach, arrive",
 "pron": "dǎi, dài"
 },
 "words": [
 [
+"逮",
+7,
+"dǎi",
+"(coll.) to catch; to seize"
+],
+[
+"逮",
+7,
+"dài",
+"(literary) to arrest; to seize; to overtake; until"
+],
+[
 "逮捕",
-6,
+7,
 "dài bǔ",
 "to arrest; to apprehend; an arrest"
 ]

@@ -1,16 +1,40 @@
 {
 "char": "棋",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "chess; any game similar to chess",
 "pron": "qí"
 },
 "words": [
 [
-"象棋",
-5,
-"xiàng qí",
-"Chinese chess; CL:副[fu4]"
+"棋",
+7,
+"qí",
+"variant of 棋[qí]"
+],
+[
+"棋",
+7,
+"qí",
+"chess; chess-like game; a game of chess; CL:盘[pán]; chess piece; CL:个[gè],颗[kē]"
+],
+[
+"棋",
+7,
+"qí",
+"variant of 棋[qí]"
+],
+[
+"棋子",
+7,
+"qí zǐ",
+"chess piece; CL:个[gè],颗[kē]; (fig.) a pawn (used by others for their own purposes)"
+],
+[
+"下棋",
+7,
+"xià qí",
+"to play chess"
 ]
 ],
 "extraWords": [

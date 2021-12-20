@@ -1,6 +1,6 @@
 {
 "char": "层",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "story, layer, floor, stratum",
 "pron": "céng"
@@ -8,48 +8,54 @@
 "words": [
 [
 "层",
-3,
+2,
 "céng",
 "layer; stratum; laminated; floor (of a building); storey; classifier for layers; repeated; sheaf (math.)"
 ],
 [
 "层次",
-6,
+5,
 "céng cì",
 "layer; level; gradation; arrangement of ideas; (a person's) standing"
 ],
 [
-"阶层",
+"层面",
 6,
-"jiē céng",
-"hierarchy; stratum; social class"
-],
-[
-"层出不穷",
-6,
-"céng chū bù qióng",
-"more and more emerge; innumerable succession; breeding like flies (idiom)"
-]
-],
-"extraWords": [
-[
-"基层",
-45.03,
-"jī céng",
-"basic level; grassroots unit; basement layer"
+"céng miàn",
+"aspect; facet; level (political, psychological, spiritual etc); (geology) bedding plane"
 ],
 [
 "高层",
-34.9,
+6,
 "gāo céng",
 "high level; high class"
 ],
 [
-"层面",
-25.02,
-"céng miàn",
-"aspect; facet; level (political, psychological, spiritual etc); (geology) bedding plane"
+"层出不穷",
+7,
+"céng chū bù qióng",
+"more and more emerge; innumerable succession; breeding like flies (idiom)"
 ],
+[
+"底层",
+7,
+"dǐ céng",
+"ground or first floor; bottom (of a pile); lowest rung (of society)"
+],
+[
+"基层",
+7,
+"jī céng",
+"basic level; grassroots unit; basement layer"
+],
+[
+"阶层",
+7,
+"jiē céng",
+"hierarchy; stratum; social class"
+]
+],
+"extraWords": [
 [
 "层层",
 10.0,
@@ -63,10 +69,16 @@
 "deep layer; deep; deep-seated; underlying"
 ],
 [
-"底层",
-6.18,
-"dǐ céng",
-"ground or first floor; bottom (of a pile); lowest rung (of society)"
+"多层次",
+7.04,
+"???",
+"???"
+],
+[
+"高层次",
+6.45,
+"???",
+"???"
 ],
 [
 "双层",

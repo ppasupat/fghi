@@ -1,31 +1,37 @@
 {
 "char": "割",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cut, divide, partition; cede",
 "pron": "gē"
 },
 "words": [
 [
-"割",
-6,
-"gē",
-"to cut; to cut apart"
-]
-],
-"extraWords": [
-[
 "分割",
-9.22,
+7,
 "fēn gē",
 "to cut up; to break up"
 ],
 [
+"割",
+7,
+"gē",
+"to cut; to cut apart"
+],
+[
 "切割",
-5.85,
+7,
 "qiē gē",
 "to cut"
 ],
+[
+"任人宰割",
+7,
+"rèn rén zǎi gē",
+"to get trampled on (idiom); to be taken advantage of"
+]
+],
+"extraWords": [
 [
 "交割",
 5.33,

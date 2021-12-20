@@ -1,6 +1,6 @@
 {
 "char": "啦",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "final particle of assertion",
 "pron": "lā, la"
@@ -17,16 +17,15 @@
 6,
 "la",
 "sentence-final particle, contraction of 了啊, indicating exclamation; particle placed after each item in a list of examples"
-]
 ],
-"extraWords": [
 [
 "啦啦队",
-16.16,
+7,
 "lā lā duì",
 "cheerleading squad"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 109 553 Q 100 557 82 562 Q 70 566 67 561 Q 60 557 67 540 Q 92 473 101 367 Q 101 334 118 312 Q 133 290 139 304 Q 146 320 145 350 L 142 384 Q 132 502 131 527 Q 131 528 130 529 L 109 553 Z",
 "M 263 404 Q 281 501 307 530 Q 328 555 306 568 Q 288 578 263 594 Q 248 603 200 579 Q 143 561 109 553 C 80 546 101 523 130 529 Q 172 538 206 546 Q 228 552 234 542 Q 243 535 234 495 Q 227 455 216 407 C 209 378 257 375 263 404 Z",

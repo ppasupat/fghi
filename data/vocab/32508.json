@@ -1,6 +1,6 @@
 {
 "char": "综",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "arrange threads for weaving",
 "pron": "zèng, zōng"
@@ -8,12 +8,36 @@
 "words": [
 [
 "综合",
-5,
+4,
 "zōng hé",
 "comprehensive; composite; synthesized; mixed; to sum up; to integrate; to synthesize"
+],
+[
+"错综复杂",
+7,
+"cuò zōng fù zá",
+"tangled and complicated (idiom)"
+],
+[
+"综上所述",
+7,
+"zōng shàng suǒ shù",
+"to summarize; to sum up"
 ]
 ],
 "extraWords": [
+[
+"综",
+16.02,
+"zèng",
+"heddle (device to form warp in weaving textiles); Taiwan pr. [zong4]"
+],
+[
+"综",
+16.02,
+"zōng",
+"to sum up; to put together; Taiwan pr. [zong4]"
+],
 [
 "综合性",
 10.78,
@@ -31,6 +55,18 @@
 7.78,
 "zōng hé zhèng",
 "syndrome"
+],
+[
+"综合治理",
+7.49,
+"???",
+"???"
+],
+[
+"综指",
+6.27,
+"???",
+"???"
 ]
 ],
 "strokes": [

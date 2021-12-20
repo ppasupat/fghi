@@ -1,6 +1,6 @@
 {
 "char": "衣",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "clothes, clothing; cover, skin",
 "pron": "yī"
@@ -10,45 +10,105 @@
 "衣服",
 1,
 "yī fu",
-"clothes; CL:件[jian4],套[tao4]"
+"clothes; CL:件[jiàn],套[tào]"
 ],
 [
-"衣裳",
+"大衣",
+2,
+"dà yī",
+"overcoat; topcoat; cloak; CL:件[jiàn]"
+],
+[
+"洗衣机",
+2,
+"xǐ yī jī",
+"washer; washing machine; CL:台[tái]"
+],
+[
+"衬衣",
+3,
+"chèn yī",
+"shirt; CL:件[jiàn]"
+],
+[
+"上衣",
+3,
+"shàng yī",
+"jacket; upper outer garment; CL:件[jiàn]"
+],
+[
+"衣架",
+3,
+"yī jià",
+"clothes hanger; clothes rack"
+],
+[
+"毛衣",
+4,
+"máo yī",
+"(wool) sweater; CL:件[jiàn]"
+],
+[
+"内衣",
 6,
-"yī shang",
-"clothes"
+"nèi yī",
+"undergarment; underwear; CL:件[jiàn]"
+],
+[
+"外衣",
+6,
+"wài yī",
+"outer clothing; semblance; appearance"
+],
+[
+"洗衣粉",
+6,
+"xǐ yī fěn",
+"laundry detergent; washing powder"
+],
+[
+"雨衣",
+6,
+"yǔ yī",
+"raincoat; CL:件[jiàn]"
+],
+[
+"更衣室",
+7,
+"gēng yī shì",
+"change room; dressing room; locker room; toilet"
+],
+[
+"节衣缩食",
+7,
+"jié yī suō shí",
+"to save on food and clothing (idiom); to live frugally"
+],
+[
+"衣食住行",
+7,
+"yī shí zhù xíng",
+"clothing, food, housing and transport (idiom); people's basic needs"
 ]
 ],
 "extraWords": [
 [
-"内衣",
-18.98,
-"nèi yī",
-"undergarment; underwear; CL:件[jian4]"
+"衣",
+149.18,
+"yī",
+"clothes; CL:件[jiàn]; Kangxi radical 145"
 ],
 [
-"毛衣",
-18.25,
-"máo yī",
-"(wool) sweater; CL:件[jian4]"
-],
-[
-"大衣",
-16.57,
-"dà yī",
-"overcoat; topcoat; cloak; CL:件[jian4]"
+"衣",
+149.18,
+"yì",
+"to dress; to wear; to put on (clothes)"
 ],
 [
 "脱衣舞",
 13.86,
 "tuō yī wǔ",
 "striptease"
-],
-[
-"上衣",
-11.12,
-"shàng yī",
-"jacket; upper outer garment; CL:件[jian4]"
 ],
 [
 "睡衣",
@@ -69,28 +129,16 @@
 "to wear clothes; clothing"
 ],
 [
-"衬衣",
-9.12,
-"chèn yī",
-"shirt; CL:件[jian4]"
-],
-[
 "棉衣",
 8.82,
 "mián yī",
-"cotton-padded clothes; CL:件[jian4]"
+"cotton-padded clothes; CL:件[jiàn]"
 ],
 [
 "衣柜",
 7.15,
 "yī guì",
-"wardrobe; armoire; CL:個|个[ge4]"
-],
-[
-"洗衣机",
-7.15,
-"xǐ yī jī",
-"washer; washing machine; CL:臺|台[tai2]"
+"wardrobe; armoire; CL:个[gè]"
 ],
 [
 "衣橱",
@@ -99,10 +147,10 @@
 "wardrobe"
 ],
 [
-"更衣室",
-7.01,
-"gēng yī shì",
-"change room; dressing room; locker room; toilet"
+"白衣",
+6.99,
+"???",
+"???"
 ],
 [
 "衣物",
@@ -114,13 +162,13 @@
 "风衣",
 5.81,
 "fēng yī",
-"windbreaker; wind cheater; wind jacket; CL:件[jian4]"
+"windbreaker; wind cheater; wind jacket; CL:件[jiàn]"
 ],
 [
-"外衣",
-5.02,
-"wài yī",
-"outer clothing; semblance; appearance"
+"球衣",
+5.11,
+"???",
+"???"
 ]
 ],
 "strokes": [

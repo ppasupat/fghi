@@ -1,22 +1,34 @@
 {
 "char": "踏",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "step on, trample, tread on, walk",
 "pron": "tā, tà"
 },
 "words": [
 [
-"践踏",
-6,
-"jiàn tà",
-"to trample"
-],
-[
 "踏实",
 6,
 "tā shi",
 "firmly-based; steady; steadfast; to have peace of mind; free from anxiety; Taiwan pr. [ta4 shi2]"
+],
+[
+"踏",
+6,
+"tā",
+"see 踏实[tā shi]"
+],
+[
+"踏",
+6,
+"tà",
+"to tread; to stamp; to step on; to press a pedal; to investigate on the spot"
+],
+[
+"踏上",
+7,
+"tà shàng",
+"to set foot on; to step on or into"
 ]
 ],
 "extraWords": [],

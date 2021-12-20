@@ -1,12 +1,31 @@
 {
 "char": "煞",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "malignant deity; baleful, noxious; strike dead",
 "pron": "shā, shà"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"煞",
+12.64,
+"shā",
+"to terminate; to cut short; to bring to a stop; to squeeze; to tighten; to damage; variant of 杀[shā]"
+],
+[
+"煞",
+12.64,
+"shà",
+"fiend; demon; very; (Tw) SARS (loanword)"
+],
+[
+"煞费苦心",
+0.98,
+"shà fèi kǔ xīn",
+"to take a lot of trouble (idiom); painstaking; at the cost of a lot of effort"
+]
+],
 "strokes": [
 "M 315 655 Q 336 677 360 705 Q 379 732 397 743 Q 406 752 403 763 Q 402 775 379 797 Q 360 815 343 817 Q 327 817 331 798 Q 337 779 317 740 Q 275 667 173 561 Q 163 554 161 549 Q 157 539 169 540 Q 190 543 296 636 L 315 655 Z",
 "M 363 515 Q 453 614 487 635 Q 503 644 493 656 Q 481 666 449 686 Q 434 692 422 683 Q 413 679 344 661 Q 331 658 315 655 C 286 649 267 642 296 636 Q 311 630 384 640 Q 399 644 403 641 Q 407 637 402 628 Q 366 558 344 524 Q 338 514 336 508 C 324 481 343 493 363 515 Z",

@@ -1,17 +1,36 @@
 {
 "char": "俄",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "sudden(ly), soon; Russian",
 "pron": "é"
 },
-"words": [],
+"words": [
+[
+"俄语",
+7,
+"É yǔ",
+"Russian (language)"
+]
+],
 "extraWords": [
 [
 "俄罗斯",
 91.81,
 "É luó sī",
 "Russia"
+],
+[
+"俄",
+49.82,
+"É",
+"Russia; Russian; abbr. for 俄罗斯[É luó sī]; Taiwan pr. [E4]"
+],
+[
+"俄",
+49.82,
+"é",
+"suddenly; very soon"
 ],
 [
 "俄国",
@@ -24,12 +43,6 @@
 8.61,
 "Zhōng É",
 "China-Russia"
-],
-[
-"俄语",
-7.01,
-"É yǔ",
-"Russian (language)"
 ]
 ],
 "strokes": [

@@ -1,34 +1,64 @@
 {
 "char": "广",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "wide, extensive, broad; rad. 53",
 "pron": "guǎng"
 },
 "words": [
 [
-"广告",
-4,
-"guǎng gào",
-"to advertise; a commercial; advertisement; CL:項|项[xiang4]"
-],
-[
-"广播",
-4,
-"guǎng bō",
-"broadcast; CL:個|个[ge4]; broadcasting; to broadcast; (formal) to propagate; to publicize"
-],
-[
 "广场",
-5,
+2,
 "guǎng chǎng",
 "public square; plaza"
 ],
 [
+"广告",
+2,
+"guǎng gào",
+"to advertise; a commercial; advertisement; CL:项[xiàng]"
+],
+[
+"广播",
+3,
+"guǎng bō",
+"broadcast; CL:个[gè]; broadcasting; to broadcast; (formal) to propagate; to publicize"
+],
+[
+"广大",
+3,
+"guǎng dà",
+"(of an area) vast or extensive; large-scale; widespread; (of people) numerous"
+],
+[
 "推广",
-5,
+3,
 "tuī guǎng",
 "to extend; to spread; to popularize; generalization; promotion (of a product etc)"
+],
+[
+"宽广",
+4,
+"kuān guǎng",
+"wide; broad; extensive; vast"
+],
+[
+"广",
+5,
+"yǎn",
+"\"house on a cliff\" radical in Chinese characters (Kangxi radical 53), occurring in 店, 序, 底 etc"
+],
+[
+"广",
+5,
+"Guǎng",
+"surname Guang"
+],
+[
+"广",
+5,
+"guǎng",
+"wide; numerous; to spread"
 ],
 [
 "广泛",
@@ -37,22 +67,16 @@
 "extensive; wide range"
 ],
 [
-"广大",
-5,
-"guǎng dà",
-"(of an area) vast or extensive; large-scale; widespread; (of people) numerous"
-],
-[
 "广阔",
 6,
 "guǎng kuò",
 "wide; vast"
 ],
 [
-"见多识广",
-6,
-"jiàn duō shí guǎng",
-"experienced and knowledgeable (idiom)"
+"广义",
+7,
+"guǎng yì",
+"broad sense; general sense"
 ]
 ],
 "extraWords": [
@@ -66,7 +90,7 @@
 "广东",
 78.66,
 "Guǎng dōng",
-"Guangdong province (Kwangtung) in south China, short name 粵|粤[Yue4], capital Guangzhou 廣州|广州"
+"Guangdong province (Kwangtung) in south China, short name 粤[Yuè], capital Guangzhou 廣州|广州"
 ],
 [
 "广西",
@@ -78,7 +102,7 @@
 "广东省",
 26.69,
 "Guǎng dōng Shěng",
-"Guangdong Province (Kwangtung) in south China, short name 粵|粤[Yue4], capital Guangzhou 廣州|广州[Guang3 zhou1]"
+"Guangdong Province (Kwangtung) in south China, short name 粤[Yuè], capital Guangzhou 广州[Guǎng zhōu]"
 ],
 [
 "广州市",
@@ -99,10 +123,10 @@
 "radio and television; broadcasting"
 ],
 [
-"宽广",
-5.01,
-"kuān guǎng",
-"wide; broad; extensive; vast"
+"广东队",
+5.24,
+"???",
+"???"
 ]
 ],
 "strokes": [

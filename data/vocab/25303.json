@@ -1,12 +1,31 @@
 {
 "char": "拗",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "to pull, drag, break off, to pluck (a flower); bent, warped; perverse, obstinate",
 "pron": "ào, niù"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"拗",
+2.54,
+"ào",
+"variant of 拗[ào]"
+],
+[
+"拗",
+2.54,
+"ào",
+"to bend in two so as to break; to defy; to disobey; also pr. [ao3]"
+],
+[
+"拗",
+2.54,
+"niù",
+"stubborn; obstinate"
+]
+],
 "strokes": [
 "M 291 520 Q 312 527 334 533 Q 365 543 369 547 Q 378 556 372 564 Q 365 576 334 581 Q 312 584 293 578 L 246 559 Q 161 532 111 523 Q 74 513 102 499 Q 147 480 202 496 Q 223 502 245 507 L 291 520 Z",
 "M 242 327 Q 241 239 240 127 Q 239 103 226 94 Q 223 93 160 96 Q 129 106 131 97 Q 132 90 152 76 Q 210 33 225 7 Q 241 -23 256 -24 Q 269 -24 283 9 Q 299 52 297 122 Q 290 243 289 364 L 289 390 Q 289 456 291 520 L 293 578 Q 293 678 313 743 Q 329 771 276 793 Q 245 811 225 805 Q 209 798 224 776 Q 243 751 245 718 Q 246 700 246 559 L 245 507 Q 244 446 243 363 L 242 327 Z",

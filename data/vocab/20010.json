@@ -1,6 +1,6 @@
 {
 "char": "个",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "numerary adjunct, piece; single",
 "pron": "gě, gè"
@@ -16,46 +16,94 @@
 "个",
 1,
 "gè",
-"variant of 個|个[ge4]"
+"variant of 个[gè]"
 ],
 [
 "个子",
-3,
+2,
 "gè zi",
 "height; stature; build; size"
 ],
 [
-"整个",
-5,
-"zhěng gè",
-"whole; entire; total"
-],
-[
 "个人",
-5,
+3,
 "gè rén",
 "individual; personal; oneself"
 ],
 [
 "个性",
-5,
+3,
 "gè xìng",
 "individuality; personality"
 ],
 [
+"整个",
+3,
+"zhěng gè",
+"whole; entire; total"
+],
+[
 "个别",
-5,
+4,
 "gè bié",
 "individual; specific; respective; just one or two"
 ],
 [
 "个体",
-6,
+4,
 "gè tǐ",
 "individual"
+],
+[
+"各个",
+4,
+"gè gè",
+"every; various; separately, one by one"
+],
+[
+"上个月",
+4,
+"shàng gè yuè",
+"last month"
+],
+[
+"下个月",
+4,
+"xià gè yuè",
+"next month"
+],
+[
+"个儿",
+5,
+"gè r5",
+"size; height; stature"
+],
+[
+"个案",
+7,
+"gè àn",
+"a case; an individual case; case-by-case"
+],
+[
+"个头儿",
+7,
+"gè tóu r5",
+"size; height; stature"
+],
+[
+"一个劲儿",
+7,
+"yī gè jìn r5",
+"erhua variant of 一个劲[yī gè jìn]"
 ]
 ],
 "extraWords": [
+[
+"一个",
+3479.53,
+"???",
+"???"
+],
 [
 "这个",
 2744.19,
@@ -67,6 +115,12 @@
 1234.61,
 "nà ge",
 "that one; that thing; that (as opposed to this); (used before a verb or adjective for emphasis); (used to humorously or indirectly refer to sth embarrassing, funny etc, or when one can't think of the right word); (used in speech as a filler, similar to \"umm\", \"you know\" etc); (euph.) menstruation; sex; also pr. [nei4 ge5]"
+],
+[
+"每个",
+258.89,
+"???",
+"???"
 ],
 [
 "一个人",
@@ -87,10 +141,22 @@
 "which; who"
 ],
 [
-"各个",
-67.5,
-"gè gè",
-"every; various; separately, one by one"
+"第一个",
+79.1,
+"???",
+"???"
+],
+[
+"某个",
+78.46,
+"???",
+"???"
+],
+[
+"每一个",
+60.34,
+"???",
+"???"
 ],
 [
 "每个人",
@@ -99,10 +165,22 @@
 "everybody; everyone"
 ],
 [
+"另一个",
+51.3,
+"???",
+"???"
+],
+[
 "半个",
 38.67,
 "bàn ge",
 "half of sth"
+],
+[
+"第二个",
+31.23,
+"???",
+"???"
 ],
 [
 "个股",
@@ -135,16 +213,34 @@
 "each one individually; each and every"
 ],
 [
+"同一个",
+14.79,
+"???",
+"???"
+],
+[
+"第三个",
+14.18,
+"???",
+"???"
+],
+[
+"首个",
+12.25,
+"???",
+"???"
+],
+[
 "个性化",
 10.8,
 "gè xìng huà",
 "to personalize; to customize; customization"
 ],
 [
-"上个月",
-7.87,
-"shàng gè yuè",
-"last month"
+"个人所得",
+10.33,
+"???",
+"???"
 ],
 [
 "个头",
@@ -157,6 +253,12 @@
 7.32,
 "ge tóu",
 "(coll.) (suffix) my ass!; yeah, right!"
+],
+[
+"大个子",
+5.43,
+"???",
+"???"
 ]
 ],
 "strokes": [

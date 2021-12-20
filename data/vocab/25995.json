@@ -1,12 +1,31 @@
 {
 "char": "斋",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "vegetarian diet; study",
 "pron": "zhāi"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"斋",
+5.4,
+"zhāi",
+"old variant of 斋[zhāi]"
+],
+[
+"斋",
+5.4,
+"zhāi",
+"to fast or abstain from meat, wine etc; vegetarian diet; study room; building; to give alms (to a monk)"
+],
+[
+"聊斋",
+0.64,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 475 823 Q 506 804 541 780 Q 554 770 569 773 Q 579 774 581 788 Q 582 803 571 828 Q 556 856 463 865 Q 450 866 443 863 Q 439 859 443 847 Q 447 837 475 823 Z",
 "M 634 709 Q 719 719 789 724 Q 801 723 811 735 Q 812 748 789 761 Q 749 785 669 764 Q 476 730 267 710 Q 248 710 230 707 Q 199 704 222 685 Q 258 654 288 660 Q 415 684 583 703 L 634 709 Z",

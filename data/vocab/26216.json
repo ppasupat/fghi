@@ -1,36 +1,42 @@
 {
 "char": "晨",
-"level": 6,
+"level": "2",
 "info": {
 "gloss": "early morning, daybreak",
 "pron": "chén"
 },
 "words": [
 [
-"凌晨",
-6,
-"líng chén",
-"very early in the morning; in the wee hours"
+"早晨",
+2,
+"zǎo chén",
+"early morning; CL:个[gè]; also pr. [zao3 chen5]"
 ],
 [
 "清晨",
-6,
+5,
 "qīng chén",
 "early morning"
+],
+[
+"凌晨",
+7,
+"líng chén",
+"very early in the morning; in the wee hours"
 ]
 ],
 "extraWords": [
-[
-"早晨",
-33.51,
-"zǎo chén",
-"early morning; CL:個|个[ge4]; also pr. [zao3 chen5]"
-],
 [
 "晨报",
 27.71,
 "chén bào",
 "morning newspaper; (in a newspaper's name) Morning Post"
+],
+[
+"晨",
+26.73,
+"chén",
+"morning; dawn; daybreak"
 ]
 ],
 "strokes": [

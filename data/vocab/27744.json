@@ -1,30 +1,48 @@
 {
 "char": "池",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "pool, pond; moat; cistern",
 "pron": "chí"
 },
 "words": [
 [
+"池子",
+5,
+"chí zi",
+"pond; bathhouse pool; dance floor of a ballroom; (old) stalls (front rows in a theater)"
+],
+[
 "电池",
 5,
 "diàn chí",
-"battery; CL:節|节[jie2],組|组[zu3]"
+"battery; CL:节[jié],组[zǔ]"
+],
+[
+"游泳池",
+5,
+"yóu yǒng chí",
+"swimming pool; CL:场[chǎng]"
 ],
 [
 "池塘",
-5,
+7,
 "chí táng",
 "pool; pond"
 ]
 ],
 "extraWords": [
 [
-"游泳池",
-16.07,
-"yóu yǒng chí",
-"swimming pool; CL:場|场[chang3]"
+"池",
+25.8,
+"Chí",
+"surname Chi"
+],
+[
+"池",
+25.8,
+"chí",
+"pond; reservoir; moat"
 ],
 [
 "泳池",

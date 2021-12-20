@@ -1,6 +1,6 @@
 {
 "char": "滚",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "turn",
 "pron": "gǔn"
@@ -13,8 +13,20 @@
 "to boil; to roll; to take a hike; Get lost!"
 ],
 [
+"滚动",
+7,
+"gǔn dòng",
+"to roll; (to do sth) in a loop; to scroll (computing); to progressively expand (economics); to rumble (of thunder)"
+],
+[
+"连滚带爬",
+7,
+"lián gǔn dài pá",
+"rolling and crawling; trying frantically to escape (idiom)"
+],
+[
 "摇滚",
-6,
+7,
 "yáo gǔn",
 "rock 'n' roll (music); to rock; to fall off"
 ]
@@ -49,12 +61,6 @@
 7.09,
 "yáo gǔn yuè",
 "rock music; rock 'n roll"
-],
-[
-"滚动",
-6.21,
-"gǔn dòng",
-"to roll; (to do sth) in a loop; to scroll (computing); to progressively expand (economics); to rumble (of thunder)"
 ]
 ],
 "strokes": [

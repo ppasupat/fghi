@@ -1,6 +1,6 @@
 {
 "char": "粒",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "grain; small particle",
 "pron": "lì"
@@ -8,7 +8,7 @@
 "words": [
 [
 "粒",
-6,
+7,
 "lì",
 "grain; granule; classifier for small round things (peas, bullets, peanuts, pills, grains etc)"
 ]
@@ -19,6 +19,18 @@
 16.88,
 "kē lì",
 "kernel; granule; granulated (sugar, chemical product)"
+],
+[
+"粒子",
+4.7,
+"lì zǐ",
+"(elementary) particle; grain"
+],
+[
+"粒子",
+4.7,
+"lì zi",
+"grain (of rice); granule"
 ]
 ],
 "strokes": [

@@ -1,12 +1,37 @@
 {
 "char": "漱",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "gargle, rinse; wash, scour",
 "pron": "shù"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"洗漱",
+2.62,
+"xǐ shù",
+"to wash the face and rinse the mouth"
+],
+[
+"漱口",
+1.94,
+"shù kǒu",
+"to rinse one's mouth; to gargle"
+],
+[
+"漱",
+1.28,
+"shù",
+"to rinse one's mouth with water; to gargle"
+],
+[
+"漱",
+1.28,
+"shù",
+"variant of 漱[shù]"
+]
+],
 "strokes": [
 "M 195 698 Q 217 676 243 651 Q 256 638 273 639 Q 283 639 289 653 Q 293 668 285 697 Q 276 725 190 746 Q 174 750 168 747 Q 164 743 164 730 Q 168 720 195 698 Z",
 "M 107 484 Q 152 436 185 422 Q 200 421 207 432 Q 213 445 209 460 Q 197 496 139 513 Q 106 528 93 520 Q 87 519 90 507 Q 91 497 107 484 Z",

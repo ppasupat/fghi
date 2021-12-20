@@ -1,24 +1,30 @@
 {
 "char": "役",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "service; a servant, laborer; to serve",
 "pron": "yì"
 },
 "words": [
 [
-"战役",
-6,
-"zhàn yì",
-"military campaign"
+"退役",
+7,
+"tuì yì",
+"to retire from the military, sport etc; to demobilize; to decommission; retired from use"
 ]
 ],
 "extraWords": [
 [
-"退役",
-12.96,
-"tuì yì",
-"to retire from the military, sport etc; to demobilize; to decommission; retired from use"
+"战役",
+11.72,
+"zhàn yì",
+"military campaign"
+],
+[
+"役",
+7.84,
+"yì",
+"forced labor; corvée; obligatory task; military service; to use as servant; to enserf; servant (old); war; campaign; battle"
 ],
 [
 "服役",

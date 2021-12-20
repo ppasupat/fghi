@@ -1,6 +1,6 @@
 {
 "char": "跨",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "straddle, bestride, ride; carry",
 "pron": "kuà"
@@ -11,26 +11,26 @@
 6,
 "kuà",
 "to step across; to stride over; to straddle; to span"
+],
+[
+"跨国",
+7,
+"kuà guó",
+"transnational; multinational"
+],
+[
+"跨越",
+7,
+"kuà yuè",
+"to step across; step over"
 ]
 ],
 "extraWords": [
-[
-"跨越",
-12.35,
-"kuà yuè",
-"to step across; step over"
-],
 [
 "跨国公司",
 11.85,
 "kuà guó gōng sī",
 "transnational corporation; multinational corporation"
-],
-[
-"跨国",
-11.05,
-"kuà guó",
-"transnational; multinational"
 ]
 ],
 "strokes": [

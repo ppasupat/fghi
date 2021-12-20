@@ -1,24 +1,30 @@
 {
 "char": "隙",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "crack, split, fissure; grudge",
 "pron": "xì"
 },
 "words": [
 [
+"间隙",
+7,
+"jiàn xì",
+"interval; gap; clearance"
+],
+[
 "空隙",
-6,
+7,
 "kòng xì",
 "crack; gap between two objects; gap in time between two events"
 ]
 ],
 "extraWords": [
 [
-"间隙",
-8.67,
-"jiàn xì",
-"interval; gap; clearance"
+"缝隙",
+4.53,
+"fèng xì",
+"small crack; chink"
 ]
 ],
 "strokes": [

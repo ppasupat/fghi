@@ -1,43 +1,79 @@
 {
 "char": "皮",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "skin, hide, fur, feather; outer",
 "pron": "pí"
 },
 "words": [
 [
-"皮鞋",
+"皮",
 3,
-"pí xié",
-"leather shoes"
+"Pí",
+"surname Pi"
 ],
 [
-"皮肤",
-4,
-"pí fū",
-"skin; CL:層|层[ceng2],塊|块[kuai4]"
+"皮",
+3,
+"pí",
+"leather; skin; fur; CL:张[zhāng]; pico- (one trillionth); naughty"
 ],
 [
-"橡皮",
-4,
-"xiàng pí",
-"rubber; an eraser; CL:塊|块[kuai4]"
+"皮包",
+3,
+"pí bāo",
+"handbag; briefcase"
 ],
 [
 "调皮",
-5,
+4,
 "tiáo pí",
 "naughty; mischievous; unruly"
 ],
 [
-"皮革",
+"皮肤",
+5,
+"pí fū",
+"skin; CL:层[céng],块[kuài]"
+],
+[
+"皮鞋",
+5,
+"pí xié",
+"leather shoes"
+],
+[
+"皮球",
 6,
-"pí gé",
-"leather; CL:張|张[zhang1]"
+"pí qiú",
+"ball (made of rubber, leather etc)"
+],
+[
+"顽皮",
+6,
+"wán pí",
+"naughty"
+],
+[
+"皮带",
+7,
+"pí dài",
+"strap; leather belt; CL:条[tiáo],根[gēn]"
+],
+[
+"橡皮",
+7,
+"xiàng pí",
+"rubber; an eraser; CL:块[kuài]"
 ]
 ],
 "extraWords": [
+[
+"皮特",
+23.76,
+"???",
+"???"
+],
 [
 "上皮",
 9.21,
@@ -49,12 +85,6 @@
 8.5,
 "nèi pí",
 "(med.) endothelium; thin skin on the inside of some fruits (e.g. oranges)"
-],
-[
-"皮带",
-8.38,
-"pí dài",
-"strap; leather belt; CL:條|条[tiao2],根[gen1]"
 ],
 [
 "皮质",
@@ -73,12 +103,6 @@
 7.34,
 "niú pí",
 "cowhide; leather; fig. flexible and tough; boasting; big talk"
-],
-[
-"皮球",
-7.05,
-"pí qiú",
-"ball (made of rubber, leather etc)"
 ],
 [
 "眼皮",

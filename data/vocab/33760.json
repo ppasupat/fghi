@@ -1,6 +1,6 @@
 {
 "char": "菠",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "spinach and similar greens",
 "pron": "bō"
@@ -11,13 +11,19 @@
 "菠菜",
 5.93,
 "bō cài",
-"spinach; CL:棵[ke1]; (slang) alternative term for 博彩[bo2 cai3], lottery"
+"spinach; CL:棵[kē]; (slang) alternative term for 博彩[bó cǎi], lottery"
 ],
 [
 "菠萝",
 5.8,
 "bō luó",
 "pineapple"
+],
+[
+"菠",
+0.37,
+"bō",
+"spinach"
 ]
 ],
 "strokes": [

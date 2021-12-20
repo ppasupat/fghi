@@ -1,48 +1,102 @@
 {
 "char": "曲",
-"level": 6,
+"level": "5",
 "info": {
 "gloss": "crooked, bent; wrong, false",
 "pron": "qū, qǔ"
 },
 "words": [
 [
-"曲子",
-6,
-"qǔ zi",
-"poem for singing; tune; music; CL:支[zhi1]"
-],
-[
-"歪曲",
-6,
-"wāi qū",
-"to distort; to misrepresent"
-],
-[
-"曲折",
-6,
-"qū zhé",
-"winding; (fig.) complicated"
-]
-],
-"extraWords": [
-[
 "歌曲",
-42.06,
+5,
 "gē qǔ",
 "song"
 ],
 [
+"弯曲",
+6,
+"wān qū",
+"to bend; to curve around; curved; crooked; to wind; to warp"
+],
+[
+"戏曲",
+6,
+"xì qǔ",
+"Chinese opera"
+],
+[
+"乐曲",
+6,
+"yuè qǔ",
+"musical composition"
+],
+[
+"扭曲",
+7,
+"niǔ qū",
+"to twist; to warp; to distort"
+],
+[
 "曲线",
-22.79,
+7,
 "qū xiàn",
 "curve; curved line; indirect; in a roundabout way"
 ],
 [
-"扭曲",
-10.04,
-"niǔ qū",
-"to twist; to warp; to distort"
+"曲折",
+7,
+"qū zhé",
+"winding; (fig.) complicated"
+],
+[
+"曲",
+7,
+"Qū",
+"surname Qu"
+],
+[
+"曲",
+7,
+"qū",
+"bent; crooked; wrong"
+],
+[
+"曲",
+7,
+"qǔ",
+"tune; song; CL:支[zhī]"
+],
+[
+"曲",
+7,
+"qū",
+"variant of 曲[qū]"
+],
+[
+"曲",
+7,
+"qū",
+"yeast; Aspergillus (includes many common molds); Taiwan pr. [qu2]"
+],
+[
+"歪曲",
+7,
+"wāi qū",
+"to distort; to misrepresent"
+],
+[
+"小曲",
+7,
+"xiǎo qǔ",
+"popular song; folk tune; ballad"
+]
+],
+"extraWords": [
+[
+"曲子",
+12.43,
+"qǔ zi",
+"poem for singing; tune; music; CL:支[zhī]"
 ],
 [
 "曲棍球",
@@ -51,16 +105,10 @@
 "field hockey"
 ],
 [
-"弯曲",
-7.79,
-"wān qū",
-"to bend; to curve around; curved; crooked; to wind; to warp"
-],
-[
-"戏曲",
-6.38,
-"xì qǔ",
-"Chinese opera"
+"一曲",
+7.28,
+"???",
+"???"
 ],
 [
 "主题曲",

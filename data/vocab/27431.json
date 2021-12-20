@@ -1,19 +1,18 @@
 {
 "char": "欧",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "translit.: Europe; ohm; surname",
 "pron": "ōu"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "欧洲",
-5,
+104.58,
 "Ōu zhōu",
-"Europe; abbr. for 歐羅巴洲|欧罗巴洲[Ou1 luo2 ba1 Zhou1]"
-]
+"Europe; abbr. for 欧罗巴洲[Ōu luó bā Zhōu]"
 ],
-"extraWords": [
 [
 "欧元",
 48.01,
@@ -25,6 +24,18 @@
 46.18,
 "Ōu méng",
 "European Union; EU"
+],
+[
+"欧",
+35.06,
+"Ōu",
+"Europe; abbr. for 欧洲[Ōu zhōu]; surname Ou"
+],
+[
+"欧",
+35.06,
+"ōu",
+"(used for transliteration); old variant of 讴[ōu]"
 ],
 [
 "欧美",

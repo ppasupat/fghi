@@ -1,25 +1,32 @@
 {
 "char": "歧",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "fork of road; branching off",
 "pron": "qí"
 },
 "words": [
 [
-"歧视",
-6,
-"qí shì",
-"to discriminate against; discrimination"
-],
-[
 "分歧",
-6,
+7,
 "fēn qí",
 "divergent; difference (of opinion, position); disagreement; bifurcation (math.)"
+],
+[
+"歧视",
+7,
+"qí shì",
+"to discriminate against; discrimination"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"种族歧视",
+2.8,
+"zhǒng zú qí shì",
+"racial discrimination; racism"
+]
+],
 "strokes": [
 "M 317 257 Q 320 372 323 478 L 323 508 Q 326 647 342 705 Q 345 717 324 732 Q 287 751 261 754 Q 245 757 236 748 Q 229 739 238 724 Q 266 684 267 655 Q 280 465 274 244 C 273 214 316 227 317 257 Z",
 "M 323 478 Q 327 478 333 479 Q 400 497 449 509 Q 473 516 462 528 Q 449 541 422 543 Q 376 543 323 508 C 298 492 293 476 323 478 Z",

@@ -1,12 +1,32 @@
 {
 "char": "抠",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "raise, lift up; tight-fisted",
 "pron": "kōu"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"抠",
+7,
+"kōu",
+"to dig out; to pick out (with one's fingers); to carve; to cut; to study meticulously; to lift one's clothes; stingy; miserly"
+]
+],
+"extraWords": [
+[
+"抠门",
+0.9,
+"???",
+"???"
+],
+[
+"抠字眼",
+0.09,
+"kōu zì yǎn",
+"to be fastidious about phrasing, diction, or choice of words"
+]
+],
 "strokes": [
 "M 360 554 Q 376 560 395 564 Q 428 574 433 579 Q 442 588 436 596 Q 429 608 398 613 Q 379 616 362 611 L 312 592 Q 234 562 159 551 Q 122 542 150 527 Q 198 506 250 523 Q 278 532 312 540 L 360 554 Z",
 "M 309 355 Q 308 264 307 149 Q 306 125 293 116 Q 287 112 217 120 Q 184 130 187 120 Q 188 113 209 100 Q 273 54 290 26 Q 309 -5 325 -6 Q 338 -7 353 27 Q 369 73 367 146 Q 360 269 358 392 L 358 424 Q 358 488 360 554 L 362 611 Q 377 755 382 769 Q 400 799 344 821 Q 310 840 291 833 Q 273 827 289 804 Q 311 776 312 743 Q 313 727 312 592 L 312 540 Q 311 479 310 397 L 309 355 Z",

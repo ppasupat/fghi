@@ -1,6 +1,6 @@
 {
 "char": "喻",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "metaphor, analogy; example; like",
 "pron": "yù"
@@ -8,24 +8,31 @@
 "words": [
 [
 "比喻",
-6,
+7,
 "bǐ yù",
 "to compare; to liken to; metaphor; analogy; figure of speech; figuratively"
 ],
 [
 "家喻户晓",
-6,
+7,
 "jiā yù hù xiǎo",
 "understood by everyone (idiom); well known; a household name"
-],
-[
-"不言而喻",
-6,
-"bù yán ér yù",
-"it goes without saying; it is self-evident"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"喻",
+4.65,
+"Yù",
+"surname Yu"
+],
+[
+"喻",
+4.65,
+"yù",
+"to describe sth as; an analogy; a simile; a metaphor; an allegory"
+]
+],
 "strokes": [
 "M 118 577 Q 106 581 89 585 Q 76 589 73 584 Q 66 578 74 562 Q 101 498 114 396 Q 115 365 132 344 Q 148 322 155 337 Q 162 356 159 395 L 155 427 Q 142 529 142 551 Q 142 552 141 553 C 138 571 138 571 118 577 Z",
 "M 285 451 Q 301 535 325 560 Q 347 587 324 600 Q 305 610 277 627 Q 256 639 217 610 Q 172 594 118 577 C 89 568 114 541 141 553 Q 156 562 221 575 Q 243 581 249 571 Q 256 565 250 529 Q 243 495 236 454 C 231 424 279 422 285 451 Z",

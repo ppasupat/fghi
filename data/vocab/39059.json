@@ -1,12 +1,44 @@
 {
 "char": "颓",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "ruined, decayed; disintegrate",
 "pron": "tuí"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"颓废",
+7,
+"tuí fèi",
+"decadent; dispirited; depressed; dejected"
+]
+],
+"extraWords": [
+[
+"颓势",
+1.84,
+"tuí shì",
+"decline (in fortune)"
+],
+[
+"颓",
+1.43,
+"tuí",
+"variant of 颓[tuí]"
+],
+[
+"颓",
+1.43,
+"tuí",
+"to crumble; to collapse; to decline; to decay; decadent; dejected; dispirited; balding"
+],
+[
+"颓",
+1.43,
+"tuí",
+"variant of 颓[tuí]"
+]
+],
 "strokes": [
 "M 329 716 Q 390 744 444 754 Q 460 755 464 762 Q 468 772 457 782 Q 403 824 371 820 Q 364 816 364 807 Q 358 768 181 691 Q 177 684 181 680 Q 205 680 275 702 Q 282 703 291 706 L 329 716 Z",
 "M 345 587 Q 391 600 447 609 Q 462 612 462 619 Q 463 631 446 638 Q 416 648 349 626 L 307 615 Q 160 579 110 571 Q 100 570 97 562 Q 94 552 108 543 Q 141 522 188 537 Q 234 556 276 567 L 345 587 Z",

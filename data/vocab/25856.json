@@ -1,24 +1,30 @@
 {
 "char": "攀",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "climb; pull; hang on to",
 "pron": "pān"
 },
 "words": [
 [
-"攀登",
-6,
-"pān dēng",
-"to climb; to pull oneself up; to clamber; to scale; fig. to forge ahead in the face of hardships and danger"
+"攀",
+7,
+"pān",
+"to climb (by pulling oneself up); to implicate; to claim connections of higher status"
+],
+[
+"攀升",
+7,
+"pān shēng",
+"to clamber up; (of prices etc) to rise"
 ]
 ],
 "extraWords": [
 [
-"攀升",
-12.21,
-"pān shēng",
-"to clamber up; (of prices etc) to rise"
+"攀登",
+3.96,
+"pān dēng",
+"to climb; to pull oneself up; to clamber; to scale; fig. to forge ahead in the face of hardships and danger"
 ]
 ],
 "strokes": [

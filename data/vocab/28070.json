@@ -1,6 +1,6 @@
 {
 "char": "润",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "soft, moist; sleek; freshen",
 "pron": "rùn"
@@ -13,14 +13,26 @@
 "profits"
 ],
 [
+"红润",
+7,
+"hóng rùn",
+"ruddy; rosy; florid"
+],
+[
+"润",
+7,
+"rùn",
+"to moisten; to lubricate; to embellish; moist; glossy; sleek"
+],
+[
 "湿润",
-5,
+7,
 "shī rùn",
 "moist"
 ],
 [
 "滋润",
-6,
+7,
 "zī rùn",
 "moist; humid; to moisten; to provide moisture; comfortably off"
 ]

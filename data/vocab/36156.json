@@ -1,6 +1,6 @@
 {
 "char": "贼",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "thief, traitor; kill",
 "pron": "zéi"
@@ -8,7 +8,7 @@
 "words": [
 [
 "贼",
-6,
+7,
 "zéi",
 "thief; traitor; wily; deceitful; evil; extremely"
 ]
@@ -19,6 +19,12 @@
 5.66,
 "hǎi zéi",
 "pirate"
+],
+[
+"盗贼",
+3.52,
+"dào zéi",
+"robber"
 ]
 ],
 "strokes": [

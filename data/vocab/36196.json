@@ -1,6 +1,6 @@
 {
 "char": "赤",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "red; communist, 'red'; bare",
 "pron": "chì"
@@ -8,18 +8,25 @@
 "words": [
 [
 "赤字",
-6,
+7,
 "chì zì",
 "(financial) deficit; red letter"
 ],
 [
-"赤道",
-6,
-"chì dào",
-"equator (of the earth or astronomical body)"
+"面红耳赤",
+7,
+"miàn hóng ěr chì",
+"flushed with anger (or excitement)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"赤",
+16.88,
+"chì",
+"red; scarlet; bare; naked"
+]
+],
 "strokes": [
 "M 552 608 Q 591 615 691 627 Q 703 626 713 639 Q 714 652 689 663 Q 647 690 559 659 Q 556 659 555 658 L 499 646 Q 454 640 361 627 Q 330 623 353 604 Q 389 576 421 584 Q 457 591 500 599 L 552 608 Z",
 "M 543 494 Q 547 552 552 608 L 555 658 Q 556 727 576 800 Q 580 812 559 827 Q 522 846 497 851 Q 481 855 472 846 Q 465 839 473 822 Q 494 794 494 773 Q 498 712 499 646 L 500 599 Q 500 547 498 487 C 497 457 541 464 543 494 Z",

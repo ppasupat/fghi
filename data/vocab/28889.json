@@ -1,12 +1,31 @@
 {
 "char": "烙",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "brand, burn; branding iron",
 "pron": "lào, luò"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"烙",
+2.89,
+"lào",
+"to brand; to iron; to bake (in a pan)"
+],
+[
+"烙印",
+2.32,
+"lào yìn",
+"to brand (cattle etc); brand; (fig.) to leave a lasting mark; to stigmatize; mark; stamp; stigma"
+],
+[
+"烙饼",
+0.6,
+"lào bǐng",
+"pancake; flat bread; griddle cake"
+]
+],
 "strokes": [
 "M 130 570 Q 121 507 101 448 Q 97 436 100 421 Q 104 397 114 385 Q 126 370 142 387 Q 182 441 167 522 Q 164 553 152 575 Q 145 582 140 581 Q 133 578 130 570 Z",
 "M 285 526 Q 306 535 379 575 Q 395 588 418 595 Q 437 602 429 619 Q 419 635 397 649 Q 378 662 366 661 Q 354 660 357 648 Q 357 620 286 548 C 265 527 258 514 285 526 Z",

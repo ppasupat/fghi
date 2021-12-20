@@ -1,24 +1,36 @@
 {
 "char": "御",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "drive, ride; chariot; manage",
 "pron": "yù"
 },
 "words": [
 [
+"抵御",
+7,
+"dǐ yù",
+"to resist; to withstand"
+],
+[
 "防御",
-6,
+7,
 "fáng yù",
 "defense; to defend"
 ]
 ],
 "extraWords": [
 [
-"抵御",
-6.89,
-"dǐ yù",
-"to resist; to withstand"
+"御",
+13.62,
+"yù",
+"to resist; imperial; (classical) to drive (a chariot); to manage; to govern"
+],
+[
+"御",
+13.62,
+"yù",
+"to defend; to resist"
 ]
 ],
 "strokes": [

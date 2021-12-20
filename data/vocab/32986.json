@@ -1,16 +1,29 @@
 {
 "char": "胚",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "embryo; unfinished things",
 "pron": "pēi"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "胚胎",
-7.62,
+7,
 "pēi tāi",
+"embryo"
+]
+],
+"extraWords": [
+[
+"胚",
+4.05,
+"pēi",
+"variant of 胚[pēi]"
+],
+[
+"胚",
+4.05,
+"pēi",
 "embryo"
 ]
 ],

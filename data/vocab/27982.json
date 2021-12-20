@@ -1,6 +1,6 @@
 {
 "char": "济",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "help, aid, relieve; ferry, cross",
 "pron": "jǐ, jì"
@@ -8,29 +8,53 @@
 "words": [
 [
 "经济",
-4,
+3,
 "jīng jì",
 "economy; economic"
 ],
 [
+"接济",
+7,
+"jiē jì",
+"to give material assistance to"
+],
+[
 "救济",
-6,
+7,
 "jiù jì",
 "emergency relief; to help the needy with cash or goods"
-]
 ],
-"extraWords": [
 [
 "市场经济",
-53.21,
+7,
 "shì chǎng jīng jì",
 "market economy"
 ],
+[
+"同舟共济",
+7,
+"tóng zhōu gòng jì",
+"cross a river in the same boat (idiom); fig. having common interests; obliged to collaborate towards common goals"
+],
+[
+"无济于事",
+7,
+"wú jì yú shì",
+"to no avail; of no use"
+]
+],
+"extraWords": [
 [
 "国民经济",
 27.02,
 "guó mín jīng jì",
 "national economy"
+],
+[
+"经济效益",
+25.93,
+"???",
+"???"
 ],
 [
 "济南",
@@ -51,6 +75,24 @@
 "economist"
 ],
 [
+"济",
+12.17,
+"Jǐ",
+"used in place names associated with the Ji River 济水[Jǐ Shuǐ]; surname Ji"
+],
+[
+"济",
+12.17,
+"jǐ",
+"only used in 济济[jǐ jǐ]"
+],
+[
+"济",
+12.17,
+"jì",
+"to cross a river; to aid or relieve; to be of help"
+],
+[
 "计划经济",
 8.56,
 "jì huà jīng jì",
@@ -67,6 +109,12 @@
 5.28,
 "Jǐ nán shì",
 "Jinan subprovincial city and capital of Shandong province in northeast China"
+],
+[
+"经济全球化",
+5.28,
+"???",
+"???"
 ]
 ],
 "strokes": [

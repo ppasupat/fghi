@@ -1,6 +1,6 @@
 {
 "char": "舅",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "mother's brother, uncle",
 "pron": "jiù"
@@ -8,12 +8,25 @@
 "words": [
 [
 "舅舅",
-5,
+7,
 "jiù jiu",
-"mother's brother; maternal uncle (informal); CL:個|个[ge4]"
+"mother's brother; maternal uncle (informal); CL:个[gè]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"舅",
+4.01,
+"jiù",
+"maternal uncle"
+],
+[
+"舅妈",
+1.28,
+"jiù mā",
+"(coll.) aunt; maternal uncle's wife"
+]
+],
 "strokes": [
 "M 330 716 Q 453 774 455 775 Q 474 781 468 798 Q 458 814 437 829 Q 418 844 407 843 Q 397 843 398 831 Q 398 816 337 752 Q 327 745 317 733 C 297 710 303 703 330 716 Z",
 "M 368 575 Q 365 590 350 640 L 343 664 Q 333 703 331 714 Q 330 715 330 716 C 326 731 326 731 317 733 Q 305 737 272 738 Q 259 739 257 734 Q 251 727 262 712 Q 295 664 323 581 Q 329 556 347 541 Q 366 522 370 538 Q 371 542 371 549 L 368 575 Z",

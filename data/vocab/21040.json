@@ -1,6 +1,6 @@
 {
 "char": "到",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "go to, arrive, been to",
 "pron": "dào"
@@ -8,119 +8,305 @@
 "words": [
 [
 "到",
-2,
+1,
 "dào",
 "to (a place); until (a time); up to; to go; to arrive; (verb complement denoting completion or result of an action)"
 ],
 [
-"遇到",
-3,
-"yù dào",
-"to meet; to run into; to come across"
-],
-[
-"迟到",
-3,
-"chí dào",
-"to arrive late"
-],
-[
-"到底",
-4,
-"dào dǐ",
-"finally; in the end; when all is said and done; after all; to the end; to the last"
-],
-[
-"到处",
-4,
-"dào chù",
-"everywhere"
-],
-[
-"受到",
-4,
-"shòu dào",
-"to receive (praise, an education, punishment etc); to be ...ed (praised, educated, punished etc)"
-],
-[
-"到达",
-5,
-"dào dá",
-"to reach; to arrive"
-],
-[
-"达到",
-5,
-"dá dào",
-"to reach; to achieve; to attain"
-],
-[
-"报到",
-5,
-"bào dào",
-"to report for duty; to check in; to register"
-],
-[
-"周到",
-5,
-"zhōu dào",
-"thoughtful; considerate; attentive; thorough; also pr. [zhou1 dao5]"
-],
-[
-"恰到好处",
-6,
-"qià dào hǎo chù",
-"it's just perfect; it's just right"
-],
-[
-"归根到底",
-6,
-"guī gēn dào dǐ",
-"after all; in the final analysis; ultimately"
-]
-],
-"extraWords": [
-[
-"看到",
-798.38,
-"kàn dào",
-"to see"
-],
-[
-"找到",
-659.62,
-"zhǎo dào",
-"to find"
-],
-[
 "得到",
-357.17,
+1,
 "dé dào",
 "to get; to obtain; to receive"
 ],
 [
+"回到",
+1,
+"huí dào",
+"to return to"
+],
+[
+"看到",
+1,
+"kàn dào",
+"to see"
+],
+[
+"来到",
+1,
+"lái dào",
+"to come; to arrive"
+],
+[
+"听到",
+1,
+"tīng dào",
+"to hear"
+],
+[
+"找到",
+1,
+"zhǎo dào",
+"to find"
+],
+[
+"到处",
+2,
+"dào chù",
+"everywhere"
+],
+[
+"等到",
+2,
+"děng dào",
+"to wait until; by the time when (sth is ready etc)"
+],
+[
+"感到",
+2,
+"gǎn dào",
+"to feel; to sense; to have the feeling that; to think that; to move; to affect"
+],
+[
 "见到",
-307.54,
+2,
 "jiàn dào",
 "to see"
 ],
+[
+"接到",
+2,
+"jiē dào",
+"to receive (letter etc)"
+],
+[
+"拿到",
+2,
+"ná dào",
+"to get; to obtain"
+],
+[
+"碰到",
+2,
+"pèng dào",
+"to come across; to run into; to meet; to hit"
+],
+[
+"收到",
+2,
+"shōu dào",
+"to receive"
+],
+[
+"受到",
+2,
+"shòu dào",
+"to receive (praise, an education, punishment etc); to be ...ed (praised, educated, punished etc)"
+],
+[
+"送到",
+2,
+"???",
+"???"
+],
+[
+"提到",
+2,
+"tí dào",
+"to mention; to raise (a subject); to refer to"
+],
+[
+"想到",
+2,
+"xiǎng dào",
+"to think of; to call to mind; to anticipate"
+],
+[
+"做到",
+2,
+"zuò dào",
+"to accomplish; to achieve"
+],
+[
+"报到",
+3,
+"bào dào",
+"to report for duty; to check in; to register"
+],
+[
+"达到",
+3,
+"dá dào",
+"to reach; to achieve; to attain"
+],
+[
+"到达",
+3,
+"dào dá",
+"to reach; to arrive"
+],
+[
+"到底",
+3,
+"dào dǐ",
+"finally; in the end; when all is said and done; after all; to the end; to the last"
+],
+[
+"放到",
+3,
+"???",
+"???"
+],
+[
+"赶到",
+3,
+"gǎn dào",
+"to hurry (to some place)"
+],
+[
+"直到",
+3,
+"zhí dào",
+"until"
+],
+[
+"迟到",
+4,
+"chí dào",
+"to arrive late"
+],
+[
+"没想到",
+4,
+"méi xiǎng dào",
+"didn't expect"
+],
+[
+"遇到",
+4,
+"yù dào",
+"to meet; to run into; to come across"
+],
+[
+"到来",
+5,
+"dào lái",
+"to arrive; arrival; advent"
+],
+[
+"起到",
+5,
+"qǐ dào",
+"(in an expression of the form 起到…作用[qǐ dào xx5 zuò yòng]) to have (a (motivating etc) effect); to play (a (stabilizing etc) role)"
+],
+[
+"到期",
+6,
+"dào qī",
+"to fall due (loan etc); to expire (visa etc); to mature (investment bond etc)"
+],
+[
+"想不到",
+6,
+"xiǎng bu dào",
+"unexpected; hard to imagine; it had not occurred to me; who could have thought that"
+],
+[
+"意想不到",
+6,
+"yì xiǎng bù dào",
+"unexpected; previously unimagined"
+],
+[
+"遭到",
+6,
+"zāo dào",
+"to suffer; to meet with (sth unfortunate)"
+],
+[
+"办不到",
+7,
+"bàn bu dào",
+"impossible; can't be done; no can do; unable to accomplish"
+],
+[
+"从早到晚",
+7,
+"cóng zǎo dào wǎn",
+"from morning till night; from dawn to dusk; all day long"
+],
+[
+"到头来",
+7,
+"dào tóu lái",
+"in the end; finally; as a result"
+],
+[
+"到位",
+7,
+"dào wèi",
+"to get to the intended location; to be in place; to be in position; precise; well (done)"
+],
+[
+"归根到底",
+7,
+"guī gēn dào dǐ",
+"after all; in the final analysis; ultimately"
+],
+[
+"料到",
+7,
+"liào dào",
+"to foresee; to anticipate"
+],
+[
+"面面俱到",
+7,
+"miàn miàn jù dào",
+"(idiom) take care of everything; handle everything"
+],
+[
+"恰到好处",
+7,
+"qià dào hǎo chù",
+"it's just perfect; it's just right"
+],
+[
+"说到底",
+7,
+"shuō dào dǐ",
+"in the final analysis; in the end"
+],
+[
+"谈到",
+7,
+"tán dào",
+"to refer to; to speak about; to talk about"
+],
+[
+"一年到头",
+7,
+"yī nián dào tóu",
+"all year round"
+],
+[
+"一天到晚",
+7,
+"yī tiān dào wǎn",
+"all day long; the whole day"
+],
+[
+"周到",
+7,
+"zhōu dào",
+"thoughtful; considerate; attentive; thorough; also pr. [zhou1 dao5]"
+]
+],
+"extraWords": [
 [
 "到了",
 291.62,
 "dào liǎo",
 "at last; finally; in the end"
-],
-[
-"听到",
-199.57,
-"tīng dào",
-"to hear"
-],
-[
-"感到",
-197.1,
-"gǎn dào",
-"to feel; to sense; to have the feeling that; to think that; to move; to affect"
 ],
 [
 "不到",
@@ -129,112 +315,16 @@
 "not to arrive; not reaching; insufficient; less than"
 ],
 [
-"想到",
-154.85,
-"xiǎng dào",
-"to think of; to call to mind; to anticipate"
-],
-[
-"直到",
-145.05,
-"zhí dào",
-"until"
-],
-[
-"回到",
-142.7,
-"huí dào",
-"to return to"
-],
-[
-"收到",
-137.27,
-"shōu dào",
-"to receive"
-],
-[
-"来到",
-135.01,
-"lái dào",
-"to come; to arrive"
-],
-[
-"做到",
-113.78,
-"zuò dào",
-"to accomplish; to achieve"
-],
-[
-"拿到",
-51.49,
-"ná dào",
-"to get; to obtain"
-],
-[
-"赶到",
-51.03,
-"gǎn dào",
-"to hurry (to some place)"
-],
-[
-"接到",
-46.44,
-"jiē dào",
-"to receive (letter etc)"
-],
-[
-"遭到",
-46.24,
-"zāo dào",
-"to suffer; to meet with (sth unfortunate)"
-],
-[
-"碰到",
-45.94,
-"pèng dào",
-"to come across; to run into; to meet; to hit"
-],
-[
-"起到",
-42.84,
-"qǐ dào",
-"(in an expression of the form 起到…作用[qi3 dao4 xx5 zuo4 yong4]) to have (a (motivating etc) effect); to play (a (stabilizing etc) role)"
-],
-[
-"等到",
-41.81,
-"děng dào",
-"to wait until; by the time when (sth is ready etc)"
-],
-[
-"到来",
-39.54,
-"dào lái",
-"to arrive; arrival; advent"
-],
-[
-"提到",
-39.23,
-"tí dào",
-"to mention; to raise (a subject); to refer to"
-],
-[
-"到位",
-35.19,
-"dào wèi",
-"to get to the intended location; to be in place; to be in position; precise; well (done)"
+"走到",
+48.56,
+"???",
+"???"
 ],
 [
 "找不到",
 34.75,
 "zhǎo bu dào",
 "can't find"
-],
-[
-"谈到",
-33.93,
-"tán dào",
-"to refer to; to speak about; to talk about"
 ],
 [
 "感觉到",
@@ -249,6 +339,18 @@
 "to register; to sign in"
 ],
 [
+"意识到",
+22.07,
+"???",
+"???"
+],
+[
+"买到",
+20.36,
+"???",
+"???"
+],
+[
 "到此为止",
 18.72,
 "dào cǐ wéi zhǐ",
@@ -261,22 +363,22 @@
 "perfect; excellent; brought to the utmost degree"
 ],
 [
-"想不到",
-18.2,
-"xiǎng bu dào",
-"unexpected; hard to imagine; it had not occurred to me; who could have thought that"
-],
-[
 "到时候",
 15.01,
 "dào shí hòu",
 "when the moment comes; at that time"
 ],
 [
-"到期",
-13.75,
-"dào qī",
-"to fall due (loan etc); to expire (visa etc); to mature (investment bond etc)"
+"看不到",
+14.07,
+"???",
+"???"
+],
+[
+"降到",
+13.54,
+"???",
+"???"
 ],
 [
 "关系到",
@@ -309,10 +411,10 @@
 "to show up; present (at the scene)"
 ],
 [
-"料到",
-9.48,
-"liào dào",
-"to foresee; to anticipate"
+"开到",
+7.84,
+"???",
+"???"
 ],
 [
 "办到",
@@ -321,16 +423,46 @@
 "to accomplish; to get sth done"
 ],
 [
-"意想不到",
-6.48,
-"yì xiǎng bù dào",
-"unexpected; previously unimagined"
+"到会",
+7.04,
+"???",
+"???"
+],
+[
+"即将到来",
+6.66,
+"???",
+"???"
 ],
 [
 "闻到",
 6.32,
 "wén dào",
 "to smell; to sniff sth out; to perceive by smelling"
+],
+[
+"带到",
+6.11,
+"???",
+"???"
+],
+[
+"一想到",
+5.95,
+"???",
+"???"
+],
+[
+"撞到",
+5.67,
+"???",
+"???"
+],
+[
+"买不到",
+5.21,
+"???",
+"???"
 ]
 ],
 "strokes": [

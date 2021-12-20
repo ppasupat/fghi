@@ -1,6 +1,6 @@
 {
 "char": "颂",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "laud, acclaim; hymn; ode",
 "pron": "sòng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "歌颂",
-6,
+7,
 "gē sòng",
 "to sing the praises of; to extol; to eulogize"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"颂",
+5.77,
+"sòng",
+"ode; eulogy; to praise in writing; to wish (in letters)"
+],
+[
+"颂歌",
+1.79,
+"sòng gē",
+"carol"
+]
+],
 "strokes": [
 "M 228 730 Q 238 708 231 688 Q 207 624 169 563 Q 132 505 82 440 Q 72 430 71 425 Q 68 415 80 417 Q 131 424 263 623 Q 270 648 305 682 Q 312 692 309 704 Q 305 716 279 736 Q 254 752 237 752 Q 221 751 228 730 Z",
 "M 384 662 Q 402 643 422 619 Q 432 606 446 606 Q 456 606 461 617 Q 465 629 461 655 Q 452 685 383 704 Q 370 708 364 707 Q 360 703 360 692 Q 361 682 384 662 Z",

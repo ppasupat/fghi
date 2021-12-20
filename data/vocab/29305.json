@@ -1,6 +1,6 @@
 {
 "char": "特",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "special, unique, distinguished",
 "pron": "tè"
@@ -8,51 +8,93 @@
 "words": [
 [
 "特别",
-3,
+2,
 "tè bié",
 "especially; special; particular; unusual"
 ],
 [
 "特点",
-4,
+2,
 "tè diǎn",
-"characteristic (feature); trait; feature; CL:個|个[ge4]"
-],
-[
-"模特",
-5,
-"mó tè",
-"(fashion) model (loanword)"
-],
-[
-"特殊",
-5,
-"tè shū",
-"special; particular; unusual; extraordinary"
-],
-[
-"独特",
-5,
-"dú tè",
-"unique; distinct; having special characteristics"
-],
-[
-"特征",
-5,
-"tè zhēng",
-"characteristic; diagnostic property; distinctive feature; trait"
+"characteristic (feature); trait; feature; CL:个[gè]"
 ],
 [
 "特色",
-5,
+3,
 "tè sè",
 "characteristic; distinguishing feature or quality"
 ],
 [
+"独特",
+4,
+"dú tè",
+"unique; distinct; having special characteristics"
+],
+[
+"模特儿",
+4,
+"mó tè r5",
+"(fashion) model (loanword)"
+],
+[
+"特价",
+4,
+"tè jià",
+"special price"
+],
+[
+"特殊",
+4,
+"tè shū",
+"special; particular; unusual; extraordinary"
+],
+[
+"特征",
+4,
+"tè zhēng",
+"characteristic; diagnostic property; distinctive feature; trait"
+],
+[
 "特定",
-6,
+5,
 "tè dìng",
 "special; specific; designated; particular"
+],
+[
+"特性",
+5,
+"tè xìng",
+"property; characteristic"
+],
+[
+"特有",
+5,
+"tè yǒu",
+"specific (to); characteristic (of); distinctive"
+],
+[
+"特",
+6,
+"tè",
+"special; unique; distinguished; especially; unusual; very; abbr. for 特克斯[tè kè sī], tex"
+],
+[
+"特大",
+6,
+"tè dà",
+"exceptionally big"
+],
+[
+"特地",
+6,
+"tè dì",
+"specially; for a special purpose"
+],
+[
+"特快",
+6,
+"tè kuài",
+"express (train, delivery etc)"
 ],
 [
 "特意",
@@ -61,13 +103,67 @@
 "specially; intentionally"
 ],
 [
+"奇特",
+7,
+"qí tè",
+"peculiar; unusual; queer"
+],
+[
+"特产",
+7,
+"tè chǎn",
+"special local product; (regional) specialty"
+],
+[
 "特长",
-6,
+7,
 "tè cháng",
 "personal strength; one's special ability or strong points"
+],
+[
+"特例",
+7,
+"tè lì",
+"special case; isolated example"
+],
+[
+"特权",
+7,
+"tè quán",
+"prerogative; privilege; privileged"
+],
+[
+"特邀",
+7,
+"tè yāo",
+"special invitation"
+],
+[
+"特制",
+7,
+"tè zhì",
+"special; unique"
+],
+[
+"特质",
+7,
+"tè zhì",
+"characteristic; special quality"
 ]
 ],
 "extraWords": [
+[
+"特别是",
+124.38,
+"???",
+"???"
+],
+[
+"模特",
+87.91,
+"mó tè",
+"(fashion) model (loanword)"
+],
 [
 "特工",
 47.28,
@@ -75,28 +171,16 @@
 "secret service; special service; secret service agent; special agent"
 ],
 [
-"特性",
-26.71,
-"tè xìng",
-"property; characteristic"
-],
-[
-"特价",
-20.1,
-"tè jià",
-"special price"
+"皮特",
+23.76,
+"???",
+"???"
 ],
 [
 "凯特",
 17.95,
 "Kǎi tè",
 "Kate (name)"
-],
-[
-"特大",
-17.43,
-"tè dà",
-"exceptionally big"
 ],
 [
 "英特尔",
@@ -111,10 +195,10 @@
 "Adolf Hitler (1889-1945)"
 ],
 [
-"特有",
-13.96,
-"tè yǒu",
-"specific (to); characteristic (of); distinctive"
+"沃尔特",
+14.82,
+"???",
+"???"
 ],
 [
 "特约",
@@ -127,12 +211,6 @@
 12.64,
 "Luó bó tè",
 "Robert (name)"
-],
-[
-"特地",
-12.23,
-"tè dì",
-"specially; for a special purpose"
 ],
 [
 "伏特",
@@ -153,6 +231,12 @@
 "special administrative region; abbr. for 特別行政區|特别行政区"
 ],
 [
+"斯科特",
+10.37,
+"???",
+"???"
+],
+[
 "比特",
 9.99,
 "bǐ tè",
@@ -163,6 +247,12 @@
 9.72,
 "Kǎ tè",
 "Carter (name); James Earl (Jimmy) Carter (1924-), US Democrat politician, president 1977-1981"
+],
+[
+"马特",
+9.72,
+"???",
+"???"
 ],
 [
 "福特",
@@ -201,12 +291,6 @@
 "hereby"
 ],
 [
-"特权",
-8.02,
-"tè quán",
-"prerogative; privilege; privileged"
-],
-[
 "波特",
 7.72,
 "Bō tè",
@@ -219,10 +303,16 @@
 "(loanword) baud (computing); porter (beer)"
 ],
 [
+"沃特",
+7.51,
+"???",
+"???"
+],
+[
 "特警",
 7.45,
 "tè jǐng",
-"SWAT (Special Weapons And Tactics); riot police; abbr. for 特種警察|特种警察[te4 zhong3 jing3 cha2]"
+"SWAT (Special Weapons And Tactics); riot police; abbr. for 特种警察[tè zhǒng jǐng chá]"
 ],
 [
 "底特律",
@@ -247,18 +337,6 @@
 6.98,
 "Yà tè lán dà",
 "Atlanta"
-],
-[
-"奇特",
-6.94,
-"qí tè",
-"peculiar; unusual; queer"
-],
-[
-"特质",
-6.85,
-"tè zhì",
-"characteristic; special quality"
 ],
 [
 "沙特",
@@ -297,12 +375,6 @@
 "Grant (name)"
 ],
 [
-"特产",
-5.56,
-"tè chǎn",
-"special local product; (regional) specialty"
-],
-[
 "特种部队",
 5.48,
 "tè zhǒng bù duì",
@@ -319,6 +391,18 @@
 5.34,
 "Ā mǔ sī tè lǎng",
 "surname Armstrong"
+],
+[
+"特殊性",
+5.23,
+"???",
+"???"
+],
+[
+"特里",
+5.19,
+"???",
+"???"
 ],
 [
 "玛格丽特",

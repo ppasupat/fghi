@@ -1,11 +1,17 @@
 {
 "char": "终",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "end; finally, in the end",
 "pron": "zhōng"
 },
 "words": [
+[
+"始终",
+3,
+"shǐ zhōng",
+"from beginning to end; all along"
+],
 [
 "终于",
 3,
@@ -13,42 +19,66 @@
 "at last; in the end; finally; eventually"
 ],
 [
-"始终",
-5,
-"shǐ zhōng",
-"from beginning to end; all along"
-],
-[
 "终点",
-6,
+5,
 "zhōng diǎn",
-"the end; end point; finishing line (in a race); destination; terminus; CL:個|个[ge4]"
+"the end; end point; finishing line (in a race); destination; terminus; CL:个[gè]"
 ],
 [
 "终身",
-6,
+5,
 "zhōng shēn",
 "lifelong; all one's life; marriage"
 ],
 [
 "终止",
-6,
+5,
 "zhōng zhǐ",
 "to stop; to terminate (law)"
 ],
 [
-"终究",
+"最终",
 6,
+"zuì zhōng",
+"final; ultimate"
+],
+[
+"年终",
+7,
+"nián zhōng",
+"end of the year"
+],
+[
+"终结",
+7,
+"zhōng jié",
+"end; conclusion; to come to an end; to terminate (sth)"
+],
+[
+"终究",
+7,
 "zhōng jiū",
 "in the end; after all is said and done"
+],
+[
+"终生",
+7,
+"zhōng shēng",
+"throughout one's life; lifetime; lifelong"
+],
+[
+"自始至终",
+7,
+"zì shǐ zhì zhōng",
+"from start to finish (idiom)"
 ]
 ],
 "extraWords": [
 [
-"最终",
-173.34,
-"zuì zhōng",
-"final; ultimate"
+"终",
+35.5,
+"zhōng",
+"end; finish"
 ],
 [
 "终端",
@@ -57,28 +87,10 @@
 "end; terminal"
 ],
 [
-"终结",
-12.13,
-"zhōng jié",
-"end; conclusion; to come to an end; to terminate (sth)"
-],
-[
-"年终",
-10.16,
-"nián zhōng",
-"end of the year"
-],
-[
 "终极",
 9.0,
 "zhōng jí",
 "ultimate; final"
-],
-[
-"终生",
-6.72,
-"zhōng shēng",
-"throughout one's life; lifetime; lifelong"
 ],
 [
 "年终奖",

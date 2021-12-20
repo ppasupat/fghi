@@ -1,6 +1,6 @@
 {
 "char": "崭",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "high, steep, precipitous; new",
 "pron": "zhǎn"
@@ -8,12 +8,43 @@
 "words": [
 [
 "崭新",
-6,
+7,
 "zhǎn xīn",
 "brand new"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"崭露头角",
+1.4,
+"zhǎn lù tóu jiǎo",
+"to reveal outstanding talent (idiom); to stand out as conspicuously brilliant"
+],
+[
+"崭",
+0.9,
+"chán",
+"variant of 崭[chán]"
+],
+[
+"崭",
+0.9,
+"zhǎn",
+"variant of 崭[zhǎn]"
+],
+[
+"崭",
+0.9,
+"chán",
+"precipitous"
+],
+[
+"崭",
+0.9,
+"zhǎn",
+"towering; prominent; very; extremely; (dialect) marvelous; excellent"
+]
+],
 "strokes": [
 "M 521 708 Q 542 804 550 824 Q 554 834 537 847 Q 509 865 488 869 Q 475 873 468 866 Q 461 860 467 847 Q 482 828 483 703 C 483 673 515 679 521 708 Z",
 "M 310 618 Q 350 649 562 681 Q 637 693 667 690 C 697 689 704 724 674 722 Q 593 718 521 708 L 483 703 Q 411 693 349 678 Q 333 675 339 694 Q 352 758 348 769 Q 335 787 315 801 Q 305 808 296 807 Q 286 804 291 786 Q 312 708 270 668 Q 252 653 258 640 Q 267 625 281 614 Q 291 607 302 612 L 310 618 Z",

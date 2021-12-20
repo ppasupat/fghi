@@ -1,24 +1,30 @@
 {
 "char": "钓",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "fish; fishhook; tempt, lure",
 "pron": "diào"
 },
 "words": [
 [
-"钓",
-5,
-"diào",
-"to fish with a hook and bait"
+"钓鱼",
+7,
+"diào yú",
+"to fish (with line and hook); to dupe"
+],
+[
+"沽名钓誉",
+7,
+"gū míng diào yù",
+"to angle for fame (idiom); to fish for compliments"
 ]
 ],
 "extraWords": [
 [
-"钓鱼",
-16.28,
-"diào yú",
-"to fish (with line and hook); to dupe"
+"钓",
+14.52,
+"diào",
+"to fish with a hook and bait"
 ]
 ],
 "strokes": [

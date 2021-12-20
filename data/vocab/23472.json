@@ -1,26 +1,31 @@
 {
 "char": "宰",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "to slaughter; to rule",
 "pron": "zǎi"
 },
 "words": [
 [
+"任人宰割",
+7,
+"rèn rén zǎi gē",
+"to get trampled on (idiom); to be taken advantage of"
+],
+[
 "宰",
-6,
+7,
 "zǎi",
 "to slaughter livestock; to govern or rule; to cheat customers; imperial official in dynastic China"
-]
 ],
-"extraWords": [
 [
 "主宰",
-5.69,
+7,
 "zhǔ zǎi",
 "to dominate; to rule; to dictate; master"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 458 820 Q 506 763 542 747 Q 558 743 567 757 Q 574 770 571 787 Q 559 833 474 858 Q 473 859 472 859 Q 456 863 445 860 Q 439 859 441 846 Q 442 834 458 820 Z",
 "M 269 675 Q 260 702 241 714 Q 222 727 222 701 Q 226 667 194 619 Q 155 577 191 519 Q 207 494 225 523 Q 228 532 266 647 L 269 675 Z",

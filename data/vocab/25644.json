@@ -1,6 +1,6 @@
 {
 "char": "搬",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "transfer, move, remove, shift",
 "pron": "bān"
@@ -11,15 +11,21 @@
 3,
 "bān",
 "to move (i.e. relocate oneself); to move (sth relatively heavy or bulky); to shift; to copy indiscriminately"
-]
 ],
-"extraWords": [
 [
 "搬家",
-17.47,
+3,
 "bān jiā",
 "to move house; removal"
 ],
+[
+"搬迁",
+7,
+"bān qiān",
+"to move; to relocate; removal"
+]
+],
+"extraWords": [
 [
 "搬走",
 15.29,
@@ -27,10 +33,10 @@
 "to carry"
 ],
 [
-"搬迁",
-10.6,
-"bān qiān",
-"to move; to relocate; removal"
+"搬进",
+13.38,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "详",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "detailed, complete, thorough",
 "pron": "xiáng"
@@ -8,15 +8,21 @@
 "words": [
 [
 "详细",
-4,
+5,
 "xiáng xì",
 "detailed; in detail; minute"
 ],
 [
-"安详",
-6,
-"ān xiáng",
-"serene"
+"耳熟能详",
+7,
+"ěr shú néng xiáng",
+"what's frequently heard can be repeated in detail (idiom)"
+],
+[
+"详尽",
+7,
+"xiáng jìn",
+"thorough and detailed; exhaustive; the tedious details in full"
 ]
 ],
 "extraWords": [
@@ -25,6 +31,12 @@
 26.4,
 "xiáng qíng",
 "details; particulars"
+],
+[
+"详",
+20.44,
+"xiáng",
+"detailed; comprehensive"
 ]
 ],
 "strokes": [

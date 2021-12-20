@@ -1,12 +1,32 @@
 {
 "char": "捂",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "resist",
 "pron": "wǔ"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"捂",
+7,
+"wǔ",
+"to enclose; to cover with the hand (one's eyes, nose or ears); to cover up (an affair); contrary; to contradict"
+]
+],
+"extraWords": [
+[
+"捂住",
+3.37,
+"wǔ zhù",
+"to cover (typically by placing a hand over sb's mouth, nose or ears etc)"
+],
+[
+"捂眼",
+0.06,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 323 545 Q 339 551 361 556 Q 392 566 397 571 Q 406 580 400 588 Q 393 600 362 605 Q 343 606 325 602 L 275 582 Q 160 549 131 543 Q 94 533 122 519 Q 164 501 253 525 Q 262 528 274 531 L 323 545 Z",
 "M 270 338 Q 267 239 266 113 Q 265 88 252 79 Q 248 76 181 90 Q 148 103 151 93 Q 152 86 171 70 Q 232 18 246 -11 Q 262 -45 279 -47 Q 292 -48 308 -13 Q 327 32 327 106 Q 320 242 320 378 L 320 413 Q 320 480 323 545 L 325 602 Q 325 702 346 772 Q 364 803 308 825 Q 274 844 255 837 Q 237 831 253 808 Q 275 781 276 747 Q 277 728 275 582 L 274 531 Q 273 467 271 384 L 270 338 Z",

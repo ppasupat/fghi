@@ -1,46 +1,94 @@
 {
 "char": "限",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "boundary, limit, line",
 "pron": "xiàn"
 },
 "words": [
 [
+"期限",
+4,
+"qī xiàn",
+"time limit; deadline; allotted time"
+],
+[
+"无限",
+4,
+"wú xiàn",
+"unlimited; unbounded"
+],
+[
 "限制",
-5,
+4,
 "xiàn zhì",
-"to restrict; to limit; to confine; restriction; limit; CL:個|个[ge4]"
+"to restrict; to limit; to confine; restriction; limit; CL:个[gè]"
+],
+[
+"有限",
+4,
+"yǒu xiàn",
+"limited; finite"
 ],
 [
 "极限",
-6,
+7,
 "jí xiàn",
 "limit; extreme boundary"
 ],
 [
 "界限",
-6,
+7,
 "jiè xiàn",
 "boundary"
 ],
 [
-"期限",
-6,
-"qī xiàn",
-"time limit; deadline; allotted time"
-],
-[
 "局限",
-6,
+7,
 "jú xiàn",
-"variant of 局限[ju2 xian4]"
+"variant of 局限[jú xiàn]"
 ],
 [
 "局限",
-6,
+7,
 "jú xiàn",
 "to limit; to confine; to restrict sth within set boundaries"
+],
+[
+"年限",
+7,
+"nián xiàn",
+"age limit; fixed number of years"
+],
+[
+"上限",
+7,
+"shàng xiàn",
+"upper bound"
+],
+[
+"限",
+7,
+"xiàn",
+"to limit; to restrict; (bound form) limit; bound"
+],
+[
+"限定",
+7,
+"xiàn dìng",
+"to restrict to; to limit"
+],
+[
+"限度",
+7,
+"xiàn dù",
+"limitation; limit"
+],
+[
+"限于",
+7,
+"xiàn yú",
+"to be limited to; to be confined to"
 ]
 ],
 "extraWords": [
@@ -51,28 +99,28 @@
 "limited company; corporation"
 ],
 [
-"有限",
-53.76,
-"yǒu xiàn",
-"limited; finite"
-],
-[
-"无限",
-38.73,
-"wú xiàn",
-"unlimited; unbounded"
-],
-[
 "股份有限公司",
 26.88,
 "gǔ fèn yǒu xiàn gōng sī",
 "joint-stock limited company; corporation"
 ],
 [
-"限于",
-11.34,
-"xiàn yú",
-"to be limited to; to be confined to"
+"限量",
+19.51,
+"???",
+"???"
+],
+[
+"有限责任公司",
+15.01,
+"???",
+"???"
+],
+[
+"最大限度",
+12.03,
+"???",
+"???"
 ],
 [
 "权限",
@@ -81,34 +129,16 @@
 "scope of authority; extent of power; (access etc) privileges"
 ],
 [
-"上限",
-8.5,
-"shàng xiàn",
-"upper bound"
-],
-[
 "限期",
 7.87,
 "xiàn qī",
 "to set a time limit; time limit; deadline"
 ],
 [
-"年限",
-7.77,
-"nián xiàn",
-"age limit; fixed number of years"
-],
-[
-"限定",
-7.26,
-"xiàn dìng",
-"to restrict to; to limit"
-],
-[
-"限度",
-6.03,
-"xiàn dù",
-"limitation; limit"
+"限额",
+6.87,
+"???",
+"???"
 ],
 [
 "限价",

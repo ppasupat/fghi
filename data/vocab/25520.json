@@ -1,6 +1,6 @@
 {
 "char": "掰",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "(Cant.) to tear, to rip",
 "pron": "bāi"
@@ -8,12 +8,25 @@
 "words": [
 [
 "掰",
-6,
+7,
 "bāi",
 "to break off or break open sth with one's hands; (fig.) to break off (a relationship)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"掰开",
+0.54,
+"bāi kāi",
+"to pull apart; to pry open with the hands"
+],
+[
+"瞎掰",
+0.31,
+"xiā bāi",
+"(coll.) to talk nonsense; to fool around"
+]
+],
 "strokes": [
 "M 250 622 Q 337 680 364 703 Q 376 716 394 724 Q 404 731 402 740 Q 398 746 381 754 Q 344 769 322 765 Q 313 764 314 753 Q 320 708 151 594 Q 147 593 142 588 Q 135 581 148 579 Q 181 588 213 603 Q 216 604 220 606 L 250 622 Z",
 "M 288 459 Q 304 466 321 470 Q 346 480 350 484 Q 357 491 352 498 Q 345 508 319 511 Q 303 512 290 508 L 243 487 Q 159 460 131 453 Q 101 444 125 432 Q 164 417 209 434 Q 224 440 242 444 L 288 459 Z",

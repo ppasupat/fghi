@@ -1,22 +1,22 @@
 {
 "char": "款",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "item, article; clause; fund",
 "pron": "kuǎn"
 },
 "words": [
 [
-"付款",
-4,
-"fù kuǎn",
-"to pay a sum of money; payment"
+"存款",
+5,
+"cún kuǎn",
+"to deposit money (in a bank etc); bank savings; bank deposit"
 ],
 [
 "贷款",
 5,
 "dài kuǎn",
-"a loan; CL:筆|笔[bi3]; to provide a loan (e.g. bank); to raise a loan (from e.g. a bank)"
+"a loan; CL:笔[bǐ]; to provide a loan (e.g. bank); to raise a loan (from e.g. a bank)"
 ],
 [
 "罚款",
@@ -25,42 +25,96 @@
 "to fine; penalty; fine (monetary)"
 ],
 [
-"条款",
-6,
-"tiáo kuǎn",
-"clause (of contract or law); CL:項|项[xiang4]"
+"汇款",
+5,
+"huì kuǎn",
+"to remit money; remittance"
 ],
 [
-"款待",
+"捐款",
 6,
-"kuǎn dài",
-"to entertain; to be hospitable to"
+"juān kuǎn",
+"to donate money; to contribute funds; donation; contribution (of money)"
+],
+[
+"取款",
+6,
+"qǔ kuǎn",
+"to withdraw money from a bank"
+],
+[
+"取款机",
+6,
+"qǔ kuǎn jī",
+"ATM"
+],
+[
+"拨款",
+7,
+"bō kuǎn",
+"to allocate funds; appropriation"
+],
+[
+"大款",
+7,
+"dà kuǎn",
+"very wealthy person"
+],
+[
+"付款",
+7,
+"fù kuǎn",
+"to pay a sum of money; payment"
+],
+[
+"公款",
+7,
+"gōng kuǎn",
+"public money"
+],
+[
+"还款",
+7,
+"huán kuǎn",
+"repayment; to pay back money"
 ],
 [
 "款式",
-6,
+7,
 "kuǎn shì",
-"pattern; style; design; CL:種|种[zhong3]"
+"pattern; style; design; CL:种[zhǒng]"
 ],
 [
 "款式",
-6,
+7,
 "kuǎn shi",
 "elegant; elegance; good taste"
+],
+[
+"款项",
+7,
+"kuǎn xiàng",
+"funds; a sum of money; CL:宗[zōng]"
+],
+[
+"条款",
+7,
+"tiáo kuǎn",
+"clause (of contract or law); CL:项[xiàng]"
+],
+[
+"新款",
+7,
+"xīn kuǎn",
+"new style; latest fashion; new model"
 ]
 ],
 "extraWords": [
 [
-"存款",
-37.93,
-"cún kuǎn",
-"to deposit money (in a bank etc); bank savings; bank deposit"
-],
-[
-"捐款",
-19.67,
-"juān kuǎn",
-"to donate money; to contribute funds; donation; contribution (of money)"
+"款",
+313.71,
+"kuǎn",
+"section; paragraph; funds; CL:笔[bǐ],个[gè]; classifier for versions or models (of a product)"
 ],
 [
 "借款",
@@ -69,22 +123,10 @@
 "to lend money; to borrow money; loan"
 ],
 [
-"公款",
-9.75,
-"gōng kuǎn",
-"public money"
-],
-[
-"款项",
-8.42,
-"kuǎn xiàng",
-"funds; a sum of money; CL:宗[zong1]"
-],
-[
-"拨款",
-7.72,
-"bō kuǎn",
-"to allocate funds; appropriation"
+"银行贷款",
+7.45,
+"???",
+"???"
 ],
 [
 "税款",
@@ -97,12 +139,6 @@
 5.87,
 "chóu kuǎn",
 "fundraising"
-],
-[
-"汇款",
-5.32,
-"huì kuǎn",
-"to remit money; remittance"
 ],
 [
 "货款",

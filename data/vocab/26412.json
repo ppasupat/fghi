@@ -1,6 +1,6 @@
 {
 "char": "本",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "root, origin, source; basis",
 "pron": "běn"
@@ -13,58 +13,106 @@
 "root; stem; origin; source; this; the current; original; inherent; originally; classifier for books, periodicals, files etc"
 ],
 [
+"本子",
+1,
+"běn zi",
+"book; notebook; Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"; CL:本[běn]; edition"
+],
+[
+"课本",
+1,
+"kè běn",
+"textbook; CL:本[běn]"
+],
+[
 "笔记本",
-3,
+2,
 "bǐ jì běn",
-"notebook (stationery); CL:本[ben3]; notebook (computing)"
+"notebook (stationery); CL:本[běn]; notebook (computing)"
 ],
 [
 "本来",
-4,
+3,
 "běn lái",
 "original; originally; at first; it goes without saying; of course"
 ],
 [
+"本领",
+3,
+"běn lǐng",
+"skill; ability; capability; CL:项[xiàng],个[gè]"
+],
+[
+"本事",
+3,
+"běn shì",
+"source material; original story"
+],
+[
+"本事",
+3,
+"běn shi",
+"ability; skill"
+],
+[
 "根本",
-5,
+3,
 "gēn běn",
-"fundamental; basic; root; simply; absolutely (not); (not) at all; CL:個|个[ge4]"
+"fundamental; basic; root; simply; absolutely (not); (not) at all; CL:个[gè]"
 ],
 [
 "基本",
-5,
+3,
 "jī běn",
 "basic; fundamental; main; elementary"
 ],
 [
-"本质",
-5,
-"běn zhì",
-"essence; nature; innate character; intrinsic quality"
-],
-[
-"本领",
-5,
-"běn lǐng",
-"skill; ability; capability; CL:項|项[xiang4],個|个[ge4]"
+"基本上",
+3,
+"jī běn shang",
+"basically; on the whole"
 ],
 [
 "本科",
-5,
+4,
 "běn kē",
 "undergraduate course; undergraduate (attributive)"
 ],
 [
+"本人",
+5,
+"běn rén",
+"the person himself; I (humble form used in speeches); oneself; myself; in person; personal"
+],
+[
+"成本",
+5,
+"chéng běn",
+"(manufacturing, production etc) costs"
+],
+[
 "剧本",
-6,
+5,
 "jù běn",
 "script for play, opera, movie etc; screenplay; scenario"
 ],
 [
-"本人",
+"资本",
+5,
+"zī běn",
+"capital (economics)"
+],
+[
+"本地",
 6,
-"běn rén",
-"the person himself; I (humble form used in speeches); oneself; myself; in person; personal"
+"běn dì",
+"local; this locality"
+],
+[
+"本期",
+6,
+"běn qī",
+"the current period; this term (usually in finance)"
 ],
 [
 "本身",
@@ -73,52 +121,100 @@
 "itself; in itself; per se"
 ],
 [
-"本事",
+"本土",
 6,
-"běn shì",
-"source material; original story"
+"běn tǔ",
+"one's native country; native; local; metropolitan territory"
 ],
 [
-"本事",
+"本质",
 6,
-"běn shi",
-"ability; skill"
+"běn zhì",
+"essence; nature; innate character; intrinsic quality"
 ],
 [
-"版本",
-6,
-"bǎn běn",
-"version; edition; release"
+"本分",
+7,
+"běn fèn",
+"(to play) one's part; one's role; one's duty; (to stay within) one's bounds; dutiful; keeping to one's role"
 ],
 [
 "本能",
-6,
+7,
 "běn néng",
 "instinct"
 ],
 [
-"成本",
-6,
-"chéng běn",
-"(manufacturing, production etc) costs"
+"本钱",
+7,
+"běn qián",
+"capital; (fig.) asset; advantage; the means (to do sth)"
 ],
 [
-"资本",
-6,
-"zī běn",
-"capital (economics)"
+"本色",
+7,
+"běn sè",
+"inherent qualities; natural qualities; distinctive character; true qualities"
+],
+[
+"本色",
+7,
+"běn shǎi",
+"natural color"
+],
+[
+"本性",
+7,
+"běn xìng",
+"natural instincts; nature; inherent quality"
+],
+[
+"本意",
+7,
+"běn yì",
+"original idea; real intention; etymon"
+],
+[
+"本着",
+7,
+"běn zhe",
+"based on...; in conformance with..; taking as one's main principle"
 ],
 [
 "标本",
-6,
+7,
 "biāo běn",
 "specimen; sample; the root cause and symptoms of a disease"
 ],
 [
-"本钱",
-6,
-"běn qián",
-"capital; (fig.) asset; advantage; the means (to do sth)"
+"基本功",
+7,
+"jī běn gōng",
+"basic skills; fundamentals"
+],
+[
+"亏本",
+7,
+"kuī běn",
+"to make a loss"
+],
+[
+"样本",
+7,
+"yàng běn",
+"sample; specimen"
+],
+[
+"原本",
+7,
+"yuán běn",
+"originally; original"
+],
+[
+"资本主义",
+7,
+"zī běn zhǔ yì",
+"capitalism"
 ]
 ],
 "extraWords": [
@@ -129,16 +225,10 @@
 "Japan"
 ],
 [
-"原本",
-46.24,
-"yuán běn",
-"originally; original"
-],
-[
-"基本上",
-44.37,
-"jī běn shang",
-"basically; on the whole"
+"本报讯",
+195.38,
+"???",
+"???"
 ],
 [
 "本届",
@@ -153,22 +243,22 @@
 "this text; article; the main body of a book"
 ],
 [
+"本公司",
+33.03,
+"???",
+"???"
+],
+[
 "本月",
 32.54,
 "běn yuè",
 "this month; the current month"
 ],
 [
-"本地",
-30.16,
-"běn dì",
-"local; this locality"
-],
-[
-"资本主义",
-29.05,
-"zī běn zhǔ yì",
-"capitalism"
+"版本",
+29.61,
+"bǎn běn",
+"version; edition; release"
 ],
 [
 "资本市场",
@@ -177,16 +267,10 @@
 "capital market"
 ],
 [
-"本土",
-21.23,
-"běn tǔ",
-"one's native country; native; local; metropolitan territory"
-],
-[
-"样本",
-20.48,
-"yàng běn",
-"sample; specimen"
+"本赛季",
+22.88,
+"???",
+"???"
 ],
 [
 "股本",
@@ -195,22 +279,34 @@
 "capital stock; investment"
 ],
 [
-"本期",
-16.65,
-"běn qī",
-"the current period; this term (usually in finance)"
-],
-[
 "日本人",
 16.56,
 "Rì běn rén",
 "Japanese person or people"
 ],
 [
-"本着",
-10.32,
-"běn zhe",
-"based on...; in conformance with..; taking as one's main principle"
+"根本上",
+13.18,
+"???",
+"???"
+],
+[
+"本基金",
+11.66,
+"???",
+"???"
+],
+[
+"本该",
+10.46,
+"???",
+"???"
+],
+[
+"本是",
+9.79,
+"???",
+"???"
 ],
 [
 "文本",
@@ -219,16 +315,16 @@
 "a text (article, script, contract etc); version of a text (copy, translation, abridged version etc); (computing) text"
 ],
 [
-"本性",
-8.82,
-"běn xìng",
-"natural instincts; nature; inherent quality"
-],
-[
 "以人为本",
 8.77,
 "yǐ rén wéi běn",
 "people-oriented"
+],
+[
+"日本队",
+8.23,
+"???",
+"???"
 ],
 [
 "本田",
@@ -237,28 +333,28 @@
 "Honda (Japanese name)"
 ],
 [
-"本色",
-7.43,
-"běn sè",
-"inherent qualities; natural qualities; distinctive character; true qualities"
-],
-[
-"本色",
-7.43,
-"běn shǎi",
-"natural color"
-],
-[
-"课本",
-7.17,
-"kè běn",
-"textbook; CL:本[ben3]"
+"本案",
+7.72,
+"???",
+"???"
 ],
 [
 "赵本山",
 6.99,
 "Zhào Běn shān",
 "Zhao Benshan (1958-), universally known PRC TV comedian"
+],
+[
+"本地区",
+6.66,
+"???",
+"???"
+],
+[
+"一本书",
+6.63,
+"???",
+"???"
 ],
 [
 "本年度",
@@ -291,22 +387,52 @@
 "low cost; inexpensive"
 ],
 [
+"本单位",
+5.71,
+"???",
+"???"
+],
+[
 "本金",
 5.24,
 "běn jīn",
 "capital; principal"
 ],
 [
+"本世纪",
+5.23,
+"???",
+"???"
+],
+[
+"本次",
+5.22,
+"???",
+"???"
+],
+[
 "书本",
 5.19,
 "shū běn",
-"book; CL:本[ben3]"
+"book; CL:本[běn]"
 ],
 [
 "资本家",
 5.07,
 "zī běn jiā",
 "capitalist"
+],
+[
+"根本性",
+5.03,
+"???",
+"???"
+],
+[
+"本书",
+5.01,
+"???",
+"???"
 ]
 ],
 "strokes": [

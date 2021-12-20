@@ -1,6 +1,6 @@
 {
 "char": "因",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "cause, reason; by; because (of)",
 "pron": "yīn"
@@ -14,21 +14,15 @@
 ],
 [
 "原因",
-4,
+2,
 "yuán yīn",
-"cause; origin; root cause; reason; CL:個|个[ge4]"
+"cause; origin; root cause; reason; CL:个[gè]"
 ],
 [
 "因此",
-4,
+3,
 "yīn cǐ",
 "thus; consequently; as a result"
-],
-[
-"因素",
-5,
-"yīn sù",
-"element; factor; CL:個|个[ge4]"
 ],
 [
 "因而",
@@ -37,10 +31,34 @@
 "therefore; as a result; thus; and as a result, ..."
 ],
 [
-"基因",
+"因",
 6,
+"yīn",
+"old variant of 因[yīn]"
+],
+[
+"因",
+6,
+"yīn",
+"cause; reason; because"
+],
+[
+"因素",
+6,
+"yīn sù",
+"element; factor; CL:个[gè]"
+],
+[
+"基因",
+7,
 "jī yīn",
 "gene (loanword)"
+],
+[
+"因人而异",
+7,
+"yīn rén ér yì",
+"varying from person to person (idiom); different for each individual"
 ]
 ],
 "extraWords": [
@@ -85,6 +103,12 @@
 6.32,
 "zhuǎn jī yīn",
 "genetic modification"
+],
+[
+"只因",
+5.96,
+"???",
+"???"
 ],
 [
 "因地制宜",

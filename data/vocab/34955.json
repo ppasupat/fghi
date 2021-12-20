@@ -1,11 +1,29 @@
 {
 "char": "袋",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "pocket, bag, sack, pouch",
 "pron": "dài"
 },
 "words": [
+[
+"袋",
+4,
+"dài",
+"pouch; bag; sack; pocket"
+],
+[
+"口袋",
+4,
+"kǒu dài",
+"pocket; bag; sack; CL:个[gè]"
+],
+[
+"脑袋",
+4,
+"nǎo dai",
+"head; skull; brains; mental capability; CL:颗[kē],个[gè]"
+],
 [
 "塑料袋",
 4,
@@ -13,19 +31,13 @@
 "plastic bag"
 ],
 [
-"脑袋",
-5,
-"nǎo dai",
-"head; skull; brains; mental capability; CL:顆|颗[ke1],個|个[ge4]"
+"睡袋",
+7,
+"shuì dài",
+"sleeping bag"
 ]
 ],
 "extraWords": [
-[
-"口袋",
-29.33,
-"kǒu dài",
-"pocket; bag; sack; CL:個|个[ge4]"
-],
 [
 "袋子",
 23.76,

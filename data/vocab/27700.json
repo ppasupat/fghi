@@ -1,6 +1,6 @@
 {
 "char": "水",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "water, liquid, lotion, juice",
 "pron": "shuǐ"
@@ -22,19 +22,67 @@
 "水果",
 1,
 "shuǐ guǒ",
-"fruit; CL:個|个[ge4]"
+"fruit; CL:个[gè]"
 ],
 [
 "水平",
-3,
+2,
 "shuǐ píng",
 "level (of achievement etc); standard; horizontal"
+],
+[
+"药水",
+2,
+"Yào shuǐ",
+"Yaksu in North Korea, near the border with Liaoning and Jiling province"
+],
+[
+"药水",
+2,
+"yào shuǐ",
+"medicine in liquid form; bottled medicine; lotion"
+],
+[
+"凉水",
+3,
+"liáng shuǐ",
+"cool water; unboiled water"
+],
+[
+"纯净水",
+4,
+"chún jìng shuǐ",
+"purified water"
+],
+[
+"海水",
+4,
+"hǎi shuǐ",
+"seawater"
+],
+[
+"开水",
+4,
+"kāi shuǐ",
+"boiled water; boiling water"
 ],
 [
 "矿泉水",
 4,
 "kuàng quán shuǐ",
-"mineral spring water; CL:瓶[ping2],杯[bei1]"
+"mineral spring water; CL:瓶[píng],杯[bēi]"
+],
+[
+"泪水",
+4,
+"lèi shuǐ",
+"teardrop; tears"
+],
+[
+"汽水",
+4,
+"qì shuǐ",
+"soda; pop"
 ],
 [
 "胶水",
@@ -43,34 +91,40 @@
 "glue"
 ],
 [
-"开水",
+"水产品",
 5,
-"kāi shuǐ",
-"boiled water; boiling water"
+"shuǐ chǎn pǐn",
+"aquatic products (including fish, crabs, seaweed etc)"
 ],
 [
-"薪水",
-6,
-"xīn shuǐ",
-"salary; wage"
+"水分",
+5,
+"shuǐ fèn",
+"moisture content; (fig.) overstatement; padding"
 ],
 [
-"潜水",
-6,
-"qián shuǐ",
-"to dive; to go under water; (in an online forum) to lurk"
+"水库",
+5,
+"shuǐ kù",
+"reservoir; CL:座[zuò]"
 ],
 [
-"水泥",
-6,
-"shuǐ ní",
-"cement; CL:袋[dai4]"
+"水灾",
+5,
+"shuǐ zāi",
+"flood; flood damage"
 ],
 [
-"墨水儿",
-6,
-"mò shuǐ r5",
-"erhua variant of 墨水[mo4 shui3]"
+"污水",
+5,
+"wū shuǐ",
+"sewage"
+],
+[
+"雨水",
+5,
+"Yǔ shuǐ",
+"Yushui or Rain Water, 2nd of the 24 solar terms 二十四節氣|二十四节气 19th February-5th March"
 ],
 [
 "洪水",
@@ -79,37 +133,247 @@
 "deluge; flood"
 ],
 [
-"水龙头",
+"酒水",
 6,
+"jiǔ shuǐ",
+"beverage; a drink"
+],
+[
+"冷水",
+6,
+"lěng shuǐ",
+"cold water; unboiled water; fig. not yet ready (of plans)"
+],
+[
+"墨水",
+6,
+"mò shuǐ",
+"ink; CL:瓶[píng]"
+],
+[
+"热水",
+6,
+"rè shuǐ",
+"hot water"
+],
+[
+"热水器",
+6,
+"rè shuǐ qì",
+"water heater"
+],
+[
+"水泥",
+6,
+"shuǐ ní",
+"cement; CL:袋[dài]"
+],
+[
+"跳水",
+6,
+"tiào shuǐ",
+"to dive (into water); (sports) diving; to commit suicide by jumping into water; (fig.) (of stock prices etc) to fall dramatically"
+],
+[
+"薪水",
+6,
+"xīn shuǐ",
+"salary; wage"
+],
+[
+"自来水",
+6,
+"zì lái shuǐ",
+"running water; tap water"
+],
+[
+"地下水",
+7,
+"dì xià shuǐ",
+"groundwater"
+],
+[
+"放水",
+7,
+"fàng shuǐ",
+"to turn on the water; to let water out; to throw a game (sports)"
+],
+[
+"风水",
+7,
+"fēng shuǐ",
+"feng shui; geomancy"
+],
+[
+"汗水",
+7,
+"hàn shuǐ",
+"sweat; perspiration"
+],
+[
+"节水",
+7,
+"jié shuǐ",
+"to save water"
+],
+[
+"口水",
+7,
+"kǒu shuǐ",
+"saliva"
+],
+[
+"流水",
+7,
+"liú shuǐ",
+"running water; (business) turnover"
+],
+[
+"萍水相逢",
+7,
+"píng shuǐ xiāng féng",
+"strangers coming together by chance (idiom)"
+],
+[
+"泼冷水",
+7,
+"pō lěng shuǐ",
+"lit. to pour cold water on; fig. to dampen one's enthusiasm"
+],
+[
+"潜水",
+7,
+"qián shuǐ",
+"to dive; to go under water; (in an online forum) to lurk"
+],
+[
+"水槽",
+7,
+"shuǐ cáo",
+"sink"
+],
+[
+"水稻",
+7,
+"shuǐ dào",
+"rice; paddy; CL:株[zhū]"
+],
+[
+"水管",
+7,
+"shuǐ guǎn",
+"water pipe"
+],
+[
+"水壶",
+7,
+"shuǐ hú",
+"kettle; canteen; watering can"
+],
+[
+"水货",
+7,
+"shuǐ huò",
+"smuggled goods; unauthorized goods"
+],
+[
+"水晶",
+7,
+"shuǐ jīng",
+"crystal"
+],
+[
+"水利",
+7,
+"shuǐ lì",
+"water conservancy; irrigation works"
+],
+[
+"水灵灵",
+7,
+"shuǐ líng líng",
+"see 水灵[shuǐ líng]"
+],
+[
+"水龙头",
+7,
 "shuǐ lóng tóu",
 "faucet; tap"
 ],
 [
-"淡水",
-6,
-"Dàn shuǐ",
-"Tamsui or Danshui, district of New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+"水落石出",
+7,
+"shuǐ luò shí chū",
+"as the water recedes, the rocks appear (idiom); the truth comes to light"
 ],
 [
-"淡水",
-6,
-"dàn shuǐ",
-"potable water (water with low salt content); fresh water"
+"水面",
+7,
+"shuǐ miàn",
+"water surface"
 ],
 [
-"水利",
-6,
-"shuǐ lì",
-"water conservancy; irrigation works"
+"水手",
+7,
+"shuǐ shǒu",
+"mariner; sailor; seaman"
+],
+[
+"水温",
+7,
+"shuǐ wēn",
+"water temperature"
+],
+[
+"水域",
+7,
+"shuǐ yù",
+"waters; body of water"
+],
+[
+"水源",
+7,
+"shuǐ yuán",
+"water source; water supply; headwaters of a river"
+],
+[
+"水涨船高",
+7,
+"shuǐ zhǎng chuán gāo",
+"the tide rises, the boat floats (idiom); fig. to change with the overall trend; to develop according to the situation"
+],
+[
+"水准",
+7,
+"shuǐ zhǔn",
+"level (of achievement etc); standard; level (surveying)"
+],
+[
+"缩水",
+7,
+"suō shuǐ",
+"to shrink (in the wash); fig. to shrink (of profits etc)"
+],
+[
+"香水",
+7,
+"xiāng shuǐ",
+"perfume; cologne"
+],
+[
+"饮水",
+7,
+"yǐn shuǐ",
+"drinking water"
+],
+[
+"饮用水",
+7,
+"yǐn yòng shuǐ",
+"drinking water; potable water"
 ]
 ],
 "extraWords": [
-[
-"污水",
-21.74,
-"wū shuǐ",
-"sewage"
-],
 [
 "陈水扁",
 20.76,
@@ -117,58 +381,16 @@
 "Chen Shui-Bian (1950-), Taiwanese DPP 民進黨|民进党 politician, president of the Republic of China 2000-2008"
 ],
 [
-"水库",
-19.55,
-"shuǐ kù",
-"reservoir; CL:座[zuo4]"
-],
-[
-"水分",
-16.77,
-"shuǐ fèn",
-"moisture content; (fig.) overstatement; padding"
-],
-[
-"泪水",
-15.37,
-"lèi shuǐ",
-"teardrop; tears"
-],
-[
-"水面",
-15.31,
-"shuǐ miàn",
-"water surface"
-],
-[
-"水晶",
-14.58,
-"shuǐ jīng",
-"crystal"
-],
-[
-"香水",
-14.52,
-"xiāng shuǐ",
-"perfume; cologne"
-],
-[
-"水准",
-13.96,
-"shuǐ zhǔn",
-"level (of achievement etc); standard; level (surveying)"
+"用水",
+17.37,
+"???",
+"???"
 ],
 [
 "供水",
 13.88,
 "gōng shuǐ",
 "to supply water"
-],
-[
-"热水",
-13.05,
-"rè shuǐ",
-"hot water"
 ],
 [
 "水质",
@@ -183,22 +405,16 @@
 "hydroelectric power; plumbing and electricity"
 ],
 [
-"水稻",
-11.67,
-"shuǐ dào",
-"rice; paddy; CL:株[zhu1]"
-],
-[
-"水源",
-11.64,
-"shuǐ yuán",
-"water source; water supply; headwaters of a river"
-],
-[
 "水位",
 11.48,
 "shuǐ wèi",
 "water level"
+],
+[
+"水资源",
+11.46,
+"???",
+"???"
 ],
 [
 "清水",
@@ -213,40 +429,16 @@
 "fresh water; drinking water; clear water"
 ],
 [
-"口水",
-11.0,
-"kǒu shuǐ",
-"saliva"
-],
-[
-"海水",
-10.91,
-"hǎi shuǐ",
-"seawater"
-],
-[
-"跳水",
-10.66,
-"tiào shuǐ",
-"to dive (into water); (sports) diving; to commit suicide by jumping into water; (fig.) (of stock prices etc) to fall dramatically"
-],
-[
-"自来水",
-10.54,
-"zì lái shuǐ",
-"running water; tap water"
-],
-[
 "水肿",
 10.32,
 "shuǐ zhǒng",
 "(med.) edema; dropsy"
 ],
 [
-"饮水",
-10.23,
-"yǐn shuǐ",
-"drinking water"
+"高水平",
+9.99,
+"???",
+"???"
 ],
 [
 "山水",
@@ -261,18 +453,6 @@
 "water from a mountain; mountains and rivers; scenery; landscape"
 ],
 [
-"水管",
-9.18,
-"shuǐ guǎn",
-"water pipe"
-],
-[
-"水手",
-8.88,
-"shuǐ shǒu",
-"mariner; sailor; seaman"
-],
-[
 "下水道",
 8.67,
 "xià shuǐ dào",
@@ -282,25 +462,13 @@
 "水上",
 8.54,
 "Shuǐ shàng",
-"Shuishang Township in Chiayi County 嘉義縣|嘉义县[Jia1 yi4 Xian4], west Taiwan"
+"Shuishang Township in Chiayi County 嘉义县[Jiā yì Xiàn], west Taiwan"
 ],
 [
 "水上",
 8.54,
 "shuǐ shàng",
 "on water; aquatic"
-],
-[
-"雨水",
-8.27,
-"Yǔ shuǐ",
-"Yushui or Rain Water, 2nd of the 24 solar terms 二十四節氣|二十四节气 19th February-5th March"
-],
-[
-"汗水",
-8.02,
-"hàn shuǐ",
-"sweat; perspiration"
 ],
 [
 "排水",
@@ -315,40 +483,16 @@
 "aquatic; produced in sea, rivers or lakes"
 ],
 [
-"水域",
-7.63,
-"shuǐ yù",
-"waters; body of water"
-],
-[
-"节水",
-7.45,
-"jié shuǐ",
-"to save water"
-],
-[
-"汽水",
-7.42,
-"qì shuǐ",
-"soda; pop"
-],
-[
 "降水",
 7.31,
 "jiàng shuǐ",
 "rain and snow; precipitation (meteorology)"
 ],
 [
-"流水",
+"水中",
 7.24,
-"liú shuǐ",
-"running water; (business) turnover"
-],
-[
-"冷水",
-7.0,
-"lěng shuǐ",
-"cold water; unboiled water; fig. not yet ready (of plans)"
+"???",
+"???"
 ],
 [
 "积水",
@@ -361,12 +505,6 @@
 6.17,
 "hé shuǐ",
 "river water"
-],
-[
-"热水器",
-6.11,
-"rè shuǐ qì",
-"water heater"
 ],
 [
 "废水",
@@ -387,30 +525,6 @@
 "offal; viscera; tripe"
 ],
 [
-"风水",
-5.95,
-"fēng shuǐ",
-"feng shui; geomancy"
-],
-[
-"水产品",
-5.79,
-"shuǐ chǎn pǐn",
-"aquatic products (including fish, crabs, seaweed etc)"
-],
-[
-"饮用水",
-5.5,
-"yǐn yòng shuǐ",
-"drinking water; potable water"
-],
-[
-"缩水",
-5.47,
-"suō shuǐ",
-"to shrink (in the wash); fig. to shrink (of profits etc)"
-],
-[
 "水流",
 5.16,
 "shuǐ liú",
@@ -420,19 +534,13 @@
 "盐水",
 5.16,
 "Yán shuǐ",
-"Yanshui town in Tainan county 台南縣|台南县[Tai2 nan2 xian4], Taiwan"
+"Yanshui town in Tainan county 台南县[Tái nán xiàn], Taiwan"
 ],
 [
 "盐水",
 5.16,
 "yán shuǐ",
 "salt water; brine"
-],
-[
-"地下水",
-5.13,
-"dì xià shuǐ",
-"groundwater"
 ],
 [
 "水下",

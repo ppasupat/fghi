@@ -1,17 +1,30 @@
 {
 "char": "玫",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "rose",
 "pron": "méi"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "玫瑰",
-26.62,
+7,
 "méi guī",
-"rugosa rose (shrub) (Rosa rugosa); rose flower; CL:朵[duo3],棵[ke1]"
+"rugosa rose (shrub) (Rosa rugosa); rose flower; CL:朵[duǒ],棵[kē]"
+]
+],
+"extraWords": [
+[
+"玫",
+10.0,
+"méi",
+"(fine jade); see 玫瑰[méi guī]"
+],
+[
+"玫瑰花",
+1.97,
+"méi guī huā",
+"rose"
 ]
 ],
 "strokes": [

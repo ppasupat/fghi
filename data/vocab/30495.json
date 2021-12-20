@@ -1,70 +1,142 @@
 {
 "char": "真",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "real, actual, true, genuine",
 "pron": "zhēn"
 },
 "words": [
 [
-"真",
-2,
-"zhēn",
-"really; truly; indeed; real; true; genuine"
-],
-[
 "认真",
-3,
+1,
 "rèn zhēn",
 "conscientious; earnest; serious; to take seriously; to take to heart"
 ],
 [
+"真",
+1,
+"zhēn",
+"really; truly; indeed; real; true; genuine"
+],
+[
+"真的",
+1,
+"???",
+"???"
+],
+[
 "真正",
-4,
+2,
 "zhēn zhèng",
 "genuine; real; true; genuinely"
 ],
 [
-"传真",
-4,
-"chuán zhēn",
-"fax; facsimile"
-],
-[
 "真实",
-5,
+3,
 "zhēn shí",
 "true; real"
 ],
 [
 "天真",
-5,
+4,
 "tiān zhēn",
 "naive; innocent; artless"
 ],
 [
+"传真",
+5,
+"chuán zhēn",
+"fax; facsimile"
+],
+[
+"真诚",
+5,
+"zhēn chéng",
+"true; sincere; genuine"
+],
+[
+"真理",
+5,
+"zhēn lǐ",
+"truth; CL:个[gè]"
+],
+[
 "真相",
-6,
+5,
 "zhēn xiàng",
 "the truth about sth; the actual facts"
 ],
 [
-"真理",
-6,
-"zhēn lǐ",
-"truth; CL:個|个[ge4]"
+"半真半假",
+7,
+"bàn zhēn bàn jiǎ",
+"(idiom) half true and half false"
+],
+[
+"逼真",
+7,
+"bī zhēn",
+"lifelike; true to life; distinctly; clearly"
+],
+[
+"当真",
+7,
+"dàng zhēn",
+"to take seriously; serious; No joking, really!"
+],
+[
+"果真",
+7,
+"guǒ zhēn",
+"really; as expected; sure enough; if indeed...; if it's really..."
+],
+[
+"清真寺",
+7,
+"qīng zhēn sì",
+"mosque"
+],
+[
+"说真的",
+7,
+"shuō zhēn de",
+"to tell the truth; honestly; in fact"
+],
+[
+"真假",
+7,
+"zhēn jiǎ",
+"genuine or fake; true or false"
+],
+[
+"真空",
+7,
+"zhēn kōng",
+"vacuum"
+],
+[
+"真情",
+7,
+"zhēn qíng",
+"real situation; the truth"
+],
+[
+"真是的",
+7,
+"zhēn shi de",
+"Really! (interj. of annoyance or frustration)"
+],
+[
+"真心",
+7,
+"zhēn xīn",
+"sincere; heartfelt; CL:片[piàn]"
 ],
 [
 "真挚",
-6,
+7,
 "zhēn zhì",
 "sincere; sincerity"
-],
-[
-"清真",
-6,
-"qīng zhēn",
-"Islamic; Muslim; halal (of food); clean; pure"
 ]
 ],
 "extraWords": [
@@ -75,46 +147,28 @@
 "indeed; truly; (coll.) (used to express disapproval, annoyance etc about sth)"
 ],
 [
-"真心",
-68.07,
-"zhēn xīn",
-"sincere; heartfelt; CL:片[pian4]"
-],
-[
-"真诚",
-25.32,
-"zhēn chéng",
-"true; sincere; genuine"
-],
-[
 "真人",
 13.21,
 "zhēn rén",
 "a real person; Daoist spiritual master"
 ],
 [
-"真情",
-10.1,
-"zhēn qíng",
-"real situation; the truth"
+"真话",
+11.69,
+"???",
+"???"
 ],
 [
-"当真",
-9.84,
-"dàng zhēn",
-"to take seriously; serious; No joking, really!"
+"真名",
+11.0,
+"???",
+"???"
 ],
 [
 "写真",
 8.32,
 "xiě zhēn",
 "portrait; to describe sth accurately"
-],
-[
-"真空",
-8.23,
-"zhēn kōng",
-"vacuum"
 ],
 [
 "真皮",
@@ -127,12 +181,6 @@
 7.23,
 "zhēn shí xìng",
 "authenticity; truthfulness; veracity; reality; validity"
-],
-[
-"果真",
-7.02,
-"guǒ zhēn",
-"really; as expected; sure enough; if indeed...; if it's really..."
 ],
 [
 "真主党",
@@ -153,22 +201,10 @@
 "innocent and unaffected; pure and unadulterated"
 ],
 [
-"真假",
-5.27,
-"zhēn jiǎ",
-"genuine or fake; true or false"
-],
-[
 "真真",
 5.11,
 "zhēn zhēn",
 "really; in fact; genuinely; scrupulously"
-],
-[
-"逼真",
-5.07,
-"bī zhēn",
-"lifelike; true to life; distinctly; clearly"
 ]
 ],
 "strokes": [

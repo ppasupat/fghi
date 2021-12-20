@@ -1,6 +1,6 @@
 {
 "char": "悉",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "know, learn about, comprehend",
 "pron": "xī"
@@ -8,29 +8,35 @@
 "words": [
 [
 "熟悉",
-4,
+5,
 "shú xī",
 "to be familiar with; to know well"
 ],
 [
+"获悉",
+7,
+"huò xī",
+"to learn of sth; to find out; to get news"
+],
+[
 "据悉",
-6,
+7,
 "jù xī",
 "according to reports; it is reported (that)"
 ]
 ],
 "extraWords": [
 [
-"获悉",
-56.53,
-"huò xī",
-"to learn of sth; to find out; to get news"
-],
-[
 "悉尼",
 5.43,
 "Xī ní",
 "Sydney, capital of New South Wales, Australia"
+],
+[
+"悉",
+5.14,
+"xī",
+"in all cases; know"
 ]
 ],
 "strokes": [

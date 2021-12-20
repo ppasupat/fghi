@@ -1,17 +1,30 @@
 {
 "char": "筝",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "stringed musical instrument; kite",
 "pron": "zhēng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "风筝",
-6.01,
+7,
 "fēng zhēng",
 "kite"
+]
+],
+"extraWords": [
+[
+"古筝",
+1.63,
+"gǔ zhēng",
+"zither or guzheng; large zither with 13 to 25 strings, developed from guqin 古琴[gǔ qín] during Tang and Song times"
+],
+[
+"筝",
+0.85,
+"zhēng",
+"guzheng or long zither; long zither with 13 to 16 strings, developed from guqin 古琴 during Tang and Song times; Japanese koto"
 ]
 ],
 "strokes": [

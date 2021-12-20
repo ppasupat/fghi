@@ -1,6 +1,6 @@
 {
 "char": "双",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "set of two, pair, couple; both",
 "pron": "shuāng"
@@ -20,24 +20,60 @@
 ],
 [
 "双方",
-5,
+3,
 "shuāng fāng",
 "bilateral; both sides; both parties involved"
 ],
 [
-"双胞胎",
-6,
-"shuāng bāo tāi",
-"twin; CL:對|对[dui4]"
-]
-],
-"extraWords": [
-[
 "双手",
-36.13,
+5,
 "shuāng shǒu",
 "both hands"
 ],
+[
+"双打",
+6,
+"shuāng dǎ",
+"doubles (in sports); CL:场[chǎng]"
+],
+[
+"举世无双",
+7,
+"jǔ shì wú shuāng",
+"unrivaled (idiom); world number one; unique; unequaled"
+],
+[
+"双胞胎",
+7,
+"shuāng bāo tāi",
+"twin; CL:对[duì]"
+],
+[
+"双边",
+7,
+"shuāng biān",
+"bilateral"
+],
+[
+"双重",
+7,
+"shuāng chóng",
+"double"
+],
+[
+"双向",
+7,
+"shuāng xiàng",
+"bidirectional; two-way; interactive"
+],
+[
+"双赢",
+7,
+"shuāng yíng",
+"profitable to both sides; a win-win situation"
+]
+],
+"extraWords": [
 [
 "双子座",
 27.56,
@@ -51,28 +87,16 @@
 "Pisces (constellation and sign of the zodiac)"
 ],
 [
-"双重",
-15.27,
-"shuāng chóng",
-"double"
-],
-[
-"双边",
-12.36,
-"shuāng biān",
-"bilateral"
-],
-[
-"双向",
-10.94,
-"shuāng xiàng",
-"bidirectional; two-way; interactive"
-],
-[
 "双人",
 10.32,
 "shuāng rén",
 "two-person; double; pair; tandem"
+],
+[
+"双双",
+9.17,
+"???",
+"???"
 ],
 [
 "双脚",
@@ -85,12 +109,6 @@
 5.98,
 "shuāng céng",
 "double tier; double decker"
-],
-[
-"双打",
-5.75,
-"shuāng dǎ",
-"doubles (in sports); CL:場|场[chang3]"
 ]
 ],
 "strokes": [

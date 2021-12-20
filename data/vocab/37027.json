@@ -1,6 +1,6 @@
 {
 "char": "那",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "that, that one, those",
 "pron": "nā, nà"
@@ -22,7 +22,7 @@
 "那",
 1,
 "nǎ",
-"variant of 哪[na3]"
+"variant of 哪[nǎ]"
 ],
 [
 "那",
@@ -34,63 +34,81 @@
 "那",
 1,
 "nuó",
-"(archaic) many; beautiful; how; old variant of 挪[nuo2]"
+"(archaic) many; beautiful; how; old variant of 挪[nuó]"
 ],
 [
-"刹那",
-6,
-"chà nà",
-"an instant (Sanskrit: ksana); split second; the twinkling of an eye"
-]
-],
-"extraWords": [
-[
-"那么",
-1245.85,
-"nà me",
-"like that; in that way; or so; so; so very much; about; in that case"
-],
-[
-"那个",
-1234.61,
-"nà ge",
-"that one; that thing; that (as opposed to this); (used before a verb or adjective for emphasis); (used to humorously or indirectly refer to sth embarrassing, funny etc, or when one can't think of the right word); (used in speech as a filler, similar to \"umm\", \"you know\" etc); (euph.) menstruation; sex; also pr. [nei4 ge5]"
-],
-[
-"那些",
-788.46,
-"nà xiē",
-"those"
-],
-[
-"那样",
-521.51,
-"nà yàng",
-"that kind; that sort"
+"那边",
+1,
+"nà bian",
+"over there; yonder"
 ],
 [
 "那里",
-500.29,
+1,
 "nà li",
 "there; that place; also written 那裡|那里"
 ],
 [
 "那里",
-500.29,
+1,
 "nà li",
 "there; that place"
 ],
 [
 "那儿",
-305.67,
+1,
 "nà r5",
 "there"
 ],
 [
-"那边",
-195.91,
-"nà bian",
-"over there; yonder"
+"那些",
+1,
+"nà xiē",
+"those"
+],
+[
+"那会儿",
+2,
+"nà huì r5",
+"at that time (in the past or the future); also pr. [nei4 hui4 r5]"
+],
+[
+"那么",
+2,
+"nà me",
+"like that; in that way; or so; so; so very much; about; in that case"
+],
+[
+"那时候",
+2,
+"nà shí hou",
+"at that time"
+],
+[
+"那时",
+2,
+"nà shí",
+"then; at that time; in those days"
+],
+[
+"那样",
+2,
+"nà yàng",
+"that kind; that sort"
+],
+[
+"一刹那",
+7,
+"yī chà nà",
+"a moment; an instant; in a flash"
+]
+],
+"extraWords": [
+[
+"那个",
+1234.61,
+"nà ge",
+"that one; that thing; that (as opposed to this); (used before a verb or adjective for emphasis); (used to humorously or indirectly refer to sth embarrassing, funny etc, or when one can't think of the right word); (used in speech as a filler, similar to \"umm\", \"you know\" etc); (euph.) menstruation; sex; also pr. [nei4 ge5]"
 ],
 [
 "那天",
@@ -105,16 +123,40 @@
 "that; that kind of; that sort of; that type of"
 ],
 [
-"那时",
-104.15,
-"nà shí",
-"then; at that time; in those days"
+"那就",
+50.39,
+"???",
+"???"
 ],
 [
-"那会儿",
-6.44,
-"nà huì r5",
-"at that time (in the past or the future); also pr. [nei4 hui4 r5]"
+"那次",
+10.77,
+"???",
+"???"
+],
+[
+"那位",
+8.88,
+"???",
+"???"
+],
+[
+"那年",
+8.26,
+"???",
+"???"
+],
+[
+"那段",
+8.26,
+"???",
+"???"
+],
+[
+"那场",
+7.39,
+"???",
+"???"
 ],
 [
 "巴塞罗那",

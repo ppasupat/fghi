@@ -1,54 +1,72 @@
 {
 "char": "避",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "avoid; turn aside; escape; hide",
 "pron": "bì"
 },
 "words": [
 [
+"避",
+4,
+"bì",
+"to avoid; to shun; to flee; to escape; to keep away from; to leave; to hide from"
+],
+[
 "避免",
-5,
+4,
 "bì miǎn",
 "to avert; to prevent; to avoid; to refrain from"
 ],
 [
-"逃避",
+"回避",
 5,
-"táo bì",
-"to escape; to evade; to avoid; to shirk"
-],
-[
-"回避",
-6,
 "huí bì",
-"variant of 迴避|回避[hui2 bi4]"
+"variant of 回避[huí bì]"
 ],
 [
 "回避",
-6,
+5,
 "huí bì",
 "to shun; to avoid (sb); to skirt; to evade (an issue); to step back; to withdraw; to recuse (a judge etc)"
-]
 ],
-"extraWords": [
+[
+"避难",
+7,
+"bì nàn",
+"refuge; to take refuge; to seek asylum (political etc)"
+],
+[
+"避暑",
+7,
+"bì shǔ",
+"to be away for the summer holidays; to spend a holiday at a summer resort; to prevent sunstroke"
+],
+[
+"不可避免",
+7,
+"bù kě bì miǎn",
+"unavoidably"
+],
 [
 "躲避",
-12.22,
+7,
 "duǒ bì",
 "to hide; to evade; to dodge; to take shelter; to avoid (difficulties)"
 ],
+[
+"逃避",
+7,
+"táo bì",
+"to escape; to evade; to avoid; to shirk"
+]
+],
+"extraWords": [
 [
 "避开",
 11.8,
 "bì kāi",
 "to avoid; to evade; to keep away from"
-],
-[
-"不可避免",
-10.9,
-"bù kě bì miǎn",
-"unavoidably"
 ],
 [
 "规避",
@@ -60,7 +78,7 @@
 "避孕套",
 6.5,
 "bì yùn tào",
-"condom; CL:隻|只[zhi1]"
+"condom; CL:只[zhī]"
 ],
 [
 "避难所",

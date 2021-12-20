@@ -1,17 +1,11 @@
 {
 "char": "尊",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "respect, revere, venerate; honor",
 "pron": "zūn"
 },
 "words": [
-[
-"尊重",
-4,
-"zūn zhòng",
-"to esteem; to respect; to honor; to value; eminent; serious; proper"
-],
 [
 "尊敬",
 5,
@@ -19,18 +13,42 @@
 "to respect; to revere"
 ],
 [
+"尊重",
+5,
+"zūn zhòng",
+"to esteem; to respect; to honor; to value; eminent; serious; proper"
+],
+[
+"自尊",
+7,
+"zì zūn",
+"self-respect; self-esteem; ego; pride"
+],
+[
+"自尊心",
+7,
+"zì zūn xīn",
+"self-respect; self-esteem; ego"
+],
+[
+"尊贵",
+7,
+"zūn guì",
+"respected; respectable; honorable"
+],
+[
 "尊严",
-6,
+7,
 "zūn yán",
 "dignity; sanctity; honor; majesty"
 ]
 ],
 "extraWords": [
 [
-"自尊",
-8.2,
-"zì zūn",
-"self-respect; self-esteem; ego; pride"
+"尊",
+25.86,
+"zūn",
+"senior; of a senior generation; to honor; to respect; honorific; classifier for cannons and statues; ancient wine vessel"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "群",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "(same as U+7FA3 羣) group, crowd, multitude, mob",
 "pron": "qún"
@@ -8,35 +8,53 @@
 "words": [
 [
 "群",
-5,
+3,
 "qún",
-"variant of 群[qun2]"
+"variant of 群[qún]"
 ],
 [
 "群",
-5,
+3,
 "qún",
 "group; crowd; flock, herd, pack etc"
 ],
 [
-"群众",
-6,
-"qún zhòng",
-"mass; multitude; the masses"
-]
-],
-"extraWords": [
-[
 "人群",
-51.0,
+3,
 "rén qún",
 "crowd"
 ],
 [
 "群体",
-43.24,
+5,
 "qún tǐ",
 "community; colony"
+],
+[
+"群众",
+5,
+"qún zhòng",
+"mass; multitude; the masses"
+],
+[
+"成群结队",
+7,
+"chéng qún jié duì",
+"making up a group, forming a troupe (idiom); in large numbers; as a large crowd"
+],
+[
+"鹤立鸡群",
+7,
+"hè lì jī qún",
+"a crane in a flock of chicken (idiom); way above the common; manifestly superior"
+]
+],
+"extraWords": [
+[
+"一群",
+37.56,
+"???",
+"???"
 ],
 [
 "集群",

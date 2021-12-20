@@ -1,6 +1,6 @@
 {
 "char": "静",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "quiet, still, motionless; gentle",
 "pron": "jìng"
@@ -8,9 +8,15 @@
 "words": [
 [
 "安静",
-3,
+2,
 "ān jìng",
 "quiet; peaceful; calm"
+],
+[
+"静",
+3,
+"jìng",
+"still; calm; quiet; not moving"
 ],
 [
 "冷静",
@@ -19,28 +25,46 @@
 "calm; cool-headed"
 ],
 [
+"宁静",
+4,
+"níng jìng",
+"tranquil; tranquility; serenity"
+],
+[
 "平静",
-5,
+4,
 "píng jìng",
 "tranquil; undisturbed; serene"
 ],
 [
 "动静",
-6,
+7,
 "dòng jìng",
 "(detectable) movement; (sign of) activity; movement and stillness"
 ],
 [
-"镇静",
-6,
-"zhèn jìng",
-"calm; cool"
-],
-[
 "寂静",
-6,
+7,
 "jì jìng",
 "quiet"
+],
+[
+"静止",
+7,
+"jìng zhǐ",
+"still; immobile; static; stationary"
+],
+[
+"僻静",
+7,
+"pì jìng",
+"lonely; secluded"
+],
+[
+"清静",
+7,
+"qīng jìng",
+"quiet; peaceful and quiet"
 ]
 ],
 "extraWords": [
@@ -51,10 +75,16 @@
 "vein"
 ],
 [
-"宁静",
-12.67,
-"níng jìng",
-"tranquil; tranquility; serenity"
+"静静",
+20.24,
+"???",
+"???"
+],
+[
+"镇静",
+8.47,
+"zhèn jìng",
+"calm; cool"
 ],
 [
 "镇静剂",

@@ -1,66 +1,114 @@
 {
 "char": "世",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "generation; world; era",
 "pron": "shì"
 },
 "words": [
 [
-"世界",
-3,
-"shì jiè",
-"world; CL:個|个[ge4]"
-],
-[
-"世纪",
-4,
-"shì jì",
-"century; CL:個|个[ge4]"
-],
-[
 "去世",
-5,
+3,
 "qù shì",
 "to pass away; to die"
 ],
 [
-"逝世",
-6,
-"shì shì",
-"to pass away; to die"
+"世纪",
+3,
+"shì jì",
+"century; CL:个[gè]"
 ],
 [
-"世代",
-6,
-"shì dài",
-"for many generations; generation; era; age"
+"世界",
+3,
+"shì jiè",
+"world; CL:个[gè]"
 ],
-[
-"问世",
-6,
-"wèn shì",
-"to be published; to come out"
-],
-[
-"举世瞩目",
-6,
-"jǔ shì zhǔ mù",
-"to receive worldwide attention"
-]
-],
-"extraWords": [
 [
 "世界杯",
-53.92,
+3,
 "Shì jiè bēi",
 "World Cup"
 ],
 [
 "全世界",
-50.7,
+5,
 "quán shì jiè",
 "worldwide; entire world"
+],
+[
+"举世闻名",
+7,
+"jǔ shì wén míng",
+"world-famous (idiom)"
+],
+[
+"举世无双",
+7,
+"jǔ shì wú shuāng",
+"unrivaled (idiom); world number one; unique; unequaled"
+],
+[
+"举世瞩目",
+7,
+"jǔ shì zhǔ mù",
+"to receive worldwide attention"
+],
+[
+"世代",
+7,
+"shì dài",
+"for many generations; generation; era; age"
+],
+[
+"世故",
+7,
+"shì gù",
+"the ways of the world"
+],
+[
+"世故",
+7,
+"shì gu",
+"sophisticated; worldly-wise"
+],
+[
+"世界级",
+7,
+"shì jiè jí",
+"world-class"
+],
+[
+"世袭",
+7,
+"shì xí",
+"succession; inheritance; hereditary"
+],
+[
+"逝世",
+7,
+"shì shì",
+"to pass away; to die"
+],
+[
+"问世",
+7,
+"wèn shì",
+"to be published; to come out"
+]
+],
+"extraWords": [
+[
+"世",
+78.16,
+"Shì",
+"surname Shi"
+],
+[
+"世",
+78.16,
+"shì",
+"life; age; generation; era; world; lifetime; epoch; descendant; noble"
 ],
 [
 "世上",
@@ -96,7 +144,7 @@
 "入世",
 8.45,
 "rù shì",
-"to engage with secular society; to involve oneself in human affairs; to join the WTO (abbr. for 加入世界貿易組織|加入世界贸易组织[jia1 ru4 Shi4 jie4 Mao4 yi4 Zu3 zhi1])"
+"to engage with secular society; to involve oneself in human affairs; to join the WTO (abbr. for 加入世界贸易组织[jiā rù Shì jiè Mào yì Zǔ zhī])"
 ],
 [
 "世界观",
@@ -159,16 +207,22 @@
 "family influential for generations; aristocratic family"
 ],
 [
-"世界级",
-5.6,
-"shì jiè jí",
-"world-class"
-],
-[
 "世界末日",
 5.48,
 "shì jiè mò rì",
 "end of the world"
+],
+[
+"本世纪",
+5.23,
+"???",
+"???"
+],
+[
+"世乒赛",
+5.17,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,14 +1,20 @@
 {
 "char": "湖",
-"level": 6,
+"level": "2",
 "info": {
 "gloss": "a lake; Hubei, Hunan; bluish-green",
 "pron": "hú"
 },
 "words": [
 [
+"湖",
+2,
+"hú",
+"lake; CL:个[gè],片[piàn]"
+],
+[
 "湖泊",
-6,
+7,
 "hú pō",
 "lake"
 ]
@@ -18,43 +24,49 @@
 "湖南",
 37.47,
 "Hú nán",
-"Hunan province in south central China, abbr. 湘, capital Changsha 長沙|长沙[Chang2 sha1]"
+"Hunan province in south central China, abbr. 湘, capital Changsha 长沙[Cháng shā]"
 ],
 [
 "江湖",
 26.49,
 "jiāng hú",
-"rivers and lakes; all corners of the country; remote areas to which hermits retreat; section of society operating independently of mainstream society, out of reach of the law; the milieu in which wuxia tales play out (cf. 武俠|武侠[wu3 xia2]); (in late imperial times) world of traveling merchants, itinerant doctors, fortune tellers etc; demimonde; (in modern times) triads; secret gangster societies; underworld"
+"rivers and lakes; all corners of the country; remote areas to which hermits retreat; section of society operating independently of mainstream society, out of reach of the law; the milieu in which wuxia tales play out (cf. 武侠[wǔ xiá]); (in late imperial times) world of traveling merchants, itinerant doctors, fortune tellers etc; demimonde; (in modern times) triads; secret gangster societies; underworld"
 ],
 [
 "湖北",
 22.51,
 "Hú běi",
-"Hubei Province (Hupeh) in central China, abbr. 鄂[E4], capital Wuhan 武漢|武汉[Wu3 han4]"
+"Hubei Province (Hupeh) in central China, abbr. 鄂[È], capital Wuhan 武汉[Wǔ hàn]"
 ],
 [
 "西湖",
 13.51,
 "Xī hú",
-"Xihu or West lake (place name); West Lake in Hangzhou 杭州, Zhejiang; Xihu or Hsihu township in Miaoli county 苗栗縣|苗栗县[Miao2 li4 xian4], northwest Taiwan"
+"Xihu or West lake (place name); West Lake in Hangzhou 杭州, Zhejiang; Xihu or Hsihu township in Miaoli county 苗栗县[Miáo lì xiàn], northwest Taiwan"
 ],
 [
 "湖南省",
 10.3,
 "Hú nán Shěng",
-"Hunan Province in south central China, abbr. 湘[Xiang1], capital Changsha 長沙|长沙[Chang2 sha1]"
+"Hunan Province in south central China, abbr. 湘[Xiāng], capital Changsha 长沙[Cháng shā]"
 ],
 [
 "湖北省",
 9.34,
 "Hú běi Shěng",
-"Hubei Province (Hupeh) in central China, abbr. 鄂[E4], capital Wuhan 武漢|武汉[Wu3 han4]"
+"Hubei Province (Hupeh) in central China, abbr. 鄂[È], capital Wuhan 武汉[Wǔ hàn]"
 ],
 [
 "湖边",
 7.3,
 "hú biān",
 "lakeside"
+],
+[
+"湖南卫视",
+6.53,
+"???",
+"???"
 ]
 ],
 "strokes": [

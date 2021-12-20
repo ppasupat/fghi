@@ -1,19 +1,31 @@
 {
 "char": "桔",
-"level": 5,
+"level": "C",
 "info": {
 "gloss": "Chinese bellflower; well-swept; the inner fibers of corn-stalks",
 "pron": "jié"
 },
-"words": [
+"words": [],
+"extraWords": [
+[
+"桔",
+10.58,
+"jié",
+"Platycodon grandiflorus; water bucket"
+],
+[
+"桔",
+10.58,
+"jú",
+"variant of 橘[jú]"
+],
 [
 "桔子",
-5,
+2.68,
 "jú zi",
-"tangerine; also written 橘子; CL:個|个[ge4],瓣[ban4]"
+"tangerine; also written 橘子; CL:个[gè],瓣[bàn]"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 325 512 Q 343 518 365 522 Q 405 532 412 539 Q 421 548 416 556 Q 409 568 378 574 Q 350 578 327 569 L 282 553 Q 192 523 96 510 Q 59 503 87 487 Q 127 466 199 482 Q 223 488 253 494 L 325 512 Z",
 "M 322 399 Q 322 451 325 512 L 327 569 Q 327 678 350 755 Q 363 782 339 799 Q 323 811 294 829 Q 270 847 249 831 Q 245 827 250 811 Q 283 762 283 712 Q 283 640 283 558 Q 282 557 282 553 L 278 437 Q 274 352 273 258 Q 267 180 246 109 Q 234 70 259 7 Q 266 -12 274 -15 Q 280 -22 288 -13 Q 295 -9 306 12 Q 316 37 316 68 Q 315 107 321 366 L 322 399 Z",

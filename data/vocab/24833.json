@@ -1,16 +1,40 @@
 {
 "char": "愁",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "anxiety; to worry about, be anxious",
 "pron": "chóu"
 },
 "words": [
 [
-"发愁",
+"愁",
 5,
+"chóu",
+"to worry about"
+],
+[
+"愁眉苦脸",
+7,
+"chóu méi kǔ liǎn",
+"to look anxious (idiom); to look miserable"
+],
+[
+"发愁",
+7,
 "fā chóu",
 "to worry; to fret; to be anxious; to become sad"
+],
+[
+"犯愁",
+7,
+"fàn chóu",
+"to worry; to be anxious"
+],
+[
+"忧愁",
+7,
+"yōu chóu",
+"to be worried"
 ]
 ],
 "extraWords": [],

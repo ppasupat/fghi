@@ -1,12 +1,31 @@
 {
 "char": "椿",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "father; a plant with white flowers",
 "pron": "chūn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"椿",
+1.73,
+"chūn",
+"Chinese toon (Toona sinensis); tree of heaven (Ailanthus altissima); (literary metaphor) father"
+],
+[
+"香椿",
+1.31,
+"xiāng chūn",
+"Chinese toon (Toona sinensis), deciduous tree whose young leaves are used as a vegetable"
+],
+[
+"大椿",
+0.12,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 318 531 Q 337 538 359 543 Q 395 553 401 559 Q 408 568 404 576 Q 397 588 366 593 Q 341 597 320 589 L 275 572 Q 191 542 112 531 Q 75 522 102 507 Q 138 488 214 505 Q 236 511 262 517 L 318 531 Z",
 "M 315 423 Q 316 474 318 531 L 320 589 Q 323 679 342 739 Q 351 755 348 768 Q 341 778 286 813 Q 262 831 241 815 Q 237 811 242 795 Q 275 746 275 696 Q 275 638 275 572 L 270 412 Q 266 330 265 242 Q 259 164 238 93 Q 226 54 251 -9 Q 258 -28 266 -31 Q 272 -38 280 -29 Q 287 -25 298 -4 Q 308 21 308 52 Q 307 94 314 395 L 315 423 Z",

@@ -1,42 +1,54 @@
 {
 "char": "燃",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "burn; light fire, ignite",
 "pron": "rán"
 },
 "words": [
 [
-"燃烧",
-5,
-"rán shāo",
-"to ignite; to combust; to burn; combustion; flaming"
-]
-],
-"extraWords": [
-[
 "燃料",
-16.77,
+4,
 "rán liào",
 "fuel"
 ],
 [
-"燃油",
-13.2,
-"rán yóu",
-"fuel oil"
+"燃烧",
+4,
+"rán shāo",
+"to ignite; to combust; to burn; combustion; flaming"
 ],
 [
 "点燃",
-10.76,
+5,
 "diǎn rán",
 "to ignite; to set on fire; aflame"
 ],
 [
+"燃放",
+7,
+"rán fàng",
+"to light; to set off (firecrackers etc)"
+],
+[
 "燃气",
-10.2,
+7,
 "rán qì",
 "fuel gas (coal gas, natural gas, methane etc)"
+],
+[
+"燃油",
+7,
+"rán yóu",
+"fuel oil"
+]
+],
+"extraWords": [
+[
+"燃",
+13.2,
+"rán",
+"to burn; to ignite; to light; fig. to spark off (hopes); to start (debate); to raise (hopes)"
 ],
 [
 "燃料油",

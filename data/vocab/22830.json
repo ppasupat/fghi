@@ -1,6 +1,6 @@
 {
 "char": "央",
-"level": 6,
+"level": "5",
 "info": {
 "gloss": "center, conclude, run out; beg",
 "pron": "yāng"
@@ -8,7 +8,7 @@
 "words": [
 [
 "中央",
-6,
+5,
 "zhōng yāng",
 "central; middle; center; central authorities (of a state)"
 ]
@@ -18,7 +18,7 @@
 "央行",
 44.95,
 "Yāng háng",
-"abbr. for various central banks, notably 中國人民銀行|中国人民银行[Zhong1 guo2 Ren2 min2 Yin2 hang2] and 中央銀行|中央银行[Zhong1 yang1 Yin2 hang2]"
+"abbr. for various central banks, notably 中国人民银行[Zhōng guó Rén mín Yín háng] and 中央银行[Zhōng yāng Yín háng]"
 ],
 [
 "央行",
@@ -30,7 +30,7 @@
 "央视",
 26.09,
 "Yāng shì",
-"China Central Television (CCTV), abbr. for 中國中央電視台|中国中央电视台[Zhong1 guo2 Zhong1 yang1 Dian4 shi4 tai2]"
+"China Central Television (CCTV), abbr. for 中国中央电视台[Zhōng guó Zhōng yāng Diàn shì tái]"
 ],
 [
 "党中央",
@@ -42,13 +42,25 @@
 "中共中央",
 16.73,
 "Zhōng Gòng Zhōng yāng",
-"Central Committee of the Communist Party of China, abbr. for 中國共產黨中央委員會|中国共产党中央委员会[Zhong1 guo2 Gong4 chan3 dang3 Zhong1 yang1 Wei3 yuan2 hui4]"
+"Central Committee of the Communist Party of China, abbr. for 中国共产党中央委员会[Zhōng guó Gòng chǎn dǎng Zhōng yāng Wěi yuán huì]"
 ],
 [
 "中央电视台",
 14.65,
 "Zhōng yāng Diàn shì tái",
 "China Central Television (CCTV), PRC state TV network"
+],
+[
+"央",
+9.36,
+"yāng",
+"center; end; to beg; to plead"
+],
+[
+"中共中央政治局",
+9.2,
+"???",
+"???"
 ],
 [
 "中央政府",

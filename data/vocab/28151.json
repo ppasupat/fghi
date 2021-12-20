@@ -1,16 +1,22 @@
 {
 "char": "混",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "to mix, blend, mingle; to bumble along",
 "pron": "hùn"
 },
 "words": [
 [
-"混乱",
+"混",
 6,
-"hùn luàn",
-"confusion; chaos; disorder"
+"hún",
+"confused; dirty; to mix; muddy; variant of 浑[hún]"
+],
+[
+"混",
+6,
+"hùn",
+"to mix; to mingle; muddled; to drift along; to muddle along; to pass for; to get along with sb; thoughtless; reckless"
 ],
 [
 "混合",
@@ -19,14 +25,26 @@
 "to mix; to blend; hybrid; composite"
 ],
 [
-"混淆",
+"混乱",
 6,
+"hùn luàn",
+"confusion; chaos; disorder"
+],
+[
+"混凝土",
+7,
+"hùn níng tǔ",
+"concrete"
+],
+[
+"混淆",
+7,
 "hùn xiáo",
 "to obscure; to confuse; to mix up; to blur; to mislead"
 ],
 [
 "混浊",
-6,
+7,
 "hùn zhuó",
 "turbid; muddy; dirty"
 ]
@@ -37,12 +55,6 @@
 225.72,
 "hún dàn",
 "scoundrel; bastard; hoodlum; wretch"
-],
-[
-"混凝土",
-12.77,
-"hùn níng tǔ",
-"concrete"
 ],
 [
 "鬼混",

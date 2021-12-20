@@ -1,14 +1,20 @@
 {
 "char": "棉",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "cotton; cotton padded",
 "pron": "mián"
 },
 "words": [
 [
-"棉花",
+"棉",
 6,
+"mián",
+"generic term for cotton or kapok; cotton; padded or quilted with cotton"
+],
+[
+"棉花",
+7,
 "mián hua",
 "cotton"
 ]
@@ -18,7 +24,7 @@
 "棉衣",
 8.82,
 "mián yī",
-"cotton-padded clothes; CL:件[jian4]"
+"cotton-padded clothes; CL:件[jiàn]"
 ]
 ],
 "strokes": [

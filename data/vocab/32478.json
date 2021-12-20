@@ -1,12 +1,32 @@
 {
 "char": "绞",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "twist, wring; intertwine; winch",
 "pron": "jiǎo"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"绞",
+7,
+"jiǎo",
+"to twist (strands into a thread); to entangle; to wring; to hang (by the neck); to turn; to wind; classifier for skeins of yarn"
+]
+],
+"extraWords": [
+[
+"绞死",
+3.1,
+"jiǎo sǐ",
+"to hang (i.e. execute by hanging); to strangle"
+],
+[
+"心绞痛",
+2.96,
+"xīn jiǎo tòng",
+"angina"
+]
+],
 "strokes": [
 "M 327 479 Q 326 483 309 481 Q 263 481 223 481 Q 189 480 206 501 Q 279 624 349 715 Q 364 733 361 740 Q 358 755 318 787 Q 302 802 282 798 Q 270 794 277 779 Q 299 722 182 534 Q 164 512 139 489 Q 120 473 122 461 Q 126 442 141 423 Q 151 413 165 419 Q 187 432 265 451 Q 298 455 315 463 C 343 473 351 476 327 479 Z",
 "M 315 463 Q 201 315 177 302 Q 164 292 166 279 Q 167 266 193 247 Q 203 235 218 247 Q 275 289 382 327 Q 401 333 403 341 Q 406 351 386 347 Q 331 337 261 316 Q 237 307 253 327 Q 296 385 395 500 Q 423 537 449 557 Q 461 567 455 576 Q 445 595 413 615 Q 397 624 388 622 Q 378 619 380 603 Q 381 572 327 479 L 315 463 Z",

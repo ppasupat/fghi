@@ -1,6 +1,6 @@
 {
 "char": "客",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "guest, traveller; customer",
 "pron": "kè"
@@ -13,66 +13,132 @@
 "you're welcome; don't mention it; impolite; rude; blunt"
 ],
 [
-"客人",
-3,
-"kè rén",
-"visitor; guest; customer; client; CL:位[wei4]"
-],
-[
 "顾客",
-4,
+2,
 "gù kè",
-"client; customer; CL:位[wei4]"
+"client; customer; CL:位[wèi]"
 ],
 [
-"客厅",
-4,
-"kè tīng",
-"drawing room (room for arriving guests); living room; CL:間|间[jian1]"
-],
-[
-"客观",
-5,
-"kè guān",
-"objective; impartial"
-],
-[
-"好客",
-5,
-"hào kè",
-"hospitality; to treat guests well; to enjoy having guests; hospitable; friendly"
-],
-[
-"客户",
-6,
-"kè hù",
-"client; customer"
-]
-],
-"extraWords": [
-[
-"客气",
-67.1,
-"kè qi",
-"polite; courteous; formal; modest"
-],
-[
-"游客",
-54.6,
-"yóu kè",
-"traveler; tourist; (online gaming) guest player"
+"客人",
+2,
+"kè rén",
+"visitor; guest; customer; client; CL:位[wèi]"
 ],
 [
 "旅客",
-40.18,
+2,
 "lǚ kè",
 "traveler; tourist"
 ],
 [
+"请客",
+2,
+"qǐng kè",
+"to give a dinner party; to entertain guests; to invite to dinner"
+],
+[
+"游客",
+2,
+"yóu kè",
+"traveler; tourist; (online gaming) guest player"
+],
+[
+"客观",
+3,
+"kè guān",
+"objective; impartial"
+],
+[
+"做客",
+3,
+"zuò kè",
+"to be a guest or visitor"
+],
+[
+"博客",
+5,
+"bó kè",
+"blog (loanword); weblog; blogger"
+],
+[
 "乘客",
-40.13,
+5,
 "chéng kè",
 "passenger"
+],
+[
+"客户",
+5,
+"kè hù",
+"client; customer"
+],
+[
+"客气",
+5,
+"kè qi",
+"polite; courteous; formal; modest"
+],
+[
+"客厅",
+5,
+"kè tīng",
+"drawing room (room for arriving guests); living room; CL:间[jiān]"
+],
+[
+"客车",
+6,
+"kè chē",
+"coach; bus; passenger train"
+],
+[
+"好客",
+7,
+"hào kè",
+"hospitality; to treat guests well; to enjoy having guests; hospitable; friendly"
+],
+[
+"黑客",
+7,
+"hēi kè",
+"hacker (computing) (loanword)"
+],
+[
+"客房",
+7,
+"kè fáng",
+"guest room"
+],
+[
+"客机",
+7,
+"kè jī",
+"passenger plane"
+],
+[
+"客流",
+7,
+"kè liú",
+"passenger flow; customer flow"
+],
+[
+"客运",
+7,
+"kè yùn",
+"passenger transportation; (Tw) intercity bus"
+],
+[
+"作客",
+7,
+"zuò kè",
+"to live somewhere as a visitor; to stay with sb as a guest; to sojourn"
+]
+],
+"extraWords": [
+[
+"客",
+115.09,
+"kè",
+"customer; visitor; guest"
 ],
 [
 "客场",
@@ -81,64 +147,16 @@
 "away-game arena; away-game venue"
 ],
 [
-"客运",
-17.87,
-"kè yùn",
-"passenger transportation; (Tw) intercity bus"
-],
-[
-"客车",
-17.77,
-"kè chē",
-"coach; bus; passenger train"
-],
-[
-"客房",
-10.02,
-"kè fáng",
-"guest room"
-],
-[
-"客流",
-8.77,
-"kè liú",
-"passenger flow; customer flow"
-],
-[
-"博客",
-8.64,
-"bó kè",
-"blog (loanword); weblog; blogger"
-],
-[
-"做客",
-8.58,
-"zuò kè",
-"to be a guest or visitor"
-],
-[
-"请客",
-7.66,
-"qǐng kè",
-"to give a dinner party; to entertain guests; to invite to dinner"
-],
-[
-"客机",
-6.91,
-"kè jī",
-"passenger plane"
+"客商",
+7.4,
+"???",
+"???"
 ],
 [
 "政客",
 6.89,
 "zhèng kè",
 "politician"
-],
-[
-"黑客",
-5.13,
-"hēi kè",
-"hacker (computing) (loanword)"
 ]
 ],
 "strokes": [

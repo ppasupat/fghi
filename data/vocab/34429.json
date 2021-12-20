@@ -1,6 +1,6 @@
 {
 "char": "虽",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "although, even if",
 "pron": "suī"
@@ -11,15 +11,21 @@
 2,
 "suī rán",
 "although; even though; even if"
+],
+[
+"虽",
+6,
+"suī",
+"although; even though"
+],
+[
+"虽说",
+7,
+"suī shuō",
+"though; although"
 ]
 ],
 "extraWords": [
-[
-"虽说",
-12.06,
-"suī shuō",
-"though; although"
-],
 [
 "虽是",
 6.88,

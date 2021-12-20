@@ -1,6 +1,6 @@
 {
 "char": "杜",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "stop, prevent; restrict; surname",
 "pron": "dù"
@@ -8,17 +8,41 @@
 "words": [
 [
 "杜绝",
-6,
+7,
 "dù jué",
 "to put an end to"
 ]
 ],
 "extraWords": [
 [
+"杜",
+17.92,
+"Dù",
+"surname Du"
+],
+[
+"杜",
+17.92,
+"dù",
+"birchleaf pear (tree); to stop; to prevent; to restrict"
+],
+[
 "杜威",
 8.67,
 "Dù Wēi",
 "Du Wei (1982-), Shanghai soccer star; Dewey (name)"
+],
+[
+"杜克",
+6.71,
+"???",
+"???"
+],
+[
+"杜伊",
+6.33,
+"???",
+"???"
 ]
 ],
 "strokes": [

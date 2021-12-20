@@ -1,6 +1,6 @@
 {
 "char": "偷",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "to steal, burglar, thief",
 "pron": "tōu"
@@ -11,14 +11,44 @@
 5,
 "tōu",
 "to steal; to pilfer; to snatch; thief; stealthily"
+],
+[
+"偷偷",
+5,
+"tōu tōu",
+"stealthily; secretly; covertly; furtively; on the sly"
+],
+[
+"小偷儿",
+5,
+"xiǎo tōu",
+"thief"
+],
+[
+"偷看",
+7,
+"tōu kàn",
+"to peep; to peek; to steal a glance"
+],
+[
+"偷窥",
+7,
+"tōu kuī",
+"to peep; to peek; to act as voyeur"
+],
+[
+"偷懒",
+7,
+"tōu lǎn",
+"to goof off; to be lazy"
 ]
 ],
 "extraWords": [
 [
-"偷偷",
-20.75,
-"tōu tōu",
-"stealthily; secretly; covertly; furtively; on the sly"
+"偷走",
+24.09,
+"???",
+"???"
 ],
 [
 "小偷",
@@ -39,12 +69,6 @@
 "to carry on a clandestine love affair"
 ],
 [
-"偷看",
-7.39,
-"tōu kàn",
-"to peep; to peek; to steal a glance"
-],
-[
 "偷听",
 6.32,
 "tōu tīng",
@@ -55,12 +79,6 @@
 5.91,
 "tōu pāi",
 "to take a picture of a person without permission or without their knowledge"
-],
-[
-"偷窥",
-5.66,
-"tōu kuī",
-"to peep; to peek; to act as voyeur"
 ],
 [
 "偷偷摸摸",

@@ -1,34 +1,76 @@
 {
 "char": "品",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "article, product, commodity",
 "pron": "pǐn"
 },
 "words": [
 [
+"商品",
+3,
+"shāng pǐn",
+"commodity; goods; merchandise; CL:个[gè]"
+],
+[
+"食品",
+3,
+"shí pǐn",
+"foodstuff; food; provisions; CL:种[zhǒng]"
+],
+[
 "作品",
-5,
+3,
 "zuò pǐn",
-"work (of art); opus; CL:部[bu4],篇[pian1]"
+"work (of art); opus; CL:部[bù],篇[piān]"
 ],
 [
 "产品",
-5,
+4,
 "chǎn pǐn",
-"goods; merchandise; product; CL:個|个[ge4]"
+"goods; merchandise; product; CL:个[gè]"
 ],
 [
-"商品",
-5,
-"shāng pǐn",
-"commodity; goods; merchandise; CL:個|个[ge4]"
+"品质",
+4,
+"pǐn zhì",
+"character; intrinsic quality (of a person); quality (of a product or service, or as in \"quality of life\", \"air quality\" etc)"
 ],
 [
-"日用品",
+"豆制品",
 5,
-"rì yòng pǐn",
-"articles for daily use; CL:件[jian4],個|个[ge4]"
+"dòu zhì pǐn",
+"legume-based product; soybean product"
+],
+[
+"农产品",
+5,
+"nóng chǎn pǐn",
+"agricultural produce"
+],
+[
+"品",
+5,
+"pǐn",
+"article; commodity; product; goods; kind; grade; rank; character; disposition; nature; temperament; variety; to taste sth; to sample; to criticize; to comment; to judge; to size up; fret (on a guitar or lute)"
+],
+[
+"品种",
+5,
+"pǐn zhǒng",
+"breed; variety; CL:个[gè]"
+],
+[
+"水产品",
+5,
+"shuǐ chǎn pǐn",
+"aquatic products (including fish, crabs, seaweed etc)"
+],
+[
+"成品",
+6,
+"chéng pǐn",
+"finished goods; a finished product"
 ],
 [
 "毒品",
@@ -37,85 +79,115 @@
 "drugs; narcotics; poison"
 ],
 [
-"品尝",
+"精品",
 6,
-"pǐn cháng",
-"to taste a small amount; to sample"
+"jīng pǐn",
+"quality goods; premium product; fine work (of art)"
 ],
-[
-"品质",
-6,
-"pǐn zhì",
-"character; intrinsic quality (of a person); quality (of a product or service, or as in \"quality of life\", \"air quality\" etc)"
-],
-[
-"样品",
-6,
-"yàng pǐn",
-"sample; specimen"
-],
-[
-"品种",
-6,
-"pǐn zhǒng",
-"breed; variety; CL:個|个[ge4]"
-],
-[
-"工艺品",
-6,
-"gōng yì pǐn",
-"handicraft article; handiwork; CL:個|个[ge4]"
-],
-[
-"品德",
-6,
-"pǐn dé",
-"moral character"
-],
-[
-"次品",
-6,
-"cì pǐn",
-"substandard products; defective; seconds"
-]
-],
-"extraWords": [
 [
 "品牌",
-209.04,
+6,
 "pǐn pái",
 "brand name; trademark"
 ],
 [
-"食品",
-115.2,
-"shí pǐn",
-"foodstuff; food; provisions; CL:種|种[zhong3]"
-],
-[
-"药品",
-72.33,
-"yào pǐn",
-"medicaments; medicine; drug"
+"乳制品",
+6,
+"rǔ zhì pǐn",
+"dairy products"
 ],
 [
 "物品",
-35.25,
+6,
 "wù pǐn",
 "articles; goods; materials"
 ],
 [
+"药品",
+6,
+"yào pǐn",
+"medicaments; medicine; drug"
+],
+[
+"用品",
+6,
+"yòng pǐn",
+"articles for use; products; goods"
+],
+[
+"藏品",
+7,
+"cáng pǐn",
+"museum piece; collector's item; precious object"
+],
+[
+"废品",
+7,
+"fèi pǐn",
+"production rejects; seconds; scrap; discarded material"
+],
+[
 "奖品",
-30.24,
+7,
 "jiǎng pǐn",
 "award; prize"
 ],
 [
-"精品",
-28.27,
-"jīng pǐn",
-"quality goods; premium product; fine work (of art)"
+"礼品",
+7,
+"lǐ pǐn",
+"gift; present"
 ],
+[
+"品尝",
+7,
+"pǐn cháng",
+"to taste a small amount; to sample"
+],
+[
+"品德",
+7,
+"pǐn dé",
+"moral character"
+],
+[
+"品位",
+7,
+"pǐn wèi",
+"rank; grade; quality; (aesthetic) taste"
+],
+[
+"品行",
+7,
+"pǐn xíng",
+"behavior; moral conduct"
+],
+[
+"人品",
+7,
+"rén pǐn",
+"moral standing; moral quality; character; personality; appearance; looks (colloquial); bearing"
+],
+[
+"小品",
+7,
+"xiǎo pǐn",
+"short, simple literary or artistic creation; essay; skit"
+],
+[
+"样品",
+7,
+"yàng pǐn",
+"sample; specimen"
+],
+[
+"制品",
+7,
+"zhì pǐn",
+"products; goods"
+]
+],
+"extraWords": [
 [
 "正品",
 27.46,
@@ -123,40 +195,16 @@
 "certified goods; quality product; normal product; A-class goods"
 ],
 [
-"农产品",
-26.45,
-"nóng chǎn pǐn",
-"agricultural produce"
-],
-[
-"用品",
-22.99,
-"yòng pǐn",
-"articles for use; products; goods"
-],
-[
-"制品",
-20.68,
-"zhì pǐn",
-"products; goods"
+"商品房",
+26.28,
+"???",
+"???"
 ],
 [
 "新产品",
 18.24,
 "xīn chǎn pǐn",
 "new product"
-],
-[
-"成品",
-17.91,
-"chéng pǐn",
-"finished goods; a finished product"
-],
-[
-"礼品",
-17.67,
-"lǐ pǐn",
-"gift; present"
 ],
 [
 "化妆品",
@@ -171,22 +219,10 @@
 "textile; fabrics"
 ],
 [
-"人品",
-14.32,
-"rén pǐn",
-"moral standing; moral quality; character; personality; appearance; looks (colloquial); bearing"
-],
-[
 "品味",
 11.35,
 "pǐn wèi",
 "to sample; to taste; to appreciate; one's taste (i.e. in music, literature, fashion, food and drink etc); good taste"
-],
-[
-"品位",
-10.25,
-"pǐn wèi",
-"rank; grade; quality; (aesthetic) taste"
 ],
 [
 "消费品",
@@ -204,7 +240,7 @@
 "艺术品",
 9.03,
 "yì shù pǐn",
-"art piece; work of art; CL:件[jian4]"
+"art piece; work of art; CL:件[jiàn]"
 ],
 [
 "极品",
@@ -213,16 +249,16 @@
 "best quality; item of the highest quality; (slang) outrageous; annoying in the extreme; gross; person with these qualities"
 ],
 [
-"小品",
-8.14,
-"xiǎo pǐn",
-"short, simple literary or artistic creation; essay; skit"
-],
-[
 "奢侈品",
 8.01,
 "shē chǐ pǐn",
 "luxury good"
+],
+[
+"高品质",
+7.42,
+"???",
+"???"
 ],
 [
 "纪念品",
@@ -243,22 +279,22 @@
 "spoils of war"
 ],
 [
-"水产品",
-5.79,
-"shuǐ chǎn pǐn",
-"aquatic products (including fish, crabs, seaweed etc)"
-],
-[
 "甜品",
 5.62,
 "tián pǐn",
 "dessert"
 ],
 [
-"废品",
-5.09,
-"fèi pǐn",
-"production rejects; seconds; scrap; discarded material"
+"保健品",
+5.5,
+"???",
+"???"
+],
+[
+"农副产品",
+5.41,
+"???",
+"???"
 ]
 ],
 "strokes": [

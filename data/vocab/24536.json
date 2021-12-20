@@ -1,48 +1,66 @@
 {
 "char": "忘",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "forget; neglect; miss, omit",
 "pron": "wàng"
 },
 "words": [
 [
+"忘",
+1,
+"wàng",
+"to forget; to overlook; to neglect"
+],
+[
 "忘记",
-3,
+1,
 "wàng jì",
 "to forget"
 ],
 [
-"备忘录",
-6,
-"bèi wàng lù",
-"memorandum; aide-memoire; memorandum book"
-],
-[
-"废寝忘食",
-6,
-"fèi qǐn wàng shí",
-"to neglect sleep and forget about food (idiom); to skip one's sleep and meals; to be completely wrapped up in one's work"
-]
-],
-"extraWords": [
-[
-"忘掉",
-18.93,
-"wàng diào",
-"to forget"
-],
-[
 "难忘",
-16.84,
+6,
 "nán wàng",
 "unforgettable"
 ],
 [
+"废寝忘食",
+7,
+"fèi qǐn wàng shí",
+"to neglect sleep and forget about food (idiom); to skip one's sleep and meals; to be completely wrapped up in one's work"
+],
+[
+"念念不忘",
+7,
+"niàn niàn bù wàng",
+"to keep in mind constantly (idiom)"
+],
+[
+"忘不了",
+7,
+"wàng bù liǎo",
+"cannot forget"
+],
+[
+"忘掉",
+7,
+"wàng diào",
+"to forget"
+],
+[
 "遗忘",
-12.68,
+7,
 "yí wàng",
 "to become forgotten; to forget"
+]
+],
+"extraWords": [
+[
+"备忘录",
+5.54,
+"bèi wàng lù",
+"memorandum; aide-memoire; memorandum book"
 ]
 ],
 "strokes": [

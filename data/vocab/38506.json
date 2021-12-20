@@ -1,6 +1,6 @@
 {
 "char": "陪",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "accompany, be with, keep company",
 "pron": "péi"
@@ -8,9 +8,27 @@
 "words": [
 [
 "陪",
-4,
+5,
 "péi",
-"to accompany; to keep sb company; to assist; old variant of 賠|赔[pei2]"
+"to accompany; to keep sb company; to assist; old variant of 赔[péi]"
+],
+[
+"陪同",
+6,
+"péi tóng",
+"to accompany"
+],
+[
+"陪伴",
+7,
+"péi bàn",
+"to accompany"
+],
+[
+"陪葬",
+7,
+"péi zàng",
+"to be buried with or next to dead person (of deceased's partner, or of funerary objects)"
 ]
 ],
 "extraWords": [
@@ -25,18 +43,6 @@
 35.92,
 "shī péi",
 "goodbye (modest formula); Excuse me, I must leave."
-],
-[
-"陪伴",
-19.32,
-"péi bàn",
-"to accompany"
-],
-[
-"陪同",
-17.71,
-"péi tóng",
-"to accompany"
 ],
 [
 "陪审员",

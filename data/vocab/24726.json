@@ -1,12 +1,31 @@
 {
 "char": "悖",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "be contradictory to, go counter",
 "pron": "bèi"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"悖",
+5.4,
+"bèi",
+"to go against; to be contrary to; perverse; rebellious"
+],
+[
+"悖",
+5.4,
+"bèi",
+"old variant of 悖[bèi]"
+],
+[
+"悖论",
+1.38,
+"bèi lùn",
+"paradox (logic)"
+]
+],
 "strokes": [
 "M 116 530 Q 104 463 80 400 Q 67 366 90 334 Q 102 318 120 335 Q 165 389 153 479 Q 152 512 140 535 Q 133 542 127 542 Q 120 539 116 530 Z",
 "M 276 618 Q 300 603 343 571 Q 355 562 366 564 Q 375 565 377 576 Q 380 588 370 610 Q 364 626 338 634 Q 283 646 277 644 C 247 642 251 634 276 618 Z",

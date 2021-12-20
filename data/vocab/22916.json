@@ -1,6 +1,6 @@
 {
 "char": "妄",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "absurd, foolish, reckless; false",
 "pron": "wàng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "妄想",
-6,
+7,
 "wàng xiǎng",
 "to attempt vainly; a vain attempt; delusion"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"妄图",
+4.89,
+"wàng tú",
+"to try in vain; futile attempt"
+],
+[
+"妄",
+3.4,
+"wàng",
+"absurd; fantastic; presumptuous; rash"
+]
+],
 "strokes": [
 "M 467 804 Q 518 756 550 747 Q 566 746 575 760 Q 579 775 575 792 Q 557 834 476 846 Q 458 850 449 845 Q 442 842 446 830 Q 449 817 467 804 Z",
 "M 364 635 Q 541 663 778 678 Q 788 677 799 689 Q 800 701 778 713 Q 736 737 673 720 Q 472 687 284 673 Q 257 672 230 669 Q 200 668 222 648 Q 247 627 292 625 Q 302 628 315 628 L 364 635 Z",

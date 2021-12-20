@@ -1,6 +1,6 @@
 {
 "char": "怎",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "what? why? how?",
 "pron": "zěn"
@@ -16,27 +16,45 @@
 "怎么",
 1,
 "zěn me",
-"variant of 怎麼|怎么[zen3 me5]"
+"variant of 怎么[zěn me]"
+],
+[
+"怎么办",
+2,
+"zěn me bàn",
+"what's to be done"
 ],
 [
 "怎么样",
-1,
+2,
 "zěn me yàng",
 "how?; how about?; how was it?; how are things?"
-]
 ],
-"extraWords": [
 [
 "怎样",
-284.05,
+2,
 "zěn yàng",
 "how; what kind"
 ],
 [
-"怎么办",
-204.82,
-"zěn me bàn",
-"what's to be done"
+"不怎么",
+6,
+"bù zěn me",
+"not very; not particularly"
+],
+[
+"不怎么样",
+6,
+"bù zěn me yàng",
+"not up to much; very indifferent; nothing great about it; nothing good to be said about it"
+]
+],
+"extraWords": [
+[
+"怎",
+46.6,
+"zěn",
+"how"
 ],
 [
 "不管怎样",
@@ -49,12 +67,6 @@
 12.16,
 "zěn me zhāo",
 "what?; how?; how about?; whatever; also pr. [zen3 me5 zhe5]"
-],
-[
-"不怎么",
-8.87,
-"bù zěn me",
-"not very; not particularly"
 ]
 ],
 "strokes": [

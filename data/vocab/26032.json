@@ -1,6 +1,6 @@
 {
 "char": "新",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "new, recent, fresh, modern",
 "pron": "xīn"
@@ -8,81 +8,201 @@
 "words": [
 [
 "新",
-2,
+1,
 "Xīn",
-"abbr. for Xinjiang 新疆[Xin1 jiang1] or Singapore 新加坡[Xin1 jia1 po1]; surname Xin"
+"abbr. for Xinjiang 新疆[Xīn jiāng] or Singapore 新加坡[Xīn jiā pō]; surname Xin"
 ],
 [
 "新",
-2,
+1,
 "xīn",
 "new; newly; meso- (chemistry)"
 ],
 [
-"新闻",
-3,
-"xīn wén",
-"news; CL:條|条[tiao2],個|个[ge4]"
-],
-[
-"新鲜",
-3,
-"xīn xiān",
-"fresh (experience, food etc); freshness; novel; uncommon"
+"新年",
+1,
+"xīn nián",
+"New Year; CL:个[gè]"
 ],
 [
 "重新",
-4,
+2,
 "chóng xīn",
 "again; once more; re-"
 ],
 [
-"新娘",
-6,
-"xīn niáng",
-"bride"
-],
-[
-"新郎",
-6,
-"xīn láng",
-"bridegroom; groom"
-],
-[
-"崭新",
-6,
-"zhǎn xīn",
-"brand new"
-],
-[
-"更新",
-6,
-"gēng xīn",
-"to replace the old with new; to renew; to renovate; to upgrade; to update; to regenerate"
+"新闻",
+2,
+"xīn wén",
+"news; CL:条[tiáo],个[gè]"
 ],
 [
 "创新",
-6,
+3,
 "chuàng xīn",
 "innovation; to bring forth new ideas; to blaze new trails"
 ],
 [
-"新陈代谢",
+"新郎",
+4,
+"xīn láng",
+"bridegroom; groom"
+],
+[
+"新娘",
+4,
+"xīn niáng",
+"bride"
+],
+[
+"新鲜",
+4,
+"xīn xiān",
+"fresh (experience, food etc); freshness; novel; uncommon"
+],
+[
+"新型",
+4,
+"xīn xíng",
+"new type; new kind"
+],
+[
+"更新",
+5,
+"gēng xīn",
+"to replace the old with new; to renew; to renovate; to upgrade; to update; to regenerate"
+],
+[
+"革新",
 6,
+"gé xīn",
+"to innovate; innovation"
+],
+[
+"全新",
+6,
+"quán xīn",
+"all new; completely new"
+],
+[
+"新人",
+6,
+"xīn rén",
+"newcomer; fresh talent; newlywed, esp. new bride; bride and groom; (paleoanthropology) Homo sapiens"
+],
+[
+"新兴",
+6,
+"Xīn xīng",
+"Xinxing county in Yunfu 云浮[Yún fú], Guangdong; Xinxing or Hsinhsing district of Kaohsiung city 高雄市[Gāo xióng shì], south Taiwan"
+],
+[
+"新兴",
+6,
+"xīn xīng",
+"(of markets, industries, infectious diseases etc) rising; emerging; in the ascendant"
+],
+[
+"耳目一新",
+7,
+"ěr mù yī xīn",
+"a pleasant change; a breath of fresh air; refreshing"
+],
+[
+"高新技术",
+7,
+"gāo xīn jì shù",
+"high tech; high technology"
+],
+[
+"记忆犹新",
+7,
+"jì yì yóu xīn",
+"to remain fresh in one's memory (idiom)"
+],
+[
+"清新",
+7,
+"Qīng xīn",
+"Qingxin county in Qingyuan 清远[Qīng yuǎn], Guangdong"
+],
+[
+"清新",
+7,
+"qīng xīn",
+"fresh and clean"
+],
+[
+"日新月异",
+7,
+"rì xīn yuè yì",
+"daily renewal, monthly change (idiom); every day sees new developments; rapid progress"
+],
+[
+"刷新",
+7,
+"shuā xīn",
+"to renovate; to refurbish; to refresh (computer window); to write a new page (in history); to break (a record)"
+],
+[
+"新潮",
+7,
+"xīn cháo",
+"modern; fashionable"
+],
+[
+"新陈代谢",
+7,
 "xīn chén dài xiè",
 "metabolism (biology); the new replaces the old (idiom)"
 ],
 [
+"新房",
+7,
+"xīn fáng",
+"brand new house; bridal chamber"
+],
+[
+"新款",
+7,
+"xīn kuǎn",
+"new style; latest fashion; new model"
+],
+[
+"新奇",
+7,
+"xīn qí",
+"novelty; new and odd"
+],
+[
+"新生",
+7,
+"xīn shēng",
+"new; newborn; emerging; nascent; rebirth; regeneration; new life; new student"
+],
+[
+"新式",
+7,
+"xīn shì",
+"new style; latest type"
+],
+[
+"新手",
+7,
+"xīn shǒu",
+"new hand; novice; raw recruit"
+],
+[
 "新颖",
-6,
+7,
 "xīn yǐng",
 "lit. new bud; fig. new and original"
 ],
 [
-"日新月异",
-6,
-"rì xīn yuè yì",
-"daily renewal, monthly change (idiom); every day sees new developments; rapid progress"
+"崭新",
+7,
+"zhǎn xīn",
+"brand new"
 ]
 ],
 "extraWords": [
@@ -105,28 +225,10 @@
 "latest; newest"
 ],
 [
-"新年",
-65.67,
-"xīn nián",
-"New Year; CL:個|个[ge4]"
-],
-[
-"新型",
-43.51,
-"xīn xíng",
-"new type; new kind"
-],
-[
-"全新",
-43.44,
-"quán xīn",
-"all new; completely new"
-],
-[
 "新疆",
 43.06,
 "Xīn jiāng",
-"Xinjiang; Uighur Autonomous Region 新疆維吾爾自治區|新疆维吾尔自治区[Xin1 jiang1 Wei2 wu2 er3 Zi4 zhi4 qu1]"
+"Xinjiang; Uighur Autonomous Region 新疆维吾尔自治区[Xīn jiāng Wéi wú ěr Zì zhì qū]"
 ],
 [
 "新华网",
@@ -171,34 +273,10 @@
 "new construction; newly built"
 ],
 [
-"新人",
-24.67,
-"xīn rén",
-"newcomer; fresh talent; newlywed, esp. new bride; bride and groom; (paleoanthropology) Homo sapiens"
-],
-[
 "中新网",
 23.63,
 "Zhōng xīn wǎng",
 "ChinaNews (China News Service)"
-],
-[
-"高新技术",
-22.52,
-"gāo xīn jì shù",
-"high tech; high technology"
-],
-[
-"清新",
-22.28,
-"Qīng xīn",
-"Qingxin county in Qingyuan 清遠|清远[Qing1 yuan3], Guangdong"
-],
-[
-"清新",
-22.28,
-"qīng xīn",
-"fresh and clean"
 ],
 [
 "新产品",
@@ -207,10 +285,10 @@
 "new product"
 ],
 [
-"新生",
-18.08,
-"xīn shēng",
-"new; newborn; emerging; nascent; rebirth; regeneration; new life; new student"
+"新股",
+16.3,
+"???",
+"???"
 ],
 [
 "新技术",
@@ -219,16 +297,10 @@
 "new technology"
 ],
 [
-"新兴",
-13.17,
-"Xīn xīng",
-"Xinxing county in Yunfu 雲浮|云浮[Yun2 fu2], Guangdong; Xinxing or Hsinhsing district of Kaohsiung city 高雄市[Gao1 xiong2 shi4], south Taiwan"
-],
-[
-"新兴",
-13.17,
-"xīn xīng",
-"(of markets, industries, infectious diseases etc) rising; emerging; in the ascendant"
+"新区",
+14.34,
+"???",
+"???"
 ],
 [
 "新春",
@@ -255,28 +327,16 @@
 "Xinhua (the official Chinese news agency)"
 ],
 [
+"新中国",
+10.63,
+"???",
+"???"
+],
+[
 "新西兰",
 10.38,
 "Xīn xī lán",
 "New Zealand"
-],
-[
-"革新",
-10.34,
-"gé xīn",
-"to innovate; innovation"
-],
-[
-"刷新",
-9.96,
-"shuā xīn",
-"to renovate; to refurbish; to refresh (computer window); to write a new page (in history); to break (a record)"
-],
-[
-"新房",
-9.74,
-"xīn fáng",
-"brand new house; bridal chamber"
 ],
 [
 "新生儿",
@@ -291,10 +351,22 @@
 "new housing development"
 ],
 [
-"新手",
-7.46,
-"xīn shǒu",
-"new hand; novice; raw recruit"
+"新时期",
+7.77,
+"???",
+"???"
+],
+[
+"新快报",
+7.03,
+"???",
+"???"
+],
+[
+"新药",
+6.78,
+"???",
+"???"
 ],
 [
 "新婚",
@@ -321,6 +393,18 @@
 "New Orleans, Louisiana"
 ],
 [
+"新局面",
+5.58,
+"???",
+"???"
+],
+[
+"新秀",
+5.53,
+"???",
+"???"
+],
+[
 "新近",
 5.48,
 "xīn jìn",
@@ -333,16 +417,28 @@
 "New Taiwan dollar (NTD)"
 ],
 [
+"新书",
+5.28,
+"???",
+"???"
+],
+[
 "新时代",
 5.21,
 "xīn shí dài",
 "new age"
 ],
 [
-"新奇",
-5.09,
-"xīn qí",
-"novelty; new and odd"
+"新能源",
+5.18,
+"???",
+"???"
+],
+[
+"新材料",
+5.08,
+"???",
+"???"
 ],
 [
 "法新社",

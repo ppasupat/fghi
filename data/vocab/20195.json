@@ -1,118 +1,178 @@
 {
 "char": "代",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "replace, replacement (of person or generation); era, generation",
 "pron": "dài"
 },
 "words": [
 [
+"代",
+3,
+"dài",
+"to substitute; to act on behalf of others; to replace; generation; dynasty; age; period; (historical) era; (geological) eon"
+],
+[
 "代表",
-5,
+3,
 "dài biǎo",
-"representative; delegate; CL:位[wei4],個|个[ge4],名[ming2]; to represent; to stand for; on behalf of; in the name of"
+"representative; delegate; CL:位[wèi],个[gè],名[míng]; to represent; to stand for; on behalf of; in the name of"
+],
+[
+"代表团",
+3,
+"dài biǎo tuán",
+"delegation; CL:个[gè]"
+],
+[
+"古代",
+3,
+"gǔ dài",
+"ancient times; olden times"
 ],
 [
 "年代",
-5,
+3,
 "nián dài",
-"a decade of a century (e.g. the Sixties); age; era; period; CL:個|个[ge4]"
+"a decade of a century (e.g. the Sixties); age; era; period; CL:个[gè]"
 ],
 [
 "时代",
-5,
+3,
 "Shí dài",
 "Time, US weekly news magazine"
 ],
 [
 "时代",
-5,
+3,
 "shí dài",
-"age; era; epoch; period (in one's life); CL:個|个[ge4]"
-],
-[
-"代替",
-5,
-"dài tì",
-"to replace; to take the place of"
+"age; era; epoch; period (in one's life); CL:个[gè]"
 ],
 [
 "现代",
-5,
+3,
 "Xiàn dài",
 "Hyundai, South Korean company"
 ],
 [
 "现代",
-5,
+3,
 "xiàn dài",
 "modern times; modern age; modern era"
 ],
 [
-"古代",
-5,
-"gǔ dài",
-"ancient times; olden times"
+"代替",
+4,
+"dài tì",
+"to replace; to take the place of"
 ],
 [
 "近代",
-5,
+4,
 "jìn dài",
 "the not-very-distant past; modern times, excluding recent decades; (in the context of Chinese history) the period from the Opium Wars until the May 4th Movement (mid-19th century to 1919); capitalist times (pre-1949)"
 ],
 [
+"替代",
+4,
+"tì dài",
+"to substitute for; to replace; to supersede"
+],
+[
 "代价",
-6,
+5,
 "dài jià",
 "price; cost; consideration (in share dealing)"
 ],
 [
 "代理",
-6,
+5,
 "dài lǐ",
 "to act on behalf of sb in a responsible position; to act as an agent or proxy; surrogate; (computing) proxy"
 ],
 [
-"后代",
-6,
-"hòu dài",
-"descendant; progeny; posterity; later ages; later generations"
-],
-[
-"交代",
-6,
-"jiāo dài",
-"to hand over; to explain; to make clear; to brief (sb); to account for; to justify oneself; to confess; (coll.) to finish"
-],
-[
 "当代",
-6,
+5,
 "dāng dài",
 "the present age; the contemporary era"
 ],
 [
-"新陈代谢",
-6,
-"xīn chén dài xiè",
-"metabolism (biology); the new replaces the old (idiom)"
+"交代",
+5,
+"jiāo dài",
+"to hand over; to explain; to make clear; to brief (sb); to account for; to justify oneself; to confess; (coll.) to finish"
 ],
 [
-"世代",
+"一代",
 6,
-"shì dài",
-"for many generations; generation; era; age"
+"yī dài",
+"generation"
 ],
 [
 "朝代",
-6,
+7,
 "cháo dài",
 "dynasty; reign (of a king)"
 ],
 [
-"历代",
-6,
-"lì dài",
-"successive generations; successive dynasties; past dynasties"
+"代号",
+7,
+"dài hào",
+"code name"
+],
+[
+"代理人",
+7,
+"dài lǐ rén",
+"agent"
+],
+[
+"代言人",
+7,
+"dài yán rén",
+"spokesperson"
+],
+[
+"后代",
+7,
+"hòu dài",
+"descendant; progeny; posterity; later ages; later generations"
+],
+[
+"划时代",
+7,
+"huà shí dài",
+"epoch-marking"
+],
+[
+"取代",
+7,
+"qǔ dài",
+"to replace; to supersede; to supplant; (chemistry) substitution"
+],
+[
+"取而代之",
+7,
+"qǔ ér dài zhī",
+"to substitute for sb; to remove and replace"
+],
+[
+"世代",
+7,
+"shì dài",
+"for many generations; generation; era; age"
+],
+[
+"下一代",
+7,
+"xià yī dài",
+"the next generation"
+],
+[
+"新陈代谢",
+7,
+"xīn chén dài xiè",
+"metabolism (biology); the new replaces the old (idiom)"
 ]
 ],
 "extraWords": [
@@ -120,25 +180,7 @@
 "现代化",
 55.45,
 "xiàn dài huà",
-"modernization; CL:個|个[ge4]"
-],
-[
-"代表团",
-39.39,
-"dài biǎo tuán",
-"delegation; CL:個|个[ge4]"
-],
-[
-"替代",
-22.78,
-"tì dài",
-"to substitute for; to replace; to supersede"
-],
-[
-"取代",
-20.25,
-"qǔ dài",
-"to replace; to supersede; to supplant; (chemistry) substitution"
+"modernization; CL:个[gè]"
 ],
 [
 "代谢",
@@ -153,10 +195,16 @@
 "code"
 ],
 [
-"代理人",
-11.23,
-"dài lǐ rén",
-"agent"
+"人大代表",
+12.49,
+"???",
+"???"
+],
+[
+"代表大会",
+10.31,
+"???",
+"???"
 ],
 [
 "代表性",
@@ -165,10 +213,16 @@
 "representativeness; representative; typical"
 ],
 [
-"代言人",
-9.78,
-"dài yán rén",
-"spokesperson"
+"代表人",
+9.65,
+"???",
+"???"
+],
+[
+"人民代表大会",
+8.97,
+"???",
+"???"
 ],
 [
 "现代舞",
@@ -177,10 +231,10 @@
 "modern dance"
 ],
 [
-"代号",
-7.27,
-"dài hào",
-"code name"
+"代表们",
+7.52,
+"???",
+"???"
 ],
 [
 "代理商",
@@ -193,6 +247,12 @@
 5.76,
 "Qīng dài",
 "the Ch'ing or Qing dynasty (1644-1911)"
+],
+[
+"历代",
+5.58,
+"lì dài",
+"successive generations; successive dynasties; past dynasties"
 ],
 [
 "代购",

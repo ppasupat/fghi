@@ -1,6 +1,6 @@
 {
 "char": "荣",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "glory, honor; flourish, prosper",
 "pron": "róng"
@@ -13,37 +13,49 @@
 "prosperous; booming (economy)"
 ],
 [
+"光荣",
+5,
+"guāng róng",
+"honor and glory; glorious"
+],
+[
+"荣获",
+7,
+"róng huò",
+"be honored with"
+],
+[
 "荣幸",
-6,
+7,
 "róng xìng",
 "honored (to have the privilege of ...)"
 ],
 [
 "荣誉",
-6,
+7,
 "róng yù",
 "honor; credit; glory; (honorable) reputation; honorary"
 ],
 [
-"光荣",
-6,
-"guāng róng",
-"honor and glory; glorious"
-],
-[
-"虚荣",
-6,
-"xū róng",
-"vanity"
-],
-[
 "欣欣向荣",
-6,
+7,
 "xīn xīn xiàng róng",
 "(idiom) flourishing; thriving"
 ]
 ],
 "extraWords": [
+[
+"荣",
+19.32,
+"Róng",
+"surname Rong"
+],
+[
+"荣",
+19.32,
+"róng",
+"glory; honor; thriving"
+],
 [
 "荣耀",
 12.97,
@@ -51,16 +63,16 @@
 "honor; glory"
 ],
 [
-"荣获",
-12.23,
-"róng huò",
-"be honored with"
-],
-[
 "荣辱",
 5.75,
 "róng rǔ",
 "honor and disgrace; reputation"
+],
+[
+"荣恩",
+5.04,
+"???",
+"???"
 ]
 ],
 "strokes": [

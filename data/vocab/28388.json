@@ -1,6 +1,6 @@
 {
 "char": "滤",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "strain out, filter",
 "pron": "lǜ"
@@ -8,12 +8,25 @@
 "words": [
 [
 "过滤",
-6,
+7,
 "guò lǜ",
 "to filter; filter"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"滤",
+7.84,
+"lǜ",
+"to strain; to filter"
+],
+[
+"过滤器",
+2.18,
+"guò lǜ qì",
+"filtering apparatus; (machine) filter"
+]
+],
 "strokes": [
 "M 239 703 Q 264 682 291 657 Q 307 644 324 645 Q 336 646 341 660 Q 345 676 334 709 Q 322 739 232 755 Q 214 759 208 755 Q 202 751 205 737 Q 209 724 239 703 Z",
 "M 145 509 Q 193 458 231 444 Q 247 443 255 456 Q 261 469 257 487 Q 242 527 155 549 Q 139 553 129 548 Q 122 547 126 534 Q 127 522 145 509 Z",

@@ -1,19 +1,25 @@
 {
 "char": "巷",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "alley, lane",
 "pron": "hàng, xiàng"
 },
 "words": [
 [
-"巷",
-6,
-"xiàng",
-"lane; alley"
+"大街小巷",
+7,
+"dà jiē xiǎo xiàng",
+"great streets and small alleys (idiom); everywhere in the city"
 ]
 ],
 "extraWords": [
+[
+"巷",
+11.89,
+"xiàng",
+"lane; alley"
+],
 [
 "小巷",
 5.19,

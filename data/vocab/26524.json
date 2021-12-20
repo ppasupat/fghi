@@ -1,90 +1,138 @@
 {
 "char": "果",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "fruit; result",
 "pron": "guǒ"
 },
 "words": [
 [
-"苹果",
-1,
-"píng guǒ",
-"apple; CL:個|个[ge4],顆|颗[ke1]"
-],
-[
 "水果",
 1,
 "shuǐ guǒ",
-"fruit; CL:個|个[ge4]"
-],
-[
-"如果",
-3,
-"rú guǒ",
-"if; in case; in the event that"
+"fruit; CL:个[gè]"
 ],
 [
 "结果",
-4,
+2,
 "jiē guǒ",
-"to bear fruit; CL:個|个[ge4]"
+"to bear fruit; CL:个[gè]"
 ],
 [
 "结果",
-4,
+2,
 "jié guǒ",
 "outcome; result; conclusion; in the end; as a result; to kill; to dispatch"
 ],
 [
-"效果",
-4,
-"xiào guǒ",
-"result; effect; efficacy; (theater) sound or visual effects"
+"如果",
+2,
+"rú guǒ",
+"if; in case; in the event that"
+],
+[
+"成果",
+3,
+"chéng guǒ",
+"result; achievement; gain; profit; CL:个[gè]"
+],
+[
+"果然",
+3,
+"guǒ rán",
+"really; sure enough; as expected; if indeed"
 ],
 [
 "果汁",
-4,
+3,
 "guǒ zhī",
 "fruit juice"
 ],
 [
 "后果",
-5,
+3,
 "hòu guǒ",
 "consequences; aftermath"
 ],
 [
-"果然",
-5,
-"guǒ rán",
-"really; sure enough; as expected; if indeed"
+"苹果",
+3,
+"píng guǒ",
+"apple; CL:个[gè],颗[kē]"
 ],
 [
-"成果",
-5,
-"chéng guǒ",
-"result; achievement; gain; profit; CL:個|个[ge4]"
+"效果",
+3,
+"xiào guǒ",
+"result; effect; efficacy; (theater) sound or visual effects"
 ],
 [
 "果实",
-5,
+4,
 "guǒ shí",
 "fruit (produced by a plant); (fig.) fruits (of success etc); results; gains"
 ],
 [
-"果断",
+"果酱",
 6,
+"guǒ jiàng",
+"jam"
+],
+[
+"果树",
+6,
+"guǒ shù",
+"fruit tree; CL:棵[kē]"
+],
+[
+"果断",
+7,
 "guǒ duàn",
 "firm; decisive"
+],
+[
+"果园",
+7,
+"guǒ yuán",
+"orchard"
+],
+[
+"果真",
+7,
+"guǒ zhēn",
+"really; as expected; sure enough; if indeed...; if it's really..."
+],
+[
+"如果说",
+7,
+"rú guǒ shuō",
+"if; if one were to say"
+],
+[
+"硕果",
+7,
+"shuò guǒ",
+"major achievement; great work; triumphant success"
+],
+[
+"糖果",
+7,
+"táng guǒ",
+"candy; CL:粒[lì]"
 ]
 ],
 "extraWords": [
 [
-"糖果",
-16.9,
-"táng guǒ",
-"candy; CL:粒[li4]"
+"果",
+63.84,
+"guǒ",
+"fruit; result; resolute; indeed; if really"
+],
+[
+"果",
+63.84,
+"guǒ",
+"variant of 果[guǒ]; fruit"
 ],
 [
 "芒果",
@@ -97,18 +145,6 @@
 7.57,
 "yīn guǒ",
 "karma; cause and effect"
-],
-[
-"果真",
-7.02,
-"guǒ zhēn",
-"really; as expected; sure enough; if indeed...; if it's really..."
-],
-[
-"果树",
-5.58,
-"guǒ shù",
-"fruit tree; CL:棵[ke1]"
 ],
 [
 "果冻",

@@ -1,6 +1,6 @@
 {
 "char": "灯",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "lantern, lamp",
 "pron": "dēng"
@@ -8,41 +8,71 @@
 "words": [
 [
 "灯",
-3,
+2,
 "dēng",
-"lamp; light; lantern; CL:盞|盏[zhan3]"
+"lamp; light; lantern; CL:盏[zhǎn]"
 ],
-[
-"灯笼",
-6,
-"dēng lóng",
-"lantern"
-]
-],
-"extraWords": [
 [
 "灯光",
-18.39,
+4,
 "dēng guāng",
 "(stage) lighting; light"
 ],
 [
+"电灯",
+4,
+"diàn dēng",
+"electric light; CL:盏[zhǎn]"
+],
+[
+"台灯",
+6,
+"tái dēng",
+"desk lamp; table lamp"
+],
+[
+"灯笼",
+7,
+"dēng lóng",
+"lantern"
+],
+[
+"灯泡",
+7,
+"dēng pào",
+"light bulb; see also 电灯泡[diàn dēng pào]; third-wheel or unwanted third party spoiling a couple's date (slang); CL:个[gè]"
+],
+[
 "红灯",
-7.09,
+7,
 "hóng dēng",
 "red light"
 ],
 [
 "路灯",
-6.18,
+7,
 "lù dēng",
 "street lamp; street light"
 ],
 [
+"绿灯",
+7,
+"lǜ dēng",
+"green light (traffic signal); (fig.) permission to proceed"
+],
+[
+"张灯结彩",
+7,
+"zhāng dēng jié cǎi",
+"to be decorated with lanterns and colored banners (idiom)"
+]
+],
+"extraWords": [
+[
 "灯塔",
 5.4,
 "dēng tǎ",
-"lighthouse; CL:座[zuo4]"
+"lighthouse; CL:座[zuò]"
 ]
 ],
 "strokes": [

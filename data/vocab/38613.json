@@ -1,22 +1,40 @@
 {
 "char": "雕",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "engrave, inlay, carve; exhaust; used for U+9D70 鵰 an eagle, vulture",
 "pron": "diāo"
 },
 "words": [
 [
-"雕塑",
-6,
-"diāo sù",
-"a statue; a Buddhist image; sculpture; to carve"
+"雕",
+7,
+"diāo",
+"variant of 雕[diāo], to engrave"
+],
+[
+"雕",
+7,
+"diāo",
+"to carve; to engrave; shrewd; bird of prey"
+],
+[
+"雕",
+7,
+"diāo",
+"bird of prey"
 ],
 [
 "雕刻",
-6,
+7,
 "diāo kè",
 "to carve; to engrave; carving"
+],
+[
+"雕塑",
+7,
+"diāo sù",
+"a statue; a Buddhist image; sculpture; to carve"
 ]
 ],
 "extraWords": [
@@ -24,7 +42,7 @@
 "雕像",
 9.72,
 "diāo xiàng",
-"sculpture; (carved) statue; CL:尊[zun1]"
+"sculpture; (carved) statue; CL:尊[zūn]"
 ]
 ],
 "strokes": [

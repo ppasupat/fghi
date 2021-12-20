@@ -1,12 +1,32 @@
 {
 "char": "弛",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "loosen, relax, unstring a bow",
 "pron": "chí"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"松弛",
+7,
+"sōng chí",
+"to relax; relaxed; limp; lax"
+]
+],
+"extraWords": [
+[
+"弛",
+1.24,
+"chí",
+"to unstring a bow; to slacken; to relax; to loosen"
+],
+[
+"张弛",
+1.08,
+"zhāng chí",
+"tension and relaxation"
+]
+],
 "strokes": [
 "M 360 559 Q 393 670 435 700 Q 451 719 435 738 Q 417 751 362 774 Q 340 783 284 750 Q 221 726 200 719 Q 184 716 187 706 Q 191 699 210 695 Q 235 688 269 704 Q 338 720 340 718 Q 350 706 345 684 Q 326 611 304 555 C 293 527 351 530 360 559 Z",
 "M 228 491 Q 235 492 244 495 Q 284 510 376 528 Q 386 531 387 540 Q 386 547 360 559 C 340 569 332 566 304 555 Q 255 536 216 523 C 188 513 199 485 228 491 Z",

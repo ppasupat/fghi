@@ -1,28 +1,46 @@
 {
 "char": "班",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "class, group, grade; squad; job",
 "pron": "bān"
 },
 "words": [
 [
-"上班",
-2,
-"shàng bān",
-"to go to work; to be on duty; to start work; to go to the office"
-],
-[
 "班",
-3,
+1,
 "Bān",
 "surname Ban"
 ],
 [
 "班",
-3,
+1,
 "bān",
-"team; class; squad; work shift; ranking; CL:個|个[ge4]; classifier for groups of people and scheduled transport vehicles"
+"team; class; squad; work shift; ranking; CL:个[gè]; classifier for groups of people and scheduled transport vehicles"
+],
+[
+"上班",
+1,
+"shàng bān",
+"to go to work; to be on duty; to start work; to go to the office"
+],
+[
+"下班",
+1,
+"xià bān",
+"to finish work; to get off work"
+],
+[
+"班长",
+2,
+"bān zhǎng",
+"class monitor; squad leader; team leader; CL:个[gè]"
+],
+[
+"班级",
+3,
+"bān jí",
+"class (group of students); grade (in school)"
 ],
 [
 "航班",
@@ -37,10 +55,40 @@
 "to work overtime"
 ],
 [
+"培训班",
+4,
+"péi xùn bān",
+"training class"
+],
+[
 "值班",
-6,
+5,
 "zhí bān",
 "to work a shift; on duty"
+],
+[
+"西班牙语",
+6,
+"Xī bān yá yǔ",
+"Spanish language"
+],
+[
+"接班",
+7,
+"jiē bān",
+"to take over (from those working the previous shift); to take over (in a leadership role etc); to succeed sb"
+],
+[
+"接班人",
+7,
+"jiē bān rén",
+"successor"
+],
+[
+"夜班",
+7,
+"yè bān",
+"night shift"
 ]
 ],
 "extraWords": [
@@ -51,16 +99,10 @@
 "Spain"
 ],
 [
-"下班",
-33.4,
-"xià bān",
-"to finish work; to get off work"
-],
-[
-"西班牙语",
-22.12,
-"Xī bān yá yǔ",
-"Spanish language"
+"领导班子",
+12.49,
+"???",
+"???"
 ],
 [
 "班主任",
@@ -75,24 +117,6 @@
 "organized group; theatrical troupe"
 ],
 [
-"培训班",
-10.6,
-"péi xùn bān",
-"training class"
-],
-[
-"班长",
-10.09,
-"bān zhǎng",
-"class monitor; squad leader; team leader; CL:個|个[ge4]"
-],
-[
-"班级",
-7.86,
-"bān jí",
-"class (group of students); grade (in school)"
-],
-[
 "班车",
 6.34,
 "bān chē",
@@ -103,12 +127,6 @@
 5.83,
 "quán bān",
 "the whole class"
-],
-[
-"接班人",
-5.18,
-"jiē bān rén",
-"successor"
 ],
 [
 "塔利班",

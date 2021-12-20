@@ -1,43 +1,49 @@
 {
 "char": "炸",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "to fry in oil; to scald; to explode",
 "pron": "zhá, zhà"
 },
 "words": [
 [
-"油炸",
-5,
-"yóu zhá",
-"to deep fry"
-],
-[
 "爆炸",
 6,
 "bào zhà",
 "explosion; to explode; to blow up; to detonate"
-]
 ],
-"extraWords": [
+[
+"炸",
+6,
+"zhá",
+"to deep fry; Taiwan pr. [zha4]"
+],
+[
+"炸",
+6,
+"zhà",
+"to burst; to explode; to blow up; (fig.) to fly into a rage"
+],
 [
 "炸弹",
-67.61,
+6,
 "zhà dàn",
-"bomb; CL:枚[mei2],顆|颗[ke1]"
+"bomb; CL:枚[méi],颗[kē]"
 ],
 [
 "炸药",
-13.24,
+6,
 "zhà yào",
 "explosive (material)"
 ],
 [
 "轰炸",
-9.28,
+7,
 "hōng zhà",
-"to bomb; to bombard; CL:陣|阵[zhen4]"
+"to bomb; to bombard; CL:阵[zhèn]"
+]
 ],
+"extraWords": [
 [
 "炸掉",
 7.24,

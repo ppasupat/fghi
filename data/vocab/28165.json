@@ -1,6 +1,6 @@
 {
 "char": "清",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "clear, pure, clean; peaceful",
 "pron": "qīng"
@@ -8,33 +8,39 @@
 "words": [
 [
 "清楚",
-3,
+2,
 "qīng chu",
 "clear; distinct; to understand thoroughly; to be clear about"
 ],
 [
-"清淡",
-5,
-"qīng dàn",
-"light (of food, not greasy or strongly flavored); insipid; slack (sales)"
-],
-[
 "清醒",
-6,
+4,
 "qīng xǐng",
 "clear-headed; sober; awake"
 ],
 [
+"清晨",
+5,
+"qīng chén",
+"early morning"
+],
+[
 "清理",
-6,
+5,
 "qīng lǐ",
 "to clear up; to tidy up; to dispose of"
 ],
 [
-"清除",
+"清",
 6,
-"qīng chú",
-"to clear away; to eliminate; to get rid of"
+"Qīng",
+"Qing or Ch'ing dynasty of imperial China (1644-1911); surname Qing"
+],
+[
+"清",
+6,
+"qīng",
+"clear; distinct; quiet; just and honest; pure; to settle or clear up; to clean up or purge"
 ],
 [
 "清洁",
@@ -43,55 +49,109 @@
 "clean; to clean"
 ],
 [
-"清晰",
+"清洁工",
 6,
-"qīng xī",
-"clear; distinct"
+"qīng jié gōng",
+"cleaner; janitor; garbage collector"
+],
+[
+"清明节",
+6,
+"Qīng míng jié",
+"Qingming or Pure Brightness Festival or Tomb Sweeping Day, celebration for the dead (in early April)"
+],
+[
+"清洗",
+6,
+"qīng xǐ",
+"to wash; to clean; to purge"
 ],
 [
 "澄清",
-6,
+7,
 "chéng qīng",
 "clear (of liquid); limpid; to clarify; to make sth clear; to be clear (about the facts)"
 ],
 [
 "澄清",
-6,
+7,
 "dèng qīng",
 "to settle (of liquid); to become clear (by precipitation of impurities); precipitate (chemistry); to put in order; to quell disturbances"
 ],
 [
-"清晨",
-6,
-"qīng chén",
-"early morning"
+"清除",
+7,
+"qīng chú",
+"to clear away; to eliminate; to get rid of"
 ],
 [
-"清澈",
-6,
-"qīng chè",
-"clear; limpid"
+"清脆",
+7,
+"qīng cuì",
+"sharp and clear; crisp; melodious; ringing; tinkling; silvery (of sound); fragile; frail; also written 輕脆|轻脆"
 ],
 [
-"清真",
-6,
-"qīng zhēn",
-"Islamic; Muslim; halal (of food); clean; pure"
-]
+"清单",
+7,
+"qīng dān",
+"list of items"
 ],
-"extraWords": [
+[
+"清淡",
+7,
+"qīng dàn",
+"light (of food, not greasy or strongly flavored); insipid; slack (sales)"
+],
+[
+"清静",
+7,
+"qīng jìng",
+"quiet; peaceful and quiet"
+],
+[
+"清凉",
+7,
+"qīng liáng",
+"cool; refreshing; (of clothing) skimpy; revealing"
+],
+[
+"清明",
+7,
+"Qīng míng",
+"Qingming or Pure Brightness, 5th of the 24 solar terms 二十四节气[èr shí sì jié qi] 5th-19th April; Pure Brightness Festival or Tomb Sweeping Day (in early April)"
+],
+[
+"清明",
+7,
+"qīng míng",
+"clear and bright; sober and calm; (of a government or administration) well ordered"
+],
+[
+"清晰",
+7,
+"qīng xī",
+"clear; distinct"
+],
 [
 "清新",
-22.28,
+7,
 "Qīng xīn",
-"Qingxin county in Qingyuan 清遠|清远[Qing1 yuan3], Guangdong"
+"Qingxin county in Qingyuan 清远[Qīng yuǎn], Guangdong"
 ],
 [
 "清新",
-22.28,
+7,
 "qīng xīn",
 "fresh and clean"
 ],
+[
+"清真寺",
+7,
+"qīng zhēn sì",
+"mosque"
+]
+],
+"extraWords": [
 [
 "血清",
 21.52,
@@ -105,22 +165,10 @@
 "pure; innocent"
 ],
 [
-"清单",
-15.38,
-"qīng dān",
-"list of items"
-],
-[
-"清洗",
-14.55,
-"qīng xǐ",
-"to wash; to clean; to purge"
-],
-[
 "清华",
 12.94,
 "Qīng huá",
-"abbr. for 清華大學|清华大学[Qing1 hua2 Da4 xue2]"
+"abbr. for 清华大学[Qīng huá Dà xué]"
 ],
 [
 "清水",
@@ -153,16 +201,10 @@
 "fresh and cool; relaxed"
 ],
 [
-"清洁工",
-6.74,
-"qīng jié gōng",
-"cleaner; janitor; garbage collector"
-],
-[
-"清凉",
-5.79,
-"qīng liáng",
-"cool; refreshing; (of clothing) skimpy; revealing"
+"清澈",
+6.68,
+"qīng chè",
+"clear; limpid"
 ],
 [
 "弄清",

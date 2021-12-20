@@ -1,16 +1,52 @@
 {
 "char": "炮",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "large gun, cannon; artillery",
 "pron": "bāo, páo, pào"
 },
 "words": [
 [
+"炮",
+6,
+"bāo",
+"to sauté; to fry; to dry by heating"
+],
+[
+"炮",
+6,
+"páo",
+"to prepare herbal medicine by roasting or parching (in a pan)"
+],
+[
+"炮",
+6,
+"pào",
+"cannon; CL:座[zuò]; firecracker"
+],
+[
+"炮",
+6,
+"pào",
+"variant of 炮[pào]"
+],
+[
 "鞭炮",
-5,
+7,
 "biān pào",
-"firecrackers; string of small firecrackers; CL:枚[mei2]"
+"firecrackers; string of small firecrackers; CL:枚[méi]"
+],
+[
+"马后炮",
+7,
+"mǎ hòu pào",
+"lit. firing after the horse; fig. belated action; giving advice in hindsight"
+],
+[
+"马后炮",
+7,
+"mǎ hòu pào",
+"lit. firing after the horse; fig. belated action; giving advice in hindsight"
 ]
 ],
 "extraWords": [
@@ -18,13 +54,13 @@
 "炮弹",
 6.36,
 "pào dàn",
-"artillery shell; CL:枚[mei2]"
+"artillery shell; CL:枚[méi]"
 ],
 [
 "大炮",
 5.04,
 "dà pào",
-"big gun; cannon; artillery; one who talks big; CL:門|门[men2],尊[zun1]"
+"big gun; cannon; artillery; one who talks big; CL:门[mén],尊[zūn]"
 ]
 ],
 "strokes": [

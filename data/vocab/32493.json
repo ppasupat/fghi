@@ -1,60 +1,84 @@
 {
 "char": "续",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "continue, carry on; succeed",
 "pron": "xù"
 },
 "words": [
 [
-"继续",
-4,
-"jì xù",
-"to continue; to proceed with; to go on with"
-],
-[
 "持续",
-5,
+3,
 "chí xù",
 "to continue; to persist; to last; sustainable; preservation"
 ],
 [
+"继续",
+3,
+"jì xù",
+"to continue; to proceed with; to go on with"
+],
+[
 "连续",
-5,
+3,
 "lián xù",
 "continuous; in a row; serial; consecutive"
 ],
 [
+"连续剧",
+3,
+"lián xù jù",
+"serialized drama; dramatic series; show in parts"
+],
+[
 "手续",
-5,
+3,
 "shǒu xù",
-"procedure; CL:道[dao4],個|个[ge4]; formalities"
+"procedure; CL:道[dào],个[gè]; formalities"
 ],
 [
 "陆续",
-5,
+4,
 "lù xù",
 "in turn; successively; one after the other; bit by bit"
 ],
 [
 "延续",
-6,
+4,
 "yán xù",
 "to continue; to go on; to last"
-]
 ],
-"extraWords": [
+[
+"手续费",
+6,
+"shǒu xù fèi",
+"service charge; processing fee; commission"
+],
+[
+"断断续续",
+7,
+"duàn duàn xù xù",
+"intermittent; off and on; discontinuous; stop-go; stammering; disjointed; inarticulate"
+],
 [
 "后续",
-11.43,
+7,
 "hòu xù",
 "follow-up; (dialect) to remarry"
 ],
 [
-"手续费",
-7.0,
-"shǒu xù fèi",
-"service charge; processing fee; commission"
+"续",
+7,
+"xù",
+"to continue; to replenish"
+]
+],
+"extraWords": [
+[
+"持续性",
+5.26,
+"???",
+"???"
 ]
 ],
 "strokes": [

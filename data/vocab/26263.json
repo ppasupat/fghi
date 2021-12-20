@@ -1,6 +1,6 @@
 {
 "char": "暗",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "dark; obscure; in secret, covert",
 "pron": "àn"
@@ -8,48 +8,60 @@
 "words": [
 [
 "暗",
-5,
+4,
 "àn",
-"variant of 暗[an4]"
+"variant of 暗[àn]"
 ],
 [
 "暗",
-5,
+4,
 "àn",
 "dark; gloomy; hidden; secret; muddled; obscure; in the dark"
 ],
 [
 "暗",
-5,
+4,
 "àn",
-"to close (a door); to eclipse; muddled; stupid; ignorant; variant of 暗[an4]"
+"to close (a door); to eclipse; muddled; stupid; ignorant; variant of 暗[àn]"
 ],
 [
 "暗示",
-6,
+4,
 "àn shì",
 "to hint; to suggest; suggestion; hint"
-]
 ],
-"extraWords": [
 [
 "黑暗",
-48.74,
+4,
 "hēi àn",
 "dark; darkly; darkness"
 ],
 [
+"暗地里",
+7,
+"àn dì li",
+"secretly; inwardly; on the sly"
+],
+[
 "暗杀",
-10.91,
+7,
 "àn shā",
 "to assassinate"
 ],
 [
 "暗中",
-9.19,
+7,
 "àn zhōng",
 "in the dark; in secret; on the sly; surreptitiously"
 ],
+[
+"阴暗",
+7,
+"yīn àn",
+"dim; dark; overcast; darkness; shadow; (fig.) dismal; gloomy; somber; murky; shadowy (side)"
+]
+],
+"extraWords": [
 [
 "暗暗",
 7.78,
@@ -67,12 +79,6 @@
 5.54,
 "àn hào",
 "secret signal (sign); countersign; password"
-],
-[
-"阴暗",
-5.13,
-"yīn àn",
-"dim; dark; overcast; darkness; shadow; (fig.) dismal; gloomy; somber; murky; shadowy (side)"
 ]
 ],
 "strokes": [

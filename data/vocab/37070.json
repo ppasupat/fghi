@@ -1,6 +1,6 @@
 {
 "char": "郎",
-"level": 6,
+"level": "4",
 "info": {
 "gloss": "gentleman, young man; husband",
 "pron": "láng, làng"
@@ -8,17 +8,29 @@
 "words": [
 [
 "新郎",
-6,
+4,
 "xīn láng",
 "bridegroom; groom"
 ]
 ],
 "extraWords": [
 [
+"郎",
+26.85,
+"Láng",
+"surname Lang"
+],
+[
+"郎",
+26.85,
+"láng",
+"(arch.) minister; official; noun prefix denoting function or status; a youth"
+],
+[
 "女郎",
 21.94,
 "nǚ láng",
-"young woman; maiden; girl; CL:個|个[ge4],位[wei4]"
+"young woman; maiden; girl; CL:个[gè],位[wèi]"
 ],
 [
 "伴郎",

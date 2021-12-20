@@ -1,16 +1,28 @@
 {
 "char": "剂",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "medicinal preparation",
 "pron": "jì"
 },
 "words": [
 [
-"调剂",
-6,
-"tiáo jì",
-"to adjust; to balance; to make up a medical prescription"
+"剂",
+7,
+"jì",
+"dose (medicine)"
+],
+[
+"洗涤剂",
+7,
+"xǐ dí jì",
+"cleaning agent; detergent"
+],
+[
+"兴奋剂",
+7,
+"xīng fèn jì",
+"stimulant; doping (in athletics)"
 ]
 ],
 "extraWords": [
@@ -45,10 +57,10 @@
 "additive; food additive"
 ],
 [
-"兴奋剂",
-5.05,
-"xīng fèn jì",
-"stimulant; doping (in athletics)"
+"调剂",
+5.01,
+"tiáo jì",
+"to adjust; to balance; to make up a medical prescription"
 ]
 ],
 "strokes": [

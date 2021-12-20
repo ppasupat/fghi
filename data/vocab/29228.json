@@ -1,16 +1,28 @@
 {
 "char": "爬",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "crawl, creep; climb; scramble",
 "pron": "pá"
 },
 "words": [
 [
+"爬",
+2,
+"pá",
+"to crawl; to climb; to get up or sit up"
+],
+[
 "爬山",
-3,
+2,
 "pá shān",
 "to climb a mountain; to mountaineer; hiking; mountaineering"
+],
+[
+"连滚带爬",
+7,
+"lián gǔn dài pá",
+"rolling and crawling; trying frantically to escape (idiom)"
 ]
 ],
 "extraWords": [],

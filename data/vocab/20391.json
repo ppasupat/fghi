@@ -1,16 +1,40 @@
 {
 "char": "侧",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "side; incline, slant, lean",
 "pron": "cè"
 },
 "words": [
 [
-"侧面",
+"侧",
 6,
+"cè",
+"the side; to incline towards; to lean; inclined; lateral; side"
+],
+[
+"侧",
+6,
+"zhāi",
+"lean on one side"
+],
+[
+"两侧",
+6,
+"liǎng cè",
+"two sides; both sides"
+],
+[
+"侧面",
+7,
 "cè miàn",
 "lateral side; side; aspect; profile"
+],
+[
+"侧重",
+7,
+"cè zhòng",
+"to place particular emphasis on"
 ]
 ],
 "extraWords": [
@@ -27,10 +51,10 @@
 "left side"
 ],
 [
-"侧重",
-6.38,
-"cè zhòng",
-"to place particular emphasis on"
+"内侧",
+5.4,
+"???",
+"???"
 ],
 [
 "外侧",

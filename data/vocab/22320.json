@@ -1,6 +1,6 @@
 {
 "char": "地",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "earth; soil, ground; region",
 "pron": "de, dì"
@@ -8,87 +8,147 @@
 "words": [
 [
 "地",
-3,
+1,
 "de",
 "-ly; structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct"
 ],
 [
 "地",
-3,
+1,
 "dì",
-"earth; ground; field; place; land; CL:片[pian4]"
+"earth; ground; field; place; land; CL:片[piàn]"
+],
+[
+"地点",
+1,
+"dì diǎn",
+"place; site; location; venue; CL:个[gè]"
 ],
 [
 "地方",
-3,
+1,
 "dì fāng",
 "region; regional (away from the central administration); local"
 ],
 [
 "地方",
-3,
+1,
 "dì fang",
-"area; place; space; room; territory; CL:處|处[chu4],個|个[ge4],塊|块[kuai4]"
+"area; place; space; room; territory; CL:处[chù],个[gè],块[kuài]"
+],
+[
+"地上",
+1,
+"dì shang",
+"on the ground; on the floor"
 ],
 [
 "地图",
-3,
+1,
 "dì tú",
-"map; CL:張|张[zhang1],本[ben3]"
+"map; CL:张[zhāng],本[běn]"
+],
+[
+"草地",
+2,
+"cǎo dì",
+"lawn; meadow; sod; turf; CL:片[piàn]"
+],
+[
+"地球",
+2,
+"dì qiú",
+"the earth; CL:个[gè]"
 ],
 [
 "地铁",
-3,
+2,
 "dì tiě",
 "subway; metro"
 ],
 [
-"地球",
+"地铁站",
+2,
+"dì tiě zhàn",
+"subway station"
+],
+[
+"外地",
+2,
+"wài dì",
+"parts of the country other than where one is"
+],
+[
+"当地",
+3,
+"dāng dì",
+"local"
+],
+[
+"地区",
+3,
+"dì qū",
+"local; regional; district (not necessarily formal administrative unit); region; area; as suffix to city name, means prefecture or county (area administered by a prefecture-level city or county level city); CL:个[gè]"
+],
+[
+"各地",
+3,
+"gè dì",
+"in all parts of (a country); various regions"
+],
+[
+"地面",
 4,
-"dì qiú",
-"the earth; CL:個|个[ge4]"
+"dì miàn",
+"floor; ground; surface"
+],
+[
+"地位",
+4,
+"dì wèi",
+"position; status; place; CL:个[gè]"
+],
+[
+"地下",
+4,
+"dì xià",
+"underground; subterranean; covert"
 ],
 [
 "地址",
 4,
 "dì zhǐ",
-"address; CL:個|个[ge4]"
+"address; CL:个[gè]"
 ],
 [
-"地点",
+"陆地",
 4,
-"dì diǎn",
-"place; site; location; venue; CL:個|个[ge4]"
-],
-[
-"地区",
-5,
-"dì qū",
-"local; regional; district (not necessarily formal administrative unit); region; area; as suffix to city name, means prefecture or county (area administered by a prefecture-level city or county level city); CL:個|个[ge4]"
+"lù dì",
+"dry land (as opposed to the sea)"
 ],
 [
 "土地",
-5,
+4,
 "tǔ dì",
-"land; soil; territory; CL:片[pian4],塊|块[kuai4]"
+"land; soil; territory; CL:片[piàn],块[kuài]"
 ],
 [
 "土地",
-5,
+4,
 "tǔ di",
 "local god; genius loci"
 ],
 [
-"当地",
+"地带",
 5,
-"dāng dì",
-"local"
+"dì dài",
+"zone; CL:个[gè]"
 ],
 [
-"地毯",
+"地形",
 5,
-"dì tǎn",
-"carpet; rug"
+"dì xíng",
+"topography; terrain; landform"
 ],
 [
 "地震",
@@ -97,150 +157,300 @@
 "earthquake"
 ],
 [
-"地位",
-5,
-"dì wèi",
-"position; status; place; CL:個|个[ge4]"
-],
-[
-"地道",
-5,
-"dì dào",
-"tunnel; causeway"
-],
-[
-"地道",
-5,
-"dì dao",
-"authentic; genuine; proper"
-],
-[
-"地理",
-5,
-"dì lǐ",
-"geography"
-],
-[
-"陆地",
-5,
-"lù dì",
-"dry land (as opposed to the sea)"
-],
-[
 "基地",
-6,
+5,
 "jī dì",
 "base (of operations); industrial or military base; al-Qaeda"
 ],
 [
-"地步",
+"本地",
 6,
-"dì bù",
-"stage; degree (to which a situation has evolved); situation; leeway"
+"běn dì",
+"local; this locality"
 ],
 [
-"殖民地",
+"遍地",
 6,
-"zhí mín dì",
-"colony"
+"biàn dì",
+"everywhere; all over"
 ],
 [
-"阵地",
+"场地",
 6,
-"zhèn dì",
-"(military) position; front"
+"chǎng dì",
+"space; site; place; sports pitch"
 ],
 [
-"地质",
+"地板",
 6,
-"dì zhì",
-"geology"
+"dì bǎn",
+"floor"
 ],
 [
-"地势",
+"地名",
 6,
-"dì shì",
-"terrain; topography relief"
+"dì míng",
+"place name; toponym"
 ],
 [
-"耕地",
+"地下室",
 6,
-"gēng dì",
-"arable land; to plow land"
-],
-[
-"盆地",
-6,
-"pén dì",
-"(geography) basin; depression"
-]
-],
-"extraWords": [
-[
-"房地产",
-125.52,
-"fáng dì chǎn",
-"real estate"
-],
-[
-"各地",
-102.49,
-"gè dì",
-"in all parts of (a country); various regions"
+"dì xià shì",
+"basement; cellar"
 ],
 [
 "内地",
-58.29,
+6,
 "Nèi dì",
 "mainland China (PRC excluding Hong Kong and Macau, but including islands such as Hainan); Japan (used in Taiwan during Japanese colonization)"
 ],
 [
 "内地",
-58.29,
+6,
 "nèi dì",
 "inland; interior; hinterland"
 ],
 [
+"特地",
+6,
+"tè dì",
+"specially; for a special purpose"
+],
+[
+"园地",
+6,
+"yuán dì",
+"garden area"
+],
+[
+"暗地里",
+7,
+"àn dì li",
+"secretly; inwardly; on the sly"
+],
+[
+"产地",
+7,
+"chǎn dì",
+"source (of a product); place of origin; manufacturing location"
+],
+[
+"大地",
+7,
+"dà dì",
+"earth; mother earth"
+],
+[
+"地步",
+7,
+"dì bù",
+"stage; degree (to which a situation has evolved); situation; leeway"
+],
+[
+"地道",
+7,
+"dì dào",
+"tunnel; causeway"
+],
+[
+"地道",
+7,
+"dì dao",
+"authentic; genuine; proper"
+],
+[
+"地段",
+7,
+"dì duàn",
+"section; district"
+],
+[
+"地理",
+7,
+"dì lǐ",
+"geography"
+],
+[
+"地毯",
+7,
+"dì tǎn",
+"carpet; rug"
+],
+[
+"地下水",
+7,
+"dì xià shuǐ",
+"groundwater"
+],
+[
 "地狱",
-58.16,
+7,
 "dì yù",
 "hell; infernal; underworld; (Buddhism) Naraka"
 ],
 [
-"地上",
-49.94,
-"dì shang",
-"on the ground; on the floor"
+"地域",
+7,
+"dì yù",
+"area; district; region"
 ],
+[
+"地质",
+7,
+"dì zhì",
+"geology"
+],
+[
+"发源地",
+7,
+"fā yuán dì",
+"place of origin; birthplace; source"
+],
+[
+"翻天覆地",
+7,
+"fān tiān fù dì",
+"sky and the earth turning upside down (idiom); fig. complete confusion; everything turned on its head"
+],
+[
+"房地产",
+7,
+"fáng dì chǎn",
+"real estate"
+],
+[
+"耕地",
+7,
+"gēng dì",
+"arable land; to plow land"
+],
+[
+"工地",
+7,
+"gōng dì",
+"construction site"
+],
+[
+"惊天动地",
+7,
+"jīng tiān dòng dì",
+"world-shaking (idiom)"
+],
+[
+"境地",
+7,
+"jìng dì",
+"circumstances"
+],
+[
+"就地",
+7,
+"jiù dì",
+"locally; on the spot"
+],
+[
+"开天辟地",
+7,
+"kāi tiān pì dì",
+"to split heaven and earth apart (idiom); refers to the Pangu 盘古[Pán gǔ] creation myth"
+],
+[
+"空地",
+7,
+"kōng dì",
+"air-to-surface (missile)"
+],
+[
+"空地",
+7,
+"kòng dì",
+"vacant land; open space"
+],
+[
+"绿地",
+7,
+"lǜ dì",
+"green area (e.g. urban park or garden)"
+],
+[
+"落地",
+7,
+"luò dì",
+"to fall to the ground; to be set on the ground; to reach to the ground; to be born; (of a plane) to land"
+],
+[
+"目的地",
+7,
+"mù dì dì",
+"destination (location)"
+],
+[
+"墓地",
+7,
+"mù dì",
+"cemetery; graveyard"
+],
+[
+"实地",
+7,
+"shí dì",
+"on-site"
+],
+[
+"死心塌地",
+7,
+"sǐ xīn tā dì",
+"to be hell-bent on; dead set on sth; unswerving"
+],
+[
+"随时随地",
+7,
+"suí shí suí dì",
+"anytime and anywhere"
+],
+[
+"天长地久",
+7,
+"tiān cháng dì jiǔ",
+"enduring while the world lasts (idiom); eternal"
+],
+[
+"天地",
+7,
+"tiān dì",
+"heaven and earth; world; scope; field of activity"
+],
+[
+"天经地义",
+7,
+"tiān jīng dì yì",
+"lit. heaven's law and earth's principle (idiom); fig. right and proper; right and unalterable; a matter of course"
+],
+[
+"余地",
+7,
+"yú dì",
+"margin; leeway"
+],
+[
+"原地",
+7,
+"yuán dì",
+"(in) the original place; the place where one currently is; place of origin; local (product)"
+],
+[
+"质地",
+7,
+"zhì dì",
+"texture; background (texture); grain; quality; character; disposition"
+]
+],
+"extraWords": [
 [
 "地产",
 47.37,
 "dì chǎn",
 "estate"
-],
-[
-"地面",
-44.14,
-"dì miàn",
-"floor; ground; surface"
-],
-[
-"地下",
-39.91,
-"dì xià",
-"underground; subterranean; covert"
-],
-[
-"外地",
-34.62,
-"wài dì",
-"parts of the country other than where one is"
-],
-[
-"本地",
-30.16,
-"běn dì",
-"local; this locality"
 ],
 [
 "谢天谢地",
@@ -249,34 +459,16 @@
 "Thank heavens!; Thank goodness that's worked out so well!"
 ],
 [
-"地板",
-29.03,
-"dì bǎn",
-"floor"
-],
-[
-"地下室",
-25.34,
-"dì xià shì",
-"basement; cellar"
-],
-[
-"工地",
-23.99,
-"gōng dì",
-"construction site"
-],
-[
-"场地",
-23.87,
-"chǎng dì",
-"space; site; place; sports pitch"
-],
-[
 "营地",
 22.24,
 "yíng dì",
 "camp"
+],
+[
+"地方政府",
+22.1,
+"???",
+"???"
 ],
 [
 "地盘",
@@ -285,28 +477,16 @@
 "domain; territory under one's control; foundation of a building; base of operations; crust of earth"
 ],
 [
-"天地",
-20.36,
-"tiān dì",
-"heaven and earth; world; scope; field of activity"
-],
-[
-"地带",
-18.43,
-"dì dài",
-"zone; CL:個|个[ge4]"
-],
-[
-"大地",
-17.61,
-"dà dì",
-"earth; mother earth"
-],
-[
 "地块",
 15.43,
 "dì kuài",
 "tectonic plate"
+],
+[
+"阵地",
+14.74,
+"zhèn dì",
+"(military) position; front"
 ],
 [
 "地主",
@@ -315,16 +495,10 @@
 "landlord; landowner; host"
 ],
 [
-"地域",
-14.32,
-"dì yù",
-"area; district; region"
-],
-[
-"地段",
-13.08,
-"dì duàn",
-"section; district"
+"两地",
+13.29,
+"???",
+"???"
 ],
 [
 "地处",
@@ -333,16 +507,10 @@
 "to be located at; to be situated in"
 ],
 [
-"特地",
-12.23,
-"tè dì",
-"specially; for a special purpose"
-],
-[
-"落地",
-11.7,
-"luò dì",
-"to fall to the ground; to be set on the ground; to reach to the ground; to be born; (of a plane) to land"
+"房地产业",
+11.66,
+"???",
+"???"
 ],
 [
 "所在地",
@@ -351,34 +519,10 @@
 "location; site"
 ],
 [
-"原地",
-11.39,
-"yuán dì",
-"(in) the original place; the place where one currently is; place of origin; local (product)"
-],
-[
-"目的地",
-11.13,
-"mù dì dì",
-"destination (location)"
-],
-[
-"绿地",
-10.56,
-"lǜ dì",
-"green area (e.g. urban park or garden)"
-],
-[
-"实地",
-9.87,
-"shí dì",
-"on-site"
-],
-[
-"墓地",
-9.78,
-"mù dì",
-"cemetery; graveyard"
+"雪地",
+11.1,
+"???",
+"???"
 ],
 [
 "异地",
@@ -387,28 +531,10 @@
 "different place; abroad"
 ],
 [
-"草地",
-8.54,
-"cǎo dì",
-"lawn; meadow; sod; turf; CL:片[pian4]"
-],
-[
-"地形",
-8.23,
-"dì xíng",
-"topography; terrain; landform"
-],
-[
 "圣地亚哥",
 8.17,
 "Shèng dì yà gē",
 "Santiago, capital of Chile; San Diego, California"
-],
-[
-"质地",
-8.11,
-"zhì dì",
-"texture; background (texture); grain; quality; character; disposition"
 ],
 [
 "此地",
@@ -423,16 +549,22 @@
 "Austria"
 ],
 [
+"地价",
+7.84,
+"???",
+"???"
+],
+[
 "征地",
 7.83,
 "zhēng dì",
 "to requisition land"
 ],
 [
-"余地",
-7.72,
-"yú dì",
-"margin; leeway"
+"深深地",
+7.68,
+"???",
+"???"
 ],
 [
 "湿地",
@@ -441,10 +573,10 @@
 "wetland"
 ],
 [
-"境地",
-7.15,
-"jìng dì",
-"circumstances"
+"轻轻地",
+7.59,
+"???",
+"???"
 ],
 [
 "猛地",
@@ -459,22 +591,28 @@
 "daddy (loanword)"
 ],
 [
+"各地区",
+6.72,
+"???",
+"???"
+],
+[
+"本地区",
+6.66,
+"???",
+"???"
+],
+[
 "根据地",
 6.35,
 "gēn jù dì",
 "base of operations"
 ],
 [
-"产地",
-6.25,
-"chǎn dì",
-"source (of a product); place of origin; manufacturing location"
-],
-[
-"就地",
-6.01,
-"jiù dì",
-"locally; on the spot"
+"当地人",
+5.99,
+"???",
+"???"
 ],
 [
 "驻地",
@@ -483,16 +621,28 @@
 "station; encampment"
 ],
 [
+"亚太地区",
+5.72,
+"???",
+"???"
+],
+[
+"悄悄地",
+5.64,
+"???",
+"???"
+],
+[
+"台湾地区",
+5.56,
+"???",
+"???"
+],
+[
 "领地",
 5.54,
 "lǐng dì",
 "territory; domain; estate; (old) fief"
-],
-[
-"随时随地",
-5.45,
-"suí shí suí dì",
-"anytime and anywhere"
 ],
 [
 "因地制宜",
@@ -507,28 +657,22 @@
 "holy land (of a religion); sacred place; shrine; holy city (such as Jerusalem, Mecca etc); center of historic interest"
 ],
 [
-"空地",
-5.27,
-"kōng dì",
-"air-to-surface (missile)"
-],
-[
-"空地",
-5.27,
-"kòng dì",
-"vacant land; open space"
-],
-[
-"地下水",
-5.13,
-"dì xià shuǐ",
-"groundwater"
-],
-[
 "扫地",
 5.1,
 "sǎo dì",
 "to sweep the floor; (fig.) (of one's reputation etc) to reach rock bottom; to be at an all-time low"
+],
+[
+"盆地",
+5.06,
+"pén dì",
+"(geography) basin; depression"
+],
+[
+"地望",
+5.0,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,25 +1,31 @@
 {
 "char": "遥",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "far away, distant, remote",
 "pron": "yáo"
 },
 "words": [
 [
-"遥远",
-6,
-"yáo yuǎn",
-"distant; remote"
-],
-[
 "遥控",
-6,
+7,
 "yáo kòng",
 "remote control"
+],
+[
+"遥远",
+7,
+"yáo yuǎn",
+"distant; remote"
 ]
 ],
 "extraWords": [
+[
+"遥",
+9.82,
+"yáo",
+"distant; remote; far; far away"
+],
 [
 "逍遥法外",
 9.54,

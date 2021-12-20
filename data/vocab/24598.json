@@ -1,6 +1,6 @@
 {
 "char": "怖",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "terror, fear; frighten; terrified",
 "pron": "bù"
@@ -8,7 +8,7 @@
 "words": [
 [
 "恐怖",
-6,
+7,
 "kǒng bù",
 "terrible; frightful; frightening; terror; terrorist"
 ]
@@ -19,6 +19,12 @@
 6.15,
 "kǒng bù zhǔ yì",
 "terrorism"
+],
+[
+"恐怖组织",
+2.45,
+"kǒng bù zǔ zhī",
+"terrorist organization"
 ]
 ],
 "strokes": [

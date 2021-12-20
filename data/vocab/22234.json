@@ -1,23 +1,30 @@
 {
 "char": "囚",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "prisoner, convict; confine",
 "pron": "qiú"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "囚犯",
-19.14,
+7,
 "qiú fàn",
 "prisoner; convict"
+]
 ],
+"extraWords": [
 [
 "囚禁",
 6.11,
 "qiú jìn",
 "to imprison; captivity"
+],
+[
+"囚",
+3.97,
+"qiú",
+"prisoner"
 ]
 ],
 "strokes": [

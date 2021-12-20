@@ -1,11 +1,41 @@
 {
 "char": "国",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "nation, country, nation-state",
 "pron": "guó"
 },
 "words": [
+[
+"国",
+1,
+"Guó",
+"surname Guo"
+],
+[
+"国",
+1,
+"guó",
+"country; nation; state; national; CL:个[gè]"
+],
+[
+"国家",
+1,
+"guó jiā",
+"country; nation; state; CL:个[gè]"
+],
+[
+"国外",
+1,
+"guó wài",
+"abroad; external (affairs); overseas; foreign"
+],
+[
+"外国",
+1,
+"wài guó",
+"foreign (country); CL:个[gè]"
+],
 [
 "中国",
 1,
@@ -13,34 +43,94 @@
 "China"
 ],
 [
-"国家",
-3,
-"guó jiā",
-"country; nation; state; CL:個|个[ge4]"
+"出国",
+2,
+"chū guó",
+"to go abroad; to leave the country; emigration"
 ],
 [
 "国际",
-4,
+2,
 "guó jì",
 "international"
 ],
 [
-"国籍",
+"回国",
+2,
+"huí guó",
+"to return to one's home country"
+],
+[
+"全国",
+2,
+"quán guó",
+"whole nation; nationwide; countrywide; national"
+],
+[
+"国内",
+3,
+"guó nèi",
+"domestic; internal (to a country); civil"
+],
+[
+"国庆",
+3,
+"Guó qìng",
+"National Day"
+],
+[
+"联合国",
+3,
+"Lián hé guó",
+"United Nations"
+],
+[
+"爱国",
 4,
+"ài guó",
+"to love one's country; patriotic"
+],
+[
+"国籍",
+5,
 "guó jí",
 "nationality"
 ],
 [
-"国王",
+"国民",
 5,
-"guó wáng",
-"king; CL:個|个[ge4]"
+"guó mín",
+"nationals; citizens; people of a nation"
 ],
 [
-"国庆节",
-5,
-"Guó qìng jié",
-"PRC National Day (October 1st)"
+"国产",
+6,
+"guó chǎn",
+"domestically produced"
+],
+[
+"国歌",
+6,
+"guó gē",
+"national anthem"
+],
+[
+"国会",
+6,
+"Guó huì",
+"Parliament (UK); Congress (US); Diet (Japan); Legislative Yuan (Taiwan)"
+],
+[
+"国旗",
+6,
+"guó qí",
+"flag (of a country); CL:面[miàn]"
+],
+[
+"国王",
+6,
+"guó wáng",
+"king; CL:个[gè]"
 ],
 [
 "祖国",
@@ -49,22 +139,94 @@
 "motherland"
 ],
 [
-"共和国",
-6,
-"gòng hé guó",
-"republic"
+"帝国",
+7,
+"dì guó",
+"empire; imperial"
+],
+[
+"帝国主义",
+7,
+"dì guó zhǔ yì",
+"imperialism"
+],
+[
+"国宝",
+7,
+"guó bǎo",
+"national treasure"
 ],
 [
 "国防",
-6,
+7,
 "guó fáng",
 "national defense"
 ],
 [
-"国务院",
-6,
-"Guó wù yuàn",
-"State Council (PRC); State Department (USA)"
+"国画",
+7,
+"guó huà",
+"traditional Chinese painting"
+],
+[
+"国徽",
+7,
+"Guó huī",
+"the national emblem of the PRC (a red circle containing the five stars of the PRC flag over Tiananmen 天安门[Tiān ān mén])"
+],
+[
+"国徽",
+7,
+"guó huī",
+"national emblem; national coat of arms"
+],
+[
+"国情",
+7,
+"guó qíng",
+"the characteristics and circumstances particular to a country; current state of a country"
+],
+[
+"国土",
+7,
+"guó tǔ",
+"country's territory; national land"
+],
+[
+"国学",
+7,
+"guó xué",
+"Chinese national culture; studies of ancient Chinese civilization; the Imperial College (history)"
+],
+[
+"国有",
+7,
+"guó yǒu",
+"nationalized; public; government owned; state-owned"
+],
+[
+"跨国",
+7,
+"kuà guó",
+"transnational; multinational"
+],
+[
+"邻国",
+7,
+"lín guó",
+"bordering country; neighbor country; neighboring countries; surrounding countries"
+],
+[
+"王国",
+7,
+"wáng guó",
+"kingdom; realm"
+],
+[
+"中国画",
+7,
+"Zhōng guó huà",
+"Chinese painting"
 ]
 ],
 "extraWords": [
@@ -75,34 +237,22 @@
 "United States; USA; US"
 ],
 [
-"全国",
-360.24,
-"quán guó",
-"whole nation; nationwide; countrywide; national"
-],
-[
 "我国",
 339.99,
 "wǒ guó",
 "our country; China"
 ],
 [
-"国内",
-264.06,
-"guó nèi",
-"domestic; internal (to a country); civil"
-],
-[
 "英国",
 135.72,
 "Yīng guó",
-"United Kingdom 聯合王國|联合王国[Lian2 he2 wang2 guo2]; United Kingdom of Great Britain and Northern Ireland; abbr. for England 英格蘭|英格兰[Ying1 ge2 lan2]"
+"United Kingdom 联合王国[Lián hé wáng guó]; United Kingdom of Great Britain and Northern Ireland; abbr. for England 英格兰[Yīng gé lán]"
 ],
 [
 "韩国",
 120.59,
 "Hán guó",
-"South Korea (Republic of Korea); Han, one of the Seven Hero States of the Warring States 戰國七雄|战国七雄[zhan4 guo2 qi1 xiong2]; Korea from the fall of the Joseon dynasty in 1897"
+"South Korea (Republic of Korea); Han, one of the Seven Hero States of the Warring States 战国七雄[zhàn guó qī xióng]; Korea from the fall of the Joseon dynasty in 1897"
 ],
 [
 "德国",
@@ -117,10 +267,10 @@
 "France; French"
 ],
 [
-"国外",
-85.6,
-"guó wài",
-"abroad; external (affairs); overseas; foreign"
+"国务院",
+75.67,
+"Guó wù yuàn",
+"State Council (PRC); State Department (USA)"
 ],
 [
 "两国",
@@ -129,10 +279,10 @@
 "both countries; two countries"
 ],
 [
-"联合国",
-63.05,
-"Lián hé guó",
-"United Nations"
+"中国队",
+65.21,
+"???",
+"???"
 ],
 [
 "中国人",
@@ -147,22 +297,16 @@
 "each country; every country; various countries"
 ],
 [
-"外国",
-48.05,
-"wài guó",
-"foreign (country); CL:個|个[ge4]"
-],
-[
 "三国",
 45.52,
 "Sān guó",
-"Three Kingdoms period (220-280) in Chinese history; several Three Kingdoms periods in Korean history, esp. from 1st century AD to unification under Silla 新羅|新罗[Xin1 luo2] in 658"
+"Three Kingdoms period (220-280) in Chinese history; several Three Kingdoms periods in Korean history, esp. from 1st century AD to unification under Silla 新罗[Xīn luó] in 658"
 ],
 [
-"国有",
-44.93,
-"guó yǒu",
-"nationalized; public; government owned; state-owned"
+"中国人民",
+37.68,
+"???",
+"???"
 ],
 [
 "国家队",
@@ -189,12 +333,6 @@
 "Guomindang or Kuomintang (KMT); Nationalist Party"
 ],
 [
-"国产",
-31.74,
-"guó chǎn",
-"domestically produced"
-],
-[
 "国有企业",
 30.77,
 "guó yǒu qǐ yè",
@@ -219,16 +357,16 @@
 "Russia"
 ],
 [
+"共和国",
+24.79,
+"gòng hé guó",
+"republic"
+],
+[
 "中国共产党",
 23.57,
 "Zhōng guó Gòng chǎn dǎng",
 "Communist Party of China"
-],
-[
-"国会",
-22.34,
-"Guó huì",
-"Parliament (UK); Congress (US); Diet (Japan); Legislative Yuan (Taiwan)"
 ],
 [
 "国债",
@@ -240,19 +378,7 @@
 "美国人",
 21.9,
 "Měi guó rén",
-"American; American person; American people; CL:個|个[ge4]"
-],
-[
-"帝国主义",
-20.63,
-"dì guó zhǔ yì",
-"imperialism"
-],
-[
-"国民",
-19.9,
-"guó mín",
-"nationals; citizens; people of a nation"
+"American; American person; American people; CL:个[gè]"
 ],
 [
 "国际化",
@@ -261,16 +387,10 @@
 "to internationalize; internationalization"
 ],
 [
-"回国",
-19.34,
-"huí guó",
-"to return to one's home country"
-],
-[
-"爱国",
-18.18,
-"ài guó",
-"to love one's country; patriotic"
+"国有资产",
+18.8,
+"???",
+"???"
 ],
 [
 "大国",
@@ -279,22 +399,10 @@
 "a power (i.e. a dominant country)"
 ],
 [
-"出国",
-17.59,
-"chū guó",
-"to go abroad; to leave the country; emigration"
-],
-[
-"国土",
-16.74,
-"guó tǔ",
-"country's territory; national land"
-],
-[
-"帝国",
-16.43,
-"dì guó",
-"empire; imperial"
+"中国市场",
+16.49,
+"???",
+"???"
 ],
 [
 "发展中国家",
@@ -312,7 +420,19 @@
 "全国人大",
 15.06,
 "Quán guó Rén Dà",
-"abbr. for 全國人大會議|全国人大会议[Quan2 guo2 Ren2 Da4 hui4 yi4], National People's Congress (NPC)"
+"abbr. for 全国人大会议[Quán guó Rén Dà huì yì], National People's Congress (NPC)"
+],
+[
+"中国足协",
+15.0,
+"???",
+"???"
+],
+[
+"美帝国主义",
+14.94,
+"???",
+"???"
 ],
 [
 "国家级",
@@ -336,19 +456,13 @@
 "国资委",
 13.41,
 "Guó Zī Wěi",
-"see 國務院國有資產監督管理委員會|国务院国有资产监督管理委员会[Guo2 wu4 yuan4 Guo2 you3 Zi1 chan3 Jian1 du1 Guan3 li3 Wei3 yuan2 hui4]"
+"see 国务院国有资产监督管理委员会[Guó wù yuàn Guó yǒu Zī chǎn Jiān dū Guǎn lǐ Wěi yuán huì]"
 ],
 [
 "成员国",
 12.96,
 "chéng yuán guó",
 "member country"
-],
-[
-"国情",
-12.8,
-"guó qíng",
-"the characteristics and circumstances particular to a country; current state of a country"
 ],
 [
 "中国银行",
@@ -369,16 +483,16 @@
 "Standing Committee of the National People's Congress (abbr. of 全國人民代表大會常務委員會|全国人民代表大会常务委员会)"
 ],
 [
+"国奥队",
+11.58,
+"???",
+"???"
+],
+[
 "国营",
 11.05,
 "guó yíng",
 "state-run (company etc); nationalized"
-],
-[
-"跨国",
-11.05,
-"kuà guó",
-"transnational; multinational"
 ],
 [
 "国防部",
@@ -387,22 +501,22 @@
 "Defense Department; Ministry of National Defense"
 ],
 [
-"国庆",
-10.08,
-"Guó qìng",
-"National Day"
+"新中国",
+10.63,
+"???",
+"???"
 ],
 [
-"王国",
-10.02,
-"wáng guó",
-"kingdom; realm"
+"全国政协",
+10.14,
+"???",
+"???"
 ],
 [
 "国安",
 9.77,
 "guó ān",
-"national security (abbr. for 國家安全|国家安全[guo2 jia1 an1 quan2]); national security act; state security agency"
+"national security (abbr. for 国家安全[guó jiā ān quán]); national security act; state security agency"
 ],
 [
 "国道",
@@ -417,16 +531,16 @@
 "People's Bank of China"
 ],
 [
+"德国队",
+9.11,
+"???",
+"???"
+],
+[
 "爱国主义",
 8.68,
 "ài guó zhǔ yì",
 "patriotism"
-],
-[
-"国旗",
-8.21,
-"guó qí",
-"flag (of a country); CL:面[mian4]"
 ],
 [
 "国际贸易",
@@ -441,16 +555,34 @@
 "Yasukuni Shrine, Shinto shrine in Tokyo to Japanese war dead, controversial as burial ground of several Class A war criminals"
 ],
 [
+"中国大陆",
+7.94,
+"???",
+"???"
+],
+[
 "全国性",
 7.8,
 "quán guó xìng",
 "national"
 ],
 [
+"韩国队",
+7.75,
+"???",
+"???"
+],
+[
 "国防部长",
 7.63,
 "guó fáng bù zhǎng",
 "Defense secretary; Defense Minister"
+],
+[
+"美国队",
+7.5,
+"???",
+"???"
 ],
 [
 "中国人民解放军",
@@ -487,6 +619,12 @@
 6.89,
 "guó jiā zhǔ xí",
 "president (title of the head of state of China and several other nations)"
+],
+[
+"法国队",
+6.71,
+"???",
+"???"
 ],
 [
 "法国人",
@@ -531,6 +669,18 @@
 "gross domestic product (GDP)"
 ],
 [
+"中国区",
+6.22,
+"???",
+"???"
+],
+[
+"国脚",
+6.05,
+"???",
+"???"
+],
+[
 "中国日报",
 6.0,
 "Zhōng guó Rì bào",
@@ -553,6 +703,12 @@
 5.14,
 "zhì guó",
 "to rule a country"
+],
+[
+"国有股",
+5.02,
+"???",
+"???"
 ]
 ],
 "strokes": [

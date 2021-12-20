@@ -1,19 +1,32 @@
 {
 "char": "怠",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "idle, remiss, negligent; neglect",
 "pron": "dài"
 },
 "words": [
 [
+"怠工",
+7,
+"dài gōng",
+"to slacken off in one's work; to go slow (as a form of strike)"
+],
+[
 "怠慢",
-6,
+7,
 "dài màn",
 "to slight; to neglect"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"怠",
+21.44,
+"dài",
+"idle; lazy; negligent; careless"
+]
+],
 "strokes": [
 "M 669 633 Q 530 614 380 580 Q 364 576 359 580 Q 358 584 365 594 Q 500 729 528 750 Q 544 759 538 774 Q 534 790 483 824 Q 467 836 454 832 Q 438 828 442 804 Q 451 723 315 613 Q 291 595 260 578 Q 242 566 245 553 Q 249 534 275 507 Q 285 494 302 504 Q 374 553 686 604 Q 690 605 695 606 C 724 611 699 637 669 633 Z",
 "M 695 606 Q 752 554 761 553 Q 771 552 777 565 Q 783 578 776 608 Q 769 650 649 696 Q 634 700 628 699 Q 624 695 623 683 Q 626 670 669 633 L 695 606 Z",

@@ -1,11 +1,42 @@
 {
 "char": "痴",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "foolish, stupid, dumb, silly",
 "pron": "chī"
 },
-"words": [],
+"words": [
+[
+"痴呆",
+7,
+"chī dāi",
+"imbecility; dementia"
+],
+[
+"痴呆",
+7,
+"chī dāi",
+"imbecility; dementia"
+],
+[
+"痴迷",
+7,
+"chī mí",
+"infatuated; obsessed"
+],
+[
+"痴心",
+7,
+"chī xīn",
+"infatuation"
+],
+[
+"如醉如痴",
+7,
+"rú zuì rú chī",
+"lit. as if drunk and stupefied (idiom); intoxicated by sth; obsessed with; mad about sth; also written 如痴如醉[rú chī rú zuì]"
+]
+],
 "extraWords": [
 [
 "白痴",
@@ -14,10 +45,16 @@
 "idiocy; idiot"
 ],
 [
-"痴迷",
-5.57,
-"chī mí",
-"infatuated; obsessed"
+"痴",
+14.25,
+"chī",
+"imbecile; sentimental; stupid; foolish; silly"
+],
+[
+"痴",
+14.25,
+"chī",
+"variant of 痴[chī]"
 ]
 ],
 "strokes": [

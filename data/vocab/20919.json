@@ -1,6 +1,6 @@
 {
 "char": "冷",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "cold, cool; lonely",
 "pron": "lěng"
@@ -19,60 +19,114 @@
 "cold"
 ],
 [
+"寒冷",
+4,
+"hán lěng",
+"cold (climate); frigid; very cold"
+],
+[
 "冷静",
 4,
 "lěng jìng",
 "calm; cool-headed"
 ],
 [
+"冷气",
+6,
+"lěng qì",
+"air conditioning (Tw)"
+],
+[
+"冷水",
+6,
+"lěng shuǐ",
+"cold water; unboiled water; fig. not yet ready (of plans)"
+],
+[
+"爆冷门",
+7,
+"bào lěng mén",
+"an upset (esp. in sports); unexpected turn of events; to pull off a coup; a breakthrough"
+],
+[
 "冷淡",
-5,
+7,
 "lěng dàn",
 "cold; indifferent"
 ],
 [
+"冷冻",
+7,
+"lěng dòng",
+"to freeze; to deep-freeze"
+],
+[
 "冷酷",
-6,
+7,
 "lěng kù",
 "grim; unfeeling; callous"
 ],
 [
-"冷却",
-6,
-"lěng què",
-"to cool off; cooling"
+"冷酷无情",
+7,
+"lěng kù wú qíng",
+"cold-hearted; unfeeling; callous"
 ],
 [
 "冷落",
-6,
+7,
 "lěng luò",
 "desolate; unfrequented; to treat sb coldly; to snub; to cold shoulder"
+],
+[
+"冷门",
+7,
+"lěng mén",
+"a neglected branch (of arts, science, sports etc); fig. a complete unknown who wins a competition"
+],
+[
+"冷漠",
+7,
+"lěng mò",
+"cold and detached towards sb; lack of regard; indifference; neglect"
+],
+[
+"冷笑",
+7,
+"lěng xiào",
+"to sneer; to laugh grimly; grin of dissatisfaction (bitterness, helplessness, indignation etc); bitter, grim, sarcastic or angry smile"
+],
+[
+"冷战",
+7,
+"Lěng zhàn",
+"(US-Soviet) Cold War"
+],
+[
+"冷战",
+7,
+"lěng zhàn",
+"cold war; (fig.) strained relationship; to be barely on speaking terms"
+],
+[
+"冷战",
+7,
+"lěng zhan",
+"(coll.) shiver; shudder"
+],
+[
+"泼冷水",
+7,
+"pō lěng shuǐ",
+"lit. to pour cold water on; fig. to dampen one's enthusiasm"
 ]
 ],
 "extraWords": [
-[
-"寒冷",
-18.84,
-"hán lěng",
-"cold (climate); frigid; very cold"
-],
 [
 "冷冷",
 16.12,
 "lěng lěng",
 "coldly"
-],
-[
-"冷笑",
-15.82,
-"lěng xiào",
-"to sneer; to laugh grimly; grin of dissatisfaction (bitterness, helplessness, indignation etc); bitter, grim, sarcastic or angry smile"
-],
-[
-"冷漠",
-13.4,
-"lěng mò",
-"cold and detached towards sb; lack of regard; indifference; neglect"
 ],
 [
 "冰冷",
@@ -81,34 +135,16 @@
 "ice-cold"
 ],
 [
-"冷水",
-7.0,
-"lěng shuǐ",
-"cold water; unboiled water; fig. not yet ready (of plans)"
+"冷空气",
+9.07,
+"???",
+"???"
 ],
 [
-"冷冻",
-6.74,
-"lěng dòng",
-"to freeze; to deep-freeze"
-],
-[
-"冷战",
-6.74,
-"Lěng zhàn",
-"(US-Soviet) Cold War"
-],
-[
-"冷战",
-6.74,
-"lěng zhàn",
-"cold war; (fig.) strained relationship; to be barely on speaking terms"
-],
-[
-"冷战",
-6.74,
-"lěng zhan",
-"(coll.) shiver; shudder"
+"冷却",
+8.69,
+"lěng què",
+"to cool off; cooling"
 ],
 [
 "冷汗",

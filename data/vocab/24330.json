@@ -1,31 +1,38 @@
 {
 "char": "弊",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "evil, wrong, bad; criminal",
 "pron": "bì"
 },
 "words": [
 [
-"作弊",
-6,
-"zuò bì",
-"to practice fraud; to cheat; to engage in corrupt practices"
+"弊病",
+7,
+"bì bìng",
+"malady; evil; malpractice; drawback; disadvantage"
 ],
 [
 "弊端",
-6,
+7,
 "bì duān",
 "systemic problem (sometimes refers specifically to corrupt practices)"
 ],
 [
-"弊病",
-6,
-"bì bìng",
-"malady; evil; malpractice; drawback; disadvantage"
+"作弊",
+7,
+"zuò bì",
+"to practice fraud; to cheat; to engage in corrupt practices"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"弊",
+7.47,
+"bì",
+"detriment; fraud; harm; defeat"
+]
+],
 "strokes": [
 "M 238 697 Q 268 661 299 647 Q 312 646 320 657 Q 324 667 322 682 Q 310 716 264 727 Q 230 733 225 731 Q 219 730 222 719 Q 223 709 238 697 Z",
 "M 468 751 Q 456 726 430 683 Q 426 676 431 671 Q 438 670 444 675 Q 502 721 532 740 Q 547 746 542 754 Q 536 767 518 781 Q 500 794 481 795 Q 469 794 471 777 Q 475 765 468 751 Z",

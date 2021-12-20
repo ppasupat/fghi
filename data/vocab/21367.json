@@ -1,54 +1,72 @@
 {
 "char": "卷",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "scroll; curl; make a comeback",
 "pron": "juǎn, juàn"
 },
 "words": [
 [
-"试卷",
-5,
-"shì juàn",
-"examination paper; test paper; CL:份[fen4],張|张[zhang1]"
-],
-[
 "卷",
-6,
+4,
 "juǎn",
 "to roll up; roll; classifier for small rolled things (wad of paper money, movie reel etc)"
 ],
 [
 "卷",
-6,
+4,
 "juàn",
 "scroll; book; volume; chapter; examination paper; classifier for books, paintings: volume, scroll"
 ],
 [
 "卷",
-6,
+4,
 "juǎn",
 "to roll (up); to sweep up; to carry on; roll"
-]
 ],
-"extraWords": [
+[
+"试卷",
+4,
+"shì juàn",
+"examination paper; test paper; CL:份[fèn],张[zhāng]"
+],
 [
 "卷入",
-10.94,
+7,
 "juǎn rù",
 "to be drawn into; to be involved in"
 ],
 [
-"问卷",
-9.1,
-"wèn juàn",
-"questionnaire; CL:份[fen4]"
+"卷子",
+7,
+"juǎn zi",
+"steamed roll; spring roll"
 ],
+[
+"卷子",
+7,
+"juàn zi",
+"test paper; examination paper"
+],
+[
+"问卷",
+7,
+"wèn juàn",
+"questionnaire; CL:份[fèn]"
+]
+],
+"extraWords": [
 [
 "龙卷风",
 7.04,
 "lóng juǎn fēng",
 "tornado; hurricane; twister; cyclone"
+],
+[
+"卷进",
+6.83,
+"???",
+"???"
 ]
 ],
 "strokes": [

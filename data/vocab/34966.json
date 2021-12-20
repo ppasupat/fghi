@@ -1,6 +1,6 @@
 {
 "char": "袖",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "sleeve; put something in sleeve",
 "pron": "xiù"
@@ -10,21 +10,33 @@
 "领袖",
 6,
 "lǐng xiù",
-"leader; CL:個|个[ge4],位[wei4],名[ming2]"
+"leader; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"袖珍",
+6,
+"xiù zhēn",
+"pocket-sized; pocket (book etc)"
+],
+[
+"袖手旁观",
+7,
+"xiù shǒu páng guān",
+"to watch with folded arms (idiom); to look on without lifting a finger"
 ]
 ],
 "extraWords": [
+[
+"袖",
+18.65,
+"xiù",
+"sleeve; to tuck inside one's sleeve"
+],
 [
 "长袖",
 11.38,
 "cháng xiù",
 "long sleeves; long-sleeved shirt"
-],
-[
-"袖手旁观",
-6.14,
-"xiù shǒu páng guān",
-"to watch with folded arms (idiom); to look on without lifting a finger"
 ]
 ],
 "strokes": [

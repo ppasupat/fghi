@@ -1,6 +1,6 @@
 {
 "char": "跃",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "skip, jump, frolic",
 "pron": "yuè"
@@ -8,30 +8,37 @@
 "words": [
 [
 "活跃",
-5,
+6,
 "huó yuè",
 "active; lively; excited; to enliven; to brighten up"
 ],
 [
-"跳跃",
-6,
-"tiào yuè",
-"to jump; to leap; to bound; to skip"
-],
-[
 "飞跃",
-6,
+7,
 "fēi yuè",
 "to leap"
 ],
 [
+"跳跃",
+7,
+"tiào yuè",
+"to jump; to leap; to bound; to skip"
+],
+[
 "踊跃",
-6,
+7,
 "yǒng yuè",
 "to leap; to jump; eager; enthusiastically"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"跃",
+19.07,
+"yuè",
+"to jump; to leap"
+]
+],
 "strokes": [
 "M 226 713 Q 217 722 177 728 Q 167 731 163 726 Q 157 720 165 705 Q 192 651 209 563 Q 213 536 229 519 Q 245 498 250 513 Q 253 520 253 531 L 251 562 Q 241 595 231 687 C 228 711 228 711 226 713 Z",
 "M 402 596 Q 418 678 440 703 Q 459 728 438 740 Q 419 750 394 765 Q 375 775 358 763 Q 321 738 226 713 C 197 705 202 681 231 687 Q 240 688 335 715 Q 360 722 367 713 Q 374 707 369 673 Q 363 639 355 597 C 349 568 396 567 402 596 Z",

@@ -1,19 +1,43 @@
 {
 "char": "炉",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "fireplace, stove, oven, furnace",
 "pron": "lú"
 },
 "words": [
 [
-"炉灶",
+"微波炉",
 6,
+"wēi bō lú",
+"microwave oven; CL:台[tái]"
+],
+[
+"炉灶",
+7,
 "lú zào",
 "stove"
+],
+[
+"炉子",
+7,
+"lú zi",
+"stove; oven; furnace"
 ]
 ],
 "extraWords": [
+[
+"炉",
+17.61,
+"lú",
+"stove; furnace"
+],
+[
+"炉",
+17.61,
+"lú",
+"variant of 炉[lú]"
+],
 [
 "出炉",
 9.58,
@@ -31,18 +55,6 @@
 5.81,
 "bì lú",
 "fireplace"
-],
-[
-"微波炉",
-5.34,
-"wēi bō lú",
-"microwave oven; CL:臺|台[tai2]"
-],
-[
-"炉子",
-5.19,
-"lú zi",
-"stove; oven; furnace"
 ]
 ],
 "strokes": [

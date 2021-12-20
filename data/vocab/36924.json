@@ -1,32 +1,43 @@
 {
 "char": "逼",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "compel, pressure, force; bother",
 "pron": "bī"
 },
 "words": [
 [
-"逼迫",
+"逼",
 6,
-"bī pò",
-"to force; to compel; to coerce"
-]
+"bī",
+"variant of 逼[bī]; to compel; to pressure"
 ],
-"extraWords": [
+[
+"逼",
+6,
+"bī",
+"to force (sb to do sth); to compel; to press for; to extort; to press on towards; to press up to; to close in on; euphemistic variant of 屄[bī]"
+],
 [
 "逼近",
-6.89,
+7,
 "bī jìn",
 "to press on towards; to close in on; to approach; to draw near"
 ],
 [
+"逼迫",
+7,
+"bī pò",
+"to force; to compel; to coerce"
+],
+[
 "逼真",
-5.07,
+7,
 "bī zhēn",
 "lifelike; true to life; distinctly; clearly"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 461 752 Q 427 746 451 730 Q 490 706 545 719 Q 639 737 736 756 Q 779 766 787 773 Q 796 780 791 788 Q 784 800 756 807 Q 732 813 607 776 Q 507 757 461 752 Z",
 "M 505 633 Q 493 640 461 644 Q 451 648 447 643 Q 441 637 449 622 Q 471 579 485 510 Q 488 488 501 475 Q 517 454 522 469 Q 523 473 525 479 L 524 511 Q 518 580 513 604 C 508 632 508 632 505 633 Z",

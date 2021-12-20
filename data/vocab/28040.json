@@ -1,40 +1,64 @@
 {
 "char": "消",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "vanish, die out; melt away",
 "pron": "xiāo"
 },
 "words": [
 [
-"消息",
-4,
-"xiāo xi",
-"news; information; CL:條|条[tiao2]"
-],
-[
-"消失",
-5,
-"xiāo shī",
-"to disappear; to fade away"
-],
-[
 "取消",
-5,
+3,
 "qǔ xiāo",
 "to cancel; cancellation"
 ],
 [
+"消费",
+3,
+"xiāo fèi",
+"to consume; to spend"
+],
+[
+"消失",
+3,
+"xiāo shī",
+"to disappear; to fade away"
+],
+[
+"消息",
+3,
+"xiāo xi",
+"news; information; CL:条[tiáo]"
+],
+[
 "消化",
-5,
+4,
 "xiāo huà",
 "to digest; digestion; digestive"
 ],
 [
-"消费",
+"消除",
 5,
-"xiāo fèi",
-"to consume; to spend"
+"xiāo chú",
+"to eliminate; to remove"
+],
+[
+"消毒",
+5,
+"xiāo dú",
+"to disinfect; to sterilize"
+],
+[
+"消防",
+5,
+"xiāo fáng",
+"firefighting; fire control"
+],
+[
+"消费者",
+5,
+"xiāo fèi zhě",
+"consumer"
 ],
 [
 "消极",
@@ -43,48 +67,54 @@
 "negative; passive; inactive"
 ],
 [
+"消耗",
+6,
+"xiāo hào",
+"to use up; to consume"
+],
+[
 "消灭",
 6,
 "xiāo miè",
 "to put an end to; to annihilate; to cause to perish; to perish; annihilation (in quantum field theory)"
 ],
 [
-"消防",
-6,
-"xiāo fáng",
-"firefighting; fire control"
+"抵消",
+7,
+"dǐ xiāo",
+"to counteract; to cancel out; to offset"
 ],
 [
-"消除",
-6,
-"xiāo chú",
-"to eliminate; to remove"
+"消",
+7,
+"xiāo",
+"to disappear; to vanish; to eliminate; to spend (time); have to; need"
 ],
 [
-"消毒",
-6,
-"xiāo dú",
-"to disinfect; to sterilize"
+"消沉",
+7,
+"xiāo chén",
+"depressed; bad mood; low spirit"
 ],
 [
-"消耗",
-6,
-"xiāo hào",
-"to use up; to consume"
+"消遣",
+7,
+"xiāo qiǎn",
+"to while the time away; amusement; pastime; recreation; to make sport of"
 ]
 ],
 "extraWords": [
-[
-"消费者",
-157.45,
-"xiāo fèi zhě",
-"consumer"
-],
 [
 "消费品",
 9.48,
 "xiāo fèi pǐn",
 "consumer goods"
+],
+[
+"消协",
+5.78,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,17 +1,30 @@
 {
 "char": "竣",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "terminate, end, finish; quit",
 "pron": "jùn"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "竣工",
-13.75,
+7,
 "jùn gōng",
 "to complete a project"
+]
+],
+"extraWords": [
+[
+"竣",
+1.46,
+"jùn",
+"complete; finish"
+],
+[
+"竣工量",
+0.08,
+"???",
+"???"
 ]
 ],
 "strokes": [

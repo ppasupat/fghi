@@ -1,6 +1,6 @@
 {
 "char": "输",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "transport, carry, haul",
 "pron": "shū"
@@ -8,53 +8,77 @@
 "words": [
 [
 "输",
-4,
+3,
 "shū",
 "to lose; to transport; to donate; to enter (a password)"
 ],
 [
 "输入",
-5,
+3,
 "shū rù",
 "to import; to input"
 ],
 [
 "运输",
-5,
+3,
 "yùn shū",
 "to transport; to carry; transportation"
-]
 ],
-"extraWords": [
 [
 "输出",
-26.17,
+5,
 "shū chū",
 "to export; to output"
 ],
 [
 "传输",
-17.26,
+6,
 "chuán shū",
 "to transmit; transmission"
 ],
 [
+"灌输",
+7,
+"guàn shū",
+"to imbue with; to inculcate; to instill into; to teach; to impart; to channel water to another place"
+],
+[
+"输家",
+7,
+"shū jiā",
+"loser (as opposed to winner 赢家[yíng jiā])"
+],
+[
 "输送",
-9.66,
+7,
 "shū sòng",
 "to transport; to convey; to deliver"
 ],
 [
+"输血",
+7,
+"shū xuè",
+"to transfuse blood; to give aid and support"
+],
+[
 "输液",
-6.02,
+7,
 "shū yè",
 "intravenous infusion; to get put on an IV"
+]
 ],
+"extraWords": [
 [
 "认输",
 5.93,
 "rèn shū",
 "to concede; to admit defeat"
+],
+[
+"输球",
+5.67,
+"???",
+"???"
 ]
 ],
 "strokes": [

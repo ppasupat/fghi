@@ -1,6 +1,6 @@
 {
 "char": "且",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "moreover, also (post-subject); about to, will soon (pre-verb)",
 "pron": "qiě"
@@ -8,39 +8,27 @@
 "words": [
 [
 "而且",
-3,
+2,
 "ér qiě",
 "(not only ...) but also; moreover; in addition; furthermore"
 ],
 [
 "并且",
-4,
+3,
 "bìng qiě",
 "and; besides; moreover; furthermore; in addition"
 ],
 [
 "况且",
-6,
+7,
 "kuàng qiě",
 "moreover; besides; in addition; furthermore"
 ],
 [
-"暂且",
-6,
-"zàn qiě",
-"for now; for the time being; temporarily"
-],
-[
-"姑且",
-6,
-"gū qiě",
-"for the time being; tentatively"
-],
-[
-"尚且",
-6,
-"shàng qiě",
-"(not) even; yet; still"
+"且",
+7,
+"qiě",
+"and; moreover; yet; for the time being; to be about to; both (... and...)"
 ]
 ],
 "extraWords": [],

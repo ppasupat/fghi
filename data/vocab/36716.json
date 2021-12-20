@@ -1,6 +1,6 @@
 {
 "char": "转",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "shift, move, turn",
 "pron": "zhuǎn, zhuàn"
@@ -8,39 +8,99 @@
 "words": [
 [
 "转",
-4,
+3,
 "zhuǎi",
-"see 轉文|转文[zhuai3 wen2]"
+"see 转文[zhuǎi wén]"
 ],
 [
 "转",
-4,
+3,
 "zhuǎn",
 "to turn; to change direction; to transfer; to forward (mail); (Internet) to share (sb else's content)"
 ],
 [
 "转",
-4,
+3,
 "zhuàn",
 "to revolve; to turn; to circle about; to walk about; classifier for revolutions (per minute etc): revs, rpm; classifier for repeated actions"
 ],
 [
 "转变",
-5,
+3,
 "zhuǎn biàn",
-"to change; to transform; shift; transformation; CL:個|个[ge4]"
+"to change; to transform; shift; transformation; CL:个[gè]"
+],
+[
+"转动",
+4,
+"zhuǎn dòng",
+"to turn sth around; to swivel"
+],
+[
+"转动",
+4,
+"zhuàn dòng",
+"to rotate (about an axis); to revolve; to turn; to move in a circle; to gyrate"
 ],
 [
 "转告",
-5,
+4,
 "zhuǎn gào",
 "to pass on; to communicate; to transmit"
 ],
 [
+"转身",
+4,
+"zhuǎn shēn",
+"(of a person) to turn round; to face about; (of a widow) to remarry (archaic)"
+],
+[
+"转弯",
+4,
+"zhuǎn wān",
+"to turn; to go around a corner"
+],
+[
 "转移",
-6,
+4,
 "zhuǎn yí",
 "to shift; to divert or distract (attention etc); to change; to transform; metastasis (medicine); to evacuate (people)"
+],
+[
+"转化",
+5,
+"zhuǎn huà",
+"to change; to transform; isomerization (chemistry)"
+],
+[
+"转换",
+5,
+"zhuǎn huàn",
+"to change; to switch; to convert; to transform"
+],
+[
+"转让",
+5,
+"zhuǎn ràng",
+"to transfer (ownership, rights etc)"
+],
+[
+"转向",
+5,
+"zhuǎn xiàng",
+"to change direction; fig. to change one's stance"
+],
+[
+"转向",
+5,
+"zhuàn xiàng",
+"to get lost; to lose one's way"
+],
+[
+"好转",
+6,
+"hǎo zhuǎn",
+"to improve; to take a turn for the better; improvement"
 ],
 [
 "旋转",
@@ -49,34 +109,106 @@
 "to rotate; to revolve; to spin; to whirl"
 ],
 [
+"峰回路转",
+7,
+"fēng huí lù zhuǎn",
+"the mountain road twists around each new peak (idiom); (of a mountain road) twisting and turning; fig. an opportunity has come unexpectedly; things have taken a new turn"
+],
+[
+"急转弯",
+7,
+"jí zhuǎn wān",
+"to make a sudden turn"
+],
+[
+"流转",
+7,
+"liú zhuǎn",
+"to be on the move; to roam or wander; to circulate (of goods or capital)"
+],
+[
+"目不转睛",
+7,
+"mù bù zhuǎn jīng",
+"unable to take one's eyes off (idiom); to gaze steadily; to stare"
+],
+[
 "扭转",
-6,
+7,
 "niǔ zhuǎn",
 "to reverse; to turn around (an undesirable situation); (mechanics) torsion"
 ],
 [
+"运转",
+7,
+"yùn zhuǎn",
+"to work; to operate; to revolve; to turn around"
+],
+[
+"转播",
+7,
+"zhuǎn bō",
+"relay; broadcast (on radio or TV)"
+],
+[
 "转达",
-6,
+7,
 "zhuǎn dá",
 "to pass on; to convey; to communicate"
 ],
 [
+"转机",
+7,
+"zhuǎn jī",
+"(to take) a turn for the better; to change planes"
+],
+[
+"转交",
+7,
+"zhuǎn jiāo",
+"to pass on to sb; to carry and give to sb else"
+],
+[
+"转型",
+7,
+"zhuǎn xíng",
+"transformation; to transform"
+],
+[
+"转学",
+7,
+"zhuǎn xué",
+"to change schools; to transfer to another college"
+],
+[
+"转眼",
+7,
+"zhuǎn yǎn",
+"in a flash; in the blink of an eye; to glance"
+],
+[
+"转载",
+7,
+"zhuǎn zǎi",
+"to forward (a shipment); to reprint sth published elsewhere; Taiwan pr. [zhuan3 zai4]"
+],
+[
 "转折",
-6,
+7,
 "zhuǎn zhé",
 "shift in the trend of events; turnaround; plot shift in a book; turn in the conversation"
 ],
 [
-"转让",
-6,
-"zhuǎn ràng",
-"to transfer (ownership, rights etc)"
+"转折点",
+7,
+"zhuǎn zhé diǎn",
+"turning point; breaking point"
 ],
 [
-"周转",
-6,
-"zhōu zhuǎn",
-"to rotate; to circulate (cash, stock etc); turnover; circulation; cash flow"
+"转悠",
+7,
+"zhuàn you",
+"to roll; to wander around; to appear repeatedly"
 ]
 ],
 "extraWords": [
@@ -85,60 +217,6 @@
 147.91,
 "zhuǎn fā",
 "to transmit; to forward (mail, SMS, packets of data); to pass on; to republish (an article from another publication)"
-],
-[
-"转化",
-32.18,
-"zhuǎn huà",
-"to change; to transform; isomerization (chemistry)"
-],
-[
-"转换",
-30.75,
-"zhuǎn huàn",
-"to change; to switch; to convert; to transform"
-],
-[
-"转载",
-30.65,
-"zhuǎn zǎi",
-"to forward (a shipment); to reprint sth published elsewhere; Taiwan pr. [zhuan3 zai4]"
-],
-[
-"转身",
-30.37,
-"zhuǎn shēn",
-"(of a person) to turn round; to face about; (of a widow) to remarry (archaic)"
-],
-[
-"转向",
-25.5,
-"zhuǎn xiàng",
-"to change direction; fig. to change one's stance"
-],
-[
-"转向",
-25.5,
-"zhuàn xiàng",
-"to get lost; to lose one's way"
-],
-[
-"转型",
-21.14,
-"zhuǎn xíng",
-"transformation; to transform"
-],
-[
-"好转",
-20.58,
-"hǎo zhuǎn",
-"to improve; to take a turn for the better; improvement"
-],
-[
-"运转",
-14.85,
-"yùn zhuǎn",
-"to work; to operate; to revolve; to turn around"
 ],
 [
 "转会",
@@ -153,6 +231,12 @@
 "to turn back; to reverse"
 ],
 [
+"转为",
+10.83,
+"???",
+"???"
+],
+[
 "转入",
 10.49,
 "zhuǎn rù",
@@ -163,30 +247,6 @@
 8.64,
 "zhuàn zhuan",
 "to stroll"
-],
-[
-"转动",
-8.44,
-"zhuǎn dòng",
-"to turn sth around; to swivel"
-],
-[
-"转动",
-8.44,
-"zhuàn dòng",
-"to rotate (about an axis); to revolve; to turn; to move in a circle; to gyrate"
-],
-[
-"转播",
-7.72,
-"zhuǎn bō",
-"relay; broadcast (on radio or TV)"
-],
-[
-"转弯",
-7.21,
-"zhuǎn wān",
-"to turn; to go around a corner"
 ],
 [
 "转盘",
@@ -229,18 +289,6 @@
 5.51,
 "zhōng zhuǎn zhàn",
 "transit hub; transport hub; interchange"
-],
-[
-"流转",
-5.47,
-"liú zhuǎn",
-"to be on the move; to roam or wander; to circulate (of goods or capital)"
-],
-[
-"转眼",
-5.45,
-"zhuǎn yǎn",
-"in a flash; in the blink of an eye; to glance"
 ],
 [
 "辗转",

@@ -1,54 +1,108 @@
 {
 "char": "室",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "room, home, house, chamber",
 "pron": "shì"
 },
 "words": [
 [
+"办公室",
+2,
+"bàn gōng shì",
+"office; business premises; bureau; CL:间[jiān]"
+],
+[
 "教室",
 2,
 "jiào shì",
-"classroom; CL:間|间[jian1]"
+"classroom; CL:间[jiān]"
 ],
 [
-"办公室",
+"实验室",
 3,
-"bàn gōng shì",
-"office; business premises; bureau; CL:間|间[jian1]"
+"shí yàn shì",
+"laboratory; CL:间[jiān]"
+],
+[
+"室",
+3,
+"Shì",
+"surname Shi"
+],
+[
+"室",
+3,
+"shì",
+"room; work unit; grave; scabbard; family or clan; one of the 28 constellations of Chinese astronomy"
 ],
 [
 "卧室",
 5,
 "wò shì",
-"bedroom; CL:間|间[jian1]"
+"bedroom; CL:间[jiān]"
+],
+[
+"阅览室",
+5,
+"yuè lǎn shì",
+"reading room; CL:间[jiān]"
+],
+[
+"地下室",
+6,
+"dì xià shì",
+"basement; cellar"
+],
+[
+"更衣室",
+7,
+"gēng yī shì",
+"change room; dressing room; locker room; toilet"
+],
+[
+"皇室",
+7,
+"huáng shì",
+"royal family; imperial household; member of the royal family"
+],
+[
+"寝室",
+7,
+"qǐn shì",
+"bedroom; dormitory; CL:间[jiān]"
+],
+[
+"手术室",
+7,
+"shǒu shù shì",
+"operating room"
+],
+[
+"温室",
+7,
+"wēn shì",
+"greenhouse"
+],
+[
+"演播室",
+7,
+"yǎn bō shì",
+"broadcasting studio"
+],
+[
+"浴室",
+7,
+"yù shì",
+"bathroom (room used for bathing); CL:间[jiān]"
 ]
 ],
 "extraWords": [
-[
-"实验室",
-55.24,
-"shí yàn shì",
-"laboratory; CL:間|间[jian1]"
-],
 [
 "室内",
 31.82,
 "shì nèi",
 "indoor"
-],
-[
-"地下室",
-25.34,
-"dì xià shì",
-"basement; cellar"
-],
-[
-"浴室",
-22.8,
-"yù shì",
-"bathroom (room used for bathing); CL:間|间[jian1]"
 ],
 [
 "室友",
@@ -69,34 +123,22 @@
 "meeting room; conference room"
 ],
 [
-"寝室",
-12.17,
-"qǐn shì",
-"bedroom; dormitory; CL:間|间[jian1]"
-],
-[
-"手术室",
-10.31,
-"shǒu shù shì",
-"operating room"
-],
-[
 "急诊室",
 9.99,
 "jí zhěn shì",
 "emergency room"
 ],
 [
+"入室",
+8.05,
+"???",
+"???"
+],
+[
 "室外",
 7.87,
 "shì wài",
 "outdoor"
-],
-[
-"更衣室",
-7.01,
-"gēng yī shì",
-"change room; dressing room; locker room; toilet"
 ],
 [
 "居室",
@@ -111,12 +153,6 @@
 "lobby; lounge"
 ],
 [
-"演播室",
-6.71,
-"yǎn bō shì",
-"broadcasting studio"
-],
-[
 "科室",
 6.52,
 "kē shì",
@@ -126,25 +162,19 @@
 "储藏室",
 6.44,
 "chǔ cáng shì",
-"storeroom; CL:間|间[jian1]"
+"storeroom; CL:间[jiān]"
 ],
 [
-"皇室",
-6.44,
-"huáng shì",
-"royal family; imperial household; member of the royal family"
+"研究室",
+5.93,
+"???",
+"???"
 ],
 [
 "密室",
 5.48,
 "mì shì",
 "a room for keeping sth hidden; secret room; hidden chamber"
-],
-[
-"温室",
-5.41,
-"wēn shì",
-"greenhouse"
 ],
 [
 "控制室",

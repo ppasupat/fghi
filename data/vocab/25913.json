@@ -1,67 +1,127 @@
 {
 "char": "改",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "change, alter; improve, remodel",
 "pron": "gǎi"
 },
 "words": [
 [
+"改",
+2,
+"gǎi",
+"to change; to alter; to transform; to correct"
+],
+[
 "改变",
-4,
+2,
 "gǎi biàn",
 "to change; to alter; to transform"
 ],
 [
+"改进",
+3,
+"gǎi jìn",
+"to improve; to make better; CL:个[gè]"
+],
+[
+"改造",
+3,
+"gǎi zào",
+"to transform; to reform; to remodel; to remold"
+],
+[
 "修改",
-5,
+3,
 "xiū gǎi",
 "to amend; to alter; to modify"
 ],
 [
-"改进",
-5,
-"gǎi jìn",
-"to improve; to make better; CL:個|个[ge4]"
+"改善",
+4,
+"gǎi shàn",
+"to make better; to improve; CL:个[gè]"
 ],
 [
-"改善",
-5,
-"gǎi shàn",
-"to make better; to improve; CL:個|个[ge4]"
+"改正",
+4,
+"gǎi zhèng",
+"to correct; to amend; to put right; correction; CL:个[gè]"
 ],
 [
 "改革",
 5,
 "gǎi gé",
-"reform; CL:次[ci4],種|种[zhong3],項|项[xiang4]; to reform"
+"reform; CL:次[cì],种[zhǒng],项[xiàng]; to reform"
 ],
 [
-"改正",
-5,
-"gǎi zhèng",
-"to correct; to amend; to put right; correction; CL:個|个[ge4]"
-],
-[
-"改良",
+"改装",
 6,
-"gǎi liáng",
-"to improve (sth); to reform (a system)"
-]
+"gǎi zhuāng",
+"to change one's costume; to repackage; to remodel; to refit; to modify; to convert"
 ],
-"extraWords": [
 [
-"改造",
-90.75,
-"gǎi zào",
-"to transform; to reform; to remodel; to remold"
+"改版",
+7,
+"gǎi bǎn",
+"to revise the current edition; revised edition"
+],
+[
+"改编",
+7,
+"gǎi biān",
+"to adapt; to rearrange; to revise"
+],
+[
+"改动",
+7,
+"gǎi dòng",
+"to alter; to modify; to revise"
 ],
 [
 "改革开放",
-33.41,
+7,
 "gǎi gé kāi fàng",
 "to reform and open to the outside world; refers to Deng Xiaoping's policies from around 1980"
 ],
+[
+"改良",
+7,
+"gǎi liáng",
+"to improve (sth); to reform (a system)"
+],
+[
+"改名",
+7,
+"gǎi míng",
+"to change one's name"
+],
+[
+"改日",
+7,
+"gǎi rì",
+"another day; some other day"
+],
+[
+"改为",
+7,
+"gǎi wéi",
+"to change into"
+],
+[
+"改邪归正",
+7,
+"gǎi xié guī zhèng",
+"to mend one's ways (idiom); to turn over a new leaf"
+],
+[
+"更改",
+7,
+"gēng gǎi",
+"to alter"
+]
+],
+"extraWords": [
 [
 "整改",
 18.97,
@@ -73,30 +133,6 @@
 18.14,
 "gǎi zhì",
 "to reorganize; to restructure"
-],
-[
-"改编",
-11.18,
-"gǎi biān",
-"to adapt; to rearrange; to revise"
-],
-[
-"改装",
-9.67,
-"gǎi zhuāng",
-"to change one's costume; to repackage; to remodel; to refit; to modify; to convert"
-],
-[
-"改名",
-8.07,
-"gǎi míng",
-"to change one's name"
-],
-[
-"更改",
-7.98,
-"gēng gǎi",
-"to alter"
 ],
 [
 "改建",

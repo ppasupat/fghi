@@ -1,6 +1,6 @@
 {
 "char": "证",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "prove, confirm, verify; proof",
 "pron": "zhèng"
@@ -8,69 +8,141 @@
 "words": [
 [
 "保证",
-4,
+3,
 "bǎo zhèng",
-"guarantee; to guarantee; to ensure; to safeguard; to pledge; CL:個|个[ge4]"
+"guarantee; to guarantee; to ensure; to safeguard; to pledge; CL:个[gè]"
 ],
 [
-"证明",
-4,
-"zhèng míng",
-"proof; certificate; identification; testimonial; CL:個|个[ge4]; to prove; to testify; to confirm the truth of"
+"身份证",
+3,
+"shēn fèn zhèng",
+"identity card; ID"
 ],
 [
-"签证",
-4,
-"qiān zhèng",
-"visa; certificate; to certify; CL:個|个[ge4]"
+"证",
+3,
+"zhèng",
+"to admonish; variant of 证[zhèng]"
 ],
 [
-"证据",
-5,
-"zhèng jù",
-"evidence; proof; testimony"
+"证",
+3,
+"zhèng",
+"certificate; proof; to prove; to demonstrate; to confirm; variant of 症[zhèng]"
 ],
 [
 "证件",
-5,
+3,
 "zhèng jiàn",
 "certificate; papers; credentials; document; ID"
 ],
 [
+"证据",
+3,
+"zhèng jù",
+"evidence; proof; testimony"
+],
+[
+"证明",
+3,
+"zhèng míng",
+"proof; certificate; identification; testimonial; CL:个[gè]; to prove; to testify; to confirm the truth of"
+],
+[
+"签证",
+5,
+"qiān zhèng",
+"visa; certificate; to certify; CL:个[gè]"
+],
+[
 "证实",
-6,
+5,
 "zhèng shí",
 "to confirm (sth to be true); to verify"
 ],
 [
 "证书",
-6,
+5,
 "zhèng shū",
 "credentials; certificate"
 ],
 [
-"验证",
-6,
-"yàn zhèng",
-"to inspect and verify; experimental verification; to validate (a theory); to authenticate"
-],
-[
-"论证",
-6,
-"lùn zhèng",
-"to prove a point; to expound on; to demonstrate or prove (through argument); proof"
-],
-[
 "公证",
-6,
+7,
 "gōng zhèng",
 "notarization; notarized; acknowledgement"
 ],
 [
-"辩证",
-6,
-"biàn zhèng",
-"to investigate; dialectical"
+"见证",
+7,
+"jiàn zhèng",
+"to be witness to; witness; evidence"
+],
+[
+"论证",
+7,
+"lùn zhèng",
+"to prove a point; to expound on; to demonstrate or prove (through argument); proof"
+],
+[
+"凭证",
+7,
+"píng zhèng",
+"proof; certificate; receipt; voucher"
+],
+[
+"求证",
+7,
+"qiú zhèng",
+"to seek proof; to seek confirmation"
+],
+[
+"认证",
+7,
+"rèn zhèng",
+"to authenticate; to approve"
+],
+[
+"通行证",
+7,
+"tōng xíng zhèng",
+"a pass (authority to enter); a laissez-passer or safe conduct"
+],
+[
+"物证",
+7,
+"wù zhèng",
+"material evidence"
+],
+[
+"许可证",
+7,
+"xǔ kě zhèng",
+"license; authorization; permit"
+],
+[
+"验证",
+7,
+"yàn zhèng",
+"to inspect and verify; experimental verification; to validate (a theory); to authenticate"
+],
+[
+"印证",
+7,
+"yìn zhèng",
+"to seal; to confirm; to corroborate; to verify"
+],
+[
+"证人",
+7,
+"zhèng rén",
+"witness"
+],
+[
+"做证",
+7,
+"???",
+"???"
 ]
 ],
 "extraWords": [
@@ -81,28 +153,10 @@
 "negotiable security (financial); certificate; stocks and bonds"
 ],
 [
-"证人",
-75.86,
-"zhèng rén",
-"witness"
-],
-[
 "作证",
 31.54,
 "zuò zhèng",
 "to bear witness; to testify"
-],
-[
-"认证",
-31.15,
-"rèn zhèng",
-"to authenticate; to approve"
-],
-[
-"身份证",
-27.7,
-"shēn fèn zhèng",
-"identity card; ID"
 ],
 [
 "权证",
@@ -117,28 +171,22 @@
 "testimony"
 ],
 [
-"许可证",
-19.29,
-"xǔ kě zhèng",
-"license; authorization; permit"
-],
-[
 "证券市场",
 16.39,
 "zhèng quàn shì chǎng",
 "financial market"
 ],
 [
-"见证",
-14.96,
-"jiàn zhèng",
-"to be witness to; witness; evidence"
-],
-[
 "证券公司",
 12.37,
 "zhèng quàn gōng sī",
 "securities company; share company"
+],
+[
+"证券投资",
+12.09,
+"???",
+"???"
 ],
 [
 "听证会",
@@ -153,22 +201,10 @@
 "exhibit (law)"
 ],
 [
-"凭证",
-9.47,
-"píng zhèng",
-"proof; certificate; receipt; voucher"
-],
-[
 "保证金",
 8.72,
 "bǎo zhèng jīn",
 "earnest money; cash deposit; bail; margin (in derivative trading)"
-],
-[
-"通行证",
-8.64,
-"tōng xíng zhèng",
-"a pass (authority to enter); a laissez-passer or safe conduct"
 ],
 [
 "上海证券交易所",
@@ -177,34 +213,16 @@
 "Shanghai Stock Exchange (SSE)"
 ],
 [
-"物证",
-6.35,
-"wù zhèng",
-"material evidence"
-],
-[
 "取证",
 6.15,
 "qǔ zhèng",
 "to collect evidence"
 ],
 [
-"印证",
-5.64,
-"yìn zhèng",
-"to seal; to confirm; to corroborate; to verify"
-],
-[
-"求证",
-5.39,
-"qiú zhèng",
-"to seek proof; to seek confirmation"
-],
-[
 "考证",
 5.21,
 "kǎo zhèng",
-"to do textual research; to make textual criticism; to verify by means of research (esp. historical details); to take an exam to get a certificate (abbr. for 考取證件|考取证件[kao3 qu3 zheng4 jian4])"
+"to do textual research; to make textual criticism; to verify by means of research (esp. historical details); to take an exam to get a certificate (abbr. for 考取证件[kǎo qǔ zhèng jiàn])"
 ]
 ],
 "strokes": [

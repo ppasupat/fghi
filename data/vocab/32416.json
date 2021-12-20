@@ -1,11 +1,17 @@
 {
 "char": "纠",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "investigate, inspect",
 "pron": "jiū"
 },
 "words": [
+[
+"纠纷",
+6,
+"jiū fēn",
+"dispute"
+],
 [
 "纠正",
 6,
@@ -13,10 +19,10 @@
 "to correct; to make right"
 ],
 [
-"纠纷",
-6,
-"jiū fēn",
-"dispute"
+"纠缠",
+7,
+"jiū chán",
+"to be in a tangle; to nag"
 ]
 ],
 "extraWords": [
@@ -25,12 +31,6 @@
 29.15,
 "jiū jié",
 "to intertwine; to band together (with); to link up (with); twisted; tangled; confused; to be at a loss"
-],
-[
-"纠缠",
-9.97,
-"jiū chán",
-"to be in a tangle; to nag"
 ]
 ],
 "strokes": [

@@ -1,28 +1,46 @@
 {
 "char": "午",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "noon; 7th terrestrial branch",
 "pron": "wǔ"
 },
 "words": [
 [
+"上午",
+1,
+"shàng wǔ",
+"morning; CL:个[gè]"
+],
+[
+"午饭",
+1,
+"wǔ fàn",
+"lunch; CL:份[fèn],顿[dùn],次[cì],餐[cān]"
+],
+[
 "下午",
 1,
 "xià wǔ",
-"afternoon; CL:個|个[ge4]; p.m."
+"afternoon; CL:个[gè]; p.m."
 ],
 [
 "中午",
 1,
 "zhōng wǔ",
-"noon; midday; CL:個|个[ge4]"
+"noon; midday; CL:个[gè]"
 ],
 [
-"上午",
-1,
-"shàng wǔ",
-"morning; CL:個|个[ge4]"
+"午餐",
+2,
+"wǔ cān",
+"lunch; luncheon; CL:份[fèn],顿[dùn],次[cì]"
+],
+[
+"午睡",
+2,
+"wǔ shuì",
+"to take a nap; siesta"
 ],
 [
 "端午节",
@@ -33,22 +51,16 @@
 ],
 "extraWords": [
 [
-"午餐",
-42.3,
-"wǔ cān",
-"lunch; luncheon; CL:份[fen4],頓|顿[dun4],次[ci4]"
-],
-[
-"午饭",
-42.27,
-"wǔ fàn",
-"lunch; CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
-],
-[
 "午夜",
 21.76,
 "wǔ yè",
 "midnight"
+],
+[
+"午",
+8.4,
+"wǔ",
+"7th earthly branch: 11 a.m.-1 p.m., noon, 5th solar month (6th June-6th July), year of the Horse; ancient Chinese compass point: 180° (south)"
 ],
 [
 "午后",

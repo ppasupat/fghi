@@ -1,96 +1,162 @@
 {
 "char": "内",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "inside",
 "pron": "nèi"
 },
 "words": [
 [
+"国内",
+3,
+"guó nèi",
+"domestic; internal (to a country); civil"
+],
+[
 "内",
-4,
+3,
 "nèi",
 "inside; inner; internal; within; interior"
 ],
 [
 "内容",
-4,
+3,
 "nèi róng",
-"content; substance; details; CL:個|个[ge4],項|项[xiang4]"
+"content; substance; details; CL:个[gè],项[xiàng]"
+],
+[
+"内心",
+3,
+"nèi xīn",
+"heart; innermost being; (math.) incenter"
 ],
 [
 "内部",
-5,
+4,
 "nèi bù",
 "interior; inside (part, section); internal"
 ],
 [
 "内科",
-5,
+4,
 "nèi kē",
 "internal medicine; general medicine"
 ],
 [
+"以内",
+4,
+"yǐ nèi",
+"within; less than"
+],
+[
 "内在",
-6,
+5,
 "nèi zài",
 "inner; internal; intrinsic; innate"
 ],
 [
-"内幕",
-6,
-"nèi mù",
-"inside story; non-public information; behind the scenes; internal"
+"在内",
+5,
+"zài nèi",
+"(included) in it; among them"
 ],
 [
-"内涵",
-6,
-"nèi hán",
-"meaningful content; implication; connotation (semantics); inner qualities (of a person)"
-]
-],
-"extraWords": [
-[
-"国内",
-264.06,
-"guó nèi",
-"domestic; internal (to a country); civil"
-],
-[
-"内心",
-61.01,
-"nèi xīn",
-"heart; innermost being; (math.) incenter"
+"之内",
+5,
+"zhī nèi",
+"inside; within"
 ],
 [
 "内地",
-58.29,
+6,
 "Nèi dì",
 "mainland China (PRC excluding Hong Kong and Macau, but including islands such as Hainan); Japan (used in Taiwan during Japanese colonization)"
 ],
 [
 "内地",
-58.29,
+6,
 "nèi dì",
 "inland; interior; hinterland"
 ],
 [
-"在内",
-46.26,
-"zài nèi",
-"(included) in it; among them"
+"内外",
+6,
+"nèi wài",
+"inside and outside; domestic and foreign; approximately; about"
+],
+[
+"内衣",
+6,
+"nèi yī",
+"undergarment; underwear; CL:件[jiàn]"
+],
+[
+"海内外",
+7,
+"hǎi nèi wài",
+"domestic and international; at home and abroad"
+],
+[
+"境内",
+7,
+"jìng nèi",
+"within the borders; internal (to a country, province, city etc); domestic"
+],
+[
+"内存",
+7,
+"nèi cún",
+"internal storage; computer memory; random access memory (RAM)"
+],
+[
+"内阁",
+7,
+"nèi gé",
+"(government) cabinet"
+],
+[
+"内涵",
+7,
+"nèi hán",
+"meaningful content; implication; connotation (semantics); inner qualities (of a person)"
+],
+[
+"内行",
+7,
+"nèi háng",
+"expert; adept; experienced; an expert; a professional"
+],
+[
+"内幕",
+7,
+"nèi mù",
+"inside story; non-public information; behind the scenes; internal"
+],
+[
+"内向",
+7,
+"nèi xiàng",
+"reserved (personality); introverted; (economics etc) domestic-oriented"
+],
+[
+"内需",
+7,
+"nèi xū",
+"domestic demand"
+]
+],
+"extraWords": [
+[
+"业内",
+47.42,
+"???",
+"???"
 ],
 [
 "国内外",
 35.18,
 "guó nèi wài",
 "domestic and international; at home and abroad"
-],
-[
-"境内",
-33.37,
-"jìng nèi",
-"within the borders; internal (to a country, province, city etc); domestic"
 ],
 [
 "体内",
@@ -105,40 +171,10 @@
 "indoor"
 ],
 [
-"之内",
-31.03,
-"zhī nèi",
-"inside; within"
-],
-[
 "内裤",
 25.84,
 "nèi kù",
 "underpants; panties; briefs"
-],
-[
-"内外",
-25.38,
-"nèi wài",
-"inside and outside; domestic and foreign; approximately; about"
-],
-[
-"内存",
-23.87,
-"nèi cún",
-"internal storage; computer memory; random access memory (RAM)"
-],
-[
-"内衣",
-18.98,
-"nèi yī",
-"undergarment; underwear; CL:件[jian4]"
-],
-[
-"以内",
-18.67,
-"yǐ nèi",
-"within; less than"
 ],
 [
 "党内",
@@ -150,19 +186,13 @@
 "内蒙古",
 15.76,
 "Nèi měng gǔ",
-"Inner Mongolia; abbr. for 內蒙古自治區|内蒙古自治区[Nei4 meng3 gu3 Zi4 zhi4 qu1], Inner Mongolia autonomous region"
+"Inner Mongolia; abbr. for 内蒙古自治区[Nèi měng gǔ Zì zhì qū], Inner Mongolia autonomous region"
 ],
 [
 "内疚",
 14.31,
 "nèi jiù",
 "guilty conscience; to feel a twinge of guilt"
-],
-[
-"内阁",
-13.49,
-"nèi gé",
-"(government) cabinet"
 ],
 [
 "内皮",
@@ -177,10 +207,16 @@
 "inside the city"
 ],
 [
-"海内外",
-8.13,
-"hǎi nèi wài",
-"domestic and international; at home and abroad"
+"岛内",
+7.88,
+"???",
+"???"
+],
+[
+"内线",
+7.11,
+"???",
+"???"
 ],
 [
 "内分泌",
@@ -201,12 +237,6 @@
 "Venezuela"
 ],
 [
-"内向",
-6.37,
-"nèi xiàng",
-"reserved (personality); introverted; (economics etc) domestic-oriented"
-],
-[
 "国内生产总值",
 6.24,
 "guó nèi shēng chǎn zǒng zhí",
@@ -217,6 +247,12 @@
 5.71,
 "bái nèi zhàng",
 "cataract (ophthalmology)"
+],
+[
+"内侧",
+5.4,
+"???",
+"???"
 ],
 [
 "内政",

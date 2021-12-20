@@ -1,6 +1,6 @@
 {
 "char": "益",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "profit, benefit; advantage",
 "pron": "yì"
@@ -8,47 +8,83 @@
 "words": [
 [
 "利益",
-5,
+4,
 "lì yì",
-"benefit; (in sb's) interest; CL:個|个[ge4]"
+"benefit; (in sb's) interest; CL:个[gè]"
 ],
 [
 "收益",
-6,
+4,
 "shōu yì",
 "earnings; profit"
 ],
 [
-"日益",
-6,
-"rì yì",
-"day by day; more and more; increasingly; more and more with each passing day"
+"得益于",
+7,
+"dé yì yú",
+"to benefit from; thanks to"
 ],
 [
-"效益",
-6,
-"xiào yì",
-"benefit; effectiveness; efficiency"
+"公益",
+7,
+"gōng yì",
+"public good; public welfare"
+],
+[
+"公益性",
+7,
+"???",
+"???"
 ],
 [
 "精益求精",
-6,
+7,
 "jīng yì qiú jīng",
 "to perfect sth that is already outstanding (idiom); constantly improving"
-]
 ],
-"extraWords": [
 [
 "权益",
-45.04,
+7,
 "quán yì",
 "rights; interests; rights and benefits"
 ],
 [
-"公益",
-26.34,
-"gōng yì",
-"public good; public welfare"
+"日益",
+7,
+"rì yì",
+"day by day; more and more; increasingly; more and more with each passing day"
+],
+[
+"受益",
+7,
+"shòu yì",
+"to benefit from; profit"
+],
+[
+"效益",
+7,
+"xiào yì",
+"benefit; effectiveness; efficiency"
+],
+[
+"益处",
+7,
+"yì chu",
+"benefit"
+],
+[
+"有益",
+7,
+"yǒu yì",
+"useful; beneficial; profitable"
+]
+],
+"extraWords": [
+[
+"经济效益",
+25.93,
+"???",
+"???"
 ],
 [
 "收益率",
@@ -57,22 +93,16 @@
 "earnings rate; earnings yield (finance)"
 ],
 [
-"受益",
-14.98,
-"shòu yì",
-"to benefit from; profit"
+"益",
+16.91,
+"Yì",
+"surname Yi"
 ],
 [
-"有益",
-13.98,
-"yǒu yì",
-"useful; beneficial; profitable"
-],
-[
-"得益于",
-6.65,
-"dé yì yú",
-"to benefit from; thanks to"
+"益",
+16.91,
+"yì",
+"benefit; profit; advantage; beneficial; to increase; to add; all the more"
 ]
 ],
 "strokes": [

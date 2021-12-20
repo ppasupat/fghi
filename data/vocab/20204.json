@@ -1,11 +1,35 @@
 {
 "char": "们",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "adjunct pronoun indicate plural",
 "pron": "mén, men"
 },
 "words": [
+[
+"们",
+1,
+"men",
+"plural marker for pronouns, and nouns referring to individuals"
+],
+[
+"你们",
+1,
+"nǐ men",
+"you (plural)"
+],
+[
+"他们",
+1,
+"tā men",
+"they"
+],
+[
+"她们",
+1,
+"tā men",
+"they; them (for females)"
+],
 [
 "我们",
 1,
@@ -13,43 +37,25 @@
 "we; us; ourselves; our"
 ],
 [
+"人们",
+2,
+"rén men",
+"people"
+],
+[
+"它们",
+2,
+"tā men",
+"they (for inanimate objects)"
+],
+[
 "咱们",
-4,
+2,
 "zán men",
 "we or us (including both the speaker and the person(s) spoken to); (dialect) I or me; (dialect) (in a coaxing or familiar way) you; also pr. [za2 men5]"
 ]
 ],
 "extraWords": [
-[
-"他们",
-4187.02,
-"tā men",
-"they"
-],
-[
-"你们",
-3366.85,
-"nǐ men",
-"you (plural)"
-],
-[
-"它们",
-296.1,
-"tā men",
-"they (for inanimate objects)"
-],
-[
-"她们",
-265.66,
-"tā men",
-"they; them (for females)"
-],
-[
-"人们",
-238.18,
-"rén men",
-"people"
-],
 [
 "哥们",
 70.23,
@@ -63,10 +69,106 @@
 "children"
 ],
 [
+"朋友们",
+32.79,
+"???",
+"???"
+],
+[
 "哥们儿",
 25.19,
 "gē men r5",
-"erhua variant of 哥們|哥们[ge1 men5]"
+"erhua variant of 哥们[gē men]"
+],
+[
+"同学们",
+20.88,
+"???",
+"???"
+],
+[
+"同志们",
+13.86,
+"???",
+"???"
+],
+[
+"队员们",
+13.56,
+"???",
+"???"
+],
+[
+"学生们",
+11.24,
+"???",
+"???"
+],
+[
+"专家们",
+8.95,
+"???",
+"???"
+],
+[
+"工人们",
+8.31,
+"???",
+"???"
+],
+[
+"粉丝们",
+8.08,
+"???",
+"???"
+],
+[
+"代表们",
+7.52,
+"???",
+"???"
+],
+[
+"姐妹们",
+7.35,
+"???",
+"???"
+],
+[
+"兄弟们",
+6.49,
+"???",
+"???"
+],
+[
+"村民们",
+6.32,
+"???",
+"???"
+],
+[
+"战士们",
+5.88,
+"???",
+"???"
+],
+[
+"记者们",
+5.62,
+"???",
+"???"
+],
+[
+"姑娘们",
+5.45,
+"???",
+"???"
+],
+[
+"家长们",
+5.18,
+"???",
+"???"
 ]
 ],
 "strokes": [

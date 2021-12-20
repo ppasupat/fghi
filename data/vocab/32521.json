@@ -1,6 +1,6 @@
 {
 "char": "缉",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "to sew in close stitches",
 "pron": "jī, qī"
@@ -8,7 +8,7 @@
 "words": [
 [
 "通缉",
-6,
+7,
 "tōng jī",
 "to order the arrest of sb as criminal; to list as wanted"
 ]
@@ -19,6 +19,12 @@
 5.51,
 "jī dú",
 "to counter narcotics trafficking; drug enforcement"
+],
+[
+"通缉令",
+2.27,
+"tōng jī lìng",
+"order for arrest; wanted circular; wanted poster"
 ]
 ],
 "strokes": [

@@ -1,12 +1,31 @@
 {
 "char": "蜕",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "molt",
 "pron": "tuì"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"蜕变",
+3.31,
+"tuì biàn",
+"to transform; to morph; to degenerate; metamorphosis; transmutation; transformation; decay; degeneration"
+],
+[
+"蜕",
+1.83,
+"tuì",
+"skin cast off during molting; exuvia; to pupate; to molt; to slough; to cast off an old skin or shell"
+],
+[
+"蜕膜",
+0.33,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 139 505 Q 129 511 93 516 Q 81 519 79 514 Q 73 507 81 493 Q 108 442 126 360 Q 129 335 144 318 Q 162 299 166 313 Q 170 325 169 345 L 164 374 Q 151 450 147 476 C 143 503 143 503 139 505 Z",
 "M 367 413 Q 388 479 416 502 Q 429 518 417 533 Q 354 578 300 551 Q 287 547 274 540 L 230 526 Q 184 514 139 505 C 110 499 118 468 147 476 Q 154 477 166 482 Q 197 491 230 497 L 274 508 Q 290 512 310 517 Q 328 523 336 515 Q 346 505 325 413 C 318 384 358 385 367 413 Z",

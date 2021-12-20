@@ -1,12 +1,31 @@
 {
 "char": "唁",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "express condolence",
 "pron": "yàn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"吊唁",
+1.44,
+"diào yàn",
+"to offer condolences (for the deceased); to condole"
+],
+[
+"吊唁",
+1.44,
+"diào yàn",
+"variant of 吊唁[diào yàn]"
+],
+[
+"唁电",
+0.55,
+"yàn diàn",
+"a telegram of condolence"
+]
+],
 "strokes": [
 "M 114 533 Q 104 539 74 545 Q 62 548 59 543 Q 52 537 60 522 Q 91 450 107 334 Q 110 300 129 275 Q 145 254 151 269 Q 158 290 153 326 L 148 359 Q 129 473 125 506 C 122 529 122 529 114 533 Z",
 "M 292 391 Q 305 487 331 518 Q 352 543 329 557 Q 310 567 282 583 Q 258 595 219 566 Q 159 545 114 533 C 85 525 96 499 125 506 Q 132 507 144 511 Q 186 523 222 531 Q 247 538 253 528 Q 262 522 242 390 C 238 360 288 361 292 391 Z",

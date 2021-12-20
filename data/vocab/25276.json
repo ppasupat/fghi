@@ -1,6 +1,6 @@
 {
 "char": "押",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "mortgage, pledge; deposit; to pawn; to arrest, detain, guard",
 "pron": "yā"
@@ -11,15 +11,27 @@
 5,
 "yā jīn",
 "deposit; down payment"
-]
 ],
-"extraWords": [
 [
 "抵押",
-17.25,
+7,
 "dǐ yā",
 "to provide (an asset) as security for a loan; to put up collateral"
 ],
+[
+"扣押",
+7,
+"kòu yā",
+"to detain; to hold in custody; to distrain; to seize property"
+],
+[
+"押",
+7,
+"yā",
+"to mortgage; to pawn; to detain in custody; to escort and protect; (literary) to sign"
+]
+],
+"extraWords": [
 [
 "关押",
 6.5,

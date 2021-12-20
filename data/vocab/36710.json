@@ -1,14 +1,92 @@
 {
 "char": "车",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "cart, vehicle; carry in cart",
 "pron": "chē, jū"
 },
 "words": [
 [
-"出租车",
+"车",
 1,
+"Chē",
+"surname Che"
+],
+[
+"车",
+1,
+"chē",
+"car; vehicle; CL:辆[liàng]; machine; to shape with a lathe; Kangxi radical 159"
+],
+[
+"车",
+1,
+"jū",
+"war chariot (archaic); rook (in Chinese chess); rook (in chess)"
+],
+[
+"车票",
+1,
+"chē piào",
+"ticket (for a bus or train)"
+],
+[
+"车上",
+1,
+"???",
+"???"
+],
+[
+"车站",
+1,
+"chē zhàn",
+"rail station; bus stop; CL:处[chù],个[gè]"
+],
+[
+"打车",
+1,
+"dǎ chē",
+"to take a taxi (in town); to hitch a lift"
+],
+[
+"火车",
+1,
+"huǒ chē",
+"train; CL:列[liè],节[jié],班[bān],趟[tàng]"
+],
+[
+"开车",
+1,
+"kāi chē",
+"to drive a car"
+],
+[
+"汽车",
+1,
+"qì chē",
+"car; automobile; bus; CL:辆[liàng]"
+],
+[
+"上车",
+1,
+"shàng chē",
+"to get on or into (a bus, train, car etc)"
+],
+[
+"下车",
+1,
+"xià chē",
+"to get off or out of (a bus, train, car etc)"
+],
+[
+"车辆",
+2,
+"chē liàng",
+"vehicle"
+],
+[
+"出租车",
+2,
 "chū zū chē",
 "taxi; (Tw) rental car"
 ],
@@ -16,19 +94,55 @@
 "公共汽车",
 2,
 "gōng gòng qì chē",
-"bus; CL:輛|辆[liang4],班[ban1]"
+"bus; CL:辆[liàng],班[bān]"
 ],
 [
-"火车站",
+"公交车",
 2,
-"huǒ chē zhàn",
-"train station"
+"gōng jiāo chē",
+"public transport vehicle; town bus; CL:辆[liàng]"
+],
+[
+"骑车",
+2,
+"qí chē",
+"to ride a bike (motorbike or bicycle)"
+],
+[
+"停车",
+2,
+"tíng chē",
+"to pull up (stop one's vehicle); to park; (of a machine) to stop working; to stall"
+],
+[
+"停车场",
+2,
+"tíng chē chǎng",
+"parking lot; car park"
 ],
 [
 "自行车",
-3,
+2,
 "zì xíng chē",
-"bicycle; bike; CL:輛|辆[liang4]"
+"bicycle; bike; CL:辆[liàng]"
+],
+[
+"倒车",
+4,
+"dǎo chē",
+"to change buses, trains etc"
+],
+[
+"倒车",
+4,
+"dào chē",
+"to reverse (a vehicle); to drive backwards"
+],
+[
+"电动车",
+4,
+"???",
+"???"
 ],
 [
 "堵车",
@@ -37,91 +151,247 @@
 "traffic jam; (of traffic) to get congested"
 ],
 [
-"卡车",
-5,
-"kǎ chē",
-"truck; CL:輛|辆[liang4]"
-],
-[
-"救护车",
-5,
-"jiù hù chē",
-"ambulance; CL:輛|辆[liang4]"
-],
-[
-"车库",
-5,
-"chē kù",
-"garage"
-],
-[
-"摩托车",
-5,
-"mó tuō chē",
-"motorbike; motorcycle (loanword); CL:輛|辆[liang4],部[bu4]"
-],
-[
 "列车",
-5,
+4,
 "liè chē",
 "(railway) train"
 ],
 [
-"车厢",
+"车主",
 5,
-"chē xiāng",
-"carriage; CL:節|节[jie2]"
+"chē zhǔ",
+"vehicle owner"
 ],
 [
-"刹车",
+"乘车",
+5,
+"chéng chē",
+"to ride (in a car or carriage); to drive; to motor"
+],
+[
+"车号",
 6,
-"shā chē",
-"to brake (when driving); to stop; to switch off; to check (bad habits); a brake"
-]
-],
-"extraWords": [
-[
-"汽车",
-215.92,
-"qì chē",
-"car; automobile; bus; CL:輛|辆[liang4]"
+"chē hào",
+"vehicle number (license plate number, taxi number, bus number, train car number)"
 ],
 [
-"车辆",
-77.98,
-"chē liàng",
-"vehicle"
+"车牌",
+6,
+"chē pái",
+"license plate"
 ],
 [
-"开车",
-56.28,
-"kāi chē",
-"to drive a car"
+"车展",
+6,
+"chē zhǎn",
+"motor show"
 ],
 [
-"停车",
-47.19,
-"tíng chē",
-"to pull up (stop one's vehicle); to park; (of a machine) to stop working; to stall"
+"电车",
+6,
+"diàn chē",
+"trolleybus; CL:辆[liàng]"
 ],
 [
-"火车",
-45.7,
-"huǒ chē",
-"train; CL:列[lie4],節|节[jie2],班[ban1],趟[tang4]"
+"机动车",
+6,
+"jī dòng chē",
+"motor vehicle"
 ],
 [
-"轿车",
-42.43,
-"jiào chē",
-"enclosed carriage for carrying passengers; motor carriage; car or bus; limousine; CL:部[bu4],輛|辆[liang4]"
+"开夜车",
+6,
+"kāi yè chē",
+"to burn the midnight oil; to work late into the night"
+],
+[
+"客车",
+6,
+"kè chē",
+"coach; bus; passenger train"
+],
+[
+"快车",
+6,
+"kuài chē",
+"express (train, bus etc)"
+],
+[
+"马车",
+6,
+"mǎ chē",
+"cart; chariot; carriage; buggy"
+],
+[
+"慢车",
+6,
+"màn chē",
+"local bus or train; slow train with many stops"
+],
+[
+"修车",
+6,
+"xiū chē",
+"to repair a bike (car etc)"
+],
+[
+"晕车",
+6,
+"yùn chē",
+"to be carsick"
+],
+[
+"超车",
+7,
+"chāo chē",
+"to overtake (another car)"
+],
+[
+"车道",
+7,
+"chē dào",
+"traffic lane; driveway"
+],
+[
+"车祸",
+7,
+"chē huò",
+"traffic accident; car crash; CL:场[cháng]"
+],
+[
+"车间",
+7,
+"chē jiān",
+"workshop; CL:个[gè]"
+],
+[
+"车轮",
+7,
+"chē lún",
+"wheel"
+],
+[
+"车速",
+7,
+"chē sù",
+"vehicle speed"
+],
+[
+"车位",
+7,
+"chē wèi",
+"parking spot; unloading point; garage place; stand for taxi"
+],
+[
+"车厢",
+7,
+"chē xiāng",
+"carriage; CL:节[jié]"
 ],
 [
 "车型",
-34.79,
+7,
 "chē xíng",
 "vehicle model (i.e. particular version of a car or motorcycle etc)"
 ],
+[
+"车轴",
+7,
+"chē zhóu",
+"axle; CL:根[gēn]"
+],
+[
+"二手车",
+7,
+"èr shǒu chē",
+"second-hand car"
+],
+[
+"公车",
+7,
+"gōng chē",
+"bus; abbr. for 公共汽车[gōng gòng qì chē]; car belonging to an organization and used by its members (government car, police car, company car etc); abbr. for 公务用车[gōng wù yòng chē]"
+],
+[
+"货车",
+7,
+"huò chē",
+"truck; van; freight wagon"
+],
+[
+"驾车",
+7,
+"jià chē",
+"to drive a vehicle"
+],
+[
+"轿车",
+7,
+"jiào chē",
+"enclosed carriage for carrying passengers; motor carriage; car or bus; limousine; CL:部[bù],辆[liàng]"
+],
+[
+"警车",
+7,
+"jǐng chē",
+"police car"
+],
+[
+"救护车",
+7,
+"jiù hù chē",
+"ambulance; CL:辆[liàng]"
+],
+[
+"卡车",
+7,
+"kǎ chē",
+"truck; CL:辆[liàng]"
+],
+[
+"缆车",
+7,
+"lǎn chē",
+"cable car"
+],
+[
+"跑车",
+7,
+"pǎo chē",
+"racing bicycle; sporting bicycle; sports car; logging truck; on the job (of a train conductor)"
+],
+[
+"赛车",
+7,
+"sài chē",
+"auto race; cycle race; race car"
+],
+[
+"刹车",
+7,
+"shā chē",
+"to brake (when driving); to stop; to switch off; to check (bad habits); a brake"
+],
+[
+"私家车",
+7,
+"sī jiā chē",
+"private car"
+],
+[
+"停车位",
+7,
+"tíng chē wèi",
+"parking space; parking spot"
+],
+[
+"通车",
+7,
+"tōng chē",
+"to open to traffic (e.g. new bridge, rail line etc); (of a locality) to have a transportation service; (Tw) to commute"
+]
+],
+"extraWords": [
 [
 "车子",
 32.73,
@@ -129,82 +399,28 @@
 "car or other vehicle (bicycle, truck etc)"
 ],
 [
-"车祸",
-30.7,
-"chē huò",
-"traffic accident; car crash; CL:場|场[chang2]"
-],
-[
-"停车场",
-25.58,
-"tíng chē chǎng",
-"parking lot; car park"
+"摩托车",
+26.88,
+"mó tuō chē",
+"motorbike; motorcycle (loanword); CL:辆[liàng],部[bù]"
 ],
 [
 "车队",
 24.31,
 "chē duì",
-"motorcade; fleet; CL:列[lie4]"
+"motorcade; fleet; CL:列[liè]"
 ],
 [
-"赛车",
-23.19,
-"sài chē",
-"auto race; cycle race; race car"
+"车手",
+20.85,
+"???",
+"???"
 ],
 [
-"车间",
-22.91,
-"chē jiān",
-"workshop; CL:個|个[ge4]"
-],
-[
-"车站",
-21.29,
-"chē zhàn",
-"rail station; bus stop; CL:處|处[chu4],個|个[ge4]"
-],
-[
-"车主",
-20.99,
-"chē zhǔ",
-"vehicle owner"
-],
-[
-"机动车",
-20.65,
-"jī dòng chē",
-"motor vehicle"
-],
-[
-"货车",
-19.71,
-"huò chē",
-"truck; van; freight wagon"
-],
-[
-"下车",
-18.85,
-"xià chē",
-"to get off or out of (a bus, train, car etc)"
-],
-[
-"客车",
-17.77,
-"kè chē",
-"coach; bus; passenger train"
-],
-[
-"车展",
-17.34,
-"chē zhǎn",
-"motor show"
-],
-[
-"上车",
-16.6,
-"shàng chē",
-"to get on or into (a bus, train, car etc)"
+"车库",
+15.98,
+"chē kù",
+"garage"
 ],
 [
 "校车",
@@ -213,64 +429,22 @@
 "school bus"
 ],
 [
-"驾车",
-14.49,
-"jià chē",
-"to drive a vehicle"
-],
-[
-"公车",
-13.32,
-"gōng chē",
-"bus; abbr. for 公共汽車|公共汽车[gong1 gong4 qi4 che1]; car belonging to an organization and used by its members (government car, police car, company car etc); abbr. for 公務用車|公务用车[gong1 wu4 yong4 che1]"
-],
-[
 "车身",
 12.54,
 "chē shēn",
 "body of automobile"
 ],
 [
+"火车站",
+12.02,
+"huǒ chē zhàn",
+"train station"
+],
+[
 "拖车",
 11.89,
 "tuō chē",
 "to tow; towed vehicle; towing vehicle"
-],
-[
-"车票",
-11.65,
-"chē piào",
-"ticket (for a bus or train)"
-],
-[
-"马车",
-11.54,
-"mǎ chē",
-"cart; chariot; carriage; buggy"
-],
-[
-"通车",
-11.52,
-"tōng chē",
-"to open to traffic (e.g. new bridge, rail line etc); (of a locality) to have a transportation service; (Tw) to commute"
-],
-[
-"车牌",
-10.73,
-"chē pái",
-"license plate"
-],
-[
-"警车",
-10.05,
-"jǐng chē",
-"police car"
-],
-[
-"乘车",
-9.76,
-"chéng chē",
-"to ride (in a car or carriage); to drive; to motor"
 ],
 [
 "行车",
@@ -283,12 +457,6 @@
 9.04,
 "chē mén",
 "car door; door of bus, railway carriage etc"
-],
-[
-"跑车",
-8.45,
-"pǎo chē",
-"racing bicycle; sporting bicycle; sports car; logging truck; on the job (of a train conductor)"
 ],
 [
 "火车票",
@@ -321,12 +489,6 @@
 "pedicab; tricycle"
 ],
 [
-"车道",
-6.68,
-"chē dào",
-"traffic lane; driveway"
-],
-[
 "小车",
 6.56,
 "xiǎo chē",
@@ -337,12 +499,6 @@
 6.38,
 "dān chē",
 "(coll.) bike; bicycle (esp. bike-share bicycle)"
-],
-[
-"骑车",
-6.38,
-"qí chē",
-"to ride a bike (motorbike or bicycle)"
 ],
 [
 "班车",
@@ -363,24 +519,6 @@
 "departure (of a coach or train); to dispatch a vehicle"
 ],
 [
-"车速",
-5.77,
-"chē sù",
-"vehicle speed"
-],
-[
-"车轮",
-5.69,
-"chē lún",
-"wheel"
-],
-[
-"二手车",
-5.39,
-"èr shǒu chē",
-"second-hand car"
-],
-[
 "机车",
 5.32,
 "jī chē",
@@ -393,10 +531,10 @@
 "to hitchhike"
 ],
 [
-"车位",
-5.29,
-"chē wèi",
-"parking spot; unloading point; garage place; stand for taxi"
+"车头",
+5.06,
+"???",
+"???"
 ]
 ],
 "strokes": [

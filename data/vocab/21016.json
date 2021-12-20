@@ -1,6 +1,6 @@
 {
 "char": "刘",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "surname; kill, destroy",
 "pron": "liú"
@@ -8,10 +8,28 @@
 "words": [],
 "extraWords": [
 [
+"刘",
+46.61,
+"Liú",
+"surname Liu"
+],
+[
+"刘",
+46.61,
+"liú",
+"(classical) a type of battle-ax; to kill; to slaughter"
+],
+[
 "刘翔",
 18.61,
 "Liú Xiáng",
 "Liu Xiang (1983-), Chinese gold-medal hurdler of the 2004 Olympic Games"
+],
+[
+"刘某",
+9.56,
+"???",
+"???"
 ],
 [
 "刘少奇",
@@ -30,6 +48,24 @@
 7.8,
 "Liú Dé huá",
 "Andy Lau (1961-), Hong Kong Cantopop singer and actor"
+],
+[
+"刘先生",
+7.43,
+"???",
+"???"
+],
+[
+"刘忻",
+7.07,
+"???",
+"???"
+],
+[
+"刘易斯",
+6.02,
+"???",
+"???"
 ],
 [
 "刘备",

@@ -1,34 +1,64 @@
 {
 "char": "联",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "connect, join; associate, ally",
 "pron": "lián"
 },
 "words": [
 [
-"联系",
-4,
-"lián xì",
-"variant of 聯繫|联系[lian2 xi4]"
-],
-[
-"联系",
-4,
-"lián xì",
-"connection; contact; relation; to get in touch with; to integrate; to link; to touch"
-],
-[
 "互联网",
-4,
+3,
 "Hù lián wǎng",
 "Internet"
 ],
 [
 "联合",
-5,
+3,
 "lián hé",
 "to combine; to join; unite; alliance"
+],
+[
+"联合国",
+3,
+"Lián hé guó",
+"United Nations"
+],
+[
+"联系",
+3,
+"lián xì",
+"variant of 联系[lián xì]"
+],
+[
+"联系",
+3,
+"lián xì",
+"connection; contact; relation; to get in touch with; to integrate; to link; to touch"
+],
+[
+"联络",
+5,
+"lián luò",
+"to get in touch with; to contact; to stay in contact (with); liaison; (math.) connection"
+],
+[
+"联想",
+5,
+"Lián xiǎng",
+"abbr. for 联想集团[Lián xiǎng Jí tuán]"
+],
+[
+"联想",
+5,
+"lián xiǎng",
+"to associate (cognitively); to make an associative connection; mental association; word prediction and auto-complete functions of input method editing programs"
+],
+[
+"关联",
+6,
+"guān lián",
+"related; linked; affiliated"
 ],
 [
 "联盟",
@@ -37,60 +67,54 @@
 "alliance; union; coalition"
 ],
 [
-"联络",
-6,
-"lián luò",
-"to get in touch with; to contact; to stay in contact (with); liaison; (math.) connection"
-],
-[
-"联想",
-6,
-"Lián xiǎng",
-"abbr. for 聯想集團|联想集团[Lian2 xiang3 Ji2 tuan2]"
-],
-[
-"联想",
-6,
-"lián xiǎng",
-"to associate (cognitively); to make an associative connection; mental association; word prediction and auto-complete functions of input method editing programs"
-],
-[
-"联欢",
-6,
-"lián huān",
-"to have a get-together; celebration; party"
-],
-[
-"对联",
-6,
-"duì lián",
-"rhyming couplet; pair of lines of verse written vertically down the sides of a doorway; CL:副[fu4],幅[fu2]"
-]
-],
-"extraWords": [
-[
 "联赛",
-82.75,
+6,
 "lián sài",
 "(sports) league; league tournament"
 ],
 [
+"联手",
+6,
+"lián shǒu",
+"lit. to join hands; to act together"
+],
+[
+"对联",
+7,
+"duì lián",
+"rhyming couplet; pair of lines of verse written vertically down the sides of a doorway; CL:副[fù],幅[fú]"
+],
+[
 "联邦",
-67.4,
+7,
 "lián bāng",
 "federal; federation; commonwealth; federal union; federal state; union"
 ],
 [
-"联合国",
-63.05,
-"Lián hé guó",
-"United Nations"
+"联欢",
+7,
+"lián huān",
+"to have a get-together; celebration; party"
+],
+[
+"联网",
+7,
+"lián wǎng",
+"network; cyber-"
+]
+],
+"extraWords": [
+[
+"联",
+122.57,
+"lián",
+"to ally; to unite; to join; (poetry) antithetical couplet"
 ],
 [
 "苏联",
 51.79,
 "Sū lián",
-"Soviet Union, 1922-1991; abbr. for Union of Soviet Socialist Republics (USSR) 蘇維埃社會主義共和國聯盟|苏维埃社会主义共和国联盟[Su1 wei2 ai1 She4 hui4 zhu3 yi4 Gong4 he2 guo2 Lian2 meng2]"
+"Soviet Union, 1922-1991; abbr. for Union of Soviet Socialist Republics (USSR) 苏维埃社会主义共和国联盟[Sū wéi āi Shè huì zhǔ yì Gòng hé guó Lián méng]"
 ],
 [
 "联通",
@@ -105,18 +129,6 @@
 "connection; link; to link together"
 ],
 [
-"关联",
-27.6,
-"guān lián",
-"related; linked; affiliated"
-],
-[
-"联手",
-16.78,
-"lián shǒu",
-"lit. to join hands; to act together"
-],
-[
 "联合会",
 11.37,
 "lián hé huì",
@@ -126,7 +138,7 @@
 "美联社",
 10.14,
 "Měi Lián shè",
-"Associated Press (AP); abbr. for 美國聯合通訊社|美国联合通讯社[Mei3 guo2 Lian2 he2 Tong1 xun4 she4]"
+"Associated Press (AP); abbr. for 美国联合通讯社[Měi guó Lián hé Tōng xùn shè]"
 ],
 [
 "联系人",
@@ -135,16 +147,28 @@
 "contact (person)"
 ],
 [
-"联网",
-8.52,
-"lián wǎng",
-"network; cyber-"
+"足联",
+9.02,
+"???",
+"???"
 ],
 [
 "妇联",
 8.12,
 "fù lián",
 "women's league; women's association"
+],
+[
+"工商联",
+6.14,
+"???",
+"???"
+],
+[
+"联席",
+5.82,
+"???",
+"???"
 ]
 ],
 "strokes": [

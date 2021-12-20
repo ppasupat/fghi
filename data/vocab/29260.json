@@ -1,36 +1,96 @@
 {
 "char": "牌",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "signboard, placard",
 "pron": "pái"
 },
 "words": [
 [
-"登机牌",
-4,
-"dēng jī pái",
-"boarding pass"
+"金牌",
+3,
+"jīn pái",
+"gold medal; CL:枚[méi]"
 ],
 [
-"名牌",
-5,
+"牌子",
+3,
+"pái zi",
+"sign; trademark; brand"
+],
+[
+"银牌",
+3,
+"yín pái",
+"silver medal; CL:枚[méi]"
+],
+[
+"名牌儿",
+4,
 "míng pái",
 "famous brand; nameplate; name tag"
-]
 ],
-"extraWords": [
+[
+"牌",
+4,
+"pái",
+"mahjong tile; playing card; game pieces; signboard; plate; tablet; medal; CL:片[piàn],个[gè],块[kuài]"
+],
+[
+"车牌",
+6,
+"chē pái",
+"license plate"
+],
+[
+"打牌",
+6,
+"dǎ pái",
+"to play mahjong or cards"
+],
 [
 "品牌",
-209.04,
+6,
 "pǐn pái",
 "brand name; trademark"
 ],
 [
-"金牌",
-33.32,
-"jīn pái",
-"gold medal; CL:枚[mei2]"
+"铜牌",
+6,
+"tóng pái",
+"bronze medal; bronze plaque bearing a business name or logo etc; CL:枚[méi]"
+],
+[
+"奖牌",
+7,
+"jiǎng pái",
+"medal (awarded as a prize)"
+],
+[
+"牌照",
+7,
+"pái zhào",
+"(business) license; vehicle license; car registration; license plate"
+],
+[
+"王牌",
+7,
+"wáng pái",
+"trump card"
+],
+[
+"招牌",
+7,
+"zhāo pai",
+"signboard; shop sign; reputation of a business"
+]
+],
+"extraWords": [
+[
+"名牌",
+26.14,
+"míng pái",
+"famous brand; nameplate; name tag"
 ],
 [
 "挂牌",
@@ -39,34 +99,10 @@
 "lit. to hang up a plate; to open up for business; listed (on stock market)"
 ],
 [
-"牌子",
-15.77,
-"pái zi",
-"sign; trademark; brand"
-],
-[
-"牌照",
-11.06,
-"pái zhào",
-"(business) license; vehicle license; car registration; license plate"
-],
-[
-"车牌",
-10.73,
-"chē pái",
-"license plate"
-],
-[
 "大牌",
 10.46,
 "dà pái",
 "strong card; honor card (card games); very popular or successful person; self-important"
-],
-[
-"招牌",
-9.57,
-"zhāo pai",
-"signboard; shop sign; reputation of a business"
 ],
 [
 "黄牌",
@@ -75,22 +111,10 @@
 "(sports) yellow card; (fig.) admonishment"
 ],
 [
-"奖牌",
-5.91,
-"jiǎng pái",
-"medal (awarded as a prize)"
-],
-[
 "红牌",
 5.61,
 "hóng pái",
 "red card (sports)"
-],
-[
-"打牌",
-5.04,
-"dǎ pái",
-"to play mahjong or cards"
 ]
 ],
 "strokes": [

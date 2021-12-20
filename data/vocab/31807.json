@@ -1,12 +1,31 @@
 {
 "char": "簿",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "register, account book, notebook",
 "pron": "bù"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"簿",
+4.54,
+"bù",
+"a book; a register; account-book"
+],
+[
+"电话簿",
+2.65,
+"diàn huà bù",
+"telephone directory"
+],
+[
+"户口簿",
+1.56,
+"hù kǒu bù",
+"household register"
+]
+],
 "strokes": [
 "M 351 728 Q 367 752 385 771 Q 395 781 383 795 Q 352 826 327 824 Q 317 823 318 810 Q 324 740 243 656 Q 239 656 209 622 Q 202 610 215 613 Q 228 614 247 626 Q 302 662 336 708 L 351 728 Z",
 "M 336 708 Q 367 693 403 703 Q 446 710 491 720 Q 512 724 515 727 Q 522 733 518 739 Q 514 748 491 754 L 351 728 C 322 723 309 720 336 708 Z",

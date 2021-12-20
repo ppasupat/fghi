@@ -1,12 +1,31 @@
 {
 "char": "霎",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "light rain, drizzle; an instant; passing",
 "pron": "shà"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"霎时",
+1.53,
+"shà shí",
+"in a split second"
+],
+[
+"霎",
+0.76,
+"shà",
+"all of a sudden; drizzle"
+],
+[
+"霎时间",
+0.71,
+"shà shí jiān",
+"in a split second"
+]
+],
 "strokes": [
 "M 506 772 Q 563 784 624 793 Q 664 800 670 806 Q 679 813 674 821 Q 668 831 642 840 Q 617 846 512 816 Q 385 798 373 797 Q 340 793 363 777 Q 402 753 454 764 Q 460 765 468 766 L 506 772 Z",
 "M 260 677 Q 251 696 243 704 Q 227 719 223 695 Q 223 658 184 621 Q 145 591 171 531 Q 184 506 204 530 Q 210 539 261 646 C 268 661 268 661 260 677 Z",

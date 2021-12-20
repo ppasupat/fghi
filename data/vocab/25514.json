@@ -1,6 +1,6 @@
 {
 "char": "措",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "place; collect, arrange; employ",
 "pron": "cuò"
@@ -8,18 +8,36 @@
 "words": [
 [
 "措施",
-5,
+4,
 "cuò shī",
-"measure; step; CL:個|个[ge4]"
+"measure; step; CL:个[gè]"
+],
+[
+"筹措",
+7,
+"chóu cuò",
+"to raise (money)"
+],
+[
+"措手不及",
+7,
+"cuò shǒu bù jí",
+"no time to deal with it (idiom); caught unprepared"
+],
+[
+"惊慌失措",
+7,
+"jīng huāng shī cuò",
+"to lose one's head out of fear (idiom)"
+],
+[
+"举措",
+7,
+"jǔ cuò",
+"to move; to act; action; decision; conduct; manner"
 ]
 ],
 "extraWords": [
-[
-"举措",
-22.34,
-"jǔ cuò",
-"to move; to act; action; decision; conduct; manner"
-],
 [
 "不知所措",
 5.28,

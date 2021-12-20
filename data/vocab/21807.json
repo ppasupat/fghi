@@ -1,6 +1,6 @@
 {
 "char": "唯",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "only; yes",
 "pron": "wéi"
@@ -13,8 +13,20 @@
 "only; sole"
 ],
 [
+"唯",
+7,
+"wéi",
+"only; alone; -ism (in Chinese, a prefix, often combined with a suffix such as 主义[zhǔ yì] or 论[lùn], e.g. 唯理论[wéi lǐ lùn], rationalism)"
+],
+[
+"唯",
+7,
+"wěi",
+"yes"
+],
+[
 "唯独",
-6,
+7,
 "wéi dú",
 "only; just (i.e. it is only that...); all except; unique"
 ]

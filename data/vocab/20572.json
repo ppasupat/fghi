@@ -1,6 +1,6 @@
 {
 "char": "停",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "stop, suspend, delay; suitable",
 "pron": "tíng"
@@ -8,77 +8,95 @@
 "words": [
 [
 "停",
-4,
+2,
 "tíng",
 "to stop; to halt; to park (a car)"
 ],
 [
-"停顿",
-6,
-"tíng dùn",
-"to halt; to break off; pause (in speech)"
-],
-[
-"停滞",
-6,
-"tíng zhì",
-"stagnation; at a standstill; bogged down"
-],
-[
-"停泊",
-6,
-"tíng bó",
-"to anchor; anchorage; mooring (of a ship)"
-]
-],
-"extraWords": [
-[
-"停止",
-85.14,
-"tíng zhǐ",
-"to stop; to halt; to cease"
-],
-[
-"停下",
-73.3,
-"tíng xià",
-"to stop"
-],
-[
-"不停",
-49.21,
-"bù tíng",
-"incessant"
-],
-[
 "停车",
-47.19,
+2,
 "tíng chē",
 "to pull up (stop one's vehicle); to park; (of a machine) to stop working; to stall"
 ],
 [
 "停车场",
-25.58,
+2,
 "tíng chē chǎng",
 "parking lot; car park"
 ],
 [
+"停止",
+3,
+"tíng zhǐ",
+"to stop; to halt; to cease"
+],
+[
+"停下",
+4,
+"tíng xià",
+"to stop"
+],
+[
+"不停",
+5,
+"bù tíng",
+"incessant"
+],
+[
 "停留",
-21.56,
+5,
 "tíng liú",
 "to stay somewhere temporarily; to stop over"
 ],
 [
 "暂停",
-21.19,
+5,
 "zàn tíng",
 "to suspend; time-out (e.g. in sports); stoppage; pause (media player)"
 ],
 [
+"停泊",
+7,
+"tíng bó",
+"to anchor; anchorage; mooring (of a ship)"
+],
+[
+"停车位",
+7,
+"tíng chē wèi",
+"parking space; parking spot"
+],
+[
 "停电",
-9.13,
+7,
 "tíng diàn",
 "to have a power failure; power cut"
+],
+[
+"停顿",
+7,
+"tíng dùn",
+"to halt; to break off; pause (in speech)"
+],
+[
+"停放",
+7,
+"tíng fàng",
+"to park (a car etc); to moor (a boat etc); to leave sth (in a place)"
+],
+[
+"停业",
+7,
+"tíng yè",
+"to cease trading (temporarily or permanently); to close down"
+]
+],
+"extraWords": [
+[
+"停手",
+9.72,
+"???",
+"???"
 ],
 [
 "停下来",
@@ -97,12 +115,6 @@
 5.8,
 "tíng kào",
 "to call at; to stop at; berth"
-],
-[
-"停放",
-5.78,
-"tíng fàng",
-"to park (a car etc); to moor (a boat etc); to leave sth (in a place)"
 ],
 [
 "停火",

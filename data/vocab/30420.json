@@ -1,6 +1,6 @@
 {
 "char": "盔",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "helmet; bowl; basin",
 "pron": "kuī"
@@ -11,6 +11,18 @@
 "头盔",
 10.73,
 "tóu kuī",
+"helmet"
+],
+[
+"盔甲",
+3.55,
+"kuī jiǎ",
+"armor; body armor and helmet"
+],
+[
+"盔",
+1.03,
+"kuī",
 "helmet"
 ]
 ],

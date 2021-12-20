@@ -1,6 +1,6 @@
 {
 "char": "产",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "give birth, bring forth, produce",
 "pron": "chǎn"
@@ -8,78 +8,126 @@
 "words": [
 [
 "产生",
-5,
+3,
 "chǎn shēng",
 "to arise; to come into being; to come about; to give rise to; to bring into being; to bring about; to produce; to engender; to generate; to appear; appearance; emergence; generation; production; yield"
 ],
 [
-"财产",
-5,
-"cái chǎn",
-"property; assets; estate; CL:筆|笔[bi3]"
-],
-[
-"产品",
-5,
-"chǎn pǐn",
-"goods; merchandise; product; CL:個|个[ge4]"
-],
-[
-"破产",
-5,
-"pò chǎn",
-"to go bankrupt; to become impoverished; bankruptcy"
-],
-[
 "生产",
-5,
+3,
 "shēng chǎn",
 "to produce; to manufacture; to give birth to a child"
 ],
 [
-"遗产",
-6,
-"yí chǎn",
-"heritage; legacy; inheritance; bequest; CL:筆|笔[bi3]"
+"财产",
+4,
+"cái chǎn",
+"property; assets; estate; CL:笔[bǐ]"
 ],
 [
-"资产",
-6,
-"zī chǎn",
-"property; assets"
+"产品",
+4,
+"chǎn pǐn",
+"goods; merchandise; product; CL:个[gè]"
+],
+[
+"破产",
+4,
+"pò chǎn",
+"to go bankrupt; to become impoverished; bankruptcy"
+],
+[
+"遗产",
+4,
+"yí chǎn",
+"heritage; legacy; inheritance; bequest; CL:笔[bǐ]"
 ],
 [
 "产业",
-6,
+5,
 "chǎn yè",
 "industry; estate; property; industrial"
 ],
 [
-"盛产",
-6,
-"shèng chǎn",
-"to produce in abundance; to be rich in"
+"农产品",
+5,
+"nóng chǎn pǐn",
+"agricultural produce"
 ],
 [
-"矿产",
-6,
-"kuàng chǎn",
-"minerals"
-]
+"水产品",
+5,
+"shuǐ chǎn pǐn",
+"aquatic products (including fish, crabs, seaweed etc)"
 ],
-"extraWords": [
+[
+"增产",
+5,
+"zēng chǎn",
+"to increase production"
+],
+[
+"资产",
+5,
+"zī chǎn",
+"property; assets"
+],
+[
+"产量",
+6,
+"chǎn liàng",
+"output"
+],
+[
+"国产",
+6,
+"guó chǎn",
+"domestically produced"
+],
+[
+"产",
+7,
+"chǎn",
+"to give birth; to reproduce; to produce; product; resource; estate; property"
+],
+[
+"产地",
+7,
+"chǎn dì",
+"source (of a product); place of origin; manufacturing location"
+],
+[
+"产物",
+7,
+"chǎn wù",
+"product; result (of)"
+],
+[
+"产值",
+7,
+"chǎn zhí",
+"value of output; output value"
+],
 [
 "房地产",
-125.52,
+7,
 "fáng dì chǎn",
 "real estate"
 ],
 [
-"产量",
-59.76,
-"chǎn liàng",
-"output"
+"倾家荡产",
+7,
+"qīng jiā dàng chǎn",
+"to lose a family fortune (idiom)"
 ],
+[
+"特产",
+7,
+"tè chǎn",
+"special local product; (regional) specialty"
+]
+],
+"extraWords": [
 [
 "地产",
 47.37,
@@ -105,22 +153,10 @@
 "property right"
 ],
 [
-"国产",
-31.74,
-"guó chǎn",
-"domestically produced"
-],
-[
 "知识产权",
 29.71,
 "zhī shi chǎn quán",
 "intellectual property rights (law)"
-],
-[
-"农产品",
-26.45,
-"nóng chǎn pǐn",
-"agricultural produce"
 ],
 [
 "生产力",
@@ -153,28 +189,22 @@
 "to industrialize; industrialization"
 ],
 [
+"国有资产",
+18.8,
+"???",
+"???"
+],
+[
+"安全生产",
+18.44,
+"???",
+"???"
+],
+[
 "新产品",
 18.24,
 "xīn chǎn pǐn",
 "new product"
-],
-[
-"增产",
-17.86,
-"zēng chǎn",
-"to increase production"
-],
-[
-"产值",
-16.81,
-"chǎn zhí",
-"value of output; output value"
-],
-[
-"产物",
-16.31,
-"chǎn wù",
-"product; result (of)"
 ],
 [
 "投产",
@@ -207,10 +237,22 @@
 "production team"
 ],
 [
+"房地产业",
+11.66,
+"???",
+"???"
+],
+[
 "年产",
 10.64,
 "nián chǎn",
 "annual production"
+],
+[
+"矿产",
+9.63,
+"kuàng chǎn",
+"minerals"
 ],
 [
 "高产",
@@ -228,7 +270,7 @@
 "日产",
 8.23,
 "Rì chǎn",
-"Nissan, Japanese car make; also transliterated 尼桑[Ni2 sang1]"
+"Nissan, Japanese car make; also transliterated 尼桑[Ní sāng]"
 ],
 [
 "停产",
@@ -247,6 +289,12 @@
 7.06,
 "shēng chǎn zī liào",
 "means of production"
+],
+[
+"生产商",
+6.94,
+"???",
+"???"
 ],
 [
 "第三产业",
@@ -285,12 +333,6 @@
 "to have a miscarriage; miscarriage; to fail; to fall through"
 ],
 [
-"产地",
-6.25,
-"chǎn dì",
-"source (of a product); place of origin; manufacturing location"
-],
-[
 "国内生产总值",
 6.24,
 "guó nèi shēng chǎn zǒng zhí",
@@ -309,12 +351,6 @@
 "productivity; efficiency of production"
 ],
 [
-"水产品",
-5.79,
-"shuǐ chǎn pǐn",
-"aquatic products (including fish, crabs, seaweed etc)"
-],
-[
 "不动产",
 5.69,
 "bù dòng chǎn",
@@ -327,22 +363,28 @@
 "to produce less; to reduce output; lower yield"
 ],
 [
-"特产",
-5.56,
-"tè chǎn",
-"special local product; (regional) specialty"
-],
-[
 "产销",
 5.47,
 "chǎn xiāo",
 "production and sales; production and marketing"
 ],
 [
+"信息产业部",
+5.43,
+"???",
+"???"
+],
+[
 "总产量",
 5.42,
 "zǒng chǎn liàng",
 "total output"
+],
+[
+"农副产品",
+5.41,
+"???",
+"???"
 ]
 ],
 "strokes": [

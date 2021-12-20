@@ -1,6 +1,6 @@
 {
 "char": "铸",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "melt, cast; coin, mint",
 "pron": "zhù"
@@ -8,12 +8,25 @@
 "words": [
 [
 "铸造",
-6,
+7,
 "zhù zào",
 "to cast (pour metal into a mold)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"铸",
+7.09,
+"zhù",
+"to cast or found metals"
+],
+[
+"铸件",
+2.92,
+"zhù jiàn",
+"casting; foundry goods"
+]
+],
 "strokes": [
 "M 313 641 Q 356 722 386 750 Q 395 760 390 774 Q 386 786 358 808 Q 333 824 314 825 Q 296 824 304 802 Q 319 771 306 744 Q 249 599 86 402 Q 76 392 75 386 Q 71 376 85 378 Q 142 387 295 614 L 313 641 Z",
 "M 295 614 Q 337 601 379 615 Q 410 622 444 632 Q 459 636 461 638 Q 468 645 464 654 Q 457 664 429 668 Q 402 671 345 648 L 313 641 C 284 635 266 622 295 614 Z",

@@ -1,6 +1,6 @@
 {
 "char": "迅",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "quick, hasty, rapid, sudden",
 "pron": "xùn"
@@ -8,7 +8,7 @@
 "words": [
 [
 "迅速",
-5,
+4,
 "xùn sù",
 "rapid; speedy; fast"
 ]
@@ -31,6 +31,12 @@
 6.21,
 "Chén Yì xùn",
 "Eason Chan (1974-), Hong Kong pop singer and actor"
+],
+[
+"迅",
+5.26,
+"xùn",
+"rapid; fast"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "檬",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "type of locust oracacia",
 "pron": "méng"
@@ -11,6 +11,18 @@
 "柠檬",
 10.88,
 "níng méng",
+"lemon"
+],
+[
+"柠檬水",
+3.37,
+"níng méng shuǐ",
+"lemonade"
+],
+[
+"檬",
+2.55,
+"méng",
 "lemon"
 ]
 ],

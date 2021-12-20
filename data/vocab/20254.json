@@ -1,6 +1,6 @@
 {
 "char": "伞",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "umbrella, parasol, parachute",
 "pron": "sǎn"
@@ -8,15 +8,21 @@
 "words": [
 [
 "伞",
-3,
+4,
 "sǎn",
-"umbrella; parasol; CL:把[ba3]"
+"umbrella; parasol; CL:把[bǎ]"
 ],
 [
 "伞",
-3,
+4,
 "sǎn",
-"damask silk; variant of 傘|伞[san3]"
+"damask silk; variant of 伞[sǎn]"
+],
+[
+"跳伞",
+7,
+"tiào sǎn",
+"to parachute; to bail out; parachute jumping"
 ]
 ],
 "extraWords": [],

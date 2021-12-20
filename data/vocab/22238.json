@@ -1,6 +1,6 @@
 {
 "char": "回",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "return, turn around; a time",
 "pron": "huí"
@@ -22,135 +22,213 @@
 "回",
 1,
 "huí",
-"variant of 迴|回[hui2]"
+"variant of 回[huí]"
 ],
 [
 "回答",
-3,
+1,
 "huí dá",
-"to reply; to answer; the answer; CL:個|个[ge4]"
-],
-[
-"回忆",
-4,
-"huí yì",
-"to recall; memories; CL:個|个[ge4]"
-],
-[
-"回报",
-6,
-"huí bào",
-"(in) return; reciprocation; payback; retaliation; to report back; to reciprocate"
-],
-[
-"回顾",
-6,
-"huí gù",
-"to look back; to review"
-],
-[
-"回避",
-6,
-"huí bì",
-"variant of 迴避|回避[hui2 bi4]"
-],
-[
-"回避",
-6,
-"huí bì",
-"to shun; to avoid (sb); to skirt; to evade (an issue); to step back; to withdraw; to recuse (a judge etc)"
-],
-[
-"挽回",
-6,
-"wǎn huí",
-"to retrieve; to redeem"
-],
-[
-"回收",
-6,
-"huí shōu",
-"to recycle; to reclaim; to retrieve; to recover; to recall (a defective product)"
-]
-],
-"extraWords": [
-[
-"回来",
-668.42,
-"huí lai",
-"to return; to come back"
-],
-[
-"回家",
-279.02,
-"huí jiā",
-"to return home"
-],
-[
-"回去",
-238.27,
-"huí qu",
-"to return; to go back"
-],
-[
-"回复",
-220.72,
-"huí fù",
-"to reply; to recover; to return (to a previous condition); Re: in reply to (email)"
+"to reply; to answer; the answer; CL:个[gè]"
 ],
 [
 "回到",
-142.7,
+1,
 "huí dào",
 "to return to"
 ],
 [
-"回头",
-47.16,
-"huí tóu",
-"to turn round; to turn one's head; later; by and by"
+"回家",
+1,
+"huí jiā",
+"to return home"
 ],
 [
-"回归",
-34.19,
-"huí guī",
-"to return to; to retreat; regression (statistics)"
+"回来",
+1,
+"huí lai",
+"to return; to come back"
+],
+[
+"回去",
+1,
+"huí qu",
+"to return; to go back"
+],
+[
+"回国",
+2,
+"huí guó",
+"to return to one's home country"
+],
+[
+"回复",
+4,
+"huí fù",
+"to reply; to recover; to return (to a previous condition); Re: in reply to (email)"
+],
+[
+"收回",
+4,
+"shōu huí",
+"to regain; to retake; to take back; to withdraw; to revoke"
 ],
 [
 "返回",
-28.83,
+5,
 "fǎn huí",
 "to return to; to come (or go) back"
 ],
 [
-"回落",
-27.53,
-"huí luò",
-"to fall back; to return to low level after a rise (in water level, price etc)"
+"回报",
+5,
+"huí bào",
+"(in) return; reciprocation; payback; retaliation; to report back; to reciprocate"
+],
+[
+"回避",
+5,
+"huí bì",
+"variant of 回避[huí bì]"
+],
+[
+"回避",
+5,
+"huí bì",
+"to shun; to avoid (sb); to skirt; to evade (an issue); to step back; to withdraw; to recuse (a judge etc)"
+],
+[
+"回顾",
+5,
+"huí gù",
+"to look back; to review"
+],
+[
+"回收",
+5,
+"huí shōu",
+"to recycle; to reclaim; to retrieve; to recover; to recall (a defective product)"
+],
+[
+"回头",
+5,
+"huí tóu",
+"to turn round; to turn one's head; later; by and by"
+],
+[
+"回信",
+5,
+"huí xìn",
+"to reply; to write back; letter written in reply; CL:封[fēng]"
+],
+[
+"回忆",
+5,
+"huí yì",
+"to recall; memories; CL:个[gè]"
 ],
 [
 "回应",
-22.58,
+6,
 "huí yìng",
 "to respond; response"
 ],
 [
-"收回",
-19.82,
-"shōu huí",
-"to regain; to retake; to take back; to withdraw; to revoke"
+"驳回",
+7,
+"bó huí",
+"to reject; to turn down; to overrule"
 ],
+[
+"峰回路转",
+7,
+"fēng huí lù zhuǎn",
+"the mountain road twists around each new peak (idiom); (of a mountain road) twisting and turning; fig. an opportunity has come unexpectedly; things have taken a new turn"
+],
+[
+"回归",
+7,
+"huí guī",
+"to return to; to retreat; regression (statistics)"
+],
+[
+"回扣",
+7,
+"huí kòu",
+"brokerage; a commission paid to a middleman; euphemism for a bribe; a kickback"
+],
+[
+"回馈",
+7,
+"huí kuì",
+"to repay a favor; to give back; feedback"
+],
+[
+"回落",
+7,
+"huí luò",
+"to fall back; to return to low level after a rise (in water level, price etc)"
+],
+[
+"回升",
+7,
+"huí shēng",
+"to rise again after a fall; to pick up; rally (stock market etc)"
+],
+[
+"回首",
+7,
+"huí shǒu",
+"to turn around; to look back; to recollect"
+],
+[
+"回味",
+7,
+"huí wèi",
+"to reflect on; to ponder over; aftertaste"
+],
+[
+"回想",
+7,
+"huí xiǎng",
+"to recall; to recollect; to think back"
+],
+[
+"回忆录",
+7,
+"huí yì lù",
+"memoir"
+],
+[
+"来回",
+7,
+"lái huí",
+"to make a round trip; return journey; back and forth; to and fro; repeatedly"
+],
+[
+"退回",
+7,
+"tuì huí",
+"to return (an item); to send back; to go back"
+],
+[
+"挽回",
+7,
+"wǎn huí",
+"to retrieve; to redeem"
+],
+[
+"一回事",
+7,
+"yī huí shì",
+"one thing; the same as"
+]
+],
+"extraWords": [
 [
 "找回",
 19.55,
 "zhǎo huí",
 "to retrieve"
-],
-[
-"回国",
-19.34,
-"huí guó",
-"to return to one's home country"
 ],
 [
 "带回",
@@ -159,22 +237,10 @@
 "to bring back"
 ],
 [
-"回升",
-15.36,
-"huí shēng",
-"to rise again after a fall; to pick up; rally (stock market etc)"
-],
-[
 "回见",
 12.82,
 "huí jiàn",
 "See you later!"
-],
-[
-"来回",
-11.91,
-"lái huí",
-"to make a round trip; return journey; back and forth; to and fro; repeatedly"
 ],
 [
 "回合",
@@ -183,16 +249,16 @@
 "one of a sequence of contests (or subdivisions of a contest) between the same two opponents; round (boxing etc); rally (tennis etc); frame (billiards etc); inning; (tennis, soccer etc) rubber or leg; round (of negotiations)"
 ],
 [
-"回想",
-11.3,
-"huí xiǎng",
-"to recall; to recollect; to think back"
-],
-[
 "赎回",
 10.11,
 "shú huí",
 "to redeem"
+],
+[
+"赶回",
+9.03,
+"???",
+"???"
 ],
 [
 "回回",
@@ -207,28 +273,10 @@
 "time and again; every time"
 ],
 [
-"回味",
-7.71,
-"huí wèi",
-"to reflect on; to ponder over; aftertaste"
-],
-[
-"回馈",
-7.71,
-"huí kuì",
-"to repay a favor; to give back; feedback"
-],
-[
 "召回",
 7.62,
 "zhào huí",
 "to recall (a product, an ambassador etc)"
-],
-[
-"回首",
-7.41,
-"huí shǒu",
-"to turn around; to look back; to recollect"
 ],
 [
 "巡回",
@@ -246,43 +294,31 @@
 "轮回",
 6.61,
 "lún huí",
-"variant of 輪迴|轮回[lun2 hui2]"
+"variant of 轮回[lún huí]"
 ],
 [
 "轮回",
 6.61,
 "lún huí",
-"to reincarnate; reincarnation (Buddhism); (of the seasons etc) to follow each other cyclically; cycle; CL:個|个[ge4]"
+"to reincarnate; reincarnation (Buddhism); (of the seasons etc) to follow each other cyclically; cycle; CL:个[gè]"
 ],
 [
-"退回",
-6.29,
-"tuì huí",
-"to return (an item); to send back; to go back"
+"拿回",
+6.25,
+"???",
+"???"
 ],
 [
-"一回事",
-6.17,
-"yī huí shì",
-"one thing; the same as"
-],
-[
-"驳回",
-5.96,
-"bó huí",
-"to reject; to turn down; to overrule"
+"送回",
+5.81,
+"???",
+"???"
 ],
 [
 "回电",
 5.75,
 "huí diàn",
 "to call sb back (on the phone); a return call; to reply to a telegram; to wire back; a reply telegram"
-],
-[
-"回扣",
-5.73,
-"huí kòu",
-"brokerage; a commission paid to a middleman; euphemism for a bribe; a kickback"
 ]
 ],
 "strokes": [

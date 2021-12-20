@@ -1,19 +1,32 @@
 {
 "char": "耸",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "urge on; rise up; stir, excite",
 "pron": "sǒng"
 },
 "words": [
 [
-"耸",
-6,
-"sǒng",
-"to excite; to raise up; to shrug; high; lofty; towering"
+"耸立",
+7,
+"sǒng lì",
+"to stand tall; to tower aloft"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"耸",
+7.49,
+"sǒng",
+"to excite; to raise up; to shrug; high; lofty; towering"
+],
+[
+"耸肩",
+2.21,
+"sǒng jiān",
+"to shrug one's shoulders"
+]
+],
 "strokes": [
 "M 372 626 Q 400 710 417 730 Q 427 745 414 754 Q 380 793 354 788 Q 341 787 344 772 Q 362 727 317 622 Q 269 535 162 481 Q 149 475 160 471 Q 238 465 322 546 Q 323 550 327 553 Q 351 584 361 603 L 372 626 Z",
 "M 361 603 Q 365 597 377 589 Q 401 570 426 547 Q 436 537 449 538 Q 458 538 461 549 Q 465 559 457 583 Q 453 599 427 611 Q 403 620 372 626 C 343 632 342 626 361 603 Z",

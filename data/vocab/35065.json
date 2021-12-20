@@ -1,6 +1,6 @@
 {
 "char": "裹",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "wrap, bind; encircle, confine",
 "pron": "guǒ"
@@ -8,12 +8,25 @@
 "words": [
 [
 "包裹",
-5,
+4,
 "bāo guǒ",
-"to wrap up; to bind up; bundle; parcel; package; CL:個|个[ge4]"
+"to wrap up; to bind up; bundle; parcel; package; CL:个[gè]"
+],
+[
+"裹",
+7,
+"guǒ",
+"to bind; to wrap; a bundle; a parcel"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"银装素裹",
+0.63,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 568 771 Q 568 772 569 772 Q 573 787 562 815 Q 556 831 528 843 Q 458 861 448 855 Q 444 851 445 839 Q 449 829 476 810 Q 518 777 529 765 C 550 744 557 743 568 771 Z",
 "M 529 765 Q 519 765 510 763 Q 374 745 212 725 Q 193 724 207 707 Q 220 694 238 688 Q 257 684 274 687 Q 470 741 827 741 Q 846 741 851 750 Q 855 760 840 774 Q 791 813 754 804 Q 681 789 568 771 L 529 765 Z",

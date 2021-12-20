@@ -1,6 +1,6 @@
 {
 "char": "潜",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "hide; hidden, secret, latent",
 "pron": "qián"
@@ -13,36 +13,42 @@
 "potential; capacity"
 ],
 [
+"潜能",
+7,
+"qián néng",
+"potential; hidden capability"
+],
+[
 "潜水",
-6,
+7,
 "qián shuǐ",
 "to dive; to go under water; (in an online forum) to lurk"
 ],
 [
-"潜移默化",
-6,
-"qián yí mò huà",
-"imperceptible influence; to influence secretly"
-]
-],
-"extraWords": [
-[
-"潜在",
-21.44,
-"qián zài",
-"hidden; potential; latent"
-],
-[
 "潜艇",
-9.98,
+7,
 "qián tǐng",
 "submarine"
 ],
 [
-"潜能",
-7.02,
-"qián néng",
-"potential; hidden capability"
+"潜移默化",
+7,
+"qián yí mò huà",
+"imperceptible influence; to influence secretly"
+],
+[
+"潜在",
+7,
+"qián zài",
+"hidden; potential; latent"
+]
+],
+"extraWords": [
+[
+"潜",
+15.09,
+"qián",
+"hidden; secret; latent; to hide; to conceal; to submerge; to dive"
 ],
 [
 "潜入",

@@ -1,40 +1,100 @@
 {
 "char": "官",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "official, public servant",
 "pron": "guān"
 },
 "words": [
 [
+"法官",
+4,
+"fǎ guān",
+"judge (in court)"
+],
+[
 "官",
-5,
+4,
 "Guān",
 "surname Guan"
 ],
 [
 "官",
-5,
+4,
 "guān",
-"government official; governmental; official; public; organ of the body; CL:個|个[ge4]"
+"government official; governmental; official; public; organ of the body; CL:个[gè]"
+],
+[
+"官方",
+4,
+"guān fāng",
+"government; official (approved or issued by an authority)"
 ],
 [
 "器官",
-6,
+4,
 "qì guān",
 "organ (part of body tissue); apparatus"
 ],
 [
-"官方",
-6,
-"guān fāng",
-"government; official (approved or issued by an authority)"
+"外交官",
+4,
+"wài jiāo guān",
+"diplomat"
 ],
 [
 "打官司",
 6,
 "dǎ guān si",
 "to file a lawsuit; to sue; to dispute"
+],
+[
+"官司",
+6,
+"guān si",
+"lawsuit; CL:场[cháng]"
+],
+[
+"官兵",
+7,
+"guān bīng",
+"(military) officers and soldiers; officers and men; (old) government troops"
+],
+[
+"官吏",
+7,
+"guān lì",
+"bureaucrat; official"
+],
+[
+"官僚",
+7,
+"guān liáo",
+"bureaucrat; bureaucracy; bureaucratic"
+],
+[
+"官僚主义",
+7,
+"guān liáo zhǔ yì",
+"bureaucracy"
+],
+[
+"官员",
+7,
+"guān yuán",
+"official (in an organization or government); administrator"
+],
+[
+"警官",
+7,
+"jǐng guān",
+"constable; police officer"
+],
+[
+"军官",
+7,
+"jūn guān",
+"officer (military)"
 ]
 ],
 "extraWords": [
@@ -42,25 +102,7 @@
 "长官",
 202.11,
 "zhǎng guān",
-"senior official; senior officer; commanding officer; CL:位[wei4]; sir (term of address for senior officer)"
-],
-[
-"法官",
-111.76,
-"fǎ guān",
-"judge (in court)"
-],
-[
-"官员",
-89.52,
-"guān yuán",
-"official (in an organization or government); administrator"
-],
-[
-"警官",
-88.77,
-"jǐng guān",
-"constable; police officer"
+"senior official; senior officer; commanding officer; CL:位[wèi]; sir (term of address for senior officer)"
 ],
 [
 "检察官",
@@ -69,28 +111,16 @@
 "public prosecutor; public procurator (judicial officer whose job may involve both criminal investigation and public prosecution)"
 ],
 [
-"官兵",
-25.04,
-"guān bīng",
-"(military) officers and soldiers; officers and men; (old) government troops"
-],
-[
 "指挥官",
 22.21,
 "zhǐ huī guān",
 "commander"
 ],
 [
-"官司",
-15.86,
-"guān si",
-"lawsuit; CL:場|场[chang2]"
-],
-[
-"军官",
-13.58,
-"jūn guān",
-"officer (military)"
+"执行官",
+7.62,
+"???",
+"???"
 ],
 [
 "贪官",

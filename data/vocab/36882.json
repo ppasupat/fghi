@@ -1,11 +1,23 @@
 {
 "char": "递",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "hand over, deliver; substitute",
 "pron": "dì"
 },
 "words": [
+[
+"快递",
+4,
+"kuài dì",
+"express delivery"
+],
+[
+"传递",
+5,
+"chuán dì",
+"to transmit; to pass on to sb else; (math.) transitive"
+],
 [
 "递",
 5,
@@ -13,36 +25,24 @@
 "to hand over; to pass on sth; to gradually increase or decrease; progressively"
 ],
 [
-"递增",
-6,
-"dì zēng",
-"to increase by degrees; in increasing order; incremental; progressive"
-]
-],
-"extraWords": [
-[
-"传递",
-26.18,
-"chuán dì",
-"to transmit; to pass on to sb else; (math.) transitive"
-],
-[
-"快递",
-15.44,
-"kuài dì",
-"express delivery"
-],
-[
 "递给",
-9.84,
+5,
 "dì gěi",
 "to hand it (i.e. the aforementioned item) to (sb)"
 ],
 [
 "递交",
-8.71,
+7,
 "dì jiāo",
 "to present; to give; to hand over; to hand in; to lay before"
+]
+],
+"extraWords": [
+[
+"递增",
+5.35,
+"dì zēng",
+"to increase by degrees; in increasing order; incremental; progressive"
 ]
 ],
 "strokes": [

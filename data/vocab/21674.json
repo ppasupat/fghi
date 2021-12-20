@@ -1,12 +1,18 @@
 {
 "char": "咪",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "sound of cat, cat's meow; meter; (Cant.) don't!",
 "pron": "mī, mǐ"
 },
 "words": [],
 "extraWords": [
+[
+"咪",
+42.48,
+"mī",
+"sound for calling a cat"
+],
 [
 "妈咪",
 9.39,

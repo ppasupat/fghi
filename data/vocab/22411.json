@@ -1,90 +1,138 @@
 {
 "char": "型",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "pattern, model, type; law; mold",
 "pron": "xíng"
 },
 "words": [
 [
-"类型",
-5,
-"lèi xíng",
-"type; category; genre; form; style"
-],
-[
 "大型",
-5,
+4,
 "dà xíng",
 "large; large-scale"
 ],
 [
-"造型",
-6,
-"zào xíng",
-"to model; to shape; appearance; style; design; form; pose"
+"典型",
+4,
+"diǎn xíng",
+"model; typical case; archetype; typical; representative"
+],
+[
+"类型",
+4,
+"lèi xíng",
+"type; category; genre; form; style"
 ],
 [
 "模型",
-6,
+4,
 "mó xíng",
 "model; mold; matrix; pattern"
 ],
 [
-"典型",
-6,
-"diǎn xíng",
-"model; typical case; archetype; typical; representative"
-]
-],
-"extraWords": [
-[
-"新型",
-43.51,
-"xīn xíng",
-"new type; new kind"
-],
-[
-"车型",
-34.79,
-"chē xíng",
-"vehicle model (i.e. particular version of a car or motorcycle etc)"
-],
-[
-"发型",
-27.16,
-"fà xíng",
-"hairstyle; coiffure; hairdo"
-],
-[
 "小型",
-23.82,
+4,
 "xiǎo xíng",
 "small scale; small size"
 ],
 [
-"转型",
-21.14,
-"zhuǎn xíng",
-"transformation; to transform"
+"新型",
+4,
+"xīn xíng",
+"new type; new kind"
+],
+[
+"型",
+4,
+"xíng",
+"mold; type; style; model"
 ],
 [
 "型号",
-14.67,
+4,
 "xíng hào",
 "model (particular version of a manufactured article); type (product specification in terms of color, size etc)"
 ],
 [
+"造型",
+4,
+"zào xíng",
+"to model; to shape; appearance; style; design; form; pose"
+],
+[
+"车型",
+7,
+"chē xíng",
+"vehicle model (i.e. particular version of a car or motorcycle etc)"
+],
+[
+"成型",
+7,
+"chéng xíng",
+"to become shaped; to become formed"
+],
+[
+"发型",
+7,
+"fà xíng",
+"hairstyle; coiffure; hairdo"
+],
+[
 "巨型",
-6.6,
+7,
 "jù xíng",
 "giant; enormous"
 ],
 [
+"轻型",
+7,
+"qīng xíng",
+"light (machinery, aircraft etc)"
+],
+[
+"微型",
+7,
+"wēi xíng",
+"miniature; micro-; tiny"
+],
+[
+"原型",
+7,
+"yuán xíng",
+"model; prototype; archetype"
+],
+[
+"中型",
+7,
+"zhōng xíng",
+"medium sized"
+],
+[
 "重型",
-6.43,
+7,
 "zhòng xíng",
 "heavy; heavy duty; large caliber"
+],
+[
+"转型",
+7,
+"zhuǎn xíng",
+"transformation; to transform"
+]
+],
+"extraWords": [
+[
+"机型",
+20.96,
+"???",
+"???"
+],
+[
+"大中型",
+8.21,
+"???",
+"???"
 ],
 [
 "血型",
@@ -93,28 +141,16 @@
 "blood group; blood type"
 ],
 [
-"微型",
-5.96,
-"wēi xíng",
-"miniature; micro-; tiny"
+"大型企业",
+6.11,
+"???",
+"???"
 ],
 [
-"成型",
-5.48,
-"chéng xíng",
-"to become shaped; to become formed"
-],
-[
-"原型",
-5.37,
-"yuán xíng",
-"model; prototype; archetype"
-],
-[
-"中型",
-5.07,
-"zhōng xíng",
-"medium sized"
+"密集型",
+5.12,
+"???",
+"???"
 ],
 [
 "体型",

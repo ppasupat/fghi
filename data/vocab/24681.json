@@ -1,24 +1,60 @@
 {
 "char": "恩",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "kindness, mercy, charity",
 "pron": "ēn"
 },
 "words": [
 [
-"恩怨",
+"恩人",
 6,
+"ēn rén",
+"a benefactor; a person who has significantly helped sb else"
+],
+[
+"恩赐",
+7,
+"ēn cì",
+"favor; to give charity to sb out of pity"
+],
+[
+"恩惠",
+7,
+"ēn huì",
+"favor; grace"
+],
+[
+"恩情",
+7,
+"ēn qíng",
+"kindness; affection; grace; favor"
+],
+[
+"恩怨",
+7,
 "ēn yuàn",
 "gratitude and grudges; resentment; grudges; grievances"
+],
+[
+"感恩",
+7,
+"gǎn ēn",
+"to be grateful"
 ]
 ],
 "extraWords": [
 [
-"感恩",
-26.11,
-"gǎn ēn",
-"to be grateful"
+"恩",
+151.22,
+"ēn",
+"variant of 恩[ēn]"
+],
+[
+"恩",
+151.22,
+"ēn",
+"favor; grace; kindness"
 ],
 [
 "感恩节",
@@ -39,10 +75,40 @@
 "Zhou Enlai (1898-1976), Chinese communist leader, prime minister 1949-1976"
 ],
 [
+"沃恩",
+10.76,
+"???",
+"???"
+],
+[
+"韦恩",
+10.25,
+"???",
+"???"
+],
+[
 "布莱恩",
 9.84,
 "Bù lái ēn",
 "Brian (name)"
+],
+[
+"伊恩",
+8.85,
+"???",
+"???"
+],
+[
+"布赖恩",
+6.2,
+"???",
+"???"
+],
+[
+"荣恩",
+5.04,
+"???",
+"???"
 ]
 ],
 "strokes": [

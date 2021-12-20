@@ -1,6 +1,6 @@
 {
 "char": "鸽",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "pigeon, dove; Columba species (various)",
 "pron": "gē"
@@ -8,12 +8,25 @@
 "words": [
 [
 "鸽子",
-6,
+7,
 "gē zi",
 "pigeon; dove; various birds of the family Columbidae"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"鸽",
+4.74,
+"gē",
+"pigeon; dove"
+],
+[
+"信鸽",
+0.96,
+"xìn gē",
+"homing pigeon; carrier pigeon"
+]
+],
 "strokes": [
 "M 362 698 Q 377 734 392 748 Q 399 754 396 764 Q 395 774 380 785 Q 344 815 311 805 Q 302 802 306 789 Q 325 696 191 510 Q 188 507 186 503 Q 146 451 44 348 Q 37 342 47 340 Q 71 343 161 415 Q 162 418 166 420 Q 251 496 350 676 L 362 698 Z",
 "M 350 676 Q 356 672 368 663 Q 459 600 470 601 Q 479 602 481 612 Q 484 624 475 646 Q 468 668 433 682 Q 399 692 362 698 C 332 703 325 693 350 676 Z",

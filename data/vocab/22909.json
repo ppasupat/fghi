@@ -1,11 +1,17 @@
 {
 "char": "好",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "good, excellent, fine; well",
 "pron": "hǎo, hào"
 },
 "words": [
+[
+"爱好",
+1,
+"ài hào",
+"to like; to take pleasure in; keen on; fond of; interest; hobby; appetite for; CL:个[gè]"
+],
 [
 "好",
 1,
@@ -20,113 +26,371 @@
 ],
 [
 "好吃",
-2,
+1,
 "hǎo chī",
 "tasty; delicious"
 ],
 [
 "好吃",
-2,
+1,
 "hào chī",
 "to be fond of eating; to be gluttonous"
 ],
 [
-"爱好",
-3,
-"ài hào",
-"to like; to take pleasure in; keen on; fond of; interest; hobby; appetite for; CL:個|个[ge4]"
+"好看",
+1,
+"hǎo kàn",
+"good-looking; nice-looking; good (of a movie, book, TV show etc); embarrassed; humiliated"
 ],
 [
-"好像",
-4,
-"hǎo xiàng",
-"as if; to seem like"
+"好听",
+1,
+"hǎo tīng",
+"pleasant to hear"
 ],
 [
-"正好",
-4,
-"zhèng hǎo",
-"just (in time); just right; just enough; to happen to; to chance to; by chance; it just so happens that"
+"好玩儿",
+1,
+"hǎo wán r5",
+"erhua variant of 好玩[hǎo wán]"
+],
+[
+"最好",
+1,
+"zuì hǎo",
+"best; (you) had better (do what we suggest)"
+],
+[
+"不好意思",
+2,
+"bù hǎo yì si",
+"to feel embarrassed; to find it embarrassing; to be sorry (for inconveniencing sb)"
 ],
 [
 "好处",
-4,
+2,
 "hǎo chǔ",
 "easy to get along with"
 ],
 [
 "好处",
-4,
+2,
 "hǎo chu",
-"benefit; advantage; gain; profit; also pr. [hao3 chu4]; CL:個|个[ge4]"
+"benefit; advantage; gain; profit; also pr. [hao3 chu4]; CL:个[gè]"
 ],
 [
-"最好",
-4,
-"zuì hǎo",
-"best; (you) had better (do what we suggest)"
+"好多",
+2,
+"hǎo duō",
+"many; quite a lot; much better"
+],
+[
+"好久",
+2,
+"hǎo jiǔ",
+"quite a while"
+],
+[
+"好人",
+2,
+"hǎo rén",
+"good person; healthy person; person who tries not to offend anyone, even at the expense of principle"
+],
+[
+"好事",
+2,
+"hǎo shì",
+"good action, deed, thing or work (also sarcastic, \"a fine thing indeed\"); charity; happy occasion; Daoist or Buddhist ceremony for the souls of the dead"
+],
+[
+"好事",
+2,
+"hào shì",
+"to be meddlesome"
+],
+[
+"好像",
+2,
+"hǎo xiàng",
+"as if; to seem like"
+],
+[
+"挺好",
+2,
+"tǐng hǎo",
+"very good"
 ],
 [
 "友好",
-4,
+2,
 "Yǒu hǎo",
-"Youhao district of Yichun city 伊春市[Yi1 chun1 shi4], Heilongjiang"
+"Youhao district of Yichun city 伊春市[Yī chūn shì], Heilongjiang"
 ],
 [
 "友好",
-4,
+2,
 "yǒu hǎo",
 "friendly; amicable; close friend"
 ],
 [
-"只好",
-4,
-"zhǐ hǎo",
-"without any better option; to have to; to be forced to"
+"正好",
+2,
+"zhèng hǎo",
+"just (in time); just right; just enough; to happen to; to chance to; by chance; it just so happens that"
 ],
-[
-"好奇",
-5,
-"hào qí",
-"inquisitive; curious; inquisitiveness; curiosity"
-],
-[
-"良好",
-5,
-"liáng hǎo",
-"good; favorable; well; fine"
-],
-[
-"好客",
-5,
-"hào kè",
-"hospitality; to treat guests well; to enjoy having guests; hospitable; friendly"
-],
-[
-"讨好",
-6,
-"tǎo hǎo",
-"to get the desired outcome; to win favor by fawning on sb; to curry favor with; a fruitful outcome to reward one's labor"
-],
-[
-"恰到好处",
-6,
-"qià dào hǎo chù",
-"it's just perfect; it's just right"
-]
-],
-"extraWords": [
 [
 "好好",
-229.65,
+3,
 "hǎo hǎo",
 "well; carefully; nicely; properly"
 ],
 [
-"不好意思",
-143.23,
-"bù hǎo yì si",
-"to feel embarrassed; to find it embarrassing; to be sorry (for inconveniencing sb)"
+"好奇",
+3,
+"hào qí",
+"inquisitive; curious; inquisitiveness; curiosity"
+],
+[
+"美好",
+3,
+"měi hǎo",
+"beautiful; fine"
+],
+[
+"只好",
+3,
+"zhǐ hǎo",
+"without any better option; to have to; to be forced to"
+],
+[
+"好友",
+4,
+"hǎo yǒu",
+"close friend; pal; (social networking website) friend; CL:个[gè]"
+],
+[
+"良好",
+4,
+"liáng hǎo",
+"good; favorable; well; fine"
+],
+[
+"搞好",
+5,
+"gǎo hǎo",
+"to do well at; to do a good job"
+],
+[
+"好运",
+5,
+"hǎo yùn",
+"good luck"
+],
+[
+"也好",
+5,
+"yě hǎo",
+"that's fine; may as well; (reduplicated) regardless of whether ... or ..."
+],
+[
+"刚好",
+6,
+"gāng hǎo",
+"just; exactly; to happen to be"
+],
+[
+"好容易",
+6,
+"hǎo róng yì",
+"(idiomatic usage) with great difficulty; to have a hard time (convincing sb, relinquishing sth etc); (literal usage) so easy"
+],
+[
+"好似",
+6,
+"hǎo sì",
+"to seem; to be like"
+],
+[
+"好转",
+6,
+"hǎo zhuǎn",
+"to improve; to take a turn for the better; improvement"
+],
+[
+"好学",
+6,
+"hào xué",
+"eager to study; studious; erudite"
+],
+[
+"看好",
+6,
+"kān hǎo",
+"to keep an eye on"
+],
+[
+"看好",
+6,
+"kàn hǎo",
+"to regard as having good prospects"
+],
+[
+"恰好",
+6,
+"qià hǎo",
+"as it turns out; by lucky coincidence; (of number, time, size etc) just right"
+],
+[
+"要好",
+6,
+"yào hǎo",
+"to be on good terms; to be close friends; striving for self-improvement"
+],
+[
+"好比",
+7,
+"hǎo bǐ",
+"to be just like; can be compared to"
+],
+[
+"好歹",
+7,
+"hǎo dǎi",
+"good and bad; most unfortunate occurrence; in any case; whatever"
+],
+[
+"好感",
+7,
+"hǎo gǎn",
+"good opinion; favorable impression"
+],
+[
+"好坏",
+7,
+"hǎo huài",
+"good or bad; good and bad; standard; quality"
+],
+[
+"好家伙",
+7,
+"hǎo jiā huo",
+"my God!; oh boy!; man!"
+],
+[
+"好评",
+7,
+"hǎo píng",
+"favorable criticism; positive evaluation"
+],
+[
+"好说",
+7,
+"hǎo shuō",
+"easy to deal with; not a problem; (polite answer) you flatter me"
+],
+[
+"好笑",
+7,
+"hǎo xiào",
+"laughable; funny; ridiculous"
+],
+[
+"好心",
+7,
+"hǎo xīn",
+"kindness; good intentions"
+],
+[
+"好心人",
+7,
+"hǎo xīn rén",
+"kindhearted person; good Samaritan"
+],
+[
+"好意",
+7,
+"hǎo yì",
+"good intention; kindness"
+],
+[
+"好在",
+7,
+"hǎo zài",
+"luckily; fortunately"
+],
+[
+"好客",
+7,
+"hào kè",
+"hospitality; to treat guests well; to enjoy having guests; hospitable; friendly"
+],
+[
+"好奇心",
+7,
+"hào qí xīn",
+"interest in sth; curiosity; inquisitive"
+],
+[
+"叫好",
+7,
+"jiào hǎo",
+"to applaud; to cheer"
+],
+[
+"恰到好处",
+7,
+"qià dào hǎo chù",
+"it's just perfect; it's just right"
+],
+[
+"亲朋好友",
+7,
+"qīn péng hǎo yǒu",
+"friends and family; kith and kin"
+],
+[
+"时好时坏",
+7,
+"shí hǎo shí huài",
+"sometimes good, sometimes bad"
+],
+[
+"嗜好",
+7,
+"shì hào",
+"hobby; indulgence; habit; addiction"
+],
+[
+"讨好",
+7,
+"tǎo hǎo",
+"to get the desired outcome; to win favor by fawning on sb; to curry favor with; a fruitful outcome to reward one's labor"
+],
+[
+"完好",
+7,
+"wán hǎo",
+"intact; in good condition"
+],
+[
+"喜好",
+7,
+"xǐ hào",
+"to like; fond of; to prefer; to love; one's tastes; preference"
+],
+[
+"幸好",
+7,
+"xìng hǎo",
+"fortunately"
+]
+],
+"extraWords": [
+[
+"很好",
+142.91,
+"???",
+"???"
 ],
 [
 "不好",
@@ -135,46 +399,16 @@
 "no good"
 ],
 [
-"好运",
-98.04,
-"hǎo yùn",
-"good luck"
+"更好",
+93.26,
+"???",
+"???"
 ],
 [
-"好多",
-78.5,
-"hǎo duō",
-"many; quite a lot; much better"
-],
-[
-"美好",
-78.09,
-"měi hǎo",
-"beautiful; fine"
-],
-[
-"好看",
-76.14,
-"hǎo kàn",
-"good-looking; nice-looking; good (of a movie, book, TV show etc); embarrassed; humiliated"
-],
-[
-"好事",
-58.04,
-"hǎo shì",
-"good action, deed, thing or work (also sarcastic, \"a fine thing indeed\"); charity; happy occasion; Daoist or Buddhist ceremony for the souls of the dead"
-],
-[
-"好事",
-58.04,
-"hào shì",
-"to be meddlesome"
-],
-[
-"好人",
-53.6,
-"hǎo rén",
-"good person; healthy person; person who tries not to offend anyone, even at the expense of principle"
+"好吧",
+59.27,
+"???",
+"???"
 ],
 [
 "好几",
@@ -187,12 +421,6 @@
 50.74,
 "Hǎo lái wù",
 "Hollywood"
-],
-[
-"好友",
-46.38,
-"hǎo yǒu",
-"close friend; pal; (social networking website) friend; CL:個|个[ge4]"
 ],
 [
 "较好",
@@ -225,58 +453,34 @@
 "to be playful; to be fond of one's fun"
 ],
 [
-"也好",
-36.67,
-"yě hǎo",
-"that's fine; may as well; (reduplicated) regardless of whether ... or ..."
+"抓好",
+27.3,
+"???",
+"???"
 ],
 [
-"好久",
-36.55,
-"hǎo jiǔ",
-"quite a while"
+"好啊",
+25.28,
+"???",
+"???"
 ],
 [
-"看好",
-32.15,
-"kān hǎo",
-"to keep an eye on"
-],
-[
-"看好",
-32.15,
-"kàn hǎo",
-"to regard as having good prospects"
-],
-[
-"好笑",
-31.54,
-"hǎo xiào",
-"laughable; funny; ridiculous"
-],
-[
-"搞好",
-28.99,
-"gǎo hǎo",
-"to do well at; to do a good job"
-],
-[
-"好听",
-28.84,
-"hǎo tīng",
-"pleasant to hear"
-],
-[
-"刚好",
+"好样",
 21.02,
-"gāng hǎo",
-"just; exactly; to happen to be"
+"???",
+"???"
 ],
 [
-"好转",
-20.58,
-"hǎo zhuǎn",
-"to improve; to take a turn for the better; improvement"
+"做好",
+19.76,
+"???",
+"???"
+],
+[
+"准备好",
+18.85,
+"???",
+"???"
 ],
 [
 "好朋友",
@@ -297,28 +501,16 @@
 "feeling better; to be more at ease"
 ],
 [
-"好在",
-16.21,
-"hǎo zài",
-"luckily; fortunately"
+"好大",
+16.01,
+"???",
+"???"
 ],
 [
-"好评",
-14.87,
-"hǎo píng",
-"favorable criticism; positive evaluation"
-],
-[
-"幸好",
-14.84,
-"xìng hǎo",
-"fortunately"
-],
-[
-"好似",
-14.4,
-"hǎo sì",
-"to seem; to be like"
+"大好",
+14.58,
+"???",
+"???"
 ],
 [
 "爱好者",
@@ -345,40 +537,16 @@
 "with great difficulty; very difficult"
 ],
 [
-"好感",
-9.82,
-"hǎo gǎn",
-"good opinion; favorable impression"
-],
-[
-"好坏",
-9.52,
-"hǎo huài",
-"good or bad; good and bad; standard; quality"
+"好么",
+9.78,
+"???",
+"???"
 ],
 [
 "好日子",
 9.36,
 "hǎo rì zi",
 "auspicious day; good day; happy life"
-],
-[
-"要好",
-9.03,
-"yào hǎo",
-"to be on good terms; to be close friends; striving for self-improvement"
-],
-[
-"恰好",
-8.94,
-"qià hǎo",
-"as it turns out; by lucky coincidence; (of number, time, size etc) just right"
-],
-[
-"好比",
-8.2,
-"hǎo bǐ",
-"to be just like; can be compared to"
 ],
 [
 "您好",
@@ -393,10 +561,16 @@
 "a good deal of; quite a lot"
 ],
 [
-"好心",
-7.94,
-"hǎo xīn",
-"kindness; good intentions"
+"系好",
+7.91,
+"???",
+"???"
+],
+[
+"好戏",
+7.84,
+"???",
+"???"
 ],
 [
 "好过",
@@ -411,46 +585,22 @@
 "excellent (interjection)"
 ],
 [
-"好意",
-7.48,
-"hǎo yì",
-"good intention; kindness"
-],
-[
 "好起来",
 7.43,
 "hǎo qǐ lai",
 "to get better; to improve; to get well"
 ],
 [
-"好说",
-7.36,
-"hǎo shuō",
-"easy to deal with; not a problem; (polite answer) you flatter me"
+"好成绩",
+6.79,
+"???",
+"???"
 ],
 [
-"好心人",
-6.09,
-"hǎo xīn rén",
-"kindhearted person; good Samaritan"
-],
-[
-"喜好",
-5.81,
-"xǐ hào",
-"to like; fond of; to prefer; to love; one's tastes; preference"
-],
-[
-"好家伙",
-5.37,
-"hǎo jiā huo",
-"my God!; oh boy!; man!"
-],
-[
-"好歹",
-5.27,
-"hǎo dǎi",
-"good and bad; most unfortunate occurrence; in any case; whatever"
+"最好是",
+5.89,
+"???",
+"???"
 ],
 [
 "好久不见",
@@ -459,10 +609,16 @@
 "long time no see"
 ],
 [
-"完好",
-5.07,
-"wán hǎo",
-"intact; in good condition"
+"好多了",
+5.13,
+"???",
+"???"
+],
+[
+"不好过",
+5.1,
+"???",
+"???"
 ],
 [
 "学好",

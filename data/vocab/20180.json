@@ -1,25 +1,43 @@
 {
 "char": "仔",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "small thing, child; young animal",
 "pron": "zǎi, zǐ"
 },
 "words": [
 [
-"仔细",
-4,
-"zǐ xì",
-"careful; attentive; cautious"
-],
-[
 "牛仔裤",
 5,
 "niú zǎi kù",
-"jeans; CL:條|条[tiao2]"
+"jeans; CL:条[tiáo]"
+],
+[
+"仔细",
+5,
+"zǐ xì",
+"careful; attentive; cautious"
 ]
 ],
 "extraWords": [
+[
+"仔",
+58.77,
+"zǎi",
+"variant of 崽[zǎi]"
+],
+[
+"仔",
+58.77,
+"zī",
+"see 仔肩[zī jiān]"
+],
+[
+"仔",
+58.77,
+"zǐ",
+"meticulous; (of domestic animals or fowls) young"
+],
 [
 "牛仔",
 24.15,

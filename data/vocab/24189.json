@@ -1,6 +1,6 @@
 {
 "char": "幽",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "quiet, secluded, tranquil; dark",
 "pron": "yōu"
@@ -8,7 +8,7 @@
 "words": [
 [
 "幽默",
-4,
+5,
 "yōu mò",
 "(loanword) humor; humorous"
 ]
@@ -19,6 +19,12 @@
 16.07,
 "yōu líng",
 "specter; apparition; ghost"
+],
+[
+"幽",
+8.07,
+"yōu",
+"remote; hidden away; secluded; serene; peaceful; to imprison; in superstition indicates the underworld; ancient district spanning Liaonang and Hebei provinces"
 ],
 [
 "幽默感",

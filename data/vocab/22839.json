@@ -1,17 +1,30 @@
 {
 "char": "夷",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "ancient barbarian tribes",
 "pron": "yí"
 },
-"words": [],
+"words": [
+[
+"化险为夷",
+7,
+"huà xiǎn wéi yí",
+"to turn peril into safety (idiom); to avert disaster"
+]
+],
 "extraWords": [
 [
 "夏威夷",
 16.48,
 "Xià wēi yí",
 "Hawaii, US state"
+],
+[
+"夷",
+6.11,
+"yí",
+"non-Han people, esp. to the East of China; barbarians; to wipe out; to exterminate; to tear down; to raze"
 ]
 ],
 "strokes": [

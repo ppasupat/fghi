@@ -1,37 +1,67 @@
 {
 "char": "堂",
-"level": 6,
+"level": "2",
 "info": {
 "gloss": "hall; government office",
 "pron": "táng"
 },
 "words": [
 [
+"课堂",
+2,
+"kè táng",
+"classroom; CL:间[jiān]"
+],
+[
+"食堂",
+4,
+"shí táng",
+"dining hall; CL:个[gè],间[jiān]"
+],
+[
+"教堂",
+6,
+"jiào táng",
+"church; chapel; CL:间[jiān]"
+],
+[
+"礼堂",
+6,
+"lǐ táng",
+"assembly hall; auditorium; CL:座[zuò],处[chù]"
+],
+[
 "天堂",
 6,
 "tiān táng",
 "paradise; heaven"
+],
+[
+"殿堂",
+7,
+"diàn táng",
+"palace; hall; temple buildings"
+],
+[
+"哄堂大笑",
+7,
+"hōng táng dà xiào",
+"the whole room roaring with laughter (idiom)"
+],
+[
+"堂",
+7,
+"táng",
+"(main) hall; large room for a specific purpose; CL:间[jiān]; relationship between cousins etc on the paternal side of a family; of the same clan; classifier for classes, lectures etc; classifier for sets of furniture"
+],
+[
+"学堂",
+7,
+"xué táng",
+"college; school (old)"
 ]
 ],
 "extraWords": [
-[
-"教堂",
-64.87,
-"jiào táng",
-"church; chapel; CL:間|间[jian1]"
-],
-[
-"课堂",
-19.82,
-"kè táng",
-"classroom; CL:間|间[jian1]"
-],
-[
-"食堂",
-17.26,
-"shí táng",
-"dining hall; CL:個|个[ge4],間|间[jian1]"
-],
 [
 "人民大会堂",
 9.01,

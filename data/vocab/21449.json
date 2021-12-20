@@ -1,20 +1,38 @@
 {
 "char": "叉",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "crotch; fork, prong",
 "pron": "chā, chá, chǎ, chà"
 },
 "words": [
 [
+"叉",
+5,
+"chā",
+"fork; pitchfork; prong; pick; cross; intersect; \"X\""
+],
+[
+"叉",
+5,
+"chá",
+"to cross; be stuck"
+],
+[
+"叉",
+5,
+"chǎ",
+"to diverge; to open (as legs)"
+],
+[
 "叉子",
 5,
 "chā zi",
-"fork; CL:把[ba3]"
+"fork; CL:把[bǎ]"
 ],
 [
 "交叉",
-6,
+7,
 "jiāo chā",
 "to cross; to intersect; to overlap"
 ]

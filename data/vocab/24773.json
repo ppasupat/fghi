@@ -1,46 +1,64 @@
 {
 "char": "情",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "feeling, sentiment, emotion",
 "pron": "qíng"
 },
 "words": [
 [
-"事情",
+"爱情",
 2,
-"shì qing",
-"affair; matter; thing; business; CL:件[jian4],樁|桩[zhuang1]"
+"ài qíng",
+"romance; love (romantic); CL:个[gè],份[fèn]"
 ],
 [
 "热情",
-3,
+2,
 "rè qíng",
 "cordial; enthusiastic; passion; passionate; passionately"
 ],
 [
-"情况",
-4,
-"qíng kuàng",
-"circumstances; state of affairs; situation; CL:個|个[ge4],種|种[zhong3]"
-],
-[
-"感情",
-4,
-"gǎn qíng",
-"emotion; sentiment; affection; feelings between two persons; CL:個|个[ge4],種|种[zhong3]"
-],
-[
-"爱情",
-4,
-"ài qíng",
-"romance; love (romantic); CL:個|个[ge4],份[fen4]"
+"事情",
+2,
+"shì qing",
+"affair; matter; thing; business; CL:件[jiàn],桩[zhuāng]"
 ],
 [
 "心情",
-4,
+2,
 "xīn qíng",
-"mood; frame of mind; CL:個|个[ge4]"
+"mood; frame of mind; CL:个[gè]"
+],
+[
+"感情",
+3,
+"gǎn qíng",
+"emotion; sentiment; affection; feelings between two persons; CL:个[gè],种[zhǒng]"
+],
+[
+"情感",
+3,
+"qíng gǎn",
+"feeling; emotion; to move (emotionally)"
+],
+[
+"情况",
+3,
+"qíng kuàng",
+"circumstances; state of affairs; situation; CL:个[gè],种[zhǒng]"
+],
+[
+"表情",
+4,
+"biǎo qíng",
+"(facial) expression; to express one's feelings"
+],
+[
+"情景",
+4,
+"qíng jǐng",
+"scene; spectacle; circumstances; situation"
 ],
 [
 "同情",
@@ -49,28 +67,28 @@
 "to sympathize with; sympathy"
 ],
 [
-"表情",
+"情节",
 5,
-"biǎo qíng",
-"(facial) expression; to express one's feelings"
+"qíng jié",
+"plot; circumstances"
 ],
 [
-"情绪",
+"情形",
 5,
-"qíng xù",
-"mood; state of mind; moodiness; CL:種|种[zhong3]"
+"qíng xing",
+"circumstances; situation; CL:个[gè]"
 ],
 [
-"情景",
+"神情",
 5,
-"qíng jǐng",
-"scene; spectacle; circumstances; situation"
+"shén qíng",
+"look; expression"
 ],
 [
-"情报",
+"病情",
 6,
-"qíng bào",
-"information; intelligence"
+"bìng qíng",
+"state of an illness; patient's condition"
 ],
 [
 "激情",
@@ -79,90 +97,216 @@
 "passion; fervor; enthusiasm; strong emotion"
 ],
 [
-"情形",
+"情绪",
 6,
-"qíng xing",
-"circumstances; situation; CL:個|个[ge4]"
+"qíng xù",
+"mood; state of mind; moodiness; CL:种[zhǒng]"
 ],
 [
-"情节",
-6,
-"qíng jié",
-"plot; circumstances"
+"恩情",
+7,
+"ēn qíng",
+"kindness; affection; grace; favor"
 ],
 [
-"情理",
-6,
-"qíng lǐ",
-"reason; sense"
+"风情",
+7,
+"fēng qíng",
+"mien; bearing; grace; amorous feelings; flirtatious expressions; local conditions and customs; wind force, direction etc"
 ],
 [
-"心甘情愿",
-6,
-"xīn gān qíng yuàn",
-"delighted to (do sth, idiom); perfectly happy to do; most willing to do"
+"敢情",
+7,
+"gǎn qing",
+"actually; as it turns out; indeed; of course"
 ],
 [
-"盛情",
-6,
-"shèng qíng",
-"great kindness; magnificent hospitality"
+"国情",
+7,
+"guó qíng",
+"the characteristics and circumstances particular to a country; current state of a country"
 ],
-[
-"风土人情",
-6,
-"fēng tǔ rén qíng",
-"local conditions and customs (idiom)"
-],
-[
-"深情厚谊",
-6,
-"shēn qíng hòu yì",
-"deep friendship"
-]
-],
-"extraWords": [
 [
 "行情",
-47.18,
+7,
 "háng qíng",
 "market price; quotation of market price; the current market situation"
 ],
 [
-"情感",
-41.57,
-"qíng gǎn",
-"feeling; emotion; to move (emotionally)"
+"合情合理",
+7,
+"hé qíng hé lǐ",
+"reasonable and fair (idiom)"
 ],
 [
-"病情",
-27.61,
-"bìng qíng",
-"state of an illness; patient's condition"
+"交情",
+7,
+"jiāo qing",
+"friendship; friendly relations"
 ],
 [
-"详情",
-26.4,
-"xiáng qíng",
-"details; particulars"
+"尽情",
+7,
+"jìn qíng",
+"as much as one likes"
+],
+[
+"剧情",
+7,
+"jù qíng",
+"story line; plot; drama (genre)"
+],
+[
+"冷酷无情",
+7,
+"lěng kù wú qíng",
+"cold-hearted; unfeeling; callous"
+],
+[
+"难为情",
+7,
+"nán wéi qíng",
+"embarrassed"
+],
+[
+"亲情",
+7,
+"qīn qíng",
+"affection; family love; love, esp. within a married couple or between parents and children"
+],
+[
+"情",
+7,
+"qíng",
+"feeling; emotion; passion; situation"
+],
+[
+"情报",
+7,
+"qíng bào",
+"information; intelligence"
+],
+[
+"情不自禁",
+7,
+"qíng bù zì jīn",
+"unable to restrain emotions; cannot help"
+],
+[
+"情调",
+7,
+"qíng diào",
+"sentiment; tone and mood; taste"
+],
+[
+"情怀",
+7,
+"qíng huái",
+"feelings; mood"
+],
+[
+"情结",
+7,
+"qíng jié",
+"complex (psychology)"
 ],
 [
 "情侣",
-23.42,
+7,
 "qíng lǚ",
 "sweethearts; lovers"
 ],
 [
 "情人",
-22.95,
+7,
 "qíng rén",
 "lover; sweetheart"
 ],
 [
-"风情",
-20.28,
-"fēng qíng",
-"mien; bearing; grace; amorous feelings; flirtatious expressions; local conditions and customs; wind force, direction etc"
+"情谊",
+7,
+"qíng yì",
+"friendship; camaraderie"
+],
+[
+"情愿",
+7,
+"qíng yuàn",
+"willingness; would rather (agree to X than Y)"
+],
+[
+"人情",
+7,
+"rén qíng",
+"human emotions; social relationship; friendship; favor; a good turn"
+],
+[
+"深情",
+7,
+"shēn qíng",
+"deep emotion; deep feeling; deep love"
+],
+[
+"抒情",
+7,
+"shū qíng",
+"to express emotion; lyric"
+],
+[
+"说情",
+7,
+"shuō qíng",
+"to intercede; to plead for sb else"
+],
+[
+"无情",
+7,
+"wú qíng",
+"pitiless; ruthless; merciless; heartless"
+],
+[
+"无情无义",
+7,
+"wú qíng wú yì",
+"completely lacking any feeling or sense of justice (idiom); cold and ruthless"
+],
+[
+"性情",
+7,
+"xìng qíng",
+"nature; temperament"
+],
+[
+"隐情",
+7,
+"yǐn qíng",
+"sth one wishes to keep secret; ulterior motive; a subject best avoided"
+],
+[
+"友情",
+7,
+"yǒu qíng",
+"friendly feelings; friendship"
+],
+[
+"真情",
+7,
+"zhēn qíng",
+"real situation; the truth"
+],
+[
+"酌情",
+7,
+"zhuó qíng",
+"to use discretion; to take circumstances into account; to make allowances pertinent to a situation"
+]
+],
+"extraWords": [
+[
+"详情",
+26.4,
+"xiáng qíng",
+"details; particulars"
 ],
 [
 "色情",
@@ -177,34 +321,10 @@
 "to know the facts; to understand; to be familiar with the situation"
 ],
 [
-"友情",
-17.35,
-"yǒu qíng",
-"friendly feelings; friendship"
-],
-[
 "疫情",
 17.11,
 "yì qíng",
 "epidemic situation"
-],
-[
-"剧情",
-17.06,
-"jù qíng",
-"story line; plot; drama (genre)"
-],
-[
-"神情",
-16.46,
-"shén qíng",
-"look; expression"
-],
-[
-"尽情",
-16.19,
-"jìn qíng",
-"as much as one likes"
 ],
 [
 "情人节",
@@ -213,46 +333,28 @@
 "Valentine's Day"
 ],
 [
-"国情",
-12.8,
-"guó qíng",
-"the characteristics and circumstances particular to a country; current state of a country"
-],
-[
 "调情",
 12.22,
 "tiáo qíng",
 "to flirt"
 ],
 [
-"亲情",
-12.16,
-"qīn qíng",
-"affection; family love; love, esp. within a married couple or between parents and children"
+"之情",
+11.01,
+"???",
+"???"
 ],
 [
-"无情",
-11.94,
-"wú qíng",
-"pitiless; ruthless; merciless; heartless"
+"情报局",
+8.14,
+"???",
+"???"
 ],
 [
-"深情",
-11.87,
-"shēn qíng",
-"deep emotion; deep feeling; deep love"
-],
-[
-"真情",
-10.1,
-"zhēn qíng",
-"real situation; the truth"
-],
-[
-"情愿",
-8.02,
-"qíng yuàn",
-"willingness; would rather (agree to X than Y)"
+"同情心",
+7.81,
+"???",
+"???"
 ],
 [
 "偷情",
@@ -279,40 +381,16 @@
 "inclinations and interests; delight; fun; interest; appeal"
 ],
 [
-"情怀",
-7.04,
-"qíng huái",
-"feelings; mood"
-],
-[
 "情歌",
 7.0,
 "qíng gē",
 "love song"
 ],
 [
-"性情",
-6.62,
-"xìng qíng",
-"nature; temperament"
-],
-[
-"人情",
-6.17,
-"rén qíng",
-"human emotions; social relationship; friendship; favor; a good turn"
-],
-[
 "温情",
 5.68,
 "wēn qíng",
 "tenderness; warmth; warmhearted; softhearted"
-],
-[
-"情结",
-5.57,
-"qíng jié",
-"complex (psychology)"
 ],
 [
 "案情",
@@ -325,12 +403,6 @@
 5.37,
 "qíng fù",
 "mistress; paramour (of married man)"
-],
-[
-"情调",
-5.29,
-"qíng diào",
-"sentiment; tone and mood; taste"
 ]
 ],
 "strokes": [

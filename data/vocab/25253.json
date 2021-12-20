@@ -1,126 +1,198 @@
 {
 "char": "报",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "report, tell, announce",
 "pron": "bào"
 },
 "words": [
 [
-"报纸",
-2,
-"bào zhǐ",
-"newspaper; newsprint; CL:份[fen4],期[qi1],張|张[zhang1]"
-],
-[
 "报名",
-4,
+2,
 "bào míng",
 "to sign up; to enter one's name; to apply; to register; to enroll; to enlist"
 ],
 [
-"报告",
-5,
-"bào gào",
-"to inform; to report; to make known; report; speech; talk; lecture; CL:篇[pian1],份[fen4],個|个[ge4],通[tong4]"
+"报纸",
+2,
+"bào zhǐ",
+"newspaper; newsprint; CL:份[fèn],期[qī],张[zhāng]"
 ],
 [
-"报道",
-5,
-"bào dào",
-"to report (news); report; CL:篇[pian1],份[fen4]"
+"日报",
+2,
+"rì bào",
+"daily newspaper"
 ],
 [
-"报社",
-5,
-"bào shè",
-"newspaper (i.e. a company); CL:家[jia1]"
+"晚报",
+2,
+"wǎn bào",
+"evening newspaper; (in a newspaper's name) Evening News"
+],
+[
+"报",
+3,
+"bào",
+"to announce; to inform; report; newspaper; recompense; revenge; CL:份[fèn],张[zhāng]"
 ],
 [
 "报到",
-5,
+3,
 "bào dào",
 "to report for duty; to check in; to register"
 ],
 [
+"报道",
+3,
+"bào dào",
+"to report (news); report; CL:篇[piān],份[fèn]"
+],
+[
+"报告",
+3,
+"bào gào",
+"to inform; to report; to make known; report; speech; talk; lecture; CL:篇[piān],份[fèn],个[gè],通[tòng]"
+],
+[
 "预报",
-5,
+3,
 "yù bào",
 "forecast"
 ],
 [
-"报警",
-6,
-"bào jǐng",
-"to sound an alarm; to report sth to the police"
-],
-[
-"情报",
-6,
-"qíng bào",
-"information; intelligence"
-],
-[
-"报复",
-6,
-"bào fù",
-"to make reprisals; to retaliate; revenge; retaliation"
-],
-[
-"回报",
-6,
-"huí bào",
-"(in) return; reciprocation; payback; retaliation; to report back; to reciprocate"
-],
-[
 "汇报",
-6,
+4,
 "huì bào",
 "to report; to give an account of; to collect information and report back"
 ],
 [
 "汇报",
-6,
+4,
 "huì bào",
 "to report; to give an account of; report"
 ],
 [
-"报仇",
+"报答",
+5,
+"bào dá",
+"to repay; to requite"
+],
+[
+"报警",
+5,
+"bào jǐng",
+"to sound an alarm; to report sth to the police"
+],
+[
+"回报",
+5,
+"huí bào",
+"(in) return; reciprocation; payback; retaliation; to report back; to reciprocate"
+],
+[
+"报刊",
 6,
+"bào kān",
+"newspapers and periodicals; the press"
+],
+[
+"报考",
+6,
+"bào kǎo",
+"to enter oneself for an examination"
+],
+[
+"海报",
+6,
+"hǎi bào",
+"poster; playbill; notice"
+],
+[
+"通报",
+6,
+"tōng bào",
+"to inform; to notify; to announce; circular; bulletin; (scientific) journal"
+],
+[
+"报仇",
+7,
 "bào chóu",
 "to take revenge; to avenge"
 ],
 [
 "报酬",
-6,
+7,
 "bào chou",
 "reward; remuneration"
 ],
 [
-"报答",
-6,
-"bào dá",
-"to repay; to requite"
+"报废",
+7,
+"bào fèi",
+"to scrap; to be written off"
+],
+[
+"报复",
+7,
+"bào fù",
+"to make reprisals; to retaliate; revenge; retaliation"
+],
+[
+"报社",
+7,
+"bào shè",
+"newspaper (i.e. a company); CL:家[jiā]"
+],
+[
+"报亭",
+7,
+"bào tíng",
+"kiosk; newsstand"
 ],
 [
 "报销",
-6,
+7,
 "bào xiāo",
 "to submit an expense account; to apply for reimbursement; to write off; to wipe out"
 ],
 [
+"电报",
+7,
+"diàn bào",
+"telegram; cable; telegraph; CL:封[fēng],份[fèn]"
+],
+[
+"举报",
+7,
+"jǔ bào",
+"to report (malefactors to the police); to denounce"
+],
+[
+"情报",
+7,
+"qíng bào",
+"information; intelligence"
+],
+[
+"上报",
+7,
+"shàng bào",
+"to report to one's superiors; to appear in the news; to reply to a letter"
+],
+[
 "申报",
-6,
+7,
 "shēn bào",
 "to report (to the authorities); to declare (to customs)"
 ]
 ],
 "extraWords": [
 [
-"举报",
-32.23,
-"jǔ bào",
-"to report (malefactors to the police); to denounce"
+"本报讯",
+195.38,
+"???",
+"???"
 ],
 [
 "时报",
@@ -141,12 +213,6 @@
 "morning newspaper; (in a newspaper's name) Morning Post"
 ],
 [
-"通报",
-25.08,
-"tōng bào",
-"to inform; to notify; to announce; circular; bulletin; (scientific) journal"
-],
-[
 "报价",
 22.39,
 "bào jià",
@@ -157,18 +223,6 @@
 16.93,
 "zǎo bào",
 "morning newspaper"
-],
-[
-"报考",
-14.73,
-"bào kǎo",
-"to enter oneself for an examination"
-],
-[
-"报刊",
-13.17,
-"bào kān",
-"newspapers and periodicals; the press"
 ],
 [
 "商报",
@@ -183,22 +237,10 @@
 "retribution; judgment"
 ],
 [
-"上报",
-11.84,
-"shàng bào",
-"to report to one's superiors; to appear in the news; to reply to a letter"
-],
-[
 "报案",
 11.06,
 "bào àn",
 "to report a case to the authorities"
-],
-[
-"海报",
-10.96,
-"hǎi bào",
-"poster; playbill; notice"
 ],
 [
 "快报",
@@ -225,16 +267,16 @@
 "forms for reporting statistics; report forms"
 ],
 [
-"晚报",
-9.95,
-"wǎn bào",
-"evening newspaper; (in a newspaper's name) Evening News"
-],
-[
 "京报",
 9.77,
 "Jīng Bào",
 "Peking Gazette (official government bulletin)"
+],
+[
+"报业",
+9.22,
+"???",
+"???"
 ],
 [
 "年报",
@@ -249,16 +291,34 @@
 "announcement; bulletin; communique"
 ],
 [
-"日报",
-8.1,
-"rì bào",
-"daily newspaper"
+"情报局",
+8.14,
+"???",
+"???"
 ],
 [
-"电报",
-6.41,
-"diàn bào",
-"telegram; cable; telegraph; CL:封[feng1],份[fen4]"
+"填报",
+7.36,
+"???",
+"???"
+],
+[
+"报告期",
+7.05,
+"???",
+"???"
+],
+[
+"新快报",
+7.03,
+"???",
+"???"
+],
+[
+"南方都市报",
+6.24,
+"???",
+"???"
 ],
 [
 "中国日报",
@@ -267,16 +327,22 @@
 "China Daily (an English language newspaper)"
 ],
 [
+"金陵晚报",
+5.84,
+"???",
+"???"
+],
+[
 "学报",
 5.8,
 "xué bào",
 "a scholarly journal; Journal, Bulletin etc"
 ],
 [
-"报废",
-5.78,
-"bào fèi",
-"to scrap; to be written off"
+"第一财经日报",
+5.34,
+"???",
+"???"
 ],
 [
 "简报",

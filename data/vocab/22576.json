@@ -1,12 +1,31 @@
 {
 "char": "堰",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "dam; embankment, dike, bank",
 "pron": "yàn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"堰",
+1.64,
+"yàn",
+"weir"
+],
+[
+"围堰",
+1.46,
+"wéi yàn",
+"a cofferdam"
+],
+[
+"都江堰",
+1.28,
+"Dū jiāng yàn",
+"Dujiangyan in Sichuan, a famous water engineering project and World Heritage Site; Dujiangyan county level city in Chengdu 成都[Chéng dū], Sichuan"
+]
+],
 "strokes": [
 "M 266 481 Q 291 491 321 501 Q 351 511 355 517 Q 362 526 357 533 Q 348 543 319 547 Q 291 548 268 536 L 222 515 Q 155 490 104 477 Q 70 467 97 454 Q 142 435 192 457 Q 205 461 223 467 L 266 481 Z",
 "M 260 311 Q 264 399 266 481 L 268 536 Q 268 653 287 716 Q 290 726 270 741 Q 236 759 212 763 Q 196 766 188 757 Q 181 750 189 735 Q 216 698 216 671 Q 220 596 222 515 L 223 467 Q 223 382 220 290 C 219 260 259 281 260 311 Z",

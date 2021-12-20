@@ -1,11 +1,23 @@
 {
 "char": "明",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "bright, light, brilliant; clear",
 "pron": "míng"
 },
 "words": [
+[
+"明白",
+1,
+"míng bai",
+"clear; obvious; unequivocal; to understand; to realize"
+],
+[
+"明年",
+1,
+"míng nián",
+"next year"
+],
 [
 "明天",
 1,
@@ -13,150 +25,216 @@
 "tomorrow"
 ],
 [
-"明白",
-3,
-"míng bai",
-"clear; obvious; unequivocal; to understand; to realize"
-],
-[
-"聪明",
-3,
-"cōng ming",
-"intelligent; clever; bright; smart; acute (of sight and hearing)"
-],
-[
-"证明",
-4,
-"zhèng míng",
-"proof; certificate; identification; testimonial; CL:個|个[ge4]; to prove; to testify; to confirm the truth of"
-],
-[
-"说明",
-4,
-"shuō míng",
-"to explain; to illustrate; to indicate; to show; to prove; explanation; directions; caption; CL:個|个[ge4]"
-],
-[
-"明显",
-5,
-"míng xiǎn",
-"clear; distinct; obvious"
-],
-[
 "明星",
-5,
+2,
 "míng xīng",
 "star; celebrity"
 ],
 [
+"说明",
+2,
+"shuō míng",
+"to explain; to illustrate; to indicate; to show; to prove; explanation; directions; caption; CL:个[gè]"
+],
+[
 "表明",
-5,
+3,
 "biǎo míng",
 "to make clear; to make known; to state clearly; to indicate; known"
 ],
 [
 "发明",
-5,
+3,
 "fā míng",
-"to invent; an invention; CL:個|个[ge4]"
-],
-[
-"明确",
-5,
-"míng què",
-"clear-cut; definite; explicit; to clarify; to specify; to make definite"
+"to invent; an invention; CL:个[gè]"
 ],
 [
 "光明",
-5,
+3,
 "guāng míng",
 "light; radiance; (fig.) bright (prospects etc); openhearted"
 ],
 [
+"明确",
+3,
+"míng què",
+"clear-cut; definite; explicit; to clarify; to specify; to make definite"
+],
+[
+"明显",
+3,
+"míng xiǎn",
+"clear; distinct; obvious"
+],
+[
+"声明",
+3,
+"shēng míng",
+"to state; to declare; statement; declaration; CL:项[xiàng],份[fèn]"
+],
+[
 "文明",
-5,
+3,
 "wén míng",
-"civilized; civilization; culture; CL:個|个[ge4]"
+"civilized; civilization; culture; CL:个[gè]"
+],
+[
+"证明",
+3,
+"zhèng míng",
+"proof; certificate; identification; testimonial; CL:个[gè]; to prove; to testify; to confirm the truth of"
 ],
 [
 "透明",
-5,
+4,
 "tòu míng",
 "transparent; open (non-secretive)"
 ],
 [
-"声明",
-6,
-"shēng míng",
-"to state; to declare; statement; declaration; CL:項|项[xiang4],份[fen4]"
-],
-[
-"明智",
-6,
-"míng zhì",
-"sensible; wise; judicious; sagacious"
-],
-[
-"明明",
-6,
-"míng míng",
-"obviously; plainly; undoubtedly; definitely"
-],
-[
-"黎明",
-6,
-"lí míng",
-"dawn; daybreak"
-],
-[
-"高明",
-6,
-"Gāo míng",
-"Gaoming District of Foshan City 佛山市[Fo2 shan1 Shi4], Guangdong"
-],
-[
-"高明",
-6,
-"gāo míng",
-"brilliant; superior; tall and bright"
-],
-[
-"分明",
-6,
-"fēn míng",
-"clear; distinct; evidently; clearly"
-],
-[
 "鲜明",
-6,
+4,
 "xiān míng",
 "bright; clear-cut; distinct"
 ],
 [
-"英明",
-6,
-"yīng míng",
-"wise; brilliant"
+"聪明",
+5,
+"cōng ming",
+"intelligent; clever; bright; smart; acute (of sight and hearing)"
 ],
 [
-"开明",
+"明亮",
+5,
+"míng liàng",
+"bright; shining; glittering; to become clear"
+],
+[
+"明明",
+5,
+"míng míng",
+"obviously; plainly; undoubtedly; definitely"
+],
+[
+"明日",
 6,
-"kāi míng",
-"enlightened; open-minded; enlightenment"
+"míng rì",
+"tomorrow"
+],
+[
+"清明节",
+6,
+"Qīng míng jié",
+"Qingming or Pure Brightness Festival or Tomb Sweeping Day, celebration for the dead (in early April)"
+],
+[
+"三明治",
+6,
+"sān míng zhì",
+"sandwich (loanword); CL:个[gè]"
+],
+[
+"说明书",
+6,
+"shuō míng shū",
+"(technical) manual; (book of) directions; synopsis (of a play or film); specification (patent); CL:本[běn]"
+],
+[
+"查明",
+7,
+"chá míng",
+"to investigate and find out; to ascertain"
+],
+[
+"分明",
+7,
+"fēn míng",
+"clear; distinct; evidently; clearly"
+],
+[
+"高明",
+7,
+"Gāo míng",
+"Gaoming District of Foshan City 佛山市[Fó shān Shì], Guangdong"
+],
+[
+"高明",
+7,
+"gāo míng",
+"brilliant; superior; tall and bright"
+],
+[
+"光明磊落",
+7,
+"guāng míng lěi luò",
+"open and candid (idiom); straightforward and upright"
+],
+[
+"精明",
+7,
+"jīng míng",
+"astute; shrewd"
+],
+[
+"黎明",
+7,
+"lí míng",
+"dawn; daybreak"
+],
+[
+"明朗",
+7,
+"míng lǎng",
+"bright; clear; obvious; forthright; open-minded; bright and cheerful"
+],
+[
+"明媚",
+7,
+"míng mèi",
+"bright and beautiful"
+],
+[
+"明智",
+7,
+"míng zhì",
+"sensible; wise; judicious; sagacious"
+],
+[
+"清明",
+7,
+"Qīng míng",
+"Qingming or Pure Brightness, 5th of the 24 solar terms 二十四节气[èr shí sì jié qi] 5th-19th April; Pure Brightness Festival or Tomb Sweeping Day (in early April)"
+],
+[
+"清明",
+7,
+"qīng míng",
+"clear and bright; sober and calm; (of a government or administration) well ordered"
+],
+[
+"失明",
+7,
+"shī míng",
+"to lose one's eyesight; to become blind; blindness"
+],
+[
+"照明",
+7,
+"zhào míng",
+"lighting; illumination; to light up; to illuminate"
 ]
 ],
 "extraWords": [
 [
-"明年",
-84.95,
-"míng nián",
-"next year"
+"明",
+121.87,
+"Míng",
+"Ming Dynasty (1368-1644); surname Ming; Ming (c. 2000 BC), fourth of the legendary Flame Emperors, 炎帝[Yán dì] descended from Shennong 神农[Shén nóng] Farmer God"
 ],
 [
-"三明治",
-34.22,
-"sān míng zhì",
-"sandwich (loanword); CL:個|个[ge4]"
+"明",
+121.87,
+"míng",
+"bright; opposite: dark 暗[àn]; (of meaning) clear; to understand; next; public or open; wise; generic term for a sacrifice to the gods"
 ],
 [
 "姚明",
@@ -195,34 +273,10 @@
 "spiritual culture"
 ],
 [
-"明日",
-11.7,
-"míng rì",
-"tomorrow"
-],
-[
-"照明",
-11.33,
-"zhào míng",
-"lighting; illumination; to light up; to illuminate"
-],
-[
-"说明书",
-11.28,
-"shuō míng shū",
-"(technical) manual; (book of) directions; synopsis (of a play or film); specification (patent); CL:本[ben3]"
-],
-[
-"明亮",
-9.99,
-"míng liàng",
-"bright; shining; glittering; to become clear"
-],
-[
-"查明",
-9.75,
-"chá míng",
-"to investigate and find out; to ascertain"
+"小明",
+10.14,
+"???",
+"???"
 ],
 [
 "明知",
@@ -243,16 +297,10 @@
 "pearl; jewel (of great value)"
 ],
 [
-"明朗",
-8.05,
-"míng lǎng",
-"bright; clear; obvious; forthright; open-minded; bright and cheerful"
-],
-[
 "明月",
 6.91,
 "míng yuè",
-"bright moon; refers to 夜明珠, a legendary pearl that can glow in the dark; CL:輪|轮[lun2]"
+"bright moon; refers to 夜明珠, a legendary pearl that can glow in the dark; CL:轮[lún]"
 ],
 [
 "透明度",
@@ -264,7 +312,7 @@
 "明了",
 6.52,
 "míng liǎo",
-"to understand clearly; to be clear about; plain; clear; also written 明瞭|明了[ming2 liao3]"
+"to understand clearly; to be clear about; plain; clear; also written 明了[míng liǎo]"
 ],
 [
 "明了",
@@ -279,10 +327,10 @@
 "postcard"
 ],
 [
-"精明",
-6.2,
-"jīng míng",
-"astute; shrewd"
+"聪明人",
+6.32,
+"???",
+"???"
 ],
 [
 "明朝",
@@ -307,6 +355,18 @@
 5.25,
 "Yuán míng yuán",
 "Yuanmingyuan, the Old Summer Palace, destroyed by the British and French army in 1860"
+],
+[
+"明基",
+5.19,
+"???",
+"???"
+],
+[
+"英明",
+5.05,
+"yīng míng",
+"wise; brilliant"
 ],
 [
 "标明",

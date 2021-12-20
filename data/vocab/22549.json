@@ -1,6 +1,6 @@
 {
 "char": "堕",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "fall, sink, let fall; degenerate",
 "pron": "duò"
@@ -8,7 +8,7 @@
 "words": [
 [
 "堕落",
-6,
+7,
 "duò luò",
 "to degrade; to degenerate; to become depraved; corrupt; a fall from grace"
 ]
@@ -19,6 +19,12 @@
 5.31,
 "duò tāi",
 "to induce an abortion; induced abortion"
+],
+[
+"堕",
+2.01,
+"duò",
+"to fall; to degenerate"
 ]
 ],
 "strokes": [

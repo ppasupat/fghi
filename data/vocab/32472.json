@@ -1,24 +1,36 @@
 {
 "char": "绘",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "draw, sketch, paint",
 "pron": "huì"
 },
 "words": [
 [
-"描绘",
+"绘画",
 6,
+"huì huà",
+"drawing; painting"
+],
+[
+"绘声绘色",
+7,
+"huì shēng huì sè",
+"vivid and colorful (idiom); true to life; lively and realistic"
+],
+[
+"描绘",
+7,
 "miáo huì",
 "to describe; to portray"
 ]
 ],
 "extraWords": [
 [
-"绘画",
-10.04,
-"huì huà",
-"drawing; painting"
+"绘",
+9.15,
+"huì",
+"to draw; to paint"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "肆",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "indulge; excess; numeral four; particle meaning now, therefore; shop",
 "pron": "sì"
@@ -8,18 +8,25 @@
 "words": [
 [
 "大肆",
-6,
+7,
 "dà sì",
 "wantonly; without restraint (of enemy or malefactor); unbridled"
 ],
 [
-"肆无忌惮",
-6,
-"sì wú jì dàn",
-"absolutely unrestrained; unbridled; without the slightest scruple"
+"放肆",
+7,
+"fàng sì",
+"wanton; unbridled; presumptuous; impudent"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"肆意",
+4.2,
+"sì yì",
+"wantonly; recklessly; willfully"
+]
+],
 "strokes": [
 "M 268 717 Q 286 711 394 740 Q 410 744 427 749 Q 449 756 453 760 Q 460 767 455 774 Q 448 784 423 788 Q 398 791 372 779 Q 347 769 319 759 Q 291 752 257 745 C 228 739 238 721 268 717 Z",
 "M 271 431 Q 270 477 268 515 L 267 541 Q 266 581 265 612 L 265 639 Q 265 678 268 717 C 269 736 269 736 257 745 Q 236 761 210 771 Q 197 775 188 770 Q 181 764 187 749 Q 209 706 218 659 Q 224 611 234 424 C 236 394 272 401 271 431 Z",

@@ -1,6 +1,6 @@
 {
 "char": "陌",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "foot path between rice fields",
 "pron": "mò"
@@ -8,7 +8,7 @@
 "words": [
 [
 "陌生",
-5,
+7,
 "mò shēng",
 "strange; unfamiliar"
 ]
@@ -19,6 +19,12 @@
 25.43,
 "mò shēng rén",
 "stranger"
+],
+[
+"陌",
+4.7,
+"mò",
+"raised path; street"
 ]
 ],
 "strokes": [

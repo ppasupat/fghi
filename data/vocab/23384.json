@@ -1,49 +1,79 @@
 {
 "char": "存",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "exist, live, be; survive; remain",
 "pron": "cún"
 },
 "words": [
 [
+"保存",
+3,
+"bǎo cún",
+"to conserve; to preserve; to keep; to save (a file etc) (computing)"
+],
+[
 "存",
-4,
+3,
 "cún",
 "to exist; to deposit; to store; to keep; to survive"
 ],
 [
 "存在",
-5,
+3,
 "cún zài",
 "to exist; to be; existence"
 ],
 [
-"保存",
-5,
-"bǎo cún",
-"to conserve; to preserve; to keep; to save (a file etc) (computing)"
-],
-[
 "生存",
-6,
+3,
 "shēng cún",
 "to exist; to survive"
+],
+[
+"存款",
+5,
+"cún kuǎn",
+"to deposit money (in a bank etc); bank savings; bank deposit"
 ],
 [
 "储存",
 6,
 "chǔ cún",
 "stockpile; to store; to stockpile; storage"
+],
+[
+"存放",
+7,
+"cún fàng",
+"to deposit; to store; to leave in sb's care"
+],
+[
+"存心",
+7,
+"cún xīn",
+"deliberately"
+],
+[
+"存折",
+7,
+"cún zhé",
+"passbook; bankbook"
+],
+[
+"内存",
+7,
+"nèi cún",
+"internal storage; computer memory; random access memory (RAM)"
+],
+[
+"幸存",
+7,
+"xìng cún",
+"to survive (a disaster)"
 ]
 ],
 "extraWords": [
-[
-"存款",
-37.93,
-"cún kuǎn",
-"to deposit money (in a bank etc); bank savings; bank deposit"
-],
 [
 "库存",
 29.38,
@@ -57,28 +87,10 @@
 "survivor"
 ],
 [
-"内存",
-23.87,
-"nèi cún",
-"internal storage; computer memory; random access memory (RAM)"
-],
-[
 "存储",
 20.36,
 "cún chǔ",
 "to store up; to stockpile; (computer) to save; to store; memory; storage"
-],
-[
-"存放",
-9.07,
-"cún fàng",
-"to deposit; to store; to leave in sb's care"
-],
-[
-"幸存",
-8.29,
-"xìng cún",
-"to survive (a disaster)"
 ],
 [
 "存活",
@@ -93,10 +105,10 @@
 "to exist at the same time; to coexist"
 ],
 [
-"存折",
-5.12,
-"cún zhé",
-"passbook; bankbook"
+"心存",
+6.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

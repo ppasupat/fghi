@@ -1,6 +1,6 @@
 {
 "char": "贿",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "bribe; bribes; riches, wealth",
 "pron": "huì"
@@ -8,18 +8,18 @@
 "words": [
 [
 "贿赂",
-6,
+7,
 "huì lù",
 "to bribe; a bribe"
+],
+[
+"受贿",
+7,
+"shòu huì",
+"to accept a bribe"
 ]
 ],
 "extraWords": [
-[
-"受贿",
-10.6,
-"shòu huì",
-"to accept a bribe"
-],
 [
 "行贿",
 5.67,

@@ -1,64 +1,76 @@
 {
 "char": "位",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "throne; position, post; rank, status; seat",
 "pron": "wèi"
 },
 "words": [
 [
+"单位",
+2,
+"dān wèi",
+"unit (of measure); unit (group of people as a whole); work unit (place of employment, esp. in the PRC prior to economic reform); CL:个[gè]"
+],
+[
 "位",
-3,
+2,
 "wèi",
 "position; location; place; seat; classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes); (physics) potential"
 ],
 [
 "座位",
-4,
+2,
 "zuò wèi",
-"seat; CL:個|个[ge4]"
+"seat; CL:个[gè]"
 ],
 [
-"位置",
-5,
-"wèi zhi",
-"position; place; seat; CL:個|个[ge4]"
+"各位",
+3,
+"gè wèi",
+"everybody; all (guests, colleagues etc); all of you"
 ],
 [
 "地位",
-5,
+4,
 "dì wèi",
-"position; status; place; CL:個|个[ge4]"
-],
-[
-"单位",
-5,
-"dān wèi",
-"unit (of measure); unit (group of people as a whole); work unit (place of employment, esp. in the PRC prior to economic reform); CL:個|个[ge4]"
+"position; status; place; CL:个[gè]"
 ],
 [
 "位于",
-5,
+4,
 "wèi yú",
 "to be located at; to be situated at; to lie"
 ],
 [
-"职位",
-6,
-"zhí wèi",
-"post; office; position"
+"位置",
+4,
+"wèi zhi",
+"position; place; seat; CL:个[gè]"
+],
+[
+"部位",
+5,
+"bù wèi",
+"position; place"
 ],
 [
 "学位",
-6,
+5,
 "xué wèi",
 "academic degree; place in school"
 ],
 [
-"部位",
+"职位",
+5,
+"zhí wèi",
+"post; office; position"
+],
+[
+"定位",
 6,
-"bù wèi",
-"position; place"
+"dìng wèi",
+"to orientate; to position; to categorize (as); to characterize (as); positioning; position; niche"
 ],
 [
 "岗位",
@@ -67,54 +79,96 @@
 "a post; a job"
 ],
 [
-"方位",
-6,
-"fāng wèi",
-"direction; points of the compass; bearing; position; azimuth"
-],
-[
 "诸位",
 6,
 "zhū wèi",
 "(pron) everyone; Ladies and Gentlemen; Sirs"
-]
-],
-"extraWords": [
-[
-"各位",
-118.7,
-"gè wèi",
-"everybody; all (guests, colleagues etc); all of you"
 ],
 [
-"定位",
-55.14,
-"dìng wèi",
-"to orientate; to position; to categorize (as); to characterize (as); positioning; position; niche"
+"车位",
+7,
+"chē wèi",
+"parking spot; unloading point; garage place; stand for taxi"
+],
+[
+"床位",
+7,
+"chuáng wèi",
+"bed (in hospital, hotel, train etc); berth; bunk"
+],
+[
+"错位",
+7,
+"cuò wèi",
+"to misplace; displacement (e.g. of broken bones); out of alignment; faulty contact; erroneous judgment; inversion (medical, e.g. breach delivery)"
 ],
 [
 "到位",
-35.19,
+7,
 "dào wèi",
 "to get to the intended location; to be in place; to be in position; precise; well (done)"
 ],
 [
+"换位",
+7,
+"huàn wèi",
+"to swap places; (logic) conversion; (car maintenance) to rotate (tires)"
+],
+[
+"价位",
+7,
+"jià wèi",
+"price level"
+],
+[
+"品位",
+7,
+"pǐn wèi",
+"rank; grade; quality; (aesthetic) taste"
+],
+[
+"全方位",
+7,
+"quán fāng wèi",
+"all around; omnidirectional; complete; holistic; comprehensive"
+],
+[
+"停车位",
+7,
+"tíng chē wèi",
+"parking space; parking spot"
+],
+[
 "位子",
-19.32,
+7,
 "wèi zi",
 "place; seat"
 ],
 [
-"价位",
-16.42,
-"jià wèi",
-"price level"
+"席位",
+7,
+"xí wèi",
+"a seat (in a theater, stadium etc); parliamentary or congressional seat"
 ],
+[
+"穴位",
+7,
+"xué wèi",
+"acupuncture point"
+]
+],
+"extraWords": [
 [
 "高位",
 16.32,
 "gāo wèi",
 "high position; eminent status; top job; raised position; upper (limbs); a high (i.e. local maximum); high point on scale, high grade, temperature, latitude etc"
+],
+[
+"第一位",
+15.38,
+"???",
+"???"
 ],
 [
 "首位",
@@ -123,10 +177,10 @@
 "first place"
 ],
 [
-"全方位",
-14.49,
-"quán fāng wèi",
-"all around; omnidirectional; complete; holistic; comprehensive"
+"事业单位",
+13.32,
+"???",
+"???"
 ],
 [
 "水位",
@@ -141,16 +195,10 @@
 "to be located at"
 ],
 [
-"品位",
-10.25,
-"pǐn wèi",
-"rank; grade; quality; (aesthetic) taste"
-],
-[
-"席位",
-9.41,
-"xí wèi",
-"a seat (in a theater, stadium etc); parliamentary or congressional seat"
+"那位",
+8.88,
+"???",
+"???"
 ],
 [
 "各就各位",
@@ -159,10 +207,28 @@
 "(of the people in a group) to get into position (idiom); (athletics) On your mark!"
 ],
 [
+"方位",
+7.18,
+"fāng wèi",
+"direction; points of the compass; bearing; position; azimuth"
+],
+[
 "第二位",
 6.93,
 "dì èr wèi",
 "second place"
+],
+[
+"哪位",
+6.78,
+"???",
+"???"
+],
+[
+"企事业单位",
+6.58,
+"???",
+"???"
 ],
 [
 "摊位",
@@ -171,22 +237,28 @@
 "vendor's booth"
 ],
 [
-"车位",
-5.29,
-"chē wèi",
-"parking spot; unloading point; garage place; stand for taxi"
+"本单位",
+5.71,
+"???",
+"???"
+],
+[
+"有关单位",
+5.43,
+"???",
+"???"
+],
+[
+"就位",
+5.25,
+"???",
+"???"
 ],
 [
 "位列",
 5.16,
 "wèi liè",
 "to rank"
-],
-[
-"穴位",
-5.11,
-"xué wèi",
-"acupuncture point"
 ]
 ],
 "strokes": [

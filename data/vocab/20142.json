@@ -1,49 +1,67 @@
 {
 "char": "亮",
-"level": 1,
+"level": "2",
 "info": {
 "gloss": "bright, brilliant, radiant, light",
 "pron": "liàng"
 },
 "words": [
 [
+"亮",
+2,
+"liàng",
+"bright; clear; resonant; to shine; to show; to reveal"
+],
+[
 "漂亮",
-1,
+2,
 "piào liang",
 "pretty; beautiful"
 ],
 [
 "月亮",
-3,
+2,
 "yuè liang",
 "the moon"
 ],
 [
-"亮",
+"明亮",
 5,
-"liàng",
-"bright; clear; resonant; to shine; to show; to reveal"
+"míng liàng",
+"bright; shining; glittering; to become clear"
+],
+[
+"洪亮",
+7,
+"hóng liàng",
+"loud and clear; resonant"
+],
+[
+"亮点",
+7,
+"liàng diǎn",
+"highlight; bright spot"
+],
+[
+"亮丽",
+7,
+"liàng lì",
+"bright and beautiful"
+],
+[
+"亮相",
+7,
+"liàng xiàng",
+"to strike a pose (Chinese opera); (fig.) to make a public appearance; to come out in public (revealing one's true personality, opinions etc); (of a product) to appear on the market or at a trade show etc"
 ],
 [
 "响亮",
-6,
+7,
 "xiǎng liàng",
 "loud and clear; resounding"
 ]
 ],
 "extraWords": [
-[
-"亮相",
-26.59,
-"liàng xiàng",
-"to strike a pose (Chinese opera); (fig.) to make a public appearance; to come out in public (revealing one's true personality, opinions etc); (of a product) to appear on the market or at a trade show etc"
-],
-[
-"明亮",
-9.99,
-"míng liàng",
-"bright; shining; glittering; to become clear"
-],
 [
 "亮度",
 8.57,
@@ -67,12 +85,6 @@
 6.11,
 "zhào liàng",
 "to illuminate; to light up; lighting"
-],
-[
-"亮丽",
-5.97,
-"liàng lì",
-"bright and beautiful"
 ],
 [
 "诸葛亮",

@@ -1,6 +1,6 @@
 {
 "char": "频",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "frequently, again and again",
 "pron": "pín"
@@ -13,30 +13,36 @@
 "frequency; (television) channel"
 ],
 [
+"频繁",
+5,
+"pín fán",
+"frequently; often"
+],
+[
 "视频",
-6,
+5,
 "shì pín",
 "video"
 ],
 [
 "频率",
-6,
+7,
 "pín lǜ",
 "frequency"
 ],
 [
-"频繁",
-6,
-"pín fán",
-"frequently; often"
+"频频",
+7,
+"pín pín",
+"repeatedly; again and again; continuously; constantly"
 ]
 ],
 "extraWords": [
 [
-"频频",
-15.69,
-"pín pín",
-"repeatedly; again and again; continuously; constantly"
+"频",
+24.13,
+"pín",
+"frequency; frequently; repetitious"
 ],
 [
 "音频",

@@ -1,6 +1,6 @@
 {
 "char": "哼",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "hum; sing softly; groan, moan; (Cant.) an interjecting indicating disapproval",
 "pron": "hēng, hng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "哼",
-6,
+7,
 "hēng",
 "to groan; to snort; to hum; to croon; humph!"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"哼哼",
+8.54,
+"???",
+"???"
+],
+[
+"哼唱",
+0.75,
+"hēng chàng",
+"to hum; to croon"
+]
+],
 "strokes": [
 "M 126 603 Q 113 609 89 613 Q 76 617 73 612 Q 66 606 74 590 Q 104 518 116 403 Q 117 369 136 344 Q 152 322 159 337 Q 166 355 165 384 L 161 418 Q 143 542 142 574 C 141 597 141 597 126 603 Z",
 "M 300 437 Q 316 543 344 575 Q 368 602 343 616 Q 322 628 294 646 Q 275 656 255 644 Q 218 622 126 603 C 97 597 113 568 142 574 L 232 593 Q 256 597 261 588 Q 271 581 264 539 Q 257 494 248 441 C 243 411 295 407 300 437 Z",

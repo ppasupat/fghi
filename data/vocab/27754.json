@@ -1,12 +1,32 @@
 {
 "char": "汪",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "vast, extensive, deep; surname",
 "pron": "wāng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"汪洋",
+7,
+"wāng yáng",
+"vast body of water; CL:片[piàn]"
+]
+],
+"extraWords": [
+[
+"汪",
+11.16,
+"Wāng",
+"surname Wang"
+],
+[
+"汪",
+11.16,
+"wāng",
+"expanse of water; ooze; (onom.) bark; classifier for liquids: pool, puddle"
+]
+],
 "strokes": [
 "M 263 720 Q 288 698 317 670 Q 333 655 351 656 Q 363 657 368 673 Q 374 689 363 723 Q 351 754 257 775 Q 239 779 232 775 Q 226 771 228 756 Q 232 743 263 720 Z",
 "M 165 523 Q 207 469 238 452 Q 253 448 263 461 Q 270 474 268 491 Q 264 516 246 530 Q 221 549 180 561 Q 164 568 154 564 Q 147 563 149 550 Q 150 538 165 523 Z",

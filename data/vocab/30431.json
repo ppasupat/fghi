@@ -1,16 +1,34 @@
 {
 "char": "盟",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "swear; oath, covenant, alliance",
 "pron": "méng"
 },
 "words": [
 [
+"加盟",
+6,
+"jiā méng",
+"to become a member of an alliance or union; to align; to join; participate"
+],
+[
 "联盟",
 6,
 "lián méng",
 "alliance; union; coalition"
+],
+[
+"盟友",
+7,
+"méng yǒu",
+"ally"
+],
+[
+"同盟",
+7,
+"tóng méng",
+"alliance"
 ]
 ],
 "extraWords": [
@@ -21,22 +39,16 @@
 "European Union; EU"
 ],
 [
-"加盟",
-24.78,
-"jiā méng",
-"to become a member of an alliance or union; to align; to join; participate"
+"盟",
+12.49,
+"méng",
+"oath; pledge; union; to ally; league, a subdivision corresponding to prefecture in Inner Mongolia"
 ],
 [
 "东盟",
 10.52,
 "Dōng Méng",
-"ASEAN; abbr. for 東南亞國家聯盟|东南亚国家联盟[Dong1 nan2 ya4 Guo2 jia1 Lian2 meng2]"
-],
-[
-"同盟",
-6.25,
-"tóng méng",
-"alliance"
+"ASEAN; abbr. for 东南亚国家联盟[Dōng nán yà Guó jiā Lián méng]"
 ]
 ],
 "strokes": [

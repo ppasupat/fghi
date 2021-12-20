@@ -1,6 +1,6 @@
 {
 "char": "浓",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "thick, strong, concentrated",
 "pron": "nóng"
@@ -8,15 +8,33 @@
 "words": [
 [
 "浓",
-5,
+4,
 "nóng",
 "concentrated; dense; strong (smell etc)"
 ],
 [
 "浓厚",
-6,
+7,
 "nóng hòu",
 "dense; thick (fog, clouds etc); to have a strong interest in; deep; fully saturated (color)"
+],
+[
+"浓缩",
+7,
+"nóng suō",
+"to concentrate (a liquid); concentration; espresso coffee; abbr. for 意式濃縮咖啡|意式浓缩咖啡"
+],
+[
+"浓郁",
+7,
+"nóng yù",
+"rich; strong; heavy (fragrance); dense; full-bodied; intense"
+],
+[
+"浓重",
+7,
+"nóng zhòng",
+"dense; thick; strong; rich (colors); heavy (aroma); deep (friendship); profound (effect)"
 ]
 ],
 "extraWords": [
@@ -27,16 +45,10 @@
 "concentration (percentage of dissolved material in a solution); consistency; thickness; density; viscosity"
 ],
 [
-"浓缩",
-10.65,
-"nóng suō",
-"to concentrate (a liquid); concentration; espresso coffee; abbr. for 意式濃縮咖啡|意式浓缩咖啡"
-],
-[
-"浓郁",
-9.1,
-"nóng yù",
-"rich; strong; heavy (fragrance); dense; full-bodied; intense"
+"浓浓",
+7.33,
+"???",
+"???"
 ],
 [
 "浓烟",

@@ -1,6 +1,6 @@
 {
 "char": "羽",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "feather, plume; wings; rad. 124",
 "pron": "yǔ"
@@ -8,18 +8,24 @@
 "words": [
 [
 "羽毛球",
-4,
+5,
 "yǔ máo qiú",
-"shuttlecock; badminton; CL:個|个[ge4]"
+"shuttlecock; badminton; CL:个[gè]"
 ],
 [
 "羽绒服",
-6,
+5,
 "yǔ róng fú",
 "down-filled garment"
 ]
 ],
 "extraWords": [
+[
+"羽",
+18.83,
+"yǔ",
+"feather; 5th note in pentatonic scale"
+],
 [
 "羽毛",
 6.74,

@@ -1,12 +1,31 @@
 {
 "char": "赣",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "Jiangxi province; places therein",
 "pron": "gàn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"赣",
+4.21,
+"Gàn",
+"variant of 赣[Gàn]"
+],
+[
+"赣",
+4.21,
+"Gàn",
+"variant of 赣[Gàn]"
+],
+[
+"赣",
+4.21,
+"Gàn",
+"abbr. for Jiangxi Province 江西省[Jiāng xī Shěng]; Gan River in Jiangxi Province 江西省[Jiāng xī Shěng]"
+]
+],
 "strokes": [
 "M 307 824 Q 365 773 390 774 Q 403 775 406 794 Q 406 807 393 824 Q 369 849 307 850 Q 298 850 299 839 Q 299 832 307 824 Z",
 "M 404 702 Q 426 706 445 707 Q 454 706 462 718 Q 462 728 443 736 Q 412 752 343 731 Q 334 730 325 727 Q 310 724 195 705 Q 170 701 190 687 Q 218 666 240 671 Q 297 684 372 696 L 404 702 Z",

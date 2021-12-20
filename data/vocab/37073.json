@@ -1,6 +1,6 @@
 {
 "char": "郑",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "state in today's Henan; surname",
 "pron": "zhèng"
@@ -8,12 +8,24 @@
 "words": [
 [
 "郑重",
-6,
+7,
 "zhèng zhòng",
 "serious; solemn; earnest; conscientious"
 ]
 ],
 "extraWords": [
+[
+"郑",
+23.62,
+"Zhèng",
+"Zheng state during the Warring States period; surname Zheng; abbr. for 郑州[Zhèng zhōu]"
+],
+[
+"郑",
+23.62,
+"zhèng",
+"bound form used in 郑重[zhèng zhòng] and 雅郑[yǎ zhèng]"
+],
 [
 "郑州",
 22.5,
@@ -21,10 +33,22 @@
 "Zhengzhou prefecture level city and capital of Henan Province in central China"
 ],
 [
+"郑智",
+10.01,
+"???",
+"???"
+],
+[
 "郑州市",
 7.62,
 "Zhèng zhōu Shì",
 "Zhengzhou prefecture level city and capital of Henan Province in central China"
+],
+[
+"郑洁",
+5.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "滴",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "drip; drop of water",
 "pron": "dī"
@@ -8,7 +8,7 @@
 "words": [
 [
 "滴",
-5,
+6,
 "dī",
 "a drop; to drip"
 ]
@@ -19,6 +19,12 @@
 7.55,
 "diǎn dī",
 "a drip; a little bit; intravenous drip (used to administer drugs)"
+],
+[
+"点点滴滴",
+3.34,
+"diǎn diǎn dī dī",
+"bit by bit; dribs and drabs; the little details; every aspect"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "姑",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "father's sister; husband's mother",
 "pron": "gū"
@@ -8,29 +8,41 @@
 "words": [
 [
 "姑娘",
-5,
+3,
 "gū niang",
-"girl; young woman; young lady; daughter; paternal aunt (old); CL:個|个[ge4]"
+"girl; young woman; young lady; daughter; paternal aunt (old); CL:个[gè]"
 ],
 [
 "姑姑",
-5,
-"gū gu",
-"paternal aunt; CL:個|个[ge4]"
-],
-[
-"姑且",
 6,
-"gū qiě",
-"for the time being; tentatively"
+"gū gu",
+"paternal aunt; CL:个[gè]"
 ]
 ],
 "extraWords": [
+[
+"小姑娘",
+21.28,
+"???",
+"???"
+],
+[
+"姑",
+9.35,
+"gū",
+"paternal aunt; husband's sister; husband's mother (old); nun; for the time being (literary)"
+],
 [
 "姑妈",
 9.27,
 "gū mā",
 "(coll.) father's married sister; paternal aunt"
+],
+[
+"姑娘们",
+5.45,
+"???",
+"???"
 ]
 ],
 "strokes": [

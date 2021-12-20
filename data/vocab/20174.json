@@ -1,6 +1,6 @@
 {
 "char": "从",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "from, by, since, whence, through",
 "pron": "cóng"
@@ -8,51 +8,57 @@
 "words": [
 [
 "从",
-2,
+1,
 "cóng",
-"variant of 從|从[cong2]"
+"variant of 从[cóng]"
 ],
 [
 "从",
-2,
+1,
 "Cóng",
 "surname Cong"
 ],
 [
 "从",
-2,
+1,
 "cóng",
 "from; through; via; to follow; to obey; to engage in (an activity); never (in negative sentence); (Taiwan pr. [zong4]) retainer; assistant; auxiliary; subordinate; related by common paternal grandfather or earlier ancestor"
 ],
 [
+"从小",
+2,
+"cóng xiǎo",
+"from childhood; from a young age"
+],
+[
 "从来",
-4,
+3,
 "cóng lái",
 "always; at all times; never (if used in negative sentence)"
 ],
 [
-"自从",
-5,
-"zì cóng",
-"since (a time); ever since"
-],
-[
-"从此",
-5,
-"cóng cǐ",
-"from now on; since then; henceforth"
-],
-[
 "从前",
-5,
+3,
 "cóng qián",
 "previously; formerly; once upon a time"
 ],
 [
 "从事",
-5,
+3,
 "cóng shì",
 "to go for; to engage in; to undertake; to deal with; to handle; to do"
+],
+[
+"自从",
+3,
+"zì cóng",
+"since (a time); ever since"
+],
+[
+"从此",
+4,
+"cóng cǐ",
+"from now on; since then; henceforth"
 ],
 [
 "从而",
@@ -61,72 +67,102 @@
 "thus; thereby"
 ],
 [
-"服从",
-6,
-"fú cóng",
-"to obey (an order); to comply; to defer"
-],
-[
-"从容",
-6,
-"cóng róng",
-"to go easy; unhurried; calm; Taiwan pr. [cong1 rong2]"
-]
-],
-"extraWords": [
-[
-"从没",
-116.47,
-"cóng méi",
-"never (in the past); never did"
-],
-[
-"从未",
-60.45,
-"cóng wèi",
-"never"
-],
-[
-"从小",
-28.39,
-"cóng xiǎo",
-"from childhood; from a young age"
-],
-[
 "从中",
-22.94,
+5,
 "cóng zhōng",
 "from within; therefrom"
 ],
 [
+"服从",
+5,
+"fú cóng",
+"to obey (an order); to comply; to defer"
+],
+[
 "从不",
-22.4,
+6,
 "cóng bù",
 "never"
 ],
 [
+"从没",
+6,
+"cóng méi",
+"never (in the past); never did"
+],
+[
+"从今以后",
+7,
+"cóng jīn yǐ hòu",
+"from now on; henceforward"
+],
+[
 "从来不",
-11.67,
+7,
 "cóng lái bù",
 "never"
 ],
+[
+"从容",
+7,
+"cóng róng",
+"to go easy; unhurried; calm; Taiwan pr. [cong1 rong2]"
+],
+[
+"从容不迫",
+7,
+"cóng róng bù pò",
+"calm; unruffled"
+],
+[
+"从头",
+7,
+"cóng tóu",
+"anew; from the start"
+],
+[
+"从未",
+7,
+"cóng wèi",
+"never"
+],
+[
+"从业",
+7,
+"cóng yè",
+"to practice (a trade)"
+],
+[
+"从早到晚",
+7,
+"cóng zǎo dào wǎn",
+"from morning till night; from dawn to dusk; all day long"
+],
+[
+"力不从心",
+7,
+"lì bù cóng xīn",
+"less capable than desirable (idiom); not as strong as one would wish; the spirit is willing but the flesh is weak"
+],
+[
+"顺从",
+7,
+"shùn cóng",
+"obedient; to comply; to submit; to defer"
+],
+[
+"听从",
+7,
+"tīng cóng",
+"to listen and obey; to comply with; to heed; to hearken"
+]
+],
+"extraWords": [
 [
 "从业人员",
 10.19,
 "cóng yè rén yuán",
 "employee; person employed in a trade or profession"
-],
-[
-"从头",
-8.88,
-"cóng tóu",
-"anew; from the start"
-],
-[
-"听从",
-6.86,
-"tīng cóng",
-"to listen and obey; to comply with; to heed; to hearken"
 ],
 [
 "无从",
@@ -141,10 +177,10 @@
 "strict; rigorous; severely"
 ],
 [
-"从业",
-5.17,
-"cóng yè",
-"to practice (a trade)"
+"从今",
+5.31,
+"???",
+"???"
 ]
 ],
 "strokes": [

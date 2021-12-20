@@ -1,6 +1,6 @@
 {
 "char": "钱",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "money, currency, coins",
 "pron": "qián"
@@ -16,51 +16,105 @@
 "钱",
 1,
 "qián",
-"coin; money; CL:筆|笔[bi3]; unit of weight, one tenth of a tael 兩|两[liang3]"
+"coin; money; CL:笔[bǐ]; unit of weight, one tenth of a tael 两[liǎng]"
 ],
-[
-"零钱",
-4,
-"líng qián",
-"change (of money); small change; pocket money"
-],
-[
-"本钱",
-6,
-"běn qián",
-"capital; (fig.) asset; advantage; the means (to do sth)"
-],
-[
-"压岁钱",
-6,
-"yā suì qián",
-"money given to children as new year present"
-]
-],
-"extraWords": [
 [
 "钱包",
-29.72,
+1,
 "qián bāo",
 "purse; wallet"
 ],
 [
+"价钱",
+3,
+"jià qian",
+"price"
+],
+[
+"挣钱",
+5,
+"zhèng qián",
+"to make money"
+],
+[
+"金钱",
+6,
+"jīn qián",
+"money; currency"
+],
+[
+"省钱",
+6,
+"shěng qián",
+"to save money"
+],
+[
 "赚钱",
-28.61,
+6,
 "zhuàn qián",
 "to earn money; moneymaking"
 ],
+[
+"本钱",
+7,
+"běn qián",
+"capital; (fig.) asset; advantage; the means (to do sth)"
+],
+[
+"见钱眼开",
+7,
+"jiàn qián yǎn kāi",
+"to open one's eyes wide at the sight of profit (idiom); thinking of nothing but personal gain; money-grubbing"
+],
+[
+"零花钱",
+7,
+"líng huā qián",
+"pocket money; allowance"
+],
+[
+"零钱",
+7,
+"líng qián",
+"change (of money); small change; pocket money"
+],
+[
+"赔钱",
+7,
+"péi qián",
+"to lose money; to pay for damages"
+],
+[
+"钱财",
+7,
+"qián cái",
+"wealth; money"
+],
+[
+"私房钱",
+7,
+"sī fáng qián",
+"secret purse; secret stash of money"
+],
+[
+"掏钱",
+7,
+"tāo qián",
+"to pay; to spend money; to fork out"
+],
+[
+"值钱",
+7,
+"zhí qián",
+"valuable; costly; expensive"
+]
+],
+"extraWords": [
 [
 "有钱",
 27.09,
 "yǒu qián",
 "well-off; wealthy"
-],
-[
-"金钱",
-23.56,
-"jīn qián",
-"money; currency"
 ],
 [
 "花钱",
@@ -69,40 +123,10 @@
 "to spend money"
 ],
 [
-"价钱",
-18.54,
-"jià qian",
-"price"
-],
-[
-"值钱",
-11.12,
-"zhí qián",
-"valuable; costly; expensive"
-],
-[
-"挣钱",
-9.9,
-"zhèng qián",
-"to make money"
-],
-[
-"钱财",
-6.88,
-"qián cái",
-"wealth; money"
-],
-[
 "大钱",
 6.47,
 "dà qián",
 "large sum of money; old Chinese type of coin of high denomination"
-],
-[
-"省钱",
-6.16,
-"shěng qián",
-"to save money"
 ],
 [
 "借钱",

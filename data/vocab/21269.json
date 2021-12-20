@@ -1,6 +1,6 @@
 {
 "char": "匕",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "spoon, ladle; knife, dirk",
 "pron": "bǐ"
@@ -12,6 +12,18 @@
 5.05,
 "bǐ shǒu",
 "dagger"
+],
+[
+"匕",
+2.16,
+"bǐ",
+"dagger; ladle; ancient type of spoon"
+],
+[
+"图穷匕现",
+0.03,
+"???",
+"???"
 ]
 ],
 "strokes": [

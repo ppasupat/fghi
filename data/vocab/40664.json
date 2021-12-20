@@ -1,42 +1,60 @@
 {
 "char": "默",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "silent; quiet, still; dark",
 "pron": "mò"
 },
 "words": [
 [
-"幽默",
-4,
-"yōu mò",
-"(loanword) humor; humorous"
-],
-[
 "沉默",
-5,
+4,
 "chén mò",
 "taciturn; uncommunicative; silent"
 ],
 [
 "默默",
-6,
+4,
 "mò mò",
 "in silence; not speaking"
 ],
 [
+"幽默",
+5,
+"yōu mò",
+"(loanword) humor; humorous"
+],
+[
+"默读",
+7,
+"mò dú",
+"to read in silence"
+],
+[
+"默默无闻",
+7,
+"mò mò wú wén",
+"obscure and unknown (idiom); an outsider without any reputation; a nobody; an unknown quantity"
+],
+[
+"默契",
+7,
+"mò qì",
+"tacit understanding; mutual understanding; rapport; connected at a deep level with each other; (of team members) well coordinated; tight"
+],
+[
 "潜移默化",
-6,
+7,
 "qián yí mò huà",
 "imperceptible influence; to influence secretly"
 ]
 ],
 "extraWords": [
 [
-"默契",
-11.22,
-"mò qì",
-"tacit understanding; mutual understanding; rapport; connected at a deep level with each other; (of team members) well coordinated; tight"
+"默",
+8.62,
+"mò",
+"silent; to write from memory"
 ],
 [
 "幽默感",

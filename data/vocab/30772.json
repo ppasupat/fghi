@@ -1,78 +1,96 @@
 {
 "char": "破",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "break, ruin, destroy; rout",
 "pron": "pò"
 },
 "words": [
 [
+"打破",
+3,
+"dǎ pò",
+"to break; to smash"
+],
+[
 "破",
-4,
+3,
 "pò",
 "broken; damaged; worn out; lousy; rotten; to break, split or cleave; to get rid of; to destroy; to break with; to defeat; to capture (a city etc); to expose the truth of"
 ],
 [
 "破坏",
-5,
+3,
 "pò huài",
 "destruction; damage; to wreck; to break; to destroy"
 ],
 [
 "破产",
-5,
+4,
 "pò chǎn",
 "to go bankrupt; to become impoverished; bankruptcy"
 ],
 [
 "突破",
-6,
+5,
 "tū pò",
 "to break through; to make a breakthrough; to surmount (an obstacle); (sports) to break through the opponent's defense"
 ],
 [
-"破例",
-6,
-"pò lì",
-"to make an exception"
-]
+"破案",
+7,
+"pò àn",
+"to solve a case; shabby old table"
 ],
-"extraWords": [
 [
-"打破",
-36.89,
-"dǎ pò",
-"to break; to smash"
+"破除",
+7,
+"pò chú",
+"to eliminate; to do away with; to get rid of"
+],
+[
+"破解",
+7,
+"pò jiě",
+"to break (a bond, constraint etc); to explain; to unravel; to decipher; to decode; to crack (software)"
+],
+[
+"破旧",
+7,
+"pò jiù",
+"shabby"
 ],
 [
 "破裂",
-12.47,
+7,
 "pò liè",
 "to rupture; to fracture; to break down; (linguistics) plosion"
 ],
 [
-"破案",
-8.53,
-"pò àn",
-"to solve a case; shabby old table"
+"破灭",
+7,
+"pò miè",
+"to be shattered; to be annihilated (of hope, illusions etc)"
 ],
+[
+"破碎",
+7,
+"pò suì",
+"to smash to pieces; to shatter"
+],
+[
+"突破口",
+7,
+"tū pò kǒu",
+"breach; gap; breakthrough point"
+]
+],
+"extraWords": [
 [
 "破门",
 8.25,
 "pò mén",
 "to burst or force open a door; to excommunicate sb (from the Roman Catholic Church); to score a goal (in football, hockey etc)"
-],
-[
-"破碎",
-7.76,
-"pò suì",
-"to smash to pieces; to shatter"
-],
-[
-"破解",
-7.07,
-"pò jiě",
-"to break (a bond, constraint etc); to explain; to unravel; to decipher; to decode; to crack (software)"
 ],
 [
 "破烂",
@@ -102,19 +120,13 @@
 "拿破仑",
 5.99,
 "Ná pò lún",
-"variant of 拿破崙|拿破仑[Na2 po4 lun2]"
+"variant of 拿破仑[Ná pò lún]"
 ],
 [
 "拿破仑",
 5.99,
 "Ná pò lún",
 "Napoleon (name); Napoleon Bonaparte (1769-1821), Emperor of France 1804-1815"
-],
-[
-"突破口",
-5.98,
-"tū pò kǒu",
-"breach; gap; breakthrough point"
 ]
 ],
 "strokes": [

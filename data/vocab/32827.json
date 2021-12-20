@@ -1,36 +1,54 @@
 {
 "char": "耻",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "shame, humiliation; ashamed",
 "pron": "chǐ"
 },
 "words": [
 [
+"不耻下问",
+7,
+"bù chǐ xià wèn",
+"not feel ashamed to ask and learn from one's subordinates"
+],
+[
+"耻辱",
+7,
+"chǐ rǔ",
+"disgrace; shame; humiliation"
+],
+[
+"耻笑",
+7,
+"chǐ xiào",
+"to sneer at sb; to ridicule"
+],
+[
+"可耻",
+7,
+"kě chǐ",
+"shameful; disgraceful; ignominious"
+]
+],
+"extraWords": [
+[
 "羞耻",
-6,
+11.66,
 "xiū chǐ",
 "(a feeling of) shame"
 ],
 [
 "无耻",
-6,
+9.18,
 "wú chǐ",
 "without any sense of shame; unembarrassed; shameless"
-]
-],
-"extraWords": [
-[
-"耻辱",
-8.85,
-"chǐ rǔ",
-"disgrace; shame; humiliation"
 ],
 [
-"可耻",
+"耻",
 6.2,
-"kě chǐ",
-"shameful; disgraceful; ignominious"
+"chǐ",
+"shame; disgrace"
 ]
 ],
 "strokes": [

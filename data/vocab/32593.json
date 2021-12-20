@@ -1,6 +1,6 @@
 {
 "char": "网",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "net; network; KangXi radical 122",
 "pron": "wǎng"
@@ -8,39 +8,99 @@
 "words": [
 [
 "上网",
-3,
+1,
 "shàng wǎng",
 "to go online; to connect to the Internet; (of a document etc) to be uploaded to the Internet; (tennis, volleyball etc) to move in close to the net"
 ],
 [
+"网上",
+1,
+"wǎng shàng",
+"online"
+],
+[
+"网友",
+1,
+"wǎng yǒu",
+"online friend; Internet user"
+],
+[
+"网",
+2,
+"wǎng",
+"net; network"
+],
+[
+"网球",
+2,
+"wǎng qiú",
+"tennis; tennis ball; CL:个[gè]"
+],
+[
 "网站",
-4,
+2,
 "wǎng zhàn",
 "website; network station; node"
 ],
 [
-"网球",
-4,
-"wǎng qiú",
-"tennis; tennis ball; CL:個|个[ge4]"
-],
-[
 "互联网",
-4,
+3,
 "Hù lián wǎng",
 "Internet"
 ],
 [
 "网络",
-5,
+4,
 "Wǎng luò",
 "Internet"
 ],
 [
 "网络",
-5,
+4,
 "wǎng luò",
 "network (computing, telecommunications, transport etc)"
+],
+[
+"网址",
+4,
+"wǎng zhǐ",
+"website; web address; URL"
+],
+[
+"网吧",
+6,
+"wǎng bā",
+"Internet café"
+],
+[
+"网页",
+6,
+"wǎng yè",
+"web page"
+],
+[
+"电网",
+7,
+"diàn wǎng",
+"electrical network"
+],
+[
+"联网",
+7,
+"lián wǎng",
+"network; cyber-"
+],
+[
+"网点",
+7,
+"wǎng diǎn",
+"(computing) node in a network; (commerce) sales outlet; branch; service center; (illustration) screentone; halftone dot"
+],
+[
+"网民",
+7,
+"wǎng mín",
+"web user; netizen"
 ]
 ],
 "extraWords": [
@@ -51,46 +111,10 @@
 "Xinhua News Network"
 ],
 [
-"网上",
-29.0,
-"wǎng shàng",
-"online"
-],
-[
 "中新网",
 23.63,
 "Zhōng xīn wǎng",
 "ChinaNews (China News Service)"
-],
-[
-"网吧",
-21.32,
-"wǎng bā",
-"Internet café"
-],
-[
-"网点",
-18.73,
-"wǎng diǎn",
-"(computing) node in a network; (commerce) sales outlet; branch; service center; (illustration) screentone; halftone dot"
-],
-[
-"网民",
-15.87,
-"wǎng mín",
-"web user; netizen"
-],
-[
-"电网",
-14.84,
-"diàn wǎng",
-"electrical network"
-],
-[
-"联网",
-8.52,
-"lián wǎng",
-"network; cyber-"
 ],
 [
 "视网膜",

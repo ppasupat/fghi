@@ -1,12 +1,32 @@
 {
 "char": "鹤",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "crane; Grus species (various)",
 "pron": "hè"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"鹤立鸡群",
+7,
+"hè lì jī qún",
+"a crane in a flock of chicken (idiom); way above the common; manifestly superior"
+],
+[
+"仙鹤",
+7,
+"xiān hè",
+"red-crowned crane (Grus japonensis)"
+]
+],
+"extraWords": [
+[
+"鹤",
+9.45,
+"hè",
+"crane"
+]
+],
 "strokes": [
 "M 202 614 Q 190 632 177 642 Q 174 646 169 642 Q 165 639 164 629 Q 168 607 149 562 Q 140 547 142 531 Q 145 515 153 501 Q 160 491 165 499 Q 175 502 187 537 Q 196 562 208 589 C 212 599 212 599 202 614 Z",
 "M 341 625 Q 413 649 435 646 Q 448 645 449 639 Q 449 635 425 589 Q 421 579 425 577 Q 429 574 441 581 Q 478 606 510 613 Q 535 620 535 626 Q 534 633 483 670 Q 465 685 405 666 Q 380 663 350 652 L 300 640 Q 270 634 202 614 C 173 606 178 593 208 589 Q 224 585 239 590 Q 261 600 290 609 L 341 625 Z",

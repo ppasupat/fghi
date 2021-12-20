@@ -1,6 +1,6 @@
 {
 "char": "跌",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "stumble, slip, fall down; stamp",
 "pron": "diē"
@@ -11,15 +11,15 @@
 6,
 "diē",
 "to fall; to tumble; to trip; (of prices etc) to drop; Taiwan pr. [die2]"
+],
+[
+"下跌",
+7,
+"xià diē",
+"to fall; to tumble"
 ]
 ],
 "extraWords": [
-[
-"下跌",
-68.43,
-"xià diē",
-"to fall; to tumble"
-],
 [
 "跌幅",
 17.21,

@@ -1,12 +1,32 @@
 {
 "char": "渊",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "surge up, bubble up, gush forth",
 "pron": "yuān"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"渊源",
+7,
+"yuān yuán",
+"origin; source; relationship"
+]
+],
+"extraWords": [
+[
+"深渊",
+3.91,
+"shēn yuān",
+"abyss"
+],
+[
+"渊",
+2.64,
+"yuān",
+"deep pool; deep; profound"
+]
+],
 "strokes": [
 "M 205 725 Q 230 701 255 673 Q 268 660 284 660 Q 294 660 301 673 Q 305 688 298 718 Q 294 737 264 752 Q 194 782 180 775 Q 176 771 176 758 Q 179 748 205 725 Z",
 "M 118 525 Q 178 468 211 460 Q 227 459 235 472 Q 239 485 236 503 Q 220 545 127 566 Q 111 569 101 564 Q 94 563 98 550 Q 101 538 118 525 Z",

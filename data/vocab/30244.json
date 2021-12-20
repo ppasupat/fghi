@@ -1,6 +1,6 @@
 {
 "char": "瘤",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "tumor, lump, goiter",
 "pron": "liú"
@@ -8,17 +8,35 @@
 "words": [
 [
 "肿瘤",
-6,
+7,
 "zhǒng liú",
 "tumor"
 ]
 ],
 "extraWords": [
 [
+"瘤",
+25.83,
+"liú",
+"tumor"
+],
+[
+"瘤",
+25.83,
+"liú",
+"old variant of 瘤[liú]"
+],
+[
 "恶性肿瘤",
 6.85,
 "è xìng zhǒng liú",
 "malignant tumor"
+],
+[
+"动脉瘤",
+5.57,
+"???",
+"???"
 ]
 ],
 "strokes": [

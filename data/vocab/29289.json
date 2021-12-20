@@ -1,22 +1,34 @@
 {
 "char": "物",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "thing, substance, creature",
 "pron": "wù"
 },
 "words": [
 [
-"礼物",
-3,
-"lǐ wù",
-"gift; present; CL:件[jian4],個|个[ge4],份[fen4]"
+"动物",
+2,
+"dòng wù",
+"animal; CL:只[zhī],群[qún],个[gè]"
 ],
 [
-"动物",
-3,
-"dòng wù",
-"animal; CL:隻|只[zhi1],群[qun2],個|个[ge4]"
+"动物园",
+2,
+"dòng wù yuán",
+"zoo; CL:个[gè]"
+],
+[
+"礼物",
+2,
+"lǐ wù",
+"gift; present; CL:件[jiàn],个[gè],份[fèn]"
+],
+[
+"食物",
+2,
+"shí wù",
+"food; CL:种[zhǒng]"
 ],
 [
 "购物",
@@ -25,34 +37,22 @@
 "shopping"
 ],
 [
+"事物",
+4,
+"shì wù",
+"thing; object; CL:个[gè]"
+],
+[
+"药物",
+4,
+"yào wù",
+"medicaments; pharmaceuticals; medication; medicine; drug"
+],
+[
 "植物",
 4,
 "zhí wù",
-"plant; vegetation; CL:種|种[zhong3]"
-],
-[
-"食物",
-5,
-"shí wù",
-"food; CL:種|种[zhong3]"
-],
-[
-"人物",
-5,
-"rén wù",
-"person; character (in a play, novel etc); protagonist; CL:個|个[ge4]"
-],
-[
-"物质",
-5,
-"wù zhì",
-"matter; substance; material; materialistic; CL:個|个[ge4]"
-],
-[
-"事物",
-5,
-"shì wù",
-"thing; object; CL:個|个[ge4]"
+"plant; vegetation; CL:种[zhǒng]"
 ],
 [
 "博物馆",
@@ -61,108 +61,162 @@
 "museum"
 ],
 [
-"宠物",
+"人物",
 5,
+"rén wù",
+"person; character (in a play, novel etc); protagonist; CL:个[gè]"
+],
+[
+"物价",
+5,
+"wù jià",
+"(commodity) prices; CL:个[gè]"
+],
+[
+"物业",
+5,
+"wù yè",
+"property; real estate; abbr. for 物业管理[wù yè guǎn lǐ], property management"
+],
+[
+"物质",
+5,
+"wù zhì",
+"matter; substance; material; materialistic; CL:个[gè]"
+],
+[
+"宠物",
+6,
 "chǒng wù",
 "house pet"
 ],
 [
-"物理",
-5,
-"wù lǐ",
-"physics; physical"
-],
-[
-"生物",
-6,
-"shēng wù",
-"organism; living creature; life form; biological; CL:個|个[ge4]"
-],
-[
-"文物",
-6,
-"wén wù",
-"cultural relic; historical relic; CL:件[jian4],個|个[ge4]"
-],
-[
-"物资",
-6,
-"wù zī",
-"goods; supplies"
-],
-[
-"物业",
-6,
-"wù yè",
-"property; real estate; abbr. for 物業管理|物业管理[wu4 ye4 guan3 li3], property management"
-],
-[
-"刊物",
-6,
-"kān wù",
-"publication"
-],
-[
-"物美价廉",
-6,
-"wù měi jià lián",
-"good quality and cheap; a bargain"
-]
-],
-"extraWords": [
-[
-"药物",
-70.21,
-"yào wù",
-"medicaments; pharmaceuticals; medication; medicine; drug"
-],
-[
-"怪物",
-43.1,
-"guài wu",
-"monster; freak; eccentric person"
-],
-[
 "物品",
-35.25,
+6,
 "wù pǐn",
 "articles; goods; materials"
 ],
 [
-"物价",
-25.02,
-"wù jià",
-"(commodity) prices; CL:個|个[ge4]"
-],
-[
-"货物",
-24.06,
-"huò wù",
-"goods; commodity; merchandise; CL:宗[zong1]"
-],
-[
-"废物",
-21.52,
-"fèi wù",
-"rubbish; waste material; useless person"
-],
-[
-"作物",
-16.89,
-"zuò wù",
-"crop"
+"财物",
+7,
+"cái wù",
+"property; belongings"
 ],
 [
 "产物",
-16.31,
+7,
 "chǎn wù",
 "product; result (of)"
 ],
 [
+"废物",
+7,
+"fèi wù",
+"rubbish; waste material; useless person"
+],
+[
+"怪物",
+7,
+"guài wu",
+"monster; freak; eccentric person"
+],
+[
+"货物",
+7,
+"huò wù",
+"goods; commodity; merchandise; CL:宗[zōng]"
+],
+[
+"吉祥物",
+7,
+"jí xiáng wù",
+"mascot"
+],
+[
 "建筑物",
-12.88,
+7,
 "jiàn zhù wù",
 "building; structure; edifice"
+],
+[
+"刊物",
+7,
+"kān wù",
+"publication"
+],
+[
+"农作物",
+7,
+"nóng zuò wù",
+"(farm) crops"
+],
+[
+"生物",
+7,
+"shēng wù",
+"organism; living creature; life form; biological; CL:个[gè]"
+],
+[
+"实物",
+7,
+"shí wù",
+"material object; concrete object; original object; in kind; object for practical use; definite thing; reality; matter (physics)"
+],
+[
+"文物",
+7,
+"wén wù",
+"cultural relic; historical relic; CL:件[jiàn],个[gè]"
+],
+[
+"物流",
+7,
+"wù liú",
+"distribution (business); logistics"
+],
+[
+"物体",
+7,
+"wù tǐ",
+"object; body; substance"
+],
+[
+"物证",
+7,
+"wù zhèng",
+"material evidence"
+],
+[
+"物资",
+7,
+"wù zī",
+"goods; supplies"
+],
+[
+"遗物",
+7,
+"yí wù",
+"remnant"
+],
+[
+"作物",
+7,
+"zuò wù",
+"crop"
+]
+],
+"extraWords": [
+[
+"物",
+159.49,
+"wù",
+"thing; object; matter; abbr. for physics 物理"
+],
+[
+"物理",
+24.58,
+"wù lǐ",
+"physics; physical"
 ],
 [
 "物业管理",
@@ -171,10 +225,10 @@
 "property management"
 ],
 [
-"实物",
-11.08,
-"shí wù",
-"material object; concrete object; original object; in kind; object for practical use; definite thing; reality; matter (physics)"
+"大人物",
+12.1,
+"???",
+"???"
 ],
 [
 "证物",
@@ -187,24 +241,6 @@
 9.77,
 "Lì wù pǔ",
 "Liverpool (England)"
-],
-[
-"财物",
-9.64,
-"cái wù",
-"property; belongings"
-],
-[
-"动物园",
-9.57,
-"dòng wù yuán",
-"zoo; CL:個|个[ge4]"
-],
-[
-"物体",
-9.53,
-"wù tǐ",
-"object; body; substance"
 ],
 [
 "猎物",
@@ -237,28 +273,22 @@
 "biology"
 ],
 [
+"物业公司",
+7.36,
+"???",
+"???"
+],
+[
 "污染物",
 7.21,
 "wū rǎn wù",
 "pollutant"
 ],
 [
-"农作物",
-6.44,
-"nóng zuò wù",
-"(farm) crops"
-],
-[
 "物种",
 6.38,
 "wù zhǒng",
 "species"
-],
-[
-"物证",
-6.35,
-"wù zhèng",
-"material evidence"
 ],
 [
 "化合物",
@@ -271,6 +301,12 @@
 5.94,
 "yī wù",
 "clothing; clothing and other personal items"
+],
+[
+"圣诞礼物",
+5.89,
+"???",
+"???"
 ],
 [
 "物力",

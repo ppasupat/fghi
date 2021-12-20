@@ -1,6 +1,6 @@
 {
 "char": "灶",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "kitchen stove, cooking stove",
 "pron": "zào"
@@ -8,12 +8,24 @@
 "words": [
 [
 "炉灶",
-6,
+7,
 "lú zào",
 "stove"
 ]
 ],
 "extraWords": [
+[
+"灶",
+11.9,
+"zào",
+"kitchen stove; kitchen"
+],
+[
+"灶",
+11.9,
+"zào",
+"variant of 灶[zào]"
+],
 [
 "病灶",
 8.14,

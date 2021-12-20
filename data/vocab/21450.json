@@ -1,6 +1,6 @@
 {
 "char": "及",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "extend; reach; come up to; and",
 "pron": "jí"
@@ -8,9 +8,21 @@
 "words": [
 [
 "及时",
-4,
+3,
 "jí shí",
 "in time; promptly; without delay; timely"
+],
+[
+"普及",
+3,
+"pǔ jí",
+"to spread extensively; to generalize; widespread; popular; universal; ubiquitous; pervasive"
+],
+[
+"及格",
+4,
+"jí gé",
+"to pass an exam or a test; to meet a minimum standard"
 ],
 [
 "来不及",
@@ -26,15 +38,9 @@
 ],
 [
 "以及",
-5,
+4,
 "yǐ jí",
 "as well as; too; and"
-],
-[
-"及格",
-5,
-"jí gé",
-"to pass an exam or a test; to meet a minimum standard"
 ],
 [
 "涉及",
@@ -43,37 +49,61 @@
 "to involve; to touch upon (a topic)"
 ],
 [
-"迫不及待",
-6,
-"pò bù jí dài",
-"impatient (idiom); in a hurry; itching to get on with it"
+"波及",
+7,
+"bō jí",
+"to spread to; to involve; to affect"
 ],
 [
-"力所能及",
-6,
-"lì suǒ néng jí",
-"as far as one's capabilities extend (idiom); to the best of one's ability; within one's powers"
+"措手不及",
+7,
+"cuò shǒu bù jí",
+"no time to deal with it (idiom); caught unprepared"
+],
+[
+"顾及",
+7,
+"gù jí",
+"to take into consideration; to attend to"
+],
+[
+"及",
+7,
+"jí",
+"and; to reach; up to; in time for"
+],
+[
+"及其",
+7,
+"jí qí",
+"(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ..."
 ],
 [
 "及早",
-6,
+7,
 "jí zǎo",
 "at the earliest possible time; as soon as possible"
 ],
 [
-"普及",
-6,
-"pǔ jí",
-"to spread extensively; to generalize; widespread; popular; universal; ubiquitous; pervasive"
+"力所能及",
+7,
+"lì suǒ néng jí",
+"as far as one's capabilities extend (idiom); to the best of one's ability; within one's powers"
+],
+[
+"迫不及待",
+7,
+"pò bù jí dài",
+"impatient (idiom); in a hurry; itching to get on with it"
+],
+[
+"危及",
+7,
+"wēi jí",
+"to endanger; to jeopardize; a danger (to life, national security etc)"
 ]
 ],
 "extraWords": [
-[
-"及其",
-84.0,
-"jí qí",
-"(conjunction linking two nouns) and its ...; and their ...; and his ...; and her ..."
-],
 [
 "不及",
 20.41,
@@ -99,22 +129,16 @@
 "to touch (physically, one's feelings etc); to touch on (a topic)"
 ],
 [
+"问及",
+6.74,
+"???",
+"???"
+],
+[
 "谈及",
 5.87,
 "tán jí",
 "to talk about; to mention"
-],
-[
-"顾及",
-5.61,
-"gù jí",
-"to take into consideration; to attend to"
-],
-[
-"危及",
-5.26,
-"wēi jí",
-"to endanger; to jeopardize; a danger (to life, national security etc)"
 ]
 ],
 "strokes": [

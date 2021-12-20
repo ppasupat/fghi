@@ -1,6 +1,6 @@
 {
 "char": "辣",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "peppery, pungent, hot; cruel",
 "pron": "là"
@@ -10,7 +10,7 @@
 "辣",
 4,
 "là",
-"old variant of 辣[la4]"
+"old variant of 辣[là]"
 ],
 [
 "辣",
@@ -19,20 +19,31 @@
 "hot (spicy); pungent"
 ],
 [
-"辣椒",
+"酸甜苦辣",
 5,
+"suān tián kǔ là",
+"sour, sweet, bitter and spicy hot; fig. the joys and sorrows of life"
+],
+[
+"火辣辣",
+7,
+"huǒ là là",
+"painful heat; scorching; painful heat; rude and forthright; provocative; hot; sexy"
+],
+[
+"辣椒",
+7,
 "là jiāo",
 "hot pepper; chili"
-]
 ],
-"extraWords": [
 [
 "麻辣",
-8.37,
+7,
 "má là",
 "hot and numbing"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 260 750 Q 279 731 297 707 Q 310 692 327 692 Q 339 691 345 705 Q 351 720 344 752 Q 340 768 314 782 Q 250 809 236 803 Q 230 799 231 786 Q 234 774 260 750 Z",
 "M 144 618 Q 110 612 135 597 Q 174 576 224 588 Q 303 606 384 624 Q 421 633 427 638 Q 434 645 431 653 Q 424 663 398 670 Q 370 676 343 664 Q 300 649 255 637 Q 203 624 144 618 Z",

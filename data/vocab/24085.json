@@ -1,17 +1,36 @@
 {
 "char": "帕",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "turban, kerchief, veil; wrap",
 "pron": "pà"
 },
-"words": [],
+"words": [
+[
+"手帕",
+7,
+"shǒu pà",
+"handkerchief; CL:方[fāng]"
+]
+],
 "extraWords": [
+[
+"帕",
+20.67,
+"pà",
+"to wrap; kerchief; handkerchief; headscarf; pascal (SI unit)"
+],
 [
 "帕特里克",
 8.53,
 "Pà tè lǐ kè",
 "Patrick (name)"
+],
+[
+"帕克",
+6.53,
+"???",
+"???"
 ]
 ],
 "strokes": [

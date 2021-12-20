@@ -1,36 +1,72 @@
 {
 "char": "症",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "disease, illness, ailment",
 "pron": "zhēng, zhèng"
 },
 "words": [
 [
-"癌症",
-6,
-"ái zhèng",
-"cancer"
-],
-[
 "症状",
 6,
 "zhèng zhuàng",
 "symptom (of an illness)"
+],
+[
+"癌症",
+7,
+"ái zhèng",
+"cancer"
+],
+[
+"病症",
+7,
+"bìng zhèng",
+"disease; illness"
+],
+[
+"后遗症",
+7,
+"hòu yí zhèng",
+"(medicine) sequelae; residual effects; (fig.) repercussions; aftermath"
+],
+[
+"炎症",
+7,
+"yán zhèng",
+"inflammation"
+],
+[
+"抑郁症",
+7,
+"yì yù zhèng",
+"clinical depression"
+],
+[
+"症结",
+7,
+"zhēng jié",
+"hard lump in the abdomen (in Chinese medicine); crux of an issue; main point in an argument; sticking point; deadlock in negotiations"
 ]
 ],
 "extraWords": [
+[
+"症",
+53.74,
+"zhèng",
+"disease; illness"
+],
+[
+"症",
+53.74,
+"zhēng",
+"abdominal tumor; bowel obstruction; (fig.) sticking point"
+],
 [
 "并发症",
 15.23,
 "bìng fā zhèng",
 "complications (undesired side-effect of medical procedure)"
-],
-[
-"炎症",
-11.5,
-"yán zhèng",
-"inflammation"
 ],
 [
 "综合症",

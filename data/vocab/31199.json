@@ -1,50 +1,49 @@
 {
 "char": "租",
-"level": 1,
+"level": "2",
 "info": {
 "gloss": "rent, lease; rental; tax",
 "pron": "zū"
 },
 "words": [
 [
+"出租",
+2,
+"chū zū",
+"to rent"
+],
+[
 "出租车",
-1,
+2,
 "chū zū chē",
 "taxi; (Tw) rental car"
 ],
 [
 "租",
-4,
+2,
 "zū",
 "to hire; to rent; to charter; to rent out; to lease out; rent; land tax"
 ],
 [
-"租赁",
-6,
-"zū lìn",
-"to rent; to lease; to hire"
-]
-],
-"extraWords": [
-[
-"出租",
-21.25,
-"chū zū",
-"to rent"
+"房租",
+3,
+"fáng zū",
+"rent for a room or house"
 ],
 [
 "租金",
-15.48,
+6,
 "zū jīn",
 "rent"
 ],
 [
-"房租",
-14.76,
-"fáng zū",
-"rent for a room or house"
+"租赁",
+7,
+"zū lìn",
+"to rent; to lease; to hire"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 335 687 Q 419 732 461 744 Q 477 745 480 754 Q 483 764 471 774 Q 410 810 378 804 Q 371 800 372 790 Q 373 751 176 639 Q 172 630 178 628 Q 196 628 282 665 Q 294 669 309 675 L 335 687 Z",
 "M 364 495 Q 412 508 473 517 Q 489 521 490 528 Q 491 541 472 550 Q 439 563 367 541 L 325 530 Q 175 494 100 484 Q 87 483 84 474 Q 81 464 97 452 Q 137 425 181 440 Q 248 465 300 479 L 364 495 Z",

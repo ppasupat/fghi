@@ -1,16 +1,22 @@
 {
 "char": "居",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "live, dwell, reside, sit",
 "pron": "jū"
 },
 "words": [
 [
-"邻居",
-3,
-"lín jū",
-"neighbor; next door; CL:個|个[ge4]"
+"居民",
+4,
+"jū mín",
+"resident; inhabitant"
+],
+[
+"居住",
+4,
+"jū zhù",
+"to reside; to dwell; to live in a place; resident in"
 ],
 [
 "居然",
@@ -19,19 +25,49 @@
 "unexpectedly; to one's surprise; go so far as to"
 ],
 [
-"居民",
-6,
-"jū mín",
-"resident; inhabitant"
+"邻居",
+5,
+"lín jū",
+"neighbor; next door; CL:个[gè]"
 ],
 [
-"居住",
-6,
-"jū zhù",
-"to reside; to dwell; to live in a place; resident in"
+"定居",
+7,
+"dìng jū",
+"to settle (in some city, country etc); to take up residence"
+],
+[
+"居高临下",
+7,
+"jū gāo lín xià",
+"to live high and look down (idiom); to overlook; to tower above; to occupy the high ground; fig. arrogance based on one's social position"
+],
+[
+"居民楼",
+7,
+"jū mín lóu",
+"apartment building; residential tower"
 ]
 ],
 "extraWords": [
+[
+"居",
+72.64,
+"Jū",
+"surname Ju"
+],
+[
+"居",
+72.64,
+"jī",
+"(archaic) sentence-final particle expressing a doubting attitude"
+],
+[
+"居",
+72.64,
+"jū",
+"to reside; to be (in a certain position); to store up; to be at a standstill; residence; house; restaurant; classifier for bedrooms"
+],
 [
 "位居",
 11.01,
@@ -66,7 +102,7 @@
 "安居",
 5.63,
 "Ān jū",
-"Anju district of Suining city 遂寧市|遂宁市[Sui4 ning2 shi4], Sichuan"
+"Anju district of Suining city 遂宁市[Suì níng shì], Sichuan"
 ],
 [
 "安居",

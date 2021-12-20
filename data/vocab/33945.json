@@ -1,30 +1,78 @@
 {
 "char": "蒙",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "cover; ignorant; suffer; mongolia",
 "pron": "mēng, méng, měng"
 },
 "words": [
 [
-"启蒙",
+"蒙",
 6,
-"qǐ méng",
-"variant of 啟蒙|启蒙[qi3 meng2]; to instruct the young"
+"méng",
+"drizzle; mist"
+],
+[
+"蒙",
+6,
+"mēng",
+"to deceive; to cheat; to hoodwink; to make a wild guess"
+],
+[
+"蒙",
+6,
+"méng",
+"blind; dim-sighted"
+],
+[
+"蒙",
+6,
+"Méng",
+"surname Meng"
+],
+[
+"蒙",
+6,
+"Měng",
+"Mongol ethnic group; abbr. for Mongolia 蒙古国[Měng gǔ guó]; Taiwan pr. [Meng2]"
+],
+[
+"蒙",
+6,
+"mēng",
+"(knocked) unconscious; dazed; stunned"
+],
+[
+"蒙",
+6,
+"méng",
+"to cover; ignorant; to suffer (misfortune); to receive (a favor); to cheat"
 ],
 [
 "启蒙",
-6,
+7,
+"qǐ méng",
+"variant of 启蒙[qǐ méng]; to instruct the young"
+],
+[
+"启蒙",
+7,
 "qǐ méng",
 "to instruct the young; to initiate; to awake sb from ignorance; to free sb from prejudice or superstition; primer; enlightened; the Enlightenment; Western learning from the late Qing dynasty"
 ]
 ],
 "extraWords": [
 [
+"西蒙",
+18.51,
+"???",
+"???"
+],
+[
 "内蒙古",
 15.76,
 "Nèi měng gǔ",
-"Inner Mongolia; abbr. for 內蒙古自治區|内蒙古自治区[Nei4 meng3 gu3 Zi4 zhi4 qu1], Inner Mongolia autonomous region"
+"Inner Mongolia; abbr. for 内蒙古自治区[Nèi měng gǔ Zì zhì qū], Inner Mongolia autonomous region"
 ],
 [
 "蒙古",
@@ -36,7 +84,7 @@
 "荷尔蒙",
 6.05,
 "hé ěr méng",
-"hormone (loanword); see 激素[ji1 su4]"
+"hormone (loanword); see 激素[jī sù]"
 ]
 ],
 "strokes": [

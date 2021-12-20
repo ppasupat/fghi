@@ -1,6 +1,6 @@
 {
 "char": "衬",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "underwear; inner garments",
 "pron": "chèn"
@@ -10,21 +10,27 @@
 "衬衫",
 3,
 "chèn shān",
-"shirt; blouse; CL:件[jian4]"
+"shirt; blouse; CL:件[jiàn]"
+],
+[
+"衬衣",
+3,
+"chèn yī",
+"shirt; CL:件[jiàn]"
 ],
 [
 "衬托",
-6,
+7,
 "chèn tuō",
 "to set off"
 ]
 ],
 "extraWords": [
 [
-"衬衣",
-9.12,
-"chèn yī",
-"shirt; CL:件[jian4]"
+"衬",
+6.95,
+"chèn",
+"(of garments) against the skin; to line; lining; to contrast with; to assist financially"
 ]
 ],
 "strokes": [

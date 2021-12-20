@@ -1,26 +1,43 @@
 {
 "char": "泥",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "mud, mire; earth, clay; plaster",
 "pron": "ní, nì"
 },
 "words": [
 [
+"泥",
+6,
+"ní",
+"mud; clay; paste; pulp"
+],
+[
+"泥",
+6,
+"nì",
+"restrained"
+],
+[
 "水泥",
 6,
 "shuǐ ní",
-"cement; CL:袋[dai4]"
-]
+"cement; CL:袋[dài]"
 ],
-"extraWords": [
+[
+"泥潭",
+7,
+"ní tán",
+"quagmire"
+],
 [
 "泥土",
-6.11,
+7,
 "ní tǔ",
 "earth; soil; mud; clay"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 235 707 Q 260 686 287 661 Q 303 648 320 649 Q 332 650 337 664 Q 341 680 330 713 Q 318 743 228 759 Q 210 763 204 759 Q 198 755 201 741 Q 205 728 235 707 Z",
 "M 142 519 Q 191 461 222 447 Q 237 443 247 457 Q 254 470 251 487 Q 239 533 157 557 L 156 558 Q 140 564 130 560 Q 123 559 125 546 Q 126 534 142 519 Z",

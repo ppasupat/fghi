@@ -1,6 +1,6 @@
 {
 "char": "炫",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "shine, glitter; show off, flaunt",
 "pron": "xuàn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "炫耀",
-6,
+7,
 "xuàn yào",
 "dazzling; to show off; to flaunt"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"炫",
+16.88,
+"xuàn",
+"to dazzle; to boast; to show off; (slang) cool; awesome"
+],
+[
+"炫目",
+1.51,
+"xuàn mù",
+"to dazzle; to inspire awe"
+]
+],
 "strokes": [
 "M 98 548 Q 107 488 105 429 Q 105 392 136 373 Q 152 363 163 383 Q 173 408 169 440 Q 165 483 148 513 Q 136 543 118 560 Q 109 564 104 562 Q 97 556 98 548 Z",
 "M 291 502 Q 325 520 399 565 Q 417 578 440 588 Q 461 597 451 614 Q 439 630 415 645 Q 393 658 381 656 Q 369 655 372 643 Q 375 621 292 523 C 273 500 265 488 291 502 Z",

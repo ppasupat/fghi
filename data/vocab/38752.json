@@ -1,6 +1,6 @@
 {
 "char": "靠",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "lean on, trust, depend on; near",
 "pron": "kào"
@@ -8,36 +8,36 @@
 "words": [
 [
 "靠",
-5,
+2,
 "kào",
 "to lean against or on; to stand by the side of; to come near to; to depend on; to trust; to fuck (vulgar); traditional military costume drama where the performers wear armor (old)"
 ],
 [
 "可靠",
-5,
+3,
 "kě kào",
 "reliable"
 ],
 [
 "依靠",
-6,
+4,
 "yī kào",
 "to rely on sth (for support etc); to depend on"
 ],
 [
+"靠近",
+5,
+"kào jìn",
+"near; to approach"
+],
+[
 "靠拢",
-6,
+7,
 "kào lǒng",
 "to draw close to"
 ]
 ],
 "extraWords": [
-[
-"靠近",
-46.71,
-"kào jìn",
-"near; to approach"
-],
 [
 "可靠性",
 7.87,
@@ -55,6 +55,12 @@
 5.8,
 "tíng kào",
 "to call at; to stop at; berth"
+],
+[
+"靠在",
+5.74,
+"???",
+"???"
 ]
 ],
 "strokes": [

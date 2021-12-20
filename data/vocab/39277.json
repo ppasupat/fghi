@@ -1,54 +1,102 @@
 {
 "char": "饭",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "cooked rice; food, meal",
 "pron": "fàn"
 },
 "words": [
 [
+"吃饭",
+1,
+"chī fàn",
+"to have a meal; to eat; to make a living"
+],
+[
+"饭",
+1,
+"fàn",
+"cooked rice; CL:碗[wǎn]; meal; CL:顿[dùn]; (loanword) fan; devotee"
+],
+[
 "饭店",
 1,
 "fàn diàn",
-"restaurant; hotel; CL:家[jia1],個|个[ge4]"
+"restaurant; hotel; CL:家[jiā],个[gè]"
 ],
 [
 "米饭",
 1,
 "mǐ fàn",
 "(cooked) rice"
-]
-],
-"extraWords": [
-[
-"吃饭",
-89.87,
-"chī fàn",
-"to have a meal; to eat; to make a living"
 ],
 [
 "晚饭",
-48.08,
+1,
 "wǎn fàn",
-"evening meal; dinner; supper; CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
+"evening meal; dinner; supper; CL:份[fèn],顿[dùn],次[cì],餐[cān]"
 ],
 [
 "午饭",
-42.27,
+1,
 "wǔ fàn",
-"lunch; CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
+"lunch; CL:份[fèn],顿[dùn],次[cì],餐[cān]"
+],
+[
+"早饭",
+1,
+"zǎo fàn",
+"breakfast; CL:份[fèn],顿[dùn],次[cì],餐[cān]"
+],
+[
+"饭馆",
+2,
+"fàn guǎn",
+"restaurant; CL:家[jiā]"
 ],
 [
 "做饭",
-16.16,
+2,
 "zuò fàn",
 "to prepare a meal; to cook"
 ],
 [
-"早饭",
-14.49,
-"zǎo fàn",
-"breakfast; CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
+"电饭锅",
+5,
+"diàn fàn guō",
+"electric rice cooker"
+],
+[
+"盒饭",
+5,
+"hé fàn",
+"meal in a partitioned box"
+],
+[
+"便饭",
+7,
+"biàn fàn",
+"an ordinary meal; simple home cooking"
+],
+[
+"饭碗",
+7,
+"fàn wǎn",
+"rice bowl; fig. livelihood; job; way of making a living"
+],
+[
+"年夜饭",
+7,
+"nián yè fàn",
+"New Year's Eve family dinner"
+]
+],
+"extraWords": [
+[
+"饭后",
+8.74,
+"???",
+"???"
 ],
 [
 "稀饭",
@@ -61,18 +109,6 @@
 7.14,
 "fàn cài",
 "food"
-],
-[
-"饭碗",
-6.2,
-"fàn wǎn",
-"rice bowl; fig. livelihood; job; way of making a living"
-],
-[
-"年夜饭",
-5.2,
-"nián yè fàn",
-"New Year's Eve family dinner"
 ]
 ],
 "strokes": [

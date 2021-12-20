@@ -1,11 +1,36 @@
 {
 "char": "揽",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "grasp, take hold of; monopolize",
 "pron": "lǎn"
 },
-"words": [],
+"words": [
+[
+"大包大揽",
+7,
+"dà bāo dà lǎn",
+"to take complete charge (idiom)"
+],
+[
+"揽",
+7,
+"lǎn",
+"to monopolize; to seize; to take into one's arms; to embrace; to fasten (with a rope etc); to take on (responsibility etc); to canvass"
+],
+[
+"一揽子",
+7,
+"yī lǎn zi",
+"all-inclusive; undiscriminating"
+],
+[
+"招揽",
+7,
+"zhāo lǎn",
+"to attract (customers); to drum up (trade)"
+]
+],
 "extraWords": [],
 "strokes": [
 "M 321 534 Q 376 552 382 557 Q 389 564 384 573 Q 377 583 347 588 Q 334 589 323 587 L 273 569 Q 207 542 137 529 Q 103 519 130 506 Q 164 491 234 508 Q 252 514 272 519 L 321 534 Z",

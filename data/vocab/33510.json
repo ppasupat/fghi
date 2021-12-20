@@ -1,28 +1,22 @@
 {
 "char": "苦",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "bitter; hardship, suffering",
 "pron": "kǔ"
 },
 "words": [
 [
+"痛苦",
+3,
+"tòng kǔ",
+"pain; suffering; painful; CL:个[gè]"
+],
+[
 "苦",
 4,
 "kǔ",
 "bitter; hardship; pain; to suffer; to bring suffering to; painstakingly"
-],
-[
-"辛苦",
-4,
-"xīn kǔ",
-"exhausting; hard; tough; arduous; to work hard; to go to a lot of trouble; hardship(s)"
-],
-[
-"痛苦",
-5,
-"tòng kǔ",
-"pain; suffering; painful; CL:個|个[ge4]"
 ],
 [
 "艰苦",
@@ -31,66 +25,108 @@
 "difficult; hard; arduous"
 ],
 [
-"刻苦",
+"酸甜苦辣",
 5,
-"kè kǔ",
-"hardworking; assiduous"
+"suān tián kǔ là",
+"sour, sweet, bitter and spicy hot; fig. the joys and sorrows of life"
 ],
 [
-"苦涩",
-6,
-"kǔ sè",
-"bitter and astringent; pained; agonized"
+"辛苦",
+5,
+"xīn kǔ",
+"exhausting; hard; tough; arduous; to work hard; to go to a lot of trouble; hardship(s)"
 ],
 [
 "吃苦",
-6,
+7,
 "chī kǔ",
 "to bear hardships"
 ],
 [
-"苦尽甘来",
-6,
-"kǔ jìn gān lái",
-"bitterness finishes, sweetness begins (idiom); the hard times are over, the good times just beginning"
-]
+"愁眉苦脸",
+7,
+"chóu méi kǔ liǎn",
+"to look anxious (idiom); to look miserable"
 ],
-"extraWords": [
 [
-"苦笑",
-12.72,
-"kǔ xiào",
-"to force a smile; a bitter laugh"
+"何苦",
+7,
+"hé kǔ",
+"why bother?; is it worth the trouble?"
 ],
 [
 "艰苦奋斗",
-7.71,
+7,
 "jiān kǔ fèn dòu",
 "to struggle arduously"
 ],
 [
-"苦苦",
-7.7,
-"kǔ kǔ",
-"strenuously; persistently; hard; painful"
+"刻苦",
+7,
+"kè kǔ",
+"hardworking; assiduous"
+],
+[
+"苦力",
+7,
+"kǔ lì",
+"bitter work; hard toil; (loanword) coolie, unskilled Chinese laborer in colonial times"
+],
+[
+"苦练",
+7,
+"kǔ liàn",
+"to train hard; to practice diligently; hard work; blood, sweat, and tears"
 ],
 [
 "苦难",
-7.4,
+7,
 "kǔ nàn",
 "suffering"
 ],
 [
 "苦恼",
-6.77,
+7,
 "kǔ nǎo",
 "vexed; distressed"
 ],
 [
+"苦笑",
+7,
+"kǔ xiào",
+"to force a smile; a bitter laugh"
+],
+[
+"苦心",
+7,
+"kǔ xīn",
+"painstaking effort; to take a lot of trouble; laborious at pains"
+],
+[
 "受苦",
-5.84,
+7,
 "shòu kǔ",
 "to suffer hardship"
+],
+[
+"诉苦",
+7,
+"sù kǔ",
+"to grumble; to complain; grievance"
+],
+[
+"挖苦",
+7,
+"wā kǔ",
+"to speak sarcastically; to make cutting remarks; also pr. [wa1 ku5]"
+]
+],
+"extraWords": [
+[
+"苦苦",
+7.7,
+"kǔ kǔ",
+"strenuously; persistently; hard; painful"
 ]
 ],
 "strokes": [

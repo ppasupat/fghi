@@ -1,64 +1,88 @@
 {
 "char": "干",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "oppose, offend; invade; dried",
 "pron": "gān, gàn"
 },
 "words": [
 [
-"干净",
-3,
-"gān jìng",
-"clean; neat"
-],
-[
 "干",
-4,
+1,
 "gān",
-"old variant of 乾|干[gan1]"
+"old variant of 干[gān]"
 ],
 [
 "干",
-4,
+1,
 "Gān",
 "surname Gan"
 ],
 [
 "干",
-4,
+1,
 "gān",
 "dry; clean; in vain; dried food; foster; adoptive; to ignore"
 ],
 [
 "干",
-4,
+1,
 "gān",
-"variant of 乾|干[gan1]"
+"variant of 干[gān]"
 ],
 [
 "干",
-4,
+1,
 "gān",
 "to concern; to interfere; shield; stem"
 ],
 [
 "干",
-4,
+1,
 "gàn",
 "tree trunk; main part of sth; to manage; to work; to do; capable; cadre; to kill (slang); to fuck (vulgar); (coll.) pissed off; annoyed"
 ],
 [
+"干净",
+1,
+"gān jìng",
+"clean; neat"
+],
+[
+"干什么",
+1,
+"gàn shén me",
+"what are you doing?; what's he up to?"
+],
+[
 "干杯",
-4,
+2,
 "gān bēi",
 "to drink a toast; Cheers! (proposing a toast); Here's to you!; Bottoms up!; lit. dry cup"
 ],
 [
-"饼干",
+"干活儿",
+2,
+"gàn huó r5",
+"erhua variant of 干活[gàn huó]"
+],
+[
+"干吗",
+3,
+"gàn má",
+"see 干嘛[gàn má]"
+],
+[
+"能干",
 4,
+"néng gàn",
+"capable; competent"
+],
+[
+"饼干",
+5,
 "bǐng gān",
-"biscuit; cracker; cookie; CL:片[pian4],塊|块[kuai4]"
+"biscuit; cracker; cookie; CL:片[piàn],块[kuài]"
 ],
 [
 "干脆",
@@ -67,28 +91,16 @@
 "straightforward; clear-cut; blunt (e.g. statement); you might as well; simply"
 ],
 [
-"干燥",
-5,
-"gān zào",
-"to dry (of weather, paint, cement etc); desiccation; dull; uninteresting; arid"
-],
-[
-"能干",
-5,
-"néng gàn",
-"capable; competent"
-],
-[
-"干活儿",
-5,
-"gàn huó r5",
-"erhua variant of 幹活|干活[gan4 huo2]"
-],
-[
 "干扰",
-6,
+5,
 "gān rǎo",
 "to disturb; to interfere; perturbation; interference (physics)"
+],
+[
+"干预",
+5,
+"gān yù",
+"to meddle; to intervene; intervention"
 ],
 [
 "干涉",
@@ -97,61 +109,67 @@
 "to interfere; to meddle; interference"
 ],
 [
-"干预",
-6,
-"gān yù",
-"to meddle; to intervene; intervention"
-],
-[
-"干劲",
-6,
-"gàn jìn",
-"enthusiasm for doing sth"
-],
-[
-"才干",
-6,
-"cái gàn",
-"ability; competence"
-],
-[
-"若干",
-6,
-"ruò gān",
-"a certain number or amount; how many?; how much?"
+"干戈",
+7,
+"gān gē",
+"weapons of war; arms"
 ],
 [
 "干旱",
-6,
+7,
 "gān hàn",
 "drought; arid; dry"
 ],
 [
-"骨干",
-6,
-"gǔ gàn",
-"diaphysis (long segment of a bone); fig. backbone"
-]
+"干燥",
+7,
+"gān zào",
+"to dry (of weather, paint, cement etc); desiccation; dull; uninteresting; arid"
 ],
-"extraWords": [
 [
 "干部",
-182.28,
+7,
 "gàn bù",
 "cadre; official; officer; manager"
 ],
 [
-"干吗",
-116.97,
-"gàn má",
-"see 幹嘛|干嘛[gan4 ma2]"
+"干事",
+7,
+"gàn shi",
+"administrator; executive secretary"
 ],
 [
-"干什么",
-104.09,
-"gàn shén me",
-"what are you doing?; what's he up to?"
+"骨干",
+7,
+"gǔ gàn",
+"diaphysis (long segment of a bone); fig. backbone"
 ],
+[
+"烘干",
+7,
+"hōng gān",
+"to dry over a stove"
+],
+[
+"若干",
+7,
+"ruò gān",
+"a certain number or amount; how many?; how much?"
+],
+[
+"说干就干",
+7,
+"shuō gàn jiù gàn",
+"to do what needs to be done, without delay"
+],
+[
+"一干二净",
+7,
+"yī gān èr jìng",
+"thoroughly (idiom); completely; one and all; very clean"
+]
+],
+"extraWords": [
 [
 "干掉",
 43.37,
@@ -183,6 +201,12 @@
 "stem cell"
 ],
 [
+"不干",
+7.16,
+"???",
+"???"
+],
+[
 "干警",
 6.21,
 "gàn jǐng",
@@ -193,6 +217,24 @@
 6.02,
 "gàn xiàn",
 "main line; trunk line"
+],
+[
+"村干部",
+5.47,
+"???",
+"???"
+],
+[
+"干劲",
+5.19,
+"gàn jìn",
+"enthusiasm for doing sth"
+],
+[
+"老干部",
+5.09,
+"???",
+"???"
 ]
 ],
 "strokes": [

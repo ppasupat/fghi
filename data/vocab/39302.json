@@ -1,28 +1,46 @@
 {
 "char": "馆",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "public building",
 "pron": "guǎn"
 },
 "words": [
 [
-"宾馆",
-2,
-"bīn guǎn",
-"guesthouse; lodge; hotel; CL:個|个[ge4],家[jia1]"
+"图书馆",
+1,
+"tú shū guǎn",
+"library; CL:家[jiā],个[gè]"
 ],
 [
-"图书馆",
-3,
-"tú shū guǎn",
-"library; CL:家[jia1],個|个[ge4]"
+"饭馆",
+2,
+"fàn guǎn",
+"restaurant; CL:家[jiā]"
+],
+[
+"体育馆",
+2,
+"tǐ yù guǎn",
+"gym; gymnasium; stadium; CL:个[gè]"
 ],
 [
 "大使馆",
-4,
+3,
 "dà shǐ guǎn",
-"embassy; CL:座[zuo4],個|个[ge4]"
+"embassy; CL:座[zuò],个[gè]"
+],
+[
+"旅馆",
+3,
+"lǚ guǎn",
+"hotel; CL:家[jiā]"
+],
+[
+"宾馆",
+5,
+"bīn guǎn",
+"guesthouse; lodge; hotel; CL:个[gè],家[jiā]"
 ],
 [
 "博物馆",
@@ -31,36 +49,48 @@
 "museum"
 ],
 [
-"领事馆",
+"餐馆",
+5,
+"cān guǎn",
+"restaurant; CL:家[jiā]"
+],
+[
+"场馆",
 6,
+"chǎng guǎn",
+"sporting venue; arena"
+],
+[
+"茶馆儿",
+7,
+"chá guǎn r5",
+"a teashop"
+],
+[
+"纪念馆",
+7,
+"jì niàn guǎn",
+"memorial hall; commemorative museum"
+],
+[
+"领事馆",
+7,
 "lǐng shì guǎn",
 "consulate"
 ]
 ],
 "extraWords": [
 [
-"旅馆",
-51.33,
-"lǚ guǎn",
-"hotel; CL:家[jia1]"
+"馆",
+49.98,
+"guǎn",
+"variant of 馆[guǎn]"
 ],
 [
-"餐馆",
-34.46,
-"cān guǎn",
-"restaurant; CL:家[jia1]"
-],
-[
-"体育馆",
-11.03,
-"tǐ yù guǎn",
-"gym; gymnasium; stadium; CL:個|个[ge4]"
-],
-[
-"场馆",
-8.04,
-"chǎng guǎn",
-"sporting venue; arena"
+"馆",
+49.98,
+"guǎn",
+"building; shop; term for certain service establishments; embassy or consulate; schoolroom (old); CL:家[jiā]"
 ],
 [
 "使馆",
@@ -78,13 +108,7 @@
 "咖啡馆",
 5.54,
 "kā fēi guǎn",
-"café; coffee shop; CL:家[jia1]"
-],
-[
-"纪念馆",
-5.23,
-"jì niàn guǎn",
-"memorial hall; commemorative museum"
+"café; coffee shop; CL:家[jiā]"
 ]
 ],
 "strokes": [

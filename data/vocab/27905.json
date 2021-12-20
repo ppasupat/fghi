@@ -1,6 +1,6 @@
 {
 "char": "洁",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "clean, purify, pure",
 "pron": "jié"
@@ -13,36 +13,54 @@
 "clean; to clean"
 ],
 [
-"纯洁",
-6,
-"chún jié",
-"pure; clean and honest; to purify"
-],
-[
-"廉洁",
-6,
-"lián jié",
-"honest; not coercive; honesty; integrity; incorruptible"
-]
-],
-"extraWords": [
-[
-"简洁",
-12.28,
-"jiǎn jié",
-"concise; succinct; pithy"
-],
-[
 "清洁工",
-6.74,
+6,
 "qīng jié gōng",
 "cleaner; janitor; garbage collector"
 ],
 [
+"纯洁",
+7,
+"chún jié",
+"pure; clean and honest; to purify"
+],
+[
+"简洁",
+7,
+"jiǎn jié",
+"concise; succinct; pithy"
+],
+[
+"洁净",
+7,
+"jié jìng",
+"clean; to cleanse"
+],
+[
+"廉洁",
+7,
+"lián jié",
+"honest; not coercive; honesty; integrity; incorruptible"
+],
+[
 "整洁",
-6.39,
+7,
 "zhěng jié",
 "neatly; tidy"
+]
+],
+"extraWords": [
+[
+"洁",
+15.26,
+"jié",
+"clean"
+],
+[
+"郑洁",
+5.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

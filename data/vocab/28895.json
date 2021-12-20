@@ -1,11 +1,17 @@
 {
 "char": "烟",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "smoke, soot; opium; tobacco, cigarettes",
 "pron": "yān"
 },
 "words": [
+[
+"烟",
+3,
+"yān",
+"cigarette or pipe tobacco; CL:根[gēn]; smoke; mist; vapour; CL:缕[lǚ]; tobacco plant; (of the eyes) to be irritated by smoke"
+],
 [
 "抽烟",
 4,
@@ -13,37 +19,43 @@
 "to smoke (a cigarette, tobacco)"
 ],
 [
-"烟花爆竹",
-6,
-"yān huā bào zhú",
-"fireworks (i.e. pyrotechnic devices, not the display they produce)"
-],
-[
-"炊烟",
-6,
-"chuī yān",
-"smoke from kitchen chimneys"
-]
-],
-"extraWords": [
-[
-"烟花",
-15.34,
-"yān huā",
-"fireworks; prostitute (esp. in Yuan theater)"
-],
-[
 "吸烟",
-13.71,
+4,
 "xī yān",
 "to smoke"
 ],
 [
-"香烟",
-13.15,
-"xiāng yān",
-"cigarette; smoke from burning incense; CL:支[zhi1],條|条[tiao2]"
+"烟花",
+6,
+"yān huā",
+"fireworks; prostitute (esp. in Yuan theater)"
 ],
+[
+"戒烟",
+7,
+"jiè yān",
+"to give up smoking"
+],
+[
+"香烟",
+7,
+"xiāng yān",
+"cigarette; smoke from burning incense; CL:支[zhī],条[tiáo]"
+],
+[
+"烟囱",
+7,
+"yān cōng",
+"chimney"
+],
+[
+"烟火",
+7,
+"yān huǒ",
+"smoke and fire; fireworks"
+]
+],
+"extraWords": [
 [
 "烟草",
 9.85,

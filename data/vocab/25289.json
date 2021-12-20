@@ -1,6 +1,6 @@
 {
 "char": "拉",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "pull, drag; seize, hold; lengthen",
 "pron": "lā, lá"
@@ -8,9 +8,45 @@
 "words": [
 [
 "拉",
-4,
+2,
 "lā",
 "to pull; to play (a bowed instrument); to drag; to draw; to chat; (coll.) to empty one's bowels"
+],
+[
+"拉开",
+4,
+"lā kāi",
+"to pull open; to pull apart; to space out; to increase"
+],
+[
+"阿拉伯语",
+7,
+"Ā lā bó yǔ",
+"Arabic (language)"
+],
+[
+"拉动",
+7,
+"lā dòng",
+"to pull; (fig.) to stimulate (economic activity); to motivate (people to do sth)"
+],
+[
+"拉拢",
+7,
+"lā lǒng",
+"to rope in; fig. to involve sb; to entice"
+],
+[
+"拉锁",
+7,
+"lā suǒ",
+"zipper"
+],
+[
+"易拉罐",
+7,
+"yì lā guàn",
+"pull-top can; easy-open can (with ring-pull)"
 ]
 ],
 "extraWords": [
@@ -19,12 +55,6 @@
 79.15,
 "Yī lā kè",
 "Iraq"
-],
-[
-"拉开",
-29.0,
-"lā kāi",
-"to pull open; to pull apart; to space out; to increase"
 ],
 [
 "莎拉",
@@ -48,7 +78,7 @@
 "卡拉",
 12.67,
 "Kǎ lā",
-"Kara, city in northern Togo 多哥[Duo1 ge1]; Cara, Karla etc (name)"
+"Kara, city in northern Togo 多哥[Duō gē]; Cara, Karla etc (name)"
 ],
 [
 "卡拉",
@@ -73,6 +103,12 @@
 11.06,
 "lā dīng",
 "Latin; (in former times) to press-gang; to kidnap and force people into service"
+],
+[
+"萨拉",
+11.06,
+"???",
+"???"
 ],
 [
 "拉手",
@@ -102,13 +138,19 @@
 "拉萨",
 8.42,
 "Lā sà",
-"Lhasa, capital city of Tibet Autonomous Region 西藏自治區|西藏自治区[Xi1 zang4 Zi4 zhi4 qu1]"
+"Lhasa, capital city of Tibet Autonomous Region 西藏自治区[Xī zàng Zì zhì qū]"
 ],
 [
 "摩托罗拉",
 8.32,
 "Mó tuō luó lā",
 "Motorola"
+],
+[
+"劳拉",
+8.08,
+"???",
+"???"
 ],
 [
 "阿拉",
@@ -180,7 +222,7 @@
 "拖拉机",
 5.83,
 "tuō lā jī",
-"tractor; CL:臺|台[tai2]"
+"tractor; CL:台[tái]"
 ],
 [
 "阿拉法特",

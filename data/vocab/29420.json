@@ -1,6 +1,6 @@
 {
 "char": "独",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "alone, single, solitary, only",
 "pron": "dú"
@@ -8,21 +8,27 @@
 "words": [
 [
 "单独",
-5,
+4,
 "dān dú",
 "alone; by oneself; on one's own"
 ],
 [
 "独立",
-5,
+4,
 "dú lì",
 "independent; independence; to stand alone"
 ],
 [
 "独特",
-5,
+4,
 "dú tè",
 "unique; distinct; having special characteristics"
+],
+[
+"独自",
+4,
+"dú zì",
+"alone"
 ],
 [
 "孤独",
@@ -31,48 +37,60 @@
 "lonely; solitary"
 ],
 [
-"独裁",
-6,
-"dú cái",
-"dictatorship"
+"得天独厚",
+7,
+"dé tiān dú hòu",
+"blessed by heaven (idiom); enjoying exceptional advantages; favored by nature"
+],
+[
+"独",
+7,
+"dú",
+"alone; independent; single; sole; only"
+],
+[
+"独唱",
+7,
+"dú chàng",
+"(in singing) solo; to solo"
+],
+[
+"独家",
+7,
+"dú jiā",
+"exclusive"
+],
+[
+"独立自主",
+7,
+"dú lì zì zhǔ",
+"independent and autonomous (idiom); self-determination; to act independently; to maintain control over one's own affairs"
+],
+[
+"独身",
+7,
+"dú shēn",
+"unmarried; single"
+],
+[
+"独一无二",
+7,
+"dú yī wú èr",
+"unique and unmatched (idiom); unrivalled; nothing compares with it"
 ],
 [
 "唯独",
-6,
+7,
 "wéi dú",
 "only; just (i.e. it is only that...); all except; unique"
-],
-[
-"得天独厚",
-6,
-"dé tiān dú hòu",
-"blessed by heaven (idiom); enjoying exceptional advantages; favored by nature"
 ]
 ],
 "extraWords": [
-[
-"独自",
-38.42,
-"dú zì",
-"alone"
-],
 [
 "独舞",
 18.93,
 "dú wǔ",
 "solo dance"
-],
-[
-"独家",
-17.5,
-"dú jiā",
-"exclusive"
-],
-[
-"独一无二",
-10.43,
-"dú yī wú èr",
-"unique and unmatched (idiom); unrivalled; nothing compares with it"
 ],
 [
 "独处",
@@ -91,6 +109,12 @@
 6.47,
 "dú zī",
 "wholly-owned (often by foreign company); exclusive investment"
+],
+[
+"独立性",
+5.24,
+"???",
+"???"
 ]
 ],
 "strokes": [

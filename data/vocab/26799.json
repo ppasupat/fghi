@@ -1,6 +1,6 @@
 {
 "char": "梯",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "ladder, steps, stairs; lean",
 "pron": "tī"
@@ -8,23 +8,41 @@
 "words": [
 [
 "电梯",
-3,
+4,
 "diàn tī",
-"elevator; escalator; CL:臺|台[tai2],部[bu4]"
+"elevator; escalator; CL:台[tái],部[bù]"
+],
+[
+"楼梯",
+4,
+"lóu tī",
+"stair; staircase; CL:个[gè]"
+],
+[
+"滑梯",
+7,
+"huá tī",
+"(children's) sliding board; a slide"
+],
+[
+"阶梯",
+7,
+"jiē tī",
+"flight of steps; (fig.) a means of advancement; stepping stone"
+],
+[
+"梯子",
+7,
+"tī zi",
+"ladder; stepladder"
 ]
 ],
 "extraWords": [
 [
-"楼梯",
-24.8,
-"lóu tī",
-"stair; staircase; CL:個|个[ge4]"
-],
-[
-"梯子",
-7.04,
-"tī zi",
-"ladder; stepladder"
+"梯",
+7.11,
+"tī",
+"ladder; stairs"
 ]
 ],
 "strokes": [

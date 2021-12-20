@@ -1,6 +1,6 @@
 {
 "char": "恐",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "fear; fearful, apprehensive",
 "pron": "kǒng"
@@ -8,53 +8,59 @@
 "words": [
 [
 "恐怕",
-4,
+3,
 "kǒng pà",
 "fear; to dread; I'm afraid that...; perhaps; maybe"
 ],
 [
 "恐怖",
-6,
+7,
 "kǒng bù",
 "terrible; frightful; frightening; terror; terrorist"
 ],
 [
-"恐惧",
-6,
-"kǒng jù",
-"to be frightened; fear; dread"
-],
-[
 "恐吓",
-6,
+7,
 "kǒng hè",
 "to threaten; to menace"
 ],
 [
+"恐慌",
+7,
+"kǒng huāng",
+"panic; panicky; panic-stricken"
+],
+[
+"恐惧",
+7,
+"kǒng jù",
+"to be frightened; fear; dread"
+],
+[
+"恐龙",
+7,
+"kǒng lóng",
+"dinosaur; CL:头[tóu]; (slang) ugly person"
+],
+[
 "争先恐后",
-6,
+7,
 "zhēng xiān kǒng hòu",
 "striving to be first and fearing to be last (idiom); outdoing one another"
 ]
 ],
 "extraWords": [
 [
+"恐",
+12.83,
+"kǒng",
+"afraid; frightened; to fear"
+],
+[
 "反恐",
 11.09,
 "fǎn kǒng",
 "anti-terrorism; to fight against terrorism"
-],
-[
-"恐慌",
-11.0,
-"kǒng huāng",
-"panic; panicky; panic-stricken"
-],
-[
-"恐龙",
-8.02,
-"kǒng lóng",
-"dinosaur; CL:頭|头[tou2]; (slang) ugly person"
 ],
 [
 "恐怖主义",

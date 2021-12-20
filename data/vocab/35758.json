@@ -1,6 +1,6 @@
 {
 "char": "议",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "consult, talk over, discuss",
 "pron": "yì"
@@ -10,37 +10,37 @@
 "会议",
 3,
 "huì yì",
-"meeting; conference; CL:場|场[chang3],屆|届[jie4]"
+"meeting; conference; CL:场[chǎng],届[jiè]"
 ],
 [
 "建议",
-4,
+3,
 "jiàn yì",
-"to propose; to suggest; to recommend; proposal; suggestion; recommendation; CL:個|个[ge4],點|点[dian3]"
+"to propose; to suggest; to recommend; proposal; suggestion; recommendation; CL:个[gè],点[diǎn]"
 ],
 [
 "议论",
-5,
+4,
 "yì lùn",
-"to comment; to talk about; to discuss; discussion; CL:個|个[ge4]"
-],
-[
-"不可思议",
-6,
-"bù kě sī yì",
-"inconceivable (idiom); unimaginable; unfathomable"
+"to comment; to talk about; to discuss; discussion; CL:个[gè]"
 ],
 [
 "协议",
-6,
+5,
 "xié yì",
-"agreement; pact; protocol; CL:項|项[xiang4]"
+"agreement; pact; protocol; CL:项[xiàng]"
 ],
 [
-"提议",
-6,
-"tí yì",
-"proposal; suggestion; to propose; to suggest"
+"协议书",
+5,
+"xié yì shū",
+"contract; protocol"
+],
+[
+"争议",
+5,
+"zhēng yì",
+"controversy; dispute; to dispute"
 ],
 [
 "抗议",
@@ -49,16 +49,64 @@
 "to protest; protest"
 ],
 [
-"争议",
+"议题",
 6,
-"zhēng yì",
-"controversy; dispute; to dispute"
+"yì tí",
+"topic of discussion; topic; subject; issue (under discussion); CL:项[xiàng]"
+],
+[
+"不可思议",
+7,
+"bù kě sī yì",
+"inconceivable (idiom); unimaginable; unfathomable"
 ],
 [
 "倡议",
-6,
+7,
 "chàng yì",
 "to suggest; to initiate; proposal; initiative"
+],
+[
+"决议",
+7,
+"jué yì",
+"a resolution; to pass a resolution"
+],
+[
+"提议",
+7,
+"tí yì",
+"proposal; suggestion; to propose; to suggest"
+],
+[
+"议",
+7,
+"yì",
+"to comment on; to discuss; to suggest"
+],
+[
+"议程",
+7,
+"yì chéng",
+"agenda; agenda item"
+],
+[
+"议会",
+7,
+"yì huì",
+"parliament; legislative assembly"
+],
+[
+"议员",
+7,
+"yì yuán",
+"member (of a legislative body); representative"
+],
+[
+"异议",
+7,
+"yì yì",
+"objection; dissent"
 ]
 ],
 "extraWords": [
@@ -69,28 +117,10 @@
 "deliberation; pondering; due consideration"
 ],
 [
-"议员",
-34.49,
-"yì yuán",
-"member (of a legislative body); representative"
-],
-[
-"决议",
-32.82,
-"jué yì",
-"a resolution; to pass a resolution"
-],
-[
 "参议员",
 24.53,
 "cān yì yuán",
 "senator"
-],
-[
-"议会",
-19.61,
-"yì huì",
-"parliament; legislative assembly"
 ],
 [
 "会议室",
@@ -99,34 +129,16 @@
 "meeting room; conference room"
 ],
 [
-"议题",
-9.2,
-"yì tí",
-"topic of discussion; topic; subject; issue (under discussion); CL:項|项[xiang4]"
-],
-[
 "评议",
 8.24,
 "píng yì",
 "to appraise through discussion"
 ],
 [
-"异议",
-7.07,
-"yì yì",
-"objection; dissent"
-],
-[
 "议案",
 5.66,
 "yì àn",
 "proposal; motion"
-],
-[
-"议程",
-5.45,
-"yì chéng",
-"agenda; agenda item"
 ],
 [
 "参议院",

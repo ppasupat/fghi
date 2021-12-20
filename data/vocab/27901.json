@@ -1,14 +1,26 @@
 {
 "char": "泽",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "marsh, swamp; grace, brilliance",
 "pron": "zé"
 },
 "words": [
 [
+"光泽",
+7,
+"Guāng zé",
+"Guangze county in Nanping 南平[Nán píng] Fujian"
+],
+[
+"光泽",
+7,
+"guāng zé",
+"luster; gloss"
+],
+[
 "沼泽",
-6,
+7,
 "zhǎo zé",
 "marsh; swamp; wetlands; glade"
 ]
@@ -33,22 +45,16 @@
 "Jiang Zemin (1926-), politician, president of PRC 1993-2003"
 ],
 [
+"泽",
+17.48,
+"zé",
+"pool; pond; (of metals etc) luster; favor or beneficence; damp; moist"
+],
+[
 "新泽西",
 12.07,
 "Xīn zé xī",
 "New Jersey, US state"
-],
-[
-"光泽",
-7.2,
-"Guāng zé",
-"Guangze county in Nanping 南平[Nan2 ping2] Fujian"
-],
-[
-"光泽",
-7.2,
-"guāng zé",
-"luster; gloss"
 ],
 [
 "色泽",

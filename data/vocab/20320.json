@@ -1,6 +1,6 @@
 {
 "char": "你",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "you, second person pronoun",
 "pron": "nǐ"
@@ -10,21 +10,27 @@
 "你",
 1,
 "nǐ",
-"you (informal, as opposed to courteous 您[nin2])"
+"you (informal, as opposed to courteous 您[nín])"
+],
+[
+"你们",
+1,
+"nǐ men",
+"you (plural)"
 ]
 ],
 "extraWords": [
-[
-"你们",
-3366.85,
-"nǐ men",
-"you (plural)"
-],
 [
 "你好",
 37.38,
 "nǐ hǎo",
 "hello; hi"
+],
+[
+"你家",
+24.53,
+"???",
+"???"
 ],
 [
 "迷你",

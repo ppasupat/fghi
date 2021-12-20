@@ -1,30 +1,42 @@
 {
 "char": "滋",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "grow, multiply, increase; thrive",
 "pron": "zī"
 },
 "words": [
 [
-"滋味",
-6,
-"zī wèi",
-"taste; flavor; feeling"
+"艾滋病",
+7,
+"ài zī bìng",
+"AIDS (loanword)"
+],
+[
+"美滋滋",
+7,
+"měi zī zī",
+"very happy; elated"
 ],
 [
 "滋润",
-6,
+7,
 "zī rùn",
 "moist; humid; to moisten; to provide moisture; comfortably off"
+],
+[
+"滋味",
+7,
+"zī wèi",
+"taste; flavor; feeling"
 ]
 ],
 "extraWords": [
 [
-"艾滋病",
-23.1,
-"ài zī bìng",
-"AIDS (loanword)"
+"滋",
+11.1,
+"zī",
+"to grow; to nourish; to increase; to cause; juice; taste; (dialect) to spout; to spurt"
 ],
 [
 "滋生",

@@ -1,22 +1,28 @@
 {
 "char": "辨",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "distinguish, discriminate",
 "pron": "biàn"
 },
 "words": [
 [
-"分辨",
-6,
-"fēn biàn",
-"to distinguish; to differentiate; to resolve"
+"辨别",
+7,
+"biàn bié",
+"to differentiate; to distinguish; to discriminate"
 ],
 [
 "辨认",
-6,
+7,
 "biàn rèn",
 "to recognize; to identify"
+],
+[
+"分辨",
+7,
+"fēn biàn",
+"to distinguish; to differentiate; to resolve"
 ]
 ],
 "extraWords": [
@@ -27,10 +33,10 @@
 "resolution (of images, monitors, scanners etc)"
 ],
 [
-"辨别",
-5.0,
-"biàn bié",
-"to differentiate; to distinguish; to discriminate"
+"辨",
+8.69,
+"biàn",
+"to distinguish; to recognize"
 ]
 ],
 "strokes": [

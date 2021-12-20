@@ -1,24 +1,42 @@
 {
 "char": "覆",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cover; tip over; return; reply",
 "pron": "fù"
 },
 "words": [
 [
+"颠覆",
+7,
+"diān fù",
+"to topple (i.e. knock over); to capsize; fig. to overturn (a regime, by plotting or subversion); to undermine; to subvert"
+],
+[
+"翻来覆去",
+7,
+"fān lái fù qù",
+"to toss and turn (sleeplessly); again and again"
+],
+[
+"翻天覆地",
+7,
+"fān tiān fù dì",
+"sky and the earth turning upside down (idiom); fig. complete confusion; everything turned on its head"
+],
+[
 "覆盖",
-6,
+7,
 "fù gài",
 "to cover"
 ]
 ],
 "extraWords": [
 [
-"颠覆",
-7.84,
-"diān fù",
-"to topple (i.e. knock over); to capsize; fig. to overturn (a regime, by plotting or subversion); to undermine; to subvert"
+"覆",
+10.16,
+"fù",
+"to cover; to overflow; to overturn; to capsize"
 ],
 [
 "覆盖率",

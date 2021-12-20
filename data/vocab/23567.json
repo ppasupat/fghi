@@ -1,6 +1,6 @@
 {
 "char": "小",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "small, tiny, insignificant",
 "pron": "xiǎo"
@@ -13,70 +13,280 @@
 "small; tiny; few; young"
 ],
 [
+"小孩儿",
+1,
+"xiǎo hái r5",
+"erhua variant of 小孩[xiǎo hái]"
+],
+[
 "小姐",
 1,
 "xiǎo jie",
-"young lady; miss; (slang) prostitute; CL:個|个[ge4],位[wei4]"
+"young lady; miss; (slang) prostitute; CL:个[gè],位[wèi]"
+],
+[
+"小朋友",
+1,
+"xiǎo péng yǒu",
+"child; CL:个[gè]"
 ],
 [
 "小时",
-2,
+1,
 "xiǎo shí",
-"hour; CL:個|个[ge4]"
+"hour; CL:个[gè]"
+],
+[
+"小学",
+1,
+"xiǎo xué",
+"elementary school; primary school; CL:个[gè]"
+],
+[
+"小学生",
+1,
+"xiǎo xué shēng",
+"primary school student; schoolchild; CL:个[gè],名[míng]; (fig.) beginner"
+],
+[
+"从小",
+2,
+"cóng xiǎo",
+"from childhood; from a young age"
+],
+[
+"大小",
+2,
+"dà xiǎo",
+"dimension; magnitude; size; measurement; large and small; at any rate; adults and children; consideration of seniority"
+],
+[
+"小声",
+2,
+"xiǎo shēng",
+"in a low voice; (speak) in whispers"
+],
+[
+"小时候",
+2,
+"xiǎo shí hou",
+"in one's childhood"
+],
+[
+"小说",
+2,
+"xiǎo shuō",
+"novel; fiction; CL:本[běn],部[bù]"
 ],
 [
 "小心",
-3,
+2,
 "xiǎo xīn",
 "to be careful; to take care"
 ],
 [
-"小伙子",
-4,
-"xiǎo huǒ zi",
-"young man; young guy; lad; youngster; CL:個|个[ge4]"
+"小组",
+2,
+"xiǎo zǔ",
+"group"
 ],
 [
-"小说",
+"中小学",
+2,
+"zhōng xiǎo xué",
+"middle and elementary school"
+],
+[
+"矮小",
 4,
-"xiǎo shuō",
-"novel; fiction; CL:本[ben3],部[bu4]"
+"ǎi xiǎo",
+"short and small; low and small; undersized"
+],
+[
+"缩小",
+4,
+"suō xiǎo",
+"to reduce; to decrease; to shrink"
 ],
 [
 "小吃",
 4,
 "xiǎo chī",
-"snack; refreshments; CL:家[jia1]"
+"snack; refreshments; CL:家[jiā]"
 ],
 [
-"胆小鬼",
-5,
-"dǎn xiǎo guǐ",
-"coward"
+"小伙子",
+4,
+"xiǎo huǒ zi",
+"young man; young guy; lad; youngster; CL:个[gè]"
 ],
 [
-"小气",
+"小型",
+4,
+"xiǎo xíng",
+"small scale; small size"
+],
+[
+"胆小",
 5,
-"xiǎo qì",
-"stingy; miserly; narrow-minded; petty"
+"dǎn xiǎo",
+"cowardice; timid"
+],
+[
+"小偷儿",
+5,
+"xiǎo tōu",
+"thief"
+],
+[
+"小费",
+6,
+"xiǎo fèi",
+"tip; gratuity"
 ],
 [
 "小麦",
-5,
+6,
 "xiǎo mài",
-"wheat; CL:粒[li4]"
+"wheat; CL:粒[lì]"
+],
+[
+"小于",
+6,
+"xiǎo yú",
+"less than, <"
+],
+[
+"穿小鞋",
+7,
+"chuān xiǎo xié",
+"lit. to make sb wear tight shoes (idiom); to make life difficult for sb"
+],
+[
+"大街小巷",
+7,
+"dà jiē xiǎo xiàng",
+"great streets and small alleys (idiom); everywhere in the city"
+],
+[
+"大惊小怪",
+7,
+"dà jīng xiǎo guài",
+"to make a fuss about nothing (idiom)"
+],
+[
+"大同小异",
+7,
+"dà tóng xiǎo yì",
+"virtually the same; differing only on small points"
 ],
 [
 "渺小",
-6,
+7,
 "miǎo xiǎo",
 "minute; tiny; negligible; insignificant"
 ],
 [
+"狭小",
+7,
+"xiá xiǎo",
+"narrow"
+],
+[
+"小丑",
+7,
+"xiǎo chǒu",
+"clown"
+],
+[
+"小贩",
+7,
+"xiǎo fàn",
+"peddler; hawker"
+],
+[
+"小看",
+7,
+"xiǎo kàn",
+"to look down on; to underestimate"
+],
+[
+"小康",
+7,
+"Xiǎo kāng",
+"Xiaokang, a Confucian near-ideal state of society, second only to Datong 大同[Dà tóng]"
+],
+[
+"小康",
+7,
+"xiǎo kāng",
+"moderately affluent; well-off; a period of peace and prosperity"
+],
+[
+"小路",
+7,
+"xiǎo lù",
+"minor road; lane; pathway; trail"
+],
+[
+"小品",
+7,
+"xiǎo pǐn",
+"short, simple literary or artistic creation; essay; skit"
+],
+[
+"小气",
+7,
+"xiǎo qì",
+"stingy; miserly; narrow-minded; petty"
+],
+[
+"小区",
+7,
+"xiǎo qū",
+"neighborhood; district"
+],
+[
+"小曲",
+7,
+"xiǎo qǔ",
+"popular song; folk tune; ballad"
+],
+[
+"小人",
+7,
+"xiǎo rén",
+"person of low social status (old); I, me (used to refer humbly to oneself); nasty person; vile character"
+],
+[
+"小提琴",
+7,
+"xiǎo tí qín",
+"fiddle; violin"
+],
+[
+"小溪",
+7,
+"xiǎo xī",
+"brook; streamlet"
+],
+[
 "小心翼翼",
-6,
+7,
 "xiǎo xīn yì yì",
 "cautious and solemn (idiom); very carefully; prudent; gently and cautiously"
+],
+[
+"小卒",
+7,
+"xiǎo zú",
+"foot soldier; minor figure; a nobody; (chess) pawn"
+],
+[
+"一不小心",
+7,
+"yī bù xiǎo xīn",
+"to be a little bit careless; to have a moment of inattentiveness"
 ]
 ],
 "extraWords": [
@@ -96,31 +306,7 @@
 "小孩",
 115.03,
 "xiǎo hái",
-"child; CL:個|个[ge4]"
-],
-[
-"小组",
-80.9,
-"xiǎo zǔ",
-"group"
-],
-[
-"小区",
-60.3,
-"xiǎo qū",
-"neighborhood; district"
-],
-[
-"大小",
-54.24,
-"dà xiǎo",
-"dimension; magnitude; size; measurement; large and small; at any rate; adults and children; consideration of seniority"
-],
-[
-"小学",
-53.87,
-"xiǎo xué",
-"elementary school; primary school; CL:個|个[ge4]"
+"child; CL:个[gè]"
 ],
 [
 "小小",
@@ -129,10 +315,10 @@
 "very small; very few; very minor"
 ],
 [
-"小时候",
-32.19,
-"xiǎo shí hou",
-"in one's childhood"
+"小家伙",
+30.82,
+"???",
+"???"
 ],
 [
 "中小企业",
@@ -147,40 +333,34 @@
 "Deng Xiaoping (1904-1997), Chinese communist leader, de facto leader of PRC 1978-1990 and creator of \"socialism with Chinese characteristics\""
 ],
 [
-"小丑",
-28.97,
-"xiǎo chǒu",
-"clown"
-],
-[
-"从小",
-28.39,
-"cóng xiǎo",
-"from childhood; from a young age"
-],
-[
 "小镇",
 26.2,
 "xiǎo zhèn",
 "small town; village"
 ],
 [
-"小型",
-23.82,
-"xiǎo xíng",
-"small scale; small size"
+"中小",
+24.48,
+"???",
+"???"
 ],
 [
-"小朋友",
-23.79,
-"xiǎo péng yǒu",
-"child; CL:個|个[ge4]"
+"小妞",
+23.46,
+"???",
+"???"
 ],
 [
-"缩小",
-20.3,
-"suō xiǎo",
-"to reduce; to decrease; to shrink"
+"小姑娘",
+21.28,
+"???",
+"???"
+],
+[
+"最小",
+18.97,
+"???",
+"???"
 ],
 [
 "小孩子",
@@ -189,16 +369,10 @@
 "child"
 ],
 [
-"小康",
-17.34,
-"Xiǎo kāng",
-"Xiaokang, a Confucian near-ideal state of society, second only to Datong 大同[Da4 tong2]"
-],
-[
-"小康",
-17.34,
-"xiǎo kāng",
-"moderately affluent; well-off; a period of peace and prosperity"
+"小小的",
+17.92,
+"???",
+"???"
 ],
 [
 "小偷",
@@ -210,13 +384,13 @@
 "小事",
 15.79,
 "xiǎo shì",
-"trifle; trivial matter; CL:點|点[dian3]"
+"trifle; trivial matter; CL:点[diǎn]"
 ],
 [
-"中小学",
-15.71,
-"zhōng xiǎo xué",
-"middle and elementary school"
+"较小",
+15.13,
+"???",
+"???"
 ],
 [
 "小雨",
@@ -225,16 +399,16 @@
 "light rain; drizzle"
 ],
 [
-"小于",
-14.32,
-"xiǎo yú",
-"less than, <"
+"胆小鬼",
+14.55,
+"dǎn xiǎo guǐ",
+"coward"
 ],
 [
-"小人",
-14.08,
-"xiǎo rén",
-"person of low social status (old); I, me (used to refer humbly to oneself); nasty person; vile character"
+"小队",
+14.04,
+"???",
+"???"
 ],
 [
 "小屋",
@@ -249,28 +423,10 @@
 "(in classical literature) young military officer of high rank for his age; (during the Cultural Revolution) young militant in the Red Guard; (in modern usage) rising star (in sport, politics etc)"
 ],
 [
-"小学生",
-12.92,
-"xiǎo xué shēng",
-"primary school student; schoolchild; CL:個|个[ge4],名[ming2]; (fig.) beginner"
-],
-[
 "小牛",
 12.63,
 "xiǎo niú",
 "calf; (coll.) lower-priced model of Lamborghini"
-],
-[
-"小声",
-12.55,
-"xiǎo shēng",
-"in a low voice; (speak) in whispers"
-],
-[
-"小费",
-11.95,
-"xiǎo fèi",
-"tip; gratuity"
 ],
 [
 "小狗",
@@ -289,6 +445,12 @@
 10.78,
 "Xiǎo quán",
 "Koizumi (name); KOIZUMI Jun'ichirō, Japanese LDP politician, prime minister 2001-2006"
+],
+[
+"小明",
+10.14,
+"???",
+"???"
 ],
 [
 "小米",
@@ -330,7 +492,7 @@
 "小白",
 8.27,
 "xiǎo bái",
-"(slang) novice; greenhorn; fool; idiot; abbr. for 小白臉|小白脸[xiao3 bai2 lian3], pretty boy"
+"(slang) novice; greenhorn; fool; idiot; abbr. for 小白脸[xiǎo bái liǎn], pretty boy"
 ],
 [
 "小弟",
@@ -339,10 +501,10 @@
 "little brother; I, your little brother (humble)"
 ],
 [
-"小品",
-8.14,
-"xiǎo pǐn",
-"short, simple literary or artistic creation; essay; skit"
+"中小学生",
+8.03,
+"???",
+"???"
 ],
 [
 "小腿",
@@ -360,7 +522,7 @@
 "小伙",
 7.84,
 "xiǎo huǒ",
-"young guy; lad; youngster; CL:個|个[ge4]"
+"young guy; lad; youngster; CL:个[gè]"
 ],
 [
 "减小",
@@ -381,12 +543,6 @@
 "kitten"
 ],
 [
-"一不小心",
-6.71,
-"yī bù xiǎo xīn",
-"to be a little bit careless; to have a moment of inattentiveness"
-],
-[
 "小雪",
 6.71,
 "Xiǎo xuě",
@@ -405,22 +561,34 @@
 "small and exquisite; delicate; fine (features); compact; nifty"
 ],
 [
-"大惊小怪",
-6.41,
-"dà jīng xiǎo guài",
-"to make a fuss about nothing (idiom)"
-],
-[
-"胆小",
-6.14,
-"dǎn xiǎo",
-"cowardice; timid"
-],
-[
 "小便",
 6.08,
 "xiǎo biàn",
 "to urinate; to pass water; urine"
+],
+[
+"小猪",
+6.02,
+"???",
+"???"
+],
+[
+"小花",
+5.83,
+"???",
+"???"
+],
+[
+"小火",
+5.59,
+"???",
+"???"
+],
+[
+"小王",
+5.57,
+"???",
+"???"
 ],
 [
 "小马",
@@ -435,16 +603,22 @@
 "large and small; of all sizes"
 ],
 [
+"小李",
+5.36,
+"???",
+"???"
+],
+[
+"小熊",
+5.35,
+"???",
+"???"
+],
+[
 "一小撮",
 5.31,
 "yī xiǎo cuō",
 "handful (of)"
-],
-[
-"小提琴",
-5.28,
-"xiǎo tí qín",
-"fiddle; violin"
 ],
 [
 "小妹",
@@ -463,6 +637,18 @@
 5.19,
 "xiǎo xiàng",
 "alley"
+],
+[
+"小罗",
+5.15,
+"???",
+"???"
+],
+[
+"小黑",
+5.09,
+"???",
+"???"
 ],
 [
 "小岛",

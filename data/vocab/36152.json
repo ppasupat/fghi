@@ -1,6 +1,6 @@
 {
 "char": "贸",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "trade, barter; mixed; rashly",
 "pron": "mào"
@@ -10,21 +10,27 @@
 "贸易",
 5,
 "mào yì",
-"(commercial) trade; CL:個|个[ge4]"
-]
+"(commercial) trade; CL:个[gè]"
 ],
-"extraWords": [
 [
 "经贸",
-21.55,
+7,
 "jīng mào",
 "trade"
 ],
 [
 "外贸",
-19.25,
+7,
 "wài mào",
 "foreign trade"
+]
+],
+"extraWords": [
+[
+"贸",
+18.43,
+"mào",
+"commerce; trade"
 ],
 [
 "商贸",

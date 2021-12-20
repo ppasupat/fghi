@@ -1,36 +1,48 @@
 {
 "char": "董",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "direct, supervise; surname",
 "pron": "dǒng"
 },
 "words": [
 [
-"古董",
-6,
-"gǔ dǒng",
-"curio; antique"
+"董事",
+7,
+"dǒng shì",
+"board member"
 ],
-[
-"董事长",
-6,
-"dǒng shì zhǎng",
-"chairman of the board; chairman"
-]
-],
-"extraWords": [
 [
 "董事会",
-50.54,
+7,
 "dǒng shì huì",
 "board of directors"
 ],
 [
-"董事",
-38.84,
-"dǒng shì",
-"board member"
+"董事长",
+7,
+"dǒng shì zhǎng",
+"chairman of the board; chairman"
+],
+[
+"古董",
+7,
+"gǔ dǒng",
+"curio; antique"
+]
+],
+"extraWords": [
+[
+"董",
+15.59,
+"Dǒng",
+"surname Dong"
+],
+[
+"董",
+15.59,
+"dǒng",
+"to supervise; to direct; director"
 ]
 ],
 "strokes": [

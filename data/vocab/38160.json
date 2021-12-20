@@ -1,25 +1,32 @@
 {
 "char": "锐",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "sharp, keen, acute, pointed",
 "pron": "ruì"
 },
 "words": [
 [
-"敏锐",
-6,
-"mǐn ruì",
-"keen; sharp; acute"
-],
-[
 "尖锐",
-6,
+7,
 "jiān ruì",
 "sharp; intense; penetrating; pointed; acute (illness)"
+],
+[
+"敏锐",
+7,
+"mǐn ruì",
+"keen; sharp; acute"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"锐",
+11.56,
+"ruì",
+"acute"
+]
+],
 "strokes": [
 "M 272 615 Q 342 736 363 757 Q 372 767 367 781 Q 363 794 334 815 Q 307 833 288 832 Q 270 831 279 808 Q 294 777 282 749 Q 245 656 190 570 Q 136 486 62 395 Q 52 385 50 378 Q 47 368 61 370 Q 109 379 258 593 L 272 615 Z",
 "M 258 593 Q 297 574 347 592 Q 381 601 418 611 Q 434 615 437 618 Q 444 625 440 634 Q 433 644 405 648 Q 390 649 316 625 Q 295 621 272 615 C 243 608 232 605 258 593 Z",

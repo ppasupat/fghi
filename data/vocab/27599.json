@@ -1,6 +1,6 @@
 {
 "char": "每",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "every, each",
 "pron": "měi"
@@ -8,12 +8,30 @@
 "words": [
 [
 "每",
-2,
+3,
 "měi",
 "each; every"
+],
+[
+"每当",
+7,
+"měi dāng",
+"whenever; every time; on every"
+],
+[
+"每逢",
+7,
+"měi féng",
+"every time; on each occasion; whenever"
 ]
 ],
 "extraWords": [
+[
+"每个",
+258.89,
+"???",
+"???"
+],
 [
 "每天",
 217.62,
@@ -31,6 +49,18 @@
 100.77,
 "měi cì",
 "every time"
+],
+[
+"每一",
+87.61,
+"???",
+"???"
+],
+[
+"每一个",
+60.34,
+"???",
+"???"
 ],
 [
 "每个人",
@@ -63,22 +93,16 @@
 "every week"
 ],
 [
-"每当",
-14.0,
-"měi dāng",
-"whenever; every time; on every"
+"每晚",
+14.19,
+"???",
+"???"
 ],
 [
 "每每",
 5.42,
 "měi měi",
 "often"
-],
-[
-"每逢",
-5.19,
-"měi féng",
-"every time; on each occasion; whenever"
 ]
 ],
 "strokes": [

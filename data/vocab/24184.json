@@ -1,6 +1,6 @@
 {
 "char": "幸",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "luck(ily), favor, fortunately",
 "pron": "xìng"
@@ -8,42 +8,66 @@
 "words": [
 [
 "幸福",
-4,
+3,
 "xìng fú",
 "happiness; happy; blessed"
 ],
 [
 "幸运",
-5,
+3,
 "xìng yùn",
 "fortunate; lucky; fortune; luck"
 ],
 [
-"幸亏",
+"不幸",
 5,
-"xìng kuī",
-"fortunately; luckily"
+"bù xìng",
+"misfortune; adversity; unfortunate; sad; unfortunately; CL:个[gè]"
+],
+[
+"庆幸",
+7,
+"qìng xìng",
+"to rejoice; to be glad"
 ],
 [
 "荣幸",
-6,
+7,
 "róng xìng",
 "honored (to have the privilege of ...)"
 ],
 [
-"侥幸",
-6,
-"jiǎo xìng",
-"luckily; by a fluke"
+"幸存",
+7,
+"xìng cún",
+"to survive (a disaster)"
+],
+[
+"幸好",
+7,
+"xìng hǎo",
+"fortunately"
+],
+[
+"幸亏",
+7,
+"xìng kuī",
+"fortunately; luckily"
+],
+[
+"幸免",
+7,
+"xìng miǎn",
+"to avoid (an unpleasant fate)"
+],
+[
+"有幸",
+7,
+"yǒu xìng",
+"fortunately"
 ]
 ],
 "extraWords": [
-[
-"不幸",
-65.82,
-"bù xìng",
-"misfortune; adversity; unfortunate; sad; unfortunately; CL:個|个[ge4]"
-],
 [
 "幸存者",
 28.02,
@@ -51,28 +75,28 @@
 "survivor"
 ],
 [
-"幸好",
-14.84,
-"xìng hǎo",
-"fortunately"
+"幸",
+17.59,
+"xìng",
+"trusted; intimate; (of the emperor) to visit; variant of 幸[xìng]"
 ],
 [
-"庆幸",
-9.59,
-"qìng xìng",
-"to rejoice; to be glad"
+"幸",
+17.59,
+"Xìng",
+"surname Xing"
 ],
 [
-"幸存",
-8.29,
-"xìng cún",
-"to survive (a disaster)"
+"幸",
+17.59,
+"xìng",
+"fortunate; lucky"
 ],
 [
-"有幸",
-6.39,
-"yǒu xìng",
-"fortunately"
+"侥幸",
+5.81,
+"jiǎo xìng",
+"luckily; by a fluke"
 ]
 ],
 "strokes": [

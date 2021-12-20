@@ -1,6 +1,6 @@
 {
 "char": "艳",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "beautiful, sexy, voluptuous",
 "pron": "yàn"
@@ -11,9 +11,40 @@
 5,
 "xiān yàn",
 "bright-colored; gaily-colored"
+],
+[
+"艳丽",
+7,
+"yàn lì",
+"gorgeous; garish and beautiful"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"艳",
+22.55,
+"yàn",
+"variant of 艳[yàn]"
+],
+[
+"艳",
+22.55,
+"yàn",
+"colorful; splendid; gaudy; amorous; romantic; to envy"
+],
+[
+"艳",
+22.55,
+"yàn",
+"old variant of 艳[yàn]"
+],
+[
+"艳",
+22.55,
+"yàn",
+"variant of 艳[yàn]"
+]
+],
 "strokes": [
 "M 334 590 Q 427 620 429 621 Q 436 628 432 637 Q 425 647 395 653 Q 367 657 338 643 Q 337 643 336 642 L 290 624 Q 193 599 162 593 Q 128 584 154 570 Q 199 549 252 567 Q 268 573 291 577 L 334 590 Z",
 "M 331 442 Q 334 443 399 458 Q 409 458 416 471 Q 416 481 393 489 Q 360 502 336 493 Q 333 492 332 491 L 290 475 Q 283 474 277 471 Q 240 459 161 440 Q 134 433 157 419 Q 191 398 217 408 Q 248 418 288 430 L 331 442 Z",

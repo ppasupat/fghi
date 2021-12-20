@@ -1,22 +1,16 @@
 {
 "char": "呵",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "scold; laughing sound; yawn",
 "pron": "hē"
 },
 "words": [
 [
-"呵",
-6,
-"ā",
-"variant of 啊[a1]"
-],
-[
-"呵",
-6,
-"hē",
-"expel breath; my goodness"
+"呵护",
+7,
+"hē hù",
+"to bless; to cherish; to take good care of; to conserve"
 ]
 ],
 "extraWords": [
@@ -27,10 +21,16 @@
 "(onom.) gentle laughter; chuckle"
 ],
 [
-"呵护",
-8.61,
-"hē hù",
-"to bless; to cherish; to take good care of; to conserve"
+"呵",
+16.22,
+"ā",
+"variant of 啊[ā]"
+],
+[
+"呵",
+16.22,
+"hē",
+"expel breath; my goodness"
 ]
 ],
 "strokes": [

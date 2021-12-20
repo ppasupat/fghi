@@ -1,43 +1,67 @@
 {
 "char": "筹",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "chip, tally, token; raise money",
 "pron": "chóu"
 },
 "words": [
 [
+"筹",
+7,
+"chóu",
+"chip (in gambling); token (for counting); ticket; to prepare; to plan; to raise (funds); resource; means"
+],
+[
+"筹办",
+7,
+"chóu bàn",
+"to arrange; to make preparations"
+],
+[
 "筹备",
-6,
+7,
 "chóu bèi",
 "preparations; to get ready for sth"
 ],
 [
-"统筹兼顾",
-6,
-"tǒng chóu jiān gù",
-"an overall plan taking into account all factors"
-]
+"筹措",
+7,
+"chóu cuò",
+"to raise (money)"
 ],
-"extraWords": [
 [
-"统筹",
-15.09,
-"tǒng chóu",
-"an overall plan; to plan an entire project as a whole"
+"筹划",
+7,
+"chóu huà",
+"to plan and prepare"
+],
+[
+"筹集",
+7,
+"chóu jí",
+"to collect money; to raise funds"
 ],
 [
 "筹码",
-14.05,
+7,
 "chóu mǎ",
 "bargaining chip; gaming chip; casino token"
 ],
 [
-"筹集",
-9.67,
-"chóu jí",
-"to collect money; to raise funds"
+"统筹",
+7,
+"tǒng chóu",
+"an overall plan; to plan an entire project as a whole"
 ],
+[
+"一筹莫展",
+7,
+"yī chóu mò zhǎn",
+"to be unable to find a solution; to be at wits' end"
+]
+],
+"extraWords": [
 [
 "筹建",
 6.14,

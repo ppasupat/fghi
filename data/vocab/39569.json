@@ -1,6 +1,6 @@
 {
 "char": "骑",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "ride horseback; mount; cavalry",
 "pron": "qí"
@@ -8,15 +8,21 @@
 "words": [
 [
 "骑",
-3,
+2,
 "jì",
 "(Tw) saddle horse; mounted soldier"
 ],
 [
 "骑",
-3,
+2,
 "qí",
 "to sit astride; to ride (a horse, bike etc); classifier for saddle horses"
+],
+[
+"骑车",
+2,
+"qí chē",
+"to ride a bike (motorbike or bicycle)"
 ]
 ],
 "extraWords": [
@@ -37,12 +43,6 @@
 9.84,
 "qí mǎ",
 "to ride a horse"
-],
-[
-"骑车",
-6.38,
-"qí chē",
-"to ride a bike (motorbike or bicycle)"
 ]
 ],
 "strokes": [

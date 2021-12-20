@@ -1,19 +1,43 @@
 {
 "char": "肠",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "intestines; emotions; sausage",
 "pron": "cháng"
 },
 "words": [
 [
+"肠",
+5,
+"cháng",
+"intestines"
+],
+[
+"肠",
+5,
+"cháng",
+"old variant of 肠[cháng]"
+],
+[
 "香肠",
 5,
 "xiāng cháng",
-"sausage; CL:根[gen1]"
+"sausage; CL:根[gēn]"
+],
+[
+"心肠",
+7,
+"xīn cháng",
+"heart; intention; one's inclination; state of mind; to have the heart for sth; mood"
 ]
 ],
 "extraWords": [
+[
+"胃肠",
+9.36,
+"???",
+"???"
+],
 [
 "肠道",
 7.91,

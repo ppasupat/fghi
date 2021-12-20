@@ -1,24 +1,24 @@
 {
 "char": "肢",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "human limbs; animal feet",
 "pron": "zhī"
 },
 "words": [
 [
-"四肢",
-6,
-"sì zhī",
-"the four limbs of the body"
+"肢体",
+7,
+"zhī tǐ",
+"limb; limbs and trunk; body"
 ]
 ],
 "extraWords": [
 [
-"肢体",
-7.03,
-"zhī tǐ",
-"limb; limbs and trunk; body"
+"四肢",
+7.9,
+"sì zhī",
+"the four limbs of the body"
 ],
 [
 "下肢",

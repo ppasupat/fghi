@@ -1,17 +1,30 @@
 {
 "char": "拯",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "help, save, aid; lift, raise",
 "pron": "zhěng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "拯救",
-68.98,
+7,
 "zhěng jiù",
 "to save; to rescue"
+]
+],
+"extraWords": [
+[
+"包拯",
+0.5,
+"Bāo Zhěng",
+"Bao Zheng (999-1062), Northern Song official renowned for his honesty; modern day metaphor for an honest politician"
+],
+[
+"拯",
+0.39,
+"zhěng",
+"to raise; to aid; to support; to save; to rescue"
 ]
 ],
 "strokes": [

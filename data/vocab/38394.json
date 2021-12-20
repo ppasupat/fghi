@@ -1,12 +1,32 @@
 {
 "char": "闺",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "small entrance; women's quarters",
 "pron": "guī"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"闺女",
+7,
+"guī nǚ",
+"maiden; unmarried woman; daughter"
+]
+],
+"extraWords": [
+[
+"闺",
+11.34,
+"guī",
+"small arched door; boudoir; lady's chamber; by ext. women"
+],
+[
+"闺房",
+1.1,
+"guī fáng",
+"lady's chamber; boudoir; harem"
+]
+],
 "strokes": [
 "M 304 753 Q 367 672 394 669 Q 410 668 418 688 Q 419 703 410 727 Q 398 746 371 758 Q 329 780 311 784 Q 301 785 298 773 Q 297 763 304 753 Z",
 "M 176 688 Q 231 541 186 227 Q 156 104 157 94 Q 157 63 179 37 Q 192 22 202 37 Q 239 76 240 242 Q 240 569 257 653 Q 258 672 242 683 Q 217 704 189 712 Q 179 715 172 706 Q 168 699 176 688 Z",

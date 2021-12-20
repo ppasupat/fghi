@@ -1,6 +1,6 @@
 {
 "char": "索",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "large rope, cable; rules, laws; to demand, to exact; to search, inquire; isolated",
 "pron": "suǒ"
@@ -14,7 +14,7 @@
 ],
 [
 "线索",
-6,
+5,
 "xiàn suǒ",
 "trail; clues; thread (of a story)"
 ],
@@ -25,31 +25,67 @@
 "to explore; to probe"
 ],
 [
-"思索",
-6,
-"sī suǒ",
-"to think deeply; to ponder"
+"不假思索",
+7,
+"bù jiǎ sī suǒ",
+"to act without taking time to think (idiom); to react instantly; to fire from the hip"
 ],
 [
-"索取",
-6,
-"suǒ qǔ",
-"to ask; to demand"
+"导火索",
+7,
+"dǎo huǒ suǒ",
+"fuse (for explosive)"
+],
+[
+"利索",
+7,
+"lì suo",
+"nimble"
 ],
 [
 "摸索",
-6,
+7,
 "mō suo",
 "to feel about; to grope about; to fumble; to do things slowly"
 ],
 [
+"思索",
+7,
+"sī suǒ",
+"to think deeply; to ponder"
+],
+[
+"索赔",
+7,
+"suǒ péi",
+"to ask for compensation; to claim damages; claim for damages"
+],
+[
+"索取",
+7,
+"suǒ qǔ",
+"to ask; to demand"
+],
+[
 "索性",
-6,
+7,
 "suǒ xìng",
 "you might as well (do it); simply; just"
 ]
 ],
 "extraWords": [
+[
+"索",
+29.01,
+"Suǒ",
+"surname Suo; abbr. for 索马里[Suǒ mǎ lǐ], Somalia"
+],
+[
+"索",
+29.01,
+"suǒ",
+"to search; to demand; to ask; to exact; large rope; isolated"
+],
 [
 "索尼",
 21.18,
@@ -69,16 +105,28 @@
 "to blackmail; to extort"
 ],
 [
-"索赔",
-7.85,
-"suǒ péi",
-"to ask for compensation; to claim damages; claim for damages"
+"探索者",
+13.09,
+"???",
+"???"
+],
+[
+"阿隆索",
+6.68,
+"???",
+"???"
 ],
 [
 "索要",
 6.08,
 "suǒ yào",
 "to ask for; to request; to demand"
+],
+[
+"索菲",
+5.75,
+"???",
+"???"
 ],
 [
 "绳索",

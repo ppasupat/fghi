@@ -1,6 +1,6 @@
 {
 "char": "叨",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "talkative; quarrelous",
 "pron": "dāo, dáo, tāo"
@@ -8,12 +8,31 @@
 "words": [
 [
 "唠叨",
-6,
+7,
 "láo dao",
 "to prattle; to chatter away; to nag; garrulous; nagging"
+],
+[
+"絮叨",
+7,
+"xù dao",
+"long-winded; garrulous; to talk endlessly without getting to the point"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"叨",
+3.25,
+"dāo",
+"garrulous"
+],
+[
+"叨",
+3.25,
+"tāo",
+"to receive the benefit of"
+]
+],
 "strokes": [
 "M 175 604 Q 163 611 133 618 Q 121 622 117 617 Q 110 611 118 594 Q 146 522 157 407 Q 158 373 177 348 Q 193 326 199 341 Q 206 360 205 397 L 201 431 Q 186 543 185 575 C 184 600 184 600 175 604 Z",
 "M 353 450 Q 369 555 396 587 Q 418 615 394 628 Q 373 638 345 656 Q 324 668 288 643 Q 245 621 175 604 C 146 597 156 569 185 575 Q 192 576 202 579 Q 245 592 283 601 Q 308 608 315 598 Q 325 591 317 550 Q 310 507 301 457 C 296 427 348 420 353 450 Z",

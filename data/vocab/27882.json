@@ -1,37 +1,37 @@
 {
 "char": "泪",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "tears; weep, cry",
 "pron": "lèi"
 },
 "words": [
 [
-"流泪",
-5,
-"liú lèi",
-"to shed tears"
-],
-[
-"热泪盈眶",
-6,
-"rè lèi yíng kuàng",
-"eyes brimming with tears of excitement (idiom); extremely moved"
-]
-],
-"extraWords": [
-[
-"眼泪",
-42.76,
-"yǎn lèi",
-"tears; crying; CL:滴[di1]"
+"泪",
+4,
+"lèi",
+"tears"
 ],
 [
 "泪水",
-15.37,
+4,
 "lèi shuǐ",
 "teardrop; tears"
 ],
+[
+"眼泪",
+4,
+"yǎn lèi",
+"tears; crying; CL:滴[dī]"
+],
+[
+"流泪",
+7,
+"liú lèi",
+"to shed tears"
+]
+],
+"extraWords": [
 [
 "泪流满面",
 6.27,

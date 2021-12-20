@@ -1,17 +1,30 @@
 {
 "char": "芯",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "pith from rush (Juncus effusus)",
 "pron": "xīn, xìn"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "芯片",
-26.33,
+7,
 "xīn piàn",
 "computer chip; microchip"
+]
+],
+"extraWords": [
+[
+"芯",
+17.49,
+"xīn",
+"lamp pith; wick"
+],
+[
+"芯",
+17.49,
+"xìn",
+"core"
 ],
 [
 "芯片组",

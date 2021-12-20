@@ -1,28 +1,40 @@
 {
 "char": "细",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "fine, tiny; slender, thin",
 "pron": "xì"
 },
 "words": [
 [
-"仔细",
+"细",
 4,
-"zǐ xì",
-"careful; attentive; cautious"
+"xì",
+"thin or slender; finely particulate; thin and soft; fine; delicate; trifling; (of a sound) quiet; frugal"
+],
+[
+"细节",
+4,
+"xì jié",
+"details; particulars"
+],
+[
+"细致",
+4,
+"xì zhì",
+"delicate; fine; careful; meticulous; painstaking"
 ],
 [
 "详细",
-4,
+5,
 "xiáng xì",
 "detailed; in detail; minute"
 ],
 [
-"细节",
+"仔细",
 5,
-"xì jié",
-"details; particulars"
+"zǐ xì",
+"careful; attentive; cautious"
 ],
 [
 "细胞",
@@ -37,31 +49,37 @@
 "bacterium; germ"
 ],
 [
-"细致",
-6,
-"xì zhì",
-"delicate; fine; careful; meticulous; painstaking"
-],
-[
 "精打细算",
-6,
+7,
 "jīng dǎ xì suàn",
 "meticulous planning and careful accounting (idiom)"
-]
 ],
-"extraWords": [
+[
+"精细",
+7,
+"jīng xì",
+"fine; meticulous; careful"
+],
 [
 "细腻",
-13.87,
+7,
 "xì nì",
 "exquisite; meticulous"
 ],
 [
+"细微",
+7,
+"xì wēi",
+"tiny; minute; fine; subtle; sensitive (instruments)"
+],
+[
 "细心",
-11.51,
+7,
 "xì xīn",
 "careful; attentive"
+]
 ],
+"extraWords": [
 [
 "细则",
 10.96,
@@ -69,10 +87,10 @@
 "detailed rules and regulations; bylaws"
 ],
 [
-"精细",
-8.27,
-"jīng xì",
-"fine; meticulous; careful"
+"细细",
+8.54,
+"???",
+"???"
 ],
 [
 "淋巴细胞",
@@ -115,12 +133,6 @@
 5.22,
 "xì xiǎo",
 "tiny; fine; minute"
-],
-[
-"细微",
-5.1,
-"xì wēi",
-"tiny; minute; fine; subtle; sensitive (instruments)"
 ]
 ],
 "strokes": [

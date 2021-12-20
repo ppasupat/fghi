@@ -1,54 +1,78 @@
 {
 "char": "封",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "letter, envelope; feudal",
 "pron": "fēng"
 },
 "words": [
 [
-"信封",
-4,
-"xìn fēng",
-"envelope; CL:個|个[ge4]"
+"封",
+2,
+"Fēng",
+"surname Feng"
 ],
 [
-"封锁",
-6,
-"fēng suǒ",
-"to blockade; to seal off; to lock down"
+"封",
+2,
+"fēng",
+"to confer; to grant; to bestow a title; to seal; classifier for sealed objects, esp. letters"
+],
+[
+"信封",
+3,
+"xìn fēng",
+"envelope; CL:个[gè]"
 ],
 [
 "封闭",
-6,
+4,
 "fēng bì",
 "to seal; to close; to confine; to seal off; to close down; sealed; confined; closed; unreceptive"
 ],
 [
-"密封",
-6,
-"mì fēng",
-"to seal up"
+"封顶",
+7,
+"fēng dǐng",
+"to put a roof (on a building); to cap the roof (finishing a building project); fig. to put a ceiling (on spending, prize, ambition etc); to top off; fig. to reach the highest point (of growth, profit, interest rates); to stop growing (of plant bud or branch)"
 ],
 [
 "封建",
-6,
+7,
 "fēng jiàn",
 "system of enfeoffment; feudalism; feudal; feudalistic"
+],
+[
+"封面",
+7,
+"fēng miàn",
+"cover (of a publication)"
+],
+[
+"封锁",
+7,
+"fēng suǒ",
+"to blockade; to seal off; to lock down"
+],
+[
+"密封",
+7,
+"mì fēng",
+"to seal up"
 ]
 ],
 "extraWords": [
 [
-"封面",
-20.78,
-"fēng miàn",
-"cover (of a publication)"
+"封闭式",
+9.02,
+"???",
+"???"
 ],
 [
 "开封",
 5.24,
 "Kāi fēng",
-"Kaifeng prefecture-level city in Henan, old capital of Northern Song, former provincial capital of Henan; old name Bianliang 汴梁[Bian4 liang2]"
+"Kaifeng prefecture-level city in Henan, old capital of Northern Song, former provincial capital of Henan; old name Bianliang 汴梁[Biàn liáng]"
 ],
 [
 "查封",

@@ -1,6 +1,6 @@
 {
 "char": "检",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "check; examine",
 "pron": "jiǎn"
@@ -8,47 +8,59 @@
 "words": [
 [
 "检查",
-3,
+2,
 "jiǎn chá",
-"inspection; to examine; to inspect; CL:次[ci4]"
+"inspection; to examine; to inspect; CL:次[cì]"
+],
+[
+"检测",
+4,
+"jiǎn cè",
+"to detect; to test; detection; sensing"
+],
+[
+"体检",
+4,
+"tǐ jiǎn",
+"abbr. for 体格检查[tǐ gé jiǎn chá]"
 ],
 [
 "检验",
-6,
+5,
 "jiǎn yàn",
 "to inspect; to examine; to test"
 ],
 [
-"检讨",
+"安检",
 6,
+"ān jiǎn",
+"security check; to undergo a security check; abbr. for 安全检查[ān quán jiǎn chá]"
+],
+[
+"检察",
+7,
+"jiǎn chá",
+"to inspect; (law) to prosecute; to investigate"
+],
+[
+"检讨",
+7,
 "jiǎn tǎo",
 "to examine or inspect; self-criticism; review"
 ]
 ],
 "extraWords": [
 [
-"检测",
-77.52,
-"jiǎn cè",
-"to detect; to test; detection; sensing"
+"检",
+44.7,
+"jiǎn",
+"to check; to examine; to inspect; to exercise restraint"
 ],
 [
 "检察官",
 38.13,
 "jiǎn chá guān",
 "public prosecutor; public procurator (judicial officer whose job may involve both criminal investigation and public prosecution)"
-],
-[
-"检察",
-18.97,
-"jiǎn chá",
-"to inspect; (law) to prosecute; to investigate"
-],
-[
-"体检",
-17.3,
-"tǐ jiǎn",
-"abbr. for 體格檢查|体格检查[ti3 ge2 jian3 cha2]"
 ],
 [
 "检索",

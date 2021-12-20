@@ -1,6 +1,6 @@
 {
 "char": "哇",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "vomit; cry of an infant",
 "pron": "wā, wa"
@@ -16,7 +16,7 @@
 "哇",
 6,
 "wa",
-"replaces 啊[a5] when following the vowel \"u\" or \"ao\""
+"replaces 啊[a] when following the vowel \"u\" or \"ao\""
 ]
 ],
 "extraWords": [

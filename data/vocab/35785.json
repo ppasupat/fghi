@@ -1,6 +1,6 @@
 {
 "char": "诉",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "accuse; sue; inform; narrate",
 "pron": "sù"
@@ -8,53 +8,71 @@
 "words": [
 [
 "告诉",
-2,
+1,
 "gào sù",
 "to press charges; to file a complaint"
 ],
 [
 "告诉",
-2,
+1,
 "gào su",
 "to tell; to inform; to let know"
 ],
 [
-"诉讼",
-6,
-"sù sòng",
-"lawsuit"
-],
-[
 "投诉",
-6,
+4,
 "tóu sù",
 "complaint; to complain; to register a complaint (esp. as a customer)"
-]
 ],
-"extraWords": [
 [
 "起诉",
-53.63,
+6,
 "qǐ sù",
 "to sue; to bring a lawsuit against; to prosecute"
 ],
 [
-"上诉",
-12.12,
-"shàng sù",
-"to appeal (a judicial case); appeal"
-],
-[
 "倾诉",
-7.01,
+7,
 "qīng sù",
 "to say everything (that is on one's mind)"
 ],
 [
+"上诉",
+7,
+"shàng sù",
+"to appeal (a judicial case); appeal"
+],
+[
+"诉苦",
+7,
+"sù kǔ",
+"to grumble; to complain; grievance"
+],
+[
 "诉说",
-6.67,
+7,
 "sù shuō",
 "to recount; to tell of; to relate; (fig.) (of a thing) to stand as testament to (some past history)"
+],
+[
+"诉讼",
+7,
+"sù sòng",
+"lawsuit"
+]
+],
+"extraWords": [
+[
+"诉",
+13.7,
+"sù",
+"variant of 诉[sù]"
+],
+[
+"诉",
+13.7,
+"sù",
+"to complain; to sue; to tell"
 ],
 [
 "申诉",

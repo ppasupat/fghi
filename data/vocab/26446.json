@@ -1,24 +1,42 @@
 {
 "char": "李",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "plum; judge; surname",
 "pron": "lǐ"
 },
 "words": [
 [
-"行李箱",
+"行李",
 3,
-"xíng li xiāng",
-"suitcase; baggage compartment; overhead bin; (car) trunk; boot"
+"xíng li",
+"luggage; CL:件[jiàn]"
 ]
 ],
 "extraWords": [
 [
-"行李",
-29.12,
-"xíng li",
-"luggage; CL:件[jian4]"
+"李",
+75.69,
+"Lǐ",
+"surname Li"
+],
+[
+"李",
+75.69,
+"lǐ",
+"plum"
+],
+[
+"李某",
+14.16,
+"???",
+"???"
+],
+[
+"李先生",
+10.62,
+"???",
+"???"
 ],
 [
 "李宇春",
@@ -37,6 +55,18 @@
 5.37,
 "Lǐ Péng",
 "Li Peng (1928-2019), leading PRC politician, prime minister 1987-1998, reportedly leader of the conservative faction advocating the June 1989 Tiananmen clampdown"
+],
+[
+"小李",
+5.36,
+"???",
+"???"
+],
+[
+"李女士",
+5.25,
+"???",
+"???"
 ]
 ],
 "strokes": [

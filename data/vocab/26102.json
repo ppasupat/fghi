@@ -1,6 +1,6 @@
 {
 "char": "时",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "time, season; era, age, period",
 "pron": "shí"
@@ -14,57 +14,129 @@
 ],
 [
 "时间",
-2,
+1,
 "shí jiān",
-"time; period; CL:段[duan4]"
+"time; period; CL:段[duàn]"
 ],
 [
 "小时",
-2,
+1,
 "xiǎo shí",
-"hour; CL:個|个[ge4]"
+"hour; CL:个[gè]"
+],
+[
+"有时候",
+1,
+"yǒu shí hou",
+"sometimes"
+],
+[
+"有时",
+1,
+"yǒu shí",
+"sometimes; now and then"
 ],
 [
 "当时",
-4,
+2,
 "dāng shí",
 "then; at that time; while"
 ],
 [
 "当时",
-4,
+2,
 "dàng shí",
 "at once; right away"
 ],
 [
-"同时",
-4,
-"tóng shí",
-"at the same time; simultaneously"
+"那时候",
+2,
+"nà shí hou",
+"at that time"
 ],
 [
-"暂时",
-4,
-"zàn shí",
-"temporary; provisional; for the time being"
+"那时",
+2,
+"nà shí",
+"then; at that time; in those days"
 ],
 [
 "平时",
-4,
+2,
 "píng shí",
 "ordinarily; in normal times; in peacetime"
 ],
 [
+"随时",
+2,
+"suí shí",
+"at any time; at all times; at the right time"
+],
+[
+"同时",
+2,
+"tóng shí",
+"at the same time; simultaneously"
+],
+[
+"小时候",
+2,
+"xiǎo shí hou",
+"in one's childhood"
+],
+[
+"这时候",
+2,
+"???",
+"???"
+],
+[
+"这时",
+2,
+"zhè shí",
+"at this time; at this moment"
+],
+[
 "及时",
-4,
+3,
 "jí shí",
 "in time; promptly; without delay; timely"
 ],
 [
-"准时",
-4,
-"zhǔn shí",
-"on time; punctual; on schedule"
+"时",
+3,
+"shí",
+"old variant of 时[shí]"
+],
+[
+"时",
+3,
+"Shí",
+"surname Shi"
+],
+[
+"时",
+3,
+"shí",
+"o'clock; time; when; hour; season; period"
+],
+[
+"时代",
+3,
+"Shí dài",
+"Time, US weekly news magazine"
+],
+[
+"时代",
+3,
+"shí dài",
+"age; era; epoch; period (in one's life); CL:个[gè]"
+],
+[
+"时刻",
+3,
+"shí kè",
+"time; juncture; moment; period of time; CL:个[gè],段[duàn]; constantly; always"
 ],
 [
 "按时",
@@ -73,88 +145,76 @@
 "on time; before deadline; on schedule"
 ],
 [
-"时刻",
-5,
-"shí kè",
-"time; juncture; moment; period of time; CL:個|个[ge4],段[duan4]; constantly; always"
-],
-[
-"随时",
-5,
-"suí shí",
-"at any time; at all times; at the right time"
-],
-[
-"时代",
-5,
-"Shí dài",
-"Time, US weekly news magazine"
-],
-[
-"时代",
-5,
-"shí dài",
-"age; era; epoch; period (in one's life); CL:個|个[ge4]"
-],
-[
-"时尚",
-5,
-"shí shàng",
-"fashion; fad; fashionable"
-],
-[
-"时期",
-5,
-"shí qī",
-"period; phase; CL:個|个[ge4]"
-],
-[
 "临时",
-5,
+4,
 "lín shí",
 "as the time draws near; at the last moment; temporary; interim; ad hoc"
 ],
 [
-"时髦",
-5,
-"shí máo",
-"in vogue; fashionable"
+"学时",
+4,
+"xué shí",
+"class hour; period"
 ],
 [
-"时差",
+"准时",
+4,
+"zhǔn shí",
+"on time; punctual; on schedule"
+],
+[
+"不时",
 5,
-"shí chā",
-"time difference; time lag; jet lag"
+"bù shí",
+"from time to time; now and then; occasionally; frequently"
+],
+[
+"此时",
+5,
+"cǐ shí",
+"now; this moment"
+],
+[
+"时常",
+5,
+"shí cháng",
+"often; frequently"
 ],
 [
 "时光",
-6,
+5,
 "shí guāng",
 "time; era; period of time"
 ],
 [
 "时机",
-6,
+5,
 "shí jī",
 "fortunate timing; occasion; opportunity"
 ],
 [
-"时常",
-6,
-"shí cháng",
-"often; frequently"
-],
-[
-"不时",
-6,
-"bù shí",
-"from time to time; now and then; occasionally; frequently"
-],
-[
 "时事",
-6,
+5,
 "shí shì",
 "current trends; the present situation; how things are going"
+],
+[
+"暂时",
+5,
+"zàn shí",
+"temporary; provisional; for the time being"
+],
+[
+"定时",
+6,
+"dìng shí",
+"to fix a time; fixed time; timed (of explosive etc)"
+],
+[
+"过时",
+6,
+"guò shí",
+"old-fashioned; out of date; to be later than the time stipulated or agreed upon"
 ],
 [
 "时而",
@@ -163,66 +223,168 @@
 "occasionally; from time to time"
 ],
 [
-"顿时",
+"时节",
 6,
+"shí jié",
+"season; time"
+],
+[
+"时期",
+6,
+"shí qī",
+"period; phase; CL:个[gè]"
+],
+[
+"时时",
+6,
+"shí shí",
+"often; constantly"
+],
+[
+"时装",
+6,
+"shí zhuāng",
+"fashion; fashionable clothes"
+],
+[
+"一时",
+6,
+"yī shí",
+"a period of time; a while; for a short while; temporary; momentary; at the same time"
+],
+[
+"倒计时",
+7,
+"dào jì shí",
+"to count down; countdown"
+],
+[
+"顿时",
+7,
 "dùn shí",
 "immediately; suddenly"
+],
+[
+"耗时",
+7,
+"hào shí",
+"time-consuming; to take a period of (x amount of time)"
+],
+[
+"何时",
+7,
+"hé shí",
+"when"
+],
+[
+"划时代",
+7,
+"huà shí dài",
+"epoch-marking"
+],
+[
+"计时",
+7,
+"jì shí",
+"to measure time; to time; to reckon by time"
+],
+[
+"届时",
+7,
+"jiè shí",
+"when the time comes; at the scheduled time"
+],
+[
+"历时",
+7,
+"lì shí",
+"to last; to take (time); period; diachronic"
+],
+[
+"时不时",
+7,
+"shí bù shí",
+"from time to time"
+],
+[
+"时段",
+7,
+"shí duàn",
+"time interval; work shift; time slot; the twelve two-hour divisions of the day"
+],
+[
+"时隔",
+7,
+"shí gé",
+"separated in time (usu. followed by a quantity of time)"
+],
+[
+"时好时坏",
+7,
+"shí hǎo shí huài",
+"sometimes good, sometimes bad"
+],
+[
+"时间表",
+7,
+"shí jiān biǎo",
+"schedule; timetable"
+],
+[
+"时空",
+7,
+"shí kōng",
+"time and place; world of a particular locale and era; (physics) space-time"
+],
+[
+"时髦",
+7,
+"shí máo",
+"in vogue; fashionable"
+],
+[
+"时尚",
+7,
+"shí shàng",
+"fashion; fad; fashionable"
+],
+[
+"时速",
+7,
+"shí sù",
+"speed per hour"
+],
+[
+"适时",
+7,
+"shì shí",
+"timely; apt to the occasion; in due course"
+],
+[
+"随时随地",
+7,
+"suí shí suí dì",
+"anytime and anywhere"
+],
+[
+"与此同时",
+7,
+"yǔ cǐ tóng shí",
+"at the same time; meanwhile"
+],
+[
+"与时俱进",
+7,
+"yǔ shí jù jìn",
+"abreast of modern developments; to keep up with the times; progressive; timely"
 ]
 ],
 "extraWords": [
-[
-"那时",
-104.15,
-"nà shí",
-"then; at that time; in those days"
-],
-[
-"此时",
-78.51,
-"cǐ shí",
-"now; this moment"
-],
-[
-"有时",
-77.12,
-"yǒu shí",
-"sometimes; now and then"
-],
-[
-"有时候",
-72.82,
-"yǒu shí hou",
-"sometimes"
-],
-[
-"这时",
-69.2,
-"zhè shí",
-"at this time; at this moment"
-],
 [
 "北京时间",
 56.48,
 "Běi jīng Shí jiān",
 "Chinese Standard Time"
-],
-[
-"一时",
-35.46,
-"yī shí",
-"a period of time; a while; for a short while; temporary; momentary; at the same time"
-],
-[
-"与此同时",
-33.46,
-"yǔ cǐ tóng shí",
-"at the same time; meanwhile"
-],
-[
-"小时候",
-32.19,
-"xiǎo shí hou",
-"in one's childhood"
 ],
 [
 "时报",
@@ -231,58 +393,16 @@
 "\"Times\" (newspaper, e.g. New York Times)"
 ],
 [
-"届时",
-27.08,
-"jiè shí",
-"when the time comes; at the scheduled time"
-],
-[
-"何时",
-25.64,
-"hé shí",
-"when"
-],
-[
 "一时间",
 24.91,
 "yī shí jiān",
 "for a moment; momentarily"
 ],
 [
-"时装",
-17.47,
-"shí zhuāng",
-"fashion; fashionable clothes"
-],
-[
 "到时候",
 15.01,
 "dào shí hòu",
 "when the moment comes; at that time"
-],
-[
-"时段",
-13.49,
-"shí duàn",
-"time interval; work shift; time slot; the twelve two-hour divisions of the day"
-],
-[
-"时空",
-12.88,
-"shí kōng",
-"time and place; world of a particular locale and era; (physics) space-time"
-],
-[
-"适时",
-12.52,
-"shì shí",
-"timely; apt to the occasion; in due course"
-],
-[
-"历时",
-12.26,
-"lì shí",
-"to last; to take (time); period; diachronic"
 ],
 [
 "实时",
@@ -297,12 +417,6 @@
 "at that (future) time"
 ],
 [
-"计时",
-10.4,
-"jì shí",
-"to measure time; to time; to reckon by time"
-],
-[
 "比利时",
 9.14,
 "Bǐ lì shí",
@@ -313,12 +427,6 @@
 8.98,
 "jí shí",
 "immediate"
-],
-[
-"倒计时",
-8.26,
-"dào jì shí",
-"to count down; countdown"
 ],
 [
 "时分",
@@ -339,22 +447,16 @@
 "sometimes; at times"
 ],
 [
-"过时",
-7.72,
-"guò shí",
-"old-fashioned; out of date; to be later than the time stipulated or agreed upon"
+"新时期",
+7.77,
+"???",
+"???"
 ],
 [
-"时时",
-7.69,
-"shí shí",
-"often; constantly"
-],
-[
-"时不时",
-7.6,
-"shí bù shí",
-"from time to time"
+"时有",
+7.5,
+"???",
+"???"
 ],
 [
 "时下",
@@ -363,34 +465,16 @@
 "at present; right now"
 ],
 [
-"时节",
-6.92,
-"shí jié",
-"season; time"
-],
-[
 "此时此刻",
 6.86,
 "cǐ shí cǐ kè",
 "at this very moment"
 ],
 [
-"时速",
-6.81,
-"shí sù",
-"speed per hour"
-],
-[
-"时间表",
-6.69,
-"shí jiān biǎo",
-"schedule; timetable"
-],
-[
-"定时",
-6.11,
-"dìng shí",
-"to fix a time; fixed time; timed (of explosive etc)"
+"时会",
+6.08,
+"???",
+"???"
 ],
 [
 "立时",
@@ -403,18 +487,6 @@
 5.67,
 "shí chen",
 "time; one of the 12 two-hour periods of the day"
-],
-[
-"时隔",
-5.66,
-"shí gé",
-"separated in time (usu. followed by a quantity of time)"
-],
-[
-"随时随地",
-5.45,
-"suí shí suí dì",
-"anytime and anywhere"
 ],
 [
 "新时代",

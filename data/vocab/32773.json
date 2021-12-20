@@ -1,6 +1,6 @@
 {
 "char": "者",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "that which; he who; those who",
 "pron": "zhě"
@@ -8,42 +8,78 @@
 "words": [
 [
 "或者",
-3,
+2,
 "huò zhě",
 "or; possibly; maybe; perhaps"
 ],
 [
-"记者",
-4,
-"jì zhě",
-"reporter; journalist; CL:個|个[ge4]"
+"读者",
+3,
+"dú zhě",
+"reader; CL:个[gè]"
 ],
 [
-"作者",
-4,
-"zuò zhě",
-"author; writer; CL:個|个[ge4]"
+"记者",
+3,
+"jì zhě",
+"reporter; journalist; CL:个[gè]"
+],
+[
+"者",
+3,
+"zhě",
+"(after a verb or adjective) one who (is) ...; (after a noun) person involved in ...; -er; -ist; (used after a number or 后[hòu] or 前[qián] to refer to sth mentioned previously); (used after a term, to mark a pause before defining the term); (old) (used at the end of a command); (old) this"
 ],
 [
 "志愿者",
-5,
+3,
 "zhì yuàn zhě",
 "volunteer"
+],
+[
+"作者",
+3,
+"zuò zhě",
+"author; writer; CL:个[gè]"
+],
+[
+"消费者",
+5,
+"xiāo fèi zhě",
+"consumer"
+],
+[
+"学者",
+5,
+"xué zhě",
+"scholar"
 ],
 [
 "患者",
 6,
 "huàn zhě",
 "patient; sufferer"
+],
+[
+"后者",
+7,
+"hòu zhě",
+"the latter"
+],
+[
+"前者",
+7,
+"qián zhě",
+"the former"
+],
+[
+"使者",
+7,
+"shǐ zhě",
+"emissary; envoy"
 ]
 ],
 "extraWords": [
-[
-"消费者",
-157.45,
-"xiāo fèi zhě",
-"consumer"
-],
 [
 "投资者",
 133.87,
@@ -63,28 +99,10 @@
 "the dead; the deceased"
 ],
 [
-"读者",
-58.74,
-"dú zhě",
-"reader; CL:個|个[ge4]"
-],
-[
 "笔者",
 52.72,
 "bǐ zhě",
 "the author; the writer"
-],
-[
-"学者",
-46.86,
-"xué zhě",
-"scholar"
-],
-[
-"后者",
-31.63,
-"hòu zhě",
-"the latter"
 ],
 [
 "幸存者",
@@ -109,12 +127,6 @@
 20.68,
 "jīng yíng zhě",
 "executive; manager; transactor"
-],
-[
-"前者",
-18.72,
-"qián zhě",
-"the former"
 ],
 [
 "失败者",
@@ -147,16 +159,28 @@
 "both; both of them; neither"
 ],
 [
+"探索者",
+13.09,
+"???",
+"???"
+],
+[
+"管理者",
+12.08,
+"???",
+"???"
+],
+[
 "老者",
 9.57,
 "lǎo zhě",
 "old man; elderly man"
 ],
 [
-"使者",
-8.05,
-"shǐ zhě",
-"emissary; envoy"
+"弱者",
+7.98,
+"???",
+"???"
 ],
 [
 "领导者",
@@ -168,13 +192,19 @@
 "参赛者",
 7.75,
 "cān sài zhě",
-"competitor; CL:名[ming2]"
+"competitor; CL:名[míng]"
 ],
 [
 "参与者",
 7.27,
 "cān yù zhě",
 "participant"
+],
+[
+"见习记者",
+7.1,
+"???",
+"???"
 ],
 [
 "生产者",
@@ -193,6 +223,12 @@
 6.68,
 "zhī chí zhě",
 "supporter"
+],
+[
+"强者",
+6.51,
+"???",
+"???"
 ],
 [
 "使用者",
@@ -219,10 +255,22 @@
 "organizer"
 ],
 [
+"记者们",
+5.62,
+"???",
+"???"
+],
+[
 "所有者",
 5.44,
 "suǒ yǒu zhě",
 "proprietor; owner"
+],
+[
+"表演者",
+5.31,
+"???",
+"???"
 ],
 [
 "研究者",
@@ -235,6 +283,18 @@
 5.22,
 "dì sān zhě",
 "sb who is romantically involved with sb already in a committed relationship; the other woman; the other man; third person; third party (in dispute); disinterested party; number three in a list"
+],
+[
+"王者",
+5.18,
+"???",
+"???"
+],
+[
+"实习记者",
+5.12,
+"???",
+"???"
 ]
 ],
 "strokes": [

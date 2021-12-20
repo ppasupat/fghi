@@ -1,24 +1,30 @@
 {
 "char": "篮",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "basket",
 "pron": "lán"
 },
 "words": [
 [
-"打篮球",
+"篮球",
 2,
-"da3 lan2 qiu2",
-"to play basketball"
+"lán qiú",
+"basketball; CL:个[gè],只[zhī]"
+],
+[
+"摇篮",
+7,
+"yáo lán",
+"cradle"
 ]
 ],
 "extraWords": [
 [
-"篮球",
-28.23,
-"lán qiú",
-"basketball; CL:個|个[ge4],隻|只[zhi1]"
+"篮",
+21.7,
+"lán",
+"basket (receptacle); basket (in basketball)"
 ],
 [
 "篮板",
@@ -37,6 +43,12 @@
 8.38,
 "tóu lán",
 "to shoot for the basket (basketball)"
+],
+[
+"女篮",
+5.85,
+"???",
+"???"
 ]
 ],
 "strokes": [

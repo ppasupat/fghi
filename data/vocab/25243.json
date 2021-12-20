@@ -1,25 +1,31 @@
 {
 "char": "抛",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "throw (away)",
 "pron": "pāo"
 },
 "words": [
 [
+"抛",
+7,
+"pāo",
+"to throw; to toss; to fling; to cast; to abandon"
+],
+[
+"抛开",
+7,
+"pāo kāi",
+"to throw out; to get rid of"
+],
+[
 "抛弃",
-6,
+7,
 "pāo qì",
 "to abandon; to discard; to renounce; to dump (sb)"
 ]
 ],
 "extraWords": [
-[
-"抛开",
-5.6,
-"pāo kāi",
-"to throw out; to get rid of"
-],
 [
 "抛售",
 5.37,

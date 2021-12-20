@@ -1,32 +1,37 @@
 {
 "char": "琴",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "Chinese lute or guitar",
 "pron": "qín"
 },
 "words": [
 [
-"弹钢琴",
-4,
-"tan2 gang1 qin2",
-"to play the piano"
-]
-],
-"extraWords": [
-[
 "钢琴",
-21.94,
+5,
 "gāng qín",
-"piano; CL:架[jia4],臺|台[tai2]"
+"piano; CL:架[jià],台[tái]"
+],
+[
+"琴",
+5,
+"qín",
+"guqin 古琴[gǔ qín] (a type of zither); musical instrument in general"
+],
+[
+"琴",
+5,
+"qín",
+"variant of 琴[qín], guqin or zither"
 ],
 [
 "小提琴",
-5.28,
+7,
 "xiǎo tí qín",
 "fiddle; violin"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 366 751 Q 490 785 492 786 Q 499 793 495 801 Q 488 811 461 817 Q 433 821 366 796 Q 300 778 251 770 Q 217 763 242 749 Q 281 731 331 742 L 366 751 Z",
 "M 383 626 Q 461 650 465 653 Q 472 660 467 667 Q 460 676 437 680 Q 401 684 385 669 L 340 651 Q 333 650 329 648 Q 293 638 252 631 Q 224 624 245 612 Q 278 594 338 614 Q 339 614 341 614 L 383 626 Z",

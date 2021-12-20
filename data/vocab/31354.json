@@ -1,34 +1,64 @@
 {
 "char": "空",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "empty, hollow, bare, deserted",
 "pron": "kōng, kòng"
 },
 "words": [
 [
-"空调",
-3,
-"kōng tiáo",
-"air conditioning; air conditioner (including units that have a heating mode); CL:臺|台[tai2]"
+"空气",
+2,
+"kōng qì",
+"air; atmosphere"
+],
+[
+"有空儿",
+2,
+"yǒu kòng",
+"to have time (to do sth)"
 ],
 [
 "空",
-4,
+3,
 "kōng",
 "empty; air; sky; in vain"
 ],
 [
 "空",
-4,
+3,
 "kòng",
 "to empty; vacant; unoccupied; space; leisure; free time"
 ],
 [
-"空气",
+"空调",
+3,
+"kōng tiáo",
+"air conditioning; air conditioner (including units that have a heating mode); CL:台[tái]"
+],
+[
+"空儿",
+3,
+"kòng r5",
+"spare time; free time"
+],
+[
+"天空",
+3,
+"tiān kōng",
+"sky"
+],
+[
+"航空",
 4,
-"kōng qì",
-"air; atmosphere"
+"háng kōng",
+"aviation"
+],
+[
+"空间",
+4,
+"kōng jiān",
+"space; room; (fig.) scope; leeway; (astronomy) outer space; (physics, math.) space"
 ],
 [
 "填空",
@@ -37,79 +67,115 @@
 "to fill a job vacancy; to fill in a blank (e.g. on questionnaire or exam paper)"
 ],
 [
-"空间",
+"空中",
 5,
-"kōng jiān",
-"space; room; (fig.) scope; leeway; (astronomy) outer space; (physics, math.) space"
-],
-[
-"天空",
-5,
-"tiān kōng",
-"sky"
-],
-[
-"空闲",
-5,
-"kòng xián",
-"idle; free time; leisure; unused (place)"
+"kōng zhōng",
+"in the sky; in the air"
 ],
 [
 "太空",
-6,
+5,
 "tài kōng",
 "outer space"
 ],
 [
-"航空",
+"空军",
 6,
-"háng kōng",
-"aviation"
+"kōng jūn",
+"air force"
 ],
 [
-"空白",
-6,
-"kòng bái",
-"blank space"
+"高空",
+7,
+"gāo kōng",
+"high altitude"
 ],
 [
-"空虚",
-6,
-"kōng xū",
-"hollow; emptiness; meaningless"
+"空荡荡",
+7,
+"kōng dàng dàng",
+"absolutely empty (space); complete vacuum"
 ],
 [
-"空洞",
-6,
-"kōng dòng",
-"cavity; empty; vacuous"
+"空难",
+7,
+"kōng nàn",
+"air crash; aviation accident or incident"
+],
+[
+"空前",
+7,
+"kōng qián",
+"unprecedented"
 ],
 [
 "空想",
-6,
+7,
 "kōng xiǎng",
 "daydream; fantasy; to fantasize"
 ],
 [
+"空虚",
+7,
+"kōng xū",
+"hollow; emptiness; meaningless"
+],
+[
+"空白",
+7,
+"kòng bái",
+"blank space"
+],
+[
+"空地",
+7,
+"kōng dì",
+"air-to-surface (missile)"
+],
+[
+"空地",
+7,
+"kòng dì",
+"vacant land; open space"
+],
+[
 "空隙",
-6,
+7,
 "kòng xì",
 "crack; gap between two objects; gap in time between two events"
 ],
 [
-"空前绝后",
-6,
-"kōng qián jué hòu",
-"unprecedented and never to be duplicated; the first and the last; unmatched; unique"
+"上空",
+7,
+"shàng kōng",
+"overhead; in the sky"
+],
+[
+"时空",
+7,
+"shí kōng",
+"time and place; world of a particular locale and era; (physics) space-time"
+],
+[
+"司空见惯",
+7,
+"sī kōng jiàn guàn",
+"a common occurrence (idiom)"
+],
+[
+"真空",
+7,
+"zhēn kōng",
+"vacuum"
+],
+[
+"钻空子",
+7,
+"zuān kòng zi",
+"lit. to drill a hole; to take advantage of a loophole; to exploit an advantage; to seize the opportunity (esp. to do sth bad)"
 ]
 ],
 "extraWords": [
-[
-"空中",
-32.01,
-"kōng zhōng",
-"in the sky; in the air"
-],
 [
 "有空",
 24.83,
@@ -117,28 +183,10 @@
 "to have time (to do sth)"
 ],
 [
-"空军",
-19.62,
-"kōng jūn",
-"air force"
-],
-[
 "航空公司",
 15.85,
 "háng kōng gōng sī",
-"airline; CL:家[jia1]"
-],
-[
-"时空",
-12.88,
-"shí kōng",
-"time and place; world of a particular locale and era; (physics) space-time"
-],
-[
-"空前",
-11.16,
-"kōng qián",
-"unprecedented"
+"airline; CL:家[jiā]"
 ],
 [
 "星空",
@@ -147,34 +195,28 @@
 "starry sky; the heavens"
 ],
 [
-"上空",
-11.02,
-"shàng kōng",
-"overhead; in the sky"
+"没空",
+9.72,
+"???",
+"???"
 ],
 [
-"真空",
-8.23,
-"zhēn kōng",
-"vacuum"
+"冷空气",
+9.07,
+"???",
+"???"
 ],
 [
 "空手",
 7.51,
 "kōng shǒu",
-"empty-handed; unarmed; (painting, embroidery etc) without following a model; (abbr. for 空手道[kong1 shou3 dao4]) karate"
+"empty-handed; unarmed; (painting, embroidery etc) without following a model; (abbr. for 空手道[kōng shǒu dào]) karate"
 ],
 [
 "空头",
 7.46,
 "kōng tóu",
 "phony; so-called; armchair (expert); vain (promise); (finance) short-seller; bear (market); short (selling)"
-],
-[
-"高空",
-6.7,
-"gāo kōng",
-"high altitude"
 ],
 [
 "夜空",
@@ -195,16 +237,10 @@
 "spaceship"
 ],
 [
-"空地",
-5.27,
-"kōng dì",
-"air-to-surface (missile)"
-],
-[
-"空地",
-5.27,
-"kòng dì",
-"vacant land; open space"
+"利空",
+5.29,
+"???",
+"???"
 ]
 ],
 "strokes": [

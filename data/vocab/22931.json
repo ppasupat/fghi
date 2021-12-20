@@ -1,6 +1,6 @@
 {
 "char": "妓",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "prostitute",
 "pron": "jì"
@@ -12,6 +12,18 @@
 36.49,
 "jì nǚ",
 "prostitute; hooker"
+],
+[
+"妓",
+6.86,
+"jì",
+"prostitute"
+],
+[
+"妓院",
+4.98,
+"jì yuàn",
+"brothel; whorehouse"
 ]
 ],
 "strokes": [

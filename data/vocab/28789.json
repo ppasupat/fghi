@@ -1,6 +1,6 @@
 {
 "char": "灵",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "spirit, soul; spiritual world",
 "pron": "líng"
@@ -8,15 +8,9 @@
 "words": [
 [
 "灵活",
-5,
+6,
 "líng huó",
 "flexible; nimble; agile"
-],
-[
-"灵魂",
-6,
-"líng hún",
-"soul; spirit"
 ],
 [
 "心灵",
@@ -25,22 +19,70 @@
 "bright; smart; quick-witted; heart; thoughts; spirit"
 ],
 [
-"灵感",
-6,
-"líng gǎn",
-"inspiration; insight; a burst of creativity in scientific or artistic endeavor"
-],
-[
 "机灵",
-6,
+7,
 "jī ling",
 "clever; quick-witted"
 ],
 [
+"灵",
+7,
+"líng",
+"quick; alert; efficacious; effective; to come true; spirit; departed soul; coffin"
+],
+[
+"灵感",
+7,
+"líng gǎn",
+"inspiration; insight; a burst of creativity in scientific or artistic endeavor"
+],
+[
+"灵魂",
+7,
+"líng hún",
+"soul; spirit"
+],
+[
+"灵机一动",
+7,
+"líng jī yī dòng",
+"a bright idea suddenly occurs (idiom); to hit upon an inspiration; to be struck by a brainwave"
+],
+[
 "灵敏",
-6,
+7,
 "líng mǐn",
 "smart; clever; sensitive; keen; quick; sharp"
+],
+[
+"灵巧",
+7,
+"líng qiǎo",
+"deft; nimble; ingenious"
+],
+[
+"灵通",
+7,
+"líng tōng",
+"fast and abundant (news); clever; effective"
+],
+[
+"失灵",
+7,
+"shī líng",
+"out of order (of machine); not working properly; a failing (of a system)"
+],
+[
+"水灵灵",
+7,
+"shuǐ líng líng",
+"see 水灵[shuǐ líng]"
+],
+[
+"心灵手巧",
+7,
+"xīn líng shǒu qiǎo",
+"capable; clever; dexterous"
 ]
 ],
 "extraWords": [
@@ -55,12 +97,6 @@
 16.07,
 "yōu líng",
 "specter; apparition; ghost"
-],
-[
-"灵通",
-8.32,
-"líng tōng",
-"fast and abundant (news); clever; effective"
 ],
 [
 "灵活性",

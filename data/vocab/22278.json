@@ -1,6 +1,6 @@
 {
 "char": "圆",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "circle; round, circular; complete",
 "pron": "yuán"
@@ -8,53 +8,53 @@
 "words": [
 [
 "圆",
-5,
+4,
 "yuán",
 "circle; round; circular; spherical; (of the moon) full; unit of Chinese currency (yuan); tactful; to make consistent and whole (the narrative of a dream or a lie)"
 ],
 [
 "圆满",
-6,
+4,
 "yuán mǎn",
 "satisfactory; consummate; perfect"
 ],
 [
-"方圆",
+"圆珠笔",
 6,
-"fāng yuán",
-"perimeter; range; (within) a radius of ..."
+"yuán zhū bǐ",
+"ballpoint pen; CL:支[zhī],枝[zhī]"
+],
+[
+"汤圆",
+7,
+"tāng yuán",
+"boiled or deep-fried balls of glutinous rice flour, usually eaten during Lantern Festival"
 ],
 [
 "团圆",
-6,
+7,
 "tuán yuán",
 "to have a reunion"
 ],
 [
-"椭圆",
-6,
-"tuǒ yuán",
-"oval; ellipse; elliptic"
+"圆形",
+7,
+"yuán xíng",
+"round; circular"
 ]
 ],
 "extraWords": [
 [
-"圆形",
-8.75,
-"yuán xíng",
-"round; circular"
-],
-[
 "日圆",
 8.52,
 "Rì yuán",
-"Japanese yen (unit of currency); CL:個|个[ge4]"
+"Japanese yen (unit of currency); CL:个[gè]"
 ],
 [
-"汤圆",
-5.5,
-"tāng yuán",
-"boiled or deep-fried balls of glutinous rice flour, usually eaten during Lantern Festival"
+"圆圆",
+6.06,
+"???",
+"???"
 ],
 [
 "圆明园",

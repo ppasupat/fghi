@@ -1,17 +1,11 @@
 {
 "char": "障",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "separate; shield; barricade",
 "pron": "zhàng"
 },
 "words": [
-[
-"障碍",
-6,
-"zhàng ài",
-"barrier; obstruction; hindrance; impediment; obstacle"
-],
 [
 "故障",
 6,
@@ -19,16 +13,16 @@
 "malfunction; breakdown; defect; shortcoming; fault; failure; impediment; error; bug (in software)"
 ],
 [
-"保障",
+"障碍",
 6,
-"bǎo zhàng",
-"to ensure; to guarantee; to safeguard"
+"zhàng ài",
+"barrier; obstruction; hindrance; impediment; obstacle"
 ],
 [
-"屏障",
-6,
-"píng zhàng",
-"barrier"
+"保障",
+7,
+"bǎo zhàng",
+"to ensure; to guarantee; to safeguard"
 ]
 ],
 "extraWords": [
@@ -43,6 +37,12 @@
 5.71,
 "bái nèi zhàng",
 "cataract (ophthalmology)"
+],
+[
+"屏障",
+5.63,
+"píng zhàng",
+"barrier"
 ]
 ],
 "strokes": [

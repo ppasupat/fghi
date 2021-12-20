@@ -1,37 +1,49 @@
 {
 "char": "潮",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "tide; moist, wet, damp; flow",
 "pron": "cháo"
 },
 "words": [
 [
+"潮",
+4,
+"cháo",
+"tide; current; damp; moist; humid"
+],
+[
+"潮流",
+4,
+"cháo liú",
+"tide; current; trend"
+],
+[
 "潮湿",
-5,
+4,
 "cháo shī",
 "damp; moist"
 ],
 [
 "高潮",
-6,
+4,
 "gāo cháo",
 "high tide; high water; upsurge; climax; orgasm; chorus (part of a song)"
 ],
 [
-"潮流",
-6,
-"cháo liú",
-"tide; current; trend"
-]
-],
-"extraWords": [
-[
 "热潮",
-11.03,
+7,
 "rè cháo",
 "upsurge; popular craze"
 ],
+[
+"新潮",
+7,
+"xīn cháo",
+"modern; fashionable"
+]
+],
+"extraWords": [
 [
 "浪潮",
 9.45,

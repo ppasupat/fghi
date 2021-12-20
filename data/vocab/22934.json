@@ -1,12 +1,25 @@
 {
 "char": "妖",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "strange, weird, supernatural",
 "pron": "yāo"
 },
-"words": [],
+"words": [
+[
+"妖怪",
+7,
+"yāo guài",
+"monster; devil"
+]
+],
 "extraWords": [
+[
+"妖",
+26.69,
+"yāo",
+"goblin; witch; devil; bewitching; enchanting; monster; phantom; demon"
+],
 [
 "妖精",
 5.13,

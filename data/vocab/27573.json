@@ -1,6 +1,6 @@
 {
 "char": "段",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "section, piece, division",
 "pron": "duàn"
@@ -8,59 +8,77 @@
 "words": [
 [
 "段",
-3,
+2,
 "Duàn",
 "surname Duan"
 ],
 [
 "段",
-3,
+2,
 "duàn",
 "paragraph; section; segment; stage (of a process); classifier for stories, periods of time, lengths of thread etc"
 ],
 [
 "阶段",
-5,
+4,
 "jiē duàn",
-"stage; section; phase; period; CL:個|个[ge4]"
+"stage; section; phase; period; CL:个[gè]"
 ],
-[
-"不择手段",
-6,
-"bù zé shǒu duàn",
-"by fair means or foul; by hook or by crook; unscrupulously"
-]
-],
-"extraWords": [
 [
 "手段",
-99.89,
+5,
 "shǒu duàn",
-"method; means (of doing sth); strategy; trick; CL:個|个[ge4]"
-],
-[
-"路段",
-19.47,
-"lù duàn",
-"stretch of road; section of a highway or railway"
-],
-[
-"时段",
-13.49,
-"shí duàn",
-"time interval; work shift; time slot; the twelve two-hour divisions of the day"
+"method; means (of doing sth); strategy; trick; CL:个[gè]"
 ],
 [
 "地段",
-13.08,
+7,
 "dì duàn",
 "section; district"
 ],
 [
+"段落",
+7,
+"duàn luò",
+"phase; time interval; paragraph; (written) passage"
+],
+[
+"路段",
+7,
+"lù duàn",
+"stretch of road; section of a highway or railway"
+],
+[
 "片段",
-10.66,
+7,
 "piàn duàn",
 "fragment (of speech etc); extract (from book etc); episode (of story etc)"
+],
+[
+"时段",
+7,
+"shí duàn",
+"time interval; work shift; time slot; the twelve two-hour divisions of the day"
+]
+],
+"extraWords": [
+[
+"一段",
+110.03,
+"???",
+"???"
+],
+[
+"九段",
+13.28,
+"???",
+"???"
+],
+[
+"那段",
+8.26,
+"???",
+"???"
 ],
 [
 "现阶段",
@@ -73,6 +91,12 @@
 7.68,
 "jiē duàn xìng",
 "specific to a particular stage (of a project etc); interim (policy etc); occurring in stages; phased"
+],
+[
+"年龄段",
+6.39,
+"???",
+"???"
 ]
 ],
 "strokes": [

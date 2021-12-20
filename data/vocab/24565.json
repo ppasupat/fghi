@@ -1,108 +1,138 @@
 {
 "char": "念",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "think of, recall, study",
 "pron": "niàn"
 },
 "words": [
 [
-"念",
-5,
-"niàn",
-"variant of 念[nian4], to read aloud"
-],
-[
-"念",
-5,
-"niàn",
-"to read; to study (a subject); to attend (a school); to read aloud; to give (sb) a tongue-lashing (CL:頓|顿[dun4]); to miss (sb); idea; remembrance; twenty (banker's anti-fraud numeral corresponding to 廿[nian4])"
-],
-[
-"想念",
-5,
-"xiǎng niàn",
-"to miss; to remember with longing; to long to see again"
-],
-[
-"纪念",
-5,
-"jì niàn",
-"to commemorate; to remember; CL:個|个[ge4]"
-],
-[
-"怀念",
-5,
-"huái niàn",
-"to cherish the memory of; to think of; to reminisce"
-],
-[
 "概念",
-5,
+3,
 "gài niàn",
-"concept; idea; CL:個|个[ge4]"
+"concept; idea; CL:个[gè]"
 ],
 [
 "观念",
-5,
+3,
 "guān niàn",
 "notion; thought; concept; sense; views; ideology; general impressions"
 ],
 [
+"纪念",
+3,
+"jì niàn",
+"to commemorate; to remember; CL:个[gè]"
+],
+[
+"念",
+3,
+"niàn",
+"variant of 念[niàn], to read aloud"
+],
+[
+"念",
+3,
+"niàn",
+"to read; to study (a subject); to attend (a school); to read aloud; to give (sb) a tongue-lashing (CL:顿[dùn]); to miss (sb); idea; remembrance; twenty (banker's anti-fraud numeral corresponding to 廿[niàn])"
+],
+[
+"怀念",
+4,
+"huái niàn",
+"to cherish the memory of; to think of; to reminisce"
+],
+[
+"想念",
+4,
+"xiǎng niàn",
+"to miss; to remember with longing; to long to see again"
+],
+[
 "信念",
-6,
+5,
 "xìn niàn",
 "faith; belief; conviction"
 ],
 [
+"悼念",
+7,
+"dào niàn",
+"to grieve"
+],
+[
+"挂念",
+7,
+"guà niàn",
+"concerned"
+],
+[
+"纪念碑",
+7,
+"jì niàn bēi",
+"monument"
+],
+[
+"纪念馆",
+7,
+"jì niàn guǎn",
+"memorial hall; commemorative museum"
+],
+[
+"纪念日",
+7,
+"jì niàn rì",
+"day of commemoration; memorial day"
+],
+[
+"理念",
+7,
+"lǐ niàn",
+"idea; concept; philosophy; theory"
+],
+[
+"留念",
+7,
+"liú niàn",
+"to keep as a souvenir; to recall fondly"
+],
+[
+"念念不忘",
+7,
+"niàn niàn bù wàng",
+"to keep in mind constantly (idiom)"
+],
+[
+"念书",
+7,
+"niàn shū",
+"to read; to study"
+],
+[
+"念头",
+7,
+"niàn tou",
+"thought; idea; intention"
+],
+[
 "思念",
-6,
+7,
 "sī niàn",
 "to think of; to long for; to miss"
 ],
 [
 "悬念",
-6,
+7,
 "xuán niàn",
 "suspense in a movie, play etc; concern for sb's welfare"
-],
-[
-"留念",
-6,
-"liú niàn",
-"to keep as a souvenir; to recall fondly"
 ]
 ],
 "extraWords": [
-[
-"理念",
-55.02,
-"lǐ niàn",
-"idea; concept; philosophy; theory"
-],
-[
-"念头",
-14.88,
-"niàn tou",
-"thought; idea; intention"
-],
-[
-"纪念日",
-9.06,
-"jì niàn rì",
-"day of commemoration; memorial day"
-],
 [
 "纪念品",
 7.18,
 "jì niàn pǐn",
 "souvenir"
-],
-[
-"纪念馆",
-5.23,
-"jì niàn guǎn",
-"memorial hall; commemorative museum"
 ]
 ],
 "strokes": [

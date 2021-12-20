@@ -1,14 +1,26 @@
 {
 "char": "酱",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "any jam-like or paste-like food",
 "pron": "jiàng"
 },
 "words": [
 [
+"果酱",
+6,
+"guǒ jiàng",
+"jam"
+],
+[
+"酱",
+6,
+"jiàng",
+"thick paste of fermented soybean; marinated in soy paste; paste; jam"
+],
+[
 "酱油",
-5,
+6,
 "jiàng yóu",
 "soy sauce"
 ]

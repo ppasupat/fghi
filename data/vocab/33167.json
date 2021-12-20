@@ -1,6 +1,6 @@
 {
 "char": "膏",
-"level": 4,
+"level": "7",
 "info": {
 "gloss": "grease, fat; paste, ointment",
 "pron": "gāo, gào"
@@ -8,12 +8,24 @@
 "words": [
 [
 "牙膏",
-4,
+7,
 "yá gāo",
-"toothpaste; CL:管[guan3]"
+"toothpaste; CL:管[guǎn]"
 ]
 ],
 "extraWords": [
+[
+"膏",
+12.94,
+"gāo",
+"ointment; paste; CL:帖[tiě]"
+],
+[
+"膏",
+12.94,
+"gào",
+"to moisten; to grease; to apply (cream, ointment); to dip a brush in ink"
+],
 [
 "唇膏",
 5.05,

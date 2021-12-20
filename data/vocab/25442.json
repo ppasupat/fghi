@@ -1,6 +1,6 @@
 {
 "char": "换",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "change",
 "pron": "huàn"
@@ -8,36 +8,84 @@
 "words": [
 [
 "换",
-3,
+2,
 "huàn",
 "to exchange; to change (clothes etc); to substitute; to switch; to convert (currency)"
 ],
 [
 "交换",
-5,
+4,
 "jiāo huàn",
 "to exchange; to swap; to switch (telecom); commutative (math); to commute"
 ],
 [
-"兑换",
+"更换",
 5,
-"duì huàn",
-"to convert; to exchange"
-]
+"gēng huàn",
+"to replace (a worn-out tire etc); to change (one's address etc)"
 ],
-"extraWords": [
 [
 "转换",
-30.75,
+5,
 "zhuǎn huàn",
 "to change; to switch; to convert; to transform"
 ],
 [
-"更换",
-23.65,
-"gēng huàn",
-"to replace (a worn-out tire etc); to change (one's address etc)"
+"变换",
+6,
+"biàn huàn",
+"to transform; to convert; to vary; to alternate; a transformation"
 ],
+[
+"撤换",
+7,
+"chè huàn",
+"to dismiss and replace (sb); to replace (sb or sth)"
+],
+[
+"兑换",
+7,
+"duì huàn",
+"to convert; to exchange"
+],
+[
+"换成",
+7,
+"huàn chéng",
+"to exchange (sth) for (sth else); to replace with; to convert into"
+],
+[
+"换取",
+7,
+"huàn qǔ",
+"to obtain (sth) in exchange; to exchange (sth) for (sth else)"
+],
+[
+"换位",
+7,
+"huàn wèi",
+"to swap places; (logic) conversion; (car maintenance) to rotate (tires)"
+],
+[
+"换言之",
+7,
+"huàn yán zhī",
+"in other words"
+],
+[
+"轮换",
+7,
+"lún huàn",
+"to rotate; to take turns; to switch"
+],
+[
+"替换",
+7,
+"tì huàn",
+"to exchange; to replace; to substitute for; to switch"
+]
+],
+"extraWords": [
 [
 "置换",
 10.13,
@@ -45,10 +93,10 @@
 "to permute; permutation (math.); to displace; displacement; to replace; replacement"
 ],
 [
-"变换",
-8.51,
-"biàn huàn",
-"to transform; to convert; to vary; to alternate; a transformation"
+"换上",
+9.32,
+"???",
+"???"
 ],
 [
 "切换",
@@ -57,16 +105,10 @@
 "to switch over; to switch modes or data streams; to cut (to a new scene)"
 ],
 [
-"换取",
-6.69,
-"huàn qǔ",
-"to obtain (sth) in exchange; to exchange (sth) for (sth else)"
-],
-[
-"替换",
-5.92,
-"tì huàn",
-"to exchange; to replace; to substitute for; to switch"
+"换届",
+5.99,
+"???",
+"???"
 ],
 [
 "换句话说",

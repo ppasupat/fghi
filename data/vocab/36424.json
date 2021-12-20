@@ -1,6 +1,6 @@
 {
 "char": "蹈",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "stamp feet; dance",
 "pron": "dǎo"
@@ -13,7 +13,20 @@
 "dance (performance art); dancing"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"重蹈覆辙",
+2.24,
+"chóng dǎo fù zhé",
+"lit. to follow in the tracks of an overturned cart (idiom); fig. to follow a path that led to failure in the past; to repeat a disastrous mistake"
+],
+[
+"循规蹈矩",
+2.0,
+"xún guī dǎo jǔ",
+"to follow the compass and go with the set square (idiom); to follow the rules inflexibly; to act according to convention"
+]
+],
 "strokes": [
 "M 216 679 Q 204 685 177 688 Q 167 692 163 686 Q 157 680 165 665 Q 190 613 206 526 Q 210 501 225 483 Q 241 462 246 477 Q 249 484 249 495 L 248 524 Q 241 545 229 651 C 226 675 226 675 216 679 Z",
 "M 393 555 Q 412 634 436 659 Q 458 684 436 698 Q 417 710 390 727 Q 371 737 353 726 Q 307 696 216 679 C 187 673 200 642 229 651 Q 238 655 326 676 Q 354 683 360 672 Q 367 666 360 632 Q 353 596 343 555 C 336 526 386 526 393 555 Z",

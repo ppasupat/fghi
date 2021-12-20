@@ -1,108 +1,150 @@
 {
 "char": "预",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "prepare, arrange; in advance",
 "pron": "yù"
 },
 "words": [
 [
-"预习",
-4,
-"yù xí",
-"to prepare a lesson"
-],
-[
-"预订",
-5,
-"yù dìng",
-"to place an order; to book ahead"
-],
-[
-"预防",
-5,
-"yù fáng",
-"to prevent; to take precautions against; to protect; to guard against; precautionary; prophylactic"
-],
-[
 "预报",
-5,
+3,
 "yù bào",
 "forecast"
 ],
 [
-"预言",
-6,
-"yù yán",
-"to predict; prophecy"
+"预防",
+3,
+"yù fáng",
+"to prevent; to take precautions against; to protect; to guard against; precautionary; prophylactic"
 ],
 [
-"预算",
-6,
-"yù suàn",
-"budget"
+"预计",
+3,
+"yù jì",
+"to forecast; to predict; to estimate"
 ],
 [
-"预料",
-6,
-"yù liào",
-"to forecast; to anticipate; expectation"
+"预习",
+3,
+"yù xí",
+"to prepare a lesson"
 ],
 [
-"预期",
-6,
-"yù qī",
-"to expect; to anticipate"
+"预测",
+4,
+"yù cè",
+"to forecast; to predict"
 ],
 [
-"预先",
-6,
-"yù xiān",
-"beforehand; in advance"
+"预订",
+4,
+"yù dìng",
+"to place an order; to book ahead"
 ],
 [
 "干预",
-6,
+5,
 "gān yù",
 "to meddle; to intervene; intervention"
 ],
 [
-"预兆",
+"预备",
+5,
+"yù bèi",
+"to prepare; to make ready; preparation; preparatory"
+],
+[
+"预期",
+5,
+"yù qī",
+"to expect; to anticipate"
+],
+[
+"预约",
 6,
+"yù yuē",
+"booking; reservation; to book; to make an appointment"
+],
+[
+"预定",
+7,
+"yù dìng",
+"to schedule in advance"
+],
+[
+"预感",
+7,
+"yù gǎn",
+"to have a premonition; premonition"
+],
+[
+"预告",
+7,
+"yù gào",
+"to forecast; to predict; advance notice"
+],
+[
+"预见",
+7,
+"yù jiàn",
+"to foresee; to predict; to forecast; to envision; foresight; intuition; vision"
+],
+[
+"预料",
+7,
+"yù liào",
+"to forecast; to anticipate; expectation"
+],
+[
+"预赛",
+7,
+"yù sài",
+"preliminary competition; to hold preliminary heats"
+],
+[
+"预示",
+7,
+"yù shì",
+"to indicate; to foretell; to forebode; to betoken"
+],
+[
+"预售",
+7,
+"yù shòu",
+"advance sale; to sell in advance; to book"
+],
+[
+"预算",
+7,
+"yù suàn",
+"budget"
+],
+[
+"预先",
+7,
+"yù xiān",
+"beforehand; in advance"
+],
+[
+"预言",
+7,
+"yù yán",
+"to predict; prophecy"
+],
+[
+"预兆",
+7,
 "yù zhào",
 "omen; sign (of sth yet to occur); prior indication; to foreshadow"
 ]
 ],
 "extraWords": [
 [
-"预计",
-107.63,
-"yù jì",
-"to forecast; to predict; to estimate"
-],
-[
-"预测",
-61.28,
-"yù cè",
-"to forecast; to predict"
-],
-[
-"预约",
-19.94,
-"yù yuē",
-"booking; reservation; to book; to make an appointment"
-],
-[
-"预感",
-13.65,
-"yù gǎn",
-"to have a premonition; premonition"
-],
-[
-"预备",
-13.44,
-"yù bèi",
-"to prepare; to make ready; preparation; preparatory"
+"预",
+35.28,
+"yù",
+"to advance; in advance; beforehand; to prepare"
 ],
 [
 "预警",
@@ -111,46 +153,16 @@
 "warning; early warning"
 ],
 [
-"预定",
-13.24,
-"yù dìng",
-"to schedule in advance"
-],
-[
-"预售",
-11.64,
-"yù shòu",
-"advance sale; to sell in advance; to book"
-],
-[
-"预见",
-9.33,
-"yù jiàn",
-"to foresee; to predict; to forecast; to envision; foresight; intuition; vision"
-],
-[
 "预后",
 8.69,
 "yù hòu",
 "prognosis"
 ],
 [
-"预示",
-8.05,
-"yù shì",
-"to indicate; to foretell; to forebode; to betoken"
-],
-[
-"预告",
-7.63,
-"yù gào",
-"to forecast; to predict; advance notice"
-],
-[
-"预赛",
-6.09,
-"yù sài",
-"preliminary competition; to hold preliminary heats"
+"预选赛",
+7.72,
+"???",
+"???"
 ],
 [
 "天气预报",

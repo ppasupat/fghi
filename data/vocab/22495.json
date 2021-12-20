@@ -1,54 +1,60 @@
 {
 "char": "域",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "district, region, boundary; land",
 "pron": "yù"
 },
 "words": [
 [
-"领域",
-5,
-"lǐng yù",
-"domain; sphere; field; territory; area"
-],
-[
 "区域",
-6,
+5,
 "qū yù",
 "area; region; district"
-]
-],
-"extraWords": [
-[
-"流域",
-15.75,
-"liú yù",
-"river basin; valley; drainage area"
 ],
 [
 "地域",
-14.32,
+7,
 "dì yù",
 "area; district; region"
 ],
 [
 "海域",
-14.27,
+7,
 "hǎi yù",
 "sea area; territorial waters; maritime space"
+],
+[
+"领域",
+7,
+"lǐng yù",
+"domain; sphere; field; territory; area"
+],
+[
+"流域",
+7,
+"liú yù",
+"river basin; valley; drainage area"
+],
+[
+"水域",
+7,
+"shuǐ yù",
+"waters; body of water"
+]
+],
+"extraWords": [
+[
+"域",
+21.11,
+"yù",
+"field; region; area; domain (taxonomy)"
 ],
 [
 "域名",
 8.75,
 "yù míng",
 "domain name (computing)"
-],
-[
-"水域",
-7.63,
-"shuǐ yù",
-"waters; body of water"
 ],
 [
 "区域性",

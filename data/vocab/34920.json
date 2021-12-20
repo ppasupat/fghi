@@ -1,34 +1,94 @@
 {
 "char": "表",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "show, express, manifest, display",
 "pron": "biǎo"
 },
 "words": [
 [
-"手表",
+"表",
 2,
-"shǒu biǎo",
-"wristwatch; CL:塊|块[kuai4],隻|只[zhi1],個|个[ge4]"
+"biǎo",
+"exterior surface; family relationship via females; to show (one's opinion); a model; a table (listing information); a form; a meter (measuring sth)"
 ],
 [
-"表演",
-4,
-"biǎo yǎn",
-"play; show; performance; exhibition; to perform; to act; to demonstrate; CL:場|场[chang3]"
+"表",
+2,
+"biǎo",
+"wrist or pocket watch"
 ],
 [
 "表示",
-4,
+2,
 "biǎo shì",
 "to express; to show; to say; to state; to indicate; to mean"
 ],
 [
+"手表",
+2,
+"shǒu biǎo",
+"wristwatch; CL:块[kuài],只[zhī],个[gè]"
+],
+[
+"表达",
+3,
+"biǎo dá",
+"to express; to convey"
+],
+[
 "表格",
-4,
+3,
 "biǎo gé",
-"form; table; CL:張|张[zhang1],份[fen4]"
+"form; table; CL:张[zhāng],份[fèn]"
+],
+[
+"表面",
+3,
+"biǎo miàn",
+"surface; face; outside; appearance"
+],
+[
+"表明",
+3,
+"biǎo míng",
+"to make clear; to make known; to state clearly; to indicate; known"
+],
+[
+"表现",
+3,
+"biǎo xiàn",
+"to show; to show off; to display; to manifest; expression; manifestation; show; display; performance (at work etc); behavior"
+],
+[
+"表演",
+3,
+"biǎo yǎn",
+"play; show; performance; exhibition; to perform; to act; to demonstrate; CL:场[chǎng]"
+],
+[
+"代表",
+3,
+"dài biǎo",
+"representative; delegate; CL:位[wèi],个[gè],名[míng]; to represent; to stand for; on behalf of; in the name of"
+],
+[
+"代表团",
+3,
+"dài biǎo tuán",
+"delegation; CL:个[gè]"
+],
+[
+"发表",
+3,
+"fā biǎo",
+"to issue; to publish"
+],
+[
+"表情",
+4,
+"biǎo qíng",
+"(facial) expression; to express one's feelings"
 ],
 [
 "表扬",
@@ -37,78 +97,84 @@
 "to praise; to commend"
 ],
 [
-"表现",
-5,
-"biǎo xiàn",
-"to show; to show off; to display; to manifest; expression; manifestation; show; display; performance (at work etc); behavior"
-],
-[
-"代表",
-5,
-"dài biǎo",
-"representative; delegate; CL:位[wei4],個|个[ge4],名[ming2]; to represent; to stand for; on behalf of; in the name of"
-],
-[
-"表情",
-5,
-"biǎo qíng",
-"(facial) expression; to express one's feelings"
-],
-[
-"表达",
-5,
-"biǎo dá",
-"to express; to convey"
-],
-[
-"表明",
-5,
-"biǎo míng",
-"to make clear; to make known; to state clearly; to indicate; known"
-],
-[
-"发表",
-5,
-"fā biǎo",
-"to issue; to publish"
-],
-[
-"表面",
-5,
-"biǎo miàn",
-"surface; face; outside; appearance"
-],
-[
-"外表",
+"表面上",
 6,
-"wài biǎo",
-"external; outside; outward appearance"
+"biǎo miàn shang",
+"outwardly; superficially; on the face of it"
 ],
 [
-"表态",
-6,
-"biǎo tài",
-"to declare one's position; to say where one stands"
+"表白",
+7,
+"biǎo bái",
+"to explain oneself; to express; to reveal one's thoughts or feelings; declaration; confession"
 ],
 [
 "表决",
-6,
+7,
 "biǎo jué",
 "to decide by vote; to vote"
 ],
 [
+"表述",
+7,
+"biǎo shù",
+"to formulate; enunciation; to explain sth precisely"
+],
+[
+"表率",
+7,
+"biǎo shuài",
+"example; model"
+],
+[
+"表态",
+7,
+"biǎo tài",
+"to declare one's position; to say where one stands"
+],
+[
 "表彰",
-6,
+7,
 "biǎo zhāng",
 "to honor; to commend; to cite (in dispatches)"
+],
+[
+"时间表",
+7,
+"shí jiān biǎo",
+"schedule; timetable"
+],
+[
+"图表",
+7,
+"tú biǎo",
+"chart; diagram"
+],
+[
+"外表",
+7,
+"wài biǎo",
+"external; outside; outward appearance"
+],
+[
+"仪表",
+7,
+"yí biǎo",
+"appearance; bearing; meter (i.e. measuring instrument)"
 ]
 ],
 "extraWords": [
 [
-"代表团",
-39.39,
-"dài biǎo tuán",
-"delegation; CL:個|个[ge4]"
+"人大代表",
+12.49,
+"???",
+"???"
+],
+[
+"代表大会",
+10.31,
+"???",
+"???"
 ],
 [
 "代表性",
@@ -123,10 +189,16 @@
 "forms for reporting statistics; report forms"
 ],
 [
-"表白",
-9.95,
-"biǎo bái",
-"to explain oneself; to express; to reveal one's thoughts or feelings; declaration; confession"
+"代表人",
+9.65,
+"???",
+"???"
+],
+[
+"人民代表大会",
+8.97,
+"???",
+"???"
 ],
 [
 "表决权",
@@ -135,28 +207,16 @@
 "right to vote; vote"
 ],
 [
-"表述",
-8.68,
-"biǎo shù",
-"to formulate; enunciation; to explain sth precisely"
-],
-[
 "表弟",
 8.26,
 "biǎo dì",
 "younger male cousin via female line"
 ],
 [
-"仪表",
-7.22,
-"yí biǎo",
-"appearance; bearing; meter (i.e. measuring instrument)"
-],
-[
-"时间表",
-6.69,
-"shí jiān biǎo",
-"schedule; timetable"
+"代表们",
+7.52,
+"???",
+"???"
 ],
 [
 "表妹",
@@ -165,16 +225,16 @@
 "younger female cousin via female line"
 ],
 [
+"表演者",
+5.31,
+"???",
+"???"
+],
+[
 "表哥",
 5.3,
 "biǎo gē",
 "older male cousin via female line"
-],
-[
-"图表",
-5.26,
-"tú biǎo",
-"chart; diagram"
 ]
 ],
 "strokes": [

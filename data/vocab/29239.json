@@ -1,6 +1,6 @@
 {
 "char": "爷",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "father, grandfather",
 "pron": "yé"
@@ -8,29 +8,41 @@
 "words": [
 [
 "爷爷",
-3,
+1,
 "yé ye",
-"(coll.) father's father; paternal grandfather; CL:個|个[ge4]"
-]
-],
-"extraWords": [
-[
-"老天爷",
-14.99,
-"lǎo tiān yé",
-"God; Heavens"
+"(coll.) father's father; paternal grandfather; CL:个[gè]"
 ],
 [
 "大爷",
-13.31,
+4,
 "dà yé",
 "arrogant idler; self-centered show-off"
 ],
 [
 "大爷",
-13.31,
+4,
 "dà ye",
 "(coll.) father's older brother; uncle; term of respect for older man"
+],
+[
+"姥爷",
+7,
+"lǎo ye",
+"maternal grandfather (dialectal)"
+]
+],
+"extraWords": [
+[
+"爷",
+43.91,
+"yé",
+"grandpa; old gentleman"
+],
+[
+"老天爷",
+14.99,
+"lǎo tiān yé",
+"God; Heavens"
 ],
 [
 "少爷",

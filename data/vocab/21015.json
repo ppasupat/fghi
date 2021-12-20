@@ -1,11 +1,35 @@
 {
 "char": "列",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "a line; to arrange in order, classify",
 "pron": "liè"
 },
 "words": [
+[
+"列",
+4,
+"liè",
+"to arrange; to line up; file; series; (in data tables) column; (Tw) row"
+],
+[
+"列车",
+4,
+"liè chē",
+"(railway) train"
+],
+[
+"列入",
+4,
+"liè rù",
+"to include on a list"
+],
+[
+"列为",
+4,
+"liè wéi",
+"to be classified as"
+],
 [
 "排列",
 4,
@@ -13,66 +37,48 @@
 "to arrange in order; (math.) permutation"
 ],
 [
-"列车",
-5,
-"liè chē",
-"(railway) train"
-],
-[
 "系列",
-6,
+4,
 "xì liè",
 "series; set"
 ],
 [
-"行列",
-6,
-"háng liè",
-"formation; array; (fig.) ranks (as in \"join the ranks of ...\")"
+"并列",
+7,
+"bìng liè",
+"to stand side by side; to be juxtaposed"
 ],
 [
 "陈列",
-6,
+7,
 "chén liè",
 "to display; to exhibit"
 ],
 [
+"行列",
+7,
+"háng liè",
+"formation; array; (fig.) ranks (as in \"join the ranks of ...\")"
+],
+[
 "列举",
-6,
+7,
 "liè jǔ",
 "a list; to list; to enumerate"
 ],
 [
-"并列",
-6,
-"bìng liè",
-"to stand side by side; to be juxtaposed"
+"一系列",
+7,
+"yī xì liè",
+"a series of; a string of"
 ]
 ],
 "extraWords": [
-[
-"一系列",
-65.76,
-"yī xì liè",
-"a series of; a string of"
-],
 [
 "以色列",
 48.31,
 "Yǐ sè liè",
 "Israel"
-],
-[
-"列入",
-23.19,
-"liè rù",
-"to include on a list"
-],
-[
-"列为",
-15.83,
-"liè wéi",
-"to be classified as"
 ],
 [
 "下列",
@@ -115,6 +121,12 @@
 6.69,
 "liè chū",
 "to list; to make a list"
+],
+[
+"格列登科",
+5.37,
+"???",
+"???"
 ],
 [
 "位列",

@@ -1,48 +1,60 @@
 {
 "char": "冬",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "winter, 11th lunar month",
 "pron": "dōng"
 },
 "words": [
 [
+"冬天",
+2,
+"dōng tiān",
+"winter; CL:个[gè]"
+],
+[
+"冬季",
+4,
+"dōng jì",
+"winter"
+]
+],
+"extraWords": [
+[
 "冬",
-3,
+67.09,
 "dōng",
 "winter"
 ],
 [
 "冬",
-3,
+67.09,
 "Dōng",
 "surname Dong"
 ],
 [
 "冬",
-3,
+67.09,
 "dōng",
 "(onom.) beating a drum; rat-a-tat"
-]
-],
-"extraWords": [
-[
-"冬天",
-61.05,
-"dōng tiān",
-"winter; CL:個|个[ge4]"
-],
-[
-"冬季",
-36.72,
-"dōng jì",
-"winter"
 ],
 [
 "冬至",
 10.69,
 "Dōng zhì",
 "Winter Solstice, 22nd of the 24 solar terms 二十四節氣|二十四节气 22nd December-5th January"
+],
+[
+"冬装",
+10.28,
+"???",
+"???"
+],
+[
+"冬日",
+8.95,
+"???",
+"???"
 ],
 [
 "寒冬",

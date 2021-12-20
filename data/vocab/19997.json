@@ -1,36 +1,54 @@
 {
 "char": "丝",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "silk; fine thread; wire; strings",
 "pron": "sī"
 },
 "words": [
 [
-"丝毫",
-5,
-"sī háo",
-"the slightest amount or degree; a bit"
+"粉丝",
+7,
+"fěn sī",
+"bean vermicelli; mung bean starch noodles; Chinese vermicelli; cellophane noodles; CL:把[bǎ]; fan (loanword); enthusiast for sb or sth"
+],
+[
+"螺丝",
+7,
+"luó sī",
+"screw"
+],
+[
+"丝",
+7,
+"sī",
+"silk; thread; trace; (cuisine) shreds or julienne strips; CL:条[tiáo]; classifier: a thread (of cloud, smoke etc), a bit, an iota, a hint (of sth) etc"
 ],
 [
 "丝绸",
-5,
+7,
 "sī chóu",
 "silk cloth; silk"
 ],
 [
-"一丝不苟",
-6,
-"yī sī bù gǒu",
-"not one thread loose (idiom); strictly according to the rules; meticulous; not one hair out of place"
+"丝毫",
+7,
+"sī háo",
+"the slightest amount or degree; a bit"
 ]
 ],
 "extraWords": [
 [
-"粉丝",
-46.67,
-"fěn sī",
-"bean vermicelli; mung bean starch noodles; Chinese vermicelli; cellophane noodles; CL:把[ba3]; fan (loanword); enthusiast for sb or sth"
+"贝丝",
+8.11,
+"???",
+"???"
+],
+[
+"粉丝们",
+8.08,
+"???",
+"???"
 ]
 ],
 "strokes": [

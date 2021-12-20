@@ -1,25 +1,31 @@
 {
 "char": "缴",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "deliver, submit; hand over",
 "pron": "jiǎo"
 },
 "words": [
 [
+"缴",
+7,
+"jiǎo",
+"to hand in; to hand over; to seize"
+],
+[
+"缴费",
+7,
+"jiǎo fèi",
+"to pay a fee"
+],
+[
 "缴纳",
-6,
+7,
 "jiǎo nà",
 "to pay (taxes etc)"
 ]
 ],
 "extraWords": [
-[
-"缴费",
-8.93,
-"jiǎo fèi",
-"to pay a fee"
-],
 [
 "缴获",
 6.38,

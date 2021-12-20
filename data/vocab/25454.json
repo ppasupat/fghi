@@ -1,40 +1,64 @@
 {
 "char": "据",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "to occupy, take possession of; a base, position",
 "pron": "jū, jù"
 },
 "words": [
 [
-"根据",
-3,
-"gēn jù",
-"according to; based on; basis; foundation; CL:個|个[ge4]"
-],
-[
-"证据",
-5,
-"zhèng jù",
-"evidence; proof; testimony"
-],
-[
-"数据",
-5,
-"shù jù",
-"data; numbers; digital"
-],
-[
 "据说",
-5,
+3,
 "jù shuō",
 "it is said that; reportedly"
 ],
 [
-"收据",
+"证据",
+3,
+"zhèng jù",
+"evidence; proof; testimony"
+],
+[
+"根据",
+4,
+"gēn jù",
+"according to; based on; basis; foundation; CL:个[gè]"
+],
+[
+"数据",
+4,
+"shù jù",
+"data; numbers; digital"
+],
+[
+"依据",
 5,
-"shōu jù",
-"receipt; CL:張|张[zhang1]"
+"yī jù",
+"according to; basis; foundation"
+],
+[
+"据",
+6,
+"jù",
+"variant of 据[jù]"
+],
+[
+"据",
+6,
+"jū",
+"see 拮据[jié jū]"
+],
+[
+"据",
+6,
+"jù",
+"variant of 据[jù]"
+],
+[
+"据",
+6,
+"jù",
+"according to; to act in accordance with; to depend on; to seize; to occupy"
 ],
 [
 "占据",
@@ -43,31 +67,43 @@
 "to occupy; to hold"
 ],
 [
-"依据",
-6,
-"yī jù",
-"according to; basis; foundation"
+"大数据",
+7,
+"dà shù jù",
+"big data (computing)"
+],
+[
+"据此",
+7,
+"jù cǐ",
+"according to this; on the ground of the above; (formally introduces reported speech in writing)"
 ],
 [
 "据悉",
-6,
+7,
 "jù xī",
 "according to reports; it is reported (that)"
-]
 ],
-"extraWords": [
+[
+"收据",
+7,
+"shōu jù",
+"receipt; CL:张[zhāng]"
+],
 [
 "数据库",
-14.99,
+7,
 "shù jù kù",
 "database"
 ],
 [
-"据此",
-10.19,
-"jù cǐ",
-"according to this; on the ground of the above; (formally introduces reported speech in writing)"
+"引经据典",
+7,
+"yǐn jīng jù diǎn",
+"lit. to quote the classics; to quote chapter and verse (idiom)"
+]
 ],
+"extraWords": [
 [
 "据称",
 8.96,

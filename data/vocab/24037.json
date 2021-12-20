@@ -1,70 +1,118 @@
 {
 "char": "工",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "labor, work; worker, laborer",
 "pron": "gōng"
 },
 "words": [
 [
+"工人",
+1,
+"gōng rén",
+"worker; CL:个[gè],名[míng]"
+],
+[
 "工作",
 1,
 "gōng zuò",
-"to work; (of a machine) to operate; job; work; task; CL:個|个[ge4],份[fen4],項|项[xiang4]"
-],
-[
-"工资",
-4,
-"gōng zī",
-"wages; pay; CL:個|个[ge4],份[fen4],月[yue4]"
-],
-[
-"员工",
-5,
-"yuán gōng",
-"staff; personnel; employee"
-],
-[
-"工具",
-5,
-"gōng jù",
-"tool; instrument; utensil; means (to achieve a goal etc)"
-],
-[
-"工厂",
-5,
-"gōng chǎng",
-"factory; CL:家[jia1],座[zuo4]"
-],
-[
-"工人",
-5,
-"gōng rén",
-"worker; CL:個|个[ge4],名[ming2]"
-],
-[
-"工程师",
-5,
-"gōng chéng shī",
-"engineer; CL:個|个[ge4],位[wei4],名[ming2]"
+"to work; (of a machine) to operate; job; work; task; CL:个[gè],份[fèn],项[xiàng]"
 ],
 [
 "打工",
-5,
+2,
 "dǎ gōng",
 "to work a temporary or casual job; (of students) to have a job outside of class time, or during vacation"
 ],
 [
+"工厂",
+3,
+"gōng chǎng",
+"factory; CL:家[jiā],座[zuò]"
+],
+[
+"工程师",
+3,
+"gōng chéng shī",
+"engineer; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"工夫",
+3,
+"gōng fū",
+"(old) laborer"
+],
+[
+"工夫",
+3,
+"gōng fu",
+"period of time (may be months, or mere seconds); spare time; skill; labor; effort"
+],
+[
+"工具",
+3,
+"gōng jù",
+"tool; instrument; utensil; means (to achieve a goal etc)"
+],
+[
 "工业",
-5,
+3,
 "gōng yè",
 "industry"
 ],
 [
+"工资",
+3,
+"gōng zī",
+"wages; pay; CL:个[gè],份[fèn],月[yuè]"
+],
+[
+"加工",
+3,
+"jiā gōng",
+"to process; processing; working (of machinery)"
+],
+[
+"人工",
+3,
+"rén gōng",
+"artificial; manpower; manual work"
+],
+[
+"员工",
+3,
+"yuán gōng",
+"staff; personnel; employee"
+],
+[
+"职工",
+3,
+"zhí gōng",
+"workers; staff; CL:个[gè]"
+],
+[
+"工程",
+4,
+"gōng chéng",
+"engineering; an engineering project; project; undertaking; CL:个[gè],项[xiàng]"
+],
+[
 "手工",
-5,
+4,
 "shǒu gōng",
 "handwork; manual"
+],
+[
+"工艺",
+5,
+"gōng yì",
+"arts and crafts; industrial arts"
+],
+[
+"工作日",
+5,
+"gōng zuò rì",
+"workday; working day; weekday"
 ],
 [
 "罢工",
@@ -73,37 +121,127 @@
 "a strike; to go on strike"
 ],
 [
-"人工",
+"分工",
 6,
-"rén gōng",
-"artificial; manpower; manual work"
+"fēn gōng",
+"to divide up the work; division of labor"
 ],
 [
-"加工",
+"工商",
 6,
-"jiā gōng",
-"to process; processing; working (of machinery)"
+"gōng shāng",
+"industry and commerce"
 ],
 [
-"工艺品",
+"民工",
 6,
-"gōng yì pǐn",
-"handicraft article; handiwork; CL:個|个[ge4]"
+"mín gōng",
+"migrant worker (who moved from a rural area of China to a city to find work); temporary worker enlisted on a public project"
+],
+[
+"清洁工",
+6,
+"qīng jié gōng",
+"cleaner; janitor; garbage collector"
+],
+[
+"怠工",
+7,
+"dài gōng",
+"to slacken off in one's work; to go slow (as a form of strike)"
+],
+[
+"动工",
+7,
+"dòng gōng",
+"to start (a building project)"
+],
+[
+"工地",
+7,
+"gōng dì",
+"construction site"
+],
+[
+"工会",
+7,
+"gōng huì",
+"labor union; trade union; CL:个[gè]"
+],
+[
+"工科",
+7,
+"gōng kē",
+"engineering as an academic subject"
+],
+[
+"工商界",
+7,
+"gōng shāng jiè",
+"industry; the world of business"
+],
+[
+"工序",
+7,
+"gōng xù",
+"working procedure; process"
+],
+[
+"工整",
+7,
+"gōng zhěng",
+"fine work; carefully and neatly done"
+],
+[
+"工作量",
+7,
+"gōng zuò liàng",
+"workload; volume of work"
+],
+[
+"竣工",
+7,
+"jùn gōng",
+"to complete a project"
+],
+[
+"开工",
+7,
+"kāi gōng",
+"to begin work (of a factory or engineering operation); to start a construction job"
+],
+[
+"农民工",
+7,
+"nóng mín gōng",
+"migrant worker (who moved from a rural area of China to a city to find work)"
+],
+[
+"勤工俭学",
+7,
+"qín gōng jiǎn xué",
+"to work part time while studying; work-study program"
+],
+[
+"人工智能",
+7,
+"rén gōng zhì néng",
+"artificial intelligence (AI)"
+],
+[
+"施工",
+7,
+"shī gōng",
+"construction; to carry out construction or large-scale repairs"
+],
+[
+"义工",
+7,
+"yì gōng",
+"volunteer worker; volunteer work"
 ]
 ],
 "extraWords": [
-[
-"工程",
-250.73,
-"gōng chéng",
-"engineering; an engineering project; project; undertaking; CL:個|个[ge4],項|项[xiang4]"
-],
-[
-"职工",
-119.28,
-"zhí gōng",
-"workers; staff; CL:個|个[ge4]"
-],
 [
 "工作人员",
 100.26,
@@ -111,16 +249,10 @@
 "staff member"
 ],
 [
-"施工",
-68.06,
-"shī gōng",
-"construction; to carry out construction or large-scale repairs"
-],
-[
-"工艺",
-48.27,
-"gōng yì",
-"arts and crafts; industrial arts"
+"工",
+94.36,
+"gōng",
+"work; worker; skill; profession; trade; craft; labor"
 ],
 [
 "特工",
@@ -129,70 +261,22 @@
 "secret service; special service; secret service agent; special agent"
 ],
 [
-"工商",
-45.15,
-"gōng shāng",
-"industry and commerce"
-],
-[
-"农民工",
-29.24,
-"nóng mín gōng",
-"migrant worker (who moved from a rural area of China to a city to find work)"
-],
-[
 "工作者",
 27.83,
 "gōng zuò zhě",
 "worker"
 ],
 [
-"工会",
-27.6,
-"gōng huì",
-"labor union; trade union; CL:個|个[ge4]"
-],
-[
-"开工",
-25.63,
-"kāi gōng",
-"to begin work (of a factory or engineering operation); to start a construction job"
-],
-[
 "化工",
 24.21,
 "huà gōng",
-"chemical industry, abbr. of 化學工業|化学工业[hua4 xue2 gong1 ye4]; chemical engineering, abbr. of 化學工程|化学工程[hua4 xue2 gong1 cheng2]"
-],
-[
-"工地",
-23.99,
-"gōng dì",
-"construction site"
-],
-[
-"民工",
-16.59,
-"mín gōng",
-"migrant worker (who moved from a rural area of China to a city to find work); temporary worker enlisted on a public project"
+"chemical industry, abbr. of 化学工业[huà xué gōng yè]; chemical engineering, abbr. of 化学工程[huà xué gōng chéng]"
 ],
 [
 "工业化",
 15.55,
 "gōng yè huà",
 "to industrialize; industrialization"
-],
-[
-"分工",
-14.92,
-"fēn gōng",
-"to divide up the work; division of labor"
-],
-[
-"竣工",
-13.75,
-"jùn gōng",
-"to complete a project"
 ],
 [
 "工作室",
@@ -231,10 +315,10 @@
 "work team; working group; task force"
 ],
 [
-"工作日",
-8.3,
-"gōng zuò rì",
-"workday; working day; weekday"
+"工人们",
+8.31,
+"???",
+"???"
 ],
 [
 "矿工",
@@ -243,40 +327,22 @@
 "miner"
 ],
 [
+"总工会",
+6.92,
+"???",
+"???"
+],
+[
 "工伤",
 6.86,
 "gōng shāng",
 "industrial injury"
 ],
 [
-"清洁工",
-6.74,
-"qīng jié gōng",
-"cleaner; janitor; garbage collector"
-],
-[
-"工夫",
-6.58,
-"gōng fū",
-"(old) laborer"
-],
-[
-"工夫",
-6.58,
-"gōng fu",
-"period of time (may be months, or mere seconds); spare time; skill; labor; effort"
-],
-[
-"工序",
-6.52,
-"gōng xù",
-"working procedure; process"
-],
-[
-"动工",
-6.4,
-"dòng gōng",
-"to start (a building project)"
+"工商局",
+6.83,
+"???",
+"???"
 ],
 [
 "劳工",
@@ -285,22 +351,34 @@
 "labor; laborer"
 ],
 [
+"工商联",
+6.14,
+"???",
+"???"
+],
+[
+"工作效率",
+6.1,
+"???",
+"???"
+],
+[
+"用工",
+5.97,
+"???",
+"???"
+],
+[
 "女工",
 5.74,
 "nǚ gōng",
-"working woman; variant of 女紅|女红[nu:3 gong1]"
-],
-[
-"工作量",
-5.62,
-"gōng zuò liàng",
-"workload; volume of work"
+"working woman; variant of 女红[nǚ gōng]"
 ],
 [
 "工农",
 5.06,
 "Gōng nóng",
-"Gongnong district of Hegang city 鶴崗|鹤岗[He4 gang3], Heilongjiang"
+"Gongnong district of Hegang city 鹤岗[Hè gǎng], Heilongjiang"
 ],
 [
 "工农",

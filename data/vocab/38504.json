@@ -1,17 +1,30 @@
 {
 "char": "陨",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "fall, slip; let fall; die",
 "pron": "yǔn"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "陨石",
-6.71,
+7,
 "yǔn shí",
-"meteorite; aerolite; CL:塊|块[kuai4],顆|颗[ke1]"
+"meteorite; aerolite; CL:块[kuài],颗[kē]"
+]
+],
+"extraWords": [
+[
+"陨",
+2.64,
+"yǔn",
+"to fall; meteor; to perish; see also 殒[yǔn]"
+],
+[
+"陨落",
+0.89,
+"yǔn luò",
+"to fall down; to decay; to fall from the sky; to die"
 ]
 ],
 "strokes": [

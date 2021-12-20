@@ -1,6 +1,6 @@
 {
 "char": "帅",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "commander, commander-in-chief",
 "pron": "shuài"
@@ -17,15 +17,15 @@
 4,
 "shuài",
 "handsome; graceful; smart; commander in chief; (coll.) cool!; sweet!"
+],
+[
+"帅哥",
+4,
+"shuài gē",
+"handsome guy; lady-killer; handsome (form of address)"
 ]
 ],
 "extraWords": [
-[
-"帅哥",
-22.38,
-"shuài gē",
-"handsome guy; lady-killer; handsome (form of address)"
-],
 [
 "主帅",
 18.35,

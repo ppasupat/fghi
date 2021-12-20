@@ -1,6 +1,6 @@
 {
 "char": "珠",
-"level": 6,
+"level": "5",
 "info": {
 "gloss": "precious stone, gem, jewel, pearl",
 "pron": "zhū"
@@ -8,23 +8,35 @@
 "words": [
 [
 "珍珠",
-6,
+5,
 "zhēn zhū",
-"pearl; CL:顆|颗[ke1]"
+"pearl; CL:颗[kē]"
+],
+[
+"圆珠笔",
+6,
+"yuán zhū bǐ",
+"ballpoint pen; CL:支[zhī],枝[zhī]"
+],
+[
+"珠宝",
+6,
+"zhū bǎo",
+"pearls; jewels; precious stones"
 ]
 ],
 "extraWords": [
 [
-"珠宝",
-17.56,
-"zhū bǎo",
-"pearls; jewels; precious stones"
+"珠",
+33.57,
+"zhū",
+"bead; pearl; CL:粒[lì],颗[kē]"
 ],
 [
 "珠海",
 12.31,
 "Zhū hǎi",
-"Zhuhai prefecture-level city in Guangdong Province 廣東省|广东省[Guang3 dong1 Sheng3] in south China"
+"Zhuhai prefecture-level city in Guangdong Province 广东省[Guǎng dōng Shěng] in south China"
 ],
 [
 "珠江",

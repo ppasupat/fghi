@@ -1,6 +1,6 @@
 {
 "char": "汤",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "hot water; soup, gravy, broth",
 "pron": "tāng"
@@ -8,21 +8,27 @@
 "words": [
 [
 "汤",
-4,
+3,
 "Tāng",
 "surname Tang"
 ],
 [
 "汤",
-4,
+3,
 "shāng",
 "rushing current"
 ],
 [
 "汤",
-4,
+3,
 "tāng",
 "soup; hot or boiling water; decoction of medicinal herbs; water in which sth has been boiled"
+],
+[
+"汤圆",
+7,
+"tāng yuán",
+"boiled or deep-fried balls of glutinous rice flour, usually eaten during Lantern Festival"
 ]
 ],
 "extraWords": [
@@ -33,10 +39,16 @@
 "Tom (name)"
 ],
 [
-"汤圆",
-5.5,
-"tāng yuán",
-"boiled or deep-fried balls of glutinous rice flour, usually eaten during Lantern Festival"
+"汤米",
+21.73,
+"???",
+"???"
+],
+[
+"汤尼",
+5.22,
+"???",
+"???"
 ]
 ],
 "strokes": [

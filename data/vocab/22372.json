@@ -1,12 +1,31 @@
 {
 "char": "坤",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "earth; feminine, female",
 "pron": "kūn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"坤",
+11.08,
+"kūn",
+"one of the Eight Trigrams 八卦[bā guà], symbolizing earth; female principle; ☷; ancient Chinese compass point: 225° (southwest)"
+],
+[
+"坤",
+11.08,
+"kūn",
+"variant of 坤[kūn]"
+],
+[
+"乾坤",
+4.4,
+"qián kūn",
+"yin and yang; heaven and earth; the universe"
+]
+],
 "strokes": [
 "M 298 502 Q 320 509 344 514 Q 375 524 381 529 Q 388 536 384 545 Q 377 555 347 561 Q 323 565 300 556 L 249 536 Q 230 532 214 525 Q 171 512 119 505 Q 85 496 110 482 Q 155 461 208 479 Q 227 485 250 489 L 298 502 Z",
 "M 290 317 Q 294 413 298 502 L 300 556 Q 303 661 321 725 Q 324 737 303 752 Q 266 771 241 775 Q 225 778 216 769 Q 209 762 217 746 Q 244 709 244 682 Q 248 612 249 536 L 250 489 Q 250 401 246 302 C 245 272 289 287 290 317 Z",

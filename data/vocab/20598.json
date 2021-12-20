@@ -1,6 +1,6 @@
 {
 "char": "偶",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "accidentally, coincidently; an idol",
 "pron": "ǒu"
@@ -8,7 +8,7 @@
 "words": [
 [
 "偶尔",
-4,
+5,
 "ǒu ěr",
 "occasionally; once in a while; sometimes"
 ],
@@ -20,18 +20,30 @@
 ],
 [
 "偶像",
-6,
+5,
 "ǒu xiàng",
 "idol"
 ],
 [
+"木偶",
+7,
+"mù ǒu",
+"puppet"
+],
+[
 "配偶",
-6,
+7,
 "pèi ǒu",
 "consort; mate; spouse"
 ]
 ],
 "extraWords": [
+[
+"偶",
+47.78,
+"ǒu",
+"accidental; image; pair; mate"
+],
 [
 "玩偶",
 15.38,
@@ -43,12 +55,6 @@
 8.56,
 "ǒu yù",
 "a chance encounter; to meet accidentally"
-],
-[
-"木偶",
-7.75,
-"mù ǒu",
-"puppet"
 ]
 ],
 "strokes": [

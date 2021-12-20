@@ -1,6 +1,6 @@
 {
 "char": "译",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "translate; decode; encode",
 "pron": "yì"
@@ -10,7 +10,13 @@
 "翻译",
 4,
 "fān yì",
-"to translate; to interpret; translator; interpreter; translation; interpretation; CL:個|个[ge4],位[wei4],名[ming2]"
+"to translate; to interpret; translator; interpreter; translation; interpretation; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"译",
+7,
+"yì",
+"to translate; to interpret"
 ]
 ],
 "extraWords": [

@@ -1,19 +1,32 @@
 {
 "char": "沸",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "boil, bubble up, gush",
 "pron": "fèi"
 },
 "words": [
 [
+"沸沸扬扬",
+7,
+"fèi fèi yáng yáng",
+"bubbling and gurgling; hubbubing; abuzz"
+],
+[
 "沸腾",
-6,
+7,
 "fèi téng",
 "(of a liquid) to boil; (of sentiments etc) to boil over; to flare up; to be impassioned"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"沸",
+2.98,
+"fèi",
+"to boil"
+]
+],
 "strokes": [
 "M 237 715 Q 259 693 281 668 Q 296 653 314 653 Q 326 654 332 669 Q 338 685 329 720 Q 320 750 233 770 Q 215 774 208 771 Q 202 767 204 752 Q 208 739 237 715 Z",
 "M 135 518 Q 181 472 216 459 Q 234 456 242 472 Q 248 487 244 506 Q 225 551 146 562 Q 127 566 117 561 Q 110 560 114 546 Q 117 533 135 518 Z",

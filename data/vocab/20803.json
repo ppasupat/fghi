@@ -1,6 +1,6 @@
 {
 "char": "元",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "first; dollar; origin; head",
 "pron": "yuán"
@@ -8,25 +8,31 @@
 "words": [
 [
 "元",
-3,
+1,
 "Yuán",
 "surname Yuan; the Yuan or Mongol dynasty (1279-1368)"
 ],
 [
 "元",
-3,
+1,
 "yuán",
 "currency unit (esp. Chinese yuan); first; original; primary; fundamental; constituent; part; era (of a reign); meta- (prefix); (math.) argument; variable; (Tw) (geology) eon"
 ],
 [
 "单元",
-5,
+3,
 "dān yuán",
 "unit (forming an entity); element; (in a residential building) entrance or staircase"
 ],
 [
+"美元",
+3,
+"Měi yuán",
+"American dollar; US dollar"
+],
+[
 "公元",
-5,
+4,
 "gōng yuán",
 "CE (Common Era); Christian Era; AD (Anno Domini)"
 ],
@@ -37,37 +43,43 @@
 "New Year's Day"
 ],
 [
-"元首",
-6,
-"yuán shǒu",
-"head of state"
-],
-[
 "元素",
 6,
 "yuán sù",
 "element; element of a set; chemical element"
 ],
 [
+"多元",
+7,
+"duō yuán",
+"poly-; multi-; multielement; multivariant; multivariate (math.)"
+],
+[
+"元老",
+7,
+"yuán lǎo",
+"senior figure; elder; doyen"
+],
+[
+"元首",
+7,
+"yuán shǒu",
+"head of state"
+],
+[
 "元宵节",
-6,
+7,
 "Yuán xiāo jié",
 "Lantern Festival, the final event of the Spring Festival 春節|春节, on 15th of first month of the lunar calendar"
 ],
 [
-"多元化",
-6,
-"duō yuán huà",
-"diversification; pluralism; to diversify"
+"状元",
+7,
+"zhuàng yuán",
+"top scorer in the palace examination (highest rank of the Imperial examination system); see 榜眼[bǎng yǎn] and 探花[tàn huā]; top scorer in college entrance examination 高考[gāo kǎo]; (fig.) the most brilliantly talented person in the field; leading light"
 ]
 ],
 "extraWords": [
-[
-"美元",
-307.45,
-"Měi yuán",
-"American dollar; US dollar"
-],
 [
 "欧元",
 48.01,
@@ -81,22 +93,22 @@
 "Hong Kong dollar"
 ],
 [
+"多元化",
+16.61,
+"duō yuán huà",
+"diversification; pluralism; to diversify"
+],
+[
 "日元",
 9.93,
 "Rì yuán",
-"Japanese yen (unit of currency); also written 日圓|日圆[Ri4 yuan2]"
+"Japanese yen (unit of currency); also written 日圆[Rì yuán]"
 ],
 [
 "澳元",
 7.04,
 "Ào yuán",
 "Australian dollar"
-],
-[
-"状元",
-6.89,
-"zhuàng yuán",
-"top scorer in the palace examination (highest rank of the Imperial examination system); see 榜眼[bang3 yan3] and 探花[tan4 hua1]; top scorer in college entrance examination 高考[gao1 kao3]; (fig.) the most brilliantly talented person in the field; leading light"
 ],
 [
 "神经元",

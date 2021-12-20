@@ -1,6 +1,6 @@
 {
 "char": "孩",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "baby, child; children",
 "pron": "hái"
@@ -8,9 +8,27 @@
 "words": [
 [
 "孩子",
-2,
+1,
 "hái zi",
 "child"
+],
+[
+"男孩儿",
+1,
+"nán hái r5",
+"erhua variant of 男孩[nán hái]"
+],
+[
+"女孩儿",
+1,
+"nǚ hái r5",
+"erhua variant of 女孩[nǚ hái]"
+],
+[
+"小孩儿",
+1,
+"xiǎo hái r5",
+"erhua variant of 小孩[xiǎo hái]"
 ]
 ],
 "extraWords": [
@@ -24,13 +42,13 @@
 "男孩",
 142.46,
 "nán hái",
-"boy; CL:個|个[ge4]"
+"boy; CL:个[gè]"
 ],
 [
 "小孩",
 115.03,
 "xiǎo hái",
-"child; CL:個|个[ge4]"
+"child; CL:个[gè]"
 ],
 [
 "孩子们",
@@ -54,6 +72,12 @@
 "小孩子",
 18.87,
 "xiǎo hái zi",
+"child"
+],
+[
+"孩",
+17.39,
+"hái",
 "child"
 ],
 [

@@ -1,6 +1,6 @@
 {
 "char": "视",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "look at, inspect, observe, see",
 "pron": "shì"
@@ -10,141 +10,183 @@
 "电视",
 1,
 "diàn shì",
-"television; TV; CL:臺|台[tai2],個|个[ge4]"
+"television; TV; CL:台[tái],个[gè]"
+],
+[
+"电视机",
+1,
+"diàn shì jī",
+"television set; CL:台[tái]"
 ],
 [
 "重视",
-4,
+2,
 "zhòng shì",
 "to attach importance to sth; to value"
 ],
 [
+"电视剧",
+3,
+"diàn shì jù",
+"TV series; TV drama; CL:部[bù]"
+],
+[
+"电视台",
+3,
+"diàn shì tái",
+"television station; CL:个[gè]"
+],
+[
+"影视",
+3,
+"yǐng shì",
+"movies and television"
+],
+[
 "忽视",
-5,
+4,
 "hū shì",
 "to neglect; to ignore"
 ],
 [
-"轻视",
-5,
-"qīng shì",
-"contempt; contemptuous; to despise; to scorn; scornful"
-],
-[
-"监视",
-6,
-"jiān shì",
-"to monitor; to keep a close watch over; surveillance"
-],
-[
 "视频",
-6,
+5,
 "shì pín",
 "video"
 ],
 [
-"视线",
-6,
-"shì xiàn",
-"line of sight"
-],
-[
-"歧视",
-6,
-"qí shì",
-"to discriminate against; discrimination"
+"视为",
+5,
+"shì wéi",
+"to view as; to see as; to consider to be; to deem"
 ],
 [
 "注视",
-6,
+5,
 "zhù shì",
 "to watch attentively; to gaze at"
 ],
 [
-"视力",
+"近视",
 6,
-"shì lì",
-"vision; eyesight"
-],
-[
-"视野",
-6,
-"shì yě",
-"field of view; horizon"
+"jìn shì",
+"shortsighted; nearsighted; myopia"
 ],
 [
 "鄙视",
-6,
+7,
 "bǐ shì",
 "to despise; to disdain; to look down upon"
 ],
 [
-"藐视",
-6,
-"miǎo shì",
-"to despise; to look down on"
+"监视",
+7,
+"jiān shì",
+"to monitor; to keep a close watch over; surveillance"
 ],
 [
-"蔑视",
-6,
-"miè shì",
-"to loathe; to despise; contempt"
+"歧视",
+7,
+"qí shì",
+"to discriminate against; discrimination"
 ],
 [
-"凝视",
-6,
-"níng shì",
-"to gaze at; to fix one's eyes on"
+"审视",
+7,
+"shěn shì",
+"to look closely at; to examine"
 ],
 [
-"俯视",
-6,
-"fǔ shì",
-"to overlook; to look down at"
+"视察",
+7,
+"shì chá",
+"to inspect; an investigation"
 ],
 [
-"敌视",
-6,
-"dí shì",
-"hostile; malevolence; antagonism; to view as enemy; to stand against"
+"视角",
+7,
+"shì jiǎo",
+"viewpoint; angle on sth; perspective"
+],
+[
+"视觉",
+7,
+"shì jué",
+"sight; vision; visual"
+],
+[
+"视力",
+7,
+"shì lì",
+"vision; eyesight"
+],
+[
+"视线",
+7,
+"shì xiàn",
+"line of sight"
+],
+[
+"视野",
+7,
+"shì yě",
+"field of view; horizon"
+],
+[
+"收视率",
+7,
+"shōu shì lǜ",
+"ratings (of a TV show)"
+],
+[
+"卫视",
+7,
+"wèi shì",
+"satellite TV (abbr. for 卫星电视[wèi xīng diàn shì])"
+],
+[
+"珍视",
+7,
+"zhēn shì",
+"to place great importance on; to treasure"
+],
+[
+"正视",
+7,
+"zhèng shì",
+"to face squarely; to meet head on; to face up to"
+],
+[
+"直视",
+7,
+"zhí shì",
+"to look straight at"
 ]
 ],
 "extraWords": [
 [
-"电视剧",
-34.2,
-"diàn shì jù",
-"TV series; TV drama; CL:部[bu4]"
+"视",
+49.29,
+"shì",
+"variant of 视[shì]; variant of 示[shì]"
+],
+[
+"视",
+49.29,
+"shì",
+"old variant of 视[shì]"
+],
+[
+"视",
+49.29,
+"shì",
+"to look at; to regard; to inspect"
 ],
 [
 "央视",
 26.09,
 "Yāng shì",
-"China Central Television (CCTV), abbr. for 中國中央電視台|中国中央电视台[Zhong1 guo2 Zhong1 yang1 Dian4 shi4 tai2]"
-],
-[
-"视为",
-24.78,
-"shì wéi",
-"to view as; to see as; to consider to be; to deem"
-],
-[
-"电视台",
-24.7,
-"diàn shì tái",
-"television station; CL:個|个[ge4]"
-],
-[
-"视觉",
-23.96,
-"shì jué",
-"sight; vision; visual"
-],
-[
-"影视",
-21.57,
-"yǐng shì",
-"movies and television"
+"China Central Television (CCTV), abbr. for 中国中央电视台[Zhōng guó Zhōng yāng Diàn shì tái]"
 ],
 [
 "中央电视台",
@@ -153,28 +195,10 @@
 "China Central Television (CCTV), PRC state TV network"
 ],
 [
-"电视机",
-12.13,
-"diàn shì jī",
-"television set; CL:臺|台[tai2]"
-],
-[
 "无视",
 11.3,
 "wú shì",
 "to ignore; to disregard"
-],
-[
-"视角",
-11.28,
-"shì jiǎo",
-"viewpoint; angle on sth; perspective"
-],
-[
-"视察",
-10.53,
-"shì chá",
-"to inspect; an investigation"
 ],
 [
 "监视器",
@@ -189,18 +213,6 @@
 "retina"
 ],
 [
-"收视率",
-7.81,
-"shōu shì lǜ",
-"ratings (of a TV show)"
-],
-[
-"卫视",
-7.57,
-"wèi shì",
-"satellite TV (abbr. for 衛星電視|卫星电视[wei4 xing1 dian4 shi4])"
-],
-[
 "电视节目",
 7.24,
 "diàn shì jié mù",
@@ -213,22 +225,10 @@
 "cable television"
 ],
 [
-"审视",
-6.51,
-"shěn shì",
-"to look closely at; to examine"
-],
-[
-"近视",
-5.61,
-"jìn shì",
-"shortsighted; nearsighted; myopia"
-],
-[
-"正视",
-5.51,
-"zhèng shì",
-"to face squarely; to meet head on; to face up to"
+"湖南卫视",
+6.53,
+"???",
+"???"
 ],
 [
 "收视",

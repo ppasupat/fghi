@@ -1,6 +1,6 @@
 {
 "char": "误",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "err, make mistake; interfere",
 "pron": "wù"
@@ -8,59 +8,77 @@
 "words": [
 [
 "错误",
-4,
+3,
 "cuò wù",
-"error; mistake; CL:個|个[ge4]; mistaken; false; wrong"
+"error; mistake; CL:个[gè]; mistaken; false; wrong"
 ],
 [
 "误会",
 4,
 "wù huì",
-"to misunderstand; to mistake; misunderstanding; CL:個|个[ge4]"
-],
-[
-"耽误",
-5,
-"dān wu",
-"to delay; to hold up; to waste time; to interfere with"
-],
-[
-"误解",
-6,
-"wù jiě",
-"to misunderstand; to misread; misunderstanding"
+"to misunderstand; to mistake; misunderstanding; CL:个[gè]"
 ],
 [
 "失误",
-6,
+5,
 "shī wù",
 "lapse; mistake; to make a mistake; fault; service fault (in volleyball, tennis etc)"
 ],
 [
-"误差",
+"误解",
+5,
+"wù jiě",
+"to misunderstand; to misread; misunderstanding"
+],
+[
+"误",
 6,
+"wù",
+"mistake; error; to miss; to harm; to delay; to neglect; mistakenly"
+],
+[
+"耽误",
+7,
+"dān wu",
+"to delay; to hold up; to waste time; to interfere with"
+],
+[
+"误差",
+7,
 "wù chā",
 "difference; error; inaccuracy"
-]
 ],
-"extraWords": [
 [
 "误导",
-7.19,
+7,
 "wù dǎo",
 "to mislead; to misguide; misleading"
 ],
 [
 "误区",
-7.13,
+7,
 "wù qū",
 "mistaken ideas; misconceptions; the error of one's ways"
 ],
 [
 "延误",
-6.74,
+7,
 "yán wu",
 "to delay; to be held up; to miss (an opportunity); delay; holdup"
+]
+],
+"extraWords": [
+[
+"误诊",
+5.9,
+"???",
+"???"
+],
+[
+"误导性",
+5.56,
+"???",
+"???"
 ]
 ],
 "strokes": [

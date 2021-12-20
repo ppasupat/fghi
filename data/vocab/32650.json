@@ -1,16 +1,28 @@
 {
 "char": "羊",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "sheep, goat; KangXi radical 123",
 "pron": "yáng"
 },
 "words": [
 [
-"羊肉",
-2,
-"yáng ròu",
-"mutton; goat meat"
+"羊",
+3,
+"Yáng",
+"surname Yang"
+],
+[
+"羊",
+3,
+"yáng",
+"sheep; goat; CL:头[tóu],只[zhī]"
+],
+[
+"亡羊补牢",
+7,
+"wáng yáng bǔ láo",
+"lit. to mend the pen after sheep are lost (idiom); fig. to act belatedly; better late than never; to lock the stable door after the horse has bolted"
 ]
 ],
 "extraWords": [
@@ -19,6 +31,12 @@
 25.52,
 "Bái yáng zuò",
 "Aries (constellation and sign of the zodiac)"
+],
+[
+"羊肉",
+10.48,
+"yáng ròu",
+"mutton; goat meat"
 ],
 [
 "山羊",

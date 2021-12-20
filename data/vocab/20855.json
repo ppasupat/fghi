@@ -1,72 +1,84 @@
 {
 "char": "具",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "tool, implement; draw up, write",
 "pron": "jù"
 },
 "words": [
 [
-"家具",
-4,
-"jiā jù",
-"furniture; CL:件[jian4],套[tao4]"
-],
-[
-"玩具",
-5,
-"wán jù",
-"plaything; toy"
-],
-[
 "工具",
-5,
+3,
 "gōng jù",
 "tool; instrument; utensil; means (to achieve a goal etc)"
 ],
 [
+"家具",
+3,
+"jiā jù",
+"furniture; CL:件[jiàn],套[tào]"
+],
+[
 "具体",
-5,
+3,
 "jù tǐ",
 "concrete; definite; specific"
 ],
 [
+"具有",
+3,
+"jù yǒu",
+"to have; to possess"
+],
+[
+"玩具",
+3,
+"wán jù",
+"plaything; toy"
+],
+[
 "具备",
-5,
+4,
 "jù bèi",
 "to possess; to have; equipped with; able to fulfill (conditions or requirements)"
 ],
 [
+"别具匠心",
+7,
+"bié jù jiàng xīn",
+"to show ingenuity; (of a design) clever; brilliantly conceived"
+],
+[
+"出具",
+7,
+"chū jù",
+"to issue (document, certificate etc); to provide"
+],
+[
+"道具",
+7,
+"dào jù",
+"prop (theater); paraphernalia; (gaming) item; artifact"
+],
+[
 "文具",
-5,
+7,
 "wén jù",
 "stationery; item of stationery (pen, pencil, eraser, pencil sharpener etc)"
 ]
 ],
 "extraWords": [
 [
-"具有",
-292.32,
-"jù yǒu",
-"to have; to possess"
+"具",
+98.93,
+"jù",
+"tool; device; utensil; equipment; instrument; talent; ability; to possess; to have; to provide; to furnish; to state; classifier for devices, coffins, dead bodies"
 ],
 [
 "面具",
 19.94,
 "miàn jù",
 "mask"
-],
-[
-"出具",
-13.77,
-"chū jù",
-"to issue (document, certificate etc); to provide"
-],
-[
-"道具",
-9.06,
-"dào jù",
-"prop (theater); paraphernalia; (gaming) item; artifact"
 ],
 [
 "农具",

@@ -1,6 +1,6 @@
 {
 "char": "裂",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "split, crack, break open; rend",
 "pron": "liè"
@@ -11,27 +11,39 @@
 6,
 "fēn liè",
 "to split up; to divide; to break up; fission; schism"
-]
-],
-"extraWords": [
-[
-"破裂",
-12.47,
-"pò liè",
-"to rupture; to fracture; to break down; (linguistics) plosion"
 ],
 [
-"裂缝",
-12.07,
-"liè fèng",
-"crack; crevice; CL:道[dao4]"
+"裂",
+6,
+"liè",
+"to split; to crack; to break open; to rend"
 ],
 [
 "断裂",
-11.12,
+7,
 "duàn liè",
 "fracture; rupture; to break apart"
 ],
+[
+"裂缝",
+7,
+"liè fèng",
+"crack; crevice; CL:道[dào]"
+],
+[
+"裂痕",
+7,
+"liè hén",
+"crack; gap; split"
+],
+[
+"破裂",
+7,
+"pò liè",
+"to rupture; to fracture; to break down; (linguistics) plosion"
+]
+],
+"extraWords": [
 [
 "撕裂",
 5.28,

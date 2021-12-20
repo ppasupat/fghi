@@ -1,6 +1,6 @@
 {
 "char": "顺",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "obey, submit to, go along with",
 "pron": "shùn"
@@ -8,15 +8,15 @@
 "words": [
 [
 "顺利",
-4,
+2,
 "shùn lì",
 "smoothly; without a hitch"
 ],
 [
-"顺便",
-4,
-"shùn biàn",
-"conveniently; in passing; without much extra effort"
+"一路顺风",
+2,
+"yī lù shùn fēng",
+"to have a pleasant journey (idiom)"
 ],
 [
 "顺序",
@@ -25,60 +25,108 @@
 "sequence; order"
 ],
 [
+"顺",
+6,
+"shùn",
+"to obey; to follow; to arrange; to make reasonable; along; favorable"
+],
+[
+"顺便",
+7,
+"shùn biàn",
+"conveniently; in passing; without much extra effort"
+],
+[
+"顺差",
+7,
+"shùn chā",
+"(trade or budget) surplus"
+],
+[
+"顺畅",
+7,
+"shùn chàng",
+"smooth and unhindered; fluent"
+],
+[
+"顺从",
+7,
+"shùn cóng",
+"obedient; to comply; to submit; to defer"
+],
+[
+"顺理成章",
+7,
+"shùn lǐ chéng zhāng",
+"logical; only to be expected; rational and clearly structured (of text)"
+],
+[
+"顺路",
+7,
+"shùn lù",
+"by the way; while out doing sth else; conveniently"
+],
+[
+"顺其自然",
+7,
+"shùn qí zì rán",
+"to let nature take its course (idiom)"
+],
+[
+"顺势",
+7,
+"shùn shì",
+"to take advantage; to seize an opportunity; in passing; without taking extra trouble; conveniently"
+],
+[
+"顺手",
+7,
+"shùn shǒu",
+"easily; without trouble; while one is at it; in passing; handy"
+],
+[
+"顺心",
+7,
+"shùn xīn",
+"happy; satisfactory"
+],
+[
+"顺应",
+7,
+"shùn yìng",
+"to comply; to conform to; in tune with; adapting to; to adjust to"
+],
+[
+"顺着",
+7,
+"shùn zhe",
+"to follow; following; along"
+],
+[
+"通顺",
+7,
+"tōng shùn",
+"smooth; clear and coherent"
+],
+[
 "孝顺",
-5,
+7,
 "xiào shùn",
 "filial; dutiful; devoted to one's parents (and grandparents etc); to show filial piety towards (an older family member); filial piety"
 ],
 [
 "一帆风顺",
-6,
+7,
 "yī fān fēng shùn",
 "propitious wind throughout the journey (idiom); plain sailing; to go smoothly; have a nice trip!"
 ]
 ],
 "extraWords": [
 [
-"顺着",
-8.32,
-"shùn zhe",
-"to follow; following; along"
-],
-[
-"顺差",
-7.91,
-"shùn chā",
-"(trade or budget) surplus"
-],
-[
-"顺手",
-6.13,
-"shùn shǒu",
-"easily; without trouble; while one is at it; in passing; handy"
-],
-[
-"顺畅",
-5.81,
-"shùn chàng",
-"smooth and unhindered; fluent"
-],
-[
-"顺应",
-5.73,
-"shùn yìng",
-"to comply; to conform to; in tune with; adapting to; to adjust to"
-],
-[
 "理顺",
 5.45,
 "lǐ shùn",
 "to straighten out; to sort out; to organize"
-],
-[
-"顺其自然",
-5.37,
-"shùn qí zì rán",
-"to let nature take its course (idiom)"
 ]
 ],
 "strokes": [

@@ -1,54 +1,66 @@
 {
 "char": "庄",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "village, hamlet; villa, manor",
 "pron": "zhuāng"
 },
 "words": [
 [
-"庄稼",
+"村庄",
 6,
+"cūn zhuāng",
+"village; hamlet; CL:座[zuò]"
+],
+[
+"庄稼",
+7,
 "zhuāng jia",
-"farm crop; CL:種|种[zhong3]"
+"farm crop; CL:种[zhǒng]"
 ],
 [
 "庄严",
-6,
+7,
 "zhuāng yán",
 "solemn; dignified; stately"
 ],
 [
-"庄重",
-6,
-"zhuāng zhòng",
-"grave; solemn; dignified"
+"庄园",
+7,
+"zhuāng yuán",
+"manor; feudal land; villa and park"
 ]
 ],
 "extraWords": [
 [
-"村庄",
-11.94,
-"cūn zhuāng",
-"village; hamlet; CL:座[zuo4]"
+"庄",
+25.08,
+"zhuāng",
+"variant of 庄[zhuāng]"
+],
+[
+"庄",
+25.08,
+"Zhuāng",
+"surname Zhuang"
+],
+[
+"庄",
+25.08,
+"zhuāng",
+"farmstead; village; manor; place of business; banker (in a gambling game); grave or solemn; holdings of a landlord (in imperial China)"
 ],
 [
 "石家庄",
 8.17,
 "Shí jiā zhuāng",
-"Shijiazhuang prefecture level city and capital of Hebei Province 河北省[He2 bei3 Sheng3] in north China"
+"Shijiazhuang prefecture level city and capital of Hebei Province 河北省[Hé běi Shěng] in north China"
 ],
 [
 "山庄",
 6.84,
 "shān zhuāng",
 "manor house; villa; (used in hotel names)"
-],
-[
-"庄园",
-6.47,
-"zhuāng yuán",
-"manor; feudal land; villa and park"
 ]
 ],
 "strokes": [

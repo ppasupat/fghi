@@ -1,6 +1,6 @@
 {
 "char": "某",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "certain thing or person",
 "pron": "mǒu"
@@ -8,12 +8,18 @@
 "words": [
 [
 "某",
-5,
+3,
 "mǒu",
 "some; a certain; sb or sth indefinite; such-and-such"
 ]
 ],
 "extraWords": [
+[
+"某个",
+78.46,
+"???",
+"???"
+],
 [
 "某些",
 66.35,
@@ -33,10 +39,46 @@
 "someone; a certain person; some people; I (self-address after one's surname)"
 ],
 [
+"李某",
+14.16,
+"???",
+"???"
+],
+[
+"王某",
+13.89,
+"???",
+"???"
+],
+[
+"张某",
+12.85,
+"???",
+"???"
+],
+[
+"刘某",
+9.56,
+"???",
+"???"
+],
+[
+"陈某",
+9.1,
+"???",
+"???"
+],
+[
 "某某",
 6.55,
 "mǒu mǒu",
 "so-and-so; such-and-such"
+],
+[
+"杨某",
+5.26,
+"???",
+"???"
 ]
 ],
 "strokes": [

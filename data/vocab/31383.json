@@ -1,6 +1,6 @@
 {
 "char": "窗",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "window",
 "pron": "chuāng"
@@ -10,21 +10,69 @@
 "窗户",
 4,
 "chuāng hu",
-"window; CL:個|个[ge4],扇[shan4]"
+"window; CL:个[gè],扇[shàn]"
+],
+[
+"窗台",
+4,
+"chuāng tái",
+"window sill; window ledge"
+],
+[
+"窗子",
+4,
+"chuāng zi",
+"window"
 ],
 [
 "窗帘",
 5,
 "chuāng lián",
 "window curtains"
+],
+[
+"窗口",
+6,
+"chuāng kǒu",
+"window; opening providing restricted access (e.g. customer service window); computer operating system window; fig. medium; intermediary; showpiece; testing ground"
 ]
 ],
 "extraWords": [
 [
-"窗口",
-27.66,
-"chuāng kǒu",
-"window; opening providing restricted access (e.g. customer service window); computer operating system window; fig. medium; intermediary; showpiece; testing ground"
+"窗",
+30.14,
+"chuāng",
+"old variant of 窗[chuāng]"
+],
+[
+"窗",
+30.14,
+"chuāng",
+"variant of 窗[chuāng]"
+],
+[
+"窗",
+30.14,
+"chuāng",
+"variant of 窗[chuāng]"
+],
+[
+"窗",
+30.14,
+"chuāng",
+"shutter; window; CL:扇[shàn]"
+],
+[
+"窗",
+30.14,
+"chuāng",
+"variant of 窗[chuāng]"
+],
+[
+"窗外",
+13.32,
+"???",
+"???"
 ],
 [
 "车窗",
@@ -33,10 +81,10 @@
 "car window; window of vehicle (bus, train etc)"
 ],
 [
-"窗子",
-5.6,
-"chuāng zi",
-"window"
+"门窗",
+6.14,
+"???",
+"???"
 ]
 ],
 "strokes": [

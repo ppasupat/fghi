@@ -1,6 +1,6 @@
 {
 "char": "等",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "rank, grade; wait; equal; 'etc.'",
 "pron": "děng"
@@ -8,51 +8,75 @@
 "words": [
 [
 "等",
+1,
+"děng",
+"class; rank; grade; equal to; same as; to wait for; to await; et cetera; and so on; et al. (and other authors); after; as soon as; once"
+],
+[
+"等到",
 2,
-"děng",
-"class; rank; grade; equal to; same as; to wait for; to await; et cetera; and so on; et al. (and other authors); after; as soon as; once"
-],
-[
-"等",
-4,
-"děng",
-"class; rank; grade; equal to; same as; to wait for; to await; et cetera; and so on; et al. (and other authors); after; as soon as; once"
-],
-[
-"等待",
-5,
-"děng dài",
-"to wait; to wait for"
+"děng dào",
+"to wait until; by the time when (sth is ready etc)"
 ],
 [
 "等于",
-5,
+2,
 "děng yú",
 "to equal; to be tantamount to"
 ],
 [
 "平等",
-5,
+2,
 "píng děng",
 "equal; equality"
 ],
 [
+"等待",
+3,
+"děng dài",
+"to wait; to wait for"
+],
+[
 "等候",
-6,
+5,
 "děng hòu",
 "to wait; to wait for"
 ],
 [
 "等级",
-6,
+5,
 "děng jí",
 "grade; rank; status"
 ],
 [
 "相等",
-6,
+5,
 "xiāng děng",
 "equal; equally; equivalent"
+],
+[
+"初等",
+6,
+"chū děng",
+"elementary (i.e. easy)"
+],
+[
+"高等",
+6,
+"gāo děng",
+"high-level; higher (animals, education etc); advanced (math etc)"
+],
+[
+"中等",
+6,
+"zhōng děng",
+"medium"
+],
+[
+"同等",
+7,
+"tóng děng",
+"equal to; having the same social class or status"
 ]
 ],
 "extraWords": [
@@ -63,28 +87,10 @@
 "et cetera; and so on ...; wait a minute!; hold on!"
 ],
 [
-"等到",
-41.81,
-"děng dào",
-"to wait until; by the time when (sth is ready etc)"
-],
-[
-"高等",
-34.7,
-"gāo děng",
-"high-level; higher (animals, education etc); advanced (math etc)"
-],
-[
 "不等",
 19.76,
 "bù děng",
 "unequal; varied"
-],
-[
-"中等",
-18.5,
-"zhōng děng",
-"medium"
 ],
 [
 "一等奖",
@@ -93,10 +99,28 @@
 "first prize"
 ],
 [
-"同等",
-9.18,
-"tóng děng",
-"equal to; having the same social class or status"
+"二等奖",
+8.22,
+"???",
+"???"
+],
+[
+"坐等",
+6.65,
+"???",
+"???"
+],
+[
+"这等",
+6.22,
+"???",
+"???"
+],
+[
+"三等奖",
+6.17,
+"???",
+"???"
 ],
 [
 "何等",

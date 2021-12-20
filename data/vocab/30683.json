@@ -1,6 +1,6 @@
 {
 "char": "矛",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "spear, lance; KangXi radical 110",
 "pron": "máo"
@@ -10,7 +10,19 @@
 "矛盾",
 5,
 "máo dùn",
-"contradiction; CL:個|个[ge4]; conflicting views; contradictory"
+"contradiction; CL:个[gè]; conflicting views; contradictory"
+],
+[
+"矛头",
+7,
+"máo tóu",
+"spearhead; barb; an attack or criticism"
+],
+[
+"自相矛盾",
+7,
+"zì xiāng máo dùn",
+"to contradict oneself; self-contradictory; inconsistent"
 ]
 ],
 "extraWords": [],

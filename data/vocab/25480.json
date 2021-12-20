@@ -1,6 +1,6 @@
 {
 "char": "授",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "give to, transmit; confer",
 "pron": "shòu"
@@ -10,27 +10,39 @@
 "教授",
 4,
 "jiào shòu",
-"professor; to instruct; to lecture on; CL:個|个[ge4],位[wei4]"
-],
-[
-"授予",
-6,
-"shòu yǔ",
-"to award; to confer"
+"professor; to instruct; to lecture on; CL:个[gè],位[wèi]"
 ],
 [
 "传授",
-6,
+7,
 "chuán shòu",
 "to impart; to pass on; to teach"
+],
+[
+"函授",
+7,
+"hán shòu",
+"to teach by correspondence"
+],
+[
+"授权",
+7,
+"shòu quán",
+"to authorize"
+],
+[
+"授予",
+7,
+"shòu yǔ",
+"to award; to confer"
 ]
 ],
 "extraWords": [
 [
-"授权",
-30.67,
-"shòu quán",
-"to authorize"
+"授",
+11.53,
+"shòu",
+"to teach; to instruct; to award; to give"
 ],
 [
 "副教授",

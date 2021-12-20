@@ -1,6 +1,6 @@
 {
 "char": "规",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "rules, regulations, customs, law",
 "pron": "guī"
@@ -8,95 +8,107 @@
 "words": [
 [
 "规定",
-4,
+3,
 "guī dìng",
-"provision; to fix; to set; to formulate; to stipulate; to provide; regulation; rule; CL:個|个[ge4]"
+"provision; to fix; to set; to formulate; to stipulate; to provide; regulation; rule; CL:个[gè]"
 ],
 [
-"规则",
-5,
-"guī zé",
-"rule; regulation; rules and regulations"
+"规范",
+3,
+"guī fàn",
+"norm; standard; specification; regulation; rule; within the rules; to fix rules; to regulate; to specify"
 ],
 [
-"规矩",
-5,
-"guī ju",
-"lit. compass and set square; fig. established standard; rule; customs; practices; fig. upright and honest; well-behaved"
+"大规模",
+4,
+"dà guī mó",
+"large scale; extensive; wide scale; broad scale"
 ],
 [
 "规律",
-5,
+4,
 "guī lǜ",
 "rule (e.g. of science); law of behavior; regular pattern; rhythm; discipline"
 ],
 [
 "规模",
-5,
+4,
 "guī mó",
-"scale; scope; extent; CL:個|个[ge4]"
+"scale; scope; extent; CL:个[gè]"
 ],
 [
-"规划",
-6,
-"guī huà",
-"to plan (how to do sth); planning; plan; program"
+"规则",
+4,
+"guī zé",
+"rule; regulation; rules and regulations"
 ],
-[
-"正规",
-6,
-"zhèng guī",
-"regular; according to standards"
-],
-[
-"规范",
-6,
-"guī fàn",
-"norm; standard; specification; regulation; rule; within the rules; to fix rules; to regulate; to specify"
-],
-[
-"规章",
-6,
-"guī zhāng",
-"rule; regulation"
-],
-[
-"规格",
-6,
-"guī gé",
-"standard; norm; specification"
-]
-],
-"extraWords": [
 [
 "法规",
-61.87,
+5,
 "fǎ guī",
 "legislation; statute"
 ],
 [
-"大规模",
-38.5,
-"dà guī mó",
-"large scale; extensive; wide scale; broad scale"
-],
-[
-"常规",
-33.46,
-"cháng guī",
-"code of conduct; conventions; common practice; routine (medical procedure etc)"
+"规划",
+5,
+"guī huà",
+"to plan (how to do sth); planning; plan; program"
 ],
 [
 "违规",
-31.72,
+5,
 "wéi guī",
 "to violate (rules); irregular; illegal; corrupt"
 ],
 [
+"正规",
+5,
+"zhèng guī",
+"regular; according to standards"
+],
+[
+"常规",
+6,
+"cháng guī",
+"code of conduct; conventions; common practice; routine (medical procedure etc)"
+],
+[
 "犯规",
-17.49,
+6,
 "fàn guī",
 "to break the rules; an illegality; a foul"
+],
+[
+"规格",
+7,
+"guī gé",
+"standard; norm; specification"
+],
+[
+"规矩",
+7,
+"guī ju",
+"lit. compass and set square; fig. established standard; rule; customs; practices; fig. upright and honest; well-behaved"
+]
+],
+"extraWords": [
+[
+"规",
+21.46,
+"guī",
+"variant of 规[guī]"
+],
+[
+"规",
+21.46,
+"guī",
+"compass; a rule; regulation; to admonish; to plan; to scheme"
+],
+[
+"规章",
+13.92,
+"guī zhāng",
+"rule; regulation"
 ],
 [
 "规范化",
@@ -109,6 +121,12 @@
 7.59,
 "guī bì",
 "to evade; to dodge"
+],
+[
+"常规赛",
+5.97,
+"???",
+"???"
 ],
 [
 "不规则",

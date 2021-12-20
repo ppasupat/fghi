@@ -1,12 +1,31 @@
 {
 "char": "篱",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "bamboo or wooden fence; hedge",
 "pron": "lí"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"篱笆",
+3.13,
+"lí ba",
+"fence (esp. of bamboo or wood railings)"
+],
+[
+"篱",
+1.41,
+"lí",
+"a fence"
+],
+[
+"寄人篱下",
+0.51,
+"jì rén lí xià",
+"to lodge under another person's roof (idiom); to live relying on sb else's charity"
+]
+],
 "strokes": [
 "M 355 744 Q 362 757 372 767 Q 382 777 369 791 Q 333 821 308 818 Q 298 817 300 803 Q 309 728 227 633 Q 223 633 193 595 Q 186 582 199 585 Q 241 589 315 682 Q 336 716 341 722 L 355 744 Z",
 "M 341 722 Q 377 710 447 725 Q 471 731 499 737 Q 517 741 520 744 Q 527 751 523 758 Q 516 768 491 773 Q 466 777 440 766 Q 413 757 355 744 C 326 737 312 730 341 722 Z",

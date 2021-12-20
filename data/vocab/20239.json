@@ -1,25 +1,43 @@
 {
 "char": "伏",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "crouch, crawl, lie hidden, conceal",
 "pron": "fú"
 },
 "words": [
 [
+"此起彼伏",
+7,
+"cǐ qǐ bǐ fú",
+"up here, down there (idiom); to rise and fall in succession; no sooner one subsides, the next arises; repeating continuously; occurring again and again (of applause, fires, waves, protests, conflicts, uprisings etc)"
+],
+[
 "埋伏",
-6,
+7,
 "mái fú",
 "to ambush; to lie in wait for; to lie low; ambush"
 ],
 [
 "起伏",
-6,
+7,
 "qǐ fú",
 "to move up and down; to undulate; ups and downs"
 ]
 ],
 "extraWords": [
+[
+"伏",
+14.28,
+"Fú",
+"surname Fu"
+],
+[
+"伏",
+14.28,
+"fú",
+"to lean over; to fall (go down); to hide (in ambush); to conceal oneself; to lie low; hottest days of summer; to submit; to concede defeat; to overcome; to subdue; volt"
+],
 [
 "伏特",
 11.77,

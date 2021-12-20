@@ -1,14 +1,26 @@
 {
 "char": "魂",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "soul, spirit",
 "pron": "hún"
 },
 "words": [
 [
+"魂",
+7,
+"hún",
+"old variant of 魂[hún]"
+],
+[
+"魂",
+7,
+"hún",
+"soul; spirit; immortal soul, i.e. that can be detached from the body"
+],
+[
 "灵魂",
-6,
+7,
 "líng hún",
 "soul; spirit"
 ]

@@ -1,12 +1,31 @@
 {
 "char": "鞍",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "saddle; any saddle-shaped object",
 "pron": "ān"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"鞍山",
+3.99,
+"Ān shān",
+"Anshan prefecture-level city in Liaoning province 辽宁省[Liáo níng Shěng] in northeast China"
+],
+[
+"鞍",
+3.35,
+"ān",
+"graphic variant of 鞍[ān]"
+],
+[
+"鞍",
+3.35,
+"ān",
+"saddle"
+]
+],
 "strokes": [
 "M 410 659 Q 450 666 485 670 Q 494 669 501 679 Q 502 688 484 697 Q 463 710 421 702 L 365 688 Q 310 676 258 664 L 212 657 Q 208 658 206 657 Q 164 653 119 647 Q 97 644 114 630 Q 141 612 166 616 Q 188 622 218 626 L 260 634 Q 303 644 360 652 L 410 659 Z",
 "M 258 664 Q 258 667 258 669 Q 257 703 258 719 Q 262 737 251 744 Q 238 754 213 761 Q 194 765 177 756 Q 168 747 182 737 Q 200 713 212 657 L 218 626 Q 219 616 223 601 Q 241 499 245 492 Q 252 483 258 490 Q 264 496 264 519 L 265 543 Q 265 556 264 570 Q 263 604 260 634 L 258 664 Z",

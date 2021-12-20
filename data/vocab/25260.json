@@ -1,6 +1,6 @@
 {
 "char": "抬",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "lift, carry",
 "pron": "tái"
@@ -8,18 +8,18 @@
 "words": [
 [
 "抬",
-4,
+5,
 "tái",
 "to lift; to raise; (of two or more persons) to carry"
+],
+[
+"抬头",
+5,
+"tái tóu",
+"to raise one's head; to gain ground; account name, or space for writing the name on checks, bills etc"
 ]
 ],
 "extraWords": [
-[
-"抬头",
-17.35,
-"tái tóu",
-"to raise one's head; to gain ground; account name, or space for writing the name on checks, bills etc"
-],
 [
 "抬起",
 12.27,

@@ -1,6 +1,6 @@
 {
 "char": "习",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "practice; flapping wings",
 "pron": "xí"
@@ -13,52 +13,64 @@
 "to learn; to study"
 ],
 [
-"习惯",
-3,
-"xí guàn",
-"habit; custom; usual practice; to be used to; CL:個|个[ge4]"
+"复习",
+2,
+"fù xí",
+"to review; revision; CL:次[cì]"
+],
+[
+"复习",
+2,
+"fù xí",
+"variant of 复习[fù xí]"
 ],
 [
 "练习",
-3,
+2,
 "liàn xí",
-"to practice; exercise; drill; practice; CL:個|个[ge4]"
-],
-[
-"复习",
-3,
-"fù xí",
-"to review; revision; CL:次[ci4]"
-],
-[
-"复习",
-3,
-"fù xí",
-"variant of 復習|复习[fu4 xi2]"
-],
-[
-"预习",
-4,
-"yù xí",
-"to prepare a lesson"
+"to practice; exercise; drill; practice; CL:个[gè]"
 ],
 [
 "实习",
-5,
+2,
 "shí xí",
 "to practice; field work; to intern; internship"
 ],
 [
-"演习",
+"习惯",
+2,
+"xí guàn",
+"habit; custom; usual practice; to be used to; CL:个[gè]"
+],
+[
+"预习",
+3,
+"yù xí",
+"to prepare a lesson"
+],
+[
+"补习",
 6,
-"yǎn xí",
-"maneuver; exercise; practice; to maneuver"
+"bǔ xí",
+"to take extra lessons in a cram school or with a private tutor"
+],
+[
+"温习",
+7,
+"wēn xí",
+"to review (a lesson etc)"
 ],
 [
 "习俗",
-6,
+7,
 "xí sú",
 "custom; tradition; local tradition; convention"
+],
+[
+"演习",
+7,
+"yǎn xí",
+"maneuver; exercise; practice; to maneuver"
 ]
 ],
 "extraWords": [
@@ -69,10 +81,34 @@
 "intern (student)"
 ],
 [
+"习",
+8.52,
+"Xí",
+"surname Xi"
+],
+[
+"习",
+8.52,
+"xí",
+"(bound form) to practice; to study; habit; custom"
+],
+[
 "自习",
 7.38,
 "zì xí",
 "to study outside of class time (reviewing one's lessons); to study in one's free time; individual study"
+],
+[
+"见习记者",
+7.1,
+"???",
+"???"
+],
+[
+"实习记者",
+5.12,
+"???",
+"???"
 ]
 ],
 "strokes": [

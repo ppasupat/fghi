@@ -1,28 +1,46 @@
 {
 "char": "围",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "surround, encircle, corral",
 "pron": "wéi"
 },
 "words": [
 [
+"范围",
+3,
+"fàn wéi",
+"range; scope; limit; extent; CL:个[gè]"
+],
+[
+"围",
+3,
+"Wéi",
+"surname Wei"
+],
+[
+"围",
+3,
+"wéi",
+"to encircle; to surround; all around; to wear by wrapping around (scarf, shawl)"
+],
+[
 "周围",
-4,
+3,
 "zhōu wéi",
 "surroundings; environment; to encompass"
 ],
 [
-"范围",
-5,
-"fàn wéi",
-"range; scope; limit; extent; CL:個|个[ge4]"
+"围巾",
+4,
+"wéi jīn",
+"scarf; shawl; CL:条[tiáo]"
 ],
 [
-"围巾",
+"包围",
 5,
-"wéi jīn",
-"scarf; shawl; CL:條|条[tiao2]"
+"bāo wéi",
+"to surround; to encircle; to hem in"
 ],
 [
 "围绕",
@@ -31,19 +49,25 @@
 "to revolve around; to center on (an issue)"
 ],
 [
-"包围",
-6,
-"bāo wéi",
-"to surround; to encircle; to hem in"
-]
-],
-"extraWords": [
-[
 "氛围",
-26.58,
+7,
 "fēn wéi",
 "ambience; atmosphere"
 ],
+[
+"解围",
+7,
+"jiě wéi",
+"to lift a siege; to help sb out of trouble or embarrassment"
+],
+[
+"围墙",
+7,
+"wéi qiáng",
+"perimeter wall; fence; CL:道[dào]"
+]
+],
+"extraWords": [
 [
 "围观",
 24.06,
@@ -67,12 +91,6 @@
 8.67,
 "wài wéi",
 "surrounding"
-],
-[
-"围墙",
-6.46,
-"wéi qiáng",
-"perimeter wall; fence; CL:道[dao4]"
 ],
 [
 "围攻",

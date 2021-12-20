@@ -1,6 +1,6 @@
 {
 "char": "展",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "open, unfold; stretch, extend",
 "pron": "zhǎn"
@@ -8,77 +8,113 @@
 "words": [
 [
 "发展",
-4,
+3,
 "fā zhǎn",
 "development; growth; to develop; to grow; to expand"
 ],
 [
+"进展",
+3,
+"jìn zhǎn",
+"to make headway; to make progress"
+],
+[
+"开展",
+3,
+"kāi zhǎn",
+"to launch; to develop; to unfold; (of an exhibition etc) to open"
+],
+[
 "展开",
-5,
+3,
 "zhǎn kāi",
 "to unfold; to carry out; to be in full swing; to launch"
+],
+[
+"扩展",
+4,
+"kuò zhǎn",
+"to extend; to expand; extension; expansion"
 ],
 [
 "展览",
 5,
 "zhǎn lǎn",
-"to put on display; to exhibit; exhibition; show; CL:個|个[ge4],次[ci4]"
+"to put on display; to exhibit; exhibition; show; CL:个[gè],次[cì]"
 ],
 [
 "展示",
-6,
+5,
 "zhǎn shì",
 "to reveal; to display; to show; to exhibit sth"
 ],
 [
-"进展",
-6,
-"jìn zhǎn",
-"to make headway; to make progress"
-],
-[
 "展现",
-6,
+5,
 "zhǎn xiàn",
 "to come out; to emerge; to reveal; to display"
 ],
 [
-"施展",
+"参展",
 6,
-"shī zhǎn",
-"to use fully; to put to use"
+"cān zhǎn",
+"to exhibit at or take part in a trade show etc"
 ],
 [
-"开展",
+"车展",
 6,
-"kāi zhǎn",
-"to launch; to develop; to unfold; (of an exhibition etc) to open"
+"chē zhǎn",
+"motor show"
+],
+[
+"画展",
+7,
+"huà zhǎn",
+"art exhibition"
+],
+[
+"拓展",
+7,
+"tuò zhǎn",
+"to expand (one's client base, outlook etc)"
+],
+[
+"一筹莫展",
+7,
+"yī chóu mò zhǎn",
+"to be unable to find a solution; to be at wits' end"
+],
+[
+"展出",
+7,
+"zhǎn chū",
+"to put on display; to be on show; to exhibit"
+],
+[
+"展览会",
+7,
+"zhǎn lǎn huì",
+"exhibition; show; CL:个[gè]"
 ],
 [
 "展望",
-6,
+7,
 "zhǎn wàng",
 "outlook; prospect; to look ahead; to look forward to"
 ]
 ],
 "extraWords": [
 [
-"拓展",
-25.08,
-"tuò zhǎn",
-"to expand (one's client base, outlook etc)"
+"展",
+86.21,
+"Zhǎn",
+"surname Zhan"
 ],
 [
-"扩展",
-21.41,
-"kuò zhǎn",
-"to extend; to expand; extension; expansion"
-],
-[
-"车展",
-17.34,
-"chē zhǎn",
-"motor show"
+"展",
+86.21,
+"zhǎn",
+"to spread out; to open up; to exhibit; to put into effect; to postpone; to prolong; exhibition"
 ],
 [
 "发展中国家",
@@ -87,22 +123,10 @@
 "developing country"
 ],
 [
-"参展",
-15.84,
-"cān zhǎn",
-"to exhibit at or take part in a trade show etc"
-],
-[
-"展出",
-13.97,
-"zhǎn chū",
-"to put on display; to be on show; to exhibit"
-],
-[
-"展览会",
-6.8,
-"zhǎn lǎn huì",
-"exhibition; show; CL:個|个[ge4]"
+"施展",
+7.69,
+"shī zhǎn",
+"to use fully; to put to use"
 ],
 [
 "伸展",

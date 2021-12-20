@@ -1,11 +1,17 @@
 {
 "char": "启",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "open; begin, commence; explain",
 "pron": "qǐ"
 },
 "words": [
+[
+"启动",
+5,
+"qǐ dòng",
+"to start (a machine); (fig.) to set in motion; to launch (an operation); to activate (a plan)"
+],
 [
 "启发",
 5,
@@ -13,48 +19,66 @@
 "to enlighten; to explain (a text etc); to stimulate (a mental attitude); enlightenment; revelation; motivation"
 ],
 [
-"启示",
-6,
-"qǐ shì",
-"to reveal; to enlighten; enlightenment; revelation; illumination; moral (of a story etc); lesson"
-],
-[
-"启程",
-6,
-"qǐ chéng",
-"to set out on a journey"
-],
-[
 "启事",
-6,
+5,
 "qǐ shì",
 "announcement (written, on billboard, letter, newspaper or website); to post information; a notice"
 ],
 [
-"启蒙",
-6,
-"qǐ méng",
-"variant of 啟蒙|启蒙[qi3 meng2]; to instruct the young"
+"开启",
+7,
+"kāi qǐ",
+"to open; to start; (computing) to enable"
+],
+[
+"启迪",
+7,
+"qǐ dí",
+"to edify; enlightenment"
 ],
 [
 "启蒙",
-6,
+7,
+"qǐ méng",
+"variant of 启蒙[qǐ méng]; to instruct the young"
+],
+[
+"启蒙",
+7,
 "qǐ méng",
 "to instruct the young; to initiate; to awake sb from ignorance; to free sb from prejudice or superstition; primer; enlightened; the Enlightenment; Western learning from the late Qing dynasty"
+],
+[
+"启示",
+7,
+"qǐ shì",
+"to reveal; to enlighten; enlightenment; revelation; illumination; moral (of a story etc); lesson"
 ]
 ],
 "extraWords": [
 [
-"启动",
-76.52,
-"qǐ dòng",
-"to start (a machine); (fig.) to set in motion; to launch (an operation); to activate (a plan)"
+"启",
+12.76,
+"qǐ",
+"variant of 启[qǐ]"
 ],
 [
-"开启",
-18.95,
-"kāi qǐ",
-"to open; to start; (computing) to enable"
+"启",
+12.76,
+"qǐ",
+"variant of 启[qǐ]"
+],
+[
+"启",
+12.76,
+"Qǐ",
+"Qi son of Yu the Great 禹[Yǔ], reported founder of the Xia Dynasty 夏朝[Xià Cháo] (c. 2070-c. 1600 BC)"
+],
+[
+"启",
+12.76,
+"qǐ",
+"to open; to start; to initiate; to enlighten or awaken; to state; to inform"
 ],
 [
 "启用",

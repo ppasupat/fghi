@@ -1,6 +1,6 @@
 {
 "char": "沪",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "Shanghai; river near Shanghai",
 "pron": "hù"
@@ -8,10 +8,22 @@
 "words": [],
 "extraWords": [
 [
+"沪",
+45.81,
+"Hù",
+"short name for Shanghai"
+],
+[
 "朱广沪",
 12.9,
 "Zhū Guǎng hù",
 "Zhu Guanghu (1949-), PRC soccer coach"
+],
+[
+"沪市",
+6.46,
+"???",
+"???"
 ]
 ],
 "strokes": [

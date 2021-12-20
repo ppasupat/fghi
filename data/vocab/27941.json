@@ -1,6 +1,6 @@
 {
 "char": "津",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "ferry; saliva; ford",
 "pron": "jīn"
@@ -8,9 +8,15 @@
 "words": [
 [
 "津津有味",
-6,
+7,
 "jīn jīn yǒu wèi",
 "with keen interest (idiom); with great pleasure; with gusto; eagerly"
+],
+[
+"津贴",
+7,
+"jīn tiē",
+"allowance"
 ]
 ],
 "extraWords": [
@@ -21,10 +27,28 @@
 "Tianjin, a municipality in northeast China, abbr. 津"
 ],
 [
+"津",
+21.09,
+"Jīn",
+"abbr. for Tianjin 天津[Tiān jīn]"
+],
+[
+"津",
+21.09,
+"jīn",
+"saliva; sweat; a ferry crossing; a ford (river crossing)"
+],
+[
 "天津市",
 10.17,
 "Tiān jīn shì",
 "Tianjin, a municipality in northeast China, abbr. 津"
+],
+[
+"天津队",
+6.16,
+"???",
+"???"
 ]
 ],
 "strokes": [

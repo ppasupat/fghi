@@ -1,6 +1,6 @@
 {
 "char": "植",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "plant, trees, plants; grow",
 "pron": "zhí"
@@ -10,21 +10,27 @@
 "植物",
 4,
 "zhí wù",
-"plant; vegetation; CL:種|种[zhong3]"
+"plant; vegetation; CL:种[zhǒng]"
 ],
 [
 "种植",
-6,
+4,
 "zhòng zhí",
 "to plant; to grow (a crop); to cultivate"
+],
+[
+"移植",
+7,
+"yí zhí",
+"to transplant"
 ]
 ],
 "extraWords": [
 [
-"移植",
-26.98,
-"yí zhí",
-"to transplant"
+"植",
+12.03,
+"zhí",
+"to plant"
 ],
 [
 "植入",

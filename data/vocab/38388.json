@@ -1,108 +1,162 @@
 {
 "char": "间",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "midpoint, space; place, locality",
 "pron": "jiān, jiàn"
 },
 "words": [
 [
-"时间",
-2,
-"shí jiān",
-"time; period; CL:段[duan4]"
-],
-[
 "房间",
-2,
+1,
 "fáng jiān",
-"room; CL:間|间[jian1],個|个[ge4]"
+"room; CL:间[jiān],个[gè]"
 ],
 [
-"中间",
-3,
-"zhōng jiān",
-"between; intermediate; mid; middle"
+"间",
+1,
+"jiān",
+"between; among; within a definite time or space; room; section of a room or lateral space between two pairs of pillars; classifier for rooms"
+],
+[
+"间",
+1,
+"jiàn",
+"gap; to separate; to thin out (seedlings); to sow discontent"
+],
+[
+"时间",
+1,
+"shí jiān",
+"time; period; CL:段[duàn]"
 ],
 [
 "洗手间",
-3,
+1,
 "xǐ shǒu jiān",
 "toilet; lavatory; washroom"
 ],
 [
+"中间",
+1,
+"zhōng jiān",
+"between; intermediate; mid; middle"
+],
+[
+"民间",
+3,
+"mín jiān",
+"among the people; popular; folk; non-governmental; involving people rather than governments"
+],
+[
 "卫生间",
-4,
+3,
 "wèi shēng jiān",
-"bathroom; toilet; WC; CL:間|间[jian1]"
+"bathroom; toilet; WC; CL:间[jiān]"
 ],
 [
 "空间",
-5,
+4,
 "kōng jiān",
 "space; room; (fig.) scope; leeway; (astronomy) outer space; (physics, math.) space"
 ],
 [
 "期间",
-5,
+4,
 "qī jiān",
-"period of time; time; time period; period; CL:個|个[ge4]"
+"period of time; time; time period; period; CL:个[gè]"
 ],
 [
-"间谍",
-6,
-"jiàn dié",
-"spy"
-],
-[
-"瞬间",
-6,
-"shùn jiān",
-"in an instant; in a flash"
-],
-[
-"人间",
-6,
-"rén jiān",
-"the human world; the earth"
+"之间",
+4,
+"zhī jiān",
+"between; among; inter-"
 ],
 [
 "间接",
-6,
+5,
 "jiàn jiē",
 "indirect"
 ],
 [
-"民间",
-6,
-"mín jiān",
-"among the people; popular; folk; non-governmental; involving people rather than governments"
+"人间",
+5,
+"rén jiān",
+"the human world; the earth"
+],
+[
+"夜间",
+5,
+"yè jiān",
+"nighttime; evening or night (e.g. classes)"
+],
+[
+"车间",
+7,
+"chē jiān",
+"workshop; CL:个[gè]"
+],
+[
+"间谍",
+7,
+"jiàn dié",
+"spy"
+],
+[
+"间断",
+7,
+"jiàn duàn",
+"disconnected; interrupted; suspended; a gap; a break"
 ],
 [
 "间隔",
-6,
+7,
 "jiàn gé",
 "gap; interval; compartment; to divide; to separate; to leave a gap of (two weeks, three meters etc)"
+],
+[
+"间隙",
+7,
+"jiàn xì",
+"interval; gap; clearance"
+],
+[
+"其间",
+7,
+"qí jiān",
+"in between; within that interval; in the meantime"
+],
+[
+"时间表",
+7,
+"shí jiān biǎo",
+"schedule; timetable"
+],
+[
+"瞬间",
+7,
+"shùn jiān",
+"in an instant; in a flash"
+],
+[
+"晚间",
+7,
+"wǎn jiān",
+"evening; night"
+],
+[
+"一瞬间",
+7,
+"yī shùn jiān",
+"split second"
 ]
 ],
 "extraWords": [
-[
-"之间",
-278.98,
-"zhī jiān",
-"between; among; inter-"
-],
 [
 "北京时间",
 56.48,
 "Běi jīng Shí jiān",
 "Chinese Standard Time"
-],
-[
-"夜间",
-27.93,
-"yè jiān",
-"nighttime; evening or night (e.g. classes)"
 ],
 [
 "一时间",
@@ -111,28 +165,10 @@
 "for a moment; momentarily"
 ],
 [
-"车间",
-22.91,
-"chē jiān",
-"workshop; CL:個|个[ge4]"
-],
-[
 "区间",
 18.36,
 "qū jiān",
 "delimited area; defined section of a train or bus route; numerical range; (math.) interval"
-],
-[
-"一瞬间",
-13.19,
-"yī shùn jiān",
-"split second"
-],
-[
-"其间",
-11.91,
-"qí jiān",
-"in between; within that interval; in the meantime"
 ],
 [
 "此间",
@@ -145,30 +181,6 @@
 10.27,
 "shì jiān",
 "world; earth"
-],
-[
-"间隙",
-8.67,
-"jiàn xì",
-"interval; gap; clearance"
-],
-[
-"晚间",
-8.49,
-"wǎn jiān",
-"evening; night"
-],
-[
-"间断",
-6.83,
-"jiàn duàn",
-"disconnected; interrupted; suspended; a gap; a break"
-],
-[
-"时间表",
-6.69,
-"shí jiān biǎo",
-"schedule; timetable"
 ],
 [
 "中间人",

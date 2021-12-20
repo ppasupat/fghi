@@ -1,6 +1,6 @@
 {
 "char": "姨",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "mother/wife's sister; concubine",
 "pron": "yí"
@@ -8,9 +8,15 @@
 "words": [
 [
 "阿姨",
-3,
+4,
 "ā yí",
-"maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child); CL:個|个[ge4]"
+"maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child); CL:个[gè]"
+],
+[
+"姨",
+7,
+"yí",
+"mother's sister; aunt"
 ]
 ],
 "extraWords": [

@@ -1,6 +1,6 @@
 {
 "char": "寒",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "cold, wintry, chilly",
 "pron": "hán"
@@ -13,30 +13,30 @@
 "winter vacation"
 ],
 [
-"寒暄",
-6,
-"hán xuān",
-"to exchange conventional greetings; to exchange pleasantries"
-],
-[
-"严寒",
-6,
-"yán hán",
-"bitter cold; severe winter"
+"寒冷",
+4,
+"hán lěng",
+"cold (climate); frigid; very cold"
 ]
 ],
 "extraWords": [
 [
-"寒冷",
-18.84,
-"hán lěng",
-"cold (climate); frigid; very cold"
+"寒",
+38.99,
+"hán",
+"cold; poor; to tremble"
 ],
 [
 "韩寒",
 12.3,
 "Hán Hán",
 "Han Han (1982-), PRC blogger, singer and professional rally driver"
+],
+[
+"寒风",
+7.73,
+"???",
+"???"
 ],
 [
 "寒冬",

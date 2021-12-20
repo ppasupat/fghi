@@ -1,17 +1,30 @@
 {
 "char": "粪",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "manure, dung, shit, excrement, night soil",
 "pron": "fèn"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"粪",
+7,
+"fèn",
+"manure; dung"
+],
 [
 "粪便",
-5.19,
+7,
 "fèn biàn",
 "excrement; feces; night soil"
+]
+],
+"extraWords": [
+[
+"牛粪",
+1.27,
+"???",
+"???"
 ]
 ],
 "strokes": [

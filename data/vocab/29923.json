@@ -1,6 +1,6 @@
 {
 "char": "瓣",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "petal; segment; valves",
 "pron": "bàn"
@@ -8,12 +8,18 @@
 "words": [
 [
 "花瓣",
-6,
+7,
 "huā bàn",
-"petal; CL:片[pian4]"
+"petal; CL:片[piàn]"
 ]
 ],
 "extraWords": [
+[
+"瓣",
+11.57,
+"bàn",
+"petal; segment; clove (of garlic); piece; section; fragment; valve; lamella; classifier for pieces, segments etc"
+],
 [
 "豆瓣",
 6.93,
@@ -24,7 +30,7 @@
 "豆瓣",
 6.93,
 "dòu bàn",
-"cotyledon of a bean (i.e. either of the halves of a bean seed that can be split apart after removing the seed coat); thick bean sauce (abbr. for 豆瓣醬|豆瓣酱[dou4 ban4 jiang4])"
+"cotyledon of a bean (i.e. either of the halves of a bean seed that can be split apart after removing the seed coat); thick bean sauce (abbr. for 豆瓣酱[dòu bàn jiàng])"
 ]
 ],
 "strokes": [

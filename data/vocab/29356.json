@@ -1,24 +1,30 @@
 {
 "char": "犬",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "dog; radical number 94",
 "pron": "quǎn"
 },
 "words": [
 [
-"犬",
-6,
-"quǎn",
-"dog; Kangxi radical 94"
+"猎犬",
+7,
+"liè quǎn",
+"hound; hunting dog"
 ]
 ],
 "extraWords": [
 [
-"猎犬",
-5.16,
-"liè quǎn",
-"hound; hunting dog"
+"犬",
+24.39,
+"quǎn",
+"dog; Kangxi radical 94"
+],
+[
+"养犬",
+2.53,
+"???",
+"???"
 ]
 ],
 "strokes": [

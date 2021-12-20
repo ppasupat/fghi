@@ -1,6 +1,6 @@
 {
 "char": "业",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "profession, business; GB radical 111",
 "pron": "yè"
@@ -8,15 +8,63 @@
 "words": [
 [
 "作业",
-3,
+2,
 "zuò yè",
-"school assignment; homework; work; task; operation; CL:個|个[ge4]; to operate"
+"school assignment; homework; work; task; operation; CL:个[gè]; to operate"
+],
+[
+"创业",
+3,
+"chuàng yè",
+"to begin an undertaking; to start a major task; to initiate; to venture; venture; entrepreneurship"
+],
+[
+"工业",
+3,
+"gōng yè",
+"industry"
+],
+[
+"就业",
+3,
+"jiù yè",
+"to get a job; employment"
+],
+[
+"开业",
+3,
+"kāi yè",
+"to open a business; to open a practice; open (for business)"
+],
+[
+"农业",
+3,
+"nóng yè",
+"agriculture; farming"
+],
+[
+"商业",
+3,
+"shāng yè",
+"business; trade; commerce"
+],
+[
+"事业",
+3,
+"shì yè",
+"undertaking; project; activity; (charitable, political or revolutionary) cause; publicly funded institution, enterprise or foundation; career; occupation; CL:个[gè]"
 ],
 [
 "职业",
-4,
+3,
 "zhí yè",
 "occupation; profession; vocation; professional"
+],
+[
+"专业",
+3,
+"zhuān yè",
+"specialty; specialized field; main field of study (at university); major; CL:门[mén],个[gè]; professional"
 ],
 [
 "毕业",
@@ -25,126 +73,132 @@
 "graduation; to graduate; to finish school"
 ],
 [
-"专业",
+"毕业生",
 4,
-"zhuān yè",
-"specialty; specialized field; main field of study (at university); major; CL:門|门[men2],個|个[ge4]; professional"
-],
-[
-"商业",
-5,
-"shāng yè",
-"business; trade; commerce"
+"bì yè shēng",
+"graduate"
 ],
 [
 "行业",
-5,
+4,
 "háng yè",
 "industry; business"
 ],
 [
-"业余",
-5,
-"yè yú",
-"in one's spare time; outside working hours; amateur (historian etc)"
+"企业",
+4,
+"qǐ yè",
+"company; firm; enterprise; corporation; CL:家[jiā]"
 ],
 [
 "失业",
-5,
+4,
 "shī yè",
 "unemployment; to lose one's job"
 ],
 [
-"企业",
+"业余",
+4,
+"yè yú",
+"in one's spare time; outside working hours; amateur (historian etc)"
+],
+[
+"营业",
+4,
+"yíng yè",
+"to do business; to trade"
+],
+[
+"产业",
 5,
-"qǐ yè",
-"company; firm; enterprise; corporation; CL:家[jia1]"
+"chǎn yè",
+"industry; estate; property; industrial"
+],
+[
+"物业",
+5,
+"wù yè",
+"property; real estate; abbr. for 物业管理[wù yè guǎn lǐ], property management"
 ],
 [
 "业务",
 5,
 "yè wù",
-"business; professional work; service; CL:項|项[xiang4]"
+"business; professional work; service; CL:项[xiàng]"
 ],
 [
-"工业",
-5,
-"gōng yè",
-"industry"
+"从业",
+7,
+"cóng yè",
+"to practice (a trade)"
 ],
 [
-"营业",
-5,
-"yíng yè",
-"to do business; to trade"
-],
-[
-"农业",
-5,
-"nóng yè",
-"agriculture; farming"
-],
-[
-"事业",
-6,
-"shì yè",
-"undertaking; project; activity; (charitable, political or revolutionary) cause; publicly funded institution, enterprise or foundation; career; occupation; CL:個|个[ge4]"
-],
-[
-"产业",
-6,
-"chǎn yè",
-"industry; estate; property; industrial"
-],
-[
-"就业",
-6,
-"jiù yè",
-"to get a job; employment"
+"兢兢业业",
+7,
+"jīng jīng yè yè",
+"(idiom) conscientious; assiduous"
 ],
 [
 "敬业",
-6,
+7,
 "jìng yè",
 "to be dedicated to one's work; to respect one's work"
 ],
 [
-"创业",
-6,
-"chuàng yè",
-"to begin an undertaking; to start a major task; to initiate; to venture; venture; entrepreneurship"
+"失业率",
+7,
+"shī yè lǜ",
+"unemployment rate"
 ],
 [
-"物业",
-6,
-"wù yè",
-"property; real estate; abbr. for 物業管理|物业管理[wu4 ye4 guan3 li3], property management"
+"停业",
+7,
+"tíng yè",
+"to cease trading (temporarily or permanently); to close down"
 ],
 [
-"兢兢业业",
-6,
-"jīng jīng yè yè",
-"(idiom) conscientious; assiduous"
+"学业",
+7,
+"xué yè",
+"studies; schoolwork"
+],
+[
+"业",
+7,
+"Yè",
+"surname Ye"
+],
+[
+"业",
+7,
+"yè",
+"line of business; industry; occupation; job; employment; school studies; enterprise; property; (Buddhism) karma; deed; to engage in; already"
+],
+[
+"业绩",
+7,
+"yè jì",
+"achievement; accomplishment; (in more recent usage) performance (of a business, employee etc); results"
+],
+[
+"职业病",
+7,
+"zhí yè bìng",
+"occupational disease"
 ]
 ],
 "extraWords": [
 [
-"业绩",
-60.57,
-"yè jì",
-"achievement; accomplishment; (in more recent usage) performance (of a business, employee etc); results"
+"业内",
+47.42,
+"???",
+"???"
 ],
 [
 "业主",
 45.89,
 "yè zhǔ",
 "owner; proprietor"
-],
-[
-"毕业生",
-36.72,
-"bì yè shēng",
-"graduate"
 ],
 [
 "商业银行",
@@ -189,12 +243,6 @@
 "service industry"
 ],
 [
-"开业",
-17.19,
-"kāi yè",
-"to open a business; to open a practice; open (for business)"
-],
-[
 "工业化",
 15.55,
 "gōng yè huà",
@@ -205,6 +253,18 @@
 15.32,
 "lín yè",
 "forest industry; forestry"
+],
+[
+"事业单位",
+13.32,
+"???",
+"???"
+],
+[
+"乡镇企业",
+12.74,
+"???",
+"???"
 ],
 [
 "物业管理",
@@ -223,6 +283,12 @@
 11.76,
 "lǚ yóu yè",
 "tourism industry"
+],
+[
+"房地产业",
+11.66,
+"???",
+"???"
 ],
 [
 "专业化",
@@ -255,10 +321,10 @@
 "banking"
 ],
 [
-"学业",
-9.35,
-"xué yè",
-"studies; schoolwork"
+"报业",
+9.22,
+"???",
+"???"
 ],
 [
 "置业",
@@ -279,10 +345,22 @@
 "to work in a profession (e.g. doctor, lawyer); practitioner; professional"
 ],
 [
+"物业公司",
+7.36,
+"???",
+"???"
+],
+[
 "业务员",
 7.22,
 "yè wù yuán",
 "salesperson"
+],
+[
+"营业部",
+7.17,
+"???",
+"???"
 ],
 [
 "第三产业",
@@ -291,16 +369,34 @@
 "tertiary sector of industry"
 ],
 [
+"营业执照",
+6.78,
+"???",
+"???"
+],
+[
+"企事业单位",
+6.58,
+"???",
+"???"
+],
+[
 "外资企业",
 6.55,
 "wài zī qǐ yè",
-"abbr. for 外商獨資企業|外商独资企业[wai4 shang1 du2 zi1 qi3 ye4]"
+"abbr. for 外商独资企业[wài shāng dú zī qǐ yè]"
 ],
 [
 "金融业",
 6.5,
 "jīn róng yè",
 "financial sector; the banking business"
+],
+[
+"保险业",
+6.42,
+"???",
+"???"
 ],
 [
 "营业额",
@@ -315,6 +411,12 @@
 "business conglomerate"
 ],
 [
+"大型企业",
+6.11,
+"???",
+"???"
+],
+[
 "畜牧业",
 5.92,
 "xù mù yè",
@@ -324,7 +426,7 @@
 "营业员",
 5.85,
 "yíng yè yuán",
-"clerk; shop assistant; CL:個|个[ge4]"
+"clerk; shop assistant; CL:个[gè]"
 ],
 [
 "营业税",
@@ -339,10 +441,22 @@
 "mining industry"
 ],
 [
+"林业局",
+5.55,
+"???",
+"???"
+],
+[
 "业已",
 5.49,
 "yè yǐ",
 "already"
+],
+[
+"信息产业部",
+5.43,
+"???",
+"???"
 ],
 [
 "同业",
@@ -351,10 +465,10 @@
 "same trade or business; person in the same trade or business"
 ],
 [
-"从业",
-5.17,
-"cóng yè",
-"to practice (a trade)"
+"零售业",
+5.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

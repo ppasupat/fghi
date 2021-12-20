@@ -1,36 +1,42 @@
 {
 "char": "哈",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "sound of laughter",
 "pron": "hā, hǎ, hà"
 },
 "words": [
 [
-"哈",
-5,
-"Hā",
-"abbr. for 哈薩克斯坦|哈萨克斯坦[Ha1 sa4 ke4 si1 tan3], Kazakhstan; abbr. for 哈爾濱|哈尔滨[Ha1 er3 bin1], Harbin"
-],
-[
-"哈",
-5,
-"hā",
-"(interj.) ha!; (onom. for laughter); (slang) to be infatuated with; to adore; abbr. for 哈士奇[ha1 shi4 qi2], husky (dog)"
-],
-[
-"哈",
-5,
-"hǎ",
-"a Pekinese; a pug; (dialect) to scold"
+"哈哈",
+3,
+"hā hā",
+"(onom.) laughing out loud"
 ]
 ],
 "extraWords": [
 [
-"哈哈",
-368.56,
-"hā hā",
-"(onom.) laughing out loud"
+"哈",
+168.41,
+"Hā",
+"abbr. for 哈萨克斯坦[Hā sà kè sī tǎn], Kazakhstan; abbr. for 哈尔滨[Hā ěr bīn], Harbin"
+],
+[
+"哈",
+168.41,
+"hā",
+"(interj.) ha!; (onom. for laughter); (slang) to be infatuated with; to adore; abbr. for 哈士奇[hā shì qí], husky (dog)"
+],
+[
+"哈",
+168.41,
+"hǎ",
+"a Pekinese; a pug; (dialect) to scold"
+],
+[
+"哈哈哈",
+54.18,
+"???",
+"???"
 ],
 [
 "哈里",
@@ -42,7 +48,7 @@
 "哈尔滨",
 19.41,
 "Hā ěr bīn",
-"Harbin, subprovincial city and capital of Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1] in northeast China"
+"Harbin, subprovincial city and capital of Heilongjiang province 黑龙江[Hēi lóng jiāng] in northeast China"
 ],
 [
 "哈利",
@@ -75,10 +81,22 @@
 "Harvard"
 ],
 [
+"哈维",
+9.54,
+"???",
+"???"
+],
+[
 "哈马斯",
 9.33,
 "Hā mǎ sī",
 "Hamas (radical Palestinian group)"
+],
+[
+"啊哈",
+8.08,
+"???",
+"???"
 ],
 [
 "哈罗德",
@@ -90,7 +108,13 @@
 "哈尔滨市",
 6.8,
 "Hā ěr bīn shì",
-"Harbin, subprovincial city and capital of Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1] in northeast China"
+"Harbin, subprovincial city and capital of Heilongjiang province 黑龙江[Hēi lóng jiāng] in northeast China"
+],
+[
+"哈里斯",
+6.74,
+"???",
+"???"
 ],
 [
 "哈哈大笑",

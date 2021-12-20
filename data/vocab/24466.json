@@ -1,22 +1,28 @@
 {
 "char": "徒",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "disciple, follower; go on foot",
 "pron": "tú"
 },
 "words": [
 [
-"歹徒",
-6,
-"dǎi tú",
-"evildoer; malefactor; gangster; hoodlum"
-],
-[
 "徒弟",
 6,
 "tú dì",
 "apprentice; disciple"
+],
+[
+"歹徒",
+7,
+"dǎi tú",
+"evildoer; malefactor; gangster; hoodlum"
+],
+[
+"徒步",
+7,
+"tú bù",
+"to be on foot"
 ]
 ],
 "extraWords": [
@@ -31,6 +37,18 @@
 13.13,
 "yǒu qī tú xíng",
 "limited term of imprisonment (i.e. anything less than life imprisonment)"
+],
+[
+"徒",
+12.8,
+"Tú",
+"surname Tu"
+],
+[
+"徒",
+12.8,
+"tú",
+"disciple; apprentice; believer; on foot; bare or empty; to no avail; only; prison sentence"
 ],
 [
 "信徒",

@@ -1,6 +1,6 @@
 {
 "char": "猜",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "guess, conjecture, suppose; feel",
 "pron": "cāi"
@@ -8,23 +8,35 @@
 "words": [
 [
 "猜",
-4,
+5,
 "cāi",
 "to guess"
-]
 ],
-"extraWords": [
 [
 "猜测",
-15.96,
+5,
 "cāi cè",
 "to guess; to conjecture; to surmise"
 ],
 [
+"猜谜",
+7,
+"cāi mí",
+"to answer a riddle; to guess (i.e. form an opinion without much evidence)"
+],
+[
 "猜想",
-8.05,
+7,
 "cāi xiǎng",
 "to guess; to conjecture; to suppose; to suspect"
+]
+],
+"extraWords": [
+[
+"猜猜",
+36.25,
+"???",
+"???"
 ]
 ],
 "strokes": [

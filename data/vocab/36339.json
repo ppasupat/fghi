@@ -1,20 +1,62 @@
 {
 "char": "跳",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "jump, leap, vault, bounce; dance",
 "pron": "tiào"
 },
 "words": [
 [
+"跳",
+3,
+"tiào",
+"to jump; to hop; to skip over; to bounce; to palpitate"
+],
+[
+"跳高",
+3,
+"tiào gāo",
+"high jump (athletics)"
+],
+[
 "跳舞",
-2,
+3,
 "tiào wǔ",
 "to dance"
 ],
 [
-"跳跃",
+"跳远",
+3,
+"tiào yuǎn",
+"long jump (athletics)"
+],
+[
+"跳水",
 6,
+"tiào shuǐ",
+"to dive (into water); (sports) diving; to commit suicide by jumping into water; (fig.) (of stock prices etc) to fall dramatically"
+],
+[
+"跳槽",
+7,
+"tiào cáo",
+"to change jobs; job-hopping"
+],
+[
+"跳动",
+7,
+"tiào dòng",
+"to throb; to pulse; to bounce; to jiggle; to jump about"
+],
+[
+"跳伞",
+7,
+"tiào sǎn",
+"to parachute; to bail out; parachute jumping"
+],
+[
+"跳跃",
+7,
 "tiào yuè",
 "to jump; to leap; to bound; to skip"
 ]
@@ -27,22 +69,16 @@
 "heartbeat; pulse"
 ],
 [
-"跳水",
-10.66,
-"tiào shuǐ",
-"to dive (into water); (sports) diving; to commit suicide by jumping into water; (fig.) (of stock prices etc) to fall dramatically"
-],
-[
 "跳出",
 8.59,
 "tiào chū",
 "to jump out; fig. to appear suddenly"
 ],
 [
-"跳动",
-5.9,
-"tiào dòng",
-"to throb; to pulse; to bounce; to jiggle; to jump about"
+"跳下",
+8.07,
+"???",
+"???"
 ],
 [
 "跳楼",

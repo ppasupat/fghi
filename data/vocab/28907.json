@@ -1,6 +1,6 @@
 {
 "char": "烫",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "scald, heat; wash; iron clothes",
 "pron": "tàng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "烫",
-5,
+7,
 "tàng",
 "to scald; to burn (by scalding); to blanch (cooking); to heat (sth) up in hot water; to perm; to iron; scalding hot"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"烫伤",
+3.03,
+"tàng shāng",
+"to scald"
+],
+[
+"烫发",
+2.49,
+"tàng fà",
+"perm (hairstyle)"
+]
+],
 "strokes": [
 "M 292 744 Q 317 726 344 703 Q 357 693 372 695 Q 382 696 385 708 Q 388 721 378 748 Q 366 775 284 788 Q 269 789 264 787 Q 260 783 262 771 Q 266 761 292 744 Z",
 "M 207 642 Q 243 605 275 590 Q 288 589 296 600 Q 300 612 297 626 Q 285 662 234 672 Q 197 678 193 675 Q 187 674 190 663 Q 191 653 207 642 Z",

@@ -1,6 +1,6 @@
 {
 "char": "京",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "capital city",
 "pron": "jīng"
@@ -14,9 +14,9 @@
 ],
 [
 "京剧",
-4,
+3,
 "Jīng jù",
-"Beijing opera; CL:場|场[chang3],齣|出[chu1]"
+"Beijing opera; CL:场[chǎng],出[chū]"
 ]
 ],
 "extraWords": [
@@ -25,6 +25,18 @@
 88.52,
 "Nán jīng",
 "Nanjing subprovincial city on the Changjiang, capital of Jiangsu province 江蘇|江苏; capital of China at different historical periods"
+],
+[
+"京",
+67.77,
+"Jīng",
+"abbr. for Beijing; surname Jing; Jing ethnic minority"
+],
+[
+"京",
+67.77,
+"jīng",
+"capital city of a country; big; algebraic term for a large number (old); artificial mound (old)"
 ],
 [
 "北京时间",
@@ -36,13 +48,19 @@
 "北京市",
 54.44,
 "Běi jīng Shì",
-"Beijing; capital of People's Republic of China; one of the four municipalities 直轄市|直辖市[zhi2 xia2 shi4]"
+"Beijing; capital of People's Republic of China; one of the four municipalities 直辖市[zhí xiá shì]"
 ],
 [
 "东京",
 24.12,
 "Dōng jīng",
 "Tokyo, capital of Japan; Tonkin (northern Vietnam during the French colonial period)"
+],
+[
+"北京奥运会",
+13.43,
+"???",
+"???"
 ],
 [
 "南京市",
@@ -69,10 +87,16 @@
 "Peking Gazette (official government bulletin)"
 ],
 [
+"北京队",
+6.02,
+"???",
+"???"
+],
+[
 "北京人",
 5.19,
 "Běi jīng rén",
-"Beijing resident; Peking ape-man, Homo erectus pekinensis (c. 600,000 BC), discovered in 1921 at Zhoukoudian 周口店[Zhou1 kou3 dian4], Beijing"
+"Beijing resident; Peking ape-man, Homo erectus pekinensis (c. 600,000 BC), discovered in 1921 at Zhoukoudian 周口店[Zhōu kǒu diàn], Beijing"
 ]
 ],
 "strokes": [

@@ -1,12 +1,31 @@
 {
 "char": "碾",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "roller, crush; roll",
 "pron": "niǎn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"碾",
+4.69,
+"niǎn",
+"stone roller; roller and millstone; to grind; to crush; to husk"
+],
+[
+"碾碎",
+1.58,
+"niǎn suì",
+"to pulverize; to crush"
+],
+[
+"碾米",
+0.28,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 248 626 Q 401 671 404 673 Q 413 680 408 689 Q 401 699 372 705 Q 347 708 257 676 Q 187 657 139 649 Q 105 640 130 626 Q 164 611 207 616 L 248 626 Z",
 "M 222 452 Q 244 500 272 564 Q 285 600 286 600 Q 280 618 248 626 C 219 635 200 642 207 616 Q 226 568 182 464 Q 178 457 175 448 L 151 399 Q 96 311 19 218 Q 13 212 22 212 Q 82 233 165 351 L 222 452 Z",

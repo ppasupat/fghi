@@ -1,16 +1,46 @@
 {
 "char": "金",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "gold; metals in general; money",
 "pron": "jīn"
 },
 "words": [
 [
+"金",
+3,
+"Jīn",
+"surname Jin; surname Kim (Korean); Jurchen Jin dynasty (1115-1234)"
+],
+[
+"金",
+3,
+"jīn",
+"gold; chemical element Au; generic term for lustrous and ductile metals; money; golden; highly respected; one of the eight categories of ancient musical instruments 八音[bā yīn]"
+],
+[
+"金牌",
+3,
+"jīn pái",
+"gold medal; CL:枚[méi]"
+],
+[
 "现金",
-4,
+3,
 "xiàn jīn",
 "cash"
+],
+[
+"资金",
+3,
+"zī jīn",
+"funds; funding; capital"
+],
+[
+"黄金",
+4,
+"huáng jīn",
+"gold; golden (opportunity); prime (time)"
 ],
 [
 "奖金",
@@ -19,22 +49,22 @@
 "premium; award money; bonus"
 ],
 [
-"金属",
-5,
-"jīn shǔ",
-"metal; CL:種|种[zhong3]"
+"奖学金",
+4,
+"jiǎng xué jīn",
+"scholarship; CL:笔[bǐ]"
 ],
 [
-"资金",
-5,
-"zī jīn",
-"funds; funding; capital"
+"美金",
+4,
+"Měi jīn",
+"US dollar; USD"
 ],
 [
-"黄金",
+"基金",
 5,
-"huáng jīn",
-"gold; golden (opportunity); prime (time)"
+"jī jīn",
+"fund"
 ],
 [
 "押金",
@@ -43,37 +73,79 @@
 "deposit; down payment"
 ],
 [
-"基金",
+"金额",
 6,
-"jī jīn",
-"fund"
+"jīn é",
+"sum of money; monetary value"
+],
+[
+"金钱",
+6,
+"jīn qián",
+"money; currency"
 ],
 [
 "金融",
 6,
 "jīn róng",
 "banking; finance; financial"
+],
+[
+"租金",
+6,
+"zū jīn",
+"rent"
+],
+[
+"定金",
+7,
+"dìng jīn",
+"down payment; advance payment"
+],
+[
+"公积金",
+7,
+"gōng jī jīn",
+"official reserves; accumulated fund"
+],
+[
+"金属",
+7,
+"jīn shǔ",
+"metal; CL:种[zhǒng]"
+],
+[
+"金子",
+7,
+"Jīn zǐ",
+"Kaneko (Japanese surname)"
+],
+[
+"金子",
+7,
+"jīn zi",
+"gold"
+],
+[
+"金字塔",
+7,
+"jīn zì tǎ",
+"pyramid (building or structure)"
+],
+[
+"退休金",
+7,
+"tuì xiū jīn",
+"retirement pay; pension"
+],
+[
+"养老金",
+7,
+"yǎng lǎo jīn",
+"pension"
 ]
 ],
 "extraWords": [
-[
-"金额",
-56.62,
-"jīn é",
-"sum of money; monetary value"
-],
-[
-"美金",
-36.34,
-"Měi jīn",
-"US dollar; USD"
-],
-[
-"金牌",
-33.32,
-"jīn pái",
-"gold medal; CL:枚[mei2]"
-],
 [
 "金牛座",
 25.66,
@@ -85,24 +157,6 @@
 25.25,
 "jīn fà",
 "blond; blonde; fair-haired"
-],
-[
-"金钱",
-23.56,
-"jīn qián",
-"money; currency"
-],
-[
-"公积金",
-16.88,
-"gōng jī jīn",
-"official reserves; accumulated fund"
-],
-[
-"租金",
-15.48,
-"zū jīn",
-"rent"
 ],
 [
 "金币",
@@ -117,18 +171,6 @@
 "San Francisco, California"
 ],
 [
-"金子",
-12.67,
-"Jīn zǐ",
-"Kaneko (Japanese surname)"
-],
-[
-"金子",
-12.67,
-"jīn zi",
-"gold"
-],
-[
 "基金会",
 12.49,
 "jī jīn huì",
@@ -141,10 +183,10 @@
 "golden; gold (color)"
 ],
 [
-"奖学金",
-11.98,
-"jiǎng xué jīn",
-"scholarship; CL:筆|笔[bi3]"
+"本基金",
+11.66,
+"???",
+"???"
 ],
 [
 "金刚",
@@ -189,18 +231,6 @@
 "ransom"
 ],
 [
-"养老金",
-7.34,
-"yǎng lǎo jīn",
-"pension"
-],
-[
-"金字塔",
-7.2,
-"jīn zì tǎ",
-"pyramid (building or structure)"
-],
-[
 "金正日",
 7.0,
 "Jīn Zhèng rì",
@@ -213,10 +243,16 @@
 "non-ferrous metals (all metals excluding iron, chromium, manganese and their alloys)"
 ],
 [
+"赏金",
+6.74,
+"???",
+"???"
+],
+[
 "金山",
 6.73,
 "Jīn shān",
-"Jinshan suburban district of Shanghai; Jinshan or Chinshan township in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+"Jinshan suburban district of Shanghai; Jinshan or Chinshan township in New Taipei City 新北市[Xīn běi shì], Taiwan"
 ],
 [
 "淘金",
@@ -237,10 +273,22 @@
 "tuna"
 ],
 [
+"金陵晚报",
+5.84,
+"???",
+"???"
+],
+[
 "金银",
 5.66,
 "jīn yín",
 "gold and silver"
+],
+[
+"准备金率",
+5.58,
+"???",
+"???"
 ],
 [
 "金库",

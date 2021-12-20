@@ -1,6 +1,6 @@
 {
 "char": "渲",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "add repeated washes of color",
 "pron": "xuàn"
@@ -12,6 +12,18 @@
 6.08,
 "xuàn rǎn",
 "rendering (computing); to add washes of ink or color to a drawing (Chinese painting); to exaggerate; to embellish"
+],
+[
+"渲",
+2.5,
+"xuàn",
+"wash (color)"
+],
+[
+"陈扬渲",
+0.01,
+"???",
+"???"
 ]
 ],
 "strokes": [

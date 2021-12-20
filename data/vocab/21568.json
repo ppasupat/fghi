@@ -1,6 +1,6 @@
 {
 "char": "呀",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "particle used to express surprise or mild emphasis; (Cant.) slurred form of the number ten",
 "pron": "yā, ya"
@@ -11,14 +11,20 @@
 4,
 "ya",
 "(particle equivalent to 啊 after a vowel, expressing surprise or doubt)"
+],
+[
+"哎呀",
+7,
+"āi yā",
+"interjection of wonder, shock or admiration"
 ]
 ],
 "extraWords": [
 [
-"哎呀",
-20.28,
-"āi yā",
-"interjection of wonder, shock or admiration"
+"呀呀",
+5.89,
+"???",
+"???"
 ]
 ],
 "strokes": [

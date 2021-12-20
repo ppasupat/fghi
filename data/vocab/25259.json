@@ -1,6 +1,6 @@
 {
 "char": "披",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "wear; split; crack",
 "pron": "pī"
@@ -11,15 +11,15 @@
 5,
 "pī",
 "to drape over one's shoulders; to open; to unroll; to split open; to spread out"
+],
+[
+"披露",
+7,
+"pī lù",
+"to reveal; to publish; to make public; to announce"
 ]
 ],
 "extraWords": [
-[
-"披露",
-43.61,
-"pī lù",
-"to reveal; to publish; to make public; to announce"
-],
 [
 "披萨",
 5.51,

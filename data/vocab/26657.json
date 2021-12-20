@@ -1,6 +1,6 @@
 {
 "char": "校",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "school; military field officer",
 "pron": "jiào, xiào"
@@ -10,16 +10,40 @@
 "学校",
 1,
 "xué xiào",
-"school; CL:所[suo3]"
+"school; CL:所[suǒ]"
+],
+[
+"校园",
+2,
+"xiào yuán",
+"campus"
 ],
 [
 "校长",
-3,
+2,
 "xiào zhǎng",
-"(college, university) president; headmaster; CL:個|个[ge4],位[wei4],名[ming2]"
+"(college, university) president; headmaster; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"夜校",
+7,
+"yè xiào",
+"evening school; night school"
 ]
 ],
 "extraWords": [
+[
+"校",
+122.35,
+"jiào",
+"to proofread; to check; to compare"
+],
+[
+"校",
+122.35,
+"xiào",
+"school; military officer; CL:所[suǒ]"
+],
 [
 "高校",
 66.46,
@@ -31,12 +55,6 @@
 41.58,
 "shàng xiào",
 "high ranking officer in Chinese army; colonel"
-],
-[
-"校园",
-32.82,
-"xiào yuán",
-"campus"
 ],
 [
 "院校",
@@ -61,6 +79,12 @@
 10.19,
 "zhōng xiào",
 "middle ranking officer in Chinese army; lieutenant colonel; commander"
+],
+[
+"校门",
+5.72,
+"???",
+"???"
 ],
 [
 "校服",

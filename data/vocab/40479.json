@@ -1,6 +1,6 @@
 {
 "char": "鸟",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "bird; KangXi radical 196",
 "pron": "niǎo"
@@ -8,15 +8,21 @@
 "words": [
 [
 "鸟",
-3,
+2,
 "diǎo",
-"variant of 屌[diao3]; penis"
+"variant of 屌[diǎo]; penis"
 ],
 [
 "鸟",
-3,
+2,
 "niǎo",
-"bird; CL:隻|只[zhi1],群[qun2]; (dialect) to pay attention to; (intensifier) damned; goddam"
+"bird; CL:只[zhī],群[qún]; (dialect) to pay attention to; (intensifier) damned; goddam"
+],
+[
+"鸟巢",
+7,
+"niǎo cháo",
+"bird's nest; nickname for Beijing 2008 Olympic stadium"
 ]
 ],
 "extraWords": [

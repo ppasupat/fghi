@@ -1,25 +1,32 @@
 {
 "char": "盆",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "basin, tub, pot, bowl",
 "pron": "pén"
 },
 "words": [
 [
+"脸盆",
+5,
+"liǎn pén",
+"washbowl; basin for washing hands and face; CL:个[gè]"
+],
+[
 "盆",
 5,
 "pén",
-"basin; flower pot; unit of volume equal to 12 斗[dou3] and 8 升[sheng1], approx 128 liters; CL:個|个[ge4]"
+"basin; flower pot; unit of volume equal to 12 斗[dǒu] and 8 升[shēng], approx 128 liters; CL:个[gè]"
+]
 ],
+"extraWords": [
 [
 "盆地",
-6,
+5.06,
 "pén dì",
 "(geography) basin; depression"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 359 724 Q 363 669 268 565 Q 264 562 260 558 Q 230 530 158 475 Q 151 471 159 467 Q 213 467 316 552 Q 317 555 321 557 Q 358 591 416 660 Q 423 670 429 673 Q 436 677 436 687 Q 433 712 396 729 Q 377 738 367 737 Q 358 736 359 724 Z",
 "M 533 796 Q 572 769 654 659 Q 751 533 793 530 Q 872 526 938 531 Q 972 534 969 543 Q 969 547 937 561 Q 763 630 709 676 Q 658 719 607 776 Q 574 815 541 816 Q 525 817 521 813 Q 518 806 533 796 Z",

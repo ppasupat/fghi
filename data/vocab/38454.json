@@ -1,6 +1,6 @@
 {
 "char": "阶",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "stairs, steps; rank, degree",
 "pron": "jiē"
@@ -8,21 +8,33 @@
 "words": [
 [
 "阶段",
-5,
+4,
 "jiē duàn",
-"stage; section; phase; period; CL:個|个[ge4]"
+"stage; section; phase; period; CL:个[gè]"
 ],
 [
 "台阶",
-5,
+4,
 "tái jiē",
 "steps; flight of steps; step (over obstacle); fig. way out of an embarrassing situation; bench (geology)"
 ],
 [
 "阶层",
-6,
+7,
 "jiē céng",
 "hierarchy; stratum; social class"
+],
+[
+"阶级",
+7,
+"jiē jí",
+"(social) class; CL:个[gè]"
+],
+[
+"阶梯",
+7,
+"jiē tī",
+"flight of steps; (fig.) a means of advancement; stepping stone"
 ]
 ],
 "extraWords": [
@@ -33,10 +45,16 @@
 "proletariat"
 ],
 [
-"阶级",
-24.48,
-"jiē jí",
-"(social) class; CL:個|个[ge4]"
+"阶",
+31.84,
+"jiē",
+"variant of 阶[jiē]"
+],
+[
+"阶",
+31.84,
+"jiē",
+"rank or step; stairs"
 ],
 [
 "资产阶级",
@@ -67,6 +85,18 @@
 7.68,
 "jiē duàn xìng",
 "specific to a particular stage (of a project etc); interim (policy etc); occurring in stages; phased"
+],
+[
+"第一阶",
+6.97,
+"???",
+"???"
+],
+[
+"第二阶",
+6.59,
+"???",
+"???"
 ]
 ],
 "strokes": [

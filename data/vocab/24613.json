@@ -1,103 +1,115 @@
 {
 "char": "急",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "quick, quickly; urgent, pressing",
 "pron": "jí"
 },
 "words": [
 [
-"着急",
-3,
-"zháo jí",
-"to worry; to feel anxious; Taiwan pr. [zhao1 ji2]"
+"急",
+2,
+"jí",
+"urgent; pressing; rapid; hurried; worried; to make (sb) anxious"
 ],
 [
 "紧急",
-5,
+3,
 "jǐn jí",
 "urgent; emergency"
 ],
 [
-"急诊",
-5,
-"jí zhěn",
-"to give or receive urgent medical treatment; emergency treatment (at a hospital emergency department, or from a doctor on a house call)"
-],
-[
 "急忙",
-5,
+4,
 "jí máng",
 "hastily"
 ],
 [
-"急切",
-6,
-"jí qiè",
-"eager; impatient"
+"着急",
+4,
+"zháo jí",
+"to worry; to feel anxious; Taiwan pr. [zhao1 ji2]"
 ],
 [
-"急躁",
+"急救",
 6,
-"jí zào",
-"irritable; irascible; impetuous"
+"jí jiù",
+"first aid; emergency treatment"
 ],
 [
-"焦急",
+"应急",
 6,
-"jiāo jí",
-"anxiety; anxious"
+"yìng jí",
+"to respond to an emergency; to meet a contingency; (attributive) emergency"
 ],
 [
 "当务之急",
-6,
+7,
 "dāng wù zhī jí",
 "top priority job; matter of vital importance"
 ],
 [
 "急剧",
-6,
+7,
 "jí jù",
 "rapid; sudden"
 ],
 [
-"急功近利",
-6,
-"jí gōng jìn lì",
-"seeking instant benefit (idiom); shortsighted vision, looking only for fast return"
+"急迫",
+7,
+"jí pò",
+"urgent; pressing; imperative"
 ],
-[
-"急于求成",
-6,
-"jí yú qiú chéng",
-"anxious for quick results (idiom); to demand instant success; impatient for result; impetuous"
-]
-],
-"extraWords": [
 [
 "急性",
-25.28,
+7,
 "jí xìng",
 "acute"
 ],
 [
-"应急",
-22.92,
-"yìng jí",
-"to respond to an emergency; to meet a contingency; (attributive) emergency"
-],
-[
 "急需",
-12.69,
+7,
 "jí xū",
 "to urgently need; urgent need"
 ],
 [
-"急救",
-11.54,
-"jí jiù",
-"first aid; emergency treatment"
+"急于",
+7,
+"jí yú",
+"eager to; in a hurry to"
 ],
+[
+"急诊",
+7,
+"jí zhěn",
+"to give or receive urgent medical treatment; emergency treatment (at a hospital emergency department, or from a doctor on a house call)"
+],
+[
+"急转弯",
+7,
+"jí zhuǎn wān",
+"to make a sudden turn"
+],
+[
+"焦急",
+7,
+"jiāo jí",
+"anxiety; anxious"
+],
+[
+"危急",
+7,
+"wēi jí",
+"critical; desperate (situation)"
+],
+[
+"心急如焚",
+7,
+"xīn jí rú fén",
+"to burn with impatience; torn with anxiety"
+]
+],
+"extraWords": [
 [
 "急诊室",
 9.99,
@@ -105,10 +117,10 @@
 "emergency room"
 ],
 [
-"急于",
-8.73,
-"jí yú",
-"eager to; in a hurry to"
+"急事",
+8.5,
+"???",
+"???"
 ],
 [
 "急速",

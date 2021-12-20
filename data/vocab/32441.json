@@ -1,16 +1,16 @@
 {
 "char": "纹",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "line, streak, stripe; wrinkle",
 "pron": "wén"
 },
 "words": [
 [
-"皱纹",
-6,
-"zhòu wén",
-"wrinkle; CL:道[dao4]"
+"花纹",
+7,
+"huā wén",
+"decorative design"
 ]
 ],
 "extraWords": [
@@ -19,6 +19,18 @@
 56.01,
 "zhǐ wén",
 "fingerprint; the arches, loops and whorls on the fingers"
+],
+[
+"纹",
+30.88,
+"wén",
+"line; trace; mark; pattern; grain (of wood etc)"
+],
+[
+"皱纹",
+9.05,
+"zhòu wén",
+"wrinkle; CL:道[dào]"
 ],
 [
 "条纹",

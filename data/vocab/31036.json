@@ -1,6 +1,6 @@
 {
 "char": "礼",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "social custom; manners; courtesy; rites",
 "pron": "lǐ"
@@ -8,84 +8,102 @@
 "words": [
 [
 "礼物",
-3,
+2,
 "lǐ wù",
-"gift; present; CL:件[jian4],個|个[ge4],份[fen4]"
-],
-[
-"礼貌",
-4,
-"lǐ mào",
-"courtesy; manners"
-],
-[
-"礼拜天",
-4,
-"Lǐ bài tiān",
-"Sunday"
+"gift; present; CL:件[jiàn],个[gè],份[fèn]"
 ],
 [
 "婚礼",
-5,
+4,
 "hūn lǐ",
-"wedding ceremony; wedding; CL:場|场[chang3]"
+"wedding ceremony; wedding; CL:场[chǎng]"
 ],
 [
 "典礼",
-6,
+5,
 "diǎn lǐ",
 "celebration; ceremony"
 ],
 [
-"敬礼",
+"礼",
+5,
+"Lǐ",
+"surname Li; abbr. for 礼记[Lǐ jì], Classic of Rites"
+],
+[
+"礼",
+5,
+"lǐ",
+"gift; rite; ceremony; CL:份[fèn]; propriety; etiquette; courtesy"
+],
+[
+"礼拜",
+5,
+"lǐ bài",
+"week; religious service; worship; CL:个[gè]"
+],
+[
+"礼貌",
+5,
+"lǐ mào",
+"courtesy; manners"
+],
+[
+"礼堂",
 6,
+"lǐ táng",
+"assembly hall; auditorium; CL:座[zuò],处[chù]"
+],
+[
+"送礼",
+6,
+"sòng lǐ",
+"to give a present"
+],
+[
+"彬彬有礼",
+7,
+"bīn bīn yǒu lǐ",
+"refined and courteous; urbane"
+],
+[
+"敬礼",
+7,
 "jìng lǐ",
 "to salute; salute"
 ],
 [
-"礼节",
-6,
-"lǐ jié",
-"etiquette"
-],
-[
-"礼尚往来",
-6,
-"lǐ shàng wǎng lái",
-"lit. proper behavior is based on reciprocity (idiom); fig. to return politeness for politeness"
-]
-],
-"extraWords": [
-[
-"葬礼",
-34.88,
-"zàng lǐ",
-"burial; funeral"
-],
-[
-"礼拜",
-30.49,
-"lǐ bài",
-"week; religious service; worship; CL:個|个[ge4]"
-],
-[
-"礼品",
-17.67,
-"lǐ pǐn",
-"gift; present"
-],
-[
 "礼服",
-17.26,
+7,
 "lǐ fú",
 "ceremonial robe; formal attire (dinner suit, evening gown etc)"
 ],
 [
+"礼品",
+7,
+"lǐ pǐn",
+"gift; present"
+],
+[
 "礼仪",
-9.35,
+7,
 "lǐ yí",
 "etiquette; ceremony"
 ],
+[
+"洗礼",
+7,
+"xǐ lǐ",
+"baptism (lit. or fig.)"
+],
+[
+"葬礼",
+7,
+"zàng lǐ",
+"burial; funeral"
+]
+],
+"extraWords": [
 [
 "无礼",
 8.29,
@@ -93,10 +111,10 @@
 "rude; rudely"
 ],
 [
-"送礼",
-6.41,
-"sòng lǐ",
-"to give a present"
+"圣诞礼物",
+5.89,
+"???",
+"???"
 ]
 ],
 "strokes": [

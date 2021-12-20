@@ -1,30 +1,36 @@
 {
 "char": "柔",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "soft; gentle, pliant",
 "pron": "róu"
 },
 "words": [
 [
-"温柔",
-5,
-"wēn róu",
-"gentle and soft; tender"
-],
-[
 "柔和",
-6,
+7,
 "róu hé",
 "gentle; soft"
+],
+[
+"柔软",
+7,
+"róu ruǎn",
+"soft"
+],
+[
+"温柔",
+7,
+"wēn róu",
+"gentle and soft; tender"
 ]
 ],
 "extraWords": [
 [
-"柔软",
-12.4,
-"róu ruǎn",
-"soft"
+"柔",
+18.31,
+"róu",
+"soft; flexible; supple; yielding; rho (Greek letter Ρρ)"
 ]
 ],
 "strokes": [

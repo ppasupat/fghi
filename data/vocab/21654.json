@@ -1,6 +1,6 @@
 {
 "char": "咖",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "coffee; a phonetic",
 "pron": "gā, kā"
@@ -8,9 +8,9 @@
 "words": [
 [
 "咖啡",
-2,
+3,
 "kā fēi",
-"coffee (loanword); CL:杯[bei1]"
+"coffee (loanword); CL:杯[bēi]"
 ]
 ],
 "extraWords": [
@@ -21,10 +21,16 @@
 "café; coffee shop"
 ],
 [
+"咖",
+7.62,
+"kā",
+"coffee; class; grade"
+],
+[
 "咖啡馆",
 5.54,
 "kā fēi guǎn",
-"café; coffee shop; CL:家[jia1]"
+"café; coffee shop; CL:家[jiā]"
 ]
 ],
 "strokes": [

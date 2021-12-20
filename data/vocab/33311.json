@@ -1,16 +1,28 @@
 {
 "char": "舟",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "boat, ship; KangXi radical 137",
 "pron": "zhōu"
 },
 "words": [
 [
-"舟",
-6,
-"zhōu",
-"boat"
+"刻舟求剑",
+7,
+"kè zhōu qiú jiàn",
+"lit. a notch on the side of a boat to locate a sword dropped overboard (idiom); fig. an action made pointless by changed circumstances"
+],
+[
+"龙舟",
+7,
+"lóng zhōu",
+"dragon boat; imperial boat"
+],
+[
+"同舟共济",
+7,
+"tóng zhōu gòng jì",
+"cross a river in the same boat (idiom); fig. having common interests; obliged to collaborate towards common goals"
 ]
 ],
 "extraWords": [
@@ -19,6 +31,12 @@
 10.52,
 "Shén zhōu",
 "Shenzhou (spacecraft); Hasee (computer manufacturer)"
+],
+[
+"舟",
+8.15,
+"zhōu",
+"boat"
 ]
 ],
 "strokes": [

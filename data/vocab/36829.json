@@ -1,11 +1,17 @@
 {
 "char": "违",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "disobey, violate, defy; be apart from",
 "pron": "wéi"
 },
 "words": [
+[
+"违法",
+5,
+"wéi fǎ",
+"illegal; to break the law"
+],
 [
 "违反",
 5,
@@ -13,48 +19,48 @@
 "to violate (a law)"
 ],
 [
-"违背",
-6,
-"wéi bèi",
-"to go against; to be contrary to; to violate"
-]
-],
-"extraWords": [
-[
-"违法",
-69.46,
-"wéi fǎ",
-"illegal; to break the law"
-],
-[
 "违规",
-31.72,
+5,
 "wéi guī",
 "to violate (rules); irregular; illegal; corrupt"
 ],
 [
+"久违",
+7,
+"jiǔ wéi",
+"(haven't done sth) for a long time; a long time since we last met"
+],
+[
+"违背",
+7,
+"wéi bèi",
+"to go against; to be contrary to; to violate"
+],
+[
+"违约",
+7,
+"wéi yuē",
+"to break a promise; to violate an agreement; to default (on a loan or contract)"
+],
+[
 "违章",
-9.64,
+7,
 "wéi zhāng",
 "to break the rules; to violate regulations"
+]
+],
+"extraWords": [
+[
+"违",
+8.25,
+"wéi",
+"to disobey; to violate; to separate; to go against"
 ],
 [
 "违纪",
 7.26,
 "wéi jì",
 "lack of discipline; to break a rule; to violate discipline; to breach a principle"
-],
-[
-"久违",
-6.72,
-"jiǔ wéi",
-"(haven't done sth) for a long time; a long time since we last met"
-],
-[
-"违约",
-6.66,
-"wéi yuē",
-"to break a promise; to violate an agreement; to default (on a loan or contract)"
 ]
 ],
 "strokes": [

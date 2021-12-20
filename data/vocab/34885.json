@@ -1,6 +1,6 @@
 {
 "char": "衅",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "consecrate sacrificial vessels by smearing blood; rift",
 "pron": "xìn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "挑衅",
-6,
+7,
 "tiǎo xìn",
 "to provoke; provocation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"衅",
+1.67,
+"xìn",
+"quarrel; dispute; a blood sacrifice (arch.)"
+],
+[
+"寻衅",
+1.08,
+"xún xìn",
+"to pick a quarrel; to start a fight"
+]
+],
 "strokes": [
 "M 205 548 Q 239 600 259 635 Q 301 716 326 741 Q 342 759 325 771 Q 306 781 276 785 Q 248 789 237 781 Q 227 775 235 764 Q 250 740 204 609 Q 191 576 179 541 C 169 513 189 523 205 548 Z",
 "M 138 531 Q 119 544 97 549 Q 84 553 77 547 Q 70 540 77 528 Q 96 498 107 465 Q 116 431 138 291 C 143 261 177 269 173 299 Q 151 473 154 500 C 155 520 155 520 138 531 Z",

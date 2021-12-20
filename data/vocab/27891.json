@@ -1,6 +1,6 @@
 {
 "char": "泳",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "dive; swim",
 "pron": "yǒng"
@@ -8,23 +8,29 @@
 "words": [
 [
 "游泳",
-2,
+3,
 "yóu yǒng",
 "swimming; to swim"
+],
+[
+"游泳池",
+5,
+"yóu yǒng chí",
+"swimming pool; CL:场[chǎng]"
 ]
 ],
 "extraWords": [
-[
-"游泳池",
-16.07,
-"yóu yǒng chí",
-"swimming pool; CL:場|场[chang3]"
-],
 [
 "泳池",
 10.52,
 "yǒng chí",
 "swimming pond"
+],
+[
+"泳",
+5.46,
+"yǒng",
+"swimming; to swim"
 ]
 ],
 "strokes": [

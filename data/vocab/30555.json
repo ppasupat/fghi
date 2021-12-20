@@ -1,6 +1,6 @@
 {
 "char": "睛",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "eyeball; pupil of eye",
 "pron": "jīng"
@@ -10,7 +10,19 @@
 "眼睛",
 2,
 "yǎn jing",
-"eye; CL:隻|只[zhi1],雙|双[shuang1]"
+"eye; CL:只[zhī],双[shuāng]"
+],
+[
+"画龙点睛",
+7,
+"huà lóng diǎn jīng",
+"to paint a dragon and dot in the eyes (idiom); fig. to add the vital finishing touch; the crucial point that brings the subject to life; a few words to clinch the point"
+],
+[
+"目不转睛",
+7,
+"mù bù zhuǎn jīng",
+"unable to take one's eyes off (idiom); to gaze steadily; to stare"
 ]
 ],
 "extraWords": [],

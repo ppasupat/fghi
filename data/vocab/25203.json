@@ -1,11 +1,24 @@
 {
 "char": "扳",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "pull; drag; right itself",
 "pron": "bān"
 },
-"words": [],
+"words": [
+[
+"扳",
+7,
+"bān",
+"to pull; to turn (sth) around; to turn around (a situation); to recoup"
+],
+[
+"扳",
+7,
+"pān",
+"variant of 攀[pān]"
+]
+],
 "extraWords": [
 [
 "扳机",

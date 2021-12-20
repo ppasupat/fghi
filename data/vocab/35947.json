@@ -1,6 +1,6 @@
 {
 "char": "豫",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "relaxed, comfortable, at ease",
 "pron": "yù"
@@ -11,14 +11,32 @@
 5,
 "yóu yù",
 "to hesitate"
+],
+[
+"毫不犹豫",
+7,
+"háo bù yóu yù",
+"without the slightest hesitation"
+],
+[
+"犹豫不决",
+7,
+"yóu yù bù jué",
+"hesitancy; indecision; to waver"
 ]
 ],
 "extraWords": [
 [
-"毫不犹豫",
-6.94,
-"háo bù yóu yù",
-"without the slightest hesitation"
+"豫",
+5.95,
+"Yù",
+"abbr. for Henan province 河南 in central China"
+],
+[
+"豫",
+5.95,
+"yù",
+"happy; carefree; at one's ease; variant of 预[yù]; old variant of 与[yù]"
 ]
 ],
 "strokes": [

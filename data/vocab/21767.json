@@ -1,6 +1,6 @@
 {
 "char": "唇",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "lips",
 "pron": "chún"
@@ -8,12 +8,24 @@
 "words": [
 [
 "嘴唇",
-6,
+7,
 "zuǐ chún",
-"lip; CL:片[pian4]"
+"lip; CL:片[piàn]"
 ]
 ],
 "extraWords": [
+[
+"唇",
+22.04,
+"chún",
+"lip"
+],
+[
+"唇",
+22.04,
+"chún",
+"variant of 唇[chún]"
+],
 [
 "唇膏",
 5.05,

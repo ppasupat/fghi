@@ -1,6 +1,6 @@
 {
 "char": "扑",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "pound, beat, strike; attack",
 "pron": "pū"
@@ -11,15 +11,27 @@
 6,
 "pū",
 "to throw oneself at; to pounce on; to devote one's energies; to flap; to flutter; to dab; to pat; to bend over"
-]
 ],
-"extraWords": [
+[
+"红扑扑",
+7,
+"hóng pū pū",
+"red; rosy; flushed"
+],
 [
 "扑克",
-10.11,
+7,
 "pū kè",
 "poker (game) (loanword); playing cards"
 ],
+[
+"扑面而来",
+7,
+"pū miàn ér lái",
+"lit. sth hits one in the face; directly in one's face; sth assaults the senses; blatant (advertising); eye-catching; (a smell) assaults the nostrils"
+]
+],
+"extraWords": [
 [
 "扑灭",
 6.59,

@@ -1,6 +1,6 @@
 {
 "char": "话",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "speech, talk, language; dialect",
 "pron": "huà"
@@ -13,103 +13,205 @@
 "to make a telephone call"
 ],
 [
+"电话",
+1,
+"diàn huà",
+"telephone; CL:部[bù]; phone call; CL:通[tōng]; phone number"
+],
+[
+"话",
+1,
+"huà",
+"dialect; language; spoken words; speech; talk; words; conversation; what sb said; CL:种[zhǒng],席[xí],句[jù],口[kǒu],番[fān]"
+],
+[
+"话",
+1,
+"huà",
+"old variant of 话[huà]"
+],
+[
 "说话",
-2,
+1,
 "shuō huà",
 "to speak; to say; to talk; to gossip; to tell stories; talk; word"
 ],
 [
-"笑话",
-4,
-"xiào hua",
-"joke; jest; CL:個|个[ge4]; to laugh at; to mock"
+"的话",
+2,
+"de huà",
+"if (coming after a conditional clause)"
 ],
 [
 "对话",
-4,
+2,
 "duì huà",
-"dialogue; CL:個|个[ge4]"
+"dialogue; CL:个[gè]"
+],
+[
+"讲话",
+2,
+"jiǎng huà",
+"a speech; to speak; to talk; to address; CL:个[gè]"
 ],
 [
 "普通话",
-4,
+2,
 "pǔ tōng huà",
 "Mandarin (common language); Putonghua (common speech of the Chinese language); ordinary speech"
 ],
 [
-"实话",
-5,
-"shí huà",
-"truth"
+"笑话",
+2,
+"xiào hua",
+"joke; jest; CL:个[gè]; to laugh at; to mock"
 ],
 [
-"废话",
-5,
-"fèi huà",
-"nonsense; rubbish; superfluous words; You don't say!; No kidding! (gently sarcastic)"
+"笑话儿",
+2,
+"xiào hua",
+"joke; jest; CL:个[gè]; to laugh at; to mock"
+],
+[
+"话剧",
+3,
+"huà jù",
+"stage play; modern drama; CL:台[tái],部[bù]"
 ],
 [
 "话题",
-5,
+3,
 "huà tí",
 "subject (of a talk or conversation); topic"
 ],
 [
+"谈话",
+3,
+"tán huà",
+"to talk (with sb); to have a conversation; talk; conversation; CL:次[cì]"
+],
+[
 "神话",
-5,
+4,
 "shén huà",
 "legend; fairy tale; myth; mythology"
 ],
 [
 "童话",
-6,
+4,
 "tóng huà",
 "children's fairy tales"
 ],
 [
-"话筒",
-6,
-"huà tǒng",
-"microphone; (telephone) receiver; handset"
+"一句话",
+5,
+"yī jù huà",
+"in a word; in short"
 ],
 [
-"闲话",
+"说实话",
 6,
-"xián huà",
-"casual conversation; chat; gossip; to talk about (whatever comes to mind)"
+"shuō shí huà",
+"to speak the truth; truth to tell; frankly"
+],
+[
+"通话",
+6,
+"tōng huà",
+"to hold a conversation; to talk over the telephone; phone call"
 ],
 [
 "不像话",
-6,
+7,
 "bù xiàng huà",
 "unreasonable; shocking; outrageous"
 ],
 [
+"废话",
+7,
+"fèi huà",
+"nonsense; rubbish; superfluous words; You don't say!; No kidding! (gently sarcastic)"
+],
+[
+"话费",
+7,
+"huà fèi",
+"call charge"
+],
+[
+"话筒",
+7,
+"huà tǒng",
+"microphone; (telephone) receiver; handset"
+],
+[
+"话语",
+7,
+"huà yǔ",
+"words; speech; utterance; discourse"
+],
+[
+"谎话",
+7,
+"huǎng huà",
+"lie"
+],
+[
+"实话",
+7,
+"shí huà",
+"truth"
+],
+[
+"实话实说",
+7,
+"shí huà shí shuō",
+"to tell the truth; to tell it as it is"
+],
+[
+"说老实话",
+7,
+"shuō lǎo shi huà",
+"to be honest; to tell the truth; to be frank"
+],
+[
+"说闲话",
+7,
+"shuō xián huà",
+"to chat; to gossip"
+],
+[
 "俗话",
-6,
+7,
 "sú huà",
 "common saying; proverb"
+],
+[
+"俗话说",
+7,
+"sú huà shuō",
+"as the proverb says; as they say..."
+],
+[
+"听话",
+7,
+"tīng huà",
+"to do what one is told; obedient"
+],
+[
+"无话可说",
+7,
+"wú huà kě shuō",
+"to have nothing to say (idiom)"
+],
+[
+"心里话",
+7,
+"xīn li huà",
+"(to express one's) true feelings; what is on one's mind; secret mind"
 ]
 ],
 "extraWords": [
-[
-"电话",
-547.72,
-"diàn huà",
-"telephone; CL:部[bu4]; phone call; CL:通[tong1]; phone number"
-],
-[
-"谈话",
-60.3,
-"tán huà",
-"to talk (with sb); to have a conversation; talk; conversation; CL:次[ci4]"
-],
-[
-"讲话",
-57.37,
-"jiǎng huà",
-"a speech; to speak; to talk; to address; CL:個|个[ge4]"
-],
 [
 "话说",
 48.04,
@@ -117,58 +219,10 @@
 "It is said that ... (at the start of a narrative); to discuss; to recount"
 ],
 [
-"说实话",
-45.67,
-"shuō shí huà",
-"to speak the truth; truth to tell; frankly"
-],
-[
-"一句话",
-44.88,
-"yī jù huà",
-"in a word; in short"
-],
-[
-"的话",
-33.09,
-"de huà",
-"if (coming after a conditional clause)"
-],
-[
-"通话",
-28.62,
-"tōng huà",
-"to hold a conversation; to talk over the telephone; phone call"
-],
-[
-"话语",
-16.53,
-"huà yǔ",
-"words; speech; utterance; discourse"
-],
-[
-"听话",
-13.29,
-"tīng huà",
-"to do what one is told; obedient"
-],
-[
-"谎话",
-11.18,
-"huǎng huà",
-"lie"
-],
-[
-"话剧",
-10.23,
-"huà jù",
-"stage play; modern drama; CL:臺|台[tai2],部[bu4]"
-],
-[
-"实话实说",
-10.02,
-"shí huà shí shuō",
-"to tell the truth; to tell it as it is"
+"真话",
+11.69,
+"???",
+"???"
 ],
 [
 "说来话长",
@@ -183,6 +237,12 @@
 "profanity; obscene language; speaking rudely"
 ],
 [
+"电话号码",
+6.72,
+"???",
+"???"
+],
+[
 "坏话",
 6.47,
 "huài huà",
@@ -192,7 +252,7 @@
 "鬼话",
 6.47,
 "guǐ huà",
-"lie; false words; nonsense; CL:篇[pian1]"
+"lie; false words; nonsense; CL:篇[piān]"
 ],
 [
 "屁话",
@@ -205,6 +265,12 @@
 5.83,
 "huà yīn",
 "one's speaking voice; tone; implication"
+],
+[
+"接电话",
+5.7,
+"???",
+"???"
 ],
 [
 "问话",

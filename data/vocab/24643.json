@@ -1,12 +1,31 @@
 {
 "char": "恃",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "rely on, presume on, trust to",
 "pron": "shì"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"恃",
+2.14,
+"shì",
+"to rely on; mother (formal)"
+],
+[
+"有恃无恐",
+1.31,
+"yǒu shì wú kǒng",
+"secure in the knowledge that one has backing"
+],
+[
+"自恃",
+0.85,
+"zì shì",
+"self-esteem; self-reliance; overconfident; conceited"
+]
+],
 "strokes": [
 "M 151 524 Q 133 460 105 401 Q 87 365 111 332 Q 121 314 141 330 Q 162 349 173 384 Q 188 430 185 467 Q 186 501 175 527 Q 169 534 163 535 Q 154 534 151 524 Z",
 "M 309 576 Q 342 558 383 526 Q 396 516 409 519 Q 419 520 421 532 Q 424 545 412 570 Q 405 586 377 595 Q 317 607 310 604 C 280 600 283 591 309 576 Z",

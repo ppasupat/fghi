@@ -1,24 +1,30 @@
 {
 "char": "眨",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "wink",
 "pron": "zhǎ"
 },
 "words": [
 [
-"眨",
-6,
-"zhǎ",
-"to blink; to wink"
+"眨眼",
+7,
+"zhǎ yǎn",
+"to blink; to wink; in the twinkling of an eye"
 ]
 ],
 "extraWords": [
 [
-"眨眼",
-7.24,
-"zhǎ yǎn",
-"to blink; to wink; in the twinkling of an eye"
+"眨",
+6.38,
+"zhǎ",
+"to blink; to wink"
+],
+[
+"一眨眼",
+1.56,
+"yī zhǎ yǎn",
+"in a wink"
 ]
 ],
 "strokes": [

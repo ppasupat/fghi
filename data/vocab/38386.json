@@ -1,11 +1,23 @@
 {
 "char": "闲",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "fence, guard; defend; idle time",
 "pron": "xián"
 },
 "words": [
+[
+"闲",
+5,
+"xián",
+"enclosure; (variant of 闲[xián]) idle; unoccupied; leisure"
+],
+[
+"闲",
+5,
+"xián",
+"idle; unoccupied; leisure"
+],
 [
 "休闲",
 5,
@@ -13,16 +25,22 @@
 "leisure; relaxation; not working; idle; to enjoy leisure; to lie fallow"
 ],
 [
-"空闲",
-5,
-"kòng xián",
-"idle; free time; leisure; unused (place)"
+"说闲话",
+7,
+"shuō xián huà",
+"to chat; to gossip"
 ],
 [
-"闲话",
-6,
-"xián huà",
-"casual conversation; chat; gossip; to talk about (whatever comes to mind)"
+"悠闲",
+7,
+"yōu xián",
+"variant of 悠閒|悠闲; leisurely"
+],
+[
+"悠闲",
+7,
+"yōu xián",
+"leisurely; carefree; relaxed"
 ]
 ],
 "extraWords": [
@@ -31,18 +49,6 @@
 7.94,
 "xián zhì",
 "to leave sth unused; to lie idle"
-],
-[
-"悠闲",
-6.2,
-"yōu xián",
-"variant of 悠閒|悠闲; leisurely"
-],
-[
-"悠闲",
-6.2,
-"yōu xián",
-"leisurely; carefree; relaxed"
 ],
 [
 "管闲事",

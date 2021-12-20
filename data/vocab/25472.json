@@ -1,19 +1,32 @@
 {
 "char": "掀",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "lift, raise; stir",
 "pron": "xiān"
 },
 "words": [
 [
+"掀",
+7,
+"xiān",
+"to lift (a lid); to rock; to convulse"
+],
+[
 "掀起",
-6,
+7,
 "xiān qǐ",
 "to lift; to raise in height; to begin; upsurge; to set off (a campaign)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"掀开",
+3.05,
+"xiān kāi",
+"to lift open; to tear open"
+]
+],
 "strokes": [
 "M 298 523 Q 352 541 358 546 Q 365 555 360 562 Q 353 572 325 575 Q 312 576 299 573 L 254 555 Q 175 525 124 515 Q 93 506 117 493 Q 159 480 224 500 Q 237 504 253 508 L 298 523 Z",
 "M 249 323 Q 246 238 246 131 Q 245 109 233 99 L 170 113 Q 142 126 142 117 Q 143 110 161 95 Q 215 44 227 17 Q 242 -14 256 -17 Q 269 -18 284 13 Q 302 55 303 123 Q 296 244 295 363 L 295 395 Q 295 459 298 523 L 299 573 Q 306 700 319 741 Q 335 769 284 789 Q 253 807 235 800 Q 219 794 234 773 Q 253 748 254 717 Q 255 699 254 555 L 253 508 Q 252 447 250 367 L 249 323 Z",

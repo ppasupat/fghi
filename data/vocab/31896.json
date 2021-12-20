@@ -1,19 +1,31 @@
 {
 "char": "粘",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "viscous, mucous; glutinous",
 "pron": "nián, zhān"
 },
 "words": [
 [
-"粘贴",
-5,
-"zhān tiē",
-"to stick; to affix; to adhere; to paste (as in \"copy and paste\"); Taiwan pr. [nian2 tie1]; also written 黏貼|黏贴[nian2 tie1]"
+"粘",
+7,
+"nián",
+"variant of 黏[nián]"
+],
+[
+"粘",
+7,
+"zhān",
+"to glue; to paste; to adhere; to stick to"
 ]
 ],
 "extraWords": [
+[
+"粘膜",
+9.12,
+"???",
+"???"
+],
 [
 "粘连",
 5.67,

@@ -1,6 +1,6 @@
 {
 "char": "必",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "surely, most certainly; must",
 "pron": "bì"
@@ -8,77 +8,95 @@
 "words": [
 [
 "必须",
-3,
+2,
 "bì xū",
 "to have to; must; compulsory; necessarily"
 ],
 [
-"必要",
-5,
-"bì yào",
-"necessary; essential; indispensable; required"
-],
-[
-"何必",
-5,
-"hé bì",
-"there is no need; why should"
-],
-[
 "必然",
-5,
+3,
 "bì rán",
 "inevitable; certain; necessity"
 ],
 [
-"未必",
-5,
-"wèi bì",
-"not necessarily; maybe not"
+"必要",
+3,
+"bì yào",
+"necessary; essential; indispensable; required"
 ],
-[
-"务必",
-6,
-"wù bì",
-"must; to need to; to be sure to"
-],
-[
-"势必",
-6,
-"shì bì",
-"to be bound to; undoubtedly will"
-]
-],
-"extraWords": [
 [
 "不必",
-73.57,
+3,
 "bù bì",
 "need not; does not have to; not necessarily"
 ],
 [
+"未必",
+4,
+"wèi bì",
+"not necessarily; maybe not"
+],
+[
+"必",
+5,
+"bì",
+"certainly; must; will; necessarily"
+],
+[
+"必需",
+5,
+"bì xū",
+"to need; to require; essential; indispensable"
+],
+[
 "必将",
-21.14,
+6,
 "bì jiāng",
 "inevitably"
 ],
+[
+"必修",
+6,
+"bì xiū",
+"(of an academic course) required; compulsory"
+],
+[
+"必不可少",
+7,
+"bì bù kě shǎo",
+"absolutely necessary; indispensable; essential"
+],
+[
+"必定",
+7,
+"bì dìng",
+"to be bound to; to be sure to"
+],
+[
+"何必",
+7,
+"hé bì",
+"there is no need; why should"
+],
+[
+"势必",
+7,
+"shì bì",
+"to be bound to; undoubtedly will"
+],
+[
+"务必",
+7,
+"wù bì",
+"must; to need to; to be sure to"
+]
+],
+"extraWords": [
 [
 "必备",
 13.45,
 "bì bèi",
 "essential"
-],
-[
-"必定",
-12.89,
-"bì dìng",
-"to be bound to; to be sure to"
-],
-[
-"必需",
-9.87,
-"bì xū",
-"to need; to require; essential; indispensable"
 ],
 [
 "不必要",
@@ -91,12 +109,6 @@
 7.6,
 "xiǎng bì",
 "presumably; probably; in all likelihood; surely"
-],
-[
-"必不可少",
-6.47,
-"bì bù kě shǎo",
-"absolutely necessary; indispensable; essential"
 ],
 [
 "必要性",

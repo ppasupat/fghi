@@ -1,6 +1,6 @@
 {
 "char": "肖",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "look like, resemble, be like",
 "pron": "xiāo, xiào"
@@ -8,15 +8,9 @@
 "words": [
 [
 "肖像",
-6,
+7,
 "xiào xiàng",
 "portrait (painting, photo etc); (in a general sense) representation of a person; likeness"
-],
-[
-"生肖",
-6,
-"shēng xiào",
-"one of the twelve animals symbolic of the earthly branches 地支[di4 zhi1]; animal from the Chinese zodiac"
 ]
 ],
 "extraWords": [
@@ -25,6 +19,18 @@
 15.35,
 "Xiāo ēn",
 "Sean, Shaun or Shawn (name)"
+],
+[
+"肖",
+5.57,
+"Xiāo",
+"surname Xiao; Taiwan pr. [Xiao4]"
+],
+[
+"肖",
+5.57,
+"xiào",
+"similar; resembling; to resemble; to be like"
 ]
 ],
 "strokes": [

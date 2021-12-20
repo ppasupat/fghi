@@ -1,6 +1,6 @@
 {
 "char": "漏",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "leak, drip; funnel; hour glass",
 "pron": "lòu"
@@ -13,30 +13,24 @@
 "to leak; to divulge; to leave out by mistake; waterclock or hourglass (old)"
 ],
 [
-"走漏",
-6,
-"zǒu lòu",
-"to leak (of information, liquid etc); to divulge"
-]
-],
-"extraWords": [
-[
 "漏洞",
-12.54,
+5,
 "lòu dòng",
 "leak; hole; gap; loophole"
 ],
+[
+"泄漏",
+7,
+"xiè lòu",
+"(of a liquid or gas) to leak; to divulge (a secret); to leak"
+]
+],
+"extraWords": [
 [
 "遗漏",
 8.47,
 "yí lòu",
 "to overlook; to miss; to omit"
-],
-[
-"泄漏",
-8.41,
-"xiè lòu",
-"(of a liquid or gas) to leak; to divulge (a secret); to leak"
 ],
 [
 "漏掉",

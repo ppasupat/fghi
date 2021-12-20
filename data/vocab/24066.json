@@ -1,43 +1,91 @@
 {
 "char": "市",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "market, fair; city, town; trade",
 "pron": "shì"
 },
 "words": [
 [
+"超市",
+2,
+"chāo shì",
+"supermarket; abbr. for 超級市場|超级市场; CL:家[jiā]"
+],
+[
+"市",
+2,
+"shì",
+"market; city; CL:个[gè]"
+],
+[
+"市长",
+2,
+"shì zhǎng",
+"mayor"
+],
+[
 "城市",
 3,
 "chéng shì",
-"city; town; CL:座[zuo4]"
-],
-[
-"超市",
-3,
-"chāo shì",
-"supermarket; abbr. for 超級市場|超级市场; CL:家[jia1]"
+"city; town; CL:座[zuò]"
 ],
 [
 "市场",
-5,
+3,
 "shì chǎng",
 "marketplace; market (also in abstract)"
-]
 ],
-"extraWords": [
+[
+"市区",
+4,
+"shì qū",
+"urban district; downtown; city center"
+],
+[
+"都市",
+6,
+"dū shì",
+"city; metropolis"
+],
 [
 "上市",
-202.39,
+6,
 "shàng shì",
 "to hit the market (of a new product); to float (a company on the stock market)"
 ],
 [
 "市民",
-130.04,
+6,
 "shì mín",
 "city resident"
 ],
+[
+"菜市场",
+7,
+"cài shì chǎng",
+"food market"
+],
+[
+"股市",
+7,
+"gǔ shì",
+"stock market"
+],
+[
+"市场经济",
+7,
+"shì chǎng jīng jì",
+"market economy"
+],
+[
+"夜市",
+7,
+"yè shì",
+"night market"
+]
+],
+"extraWords": [
 [
 "全市",
 77.37,
@@ -45,22 +93,10 @@
 "whole city"
 ],
 [
-"股市",
-70.11,
-"gǔ shì",
-"stock market"
-],
-[
 "北京市",
 54.44,
 "Běi jīng Shì",
-"Beijing; capital of People's Republic of China; one of the four municipalities 直轄市|直辖市[zhi2 xia2 shi4]"
-],
-[
-"市场经济",
-53.21,
-"shì chǎng jīng jì",
-"market economy"
+"Beijing; capital of People's Republic of China; one of the four municipalities 直辖市[zhí xiá shì]"
 ],
 [
 "市政府",
@@ -75,22 +111,10 @@
 "municipal committee"
 ],
 [
-"市长",
-31.06,
-"shì zhǎng",
-"mayor"
-],
-[
 "上海市",
 29.12,
 "Shàng hǎi shì",
 "Shanghai municipality in southeast China, abbr. 滬|沪"
-],
-[
-"都市",
-29.02,
-"dū shì",
-"city; metropolis"
 ],
 [
 "广州市",
@@ -109,6 +133,12 @@
 19.53,
 "shì chǎng huà",
 "marketization"
+],
+[
+"中国市场",
+16.49,
+"???",
+"???"
 ],
 [
 "证券市场",
@@ -162,7 +192,13 @@
 "重庆市",
 11.38,
 "Chóng qìng shì",
-"Chongqing city, formerly in Sichuan province, a municipality since 1997, short name 渝[Yu2]"
+"Chongqing city, formerly in Sichuan province, a municipality since 1997, short name 渝[Yú]"
+],
+[
+"入市",
+10.45,
+"???",
+"???"
 ],
 [
 "城市化",
@@ -183,28 +219,34 @@
 "bull market"
 ],
 [
+"市场价格",
+9.79,
+"???",
+"???"
+],
+[
 "市盈率",
 9.54,
 "shì yíng lǜ",
 "PE ratio"
 ],
 [
-"市区",
-9.3,
-"shì qū",
-"urban district; downtown; city center"
-],
-[
 "贵阳市",
 9.26,
 "Guì yáng Shì",
-"Guiyang prefecture-level city and capital of Guizhou province 貴州|贵州[Gui4 zhou1]"
+"Guiyang prefecture-level city and capital of Guizhou province 贵州[Guì zhōu]"
 ],
 [
 "沈阳市",
 9.2,
 "Shěn yáng shì",
-"Shenyang subprovincial city and capital of Liaoning province 遼寧省|辽宁省[Liao2 ning2 Sheng3] in northeast China; old names include Fengtian 奉天[Feng4 tian1], Shengjing 盛京[Sheng4 jing1] and Mukden"
+"Shenyang subprovincial city and capital of Liaoning province 辽宁省[Liáo níng Shěng] in northeast China; old names include Fengtian 奉天[Fèng tiān], Shengjing 盛京[Shèng jīng] and Mukden"
+],
+[
+"二级市场",
+8.99,
+"???",
+"???"
 ],
 [
 "成都市",
@@ -237,10 +279,22 @@
 "inside the city"
 ],
 [
+"市级",
+7.78,
+"???",
+"???"
+],
+[
 "郑州市",
 7.62,
 "Zhèng zhōu Shì",
 "Zhengzhou prefecture level city and capital of Henan Province in central China"
+],
+[
+"期货市场",
+6.92,
+"???",
+"???"
 ],
 [
 "货币市场",
@@ -252,13 +306,13 @@
 "哈尔滨市",
 6.8,
 "Hā ěr bīn shì",
-"Harbin, subprovincial city and capital of Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1] in northeast China"
+"Harbin, subprovincial city and capital of Heilongjiang province 黑龙江[Hēi lóng jiāng] in northeast China"
 ],
 [
 "西安市",
 6.73,
 "Xī ān Shì",
-"Xi’an, sub-provincial city and capital of Shaanxi 陝西省|陕西省[Shan3 xi1 Sheng3] in northwest China"
+"Xi’an, sub-provincial city and capital of Shaanxi 陕西省[Shǎn xī Shěng] in northwest China"
 ],
 [
 "股票市场",
@@ -267,10 +321,22 @@
 "stock market; stock exchange"
 ],
 [
+"沪市",
+6.46,
+"???",
+"???"
+],
+[
 "市里",
 6.29,
 "shì lǐ",
 "li (Chinese unit of length equal to 500 meters)"
+],
+[
+"南方都市报",
+6.24,
+"???",
+"???"
 ],
 [
 "市容",
@@ -295,6 +361,12 @@
 5.42,
 "nóng mào shì chǎng",
 "farmer's market"
+],
+[
+"大中城市",
+5.29,
+"???",
+"???"
 ],
 [
 "济南市",

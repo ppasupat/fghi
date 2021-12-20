@@ -1,37 +1,49 @@
 {
 "char": "熟",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "well-cooked; ripe; familiar with",
 "pron": "shóu, shú"
 },
 "words": [
 [
-"熟悉",
-4,
-"shú xī",
-"to be familiar with; to know well"
+"熟",
+2,
+"shú",
+"cooked (of food); ripe (of fruit); mature (of seeds); familiar; skilled; done; also pr. [shou2]"
 ],
 [
 "成熟",
-5,
+3,
 "chéng shú",
 "mature; ripe; to mature; to ripen; Taiwan pr. [cheng2 shou2]"
 ],
 [
-"熟练",
-5,
-"shú liàn",
-"practiced; proficient; skilled; skillful"
-]
-],
-"extraWords": [
-[
 "熟人",
-7.16,
+3,
 "shú rén",
 "acquaintance; friend"
 ],
+[
+"熟练",
+4,
+"shú liàn",
+"practiced; proficient; skilled; skillful"
+],
+[
+"熟悉",
+5,
+"shú xī",
+"to be familiar with; to know well"
+],
+[
+"耳熟能详",
+7,
+"ěr shú néng xiáng",
+"what's frequently heard can be repeated in detail (idiom)"
+]
+],
+"extraWords": [
 [
 "眼熟",
 6.56,

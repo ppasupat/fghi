@@ -1,19 +1,43 @@
 {
 "char": "榜",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "placard; list of successful exam candidates",
 "pron": "bǎng"
 },
 "words": [
 [
-"榜样",
+"排行榜",
 6,
+"pái háng bǎng",
+"the charts (of best-sellers); table of ranking"
+],
+[
+"榜样",
+7,
 "bǎng yàng",
-"example; model; CL:個|个[ge4]"
+"example; model; CL:个[gè]"
+],
+[
+"标榜",
+7,
+"biāo bǎng",
+"to flaunt; to advertise; to parade; boost; excessive praise"
 ]
 ],
 "extraWords": [
+[
+"榜",
+49.54,
+"bǎng",
+"notice or announcement; list of names; public roll of successful examinees"
+],
+[
+"榜",
+49.54,
+"bǎng",
+"variant of 榜[bǎng]"
+],
 [
 "榜首",
 6.91,

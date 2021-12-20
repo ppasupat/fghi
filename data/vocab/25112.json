@@ -1,34 +1,46 @@
 {
 "char": "战",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "war, fighting, battle",
 "pron": "zhàn"
 },
 "words": [
 [
-"战争",
-5,
-"zhàn zhēng",
-"war; conflict; CL:場|场[chang2],次[ci4]"
-],
-[
 "挑战",
-5,
+4,
 "tiǎo zhàn",
 "to challenge; challenge"
 ],
 [
 "战斗",
-6,
+4,
 "zhàn dòu",
-"to fight; to engage in combat; struggle; battle; CL:場|场[chang2],次[ci4]"
+"to fight; to engage in combat; struggle; battle; CL:场[cháng],次[cì]"
 ],
 [
-"战术",
+"战胜",
+4,
+"zhàn shèng",
+"to prevail over; to defeat; to surmount"
+],
+[
+"战士",
+4,
+"zhàn shì",
+"fighter; soldier; warrior; CL:个[gè]"
+],
+[
+"战争",
+4,
+"zhàn zhēng",
+"war; conflict; CL:场[cháng],次[cì]"
+],
+[
+"战场",
 6,
-"zhàn shù",
-"tactics"
+"zhàn chǎng",
+"battlefield; CL:个[gè]"
 ],
 [
 "战略",
@@ -37,36 +49,48 @@
 "strategy"
 ],
 [
-"战役",
+"战术",
 6,
-"zhàn yì",
-"military campaign"
-]
+"zhàn shù",
+"tactics"
 ],
-"extraWords": [
 [
-"战胜",
-44.43,
-"zhàn shèng",
-"to prevail over; to defeat; to surmount"
+"战友",
+6,
+"zhàn yǒu",
+"comrade-in-arms; battle companion"
 ],
 [
 "作战",
-43.32,
+6,
 "zuò zhàn",
 "combat; to fight"
 ],
 [
-"战士",
-39.12,
-"zhàn shì",
-"fighter; soldier; warrior; CL:個|个[ge4]"
+"冷战",
+7,
+"Lěng zhàn",
+"(US-Soviet) Cold War"
 ],
 [
-"战场",
-23.06,
-"zhàn chǎng",
-"battlefield; CL:個|个[ge4]"
+"冷战",
+7,
+"lěng zhàn",
+"cold war; (fig.) strained relationship; to be barely on speaking terms"
+],
+[
+"冷战",
+7,
+"lěng zhan",
+"(coll.) shiver; shudder"
+]
+],
+"extraWords": [
+[
+"战",
+122.81,
+"zhàn",
+"to fight; fight; war; battle"
 ],
 [
 "大战",
@@ -105,6 +129,12 @@
 "war of resistance, especially the war against Japan (1937-1945)"
 ],
 [
+"战役",
+11.72,
+"zhàn yì",
+"military campaign"
+],
+[
 "战斗机",
 11.1,
 "zhàn dòu jī",
@@ -117,12 +147,6 @@
 "fighting strength"
 ],
 [
-"战友",
-9.51,
-"zhàn yǒu",
-"comrade-in-arms; battle companion"
-],
-[
 "战机",
 9.29,
 "zhàn jī",
@@ -133,6 +157,18 @@
 9.23,
 "Èr zhàn",
 "World War II"
+],
+[
+"挑战赛",
+8.44,
+"???",
+"???"
+],
+[
+"陆战队",
+8.41,
+"???",
+"???"
 ],
 [
 "抗日战争",
@@ -157,24 +193,6 @@
 6.92,
 "zhēng zhàn",
 "campaign; expedition"
-],
-[
-"冷战",
-6.74,
-"Lěng zhàn",
-"(US-Soviet) Cold War"
-],
-[
-"冷战",
-6.74,
-"lěng zhàn",
-"cold war; (fig.) strained relationship; to be barely on speaking terms"
-],
-[
-"冷战",
-6.74,
-"lěng zhan",
-"(coll.) shiver; shudder"
 ],
 [
 "决战",
@@ -228,13 +246,25 @@
 "统战",
 6.2,
 "tǒng zhàn",
-"united front (abbr. for 統一戰線|统一战线[tong3 yi1 zhan4 xian4])"
+"united front (abbr. for 统一战线[tǒng yī zhàn xiàn])"
 ],
 [
 "激战",
 5.98,
 "jī zhàn",
 "to fight fiercely; fierce battle"
+],
+[
+"战士们",
+5.88,
+"???",
+"???"
+],
+[
+"陆战",
+5.81,
+"???",
+"???"
 ],
 [
 "统一战线",
@@ -247,6 +277,12 @@
 5.19,
 "nèi zhàn",
 "civil war"
+],
+[
+"战鼓",
+5.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

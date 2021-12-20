@@ -1,6 +1,6 @@
 {
 "char": "概",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "generally, approximately",
 "pron": "gài"
@@ -8,35 +8,65 @@
 "words": [
 [
 "大概",
-4,
+3,
 "dà gài",
 "roughly; probably; rough; approximate; about; general idea"
 ],
 [
 "概念",
-5,
+3,
 "gài niàn",
-"concept; idea; CL:個|个[ge4]"
+"concept; idea; CL:个[gè]"
 ],
 [
 "概括",
-5,
+4,
 "gài kuò",
-"to summarize; to generalize; briefly; CL:個|个[ge4]"
+"to summarize; to generalize; briefly; CL:个[gè]"
 ],
 [
-"气概",
-6,
-"qì gài",
-"lofty quality; mettle; spirit"
+"概况",
+7,
+"gài kuàng",
+"general situation; summary"
+],
+[
+"概率",
+7,
+"gài lǜ",
+"probability (math.)"
+],
+[
+"概论",
+7,
+"gài lùn",
+"outline; introduction; survey; general discussion"
+],
+[
+"一概",
+7,
+"yī gài",
+"all; without any exceptions; categorically"
+],
+[
+"一概而论",
+7,
+"yī gài ér lùn",
+"to lump different matters together (idiom)"
 ]
 ],
 "extraWords": [
 [
-"概率",
-12.66,
-"gài lǜ",
-"probability (math.)"
+"概",
+5.27,
+"gài",
+"general; approximate"
+],
+[
+"概",
+5.27,
+"gài",
+"old variant of 概[gài]"
 ]
 ],
 "strokes": [

@@ -1,26 +1,44 @@
 {
 "char": "床",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "bed, couch; framework, chassis",
 "pron": "chuáng"
 },
 "words": [
 [
+"床",
+1,
+"chuáng",
+"bed; couch; classifier for beds; CL:张[zhāng]"
+],
+[
+"床",
+1,
+"chuáng",
+"variant of 床[chuáng]"
+],
+[
 "起床",
-2,
+1,
 "qǐ chuáng",
 "to get out of bed; to get up"
 ],
 [
-"床单",
-6,
-"chuáng dān",
-"bed sheet; CL:條|条[tiao2],件[jian4],張|张[zhang1],床[chuang2]"
+"病床",
+7,
+"bìng chuáng",
+"hospital bed; sickbed"
+],
+[
+"床位",
+7,
+"chuáng wèi",
+"bed (in hospital, hotel, train etc); berth; bunk"
 ],
 [
 "临床",
-6,
+7,
 "lín chuáng",
 "clinical"
 ]
@@ -33,16 +51,16 @@
 "to go to bed; (coll.) to have sex"
 ],
 [
-"病床",
-6.53,
-"bìng chuáng",
-"hospital bed; sickbed"
+"床单",
+8.23,
+"chuáng dān",
+"bed sheet; CL:条[tiáo],件[jiàn],张[zhāng],床[chuáng]"
 ],
 [
 "机床",
 6.13,
 "jī chuáng",
-"machine tool; a lathe; CL:張|张[zhang1]"
+"machine tool; a lathe; CL:张[zhāng]"
 ]
 ],
 "strokes": [

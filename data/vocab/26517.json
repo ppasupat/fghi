@@ -1,6 +1,6 @@
 {
 "char": "枕",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "pillow",
 "pron": "zhěn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "枕头",
-6,
+7,
 "zhěn tou",
 "pillow"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"枕",
+12.46,
+"zhěn",
+"pillow; to pillow; to rest one's head on (Taiwan pr. [zhen4] for this sense)"
+],
+[
+"高枕无忧",
+0.86,
+"gāo zhěn wú yōu",
+"to sleep peacefully (idiom); (fig.) to rest easy; to be free of worries"
+]
+],
 "strokes": [
 "M 327 513 Q 417 541 421 545 Q 428 552 424 561 Q 417 571 387 577 Q 359 581 330 567 Q 329 567 328 566 L 288 550 Q 189 520 130 509 Q 96 500 122 486 Q 167 465 220 483 Q 239 490 267 496 L 327 513 Z",
 "M 325 405 Q 325 456 327 513 L 328 566 Q 328 683 349 762 Q 364 787 334 807 Q 319 819 294 833 Q 272 849 251 835 Q 247 831 253 815 Q 286 766 286 715 Q 287 642 289 558 Q 288 555 288 550 L 283 399 Q 280 215 266 150 Q 245 66 259 26 Q 262 16 268 2 Q 275 -16 283 -19 Q 289 -26 296 -17 Q 323 -1 323 62 Q 322 102 325 375 L 325 405 Z",

@@ -1,12 +1,31 @@
 {
 "char": "淤",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "mud, sediment; clog up, silt up",
 "pron": "yū"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"淤",
+4.05,
+"yū",
+"silt; river sludge; to silt up; choked with silt; variant of 瘀[yū]"
+],
+[
+"淤泥",
+2.24,
+"yū ní",
+"silt; sludge; ooze"
+],
+[
+"淤积",
+1.53,
+"yū jī",
+"to silt up; silt; sediment; ooze; slurry"
+]
+],
 "strokes": [
 "M 208 690 Q 233 671 261 647 Q 277 634 293 637 Q 305 638 309 652 Q 312 668 300 699 Q 288 727 199 740 Q 183 743 176 739 Q 172 735 174 721 Q 178 711 208 690 Z",
 "M 127 506 Q 173 470 211 458 Q 226 458 231 472 Q 235 485 229 499 Q 208 542 132 543 L 131 543 Q 115 544 108 540 Q 102 537 107 527 Q 110 517 127 506 Z",

@@ -1,54 +1,108 @@
 {
 "char": "参",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "take part in, intervene; ginseng",
 "pron": "cān, cēn, shēn"
 },
 "words": [
 [
-"参加",
-3,
-"cān jiā",
-"to participate; to take part; to join"
-],
-[
 "参观",
-4,
+2,
 "cān guān",
 "to look around; to tour; to visit"
 ],
 [
-"参与",
-5,
-"cān yù",
-"to participate (in sth)"
+"参加",
+2,
+"cān jiā",
+"to participate; to take part; to join"
 ],
 [
 "参考",
-5,
+4,
 "cān kǎo",
 "consultation; reference; to consult; to refer"
 ],
 [
-"参照",
+"参与",
+4,
+"cān yù",
+"to participate (in sth)"
+],
+[
+"参赛",
 6,
-"cān zhào",
-"to consult a reference; to refer to (another document)"
+"cān sài",
+"to compete; to take part in a competition"
+],
+[
+"参展",
+6,
+"cān zhǎn",
+"to exhibit at or take part in a trade show etc"
+],
+[
+"参见",
+7,
+"cān jiàn",
+"to refer to; see also; compare (cf.); to pay respect to"
+],
+[
+"参军",
+7,
+"cān jūn",
+"to join the army"
 ],
 [
 "参谋",
-6,
+7,
 "cān móu",
 "staff officer; to give advice"
+],
+[
+"参照",
+7,
+"cān zhào",
+"to consult a reference; to refer to (another document)"
 ]
 ],
 "extraWords": [
 [
-"参赛",
-36.28,
-"cān sài",
-"to compete; to take part in a competition"
+"参",
+37.01,
+"cān",
+"variant of 参[cān]"
+],
+[
+"参",
+37.01,
+"cān",
+"to take part in; to participate; to join; to attend; to counsel; unequal; varied; irregular; uneven; not uniform; abbr. for 參議院|参议院 Senate, Upper House"
+],
+[
+"参",
+37.01,
+"shēn",
+"ginseng; one of the 28 constellations"
+],
+[
+"参",
+37.01,
+"cān",
+"old variant of 参[cān]"
+],
+[
+"参",
+37.01,
+"shēn",
+"variant of 参[shēn]"
+],
+[
+"参",
+37.01,
+"shēn",
+"variant of 参[shēn]"
 ],
 [
 "参议员",
@@ -63,12 +117,6 @@
 "parameter"
 ],
 [
-"参展",
-15.84,
-"cān zhǎn",
-"to exhibit at or take part in a trade show etc"
-],
-[
 "参拜",
 7.97,
 "cān bài",
@@ -78,7 +126,7 @@
 "参赛者",
 7.75,
 "cān sài zhě",
-"competitor; CL:名[ming2]"
+"competitor; CL:名[míng]"
 ],
 [
 "参与者",
@@ -97,12 +145,6 @@
 6.66,
 "rén shēn",
 "ginseng"
-],
-[
-"参军",
-5.51,
-"cān jūn",
-"to join the army"
 ],
 [
 "参议院",

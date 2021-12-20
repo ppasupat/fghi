@@ -1,19 +1,37 @@
 {
 "char": "簸",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "winnower",
 "pron": "bǒ, bò"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "颠簸",
-6,
+3.12,
 "diān bǒ",
 "to shake; to jolt; to bump"
+],
+[
+"簸箕",
+0.44,
+"bò jī",
+"wicker or bamboo winnowing basket; dustpan"
+],
+[
+"簸",
+0.19,
+"bǒ",
+"to winnow; to toss"
+],
+[
+"簸",
+0.19,
+"bò",
+"see 簸箕[bò jī]"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 314 713 Q 336 749 357 778 Q 367 790 353 803 Q 314 836 291 830 Q 281 829 282 815 Q 294 734 198 619 Q 189 616 157 575 Q 150 562 163 565 Q 179 568 202 585 Q 266 634 303 694 L 314 713 Z",
 "M 303 694 Q 339 673 390 689 Q 462 704 477 712 Q 484 719 479 726 Q 472 736 447 740 Q 435 743 362 722 Q 338 716 314 713 C 284 709 277 708 303 694 Z",

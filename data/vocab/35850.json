@@ -1,6 +1,6 @@
 {
 "char": "谊",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "friendship; appropriate, suitable",
 "pron": "yì"
@@ -8,18 +8,25 @@
 "words": [
 [
 "友谊",
-4,
+5,
 "yǒu yì",
 "companionship; fellowship; friendship"
 ],
 [
-"深情厚谊",
-6,
-"shēn qíng hòu yì",
-"deep friendship"
+"情谊",
+7,
+"qíng yì",
+"friendship; camaraderie"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"联谊会",
+3.76,
+"lián yì huì",
+"association; club; society; party; get-together"
+]
+],
 "strokes": [
 "M 268 739 Q 302 715 338 686 Q 353 674 369 676 Q 381 677 385 692 Q 388 708 376 738 Q 363 771 259 788 Q 243 791 236 787 Q 232 783 234 769 Q 238 759 268 739 Z",
 "M 134 507 Q 83 488 56 484 Q 41 484 39 476 Q 35 467 47 460 Q 89 438 117 450 Q 169 475 217 503 Q 242 518 251 510 Q 261 504 257 478 Q 263 292 225 152 Q 210 122 255 70 Q 267 57 277 65 Q 284 72 295 98 Q 335 159 422 266 Q 432 279 430 286 Q 427 295 417 284 Q 371 245 325 202 Q 288 168 292 216 Q 289 289 312 472 Q 316 497 337 521 Q 350 531 339 544 Q 327 560 288 577 Q 275 583 258 571 Q 179 523 134 507 Z",

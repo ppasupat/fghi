@@ -1,52 +1,82 @@
 {
 "char": "调",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "transfer, move, change; tune",
 "pron": "diào, tiáo"
 },
 "words": [
 [
-"空调",
+"调",
 3,
-"kōng tiáo",
-"air conditioning; air conditioner (including units that have a heating mode); CL:臺|台[tai2]"
+"diào",
+"to transfer; to move (troops or cadres); to investigate; to enquire into; accent; view; argument; key (in music); mode (music); tune; tone; melody"
+],
+[
+"调",
+3,
+"tiáo",
+"to harmonize; to reconcile; to blend; to suit well; to adjust; to regulate; to season (food); to provoke; to incite"
 ],
 [
 "调查",
-4,
+3,
 "diào chá",
-"investigation; inquiry; to investigate; to survey; survey; (opinion) poll; CL:項|项[xiang4],個|个[ge4]"
+"investigation; inquiry; to investigate; to survey; survey; (opinion) poll; CL:项[xiàng],个[gè]"
 ],
 [
-"调整",
-5,
-"tiáo zhěng",
-"to adjust; adjustment; revision; CL:個|个[ge4]"
+"空调",
+3,
+"kōng tiáo",
+"air conditioning; air conditioner (including units that have a heating mode); CL:台[tái]"
 ],
 [
 "强调",
-5,
+3,
 "qiáng diào",
 "to emphasize (a statement); to stress"
 ],
 [
-"调皮",
-5,
-"tiáo pí",
-"naughty; mischievous; unruly"
+"调整",
+3,
+"tiáo zhěng",
+"to adjust; adjustment; revision; CL:个[gè]"
 ],
 [
 "单调",
-5,
+4,
 "dān diào",
 "monotonous"
 ],
 [
-"声调",
+"调皮",
+4,
+"tiáo pí",
+"naughty; mischievous; unruly"
+],
+[
+"调动",
 5,
-"shēng diào",
-"tone; note; a tone (on a Chinese syllable); CL:個|个[ge4]"
+"diào dòng",
+"to transfer; to maneuver (troops etc); movement of personnel; to mobilize; to bring into play"
+],
+[
+"调节",
+5,
+"tiáo jié",
+"to adjust; to regulate; to harmonize; to reconcile (accountancy etc)"
+],
+[
+"调解",
+5,
+"tiáo jiě",
+"to mediate; to bring parties to an agreement"
+],
+[
+"调研",
+6,
+"diào yán",
+"to investigate and research; research; investigation"
 ],
 [
 "协调",
@@ -55,54 +85,84 @@
 "to coordinate; to harmonize; to fit together; to match (colors etc); harmonious; concerted"
 ],
 [
-"调节",
-6,
-"tiáo jié",
-"to adjust; to regulate; to harmonize; to reconcile (accountancy etc)"
+"低调",
+7,
+"dī diào",
+"low pitch; quiet (voice); subdued; low-key; low-profile"
 ],
 [
-"调动",
-6,
-"diào dòng",
-"to transfer; to maneuver (troops etc); movement of personnel; to mobilize; to bring into play"
+"调度",
+7,
+"diào dù",
+"to dispatch (vehicles, staff etc); to schedule; to manage; dispatcher; scheduler"
 ],
 [
-"调料",
-6,
-"tiáo liào",
-"condiment; seasoning; flavoring"
+"高调",
+7,
+"gāo diào",
+"high-sounding speech; bombast; high-profile"
 ],
 [
-"调解",
-6,
-"tiáo jiě",
-"to mediate; to bring parties to an agreement"
+"烹调",
+7,
+"pēng tiáo",
+"to cook; cooking"
 ],
 [
-"调和",
-6,
-"tiáo hé",
-"harmonious; to mediate; to reconcile; to compromise; mediation; to mix; to blend; blended; to season; seasoning; to placate"
+"情调",
+7,
+"qíng diào",
+"sentiment; tone and mood; taste"
 ],
 [
-"调剂",
-6,
-"tiáo jì",
-"to adjust; to balance; to make up a medical prescription"
-]
+"上调",
+7,
+"shàng tiáo",
+"to raise (prices); to adjust upwards"
 ],
-"extraWords": [
+[
+"调侃",
+7,
+"tiáo kǎn",
+"to ridicule; to tease; to mock; idle talk; chitchat"
+],
 [
 "调控",
-34.89,
+7,
 "tiáo kòng",
 "to regulate; to control"
 ],
 [
-"调研",
-26.52,
-"diào yán",
-"to investigate and research; research; investigation"
+"调料",
+7,
+"tiáo liào",
+"condiment; seasoning; flavoring"
+],
+[
+"调试",
+7,
+"tiáo shì",
+"to debug; to adjust components during testing; debugging"
+],
+[
+"下调",
+7,
+"xià diào",
+"to demote; to pass down to a lower unit"
+],
+[
+"下调",
+7,
+"xià tiáo",
+"to adjust downwards; to lower (prices, wages etc)"
+]
+],
+"extraWords": [
+[
+"调查局",
+24.92,
+"???",
+"???"
 ],
 [
 "宏观调控",
@@ -111,52 +171,22 @@
 "macro-control"
 ],
 [
-"低调",
-23.78,
-"dī diào",
-"low pitch; quiet (voice); subdued; low-key; low-profile"
-],
-[
-"上调",
-19.15,
-"shàng tiáo",
-"to raise (prices); to adjust upwards"
-],
-[
-"下调",
-17.07,
-"xià diào",
-"to demote; to pass down to a lower unit"
-],
-[
-"下调",
-17.07,
-"xià tiáo",
-"to adjust downwards; to lower (prices, wages etc)"
-],
-[
 "调情",
 12.22,
 "tiáo qíng",
 "to flirt"
 ],
 [
+"调查研究",
+10.88,
+"???",
+"???"
+],
+[
 "色调",
 8.87,
 "sè diào",
 "hue; tone"
-],
-[
-"调度",
-8.62,
-"diào dù",
-"to dispatch (vehicles, staff etc); to schedule; to manage; dispatcher; scheduler"
-],
-[
-"高调",
-7.46,
-"gāo diào",
-"high-sounding speech; bombast; high-profile"
 ],
 [
 "抽调",
@@ -183,16 +213,10 @@
 "imbalance; to become dysfunctional; to lack proper care (after an illness etc)"
 ],
 [
-"调试",
-5.71,
-"tiáo shì",
-"to debug; to adjust components during testing; debugging"
-],
-[
 "调头",
 5.54,
 "diào tóu",
-"variant of 掉頭|掉头[diao4 tou2]"
+"variant of 掉头[diào tóu]"
 ],
 [
 "调头",
@@ -201,10 +225,10 @@
 "tone (of voice); tune"
 ],
 [
-"情调",
-5.29,
-"qíng diào",
-"sentiment; tone and mood; taste"
+"调剂",
+5.01,
+"tiáo jì",
+"to adjust; to balance; to make up a medical prescription"
 ]
 ],
 "strokes": [

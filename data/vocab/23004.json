@@ -1,11 +1,30 @@
 {
 "char": "姜",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "surname; ginger",
 "pron": "jiāng"
 },
-"words": [],
+"words": [
+[
+"姜",
+7,
+"Jiāng",
+"surname Jiang"
+],
+[
+"姜",
+7,
+"jiāng",
+"variant of 姜[jiāng]"
+],
+[
+"姜",
+7,
+"jiāng",
+"ginger"
+]
+],
 "extraWords": [
 [
 "生姜",

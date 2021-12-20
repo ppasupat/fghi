@@ -1,20 +1,32 @@
 {
 "char": "贪",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "be greedy, covet; covetous",
 "pron": "tān"
 },
 "words": [
 [
+"贪",
+7,
+"tān",
+"to have a voracious desire for; to covet; greedy; corrupt"
+],
+[
 "贪婪",
-6,
+7,
 "tān lán",
 "avaricious; greedy; rapacious; insatiable; avid"
 ],
 [
+"贪玩儿",
+7,
+"tān wán",
+"to only want to have a good time; to just want to have fun, and to shy away from self-discipline"
+],
+[
 "贪污",
-6,
+7,
 "tān wū",
 "to be corrupt; corruption; to embezzle"
 ]

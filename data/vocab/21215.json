@@ -1,11 +1,24 @@
 {
 "char": "募",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "levy, raise; summon; recruit",
 "pron": "mù"
 },
-"words": [],
+"words": [
+[
+"募捐",
+7,
+"mù juān",
+"to solicit contributions; to collect donations"
+],
+[
+"招募",
+7,
+"zhāo mù",
+"to recruit; to enlist"
+]
+],
 "extraWords": [
 [
 "募集",
@@ -14,10 +27,10 @@
 "to raise; to collect"
 ],
 [
-"招募",
-9.41,
-"zhāo mù",
-"to recruit; to enlist"
+"募",
+14.13,
+"mù",
+"canvass for contributions; to recruit; to collect; to raise"
 ]
 ],
 "strokes": [

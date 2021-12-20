@@ -1,11 +1,23 @@
 {
 "char": "北",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "north; northern; northward",
 "pron": "běi"
 },
 "words": [
+[
+"北",
+1,
+"běi",
+"north; (classical) to be defeated"
+],
+[
+"北边",
+1,
+"běi biān",
+"north; north side; northern part; to the north of"
+],
 [
 "北京",
 1,
@@ -14,21 +26,51 @@
 ],
 [
 "北方",
-3,
+2,
 "běi fāng",
 "north; the northern part a country; China north of the Yellow River"
 ],
 [
+"东北",
+2,
+"Dōng běi",
+"Northeast China; Manchuria"
+],
+[
+"东北",
+2,
+"dōng běi",
+"northeast"
+],
+[
+"西北",
+2,
+"Xī běi",
+"Northwest China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang)"
+],
+[
+"西北",
+2,
+"xī běi",
+"northwest"
+],
+[
+"北部",
+3,
+"běi bù",
+"northern part"
+],
+[
 "北极",
-6,
+5,
 "běi jí",
 "the North Pole; the Arctic Pole; the north magnetic pole"
 ],
 [
-"南辕北辙",
-6,
-"nán yuán běi zhé",
-"to act in a way that defeats one's purpose (idiom)"
+"南北",
+5,
+"nán běi",
+"north and south; north to south"
 ]
 ],
 "extraWords": [
@@ -42,37 +84,19 @@
 "北京市",
 54.44,
 "Běi jīng Shì",
-"Beijing; capital of People's Republic of China; one of the four municipalities 直轄市|直辖市[zhi2 xia2 shi4]"
-],
-[
-"东北",
-37.36,
-"Dōng běi",
-"Northeast China; Manchuria"
-],
-[
-"东北",
-37.36,
-"dōng běi",
-"northeast"
-],
-[
-"北部",
-23.58,
-"běi bù",
-"northern part"
+"Beijing; capital of People's Republic of China; one of the four municipalities 直辖市[zhí xiá shì]"
 ],
 [
 "河北",
 22.69,
 "Hé běi",
-"Hebei province (Hopeh) in north China surrounding Beijing, short name 冀, capital Shijiazhuang 石家莊|石家庄[Shi2 jia1 zhuang1]"
+"Hebei province (Hopeh) in north China surrounding Beijing, short name 冀, capital Shijiazhuang 石家庄[Shí jiā zhuāng]"
 ],
 [
 "湖北",
 22.51,
 "Hú běi",
-"Hubei Province (Hupeh) in central China, abbr. 鄂[E4], capital Wuhan 武漢|武汉[Wu3 han4]"
+"Hubei Province (Hupeh) in central China, abbr. 鄂[È], capital Wuhan 武汉[Wǔ hàn]"
 ],
 [
 "北大",
@@ -81,12 +105,6 @@
 "Peking University (abbr. for 北京大學|北京大学)"
 ],
 [
-"南北",
-19.14,
-"nán běi",
-"north and south; north to south"
-],
-[
 "台北",
 18.34,
 "Tái běi",
@@ -99,16 +117,10 @@
 "Taibei or Taipei, capital of Taiwan"
 ],
 [
-"西北",
-14.7,
-"Xī běi",
-"Northwest China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang)"
-],
-[
-"西北",
-14.7,
-"xī běi",
-"northwest"
+"北京奥运会",
+13.43,
+"???",
+"???"
 ],
 [
 "北京大学",
@@ -120,7 +132,7 @@
 "河北省",
 10.65,
 "Hé běi Shěng",
-"Hebei Province (Hopeh) in north China surrounding Beijing, short name 冀[Ji4], capital Shijiazhuang 石家莊|石家庄[Shi2 jia1 zhuang1]"
+"Hebei Province (Hopeh) in north China surrounding Beijing, short name 冀[Jì], capital Shijiazhuang 石家庄[Shí jiā zhuāng]"
 ],
 [
 "北美",
@@ -132,13 +144,19 @@
 "湖北省",
 9.34,
 "Hú běi Shěng",
-"Hubei Province (Hupeh) in central China, abbr. 鄂[E4], capital Wuhan 武漢|武汉[Wu3 han4]"
+"Hubei Province (Hupeh) in central China, abbr. 鄂[È], capital Wuhan 武汉[Wǔ hàn]"
 ],
 [
 "北约",
 9.24,
 "Běi yuē",
-"NATO; abbr. for 北大西洋公約組織|北大西洋公约组织[Bei3 Da4 xi1 Yang2 Gong1 yue1 Zu3 zhi1], North Atlantic Treaty Organization"
+"NATO; abbr. for 北大西洋公约组织[Běi Dà xī Yáng Gōng yuē Zǔ zhī], North Atlantic Treaty Organization"
+],
+[
+"北风",
+8.51,
+"???",
+"???"
 ],
 [
 "华北",
@@ -147,16 +165,16 @@
 "North China"
 ],
 [
+"北京队",
+6.02,
+"???",
+"???"
+],
+[
 "北海",
 5.72,
 "Běi hǎi",
 "Beihai, park in Beijing to the northwest of the Forbidden City; the North Sea (Europe); Beihai prefecture-level city and seaport in Guangxi; Bohai Sea; Lake Baikal"
-],
-[
-"北边",
-5.66,
-"běi biān",
-"north; north side; northern part; to the north of"
 ],
 [
 "向北",
@@ -168,7 +186,7 @@
 "北京人",
 5.19,
 "Běi jīng rén",
-"Beijing resident; Peking ape-man, Homo erectus pekinensis (c. 600,000 BC), discovered in 1921 at Zhoukoudian 周口店[Zhou1 kou3 dian4], Beijing"
+"Beijing resident; Peking ape-man, Homo erectus pekinensis (c. 600,000 BC), discovered in 1921 at Zhoukoudian 周口店[Zhōu kǒu diàn], Beijing"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "冻",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "freeze; cold, congeal; jelly",
 "pron": "dòng"
@@ -14,18 +14,18 @@
 ],
 [
 "冻结",
-6,
+7,
 "dòng jié",
 "to freeze (water etc); (fig.) to freeze (assets, prices etc)"
+],
+[
+"冷冻",
+7,
+"lěng dòng",
+"to freeze; to deep-freeze"
 ]
 ],
 "extraWords": [
-[
-"冷冻",
-6.74,
-"lěng dòng",
-"to freeze; to deep-freeze"
-],
 [
 "冻死",
 5.9,

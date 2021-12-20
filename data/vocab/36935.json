@@ -1,22 +1,46 @@
 {
 "char": "遇",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "meet, come across, encounter",
 "pron": "yù"
 },
 "words": [
 [
+"待遇",
+4,
+"dài yù",
+"treatment; pay; salary; status; rank"
+],
+[
+"机遇",
+4,
+"jī yù",
+"opportunity; favorable circumstance; stroke of luck"
+],
+[
+"遇",
+4,
+"Yù",
+"surname Yu"
+],
+[
+"遇",
+4,
+"yù",
+"to meet; to encounter; to treat; to receive; opportunity; chance"
+],
+[
 "遇到",
-3,
+4,
 "yù dào",
 "to meet; to run into; to come across"
 ],
 [
-"待遇",
-5,
-"dài yù",
-"treatment; pay; salary; status; rank"
+"遇见",
+4,
+"yù jiàn",
+"to meet"
 ],
 [
 "遭遇",
@@ -25,36 +49,42 @@
 "to meet with; to encounter; (bitter) experience"
 ],
 [
-"机遇",
-6,
-"jī yù",
-"opportunity; favorable circumstance; stroke of luck"
-]
-],
-"extraWords": [
-[
-"遇见",
-34.94,
-"yù jiàn",
-"to meet"
+"境遇",
+7,
+"jìng yù",
+"circumstance"
 ],
 [
 "相遇",
-15.99,
+7,
 "xiāng yù",
 "to meet; to encounter; to come across"
 ],
+[
+"遇难",
+7,
+"yù nàn",
+"to perish; to be killed"
+],
+[
+"遇上",
+7,
+"yù shàng",
+"to come across (sb); to run into"
+],
+[
+"遇险",
+7,
+"yù xiǎn",
+"to get into difficulties; to meet with danger"
+]
+],
+"extraWords": [
 [
 "外遇",
 14.13,
 "wài yù",
 "extramarital affair"
-],
-[
-"遇难",
-10.23,
-"yù nàn",
-"to perish; to be killed"
 ],
 [
 "遇害",

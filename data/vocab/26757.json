@@ -1,23 +1,48 @@
 {
 "char": "梅",
-"level": 7,
+"level": "6",
 "info": {
 "gloss": "plums; prunes; surname",
 "pron": "méi"
 },
-"words": [],
+"words": [
+[
+"梅花",
+6,
+"méi huā",
+"plum blossom; clubs ♣ (a suit in card games); wintersweet (dialect)"
+]
+],
 "extraWords": [
+[
+"梅",
+36.55,
+"Méi",
+"surname Mei"
+],
+[
+"梅",
+36.55,
+"méi",
+"plum; plum flower; Japanese apricot (Prunus mume)"
+],
+[
+"梅",
+36.55,
+"méi",
+"variant of 梅[méi]"
+],
+[
+"梅",
+36.55,
+"méi",
+"old variant of 梅[méi]"
+],
 [
 "梅林",
 10.43,
 "Méi lín",
 "Merlin"
-],
-[
-"梅花",
-5.54,
-"méi huā",
-"plum blossom; clubs ♣ (a suit in card games); wintersweet (dialect)"
 ]
 ],
 "strokes": [

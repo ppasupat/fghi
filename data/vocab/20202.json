@@ -1,11 +1,17 @@
 {
 "char": "仪",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "ceremony, rites gifts; admire",
 "pron": "yí"
 },
 "words": [
+[
+"仪器",
+6,
+"yí qì",
+"instrument; apparatus; CL:台[tái]"
+],
 [
 "仪式",
 6,
@@ -13,24 +19,24 @@
 "ceremony"
 ],
 [
-"仪器",
-6,
-"yí qì",
-"instrument; apparatus; CL:臺|台[tai2]"
-]
-],
-"extraWords": [
-[
 "礼仪",
-9.35,
+7,
 "lǐ yí",
 "etiquette; ceremony"
 ],
 [
 "仪表",
-7.22,
+7,
 "yí biǎo",
 "appearance; bearing; meter (i.e. measuring instrument)"
+]
+],
+"extraWords": [
+[
+"仪",
+32.24,
+"yí",
+"apparatus; rites; appearance; present; ceremony"
 ]
 ],
 "strokes": [

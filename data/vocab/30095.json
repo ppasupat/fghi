@@ -1,36 +1,60 @@
 {
 "char": "疏",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "neglect; careless, lax",
 "pron": "shū"
 },
 "words": [
 [
-"疏远",
-6,
-"shū yuǎn",
-"to drift apart; to become estranged; to alienate; estrangement"
+"疏导",
+7,
+"shū dǎo",
+"to dredge; to open up a path for; to remove obstructions; to clear the way; to enlighten; persuasion"
 ],
 [
 "疏忽",
-6,
+7,
 "shū hu",
 "to neglect; to overlook; negligence; carelessness"
 ],
 [
-"生疏",
-6,
-"shēng shū",
-"unfamiliar; strange; out of practice; not accustomed"
+"疏散",
+7,
+"shū sàn",
+"to scatter; to disperse; to evacuate; scattered; to relax"
+],
+[
+"疏通",
+7,
+"shū tōng",
+"to unblock; to dredge; to clear the way; to get things flowing; to facilitate; to mediate; to lobby; to explicate (a text)"
 ]
 ],
 "extraWords": [
 [
-"疏散",
-8.91,
-"shū sàn",
-"to scatter; to disperse; to evacuate; scattered; to relax"
+"疏",
+8.58,
+"shū",
+"variant of 疏[shū]"
+],
+[
+"疏",
+8.58,
+"Shū",
+"surname Shu"
+],
+[
+"疏",
+8.58,
+"shū",
+"to dredge; to clear away obstruction; thin; sparse; scanty; distant (relation); not close; to neglect; negligent; to present a memorial to the Emperor; commentary; annotation"
+],
+[
+"疏远",
+5.19,
+"shū yuǎn",
+"to drift apart; to become estranged; to alienate; estrangement"
 ]
 ],
 "strokes": [

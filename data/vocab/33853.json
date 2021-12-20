@@ -1,11 +1,17 @@
 {
 "char": "落",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "fall, drop; net income, surplus",
 "pron": "là, lào, luò"
 },
 "words": [
+[
+"落后",
+3,
+"luò hòu",
+"to fall behind; to lag (in technology etc); backward; to retrogress"
+],
 [
 "降落",
 4,
@@ -13,46 +19,130 @@
 "to descend; to land"
 ],
 [
-"落后",
+"落",
+4,
+"là",
+"to leave out; to be missing; to leave behind or forget to bring; to lag or fall behind"
+],
+[
+"落",
+4,
+"lào",
+"colloquial reading for 落[luò] in certain compounds"
+],
+[
+"落",
+4,
+"luò",
+"to fall or drop; (of the sun) to set; (of a tide) to go out; to lower; to decline or sink; to lag or fall behind; to fall onto; to rest with; to get or receive; to write down; whereabouts; settlement"
+],
+[
+"落实",
 5,
-"luò hòu",
-"to fall behind; to lag (in technology etc); backward; to retrogress"
+"luò shí",
+"practical; workable; to implement; to carry out; to decide"
 ],
 [
-"丢三落四",
-6,
-"diū sān là sì",
-"forgetful; empty-headed"
-],
-[
-"角落",
-6,
-"jiǎo luò",
-"nook; corner"
+"段落",
+7,
+"duàn luò",
+"phase; time interval; paragraph; (written) passage"
 ],
 [
 "堕落",
-6,
+7,
 "duò luò",
 "to degrade; to degenerate; to become depraved; corrupt; a fall from grace"
 ],
 [
+"光明磊落",
+7,
+"guāng míng lěi luò",
+"open and candid (idiom); straightforward and upright"
+],
+[
+"回落",
+7,
+"huí luò",
+"to fall back; to return to low level after a rise (in water level, price etc)"
+],
+[
+"角落",
+7,
+"jiǎo luò",
+"nook; corner"
+],
+[
 "冷落",
-6,
+7,
 "lěng luò",
 "desolate; unfrequented; to treat sb coldly; to snub; to cold shoulder"
 ],
 [
-"落成",
-6,
-"luò chéng",
-"to complete a construction project"
+"落差",
+7,
+"luò chā",
+"drop in elevation; (fig.) gap (in wages, expectations etc); disparity"
 ],
 [
-"落实",
-6,
-"luò shí",
-"practical; workable; to implement; to carry out; to decide"
+"落地",
+7,
+"luò dì",
+"to fall to the ground; to be set on the ground; to reach to the ground; to be born; (of a plane) to land"
+],
+[
+"落户",
+7,
+"luò hù",
+"to settle; to set up home"
+],
+[
+"落下",
+7,
+"luò xià",
+"to fall; to drop; to land (of projectile)"
+],
+[
+"没落",
+7,
+"mò luò",
+"to decline; to wane"
+],
+[
+"失落",
+7,
+"shī luò",
+"to lose (sth); to drop (sth); to feel a sense of loss; frustrated; disappointment; loss"
+],
+[
+"水落石出",
+7,
+"shuǐ luò shí chū",
+"as the water recedes, the rocks appear (idiom); the truth comes to light"
+],
+[
+"脱落",
+7,
+"tuō luò",
+"to drop off; to come off; to lose (hair etc); to omit (a character when writing)"
+],
+[
+"下落",
+7,
+"xià luò",
+"whereabouts; to drop; to fall"
+],
+[
+"着落",
+7,
+"zhuó luò",
+"whereabouts; place to settle; reliable source (of funds etc); (of responsibility for a matter) to rest with sb; settlement; solution"
+],
+[
+"坐落",
+7,
+"zuò luò",
+"to be situated; to be located (of a building)"
 ]
 ],
 "extraWords": [
@@ -63,52 +153,10 @@
 "tribe"
 ],
 [
-"回落",
-27.53,
-"huí luò",
-"to fall back; to return to low level after a rise (in water level, price etc)"
-],
-[
-"失落",
-12.22,
-"shī luò",
-"to lose (sth); to drop (sth); to feel a sense of loss; frustrated; disappointment; loss"
-],
-[
-"落地",
-11.7,
-"luò dì",
-"to fall to the ground; to be set on the ground; to reach to the ground; to be born; (of a plane) to land"
-],
-[
-"下落",
-11.06,
-"xià luò",
-"whereabouts; to drop; to fall"
-],
-[
-"落下",
-10.93,
-"luò xià",
-"to fall; to drop; to land (of projectile)"
-],
-[
 "日落",
 10.22,
 "rì luò",
 "sundown; sunset"
-],
-[
-"落户",
-8.97,
-"luò hù",
-"to settle; to set up home"
-],
-[
-"脱落",
-8.73,
-"tuō luò",
-"to drop off; to come off; to lose (hair etc); to omit (a character when writing)"
 ],
 [
 "低落",
@@ -127,12 +175,6 @@
 5.31,
 "sàn luò",
 "to disperse; to fall scattered; to sprinkle"
-],
-[
-"坐落",
-5.25,
-"zuò luò",
-"to be situated; to be located (of a building)"
 ],
 [
 "落入",

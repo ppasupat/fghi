@@ -1,16 +1,28 @@
 {
 "char": "盘",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "tray, plate, dish; examine",
 "pron": "pán"
 },
 "words": [
 [
+"光盘",
+4,
+"guāng pán",
+"compact disc; CD or DVD; CD ROM; CL:片[piàn],张[zhāng]"
+],
+[
+"盘",
+4,
+"pán",
+"plate; dish; tray; board; hard drive (computing); to build; to coil; to check; to examine; to transfer (property); to make over; classifier for food: dish, helping; to coil; classifier for coils of wire; classifier for games of chess"
+],
+[
 "盘子",
-3,
+4,
 "pán zi",
-"tray; plate; dish; CL:個|个[ge4]"
+"tray; plate; dish; CL:个[gè]"
 ],
 [
 "键盘",
@@ -19,16 +31,34 @@
 "keyboard"
 ],
 [
-"光盘",
-5,
-"guāng pán",
-"compact disc; CD or DVD; CD ROM; CL:片[pian4],張|张[zhang1]"
+"磁盘",
+7,
+"cí pán",
+"(computer) disk"
 ],
 [
-"盘旋",
-6,
-"pán xuán",
-"to spiral; to circle; to go around; to hover; to orbit"
+"方向盘",
+7,
+"fāng xiàng pán",
+"steering wheel"
+],
+[
+"盘算",
+7,
+"pán suàn",
+"to plot; to scheme; to calculate"
+],
+[
+"算盘",
+7,
+"suàn pán",
+"abacus; CL:把[bǎ]; plan; scheme"
+],
+[
+"硬盘",
+7,
+"yìng pán",
+"hard disk"
 ]
 ],
 "extraWords": [
@@ -45,16 +75,16 @@
 "domain; territory under one's control; foundation of a building; base of operations; crust of earth"
 ],
 [
-"硬盘",
-20.7,
-"yìng pán",
-"hard disk"
-],
-[
 "开盘",
 18.17,
 "kāi pán",
 "to commence trading (stock market)"
+],
+[
+"早盘",
+8.42,
+"???",
+"???"
 ],
 [
 "转盘",
@@ -79,12 +109,6 @@
 6.11,
 "pán diǎn",
 "to make an inventory; to take stock"
-],
-[
-"方向盘",
-5.22,
-"fāng xiàng pán",
-"steering wheel"
 ],
 [
 "底盘",

@@ -1,6 +1,6 @@
 {
 "char": "错",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "error, blunder, mistake; wrong",
 "pron": "cuò"
@@ -8,42 +8,90 @@
 "words": [
 [
 "错",
-2,
+1,
 "Cuò",
 "surname Cuo"
 ],
 [
 "错",
-2,
+1,
 "cuò",
 "mistake; wrong; bad; interlocking; complex; to grind; to polish; to alternate; to stagger; to miss; to let slip; to evade; to inlay with gold or silver"
 ],
 [
-"错误",
-4,
-"cuò wù",
-"error; mistake; CL:個|个[ge4]; mistaken; false; wrong"
-]
-],
-"extraWords": [
-[
 "不错",
-564.29,
+2,
 "bù cuò",
 "correct; right; not bad; pretty good"
 ],
 [
+"错误",
+3,
+"cuò wù",
+"error; mistake; CL:个[gè]; mistaken; false; wrong"
+],
+[
+"没错",
+4,
+"méi cuò",
+"that's right; sure!; rest assured!; that's good; can't go wrong"
+],
+[
 "错过",
-71.42,
+6,
 "cuò guò",
 "to miss (train, opportunity etc)"
 ],
 [
-"没错",
-10.19,
-"méi cuò",
-"that's right; sure!; rest assured!; that's good; can't go wrong"
+"差错",
+7,
+"chā cuò",
+"mistake; slip-up; fault; error (in data transmission); accident; mishap"
 ],
+[
+"错别字",
+7,
+"cuò bié zì",
+"incorrectly written or mispronounced characters"
+],
+[
+"错觉",
+7,
+"cuò jué",
+"misconception; illusion; misperception"
+],
+[
+"错位",
+7,
+"cuò wèi",
+"to misplace; displacement (e.g. of broken bones); out of alignment; faulty contact; erroneous judgment; inversion (medical, e.g. breach delivery)"
+],
+[
+"错综复杂",
+7,
+"cuò zōng fù zá",
+"tangled and complicated (idiom)"
+],
+[
+"过错",
+7,
+"guò cuò",
+"mistake; fault; responsibility (for a fault)"
+],
+[
+"认错",
+7,
+"rèn cuò",
+"to admit an error; to acknowledge one's mistake"
+],
+[
+"纵横交错",
+7,
+"zòng héng jiāo cuò",
+"criss-crossed (idiom)"
+]
+],
+"extraWords": [
 [
 "出错",
 8.56,
@@ -51,22 +99,10 @@
 "to make a mistake; error"
 ],
 [
-"过错",
-8.29,
-"guò cuò",
-"mistake; fault; responsibility (for a fault)"
-],
-[
 "错乱",
 6.32,
 "cuò luàn",
 "in disorder; deranged (mentally)"
-],
-[
-"差错",
-5.22,
-"chā cuò",
-"mistake; slip-up; fault; error (in data transmission); accident; mishap"
 ]
 ],
 "strokes": [

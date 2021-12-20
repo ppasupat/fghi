@@ -1,6 +1,6 @@
 {
 "char": "磋",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "polish, buff; scrutinize",
 "pron": "cuō"
@@ -8,12 +8,25 @@
 "words": [
 [
 "磋商",
-6,
+7,
 "cuō shāng",
 "to consult; to discuss seriously; to negotiate; to confer; negotiations; consultations"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"磋",
+11.73,
+"cuō",
+"deliberate; to polish"
+],
+[
+"切磋",
+2.64,
+"qiē cuō",
+"to compare notes; to learn from one another; to swap pointers"
+]
+],
 "strokes": [
 "M 309 602 Q 450 638 456 643 Q 465 652 460 660 Q 453 672 422 678 Q 391 682 361 670 Q 321 654 277 642 Q 229 629 172 622 Q 135 615 163 599 Q 199 581 252 588 L 309 602 Z",
 "M 247 405 Q 275 462 315 545 Q 330 579 330 582 Q 327 591 315 599 Q 312 602 309 602 C 284 618 249 618 252 588 Q 262 533 204 412 L 188 381 Q 134 294 40 187 Q 33 181 43 180 Q 101 198 198 325 Q 199 328 202 330 L 247 405 Z",

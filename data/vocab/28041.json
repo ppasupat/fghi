@@ -1,17 +1,11 @@
 {
 "char": "涉",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "ford stream, wade across",
 "pron": "shè"
 },
 "words": [
-[
-"涉及",
-6,
-"shè jí",
-"to involve; to touch upon (a topic)"
-],
 [
 "干涉",
 6,
@@ -19,24 +13,36 @@
 "to interfere; to meddle; interference"
 ],
 [
-"交涉",
+"涉及",
 6,
+"shè jí",
+"to involve; to touch upon (a topic)"
+],
+[
+"交涉",
+7,
 "jiāo shè",
 "to negotiate (with); to have dealings (with)"
+],
+[
+"牵涉",
+7,
+"qiān shè",
+"to involve; implicated"
+],
+[
+"涉嫌",
+7,
+"shè xián",
+"to be a suspect (in a crime); to be suspected of"
 ]
 ],
 "extraWords": [
 [
-"涉嫌",
-30.44,
-"shè xián",
-"to be a suspect (in a crime); to be suspected of"
-],
-[
-"牵涉",
-8.26,
-"qiān shè",
-"to involve; implicated"
+"涉",
+29.05,
+"shè",
+"(literary) to wade across a body of water; (bound form) to experience; to undergo; to be involved; to concern"
 ],
 [
 "涉足",

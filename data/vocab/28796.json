@@ -1,12 +1,32 @@
 {
 "char": "灼",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "burn; broil; cauterize; bright",
 "pron": "zhuó"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"灼热",
+7,
+"zhuó rè",
+"burning hot; scorching; worried"
+]
+],
+"extraWords": [
+[
+"灼",
+3.43,
+"zhuó",
+"luminous; burning; to burn; to cauterize"
+],
+[
+"灼伤",
+1.85,
+"zhuó shāng",
+"a burn (tissue damage from heat, chemicals etc); to burn (the skin etc); (fig.) (of anger, jealousy etc) to hurt (sb)"
+]
+],
 "strokes": [
 "M 144 588 Q 141 527 128 466 Q 121 435 146 408 Q 159 395 173 412 Q 186 433 189 465 Q 193 511 184 546 Q 178 577 164 595 Q 157 601 152 600 Q 145 596 144 588 Z",
 "M 310 505 Q 350 532 375 550 Q 420 589 449 602 Q 467 611 458 625 Q 446 638 425 651 Q 404 661 394 659 Q 384 658 387 647 Q 390 622 311 528 C 292 505 285 488 310 505 Z",

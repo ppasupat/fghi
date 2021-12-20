@@ -1,18 +1,31 @@
 {
 "char": "尿",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "urine; urinate",
 "pron": "niào, suī"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"尿",
+7,
+"niào",
+"to urinate; urine; CL:泡[pāo]"
+],
+[
+"尿",
+7,
+"suī",
+"see 尿[niào]"
+],
 [
 "糖尿病",
-18.73,
+7,
 "táng niào bìng",
 "diabetes; diabetes mellitus"
+]
 ],
+"extraWords": [
 [
 "尿布",
 9.84,

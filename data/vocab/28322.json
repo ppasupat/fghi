@@ -1,12 +1,32 @@
 {
 "char": "溢",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "overflow, brim over; full",
 "pron": "yì"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"洋溢",
+7,
+"yáng yì",
+"brimming with; steeped in"
+],
+[
+"溢",
+7,
+"yì",
+"to overflow; (literary) excessive; old variant of 镒[yì]"
+]
+],
+"extraWords": [
+[
+"溢价",
+4.56,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 221 720 Q 248 698 277 670 Q 292 657 308 658 Q 320 658 325 673 Q 329 688 319 719 Q 313 738 281 753 Q 206 778 192 771 Q 186 767 189 753 Q 193 743 221 720 Z",
 "M 125 529 Q 170 483 203 469 Q 219 466 227 480 Q 233 493 229 511 Q 222 535 202 547 Q 193 553 133 570 Q 118 573 109 568 Q 102 567 106 554 Q 107 542 125 529 Z",

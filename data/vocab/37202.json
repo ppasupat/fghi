@@ -1,32 +1,92 @@
 {
 "char": "酒",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "wine, spirits, liquor, alcoholic beverage",
 "pron": "jiǔ"
 },
 "words": [
 [
+"酒",
+2,
+"jiǔ",
+"wine (esp. rice wine); liquor; spirits; alcoholic beverage; CL:杯[bēi],瓶[píng],罐[guàn],桶[tǒng],缸[gāng]"
+],
+[
+"酒店",
+2,
+"jiǔ diàn",
+"wine shop; pub (public house); hotel; restaurant; (Tw) hostess club"
+],
+[
+"红酒",
+3,
+"hóng jiǔ",
+"red wine"
+],
+[
 "啤酒",
 3,
 "pí jiǔ",
-"beer (loanword); CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]"
+"beer (loanword); CL:杯[bēi],瓶[píng],罐[guàn],桶[tǒng],缸[gāng]"
 ],
 [
 "酒吧",
-5,
+4,
 "jiǔ bā",
-"bar; pub; saloon; CL:家[jia1]"
+"bar; pub; saloon; CL:家[jiā]"
+],
+[
+"白酒",
+5,
+"bái jiǔ",
+"baijiu, a spirit usually distilled from sorghum; (Tw) white wine (abbr. for 白葡萄酒[bái pú tao jiǔ])"
+],
+[
+"酒鬼",
+5,
+"jiǔ guǐ",
+"drunkard"
+],
+[
+"葡萄酒",
+5,
+"pú tao jiǔ",
+"(grape) wine"
+],
+[
+"酒水",
+6,
+"jiǔ shuǐ",
+"beverage; a drink"
+],
+[
+"敬酒",
+7,
+"jìng jiǔ",
+"to toast; to propose a toast"
 ],
 [
 "酒精",
-6,
+7,
 "jiǔ jīng",
 "alcohol; ethanol CH3CH2OH; ethyl alcohol; also written 乙醇; grain alcohol"
 ],
 [
+"酒楼",
+7,
+"jiǔ lóu",
+"restaurant"
+],
+[
+"喜酒",
+7,
+"xǐ jiǔ",
+"wedding feast; liquor drunk at a wedding feast"
+],
+[
 "酗酒",
-6,
+7,
 "xù jiǔ",
 "heavy drinking; to get drunk; to drink to excess"
 ]
@@ -39,34 +99,10 @@
 "to drink (alcohol)"
 ],
 [
-"酒店",
-66.28,
-"jiǔ diàn",
-"wine shop; pub (public house); hotel; restaurant; (Tw) hostess club"
-],
-[
 "鸡尾酒",
 13.12,
 "jī wěi jiǔ",
 "cocktail (loanword)"
-],
-[
-"葡萄酒",
-11.07,
-"pú tao jiǔ",
-"(grape) wine"
-],
-[
-"酒鬼",
-10.85,
-"jiǔ guǐ",
-"drunkard"
-],
-[
-"白酒",
-9.69,
-"bái jiǔ",
-"baijiu, a spirit usually distilled from sorghum; (Tw) white wine (abbr. for 白葡萄酒[bai2 pu2 tao5 jiu3])"
 ],
 [
 "酒后",
@@ -93,10 +129,16 @@
 "tavern; pub; wine shop"
 ],
 [
-"酒楼",
-6.44,
-"jiǔ lóu",
-"restaurant"
+"大酒店",
+5.35,
+"???",
+"???"
+],
+[
+"酒瓶",
+5.28,
+"???",
+"???"
 ]
 ],
 "strokes": [

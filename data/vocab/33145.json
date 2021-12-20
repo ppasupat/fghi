@@ -1,24 +1,30 @@
 {
 "char": "腹",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "stomach, belly, abdomen; inside",
 "pron": "fù"
 },
 "words": [
 [
+"腹部",
+7,
+"fù bù",
+"abdomen; belly; flank"
+],
+[
 "腹泻",
-6,
+7,
 "fù xiè",
 "diarrhea; to have the runs"
 ]
 ],
 "extraWords": [
 [
-"腹部",
-14.69,
-"fù bù",
-"abdomen; belly; flank"
+"腹",
+25.03,
+"fù",
+"abdomen; stomach; belly"
 ],
 [
 "腹腔",

@@ -1,16 +1,22 @@
 {
 "char": "严",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "strict, rigorous, rigid; stern",
 "pron": "yán"
 },
 "words": [
 [
-"严重",
+"严",
 4,
-"yán zhòng",
-"grave; serious; severe; critical"
+"Yán",
+"surname Yan"
+],
+[
+"严",
+4,
+"yán",
+"tight (closely sealed); stern; strict; rigorous; severe; father"
 ],
 [
 "严格",
@@ -19,61 +25,61 @@
 "strict; stringent; tight; rigorous"
 ],
 [
+"严重",
+4,
+"yán zhòng",
+"grave; serious; severe; critical"
+],
+[
+"严厉",
+5,
+"yán lì",
+"severe; strict"
+],
+[
 "严肃",
 5,
 "yán sù",
 "solemn; grave; serious; earnest; severe"
 ],
 [
-"尊严",
-6,
-"zūn yán",
-"dignity; sanctity; honor; majesty"
+"严谨",
+7,
+"yán jǐn",
+"rigorous; strict; careful; cautious; compact; well-knit"
 ],
 [
-"严厉",
-6,
-"yán lì",
-"severe; strict"
+"严禁",
+7,
+"yán jìn",
+"to strictly prohibit"
+],
+[
+"严峻",
+7,
+"yán jùn",
+"grim; severe; rigorous"
 ],
 [
 "严密",
-6,
+7,
 "yán mì",
 "strict; tight (organization, surveillance etc)"
 ],
 [
 "庄严",
-6,
+7,
 "zhuāng yán",
 "solemn; dignified; stately"
 ],
 [
-"严峻",
-6,
-"yán jùn",
-"grim; severe; rigorous"
-],
-[
-"严禁",
-6,
-"yán jìn",
-"to strictly prohibit"
-],
-[
-"严寒",
-6,
-"yán hán",
-"bitter cold; severe winter"
+"尊严",
+7,
+"zūn yán",
+"dignity; sanctity; honor; majesty"
 ]
 ],
 "extraWords": [
-[
-"严谨",
-8.79,
-"yán jǐn",
-"rigorous; strict; careful; cautious; compact; well-knit"
-],
 [
 "从严",
 5.36,

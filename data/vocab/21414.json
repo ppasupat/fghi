@@ -1,6 +1,6 @@
 {
 "char": "厦",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "big building, mansion",
 "pron": "shà, xià"
@@ -8,7 +8,7 @@
 "words": [
 [
 "大厦",
-5,
+7,
 "dà shà",
 "(used in the names of grand buildings such as 百老匯大廈|百老汇大厦 Broadway Mansions (in Shanghai) or 帝國大廈|帝国大厦 Empire State Building etc)"
 ]
@@ -18,7 +18,19 @@
 "厦门",
 74.83,
 "Xià mén",
-"Xiamen or Amoy, subprovincial city in Fujian, abbr. 廈|厦[Xia4]"
+"Xiamen or Amoy, subprovincial city in Fujian, abbr. 厦[Xià]"
+],
+[
+"厦",
+20.37,
+"Xià",
+"abbr. for Xiamen or Amoy 厦门[Xià mén], Fujian"
+],
+[
+"厦",
+20.37,
+"shà",
+"tall building; mansion; rear annex; lean-to; also pr. [xia4]"
 ],
 [
 "厦门市",

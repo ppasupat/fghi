@@ -1,6 +1,6 @@
 {
 "char": "妈",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "mother, mama",
 "pron": "mā"
@@ -10,7 +10,19 @@
 "妈妈",
 1,
 "mā ma",
-"mama; mommy; mother; CL:個|个[ge4],位[wei4]"
+"mama; mommy; mother; CL:个[gè],位[wèi]"
+],
+[
+"妈",
+1,
+"mā",
+"ma; mom; mother"
+],
+[
+"大妈",
+4,
+"dà mā",
+"father's elder brother's wife; aunt (affectionate term for an elderly woman)"
 ]
 ],
 "extraWords": [
@@ -37,12 +49,6 @@
 9.27,
 "gū mā",
 "(coll.) father's married sister; paternal aunt"
-],
-[
-"大妈",
-6.79,
-"dà mā",
-"father's elder brother's wife; aunt (affectionate term for an elderly woman)"
 ]
 ],
 "strokes": [

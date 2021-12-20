@@ -1,6 +1,6 @@
 {
 "char": "候",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "wait; expect; visit; greet",
 "pron": "hòu"
@@ -13,54 +13,90 @@
 "time; length of time; moment; period"
 ],
 [
+"有时候",
+1,
+"yǒu shí hou",
+"sometimes"
+],
+[
+"那时候",
+2,
+"nà shí hou",
+"at that time"
+],
+[
+"小时候",
+2,
+"xiǎo shí hou",
+"in one's childhood"
+],
+[
+"这时候",
+2,
+"???",
+"???"
+],
+[
 "气候",
-4,
+3,
 "qì hòu",
-"climate; atmosphere; situation; CL:種|种[zhong3]"
+"climate; atmosphere; situation; CL:种[zhǒng]"
 ],
 [
 "问候",
-5,
+4,
 "wèn hòu",
 "to give one's respects; to send a greeting; (fig.) (coll.) to make offensive reference to (somebody dear to the person to whom one is speaking)"
 ],
 [
 "等候",
-6,
+5,
 "děng hòu",
 "to wait; to wait for"
 ],
 [
 "伺候",
-6,
+7,
 "cì hòu",
 "to serve; to wait upon"
 ],
 [
-"候选",
-6,
-"hòu xuǎn",
-"candidate (attributive)"
+"候选人",
+7,
+"hòu xuǎn rén",
+"candidate; CL:名[míng]"
+],
+[
+"火候",
+7,
+"huǒ hòu",
+"heat control; maturity; crucial moment"
+],
+[
+"稍候",
+7,
+"shāo hòu",
+"to wait a moment"
+],
+[
+"侍候",
+7,
+"shì hòu",
+"to serve; to wait upon"
+],
+[
+"守候",
+7,
+"shǒu hòu",
+"to wait for; to expect; to keep watch; to watch over; to nurse"
 ]
 ],
 "extraWords": [
 [
-"有时候",
-72.82,
-"yǒu shí hou",
-"sometimes"
-],
-[
-"小时候",
-32.19,
-"xiǎo shí hou",
-"in one's childhood"
-],
-[
-"候选人",
-20.06,
-"hòu xuǎn rén",
-"candidate; CL:名[ming2]"
+"候",
+25.49,
+"hòu",
+"to wait; to inquire after; to watch; season; climate; (old) period of five days"
 ],
 [
 "到时候",
@@ -69,16 +105,16 @@
 "when the moment comes; at that time"
 ],
 [
-"守候",
-8.87,
-"shǒu hòu",
-"to wait for; to expect; to keep watch; to watch over; to nurse"
-],
-[
 "有的时候",
 7.84,
 "yǒu de shí hòu",
 "sometimes; at times"
+],
+[
+"候选",
+5.03,
+"hòu xuǎn",
+"candidate (attributive)"
 ]
 ],
 "strokes": [

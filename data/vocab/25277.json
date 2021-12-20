@@ -1,11 +1,23 @@
 {
 "char": "抽",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "draw out, pull out; sprout",
 "pron": "chōu"
 },
 "words": [
+[
+"抽",
+4,
+"chōu",
+"to draw out; to pull out from in between; to remove part of the whole; (of certain plants) to sprout or bud; to whip or thrash"
+],
+[
+"抽奖",
+4,
+"chōu jiǎng",
+"to draw a prize; a lottery; a raffle"
+],
 [
 "抽烟",
 4,
@@ -13,25 +25,25 @@
 "to smoke (a cigarette, tobacco)"
 ],
 [
+"抽签",
+7,
+"chōu qiān",
+"to perform divination with sticks; to draw lots; a ballot (in share dealing)"
+],
+[
 "抽屉",
-5,
+7,
 "chōu ti",
 "drawer"
 ],
 [
 "抽象",
-5,
+7,
 "chōu xiàng",
-"abstract; abstraction; CL:種|种[zhong3]"
+"abstract; abstraction; CL:种[zhǒng]"
 ]
 ],
 "extraWords": [
-[
-"抽奖",
-19.46,
-"chōu jiǎng",
-"to draw a prize; a lottery; a raffle"
-],
 [
 "抽查",
 11.82,
@@ -55,12 +67,6 @@
 6.25,
 "chōu diào",
 "to transfer (personnel or material)"
-],
-[
-"抽签",
-5.91,
-"chōu qiān",
-"to perform divination with sticks; to draw lots; a ballot (in share dealing)"
 ],
 [
 "抽样",

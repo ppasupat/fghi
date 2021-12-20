@@ -1,6 +1,6 @@
 {
 "char": "般",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "sort, manner, kind, category",
 "pron": "bān"
@@ -8,23 +8,35 @@
 "words": [
 [
 "一般",
-3,
+2,
 "yī bān",
 "same; ordinary; so-so; common; general; generally; in general"
+],
+[
+"一般来说",
+4,
+"yī bān lái shuō",
+"generally speaking"
 ]
 ],
 "extraWords": [
+[
+"般",
+74.21,
+"bān",
+"sort; kind; class; way; manner"
+],
+[
+"般",
+74.21,
+"pán",
+"see 般乐[pán lè]"
+],
 [
 "这般",
 8.66,
 "zhè bān",
 "like this; this way"
-],
-[
-"一般来说",
-7.98,
-"yī bān lái shuō",
-"generally speaking"
 ]
 ],
 "strokes": [

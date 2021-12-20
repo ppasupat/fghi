@@ -1,19 +1,31 @@
 {
 "char": "娇",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "seductive and loveable; tender",
 "pron": "jiāo"
 },
 "words": [
 [
+"娇惯",
+7,
+"jiāo guàn",
+"to pamper; to coddle; to spoil"
+],
+[
 "娇气",
-6,
+7,
 "jiāo qì",
 "delicate; squeamish; finicky"
 ]
 ],
 "extraWords": [
+[
+"娇",
+22.32,
+"jiāo",
+"lovable; pampered; tender; delicate; frail"
+],
 [
 "撒娇",
 5.72,

@@ -1,67 +1,79 @@
 {
 "char": "置",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "place, lay out; set aside",
 "pron": "zhì"
 },
 "words": [
 [
-"位置",
-5,
-"wèi zhi",
-"position; place; seat; CL:個|个[ge4]"
+"安置",
+4,
+"ān zhì",
+"to find a place for; to help settle down; to arrange for; to get into bed; placement"
 ],
 [
 "布置",
-6,
+4,
 "bù zhì",
 "to put in order; to arrange; to decorate; to fix up; to deploy"
 ],
 [
 "设置",
-6,
+4,
 "shè zhì",
 "to set up; to install"
 ],
 [
-"处置",
-6,
-"chǔ zhì",
-"to handle; to take care of; to punish"
-],
-[
-"安置",
-6,
-"ān zhì",
-"to find a place for; to help settle down; to arrange for; to get into bed; placement"
-]
-],
-"extraWords": [
-[
-"配置",
-57.89,
-"pèi zhì",
-"to deploy; to allocate; configuration; allocation"
-],
-[
-"难以置信",
-51.63,
-"nán yǐ zhì xìn",
-"hard to believe; incredible"
+"位置",
+4,
+"wèi zhi",
+"position; place; seat; CL:个[gè]"
 ],
 [
 "装置",
-34.25,
+4,
 "zhuāng zhì",
 "to install; installation; equipment; system; unit; device"
 ],
 [
+"配置",
+6,
+"pèi zhì",
+"to deploy; to allocate; configuration; allocation"
+],
+[
+"处置",
+7,
+"chǔ zhì",
+"to handle; to take care of; to punish"
+],
+[
 "放置",
-11.53,
+7,
 "fàng zhì",
 "to put"
 ],
+[
+"搁置",
+7,
+"gē zhì",
+"to shelve; to set aside"
+],
+[
+"难以置信",
+7,
+"nán yǐ zhì xìn",
+"hard to believe; incredible"
+],
+[
+"置",
+7,
+"zhì",
+"to install; to place; to put; to buy"
+]
+],
+"extraWords": [
 [
 "置换",
 10.13,

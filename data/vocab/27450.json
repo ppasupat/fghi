@@ -1,30 +1,36 @@
 {
 "char": "欺",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "cheat, double-cross, deceive",
 "pron": "qī"
 },
 "words": [
 [
-"欺骗",
-6,
-"qī piàn",
-"to deceive; to cheat"
-],
-[
 "欺负",
 6,
 "qī fu",
 "to bully"
+],
+[
+"欺骗",
+7,
+"qī piàn",
+"to deceive; to cheat"
+],
+[
+"欺诈",
+7,
+"qī zhà",
+"to cheat"
 ]
 ],
 "extraWords": [
 [
-"欺诈",
-8.34,
-"qī zhà",
-"to cheat"
+"欺",
+6.7,
+"qī",
+"to take unfair advantage of; to deceive; to cheat"
 ]
 ],
 "strokes": [

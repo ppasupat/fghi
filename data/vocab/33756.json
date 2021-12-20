@@ -1,6 +1,6 @@
 {
 "char": "菜",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "vegetables; dish, order; food",
 "pron": "cài"
@@ -10,19 +10,31 @@
 "菜",
 1,
 "cài",
-"dish (type of food); vegetable; cuisine; CL:盤|盘[pan2],道[dao4]; (coll.) (one's) type; (of one's skills etc) weak; poor"
+"dish (type of food); vegetable; cuisine; CL:盘[pán],道[dào]; (coll.) (one's) type; (of one's skills etc) weak; poor"
 ],
 [
 "菜单",
-3,
+2,
 "cài dān",
-"menu; CL:份[fen4],張|张[zhang1]"
+"menu; CL:份[fèn],张[zhāng]"
+],
+[
+"白菜",
+3,
+"bái cài",
+"Chinese cabbage; pak choi; CL:棵[kē], 个[gè]"
 ],
 [
 "蔬菜",
 5,
 "shū cài",
-"vegetables; CL:種|种[zhong3]"
+"vegetables; CL:种[zhǒng]"
+],
+[
+"菜市场",
+7,
+"cài shì chǎng",
+"food market"
 ]
 ],
 "extraWords": [
@@ -31,12 +43,6 @@
 9.22,
 "yóu cài",
 "oilseed rape (Brassica napus); flowering edible rape (Brassica chinensis var. oleifera)"
-],
-[
-"白菜",
-8.34,
-"bái cài",
-"Chinese cabbage; pak choi; CL:棵[ke1], 個|个[ge4]"
 ],
 [
 "饭菜",
@@ -48,13 +54,13 @@
 "菠菜",
 5.93,
 "bō cài",
-"spinach; CL:棵[ke1]; (slang) alternative term for 博彩[bo2 cai3], lottery"
+"spinach; CL:棵[kē]; (slang) alternative term for 博彩[bó cǎi], lottery"
 ],
 [
 "菜刀",
 5.63,
 "cài dāo",
-"vegetable knife; kitchen knife; cleaver; CL:把[ba3]"
+"vegetable knife; kitchen knife; cleaver; CL:把[bǎ]"
 ],
 [
 "泡菜",

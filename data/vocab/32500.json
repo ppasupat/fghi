@@ -1,49 +1,85 @@
 {
 "char": "维",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "maintain, preserve, safeguard",
 "pron": "wéi"
 },
 "words": [
 [
-"维修",
-5,
-"wéi xiū",
-"maintenance (of equipment); to protect and maintain"
-],
-[
 "维持",
-6,
+4,
 "wéi chí",
 "to keep; to maintain; to preserve"
 ],
 [
 "维护",
-6,
+4,
 "wéi hù",
 "to defend; to safeguard; to protect; to uphold; to maintain"
 ],
 [
-"思维",
-6,
-"sī wéi",
-"(line of) thought; thinking"
+"维修",
+4,
+"wéi xiū",
+"maintenance (of equipment); to protect and maintain"
 ],
 [
-"纤维",
-6,
-"xiān wéi",
-"fiber; CL:種|种[zhong3]"
+"二维码",
+5,
+"èr wéi mǎ",
+"two-dimensional barcode; QR code"
+],
+[
+"思维",
+5,
+"sī wéi",
+"(line of) thought; thinking"
 ],
 [
 "维生素",
 6,
 "wéi shēng sù",
 "vitamin"
+],
+[
+"恭维",
+7,
+"gōng wei",
+"to praise; to speak highly of; compliment; praise"
+],
+[
+"三维",
+7,
+"sān wéi",
+"three-dimensional; 3D"
+],
+[
+"纤维",
+7,
+"xiān wéi",
+"fiber; CL:种[zhǒng]"
 ]
 ],
 "extraWords": [
+[
+"维",
+82.98,
+"Wéi",
+"abbr. for Uighur 维吾尔[Wéi wú ěr]; surname Wei"
+],
+[
+"维",
+82.98,
+"wéi",
+"to preserve; to maintain; to hold together; dimension; vitamin (abbr. for 维生素[wéi shēng sù])"
+],
+[
+"维加斯",
+18.36,
+"???",
+"???"
+],
 [
 "拉斯维加斯",
 17.32,
@@ -57,16 +93,22 @@
 "Davy; Davey; Davie; David"
 ],
 [
+"哈维",
+9.54,
+"???",
+"???"
+],
+[
 "维多利亚",
 9.42,
 "Wéi duō lì yà",
 "Victoria (name); Victoria, capital of the Seychelles"
 ],
 [
-"三维",
-6.88,
-"sān wéi",
-"three-dimensional; 3D"
+"维克多",
+5.9,
+"???",
+"???"
 ]
 ],
 "strokes": [

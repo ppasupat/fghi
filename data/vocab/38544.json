@@ -1,16 +1,16 @@
 {
 "char": "隐",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "hide, conceal; hidden, secret",
 "pron": "yǐn"
 },
 "words": [
 [
-"隐瞒",
+"隐藏",
 6,
-"yǐn mán",
-"to conceal; to hide (a taboo subject); to cover up the truth"
+"yǐn cáng",
+"to hide; to conceal; to mask; to shelter; to harbor (i.e. keep sth hidden); to hide oneself; to lie low; to nestle; hidden; implicit; private; covert; recessed (lighting)"
 ],
 [
 "隐私",
@@ -20,35 +20,65 @@
 ],
 [
 "隐蔽",
-6,
+7,
 "yǐn bì",
 "to conceal; to hide; covert; under cover"
 ],
 [
 "隐患",
-6,
+7,
 "yǐn huàn",
 "a danger concealed within sth; hidden damage; misfortune not visible from the surface"
 ],
 [
+"隐瞒",
+7,
+"yǐn mán",
+"to conceal; to hide (a taboo subject); to cover up the truth"
+],
+[
+"隐情",
+7,
+"yǐn qíng",
+"sth one wishes to keep secret; ulterior motive; a subject best avoided"
+],
+[
+"隐身",
+7,
+"yǐn shēn",
+"to hide oneself; invisible (person or online status)"
+],
+[
+"隐形",
+7,
+"yǐn xíng",
+"invisible"
+],
+[
+"隐性",
+7,
+"yǐn xìng",
+"hidden; crypto-; recessive (gene)"
+],
+[
 "隐约",
-6,
+7,
 "yǐn yuē",
 "vague; faint; indistinct"
 ]
 ],
 "extraWords": [
 [
-"隐藏",
-32.79,
-"yǐn cáng",
-"to hide; to conceal; to mask; to shelter; to harbor (i.e. keep sth hidden); to hide oneself; to lie low; to nestle; hidden; implicit; private; covert; recessed (lighting)"
+"隐",
+17.53,
+"yǐn",
+"secret; hidden; concealed; (prefix) crypto-"
 ],
 [
-"隐形",
-9.3,
-"yǐn xíng",
-"invisible"
+"隐",
+17.53,
+"yìn",
+"to lean upon"
 ],
 [
 "隐隐",

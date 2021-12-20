@@ -1,6 +1,6 @@
 {
 "char": "糙",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "coarse, harsh, rough, unpolished rice",
 "pron": "cāo"
@@ -8,12 +8,25 @@
 "words": [
 [
 "粗糙",
-5,
+7,
 "cū cāo",
 "crude; gruff; rough; coarse"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"糙",
+1.2,
+"cāo",
+"rough; coarse (in texture)"
+],
+[
+"糙米",
+1.15,
+"cāo mǐ",
+"brown rice"
+]
+],
 "strokes": [
 "M 124 600 Q 157 537 178 519 Q 190 513 200 522 Q 207 531 209 544 Q 210 565 199 579 Q 183 600 143 627 Q 131 634 123 634 Q 117 634 117 624 Q 116 614 124 600 Z",
 "M 371 648 Q 356 614 322 558 Q 318 552 323 547 Q 329 547 334 551 Q 397 615 429 641 Q 442 647 437 654 Q 430 666 414 677 Q 398 689 381 687 Q 369 686 373 671 Q 376 661 371 648 Z",

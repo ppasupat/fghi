@@ -1,6 +1,6 @@
 {
 "char": "赛",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "compete, contend; contest, race",
 "pron": "sài"
@@ -10,45 +10,87 @@
 "比赛",
 3,
 "bǐ sài",
-"competition (sports etc); match; CL:場|场[chang3],次[ci4]; to compete"
+"competition (sports etc); match; CL:场[chǎng],次[cì]; to compete"
 ],
 [
 "决赛",
-5,
+3,
 "jué sài",
 "finals (of a competition)"
 ],
 [
-"竞赛",
-6,
-"jìng sài",
-"race; competition; CL:個|个[ge4]"
-]
+"大奖赛",
+5,
+"dà jiǎng sài",
+"grand prix"
 ],
-"extraWords": [
+[
+"竞赛",
+5,
+"jìng sài",
+"race; competition; CL:个[gè]"
+],
+[
+"半决赛",
+6,
+"bàn jué sài",
+"semifinals"
+],
+[
+"参赛",
+6,
+"cān sài",
+"to compete; to take part in a competition"
+],
+[
+"大赛",
+6,
+"dà sài",
+"grand contest"
+],
 [
 "联赛",
-82.75,
+6,
 "lián sài",
 "(sports) league; league tournament"
 ],
+[
+"赛",
+6,
+"sài",
+"to compete; competition; match; to surpass; better than; superior to; to excel"
+],
+[
+"赛场",
+6,
+"sài chǎng",
+"racetrack; field (for athletics competition)"
+],
+[
+"赛车",
+7,
+"sài chē",
+"auto race; cycle race; race car"
+],
+[
+"赛跑",
+7,
+"sài pǎo",
+"race (running); to race (running)"
+],
+[
+"预赛",
+7,
+"yù sài",
+"preliminary competition; to hold preliminary heats"
+]
+],
+"extraWords": [
 [
 "赛季",
 56.81,
 "sài jì",
 "season (sports)"
-],
-[
-"大赛",
-47.04,
-"dà sài",
-"grand contest"
-],
-[
-"参赛",
-36.28,
-"cān sài",
-"to compete; to take part in a competition"
 ],
 [
 "赛事",
@@ -63,16 +105,10 @@
 "championship contest; championships"
 ],
 [
-"赛车",
-23.19,
-"sài chē",
-"auto race; cycle race; race car"
-],
-[
-"赛场",
-20.15,
-"sài chǎng",
-"racetrack; field (for athletics competition)"
+"本赛季",
+22.88,
+"???",
+"???"
 ],
 [
 "世锦赛",
@@ -93,16 +129,10 @@
 "finals (sports)"
 ],
 [
-"半决赛",
-15.48,
-"bàn jué sài",
-"semifinals"
-],
-[
-"大奖赛",
-12.51,
-"dà jiǎng sài",
-"grand prix"
+"挑战赛",
+8.44,
+"???",
+"???"
 ],
 [
 "赛马",
@@ -120,7 +150,13 @@
 "参赛者",
 7.75,
 "cān sài zhě",
-"competitor; CL:名[ming2]"
+"competitor; CL:名[míng]"
+],
+[
+"预选赛",
+7.72,
+"???",
+"???"
 ],
 [
 "开赛",
@@ -129,22 +165,40 @@
 "to start a match; the kick-off"
 ],
 [
-"预赛",
-6.09,
-"yù sài",
-"preliminary competition; to hold preliminary heats"
+"赛区",
+6.22,
+"???",
+"???"
+],
+[
+"杯赛",
+6.01,
+"???",
+"???"
+],
+[
+"常规赛",
+5.97,
+"???",
+"???"
 ],
 [
 "球赛",
 5.54,
 "qiú sài",
-"sports match; ballgame; CL:場|场[chang3]"
+"sports match; ballgame; CL:场[chǎng]"
 ],
 [
 "赛程",
 5.49,
 "sài chéng",
 "competition schedule; the course of a race"
+],
+[
+"世乒赛",
+5.17,
+"???",
+"???"
 ]
 ],
 "strokes": [

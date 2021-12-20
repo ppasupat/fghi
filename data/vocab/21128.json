@@ -1,6 +1,6 @@
 {
 "char": "劈",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cut apart, split, chop",
 "pron": "pī, pǐ"
@@ -8,18 +8,25 @@
 "words": [
 [
 "劈",
-6,
+7,
 "pī",
 "to hack; to chop; to split open; (of lightning) to strike"
 ],
 [
 "劈",
-6,
+7,
 "pǐ",
 "to split in two; to divide"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"劈开",
+0.84,
+"pī kāi",
+"to cleave; to split open; to spread open (fingers, legs)"
+]
+],
 "strokes": [
 "M 471 672 Q 495 724 515 737 Q 528 752 517 766 Q 504 776 462 797 Q 449 803 380 777 Q 377 777 303 758 C 274 751 282 723 311 732 Q 314 735 422 757 Q 435 760 440 755 Q 446 749 444 737 Q 438 706 430 680 C 421 651 458 645 471 672 Z",
 "M 286 617 Q 293 616 305 618 Q 360 631 478 646 Q 487 647 488 654 Q 488 660 471 672 L 430 680 Q 426 680 421 678 Q 351 657 292 646 C 263 640 256 618 286 617 Z",

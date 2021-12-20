@@ -1,16 +1,22 @@
 {
 "char": "江",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "large river; the Yangzi; surname",
 "pron": "jiāng"
 },
 "words": [
 [
-"长江",
+"江",
 4,
-"Cháng Jiāng",
-"Yangtze River, or Chang Jiang"
+"Jiāng",
+"surname Jiang"
+],
+[
+"江",
+4,
+"jiāng",
+"river; CL:条[tiáo],道[dào]"
 ]
 ],
 "extraWords": [
@@ -27,16 +33,22 @@
 "Jiangsu province (Kiangsu) in southeast China, abbr. 蘇|苏, capital Nanjing 南京"
 ],
 [
+"长江",
+33.33,
+"Cháng Jiāng",
+"Yangtze River, or Chang Jiang"
+],
+[
 "江湖",
 26.49,
 "jiāng hú",
-"rivers and lakes; all corners of the country; remote areas to which hermits retreat; section of society operating independently of mainstream society, out of reach of the law; the milieu in which wuxia tales play out (cf. 武俠|武侠[wu3 xia2]); (in late imperial times) world of traveling merchants, itinerant doctors, fortune tellers etc; demimonde; (in modern times) triads; secret gangster societies; underworld"
+"rivers and lakes; all corners of the country; remote areas to which hermits retreat; section of society operating independently of mainstream society, out of reach of the law; the milieu in which wuxia tales play out (cf. 武侠[wǔ xiá]); (in late imperial times) world of traveling merchants, itinerant doctors, fortune tellers etc; demimonde; (in modern times) triads; secret gangster societies; underworld"
 ],
 [
 "江西",
 25.15,
 "Jiāng xī",
-"Jiangxi province (Kiangsi) in southeast China, abbr. 贛|赣[Gan4], capital Nanchang 南昌[Nan2 chang1]"
+"Jiangxi province (Kiangsi) in southeast China, abbr. 赣[Gàn], capital Nanchang 南昌[Nán chāng]"
 ],
 [
 "江南",
@@ -48,7 +60,7 @@
 "浙江省",
 20.41,
 "Zhè jiāng Shěng",
-"Zhejiang Province (Chekiang) in east China, abbr. 浙[Zhe4], capital Hangzhou 杭州[Hang2 zhou1]"
+"Zhejiang Province (Chekiang) in east China, abbr. 浙[Zhè], capital Hangzhou 杭州[Háng zhōu]"
 ],
 [
 "江泽民",
@@ -60,19 +72,19 @@
 "江苏省",
 16.48,
 "Jiāng sū Shěng",
-"Jiangsu Province (Kiangsu) in southeast China, abbr. 蘇|苏[Su1], capital Nanjing 南京[Nan2 jing1]"
+"Jiangsu Province (Kiangsu) in southeast China, abbr. 苏[Sū], capital Nanjing 南京[Nán jīng]"
 ],
 [
 "黑龙江",
 12.56,
 "Hēi lóng jiāng",
-"Heilongjiang province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈爾濱|哈尔滨[Ha1 er3 bin1]; Heilongjiang river forming the border between northeast China and Russia; Amur river"
+"Heilongjiang province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈尔滨[Hā ěr bīn]; Heilongjiang river forming the border between northeast China and Russia; Amur river"
 ],
 [
 "黑龙江省",
 9.07,
 "Hēi lóng jiāng Shěng",
-"Heilongjiang Province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈爾濱|哈尔滨[Ha1 er3 bin1]"
+"Heilongjiang Province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈尔滨[Hā ěr bīn]"
 ],
 [
 "珠江",
@@ -84,7 +96,7 @@
 "江西省",
 8.15,
 "Jiāng xī Shěng",
-"Jiangxi Province (Kiangsi) in southeast China, abbr. 贛|赣[Gan4], capital Nanchang 南昌[Nan2 chang1]"
+"Jiangxi Province (Kiangsi) in southeast China, abbr. 赣[Gàn], capital Nanchang 南昌[Nán chāng]"
 ],
 [
 "丽江",
@@ -96,7 +108,7 @@
 "江山",
 5.72,
 "Jiāng shān",
-"Jiangshan county level city in Quzhou 衢州[Qu2 zhou1], Zhejiang"
+"Jiangshan county level city in Quzhou 衢州[Qú zhōu], Zhejiang"
 ],
 [
 "江山",
@@ -109,6 +121,12 @@
 5.13,
 "Zhè jiāng Dà xué",
 "Zhejiang University"
+],
+[
+"江淮",
+5.12,
+"???",
+"???"
 ]
 ],
 "strokes": [

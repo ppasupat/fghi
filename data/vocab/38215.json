@@ -1,36 +1,36 @@
 {
 "char": "镇",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "town, market place; suppress",
 "pron": "zhèn"
 },
 "words": [
 [
-"镇定",
+"城镇",
 6,
+"chéng zhèn",
+"town; cities and towns"
+],
+[
+"镇",
+6,
+"zhèn",
+"to press down; to calm; to subdue; to suppress; to guard; garrison; small town; to cool or chill (food or drinks)"
+],
+[
+"镇定",
+7,
 "zhèn dìng",
 "calm; unperturbed; cool"
-],
-[
-"镇静",
-6,
-"zhèn jìng",
-"calm; cool"
-],
-[
-"乡镇",
-6,
-"xiāng zhèn",
-"village; township"
 ]
 ],
 "extraWords": [
 [
-"城镇",
-39.9,
-"chéng zhèn",
-"town; cities and towns"
+"乡镇",
+28.67,
+"xiāng zhèn",
+"village; township"
 ],
 [
 "小镇",
@@ -39,10 +39,28 @@
 "small town; village"
 ],
 [
+"镇上",
+21.31,
+"???",
+"???"
+],
+[
 "镇子",
 12.94,
 "zhèn zi",
 "town; village"
+],
+[
+"乡镇企业",
+12.74,
+"???",
+"???"
+],
+[
+"镇静",
+8.47,
+"zhèn jìng",
+"calm; cool"
 ],
 [
 "镇静剂",

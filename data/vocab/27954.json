@@ -1,42 +1,47 @@
 {
 "char": "洲",
-"level": 4,
+"level": "7",
 "info": {
 "gloss": "continent; island; islet",
 "pron": "zhōu"
 },
-"words": [
-[
-"亚洲",
-4,
-"Yà zhōu",
-"Asia; abbr. for 亞細亞洲|亚细亚洲[Ya4 xi4 ya4 Zhou1]"
-],
+"words": [],
+"extraWords": [
 [
 "欧洲",
-5,
+104.58,
 "Ōu zhōu",
-"Europe; abbr. for 歐羅巴洲|欧罗巴洲[Ou1 luo2 ba1 Zhou1]"
-]
+"Europe; abbr. for 欧罗巴洲[Ōu luó bā Zhōu]"
 ],
-"extraWords": [
+[
+"亚洲",
+79.43,
+"Yà zhōu",
+"Asia; abbr. for 亚细亚洲[Yà xì yà Zhōu]"
+],
 [
 "非洲",
 34.63,
 "Fēi zhōu",
-"Africa; abbr. for 阿非利加洲[A1 fei1 li4 jia1 Zhou1]"
+"Africa; abbr. for 阿非利加洲[Ā fēi lì jiā Zhōu]"
+],
+[
+"洲",
+14.89,
+"zhōu",
+"continent; island in a river"
 ],
 [
 "澳洲",
 10.67,
 "Ào zhōu",
-"Australia; abbr. for 澳大利亞洲|澳大利亚洲[Ao4 da4 li4 ya4 Zhou1]"
+"Australia; abbr. for 澳大利亚洲[Ào dà lì yà Zhōu]"
 ],
 [
 "美洲",
 6.15,
 "Měi zhōu",
-"America (including North, Central and South America); the Americas; abbr. for 亞美利加洲|亚美利加洲[Ya4 mei3 li4 jia1 Zhou1]"
+"America (including North, Central and South America); the Americas; abbr. for 亚美利加洲[Yà měi lì jiā Zhōu]"
 ],
 [
 "亚洲杯",

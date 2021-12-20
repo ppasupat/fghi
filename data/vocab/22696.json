@@ -1,16 +1,28 @@
 {
 "char": "墨",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "ink; writing",
 "pron": "mò"
 },
 "words": [
 [
-"墨水儿",
+"墨水",
 6,
-"mò shuǐ r5",
-"erhua variant of 墨水[mo4 shui3]"
+"mò shuǐ",
+"ink; CL:瓶[píng]"
+],
+[
+"墨",
+7,
+"Mò",
+"surname Mo; abbr. for 墨西哥[Mò xī gē], Mexico"
+],
+[
+"墨",
+7,
+"mò",
+"ink stick; China ink; CL:块[kuài]; corporal punishment consisting of tattooing characters on the victim's forehead"
 ]
 ],
 "extraWords": [

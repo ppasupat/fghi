@@ -1,19 +1,32 @@
 {
 "char": "蛮",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "barbarians; barbarous, savage",
 "pron": "mán"
 },
 "words": [
 [
+"蛮",
+7,
+"mán",
+"barbarian; bullying; very; quite; rough; reckless"
+],
+[
 "野蛮",
-6,
+7,
 "yě mán",
 "barbarous; uncivilized"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"蛮横",
+1.62,
+"mán hèng",
+"rude and unreasonable"
+]
+],
 "strokes": [
 "M 479 784 Q 506 765 536 739 Q 551 727 566 729 Q 576 730 581 744 Q 584 760 573 789 Q 561 819 470 832 Q 454 833 448 831 Q 444 827 446 814 Q 450 804 479 784 Z",
 "M 601 668 Q 698 674 822 670 Q 900 667 906 676 Q 912 688 896 702 Q 836 750 792 732 Q 554 696 149 658 Q 128 657 143 639 Q 156 624 175 619 Q 196 612 212 617 Q 296 638 395 648 L 429 654 Q 501 664 560 666 L 601 668 Z",

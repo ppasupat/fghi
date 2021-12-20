@@ -1,102 +1,114 @@
 {
 "char": "紧",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "tense, tight, taut; firm, secure",
 "pron": "jǐn"
 },
 "words": [
 [
-"紧张",
-4,
-"jǐn zhāng",
-"nervous; keyed up; intense; tense; strained; in short supply; scarce; CL:陣|阵[zhen4]"
-],
-[
-"紧急",
-5,
-"jǐn jí",
-"urgent; emergency"
-],
-[
 "赶紧",
-5,
+3,
 "gǎn jǐn",
 "hurriedly; without delay"
 ],
 [
-"抓紧",
-5,
-"zhuā jǐn",
-"to grasp firmly; to pay special attention to; to rush in; to make the most of"
+"紧",
+3,
+"jǐn",
+"tight; strict; close at hand; near; urgent; tense; hard up; short of money; to tighten"
+],
+[
+"紧急",
+3,
+"jǐn jí",
+"urgent; emergency"
+],
+[
+"紧张",
+3,
+"jǐn zhāng",
+"nervous; keyed up; intense; tense; strained; in short supply; scarce; CL:阵[zhèn]"
 ],
 [
 "不要紧",
-5,
+4,
 "bù yào jǐn",
 "unimportant; not serious; it doesn't matter; never mind; it looks all right, but"
 ],
 [
-"紧迫",
-6,
-"jǐn pò",
-"pressing; urgent"
-]
-],
-"extraWords": [
-[
-"紧紧",
-30.39,
-"jǐn jǐn",
-"closely; tightly"
-],
-[
 "紧密",
-27.18,
+4,
 "jǐn mì",
 "inseparably close"
 ],
 [
-"无关紧要",
-12.97,
-"wú guān jǐn yào",
-"indifferent; insignificant"
+"抓紧",
+4,
+"zhuā jǐn",
+"to grasp firmly; to pay special attention to; to rush in; to make the most of"
+],
+[
+"紧紧",
+5,
+"jǐn jǐn",
+"closely; tightly"
 ],
 [
 "加紧",
-11.32,
+7,
 "jiā jǐn",
 "to intensify; to speed up; to step up"
 ],
 [
+"紧凑",
+7,
+"jǐn còu",
+"compact; terse; tight (schedule)"
+],
+[
 "紧接着",
-9.52,
+7,
 "jǐn jiē zhe",
 "immediately afterwards; shortly after that"
 ],
 [
+"紧迫",
+7,
+"jǐn pò",
+"pressing; urgent"
+],
+[
+"紧缺",
+7,
+"jǐn quē",
+"in short supply; scarce"
+],
+[
+"紧缩",
+7,
+"jǐn suō",
+"(economics) to reduce; to curtail; to cut back; to tighten; austerity; tightening; crunch"
+],
+[
+"无关紧要",
+7,
+"wú guān jǐn yào",
+"indifferent; insignificant"
+],
+[
 "要紧",
-7.9,
+7,
 "yào jǐn",
 "important; urgent"
+]
 ],
+"extraWords": [
 [
 "紧跟",
 7.02,
 "jǐn gēn",
 "to follow precisely; to comply with"
-],
-[
-"紧缩",
-6.25,
-"jǐn suō",
-"(economics) to reduce; to curtail; to cut back; to tighten; austerity; tightening; crunch"
-],
-[
-"紧缺",
-5.54,
-"jǐn quē",
-"in short supply; scarce"
 ]
 ],
 "strokes": [

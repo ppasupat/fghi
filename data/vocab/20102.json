@@ -1,6 +1,6 @@
 {
 "char": "了",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "to finish; particle of completed action",
 "pron": "le, liǎo"
@@ -16,7 +16,7 @@
 "了",
 1,
 "liǎo",
-"to finish; to achieve; variant of 瞭|了[liao3]; to understand clearly"
+"to finish; to achieve; variant of 了[liǎo]; to understand clearly"
 ],
 [
 "了",
@@ -28,25 +28,7 @@
 "了",
 1,
 "liào",
-"unofficial variant of 瞭[liao4]"
-],
-[
-"为了",
-3,
-"wèi le",
-"in order to; for the purpose of; so as to"
-],
-[
-"了解",
-3,
-"liǎo jiě",
-"to understand; to realize; to find out"
-],
-[
-"了解",
-3,
-"liǎo jiě",
-"to understand; to realize; to find out"
+"unofficial variant of 瞭[liào]"
 ],
 [
 "除了",
@@ -55,16 +37,40 @@
 "besides; apart from (... also...); in addition to; except (for)"
 ],
 [
+"极了",
+3,
+"jí le",
+"extremely; exceedingly"
+],
+[
+"为了",
+3,
+"wèi le",
+"in order to; for the purpose of; so as to"
+],
+[
+"了不起",
+4,
+"liǎo bu qǐ",
+"amazing; terrific; extraordinary"
+],
+[
+"了解",
+4,
+"liǎo jiě",
+"to understand; to realize; to find out"
+],
+[
+"了解",
+4,
+"liǎo jiě",
+"to understand; to realize; to find out"
+],
+[
 "受不了",
 4,
 "shòu bù liǎo",
 "unbearable; unable to endure; can't stand"
-],
-[
-"了不起",
-5,
-"liǎo bu qǐ",
-"amazing; terrific; extraordinary"
 ],
 [
 "不得了",
@@ -73,20 +79,110 @@
 "desperately serious; disastrous; extremely; exceedingly"
 ],
 [
-"大不了",
+"得了",
+5,
+"dé le",
+"all right!; that's enough!"
+],
+[
+"得了",
+5,
+"dé liǎo",
+"(emphatically, in rhetorical questions) possible"
+],
+[
+"完了",
+5,
+"wán le",
+"to be finished; to be done for; ruined; gone to the dogs; oh no"
+],
+[
+"罢了",
 6,
-"dà bù liǎo",
-"at worst; if worst comes to worst; serious; alarming"
+"bà le",
+"a modal particle indicating (that's all, only, nothing much)"
+],
+[
+"罢了",
+6,
+"bà liǎo",
+"a modal particle indicating (don't mind it, ok)"
+],
+[
+"算了",
+6,
+"suàn le",
+"let it be; let it pass; forget about it"
+],
+[
+"别提了",
+7,
+"bié tí le",
+"say no more; don't bring it up; drop the subject"
+],
+[
+"不了了之",
+7,
+"bù liǎo liǎo zhī",
+"to settle a matter by leaving it unsettled; to end up with nothing definite"
+],
+[
+"吹了",
+7,
+"chuī le",
+"failed; busted; to have not succeeded; to have died; to have parted company; to have chilled (of a relationship)"
+],
+[
+"了结",
+7,
+"liǎo jié",
+"to settle; to finish; to conclude; to wind up"
+],
+[
+"了却",
+7,
+"liǎo què",
+"to resolve; to settle"
+],
+[
+"没完没了",
+7,
+"méi wán méi liǎo",
+"without end; incessantly; on and on"
+],
+[
+"免不了",
+7,
+"miǎn bù liǎo",
+"unavoidable; can't be avoided"
+],
+[
+"少不了",
+7,
+"shǎo bu liǎo",
+"cannot do without; to be unavoidable; are bound to be many"
+],
+[
+"说白了",
+7,
+"shuō bái le",
+"to speak frankly"
+],
+[
+"忘不了",
+7,
+"wàng bù liǎo",
+"cannot forget"
 ],
 [
 "一目了然",
-6,
+7,
 "yī mù liǎo rán",
 "obvious at a glance (idiom)"
 ],
 [
 "一目了然",
-6,
+7,
 "yī mù liǎo rán",
 "obvious at a glance (idiom)"
 ]
@@ -97,12 +193,6 @@
 291.62,
 "dào liǎo",
 "at last; finally; in the end"
-],
-[
-"极了",
-172.03,
-"jí le",
-"extremely; exceedingly"
 ],
 [
 "不了",
@@ -117,40 +207,22 @@
 "unable to; without end"
 ],
 [
-"完了",
-50.03,
-"wán le",
-"to be finished; to be done for; ruined; gone to the dogs; oh no"
+"去了",
+109.65,
+"???",
+"???"
 ],
 [
-"罢了",
-40.93,
-"bà le",
-"a modal particle indicating (that's all, only, nothing much)"
+"花了",
+25.05,
+"???",
+"???"
 ],
 [
-"罢了",
-40.93,
-"bà liǎo",
-"a modal particle indicating (don't mind it, ok)"
-],
-[
-"得了",
-34.8,
-"dé le",
-"all right!; that's enough!"
-],
-[
-"得了",
-34.8,
-"dé liǎo",
-"(emphatically, in rhetorical questions) possible"
-],
-[
-"算了",
-31.12,
-"suàn le",
-"let it be; let it pass; forget about it"
+"大不了",
+21.02,
+"dà bù liǎo",
+"at worst; if worst comes to worst; serious; alarming"
 ],
 [
 "坏了",
@@ -159,16 +231,22 @@
 "shoot!; gosh!; oh, no!; (suffix) to the utmost"
 ],
 [
+"够了",
+17.85,
+"???",
+"???"
+],
+[
 "说了算",
 16.22,
 "shuō le suàn",
 "to have the final say; to be the one in charge"
 ],
 [
-"了结",
-14.16,
-"liǎo jié",
-"to settle; to finish; to conclude; to wind up"
+"看了看",
+14.53,
+"???",
+"???"
 ],
 [
 "对了",
@@ -186,7 +264,7 @@
 "明了",
 6.52,
 "míng liǎo",
-"to understand clearly; to be clear about; plain; clear; also written 明瞭|明了[ming2 liao3]"
+"to understand clearly; to be clear about; plain; clear; also written 明了[míng liǎo]"
 ],
 [
 "明了",
@@ -195,22 +273,22 @@
 "to understand clearly; to be clear about; plain; clear"
 ],
 [
-"少不了",
+"就是了",
+5.25,
+"???",
+"???"
+],
+[
+"好多了",
 5.13,
-"shǎo bu liǎo",
-"cannot do without; to be unavoidable; are bound to be many"
+"???",
+"???"
 ],
 [
 "了得",
 5.09,
 "liǎo de",
 "exceptional; outstanding; dreadful; appalling"
-],
-[
-"没完没了",
-5.07,
-"méi wán méi liǎo",
-"without end; incessantly; on and on"
 ]
 ],
 "strokes": [

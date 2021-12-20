@@ -1,61 +1,109 @@
 {
 "char": "率",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "to lead; ratio; rate; limit",
 "pron": "lǜ, shuài"
 },
 "words": [
 [
-"效率",
-5,
-"xiào lǜ",
-"efficiency"
-],
-[
-"坦率",
-5,
-"tǎn shuài",
-"frank (discussion); blunt; open"
-],
-[
 "汇率",
-5,
+4,
 "huì lǜ",
 "exchange rate"
 ],
 [
-"频率",
-6,
-"pín lǜ",
-"frequency"
+"率先",
+4,
+"shuài xiān",
+"to take the lead; to show initiative"
 ],
 [
-"草率",
-6,
-"cǎo shuài",
-"careless; negligent; sloppy; not serious"
+"效率",
+4,
+"xiào lǜ",
+"efficiency"
 ],
 [
 "率领",
-6,
+5,
 "shuài lǐng",
 "to lead; to command; to head"
-]
 ],
-"extraWords": [
+[
+"表率",
+7,
+"biǎo shuài",
+"example; model"
+],
+[
+"点击率",
+7,
+"diǎn jī lǜ",
+"click-through rate (CTR) (Internet)"
+],
+[
+"概率",
+7,
+"gài lǜ",
+"probability (math.)"
+],
+[
+"功率",
+7,
+"gōng lǜ",
+"rate of work; power (output)"
+],
+[
+"几率",
+7,
+"jī lǜ",
+"probability; odds"
+],
 [
 "利率",
-60.42,
+7,
 "lì lǜ",
 "interest rates"
 ],
 [
-"率先",
-31.33,
-"shuài xiān",
-"to take the lead; to show initiative"
+"率",
+7,
+"lǜ",
+"rate; frequency"
 ],
+[
+"率",
+7,
+"shuài",
+"to lead; to command; rash; hasty; frank; straightforward; generally; usually"
+],
+[
+"频率",
+7,
+"pín lǜ",
+"frequency"
+],
+[
+"失业率",
+7,
+"shī yè lǜ",
+"unemployment rate"
+],
+[
+"收视率",
+7,
+"shōu shì lǜ",
+"ratings (of a TV show)"
+],
+[
+"坦率",
+7,
+"tǎn shuài",
+"frank (discussion); blunt; open"
+]
+],
+"extraWords": [
 [
 "收益率",
 20.14,
@@ -75,16 +123,10 @@
 "resolution (of images, monitors, scanners etc)"
 ],
 [
-"概率",
-12.66,
-"gài lǜ",
-"probability (math.)"
-],
-[
-"功率",
-12.14,
-"gōng lǜ",
-"rate of work; power (output)"
+"税率",
+11.84,
+"???",
+"???"
 ],
 [
 "发生率",
@@ -111,10 +153,16 @@
 "mortality rate"
 ],
 [
-"几率",
-8.5,
-"jī lǜ",
-"probability; odds"
+"占有率",
+9.19,
+"???",
+"???"
+],
+[
+"合格率",
+8.43,
+"???",
+"???"
 ],
 [
 "比率",
@@ -123,16 +171,34 @@
 "ratio; rate; percentage"
 ],
 [
+"有效率",
+8.03,
+"???",
+"???"
+],
+[
 "速率",
 7.93,
 "sù lǜ",
 "speed; rate"
 ],
 [
-"收视率",
-7.81,
-"shōu shì lǜ",
-"ratings (of a TV show)"
+"利用率",
+7.4,
+"???",
+"???"
+],
+[
+"成功率",
+6.86,
+"???",
+"???"
+],
+[
+"工作效率",
+6.1,
+"???",
+"???"
 ],
 [
 "利润率",
@@ -145,6 +211,12 @@
 5.92,
 "shēng chǎn lǜ",
 "productivity; efficiency of production"
+],
+[
+"准备金率",
+5.58,
+"???",
+"???"
 ],
 [
 "覆盖率",

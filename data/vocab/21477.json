@@ -1,25 +1,37 @@
 {
 "char": "句",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "sentence",
 "pron": "gōu, jù"
 },
 "words": [
 [
+"句",
+2,
+"gōu",
+"variant of 勾[gōu]"
+],
+[
+"句",
+2,
+"jù",
+"sentence; clause; phrase; classifier for phrases or lines of verse"
+],
+[
 "句子",
-3,
+2,
 "jù zi",
-"sentence; CL:個|个[ge4]"
+"sentence; CL:个[gè]"
+],
+[
+"一句话",
+5,
+"yī jù huà",
+"in a word; in short"
 ]
 ],
 "extraWords": [
-[
-"一句话",
-44.88,
-"yī jù huà",
-"in a word; in short"
-],
 [
 "换句话说",
 5.43,

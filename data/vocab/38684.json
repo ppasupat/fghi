@@ -1,19 +1,32 @@
 {
 "char": "霜",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "frost; crystallized; candied",
 "pron": "shuāng"
 },
 "words": [
 [
+"霜",
+7,
+"shuāng",
+"frost; white powder or cream spread over a surface; frosting; (skin) cream"
+],
+[
 "雪上加霜",
-6,
+7,
 "xuě shàng jiā shuāng",
 "(idiom) to make matters even worse; to add insult to injury"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"面霜",
+2.19,
+"miàn shuāng",
+"facial cream (cosmetics)"
+]
+],
 "strokes": [
 "M 519 773 Q 585 786 655 798 Q 698 807 706 813 Q 715 820 711 828 Q 704 840 676 848 Q 652 854 542 823 Q 440 804 382 799 Q 346 795 371 778 Q 410 751 468 765 Q 471 765 475 765 L 519 773 Z",
 "M 277 658 Q 268 680 258 689 Q 242 705 237 679 Q 237 646 195 599 Q 147 560 175 499 Q 188 471 210 497 Q 229 521 244 557 Q 263 602 276 627 C 284 642 284 642 277 658 Z",

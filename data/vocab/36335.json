@@ -1,6 +1,6 @@
 {
 "char": "路",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "road, path, street; journey",
 "pron": "lù"
@@ -8,137 +8,263 @@
 "words": [
 [
 "路",
-2,
+1,
 "Lù",
 "surname Lu"
 ],
 [
 "路",
-2,
+1,
 "lù",
-"road; CL:條|条[tiao2]; journey; route; line (bus etc); sort; kind"
+"road; CL:条[tiáo]; journey; route; line (bus etc); sort; kind"
 ],
 [
-"迷路",
-4,
-"mí lù",
-"to lose the way; lost; labyrinth; labyrinthus vestibularis (of the inner ear)"
+"路口",
+1,
+"lù kǒu",
+"crossing; intersection (of roads)"
+],
+[
+"路上",
+1,
+"lù shang",
+"on the road; on a journey; road surface"
+],
+[
+"马路",
+1,
+"mǎ lù",
+"street; road; CL:条[tiáo]"
+],
+[
+"走路",
+1,
+"zǒu lù",
+"to walk; to go on foot"
+],
+[
+"道路",
+2,
+"dào lù",
+"road; path; way; CL:条[tiáo]"
+],
+[
+"公路",
+2,
+"gōng lù",
+"highway; road; CL:条[tiáo]"
+],
+[
+"路边",
+2,
+"lù biān",
+"curb; roadside; wayside"
+],
+[
+"问路",
+2,
+"wèn lù",
+"to ask for directions; to ask the way (to some place)"
+],
+[
+"一路平安",
+2,
+"yī lù píng ān",
+"to have a pleasant journey; Bon voyage!"
+],
+[
+"一路顺风",
+2,
+"yī lù shùn fēng",
+"to have a pleasant journey (idiom)"
 ],
 [
 "高速公路",
-4,
+3,
 "gāo sù gōng lù",
 "expressway; highway; freeway"
+],
+[
+"路线",
+3,
+"lù xiàn",
+"itinerary; route; political line (e.g. right revisionist road); CL:条[tiáo]"
+],
+[
+"铁路",
+3,
+"tiě lù",
+"railroad; railway; CL:条[tiáo]"
+],
+[
+"一路",
+5,
+"yī lù",
+"the whole journey; all the way; going the same way; going in the same direction; of the same kind"
 ],
 [
 "出路",
 6,
 "chū lù",
 "a way out (lit. and fig.); opportunity for advancement; a way forward; outlet (for one's products)"
-]
-],
-"extraWords": [
-[
-"道路",
-102.29,
-"dào lù",
-"road; path; way; CL:條|条[tiao2]"
 ],
 [
-"路上",
-71.51,
-"lù shang",
-"on the road; on a journey; road surface"
-],
-[
-"铁路",
-66.91,
-"tiě lù",
-"railroad; railway; CL:條|条[tiao2]"
-],
-[
-"路线",
-60.81,
-"lù xiàn",
-"itinerary; route; political line (e.g. right revisionist road); CL:條|条[tiao2]"
-],
-[
-"公路",
-56.91,
-"gōng lù",
-"highway; road; CL:條|条[tiao2]"
-],
-[
-"一路",
-51.19,
-"yī lù",
-"the whole journey; all the way; going the same way; going in the same direction; of the same kind"
-],
-[
-"思路",
-41.42,
-"sī lù",
-"train of thought; thinking; reason; reasoning"
+"路过",
+6,
+"lù guò",
+"to pass by or through"
 ],
 [
 "线路",
-36.28,
+6,
 "xiàn lù",
 "line; circuit; wire; road; railway track; bus route"
 ],
 [
-"走路",
-22.66,
-"zǒu lù",
-"to walk; to go on foot"
+"一路上",
+6,
+"yī lù shàng",
+"along the way; the whole way; (fig.) the whole time"
 ],
 [
-"路口",
-22.57,
-"lù kǒu",
-"crossing; intersection (of roads)"
+"半路",
+7,
+"bàn lù",
+"halfway; midway; on the way"
 ],
 [
-"马路",
-21.37,
-"mǎ lù",
-"street; road; CL:條|条[tiao2]"
+"带路",
+7,
+"dài lù",
+"to lead the way; to guide; to show the way; fig. to instruct"
+],
+[
+"峰回路转",
+7,
+"fēng huí lù zhuǎn",
+"the mountain road twists around each new peak (idiom); (of a mountain road) twisting and turning; fig. an opportunity has come unexpectedly; things have taken a new turn"
+],
+[
+"路程",
+7,
+"lù chéng",
+"route; path traveled; distance traveled; course (of development)"
+],
+[
+"路灯",
+7,
+"lù dēng",
+"street lamp; street light"
 ],
 [
 "路段",
-19.47,
+7,
 "lù duàn",
 "stretch of road; section of a highway or railway"
 ],
 [
+"路况",
+7,
+"lù kuàng",
+"road condition(s) (e.g. surface, traffic flow etc)"
+],
+[
 "路面",
-17.13,
+7,
 "lù miàn",
 "road surface"
 ],
 [
-"路边",
-14.82,
-"lù biān",
-"curb; roadside; wayside"
+"路人",
+7,
+"lù rén",
+"passer-by; stranger"
 ],
 [
-"路过",
-14.52,
-"lù guò",
-"to pass by or through"
+"路途",
+7,
+"lù tú",
+"(lit. and fig.) road; path"
 ],
+[
+"路子",
+7,
+"lù zi",
+"method; way; approach"
+],
+[
+"门路",
+7,
+"mén lù",
+"way of doing sth; the right social connection"
+],
+[
+"迷路",
+7,
+"mí lù",
+"to lose the way; lost; labyrinth; labyrinthus vestibularis (of the inner ear)"
+],
+[
+"铺路",
+7,
+"pū lù",
+"to pave (with paving stones); to lay a road; (fig.) to lay the groundwork (for sth); to give a present to sb to ensure success"
+],
+[
+"山路",
+7,
+"shān lù",
+"mountain road"
+],
+[
+"十字路口",
+7,
+"shí zì lù kǒu",
+"crossroads; intersection"
+],
+[
+"顺路",
+7,
+"shùn lù",
+"by the way; while out doing sth else; conveniently"
+],
+[
+"思路",
+7,
+"sī lù",
+"train of thought; thinking; reason; reasoning"
+],
+[
+"小路",
+7,
+"xiǎo lù",
+"minor road; lane; pathway; trail"
+],
+[
+"修路",
+7,
+"xiū lù",
+"to repair a road"
+],
+[
+"走投无路",
+7,
+"zǒu tóu wú lù",
+"to be at an impasse (idiom); in a tight spot; at the end of one's rope; desperate"
+],
+[
+"走弯路",
+7,
+"zǒu wān lù",
+"to take an indirect route; to waste one's time by using an inappropriate method"
+]
+],
+"extraWords": [
 [
 "中路",
 13.61,
 "zhōng lù",
 "midway; mediocre (quality); midfield (soccer)"
-],
-[
-"路人",
-11.84,
-"lù rén",
-"passer-by; stranger"
 ],
 [
 "电路",
@@ -165,16 +291,16 @@
 "roadblock; barricade"
 ],
 [
-"一路上",
-8.42,
-"yī lù shàng",
-"along the way; the whole way; (fig.) the whole time"
-],
-[
 "路易",
 8.29,
 "Lù yì",
 "Louis or Lewis (name)"
+],
+[
+"左路",
+7.58,
+"???",
+"???"
 ],
 [
 "路径",
@@ -189,34 +315,10 @@
 "Reuters News Agency"
 ],
 [
-"山路",
-7.08,
-"shān lù",
-"mountain road"
-],
-[
-"路子",
-6.97,
-"lù zi",
-"method; way; approach"
-],
-[
-"路程",
-6.43,
-"lù chéng",
-"route; path traveled; distance traveled; course (of development)"
-],
-[
-"路灯",
-6.18,
-"lù dēng",
-"street lamp; street light"
-],
-[
-"路况",
-5.9,
-"lù kuàng",
-"road condition(s) (e.g. surface, traffic flow etc)"
+"各路",
+5.97,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "判",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "judge; discriminate; conclude",
 "pron": "pàn"
@@ -8,60 +8,66 @@
 "words": [
 [
 "判断",
-4,
+3,
 "pàn duàn",
 "to judge; to determine; judgment"
 ],
 [
 "谈判",
-5,
+3,
 "tán pàn",
-"to negotiate; negotiation; talks; conference; CL:個|个[ge4]"
-],
-[
-"审判",
-6,
-"shěn pàn",
-"a trial; to try sb"
-],
-[
-"判决",
-6,
-"pàn jué",
-"judgment (by a court of law); to pass judgment on; to sentence"
+"to negotiate; negotiation; talks; conference; CL:个[gè]"
 ],
 [
 "裁判",
-6,
+5,
 "cái pàn",
-"judgment; to referee; umpire; judge; referee; CL:個|个[ge4],位[wei4],名[ming2]"
+"judgment; to referee; umpire; judge; referee; CL:个[gè],位[wèi],名[míng]"
 ],
 [
-"批判",
+"判",
 6,
-"pī pàn",
-"to criticize; critique; CL:個|个[ge4]"
-]
+"pàn",
+"to judge; to sentence; to discriminate; to discern; clearly distinguishable"
 ],
-"extraWords": [
 [
 "判处",
-19.51,
+7,
 "pàn chǔ",
 "to sentence; to condemn"
 ],
 [
+"判定",
+7,
+"pàn dìng",
+"to judge; to decide; judgment; determination"
+],
+[
+"判决",
+7,
+"pàn jué",
+"judgment (by a court of law); to pass judgment on; to sentence"
+],
+[
+"批判",
+7,
+"pī pàn",
+"to criticize; critique; CL:个[gè]"
+],
+[
 "评判",
-10.58,
+7,
 "píng pàn",
 "to judge (a competition); to appraise"
 ],
 [
-"判定",
-9.07,
-"pàn dìng",
-"to judge; to decide; judgment; determination"
+"审判",
+7,
+"shěn pàn",
+"a trial; to try sb"
+]
 ],
+"extraWords": [
 [
 "宣判",
 7.62,

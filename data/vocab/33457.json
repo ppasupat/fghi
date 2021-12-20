@@ -1,6 +1,6 @@
 {
 "char": "花",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "flower; blossoms",
 "pron": "huā"
@@ -8,71 +8,167 @@
 "words": [
 [
 "花",
-3,
+1,
 "Huā",
 "surname Hua"
 ],
 [
 "花",
-3,
+1,
 "huā",
-"flower; blossom; CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]; fancy pattern; florid; to spend (money, time); (coll.) lecherous; lustful"
+"flower; blossom; CL:朵[duǒ],支[zhī],束[shù],把[bǎ],盆[pén],簇[cù]; fancy pattern; florid; to spend (money, time); (coll.) lecherous; lustful"
 ],
 [
 "花",
-3,
+1,
 "huā",
-"old variant of 花[hua1]"
+"old variant of 花[huā]"
 ],
 [
 "花",
-3,
+1,
 "huā",
-"variant of 花[hua1]; flower; blossom; also pr. [wei3]"
+"variant of 花[huā]; flower; blossom; also pr. [wei3]"
+],
+[
+"花园",
+2,
+"huā yuán",
+"garden; CL:座[zuò],个[gè]"
+],
+[
+"开花",
+4,
+"kāi huā",
+"to bloom; to blossom; to flower; fig. to burst open; to feel happy or elated; new development grows out"
+],
+[
+"鲜花",
+4,
+"xiān huā",
+"flower; fresh flowers; CL:朵[duǒ]"
+],
+[
+"桃花",
+5,
+"táo huā",
+"peach blossom; (fig.) love affair"
+],
+[
+"花费",
+6,
+"huā fèi",
+"expense; cost; to spend (time or money); expenditure"
+],
+[
+"花瓶",
+6,
+"huā píng",
+"flower vase; fig. just a pretty face; CL:对[duì]"
 ],
 [
 "花生",
-5,
+6,
 "huā shēng",
-"peanut; groundnut; CL:粒[li4]"
+"peanut; groundnut; CL:粒[lì]"
+],
+[
+"梅花",
+6,
+"méi huā",
+"plum blossom; clubs ♣ (a suit in card games); wintersweet (dialect)"
+],
+[
+"烟花",
+6,
+"yān huā",
+"fireworks; prostitute (esp. in Yuan theater)"
+],
+[
+"桂花",
+7,
+"guì huā",
+"osmanthus flowers; Osmanthus fragrans"
+],
+[
+"荷花",
+7,
+"hé huā",
+"lotus"
+],
+[
+"花瓣",
+7,
+"huā bàn",
+"petal; CL:片[piàn]"
+],
+[
+"花卉",
+7,
+"huā huì",
+"flowers and plants"
+],
+[
+"花纹",
+7,
+"huā wén",
+"decorative design"
+],
+[
+"花样",
+7,
+"huā yàng",
+"pattern; way of doing sth; trick; ruse; fancy-style (as in 花样滑冰[huā yàng huá bīng] figure skating)"
+],
+[
+"火花",
+7,
+"huǒ huā",
+"spark; sparkle"
+],
+[
+"菊花",
+7,
+"jú huā",
+"chrysanthemum; (slang) anus"
+],
+[
+"零花钱",
+7,
+"líng huā qián",
+"pocket money; allowance"
+],
+[
+"芦花",
+7,
+"lú huā",
+"reed catkin; reed flower"
 ],
 [
 "棉花",
-6,
+7,
 "mián hua",
 "cotton"
 ],
 [
-"花瓣",
-6,
-"huā bàn",
-"petal; CL:片[pian4]"
+"奇花异草",
+7,
+"qí huā yì cǎo",
+"very rarely seen, unusual (idiom)"
 ],
 [
-"烟花爆竹",
-6,
-"yān huā bào zhú",
-"fireworks (i.e. pyrotechnic devices, not the display they produce)"
-],
-[
-"锦上添花",
-6,
-"jǐn shàng tiān huā",
-"lit. add flowers to brocade (idiom); fig. to give sth additional splendor; to provide the crowning touch; (derog.) to benefit sb who is already well off"
-],
-[
-"花蕾",
-6,
-"huā lěi",
-"bud; flower bud"
+"五花八门",
+7,
+"wǔ huā bā mén",
+"myriad; all kinds of; all sorts of"
 ]
 ],
 "extraWords": [
 [
-"花园",
-31.22,
-"huā yuán",
-"garden; CL:座[zuo4],個|个[ge4]"
+"花了",
+25.05,
+"???",
+"???"
 ],
 [
 "花钱",
@@ -81,40 +177,16 @@
 "to spend money"
 ],
 [
-"花费",
-19.07,
-"huā fèi",
-"expense; cost; to spend (time or money); expenditure"
+"申花",
+18.08,
+"???",
+"???"
 ],
 [
-"烟花",
-15.34,
-"yān huā",
-"fireworks; prostitute (esp. in Yuan theater)"
-],
-[
-"桃花",
-14.31,
-"táo huā",
-"peach blossom; (fig.) love affair"
-],
-[
-"鲜花",
-14.3,
-"xiān huā",
-"flower; fresh flowers; CL:朵[duo3]"
-],
-[
-"花样",
-12.19,
-"huā yàng",
-"pattern; way of doing sth; trick; ruse; fancy-style (as in 花樣滑冰|花样滑冰[hua1 yang4 hua2 bing1] figure skating)"
-],
-[
-"菊花",
-12.1,
-"jú huā",
-"chrysanthemum; (slang) anus"
+"花花",
+9.87,
+"???",
+"???"
 ],
 [
 "雪花",
@@ -123,28 +195,10 @@
 "snowflake"
 ],
 [
-"花卉",
-8.63,
-"huā huì",
-"flowers and plants"
-],
-[
 "花朵",
 8.61,
 "huā duǒ",
 "flower"
-],
-[
-"开花",
-8.27,
-"kāi huā",
-"to bloom; to blossom; to flower; fig. to burst open; to feel happy or elated; new development grows out"
-],
-[
-"火花",
-8.17,
-"huǒ huā",
-"spark; sparkle"
 ],
 [
 "爆米花",
@@ -168,13 +222,13 @@
 "花儿",
 6.18,
 "huā ér",
-"style of folk song popular in Gansu, Qinghai and Ningxia; CL:首[shou3]"
+"style of folk song popular in Gansu, Qinghai and Ningxia; CL:首[shǒu]"
 ],
 [
 "花儿",
 6.18,
 "huā r5",
-"erhua variant of 花[hua1]"
+"erhua variant of 花[huā]"
 ],
 [
 "花旗",
@@ -189,28 +243,22 @@
 "cymbidium; orchid"
 ],
 [
+"小花",
+5.83,
+"???",
+"???"
+],
+[
 "花生酱",
 5.66,
 "huā shēng jiàng",
 "peanut butter"
 ],
 [
-"梅花",
-5.54,
-"méi huā",
-"plum blossom; clubs ♣ (a suit in card games); wintersweet (dialect)"
-],
-[
 "印花",
 5.41,
 "yìn huā",
 "tax stamp"
-],
-[
-"花瓶",
-5.22,
-"huā píng",
-"flower vase; fig. just a pretty face; CL:對|对[dui4]"
 ],
 [
 "花絮",

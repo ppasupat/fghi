@@ -1,6 +1,6 @@
 {
 "char": "做",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "work, make; act",
 "pron": "zuò"
@@ -13,30 +13,60 @@
 "to do; to make; to produce; to write; to compose; to act as; to engage in; to hold (a party); to be; to become; to function (in some capacity); to serve as; to be used for; to form (a bond or relationship); to pretend; to feign; to act a part; to put on appearance"
 ],
 [
-"做主",
-6,
-"zuò zhǔ",
-"see 作主[zuo4 zhu3]"
-]
-],
-"extraWords": [
-[
 "做到",
-113.78,
+2,
 "zuò dào",
 "to accomplish; to achieve"
 ],
+[
+"做法",
+2,
+"zuò fǎ",
+"way of handling sth; method for making; work method; recipe; practice; CL:个[gè]"
+],
+[
+"做饭",
+2,
+"zuò fàn",
+"to prepare a meal; to cook"
+],
+[
+"做客",
+3,
+"zuò kè",
+"to be a guest or visitor"
+],
+[
+"做梦",
+4,
+"zuò mèng",
+"to dream; to have a dream; fig. illusion; fantasy; pipe dream"
+],
+[
+"定做",
+7,
+"dìng zuò",
+"to have something made to order"
+],
+[
+"做生意",
+7,
+"zuò shēng yì",
+"to do business"
+],
+[
+"做证",
+7,
+"???",
+"???"
+]
+],
+"extraWords": [
 [
 "做出",
 66.24,
 "zuò chū",
 "to put out; to issue"
-],
-[
-"做法",
-61.03,
-"zuò fǎ",
-"way of handling sth; method for making; work method; recipe; practice; CL:個|个[ge4]"
 ],
 [
 "叫做",
@@ -51,12 +81,6 @@
 "to make love"
 ],
 [
-"做梦",
-25.52,
-"zuò mèng",
-"to dream; to have a dream; fig. illusion; fantasy; pipe dream"
-],
-[
 "做人",
 22.91,
 "zuò rén",
@@ -69,10 +93,22 @@
 "to work; to handle matters; to have a job"
 ],
 [
-"做饭",
-16.16,
-"zuò fàn",
-"to prepare a meal; to cook"
+"做好",
+19.76,
+"???",
+"???"
+],
+[
+"来做",
+14.66,
+"???",
+"???"
+],
+[
+"做成",
+13.01,
+"???",
+"???"
 ],
 [
 "做不到",
@@ -81,22 +117,16 @@
 "impossible"
 ],
 [
-"做生意",
-8.66,
-"zuò shēng yì",
-"to do business"
-],
-[
-"做客",
-8.58,
-"zuò kè",
-"to be a guest or visitor"
-],
-[
 "做工",
 8.56,
 "zuò gōng",
 "to work with one's hands; manual work; workmanship"
+],
+[
+"做准备",
+5.39,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,85 +1,109 @@
 {
 "char": "周",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "Zhou dynasty; circumference",
 "pron": "zhōu"
 },
 "words": [
 [
+"上周",
+2,
+"shàng zhōu",
+"last week"
+],
+[
+"下周",
+2,
+"xià zhōu",
+"next week"
+],
+[
+"周",
+2,
+"Zhōu",
+"surname Zhou; Zhou Dynasty (1046-256 BC)"
+],
+[
+"周",
+2,
+"zhōu",
+"to make a circuit; to circle; circle; circumference; lap; cycle; complete; all; all over; thorough; to help financially"
+],
+[
+"周",
+2,
+"zhōu",
+"week; weekly; variant of 周[zhōu]"
+],
+[
 "周末",
-3,
+2,
 "zhōu mò",
 "weekend"
 ],
 [
-"周围",
-4,
-"zhōu wéi",
-"surroundings; environment; to encompass"
-],
-[
-"周到",
-5,
-"zhōu dào",
-"thoughtful; considerate; attentive; thorough; also pr. [zhou1 dao5]"
-],
-[
 "周年",
-6,
+2,
 "zhōu nián",
 "anniversary; annual"
 ],
 [
-"周边",
-6,
-"zhōu biān",
-"periphery; rim; surroundings; all around; perimeter; peripheral (computing); spin-offs"
+"周围",
+3,
+"zhōu wéi",
+"surroundings; environment; to encompass"
+],
+[
+"四周",
+5,
+"sì zhōu",
+"all around"
+],
+[
+"周期",
+5,
+"zhōu qī",
+"period; cycle"
 ],
 [
 "众所周知",
-6,
+7,
 "zhòng suǒ zhōu zhī",
 "as everyone knows (idiom)"
 ],
 [
 "众所周知",
-6,
+7,
 "zhòng suǒ zhōu zhī",
-"see 眾所周知|众所周知[zhong4 suo3 zhou1 zhi1]"
+"see 众所周知[zhòng suǒ zhōu zhī]"
 ],
 [
-"周期",
-6,
-"zhōu qī",
-"period; cycle"
+"周边",
+7,
+"zhōu biān",
+"periphery; rim; surroundings; all around; perimeter; peripheral (computing); spin-offs"
+],
+[
+"周到",
+7,
+"zhōu dào",
+"thoughtful; considerate; attentive; thorough; also pr. [zhou1 dao5]"
 ],
 [
 "周密",
-6,
+7,
 "zhōu mì",
 "careful; thorough; meticulous; dense; impenetrable"
 ],
 [
-"周折",
-6,
-"zhōu zhé",
-"twists and turns; vicissitude; complication; difficulty; effort; CL:番[fan1]"
-],
-[
-"周转",
-6,
-"zhōu zhuǎn",
-"to rotate; to circulate (cash, stock etc); turnover; circulation; cash flow"
+"周旋",
+7,
+"zhōu xuán",
+"to mix with others; to socialize; to deal with; to contend"
 ]
 ],
 "extraWords": [
-[
-"上周",
-46.26,
-"shàng zhōu",
-"last week"
-],
 [
 "周五",
 33.11,
@@ -103,12 +127,6 @@
 20.75,
 "Zhōu liù",
 "Saturday"
-],
-[
-"四周",
-19.61,
-"sì zhōu",
-"all around"
 ],
 [
 "周三",

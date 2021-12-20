@@ -1,19 +1,43 @@
 {
 "char": "哀",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "sad, mournful, pitiful; pity",
 "pron": "āi"
 },
 "words": [
 [
+"哀求",
+7,
+"āi qiú",
+"to entreat; to implore; to plead"
+],
+[
 "悲哀",
-6,
+7,
 "bēi āi",
 "grieved; sorrowful"
+],
+[
+"喜怒哀乐",
+7,
+"xǐ nù āi lè",
+"four types of human emotions, namely: happiness 欢喜[huān xǐ], anger 愤怒[fèn nù], sorrow 悲哀[bēi āi] and joy 快乐[kuài lè]"
 ]
 ],
 "extraWords": [
+[
+"哀",
+6.22,
+"Āi",
+"Ai (c. 2000 BC), sixth of legendary Flame Emperors 炎帝[Yán dì] descended from Shennong 神农[Shén nóng] Farmer God, also known as Li 厘[Lí]"
+],
+[
+"哀",
+6.22,
+"āi",
+"sorrow; grief; pity; to grieve for; to pity; to lament; to condole"
+],
 [
 "哀悼",
 5.84,

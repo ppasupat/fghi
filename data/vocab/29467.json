@@ -1,16 +1,34 @@
 {
 "char": "猛",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "violent, savage, cruel; bold",
 "pron": "měng"
 },
 "words": [
 [
-"猛烈",
+"猛",
 6,
+"měng",
+"ferocious; fierce; violent; brave; suddenly; abrupt; (slang) awesome"
+],
+[
+"猛烈",
+7,
 "měng liè",
 "fierce; violent (criticism etc)"
+],
+[
+"猛然",
+7,
+"měng rán",
+"suddenly; abruptly"
+],
+[
+"凶猛",
+7,
+"xiōng měng",
+"fierce; violent; ferocious"
 ]
 ],
 "extraWords": [
@@ -19,12 +37,6 @@
 9.05,
 "xùn měng",
 "quick and violent"
-],
-[
-"猛然",
-8.24,
-"měng rán",
-"suddenly; abruptly"
 ],
 [
 "猛地",

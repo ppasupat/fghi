@@ -1,30 +1,30 @@
 {
 "char": "屑",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "bits, scraps, crumbs, fragments",
 "pron": "xiè"
 },
 "words": [
 [
+"不屑",
+7,
+"bù xiè",
+"to disdain to do sth; to think sth not worth doing; to feel it beneath one's dignity"
+]
+],
+"extraWords": [
+[
 "屑",
-6,
+7.35,
 "xiè",
 "bits; fragments; crumbs; filings; trifling; trivial; to condescend to"
 ],
 [
 "不屑一顾",
-6,
+2.0,
 "bù xiè yī gù",
 "to disdain as beneath contempt (idiom)"
-]
-],
-"extraWords": [
-[
-"不屑",
-7.96,
-"bù xiè",
-"to disdain to do sth; to think sth not worth doing; to feel it beneath one's dignity"
 ]
 ],
 "strokes": [

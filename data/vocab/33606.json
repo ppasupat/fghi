@@ -1,12 +1,32 @@
 {
 "char": "荆",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "thorns; brambles; my wife; cane",
 "pron": "jīng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"荆棘",
+7,
+"jīng jí",
+"thistles and thorns; brambles; thorny undergrowth"
+]
+],
+"extraWords": [
+[
+"荆",
+8.63,
+"jīng",
+"chaste tree or berry (Vitex agnus-castus); alternative name for the Zhou Dynasty state of Chu 楚国[Chǔ guó]"
+],
+[
+"荆楚",
+7.65,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 495 647 Q 504 656 607 653 Q 620 652 625 661 Q 628 671 616 683 Q 577 714 532 702 Q 522 701 513 697 L 463 686 Q 402 673 334 659 L 286 650 Q 228 641 167 631 Q 142 627 160 615 Q 202 594 263 610 Q 276 614 292 617 L 335 627 Q 350 636 452 643 L 495 647 Z",
 "M 334 659 Q 334 692 335 718 Q 338 737 318 744 Q 285 768 258 761 Q 239 754 253 733 Q 284 688 286 650 L 292 617 Q 295 569 312 548 Q 325 536 330 548 Q 334 560 335 627 L 334 659 Z",

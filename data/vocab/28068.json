@@ -1,17 +1,30 @@
 {
 "char": "涤",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "wash, cleanse, purify; sweep",
 "pron": "dí"
 },
-"words": [],
+"words": [
+[
+"洗涤剂",
+7,
+"xǐ dí jì",
+"cleaning agent; detergent"
+]
+],
 "extraWords": [
 [
 "洗涤",
 5.08,
 "xǐ dí",
 "to rinse; to wash; washing"
+],
+[
+"涤",
+3.5,
+"dí",
+"to wash; to cleanse"
 ]
 ],
 "strokes": [

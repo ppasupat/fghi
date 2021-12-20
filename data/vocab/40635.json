@@ -1,6 +1,6 @@
 {
 "char": "麻",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "hemp, jute, flax; sesame",
 "pron": "má"
@@ -8,27 +8,63 @@
 "words": [
 [
 "麻烦",
-4,
+3,
 "má fan",
 "inconvenient; troublesome; annoying; to trouble or bother sb; to put sb to trouble"
 ],
 [
-"麻醉",
-6,
-"má zuì",
-"anesthesia; (fig.) to poison (sb's mind)"
+"麻",
+7,
+"má",
+"variant of 麻[má]; hemp"
+],
+[
+"麻",
+7,
+"Má",
+"surname Ma"
+],
+[
+"麻",
+7,
+"má",
+"generic name for hemp, flax etc; hemp or flax fiber for textile materials; sesame; CL:缕[lǚ]; (of materials) rough or coarse; pocked; pitted; to have pins and needles or tingling; to feel numb"
 ],
 [
 "麻痹",
-6,
+7,
 "má bì",
 "paralysis; palsy; numbness; to benumb; (fig.) to lull; negligent; apathetic"
 ],
 [
+"麻将",
+7,
+"má jiàng",
+"mahjong; CL:副[fù]"
+],
+[
+"麻辣",
+7,
+"má là",
+"hot and numbing"
+],
+[
 "麻木",
-6,
+7,
 "má mù",
 "numb; insensitive; apathetic"
+],
+[
+"麻醉",
+7,
+"má zuì",
+"anesthesia; (fig.) to poison (sb's mind)"
+],
+[
+"芝麻",
+7,
+"zhī ma",
+"sesame (seed)"
 ]
 ],
 "extraWords": [
@@ -45,22 +81,10 @@
 "to create difficulties; to invite trouble; to be troublesome"
 ],
 [
-"麻将",
-15.42,
-"má jiàng",
-"mahjong; CL:副[fu4]"
-],
-[
-"芝麻",
-9.02,
-"zhī ma",
-"sesame (seed)"
-],
-[
-"麻辣",
-8.37,
-"má là",
-"hot and numbing"
+"麻麻",
+11.04,
+"???",
+"???"
 ],
 [
 "找麻烦",

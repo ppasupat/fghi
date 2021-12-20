@@ -1,28 +1,76 @@
 {
 "char": "卡",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "card, punch card; calorie",
 "pron": "kǎ, qiǎ"
 },
 "words": [
 [
+"卡",
+2,
+"kǎ",
+"to stop; to block; (computing) (coll.) slow; (loanword) card; CL:张[zhāng],片[piàn]; truck (from \"car\"); calorie (abbr. for 卡路里[kǎ lù lǐ]); cassette"
+],
+[
+"卡",
+2,
+"qiǎ",
+"to block; to be stuck; to be wedged; customs station; a clip; a fastener; a checkpost; Taiwan pr. [ka3]"
+],
+[
 "信用卡",
-3,
+2,
 "xìn yòng kǎ",
 "credit card"
 ],
 [
-"卡车",
+"银行卡",
+2,
+"yín háng kǎ",
+"bank card; ATM card"
+],
+[
+"贺卡",
 5,
+"hè kǎ",
+"greeting card; congratulation card"
+],
+[
+"磁卡",
+7,
+"cí kǎ",
+"magnetic card; IC Card (telephone)"
+],
+[
+"卡车",
+7,
 "kǎ chē",
-"truck; CL:輛|辆[liang4]"
+"truck; CL:辆[liàng]"
+],
+[
+"卡片",
+7,
+"kǎ piàn",
+"card"
 ],
 [
 "卡通",
-6,
+7,
 "kǎ tōng",
 "cartoon (loanword)"
+],
+[
+"卡子",
+7,
+"qiǎ zi",
+"clip; hair fastener; checkpoint"
+],
+[
+"一卡通",
+7,
+"Yī kǎ tōng",
+"the name of various contactless smartcards, notably Yikatong (mainly for public transport in Beijing) and iPASS (mainly for public transport in Taiwan)"
 ]
 ],
 "extraWords": [
@@ -39,16 +87,10 @@
 "cocaine (loanword)"
 ],
 [
-"卡片",
-13.86,
-"kǎ piàn",
-"card"
-],
-[
 "卡拉",
 12.67,
 "Kǎ lā",
-"Kara, city in northern Togo 多哥[Duo1 ge1]; Cara, Karla etc (name)"
+"Kara, city in northern Togo 多哥[Duō gē]; Cara, Karla etc (name)"
 ],
 [
 "卡拉",
@@ -60,7 +102,7 @@
 "奥斯卡",
 12.67,
 "Ào sī kǎ",
-"(film industry) Oscar (Academy Award); CL:屆|届[jie4]; (name) Oscar"
+"(film industry) Oscar (Academy Award); CL:届[jiè]; (name) Oscar"
 ],
 [
 "卡住",
@@ -73,6 +115,12 @@
 9.72,
 "Kǎ tè",
 "Carter (name); James Earl (Jimmy) Carter (1924-), US Democrat politician, president 1977-1981"
+],
+[
+"贝卡",
+6.92,
+"???",
+"???"
 ],
 [
 "网卡",

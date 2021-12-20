@@ -1,6 +1,6 @@
 {
 "char": "界",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "boundary, limit; domain; society; the world",
 "pron": "jiè"
@@ -10,45 +10,99 @@
 "世界",
 3,
 "shì jiè",
-"world; CL:個|个[ge4]"
+"world; CL:个[gè]"
 ],
-[
-"外界",
-6,
-"wài jiè",
-"the outside world; external"
-],
-[
-"边界",
-6,
-"biān jiè",
-"boundary; border"
-],
-[
-"界限",
-6,
-"jiè xiàn",
-"boundary"
-],
-[
-"境界",
-6,
-"jìng jiè",
-"boundary; state; realm"
-]
-],
-"extraWords": [
 [
 "世界杯",
-53.92,
+3,
 "Shì jiè bēi",
 "World Cup"
 ],
 [
 "全世界",
-50.7,
+5,
 "quán shì jiè",
 "worldwide; entire world"
+],
+[
+"外界",
+5,
+"wài jiè",
+"the outside world; external"
+],
+[
+"界",
+6,
+"jiè",
+"boundary; scope; extent; circles; group; kingdom (taxonomy)"
+],
+[
+"边界",
+7,
+"biān jiè",
+"boundary; border"
+],
+[
+"工商界",
+7,
+"gōng shāng jiè",
+"industry; the world of business"
+],
+[
+"交界",
+7,
+"jiāo jiè",
+"common boundary; common border"
+],
+[
+"界定",
+7,
+"jiè dìng",
+"definition; to delimit"
+],
+[
+"界限",
+7,
+"jiè xiàn",
+"boundary"
+],
+[
+"界线",
+7,
+"jiè xiàn",
+"limits; bounds; dividing line"
+],
+[
+"境界",
+7,
+"jìng jiè",
+"boundary; state; realm"
+],
+[
+"世界级",
+7,
+"shì jiè jí",
+"world-class"
+],
+[
+"眼界",
+7,
+"yǎn jiè",
+"ken; scope"
+],
+[
+"自然界",
+7,
+"zì rán jiè",
+"nature; the natural world"
+]
+],
+"extraWords": [
+[
+"社会各界",
+14.79,
+"???",
+"???"
 ],
 [
 "界面",
@@ -61,12 +115,6 @@
 13.07,
 "gè jiè",
 "all walks of life; all social circles"
-],
-[
-"界定",
-10.7,
-"jiè dìng",
-"definition; to delimit"
 ],
 [
 "世界观",
@@ -85,12 +133,6 @@
 6.29,
 "shì jiè dà zhàn",
 "world war"
-],
-[
-"世界级",
-5.6,
-"shì jiè jí",
-"world-class"
 ],
 [
 "世界末日",

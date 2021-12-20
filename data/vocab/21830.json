@@ -1,52 +1,82 @@
 {
 "char": "商",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "commerce, business, trade",
 "pron": "shāng"
 },
 "words": [
 [
+"商场",
+1,
+"shāng chǎng",
+"shopping mall; shopping center; department store; emporium; CL:家[jiā]; the business world"
+],
+[
 "商店",
 1,
 "shāng diàn",
-"store; shop; CL:家[jia1],個|个[ge4]"
+"store; shop; CL:家[jiā],个[gè]"
 ],
 [
 "商量",
-4,
+2,
 "shāng liang",
 "to consult; to talk over; to discuss"
 ],
 [
+"商人",
+2,
+"shāng rén",
+"merchant; businessman"
+],
+[
+"商品",
+3,
+"shāng pǐn",
+"commodity; goods; merchandise; CL:个[gè]"
+],
+[
 "商业",
-5,
+3,
 "shāng yè",
 "business; trade; commerce"
 ],
 [
-"商品",
-5,
-"shāng pǐn",
-"commodity; goods; merchandise; CL:個|个[ge4]"
-],
-[
 "商务",
-5,
+4,
 "shāng wù",
 "commercial affairs; commercial; commerce; business"
 ],
 [
-"经商",
+"商标",
 5,
-"jīng shāng",
-"to trade; to carry out commercial activities; in business"
+"shāng biāo",
+"trademark; logo"
 ],
 [
-"智商",
+"厂商",
 6,
-"zhì shāng",
-"IQ (intelligence quotient)"
+"chǎng shāng",
+"manufacturer; producer"
+],
+[
+"工商",
+6,
+"gōng shāng",
+"industry and commerce"
+],
+[
+"商城",
+6,
+"Shāng chéng",
+"see 商城县[Shāng chéng xiàn]"
+],
+[
+"商城",
+6,
+"shāng chéng",
+"shopping center; department store"
 ],
 [
 "协商",
@@ -55,36 +85,66 @@
 "to consult with; to talk things over; agreement"
 ],
 [
-"商标",
-6,
-"shāng biāo",
-"trademark; logo"
-],
-[
 "磋商",
-6,
+7,
 "cuō shāng",
 "to consult; to discuss seriously; to negotiate; to confer; negotiations; consultations"
+],
+[
+"工商界",
+7,
+"gōng shāng jiè",
+"industry; the world of business"
+],
+[
+"经商",
+7,
+"jīng shāng",
+"to trade; to carry out commercial activities; in business"
+],
+[
+"开发商",
+7,
+"kāi fā shāng",
+"developer (of real estate, a commercial product etc)"
+],
+[
+"商贩",
+7,
+"shāng fàn",
+"trader; peddler"
+],
+[
+"商贾",
+7,
+"shāng gǔ",
+"merchant"
+],
+[
+"商讨",
+7,
+"shāng tǎo",
+"to discuss; to deliberate"
+],
+[
+"智商",
+7,
+"zhì shāng",
+"IQ (intelligence quotient)"
 ]
 ],
 "extraWords": [
 [
-"工商",
-45.15,
-"gōng shāng",
-"industry and commerce"
+"商",
+261.23,
+"Shāng",
+"Shang Dynasty (c. 1600-1046 BC); surname Shang"
 ],
 [
-"厂商",
-42.67,
-"chǎng shāng",
-"manufacturer; producer"
-],
-[
-"商场",
-31.46,
-"shāng chǎng",
-"shopping mall; shopping center; department store; emporium; CL:家[jia1]; the business world"
+"商",
+261.23,
+"shāng",
+"commerce; merchant; dealer; to consult; 2nd note in pentatonic scale; quotient (as in 智商[zhì shāng], intelligence quotient)"
 ],
 [
 "商业银行",
@@ -97,6 +157,12 @@
 30.36,
 "shāng jiā",
 "merchant; business; enterprise"
+],
+[
+"商品房",
+26.28,
+"???",
+"???"
 ],
 [
 "招商",
@@ -117,28 +183,10 @@
 "foreign businessman"
 ],
 [
-"商人",
-18.65,
-"shāng rén",
-"merchant; businessman"
-],
-[
 "商务部",
 16.51,
 "Shāng wù bù",
 "Department of Trade; Department of Commerce"
-],
-[
-"商城",
-13.18,
-"Shāng chéng",
-"see 商城縣|商城县[Shang1 cheng2 xian4]"
-],
-[
-"商城",
-13.18,
-"shāng chéng",
-"shopping center; department store"
 ],
 [
 "商报",
@@ -165,10 +213,22 @@
 "trade and commerce"
 ],
 [
+"商用",
+9.29,
+"???",
+"???"
+],
+[
 "台商",
 8.64,
 "Tái shāng",
 "Taiwanese businessman; Taiwanese company"
+],
+[
+"客商",
+7.4,
+"???",
+"???"
 ],
 [
 "商户",
@@ -183,6 +243,18 @@
 "chamber of commerce"
 ],
 [
+"生产商",
+6.94,
+"???",
+"???"
+],
+[
+"工商局",
+6.83,
+"???",
+"???"
+],
+[
 "代理商",
 6.24,
 "dài lǐ shāng",
@@ -195,16 +267,16 @@
 "commercial district; business district"
 ],
 [
+"工商联",
+6.14,
+"???",
+"???"
+],
+[
 "零售商",
 6.09,
 "líng shòu shāng",
 "retailer; shopkeeper; retail merchant"
-],
-[
-"商讨",
-5.47,
-"shāng tǎo",
-"to discuss; to deliberate"
 ],
 [
 "商议",

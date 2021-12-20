@@ -1,28 +1,64 @@
 {
 "char": "香",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "fragrant, sweet-smelling; incense",
 "pron": "xiāng"
 },
 "words": [
 [
+"香",
+3,
+"xiāng",
+"fragrant; sweet smelling; aromatic; savory or appetizing; (to eat) with relish; (of sleep) sound; perfume or spice; joss or incense stick; CL:根[gēn]"
+],
+[
 "香蕉",
 3,
 "xiāng jiāo",
-"banana; CL:枝[zhi1],根[gen1],個|个[ge4],把[ba3]"
-],
-[
-"香",
-4,
-"xiāng",
-"fragrant; sweet smelling; aromatic; savory or appetizing; (to eat) with relish; (of sleep) sound; perfume or spice; joss or incense stick; CL:根[gen1]"
+"banana; CL:枝[zhī],根[gēn],个[gè],把[bǎ]"
 ],
 [
 "香肠",
 5,
 "xiāng cháng",
-"sausage; CL:根[gen1]"
+"sausage; CL:根[gēn]"
+],
+[
+"口香糖",
+7,
+"kǒu xiāng táng",
+"chewing gum"
+],
+[
+"香料",
+7,
+"xiāng liào",
+"spice; flavoring; condiment; perfume"
+],
+[
+"香水",
+7,
+"xiāng shuǐ",
+"perfume; cologne"
+],
+[
+"香味",
+7,
+"xiāng wèi",
+"fragrance; bouquet; sweet smell; CL:股[gǔ]"
+],
+[
+"香烟",
+7,
+"xiāng yān",
+"cigarette; smoke from burning incense; CL:支[zhī],条[tiáo]"
+],
+[
+"香油",
+7,
+"xiāng yóu",
+"sesame oil; perfumed oil"
 ]
 ],
 "extraWords": [
@@ -37,30 +73,6 @@
 24.15,
 "xiāng bīn",
 "champagne (loanword)"
-],
-[
-"香水",
-14.52,
-"xiāng shuǐ",
-"perfume; cologne"
-],
-[
-"香烟",
-13.15,
-"xiāng yān",
-"cigarette; smoke from burning incense; CL:支[zhi1],條|条[tiao2]"
-],
-[
-"口香糖",
-12.19,
-"kǒu xiāng táng",
-"chewing gum"
-],
-[
-"香味",
-9.38,
-"xiāng wèi",
-"fragrance; bouquet; sweet smell; CL:股[gu3]"
 ],
 [
 "香草",

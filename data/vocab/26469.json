@@ -1,11 +1,35 @@
 {
 "char": "来",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "come, coming; return, returning",
 "pron": "lái"
 },
 "words": [
+[
+"出来",
+1,
+"chū lái",
+"to come out; to appear; to arise"
+],
+[
+"出来",
+1,
+"chu lai",
+"(after a verb, indicates coming out, completion of an action, or ability to discern or detect)"
+],
+[
+"回来",
+1,
+"huí lai",
+"to return; to come back"
+],
+[
+"进来",
+1,
+"jìn lái",
+"to come in"
+],
 [
 "来",
 1,
@@ -13,52 +37,124 @@
 "to come; to arrive; to come round; ever since; next"
 ],
 [
+"来到",
+1,
+"lái dào",
+"to come; to arrive"
+],
+[
 "起来",
-3,
+1,
 "qǐ lai",
 "to stand up; to get up; also pr. [qi3 lai2]"
 ],
 [
 "起来",
-3,
+1,
 "qi lai",
-"(after a verb) indicating the beginning and continuation of an action or a state; indicating an upward movement (e.g. after 站[zhan4]); indicating completion; (after a perception verb, e.g. 看[kan4]) expressing preliminary judgment; also pr. [qi3 lai5]"
+"(after a verb) indicating the beginning and continuation of an action or a state; indicating an upward movement (e.g. after 站[zhàn]); indicating completion; (after a perception verb, e.g. 看[kàn]) expressing preliminary judgment; also pr. [qi3 lai5]"
+],
+[
+"带来",
+2,
+"dài lái",
+"to bring; to bring about; to produce"
+],
+[
+"过来",
+2,
+"guò lái",
+"to come over; to manage; to handle; to be able to take care of"
+],
+[
+"过来",
+2,
+"guò lai",
+"see 过来[guò lái]"
 ],
 [
 "后来",
-3,
+2,
 "hòu lái",
 "afterwards; later"
 ],
 [
-"从来",
-4,
-"cóng lái",
-"always; at all times; never (if used in negative sentence)"
+"接下来",
+2,
+"jiē xià lái",
+"to accept; to take; next; following"
 ],
 [
 "来自",
-4,
+2,
 "lái zì",
 "to come from (a place); From: (in email header)"
 ],
 [
-"本来",
-4,
-"běn lái",
-"original; originally; at first; it goes without saying; of course"
-],
-[
 "原来",
-4,
+2,
 "yuán lái",
 "original; former; originally; formerly; at first; so, actually, as it turns out"
 ],
 [
+"越来越",
+2,
+"yuè lái yuè",
+"more and more"
+],
+[
+"本来",
+3,
+"běn lái",
+"original; originally; at first; it goes without saying; of course"
+],
+[
+"传来",
+3,
+"chuán lái",
+"(of a sound) to come through; to be heard; (of news) to arrive"
+],
+[
+"从来",
+3,
+"cóng lái",
+"always; at all times; never (if used in negative sentence)"
+],
+[
 "将来",
-4,
+3,
 "jiāng lái",
-"in the future; future; the future; CL:個|个[ge4]"
+"in the future; future; the future; CL:个[gè]"
+],
+[
+"看起来",
+3,
+"kàn qǐ lai",
+"seemingly; apparently; looks as if; appear to be; gives the impression that; seems on the face of it to be"
+],
+[
+"上来",
+3,
+"shàng lái",
+"to come up; to approach; (verb complement indicating success)"
+],
+[
+"下来",
+3,
+"xià lai",
+"to come down; (completed action marker); (after verb of motion, indicates motion down and towards us, also fig.); (indicates continuation from the past towards us); to be harvested (of crops); to be over (of a period of time); to go among the masses (said of leaders)"
+],
+[
+"以来",
+3,
+"yǐ lái",
+"since (a previous event)"
+],
+[
+"看来",
+4,
+"kàn lai",
+"apparently; it seems that"
 ],
 [
 "来不及",
@@ -73,174 +169,276 @@
 "there's still time; able to do sth in time"
 ],
 [
-"未来",
-5,
-"wèi lái",
-"future; tomorrow; CL:個|个[ge4]; approaching; coming; pending"
-],
-[
-"以来",
-5,
-"yǐ lái",
-"since (a previous event)"
-],
-[
 "来源",
-6,
+4,
 "lái yuán",
 "source (of information etc); origin"
 ],
 [
-"近来",
-6,
-"jìn lái",
-"recently; lately"
+"未来",
+4,
+"wèi lái",
+"future; tomorrow; CL:个[gè]; approaching; coming; pending"
 ],
 [
-"来历",
-6,
-"lái lì",
-"history; antecedents; origin"
-],
-[
-"向来",
-6,
-"xiàng lái",
-"always (previously)"
-],
-[
-"历来",
-6,
-"lì lái",
-"always; throughout (a period of time); (of) all-time"
-],
-[
-"礼尚往来",
-6,
-"lǐ shàng wǎng lái",
-"lit. proper behavior is based on reciprocity (idiom); fig. to return politeness for politeness"
-],
-[
-"苦尽甘来",
-6,
-"kǔ jìn gān lái",
-"bitterness finishes, sweetness begins (idiom); the hard times are over, the good times just beginning"
-]
-],
-"extraWords": [
-[
-"回来",
-668.42,
-"huí lai",
-"to return; to come back"
-],
-[
-"出来",
-624.15,
-"chū lái",
-"to come out; to appear; to arise"
-],
-[
-"出来",
-624.15,
-"chu lai",
-"(after a verb, indicates coming out, completion of an action, or ability to discern or detect)"
-],
-[
-"过来",
-483.6,
-"guò lái",
-"to come over; to manage; to handle; to be able to take care of"
-],
-[
-"过来",
-483.6,
-"guò lai",
-"see 過來|过来[guo4 lai2]"
-],
-[
-"下来",
-380.01,
-"xià lai",
-"to come down; (completed action marker); (after verb of motion, indicates motion down and towards us, also fig.); (indicates continuation from the past towards us); to be harvested (of crops); to be over (of a period of time); to go among the masses (said of leaders)"
-],
-[
-"看来",
-221.07,
-"kàn lai",
-"apparently; it seems that"
-],
-[
-"进来",
-208.64,
-"jìn lái",
-"to come in"
-],
-[
-"带来",
-192.74,
-"dài lái",
-"to bring; to bring about; to produce"
-],
-[
-"越来越",
-188.42,
-"yuè lái yuè",
-"more and more"
-],
-[
-"来到",
-135.01,
-"lái dào",
-"to come; to arrive"
-],
-[
-"近年来",
-66.25,
-"jìn nián lái",
-"for the past few years"
-],
-[
-"上来",
-52.83,
-"shàng lái",
-"to come up; to approach; (verb complement indicating success)"
-],
-[
-"用来",
-42.22,
-"yòng lái",
-"to be used for"
-],
-[
-"看起来",
-40.73,
-"kàn qǐ lai",
-"seemingly; apparently; looks as if; appear to be; gives the impression that; seems on the face of it to be"
+"一般来说",
+4,
+"yī bān lái shuō",
+"generally speaking"
 ],
 [
 "到来",
-39.54,
+5,
 "dào lái",
 "to arrive; arrival; advent"
 ],
 [
+"近来",
+5,
+"jìn lái",
+"recently; lately"
+],
+[
+"来信",
+5,
+"lái xìn",
+"incoming letter; to send us a letter"
+],
+[
+"用来",
+5,
+"yòng lái",
+"to be used for"
+],
+[
+"来往",
+6,
+"lái wǎng",
+"to come and go; to have dealings with; to be in relation with"
+],
+[
 "前来",
-39.45,
+6,
 "qián lái",
 "to come (formal); before; previously"
 ],
 [
-"接下来",
-35.1,
-"jiē xià lái",
-"to accept; to take; next; following"
+"外来",
+6,
+"wài lái",
+"external; foreign; outside"
+],
+[
+"往来",
+6,
+"wǎng lái",
+"dealings; contacts; to go back and forth"
+],
+[
+"迎来",
+6,
+"yíng lái",
+"to welcome (a visitor or newcomer); (fig.) to usher in"
+],
+[
+"自来水",
+6,
+"zì lái shuǐ",
+"running water; tap water"
+],
+[
+"长期以来",
+7,
+"cháng qī yǐ lái",
+"for a long time"
+],
+[
+"从来不",
+7,
+"cóng lái bù",
+"never"
+],
+[
+"到头来",
+7,
+"dào tóu lái",
+"in the end; finally; as a result"
+],
+[
+"多年来",
+7,
+"duō nián lái",
+"for the past many years"
+],
+[
+"翻来覆去",
+7,
+"fān lái fù qù",
+"to toss and turn (sleeplessly); again and again"
+],
+[
+"反过来",
+7,
+"fǎn guo lái",
+"conversely; in reverse order; in an opposite direction"
+],
+[
+"归来",
+7,
+"guī lái",
+"to return; to come back"
+],
+[
+"近年来",
+7,
+"jìn nián lái",
+"for the past few years"
+],
+[
+"来宾",
+7,
+"Lái bīn",
+"Laibin prefecture-level city in Guangxi"
+],
+[
+"来宾",
+7,
+"lái bīn",
+"guest; visitor"
+],
+[
+"来电",
+7,
+"lái diàn",
+"incoming telephone call (or telegram); to phone in; to send in a telegram; to have an instant attraction to sb; to come back (of electricity, after an outage)"
+],
+[
+"来访",
+7,
+"lái fǎng",
+"to pay a visit"
+],
+[
+"来回",
+7,
+"lái huí",
+"to make a round trip; return journey; back and forth; to and fro; repeatedly"
+],
+[
+"来历",
+7,
+"lái lì",
+"history; antecedents; origin"
+],
+[
+"来临",
+7,
+"lái lín",
+"to approach; to come closer"
+],
+[
+"来龙去脉",
+7,
+"lái lóng qù mài",
+"the rise and fall of the terrain (idiom); (fig.) the whole sequence of events; causes and effects"
+],
+[
+"来年",
+7,
+"lái nián",
+"next year; the coming year"
+],
+[
+"来源于",
+7,
+"lái yuán yú",
+"to originate in"
+],
+[
+"历来",
+7,
+"lì lái",
+"always; throughout (a period of time); (of) all-time"
+],
+[
+"慢慢来",
+7,
+"màn màn lái",
+"take your time; take it easy"
+],
+[
+"扑面而来",
+7,
+"pū miàn ér lái",
+"lit. sth hits one in the face; directly in one's face; sth assaults the senses; blatant (advertising); eye-catching; (a smell) assaults the nostrils"
+],
+[
+"说起来",
+7,
+"???",
+"???"
+],
+[
+"突如其来",
+7,
+"tū rú qí lái",
+"to arise abruptly; to arrive suddenly; happening suddenly"
+],
+[
+"向来",
+7,
+"xiàng lái",
+"always (previously)"
 ],
 [
 "醒来",
-31.06,
+7,
 "xǐng lái",
 "to waken"
+],
+[
+"由此看来",
+7,
+"yóu cǐ kàn lái",
+"thereby; judging from this"
+],
+[
+"由来",
+7,
+"yóu lái",
+"origin"
+],
+[
+"愈来愈",
+7,
+"yù lái yù",
+"more and more"
+],
+[
+"这样一来",
+7,
+"zhè yàng yī lái",
+"thus; if this happens then"
+],
+[
+"总的来说",
+7,
+"zǒng de lái shuō",
+"generally speaking; to sum up; in summary; in short"
+]
+],
+"extraWords": [
+[
+"来说",
+298.87,
+"???",
+"???"
+],
+[
+"留下来",
+37.59,
+"???",
+"???"
 ],
 [
 "来讲",
@@ -249,46 +447,16 @@
 "as to; considering; for"
 ],
 [
-"传来",
-29.7,
-"chuán lái",
-"(of a sound) to come through; to be heard; (of news) to arrive"
-],
-[
-"迎来",
-27.75,
-"yíng lái",
-"to welcome (a visitor or newcomer); (fig.) to usher in"
-],
-[
-"外来",
-23.7,
-"wài lái",
-"external; foreign; outside"
-],
-[
-"来临",
-21.85,
-"lái lín",
-"to approach; to come closer"
+"再来",
+20.95,
+"???",
+"???"
 ],
 [
 "一来",
 20.65,
 "yī lái",
 "firstly, ..."
-],
-[
-"多年来",
-19.09,
-"duō nián lái",
-"for the past many years"
-],
-[
-"慢慢来",
-18.48,
-"màn màn lái",
-"take your time; take it easy"
 ],
 [
 "来着",
@@ -315,16 +483,16 @@
 "to bring; to fetch; to get"
 ],
 [
+"来做",
+14.66,
+"???",
+"???"
+],
+[
 "站起来",
 14.47,
 "zhàn qǐ lai",
 "to stand up"
-],
-[
-"往来",
-13.94,
-"wǎng lái",
-"dealings; contacts; to go back and forth"
 ],
 [
 "有史以来",
@@ -333,10 +501,10 @@
 "since the beginning of history"
 ],
 [
-"来电",
-12.97,
-"lái diàn",
-"incoming telephone call (or telegram); to phone in; to send in a telegram; to have an instant attraction to sb; to come back (of electricity, after an outage)"
+"送来",
+12.7,
+"???",
+"???"
 ],
 [
 "周恩来",
@@ -345,22 +513,22 @@
 "Zhou Enlai (1898-1976), Chinese communist leader, prime minister 1949-1976"
 ],
 [
-"来回",
-11.91,
-"lái huí",
-"to make a round trip; return journey; back and forth; to and fro; repeatedly"
+"拿出来",
+11.89,
+"???",
+"???"
 ],
 [
-"从来不",
-11.67,
-"cóng lái bù",
-"never"
+"说来",
+11.36,
+"???",
+"???"
 ],
 [
-"归来",
-11.64,
-"guī lái",
-"to return; to come back"
+"引来",
+11.13,
+"???",
+"???"
 ],
 [
 "想起来",
@@ -375,18 +543,6 @@
 "it may be assumed that"
 ],
 [
-"来信",
-10.67,
-"lái xìn",
-"incoming letter; to send us a letter"
-],
-[
-"自来水",
-10.54,
-"zì lái shuǐ",
-"running water; tap water"
-],
-[
 "几年来",
 10.51,
 "jǐ nián lái",
@@ -399,10 +555,10 @@
 "start explaining and it's a long story (idiom); complicated and not easy to express succinctly"
 ],
 [
-"来访",
-8.51,
-"lái fǎng",
-"to pay a visit"
+"买来",
+8.78,
+"???",
+"???"
 ],
 [
 "停下来",
@@ -411,22 +567,10 @@
 "to stop"
 ],
 [
-"来往",
-8.11,
-"lái wǎng",
-"to come and go; to have dealings with; to be in relation with"
-],
-[
 "生来",
 8.11,
 "shēng lái",
 "from birth; by one's nature"
-],
-[
-"一般来说",
-7.98,
-"yī bān lái shuō",
-"generally speaking"
 ],
 [
 "好起来",
@@ -435,10 +579,34 @@
 "to get better; to improve; to get well"
 ],
 [
-"反过来",
-6.71,
-"fǎn guo lái",
-"conversely; in reverse order; in an opposite direction"
+"站出来",
+7.04,
+"???",
+"???"
+],
+[
+"来人",
+6.85,
+"???",
+"???"
+],
+[
+"走出来",
+6.74,
+"???",
+"???"
+],
+[
+"即将到来",
+6.66,
+"???",
+"???"
+],
+[
+"跑来",
+6.47,
+"???",
+"???"
 ],
 [
 "听起来",
@@ -447,10 +615,28 @@
 "to sound like"
 ],
 [
+"连日来",
+6.44,
+"???",
+"???"
+],
+[
+"来接",
+6.31,
+"???",
+"???"
+],
+[
 "来看",
 6.2,
 "lái kàn",
 "to come and see; to see a topic from a certain point of view"
+],
+[
+"走过来",
+6.04,
+"???",
+"???"
 ],
 [
 "来袭",
@@ -459,28 +645,40 @@
 "to invade; (of a storm etc) to strike; to hit"
 ],
 [
+"掉下来",
+5.58,
+"???",
+"???"
+],
+[
 "来得",
 5.54,
 "lái de",
 "to emerge (from a comparison); to come out as; to be competent or equal to"
 ],
 [
-"来宾",
-5.26,
-"Lái bīn",
-"Laibin prefecture-level city in Guangxi"
+"加起来",
+5.51,
+"???",
+"???"
 ],
 [
-"来宾",
-5.26,
-"lái bīn",
-"guest; visitor"
+"飞来",
+5.25,
+"???",
+"???"
 ],
 [
 "乱来",
 5.22,
 "luàn lái",
 "to act recklessly; to mess around"
+],
+[
+"来之不易",
+5.08,
+"???",
+"???"
 ]
 ],
 "strokes": [

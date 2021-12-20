@@ -1,6 +1,6 @@
 {
 "char": "瞧",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "glance at, look at, see",
 "pron": "qiáo"
@@ -11,9 +11,21 @@
 5,
 "qiáo",
 "to look at; to see; to see (a doctor); to visit"
+],
+[
+"瞧不起",
+7,
+"qiáo bù qǐ",
+"to look down upon; to hold in contempt"
 ]
 ],
 "extraWords": [
+[
+"瞧瞧",
+39.86,
+"???",
+"???"
+],
 [
 "走着瞧",
 8.44,

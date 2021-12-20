@@ -1,48 +1,72 @@
 {
 "char": "摇",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "wag, swing, wave; shake; scull",
 "pron": "yáo"
 },
 "words": [
 [
+"动摇",
+4,
+"dòng yáo",
+"to sway; to waver; to rock; to rattle; to destabilize; to pose a challenge to"
+],
+[
 "摇",
-5,
+4,
 "Yáo",
 "surname Yao"
 ],
 [
 "摇",
-5,
+4,
 "yáo",
 "to shake; to rock; to row; to crank"
 ],
 [
-"摇滚",
-6,
-"yáo gǔn",
-"rock 'n' roll (music); to rock; to fall off"
-],
-[
-"摇摆",
-6,
-"yáo bǎi",
-"to sway; to wobble; to waver"
-]
-],
-"extraWords": [
-[
 "摇头",
-23.4,
+5,
 "yáo tóu",
 "to shake one's head"
 ],
 [
-"动摇",
-9.66,
-"dòng yáo",
-"to sway; to waver; to rock; to rattle; to destabilize; to pose a challenge to"
+"摇摆",
+7,
+"yáo bǎi",
+"to sway; to wobble; to waver"
+],
+[
+"摇滚",
+7,
+"yáo gǔn",
+"rock 'n' roll (music); to rock; to fall off"
+],
+[
+"摇晃",
+7,
+"yáo huàng",
+"to rock; to shake; to sway"
+],
+[
+"摇篮",
+7,
+"yáo lán",
+"cradle"
+],
+[
+"摇摇欲坠",
+7,
+"yáo yáo yù zhuì",
+"tottering; on the verge of collapse"
+]
+],
+"extraWords": [
+[
+"摇摇头",
+7.77,
+"???",
+"???"
 ],
 [
 "摇滚乐",

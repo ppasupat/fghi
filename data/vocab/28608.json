@@ -1,11 +1,17 @@
 {
 "char": "激",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "arouse, excite, incite; quickly",
 "pron": "jī"
 },
 "words": [
+[
+"刺激",
+4,
+"cì jī",
+"to provoke; to irritate; to upset; to stimulate; to excite; irritant"
+],
 [
 "激动",
 4,
@@ -13,28 +19,10 @@
 "to move emotionally; to stir up (emotions); to excite"
 ],
 [
-"感激",
-5,
-"gǎn jī",
-"to be grateful; to appreciate; thankful"
-],
-[
-"刺激",
-5,
-"cì jī",
-"to provoke; to irritate; to upset; to stimulate; to excite; irritant"
-],
-[
 "激烈",
-5,
+4,
 "jī liè",
 "(of competition or fighting) intense; fierce; (of pain) acute; (of an expression of opinion) impassioned; vehement; (of a course of action) drastic; extreme"
-],
-[
-"冰激凌",
-5,
-"bīng jī líng",
-"ice cream"
 ],
 [
 "激情",
@@ -43,48 +31,72 @@
 "passion; fervor; enthusiasm; strong emotion"
 ],
 [
-"激励",
-6,
-"jī lì",
-"to encourage; to urge; motivation; incentive"
+"感激",
+7,
+"gǎn jī",
+"to be grateful; to appreciate; thankful"
 ],
 [
 "激发",
-6,
+7,
 "jī fā",
 "to arouse; to excite"
-]
 ],
-"extraWords": [
 [
-"激素",
-16.55,
-"jī sù",
-"hormone"
+"激光",
+7,
+"jī guāng",
+"laser"
+],
+[
+"激化",
+7,
+"jī huà",
+"to intensify"
 ],
 [
 "激活",
-14.5,
+7,
 "jī huó",
 "to activate"
 ],
 [
-"激光",
-13.81,
-"jī guāng",
-"laser"
+"激励",
+7,
+"jī lì",
+"to encourage; to urge; motivation; incentive"
+],
+[
+"激起",
+7,
+"jī qǐ",
+"to arouse; to evoke; to cause; to stir up"
+],
+[
+"激素",
+7,
+"jī sù",
+"hormone"
+]
+],
+"extraWords": [
+[
+"激",
+13.08,
+"jī",
+"to arouse; to incite; to excite; to stimulate; sharp; fierce; violent"
+],
+[
+"冰激凌",
+8.7,
+"bīng jī líng",
+"ice cream"
 ],
 [
 "激怒",
 8.26,
 "jī nù",
 "to infuriate; to enrage; to exasperate"
-],
-[
-"激起",
-8.16,
-"jī qǐ",
-"to arouse; to evoke; to cause; to stir up"
 ],
 [
 "激进",

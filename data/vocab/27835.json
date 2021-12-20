@@ -1,46 +1,94 @@
 {
 "char": "治",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "govern, regulate, administer",
 "pron": "zhì"
 },
 "words": [
 [
-"治疗",
-5,
-"zhì liáo",
-"to treat (an illness); medical treatment; therapy"
-],
-[
 "政治",
-5,
+4,
 "zhèng zhì",
 "politics; political"
 ],
 [
+"治",
+4,
+"zhì",
+"to rule; to govern; to manage; to control; to harness (a river); to treat (a disease); to wipe out (a pest); to punish; to research"
+],
+[
+"治疗",
+4,
+"zhì liáo",
+"to treat (an illness); medical treatment; therapy"
+],
+[
+"防治",
+5,
+"fáng zhì",
+"to prevent and cure; prevention and cure"
+],
+[
 "治安",
-6,
+5,
 "zhì ān",
 "law and order; public security"
 ],
 [
-"统治",
-6,
-"tǒng zhì",
-"to rule (a country); to govern; rule; regime"
-],
-[
 "治理",
-6,
+5,
 "zhì lǐ",
 "to govern; to administer; to manage; to control; governance"
 ],
 [
-"防治",
+"三明治",
 6,
-"fáng zhì",
-"to prevent and cure; prevention and cure"
+"sān míng zhì",
+"sandwich (loanword); CL:个[gè]"
+],
+[
+"整治",
+6,
+"zhěng zhì",
+"to bring under control; to regulate; to restore to good condition; (coll.) to fix (a person); to prepare (a meal etc)"
+],
+[
+"治病",
+6,
+"zhì bìng",
+"to treat an illness"
+],
+[
+"根治",
+7,
+"gēn zhì",
+"to bring under permanent control; to effect a radical cure"
+],
+[
+"救治",
+7,
+"jiù zhì",
+"to provide critical care (to a patient or a diseased plant)"
+],
+[
+"统治",
+7,
+"tǒng zhì",
+"to rule (a country); to govern; rule; regime"
+],
+[
+"治学",
+7,
+"zhì xué",
+"scholarship; high-level study; to do scholarly research; to pursue a high level of study"
+],
+[
+"治愈",
+7,
+"zhì yù",
+"to cure"
 ]
 ],
 "extraWords": [
@@ -51,28 +99,10 @@
 "George (name)"
 ],
 [
-"三明治",
-34.22,
-"sān míng zhì",
-"sandwich (loanword); CL:個|个[ge4]"
-],
-[
-"整治",
-33.12,
-"zhěng zhì",
-"to bring under control; to regulate; to restore to good condition; (coll.) to fix (a person); to prepare (a meal etc)"
-],
-[
 "自治区",
 23.98,
 "zì zhì qū",
-"autonomous region, namely: Inner Mongolia 內蒙古自治區|内蒙古自治区[Nei4 meng3 gu3 Zi4 zhi4 qu1], Guangxi 廣西壯族自治區|广西壮族自治区[Guang3 xi1 Zhuang4 zu2 Zi4 zhi4 qu1], Tibet 西藏自治區|西藏自治区[Xi1 zang4 Zi4 zhi4 qu1], Ningxia 寧夏回族自治區|宁夏回族自治区[Ning2 xia4 Hui2 zu2 Zi4 zhi4 qu1], Xinjiang 新疆維吾爾自治區|新疆维吾尔自治区[Xin1 jiang1 Wei2 wu2 er3 Zi4 zhi4 qu1]"
-],
-[
-"治愈",
-18.04,
-"zhì yù",
-"to cure"
+"autonomous region, namely: Inner Mongolia 内蒙古自治区[Nèi měng gǔ Zì zhì qū], Guangxi 广西壮族自治区[Guǎng xī Zhuàng zú Zì zhì qū], Tibet 西藏自治区[Xī zàng Zì zhì qū], Ningxia 宁夏回族自治区[Níng xià Huí zú Zì zhì qū], Xinjiang 新疆维吾尔自治区[Xīn jiāng Wéi wú ěr Zì zhì qū]"
 ],
 [
 "法治",
@@ -81,22 +111,22 @@
 "rule of law; to rule by law"
 ],
 [
-"救治",
-11.01,
-"jiù zhì",
-"to provide critical care (to a patient or a diseased plant)"
-],
-[
 "自治",
 10.36,
 "zì zhì",
 "autonomy"
 ],
 [
-"治病",
-8.97,
-"zhì bìng",
-"to treat an illness"
+"中共中央政治局",
+9.2,
+"???",
+"???"
+],
+[
+"综合治理",
+7.49,
+"???",
+"???"
 ],
 [
 "诊治",
@@ -108,7 +138,7 @@
 "政治家",
 5.23,
 "zhèng zhì jiā",
-"statesman; politician; CL:個|个[ge4],位[wei4],名[ming2]"
+"statesman; politician; CL:个[gè],位[wèi],名[míng]"
 ],
 [
 "治国",

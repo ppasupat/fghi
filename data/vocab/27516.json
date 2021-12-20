@@ -1,12 +1,32 @@
 {
 "char": "歼",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "annihilate, wipe out, kill off",
 "pron": "jiān"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"歼灭",
+7,
+"jiān miè",
+"to wipe out; to crush; to annihilate"
+]
+],
+"extraWords": [
+[
+"歼",
+2.88,
+"jiān",
+"to annihilate; abbr. for 歼击机[jiān jī jī], fighter plane"
+],
+[
+"全歼",
+1.03,
+"quán jiān",
+"to annihilate; to wipe out completely; to exterminate"
+]
+],
 "strokes": [
 "M 297 629 Q 469 677 472 679 Q 481 688 476 696 Q 469 708 438 714 Q 407 718 377 704 Q 337 688 293 676 Q 245 663 188 655 Q 151 646 178 631 Q 205 616 256 619 L 297 629 Z",
 "M 195 377 Q 222 410 243 437 L 258 457 Q 322 562 334 572 Q 341 582 337 593 Q 328 618 297 629 C 269 641 244 646 256 619 Q 257 618 258 616 Q 277 580 207 458 Q 174 401 129 339 Q 120 330 119 324 Q 116 314 128 317 Q 131 318 181 361 L 195 377 Z",

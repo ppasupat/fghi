@@ -1,42 +1,54 @@
 {
 "char": "隆",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "prosperous, plentiful, abundant",
 "pron": "lóng"
 },
 "words": [
 [
+"克隆",
+7,
+"kè lóng",
+"clone (loanword)"
+],
+[
 "隆重",
-6,
+7,
 "lóng zhòng",
 "grand; prosperous; ceremonious; solemn"
-],
-[
-"兴隆",
-6,
-"Xīng lóng",
-"Xinglong county in Chengde 承德[Cheng2 de2], Hebei"
-],
-[
-"兴隆",
-6,
-"xīng lóng",
-"prosperous; thriving; flourishing"
 ]
 ],
 "extraWords": [
 [
-"克隆",
-10.93,
-"kè lóng",
-"clone (loanword)"
+"隆",
+18.18,
+"Lóng",
+"surname Long; short for 吉隆坡[Jí lóng pō], Kuala Lumpur"
+],
+[
+"隆",
+18.18,
+"lōng",
+"sound of drums"
+],
+[
+"隆",
+18.18,
+"lóng",
+"grand; intense; prosperous; to swell; to bulge"
+],
+[
+"阿隆索",
+6.68,
+"???",
+"???"
 ],
 [
 "乾隆",
 6.0,
 "Qián lóng",
-"Qianlong Emperor (1711-1799), sixth Qing emperor, princely title 寶親王|宝亲王[Bao3 Qin1 wang2], personal name 弘曆|弘历[Hong2 li4], reigned 1735-1799"
+"Qianlong Emperor (1711-1799), sixth Qing emperor, princely title 宝亲王[Bǎo Qīn wáng], personal name 弘历[Hóng lì], reigned 1735-1799"
 ]
 ],
 "strokes": [

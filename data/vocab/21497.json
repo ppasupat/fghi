@@ -1,6 +1,6 @@
 {
 "char": "叹",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "sigh, admire",
 "pron": "tàn"
@@ -13,30 +13,48 @@
 "to sigh; to heave a sigh"
 ],
 [
+"感叹",
+7,
+"gǎn tàn",
+"to sigh (with feeling); to lament"
+],
+[
+"惊叹",
+7,
+"jīng tàn",
+"to exclaim in admiration; a gasp of surprise"
+],
+[
 "赞叹",
-6,
+7,
 "zàn tàn",
 "to exclaim in admiration"
+],
+[
+"赞叹不已",
+7,
+"zàn tàn bù yǐ",
+"to be full of praise (idiom)"
 ]
 ],
 "extraWords": [
 [
-"感叹",
-15.86,
-"gǎn tàn",
-"to sigh (with feeling); to lament"
+"叹",
+27.11,
+"tàn",
+"to sigh; to exclaim"
+],
+[
+"叹",
+27.11,
+"tàn",
+"variant of 叹[tàn]"
 ],
 [
 "叹息",
 10.81,
 "tàn xī",
 "to sigh; to gasp (in admiration)"
-],
-[
-"惊叹",
-6.4,
-"jīng tàn",
-"to exclaim in admiration; a gasp of surprise"
 ]
 ],
 "strokes": [

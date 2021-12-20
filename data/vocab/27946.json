@@ -1,6 +1,6 @@
 {
 "char": "洪",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "vast, immense; flood, deluge",
 "pron": "hóng"
@@ -11,9 +11,27 @@
 6,
 "hóng shuǐ",
 "deluge; flood"
+],
+[
+"洪亮",
+7,
+"hóng liàng",
+"loud and clear; resonant"
 ]
 ],
 "extraWords": [
+[
+"洪",
+12.08,
+"Hóng",
+"surname Hong"
+],
+[
+"洪",
+12.08,
+"hóng",
+"flood; big; great"
+],
 [
 "防洪",
 5.96,

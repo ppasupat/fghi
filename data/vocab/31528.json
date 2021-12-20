@@ -1,6 +1,6 @@
 {
 "char": "笨",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "foolish, stupid, dull; awkward",
 "pron": "bèn"
@@ -13,20 +13,19 @@
 "stupid; foolish; silly; slow-witted; clumsy"
 ],
 [
-"笨拙",
-6,
-"bèn zhuō",
-"clumsy; awkward; stupid"
-]
-],
-"extraWords": [
-[
 "笨蛋",
-69.9,
+7,
 "bèn dàn",
 "fool; idiot"
+],
+[
+"笨重",
+7,
+"bèn zhòng",
+"heavy; cumbersome; unwieldy"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 334 731 Q 346 750 359 767 Q 369 780 355 794 Q 313 825 287 823 Q 277 820 278 806 Q 293 710 193 609 Q 177 593 169 580 Q 162 565 176 570 Q 192 571 212 588 Q 278 637 314 699 Q 314 700 315 701 L 334 731 Z",
 "M 315 701 Q 339 692 466 713 Q 470 714 478 715 Q 500 719 503 722 Q 510 729 507 737 Q 500 747 474 755 Q 453 759 373 738 Q 352 737 334 731 C 305 722 286 708 315 701 Z",

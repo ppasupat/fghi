@@ -1,6 +1,6 @@
 {
 "char": "疆",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "boundary, border, frontier",
 "pron": "jiāng"
@@ -8,7 +8,7 @@
 "words": [
 [
 "边疆",
-6,
+7,
 "biān jiāng",
 "border area; borderland; frontier; frontier region"
 ]
@@ -18,7 +18,13 @@
 "新疆",
 43.06,
 "Xīn jiāng",
-"Xinjiang; Uighur Autonomous Region 新疆維吾爾自治區|新疆维吾尔自治区[Xin1 jiang1 Wei2 wu2 er3 Zi4 zhi4 qu1]"
+"Xinjiang; Uighur Autonomous Region 新疆维吾尔自治区[Xīn jiāng Wéi wú ěr Zì zhì qū]"
+],
+[
+"疆",
+7.64,
+"jiāng",
+"border; boundary"
 ]
 ],
 "strokes": [

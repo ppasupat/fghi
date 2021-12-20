@@ -1,6 +1,6 @@
 {
 "char": "奠",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "pay respect; settle",
 "pron": "diàn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "奠定",
-6,
+7,
 "diàn dìng",
 "to establish; to fix; to settle"
+],
+[
+"祭奠",
+7,
+"jì diàn",
+"to offer sacrifices (to one's ancestors); to hold or attend a memorial service"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"奠基",
+3.07,
+"diàn jī",
+"groundbreaking; to lay foundation"
+]
+],
 "strokes": [
 "M 364 778 Q 398 733 425 720 Q 438 717 447 729 Q 454 741 452 756 Q 448 778 431 791 Q 377 827 353 815 Q 349 814 350 803 Q 351 793 364 778 Z",
 "M 600 818 Q 590 802 535 737 Q 525 722 541 724 Q 581 742 603 754 Q 669 793 679 796 Q 700 803 691 821 Q 679 837 655 853 Q 634 866 622 865 Q 609 865 613 852 Q 614 834 600 818 Z",

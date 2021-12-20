@@ -1,22 +1,142 @@
 {
 "char": "山",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "mountain, hill, peak",
 "pron": "shān"
 },
 "words": [
 [
+"山",
+1,
+"Shān",
+"surname Shan"
+],
+[
+"山",
+1,
+"shān",
+"mountain; hill; anything that resembles a mountain; CL:座[zuò]; bundled straw in which silkworms spin cocoons; gable"
+],
+[
 "爬山",
-3,
+2,
 "pá shān",
 "to climb a mountain; to mountaineer; hiking; mountaineering"
 ],
 [
-"山脉",
+"登山",
+4,
+"dēng shān",
+"to climb a mountain; climbing; mountaineering"
+],
+[
+"山区",
+5,
+"shān qū",
+"mountain area; CL:个[gè]"
+],
+[
+"山峰",
 6,
-"shān mài",
-"mountain range; CL:條|条[tiao2]"
+"shān fēng",
+"(mountain) peak"
+],
+[
+"山谷",
+6,
+"shān gǔ",
+"valley; ravine"
+],
+[
+"山坡",
+6,
+"shān pō",
+"hillside"
+],
+[
+"冰山",
+7,
+"bīng shān",
+"iceberg; CL:座[zuò]"
+],
+[
+"出山",
+7,
+"chū shān",
+"to leave the mountain (of a hermit); to come out of obscurity to a government job; to take a leading position"
+],
+[
+"高山",
+7,
+"gāo shān",
+"high mountain; alpine"
+],
+[
+"火山",
+7,
+"huǒ shān",
+"volcano"
+],
+[
+"侃大山",
+7,
+"kǎn dà shān",
+"to chatter idly; to gossip; to boast or brag"
+],
+[
+"山川",
+7,
+"shān chuān",
+"mountains and rivers; landscape"
+],
+[
+"山顶",
+7,
+"shān dǐng",
+"hilltop"
+],
+[
+"山冈",
+7,
+"shān gāng",
+"mound; small hill"
+],
+[
+"山岭",
+7,
+"shān lǐng",
+"mountain ridge"
+],
+[
+"山路",
+7,
+"shān lù",
+"mountain road"
+],
+[
+"山寨",
+7,
+"shān zhài",
+"fortified hill village; mountain stronghold (esp. of bandits); (fig.) knockoff (goods); counterfeit; imitation"
+],
+[
+"下山",
+7,
+"xià shān",
+"(of the sun) to set"
+],
+[
+"雪山",
+7,
+"xuě shān",
+"snow-capped mountain"
+],
+[
+"愚公移山",
+7,
+"yú gōng yí shān",
+"the old man moves mountains (idiom); fig. where there's a will, there's a way"
 ]
 ],
 "extraWords": [
@@ -24,25 +144,25 @@
 "山东",
 54.95,
 "Shān dōng",
-"Shandong, province in northeast China, short name 魯|鲁[Lu3], capital Jinan 濟南|济南[Ji3 nan2]"
+"Shandong, province in northeast China, short name 鲁[Lǔ], capital Jinan 济南[Jǐ nán]"
 ],
 [
 "山西",
 29.78,
 "Shān xī",
-"Shanxi Province (Shansi) in north China between Hebei and Shaanxi, abbr. 晉|晋[Jin4] capital Taiyuan 太原[Tai4 yuan2]"
+"Shanxi Province (Shansi) in north China between Hebei and Shaanxi, abbr. 晋[Jìn] capital Taiyuan 太原[Tài yuán]"
 ],
 [
-"山区",
-20.51,
-"shān qū",
-"mountain area; CL:個|个[ge4]"
+"山姆",
+21.08,
+"???",
+"???"
 ],
 [
 "山东省",
 14.94,
 "Shān dōng Shěng",
-"Shandong, province in northeast China, short name 魯|鲁[Lu3], capital Jinan 濟南|济南[Ji3 nan2]"
+"Shandong, province in northeast China, short name 鲁[Lǔ], capital Jinan 济南[Jǐ nán]"
 ],
 [
 "旧金山",
@@ -54,7 +174,7 @@
 "山上",
 13.12,
 "Shān shàng",
-"Shanshang township in Tainan county 台南縣|台南县[Tai2 nan2 xian4], Taiwan"
+"Shanshang township in Tainan county 台南县[Tái nán xiàn], Taiwan"
 ],
 [
 "中山",
@@ -90,25 +210,13 @@
 "山西省",
 8.84,
 "Shān xī Shěng",
-"Shanxi Province (Shansi) in north China between Hebei and Shaanxi, abbr. 晉|晋[Jin4] capital Taiyuan 太原[Tai4 yuan2]"
+"Shanxi Province (Shansi) in north China between Hebei and Shaanxi, abbr. 晋[Jìn] capital Taiyuan 太原[Tài yuán]"
 ],
 [
 "上山",
 7.91,
 "shàng shān",
 "to go uphill; to spin cocoon (silkworms); to pass away"
-],
-[
-"火山",
-7.9,
-"huǒ shān",
-"volcano"
-],
-[
-"高山",
-7.86,
-"gāo shān",
-"high mountain; alpine"
 ],
 [
 "矿山",
@@ -120,13 +228,13 @@
 "泰山",
 7.35,
 "Tài Shān",
-"Mt Tai in Shandong, eastern mountain of the Five Sacred Mountains 五嶽|五岳[Wu3 yue4]"
+"Mt Tai in Shandong, eastern mountain of the Five Sacred Mountains 五岳[Wǔ yuè]"
 ],
 [
 "泰山",
 7.35,
 "Tài shān",
-"Tarzan (fictional character reared by apes in the jungle); Taishan township in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+"Tarzan (fictional character reared by apes in the jungle); Taishan township in New Taipei City 新北市[Xīn běi shì], Taiwan"
 ],
 [
 "亚历山大",
@@ -135,40 +243,16 @@
 "Alexander (name); Alexandria (town name)"
 ],
 [
-"山寨",
-7.25,
-"shān zhài",
-"fortified hill village; mountain stronghold (esp. of bandits); (fig.) knockoff (goods); counterfeit; imitation"
-],
-[
-"山路",
-7.08,
-"shān lù",
-"mountain road"
-],
-[
 "赵本山",
 6.99,
 "Zhào Běn shān",
 "Zhao Benshan (1958-), universally known PRC TV comedian"
 ],
 [
-"山顶",
-6.96,
-"shān dǐng",
-"hilltop"
-],
-[
 "孙中山",
 6.86,
 "Sūn Zhōng shān",
 "Dr Sun Yat-sen (1866-1925), first president of the Republic of China and co-founder of the Guomintang 國民黨|国民党; same as 孫逸仙|孙逸仙"
-],
-[
-"山谷",
-6.86,
-"shān gǔ",
-"valley; ravine"
 ],
 [
 "山庄",
@@ -180,7 +264,7 @@
 "金山",
 6.73,
 "Jīn shān",
-"Jinshan suburban district of Shanghai; Jinshan or Chinshan township in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+"Jinshan suburban district of Shanghai; Jinshan or Chinshan township in New Taipei City 新北市[Xīn běi shì], Taiwan"
 ],
 [
 "唐山",
@@ -189,34 +273,10 @@
 "Tangshan prefecture-level city in Hebei; China (a name for China used by some overseas Chinese)"
 ],
 [
-"登山",
-6.61,
-"dēng shān",
-"to climb a mountain; climbing; mountaineering"
-],
-[
-"山坡",
-6.25,
-"shān pō",
-"hillside"
-],
-[
-"雪山",
-6.22,
-"xuě shān",
-"snow-capped mountain"
-],
-[
-"下山",
-5.95,
-"xià shān",
-"(of the sun) to set"
-],
-[
 "江山",
 5.72,
 "Jiāng shān",
-"Jiangshan county level city in Quzhou 衢州[Qu2 zhou1], Zhejiang"
+"Jiangshan county level city in Quzhou 衢州[Qú zhōu], Zhejiang"
 ],
 [
 "江山",
@@ -246,7 +306,7 @@
 "青山",
 5.57,
 "Qīng shān",
-"Qingshan district of Wuhan city 武漢市|武汉市[Wu3 han4 shi4], Hubei; Qingshan district of Baotou city 包頭市|包头市[Bao1 tou2 shi4], Inner Mongolia"
+"Qingshan district of Wuhan city 武汉市[Wǔ hàn shì], Hubei; Qingshan district of Baotou city 包头市[Bāo tóu shì], Inner Mongolia"
 ],
 [
 "青山",

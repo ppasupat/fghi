@@ -1,61 +1,73 @@
 {
 "char": "与",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "and; with; to; for; give, grant",
 "pron": "yǔ, yù"
 },
 "words": [
 [
-"与",
+"参与",
 4,
-"yú",
-"variant of 歟|欤[yu2]"
+"cān yù",
+"to participate (in sth)"
 ],
 [
 "与",
-4,
+6,
+"yú",
+"variant of 欤[yú]"
+],
+[
+"与",
+6,
 "yǔ",
 "and; to give; together with"
 ],
 [
 "与",
-4,
+6,
 "yù",
 "to take part in"
 ],
 [
-"参与",
-5,
-"cān yù",
-"to participate (in sth)"
-],
-[
-"与其",
-5,
-"yǔ qí",
-"rather than...; 與其|与其[yu3 qi2] A 不如[bu4 ru2] B (rather than A, better to B)"
-],
-[
-"与日俱增",
-6,
-"yǔ rì jù zēng",
-"to increase steadily; to grow with each passing day"
-]
-],
-"extraWords": [
-[
 "与此同时",
-33.46,
+7,
 "yǔ cǐ tóng shí",
 "at the same time; meanwhile"
 ],
 [
+"与否",
+7,
+"yǔ fǒu",
+"whether or not (at the end of a phrase)"
+],
+[
+"与其",
+7,
+"yǔ qí",
+"rather than...; 与其[yǔ qí] A 不如[bù rú] B (rather than A, better to B)"
+],
+[
+"与日俱增",
+7,
+"yǔ rì jù zēng",
+"to increase steadily; to grow with each passing day"
+],
+[
+"与时俱进",
+7,
+"yǔ shí jù jìn",
+"abreast of modern developments; to keep up with the times; progressive; timely"
+],
+[
 "与众不同",
-19.47,
+7,
 "yǔ zhòng bù tóng",
 "to stand out from the masses (idiom)"
+]
 ],
+"extraWords": [
 [
 "与会",
 11.31,
@@ -67,12 +79,6 @@
 7.27,
 "cān yù zhě",
 "participant"
-],
-[
-"与否",
-6.59,
-"yǔ fǒu",
-"whether or not (at the end of a phrase)"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "备",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "prepare, ready, perfect",
 "pron": "bèi"
@@ -8,27 +8,33 @@
 "words": [
 [
 "准备",
-2,
+1,
 "zhǔn bèi",
 "preparation; to prepare; to intend; to be about to; reserve (fund)"
 ],
 [
 "设备",
-5,
+3,
 "shè bèi",
-"equipment; facilities; installations; CL:個|个[ge4]"
-],
-[
-"责备",
-5,
-"zé bèi",
-"to blame; to criticize; condemnation; reproach"
+"equipment; facilities; installations; CL:个[gè]"
 ],
 [
 "具备",
-5,
+4,
 "jù bèi",
 "to possess; to have; equipped with; able to fulfill (conditions or requirements)"
+],
+[
+"配备",
+5,
+"pèi bèi",
+"to allocate; to provide; to outfit with"
+],
+[
+"预备",
+5,
+"yù bèi",
+"to prepare; to make ready; preparation; preparatory"
 ],
 [
 "装备",
@@ -37,66 +43,90 @@
 "equipment; to equip; to outfit"
 ],
 [
-"备忘录",
-6,
-"bèi wàng lù",
-"memorandum; aide-memoire; memorandum book"
+"备课",
+7,
+"bèi kè",
+"(of a teacher) to prepare lessons"
 ],
 [
-"戒备",
-6,
-"jiè bèi",
-"to take precautions; to guard against (emergency)"
+"备受",
+7,
+"bèi shòu",
+"to fully experience (good or bad)"
 ],
 [
-"备份",
-6,
-"bèi fèn",
-"backup"
-],
-[
-"储备",
-6,
-"chǔ bèi",
-"reserves; to store up"
+"备用",
+7,
+"bèi yòng",
+"reserve; spare; alternate; backup"
 ],
 [
 "筹备",
-6,
+7,
 "chóu bèi",
 "preparations; to get ready for sth"
 ],
 [
-"配备",
-6,
-"pèi bèi",
-"to allocate; to provide; to outfit with"
+"储备",
+7,
+"chǔ bèi",
+"reserves; to store up"
+],
+[
+"后备",
+7,
+"hòu bèi",
+"reserve; backup"
+],
+[
+"后备箱",
+7,
+"hòu bèi xiāng",
+"trunk; boot (of a car)"
+],
+[
+"戒备",
+7,
+"jiè bèi",
+"to take precautions; to guard against (emergency)"
 ],
 [
 "完备",
-6,
+7,
 "wán bèi",
 "faultless; complete; perfect; to leave nothing to be desired"
+],
+[
+"责备",
+7,
+"zé bèi",
+"to blame; to criticize; condemnation; reproach"
 ]
 ],
 "extraWords": [
+[
+"备",
+25.66,
+"bèi",
+"variant of 备[bèi]"
+],
+[
+"备",
+25.66,
+"bèi",
+"to prepare; get ready; to provide or equip"
+],
+[
+"准备好",
+18.85,
+"???",
+"???"
+],
 [
 "备战",
 16.28,
 "bèi zhàn",
 "prepared against war; to prepare for war; warmongering"
-],
-[
-"后备",
-15.38,
-"hòu bèi",
-"reserve; backup"
-],
-[
-"备受",
-14.11,
-"bèi shòu",
-"to fully experience (good or bad)"
 ],
 [
 "必备",
@@ -105,22 +135,10 @@
 "essential"
 ],
 [
-"预备",
-13.44,
-"yù bèi",
-"to prepare; to make ready; preparation; preparatory"
-],
-[
 "备案",
 11.52,
 "bèi àn",
 "to put on record; to file"
-],
-[
-"备用",
-10.46,
-"bèi yòng",
-"reserve; spare; alternate; backup"
 ],
 [
 "制备",
@@ -133,6 +151,24 @@
 5.9,
 "Liú Bèi",
 "Liu Bei (161-223), warlord at the end of the Han dynasty and founder of the Han kingdom of Shu 蜀漢|蜀汉 (c. 200-263), later the Shu Han dynasty"
+],
+[
+"准备金率",
+5.58,
+"???",
+"???"
+],
+[
+"备忘录",
+5.54,
+"bèi wàng lù",
+"memorandum; aide-memoire; memorandum book"
+],
+[
+"做准备",
+5.39,
+"???",
+"???"
 ]
 ],
 "strokes": [

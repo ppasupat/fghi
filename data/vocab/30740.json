@@ -1,6 +1,6 @@
 {
 "char": "研",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "grind, rub; study, research",
 "pron": "yán"
@@ -10,51 +10,63 @@
 "研究",
 4,
 "yán jiū",
-"research; a study; CL:項|项[xiang4]; to research; to look into"
+"research; a study; CL:项[xiàng]; to research; to look into"
+],
+[
+"研究生",
+4,
+"yán jiū shēng",
+"graduate student; postgraduate student; research student"
+],
+[
+"研制",
+4,
+"yán zhì",
+"to manufacture; to develop"
+],
+[
+"研究所",
+5,
+"yán jiū suǒ",
+"research institute; graduate studies; graduate school; CL:个[gè]"
+],
+[
+"调研",
+6,
+"diào yán",
+"to investigate and research; research; investigation"
+],
+[
+"科研",
+6,
+"kē yán",
+"(scientific) research"
+],
+[
+"研发",
+6,
+"yán fā",
+"research and development; to develop"
+],
+[
+"研讨",
+7,
+"yán tǎo",
+"discussion"
 ],
 [
 "钻研",
-6,
+7,
 "zuān yán",
 "to study meticulously; to delve into"
 ]
 ],
 "extraWords": [
 [
-"科研",
-48.23,
-"kē yán",
-"(scientific) research"
-],
-[
-"研发",
-45.42,
-"yán fā",
-"research and development; to develop"
-],
-[
-"研究所",
-39.05,
-"yán jiū suǒ",
-"research institute; graduate studies; graduate school; CL:個|个[ge4]"
-],
-[
-"研制",
-32.48,
-"yán zhì",
-"to manufacture; to develop"
-],
-[
-"研究生",
-26.71,
-"yán jiū shēng",
-"graduate student; postgraduate student; research student"
-],
-[
-"调研",
-26.52,
-"diào yán",
-"to investigate and research; research; investigation"
+"研",
+23.65,
+"yán",
+"to grind; study; research"
 ],
 [
 "研讨会",
@@ -75,10 +87,22 @@
 "research institute; academy"
 ],
 [
-"研讨",
-7.35,
-"yán tǎo",
-"discussion"
+"调查研究",
+10.88,
+"???",
+"???"
+],
+[
+"研究室",
+5.93,
+"???",
+"???"
+],
+[
+"研究会",
+5.8,
+"???",
+"???"
 ],
 [
 "研究者",

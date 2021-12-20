@@ -1,36 +1,42 @@
 {
 "char": "汽",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "steam, vapor, gas",
 "pron": "qì"
 },
 "words": [
 [
+"汽车",
+1,
+"qì chē",
+"car; automobile; bus; CL:辆[liàng]"
+],
+[
 "公共汽车",
 2,
 "gōng gòng qì chē",
-"bus; CL:輛|辆[liang4],班[ban1]"
+"bus; CL:辆[liàng],班[bān]"
+],
+[
+"汽水",
+4,
+"qì shuǐ",
+"soda; pop"
 ],
 [
 "汽油",
-5,
+4,
 "qì yóu",
 "gasoline"
 ]
 ],
 "extraWords": [
 [
-"汽车",
-215.92,
-"qì chē",
-"car; automobile; bus; CL:輛|辆[liang4]"
-],
-[
-"汽水",
-7.42,
-"qì shuǐ",
-"soda; pop"
+"汽",
+35.95,
+"qì",
+"steam; vapor"
 ]
 ],
 "strokes": [

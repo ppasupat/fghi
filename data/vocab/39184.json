@@ -1,78 +1,114 @@
 {
 "char": "餐",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "eat, dine; meal; food",
 "pron": "cān"
 },
 "words": [
 [
-"餐厅",
-4,
-"cān tīng",
-"dining hall; dining room; restaurant; CL:間|间[jian1],家[jia1]"
-]
+"快餐",
+2,
+"kuài cān",
+"fast food; snack; quick meal"
 ],
-"extraWords": [
 [
 "晚餐",
-71.78,
+2,
 "wǎn cān",
-"evening meal; dinner; CL:份[fen4],頓|顿[dun4],次[ci4]"
+"evening meal; dinner; CL:份[fèn],顿[dùn],次[cì]"
 ],
 [
 "午餐",
-42.3,
+2,
 "wǔ cān",
-"lunch; luncheon; CL:份[fen4],頓|顿[dun4],次[ci4]"
+"lunch; luncheon; CL:份[fèn],顿[dùn],次[cì]"
+],
+[
+"西餐",
+2,
+"xī cān",
+"Western-style food; CL:份[fèn],顿[dùn]"
 ],
 [
 "早餐",
-37.17,
+2,
 "zǎo cān",
-"breakfast; CL:份[fen4],頓|顿[dun4],次[ci4]"
+"breakfast; CL:份[fèn],顿[dùn],次[cì]"
+],
+[
+"中餐",
+2,
+"zhōng cān",
+"lunch; Chinese meal; Chinese food; CL:份[fèn],顿[dùn]"
+],
+[
+"套餐",
+4,
+"tào cān",
+"set meal; product or service package (e.g. for a cell phone subscription)"
 ],
 [
 "餐馆",
-34.46,
+5,
 "cān guǎn",
-"restaurant; CL:家[jia1]"
+"restaurant; CL:家[jiā]"
+],
+[
+"餐厅",
+5,
+"cān tīng",
+"dining hall; dining room; restaurant; CL:间[jiān],家[jiā]"
 ],
 [
 "餐饮",
-16.2,
+5,
 "cān yǐn",
 "food and beverage; catering; repast"
 ],
+[
+"餐",
+6,
+"cān",
+"meal; to eat; classifier for meals"
+],
+[
+"餐桌",
+7,
+"cān zhuō",
+"dining table; dinner table"
+],
+[
+"风餐露宿",
+7,
+"fēng cān lù sù",
+"lit. to eat in the open air and sleep outdoors (idiom); fig. to rough it"
+],
+[
+"就餐",
+7,
+"jiù cān",
+"to dine"
+],
+[
+"野餐",
+7,
+"yě cān",
+"picnic; to have a picnic"
+],
+[
+"用餐",
+7,
+"yòng cān",
+"to eat a meal"
+]
+],
+"extraWords": [
 [
 "大餐",
 9.17,
 "dà cān",
 "great meal; banquet"
-],
-[
-"野餐",
-7.57,
-"yě cān",
-"picnic; to have a picnic"
-],
-[
-"餐桌",
-6.68,
-"cān zhuō",
-"dining table; dinner table"
-],
-[
-"用餐",
-6.08,
-"yòng cān",
-"to eat a meal"
-],
-[
-"快餐",
-5.78,
-"kuài cān",
-"fast food; snack; quick meal"
 ],
 [
 "餐具",

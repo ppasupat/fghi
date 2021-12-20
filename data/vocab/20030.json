@@ -1,6 +1,6 @@
 {
 "char": "举",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "raise, lift up; recommend",
 "pron": "jǔ"
@@ -8,89 +8,131 @@
 "words": [
 [
 "举",
-4,
+2,
 "jǔ",
-"variant of 舉|举[ju3]"
+"variant of 举[jǔ]"
 ],
 [
 "举",
-4,
+2,
 "jǔ",
 "to lift; to hold up; to cite; to enumerate; to act; to raise; to choose; to elect; act; move; deed"
 ],
 [
+"举手",
+2,
+"jǔ shǒu",
+"to raise a hand; to put up one's hand (as signal)"
+],
+[
 "举行",
-4,
+2,
 "jǔ xíng",
 "to hold (a meeting, ceremony etc)"
 ],
 [
 "举办",
-4,
+3,
 "jǔ bàn",
 "to conduct; to hold"
+],
+[
+"举动",
+5,
+"jǔ dòng",
+"act; action; activity; move; movement"
 ],
 [
 "选举",
 6,
 "xuǎn jǔ",
-"to elect; election; CL:次[ci4],個|个[ge4]"
+"to elect; election; CL:次[cì],个[gè]"
 ],
-[
-"举动",
-6,
-"jǔ dòng",
-"act; action; activity; move; movement"
-],
-[
-"举足轻重",
-6,
-"jǔ zú qīng zhòng",
-"to play a critical role (idiom); influential"
-],
-[
-"列举",
-6,
-"liè jǔ",
-"a list; to list; to enumerate"
-],
-[
-"一举两得",
-6,
-"yī jǔ liǎng dé",
-"one move, two gains (idiom); two birds with one stone"
-],
-[
-"举世瞩目",
-6,
-"jǔ shì zhǔ mù",
-"to receive worldwide attention"
-]
-],
-"extraWords": [
 [
 "举报",
-32.23,
+7,
 "jǔ bào",
 "to report (malefactors to the police); to denounce"
 ],
 [
 "举措",
-22.34,
+7,
 "jǔ cuò",
 "to move; to act; action; decision; conduct; manner"
 ],
 [
+"举例",
+7,
+"jǔ lì",
+"to give an example"
+],
+[
+"举世闻名",
+7,
+"jǔ shì wén míng",
+"world-famous (idiom)"
+],
+[
+"举世无双",
+7,
+"jǔ shì wú shuāng",
+"unrivaled (idiom); world number one; unique; unequaled"
+],
+[
+"举世瞩目",
+7,
+"jǔ shì zhǔ mù",
+"to receive worldwide attention"
+],
+[
+"举一反三",
+7,
+"jǔ yī fǎn sān",
+"to raise one and infer three; to deduce many things from one case (idiom)"
+],
+[
+"举止",
+7,
+"jǔ zhǐ",
+"bearing; manner; mien"
+],
+[
+"举重",
+7,
+"jǔ zhòng",
+"to lift weights; weight-lifting (sports)"
+],
+[
+"列举",
+7,
+"liè jǔ",
+"a list; to list; to enumerate"
+],
+[
+"轻而易举",
+7,
+"qīng ér yì jǔ",
+"easy; with no difficulty"
+],
+[
 "一举",
-14.88,
+7,
 "yī jǔ",
 "a move; an action; in one move; at a stroke; in one go"
 ],
 [
-"举手",
-12.15,
-"jǔ shǒu",
-"to raise a hand; to put up one's hand (as signal)"
+"一举一动",
+7,
+"yī jǔ yī dòng",
+"every movement; each and every move"
+]
+],
+"extraWords": [
+[
+"此举",
+16.46,
+"???",
+"???"
 ],
 [
 "举起",
@@ -103,18 +145,6 @@
 10.13,
 "gāo jǔ",
 "to lift up; to hold high"
-],
-[
-"举止",
-8.5,
-"jǔ zhǐ",
-"bearing; manner; mien"
-],
-[
-"举例",
-5.41,
-"jǔ lì",
-"to give an example"
 ]
 ],
 "strokes": [

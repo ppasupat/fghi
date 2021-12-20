@@ -1,6 +1,6 @@
 {
 "char": "恼",
-"level": 4,
+"level": "7",
 "info": {
 "gloss": "angered, filled with hate",
 "pron": "nǎo"
@@ -8,23 +8,35 @@
 "words": [
 [
 "烦恼",
-4,
+7,
 "fán nǎo",
 "to be worried; to be distressed; worries"
 ],
 [
-"恼火",
-6,
-"nǎo huǒ",
-"to get angry; irritated; to annoy; to aggravate; annoying"
+"苦恼",
+7,
+"kǔ nǎo",
+"vexed; distressed"
+],
+[
+"恼羞成怒",
+7,
+"nǎo xiū chéng nù",
+"to fly into a rage out of humiliation; to be ashamed into anger (idiom)"
 ]
 ],
 "extraWords": [
 [
-"苦恼",
-6.77,
-"kǔ nǎo",
-"vexed; distressed"
+"恼火",
+6.59,
+"nǎo huǒ",
+"to get angry; irritated; to annoy; to aggravate; annoying"
+],
+[
+"恼",
+5.8,
+"nǎo",
+"to get angry"
 ]
 ],
 "strokes": [

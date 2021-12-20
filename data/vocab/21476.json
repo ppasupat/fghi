@@ -1,46 +1,88 @@
 {
 "char": "古",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "old, classic, ancient",
 "pron": "gǔ"
 },
 "words": [
 [
+"古",
+3,
+"Gǔ",
+"surname Gu"
+],
+[
+"古",
+3,
+"gǔ",
+"ancient; old; paleo-"
+],
+[
 "古代",
-5,
+3,
 "gǔ dài",
 "ancient times; olden times"
 ],
 [
-"古典",
+"古老",
 5,
+"gǔ lǎo",
+"ancient; old; age-old"
+],
+[
+"古典",
+6,
 "gǔ diǎn",
 "classical"
 ],
 [
-"名胜古迹",
-5,
-"míng shèng gǔ jì",
-"historical sites and scenic spots"
-],
-[
-"古怪",
-6,
-"gǔ guài",
-"strange; weird; eccentric; bizarre"
-],
-[
 "古董",
-6,
+7,
 "gǔ dǒng",
 "curio; antique"
 ],
 [
-"考古",
-6,
-"kǎo gǔ",
-"archaeology"
+"古怪",
+7,
+"gǔ guài",
+"strange; weird; eccentric; bizarre"
+],
+[
+"古迹",
+7,
+"gǔ jì",
+"places of historic interest; historical sites; CL:个[gè]"
+],
+[
+"古今中外",
+7,
+"gǔ jīn zhōng wài",
+"at all times and in all places (idiom)"
+],
+[
+"古朴",
+7,
+"gǔ pǔ",
+"simple and unadorned (of art, architecture etc)"
+],
+[
+"古人",
+7,
+"gǔ rén",
+"people of ancient times; the ancients; extinct human species such as Homo erectus or Homo neanderthalensis; (literary) deceased person"
+],
+[
+"前无古人",
+7,
+"qián wú gǔ rén",
+"(idiom) unprecedented; unheard of"
+],
+[
+"万古长青",
+7,
+"wàn gǔ cháng qīng",
+"remain fresh; last forever; eternal"
 ]
 ],
 "extraWords": [
@@ -51,16 +93,10 @@
 "Cuba"
 ],
 [
-"古老",
-17.83,
-"gǔ lǎo",
-"ancient; old; age-old"
-],
-[
 "内蒙古",
 15.76,
 "Nèi měng gǔ",
-"Inner Mongolia; abbr. for 內蒙古自治區|内蒙古自治区[Nei4 meng3 gu3 Zi4 zhi4 qu1], Inner Mongolia autonomous region"
+"Inner Mongolia; abbr. for 内蒙古自治区[Nèi měng gǔ Zì zhì qū], Inner Mongolia autonomous region"
 ],
 [
 "蒙古",
@@ -75,16 +111,16 @@
 "to return to old ways (a Confucian aspiration); to turn back the clock; neoclassical school during Tang and Song associated with classical writing 古文; retro (fashion style based on nostalgia, esp. for 1960s)"
 ],
 [
+"考古",
+9.94,
+"kǎo gǔ",
+"archaeology"
+],
+[
 "古城",
 9.06,
 "gǔ chéng",
 "ancient city"
-],
-[
-"古人",
-7.75,
-"gǔ rén",
-"people of ancient times; the ancients; extinct human species such as Homo erectus or Homo neanderthalensis; (literary) deceased person"
 ]
 ],
 "strokes": [

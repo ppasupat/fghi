@@ -1,6 +1,6 @@
 {
 "char": "所",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "place, location; numerary adjunct",
 "pron": "suǒ"
@@ -14,90 +14,180 @@
 ],
 [
 "所有",
-4,
+2,
 "suǒ yǒu",
 "all; to have; to possess; to own"
 ],
 [
-"厕所",
-4,
-"cè suǒ",
-"toilet; lavatory; CL:間|间[jian1],處|处[chu4]"
-],
-[
-"所",
-5,
-"suǒ",
-"actually; place; classifier for houses, small buildings, institutions etc; that which; particle introducing a relative clause or passive; CL:個|个[ge4]"
-],
-[
-"无所谓",
-5,
-"wú suǒ wèi",
-"to be indifferent; not to matter; cannot be said to be"
-],
-[
 "场所",
-6,
+3,
 "chǎng suǒ",
 "location; place"
 ],
 [
-"理所当然",
+"所",
+3,
+"suǒ",
+"actually; place; classifier for houses, small buildings, institutions etc; that which; particle introducing a relative clause or passive; CL:个[gè]"
+],
+[
+"所长",
+3,
+"suǒ cháng",
+"what one is good at"
+],
+[
+"所长",
+3,
+"suǒ zhǎng",
+"head of an institute etc"
+],
+[
+"无所谓",
+4,
+"wú suǒ wèi",
+"to be indifferent; not to matter; cannot be said to be"
+],
+[
+"所在",
+5,
+"suǒ zài",
+"place; location; (after a noun) place where it is located"
+],
+[
+"研究所",
+5,
+"yán jiū suǒ",
+"research institute; graduate studies; graduate school; CL:个[gè]"
+],
+[
+"厕所",
 6,
+"cè suǒ",
+"toilet; lavatory; CL:间[jiān],处[chù]"
+],
+[
+"公共场所",
+7,
+"gōng gòng chǎng suǒ",
+"public place"
+],
+[
+"理所当然",
+7,
 "lǐ suǒ dāng rán",
 "as it should be by rights (idiom); proper and to be expected as a matter of course; inevitable and right"
 ],
 [
+"力所能及",
+7,
+"lì suǒ néng jí",
+"as far as one's capabilities extend (idiom); to the best of one's ability; within one's powers"
+],
+[
+"前所未有",
+7,
+"qián suǒ wèi yǒu",
+"unprecedented"
+],
+[
+"事务所",
+7,
+"shì wù suǒ",
+"office; firm"
+],
+[
+"随心所欲",
+7,
+"suí xīn suǒ yù",
+"to follow one's heart's desires; to do as one pleases (idiom)"
+],
+[
+"所属",
+7,
+"suǒ shǔ",
+"one's affiliation (i.e. the organization one is affiliated with); subordinate (i.e. those subordinate to oneself); belonging to; affiliated; under one's command"
+],
+[
+"所谓",
+7,
+"suǒ wèi",
+"so-called; what is called"
+],
+[
+"所作所为",
+7,
+"suǒ zuò suǒ wéi",
+"one's conduct and deeds"
+],
+[
+"无所事事",
+7,
+"wú suǒ shì shì",
+"to have nothing to do; to idle one's time away (idiom)"
+],
+[
+"无所作为",
+7,
+"wú suǒ zuò wéi",
+"attempting nothing and accomplishing nothing (idiom); without any initiative or drive; feckless"
+],
+[
+"一无所有",
+7,
+"yī wú suǒ yǒu",
+"not having anything at all (idiom); utterly lacking; without two sticks to rub together"
+],
+[
+"一无所知",
+7,
+"yī wú suǒ zhī",
+"not knowing anything at all (idiom); completely ignorant; without an inkling"
+],
+[
+"有所",
+7,
+"yǒu suǒ",
+"somewhat; to some extent"
+],
+[
+"有所不同",
+7,
+"yǒu suǒ bù tóng",
+"to differ to some extent (idiom)"
+],
+[
+"诊所",
+7,
+"zhěn suǒ",
+"clinic"
+],
+[
+"之所以",
+7,
+"zhī suǒ yǐ",
+"(after a noun N and before a predicate P) the reason why N P; Example: 我之所以讨厌他[wǒ zhī suǒ yǐ tǎo yàn tā] \"the reason why I dislike him (is ...)\""
+],
+[
 "众所周知",
-6,
+7,
 "zhòng suǒ zhōu zhī",
 "as everyone knows (idiom)"
 ],
 [
 "众所周知",
-6,
+7,
 "zhòng suǒ zhōu zhī",
-"see 眾所周知|众所周知[zhong4 suo3 zhou1 zhi1]"
+"see 众所周知[zhòng suǒ zhōu zhī]"
 ],
 [
-"力所能及",
-6,
-"lì suǒ néng jí",
-"as far as one's capabilities extend (idiom); to the best of one's ability; within one's powers"
+"综上所述",
+7,
+"zōng shàng suǒ shù",
+"to summarize; to sum up"
 ]
 ],
 "extraWords": [
-[
-"所谓",
-101.54,
-"suǒ wèi",
-"so-called; what is called"
-],
-[
-"有所",
-91.59,
-"yǒu suǒ",
-"somewhat; to some extent"
-],
-[
-"所在",
-54.59,
-"suǒ zài",
-"place; location; (after a noun) place where it is located"
-],
-[
-"之所以",
-43.97,
-"zhī suǒ yǐ",
-"(after a noun N and before a predicate P) the reason why N P; Example: 我之所以討厭他|我之所以讨厌他[wo3 zhi1 suo3 yi3 tao3 yan4 ta1] \"the reason why I dislike him (is ...)\""
-],
-[
-"研究所",
-39.05,
-"yán jiū suǒ",
-"research institute; graduate studies; graduate school; CL:個|个[ge4]"
-],
 [
 "派出所",
 32.2,
@@ -105,10 +195,10 @@
 "local police station"
 ],
 [
-"事务所",
-24.59,
-"shì wù suǒ",
-"office; firm"
+"所有人",
+31.44,
+"???",
+"???"
 ],
 [
 "所得",
@@ -117,22 +207,10 @@
 "what one acquires; one's gains"
 ],
 [
-"诊所",
-21.82,
-"zhěn suǒ",
-"clinic"
-],
-[
 "所致",
 20.62,
 "suǒ zhì",
 "to be caused by"
-],
-[
-"一无所知",
-18.72,
-"yī wú suǒ zhī",
-"not knowing anything at all (idiom); completely ignorant; without an inkling"
 ],
 [
 "交易所",
@@ -141,52 +219,22 @@
 "exchange; stock exchange"
 ],
 [
-"所属",
-17.91,
-"suǒ shǔ",
-"one's affiliation (i.e. the organization one is affiliated with); subordinate (i.e. those subordinate to oneself); belonging to; affiliated; under one's command"
-],
-[
-"所作所为",
-17.68,
-"suǒ zuò suǒ wéi",
-"one's conduct and deeds"
-],
-[
-"所长",
-16.12,
-"suǒ cháng",
-"what one is good at"
-],
-[
-"所长",
-16.12,
-"suǒ zhǎng",
-"head of an institute etc"
-],
-[
-"前所未有",
-12.08,
-"qián suǒ wèi yǒu",
-"unprecedented"
-],
-[
 "所在地",
 11.58,
 "suǒ zài dì",
 "location; site"
 ],
 [
-"一无所有",
-11.33,
-"yī wú suǒ yǒu",
-"not having anything at all (idiom); utterly lacking; without two sticks to rub together"
-],
-[
 "所有权",
 10.92,
 "suǒ yǒu quán",
 "ownership; possession; property rights; title (to property)"
+],
+[
+"个人所得",
+10.33,
+"???",
+"???"
 ],
 [
 "所得税",
@@ -204,7 +252,7 @@
 "住所",
 7.99,
 "zhù suǒ",
-"habitation; dwelling place; residence; CL:處|处[chu4]"
+"habitation; dwelling place; residence; CL:处[chù]"
 ],
 [
 "一无所获",
@@ -225,16 +273,10 @@
 "Shanghai Stock Exchange (SSE)"
 ],
 [
-"有所不同",
-6.09,
-"yǒu suǒ bù tóng",
-"to differ to some extent (idiom)"
-],
-[
-"随心所欲",
-5.99,
-"suí xīn suǒ yù",
-"to follow one's heart's desires; to do as one pleases (idiom)"
+"上厕所",
+6.65,
+"???",
+"???"
 ],
 [
 "所为",

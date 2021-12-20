@@ -1,30 +1,42 @@
 {
 "char": "刊",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "publication, periodical; publish",
 "pron": "kān"
 },
 "words": [
 [
-"刊登",
+"报刊",
 6,
+"bào kān",
+"newspapers and periodicals; the press"
+],
+[
+"刊登",
+7,
 "kān dēng",
 "to carry a story; to publish (in a newspaper or magazine)"
 ],
 [
 "刊物",
-6,
+7,
 "kān wù",
 "publication"
 ]
 ],
 "extraWords": [
 [
-"报刊",
-13.17,
-"bào kān",
-"newspapers and periodicals; the press"
+"刊",
+19.17,
+"kān",
+"to print; to publish; publication; periodical; to peel with a knife; to carve; to amend"
+],
+[
+"刊",
+19.17,
+"kān",
+"old variant of 刊[kān]; to peel with a knife; to carve; to amend"
 ],
 [
 "周刊",

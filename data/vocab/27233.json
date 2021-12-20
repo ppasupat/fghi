@@ -1,24 +1,30 @@
 {
 "char": "橡",
-"level": 4,
+"level": "7",
 "info": {
 "gloss": "chestnut oak; rubber tree; rubber",
 "pron": "xiàng"
 },
 "words": [
 [
+"橡胶",
+7,
+"xiàng jiāo",
+"rubber; caoutchouc"
+],
+[
 "橡皮",
-4,
+7,
 "xiàng pí",
-"rubber; an eraser; CL:塊|块[kuai4]"
+"rubber; an eraser; CL:块[kuài]"
 ]
 ],
 "extraWords": [
 [
-"橡胶",
-11.59,
-"xiàng jiāo",
-"rubber; caoutchouc"
+"橡树",
+2.98,
+"xiàng shù",
+"oak"
 ]
 ],
 "strokes": [

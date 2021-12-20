@@ -1,6 +1,6 @@
 {
 "char": "键",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "door bolt, lock bolt; key",
 "pron": "jiàn"
@@ -8,15 +8,27 @@
 "words": [
 [
 "关键",
-4,
+5,
 "guān jiàn",
-"crucial point; crux; CL:個|个[ge4]; key; crucial; pivotal"
+"crucial point; crux; CL:个[gè]; key; crucial; pivotal"
+],
+[
+"键",
+5,
+"jiàn",
+"key (on a piano or computer keyboard); button (on a mouse or other device); chemical bond; linchpin"
 ],
 [
 "键盘",
 5,
 "jiàn pán",
 "keyboard"
+],
+[
+"按键",
+7,
+"àn jiàn",
+"button or key (on a device); keystroke; CL:个[gè]; to press a button"
 ]
 ],
 "extraWords": [
@@ -25,12 +37,6 @@
 11.89,
 "guān jiàn cí",
 "keyword"
-],
-[
-"按键",
-9.87,
-"àn jiàn",
-"button or key (on a device); keystroke; CL:個|个[ge4]; to press a button"
 ]
 ],
 "strokes": [

@@ -1,28 +1,34 @@
 {
 "char": "状",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "form; appearance; shape; official",
 "pron": "zhuàng"
 },
 "words": [
 [
-"状态",
-5,
-"zhuàng tài",
-"state of affairs; state; mode; situation; CL:個|个[ge4]"
+"形状",
+3,
+"xíng zhuàng",
+"form; shape; CL:个[gè]"
 ],
 [
 "状况",
-5,
+3,
 "zhuàng kuàng",
-"condition; state; situation; CL:個|个[ge4]"
+"condition; state; situation; CL:个[gè]"
 ],
 [
-"形状",
+"状态",
+3,
+"zhuàng tài",
+"state of affairs; state; mode; situation; CL:个[gè]"
+],
+[
+"现状",
 5,
-"xíng zhuàng",
-"form; shape; CL:個|个[ge4]"
+"xiàn zhuàng",
+"current situation"
 ],
 [
 "症状",
@@ -31,24 +37,30 @@
 "symptom (of an illness)"
 ],
 [
-"现状",
-6,
-"xiàn zhuàng",
-"current situation"
+"告状",
+7,
+"gào zhuàng",
+"to tell on sb; to complain (to a teacher, a superior etc); to bring a lawsuit"
+],
+[
+"状元",
+7,
+"zhuàng yuán",
+"top scorer in the palace examination (highest rank of the Imperial examination system); see 榜眼[bǎng yǎn] and 探花[tàn huā]; top scorer in college entrance examination 高考[gāo kǎo]; (fig.) the most brilliantly talented person in the field; leading light"
 ]
 ],
 "extraWords": [
+[
+"状",
+67.29,
+"zhuàng",
+"accusation; suit; state; condition; strong; great; -shaped"
+],
 [
 "甲状腺",
 8.06,
 "jiǎ zhuàng xiàn",
 "thyroid gland"
-],
-[
-"状元",
-6.89,
-"zhuàng yuán",
-"top scorer in the palace examination (highest rank of the Imperial examination system); see 榜眼[bang3 yan3] and 探花[tan4 hua1]; top scorer in college entrance examination 高考[gao1 kao3]; (fig.) the most brilliantly talented person in the field; leading light"
 ],
 [
 "性状",

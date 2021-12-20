@@ -1,34 +1,76 @@
 {
 "char": "季",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "quarter of year; season; surname",
 "pron": "jì"
 },
 "words": [
 [
-"季节",
-3,
-"jì jié",
-"time; season; period; CL:個|个[ge4]"
+"春季",
+4,
+"chūn jì",
+"springtime"
+],
+[
+"冬季",
+4,
+"dōng jì",
+"winter"
+],
+[
+"季",
+4,
+"Jì",
+"surname Ji"
+],
+[
+"季",
+4,
+"jì",
+"season; the last month of a season; fourth or youngest amongst brothers; classifier for seasonal crop yields"
 ],
 [
 "季度",
-6,
+4,
 "jì dù",
 "quarter of a year; season (sports)"
 ],
 [
-"淡季",
-6,
-"dàn jì",
-"off season; slow business season; see also 旺季[wang4 ji4]"
+"季节",
+4,
+"jì jié",
+"time; season; period; CL:个[gè]"
 ],
 [
-"季军",
-6,
-"jì jūn",
-"third in a race; bronze medalist"
+"秋季",
+4,
+"qiū jì",
+"autumn; fall"
+],
+[
+"夏季",
+4,
+"xià jì",
+"summer"
+],
+[
+"淡季",
+7,
+"dàn jì",
+"off season; slow business season; see also 旺季[wàng jì]"
+],
+[
+"四季",
+7,
+"sì jì",
+"four seasons, namely: spring 春[chūn], summer 夏[xià], autumn 秋[qiū] and winter 冬[dōng]"
+],
+[
+"旺季",
+7,
+"wàng jì",
+"busy season; peak period; see also 淡季[dàn jì]"
 ]
 ],
 "extraWords": [
@@ -39,28 +81,16 @@
 "season (sports)"
 ],
 [
-"冬季",
-36.72,
-"dōng jì",
-"winter"
+"本赛季",
+22.88,
+"???",
+"???"
 ],
 [
-"夏季",
-18.65,
-"xià jì",
-"summer"
-],
-[
-"秋季",
-12.17,
-"qiū jì",
-"autumn; fall"
-],
-[
-"春季",
-11.53,
-"chūn jì",
-"springtime"
+"季军",
+15.69,
+"jì jūn",
+"third in a race; bronze medalist"
 ],
 [
 "第一季度",
@@ -69,22 +99,10 @@
 "first quarter (of financial year)"
 ],
 [
-"四季",
-8.36,
-"sì jì",
-"four seasons, namely: spring 春[chun1], summer 夏[xia4], autumn 秋[qiu1] and winter 冬[dong1]"
-],
-[
 "第三季度",
 7.83,
 "dì sān jì dù",
 "third quarter (of financial year)"
-],
-[
-"旺季",
-7.43,
-"wàng jì",
-"busy season; peak period; see also 淡季[dan4 ji4]"
 ],
 [
 "第二季度",

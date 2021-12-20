@@ -1,42 +1,60 @@
 {
 "char": "豆",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "beans, peas; bean-shaped",
 "pron": "dòu"
 },
 "words": [
 [
+"豆腐",
+4,
+"dòu fu",
+"tofu; bean curd"
+],
+[
+"豆制品",
+5,
+"dòu zhì pǐn",
+"legume-based product; soybean product"
+],
+[
 "土豆",
 5,
 "tǔ dòu",
-"potato; CL:個|个[ge4]; (Tw) peanut; CL:顆|颗[ke1]"
+"potato; CL:个[gè]; (Tw) peanut; CL:颗[kē]"
 ],
 [
-"豆腐",
-5,
-"dòu fu",
-"tofu; bean curd"
+"豆浆",
+7,
+"dòu jiāng",
+"soy milk"
+],
+[
+"豆子",
+7,
+"dòu zi",
+"bean; pea; CL:颗[kē]"
 ]
 ],
 "extraWords": [
+[
+"豆",
+45.94,
+"dòu",
+"variant of 豆[dòu]"
+],
+[
+"豆",
+45.94,
+"dòu",
+"bean; pea; CL:棵[kē],粒[lì]; sacrificial vessel"
+],
 [
 "大豆",
 27.08,
 "dà dòu",
 "soybean"
-],
-[
-"豆子",
-8.82,
-"dòu zi",
-"bean; pea; CL:顆|颗[ke1]"
-],
-[
-"豆浆",
-7.73,
-"dòu jiāng",
-"soy milk"
 ],
 [
 "豆瓣",
@@ -48,7 +66,7 @@
 "豆瓣",
 6.93,
 "dòu bàn",
-"cotyledon of a bean (i.e. either of the halves of a bean seed that can be split apart after removing the seed coat); thick bean sauce (abbr. for 豆瓣醬|豆瓣酱[dou4 ban4 jiang4])"
+"cotyledon of a bean (i.e. either of the halves of a bean seed that can be split apart after removing the seed coat); thick bean sauce (abbr. for 豆瓣酱[dòu bàn jiàng])"
 ],
 [
 "红豆",

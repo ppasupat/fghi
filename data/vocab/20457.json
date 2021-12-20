@@ -1,6 +1,6 @@
 {
 "char": "俩",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "two, pair",
 "pron": "liǎ, liǎng"
@@ -19,6 +19,12 @@
 5.61,
 "zán liǎ",
 "the two of us"
+],
+[
+"我俩",
+5.6,
+"???",
+"???"
 ]
 ],
 "strokes": [

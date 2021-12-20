@@ -1,12 +1,31 @@
 {
 "char": "咄",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "noise of rage, cry out in anger",
 "pron": "duō"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"咄咄逼人",
+2.14,
+"duō duō bī rén",
+"overbearing; forceful; aggressive; menacing; imperious"
+],
+[
+"咄",
+0.75,
+"duō",
+"(old)(interjection expressing disapproval, commiseration etc) tut!; Taiwan pr. [duo4]"
+],
+[
+"咄咄怪事",
+0.19,
+"duō duō guài shì",
+"strange; absurd; paradoxical; extraordinary"
+]
+],
 "strokes": [
 "M 131 527 Q 119 533 97 538 Q 85 542 81 538 Q 74 532 81 515 Q 108 445 115 331 Q 116 297 133 273 Q 149 249 155 265 Q 164 284 162 318 L 159 353 Q 149 471 148 500 C 147 520 147 520 131 527 Z",
 "M 298 380 Q 314 477 340 507 Q 362 534 338 548 Q 317 558 289 576 Q 265 588 226 559 Q 187 544 131 527 C 102 518 119 491 148 500 Q 154 503 231 521 Q 253 527 259 518 Q 268 511 261 471 Q 254 431 245 382 C 240 352 293 350 298 380 Z",

@@ -1,115 +1,169 @@
 {
 "char": "应",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "should, ought to, must",
 "pron": "yīng, yìng"
 },
 "words": [
 [
-"应该",
-3,
-"yīng gāi",
-"ought to; should; must"
-],
-[
-"适应",
-4,
-"shì yìng",
-"to adapt; to fit; to suit"
-],
-[
-"应聘",
-4,
-"yìng pìn",
-"to accept a job offer; to apply for an advertised position"
-],
-[
 "答应",
-5,
+2,
 "dā ying",
 "to answer; to respond; to answer positively; to agree; to accept; to promise"
 ],
 [
+"应该",
+2,
+"yīng gāi",
+"ought to; should; must"
+],
+[
 "反应",
-5,
+3,
 "fǎn yìng",
-"to react; to respond; reaction; response; reply; chemical reaction; CL:個|个[ge4]"
+"to react; to respond; reaction; response; reply; chemical reaction; CL:个[gè]"
 ],
 [
-"应付",
-5,
-"yìng fu",
-"to deal with; to cope"
+"适应",
+3,
+"shì yìng",
+"to adapt; to fit; to suit"
 ],
-[
-"应用",
-5,
-"yìng yòng",
-"to put to use; to apply; practical; applied (science, linguistics etc); application; practical use; (computing) app"
-],
-[
-"相应",
-6,
-"xiāng yìng",
-"to correspond; answering (one another); to agree (among the part); corresponding; relevant; appropriate; (modify) accordingly"
-],
-[
-"对应",
-6,
-"duì yìng",
-"to correspond; a correspondence; corresponding; homologous; matching with sth; counterpart"
-],
-[
-"响应",
-6,
-"xiǎng yìng",
-"to respond to; answer; CL:個|个[ge4]"
-],
-[
-"应酬",
-6,
-"yìng chou",
-"social niceties; social interaction; a dinner party"
-],
-[
-"应邀",
-6,
-"yìng yāo",
-"at sb's invitation; on invitation"
-],
-[
-"供不应求",
-6,
-"gōng bù yìng qiú",
-"supply does not meet demand"
-]
-],
-"extraWords": [
 [
 "应当",
-97.06,
+3,
 "yīng dāng",
 "should; ought to"
 ],
 [
+"应用",
+3,
+"yìng yòng",
+"to put to use; to apply; practical; applied (science, linguistics etc); application; practical use; (computing) app"
+],
+[
 "供应",
-89.57,
+4,
 "gōng yìng",
 "to supply; to provide; to offer"
 ],
 [
+"应",
+4,
+"Yìng",
+"surname Ying"
+],
+[
+"应",
+4,
+"yīng",
+"to agree (to do sth); should; ought to; must; (legal) shall"
+],
+[
+"应",
+4,
+"yìng",
+"to answer; to respond; to comply with; to deal or cope with"
+],
+[
+"对应",
+5,
+"duì yìng",
+"to correspond; a correspondence; corresponding; homologous; matching with sth; counterpart"
+],
+[
+"相应",
+5,
+"xiāng yìng",
+"to correspond; answering (one another); to agree (among the part); corresponding; relevant; appropriate; (modify) accordingly"
+],
+[
+"回应",
+6,
+"huí yìng",
+"to respond; response"
+],
+[
+"应对",
+6,
+"yìng duì",
+"to answer; to reply; to handle; to deal with; response"
+],
+[
+"应急",
+6,
+"yìng jí",
+"to respond to an emergency; to meet a contingency; (attributive) emergency"
+],
+[
+"供不应求",
+7,
+"gōng bù yìng qiú",
+"supply does not meet demand"
+],
+[
+"呼应",
+7,
+"hū yìng",
+"to conform (with); to echo; to correlate well; (linguistics) agreement"
+],
+[
+"顺应",
+7,
+"shùn yìng",
+"to comply; to conform to; in tune with; adapting to; to adjust to"
+],
+[
+"响应",
+7,
+"xiǎng yìng",
+"to respond to; answer; CL:个[gè]"
+],
+[
 "效应",
-42.95,
+7,
 "xiào yìng",
 "effect (scientific phenomenon)"
 ],
 [
-"应对",
-36.55,
-"yìng duì",
-"to answer; to reply; to handle; to deal with; response"
+"一应俱全",
+7,
+"yī yīng jù quán",
+"with everything needed available"
 ],
+[
+"应有尽有",
+7,
+"yīng yǒu jìn yǒu",
+"everything that should be here is here (idiom); all one can think of is on hand; to have all one needs"
+],
+[
+"应酬",
+7,
+"yìng chou",
+"social niceties; social interaction; a dinner party"
+],
+[
+"应付",
+7,
+"yìng fu",
+"to deal with; to cope"
+],
+[
+"应聘",
+7,
+"yìng pìn",
+"to accept a job offer; to apply for an advertised position"
+],
+[
+"应邀",
+7,
+"yìng yāo",
+"at sb's invitation; on invitation"
+]
+],
+"extraWords": [
 [
 "应有",
 23.71,
@@ -121,18 +175,6 @@
 23.13,
 "yīng dé",
 "to deserve"
-],
-[
-"应急",
-22.92,
-"yìng jí",
-"to respond to an emergency; to meet a contingency; (attributive) emergency"
-],
-[
-"回应",
-22.58,
-"huí yìng",
-"to respond; response"
 ],
 [
 "报应",
@@ -153,16 +195,22 @@
 "stress (physics)"
 ],
 [
+"相适应",
+8.73,
+"???",
+"???"
+],
+[
+"供应量",
+7.88,
+"???",
+"???"
+],
+[
 "应变",
 5.94,
 "yìng biàn",
 "to meet a contingency; to adapt oneself to changes"
-],
-[
-"顺应",
-5.73,
-"shùn yìng",
-"to comply; to conform to; in tune with; adapting to; to adjust to"
 ],
 [
 "应届",

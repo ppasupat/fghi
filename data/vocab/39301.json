@@ -1,6 +1,6 @@
 {
 "char": "馅",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "filling, stuffing; secret",
 "pron": "xiàn"
@@ -8,9 +8,9 @@
 "words": [
 [
 "馅儿",
-6,
+7,
 "xiàn r5",
-"erhua variant of 餡|馅[xian4]"
+"erhua variant of 馅[xiàn]"
 ]
 ],
 "extraWords": [
@@ -19,6 +19,12 @@
 18.93,
 "xiàn bǐng",
 "meat pie; pie; pasty"
+],
+[
+"馅",
+4.7,
+"xiàn",
+"stuffing; forcemeat; filling"
 ]
 ],
 "strokes": [

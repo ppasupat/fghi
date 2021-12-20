@@ -1,17 +1,30 @@
 {
 "char": "畸",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "odd, fractional, remainder, odds",
 "pron": "jī"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "畸形",
-11.22,
+7,
 "jī xíng",
 "deformity; abnormality"
+]
+],
+"extraWords": [
+[
+"畸",
+2.24,
+"jī",
+"lopsided; unbalanced; abnormal; irregular; odd fractional remnant"
+],
+[
+"畸变",
+1.11,
+"jī biàn",
+"distortion; aberration"
 ]
 ],
 "strokes": [

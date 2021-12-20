@@ -1,28 +1,34 @@
 {
 "char": "耀",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "shine, sparkle, dazzle; glory",
 "pron": "yào"
 },
 "words": [
 [
-"炫耀",
+"照耀",
 6,
+"zhào yào",
+"to shine; to illuminate"
+],
+[
+"夸耀",
+7,
+"kuā yào",
+"to brag about; to flaunt"
+],
+[
+"炫耀",
+7,
 "xuàn yào",
 "dazzling; to show off; to flaunt"
 ],
 [
 "耀眼",
-6,
+7,
 "yào yǎn",
 "to dazzle; dazzling"
-],
-[
-"照耀",
-6,
-"zhào yào",
-"to shine; to illuminate"
 ]
 ],
 "extraWords": [
@@ -31,6 +37,12 @@
 12.97,
 "róng yào",
 "honor; glory"
+],
+[
+"耀",
+7.35,
+"yào",
+"brilliant; glorious"
 ],
 [
 "闪耀",

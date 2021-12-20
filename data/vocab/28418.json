@@ -1,6 +1,6 @@
 {
 "char": "漂",
-"level": 1,
+"level": "2",
 "info": {
 "gloss": "float, drift; tossed about",
 "pron": "piāo, piǎo, piào"
@@ -8,15 +8,27 @@
 "words": [
 [
 "漂亮",
-1,
+2,
 "piào liang",
 "pretty; beautiful"
 ],
 [
-"漂浮",
-6,
-"piāo fú",
-"to float; to hover; to drift (also fig., to lead a wandering life); to rove; showy; superficial"
+"漂",
+7,
+"piāo",
+"to float; to drift"
+],
+[
+"漂",
+7,
+"piǎo",
+"to bleach"
+],
+[
+"漂",
+7,
+"piào",
+"elegant; polished"
 ]
 ],
 "extraWords": [],

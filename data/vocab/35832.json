@@ -1,6 +1,6 @@
 {
 "char": "诸",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "various, all, these; surname",
 "pron": "zhū"
@@ -11,14 +11,32 @@
 6,
 "zhū wèi",
 "(pron) everyone; Ladies and Gentlemen; Sirs"
+],
+[
+"诸多",
+7,
+"zhū duō",
+"(used for abstract things) a good deal, a lot of"
+],
+[
+"诸如此类",
+7,
+"zhū rú cǐ lèi",
+"things like this (idiom); and so on; and the rest; etc"
 ]
 ],
 "extraWords": [
 [
-"诸多",
-27.9,
-"zhū duō",
-"(used for abstract things) a good deal, a lot of"
+"诸",
+32.37,
+"Zhū",
+"surname Zhu"
+],
+[
+"诸",
+32.37,
+"zhū",
+"all; various"
 ],
 [
 "诸如",

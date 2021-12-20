@@ -1,6 +1,6 @@
 {
 "char": "论",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "debate; discuss; discourse",
 "pron": "lún, lùn"
@@ -8,9 +8,39 @@
 "words": [
 [
 "讨论",
-4,
+2,
 "tǎo lùn",
-"to discuss; to talk over; CL:個|个[ge4]"
+"to discuss; to talk over; CL:个[gè]"
+],
+[
+"不论",
+3,
+"bù lùn",
+"whatever; no matter what (who, how etc); regardless of; not to discuss"
+],
+[
+"理论",
+3,
+"lǐ lùn",
+"theory; CL:个[gè]; to argue; to take notice of"
+],
+[
+"辩论",
+4,
+"biàn lùn",
+"debate; argument; to argue over; CL:场[chǎng],次[cì]"
+],
+[
+"结论",
+4,
+"jié lùn",
+"conclusion; verdict; CL:个[gè]; to conclude; to reach a verdict"
+],
+[
+"论文",
+4,
+"lùn wén",
+"paper; treatise; thesis; CL:篇[piān]; to discuss a paper or thesis (old)"
 ],
 [
 "无论",
@@ -19,108 +49,120 @@
 "no matter what or how; regardless of whether..."
 ],
 [
-"理论",
-5,
-"lǐ lùn",
-"theory; CL:個|个[ge4]; to argue; to take notice of"
-],
-[
-"结论",
-5,
-"jié lùn",
-"conclusion; verdict; CL:個|个[ge4]; to conclude; to reach a verdict"
-],
-[
-"论文",
-5,
-"lùn wén",
-"paper; treatise; thesis; CL:篇[pian1]; to discuss a paper or thesis (old)"
+"议论",
+4,
+"yì lùn",
+"to comment; to talk about; to discuss; discussion; CL:个[gè]"
 ],
 [
 "争论",
-5,
+4,
 "zhēng lùn",
-"to argue; to debate; to contend; argument; contention; controversy; debate; CL:次[ci4],場|场[chang3]"
-],
-[
-"辩论",
-5,
-"biàn lùn",
-"debate; argument; to argue over; CL:場|场[chang3],次[ci4]"
-],
-[
-"议论",
-5,
-"yì lùn",
-"to comment; to talk about; to discuss; discussion; CL:個|个[ge4]"
+"to argue; to debate; to contend; argument; contention; controversy; debate; CL:次[cì],场[chǎng]"
 ],
 [
 "评论",
-6,
+5,
 "píng lùn",
-"to comment on; to discuss; comment; commentary; CL:篇[pian1]"
+"to comment on; to discuss; comment; commentary; CL:篇[piān]"
 ],
 [
-"言论",
-6,
-"yán lùn",
-"expression of opinion; views; remarks; arguments"
+"定论",
+7,
+"dìng lùn",
+"final conclusion; accepted argument"
+],
+[
+"概论",
+7,
+"gài lùn",
+"outline; introduction; survey; general discussion"
+],
+[
+"论述",
+7,
+"lùn shù",
+"treatise; discourse; exposition"
 ],
 [
 "论坛",
-6,
+7,
 "lùn tán",
 "forum (for discussion)"
 ],
 [
-"推论",
-6,
-"tuī lùn",
-"to infer; inference; corollary; reasoned conclusion"
-],
-[
-"舆论",
-6,
-"yú lùn",
-"public opinion"
-],
-[
 "论证",
-6,
+7,
 "lùn zhèng",
 "to prove a point; to expound on; to demonstrate or prove (through argument); proof"
-]
 ],
-"extraWords": [
+[
+"评论员",
+7,
+"píng lùn yuán",
+"commentator"
+],
+[
+"社论",
+7,
+"shè lùn",
+"editorial (in a newspaper); CL:篇[piān]"
+],
 [
 "谈论",
-49.36,
+7,
 "tán lùn",
 "to discuss; to talk about"
 ],
 [
 "无论如何",
-35.18,
+7,
 "wú lùn rú hé",
 "whatever the case; in any event; no matter what; by all possible means"
 ],
 [
-"不论",
-31.93,
-"bù lùn",
-"whatever; no matter what (who, how etc); regardless of; not to discuss"
+"相提并论",
+7,
+"xiāng tí bìng lùn",
+"to discuss two disparate things together (idiom); to mention on equal terms; to place on a par with; (often with negatives: impossible to mention X in the same breath as Y)"
 ],
 [
-"论述",
-11.21,
-"lùn shù",
-"treatise; discourse; exposition"
+"言论",
+7,
+"yán lùn",
+"expression of opinion; views; remarks; arguments"
 ],
 [
-"社论",
-7.38,
-"shè lùn",
-"editorial (in a newspaper); CL:篇[pian1]"
+"一概而论",
+7,
+"yī gài ér lùn",
+"to lump different matters together (idiom)"
+],
+[
+"舆论",
+7,
+"yú lùn",
+"public opinion"
+]
+],
+"extraWords": [
+[
+"论",
+51.9,
+"Lún",
+"abbr. for 论语[Lún yǔ], The Analects (of Confucius)"
+],
+[
+"论",
+51.9,
+"lùn",
+"opinion; view; theory; doctrine; to discuss; to talk about; to regard; to consider; per; by the (kilometer, hour etc)"
+],
+[
+"无论是",
+11.18,
+"???",
+"???"
 ]
 ],
 "strokes": [

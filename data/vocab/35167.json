@@ -1,12 +1,31 @@
 {
 "char": "襟",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "lapel, collar",
 "pron": "jīn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"胸襟",
+2.56,
+"xiōng jīn",
+"lapel of jacket; heart; aspiration; vision"
+],
+[
+"襟",
+1.57,
+"jīn",
+"lapel; overlap of Chinese gown; fig. bosom (the seat of emotions); to cherish (ambition, desires, honorable intentions etc) in one's bosom"
+],
+[
+"捉襟见肘",
+1.55,
+"zhuō jīn jiàn zhǒu",
+"lit. pulling on the lapels exposes the elbows (idiom); strapped for cash; unable to make ends meet"
+]
+],
 "strokes": [
 "M 279 775 Q 306 753 333 724 Q 348 711 364 710 Q 374 711 381 725 Q 385 740 377 771 Q 371 792 340 806 Q 267 834 252 827 Q 246 823 248 810 Q 252 798 279 775 Z",
 "M 249 409 Q 274 446 300 491 Q 328 543 370 577 Q 383 587 373 599 Q 357 612 332 621 Q 313 628 298 618 Q 261 593 238 586 Q 213 579 168 571 Q 122 567 88 565 Q 78 566 76 560 Q 73 553 85 543 Q 116 519 131 521 Q 137 522 258 562 Q 273 566 276 561 Q 282 552 271 531 Q 211 398 62 237 Q 50 228 53 225 Q 54 222 66 227 Q 141 269 225 376 L 249 409 Z",

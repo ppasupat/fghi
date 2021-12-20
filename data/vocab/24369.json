@@ -1,6 +1,6 @@
 {
 "char": "弱",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "weak; fragile, delicate",
 "pron": "ruò"
@@ -8,53 +8,77 @@
 "words": [
 [
 "弱",
-5,
+4,
 "ruò",
 "weak; feeble; young; inferior; (following a decimal or fraction) slightly less than"
 ],
 [
-"脆弱",
-6,
-"cuì ruò",
-"weak; frail"
-],
-[
-"弱点",
-6,
-"ruò diǎn",
-"weak point; failing"
-],
-[
 "薄弱",
-6,
+5,
 "bó ruò",
 "weak; frail"
 ],
 [
+"脆弱",
+7,
+"cuì ruò",
+"weak; frail"
+],
+[
+"减弱",
+7,
+"jiǎn ruò",
+"to weaken; to fall off"
+],
+[
+"软弱",
+7,
+"ruǎn ruò",
+"weak; feeble; flabby"
+],
+[
+"弱点",
+7,
+"ruò diǎn",
+"weak point; failing"
+],
+[
+"弱势",
+7,
+"ruò shì",
+"vulnerable; weak"
+],
+[
+"衰弱",
+7,
+"shuāi ruò",
+"weak; feeble"
+],
+[
+"微弱",
+7,
+"wēi ruò",
+"weak; faint; feeble"
+],
+[
+"虚弱",
+7,
+"xū ruò",
+"weak; in poor health"
+],
+[
 "削弱",
-6,
+7,
 "xuē ruò",
 "to weaken; to impair; to cripple"
 ]
 ],
 "extraWords": [
 [
-"减弱",
-12.69,
-"jiǎn ruò",
-"to weaken; to fall off"
-],
-[
-"软弱",
-11.3,
-"ruǎn ruò",
-"weak; feeble; flabby"
-],
-[
-"虚弱",
-8.14,
-"xū ruò",
-"weak; in poor health"
+"弱者",
+7.98,
+"???",
+"???"
 ],
 [
 "弱智",
@@ -63,10 +87,10 @@
 "weak-minded; mentally deficient; retarded"
 ],
 [
-"微弱",
-6.54,
-"wēi ruò",
-"weak; faint; feeble"
+"较弱",
+5.22,
+"???",
+"???"
 ]
 ],
 "strokes": [

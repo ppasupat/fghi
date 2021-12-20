@@ -1,23 +1,36 @@
 {
 "char": "屠",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "butcher, slaughter, massacre",
 "pron": "tú"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "屠杀",
-12.22,
+7,
 "tú shā",
 "to massacre; massacre; bloodbath; carnage"
+]
 ],
+"extraWords": [
 [
 "大屠杀",
 5.69,
 "dà tú shā",
 "massacre; Holocaust"
+],
+[
+"屠",
+5.53,
+"Tú",
+"surname Tu"
+],
+[
+"屠",
+5.53,
+"tú",
+"to slaughter (animals for food); to massacre"
 ]
 ],
 "strokes": [

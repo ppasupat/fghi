@@ -1,6 +1,6 @@
 {
 "char": "扶",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "support, help; protect; hold on",
 "pron": "fú"
@@ -11,20 +11,26 @@
 5,
 "fú",
 "to support with the hand; to help sb up; to support oneself by holding onto something; to help"
+],
+[
+"扶持",
+7,
+"fú chí",
+"to help; to assist"
 ]
 ],
 "extraWords": [
-[
-"扶持",
-23.16,
-"fú chí",
-"to help; to assist"
-],
 [
 "扶贫",
 15.22,
 "fú pín",
 "assistance to the poor; poverty alleviation"
+],
+[
+"帮扶",
+5.64,
+"???",
+"???"
 ]
 ],
 "strokes": [

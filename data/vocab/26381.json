@@ -1,6 +1,6 @@
 {
 "char": "服",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "clothes; wear, dress",
 "pron": "fú, fù"
@@ -10,111 +10,129 @@
 "衣服",
 1,
 "yī fu",
-"clothes; CL:件[jian4],套[tao4]"
+"clothes; CL:件[jiàn],套[tào]"
 ],
 [
-"服务员",
+"服务",
 2,
-"fú wù yuán",
-"waiter; waitress; attendant; customer service personnel; CL:個|个[ge4],位[wei4]"
+"fú wù",
+"to serve; service; CL:项[xiàng]"
 ],
 [
 "舒服",
-3,
+2,
 "shū fu",
 "comfortable; feeling well"
 ],
 [
-"说服",
-5,
-"shuō fú",
-"to persuade; to convince; to talk sb over; Taiwan pr. [shui4 fu2]"
-],
-[
 "服装",
-5,
+3,
 "fú zhuāng",
-"dress; clothing; costume; clothes; CL:身[shen1]"
+"dress; clothing; costume; clothes; CL:身[shēn]"
 ],
 [
 "克服",
-5,
+3,
 "kè fú",
 "(try to) overcome (hardships etc); to conquer; to put up with; to endure"
 ],
 [
-"佩服",
-5,
-"pèi fú",
-"to admire"
-],
-[
-"制服",
-6,
-"zhì fú",
-"to subdue; to check; to bring under control; (in former times) what one is allowed to wear depending on social status; uniform (army, party, school etc); livery (for company employees); CL:套[tao4]"
+"说服",
+4,
+"shuō fú",
+"to persuade; to convince; to talk sb over; Taiwan pr. [shui4 fu2]"
 ],
 [
 "征服",
-6,
+4,
 "zhēng fú",
 "to conquer; to subdue; to vanquish"
 ],
 [
 "服从",
-6,
+5,
 "fú cóng",
 "to obey (an order); to comply; to defer"
 ],
 [
-"屈服",
+"羽绒服",
+5,
+"yǔ róng fú",
+"down-filled garment"
+],
+[
+"服",
 6,
+"fú",
+"clothes; dress; garment; to serve (in the military, a prison sentence etc); to obey; to be convinced (by an argument); to convince; to admire; to acclimatize; to take (medicine); mourning clothes; to wear mourning clothes"
+],
+[
+"服",
+6,
+"fù",
+"classifier for medicine: dose; Taiwan pr. [fu2]"
+],
+[
+"不服",
+7,
+"bù fú",
+"not to accept sth; to want to have sth overruled or changed; to refuse to obey or comply; to refuse to accept as final; to remain unconvinced by; not to give in to"
+],
+[
+"不服气",
+7,
+"bù fú qì",
+"unwilling to concede; defiant; indignant; to find it galling"
+],
+[
+"服饰",
+7,
+"fú shì",
+"apparel; clothing and personal adornment"
+],
+[
+"服务器",
+7,
+"fú wù qì",
+"server (computer); CL:台[tái]"
+],
+[
+"服用",
+7,
+"fú yòng",
+"to take (medicine)"
+],
+[
+"礼服",
+7,
+"lǐ fú",
+"ceremonial robe; formal attire (dinner suit, evening gown etc)"
+],
+[
+"佩服",
+7,
+"pèi fú",
+"to admire"
+],
+[
+"屈服",
+7,
 "qū fú",
 "to surrender; to succumb; to yield; (as a transitive verb) to defeat; to prevail over"
 ],
 [
-"服气",
-6,
-"fú qì",
-"to be convinced; to accept"
-],
-[
-"羽绒服",
-6,
-"yǔ róng fú",
-"down-filled garment"
+"制服",
+7,
+"zhì fú",
+"to subdue; to check; to bring under control; (in former times) what one is allowed to wear depending on social status; uniform (army, party, school etc); livery (for company employees); CL:套[tào]"
 ]
 ],
 "extraWords": [
-[
-"服务",
-410.41,
-"fú wù",
-"to serve; service; CL:項|项[xiang4]"
-],
-[
-"服务器",
-24.19,
-"fú wù qì",
-"server (computer); CL:臺|台[tai2]"
-],
-[
-"服用",
-17.69,
-"fú yòng",
-"to take (medicine)"
-],
 [
 "服务业",
 17.33,
 "fú wù yè",
 "service industry"
-],
-[
-"礼服",
-17.26,
-"lǐ fú",
-"ceremonial robe; formal attire (dinner suit, evening gown etc)"
 ],
 [
 "不舒服",
@@ -123,10 +141,16 @@
 "unwell; feeling ill; to feel uncomfortable; uneasy"
 ],
 [
-"服饰",
-15.57,
-"fú shì",
-"apparel; clothing and personal adornment"
+"服务员",
+15.26,
+"fú wù yuán",
+"waiter; waitress; attendant; customer service personnel; CL:个[gè],位[wèi]"
+],
+[
+"服务中心",
+12.09,
+"???",
+"???"
 ],
 [
 "服务生",
@@ -139,12 +163,6 @@
 10.28,
 "kǒu fú",
 "to take medicine orally; oral (contraceptive etc); to say that one is convinced"
-],
-[
-"不服",
-9.55,
-"bù fú",
-"not to accept sth; to want to have sth overruled or changed; to refuse to obey or comply; to refuse to accept as final; to remain unconvinced by; not to give in to"
 ],
 [
 "售后服务",

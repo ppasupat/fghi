@@ -1,6 +1,6 @@
 {
 "char": "几",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "small table",
 "pron": "jī, jǐ"
@@ -26,9 +26,21 @@
 ],
 [
 "几乎",
-3,
+4,
 "jī hū",
 "almost; nearly; practically"
+],
+[
+"几率",
+7,
+"jī lǜ",
+"probability; odds"
+],
+[
+"寥寥无几",
+7,
+"liáo liáo wú jǐ",
+"just a very few (idiom); tiny number; not many at all; You count them on your fingers."
 ]
 ],
 "extraWords": [
@@ -51,10 +63,22 @@
 "more than ten; a dozen or more"
 ],
 [
+"几十",
+44.82,
+"???",
+"???"
+],
+[
 "近几年",
 24.17,
 "jìn jǐ nián",
 "in recent years"
+],
+[
+"几百",
+18.61,
+"???",
+"???"
 ],
 [
 "几分",
@@ -81,22 +105,34 @@
 "for the past several years"
 ],
 [
-"几率",
-8.5,
-"jī lǜ",
-"probability; odds"
-],
-[
 "几时",
 8.08,
 "jǐ shí",
 "what time?; when?"
 ],
 [
+"几百万",
+6.71,
+"???",
+"???"
+],
+[
 "几何",
 6.68,
 "jǐ hé",
 "geometry; (literary) how much"
+],
+[
+"几万",
+6.18,
+"???",
+"???"
+],
+[
+"几十万",
+5.61,
+"???",
+"???"
 ]
 ],
 "strokes": [

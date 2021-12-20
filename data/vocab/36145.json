@@ -1,11 +1,18 @@
 {
 "char": "贱",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "mean, low; cheap, worthless",
 "pron": "jiàn"
 },
-"words": [],
+"words": [
+[
+"贱",
+7,
+"jiàn",
+"inexpensive; lowly; despicable; (bound form) (humble) my"
+]
+],
 "extraWords": [
 [
 "贱人",

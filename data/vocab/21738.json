@@ -1,6 +1,6 @@
 {
 "char": "哪",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "which? where? how?",
 "pron": "nǎ, na, né"
@@ -16,7 +16,7 @@
 "哪",
 1,
 "na",
-"(emphatic sentence-final particle, used instead of 啊[a5] after a word ending in \"n\")"
+"(emphatic sentence-final particle, used instead of 啊[a] after a word ending in \"n\")"
 ],
 [
 "哪",
@@ -25,31 +25,43 @@
 "which? (interrogative, followed by classifier or numeral-classifier)"
 ],
 [
+"哪里",
+1,
+"nǎ lǐ",
+"where?; somewhere; anywhere; wherever; nowhere (negative answer to question); humble expression denying compliment; also written 哪裡|哪里"
+],
+[
+"哪里",
+1,
+"nǎ lǐ",
+"where?; somewhere; anywhere; wherever; nowhere (negative answer to question); humble expression denying compliment"
+],
+[
 "哪儿",
 1,
 "nǎ r5",
 "where?; wherever; anywhere"
 ],
 [
+"哪些",
+1,
+"nǎ xiē",
+"which ones?; who?; what?"
+],
+[
 "哪怕",
-5,
+4,
 "nǎ pà",
 "even; even if; even though; no matter how"
+],
+[
+"哪知道",
+7,
+"nǎ zhī dào",
+"who would have thought that ...?"
 ]
 ],
 "extraWords": [
-[
-"哪里",
-401.56,
-"nǎ lǐ",
-"where?; somewhere; anywhere; wherever; nowhere (negative answer to question); humble expression denying compliment; also written 哪裡|哪里"
-],
-[
-"哪里",
-401.56,
-"nǎ lǐ",
-"where?; somewhere; anywhere; wherever; nowhere (negative answer to question); humble expression denying compliment"
-],
 [
 "哪个",
 93.01,
@@ -57,10 +69,34 @@
 "which; who"
 ],
 [
-"哪些",
-34.89,
-"nǎ xiē",
-"which ones?; who?; what?"
+"哪有",
+12.63,
+"???",
+"???"
+],
+[
+"哪种",
+7.55,
+"???",
+"???"
+],
+[
+"哪位",
+6.78,
+"???",
+"???"
+],
+[
+"哪边",
+5.84,
+"???",
+"???"
+],
+[
+"哪能",
+5.55,
+"???",
+"???"
 ]
 ],
 "strokes": [

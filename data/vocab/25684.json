@@ -1,26 +1,31 @@
 {
 "char": "摔",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "fall ground, stumble, trip",
 "pron": "shuāi"
 },
 "words": [
 [
+"摔",
+5,
+"shuāi",
+"to throw down; to fall; to drop and break"
+],
+[
 "摔倒",
 5,
 "shuāi dǎo",
 "to fall down; to slip and fall; to throw sb to the ground"
-]
 ],
-"extraWords": [
 [
 "摔跤",
-9.9,
+7,
 "shuāi jiāo",
 "to trip and fall; to wrestle; wrestling (sports)"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 313 566 Q 328 572 346 577 Q 377 587 382 593 Q 389 600 384 609 Q 377 619 347 624 Q 329 625 315 621 L 268 602 Q 196 574 121 557 Q 87 547 114 534 Q 154 518 217 537 Q 239 546 267 551 L 313 566 Z",
 "M 263 372 Q 260 273 258 146 Q 257 122 244 113 Q 241 110 168 114 Q 137 123 139 113 Q 140 106 161 94 Q 224 51 241 26 Q 260 -4 275 -3 Q 288 -4 302 29 Q 318 72 314 142 Q 307 277 308 411 L 309 444 Q 309 505 313 566 L 315 621 Q 331 757 336 770 Q 352 798 300 821 Q 269 840 249 833 Q 233 827 247 805 Q 268 780 268 746 Q 269 730 268 602 L 267 551 Q 266 493 264 414 L 263 372 Z",

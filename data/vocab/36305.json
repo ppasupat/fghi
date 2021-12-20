@@ -1,48 +1,96 @@
 {
 "char": "跑",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "run, flee, leave in hurry",
 "pron": "páo, pǎo"
 },
 "words": [
 [
+"跑",
+1,
+"páo",
+"(of an animal) to paw (the ground)"
+],
+[
+"跑",
+1,
+"pǎo",
+"to run; to run away; to escape; to run around (on errands etc); (of a gas or liquid) to leak or evaporate; (verb complement) away; off"
+],
+[
 "跑步",
-2,
+3,
 "pǎo bù",
 "to run; to jog; (military) to march at the double"
-]
 ],
-"extraWords": [
 [
 "逃跑",
-45.61,
+5,
 "táo pǎo",
 "to flee from sth; to run away; to escape"
 ],
 [
 "奔跑",
-8.58,
+6,
 "bēn pǎo",
 "to run"
 ],
 [
+"长跑",
+6,
+"cháng pǎo",
+"long-distance running"
+],
+[
 "跑车",
-8.45,
+7,
 "pǎo chē",
 "racing bicycle; sporting bicycle; sports car; logging truck; on the job (of a train conductor)"
+],
+[
+"跑道",
+7,
+"pǎo dào",
+"athletic track; track; runway (i.e. airstrip)"
+],
+[
+"跑龙套",
+7,
+"pǎo lóng tào",
+"to play a small role"
+],
+[
+"起跑线",
+7,
+"qǐ pǎo xiàn",
+"the starting line (of a race); scratch line (in a relay race)"
+],
+[
+"赛跑",
+7,
+"sài pǎo",
+"race (running); to race (running)"
+]
+],
+"extraWords": [
+[
+"跑去",
+10.71,
+"???",
+"???"
+],
+[
+"跑来",
+6.47,
+"???",
+"???"
 ],
 [
 "乱跑",
 5.96,
 "luàn pǎo",
 "to run around all over the place"
-],
-[
-"跑道",
-5.58,
-"pǎo dào",
-"athletic track; track; runway (i.e. airstrip)"
 ]
 ],
 "strokes": [

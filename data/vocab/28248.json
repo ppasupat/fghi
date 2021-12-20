@@ -1,12 +1,31 @@
 {
 "char": "湘",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "Hunan province",
 "pron": "xiāng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"湘",
+17.42,
+"Xiāng",
+"abbr. for Hunan 湖南 province in south central China; abbr. for Xiangjiang river in Hunan province"
+],
+[
+"潇湘",
+2.65,
+"Xiāo xiāng",
+"other name of the Xiangjiang river 湘江[Xiāng jiāng] in Hunan province"
+],
+[
+"李湘",
+2.56,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 206 673 Q 231 649 259 620 Q 272 607 288 607 Q 298 607 305 621 Q 309 636 302 665 Q 293 695 202 722 Q 186 726 180 723 Q 176 719 176 706 Q 179 696 206 673 Z",
 "M 103 496 Q 148 442 182 427 Q 198 423 207 437 Q 214 450 211 467 Q 199 510 117 534 L 116 535 Q 100 539 89 536 Q 83 535 85 522 Q 86 510 103 496 Z",

@@ -1,6 +1,6 @@
 {
 "char": "汇",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "concourse; flow together, gather",
 "pron": "huì"
@@ -8,42 +8,90 @@
 "words": [
 [
 "词汇",
-5,
+4,
 "cí huì",
-"variant of 詞彙|词汇[ci2 hui4]"
+"variant of 词汇[cí huì]"
 ],
 [
 "词汇",
-5,
+4,
 "cí huì",
 "vocabulary; list of words (e.g. for language teaching purposes); word"
 ],
 [
-"汇率",
-5,
-"huì lǜ",
-"exchange rate"
+"汇",
+4,
+"huì",
+"to remit; to converge (of rivers); to exchange"
+],
+[
+"汇",
+4,
+"huì",
+"class; collection"
+],
+[
+"汇",
+4,
+"huì",
+"variant of 汇[huì]"
 ],
 [
 "汇报",
-6,
+4,
 "huì bào",
 "to report; to give an account of; to collect information and report back"
 ],
 [
 "汇报",
-6,
+4,
 "huì bào",
 "to report; to give an account of; report"
-]
 ],
-"extraWords": [
+[
+"汇率",
+4,
+"huì lǜ",
+"exchange rate"
+],
 [
 "外汇",
-29.64,
+4,
 "wài huì",
 "foreign (currency) exchange"
 ],
+[
+"汇款",
+5,
+"huì kuǎn",
+"to remit money; remittance"
+],
+[
+"汇合",
+7,
+"huì hé",
+"confluence; to converge; to join; to fuse; fusion"
+],
+[
+"汇集",
+7,
+"huì jí",
+"to collect; to compile; to converge; also written 汇集[huì jí]"
+],
+[
+"汇集",
+7,
+"huì jí",
+"to collect; to compile; to converge"
+],
+[
+"汇聚",
+7,
+"huì jù",
+"convergence; to come together"
+]
+],
+"extraWords": [
 [
 "百老汇",
 13.71,
@@ -57,24 +105,6 @@
 "exchange rate"
 ],
 [
-"汇聚",
-8.03,
-"huì jù",
-"convergence; to come together"
-],
-[
-"汇集",
-7.23,
-"huì jí",
-"to collect; to compile; to converge; also written 彙集|汇集[hui4 ji2]"
-],
-[
-"汇集",
-7.23,
-"huì jí",
-"to collect; to compile; to converge"
-],
-[
 "汇总",
 6.91,
 "huì zǒng",
@@ -85,12 +115,6 @@
 6.91,
 "huì zǒng",
 "summary; to summarize; to collect (data, receipts etc); to gather and report; also written 匯總|汇总"
-],
-[
-"汇款",
-5.32,
-"huì kuǎn",
-"to remit money; remittance"
 ]
 ],
 "strokes": [

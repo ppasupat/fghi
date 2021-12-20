@@ -1,11 +1,18 @@
 {
 "char": "阁",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "chamber, pavilion; cabinet",
 "pron": "gé"
 },
-"words": [],
+"words": [
+[
+"内阁",
+7,
+"nèi gé",
+"(government) cabinet"
+]
+],
 "extraWords": [
 [
 "阁下",
@@ -14,10 +21,10 @@
 "your distinguished self; your majesty; sire"
 ],
 [
-"内阁",
-13.49,
-"nèi gé",
-"(government) cabinet"
+"阁",
+14.96,
+"gé",
+"pavilion (usu. two-storied); cabinet (politics); boudoir; woman's chamber; rack; shelf"
 ],
 [
 "阁楼",

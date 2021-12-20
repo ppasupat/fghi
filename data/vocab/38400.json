@@ -1,12 +1,32 @@
 {
 "char": "阀",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "powerful and influential group",
 "pron": "fá"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"阀门",
+7,
+"fá mén",
+"valve (mechanical)"
+]
+],
+"extraWords": [
+[
+"阀",
+4.88,
+"fá",
+"powerful individual, family or group; clique; (loanword) valve"
+],
+[
+"军阀",
+2.75,
+"jūn fá",
+"military clique; junta; warlord"
+]
+],
 "strokes": [
 "M 301 731 Q 370 650 395 649 Q 410 648 417 667 Q 418 682 408 704 Q 396 725 368 735 Q 325 757 306 760 Q 296 761 295 749 Q 294 740 301 731 Z",
 "M 184 700 Q 227 586 206 312 Q 205 306 205 299 Q 199 209 170 122 Q 149 65 187 21 Q 200 6 210 21 Q 247 60 248 234 Q 248 576 265 665 Q 266 684 250 695 Q 225 716 197 724 Q 187 727 180 717 Q 176 711 184 700 Z",

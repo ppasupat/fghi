@@ -1,19 +1,32 @@
 {
 "char": "孝",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "filial piety, obedience; mourning",
 "pron": "xiào"
 },
 "words": [
 [
+"孝敬",
+7,
+"xiào jìng",
+"to show filial respect; to give presents (to one's elders or superiors); to support one's aged parents"
+],
+[
 "孝顺",
-5,
+7,
 "xiào shùn",
 "filial; dutiful; devoted to one's parents (and grandparents etc); to show filial piety towards (an older family member); filial piety"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"孝",
+15.49,
+"xiào",
+"filial piety or obedience; mourning apparel"
+]
+],
 "strokes": [
 "M 528 679 Q 633 704 635 705 Q 644 712 639 720 Q 632 732 604 739 Q 564 749 532 729 L 480 715 Q 470 714 462 711 Q 414 701 357 696 Q 323 690 347 674 Q 381 653 453 666 Q 465 669 480 670 L 528 679 Z",
 "M 517 568 Q 521 626 528 679 L 532 729 Q 535 768 550 818 Q 554 828 535 842 Q 504 860 482 864 Q 467 868 460 860 Q 453 853 460 839 Q 476 815 477 798 Q 478 758 480 715 L 480 670 Q 479 619 477 562 C 476 532 515 538 517 568 Z",

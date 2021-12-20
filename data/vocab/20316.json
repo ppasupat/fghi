@@ -1,112 +1,154 @@
 {
 "char": "作",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "make; work; compose, write; act, perform",
 "pron": "zuō, zuò"
 },
 "words": [
 [
+"动作",
+1,
+"dòng zuò",
+"movement; motion; action; CL:个[gè]"
+],
+[
 "工作",
 1,
 "gōng zuò",
-"to work; (of a machine) to operate; job; work; task; CL:個|个[ge4],份[fen4],項|项[xiang4]"
+"to work; (of a machine) to operate; job; work; task; CL:个[gè],份[fèn],项[xiàng]"
 ],
 [
-"作业",
-3,
-"zuò yè",
-"school assignment; homework; work; task; operation; CL:個|个[ge4]; to operate"
-],
-[
-"动作",
-4,
-"dòng zuò",
-"movement; motion; action; CL:個|个[ge4]"
-],
-[
-"作用",
-4,
-"zuò yòng",
-"to act on; to affect; action; function; activity; impact; result; effect; purpose; intent; (suffix) -ation, -tion etc, as in 抑制作用[yi4 zhi4 zuo4 yong4], inhibition"
+"叫作",
+2,
+"jiào zuò",
+"to call; to be called"
 ],
 [
 "作家",
-4,
+2,
 "zuò jiā",
-"author; CL:個|个[ge4],位[wei4]"
+"author; CL:个[gè],位[wèi]"
 ],
 [
-"作者",
-4,
-"zuò zhě",
-"author; writer; CL:個|个[ge4]"
+"作文",
+2,
+"zuò wén",
+"to write an essay; composition (student essay); CL:篇[piān]"
 ],
 [
-"作为",
-5,
-"zuò wéi",
-"one's conduct; deed; activity; accomplishment; achievement; to act as; as (in the capacity of); qua; to view as; to look upon (sth as); to take sth to be"
+"作业",
+2,
+"zuò yè",
+"school assignment; homework; work; task; operation; CL:个[gè]; to operate"
+],
+[
+"作用",
+2,
+"zuò yòng",
+"to act on; to affect; action; function; activity; impact; result; effect; purpose; intent; (suffix) -ation, -tion etc, as in 抑制作用[yì zhì zuò yòng], inhibition"
+],
+[
+"创作",
+3,
+"chuàng zuò",
+"to create; to produce; to write; creative work; creation; CL:个[gè]"
 ],
 [
 "合作",
-5,
+3,
 "hé zuò",
-"to cooperate; to collaborate; to work together; cooperation; CL:個|个[ge4]"
-],
-[
-"作品",
-5,
-"zuò pǐn",
-"work (of art); opus; CL:部[bu4],篇[pian1]"
-],
-[
-"制作",
-5,
-"zhì zuò",
-"to make; to manufacture"
+"to cooperate; to collaborate; to work together; cooperation; CL:个[gè]"
 ],
 [
 "写作",
-5,
+3,
 "xiě zuò",
 "to write; to compose; writing; written works"
 ],
 [
-"作文",
-5,
-"zuò wén",
-"to write an essay; composition (student essay); CL:篇[pian1]"
+"制作",
+3,
+"zhì zuò",
+"to make; to manufacture"
+],
+[
+"作品",
+3,
+"zuò pǐn",
+"work (of art); opus; CL:部[bù],篇[piān]"
+],
+[
+"作者",
+3,
+"zuò zhě",
+"author; writer; CL:个[gè]"
 ],
 [
 "操作",
-6,
+4,
 "cāo zuò",
 "to work; to operate; to manipulate"
 ],
 [
-"作弊",
-6,
-"zuò bì",
-"to practice fraud; to cheat; to engage in corrupt practices"
-],
-[
-"创作",
-6,
-"chuàng zuò",
-"to create; to produce; to write; creative work; creation; CL:個|个[ge4]"
-],
-[
-"作风",
-6,
-"zuò fēng",
-"style; style of work; way"
-],
-[
 "著作",
-6,
+4,
 "zhù zuò",
-"to write; literary work; book; article; writings; CL:部[bu4]"
+"to write; literary work; book; article; writings; CL:部[bù]"
+],
+[
+"作出",
+4,
+"zuò chū",
+"to put out; to come up with; to make (a choice, decision, proposal, response, comment etc); to issue (a permit, statement, explanation, apology, reassurance to the public etc); to draw (conclusion); to deliver (speech, judgment); to devise (explanation); to extract"
+],
+[
+"作为",
+4,
+"zuò wéi",
+"one's conduct; deed; activity; accomplishment; achievement; to act as; as (in the capacity of); qua; to view as; to look upon (sth as); to take sth to be"
+],
+[
+"工作日",
+5,
+"gōng zuò rì",
+"workday; working day; weekday"
+],
+[
+"炒作",
+6,
+"chǎo zuò",
+"to hype; to promote (in the media)"
+],
+[
+"当作",
+6,
+"dàng zuò",
+"to treat as; to regard as"
+],
+[
+"看作",
+6,
+"kàn zuò",
+"to look upon as; to regard as"
+],
+[
+"运作",
+6,
+"yùn zuò",
+"to operate; operations; workings; activities (usu. of an organization); thread (computing)"
+],
+[
+"作",
+6,
+"zuō",
+"worker; workshop; (slang) troublesome; high-maintenance (person)"
+],
+[
+"作",
+6,
+"zuò",
+"to do; to grow; to write or compose; to pretend; to regard as; to feel; writings or works"
 ],
 [
 "作废",
@@ -115,10 +157,124 @@
 "to become invalid; to cancel; to delete; to nullify"
 ],
 [
-"作息",
+"作战",
 6,
-"zuò xī",
-"to work and rest"
+"zuò zhàn",
+"combat; to fight"
+],
+[
+"称作",
+7,
+"chēng zuò",
+"to be called; to be known as"
+],
+[
+"发作",
+7,
+"fā zuò",
+"to flare up; to break out"
+],
+[
+"副作用",
+7,
+"fù zuò yòng",
+"side effect"
+],
+[
+"工作量",
+7,
+"gōng zuò liàng",
+"workload; volume of work"
+],
+[
+"合作社",
+7,
+"hé zuò shè",
+"cooperative; workers' or agricultural producers' cooperative etc"
+],
+[
+"农作物",
+7,
+"nóng zuò wù",
+"(farm) crops"
+],
+[
+"弄虚作假",
+7,
+"nòng xū zuò jiǎ",
+"to practice fraud (idiom); by trickery"
+],
+[
+"所作所为",
+7,
+"suǒ zuò suǒ wéi",
+"one's conduct and deeds"
+],
+[
+"无恶不作",
+7,
+"wú è bù zuò",
+"not to shrink from any crime (idiom); to commit any imaginable misdeed"
+],
+[
+"无所作为",
+7,
+"wú suǒ zuò wéi",
+"attempting nothing and accomplishing nothing (idiom); without any initiative or drive; feckless"
+],
+[
+"协作",
+7,
+"xié zuò",
+"cooperation; coordination"
+],
+[
+"以身作则",
+7,
+"yǐ shēn zuò zé",
+"to set an example (idiom); to serve as a model"
+],
+[
+"一鼓作气",
+7,
+"yī gǔ zuò qì",
+"in a spurt of energy"
+],
+[
+"振作",
+7,
+"zhèn zuò",
+"to bestir oneself; to pull oneself together; to cheer up; to uplift; to stimulate"
+],
+[
+"作弊",
+7,
+"zuò bì",
+"to practice fraud; to cheat; to engage in corrupt practices"
+],
+[
+"作对",
+7,
+"zuò duì",
+"to set oneself against; to oppose; to make a pair"
+],
+[
+"作风",
+7,
+"zuò fēng",
+"style; style of work; way"
+],
+[
+"作客",
+7,
+"zuò kè",
+"to live somewhere as a visitor; to stay with sb as a guest; to sojourn"
+],
+[
+"作物",
+7,
+"zuò wù",
+"crop"
 ]
 ],
 "extraWords": [
@@ -127,24 +283,6 @@
 100.26,
 "gōng zuò rén yuán",
 "staff member"
-],
-[
-"运作",
-46.33,
-"yùn zuò",
-"to operate; operations; workings; activities (usu. of an organization); thread (computing)"
-],
-[
-"作战",
-43.32,
-"zuò zhàn",
-"combat; to fight"
-],
-[
-"当作",
-32.64,
-"dàng zuò",
-"to treat as; to regard as"
 ],
 [
 "作证",
@@ -159,52 +297,10 @@
 "worker"
 ],
 [
-"炒作",
-21.63,
-"chǎo zuò",
-"to hype; to promote (in the media)"
-],
-[
-"作出",
-21.61,
-"zuò chū",
-"to put out; to come up with; to make (a choice, decision, proposal, response, comment etc); to issue (a permit, statement, explanation, apology, reassurance to the public etc); to draw (conclusion); to deliver (speech, judgment); to devise (explanation); to extract"
-],
-[
-"所作所为",
-17.68,
-"suǒ zuò suǒ wéi",
-"one's conduct and deeds"
-],
-[
-"协作",
-17.57,
-"xié zuò",
-"cooperation; coordination"
-],
-[
-"作物",
-16.89,
-"zuò wù",
-"crop"
-],
-[
 "作案",
 16.12,
 "zuò àn",
 "to commit a crime"
-],
-[
-"发作",
-15.83,
-"fā zuò",
-"to flare up; to break out"
-],
-[
-"振作",
-15.38,
-"zhèn zuò",
-"to bestir oneself; to pull oneself together; to cheer up; to uplift; to stimulate"
 ],
 [
 "工作室",
@@ -225,34 +321,10 @@
 "practical joke; prank; to play a practical joke"
 ],
 [
-"看作",
-11.86,
-"kàn zuò",
-"to look upon as; to regard as"
-],
-[
 "装作",
 11.27,
 "zhuāng zuò",
 "to pretend; to feign; to act a part"
-],
-[
-"合作社",
-10.62,
-"hé zuò shè",
-"cooperative; workers' or agricultural producers' cooperative etc"
-],
-[
-"副作用",
-10.43,
-"fù zuò yòng",
-"side effect"
-],
-[
-"称作",
-8.91,
-"chēng zuò",
-"to be called; to be known as"
 ],
 [
 "工作组",
@@ -261,28 +333,16 @@
 "work team; working group; task force"
 ],
 [
-"工作日",
-8.3,
-"gōng zuò rì",
-"workday; working day; weekday"
-],
-[
 "杰作",
 7.93,
 "jié zuò",
 "masterpiece"
 ],
 [
-"农作物",
-6.44,
-"nóng zuò wù",
-"(farm) crops"
-],
-[
-"工作量",
-5.62,
-"gōng zuò liàng",
-"workload; volume of work"
+"工作效率",
+6.1,
+"???",
+"???"
 ],
 [
 "作坊",

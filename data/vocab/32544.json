@@ -1,24 +1,30 @@
 {
 "char": "缠",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "wrap, wind around; tie, bind",
 "pron": "chán"
 },
 "words": [
 [
-"缠绕",
-6,
-"chán rào",
-"twisting; to twine; to wind; to pester; to bother"
+"缠",
+7,
+"chán",
+"to wind around; to wrap round; to coil; tangle; to involve; to bother; to annoy"
+],
+[
+"纠缠",
+7,
+"jiū chán",
+"to be in a tangle; to nag"
 ]
 ],
 "extraWords": [
 [
-"纠缠",
-9.97,
-"jiū chán",
-"to be in a tangle; to nag"
+"缠绕",
+4.2,
+"chán rào",
+"twisting; to twine; to wind; to pester; to bother"
 ]
 ],
 "strokes": [

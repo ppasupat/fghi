@@ -1,6 +1,6 @@
 {
 "char": "铺",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "shop, store; place sleep, bed",
 "pron": "pū, pù"
@@ -10,7 +10,7 @@
 "铺",
 6,
 "pù",
-"variant of 鋪|铺[pu4]; store"
+"variant of 铺[pù]; store"
 ],
 [
 "铺",
@@ -23,6 +23,18 @@
 6,
 "pù",
 "plank bed; place to sleep; shop; store; (old) relay station"
+],
+[
+"卧铺",
+6,
+"wò pù",
+"a bed (on a train); a couchette"
+],
+[
+"铺路",
+7,
+"pū lù",
+"to pave (with paving stones); to lay a road; (fig.) to lay the groundwork (for sth); to give a present to sb to ensure success"
 ]
 ],
 "extraWords": [

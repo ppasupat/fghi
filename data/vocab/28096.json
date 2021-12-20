@@ -1,6 +1,6 @@
 {
 "char": "淀",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "shallow water, swamp; swampy",
 "pron": "diàn"
@@ -8,23 +8,29 @@
 "words": [
 [
 "沉淀",
-6,
+7,
 "chén diàn",
 "to settle; to precipitate (solid sediment out of a solution)"
-]
 ],
-"extraWords": [
 [
 "淀粉",
-8.31,
+7,
 "diàn fěn",
 "starch; amylum C6H10O5"
 ],
 [
+"积淀",
+7,
+"jī diàn",
+"deposits accumulated over long periods; fig. valuable experience, accumulated wisdom"
+]
+],
+"extraWords": [
+[
 "海淀区",
 5.02,
 "Hǎi diàn qū",
-"Haidian inner district of northeast Beijing, includes Peking University, Tsinghua University 清華大學|清华大学[Qing1 hua2 da4 xue2] and Zhongguancun 中關村|中关村[Zhong1 guan1 cun1]"
+"Haidian inner district of northeast Beijing, includes Peking University, Tsinghua University 清华大学[Qīng huá dà xué] and Zhongguancun 中关村[Zhōng guān cūn]"
 ]
 ],
 "strokes": [

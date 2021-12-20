@@ -1,17 +1,24 @@
 {
 "char": "萝",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "type of creeping plant; turnip",
 "pron": "luó"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "萝卜",
-14.39,
+7,
 "luó bo",
-"radish (Raphanus sativus), esp. white radish 白蘿蔔|白萝卜[bai2 luo2 bo5]; CL:條|条[tiao2]"
+"radish (Raphanus sativus), esp. white radish 白萝卜[bái luó bo]; CL:条[tiáo]"
+]
+],
+"extraWords": [
+[
+"萝",
+20.03,
+"luó",
+"radish"
 ],
 [
 "胡萝卜",

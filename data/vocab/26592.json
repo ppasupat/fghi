@@ -1,6 +1,6 @@
 {
 "char": "柠",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "lemon",
 "pron": "níng"
@@ -12,6 +12,18 @@
 10.88,
 "níng méng",
 "lemon"
+],
+[
+"柠檬水",
+3.37,
+"níng méng shuǐ",
+"lemonade"
+],
+[
+"柠檬汁",
+2.24,
+"níng méng zhī",
+"lemon juice"
 ]
 ],
 "strokes": [

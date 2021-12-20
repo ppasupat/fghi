@@ -1,11 +1,23 @@
 {
 "char": "高",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "high, tall; lofty, elevated",
 "pron": "gāo"
 },
 "words": [
+[
+"高",
+1,
+"Gāo",
+"surname Gao"
+],
+[
+"高",
+1,
+"gāo",
+"high; tall; above average; loud; your (honorific)"
+],
 [
 "高兴",
 1,
@@ -13,70 +25,136 @@
 "happy; glad; willing (to do sth); in a cheerful mood"
 ],
 [
-"高",
-2,
-"Gāo",
-"surname Gao"
-],
-[
-"高",
-2,
-"gāo",
-"high; tall; above average; loud; your (honorific)"
-],
-[
-"提高",
-3,
-"tí gāo",
-"to raise; to increase; to improve"
-],
-[
-"高速公路",
-4,
-"gāo sù gōng lù",
-"expressway; highway; freeway"
-],
-[
 "高级",
-5,
+2,
 "gāo jí",
 "high level; high grade; advanced; high-ranking"
 ],
 [
-"高档",
-5,
-"gāo dàng",
-"superior quality; high grade; top grade"
+"高中",
+2,
+"gāo zhōng",
+"senior high school; abbr. for 高级中学[gāo jí zhōng xué]"
+],
+[
+"高中",
+2,
+"gāo zhòng",
+"to pass brilliantly (used in congratulatory fashion)"
+],
+[
+"提高",
+2,
+"tí gāo",
+"to raise; to increase; to improve"
+],
+[
+"高速",
+3,
+"gāo sù",
+"high speed"
+],
+[
+"高速公路",
+3,
+"gāo sù gōng lù",
+"expressway; highway; freeway"
+],
+[
+"跳高",
+3,
+"tiào gāo",
+"high jump (athletics)"
 ],
 [
 "高潮",
-6,
+4,
 "gāo cháo",
 "high tide; high water; upsurge; climax; orgasm; chorus (part of a song)"
 ],
 [
+"高价",
+4,
+"gāo jià",
+"high price"
+],
+[
 "高尚",
-6,
+4,
 "gāo shàng",
 "noble; lofty; refined; exquisite"
 ],
 [
-"高明",
-6,
-"Gāo míng",
-"Gaoming District of Foshan City 佛山市[Fo2 shan1 Shi4], Guangdong"
+"高铁",
+4,
+"gāo tiě",
+"high speed rail"
 ],
 [
-"高明",
-6,
-"gāo míng",
-"brilliant; superior; tall and bright"
+"身高",
+4,
+"shēn gāo",
+"(a person's) height"
 ],
 [
-"崇高",
+"高大",
+5,
+"gāo dà",
+"tall; lofty"
+],
+[
+"高度",
+5,
+"gāo dù",
+"height; altitude; elevation; high degree; highly; CL:个[gè]"
+],
+[
+"高跟鞋",
+5,
+"gāo gēn xié",
+"high-heeled shoes"
+],
+[
+"高温",
+5,
+"gāo wēn",
+"high temperature"
+],
+[
+"高于",
+5,
+"gāo yú",
+"greater than; to exceed"
+],
+[
+"高原",
+5,
+"gāo yuán",
+"plateau; CL:片[piàn]"
+],
+[
+"升高",
+5,
+"shēng gāo",
+"to raise; to ascend"
+],
+[
+"高层",
 6,
-"chóng gāo",
-"majestic; sublime"
+"gāo céng",
+"high level; high class"
+],
+[
+"高档",
+6,
+"gāo dàng",
+"superior quality; high grade; top grade"
+],
+[
+"高等",
+6,
+"gāo děng",
+"high-level; higher (animals, education etc); advanced (math etc)"
 ],
 [
 "高峰",
@@ -85,20 +163,170 @@
 "peak; summit; height"
 ],
 [
-"高超",
+"高考",
 6,
+"gāo kǎo",
+"college entrance exam (especially as abbr. for 普通高等学校招生全国统一考试[Pǔ tōng Gāo děng Xué xiào Zhāo shēng Quán guó Tǒng yī Kǎo shì]); (Tw) entrance exam for senior government service posts (abbr. for 公務人員高等考試|公务人员高等考试)"
+],
+[
+"高科技",
+6,
+"gāo kē jì",
+"high tech; high technology"
+],
+[
+"高手",
+6,
+"gāo shǒu",
+"expert; past master; dab hand"
+],
+[
+"崇高",
+7,
+"chóng gāo",
+"majestic; sublime"
+],
+[
+"高昂",
+7,
+"gāo áng",
+"to hold (one's head) high; expensive; high (spirits etc)"
+],
+[
+"高傲",
+7,
+"gāo ào",
+"arrogant; haughty; proud"
+],
+[
+"高超",
+7,
 "gāo chāo",
 "excellent; superlative"
 ],
 [
+"高低",
+7,
+"gāo dī",
+"height; altitude (aviation); pitch (music); ups and downs (success or failure); whether sth is right or wrong; comparative strength, weight, depth, stature; (spoken interjection) anyway, whatever; eventually, in the end"
+],
+[
+"高调",
+7,
+"gāo diào",
+"high-sounding speech; bombast; high-profile"
+],
+[
+"高额",
+7,
+"gāo é",
+"high quota; large amount"
+],
+[
+"高尔夫球",
+7,
+"gāo ěr fū qiú",
+"golf; golf ball"
+],
+[
+"高峰期",
+7,
+"gāo fēng qī",
+"peak period; rush hour"
+],
+[
+"高贵",
+7,
+"gāo guì",
+"grandeur; noble"
+],
+[
+"高空",
+7,
+"gāo kōng",
+"high altitude"
+],
+[
+"高龄",
+7,
+"gāo líng",
+"elderly"
+],
+[
+"高明",
+7,
+"Gāo míng",
+"Gaoming District of Foshan City 佛山市[Fó shān Shì], Guangdong"
+],
+[
+"高明",
+7,
+"gāo míng",
+"brilliant; superior; tall and bright"
+],
+[
+"高山",
+7,
+"gāo shān",
+"high mountain; alpine"
+],
+[
+"高效",
+7,
+"gāo xiào",
+"efficient; highly effective"
+],
+[
+"高新技术",
+7,
+"gāo xīn jì shù",
+"high tech; high technology"
+],
+[
+"高血压",
+7,
+"gāo xuè yā",
+"high blood pressure; hypertension"
+],
+[
+"高压",
+7,
+"gāo yā",
+"high pressure; high-handed"
+],
+[
+"高雅",
+7,
+"gāo yǎ",
+"dainty; elegance; elegant"
+],
+[
 "高涨",
-6,
+7,
 "gāo zhǎng",
 "to surge up; to rise; (of tensions etc) to run high"
 ],
 [
+"忽高忽低",
+7,
+"hū gāo hū dī",
+"alternately soaring and plunging"
+],
+[
+"居高临下",
+7,
+"jū gāo lín xià",
+"to live high and look down (idiom); to overlook; to tower above; to occupy the high ground; fig. arrogance based on one's social position"
+],
+[
+"水涨船高",
+7,
+"shuǐ zhǎng chuán gāo",
+"the tide rises, the boat floats (idiom); fig. to change with the overall trend; to develop according to the situation"
+],
+[
 "兴高采烈",
-6,
+7,
 "xìng gāo cǎi liè",
 "happy and excited (idiom); in high spirits; in great delight"
 ]
@@ -111,34 +339,16 @@
 "tallest; highest; supreme (court etc)"
 ],
 [
-"高度",
-99.69,
-"gāo dù",
-"height; altitude; elevation; high degree; highly; CL:個|个[ge4]"
-],
-[
 "高校",
 66.46,
 "gāo xiào",
 "universities and colleges; abbr. for 高等學校|高等学校"
 ],
 [
-"高中",
-63.34,
-"gāo zhōng",
-"senior high school; abbr. for 高級中學|高级中学[gao1 ji2 zhong1 xue2]"
-],
-[
-"高中",
-63.34,
-"gāo zhòng",
-"to pass brilliantly (used in congratulatory fashion)"
-],
-[
-"高于",
-52.37,
-"gāo yú",
-"greater than; to exceed"
+"较高",
+55.08,
+"???",
+"???"
 ],
 [
 "高达",
@@ -151,78 +361,6 @@
 52.18,
 "gāo dá",
 "to attain; to reach up to"
-],
-[
-"高速",
-49.4,
-"gāo sù",
-"high speed"
-],
-[
-"高考",
-44.81,
-"gāo kǎo",
-"college entrance exam (especially as abbr. for 普通高等學校招生全國統一考試|普通高等学校招生全国统一考试[Pu3 tong1 Gao1 deng3 Xue2 xiao4 Zhao1 sheng1 Quan2 guo2 Tong3 yi1 Kao3 shi4]); (Tw) entrance exam for senior government service posts (abbr. for 公務人員高等考試|公务人员高等考试)"
-],
-[
-"高手",
-35.81,
-"gāo shǒu",
-"expert; past master; dab hand"
-],
-[
-"高层",
-34.9,
-"gāo céng",
-"high level; high class"
-],
-[
-"高等",
-34.7,
-"gāo děng",
-"high-level; higher (animals, education etc); advanced (math etc)"
-],
-[
-"身高",
-27.77,
-"shēn gāo",
-"(a person's) height"
-],
-[
-"高科技",
-23.85,
-"gāo kē jì",
-"high tech; high technology"
-],
-[
-"高效",
-23.05,
-"gāo xiào",
-"efficient; highly effective"
-],
-[
-"升高",
-22.62,
-"shēng gāo",
-"to raise; to ascend"
-],
-[
-"高新技术",
-22.52,
-"gāo xīn jì shù",
-"high tech; high technology"
-],
-[
-"高温",
-21.46,
-"gāo wēn",
-"high temperature"
-],
-[
-"高血压",
-17.99,
-"gāo xuè yā",
-"high blood pressure; hypertension"
 ],
 [
 "高位",
@@ -249,46 +387,22 @@
 "too high"
 ],
 [
-"高低",
-14.25,
-"gāo dī",
-"height; altitude (aviation); pitch (music); ups and downs (success or failure); whether sth is right or wrong; comparative strength, weight, depth, stature; (spoken interjection) anyway, whatever; eventually, in the end"
-],
-[
-"高价",
-13.56,
-"gāo jià",
-"high price"
-],
-[
-"高贵",
-12.46,
-"gāo guì",
-"grandeur; noble"
-],
-[
-"高压",
-11.82,
-"gāo yā",
-"high pressure; high-handed"
-],
-[
-"高大",
-11.58,
-"gāo dà",
-"tall; lofty"
-],
-[
-"高原",
-10.9,
-"gāo yuán",
-"plateau; CL:片[pian4]"
+"高三",
+10.32,
+"???",
+"???"
 ],
 [
 "高举",
 10.13,
 "gāo jǔ",
 "to lift up; to hold high"
+],
+[
+"高水平",
+9.99,
+"???",
+"???"
 ],
 [
 "高质量",
@@ -303,34 +417,22 @@
 "high yielding"
 ],
 [
-"高跟鞋",
-8.56,
-"gāo gēn xié",
-"high-heeled shoes"
+"高高",
+8.91,
+"???",
+"???"
 ],
 [
-"高尔夫球",
-8.25,
-"gāo ěr fū qiú",
-"golf; golf ball"
+"高一",
+7.8,
+"???",
+"???"
 ],
 [
-"高额",
-8.05,
-"gāo é",
-"high quota; large amount"
-],
-[
-"高山",
-7.86,
-"gāo shān",
-"high mountain; alpine"
-],
-[
-"高调",
-7.46,
-"gāo diào",
-"high-sounding speech; bombast; high-profile"
+"高品质",
+7.42,
+"???",
+"???"
 ],
 [
 "高技术",
@@ -339,28 +441,10 @@
 "high technology; high tech"
 ],
 [
-"高峰期",
-6.89,
-"gāo fēng qī",
-"peak period; rush hour"
-],
-[
-"高雅",
-6.88,
-"gāo yǎ",
-"dainty; elegance; elegant"
-],
-[
-"高空",
-6.7,
-"gāo kōng",
-"high altitude"
-],
-[
-"高龄",
-6.32,
-"gāo líng",
-"elderly"
+"高层次",
+6.45,
+"???",
+"???"
 ],
 [
 "高官",
@@ -393,12 +477,6 @@
 "high marks; high score"
 ],
 [
-"高昂",
-5.62,
-"gāo áng",
-"to hold (one's head) high; expensive; high (spirits etc)"
-],
-[
 "高清",
 5.6,
 "gāo qīng",
@@ -420,7 +498,7 @@
 "高楼",
 5.13,
 "gāo lóu",
-"high building; multistory building; skyscraper; CL:座[zuo4]"
+"high building; multistory building; skyscraper; CL:座[zuò]"
 ]
 ],
 "strokes": [

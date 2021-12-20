@@ -1,17 +1,42 @@
 {
 "char": "函",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "correspondence; a case; a box",
 "pron": "hán"
 },
-"words": [],
+"words": [
+[
+"公函",
+7,
+"gōng hán",
+"official letter"
+],
+[
+"函授",
+7,
+"hán shòu",
+"to teach by correspondence"
+]
+],
 "extraWords": [
 [
 "函数",
 9.74,
 "hán shù",
 "function (math.)"
+],
+[
+"函",
+9.51,
+"hán",
+"envelope; case; letter"
+],
+[
+"函",
+9.51,
+"hán",
+"variant of 函[hán]"
 ]
 ],
 "strokes": [

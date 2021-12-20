@@ -1,48 +1,60 @@
 {
 "char": "粉",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "powder, face powder; plaster",
 "pron": "fěn"
 },
 "words": [
 [
-"粉色",
-6,
-"fěn sè",
-"pink; white; erotic; beautiful woman; powdered (with make-up)"
-],
-[
-"粉碎",
-6,
-"fěn suì",
-"to crush; to smash; to shatter"
-],
-[
-"粉末",
-6,
-"fěn mò",
-"fine powder; dust"
-]
-],
-"extraWords": [
-[
-"粉丝",
-46.67,
-"fěn sī",
-"bean vermicelli; mung bean starch noodles; Chinese vermicelli; cellophane noodles; CL:把[ba3]; fan (loanword); enthusiast for sb or sth"
-],
-[
 "奶粉",
-11.57,
+6,
 "nǎi fěn",
 "powdered milk"
 ],
 [
+"洗衣粉",
+6,
+"xǐ yī fěn",
+"laundry detergent; washing powder"
+],
+[
 "淀粉",
-8.31,
+7,
 "diàn fěn",
 "starch; amylum C6H10O5"
+],
+[
+"粉",
+7,
+"fěn",
+"powder; cosmetic face powder; food prepared from starch; noodles or pasta made from any kind of flour; whitewash; white; pink; fan (suffix) (abbr. for 粉丝[fěn sī]); to be a fan of"
+],
+[
+"粉丝",
+7,
+"fěn sī",
+"bean vermicelli; mung bean starch noodles; Chinese vermicelli; cellophane noodles; CL:把[bǎ]; fan (loanword); enthusiast for sb or sth"
+],
+[
+"粉碎",
+7,
+"fěn suì",
+"to crush; to smash; to shatter"
+],
+[
+"面粉",
+7,
+"miàn fěn",
+"flour"
+]
+],
+"extraWords": [
+[
+"粉丝们",
+8.08,
+"???",
+"???"
 ],
 [
 "粉红",
@@ -51,10 +63,10 @@
 "pink"
 ],
 [
-"面粉",
-7.42,
-"miàn fěn",
-"flour"
+"粉色",
+7.6,
+"fěn sè",
+"pink; white; erotic; beautiful woman; powdered (with make-up)"
 ],
 [
 "粉红色",

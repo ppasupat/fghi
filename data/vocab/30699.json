@@ -1,17 +1,36 @@
 {
 "char": "矫",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "correct, rectify, straighten out",
 "pron": "jiáo, jiǎo"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "矫正",
-5.87,
+7,
 "jiǎo zhèng",
 "to correct; to rectify (e.g. a physical defect such as hearing or vision); to cure; rectification; correction; to straighten"
+]
+],
+"extraWords": [
+[
+"矫",
+6.32,
+"Jiǎo",
+"surname Jiao"
+],
+[
+"矫",
+6.32,
+"jiáo",
+"argumentative; contentious"
+],
+[
+"矫",
+6.32,
+"jiǎo",
+"to correct; to rectify; to redress; strong; brave; to pretend; to feign; affectation"
 ]
 ],
 "strokes": [

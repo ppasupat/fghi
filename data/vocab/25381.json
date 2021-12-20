@@ -1,34 +1,28 @@
 {
 "char": "挥",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "direct; wipe away; squander",
 "pron": "huī"
 },
 "words": [
 [
-"挥",
-5,
-"huī",
-"to wave; to brandish; to command; to conduct; to scatter; to disperse"
-],
-[
-"指挥",
-5,
-"zhǐ huī",
-"to conduct; to command; to direct; conductor (of an orchestra); CL:個|个[ge4]"
-],
-[
 "发挥",
-5,
+4,
 "fā huī",
 "to display; to exhibit; to bring out implicit or innate qualities; to express (a thought or moral); to develop (an idea); to elaborate (on a theme)"
 ],
 [
-"挥霍",
-6,
-"huī huò",
-"to squander money; extravagant; prodigal; free and easy; agile"
+"指挥",
+4,
+"zhǐ huī",
+"to conduct; to command; to direct; conductor (of an orchestra); CL:个[gè]"
+],
+[
+"挥",
+7,
+"huī",
+"to wave; to brandish; to command; to conduct; to scatter; to disperse"
 ]
 ],
 "extraWords": [
@@ -49,6 +43,12 @@
 8.86,
 "huī shǒu",
 "to wave (one's hand)"
+],
+[
+"挥霍",
+5.7,
+"huī huò",
+"to squander money; extravagant; prodigal; free and easy; agile"
 ],
 [
 "挥舞",

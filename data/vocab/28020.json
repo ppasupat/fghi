@@ -1,30 +1,42 @@
 {
 "char": "浴",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "bathe, wash; bath",
 "pron": "yù"
 },
 "words": [
 [
-"沐浴",
-6,
-"mù yù",
-"to take a bath; to bathe; to immerse"
+"沐浴露",
+7,
+"mù yù lù",
+"shower gel"
+],
+[
+"浴室",
+7,
+"yù shì",
+"bathroom (room used for bathing); CL:间[jiān]"
 ]
 ],
 "extraWords": [
 [
-"浴室",
-22.8,
-"yù shì",
-"bathroom (room used for bathing); CL:間|间[jian1]"
+"浴",
+20.65,
+"yù",
+"bath; to bathe"
 ],
 [
 "浴缸",
 12.52,
 "yù gāng",
 "bathtub"
+],
+[
+"沐浴",
+6.86,
+"mù yù",
+"to take a bath; to bathe; to immerse"
 ]
 ],
 "strokes": [

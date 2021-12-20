@@ -1,78 +1,108 @@
 {
 "char": "整",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "orderly, neat, tidy; whole",
 "pron": "zhěng"
 },
 "words": [
 [
-"整理",
-4,
-"zhěng lǐ",
-"to arrange; to tidy up; to sort out; to straighten out; to list systematically; to collate (data, files); to pack (luggage)"
-],
-[
-"整个",
-5,
-"zhěng gè",
-"whole; entire; total"
+"调整",
+3,
+"tiáo zhěng",
+"to adjust; adjustment; revision; CL:个[gè]"
 ],
 [
 "完整",
-5,
+3,
 "wán zhěng",
 "complete; intact"
 ],
 [
-"调整",
-5,
-"tiáo zhěng",
-"to adjust; adjustment; revision; CL:個|个[ge4]"
+"整",
+3,
+"zhěng",
+"exactly; in good order; whole; complete; entire; in order; orderly; to repair; to mend; to renovate; (coll.) to fix sb; to give sb a hard time; to mess with sb"
+],
+[
+"整个",
+3,
+"zhěng gè",
+"whole; entire; total"
+],
+[
+"整理",
+3,
+"zhěng lǐ",
+"to arrange; to tidy up; to sort out; to straighten out; to list systematically; to collate (data, files); to pack (luggage)"
+],
+[
+"整齐",
+3,
+"zhěng qí",
+"orderly; neat; even; tidy"
 ],
 [
 "整体",
-5,
+3,
 "zhěng tǐ",
 "whole entity; entire body; synthesis; as a whole (situation, construction, team etc); global; macrocosm; integral; holistic; whole"
 ],
 [
-"整齐",
-5,
-"zhěng qí",
-"orderly; neat; even; tidy"
+"整天",
+3,
+"zhěng tiān",
+"all day long; whole day"
+],
+[
+"整整",
+3,
+"zhěng zhěng",
+"whole; full"
 ],
 [
 "整顿",
 6,
 "zhěng dùn",
 "to tidy up; to reorganize; to consolidate; to rectify"
-]
-],
-"extraWords": [
-[
-"整合",
-41.65,
-"zhěng hé",
-"to conform; to integrate"
 ],
 [
 "整治",
-33.12,
+6,
 "zhěng zhì",
 "to bring under control; to regulate; to restore to good condition; (coll.) to fix (a person); to prepare (a meal etc)"
 ],
 [
-"整天",
-33.09,
-"zhěng tiān",
-"all day long; whole day"
+"工整",
+7,
+"gōng zhěng",
+"fine work; carefully and neatly done"
 ],
 [
-"整整",
-21.22,
-"zhěng zhěng",
-"whole; full"
+"整合",
+7,
+"zhěng hé",
+"to conform; to integrate"
+],
+[
+"整洁",
+7,
+"zhěng jié",
+"neatly; tidy"
+],
+[
+"整数",
+7,
+"zhěng shù",
+"whole number; integer (math.); round figure"
+]
+],
+"extraWords": [
+[
+"一整天",
+27.16,
+"???",
+"???"
 ],
 [
 "整改",
@@ -84,7 +114,7 @@
 "整形",
 7.96,
 "zhěng xíng",
-"shaping; reshaping; plastic surgery or orthopedics (abbr. of 整形外科[zheng3 xing2 wai4 ke1])"
+"shaping; reshaping; plastic surgery or orthopedics (abbr. of 整形外科[zhěng xíng wài kē])"
 ],
 [
 "整容",
@@ -99,16 +129,22 @@
 "the whole night; all through the night"
 ],
 [
-"整洁",
-6.39,
-"zhěng jié",
-"neatly; tidy"
-],
-[
 "整套",
 6.17,
 "zhěng tào",
 "entire set"
+],
+[
+"整版",
+6.14,
+"???",
+"???"
+],
+[
+"整机",
+5.19,
+"???",
+"???"
 ]
 ],
 "strokes": [

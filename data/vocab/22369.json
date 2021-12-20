@@ -1,6 +1,6 @@
 {
 "char": "坡",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "slope, bank, hillside",
 "pron": "pō"
@@ -10,7 +10,13 @@
 "坡",
 6,
 "pō",
-"slope; CL:個|个[ge4]; sloping; slanted"
+"slope; CL:个[gè]; sloping; slanted"
+],
+[
+"山坡",
+6,
+"shān pō",
+"hillside"
 ]
 ],
 "extraWords": [
@@ -25,12 +31,6 @@
 6.57,
 "huá pō",
 "rockslide; landslip; landslide; mudslide; fig. slump; downturn; to decline"
-],
-[
-"山坡",
-6.25,
-"shān pō",
-"hillside"
 ]
 ],
 "strokes": [

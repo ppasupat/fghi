@@ -1,6 +1,6 @@
 {
 "char": "卖",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "sell; betray; show off",
 "pron": "mài"
@@ -13,31 +13,55 @@
 "to sell; to betray; to spare no effort; to show off or flaunt"
 ],
 [
+"外卖",
+2,
+"wài mài",
+"(of a restaurant) to provide a takeout or home delivery meal; takeout (business); takeout (meal)"
+],
+[
+"买卖",
+5,
+"mǎi mài",
+"buying and selling; business; business transactions; CL:桩[zhuāng],次[cì]"
+],
+[
 "出卖",
-6,
+7,
 "chū mài",
 "to offer for sale; to sell; to sell out or betray"
 ],
 [
+"倒卖",
+7,
+"dǎo mài",
+"to resell at a profit; to speculate"
+],
+[
 "贩卖",
-6,
+7,
 "fàn mài",
 "to sell; to peddle; to traffic"
-]
 ],
-"extraWords": [
+[
+"卖弄",
+7,
+"mài nong",
+"to show off; to make a display of"
+],
 [
 "拍卖",
-33.5,
+7,
 "pāi mài",
 "to auction; auction sale; to sell at a reduced price"
 ],
 [
-"买卖",
-27.5,
-"mǎi mài",
-"buying and selling; business; business transactions; CL:樁|桩[zhuang1],次[ci4]"
+"专卖店",
+7,
+"zhuān mài diàn",
+"specialty store"
+]
 ],
+"extraWords": [
 [
 "卖出",
 16.38,
@@ -45,10 +69,16 @@
 "to sell; to reach (a price in an auction)"
 ],
 [
-"专卖店",
-7.54,
-"zhuān mài diàn",
-"specialty store"
+"卖给",
+11.74,
+"???",
+"???"
+],
+[
+"大卖",
+6.43,
+"???",
+"???"
 ],
 [
 "卖力",
@@ -60,7 +90,7 @@
 "拍卖会",
 5.34,
 "pāi mài huì",
-"auction; CL:場|场[chang3]"
+"auction; CL:场[chǎng]"
 ],
 [
 "卖淫",

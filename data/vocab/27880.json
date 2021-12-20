@@ -1,11 +1,17 @@
 {
 "char": "注",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "concentrate, focus, direct",
 "pron": "zhù"
 },
 "words": [
+[
+"关注",
+3,
+"guān zhù",
+"to pay attention to; to follow sth closely; to follow (on social media); concern; interest; attention"
+],
 [
 "注意",
 3,
@@ -20,53 +26,65 @@
 ],
 [
 "注射",
-6,
+5,
 "zhù shè",
 "injection; to inject"
 ],
 [
 "注视",
-6,
+5,
 "zhù shì",
 "to watch attentively; to gaze at"
 ],
 [
 "注重",
-6,
+5,
 "zhù zhòng",
 "to pay attention to; to emphasize"
 ],
 [
-"注释",
-6,
-"zhù shì",
-"marginal notes; annotation; to annotate; to add comments to text"
-]
-],
-"extraWords": [
-[
-"关注",
-304.24,
-"guān zhù",
-"to pay attention to; to follow sth closely; to follow (on social media); concern; interest; attention"
+"引人注目",
+7,
+"yǐn rén zhù mù",
+"to attract attention; eye-catching; conspicuous"
 ],
 [
-"注意力",
-33.3,
-"zhù yì lì",
-"attention"
+"注",
+7,
+"zhù",
+"to inject; to pour into; to concentrate; to pay attention; stake (gambling); classifier for sums of money; variant of 注[zhù]"
+],
+[
+"注",
+7,
+"zhù",
+"to register; to annotate; note; comment"
 ],
 [
 "注定",
-26.84,
+7,
 "zhù dìng",
 "to foreordain; to be bound to; to be destined to; to be doomed to; inevitably"
 ],
 [
 "注入",
-21.78,
+7,
 "zhù rù",
 "to pour into; to empty into"
+],
+[
+"专注",
+7,
+"zhuān zhù",
+"to focus; to concentrate; to give one's full attention"
+]
+],
+"extraWords": [
+[
+"注意力",
+33.3,
+"zhù yì lì",
+"attention"
 ],
 [
 "赌注",
@@ -75,28 +93,22 @@
 "stake (in a gamble); (what is at) stake"
 ],
 [
-"专注",
-10.01,
-"zhuān zhù",
-"to focus; to concentrate; to give one's full attention"
-],
-[
 "灌注",
 9.21,
 "guàn zhù",
 "to pour into; perfusion (med.); to concentrate one's attention on; to teach; to inculcate; to instill"
 ],
 [
-"引人注目",
-8.6,
-"yǐn rén zhù mù",
-"to attract attention; eye-catching; conspicuous"
-],
-[
 "注明",
 8.47,
 "zhù míng",
 "to clearly indicate"
+],
+[
+"注射液",
+7.85,
+"???",
+"???"
 ],
 [
 "标注",

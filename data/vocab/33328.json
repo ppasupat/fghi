@@ -1,24 +1,30 @@
 {
 "char": "舰",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "warship",
 "pron": "jiàn"
 },
 "words": [
 [
-"舰艇",
+"军舰",
 6,
-"jiàn tǐng",
-"warship; naval vessel"
+"jūn jiàn",
+"warship; military naval vessel; CL:艘[sōu]"
 ]
 ],
 "extraWords": [
 [
+"舰",
+14.58,
+"jiàn",
+"warship"
+],
+[
 "舰队",
 12.43,
 "jiàn duì",
-"fleet; CL:支[zhi1]"
+"fleet; CL:支[zhī]"
 ],
 [
 "旗舰",
@@ -31,12 +37,6 @@
 6.5,
 "zhàn jiàn",
 "battleship; warship"
-],
-[
-"军舰",
-5.11,
-"jūn jiàn",
-"warship; military naval vessel; CL:艘[sou1]"
 ]
 ],
 "strokes": [

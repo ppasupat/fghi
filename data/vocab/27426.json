@@ -1,6 +1,6 @@
 {
 "char": "欢",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "happy, pleased, glad; joy; enjoy",
 "pron": "huān"
@@ -14,35 +14,95 @@
 ],
 [
 "欢迎",
-3,
+2,
 "huān yíng",
 "to welcome; welcome"
 ],
 [
 "欢乐",
-6,
+3,
 "huān lè",
 "gaiety; gladness; glee; merriment; pleasure; happy; joyous; gay"
 ],
 [
-"联欢",
-6,
-"lián huān",
-"to have a get-together; celebration; party"
-]
+"悲欢离合",
+7,
+"bēi huān lí hé",
+"joys and sorrows; partings and reunions; the vicissitudes of life"
 ],
-"extraWords": [
 [
 "欢呼",
-19.29,
+7,
 "huān hū",
 "to cheer for; to acclaim"
 ],
 [
+"欢聚",
+7,
+"huān jù",
+"to get together socially; to celebrate; party; celebration"
+],
+[
+"欢快",
+7,
+"huān kuài",
+"cheerful and lighthearted; lively"
+],
+[
+"欢声笑语",
+7,
+"huān shēng xiào yǔ",
+"cheers and laughter"
+],
+[
 "狂欢",
-13.77,
+7,
 "kuáng huān",
 "party; carousal; hilarity; merriment; whoopee; to carouse"
+],
+[
+"狂欢节",
+7,
+"kuáng huān jié",
+"carnival"
+],
+[
+"联欢",
+7,
+"lián huān",
+"to have a get-together; celebration; party"
+],
+[
+"讨人喜欢",
+7,
+"tǎo rén xǐ huan",
+"to attract people's affection; charming; delightful"
+]
+],
+"extraWords": [
+[
+"欢",
+21.05,
+"huān",
+"variant of 欢[huān]"
+],
+[
+"欢",
+21.05,
+"huān",
+"joyous; happy; pleased"
+],
+[
+"欢",
+21.05,
+"huān",
+"hubbub; clamor; variant of 欢[huān]"
+],
+[
+"欢",
+21.05,
+"huān",
+"a breed of horse; variant of 欢[huān]"
 ],
 [
 "欢喜",

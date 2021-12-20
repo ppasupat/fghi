@@ -1,31 +1,38 @@
 {
 "char": "辅",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "cheek bone; protective; assist",
 "pron": "fǔ"
 },
 "words": [
 [
-"辅导",
-5,
-"fǔ dǎo",
-"to give guidance; to mentor; to counsel; to coach; to tutor"
-],
-[
 "辅助",
-6,
+5,
 "fǔ zhù",
 "to assist; to aid; supplementary; auxiliary; subsidiary"
 ],
 [
+"辅导",
+7,
+"fǔ dǎo",
+"to give guidance; to mentor; to counsel; to coach; to tutor"
+],
+[
 "相辅相成",
-6,
+7,
 "xiāng fǔ xiāng chéng",
 "to complement one another (idiom)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"辅",
+18.98,
+"fǔ",
+"to assist; to complement; auxiliary"
+]
+],
 "strokes": [
 "M 312 617 Q 459 653 468 661 Q 475 668 471 677 Q 464 687 436 694 Q 411 697 336 671 L 279 653 Q 234 644 184 636 Q 148 629 174 614 Q 216 596 263 605 L 312 617 Z",
 "M 323 417 Q 284 410 242 399 Q 229 396 227 398 Q 221 410 312 617 L 336 671 Q 367 741 383 754 Q 396 767 380 787 Q 353 815 332 828 Q 319 835 309 833 Q 299 829 306 806 Q 312 773 279 653 L 263 605 Q 193 442 162 401 Q 138 389 147 364 Q 154 343 165 333 Q 175 323 185 328 Q 242 364 323 380 L 366 391 Q 399 400 432 403 Q 462 406 452 420 Q 443 433 425 440 Q 413 443 368 429 L 323 417 Z",

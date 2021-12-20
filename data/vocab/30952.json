@@ -1,44 +1,67 @@
 {
 "char": "磨",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "grind; polish; rub; wear out; a millstone",
 "pron": "mó, mò"
 },
 "words": [
 [
-"折磨",
+"磨",
 6,
+"mó",
+"to rub; to grind; to polish; to sharpen; to wear down; to die out; to waste time; to pester; to insist"
+],
+[
+"磨",
+6,
+"mò",
+"grindstone; to grind; to turn round"
+],
+[
+"打磨",
+7,
+"dǎ mó",
+"polish; grind"
+],
+[
+"磨合",
+7,
+"mó hé",
+"to break in; to wear in"
+],
+[
+"磨难",
+7,
+"mó nàn",
+"a torment; a trial; tribulation; a cross (to bear); well-tried"
+],
+[
+"磨损",
+7,
+"mó sǔn",
+"wear and tear; abrasion"
+],
+[
+"折磨",
+7,
 "zhé mó",
 "to torment; to torture"
 ],
 [
 "琢磨",
-6,
+7,
 "zhuó mó",
 "to carve and polish (jade); to polish and refine a literary work"
 ],
 [
 "琢磨",
-6,
+7,
 "zuó mo",
 "to ponder; to mull over; to think through; Taiwan pr. [zhuo2 mo2]"
-],
-[
-"磨合",
-6,
-"mó hé",
-"to break in; to wear in"
 ]
 ],
-"extraWords": [
-[
-"磨损",
-5.02,
-"mó sǔn",
-"wear and tear; abrasion"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 495 828 Q 520 810 546 789 Q 561 779 575 781 Q 585 782 589 796 Q 592 811 580 838 Q 573 854 544 864 Q 475 879 464 871 Q 460 867 462 855 Q 466 845 495 828 Z",
 "M 321 680 Q 348 671 384 678 Q 762 738 777 750 Q 786 757 782 765 Q 776 777 750 784 Q 720 793 638 766 Q 479 726 310 713 C 280 711 292 687 321 680 Z",

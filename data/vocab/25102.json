@@ -1,12 +1,31 @@
 {
 "char": "戎",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "arms, armaments; military affair",
 "pron": "róng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"戎",
+4.68,
+"Róng",
+"surname Rong"
+],
+[
+"戎",
+4.68,
+"róng",
+"generic term for weapons (old); army (matters); military affairs"
+],
+[
+"戎装",
+0.48,
+"róng zhuāng",
+"martial attire"
+]
+],
 "strokes": [
 "M 545 565 Q 567 572 594 578 Q 655 594 664 604 Q 674 614 668 623 Q 659 636 626 643 Q 586 649 530 622 L 485 606 Q 347 564 230 546 Q 188 539 219 520 Q 261 496 341 515 Q 417 534 499 553 L 545 565 Z",
 "M 387 310 Q 423 320 470 327 Q 486 330 486 337 Q 487 350 469 358 Q 438 370 390 354 L 337 340 Q 195 306 123 295 Q 111 294 108 285 Q 105 275 121 264 Q 161 237 201 253 Q 303 292 334 297 L 387 310 Z",

@@ -1,12 +1,31 @@
 {
 "char": "恬",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "quiet, calm, tranquil, peaceful",
 "pron": "tián"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"恬静",
+1.95,
+"tián jìng",
+"still; peaceful; quiet"
+],
+[
+"恬",
+1.24,
+"tián",
+"quiet; calm; tranquil; peaceful"
+],
+[
+"恬淡",
+1.07,
+"tián dàn",
+"quiet and contented; indifferent to fame or gain"
+]
+],
 "strokes": [
 "M 139 550 Q 124 480 97 412 Q 84 373 106 343 Q 118 327 137 343 Q 185 397 176 496 Q 175 530 164 555 Q 157 562 151 563 Q 142 559 139 550 Z",
 "M 307 599 Q 391 530 406 528 L 408 528 Q 417 529 421 540 Q 425 553 416 579 Q 407 606 319 627 Q 312 628 308 627 C 278 624 284 618 307 599 Z",

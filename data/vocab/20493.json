@@ -1,6 +1,6 @@
 {
 "char": "倍",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "times, fold, multiple times",
 "pron": "bèi"
@@ -19,6 +19,12 @@
 7.39,
 "jiā bèi",
 "to double; to redouble"
+],
+[
+"百倍",
+3.27,
+"bǎi bèi",
+"a hundredfold; a hundred times"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "方",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "a square, rectangle; a region; local",
 "pron": "fāng"
@@ -8,209 +8,287 @@
 "words": [
 [
 "地方",
-3,
+1,
 "dì fāng",
 "region; regional (away from the central administration); local"
 ],
 [
 "地方",
-3,
+1,
 "dì fang",
-"area; place; space; room; territory; CL:處|处[chu4],個|个[ge4],塊|块[kuai4]"
-],
-[
-"方便",
-3,
-"fāng biàn",
-"convenient; suitable; to facilitate; to make things easy; having money to spare; (euphemism) to relieve oneself"
+"area; place; space; room; territory; CL:处[chù],个[gè],块[kuài]"
 ],
 [
 "北方",
-3,
+2,
 "běi fāng",
 "north; the northern part a country; China north of the Yellow River"
 ],
 [
-"方法",
-4,
-"fāng fǎ",
-"method; way; means; CL:個|个[ge4]"
-],
-[
-"方面",
-4,
-"fāng miàn",
-"respect; aspect; field; side; CL:個|个[ge4]"
-],
-[
-"方向",
-4,
-"fāng xiàng",
-"direction; orientation; path to follow; CL:個|个[ge4]"
-],
-[
-"方",
-5,
-"Fāng",
-"surname Fang"
-],
-[
-"方",
-5,
-"fāng",
-"square; power or involution (math.); upright; honest; fair and square; direction; side; party (to a contract, dispute etc); place; method; prescription (medicine); just when; only or just; classifier for square things; abbr. for square or cubic meter"
-],
-[
-"方式",
-5,
-"fāng shì",
-"way; manner; style; mode; pattern; CL:個|个[ge4]"
-],
-[
-"对方",
-5,
-"duì fāng",
-"counterpart; other person involved; opposite side; other side; receiving party"
-],
-[
-"方案",
-5,
-"fāng àn",
-"plan; program (for action etc); proposal; proposed bill; CL:個|个[ge4],套[tao4]"
-],
-[
-"双方",
-5,
-"shuāng fāng",
-"bilateral; both sides; both parties involved"
-],
-[
-"大方",
-5,
-"dà fāng",
-"expert; scholar; mother earth; a type of green tea"
-],
-[
-"大方",
-5,
-"dà fang",
-"generous; magnanimous; stylish; in good taste; easy-mannered; natural and relaxed"
-],
-[
-"平方",
-5,
-"píng fāng",
-"square (as in square foot, square mile, square root)"
-],
-[
-"官方",
-6,
-"guān fāng",
-"government; official (approved or issued by an authority)"
-],
-[
-"比方",
-6,
-"bǐ fang",
-"analogy; instance; for instance"
-],
-[
-"方位",
-6,
-"fāng wèi",
-"direction; points of the compass; bearing; position; azimuth"
-],
-[
-"想方设法",
-6,
-"xiǎng fāng shè fǎ",
-"to think up every possible method (idiom); to devise ways and means; to try this, that and the other"
-],
-[
-"方圆",
-6,
-"fāng yuán",
-"perimeter; range; (within) a radius of ..."
-],
-[
-"方言",
-6,
-"Fāng yán",
-"the first Chinese dialect dictionary, edited by Yang Xiong 揚雄|扬雄[Yang2 Xiong2] in 1st century, containing over 9000 characters"
-],
-[
-"方言",
-6,
-"fāng yán",
-"topolect; dialect"
-],
-[
-"方针",
-6,
-"fāng zhēn",
-"policy; guidelines; CL:個|个[ge4]"
-],
-[
-"立方",
-6,
-"lì fāng",
-"cube (math.); abbr. for 立方體|立方体[li4 fang1 ti3]; abbr. for 立方米[li4 fang1 mi3]"
-],
-[
-"千方百计",
-6,
-"qiān fāng bǎi jì",
-"lit. thousand ways, a hundred plans (idiom); by every possible means"
-]
-],
-"extraWords": [
-[
-"平方米",
-119.24,
-"píng fāng mǐ",
-"square meter"
-],
-[
-"警方",
-101.9,
-"jǐng fāng",
-"police"
-],
-[
-"一方面",
-55.09,
-"yī fāng miàn",
-"on the one hand"
-],
-[
-"西方",
-53.7,
-"Xī fāng",
-"the West; the Occident; Western countries"
-],
-[
 "东方",
-48.51,
+2,
 "Dōng fāng",
 "the East; the Orient; two-character surname Dongfang"
 ],
 [
 "东方",
-48.51,
+2,
 "dōng fāng",
 "east"
 ],
 [
+"方便",
+2,
+"fāng biàn",
+"convenient; suitable; to facilitate; to make things easy; having money to spare; (euphemism) to relieve oneself"
+],
+[
+"方便面",
+2,
+"fāng biàn miàn",
+"instant noodles"
+],
+[
+"方法",
+2,
+"fāng fǎ",
+"method; way; means; CL:个[gè]"
+],
+[
+"方面",
+2,
+"fāng miàn",
+"respect; aspect; field; side; CL:个[gè]"
+],
+[
+"方向",
+2,
+"fāng xiàng",
+"direction; orientation; path to follow; CL:个[gè]"
+],
+[
+"南方",
+2,
+"nán fāng",
+"south; the southern part of the country; the South"
+],
+[
+"西方",
+2,
+"Xī fāng",
+"the West; the Occident; Western countries"
+],
+[
+"对方",
+3,
+"duì fāng",
+"counterpart; other person involved; opposite side; other side; receiving party"
+],
+[
+"方式",
+3,
+"fāng shì",
+"way; manner; style; mode; pattern; CL:个[gè]"
+],
+[
 "另一方面",
-47.91,
+3,
 "lìng yī fāng miàn",
 "on the other hand; another aspect"
 ],
 [
-"南方",
-35.8,
-"nán fāng",
-"south; the southern part of the country; the South"
+"双方",
+3,
+"shuāng fāng",
+"bilateral; both sides; both parties involved"
+],
+[
+"一方面",
+3,
+"yī fāng miàn",
+"on the one hand"
+],
+[
+"大方",
+4,
+"dà fāng",
+"expert; scholar; mother earth; a type of green tea"
+],
+[
+"大方",
+4,
+"dà fang",
+"generous; magnanimous; stylish; in good taste; easy-mannered; natural and relaxed"
+],
+[
+"方",
+4,
+"Fāng",
+"surname Fang"
+],
+[
+"方",
+4,
+"fāng",
+"square; power or involution (math.); upright; honest; fair and square; direction; side; party (to a contract, dispute etc); place; method; prescription (medicine); just when; only or just; classifier for square things; abbr. for square or cubic meter"
+],
+[
+"方案",
+4,
+"fāng àn",
+"plan; program (for action etc); proposal; proposed bill; CL:个[gè],套[tào]"
+],
+[
+"方针",
+4,
+"fāng zhēn",
+"policy; guidelines; CL:个[gè]"
+],
+[
+"官方",
+4,
+"guān fāng",
+"government; official (approved or issued by an authority)"
+],
+[
+"平方",
+4,
+"píng fāng",
+"square (as in square foot, square mile, square root)"
+],
+[
+"比方",
+5,
+"bǐ fang",
+"analogy; instance; for instance"
+],
+[
+"多方面",
+6,
+"duō fāng miàn",
+"many-sided; in many aspects"
+],
+[
+"平方米",
+6,
+"píng fāng mǐ",
+"square meter"
+],
+[
+"前方",
+6,
+"qián fāng",
+"ahead; the front"
+],
+[
+"远方",
+6,
+"yuǎn fāng",
+"far away; a distant location"
+],
+[
+"处方",
+7,
+"chǔ fāng",
+"medical prescription; to write out a prescription; (fig.) recommendation; advice"
+],
+[
+"单方面",
+7,
+"dān fāng miàn",
+"unilateral"
+],
+[
+"方方面面",
+7,
+"fāng fāng miàn miàn",
+"all sides; all aspects; multi-faceted"
+],
+[
+"方向盘",
+7,
+"fāng xiàng pán",
+"steering wheel"
+],
+[
+"方言",
+7,
+"Fāng yán",
+"the first Chinese dialect dictionary, edited by Yang Xiong 扬雄[Yáng Xióng] in 1st century, containing over 9000 characters"
+],
+[
+"方言",
+7,
+"fāng yán",
+"topolect; dialect"
+],
+[
+"立方",
+7,
+"lì fāng",
+"cube (math.); abbr. for 立方体[lì fāng tǐ]; abbr. for 立方米[lì fāng mǐ]"
+],
+[
+"立方米",
+7,
+"lì fāng mǐ",
+"cubic meter (unit of volume)"
+],
+[
+"秘方",
+7,
+"mì fāng",
+"secret recipe"
+],
+[
+"偏方",
+7,
+"piān fāng",
+"folk remedy; home remedy"
+],
+[
+"千方百计",
+7,
+"qiān fāng bǎi jì",
+"lit. thousand ways, a hundred plans (idiom); by every possible means"
+],
+[
+"全方位",
+7,
+"quán fāng wèi",
+"all around; omnidirectional; complete; holistic; comprehensive"
+],
+[
+"上方",
+7,
+"shàng fāng",
+"place above (it); upper part (of it)"
+],
+[
+"四面八方",
+7,
+"sì miàn bā fāng",
+"in all directions; all around; far and near"
+],
+[
+"想方设法",
+7,
+"xiǎng fāng shè fǎ",
+"to think up every possible method (idiom); to devise ways and means; to try this, that and the other"
+],
+[
+"药方",
+7,
+"yào fāng",
+"prescription"
+]
+],
+"extraWords": [
+[
+"警方",
+101.9,
+"jǐng fāng",
+"police"
 ],
 [
 "中方",
@@ -219,10 +297,10 @@
 "the Chinese side (in an international venture)"
 ],
 [
-"立方米",
-16.57,
-"lì fāng mǐ",
-"cubic meter (unit of volume)"
+"地方政府",
+22.1,
+"???",
+"???"
 ],
 [
 "平方公里",
@@ -231,28 +309,10 @@
 "square kilometer"
 ],
 [
-"上方",
-15.99,
-"shàng fāng",
-"place above (it); upper part (of it)"
-],
-[
-"前方",
-15.12,
-"qián fāng",
-"ahead; the front"
-],
-[
 "军方",
 14.91,
 "jūn fāng",
 "military"
-],
-[
-"全方位",
-14.49,
-"quán fāng wèi",
-"all around; omnidirectional; complete; holistic; comprehensive"
 ],
 [
 "生活方式",
@@ -267,10 +327,10 @@
 "in many ways; from all sides"
 ],
 [
-"多方面",
-12.5,
-"duō fāng miàn",
-"many-sided; in many aspects"
+"有关方面",
+12.66,
+"???",
+"???"
 ],
 [
 "下方",
@@ -279,22 +339,10 @@
 "underneath; below; the underside; world of mortals; to descend to the world of mortals (of gods)"
 ],
 [
-"处方",
-10.35,
-"chǔ fāng",
-"medical prescription; to write out a prescription; (fig.) recommendation; advice"
-],
-[
 "后方",
 9.7,
 "hòu fāng",
 "the rear; far behind the front line"
-],
-[
-"远方",
-9.45,
-"yuǎn fāng",
-"far away; a distant location"
 ],
 [
 "配方",
@@ -309,12 +357,6 @@
 "just now; then"
 ],
 [
-"方方面面",
-8.23,
-"fāng fāng miàn miàn",
-"all sides; all aspects; multi-faceted"
-],
-[
 "第三方",
 8.08,
 "dì sān fāng",
@@ -327,10 +369,10 @@
 "four-way; four-sided; in all directions; everywhere"
 ],
 [
-"方便面",
-7.27,
-"fāng biàn miàn",
-"instant noodles"
+"方位",
+7.18,
+"fāng wèi",
+"direction; points of the compass; bearing; position; azimuth"
 ],
 [
 "方程",
@@ -339,10 +381,16 @@
 "mathematical equation"
 ],
 [
+"南方都市报",
+6.24,
+"???",
+"???"
+],
+[
 "方正",
 5.4,
 "Fāng zhèng",
-"Fangzheng county in Harbin 哈爾濱|哈尔滨[Ha1 er3 bin1], Heilongjiang"
+"Fangzheng county in Harbin 哈尔滨[Hā ěr bīn], Heilongjiang"
 ],
 [
 "方正",
@@ -355,18 +403,6 @@
 5.28,
 "xiào fāng",
 "the school (as a party in a contract, dispute etc); the school authorities"
-],
-[
-"秘方",
-5.25,
-"mì fāng",
-"secret recipe"
-],
-[
-"方向盘",
-5.22,
-"fāng xiàng pán",
-"steering wheel"
 ],
 [
 "复方",

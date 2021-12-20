@@ -1,6 +1,6 @@
 {
 "char": "责",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "one's responsibility, duty",
 "pron": "zé"
@@ -8,53 +8,71 @@
 "words": [
 [
 "负责",
-4,
+3,
 "fù zé",
 "to be in charge of; to take responsibility for; to be to blame; conscientious"
 ],
 [
 "责任",
-4,
+3,
 "zé rèn",
-"responsibility; blame; duty; CL:個|个[ge4]"
+"responsibility; blame; duty; CL:个[gè]"
 ],
-[
-"责备",
-5,
-"zé bèi",
-"to blame; to criticize; condemnation; reproach"
-],
-[
-"指责",
-6,
-"zhǐ zé",
-"to criticize; to find fault with; to denounce"
-],
-[
-"责怪",
-6,
-"zé guài",
-"to blame; to rebuke"
-],
-[
-"谴责",
-6,
-"qiǎn zé",
-"to denounce; to condemn; to criticize; condemnation; criticism"
-]
-],
-"extraWords": [
 [
 "负责人",
-127.39,
+5,
 "fù zé rén",
 "person in charge"
 ],
 [
+"指责",
+5,
+"zhǐ zé",
+"to criticize; to find fault with; to denounce"
+],
+[
 "职责",
-30.52,
+6,
 "zhí zé",
 "duty; responsibility; obligation"
+],
+[
+"谴责",
+7,
+"qiǎn zé",
+"to denounce; to condemn; to criticize; condemnation; criticism"
+],
+[
+"责备",
+7,
+"zé bèi",
+"to blame; to criticize; condemnation; reproach"
+],
+[
+"责怪",
+7,
+"zé guài",
+"to blame; to rebuke"
+],
+[
+"自责",
+7,
+"zì zé",
+"to blame oneself"
+]
+],
+"extraWords": [
+[
+"责",
+17.46,
+"zé",
+"duty; responsibility; to reproach; to blame"
+],
+[
+"有限责任公司",
+15.01,
+"???",
+"???"
 ],
 [
 "责任感",
@@ -79,12 +97,6 @@
 11.14,
 "zé lìng",
 "to order; to enjoin; to charge; to instruct sb to finish sth"
-],
-[
-"自责",
-7.81,
-"zì zé",
-"to blame oneself"
 ],
 [
 "责任人",

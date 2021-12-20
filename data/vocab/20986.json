@@ -1,76 +1,190 @@
 {
 "char": "出",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "go out, send out; stand; produce",
 "pron": "chū"
 },
 "words": [
 [
-"出租车",
-1,
-"chū zū chē",
-"taxi; (Tw) rental car"
-],
-[
 "出",
-2,
+1,
 "chū",
 "to go out; to come out; to occur; to produce; to go beyond; to rise; to put forth; to happen; (used after a verb to indicate an outward direction or a positive result); classifier for dramas, plays, operas etc"
 ],
 [
 "出",
-2,
+1,
 "chū",
-"variant of 出[chu1] (classifier for plays or chapters of classical novels)"
+"variant of 出[chū] (classifier for plays or chapters of classical novels)"
 ],
 [
-"出现",
-4,
-"chū xiàn",
-"to appear; to arise; to emerge; to show up"
+"出来",
+1,
+"chū lái",
+"to come out; to appear; to arise"
+],
+[
+"出来",
+1,
+"chu lai",
+"(after a verb, indicates coming out, completion of an action, or ability to discern or detect)"
+],
+[
+"出去",
+1,
+"chū qù",
+"to go out"
 ],
 [
 "出发",
-4,
+2,
 "chū fā",
 "to set off; to start (on a journey)"
 ],
 [
-"演出",
-4,
-"yǎn chū",
-"to act (in a play); to perform; to put on (a performance); performance; concert; show; CL:場|场[chang3],次[ci4]"
+"出国",
+2,
+"chū guó",
+"to go abroad; to leave the country; emigration"
+],
+[
+"出口",
+2,
+"chū kǒu",
+"an exit; CL:个[gè]; to speak; to export; (of a ship) to leave port"
+],
+[
+"出门",
+2,
+"chū mén",
+"to go out; to leave home; to go on a journey; away from home; (of a woman) to get married"
 ],
 [
 "出生",
-4,
+2,
 "chū shēng",
 "to be born"
 ],
 [
-"出差",
-4,
-"chū chāi",
-"to go on an official or business trip"
+"出现",
+2,
+"chū xiàn",
+"to appear; to arise; to emerge; to show up"
+],
+[
+"出院",
+2,
+"chū yuàn",
+"to leave hospital; to be discharged from hospital"
+],
+[
+"出租",
+2,
+"chū zū",
+"to rent"
+],
+[
+"出租车",
+2,
+"chū zū chē",
+"taxi; (Tw) rental car"
+],
+[
+"得出",
+2,
+"dé chū",
+"to obtain (results); to arrive at (a conclusion)"
+],
+[
+"拿出",
+2,
+"ná chū",
+"to take out; to put out; to provide; to put forward (a proposal); to come up with (evidence)"
+],
+[
+"提出",
+2,
+"tí chū",
+"to raise (an issue); to propose; to put forward; to suggest; to post (on a website); to withdraw (cash)"
+],
+[
+"找出",
+2,
+"zhǎo chū",
+"to find; to search out"
+],
+[
+"播出",
+3,
+"bō chū",
+"to broadcast; to air (a TV program etc)"
+],
+[
+"发出",
+3,
+"fā chū",
+"to issue (an order, decree etc); to send out; to dispatch; to produce (a sound); to let out (a laugh)"
+],
+[
+"认出",
+3,
+"rèn chū",
+"recognition; to recognize"
+],
+[
+"突出",
+3,
+"tū chū",
+"prominent; outstanding; to give prominence to; to protrude; to project"
+],
+[
+"退出",
+3,
+"tuì chū",
+"to withdraw; to abort; to quit; to log out (computing)"
+],
+[
+"演出",
+3,
+"yǎn chū",
+"to act (in a play); to perform; to put on (a performance); performance; concert; show; CL:场[chǎng],次[cì]"
+],
+[
+"指出",
+3,
+"zhǐ chū",
+"to indicate; to point out"
 ],
 [
 "出色",
-5,
+4,
 "chū sè",
 "remarkable; outstanding"
 ],
 [
-"出口",
-5,
-"chū kǒu",
-"an exit; CL:個|个[ge4]; to speak; to export; (of a ship) to leave port"
+"出售",
+4,
+"chū shòu",
+"to sell; to offer for sale; to put on the market"
 ],
 [
 "出席",
-5,
+4,
 "chū xí",
 "to attend; to participate; present"
+],
+[
+"付出",
+4,
+"fù chū",
+"to pay; to invest (energy or time in a friendship etc)"
+],
+[
+"作出",
+4,
+"zuò chū",
+"to put out; to come up with; to make (a choice, decision, proposal, response, comment etc); to issue (a permit, statement, explanation, apology, reassurance to the public etc); to draw (conclusion); to deliver (speech, judgment); to devise (explanation); to extract"
 ],
 [
 "出版",
@@ -79,28 +193,70 @@
 "to publish"
 ],
 [
-"突出",
+"出差",
 5,
-"tū chū",
-"prominent; outstanding; to give prominence to; to protrude; to project"
+"chū chāi",
+"to go on an official or business trip"
 ],
 [
-"出示",
+"出汗",
 5,
-"chū shì",
-"to show; to take out and show to others; to display"
+"chū hàn",
+"to perspire; to sweat"
 ],
 [
-"出卖",
-6,
-"chū mài",
-"to offer for sale; to sell; to sell out or betray"
+"出于",
+5,
+"chū yú",
+"due to; to stem from"
 ],
 [
-"杰出",
+"看出",
+5,
+"kàn chū",
+"to make out; to see"
+],
+[
+"输出",
+5,
+"shū chū",
+"to export; to output"
+],
+[
+"支出",
+5,
+"zhī chū",
+"to spend; to pay out; expense"
+],
+[
+"查出",
 6,
-"jié chū",
-"outstanding; distinguished; remarkable; prominent; illustrious"
+"chá chū",
+"to find out; to discover"
+],
+[
+"超出",
+6,
+"chāo chū",
+"to exceed; to overstep; to go too far; to encroach"
+],
+[
+"出场",
+6,
+"chū chǎng",
+"(of a performer) to come onto the stage to perform; (of an athlete) to enter the arena to compete; (fig.) to enter the scene (e.g. a new product); (of an examinee etc) to leave the venue"
+],
+[
+"出动",
+6,
+"chū dòng",
+"to start out on a trip; to dispatch troops"
+],
+[
+"出访",
+6,
+"chū fǎng",
+"to go and visit in an official capacity or for investigation"
 ],
 [
 "出路",
@@ -109,85 +265,337 @@
 "a way out (lit. and fig.); opportunity for advancement; a way forward; outlet (for one's products)"
 ],
 [
-"出身",
+"出面",
 6,
+"chū miàn",
+"to appear personally; to step in; to step forth; to show up"
+],
+[
+"出名",
+6,
+"chū míng",
+"well-known for sth; to become well known; to make one's mark"
+],
+[
+"出入",
+6,
+"chū rù",
+"to go out and come in; entrance and exit; expenditure and income; discrepancy; inconsistent"
+],
+[
+"出事",
+6,
+"chū shì",
+"to have an accident; to meet with a mishap"
+],
+[
+"出台",
+6,
+"chū tái",
+"to officially launch (a policy, program etc); to appear on stage; to appear publicly; (of a bar girl) to leave with a client"
+],
+[
+"出行",
+6,
+"chū xíng",
+"to go out somewhere (relatively short trip); to set off on a journey (longer trip)"
+],
+[
+"传出",
+6,
+"chuán chū",
+"to transmit outwards; to disseminate; efferent (nerve)"
+],
+[
+"杰出",
+6,
+"jié chū",
+"outstanding; distinguished; remarkable; prominent; illustrious"
+],
+[
+"派出",
+6,
+"pài chū",
+"to send; to dispatch"
+],
+[
+"推出",
+6,
+"tuī chū",
+"to push out; to release; to launch; to publish; to recommend"
+],
+[
+"外出",
+6,
+"wài chū",
+"to go out; to go away (on a trip etc)"
+],
+[
+"显出",
+6,
+"xiǎn chū",
+"to express; to exhibit"
+],
+[
+"层出不穷",
+7,
+"céng chū bù qióng",
+"more and more emerge; innumerable succession; breeding like flies (idiom)"
+],
+[
+"出版社",
+7,
+"chū bǎn shè",
+"publishing house"
+],
+[
+"出厂",
+7,
+"chū chǎng",
+"to leave the factory (of finished goods)"
+],
+[
+"出丑",
+7,
+"chū chǒu",
+"shameful; scandalous; to be humiliated; to make a fool of sb or oneself; to make sb lose face"
+],
+[
+"出道",
+7,
+"chū dào",
+"to make one's first public performance (of an entertainer etc); to start one's career"
+],
+[
+"出发点",
+7,
+"chū fā diǎn",
+"starting point; (fig.) basis; motive"
+],
+[
+"出风头",
+7,
+"chū fēng tou",
+"to push oneself forward; to seek fame; to be in the limelight; same as 出锋头[chū fēng tou]"
+],
+[
+"出境",
+7,
+"chū jìng",
+"to leave a country or region; outbound (tourism)"
+],
+[
+"出局",
+7,
+"chū jú",
+"to send off (player for a foul); to knock out (i.e. to beat in a knock-out tournament); to eliminate; to call out; to kill off; to pull out of (a competition); to retire (a runner in baseball); out (i.e. man out in baseball)"
+],
+[
+"出具",
+7,
+"chū jù",
+"to issue (document, certificate etc); to provide"
+],
+[
+"出口成章",
+7,
+"chū kǒu chéng zhāng",
+"(idiom) (of one's speech) eloquent; articulate"
+],
+[
+"出卖",
+7,
+"chū mài",
+"to offer for sale; to sell; to sell out or betray"
+],
+[
+"出毛病",
+7,
+"chū máo bìng",
+"a problem appears; to break down"
+],
+[
+"出难题",
+7,
+"chū nán tí",
+"to raise a tough question"
+],
+[
+"出人意料",
+7,
+"chū rén yì liào",
+"unexpected (idiom); surprising"
+],
+[
+"出任",
+7,
+"chū rèn",
+"to take up a post; to start in a new job"
+],
+[
+"出山",
+7,
+"chū shān",
+"to leave the mountain (of a hermit); to come out of obscurity to a government job; to take a leading position"
+],
+[
+"出身",
+7,
 "chū shēn",
 "to be born of; to come from; family background; class origin"
 ],
 [
-"支出",
-6,
-"zhī chū",
-"to spend; to pay out; expense"
+"出示",
+7,
+"chū shì",
+"to show; to take out and show to others; to display"
+],
+[
+"出手",
+7,
+"chū shǒu",
+"to dispose of; to spend (money); to undertake a task"
+],
+[
+"出头",
+7,
+"chū tóu",
+"to get out of a predicament; to stick out; to take the initiative; remaining odd fraction after a division; a little more than"
+],
+[
+"出土",
+7,
+"chū tǔ",
+"to dig up; to appear in an excavation; unearthed; to come up out of the ground"
 ],
 [
 "出息",
-6,
+7,
 "chū xī",
 "to yield interest, profit etc; to exhale (Buddhism)"
 ],
 [
 "出息",
-6,
+7,
 "chū xi",
 "future prospects; profit; to mature; to grow up"
 ],
 [
-"层出不穷",
-6,
-"céng chū bù qióng",
-"more and more emerge; innumerable succession; breeding like flies (idiom)"
+"出血",
+7,
+"chū xuè",
+"to bleed; bleeding; (fig.) to spend money in large amounts"
 ],
 [
-"出神",
-6,
-"chū shén",
-"spellbound; entranced; lost in thought"
+"出演",
+7,
+"chū yǎn",
+"to appear (in a show etc); an appearance (on stage etc)"
+],
+[
+"出洋相",
+7,
+"chū yáng xiàng",
+"to make a fool of oneself"
+],
+[
+"出游",
+7,
+"chū yóu",
+"to go on a tour; to have an outing"
+],
+[
+"出众",
+7,
+"chū zhòng",
+"to stand out; outstanding"
+],
+[
+"出主意",
+7,
+"chū zhǔ yi",
+"to come up with ideas; to make suggestions; to offer advice"
+],
+[
+"出资",
+7,
+"chū zī",
+"to fund; to put money into sth; to invest"
+],
+[
+"出自",
+7,
+"chū zì",
+"to come from"
+],
+[
+"出走",
+7,
+"chū zǒu",
+"to leave home; to go off; to run away"
+],
+[
+"豁出去",
+7,
+"huō chu qu",
+"to throw caution to the wind; to press one's luck; to go for broke"
+],
+[
+"进出",
+7,
+"jìn chū",
+"to enter or exit; to go through"
+],
+[
+"进出口",
+7,
+"jìn chū kǒu",
+"import and export"
+],
+[
+"看得出",
+7,
+"kàn de chū",
+"can see; can tell"
+],
+[
+"胜出",
+7,
+"shèng chū",
+"to come out on top; to win (in an election, contest etc); success; victory"
+],
+[
+"水落石出",
+7,
+"shuǐ luò shí chū",
+"as the water recedes, the rocks appear (idiom); the truth comes to light"
+],
+[
+"脱口而出",
+7,
+"tuō kǒu ér chū",
+"to blurt out; to let slip (an indiscreet remark)"
+],
+[
+"脱颖而出",
+7,
+"tuō yǐng ér chū",
+"to reveal one's talent (idiom); to rise above others; to distinguish oneself"
+],
+[
+"喜出望外",
+7,
+"xǐ chū wàng wài",
+"to be pleased beyond one's expectations (idiom); overjoyed at the turn of events"
+],
+[
+"展出",
+7,
+"zhǎn chū",
+"to put on display; to be on show; to exhibit"
 ]
 ],
 "extraWords": [
-[
-"出来",
-624.15,
-"chū lái",
-"to come out; to appear; to arise"
-],
-[
-"出来",
-624.15,
-"chu lai",
-"(after a verb, indicates coming out, completion of an action, or ability to discern or detect)"
-],
-[
-"出去",
-343.52,
-"chū qù",
-"to go out"
-],
-[
-"提出",
-281.62,
-"tí chū",
-"to raise (an issue); to propose; to put forward; to suggest; to post (on a website); to withdraw (cash)"
-],
-[
-"指出",
-170.18,
-"zhǐ chū",
-"to indicate; to point out"
-],
-[
-"推出",
-143.67,
-"tuī chū",
-"to push out; to release; to launch; to publish; to recommend"
-],
-[
-"发出",
-85.6,
-"fā chū",
-"to issue (an order, decree etc); to send out; to dispatch; to produce (a sound); to let out (a laugh)"
-],
 [
 "做出",
 66.24,
@@ -195,52 +603,10 @@
 "to put out; to issue"
 ],
 [
-"出台",
-64.79,
-"chū tái",
-"to officially launch (a policy, program etc); to appear on stage; to appear publicly; (of a bar girl) to leave with a client"
-],
-[
-"看出",
-53.98,
-"kàn chū",
-"to make out; to see"
-],
-[
-"付出",
-51.78,
-"fù chū",
-"to pay; to invest (energy or time in a friendship etc)"
-],
-[
-"出门",
-47.18,
-"chū mén",
-"to go out; to leave home; to go on a journey; away from home; (of a woman) to get married"
-],
-[
 "走出",
 44.4,
 "zǒu chū",
 "to leave (a room etc); to go out through (a door etc)"
-],
-[
-"拿出",
-42.68,
-"ná chū",
-"to take out; to put out; to provide; to put forward (a proposal); to come up with (evidence)"
-],
-[
-"出售",
-42.66,
-"chū shòu",
-"to sell; to offer for sale; to put on the market"
-],
-[
-"退出",
-39.41,
-"tuì chū",
-"to withdraw; to abort; to quit; to log out (computing)"
 ],
 [
 "派出所",
@@ -255,24 +621,6 @@
 "to extend"
 ],
 [
-"出局",
-30.26,
-"chū jú",
-"to send off (player for a foul); to knock out (i.e. to beat in a knock-out tournament); to eliminate; to call out; to kill off; to pull out of (a competition); to retire (a runner in baseball); out (i.e. man out in baseball)"
-],
-[
-"播出",
-29.05,
-"bō chū",
-"to broadcast; to air (a TV program etc)"
-],
-[
-"得出",
-29.0,
-"dé chū",
-"to obtain (results); to arrive at (a conclusion)"
-],
-[
 "说出",
 28.4,
 "shuō chū",
@@ -285,118 +633,10 @@
 "to expose; to show; also pr. [lou4 chu1]"
 ],
 [
-"出手",
-27.61,
-"chū shǒu",
-"to dispose of; to spend (money); to undertake a task"
-],
-[
-"出版社",
-26.87,
-"chū bǎn shè",
-"publishing house"
-],
-[
-"出血",
-26.29,
-"chū xuè",
-"to bleed; bleeding; (fig.) to spend money in large amounts"
-],
-[
-"输出",
-26.17,
-"shū chū",
-"to export; to output"
-],
-[
-"认出",
-26.11,
-"rèn chū",
-"recognition; to recognize"
-],
-[
-"派出",
-26.08,
-"pài chū",
-"to send; to dispatch"
-],
-[
-"查出",
-26.05,
-"chá chū",
-"to find out; to discover"
-],
-[
-"出于",
-25.04,
-"chū yú",
-"due to; to stem from"
-],
-[
-"出场",
-22.39,
-"chū chǎng",
-"(of a performer) to come onto the stage to perform; (of an athlete) to enter the arena to compete; (fig.) to enter the scene (e.g. a new product); (of an examinee etc) to leave the venue"
-],
-[
-"出事",
-22.18,
-"chū shì",
-"to have an accident; to meet with a mishap"
-],
-[
-"作出",
-21.61,
-"zuò chū",
-"to put out; to come up with; to make (a choice, decision, proposal, response, comment etc); to issue (a permit, statement, explanation, apology, reassurance to the public etc); to draw (conclusion); to deliver (speech, judgment); to devise (explanation); to extract"
-],
-[
-"外出",
-21.57,
-"wài chū",
-"to go out; to go away (on a trip etc)"
-],
-[
-"出租",
-21.25,
-"chū zū",
-"to rent"
-],
-[
-"传出",
-20.93,
-"chuán chū",
-"to transmit outwards; to disseminate; efferent (nerve)"
-],
-[
-"超出",
-19.41,
-"chāo chū",
-"to exceed; to overstep; to go too far; to encroach"
-],
-[
-"出资",
-19.33,
-"chū zī",
-"to fund; to put money into sth; to invest"
-],
-[
-"出行",
-18.16,
-"chū xíng",
-"to go out somewhere (relatively short trip); to set off on a journey (longer trip)"
-],
-[
 "取出",
 18.01,
 "qǔ chū",
 "to take out; to extract; to draw out"
-],
-[
-"出国",
-17.59,
-"chū guó",
-"to go abroad; to leave the country; emigration"
 ],
 [
 "出庭",
@@ -405,28 +645,10 @@
 "to appear in court"
 ],
 [
-"出名",
-16.54,
-"chū míng",
-"well-known for sth; to become well known; to make one's mark"
-],
-[
 "卖出",
 16.38,
 "mài chū",
 "to sell; to reach (a price in an auction)"
-],
-[
-"进出口",
-16.38,
-"jìn chū kǒu",
-"import and export"
-],
-[
-"找出",
-15.51,
-"zhǎo chū",
-"to find; to search out"
 ],
 [
 "出让",
@@ -435,46 +657,22 @@
 "to transfer (one's property or rights to sb else)"
 ],
 [
-"展出",
-13.97,
-"zhǎn chū",
-"to put on display; to be on show; to exhibit"
-],
-[
-"出具",
-13.77,
-"chū jù",
-"to issue (document, certificate etc); to provide"
-],
-[
-"出动",
-13.65,
-"chū dòng",
-"to start out on a trip; to dispatch troops"
-],
-[
 "出价",
 12.82,
 "chū jià",
 "to bid"
 ],
 [
-"出自",
-12.73,
-"chū zì",
-"to come from"
-],
-[
-"出院",
-12.1,
-"chū yuàn",
-"to leave hospital; to be discharged from hospital"
-],
-[
 "选出",
 11.91,
 "xuǎn chū",
 "to pick out; to select; to elect"
+],
+[
+"拿出来",
+11.89,
+"???",
+"???"
 ],
 [
 "出击",
@@ -495,12 +693,6 @@
 "to discharge"
 ],
 [
-"出面",
-10.92,
-"chū miàn",
-"to appear personally; to step in; to step forth; to show up"
-],
-[
 "流出",
 10.66,
 "liú chū",
@@ -511,12 +703,6 @@
 10.2,
 "chōu chū",
 "to take out; to extract"
-],
-[
-"出演",
-9.96,
-"chū yǎn",
-"to appear (in a show etc); an appearance (on stage etc)"
 ],
 [
 "出线",
@@ -537,34 +723,34 @@
 "to be released from prison"
 ],
 [
-"出走",
-9.63,
-"chū zǒu",
-"to leave home; to go off; to run away"
-],
-[
-"进出",
-9.59,
-"jìn chū",
-"to enter or exit; to go through"
-],
-[
 "出炉",
 9.58,
 "chū lú",
 "to take out of the furnace; fresh out of the oven; fig. newly announced; recently made available"
 ],
 [
-"出入",
-8.88,
-"chū rù",
-"to go out and come in; entrance and exit; expenditure and income; discrepancy; inconsistent"
+"售出",
+9.07,
+"???",
+"???"
+],
+[
+"送出",
+9.02,
+"???",
+"???"
 ],
 [
 "迈出",
 8.77,
 "mài chū",
 "to step out; to take a (first) step"
+],
+[
+"走出去",
+8.6,
+"???",
+"???"
 ],
 [
 "跳出",
@@ -579,6 +765,12 @@
 "to make a mistake; error"
 ],
 [
+"创出",
+8.08,
+"???",
+"???"
+],
+[
 "冲出",
 7.99,
 "chōng chū",
@@ -591,34 +783,22 @@
 "to hand over"
 ],
 [
-"出境",
-7.9,
-"chū jìng",
-"to leave a country or region; outbound (tourism)"
-],
-[
 "撤出",
 7.46,
 "chè chū",
 "to withdraw; to leave; to retreat; to pull out"
 ],
 [
-"出发点",
-7.4,
-"chū fā diǎn",
-"starting point; (fig.) basis; motive"
+"创造出",
+7.3,
+"???",
+"???"
 ],
 [
-"脱颖而出",
-7.06,
-"tuō yǐng ér chū",
-"to reveal one's talent (idiom); to rise above others; to distinguish oneself"
-],
-[
-"看得出",
-7.05,
-"kàn de chū",
-"can see; can tell"
+"站出来",
+7.04,
+"???",
+"???"
 ],
 [
 "出声",
@@ -633,16 +813,16 @@
 "due to; to stem from; to go beyond (also fig. beyond reason, expectations etc); to go against (expectations)"
 ],
 [
-"出众",
-6.83,
-"chū zhòng",
-"to stand out; outstanding"
-],
-[
 "出品",
 6.75,
 "chū pǐn",
 "to produce an item; output; items that are produced"
+],
+[
+"走出来",
+6.74,
+"???",
+"???"
 ],
 [
 "列出",
@@ -657,12 +837,6 @@
 "to produce (graduates, breast milk, toxic waste, creative ideas etc); output"
 ],
 [
-"出游",
-6.6,
-"chū yóu",
-"to go on a tour; to have an outing"
-],
-[
 "出战",
 6.56,
 "chū zhàn",
@@ -675,16 +849,10 @@
 "to give birth; to grow (whiskers etc); to generate; to produce"
 ],
 [
-"出厂",
-6.39,
-"chū chǎng",
-"to leave the factory (of finished goods)"
-],
-[
-"出土",
-6.33,
-"chū tǔ",
-"to dig up; to appear in an excavation; unearthed; to come up out of the ground"
+"吐出",
+6.41,
+"???",
+"???"
 ],
 [
 "出征",
@@ -697,12 +865,6 @@
 6.27,
 "jǐ chū",
 "to squeeze out; to extrude; to drain; to find the time; to burst out"
-],
-[
-"显出",
-5.95,
-"xiǎn chū",
-"to express; to exhibit"
 ],
 [
 "爆出",
@@ -723,12 +885,6 @@
 "to have sth go wrong; to have a problem arise; to give problems"
 ],
 [
-"出头",
-5.35,
-"chū tóu",
-"to get out of a predicament; to stick out; to take the initiative; remaining odd fraction after a division; a little more than"
-],
-[
 "使出",
 5.29,
 "shǐ chū",
@@ -741,10 +897,10 @@
 "sunrise"
 ],
 [
-"出人意料",
-5.25,
-"chū rén yì liào",
-"unexpected (idiom); surprising"
+"出入境",
+5.24,
+"???",
+"???"
 ],
 [
 "出钱",
@@ -757,6 +913,12 @@
 5.19,
 "chū guǐ",
 "derailment (railway accident); to leave the rails; fig. to overstep bounds; fig. to have an extramarital affair"
+],
+[
+"挖出",
+5.18,
+"???",
+"???"
 ]
 ],
 "strokes": [

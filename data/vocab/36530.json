@@ -1,25 +1,31 @@
 {
 "char": "躲",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "hide, secrete; avoid, escape",
 "pron": "duǒ"
 },
 "words": [
 [
-"躲藏",
+"躲",
 5,
+"duǒ",
+"to hide; to dodge; to avoid"
+],
+[
+"躲避",
+7,
+"duǒ bì",
+"to hide; to evade; to dodge; to take shelter; to avoid (difficulties)"
+],
+[
+"躲藏",
+7,
 "duǒ cáng",
 "to conceal oneself; to go into hiding; to take cover"
 ]
 ],
 "extraWords": [
-[
-"躲避",
-12.22,
-"duǒ bì",
-"to hide; to evade; to dodge; to take shelter; to avoid (difficulties)"
-],
 [
 "躲开",
 9.21,

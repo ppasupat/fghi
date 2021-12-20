@@ -1,94 +1,166 @@
 {
 "char": "领",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "neck; collar; lead, guide",
 "pron": "lǐng"
 },
 "words": [
 [
-"领导",
-5,
-"lǐng dǎo",
-"lead; leading; to lead; leadership; leader; CL:位[wei4],個|个[ge4]"
-],
-[
-"系领带",
-5,
-"xi4 ling3 dai4",
-"to tie a necktie"
-],
-[
-"领域",
-5,
-"lǐng yù",
-"domain; sphere; field; territory; area"
-],
-[
 "本领",
-5,
+3,
 "běn lǐng",
-"skill; ability; capability; CL:項|项[xiang4],個|个[ge4]"
+"skill; ability; capability; CL:项[xiàng],个[gè]"
+],
+[
+"带领",
+3,
+"dài lǐng",
+"to guide; to lead"
+],
+[
+"领",
+3,
+"lǐng",
+"neck; collar; to lead; to receive; classifier for clothes, mats, screens etc"
+],
+[
+"领导",
+3,
+"lǐng dǎo",
+"lead; leading; to lead; leadership; leader; CL:位[wèi],个[gè]"
 ],
 [
 "领先",
-6,
+3,
 "lǐng xiān",
 "to lead; to be in front"
+],
+[
+"领带",
+5,
+"lǐng dài",
+"necktie; CL:条[tiáo]"
+],
+[
+"率领",
+5,
+"shuài lǐng",
+"to lead; to command; to head"
+],
+[
+"占领",
+5,
+"zhàn lǐng",
+"to occupy (a territory); to hold"
+],
+[
+"白领",
+6,
+"bái lǐng",
+"white-collar; white-collar worker"
+],
+[
+"蓝领",
+6,
+"lán lǐng",
+"blue-collar; blue-collar worker"
+],
+[
+"领取",
+6,
+"lǐng qǔ",
+"to receive; to draw; to get"
 ],
 [
 "领袖",
 6,
 "lǐng xiù",
-"leader; CL:個|个[ge4],位[wei4],名[ming2]"
+"leader; CL:个[gè],位[wèi],名[míng]"
 ],
 [
-"带领",
-6,
-"dài lǐng",
-"to guide; to lead"
+"纲领",
+7,
+"gāng lǐng",
+"program (i.e. plan of action); guiding principle"
 ],
 [
-"占领",
-6,
-"zhàn lǐng",
-"to occupy (a territory); to hold"
-],
-[
-"领土",
-6,
-"lǐng tǔ",
-"territory"
-],
-[
-"领事馆",
-6,
-"lǐng shì guǎn",
-"consulate"
-],
-[
-"领悟",
-6,
-"lǐng wù",
-"to understand; to comprehend"
+"领队",
+7,
+"lǐng duì",
+"to lead a group; leader of a group; captain (of sports squad)"
 ],
 [
 "领会",
-6,
+7,
 "lǐng huì",
 "to understand; to comprehend; to grasp"
 ],
 [
-"率领",
-6,
-"shuài lǐng",
-"to lead; to command; to head"
+"领军",
+7,
+"lǐng jūn",
+"to lead troups; (fig.) to lead; leading"
 ],
 [
-"纲领",
-6,
-"gāng lǐng",
-"program (i.e. plan of action); guiding principle"
+"领略",
+7,
+"lǐng lüè",
+"to have a taste of; to realize; to appreciate"
+],
+[
+"领事",
+7,
+"lǐng shì",
+"consul"
+],
+[
+"领事馆",
+7,
+"lǐng shì guǎn",
+"consulate"
+],
+[
+"领土",
+7,
+"lǐng tǔ",
+"territory"
+],
+[
+"领悟",
+7,
+"lǐng wù",
+"to understand; to comprehend"
+],
+[
+"领养",
+7,
+"lǐng yǎng",
+"adoption; to adopt (a child)"
+],
+[
+"领域",
+7,
+"lǐng yù",
+"domain; sphere; field; territory; area"
+],
+[
+"申领",
+7,
+"shēn lǐng",
+"to apply (for license, visa etc)"
+],
+[
+"要领",
+7,
+"yào lǐng",
+"main aspects; essentials; gist"
+],
+[
+"引领",
+7,
+"yǐn lǐng",
+"to crane one's neck; to await eagerly; to lead; to show the way"
 ]
 ],
 "extraWords": [
@@ -99,34 +171,10 @@
 "leader"
 ],
 [
-"领取",
-32.65,
-"lǐng qǔ",
-"to receive; to draw; to get"
-],
-[
-"领带",
-15.23,
-"lǐng dài",
-"necktie; CL:條|条[tiao2]"
-],
-[
-"白领",
-12.14,
-"bái lǐng",
-"white-collar; white-collar worker"
-],
-[
-"领养",
-11.15,
-"lǐng yǎng",
-"adoption; to adopt (a child)"
-],
-[
-"引领",
-9.85,
-"yǐn lǐng",
-"to crane one's neck; to await eagerly; to lead; to show the way"
+"领导班子",
+12.49,
+"???",
+"???"
 ],
 [
 "领导者",
@@ -145,24 +193,6 @@
 7.46,
 "jiàng lǐng",
 "high-ranking military officer"
-],
-[
-"领队",
-7.08,
-"lǐng duì",
-"to lead a group; leader of a group; captain (of sports squad)"
-],
-[
-"申领",
-6.89,
-"shēn lǐng",
-"to apply (for license, visa etc)"
-],
-[
-"领略",
-6.18,
-"lǐng lüè",
-"to have a taste of; to realize; to appreciate"
 ],
 [
 "领地",

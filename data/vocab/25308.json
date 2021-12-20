@@ -1,28 +1,22 @@
 {
 "char": "拜",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "do obeisance, bow, kowtow",
 "pron": "bái, bài"
 },
 "words": [
 [
-"礼拜天",
-4,
-"Lǐ bài tiān",
-"Sunday"
-],
-[
-"拜托",
-6,
-"bài tuō",
-"to request sb to do sth; please!"
-],
-[
 "拜访",
-6,
+5,
 "bài fǎng",
 "to pay a visit; to call on"
+],
+[
+"礼拜",
+5,
+"lǐ bài",
+"week; religious service; worship; CL:个[gè]"
 ],
 [
 "崇拜",
@@ -31,18 +25,36 @@
 "to worship; adoration"
 ],
 [
+"拜会",
+7,
+"bài huì",
+"pay an official call; call on; visit in an official capacity"
+],
+[
+"拜见",
+7,
+"bài jiàn",
+"to pay a formal visit; to call to pay respects; to meet one's senior or superior"
+],
+[
 "拜年",
-6,
+7,
 "bài nián",
 "to pay a New Year call; to wish sb a Happy New Year"
+],
+[
+"拜托",
+7,
+"bài tuō",
+"to request sb to do sth; please!"
 ]
 ],
 "extraWords": [
 [
-"礼拜",
-30.49,
-"lǐ bài",
-"week; religious service; worship; CL:個|个[ge4]"
+"拜",
+34.85,
+"bài",
+"to pay respect; worship; visit; salute"
 ],
 [
 "拜拜",

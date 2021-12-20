@@ -1,25 +1,31 @@
 {
 "char": "轰",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "rumble, explosion, blast",
 "pron": "hōng"
 },
 "words": [
 [
+"轰",
+7,
+"hōng",
+"explosion; bang; boom; rumble; to attack; to shoo away; to expel"
+],
+[
 "轰动",
-6,
+7,
 "hōng dòng",
 "to cause a sensation; to create a stir in (a place); commotion; controversy"
+],
+[
+"轰炸",
+7,
+"hōng zhà",
+"to bomb; to bombard; CL:阵[zhèn]"
 ]
 ],
 "extraWords": [
-[
-"轰炸",
-9.28,
-"hōng zhà",
-"to bomb; to bombard; CL:陣|阵[zhen4]"
-],
 [
 "轰轰烈烈",
 6.16,

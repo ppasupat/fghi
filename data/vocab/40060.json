@@ -1,6 +1,6 @@
 {
 "char": "鱼",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "fish; surname; KangXi radical 195",
 "pron": "yú"
@@ -16,7 +16,25 @@
 "鱼",
 2,
 "yú",
-"fish; CL:條|条[tiao2],尾[wei3]"
+"fish; CL:条[tiáo],尾[wěi]"
+],
+[
+"钓鱼",
+7,
+"diào yú",
+"to fish (with line and hook); to dupe"
+],
+[
+"鳄鱼",
+7,
+"è yú",
+"alligator; crocodile"
+],
+[
+"鲨鱼",
+7,
+"shā yú",
+"shark"
 ]
 ],
 "extraWords": [
@@ -25,24 +43,6 @@
 26.27,
 "Shuāng yú zuò",
 "Pisces (constellation and sign of the zodiac)"
-],
-[
-"鲨鱼",
-18.57,
-"shā yú",
-"shark"
-],
-[
-"钓鱼",
-16.28,
-"diào yú",
-"to fish (with line and hook); to dupe"
-],
-[
-"鳄鱼",
-8.38,
-"è yú",
-"alligator; crocodile"
 ],
 [
 "金枪鱼",
@@ -54,7 +54,7 @@
 "鲸鱼",
 5.93,
 "jīng yú",
-"whale; CL:條|条[tiao2]"
+"whale; CL:条[tiáo]"
 ],
 [
 "鱿鱼",

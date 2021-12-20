@@ -1,6 +1,6 @@
 {
 "char": "巾",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "kerchief; towel; turban; KangXi radical number 50",
 "pron": "jīn"
@@ -10,21 +10,27 @@
 "毛巾",
 4,
 "máo jīn",
-"towel; CL:條|条[tiao2]"
+"towel; CL:条[tiáo]"
 ],
 [
 "围巾",
-5,
+4,
 "wéi jīn",
-"scarf; shawl; CL:條|条[tiao2]"
+"scarf; shawl; CL:条[tiáo]"
 ]
 ],
 "extraWords": [
 [
+"巾",
+7.36,
+"jīn",
+"towel; general purpose cloth; women's headcovering (old); Kangxi radical 50"
+],
+[
 "纸巾",
 6.44,
 "zhǐ jīn",
-"paper towel; napkin; facial tissue; CL:張|张[zhang1],包[bao1]"
+"paper towel; napkin; facial tissue; CL:张[zhāng],包[bāo]"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "搭",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "join together, attach to; add to",
 "pron": "dā"
@@ -10,7 +10,7 @@
 "搭",
 6,
 "dā",
-"to put up; to build (scaffolding); to hang (clothes on a pole); to connect; to join; to arrange in pairs; to match; to add; to throw in (resources); to take (boat, train); variant of 褡[da1]"
+"to put up; to build (scaffolding); to hang (clothes on a pole); to connect; to join; to arrange in pairs; to match; to add; to throw in (resources); to take (boat, train); variant of 褡[dā]"
 ],
 [
 "搭档",
@@ -23,15 +23,21 @@
 6,
 "dā pèi",
 "to pair up; to match; to arrange in pairs; to add sth into a group"
+],
+[
+"搭乘",
+7,
+"dā chéng",
+"to ride as a passenger; to travel by (car, plane etc)"
+],
+[
+"搭建",
+7,
+"dā jiàn",
+"to build (esp. with simple materials); to knock together (a temporary shed); to rig up"
 ]
 ],
 "extraWords": [
-[
-"搭建",
-11.27,
-"dā jiàn",
-"to build (esp. with simple materials); to knock together (a temporary shed); to rig up"
-],
 [
 "搭载",
 6.65,

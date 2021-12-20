@@ -1,78 +1,114 @@
 {
 "char": "音",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "sound, tone, pitch, pronunciation",
 "pron": "yīn"
 },
 "words": [
 [
+"读音",
+2,
+"dú yīn",
+"pronunciation; literary (rather than colloquial) pronunciation of a Chinese character"
+],
+[
 "声音",
-3,
+2,
 "shēng yīn",
-"voice; sound; CL:個|个[ge4]"
+"voice; sound; CL:个[gè]"
+],
+[
+"音节",
+2,
+"yīn jié",
+"syllable"
 ],
 [
 "音乐",
-3,
+2,
 "yīn yuè",
-"music; CL:張|张[zhang1],曲[qu3],段[duan4]"
+"music; CL:张[zhāng],曲[qǔ],段[duàn]"
+],
+[
+"音乐会",
+2,
+"yīn yuè huì",
+"concert; CL:场[chǎng]"
 ],
 [
 "录音",
-5,
+3,
 "lù yīn",
-"to record (sound); sound recording; CL:個|个[ge4]"
+"to record (sound); sound recording; CL:个[gè]"
 ],
 [
-"拼音",
-5,
-"pīn yīn",
-"phonetic writing; pinyin (Chinese romanization)"
+"收音机",
+3,
+"shōu yīn jī",
+"radio; CL:台[tái]"
+],
+[
+"语音",
+4,
+"yǔ yīn",
+"speech sounds; pronunciation; colloquial (rather than literary) pronunciation of a Chinese character; phonetic; audio; voice; (Internet) to voice chat; voice message"
+],
+[
+"录音机",
+6,
+"lù yīn jī",
+"(tape) recording machine; tape recorder; CL:台[tái]"
+],
+[
+"音量",
+6,
+"yīn liàng",
+"loudness; volume"
+],
+[
+"音像",
+6,
+"yīn xiàng",
+"audio and video; audiovisual"
 ],
 [
 "口音",
-6,
+7,
 "kǒu yīn",
 "oral speech sounds (linguistics)"
 ],
 [
 "口音",
-6,
+7,
 "kǒu yin",
 "voice; accent"
 ],
 [
-"收音机",
-6,
-"shōu yīn jī",
-"radio; CL:臺|台[tai2]"
-],
-[
-"噪音",
-6,
-"zào yīn",
-"rumble; noise; static (in a signal)"
+"配音",
+7,
+"pèi yīn",
+"dubbing (filmmaking)"
 ],
 [
 "音响",
-6,
+7,
 "yīn xiǎng",
-"sound; acoustics; audio; hi-fi system; stereo sound system; abbr. for 組合音響|组合音响[zu3 he2 yin1 xiang3]"
+"sound; acoustics; audio; hi-fi system; stereo sound system; abbr. for 组合音响[zǔ hé yīn xiǎng]"
+],
+[
+"噪音",
+7,
+"zào yīn",
+"rumble; noise; static (in a signal)"
 ]
 ],
 "extraWords": [
 [
-"语音",
-14.25,
-"yǔ yīn",
-"speech sounds; pronunciation; colloquial (rather than literary) pronunciation of a Chinese character; phonetic; audio; voice; (Internet) to voice chat; voice message"
-],
-[
-"音乐会",
-12.73,
-"yīn yuè huì",
-"concert; CL:場|场[chang3]"
+"音",
+54.45,
+"yīn",
+"sound; noise; note (of musical scale); tone; news; syllable; reading (phonetic value of a character)"
 ],
 [
 "嗓音",
@@ -93,6 +129,12 @@
 "to pronounce; pronunciation; to emit sound"
 ],
 [
+"音乐剧",
+8.41,
+"???",
+"???"
+],
+[
 "观音",
 6.96,
 "Guān yīn",
@@ -105,22 +147,10 @@
 "loudspeaker box; speaker (audio equipment); resonating chamber of a musical instrument; sound box"
 ],
 [
-"音像",
-6.6,
-"yīn xiàng",
-"audio and video; audiovisual"
-],
-[
 "音乐家",
 6.35,
 "yīn yuè jiā",
 "musician"
-],
-[
-"配音",
-6.1,
-"pèi yīn",
-"dubbing (filmmaking)"
 ],
 [
 "波音",

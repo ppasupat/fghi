@@ -1,6 +1,6 @@
 {
 "char": "男",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "male, man; son; baron; surname",
 "pron": "nán"
@@ -8,65 +8,71 @@
 "words": [
 [
 "男",
-2,
+1,
 "nán",
-"male; Baron, lowest of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]; CL:個|个[ge4]"
-]
-],
-"extraWords": [
-[
-"男人",
-346.03,
-"nán rén",
-"a man; a male; men; CL:個|个[ge4]"
+"male; Baron, lowest of five orders of nobility 五等爵位[wǔ děng jué wèi]; CL:个[gè]"
 ],
 [
-"男孩",
-142.46,
-"nán hái",
-"boy; CL:個|个[ge4]"
-],
-[
-"男子",
-113.72,
-"nán zǐ",
-"a man; a male"
+"男孩儿",
+1,
+"nán hái r5",
+"erhua variant of 男孩[nán hái]"
 ],
 [
 "男朋友",
-73.87,
+1,
 "nán péng you",
 "boyfriend"
 ],
 [
-"男女",
-43.95,
-"nán nǚ",
-"male-female; male and female"
+"男人",
+1,
+"nán rén",
+"a man; a male; men; CL:个[gè]"
 ],
 [
 "男生",
-38.51,
+1,
 "nán shēng",
 "schoolboy; male student; boy; guy (young adult male)"
 ],
 [
+"男子",
+3,
+"nán zǐ",
+"a man; a male"
+],
+[
+"男女",
+4,
+"nán nǚ",
+"male-female; male and female"
+],
+[
+"男士",
+4,
+"nán shì",
+"man; gentleman"
+],
+[
 "男性",
-38.38,
+5,
 "nán xìng",
 "the male sex; a male"
+]
+],
+"extraWords": [
+[
+"男孩",
+142.46,
+"nán hái",
+"boy; CL:个[gè]"
 ],
 [
 "男友",
 36.67,
 "nán yǒu",
 "boyfriend"
-],
-[
-"男士",
-17.73,
-"nán shì",
-"man; gentleman"
 ],
 [
 "男篮",
@@ -79,6 +85,12 @@
 8.79,
 "nán hái zi",
 "boy"
+],
+[
+"男主角",
+8.64,
+"???",
+"???"
 ],
 [
 "男子汉",

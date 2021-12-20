@@ -1,6 +1,6 @@
 {
 "char": "污",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "filthy, dirty, impure, polluted",
 "pron": "wū"
@@ -8,35 +8,41 @@
 "words": [
 [
 "污染",
-4,
+5,
 "wū rǎn",
-"pollution; contamination; CL:個|个[ge4]"
+"pollution; contamination; CL:个[gè]"
+],
+[
+"污水",
+5,
+"wū shuǐ",
+"sewage"
 ],
 [
 "贪污",
-6,
+7,
 "tān wū",
 "to be corrupt; corruption; to embezzle"
 ],
 [
-"污蔑",
-6,
-"wū miè",
-"variant of 污衊|污蔑[wu1 mie4]"
-],
-[
-"污蔑",
-6,
-"wū miè",
-"to slander; to smear; to tarnish"
+"污秽",
+7,
+"wū huì",
+"nasty; sordid; filthy"
 ]
 ],
 "extraWords": [
 [
-"污水",
-21.74,
-"wū shuǐ",
-"sewage"
+"污",
+7.69,
+"wū",
+"variant of 污[wū]"
+],
+[
+"污",
+7.69,
+"wū",
+"dirty; filthy; foul; corrupt; to smear; to defile; dirt; filth"
 ],
 [
 "污染物",

@@ -1,17 +1,30 @@
 {
 "char": "丫",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "forked; bifurcation",
 "pron": "yā"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "丫头",
-13.84,
+7,
 "yā tou",
 "girl; servant girl; (used deprecatingly, but sometimes also as a term of endearment)"
+]
+],
+"extraWords": [
+[
+"丫",
+36.94,
+"yā",
+"fork; branch; bifurcation; girl"
+],
+[
+"丫鬟",
+1.5,
+"yā huan",
+"servant girl; maid"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "诡",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "deceive, cheat, defraud; sly",
 "pron": "guǐ"
@@ -18,6 +18,12 @@
 7.75,
 "guǐ jì",
 "trick; ruse; crafty scheme"
+],
+[
+"诡",
+1.3,
+"guǐ",
+"sly; crafty; weird; bizarre; contradictory; inconsistent"
 ]
 ],
 "strokes": [

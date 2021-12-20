@@ -1,6 +1,6 @@
 {
 "char": "轻",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "light; easy, simple; gentle",
 "pron": "qīng"
@@ -8,13 +8,13 @@
 "words": [
 [
 "年轻",
-3,
+2,
 "nián qīng",
 "young"
 ],
 [
 "轻",
-4,
+2,
 "qīng",
 "light; easy; gentle; soft; reckless; unimportant; frivolous; small in number; unstressed; neutral; to disparage"
 ],
@@ -26,21 +26,45 @@
 ],
 [
 "轻易",
-5,
+4,
 "qīng yì",
 "easily; lightly; rashly"
 ],
 [
-"轻视",
+"减轻",
 5,
-"qīng shì",
-"contempt; contemptuous; to despise; to scorn; scornful"
+"jiǎn qīng",
+"to lighten; to ease; to alleviate"
 ],
 [
-"举足轻重",
-6,
-"jǔ zú qīng zhòng",
-"to play a critical role (idiom); influential"
+"轻而易举",
+7,
+"qīng ér yì jǔ",
+"easy; with no difficulty"
+],
+[
+"轻蔑",
+7,
+"qīng miè",
+"to contempt; to disdain; pejorative"
+],
+[
+"轻微",
+7,
+"qīng wēi",
+"slight; light; trivial; to a small extent"
+],
+[
+"轻型",
+7,
+"qīng xíng",
+"light (machinery, aircraft etc)"
+],
+[
+"无足轻重",
+7,
+"wú zú qīng zhòng",
+"insignificant"
 ]
 ],
 "extraWords": [
@@ -57,18 +81,6 @@
 "lightly; softly"
 ],
 [
-"减轻",
-34.48,
-"jiǎn qīng",
-"to lighten; to ease; to alleviate"
-],
-[
-"轻微",
-11.9,
-"qīng wēi",
-"slight; light; trivial; to a small extent"
-],
-[
 "轻度",
 10.01,
 "qīng dù",
@@ -79,6 +91,12 @@
 7.86,
 "qīng shēng",
 "quietly; softly; neutral tone; light stress"
+],
+[
+"轻轻地",
+7.59,
+"???",
+"???"
 ],
 [
 "轻薄",

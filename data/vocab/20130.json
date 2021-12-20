@@ -1,12 +1,31 @@
 {
 "char": "亢",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "high, proud; violent, excessive; skilled; name",
 "pron": "kàng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"亢奋",
+2.41,
+"kàng fèn",
+"excited; stimulated"
+],
+[
+"亢",
+1.92,
+"Kàng",
+"surname Kang; Kang, one of the 28 constellations"
+],
+[
+"亢",
+1.92,
+"kàng",
+"high; overbearing; excessive"
+]
+],
 "strokes": [
 "M 458 771 Q 492 743 529 707 Q 545 692 562 693 Q 575 693 580 709 Q 586 725 576 759 Q 564 798 453 826 Q 435 830 428 827 Q 422 823 424 808 Q 428 795 458 771 Z",
 "M 186 585 Q 149 581 177 558 Q 219 525 252 531 Q 261 541 624 598 Q 724 611 806 620 Q 819 617 831 634 Q 832 649 804 663 Q 765 687 728 678 Q 466 615 247 592 Q 217 589 186 585 Z",

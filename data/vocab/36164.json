@@ -1,6 +1,6 @@
 {
 "char": "资",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "property; wealth; capital",
 "pron": "zī"
@@ -8,75 +8,123 @@
 "words": [
 [
 "工资",
-4,
+3,
 "gōng zī",
-"wages; pay; CL:個|个[ge4],份[fen4],月[yue4]"
-],
-[
-"资料",
-5,
-"zī liào",
-"material; resources; data; information; profile (Internet); CL:份[fen4],個|个[ge4]"
-],
-[
-"投资",
-5,
-"tóu zī",
-"investment; to invest"
+"wages; pay; CL:个[gè],份[fèn],月[yuè]"
 ],
 [
 "资格",
-5,
+3,
 "zī gé",
 "qualifications; seniority"
 ],
 [
 "资金",
-5,
+3,
 "zī jīn",
 "funds; funding; capital"
 ],
 [
-"资源",
-5,
-"Zī yuán",
-"Ziyuan county in Guilin 桂林[Gui4 lin2], Guangxi"
+"投资",
+4,
+"tóu zī",
+"investment; to invest"
+],
+[
+"资料",
+4,
+"zī liào",
+"material; resources; data; information; profile (Internet); CL:份[fèn],个[gè]"
 ],
 [
 "资源",
-5,
+4,
+"Zī yuán",
+"Ziyuan county in Guilin 桂林[Guì lín], Guangxi"
+],
+[
+"资源",
+4,
 "zī yuán",
 "natural resource (such as water or minerals); resource (such as manpower or tourism)"
 ],
 [
-"资助",
-6,
-"zī zhù",
-"to subsidize; to provide financial aid; subsidy"
-],
-[
-"资产",
-6,
-"zī chǎn",
-"property; assets"
-],
-[
 "资本",
-6,
+5,
 "zī běn",
 "capital (economics)"
 ],
 [
-"资深",
+"资产",
+5,
+"zī chǎn",
+"property; assets"
+],
+[
+"资助",
+5,
+"zī zhù",
+"to subsidize; to provide financial aid; subsidy"
+],
+[
+"外资",
 6,
+"wài zī",
+"foreign investment"
+],
+[
+"出资",
+7,
+"chū zī",
+"to fund; to put money into sth; to invest"
+],
+[
+"合资",
+7,
+"hé zī",
+"joint venture"
+],
+[
+"集资",
+7,
+"jí zī",
+"to raise money; to accumulate funds"
+],
+[
+"师资",
+7,
+"shī zī",
+"qualified teacher"
+],
+[
+"物资",
+7,
+"wù zī",
+"goods; supplies"
+],
+[
+"资本主义",
+7,
+"zī běn zhǔ yì",
+"capitalism"
+],
+[
+"资历",
+7,
+"zī lì",
+"qualifications; experience; seniority"
+],
+[
+"资深",
+7,
 "zī shēn",
 "veteran (journalist etc); senior; highly experienced"
 ],
 [
-"物资",
-6,
-"wù zī",
-"goods; supplies"
+"资讯",
+7,
+"zī xùn",
+"information"
 ]
 ],
 "extraWords": [
@@ -87,28 +135,16 @@
 "investor"
 ],
 [
-"外资",
-47.19,
-"wài zī",
-"foreign investment"
+"资",
+48.63,
+"zī",
+"resources; capital; to provide; to supply; to support; money; expense"
 ],
 [
 "融资",
 47.15,
 "róng zī",
 "financing"
-],
-[
-"资本主义",
-29.05,
-"zī běn zhǔ yì",
-"capitalism"
-],
-[
-"合资",
-27.08,
-"hé zī",
-"joint venture"
 ],
 [
 "资本市场",
@@ -123,16 +159,10 @@
 "the capitalist class; the bourgeoisie"
 ],
 [
-"出资",
-19.33,
-"chū zī",
-"to fund; to put money into sth; to invest"
-],
-[
-"资讯",
-18.98,
-"zī xùn",
-"information"
+"国有资产",
+18.8,
+"???",
+"???"
 ],
 [
 "人力资源",
@@ -144,7 +174,19 @@
 "国资委",
 13.41,
 "Guó Zī Wěi",
-"see 國務院國有資產監督管理委員會|国务院国有资产监督管理委员会[Guo2 wu4 yuan4 Guo2 you3 Zi1 chan3 Jian1 du1 Guan3 li3 Wei3 yuan2 hui4]"
+"see 国务院国有资产监督管理委员会[Guó wù yuàn Guó yǒu Zī chǎn Jiān dū Guǎn lǐ Wěi yuán huì]"
+],
+[
+"证券投资",
+12.09,
+"???",
+"???"
+],
+[
+"水资源",
+11.46,
+"???",
+"???"
 ],
 [
 "资质",
@@ -159,22 +201,16 @@
 "investor"
 ],
 [
-"集资",
-10.71,
-"jí zī",
-"to raise money; to accumulate funds"
-],
-[
 "招商引资",
 10.02,
 "zhāo shāng yǐn zī",
 "investment promotion"
 ],
 [
-"师资",
-7.57,
-"shī zī",
-"qualified teacher"
+"外资银行",
+8.61,
+"???",
+"???"
 ],
 [
 "生产资料",
@@ -186,7 +222,7 @@
 "外资企业",
 6.55,
 "wài zī qǐ yè",
-"abbr. for 外商獨資企業|外商独资企业[wai4 shang1 du2 zi1 qi3 ye4]"
+"abbr. for 外商独资企业[wài shāng dú zī qǐ yè]"
 ],
 [
 "独资",
@@ -223,6 +259,12 @@
 5.62,
 "chóu zī",
 "to raise resources"
+],
+[
+"投资额",
+5.5,
+"???",
+"???"
 ],
 [
 "国土资源部",

@@ -1,6 +1,6 @@
 {
 "char": "知",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "know, perceive, comprehend",
 "pron": "zhī"
@@ -8,77 +8,161 @@
 "words": [
 [
 "知道",
-2,
+1,
 "zhī dào",
 "to know; to become aware of; also pr. [zhi1 dao5]"
 ],
 [
-"通知",
-4,
-"tōng zhī",
-"to notify; to inform; notice; notification; CL:個|个[ge4]"
+"知识",
+1,
+"zhī shi",
+"knowledge; CL:门[mén]; intellectual"
 ],
 [
-"知识",
+"通知",
+2,
+"tōng zhī",
+"to notify; to inform; notice; notification; CL:个[gè]"
+],
+[
+"通知书",
 4,
-"zhī shi",
-"knowledge; CL:門|门[men2]; intellectual"
+"tōng zhī shū",
+"written notice"
+],
+[
+"知名",
+6,
+"zhī míng",
+"well-known; famous"
+],
+[
+"不得而知",
+7,
+"bù dé ér zhī",
+"unknown; unable to find out"
+],
+[
+"不为人知",
+7,
+"bù wéi rén zhī",
+"not known to anyone; secret; unknown"
+],
+[
+"不知",
+7,
+"bù zhī",
+"not to know; unaware; unknowingly; fig. not to admit (defeat, hardships, tiredness etc)"
+],
+[
+"不知不觉",
+7,
+"bù zhī bù jué",
+"unconsciously; unwittingly"
+],
+[
+"得知",
+7,
+"dé zhī",
+"to find out; to learn of"
+],
+[
+"告知",
+7,
+"gào zhī",
+"to inform"
+],
+[
+"可想而知",
+7,
+"kě xiǎng ér zhī",
+"it is obvious that...; as one can well imagine..."
+],
+[
+"哪知道",
+7,
+"nǎ zhī dào",
+"who would have thought that ...?"
+],
+[
+"认知",
+7,
+"rèn zhī",
+"cognition; cognitive; understanding; perception; awareness; to be cognizant of; to recognize; to realize"
+],
+[
+"谁知道",
+7,
+"shéi zhī dào",
+"God knows...; Who would have imagined...?"
+],
+[
+"未知数",
+7,
+"wèi zhī shù",
+"unknown quantity"
 ],
 [
 "无知",
-6,
+7,
 "wú zhī",
 "ignorant; ignorance"
 ],
 [
+"一无所知",
+7,
+"yī wú suǒ zhī",
+"not knowing anything at all (idiom); completely ignorant; without an inkling"
+],
+[
+"知己",
+7,
+"zhī jǐ",
+"to know oneself; to be intimate or close; intimate friend"
+],
+[
 "知觉",
-6,
+7,
 "zhī jué",
 "perception; consciousness"
 ],
 [
+"知识分子",
+7,
+"zhī shi fèn zǐ",
+"intellectual; intelligentsia; learned person"
+],
+[
+"知足",
+7,
+"zhī zú",
+"content with one's situation; to know contentment (hence happiness)"
+],
+[
 "众所周知",
-6,
+7,
 "zhòng suǒ zhōu zhī",
 "as everyone knows (idiom)"
 ],
 [
 "众所周知",
-6,
+7,
 "zhòng suǒ zhōu zhī",
-"see 眾所周知|众所周知[zhong4 suo3 zhou1 zhi1]"
-],
-[
-"须知",
-6,
-"xū zhī",
-"key information; instructions; it must be borne in mind"
-],
-[
-"知足常乐",
-6,
-"zhī zú cháng lè",
-"satisfied with what one has (idiom)"
+"see 众所周知[zhòng suǒ zhōu zhī]"
 ]
 ],
 "extraWords": [
 [
-"不知",
-95.91,
-"bù zhī",
-"not to know; unaware; unknowingly; fig. not to admit (defeat, hardships, tiredness etc)"
+"不知道",
+255.39,
+"???",
+"???"
 ],
 [
-"得知",
-38.4,
-"dé zhī",
-"to find out; to learn of"
-],
-[
-"知名",
-38.24,
-"zhī míng",
-"well-known; famous"
+"知",
+115.45,
+"zhī",
+"to know; to be aware"
 ],
 [
 "知识产权",
@@ -87,34 +171,10 @@
 "intellectual property rights (law)"
 ],
 [
-"告知",
-19.86,
-"gào zhī",
-"to inform"
-],
-[
 "知情",
 19.5,
 "zhī qíng",
 "to know the facts; to understand; to be familiar with the situation"
-],
-[
-"一无所知",
-18.72,
-"yī wú suǒ zhī",
-"not knowing anything at all (idiom); completely ignorant; without an inkling"
-],
-[
-"认知",
-15.51,
-"rèn zhī",
-"cognition; cognitive; understanding; perception; awareness; to be cognizant of; to recognize; to realize"
-],
-[
-"知识分子",
-14.84,
-"zhī shi fèn zǐ",
-"intellectual; intelligentsia; learned person"
 ],
 [
 "知名度",
@@ -127,12 +187,6 @@
 10.28,
 "xiān zhī",
 "prophet"
-],
-[
-"不知不觉",
-9.39,
-"bù zhī bù jué",
-"unconsciously; unwittingly"
 ],
 [
 "未知",
@@ -153,24 +207,6 @@
 "to be fully aware of; to know perfectly well"
 ],
 [
-"通知书",
-8.63,
-"tōng zhī shū",
-"written notice"
-],
-[
-"知己",
-7.29,
-"zhī jǐ",
-"to know oneself; to be intimate or close; intimate friend"
-],
-[
-"知足",
-6.84,
-"zhī zú",
-"content with one's situation; to know contentment (hence happiness)"
-],
-[
 "已知",
 6.78,
 "yǐ zhī",
@@ -187,12 +223,6 @@
 5.67,
 "gǎn zhī",
 "perception; awareness"
-],
-[
-"可想而知",
-5.63,
-"kě xiǎng ér zhī",
-"it is obvious that...; as one can well imagine..."
 ],
 [
 "不知所措",

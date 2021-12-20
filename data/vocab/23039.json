@@ -1,6 +1,6 @@
 {
 "char": "姿",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "one's manner, carriage, bearing",
 "pron": "zī"
@@ -8,18 +8,25 @@
 "words": [
 [
 "姿势",
-5,
+7,
 "zī shì",
 "posture; position"
 ],
 [
 "姿态",
-6,
+7,
 "zī tài",
 "attitude; posture; stance"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"姿",
+12.55,
+"zī",
+"beauty; disposition; looks; appearance"
+]
+],
 "strokes": [
 "M 273 715 Q 298 694 324 670 Q 337 658 351 660 Q 361 660 365 672 Q 369 685 360 713 Q 354 731 327 743 Q 258 765 248 759 Q 244 755 245 743 Q 249 733 273 715 Z",
 "M 219 471 Q 209 471 207 456 Q 210 389 231 373 Q 235 366 244 367 Q 251 367 255 387 Q 265 417 365 578 Q 372 590 373 595 Q 374 602 366 599 Q 353 593 251 492 Q 241 482 219 471 Z",

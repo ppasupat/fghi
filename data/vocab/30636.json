@@ -1,6 +1,6 @@
 {
 "char": "瞬",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "wink, blink; in a wink, a flash",
 "pron": "shùn"
@@ -8,17 +8,23 @@
 "words": [
 [
 "瞬间",
-6,
+7,
 "shùn jiān",
 "in an instant; in a flash"
+],
+[
+"一瞬间",
+7,
+"yī shùn jiān",
+"split second"
 ]
 ],
 "extraWords": [
 [
-"一瞬间",
-13.19,
-"yī shùn jiān",
-"split second"
+"瞬",
+6.05,
+"shùn",
+"to wink"
 ]
 ],
 "strokes": [

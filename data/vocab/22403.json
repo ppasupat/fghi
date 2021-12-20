@@ -1,24 +1,30 @@
 {
 "char": "垃",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "garbage, refuse, waste",
 "pron": "lā"
 },
 "words": [
 [
-"垃圾桶",
+"垃圾",
 4,
-"lā jī tǒng",
-"rubbish bin; trash can; garbage can; Taiwan pr. [le4 se4 tong3]"
+"lā jī",
+"trash; refuse; garbage; (coll.) of poor quality; Taiwan pr. [le4 se4]"
 ]
 ],
 "extraWords": [
 [
-"垃圾",
-74.08,
-"lā jī",
-"trash; refuse; garbage; (coll.) of poor quality; Taiwan pr. [le4 se4]"
+"垃圾桶",
+7.45,
+"lā jī tǒng",
+"rubbish bin; trash can; garbage can; Taiwan pr. [le4 se4 tong3]"
+],
+[
+"垃圾箱",
+4.77,
+"lā jī xiāng",
+"rubbish can; garbage can; trash can"
 ]
 ],
 "strokes": [

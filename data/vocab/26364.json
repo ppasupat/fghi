@@ -1,12 +1,18 @@
 {
 "char": "曼",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "long, extended, vast; beautiful",
 "pron": "màn"
 },
 "words": [],
 "extraWords": [
+[
+"曼",
+49.0,
+"màn",
+"handsome; large; long"
+],
 [
 "曼哈顿",
 15.17,
@@ -24,6 +30,12 @@
 5.69,
 "Màn gǔ",
 "Bangkok, capital of Thailand"
+],
+[
+"曼尼",
+5.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

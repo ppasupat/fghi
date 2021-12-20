@@ -1,60 +1,78 @@
 {
 "char": "乡",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "country; rural; village",
 "pron": "xiāng"
 },
 "words": [
 [
-"家乡",
-5,
-"jiā xiāng",
-"hometown; native place; CL:個|个[ge4]"
-],
-[
 "故乡",
-6,
+3,
 "gù xiāng",
-"home; homeland; native place; CL:個|个[ge4]"
+"home; homeland; native place; CL:个[gè]"
 ],
 [
-"乡镇",
-6,
-"xiāng zhèn",
-"village; township"
-]
+"家乡",
+3,
+"jiā xiāng",
+"hometown; native place; CL:个[gè]"
 ],
-"extraWords": [
 [
-"城乡",
-30.78,
-"chéng xiāng",
-"city and countryside"
+"乡",
+5,
+"xiāng",
+"country or countryside; native place; home village or town; township (PRC administrative unit)"
 ],
 [
 "乡村",
-22.15,
+5,
 "xiāng cūn",
 "rustic; village; countryside"
 ],
 [
-"乡下",
-9.54,
-"xiāng xia",
-"countryside; rural area; CL:個|个[ge4]"
+"城乡",
+6,
+"chéng xiāng",
+"city and countryside"
 ],
 [
 "老乡",
-8.53,
+6,
 "lǎo xiāng",
 "fellow townsman; fellow villager; sb from the same hometown"
 ],
 [
 "下乡",
-6.26,
+7,
 "xià xiāng",
 "to go to the countryside"
+],
+[
+"乡亲",
+7,
+"xiāng qīn",
+"fellow countryman (from the same village); local people; villager; the folks back home"
+],
+[
+"乡下",
+7,
+"xiāng xia",
+"countryside; rural area; CL:个[gè]"
+]
+],
+"extraWords": [
+[
+"乡镇",
+28.67,
+"xiāng zhèn",
+"village; township"
+],
+[
+"乡镇企业",
+12.74,
+"???",
+"???"
 ],
 [
 "乡巴佬",

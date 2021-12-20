@@ -1,6 +1,6 @@
 {
 "char": "嫌",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "hate, detest; suspect; criticize",
 "pron": "xián"
@@ -10,11 +10,23 @@
 "嫌",
 6,
 "xián",
-"to dislike; suspicion; resentment; enmity; abbr. for 嫌犯[xian2 fan4], criminal suspect"
+"to dislike; suspicion; resentment; enmity; abbr. for 嫌犯[xián fàn], criminal suspect"
+],
+[
+"涉嫌",
+7,
+"shè xián",
+"to be a suspect (in a crime); to be suspected of"
+],
+[
+"嫌弃",
+7,
+"xián qì",
+"to regard with disdain; to shun"
 ],
 [
 "嫌疑",
-6,
+7,
 "xián yí",
 "suspicion; to have suspicions"
 ]
@@ -27,12 +39,6 @@
 "a suspect"
 ],
 [
-"涉嫌",
-30.44,
-"shè xián",
-"to be a suspect (in a crime); to be suspected of"
-],
-[
 "嫌犯",
 29.15,
 "xián fàn",
@@ -43,12 +49,6 @@
 21.25,
 "xián yí fàn",
 "a suspect"
-],
-[
-"嫌弃",
-7.94,
-"xián qì",
-"to regard with disdain; to shun"
 ]
 ],
 "strokes": [

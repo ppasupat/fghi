@@ -1,12 +1,32 @@
 {
 "char": "棱",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "squared timber; angle, edge",
 "pron": "lēng, léng, líng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"棱角",
+7,
+"léng jiǎo",
+"edge and corner; protrusion; sharpness (of a protrusion); craggy; ridge corner"
+]
+],
+"extraWords": [
+[
+"棱",
+2.53,
+"léng",
+"square beam; variant of 棱[léng]"
+],
+[
+"棱",
+2.53,
+"léng",
+"corner; edge; arris (sharp ridge formed by two surfaces meeting at an edge); protrusion"
+]
+],
 "strokes": [
 "M 318 515 Q 337 522 360 527 Q 396 537 401 543 Q 410 552 404 560 Q 397 572 366 577 Q 341 581 319 572 L 276 554 Q 192 524 115 511 Q 78 502 106 487 Q 148 469 226 489 Q 241 493 259 498 L 318 515 Z",
 "M 316 453 Q 316 484 318 515 L 319 572 Q 319 575 320 577 Q 321 673 341 738 Q 350 753 347 766 Q 340 776 286 809 Q 264 827 243 811 Q 239 807 244 791 Q 275 743 276 694 Q 276 630 276 554 L 271 404 Q 264 208 256 168 Q 250 135 240 101 Q 227 59 253 2 Q 259 -16 267 -19 Q 273 -25 280 -17 Q 287 -13 298 7 Q 308 32 307 62 Q 307 104 315 423 L 316 453 Z",

@@ -1,6 +1,6 @@
 {
 "char": "贫",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "poor, impoverished, needy",
 "pron": "pín"
@@ -13,10 +13,16 @@
 "impoverished; poverty"
 ],
 [
-"贫乏",
-6,
-"pín fá",
-"impoverished; lacking; deficient; limited; meager; impoverishment; lack; deficiency"
+"贫富",
+7,
+"pín fù",
+"poor and rich"
+],
+[
+"贫穷",
+7,
+"pín qióng",
+"poor; impoverished"
 ]
 ],
 "extraWords": [
@@ -27,16 +33,16 @@
 "assistance to the poor; poverty alleviation"
 ],
 [
+"贫",
+11.52,
+"pín",
+"poor; inadequate; deficient; garrulous"
+],
+[
 "贫下中农",
 8.94,
 "pín xià zhōng nóng",
 "(category defined by the Communist Party) poor and lower-middle peasants: farmers who, before land reform, possessed little or no land (poor peasants) and those who were barely able to support themselves with their own land (lower-middle peasants)"
-],
-[
-"贫穷",
-8.35,
-"pín qióng",
-"poor; impoverished"
 ],
 [
 "贫血",

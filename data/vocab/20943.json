@@ -1,11 +1,23 @@
 {
 "char": "减",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "decrease, subtract, diminish",
 "pron": "jiǎn"
 },
 "words": [
+[
+"减",
+4,
+"jiǎn",
+"to lower; to decrease; to reduce; to subtract; to diminish"
+],
+[
+"减肥",
+4,
+"jiǎn féi",
+"to lose weight"
+],
 [
 "减少",
 4,
@@ -13,36 +25,48 @@
 "to lessen; to decrease; to reduce; to lower"
 ],
 [
-"减肥",
-4,
-"jiǎn féi",
-"to lose weight"
-]
-],
-"extraWords": [
-[
 "减轻",
-34.48,
+5,
 "jiǎn qīng",
 "to lighten; to ease; to alleviate"
 ],
 [
+"减免",
+7,
+"jiǎn miǎn",
+"to reduce or waive (taxes, punishment, rent, tuition etc)"
+],
+[
 "减弱",
-12.69,
+7,
 "jiǎn ruò",
 "to weaken; to fall off"
 ],
+[
+"减速",
+7,
+"jiǎn sù",
+"to reduce speed; to slow down; to take it easy"
+],
+[
+"减压",
+7,
+"jiǎn yā",
+"to reduce pressure; to relax"
+],
+[
+"衰减",
+7,
+"shuāi jiǎn",
+"to weaken; to attenuate"
+]
+],
+"extraWords": [
 [
 "削减",
 8.79,
 "xuē jiǎn",
 "to cut down; to reduce; to lower"
-],
-[
-"减免",
-8.18,
-"jiǎn miǎn",
-"to reduce or waive (taxes, punishment, rent, tuition etc)"
 ],
 [
 "减小",
@@ -51,10 +75,10 @@
 "to reduce; to decrease; to diminish"
 ],
 [
-"减速",
-7.33,
-"jiǎn sù",
-"to reduce speed; to slow down; to take it easy"
+"减持",
+7.63,
+"???",
+"???"
 ],
 [
 "减缓",
@@ -73,12 +97,6 @@
 5.18,
 "jiǎn tuì",
 "to ebb; to go down; to decline"
-],
-[
-"减压",
-5.08,
-"jiǎn yā",
-"to reduce pressure; to relax"
 ]
 ],
 "strokes": [

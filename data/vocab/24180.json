@@ -1,11 +1,29 @@
 {
 "char": "年",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "year; new-years; person's age",
 "pron": "nián"
 },
 "words": [
+[
+"半年",
+1,
+"bàn nián",
+"half a year"
+],
+[
+"今年",
+1,
+"jīn nián",
+"this year"
+],
+[
+"明年",
+1,
+"míng nián",
+"next year"
+],
 [
 "年",
 1,
@@ -16,94 +34,292 @@
 "年",
 1,
 "nián",
-"year; CL:個|个[ge4]"
+"year; CL:个[gè]"
 ],
 [
 "年",
 1,
 "nián",
-"grain; harvest (old); variant of 年[nian2]"
+"grain; harvest (old); variant of 年[nián]"
 ],
 [
 "去年",
-2,
+1,
 "qù nián",
 "last year"
 ],
 [
+"新年",
+1,
+"xīn nián",
+"New Year; CL:个[gè]"
+],
+[
+"过年",
+2,
+"guò nián",
+"to celebrate the Chinese New Year"
+],
+[
+"老年",
+2,
+"lǎo nián",
+"elderly; old age; autumn of one's years"
+],
+[
+"年级",
+2,
+"nián jí",
+"grade; year (in school, college etc); CL:个[gè]"
+],
+[
 "年轻",
-3,
+2,
 "nián qīng",
 "young"
 ],
 [
-"年级",
-3,
-"nián jí",
-"grade; year (in school, college etc); CL:個|个[ge4]"
+"前年",
+2,
+"qián nián",
+"the year before last"
 ],
 [
-"年龄",
-4,
-"nián líng",
-"(a person's) age; CL:把[ba3],個|个[ge4]"
-],
-[
-"年代",
-5,
-"nián dài",
-"a decade of a century (e.g. the Sixties); age; era; period; CL:個|个[ge4]"
-],
-[
-"年纪",
-5,
-"nián jì",
-"age; CL:把[ba3],個|个[ge4]"
+"青年",
+2,
+"qīng nián",
+"youth; youthful years; young person; the young"
 ],
 [
 "青少年",
-5,
+2,
 "qīng shào nián",
 "adolescent; youth; teenager"
 ],
 [
+"全年",
+2,
+"quán nián",
+"the whole year; all year long"
+],
+[
+"少年",
+2,
+"shào nián",
+"early youth; youngster; (literary) youth; young man"
+],
+[
+"中年",
+2,
+"zhōng nián",
+"middle age"
+],
+[
 "周年",
-6,
+2,
 "zhōu nián",
 "anniversary; annual"
 ],
 [
+"后年",
+3,
+"hòu nián",
+"the year after next"
+],
+[
+"年初",
+3,
+"nián chū",
+"beginning of the year"
+],
+[
+"年代",
+3,
+"nián dài",
+"a decade of a century (e.g. the Sixties); age; era; period; CL:个[gè]"
+],
+[
+"年底",
+3,
+"nián dǐ",
+"the end of the year; year-end"
+],
+[
+"年纪",
+3,
+"nián jì",
+"age; CL:把[bǎ],个[gè]"
+],
+[
+"多年",
+4,
+"duō nián",
+"many years; for many years; longstanding"
+],
+[
+"童年",
+4,
+"tóng nián",
+"childhood"
+],
+[
+"学年",
+4,
+"xué nián",
+"academic year"
+],
+[
+"当年",
+5,
+"dāng nián",
+"in those days; then; in those years; during that time"
+],
+[
+"当年",
+5,
+"dàng nián",
+"that very same year"
+],
+[
 "年度",
-6,
+5,
 "nián dù",
 "year (e.g. school year, fiscal year); annual"
 ],
 [
-"逐年",
-6,
-"zhú nián",
-"year after year; with each passing year; over the years"
+"年龄",
+5,
+"nián líng",
+"(a person's) age; CL:把[bǎ],个[gè]"
 ],
 [
-"连年",
+"年前",
+5,
+"nián qián",
+"before the end of the year; before the new year"
+],
+[
+"常年",
 6,
-"lián nián",
-"successive years; over many years"
+"cháng nián",
+"all year round; for years on end; average year"
+],
+[
+"往年",
+6,
+"wǎng nián",
+"in former years; in previous years"
 ],
 [
 "拜年",
-6,
+7,
 "bài nián",
 "to pay a New Year call; to wish sb a Happy New Year"
+],
+[
+"成年",
+7,
+"chéng nián",
+"to grow to adulthood; fully grown; the whole year"
+],
+[
+"多年来",
+7,
+"duō nián lái",
+"for the past many years"
+],
+[
+"嘉年华",
+7,
+"jiā nián huá",
+"carnival (loanword)"
+],
+[
+"近年来",
+7,
+"jìn nián lái",
+"for the past few years"
+],
+[
+"来年",
+7,
+"lái nián",
+"next year; the coming year"
+],
+[
+"年画",
+7,
+"nián huà",
+"New Year (Spring Festival) picture"
+],
+[
+"年迈",
+7,
+"nián mài",
+"old; aged"
+],
+[
+"年限",
+7,
+"nián xiàn",
+"age limit; fixed number of years"
+],
+[
+"年薪",
+7,
+"nián xīn",
+"annual salary"
+],
+[
+"年夜饭",
+7,
+"nián yè fàn",
+"New Year's Eve family dinner"
+],
+[
+"年终",
+7,
+"nián zhōng",
+"end of the year"
+],
+[
+"同年",
+7,
+"tóng nián",
+"the same year"
+],
+[
+"晚年",
+7,
+"wǎn nián",
+"one's later years"
+],
+[
+"未成年人",
+7,
+"wèi chéng nián rén",
+"minor (i.e. person under 18)"
+],
+[
+"一年到头",
+7,
+"yī nián dào tóu",
+"all year round"
+],
+[
+"早年",
+7,
+"zǎo nián",
+"early years; adolescence"
+],
+[
+"逐年",
+7,
+"zhú nián",
+"year after year; with each passing year; over the years"
 ]
 ],
 "extraWords": [
-[
-"今年",
-522.91,
-"jīn nián",
-"this year"
-],
 [
 "每年",
 117.2,
@@ -111,76 +327,10 @@
 "every year; each year; yearly"
 ],
 [
-"青年",
-111.34,
-"qīng nián",
-"youth; youthful years; young person; the young"
-],
-[
-"当年",
-91.83,
-"dāng nián",
-"in those days; then; in those years; during that time"
-],
-[
-"当年",
-91.83,
-"dàng nián",
-"that very same year"
-],
-[
-"明年",
-84.95,
-"míng nián",
-"next year"
-],
-[
-"近年来",
-66.25,
-"jìn nián lái",
-"for the past few years"
-],
-[
-"半年",
-66.24,
-"bàn nián",
-"half a year"
-],
-[
-"新年",
-65.67,
-"xīn nián",
-"New Year; CL:個|个[ge4]"
-],
-[
-"多年",
-65.16,
-"duō nián",
-"many years; for many years; longstanding"
-],
-[
-"过年",
-49.51,
-"guò nián",
-"to celebrate the Chinese New Year"
-],
-[
-"少年",
-49.09,
-"shào nián",
-"early youth; youngster; (literary) youth; young man"
-],
-[
 "年轻人",
 45.19,
 "nián qīng rén",
 "young people; youngster"
-],
-[
-"年底",
-42.41,
-"nián dǐ",
-"the end of the year; year-end"
 ],
 [
 "上半年",
@@ -195,12 +345,6 @@
 "Happy New Year!"
 ],
 [
-"全年",
-32.86,
-"quán nián",
-"the whole year; all year long"
-],
-[
 "上年",
 29.8,
 "shàng nián",
@@ -211,18 +355,6 @@
 24.17,
 "jìn jǐ nián",
 "in recent years"
-],
-[
-"年初",
-24.06,
-"nián chū",
-"beginning of the year"
-],
-[
-"中年",
-23.07,
-"zhōng nián",
-"middle age"
 ],
 [
 "龙年",
@@ -237,24 +369,6 @@
 "hundred years; century; lifetime"
 ],
 [
-"老年",
-19.83,
-"lǎo nián",
-"elderly; old age; autumn of one's years"
-],
-[
-"多年来",
-19.09,
-"duō nián lái",
-"for the past many years"
-],
-[
-"年前",
-18.07,
-"nián qián",
-"before the end of the year; before the new year"
-],
-[
 "老年人",
 18.03,
 "lǎo nián rén",
@@ -267,22 +381,10 @@
 "adult person"
 ],
 [
-"童年",
-16.0,
-"tóng nián",
-"childhood"
-],
-[
 "年会",
 15.21,
 "nián huì",
 "annual meeting"
-],
-[
-"往年",
-13.31,
-"wǎng nián",
-"in former years; in previous years"
 ],
 [
 "近年",
@@ -297,22 +399,10 @@
 "start of the year; whole year; a particular year; period; days; epoch; a year's harvest"
 ],
 [
-"未成年人",
-11.37,
-"wèi chéng nián rén",
-"minor (i.e. person under 18)"
-],
-[
 "年年",
 10.97,
 "nián nián",
 "year after year; yearly; every year; annually"
-],
-[
-"同年",
-10.93,
-"tóng nián",
-"the same year"
 ],
 [
 "年产",
@@ -327,18 +417,6 @@
 "for the past several years"
 ],
 [
-"年终",
-10.16,
-"nián zhōng",
-"end of the year"
-],
-[
-"常年",
-9.71,
-"cháng nián",
-"all year round; for years on end; average year"
-],
-[
 "年均",
 9.71,
 "nián jūn",
@@ -351,28 +429,22 @@
 "annual report"
 ],
 [
-"成年",
-8.83,
-"chéng nián",
-"to grow to adulthood; fully grown; the whole year"
-],
-[
 "年末",
 8.44,
 "nián mò",
 "end of the year"
 ],
 [
-"年限",
-7.77,
-"nián xiàn",
-"age limit; fixed number of years"
+"那年",
+8.26,
+"???",
+"???"
 ],
 [
-"年薪",
-7.47,
-"nián xīn",
-"annual salary"
+"大年",
+7.9,
+"???",
+"???"
 ],
 [
 "年老",
@@ -381,10 +453,10 @@
 "aged"
 ],
 [
-"前年",
-6.66,
-"qián nián",
-"the year before last"
+"年龄段",
+6.39,
+"???",
+"???"
 ],
 [
 "本年度",
@@ -405,16 +477,40 @@
 "years; time; age"
 ],
 [
-"晚年",
-5.77,
-"wǎn nián",
-"one's later years"
+"一年一度",
+5.82,
+"???",
+"???"
+],
+[
+"第二年",
+5.8,
+"???",
+"???"
+],
+[
+"中年人",
+5.69,
+"???",
+"???"
+],
+[
+"今年初",
+5.55,
+"???",
+"???"
 ],
 [
 "年收入",
 5.51,
 "nián shōu rù",
 "annual income"
+],
+[
+"第一年",
+5.5,
+"???",
+"???"
 ],
 [
 "年间",
@@ -435,22 +531,10 @@
 "year-end bonus"
 ],
 [
-"早年",
-5.42,
-"zǎo nián",
-"early years; adolescence"
-],
-[
 "年金",
 5.36,
 "nián jīn",
 "annuity; pension; superannuation"
-],
-[
-"嘉年华",
-5.34,
-"jiā nián huá",
-"carnival (loanword)"
 ],
 [
 "历年",
@@ -475,12 +559,6 @@
 5.21,
 "nián fen",
 "particular year; certain year; given year"
-],
-[
-"年夜饭",
-5.2,
-"nián yè fàn",
-"New Year's Eve family dinner"
 ],
 [
 "青年人",

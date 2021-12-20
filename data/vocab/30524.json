@@ -1,102 +1,186 @@
 {
 "char": "眼",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "eye; eyelet, hole, opening",
 "pron": "yǎn"
 },
 "words": [
 [
+"眼",
+2,
+"yǎn",
+"eye; small hole; crux (of a matter); CL:只[zhī],双[shuāng]; classifier for big hollow things (wells, stoves, pots etc)"
+],
+[
 "眼睛",
 2,
 "yǎn jing",
-"eye; CL:隻|只[zhi1],雙|双[shuang1]"
+"eye; CL:只[zhī],双[shuāng]"
+],
+[
+"眼前",
+3,
+"yǎn qián",
+"before one's eyes; now; at present"
 ],
 [
 "眼镜",
 4,
 "yǎn jìng",
-"spectacles; eyeglasses; CL:副[fu4]"
+"spectacles; eyeglasses; CL:副[fù]"
 ],
 [
-"心眼儿",
-6,
-"xīn yǎn r5",
-"one's thoughts; mind; intention; willingness to accept new ideas; baseless suspicions"
+"眼泪",
+4,
+"yǎn lèi",
+"tears; crying; CL:滴[dī]"
 ],
 [
-"眼神",
-6,
-"yǎn shén",
-"expression or emotion showing in one's eyes; meaningful glance; wink; eyesight (dialect)"
+"眼里",
+4,
+"???",
+"???"
 ],
 [
 "眼光",
-6,
+5,
 "yǎn guāng",
 "gaze; insight; foresight; vision; way of looking at things"
 ],
 [
-"耀眼",
+"亲眼",
 6,
+"qīn yǎn",
+"with one's own eyes; personally"
+],
+[
+"眼看",
+6,
+"yǎn kàn",
+"soon; in a moment; to look on as sth happens"
+],
+[
+"不起眼",
+7,
+"bù qǐ yǎn",
+"unremarkable; nothing out of the ordinary"
+],
+[
+"红眼",
+7,
+"hóng yǎn",
+"to become infuriated; to see red; envious; jealous; covetous; pink eye (conjunctivitis); red-eye (flight)(photography) red eye"
+],
+[
+"见钱眼开",
+7,
+"jiàn qián yǎn kāi",
+"to open one's eyes wide at the sight of profit (idiom); thinking of nothing but personal gain; money-grubbing"
+],
+[
+"眉开眼笑",
+7,
+"méi kāi yǎn xiào",
+"brows raised in delight, eyes laughing (idiom); beaming with joy; all smiles"
+],
+[
+"抢眼",
+7,
+"qiǎng yǎn",
+"eye-catching"
+],
+[
+"显眼",
+7,
+"xiǎn yǎn",
+"conspicuous; eye-catching; glamorous"
+],
+[
+"心眼儿",
+7,
+"xīn yǎn r5",
+"one's thoughts; mind; intention; willingness to accept new ideas; baseless suspicions"
+],
+[
+"眼红",
+7,
+"yǎn hóng",
+"to covet; envious; jealous; green with envy; infuriated; furious"
+],
+[
+"眼界",
+7,
+"yǎn jiè",
+"ken; scope"
+],
+[
+"眼色",
+7,
+"yǎn sè",
+"signal made with one's eyes; meaningful glance"
+],
+[
+"眼神",
+7,
+"yǎn shén",
+"expression or emotion showing in one's eyes; meaningful glance; wink; eyesight (dialect)"
+],
+[
+"眼下",
+7,
+"yǎn xià",
+"now; at present; subocular (medicine)"
+],
+[
+"耀眼",
+7,
 "yào yǎn",
 "to dazzle; dazzling"
 ],
 [
-"眼色",
-6,
-"yǎn sè",
-"signal made with one's eyes; meaningful glance"
-]
-],
-"extraWords": [
-[
 "一眼",
-54.42,
+7,
 "yī yǎn",
 "a glance; a quick look; a glimpse"
 ],
 [
-"眼前",
-51.13,
-"yǎn qián",
-"before one's eyes; now; at present"
+"眨眼",
+7,
+"zhǎ yǎn",
+"to blink; to wink; in the twinkling of an eye"
 ],
 [
-"眼泪",
-42.76,
-"yǎn lèi",
-"tears; crying; CL:滴[di1]"
+"转眼",
+7,
+"zhuǎn yǎn",
+"in a flash; in the blink of an eye; to glance"
 ],
 [
-"亲眼",
-20.84,
-"qīn yǎn",
-"with one's own eyes; personally"
+"着眼",
+7,
+"zhuó yǎn",
+"to have one's eyes on (a goal); having sth in mind; to concentrate"
 ],
+[
+"着眼于",
+7,
+"???",
+"???"
+],
+[
+"字眼",
+7,
+"zì yǎn",
+"wording"
+]
+],
+"extraWords": [
 [
 "眼球",
 15.44,
 "yǎn qiú",
 "eyeball; (fig.) attention"
-],
-[
-"眼下",
-14.24,
-"yǎn xià",
-"now; at present; subocular (medicine)"
-],
-[
-"着眼",
-11.55,
-"zhuó yǎn",
-"to have one's eyes on (a goal); having sth in mind; to concentrate"
-],
-[
-"眼看",
-11.19,
-"yǎn kàn",
-"soon; in a moment; to look on as sth happens"
 ],
 [
 "眼中",
@@ -115,12 +199,6 @@
 7.57,
 "yǎn quān",
 "rim of the eye; eye socket"
-],
-[
-"眨眼",
-7.24,
-"zhǎ yǎn",
-"to blink; to wink; in the twinkling of an eye"
 ],
 [
 "眼科",
@@ -163,12 +241,6 @@
 5.51,
 "yǎn kuàng",
 "eye socket; rim of the eye"
-],
-[
-"转眼",
-5.45,
-"zhuǎn yǎn",
-"in a flash; in the blink of an eye; to glance"
 ],
 [
 "眼见",

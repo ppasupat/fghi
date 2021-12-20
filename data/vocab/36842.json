@@ -1,12 +1,31 @@
 {
 "char": "迪",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "enlighten, advance; progress",
 "pron": "dí"
 },
-"words": [],
+"words": [
+[
+"启迪",
+7,
+"qǐ dí",
+"to edify; enlightenment"
+]
+],
 "extraWords": [
+[
+"迪",
+35.72,
+"dí",
+"to enlighten"
+],
+[
+"安迪",
+15.65,
+"???",
+"???"
+],
 [
 "迪克",
 12.49,
@@ -32,10 +51,34 @@
 "Kennedy (name); J.F. Kennedy (1917-1963), US Democrat politician, president 1961-1963"
 ],
 [
+"埃迪",
+8.82,
+"???",
+"???"
+],
+[
+"巴迪",
+7.33,
+"???",
+"???"
+],
+[
+"伊迪",
+6.8,
+"???",
+"???"
+],
+[
 "迪斯科",
 5.87,
 "dí sī kē",
 "disco (loanword)"
+],
+[
+"泰迪",
+5.57,
+"???",
+"???"
 ],
 [
 "麦迪逊",
@@ -44,10 +87,16 @@
 "Madison (name); Madison, capital of Wisconsin"
 ],
 [
+"科迪",
+5.28,
+"???",
+"???"
+],
+[
 "迪斯尼",
 5.03,
 "Dí sī ní",
-"Disney (company name, surname); also written 迪士尼[Di2 shi4 ni2]"
+"Disney (company name, surname); also written 迪士尼[Dí shì ní]"
 ]
 ],
 "strokes": [

@@ -1,17 +1,11 @@
 {
 "char": "游",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "to swim; float, drift; wander, roam",
 "pron": "yóu"
 },
 "words": [
-[
-"游泳",
-2,
-"yóu yǒng",
-"swimming; to swim"
-],
 [
 "旅游",
 2,
@@ -19,10 +13,40 @@
 "trip; journey; tourism; travel; tour; to travel"
 ],
 [
+"游客",
+2,
+"yóu kè",
+"traveler; tourist; (online gaming) guest player"
+],
+[
+"游",
+3,
+"Yóu",
+"surname You"
+],
+[
+"游",
+3,
+"yóu",
+"to swim; variant of 游[yóu]"
+],
+[
+"游",
+3,
+"yóu",
+"to walk; to tour; to roam; to travel"
+],
+[
 "游戏",
 3,
 "yóu xì",
-"game; CL:場|场[chang3]; to play"
+"game; CL:场[chǎng]; to play"
+],
+[
+"游泳",
+3,
+"yóu yǒng",
+"swimming; to swim"
 ],
 [
 "导游",
@@ -31,37 +55,79 @@
 "tour guide; guidebook; to conduct a tour"
 ],
 [
-"游览",
-5,
-"yóu lǎn",
-"to go sightseeing; to tour; to visit; CL:次[ci4]"
-],
-[
-"上游",
-6,
-"shàng yóu",
-"upper reaches (of a river); upper level; upper echelon; upstream"
-]
-],
-"extraWords": [
-[
-"游客",
-54.6,
-"yóu kè",
-"traveler; tourist; (online gaming) guest player"
-],
-[
 "游泳池",
-16.07,
+5,
 "yóu yǒng chí",
-"swimming pool; CL:場|场[chang3]"
+"swimming pool; CL:场[chǎng]"
+],
+[
+"游人",
+6,
+"yóu rén",
+"a tourist"
+],
+[
+"游玩",
+6,
+"yóu wán",
+"to amuse oneself; to have fun; to go sightseeing; to take a stroll"
+],
+[
+"游戏机",
+6,
+"yóu xì jī",
+"video game; game machine"
 ],
 [
 "游行",
-15.44,
+6,
 "yóu xíng",
 "march; parade; demonstration"
 ],
+[
+"出游",
+7,
+"chū yóu",
+"to go on a tour; to have an outing"
+],
+[
+"郊游",
+7,
+"jiāo yóu",
+"to go for an outing; to go on an excursion"
+],
+[
+"漫游",
+7,
+"màn yóu",
+"to travel around; to roam; (mobile telephony) roaming"
+],
+[
+"上游",
+7,
+"shàng yóu",
+"upper reaches (of a river); upper level; upper echelon; upstream"
+],
+[
+"下游",
+7,
+"xià yóu",
+"lower reaches (of a river); lower level; lower echelon; downstream"
+],
+[
+"游船",
+7,
+"yóu chuán",
+"pleasure boat; cruise ship"
+],
+[
+"游览",
+7,
+"yóu lǎn",
+"to go sightseeing; to tour; to visit; CL:次[cì]"
+]
+],
+"extraWords": [
 [
 "旅游业",
 11.76,
@@ -72,19 +138,19 @@
 "游艇",
 10.91,
 "yóu tǐng",
-"barge; yacht; CL:隻|只[zhi1]"
+"barge; yacht; CL:只[zhī]"
 ],
 [
-"下游",
-10.8,
-"xià yóu",
-"lower reaches (of a river); lower level; lower echelon; downstream"
+"旅游局",
+8.55,
+"???",
+"???"
 ],
 [
-"游人",
-7.23,
-"yóu rén",
-"a tourist"
+"玩游戏",
+7.69,
+"???",
+"???"
 ],
 [
 "游离",
@@ -97,18 +163,6 @@
 6.71,
 "yóu dàng",
 "to wander; to roam about; to loaf about; to be idle"
-],
-[
-"出游",
-6.6,
-"chū yóu",
-"to go on a tour; to have an outing"
-],
-[
-"游玩",
-6.19,
-"yóu wán",
-"to amuse oneself; to have fun; to go sightseeing; to take a stroll"
 ]
 ],
 "strokes": [

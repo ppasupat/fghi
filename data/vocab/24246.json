@@ -1,12 +1,31 @@
 {
 "char": "庶",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "numerous, various; multitude",
 "pron": "shù"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"庶",
+1.27,
+"shù",
+"numerous; common people (or populace); born of a concubine"
+],
+[
+"庶",
+1.27,
+"shù",
+"old variant of 庶[shù]"
+],
+[
+"徐庶",
+0.82,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 503 810 Q 534 788 569 758 Q 585 745 604 747 Q 616 748 620 764 Q 624 782 611 815 Q 604 836 567 849 Q 483 874 468 863 Q 462 859 465 844 Q 471 831 503 810 Z",
 "M 333 629 Q 378 613 423 622 Q 559 647 700 676 Q 764 691 774 699 Q 784 706 779 716 Q 772 728 742 736 Q 718 742 611 709 Q 476 672 334 658 Q 331 658 330 657 C 300 653 304 638 333 629 Z",

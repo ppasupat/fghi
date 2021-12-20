@@ -1,16 +1,16 @@
 {
 "char": "究",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "examine, investigate",
 "pron": "jiū"
 },
 "words": [
 [
-"研究",
+"讲究",
 4,
-"yán jiū",
-"research; a study; CL:項|项[xiang4]; to research; to look into"
+"jiǎng jiu",
+"to pay particular attention to; carefully selected for quality; tastefully chosen"
 ],
 [
 "究竟",
@@ -19,37 +19,37 @@
 "to go to the bottom of a matter; after all; when all is said and done; (in an interrogative sentence) finally; outcome; result"
 ],
 [
-"讲究",
-5,
-"jiǎng jiu",
-"to pay particular attention to; carefully selected for quality; tastefully chosen"
+"研究",
+4,
+"yán jiū",
+"research; a study; CL:项[xiàng]; to research; to look into"
 ],
 [
-"终究",
-6,
-"zhōng jiū",
-"in the end; after all is said and done"
+"研究生",
+4,
+"yán jiū shēng",
+"graduate student; postgraduate student; research student"
+],
+[
+"研究所",
+5,
+"yán jiū suǒ",
+"research institute; graduate studies; graduate school; CL:个[gè]"
 ],
 [
 "追究",
 6,
 "zhuī jiū",
 "to investigate; to look into"
+],
+[
+"终究",
+7,
+"zhōng jiū",
+"in the end; after all is said and done"
 ]
 ],
 "extraWords": [
-[
-"研究所",
-39.05,
-"yán jiū suǒ",
-"research institute; graduate studies; graduate school; CL:個|个[ge4]"
-],
-[
-"研究生",
-26.71,
-"yán jiū shēng",
-"graduate student; postgraduate student; research student"
-],
 [
 "研究员",
 12.84,
@@ -61,6 +61,30 @@
 11.1,
 "yán jiū yuàn",
 "research institute; academy"
+],
+[
+"调查研究",
+10.88,
+"???",
+"???"
+],
+[
+"究",
+8.25,
+"jiū",
+"after all; to investigate; to study carefully; Taiwan pr. [jiu4]"
+],
+[
+"研究室",
+5.93,
+"???",
+"???"
+],
+[
+"研究会",
+5.8,
+"???",
+"???"
 ],
 [
 "研究者",

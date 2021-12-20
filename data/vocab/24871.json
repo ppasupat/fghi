@@ -1,6 +1,6 @@
 {
 "char": "愧",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "ashamed, conscience-stricken",
 "pron": "kuì"
@@ -8,23 +8,29 @@
 "words": [
 [
 "惭愧",
-5,
+7,
 "cán kuì",
 "ashamed"
 ],
 [
-"不愧",
-6,
-"bù kuì",
-"to be worthy of; to deserve to be called; to prove oneself to be"
+"当之无愧",
+7,
+"dāng zhī wú kuì",
+"fully deserving, without any reservations (idiom); entirely worthy (of a title, honor etc)"
+],
+[
+"羞愧",
+7,
+"xiū kuì",
+"ashamed"
 ]
 ],
 "extraWords": [
 [
-"羞愧",
-10.4,
-"xiū kuì",
-"ashamed"
+"不愧",
+8.42,
+"bù kuì",
+"to be worthy of; to deserve to be called; to prove oneself to be"
 ],
 [
 "愧疚",

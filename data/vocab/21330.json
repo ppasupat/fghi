@@ -1,12 +1,38 @@
 {
 "char": "卒",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "soldier; servant; at last, finally",
 "pron": "cù, zú"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"小卒",
+7,
+"xiǎo zú",
+"foot soldier; minor figure; a nobody; (chess) pawn"
+]
+],
+"extraWords": [
+[
+"卒",
+6.11,
+"zú",
+"variant of 卒[zú]"
+],
+[
+"卒",
+6.11,
+"cù",
+"variant of 猝[cù]"
+],
+[
+"卒",
+6.11,
+"zú",
+"soldier; servant; to finish; to die; finally; at last; pawn in Chinese chess"
+]
+],
 "strokes": [
 "M 479 820 Q 530 772 562 763 Q 578 762 587 776 Q 591 791 587 808 Q 569 850 488 862 Q 470 866 461 861 Q 454 858 458 846 Q 461 833 479 820 Z",
 "M 311 695 Q 275 691 300 673 Q 339 651 411 660 Q 534 678 664 697 Q 728 709 737 717 Q 746 724 742 732 Q 736 745 708 753 Q 675 762 591 735 Q 440 702 311 695 Z",

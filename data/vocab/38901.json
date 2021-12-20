@@ -1,12 +1,32 @@
 {
 "char": "韵",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "rhyme; vowel",
 "pron": "yùn"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"韵味",
+7,
+"yùn wèi",
+"implicit charm in rhyme or sound; hinted appeal; interest"
+]
+],
+"extraWords": [
+[
+"韵",
+12.3,
+"yùn",
+"the final (of a syllable) (Chinese phonology); rhyme; appeal; charm; (literary) pleasant sound"
+],
+[
+"押韵",
+3.01,
+"yā yùn",
+"to rhyme; sometimes written 壓韻|压韵"
+]
+],
 "strokes": [
 "M 329 770 Q 354 751 382 728 Q 395 716 411 718 Q 421 719 425 732 Q 428 747 418 775 Q 405 805 321 816 Q 305 817 300 815 Q 296 811 298 799 Q 302 789 329 770 Z",
 "M 195 632 Q 161 625 186 610 Q 228 592 292 607 Q 367 625 445 644 Q 482 654 488 661 Q 497 668 492 677 Q 485 687 456 694 Q 435 697 320 659 Q 236 638 195 632 Z",

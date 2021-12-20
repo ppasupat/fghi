@@ -1,6 +1,6 @@
 {
 "char": "腿",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "legs, thighs",
 "pron": "tuǐ"
@@ -8,15 +8,21 @@
 "words": [
 [
 "腿",
-3,
+2,
 "tuǐ",
-"leg; CL:條|条[tiao2]"
+"leg; CL:条[tiáo]"
 ],
 [
 "腿",
-3,
+2,
 "tuǐ",
-"hip bone; old variant of 腿[tui3]"
+"hip bone; old variant of 腿[tuǐ]"
+],
+[
+"火腿",
+5,
+"huǒ tuǐ",
+"ham; CL:个[gè]"
 ]
 ],
 "extraWords": [
@@ -31,12 +37,6 @@
 8.03,
 "xiǎo tuǐ",
 "lower leg (from knee to ankle); shank"
-],
-[
-"火腿",
-7.87,
-"huǒ tuǐ",
-"ham; CL:個|个[ge4]"
 ]
 ],
 "strokes": [

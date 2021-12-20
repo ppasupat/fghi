@@ -1,17 +1,30 @@
 {
 "char": "窒",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "stop up, obstruct",
 "pron": "zhì"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "窒息",
-12.61,
+7,
 "zhì xī",
 "to choke; to stifle; to suffocate"
+]
+],
+"extraWords": [
+[
+"窒",
+2.52,
+"zhì",
+"to obstruct; to stop up"
+],
+[
+"窒息率",
+0.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

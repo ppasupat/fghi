@@ -1,6 +1,6 @@
 {
 "char": "松",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "pine tree; fir tree",
 "pron": "sōng"
@@ -17,20 +17,56 @@
 4,
 "qīng sōng",
 "light; gentle; relaxed; effortless; uncomplicated; to relax; to take things less seriously"
-]
 ],
-"extraWords": [
+[
+"松",
+4,
+"Sōng",
+"surname Song"
+],
+[
+"松",
+4,
+"sōng",
+"pine; CL:棵[kē]"
+],
+[
+"松",
+4,
+"sōng",
+"loose; to loosen; to relax; floss (dry, fluffy food product made from shredded, seasoned meat or fish, used as a topping or filling)"
+],
+[
+"松树",
+4,
+"sōng shù",
+"pine; pine tree; CL:棵[kē]"
+],
 [
 "宽松",
-13.1,
+7,
 "kuān sōng",
 "to relax (policy); relaxed"
 ],
 [
+"松绑",
+7,
+"sōng bǎng",
+"to untie; (fig.) to ease restrictions"
+],
+[
+"松弛",
+7,
+"sōng chí",
+"to relax; relaxed; limp; lax"
+]
+],
+"extraWords": [
+[
 "松下",
 7.88,
 "Sōng xià",
-"Matsushita (name); Panasonic (brand), abbr. for 松下電器|松下电器[Song1 xia4 Dian4 qi4]"
+"Matsushita (name); Panasonic (brand), abbr. for 松下电器[Sōng xià Diàn qì]"
 ],
 [
 "松鼠",

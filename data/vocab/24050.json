@@ -1,6 +1,6 @@
 {
 "char": "已",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "already; finished; stop",
 "pron": "yǐ"
@@ -13,30 +13,54 @@
 "already"
 ],
 [
-"而已",
-6,
-"ér yǐ",
-"that's all; nothing more"
+"已",
+3,
+"yǐ",
+"already; to stop; then; afterwards"
 ],
-[
-"不得已",
-6,
-"bù dé yǐ",
-"to act against one's will; to have no alternative but to; to have to; to have no choice; must"
-]
-],
-"extraWords": [
 [
 "早已",
-48.2,
+3,
 "zǎo yǐ",
 "long ago; for a long time"
 ],
 [
+"不得已",
+7,
+"bù dé yǐ",
+"to act against one's will; to have no alternative but to; to have to; to have no choice; must"
+],
+[
 "不已",
-20.87,
+7,
 "bù yǐ",
 "endlessly; incessantly"
+],
+[
+"而已",
+7,
+"ér yǐ",
+"that's all; nothing more"
+],
+[
+"赞叹不已",
+7,
+"zàn tàn bù yǐ",
+"to be full of praise (idiom)"
+]
+],
+"extraWords": [
+[
+"已有",
+70.53,
+"???",
+"???"
+],
+[
+"已是",
+29.66,
+"???",
+"???"
 ],
 [
 "已婚",

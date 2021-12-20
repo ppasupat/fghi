@@ -1,6 +1,6 @@
 {
 "char": "块",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "piece, lump; dollar",
 "pron": "kuài"
@@ -11,15 +11,21 @@
 1,
 "kuài",
 "lump (of earth); chunk; piece; classifier for pieces of cloth, cake, soap etc; (coll.) classifier for money and currency units"
+],
+[
+"一块儿",
+1,
+"yī kuài r5",
+"erhua variant of 一块[yī kuài]"
+],
+[
+"板块",
+7,
+"bǎn kuài",
+"slab; (geology) tectonic plate; (fig.) sector (of the stock market or of industry); (economic) bloc"
 ]
 ],
 "extraWords": [
-[
-"板块",
-40.9,
-"bǎn kuài",
-"slab; (geology) tectonic plate; (fig.) sector (of the stock market or of industry); (economic) bloc"
-],
 [
 "地块",
 15.43,
@@ -31,12 +37,6 @@
 10.36,
 "mó kuài",
 "module (in software); functional unit; component part"
-],
-[
-"一块儿",
-9.51,
-"yī kuài r5",
-"erhua variant of 一塊|一块[yi1 kuai4]"
 ],
 [
 "大块头",
@@ -51,10 +51,22 @@
 "ice cube; ice chunk"
 ],
 [
+"这块",
+7.06,
+"???",
+"???"
+],
+[
 "一块",
 6.95,
 "yī kuài",
 "one block; one piece; one (unit of money); together; in the same place; in company"
+],
+[
+"大块",
+5.04,
+"???",
+"???"
 ]
 ],
 "strokes": [

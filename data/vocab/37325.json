@@ -1,34 +1,82 @@
 {
 "char": "重",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "heavy, weighty; double",
 "pron": "chóng, zhòng"
 },
 "words": [
 [
-"重要",
-3,
-"zhòng yào",
-"important; significant; major"
-],
-[
 "重",
-4,
+1,
 "chóng",
 "to repeat; repetition; again; re-; classifier: layer"
 ],
 [
 "重",
-4,
+1,
 "zhòng",
 "heavy; serious; to attach importance to"
 ],
 [
+"重要",
+1,
+"zhòng yào",
+"important; significant; major"
+],
+[
+"重复",
+2,
+"chóng fù",
+"to repeat; to duplicate; CL:个[gè]"
+],
+[
+"重复",
+2,
+"chóng fù",
+"variant of 重复[chóng fù]"
+],
+[
 "重新",
-4,
+2,
 "chóng xīn",
 "again; once more; re-"
+],
+[
+"重点",
+2,
+"chóng diǎn",
+"to recount (e.g. results of election); to re-evaluate"
+],
+[
+"重点",
+2,
+"zhòng diǎn",
+"important point; main point; focus; key (project etc); to focus on; to put the emphasis on"
+],
+[
+"重视",
+2,
+"zhòng shì",
+"to attach importance to sth; to value"
+],
+[
+"重大",
+3,
+"zhòng dà",
+"great; important; major; significant"
+],
+[
+"沉重",
+4,
+"chén zhòng",
+"heavy; hard; serious; critical"
+],
+[
+"体重",
+4,
+"tǐ zhòng",
+"body weight"
 ],
 [
 "严重",
@@ -37,130 +85,238 @@
 "grave; serious; severe; critical"
 ],
 [
-"尊重",
-4,
-"zūn zhòng",
-"to esteem; to respect; to honor; to value; eminent; serious; proper"
-],
-[
-"重点",
-4,
-"chóng diǎn",
-"to recount (e.g. results of election); to re-evaluate"
-],
-[
-"重点",
-4,
-"zhòng diǎn",
-"important point; main point; focus; key (project etc); to focus on; to put the emphasis on"
-],
-[
-"重视",
-4,
-"zhòng shì",
-"to attach importance to sth; to value"
-],
-[
-"重复",
-5,
-"chóng fù",
-"to repeat; to duplicate; CL:個|个[ge4]"
-],
-[
-"重复",
-5,
-"chóng fù",
-"variant of 重複|重复[chong2 fu4]"
-],
-[
-"重大",
-5,
-"zhòng dà",
-"great; important; major; significant"
-],
-[
 "重量",
-5,
+4,
 "zhòng liàng",
-"weight; CL:個|个[ge4]"
-],
-[
-"保重",
-6,
-"bǎo zhòng",
-"to take care of oneself"
-],
-[
-"沉重",
-6,
-"chén zhòng",
-"heavy; hard; serious; critical"
-],
-[
-"隆重",
-6,
-"lóng zhòng",
-"grand; prosperous; ceremonious; solemn"
-],
-[
-"注重",
-6,
-"zhù zhòng",
-"to pay attention to; to emphasize"
-],
-[
-"重心",
-6,
-"zhòng xīn",
-"center of gravity; central core; main part"
-],
-[
-"慎重",
-6,
-"shèn zhòng",
-"cautious; careful; prudent"
-],
-[
-"郑重",
-6,
-"zhèng zhòng",
-"serious; solemn; earnest; conscientious"
-],
-[
-"庄重",
-6,
-"zhuāng zhòng",
-"grave; solemn; dignified"
-],
-[
-"重叠",
-6,
-"chóng dié",
-"to overlap; to superimpose; to telescope; to run together; to duplicate; one over another; superposition; an overlap; redundancy; reduplication (in Chinese grammar, e.g. 散散步[san4 san4 bu4] to have a stroll)"
-],
-[
-"举足轻重",
-6,
-"jǔ zú qīng zhòng",
-"to play a critical role (idiom); influential"
-],
-[
-"着重",
-6,
-"zhuó zhòng",
-"to put emphasis on; to stress"
+"weight; CL:个[gè]"
 ],
 [
 "比重",
-6,
+5,
 "bǐ zhòng",
 "proportion; specific gravity"
 ],
 [
-"任重道远",
+"注重",
+5,
+"zhù zhòng",
+"to pay attention to; to emphasize"
+],
+[
+"尊重",
+5,
+"zūn zhòng",
+"to esteem; to respect; to honor; to value; eminent; serious; proper"
+],
+[
+"重建",
 6,
-"rèn zhòng dào yuǎn",
-"a heavy load and a long road; fig. to bear heavy responsibilities through a long struggle (cf Confucian Analects, 8.7)"
+"chóng jiàn",
+"to rebuild; to reestablish; reconstruction; rebuilding"
+],
+[
+"重组",
+6,
+"chóng zǔ",
+"to reorganize; to recombine; recombination"
+],
+[
+"保重",
+7,
+"bǎo zhòng",
+"to take care of oneself"
+],
+[
+"笨重",
+7,
+"bèn zhòng",
+"heavy; cumbersome; unwieldy"
+],
+[
+"惨重",
+7,
+"cǎn zhòng",
+"disastrous"
+],
+[
+"侧重",
+7,
+"cè zhòng",
+"to place particular emphasis on"
+],
+[
+"重播",
+7,
+"chóng bō",
+"to replay; to rerun; (agriculture) to reseed; to oversow"
+],
+[
+"重叠",
+7,
+"chóng dié",
+"to overlap; to superimpose; to telescope; to run together; to duplicate; one over another; superposition; an overlap; redundancy; reduplication (in Chinese grammar, e.g. 散散步[sàn sàn bù] to have a stroll)"
+],
+[
+"重返",
+7,
+"chóng fǎn",
+"to return to"
+],
+[
+"重合",
+7,
+"chóng hé",
+"to match up; to coincide"
+],
+[
+"重申",
+7,
+"chóng shēn",
+"to reaffirm; to reiterate"
+],
+[
+"重现",
+7,
+"chóng xiàn",
+"to reappear"
+],
+[
+"繁重",
+7,
+"fán zhòng",
+"heavy; burdensome; heavy-duty; arduous; onerous"
+],
+[
+"贵重",
+7,
+"guì zhòng",
+"precious"
+],
+[
+"加重",
+7,
+"jiā zhòng",
+"to make heavier; to emphasize; (of an illness etc) to become more serious; to aggravate (a bad situation); to increase (a burden, punishment etc)"
+],
+[
+"敬重",
+7,
+"jìng zhòng",
+"to respect deeply; to revere; to esteem"
+],
+[
+"举重",
+7,
+"jǔ zhòng",
+"to lift weights; weight-lifting (sports)"
+],
+[
+"看重",
+7,
+"kàn zhòng",
+"to regard as important; to care about"
+],
+[
+"隆重",
+7,
+"lóng zhòng",
+"grand; prosperous; ceremonious; solemn"
+],
+[
+"浓重",
+7,
+"nóng zhòng",
+"dense; thick; strong; rich (colors); heavy (aroma); deep (friendship); profound (effect)"
+],
+[
+"慎重",
+7,
+"shèn zhòng",
+"cautious; careful; prudent"
+],
+[
+"双重",
+7,
+"shuāng chóng",
+"double"
+],
+[
+"稳重",
+7,
+"wěn zhòng",
+"steady; earnest; staid"
+],
+[
+"无足轻重",
+7,
+"wú zú qīng zhòng",
+"insignificant"
+],
+[
+"珍重",
+7,
+"zhēn zhòng",
+"precious; extremely valuable; (honorific) Please take good care of yourself!"
+],
+[
+"郑重",
+7,
+"zhèng zhòng",
+"serious; solemn; earnest; conscientious"
+],
+[
+"至关重要",
+7,
+"zhì guān zhòng yào",
+"extremely important; vital; crucial; essential"
+],
+[
+"重创",
+7,
+"zhòng chuāng",
+"to inflict heavy losses; to inflict serious damage"
+],
+[
+"重量级",
+7,
+"zhòng liàng jí",
+"heavyweight (boxing etc)"
+],
+[
+"重任",
+7,
+"zhòng rèn",
+"heavy responsibility"
+],
+[
+"重伤",
+7,
+"zhòng shāng",
+"seriously hurt; serious injury"
+],
+[
+"重心",
+7,
+"zhòng xīn",
+"center of gravity; central core; main part"
+],
+[
+"重型",
+7,
+"zhòng xíng",
+"heavy; heavy duty; large caliber"
+],
+[
+"重中之重",
+7,
+"zhòng zhōng zhī zhòng",
+"of the utmost importance; of highest priority"
+],
+[
+"着重",
+7,
+"zhuó zhòng",
+"to put emphasis on; to stress"
 ]
 ],
 "extraWords": [
@@ -168,43 +324,13 @@
 "重庆",
 68.16,
 "Chóng qìng",
-"Chongqing city (Chungking), formerly in Sichuan province, a municipality since 1997, short name 渝[Yu2]"
-],
-[
-"重组",
-42.22,
-"chóng zǔ",
-"to reorganize; to recombine; recombination"
-],
-[
-"体重",
-32.27,
-"tǐ zhòng",
-"body weight"
+"Chongqing city (Chungking), formerly in Sichuan province, a municipality since 1997, short name 渝[Yú]"
 ],
 [
 "重要性",
 20.48,
 "zhòng yào xìng",
 "importance"
-],
-[
-"加重",
-19.76,
-"jiā zhòng",
-"to make heavier; to emphasize; (of an illness etc) to become more serious; to aggravate (a bad situation); to increase (a burden, punishment etc)"
-],
-[
-"重建",
-19.06,
-"chóng jiàn",
-"to rebuild; to reestablish; reconstruction; rebuilding"
-],
-[
-"双重",
-15.27,
-"shuāng chóng",
-"double"
 ],
 [
 "重重",
@@ -219,52 +345,16 @@
 "heavily; severely"
 ],
 [
-"重伤",
-11.73,
-"zhòng shāng",
-"seriously hurt; serious injury"
-],
-[
 "重庆市",
 11.38,
 "Chóng qìng shì",
-"Chongqing city, formerly in Sichuan province, a municipality since 1997, short name 渝[Yu2]"
-],
-[
-"看重",
-11.38,
-"kàn zhòng",
-"to regard as important; to care about"
-],
-[
-"至关重要",
-10.22,
-"zhì guān zhòng yào",
-"extremely important; vital; crucial; essential"
-],
-[
-"重返",
-9.94,
-"chóng fǎn",
-"to return to"
-],
-[
-"重申",
-9.77,
-"chóng shēn",
-"to reaffirm; to reiterate"
+"Chongqing city, formerly in Sichuan province, a municipality since 1997, short name 渝[Yú]"
 ],
 [
 "多重",
 8.31,
 "duō chóng",
 "multi- (faceted, cultural, ethnic etc)"
-],
-[
-"重任",
-8.21,
-"zhòng rèn",
-"heavy responsibility"
 ],
 [
 "权重",
@@ -279,28 +369,10 @@
 "serious; severe"
 ],
 [
-"重型",
-6.43,
-"zhòng xíng",
-"heavy; heavy duty; large caliber"
-],
-[
-"侧重",
-6.38,
-"cè zhòng",
-"to place particular emphasis on"
-],
-[
 "重罪",
 6.35,
 "zhòng zuì",
 "serious crime; felony"
-],
-[
-"稳重",
-5.83,
-"wěn zhòng",
-"steady; earnest; staid"
 ],
 [
 "重演",
@@ -325,24 +397,6 @@
 5.5,
 "hòu zhòng",
 "thick; heavy; thickset (body); massive; generous; extravagant; profound; dignified"
-],
-[
-"重量级",
-5.48,
-"zhòng liàng jí",
-"heavyweight (boxing etc)"
-],
-[
-"重现",
-5.36,
-"chóng xiàn",
-"to reappear"
-],
-[
-"惨重",
-5.19,
-"cǎn zhòng",
-"disastrous"
 ]
 ],
 "strokes": [

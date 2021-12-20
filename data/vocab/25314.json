@@ -1,6 +1,6 @@
 {
 "char": "拢",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "collect, bring together",
 "pron": "lǒng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "靠拢",
-6,
+7,
 "kào lǒng",
 "to draw close to"
+],
+[
+"拉拢",
+7,
+"lā lǒng",
+"to rope in; fig. to involve sb; to entice"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"拢",
+8.33,
+"lǒng",
+"to gather together; to collect; to approach; to draw near to; to add; to sum up; to comb (hair)"
+]
+],
 "strokes": [
 "M 334 548 Q 353 555 376 560 Q 412 570 417 577 Q 424 584 420 593 Q 413 603 383 609 Q 358 613 337 603 L 286 583 Q 205 558 135 545 Q 99 536 126 522 Q 172 501 221 518 Q 251 527 285 535 L 334 548 Z",
 "M 280 340 Q 279 252 276 143 Q 275 121 262 112 Q 258 109 181 117 Q 148 127 151 116 Q 152 109 174 96 Q 240 50 257 22 Q 278 -9 293 -10 Q 308 -11 322 23 Q 338 69 336 141 Q 330 261 330 379 L 330 411 Q 330 480 334 548 L 337 603 Q 337 675 358 744 Q 374 774 320 797 Q 286 816 267 810 Q 249 803 265 780 Q 286 753 287 719 Q 288 703 286 583 L 285 535 Q 284 471 281 381 L 280 340 Z",

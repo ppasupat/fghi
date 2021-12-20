@@ -1,70 +1,100 @@
 {
 "char": "得",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "obtain, get, gain, acquire",
 "pron": "dé, de, děi"
 },
 "words": [
 [
-"得",
-2,
-"dé",
-"to obtain; to get; to gain; to catch (a disease); proper; suitable; proud; contented; to allow; to permit; ready; finished"
-],
-[
-"得",
-2,
-"de",
-"structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc"
-],
-[
-"得",
-2,
-"děi",
-"to have to; must; ought to; to need to"
-],
-[
-"觉得",
-2,
-"jué de",
-"to think; to feel"
+"得到",
+1,
+"dé dào",
+"to get; to obtain; to receive"
 ],
 [
 "记得",
-3,
+1,
 "jì de",
 "to remember"
 ],
 [
+"觉得",
+1,
+"jué de",
+"to think; to feel"
+],
+[
 "得",
-4,
+2,
 "dé",
 "to obtain; to get; to gain; to catch (a disease); proper; suitable; proud; contented; to allow; to permit; ready; finished"
 ],
 [
 "得",
-4,
+2,
 "de",
 "structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc"
 ],
 [
 "得",
-4,
+2,
 "děi",
 "to have to; must; ought to; to need to"
 ],
 [
+"得出",
+2,
+"dé chū",
+"to obtain (results); to arrive at (a conclusion)"
+],
+[
+"懂得",
+2,
+"dǒng de",
+"to understand; to know; to comprehend"
+],
+[
+"取得",
+2,
+"qǔ dé",
+"to acquire; to get; to obtain"
+],
+[
+"不得不",
+3,
+"bù dé bù",
+"have no choice or option but to; cannot but; have to; can't help it; can't avoid"
+],
+[
+"得分",
+3,
+"dé fēn",
+"to score"
+],
+[
+"认得",
+3,
+"rèn de",
+"to recognize; to remember sth (or sb) on seeing it; to know"
+],
+[
+"显得",
+3,
+"xiǎn de",
+"to seem; to look; to appear"
+],
+[
 "值得",
-4,
+3,
 "zhí de",
 "to be worth; to deserve"
 ],
 [
-"不得不",
+"得意",
 4,
-"bù dé bù",
-"have no choice or option but to; cannot but; have to; can't help it; can't avoid"
+"dé yì",
+"proud of oneself; pleased with oneself; complacent"
 ],
 [
 "获得",
@@ -79,22 +109,10 @@
 "there's still time; able to do sth in time"
 ],
 [
-"得意",
+"赢得",
 4,
-"dé yì",
-"proud of oneself; pleased with oneself; complacent"
-],
-[
-"显得",
-5,
-"xiǎn de",
-"to seem; to look; to appear"
-],
-[
-"怪不得",
-5,
-"guài bu de",
-"no wonder!; so that's why!"
+"yíng dé",
+"to win; to gain"
 ],
 [
 "不得了",
@@ -103,16 +121,58 @@
 "desperately serious; disastrous; extremely; exceedingly"
 ],
 [
+"得了",
+5,
+"dé le",
+"all right!; that's enough!"
+],
+[
+"得了",
+5,
+"dé liǎo",
+"(emphatically, in rhetorical questions) possible"
+],
+[
+"得以",
+5,
+"dé yǐ",
+"able to; so that sb can; enabling; in order to; finally in a position to; with sth in view"
+],
+[
+"难得",
+5,
+"nán dé",
+"seldom; rare; hard to come by"
+],
+[
 "舍不得",
 5,
 "shě bu de",
 "to hate to do sth; to hate to part with; to begrudge"
 ],
 [
-"不见得",
+"舍得",
 5,
-"bù jiàn de",
-"not necessarily; not likely"
+"shě de",
+"to be willing to part with sth"
+],
+[
+"使得",
+5,
+"shǐ de",
+"usable; workable; feasible; doable; to make; to cause"
+],
+[
+"看得见",
+6,
+"kàn dé jiàn",
+"can see; visible"
+],
+[
+"看得起",
+6,
+"kàn de qǐ",
+"to show respect for; to think highly of"
 ],
 [
 "免得",
@@ -121,91 +181,205 @@
 "so as not to; so as to avoid"
 ],
 [
-"难得",
+"晓得",
 6,
-"nán dé",
-"seldom; rare; hard to come by"
+"xiǎo de",
+"to know"
 ],
 [
-"得罪",
+"用得着",
 6,
-"dé zuì",
-"to commit an offense; to violate the law; excuse me! (formal); see also 得罪[de2 zui5]"
+"yòng de zháo",
+"to be able to use; useable; to have a use for sth; (in interrogative sentence) to be necessary to"
 ],
 [
-"得罪",
+"只得",
 6,
-"dé zui",
-"to offend sb; to make a faux pas; a faux pas; see also 得罪[de2 zui4]"
-],
-[
-"不得已",
-6,
-"bù dé yǐ",
-"to act against one's will; to have no alternative but to; to have to; to have no choice; must"
-],
-[
-"恨不得",
-6,
-"hèn bu de",
-"wishing one could do sth; to hate to be unable; itching to do sth"
-],
-[
-"得力",
-6,
-"dé lì",
-"able; capable; competent; efficient"
+"zhǐ dé",
+"to have no alternative but to; to be obliged to"
 ],
 [
 "巴不得",
-6,
+7,
 "bā bu de",
 "(coll.) to be eager for; to long for; to look forward to"
 ],
 [
-"心得",
-6,
-"xīn dé",
-"what one has learned (through experience, reading etc); knowledge; insight; understanding; tips; CL:項|项[xiang4],個|个[ge4]"
+"不见得",
+7,
+"bù jiàn de",
+"not necessarily; not likely"
 ],
 [
-"一举两得",
-6,
-"yī jǔ liǎng dé",
-"one move, two gains (idiom); two birds with one stone"
+"不得而知",
+7,
+"bù dé ér zhī",
+"unknown; unable to find out"
+],
+[
+"不得已",
+7,
+"bù dé yǐ",
+"to act against one's will; to have no alternative but to; to have to; to have no choice; must"
 ],
 [
 "不由得",
-6,
+7,
 "bù yóu de",
 "can't help; cannot but"
 ],
 [
 "得不偿失",
-6,
+7,
 "dé bù cháng shī",
 "the gains do not make up for the losses (idiom)"
 ],
 [
+"得当",
+7,
+"dé dàng",
+"appropriate; suitable"
+],
+[
+"得力",
+7,
+"dé lì",
+"able; capable; competent; efficient"
+],
+[
+"得失",
+7,
+"dé shī",
+"gains and losses; success and failure; merits and demerits"
+],
+[
+"得手",
+7,
+"dé shǒu",
+"to go smoothly; to come off; to succeed"
+],
+[
+"得体",
+7,
+"dé tǐ",
+"appropriate to the occasion; fitting"
+],
+[
 "得天独厚",
-6,
+7,
 "dé tiān dú hòu",
 "blessed by heaven (idiom); enjoying exceptional advantages; favored by nature"
+],
+[
+"得益于",
+7,
+"dé yì yú",
+"to benefit from; thanks to"
+],
+[
+"得意扬扬",
+7,
+"dé yì yáng yáng",
+"variant of 得意洋洋[dé yì yáng yáng]"
+],
+[
+"得知",
+7,
+"dé zhī",
+"to find out; to learn of"
+],
+[
+"得罪",
+7,
+"dé zuì",
+"to commit an offense; to violate the law; excuse me! (formal); see also 得罪[dé zui]"
+],
+[
+"得罪",
+7,
+"dé zui",
+"to offend sb; to make a faux pas; a faux pas; see also 得罪[dé zuì]"
+],
+[
+"对得起",
+7,
+"duì de qǐ",
+"not to let sb down; to treat sb fairly; be worthy of"
+],
+[
+"多劳多得",
+7,
+"duō láo duō dé",
+"work more and get more"
+],
+[
+"非得",
+7,
+"fēi děi",
+"(followed by a verb phrase, then – optionally – 不可, or 不行 etc) must"
+],
+[
+"顾不得",
+7,
+"gù bu de",
+"unable to change sth; unable to deal with"
+],
+[
+"怪不得",
+7,
+"guài bu de",
+"no wonder!; so that's why!"
+],
+[
+"恨不得",
+7,
+"hèn bu de",
+"wishing one could do sth; to hate to be unable; itching to do sth"
+],
+[
+"看得出",
+7,
+"kàn de chū",
+"can see; can tell"
+],
+[
+"哭笑不得",
+7,
+"kū xiào bù dé",
+"lit. not to know whether to laugh or cry (idiom); both funny and extremely embarrassing; between laughter and tears"
+],
+[
+"懒得",
+7,
+"lǎn dé",
+"not to feel like (doing sth); disinclined to"
+],
+[
+"难得一见",
+7,
+"nán dé yī jiàn",
+"rarely seen"
+],
+[
+"心安理得",
+7,
+"xīn ān lǐ dé",
+"to have a clear conscience; to have no qualms about sth"
+],
+[
+"心得",
+7,
+"xīn dé",
+"what one has learned (through experience, reading etc); knowledge; insight; understanding; tips; CL:项[xiàng],个[gè]"
+],
+[
+"怡然自得",
+7,
+"yí rán zì dé",
+"happy and content (idiom)"
 ]
 ],
 "extraWords": [
-[
-"得到",
-357.17,
-"dé dào",
-"to get; to obtain; to receive"
-],
-[
-"取得",
-201.82,
-"qǔ dé",
-"to acquire; to get; to obtain"
-],
 [
 "变得",
 85.61,
@@ -219,64 +393,10 @@
 "must not; may not; not to be allowed; cannot"
 ],
 [
-"使得",
-80.27,
-"shǐ de",
-"usable; workable; feasible; doable; to make; to cause"
-],
-[
-"赢得",
-76.16,
-"yíng dé",
-"to win; to gain"
-],
-[
-"懂得",
-52.62,
-"dǒng de",
-"to understand; to know; to comprehend"
-],
-[
-"得知",
-38.4,
-"dé zhī",
-"to find out; to learn of"
-],
-[
-"得了",
-34.8,
-"dé le",
-"all right!; that's enough!"
-],
-[
-"得了",
-34.8,
-"dé liǎo",
-"(emphatically, in rhetorical questions) possible"
-],
-[
-"得以",
-31.8,
-"dé yǐ",
-"able to; so that sb can; enabling; in order to; finally in a position to; with sth in view"
-],
-[
 "彼得",
 30.35,
 "Bǐ dé",
 "Peter (name)"
-],
-[
-"得分",
-29.46,
-"dé fēn",
-"to score"
-],
-[
-"得出",
-29.0,
-"dé chū",
-"to obtain (results); to arrive at (a conclusion)"
 ],
 [
 "夺得",
@@ -297,40 +417,16 @@
 "to deserve"
 ],
 [
-"晓得",
-17.14,
-"xiǎo de",
-"to know"
+"就得",
+18.26,
+"???",
+"???"
 ],
 [
-"非得",
-16.22,
-"fēi děi",
-"(followed by a verb phrase, then – optionally – 不可, or 不行 etc) must"
-],
-[
-"只得",
-14.43,
-"zhǐ dé",
-"to have no alternative but to; to be obliged to"
-],
-[
-"舍得",
-13.27,
-"shě de",
-"to be willing to part with sth"
-],
-[
-"懒得",
-11.67,
-"lǎn dé",
-"not to feel like (doing sth); disinclined to"
-],
-[
-"认得",
-10.58,
-"rèn de",
-"to recognize; to remember sth (or sb) on seeing it; to know"
+"个人所得",
+10.33,
+"???",
+"???"
 ],
 [
 "所得税",
@@ -339,22 +435,16 @@
 "income tax"
 ],
 [
-"得手",
-10.08,
-"dé shǒu",
-"to go smoothly; to come off; to succeed"
-],
-[
 "不值得",
 8.27,
 "bù zhí de",
 "unworthy"
 ],
 [
-"看得出",
-7.05,
-"kàn de chū",
-"can see; can tell"
+"没得",
+8.09,
+"???",
+"???"
 ],
 [
 "得主",
@@ -363,28 +453,22 @@
 "recipient (of an award); winner (in a competition)"
 ],
 [
-"得益于",
-6.65,
-"dé yì yú",
-"to benefit from; thanks to"
-],
-[
 "得逞",
 6.47,
 "dé chěng",
 "to prevail; to have one's way; to get away with it"
 ],
 [
-"得失",
-6.33,
-"dé shī",
-"gains and losses; success and failure; merits and demerits"
-],
-[
 "来得",
 5.54,
 "lái de",
 "to emerge (from a comparison); to come out as; to be competent or equal to"
+],
+[
+"算得",
+5.39,
+"???",
+"???"
 ],
 [
 "了得",

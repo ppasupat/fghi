@@ -1,6 +1,6 @@
 {
 "char": "而",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "and; and then; and yet; but",
 "pron": "ér"
@@ -8,7 +8,7 @@
 "words": [
 [
 "而且",
-3,
+2,
 "ér qiě",
 "(not only ...) but also; moreover; in addition; furthermore"
 ],
@@ -19,16 +19,22 @@
 "and; as well as; and so; but (not); yet (not); (indicates causal relation); (indicates change of state); (indicates contrast)"
 ],
 [
+"而是",
+4,
+"ér shì",
+"rather"
+],
+[
+"反而",
+4,
+"fǎn ér",
+"instead; on the contrary; contrary (to expectations)"
+],
+[
 "然而",
 4,
 "rán ér",
 "however; yet; but"
-],
-[
-"反而",
-5,
-"fǎn ér",
-"instead; on the contrary; contrary (to expectations)"
 ],
 [
 "从而",
@@ -43,66 +49,156 @@
 "therefore; as a result; thus; and as a result, ..."
 ],
 [
-"而已",
-6,
-"ér yǐ",
-"that's all; nothing more"
-],
-[
-"总而言之",
-6,
-"zǒng ér yán zhī",
-"in short; in a word; in brief"
-],
-[
-"半途而废",
-6,
-"bàn tú ér fèi",
-"to give up halfway (idiom); leave sth unfinished"
-],
-[
-"进而",
-6,
-"jìn ér",
-"and then (what follows next)"
-],
-[
 "时而",
 6,
 "shí ér",
 "occasionally; from time to time"
 ],
 [
-"不言而喻",
-6,
-"bù yán ér yù",
-"it goes without saying; it is self-evident"
+"半途而废",
+7,
+"bàn tú ér fèi",
+"to give up halfway (idiom); leave sth unfinished"
 ],
 [
-"锲而不舍",
-6,
-"qiè ér bù shě",
-"to chip away at a task and not abandon it (idiom); to chisel away at sth; to persevere; unflagging efforts"
+"不翼而飞",
+7,
+"bù yì ér fēi",
+"to disappear without trace; to vanish all of a sudden; to spread fast; to spread like wildfire"
 ],
 [
-"侃侃而谈",
-6,
-"kǎn kǎn ér tán",
-"to speak frankly with assurance"
+"不辞而别",
+7,
+"bù cí ér bié",
+"to leave without saying good-bye"
+],
+[
+"不得而知",
+7,
+"bù dé ér zhī",
+"unknown; unable to find out"
+],
+[
+"不约而同",
+7,
+"bù yuē ér tóng",
+"to agree by chance (idiom); taking the same action without prior consultation"
+],
+[
+"而已",
+7,
+"ér yǐ",
+"that's all; nothing more"
+],
+[
+"继而",
+7,
+"jì ér",
+"then; afterwards"
+],
+[
+"进而",
+7,
+"jìn ér",
+"and then (what follows next)"
+],
+[
+"敬而远之",
+7,
+"jìng ér yuǎn zhī",
+"to show respect from a distance (idiom); to remain at a respectful distance"
+],
+[
+"可想而知",
+7,
+"kě xiǎng ér zhī",
+"it is obvious that...; as one can well imagine..."
+],
+[
+"扑面而来",
+7,
+"pū miàn ér lái",
+"lit. sth hits one in the face; directly in one's face; sth assaults the senses; blatant (advertising); eye-catching; (a smell) assaults the nostrils"
+],
+[
+"轻而易举",
+7,
+"qīng ér yì jǔ",
+"easy; with no difficulty"
+],
+[
+"取而代之",
+7,
+"qǔ ér dài zhī",
+"to substitute for sb; to remove and replace"
+],
+[
+"似是而非",
+7,
+"sì shì ér fēi",
+"apparently right but actually wrong; specious (idiom)"
+],
+[
+"脱口而出",
+7,
+"tuō kǒu ér chū",
+"to blurt out; to let slip (an indiscreet remark)"
+],
+[
+"脱颖而出",
+7,
+"tuō yǐng ér chū",
+"to reveal one's talent (idiom); to rise above others; to distinguish oneself"
+],
+[
+"显而易见",
+7,
+"xiǎn ér yì jiàn",
+"clearly and easy to see (idiom); obviously; clearly; it goes without saying"
+],
+[
+"相对而言",
+7,
+"xiāng duì ér yán",
+"relatively speaking; comparatively speaking"
+],
+[
+"一概而论",
+7,
+"yī gài ér lùn",
+"to lump different matters together (idiom)"
+],
+[
+"因人而异",
+7,
+"yīn rén ér yì",
+"varying from person to person (idiom); different for each individual"
+],
+[
+"自然而然",
+7,
+"zì rán ér rán",
+"involuntary; automatically"
+],
+[
+"总而言之",
+7,
+"zǒng ér yán zhī",
+"in short; in a word; in brief"
 ]
 ],
 "extraWords": [
-[
-"而是",
-180.06,
-"ér shì",
-"rather"
-],
 [
 "而言",
 43.79,
 "ér yán",
 "with regard to (preceding phrase)"
+],
+[
+"有感而发",
+38.4,
+"???",
+"???"
 ],
 [
 "而后",
@@ -111,28 +207,10 @@
 "after that; then"
 ],
 [
-"显而易见",
-7.18,
-"xiǎn ér yì jiàn",
-"clearly and easy to see (idiom); obviously; clearly; it goes without saying"
-],
-[
-"脱颖而出",
-7.06,
-"tuō yǐng ér chū",
-"to reveal one's talent (idiom); to rise above others; to distinguish oneself"
-],
-[
 "擦肩而过",
 6.52,
 "cā jiān ér guò",
 "brief encounter; to brush past sb"
-],
-[
-"继而",
-6.12,
-"jì ér",
-"then; afterwards"
 ],
 [
 "尽力而为",
@@ -145,18 +223,6 @@
 5.66,
 "zhuǎn ér",
 "to turn to (sth else); to switch to"
-],
-[
-"可想而知",
-5.63,
-"kě xiǎng ér zhī",
-"it is obvious that...; as one can well imagine..."
-],
-[
-"不约而同",
-5.43,
-"bù yuē ér tóng",
-"to agree by chance (idiom); taking the same action without prior consultation"
 ]
 ],
 "strokes": [

@@ -1,11 +1,17 @@
 {
 "char": "编",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "knit, weave; arrange; compile",
 "pron": "biān"
 },
 "words": [
+[
+"编",
+4,
+"biān",
+"to weave; to plait; to organize; to group; to arrange; to edit; to compile; to write; to compose; to fabricate; to make up"
+],
 [
 "编辑",
 5,
@@ -13,61 +19,67 @@
 "to edit; to compile; editor; compiler"
 ],
 [
-"编织",
-6,
-"biān zhī",
-"to weave; to knit; to plait; to braid; (fig.) to create (sth abstract, e.g. a dream, a lie etc)"
-]
-],
-"extraWords": [
-[
 "编制",
-38.42,
+6,
 "biān zhì",
 "to establish (a unit or department); staffing structure (excluding temporary and casual staff)"
 ],
 [
 "编制",
-38.42,
+6,
 "biān zhì",
 "to weave; to plait; to compile; to put together (a lesson plan, budget etc)"
 ],
 [
-"主编",
-13.53,
-"zhǔ biān",
-"editor in chief"
-],
-[
 "编号",
-12.25,
+7,
 "biān hào",
 "to number; numbering; serial number"
 ],
 [
-"改编",
-11.18,
-"gǎi biān",
-"to adapt; to rearrange; to revise"
-],
-[
-"编写",
-10.26,
-"biān xiě",
-"to compile"
+"编剧",
+7,
+"biān jù",
+"to write a play; scenario; dramatist; screenwriter"
 ],
 [
 "编排",
-10.08,
+7,
 "biān pái",
 "to arrange; to lay out"
 ],
 [
-"编剧",
-9.56,
-"biān jù",
-"to write a play; scenario; dramatist; screenwriter"
+"编写",
+7,
+"biān xiě",
+"to compile"
 ],
+[
+"编造",
+7,
+"biān zào",
+"to compile; to draw up; to fabricate; to invent; to concoct; to make up; to cook up"
+],
+[
+"改编",
+7,
+"gǎi biān",
+"to adapt; to rearrange; to revise"
+],
+[
+"邮编",
+7,
+"yóu biān",
+"postal code; zip code"
+],
+[
+"主编",
+7,
+"zhǔ biān",
+"editor in chief"
+]
+],
+"extraWords": [
 [
 "编译",
 8.34,
@@ -81,10 +93,10 @@
 "to code; to encode; code"
 ],
 [
-"编造",
-7.06,
-"biān zào",
-"to compile; to draw up; to fabricate; to invent; to concoct; to make up; to cook up"
+"编织",
+6.09,
+"biān zhī",
+"to weave; to knit; to plait; to braid; (fig.) to create (sth abstract, e.g. a dream, a lie etc)"
 ]
 ],
 "strokes": [

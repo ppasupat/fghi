@@ -1,6 +1,6 @@
 {
 "char": "欠",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "owe, lack, be deficient; KangXi radical number 76",
 "pron": "qiàn"
@@ -11,22 +11,27 @@
 5,
 "qiàn",
 "deficient; to owe; to lack; yawn"
-]
-],
-"extraWords": [
-[
-"拖欠",
-13.11,
-"tuō qiàn",
-"in arrears; behind in payments; to default on one's debts"
 ],
 [
 "欠缺",
-6.6,
+7,
 "qiàn quē",
 "to be deficient in; lapse; deficiency"
+],
+[
+"欠条",
+7,
+"qiàn tiáo",
+"IOU; certificate of indebtedness"
+],
+[
+"拖欠",
+7,
+"tuō qiàn",
+"in arrears; behind in payments; to default on one's debts"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 398 575 Q 416 606 431 637 Q 464 707 496 765 Q 506 781 488 797 Q 433 833 404 826 Q 391 822 395 805 Q 419 667 274 478 Q 250 454 204 394 Q 197 375 214 382 Q 278 400 376 541 L 398 575 Z",
 "M 376 541 Q 395 525 443 539 Q 558 570 663 594 Q 700 598 702 582 Q 701 560 655 478 Q 648 462 655 457 Q 662 453 676 466 Q 766 545 803 563 Q 833 573 830 590 Q 829 603 747 642 Q 719 654 627 624 Q 480 591 398 575 C 369 569 349 553 376 541 Z",

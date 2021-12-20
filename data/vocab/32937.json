@@ -1,16 +1,28 @@
 {
 "char": "肩",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "shoulders; to shoulder; bear",
 "pron": "jiān"
 },
 "words": [
 [
-"肩膀",
+"肩",
 5,
+"jiān",
+"shoulder; to shoulder (responsibilities etc)"
+],
+[
+"肩膀",
+7,
 "jiān bǎng",
 "shoulder"
+],
+[
+"肩负",
+7,
+"jiān fù",
+"to shoulder (a burden); to bear; to suffer (a disadvantage)"
 ]
 ],
 "extraWords": [
@@ -19,12 +31,6 @@
 6.52,
 "cā jiān ér guò",
 "brief encounter; to brush past sb"
-],
-[
-"肩负",
-5.87,
-"jiān fù",
-"to shoulder (a burden); to bear; to suffer (a disadvantage)"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "热",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "hot; heat; fever; restless; zeal",
 "pron": "rè"
@@ -14,9 +14,21 @@
 ],
 [
 "热情",
-3,
+2,
 "rè qíng",
 "cordial; enthusiastic; passion; passionate; passionately"
+],
+[
+"热爱",
+3,
+"rè ài",
+"to love ardently; to adore"
+],
+[
+"热烈",
+3,
+"rè liè",
+"enthusiastic; ardent; warm"
 ],
 [
 "热闹",
@@ -25,61 +37,133 @@
 "bustling with noise and excitement; lively"
 ],
 [
-"热爱",
-5,
-"rè ài",
-"to love ardently; to adore"
-],
-[
-"热烈",
-5,
-"rè liè",
-"enthusiastic; ardent; warm"
-],
-[
 "热心",
-5,
+4,
 "rè xīn",
 "enthusiasm; zeal; zealous; zest; enthusiastic; ardent; warmhearted"
 ],
 [
-"亲热",
-6,
-"qīn rè",
-"affectionate; intimate; warmhearted; to get intimate with sb"
+"加热",
+5,
+"jiā rè",
+"to heat"
+],
+[
+"热量",
+5,
+"rè liàng",
+"heat; quantity of heat; calorific value"
 ],
 [
 "热门",
-6,
+5,
 "rè mén",
 "popular; hot; in vogue"
 ],
 [
-"炎热",
-6,
-"yán rè",
-"blistering hot; sizzling hot (weather)"
-],
-[
-"热泪盈眶",
-6,
-"rè lèi yíng kuàng",
-"eyes brimming with tears of excitement (idiom); extremely moved"
-]
-],
-"extraWords": [
-[
 "热点",
-33.99,
+6,
 "rè diǎn",
 "hot spot; point of special interest"
 ],
 [
+"热水",
+6,
+"rè shuǐ",
+"hot water"
+],
+[
+"热水器",
+6,
+"rè shuǐ qì",
+"water heater"
+],
+[
 "热线",
-30.1,
+6,
 "rè xiàn",
 "hotline (communications link)"
 ],
+[
+"发热",
+7,
+"fā rè",
+"to have a high temperature; feverish; unable to think calmly; to emit heat"
+],
+[
+"火热",
+7,
+"huǒ rè",
+"fiery; burning; fervent; ardent; passionate"
+],
+[
+"看热闹",
+7,
+"kàn rè nao",
+"to enjoy watching a bustling scene; to go where the crowds are"
+],
+[
+"狂热",
+7,
+"kuáng rè",
+"zealotry; fanatical; feverish"
+],
+[
+"亲热",
+7,
+"qīn rè",
+"affectionate; intimate; warmhearted; to get intimate with sb"
+],
+[
+"热潮",
+7,
+"rè cháo",
+"upsurge; popular craze"
+],
+[
+"热带",
+7,
+"rè dài",
+"the tropics; tropical"
+],
+[
+"热气",
+7,
+"rè qì",
+"steam; heat; CL:股[gǔ]"
+],
+[
+"热气球",
+7,
+"rè qì qiú",
+"hot air balloon"
+],
+[
+"热腾腾",
+7,
+"rè téng téng",
+"steaming hot; (fig.) bustling; hectic; (fig.) excited; stirred up; (fig.) created only a short time before; freshly minted; hot off the press; (coll.) also pr. [re4 teng1 teng1]"
+],
+[
+"热衷",
+7,
+"rè zhōng",
+"to feel strongly about; to be fond of; obsession; deep commitment"
+],
+[
+"炎热",
+7,
+"yán rè",
+"blistering hot; sizzling hot (weather)"
+],
+[
+"灼热",
+7,
+"zhuó rè",
+"burning hot; scorching; worried"
+]
+],
+"extraWords": [
 [
 "热销",
 23.43,
@@ -93,46 +177,10 @@
 "hot dog (loanword)"
 ],
 [
-"热量",
-13.09,
-"rè liàng",
-"heat; quantity of heat; calorific value"
-],
-[
-"热水",
-13.05,
-"rè shuǐ",
-"hot water"
-],
-[
-"狂热",
-12.1,
-"kuáng rè",
-"zealotry; fanatical; feverish"
-],
-[
-"发热",
-11.37,
-"fā rè",
-"to have a high temperature; feverish; unable to think calmly; to emit heat"
-],
-[
-"加热",
-11.35,
-"jiā rè",
-"to heat"
-],
-[
-"热潮",
-11.03,
-"rè cháo",
-"upsurge; popular craze"
-],
-[
-"火热",
-8.56,
-"huǒ rè",
-"fiery; burning; fervent; ardent; passionate"
+"热火",
+8.0,
+"???",
+"???"
 ],
 [
 "散热",
@@ -169,12 +217,6 @@
 6.44,
 "rè shēn",
 "to warm up (sports); (fig.) to prepare; to get in condition"
-],
-[
-"热水器",
-6.11,
-"rè shuǐ qì",
-"water heater"
 ]
 ],
 "strokes": [

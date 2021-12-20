@@ -1,70 +1,88 @@
 {
 "char": "克",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "gram; overcome; transliteration",
 "pron": "kè"
 },
 "words": [
 [
-"巧克力",
-4,
-"qiǎo kè lì",
-"chocolate (loanword); CL:塊|块[kuai4]"
-],
-[
 "克",
-5,
+2,
 "Kè",
-"abbr. for 克羅地亞|克罗地亚[Ke4 luo2 di4 ya4], Croatia; (Tw) abbr. for 克羅埃西亞|克罗埃西亚[Ke4 luo2 ai1 xi1 ya4], Croatia"
+"abbr. for 克罗地亚[Kè luó dì yà], Croatia; (Tw) abbr. for 克罗埃西亚[Kè luó āi xī yà], Croatia"
 ],
 [
 "克",
-5,
+2,
 "kè",
 "to be able to; to subdue; to restrain; to overcome; gram; Tibetan unit of land area, about 6 ares"
 ],
 [
 "克",
-5,
+2,
 "Kè",
-"Ke (c. 2000 BC), seventh of the legendary Flame Emperors, 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God"
+"Ke (c. 2000 BC), seventh of the legendary Flame Emperors, 炎帝[Yán dì] descended from Shennong 神农[Shén nóng] Farmer God"
 ],
 [
 "克",
-5,
+2,
 "kè",
-"variant of 克[ke4]; to subdue; to overthrow; to restrain"
+"variant of 克[kè]; to subdue; to overthrow; to restrain"
 ],
 [
 "克",
-5,
+2,
 "kè",
-"variant of 剋|克[ke4]"
+"variant of 克[kè]"
+],
+[
+"千克",
+2,
+"qiān kè",
+"kilogram"
 ],
 [
 "克服",
-5,
+3,
 "kè fú",
 "(try to) overcome (hardships etc); to conquer; to put up with; to endure"
 ],
 [
-"麦克风",
-5,
-"mài kè fēng",
-"microphone (loanword)"
+"巧克力",
+4,
+"qiǎo kè lì",
+"chocolate (loanword); CL:块[kuài]"
+],
+[
+"克隆",
+7,
+"kè lóng",
+"clone (loanword)"
 ],
 [
 "克制",
-6,
+7,
 "kè zhì",
 "to restrain; to control; restraint; self-control"
 ],
 [
-"攻克",
-6,
-"gōng kè",
-"to capture; to take; to overcome; to solve"
+"扑克",
+7,
+"pū kè",
+"poker (game) (loanword); playing cards"
+],
+[
+"坦克",
+7,
+"tǎn kè",
+"tank (military vehicle) (loanword)"
+],
+[
+"休克",
+7,
+"xiū kè",
+"shock (loanword); to go into shock"
 ]
 ],
 "extraWords": [
@@ -135,16 +153,34 @@
 "Michael (name)"
 ],
 [
+"迈克",
+20.51,
+"???",
+"???"
+],
+[
+"克里斯",
+18.87,
+"???",
+"???"
+],
+[
 "夹克",
 16.54,
 "jiā kè",
 "jacket (loanword); also pr. [jia2 ke4]"
 ],
 [
-"坦克",
-13.69,
-"tǎn kè",
-"tank (military vehicle) (loanword)"
+"麦克斯",
+15.05,
+"???",
+"???"
+],
+[
+"克鲁",
+13.06,
+"???",
+"???"
 ],
 [
 "乌克兰",
@@ -159,10 +195,22 @@
 "Dick (person name)"
 ],
 [
+"亚历克斯",
+12.22,
+"???",
+"???"
+],
+[
 "德克萨斯",
 12.07,
 "Dé kè sà sī",
 "Texas"
+],
+[
+"克罗伊",
+11.54,
+"???",
+"???"
 ],
 [
 "布鲁克林",
@@ -171,22 +219,28 @@
 "Brooklyn, borough of New York City"
 ],
 [
-"克隆",
-10.93,
-"kè lóng",
-"clone (loanword)"
-],
-[
 "马克思",
 10.68,
 "Mǎ kè sī",
 "Marx (name); Karl Marx (1818-1883), German revolutionary, economist and historian"
 ],
 [
-"扑克",
-10.11,
-"pū kè",
-"poker (game) (loanword); playing cards"
+"扎克",
+10.61,
+"???",
+"???"
+],
+[
+"查克",
+9.27,
+"???",
+"???"
+],
+[
+"麦克风",
+9.21,
+"mài kè fēng",
+"microphone (loanword)"
 ],
 [
 "帕特里克",
@@ -201,6 +255,12 @@
 "to prevail with difficulty"
 ],
 [
+"杰克·鲍尔",
+7.99,
+"???",
+"???"
+],
+[
 "克林顿",
 7.76,
 "Kè lín dùn",
@@ -211,6 +271,12 @@
 7.67,
 "Ào lín pǐ kè",
 "Olympic"
+],
+[
+"包里克",
+7.39,
+"???",
+"???"
 ],
 [
 "捷克",
@@ -231,16 +297,46 @@
 "carat (mass) (loanword)"
 ],
 [
+"杜克",
+6.71,
+"???",
+"???"
+],
+[
+"沃克",
+6.71,
+"???",
+"???"
+],
+[
+"帕克",
+6.53,
+"???",
+"???"
+],
+[
 "克拉克",
 6.5,
 "Kè lā kè",
 "Clark or Clarke (name)"
 ],
 [
-"休克",
-5.98,
-"xiū kè",
-"shock (loanword); to go into shock"
+"洛克",
+6.41,
+"???",
+"???"
+],
+[
+"巴克",
+5.99,
+"???",
+"???"
+],
+[
+"维克多",
+5.9,
+"???",
+"???"
 ],
 [
 "贝克",
@@ -252,13 +348,7 @@
 "贝克",
 5.54,
 "bèi kè",
-"becquerel (unit of radioactivity, symbol Bq); abbr. for 貝克勒爾|贝克勒尔[bei4 ke4 le4 er3]"
-],
-[
-"千克",
-5.2,
-"qiān kè",
-"kilogram"
+"becquerel (unit of radioactivity, symbol Bq); abbr. for 贝克勒尔[bèi kè lè ěr]"
 ]
 ],
 "strokes": [

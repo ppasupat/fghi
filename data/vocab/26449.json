@@ -1,16 +1,40 @@
 {
 "char": "村",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "village, hamlet; uncouth, vulgar",
 "pron": "cūn"
 },
 "words": [
 [
+"村",
+3,
+"cūn",
+"village"
+],
+[
+"村",
+3,
+"cūn",
+"variant of 村[cūn]"
+],
+[
 "农村",
-5,
+3,
 "nóng cūn",
-"rural area; village; CL:個|个[ge4]"
+"rural area; village; CL:个[gè]"
+],
+[
+"乡村",
+5,
+"xiāng cūn",
+"rustic; village; countryside"
+],
+[
+"村庄",
+6,
+"cūn zhuāng",
+"village; hamlet; CL:座[zuò]"
 ]
 ],
 "extraWords": [
@@ -19,12 +43,6 @@
 51.9,
 "cūn mín",
 "villager"
-],
-[
-"乡村",
-22.15,
-"xiāng cūn",
-"rustic; village; countryside"
 ],
 [
 "村里",
@@ -37,12 +55,6 @@
 13.47,
 "cūn zi",
 "village"
-],
-[
-"村庄",
-11.94,
-"cūn zhuāng",
-"village; hamlet; CL:座[zuo4]"
 ],
 [
 "中关村",
@@ -61,6 +73,24 @@
 6.7,
 "cūn wěi huì",
 "village committee"
+],
+[
+"村民们",
+6.32,
+"???",
+"???"
+],
+[
+"全村",
+6.22,
+"???",
+"???"
+],
+[
+"村干部",
+5.47,
+"???",
+"???"
 ],
 [
 "山村",

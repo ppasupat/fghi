@@ -1,6 +1,6 @@
 {
 "char": "把",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "hold, take; guard; regard as",
 "pron": "bǎ, bà"
@@ -20,27 +20,39 @@
 ],
 [
 "把握",
-5,
+3,
 "bǎ wò",
 "to grasp (also fig.); to seize; to hold; assurance; certainty; sure (of the outcome)"
 ],
 [
+"把柄",
+7,
+"bǎ bǐng",
+"handle; (fig.) information that can be used against sb"
+],
+[
+"把关",
+7,
+"bǎ guān",
+"to guard a pass; to check on sth"
+],
+[
 "把手",
-6,
+7,
 "bǎ shǒu",
 "to shake hands"
 ],
 [
 "把手",
-6,
+7,
 "bǎ shou",
 "handle; grip; knob"
 ],
 [
-"把关",
-6,
-"bǎ guān",
-"to guard a pass; to check on sth"
+"一把手",
+7,
+"yī bǎ shǒu",
+"working hand; member of a work team; participant; (short form of 第一把手[dì yī bǎ shǒu]) the boss"
 ]
 ],
 "extraWords": [
@@ -51,16 +63,16 @@
 "acrobatics; jugglery; cheap trick; game"
 ],
 [
-"一把手",
-5.64,
-"yī bǎ shǒu",
-"working hand; member of a work team; participant; (short form of 第一把手[di4 yi1 ba3 shou3]) the boss"
+"大把",
+6.24,
+"???",
+"???"
 ],
 [
-"把柄",
-5.6,
-"bǎ bǐng",
-"handle; (fig.) information that can be used against sb"
+"加把劲",
+5.99,
+"???",
+"???"
 ]
 ],
 "strokes": [

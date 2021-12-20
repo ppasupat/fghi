@@ -1,17 +1,30 @@
 {
 "char": "跤",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "stumble, fall down; wrestle",
 "pron": "jiāo"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "摔跤",
-9.9,
+7,
 "shuāi jiāo",
 "to trip and fall; to wrestle; wrestling (sports)"
+]
+],
+"extraWords": [
+[
+"跤",
+2.79,
+"jiāo",
+"a tumble; a fall"
+],
+[
+"跌跤",
+0.06,
+"diē jiāo",
+"to fall down; to take a fall"
 ]
 ],
 "strokes": [

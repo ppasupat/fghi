@@ -1,11 +1,17 @@
 {
 "char": "易",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "change; easy",
 "pron": "yì"
 },
 "words": [
+[
+"交易",
+3,
+"jiāo yì",
+"(business) transaction; business deal; CL:笔[bǐ]"
+],
 [
 "容易",
 3,
@@ -14,24 +20,66 @@
 ],
 [
 "轻易",
-5,
+4,
 "qīng yì",
 "easily; lightly; rashly"
+],
+[
+"不易",
+5,
+"bù yì",
+"not easy to do sth; difficult; unchanging"
 ],
 [
 "贸易",
 5,
 "mào yì",
-"(commercial) trade; CL:個|个[ge4]"
+"(commercial) trade; CL:个[gè]"
 ],
 [
-"交易",
+"好容易",
 6,
-"jiāo yì",
-"(business) transaction; business deal; CL:筆|笔[bi3]"
+"hǎo róng yì",
+"(idiomatic usage) with great difficulty; to have a hard time (convincing sb, relinquishing sth etc); (literal usage) so easy"
+],
+[
+"简易",
+7,
+"jiǎn yì",
+"simple and easy; simplistic; simplicity"
+],
+[
+"轻而易举",
+7,
+"qīng ér yì jǔ",
+"easy; with no difficulty"
+],
+[
+"显而易见",
+7,
+"xiǎn ér yì jiàn",
+"clearly and easy to see (idiom); obviously; clearly; it goes without saying"
+],
+[
+"易拉罐",
+7,
+"yì lā guàn",
+"pull-top can; easy-open can (with ring-pull)"
 ]
 ],
 "extraWords": [
+[
+"易",
+121.99,
+"Yì",
+"surname Yi; abbr. for 易经[Yì jīng], the Book of Changes"
+],
+[
+"易",
+121.99,
+"yì",
+"easy; amiable; to change; to exchange; prefix corresponding to the English adjective suffix \"-able\" or \"-ible\""
+],
 [
 "交易所",
 18.56,
@@ -75,22 +123,28 @@
 "NetEase"
 ],
 [
-"显而易见",
-7.18,
-"xiǎn ér yì jiàn",
-"clearly and easy to see (idiom); obviously; clearly; it goes without saying"
-],
-[
-"简易",
-7.0,
-"jiǎn yì",
-"simple and easy; simplistic; simplicity"
-],
-[
 "上海证券交易所",
 6.75,
 "Shàng hǎi Zhèng quàn Jiāo yì suǒ",
 "Shanghai Stock Exchange (SSE)"
+],
+[
+"刘易斯",
+6.02,
+"???",
+"???"
+],
+[
+"交易量",
+5.16,
+"???",
+"???"
+],
+[
+"来之不易",
+5.08,
+"???",
+"???"
 ]
 ],
 "strokes": [

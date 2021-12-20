@@ -1,17 +1,11 @@
 {
 "char": "略",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "approximately, roughly; outline",
 "pron": "lüè"
 },
 "words": [
-[
-"省略",
-5,
-"shěng lüè",
-"to leave out; an omission"
-],
 [
 "策略",
 6,
@@ -31,10 +25,46 @@
 "strategy"
 ],
 [
+"粗略",
+7,
+"cū lüè",
+"rough (not precise or accurate); cursory"
+],
+[
+"领略",
+7,
+"lǐng lüè",
+"to have a taste of; to realize; to appreciate"
+],
+[
+"略",
+7,
+"lüè",
+"plan; strategy; outline; summary; slightly; rather; to rob; to plunder; to summarize; to omit"
+],
+[
+"略",
+7,
+"lüè",
+"variant of 略[lüè]"
+],
+[
+"略微",
+7,
+"lüè wēi",
+"a little bit; slightly"
+],
+[
 "侵略",
-6,
+7,
 "qīn lüè",
 "to invade; invasion"
+],
+[
+"省略",
+7,
+"shěng lüè",
+"to leave out; an omission"
 ]
 ],
 "extraWords": [
@@ -55,18 +85,6 @@
 6.18,
 "gōng lüè",
 "strategy; directions; guide; how-to"
-],
-[
-"领略",
-6.18,
-"lǐng lüè",
-"to have a taste of; to realize; to appreciate"
-],
-[
-"略微",
-5.59,
-"lüè wēi",
-"a little bit; slightly"
 ]
 ],
 "strokes": [

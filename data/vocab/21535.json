@@ -1,19 +1,31 @@
 {
 "char": "吟",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "sing, hum; recite; type of poetry",
 "pron": "yín"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
-"呻吟",
-6,
-"shēn yín",
-"to moan; to groan"
+"吟",
+5.91,
+"yín",
+"to chant; to recite; to moan; to groan; cry (of certain animals and insects); song (ancient poem)"
+],
+[
+"吟",
+5.91,
+"yín",
+"old variant of 吟[yín]"
+],
+[
+"沉吟",
+4.6,
+"chén yín",
+"to mutter to oneself irresolutely"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 93 580 Q 83 584 62 589 Q 50 593 47 588 Q 40 582 48 567 Q 78 492 89 373 Q 90 336 109 312 Q 125 290 131 305 Q 138 327 134 370 L 129 405 Q 113 528 112 555 C 111 574 111 574 93 580 Z",
 "M 280 439 Q 293 538 318 568 Q 340 596 314 610 Q 293 620 264 636 Q 245 646 225 633 Q 189 605 93 580 C 64 572 83 549 112 555 Q 172 567 233 580 Q 234 580 236 577 Q 245 570 227 441 C 223 411 276 409 280 439 Z",

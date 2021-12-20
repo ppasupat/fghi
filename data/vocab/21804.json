@@ -1,17 +1,30 @@
 {
 "char": "唬",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "to intimidate; to scare",
 "pron": "hǔ"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "吓唬",
-10.37,
+7,
 "xià hu",
 "to scare; to frighten"
+]
+],
+"extraWords": [
+[
+"唬",
+3.56,
+"hǔ",
+"a tiger's roar; to scare; to intimidate; (coll.) to fool; to bluff"
+],
+[
+"唬人",
+0.78,
+"hǔ rén",
+"to scare people; to bluff; to deceive"
 ]
 ],
 "strokes": [

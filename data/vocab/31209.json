@@ -1,6 +1,6 @@
 {
 "char": "秩",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "order; orderly; salary; decade",
 "pron": "zhì"
@@ -8,12 +8,25 @@
 "words": [
 [
 "秩序",
-5,
+7,
 "zhì xù",
-"order (orderly); order (sequence); social order; the state (of society); CL:個|个[ge4]"
+"order (orderly); order (sequence); social order; the state (of society); CL:个[gè]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"秩",
+2.78,
+"zhì",
+"order; orderliness; (classifier) ten years"
+],
+[
+"秩序井然",
+1.06,
+"zhì xù jǐng rán",
+"in perfect order"
+]
+],
 "strokes": [
 "M 309 661 Q 379 700 425 712 Q 443 715 446 723 Q 449 733 436 745 Q 369 784 336 776 Q 329 772 329 761 Q 330 721 152 616 Q 148 606 154 604 Q 172 604 250 637 Q 263 641 277 647 L 309 661 Z",
 "M 330 473 Q 367 483 414 491 Q 430 494 430 501 Q 431 514 413 522 Q 382 534 332 517 L 289 506 Q 162 475 87 463 Q 74 462 72 453 Q 69 443 85 432 Q 124 407 180 427 Q 226 445 263 456 L 330 473 Z",

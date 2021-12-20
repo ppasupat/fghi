@@ -1,6 +1,6 @@
 {
 "char": "织",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "weave, knit; organize, unite",
 "pron": "zhī"
@@ -10,17 +10,17 @@
 "组织",
 5,
 "zǔ zhī",
-"to organize; organization; (biology) tissue; (textiles) weave; CL:個|个[ge4]"
+"to organize; organization; (biology) tissue; (textiles) weave; CL:个[gè]"
 ],
 [
-"编织",
+"织",
 6,
-"biān zhī",
-"to weave; to knit; to plait; to braid; (fig.) to create (sth abstract, e.g. a dream, a lie etc)"
+"zhī",
+"to weave; to knit"
 ],
 [
 "纺织",
-6,
+7,
 "fǎng zhī",
 "spinning and weaving"
 ]
@@ -33,6 +33,12 @@
 "textile; fabrics"
 ],
 [
+"党组织",
+14.41,
+"???",
+"???"
+],
+[
 "针织",
 11.21,
 "zhēn zhī",
@@ -43,6 +49,12 @@
 6.93,
 "Shì mào Zǔ zhī",
 "WTO (World Trade Organization)"
+],
+[
+"编织",
+6.09,
+"biān zhī",
+"to weave; to knit; to plait; to braid; (fig.) to create (sth abstract, e.g. a dream, a lie etc)"
 ],
 [
 "组织者",

@@ -1,12 +1,44 @@
 {
 "char": "殷",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "many, great; abundant, flourishing",
 "pron": "yān, yīn"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"殷勤",
+7,
+"yīn qín",
+"politely; solicitously; eagerly attentive"
+]
+],
+"extraWords": [
+[
+"殷",
+3.08,
+"Yīn",
+"surname Yin; dynasty name at the end the Shang dynasty, after their move to Yinxu 殷墟 in modern Henan province"
+],
+[
+"殷",
+3.08,
+"yān",
+"dark red"
+],
+[
+"殷",
+3.08,
+"yīn",
+"flourishing; abundant; earnest; hospitable"
+],
+[
+"殷",
+3.08,
+"yǐn",
+"roll of thunder"
+]
+],
 "strokes": [
 "M 249 651 Q 277 675 354 752 Q 369 770 390 783 Q 408 796 395 810 Q 380 823 354 833 Q 329 842 318 838 Q 306 834 313 822 Q 320 800 239 663 Q 238 662 236 658 C 221 632 226 631 249 651 Z",
 "M 225 313 Q 238 376 244 408 L 247 431 Q 251 473 253 513 L 255 540 Q 258 604 261 613 C 265 640 265 640 257 645 Q 253 649 249 651 L 236 658 Q 199 676 187 670 Q 177 663 183 651 Q 202 627 203 562 Q 203 394 173 283 Q 146 199 81 77 Q 77 70 75 65 Q 74 55 83 57 Q 114 64 178 181 Q 187 202 198 226 Q 208 256 218 288 L 225 313 Z",

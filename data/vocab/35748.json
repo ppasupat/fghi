@@ -1,6 +1,6 @@
 {
 "char": "认",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "recognize, know, understand",
 "pron": "rèn"
@@ -13,79 +13,103 @@
 "to know; to recognize; to be familiar with; to get acquainted with sb; knowledge; understanding; awareness; cognition"
 ],
 [
-"认为",
-3,
-"rèn wéi",
-"to believe; to think; to consider; to feel"
-],
-[
 "认真",
-3,
+1,
 "rèn zhēn",
 "conscientious; earnest; serious; to take seriously; to take to heart"
 ],
 [
+"认为",
+2,
+"rèn wéi",
+"to believe; to think; to consider; to feel"
+],
+[
+"否认",
+3,
+"fǒu rèn",
+"to declare to be untrue; to deny"
+],
+[
+"认出",
+3,
+"rèn chū",
+"recognition; to recognize"
+],
+[
+"认得",
+3,
+"rèn de",
+"to recognize; to remember sth (or sb) on seeing it; to know"
+],
+[
+"认可",
+3,
+"rèn kě",
+"to approve; approval; acknowledgment; OK"
+],
+[
 "承认",
-5,
+4,
 "chéng rèn",
 "to admit; to concede; to recognize; recognition (diplomatic, artistic etc); to acknowledge"
 ],
 [
 "确认",
-5,
+4,
 "què rèn",
 "to confirm; to verify; confirmation"
 ],
 [
-"否认",
+"公认",
 5,
-"fǒu rèn",
-"to declare to be untrue; to deny"
+"gōng rèn",
+"publicly known (to be); accepted (as)"
+],
+[
+"认",
+5,
+"rèn",
+"to recognize; to know; to admit"
 ],
 [
 "认定",
-6,
+5,
 "rèn dìng",
 "to maintain (that sth is true); to determine (a fact); determination (of an amount); of the firm opinion; to believe firmly; to set one's mind on; to identify with"
 ],
 [
-"认可",
+"认同",
 6,
-"rèn kě",
-"to approve; approval; acknowledgment; OK"
+"rèn tóng",
+"to approve of; to endorse; to acknowledge; to recognize; to identify oneself with"
 ],
 [
 "辨认",
-6,
+7,
 "biàn rèn",
 "to recognize; to identify"
 ],
 [
-"公认",
-6,
-"gōng rèn",
-"publicly known (to be); accepted (as)"
-]
+"认错",
+7,
+"rèn cuò",
+"to admit an error; to acknowledge one's mistake"
 ],
-"extraWords": [
 [
 "认证",
-31.15,
+7,
 "rèn zhèng",
 "to authenticate; to approve"
 ],
 [
-"认出",
-26.11,
-"rèn chū",
-"recognition; to recognize"
+"认知",
+7,
+"rèn zhī",
+"cognition; cognitive; understanding; perception; awareness; to be cognizant of; to recognize; to realize"
+]
 ],
-[
-"认同",
-21.41,
-"rèn tóng",
-"to approve of; to endorse; to acknowledge; to recognize; to identify oneself with"
-],
+"extraWords": [
 [
 "认购",
 18.24,
@@ -93,22 +117,10 @@
 "to undertake to purchase sth; to subscribe (to share issue)"
 ],
 [
-"认知",
-15.51,
-"rèn zhī",
-"cognition; cognitive; understanding; perception; awareness; to be cognizant of; to recognize; to realize"
-],
-[
 "认罪",
 13.38,
 "rèn zuì",
 "to admit guilt; to plead guilty"
-],
-[
-"认得",
-10.58,
-"rèn de",
-"to recognize; to remember sth (or sb) on seeing it; to know"
 ],
 [
 "默认",

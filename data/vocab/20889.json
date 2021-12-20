@@ -1,11 +1,17 @@
 {
 "char": "写",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "write; draw, sketch; compose",
 "pron": "xiě"
 },
 "words": [
+[
+"听写",
+1,
+"tīng xiě",
+"(of a pupil) to write down (in a dictation exercise); dictation; (music) to transcribe by ear"
+],
 [
 "写",
 1,
@@ -14,15 +20,63 @@
 ],
 [
 "写作",
-5,
+3,
 "xiě zuò",
 "to write; to compose; writing; written works"
 ],
 [
+"抄写",
+4,
+"chāo xiě",
+"to copy; to transcribe"
+],
+[
 "描写",
-5,
+4,
 "miáo xiě",
 "to describe; to depict; to portray; description"
+],
+[
+"写字楼",
+6,
+"xiě zì lóu",
+"office building"
+],
+[
+"写字台",
+6,
+"xiě zì tái",
+"writing desk"
+],
+[
+"编写",
+7,
+"biān xiě",
+"to compile"
+],
+[
+"书写",
+7,
+"shū xiě",
+"to write"
+],
+[
+"填写",
+7,
+"tián xiě",
+"to fill in a form; to write data in a box (on a questionnaire or web form)"
+],
+[
+"写照",
+7,
+"xiě zhào",
+"portrayal"
+],
+[
+"撰写",
+7,
+"zhuàn xiě",
+"to write; to compose"
 ]
 ],
 "extraWords": [
@@ -33,40 +87,16 @@
 "to write a letter"
 ],
 [
-"填写",
-12.73,
-"tián xiě",
-"to fill in a form; to write data in a box (on a questionnaire or web form)"
-],
-[
-"编写",
-10.26,
-"biān xiě",
-"to compile"
-],
-[
-"写字楼",
-10.1,
-"xiě zì lóu",
-"office building"
-],
-[
-"书写",
-9.5,
-"shū xiě",
-"to write"
-],
-[
 "写真",
 8.32,
 "xiě zhēn",
 "portrait; to describe sth accurately"
 ],
 [
-"撰写",
-7.98,
-"zhuàn xiě",
-"to write; to compose"
+"写给",
+5.89,
+"???",
+"???"
 ],
 [
 "写字",

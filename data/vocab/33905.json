@@ -1,17 +1,30 @@
 {
 "char": "葱",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "scallions, leeks, green onions",
 "pron": "cōng"
 },
-"words": [],
+"words": [
+[
+"葱",
+7,
+"cōng",
+"scallion; green onion"
+]
+],
 "extraWords": [
 [
 "洋葱",
 8.59,
 "yáng cōng",
 "onion (Allium cepa); bulb onion"
+],
+[
+"大葱",
+1.75,
+"dà cōng",
+"leek; Chinese onion"
 ]
 ],
 "strokes": [

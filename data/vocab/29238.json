@@ -1,31 +1,67 @@
 {
 "char": "父",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "father; KangXi radical 88",
 "pron": "fù"
 },
 "words": [
 [
+"父母",
+3,
+"fù mǔ",
+"father and mother; parents"
+],
+[
 "父亲",
-4,
+3,
 "fù qīn",
-"father; also pr. [fu4 qin5]; CL:個|个[ge4]"
+"father; also pr. [fu4 qin5]; CL:个[gè]"
+],
+[
+"父女",
+6,
+"fù nǚ",
+"father and daughter"
+],
+[
+"父子",
+6,
+"fù zǐ",
+"father and son"
+],
+[
+"师父",
+6,
+"shī fu",
+"used for 師傅|师傅 (in Taiwan); master; qualified worker"
 ],
 [
 "祖父",
 6,
 "zǔ fù",
 "father's father; paternal grandfather"
+],
+[
+"伯父",
+7,
+"bó fù",
+"father's elder brother; term of respect for older man; CL:个[gè]"
+],
+[
+"继父",
+7,
+"jì fù",
+"stepfather"
+],
+[
+"岳父",
+7,
+"yuè fù",
+"wife's father, father-in-law"
 ]
 ],
 "extraWords": [
-[
-"父母",
-151.46,
-"fù mǔ",
-"father and mother; parents"
-],
 [
 "神父",
 45.88,
@@ -33,22 +69,10 @@
 "Christian priest or clergyman; (spiritual) father"
 ],
 [
-"师父",
-13.67,
-"shī fu",
-"used for 師傅|师傅 (in Taiwan); master; qualified worker"
-],
-[
-"父子",
-10.45,
-"fù zǐ",
-"father and son"
-],
-[
-"继父",
-6.17,
-"jì fù",
-"stepfather"
+"父",
+27.02,
+"fù",
+"father"
 ],
 [
 "教父",

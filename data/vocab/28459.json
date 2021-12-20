@@ -1,6 +1,6 @@
 {
 "char": "漫",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "overflow of water; spreading",
 "pron": "màn"
@@ -8,33 +8,45 @@
 "words": [
 [
 "浪漫",
-4,
+5,
 "làng màn",
 "romantic"
 ],
 [
-"漫画",
-6,
-"màn huà",
-"caricature; cartoon; Japanese manga"
-],
-[
 "漫长",
-6,
+5,
 "màn cháng",
 "very long; endless"
 ],
 [
+"漫画",
+5,
+"màn huà",
+"caricature; cartoon; Japanese manga"
+],
+[
+"漫",
+7,
+"màn",
+"free; unrestrained; to inundate"
+],
+[
+"漫游",
+7,
+"màn yóu",
+"to travel around; to roam; (mobile telephony) roaming"
+],
+[
 "弥漫",
-6,
+7,
 "mí màn",
 "to pervade; to fill the air; diffuse; everywhere present; about to inundate (water); permeated by (smoke); filled with (dust); to saturate (the air with fog, smoke etc)"
 ],
 [
 "弥漫",
-6,
+7,
 "mí màn",
-"variant of 彌漫|弥漫[mi2 man4]"
+"variant of 弥漫[mí màn]"
 ]
 ],
 "extraWords": [

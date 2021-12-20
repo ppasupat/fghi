@@ -1,11 +1,47 @@
 {
 "char": "色",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "color, tint, hue, shade; form, body; beauty, desire for beauty",
 "pron": "sè, shǎi"
 },
 "words": [
+[
+"白色",
+2,
+"bái sè",
+"white; fig. reactionary; anti-communist"
+],
+[
+"黑色",
+2,
+"hēi sè",
+"black"
+],
+[
+"红色",
+2,
+"hóng sè",
+"red (color); revolutionary"
+],
+[
+"黄色",
+2,
+"huáng sè",
+"yellow (color); pornographic"
+],
+[
+"蓝色",
+2,
+"lán sè",
+"blue (color)"
+],
+[
+"绿色",
+2,
+"lǜ sè",
+"green"
+],
 [
 "颜色",
 2,
@@ -13,114 +49,120 @@
 "color; countenance; appearance; facial expression; pigment; dyestuff"
 ],
 [
+"彩色",
+3,
+"cǎi sè",
+"color; multi-colored; CL:种[zhǒng]"
+],
+[
 "景色",
-4,
+3,
 "jǐng sè",
 "scenery; scene; landscape; view"
 ],
 [
+"特色",
+3,
+"tè sè",
+"characteristic; distinguishing feature or quality"
+],
+[
 "出色",
-5,
+4,
 "chū sè",
 "remarkable; outstanding"
 ],
 [
 "角色",
-5,
+4,
 "jué sè",
 "role; character in a novel; persona; also pr. [jiao3 se4]"
 ],
 [
-"特色",
-5,
-"tè sè",
-"characteristic; distinguishing feature or quality"
+"色",
+4,
+"sè",
+"color; CL:种[zhǒng]; look; appearance; sex"
+],
+[
+"色",
+4,
+"shǎi",
+"color; dice"
 ],
 [
 "色彩",
-5,
+4,
 "sè cǎi",
 "tint; coloring; coloration; (fig.) flavor; character"
 ],
 [
-"棕色",
-6,
-"zōng sè",
-"brown"
+"五颜六色",
+4,
+"wǔ yán liù sè",
+"multi-colored; every color under the sun"
 ],
 [
-"气色",
-6,
-"qì sè",
-"complexion"
+"灰色",
+5,
+"huī sè",
+"gray; ash gray; grizzly; pessimistic; gloomy; dispirited; ambiguous"
 ],
 [
-"粉色",
-6,
-"fěn sè",
-"pink; white; erotic; beautiful woman; powdered (with make-up)"
+"脸色",
+5,
+"liǎn sè",
+"complexion; look"
+],
+[
+"本色",
+7,
+"běn sè",
+"inherent qualities; natural qualities; distinctive character; true qualities"
+],
+[
+"本色",
+7,
+"běn shǎi",
+"natural color"
+],
+[
+"绘声绘色",
+7,
+"huì shēng huì sè",
+"vivid and colorful (idiom); true to life; lively and realistic"
+],
+[
+"形形色色",
+7,
+"xíng xíng sè sè",
+"all kinds of; all sorts of; every (different) kind of"
+],
+[
+"逊色",
+7,
+"xùn sè",
+"inferior (often in the combination 毫無遜色|毫无逊色, not in the least inferior)"
 ],
 [
 "眼色",
-6,
+7,
 "yǎn sè",
 "signal made with one's eyes; meaningful glance"
+],
+[
+"有声有色",
+7,
+"yǒu shēng yǒu sè",
+"having sound and color (idiom); vivid; dazzling"
 ]
 ],
 "extraWords": [
-[
-"绿色",
-61.41,
-"lǜ sè",
-"green"
-],
-[
-"黑色",
-54.6,
-"hēi sè",
-"black"
-],
-[
-"红色",
-50.43,
-"hóng sè",
-"red (color); revolutionary"
-],
 [
 "以色列",
 48.31,
 "Yǐ sè liè",
 "Israel"
-],
-[
-"白色",
-48.03,
-"bái sè",
-"white; fig. reactionary; anti-communist"
-],
-[
-"蓝色",
-39.44,
-"lán sè",
-"blue (color)"
-],
-[
-"脸色",
-26.52,
-"liǎn sè",
-"complexion; look"
-],
-[
-"黄色",
-21.06,
-"huáng sè",
-"yellow (color); pornographic"
-],
-[
-"彩色",
-20.49,
-"cǎi sè",
-"color; multi-colored; CL:種|种[zhong3]"
 ],
 [
 "色情",
@@ -129,16 +171,16 @@
 "pornography; sex"
 ],
 [
-"灰色",
-13.69,
-"huī sè",
-"gray; ash gray; grizzly; pessimistic; gloomy; dispirited; ambiguous"
-],
-[
 "神色",
 12.82,
 "shén sè",
 "expression; look"
+],
+[
+"棕色",
+12.46,
+"zōng sè",
+"brown"
 ],
 [
 "金色",
@@ -165,6 +207,12 @@
 "complexion"
 ],
 [
+"气色",
+9.36,
+"qì sè",
+"complexion"
+],
+[
 "色调",
 8.87,
 "sè diào",
@@ -183,22 +231,16 @@
 "silver (color)"
 ],
 [
+"粉色",
+7.6,
+"fěn sè",
+"pink; white; erotic; beautiful woman; powdered (with make-up)"
+],
+[
 "染色体",
 7.46,
 "rǎn sè tǐ",
 "chromosome"
-],
-[
-"本色",
-7.43,
-"běn sè",
-"inherent qualities; natural qualities; distinctive character; true qualities"
-],
-[
-"本色",
-7.43,
-"běn shǎi",
-"natural color"
 ],
 [
 "色素",

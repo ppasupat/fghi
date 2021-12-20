@@ -1,6 +1,6 @@
 {
 "char": "庞",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "disorderly, messy; huge, big",
 "pron": "páng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "庞大",
-6,
+7,
 "páng dà",
 "huge; enormous; tremendous"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"庞",
+5.1,
+"Páng",
+"surname Pang"
+],
+[
+"庞",
+5.1,
+"páng",
+"huge; enormous; tremendous"
+]
+],
 "strokes": [
 "M 476 806 Q 509 784 544 757 Q 559 747 575 749 Q 585 750 589 764 Q 592 780 579 808 Q 564 841 465 853 Q 449 854 444 851 Q 440 847 442 834 Q 446 824 476 806 Z",
 "M 324 645 Q 357 633 425 642 Q 552 663 686 686 Q 752 699 761 707 Q 771 714 767 724 Q 760 737 730 745 Q 700 752 598 721 Q 454 685 319 677 C 289 675 295 653 324 645 Z",

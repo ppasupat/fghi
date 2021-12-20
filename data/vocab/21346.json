@@ -1,12 +1,31 @@
 {
 "char": "卢",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "cottage, hut; surname; black",
 "pron": "lú"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"卢",
+11.09,
+"Lú",
+"surname Lu; abbr. for Luxembourg 卢森堡[Lú sēn bǎo]"
+],
+[
+"卢",
+11.09,
+"lú",
+"(old) rice vessel; black; old variant of 庐[lú]; (slang) (Tw) troublesome; fussy"
+],
+[
+"卢克",
+4.77,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 529 543 Q 535 601 540 655 L 543 686 Q 543 726 561 775 Q 565 785 545 801 Q 511 820 488 824 Q 472 827 464 819 Q 457 812 464 797 Q 480 775 481 759 Q 490 656 488 535 C 488 505 526 513 529 543 Z",
 "M 540 655 Q 571 646 663 665 Q 685 671 709 675 Q 728 679 732 683 Q 741 692 736 700 Q 729 712 698 718 Q 667 722 636 709 Q 597 697 543 686 C 514 680 511 662 540 655 Z",

@@ -1,36 +1,60 @@
 {
 "char": "屋",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "house; room; building, shelter",
 "pron": "wū"
 },
 "words": [
 [
+"房屋",
+3,
+"fáng wū",
+"house; building; CL:所[suǒ],套[tào]"
+],
+[
 "屋子",
-5,
+3,
 "wū zi",
-"house; room; CL:間|间[jian1]"
+"house; room; CL:间[jiān]"
+],
+[
+"屋",
+5,
+"wū",
+"house; room; CL:间[jiān],个[gè]"
+],
+[
+"屋顶",
+7,
+"wū dǐng",
+"roof; CL:个[gè]"
 ]
 ],
 "extraWords": [
 [
-"房屋",
-62.01,
-"fáng wū",
-"house; building; CL:所[suo3],套[tao4]"
-],
-[
-"屋顶",
-23.79,
-"wū dǐng",
-"roof; CL:個|个[ge4]"
+"屋里",
+24.06,
+"???",
+"???"
 ],
 [
 "小屋",
 13.41,
 "xiǎo wū",
 "cabin; lodge; cottage; chalet; hut; shed"
+],
+[
+"进屋",
+9.3,
+"???",
+"???"
+],
+[
+"木屋",
+5.87,
+"???",
+"???"
 ]
 ],
 "strokes": [

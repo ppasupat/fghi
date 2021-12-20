@@ -1,79 +1,85 @@
 {
 "char": "充",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "fill, be full, supply",
 "pron": "chōng"
 },
 "words": [
 [
+"补充",
+3,
+"bǔ chōng",
+"to replenish; to supplement; to complement; additional; supplementary; CL:个[gè]"
+],
+[
 "充满",
-5,
+3,
 "chōng mǎn",
 "full of; brimming with; very full; permeated"
 ],
 [
-"充分",
-5,
-"chōng fèn",
-"ample; sufficient; adequate; full; fully; to the full"
-],
-[
-"补充",
-5,
-"bǔ chōng",
-"to replenish; to supplement; to complement; additional; supplementary; CL:個|个[ge4]"
+"充电",
+4,
+"chōng diàn",
+"to recharge (a battery); (fig.) to recharge one's batteries (through leisure); to update one's skills and knowledge"
 ],
 [
 "充电器",
-5,
+4,
 "chōng diàn qì",
 "battery charger"
 ],
 [
+"充分",
+4,
+"chōng fèn",
+"ample; sufficient; adequate; full; fully; to the full"
+],
+[
 "充足",
-6,
+5,
 "chōng zú",
 "adequate; sufficient; abundant"
 ],
 [
-"冒充",
-6,
-"mào chōng",
-"to feign; to pretend to be; to pass oneself off as"
-],
-[
-"充实",
-6,
-"chōng shí",
-"rich; full; substantial; to enrich; to augment; to substantiate (an argument)"
+"充",
+7,
+"chōng",
+"to fill; to satisfy; to fulfill; to act in place of; substitute; sufficient; full"
 ],
 [
 "充当",
-6,
+7,
 "chōng dāng",
 "to serve as; to act as; to play the role of"
 ],
 [
 "充沛",
-6,
+7,
 "chōng pèi",
 "abundant; plentiful; vigorous"
 ],
 [
-"扩充",
-6,
-"kuò chōng",
-"to expand"
+"充实",
+7,
+"chōng shí",
+"rich; full; substantial; to enrich; to augment; to substantiate (an argument)"
+],
+[
+"冒充",
+7,
+"mào chōng",
+"to feign; to pretend to be; to pass oneself off as"
+],
+[
+"填充",
+7,
+"tián chōng",
+"pad; padding"
 ]
 ],
 "extraWords": [
-[
-"充电",
-9.79,
-"chōng diàn",
-"to recharge (a battery); (fig.) to recharge one's batteries (through leisure); to update one's skills and knowledge"
-],
 [
 "充值",
 8.51,
@@ -91,6 +97,12 @@
 6.1,
 "chōng chì",
 "to be full of; to flood; to congest"
+],
+[
+"扩充",
+5.49,
+"kuò chōng",
+"to expand"
 ]
 ],
 "strokes": [

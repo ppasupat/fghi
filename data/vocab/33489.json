@@ -1,12 +1,31 @@
 {
 "char": "苑",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "pasture, park, garden; mansion",
 "pron": "yuàn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"苑",
+16.73,
+"Yuàn",
+"surname Yuan"
+],
+[
+"苑",
+16.73,
+"yuàn",
+"park"
+],
+[
+"南苑",
+0.57,
+"Nán yuàn",
+"Nanyuan or \"Southern Park\", an imperial hunting domain during the Yuan, Ming and Qing Dynasties, now the site of Nanhaizi Park in the south of Beijing"
+]
+],
 "strokes": [
 "M 641 651 Q 726 661 826 655 Q 842 654 847 663 Q 851 675 839 690 Q 784 732 692 708 Q 676 707 661 702 L 600 691 Q 518 679 428 665 L 381 659 Q 294 649 199 638 Q 169 635 190 619 Q 238 591 324 611 Q 355 618 388 624 L 430 631 Q 445 640 589 647 L 641 651 Z",
 "M 428 665 Q 425 704 425 735 Q 428 754 407 761 Q 368 782 346 775 Q 328 766 343 747 Q 373 708 381 659 L 388 624 Q 395 569 412 552 Q 425 540 429 552 Q 435 570 430 631 L 428 665 Z",

@@ -1,66 +1,84 @@
 {
 "char": "值",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "price",
 "pron": "zhí"
 },
 "words": [
 [
+"价值",
+3,
+"jià zhí",
+"value; worth; fig. values (ethical, cultural etc); CL:个[gè]"
+],
+[
+"值",
+3,
+"zhí",
+"value; (to be) worth; to happen to; to be on duty"
+],
+[
 "值得",
-4,
+3,
 "zhí de",
 "to be worth; to deserve"
 ],
 [
-"价值",
-5,
-"jià zhí",
-"value; worth; fig. values (ethical, cultural etc); CL:個|个[ge4]"
-],
-[
 "值班",
-6,
+5,
 "zhí bān",
 "to work a shift; on duty"
-]
 ],
-"extraWords": [
+[
+"不值",
+6,
+"bù zhí",
+"not worth"
+],
 [
 "升值",
-26.99,
+6,
 "shēng zhí",
 "to rise in value; to appreciate"
 ],
 [
 "增值",
-20.12,
+6,
 "zēng zhí",
 "to appreciate (financially); to increase in value; value-added (accountancy)"
 ],
 [
+"贬值",
+7,
+"biǎn zhí",
+"to become devaluated; to devaluate; to depreciate"
+],
+[
 "产值",
-16.81,
+7,
 "chǎn zhí",
 "value of output; output value"
 ],
 [
-"净值",
-14.84,
-"jìng zhí",
-"net value; net worth"
-],
-[
 "价值观",
-14.37,
+7,
 "jià zhí guān",
 "system of values"
 ],
 [
 "值钱",
-11.12,
+7,
 "zhí qián",
 "valuable; costly; expensive"
+]
+],
+"extraWords": [
+[
+"净值",
+14.84,
+"jìng zhí",
+"net value; net worth"
 ],
 [
 "有价值",
@@ -111,16 +129,16 @@
 "value-added tax (VAT)"
 ],
 [
+"保值",
+6.89,
+"???",
+"???"
+],
+[
 "附加值",
 6.47,
 "fù jiā zhí",
 "added-value (accountancy)"
-],
-[
-"贬值",
-6.4,
-"biǎn zhí",
-"to become devaluated; to devaluate; to depreciate"
 ],
 [
 "国内生产总值",

@@ -1,12 +1,18 @@
 {
 "char": "狐",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "species of fox",
 "pron": "hú"
 },
 "words": [],
 "extraWords": [
+[
+"狐",
+9.04,
+"hú",
+"fox"
+],
 [
 "狐狸",
 8.59,

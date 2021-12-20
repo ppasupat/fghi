@@ -1,11 +1,17 @@
 {
 "char": "购",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "buy, purchase; hire",
 "pron": "gòu"
 },
 "words": [
+[
+"购买",
+4,
+"gòu mǎi",
+"to purchase; to buy"
+],
 [
 "购物",
 4,
@@ -14,24 +20,36 @@
 ],
 [
 "采购",
-6,
+5,
 "cǎi gòu",
 "to procure (for an enterprise etc); to purchase"
-]
-],
-"extraWords": [
-[
-"购买",
-138.34,
-"gòu mǎi",
-"to purchase; to buy"
 ],
 [
 "收购",
-86.5,
+5,
 "shōu gòu",
 "to purchase (from various places); to acquire (a company)"
 ],
+[
+"并购",
+7,
+"bìng gòu",
+"merger and acquisition (M and A); acquisition; to take over"
+],
+[
+"订购",
+7,
+"dìng gòu",
+"to place an order; to subscribe"
+],
+[
+"购",
+7,
+"gòu",
+"to buy; to purchase"
+]
+],
+"extraWords": [
 [
 "认购",
 18.24,
@@ -57,16 +75,22 @@
 "to purchase"
 ],
 [
-"订购",
-7.23,
-"dìng gòu",
-"to place an order; to subscribe"
+"购票",
+6.01,
+"???",
+"???"
 ],
 [
 "代购",
 5.51,
 "dài gòu",
 "to buy (on behalf of sb)"
+],
+[
+"购销",
+5.14,
+"???",
+"???"
 ],
 [
 "购买力",

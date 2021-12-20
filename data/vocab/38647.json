@@ -1,31 +1,49 @@
 {
 "char": "雷",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "thunder",
 "pron": "léi"
 },
 "words": [
 [
+"打雷",
+4,
+"dǎ léi",
+"to rumble with thunder; clap of thunder"
+],
+[
+"雷同",
+7,
+"léi tóng",
+"mirroring others; identical"
+]
+],
+"extraWords": [
+[
 "雷",
-5,
+85.64,
 "Léi",
 "surname Lei"
 ],
 [
 "雷",
-5,
+85.64,
 "léi",
 "thunder; mine (weapon); (Internet slang) terrifying; terrific"
 ],
 [
+"雷斯",
+10.88,
+"???",
+"???"
+],
+[
 "雷达",
-6,
+10.3,
 "léi dá",
 "radar (loanword)"
-]
 ],
-"extraWords": [
 [
 "雷锋",
 8.24,

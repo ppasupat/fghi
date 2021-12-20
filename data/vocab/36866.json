@@ -1,78 +1,114 @@
 {
 "char": "适",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "go, reach; appropriate, suitable",
 "pron": "shì"
 },
 "words": [
 [
-"适合",
-4,
-"shì hé",
-"to fit; to suit"
-],
-[
 "合适",
-4,
+2,
 "hé shì",
 "suitable; fitting; appropriate"
 ],
 [
+"适合",
+3,
+"shì hé",
+"to fit; to suit"
+],
+[
 "适应",
-4,
+3,
 "shì yìng",
 "to adapt; to fit; to suit"
 ],
 [
+"适用",
+3,
+"shì yòng",
+"to be applicable"
+],
+[
 "舒适",
-5,
+4,
 "shū shì",
 "cozy; snug"
 ],
 [
-"适宜",
+"适当",
 6,
+"shì dàng",
+"suitable; appropriate"
+],
+[
+"不适",
+7,
+"bù shì",
+"unwell; indisposed; out of sorts"
+],
+[
+"适度",
+7,
+"shì dù",
+"moderately; appropriate"
+],
+[
+"适量",
+7,
+"shì liàng",
+"appropriate amount"
+],
+[
+"适时",
+7,
+"shì shí",
+"timely; apt to the occasion; in due course"
+],
+[
+"适宜",
+7,
 "shì yí",
 "suitable; appropriate"
 ]
 ],
 "extraWords": [
 [
-"适当",
-53.62,
-"shì dàng",
-"suitable; appropriate"
+"适用于",
+13.4,
+"???",
+"???"
 ],
 [
-"适用",
-39.34,
-"shì yòng",
-"to be applicable"
+"适",
+11.68,
+"kuò",
+"see 李适[Lǐ Kuò]"
 ],
 [
-"适量",
-14.52,
-"shì liàng",
-"appropriate amount"
+"适",
+11.68,
+"Shì",
+"surname Shi"
 ],
 [
-"适时",
-12.52,
-"shì shí",
-"timely; apt to the occasion; in due course"
+"适",
+11.68,
+"shì",
+"to fit; suitable; proper; just (now); comfortable; well; to go; to follow or pursue"
 ],
 [
-"不适",
-12.51,
-"bù shì",
-"unwell; indisposed; out of sorts"
+"相适应",
+8.73,
+"???",
+"???"
 ],
 [
-"适度",
-11.67,
-"shì dù",
-"moderately; appropriate"
+"不适用",
+5.63,
+"???",
+"???"
 ],
 [
 "适应性",

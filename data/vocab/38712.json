@@ -1,16 +1,16 @@
 {
 "char": "霸",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "rule by might rather than right",
 "pron": "bà"
 },
 "words": [
 [
-"霸道",
-6,
-"bà dào",
-"the Way of the Hegemon; abbr. for 霸王之道; despotic rule; rule by might; evil as opposed to the Way of the King 王道; overbearing; tyranny; (of liquor, medicine etc) strong; potent"
+"霸占",
+7,
+"bà zhàn",
+"to occupy by force; to seize; to dominate"
 ]
 ],
 "extraWords": [
@@ -18,7 +18,19 @@
 "霸气",
 20.27,
 "bà qì",
-"imperious; aggressive; assertive; dictatorial manner; boldness; CL:股[gu3]"
+"imperious; aggressive; assertive; dictatorial manner; boldness; CL:股[gǔ]"
+],
+[
+"霸",
+18.13,
+"bà",
+"variant of 霸[bà]"
+],
+[
+"霸",
+18.13,
+"bà",
+"hegemon; tyrant; lord; feudal chief; to rule by force; to usurp; (in modern advertising) master"
 ],
 [
 "争霸",
@@ -31,6 +43,12 @@
 8.16,
 "bà wáng",
 "hegemon; overlord; despot"
+],
+[
+"霸道",
+7.28,
+"bà dào",
+"the Way of the Hegemon; abbr. for 霸王之道; despotic rule; rule by might; evil as opposed to the Way of the King 王道; overbearing; tyranny; (of liquor, medicine etc) strong; potent"
 ]
 ],
 "strokes": [

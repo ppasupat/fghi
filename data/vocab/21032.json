@@ -1,11 +1,30 @@
 {
 "char": "刨",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "carpenter's plane; plane, level",
 "pron": "bào, páo"
 },
-"words": [],
+"words": [
+[
+"刨",
+7,
+"bào",
+"carpenter's plane; to plane (woodwork); to shave off; to peel (with a potato peeler etc)"
+],
+[
+"刨",
+7,
+"páo",
+"to dig; to excavate; (coll.) to exclude; not to count; to deduct; to subtract"
+],
+[
+"刨",
+7,
+"bào",
+"variant of 刨[bào]"
+]
+],
 "extraWords": [],
 "strokes": [
 "M 240 573 Q 274 609 326 685 Q 342 715 358 729 Q 368 739 363 753 Q 359 766 330 787 Q 303 806 285 805 Q 266 804 274 781 Q 292 747 225 631 Q 194 577 150 519 Q 140 509 138 502 Q 135 492 149 494 Q 168 497 223 554 L 240 573 Z",

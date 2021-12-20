@@ -1,16 +1,22 @@
 {
 "char": "悼",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "grieve, mourn, lament; grieved",
 "pron": "dào"
 },
 "words": [
 [
-"追悼",
-6,
-"zhuī dào",
-"to mourn; to pay last respects; mourning; memorial (service etc)"
+"悼念",
+7,
+"dào niàn",
+"to grieve"
+],
+[
+"追悼会",
+7,
+"zhuī dào huì",
+"memorial service; funeral service"
 ]
 ],
 "extraWords": [

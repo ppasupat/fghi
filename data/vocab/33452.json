@@ -1,12 +1,25 @@
 {
 "char": "芬",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "fragrance, aroma; perfume",
 "pron": "fēn"
 },
-"words": [],
+"words": [
+[
+"芬芳",
+7,
+"fēn fāng",
+"perfume; fragrant"
+]
+],
 "extraWords": [
+[
+"芬",
+12.22,
+"fēn",
+"perfume; fragrance"
+],
 [
 "芬兰",
 7.75,

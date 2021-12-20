@@ -1,6 +1,6 @@
 {
 "char": "寓",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "residence; lodge; dwell",
 "pron": "yù"
@@ -8,15 +8,21 @@
 "words": [
 [
 "公寓",
-5,
+7,
 "gōng yù",
-"apartment building; block of flats; CL:套[tao4]"
+"apartment building; block of flats; CL:套[tào]"
 ],
 [
 "寓言",
-6,
+7,
 "yù yán",
-"fable; CL:則|则[ze2]"
+"fable; CL:则[zé]"
+],
+[
+"寓意",
+7,
+"yù yì",
+"moral (of a story); lesson to be learned; implication; message; import; metaphorical meaning"
 ]
 ],
 "extraWords": [],

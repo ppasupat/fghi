@@ -1,6 +1,6 @@
 {
 "char": "释",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "interprete, elucidate; release",
 "pron": "shì"
@@ -10,25 +10,19 @@
 "解释",
 4,
 "jiě shì",
-"explanation; to explain; to interpret; to resolve; CL:個|个[ge4]"
-],
-[
-"释放",
-6,
-"shì fàng",
-"to release; to set free; to liberate (a prisoner); to discharge"
-],
-[
-"注释",
-6,
-"zhù shì",
-"marginal notes; annotation; to annotate; to add comments to text"
+"explanation; to explain; to interpret; to resolve; CL:个[gè]"
 ],
 [
 "爱不释手",
-6,
+7,
 "ài bù shì shǒu",
 "to love sth too much to part with it (idiom); to fondle admiringly"
+],
+[
+"释放",
+7,
+"shì fàng",
+"to release; to set free; to liberate (a prisoner); to discharge"
 ]
 ],
 "extraWords": [
@@ -49,6 +43,12 @@
 10.26,
 "quán shì",
 "to interpret; to comment and explain; to annotate; to perform (i.e. interpret a theatrical role); to decode; interpretation; annotation"
+],
+[
+"释",
+9.83,
+"shì",
+"to explain; to release; Buddha (abbr. for 释迦牟尼[Shì jiā móu ní]); Buddhism"
 ],
 [
 "稀释",

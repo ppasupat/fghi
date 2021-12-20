@@ -1,6 +1,6 @@
 {
 "char": "扰",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "disturb, annoy, agitate",
 "pron": "rǎo"
@@ -8,35 +8,41 @@
 "words": [
 [
 "打扰",
-4,
+5,
 "dǎ rǎo",
 "to disturb; to bother; to trouble"
 ],
 [
-"骚扰",
-6,
-"sāo rǎo",
-"to disturb; to cause a commotion; to harass"
-],
-[
 "干扰",
-6,
+5,
 "gān rǎo",
 "to disturb; to interfere; perturbation; interference (physics)"
 ],
 [
+"困扰",
+5,
+"kùn rǎo",
+"to perplex; to disturb; to cause complications"
+],
+[
 "扰乱",
-6,
+7,
 "rǎo luàn",
 "to disturb; to perturb; to harass"
+],
+[
+"骚扰",
+7,
+"sāo rǎo",
+"to disturb; to cause a commotion; to harass"
 ]
 ],
 "extraWords": [
 [
-"困扰",
-18.21,
-"kùn rǎo",
-"to perplex; to disturb; to cause complications"
+"扰",
+10.22,
+"rǎo",
+"to disturb"
 ],
 [
 "性骚扰",

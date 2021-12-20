@@ -1,6 +1,6 @@
 {
 "char": "装",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "dress, clothes, attire; fill",
 "pron": "zhuāng"
@@ -8,21 +8,45 @@
 "words": [
 [
 "装",
-5,
+2,
 "zhuāng",
 "adornment; to adorn; dress; clothing; costume (of an actor in a play); to play a role; to pretend; to install; to fix; to wrap (sth in a bag); to load; to pack"
 ],
 [
-"假装",
-5,
-"jiǎ zhuāng",
-"to feign; to pretend"
+"安装",
+3,
+"ān zhuāng",
+"to install; to erect; to fix; to mount; installation"
 ],
 [
 "服装",
-5,
+3,
 "fú zhuāng",
-"dress; clothing; costume; clothes; CL:身[shen1]"
+"dress; clothing; costume; clothes; CL:身[shēn]"
+],
+[
+"装修",
+4,
+"zhuāng xiū",
+"to decorate; interior decoration; to fit up; to renovate"
+],
+[
+"装置",
+4,
+"zhuāng zhì",
+"to install; installation; equipment; system; unit; device"
+],
+[
+"包装",
+5,
+"bāo zhuāng",
+"to pack; to package; to wrap; packaging"
+],
+[
+"西装",
+5,
+"xī zhuāng",
+"suit; Western-style clothes; CL:套[tào]"
 ],
 [
 "装饰",
@@ -31,16 +55,16 @@
 "to decorate; decoration; decorative; ornamental"
 ],
 [
-"安装",
-5,
-"ān zhuāng",
-"to install; to erect; to fix; to mount; installation"
+"改装",
+6,
+"gǎi zhuāng",
+"to change one's costume; to repackage; to remodel; to refit; to modify; to convert"
 ],
 [
-"装修",
-5,
-"zhuāng xiū",
-"to decorate; interior decoration; to fit up; to renovate"
+"时装",
+6,
+"shí zhuāng",
+"fashion; fashionable clothes"
 ],
 [
 "装备",
@@ -49,54 +73,60 @@
 "equipment; to equip; to outfit"
 ],
 [
+"集装箱",
+7,
+"jí zhuāng xiāng",
+"container (for shipping)"
+],
+[
+"假装",
+7,
+"jiǎ zhuāng",
+"to feign; to pretend"
+],
+[
+"乔装",
+7,
+"qiáo zhuāng",
+"to pretend; to feign; to disguise oneself"
+],
+[
+"伪装",
+7,
+"wěi zhuāng",
+"to pretend to be (asleep etc); to disguise oneself as; pretense; disguise; (military) to camouflage; camouflage"
+],
+[
 "武装",
-6,
+7,
 "wǔ zhuāng",
 "arms; equipment; to arm; military; armed (forces)"
 ],
 [
-"包装",
-6,
-"bāo zhuāng",
-"to pack; to package; to wrap; packaging"
+"原装",
+7,
+"yuán zhuāng",
+"genuine; intact in original packaging (not locally assembled and packaged)"
 ],
 [
-"装卸",
-6,
-"zhuāng xiè",
-"to load or unload; to transfer; to assemble and disassemble"
+"装扮",
+7,
+"zhuāng bàn",
+"to decorate; to adorn; to dress up; to disguise oneself"
+],
+[
+"组装",
+7,
+"zǔ zhuāng",
+"to assemble and install"
 ]
 ],
 "extraWords": [
-[
-"装置",
-34.25,
-"zhuāng zhì",
-"to install; installation; equipment; system; unit; device"
-],
 [
 "女装",
 17.89,
 "nǚ zhuāng",
 "women's clothes"
-],
-[
-"伪装",
-17.83,
-"wěi zhuāng",
-"to pretend to be (asleep etc); to disguise oneself as; pretense; disguise; (military) to camouflage; camouflage"
-],
-[
-"时装",
-17.47,
-"shí zhuāng",
-"fashion; fashionable clothes"
-],
-[
-"西装",
-17.17,
-"xī zhuāng",
-"suit; Western-style clothes; CL:套[tao4]"
 ],
 [
 "套装",
@@ -117,34 +147,16 @@
 "to fill up"
 ],
 [
-"集装箱",
-10.09,
-"jí zhuāng xiāng",
-"container (for shipping)"
-],
-[
-"改装",
-9.67,
-"gǎi zhuāng",
-"to change one's costume; to repackage; to remodel; to refit; to modify; to convert"
-],
-[
-"装扮",
-9.42,
-"zhuāng bàn",
-"to decorate; to adorn; to dress up; to disguise oneself"
+"冬装",
+10.28,
+"???",
+"???"
 ],
 [
 "男装",
 6.98,
 "nán zhuāng",
 "men's clothes"
-],
-[
-"组装",
-5.58,
-"zǔ zhuāng",
-"to assemble and install"
 ],
 [
 "装配",

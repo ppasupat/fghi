@@ -1,40 +1,46 @@
 {
 "char": "亏",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "lose, fail; damage; deficient",
 "pron": "kuī"
 },
 "words": [
 [
-"多亏",
+"亏",
 5,
-"duō kuī",
-"thanks to; luckily"
-],
-[
-"幸亏",
-5,
-"xìng kuī",
-"fortunately; luckily"
+"kuī",
+"deficiency; deficit; luckily; it's lucky that...; (often ironically) fancy that..."
 ],
 [
 "吃亏",
-5,
+7,
 "chī kuī",
 "to suffer losses; to come to grief; to lose out; to get the worst of it; to be at a disadvantage; unfortunately"
 ],
 [
-"亏待",
-6,
-"kuī dài",
-"to treat sb unfairly"
+"多亏",
+7,
+"duō kuī",
+"thanks to; luckily"
+],
+[
+"亏本",
+7,
+"kuī běn",
+"to make a loss"
 ],
 [
 "亏损",
-6,
+7,
 "kuī sǔn",
 "deficit; (financial) loss"
+],
+[
+"幸亏",
+7,
+"xìng kuī",
+"fortunately; luckily"
 ]
 ],
 "extraWords": [],

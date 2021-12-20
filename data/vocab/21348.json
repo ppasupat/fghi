@@ -1,12 +1,38 @@
 {
 "char": "卤",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "salt",
 "pron": "lǔ"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"卤味",
+7,
+"lǔ wèi",
+"food prepared by stewing in soy sauce and spices"
+],
+[
+"卤味",
+7,
+"lǔ wèi",
+"variant of 卤味[lǔ wèi]"
+]
+],
+"extraWords": [
+[
+"卤",
+5.61,
+"lǔ",
+"to stew in soy sauce and spices"
+],
+[
+"卤",
+5.61,
+"lǔ",
+"alkaline soil; salt; brine; halogen (chemistry); crass; stupid"
+]
+],
 "strokes": [
 "M 528 558 Q 532 616 539 672 L 541 700 Q 541 710 556 781 Q 560 791 541 806 Q 507 824 485 827 Q 469 831 462 822 Q 455 815 463 801 Q 478 780 479 766 Q 488 669 488 552 C 488 522 526 528 528 558 Z",
 "M 539 672 Q 576 663 647 678 Q 683 685 721 695 Q 745 701 748 705 Q 757 712 752 721 Q 745 731 716 738 Q 686 742 658 729 Q 633 720 603 712 Q 575 705 541 700 C 511 696 510 678 539 672 Z",

@@ -1,6 +1,6 @@
 {
 "char": "多",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "much, many; more than, over",
 "pron": "duō"
@@ -25,54 +25,210 @@
 "how much?; how many?; (phone number, student ID etc) what number?"
 ],
 [
-"多么",
-3,
-"duō me",
-"how (wonderful etc); what (a great idea etc); however (difficult it may be etc); (in interrogative sentences) how (much etc); to what extent"
-],
-[
 "差不多",
-4,
+2,
 "chà bu duō",
 "almost; nearly; more or less; about the same; good enough; not bad"
 ],
 [
+"大多数",
+2,
+"dà duō shù",
+"(great) majority"
+],
+[
+"多久",
+2,
+"duō jiǔ",
+"(of time) how long?; (not) a long time"
+],
+[
+"多么",
+2,
+"duō me",
+"how (wonderful etc); what (a great idea etc); however (difficult it may be etc); (in interrogative sentences) how (much etc); to what extent"
+],
+[
+"多数",
+2,
+"duō shù",
+"majority; most"
+],
+[
+"多云",
+2,
+"duō yún",
+"cloudy (meteorology)"
+],
+[
+"好多",
+2,
+"hǎo duō",
+"many; quite a lot; much better"
+],
+[
 "许多",
-4,
+2,
 "xǔ duō",
 "many; a lot of; much"
 ],
 [
-"多亏",
+"大多",
+4,
+"dà duō",
+"for the most part; many; most; the greater part; mostly"
+],
+[
+"多次",
+4,
+"duō cì",
+"many times; repeatedly"
+],
+[
+"多年",
+4,
+"duō nián",
+"many years; for many years; longstanding"
+],
+[
+"多样",
+4,
+"duō yàng",
+"diverse; diversity; manifold"
+],
+[
+"多种",
+4,
+"duō zhǒng",
+"many kinds of; multiple; diverse; multi-"
+],
+[
+"增多",
 5,
+"zēng duō",
+"to increase; to grow in number"
+],
+[
+"众多",
+5,
+"zhòng duō",
+"numerous"
+],
+[
+"多半",
+6,
+"duō bàn",
+"most; mostly; most likely"
+],
+[
+"多方面",
+6,
+"duō fāng miàn",
+"many-sided; in many aspects"
+],
+[
+"多媒体",
+6,
+"duō méi tǐ",
+"multimedia"
+],
+[
+"绝大多数",
+6,
+"jué dà duō shù",
+"absolute majority; overwhelming majority"
+],
+[
+"顶多",
+7,
+"dǐng duō",
+"at most; at best"
+],
+[
+"多边",
+7,
+"duō biān",
+"multilateral"
+],
+[
+"多功能",
+7,
+"duō gōng néng",
+"multi-functional; multi-function"
+],
+[
+"多亏",
+7,
 "duō kuī",
 "thanks to; luckily"
 ],
 [
+"多劳多得",
+7,
+"duō láo duō dé",
+"work more and get more"
+],
+[
+"多年来",
+7,
+"duō nián lái",
+"for the past many years"
+],
+[
+"多心",
+7,
+"duō xīn",
+"oversensitive; suspicious"
+],
+[
 "多余",
-5,
+7,
 "duō yú",
 "superfluous; unnecessary; surplus"
 ],
 [
-"多元化",
-6,
-"duō yuán huà",
-"diversification; pluralism; to diversify"
+"多元",
+7,
+"duō yuán",
+"poly-; multi-; multielement; multivariant; multivariate (math.)"
 ],
 [
-"见多识广",
-6,
-"jiàn duō shí guǎng",
-"experienced and knowledgeable (idiom)"
+"丰富多彩",
+7,
+"fēng fù duō cǎi",
+"richly colorful"
+],
+[
+"或多或少",
+7,
+"huò duō huò shǎo",
+"more or less"
+],
+[
+"诸多",
+7,
+"zhū duō",
+"(used for abstract things) a good deal, a lot of"
+],
+[
+"足智多谋",
+7,
+"zú zhì duō móu",
+"resourceful; full of stratagems"
 ]
 ],
 "extraWords": [
 [
-"多久",
-130.92,
-"duō jiǔ",
-"(of time) how long?; (not) a long time"
+"很多",
+443.38,
+"???",
+"???"
+],
+[
+"更多",
+241.08,
+"???",
+"???"
 ],
 [
 "多谢",
@@ -81,58 +237,22 @@
 "many thanks; thanks a lot"
 ],
 [
-"好多",
-78.5,
-"hǎo duō",
-"many; quite a lot; much better"
-],
-[
-"多次",
-72.15,
-"duō cì",
-"many times; repeatedly"
-],
-[
-"众多",
-71.65,
-"zhòng duō",
-"numerous"
-],
-[
-"多年",
-65.16,
-"duō nián",
-"many years; for many years; longstanding"
-],
-[
 "最多",
 62.3,
 "zuì duō",
 "at most; maximum; greatest (amount); maximal"
 ],
 [
-"多种",
-62.12,
-"duō zhǒng",
-"many kinds of; multiple; diverse; multi-"
+"很多人",
+56.23,
+"???",
+"???"
 ],
 [
-"大多数",
-55.6,
-"dà duō shù",
-"(great) majority"
-],
-[
-"多数",
-41.77,
-"duō shù",
-"majority; most"
-],
-[
-"大多",
-33.49,
-"dà duō",
-"for the most part; many; most; the greater part; mostly"
+"较多",
+30.95,
+"???",
+"???"
 ],
 [
 "多个",
@@ -147,40 +267,16 @@
 "too many; excessive"
 ],
 [
-"增多",
-28.43,
-"zēng duō",
-"to increase; to grow in number"
+"许多人",
+21.08,
+"???",
+"???"
 ],
 [
-"诸多",
-27.9,
-"zhū duō",
-"(used for abstract things) a good deal, a lot of"
-],
-[
-"多云",
-22.63,
-"duō yún",
-"cloudy (meteorology)"
-],
-[
-"绝大多数",
-21.65,
-"jué dà duō shù",
-"absolute majority; overwhelming majority"
-],
-[
-"多年来",
-19.09,
-"duō nián lái",
-"for the past many years"
-],
-[
-"多媒体",
-15.38,
-"duō méi tǐ",
-"multimedia"
+"多元化",
+16.61,
+"duō yuán huà",
+"diversification; pluralism; to diversify"
 ],
 [
 "多方",
@@ -189,10 +285,10 @@
 "in many ways; from all sides"
 ],
 [
-"多方面",
-12.5,
-"duō fāng miàn",
-"many-sided; in many aspects"
+"多项",
+11.98,
+"???",
+"???"
 ],
 [
 "多哈",
@@ -207,16 +303,16 @@
 "many-headed; many-layered (authority); devolved (as opposed to centralized); pluralistic; (as classifier) number of animals; long term (finance); long (investment)"
 ],
 [
-"多功能",
-10.07,
-"duō gōng néng",
-"multi-functional; multi-function"
-],
-[
 "多达",
 10.02,
 "duō dá",
 "up to; no less than; as much as"
+],
+[
+"大多是",
+9.46,
+"???",
+"???"
 ],
 [
 "维多利亚",
@@ -237,22 +333,16 @@
 "multi- (faceted, cultural, ethnic etc)"
 ],
 [
-"丰富多彩",
-7.45,
-"fēng fù duō cǎi",
-"richly colorful"
+"多远",
+8.26,
+"???",
+"???"
 ],
 [
-"多样",
-7.28,
-"duō yàng",
-"diverse; diversity; manifold"
-],
-[
-"多半",
-7.07,
-"duō bàn",
-"most; mostly; most likely"
+"多层次",
+7.04,
+"???",
+"???"
 ],
 [
 "多样性",
@@ -273,6 +363,12 @@
 "to be in the majority"
 ],
 [
+"维克多",
+5.9,
+"???",
+"???"
+],
+[
 "多于",
 5.88,
 "duō yú",
@@ -283,6 +379,12 @@
 5.16,
 "duō duō",
 "many; much; a lot; lots and lots; more; even more"
+],
+[
+"好多了",
+5.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

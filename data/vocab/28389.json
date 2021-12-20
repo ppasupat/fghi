@@ -1,6 +1,6 @@
 {
 "char": "滥",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "flood, overflow; excessive",
 "pron": "làn"
@@ -8,17 +8,23 @@
 "words": [
 [
 "泛滥",
-6,
+7,
 "fàn làn",
 "to be in flood; to overflow (the banks); to inundate; to spread unchecked"
+],
+[
+"滥用",
+7,
+"làn yòng",
+"to misuse; to abuse"
 ]
 ],
 "extraWords": [
 [
-"滥用",
-7.85,
-"làn yòng",
-"to misuse; to abuse"
+"滥",
+6.54,
+"làn",
+"overflowing; excessive; indiscriminate"
 ]
 ],
 "strokes": [

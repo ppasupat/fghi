@@ -1,37 +1,37 @@
 {
 "char": "败",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "be defeated, decline, fail",
 "pron": "bài"
 },
 "words": [
 [
-"失败",
+"败",
 4,
-"shī bài",
-"to be defeated; to lose; to fail (e.g. experiments); failure; defeat; CL:次[ci4]"
+"bài",
+"to defeat; to damage; to lose (to an opponent); to fail; to wither"
 ],
-[
-"腐败",
-6,
-"fǔ bài",
-"corruption; to corrupt; to rot; rotten"
-],
-[
-"败坏",
-6,
-"bài huài",
-"to ruin; to corrupt; to undermine"
-]
-],
-"extraWords": [
 [
 "打败",
-37.86,
+4,
 "dǎ bài",
 "to defeat; to overpower; to beat; to be defeated"
 ],
+[
+"失败",
+4,
+"shī bài",
+"to be defeated; to lose; to fail (e.g. experiments); failure; defeat; CL:次[cì]"
+],
+[
+"腐败",
+7,
+"fǔ bài",
+"corruption; to corrupt; to rot; rotten"
+]
+],
+"extraWords": [
 [
 "击败",
 31.24,

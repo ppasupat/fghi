@@ -1,6 +1,6 @@
 {
 "char": "还",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "still, yet, also, besides",
 "pron": "hái, huán"
@@ -8,89 +8,83 @@
 "words": [
 [
 "还",
-2,
+1,
 "Huán",
 "surname Huan"
 ],
 [
 "还",
-2,
+1,
 "hái",
 "still; still in progress; still more; yet; even more; in addition; fairly; passably (good); as early as; even; also; else"
 ],
 [
 "还",
-2,
-"huán",
-"to pay back; to return"
-],
-[
-"还",
-3,
-"Huán",
-"surname Huan"
-],
-[
-"还",
-3,
-"hái",
-"still; still in progress; still more; yet; even more; in addition; fairly; passably (good); as early as; even; also; else"
-],
-[
-"还",
-3,
+1,
 "huán",
 "to pay back; to return"
 ],
 [
 "还是",
-3,
+1,
 "hái shi",
 "or; still; nevertheless; had better"
 ],
 [
-"讨价还价",
-5,
-"tǎo jià huán jià",
-"to haggle over price; to bargain"
+"还有",
+1,
+"hái yǒu",
+"furthermore; in addition; still; also"
 ],
 [
 "偿还",
-6,
+7,
 "cháng huán",
 "to repay; to reimburse"
 ],
 [
+"返还",
+7,
+"fǎn huán",
+"restitution; return of something to its original owner; remittance"
+],
+[
 "归还",
-6,
+7,
 "guī huán",
 "to return sth; to revert"
 ],
 [
+"还款",
+7,
+"huán kuǎn",
+"repayment; to pay back money"
+],
+[
 "还原",
-6,
+7,
 "huán yuán",
 "to restore to the original state; to reconstruct (an event); reduction (chemistry)"
+],
+[
+"讨价还价",
+7,
+"tǎo jià huán jià",
+"to haggle over price; to bargain"
 ]
 ],
 "extraWords": [
 [
-"还有",
-1071.11,
-"hái yǒu",
-"furthermore; in addition; still; also"
+"还要",
+155.47,
+"???",
+"???"
 ],
 [
 "还好",
 37.34,
 "hái hǎo",
 "not bad; tolerable; fortunately"
-],
-[
-"返还",
-7.44,
-"fǎn huán",
-"restitution; return of something to its original owner; remittance"
 ],
 [
 "退还",

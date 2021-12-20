@@ -1,6 +1,6 @@
 {
 "char": "营",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "encampment, barracks; manage",
 "pron": "yíng"
@@ -8,36 +8,66 @@
 "words": [
 [
 "经营",
-5,
+3,
 "jīng yíng",
 "to engage in (business etc); to run; to operate"
 ],
 [
 "营养",
-5,
+3,
 "yíng yǎng",
-"nutrition; nourishment; CL:種|种[zhong3]"
+"nutrition; nourishment; CL:种[zhǒng]"
 ],
 [
 "营业",
-5,
+4,
 "yíng yè",
 "to do business; to trade"
 ],
 [
+"私营",
+7,
+"sī yíng",
+"privately-owned; private"
+],
+[
 "夏令营",
-5,
+7,
 "xià lìng yíng",
 "summer camp"
-]
 ],
-"extraWords": [
+[
+"野营",
+7,
+"yě yíng",
+"to camp; field lodgings"
+],
+[
+"营救",
+7,
+"yíng jiù",
+"to rescue"
+],
+[
+"营造",
+7,
+"yíng zào",
+"to build (housing); to construct; to make"
+],
 [
 "运营",
-64.89,
+7,
 "yùn yíng",
 "to be in operation; to do business; (of train, bus etc) to be in service; operation; service"
 ],
+[
+"阵营",
+7,
+"zhèn yíng",
+"group of people; camp; faction; sides in a dispute"
+]
+],
+"extraWords": [
 [
 "营销",
 55.58,
@@ -45,16 +75,16 @@
 "marketing"
 ],
 [
+"营",
+46.56,
+"yíng",
+"camp; barracks; battalion; to build; to operate; to manage; to strive for"
+],
+[
 "民营",
 39.96,
 "mín yíng",
 "privately run (i.e. by a company, not the state)"
-],
-[
-"营造",
-26.7,
-"yíng zào",
-"to build (housing); to construct; to make"
 ],
 [
 "营地",
@@ -69,10 +99,10 @@
 "executive; manager; transactor"
 ],
 [
-"私营",
-17.19,
-"sī yíng",
-"privately-owned; private"
+"主营",
+16.45,
+"???",
+"???"
 ],
 [
 "营运",
@@ -87,22 +117,22 @@
 "state-run (company etc); nationalized"
 ],
 [
-"阵营",
-10.89,
-"zhèn yíng",
-"group of people; camp; faction; sides in a dispute"
-],
-[
 "露营",
 8.79,
 "lù yíng",
 "to camp out; camping"
 ],
 [
-"营救",
-6.89,
-"yíng jiù",
-"to rescue"
+"营业部",
+7.17,
+"???",
+"???"
+],
+[
+"营业执照",
+6.78,
+"???",
+"???"
 ],
 [
 "营业额",
@@ -117,22 +147,28 @@
 "headquarters; base camp"
 ],
 [
+"经营权",
+6.0,
+"???",
+"???"
+],
+[
 "营业员",
 5.85,
 "yíng yè yuán",
-"clerk; shop assistant; CL:個|个[ge4]"
-],
-[
-"野营",
-5.84,
-"yě yíng",
-"to camp; field lodgings"
+"clerk; shop assistant; CL:个[gè]"
 ],
 [
 "营业税",
 5.71,
 "yíng yè shuì",
 "tax on turnover; sales tax"
+],
+[
+"经营性",
+5.54,
+"???",
+"???"
 ],
 [
 "军营",

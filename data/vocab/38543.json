@@ -1,6 +1,6 @@
 {
 "char": "随",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "follow, listen to, submit to",
 "pron": "suí"
@@ -8,72 +8,114 @@
 "words": [
 [
 "随便",
-4,
+2,
 "suí biàn",
 "as one wishes; as one pleases; at random; negligent; casual; wanton"
 ],
 [
-"随着",
-4,
-"suí zhe",
-"along with; in the wake of; following"
-],
-[
 "随时",
-5,
+2,
 "suí shí",
 "at any time; at all times; at the right time"
 ],
 [
-"随身",
-5,
-"suí shēn",
-"to (carry) on one's person; to (take) with one"
+"随",
+3,
+"Suí",
+"surname Sui"
+],
+[
+"随",
+3,
+"suí",
+"to follow; to comply with; varying according to...; to allow; subsequently"
 ],
 [
 "随手",
-5,
+4,
 "suí shǒu",
 "conveniently; without extra trouble; while doing it; in passing"
 ],
 [
-"随意",
-6,
-"suí yì",
-"as one wishes; according to one's wishes; at will; voluntary; conscious"
-],
-[
 "跟随",
-6,
+5,
 "gēn suí",
 "to follow"
 ],
 [
-"伴随",
-6,
-"bàn suí",
-"to accompany; to follow; to occur together with; concomitant"
-],
-[
-"随即",
-6,
-"suí jí",
-"immediately; presently; following which"
-]
-],
-"extraWords": [
-[
 "随后",
-95.77,
+5,
 "suí hòu",
 "soon after"
 ],
 [
+"随意",
+5,
+"suí yì",
+"as one wishes; according to one's wishes; at will; voluntary; conscious"
+],
+[
+"随着",
+5,
+"suí zhe",
+"along with; in the wake of; following"
+],
+[
+"伴随",
+7,
+"bàn suí",
+"to accompany; to follow; to occur together with; concomitant"
+],
+[
+"随处可见",
+7,
+"suí chù kě jiàn",
+"can be seen everywhere"
+],
+[
+"随大溜",
+7,
+"suí dà liù",
+"to follow the crowd; going with the tide"
+],
+[
 "随机",
-21.8,
+7,
 "suí jī",
 "according to the situation; pragmatic; random"
 ],
+[
+"随即",
+7,
+"suí jí",
+"immediately; presently; following which"
+],
+[
+"随身",
+7,
+"suí shēn",
+"to (carry) on one's person; to (take) with one"
+],
+[
+"随时随地",
+7,
+"suí shí suí dì",
+"anytime and anywhere"
+],
+[
+"随心所欲",
+7,
+"suí xīn suǒ yù",
+"to follow one's heart's desires; to do as one pleases (idiom)"
+],
+[
+"追随",
+7,
+"zhuī suí",
+"to follow; to accompany"
+]
+],
+"extraWords": [
 [
 "随访",
 11.46,
@@ -81,28 +123,10 @@
 "to accompany; (of a doctor etc) to do a follow-up (on a patient, client etc)"
 ],
 [
-"追随",
-6.0,
-"zhuī suí",
-"to follow; to accompany"
-],
-[
-"随心所欲",
-5.99,
-"suí xīn suǒ yù",
-"to follow one's heart's desires; to do as one pleases (idiom)"
-],
-[
 "随风",
 5.66,
 "suí fēng",
 "wind-borne; tossed about by the wind"
-],
-[
-"随时随地",
-5.45,
-"suí shí suí dì",
-"anytime and anywhere"
 ]
 ],
 "strokes": [

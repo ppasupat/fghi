@@ -1,42 +1,60 @@
 {
 "char": "皇",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "royal, imperial; ruler, superior",
 "pron": "huáng"
 },
 "words": [
 [
-"皇后",
+"皇帝",
 6,
+"huáng dì",
+"emperor; CL:个[gè]"
+],
+[
+"皇宫",
+7,
+"huáng gōng",
+"imperial palace"
+],
+[
+"皇后",
+7,
 "huáng hòu",
 "empress; imperial consort"
 ],
 [
-"皇帝",
-6,
-"huáng dì",
-"emperor; CL:個|个[ge4]"
+"皇上",
+7,
+"huáng shang",
+"the emperor; Your majesty the emperor; His imperial majesty"
+],
+[
+"皇室",
+7,
+"huáng shì",
+"royal family; imperial household; member of the royal family"
 ]
 ],
 "extraWords": [
 [
-"皇上",
-16.82,
-"huáng shang",
-"the emperor; Your majesty the emperor; His imperial majesty"
+"皇",
+44.07,
+"Huáng",
+"surname Huang"
+],
+[
+"皇",
+44.07,
+"huáng",
+"emperor; old variant of 惶[huáng]"
 ],
 [
 "皇家",
 12.7,
 "huáng jiā",
 "royal; imperial household"
-],
-[
-"皇室",
-6.44,
-"huáng shì",
-"royal family; imperial household; member of the royal family"
 ],
 [
 "教皇",

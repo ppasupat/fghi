@@ -1,18 +1,11 @@
 {
 "char": "州",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "administrative division, state",
 "pron": "zhōu"
 },
-"words": [
-[
-"州",
-6,
-"zhōu",
-"prefecture; (old) province; (old) administrative division; state (e.g. of US); oblast (Russia); canton (Switzerland)"
-]
-],
+"words": [],
 "extraWords": [
 [
 "广州",
@@ -27,10 +20,16 @@
 "Hangzhou subprovincial city and capital of Zhejiang province in southeast China"
 ],
 [
+"州",
+63.08,
+"zhōu",
+"prefecture; (old) province; (old) administrative division; state (e.g. of US); oblast (Russia); canton (Switzerland)"
+],
+[
 "贵州",
 33.44,
 "Guì zhōu",
-"Guizhou province (Kweichow) in south central China, abbr. to 黔[Qian2] or 貴|贵[Gui4], capital Guiyang 貴陽|贵阳[Gui4 yang2]"
+"Guizhou province (Kweichow) in south central China, abbr. to 黔[Qián] or 贵[Guì], capital Guiyang 贵阳[Guì yáng]"
 ],
 [
 "加州",
@@ -84,7 +83,7 @@
 "兰州",
 13.19,
 "Lán zhōu",
-"Lanzhou prefecture-level city and capital of Gansu province 甘肅|甘肃[Gan1 su4]"
+"Lanzhou prefecture-level city and capital of Gansu province 甘肃[Gān sù]"
 ],
 [
 "德州",
@@ -108,7 +107,7 @@
 "贵州省",
 8.81,
 "Guì zhōu shěng",
-"Guizhou province (Kweichow) in south central China, abbr. to 黔[Qian2] or 貴|贵[Gui4], capital Guiyang 貴陽|贵阳[Gui4 yang2]"
+"Guizhou province (Kweichow) in south central China, abbr. to 黔[Qián] or 贵[Guì], capital Guiyang 贵阳[Guì yáng]"
 ],
 [
 "郑州市",

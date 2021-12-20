@@ -1,42 +1,60 @@
 {
 "char": "普",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "universal, general, widespread",
 "pron": "pǔ"
 },
 "words": [
 [
-"普遍",
-4,
-"pǔ biàn",
-"universal; general; widespread; common"
-],
-[
-"普通话",
-4,
-"pǔ tōng huà",
-"Mandarin (common language); Putonghua (common speech of the Chinese language); ordinary speech"
-],
-[
-"普及",
-6,
-"pǔ jí",
-"to spread extensively; to generalize; widespread; popular; universal; ubiquitous; pervasive"
-]
-],
-"extraWords": [
-[
 "普通",
-110.98,
+2,
 "pǔ tōng",
 "common; ordinary; general; average"
 ],
 [
+"普通话",
+2,
+"pǔ tōng huà",
+"Mandarin (common language); Putonghua (common speech of the Chinese language); ordinary speech"
+],
+[
+"普遍",
+3,
+"pǔ biàn",
+"universal; general; widespread; common"
+],
+[
+"普及",
+3,
+"pǔ jí",
+"to spread extensively; to generalize; widespread; popular; universal; ubiquitous; pervasive"
+],
+[
+"吉普",
+7,
+"Jí pǔ",
+"Jeep (car brand)"
+],
+[
+"科普",
+7,
+"kē pǔ",
+"popular science; popularization of science; abbr. of 科學普及|科学普及"
+],
+[
 "普通人",
-12.34,
+7,
 "pǔ tōng rén",
 "ordinary person; private citizen; people; the person in the street"
+]
+],
+"extraWords": [
+[
+"普",
+47.36,
+"pǔ",
+"general; popular; everywhere; universal"
 ],
 [
 "普京",
@@ -51,12 +69,6 @@
 "Hewlett-Packard"
 ],
 [
-"科普",
-10.13,
-"kē pǔ",
-"popular science; popularization of science; abbr. of 科學普及|科学普及"
-],
-[
 "普查",
 8.54,
 "pǔ chá",
@@ -69,10 +81,10 @@
 "Simpson (name)"
 ],
 [
-"吉普",
-6.38,
-"Jí pǔ",
-"Jeep (car brand)"
+"菲利普",
+5.1,
+"???",
+"???"
 ]
 ],
 "strokes": [

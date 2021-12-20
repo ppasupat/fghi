@@ -1,38 +1,61 @@
 {
 "char": "泄",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "leak; vent; flow; reveal",
 "pron": "xiè"
 },
 "words": [
 [
-"泄露",
-6,
-"xiè lù",
-"to leak (information); to divulge; also pr. [xie4 lou4]"
-],
-[
-"泄气",
-6,
-"xiè qì",
-"to leak (gas); to be discouraged; to despair; (disparaging) pathetic; to vent one's anger; (of a tire) to be flat"
-]
-],
-"extraWords": [
-[
 "发泄",
-11.66,
+7,
 "fā xiè",
 "to give vent to (one's feelings)"
 ],
 [
+"泄",
+7,
+"xiè",
+"to leak (of water or gas); to drip; to drain; to discharge; to leak out; to divulge (secrets); to give vent (to anger, spite etc); to disperse; to reduce"
+],
+[
+"泄",
+7,
+"xiè",
+"variant of 泄[xiè]"
+],
+[
 "泄漏",
-8.41,
+7,
 "xiè lòu",
 "(of a liquid or gas) to leak; to divulge (a secret); to leak"
+],
+[
+"泄露",
+7,
+"xiè lù",
+"to leak (information); to divulge; also pr. [xie4 lou4]"
+],
+[
+"泄密",
+7,
+"xiè mì",
+"to leak secrets"
+],
+[
+"泄气",
+7,
+"xiè qì",
+"to leak (gas); to be discouraged; to despair; (disparaging) pathetic; to vent one's anger; (of a tire) to be flat"
+],
+[
+"宣泄",
+7,
+"xuān xiè",
+"to drain (by leading off water); to unburden oneself; to divulge; to leak a secret"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 229 718 Q 257 693 287 663 Q 302 650 319 649 Q 331 650 336 665 Q 342 681 332 713 Q 326 735 293 750 Q 217 777 200 771 Q 194 767 196 753 Q 200 740 229 718 Z",
 "M 118 515 Q 175 461 210 448 Q 226 445 235 460 Q 239 475 236 492 Q 221 534 154 551 Q 115 563 101 557 Q 94 556 98 542 Q 101 529 118 515 Z",

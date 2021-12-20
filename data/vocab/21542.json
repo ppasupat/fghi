@@ -1,16 +1,22 @@
 {
 "char": "否",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "not, no, negative; final particle",
 "pron": "fǒu, pǐ"
 },
 "words": [
 [
-"是否",
-4,
-"shì fǒu",
-"whether (or not); if; is or isn't"
+"否定",
+3,
+"fǒu dìng",
+"to negate; to deny; to reject; negative (answer); negation"
+],
+[
+"否认",
+3,
+"fǒu rèn",
+"to declare to be untrue; to deny"
 ],
 [
 "否则",
@@ -19,36 +25,42 @@
 "if not; otherwise; else; or else"
 ],
 [
-"否认",
-5,
-"fǒu rèn",
-"to declare to be untrue; to deny"
+"是否",
+4,
+"shì fǒu",
+"whether (or not); if; is or isn't"
 ],
-[
-"否定",
-5,
-"fǒu dìng",
-"to negate; to deny; to reject; negative (answer); negation"
-],
-[
-"否决",
-6,
-"fǒu jué",
-"to veto; to overrule"
-]
-],
-"extraWords": [
 [
 "能否",
-47.86,
+6,
 "néng fǒu",
 "whether or not; can it or can't it; is it possible?"
 ],
 [
+"否决",
+7,
+"fǒu jué",
+"to veto; to overrule"
+],
+[
 "与否",
-6.59,
+7,
 "yǔ fǒu",
 "whether or not (at the end of a phrase)"
+]
+],
+"extraWords": [
+[
+"否",
+22.42,
+"fǒu",
+"to negate; to deny; not"
+],
+[
+"否",
+22.42,
+"pǐ",
+"clogged; evil"
 ]
 ],
 "strokes": [

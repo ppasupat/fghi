@@ -1,6 +1,6 @@
 {
 "char": "尾",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "tail, extremity; end, stern",
 "pron": "wěi, yǐ"
@@ -8,29 +8,53 @@
 "words": [
 [
 "尾巴",
-5,
+4,
 "wěi ba",
 "tail; colloquial pr. [yi3 ba5]"
+],
+[
+"结尾",
+7,
+"jié wěi",
+"ending; coda; to wind up"
+],
+[
+"尾气",
+7,
+"wěi qì",
+"exhaust (i.e. waste gas from engine); emissions"
+],
+[
+"尾声",
+7,
+"wěi shēng",
+"coda; epilogue; end"
+],
+[
+"追尾",
+7,
+"zhuī wěi",
+"to tailgate; to hit the car in front as a result of tailgating"
 ]
 ],
 "extraWords": [
+[
+"尾",
+48.42,
+"wěi",
+"tail; remainder; remnant; extremity; sixth of the 28 constellations; classifier for fish"
+],
+[
+"尾",
+48.42,
+"yǐ",
+"horse's tail; pointed posterior section of a locust etc"
+],
 [
 "鸡尾酒",
 13.12,
 "jī wěi jiǔ",
 "cocktail (loanword)"
-],
-[
-"结尾",
-12.04,
-"jié wěi",
-"ending; coda; to wind up"
-],
-[
-"尾声",
-5.01,
-"wěi shēng",
-"coda; epilogue; end"
 ]
 ],
 "strokes": [

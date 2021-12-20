@@ -1,43 +1,109 @@
 {
 "char": "微",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "small, prefix micro-, trifling",
 "pron": "wēi"
 },
 "words": [
 [
-"稍微",
+"微笑",
 4,
+"wēi xiào",
+"smile; CL:个[gè],丝[sī]; to smile"
+],
+[
+"微信",
+4,
+"Wēi xìn",
+"Weixin or WeChat (mobile text and voice messaging service developed by Tencent 腾讯[Téng xùn])"
+],
+[
+"稍微",
+5,
 "shāo wēi",
 "a little bit"
 ],
 [
-"微笑",
+"微博",
 5,
-"wēi xiào",
-"smile; CL:個|个[ge4],絲|丝[si1]; to smile"
+"wēi bó",
+"microblogging; microblog"
+],
+[
+"微波炉",
+6,
+"wēi bō lú",
+"microwave oven; CL:台[tái]"
+],
+[
+"略微",
+7,
+"lüè wēi",
+"a little bit; slightly"
+],
+[
+"轻微",
+7,
+"qīng wēi",
+"slight; light; trivial; to a small extent"
 ],
 [
 "微不足道",
-6,
+7,
 "wēi bù zú dào",
 "negligible; insignificant"
 ],
 [
+"微观",
+7,
+"wēi guān",
+"micro-; subatomic"
+],
+[
+"微妙",
+7,
+"wēi miào",
+"subtle"
+],
+[
+"微弱",
+7,
+"wēi ruò",
+"weak; faint; feeble"
+],
+[
+"微型",
+7,
+"wēi xíng",
+"miniature; micro-; tiny"
+],
+[
 "无微不至",
-6,
+7,
 "wú wēi bù zhì",
 "in every possible way (idiom); meticulous"
 ],
 [
-"微观",
-6,
-"wēi guān",
-"micro-; subatomic"
+"细微",
+7,
+"xì wēi",
+"tiny; minute; fine; subtle; sensitive (instruments)"
 ]
 ],
 "extraWords": [
+[
+"微",
+383.32,
+"Wēi",
+"surname Wei; ancient Chinese state near present day Chongqing; Taiwan pr. [Wei2]"
+],
+[
+"微",
+383.32,
+"wēi",
+"tiny; miniature; slightly; profound; abtruse; to decline; one millionth part of; micro-; Taiwan pr. [wei2]"
+],
 [
 "微软",
 31.72,
@@ -63,12 +129,6 @@
 "scanty; meager"
 ],
 [
-"轻微",
-11.9,
-"qīng wēi",
-"slight; light; trivial; to a small extent"
-],
-[
 "微生物",
 8.0,
 "wēi shēng wù",
@@ -79,12 +139,6 @@
 7.93,
 "wēi xiǎo",
 "minute (i.e. extremely small); infinitesimal"
-],
-[
-"微妙",
-7.24,
-"wēi miào",
-"subtle"
 ],
 [
 "卑微",
@@ -99,40 +153,10 @@
 "down to the smallest detail; thoroughgoing; fine and detailed"
 ],
 [
-"微弱",
-6.54,
-"wēi ruò",
-"weak; faint; feeble"
-],
-[
-"微型",
-5.96,
-"wēi xíng",
-"miniature; micro-; tiny"
-],
-[
-"略微",
-5.59,
-"lüè wēi",
-"a little bit; slightly"
-],
-[
-"微波炉",
-5.34,
-"wēi bō lú",
-"microwave oven; CL:臺|台[tai2]"
-],
-[
 "微波",
 5.1,
 "wēi bō",
 "ripple; microwave"
-],
-[
-"细微",
-5.1,
-"xì wēi",
-"tiny; minute; fine; subtle; sensitive (instruments)"
 ]
 ],
 "strokes": [

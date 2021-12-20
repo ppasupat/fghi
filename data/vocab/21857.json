@@ -1,6 +1,6 @@
 {
 "char": "啡",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "morphine; coffee",
 "pron": "fēi"
@@ -8,9 +8,9 @@
 "words": [
 [
 "咖啡",
-2,
+3,
 "kā fēi",
-"coffee (loanword); CL:杯[bei1]"
+"coffee (loanword); CL:杯[bēi]"
 ]
 ],
 "extraWords": [
@@ -30,7 +30,7 @@
 "咖啡馆",
 5.54,
 "kā fēi guǎn",
-"café; coffee shop; CL:家[jia1]"
+"café; coffee shop; CL:家[jiā]"
 ]
 ],
 "strokes": [

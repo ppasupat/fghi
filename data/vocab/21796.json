@@ -1,16 +1,34 @@
 {
 "char": "唤",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "call",
 "pron": "huàn"
 },
 "words": [
 [
+"呼风唤雨",
+7,
+"hū fēng huàn yǔ",
+"to call the wind and summon the rain (idiom); to exercise magical powers; fig. to stir up troubles"
+],
+[
 "呼唤",
-6,
+7,
 "hū huàn",
 "to call out (a name etc); to shout"
+],
+[
+"唤起",
+7,
+"huàn qǐ",
+"to waken (to action); to rouse (the masses); to evoke (attention, recollection etc)"
+],
+[
+"使唤",
+7,
+"shǐ huan",
+"to order sb around; (coll.) to handle (a draught animal, tool, machine etc); Taiwan pr. [shi3 huan4]"
 ]
 ],
 "extraWords": [
@@ -25,6 +43,12 @@
 8.76,
 "huàn xǐng",
 "to wake sb; to rouse"
+],
+[
+"唤",
+7.6,
+"huàn",
+"to call"
 ]
 ],
 "strokes": [

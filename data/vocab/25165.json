@@ -1,6 +1,6 @@
 {
 "char": "才",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "talent, ability; just, only",
 "pron": "cái"
@@ -8,65 +8,89 @@
 "words": [
 [
 "才",
-3,
+2,
 "cái",
 "ability; talent; sb of a certain type; a capable individual; then and only then; just now; (before an expression of quantity) only"
 ],
 [
 "才",
-3,
+2,
 "cái",
-"(variant of 才[cai2]) just now; (before an expression of quantity) only"
+"(variant of 才[cái]) just now; (before an expression of quantity) only"
 ],
 [
 "刚才",
-3,
+2,
 "gāng cái",
 "just now; a moment ago"
 ],
 [
 "刚才",
-3,
+2,
 "gāng cái",
-"just now (variant of 剛才|刚才[gang1 cai2])"
+"just now (variant of 刚才[gāng cái])"
+],
+[
+"才能",
+3,
+"cái néng",
+"talent; ability; capacity"
 ],
 [
 "人才",
-5,
+3,
 "rén cái",
 "talent; talented person; looks; attractive looks"
 ],
 [
 "天才",
-6,
+5,
 "tiān cái",
 "talent; gift; genius; talented; gifted"
 ],
 [
-"才干",
-6,
-"cái gàn",
-"ability; competence"
+"才华",
+7,
+"cái huá",
+"talent; CL:份[fèn]"
+],
+[
+"成才",
+7,
+"chéng cái",
+"to make sth of oneself; to become a person who is worthy of respect"
+],
+[
+"口才",
+7,
+"kǒu cái",
+"eloquence"
 ]
 ],
 "extraWords": [
 [
-"才能",
-205.69,
-"cái néng",
-"talent; ability; capacity"
+"才是",
+103.74,
+"???",
+"???"
 ],
 [
-"才华",
-14.49,
-"cái huá",
-"talent; CL:份[fen4]"
+"有才",
+11.57,
+"???",
+"???"
 ],
 [
 "方才",
 8.67,
 "fāng cái",
 "just now; then"
+],
+[
+"才算",
+6.28,
+"???",
+"???"
 ]
 ],
 "strokes": [

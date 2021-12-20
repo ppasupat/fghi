@@ -1,28 +1,40 @@
 {
 "char": "摩",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "rub, scour, grind; friction",
 "pron": "mā, mó"
 },
 "words": [
 [
-"摩托车",
-5,
-"mó tuō chē",
-"motorbike; motorcycle (loanword); CL:輛|辆[liang4],部[bu4]"
-],
-[
 "按摩",
-6,
+5,
 "àn mó",
 "massage; to massage"
 ],
 [
 "摩擦",
-6,
+5,
 "mó cā",
 "friction; rubbing; chafing; fig. disharmony; conflict; also written 磨擦"
+],
+[
+"摩托",
+5,
+"mó tuō",
+"motor (loanword); motorbike"
+],
+[
+"揣摩",
+7,
+"chuǎi mó",
+"to analyze; to try to figure out; to try to fathom"
+],
+[
+"观摩",
+7,
+"guān mó",
+"to observe and emulate; to study (esp. following sb's example)"
 ]
 ],
 "extraWords": [
@@ -33,10 +45,22 @@
 "Sherlock Holmes, 歇洛克·福爾摩斯|歇洛克·福尔摩斯[Xie1 luo4 ke4 · Fu2 er3 mo2 si1]"
 ],
 [
+"摩托车",
+26.88,
+"mó tuō chē",
+"motorbike; motorcycle (loanword); CL:辆[liàng],部[bù]"
+],
+[
 "摩羯座",
 18.71,
 "Mó jié zuò",
 "Capricornus"
+],
+[
+"摩",
+18.27,
+"mó",
+"to rub"
 ],
 [
 "摩羯",
@@ -51,12 +75,6 @@
 "Motorola"
 ],
 [
-"摩托",
-7.69,
-"mó tuō",
-"motor (loanword); motorbike"
-],
-[
 "摩根",
 7.39,
 "Mó gēn",
@@ -67,12 +85,6 @@
 5.96,
 "Mó xī",
 "Moses"
-],
-[
-"观摩",
-5.05,
-"guān mó",
-"to observe and emulate; to study (esp. following sb's example)"
 ]
 ],
 "strokes": [

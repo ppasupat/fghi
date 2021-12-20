@@ -1,6 +1,6 @@
 {
 "char": "巨",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "large, great, enormous; chief",
 "pron": "jù"
@@ -8,53 +8,59 @@
 "words": [
 [
 "巨大",
-5,
+4,
 "jù dà",
 "huge; immense; very large; tremendous; gigantic; enormous"
 ],
 [
 "艰巨",
-5,
+7,
 "jiān jù",
 "arduous; terrible (task); very difficult; formidable"
-]
-],
-"extraWords": [
-[
-"巨蟹座",
-26.77,
-"Jù xiè zuò",
-"Cancer (constellation and sign of the zodiac)"
-],
-[
-"巨头",
-16.21,
-"jù tóu",
-"tycoon; magnate; big player (including company, country, school etc); big shot"
 ],
 [
 "巨额",
-15.73,
+7,
 "jù é",
 "large sum (of money); a huge amount"
 ],
 [
 "巨人",
-11.54,
+7,
 "jù rén",
 "giant"
 ],
 [
+"巨头",
+7,
+"jù tóu",
+"tycoon; magnate; big player (including company, country, school etc); big shot"
+],
+[
 "巨星",
-8.41,
+7,
 "jù xīng",
 "(astronomy) giant star; (fig.) superstar (of opera, basketball etc)"
 ],
 [
 "巨型",
-6.6,
+7,
 "jù xíng",
 "giant; enormous"
+]
+],
+"extraWords": [
+[
+"巨",
+60.45,
+"jù",
+"very large; huge; tremendous; gigantic"
+],
+[
+"巨蟹座",
+26.77,
+"Jù xiè zuò",
+"Cancer (constellation and sign of the zodiac)"
 ]
 ],
 "strokes": [

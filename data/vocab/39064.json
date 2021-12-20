@@ -1,11 +1,17 @@
 {
 "char": "题",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "forehead; title, headline; theme",
 "pron": "tí"
 },
 "words": [
+[
+"难题",
+2,
+"nán tí",
+"difficult problem"
+],
 [
 "题",
 2,
@@ -16,81 +22,105 @@
 "题",
 2,
 "tí",
-"topic; problem for discussion; exam question; subject; to inscribe; to mention; CL:個|个[ge4],道[dao4]"
+"topic; problem for discussion; exam question; subject; to inscribe; to mention; CL:个[gè],道[dào]"
 ],
 [
 "问题",
 2,
 "wèn tí",
-"question; problem; issue; topic; CL:個|个[ge4]"
-],
-[
-"话题",
-5,
-"huà tí",
-"subject (of a talk or conversation); topic"
-],
-[
-"主题",
-5,
-"zhǔ tí",
-"theme; subject"
-],
-[
-"题目",
-5,
-"tí mù",
-"subject; title; topic; CL:個|个[ge4]"
+"question; problem; issue; topic; CL:个[gè]"
 ],
 [
 "标题",
-6,
+3,
 "biāo tí",
 "title; heading; headline; caption; subject"
 ],
 [
-"题材",
-6,
-"tí cái",
-"subject matter"
+"话题",
+3,
+"huà tí",
+"subject (of a talk or conversation); topic"
+],
+[
+"试题",
+3,
+"shì tí",
+"exam question; test topic"
+],
+[
+"题目",
+3,
+"tí mù",
+"subject; title; topic; CL:个[gè]"
+],
+[
+"专题",
+3,
+"zhuān tí",
+"specific topic (addressed by a book, lecture, TV program etc); article, report or program etc on a specific topic"
+],
+[
+"主题",
+4,
+"zhǔ tí",
+"theme; subject"
 ],
 [
 "课题",
-6,
+5,
 "kè tí",
 "task; problem; issue"
 ],
 [
-"专题",
-6,
-"zhuān tí",
-"specific topic (addressed by a book, lecture, TV program etc); article, report or program etc on a specific topic"
-]
+"题材",
+5,
+"tí cái",
+"subject matter"
 ],
-"extraWords": [
 [
-"难题",
-25.01,
-"nán tí",
-"difficult problem"
+"考题",
+6,
+"kǎo tí",
+"exam question"
+],
+[
+"议题",
+6,
+"yì tí",
+"topic of discussion; topic; subject; issue (under discussion); CL:项[xiàng]"
+],
+[
+"成问题",
+7,
+"chéng wèn tí",
+"to be a problem; problematic; questionable"
+],
+[
+"出难题",
+7,
+"chū nán tí",
+"to raise a tough question"
 ],
 [
 "命题",
-9.38,
+7,
 "mìng tí",
 "proposition (logic, math.); to assign an essay topic"
 ],
 [
-"议题",
-9.2,
-"yì tí",
-"topic of discussion; topic; subject; issue (under discussion); CL:項|项[xiang4]"
+"主题歌",
+7,
+"zhǔ tí gē",
+"theme song"
+]
 ],
+"extraWords": [
 [
-"试题",
-7.52,
-"shì tí",
-"exam question; test topic"
+"有问题",
+18.41,
+"???",
+"???"
 ],
 [
 "出问题",

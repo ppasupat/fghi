@@ -1,6 +1,6 @@
 {
 "char": "聪",
-"level": 3,
+"level": "5",
 "info": {
 "gloss": "intelligent, clever, bright",
 "pron": "cōng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "聪明",
-3,
+5,
 "cōng ming",
 "intelligent; clever; bright; smart; acute (of sight and hearing)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"聪明人",
+6.32,
+"???",
+"???"
+],
+[
+"聪",
+5.98,
+"cōng",
+"quick at hearing; wise; clever; sharp-witted; intelligent; acute"
+]
+],
 "strokes": [
 "M 386 710 Q 432 717 471 724 Q 481 723 490 735 Q 490 745 469 755 Q 433 774 335 743 Q 274 731 127 703 Q 100 699 122 683 Q 150 664 173 664 L 205 672 Q 271 688 353 704 L 386 710 Z",
 "M 173 664 Q 192 615 194 599 Q 194 497 192 265 C 192 235 232 249 233 279 Q 234 337 236 391 L 236 424 Q 237 470 239 511 L 240 546 Q 241 565 242 584 Q 243 605 244 619 Q 251 637 242 646 Q 223 664 205 672 C 178 686 162 692 173 664 Z",

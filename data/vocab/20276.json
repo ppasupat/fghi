@@ -1,6 +1,6 @@
 {
 "char": "伴",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "companion, comrade, partner; accompany",
 "pron": "bàn"
@@ -8,47 +8,65 @@
 "words": [
 [
 "伙伴",
-5,
+4,
 "huǒ bàn",
 "partner; companion; comrade"
 ],
 [
+"伴",
+7,
+"bàn",
+"partner; companion; comrade; associate; to accompany"
+],
+[
 "伴侣",
-6,
+7,
 "bàn lǚ",
 "companion; mate; partner"
 ],
 [
 "伴随",
-6,
+7,
 "bàn suí",
 "to accompany; to follow; to occur together with; concomitant"
-]
 ],
-"extraWords": [
+[
+"伴奏",
+7,
+"bàn zòu",
+"to accompany (musically)"
+],
+[
+"老伴儿",
+7,
+"lǎo bàn r5",
+"erhua variant of 老伴[lǎo bàn]"
+],
 [
 "陪伴",
-19.32,
+7,
 "péi bàn",
 "to accompany"
 ],
 [
 "同伴",
-16.25,
+7,
 "tóng bàn",
 "companion; comrade; fellow"
 ],
+[
+"相伴",
+7,
+"xiāng bàn",
+"to accompany sb; to accompany each other"
+]
+],
+"extraWords": [
 [
 "舞伴",
 12.04,
 "wǔ bàn",
 "dancing partner"
-],
-[
-"相伴",
-8.94,
-"xiāng bàn",
-"to accompany sb; to accompany each other"
 ],
 [
 "伴娘",

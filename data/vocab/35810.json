@@ -1,11 +1,17 @@
 {
 "char": "询",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "inquire into, ask about; consult",
 "pron": "xún"
 },
 "words": [
+[
+"查询",
+5,
+"chá xún",
+"to check; to inquire; to consult (a document etc); inquiry; query"
+],
 [
 "询问",
 5,
@@ -14,17 +20,17 @@
 ],
 [
 "咨询",
-5,
+6,
 "zī xún",
 "to consult; to seek advice; consultation; (sales) inquiry (formal)"
 ]
 ],
 "extraWords": [
 [
-"查询",
-28.77,
-"chá xún",
-"to check; to inquire; to consult (a document etc); inquiry; query"
+"询",
+8.16,
+"xún",
+"to ask about; to inquire about"
 ]
 ],
 "strokes": [

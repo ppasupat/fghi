@@ -1,6 +1,6 @@
 {
 "char": "振",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "raise, excite, arouse action",
 "pron": "zhèn"
@@ -14,29 +14,35 @@
 ],
 [
 "振奋",
-6,
+7,
 "zhèn fèn",
 "to stir oneself up; to raise one's spirits; to inspire"
 ],
 [
 "振兴",
-6,
+7,
 "Zhèn xīng",
-"Zhengxing district of Dandong city 丹東市|丹东市[Dan1 dong1 shi4], Liaoning"
+"Zhengxing district of Dandong city 丹东市[Dān dōng shì], Liaoning"
 ],
 [
 "振兴",
-6,
+7,
 "zhèn xīng",
 "to revive; to revitalize; to invigorate; to re-energize"
+],
+[
+"振作",
+7,
+"zhèn zuò",
+"to bestir oneself; to pull oneself together; to cheer up; to uplift; to stimulate"
 ]
 ],
 "extraWords": [
 [
-"振作",
-15.38,
-"zhèn zuò",
-"to bestir oneself; to pull oneself together; to cheer up; to uplift; to stimulate"
+"振",
+20.05,
+"zhèn",
+"to shake; to flap; to vibrate; to resonate; to rise up with spirit; to rouse oneself"
 ],
 [
 "振荡",

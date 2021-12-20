@@ -1,54 +1,72 @@
 {
 "char": "互",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "mutually, reciprocally",
 "pron": "hù"
 },
 "words": [
 [
+"互联网",
+3,
+"Hù lián wǎng",
+"Internet"
+],
+[
 "互相",
-4,
+3,
 "hù xiāng",
 "each other; mutually; mutual"
 ],
 [
-"互联网",
-4,
-"Hù lián wǎng",
-"Internet"
-]
-],
-"extraWords": [
-[
 "相互",
-73.67,
+3,
 "xiāng hù",
 "each other; mutual"
 ],
 [
 "互动",
-28.39,
+6,
 "hù dòng",
 "to interact; interactive"
 ],
 [
 "互补",
-8.53,
+7,
 "hù bǔ",
 "complementary; to complement each other"
 ],
 [
-"互助",
-7.61,
-"Hù zhù",
-"Huzhu Tuzu autonomous county in Haidong prefecture 海東地區|海东地区[Hai3 dong1 di4 qu1], Qinghai"
+"互访",
+7,
+"hù fǎng",
+"exchange visits"
+],
+[
+"互信",
+7,
+"hù xìn",
+"mutual trust"
 ],
 [
 "互助",
-7.61,
+7,
+"Hù zhù",
+"Huzhu Tuzu autonomous county in Haidong prefecture 海东地区[Hǎi dōng dì qū], Qinghai"
+],
+[
+"互助",
+7,
 "hù zhù",
 "to help each other"
+]
+],
+"extraWords": [
+[
+"互",
+40.21,
+"hù",
+"mutual"
 ],
 [
 "互利",

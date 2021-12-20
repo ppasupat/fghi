@@ -1,17 +1,30 @@
 {
 "char": "槛",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "threshold, door-sill",
 "pron": "jiàn, kǎn"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "门槛",
-15.09,
+7,
 "mén kǎn",
 "doorstep; sill; threshold; fig. knack or trick (esp. scheme to get sth cheaper)"
+]
+],
+"extraWords": [
+[
+"槛",
+0.92,
+"jiàn",
+"banister; balustrade; cage for animal or prisoner; to transport caged prisoner on a cart"
+],
+[
+"槛",
+0.92,
+"kǎn",
+"door sill; threshold"
 ]
 ],
 "strokes": [

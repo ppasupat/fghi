@@ -1,6 +1,6 @@
 {
 "char": "语",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "language, words; saying, expression",
 "pron": "yǔ"
@@ -10,19 +10,37 @@
 "汉语",
 1,
 "Hàn yǔ",
-"Chinese language; CL:門|门[men2]"
+"Chinese language; CL:门[mén]"
 ],
 [
-"语言",
-4,
-"yǔ yán",
-"language; CL:門|门[men2],種|种[zhong3]"
+"外语",
+1,
+"wài yǔ",
+"foreign language; CL:门[mén]"
 ],
 [
 "词语",
-4,
+2,
 "cí yǔ",
 "word (general term including monosyllables through to short phrases); term (e.g. technical term); expression"
+],
+[
+"英语",
+2,
+"Yīng yǔ",
+"English (language)"
+],
+[
+"语言",
+2,
+"yǔ yán",
+"language; CL:门[mén],种[zhǒng]"
+],
+[
+"口语",
+4,
+"kǒu yǔ",
+"colloquial speech; spoken language; vernacular language; slander; gossip; CL:门[mén]"
 ],
 [
 "语法",
@@ -31,84 +49,126 @@
 "grammar"
 ],
 [
-"语气",
-5,
-"yǔ qì",
-"tone; manner of speaking; mood; CL:個|个[ge4]"
+"语音",
+4,
+"yǔ yīn",
+"speech sounds; pronunciation; colloquial (rather than literary) pronunciation of a Chinese character; phonetic; audio; voice; (Internet) to voice chat; voice message"
 ],
 [
 "成语",
 5,
 "chéng yǔ",
-"Chinese set expression, typically of 4 characters, often alluding to a story or historical quotation; idiom; proverb; saying; adage; CL:條|条[tiao2],本[ben3],句[ju4]"
+"Chinese set expression, typically of 4 characters, often alluding to a story or historical quotation; idiom; proverb; saying; adage; CL:条[tiáo],本[běn],句[jù]"
+],
+[
+"华语",
+5,
+"Huá yǔ",
+"Chinese language"
+],
+[
+"言语",
+5,
+"yán yǔ",
+"words; speech; (spoken) language"
+],
+[
+"言语",
+5,
+"yán yu",
+"to speak; to tell"
+],
+[
+"法语",
+6,
+"Fǎ yǔ",
+"French (language)"
+],
+[
+"日语",
+6,
+"Rì yǔ",
+"Japanese language"
+],
+[
+"西班牙语",
+6,
+"Xī bān yá yǔ",
+"Spanish language"
+],
+[
+"自言自语",
+6,
+"zì yán zì yǔ",
+"to talk to oneself; to think aloud; to soliloquize"
+],
+[
+"阿拉伯语",
+7,
+"Ā lā bó yǔ",
+"Arabic (language)"
+],
+[
+"标语",
+7,
+"biāo yǔ",
+"written slogan; placard; CL:幅[fú],张[zhāng],条[tiáo]"
+],
+[
+"俄语",
+7,
+"É yǔ",
+"Russian (language)"
+],
+[
+"话语",
+7,
+"huà yǔ",
+"words; speech; utterance; discourse"
+],
+[
+"欢声笑语",
+7,
+"huān shēng xiào yǔ",
+"cheers and laughter"
 ],
 [
 "谜语",
-6,
+7,
 "mí yǔ",
-"riddle; conundrum; CL:條|条[tiao2]"
+"riddle; conundrum; CL:条[tiáo]"
 ],
 [
-"母语",
-6,
-"mǔ yǔ",
-"native language; mother tongue; (linguistics) parent language"
+"俗语",
+7,
+"sú yǔ",
+"common saying; proverb; colloquial speech"
+],
+[
+"语气",
+7,
+"yǔ qì",
+"tone; manner of speaking; mood; CL:个[gè]"
 ]
 ],
 "extraWords": [
 [
-"英语",
-67.01,
-"Yīng yǔ",
-"English (language)"
+"语",
+86.36,
+"yǔ",
+"dialect; language; speech"
 ],
 [
-"法语",
-24.68,
-"Fǎ yǔ",
-"French (language)"
+"语",
+86.36,
+"yù",
+"to tell to"
 ],
 [
 "语文",
 24.07,
 "yǔ wén",
 "literature and language; (PRC) Chinese (as a school subject)"
-],
-[
-"西班牙语",
-22.12,
-"Xī bān yá yǔ",
-"Spanish language"
-],
-[
-"话语",
-16.53,
-"huà yǔ",
-"words; speech; utterance; discourse"
-],
-[
-"言语",
-14.7,
-"yán yǔ",
-"words; speech; (spoken) language"
-],
-[
-"言语",
-14.7,
-"yán yu",
-"to speak; to tell"
-],
-[
-"语音",
-14.25,
-"yǔ yīn",
-"speech sounds; pronunciation; colloquial (rather than literary) pronunciation of a Chinese character; phonetic; audio; voice; (Internet) to voice chat; voice message"
-],
-[
-"外语",
-14.17,
-"wài yǔ",
-"foreign language; CL:門|门[men2]"
 ],
 [
 "咒语",
@@ -123,12 +183,6 @@
 "German (language)"
 ],
 [
-"标语",
-7.67,
-"biāo yǔ",
-"written slogan; placard; CL:幅[fu2],張|张[zhang1],條|条[tiao2]"
-],
-[
 "粤语",
 7.59,
 "Yuè yǔ",
@@ -139,30 +193,6 @@
 7.08,
 "yǔ lù",
 "quotation (from a book or existing source)"
-],
-[
-"俄语",
-7.01,
-"É yǔ",
-"Russian (language)"
-],
-[
-"日语",
-6.36,
-"Rì yǔ",
-"Japanese language"
-],
-[
-"口语",
-6.24,
-"kǒu yǔ",
-"colloquial speech; spoken language; vernacular language; slander; gossip; CL:門|门[men2]"
-],
-[
-"华语",
-5.42,
-"Huá yǔ",
-"Chinese language"
 ],
 [
 "术语",

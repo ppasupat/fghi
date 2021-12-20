@@ -1,11 +1,17 @@
 {
 "char": "拔",
-"level": 6,
+"level": "5",
 "info": {
 "gloss": "uproot, pull out",
 "pron": "bá"
 },
 "words": [
+[
+"拔",
+5,
+"bá",
+"to pull up; to pull out; to draw out by suction; to select; to pick; to stand out (above level); to surpass; to seize"
+],
 [
 "选拔",
 6,
@@ -13,28 +19,22 @@
 "to select the best"
 ],
 [
-"提拔",
-6,
-"tí bá",
-"to promote to a higher job; to select for promotion"
-],
-[
-"拔苗助长",
-6,
-"bá miáo zhù zhǎng",
-"to spoil things through excessive enthusiasm (idiom)"
-],
-[
 "海拔",
-6,
+7,
 "hǎi bá",
 "height above sea level; elevation"
 ],
 [
-"挺拔",
-6,
-"tǐng bá",
-"tall and straight"
+"提拔",
+7,
+"tí bá",
+"to promote to a higher job; to select for promotion"
+],
+[
+"一毛不拔",
+7,
+"yī máo bù bá",
+"stingy (idiom)"
 ]
 ],
 "extraWords": [],

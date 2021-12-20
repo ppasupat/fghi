@@ -1,12 +1,32 @@
 {
 "char": "僧",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "Buddhist priest, monk; san of Sanskrit sangha",
 "pron": "sēng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"僧人",
+7,
+"sēng rén",
+"monk"
+]
+],
+"extraWords": [
+[
+"僧",
+10.25,
+"sēng",
+"(bound form) Buddhist monk (abbr. for 僧伽[sēng qié])"
+],
+[
+"唐僧",
+3.84,
+"Táng sēng",
+"Xuanzang (602-664) Tang dynasty Buddhist monk and translator, who traveled to India 629-645"
+]
+],
 "strokes": [
 "M 218 491 Q 270 555 325 645 Q 350 694 375 717 Q 385 727 380 742 Q 376 755 346 779 Q 318 798 298 798 Q 279 797 287 773 Q 302 742 289 714 Q 225 558 67 364 Q 57 354 54 347 Q 50 335 65 338 Q 98 342 196 463 L 218 491 Z",
 "M 196 463 Q 214 418 223 370 Q 223 222 200 127 Q 188 76 222 37 Q 223 34 226 32 Q 242 16 254 42 Q 269 82 268 127 Q 265 353 272 403 Q 279 430 270 440 Q 228 486 218 491 C 194 510 185 491 196 463 Z",

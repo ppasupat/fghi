@@ -1,6 +1,6 @@
 {
 "char": "摸",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "gently touch with hand; caress",
 "pron": "mō"
@@ -8,35 +8,41 @@
 "words": [
 [
 "摸",
-5,
+4,
 "mō",
 "to feel with the hand; to touch; to stroke; to grope; to steal; to abstract"
 ],
 [
 "摸",
-5,
+4,
 "mó",
-"variant of 摹[mo2]"
+"variant of 摹[mó]"
+],
+[
+"触摸",
+7,
+"chù mō",
+"to touch"
 ],
 [
 "抚摸",
-6,
+7,
 "fǔ mō",
 "to gently caress and stroke; to pet; to fondle"
 ],
 [
 "摸索",
-6,
+7,
 "mō suo",
 "to feel about; to grope about; to fumble; to do things slowly"
 ]
 ],
 "extraWords": [
 [
-"触摸",
-8.43,
-"chù mō",
-"to touch"
+"摸摸",
+7.09,
+"???",
+"???"
 ],
 [
 "偷偷摸摸",

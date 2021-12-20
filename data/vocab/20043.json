@@ -1,132 +1,216 @@
 {
 "char": "之",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "marks preceding phrase as modifier of following phrase; it, him her, them; go to",
 "pron": "zhī"
 },
 "words": [
 [
-"之",
+"分之",
 4,
-"zhī",
-"(possessive particle, literary equivalent of 的[de5]); him; her; it"
-],
-[
-"百分之",
-4,
-"bǎi fēn zhī",
-"percent"
-],
-[
-"总之",
-5,
-"zǒng zhī",
-"in a word; in short; in brief"
-],
-[
-"之际",
-6,
-"zhī jì",
-"during; at the time of"
-],
-[
-"总而言之",
-6,
-"zǒng ér yán zhī",
-"in short; in a word; in brief"
-],
-[
-"当务之急",
-6,
-"dāng wù zhī jí",
-"top priority job; matter of vital importance"
-],
-[
-"反之",
-6,
-"fǎn zhī",
-"on the other hand...; conversely..."
-],
-[
-"天伦之乐",
-6,
-"tiān lún zhī lè",
-"family love and joy; domestic bliss"
-],
-[
-"后顾之忧",
-6,
-"hòu gù zhī yōu",
-"fears of trouble in the rear (idiom); family worries (obstructing freedom of action); worries about the future consequences; often in negative expressions, meaning \"no worries about anything\""
-]
-],
-"extraWords": [
-[
-"之前",
-452.71,
-"zhī qián",
-"before; prior to; ago; previously; beforehand"
+"fēn zhī",
+"(indicating a fraction)"
 ],
 [
 "之后",
-367.8,
+4,
 "zhī hòu",
 "afterwards; following; later; after"
 ],
 [
 "之间",
-278.98,
+4,
 "zhī jiān",
 "between; among; inter-"
 ],
 [
+"之前",
+4,
+"zhī qián",
+"before; prior to; ago; previously; beforehand"
+],
+[
 "之一",
-168.35,
+4,
 "zhī yī",
 "one of (sth); one out of a multitude; one (third, quarter, percent etc)"
 ],
 [
-"之中",
-89.66,
-"zhī zhōng",
-"inside; among; in the midst of (doing sth); during"
+"总之",
+4,
+"zǒng zhī",
+"in a word; in short; in brief"
+],
+[
+"之内",
+5,
+"zhī nèi",
+"inside; within"
 ],
 [
 "之外",
-68.54,
+5,
 "zhī wài",
 "outside; excluding"
 ],
 [
-"之类",
-61.17,
-"zhī lèi",
-"and so on; and such"
-],
-[
 "之下",
-58.72,
+5,
 "zhī xià",
 "under; beneath; less than"
 ],
 [
-"之所以",
-43.97,
-"zhī suǒ yǐ",
-"(after a noun N and before a predicate P) the reason why N P; Example: 我之所以討厭他|我之所以讨厌他[wo3 zhi1 suo3 yi3 tao3 yan4 ta1] \"the reason why I dislike him (is ...)\""
+"之中",
+5,
+"zhī zhōng",
+"inside; among; in the midst of (doing sth); during"
 ],
 [
-"之内",
-31.03,
-"zhī nèi",
-"inside; within"
+"之类",
+6,
+"zhī lèi",
+"and so on; and such"
+],
+[
+"不正之风",
+7,
+"bù zhèng zhī fēng",
+"unhealthy tendency"
+],
+[
+"不了了之",
+7,
+"bù liǎo liǎo zhī",
+"to settle a matter by leaving it unsettled; to end up with nothing definite"
+],
+[
+"乘人之危",
+7,
+"chéng rén zhī wēi",
+"to take advantage of sb's precarious position"
+],
+[
+"持之以恒",
+7,
+"chí zhī yǐ héng",
+"to pursue unremittingly (idiom); to persevere"
+],
+[
+"除此之外",
+7,
+"chú cǐ zhī wài",
+"apart from this; in addition to this"
+],
+[
+"当务之急",
+7,
+"dāng wù zhī jí",
+"top priority job; matter of vital importance"
+],
+[
+"当之无愧",
+7,
+"dāng zhī wú kuì",
+"fully deserving, without any reservations (idiom); entirely worthy (of a title, honor etc)"
+],
+[
+"后顾之忧",
+7,
+"hòu gù zhī yōu",
+"fears of trouble in the rear (idiom); family worries (obstructing freedom of action); worries about the future consequences; often in negative expressions, meaning \"no worries about anything\""
+],
+[
+"换言之",
+7,
+"huàn yán zhī",
+"in other words"
+],
+[
+"敬而远之",
+7,
+"jìng ér yuǎn zhī",
+"to show respect from a distance (idiom); to remain at a respectful distance"
+],
+[
+"可乘之机",
+7,
+"kě chéng zhī jī",
+"an opportunity that someone (usually a villain or adversary) can exploit"
+],
+[
+"取而代之",
+7,
+"qǔ ér dài zhī",
+"to substitute for sb; to remove and replace"
+],
+[
+"相比之下",
+7,
+"xiāng bǐ zhī xià",
+"by comparison"
+],
+[
+"一技之长",
+7,
+"yī jì zhī cháng",
+"proficiency in a particular field (idiom); skill in a specialized area (idiom)"
+],
+[
+"意料之外",
+7,
+"yì liào zhī wài",
+"contrary to expectation; unexpected"
+],
+[
+"之",
+7,
+"zhī",
+"(possessive particle, literary equivalent of 的[de]); him; her; it"
+],
+[
+"之所以",
+7,
+"zhī suǒ yǐ",
+"(after a noun N and before a predicate P) the reason why N P; Example: 我之所以讨厌他[wǒ zhī suǒ yǐ tǎo yàn tā] \"the reason why I dislike him (is ...)\""
+],
+[
+"重中之重",
+7,
+"zhòng zhōng zhī zhòng",
+"of the utmost importance; of highest priority"
+],
+[
+"总而言之",
+7,
+"zǒng ér yán zhī",
+"in short; in a word; in brief"
+]
+],
+"extraWords": [
+[
+"之处",
+34.96,
+"???",
+"???"
+],
+[
+"之际",
+30.09,
+"zhī jì",
+"during; at the time of"
 ],
 [
 "之上",
 29.95,
 "zhī shàng",
 "above"
+],
+[
+"使之",
+14.63,
+"???",
+"???"
 ],
 [
 "称之为",
@@ -141,10 +225,28 @@
 "one third"
 ],
 [
-"除此之外",
-10.39,
-"chú cǐ zhī wài",
-"apart from this; in addition to this"
+"之情",
+11.01,
+"???",
+"???"
+],
+[
+"之余",
+10.96,
+"???",
+"???"
+],
+[
+"之家",
+7.27,
+"???",
+"???"
+],
+[
+"反之",
+6.88,
+"fǎn zhī",
+"on the other hand...; conversely..."
 ],
 [
 "在此之前",
@@ -159,10 +261,22 @@
 "one-quarter"
 ],
 [
+"三分之二",
+6.49,
+"???",
+"???"
+],
+[
 "百分之百",
 5.87,
 "bǎi fēn zhī bǎi",
 "a hundred percent; out and out; absolutely"
+],
+[
+"来之不易",
+5.08,
+"???",
+"???"
 ]
 ],
 "strokes": [

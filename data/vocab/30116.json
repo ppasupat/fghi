@@ -1,24 +1,29 @@
 {
 "char": "疤",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "scar, cicatrix; birthmark",
 "pron": "bā"
 },
-"words": [
-[
-"疤",
-6,
-"bā",
-"scar; scab"
-]
-],
+"words": [],
 "extraWords": [
 [
 "伤疤",
 8.38,
 "shāng bā",
-"scar; CL:道[dao4]"
+"scar; CL:道[dào]"
+],
+[
+"疤",
+7.75,
+"bā",
+"scar; scab"
+],
+[
+"疤痕",
+3.88,
+"bā hén",
+"scar"
 ]
 ],
 "strokes": [

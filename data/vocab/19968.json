@@ -1,6 +1,6 @@
 {
 "char": "一",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "one; a, an; alone",
 "pron": "yī"
@@ -13,76 +13,196 @@
 "one; 1; single; a (article); as soon as; entire; whole; all; throughout; \"one\" radical in Chinese characters (Kangxi radical 1); also pr. [yao1] for greater clarity when spelling out numbers digit by digit"
 ],
 [
-"一点儿",
+"一半",
 1,
-"yī diǎn r5",
-"erhua variant of 一點|一点[yi1 dian3]"
-],
-[
-"一起",
-2,
-"yī qǐ",
-"in the same place; together; with; altogether (in total)"
-],
-[
-"一下",
-2,
-"yī xià",
-"(used after a verb) give it a go; to do (sth for a bit to give it a try); one time; once; in a while; all of a sudden; all at once"
-],
-[
-"第一",
-2,
-"dì yī",
-"first; number one; primary"
-],
-[
-"一样",
-3,
-"yī yàng",
-"same; like; equal to; the same as; just like"
-],
-[
-"一直",
-3,
-"yī zhí",
-"straight (in a straight line); continuously; always; from the beginning of ... up to ...; all along"
-],
-[
-"一定",
-3,
-"yī dìng",
-"surely; certainly; necessarily; fixed; a certain (extent etc); given; particular; must"
+"yī bàn",
+"half"
 ],
 [
 "一会儿",
-3,
+1,
 "yī huì r5",
 "a moment; a while; in a moment; now...now...; also pr. [yi1 hui3 r5]"
 ],
 [
+"一块儿",
+1,
+"yī kuài r5",
+"erhua variant of 一块[yī kuài]"
+],
+[
+"一下儿",
+1,
+"yī xià r5",
+"erhua variant of 一下[yī xià]"
+],
+[
+"一样",
+1,
+"yī yàng",
+"same; like; equal to; the same as; just like"
+],
+[
 "一边",
-3,
+1,
 "yī biān",
 "one side; either side; on the one hand; on the other hand; doing while"
 ],
 [
-"一般",
-3,
-"yī bān",
-"same; ordinary; so-so; common; general; generally; in general"
+"一点儿",
+1,
+"yī diǎn r5",
+"erhua variant of 一点[yī diǎn]"
+],
+[
+"一起",
+1,
+"yī qǐ",
+"in the same place; together; with; altogether (in total)"
+],
+[
+"一些",
+1,
+"yī xiē",
+"some; a few; a little; (following an adjective) slightly ...er"
+],
+[
+"不一定",
+2,
+"bù yī dìng",
+"not necessarily; maybe"
+],
+[
+"不一会儿",
+2,
+"bù yī huì",
+"soon"
+],
+[
+"一部分",
+2,
+"yī bù fen",
+"portion; part of; subset"
+],
+[
+"一定",
+2,
+"yī dìng",
+"surely; certainly; necessarily; fixed; a certain (extent etc); given; particular; must"
 ],
 [
 "一共",
-3,
+2,
 "yī gòng",
 "altogether"
 ],
 [
+"一路平安",
+2,
+"yī lù píng ān",
+"to have a pleasant journey; Bon voyage!"
+],
+[
+"一路顺风",
+2,
+"yī lù shùn fēng",
+"to have a pleasant journey (idiom)"
+],
+[
+"一般",
+2,
+"yī bān",
+"same; ordinary; so-so; common; general; generally; in general"
+],
+[
+"一点点",
+2,
+"yī diǎn diǎn",
+"a little bit"
+],
+[
+"一生",
+2,
+"yī shēng",
+"all one's life; throughout one's life"
+],
+[
+"一直",
+2,
+"yī zhí",
+"straight (in a straight line); continuously; always; from the beginning of ... up to ...; all along"
+],
+[
+"进一步",
+3,
+"jìn yī bù",
+"one step further; to move forward a step; further onwards"
+],
+[
+"另一方面",
+3,
+"lìng yī fāng miàn",
+"on the other hand; another aspect"
+],
+[
 "一切",
-4,
+3,
 "yī qiè",
 "everything; every; all"
+],
+[
+"一方面",
+3,
+"yī fāng miàn",
+"on the one hand"
+],
+[
+"统一",
+4,
+"tǒng yī",
+"to unify; to unite; to integrate"
+],
+[
+"万一",
+4,
+"wàn yī",
+"just in case; if by any chance; contingency"
+],
+[
+"一律",
+4,
+"yī lǜ",
+"same; uniformly; all; without exception"
+],
+[
+"一再",
+4,
+"yī zài",
+"repeatedly"
+],
+[
+"一致",
+4,
+"yī zhì",
+"unanimous; identical (views or opinions)"
+],
+[
+"一般来说",
+4,
+"yī bān lái shuō",
+"generally speaking"
+],
+[
+"之一",
+4,
+"zhī yī",
+"one of (sth); one out of a multitude; one (third, quarter, percent etc)"
+],
+[
+"单一",
+5,
+"dān yī",
+"single; only; sole"
 ],
 [
 "唯一",
@@ -91,10 +211,10 @@
 "only; sole"
 ],
 [
-"一旦",
+"一流",
 5,
-"yī dàn",
-"in case (sth happens); if; once (sth happens, then...); when; in a short time; in one day"
+"yī liú",
+"top quality; front ranking"
 ],
 [
 "一辈子",
@@ -103,46 +223,82 @@
 "(for) a lifetime"
 ],
 [
-"一致",
+"一带",
 5,
-"yī zhì",
-"unanimous; identical (views or opinions)"
+"yī dài",
+"region; district"
 ],
 [
-"万一",
+"一旦",
 5,
-"wàn yī",
-"just in case; if by any chance; contingency"
+"yī dàn",
+"in case (sth happens); if; once (sth happens, then...); when; in a short time; in one day"
 ],
 [
-"统一",
+"一句话",
 5,
-"tǒng yī",
-"to unify; to unite; to integrate"
+"yī jù huà",
+"in a word; in short"
 ],
 [
-"一再",
+"一路",
 5,
-"yī zài",
-"repeatedly"
+"yī lù",
+"the whole journey; all the way; going the same way; going in the same direction; of the same kind"
 ],
 [
-"一律",
+"一下子",
 5,
-"yī lǜ",
-"same; uniformly; all; without exception"
+"yī xià zi",
+"in a short while; all at once; all of a sudden"
 ],
 [
 "一向",
-6,
+5,
 "yī xiàng",
 "always (previously); a period of time in the recent past"
 ],
 [
-"一流",
+"一口气",
+5,
+"yī kǒu qì",
+"one breath; in one breath; at a stretch"
+],
+[
+"一身",
+5,
+"yī shēn",
+"whole body; from head to toe; single person; a suit of clothes"
+],
+[
+"如一",
 6,
-"yī liú",
-"top quality; front ranking"
+"rú yī",
+"consistent; the same; unvarying"
+],
+[
+"同一",
+6,
+"tóng yī",
+"identical; the same"
+],
+[
+"一次性",
+6,
+"yī cì xìng",
+"one-off (offer); one-time; single-use; disposable (goods)"
+],
+[
+"一代",
+6,
+"yī dài",
+"generation"
+],
+[
+"一道",
+6,
+"yī dào",
+"together"
 ],
 [
 "一贯",
@@ -151,60 +307,480 @@
 "consistent; constant; from start to finish; all along; persistent"
 ],
 [
-"一如既往",
+"一路上",
 6,
-"yī rú jì wǎng",
-"just as in the past (idiom); as before; continuing as always"
+"yī lù shàng",
+"along the way; the whole way; (fig.) the whole time"
+],
+[
+"一番",
+6,
+"???",
+"???"
+],
+[
+"一模一样",
+6,
+"yī mú yī yàng",
+"exactly the same (idiom); carbon copy; also pr. [yi1 mo2 yi1 yang4]"
+],
+[
+"一齐",
+6,
+"yī qí",
+"at the same time; simultaneously"
+],
+[
+"一时",
+6,
+"yī shí",
+"a period of time; a while; for a short while; temporary; momentary; at the same time"
+],
+[
+"一同",
+6,
+"yī tóng",
+"along; together"
+],
+[
+"一行",
+6,
+"yī xíng",
+"party; delegation"
+],
+[
+"大吃一惊",
+7,
+"dà chī yī jīng",
+"to have a surprise (idiom); shocked or startled; gobsmacked"
+],
+[
+"第一手",
+7,
+"dì yī shǒu",
+"first-hand"
+],
+[
+"第一线",
+7,
+"dì yī xiàn",
+"front line; forefront"
+],
+[
+"独一无二",
+7,
+"dú yī wú èr",
+"unique and unmatched (idiom); unrivalled; nothing compares with it"
+],
+[
+"耳目一新",
+7,
+"ěr mù yī xīn",
+"a pleasant change; a breath of fresh air; refreshing"
+],
+[
+"举一反三",
+7,
+"jǔ yī fǎn sān",
+"to raise one and infer three; to deduce many things from one case (idiom)"
+],
+[
+"灵机一动",
+7,
+"líng jī yī dòng",
+"a bright idea suddenly occurs (idiom); to hit upon an inspiration; to be struck by a brainwave"
+],
+[
+"难得一见",
+7,
+"nán dé yī jiàn",
+"rarely seen"
+],
+[
+"千钧一发",
+7,
+"qiān jūn yī fà",
+"a thousand pounds hangs by a thread (idiom); imminent peril; a matter of life or death"
+],
+[
+"日复一日",
+7,
+"rì fù yī rì",
+"day after day"
+],
+[
+"万无一失",
+7,
+"wàn wú yī shī",
+"surefire; absolutely safe (idiom)"
+],
+[
+"下一代",
+7,
+"xià yī dài",
+"the next generation"
+],
+[
+"一把手",
+7,
+"yī bǎ shǒu",
+"working hand; member of a work team; participant; (short form of 第一把手[dì yī bǎ shǒu]) the boss"
+],
+[
+"一线",
+7,
+"yī xiàn",
+"front line"
+],
+[
+"一一",
+7,
+"yī yī",
+"one by one; one after another"
+],
+[
+"一不小心",
+7,
+"yī bù xiǎo xīn",
+"to be a little bit careless; to have a moment of inattentiveness"
+],
+[
+"一刹那",
+7,
+"yī chà nà",
+"a moment; an instant; in a flash"
+],
+[
+"一大早",
+7,
+"yī dà zǎo",
+"at dawn; at first light; first thing in the morning"
+],
+[
+"一动不动",
+7,
+"yī dòng bù dòng",
+"motionless"
 ],
 [
 "一度",
-6,
+7,
 "yī dù",
 "for a time; at one time; one time; once"
 ],
 [
+"一概",
+7,
+"yī gài",
+"all; without any exceptions; categorically"
+],
+[
+"一概而论",
+7,
+"yī gài ér lùn",
+"to lump different matters together (idiom)"
+],
+[
+"一个劲儿",
+7,
+"yī gè jìn r5",
+"erhua variant of 一个劲[yī gè jìn]"
+],
+[
+"一晃",
+7,
+"yī huǎng",
+"(of passing time) in an instant; (of a sight) in a flash"
+],
+[
+"一技之长",
+7,
+"yī jì zhī cháng",
+"proficiency in a particular field (idiom); skill in a specialized area (idiom)"
+],
+[
+"一面",
+7,
+"yī miàn",
+"one side; one aspect; simultaneously... (and...); one's whole face"
+],
+[
+"一目了然",
+7,
+"yī mù liǎo rán",
+"obvious at a glance (idiom)"
+],
+[
+"一目了然",
+7,
+"yī mù liǎo rán",
+"obvious at a glance (idiom)"
+],
+[
+"一事无成",
+7,
+"yī shì wú chéng",
+"to have achieved nothing; to be a total failure; to get nowhere"
+],
+[
+"一瞬间",
+7,
+"yī shùn jiān",
+"split second"
+],
+[
+"一味",
+7,
+"yī wèi",
+"blindly; invariably"
+],
+[
+"一系列",
+7,
+"yī xì liè",
+"a series of; a string of"
+],
+[
+"一阵",
+7,
+"yī zhèn",
+"a burst; a fit; a peal; a spell (period of time)"
+],
+[
+"一长一短",
+7,
+"yī cháng yī duǎn",
+"talking endlessly; long-winded"
+],
+[
+"一成不变",
+7,
+"yī chéng bù biàn",
+"nothing much changes (idiom); always the same; stuck in a rut"
+],
+[
+"一筹莫展",
+7,
+"yī chóu mò zhǎn",
+"to be unable to find a solution; to be at wits' end"
+],
+[
 "一帆风顺",
-6,
+7,
 "yī fān fēng shùn",
 "propitious wind throughout the journey (idiom); plain sailing; to go smoothly; have a nice trip!"
 ],
 [
-"一丝不苟",
-6,
-"yī sī bù gǒu",
-"not one thread loose (idiom); strictly according to the rules; meticulous; not one hair out of place"
+"一干二净",
+7,
+"yī gān èr jìng",
+"thoroughly (idiom); completely; one and all; very clean"
 ],
 [
-"一目了然",
-6,
-"yī mù liǎo rán",
-"obvious at a glance (idiom)"
+"一鼓作气",
+7,
+"yī gǔ zuò qì",
+"in a spurt of energy"
 ],
 [
-"一目了然",
-6,
-"yī mù liǎo rán",
-"obvious at a glance (idiom)"
+"一锅粥",
+7,
+"yī guō zhōu",
+"(lit.) a pot of porridge; (fig.) a complete mess"
 ],
 [
-"不屑一顾",
-6,
-"bù xiè yī gù",
-"to disdain as beneath contempt (idiom)"
+"一回事",
+7,
+"yī huí shì",
+"one thing; the same as"
 ],
 [
-"一举两得",
-6,
-"yī jǔ liǎng dé",
-"one move, two gains (idiom); two birds with one stone"
+"一家人",
+7,
+"yī jiā rén",
+"household; the whole family"
+],
+[
+"一经",
+7,
+"yī jīng",
+"as soon as; once (an action has been completed)"
+],
+[
+"一举",
+7,
+"yī jǔ",
+"a move; an action; in one move; at a stroke; in one go"
+],
+[
+"一举一动",
+7,
+"yī jǔ yī dòng",
+"every movement; each and every move"
+],
+[
+"一卡通",
+7,
+"Yī kǎ tōng",
+"the name of various contactless smartcards, notably Yikatong (mainly for public transport in Beijing) and iPASS (mainly for public transport in Taiwan)"
+],
+[
+"一揽子",
+7,
+"yī lǎn zi",
+"all-inclusive; undiscriminating"
+],
+[
+"一连",
+7,
+"yī lián",
+"in a row; in succession; running"
+],
+[
+"一连串",
+7,
+"yī lián chuàn",
+"a succession of; a series of"
+],
+[
+"一毛不拔",
+7,
+"yī máo bù bá",
+"stingy (idiom)"
+],
+[
+"一年到头",
+7,
+"yī nián dào tóu",
+"all year round"
+],
+[
+"一旁",
+7,
+"yī páng",
+"aside; to the side of"
+],
+[
+"一如既往",
+7,
+"yī rú jì wǎng",
+"just as in the past (idiom); as before; continuing as always"
+],
+[
+"一声不吭",
+7,
+"yī shēng bù kēng",
+"to not say a word"
+],
+[
+"一手",
+7,
+"yī shǒu",
+"a skill; mastery of a trade; by oneself; without outside help"
+],
+[
+"一塌糊涂",
+7,
+"yī tā hú tu",
+"muddled and completely collapsing (idiom); in an awful condition; complete shambles; a total mess"
+],
+[
+"一体",
+7,
+"yī tǐ",
+"an integral whole; all concerned; everybody"
+],
+[
+"一天到晚",
+7,
+"yī tiān dào wǎn",
+"all day long; the whole day"
+],
+[
+"一头",
+7,
+"yī tóu",
+"one head; a head full of sth; one end (of a stick); one side; headlong; directly; rapidly; simultaneously"
+],
+[
+"一无所有",
+7,
+"yī wú suǒ yǒu",
+"not having anything at all (idiom); utterly lacking; without two sticks to rub together"
+],
+[
+"一无所知",
+7,
+"yī wú suǒ zhī",
+"not knowing anything at all (idiom); completely ignorant; without an inkling"
+],
+[
+"一心",
+7,
+"yī xīn",
+"wholeheartedly; heart and soul"
+],
+[
+"一心一意",
+7,
+"yī xīn yī yì",
+"concentrating one's thoughts and efforts; single-minded; bent on; intently"
+],
+[
+"一言不发",
+7,
+"yī yán bù fā",
+"to not say a word (idiom)"
+],
+[
+"一言一行",
+7,
+"yī yán yī xíng",
+"every word and action (idiom)"
+],
+[
+"一眼",
+7,
+"yī yǎn",
+"a glance; a quick look; a glimpse"
+],
+[
+"一应俱全",
+7,
+"yī yīng jù quán",
+"with everything needed available"
+],
+[
+"一早",
+7,
+"yī zǎo",
+"early in the morning; at dawn"
+],
+[
+"有朝一日",
+7,
+"yǒu zhāo yī rì",
+"one day; sometime in the future"
+],
+[
+"这样一来",
+7,
+"zhè yàng yī lái",
+"thus; if this happens then"
 ]
 ],
 "extraWords": [
 [
-"一些",
-623.5,
-"yī xiē",
-"some; a few; a little; (following an adjective) slightly ...er"
+"一个",
+3479.53,
+"???",
+"???"
+],
+[
+"一下",
+809.95,
+"yī xià",
+"(used after a verb) give it a go; to do (sth for a bit to give it a try); one time; once; in a while; all of a sudden; all at once"
 ],
 [
 "一点",
@@ -213,22 +789,16 @@
 "a bit; a little; one dot; one point"
 ],
 [
+"第一",
+542.29,
+"dì yī",
+"first; number one; primary"
+],
+[
 "一个人",
 240.96,
 "yī gè rén",
 "by oneself (without assistance); alone (without company)"
-],
-[
-"进一步",
-237.88,
-"jìn yī bù",
-"one step further; to move forward a step; further onwards"
-],
-[
-"之一",
-168.35,
-"zhī yī",
-"one of (sth); one out of a multitude; one (third, quarter, percent etc)"
 ],
 [
 "第一次",
@@ -237,64 +807,46 @@
 "the first time; first; number one"
 ],
 [
-"一半",
-78.49,
-"yī bàn",
-"half"
+"一段",
+110.03,
+"???",
+"???"
 ],
 [
-"一生",
-72.65,
-"yī shēng",
-"all one's life; throughout one's life"
+"一份",
+98.16,
+"???",
+"???"
 ],
 [
-"一部分",
-67.75,
-"yī bù fen",
-"portion; part of; subset"
+"每一",
+87.61,
+"???",
+"???"
 ],
 [
-"一系列",
-65.76,
-"yī xì liè",
-"a series of; a string of"
+"第一个",
+79.1,
+"???",
+"???"
 ],
 [
-"一方面",
-55.09,
-"yī fāng miàn",
-"on the one hand"
+"一批",
+78.8,
+"???",
+"???"
 ],
 [
-"一眼",
-54.42,
-"yī yǎn",
-"a glance; a quick look; a glimpse"
+"每一个",
+60.34,
+"???",
+"???"
 ],
 [
-"同一",
-53.05,
-"tóng yī",
-"identical; the same"
-],
-[
-"一面",
-52.21,
-"yī miàn",
-"one side; one aspect; simultaneously... (and...); one's whole face"
-],
-[
-"一道",
-51.88,
-"yī dào",
-"together"
-],
-[
-"一路",
-51.19,
-"yī lù",
-"the whole journey; all the way; going the same way; going in the same direction; of the same kind"
+"另一个",
+51.3,
+"???",
+"???"
 ],
 [
 "不一样",
@@ -303,58 +855,22 @@
 "different; distinctive; unlike"
 ],
 [
-"一阵",
-49.76,
-"yī zhèn",
-"a burst; a fit; a peal; a spell (period of time)"
+"一刻",
+46.59,
+"???",
+"???"
 ],
 [
-"另一方面",
-47.91,
-"lìng yī fāng miàn",
-"on the other hand; another aspect"
-],
-[
-"一句话",
-44.88,
-"yī jù huà",
-"in a word; in short"
-],
-[
-"一一",
-37.5,
-"yī yī",
-"one by one; one after another"
-],
-[
-"一时",
-35.46,
-"yī shí",
-"a period of time; a while; for a short while; temporary; momentary; at the same time"
+"一群",
+37.56,
+"???",
+"???"
 ],
 [
 "一口",
 34.34,
 "yī kǒu",
 "readily; flatly (deny, admit and so on); a mouthful; a bite"
-],
-[
-"不一定",
-33.31,
-"bù yī dìng",
-"not necessarily; maybe"
-],
-[
-"一身",
-31.87,
-"yī shēn",
-"whole body; from head to toe; single person; a suit of clothes"
-],
-[
-"一下子",
-31.5,
-"yī xià zi",
-"in a short while; all at once; all of a sudden"
 ],
 [
 "一会",
@@ -369,22 +885,22 @@
 "Monday"
 ],
 [
+"一分",
+28.38,
+"???",
+"???"
+],
+[
 "一团糟",
 27.72,
 "yī tuán zāo",
 "chaos; bungle; complete mess; shambles"
 ],
 [
-"一线",
-26.57,
-"yī xiàn",
-"front line"
-],
-[
-"一体",
-25.69,
-"yī tǐ",
-"an integral whole; all concerned; everybody"
+"一整天",
+27.16,
+"???",
+"???"
 ],
 [
 "一时间",
@@ -399,52 +915,16 @@
 "each and every one"
 ],
 [
-"一手",
-23.86,
-"yī shǒu",
-"a skill; mastery of a trade; by oneself; without outside help"
-],
-[
-"一行",
-23.36,
-"yī xíng",
-"party; delegation"
-],
-[
-"一头",
-22.97,
-"yī tóu",
-"one head; a head full of sth; one end (of a stick); one side; headlong; directly; rapidly; simultaneously"
-],
-[
-"一口气",
-22.89,
-"yī kǒu qì",
-"one breath; in one breath; at a stretch"
-],
-[
-"一带",
-22.59,
-"yī dài",
-"region; district"
-],
-[
-"单一",
-22.4,
-"dān yī",
-"single; only; sole"
+"第一天",
+22.41,
+"???",
+"???"
 ],
 [
 "下一个",
 21.6,
 "xià yī ge",
 "the next one"
-],
-[
-"一次性",
-20.95,
-"yī cì xìng",
-"one-off (offer); one-time; single-use; disposable (goods)"
 ],
 [
 "一来",
@@ -456,19 +936,25 @@
 "惟一",
 20.26,
 "wéi yī",
-"only; sole; variant of 唯一[wei2 yi1]"
+"only; sole; variant of 唯一[wéi yī]"
 ],
 [
-"一同",
-19.89,
-"yī tóng",
-"along; together"
+"一百",
+19.58,
+"???",
+"???"
 ],
 [
-"一无所知",
-18.72,
-"yī wú suǒ zhī",
-"not knowing anything at all (idiom); completely ignorant; without an inkling"
+"第一名",
+19.23,
+"???",
+"???"
+],
+[
+"一事",
+18.6,
+"???",
+"???"
 ],
 [
 "一体化",
@@ -483,16 +969,28 @@
 "pile"
 ],
 [
+"一两",
+18.27,
+"???",
+"???"
+],
+[
 "一家",
 18.09,
 "yī jiā",
 "the whole family; the same family; the family ... (when preceded by a family name); group"
 ],
 [
-"一旁",
-17.28,
-"yī páng",
-"aside; to the side of"
+"一百万",
+17.59,
+"???",
+"???"
+],
+[
+"一千",
+17.29,
+"???",
+"???"
 ],
 [
 "下一步",
@@ -507,22 +1005,16 @@
 "a little; somewhat"
 ],
 [
-"一模一样",
-15.74,
-"yī mú yī yàng",
-"exactly the same (idiom); carbon copy; also pr. [yi1 mo2 yi1 yang4]"
-],
-[
-"一大早",
-15.72,
-"yī dà zǎo",
-"at dawn; at first light; first thing in the morning"
-],
-[
 "一阵子",
 15.38,
 "yī zhèn zi",
 "a while; a spell; a short time; a burst"
+],
+[
+"第一位",
+15.38,
+"???",
+"???"
 ],
 [
 "一月",
@@ -531,28 +1023,28 @@
 "January; first month (of the lunar year)"
 ],
 [
-"一举",
-14.88,
-"yī jǔ",
-"a move; an action; in one move; at a stroke; in one go"
+"同一个",
+14.79,
+"???",
+"???"
+],
+[
+"一万",
+14.67,
+"???",
+"???"
+],
+[
+"无一",
+14.36,
+"???",
+"???"
 ],
 [
 "不一",
 14.33,
 "bù yī",
 "to vary; to differ"
-],
-[
-"一家人",
-13.88,
-"yī jiā rén",
-"household; the whole family"
-],
-[
-"一瞬间",
-13.19,
-"yī shùn jiān",
-"split second"
 ],
 [
 "一等奖",
@@ -579,12 +1071,6 @@
 "one third"
 ],
 [
-"一味",
-11.64,
-"yī wèi",
-"blindly; invariably"
-],
-[
 "第一步",
 11.48,
 "dì yī bù",
@@ -597,22 +1083,16 @@
 "Monday"
 ],
 [
-"一早",
-11.39,
-"yī zǎo",
-"early in the morning; at dawn"
-],
-[
 "其一",
 11.33,
 "qí yī",
 "one of the given (options etc); the first; firstly"
 ],
 [
-"一无所有",
-11.33,
-"yī wú suǒ yǒu",
-"not having anything at all (idiom); utterly lacking; without two sticks to rub together"
+"一大批",
+11.28,
+"???",
+"???"
 ],
 [
 "十一月",
@@ -621,10 +1101,28 @@
 "November; eleventh month (of the lunar year)"
 ],
 [
-"独一无二",
-10.43,
-"dú yī wú èr",
-"unique and unmatched (idiom); unrivalled; nothing compares with it"
+"第一节",
+11.13,
+"???",
+"???"
+],
+[
+"一帮",
+11.04,
+"???",
+"???"
+],
+[
+"第一场",
+10.8,
+"???",
+"???"
+],
+[
+"一点也不",
+10.74,
+"???",
+"???"
 ],
 [
 "第一季度",
@@ -633,22 +1131,16 @@
 "first quarter (of financial year)"
 ],
 [
-"一心",
-9.95,
-"yī xīn",
-"wholeheartedly; heart and soul"
+"一秒",
+10.31,
+"???",
+"???"
 ],
 [
-"一齐",
-9.88,
-"yī qí",
-"at the same time; simultaneously"
-],
-[
-"一块儿",
-9.51,
-"yī kuài r5",
-"erhua variant of 一塊|一块[yi1 kuai4]"
+"第一家",
+9.53,
+"???",
+"???"
 ],
 [
 "初一",
@@ -657,28 +1149,46 @@
 "first day of lunar month; New Year's Day; first year in junior middle school"
 ],
 [
-"一路上",
-8.42,
-"yī lù shàng",
-"along the way; the whole way; (fig.) the whole time"
+"一次次",
+8.72,
+"???",
+"???"
 ],
 [
-"一经",
-8.37,
-"yī jīng",
-"as soon as; once (an action has been completed)"
+"一大堆",
+8.52,
+"???",
+"???"
 ],
 [
-"大吃一惊",
-8.29,
-"dà chī yī jīng",
-"to have a surprise (idiom); shocked or startled; gobsmacked"
+"一角",
+8.44,
+"???",
+"???"
 ],
 [
-"一般来说",
-7.98,
-"yī bān lái shuō",
-"generally speaking"
+"一动",
+8.1,
+"???",
+"???"
+],
+[
+"高一",
+7.8,
+"???",
+"???"
+],
+[
+"第一部",
+7.66,
+"???",
+"???"
+],
+[
+"一派",
+7.58,
+"???",
+"???"
 ],
 [
 "合一",
@@ -693,6 +1203,12 @@
 "to gain nothing; to end up empty-handed"
 ],
 [
+"一曲",
+7.28,
+"???",
+"???"
+],
+[
 "一世",
 7.22,
 "yī shì",
@@ -705,16 +1221,22 @@
 "first class; category A"
 ],
 [
+"第一阶",
+6.97,
+"???",
+"???"
+],
+[
 "一块",
 6.95,
 "yī kuài",
 "one block; one piece; one (unit of money); together; in the same place; in company"
 ],
 [
-"一塌糊涂",
-6.8,
-"yī tā hú tu",
-"muddled and completely collapsing (idiom); in an awful condition; complete shambles; a total mess"
+"第一人",
+6.91,
+"???",
+"???"
 ],
 [
 "一对",
@@ -729,16 +1251,22 @@
 "first round (of match, or election)"
 ],
 [
-"一不小心",
-6.71,
-"yī bù xiǎo xīn",
-"to be a little bit careless; to have a moment of inattentiveness"
+"一本书",
+6.63,
+"???",
+"???"
 ],
 [
-"如一",
-6.71,
-"rú yī",
-"consistent; the same; unvarying"
+"一愣",
+6.59,
+"???",
+"???"
+],
+[
+"第一条",
+6.57,
+"???",
+"???"
 ],
 [
 "四分之一",
@@ -765,10 +1293,10 @@
 "to lump together; to treat along with all the others"
 ],
 [
-"第一线",
-6.2,
-"dì yī xiàn",
-"front line; forefront"
+"一步步",
+6.25,
+"???",
+"???"
 ],
 [
 "一无是处",
@@ -777,16 +1305,28 @@
 "not one good point; everything about it is wrong"
 ],
 [
-"一连",
-6.18,
-"yī lián",
-"in a row; in succession; running"
+"第一届",
+6.16,
+"???",
+"???"
 ],
 [
-"一回事",
-6.17,
-"yī huí shì",
-"one thing; the same as"
+"一抹",
+6.16,
+"???",
+"???"
+],
+[
+"一发",
+6.13,
+"???",
+"???"
+],
+[
+"一想到",
+5.95,
+"???",
+"???"
 ],
 [
 "逐一",
@@ -795,16 +1335,34 @@
 "one by one"
 ],
 [
-"一连串",
-5.83,
-"yī lián chuàn",
-"a succession of; a series of"
+"第十一名",
+5.85,
+"???",
+"???"
 ],
 [
-"一把手",
+"一年一度",
+5.82,
+"???",
+"???"
+],
+[
+"第一张",
 5.64,
-"yī bǎ shǒu",
-"working hand; member of a work team; participant; (short form of 第一把手[di4 yi1 ba3 shou3]) the boss"
+"???",
+"???"
+],
+[
+"第一件",
+5.61,
+"???",
+"???"
+],
+[
+"第一年",
+5.5,
+"???",
+"???"
 ],
 [
 "统一战线",
@@ -813,10 +1371,22 @@
 "united front"
 ],
 [
+"第一财经日报",
+5.34,
+"???",
+"???"
+],
+[
 "一小撮",
 5.31,
 "yī xiǎo cuō",
 "handful (of)"
+],
+[
+"一通",
+5.1,
+"???",
+"???"
 ]
 ],
 "strokes": [

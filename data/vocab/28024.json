@@ -1,24 +1,30 @@
 {
 "char": "浸",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "soak, immerse, dip, percolate",
 "pron": "jìn"
 },
 "words": [
 [
+"沉浸",
+7,
+"chén jìn",
+"to soak; to permeate; to immerse"
+],
+[
 "浸泡",
-6,
+7,
 "jìn pào",
 "to steep; to soak; to immerse"
 ]
 ],
 "extraWords": [
 [
-"沉浸",
-7.42,
-"chén jìn",
-"to soak; to permeate; to immerse"
+"浸",
+10.22,
+"jìn",
+"to immerse; to soak; to steep; gradually"
 ],
 [
 "浸润",

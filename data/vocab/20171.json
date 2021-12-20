@@ -1,6 +1,6 @@
 {
 "char": "介",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "forerunner, herald, harbinger; to lie between; sea shell; to wear armor",
 "pron": "jiè"
@@ -8,35 +8,47 @@
 "words": [
 [
 "介绍",
-2,
+1,
 "jiè shào",
 "to introduce (sb to sb); to give a presentation; to present (sb for a job etc); introduction"
 ],
 [
 "中介",
-5,
+4,
 "zhōng jiè",
 "to act as intermediary; to link; intermediate; inter-; agency; agent"
 ],
 [
-"媒介",
+"简介",
 6,
-"méi jiè",
-"intermediary; vehicle; vector; medium; media"
-]
+"jiǎn jiè",
+"summary; brief introduction"
 ],
-"extraWords": [
+[
+"介入",
+7,
+"jiè rù",
+"to intervene; to get involved"
+],
 [
 "介意",
-120.82,
+7,
 "jiè yì",
 "to care about; to take offense; to mind"
 ],
 [
-"介入",
-26.68,
-"jiè rù",
-"to intervene; to get involved"
+"介于",
+7,
+"jiè yú",
+"between; intermediate; to lie between"
+]
+],
+"extraWords": [
+[
+"介",
+40.17,
+"jiè",
+"to introduce; to lie between; between; shell; armor"
 ],
 [
 "蒋介石",
@@ -45,10 +57,10 @@
 "Chiang Kai-shek (1887-1975), military leader, head of the Nationalist government in China 1928-1949 and the government in exile on Taiwan 1950-1975"
 ],
 [
-"简介",
-10.13,
-"jiǎn jiè",
-"summary; brief introduction"
+"媒介",
+7.45,
+"méi jiè",
+"intermediary; vehicle; vector; medium; media"
 ],
 [
 "介质",

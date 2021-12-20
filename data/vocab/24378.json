@@ -1,46 +1,124 @@
 {
 "char": "强",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "strong, powerful, energetic",
 "pron": "jiàng, qiáng, qiǎng"
 },
 "words": [
 [
+"加强",
+3,
+"jiā qiáng",
+"to reinforce; to strengthen; to increase"
+],
+[
 "坚强",
-5,
+3,
 "jiān qiáng",
 "staunch; strong"
 ],
 [
-"强烈",
-5,
-"qiáng liè",
-"intense; (violently) strong"
+"强",
+3,
+"Qiáng",
+"surname Qiang"
+],
+[
+"强",
+3,
+"jiàng",
+"stubborn; unyielding"
+],
+[
+"强",
+3,
+"qiáng",
+"strong; powerful; better; slightly more than; vigorous; violent; best in their category, e.g. see 百强[bǎi qiáng]"
+],
+[
+"强",
+3,
+"qiǎng",
+"to force; to compel; to strive; to make an effort"
+],
+[
+"强",
+3,
+"jiàng",
+"variant of 强[jiàng]"
+],
+[
+"强",
+3,
+"qiáng",
+"variant of 强[qiáng]"
+],
+[
+"强",
+3,
+"qiǎng",
+"variant of 强[qiǎng]"
+],
+[
+"强大",
+3,
+"qiáng dà",
+"large; formidable; powerful; strong"
 ],
 [
 "强调",
-5,
+3,
 "qiáng diào",
 "to emphasize (a statement); to stress"
 ],
 [
+"强烈",
+3,
+"qiáng liè",
+"intense; (violently) strong"
+],
+[
+"强度",
+5,
+"qiáng dù",
+"strength; intensity; CL:个[gè]"
+],
+[
 "强迫",
-6,
+5,
 "qiǎng pò",
 "to compel; to force"
 ],
 [
-"勉强",
-6,
-"miǎn qiǎng",
-"to do with difficulty; to force sb to do sth; reluctant; barely enough"
+"增强",
+5,
+"zēng qiáng",
+"to increase; to strengthen"
 ],
 [
-"强制",
+"强盗",
 6,
-"qiáng zhì",
-"to enforce; enforcement; forcibly; compulsory"
+"qiáng dào",
+"to rob (with force); bandit; robber; CL:个[gè]"
+],
+[
+"强化",
+6,
+"qiáng huà",
+"to strengthen; to intensify"
+],
+[
+"强势",
+6,
+"qiáng shì",
+"strong; powerful; (linguistics) emphatic; intensive"
+],
+[
+"强壮",
+6,
+"qiáng zhuàng",
+"strong; sturdy; robust"
 ],
 [
 "顽强",
@@ -49,49 +127,91 @@
 "tenacious; hard to defeat"
 ],
 [
+"逞强",
+7,
+"chěng qiáng",
+"to show off; to try to be brave"
+],
+[
+"发愤图强",
+7,
+"fā fèn tú qiáng",
+"to be strongly determined to succeed (idiom)"
+],
+[
+"富强",
+7,
+"fù qiáng",
+"rich and powerful"
+],
+[
 "倔强",
-6,
+7,
 "jué jiàng",
 "stubborn; obstinate; unbending"
-]
-],
-"extraWords": [
-[
-"加强",
-251.87,
-"jiā qiáng",
-"to reinforce; to strengthen; to increase"
 ],
 [
-"增强",
-98.98,
-"zēng qiáng",
-"to increase; to strengthen"
+"勉强",
+7,
+"miǎn qiǎng",
+"to do with difficulty; to force sb to do sth; reluctant; barely enough"
 ],
 [
-"强大",
-81.98,
-"qiáng dà",
-"large; formidable; powerful; strong"
-],
-[
-"强化",
-49.51,
-"qiáng huà",
-"to strengthen; to intensify"
-],
-[
-"强度",
-29.98,
-"qiáng dù",
-"strength; intensity; CL:個|个[ge4]"
+"强加",
+7,
+"qiáng jiā",
+"to impose; to force upon"
 ],
 [
 "强劲",
-27.73,
+7,
 "qiáng jìng",
 "strong; powerful; robust"
 ],
+[
+"强项",
+7,
+"qiáng xiàng",
+"key strength; strong suit; specialty"
+],
+[
+"强行",
+7,
+"qiáng xíng",
+"to do sth by force; Taiwan pr. [qiang3 xing2]"
+],
+[
+"强硬",
+7,
+"qiáng yìng",
+"tough; unyielding; hard-line"
+],
+[
+"强占",
+7,
+"qiáng zhàn",
+"to occupy by force"
+],
+[
+"强制",
+7,
+"qiáng zhì",
+"to enforce; enforcement; forcibly; compulsory"
+],
+[
+"要强",
+7,
+"yào qiáng",
+"eager to excel; eager to get ahead in life; strong-minded"
+],
+[
+"自强不息",
+7,
+"zì qiáng bù xī",
+"to strive unremittingly; self-improvement"
+]
+],
+"extraWords": [
 [
 "强奸",
 27.04,
@@ -99,34 +219,16 @@
 "to rape"
 ],
 [
-"强壮",
-26.14,
-"qiáng zhuàng",
-"strong; sturdy; robust"
-],
-[
-"强行",
-14.67,
-"qiáng xíng",
-"to do sth by force; Taiwan pr. [qiang3 xing2]"
+"较强",
+21.12,
+"???",
+"???"
 ],
 [
 "强力",
 10.07,
 "qiáng lì",
 "powerful"
-],
-[
-"强盗",
-9.54,
-"qiáng dào",
-"to rob (with force); bandit; robber; CL:個|个[ge4]"
-],
-[
-"强硬",
-9.14,
-"qiáng yìng",
-"tough; unyielding; hard-line"
 ],
 [
 "强悍",
@@ -159,10 +261,16 @@
 "powerful country; great power"
 ],
 [
-"强势",
-6.2,
-"qiáng shì",
-"strong; powerful; (linguistics) emphatic; intensive"
+"强者",
+6.51,
+"???",
+"???"
+],
+[
+"强制性",
+6.43,
+"???",
+"???"
 ],
 [
 "强求",

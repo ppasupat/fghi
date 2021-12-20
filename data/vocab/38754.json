@@ -1,259 +1,403 @@
 {
 "char": "面",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "face; surface; plane; side, dimension",
 "pron": "miàn"
 },
 "words": [
 [
-"后面",
-1,
-"hòu miàn",
-"rear; back; behind; later; afterwards; also pr. [hou4 mian5]"
-],
-[
-"前面",
-1,
-"qián miàn",
-"ahead; in front; preceding; above; also pr. [qian2 mian5]"
-],
-[
-"面条",
-2,
-"miàn tiáo",
-"noodles"
-],
-[
 "见面",
-3,
+1,
 "jiàn miàn",
-"to meet; to see each other; CL:次[ci4]"
+"to meet; to see each other; CL:次[cì]"
 ],
 [
 "面包",
-3,
+1,
 "miàn bāo",
-"bread; CL:片[pian4],袋[dai4],塊|块[kuai4]"
+"bread; CL:片[piàn],袋[dài],块[kuài]"
 ],
 [
-"方面",
-4,
-"fāng miàn",
-"respect; aspect; field; side; CL:個|个[ge4]"
+"面条儿",
+1,
+"miàn tiáo r5",
+"erhua variant of 面条[miàn tiáo]"
 ],
 [
 "对面",
-4,
+2,
 "duì miàn",
 "(sitting) opposite; across (the street); directly in front; to be face to face"
 ],
 [
-"面对",
-5,
-"miàn duì",
-"to confront; to face"
+"方便面",
+2,
+"fāng biàn miàn",
+"instant noodles"
 ],
 [
-"面临",
-5,
-"miàn lín",
-"to face sth; to be confronted with"
+"方面",
+2,
+"fāng miàn",
+"respect; aspect; field; side; CL:个[gè]"
+],
+[
+"面",
+2,
+"miàn",
+"face; side; surface; aspect; top; classifier for objects with flat surfaces such as drums, mirrors, flags etc"
+],
+[
+"面",
+2,
+"miàn",
+"variant of 面[miàn]"
+],
+[
+"面",
+2,
+"miàn",
+"flour; noodles; (of food) soft (not crunchy); (slang) (of a person) ineffectual; spineless"
+],
+[
+"面前",
+2,
+"miàn qián",
+"in front of; facing; (in the) presence (of)"
 ],
 [
 "表面",
-5,
+3,
 "biǎo miàn",
 "surface; face; outside; appearance"
 ],
 [
-"全面",
-5,
-"quán miàn",
-"all-around; comprehensive; total; overall"
+"后面",
+3,
+"hòu miàn",
+"rear; back; behind; later; afterwards; also pr. [hou4 mian5]"
 ],
-[
-"面积",
-5,
-"miàn jī",
-"area (of a floor, piece of land etc); surface area; tract of land"
-],
-[
-"片面",
-5,
-"piàn miàn",
-"unilateral; one-sided"
-],
-[
-"局面",
-6,
-"jú miàn",
-"aspect; phase; situation"
-],
-[
-"场面",
-6,
-"chǎng miàn",
-"scene; spectacle; occasion; situation"
-],
-[
-"面子",
-6,
-"miàn zi",
-"outer surface; outside; honor; reputation; face (as in \"losing face\"); self-respect; feelings; (medicinal) powder"
-],
-[
-"当面",
-6,
-"dāng miàn",
-"to sb's face; in sb's presence"
-],
-[
-"体面",
-6,
-"tǐ miàn",
-"dignity; face (as in \"losing face\"); honorable; creditable; (of sb's appearance) presentable; respectable"
-],
-[
-"书面",
-6,
-"shū miàn",
-"in writing; written"
-],
-[
-"侧面",
-6,
-"cè miàn",
-"lateral side; side; aspect; profile"
-],
-[
-"平面",
-6,
-"píng miàn",
-"plane (flat surface); print media"
-],
-[
-"反面",
-6,
-"fǎn miàn",
-"reverse side; backside; the other side (of a problem etc); negative; bad"
-],
-[
-"面貌",
-6,
-"miàn mào",
-"appearance; face; features; CL:個|个[ge4]"
-],
-[
-"迎面",
-6,
-"yíng miàn",
-"directly; head-on (collision); in one's face (of wind)"
-]
-],
-"extraWords": [
 [
 "里面",
-303.55,
+3,
 "lǐ miàn",
 "inside; interior; also pr. [li3 mian5]"
 ],
 [
-"外面",
-167.02,
-"wài miàn",
-"outside (also pr. [wai4 mian5] for this sense); surface; exterior; external appearance"
+"另一方面",
+3,
+"lìng yī fāng miàn",
+"on the other hand; another aspect"
+],
+[
+"面对",
+3,
+"miàn duì",
+"to confront; to face"
+],
+[
+"面积",
+3,
+"miàn jī",
+"area (of a floor, piece of land etc); surface area; tract of land"
+],
+[
+"前面",
+3,
+"qián miàn",
+"ahead; in front; preceding; above; also pr. [qian2 mian5]"
+],
+[
+"全面",
+3,
+"quán miàn",
+"all-around; comprehensive; total; overall"
 ],
 [
 "上面",
-159.87,
+3,
 "shàng miàn",
 "on top of; above-mentioned; also pr. [shang4 mian5]"
 ],
 [
+"外面",
+3,
+"wài miàn",
+"outside (also pr. [wai4 mian5] for this sense); surface; exterior; external appearance"
+],
+[
 "下面",
-112.41,
+3,
 "xià miàn",
 "below; under; next; the following; also pr. [xia4 mian5]"
 ],
 [
 "下面",
-112.41,
+3,
 "xià miàn",
 "to boil noodles"
 ],
 [
-"面前",
-97.3,
-"miàn qián",
-"in front of; facing; (in the) presence (of)"
-],
-[
 "一方面",
-55.09,
+3,
 "yī fāng miàn",
 "on the one hand"
 ],
 [
-"一面",
-52.21,
-"yī miàn",
-"one side; one aspect; simultaneously... (and...); one's whole face"
-],
-[
-"另一方面",
-47.91,
-"lìng yī fāng miàn",
-"on the other hand; another aspect"
-],
-[
 "地面",
-44.14,
+4,
 "dì miàn",
 "floor; ground; surface"
 ],
 [
-"画面",
-40.98,
-"huà miàn",
-"scene; tableau; picture; image; screen (displayed by a computer); (motion picture) frame; field of view"
-],
-[
-"面向",
-32.14,
-"miàn xiàng",
-"to face; to turn towards; to incline to; geared towards; catering for; -oriented; facial feature; appearance; aspect; facet"
+"面临",
+4,
+"miàn lín",
+"to face sth; to be confronted with"
 ],
 [
 "面试",
-30.02,
+4,
 "miàn shì",
 "to be interviewed (as a candidate); interview"
 ],
 [
+"片面",
+4,
+"piàn miàn",
+"unilateral; one-sided"
+],
+[
+"场面",
+5,
+"chǎng miàn",
+"scene; spectacle; occasion; situation"
+],
+[
+"画面",
+5,
+"huà miàn",
+"scene; tableau; picture; image; screen (displayed by a computer); (motion picture) frame; field of view"
+],
+[
+"局面",
+5,
+"jú miàn",
+"aspect; phase; situation"
+],
+[
+"面貌",
+5,
+"miàn mào",
+"appearance; face; features; CL:个[gè]"
+],
+[
+"面子",
+5,
+"miàn zi",
+"outer surface; outside; honor; reputation; face (as in \"losing face\"); self-respect; feelings; (medicinal) powder"
+],
+[
+"表面上",
+6,
+"biǎo miàn shang",
+"outwardly; superficially; on the face of it"
+],
+[
 "层面",
-25.02,
+6,
 "céng miàn",
 "aspect; facet; level (political, psychological, spiritual etc); (geology) bedding plane"
 ],
 [
-"正面",
-23.79,
-"zhèng miàn",
-"front; obverse side; right side; positive; direct; open"
+"出面",
+6,
+"chū miàn",
+"to appear personally; to step in; to step forth; to show up"
+],
+[
+"多方面",
+6,
+"duō fāng miàn",
+"many-sided; in many aspects"
+],
+[
+"面对面",
+6,
+"miàn duì miàn",
+"face to face"
+],
+[
+"面向",
+6,
+"miàn xiàng",
+"to face; to turn towards; to incline to; geared towards; catering for; -oriented; facial feature; appearance; aspect; facet"
+],
+[
+"爱面子",
+7,
+"ài miàn zi",
+"to like to look good in the eyes of others; sensitive about how one is regarded by others; proud"
+],
+[
+"背面",
+7,
+"bèi miàn",
+"the back; the reverse side; the wrong side"
+],
+[
+"侧面",
+7,
+"cè miàn",
+"lateral side; side; aspect; profile"
+],
+[
+"大面积",
+7,
+"dà miàn jī",
+"large area; (fig.) (of a problem) (occurring) on a massive scale"
+],
+[
+"单方面",
+7,
+"dān fāng miàn",
+"unilateral"
+],
+[
+"当面",
+7,
+"dāng miàn",
+"to sb's face; in sb's presence"
+],
+[
+"反面",
+7,
+"fǎn miàn",
+"reverse side; backside; the other side (of a problem etc); negative; bad"
+],
+[
+"方方面面",
+7,
+"fāng fāng miàn miàn",
+"all sides; all aspects; multi-faceted"
+],
+[
+"封面",
+7,
+"fēng miàn",
+"cover (of a publication)"
+],
+[
+"负面",
+7,
+"fù miàn",
+"negative; the negative side"
+],
+[
+"海面",
+7,
+"hǎi miàn",
+"sea level; sea surface"
 ],
 [
 "会面",
-21.94,
+7,
 "huì miàn",
 "to meet with; meeting"
 ],
 [
-"封面",
-20.78,
-"fēng miàn",
-"cover (of a publication)"
+"露面",
+7,
+"lòu miàn",
+"to show one's face; to appear (in public)"
 ],
+[
+"路面",
+7,
+"lù miàn",
+"road surface"
+],
+[
+"面部",
+7,
+"miàn bù",
+"face (body part)"
+],
+[
+"面粉",
+7,
+"miàn fěn",
+"flour"
+],
+[
+"面红耳赤",
+7,
+"miàn hóng ěr chì",
+"flushed with anger (or excitement)"
+],
+[
+"面面俱到",
+7,
+"miàn miàn jù dào",
+"(idiom) take care of everything; handle everything"
+],
+[
+"面目全非",
+7,
+"miàn mù quán fēi",
+"nothing remains the same (idiom); change beyond recognition"
+],
+[
+"平面",
+7,
+"píng miàn",
+"plane (flat surface); print media"
+],
+[
+"扑面而来",
+7,
+"pū miàn ér lái",
+"lit. sth hits one in the face; directly in one's face; sth assaults the senses; blatant (advertising); eye-catching; (a smell) assaults the nostrils"
+],
+[
+"书面",
+7,
+"shū miàn",
+"in writing; written"
+],
+[
+"水面",
+7,
+"shuǐ miàn",
+"water surface"
+],
+[
+"四面八方",
+7,
+"sì miàn bā fāng",
+"in all directions; all around; far and near"
+],
+[
+"体面",
+7,
+"tǐ miàn",
+"dignity; face (as in \"losing face\"); honorable; creditable; (of sb's appearance) presentable; respectable"
+],
+[
+"一面",
+7,
+"yī miàn",
+"one side; one aspect; simultaneously... (and...); one's whole face"
+],
+[
+"正面",
+7,
+"zhèng miàn",
+"front; obverse side; right side; positive; direct; open"
+]
+],
+"extraWords": [
 [
 "面具",
 19.94,
@@ -264,31 +408,13 @@
 "面的",
 19.67,
 "miàn dī",
-"abbr. of 麵包車的士|面包车的士[mian4 bao1 che1 di1 shi4]; minivan taxi"
+"abbr. of 面包车的士[miàn bāo chē dī shì]; minivan taxi"
 ],
 [
-"负面",
-17.43,
-"fù miàn",
-"negative; the negative side"
-],
-[
-"路面",
-17.13,
-"lù miàn",
-"road surface"
-],
-[
-"水面",
-15.31,
-"shuǐ miàn",
-"water surface"
-],
-[
-"大面积",
-13.69,
-"dà miàn jī",
-"large area; (fig.) (of a problem) (occurring) on a massive scale"
+"面上",
+14.13,
+"???",
+"???"
 ],
 [
 "界面",
@@ -297,34 +423,22 @@
 "contact surface; (computing) interface"
 ],
 [
-"面部",
-13.59,
-"miàn bù",
-"face (body part)"
-],
-[
 "桌面",
 12.97,
 "zhuō miàn",
 "desktop; tabletop"
 ],
 [
-"多方面",
-12.5,
-"duō fāng miàn",
-"many-sided; in many aspects"
+"有关方面",
+12.66,
+"???",
+"???"
 ],
 [
 "面孔",
 11.06,
 "miàn kǒng",
 "face"
-],
-[
-"出面",
-10.92,
-"chū miàn",
-"to appear personally; to step in; to step forth; to show up"
 ],
 [
 "面板",
@@ -348,19 +462,19 @@
 "面料",
 9.16,
 "miàn liào",
-"material for making clothes; CL:塊|块[kuai4]"
+"material for making clothes; CL:块[kuài]"
 ],
 [
-"面对面",
-8.67,
-"miàn duì miàn",
-"face to face"
+"面条",
+8.79,
+"miàn tiáo",
+"noodles"
 ],
 [
-"方方面面",
-8.23,
-"fāng fāng miàn miàn",
-"all sides; all aspects; multi-faceted"
+"总面积",
+8.57,
+"???",
+"???"
 ],
 [
 "页面",
@@ -369,28 +483,10 @@
 "page; web page"
 ],
 [
-"露面",
-7.78,
-"lòu miàn",
-"to show one's face; to appear (in public)"
-],
-[
-"面粉",
-7.42,
-"miàn fěn",
-"flour"
-],
-[
 "面包车",
 7.31,
 "miàn bāo chē",
 "van for carrying people; taxi minibus"
-],
-[
-"方便面",
-7.27,
-"fāng biàn miàn",
-"instant noodles"
 ],
 [
 "碰面",
@@ -399,22 +495,10 @@
 "to meet; to run into (sb); to get together (with sb)"
 ],
 [
-"背面",
-6.51,
-"bèi miàn",
-"the back; the reverse side; the wrong side"
-],
-[
 "店面",
 6.5,
 "diàn miàn",
 "shop front"
-],
-[
-"海面",
-6.46,
-"hǎi miàn",
-"sea level; sea surface"
 ],
 [
 "泪流满面",
@@ -427,6 +511,18 @@
 5.74,
 "shì miàn",
 "the marketplace (i.e. the world of business and commerce)"
+],
+[
+"新局面",
+5.58,
+"???",
+"???"
+],
+[
+"创面",
+5.51,
+"???",
+"???"
 ],
 [
 "两面",

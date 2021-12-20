@@ -1,19 +1,37 @@
 {
 "char": "绷",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "bind, draw firmly, strap",
 "pron": "bēng, běng, bèng"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"绷",
+7,
+"bēng",
+"variant of 绷[bēng]; variant of 绷[běng]"
+],
+[
+"绷",
+7,
+"bēng",
+"to draw tight; to stretch taut; to tack (with thread or pin); embroidery hoop; woven bed mat"
+],
+[
+"绷",
+7,
+"běng",
+"to have a taut face"
+],
 [
 "绷带",
-5.46,
+7,
 "bēng dài",
 "bandage (loanword)"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 278 509 Q 277 510 274 509 Q 234 510 199 510 Q 166 510 183 530 Q 247 636 308 715 Q 321 731 319 739 Q 316 752 279 782 Q 264 795 246 792 Q 236 789 241 774 Q 257 735 176 585 Q 158 551 121 518 Q 103 505 105 493 Q 109 475 122 458 Q 131 449 147 456 Q 189 478 263 486 C 293 490 308 508 278 509 Z",
 "M 263 486 Q 179 368 158 355 Q 145 346 149 334 Q 150 322 174 305 Q 184 295 197 306 Q 251 348 336 380 Q 354 386 355 393 Q 356 403 340 399 Q 292 389 235 371 Q 213 361 226 381 Q 331 531 381 573 Q 391 583 386 591 Q 376 609 346 625 Q 331 632 323 630 Q 314 627 316 613 Q 319 580 278 509 L 263 486 Z",

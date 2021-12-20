@@ -1,12 +1,32 @@
 {
 "char": "拱",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "fold hands on breast; bow, salute",
 "pron": "gǒng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"拱",
+7,
+"gǒng",
+"to cup one's hands in salute; to surround; to arch; to dig earth with the snout; arched"
+]
+],
+"extraWords": [
+[
+"拱手",
+4.26,
+"gǒng shǒu",
+"to cup one's hands in obeisance or greeting; (fig.) submissive"
+],
+[
+"拱门",
+0.98,
+"gǒng mén",
+"arched door"
+]
+],
 "strokes": [
 "M 298 518 Q 322 527 348 533 Q 379 542 385 547 Q 394 556 388 564 Q 381 576 350 581 Q 323 585 299 575 L 249 555 Q 180 533 119 523 Q 82 514 110 499 Q 150 478 240 503 Q 243 504 248 505 L 298 518 Z",
 "M 245 308 Q 244 229 243 133 Q 242 111 229 101 Q 223 98 168 116 Q 137 132 138 121 Q 139 114 157 96 Q 212 41 224 11 Q 237 -23 253 -26 Q 268 -27 284 6 Q 305 52 306 126 Q 299 240 297 353 L 297 387 Q 296 453 298 518 L 299 575 Q 308 714 319 749 Q 335 779 280 801 Q 246 820 227 813 Q 209 806 225 783 Q 247 756 248 722 Q 249 704 249 555 L 248 505 Q 247 441 245 354 L 245 308 Z",

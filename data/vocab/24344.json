@@ -1,17 +1,30 @@
 {
 "char": "弘",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "enlarge, expand; liberal, great",
 "pron": "hóng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "弘扬",
-10.53,
+7,
 "hóng yáng",
 "to enhance; to promote; to enrich"
+]
+],
+"extraWords": [
+[
+"弘",
+7.51,
+"hóng",
+"great; liberal"
+],
+[
+"中村弘",
+1.22,
+"???",
+"???"
 ]
 ],
 "strokes": [

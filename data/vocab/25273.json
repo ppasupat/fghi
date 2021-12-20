@@ -1,25 +1,44 @@
 {
 "char": "抹",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "smear, apply, wipe off, erase",
 "pron": "mā, mǒ, mò"
 },
 "words": [
 [
-"抹杀",
-6,
-"mǒ shā",
-"to erase; to cover traces; to obliterate evidence; to expunge; to blot out; to suppress"
+"抹",
+7,
+"mā",
+"to wipe"
 ],
 [
-"涂抹",
-6,
-"tú mǒ",
-"to paint; to smear; to apply (makeup etc); to doodle; to erase; to obliterate"
+"抹",
+7,
+"mǒ",
+"to smear; to wipe; to erase; classifier for wisps of cloud, light-beams etc"
+],
+[
+"抹",
+7,
+"mò",
+"to plaster; to go around; to skirt"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"涂抹",
+6.33,
+"tú mǒ",
+"to paint; to smear; to apply (makeup etc); to doodle; to erase; to obliterate"
+],
+[
+"一抹",
+6.16,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 304 537 Q 326 544 352 550 Q 386 560 392 565 Q 401 572 396 581 Q 389 591 360 598 Q 332 602 305 590 L 259 573 Q 169 549 115 540 Q 81 533 106 518 Q 148 500 212 515 Q 234 521 259 526 L 304 537 Z",
 "M 255 323 Q 254 241 253 141 Q 252 117 240 109 Q 234 106 182 124 Q 154 139 154 129 Q 155 122 172 107 Q 223 55 234 26 Q 247 -5 261 -9 Q 274 -10 290 21 Q 309 63 311 131 Q 304 246 302 360 L 302 393 Q 301 466 304 537 L 305 590 Q 314 722 323 749 Q 339 777 288 797 Q 257 813 239 808 Q 223 802 238 781 Q 257 756 259 725 Q 260 709 259 573 L 259 526 Q 258 459 256 366 L 255 323 Z",

@@ -1,11 +1,29 @@
 {
 "char": "闹",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "quarrel; dispute hotly",
 "pron": "nào"
 },
 "words": [
+[
+"闹",
+4,
+"nào",
+"variant of 闹[nào]"
+],
+[
+"闹",
+4,
+"nào",
+"noisy; cacophonous; to make noise; to disturb; to vent (feelings); to fall ill; to have an attack (of sickness); to go in (for some activity); to joke"
+],
+[
+"闹钟",
+4,
+"nào zhōng",
+"alarm clock"
+],
 [
 "热闹",
 4,
@@ -13,24 +31,42 @@
 "bustling with noise and excitement; lively"
 ],
 [
-"无理取闹",
-6,
-"wú lǐ qǔ nào",
-"to make trouble without reason (idiom); to be deliberately provocative"
+"胡闹",
+7,
+"hú nào",
+"to act willfully and make a scene; to make trouble"
+],
+[
+"看热闹",
+7,
+"kàn rè nao",
+"to enjoy watching a bustling scene; to go where the crowds are"
+],
+[
+"闹事",
+7,
+"nào shì",
+"to cause trouble; to create a disturbance"
+],
+[
+"闹着玩儿",
+7,
+"nào zhe wán r5",
+"to play games; to joke around; to play a joke on sb"
+],
+[
+"喧闹",
+7,
+"xuān nào",
+"to make a noise; noisy"
 ]
 ],
 "extraWords": [
 [
-"闹钟",
-8.63,
-"nào zhōng",
-"alarm clock"
-],
-[
-"胡闹",
-6.56,
-"hú nào",
-"to act willfully and make a scene; to make trouble"
+"闹着玩",
+5.57,
+"???",
+"???"
 ]
 ],
 "strokes": [

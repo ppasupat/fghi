@@ -1,30 +1,48 @@
 {
 "char": "笼",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cage; cage-like basket",
 "pron": "lóng, lǒng"
 },
 "words": [
 [
-"笼罩",
-6,
-"lǒng zhào",
-"to envelop; to shroud"
-],
-[
 "灯笼",
-6,
+7,
 "dēng lóng",
 "lantern"
+],
+[
+"笼子",
+7,
+"lóng zi",
+"cage; basket; container"
+],
+[
+"笼统",
+7,
+"lǒng tǒng",
+"general; broad; sweeping; lacking in detail; vague"
+],
+[
+"笼罩",
+7,
+"lǒng zhào",
+"to envelop; to shroud"
 ]
 ],
 "extraWords": [
 [
-"笼子",
-10.14,
-"lóng zi",
-"cage; basket; container"
+"笼",
+9.29,
+"lóng",
+"enclosing frame made of bamboo, wire etc; cage; basket; steamer basket; to cover; to cage; to embrace; to manipulate through trickery"
+],
+[
+"笼",
+9.29,
+"lǒng",
+"to cover; to cage; covering; also pr. [long2]"
 ]
 ],
 "strokes": [

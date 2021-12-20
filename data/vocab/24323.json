@@ -1,6 +1,6 @@
 {
 "char": "弃",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "reject, abandon, discard",
 "pron": "qì"
@@ -8,41 +8,47 @@
 "words": [
 [
 "放弃",
-4,
+5,
 "fàng qì",
 "to renounce; to abandon; to give up"
 ],
 [
+"丢弃",
+7,
+"diū qì",
+"to discard; to abandon"
+],
+[
 "抛弃",
-6,
+7,
 "pāo qì",
 "to abandon; to discard; to renounce; to dump (sb)"
 ],
 [
-"唾弃",
-6,
-"tuò qì",
-"to spurn; to disdain"
-]
-],
-"extraWords": [
-[
-"弃权",
-10.09,
-"qì quán",
-"to abstain from voting; to forfeit; to waive one's right to vote; to abdicate"
-],
-[
 "嫌弃",
-7.94,
+7,
 "xián qì",
 "to regard with disdain; to shun"
 ],
 [
 "遗弃",
-7.87,
+7,
 "yí qì",
 "to leave; to abandon"
+]
+],
+"extraWords": [
+[
+"弃",
+22.28,
+"qì",
+"to abandon; to relinquish; to discard; to throw away"
+],
+[
+"弃权",
+10.09,
+"qì quán",
+"to abstain from voting; to forfeit; to waive one's right to vote; to abdicate"
 ],
 [
 "废弃",

@@ -1,11 +1,17 @@
 {
 "char": "种",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "seed; race, breed; to plant",
 "pron": "chóng, zhǒng, zhòng"
 },
 "words": [
+[
+"各种",
+3,
+"gè zhǒng",
+"every kind of; all kinds of; various kinds"
+],
 [
 "种",
 3,
@@ -19,40 +25,46 @@
 "to plant; to grow; to cultivate"
 ],
 [
+"种子",
+3,
+"zhǒng zi",
+"seed; CL:颗[kē],粒[lì]"
+],
+[
+"多种",
+4,
+"duō zhǒng",
+"many kinds of; multiple; diverse; multi-"
+],
+[
 "种类",
-5,
+4,
 "zhǒng lèi",
 "kind; genus; type; category; variety; species; sort; class"
 ],
 [
-"种族",
-6,
-"zhǒng zú",
-"race; ethnicity"
-],
-[
-"种子",
-6,
-"zhǒng zi",
-"seed; CL:顆|颗[ke1],粒[li4]"
-],
-[
-"品种",
-6,
-"pǐn zhǒng",
-"breed; variety; CL:個|个[ge4]"
-],
-[
 "种植",
-6,
+4,
 "zhòng zhí",
 "to plant; to grow (a crop); to cultivate"
 ],
 [
-"播种",
+"品种",
+5,
+"pǐn zhǒng",
+"breed; variety; CL:个[gè]"
+],
+[
+"种种",
 6,
-"bō zhǒng",
-"to sow seeds; sowing; seed"
+"zhǒng zhǒng",
+"all kinds of"
+],
+[
+"种族",
+7,
+"zhǒng zú",
+"race; ethnicity"
 ]
 ],
 "extraWords": [
@@ -61,12 +73,6 @@
 527.27,
 "zhè zhǒng",
 "this; this kind of; this sort of; this type of"
-],
-[
-"各种",
-277.99,
-"gè zhǒng",
-"every kind of; all kinds of; various kinds"
 ],
 [
 "那种",
@@ -81,22 +87,10 @@
 "some kind (of)"
 ],
 [
-"多种",
-62.12,
-"duō zhǒng",
-"many kinds of; multiple; diverse; multi-"
-],
-[
 "杂种",
 39.23,
 "zá zhǒng",
 "hybrid; mixed breed; bastard; son of a bitch"
-],
-[
-"种种",
-37.23,
-"zhǒng zhǒng",
-"all kinds of"
 ],
 [
 "有种",
@@ -117,10 +111,22 @@
 "various kinds; all sorts"
 ],
 [
+"播种",
+11.37,
+"bō zhǒng",
+"to sow seeds; sowing; seed"
+],
+[
 "特种",
 10.88,
 "tè zhǒng",
 "particular kind; special type"
+],
+[
+"哪种",
+7.55,
+"???",
+"???"
 ],
 [
 "良种",

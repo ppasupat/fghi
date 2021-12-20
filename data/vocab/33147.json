@@ -1,24 +1,30 @@
 {
 "char": "腻",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "greasy, oily, dirty; smooth",
 "pron": "nì"
 },
 "words": [
 [
-"油腻",
-6,
-"yóu nì",
-"grease; greasy food; oily; rich (of food); fatty; greasy and dirty; a slippery character"
+"细腻",
+7,
+"xì nì",
+"exquisite; meticulous"
 ]
 ],
 "extraWords": [
 [
-"细腻",
-13.87,
-"xì nì",
-"exquisite; meticulous"
+"腻",
+9.39,
+"nì",
+"greasy; soft; unctuous; intimate; tired of"
+],
+[
+"油腻",
+4.12,
+"yóu nì",
+"grease; greasy food; oily; rich (of food); fatty; greasy and dirty; a slippery character"
 ]
 ],
 "strokes": [

@@ -1,16 +1,22 @@
 {
 "char": "没",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "not, have not, none; drown, sink",
 "pron": "méi, mò"
 },
 "words": [
 [
-"没有",
+"没",
 1,
-"méi yǒu",
-"haven't; hasn't; doesn't exist; to not have; to not be"
+"méi",
+"(negative prefix for verbs); have not; not"
+],
+[
+"没",
+1,
+"mò",
+"drowned; to end; to die; to inundate"
 ],
 [
 "没关系",
@@ -19,30 +25,126 @@
 "it doesn't matter"
 ],
 [
-"淹没",
-6,
-"yān mò",
-"to submerge; to drown; to flood; to drown out (also fig.)"
-],
-[
-"埋没",
-6,
-"mái mò",
-"to engulf; to bury; to overlook; to stifle; to neglect; to fall into oblivion"
-]
-],
-"extraWords": [
-[
 "没什么",
-281.76,
+1,
 "méi shén me",
 "nothing; it doesn't matter; it's nothing; never mind"
 ],
 [
+"没事儿",
+1,
+"méi shì r5",
+"to have spare time; free from work; it's not important; it's nothing; never mind"
+],
+[
+"没有",
+1,
+"méi yǒu",
+"haven't; hasn't; doesn't exist; to not have; to not be"
+],
+[
+"没用",
+3,
+"méi yòng",
+"useless"
+],
+[
+"没错",
+4,
+"méi cuò",
+"that's right; sure!; rest assured!; that's good; can't go wrong"
+],
+[
+"没法儿",
+4,
+"méi fǎ",
+"at a loss; unable to do anything about it; to have no choice"
+],
+[
+"没想到",
+4,
+"méi xiǎng dào",
+"didn't expect"
+],
+[
 "从没",
-116.47,
+6,
 "cóng méi",
 "never (in the past); never did"
+],
+[
+"没收",
+6,
+"mò shōu",
+"to confiscate; to seize"
+],
+[
+"有没有",
+6,
+"yǒu méi yǒu",
+"(before a noun) Do (you, they etc) have ...?; Is there a ...?; (before a verb) Did (you, they etc) (verb, infinitive)?; Have (you, they etc) (verb, past participle)?"
+],
+[
+"埋没",
+7,
+"mái mò",
+"to engulf; to bury; to overlook; to stifle; to neglect; to fall into oblivion"
+],
+[
+"没劲",
+7,
+"méi jìn",
+"to have no strength; to feel weak; exhausted; feeling listless; boring; of no interest"
+],
+[
+"没说的",
+7,
+"méi shuō de",
+"nothing to pick on; really good; nothing to discuss; settled matter; no problem"
+],
+[
+"没完没了",
+7,
+"méi wán méi liǎo",
+"without end; incessantly; on and on"
+],
+[
+"没意思",
+7,
+"méi yì si",
+"boring; of no interest"
+],
+[
+"没辙",
+7,
+"méi zhé",
+"at one's wit's end; unable to find a way out"
+],
+[
+"没准儿",
+7,
+"méi zhǔn r5",
+"erhua variant of 没准[méi zhǔn]"
+],
+[
+"没落",
+7,
+"mò luò",
+"to decline; to wane"
+]
+],
+"extraWords": [
+[
+"并没有",
+105.5,
+"???",
+"???"
+],
+[
+"没人",
+49.34,
+"???",
+"???"
 ],
 [
 "没事",
@@ -51,22 +153,16 @@
 "it's not important; it's nothing; never mind; to have nothing to do; to be free; to be all right (out of danger or trouble)"
 ],
 [
-"没事儿",
-30.79,
-"méi shì r5",
-"to have spare time; free from work; it's not important; it's nothing; never mind"
-],
-[
 "没法",
 26.59,
 "méi fǎ",
 "at a loss; unable to do anything about it; to have no choice"
 ],
 [
-"没用",
-19.82,
-"méi yòng",
-"useless"
+"没门",
+13.95,
+"???",
+"???"
 ],
 [
 "没准",
@@ -75,16 +171,34 @@
 "not sure; maybe"
 ],
 [
-"没收",
-12.18,
-"mò shōu",
-"to confiscate; to seize"
+"没想",
+10.89,
+"???",
+"???"
 ],
 [
-"没错",
-10.19,
-"méi cuò",
-"that's right; sure!; rest assured!; that's good; can't go wrong"
+"没空",
+9.72,
+"???",
+"???"
+],
+[
+"没得",
+8.09,
+"???",
+"???"
+],
+[
+"再也没有",
+7.76,
+"???",
+"???"
+],
+[
+"淹没",
+7.51,
+"yān mò",
+"to submerge; to drown; to flood; to drown out (also fig.)"
 ],
 [
 "没戏",
@@ -93,22 +207,22 @@
 "(coll.) not a chance; no way; hopeless"
 ],
 [
-"没意思",
-5.37,
-"méi yì si",
-"boring; of no interest"
+"没有用",
+7.17,
+"???",
+"???"
+],
+[
+"没完",
+5.72,
+"???",
+"???"
 ],
 [
 "没命",
 5.28,
 "méi mìng",
 "to lose one's life; to die; recklessly; desperately"
-],
-[
-"没完没了",
-5.07,
-"méi wán méi liǎo",
-"without end; incessantly; on and on"
 ]
 ],
 "strokes": [

@@ -1,34 +1,52 @@
 {
 "char": "福",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "happiness, good fortune, blessing",
 "pron": "fú"
 },
 "words": [
 [
+"福",
+3,
+"Fú",
+"surname Fu; abbr. for Fujian province 福建省[Fú jiàn shěng]"
+],
+[
+"福",
+3,
+"fú",
+"good fortune; happiness; luck"
+],
+[
 "幸福",
-4,
+3,
 "xìng fú",
 "happiness; happy; blessed"
 ],
 [
 "祝福",
-5,
+4,
 "zhù fú",
 "blessings; to wish sb well"
 ],
 [
 "福利",
-6,
+5,
 "fú lì",
 "material benefit; benefit in kind; (social) welfare"
 ],
 [
 "福气",
-6,
+7,
 "fú qi",
 "good fortune; a blessing"
+],
+[
+"造福",
+7,
+"zào fú",
+"to benefit (e.g. the people)"
 ]
 ],
 "extraWords": [

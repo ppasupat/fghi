@@ -1,70 +1,118 @@
 {
 "char": "活",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "live, exist, survive; lively",
 "pron": "huó"
 },
 "words": [
 [
+"干活儿",
+2,
+"gàn huó r5",
+"erhua variant of 干活[gàn huó]"
+],
+[
+"活动",
+2,
+"huó dòng",
+"to exercise; to move about; to operate; to use connections (personal influence); loose; shaky; active; movable; activity; campaign; maneuver; behavior; CL:项[xiàng],个[gè]"
+],
+[
 "生活",
-4,
+2,
 "shēng huó",
 "life; activity; to live; livelihood"
 ],
 [
-"活动",
-4,
-"huó dòng",
-"to exercise; to move about; to operate; to use connections (personal influence); loose; shaky; active; movable; activity; campaign; maneuver; behavior; CL:項|项[xiang4],個|个[ge4]"
+"活",
+3,
+"huó",
+"to live; alive; living; work; workmanship"
+],
+[
+"活力",
+5,
+"huó lì",
+"energy; vitality; vigor; vital force"
 ],
 [
 "活泼",
-4,
+5,
 "huó po",
 "lively; vivacious; brisk; active; (chemistry) reactive"
 ],
 [
-"活跃",
+"快活",
 5,
+"kuài huo",
+"happy; cheerful"
+],
+[
+"活跃",
+6,
 "huó yuè",
 "active; lively; excited; to enliven; to brighten up"
 ],
 [
 "灵活",
-5,
+6,
 "líng huó",
 "flexible; nimble; agile"
 ],
 [
-"干活儿",
-5,
-"gàn huó r5",
-"erhua variant of 幹活|干活[gan4 huo2]"
-],
-[
-"活力",
+"生活费",
 6,
-"huó lì",
-"energy; vitality; vigor; vital force"
+"shēng huó fèi",
+"cost of living; living expenses; alimony"
 ],
 [
 "复活",
-6,
+7,
 "fù huó",
 "to revive; (lit. and fig.) to come back to life; (religion) resurrection"
 ],
 [
 "活该",
-6,
+7,
 "huó gāi",
 "(coll.) serve sb right; deservedly; ought; should"
 ],
 [
-"快活",
-6,
-"kuài huo",
-"happy; cheerful"
+"活期",
+7,
+"huó qī",
+"(banking) current (account); checking (account); demand (deposit etc)"
+],
+[
+"活儿",
+7,
+"huó r5",
+"work; (lots of) things to do"
+],
+[
+"激活",
+7,
+"jī huó",
+"to activate"
+],
+[
+"忙活",
+7,
+"máng huo",
+"to be really busy; pressing business"
+],
+[
+"鲜活",
+7,
+"xiān huó",
+"vivid; lively; (of food ingredients) live or fresh"
+],
+[
+"养活",
+7,
+"yǎng huo",
+"to provide for; to keep (animals, a family etc); to raise animals; to feed and clothe; support; the necessities of life; to give birth"
 ]
 ],
 "extraWords": [
@@ -81,22 +129,16 @@
 "(chemistry) activity; active; activated"
 ],
 [
-"活儿",
-17.47,
-"huó r5",
-"work; (lots of) things to do"
-],
-[
-"激活",
-14.5,
-"jī huó",
-"to activate"
-],
-[
 "生活方式",
 14.21,
 "shēng huó fāng shì",
 "way of life; lifestyle"
+],
+[
+"日常生活",
+11.35,
+"???",
+"???"
 ],
 [
 "活塞",
@@ -121,24 +163,6 @@
 7.1,
 "cún huó",
 "to survive (a serious accident); survival"
-],
-[
-"生活费",
-6.82,
-"shēng huó fèi",
-"cost of living; living expenses; alimony"
-],
-[
-"鲜活",
-6.29,
-"xiān huó",
-"vivid; lively; (of food ingredients) live or fresh"
-],
-[
-"养活",
-5.72,
-"yǎng huo",
-"to provide for; to keep (animals, a family etc); to raise animals; to feed and clothe; support; the necessities of life; to give birth"
 ],
 [
 "活命",

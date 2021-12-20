@@ -1,6 +1,6 @@
 {
 "char": "竭",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "put forth great effort; exhaust",
 "pron": "jié"
@@ -8,24 +8,30 @@
 "words": [
 [
 "竭尽全力",
-6,
+7,
 "jié jìn quán lì",
 "to spare no effort (idiom); to do one's utmost"
-]
-],
-"extraWords": [
-[
-"衰竭",
-7.51,
-"shuāi jié",
-"organ failure; exhaustion; prostration (medicine)"
 ],
 [
 "竭力",
-5.26,
+7,
 "jié lì",
 "to do one's utmost"
 ],
+[
+"精疲力竭",
+7,
+"jīng pí lì jié",
+"spirit weary, strength exhausted (idiom); spent; drained; washed out"
+],
+[
+"衰竭",
+7,
+"shuāi jié",
+"organ failure; exhaustion; prostration (medicine)"
+]
+],
+"extraWords": [
 [
 "竭尽",
 5.07,

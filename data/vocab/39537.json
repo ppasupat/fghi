@@ -1,24 +1,42 @@
 {
 "char": "驱",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "spur a horse on; expel, drive away",
 "pron": "qū"
 },
 "words": [
 [
+"驱动",
+7,
+"qū dòng",
+"to drive; to propel; drive (vehicle wheel); drive mechanism (tape or disk); device driver (computing software)"
+],
+[
 "驱逐",
-6,
+7,
 "qū zhú",
 "to expel; to deport; banishment"
 ]
 ],
 "extraWords": [
 [
-"驱动",
-13.78,
-"qū dòng",
-"to drive; to propel; drive (vehicle wheel); drive mechanism (tape or disk); device driver (computing software)"
+"驱",
+8.43,
+"qū",
+"variant of 驱[qū]"
+],
+[
+"驱",
+8.43,
+"qū",
+"old variant of 驱[qū]"
+],
+[
+"驱",
+8.43,
+"qū",
+"to expel; to urge on; to drive; to run quickly"
 ],
 [
 "光驱",

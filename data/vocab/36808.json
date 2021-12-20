@@ -1,6 +1,6 @@
 {
 "char": "迈",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "take a big stride; pass by",
 "pron": "mài"
@@ -8,15 +8,21 @@
 "words": [
 [
 "迈",
-6,
+7,
 "mài",
 "to take a step; to stride"
 ],
 [
-"豪迈",
-6,
-"háo mài",
-"bold; open-minded; heroic"
+"迈进",
+7,
+"mài jìn",
+"to step in; to stride forward; to forge ahead"
+],
+[
+"年迈",
+7,
+"nián mài",
+"old; aged"
 ]
 ],
 "extraWords": [
@@ -33,16 +39,22 @@
 "Michael (name)"
 ],
 [
+"迈克",
+20.51,
+"???",
+"???"
+],
+[
+"迈尔斯",
+10.37,
+"???",
+"???"
+],
+[
 "迈出",
 8.77,
 "mài chū",
 "to step out; to take a (first) step"
-],
-[
-"迈进",
-6.59,
-"mài jìn",
-"to step in; to stride forward; to forge ahead"
 ]
 ],
 "strokes": [

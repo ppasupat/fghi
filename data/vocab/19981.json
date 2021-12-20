@@ -1,11 +1,35 @@
 {
 "char": "不",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "no, not; un-; negative prefix",
 "pron": "bù"
 },
 "words": [
+[
+"不大",
+1,
+"bù dà",
+"not very; not too; not often"
+],
+[
+"不对",
+1,
+"bù duì",
+"incorrect; wrong; amiss; abnormal; queer"
+],
+[
+"不客气",
+1,
+"bù kè qi",
+"you're welcome; don't mention it; impolite; rude; blunt"
+],
+[
+"不用",
+1,
+"bù yòng",
+"need not"
+],
 [
 "不",
 1,
@@ -19,22 +43,166 @@
 "unworthy; to let down; I'm sorry; excuse me; pardon me; if you please; sorry? (please repeat)"
 ],
 [
-"不客气",
+"是不是",
 1,
-"bù kè qi",
-"you're welcome; don't mention it; impolite; rude; blunt"
+"shì bù shì",
+"is or isn't; yes or no; whether or not"
+],
+[
+"不错",
+2,
+"bù cuò",
+"correct; right; not bad; pretty good"
 ],
 [
 "不但",
-3,
+2,
 "bù dàn",
 "not only (... but also...)"
 ],
 [
+"不够",
+2,
+"bù gòu",
+"not enough; insufficient; inadequate"
+],
+[
 "不过",
-4,
+2,
 "bù guò",
 "only; merely; no more than; but; however; anyway (to get back to a previous topic); cannot be more (after adjectival)"
+],
+[
+"不太",
+2,
+"???",
+"???"
+],
+[
+"不要",
+2,
+"bù yào",
+"don't!; must not"
+],
+[
+"不好意思",
+2,
+"bù hǎo yì si",
+"to feel embarrassed; to find it embarrassing; to be sorry (for inconveniencing sb)"
+],
+[
+"不久",
+2,
+"bù jiǔ",
+"not long (after); before too long; soon; soon after"
+],
+[
+"不满",
+2,
+"bù mǎn",
+"resentful; discontented; dissatisfied"
+],
+[
+"不如",
+2,
+"bù rú",
+"not equal to; not as good as; inferior to; it would be better to"
+],
+[
+"不少",
+2,
+"bù shǎo",
+"many; a lot; not few"
+],
+[
+"不同",
+2,
+"bù tóng",
+"different; distinct; not the same; not alike"
+],
+[
+"不行",
+2,
+"bù xíng",
+"won't do; be out of the question; be no good; not work; not be capable"
+],
+[
+"不一定",
+2,
+"bù yī dìng",
+"not necessarily; maybe"
+],
+[
+"不一会儿",
+2,
+"bù yī huì",
+"soon"
+],
+[
+"差不多",
+2,
+"chà bu duō",
+"almost; nearly; more or less; about the same; good enough; not bad"
+],
+[
+"不必",
+3,
+"bù bì",
+"need not; does not have to; not necessarily"
+],
+[
+"不断",
+3,
+"bù duàn",
+"unceasing; uninterrupted; continuous; constant"
+],
+[
+"不论",
+3,
+"bù lùn",
+"whatever; no matter what (who, how etc); regardless of; not to discuss"
+],
+[
+"不安",
+3,
+"bù ān",
+"unpeaceful; unstable; uneasy; disturbed; restless; worried"
+],
+[
+"不得不",
+3,
+"bù dé bù",
+"have no choice or option but to; cannot but; have to; can't help it; can't avoid"
+],
+[
+"不光",
+3,
+"bù guāng",
+"not the only one; not only"
+],
+[
+"不仅",
+3,
+"bù jǐn",
+"not only (this one); not just (...) but also"
+],
+[
+"能不能",
+3,
+"???",
+"???"
+],
+[
+"不要紧",
+4,
+"bù yào jǐn",
+"unimportant; not serious; it doesn't matter; never mind; it looks all right, but"
+],
+[
+"不在乎",
+4,
+"bù zài hu",
+"not to care"
 ],
 [
 "不管",
@@ -43,28 +211,16 @@
 "not to be concerned; regardless of; no matter"
 ],
 [
-"差不多",
+"不然",
 4,
-"chà bu duō",
-"almost; nearly; more or less; about the same; good enough; not bad"
+"bù rán",
+"not so; no; or else; otherwise; if not; How about ...?"
 ],
 [
-"不得不",
+"看不起",
 4,
-"bù dé bù",
-"have no choice or option but to; cannot but; have to; can't help it; can't avoid"
-],
-[
-"受不了",
-4,
-"shòu bù liǎo",
-"unbearable; unable to endure; can't stand"
-],
-[
-"不仅",
-4,
-"bù jǐn",
-"not only (this one); not just (...) but also"
+"kàn bu qǐ",
+"to look down upon; to despise"
 ],
 [
 "来不及",
@@ -73,82 +229,40 @@
 "there's not enough time (to do sth); it's too late (to do sth)"
 ],
 [
-"不然",
-5,
-"bù rán",
-"not so; no; or else; otherwise; if not; How about ...?"
-],
-[
-"不断",
-5,
-"bù duàn",
-"unceasing; uninterrupted; continuous; constant"
+"离不开",
+4,
+"lí bu kāi",
+"inseparable; inevitably linked to"
 ],
 [
 "了不起",
-5,
+4,
 "liǎo bu qǐ",
 "amazing; terrific; extraordinary"
 ],
 [
+"受不了",
+4,
+"shòu bù liǎo",
+"unbearable; unable to endure; can't stand"
+],
+[
 "说不定",
-5,
+4,
 "shuō bu dìng",
 "can't say for sure; maybe"
 ],
 [
-"不安",
+"不顾",
 5,
-"bù ān",
-"unpeaceful; unstable; uneasy; disturbed; restless; worried"
+"bù gù",
+"in spite of; regardless of"
 ],
 [
-"不如",
+"不利",
 5,
-"bù rú",
-"not equal to; not as good as; inferior to; it would be better to"
-],
-[
-"忍不住",
-5,
-"rěn bu zhù",
-"cannot help; unable to bear"
-],
-[
-"不足",
-5,
-"bù zú",
-"insufficient; lacking; deficiency; not enough; inadequate; not worth; cannot; should not"
-],
-[
-"不要紧",
-5,
-"bù yào jǐn",
-"unimportant; not serious; it doesn't matter; never mind; it looks all right, but"
-],
-[
-"要不",
-5,
-"yào bù",
-"otherwise; or else; how about...?; either... (or...)"
-],
-[
-"怪不得",
-5,
-"guài bu de",
-"no wonder!; so that's why!"
-],
-[
-"不得了",
-5,
-"bù dé liǎo",
-"desperately serious; disastrous; extremely; exceedingly"
-],
-[
-"舍不得",
-5,
-"shě bu de",
-"to hate to do sth; to hate to part with; to begrudge"
+"bù lì",
+"unfavorable; disadvantageous; harmful; detrimental"
 ],
 [
 "不耐烦",
@@ -157,214 +271,124 @@
 "impatient; to lose patience"
 ],
 [
-"看不起",
+"不幸",
 5,
-"kàn bu qǐ",
-"to look down upon; to despise"
+"bù xìng",
+"misfortune; adversity; unfortunate; sad; unfortunately; CL:个[gè]"
 ],
 [
-"不见得",
+"不易",
 5,
-"bù jiàn de",
-"not necessarily; not likely"
+"bù yì",
+"not easy to do sth; difficult; unchanging"
 ],
 [
-"不可思议",
-6,
-"bù kě sī yì",
-"inconceivable (idiom); unimaginable; unfathomable"
+"不曾",
+5,
+"bù céng",
+"hasn't yet; hasn't ever"
 ],
 [
-"不止",
-6,
-"bù zhǐ",
-"incessantly; without end; more than; not limited to"
-],
-[
-"大不了",
-6,
-"dà bù liǎo",
-"at worst; if worst comes to worst; serious; alarming"
-],
-[
-"不惜",
-6,
-"bù xī",
-"not stint; not spare; not hesitate (to do sth); not scruple (to do sth)"
-],
-[
-"迫不及待",
-6,
-"pò bù jí dài",
-"impatient (idiom); in a hurry; itching to get on with it"
-],
-[
-"不顾",
-6,
-"bù gù",
-"in spite of; regardless of"
-],
-[
-"不择手段",
-6,
-"bù zé shǒu duàn",
-"by fair means or foul; by hook or by crook; unscrupulously"
-],
-[
-"不妨",
-6,
-"bù fáng",
-"there is no harm in; might as well"
-],
-[
-"不堪",
-6,
-"bù kān",
-"cannot bear; cannot stand; utterly; extremely"
-],
-[
-"不得已",
-6,
-"bù dé yǐ",
-"to act against one's will; to have no alternative but to; to have to; to have no choice; must"
-],
-[
-"微不足道",
-6,
-"wēi bù zú dào",
-"negligible; insignificant"
-],
-[
-"恨不得",
-6,
-"hèn bu de",
-"wishing one could do sth; to hate to be unable; itching to do sth"
-],
-[
-"不时",
-6,
-"bù shí",
-"from time to time; now and then; occasionally; frequently"
-],
-[
-"不禁",
-6,
-"bù jīn",
-"can't help (doing sth); can't refrain from"
-],
-[
-"不愧",
-6,
-"bù kuì",
-"to be worthy of; to deserve to be called; to prove oneself to be"
-],
-[
-"巴不得",
-6,
-"bā bu de",
-"(coll.) to be eager for; to long for; to look forward to"
-],
-[
-"滔滔不绝",
-6,
-"tāo tāo bù jué",
-"unceasing torrent (idiom); talking non-stop; gabbling forty to the dozen"
-],
-[
-"不像话",
-6,
-"bù xiàng huà",
-"unreasonable; shocking; outrageous"
-],
-[
-"一丝不苟",
-6,
-"yī sī bù gǒu",
-"not one thread loose (idiom); strictly according to the rules; meticulous; not one hair out of place"
-],
-[
-"有条不紊",
-6,
-"yǒu tiáo bù wěn",
-"regular and thorough (idiom); methodically arranged"
-],
-[
-"不相上下",
-6,
-"bù xiāng shàng xià",
-"equally matched; about the same"
-],
-[
-"不屑一顾",
-6,
-"bù xiè yī gù",
-"to disdain as beneath contempt (idiom)"
-],
-[
-"不言而喻",
-6,
-"bù yán ér yù",
-"it goes without saying; it is self-evident"
-],
-[
-"无微不至",
-6,
-"wú wēi bù zhì",
-"in every possible way (idiom); meticulous"
-],
-[
-"爱不释手",
-6,
-"ài bù shì shǒu",
-"to love sth too much to part with it (idiom); to fondle admiringly"
-],
-[
-"层出不穷",
-6,
-"céng chū bù qióng",
-"more and more emerge; innumerable succession; breeding like flies (idiom)"
-],
-[
-"不由得",
-6,
-"bù yóu de",
-"can't help; cannot but"
+"不得了",
+5,
+"bù dé liǎo",
+"desperately serious; disastrous; extremely; exceedingly"
 ],
 [
 "不敢当",
-6,
+5,
 "bù gǎn dāng",
 "lit. I dare not (accept the honor); fig. I don't deserve your praise; you flatter me"
 ],
 [
-"得不偿失",
-6,
-"dé bù cháng shī",
-"the gains do not make up for the losses (idiom)"
-],
-[
-"刻不容缓",
-6,
-"kè bù róng huǎn",
-"to brook no delay; to demand immediate action"
-],
-[
-"供不应求",
-6,
-"gōng bù yìng qiú",
-"supply does not meet demand"
+"不良",
+5,
+"bù liáng",
+"bad; harmful; unhealthy"
 ],
 [
 "不免",
-6,
+5,
 "bù miǎn",
 "inevitably"
 ],
 [
-"锲而不舍",
+"不能不",
+5,
+"bù néng bù",
+"have to; cannot but"
+],
+[
+"不时",
+5,
+"bù shí",
+"from time to time; now and then; occasionally; frequently"
+],
+[
+"不停",
+5,
+"bù tíng",
+"incessant"
+],
+[
+"不许",
+5,
+"bù xǔ",
+"not to allow; must not; can't"
+],
+[
+"不止",
+5,
+"bù zhǐ",
+"incessantly; without end; more than; not limited to"
+],
+[
+"不足",
+5,
+"bù zú",
+"insufficient; lacking; deficiency; not enough; inadequate; not worth; cannot; should not"
+],
+[
+"决不",
+5,
+"jué bù",
+"not at all; simply (can) not"
+],
+[
+"忍不住",
+5,
+"rěn bu zhù",
+"cannot help; unable to bear"
+],
+[
+"舍不得",
+5,
+"shě bu de",
+"to hate to do sth; to hate to part with; to begrudge"
+],
+[
+"用不着",
+5,
+"yòng bu zháo",
+"not need; have no use for"
+],
+[
+"只不过",
+5,
+"zhǐ bu guò",
+"only; merely; nothing but; no more than; it's just that ..."
+],
+[
+"不便",
 6,
-"qiè ér bù shě",
-"to chip away at a task and not abandon it (idiom); to chisel away at sth; to persevere; unflagging efforts"
+"bù biàn",
+"inconvenient; inappropriate; unsuitable; short of cash"
+],
+[
+"不见",
+6,
+"bù jiàn",
+"not to see; not to meet; to have disappeared; to be missing"
 ],
 [
 "不料",
@@ -373,16 +397,856 @@
 "unexpectedly; to one's surprise"
 ],
 [
-"川流不息",
+"不再",
 6,
+"bù zài",
+"no more; no longer"
+],
+[
+"不至于",
+6,
+"bù zhì yú",
+"unlikely to go so far as to; not as bad as"
+],
+[
+"不成",
+6,
+"bù chéng",
+"won't do; unable to; (at the end of a rhetorical question) can that be?"
+],
+[
+"不禁",
+6,
+"bù jīn",
+"can't help (doing sth); can't refrain from"
+],
+[
+"不仅仅",
+6,
+"bù jǐn jǐn",
+"not only; not just"
+],
+[
+"不通",
+6,
+"bù tōng",
+"to be obstructed; to be blocked up; to be impassable; to make no sense; to be illogical"
+],
+[
+"不怎么",
+6,
+"bù zěn me",
+"not very; not particularly"
+],
+[
+"不怎么样",
+6,
+"bù zěn me yàng",
+"not up to much; very indifferent; nothing great about it; nothing good to be said about it"
+],
+[
+"不值",
+6,
+"bù zhí",
+"not worth"
+],
+[
+"从不",
+6,
+"cóng bù",
+"never"
+],
+[
+"赶不上",
+6,
+"gǎn bù shàng",
+"can't keep up with; can't catch up with; cannot overtake"
+],
+[
+"想不到",
+6,
+"xiǎng bu dào",
+"unexpected; hard to imagine; it had not occurred to me; who could have thought that"
+],
+[
+"要不然",
+6,
+"yào bù rán",
+"otherwise; or else; or"
+],
+[
+"意想不到",
+6,
+"yì xiǎng bù dào",
+"unexpected; previously unimagined"
+],
+[
+"爱不释手",
+7,
+"ài bù shì shǒu",
+"to love sth too much to part with it (idiom); to fondle admiringly"
+],
+[
+"爱理不理",
+7,
+"ài lǐ bù lǐ",
+"to look cold and indifferent; standoffish"
+],
+[
+"巴不得",
+7,
+"bā bu de",
+"(coll.) to be eager for; to long for; to look forward to"
+],
+[
+"办不到",
+7,
+"bàn bu dào",
+"impossible; can't be done; no can do; unable to accomplish"
+],
+[
+"比不上",
+7,
+"bǐ bù shàng",
+"can't compare with"
+],
+[
+"必不可少",
+7,
+"bì bù kě shǎo",
+"absolutely necessary; indispensable; essential"
+],
+[
+"不定",
+7,
+"bù dìng",
+"indefinite; indeterminate; (botany) adventitious"
+],
+[
+"不见得",
+7,
+"bù jiàn de",
+"not necessarily; not likely"
+],
+[
+"不利于",
+7,
+"???",
+"???"
+],
+[
+"不慎",
+7,
+"bù shèn",
+"incautious; inattentive"
+],
+[
+"不适",
+7,
+"bù shì",
+"unwell; indisposed; out of sorts"
+],
+[
+"不算",
+7,
+"bù suàn",
+"to not calculate; to not count; to not be considered (as); to have no weight"
+],
+[
+"不像话",
+7,
+"bù xiàng huà",
+"unreasonable; shocking; outrageous"
+],
+[
+"不屑",
+7,
+"bù xiè",
+"to disdain to do sth; to think sth not worth doing; to feel it beneath one's dignity"
+],
+[
+"不懈",
+7,
+"bù xiè",
+"untiring; unremitting; indefatigable"
+],
+[
+"不亚于",
+7,
+"bù yà yú",
+"no less than; not inferior to"
+],
+[
+"不亦乐乎",
+7,
+"bù yì lè hū",
+"lit. isn't that a joy? (quote from Confucius); fig. (jocularly) extremely; awfully"
+],
+[
+"不翼而飞",
+7,
+"bù yì ér fēi",
+"to disappear without trace; to vanish all of a sudden; to spread fast; to spread like wildfire"
+],
+[
+"不用说",
+7,
+"bù yòng shuō",
+"needless to say; it goes without saying"
+],
+[
+"不正之风",
+7,
+"bù zhèng zhī fēng",
+"unhealthy tendency"
+],
+[
+"不耻下问",
+7,
+"bù chǐ xià wèn",
+"not feel ashamed to ask and learn from one's subordinates"
+],
+[
+"不辞而别",
+7,
+"bù cí ér bié",
+"to leave without saying good-bye"
+],
+[
+"不得而知",
+7,
+"bù dé ér zhī",
+"unknown; unable to find out"
+],
+[
+"不得已",
+7,
+"bù dé yǐ",
+"to act against one's will; to have no alternative but to; to have to; to have no choice; must"
+],
+[
+"不妨",
+7,
+"bù fáng",
+"there is no harm in; might as well"
+],
+[
+"不服",
+7,
+"bù fú",
+"not to accept sth; to want to have sth overruled or changed; to refuse to obey or comply; to refuse to accept as final; to remain unconvinced by; not to give in to"
+],
+[
+"不服气",
+7,
+"bù fú qì",
+"unwilling to concede; defiant; indignant; to find it galling"
+],
+[
+"不假思索",
+7,
+"bù jiǎ sī suǒ",
+"to act without taking time to think (idiom); to react instantly; to fire from the hip"
+],
+[
+"不解",
+7,
+"bù jiě",
+"to not understand; to be puzzled by; indissoluble"
+],
+[
+"不经意",
+7,
+"bù jīng yì",
+"not paying attention; carelessly; by accident"
+],
+[
+"不景气",
+7,
+"bù jǐng qì",
+"slack; in a slump"
+],
+[
+"不堪",
+7,
+"bù kān",
+"cannot bear; cannot stand; utterly; extremely"
+],
+[
+"不可避免",
+7,
+"bù kě bì miǎn",
+"unavoidably"
+],
+[
+"不可思议",
+7,
+"bù kě sī yì",
+"inconceivable (idiom); unimaginable; unfathomable"
+],
+[
+"不肯",
+7,
+"???",
+"???"
+],
+[
+"不理",
+7,
+"bù lǐ",
+"to refuse to acknowledge; to pay no attention to; to take no notice of; to ignore"
+],
+[
+"不了了之",
+7,
+"bù liǎo liǎo zhī",
+"to settle a matter by leaving it unsettled; to end up with nothing definite"
+],
+[
+"不难",
+7,
+"???",
+"???"
+],
+[
+"不平",
+7,
+"bù píng",
+"uneven; injustice; unfairness; wrong; grievance; indignant; dissatisfied"
+],
+[
+"不起眼",
+7,
+"bù qǐ yǎn",
+"unremarkable; nothing out of the ordinary"
+],
+[
+"不容",
+7,
+"bù róng",
+"must not; cannot; to not allow; cannot tolerate"
+],
+[
+"不如说",
+7,
+"???",
+"???"
+],
+[
+"不同寻常",
+7,
+"bù tóng xún cháng",
+"out of the ordinary; unusual"
+],
+[
+"不为人知",
+7,
+"bù wéi rén zhī",
+"not known to anyone; secret; unknown"
+],
+[
+"不惜",
+7,
+"bù xī",
+"not stint; not spare; not hesitate (to do sth); not scruple (to do sth)"
+],
+[
+"不相上下",
+7,
+"bù xiāng shàng xià",
+"equally matched; about the same"
+],
+[
+"不宜",
+7,
+"bù yí",
+"not suitable; inadvisable; inappropriate"
+],
+[
+"不已",
+7,
+"bù yǐ",
+"endlessly; incessantly"
+],
+[
+"不以为然",
+7,
+"bù yǐ wéi rán",
+"not to accept as correct (idiom); to object; to disapprove; to take exception to"
+],
+[
+"不由得",
+7,
+"bù yóu de",
+"can't help; cannot but"
+],
+[
+"不由自主",
+7,
+"bù yóu zì zhǔ",
+"can't help; involuntarily (idiom)"
+],
+[
+"不予",
+7,
+"bù yú",
+"to withhold; to refuse"
+],
+[
+"不约而同",
+7,
+"bù yuē ér tóng",
+"to agree by chance (idiom); taking the same action without prior consultation"
+],
+[
+"不知",
+7,
+"bù zhī",
+"not to know; unaware; unknowingly; fig. not to admit (defeat, hardships, tiredness etc)"
+],
+[
+"不知不觉",
+7,
+"bù zhī bù jué",
+"unconsciously; unwittingly"
+],
+[
+"不准",
+7,
+"bù zhǔn",
+"not to allow; to forbid; to prohibit"
+],
+[
+"层出不穷",
+7,
+"céng chū bù qióng",
+"more and more emerge; innumerable succession; breeding like flies (idiom)"
+],
+[
+"吃不上",
+7,
+"chī bu shàng",
+"unable to get anything to eat; to miss a meal"
+],
+[
+"川流不息",
+7,
 "chuān liú bù xī",
 "the stream flows without stopping (idiom); unending flow"
 ],
 [
+"从来不",
+7,
+"cóng lái bù",
+"never"
+],
+[
+"从容不迫",
+7,
+"cóng róng bù pò",
+"calm; unruffled"
+],
+[
+"措手不及",
+7,
+"cuò shǒu bù jí",
+"no time to deal with it (idiom); caught unprepared"
+],
+[
+"得不偿失",
+7,
+"dé bù cháng shī",
+"the gains do not make up for the losses (idiom)"
+],
+[
+"动不动",
+7,
+"dòng bu dòng",
+"(typically followed by 就[jiù]) apt to (lose one's temper, catch a cold etc); at the drop of a hat"
+],
+[
+"格格不入",
+7,
+"gé gé bù rù",
+"(idiom) inharmonious; incompatible"
+],
+[
+"跟不上",
+7,
+"gēn bu shàng",
+"not able to keep up with"
+],
+[
+"供不应求",
+7,
+"gōng bù yìng qiú",
+"supply does not meet demand"
+],
+[
+"顾不得",
+7,
+"gù bu de",
+"unable to change sth; unable to deal with"
+],
+[
+"顾不上",
+7,
+"gù bu shàng",
+"cannot attend to or manage"
+],
+[
+"怪不得",
+7,
+"guài bu de",
+"no wonder!; so that's why!"
+],
+[
+"过不去",
+7,
+"guò bu qù",
+"to make life difficult for; to embarrass; unable to make it through"
+],
+[
+"过意不去",
+7,
+"guò yì bù qù",
+"to feel very apologetic"
+],
+[
+"毫不",
+7,
+"háo bù",
+"hardly; not in the least; not at all"
+],
+[
+"毫不犹豫",
+7,
+"háo bù yóu yù",
+"without the slightest hesitation"
+],
+[
+"恨不得",
+7,
+"hèn bu de",
+"wishing one could do sth; to hate to be unable; itching to do sth"
+],
+[
+"坚持不懈",
+7,
+"jiān chí bù xiè",
+"to persevere unremittingly (idiom); to keep going until the end"
+],
+[
+"截然不同",
+7,
+"jié rán bù tóng",
+"entirely different; different as black and white"
+],
+[
+"禁不住",
+7,
+"jīn bu zhù",
+"can't help it; can't bear it"
+],
+[
+"经久不息",
+7,
+"jīng jiǔ bù xī",
+"prolonged (applause, cheering etc)"
+],
+[
+"可不是",
+7,
+"kě bu shì",
+"that's just the way it is; exactly!"
+],
+[
+"哭笑不得",
+7,
+"kū xiào bù dé",
+"lit. not to know whether to laugh or cry (idiom); both funny and extremely embarrassing; between laughter and tears"
+],
+[
+"力不从心",
+7,
+"lì bù cóng xīn",
+"less capable than desirable (idiom); not as strong as one would wish; the spirit is willing but the flesh is weak"
+],
+[
+"恋恋不舍",
+7,
+"liàn liàn bù shě",
+"reluctant to part"
+],
+[
 "络绎不绝",
-6,
+7,
 "luò yì bù jué",
 "continuously; in an endless stream (idiom)"
+],
+[
+"买不起",
+7,
+"mǎi bu qǐ",
+"cannot afford; can't afford buying"
+],
+[
+"美中不足",
+7,
+"měi zhōng bù zú",
+"everything is fine except for one small defect (idiom); the fly in the ointment"
+],
+[
+"迷惑不解",
+7,
+"mí huò bù jiě",
+"to feel puzzled"
+],
+[
+"密不可分",
+7,
+"mì bù kě fēn",
+"inextricably linked (idiom); inseparable"
+],
+[
+"免不了",
+7,
+"miǎn bù liǎo",
+"unavoidable; can't be avoided"
+],
+[
+"目不转睛",
+7,
+"mù bù zhuǎn jīng",
+"unable to take one's eyes off (idiom); to gaze steadily; to stare"
+],
+[
+"念念不忘",
+7,
+"niàn niàn bù wàng",
+"to keep in mind constantly (idiom)"
+],
+[
+"疲惫不堪",
+7,
+"pí bèi bù kān",
+"exhausted; fatigued to the extreme"
+],
+[
+"迫不及待",
+7,
+"pò bù jí dài",
+"impatient (idiom); in a hurry; itching to get on with it"
+],
+[
+"前不久",
+7,
+"qián bù jiǔ",
+"not long ago; not long before"
+],
+[
+"瞧不起",
+7,
+"qiáo bù qǐ",
+"to look down upon; to hold in contempt"
+],
+[
+"情不自禁",
+7,
+"qíng bù zì jīn",
+"unable to restrain emotions; cannot help"
+],
+[
+"少不了",
+7,
+"shǎo bu liǎo",
+"cannot do without; to be unavoidable; are bound to be many"
+],
+[
+"身不由己",
+7,
+"shēn bù yóu jǐ",
+"without the freedom to act independently (idiom); involuntary; not of one's own volition; in spite of oneself"
+],
+[
+"时不时",
+7,
+"shí bù shí",
+"from time to time"
+],
+[
+"势不可当",
+7,
+"shì bù kě dāng",
+"impossible to resist (idiom); an irresistible force"
+],
+[
+"说不上",
+7,
+"shuō bu shàng",
+"to be unable to say or tell; to not be worth mentioning"
+],
+[
+"素不相识",
+7,
+"sù bù xiāng shí",
+"to be total strangers (idiom)"
+],
+[
+"谈不上",
+7,
+"tán bu shàng",
+"to be out of the question"
+],
+[
+"滔滔不绝",
+7,
+"tāo tāo bù jué",
+"unceasing torrent (idiom); talking non-stop; gabbling forty to the dozen"
+],
+[
+"忘不了",
+7,
+"wàng bù liǎo",
+"cannot forget"
+],
+[
+"微不足道",
+7,
+"wēi bù zú dào",
+"negligible; insignificant"
+],
+[
+"无不",
+7,
+"wú bù",
+"none lacking; none missing; everything is there; everyone without exception"
+],
+[
+"无恶不作",
+7,
+"wú è bù zuò",
+"not to shrink from any crime (idiom); to commit any imaginable misdeed"
+],
+[
+"无微不至",
+7,
+"wú wēi bù zhì",
+"in every possible way (idiom); meticulous"
+],
+[
+"形影不离",
+7,
+"xíng yǐng bù lí",
+"inseparable (as form and shadow)"
+],
+[
+"要不",
+7,
+"yào bù",
+"otherwise; or else; how about...?; either... (or...)"
+],
+[
+"要不是",
+7,
+"yào bu shì",
+"if it were not for; but for"
+],
+[
+"依依不舍",
+7,
+"yī yī bù shě",
+"reluctant to part (idiom); broken-hearted at having to leave"
+],
+[
+"一不小心",
+7,
+"yī bù xiǎo xīn",
+"to be a little bit careless; to have a moment of inattentiveness"
+],
+[
+"一动不动",
+7,
+"yī dòng bù dòng",
+"motionless"
+],
+[
+"一成不变",
+7,
+"yī chéng bù biàn",
+"nothing much changes (idiom); always the same; stuck in a rut"
+],
+[
+"一毛不拔",
+7,
+"yī máo bù bá",
+"stingy (idiom)"
+],
+[
+"一声不吭",
+7,
+"yī shēng bù kēng",
+"to not say a word"
+],
+[
+"一言不发",
+7,
+"yī yán bù fā",
+"to not say a word (idiom)"
+],
+[
+"永不",
+7,
+"yǒng bù",
+"never; will never"
+],
+[
+"犹豫不决",
+7,
+"yóu yù bù jué",
+"hesitancy; indecision; to waver"
+],
+[
+"有所不同",
+7,
+"yǒu suǒ bù tóng",
+"to differ to some extent (idiom)"
+],
+[
+"与众不同",
+7,
+"yǔ zhòng bù tóng",
+"to stand out from the masses (idiom)"
+],
+[
+"源源不断",
+7,
+"yuán yuán bù duàn",
+"a steady flow (idiom); an unending stream"
+],
+[
+"赞不绝口",
+7,
+"zàn bù jué kǒu",
+"to praise without cease (idiom); praise sb to high heaven"
+],
+[
+"赞不绝口",
+7,
+"zàn bù jué kǒu",
+"to praise without cease (idiom); praise sb to high heaven"
+],
+[
+"赞叹不已",
+7,
+"zàn tàn bù yǐ",
+"to be full of praise (idiom)"
+],
+[
+"自强不息",
+7,
+"zì qiáng bù xī",
+"to strive unremittingly; self-improvement"
 ]
 ],
 "extraWords": [
@@ -399,22 +1263,10 @@
 "no; is not; not"
 ],
 [
-"不要",
-616.43,
-"bù yào",
-"don't!; must not"
-],
-[
 "不能",
 564.77,
 "bù néng",
 "cannot; must not; should not"
-],
-[
-"不错",
-564.29,
-"bù cuò",
-"correct; right; not bad; pretty good"
 ],
 [
 "不会",
@@ -423,16 +1275,10 @@
 "improbable; unlikely; will not (act, happen etc); not able; not having learned to do sth; (coll.) (Tw) don't mention it; not at all"
 ],
 [
-"不同",
-374.99,
-"bù tóng",
-"different; distinct; not the same; not alike"
-],
-[
-"不少",
-189.25,
-"bù shǎo",
-"many; a lot; not few"
+"不知道",
+255.39,
+"???",
+"???"
 ],
 [
 "不到",
@@ -453,40 +1299,10 @@
 "unexpectedly"
 ],
 [
-"不行",
-160.64,
-"bù xíng",
-"won't do; be out of the question; be no good; not work; not be capable"
-],
-[
-"是不是",
-150.08,
-"shì bù shì",
-"is or isn't; yes or no; whether or not"
-],
-[
-"不好意思",
-143.23,
-"bù hǎo yì si",
-"to feel embarrassed; to find it embarrassing; to be sorry (for inconveniencing sb)"
-],
-[
 "不好",
 133.61,
 "bù hǎo",
 "no good"
-],
-[
-"不再",
-125.35,
-"bù zài",
-"no more; no longer"
-],
-[
-"不用",
-115.03,
-"bù yòng",
-"need not"
 ],
 [
 "不了",
@@ -507,10 +1323,10 @@
 "cannot; should not; must not"
 ],
 [
-"不知",
-95.91,
-"bù zhī",
-"not to know; unaware; unknowingly; fig. not to admit (defeat, hardships, tiredness etc)"
+"不敢",
+108.47,
+"???",
+"???"
 ],
 [
 "不可能",
@@ -519,40 +1335,22 @@
 "impossible; cannot; not able"
 ],
 [
-"不够",
-88.98,
-"bù gòu",
-"not enough; insufficient; inadequate"
-],
-[
 "不得",
 84.46,
 "bù dé",
 "must not; may not; not to be allowed; cannot"
 ],
 [
-"不必",
-73.57,
-"bù bì",
-"need not; does not have to; not necessarily"
+"并不是",
+79.1,
+"???",
+"???"
 ],
 [
-"不在乎",
-72.62,
-"bù zài hu",
-"not to care"
-],
-[
-"只不过",
-72.2,
-"zhǐ bu guò",
-"only; merely; nothing but; no more than; it's just that ..."
-],
-[
-"不幸",
-65.82,
-"bù xìng",
-"misfortune; adversity; unfortunate; sad; unfortunately; CL:個|个[ge4]"
+"不起",
+74.65,
+"???",
+"???"
 ],
 [
 "不在",
@@ -561,34 +1359,16 @@
 "not to be present; to be out; (euphemism) to pass away; to be deceased"
 ],
 [
-"不许",
-63.49,
-"bù xǔ",
-"not to allow; must not; can't"
-],
-[
 "绝不",
 57.0,
 "jué bù",
 "in no way; not in the least; absolutely not"
 ],
 [
-"不大",
-56.16,
-"bù dà",
-"not very; not too; not often"
-],
-[
 "不一样",
 50.47,
 "bù yī yàng",
 "different; distinctive; unlike"
-],
-[
-"不停",
-49.21,
-"bù tíng",
-"incessant"
 ],
 [
 "不住",
@@ -603,34 +1383,10 @@
 "unwilling; unwillingness"
 ],
 [
-"不久",
-45.58,
-"bù jiǔ",
-"not long (after); before too long; soon; soon after"
-],
-[
-"不见",
-44.9,
-"bù jiàn",
-"not to see; not to meet; to have disappeared; to be missing"
-],
-[
-"不对",
-44.54,
-"bù duì",
-"incorrect; wrong; amiss; abnormal; queer"
-],
-[
 "会不会",
 44.49,
 "huì bù huì",
 "(posing a question: whether sb, something) can or cannot?; is able to or not"
-],
-[
-"不良",
-43.74,
-"bù liáng",
-"bad; harmful; unhealthy"
 ],
 [
 "不管怎样",
@@ -645,16 +1401,10 @@
 "fearless; not worried (by setbacks or difficulties); even if; even though"
 ],
 [
-"不仅仅",
-35.8,
-"bù jǐn jǐn",
-"not only; not just"
-],
-[
 "可不",
 35.29,
 "kě bu",
-"see 可不是[ke3 bu5 shi4]"
+"see 可不是[kě bu shì]"
 ],
 [
 "找不到",
@@ -663,28 +1413,10 @@
 "can't find"
 ],
 [
-"不满",
-34.01,
-"bù mǎn",
-"resentful; discontented; dissatisfied"
-],
-[
-"不一定",
-33.31,
-"bù yī dìng",
-"not necessarily; maybe"
-],
-[
-"不算",
-32.59,
-"bù suàn",
-"to not calculate; to not count; to not be considered (as); to have no weight"
-],
-[
-"不论",
-31.93,
-"bù lùn",
-"whatever; no matter what (who, how etc); regardless of; not to discuss"
+"不像",
+29.3,
+"???",
+"???"
 ],
 [
 "不变",
@@ -699,22 +1431,10 @@
 "should not; to owe nothing"
 ],
 [
-"不利",
-26.11,
-"bù lì",
-"unfavorable; disadvantageous; harmful; detrimental"
-],
-[
-"不准",
-25.26,
-"bù zhǔn",
-"not to allow; to forbid; to prohibit"
-],
-[
-"不成",
-23.81,
-"bù chéng",
-"won't do; unable to; (at the end of a rhetorical question) can that be?"
+"睡不着",
+26.29,
+"???",
+"???"
 ],
 [
 "不下",
@@ -723,34 +1443,22 @@
 "to be not less than (a certain quantity, amount etc)"
 ],
 [
-"从不",
-22.4,
-"cóng bù",
-"never"
-],
-[
-"不宜",
-20.89,
-"bù yí",
-"not suitable; inadvisable; inappropriate"
-],
-[
-"不已",
-20.87,
-"bù yǐ",
-"endlessly; incessantly"
-],
-[
-"决不",
-20.48,
-"jué bù",
-"not at all; simply (can) not"
+"大不了",
+21.02,
+"dà bù liǎo",
+"at worst; if worst comes to worst; serious; alarming"
 ],
 [
 "不及",
 20.41,
 "bù jí",
 "to fall short of; not as good as; too late"
+],
+[
+"不仅仅是",
+20.07,
+"???",
+"???"
 ],
 [
 "不由",
@@ -765,22 +1473,10 @@
 "unequal; varied"
 ],
 [
-"与众不同",
-19.47,
-"yǔ zhòng bù tóng",
-"to stand out from the masses (idiom)"
-],
-[
 "不明",
 19.03,
 "bù míng",
 "not clear; unknown; to fail to understand"
-],
-[
-"想不到",
-18.2,
-"xiǎng bu dào",
-"unexpected; hard to imagine; it had not occurred to me; who could have thought that"
 ],
 [
 "不妙",
@@ -801,18 +1497,6 @@
 "unwell; feeling ill; to feel uncomfortable; uneasy"
 ],
 [
-"毫不",
-16.58,
-"háo bù",
-"hardly; not in the least; not at all"
-],
-[
-"用不着",
-16.57,
-"yòng bu zháo",
-"not need; have no use for"
-],
-[
 "不当",
 16.55,
 "bù dàng",
@@ -825,22 +1509,10 @@
 "(coll.) not bad; good; fine"
 ],
 [
-"不便",
-15.94,
-"bù biàn",
-"inconvenient; inappropriate; unsuitable; short of cash"
-],
-[
 "不久前",
 14.73,
 "bù jiǔ qián",
 "not long ago"
-],
-[
-"离不开",
-14.38,
-"lí bu kāi",
-"inseparable; inevitably linked to"
 ],
 [
 "不一",
@@ -849,22 +1521,10 @@
 "to vary; to differ"
 ],
 [
-"不曾",
-14.3,
-"bù céng",
-"hasn't yet; hasn't ever"
-],
-[
-"不能不",
+"看不到",
 14.07,
-"bù néng bù",
-"have to; cannot but"
-],
-[
-"永不",
-13.89,
-"yǒng bù",
-"never; will never"
+"???",
+"???"
 ],
 [
 "看不见",
@@ -879,16 +1539,10 @@
 "not well; out of sorts; in a bad mood; without discrepancy; accurate"
 ],
 [
-"不容",
-13.23,
-"bù róng",
-"must not; cannot; to not allow; cannot tolerate"
-],
-[
-"要不然",
-13.06,
-"yào bù rán",
-"otherwise; or else; or"
+"最不",
+12.83,
+"???",
+"???"
 ],
 [
 "何不",
@@ -897,16 +1551,10 @@
 "why not?; why not do (sth)?"
 ],
 [
-"不适",
-12.51,
-"bù shì",
-"unwell; indisposed; out of sorts"
-],
-[
-"不理",
-12.35,
-"bù lǐ",
-"to refuse to acknowledge; to pay no attention to; to take no notice of; to ignore"
+"不完全",
+12.44,
+"???",
+"???"
 ],
 [
 "好不容易",
@@ -921,40 +1569,16 @@
 "unstable"
 ],
 [
-"不通",
-12.1,
-"bù tōng",
-"to be obstructed; to be blocked up; to be impassable; to make no sense; to be illogical"
-],
-[
-"无不",
-12.07,
-"wú bù",
-"none lacking; none missing; everything is there; everyone without exception"
-],
-[
-"从来不",
-11.67,
-"cóng lái bù",
-"never"
-],
-[
-"前不久",
-11.53,
-"qián bù jiǔ",
-"not long ago; not long before"
-],
-[
 "岂不",
 11.41,
 "qǐ bù",
 "how couldn't...?; wouldn't it...?"
 ],
 [
-"不解",
+"不公平",
 11.39,
-"bù jiě",
-"to not understand; to be puzzled by; indissoluble"
+"???",
+"???"
 ],
 [
 "不行了",
@@ -963,28 +1587,16 @@
 "(coll.) on the point of death; dying"
 ],
 [
-"不可避免",
-10.9,
-"bù kě bì miǎn",
-"unavoidably"
-],
-[
-"不予",
-10.87,
-"bù yú",
-"to withhold; to refuse"
+"一点也不",
+10.74,
+"???",
+"???"
 ],
 [
 "做不到",
 10.71,
 "zuò bù dào",
 "impossible"
-],
-[
-"可不是",
-10.47,
-"kě bu shì",
-"that's just the way it is; exactly!"
 ],
 [
 "不分",
@@ -999,46 +1611,16 @@
 "disequilibrium"
 ],
 [
-"要不是",
-9.74,
-"yào bu shì",
-"if it were not for; but for"
-],
-[
-"不光",
-9.68,
-"bù guāng",
-"not the only one; not only"
-],
-[
-"不至于",
-9.66,
-"bù zhì yú",
-"unlikely to go so far as to; not as bad as"
-],
-[
-"不经意",
-9.6,
-"bù jīng yì",
-"not paying attention; carelessly; by accident"
-],
-[
-"不服",
-9.55,
-"bù fú",
-"not to accept sth; to want to have sth overruled or changed; to refuse to obey or comply; to refuse to accept as final; to remain unconvinced by; not to give in to"
+"不只是",
+9.62,
+"???",
+"???"
 ],
 [
 "不尽",
 9.5,
 "bù jìn",
 "not completely; endlessly"
-],
-[
-"不知不觉",
-9.39,
-"bù zhī bù jué",
-"unconsciously; unwittingly"
 ],
 [
 "行不通",
@@ -1053,10 +1635,10 @@
 "unhappy; in low spirits; (of a knife) not sharp"
 ],
 [
-"不怎么",
-8.87,
-"bù zěn me",
-"not very; not particularly"
+"不确定",
+8.75,
+"???",
+"???"
 ],
 [
 "不乏",
@@ -1071,22 +1653,28 @@
 "not to have room to put sth; to be unable to let go"
 ],
 [
+"可不可以",
+8.47,
+"???",
+"???"
+],
+[
+"不愧",
+8.42,
+"bù kuì",
+"to be worthy of; to deserve to be called; to prove oneself to be"
+],
+[
+"不离",
+8.32,
+"???",
+"???"
+],
+[
 "不值得",
 8.27,
 "bù zhí de",
 "unworthy"
-],
-[
-"不定",
-8.1,
-"bù dìng",
-"indefinite; indeterminate; (botany) adventitious"
-],
-[
-"不屑",
-7.96,
-"bù xiè",
-"to disdain to do sth; to think sth not worth doing; to feel it beneath one's dignity"
 ],
 [
 "不必要",
@@ -1101,34 +1689,22 @@
 "unlike"
 ],
 [
-"时不时",
-7.6,
-"shí bù shí",
-"from time to time"
-],
-[
 "不要脸",
 7.56,
 "bù yào liǎn",
 "to have no sense of shame; shameless"
 ],
 [
-"不懈",
-7.53,
-"bù xiè",
-"untiring; unremitting; indefatigable"
-],
-[
-"不慎",
-7.26,
-"bù shèn",
-"incautious; inattentive"
-],
-[
 "不休",
 7.19,
 "bù xiū",
 "endlessly; ceaselessly"
+],
+[
+"不干",
+7.16,
+"???",
+"???"
 ],
 [
 "不俗",
@@ -1143,28 +1719,16 @@
 "to not conform to; to be unsuited to; to be out of keeping with; should not; ought out"
 ],
 [
-"毫不犹豫",
-6.94,
-"háo bù yóu yù",
-"without the slightest hesitation"
-],
-[
-"不用说",
-6.88,
-"bù yòng shuō",
-"needless to say; it goes without saying"
+"不中",
+6.87,
+"???",
+"???"
 ],
 [
 "不绝",
 6.87,
 "bù jué",
 "unending; uninterrupted"
-],
-[
-"过不去",
-6.84,
-"guò bu qù",
-"to make life difficult for; to embarrass; unable to make it through"
 ],
 [
 "坚定不移",
@@ -1185,28 +1749,22 @@
 "stainless steel"
 ],
 [
-"一不小心",
-6.71,
-"yī bù xiǎo xīn",
-"to be a little bit careless; to have a moment of inattentiveness"
-],
-[
 "不问",
 6.66,
 "bù wèn",
 "to pay no attention to; to disregard; to ignore; to let go unpunished; to let off"
 ],
 [
-"意想不到",
-6.48,
-"yì xiǎng bù dào",
-"unexpected; previously unimagined"
+"并不会",
+6.59,
+"???",
+"???"
 ],
 [
-"必不可少",
-6.47,
-"bì bù kě shǎo",
-"absolutely necessary; indispensable; essential"
+"不确定性",
+6.5,
+"???",
+"???"
 ],
 [
 "不计",
@@ -1225,12 +1783,6 @@
 6.2,
 "bù fú",
 "inconsistent; not in agreement with; not agree or tally with; not conform to"
-],
-[
-"有所不同",
-6.09,
-"yǒu suǒ bù tóng",
-"to differ to some extent (idiom)"
 ],
 [
 "不力",
@@ -1257,40 +1809,28 @@
 "real estate; immovable property; immovables"
 ],
 [
+"决不能",
+5.68,
+"???",
+"???"
+],
+[
 "不只",
 5.65,
 "bù zhǐ",
 "not only; not merely"
 ],
 [
-"买不起",
-5.65,
-"mǎi bu qǐ",
-"cannot afford; can't afford buying"
-],
-[
-"跟不上",
-5.58,
-"gēn bu shàng",
-"not able to keep up with"
-],
-[
-"不由自主",
-5.56,
-"bù yóu zì zhǔ",
-"can't help; involuntarily (idiom)"
+"不适用",
+5.63,
+"???",
+"???"
 ],
 [
 "不妥",
 5.43,
 "bù tuǒ",
 "not proper; inappropriate"
-],
-[
-"不约而同",
-5.43,
-"bù yuē ér tóng",
-"to agree by chance (idiom); taking the same action without prior consultation"
 ],
 [
 "不胜",
@@ -1317,16 +1857,22 @@
 "lawless; illegal; unlawful"
 ],
 [
+"决不会",
+5.22,
+"???",
+"???"
+],
+[
 "无处不在",
 5.22,
 "wú chù bù zài",
 "to be everywhere"
 ],
 [
-"比不上",
-5.19,
-"bǐ bù shàng",
-"can't compare with"
+"买不到",
+5.21,
+"???",
+"???"
 ],
 [
 "好久不见",
@@ -1341,16 +1887,22 @@
 "(of prices, rates etc) to remain high"
 ],
 [
-"少不了",
-5.13,
-"shǎo bu liǎo",
-"cannot do without; to be unavoidable; are bound to be many"
-],
-[
 "不无",
 5.1,
 "bù wú",
 "not without"
+],
+[
+"不好过",
+5.1,
+"???",
+"???"
+],
+[
+"来之不易",
+5.08,
+"???",
+"???"
 ],
 [
 "不忍",

@@ -1,6 +1,6 @@
 {
 "char": "饿",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "hungry; greedy for; hunger",
 "pron": "è"
@@ -8,15 +8,21 @@
 "words": [
 [
 "饿",
-3,
+1,
 "è",
 "to be hungry; hungry; to starve (sb)"
 ],
 [
 "饥饿",
-6,
+7,
 "jī è",
 "hunger; starvation; famine"
+],
+[
+"忍饥挨饿",
+7,
+"rěn jī ái è",
+"starving; famished"
 ]
 ],
 "extraWords": [],

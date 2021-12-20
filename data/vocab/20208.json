@@ -1,6 +1,6 @@
 {
 "char": "仰",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "raise the head to look; look up to, rely on, admire",
 "pron": "yǎng"
@@ -13,8 +13,32 @@
 "to believe in (a religion); firm belief; conviction"
 ],
 [
-"瞻仰",
+"仰",
 6,
+"Yǎng",
+"surname Yang"
+],
+[
+"仰",
+6,
+"yǎng",
+"to face upward; to look up; to admire; to rely on"
+],
+[
+"久仰",
+7,
+"jiǔ yǎng",
+"honorific: I've long looked forward to meeting you.; It's an honor to meet you at last."
+],
+[
+"前仰后合",
+7,
+"qián yǎng hòu hé",
+"to sway to and fro; to rock back and forth"
+],
+[
+"瞻仰",
+7,
 "zhān yǎng",
 "to revere; to admire"
 ]

@@ -1,6 +1,6 @@
 {
 "char": "菌",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "mushroom; germ, microbe",
 "pron": "jūn, jùn"
@@ -14,6 +14,18 @@
 ]
 ],
 "extraWords": [
+[
+"菌",
+34.0,
+"jūn",
+"germ; bacteria; fungus; mold; Taiwan pr. [jun4]"
+],
+[
+"菌",
+34.0,
+"jùn",
+"mushroom"
+],
 [
 "杆菌",
 7.42,

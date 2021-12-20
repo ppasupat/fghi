@@ -1,6 +1,6 @@
 {
 "char": "冲",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "soar; pour boiling water over",
 "pron": "chōng, chòng"
@@ -8,31 +8,31 @@
 "words": [
 [
 "冲",
-5,
+4,
 "chōng",
 "(of water) to dash against; to mix with water; to infuse; to rinse; to flush; to develop (a film); to rise in the air; to clash; to collide with"
 ],
 [
 "冲",
-5,
+4,
 "chōng",
 "thoroughfare; to go straight ahead; to rush; to clash"
 ],
 [
 "冲",
-5,
+4,
 "chòng",
 "powerful; vigorous; pungent; towards; in view of"
 ],
 [
 "冲动",
-6,
+5,
 "chōng dòng",
 "to have an urge; to be impetuous; impulse; urge"
 ],
 [
 "冲突",
-6,
+5,
 "chōng tū",
 "conflict; to conflict; clash of opposing forces; collision (of interests); contention"
 ],
@@ -40,27 +40,51 @@
 "冲击",
 6,
 "chōng jī",
-"variant of 衝擊|冲击[chong1 ji1]"
+"variant of 冲击[chōng jī]"
 ],
 [
 "冲击",
 6,
 "chōng jī",
 "to attack; to batter; (of waves) to pound against; shock; impact"
-]
 ],
-"extraWords": [
+[
+"冲刺",
+7,
+"chōng cì",
+"to sprint; to spurt; to dash; big effort"
+],
 [
 "冲浪",
-25.81,
+7,
 "chōng làng",
 "to surf; surfing"
 ],
 [
 "冲洗",
-9.33,
+7,
 "chōng xǐ",
 "to rinse; to wash; to develop (photographic film)"
+],
+[
+"冲撞",
+7,
+"chōng zhuàng",
+"to collide; jerking motion; to impinge; to offend; to provoke"
+]
+],
+"extraWords": [
+[
+"冲着",
+8.61,
+"???",
+"???"
+],
+[
+"冲上",
+8.23,
+"???",
+"???"
 ],
 [
 "冲进",
@@ -75,10 +99,10 @@
 "to rush out"
 ],
 [
-"冲刺",
-6.39,
-"chōng cì",
-"to sprint; to spurt; to dash; big effort"
+"冲过",
+5.39,
+"???",
+"???"
 ],
 [
 "缓冲",

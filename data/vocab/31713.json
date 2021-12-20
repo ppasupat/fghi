@@ -1,12 +1,31 @@
 {
 "char": "篡",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "usurp",
 "pron": "cuàn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"篡改",
+2.61,
+"cuàn gǎi",
+"to tamper with; to falsify"
+],
+[
+"篡党",
+1.04,
+"cuàn dǎng",
+"to usurp the leadership of the party"
+],
+[
+"篡夺",
+0.84,
+"cuàn duó",
+"to usurp; to seize"
+]
+],
 "strokes": [
 "M 326 762 Q 336 778 348 793 Q 357 803 344 816 Q 310 843 286 841 Q 276 840 278 827 Q 287 749 204 653 Q 200 653 169 614 Q 162 601 175 605 Q 226 615 295 713 Q 310 737 313 742 L 326 762 Z",
 "M 313 742 Q 343 727 427 745 Q 484 757 492 761 Q 499 768 495 775 Q 488 784 465 789 Q 453 792 373 770 Q 351 766 326 762 C 296 757 285 754 313 742 Z",

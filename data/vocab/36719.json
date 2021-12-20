@@ -1,6 +1,6 @@
 {
 "char": "软",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "soft, flexible, pliable; weak",
 "pron": "ruǎn"
@@ -16,13 +16,31 @@
 "软",
 5,
 "ruǎn",
-"variant of 軟|软[ruan3]"
+"variant of 软[ruǎn]"
 ],
 [
 "软件",
 5,
 "ruǎn jiàn",
 "(computer) software"
+],
+[
+"柔软",
+7,
+"róu ruǎn",
+"soft"
+],
+[
+"软弱",
+7,
+"ruǎn ruò",
+"weak; feeble; flabby"
+],
+[
+"软实力",
+7,
+"ruǎn shí lì",
+"soft power (in international relations)"
 ]
 ],
 "extraWords": [
@@ -31,18 +49,6 @@
 31.72,
 "Wēi ruǎn",
 "Microsoft corporation"
-],
-[
-"柔软",
-12.4,
-"róu ruǎn",
-"soft"
-],
-[
-"软弱",
-11.3,
-"ruǎn ruò",
-"weak; feeble; flabby"
 ],
 [
 "疲软",

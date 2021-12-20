@@ -1,6 +1,6 @@
 {
 "char": "买",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "buy, purchase; bribe, persuade",
 "pron": "mǎi"
@@ -11,20 +11,38 @@
 1,
 "mǎi",
 "to buy; to purchase"
-]
 ],
-"extraWords": [
 [
 "购买",
-138.34,
+4,
 "gòu mǎi",
 "to purchase; to buy"
 ],
 [
 "买卖",
-27.5,
+5,
 "mǎi mài",
-"buying and selling; business; business transactions; CL:樁|桩[zhuang1],次[ci4]"
+"buying and selling; business; business transactions; CL:桩[zhuāng],次[cì]"
+],
+[
+"买不起",
+7,
+"mǎi bu qǐ",
+"cannot afford; can't afford buying"
+],
+[
+"收买",
+7,
+"shōu mǎi",
+"to purchase; to bribe"
+]
+],
+"extraWords": [
+[
+"买到",
+20.36,
+"???",
+"???"
 ],
 [
 "买入",
@@ -39,10 +57,10 @@
 "buyer; client"
 ],
 [
-"收买",
-7.3,
-"shōu mǎi",
-"to purchase; to bribe"
+"买来",
+8.78,
+"???",
+"???"
 ],
 [
 "买回",
@@ -63,10 +81,10 @@
 "to buy tickets; (Tw) to buy votes (in an election)"
 ],
 [
-"买不起",
-5.65,
-"mǎi bu qǐ",
-"cannot afford; can't afford buying"
+"买不到",
+5.21,
+"???",
+"???"
 ],
 [
 "买进",

@@ -1,52 +1,124 @@
 {
 "char": "约",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "treaty, agreement, covenant",
 "pron": "yāo, yuē"
 },
 "words": [
 [
-"约会",
-4,
-"yuē huì",
-"appointment; engagement; date; CL:次[ci4],個|个[ge4]; to arrange to meet"
-],
-[
 "大约",
-4,
+3,
 "dà yuē",
 "approximately; probably"
 ],
 [
 "节约",
-4,
+3,
 "jié yuē",
 "to economize; to conserve (resources); economy; frugal"
 ],
 [
+"约",
+3,
+"yāo",
+"to weigh in a balance or on a scale"
+],
+[
+"约",
+3,
+"yuē",
+"to make an appointment; to invite; approximately; pact; treaty; to economize; to restrict; to reduce (a fraction); concise"
+],
+[
+"约会",
+4,
+"yuē huì",
+"appointment; engagement; date; CL:次[cì],个[gè]; to arrange to meet"
+],
+[
+"签约",
+5,
+"qiān yuē",
+"to sign a contract or agreement"
+],
+[
 "约束",
-6,
+5,
 "yuē shù",
 "to restrict; to limit to; to constrain; restriction; constraint"
 ],
 [
-"条约",
+"制约",
+5,
+"zhì yuē",
+"to restrict; condition"
+],
+[
+"合约",
 6,
+"hé yuē",
+"treaty; contract"
+],
+[
+"预约",
+6,
+"yù yuē",
+"booking; reservation; to book; to make an appointment"
+],
+[
+"约定",
+6,
+"yuē dìng",
+"to agree on sth (after discussion); to conclude a bargain; to arrange; to promise; to stipulate; to make an appointment; stipulated (time, amount, quality etc); an arrangement; a deal; appointment; undertaking; commitment; understanding; engagement; stipulation"
+],
+[
+"不约而同",
+7,
+"bù yuē ér tóng",
+"to agree by chance (idiom); taking the same action without prior consultation"
+],
+[
+"公约",
+7,
+"gōng yuē",
+"convention (i.e. international agreement)"
+],
+[
+"契约",
+7,
+"qì yuē",
+"agreement; contract"
+],
+[
+"条约",
+7,
 "tiáo yuē",
-"treaty; pact; CL:個|个[ge4]"
+"treaty; pact; CL:个[gè]"
+],
+[
+"违约",
+7,
+"wéi yuē",
+"to break a promise; to violate an agreement; to default (on a loan or contract)"
+],
+[
+"相约",
+7,
+"xiāng yuē",
+"to agree (on a meeting place, date etc); to reach agreement; to make an appointment"
 ],
 [
 "隐约",
-6,
+7,
 "yǐn yuē",
 "vague; faint; indistinct"
 ],
 [
-"制约",
-6,
-"zhì yuē",
-"to restrict; condition"
+"约定俗成",
+7,
+"yuē dìng sú chéng",
+"established by popular usage (idiom); common usage agreement; customary convention"
 ]
 ],
 "extraWords": [
@@ -63,40 +135,10 @@
 "John (name); Johan (name); Johann (name)"
 ],
 [
-"合约",
-35.61,
-"hé yuē",
-"treaty; contract"
-],
-[
-"约定",
-27.17,
-"yuē dìng",
-"to agree on sth (after discussion); to conclude a bargain; to arrange; to promise; to stipulate; to make an appointment; stipulated (time, amount, quality etc); an arrangement; a deal; appointment; undertaking; commitment; understanding; engagement; stipulation"
-],
-[
-"签约",
-24.25,
-"qiān yuē",
-"to sign a contract or agreement"
-],
-[
-"预约",
-19.94,
-"yù yuē",
-"booking; reservation; to book; to make an appointment"
-],
-[
 "特约",
 12.69,
 "tè yuē",
 "specially engaged; employed or commissioned for a special task"
-],
-[
-"公约",
-12.2,
-"gōng yuē",
-"convention (i.e. international agreement)"
 ],
 [
 "简约",
@@ -108,13 +150,7 @@
 "北约",
 9.24,
 "Běi yuē",
-"NATO; abbr. for 北大西洋公約組織|北大西洋公约组织[Bei3 Da4 xi1 Yang2 Gong1 yue1 Zu3 zhi1], North Atlantic Treaty Organization"
-],
-[
-"契约",
-7.57,
-"qì yuē",
-"agreement; contract"
+"NATO; abbr. for 北大西洋公约组织[Běi Dà xī Yáng Gōng yuē Zǔ zhī], North Atlantic Treaty Organization"
 ],
 [
 "约瑟夫",
@@ -135,28 +171,16 @@
 "Jordan"
 ],
 [
-"违约",
-6.66,
-"wéi yuē",
-"to break a promise; to violate an agreement; to default (on a loan or contract)"
-],
-[
 "约翰逊",
 6.44,
 "Yuē hàn xùn",
 "Johnson or Johnston (name)"
 ],
 [
-"相约",
-5.84,
-"xiāng yuē",
-"to agree (on a meeting place, date etc); to reach agreement; to make an appointment"
-],
-[
-"不约而同",
-5.43,
-"bù yuē ér tóng",
-"to agree by chance (idiom); taking the same action without prior consultation"
+"约翰尼",
+5.51,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "白",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "white; pure, unblemished; bright",
 "pron": "bái"
@@ -8,45 +8,111 @@
 "words": [
 [
 "白",
-2,
+1,
 "Bái",
 "surname Bai"
 ],
 [
 "白",
-2,
+1,
 "bái",
 "white; snowy; pure; bright; empty; blank; plain; clear; to make clear; in vain; gratuitous; free of charge; reactionary; anti-communist; funeral; to stare coldly; to write wrong character; to state; to explain; vernacular; spoken lines in opera"
 ],
 [
+"白天",
+1,
+"bái tiān",
+"daytime; during the day; day; CL:个[gè]"
+],
+[
 "明白",
-3,
+1,
 "míng bai",
 "clear; obvious; unequivocal; to understand; to realize"
 ],
 [
-"坦白",
+"白色",
+2,
+"bái sè",
+"white; fig. reactionary; anti-communist"
+],
+[
+"白菜",
+3,
+"bái cài",
+"Chinese cabbage; pak choi; CL:棵[kē], 个[gè]"
+],
+[
+"白酒",
+5,
+"bái jiǔ",
+"baijiu, a spirit usually distilled from sorghum; (Tw) white wine (abbr. for 白葡萄酒[bái pú tao jiǔ])"
+],
+[
+"白领",
 6,
-"tǎn bái",
-"honest; forthcoming; to confess"
+"bái lǐng",
+"white-collar; white-collar worker"
+],
+[
+"白白",
+7,
+"bái bái",
+"in vain; to no purpose; for nothing; white"
+],
+[
+"表白",
+7,
+"biǎo bái",
+"to explain oneself; to express; to reveal one's thoughts or feelings; declaration; confession"
+],
+[
+"惨白",
+7,
+"cǎn bái",
+"deathly pale"
+],
+[
+"蛋白质",
+7,
+"dàn bái zhì",
+"protein"
+],
+[
+"对白",
+7,
+"duì bái",
+"dialogue (in a movie or a play)"
+],
+[
+"黑白",
+7,
+"hēi bái",
+"black and white; right and wrong; monochrome"
+],
+[
+"开场白",
+7,
+"kāi chǎng bái",
+"prologue of play; opening remarks; preamble (of speeches, articles etc)"
 ],
 [
 "空白",
-6,
+7,
 "kòng bái",
 "blank space"
 ],
 [
-"苍白",
-6,
-"cāng bái",
-"pale; wan"
+"说白了",
+7,
+"shuō bái le",
+"to speak frankly"
 ],
 [
-"蛋白质",
-6,
-"dàn bái zhì",
-"protein"
+"坦白",
+7,
+"tǎn bái",
+"honest; forthcoming; to confess"
 ]
 ],
 "extraWords": [
@@ -63,22 +129,10 @@
 "white man or woman; Caucasian"
 ],
 [
-"白色",
-48.03,
-"bái sè",
-"white; fig. reactionary; anti-communist"
-],
-[
 "蛋白",
 33.89,
 "dàn bái",
 "egg white; protein; albumen"
-],
-[
-"白天",
-32.66,
-"bái tiān",
-"daytime; during the day; day; CL:個|个[ge4]"
 ],
 [
 "白羊座",
@@ -99,40 +153,16 @@
 "White House"
 ],
 [
-"白领",
-12.14,
-"bái lǐng",
-"white-collar; white-collar worker"
-],
-[
-"黑白",
-12.0,
-"hēi bái",
-"black and white; right and wrong; monochrome"
-],
-[
 "伊丽莎白",
 11.98,
 "Yī lì shā bái",
 "Elizabeth (person name)"
 ],
 [
-"表白",
-9.95,
-"biǎo bái",
-"to explain oneself; to express; to reveal one's thoughts or feelings; declaration; confession"
-],
-[
-"白酒",
-9.69,
-"bái jiǔ",
-"baijiu, a spirit usually distilled from sorghum; (Tw) white wine (abbr. for 白葡萄酒[bai2 pu2 tao5 jiu3])"
-],
-[
 "白云",
 9.66,
 "Bái yún",
-"Baiyun District of Guiyang City 貴陽市|贵阳市[Gui4 yang2 Shi4], Guizhou; Baiyun District of Guangzhou City 廣州市|广州市[Guang3 zhou1 Shi4], Guangdong"
+"Baiyun District of Guiyang City 贵阳市[Guì yáng Shì], Guizhou; Baiyun District of Guangzhou City 广州市[Guǎng zhōu Shì], Guangdong"
 ],
 [
 "白云",
@@ -141,16 +171,16 @@
 "white cloud"
 ],
 [
-"白菜",
-8.34,
-"bái cài",
-"Chinese cabbage; pak choi; CL:棵[ke1], 個|个[ge4]"
+"苍白",
+9.37,
+"cāng bái",
+"pale; wan"
 ],
 [
 "小白",
 8.27,
 "xiǎo bái",
-"(slang) novice; greenhorn; fool; idiot; abbr. for 小白臉|小白脸[xiao3 bai2 lian3], pretty boy"
+"(slang) novice; greenhorn; fool; idiot; abbr. for 小白脸[xiǎo bái liǎn], pretty boy"
 ],
 [
 "白血病",
@@ -171,10 +201,10 @@
 "white blood cell; leukocyte"
 ],
 [
-"白白",
-6.71,
-"bái bái",
-"in vain; to no purpose; for nothing; white"
+"白衣",
+6.99,
+"???",
+"???"
 ],
 [
 "白银",
@@ -192,7 +222,7 @@
 "白发",
 6.1,
 "bái fà",
-"white or gray hair; CL:根[gen1]"
+"white or gray hair; CL:根[gēn]"
 ],
 [
 "白内障",

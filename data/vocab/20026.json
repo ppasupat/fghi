@@ -1,16 +1,46 @@
 {
 "char": "为",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "do, handle, govern, act; be",
 "pron": "wéi, wèi"
 },
 "words": [
 [
-"因为",
+"成为",
 2,
-"yīn wèi",
-"because; owing to; on account of"
+"chéng wéi",
+"to become; to turn into"
+],
+[
+"认为",
+2,
+"rèn wéi",
+"to believe; to think; to consider; to feel"
+],
+[
+"为",
+2,
+"wéi",
+"as (in the capacity of); to take sth as; to act as; to serve as; to behave as; to become; to be; to do; by (in the passive voice)"
+],
+[
+"为",
+2,
+"wèi",
+"because of; for; to"
+],
+[
+"为",
+2,
+"wéi",
+"variant of 为[wéi]; as (i.e. in the capacity of); to take sth as; to act as; to serve as; to behave as; to become; to be; to do"
+],
+[
+"为",
+2,
+"wèi",
+"variant of 为[wèi]"
 ],
 [
 "为什么",
@@ -19,34 +49,34 @@
 "why?; for what reason?"
 ],
 [
-"为",
-3,
-"wéi",
-"as (in the capacity of); to take sth as; to act as; to serve as; to behave as; to become; to be; to do; by (in the passive voice)"
+"行为",
+2,
+"xíng wéi",
+"action; conduct; behavior; activity"
 ],
 [
-"为",
-3,
-"wèi",
-"because of; for; to"
+"以为",
+2,
+"yǐ wéi",
+"to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)"
 ],
 [
-"为",
-3,
-"wéi",
-"variant of 為|为[wei2]; as (i.e. in the capacity of); to take sth as; to act as; to serve as; to behave as; to become; to be; to do"
+"因为",
+2,
+"yīn wèi",
+"because; owing to; on account of"
 ],
 [
-"为",
+"变为",
 3,
-"wèi",
-"variant of 為|为[wei4]"
+"biàn wéi",
+"to change into"
 ],
 [
-"认为",
+"称为",
 3,
-"rèn wéi",
-"to believe; to think; to consider; to feel"
+"chēng wéi",
+"called; to call sth (by a name); to name"
 ],
 [
 "为了",
@@ -55,102 +85,186 @@
 "in order to; for the purpose of; so as to"
 ],
 [
-"以为",
+"分为",
 4,
-"yǐ wéi",
-"to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)"
+"fēn wéi",
+"to divide sth into (parts); to subdivide"
 ],
 [
-"成为",
+"列为",
 4,
-"chéng wéi",
-"to become; to turn into"
+"liè wéi",
+"to be classified as"
 ],
 [
 "作为",
-5,
+4,
 "zuò wéi",
 "one's conduct; deed; activity; accomplishment; achievement; to act as; as (in the capacity of); qua; to view as; to look upon (sth as); to take sth to be"
 ],
 [
-"行为",
+"视为",
 5,
-"xíng wéi",
-"action; conduct; behavior; activity"
-],
-[
-"无能为力",
-6,
-"wú néng wéi lì",
-"impotent (idiom); powerless; helpless"
+"shì wéi",
+"to view as; to see as; to consider to be; to deem"
 ],
 [
 "为难",
-6,
+5,
 "wéi nán",
 "to feel embarrassed or awkward; to make things difficult (for someone); to find things difficult (to do or manage)"
 ],
 [
-"迄今为止",
+"为期",
+5,
+"wéi qī",
+"(to be done) by (a certain date); lasting (a certain time)"
+],
+[
+"为止",
+5,
+"wéi zhǐ",
+"until; (used in combination with words like 到[dào] or 至[zhì] in constructs of the form 到...為止|到...为止)"
+],
+[
+"为主",
+5,
+"wéi zhǔ",
+"to rely mainly on; to attach most importance to"
+],
+[
+"为此",
 6,
+"wèi cǐ",
+"for this reason; with regards to this; in this respect; in order to do this; to this end"
+],
+[
+"为何",
+6,
+"wèi hé",
+"why"
+],
+[
+"不为人知",
+7,
+"bù wéi rén zhī",
+"not known to anyone; secret; unknown"
+],
+[
+"不以为然",
+7,
+"bù yǐ wéi rán",
+"not to accept as correct (idiom); to object; to disapprove; to take exception to"
+],
+[
+"大有可为",
+7,
+"dà yǒu kě wéi",
+"with great prospects for the future (idiom); well worth doing"
+],
+[
+"定为",
+7,
+"???",
+"???"
+],
+[
+"改为",
+7,
+"gǎi wéi",
+"to change into"
+],
+[
+"化险为夷",
+7,
+"huà xiǎn wéi yí",
+"to turn peril into safety (idiom); to avert disaster"
+],
+[
+"极为",
+7,
+"jí wéi",
+"extremely; exceedingly"
+],
+[
+"见义勇为",
+7,
+"jiàn yì yǒng wéi",
+"to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
+],
+[
+"难为情",
+7,
+"nán wéi qíng",
+"embarrassed"
+],
+[
+"迄今为止",
+7,
 "qì jīn wéi zhǐ",
 "so far; up to now; still (not)"
 ],
 [
 "人为",
-6,
+7,
 "rén wéi",
 "artificial; man-made; having human cause or origin; human attempt or effort"
 ],
 [
-"为期",
-6,
-"wéi qī",
-"(to be done) by (a certain date); lasting (a certain time)"
+"所作所为",
+7,
+"suǒ zuò suǒ wéi",
+"one's conduct and deeds"
 ],
 [
-"见义勇为",
-6,
-"jiàn yì yǒng wéi",
-"to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
+"为人",
+7,
+"wéi rén",
+"to conduct oneself; behavior; conduct; personal character"
+],
+[
+"为人",
+7,
+"wèi rén",
+"for sb; for others' interest"
+],
+[
+"无能为力",
+7,
+"wú néng wéi lì",
+"impotent (idiom); powerless; helpless"
+],
+[
+"无所作为",
+7,
+"wú suǒ zuò wéi",
+"attempting nothing and accomplishing nothing (idiom); without any initiative or drive; feckless"
+],
+[
+"相依为命",
+7,
+"xiāng yī wéi mìng",
+"mutually dependent for life (idiom); to rely upon one another for survival; interdependent"
+],
+[
+"尤为",
+7,
+"yóu wéi",
+"especially"
+],
+[
+"自以为是",
+7,
+"zì yǐ wéi shì",
+"to believe oneself infallible (idiom); to be opinionated"
 ]
 ],
 "extraWords": [
-[
-"为主",
-88.61,
-"wéi zhǔ",
-"to rely mainly on; to attach most importance to"
-],
-[
-"为何",
-78.4,
-"wèi hé",
-"why"
-],
-[
-"为此",
-67.04,
-"wèi cǐ",
-"for this reason; with regards to this; in this respect; in order to do this; to this end"
-],
 [
 "更为",
 53.81,
 "gèng wéi",
 "even more"
-],
-[
-"为止",
-51.45,
-"wéi zhǐ",
-"until; (used in combination with words like 到[dao4] or 至[zhi4] in constructs of the form 到...為止|到...为止)"
-],
-[
-"称为",
-48.32,
-"chēng wéi",
-"called; to call sth (by a name); to name"
 ],
 [
 "较为",
@@ -159,40 +273,10 @@
 "comparatively; relatively; fairly"
 ],
 [
-"分为",
-44.2,
-"fēn wéi",
-"to divide sth into (parts); to subdivide"
-],
-[
 "最为",
 40.02,
 "zuì wéi",
 "the most"
-],
-[
-"极为",
-30.54,
-"jí wéi",
-"extremely; exceedingly"
-],
-[
-"视为",
-24.78,
-"shì wéi",
-"to view as; to see as; to consider to be; to deem"
-],
-[
-"为人",
-19.76,
-"wéi rén",
-"to conduct oneself; behavior; conduct; personal character"
-],
-[
-"为人",
-19.76,
-"wèi rén",
-"for sb; for others' interest"
 ],
 [
 "到此为止",
@@ -201,28 +285,10 @@
 "to stop at this point; to end here; to call it a day"
 ],
 [
-"所作所为",
-17.68,
-"suǒ zuò suǒ wéi",
-"one's conduct and deeds"
-],
-[
 "为首",
 16.75,
 "wéi shǒu",
 "head; be headed by"
-],
-[
-"列为",
-15.83,
-"liè wéi",
-"to be classified as"
-],
-[
-"变为",
-15.12,
-"biàn wéi",
-"to change into"
 ],
 [
 "称之为",
@@ -237,10 +303,22 @@
 "rather; quite"
 ],
 [
-"尤为",
-10.88,
-"yóu wéi",
-"especially"
+"誉为",
+11.76,
+"???",
+"???"
+],
+[
+"被评为",
+11.45,
+"???",
+"???"
+],
+[
+"转为",
+10.83,
+"???",
+"???"
 ],
 [
 "华为",
@@ -255,16 +333,16 @@
 "people-oriented"
 ],
 [
-"自以为是",
-6.95,
-"zì yǐ wéi shì",
-"to believe oneself infallible (idiom); to be opinionated"
+"化为",
+7.36,
+"???",
+"???"
 ],
 [
 "为数",
 6.87,
 "wéi shù",
-"in numerical terms (typically followed by 不少[bu4 shao3] or 不多[bu4 duo1] or a number)"
+"in numerical terms (typically followed by 不少[bù shǎo] or 不多[bù duō] or a number)"
 ],
 [
 "性行为",
@@ -291,10 +369,22 @@
 "to try one's utmost; to strive"
 ],
 [
+"为名",
+5.69,
+"???",
+"???"
+],
+[
 "为生",
 5.54,
 "wéi shēng",
 "to make a living"
+],
+[
+"专为",
+5.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

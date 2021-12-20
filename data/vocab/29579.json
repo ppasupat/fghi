@@ -1,22 +1,64 @@
 {
 "char": "王",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "king, ruler; royal; surname",
 "pron": "wáng"
 },
 "words": [
 [
+"王",
+4,
+"Wáng",
+"surname Wang"
+],
+[
+"王",
+4,
+"wáng",
+"king or monarch; best or strongest of its type; grand; great"
+],
+[
+"王",
+4,
+"wàng",
+"to rule; to reign over"
+],
+[
 "国王",
-5,
+6,
 "guó wáng",
-"king; CL:個|个[ge4]"
+"king; CL:个[gè]"
+],
+[
+"王后",
+6,
+"wáng hòu",
+"queen; CL:个[gè],位[wèi]"
 ],
 [
 "王子",
-5,
+6,
 "wáng zǐ",
 "prince; son of a king"
+],
+[
+"王国",
+7,
+"wáng guó",
+"kingdom; realm"
+],
+[
+"王牌",
+7,
+"wáng pái",
+"trump card"
+],
+[
+"阎王",
+7,
+"Yán wáng",
+"same as 閻羅王|阎罗王; Yama, King of Hell; translation of Sanskrit: Yama Raja"
 ]
 ],
 "extraWords": [
@@ -33,10 +75,16 @@
 "tortoise; cuckold; (old) male owner of a brothel; pimp"
 ],
 [
-"王国",
-10.02,
-"wáng guó",
-"kingdom; realm"
+"王某",
+13.89,
+"???",
+"???"
+],
+[
+"王先生",
+13.38,
+"???",
+"???"
 ],
 [
 "大王",
@@ -54,7 +102,7 @@
 "天王",
 8.71,
 "tiān wáng",
-"emperor; god; Hong Xiuquan's self-proclaimed title; see also 洪秀全[Hong2 Xiu4 quan2]"
+"emperor; god; Hong Xiuquan's self-proclaimed title; see also 洪秀全[Hóng Xiù quán]"
 ],
 [
 "王菲",
@@ -81,12 +129,6 @@
 "prince"
 ],
 [
-"王后",
-6.74,
-"wáng hòu",
-"queen; CL:個|个[ge4],位[wei4]"
-],
-[
 "王道",
 6.62,
 "wáng dào",
@@ -109,6 +151,24 @@
 5.96,
 "quán wáng",
 "boxing champion"
+],
+[
+"王女士",
+5.84,
+"???",
+"???"
+],
+[
+"小王",
+5.57,
+"???",
+"???"
+],
+[
+"王者",
+5.18,
+"???",
+"???"
 ]
 ],
 "strokes": [

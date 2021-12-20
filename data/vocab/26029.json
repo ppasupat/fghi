@@ -1,28 +1,28 @@
 {
 "char": "断",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "sever, cut off; interrupt",
 "pron": "duàn"
 },
 "words": [
 [
-"判断",
-4,
-"pàn duàn",
-"to judge; to determine; judgment"
+"不断",
+3,
+"bù duàn",
+"unceasing; uninterrupted; continuous; constant"
 ],
 [
 "断",
-5,
+3,
 "duàn",
 "to break; to snap; to cut off; to give up or abstain from sth; to judge; (usu. used in the negative) absolutely; definitely; decidedly"
 ],
 [
-"不断",
-5,
-"bù duàn",
-"unceasing; uninterrupted; continuous; constant"
+"判断",
+3,
+"pàn duàn",
+"to judge; to determine; judgment"
 ],
 [
 "诊断",
@@ -32,77 +32,77 @@
 ],
 [
 "中断",
-6,
+5,
 "zhōng duàn",
 "to cut short; to break off; to discontinue; to interrupt"
 ],
 [
-"断绝",
-6,
-"duàn jué",
-"to sever; to break off"
-],
-[
-"断定",
-6,
-"duàn dìng",
-"to conclude; to determine; to come to a judgment"
-],
-[
-"片断",
-6,
-"piàn duàn",
-"section; fragment; segment"
-],
-[
-"果断",
-6,
-"guǒ duàn",
-"firm; decisive"
-],
-[
-"垄断",
-6,
-"lǒng duàn",
-"to enjoy market dominance; to monopolize"
-]
-],
-"extraWords": [
-[
 "打断",
-27.16,
+6,
 "dǎ duàn",
 "to interrupt; to break off; to break (a bone)"
 ],
 [
-"切断",
-17.53,
-"qiē duàn",
-"to cut off; to sever"
+"断定",
+7,
+"duàn dìng",
+"to conclude; to determine; to come to a judgment"
+],
+[
+"断断续续",
+7,
+"duàn duàn xù xù",
+"intermittent; off and on; discontinuous; stop-go; stammering; disjointed; inarticulate"
 ],
 [
 "断裂",
-11.12,
+7,
 "duàn liè",
 "fracture; rupture; to break apart"
 ],
 [
+"果断",
+7,
+"guǒ duàn",
+"firm; decisive"
+],
+[
 "间断",
-6.83,
+7,
 "jiàn duàn",
 "disconnected; interrupted; suspended; a gap; a break"
 ],
+[
+"垄断",
+7,
+"lǒng duàn",
+"to enjoy market dominance; to monopolize"
+],
+[
+"切断",
+7,
+"qiē duàn",
+"to cut off; to sever"
+],
+[
+"推断",
+7,
+"tuī duàn",
+"to infer; to deduce; to predict; to extrapolate"
+],
+[
+"源源不断",
+7,
+"yuán yuán bù duàn",
+"a steady flow (idiom); an unending stream"
+]
+],
+"extraWords": [
 [
 "阻断",
 6.32,
 "zǔ duàn",
 "to block; to obstruct; to intercept; to interdict"
-],
-[
-"推断",
-5.37,
-"tuī duàn",
-"to infer; to deduce; to predict; to extrapolate"
 ],
 [
 "判断力",

@@ -1,6 +1,6 @@
 {
 "char": "反",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "reverse, opposite, contrary, anti",
 "pron": "fǎn"
@@ -8,9 +8,51 @@
 "words": [
 [
 "反对",
-4,
+3,
 "fǎn duì",
 "to fight against; to oppose; to be opposed to; opposition"
+],
+[
+"反复",
+3,
+"fǎn fù",
+"variant of 反复[fǎn fù]"
+],
+[
+"反复",
+3,
+"fǎn fù",
+"repeatedly; over and over; to upend; unstable; to come and go; (of an illness) to return"
+],
+[
+"反应",
+3,
+"fǎn yìng",
+"to react; to respond; reaction; response; reply; chemical reaction; CL:个[gè]"
+],
+[
+"反正",
+3,
+"fǎn zhèng",
+"anyway; in any case; to come over from the enemy's side"
+],
+[
+"反",
+4,
+"fǎn",
+"contrary; in reverse; inside out or upside down; to reverse; to return; to oppose; opposite; against; anti-; to rebel; to use analogy; instead; abbr. for 反切[fǎn qiè] phonetic system"
+],
+[
+"反而",
+4,
+"fǎn ér",
+"instead; on the contrary; contrary (to expectations)"
+],
+[
+"反映",
+4,
+"fǎn yìng",
+"to mirror; to reflect; mirror image; reflection; (fig.) to report; to make known; to render"
 ],
 [
 "相反",
@@ -19,46 +61,10 @@
 "opposite; contrary"
 ],
 [
-"反应",
-5,
-"fǎn yìng",
-"to react; to respond; reaction; response; reply; chemical reaction; CL:個|个[ge4]"
-],
-[
-"反正",
-5,
-"fǎn zhèng",
-"anyway; in any case; to come over from the enemy's side"
-],
-[
 "违反",
 5,
 "wéi fǎn",
 "to violate (a law)"
-],
-[
-"反而",
-5,
-"fǎn ér",
-"instead; on the contrary; contrary (to expectations)"
-],
-[
-"反复",
-5,
-"fǎn fù",
-"variant of 反覆|反复[fan3 fu4]"
-],
-[
-"反复",
-5,
-"fǎn fù",
-"repeatedly; over and over; to upend; unstable; to come and go; (of an illness) to return"
-],
-[
-"反映",
-5,
-"fǎn yìng",
-"to mirror; to reflect; mirror image; reflection; (fig.) to report; to make known; to render"
 ],
 [
 "反抗",
@@ -67,73 +73,103 @@
 "to resist; to rebel"
 ],
 [
-"反常",
-6,
-"fǎn cháng",
-"unusual; abnormal"
-],
-[
-"反感",
-6,
-"fǎn gǎn",
-"to be disgusted with; to dislike; bad reaction; antipathy"
-],
-[
-"反驳",
-6,
-"fǎn bó",
-"to retort; to refute"
-],
-[
-"反射",
-6,
-"fǎn shè",
-"to reflect; reflection (from a mirror etc); reflex (i.e. automatic reaction of organism)"
-],
-[
-"反馈",
-6,
-"fǎn kuì",
-"to send back information; feedback"
-],
-[
-"反面",
-6,
-"fǎn miàn",
-"reverse side; backside; the other side (of a problem etc); negative; bad"
-],
-[
-"反思",
-6,
-"fǎn sī",
-"to think back over sth; to review; to revisit; to rethink; reflection; reassessment"
-],
-[
 "反问",
 6,
 "fǎn wèn",
 "to ask (a question) in reply; to answer a question with a question; rhetorical question"
 ],
 [
-"反之",
+"反响",
 6,
-"fǎn zhī",
-"on the other hand...; conversely..."
-]
+"fǎn xiǎng",
+"repercussions; reaction; echo"
 ],
-"extraWords": [
+[
+"反驳",
+7,
+"fǎn bó",
+"to retort; to refute"
+],
+[
+"反差",
+7,
+"fǎn chā",
+"contrast; discrepancy"
+],
+[
+"反常",
+7,
+"fǎn cháng",
+"unusual; abnormal"
+],
+[
+"反倒",
+7,
+"fǎn dào",
+"but on the contrary; but expectedly"
+],
+[
+"反感",
+7,
+"fǎn gǎn",
+"to be disgusted with; to dislike; bad reaction; antipathy"
+],
+[
+"反过来",
+7,
+"fǎn guo lái",
+"conversely; in reverse order; in an opposite direction"
+],
+[
+"反击",
+7,
+"fǎn jī",
+"to strike back; to beat back; to counterattack"
+],
+[
+"反馈",
+7,
+"fǎn kuì",
+"to send back information; feedback"
+],
+[
+"反面",
+7,
+"fǎn miàn",
+"reverse side; backside; the other side (of a problem etc); negative; bad"
+],
+[
+"反思",
+7,
+"fǎn sī",
+"to think back over sth; to review; to revisit; to rethink; reflection; reassessment"
+],
 [
 "反弹",
-40.89,
+7,
 "fǎn tán",
 "to bounce; to bounce back; to boomerang; to ricochet; rebound (of stock market etc); bounce; backlash; negative repercussions"
 ],
 [
-"反击",
-18.17,
-"fǎn jī",
-"to strike back; to beat back; to counterattack"
+"反省",
+7,
+"fǎn xǐng",
+"to reflect upon oneself; to examine one's conscience; to question oneself; to search one's soul"
 ],
+[
+"举一反三",
+7,
+"jǔ yī fǎn sān",
+"to raise one and infer three; to deduce many things from one case (idiom)"
+],
+[
+"恰恰相反",
+7,
+"qià qià xiāng fǎn",
+"just the opposite"
+]
+],
+"extraWords": [
 [
 "反动",
 14.01,
@@ -153,16 +189,10 @@
 "anti-terrorism; to fight against terrorism"
 ],
 [
-"反响",
-10.79,
-"fǎn xiǎng",
-"repercussions; reaction; echo"
-],
-[
-"反倒",
-7.93,
-"fǎn dào",
-"but on the contrary; but expectedly"
+"反射",
+9.83,
+"fǎn shè",
+"to reflect; reflection (from a mirror etc); reflex (i.e. automatic reaction of organism)"
 ],
 [
 "反腐败",
@@ -171,16 +201,10 @@
 "to oppose corruption; anti-graft (measures, policy etc)"
 ],
 [
-"反省",
-7.57,
-"fǎn xǐng",
-"to reflect upon oneself; to examine one's conscience; to question oneself; to search one's soul"
-],
-[
-"反过来",
-6.71,
-"fǎn guo lái",
-"conversely; in reverse order; in an opposite direction"
+"反之",
+6.88,
+"fǎn zhī",
+"on the other hand...; conversely..."
 ],
 [
 "反动派",

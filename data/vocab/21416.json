@@ -1,6 +1,6 @@
 {
 "char": "厨",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "kitchen; closet; cupboard",
 "pron": "chú"
@@ -8,17 +8,29 @@
 "words": [
 [
 "厨房",
-4,
+5,
 "chú fáng",
-"kitchen; CL:間|间[jian1]"
+"kitchen; CL:间[jiān]"
+],
+[
+"厨师",
+6,
+"chú shī",
+"cook; chef"
 ]
 ],
 "extraWords": [
 [
-"厨师",
-13.06,
-"chú shī",
-"cook; chef"
+"厨",
+17.14,
+"chú",
+"old variant of 厨[chú]"
+],
+[
+"厨",
+17.14,
+"chú",
+"kitchen"
 ]
 ],
 "strokes": [

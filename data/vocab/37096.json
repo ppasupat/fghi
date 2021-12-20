@@ -1,6 +1,6 @@
 {
 "char": "部",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "part, division, section",
 "pron": "bù"
@@ -8,131 +8,179 @@
 "words": [
 [
 "部分",
-4,
+2,
 "bù fen",
-"part; share; section; piece; CL:個|个[ge4]"
-],
-[
-"全部",
-4,
-"quán bù",
-"whole; entire; complete"
-],
-[
-"俱乐部",
-5,
-"jù lè bù",
-"club (the organisation or its premises) (loanword); CL:個|个[ge4]"
-],
-[
-"部门",
-5,
-"bù mén",
-"department; branch; section; division; CL:個|个[ge4]"
-],
-[
-"内部",
-5,
-"nèi bù",
-"interior; inside (part, section); internal"
-],
-[
-"部位",
-6,
-"bù wèi",
-"position; place"
-],
-[
-"部署",
-6,
-"bù shǔ",
-"to dispose; to deploy; deployment"
-],
-[
-"局部",
-6,
-"jú bù",
-"part; local"
-]
-],
-"extraWords": [
-[
-"干部",
-182.28,
-"gàn bù",
-"cadre; official; officer; manager"
-],
-[
-"部队",
-81.54,
-"bù duì",
-"army; armed forces; troops; force; unit; CL:個|个[ge4]"
+"part; share; section; piece; CL:个[gè]"
 ],
 [
 "大部分",
-73.82,
+2,
 "dà bù fen",
 "in large part; the greater part; the majority"
 ],
 [
+"全部",
+2,
+"quán bù",
+"whole; entire; complete"
+],
+[
 "一部分",
-67.75,
+2,
 "yī bù fen",
 "portion; part of; subset"
 ],
 [
-"部落",
-65.49,
-"bù luò",
-"tribe"
+"北部",
+3,
+"běi bù",
+"northern part"
 ],
 [
-"西部",
-54.39,
-"xī bù",
-"western part"
+"部",
+3,
+"bù",
+"ministry; department; section; part; division; troops; board; classifier for works of literature, films, machines etc"
+],
+[
+"部门",
+3,
+"bù mén",
+"department; branch; section; division; CL:个[gè]"
 ],
 [
 "部长",
-38.36,
+3,
 "bù zhǎng",
-"head of a (government etc) department; section chief; section head; secretary; minister; CL:個|个[ge4],位[wei4],名[ming2]"
+"head of a (government etc) department; section chief; section head; secretary; minister; CL:个[gè],位[wèi],名[míng]"
 ],
 [
 "东部",
-30.37,
+3,
 "dōng bù",
 "the east; eastern part"
 ],
 [
 "南部",
-26.59,
+3,
 "nán bù",
 "southern part"
 ],
 [
-"总部",
-24.52,
-"zǒng bù",
-"general headquarters"
+"西部",
+3,
+"xī bù",
+"western part"
 ],
 [
-"北部",
-23.58,
-"běi bù",
-"northern part"
+"中部",
+3,
+"zhōng bù",
+"middle part; central section"
+],
+[
+"内部",
+4,
+"nèi bù",
+"interior; inside (part, section); internal"
 ],
 [
 "胸部",
-23.52,
+4,
 "xiōng bù",
 "chest; bosom"
 ],
 [
+"部位",
+5,
+"bù wèi",
+"position; place"
+],
+[
+"俱乐部",
+5,
+"jù lè bù",
+"club (the organisation or its premises) (loanword); CL:个[gè]"
+],
+[
+"部队",
+6,
+"bù duì",
+"army; armed forces; troops; force; unit; CL:个[gè]"
+],
+[
+"教育部",
+6,
+"Jiào yù bù",
+"Ministry of Education"
+],
+[
 "外部",
-23.08,
+6,
 "wài bù",
 "external part; external"
+],
+[
+"总部",
+6,
+"zǒng bù",
+"general headquarters"
+],
+[
+"部件",
+7,
+"bù jiàn",
+"part; component"
+],
+[
+"部署",
+7,
+"bù shǔ",
+"to dispose; to deploy; deployment"
+],
+[
+"腹部",
+7,
+"fù bù",
+"abdomen; belly; flank"
+],
+[
+"干部",
+7,
+"gàn bù",
+"cadre; official; officer; manager"
+],
+[
+"颈部",
+7,
+"jǐng bù",
+"neck"
+],
+[
+"局部",
+7,
+"jú bù",
+"part; local"
+],
+[
+"面部",
+7,
+"miàn bù",
+"face (body part)"
+],
+[
+"头部",
+7,
+"tóu bù",
+"head"
+]
+],
+"extraWords": [
+[
+"部落",
+65.49,
+"bù luò",
+"tribe"
 ],
 [
 "外交部",
@@ -141,16 +189,10 @@
 "Ministry of Foreign Affairs; foreign office; Dept. of State"
 ],
 [
-"中部",
-18.98,
-"zhōng bù",
-"middle part; central section"
-],
-[
-"教育部",
-18.3,
-"Jiào yù bù",
-"Ministry of Education"
+"各部门",
+17.94,
+"???",
+"???"
 ],
 [
 "副部长",
@@ -165,6 +207,12 @@
 "Department of Trade; Department of Commerce"
 ],
 [
+"这部",
+16.16,
+"???",
+"???"
+],
+[
 "卫生部",
 15.98,
 "Wèi shēng bù",
@@ -177,28 +225,22 @@
 "Ministry of Finance"
 ],
 [
-"头部",
-15.38,
-"tóu bù",
-"head"
-],
-[
-"腹部",
-14.69,
-"fù bù",
-"abdomen; belly; flank"
-],
-[
-"面部",
-13.59,
-"miàn bù",
-"face (body part)"
+"党支部",
+14.97,
+"???",
+"???"
 ],
 [
 "公安部",
 12.47,
 "Gōng ān bù",
 "Ministry of Public Security"
+],
+[
+"建设部",
+11.78,
+"???",
+"???"
 ],
 [
 "绝大部分",
@@ -243,12 +285,6 @@
 "butt; buttocks"
 ],
 [
-"部件",
-9.08,
-"bù jiàn",
-"part; component"
-],
-[
 "大部",
 8.96,
 "dà bù",
@@ -258,7 +294,7 @@
 "铁道部",
 8.85,
 "Tiě dào bù",
-"Ministry of Railways (MOR), disbanded in 2013 with its regulatory functions taken over by the Ministry of Transport 交通運輸部|交通运输部[Jiao1 tong1 Yun4 shu1 bu4]"
+"Ministry of Railways (MOR), disbanded in 2013 with its regulatory functions taken over by the Ministry of Transport 交通运输部[Jiāo tōng Yùn shū bù]"
 ],
 [
 "司令部",
@@ -267,16 +303,16 @@
 "headquarters; military command center"
 ],
 [
-"颈部",
-8.08,
-"jǐng bù",
-"neck"
-],
-[
 "背部",
 7.87,
 "bèi bù",
 "back (of a human or other vertebrate, or of an object)"
+],
+[
+"第一部",
+7.66,
+"???",
+"???"
 ],
 [
 "国防部长",
@@ -297,6 +333,12 @@
 "midwest"
 ],
 [
+"营业部",
+7.17,
+"???",
+"???"
+],
+[
 "腰部",
 6.51,
 "yāo bù",
@@ -307,6 +349,12 @@
 6.24,
 "dǐng bù",
 "roof; topmost part; top (of tree, wall etc); apex"
+],
+[
+"肺部",
+5.84,
+"???",
+"???"
 ],
 [
 "部委",
@@ -333,6 +381,18 @@
 "(military) special forces"
 ],
 [
+"村干部",
+5.47,
+"???",
+"???"
+],
+[
+"信息产业部",
+5.43,
+"???",
+"???"
+],
+[
 "国土资源部",
 5.37,
 "Guó tǔ Zī yuán bù",
@@ -343,6 +403,18 @@
 5.24,
 "Jiāo tōng bù",
 "Ministry of Transport; Transport Department"
+],
+[
+"老干部",
+5.09,
+"???",
+"???"
+],
+[
+"安全部",
+5.01,
+"???",
+"???"
 ]
 ],
 "strokes": [

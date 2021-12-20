@@ -1,17 +1,30 @@
 {
 "char": "崛",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "towering, eminent; rise abruptly",
 "pron": "jué"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "崛起",
-20.96,
+7,
 "jué qǐ",
 "to rise abruptly (to a towering position); to tower over; to spring up; to emerge suddenly; the emergence (e.g. of a power)"
+]
+],
+"extraWords": [
+[
+"崛",
+1.2,
+"jué",
+"towering as a peak"
+],
+[
+"崛起者",
+0.0,
+"???",
+"???"
 ]
 ],
 "strokes": [

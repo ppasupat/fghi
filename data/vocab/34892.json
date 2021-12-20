@@ -1,154 +1,172 @@
 {
 "char": "行",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "go; walk; move, travel; circulate",
 "pron": "háng, héng, xíng"
 },
 "words": [
 [
-"银行",
-3,
-"yín háng",
-"bank; CL:家[jia1],個|个[ge4]"
-],
-[
-"自行车",
-3,
-"zì xíng chē",
-"bicycle; bike; CL:輛|辆[liang4]"
-],
-[
-"行李箱",
-3,
-"xíng li xiāng",
-"suitcase; baggage compartment; overhead bin; (car) trunk; boot"
-],
-[
 "行",
-4,
+1,
 "háng",
 "row; line; commercial firm; line of business; profession; to rank (first, second etc) among one's siblings (by age); (in data tables) row; (Tw) column"
 ],
 [
 "行",
-4,
+1,
 "xíng",
 "to walk; to go; to travel; a visit; temporary; makeshift; current; in circulation; to do; to perform; capable; competent; effective; all right; OK!; will do; behavior; conduct; Taiwan pr. [xing4] for the behavior-conduct sense"
 ],
 [
+"不行",
+2,
+"bù xíng",
+"won't do; be out of the question; be no good; not work; not be capable"
+],
+[
 "进行",
-4,
+2,
 "jìn xíng",
 "to advance; to conduct; underway; in progress; to do; to carry out; to carry on; to execute"
 ],
 [
-"旅行",
-4,
-"lǚ xíng",
-"to travel; journey; trip; CL:趟[tang4],次[ci4],個|个[ge4]"
-],
-[
 "举行",
-4,
+2,
 "jǔ xíng",
 "to hold (a meeting, ceremony etc)"
 ],
 [
 "流行",
-4,
+2,
 "liú xíng",
 "(of a contagious disease etc) to spread; to propagate; (of a style of clothing, song etc) popular; fashionable"
 ],
 [
+"旅行",
+2,
+"lǚ xíng",
+"to travel; journey; trip; CL:趟[tàng],次[cì],个[gè]"
+],
+[
 "行动",
-5,
+2,
 "xíng dòng",
-"operation; action; CL:個|个[ge4]; to move about; mobile"
-],
-[
-"行为",
-5,
-"xíng wéi",
-"action; conduct; behavior; activity"
-],
-[
-"行业",
-5,
-"háng yè",
-"industry; business"
+"operation; action; CL:个[gè]; to move about; mobile"
 ],
 [
 "行人",
-5,
+2,
 "xíng rén",
 "pedestrian; traveler on foot; passer-by; official responsible for arranging audiences with the emperor"
 ],
 [
-"执行",
-6,
-"zhí xíng",
-"to implement; to carry out; to execute; to run"
+"行为",
+2,
+"xíng wéi",
+"action; conduct; behavior; activity"
 ],
 [
-"运行",
-6,
-"yùn xíng",
-"to move along one's course (of celestial bodies etc); (fig.) to function; to be in operation; (of a train service etc) to operate; to run; (of a computer) to run"
+"银行",
+2,
+"yín háng",
+"bank; CL:家[jiā],个[gè]"
 ],
 [
-"发行",
-6,
-"fā xíng",
-"to publish; to issue (stocks, currency etc); to release; to distribute (a film)"
+"银行卡",
+2,
+"yín háng kǎ",
+"bank card; ATM card"
 ],
 [
-"履行",
-6,
-"lǚ xíng",
-"to fulfill (one's obligations); to carry out (a task); to implement (an agreement); to perform"
+"自行车",
+2,
+"zì xíng chē",
+"bicycle; bike; CL:辆[liàng]"
 ],
 [
-"行政",
-6,
-"xíng zhèng",
-"administrative; executive (attributive)"
+"飞行",
+3,
+"fēi xíng",
+"(of planes etc) to fly; flying; flight; aviation"
 ],
 [
-"航行",
-6,
-"háng xíng",
-"to sail; to fly; to navigate"
-],
-[
-"可行",
-6,
-"kě xíng",
-"feasible"
+"旅行社",
+3,
+"lǚ xíng shè",
+"travel agency"
 ],
 [
 "实行",
-6,
+3,
 "shí xíng",
 "to implement; to carry out; to put into practice"
 ],
 [
-"平行",
-6,
-"píng xíng",
-"parallel; of equal rank; simultaneous"
+"行李",
+3,
+"xíng li",
+"luggage; CL:件[jiàn]"
 ],
 [
-"行列",
-6,
-"háng liè",
-"formation; array; (fig.) ranks (as in \"join the ranks of ...\")"
+"步行",
+4,
+"bù xíng",
+"to go on foot; to walk"
 ],
 [
-"外行",
+"行业",
+4,
+"háng yè",
+"industry; business"
+],
+[
+"发行",
+5,
+"fā xíng",
+"to publish; to issue (stocks, currency etc); to release; to distribute (a film)"
+],
+[
+"推行",
+5,
+"tuī xíng",
+"to put into effect; to carry out"
+],
+[
+"行驶",
+5,
+"xíng shǐ",
+"to travel along a route (of vehicles etc)"
+],
+[
+"运行",
+5,
+"yùn xíng",
+"to move along one's course (of celestial bodies etc); (fig.) to function; to be in operation; (of a train service etc) to operate; to run; (of a computer) to run"
+],
+[
+"执行",
+5,
+"zhí xíng",
+"to implement; to carry out; to execute; to run"
+],
+[
+"出行",
 6,
-"wài háng",
-"layman; amateur"
+"chū xíng",
+"to go out somewhere (relatively short trip); to set off on a journey (longer trip)"
+],
+[
+"飞行员",
+6,
+"fēi xíng yuán",
+"pilot; aviator"
+],
+[
+"排行榜",
+6,
+"pái háng bǎng",
+"the charts (of best-sellers); table of ranking"
 ],
 [
 "盛行",
@@ -157,30 +175,198 @@
 "to be in vogue; to be prevalent"
 ],
 [
-"逆行",
+"送行",
 6,
-"nì xíng",
-"to go the wrong way; to go against one-way traffic regulation"
-]
+"sòng xíng",
+"to see someone off; to throw someone a send-off party"
 ],
-"extraWords": [
 [
-"不行",
-160.64,
-"bù xíng",
-"won't do; be out of the question; be no good; not work; not be capable"
+"通行",
+6,
+"tōng xíng",
+"to go through; to pass through; to be in general use"
+],
+[
+"同行",
+6,
+"tóng háng",
+"person of the same profession; of the same trade, occupation or industry"
+],
+[
+"同行",
+6,
+"tóng xíng",
+"to journey together"
+],
+[
+"行程",
+6,
+"xíng chéng",
+"journey; course of a journey; distance traveled; trajectory; itinerary; route; course (of history); stroke (of a piston); (Tw) (computing) process"
+],
+[
+"一行",
+6,
+"yī xíng",
+"party; delegation"
+],
+[
+"游行",
+6,
+"yóu xíng",
+"march; parade; demonstration"
+],
+[
+"并行",
+7,
+"bìng xíng",
+"to proceed in parallel; side by side (of two processes, developments, thoughts etc)"
+],
+[
+"行家",
+7,
+"háng jiā",
+"connoisseur; expert; veteran"
+],
+[
+"行列",
+7,
+"háng liè",
+"formation; array; (fig.) ranks (as in \"join the ranks of ...\")"
 ],
 [
 "行情",
-47.18,
+7,
 "háng qíng",
 "market price; quotation of market price; the current market situation"
 ],
 [
+"航行",
+7,
+"háng xíng",
+"to sail; to fly; to navigate"
+],
+[
+"可行",
+7,
+"kě xíng",
+"feasible"
+],
+[
+"履行",
+7,
+"lǚ xíng",
+"to fulfill (one's obligations); to carry out (a task); to implement (an agreement); to perform"
+],
+[
+"内行",
+7,
+"nèi háng",
+"expert; adept; experienced; an expert; a professional"
+],
+[
+"品行",
+7,
+"pǐn xíng",
+"behavior; moral conduct"
+],
+[
+"强行",
+7,
+"qiáng xíng",
+"to do sth by force; Taiwan pr. [qiang3 xing2]"
+],
+[
+"绕行",
+7,
+"rào xíng",
+"to take a circular (or circuitous) route; to do a circuit; (of a planet) to orbit; (of a sailor) to circumnavigate; to take a detour; to bypass"
+],
+[
+"人行道",
+7,
+"rén xíng dào",
+"sidewalk"
+],
+[
+"施行",
+7,
+"shī xíng",
+"to put in place; to put into practice; to take effect"
+],
+[
+"试行",
+7,
+"shì xíng",
+"to try out; to test"
+],
+[
+"通行证",
+7,
+"tōng xíng zhèng",
+"a pass (authority to enter); a laissez-passer or safe conduct"
+],
+[
+"外行",
+7,
+"wài háng",
+"layman; amateur"
+],
+[
+"现行",
+7,
+"xiàn xíng",
+"to be in effect; in force; current"
+],
+[
+"行使",
+7,
+"xíng shǐ",
+"to exercise (a right etc)"
+],
+[
+"行政",
+7,
+"xíng zhèng",
+"administrative; executive (attributive)"
+],
+[
+"行走",
+7,
+"xíng zǒu",
+"to walk"
+],
+[
+"言行",
+7,
+"yán xíng",
+"words and actions; what one says and what one does"
+],
+[
+"衣食住行",
+7,
+"yī shí zhù xíng",
+"clothing, food, housing and transport (idiom); people's basic needs"
+],
+[
+"一言一行",
+7,
+"yī yán yī xíng",
+"every word and action (idiom)"
+],
+[
+"自行",
+7,
+"zì xíng",
+"voluntary; autonomous; by oneself; self-"
+]
+],
+"extraWords": [
+[
 "央行",
 44.95,
 "Yāng háng",
-"abbr. for various central banks, notably 中國人民銀行|中国人民银行[Zhong1 guo2 Ren2 min2 Yin2 hang2] and 中央銀行|中央银行[Zhong1 yang1 Yin2 hang2]"
+"abbr. for various central banks, notably 中国人民银行[Zhōng guó Rén mín Yín háng] and 中央银行[Zhōng yāng Yín háng]"
 ],
 [
 "央行",
@@ -189,64 +375,10 @@
 "central bank"
 ],
 [
-"飞行",
-36.92,
-"fēi xíng",
-"(of planes etc) to fly; flying; flight; aviation"
-],
-[
-"推行",
-32.19,
-"tuī xíng",
-"to put into effect; to carry out"
-],
-[
 "商业银行",
 30.78,
 "shāng yè yín háng",
 "commercial bank"
-],
-[
-"行李",
-29.12,
-"xíng li",
-"luggage; CL:件[jian4]"
-],
-[
-"行驶",
-28.26,
-"xíng shǐ",
-"to travel along a route (of vehicles etc)"
-],
-[
-"自行",
-25.94,
-"zì xíng",
-"voluntary; autonomous; by oneself; self-"
-],
-[
-"一行",
-23.36,
-"yī xíng",
-"party; delegation"
-],
-[
-"现行",
-22.58,
-"xiàn xíng",
-"to be in effect; in force; current"
-],
-[
-"同行",
-21.55,
-"tóng háng",
-"person of the same profession; of the same trade, occupation or industry"
-],
-[
-"同行",
-21.55,
-"tóng xíng",
-"to journey together"
 ],
 [
 "排行",
@@ -261,64 +393,10 @@
 "to execute; to handle; behavior; action; conduct"
 ],
 [
-"行使",
-18.37,
-"xíng shǐ",
-"to exercise (a right etc)"
-],
-[
-"出行",
-18.16,
-"chū xíng",
-"to go out somewhere (relatively short trip); to set off on a journey (longer trip)"
-],
-[
-"飞行员",
-18.12,
-"fēi xíng yuán",
-"pilot; aviator"
-],
-[
-"行走",
-18.04,
-"xíng zǒu",
-"to walk"
-],
-[
 "罪行",
 17.5,
 "zuì xíng",
 "crime; offense"
-],
-[
-"旅行社",
-17.09,
-"lǚ xíng shè",
-"travel agency"
-],
-[
-"游行",
-15.44,
-"yóu xíng",
-"march; parade; demonstration"
-],
-[
-"强行",
-14.67,
-"qiáng xíng",
-"to do sth by force; Taiwan pr. [qiang3 xing2]"
-],
-[
-"行程",
-14.53,
-"xíng chéng",
-"journey; course of a journey; distance traveled; trajectory; itinerary; route; course (of history); stroke (of a piston); (Tw) (computing) process"
-],
-[
-"通行",
-14.42,
-"tōng xíng",
-"to go through; to pass through; to be in general use"
 ],
 [
 "行长",
@@ -331,12 +409,6 @@
 12.51,
 "Zhōng guó Yín háng",
 "Bank of China (BoC)"
-],
-[
-"施行",
-12.47,
-"shī xíng",
-"to put in place; to put into practice; to take effect"
 ],
 [
 "先行",
@@ -372,7 +444,7 @@
 "行星",
 10.31,
 "xíng xīng",
-"planet; CL:顆|颗[ke1]"
+"planet; CL:颗[kē]"
 ],
 [
 "银行业",
@@ -385,12 +457,6 @@
 9.97,
 "qián xíng",
 "(literary) to go forward"
-],
-[
-"试行",
-9.76,
-"shì xíng",
-"to try out; to test"
 ],
 [
 "行车",
@@ -408,7 +474,7 @@
 "中行",
 9.28,
 "Zhōng háng",
-"abbr. for 中國銀行|中国银行[Zhong1 guo2 Yin2 hang2]"
+"abbr. for 中国银行[Zhōng guó Yín háng]"
 ],
 [
 "行踪",
@@ -417,22 +483,16 @@
 "whereabouts; (lose) track (of)"
 ],
 [
-"步行",
-9.22,
-"bù xíng",
-"to go on foot; to walk"
-],
-[
 "行不通",
 8.97,
 "xíng bu tōng",
 "won't work; will get (you) nowhere"
 ],
 [
-"通行证",
-8.64,
-"tōng xíng zhèng",
-"a pass (authority to enter); a laissez-passer or safe conduct"
+"外资银行",
+8.61,
+"???",
+"???"
 ],
 [
 "下行",
@@ -447,6 +507,24 @@
 "branch of bank or store; subsidiary bank"
 ],
 [
+"执行官",
+7.62,
+"???",
+"???"
+],
+[
+"平行",
+7.61,
+"píng xíng",
+"parallel; of equal rank; simultaneous"
+],
+[
+"银行贷款",
+7.45,
+"???",
+"???"
+],
+[
 "性行为",
 6.68,
 "xìng xíng wéi",
@@ -457,6 +535,12 @@
 6.53,
 "Rén mín Yín háng",
 "People's Bank of China"
+],
+[
+"农行",
+6.46,
+"???",
+"???"
 ],
 [
 "支行",
@@ -471,22 +555,16 @@
 "feasibility"
 ],
 [
-"言行",
-5.73,
-"yán xíng",
-"words and actions; what one says and what one does"
+"建设银行",
+6.0,
+"???",
+"???"
 ],
 [
 "行贿",
 5.67,
 "xíng huì",
 "to bribe; to give bribes"
-],
-[
-"人行道",
-5.48,
-"rén xíng dào",
-"sidewalk"
 ],
 [
 "例行",
@@ -499,6 +577,12 @@
 5.41,
 "xiū xíng",
 "to devote oneself to spiritual development (esp. Buddhism or Daoism); to devote oneself to perfecting one's art or craft"
+],
+[
+"此行",
+5.4,
+"???",
+"???"
 ],
 [
 "中央银行",

@@ -1,12 +1,31 @@
 {
 "char": "蒲",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "type of rush; vine",
 "pron": "pú"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"蒲",
+6.14,
+"Pú",
+"surname Pu; old place name"
+],
+[
+"蒲",
+6.14,
+"pú",
+"refers to various monocotyledonous flowering plants including Acorus calamus and Typha orientalis; common cattail; bullrush"
+],
+[
+"蒲式耳",
+3.3,
+"pú shì ěr",
+"bushel (eight gallons)"
+]
+],
 "strokes": [
 "M 618 720 Q 717 729 799 723 Q 814 722 819 730 Q 823 740 811 754 Q 766 794 655 768 Q 646 768 638 765 L 586 757 Q 513 747 435 735 L 388 730 Q 312 723 226 712 Q 198 709 218 695 Q 257 668 310 678 Q 353 690 396 697 L 437 703 Q 444 712 576 717 L 618 720 Z",
 "M 435 735 Q 434 763 433 786 Q 434 805 415 810 Q 373 828 356 822 Q 340 813 353 795 Q 377 768 388 730 L 396 697 Q 406 652 420 639 Q 433 629 437 640 Q 443 659 437 703 L 435 735 Z",

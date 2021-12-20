@@ -1,6 +1,6 @@
 {
 "char": "兆",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "omen; million; mega; also trillion. China = million; Japan and Taiwan = trillion",
 "pron": "zhào"
@@ -8,9 +8,15 @@
 "words": [
 [
 "预兆",
-6,
+7,
 "yù zhào",
 "omen; sign (of sth yet to occur); prior indication; to foreshadow"
+],
+[
+"兆头",
+7,
+"zhào tou",
+"omen; portent; sign"
 ]
 ],
 "extraWords": [

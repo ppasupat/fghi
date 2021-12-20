@@ -1,6 +1,6 @@
 {
 "char": "何",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "what, why, where, which, how",
 "pron": "hé"
@@ -8,47 +8,83 @@
 "words": [
 [
 "任何",
-4,
+3,
 "rèn hé",
 "any; whatever; whichever; whatsoever"
 ],
 [
 "如何",
-5,
+3,
 "rú hé",
 "how; what way; what"
 ],
 [
-"何况",
-5,
-"hé kuàng",
-"let alone; to say nothing of; besides; what's more"
-],
-[
-"何必",
-5,
-"hé bì",
-"there is no need; why should"
-]
-],
-"extraWords": [
-[
 "为何",
-78.4,
+6,
 "wèi hé",
 "why"
 ],
 [
-"无论如何",
-35.18,
-"wú lùn rú hé",
-"whatever the case; in any event; no matter what; by all possible means"
+"何必",
+7,
+"hé bì",
+"there is no need; why should"
+],
+[
+"何处",
+7,
+"hé chù",
+"whence; where"
+],
+[
+"何苦",
+7,
+"hé kǔ",
+"why bother?; is it worth the trouble?"
+],
+[
+"何况",
+7,
+"hé kuàng",
+"let alone; to say nothing of; besides; what's more"
 ],
 [
 "何时",
-25.64,
+7,
 "hé shí",
 "when"
+],
+[
+"无可奈何",
+7,
+"wú kě nài hé",
+"have no way out; have no alternative; abbr. to 无奈[wú nài]"
+],
+[
+"无论如何",
+7,
+"wú lùn rú hé",
+"whatever the case; in any event; no matter what; by all possible means"
+]
+],
+"extraWords": [
+[
+"任何人",
+109.46,
+"???",
+"???"
+],
+[
+"何",
+63.87,
+"Hé",
+"surname He"
+],
+[
+"何",
+63.87,
+"hé",
+"what; how; why; which; carry"
 ],
 [
 "何以",
@@ -63,10 +99,10 @@
 "why not?; why not do (sth)?"
 ],
 [
-"何处",
-10.62,
-"hé chù",
-"whence; where"
+"更何况",
+8.23,
+"???",
+"???"
 ],
 [
 "几何",
@@ -85,12 +121,6 @@
 5.9,
 "hé zài",
 "where?; what place?"
-],
-[
-"无可奈何",
-5.74,
-"wú kě nài hé",
-"have no way out; have no alternative; abbr. to 無奈|无奈[wu2 nai4]"
 ]
 ],
 "strokes": [

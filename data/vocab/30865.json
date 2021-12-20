@@ -1,26 +1,43 @@
 {
 "char": "碑",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "stone tablet; gravestone",
 "pron": "bēi"
 },
 "words": [
 [
-"里程碑",
-6,
-"lǐ chéng bēi",
-"milestone"
-]
+"碑",
+7,
+"bēi",
+"a monument; an upright stone tablet; stele; CL:块[kuài],面[miàn]"
 ],
-"extraWords": [
+[
+"纪念碑",
+7,
+"jì niàn bēi",
+"monument"
+],
 [
 "口碑",
-6.47,
+7,
 "kǒu bēi",
 "public praise; public reputation; commonly held opinions; current idiom"
+],
+[
+"里程碑",
+7,
+"lǐ chéng bēi",
+"milestone"
+],
+[
+"墓碑",
+7,
+"mù bēi",
+"gravestone; tombstone"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 296 632 Q 342 645 392 656 Q 426 666 432 671 Q 441 680 436 688 Q 429 700 398 706 Q 371 709 277 677 Q 190 656 152 650 Q 115 643 143 627 Q 180 608 228 615 L 296 632 Z",
 "M 235 455 Q 260 507 293 580 Q 308 616 308 618 Q 305 625 296 632 C 276 654 228 645 228 615 Q 232 572 190 462 L 169 419 Q 120 335 23 219 Q 16 213 27 212 Q 85 230 179 358 Q 180 361 183 363 L 235 455 Z",

@@ -1,6 +1,6 @@
 {
 "char": "浪",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "wave; wasteful, reckless",
 "pron": "làng"
@@ -8,27 +8,51 @@
 "words": [
 [
 "浪费",
-4,
+3,
 "làng fèi",
 "to waste; to squander"
 ],
 [
 "浪漫",
-4,
+5,
 "làng màn",
 "romantic"
-],
-[
-"流浪",
-6,
-"liú làng",
-"to drift about; to wander; to roam; nomadic; homeless; unsettled (e.g. population); vagrant"
 ],
 [
 "波浪",
 6,
 "bō làng",
 "wave"
+],
+[
+"海浪",
+6,
+"hǎi làng",
+"sea wave"
+],
+[
+"冲浪",
+7,
+"chōng làng",
+"to surf; surfing"
+],
+[
+"风浪",
+7,
+"fēng làng",
+"wind and waves; stormy sea"
+],
+[
+"浪",
+7,
+"làng",
+"wave; breaker; unrestrained; dissipated; to stroll; to ramble"
+],
+[
+"流浪",
+7,
+"liú làng",
+"to drift about; to wander; to roam; nomadic; homeless; unsettled (e.g. population); vagrant"
 ]
 ],
 "extraWords": [
@@ -37,12 +61,6 @@
 119.27,
 "Xīn làng",
 "Sina, Chinese web portal and online media company"
-],
-[
-"冲浪",
-25.81,
-"chōng làng",
-"to surf; surfing"
 ],
 [
 "流浪汉",
@@ -60,7 +78,7 @@
 "鼓浪屿",
 5.57,
 "Gǔ làng yǔ",
-"Gulangyu, scenic island off Xiamen 廈門|厦门[Xia4 men2]"
+"Gulangyu, scenic island off Xiamen 厦门[Xià mén]"
 ]
 ],
 "strokes": [

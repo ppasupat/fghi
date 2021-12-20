@@ -1,11 +1,35 @@
 {
 "char": "帮",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "help, assist; defend; shoe upper",
 "pron": "bāng"
 },
 "words": [
+[
+"帮",
+1,
+"bāng",
+"old variant of 帮[bāng]"
+],
+[
+"帮",
+1,
+"bāng",
+"old variant of 帮[bāng]"
+],
+[
+"帮",
+1,
+"bāng",
+"to help; to assist; to support; for sb (i.e. as a help); hired (as worker); side (of pail, boat etc); outer layer; upper (of a shoe); group; gang; clique; party; secret society"
+],
+[
+"帮忙",
+1,
+"bāng máng",
+"to help; to lend a hand; to do a favor; to do a good turn"
+],
 [
 "帮助",
 2,
@@ -13,13 +37,19 @@
 "assistance; aid; to help; to assist"
 ],
 [
-"帮忙",
-3,
-"bāng máng",
-"to help; to lend a hand; to do a favor; to do a good turn"
+"帮手",
+7,
+"bāng shǒu",
+"helper; assistant"
 ]
 ],
 "extraWords": [
+[
+"帮帮",
+21.79,
+"???",
+"???"
+],
 [
 "黑帮",
 20.48,
@@ -33,16 +63,22 @@
 "gang; faction"
 ],
 [
+"一帮",
+11.04,
+"???",
+"???"
+],
+[
 "四人帮",
 10.89,
 "Sì rén bāng",
-"Gang of Four: Jiang Qing 江青[Jiang1 Qing1], Zhang Chunqiao 張春橋|张春桥[Zhang1 Chun1 qiao2], Yao Wenyuan 姚文元[Yao2 Wen2 yuan2], Wang Hongwen 王洪文[Wang2 Hong2 wen2], who served as scapegoats for the excesses of the cultural revolution"
+"Gang of Four: Jiang Qing 江青[Jiāng Qīng], Zhang Chunqiao 张春桥[Zhāng Chūn qiáo], Yao Wenyuan 姚文元[Yáo Wén yuán], Wang Hongwen 王洪文[Wáng Hóng wén], who served as scapegoats for the excesses of the cultural revolution"
 ],
 [
-"帮手",
-10.73,
-"bāng shǒu",
-"helper; assistant"
+"帮扶",
+5.64,
+"???",
+"???"
 ]
 ],
 "strokes": [

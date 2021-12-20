@@ -1,16 +1,16 @@
 {
 "char": "淹",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "drown; cover with liquid, steep",
 "pron": "yān"
 },
 "words": [
 [
-"淹没",
-6,
-"yān mò",
-"to submerge; to drown; to flood; to drown out (also fig.)"
+"淹",
+7,
+"yān",
+"to flood; to submerge; to drown; to irritate the skin (of liquids); to delay"
 ]
 ],
 "extraWords": [
@@ -19,6 +19,12 @@
 9.75,
 "yān sǐ",
 "to drown"
+],
+[
+"淹没",
+7.51,
+"yān mò",
+"to submerge; to drown; to flood; to drown out (also fig.)"
 ]
 ],
 "strokes": [

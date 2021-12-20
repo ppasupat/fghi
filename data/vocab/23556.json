@@ -1,11 +1,29 @@
 {
 "char": "射",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "shoot, eject, issue forth, emit",
 "pron": "shè"
 },
 "words": [
+[
+"发射",
+5,
+"fā shè",
+"to shoot (a projectile); to fire (a rocket); to launch; to emit (a particle); to discharge; emanation; emission"
+],
+[
+"射",
+5,
+"shè",
+"old variant of 射[shè]"
+],
+[
+"射",
+5,
+"shè",
+"to shoot; to launch; to allude to; radio- (chemistry)"
+],
 [
 "射击",
 5,
@@ -14,33 +32,27 @@
 ],
 [
 "注射",
-6,
+5,
 "zhù shè",
 "injection; to inject"
 ],
 [
-"发射",
-6,
-"fā shè",
-"to shoot (a projectile); to fire (a rocket); to launch; to emit (a particle); to discharge; emanation; emission"
-],
-[
 "辐射",
-6,
+7,
 "fú shè",
 "radiation"
 ],
 [
-"反射",
-6,
-"fǎn shè",
-"to reflect; reflection (from a mirror etc); reflex (i.e. automatic reaction of organism)"
+"投射",
+7,
+"tóu shè",
+"to throw (a projectile); to cast (light)"
 ],
 [
-"放射",
-6,
-"fàng shè",
-"to radiate; radioactive"
+"折射",
+7,
+"zhé shè",
+"to refract; refraction; to reflect (in the figurative sense: to show the nature of)"
 ]
 ],
 "extraWords": [
@@ -57,22 +69,34 @@
 "(soccer, handball etc) to kick or shoot the ball towards the goal"
 ],
 [
+"放射",
+12.6,
+"fàng shè",
+"to radiate; radioactive"
+],
+[
 "照射",
 10.77,
 "zhào shè",
 "to shine on; to light up; to irradiate"
 ],
 [
+"反射",
+9.83,
+"fǎn shè",
+"to reflect; reflection (from a mirror etc); reflex (i.e. automatic reaction of organism)"
+],
+[
+"注射液",
+7.85,
+"???",
+"???"
+],
+[
 "放射性",
 6.22,
 "fàng shè xìng",
 "radioactive"
-],
-[
-"折射",
-5.32,
-"zhé shè",
-"to refract; refraction; to reflect (in the figurative sense: to show the nature of)"
 ],
 [
 "射线",

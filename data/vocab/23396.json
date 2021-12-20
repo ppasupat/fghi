@@ -1,6 +1,6 @@
 {
 "char": "孤",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "orphan, fatherless; solitary",
 "pron": "gū"
@@ -13,24 +13,42 @@
 "lonely; solitary"
 ],
 [
-"孤立",
+"孤儿",
 6,
-"gū lì",
-"isolate; isolated"
-]
+"gū ér",
+"orphan"
 ],
-"extraWords": [
 [
 "孤单",
-18.36,
+7,
 "gū dān",
 "lone; lonely; loneliness"
 ],
 [
-"孤儿",
-11.69,
-"gū ér",
-"orphan"
+"孤立",
+7,
+"gū lì",
+"isolate; isolated"
+],
+[
+"孤零零",
+7,
+"gū líng líng",
+"lone; isolated and without help; all alone; solitary"
+],
+[
+"孤陋寡闻",
+7,
+"gū lòu guǎ wén",
+"ignorant and inexperienced; ill-informed and narrow-minded"
+]
+],
+"extraWords": [
+[
+"孤",
+51.45,
+"gū",
+"lone; lonely"
 ],
 [
 "孤儿院",

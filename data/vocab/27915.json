@@ -1,6 +1,6 @@
 {
 "char": "洋",
-"level": 4,
+"level": "6",
 "info": {
 "gloss": "ocean, sea; foreign; western",
 "pron": "yáng"
@@ -8,9 +8,39 @@
 "words": [
 [
 "海洋",
-4,
+6,
 "hǎi yáng",
-"ocean; CL:個|个[ge4]"
+"ocean; CL:个[gè]"
+],
+[
+"洋",
+6,
+"yáng",
+"ocean; vast; foreign; silver dollar or coin"
+],
+[
+"出洋相",
+7,
+"chū yáng xiàng",
+"to make a fool of oneself"
+],
+[
+"汪洋",
+7,
+"wāng yáng",
+"vast body of water; CL:片[piàn]"
+],
+[
+"喜洋洋",
+7,
+"xǐ yáng yáng",
+"radiant with joy"
+],
+[
+"洋溢",
+7,
+"yáng yì",
+"brimming with; steeped in"
 ]
 ],
 "extraWords": [

@@ -1,6 +1,6 @@
 {
 "char": "康",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "peaceful, quiet; happy, healthy",
 "pron": "kāng"
@@ -8,35 +8,47 @@
 "words": [
 [
 "健康",
-3,
+2,
 "jiàn kāng",
 "health; healthy"
-]
 ],
-"extraWords": [
 [
 "康复",
-19.63,
+6,
 "kāng fù",
 "to recuperate; to recover (health); to convalesce"
 ],
 [
 "小康",
-17.34,
+7,
 "Xiǎo kāng",
-"Xiaokang, a Confucian near-ideal state of society, second only to Datong 大同[Da4 tong2]"
+"Xiaokang, a Confucian near-ideal state of society, second only to Datong 大同[Dà tóng]"
 ],
 [
 "小康",
-17.34,
+7,
 "xiǎo kāng",
 "moderately affluent; well-off; a period of peace and prosperity"
+]
+],
+"extraWords": [
+[
+"康",
+26.06,
+"Kāng",
+"surname Kang"
+],
+[
+"康",
+26.06,
+"kāng",
+"healthy; peaceful; abundant"
 ],
 [
 "康熙",
 8.2,
 "Kāng xī",
-"Kangxi, title of the reign (1661-1722) of the Kangxi Emperor 聖祖|圣祖[Sheng4 zu3]"
+"Kangxi, title of the reign (1661-1722) of the Kangxi Emperor 圣祖[Shèng zǔ]"
 ]
 ],
 "strokes": [

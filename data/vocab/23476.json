@@ -1,6 +1,6 @@
 {
 "char": "宴",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "to entertain, feast; a feast, banquet",
 "pron": "yàn"
@@ -8,9 +8,9 @@
 "words": [
 [
 "宴会",
-5,
+6,
 "yàn huì",
-"banquet; feast; dinner party; CL:席[xi2],個|个[ge4]"
+"banquet; feast; dinner party; CL:席[xí],个[gè]"
 ]
 ],
 "extraWords": [
@@ -19,6 +19,18 @@
 12.4,
 "wǎn yàn",
 "banquet; dinner party; soiree"
+],
+[
+"宴",
+10.48,
+"yàn",
+"(bound form) feast; repose"
+],
+[
+"宴",
+10.48,
+"yàn",
+"variant of 宴[yàn]"
 ],
 [
 "盛宴",

@@ -1,6 +1,6 @@
 {
 "char": "汁",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "juice, liquor, fluid, sap, gravy, sauce",
 "pron": "zhī"
@@ -8,19 +8,30 @@
 "words": [
 [
 "果汁",
-4,
+3,
 "guǒ zhī",
 "fruit juice"
-]
 ],
-"extraWords": [
 [
 "橙汁",
-5.43,
+7,
 "chéng zhī",
-"orange juice; CL:瓶[ping2],杯[bei1],罐[guan4],盒[he2]"
+"orange juice; CL:瓶[píng],杯[bēi],罐[guàn],盒[hé]"
+],
+[
+"原汁原味",
+7,
+"yuán zhī yuán wèi",
+"original; authentic"
+],
+[
+"汁",
+7,
+"zhī",
+"juice"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 271 732 Q 296 710 325 682 Q 341 667 359 668 Q 371 669 376 685 Q 382 701 371 735 Q 359 766 265 787 Q 247 791 240 787 Q 234 783 236 768 Q 240 755 271 732 Z",
 "M 143 562 Q 203 496 237 482 Q 253 478 263 493 Q 270 506 267 524 Q 254 570 157 603 Q 139 609 130 605 Q 123 604 125 590 Q 126 577 143 562 Z",

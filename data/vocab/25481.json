@@ -1,6 +1,6 @@
 {
 "char": "掉",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "turn, move; shake, wag; drop down",
 "pron": "diào"
@@ -8,9 +8,45 @@
 "words": [
 [
 "掉",
-4,
+2,
 "diào",
 "to fall; to drop; to lag behind; to lose; to go missing; to reduce; fall (in prices); to lose (value, weight etc); to wag; to swing; to turn; to change; to exchange; to swap; to show off; to shed (hair); (used after certain verbs to express completion, fulfillment, removal etc)"
+],
+[
+"去掉",
+6,
+"qù diào",
+"to get rid of; to exclude; to eliminate; to remove; to delete; to strip out; to extract"
+],
+[
+"掉队",
+7,
+"diào duì",
+"to fall behind; to drop out"
+],
+[
+"掉头",
+7,
+"diào tóu",
+"to turn one's head; to turn round; to turn about"
+],
+[
+"丢掉",
+7,
+"diū diào",
+"to lose; to throw away; to discard; to cast away"
+],
+[
+"关掉",
+7,
+"guān diào",
+"to switch off; to shut off"
+],
+[
+"忘掉",
+7,
+"wàng diào",
+"to forget"
 ]
 ],
 "extraWords": [
@@ -21,28 +57,10 @@
 "to get rid of"
 ],
 [
-"关掉",
-36.58,
-"guān diào",
-"to switch off; to shut off"
-],
-[
-"忘掉",
-18.93,
-"wàng diào",
-"to forget"
-],
-[
 "扔掉",
 17.86,
 "rēng diào",
 "to throw away; to throw out"
-],
-[
-"丢掉",
-16.34,
-"diū diào",
-"to lose; to throw away; to discard; to cast away"
 ],
 [
 "除掉",
@@ -63,22 +81,16 @@
 "to eat up; to consume"
 ],
 [
-"去掉",
-8.02,
-"qù diào",
-"to get rid of; to exclude; to eliminate; to remove; to delete; to strip out; to extract"
-],
-[
-"掉头",
-7.63,
-"diào tóu",
-"to turn one's head; to turn round; to turn about"
-],
-[
 "炸掉",
 7.24,
 "zhà diào",
 "to bomb"
+],
+[
+"掉下来",
+5.58,
+"???",
+"???"
 ],
 [
 "漏掉",

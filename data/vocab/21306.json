@@ -1,96 +1,126 @@
 {
 "char": "区",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "area, district, region, ward",
 "pron": "ōu, qū"
 },
 "words": [
 [
+"地区",
+3,
+"dì qū",
+"local; regional; district (not necessarily formal administrative unit); region; area; as suffix to city name, means prefecture or county (area administered by a prefecture-level city or county level city); CL:个[gè]"
+],
+[
+"区",
+3,
+"Ōu",
+"surname Ou"
+],
+[
+"区",
+3,
+"qū",
+"area; region; district; small; distinguish; CL:个[gè]"
+],
+[
 "区别",
-4,
+3,
 "qū bié",
-"difference; to distinguish; to discriminate; to make a distinction; CL:個|个[ge4]"
+"difference; to distinguish; to discriminate; to make a distinction; CL:个[gè]"
+],
+[
+"市区",
+4,
+"shì qū",
+"urban district; downtown; city center"
 ],
 [
 "郊区",
-4,
-"jiāo qū",
-"suburban district; outskirts; suburbs; CL:個|个[ge4]"
-],
-[
-"地区",
 5,
-"dì qū",
-"local; regional; district (not necessarily formal administrative unit); region; area; as suffix to city name, means prefecture or county (area administered by a prefecture-level city or county level city); CL:個|个[ge4]"
+"jiāo qū",
+"suburban district; outskirts; suburbs; CL:个[gè]"
 ],
 [
 "区域",
-6,
+5,
 "qū yù",
 "area; region; district"
 ],
 [
+"山区",
+5,
+"shān qū",
+"mountain area; CL:个[gè]"
+],
+[
 "社区",
-6,
+5,
 "shè qū",
 "community; neighborhood"
+],
+[
+"灾区",
+5,
+"zāi qū",
+"disaster area; stricken region"
+],
+[
+"城区",
+6,
+"chéng qū",
+"city district; urban area"
 ],
 [
 "区分",
 6,
 "qū fēn",
 "to differentiate; to draw a distinction; to divide into categories"
-]
-],
-"extraWords": [
-[
-"小区",
-60.3,
-"xiǎo qū",
-"neighborhood; district"
 ],
 [
-"城区",
-25.63,
-"chéng qū",
-"city district; urban area"
+"禁区",
+7,
+"jìn qū",
+"restricted area; forbidden region"
+],
+[
+"景区",
+7,
+"jǐng qū",
+"scenic area"
 ],
 [
 "开发区",
-25.18,
+7,
 "kāi fā qū",
 "development zone"
 ],
 [
+"误区",
+7,
+"wù qū",
+"mistaken ideas; misconceptions; the error of one's ways"
+],
+[
+"小区",
+7,
+"xiǎo qū",
+"neighborhood; district"
+]
+],
+"extraWords": [
+[
 "自治区",
 23.98,
 "zì zhì qū",
-"autonomous region, namely: Inner Mongolia 內蒙古自治區|内蒙古自治区[Nei4 meng3 gu3 Zi4 zhi4 qu1], Guangxi 廣西壯族自治區|广西壮族自治区[Guang3 xi1 Zhuang4 zu2 Zi4 zhi4 qu1], Tibet 西藏自治區|西藏自治区[Xi1 zang4 Zi4 zhi4 qu1], Ningxia 寧夏回族自治區|宁夏回族自治区[Ning2 xia4 Hui2 zu2 Zi4 zhi4 qu1], Xinjiang 新疆維吾爾自治區|新疆维吾尔自治区[Xin1 jiang1 Wei2 wu2 er3 Zi4 zhi4 qu1]"
+"autonomous region, namely: Inner Mongolia 内蒙古自治区[Nèi měng gǔ Zì zhì qū], Guangxi 广西壮族自治区[Guǎng xī Zhuàng zú Zì zhì qū], Tibet 西藏自治区[Xī zàng Zì zhì qū], Ningxia 宁夏回族自治区[Níng xià Huí zú Zì zhì qū], Xinjiang 新疆维吾尔自治区[Xīn jiāng Wéi wú ěr Zì zhì qū]"
 ],
 [
 "街区",
 23.91,
 "jiē qū",
 "block (between streets)"
-],
-[
-"景区",
-22.78,
-"jǐng qū",
-"scenic area"
-],
-[
-"禁区",
-21.9,
-"jìn qū",
-"restricted area; forbidden region"
-],
-[
-"山区",
-20.51,
-"shān qū",
-"mountain area; CL:個|个[ge4]"
 ],
 [
 "区间",
@@ -103,6 +133,18 @@
 18.05,
 "yuán qū",
 "site developed for a group of related enterprises; (industrial or technology) park"
+],
+[
+"全区",
+16.95,
+"???",
+"???"
+],
+[
+"新区",
+14.34,
+"???",
+"???"
 ],
 [
 "辖区",
@@ -120,7 +162,7 @@
 "保护区",
 11.0,
 "bǎo hù qū",
-"conservation district; CL:個|个[ge4],片[pian4]"
+"conservation district; CL:个[gè],片[piàn]"
 ],
 [
 "特区",
@@ -129,22 +171,34 @@
 "special administrative region; abbr. for 特別行政區|特别行政区"
 ],
 [
-"灾区",
-10.63,
-"zāi qū",
-"disaster area; stricken region"
+"区县",
+7.16,
+"???",
+"???"
 ],
 [
-"市区",
-9.3,
-"shì qū",
-"urban district; downtown; city center"
+"各地区",
+6.72,
+"???",
+"???"
 ],
 [
-"误区",
-7.13,
-"wù qū",
-"mistaken ideas; misconceptions; the error of one's ways"
+"本地区",
+6.66,
+"???",
+"???"
+],
+[
+"赛区",
+6.22,
+"???",
+"???"
+],
+[
+"中国区",
+6.22,
+"???",
+"???"
 ],
 [
 "产区",
@@ -159,10 +213,28 @@
 "Chaoyang inner district of Beijing; Chaoyang district, Changchun city, Jilin"
 ],
 [
+"亚太地区",
+5.72,
+"???",
+"???"
+],
+[
+"台湾地区",
+5.56,
+"???",
+"???"
+],
+[
 "区域性",
 5.48,
 "qū yù xìng",
 "regional"
+],
+[
+"库区",
+5.45,
+"???",
+"???"
 ],
 [
 "分区",
@@ -174,7 +246,7 @@
 "海淀区",
 5.02,
 "Hǎi diàn qū",
-"Haidian inner district of northeast Beijing, includes Peking University, Tsinghua University 清華大學|清华大学[Qing1 hua2 da4 xue2] and Zhongguancun 中關村|中关村[Zhong1 guan1 cun1]"
+"Haidian inner district of northeast Beijing, includes Peking University, Tsinghua University 清华大学[Qīng huá dà xué] and Zhongguancun 中关村[Zhōng guān cūn]"
 ]
 ],
 "strokes": [

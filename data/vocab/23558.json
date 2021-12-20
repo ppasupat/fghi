@@ -1,16 +1,58 @@
 {
 "char": "将",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "will, going to, future; general",
 "pron": "jiāng, jiàng"
 },
 "words": [
 [
+"将近",
+3,
+"jiāng jìn",
+"almost; nearly; close to"
+],
+[
 "将来",
-4,
+3,
 "jiāng lái",
-"in the future; future; the future; CL:個|个[ge4]"
+"in the future; future; the future; CL:个[gè]"
+],
+[
+"即将",
+4,
+"jí jiāng",
+"on the eve of; to be about to; to be on the verge of"
+],
+[
+"将",
+5,
+"jiāng",
+"will; shall; to use; to take; to checkmate; just a short while ago; (introduces object of main verb, used in the same way as 把[bǎ])"
+],
+[
+"将",
+5,
+"jiàng",
+"general; commander-in-chief (military); king (chess piece); to command; to lead"
+],
+[
+"将",
+5,
+"qiāng",
+"to desire; to invite; to request"
+],
+[
+"将要",
+5,
+"jiāng yào",
+"will; shall; to be going to"
+],
+[
+"必将",
+6,
+"bì jiāng",
+"inevitably"
 ],
 [
 "将军",
@@ -25,48 +67,18 @@
 "general; high-ranking military officer; to check or checkmate; fig. to embarrass; to challenge; to put sb on the spot"
 ],
 [
-"即将",
-6,
-"jí jiāng",
-"on the eve of; to be about to; to be on the verge of"
-],
-[
-"将近",
-6,
-"jiāng jìn",
-"almost; nearly; close to"
-],
-[
-"将就",
-6,
-"jiāng jiu",
-"to accept (a bit reluctantly); to put up with"
+"麻将",
+7,
+"má jiàng",
+"mahjong; CL:副[fù]"
 ]
 ],
 "extraWords": [
-[
-"必将",
-21.14,
-"bì jiāng",
-"inevitably"
-],
-[
-"麻将",
-15.42,
-"má jiàng",
-"mahjong; CL:副[fu4]"
-],
 [
 "门将",
 14.49,
 "mén jiàng",
 "official gatekeeper; goalkeeper (soccer, hockey etc)"
-],
-[
-"将要",
-13.12,
-"jiāng yào",
-"will; shall; to be going to"
 ],
 [
 "小将",
@@ -105,10 +117,22 @@
 "a general or admiral"
 ],
 [
+"即将到来",
+6.66,
+"???",
+"???"
+],
+[
 "将士",
 6.4,
 "jiàng shì",
 "officers and soldiers"
+],
+[
+"将就",
+5.14,
+"jiāng jiu",
+"to accept (a bit reluctantly); to put up with"
 ]
 ],
 "strokes": [

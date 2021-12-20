@@ -1,6 +1,6 @@
 {
 "char": "劣",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "bad, inferior; slightly",
 "pron": "liè"
@@ -8,15 +8,27 @@
 "words": [
 [
 "恶劣",
-5,
+7,
 "è liè",
 "vile; nasty; of very poor quality"
 ],
 [
-"优胜劣汰",
-6,
-"yōu shèng liè tài",
-"survival of the fittest (idiom)"
+"劣势",
+7,
+"liè shì",
+"inferior; disadvantaged"
+],
+[
+"劣质",
+7,
+"liè zhì",
+"shoddy; of poor quality"
+],
+[
+"拙劣",
+7,
+"zhuō liè",
+"clumsy; botched"
 ]
 ],
 "extraWords": [
@@ -27,16 +39,10 @@
 "cheap quality counterfeit (goods); low-quality commodities"
 ],
 [
-"劣势",
-6.48,
-"liè shì",
-"inferior; disadvantaged"
-],
-[
-"劣质",
-5.19,
-"liè zhì",
-"shoddy; of poor quality"
+"劣",
+5.8,
+"liè",
+"inferior"
 ]
 ],
 "strokes": [

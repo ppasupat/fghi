@@ -1,6 +1,6 @@
 {
 "char": "逊",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "humble, modest; yield",
 "pron": "xùn"
@@ -8,12 +8,24 @@
 "words": [
 [
 "谦逊",
-6,
+7,
 "qiān xùn",
 "humble; modest; unpretentious; modesty"
+],
+[
+"逊色",
+7,
+"xùn sè",
+"inferior (often in the combination 毫無遜色|毫无逊色, not in the least inferior)"
 ]
 ],
 "extraWords": [
+[
+"逊",
+11.06,
+"xùn",
+"to abdicate; modest; yielding; unpretentious; inferior to; (slang) to suck"
+],
 [
 "约翰逊",
 6.44,

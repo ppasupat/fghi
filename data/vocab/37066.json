@@ -1,6 +1,6 @@
 {
 "char": "郊",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "suburbs; waste land, open spaces",
 "pron": "jiāo"
@@ -8,12 +8,37 @@
 "words": [
 [
 "郊区",
-4,
+5,
 "jiāo qū",
-"suburban district; outskirts; suburbs; CL:個|个[ge4]"
+"suburban district; outskirts; suburbs; CL:个[gè]"
+],
+[
+"郊外",
+7,
+"jiāo wài",
+"outskirts"
+],
+[
+"郊游",
+7,
+"jiāo yóu",
+"to go for an outing; to go on an excursion"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"郊",
+7.14,
+"Jiāo",
+"surname Jiao"
+],
+[
+"郊",
+7.14,
+"jiāo",
+"suburbs; outskirts"
+]
+],
 "strokes": [
 "M 361 801 Q 392 777 425 748 Q 441 735 459 736 Q 472 737 476 752 Q 480 770 469 803 Q 462 825 426 838 Q 342 863 328 855 Q 322 851 325 836 Q 329 823 361 801 Z",
 "M 133 633 Q 120 632 118 624 Q 115 614 129 603 Q 166 576 205 589 Q 349 637 521 661 Q 537 662 537 670 Q 538 682 522 690 Q 497 702 475 697 Q 232 642 133 633 Z",

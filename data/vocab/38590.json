@@ -1,6 +1,6 @@
 {
 "char": "难",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "difficult, arduous, hard; unable",
 "pron": "nán, nàn"
@@ -8,149 +8,233 @@
 "words": [
 [
 "难",
-3,
+1,
 "nán",
 "difficult (to...); problem; difficulty; difficult; not good"
 ],
 [
 "难",
-3,
+1,
 "nàn",
 "disaster; distress; to scold"
 ],
 [
 "难过",
-3,
+2,
 "nán guò",
 "to feel sad; to feel unwell; (of life) to be difficult"
 ],
 [
-"难道",
-4,
-"nán dào",
-"don't tell me ...; could it be that...?"
-],
-[
-"困难",
-4,
-"kùn nan",
-"difficult; challenging; straitened circumstances; difficult situation"
+"难看",
+2,
+"nán kàn",
+"ugly; unsightly"
 ],
 [
 "难受",
-4,
+2,
 "nán shòu",
 "to feel unwell; to suffer pain; to be difficult to bear"
 ],
 [
-"难怪",
-5,
-"nán guài",
-"(it's) no wonder (that...); (it's) not surprising (that)"
+"难题",
+2,
+"nán tí",
+"difficult problem"
+],
+[
+"难听",
+2,
+"nán tīng",
+"unpleasant to hear; coarse; vulgar; offensive; shameful"
+],
+[
+"困难",
+3,
+"kùn nan",
+"difficult; challenging; straitened circumstances; difficult situation"
+],
+[
+"难道",
+3,
+"nán dào",
+"don't tell me ...; could it be that...?"
+],
+[
+"难度",
+3,
+"nán dù",
+"degree of difficulty"
 ],
 [
 "难免",
-5,
+4,
 "nán miǎn",
 "hard to avoid; difficult to escape from; will inevitably"
 ],
 [
 "艰难",
-6,
+5,
 "jiān nán",
 "difficult; hard; challenging"
 ],
 [
-"灾难",
-6,
-"zāi nàn",
-"disaster; catastrophe"
-],
-[
-"难堪",
-6,
-"nán kān",
-"hard to take; embarrassed"
-],
-[
-"为难",
-6,
-"wéi nán",
-"to feel embarrassed or awkward; to make things difficult (for someone); to find things difficult (to do or manage)"
-],
-[
 "难得",
-6,
+5,
 "nán dé",
 "seldom; rare; hard to come by"
 ],
 [
-"难能可贵",
-6,
-"nán néng kě guì",
-"rare and precious; valuable; remarkable"
-]
-],
-"extraWords": [
-[
 "难以",
-94.49,
+5,
 "nán yǐ",
 "hard to (predict, imagine etc)"
 ],
 [
-"难以置信",
-51.63,
-"nán yǐ zhì xìn",
-"hard to believe; incredible"
+"为难",
+5,
+"wéi nán",
+"to feel embarrassed or awkward; to make things difficult (for someone); to find things difficult (to do or manage)"
 ],
 [
-"难度",
-36.49,
-"nán dù",
-"degree of difficulty"
+"灾难",
+5,
+"zāi nàn",
+"disaster; catastrophe"
 ],
 [
-"难题",
-25.01,
-"nán tí",
-"difficult problem"
+"很难说",
+6,
+"???",
+"???"
 ],
 [
 "难忘",
-16.84,
+6,
 "nán wàng",
 "unforgettable"
 ],
 [
-"遇难",
-10.23,
-"yù nàn",
-"to perish; to be killed"
+"避难",
+7,
+"bì nàn",
+"refuge; to take refuge; to seek asylum (political etc)"
+],
+[
+"不难",
+7,
+"???",
+"???"
+],
+[
+"出难题",
+7,
+"chū nán tí",
+"to raise a tough question"
+],
+[
+"刁难",
+7,
+"diāo nàn",
+"to be hard on sb; to deliberately make things difficult"
+],
+[
+"空难",
+7,
+"kōng nàn",
+"air crash; aviation accident or incident"
+],
+[
+"苦难",
+7,
+"kǔ nàn",
+"suffering"
+],
+[
+"磨难",
+7,
+"mó nàn",
+"a torment; a trial; tribulation; a cross (to bear); well-tried"
+],
+[
+"难处",
+7,
+"nán chu",
+"trouble; difficulty; problem"
+],
+[
+"难得一见",
+7,
+"nán dé yī jiàn",
+"rarely seen"
 ],
 [
 "难点",
-8.39,
+7,
 "nán diǎn",
 "difficulty"
 ],
 [
-"难看",
-8.05,
-"nán kàn",
-"ugly; unsightly"
+"难怪",
+7,
+"nán guài",
+"(it's) no wonder (that...); (it's) not surprising (that)"
 ],
 [
 "难关",
-7.63,
+7,
 "nán guān",
 "difficulty; crisis"
 ],
 [
-"苦难",
-7.4,
-"kǔ nàn",
-"suffering"
+"难堪",
+7,
+"nán kān",
+"hard to take; embarrassed"
+],
+[
+"难说",
+7,
+"nán shuō",
+"hard to tell (i.e. hard to judge or hard to predict); cannot bring oneself to say it"
+],
+[
+"难为情",
+7,
+"nán wéi qíng",
+"embarrassed"
+],
+[
+"难以想象",
+7,
+"???",
+"???"
+],
+[
+"难以置信",
+7,
+"nán yǐ zhì xìn",
+"hard to believe; incredible"
+],
+[
+"遇难",
+7,
+"yù nàn",
+"to perish; to be killed"
+]
+],
+"extraWords": [
+[
+"很难",
+83.23,
+"???",
+"???"
+],
+[
+"难于",
+6.26,
+"???",
+"???"
 ],
 [
 "避难所",

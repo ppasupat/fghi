@@ -1,6 +1,6 @@
 {
 "char": "肺",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "lungs",
 "pron": "fèi"
@@ -10,7 +10,7 @@
 "肺",
 6,
 "fèi",
-"lung; CL:個|个[ge4]"
+"lung; CL:个[gè]"
 ]
 ],
 "extraWords": [
@@ -25,6 +25,12 @@
 7.3,
 "fèi yán",
 "pneumonia; inflammation of the lungs"
+],
+[
+"肺部",
+5.84,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,16 +1,16 @@
 {
 "char": "有",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "have, own, possess; exist",
 "pron": "yǒu"
 },
 "words": [
 [
-"有",
+"还有",
 1,
-"yǒu",
-"to have; there is; there are; to exist; to be"
+"hái yǒu",
+"furthermore; in addition; still; also"
 ],
 [
 "没有",
@@ -19,22 +19,124 @@
 "haven't; hasn't; doesn't exist; to not have; to not be"
 ],
 [
-"只有",
-3,
-"zhǐ yǒu",
-"only have ...; there is only ...; (used in combination with 才[cai2]) it is only if one ... (that one can ...) (Example: 只有通過治療才能痊愈|只有通过治疗才能痊愈[zhi3 you3 tong1 guo4 zhi4 liao2 cai2 neng2 quan2 yu4] \"the only way to cure it is with therapy\"); it is only ... (who ...) (Example: 只有男性才有此需要[zhi3 you3 nan2 xing4 cai2 you3 ci3 xu1 yao4] \"only men would have such a requirement\"); (used to indicate that one has no alternative) one can only (do a certain thing) (Example: 只有屈服[zhi3 you3 qu1 fu2] \"the only thing you can do is give in\")"
+"有",
+1,
+"yǒu",
+"to have; there is; there are; to exist; to be"
+],
+[
+"有的",
+1,
+"yǒu de",
+"(there are) some (who are...); some (exist)"
 ],
 [
 "有名",
-3,
+1,
 "yǒu míng",
 "famous; well-known"
 ],
 [
+"有时候",
+1,
+"yǒu shí hou",
+"sometimes"
+],
+[
+"有时",
+1,
+"yǒu shí",
+"sometimes; now and then"
+],
+[
+"有些",
+1,
+"yǒu xiē",
+"some; somewhat"
+],
+[
+"有用",
+1,
+"yǒu yòng",
+"useful"
+],
+[
 "所有",
-4,
+2,
 "suǒ yǒu",
 "all; to have; to possess; to own"
+],
+[
+"有空儿",
+2,
+"yǒu kòng",
+"to have time (to do sth)"
+],
+[
+"有人",
+2,
+"yǒu rén",
+"someone; people; anyone; there is someone there; occupied (as in restroom)"
+],
+[
+"有点儿",
+2,
+"yǒu diǎn r5",
+"slightly; a little; somewhat"
+],
+[
+"有意思",
+2,
+"yǒu yì si",
+"interesting; meaningful; enjoyable; fun"
+],
+[
+"共有",
+3,
+"gòng yǒu",
+"to have altogether; in all"
+],
+[
+"具有",
+3,
+"jù yǒu",
+"to have; to possess"
+],
+[
+"有的是",
+3,
+"yǒu de shì",
+"have plenty of; there's no lack of"
+],
+[
+"有利",
+3,
+"yǒu lì",
+"advantageous; to have advantages; favorable"
+],
+[
+"有效",
+3,
+"yǒu xiào",
+"effective; in effect; valid"
+],
+[
+"只有",
+3,
+"zhǐ yǒu",
+"only have ...; there is only ...; (used in combination with 才[cái]) it is only if one ... (that one can ...) (Example: 只有通过治疗才能痊愈[zhǐ yǒu tōng guò zhì liáo cái néng quán yù] \"the only way to cure it is with therapy\"); it is only ... (who ...) (Example: 只有男性才有此需要[zhǐ yǒu nán xìng cái yǒu cǐ xū yào] \"only men would have such a requirement\"); (used to indicate that one has no alternative) one can only (do a certain thing) (Example: 只有屈服[zhǐ yǒu qū fú] \"the only thing you can do is give in\")"
+],
+[
+"含有",
+4,
+"hán yǒu",
+"to contain; including"
+],
+[
+"有劲儿",
+4,
+"yǒu jìn",
+"vigorous; energetic; interesting; amusing"
 ],
 [
 "有趣",
@@ -43,79 +145,289 @@
 "interesting; fascinating; amusing"
 ],
 [
-"有利",
+"有限",
+4,
+"yǒu xiàn",
+"limited; finite"
+],
+[
+"带有",
 5,
-"yǒu lì",
-"advantageous; to have advantages; favorable"
+"dài yǒu",
+"to have; to involve"
+],
+[
+"特有",
+5,
+"tè yǒu",
+"specific (to); characteristic (of); distinctive"
+],
+[
+"现有",
+5,
+"xiàn yǒu",
+"currently existing; currently available"
 ],
 [
 "拥有",
-6,
+5,
 "yōng yǒu",
 "to have; to possess"
 ],
 [
-"岂有此理",
-6,
-"qǐ yǒu cǐ lǐ",
-"how can this be so? (idiom); preposterous; ridiculous; absurd"
+"有毒",
+5,
+"yǒu dú",
+"poisonous"
 ],
 [
-"有条不紊",
-6,
-"yǒu tiáo bù wěn",
-"regular and thorough (idiom); methodically arranged"
+"有害",
+5,
+"yǒu hài",
+"destructive; harmful; damaging"
 ],
 [
-"固有",
-6,
-"gù yǒu",
-"intrinsic to sth; inherent; native"
+"有力",
+5,
+"yǒu lì",
+"powerful; forceful; vigorous"
 ],
 [
-"津津有味",
-6,
-"jīn jīn yǒu wèi",
-"with keen interest (idiom); with great pleasure; with gusto; eagerly"
-]
+"有利于",
+5,
+"yǒu lì yú",
+"to be advantageous to; to be beneficial for"
 ],
-"extraWords": [
 [
-"还有",
-1071.11,
-"hái yǒu",
-"furthermore; in addition; still; also"
+"有着",
+5,
+"yǒu zhe",
+"to have; to possess"
+],
+[
+"原有",
+5,
+"yuán yǒu",
+"original; former"
+],
+[
+"占有",
+5,
+"zhàn yǒu",
+"to have; to own; to hold; to occupy; to possess; to account for (a high proportion etc)"
+],
+[
+"持有",
+6,
+"chí yǒu",
+"to hold (passport, views etc)"
+],
+[
+"富有",
+6,
+"fù yǒu",
+"rich; full of"
 ],
 [
 "有关",
-403.84,
+6,
 "yǒu guān",
 "to have sth to do with; to relate to; related to; to concern; concerning"
 ],
 [
-"有人",
-294.43,
-"yǒu rén",
-"someone; people; anyone; there is someone there; occupied (as in restroom)"
+"有没有",
+6,
+"yǒu méi yǒu",
+"(before a noun) Do (you, they etc) have ...?; Is there a ...?; (before a verb) Did (you, they etc) (verb, infinitive)?; Have (you, they etc) (verb, past participle)?"
 ],
 [
-"具有",
-292.32,
-"jù yǒu",
-"to have; to possess"
+"有事",
+6,
+"yǒu shì",
+"to be occupied with sth; to have sth on one's mind; there is something the matter"
 ],
 [
-"有些",
-284.59,
-"yǒu xiē",
-"some; somewhat"
+"彬彬有礼",
+7,
+"bīn bīn yǒu lǐ",
+"refined and courteous; urbane"
 ],
 [
-"有效",
-180.5,
-"yǒu xiào",
-"effective; in effect; valid"
+"大有可为",
+7,
+"dà yǒu kě wéi",
+"with great prospects for the future (idiom); well worth doing"
 ],
+[
+"负有",
+7,
+"fù yǒu",
+"to be responsible for"
+],
+[
+"国有",
+7,
+"guó yǒu",
+"nationalized; public; government owned; state-owned"
+],
+[
+"患有",
+7,
+"huàn yǒu",
+"to contract (an illness); to be afflicted with; to suffer from"
+],
+[
+"津津有味",
+7,
+"jīn jīn yǒu wèi",
+"with keen interest (idiom); with great pleasure; with gusto; eagerly"
+],
+[
+"岂有此理",
+7,
+"qǐ yǒu cǐ lǐ",
+"how can this be so? (idiom); preposterous; ridiculous; absurd"
+],
+[
+"前所未有",
+7,
+"qián suǒ wèi yǒu",
+"unprecedented"
+],
+[
+"少有",
+7,
+"shǎo yǒu",
+"rare; infrequent"
+],
+[
+"私有",
+7,
+"sī yǒu",
+"private; privately-owned"
+],
+[
+"享有",
+7,
+"xiǎng yǒu",
+"to enjoy (rights, privileges etc)"
+],
+[
+"胸有成竹",
+7,
+"xiōng yǒu chéng zhú",
+"to plan in advance (idiom); a card up one's sleeve; forewarned is forearmed"
+],
+[
+"一无所有",
+7,
+"yī wú suǒ yǒu",
+"not having anything at all (idiom); utterly lacking; without two sticks to rub together"
+],
+[
+"应有尽有",
+7,
+"yīng yǒu jìn yǒu",
+"everything that should be here is here (idiom); all one can think of is on hand; to have all one needs"
+],
+[
+"有待",
+7,
+"yǒu dài",
+"not yet (done); pending"
+],
+[
+"有的放矢",
+7,
+"yǒu dì fàng shǐ",
+"lit. to have a target in mind when shooting one's arrows (idiom); fig. to have a clear objective"
+],
+[
+"有机",
+7,
+"yǒu jī",
+"organic"
+],
+[
+"有口无心",
+7,
+"yǒu kǒu wú xīn",
+"to speak harshly but without any bad intent (idiom)"
+],
+[
+"有两下子",
+7,
+"yǒu liǎng xià zi",
+"to have real skill; to know one's stuff"
+],
+[
+"有声有色",
+7,
+"yǒu shēng yǒu sè",
+"having sound and color (idiom); vivid; dazzling"
+],
+[
+"有所",
+7,
+"yǒu suǒ",
+"somewhat; to some extent"
+],
+[
+"有所不同",
+7,
+"yǒu suǒ bù tóng",
+"to differ to some extent (idiom)"
+],
+[
+"有望",
+7,
+"yǒu wàng",
+"hopeful; promising"
+],
+[
+"有效期",
+7,
+"yǒu xiào qī",
+"period of validity; sell-by date"
+],
+[
+"有幸",
+7,
+"yǒu xìng",
+"fortunately"
+],
+[
+"有序",
+7,
+"yǒu xù",
+"regular; orderly; successive; in order"
+],
+[
+"有益",
+7,
+"yǒu yì",
+"useful; beneficial; profitable"
+],
+[
+"有意",
+7,
+"yǒu yì",
+"to intend; intentionally; interested in"
+],
+[
+"有朝一日",
+7,
+"yǒu zhāo yī rì",
+"one day; sometime in the future"
+],
+[
+"有助于",
+7,
+"yǒu zhù yú",
+"to contribute to; to promote"
+]
+],
+"extraWords": [
 [
 "有点",
 175.79,
@@ -123,10 +435,10 @@
 "a little"
 ],
 [
-"有的",
-171.34,
-"yǒu de",
-"(there are) some (who are...); some (exist)"
+"并没有",
+105.5,
+"???",
+"???"
 ],
 [
 "有限公司",
@@ -135,100 +447,34 @@
 "limited company; corporation"
 ],
 [
-"有所",
-91.59,
-"yǒu suǒ",
-"somewhat; to some extent"
+"已有",
+70.53,
+"???",
+"???"
 ],
 [
-"有意思",
-90.29,
-"yǒu yì si",
-"interesting; meaningful; enjoyable; fun"
+"有奖",
+53.1,
+"???",
+"???"
 ],
 [
-"有着",
-87.45,
-"yǒu zhe",
-"to have; to possess"
+"有感而发",
+38.4,
+"???",
+"???"
 ],
 [
-"有时",
-77.12,
-"yǒu shí",
-"sometimes; now and then"
-],
-[
-"有时候",
-72.82,
-"yǒu shí hou",
-"sometimes"
-],
-[
-"有利于",
-61.58,
-"yǒu lì yú",
-"to be advantageous to; to be beneficial for"
-],
-[
-"持有",
-54.71,
-"chí yǒu",
-"to hold (passport, views etc)"
-],
-[
-"有限",
-53.76,
-"yǒu xiàn",
-"limited; finite"
-],
-[
-"现有",
-53.6,
-"xiàn yǒu",
-"currently existing; currently available"
-],
-[
-"共有",
-52.32,
-"gòng yǒu",
-"to have altogether; in all"
-],
-[
-"国有",
-44.93,
-"guó yǒu",
-"nationalized; public; government owned; state-owned"
-],
-[
-"有望",
-37.71,
-"yǒu wàng",
-"hopeful; promising"
-],
-[
-"有力",
-35.06,
-"yǒu lì",
-"powerful; forceful; vigorous"
-],
-[
-"含有",
-33.94,
-"hán yǒu",
-"to contain; including"
+"所有人",
+31.44,
+"???",
+"???"
 ],
 [
 "国有企业",
 30.77,
 "guó yǒu qǐ yè",
 "nationalized business; state-owned business"
-],
-[
-"原有",
-28.41,
-"yuán yǒu",
-"original; former"
 ],
 [
 "有钱",
@@ -243,12 +489,6 @@
 "joint-stock limited company; corporation"
 ],
 [
-"有助于",
-26.49,
-"yǒu zhù yú",
-"to contribute to; to promote"
-],
-[
 "有空",
 24.83,
 "yǒu kòng",
@@ -261,46 +501,28 @@
 "proper"
 ],
 [
-"富有",
-23.29,
-"fù yǒu",
-"rich; full of"
-],
-[
-"有机",
-22.16,
-"yǒu jī",
-"organic"
-],
-[
 "有种",
 21.52,
 "yǒu zhǒng",
 "to have guts; to have courage; to be brave"
 ],
 [
-"享有",
-19.98,
-"xiǎng yǒu",
-"to enjoy (rights, privileges etc)"
+"均有",
+21.01,
+"???",
+"???"
 ],
 [
-"有意",
-19.25,
-"yǒu yì",
-"to intend; intentionally; interested in"
+"国有资产",
+18.8,
+"???",
+"???"
 ],
 [
-"有用",
-18.33,
-"yǒu yòng",
-"useful"
-],
-[
-"有事",
-18.04,
-"yǒu shì",
-"to be occupied with sth; to have sth on one's mind; there is something the matter"
+"有问题",
+18.41,
+"???",
+"???"
 ],
 [
 "既有",
@@ -315,34 +537,22 @@
 "able"
 ],
 [
-"有待",
-17.38,
-"yǒu dài",
-"not yet (done); pending"
-],
-[
 "有一点",
 15.92,
 "yǒu yī diǎn",
 "a little; somewhat"
 ],
 [
-"有害",
-15.32,
-"yǒu hài",
-"destructive; harmful; damaging"
+"颇有",
+15.39,
+"???",
+"???"
 ],
 [
-"有益",
-13.98,
-"yǒu yì",
-"useful; beneficial; profitable"
-],
-[
-"特有",
-13.96,
-"tè yǒu",
-"specific (to); characteristic (of); distinctive"
+"有限责任公司",
+15.01,
+"???",
+"???"
 ],
 [
 "有期徒刑",
@@ -357,10 +567,22 @@
 "since the beginning of history"
 ],
 [
-"前所未有",
-12.08,
-"qián suǒ wèi yǒu",
-"unprecedented"
+"有关方面",
+12.66,
+"???",
+"???"
+],
+[
+"哪有",
+12.63,
+"???",
+"???"
+],
+[
+"有信心",
+12.14,
+"???",
+"???"
 ],
 [
 "有兴趣",
@@ -381,16 +603,16 @@
 "there is much; (literary) abundance"
 ],
 [
+"有才",
+11.57,
+"???",
+"???"
+],
+[
 "有道理",
 11.51,
 "yǒu dào li",
 "to make sense; reasonable"
-],
-[
-"一无所有",
-11.33,
-"yī wú suǒ yǒu",
-"not having anything at all (idiom); utterly lacking; without two sticks to rub together"
 ],
 [
 "所有权",
@@ -411,28 +633,40 @@
 "holder"
 ],
 [
-"有的是",
-9.79,
-"yǒu de shì",
-"have plenty of; there's no lack of"
+"有病",
+9.31,
+"???",
+"???"
 ],
 [
-"有毒",
-9.1,
-"yǒu dú",
-"poisonous"
+"有计划",
+9.25,
+"???",
+"???"
 ],
 [
-"带有",
-9.06,
-"dài yǒu",
-"to have; to involve"
+"尚有",
+9.2,
+"???",
+"???"
+],
+[
+"占有率",
+9.19,
+"???",
+"???"
 ],
 [
 "有希望",
 8.98,
 "yǒu xī wàng",
 "hopeful; promising; prospective"
+],
+[
+"有数",
+8.97,
+"???",
+"???"
 ],
 [
 "强有力",
@@ -447,10 +681,10 @@
 "ownership of the means of production (in Marxism); system of ownership"
 ],
 [
-"少有",
-8.07,
-"shǎo yǒu",
-"rare; infrequent"
+"有效率",
+8.03,
+"???",
+"???"
 ],
 [
 "有心",
@@ -465,16 +699,34 @@
 "sometimes; at times"
 ],
 [
+"再也没有",
+7.76,
+"???",
+"???"
+],
+[
+"时有",
+7.5,
+"???",
+"???"
+],
+[
 "独有",
 7.17,
 "dú yǒu",
 "to own exclusively; unique to; specific; there is only"
 ],
 [
-"有点儿",
-7.1,
-"yǒu diǎn r5",
-"slightly; a little; somewhat"
+"没有用",
+7.17,
+"???",
+"???"
+],
+[
+"常有",
+6.99,
+"???",
+"???"
 ],
 [
 "有请",
@@ -489,16 +741,22 @@
 "cable television"
 ],
 [
+"有关系",
+6.91,
+"???",
+"???"
+],
+[
 "有色金属",
 6.85,
 "yǒu sè jīn shǔ",
 "non-ferrous metals (all metals excluding iron, chromium, manganese and their alloys)"
 ],
 [
-"占有",
-6.65,
-"zhàn yǒu",
-"to have; to own; to hold; to occupy; to possess; to account for (a high proportion etc)"
+"稍有",
+6.74,
+"???",
+"???"
 ],
 [
 "有理",
@@ -513,28 +771,16 @@
 "to be like sth; similar to; alike"
 ],
 [
-"有幸",
-6.39,
-"yǒu xìng",
-"fortunately"
+"固有",
+6.38,
+"gù yǒu",
+"intrinsic to sth; inherent; native"
 ],
 [
 "有缘",
 6.22,
 "yǒu yuán",
 "related; brought together by fate"
-],
-[
-"有所不同",
-6.09,
-"yǒu suǒ bù tóng",
-"to differ to some extent (idiom)"
-],
-[
-"有效期",
-5.89,
-"yǒu xiào qī",
-"period of validity; sell-by date"
 ],
 [
 "有余",
@@ -565,6 +811,18 @@
 5.43,
 "yǒu xiào xìng",
 "validity"
+],
+[
+"有关单位",
+5.43,
+"???",
+"???"
+],
+[
+"国有股",
+5.02,
+"???",
+"???"
 ],
 [
 "有资格",

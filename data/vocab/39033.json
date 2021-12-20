@@ -1,6 +1,6 @@
 {
 "char": "项",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "neck, nape of neck; sum; funds",
 "pron": "xiàng"
@@ -8,36 +8,66 @@
 "words": [
 [
 "项",
-5,
+4,
 "Xiàng",
 "surname Xiang"
 ],
 [
 "项",
-5,
+4,
 "xiàng",
 "back of neck; item; thing; term (in a mathematical formula); sum (of money); classifier for principles, items, clauses, tasks, research projects etc"
 ],
 [
 "项目",
-5,
+4,
 "xiàng mù",
-"item; project; (sports) event; CL:個|个[ge4]"
+"item; project; (sports) event; CL:个[gè]"
 ],
 [
-"项链",
-5,
-"xiàng liàn",
-"necklace; CL:條|条[tiao2]"
+"奖项",
+7,
+"jiǎng xiàng",
+"award; prize; CL:项[xiàng]"
+],
+[
+"款项",
+7,
+"kuǎn xiàng",
+"funds; a sum of money; CL:宗[zōng]"
+],
+[
+"强项",
+7,
+"qiáng xiàng",
+"key strength; strong suit; specialty"
 ],
 [
 "事项",
-6,
+7,
 "shì xiàng",
 "matter; item"
+],
+[
+"项链",
+7,
+"xiàng liàn",
+"necklace; CL:条[tiáo]"
+],
+[
+"选项",
+7,
+"xuǎn xiàng",
+"to make a choice (between several alternatives); a choice; an option; an alternative"
 ]
 ],
 "extraWords": [
+[
+"各项",
+70.65,
+"???",
+"???"
+],
 [
 "专项",
 39.0,
@@ -45,10 +75,16 @@
 "special; dedicated"
 ],
 [
-"款项",
-8.42,
-"kuǎn xiàng",
-"funds; a sum of money; CL:宗[zong1]"
+"多项",
+11.98,
+"???",
+"???"
+],
+[
+"这项",
+8.14,
+"???",
+"???"
 ],
 [
 "单项",

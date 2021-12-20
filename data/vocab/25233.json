@@ -1,6 +1,6 @@
 {
 "char": "抑",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "press down, repress; curb, hinder",
 "pron": "yì"
@@ -8,23 +8,41 @@
 "words": [
 [
 "压抑",
-6,
+7,
 "yā yì",
 "to constrain or repress emotions; oppressive; stifling; depressing; repression"
+],
+[
+"抑扬顿挫",
+7,
+"yì yáng dùn cuò",
+"see 顿挫抑扬[dùn cuò yì yáng]"
+],
+[
+"抑郁",
+7,
+"yì yù",
+"depressed; despondent; gloomy; depression"
+],
+[
+"抑郁症",
+7,
+"yì yù zhèng",
+"clinical depression"
+],
+[
+"抑制",
+7,
+"yì zhì",
+"to inhibit; to keep down; to suppress"
 ]
 ],
 "extraWords": [
 [
-"抑制",
-43.16,
-"yì zhì",
-"to inhibit; to keep down; to suppress"
-],
-[
-"抑郁",
-8.08,
-"yì yù",
-"depressed; despondent; gloomy; depression"
+"抑",
+7.9,
+"yì",
+"to restrain; to restrict; to keep down; or"
 ]
 ],
 "strokes": [

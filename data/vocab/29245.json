@@ -1,14 +1,26 @@
 {
 "char": "爽",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "happy, cheerful; refreshing",
 "pron": "shuǎng"
 },
 "words": [
 [
-"爽快",
+"爽",
 6,
+"shuǎng",
+"bright; clear; crisp; open; frank; straightforward; to feel well; fine; pleasurable; invigorating; to deviate"
+],
+[
+"凉爽",
+7,
+"liáng shuǎng",
+"cool and refreshing"
+],
+[
+"爽快",
+7,
 "shuǎng kuai",
 "refreshed; rejuvenated; frank and straightforward"
 ]

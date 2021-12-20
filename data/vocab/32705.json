@@ -1,17 +1,30 @@
 {
 "char": "翁",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "old man; father, father-in-law",
 "pron": "wēng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "富翁",
-7.93,
+7,
 "fù wēng",
 "rich person; millionaire; billionaire"
+]
+],
+"extraWords": [
+[
+"翁",
+6.23,
+"Wēng",
+"surname Weng"
+],
+[
+"翁",
+6.23,
+"wēng",
+"elderly man; father; father-in-law; neck feathers of a bird (old)"
 ]
 ],
 "strokes": [

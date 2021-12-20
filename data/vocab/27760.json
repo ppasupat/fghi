@@ -1,6 +1,6 @@
 {
 "char": "汰",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "excessive; scour, wash out",
 "pron": "tài"
@@ -8,18 +8,25 @@
 "words": [
 [
 "淘汰",
-6,
+7,
 "táo tài",
 "to wash out; (fig.) to cull; to weed out; to eliminate; to die out; to phase out"
+]
+],
+"extraWords": [
+[
+"淘汰赛",
+2.67,
+"táo tài sài",
+"a knockout competition"
 ],
 [
 "优胜劣汰",
-6,
+2.2,
 "yōu shèng liè tài",
 "survival of the fittest (idiom)"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 234 646 Q 262 622 291 594 Q 306 581 323 581 Q 335 582 340 596 Q 346 612 335 645 Q 323 679 228 699 Q 212 703 204 699 Q 198 695 200 681 Q 204 668 234 646 Z",
 "M 119 448 Q 170 397 210 383 Q 226 382 235 396 Q 239 411 236 428 Q 217 474 153 484 Q 117 497 101 489 Q 94 488 98 474 Q 101 461 119 448 Z",

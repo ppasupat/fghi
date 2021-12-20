@@ -1,68 +1,62 @@
 {
 "char": "指",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "finger, toe; point, indicate",
 "pron": "zhǐ"
 },
 "words": [
 [
+"手指",
+3,
+"shǒu zhǐ",
+"finger; CL:个[gè],只[zhī]"
+],
+[
 "指",
-4,
+3,
 "zhǐ",
 "finger; to point at or to; to indicate or refer to; to depend on; to count on; (of hair) to stand on end"
 ],
 [
-"戒指",
-5,
-"jiè zhi",
-"(finger) ring"
-],
-[
-"手指",
-5,
-"shǒu zhǐ",
-"finger; CL:個|个[ge4],隻|只[zhi1]"
-],
-[
-"指挥",
-5,
-"zhǐ huī",
-"to conduct; to command; to direct; conductor (of an orchestra); CL:個|个[ge4]"
+"指出",
+3,
+"zhǐ chū",
+"to indicate; to point out"
 ],
 [
 "指导",
-5,
+3,
 "zhǐ dǎo",
-"to guide; to give directions; to direct; to coach; guidance; tuition; CL:個|个[ge4]"
+"to guide; to give directions; to direct; to coach; guidance; tuition; CL:个[gè]"
 ],
 [
-"指望",
-6,
-"zhǐ wàng",
-"to hope for sth; to count on; hope"
+"指挥",
+4,
+"zhǐ huī",
+"to conduct; to command; to direct; conductor (of an orchestra); CL:个[gè]"
 ],
 [
-"指示",
-6,
-"zhǐ shì",
-"to point out; to indicate; to instruct; directives; instructions; CL:個|个[ge4]"
+"指标",
+5,
+"zhǐ biāo",
+"(production) target; quota; index; indicator; sign; signpost; (computing) pointer"
 ],
 [
 "指甲",
-6,
+5,
 "zhǐ jia",
 "fingernail"
 ],
 [
-"指令",
-6,
-"zhǐ lìng",
-"order; command; instruction"
+"指示",
+5,
+"zhǐ shì",
+"to point out; to indicate; to instruct; directives; instructions; CL:个[gè]"
 ],
 [
 "指责",
-6,
+5,
 "zhǐ zé",
 "to criticize; to find fault with; to denounce"
 ],
@@ -73,31 +67,85 @@
 "to appoint; to assign; to indicate clearly and with certainty; designated"
 ],
 [
-"指南针",
+"指数",
 6,
+"zhǐ shù",
+"(numerical, statistical) index; (math.) exponent; index; exponential (function, growth)"
+],
+[
+"指头",
+6,
+"zhǐ tou",
+"finger; toe; CL:个[gè]"
+],
+[
+"指着",
+6,
+"???",
+"???"
+],
+[
+"戒指",
+7,
+"jiè zhi",
+"(finger) ring"
+],
+[
+"指点",
+7,
+"zhǐ diǎn",
+"to point out; to indicate; to give directions; to show how (to do sth); to censure; to pick at"
+],
+[
+"指教",
+7,
+"zhǐ jiào",
+"to give advice or comments"
+],
+[
+"指令",
+7,
+"zhǐ lìng",
+"order; command; instruction"
+],
+[
+"指南",
+7,
+"zhǐ nán",
+"to guide; guidebook"
+],
+[
+"指南针",
+7,
 "zhǐ nán zhēn",
 "compass"
 ],
 [
-"指标",
-6,
-"zhǐ biāo",
-"(production) target; quota; index; indicator; sign; signpost; (computing) pointer"
+"指手画脚",
+7,
+"zhǐ shǒu huà jiǎo",
+"to gesticulate while talking (idiom); to explain by waving one's hands; to criticize or give orders summarily"
+],
+[
+"指望",
+7,
+"zhǐ wàng",
+"to hope for sth; to count on; hope"
+],
+[
+"指向",
+7,
+"zhǐ xiàng",
+"to point towards; aimed at; facing; the direction indicated"
+],
+[
+"指引",
+7,
+"zhǐ yǐn",
+"to guide; to show; to point (the way); directions; guidance; guidelines"
 ]
 ],
 "extraWords": [
-[
-"指出",
-170.18,
-"zhǐ chū",
-"to indicate; to point out"
-],
-[
-"指数",
-93.54,
-"zhǐ shù",
-"(numerical, statistical) index; (math.) exponent; index; exponential (function, growth)"
-],
 [
 "指纹",
 56.01,
@@ -114,7 +162,7 @@
 "股指",
 25.87,
 "gǔ zhǐ",
-"stock market index; share price index; abbr. for 股票指數|股票指数[gu3 piao4 zhi3 shu4]"
+"stock market index; share price index; abbr. for 股票指数[gǔ piào zhǐ shù]"
 ],
 [
 "指挥官",
@@ -123,40 +171,22 @@
 "commander"
 ],
 [
-"指引",
-13.12,
-"zhǐ yǐn",
-"to guide; to show; to point (the way); directions; guidance; guidelines"
-],
-[
-"指南",
-10.64,
-"zhǐ nán",
-"to guide; guidebook"
-],
-[
 "指挥部",
 10.57,
 "zhǐ huī bù",
 "headquarters; command post"
 ],
 [
-"指向",
-9.31,
-"zhǐ xiàng",
-"to point towards; aimed at; facing; the direction indicated"
-],
-[
-"指点",
-7.09,
-"zhǐ diǎn",
-"to point out; to indicate; to give directions; to show how (to do sth); to censure; to pick at"
-],
-[
 "拇指",
 6.53,
 "mǔ zhǐ",
 "thumb; big toe"
+],
+[
+"综指",
+6.27,
+"???",
+"???"
 ],
 [
 "指派",

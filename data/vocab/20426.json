@@ -1,19 +1,56 @@
 {
 "char": "俊",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "talented, capable; handsome",
 "pron": "jùn"
 },
 "words": [
 [
+"俊",
+7,
+"jùn",
+"old variant of 俊[jùn]"
+],
+[
+"俊",
+7,
+"jùn",
+"smart; eminent; handsome; talented"
+],
+[
+"俊",
+7,
+"zùn",
+"(dialectal pronunciation of 俊[jùn]); cool; neat"
+],
+[
+"俊",
+7,
+"jùn",
+"variant of 俊[jùn]"
+],
+[
+"俊俏",
+7,
+"jùn qiào",
+"attractive and intelligent; charming; elegant"
+],
+[
 "英俊",
-5,
+7,
 "yīng jùn",
 "handsome"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"丁俊晖",
+8.38,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 233 498 Q 284 559 339 644 Q 367 693 393 716 Q 403 728 399 742 Q 395 755 365 780 Q 338 799 318 800 Q 299 799 307 775 Q 320 742 307 714 Q 267 621 206 536 Q 148 454 68 364 Q 58 354 55 347 Q 51 335 65 338 Q 102 342 206 467 L 233 498 Z",
 "M 206 467 Q 227 395 229 365 Q 228 341 228 316 Q 227 213 198 107 Q 188 62 222 11 Q 223 11 225 8 Q 243 -8 255 19 Q 270 59 269 106 Q 272 356 281 412 Q 288 439 279 450 Q 237 496 233 498 C 211 519 198 496 206 467 Z",

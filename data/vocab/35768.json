@@ -1,54 +1,90 @@
 {
 "char": "许",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "allow, permit; promise; betroth",
 "pron": "xǔ"
 },
 "words": [
 [
-"也许",
-4,
-"yě xǔ",
-"perhaps; maybe"
-],
-[
-"允许",
-4,
-"yǔn xǔ",
-"to permit; to allow"
-],
-[
 "许多",
-4,
+2,
 "xǔ duō",
 "many; a lot of; much"
 ],
 [
+"也许",
+2,
+"yě xǔ",
+"perhaps; maybe"
+],
+[
 "或许",
-5,
+4,
 "huò xǔ",
 "perhaps; maybe"
 ],
 [
-"许可",
-6,
-"xǔ kě",
-"to allow; to permit"
-]
-],
-"extraWords": [
-[
 "不许",
-63.49,
+5,
 "bù xǔ",
 "not to allow; must not; can't"
 ],
 [
+"许可",
+5,
+"xǔ kě",
+"to allow; to permit"
+],
+[
+"允许",
+6,
+"yǔn xǔ",
+"to permit; to allow"
+],
+[
+"容许",
+7,
+"róng xǔ",
+"to permit; to allow"
+],
+[
+"许",
+7,
+"Xǔ",
+"surname Xu"
+],
+[
+"许",
+7,
+"xǔ",
+"to allow; to permit; to promise; to praise; somewhat; perhaps"
+],
+[
 "许可证",
-19.29,
+7,
 "xǔ kě zhèng",
 "license; authorization; permit"
+],
+[
+"赞许",
+7,
+"zàn xǔ",
+"to praise; to laud"
+],
+[
+"准许",
+7,
+"zhǔn xǔ",
+"to allow; to grant; to permit"
+]
+],
+"extraWords": [
+[
+"许多人",
+21.08,
+"???",
+"???"
 ],
 [
 "少许",

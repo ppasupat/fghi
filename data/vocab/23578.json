@@ -1,66 +1,72 @@
 {
 "char": "尚",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "still, yet; even; fairly, rather",
 "pron": "shàng"
 },
 "words": [
 [
-"时尚",
-5,
-"shí shàng",
-"fashion; fad; fashionable"
-],
-[
 "高尚",
-6,
+4,
 "gāo shàng",
 "noble; lofty; refined; exquisite"
 ],
 [
-"礼尚往来",
-6,
-"lǐ shàng wǎng lái",
-"lit. proper behavior is based on reciprocity (idiom); fig. to return politeness for politeness"
-],
-[
-"尚且",
-6,
-"shàng qiě",
-"(not) even; yet; still"
-]
-],
-"extraWords": [
-[
-"尚未",
-49.94,
-"shàng wèi",
-"not yet; still not"
-],
-[
-"和尚",
-17.49,
-"hé shang",
-"Buddhist monk"
+"崇尚",
+7,
+"chóng shàng",
+"to hold up (as an model); to hold in esteem; to revere; to advocate"
 ],
 [
 "风尚",
-6.21,
+7,
 "fēng shàng",
 "current custom; current way of doing things"
 ],
 [
-"崇尚",
-5.41,
-"chóng shàng",
-"to hold up (as an model); to hold in esteem; to revere; to advocate"
+"和尚",
+7,
+"hé shang",
+"Buddhist monk"
+],
+[
+"尚",
+7,
+"Shàng",
+"surname Shang"
+],
+[
+"尚",
+7,
+"shàng",
+"still; yet; to value; to esteem"
+],
+[
+"尚未",
+7,
+"shàng wèi",
+"not yet; still not"
+],
+[
+"时尚",
+7,
+"shí shàng",
+"fashion; fad; fashionable"
+]
+],
+"extraWords": [
+[
+"尚有",
+9.2,
+"???",
+"???"
 ],
 [
 "尚书",
 5.36,
 "Shàng shū",
-"same as 書經|书经[Shu1 jing1] Book of History"
+"same as 书经[Shū jīng] Book of History"
 ],
 [
 "尚书",

@@ -1,6 +1,6 @@
 {
 "char": "醉",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "intoxicated, drunk; addicted to",
 "pron": "zuì"
@@ -14,13 +14,19 @@
 ],
 [
 "麻醉",
-6,
+7,
 "má zuì",
 "anesthesia; (fig.) to poison (sb's mind)"
 ],
 [
+"如醉如痴",
+7,
+"rú zuì rú chī",
+"lit. as if drunk and stupefied (idiom); intoxicated by sth; obsessed with; mad about sth; also written 如痴如醉[rú chī rú zuì]"
+],
+[
 "陶醉",
-6,
+7,
 "táo zuì",
 "to be infatuated with; to be drunk with; to be enchanted with; to revel in"
 ]

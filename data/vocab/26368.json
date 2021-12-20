@@ -1,6 +1,6 @@
 {
 "char": "最",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "most, extremely, exceedingly",
 "pron": "zuì"
@@ -8,53 +8,65 @@
 "words": [
 [
 "最",
-2,
+1,
 "zuì",
-"variant of 最[zui4]"
+"variant of 最[zuì]"
 ],
 [
 "最",
-2,
+1,
 "zuì",
-"old variant of 最[zui4]"
+"old variant of 最[zuì]"
 ],
 [
 "最",
-2,
+1,
 "zuì",
 "most; the most; -est (superlative suffix)"
 ],
 [
+"最好",
+1,
+"zuì hǎo",
+"best; (you) had better (do what we suggest)"
+],
+[
 "最后",
-3,
+1,
 "zuì hòu",
 "final; last; finally; ultimate"
 ],
 [
 "最近",
-3,
+2,
 "zuì jìn",
 "recently; soon; nearest"
 ],
 [
-"最好",
-4,
-"zuì hǎo",
-"best; (you) had better (do what we suggest)"
-],
-[
 "最初",
-5,
+4,
 "zuì chū",
 "first; primary; initial; original; at first; initially; originally"
+],
+[
+"最佳",
+6,
+"zuì jiā",
+"optimum; optimal; peak; best (athlete, movie etc)"
+],
+[
+"最终",
+6,
+"zuì zhōng",
+"final; ultimate"
 ]
 ],
 "extraWords": [
 [
-"最终",
-173.34,
-"zuì zhōng",
-"final; ultimate"
+"最大",
+246.01,
+"???",
+"???"
 ],
 [
 "最高",
@@ -69,10 +81,10 @@
 "latest; newest"
 ],
 [
-"最佳",
-78.77,
-"zuì jiā",
-"optimum; optimal; peak; best (athlete, movie etc)"
+"最低",
+66.11,
+"???",
+"???"
 ],
 [
 "最多",
@@ -81,10 +93,52 @@
 "at most; maximum; greatest (amount); maximal"
 ],
 [
+"最爱",
+45.46,
+"???",
+"???"
+],
+[
 "最为",
 40.02,
 "zuì wéi",
 "the most"
+],
+[
+"最早",
+25.5,
+"???",
+"???"
+],
+[
+"最快",
+20.83,
+"???",
+"???"
+],
+[
+"最小",
+18.97,
+"???",
+"???"
+],
+[
+"最主要",
+15.02,
+"???",
+"???"
+],
+[
+"最不",
+12.83,
+"???",
+"???"
+],
+[
+"最大限度",
+12.03,
+"???",
+"???"
 ],
 [
 "最少",
@@ -99,6 +153,18 @@
 "(the) very first"
 ],
 [
+"最最",
+8.17,
+"???",
+"???"
+],
+[
+"最低价",
+7.55,
+"???",
+"???"
+],
+[
 "最大化",
 6.76,
 "zuì dà huà",
@@ -109,6 +175,12 @@
 6.12,
 "Zuì gāo Rén mín Fǎ yuàn",
 "Supreme People's Court (PRC)"
+],
+[
+"最好是",
+5.89,
+"???",
+"???"
 ]
 ],
 "strokes": [

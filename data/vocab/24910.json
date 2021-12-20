@@ -1,30 +1,42 @@
 {
 "char": "慎",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "act with care, be cautious",
 "pron": "shèn"
 },
 "words": [
 [
+"不慎",
+7,
+"bù shèn",
+"incautious; inattentive"
+],
+[
 "谨慎",
-5,
+7,
 "jǐn shèn",
 "cautious; prudent"
 ],
 [
 "慎重",
-6,
+7,
 "shèn zhòng",
 "cautious; careful; prudent"
 ]
 ],
 "extraWords": [
 [
-"不慎",
-7.26,
-"bù shèn",
-"incautious; inattentive"
+"慎",
+8.11,
+"shèn",
+"careful; cautious"
+],
+[
+"慎",
+8.11,
+"shèn",
+"old variant of 慎[shèn]"
 ]
 ],
 "strokes": [

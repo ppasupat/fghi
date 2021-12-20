@@ -1,6 +1,6 @@
 {
 "char": "净",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "clean, pure; cleanse",
 "pron": "jìng"
@@ -8,9 +8,45 @@
 "words": [
 [
 "干净",
-3,
+1,
 "gān jìng",
 "clean; neat"
+],
+[
+"纯净水",
+4,
+"chún jìng shuǐ",
+"purified water"
+],
+[
+"净",
+6,
+"jìng",
+"variant of 净[jìng]"
+],
+[
+"净",
+6,
+"jìng",
+"clean; completely; only; net (income, exports etc); (Chinese opera) painted face male role"
+],
+[
+"洁净",
+7,
+"jié jìng",
+"clean; to cleanse"
+],
+[
+"净化",
+7,
+"jìng huà",
+"to purify"
+],
+[
+"一干二净",
+7,
+"yī gān èr jìng",
+"thoroughly (idiom); completely; one and all; very clean"
 ]
 ],
 "extraWords": [
@@ -25,12 +61,6 @@
 13.03,
 "xǐ jìng",
 "to wash clean"
-],
-[
-"净化",
-10.84,
-"jìng huà",
-"to purify"
 ],
 [
 "纯净",

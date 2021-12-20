@@ -1,6 +1,6 @@
 {
 "char": "氨",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "ammonia; hydrogen nitride",
 "pron": "ān"
@@ -8,10 +8,22 @@
 "words": [],
 "extraWords": [
 [
+"氨",
+11.72,
+"ān",
+"ammonia"
+],
+[
 "氨基酸",
 7.27,
 "ān jī suān",
 "amino acid"
+],
+[
+"氨基",
+2.82,
+"ān jī",
+"amino; amino group"
 ]
 ],
 "strokes": [

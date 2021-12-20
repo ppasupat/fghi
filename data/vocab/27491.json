@@ -1,82 +1,112 @@
 {
 "char": "正",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "right, proper, correct",
 "pron": "zhēng, zhèng"
 },
 "words": [
 [
-"正在",
-2,
-"zhèng zài",
-"just at (that time); right in (that place); right in the middle of (doing sth)"
-],
-[
-"真正",
-4,
-"zhēn zhèng",
-"genuine; real; true; genuinely"
-],
-[
-"正常",
-4,
-"zhèng cháng",
-"regular; normal; ordinary"
-],
-[
-"正确",
-4,
-"zhèng què",
-"correct; proper"
-],
-[
-"正好",
-4,
-"zhèng hǎo",
-"just (in time); just right; just enough; to happen to; to chance to; by chance; it just so happens that"
-],
-[
-"正式",
-4,
-"zhèng shì",
-"formal; official"
-],
-[
 "正",
-5,
+1,
 "zhēng",
 "first month of the lunar year"
 ],
 [
 "正",
-5,
+1,
 "zhèng",
 "straight; upright; proper; main; principal; to correct; to rectify; exactly; just (at that time); right (in that place); (math.) positive"
 ],
 [
+"正在",
+1,
+"zhèng zài",
+"just at (that time); right in (that place); right in the middle of (doing sth)"
+],
+[
+"真正",
+2,
+"zhēn zhèng",
+"genuine; real; true; genuinely"
+],
+[
+"正常",
+2,
+"zhèng cháng",
+"regular; normal; ordinary"
+],
+[
+"正好",
+2,
+"zhèng hǎo",
+"just (in time); just right; just enough; to happen to; to chance to; by chance; it just so happens that"
+],
+[
+"正确",
+2,
+"zhèng què",
+"correct; proper"
+],
+[
+"正是",
+2,
+"zhèng shì",
+"(emphasizes that sth is precisely or exactly as stated); precisely; exactly; even; if; just like; in the same way as"
+],
+[
 "反正",
-5,
+3,
 "fǎn zhèng",
 "anyway; in any case; to come over from the enemy's side"
 ],
 [
+"正式",
+3,
+"zhèng shì",
+"formal; official"
+],
+[
 "改正",
-5,
+4,
 "gǎi zhèng",
-"to correct; to amend; to put right; correction; CL:個|个[ge4]"
+"to correct; to amend; to put right; correction; CL:个[gè]"
+],
+[
+"公正",
+5,
+"gōng zhèng",
+"just; fair; equitable"
+],
+[
+"正版",
+5,
+"zhèng bǎn",
+"genuine; legal; see also 盗版[dào bǎn]"
+],
+[
+"正规",
+5,
+"zhèng guī",
+"regular; according to standards"
+],
+[
+"正如",
+5,
+"zhèng rú",
+"just as; precisely as"
 ],
 [
 "正义",
-6,
+5,
 "zhèng yì",
 "justice; righteousness; just; righteous"
 ],
 [
-"公正",
+"纠正",
 6,
-"gōng zhèng",
-"just; fair; equitable"
+"jiū zhèng",
+"to correct; to make right"
 ],
 [
 "正当",
@@ -91,90 +121,78 @@
 "honest; reasonable; fair; sensible"
 ],
 [
-"正经",
-6,
-"zhèng jīng",
-"decent; honorable; proper; serious; according to standards"
-],
-[
-"纠正",
-6,
-"jiū zhèng",
-"to correct; to make right"
-],
-[
-"正规",
-6,
-"zhèng guī",
-"regular; according to standards"
-],
-[
-"正宗",
-6,
-"zhèng zōng",
-"orthodox school; fig. traditional; old school; authentic; genuine"
-],
-[
-"更正",
-6,
-"gēng zhèng",
-"to correct; to make a correction"
+"不正之风",
+7,
+"bù zhèng zhī fēng",
+"unhealthy tendency"
 ],
 [
 "端正",
-6,
+7,
 "duān zhèng",
 "upright; regular; proper; correct"
 ],
 [
-"正月",
-6,
-"Zhēng yuè",
-"first month of the lunar year"
+"改邪归正",
+7,
+"gǎi xié guī zhèng",
+"to mend one's ways (idiom); to turn over a new leaf"
 ],
 [
-"正气",
-6,
-"zhèng qì",
-"healthy environment; healthy atmosphere; righteousness; vital energy (in Chinese medicine)"
+"矫正",
+7,
+"jiǎo zhèng",
+"to correct; to rectify (e.g. a physical defect such as hearing or vision); to cure; rectification; correction; to straighten"
 ],
 [
-"正负",
-6,
-"zhèng fù",
-"positive and negative"
+"廉正",
+7,
+"lián zhèng",
+"upright and honest; integrity"
+],
+[
+"修正",
+7,
+"xiū zhèng",
+"to revise; to amend"
+],
+[
+"正面",
+7,
+"zhèng miàn",
+"front; obverse side; right side; positive; direct; open"
+],
+[
+"正能量",
+7,
+"zhèng néng liàng",
+"positive energy; positivity"
+],
+[
+"正视",
+7,
+"zhèng shì",
+"to face squarely; to meet head on; to face up to"
+],
+[
+"正直",
+7,
+"zhèng zhí",
+"upright; upstanding; honest"
+],
+[
+"正宗",
+7,
+"zhèng zōng",
+"orthodox school; fig. traditional; old school; authentic; genuine"
 ]
 ],
 "extraWords": [
-[
-"正是",
-110.14,
-"zhèng shì",
-"(emphasizes that sth is precisely or exactly as stated); precisely; exactly; even; if; just like; in the same way as"
-],
 [
 "正品",
 27.46,
 "zhèng pǐn",
 "certified goods; quality product; normal product; A-class goods"
-],
-[
-"正面",
-23.79,
-"zhèng miàn",
-"front; obverse side; right side; positive; direct; open"
-],
-[
-"正如",
-22.17,
-"zhèng rú",
-"just as; precisely as"
-],
-[
-"修正",
-12.77,
-"xiū zhèng",
-"to revise; to amend"
 ],
 [
 "修正主义",
@@ -183,10 +201,16 @@
 "revisionism"
 ],
 [
-"正直",
-9.63,
-"zhèng zhí",
-"upright; upstanding; honest"
+"正经",
+10.85,
+"zhèng jīng",
+"decent; honorable; proper; serious; according to standards"
+],
+[
+"正月",
+7.89,
+"Zhēng yuè",
+"first month of the lunar year"
 ],
 [
 "正值",
@@ -213,28 +237,28 @@
 "Kim Jong-il (1942-2011), Dear Leader of North Korea 1982-2011"
 ],
 [
-"矫正",
-5.87,
-"jiǎo zhèng",
-"to correct; to rectify (e.g. a physical defect such as hearing or vision); to cure; rectification; correction; to straighten"
-],
-[
-"正视",
-5.51,
-"zhèng shì",
-"to face squarely; to meet head on; to face up to"
+"正常人",
+6.41,
+"???",
+"???"
 ],
 [
 "方正",
 5.4,
 "Fāng zhèng",
-"Fangzheng county in Harbin 哈爾濱|哈尔滨[Ha1 er3 bin1], Heilongjiang"
+"Fangzheng county in Harbin 哈尔滨[Hā ěr bīn], Heilongjiang"
 ],
 [
 "方正",
 5.4,
 "fāng zhèng",
 "clear and square; neat; square (person)"
+],
+[
+"正气",
+5.06,
+"zhèng qì",
+"healthy environment; healthy atmosphere; righteousness; vital energy (in Chinese medicine)"
 ],
 [
 "正中",

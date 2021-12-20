@@ -1,16 +1,28 @@
 {
 "char": "杆",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "pole; shaft of spear",
 "pron": "gān, gǎn"
 },
 "words": [
 [
-"杠杆",
+"杆",
 6,
-"gàng gǎn",
-"lever; pry bar; crowbar; financial leverage"
+"gān",
+"pole; CL:条[tiáo],根[gēn]"
+],
+[
+"杆",
+6,
+"gǎn",
+"stick; pole; lever; classifier for long objects such as guns"
+],
+[
+"栏杆",
+7,
+"lán gān",
+"railing; banister"
 ]
 ],
 "extraWords": [
@@ -31,6 +43,12 @@
 6.4,
 "tiě gǎn",
 "iron rod; zealous; die-hard"
+],
+[
+"杠杆",
+5.33,
+"gàng gǎn",
+"lever; pry bar; crowbar; financial leverage"
 ]
 ],
 "strokes": [

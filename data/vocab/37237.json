@@ -1,17 +1,30 @@
 {
 "char": "酵",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "yeast, leaven",
 "pron": "jiào"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "发酵",
-7.11,
+7,
 "fā jiào",
 "to ferment; fermentation"
+]
+],
+"extraWords": [
+[
+"酵母",
+2.11,
+"jiào mǔ",
+"leaven; yeast"
+],
+[
+"酵",
+1.25,
+"jiào",
+"yeast; leavening; fermentation; Taiwan pr. [xiao4]"
 ]
 ],
 "strokes": [

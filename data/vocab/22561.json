@@ -1,16 +1,16 @@
 {
 "char": "堡",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "fort, fortress; town, village",
 "pron": "bǎo, bǔ, pù"
 },
 "words": [
 [
-"城堡",
-6,
-"chéng bǎo",
-"castle; rook (chess piece)"
+"堡垒",
+7,
+"bǎo lěi",
+"fort"
 ]
 ],
 "extraWords": [
@@ -27,22 +27,34 @@
 "hamburger (loanword)"
 ],
 [
+"城堡",
+20.72,
+"chéng bǎo",
+"castle; rook (chess piece)"
+],
+[
+"堡",
+13.99,
+"bǎo",
+"an earthwork; castle; position of defense; stronghold; used in place names, often as phonetic bao for \"burg\" or \"bad\""
+],
+[
+"堡",
+13.99,
+"pù",
+"variant of 铺[pù]; used in place names"
+],
+[
 "碉堡",
 9.67,
 "diāo bǎo",
-"pillbox (military fortification); blockhouse; euphemistic way of writing 屌爆[diao3 bao4]"
+"pillbox (military fortification); blockhouse; euphemistic way of writing 屌爆[diǎo bào]"
 ],
 [
 "汉堡包",
 6.74,
 "hàn bǎo bāo",
 "hamburger (loanword)"
-],
-[
-"堡垒",
-5.66,
-"bǎo lěi",
-"fort"
 ]
 ],
 "strokes": [

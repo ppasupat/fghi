@@ -1,22 +1,40 @@
 {
 "char": "忌",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "jealous, envious; fear",
 "pron": "jì"
 },
 "words": [
 [
-"肆无忌惮",
-6,
-"sì wú jì dàn",
-"absolutely unrestrained; unbridled; without the slightest scruple"
+"妒忌",
+7,
+"dù jì",
+"to be jealous of (sb's achievements etc); to be envious; envy"
+],
+[
+"忌",
+7,
+"jì",
+"to be jealous of; fear; dread; scruple; to avoid or abstain from; to quit; to give up sth"
 ],
 [
 "忌讳",
-6,
+7,
 "jì huì",
 "taboo; to avoid as taboo; to abstain from"
+],
+[
+"忌口",
+7,
+"jì kǒu",
+"abstain from certain food (as when ill); avoid certain foods; be on a diet"
+],
+[
+"禁忌",
+7,
+"jìn jì",
+"taboo; contraindication (medicine); to abstain from"
 ]
 ],
 "extraWords": [
@@ -25,18 +43,6 @@
 22.12,
 "wēi shì jì",
 "whiskey (loanword)"
-],
-[
-"禁忌",
-5.11,
-"jìn jì",
-"taboo; contraindication (medicine); to abstain from"
-],
-[
-"妒忌",
-5.07,
-"dù jì",
-"to be jealous of (sb's achievements etc); to be envious; envy"
 ]
 ],
 "strokes": [

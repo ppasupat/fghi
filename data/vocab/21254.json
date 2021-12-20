@@ -1,24 +1,42 @@
 {
 "char": "匆",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "hastily, in haste, hurriedly",
 "pron": "cōng"
 },
 "words": [
 [
+"匆匆",
+7,
+"cōng cōng",
+"hurriedly"
+],
+[
 "匆忙",
-5,
+7,
 "cōng máng",
 "hasty; hurried"
 ]
 ],
 "extraWords": [
 [
-"匆匆",
-14.71,
-"cōng cōng",
-"hurriedly"
+"匆",
+2.32,
+"cōng",
+"hurried; hasty"
+],
+[
+"匆",
+2.32,
+"cōng",
+"variant of 匆[cōng]"
+],
+[
+"匆",
+2.32,
+"cōng",
+"variant of 匆[cōng]"
 ]
 ],
 "strokes": [

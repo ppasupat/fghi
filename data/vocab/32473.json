@@ -1,6 +1,6 @@
 {
 "char": "给",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "give; by, for",
 "pron": "gěi, jǐ"
@@ -8,15 +8,39 @@
 "words": [
 [
 "给",
-2,
+1,
 "gěi",
 "to; for; for the benefit of; to give; to allow; to do sth (for sb); (grammatical equivalent of 被); (grammatical equivalent of 把); (sentence intensifier)"
 ],
 [
 "给",
-2,
+1,
 "jǐ",
 "to supply; to provide"
+],
+[
+"交给",
+2,
+"jiāo gěi",
+"to give; to deliver; to hand over"
+],
+[
+"送给",
+2,
+"sòng gěi",
+"to send; to give as a present"
+],
+[
+"递给",
+5,
+"dì gěi",
+"to hand it (i.e. the aforementioned item) to (sb)"
+],
+[
+"供给",
+6,
+"gōng jǐ",
+"to furnish; to provide; supply (as in supply and demand)"
 ],
 [
 "给予",
@@ -25,25 +49,13 @@
 "to accord; to give; to show (respect)"
 ],
 [
-"供给",
-6,
-"gōng jǐ",
-"to furnish; to provide; supply (as in supply and demand)"
+"补给",
+7,
+"bǔ jǐ",
+"supply; replenishment; to replenish"
 ]
 ],
 "extraWords": [
-[
-"交给",
-53.36,
-"jiāo gěi",
-"to give; to deliver; to hand over"
-],
-[
-"送给",
-40.17,
-"sòng gěi",
-"to send; to give as a present"
-],
 [
 "留给",
 29.54,
@@ -57,10 +69,16 @@
 "to issue; to grant; to distribute"
 ],
 [
-"递给",
-9.84,
-"dì gěi",
-"to hand it (i.e. the aforementioned item) to (sb)"
+"献给",
+12.25,
+"???",
+"???"
+],
+[
+"卖给",
+11.74,
+"???",
+"???"
 ],
 [
 "付给",
@@ -69,10 +87,10 @@
 "to deliver; to pay"
 ],
 [
-"补给",
-5.87,
-"bǔ jǐ",
-"supply; replenishment; to replenish"
+"写给",
+5.89,
+"???",
+"???"
 ]
 ],
 "strokes": [

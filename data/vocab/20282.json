@@ -1,6 +1,6 @@
 {
 "char": "伺",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "serve, wait upon, attend; examine",
 "pron": "cì, sì"
@@ -8,12 +8,31 @@
 "words": [
 [
 "伺候",
-6,
+7,
 "cì hòu",
 "to serve; to wait upon"
+],
+[
+"伺机",
+7,
+"sì jī",
+"to wait for an opportunity; to watch for one's chance"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"伺",
+1.55,
+"cì",
+"to wait on"
+],
+[
+"伺",
+1.55,
+"sì",
+"to watch; to wait; to examine; to spy"
+]
+],
 "strokes": [
 "M 246 513 Q 295 570 350 644 Q 383 695 410 718 Q 420 728 417 743 Q 414 758 385 784 Q 358 806 338 808 Q 317 807 324 783 Q 337 747 321 719 Q 237 556 50 364 Q 38 354 35 348 Q 31 336 46 338 Q 88 342 204 468 Q 208 474 215 480 L 246 513 Z",
 "M 215 480 Q 231 428 237 377 Q 236 356 236 333 Q 236 227 209 119 Q 194 70 231 22 Q 232 19 236 16 Q 255 0 267 28 Q 282 70 282 118 Q 282 371 290 429 Q 297 459 271 487 Q 265 493 246 513 C 225 535 207 509 215 480 Z",

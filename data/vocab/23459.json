@@ -1,6 +1,6 @@
 {
 "char": "宣",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "declare, announce, proclaim",
 "pron": "xuān"
@@ -8,47 +8,71 @@
 "words": [
 [
 "宣布",
-5,
+3,
 "xuān bù",
 "to declare; to announce; to proclaim"
 ],
 [
 "宣传",
-5,
+3,
 "xuān chuán",
-"to disseminate; to give publicity to; propaganda; CL:個|个[ge4]"
+"to disseminate; to give publicity to; propaganda; CL:个[gè]"
+],
+[
+"宣称",
+7,
+"xuān chēng",
+"to assert; to claim"
+],
+[
+"宣读",
+7,
+"xuān dú",
+"to read out loud to an audience; a prepared speech (e.g. to a party conference)"
+],
+[
+"宣告",
+7,
+"xuān gào",
+"to declare; to proclaim"
 ],
 [
 "宣誓",
-6,
+7,
 "xuān shì",
 "to swear an oath (of office); to make a vow"
 ],
 [
+"宣泄",
+7,
+"xuān xiè",
+"to drain (by leading off water); to unburden oneself; to divulge; to leak a secret"
+],
+[
+"宣言",
+7,
+"xuān yán",
+"declaration; manifesto"
+],
+[
 "宣扬",
-6,
+7,
 "xuān yáng",
 "to proclaim; to make public or well known"
 ]
 ],
 "extraWords": [
 [
-"宣言",
-13.42,
-"xuān yán",
-"declaration; manifesto"
+"宣",
+11.38,
+"Xuān",
+"surname Xuan"
 ],
 [
-"宣称",
-12.42,
-"xuān chēng",
-"to assert; to claim"
-],
-[
-"宣告",
-10.43,
-"xuān gào",
-"to declare; to proclaim"
+"宣",
+11.38,
+"xuān",
+"to declare (publicly); to announce"
 ],
 [
 "宣传部",
@@ -61,12 +85,6 @@
 7.62,
 "xuān pàn",
 "to deliver one's judgement; to give one's verdict"
-],
-[
-"宣读",
-5.44,
-"xuān dú",
-"to read out loud to an audience; a prepared speech (e.g. to a party conference)"
 ]
 ],
 "strokes": [

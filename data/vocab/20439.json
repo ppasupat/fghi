@@ -1,6 +1,6 @@
 {
 "char": "俗",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "social customs; vulgar, unrefined",
 "pron": "sú"
@@ -8,42 +8,66 @@
 "words": [
 [
 "风俗",
-5,
+4,
 "fēng sú",
-"social custom; CL:個|个[ge4]"
+"social custom; CL:个[gè]"
+],
+[
+"民俗",
+7,
+"mín sú",
+"popular custom"
+],
+[
+"俗",
+7,
+"sú",
+"custom; convention; popular; common; coarse; vulgar; secular"
+],
+[
+"俗话",
+7,
+"sú huà",
+"common saying; proverb"
+],
+[
+"俗话说",
+7,
+"sú huà shuō",
+"as the proverb says; as they say..."
+],
+[
+"俗语",
+7,
+"sú yǔ",
+"common saying; proverb; colloquial speech"
+],
+[
+"通俗",
+7,
+"tōng sú",
+"common; everyday; average"
 ],
 [
 "习俗",
-6,
+7,
 "xí sú",
 "custom; tradition; local tradition; convention"
 ],
 [
 "庸俗",
-6,
+7,
 "yōng sú",
 "vulgar; tacky; tawdry"
 ],
 [
-"通俗",
-6,
-"tōng sú",
-"common; everyday; average"
-],
-[
-"俗话",
-6,
-"sú huà",
-"common saying; proverb"
+"约定俗成",
+7,
+"yuē dìng sú chéng",
+"established by popular usage (idiom); common usage agreement; customary convention"
 ]
 ],
 "extraWords": [
-[
-"民俗",
-8.79,
-"mín sú",
-"popular custom"
-],
 [
 "不俗",
 7.02,

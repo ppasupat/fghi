@@ -1,14 +1,32 @@
 {
 "char": "岛",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "island",
 "pron": "dǎo"
 },
 "words": [
 [
+"岛",
+6,
+"dǎo",
+"variant of 岛[dǎo]"
+],
+[
+"岛",
+6,
+"dǎo",
+"island; CL:个[gè],座[zuò]"
+],
+[
+"半岛",
+7,
+"bàn dǎo",
+"peninsula"
+],
+[
 "岛屿",
-5,
+7,
 "dǎo yǔ",
 "island"
 ]
@@ -21,6 +39,12 @@
 "Qingdao, subprovincial city in Shandong"
 ],
 [
+"岛内",
+7.88,
+"???",
+"???"
+],
+[
 "胰岛素",
 7.0,
 "yí dǎo sù",
@@ -31,12 +55,6 @@
 5.49,
 "Cháo xiǎn Bàn dǎo",
 "Korean Peninsula"
-],
-[
-"半岛",
-5.29,
-"bàn dǎo",
-"peninsula"
 ],
 [
 "小岛",

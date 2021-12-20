@@ -1,6 +1,6 @@
 {
 "char": "歹",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "bad, vicious, depraved, wicked",
 "pron": "dǎi"
@@ -8,17 +8,23 @@
 "words": [
 [
 "歹徒",
-6,
+7,
 "dǎi tú",
 "evildoer; malefactor; gangster; hoodlum"
+],
+[
+"好歹",
+7,
+"hǎo dǎi",
+"good and bad; most unfortunate occurrence; in any case; whatever"
 ]
 ],
 "extraWords": [
 [
-"好歹",
-5.27,
-"hǎo dǎi",
-"good and bad; most unfortunate occurrence; in any case; whatever"
+"歹",
+1.01,
+"dǎi",
+"bad; wicked; evil; Kangxi radical 78"
 ]
 ],
 "strokes": [

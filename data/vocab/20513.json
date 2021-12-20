@@ -1,11 +1,17 @@
 {
 "char": "倡",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "guide, leader; lead, introduce",
 "pron": "chàng"
 },
 "words": [
+[
+"倡导",
+5,
+"chàng dǎo",
+"to advocate; to initiate; to propose; to be a proponent of (an idea or school of thought)"
+],
 [
 "提倡",
 5,
@@ -13,14 +19,8 @@
 "to promote; to advocate"
 ],
 [
-"倡导",
-6,
-"chàng dǎo",
-"to advocate; to initiate; to propose; to be a proponent of (an idea or school of thought)"
-],
-[
 "倡议",
-6,
+7,
 "chàng yì",
 "to suggest; to initiate; proposal; initiative"
 ]

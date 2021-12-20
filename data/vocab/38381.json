@@ -1,34 +1,46 @@
 {
 "char": "闭",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "shut, close; obstruct, block up",
 "pron": "bì"
 },
 "words": [
 [
-"关闭",
-5,
-"guān bì",
-"to close; to shut"
-],
-[
-"封闭",
-6,
-"fēng bì",
-"to seal; to close; to confine; to seal off; to close down; sealed; confined; closed; unreceptive"
-],
-[
 "倒闭",
-6,
+4,
 "dǎo bì",
 "to go bankrupt; to close down"
 ],
 [
-"闭塞",
+"封闭",
+4,
+"fēng bì",
+"to seal; to close; to confine; to seal off; to close down; sealed; confined; closed; unreceptive"
+],
+[
+"关闭",
+4,
+"guān bì",
+"to close; to shut"
+],
+[
+"闭幕",
+5,
+"bì mù",
+"the curtain falls; lower the curtain; to come to an end (of a meeting)"
+],
+[
+"闭幕式",
+5,
+"bì mù shì",
+"closing ceremony"
+],
+[
+"闭",
 6,
-"bì sè",
-"to stop up; to close up; hard to get to; out of the way; inaccessible; unenlightened; blocking"
+"bì",
+"to close; to stop up; to shut; to obstruct"
 ]
 ],
 "extraWords": [
@@ -39,10 +51,10 @@
 "to close; to shut up"
 ],
 [
-"闭幕",
-7.8,
-"bì mù",
-"the curtain falls; lower the curtain; to come to an end (of a meeting)"
+"封闭式",
+9.02,
+"???",
+"???"
 ]
 ],
 "strokes": [

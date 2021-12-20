@@ -1,6 +1,6 @@
 {
 "char": "阻",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "impede, hinder, obstruct; oppose",
 "pron": "zǔ"
@@ -8,41 +8,53 @@
 "words": [
 [
 "阻止",
-5,
+4,
 "zǔ zhǐ",
 "to prevent; to block"
 ],
 [
 "阻碍",
-6,
+5,
 "zǔ ài",
 "to obstruct; to hinder; to block; obstruction; hindrance"
 ],
 [
-"阻挠",
-6,
-"zǔ náo",
-"to thwart; to obstruct (sth)"
+"劝阻",
+7,
+"quàn zǔ",
+"to advise against; to dissuade"
+],
+[
+"阻挡",
+7,
+"zǔ dǎng",
+"to stop; to resist; to obstruct"
 ],
 [
 "阻拦",
-6,
+7,
 "zǔ lán",
 "to stop; to obstruct"
-]
 ],
-"extraWords": [
 [
 "阻力",
-20.88,
+7,
 "zǔ lì",
 "resistance; drag"
 ],
 [
-"阻挡",
-10.41,
-"zǔ dǎng",
-"to stop; to resist; to obstruct"
+"阻挠",
+7,
+"zǔ náo",
+"to thwart; to obstruct (sth)"
+]
+],
+"extraWords": [
+[
+"阻",
+9.87,
+"zǔ",
+"to hinder; to block; to obstruct"
 ],
 [
 "阻断",

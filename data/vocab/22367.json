@@ -1,19 +1,32 @@
 {
 "char": "坟",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "grave, mound; bulge; bulging",
 "pron": "fén"
 },
 "words": [
 [
+"坟",
+7,
+"fén",
+"grave; tomb; CL:座[zuò]; embankment; mound; ancient book"
+],
+[
 "坟墓",
-6,
+7,
 "fén mù",
 "grave; tomb"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"自掘坟墓",
+1.4,
+"zì jué fén mù",
+"to dig one's own grave"
+]
+],
 "strokes": [
 "M 308 500 Q 386 528 390 531 Q 399 541 393 548 Q 384 560 353 564 Q 329 565 310 557 L 256 534 Q 189 510 125 495 Q 89 485 118 471 Q 164 450 218 472 Q 237 478 257 484 L 308 500 Z",
 "M 299 290 Q 303 399 308 500 L 310 557 Q 311 623 331 726 Q 335 738 313 754 Q 273 775 247 779 Q 228 782 220 772 Q 211 765 221 747 Q 249 707 250 679 Q 254 609 256 534 L 257 484 Q 257 384 253 273 C 252 243 298 260 299 290 Z",

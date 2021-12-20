@@ -1,6 +1,6 @@
 {
 "char": "深",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "deep; depth; far; very, extreme",
 "pron": "shēn"
@@ -8,57 +8,135 @@
 "words": [
 [
 "深",
-4,
+3,
 "shēn",
-"old variant of 深[shen1]"
+"old variant of 深[shēn]"
 ],
 [
 "深",
-4,
+3,
 "shēn",
 "deep; depth; deeply; (of a color) dark; deep; rich"
 ],
 [
 "深刻",
-5,
+3,
 "shēn kè",
 "profound; deep; deep-going"
 ],
 [
-"资深",
-6,
-"zī shēn",
-"veteran (journalist etc); senior; highly experienced"
+"深入",
+3,
+"shēn rù",
+"to penetrate deeply; thorough"
 ],
 [
-"深沉",
-6,
-"shēn chén",
-"deep; profound; (of a person) reserved; undemonstrative; (of a voice, sound etc) deep; low-pitched"
+"深厚",
+4,
+"shēn hòu",
+"deep; profound"
 ],
 [
-"深奥",
+"深处",
+5,
+"shēn chù",
+"abyss; depths; deepest or most distant part"
+],
+[
+"深度",
+5,
+"shēn dù",
+"depth; (of a speech etc) profundity; advanced stage of development"
+],
+[
+"深化",
 6,
-"shēn ào",
-"profound; abstruse; recondite; profoundly"
+"shēn huà",
+"to deepen; to intensify"
+],
+[
+"深深",
+6,
+"shēn shēn",
+"deep; profound"
 ],
 [
 "根深蒂固",
-6,
+7,
 "gēn shēn dì gù",
 "deep-rooted (problem etc)"
 ],
 [
-"博大精深",
-6,
-"bó dà jīng shēn",
-"wide-ranging and profound; broad and deep"
+"加深",
+7,
+"jiā shēn",
+"to deepen"
 ],
 [
-"深情厚谊",
-6,
-"shēn qíng hòu yì",
-"deep friendship"
+"深奥",
+7,
+"shēn ào",
+"profound; abstruse; recondite; profoundly"
+],
+[
+"深切",
+7,
+"shēn qiè",
+"deeply felt; heartfelt; sincere; honest"
+],
+[
+"深情",
+7,
+"shēn qíng",
+"deep emotion; deep feeling; deep love"
+],
+[
+"深入人心",
+7,
+"shēn rù rén xīn",
+"to enter deeply into people's hearts; to have a real impact on the people (idiom)"
+],
+[
+"深受",
+7,
+"shēn shòu",
+"to receive in no small measure"
+],
+[
+"深思",
+7,
+"shēn sī",
+"to ponder; to consider"
+],
+[
+"深信",
+7,
+"shēn xìn",
+"to believe firmly"
+],
+[
+"深夜",
+7,
+"shēn yè",
+"very late at night"
+],
+[
+"深远",
+7,
+"shēn yuǎn",
+"far-reaching; profound and long-lasting"
+],
+[
+"资深",
+7,
+"zī shēn",
+"veteran (journalist etc); senior; highly experienced"
+],
+[
+"纵深",
+7,
+"zòng shēn",
+"depth (from front to rear); depth (into a territory); span (of time); (fig.) depth (of deployment, progress, development etc)"
 ]
 ],
 "extraWords": [
@@ -69,40 +147,10 @@
 "Shenzhen subprovincial city in Guangdong, special economic zone close to Hong Kong"
 ],
 [
-"深入",
-91.56,
-"shēn rù",
-"to penetrate deeply; thorough"
-],
-[
-"深化",
-30.95,
-"shēn huà",
-"to deepen; to intensify"
-],
-[
-"深度",
-23.75,
-"shēn dù",
-"depth; (of a speech etc) profundity; advanced stage of development"
-],
-[
-"深深",
-17.4,
-"shēn shēn",
-"deep; profound"
-],
-[
-"深夜",
-17.04,
-"shēn yè",
-"very late at night"
-],
-[
-"深处",
-16.77,
-"shēn chù",
-"abyss; depths; deepest or most distant part"
+"深呼吸",
+16.99,
+"???",
+"???"
 ],
 [
 "深圳市",
@@ -111,34 +159,16 @@
 "Shenzhen subprovincial city in Guangdong, special economic zone close to Hong Kong"
 ],
 [
-"深受",
-14.02,
-"shēn shòu",
-"to receive in no small measure"
+"深深的",
+9.96,
+"???",
+"???"
 ],
 [
-"深厚",
-13.67,
-"shēn hòu",
-"deep; profound"
-],
-[
-"深情",
-11.87,
-"shēn qíng",
-"deep emotion; deep feeling; deep love"
-],
-[
-"加深",
-11.07,
-"jiā shēn",
-"to deepen"
-],
-[
-"深远",
-9.7,
-"shēn yuǎn",
-"far-reaching; profound and long-lasting"
+"深深地",
+7.68,
+"???",
+"???"
 ],
 [
 "深层",
@@ -153,16 +183,16 @@
 "deep at night"
 ],
 [
-"深切",
-6.43,
-"shēn qiè",
-"deeply felt; heartfelt; sincere; honest"
-],
-[
 "深感",
 6.38,
 "shēn gǎn",
 "to feel deeply"
+],
+[
+"深沉",
+6.31,
+"shēn chén",
+"deep; profound; (of a person) reserved; undemonstrative; (of a voice, sound etc) deep; low-pitched"
 ],
 [
 "深知",
@@ -177,10 +207,16 @@
 "deep level; deep-seated; in-depth"
 ],
 [
-"深思",
+"深交",
+5.07,
+"???",
+"???"
+],
+[
+"深圳队",
 5.04,
-"shēn sī",
-"to ponder; to consider"
+"???",
+"???"
 ]
 ],
 "strokes": [

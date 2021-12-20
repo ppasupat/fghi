@@ -1,31 +1,37 @@
 {
 "char": "捕",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "arrest, catch, seize",
 "pron": "bǔ"
 },
 "words": [
 [
-"逮捕",
+"捕",
 6,
-"dài bǔ",
-"to arrest; to apprehend; an arrest"
-],
-[
-"捕捉",
-6,
-"bǔ zhuō",
+"bǔ",
 "to catch; to seize; to capture"
-]
 ],
-"extraWords": [
 [
 "被捕",
-40.6,
+7,
 "bèi bǔ",
 "to be arrested; under arrest"
 ],
+[
+"捕捉",
+7,
+"bǔ zhuō",
+"to catch; to seize; to capture"
+],
+[
+"逮捕",
+7,
+"dài bǔ",
+"to arrest; to apprehend; an arrest"
+]
+],
+"extraWords": [
 [
 "追捕",
 11.63,

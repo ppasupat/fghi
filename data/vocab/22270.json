@@ -1,6 +1,6 @@
 {
 "char": "图",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "diagram; chart, map, picture",
 "pron": "tú"
@@ -8,19 +8,43 @@
 "words": [
 [
 "地图",
-3,
+1,
 "dì tú",
-"map; CL:張|张[zhang1],本[ben3]"
+"map; CL:张[zhāng],本[běn]"
 ],
 [
 "图书馆",
-3,
+1,
 "tú shū guǎn",
-"library; CL:家[jia1],個|个[ge4]"
+"library; CL:家[jiā],个[gè]"
+],
+[
+"图片",
+2,
+"tú piàn",
+"image; picture; photograph; CL:张[zhāng]"
+],
+[
+"图",
+3,
+"tú",
+"diagram; picture; drawing; chart; map; CL:张[zhāng]; to plan; to scheme; to attempt; to pursue; to seek"
+],
+[
+"图画",
+3,
+"tú huà",
+"drawing; picture"
+],
+[
+"图案",
+4,
+"tú àn",
+"design; pattern"
 ],
 [
 "试图",
-6,
+5,
 "shì tú",
 "to attempt; to try"
 ],
@@ -28,51 +52,69 @@
 "企图",
 6,
 "qǐ tú",
-"to attempt; to try; attempt; CL:種|种[zhong3]"
-],
-[
-"意图",
-6,
-"yì tú",
-"intent; intention; to intend"
-],
-[
-"图案",
-6,
-"tú àn",
-"design; pattern"
-]
-],
-"extraWords": [
-[
-"图片",
-86.76,
-"tú piàn",
-"image; picture; photograph; CL:張|张[zhang1]"
+"to attempt; to try; attempt; CL:种[zhǒng]"
 ],
 [
 "图书",
-24.39,
+6,
 "tú shū",
-"books (in a library or bookstore); CL:本[ben3],冊|册[ce4],部[bu4]"
+"books (in a library or bookstore); CL:本[běn],册[cè],部[bù]"
+],
+[
+"插图",
+7,
+"chā tú",
+"illustration"
+],
+[
+"发愤图强",
+7,
+"fā fèn tú qiáng",
+"to be strongly determined to succeed (idiom)"
+],
+[
+"蓝图",
+7,
+"lán tú",
+"blueprint"
+],
+[
+"图表",
+7,
+"tú biǎo",
+"chart; diagram"
 ],
 [
 "图像",
-19.67,
+7,
 "tú xiàng",
 "image; picture; graphic"
 ],
+[
+"图形",
+7,
+"tú xíng",
+"picture; figure; diagram; graph; depiction; graphical"
+],
+[
+"图纸",
+7,
+"tú zhǐ",
+"blueprint; drawing; design plans; graph paper"
+],
+[
+"意图",
+7,
+"yì tú",
+"intent; intention; to intend"
+]
+],
+"extraWords": [
 [
 "西雅图",
 12.13,
 "Xī yǎ tú",
 "Seattle, Washington State"
-],
-[
-"图形",
-11.43,
-"tú xíng",
-"picture; figure; diagram; graph; depiction; graphical"
 ],
 [
 "心电图",
@@ -91,18 +133,6 @@
 5.39,
 "Yóu wén tú sī",
 "Juventus, Italian football team"
-],
-[
-"图纸",
-5.33,
-"tú zhǐ",
-"blueprint; drawing; design plans; graph paper"
-],
-[
-"图表",
-5.26,
-"tú biǎo",
-"chart; diagram"
 ]
 ],
 "strokes": [

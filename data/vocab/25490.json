@@ -1,22 +1,40 @@
 {
 "char": "排",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "row, rank, line",
 "pron": "pái, pǎi"
 },
 "words": [
 [
+"排",
+2,
+"pái",
+"a row; a line; to set in order; to arrange; to line up; to eliminate; to drain; to push open; platoon; raft; classifier for lines, rows etc"
+],
+[
+"排队",
+2,
+"pái duì",
+"to line up"
+],
+[
+"排球",
+2,
+"pái qiú",
+"volleyball; CL:个[gè]"
+],
+[
 "安排",
-4,
+3,
 "ān pái",
 "to arrange; to plan; to set up; arrangements; plans"
 ],
 [
-"排队",
-4,
-"pái duì",
-"to line up"
+"排名",
+3,
+"pái míng",
+"to rank (1st, 2nd etc); ranking"
 ],
 [
 "排列",
@@ -25,37 +43,43 @@
 "to arrange in order; (math.) permutation"
 ],
 [
-"排练",
-6,
-"pái liàn",
-"to rehearse; rehearsal"
-],
-[
 "排除",
-6,
+5,
 "pái chú",
 "to eliminate; to remove; to exclude; to rule out"
 ],
 [
-"排斥",
+"排行榜",
 6,
+"pái háng bǎng",
+"the charts (of best-sellers); table of ranking"
+],
+[
+"编排",
+7,
+"biān pái",
+"to arrange; to lay out"
+],
+[
+"排斥",
+7,
 "pái chì",
 "to reject; to exclude; to eliminate; to remove; to repel"
 ],
 [
 "排放",
-6,
+7,
 "pái fàng",
 "emission; discharge; exhaust (gas etc)"
+],
+[
+"排练",
+7,
+"pái liàn",
+"to rehearse; rehearsal"
 ]
 ],
 "extraWords": [
-[
-"排名",
-55.16,
-"pái míng",
-"to rank (1st, 2nd etc); ranking"
-],
 [
 "排行",
 21.29,
@@ -81,12 +105,6 @@
 "to discharge"
 ],
 [
-"编排",
-10.08,
-"biān pái",
-"to arrange; to lay out"
-],
-[
 "彩排",
 8.61,
 "cǎi pái",
@@ -109,12 +127,6 @@
 6.66,
 "nán pái",
 "men's volleyball; abbr. for 男子排球"
-],
-[
-"排球",
-6.5,
-"pái qiú",
-"volleyball; CL:個|个[ge4]"
 ],
 [
 "排污",

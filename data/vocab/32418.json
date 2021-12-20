@@ -1,6 +1,6 @@
 {
 "char": "红",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "red, vermillion; blush, flush",
 "pron": "hóng"
@@ -19,31 +19,103 @@
 "red; popular; revolutionary; bonus"
 ],
 [
-"西红柿",
-4,
-"xī hóng shì",
-"tomato; CL:隻|只[zhi1]"
-],
-[
-"分红",
-6,
-"fēn hóng",
-"dividend; to award a bonus"
-]
-],
-"extraWords": [
-[
 "红色",
-50.43,
+2,
 "hóng sè",
 "red (color); revolutionary"
 ],
 [
+"红茶",
+3,
+"hóng chá",
+"black tea; CL:杯[bēi],壶[hú]"
+],
+[
+"红酒",
+3,
+"hóng jiǔ",
+"red wine"
+],
+[
 "红包",
-25.03,
+4,
 "hóng bāo",
 "money wrapped in red as a gift; bonus payment; kickback; bribe"
 ],
+[
+"西红柿",
+5,
+"xī hóng shì",
+"tomato; CL:只[zhī]"
+],
+[
+"通红",
+6,
+"tōng hóng",
+"very red; red through and through; to blush (deep red)"
+],
+[
+"分红",
+7,
+"fēn hóng",
+"dividend; to award a bonus"
+],
+[
+"红灯",
+7,
+"hóng dēng",
+"red light"
+],
+[
+"红火",
+7,
+"hóng huǒ",
+"prosperous"
+],
+[
+"红扑扑",
+7,
+"hóng pū pū",
+"red; rosy; flushed"
+],
+[
+"红润",
+7,
+"hóng rùn",
+"ruddy; rosy; florid"
+],
+[
+"红薯",
+7,
+"hóng shǔ",
+"sweet potato"
+],
+[
+"红眼",
+7,
+"hóng yǎn",
+"to become infuriated; to see red; envious; jealous; covetous; pink eye (conjunctivitis); red-eye (flight)(photography) red eye"
+],
+[
+"面红耳赤",
+7,
+"miàn hóng ěr chì",
+"flushed with anger (or excitement)"
+],
+[
+"眼红",
+7,
+"yǎn hóng",
+"to covet; envious; jealous; green with envy; infuriated; furious"
+],
+[
+"朱红",
+7,
+"zhū hóng",
+"vermilion"
+]
+],
+"extraWords": [
 [
 "红军",
 21.02,
@@ -54,19 +126,19 @@
 "红旗",
 14.33,
 "Hóng qí",
-"Hongqi district of Xinxiang city 新鄉市|新乡市[Xin1 xiang1 shi4], Henan"
+"Hongqi district of Xinxiang city 新乡市[Xīn xiāng shì], Henan"
 ],
 [
 "红旗",
 14.33,
 "hóng qí",
-"red flag; CL:面[mian4]"
+"red flag; CL:面[miàn]"
 ],
 [
 "红星",
 12.15,
 "Hóng xīng",
-"Hongxing district of Yichun city 伊春市[Yi1 chun1 shi4], Heilongjiang"
+"Hongxing district of Yichun city 伊春市[Yī chūn shì], Heilongjiang"
 ],
 [
 "红星",
@@ -96,19 +168,13 @@
 "红楼梦",
 7.65,
 "Hóng lóu Mèng",
-"A Dream of Red Mansions (first completed edition 1791) by Cao Xueqin 曹雪芹[Cao2 Xue3 qin2], one of the four great novels"
+"A Dream of Red Mansions (first completed edition 1791) by Cao Xueqin 曹雪芹[Cáo Xuě qín], one of the four great novels"
 ],
 [
 "口红",
 7.3,
 "kǒu hóng",
 "lipstick"
-],
-[
-"红灯",
-7.09,
-"hóng dēng",
-"red light"
 ],
 [
 "红枣",
@@ -123,12 +189,6 @@
 "azuki bean; red bean"
 ],
 [
-"红火",
-6.17,
-"hóng huǒ",
-"prosperous"
-],
-[
 "大红",
 5.7,
 "dà hóng",
@@ -139,12 +199,6 @@
 5.61,
 "hóng pái",
 "red card (sports)"
-],
-[
-"红薯",
-5.47,
-"hóng shǔ",
-"sweet potato"
 ],
 [
 "脸红",

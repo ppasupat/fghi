@@ -1,6 +1,6 @@
 {
 "char": "西",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "west(ern); westward, occident",
 "pron": "xī"
@@ -16,52 +16,106 @@
 "东西",
 1,
 "dōng xi",
-"thing; stuff; person; CL:個|个[ge4],件[jian4]"
-],
-[
-"西瓜",
-2,
-"xī guā",
-"watermelon; CL:顆|颗[ke1],粒[li4],個|个[ge5]"
+"thing; stuff; person; CL:个[gè],件[jiàn]"
 ],
 [
 "西",
-3,
+1,
 "Xī",
-"the West; abbr. for Spain 西班牙[Xi1 ban1 ya2]; Spanish"
+"the West; abbr. for Spain 西班牙[Xī bān yá]; Spanish"
 ],
 [
 "西",
-3,
+1,
 "xī",
 "west"
 ],
 [
-"西红柿",
+"西边",
+1,
+"xī biān",
+"west; west side; western part; to the west of"
+],
+[
+"西北",
+2,
+"Xī běi",
+"Northwest China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang)"
+],
+[
+"西北",
+2,
+"xī běi",
+"northwest"
+],
+[
+"西餐",
+2,
+"xī cān",
+"Western-style food; CL:份[fèn],顿[dùn]"
+],
+[
+"西方",
+2,
+"Xī fāng",
+"the West; the Occident; Western countries"
+],
+[
+"西南",
+2,
+"xī nán",
+"southwest"
+],
+[
+"西医",
+2,
+"xī yī",
+"Western medicine; a doctor trained in Western medicine"
+],
+[
+"西部",
+3,
+"xī bù",
+"western part"
+],
+[
+"西瓜",
 4,
+"xī guā",
+"watermelon; CL:颗[kē],粒[lì],个[ge]"
+],
+[
+"西红柿",
+5,
 "xī hóng shì",
-"tomato; CL:隻|只[zhi1]"
+"tomato; CL:只[zhī]"
+],
+[
+"西装",
+5,
+"xī zhuāng",
+"suit; Western-style clothes; CL:套[tào]"
+],
+[
+"西班牙语",
+6,
+"Xī bān yá yǔ",
+"Spanish language"
+],
+[
+"东奔西走",
+7,
+"dōng bēn xī zǒu",
+"to run this way and that (idiom); to rush about busily; to bustle about; to hopscotch; also 东跑西颠[dōng pǎo xī diān]"
 ],
 [
 "东张西望",
-6,
+7,
 "dōng zhāng xī wàng",
 "to look in all directions (idiom); to glance around"
 ]
 ],
 "extraWords": [
-[
-"西部",
-54.39,
-"xī bù",
-"western part"
-],
-[
-"西方",
-53.7,
-"Xī fāng",
-"the West; the Occident; Western countries"
-],
 [
 "墨西哥",
 51.36,
@@ -72,7 +126,7 @@
 "西安",
 36.79,
 "Xī ān",
-"Xi'an, sub-provincial city and capital of Shaanxi 陝西省|陕西省[Shan3 xi1 Sheng3] in northwest China; see 西安區|西安区[Xi1 an1 Qu1]"
+"Xi'an, sub-provincial city and capital of Shaanxi 陕西省[Shǎn xī Shěng] in northwest China; see 西安区[Xī ān Qū]"
 ],
 [
 "西班牙",
@@ -96,49 +150,37 @@
 "山西",
 29.78,
 "Shān xī",
-"Shanxi Province (Shansi) in north China between Hebei and Shaanxi, abbr. 晉|晋[Jin4] capital Taiyuan 太原[Tai4 yuan2]"
+"Shanxi Province (Shansi) in north China between Hebei and Shaanxi, abbr. 晋[Jìn] capital Taiyuan 太原[Tài yuán]"
 ],
 [
 "西藏",
 29.23,
 "Xī zàng",
-"Tibet; Xizang or Tibet Autonomous Region 西藏自治區|西藏自治区[Xi1 zang4 Zi4 zhi4 qu1]"
+"Tibet; Xizang or Tibet Autonomous Region 西藏自治区[Xī zàng Zì zhì qū]"
 ],
 [
 "江西",
 25.15,
 "Jiāng xī",
-"Jiangxi province (Kiangsi) in southeast China, abbr. 贛|赣[Gan4], capital Nanchang 南昌[Nan2 chang1]"
+"Jiangxi province (Kiangsi) in southeast China, abbr. 赣[Gàn], capital Nanchang 南昌[Nán chāng]"
 ],
 [
 "西德",
 24.65,
 "Xī Dé",
-"West Germany; German Federal Republic 德意志聯邦共和國|德意志联邦共和国[De2 yi4 zhi4 Lian2 bang1 Gong4 he2 guo2]"
-],
-[
-"西班牙语",
-22.12,
-"Xī bān yá yǔ",
-"Spanish language"
+"West Germany; German Federal Republic 德意志联邦共和国[Dé yì zhì Lián bāng Gòng hé guó]"
 ],
 [
 "陕西",
 21.62,
 "Shǎn xī",
-"Shaanxi province (Shensi) in northwest China, abbr. 陝|陕[Shan3] or 秦[Qin2], capital Xi'an 西安[Xi1 an1]"
+"Shaanxi province (Shensi) in northwest China, abbr. 陕[Shǎn] or 秦[Qín], capital Xi'an 西安[Xī ān]"
 ],
 [
-"西南",
-19.86,
-"xī nán",
-"southwest"
-],
-[
-"西装",
-17.17,
-"xī zhuāng",
-"suit; Western-style clothes; CL:套[tao4]"
+"西蒙",
+18.51,
+"???",
+"???"
 ],
 [
 "马来西亚",
@@ -147,22 +189,10 @@
 "Malaysia"
 ],
 [
-"西北",
-14.7,
-"Xī běi",
-"Northwest China (Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang)"
-],
-[
-"西北",
-14.7,
-"xī běi",
-"northwest"
-],
-[
 "西湖",
 13.51,
 "Xī hú",
-"Xihu or West lake (place name); West Lake in Hangzhou 杭州, Zhejiang; Xihu or Hsihu township in Miaoli county 苗栗縣|苗栗县[Miao2 li4 xian4], northwest Taiwan"
+"Xihu or West lake (place name); West Lake in Hangzhou 杭州, Zhejiang; Xihu or Hsihu township in Miaoli county 苗栗县[Miáo lì xiàn], northwest Taiwan"
 ],
 [
 "西雅图",
@@ -195,6 +225,12 @@
 "New Zealand"
 ],
 [
+"吃东西",
+10.0,
+"???",
+"???"
+],
+[
 "印度尼西亚",
 9.53,
 "Yìn dù ní xī yà",
@@ -204,7 +240,7 @@
 "山西省",
 8.84,
 "Shān xī Shěng",
-"Shanxi Province (Shansi) in north China between Hebei and Shaanxi, abbr. 晉|晋[Jin4] capital Taiyuan 太原[Tai4 yuan2]"
+"Shanxi Province (Shansi) in north China between Hebei and Shaanxi, abbr. 晋[Jìn] capital Taiyuan 太原[Tài yuán]"
 ],
 [
 "西门子",
@@ -216,7 +252,7 @@
 "江西省",
 8.15,
 "Jiāng xī Shěng",
-"Jiangxi Province (Kiangsi) in southeast China, abbr. 贛|赣[Gan4], capital Nanchang 南昌[Nan2 chang1]"
+"Jiangxi Province (Kiangsi) in southeast China, abbr. 赣[Gàn], capital Nanchang 南昌[Nán chāng]"
 ],
 [
 "中西部",
@@ -225,16 +261,34 @@
 "midwest"
 ],
 [
+"巴西队",
+7.36,
+"???",
+"???"
+],
+[
 "陕西省",
 7.3,
 "Shǎn xī Shěng",
-"Shaanxi Province (Shensi) in northwest China, abbr. 陝|陕[Shan3] or 秦[Qin2], capital Xi'an 西安[Xi1 an1]"
+"Shaanxi Province (Shensi) in northwest China, abbr. 陕[Shǎn] or 秦[Qín], capital Xi'an 西安[Xī ān]"
+],
+[
+"凯西",
+7.04,
+"???",
+"???"
 ],
 [
 "西安市",
 6.73,
 "Xī ān Shì",
-"Xi’an, sub-provincial city and capital of Shaanxi 陝西省|陕西省[Shan3 xi1 Sheng3] in northwest China"
+"Xi’an, sub-provincial city and capital of Shaanxi 陕西省[Shǎn xī Shěng] in northwest China"
+],
+[
+"西岸",
+6.41,
+"???",
+"???"
 ],
 [
 "摩西",
@@ -265,6 +319,12 @@
 5.59,
 "zhōng xī yī",
 "Chinese and Western medicine; a doctor trained in Chinese and Western medicine"
+],
+[
+"弗朗西斯",
+5.37,
+"???",
+"???"
 ],
 [
 "西服",

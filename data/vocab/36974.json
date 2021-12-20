@@ -1,19 +1,32 @@
 {
 "char": "遮",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cover, shield, protect",
 "pron": "zhē"
 },
 "words": [
 [
-"遮挡",
-6,
-"zhē dǎng",
-"to shelter; to shelter from"
+"遮",
+7,
+"zhē",
+"to cover up (a shortcoming); to screen off; to hide; to conceal"
+],
+[
+"遮盖",
+7,
+"zhē gài",
+"to hide; to cover (one's tracks)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"遮住",
+4.83,
+"zhē zhù",
+"to cover (up); to block; to obstruct; to shade"
+]
+],
 "strokes": [
 "M 570 801 Q 639 722 669 720 Q 685 719 693 741 Q 694 757 682 780 Q 669 801 640 810 Q 594 829 575 833 Q 563 834 563 821 Q 562 811 570 801 Z",
 "M 489 601 Q 496 600 510 604 Q 616 634 801 665 Q 811 664 818 676 Q 819 686 798 695 Q 773 714 680 684 Q 656 678 482 641 C 453 635 459 599 489 601 Z",

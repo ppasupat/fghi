@@ -1,6 +1,6 @@
 {
 "char": "恰",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "just, exactly, precisely; proper",
 "pron": "qià"
@@ -13,30 +13,48 @@
 "appropriate; suitable"
 ],
 [
-"恰巧",
+"恰好",
 6,
-"qià qiǎo",
-"fortunately; unexpectedly; by coincidence"
+"qià hǎo",
+"as it turns out; by lucky coincidence; (of number, time, size etc) just right"
 ],
-[
-"恰到好处",
-6,
-"qià dào hǎo chù",
-"it's just perfect; it's just right"
-]
-],
-"extraWords": [
 [
 "恰恰",
-16.38,
+6,
 "qià qià",
 "exactly; just; precisely"
 ],
 [
-"恰好",
-8.94,
-"qià hǎo",
-"as it turns out; by lucky coincidence; (of number, time, size etc) just right"
+"恰到好处",
+7,
+"qià dào hǎo chù",
+"it's just perfect; it's just right"
+],
+[
+"恰恰相反",
+7,
+"qià qià xiāng fǎn",
+"just the opposite"
+],
+[
+"恰巧",
+7,
+"qià qiǎo",
+"fortunately; unexpectedly; by coincidence"
+],
+[
+"恰如其分",
+7,
+"qià rú qí fèn",
+"(idiom) appropriate; apt; just right"
+]
+],
+"extraWords": [
+[
+"恰",
+14.52,
+"qià",
+"exactly; just"
 ]
 ],
 "strokes": [

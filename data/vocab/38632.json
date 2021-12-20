@@ -1,6 +1,6 @@
 {
 "char": "雨",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "rain; rainy; KangXi radical 173",
 "pron": "yǔ"
@@ -11,6 +11,66 @@
 1,
 "xià yǔ",
 "to rain"
+],
+[
+"雨",
+1,
+"yǔ",
+"rain; CL:阵[zhèn],场[cháng]"
+],
+[
+"雨",
+1,
+"yù",
+"to rain; (of rain, snow etc) to fall; to precipitate; to wet"
+],
+[
+"雨水",
+5,
+"Yǔ shuǐ",
+"Yushui or Rain Water, 2nd of the 24 solar terms 二十四節氣|二十四节气 19th February-5th March"
+],
+[
+"暴风雨",
+6,
+"bào fēng yǔ",
+"rainstorm; storm; tempest"
+],
+[
+"暴雨",
+6,
+"bào yǔ",
+"torrential rain; rainstorm; CL:场[cháng],阵[zhèn]"
+],
+[
+"雨衣",
+6,
+"yǔ yī",
+"raincoat; CL:件[jiàn]"
+],
+[
+"暴风骤雨",
+7,
+"bào fēng zhòu yǔ",
+"violent wind and rainstorm; hurricane; tempest"
+],
+[
+"风风雨雨",
+7,
+"fēng fēng yǔ yǔ",
+"trials and tribulations; ups and downs"
+],
+[
+"风雨",
+7,
+"fēng yǔ",
+"wind and rain; the elements; (fig.) trials and hardships"
+],
+[
+"呼风唤雨",
+7,
+"hū fēng huàn yǔ",
+"to call the wind and summon the rain (idiom); to exercise magical powers; fig. to stir up troubles"
 ]
 ],
 "extraWords": [
@@ -21,22 +81,10 @@
 "light rain; drizzle"
 ],
 [
-"暴雨",
-14.02,
-"bào yǔ",
-"torrential rain; rainstorm; CL:場|场[chang2],陣|阵[zhen4]"
-],
-[
-"风雨",
-12.62,
-"fēng yǔ",
-"wind and rain; the elements; (fig.) trials and hardships"
-],
-[
 "大雨",
 12.47,
 "dà yǔ",
-"heavy rain; CL:場|场[chang2]"
+"heavy rain; CL:场[cháng]"
 ],
 [
 "降雨",
@@ -45,22 +93,10 @@
 "precipitation; rainfall"
 ],
 [
-"雨水",
-8.27,
-"Yǔ shuǐ",
-"Yushui or Rain Water, 2nd of the 24 solar terms 二十四節氣|二十四节气 19th February-5th March"
-],
-[
 "流星雨",
 7.49,
 "liú xīng yǔ",
 "meteor shower"
-],
-[
-"暴风雨",
-6.35,
-"bào fēng yǔ",
-"rainstorm; storm; tempest"
 ],
 [
 "阵雨",

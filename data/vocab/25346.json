@@ -1,6 +1,6 @@
 {
 "char": "挂",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "hang, suspend; suspense",
 "pron": "guà"
@@ -8,19 +8,43 @@
 "words": [
 [
 "挂",
-4,
+3,
 "guà",
 "to hang or suspend (from a hook etc); to hang up (the phone); (of a line) to be dead; to be worried or concerned; to make a phone call (dialect); to register or record; classifier for sets or clusters of objects; (slang) to kill; to die; to be finished; to fail (an exam)"
 ],
 [
+"挂钩",
+7,
+"guà gōu",
+"hook (on which to hang sth); to couple; to link together; to establish contact with; hook; coupling links (e.g. between two railway coaches)"
+],
+[
 "挂号",
-5,
+7,
 "guà hào",
 "to register (at a hospital etc); to send by registered mail"
 ],
 [
+"挂念",
+7,
+"guà niàn",
+"concerned"
+],
+[
+"挂失",
+7,
+"guà shī",
+"to report the loss of something"
+],
+[
+"牵挂",
+7,
+"qiān guà",
+"to worry about; to be concerned about"
+],
+[
 "悬挂",
-6,
+7,
 "xuán guà",
 "to suspend; to hang; (vehicle) suspension"
 ]
@@ -31,12 +55,6 @@
 18.85,
 "guà pái",
 "lit. to hang up a plate; to open up for business; listed (on stock market)"
-],
-[
-"牵挂",
-9.42,
-"qiān guà",
-"to worry about; to be concerned about"
 ]
 ],
 "strokes": [

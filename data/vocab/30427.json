@@ -1,40 +1,16 @@
 {
 "char": "盛",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "abundant, flourishing; contain; fill",
 "pron": "chéng, shèng"
 },
 "words": [
 [
-"盛",
+"昌盛",
 6,
-"Shèng",
-"surname Sheng"
-],
-[
-"盛",
-6,
-"chéng",
-"to hold; to contain; to ladle; to pick up with a utensil"
-],
-[
-"盛",
-6,
-"shèng",
-"flourishing; vigorous; magnificent; extensively"
-],
-[
-"丰盛",
-6,
-"fēng shèng",
-"rich; sumptuous"
-],
-[
-"盛开",
-6,
-"shèng kāi",
-"blooming; in full flower"
+"chāng shèng",
+"prosperous"
 ],
 [
 "盛行",
@@ -43,28 +19,64 @@
 "to be in vogue; to be prevalent"
 ],
 [
-"盛情",
-6,
-"shèng qíng",
-"great kindness; magnificent hospitality"
+"盛",
+7,
+"Shèng",
+"surname Sheng"
+],
+[
+"盛",
+7,
+"chéng",
+"to hold; to contain; to ladle; to pick up with a utensil"
+],
+[
+"盛",
+7,
+"shèng",
+"flourishing; vigorous; magnificent; extensively"
+],
+[
+"丰盛",
+7,
+"fēng shèng",
+"rich; sumptuous"
 ],
 [
 "茂盛",
-6,
+7,
 "mào shèng",
 "lush"
 ],
 [
-"盛产",
-6,
-"shèng chǎn",
-"to produce in abundance; to be rich in"
+"盛大",
+7,
+"shèng dà",
+"grand; majestic; magnificent; Shanda Entertainment (PRC computer game company)"
 ],
 [
-"昌盛",
-6,
-"chāng shèng",
-"prosperous"
+"盛会",
+7,
+"shèng huì",
+"pageant; distinguished meeting"
+],
+[
+"盛开",
+7,
+"shèng kāi",
+"blooming; in full flower"
+],
+[
+"盛气凌人",
+7,
+"shèng qì líng rén",
+"overbearing; arrogant bully"
+],
+[
+"旺盛",
+7,
+"wàng shèng",
+"vigorous; exuberant"
 ]
 ],
 "extraWords": [
@@ -73,24 +85,6 @@
 39.97,
 "Huá shèng dùn",
 "Washington (name); George Washington (1732-1799), first US president; Washington, US State; Washington, D.C. (US federal capital)"
-],
-[
-"盛大",
-19.04,
-"shèng dà",
-"grand; majestic; magnificent; Shanda Entertainment (PRC computer game company)"
-],
-[
-"旺盛",
-10.77,
-"wàng shèng",
-"vigorous; exuberant"
-],
-[
-"盛会",
-8.35,
-"shèng huì",
-"pageant; distinguished meeting"
 ],
 [
 "盛典",

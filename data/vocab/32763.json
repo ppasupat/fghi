@@ -1,32 +1,50 @@
 {
 "char": "翻",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "flip over, upset, capsize",
 "pron": "fān"
 },
 "words": [
 [
-"翻译",
-4,
-"fān yì",
-"to translate; to interpret; translator; interpreter; translation; interpretation; CL:個|个[ge4],位[wei4],名[ming2]"
-],
-[
 "翻",
-5,
+4,
 "fān",
 "to turn over; to flip over; to overturn; to rummage through; to translate; to decode; to double; to climb over or into; to cross"
 ],
 [
 "翻",
-5,
+4,
 "fān",
-"variant of 翻[fan1]"
+"variant of 翻[fān]"
+],
+[
+"翻译",
+4,
+"fān yì",
+"to translate; to interpret; translator; interpreter; translation; interpretation; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"翻番",
+7,
+"fān fān",
+"to double; to increase by a certain number of times"
+],
+[
+"翻来覆去",
+7,
+"fān lái fù qù",
+"to toss and turn (sleeplessly); again and again"
+],
+[
+"翻天覆地",
+7,
+"fān tiān fù dì",
+"sky and the earth turning upside down (idiom); fig. complete confusion; everything turned on its head"
 ],
 [
 "推翻",
-6,
+7,
 "tuī fān",
 "to overthrow"
 ]

@@ -1,66 +1,144 @@
 {
 "char": "早",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "early; soon; morning",
 "pron": "zǎo"
 },
 "words": [
 [
+"早",
+1,
+"zǎo",
+"early; morning; Good morning!; long ago; prematurely"
+],
+[
+"早饭",
+1,
+"zǎo fàn",
+"breakfast; CL:份[fèn],顿[dùn],次[cì],餐[cān]"
+],
+[
 "早上",
-2,
+1,
 "zǎo shang",
-"early morning; CL:個|个[ge4]"
+"early morning; CL:个[gè]"
 ],
 [
-"迟早",
-5,
-"chí zǎo",
-"sooner or later"
+"早餐",
+2,
+"zǎo cān",
+"breakfast; CL:份[fèn],顿[dùn],次[cì]"
 ],
 [
-"及早",
-6,
-"jí zǎo",
-"at the earliest possible time; as soon as possible"
-]
+"早晨",
+2,
+"zǎo chén",
+"early morning; CL:个[gè]; also pr. [zao3 chen5]"
 ],
-"extraWords": [
 [
 "早就",
-49.58,
+2,
 "zǎo jiù",
 "already at an earlier time"
 ],
 [
 "早已",
-48.2,
+3,
 "zǎo yǐ",
 "long ago; for a long time"
 ],
 [
-"早餐",
-37.17,
-"zǎo cān",
-"breakfast; CL:份[fen4],頓|顿[dun4],次[ci4]"
-],
-[
 "早期",
-34.63,
+5,
 "zǎo qī",
 "early period; early phase; early stage"
 ],
 [
-"早晨",
-33.51,
-"zǎo chén",
-"early morning; CL:個|个[ge4]; also pr. [zao3 chen5]"
+"早晚",
+6,
+"zǎo wǎn",
+"morning and evening; sooner or later"
 ],
+[
+"趁早",
+7,
+"chèn zǎo",
+"as soon as possible; at the first opportunity; the sooner the better; before it's too late"
+],
+[
+"迟早",
+7,
+"chí zǎo",
+"sooner or later"
+],
+[
+"从早到晚",
+7,
+"cóng zǎo dào wǎn",
+"from morning till night; from dawn to dusk; all day long"
+],
+[
+"过早",
+7,
+"guò zǎo",
+"premature; untimely"
+],
+[
+"及早",
+7,
+"jí zǎo",
+"at the earliest possible time; as soon as possible"
+],
+[
+"尽早",
+7,
+"jǐn zǎo",
+"as early as possible"
+],
+[
+"提早",
+7,
+"tí zǎo",
+"ahead of schedule; sooner than planned; to bring forward (to an earlier time)"
+],
+[
+"一大早",
+7,
+"yī dà zǎo",
+"at dawn; at first light; first thing in the morning"
+],
+[
+"一早",
+7,
+"yī zǎo",
+"early in the morning; at dawn"
+],
+[
+"早年",
+7,
+"zǎo nián",
+"early years; adolescence"
+],
+[
+"早日",
+7,
+"zǎo rì",
+"soon; shortly; on a day quite soon; promptly"
+]
+],
+"extraWords": [
 [
 "早安",
 29.87,
 "zǎo ān",
 "Good morning!"
+],
+[
+"最早",
+25.5,
+"???",
+"???"
 ],
 [
 "早点",
@@ -75,12 +153,6 @@
 "tomorrow morning; tomorrow"
 ],
 [
-"早日",
-18.62,
-"zǎo rì",
-"soon; shortly; on a day quite soon; promptly"
-],
-[
 "早起",
 17.61,
 "zǎo qǐ",
@@ -93,52 +165,16 @@
 "morning newspaper"
 ],
 [
-"一大早",
-15.72,
-"yī dà zǎo",
-"at dawn; at first light; first thing in the morning"
+"早早",
+13.71,
+"???",
+"???"
 ],
 [
-"早饭",
-14.49,
-"zǎo fàn",
-"breakfast; CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
-],
-[
-"一早",
-11.39,
-"yī zǎo",
-"early in the morning; at dawn"
-],
-[
-"早晚",
-11.37,
-"zǎo wǎn",
-"morning and evening; sooner or later"
-],
-[
-"尽早",
-8.74,
-"jǐn zǎo",
-"as early as possible"
-],
-[
-"提早",
-6.05,
-"tí zǎo",
-"ahead of schedule; sooner than planned; to bring forward (to an earlier time)"
-],
-[
-"过早",
-5.46,
-"guò zǎo",
-"premature; untimely"
-],
-[
-"早年",
-5.42,
-"zǎo nián",
-"early years; adolescence"
+"早盘",
+8.42,
+"???",
+"???"
 ]
 ],
 "strokes": [

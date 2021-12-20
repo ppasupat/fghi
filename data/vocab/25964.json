@@ -1,6 +1,6 @@
 {
 "char": "敬",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "respect, honor; respectfully",
 "pron": "jìng"
@@ -13,50 +13,79 @@
 "to respect; to revere"
 ],
 [
+"敬",
+7,
+"jìng",
+"to respect; to venerate; to salute; to offer"
+],
+[
+"敬爱",
+7,
+"jìng ài",
+"respect and love"
+],
+[
+"敬而远之",
+7,
+"jìng ér yuǎn zhī",
+"to show respect from a distance (idiom); to remain at a respectful distance"
+],
+[
+"敬酒",
+7,
+"jìng jiǔ",
+"to toast; to propose a toast"
+],
+[
 "敬礼",
-6,
+7,
 "jìng lǐ",
 "to salute; salute"
 ],
 [
-"敬业",
-6,
-"jìng yè",
-"to be dedicated to one's work; to respect one's work"
+"敬佩",
+7,
+"jìng pèi",
+"to esteem; to admire"
 ],
-[
-"崇敬",
-6,
-"chóng jìng",
-"to revere; to venerate; high esteem"
-],
-[
-"恭敬",
-6,
-"gōng jìng",
-"deferential; respectful"
-]
-],
-"extraWords": [
 [
 "敬请",
-10.05,
+7,
 "jìng qǐng",
 "please (do sth) (deferential form)"
 ],
 [
-"致敬",
-7.99,
-"zhì jìng",
-"to salute; to pay one's respects to; to pay tribute to; to pay homage to"
+"敬业",
+7,
+"jìng yè",
+"to be dedicated to one's work; to respect one's work"
 ],
 [
 "敬意",
-5.93,
+7,
 "jìng yì",
 "respect; tribute"
+],
+[
+"敬重",
+7,
+"jìng zhòng",
+"to respect deeply; to revere; to esteem"
+],
+[
+"孝敬",
+7,
+"xiào jìng",
+"to show filial respect; to give presents (to one's elders or superiors); to support one's aged parents"
+],
+[
+"致敬",
+7,
+"zhì jìng",
+"to salute; to pay one's respects to; to pay tribute to; to pay homage to"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 445 626 Q 490 632 530 636 Q 540 635 548 647 Q 549 657 528 668 Q 500 689 461 677 L 407 664 Q 332 648 294 639 L 250 632 Q 225 629 202 626 Q 153 622 100 615 Q 73 612 94 595 Q 104 586 119 578 Q 131 571 152 577 Q 201 587 256 597 L 296 603 Q 342 613 399 621 L 445 626 Z",
 "M 294 639 Q 293 682 292 713 Q 293 732 275 738 Q 233 757 216 751 Q 198 744 212 724 Q 239 688 250 632 L 256 597 Q 262 564 276 548 Q 289 536 293 548 Q 294 555 296 603 L 294 639 Z",

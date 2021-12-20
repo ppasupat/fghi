@@ -1,6 +1,6 @@
 {
 "char": "鸣",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cry of bird or animal; make sound",
 "pron": "míng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "共鸣",
-6,
+7,
 "gòng míng",
 "resonance (physics); sympathetic response to sth"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"鸣",
+17.76,
+"míng",
+"to cry (of birds, animals and insects); to make a sound; to voice (one's gratitude, grievance etc)"
+],
+[
+"轰鸣",
+3.05,
+"hōng míng",
+"boom (sound of explosion); rumble"
+]
+],
 "strokes": [
 "M 150 557 Q 138 564 109 569 Q 96 573 93 568 Q 86 562 94 546 Q 124 474 136 359 Q 137 325 156 300 Q 172 278 179 293 Q 188 315 183 354 L 179 386 Q 163 497 162 529 C 161 552 161 552 150 557 Z",
 "M 319 417 Q 334 511 359 542 Q 380 567 356 581 Q 337 591 309 607 Q 290 617 272 605 Q 239 580 150 557 C 121 549 135 516 162 529 Q 166 535 249 554 Q 274 561 281 551 Q 290 544 284 506 Q 277 463 269 412 C 264 382 314 387 319 417 Z",

@@ -1,28 +1,52 @@
 {
 "char": "提",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "hold in hand; lift in hand",
 "pron": "dī, tí"
 },
 "words": [
 [
+"提",
+2,
+"dī",
+"used in 提防[dī fang] and 提溜[dī liu]"
+],
+[
+"提",
+2,
+"tí",
+"to carry (hanging down from the hand); to lift; to put forward; to mention; to raise (an issue); upwards character stroke; lifting brush stroke (in painting); scoop for measuring liquid"
+],
+[
+"提出",
+2,
+"tí chū",
+"to raise (an issue); to propose; to put forward; to suggest; to post (on a website); to withdraw (cash)"
+],
+[
+"提到",
+2,
+"tí dào",
+"to mention; to raise (a subject); to refer to"
+],
+[
 "提高",
-3,
+2,
 "tí gāo",
 "to raise; to increase; to improve"
 ],
 [
-"提",
-4,
-"dī",
-"used in 提防[di1 fang5] and 提溜[di1 liu5]"
+"提前",
+3,
+"tí qián",
+"to shift to an earlier date; to do sth ahead of time; in advance"
 ],
 [
-"提",
-4,
-"tí",
-"to carry (hanging down from the hand); to lift; to put forward; to mention; to raise (an issue); upwards character stroke; lifting brush stroke (in painting); scoop for measuring liquid"
+"提问",
+3,
+"tí wèn",
+"to question; to quiz; to grill"
 ],
 [
 "提供",
@@ -37,16 +61,10 @@
 "to remind; to call attention to; to warn of"
 ],
 [
-"提前",
-4,
-"tí qián",
-"to shift to an earlier date; to do sth ahead of time; in advance"
-],
-[
-"提问",
+"前提",
 5,
-"tí wèn",
-"to question; to quiz; to grill"
+"qián tí",
+"premise; precondition; prerequisite"
 ],
 [
 "提倡",
@@ -55,78 +73,102 @@
 "to promote; to advocate"
 ],
 [
-"提纲",
+"提起",
 5,
-"tí gāng",
-"outline; synopsis; notes"
-],
-[
-"提议",
-6,
-"tí yì",
-"proposal; suggestion; to propose; to suggest"
+"tí qǐ",
+"to mention; to speak of; to lift; to pick up; to arouse; to raise (a topic, a heavy weight, one's fist, one's spirits etc)"
 ],
 [
 "提示",
-6,
+5,
 "tí shì",
 "to point out; to remind (sb of sth); to suggest; suggestion; tip; reminder; notice"
 ],
 [
-"前提",
+"提交",
 6,
-"qián tí",
-"premise; precondition; prerequisite"
+"tí jiāo",
+"to submit (a report etc); to refer (a problem) to sb"
+],
+[
+"提升",
+6,
+"tí shēng",
+"to promote; to upgrade"
+],
+[
+"别提了",
+7,
+"bié tí le",
+"say no more; don't bring it up; drop the subject"
+],
+[
+"提防",
+7,
+"dī fang",
+"to guard against; to be vigilant; watch you don't (slip); Taiwan pr. [ti2 fang2]"
 ],
 [
 "提拔",
-6,
+7,
 "tí bá",
 "to promote to a higher job; to select for promotion"
 ],
 [
 "提炼",
-6,
+7,
 "tí liàn",
 "to extract (ore, minerals etc); to refine; to purify; to process"
+],
+[
+"提名",
+7,
+"tí míng",
+"to nominate"
+],
+[
+"提速",
+7,
+"tí sù",
+"to increase the specified cruising speed; to pick up speed; to speed up"
+],
+[
+"提心吊胆",
+7,
+"tí xīn diào dǎn",
+"(saying) to be very scared and on edge"
+],
+[
+"提议",
+7,
+"tí yì",
+"proposal; suggestion; to propose; to suggest"
+],
+[
+"提早",
+7,
+"tí zǎo",
+"ahead of schedule; sooner than planned; to bring forward (to an earlier time)"
+],
+[
+"相提并论",
+7,
+"xiāng tí bìng lùn",
+"to discuss two disparate things together (idiom); to mention on equal terms; to place on a par with; (often with negatives: impossible to mention X in the same breath as Y)"
+],
+[
+"小提琴",
+7,
+"xiǎo tí qín",
+"fiddle; violin"
 ]
 ],
 "extraWords": [
-[
-"提出",
-281.62,
-"tí chū",
-"to raise (an issue); to propose; to put forward; to suggest; to post (on a website); to withdraw (cash)"
-],
-[
-"提升",
-86.71,
-"tí shēng",
-"to promote; to upgrade"
-],
-[
-"提到",
-39.23,
-"tí dào",
-"to mention; to raise (a subject); to refer to"
-],
 [
 "提要",
 32.43,
 "tí yào",
 "summary; abstract"
-],
-[
-"提交",
-31.86,
-"tí jiāo",
-"to submit (a report etc); to refer (a problem) to sb"
-],
-[
-"提起",
-28.14,
-"tí qǐ",
-"to mention; to speak of; to lift; to pick up; to arouse; to raise (a topic, a heavy weight, one's fist, one's spirits etc)"
 ],
 [
 "提取",
@@ -141,10 +183,10 @@
 "proposal; draft resolution; motion (to be debated); to propose a bill; to make a proposal"
 ],
 [
-"提名",
-18.41,
-"tí míng",
-"to nominate"
+"别提",
+17.74,
+"???",
+"???"
 ],
 [
 "提及",
@@ -157,18 +199,6 @@
 6.48,
 "tí qǐng",
 "to propose"
-],
-[
-"提早",
-6.05,
-"tí zǎo",
-"ahead of schedule; sooner than planned; to bring forward (to an earlier time)"
-],
-[
-"小提琴",
-5.28,
-"xiǎo tí qín",
-"fiddle; violin"
 ]
 ],
 "strokes": [

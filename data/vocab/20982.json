@@ -1,11 +1,23 @@
 {
 "char": "凶",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "culprit; murder; bad, sad",
 "pron": "xiōng"
 },
 "words": [
+[
+"凶",
+6,
+"xiōng",
+"terrible; fearful"
+],
+[
+"凶",
+6,
+"xiōng",
+"vicious; fierce; ominous; inauspicious; famine; variant of 凶[xiōng]"
+],
 [
 "凶手",
 6,
@@ -13,16 +25,46 @@
 "murderer; assassin"
 ],
 [
+"凶残",
+7,
+"xiōng cán",
+"savage; cruel; fierce"
+],
+[
+"凶残",
+7,
+"xiōng cán",
+"savage"
+],
+[
 "凶恶",
-6,
+7,
 "xiōng è",
 "fierce; ferocious; fiendish; frightening"
 ],
 [
 "凶恶",
-6,
+7,
 "xiōng è",
 "variant of 兇惡|凶恶, fierce; ferocious; fiendish; frightening"
+],
+[
+"凶狠",
+7,
+"xiōng hěn",
+"variant of 凶狠[xiōng hěn]"
+],
+[
+"凶狠",
+7,
+"xiōng hěn",
+"cruel; vicious; fierce and malicious; vengeful"
+],
+[
+"凶猛",
+7,
+"xiōng měng",
+"fierce; violent; ferocious"
 ]
 ],
 "extraWords": [
@@ -43,18 +85,6 @@
 7.75,
 "xiōng shā àn",
 "murder case"
-],
-[
-"凶残",
-5.2,
-"xiōng cán",
-"savage; cruel; fierce"
-],
-[
-"凶残",
-5.2,
-"xiōng cán",
-"savage"
 ]
 ],
 "strokes": [

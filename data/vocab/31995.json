@@ -1,6 +1,6 @@
 {
 "char": "系",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "system; line, link, connection",
 "pron": "jì, xì"
@@ -16,82 +16,76 @@
 "关系",
 3,
 "guān xi",
-"relation; relationship; to concern; to affect; to have to do with; guanxi; CL:個|个[ge4]"
+"relation; relationship; to concern; to affect; to have to do with; guanxi; CL:个[gè]"
 ],
 [
 "关系",
 3,
 "guān xi",
-"variant of 關係|关系[guan1 xi5]"
+"variant of 关系[guān xi]"
 ],
 [
 "联系",
-4,
+3,
 "lián xì",
-"variant of 聯繫|联系[lian2 xi4]"
+"variant of 联系[lián xì]"
 ],
 [
 "联系",
-4,
+3,
 "lián xì",
 "connection; contact; relation; to get in touch with; to integrate; to link; to touch"
 ],
 [
 "系",
-5,
+3,
 "xì",
 "to connect; to relate to; to tie up; to bind; to be (literary)"
 ],
 [
 "系",
-5,
+3,
 "xì",
 "system; department; faculty"
 ],
 [
 "系",
-5,
+3,
 "jì",
 "to tie; to fasten; to button up"
 ],
 [
 "系",
-5,
+3,
 "xì",
 "to connect; to arrest; to worry"
 ],
 [
-"系统",
-5,
-"xì tǒng",
-"system; CL:個|个[ge4]"
-],
-[
-"系领带",
-5,
-"xi4 ling3 dai4",
-"to tie a necktie"
-],
-[
 "系列",
-6,
+4,
 "xì liè",
 "series; set"
 ],
 [
+"系统",
+4,
+"xì tǒng",
+"system; CL:个[gè]"
+],
+[
 "体系",
-6,
+7,
 "tǐ xì",
-"system; setup; CL:個|个[ge4]"
+"system; setup; CL:个[gè]"
+],
+[
+"一系列",
+7,
+"yī xì liè",
+"a series of; a string of"
 ]
 ],
 "extraWords": [
-[
-"一系列",
-65.76,
-"yī xì liè",
-"a series of; a string of"
-],
 [
 "系数",
 18.62,
@@ -114,7 +108,7 @@
 "星系",
 10.52,
 "xīng xì",
-"see 恆星系|恒星系[heng2 xing1 xi4]"
+"see 恒星系[héng xīng xì]"
 ],
 [
 "联系人",
@@ -129,6 +123,12 @@
 "information system"
 ],
 [
+"系好",
+7.91,
+"???",
+"???"
+],
+[
 "性关系",
 7.66,
 "xìng guān xi",
@@ -139,6 +139,12 @@
 7.23,
 "rén jì guān xì",
 "interpersonal relationship"
+],
+[
+"有关系",
+6.91,
+"???",
+"???"
 ]
 ],
 "strokes": [

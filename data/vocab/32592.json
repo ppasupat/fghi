@@ -1,6 +1,6 @@
 {
 "char": "罐",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "jar, jug, pitcher, pot",
 "pron": "guàn"
@@ -8,15 +8,27 @@
 "words": [
 [
 "罐",
-6,
+7,
 "guàn",
 "can; jar; pot"
 ],
 [
 "罐",
-6,
+7,
 "guàn",
-"variant of 罐[guan4]"
+"variant of 罐[guàn]"
+],
+[
+"罐头",
+7,
+"guàn tou",
+"tin; can; CL:个[gè]"
+],
+[
+"易拉罐",
+7,
+"yì lā guàn",
+"pull-top can; easy-open can (with ring-pull)"
 ]
 ],
 "extraWords": [
@@ -25,12 +37,6 @@
 10.76,
 "guàn zi",
 "jar; pitcher; pot"
-],
-[
-"罐头",
-5.99,
-"guàn tou",
-"tin; can; CL:個|个[ge4]"
 ]
 ],
 "strokes": [

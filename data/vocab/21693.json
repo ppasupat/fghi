@@ -1,26 +1,49 @@
 {
 "char": "咽",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "throat; pharynx",
 "pron": "yān, yàn, yè"
 },
 "words": [
 [
-"狼吞虎咽",
-6,
-"láng tūn hǔ yàn",
-"to wolf down one's food (idiom); to devour ravenously; to gorge oneself"
-]
+"呜咽",
+7,
+"wū yè",
+"to sob; to whimper"
 ],
-"extraWords": [
 [
 "咽喉",
-5.75,
+7,
 "yān hóu",
 "throat"
+],
+[
+"咽",
+7,
+"yān",
+"narrow pass; throat; pharynx"
+],
+[
+"咽",
+7,
+"yàn",
+"variant of 咽[yàn]"
+],
+[
+"咽",
+7,
+"yè",
+"to choke (in crying)"
+],
+[
+"咽",
+7,
+"yàn",
+"to swallow"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 140 564 L 140 565 Q 130 572 93 582 Q 81 586 77 581 Q 70 575 78 559 Q 105 483 114 362 Q 115 326 133 301 Q 149 277 155 293 Q 165 315 162 358 L 158 391 Q 146 500 145 536 L 140 564 Z",
 "M 296 419 Q 312 518 338 549 Q 360 576 336 588 Q 317 598 289 614 Q 271 623 229 597 Q 199 581 140 564 C 111 556 116 529 145 536 Q 149 536 234 561 Q 256 567 262 558 Q 272 551 264 509 Q 257 466 248 418 C 243 389 291 389 296 419 Z",

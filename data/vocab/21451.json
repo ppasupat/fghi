@@ -1,54 +1,126 @@
 {
 "char": "友",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "friend, companion; fraternity",
 "pron": "yǒu"
 },
 "words": [
 [
-"朋友",
-1,
-"péng you",
-"friend; CL:個|个[ge4],位[wei4]"
-],
-[
-"友好",
-4,
-"Yǒu hǎo",
-"Youhao district of Yichun city 伊春市[Yi1 chun1 shi4], Heilongjiang"
-],
-[
-"友好",
-4,
-"yǒu hǎo",
-"friendly; amicable; close friend"
-],
-[
-"友谊",
-4,
-"yǒu yì",
-"companionship; fellowship; friendship"
-]
-],
-"extraWords": [
-[
-"女朋友",
-78.73,
-"nǚ péng you",
-"girlfriend"
-],
-[
 "男朋友",
-73.87,
+1,
 "nán péng you",
 "boyfriend"
 ],
 [
+"女朋友",
+1,
+"nǚ péng you",
+"girlfriend"
+],
+[
+"朋友",
+1,
+"péng you",
+"friend; CL:个[gè],位[wèi]"
+],
+[
+"网友",
+1,
+"wǎng yǒu",
+"online friend; Internet user"
+],
+[
+"小朋友",
+1,
+"xiǎo péng yǒu",
+"child; CL:个[gè]"
+],
+[
+"交朋友",
+2,
+"jiāo péng you",
+"to make friends; (dialect) to start an affair with sb"
+],
+[
+"老朋友",
+2,
+"lǎo péng you",
+"old friend; (slang) period; menstruation"
+],
+[
+"友好",
+2,
+"Yǒu hǎo",
+"Youhao district of Yichun city 伊春市[Yī chūn shì], Heilongjiang"
+],
+[
+"友好",
+2,
+"yǒu hǎo",
+"friendly; amicable; close friend"
+],
+[
 "好友",
-46.38,
+4,
 "hǎo yǒu",
-"close friend; pal; (social networking website) friend; CL:個|个[ge4]"
+"close friend; pal; (social networking website) friend; CL:个[gè]"
+],
+[
+"友谊",
+5,
+"yǒu yì",
+"companionship; fellowship; friendship"
+],
+[
+"战友",
+6,
+"zhàn yǒu",
+"comrade-in-arms; battle companion"
+],
+[
+"盟友",
+7,
+"méng yǒu",
+"ally"
+],
+[
+"亲朋好友",
+7,
+"qīn péng hǎo yǒu",
+"friends and family; kith and kin"
+],
+[
+"亲友",
+7,
+"qīn yǒu",
+"friends and relatives"
+],
+[
+"友情",
+7,
+"yǒu qíng",
+"friendly feelings; friendship"
+],
+[
+"友人",
+7,
+"yǒu rén",
+"friend"
+],
+[
+"友善",
+7,
+"yǒu shàn",
+"friendly"
+]
+],
+"extraWords": [
+[
+"友",
+159.02,
+"yǒu",
+"friend"
 ],
 [
 "男友",
@@ -63,16 +135,10 @@
 "girlfriend"
 ],
 [
-"老朋友",
-26.17,
-"lǎo péng you",
-"old friend; (slang) period; menstruation"
-],
-[
-"小朋友",
-23.79,
-"xiǎo péng yǒu",
-"child; CL:個|个[ge4]"
+"朋友们",
+32.79,
+"???",
+"???"
 ],
 [
 "队友",
@@ -91,36 +157,6 @@
 17.54,
 "hǎo péng you",
 "good friend; (slang) a visit from Aunt Flo (menstrual period)"
-],
-[
-"友情",
-17.35,
-"yǒu qíng",
-"friendly feelings; friendship"
-],
-[
-"友善",
-13.38,
-"yǒu shàn",
-"friendly"
-],
-[
-"战友",
-9.51,
-"zhàn yǒu",
-"comrade-in-arms; battle companion"
-],
-[
-"亲友",
-8.44,
-"qīn yǒu",
-"friends and relatives"
-],
-[
-"友人",
-7.0,
-"yǒu rén",
-"friend"
 ],
 [
 "交友",

@@ -1,30 +1,30 @@
 {
 "char": "锤",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "balance weight on scale; hammer",
 "pron": "chuí"
 },
 "words": [
 [
+"锤子",
+7,
+"chuí zi",
+"hammer; CL:把[bǎ]"
+]
+],
+"extraWords": [
+[
 "锤",
-6,
+7.21,
 "chuí",
 "hammer; to hammer into shape; weight (e.g. of a steelyard or balance); to strike with a hammer"
 ],
 [
 "锤",
-6,
+7.21,
 "chuí",
-"variant of 錘|锤[chui2]"
-]
-],
-"extraWords": [
-[
-"锤子",
-7.96,
-"chuí zi",
-"hammer; CL:把[ba3]"
+"variant of 锤[chuí]"
 ]
 ],
 "strokes": [

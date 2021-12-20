@@ -1,12 +1,32 @@
 {
 "char": "碟",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "small dish, plate",
 "pron": "dié"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"光碟",
+7,
+"guāng dié",
+"optical disc; compact disc; CD; CD-ROM; CL:片[piàn],张[zhāng]"
+]
+],
+"extraWords": [
+[
+"碟",
+17.79,
+"dié",
+"dish; plate"
+],
+[
+"飞碟",
+2.62,
+"fēi dié",
+"flying saucer; frisbee"
+]
+],
 "strokes": [
 "M 257 606 Q 377 643 381 647 Q 390 656 384 664 Q 377 676 346 681 Q 315 684 285 669 Q 251 656 215 643 Q 175 631 127 623 Q 90 613 118 599 Q 157 583 208 592 L 257 606 Z",
 "M 214 410 Q 241 462 275 548 Q 288 579 288 583 Q 279 601 257 606 C 229 616 201 621 208 592 Q 227 532 165 406 L 147 371 Q 143 367 140 359 Q 113 313 43 223 Q 36 216 46 216 Q 82 228 160 322 L 214 410 Z",

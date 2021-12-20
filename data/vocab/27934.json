@@ -1,6 +1,6 @@
 {
 "char": "洞",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "cave, grotto; ravine; hole",
 "pron": "dòng, tóng"
@@ -10,22 +10,16 @@
 "洞",
 5,
 "dòng",
-"cave; hole; zero (unambiguous spoken form when spelling out numbers); CL:個|个[ge4]"
+"cave; hole; zero (unambiguous spoken form when spelling out numbers); CL:个[gè]"
 ],
 [
-"空洞",
-6,
-"kōng dòng",
-"cavity; empty; vacuous"
+"漏洞",
+5,
+"lòu dòng",
+"leak; hole; gap; loophole"
 ]
 ],
 "extraWords": [
-[
-"漏洞",
-12.54,
-"lòu dòng",
-"leak; hole; gap; loophole"
-],
 [
 "洞穴",
 7.69,

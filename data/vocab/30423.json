@@ -1,36 +1,60 @@
 {
 "char": "盗",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "rob, steal; thief, bandit",
 "pron": "dào"
 },
 "words": [
 [
-"盗窃",
+"盗版",
 6,
+"dào bǎn",
+"pirated; illegal; see also 正版[zhèng bǎn]"
+],
+[
+"强盗",
+6,
+"qiáng dào",
+"to rob (with force); bandit; robber; CL:个[gè]"
+],
+[
+"盗",
+7,
+"dào",
+"to steal; to rob; to plunder; thief; bandit; robber"
+],
+[
+"盗窃",
+7,
 "dào qiè",
 "to steal"
+],
+[
+"防盗",
+7,
+"fáng dào",
+"to guard against theft; anti-theft"
+],
+[
+"防盗门",
+7,
+"fáng dào mén",
+"security door"
+],
+[
+"海盗",
+7,
+"hǎi dào",
+"pirate"
 ]
 ],
 "extraWords": [
 [
-"海盗",
-28.05,
-"hǎi dào",
-"pirate"
-],
-[
-"盗版",
-11.39,
-"dào bǎn",
-"pirated; illegal; see also 正版[zheng4 ban3]"
-],
-[
-"强盗",
-9.54,
-"qiáng dào",
-"to rob (with force); bandit; robber; CL:個|个[ge4]"
+"被盗",
+9.67,
+"???",
+"???"
 ]
 ],
 "strokes": [

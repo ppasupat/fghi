@@ -1,28 +1,58 @@
 {
 "char": "冰",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "ice; ice-cold",
 "pron": "bīng"
 },
 "words": [
 [
+"冰",
+4,
+"bīng",
+"ice; CL:块[kuài]; to chill sth; (of an object or substance) to feel cold; (of a person) cold; unfriendly; (slang) methamphetamine"
+],
+[
+"冰",
+4,
+"bīng",
+"variant of 冰[bīng]"
+],
+[
 "冰箱",
-3,
+4,
 "bīng xiāng",
-"icebox; freezer cabinet; refrigerator; CL:臺|台[tai2],個|个[ge4]"
+"icebox; freezer cabinet; refrigerator; CL:台[tái],个[gè]"
 ],
 [
-"冰激凌",
-5,
-"bīng jī líng",
-"ice cream"
+"冰雪",
+4,
+"bīng xuě",
+"ice and snow"
 ],
 [
-"冰雹",
-6,
-"bīng báo",
-"hail; hailstone; CL:場|场[chang2],粒[li4]"
+"冰棍儿",
+7,
+"bīng gùn r5",
+"ice lolly; popsicle"
+],
+[
+"冰山",
+7,
+"bīng shān",
+"iceberg; CL:座[zuò]"
+],
+[
+"滑冰",
+7,
+"huá bīng",
+"to skate; skating"
+],
+[
+"结冰",
+7,
+"jié bīng",
+"to freeze"
 ]
 ],
 "extraWords": [
@@ -39,28 +69,28 @@
 "ice-cold"
 ],
 [
+"冰激凌",
+8.7,
+"bīng jī líng",
+"ice cream"
+],
+[
 "冰块",
 7.87,
 "bīng kuài",
 "ice cube; ice chunk"
 ],
 [
-"滑冰",
-7.04,
-"huá bīng",
-"to skate; skating"
-],
-[
-"冰雪",
-6.66,
-"bīng xuě",
-"ice and snow"
-],
-[
 "冰球",
 5.93,
 "bīng qiú",
 "ice hockey; puck"
+],
+[
+"范冰冰",
+5.37,
+"???",
+"???"
 ]
 ],
 "strokes": [

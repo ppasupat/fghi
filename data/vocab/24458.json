@@ -1,6 +1,6 @@
 {
 "char": "徊",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "linger, walk to and fro, hesitate",
 "pron": "huái"
@@ -8,12 +8,25 @@
 "words": [
 [
 "徘徊",
-6,
+7,
 "pái huái",
 "to dither; to hesitate; to pace back and forth; by ext. to hover around; to linger"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"徊",
+3.71,
+"huái",
+"see 徘徊[pái huái], to dither; to hesitate; to pace back and forth; irresolute"
+],
+[
+"徘徊不前",
+0.41,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 296 794 Q 303 770 293 752 Q 262 691 216 636 Q 173 582 114 524 Q 104 517 100 510 Q 96 500 109 501 Q 169 508 314 671 Q 341 713 370 732 Q 380 742 377 755 Q 376 768 350 793 Q 328 814 309 815 Q 290 816 296 794 Z",
 "M 264 403 Q 342 500 352 507 Q 362 517 359 530 Q 356 543 330 568 Q 305 589 287 591 Q 268 590 274 568 Q 284 540 272 519 Q 208 393 61 246 Q 51 236 48 231 Q 44 221 58 221 Q 98 227 239 374 L 264 403 Z",

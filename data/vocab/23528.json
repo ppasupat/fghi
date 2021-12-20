@@ -1,11 +1,18 @@
 {
 "char": "寨",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "stockade, stronghold, outpost; brothel",
 "pron": "zhài"
 },
-"words": [],
+"words": [
+[
+"山寨",
+7,
+"shān zhài",
+"fortified hill village; mountain stronghold (esp. of bandits); (fig.) knockoff (goods); counterfeit; imitation"
+]
+],
 "extraWords": [
 [
 "柬埔寨",
@@ -14,10 +21,16 @@
 "Cambodia"
 ],
 [
-"山寨",
-7.25,
-"shān zhài",
-"fortified hill village; mountain stronghold (esp. of bandits); (fig.) knockoff (goods); counterfeit; imitation"
+"寨",
+11.52,
+"zhài",
+"stronghold; stockade; camp; (stockaded) village"
+],
+[
+"寨",
+11.52,
+"zhài",
+"variant of 寨[zhài]"
 ],
 [
 "大寨",

@@ -1,12 +1,31 @@
 {
 "char": "漓",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "river in Guangxi province; water dripping",
 "pron": "lí"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"淋漓尽致",
+4.87,
+"lín lí jìn zhì",
+"lit. extreme saturation (idiom); fig. vividly and thoroughly; in great detail; without restraint; (of a performance) brilliant"
+],
+[
+"淋漓",
+1.65,
+"lín lí",
+"dripping wet; pouring; saturated; (fig.) uninhibited; fluid; emotionally unrestrained; extreme"
+],
+[
+"漓江",
+1.36,
+"Lí jiāng",
+"River Li, Guangxi"
+]
+],
 "strokes": [
 "M 222 709 Q 244 684 269 655 Q 282 639 301 639 Q 314 638 320 653 Q 327 669 320 704 Q 316 723 285 741 Q 213 774 196 767 Q 190 763 191 748 Q 194 735 222 709 Z",
 "M 114 514 Q 151 459 185 434 Q 200 430 211 441 Q 218 454 219 471 Q 210 517 132 551 Q 116 558 106 556 Q 100 555 101 543 Q 101 530 114 514 Z",

@@ -1,25 +1,38 @@
 {
 "char": "屈",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "bend, flex; bent, crooked; crouch",
 "pron": "qū"
 },
 "words": [
 [
-"委屈",
-5,
-"wěi qu",
-"to feel wronged; to cause sb to feel wronged; grievance"
-],
-[
 "屈服",
-6,
+7,
 "qū fú",
 "to surrender; to succumb; to yield; (as a transitive verb) to defeat; to prevail over"
+],
+[
+"委屈",
+7,
+"wěi qu",
+"to feel wronged; to cause sb to feel wronged; grievance"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"屈",
+8.9,
+"Qū",
+"surname Qu"
+],
+[
+"屈",
+8.9,
+"qū",
+"bent; to feel wronged"
+]
+],
 "strokes": [
 "M 722 646 Q 752 712 782 731 Q 800 750 785 769 Q 769 784 715 812 Q 696 821 673 813 Q 556 771 390 752 C 360 748 373 712 402 719 Q 420 725 642 764 Q 672 771 683 759 Q 690 752 688 735 Q 679 695 669 659 C 661 630 709 619 722 646 Z",
 "M 368 575 Q 380 563 406 567 Q 508 592 727 615 Q 739 616 740 626 Q 740 633 722 646 C 699 665 698 664 669 659 Q 663 659 658 657 Q 499 617 372 601 C 342 597 343 591 368 575 Z",

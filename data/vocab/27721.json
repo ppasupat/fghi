@@ -1,6 +1,6 @@
 {
 "char": "汉",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "Chinese people; Chinese language",
 "pron": "hàn"
@@ -10,7 +10,19 @@
 "汉语",
 1,
 "Hàn yǔ",
-"Chinese language; CL:門|门[men2]"
+"Chinese language; CL:门[mén]"
+],
+[
+"汉字",
+1,
+"hàn zì",
+"Chinese character; CL:个[gè]; Japanese: kanji; Korean: hanja; Vietnamese: hán tự"
+],
+[
+"老汉",
+7,
+"lǎo hàn",
+"old man; I (an old man referring to himself)"
 ]
 ],
 "extraWords": [
@@ -19,6 +31,18 @@
 50.09,
 "Wǔ hàn",
 "Wuhan city on Changjiang, subprovincial city and capital of Hubei province"
+],
+[
+"汉",
+45.82,
+"Hàn",
+"Han ethnic group; Chinese (language); the Han dynasty (206 BC-220 AD)"
+],
+[
+"汉",
+45.82,
+"hàn",
+"man"
 ],
 [
 "汉堡",
@@ -42,7 +66,7 @@
 "汉城",
 10.05,
 "Hàn chéng",
-"Hanseong, former name of Seoul (capital of South Korea), replaced in 2005 with 首爾|首尔[Shou3 er3]"
+"Hanseong, former name of Seoul (capital of South Korea), replaced in 2005 with 首尔[Shǒu ěr]"
 ],
 [
 "流浪汉",
@@ -55,12 +79,6 @@
 9.44,
 "dà hàn",
 "big person; the great Han dynasty"
-],
-[
-"汉字",
-8.58,
-"hàn zì",
-"Chinese character; CL:個|个[ge4]; Japanese: kanji; Korean: hanja; Vietnamese: hán tự"
 ],
 [
 "武汉市",

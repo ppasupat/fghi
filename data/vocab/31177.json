@@ -1,12 +1,32 @@
 {
 "char": "秉",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "grasp, hold; bundle; authority",
 "pron": "bǐng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"秉承",
+7,
+"bǐng chéng",
+"to take orders; to receive commands; to carry on (a tradition)"
+]
+],
+"extraWords": [
+[
+"秉",
+1.73,
+"Bǐng",
+"surname Bing"
+],
+[
+"秉",
+1.73,
+"bǐng",
+"to grasp; to hold; to maintain"
+]
+],
 "strokes": [
 "M 497 737 Q 578 764 631 770 Q 649 769 654 776 Q 658 786 648 800 Q 590 851 556 850 Q 547 846 546 835 Q 540 790 314 716 Q 308 707 314 704 Q 329 700 429 722 Q 445 726 466 729 L 497 737 Z",
 "M 525 629 Q 630 641 777 644 Q 850 644 856 654 Q 860 664 845 678 Q 793 714 757 706 Q 669 687 525 660 L 476 652 Q 325 631 148 606 Q 127 603 143 587 Q 156 574 174 569 Q 195 565 210 569 Q 360 614 476 622 L 525 629 Z",

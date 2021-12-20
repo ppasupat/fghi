@@ -1,6 +1,6 @@
 {
 "char": "望",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "to look at, look forward; to hope, expect",
 "pron": "wàng"
@@ -8,9 +8,21 @@
 "words": [
 [
 "希望",
-2,
+3,
 "xī wàng",
-"to wish for; to desire; hope; CL:個|个[ge4]"
+"to wish for; to desire; hope; CL:个[gè]"
+],
+[
+"愿望",
+3,
+"yuàn wàng",
+"desire; wish"
+],
+[
+"看望",
+4,
+"kàn wàng",
+"to visit; to pay a call to"
 ],
 [
 "失望",
@@ -19,108 +31,120 @@
 "disappointed; to lose hope; to despair"
 ],
 [
-"愿望",
+"绝望",
 5,
-"yuàn wàng",
-"desire; wish"
-],
-[
-"看望",
-5,
-"kàn wàng",
-"to visit; to pay a call to"
-],
-[
-"盼望",
-5,
-"pàn wàng",
-"to hope for; to look forward to"
-],
-[
-"指望",
-6,
-"zhǐ wàng",
-"to hope for sth; to count on; hope"
+"jué wàng",
+"to despair; to give up all hope; desperate; desperation"
 ],
 [
 "渴望",
-6,
+5,
 "kě wàng",
 "to thirst for; to long for"
 ],
 [
 "期望",
-6,
+5,
 "qī wàng",
 "to have expectations; to earnestly hope; expectation; hope"
 ],
 [
-"绝望",
+"盼望",
 6,
-"jué wàng",
-"to despair; to give up all hope; desperate; desperation"
+"pàn wàng",
+"to hope for; to look forward to"
 ],
 [
-"欲望",
+"望见",
 6,
-"yù wàng",
-"desire; longing; appetite; craving"
+"wàng jiàn",
+"to espy; to spot"
+],
+[
+"东张西望",
+7,
+"dōng zhāng xī wàng",
+"to look in all directions (idiom); to glance around"
+],
+[
+"观望",
+7,
+"guān wàng",
+"to wait and see; to watch from the sidelines; to look around; to survey"
+],
+[
+"奢望",
+7,
+"shē wàng",
+"an extravagant hope; to have excessive expectations"
+],
+[
+"声望",
+7,
+"shēng wàng",
+"popularity; prestige"
 ],
 [
 "探望",
-6,
+7,
 "tàn wàng",
 "to visit; to call on sb; to look around"
 ],
 [
-"展望",
-6,
-"zhǎn wàng",
-"outlook; prospect; to look ahead; to look forward to"
+"望",
+7,
+"wàng",
+"full moon; to hope; to expect; to visit; to gaze (into the distance); to look towards; towards"
 ],
 [
-"威望",
-6,
-"wēi wàng",
-"prestige"
+"望",
+7,
+"wàng",
+"15th day of month (lunar calendar); old variant of 望[wàng]"
 ],
 [
-"东张西望",
-6,
-"dōng zhāng xī wàng",
-"to look in all directions (idiom); to glance around"
-]
+"望远镜",
+7,
+"wàng yuǎn jìng",
+"binoculars; telescope; CL:付[fù],副[fù],部[bù]"
 ],
-"extraWords": [
+[
+"喜出望外",
+7,
+"xǐ chū wàng wài",
+"to be pleased beyond one's expectations (idiom); overjoyed at the turn of events"
+],
 [
 "有望",
-37.71,
+7,
 "yǒu wàng",
 "hopeful; promising"
 ],
 [
-"观望",
-16.82,
-"guān wàng",
-"to wait and see; to watch from the sidelines; to look around; to survey"
+"欲望",
+7,
+"yù wàng",
+"desire; longing; appetite; craving"
 ],
+[
+"展望",
+7,
+"zhǎn wàng",
+"outlook; prospect; to look ahead; to look forward to"
+],
+[
+"指望",
+7,
+"zhǐ wàng",
+"to hope for sth; to count on; hope"
+]
+],
+"extraWords": [
 [
 "有希望",
 8.98,
 "yǒu xī wàng",
 "hopeful; promising; prospective"
-],
-[
-"奢望",
-6.25,
-"shē wàng",
-"an extravagant hope; to have excessive expectations"
-],
-[
-"望远镜",
-6.08,
-"wàng yuǎn jìng",
-"binoculars; telescope; CL:付[fu4],副[fu4],部[bu4]"
 ],
 [
 "可望",
@@ -129,16 +153,16 @@
 "can be expected (to); to be expected (to); hopefully (happening)"
 ],
 [
-"声望",
-5.65,
-"shēng wàng",
-"popularity; prestige"
-],
-[
 "仰望",
 5.57,
 "yǎng wàng",
 "to look up at; to look up to sb hopefully"
+],
+[
+"地望",
+5.0,
+"???",
+"???"
 ]
 ],
 "strokes": [

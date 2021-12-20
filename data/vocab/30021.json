@@ -1,17 +1,11 @@
 {
 "char": "畅",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "smoothly, freely, unrestrained",
 "pron": "chàng"
 },
 "words": [
-[
-"畅销",
-6,
-"chàng xiāo",
-"to sell well; best seller; chart-topping"
-],
 [
 "畅通",
 6,
@@ -19,24 +13,54 @@
 "unimpeded; free-flowing; straight path; unclogged; move without obstruction"
 ],
 [
-"舒畅",
-6,
-"shū chàng",
-"happy; entirely free from worry"
-]
+"畅谈",
+7,
+"chàng tán",
+"to talk freely; to discuss without inhibition"
 ],
-"extraWords": [
+[
+"畅销",
+7,
+"chàng xiāo",
+"to sell well; best seller; chart-topping"
+],
+[
+"酣畅",
+7,
+"hān chàng",
+"unrestrained; cheerful lack of inhibition, esp. for drinking or sleeping; to drink with abandon"
+],
 [
 "流畅",
-9.99,
+7,
 "liú chàng",
 "flowing (of speech, writing); fluent; smooth and easy"
 ],
 [
+"舒畅",
+7,
+"shū chàng",
+"happy; entirely free from worry"
+],
+[
 "顺畅",
-5.81,
+7,
 "shùn chàng",
 "smooth and unhindered; fluent"
+],
+[
+"通畅",
+7,
+"tōng chàng",
+"unobstructed; clear"
+]
+],
+"extraWords": [
+[
+"畅",
+14.08,
+"chàng",
+"free; unimpeded; smooth; at ease; free from worry; fluent"
 ]
 ],
 "strokes": [

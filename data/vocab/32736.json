@@ -1,12 +1,25 @@
 {
 "char": "翠",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "color green; kingfisher",
 "pron": "cuì"
 },
-"words": [],
+"words": [
+[
+"翠绿",
+7,
+"cuì lǜ",
+"greenish-blue; emerald green"
+]
+],
 "extraWords": [
+[
+"翠",
+12.06,
+"cuì",
+"bluish-green; green jade"
+],
 [
 "翡翠",
 6.18,

@@ -1,6 +1,6 @@
 {
 "char": "坚",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "hard, strong, firm; resolute",
 "pron": "jiān"
@@ -8,65 +8,77 @@
 "words": [
 [
 "坚持",
-4,
+3,
 "jiān chí",
 "to persevere with; to persist in; to insist on"
 ],
 [
-"坚强",
-5,
-"jiān qiáng",
-"staunch; strong"
-],
-[
 "坚决",
-5,
+3,
 "jiān jué",
 "firm; resolute; determined"
 ],
 [
-"坚定",
-6,
-"jiān dìng",
-"firm; steady; staunch; resolute"
+"坚强",
+3,
+"jiān qiáng",
+"staunch; strong"
 ],
 [
 "坚固",
-6,
+4,
 "jiān gù",
 "firm; firmly; hard; stable"
 ],
 [
-"坚硬",
-6,
-"jiān yìng",
-"hard; solid"
+"坚定",
+5,
+"jiān dìng",
+"firm; steady; staunch; resolute"
+],
+[
+"坚持不懈",
+7,
+"jiān chí bù xiè",
+"to persevere unremittingly (idiom); to keep going until the end"
+],
+[
+"坚韧",
+7,
+"jiān rèn",
+"tough and durable; tenacious"
 ],
 [
 "坚实",
-6,
+7,
 "jiān shí",
 "firm and substantial; solid"
 ],
 [
-"坚韧",
-6,
-"jiān rèn",
-"tough and durable; tenacious"
-]
+"坚守",
+7,
+"jiān shǒu",
+"to hold fast to; to stick to"
 ],
-"extraWords": [
 [
 "坚信",
-11.86,
+7,
 "jiān xìn",
 "to believe firmly; without any doubt"
 ],
 [
-"坚守",
-9.01,
-"jiān shǒu",
-"to hold fast to; to stick to"
+"坚硬",
+7,
+"jiān yìng",
+"hard; solid"
+]
+],
+"extraWords": [
+[
+"坚",
+9.23,
+"jiān",
+"strong; solid; firm; unyielding; resolute"
 ],
 [
 "坚定不移",

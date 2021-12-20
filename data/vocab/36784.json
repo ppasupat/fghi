@@ -1,6 +1,6 @@
 {
 "char": "辰",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "early morning; 5th terrestrial branch",
 "pron": "chén"
@@ -8,12 +8,18 @@
 "words": [
 [
 "诞辰",
-6,
+7,
 "dàn chén",
 "birthday"
 ]
 ],
 "extraWords": [
+[
+"辰",
+9.34,
+"chén",
+"5th earthly branch: 7-9 a.m., 3rd solar month (5th April-4th May), year of the Dragon; ancient Chinese compass point: 120°"
+],
 [
 "时辰",
 5.67,

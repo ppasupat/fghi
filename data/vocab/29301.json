@@ -1,6 +1,6 @@
 {
 "char": "牵",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "drag, pull, lead by hand",
 "pron": "qiān"
@@ -14,36 +14,36 @@
 ],
 [
 "牵扯",
-6,
+7,
 "qiān chě",
 "to involve; to implicate; to be interrelated"
 ],
 [
-"牵制",
-6,
-"qiān zhì",
-"to control; to curb; to restrict; to impede; to pin down (enemy troops)"
-]
-],
-"extraWords": [
-[
 "牵挂",
-9.42,
+7,
 "qiān guà",
 "to worry about; to be concerned about"
 ],
 [
 "牵涉",
-8.26,
+7,
 "qiān shè",
 "to involve; implicated"
 ],
 [
 "牵头",
-7.52,
+7,
 "qiān tóu",
 "to lead (an animal by the head); to take the lead; to coordinate (a combined operation); to mediate; a go-between (e.g. marriage broker)"
 ],
+[
+"牵制",
+7,
+"qiān zhì",
+"to control; to curb; to restrict; to impede; to pin down (enemy troops)"
+]
+],
+"extraWords": [
 [
 "牵引",
 6.8,

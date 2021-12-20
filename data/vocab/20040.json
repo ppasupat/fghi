@@ -1,11 +1,23 @@
 {
 "char": "么",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "interrogative particle; repetition of a tune small; tender",
 "pron": "me"
 },
 "words": [
+[
+"干什么",
+1,
+"gàn shén me",
+"what are you doing?; what's he up to?"
+],
+[
+"没什么",
+1,
+"méi shén me",
+"nothing; it doesn't matter; it's nothing; never mind"
+],
 [
 "什么",
 1,
@@ -22,13 +34,25 @@
 "怎么",
 1,
 "zěn me",
-"variant of 怎麼|怎么[zen3 me5]"
+"variant of 怎么[zěn me]"
 ],
 [
-"怎么样",
-1,
-"zěn me yàng",
-"how?; how about?; how was it?; how are things?"
+"多么",
+2,
+"duō me",
+"how (wonderful etc); what (a great idea etc); however (difficult it may be etc); (in interrogative sentences) how (much etc); to what extent"
+],
+[
+"那么",
+2,
+"nà me",
+"like that; in that way; or so; so; so very much; about; in that case"
+],
+[
+"什么样",
+2,
+"shén me yàng",
+"what kind?; what sort?; what appearance?"
 ],
 [
 "为什么",
@@ -37,54 +61,66 @@
 "why?; for what reason?"
 ],
 [
-"多么",
-3,
-"duō me",
-"how (wonderful etc); what (a great idea etc); however (difficult it may be etc); (in interrogative sentences) how (much etc); to what extent"
-]
-],
-"extraWords": [
-[
-"这么",
-1463.1,
-"zhè me",
-"so much; this much; how much?; this way; like this"
-],
-[
-"那么",
-1245.85,
-"nà me",
-"like that; in that way; or so; so; so very much; about; in that case"
-],
-[
-"没什么",
-281.76,
-"méi shén me",
-"nothing; it doesn't matter; it's nothing; never mind"
-],
-[
 "怎么办",
-204.82,
+2,
 "zěn me bàn",
 "what's to be done"
 ],
 [
-"干什么",
-104.09,
-"gàn shén me",
-"what are you doing?; what's he up to?"
+"怎么样",
+2,
+"zěn me yàng",
+"how?; how about?; how was it?; how are things?"
 ],
 [
-"什么样",
-88.03,
-"shén me yàng",
-"what kind?; what sort?; what appearance?"
+"这么",
+2,
+"zhè me",
+"so much; this much; how much?; this way; like this"
+],
+[
+"不怎么",
+6,
+"bù zěn me",
+"not very; not particularly"
+],
+[
+"不怎么样",
+6,
+"bù zěn me yàng",
+"not up to much; very indifferent; nothing great about it; nothing good to be said about it"
 ],
 [
 "要么",
-78.34,
+6,
 "yào me",
 "or; either one or the other"
+]
+],
+"extraWords": [
+[
+"么",
+1166.14,
+"má",
+"exclamatory final particle"
+],
+[
+"么",
+1166.14,
+"ma",
+"interrogative final particle"
+],
+[
+"么",
+1166.14,
+"me",
+"suffix, used to form interrogative 什么[shén me], what?, indefinite 这么[zhè me] thus, etc"
+],
+[
+"么",
+1166.14,
+"me",
+"variant of 么[me]"
 ],
 [
 "什么的",
@@ -93,16 +129,28 @@
 "and so on; and what not"
 ],
 [
+"什么是",
+23.12,
+"???",
+"???"
+],
+[
 "怎么着",
 12.16,
 "zěn me zhāo",
 "what?; how?; how about?; whatever; also pr. [zen3 me5 zhe5]"
 ],
 [
-"不怎么",
-8.87,
-"bù zěn me",
-"not very; not particularly"
+"好么",
+9.78,
+"???",
+"???"
+],
+[
+"甚么",
+6.64,
+"???",
+"???"
 ]
 ],
 "strokes": [

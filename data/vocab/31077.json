@@ -1,6 +1,6 @@
 {
 "char": "祥",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "good luck, good omen; happiness",
 "pron": "xiáng"
@@ -14,12 +14,31 @@
 ],
 [
 "慈祥",
-6,
+7,
 "cí xiáng",
 "kindly; benevolent (often of older person)"
+],
+[
+"吉祥物",
+7,
+"jí xiáng wù",
+"mascot"
+],
+[
+"祥和",
+7,
+"xiáng hé",
+"auspicious and peaceful"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"祥",
+14.19,
+"xiáng",
+"auspicious; propitious"
+]
+],
 "strokes": [
 "M 281 779 Q 327 718 362 700 Q 377 696 387 709 Q 394 722 393 739 Q 383 784 296 817 Q 280 824 270 820 Q 263 819 265 806 Q 266 794 281 779 Z",
 "M 270 379 Q 306 427 345 487 Q 381 545 430 582 Q 445 592 433 607 Q 414 622 386 632 Q 365 641 348 629 Q 258 568 110 561 Q 98 562 96 555 Q 93 545 107 535 Q 144 510 161 513 Q 167 514 304 569 Q 320 576 325 568 Q 332 559 318 535 Q 234 373 59 207 Q 46 197 48 193 Q 51 190 63 195 Q 150 238 247 350 L 270 379 Z",

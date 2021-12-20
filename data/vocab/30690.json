@@ -1,12 +1,32 @@
 {
 "char": "矢",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "arrow, dart; vow, swear",
 "pron": "shǐ"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"有的放矢",
+7,
+"yǒu dì fàng shǐ",
+"lit. to have a target in mind when shooting one's arrows (idiom); fig. to have a clear objective"
+]
+],
+"extraWords": [
+[
+"矢",
+5.44,
+"shǐ",
+"arrow; dart; straight; to vow; to swear; old variant of 屎[shǐ]"
+],
+[
+"矢量",
+2.02,
+"shǐ liàng",
+"vector (math.)"
+]
+],
 "strokes": [
 "M 374 602 Q 461 734 462 738 Q 461 742 460 745 Q 456 758 426 779 Q 399 797 380 796 Q 362 793 371 772 Q 398 714 246 495 Q 236 485 234 478 Q 231 468 245 470 Q 270 474 355 578 L 374 602 Z",
 "M 493 573 Q 721 621 727 627 Q 736 634 731 644 Q 724 656 694 664 Q 667 670 547 632 Q 391 605 374 602 C 344 597 328 591 355 578 Q 397 556 447 565 L 493 573 Z",

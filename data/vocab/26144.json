@@ -1,6 +1,6 @@
 {
 "char": "映",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "project; reflect light",
 "pron": "yìng"
@@ -8,24 +8,36 @@
 "words": [
 [
 "反映",
-5,
+4,
 "fǎn yìng",
 "to mirror; to reflect; mirror image; reflection; (fig.) to report; to make known; to render"
-]
 ],
-"extraWords": [
+[
+"放映",
+7,
+"fàng yìng",
+"to show (a movie); to screen"
+],
 [
 "上映",
-16.19,
+7,
 "shàng yìng",
 "to show (a movie); to screen"
 ],
 [
-"放映",
-8.36,
-"fàng yìng",
-"to show (a movie); to screen"
+"映",
+7,
+"yìng",
+"to reflect (light); to shine; to project (an image onto a screen etc)"
 ],
+[
+"映",
+7,
+"yìng",
+"old variant of 映[yìng]"
+]
+],
+"extraWords": [
 [
 "首映",
 5.42,

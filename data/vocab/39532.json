@@ -1,34 +1,94 @@
 {
 "char": "马",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "horse; surname; KangXi radical 187",
 "pron": "mǎ"
 },
 "words": [
 [
+"马路",
+1,
+"mǎ lù",
+"street; road; CL:条[tiáo]"
+],
+[
+"马上",
+1,
+"mǎ shàng",
+"at once; right away; immediately; on horseback (i.e. by military force)"
+],
+[
 "马",
 3,
 "Mǎ",
-"surname Ma; abbr. for Malaysia 馬來西亞|马来西亚[Ma3 lai2 xi1 ya4]"
+"surname Ma; abbr. for Malaysia 马来西亚[Mǎ lái xī yà]"
 ],
 [
 "马",
 3,
 "mǎ",
-"horse; CL:匹[pi3]; horse or cavalry piece in Chinese chess; knight in Western chess"
+"horse; CL:匹[pǐ]; horse or cavalry piece in Chinese chess; knight in Western chess"
 ],
 [
-"马上",
-3,
-"mǎ shàng",
-"at once; right away; immediately; on horseback (i.e. by military force)"
+"马车",
+6,
+"mǎ chē",
+"cart; chariot; carriage; buggy"
+],
+[
+"黑马",
+7,
+"hēi mǎ",
+"dark horse; fig. unexpected winner"
+],
+[
+"骏马",
+7,
+"jùn mǎ",
+"fine horse; steed"
+],
+[
+"马后炮",
+7,
+"mǎ hòu pào",
+"lit. firing after the horse; fig. belated action; giving advice in hindsight"
+],
+[
+"马后炮",
+7,
+"mǎ hòu pào",
+"lit. firing after the horse; fig. belated action; giving advice in hindsight"
 ],
 [
 "马虎",
-4,
+7,
 "mǎ hu",
 "careless; sloppy; negligent; skimpy"
+],
+[
+"马力",
+7,
+"mǎ lì",
+"horsepower"
+],
+[
+"马桶",
+7,
+"mǎ tǒng",
+"chamber pot; wooden pan used as toilet; toilet bowl"
+],
+[
+"马戏",
+7,
+"mǎ xì",
+"circus"
+],
+[
+"千军万马",
+7,
+"qiān jūn wàn mǎ",
+"magnificent army with thousands of men and horses (idiom); impressive display of manpower; all the King's horses and all the King's men"
 ]
 ],
 "extraWords": [
@@ -36,7 +96,7 @@
 "神马",
 46.89,
 "shén mǎ",
-"mythical horse; Internet slang for 什麼|什么[shen2 me5]"
+"mythical horse; Internet slang for 什么[shén me]"
 ],
 [
 "罗马",
@@ -55,12 +115,6 @@
 22.42,
 "mǎ kè",
 "mark (monetary unit)"
-],
-[
-"马路",
-21.37,
-"mǎ lù",
-"street; road; CL:條|条[tiao2]"
 ],
 [
 "马克思主义",
@@ -99,18 +153,6 @@
 "circus"
 ],
 [
-"马桶",
-11.77,
-"mǎ tǒng",
-"chamber pot; wooden pan used as toilet; toilet bowl"
-],
-[
-"马车",
-11.54,
-"mǎ chē",
-"cart; chariot; carriage; buggy"
-],
-[
 "马克思",
 10.68,
 "Mǎ kè sī",
@@ -127,6 +169,12 @@
 9.84,
 "qí mǎ",
 "to ride a horse"
+],
+[
+"马特",
+9.72,
+"???",
+"???"
 ],
 [
 "哈马斯",
@@ -177,6 +225,18 @@
 "Michael Schumacher (1969-), former German racing driver"
 ],
 [
+"马修",
+7.48,
+"???",
+"???"
+],
+[
+"马蒂",
+7.39,
+"???",
+"???"
+],
+[
 "马克思列宁主义",
 7.27,
 "Mǎ kè sī Liè níng zhǔ yì",
@@ -186,7 +246,7 @@
 "马德里",
 7.06,
 "Mǎ dé lǐ",
-"variant of 馬德里|马德里[Ma3 de2 li3], Madrid"
+"variant of 马德里[Mǎ dé lǐ], Madrid"
 ],
 [
 "马德里",
@@ -207,6 +267,12 @@
 "Romania"
 ],
 [
+"巴马",
+6.53,
+"???",
+"???"
+],
+[
 "马拉松",
 6.08,
 "mǎ lā sōng",
@@ -217,12 +283,6 @@
 6.05,
 "Sī mǎ",
 "Minister of War (official title in pre-Han Chinese states); two-character surname Sima"
-],
-[
-"黑马",
-5.76,
-"hēi mǎ",
-"dark horse; fig. unexpected winner"
 ],
 [
 "上马",

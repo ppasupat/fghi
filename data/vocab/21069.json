@@ -1,151 +1,307 @@
 {
 "char": "前",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "in front, forward; preceding",
 "pron": "qián"
 },
 "words": [
 [
-"前面",
+"前",
 1,
-"qián miàn",
-"ahead; in front; preceding; above; also pr. [qian2 mian5]"
+"qián",
+"front; forward; ahead; first; top (followed by a number); future; ago; before; BC (e.g. 前293年); former; formerly"
+],
+[
+"前边",
+1,
+"qián bian",
+"front; the front side; in front of"
+],
+[
+"前天",
+1,
+"qián tiān",
+"the day before yesterday"
+],
+[
+"面前",
+2,
+"miàn qián",
+"in front of; facing; (in the) presence (of)"
+],
+[
+"前年",
+2,
+"qián nián",
+"the year before last"
 ],
 [
 "以前",
-3,
+2,
 "yǐ qián",
 "before; formerly; previous; ago"
 ],
 [
-"提前",
-4,
-"tí qián",
-"to shift to an earlier date; to do sth ahead of time; in advance"
-],
-[
-"目前",
-5,
-"mù qián",
-"at the present time; currently"
-],
-[
-"前途",
-5,
-"qián tú",
-"prospects; future outlook; journey"
-],
-[
 "从前",
-5,
+3,
 "cóng qián",
 "previously; formerly; once upon a time"
 ],
 [
-"前提",
-6,
-"qián tí",
-"premise; precondition; prerequisite"
+"目前",
+3,
+"mù qián",
+"at the present time; currently"
 ],
 [
-"先前",
-6,
-"xiān qián",
-"before; previously"
+"前后",
+3,
+"qián hòu",
+"around; from beginning to end; all around; front and rear"
+],
+[
+"前进",
+3,
+"qián jìn",
+"to go forward; to forge ahead; to advance; onward"
+],
+[
+"前面",
+3,
+"qián miàn",
+"ahead; in front; preceding; above; also pr. [qian2 mian5]"
+],
+[
+"前往",
+3,
+"qián wǎng",
+"to leave for; to proceed towards; to go"
+],
+[
+"提前",
+3,
+"tí qián",
+"to shift to an earlier date; to do sth ahead of time; in advance"
+],
+[
+"眼前",
+3,
+"yǎn qián",
+"before one's eyes; now; at present"
+],
+[
+"前头",
+4,
+"qián tou",
+"in front; at the head; ahead; above"
+],
+[
+"前途",
+4,
+"qián tú",
+"prospects; future outlook; journey"
+],
+[
+"之前",
+4,
+"zhī qián",
+"before; prior to; ago; previously; beforehand"
 ],
 [
 "当前",
-6,
+5,
 "dāng qián",
 "current; today's; modern; present; to be facing (us)"
 ],
 [
-"前景",
-6,
-"qián jǐng",
-"foreground; vista; (future) prospects; perspective"
-],
-[
 "跟前",
-6,
+5,
 "gēn qián",
 "the front (of); (in) front; (in) sb's presence; just before (a date)"
 ],
 [
 "跟前",
-6,
+5,
 "gēn qian",
 "(of children, parents etc) at one's side; living with one"
 ],
 [
-"空前绝后",
-6,
-"kōng qián jué hòu",
-"unprecedented and never to be duplicated; the first and the last; unmatched; unique"
-]
-],
-"extraWords": [
-[
-"之前",
-452.71,
-"zhī qián",
-"before; prior to; ago; previously; beforehand"
+"年前",
+5,
+"nián qián",
+"before the end of the year; before the new year"
 ],
 [
-"面前",
-97.3,
-"miàn qián",
-"in front of; facing; (in the) presence (of)"
+"前景",
+5,
+"qián jǐng",
+"foreground; vista; (future) prospects; perspective"
+],
+[
+"前提",
+5,
+"qián tí",
+"premise; precondition; prerequisite"
+],
+[
+"先前",
+5,
+"xiān qián",
+"before; previously"
+],
+[
+"向前",
+5,
+"xiàng qián",
+"forward; onward"
 ],
 [
 "此前",
-64.32,
+6,
 "cǐ qián",
 "before this; before then; previously"
 ],
 [
-"前往",
-58.4,
-"qián wǎng",
-"to leave for; to proceed towards; to go"
-],
-[
-"眼前",
-51.13,
-"yǎn qián",
-"before one's eyes; now; at present"
-],
-[
-"前后",
-41.29,
-"qián hòu",
-"around; from beginning to end; all around; front and rear"
+"前方",
+6,
+"qián fāng",
+"ahead; the front"
 ],
 [
 "前来",
-39.45,
+6,
 "qián lái",
 "to come (formal); before; previously"
 ],
 [
-"前进",
-39.38,
-"qián jìn",
-"to go forward; to forge ahead; to advance; onward"
+"超前",
+7,
+"chāo qián",
+"to be ahead of one's time; to surpass or outdo one's predecessors; to be ahead of the pack; to take the lead; advanced"
+],
+[
+"各奔前程",
+7,
+"gè bèn qián chéng",
+"each goes his own way (idiom); each person has his own life to lead"
+],
+[
+"空前",
+7,
+"kōng qián",
+"unprecedented"
+],
+[
+"前辈",
+7,
+"qián bèi",
+"senior; older generation; precursor"
+],
+[
+"前不久",
+7,
+"qián bù jiǔ",
+"not long ago; not long before"
+],
+[
+"前赴后继",
+7,
+"qián fù hòu jì",
+"to advance dauntlessly in wave upon wave (idiom)"
 ],
 [
 "前期",
-33.66,
+7,
 "qián qī",
 "preceding period; early stage"
 ],
 [
-"向前",
-26.73,
-"xiàng qián",
-"forward; onward"
+"前任",
+7,
+"qián rèn",
+"predecessor; ex-; former; ex (spouse etc)"
 ],
+[
+"前所未有",
+7,
+"qián suǒ wèi yǒu",
+"unprecedented"
+],
+[
+"前台",
+7,
+"qián tái",
+"stage; proscenium; foreground in politics etc (sometimes derog.); front desk; reception desk; (computing) front-end; foreground"
+],
+[
+"前无古人",
+7,
+"qián wú gǔ rén",
+"(idiom) unprecedented; unheard of"
+],
+[
+"前夕",
+7,
+"qián xī",
+"eve; the day before"
+],
+[
+"前线",
+7,
+"qián xiàn",
+"front line; military front; workface; cutting edge"
+],
+[
+"前沿",
+7,
+"qián yán",
+"front-line; forward position; outpost; extending ahead; frontier (of science, technology etc)"
+],
+[
+"前仰后合",
+7,
+"qián yǎng hòu hé",
+"to sway to and fro; to rock back and forth"
+],
+[
+"前者",
+7,
+"qián zhě",
+"the former"
+],
+[
+"日前",
+7,
+"rì qián",
+"the other day; a few days ago"
+],
+[
+"生前",
+7,
+"shēng qián",
+"(of a deceased) during one's life; while living"
+],
+[
+"史无前例",
+7,
+"shǐ wú qián lì",
+"unprecedented in history"
+],
+[
+"思前想后",
+7,
+"sī qián xiǎng hòu",
+"to consider past cause and future effect (idiom); to think over the past and future; to ponder over reasons and connection"
+],
+[
+"勇往直前",
+7,
+"yǒng wǎng zhí qián",
+"to advance bravely"
+]
+],
+"extraWords": [
 [
 "前锋",
 24.36,
@@ -157,24 +313,6 @@
 22.16,
 "mén qián",
 "in front of the door"
-],
-[
-"前天",
-18.84,
-"qián tiān",
-"the day before yesterday"
-],
-[
-"前者",
-18.72,
-"qián zhě",
-"the former"
-],
-[
-"年前",
-18.07,
-"nián qián",
-"before the end of the year; before the new year"
 ],
 [
 "上前",
@@ -189,12 +327,6 @@
 "ex-wife; late wife"
 ],
 [
-"前方",
-15.12,
-"qián fāng",
-"ahead; the front"
-],
-[
 "在前",
 15.03,
 "zài qián",
@@ -205,12 +337,6 @@
 14.73,
 "bù jiǔ qián",
 "not long ago"
-],
-[
-"前线",
-13.37,
-"qián xiàn",
-"front line; military front; workface; cutting edge"
 ],
 [
 "前几天",
@@ -225,46 +351,16 @@
 "to move forwards"
 ],
 [
-"前辈",
-12.32,
-"qián bèi",
-"senior; older generation; precursor"
-],
-[
-"前所未有",
+"前去",
 12.08,
-"qián suǒ wèi yǒu",
-"unprecedented"
-],
-[
-"前夕",
-11.85,
-"qián xī",
-"eve; the day before"
-],
-[
-"前不久",
-11.53,
-"qián bù jiǔ",
-"not long ago; not long before"
-],
-[
-"空前",
-11.16,
-"kōng qián",
-"unprecedented"
+"???",
+"???"
 ],
 [
 "前科",
 11.0,
 "qián kē",
 "criminal record; previous convictions"
-],
-[
-"前任",
-10.97,
-"qián rèn",
-"predecessor; ex-; former; ex (spouse etc)"
 ],
 [
 "前夫",
@@ -283,12 +379,6 @@
 10.55,
 "qián mén",
 "front door; main entrance; honest and upright approach (as opposed to 後門|后门, back-door or under the counter)"
-],
-[
-"前沿",
-10.5,
-"qián yán",
-"front-line; forward position; outpost; extending ahead; frontier (of science, technology etc)"
 ],
 [
 "前列",
@@ -315,10 +405,16 @@
 "(literary) to go forward"
 ],
 [
-"生前",
-9.11,
-"shēng qián",
-"(of a deceased) during one's life; while living"
+"前场",
+9.91,
+"???",
+"???"
+],
+[
+"截至目前",
+8.31,
+"???",
+"???"
 ],
 [
 "前列腺",
@@ -333,34 +429,16 @@
 "before that; beforehand; previously"
 ],
 [
-"前年",
-6.66,
-"qián nián",
-"the year before last"
-],
-[
 "前端",
 6.28,
 "qián duān",
 "front; front end; forward part of sth"
 ],
 [
-"前台",
-6.23,
-"qián tái",
-"stage; proscenium; foreground in politics etc (sometimes derog.); front desk; reception desk; (computing) front-end; foreground"
-],
-[
 "前世",
 6.17,
 "qián shì",
 "previous generations; previous incarnation (Buddhism)"
-],
-[
-"超前",
-5.94,
-"chāo qián",
-"to be ahead of one's time; to surpass or outdo one's predecessors; to be ahead of the pack; to take the lead; advanced"
 ],
 [
 "婚前",

@@ -1,66 +1,72 @@
 {
 "char": "统",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "govern, command, control; unite",
 "pron": "tǒng"
 },
 "words": [
 [
-"总统",
-5,
-"zǒng tǒng",
-"president (of a country); CL:個|个[ge4],位[wei4],名[ming2],屆|届[jie4]"
-],
-[
-"系统",
-5,
-"xì tǒng",
-"system; CL:個|个[ge4]"
-],
-[
 "传统",
-5,
+4,
 "chuán tǒng",
-"tradition; traditional; convention; conventional; CL:個|个[ge4]"
-],
-[
-"统一",
-5,
-"tǒng yī",
-"to unify; to unite; to integrate"
-],
-[
-"统治",
-6,
-"tǒng zhì",
-"to rule (a country); to govern; rule; regime"
+"tradition; traditional; convention; conventional; CL:个[gè]"
 ],
 [
 "统计",
-6,
+4,
 "tǒng jì",
 "statistics; to count; to add up"
 ],
 [
+"统一",
+4,
+"tǒng yī",
+"to unify; to unite; to integrate"
+],
+[
+"系统",
+4,
+"xì tǒng",
+"system; CL:个[gè]"
+],
+[
+"总统",
+4,
+"zǒng tǒng",
+"president (of a country); CL:个[gè],位[wèi],名[míng],届[jiè]"
+],
+[
+"笼统",
+7,
+"lǒng tǒng",
+"general; broad; sweeping; lacking in detail; vague"
+],
+[
+"统筹",
+7,
+"tǒng chóu",
+"an overall plan; to plan an entire project as a whole"
+],
+[
 "统统",
-6,
+7,
 "tǒng tǒng",
 "totally"
 ],
 [
-"统筹兼顾",
-6,
-"tǒng chóu jiān gù",
-"an overall plan taking into account all factors"
+"统治",
+7,
+"tǒng zhì",
+"to rule (a country); to govern; rule; regime"
 ]
 ],
 "extraWords": [
 [
-"统筹",
-15.09,
-"tǒng chóu",
-"an overall plan; to plan an entire project as a whole"
+"统",
+20.98,
+"tǒng",
+"to gather; to unite; to unify; whole"
 ],
 [
 "操作系统",
@@ -90,7 +96,7 @@
 "统战",
 6.2,
 "tǒng zhàn",
-"united front (abbr. for 統一戰線|统一战线[tong3 yi1 zhan4 xian4])"
+"united front (abbr. for 统一战线[tǒng yī zhàn xiàn])"
 ],
 [
 "统一战线",

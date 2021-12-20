@@ -1,12 +1,31 @@
 {
 "char": "潘",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "surname; water in which rice has been rinsed; a river that flows into the Han",
 "pron": "pān"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"潘",
+11.33,
+"Pān",
+"surname Pan; Pan, faun in Greek mythology, son of Hermes"
+],
+[
+"潘基文",
+2.83,
+"Pān Jī wén",
+"Ban Ki Moon (1944-), Korean diplomat, UN secretary-general 2007-2016"
+],
+[
+"潘石屹",
+2.29,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 228 705 Q 247 686 269 665 Q 285 650 303 652 Q 315 653 320 668 Q 324 686 314 719 Q 302 746 221 759 Q 203 763 196 760 Q 190 756 192 740 Q 196 727 228 705 Z",
 "M 128 498 Q 173 446 205 433 Q 221 430 231 445 Q 237 458 234 476 Q 227 501 208 515 Q 153 548 116 542 Q 113 542 113 541 Q 106 540 109 526 Q 110 513 128 498 Z",

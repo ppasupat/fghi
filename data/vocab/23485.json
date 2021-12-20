@@ -1,6 +1,6 @@
 {
 "char": "宽",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "broad, wide; spacious, vast",
 "pron": "kuān"
@@ -8,53 +8,83 @@
 "words": [
 [
 "宽",
-5,
+4,
 "Kuān",
 "surname Kuan"
 ],
 [
 "宽",
-5,
+4,
 "kuān",
 "wide; broad; loose; relaxed; lenient"
 ],
 [
-"宽容",
+"宽广",
+4,
+"kuān guǎng",
+"wide; broad; extensive; vast"
+],
+[
+"宽度",
+5,
+"kuān dù",
+"width"
+],
+[
+"宽阔",
 6,
+"kuān kuò",
+"expansive; wide; width; thickness"
+],
+[
+"宽敞",
+7,
+"kuān chang",
+"spacious; wide"
+],
+[
+"宽泛",
+7,
+"kuān fàn",
+"wide-ranging"
+],
+[
+"宽厚",
+7,
+"kuān hòu",
+"tolerant; generous; magnanimous; thick and broad (build); thick and deep (voice)"
+],
+[
+"宽容",
+7,
 "kuān róng",
 "lenient; tolerant; indulgent; charitable; to forgive"
 ],
 [
-"宽敞",
-6,
-"kuān chang",
-"spacious; wide"
-]
-],
-"extraWords": [
-[
 "宽恕",
-17.71,
+7,
 "kuān shù",
 "to forgive; forgiveness"
 ],
 [
-"宽带",
-16.83,
-"kuān dài",
-"broadband"
-],
-[
 "宽松",
-13.1,
+7,
 "kuān sōng",
 "to relax (policy); relaxed"
 ],
 [
 "拓宽",
-11.65,
+7,
 "tuò kuān",
 "to broaden"
+]
+],
+"extraWords": [
+[
+"宽带",
+16.83,
+"kuān dài",
+"broadband"
 ],
 [
 "放宽",
@@ -63,28 +93,10 @@
 "to relax (a rule); to ease (restrictions); to extend (a time limit); to let out (a garment); to expand; to broaden"
 ],
 [
-"宽阔",
-6.91,
-"kuān kuò",
-"expansive; wide; width; thickness"
-],
-[
-"宽度",
-6.89,
-"kuān dù",
-"width"
-],
-[
 "宽大",
 5.83,
 "kuān dà",
 "spacious; wide; lenient"
-],
-[
-"宽广",
-5.01,
-"kuān guǎng",
-"wide; broad; extensive; vast"
 ]
 ],
 "strokes": [

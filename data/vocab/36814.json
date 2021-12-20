@@ -1,6 +1,6 @@
 {
 "char": "迎",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "receive, welcome, greet",
 "pron": "yíng"
@@ -8,41 +8,41 @@
 "words": [
 [
 "欢迎",
-3,
+2,
 "huān yíng",
 "to welcome; welcome"
 ],
 [
 "迎接",
-5,
+3,
 "yíng jiē",
 "to meet; to welcome; to greet"
 ],
 [
-"迎面",
-6,
-"yíng miàn",
-"directly; head-on (collision); in one's face (of wind)"
-]
-],
-"extraWords": [
-[
 "迎来",
-27.75,
+6,
 "yíng lái",
 "to welcome (a visitor or newcomer); (fig.) to usher in"
 ],
+[
+"迎",
+7,
+"yíng",
+"to welcome; to meet; to face; to forge ahead (esp. in the face of difficulties)"
+],
+[
+"迎合",
+7,
+"yíng hé",
+"to cater to; to pander to"
+]
+],
+"extraWords": [
 [
 "迎战",
 12.87,
 "yíng zhàn",
 "to meet the enemy head-on"
-],
-[
-"迎合",
-5.82,
-"yíng hé",
-"to cater to; to pander to"
 ]
 ],
 "strokes": [

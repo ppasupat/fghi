@@ -1,6 +1,6 @@
 {
 "char": "豚",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "small pig, suckling pig; suffle",
 "pron": "tún"
@@ -12,6 +12,18 @@
 6.2,
 "hǎi tún",
 "dolphin"
+],
+[
+"河豚",
+2.62,
+"hé tún",
+"blowfish (Tetraodontidae); puffer"
+],
+[
+"豚鼠",
+1.46,
+"tún shǔ",
+"guinea pig (Cavia porcellus)"
 ]
 ],
 "strokes": [

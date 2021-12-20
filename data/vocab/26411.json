@@ -1,6 +1,6 @@
 {
 "char": "末",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "final, last, end; insignificant",
 "pron": "mò"
@@ -8,30 +8,36 @@
 "words": [
 [
 "周末",
-3,
+2,
 "zhōu mò",
 "weekend"
 ],
 [
-"粉末",
-6,
-"fěn mò",
-"fine powder; dust"
-]
+"末",
+4,
+"mò",
+"tip; end; final stage; latter part; inessential detail; powder; dust; opera role of old man"
 ],
-"extraWords": [
+[
+"期末",
+4,
+"qī mò",
+"end of term"
+],
 [
 "末日",
-16.9,
+7,
 "Mò rì",
 "Judgment Day (in Christian eschatology)"
 ],
 [
 "末日",
-16.9,
+7,
 "mò rì",
 "last day; end; final days; doomsday"
+]
 ],
+"extraWords": [
 [
 "年末",
 8.44,

@@ -1,6 +1,6 @@
 {
 "char": "盖",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "cover, hide, protect",
 "pron": "gài, gě"
@@ -8,48 +8,54 @@
 "words": [
 [
 "盖",
-5,
+4,
 "Gě",
 "surname Ge"
 ],
 [
 "盖",
-5,
+4,
 "gài",
 "lid; top; cover; canopy; to cover; to conceal; to build"
 ],
 [
+"覆盖",
+7,
+"fù gài",
+"to cover"
+],
+[
+"盖子",
+7,
+"gài zi",
+"cover; lid; shell"
+],
+[
+"涵盖",
+7,
+"hán gài",
+"to cover; to comprise; to include"
+],
+[
 "膝盖",
-6,
+7,
 "xī gài",
 "knee; (Internet slang) to kneel down (in admiration)"
 ],
 [
 "掩盖",
-6,
+7,
 "yǎn gài",
 "to conceal; to hide behind; to cover up"
 ],
 [
-"覆盖",
-6,
-"fù gài",
-"to cover"
-],
-[
-"盖章",
-6,
-"gài zhāng",
-"to affix a seal; to stamp (a document); to sign off on sth"
+"遮盖",
+7,
+"zhē gài",
+"to hide; to cover (one's tracks)"
 ]
 ],
 "extraWords": [
-[
-"涵盖",
-8.59,
-"hán gài",
-"to cover; to comprise; to include"
-],
 [
 "覆盖率",
 5.5,

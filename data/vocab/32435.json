@@ -1,23 +1,11 @@
 {
 "char": "纳",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "admit, take, receive, accept",
 "pron": "nà"
 },
 "words": [
-[
-"归纳",
-5,
-"guī nà",
-"to sum up; to summarize; to conclude from facts; induction (method of deduction in logic)"
-],
-[
-"纳闷儿",
-6,
-"nà mèn r5",
-"erhua variant of 納悶|纳闷[na4 men4]"
-],
 [
 "采纳",
 6,
@@ -25,54 +13,84 @@
 "to accept; to adopt"
 ],
 [
-"容纳",
-6,
-"róng nà",
-"to hold; to contain; to accommodate; to tolerate (different opinions)"
+"归纳",
+7,
+"guī nà",
+"to sum up; to summarize; to conclude from facts; induction (method of deduction in logic)"
+],
+[
+"交纳",
+7,
+"jiāo nà",
+"to pay (taxes or dues)"
 ],
 [
 "缴纳",
-6,
+7,
 "jiǎo nà",
 "to pay (taxes etc)"
-]
 ],
-"extraWords": [
+[
+"接纳",
+7,
+"jiē nà",
+"to admit (to membership)"
+],
+[
+"纳闷儿",
+7,
+"nà mèn r5",
+"erhua variant of 纳闷[nà mèn]"
+],
 [
 "纳入",
-29.75,
+7,
 "nà rù",
 "to bring into; to channel into; to integrate into; to incorporate"
 ],
 [
 "纳税",
-15.24,
+7,
 "nà shuì",
 "to pay taxes"
+],
+[
+"纳税人",
+7,
+"nà shuì rén",
+"taxpayer"
+],
+[
+"容纳",
+7,
+"róng nà",
+"to hold; to contain; to accommodate; to tolerate (different opinions)"
+],
+[
+"吸纳",
+7,
+"xī nà",
+"to take in; to absorb; to admit; to accept"
+]
+],
+"extraWords": [
+[
+"纳",
+65.59,
+"Nà",
+"surname Na"
+],
+[
+"纳",
+65.59,
+"nà",
+"to receive; to accept; to enjoy; to bring into; to pay (tax etc); nano- (one billionth); to reinforce sole of shoes or stockings by close sewing"
 ],
 [
 "纳粹",
 12.25,
 "Nà cuì",
 "Nazi (loanword)"
-],
-[
-"纳税人",
-11.64,
-"nà shuì rén",
-"taxpayer"
-],
-[
-"交纳",
-9.94,
-"jiāo nà",
-"to pay (taxes or dues)"
-],
-[
-"吸纳",
-8.19,
-"xī nà",
-"to take in; to absorb; to admit; to accept"
 ],
 [
 "纳米",
@@ -85,12 +103,6 @@
 6.76,
 "Ā sēn nà",
 "Arsenal Football Club"
-],
-[
-"接纳",
-6.19,
-"jiē nà",
-"to admit (to membership)"
 ],
 [
 "纳闷",

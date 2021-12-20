@@ -1,17 +1,30 @@
 {
 "char": "纱",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "gauze, thin silk; yarn, thread",
 "pron": "shā"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "婚纱",
-14.96,
+7,
 "hūn shā",
-"wedding dress; CL:身[shen1]"
+"wedding dress; CL:身[shēn]"
+],
+[
+"纱",
+7,
+"shā",
+"cotton yarn; muslin"
+]
+],
+"extraWords": [
+[
+"纱布",
+4.69,
+"shā bù",
+"gauze"
 ]
 ],
 "strokes": [

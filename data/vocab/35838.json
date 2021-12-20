@@ -1,6 +1,6 @@
 {
 "char": "课",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "lesson; course; classwork",
 "pron": "kè"
@@ -8,72 +8,84 @@
 "words": [
 [
 "课",
-2,
+1,
 "kè",
-"subject; course; CL:門|门[men2]; class; lesson; CL:堂[tang2],節|节[jie2]; to levy; tax; form of divination"
+"subject; course; CL:门[mén]; class; lesson; CL:堂[táng],节[jié]; to levy; tax; form of divination"
+],
+[
+"课本",
+1,
+"kè běn",
+"textbook; CL:本[běn]"
+],
+[
+"课文",
+1,
+"kè wén",
+"text; CL:篇[piān]"
+],
+[
+"上课",
+1,
+"shàng kè",
+"to go to class; to attend class; to go to teach a class"
+],
+[
+"下课",
+1,
+"xià kè",
+"to finish class; to get out of class; (fig.) (esp. of a sports coach) to be dismissed; to be fired"
+],
+[
+"课堂",
+2,
+"kè táng",
+"classroom; CL:间[jiān]"
+],
+[
+"功课",
+3,
+"gōng kè",
+"homework; assignment; task; classwork; lesson; study; CL:门[mén]"
 ],
 [
 "课程",
-5,
+3,
 "kè chéng",
-"course; academic program; CL:堂[tang2],節|节[jie2],門|门[men2]"
+"course; academic program; CL:堂[táng],节[jié],门[mén]"
 ],
 [
 "课题",
-6,
+5,
 "kè tí",
 "task; problem; issue"
 ],
 [
-"旷课",
+"补课",
 6,
+"bǔ kè",
+"to make up missed lesson; to reschedule a class"
+],
+[
+"讲课",
+6,
+"jiǎng kè",
+"teach; lecture"
+],
+[
+"备课",
+7,
+"bèi kè",
+"(of a teacher) to prepare lessons"
+],
+[
+"旷课",
+7,
 "kuàng kè",
 "to play truant; to cut classes"
 ]
 ],
 "extraWords": [
-[
-"上课",
-37.89,
-"shàng kè",
-"to go to class; to attend class; to go to teach a class"
-],
-[
-"课堂",
-19.82,
-"kè táng",
-"classroom; CL:間|间[jian1]"
-],
-[
-"下课",
-9.88,
-"xià kè",
-"to finish class; to get out of class; (fig.) (esp. of a sports coach) to be dismissed; to be fired"
-],
-[
-"功课",
-8.14,
-"gōng kè",
-"homework; assignment; task; classwork; lesson; study; CL:門|门[men2]"
-],
-[
-"课本",
-7.17,
-"kè běn",
-"textbook; CL:本[ben3]"
-],
-[
-"讲课",
-5.28,
-"jiǎng kè",
-"teach; lecture"
-],
-[
-"课文",
-5.21,
-"kè wén",
-"text; CL:篇[pian1]"
-],
 [
 "授课",
 5.04,

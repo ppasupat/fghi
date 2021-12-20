@@ -1,12 +1,31 @@
 {
 "char": "愕",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "startled, alarmed, astonished",
 "pron": "è"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"愕",
+5.31,
+"è",
+"startled"
+],
+[
+"愕然",
+3.45,
+"è rán",
+"stunned; amazed"
+],
+[
+"惊愕",
+2.06,
+"jīng è",
+"to stun; to shock and amaze; stupefied; astonishment"
+]
+],
 "strokes": [
 "M 106 538 Q 94 474 72 413 Q 59 379 83 350 Q 93 334 111 351 Q 153 402 141 490 Q 140 521 128 543 Q 121 550 116 550 Q 109 547 106 538 Z",
 "M 273 591 Q 288 582 336 541 Q 348 531 361 532 Q 370 533 373 544 Q 377 557 368 581 Q 359 606 278 623 Q 275 624 274 623 C 244 624 248 607 273 591 Z",

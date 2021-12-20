@@ -1,6 +1,6 @@
 {
 "char": "喜",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "like, love, enjoy; joyful thing",
 "pron": "xǐ"
@@ -13,42 +13,102 @@
 "to like; to be fond of"
 ],
 [
-"恭喜",
-5,
-"gōng xǐ",
-"congratulations; greetings"
-],
-[
-"喜悦",
-6,
-"xǐ yuè",
-"happy; joyous"
-],
-[
-"喜闻乐见",
-6,
-"xǐ wén lè jiàn",
-"to love to hear and see (idiom); well received; to one's liking"
-]
-],
-"extraWords": [
-[
-"惊喜",
-62.87,
-"jīng xǐ",
-"nice surprise; to be pleasantly surprised"
-],
-[
 "喜爱",
-26.59,
+4,
 "xǐ ài",
 "to like; to love; to be fond of; favorite"
 ],
 [
 "喜剧",
-24.35,
+5,
 "xǐ jù",
-"comedy; CL:部[bu4],齣|出[chu1]"
+"comedy; CL:部[bù],出[chū]"
+],
+[
+"惊喜",
+6,
+"jīng xǐ",
+"nice surprise; to be pleasantly surprised"
+],
+[
+"恭喜",
+7,
+"gōng xǐ",
+"congratulations; greetings"
+],
+[
+"讨人喜欢",
+7,
+"tǎo rén xǐ huan",
+"to attract people's affection; charming; delightful"
+],
+[
+"喜出望外",
+7,
+"xǐ chū wàng wài",
+"to be pleased beyond one's expectations (idiom); overjoyed at the turn of events"
+],
+[
+"喜好",
+7,
+"xǐ hào",
+"to like; fond of; to prefer; to love; one's tastes; preference"
+],
+[
+"喜酒",
+7,
+"xǐ jiǔ",
+"wedding feast; liquor drunk at a wedding feast"
+],
+[
+"喜怒哀乐",
+7,
+"xǐ nù āi lè",
+"four types of human emotions, namely: happiness 欢喜[huān xǐ], anger 愤怒[fèn nù], sorrow 悲哀[bēi āi] and joy 快乐[kuài lè]"
+],
+[
+"喜庆",
+7,
+"xǐ qìng",
+"jubilation; festive"
+],
+[
+"喜事",
+7,
+"xǐ shì",
+"happy occasion; wedding"
+],
+[
+"喜糖",
+7,
+"xǐ táng",
+"sweet given on a happy occasion (esp. wedding)"
+],
+[
+"喜洋洋",
+7,
+"xǐ yáng yáng",
+"radiant with joy"
+],
+[
+"喜悦",
+7,
+"xǐ yuè",
+"happy; joyous"
+],
+[
+"欣喜",
+7,
+"xīn xǐ",
+"happy"
+]
+],
+"extraWords": [
+[
+"喜",
+65.37,
+"xǐ",
+"to be fond of; to like; to enjoy; to be happy; to feel pleased; happiness; delight; glad"
 ],
 [
 "欢喜",
@@ -57,28 +117,10 @@
 "happy; joyous; delighted; to like; to be fond of"
 ],
 [
-"欣喜",
-7.94,
-"xīn xǐ",
-"happy"
-],
-[
-"喜庆",
-7.3,
-"xǐ qìng",
-"jubilation; festive"
-],
-[
 "大喜",
 6.13,
 "dà xǐ",
 "exultation"
-],
-[
-"喜好",
-5.81,
-"xǐ hào",
-"to like; fond of; to prefer; to love; one's tastes; preference"
 ],
 [
 "可喜",

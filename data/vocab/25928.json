@@ -1,6 +1,6 @@
 {
 "char": "效",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "result, effect; effectiveness",
 "pron": "xiào"
@@ -8,71 +8,143 @@
 "words": [
 [
 "效果",
-4,
+3,
 "xiào guǒ",
 "result; effect; efficacy; (theater) sound or visual effects"
 ],
 [
-"效率",
-5,
-"xiào lǜ",
-"efficiency"
-],
-[
-"生效",
-6,
-"shēng xiào",
-"to take effect; to go into effect"
-],
-[
-"成效",
-6,
-"chéng xiào",
-"effect; result"
-],
-[
-"功效",
-6,
-"gōng xiào",
-"efficacy"
-],
-[
-"效益",
-6,
-"xiào yì",
-"benefit; effectiveness; efficiency"
-]
-],
-"extraWords": [
-[
 "有效",
-180.5,
+3,
 "yǒu xiào",
 "effective; in effect; valid"
 ],
 [
-"效应",
-42.95,
-"xiào yìng",
-"effect (scientific phenomenon)"
+"效率",
+4,
+"xiào lǜ",
+"efficiency"
 ],
 [
-"疗效",
-37.13,
-"liáo xiào",
-"healing efficacy; healing effect"
+"成效",
+5,
+"chéng xiào",
+"effect; result"
 ],
 [
 "无效",
-24.54,
+6,
 "wú xiào",
 "not valid; ineffective; in vain"
 ],
 [
+"长效",
+7,
+"cháng xiào",
+"to be effective over an extended period"
+],
+[
 "高效",
-23.05,
+7,
 "gāo xiào",
 "efficient; highly effective"
+],
+[
+"功效",
+7,
+"gōng xiào",
+"efficacy"
+],
+[
+"见效",
+7,
+"jiàn xiào",
+"to have the desired effect"
+],
+[
+"疗效",
+7,
+"liáo xiào",
+"healing efficacy; healing effect"
+],
+[
+"生效",
+7,
+"shēng xiào",
+"to take effect; to go into effect"
+],
+[
+"失效",
+7,
+"shī xiào",
+"to fail; to lose effectiveness"
+],
+[
+"效仿",
+7,
+"xiào fǎng",
+"see 仿效[fǎng xiào]"
+],
+[
+"效力",
+7,
+"xiào lì",
+"effectiveness; positive effect; to serve (in some capacity)"
+],
+[
+"效益",
+7,
+"xiào yì",
+"benefit; effectiveness; efficiency"
+],
+[
+"效应",
+7,
+"xiào yìng",
+"effect (scientific phenomenon)"
+],
+[
+"有效期",
+7,
+"yǒu xiào qī",
+"period of validity; sell-by date"
+],
+[
+"奏效",
+7,
+"zòu xiào",
+"to show results; effective"
+]
+],
+"extraWords": [
+[
+"效",
+43.88,
+"xiào",
+"variant of 效[xiào]"
+],
+[
+"效",
+43.88,
+"xiào",
+"variant of 效[xiào]; to imitate"
+],
+[
+"效",
+43.88,
+"xiào",
+"variant of 效[xiào]"
+],
+[
+"效",
+43.88,
+"xiào",
+"effect; efficacy; to imitate"
+],
+[
+"经济效益",
+25.93,
+"???",
+"???"
 ],
 [
 "效劳",
@@ -87,10 +159,10 @@
 "performance; results; achievement"
 ],
 [
-"奏效",
-7.27,
-"zòu xiào",
-"to show results; effective"
+"有效率",
+8.03,
+"???",
+"???"
 ],
 [
 "效能",
@@ -99,28 +171,16 @@
 "efficacy; effectiveness"
 ],
 [
-"失效",
-6.92,
-"shī xiào",
-"to fail; to lose effectiveness"
-],
-[
-"效力",
-6.77,
-"xiào lì",
-"effectiveness; positive effect; to serve (in some capacity)"
-],
-[
 "实效",
 6.17,
 "shí xiào",
 "actual effect; practical result; efficacy"
 ],
 [
-"有效期",
-5.89,
-"yǒu xiào qī",
-"period of validity; sell-by date"
+"工作效率",
+6.1,
+"???",
+"???"
 ],
 [
 "有效性",

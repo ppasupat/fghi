@@ -1,19 +1,32 @@
 {
 "char": "渗",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "soak through, infiltrate",
 "pron": "shèn"
 },
 "words": [
 [
+"渗",
+7,
+"shèn",
+"to seep; to ooze; to horrify"
+],
+[
 "渗透",
-6,
+7,
 "shèn tòu",
 "(lit. and fig.) to permeate; to seep into; (of a product, idea etc) to penetrate (in a population); (of hostile forces) to infiltrate; (chemistry) osmosis"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"渗出",
+3.55,
+"shèn chū",
+"to seep out; to exude"
+]
+],
 "strokes": [
 "M 241 729 Q 272 704 305 674 Q 320 661 336 662 Q 348 662 353 676 Q 357 692 347 723 Q 340 745 306 759 Q 227 786 212 779 Q 206 775 209 761 Q 213 751 241 729 Z",
 "M 143 546 Q 194 495 232 478 Q 247 475 255 489 Q 261 501 257 517 Q 242 559 156 583 Q 155 584 154 584 Q 138 588 129 584 Q 123 583 126 571 Q 127 559 143 546 Z",

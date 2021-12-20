@@ -1,6 +1,6 @@
 {
 "char": "旧",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "old, ancient; former, past",
 "pron": "jiù"
@@ -14,21 +14,33 @@
 ],
 [
 "仍旧",
-6,
+5,
 "réng jiù",
 "still (remaining); to remain (the same); yet"
 ],
 [
 "依旧",
-6,
+5,
 "yī jiù",
 "as before; still"
 ],
 [
 "陈旧",
-6,
+7,
 "chén jiù",
 "old-fashioned"
+],
+[
+"怀旧",
+7,
+"huái jiù",
+"to feel nostalgic; nostalgia"
+],
+[
+"破旧",
+7,
+"pò jiù",
+"shabby"
 ]
 ],
 "extraWords": [
@@ -37,12 +49,6 @@
 14.49,
 "Jiù jīn shān",
 "San Francisco, California"
-],
-[
-"怀旧",
-5.72,
-"huái jiù",
-"to feel nostalgic; nostalgia"
 ]
 ],
 "strokes": [

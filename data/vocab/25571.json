@@ -1,11 +1,36 @@
 {
 "char": "揣",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "put things under clothes",
 "pron": "chuāi, chuǎi, chuài"
 },
-"words": [],
+"words": [
+[
+"揣",
+7,
+"chuāi",
+"to put into (one's pockets, clothes); Taiwan pr. [chuai3]"
+],
+[
+"揣",
+7,
+"chuǎi",
+"to estimate; to guess; to figure; to surmise"
+],
+[
+"揣测",
+7,
+"chuǎi cè",
+"to guess; to conjecture"
+],
+[
+"揣摩",
+7,
+"chuǎi mó",
+"to analyze; to try to figure out; to try to fathom"
+]
+],
 "extraWords": [],
 "strokes": [
 "M 298 520 Q 368 547 371 549 Q 378 558 373 565 Q 364 575 335 579 Q 316 580 300 574 L 253 553 Q 178 526 132 513 Q 98 503 125 490 Q 167 472 220 493 Q 236 499 253 504 L 298 520 Z",

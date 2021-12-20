@@ -1,6 +1,6 @@
 {
 "char": "术",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "art, skill, special feat; method, technique",
 "pron": "shù, zhú"
@@ -8,71 +8,101 @@
 "words": [
 [
 "技术",
-4,
+3,
 "jì shù",
-"technology; technique; skill; CL:門|门[men2],種|种[zhong3],項|项[xiang4]"
+"technology; technique; skill; CL:门[mén],种[zhǒng],项[xiàng]"
+],
+[
+"美术",
+3,
+"měi shù",
+"art; fine arts; painting; CL:种[zhǒng]"
+],
+[
+"武术",
+3,
+"wǔ shù",
+"military skill or technique (in former times); all kinds of martial art sports (some claiming spiritual development); self-defense; tradition of choreographed fights from opera and film (recent usage); also called kungfu 功夫; CL:种[zhǒng]"
 ],
 [
 "艺术",
-4,
+3,
 "yì shù",
 "art"
 ],
 [
 "手术",
-5,
+4,
 "shǒu shù",
-"(surgical) operation; surgery; CL:個|个[ge4]"
-],
-[
-"武术",
-5,
-"wǔ shù",
-"military skill or technique (in former times); all kinds of martial art sports (some claiming spiritual development); self-defense; tradition of choreographed fights from opera and film (recent usage); also called kungfu 功夫; CL:種|种[zhong3]"
+"(surgical) operation; surgery; CL:个[gè]"
 ],
 [
 "学术",
-5,
+4,
 "xué shù",
-"learning; science; academic; CL:個|个[ge4]"
-],
-[
-"美术",
-5,
-"měi shù",
-"art; fine arts; painting; CL:種|种[zhong3]"
-],
-[
-"魔术",
-6,
-"mó shù",
-"magic"
+"learning; science; academic; CL:个[gè]"
 ],
 [
 "战术",
 6,
 "zhàn shù",
 "tactics"
+],
+[
+"高新技术",
+7,
+"gāo xīn jì shù",
+"high tech; high technology"
+],
+[
+"魔术",
+7,
+"mó shù",
+"magic"
+],
+[
+"手术室",
+7,
+"shǒu shù shì",
+"operating room"
+],
+[
+"印刷术",
+7,
+"yìn shuā shù",
+"printing; printing technology"
+],
+[
+"造纸术",
+7,
+"zào zhǐ shù",
+"papermaking process"
 ]
 ],
 "extraWords": [
 [
+"术",
+120.82,
+"shù",
+"method; technique"
+],
+[
+"术",
+120.82,
+"zhú",
+"various genera of flowers of Asteracea family (daisies and chrysanthemums), including Atractylis lancea"
+],
+[
 "艺术家",
 24.09,
 "yì shù jiā",
-"artist; CL:個|个[ge4],位[wei4],名[ming2]"
+"artist; CL:个[gè],位[wèi],名[míng]"
 ],
 [
 "科学技术",
 23.52,
 "kē xué jì shù",
 "science and technology"
-],
-[
-"高新技术",
-22.52,
-"gāo xīn jì shù",
-"high tech; high technology"
 ],
 [
 "技术人员",
@@ -93,16 +123,10 @@
 "information technology; IT"
 ],
 [
-"手术室",
-10.31,
-"shǒu shù shì",
-"operating room"
-],
-[
 "艺术品",
 9.03,
 "yì shù pǐn",
-"art piece; work of art; CL:件[jian4]"
+"art piece; work of art; CL:件[jiàn]"
 ],
 [
 "魔术师",
@@ -121,6 +145,12 @@
 6.02,
 "wū shù",
 "witchcraft"
+],
+[
+"动手术",
+5.57,
+"???",
+"???"
 ],
 [
 "技术性",

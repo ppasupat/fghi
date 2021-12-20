@@ -1,22 +1,28 @@
 {
 "char": "顽",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "obstinate, stubborn; recalcitrant",
 "pron": "wán"
 },
 "words": [
 [
-"顽固",
+"顽皮",
 6,
-"wán gù",
-"stubborn; obstinate"
+"wán pí",
+"naughty"
 ],
 [
 "顽强",
 6,
 "wán qiáng",
 "tenacious; hard to defeat"
+],
+[
+"顽固",
+7,
+"wán gù",
+"stubborn; obstinate"
 ]
 ],
 "extraWords": [],

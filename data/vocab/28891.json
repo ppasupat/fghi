@@ -1,6 +1,6 @@
 {
 "char": "烛",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "candle, taper; shine, illuminate",
 "pron": "zhú"
@@ -8,12 +8,25 @@
 "words": [
 [
 "蜡烛",
-6,
+7,
 "là zhú",
-"candle; CL:根[gen1],支[zhi1]"
+"candle; CL:根[gēn],支[zhī]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"烛光",
+2.7,
+"zhú guāng",
+"candle light; candle-lit (vigil etc); candela, unit of luminous intensity (cd)"
+],
+[
+"烛",
+2.69,
+"zhú",
+"candle; (literary) to illuminate"
+]
+],
 "strokes": [
 "M 130 593 Q 123 526 104 463 Q 100 451 103 436 Q 107 414 118 401 Q 130 386 146 404 Q 185 455 169 546 Q 165 577 152 599 Q 145 606 140 605 Q 133 602 130 593 Z",
 "M 294 516 Q 390 591 437 618 Q 467 627 426 666 Q 407 682 387 684 Q 372 684 374 665 Q 377 638 295 543 C 275 520 270 498 294 516 Z",

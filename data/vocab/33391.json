@@ -1,55 +1,61 @@
 {
 "char": "良",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "good, virtuous, respectable",
 "pron": "liáng"
 },
 "words": [
 [
-"善良",
-5,
-"shàn liáng",
-"good and honest; kindhearted"
-],
-[
 "良好",
-5,
+4,
 "liáng hǎo",
 "good; favorable; well; fine"
 ],
 [
-"良心",
-6,
-"liáng xīn",
-"conscience"
-],
-[
-"改良",
-6,
-"gǎi liáng",
-"to improve (sth); to reform (a system)"
-]
-],
-"extraWords": [
-[
-"不良",
-43.74,
-"bù liáng",
-"bad; harmful; unhealthy"
+"善良",
+4,
+"shàn liáng",
+"good and honest; kindhearted"
 ],
 [
 "优良",
-21.19,
+4,
 "yōu liáng",
 "fine; good; first-rate"
 ],
 [
+"不良",
+5,
+"bù liáng",
+"bad; harmful; unhealthy"
+],
+[
+"改良",
+7,
+"gǎi liáng",
+"to improve (sth); to reform (a system)"
+],
+[
+"良",
+7,
+"liáng",
+"good; very; very much"
+],
+[
+"良心",
+7,
+"liáng xīn",
+"conscience"
+],
+[
 "良性",
-12.87,
+7,
 "liáng xìng",
 "positive (in its effect); leading to good consequences; virtuous; (medicine) benign (tumor etc)"
+]
 ],
+"extraWords": [
 [
 "良种",
 6.48,

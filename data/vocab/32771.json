@@ -1,16 +1,52 @@
 {
 "char": "考",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "examine, test; investigate",
 "pron": "kǎo"
 },
 "words": [
 [
+"考",
+1,
+"kǎo",
+"to beat; to hit; variant of 考[kǎo]; to inspect; to test; to take an exam"
+],
+[
+"考",
+1,
+"kǎo",
+"to check; to verify; to test; to examine; to take an exam; to take an entrance exam for; deceased father"
+],
+[
 "考试",
-2,
+1,
 "kǎo shì",
-"to take an exam; exam; CL:次[ci4]"
+"to take an exam; exam; CL:次[cì]"
+],
+[
+"考生",
+2,
+"kǎo shēng",
+"exam candidate; student whose name has been put forward for an exam"
+],
+[
+"考验",
+3,
+"kǎo yàn",
+"to test; to put to the test; trial; ordeal"
+],
+[
+"参考",
+4,
+"cān kǎo",
+"consultation; reference; to consult; to refer"
+],
+[
+"考察",
+4,
+"kǎo chá",
+"to inspect; to observe and study; on-the-spot investigation"
 ],
 [
 "考虑",
@@ -20,65 +56,59 @@
 ],
 [
 "思考",
-5,
+4,
 "sī kǎo",
 "to reflect on; to ponder over"
 ],
 [
-"参考",
-5,
-"cān kǎo",
-"consultation; reference; to consult; to refer"
-],
-[
-"考验",
-6,
-"kǎo yàn",
-"to test; to put to the test; trial; ordeal"
-],
-[
-"考察",
-6,
-"kǎo chá",
-"to inspect; to observe and study; on-the-spot investigation"
-],
-[
-"考古",
-6,
-"kǎo gǔ",
-"archaeology"
-],
-[
 "考核",
-6,
+5,
 "kǎo hé",
 "to examine; to check up on; to assess; to review; appraisal; review; evaluation"
-]
-],
-"extraWords": [
-[
-"考生",
-58.55,
-"kǎo shēng",
-"exam candidate; student whose name has been put forward for an exam"
-],
-[
-"高考",
-44.81,
-"gāo kǎo",
-"college entrance exam (especially as abbr. for 普通高等學校招生全國統一考試|普通高等学校招生全国统一考试[Pu3 tong1 Gao1 deng3 Xue2 xiao4 Zhao1 sheng1 Quan2 guo2 Tong3 yi1 Kao3 shi4]); (Tw) entrance exam for senior government service posts (abbr. for 公務人員高等考試|公务人员高等考试)"
 ],
 [
 "报考",
-14.73,
+6,
 "bào kǎo",
 "to enter oneself for an examination"
 ],
 [
+"补考",
+6,
+"bǔ kǎo",
+"to sit for a makeup exam; to resit an exam; makeup exam; resit"
+],
+[
+"高考",
+6,
+"gāo kǎo",
+"college entrance exam (especially as abbr. for 普通高等学校招生全国统一考试[Pǔ tōng Gāo děng Xué xiào Zhāo shēng Quán guó Tǒng yī Kǎo shì]); (Tw) entrance exam for senior government service posts (abbr. for 公務人員高等考試|公务人员高等考试)"
+],
+[
 "考场",
-9.57,
+6,
 "kǎo chǎng",
 "exam room"
+],
+[
+"考题",
+6,
+"kǎo tí",
+"exam question"
+],
+[
+"考量",
+7,
+"kǎo liáng",
+"to consider; to give serious consideration to sth; consideration"
+]
+],
+"extraWords": [
+[
+"考古",
+9.94,
+"kǎo gǔ",
+"archaeology"
 ],
 [
 "考上",
@@ -99,10 +129,16 @@
 "to investigate; to study"
 ],
 [
+"考点",
+5.55,
+"???",
+"???"
+],
+[
 "考证",
 5.21,
 "kǎo zhèng",
-"to do textual research; to make textual criticism; to verify by means of research (esp. historical details); to take an exam to get a certificate (abbr. for 考取證件|考取证件[kao3 qu3 zheng4 jian4])"
+"to do textual research; to make textual criticism; to verify by means of research (esp. historical details); to take an exam to get a certificate (abbr. for 考取证件[kǎo qǔ zhèng jiàn])"
 ]
 ],
 "strokes": [

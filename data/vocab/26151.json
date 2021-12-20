@@ -1,30 +1,30 @@
 {
 "char": "昧",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "obscure, dark; darken",
 "pron": "mèi"
 },
 "words": [
 [
-"暧昧",
-6,
-"ài mèi",
-"vague; ambiguous; equivocal; dubious"
-],
-[
-"愚昧",
-6,
-"yú mèi",
-"ignorant; uneducated; ignorance"
+"冒昧",
+7,
+"mào mèi",
+"bold; presumptuous; to take the liberty of"
 ]
 ],
 "extraWords": [
 [
-"冒昧",
-6.08,
-"mào mèi",
-"bold; presumptuous; to take the liberty of"
+"暧昧",
+10.81,
+"ài mèi",
+"vague; ambiguous; equivocal; dubious"
+],
+[
+"昧",
+4.24,
+"mèi",
+"to conceal; dark"
 ]
 ],
 "strokes": [

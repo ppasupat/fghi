@@ -1,6 +1,6 @@
 {
 "char": "鄙",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "mean; low",
 "pron": "bǐ"
@@ -8,18 +8,25 @@
 "words": [
 [
 "卑鄙",
-6,
+7,
 "bēi bǐ",
 "base; mean; contemptible; despicable"
 ],
 [
 "鄙视",
-6,
+7,
 "bǐ shì",
 "to despise; to disdain; to look down upon"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"鄙",
+2.62,
+"bǐ",
+"rustic; low; base; mean; to despise; to scorn"
+]
+],
 "strokes": [
 "M 260 756 Q 250 760 225 764 Q 215 767 211 762 Q 205 756 213 741 Q 237 695 252 620 Q 255 598 269 583 Q 285 562 290 577 Q 291 583 293 591 L 293 618 Q 283 651 277 728 C 275 751 275 751 260 756 Z",
 "M 481 647 Q 508 722 538 740 Q 554 756 540 773 Q 471 827 418 797 Q 337 770 260 756 C 231 750 248 722 277 728 Q 280 728 431 761 Q 447 765 453 758 Q 460 751 458 735 Q 448 692 436 655 C 427 626 471 619 481 647 Z",

@@ -1,19 +1,31 @@
 {
 "char": "铲",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "spade, shovel, trowel, scoop",
 "pron": "chǎn"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"铲",
+7,
+"chǎn",
+"to level off; to root up"
+],
+[
+"铲",
+7,
+"chǎn",
+"to shovel; to remove; spade; shovel"
+],
 [
 "铲子",
-5.31,
+7,
 "chǎn zi",
-"shovel; spade; trowel; spatula (kitchen utensil); CL:把[ba3]"
+"shovel; spade; trowel; spatula (kitchen utensil); CL:把[bǎ]"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 187 499 Q 230 553 278 625 L 297 656 Q 315 702 354 741 Q 364 751 359 765 Q 355 778 326 799 Q 299 818 281 817 Q 262 816 270 793 Q 285 762 273 735 Q 237 644 181 561 Q 129 479 54 391 Q 44 381 42 374 Q 39 364 53 366 Q 83 370 172 480 L 187 499 Z",
 "M 278 625 Q 320 613 361 628 Q 395 637 431 646 Q 447 650 449 653 Q 456 660 452 669 Q 445 679 415 684 Q 387 688 358 674 Q 354 674 297 656 C 268 647 249 633 278 625 Z",

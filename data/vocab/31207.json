@@ -1,12 +1,32 @@
 {
 "char": "秧",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "rice seedlings, young rice plants",
 "pron": "yāng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"秧歌",
+7,
+"yāng ge",
+"Yangge, a popular rural folk dance"
+]
+],
+"extraWords": [
+[
+"秧",
+3.72,
+"yāng",
+"shoots; sprouts"
+],
+[
+"插秧",
+2.72,
+"chā yāng",
+"to transplant rice seedlings"
+]
+],
 "strokes": [
 "M 295 671 Q 361 710 411 726 Q 427 729 430 737 Q 433 747 420 758 Q 398 771 352 783 Q 336 789 323 786 Q 316 782 317 770 Q 318 731 140 620 Q 136 610 142 608 Q 157 608 238 645 Q 250 649 263 655 L 295 671 Z",
 "M 314 472 Q 351 482 399 492 Q 415 495 415 502 Q 415 515 397 521 Q 364 534 316 513 L 275 501 Q 110 458 58 449 Q 46 448 44 439 Q 41 429 56 419 Q 96 395 133 411 Q 205 438 254 455 L 314 472 Z",

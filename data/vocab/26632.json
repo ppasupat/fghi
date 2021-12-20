@@ -1,12 +1,31 @@
 {
 "char": "栈",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "warehouse; tavern, inn",
 "pron": "zhàn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"客栈",
+3.89,
+"kè zhàn",
+"tavern; guest house; inn; hotel"
+],
+[
+"栈",
+1.71,
+"zhàn",
+"a wooden or bamboo pen for sheep or cattle; wood or bamboo trestlework; a warehouse; (computing) stack"
+],
+[
+"栈道",
+0.99,
+"zhàn dào",
+"plank walkway constructed on the face of a cliff; (archaic) elevated passageway connecting the upper levels of adjacent towers"
+]
+],
 "strokes": [
 "M 335 528 Q 428 558 433 561 Q 440 568 436 577 Q 429 587 399 593 Q 356 599 337 581 L 293 564 Q 209 537 135 525 Q 101 516 126 502 Q 172 481 221 498 Q 248 505 276 513 L 335 528 Z",
 "M 332 427 Q 333 475 335 528 L 337 581 Q 338 672 357 734 Q 366 749 363 762 Q 356 772 302 805 Q 280 821 259 807 Q 255 803 260 787 Q 293 738 293 690 Q 293 632 293 564 L 289 412 Q 282 196 277 170 Q 253 52 254 50 Q 254 35 273 -6 Q 279 -24 287 -27 Q 293 -34 300 -25 Q 307 -21 318 -1 Q 328 24 327 54 Q 326 94 332 397 L 332 427 Z",

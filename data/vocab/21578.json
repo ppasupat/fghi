@@ -1,6 +1,6 @@
 {
 "char": "告",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "tell, announce, inform; accuse",
 "pron": "gào"
@@ -8,43 +8,49 @@
 "words": [
 [
 "告诉",
-2,
+1,
 "gào sù",
 "to press charges; to file a complaint"
 ],
 [
 "告诉",
-2,
+1,
 "gào su",
 "to tell; to inform; to let know"
 ],
 [
 "广告",
-4,
+2,
 "guǎng gào",
-"to advertise; a commercial; advertisement; CL:項|项[xiang4]"
+"to advertise; a commercial; advertisement; CL:项[xiàng]"
 ],
 [
 "报告",
-5,
+3,
 "bào gào",
-"to inform; to report; to make known; report; speech; talk; lecture; CL:篇[pian1],份[fen4],個|个[ge4],通[tong4]"
+"to inform; to report; to make known; report; speech; talk; lecture; CL:篇[piān],份[fèn],个[gè],通[tòng]"
 ],
 [
 "告别",
-5,
+3,
 "gào bié",
 "to leave; to bid farewell to; to say good-bye to"
 ],
 [
 "转告",
-5,
+4,
 "zhuǎn gào",
 "to pass on; to communicate; to transmit"
 ],
 [
+"公告",
+5,
+"gōng gào",
+"post; announcement"
+],
+[
 "警告",
-6,
+5,
 "jǐng gào",
 "to warn; to admonish"
 ],
@@ -61,48 +67,84 @@
 "complainant; plaintiff"
 ],
 [
-"公告",
-6,
-"gōng gào",
-"post; announcement"
+"告",
+7,
+"gào",
+"to say; to tell; to announce; to report; to denounce; to file a lawsuit; to sue"
 ],
 [
 "告辞",
-6,
+7,
 "gào cí",
 "to say goodbye; to take one's leave"
 ],
 [
 "告诫",
-6,
+7,
 "gào jiè",
 "to warn; to admonish"
 ],
 [
-"布告",
-6,
-"bù gào",
-"posting on a bulletin board; notice; bulletin; to announce"
-]
+"告示",
+7,
+"gào shi",
+"announcement"
 ],
-"extraWords": [
 [
 "告知",
-19.86,
+7,
 "gào zhī",
 "to inform"
 ],
+[
+"告状",
+7,
+"gào zhuàng",
+"to tell on sb; to complain (to a teacher, a superior etc); to bring a lawsuit"
+],
+[
+"控告",
+7,
+"kòng gào",
+"to accuse; to charge; to indict"
+],
+[
+"劝告",
+7,
+"quàn gào",
+"to advise; to urge; to exhort; exhortation; advice; CL:席[xí]"
+],
+[
+"通告",
+7,
+"tōng gào",
+"to announce; to give notice"
+],
+[
+"无可奉告",
+7,
+"wú kě fèng gào",
+"(idiom) \"no comment\""
+],
+[
+"宣告",
+7,
+"xuān gào",
+"to declare; to proclaim"
+],
+[
+"预告",
+7,
+"yù gào",
+"to forecast; to predict; advance notice"
+]
+],
+"extraWords": [
 [
 "被告人",
 13.04,
 "bèi gào rén",
 "defendant (in legal case)"
-],
-[
-"控告",
-12.97,
-"kòng gào",
-"to accuse; to charge; to indict"
 ],
 [
 "祷告",
@@ -111,28 +153,16 @@
 "to pray; prayer"
 ],
 [
-"宣告",
-10.43,
-"xuān gào",
-"to declare; to proclaim"
-],
-[
-"预告",
-7.63,
-"yù gào",
-"to forecast; to predict; advance notice"
-],
-[
-"通告",
-7.07,
-"tōng gào",
-"to announce; to give notice"
-],
-[
 "告发",
 7.06,
 "gào fā",
 "to lodge an accusation; accusation (law)"
+],
+[
+"报告期",
+7.05,
+"???",
+"???"
 ],
 [
 "忠告",

@@ -1,6 +1,6 @@
 {
 "char": "户",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "door; family",
 "pron": "hù"
@@ -10,31 +10,79 @@
 "窗户",
 4,
 "chuāng hu",
-"window; CL:個|个[ge4],扇[shan4]"
+"window; CL:个[gè],扇[shàn]"
 ],
 [
-"账户",
-5,
-"zhàng hù",
-"bank account; online account"
+"户",
+4,
+"hù",
+"a household; door; family"
 ],
 [
 "客户",
-6,
+5,
 "kè hù",
 "client; customer"
 ],
 [
 "用户",
-6,
+5,
 "yòng hù",
 "user; consumer; subscriber; customer"
 ],
 [
-"家喻户晓",
+"户外",
 6,
+"hù wài",
+"outdoor"
+],
+[
+"账户",
+6,
+"zhàng hù",
+"bank account; online account"
+],
+[
+"挨家挨户",
+7,
+"āi jiā āi hù",
+"to go from house to house"
+],
+[
+"家家户户",
+7,
+"jiā jiā hù hù",
+"each and every family (idiom); every household"
+],
+[
+"家喻户晓",
+7,
 "jiā yù hù xiǎo",
 "understood by everyone (idiom); well known; a household name"
+],
+[
+"落户",
+7,
+"luò hù",
+"to settle; to set up home"
+],
+[
+"门当户对",
+7,
+"mén dāng hù duì",
+"the families are well-matched in terms of social status (idiom); (of a prospective marriage partner) an appropriate match"
+],
+[
+"千家万户",
+7,
+"qiān jiā wàn hù",
+"every family (idiom)"
+],
+[
+"住户",
+7,
+"zhù hù",
+"household; inhabitant; householder"
 ]
 ],
 "extraWords": [
@@ -51,34 +99,16 @@
 "population (counted as number of households for census or taxation); registered residence; residence permit; (in Hong Kong and Macau) bank account"
 ],
 [
-"户外",
-13.17,
-"hù wài",
-"outdoor"
-],
-[
 "门户",
 11.52,
 "mén hù",
 "door; strategic gateway; portal; faction; sect; family status; family; web portal; (old) brothel"
 ],
 [
-"住户",
-10.9,
-"zhù hù",
-"household; inhabitant; householder"
-],
-[
 "大户",
 9.66,
 "dà hù",
 "great family; rich family; large landlord; conspicuous spender or consumer"
-],
-[
-"落户",
-8.97,
-"luò hù",
-"to settle; to set up home"
 ],
 [
 "户籍",

@@ -1,14 +1,38 @@
 {
 "char": "帆",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "sail; boat",
 "pron": "fān"
 },
 "words": [
 [
+"帆",
+7,
+"fān",
+"variant of 帆[fān]"
+],
+[
+"帆",
+7,
+"fān",
+"sail; Taiwan pr. [fan2], except 帆布[fān bù] canvas"
+],
+[
+"帆",
+7,
+"fān",
+"to gallop; Taiwan pr. [fan2]; variant of 帆[fān]"
+],
+[
+"帆船",
+7,
+"fān chuán",
+"sailboat"
+],
+[
 "一帆风顺",
-6,
+7,
 "yī fān fēng shùn",
 "propitious wind throughout the journey (idiom); plain sailing; to go smoothly; have a nice trip!"
 ]

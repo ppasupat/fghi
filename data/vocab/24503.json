@@ -1,6 +1,6 @@
 {
 "char": "德",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "ethics, morality, virtue",
 "pron": "dé"
@@ -10,11 +10,47 @@
 "道德",
 5,
 "dào dé",
-"virtue; morality; ethics; CL:種|种[zhong3]"
+"virtue; morality; ethics; CL:种[zhǒng]"
+],
+[
+"德",
+7,
+"Dé",
+"Germany; German; abbr. for 德国[Dé guó]"
+],
+[
+"德",
+7,
+"dé",
+"virtue; goodness; morality; ethics; kindness; favor; character; kind"
+],
+[
+"德",
+7,
+"dé",
+"variant of 德[dé]"
+],
+[
+"德",
+7,
+"dé",
+"variant of 德[dé]"
+],
+[
+"美德",
+7,
+"Měi Dé",
+"USA and Germany"
+],
+[
+"美德",
+7,
+"měi dé",
+"virtue"
 ],
 [
 "品德",
-6,
+7,
 "pǐn dé",
 "moral character"
 ]
@@ -30,7 +66,7 @@
 "西德",
 24.65,
 "Xī Dé",
-"West Germany; German Federal Republic 德意志聯邦共和國|德意志联邦共和国[De2 yi4 zhi4 Lian2 bang1 Gong4 he2 guo2]"
+"West Germany; German Federal Republic 德意志联邦共和国[Dé yì zhì Lián bāng Gòng hé guó]"
 ],
 [
 "霍华德",
@@ -51,6 +87,12 @@
 "Dezhou prefecture-level city in Shandong; abbr. for 德克薩斯州|德克萨斯州, Texas"
 ],
 [
+"泰德",
+11.18,
+"???",
+"???"
+],
+[
 "爱德华",
 10.22,
 "Ài dé huá",
@@ -61,6 +103,18 @@
 9.37,
 "Fèi dé lè",
 "Roger Federer (1981-), Swiss tennis star"
+],
+[
+"德国队",
+9.11,
+"???",
+"???"
+],
+[
+"费耶德",
+8.61,
+"???",
+"???"
 ],
 [
 "德语",
@@ -96,7 +150,7 @@
 "马德里",
 7.06,
 "Mǎ dé lǐ",
-"variant of 馬德里|马德里[Ma3 de2 li3], Madrid"
+"variant of 马德里[Mǎ dé lǐ], Madrid"
 ],
 [
 "马德里",
@@ -108,25 +162,13 @@
 "韦德",
 6.47,
 "Wéi dé",
-"Wade (name); Sir Thomas Francis Wade (1818-1895), sinologist 威妥瑪|威妥玛[Wei1 Tuo3 ma3]"
+"Wade (name); Sir Thomas Francis Wade (1818-1895), sinologist 威妥玛[Wēi Tuǒ mǎ]"
 ],
 [
 "德国人",
 6.36,
 "Dé guó rén",
 "German person or people"
-],
-[
-"美德",
-6.03,
-"Měi Dé",
-"USA and Germany"
-],
-[
-"美德",
-6.03,
-"měi dé",
-"virtue"
 ],
 [
 "德育",
@@ -145,6 +187,18 @@
 5.75,
 "Ān dé lǔ",
 "Andrew (name)"
+],
+[
+"奥德莉",
+5.46,
+"???",
+"???"
+],
+[
+"郭德纲",
+5.44,
+"???",
+"???"
 ]
 ],
 "strokes": [

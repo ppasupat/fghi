@@ -1,91 +1,139 @@
 {
 "char": "片",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "slice, splinter, strip; rad. 91",
 "pron": "piān, piàn"
 },
 "words": [
 [
-"照片",
-3,
-"zhào piàn",
-"photograph; picture; CL:張|张[zhang1],套[tao4],幅[fu2]"
-],
-[
 "片",
-5,
+2,
 "piān",
 "disk; sheet"
 ],
 [
 "片",
-5,
+2,
 "piàn",
-"thin piece; flake; a slice; film; TV play; to slice; to carve thin; partial; incomplete; one-sided; classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc; used with numeral 一[yi1]: classifier for scenario, scene, feeling, atmosphere, sound etc; Kangxi radical 91"
+"thin piece; flake; a slice; film; TV play; to slice; to carve thin; partial; incomplete; one-sided; classifier for slices, tablets, tract of land, area of water; classifier for CDs, movies, DVDs etc; used with numeral 一[yī]: classifier for scenario, scene, feeling, atmosphere, sound etc; Kangxi radical 91"
 ],
 [
-"名片",
-5,
-"míng piàn",
-"(business) card"
+"图片",
+2,
+"tú piàn",
+"image; picture; photograph; CL:张[zhāng]"
+],
+[
+"药片",
+2,
+"yào piàn",
+"a (medicine) pill or tablet; CL:片[piàn]"
+],
+[
+"影片",
+2,
+"yǐng piàn",
+"film; movie; CL:部[bù]"
+],
+[
+"照片",
+2,
+"zhào piàn",
+"photograph; picture; CL:张[zhāng],套[tào],幅[fú]"
+],
+[
+"唱片",
+4,
+"chàng piàn",
+"gramophone record; LP; music CD; musical album; CL:张[zhāng]"
 ],
 [
 "动画片",
-5,
+4,
 "dòng huà piàn",
 "animated film"
 ],
 [
+"名片",
+4,
+"míng piàn",
+"(business) card"
+],
+[
 "片面",
-5,
+4,
 "piàn miàn",
 "unilateral; one-sided"
 ],
 [
-"片刻",
+"相片",
+4,
+"xiàng piàn",
+"image; photograph; CL:张[zhāng]"
+],
+[
+"短片",
 6,
-"piàn kè",
-"short period of time; a moment"
+"duǎn piàn",
+"short film; video clip"
 ],
 [
-"片断",
+"薯片",
 6,
-"piàn duàn",
-"section; fragment; segment"
-]
-],
-"extraWords": [
-[
-"图片",
-86.76,
-"tú piàn",
-"image; picture; photograph; CL:張|张[zhang1]"
-],
-[
-"影片",
-49.93,
-"yǐng piàn",
-"film; movie; CL:部[bu4]"
-],
-[
-"唱片",
-28.47,
-"chàng piàn",
-"gramophone record; LP; music CD; musical album; CL:張|张[zhang1]"
-],
-[
-"芯片",
-26.33,
-"xīn piàn",
-"computer chip; microchip"
+"shǔ piàn",
+"fried potato chips"
 ],
 [
 "大片",
-21.62,
+7,
 "dà piàn",
 "wide expanse; large area; vast stretch; extending widely; blockbuster movie"
 ],
+[
+"纪录片",
+7,
+"jì lù piàn",
+"newsreel; documentary (film or TV program); CL:部[bù]"
+],
+[
+"胶片",
+7,
+"jiāo piàn",
+"(photographic) film"
+],
+[
+"卡片",
+7,
+"kǎ piàn",
+"card"
+],
+[
+"片子",
+7,
+"piān zi",
+"film; movie; film reel; phonograph record; X-ray image"
+],
+[
+"片子",
+7,
+"piàn zi",
+"thin flake; small piece"
+],
+[
+"片段",
+7,
+"piàn duàn",
+"fragment (of speech etc); extract (from book etc); episode (of story etc)"
+],
+[
+"芯片",
+7,
+"xīn piàn",
+"computer chip; microchip"
+]
+],
+"extraWords": [
 [
 "碎片",
 19.05,
@@ -93,34 +141,10 @@
 "chip; fragment; splinter; tatter"
 ],
 [
-"片子",
-16.9,
-"piān zi",
-"film; movie; film reel; phonograph record; X-ray image"
-],
-[
-"片子",
-16.9,
-"piàn zi",
-"thin flake; small piece"
-],
-[
-"卡片",
-13.86,
-"kǎ piàn",
-"card"
-],
-[
-"片段",
-10.66,
-"piàn duàn",
-"fragment (of speech etc); extract (from book etc); episode (of story etc)"
-],
-[
-"相片",
-8.94,
-"xiàng piàn",
-"image; photograph; CL:張|张[zhang1]"
+"片刻",
+14.25,
+"piàn kè",
+"short period of time; a moment"
 ],
 [
 "切片",
@@ -135,12 +159,6 @@
 "oatmeal; rolled oats"
 ],
 [
-"纪录片",
-7.2,
-"jì lù piàn",
-"newsreel; documentary (film or TV program); CL:部[bu4]"
-],
-[
 "芯片组",
 6.74,
 "xīn piàn zǔ",
@@ -151,12 +169,6 @@
 6.37,
 "míng xìn piàn",
 "postcard"
-],
-[
-"药片",
-6.29,
-"yào piàn",
-"a (medicine) pill or tablet; CL:片[pian4]"
 ],
 [
 "叶片",

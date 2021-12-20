@@ -1,22 +1,28 @@
 {
 "char": "妨",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "interfere with, impede, obstruct",
 "pron": "fáng"
 },
 "words": [
 [
+"不妨",
+7,
+"bù fáng",
+"there is no harm in; might as well"
+],
+[
 "妨碍",
-5,
+7,
 "fáng ài",
 "to hinder; to obstruct"
 ],
 [
-"不妨",
-6,
-"bù fáng",
-"there is no harm in; might as well"
+"妨害",
+7,
+"fáng hài",
+"to jeopardize; to be harmful to; to undermine"
 ]
 ],
 "extraWords": [],

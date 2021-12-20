@@ -1,17 +1,30 @@
 {
 "char": "荧",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "shine, shimmer; shining, dazzling",
 "pron": "yíng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "荧光",
-7.47,
+7,
 "yíng guāng",
 "fluorescence; fluorescent"
+]
+],
+"extraWords": [
+[
+"荧屏",
+3.45,
+"yíng píng",
+"fluorescent screen; TV screen"
+],
+[
+"荧幕",
+1.4,
+"yíng mù",
+"TV screen"
 ]
 ],
 "strokes": [

@@ -1,17 +1,30 @@
 {
 "char": "卦",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "fortune telling; tell fortunes",
 "pron": "guà"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "八卦",
-13.95,
+7,
 "bā guà",
-"the eight divinatory trigrams of the Book of Changes 易經|易经[Yi4 jing1]; gossip; gossipy"
+"the eight divinatory trigrams of the Book of Changes 易经[Yì jīng]; gossip; gossipy"
+]
+],
+"extraWords": [
+[
+"卦",
+5.18,
+"guà",
+"divinatory diagram; one of the eight divinatory trigrams of the Book of Changes 易经[Yì jīng]; one of the sixty-four divinatory hexagrams of the Book of Changes 易经[Yì jīng]"
+],
+[
+"变卦",
+0.95,
+"biàn guà",
+"to change one's mind; to go back on one's word"
 ]
 ],
 "strokes": [

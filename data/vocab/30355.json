@@ -1,12 +1,37 @@
 {
 "char": "皓",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "bright, luminous; clear; hoary",
 "pron": "hào"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"王皓",
+2.99,
+"???",
+"???"
+],
+[
+"皓",
+2.27,
+"hào",
+"variant of 皓[hào]"
+],
+[
+"皓",
+2.27,
+"hào",
+"bright; luminous; white (esp. bright white teeth of youth or white hair of old age)"
+],
+[
+"皓",
+2.27,
+"hào",
+"variant of 皓[hào]; spotlessly white"
+]
+],
 "strokes": [
 "M 175 505 Q 275 647 329 707 Q 347 717 339 728 Q 327 743 302 757 Q 275 770 250 767 Q 234 763 242 741 Q 257 714 150 504 Q 149 504 149 502 C 135 475 158 480 175 505 Z",
 "M 149 502 Q 133 512 116 516 Q 109 517 103 510 Q 100 504 107 496 Q 149 406 123 250 Q 111 232 119 201 Q 128 173 139 162 Q 149 152 156 164 Q 162 171 165 181 L 171 215 Q 174 254 172 326 L 171 360 Q 168 450 171 474 C 172 489 172 489 149 502 Z",

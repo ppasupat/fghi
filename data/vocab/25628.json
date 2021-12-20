@@ -1,37 +1,49 @@
 {
 "char": "搜",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "search, seek; investigate",
 "pron": "sōu"
 },
 "words": [
 [
+"搜",
+5,
+"sōu",
+"to search"
+],
+[
 "搜索",
 5,
 "sōu suǒ",
 "to search (a place); to search (a database); to search for (sth)"
-]
 ],
-"extraWords": [
 [
 "搜查",
-46.17,
+7,
 "sōu chá",
 "to search"
 ],
 [
-"搜寻",
-12.52,
-"sōu xún",
-"to search; to look for"
-],
-[
 "搜集",
-9.14,
+7,
 "sōu jí",
 "to gather; to collect"
 ],
+[
+"搜救",
+7,
+"sōu jiù",
+"search and rescue"
+],
+[
+"搜寻",
+7,
+"sōu xún",
+"to search; to look for"
+]
+],
+"extraWords": [
 [
 "搜狐",
 6.35,

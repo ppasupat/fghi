@@ -1,6 +1,6 @@
 {
 "char": "娶",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "marry, take wife",
 "pron": "qǔ"
@@ -8,12 +8,25 @@
 "words": [
 [
 "娶",
-5,
+7,
 "qǔ",
 "to take a wife; to marry (a woman)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"迎娶",
+1.2,
+"yíng qǔ",
+"(of a groom) to escort the bride to the wedding ceremony; fig. to take as one's wife; to marry"
+],
+[
+"娶媳妇",
+0.79,
+"qǔ xí fù",
+"to get oneself a wife; to take a daughter-in-law"
+]
+],
 "strokes": [
 "M 477 769 Q 486 772 499 773 Q 550 783 558 790 Q 565 797 562 805 Q 556 815 530 824 Q 506 830 403 800 Q 303 778 201 769 Q 168 765 191 749 Q 213 734 249 733 L 287 737 Q 354 750 427 759 L 477 769 Z",
 "M 249 733 Q 262 703 266 616 Q 266 562 269 461 C 270 431 308 440 308 470 Q 308 506 309 538 L 309 562 Q 310 596 311 627 L 312 654 Q 312 672 314 692 Q 321 714 287 737 C 263 755 239 761 249 733 Z",

@@ -1,28 +1,40 @@
 {
 "char": "式",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "style, system, formula, rule",
 "pron": "shì"
 },
 "words": [
 [
+"方式",
+3,
+"fāng shì",
+"way; manner; style; mode; pattern; CL:个[gè]"
+],
+[
+"形式",
+3,
+"xíng shì",
+"outer appearance; form; shape; formality; CL:个[gè]"
+],
+[
 "正式",
-4,
+3,
 "zhèng shì",
 "formal; official"
 ],
 [
-"方式",
+"闭幕式",
 5,
-"fāng shì",
-"way; manner; style; mode; pattern; CL:個|个[ge4]"
+"bì mù shì",
+"closing ceremony"
 ],
 [
-"形式",
+"公式",
 5,
-"xíng shì",
-"outer appearance; form; shape; formality; CL:個|个[ge4]"
+"gōng shì",
+"formula"
 ],
 [
 "开幕式",
@@ -31,10 +43,16 @@
 "opening ceremony"
 ],
 [
-"样式",
+"模式",
 5,
-"yàng shì",
-"type; style"
+"mó shì",
+"mode; method; pattern"
+],
+[
+"式",
+5,
+"shì",
+"type; form; pattern; style"
 ],
 [
 "仪式",
@@ -43,34 +61,34 @@
 "ceremony"
 ],
 [
-"模式",
-6,
-"mó shì",
-"mode; method; pattern"
+"格式",
+7,
+"gé shì",
+"form; specification; format"
+],
+[
+"各式各样",
+7,
+"gè shì gè yàng",
+"(of) all kinds and sorts; various"
 ],
 [
 "款式",
-6,
+7,
 "kuǎn shì",
-"pattern; style; design; CL:種|种[zhong3]"
+"pattern; style; design; CL:种[zhǒng]"
 ],
 [
 "款式",
-6,
+7,
 "kuǎn shi",
 "elegant; elegance; good taste"
 ],
 [
-"公式",
-6,
-"gōng shì",
-"formula"
-],
-[
-"格式",
-6,
-"gé shì",
-"form; specification; format"
+"新式",
+7,
+"xīn shì",
+"new style; latest type"
 ]
 ],
 "extraWords": [
@@ -81,10 +99,28 @@
 "way of life; lifestyle"
 ],
 [
+"开放式",
+11.17,
+"???",
+"???"
+],
+[
+"封闭式",
+9.02,
+"???",
+"???"
+],
+[
 "老式",
 6.74,
 "lǎo shì",
 "old-fashioned; old type; outdated"
+],
+[
+"样式",
+5.4,
+"yàng shì",
+"type; style"
 ]
 ],
 "strokes": [

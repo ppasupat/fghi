@@ -1,6 +1,6 @@
 {
 "char": "扣",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "knock, strike, rap, tap; button",
 "pron": "kòu"
@@ -19,32 +19,49 @@
 "button"
 ],
 [
-"纽扣儿",
-6,
-"niu3 kou4 r5",
-"button"
-]
+"回扣",
+7,
+"huí kòu",
+"brokerage; a commission paid to a middleman; euphemism for a bribe; a kickback"
 ],
-"extraWords": [
 [
 "扣除",
-11.9,
+7,
 "kòu chú",
 "to deduct"
 ],
 [
-"折扣",
-11.27,
-"zhé kòu",
-"discount"
+"扣留",
+7,
+"kòu liú",
+"to detain; to arrest; to hold; to confiscate"
 ],
 [
-"回扣",
-5.73,
-"huí kòu",
-"brokerage; a commission paid to a middleman; euphemism for a bribe; a kickback"
+"扣人心弦",
+7,
+"kòu rén xīn xián",
+"to excite; to thrill; exciting; thrilling; cliff-hanging"
+],
+[
+"扣押",
+7,
+"kòu yā",
+"to detain; to hold in custody; to distrain; to seize property"
+],
+[
+"纽扣",
+7,
+"niǔ kòu",
+"button"
+],
+[
+"折扣",
+7,
+"zhé kòu",
+"discount"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 367 519 Q 394 529 423 536 Q 463 549 469 555 Q 478 564 472 572 Q 465 584 434 589 Q 403 593 373 578 Q 370 577 368 576 L 317 556 Q 193 522 159 515 Q 122 506 150 491 Q 196 470 250 487 Q 281 496 316 505 L 367 519 Z",
 "M 314 304 Q 313 219 313 113 Q 312 89 299 80 Q 293 74 226 87 Q 192 99 195 88 Q 196 81 217 66 Q 280 14 295 -14 Q 314 -48 329 -49 Q 345 -50 359 -14 Q 378 32 376 109 Q 369 224 366 338 L 366 371 Q 365 446 367 519 L 368 576 Q 377 723 388 755 Q 406 786 348 809 Q 314 828 293 821 Q 275 814 291 791 Q 313 763 315 727 Q 316 709 317 556 L 316 505 Q 315 438 314 346 L 314 304 Z",

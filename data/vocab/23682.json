@@ -1,6 +1,6 @@
 {
 "char": "岂",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "how? what?",
 "pron": "qǐ"
@@ -8,7 +8,7 @@
 "words": [
 [
 "岂有此理",
-6,
+7,
 "qǐ yǒu cǐ lǐ",
 "how can this be so? (idiom); preposterous; ridiculous; absurd"
 ]
@@ -19,6 +19,18 @@
 11.41,
 "qǐ bù",
 "how couldn't...?; wouldn't it...?"
+],
+[
+"岂",
+4.97,
+"kǎi",
+"old variant of 恺[kǎi]; old variant of 凯[kǎi]"
+],
+[
+"岂",
+4.97,
+"qǐ",
+"how? (emphatic question)"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "故",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "ancient, old; reason, because",
 "pron": "gù"
@@ -8,27 +8,33 @@
 "words": [
 [
 "故事",
-3,
+2,
 "gù shì",
-"old practice; CL:個|个[ge4]"
+"old practice; CL:个[gè]"
 ],
 [
 "故事",
-3,
+2,
 "gù shi",
 "narrative; story; tale"
 ],
 [
 "故意",
-4,
+2,
 "gù yì",
 "deliberately; on purpose"
 ],
 [
+"故乡",
+3,
+"gù xiāng",
+"home; homeland; native place; CL:个[gè]"
+],
+[
 "事故",
-6,
+3,
 "shì gù",
-"accident; CL:樁|桩[zhuang1],起[qi3],次[ci4]"
+"accident; CL:桩[zhuāng],起[qǐ],次[cì]"
 ],
 [
 "故障",
@@ -43,16 +49,28 @@
 "reason; cause"
 ],
 [
-"故乡",
-6,
-"gù xiāng",
-"home; homeland; native place; CL:個|个[ge4]"
+"故",
+7,
+"gù",
+"happening; instance; reason; cause; intentional; former; old; friend; therefore; hence; (of people) to die, dead"
 ],
 [
-"变故",
-6,
-"biàn gù",
-"an unforeseen event; accident; misfortune"
+"世故",
+7,
+"shì gù",
+"the ways of the world"
+],
+[
+"世故",
+7,
+"shì gu",
+"sophisticated; worldly-wise"
+],
+[
+"无故",
+7,
+"wú gù",
+"without cause or reason"
 ]
 ],
 "extraWords": [
@@ -60,7 +78,7 @@
 "故宫",
 5.94,
 "Gù gōng",
-"the Forbidden City; abbr. for 故宮博物院|故宫博物院[Gu4 gong1 Bo2 wu4 yuan4]"
+"the Forbidden City; abbr. for 故宫博物院[Gù gōng Bó wù yuàn]"
 ],
 [
 "故宫",

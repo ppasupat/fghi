@@ -1,48 +1,66 @@
 {
 "char": "股",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "thighs, haunches, rump; share",
 "pron": "gǔ"
 },
 "words": [
 [
-"股票",
-5,
-"gǔ piào",
-"share certificate; stock (finance)"
+"炒股",
+6,
+"chǎo gǔ",
+"(coll.) to speculate in stocks"
 ],
 [
-"屁股",
+"股",
 6,
-"pì gu",
-"buttocks; bottom; butt; back part"
-],
-[
-"股份",
-6,
-"gǔ fèn",
-"a share (in a company); stock"
+"gǔ",
+"thigh; part of a whole; portion of a sum; (stock) share; strand of a thread; low-level administrative unit, translated as \"section\" or \"department\" etc, ranked below 科[kē]; classifier for long winding things like ropes, rivers etc; classifier for smoke, smells etc: thread, puff, whiff; classifier for bands of people, gangs etc; classifier for sudden forceful actions"
 ],
 [
 "股东",
 6,
 "gǔ dōng",
 "shareholder; stockholder"
+],
+[
+"股票",
+6,
+"gǔ piào",
+"share certificate; stock (finance)"
+],
+[
+"股份",
+7,
+"gǔ fèn",
+"a share (in a company); stock"
+],
+[
+"股民",
+7,
+"gǔ mín",
+"stock investor; share trader"
+],
+[
+"股市",
+7,
+"gǔ shì",
+"stock market"
 ]
 ],
 "extraWords": [
+[
+"屁股",
+113.39,
+"pì gu",
+"buttocks; bottom; butt; back part"
+],
 [
 "股权",
 86.02,
 "gǔ quán",
 "equity shares; stock right"
-],
-[
-"股市",
-70.11,
-"gǔ shì",
-"stock market"
 ],
 [
 "控股",
@@ -78,7 +96,7 @@
 "股指",
 25.87,
 "gǔ zhǐ",
-"stock market index; share price index; abbr. for 股票指數|股票指数[gu3 piao4 zhi3 shu4]"
+"stock market index; share price index; abbr. for 股票指数[gǔ piào zhǐ shù]"
 ],
 [
 "持股",
@@ -93,10 +111,16 @@
 "capital stock; investment"
 ],
 [
-"股民",
-10.92,
-"gǔ mín",
-"stock investor; share trader"
+"新股",
+16.3,
+"???",
+"???"
+],
+[
+"股份制",
+11.3,
+"???",
+"???"
 ],
 [
 "入股",
@@ -117,10 +141,22 @@
 "stock market; stock exchange"
 ],
 [
-"炒股",
-5.94,
-"chǎo gǔ",
-"(coll.) to speculate in stocks"
+"法人股",
+5.96,
+"???",
+"???"
+],
+[
+"配股",
+5.65,
+"???",
+"???"
+],
+[
+"国有股",
+5.02,
+"???",
+"???"
 ]
 ],
 "strokes": [

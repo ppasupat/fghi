@@ -1,12 +1,31 @@
 {
 "char": "鳖",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "turtle",
 "pron": "biē"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"鳖",
+2.72,
+"biē",
+"freshwater soft-shelled turtle"
+],
+[
+"鳖",
+2.72,
+"biē",
+"variant of 鳖[biē]"
+],
+[
+"土鳖",
+1.01,
+"tǔ biē",
+"ground beetle; (coll.) professional or entrepreneur who, unlike a 海归[hǎi guī], has never studied overseas; (dialect) country bumpkin"
+]
+],
 "strokes": [
 "M 210 721 Q 252 667 272 666 Q 282 665 289 680 Q 290 690 282 707 Q 275 720 256 727 Q 228 740 214 743 Q 207 744 206 735 Q 205 728 210 721 Z",
 "M 431 764 Q 425 752 382 701 Q 375 691 386 693 Q 416 708 432 719 Q 445 726 458 735 Q 470 745 486 751 Q 499 757 493 769 Q 486 779 468 790 Q 453 800 445 798 Q 436 797 439 788 Q 440 776 431 764 Z",

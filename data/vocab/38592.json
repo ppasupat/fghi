@@ -1,6 +1,6 @@
 {
 "char": "雀",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "sparrow",
 "pron": "qiāo, qiǎo, què"
@@ -8,12 +8,24 @@
 "words": [
 [
 "鸦雀无声",
-6,
+7,
 "yā què wú shēng",
 "lit. crow and peacock make no sound; absolute silence (idiom); not a single voice can be heard; absolute silence"
 ]
 ],
 "extraWords": [
+[
+"雀",
+7.24,
+"qiāo",
+"a freckle; lentigo"
+],
+[
+"雀",
+7.24,
+"què",
+"(bound form) small bird; sparrow; also pr. [qiao3]"
+],
 [
 "孔雀",
 5.85,

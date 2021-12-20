@@ -1,6 +1,6 @@
 {
 "char": "盈",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "fill; full, overflowing; surplus",
 "pron": "yíng"
@@ -8,18 +8,18 @@
 "words": [
 [
 "盈利",
-6,
+7,
 "yíng lì",
 "profit; gain; to make profits"
-],
-[
-"热泪盈眶",
-6,
-"rè lèi yíng kuàng",
-"eyes brimming with tears of excitement (idiom); extremely moved"
 ]
 ],
 "extraWords": [
+[
+"盈",
+10.88,
+"yíng",
+"full; filled; surplus"
+],
 [
 "市盈率",
 9.54,

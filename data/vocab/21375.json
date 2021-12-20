@@ -1,6 +1,6 @@
 {
 "char": "卿",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "noble, high officer",
 "pron": "qīng"
@@ -8,10 +8,22 @@
 "words": [],
 "extraWords": [
 [
+"卿",
+8.62,
+"qīng",
+"high ranking official (old); term of endearment between spouses (old); (from the Tang Dynasty onwards) term used by the emperor for his subjects (old); honorific (old)"
+],
+[
 "国务卿",
 6.92,
 "guó wù qīng",
 "Secretary of State"
+],
+[
+"毛剑卿",
+1.35,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "哦",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "oh? really? is that so?",
 "pron": "é, ó, ò"
@@ -8,30 +8,37 @@
 "words": [
 [
 "哦",
-6,
+7,
 "é",
 "to chant"
 ],
 [
 "哦",
-6,
+7,
 "ó",
 "oh (interjection indicating doubt or surprise)"
 ],
 [
 "哦",
-6,
+7,
 "ò",
 "oh (interjection indicating that one has just learned sth)"
 ],
 [
 "哦",
-6,
+7,
 "o",
 "sentence-final particle that conveys informality, warmth, friendliness or intimacy; may also indicate that one is stating a fact that the other person is not aware of"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"哦哦",
+6.17,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 130 534 Q 120 541 86 550 Q 74 554 71 549 Q 64 543 72 528 Q 100 449 110 324 Q 111 287 129 260 Q 145 238 151 253 Q 160 277 156 323 L 151 359 Q 138 468 135 504 C 132 533 132 533 130 534 Z",
 "M 284 391 Q 299 493 326 525 Q 347 552 323 564 Q 304 574 276 589 Q 258 598 213 568 Q 156 544 130 534 C 102 523 107 494 135 504 Q 159 513 223 534 Q 245 541 251 533 Q 261 526 252 484 Q 245 441 235 390 C 229 361 279 361 284 391 Z",

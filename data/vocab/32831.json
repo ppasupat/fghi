@@ -1,12 +1,38 @@
 {
 "char": "耿",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "bright, shining; have guts",
 "pron": "gěng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"耿直",
+7,
+"gěng zhí",
+"honest; frank; candid"
+]
+],
+"extraWords": [
+[
+"耿耿于怀",
+2.41,
+"gěng gěng yú huái",
+"to take troubles to heart (idiom); brooding"
+],
+[
+"耿",
+1.7,
+"Gěng",
+"surname Geng"
+],
+[
+"耿",
+1.7,
+"gěng",
+"bright; honest; upright"
+]
+],
 "strokes": [
 "M 361 693 Q 380 699 401 702 Q 447 712 455 719 Q 464 726 459 736 Q 452 748 422 756 Q 400 760 288 728 Q 195 706 114 698 Q 77 692 103 674 Q 119 665 142 660 Q 146 660 151 658 C 177 652 177 652 201 661 Q 201 662 203 663 Q 264 676 329 687 L 361 693 Z",
 "M 151 658 Q 172 622 172 577 Q 173 540 171 216 C 171 186 215 202 215 232 Q 216 298 218 358 L 219 393 Q 220 448 222 500 L 222 535 Q 223 556 224 575 Q 227 636 224 641 Q 214 651 201 661 C 178 680 137 685 151 658 Z",

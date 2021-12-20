@@ -1,12 +1,37 @@
 {
 "char": "轩",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "carriage; high; wide; balcony",
 "pron": "xuān"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"轩",
+11.37,
+"Xuān",
+"surname Xuan"
+],
+[
+"轩",
+11.37,
+"xuān",
+"pavilion with a view; high; tall; high fronted, curtained carriage (old)"
+],
+[
+"轩辕",
+2.65,
+"Xuān Yuán",
+"Xuan Yuan, personal name of Huangdi, the Yellow Emperor 黄帝[Huáng dì]"
+],
+[
+"轩辕",
+2.65,
+"Xuān yuán",
+"two-character surname Xuanyuan"
+]
+],
 "strokes": [
 "M 313 606 Q 461 643 468 649 Q 475 656 471 665 Q 464 675 436 682 Q 406 686 338 660 L 282 642 Q 225 629 164 620 Q 128 613 155 598 Q 194 574 251 591 Q 257 592 265 594 L 313 606 Z",
 "M 385 400 Q 416 407 448 411 Q 478 414 468 428 Q 459 441 441 448 Q 423 454 387 438 L 340 425 Q 234 401 232 402 Q 231 403 232 414 Q 265 502 313 606 L 338 660 Q 380 744 391 754 Q 404 766 387 786 Q 362 814 341 828 Q 328 835 317 833 Q 308 829 314 807 Q 321 771 282 642 L 265 594 Q 220 459 162 400 Q 146 384 151 368 Q 158 347 169 337 Q 179 327 189 332 Q 226 354 319 383 Q 329 387 340 388 L 385 400 Z",

@@ -1,24 +1,36 @@
 {
 "char": "饲",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "raise animals; feed; nourish",
 "pron": "sì"
 },
 "words": [
 [
+"饲料",
+7,
+"sì liào",
+"feed; fodder"
+],
+[
 "饲养",
-6,
+7,
 "sì yǎng",
 "to raise; to rear"
 ]
 ],
 "extraWords": [
 [
-"饲料",
-21.99,
-"sì liào",
-"feed; fodder"
+"饲",
+4.5,
+"sì",
+"old variant of 饲[sì]"
+],
+[
+"饲",
+4.5,
+"sì",
+"to raise; to rear; to feed"
 ]
 ],
 "strokes": [

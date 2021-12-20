@@ -1,16 +1,16 @@
 {
 "char": "遭",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "come across, meet with, encounter",
 "pron": "zāo"
 },
 "words": [
 [
-"遭遇",
+"遭到",
 6,
-"zāo yù",
-"to meet with; to encounter; (bitter) experience"
+"zāo dào",
+"to suffer; to meet with (sth unfortunate)"
 ],
 [
 "遭受",
@@ -19,18 +19,24 @@
 "to suffer; to sustain (loss, misfortune)"
 ],
 [
-"遭殃",
+"遭遇",
 6,
+"zāo yù",
+"to meet with; to encounter; (bitter) experience"
+],
+[
+"遭殃",
+7,
 "zāo yāng",
 "to suffer a calamity"
 ]
 ],
 "extraWords": [
 [
-"遭到",
-46.24,
-"zāo dào",
-"to suffer; to meet with (sth unfortunate)"
+"遭",
+41.16,
+"zāo",
+"to meet by chance (usually with misfortune); classifier for events: time, turn, incident"
 ]
 ],
 "strokes": [

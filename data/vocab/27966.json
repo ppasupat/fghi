@@ -1,6 +1,6 @@
 {
 "char": "派",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "school of thought, sect, branch",
 "pron": "pài"
@@ -8,21 +8,33 @@
 "words": [
 [
 "派",
-5,
+3,
 "pài",
 "clique; school; group; faction; to dispatch; to send; to assign; to appoint; pi (Greek letter Ππ); the circular ratio pi = 3.1415926; (loanword) pie"
 ],
 [
-"派遣",
+"派出",
 6,
+"pài chū",
+"to send; to dispatch"
+],
+[
+"派别",
+7,
+"pài bié",
+"denomination; group; school; faction; school of thought"
+],
+[
+"派遣",
+7,
 "pài qiǎn",
 "to send (on a mission); to dispatch"
 ],
 [
-"派别",
-6,
-"pài bié",
-"denomination; group; school; faction; school of thought"
+"气派",
+7,
+"qì pài",
+"impressive; stylish; magnificent; imposing manner; dignified air"
 ]
 ],
 "extraWords": [
@@ -39,12 +51,6 @@
 "local police station"
 ],
 [
-"派出",
-26.08,
-"pài chū",
-"to send; to dispatch"
-],
-[
 "帮派",
 16.51,
 "bāng pài",
@@ -55,6 +61,18 @@
 8.33,
 "tè pài",
 "special appointment; special correspondent; task force; sb dispatched on a mission"
+],
+[
+"一派",
+7.58,
+"???",
+"???"
+],
+[
+"民主党派",
+6.16,
+"???",
+"???"
 ],
 [
 "反动派",

@@ -1,11 +1,29 @@
 {
 "char": "赖",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "rely, depend on; accuse falsely",
 "pron": "lài"
 },
 "words": [
+[
+"赖",
+6,
+"Lài",
+"surname Lai"
+],
+[
+"赖",
+6,
+"lài",
+"to depend on; to hang on in a place; bad; to renege (on promise); to disclaim; to rat (on debts); rascally; to blame; to put the blame on"
+],
+[
+"赖",
+6,
+"lài",
+"variant of 赖[lài]"
+],
 [
 "依赖",
 6,
@@ -13,16 +31,16 @@
 "to depend on; to be dependent on"
 ],
 [
-"信赖",
-6,
-"xìn lài",
-"to trust; to have confidence in; to have faith in; to rely on"
+"耍赖",
+7,
+"shuǎ lài",
+"to act shamelessly; to refuse to acknowledge that one has lost the game, or made a promise etc; to act dumb; to act as if sth never happened"
 ],
 [
-"无赖",
-6,
-"wú lài",
-"hoodlum; rascal; rogue; rascally; scoundrelly"
+"信赖",
+7,
+"xìn lài",
+"to trust; to have confidence in; to have faith in; to rely on"
 ]
 ],
 "extraWords": [
@@ -37,6 +55,18 @@
 7.17,
 "Lài sī",
 "Rice (name); Condoleezza Rice (1954-) US Secretary of State 2005-2009"
+],
+[
+"无赖",
+6.38,
+"wú lài",
+"hoodlum; rascal; rogue; rascally; scoundrelly"
+],
+[
+"布赖恩",
+6.2,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "孕",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "be pregnant, pregnancy",
 "pron": "yùn"
@@ -8,29 +8,35 @@
 "words": [
 [
 "怀孕",
-5,
+7,
 "huái yùn",
 "pregnant; to have conceived; gestation; pregnancy"
 ],
 [
+"孕妇",
+7,
+"yùn fù",
+"pregnant woman"
+],
+[
 "孕育",
-6,
+7,
 "yùn yù",
 "to be pregnant; to produce offspring; to nurture (a development, school of thought, artwork etc); fig. replete with (culture etc)"
 ]
 ],
 "extraWords": [
 [
-"孕妇",
-16.13,
-"yùn fù",
-"pregnant woman"
+"孕",
+12.21,
+"yùn",
+"pregnant"
 ],
 [
 "避孕套",
 6.5,
 "bì yùn tào",
-"condom; CL:隻|只[zhi1]"
+"condom; CL:只[zhī]"
 ]
 ],
 "strokes": [

@@ -1,17 +1,24 @@
 {
 "char": "囊",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "bag, purse, sack; put in bag",
 "pron": "nāng, náng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "胶囊",
-8.75,
+7,
 "jiāo náng",
 "capsule (pharm.); caplet"
+]
+],
+"extraWords": [
+[
+"囊",
+26.83,
+"náng",
+"sack; purse; pocket (for money)"
 ],
 [
 "胆囊",

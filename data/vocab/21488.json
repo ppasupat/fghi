@@ -1,100 +1,196 @@
 {
 "char": "台",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "platform; unit; term of address",
 "pron": "tāi, tái"
 },
 "words": [
 [
+"电视台",
+3,
+"diàn shì tái",
+"television station; CL:个[gè]"
+],
+[
+"电台",
+3,
+"diàn tái",
+"transmitter-receiver; broadcasting station; radio station; CL:个[gè],家[jiā]"
+],
+[
 "台",
-4,
+3,
 "Tái",
 "Taiwan (abbr.); surname Tai"
 ],
 [
 "台",
-4,
+3,
 "tái",
-"(classical) you (in letters); variant of 臺|台[tai2]"
+"(classical) you (in letters); variant of 台[tái]"
 ],
 [
 "台",
-4,
+3,
 "tái",
 "desk; table; counter"
 ],
 [
 "台",
-4,
+3,
 "Tái",
 "Taiwan (abbr.)"
 ],
 [
 "台",
-4,
+3,
 "tái",
 "platform; stage; terrace; stand; support; station; broadcasting station; classifier for vehicles or machines"
 ],
 [
 "台",
-4,
+3,
 "tái",
 "typhoon"
 ],
 [
-"电台",
-5,
-"diàn tái",
-"transmitter-receiver; broadcasting station; radio station; CL:個|个[ge4],家[jia1]"
+"舞台",
+3,
+"wǔ tái",
+"stage; arena; fig. in the limelight"
 ],
 [
-"阳台",
-5,
-"yáng tái",
-"variant of 陽臺|阳台[yang2 tai2]"
-],
-[
-"阳台",
-5,
-"yáng tái",
-"balcony; porch"
+"窗台",
+4,
+"chuāng tái",
+"window sill; window ledge"
 ],
 [
 "台阶",
-5,
+4,
 "tái jiē",
 "steps; flight of steps; step (over obstacle); fig. way out of an embarrassing situation; bench (geology)"
 ],
 [
-"柜台",
-5,
-"guì tái",
-"variant of 櫃檯|柜台[gui4 tai2]"
+"台上",
+4,
+"tái shàng",
+"on stage"
 ],
 [
-"柜台",
-5,
-"guì tái",
-"sales counter; front desk; bar; (of markets, medicines etc) OTC (over-the-counter)"
+"阳台",
+4,
+"yáng tái",
+"variant of 阳台[yáng tái]"
 ],
 [
-"柜台",
-5,
-"guì tái",
-"variant of 櫃檯|柜台[gui4 tai2]"
+"阳台",
+4,
+"yáng tái",
+"balcony; porch"
 ],
 [
 "台风",
-6,
+5,
 "tái fēng",
 "stage presence, poise"
 ],
 [
 "台风",
-6,
+5,
 "tái fēng",
 "hurricane; typhoon"
+],
+[
+"出台",
+6,
+"chū tái",
+"to officially launch (a policy, program etc); to appear on stage; to appear publicly; (of a bar girl) to leave with a client"
+],
+[
+"平台",
+6,
+"píng tái",
+"platform; terrace; flat-roofed building"
+],
+[
+"上台",
+6,
+"shàng tái",
+"to rise to power (in politics); to go on stage (in the theater)"
+],
+[
+"台灯",
+6,
+"tái dēng",
+"desk lamp; table lamp"
+],
+[
+"写字台",
+6,
+"xiě zì tái",
+"writing desk"
+],
+[
+"站台",
+6,
+"zhàn tái",
+"platform (at a railway station); (Tw) (of an influential person) to publicly lend one's support (e.g. for an election candidate); (Tw) website"
+],
+[
+"柜台",
+7,
+"guì tái",
+"variant of 柜台[guì tái]"
+],
+[
+"柜台",
+7,
+"guì tái",
+"sales counter; front desk; bar; (of markets, medicines etc) OTC (over-the-counter)"
+],
+[
+"柜台",
+7,
+"guì tái",
+"variant of 柜台[guì tái]"
+],
+[
+"后台",
+7,
+"hòu tái",
+"backstage area; behind-the-scenes supporter; (computing) back-end; background"
+],
+[
+"看台",
+7,
+"kàn tái",
+"terrace; spectator's grandstand; viewing platform"
+],
+[
+"茅台",
+7,
+"Máo tái",
+"Maotai town in Renhuai county, Guizhou; Maotai liquor 茅臺酒|茅台酒"
+],
+[
+"前台",
+7,
+"qián tái",
+"stage; proscenium; foreground in politics etc (sometimes derog.); front desk; reception desk; (computing) front-end; foreground"
+],
+[
+"台球",
+7,
+"tái qiú",
+"billiards"
+],
+[
+"下台",
+7,
+"xià tái",
+"to go off the stage; to fall from position of prestige; to step down (from office etc); to disentangle oneself; to get off the hook"
 ]
 ],
 "extraWords": [
@@ -102,43 +198,13 @@
 "台湾",
 151.51,
 "Tái wān",
-"variant of 臺灣|台湾[Tai2 wan1]"
+"variant of 台湾[Tái wān]"
 ],
 [
 "台湾",
 151.51,
 "Tái wān",
 "Taiwan"
-],
-[
-"平台",
-80.53,
-"píng tái",
-"platform; terrace; flat-roofed building"
-],
-[
-"出台",
-64.79,
-"chū tái",
-"to officially launch (a policy, program etc); to appear on stage; to appear publicly; (of a bar girl) to leave with a client"
-],
-[
-"舞台",
-56.97,
-"wǔ tái",
-"stage; arena; fig. in the limelight"
-],
-[
-"台上",
-26.68,
-"tái shàng",
-"on stage"
-],
-[
-"电视台",
-24.7,
-"diàn shì tái",
-"television station; CL:個|个[ge4]"
 ],
 [
 "台词",
@@ -159,22 +225,16 @@
 "Taibei or Taipei, capital of Taiwan"
 ],
 [
-"上台",
-14.7,
-"shàng tái",
-"to rise to power (in politics); to go on stage (in the theater)"
-],
-[
 "中央电视台",
 14.65,
 "Zhōng yāng Diàn shì tái",
 "China Central Television (CCTV), PRC state TV network"
 ],
 [
-"后台",
-12.67,
-"hòu tái",
-"backstage area; behind-the-scenes supporter; (computing) back-end; background"
+"台步",
+12.01,
+"???",
+"???"
 ],
 [
 "台商",
@@ -183,16 +243,16 @@
 "Taiwanese businessman; Taiwanese company"
 ],
 [
+"登台",
+8.17,
+"???",
+"???"
+],
+[
 "气象台",
 7.93,
 "qì xiàng tái",
 "meteorological office; weather forecasting office"
-],
-[
-"看台",
-6.71,
-"kàn tái",
-"terrace; spectator's grandstand; viewing platform"
 ],
 [
 "烟台",
@@ -201,40 +261,16 @@
 "Yantai prefecture level city in Shandong"
 ],
 [
-"下台",
-6.29,
-"xià tái",
-"to go off the stage; to fall from position of prestige; to step down (from office etc); to disentangle oneself; to get off the hook"
-],
-[
-"前台",
-6.23,
-"qián tái",
-"stage; proscenium; foreground in politics etc (sometimes derog.); front desk; reception desk; (computing) front-end; foreground"
-],
-[
-"站台",
-5.96,
-"zhàn tái",
-"platform (at a railway station); (Tw) (of an influential person) to publicly lend one's support (e.g. for an election candidate); (Tw) website"
-],
-[
-"茅台",
-5.68,
-"Máo tái",
-"Maotai town in Renhuai county, Guizhou; Maotai liquor 茅臺酒|茅台酒"
+"台湾地区",
+5.56,
+"???",
+"???"
 ],
 [
 "展台",
 5.53,
 "zhǎn tái",
 "display counter; stand; booth"
-],
-[
-"台球",
-5.48,
-"tái qiú",
-"billiards"
 ],
 [
 "新台币",

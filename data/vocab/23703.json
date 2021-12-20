@@ -1,6 +1,6 @@
 {
 "char": "岗",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "post; position",
 "pron": "gāng, gǎng"
@@ -11,20 +11,26 @@
 6,
 "gǎng wèi",
 "a post; a job"
+],
+[
+"上岗",
+7,
+"shàng gǎng",
+"to take up one's post; to be given a job"
+],
+[
+"下岗",
+7,
+"xià gǎng",
+"to come off sentry duty; to lay off (a worker); laid-off"
 ]
 ],
 "extraWords": [
 [
-"下岗",
-18.92,
-"xià gǎng",
-"to come off sentry duty; to lay off (a worker); laid-off"
-],
-[
-"上岗",
-9.25,
-"shàng gǎng",
-"to take up one's post; to be given a job"
+"岗",
+18.73,
+"gǎng",
+"mound; policeman's beat"
 ]
 ],
 "strokes": [

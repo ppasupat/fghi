@@ -1,14 +1,20 @@
 {
 "char": "透",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "penetrate, pass through",
 "pron": "tòu"
 },
 "words": [
 [
+"透",
+4,
+"tòu",
+"to penetrate; to pass through; thoroughly; completely; transparent; to appear; to show"
+],
+[
 "透明",
-5,
+4,
 "tòu míng",
 "transparent; open (non-secretive)"
 ],
@@ -20,18 +26,36 @@
 ],
 [
 "渗透",
-6,
+7,
 "shèn tòu",
 "(lit. and fig.) to permeate; to seep into; (of a product, idea etc) to penetrate (in a population); (of hostile forces) to infiltrate; (chemistry) osmosis"
-]
 ],
-"extraWords": [
+[
+"透彻",
+7,
+"tòu chè",
+"penetrating; thorough; incisive"
+],
 [
 "透过",
-13.99,
+7,
 "tòu guò",
 "to pass through; to penetrate; by means of; via"
 ],
+[
+"透气",
+7,
+"tòu qì",
+"to flow freely (of air); to ventilate; to breathe (of fabric etc); to take a breath of fresh air; to divulge"
+],
+[
+"透支",
+7,
+"tòu zhī",
+"(banking) to overdraw; to take out an overdraft; an overdraft; to overspend (i.e. expenditure in excess of revenue); (old) to draw one's wage in advance; (fig.) to exhaust (one's enthusiasm, energy etc); to damage a natural resource through overuse"
+]
+],
+"extraWords": [
 [
 "路透社",
 7.35,
@@ -49,12 +73,6 @@
 5.69,
 "tòu dǐng",
 "out-and-out; thoroughly"
-],
-[
-"透支",
-5.49,
-"tòu zhī",
-"(banking) to overdraw; to take out an overdraft; an overdraft; to overspend (i.e. expenditure in excess of revenue); (old) to draw one's wage in advance; (fig.) to exhaust (one's enthusiasm, energy etc); to damage a natural resource through overuse"
 ],
 [
 "看透",

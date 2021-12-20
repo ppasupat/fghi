@@ -1,12 +1,31 @@
 {
 "char": "藕",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "lotus root",
 "pron": "ǒu"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"藕",
+4.72,
+"ǒu",
+"root of lotus"
+],
+[
+"莲藕",
+1.8,
+"lián ǒu",
+"lotus root"
+],
+[
+"藕断丝连",
+0.29,
+"ǒu duàn sī lián",
+"lit. lotus roots may break, but the fiber remains joined (idiom); lovers part, but still long for one another"
+]
+],
 "strokes": [
 "M 630 717 Q 657 726 788 717 Q 801 716 806 724 Q 810 734 799 747 Q 750 787 664 765 Q 655 765 647 762 L 596 754 Q 517 744 430 732 L 387 727 Q 305 720 213 711 Q 188 708 205 694 Q 241 670 293 677 Q 345 690 394 697 L 433 703 Q 505 713 587 716 L 630 717 Z",
 "M 430 732 Q 429 762 427 785 Q 428 803 410 808 Q 374 826 356 818 Q 340 811 353 793 Q 377 763 387 727 L 394 697 Q 409 633 420 618 Q 432 609 436 619 Q 437 626 433 703 L 430 732 Z",

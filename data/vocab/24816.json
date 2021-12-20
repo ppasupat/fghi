@@ -1,6 +1,6 @@
 {
 "char": "惰",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "indolent, careless, lazy, idle",
 "pron": "duò"
@@ -8,12 +8,25 @@
 "words": [
 [
 "懒惰",
-6,
+7,
 "lǎn duò",
 "idle; lazy"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"惰性",
+1.9,
+"duò xìng",
+"inert (chemistry); apathy; inertia; laziness"
+],
+[
+"惰",
+1.01,
+"duò",
+"lazy"
+]
+],
 "strokes": [
 "M 115 523 Q 99 462 72 405 Q 66 392 67 376 Q 68 351 78 336 Q 88 318 109 334 Q 157 382 150 467 Q 150 501 139 527 Q 133 534 127 535 Q 118 532 115 523 Z",
 "M 275 561 Q 281 557 292 551 Q 319 535 349 513 Q 362 504 374 507 Q 383 508 385 520 Q 386 533 376 556 Q 369 572 340 580 Q 280 592 276 589 C 246 585 250 577 275 561 Z",

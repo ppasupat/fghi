@@ -1,11 +1,17 @@
 {
 "char": "序",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "series, serial order, sequence",
 "pron": "xù"
 },
 "words": [
+[
+"程序",
+4,
+"chéng xù",
+"procedures; sequence; order; computer program"
+],
 [
 "顺序",
 4,
@@ -13,34 +19,40 @@
 "sequence; order"
 ],
 [
-"程序",
-5,
-"chéng xù",
-"procedures; sequence; order; computer program"
+"工序",
+7,
+"gōng xù",
+"working procedure; process"
 ],
 [
-"秩序",
-5,
-"zhì xù",
-"order (orderly); order (sequence); social order; the state (of society); CL:個|个[ge4]"
+"序",
+7,
+"xù",
+"order; sequence; preface"
 ],
 [
-"次序",
-6,
-"cì xù",
-"sequence; order"
+"序幕",
+7,
+"xù mù",
+"prologue"
 ],
 [
 "循序渐进",
-6,
+7,
 "xún xù jiàn jìn",
 "in sequence, step by step (idiom); to make steady progress incrementally"
 ],
 [
-"序言",
-6,
-"xù yán",
-"preface; introductory remarks; preamble; prelude"
+"有序",
+7,
+"yǒu xù",
+"regular; orderly; successive; in order"
+],
+[
+"秩序",
+7,
+"zhì xù",
+"order (orderly); order (sequence); social order; the state (of society); CL:个[gè]"
 ]
 ],
 "extraWords": [
@@ -49,18 +61,6 @@
 10.16,
 "xù liè",
 "sequence"
-],
-[
-"序幕",
-8.62,
-"xù mù",
-"prologue"
-],
-[
-"工序",
-6.52,
-"gōng xù",
-"working procedure; process"
 ]
 ],
 "strokes": [

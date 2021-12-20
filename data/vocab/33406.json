@@ -1,17 +1,48 @@
 {
 "char": "艾",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "artemisia, mugwort; translit.",
 "pron": "ài, yì"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "艾滋病",
-23.1,
+7,
 "ài zī bìng",
 "AIDS (loanword)"
+]
+],
+"extraWords": [
+[
+"艾",
+27.6,
+"Ài",
+"surname Ai"
+],
+[
+"艾",
+27.6,
+"ài",
+"Chinese mugwort or wormwood; moxa; to stop or cut short; phonetic \"ai\" or \"i\"; abbr. for 艾滋病[ài zī bìng], AIDS"
+],
+[
+"艾",
+27.6,
+"yì",
+"to mow; to cut; to reap; to redress"
+],
+[
+"艾米",
+11.18,
+"???",
+"???"
+],
+[
+"艾伦",
+10.43,
+"???",
+"???"
 ],
 [
 "艾迪",
@@ -20,10 +51,40 @@
 "Eddie (name)"
 ],
 [
+"艾玛",
+8.67,
+"???",
+"???"
+],
+[
+"艾美",
+8.53,
+"???",
+"???"
+],
+[
+"艾莉",
+6.98,
+"???",
+"???"
+],
+[
+"艾比",
+6.65,
+"???",
+"???"
+],
+[
 "艾特",
 6.01,
 "ài tè",
 "at symbol, @"
+],
+[
+"艾米莉",
+5.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

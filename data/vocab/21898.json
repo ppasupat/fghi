@@ -1,6 +1,6 @@
 {
 "char": "喊",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "shout, call out, yell; howl; cry",
 "pron": "hǎn"
@@ -8,9 +8,15 @@
 "words": [
 [
 "喊",
-5,
+2,
 "hǎn",
 "to yell; to shout; to call out for (a person)"
+],
+[
+"呐喊",
+7,
+"nà hǎn",
+"shout; rallying cry; cheering; to shout"
 ]
 ],
 "extraWords": [
@@ -25,12 +31,6 @@
 7.78,
 "dà hǎn dà jiào",
 "shouting and screaming (idiom); to scream loudly; to rant; to kick up a racket; to conduct vigorous propaganda"
-],
-[
-"呐喊",
-5.22,
-"nà hǎn",
-"shout; rallying cry; cheering; to shout"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "快",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "rapid, quick, speedy, fast; soon",
 "pron": "kuài"
@@ -8,9 +8,21 @@
 "words": [
 [
 "快",
-2,
+1,
 "kuài",
 "rapid; quick; speed; rate; soon; almost; to make haste; clever; sharp (of knives or wits); forthright; plainspoken; gratified; pleased; pleasant"
+],
+[
+"快餐",
+2,
+"kuài cān",
+"fast food; snack; quick meal"
+],
+[
+"快点儿",
+2,
+"kuài diǎn r5",
+"erhua variant of 快点[kuài diǎn]"
 ],
 [
 "快乐",
@@ -19,66 +31,114 @@
 "happy; merry"
 ],
 [
-"愉快",
-4,
-"yú kuài",
-"cheerful; cheerily; delightful; pleasant; pleasantly; pleasing; happy; delighted"
+"快要",
+2,
+"kuài yào",
+"almost; nearly; almost all"
 ],
 [
 "凉快",
-4,
+2,
 "liáng kuai",
 "nice and cold; pleasantly cool"
 ],
 [
 "赶快",
-5,
+3,
 "gǎn kuài",
 "at once; immediately"
 ],
 [
+"加快",
+3,
+"jiā kuài",
+"to accelerate; to speed up"
+],
+[
+"快速",
+3,
+"kuài sù",
+"fast; high-speed; rapid"
+],
+[
 "尽快",
-5,
+4,
 "jǐn kuài",
 "as quickly as possible; as soon as possible; with all speed"
 ],
 [
 "尽快",
-5,
+4,
 "jìn kuài",
-"see 儘快|尽快[jin3 kuai4]"
+"see 尽快[jǐn kuài]"
+],
+[
+"快递",
+4,
+"kuài dì",
+"express delivery"
 ],
 [
 "痛快",
-5,
+4,
 "tòng kuài",
 "delighted; to one's heart's content; straightforward; also pr. [tong4 kuai5]"
 ],
 [
 "快活",
-6,
+5,
 "kuài huo",
 "happy; cheerful"
 ],
 [
-"爽快",
+"快车",
 6,
+"kuài chē",
+"express (train, bus etc)"
+],
+[
+"特快",
+6,
+"tè kuài",
+"express (train, delivery etc)"
+],
+[
+"愉快",
+6,
+"yú kuài",
+"cheerful; cheerily; delightful; pleasant; pleasantly; pleasing; happy; delighted"
+],
+[
+"欢快",
+7,
+"huān kuài",
+"cheerful and lighthearted; lively"
+],
+[
+"快捷",
+7,
+"kuài jié",
+"quick; fast; nimble; agile; (computer) shortcut"
+],
+[
+"勤快",
+7,
+"qín kuài",
+"diligent; hardworking"
+],
+[
+"爽快",
+7,
 "shuǎng kuai",
 "refreshed; rejuvenated; frank and straightforward"
 ]
 ],
 "extraWords": [
 [
-"快速",
-97.17,
-"kuài sù",
-"fast; high-speed; rapid"
-],
-[
-"加快",
-96.7,
-"jiā kuài",
-"to accelerate; to speed up"
+"很快",
+114.35,
+"???",
+"???"
 ],
 [
 "生日快乐",
@@ -99,22 +159,16 @@
 "to do sth more quickly; Hurry up!; Get a move on!"
 ],
 [
-"快要",
-23.19,
-"kuài yào",
-"almost; nearly; almost all"
+"最快",
+20.83,
+"???",
+"???"
 ],
 [
-"快递",
-15.44,
-"kuài dì",
-"express delivery"
-],
-[
-"快捷",
-12.17,
-"kuài jié",
-"quick; fast; nimble; agile; (computer) shortcut"
+"快快",
+12.9,
+"???",
+"???"
 ],
 [
 "快报",
@@ -129,6 +183,12 @@
 "unhappy; in low spirits; (of a knife) not sharp"
 ],
 [
+"新快报",
+7.03,
+"???",
+"???"
+],
+[
 "飞快",
 6.46,
 "fēi kuài",
@@ -139,12 +199,6 @@
 6.11,
 "kuài gǎn",
 "pleasure; thrill; delight; joy; pleasurable sensation; a high"
-],
-[
-"快餐",
-5.78,
-"kuài cān",
-"fast food; snack; quick meal"
 ],
 [
 "快门",

@@ -1,34 +1,28 @@
 {
 "char": "压",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "press; oppress; crush; pressure",
 "pron": "yā, yà"
 },
 "words": [
 [
+"压",
+3,
+"yā",
+"to press; to push down; to keep under (control); pressure"
+],
+[
+"压",
+3,
+"yà",
+"see 压根儿[yà gēn r5]"
+],
+[
 "压力",
-4,
+3,
 "yā lì",
 "pressure"
-],
-[
-"压制",
-6,
-"yā zhì",
-"to suppress; to inhibit; to stifle"
-],
-[
-"血压",
-6,
-"xuè yā",
-"blood pressure"
-],
-[
-"压抑",
-6,
-"yā yì",
-"to constrain or repress emotions; oppressive; stifling; depressing; repression"
 ],
 [
 "压迫",
@@ -37,43 +31,67 @@
 "to oppress; to repress; to constrict; oppression; stress (physics)"
 ],
 [
-"气压",
-6,
-"qì yā",
-"atmospheric pressure; barometric pressure"
-],
-[
-"压缩",
-6,
-"yā suō",
-"to compress; compression"
-],
-[
-"压榨",
-6,
-"yā zhà",
-"to press; to squeeze; to extract juice, oil etc by squeezing"
-],
-[
-"压岁钱",
-6,
-"yā suì qián",
-"money given to children as new year present"
-]
-],
-"extraWords": [
-[
 "高血压",
-17.99,
+7,
 "gāo xuè yā",
 "high blood pressure; hypertension"
 ],
 [
 "高压",
-11.82,
+7,
 "gāo yā",
 "high pressure; high-handed"
 ],
+[
+"挤压",
+7,
+"jǐ yā",
+"to squeeze; to press; to extrude"
+],
+[
+"减压",
+7,
+"jiǎn yā",
+"to reduce pressure; to relax"
+],
+[
+"施压",
+7,
+"shī yā",
+"to pressure"
+],
+[
+"血压",
+7,
+"xuè yā",
+"blood pressure"
+],
+[
+"压倒",
+7,
+"yā dǎo",
+"to overwhelm; to overpower; overwhelming"
+],
+[
+"压缩",
+7,
+"yā suō",
+"to compress; compression"
+],
+[
+"压抑",
+7,
+"yā yì",
+"to constrain or repress emotions; oppressive; stifling; depressing; repression"
+],
+[
+"压制",
+7,
+"yā zhì",
+"to suppress; to inhibit; to stifle"
+]
+],
+"extraWords": [
 [
 "电压",
 9.64,
@@ -93,12 +111,6 @@
 "suppression; repression; to suppress; to put down; to quell"
 ],
 [
-"挤压",
-6.52,
-"jǐ yā",
-"to squeeze; to press; to extrude"
-],
-[
 "眼压",
 6.13,
 "yǎn yā",
@@ -109,12 +121,6 @@
 5.17,
 "jī yā",
 "to pile up; to accumulate without being dealt with"
-],
-[
-"减压",
-5.08,
-"jiǎn yā",
-"to reduce pressure; to relax"
 ]
 ],
 "strokes": [

@@ -1,12 +1,31 @@
 {
 "char": "跷",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "raise one's foot",
 "pron": "qiāo"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"蹊跷",
+3.4,
+"qī qiāo",
+"odd; queer; strange; fishy; Taiwan pr. [xi1 qiao1]"
+],
+[
+"跷",
+1.62,
+"qiāo",
+"to raise one's foot; to stand on tiptoe; stilts"
+],
+[
+"跷",
+1.62,
+"qiāo",
+"variant of 跷[qiāo]; to raise one's foot; stilts"
+]
+],
 "strokes": [
 "M 210 697 Q 200 703 170 709 Q 158 712 155 707 Q 148 701 156 686 Q 184 626 198 528 Q 201 500 217 479 Q 233 458 239 473 Q 243 486 243 505 L 240 536 Q 225 638 221 669 C 218 693 218 693 210 697 Z",
 "M 400 568 Q 419 647 444 671 Q 466 696 444 711 Q 380 745 377 746 Q 370 746 362 741 Q 320 716 210 697 C 180 692 193 659 221 669 Q 230 675 328 693 Q 359 699 367 687 Q 376 678 349 565 C 342 536 393 539 400 568 Z",

@@ -1,23 +1,36 @@
 {
 "char": "浆",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "any thick fluid; starch; broth",
 "pron": "jiāng, jiàng"
 },
-"words": [],
+"words": [
+[
+"豆浆",
+7,
+"dòu jiāng",
+"soy milk"
+]
+],
 "extraWords": [
+[
+"浆",
+15.51,
+"jiāng",
+"broth; serum; to starch"
+],
+[
+"浆",
+15.51,
+"jiàng",
+"starch paste"
+],
 [
 "血浆",
 10.43,
 "xuè jiāng",
 "blood plasma"
-],
-[
-"豆浆",
-7.73,
-"dòu jiāng",
-"soy milk"
 ]
 ],
 "strokes": [

@@ -1,16 +1,16 @@
 {
 "char": "锦",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "brocade, tapestry; embroidered",
 "pron": "jǐn"
 },
 "words": [
 [
-"锦上添花",
-6,
-"jǐn shàng tiān huā",
-"lit. add flowers to brocade (idiom); fig. to give sth additional splendor; to provide the crowning touch; (derog.) to benefit sb who is already well off"
+"锦旗",
+7,
+"jǐn qí",
+"silk banner (as an award or gift)"
 ]
 ],
 "extraWords": [
@@ -31,6 +31,12 @@
 18.8,
 "shì jǐn sài",
 "world championship"
+],
+[
+"锦",
+15.95,
+"jǐn",
+"brocade; embroidered work; bright"
 ]
 ],
 "strokes": [

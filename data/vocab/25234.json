@@ -1,19 +1,32 @@
 {
 "char": "抒",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "express; eliminate; relieve",
 "pron": "shū"
 },
 "words": [
 [
-"各抒己见",
-6,
-"gè shū jǐ jiàn",
-"everyone gives their own view"
+"抒情",
+7,
+"shū qíng",
+"to express emotion; lyric"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"抒发",
+2.3,
+"shū fā",
+"to express (an emotion); to give vent"
+],
+[
+"抒",
+0.97,
+"shū",
+"to express; to give expression to; variant of 纾[shū]; to relieve"
+]
+],
 "strokes": [
 "M 348 546 Q 417 565 424 571 Q 433 580 428 588 Q 421 600 390 606 Q 369 609 351 603 L 301 585 Q 217 555 132 543 Q 95 534 122 519 Q 167 495 223 513 Q 260 523 300 533 L 348 546 Z",
 "M 293 336 Q 290 245 287 131 Q 286 107 273 98 Q 264 92 244 99 Q 219 105 197 110 Q 164 123 167 113 Q 168 106 188 90 Q 249 38 266 9 Q 284 -25 300 -27 Q 313 -28 329 6 Q 348 52 348 125 Q 342 248 343 370 L 343 400 Q 344 473 348 546 L 351 603 Q 372 756 373 756 Q 391 786 336 809 Q 303 828 283 822 Q 267 816 281 793 Q 302 765 303 731 Q 304 715 301 585 L 300 533 Q 297 466 294 374 L 293 336 Z",

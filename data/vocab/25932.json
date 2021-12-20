@@ -1,6 +1,6 @@
 {
 "char": "敌",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "enemy, foe, rival; resist",
 "pron": "dí"
@@ -8,29 +8,29 @@
 "words": [
 [
 "敌人",
-5,
+4,
 "dí rén",
-"enemy; CL:個|个[ge4]"
+"enemy; CL:个[gè]"
 ],
 [
-"敌视",
-6,
-"dí shì",
-"hostile; malevolence; antagonism; to view as enemy; to stand against"
+"无敌",
+7,
+"wú dí",
+"unequalled; without rival; a paragon"
 ]
 ],
 "extraWords": [
 [
-"无敌",
-15.37,
-"wú dí",
-"unequalled; without rival; a paragon"
+"敌",
+38.35,
+"dí",
+"enemy; to be a match for; to rival; to resist; to withstand"
 ],
 [
 "敌军",
 6.04,
 "dí jūn",
-"enemy troops; hostile forces; CL:股[gu3]"
+"enemy troops; hostile forces; CL:股[gǔ]"
 ]
 ],
 "strokes": [

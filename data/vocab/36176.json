@@ -1,11 +1,30 @@
 {
 "char": "赐",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "give, bestow favors; appoint",
 "pron": "cì"
 },
-"words": [],
+"words": [
+[
+"赐",
+7,
+"cì",
+"to confer; to bestow; to grant; Taiwan pr. [si4]"
+],
+[
+"赐教",
+7,
+"cì jiào",
+"(honorific) to impart one's wisdom; to enlighten"
+],
+[
+"恩赐",
+7,
+"ēn cì",
+"favor; to give charity to sb out of pity"
+]
+],
 "extraWords": [
 [
 "赐予",

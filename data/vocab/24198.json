@@ -1,22 +1,46 @@
 {
 "char": "庆",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "congratulate, celebrate",
 "pron": "qìng"
 },
 "words": [
 [
+"国庆",
+3,
+"Guó qìng",
+"National Day"
+],
+[
 "庆祝",
-5,
+3,
 "qìng zhù",
 "to celebrate"
 ],
 [
-"国庆节",
-5,
-"Guó qìng jié",
-"PRC National Day (October 1st)"
+"庆典",
+7,
+"qìng diǎn",
+"celebration"
+],
+[
+"庆贺",
+7,
+"qìng hè",
+"to congratulate; to celebrate"
+],
+[
+"庆幸",
+7,
+"qìng xìng",
+"to rejoice; to be glad"
+],
+[
+"喜庆",
+7,
+"xǐ qìng",
+"jubilation; festive"
 ]
 ],
 "extraWords": [
@@ -24,43 +48,25 @@
 "重庆",
 68.16,
 "Chóng qìng",
-"Chongqing city (Chungking), formerly in Sichuan province, a municipality since 1997, short name 渝[Yu2]"
+"Chongqing city (Chungking), formerly in Sichuan province, a municipality since 1997, short name 渝[Yú]"
+],
+[
+"庆",
+26.25,
+"qìng",
+"to celebrate"
 ],
 [
 "重庆市",
 11.38,
 "Chóng qìng shì",
-"Chongqing city, formerly in Sichuan province, a municipality since 1997, short name 渝[Yu2]"
-],
-[
-"国庆",
-10.08,
-"Guó qìng",
-"National Day"
-],
-[
-"庆幸",
-9.59,
-"qìng xìng",
-"to rejoice; to be glad"
-],
-[
-"庆典",
-8.66,
-"qìng diǎn",
-"celebration"
-],
-[
-"喜庆",
-7.3,
-"xǐ qìng",
-"jubilation; festive"
+"Chongqing city, formerly in Sichuan province, a municipality since 1997, short name 渝[Yú]"
 ],
 [
 "大庆",
 7.21,
 "Dà qìng",
-"Daqing prefecture-level city in Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1] in northeast China"
+"Daqing prefecture-level city in Heilongjiang province 黑龙江[Hēi lóng jiāng] in northeast China"
 ]
 ],
 "strokes": [

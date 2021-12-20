@@ -1,34 +1,148 @@
 {
 "char": "边",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "edge, margin, side, border",
 "pron": "biān"
 },
 "words": [
 [
+"北边",
+1,
+"běi biān",
+"north; north side; northern part; to the north of"
+],
+[
+"东边",
+1,
+"dōng bian",
+"east; east side; eastern part; to the east of"
+],
+[
+"后边",
+1,
+"hòu bian",
+"back; rear; behind"
+],
+[
+"里边",
+1,
+"lǐ bian",
+"inside"
+],
+[
+"那边",
+1,
+"nà bian",
+"over there; yonder"
+],
+[
+"南边",
+1,
+"nán bian",
+"south; south side; southern part; to the south of"
+],
+[
 "旁边",
-2,
+1,
 "páng biān",
 "lateral; side; to the side; beside"
 ],
 [
-"左边",
-2,
-"zuǒ bian",
-"left; the left side; to the left of"
+"前边",
+1,
+"qián bian",
+"front; the front side; in front of"
+],
+[
+"上边",
+1,
+"shàng bian",
+"the top; above; overhead; upwards; the top margin; above-mentioned; those higher up"
+],
+[
+"外边",
+1,
+"wài bian",
+"outside; outer surface; abroad; place other than one's home"
+],
+[
+"西边",
+1,
+"xī biān",
+"west; west side; western part; to the west of"
+],
+[
+"下边",
+1,
+"xià bian",
+"under; the underside; below"
+],
+[
+"一边",
+1,
+"yī biān",
+"one side; either side; on the one hand; on the other hand; doing while"
 ],
 [
 "右边",
-2,
+1,
 "yòu bian",
 "right side; right, to the right"
 ],
 [
-"一边",
-3,
-"yī biān",
-"one side; either side; on the one hand; on the other hand; doing while"
+"这边",
+1,
+"zhè biān",
+"this side; here"
+],
+[
+"左边",
+1,
+"zuǒ bian",
+"left; the left side; to the left of"
+],
+[
+"边",
+2,
+"biān",
+"side; edge; margin; border; boundary; CL:个[gè]; simultaneously"
+],
+[
+"边",
+2,
+"bian",
+"suffix of a noun of locality"
+],
+[
+"海边",
+2,
+"hǎi biān",
+"coast; seaside; seashore; beach"
+],
+[
+"路边",
+2,
+"lù biān",
+"curb; roadside; wayside"
+],
+[
+"身边",
+2,
+"shēn biān",
+"at one's side; on hand"
+],
+[
+"两边",
+4,
+"liǎng bian",
+"either side; both sides"
+],
+[
+"边境",
+5,
+"biān jìng",
+"frontier; border"
 ],
 [
 "边缘",
@@ -37,72 +151,72 @@
 "edge; fringe; verge; brink; periphery; marginal; borderline"
 ],
 [
-"边境",
+"无边",
 6,
-"biān jìng",
-"frontier; border"
+"wú biān",
+"without boundary; not bordered"
+],
+[
+"半边天",
+7,
+"bàn biān tiān",
+"half the sky; women of the new society; womenfolk"
+],
+[
+"边疆",
+7,
+"biān jiāng",
+"border area; borderland; frontier; frontier region"
 ],
 [
 "边界",
-6,
+7,
 "biān jiè",
 "boundary; border"
 ],
 [
-"周边",
-6,
-"zhōu biān",
-"periphery; rim; surroundings; all around; perimeter; peripheral (computing); spin-offs"
+"边远",
+7,
+"biān yuǎn",
+"far from the center; remote; outlying"
 ],
 [
-"边疆",
-6,
-"biān jiāng",
-"border area; borderland; frontier; frontier region"
-]
-],
-"extraWords": [
-[
-"那边",
-195.91,
-"nà bian",
-"over there; yonder"
+"单边",
+7,
+"dān biān",
+"unilateral"
 ],
 [
-"这边",
-138.64,
-"zhè biān",
-"this side; here"
+"多边",
+7,
+"duō biān",
+"multilateral"
 ],
 [
-"身边",
-118.04,
-"shēn biān",
-"at one's side; on hand"
-],
-[
-"路边",
-14.82,
-"lù biān",
-"curb; roadside; wayside"
-],
-[
-"海边",
-12.97,
-"hǎi biān",
-"coast; seaside; seashore; beach"
+"敲边鼓",
+7,
+"qiāo biān gǔ",
+"to back sb up; to support sb in an argument; (lit. to beat nearby drum)"
 ],
 [
 "双边",
-12.36,
+7,
 "shuāng biān",
 "bilateral"
 ],
 [
-"两边",
-11.51,
-"liǎng bian",
-"either side; both sides"
+"周边",
+7,
+"zhōu biān",
+"periphery; rim; surroundings; all around; perimeter; peripheral (computing); spin-offs"
+]
+],
+"extraWords": [
+[
+"边上",
+15.23,
+"???",
+"???"
 ],
 [
 "湖边",
@@ -123,40 +237,22 @@
 "frontier defense"
 ],
 [
-"里边",
-6.5,
-"lǐ bian",
-"inside"
-],
-[
 "河边",
 5.93,
 "hé biān",
 "river bank"
 ],
 [
-"北边",
-5.66,
-"běi biān",
-"north; north side; northern part; to the north of"
-],
-[
-"南边",
-5.28,
-"nán bian",
-"south; south side; southern part; to the south of"
+"哪边",
+5.84,
+"???",
+"???"
 ],
 [
 "岸边",
 5.09,
 "àn biān",
 "shore"
-],
-[
-"外边",
-5.04,
-"wài bian",
-"outside; outer surface; abroad; place other than one's home"
 ]
 ],
 "strokes": [

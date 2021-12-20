@@ -1,11 +1,17 @@
 {
 "char": "径",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "narrow path; diameter; direct",
 "pron": "jìng"
 },
 "words": [
+[
+"田径",
+6,
+"tián jìng",
+"track and field (athletics)"
+],
 [
 "途径",
 6,
@@ -13,24 +19,24 @@
 "way; channel"
 ],
 [
-"直径",
-6,
-"zhí jìng",
-"diameter"
+"口径",
+7,
+"kǒu jìng",
+"caliber; diameter of opening"
 ],
 [
-"田径",
-6,
-"tián jìng",
-"track and field (athletics)"
+"直径",
+7,
+"zhí jìng",
+"diameter"
 ]
 ],
 "extraWords": [
 [
-"口径",
-11.66,
-"kǒu jìng",
-"caliber; diameter of opening"
+"径",
+12.65,
+"jìng",
+"footpath; track; diameter; straight; directly"
 ],
 [
 "路径",

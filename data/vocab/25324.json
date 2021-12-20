@@ -1,6 +1,6 @@
 {
 "char": "括",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "include, embrace, enclose",
 "pron": "kuò"
@@ -8,15 +8,27 @@
 "words": [
 [
 "包括",
-5,
+4,
 "bāo kuò",
 "to comprise; to include; to involve; to incorporate; to consist of"
 ],
 [
 "概括",
-5,
+4,
 "gài kuò",
-"to summarize; to generalize; briefly; CL:個|个[ge4]"
+"to summarize; to generalize; briefly; CL:个[gè]"
+],
+[
+"括号",
+4,
+"kuò hào",
+"parentheses; brackets"
+],
+[
+"括弧",
+7,
+"kuò hú",
+"parenthesis"
 ]
 ],
 "extraWords": [],

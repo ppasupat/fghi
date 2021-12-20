@@ -1,6 +1,6 @@
 {
 "char": "旺",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "prosper; prosperous; increase",
 "pron": "wàng"
@@ -11,22 +11,27 @@
 6,
 "xīng wàng",
 "prosperous; thriving; to prosper; to flourish"
-]
 ],
-"extraWords": [
 [
-"旺盛",
-10.77,
-"wàng shèng",
-"vigorous; exuberant"
+"旺",
+7,
+"wàng",
+"prosperous; flourishing; (of flowers) blooming; (of fire) roaring"
 ],
 [
 "旺季",
-7.43,
+7,
 "wàng jì",
-"busy season; peak period; see also 淡季[dan4 ji4]"
+"busy season; peak period; see also 淡季[dàn jì]"
+],
+[
+"旺盛",
+7,
+"wàng shèng",
+"vigorous; exuberant"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 203 640 Q 190 653 168 660 Q 158 664 147 661 Q 140 655 145 643 Q 148 630 153 618 Q 183 561 164 267 Q 160 225 147 176 Q 132 122 169 73 Q 179 60 191 73 Q 203 89 203 110 L 207 145 Q 208 170 208 203 Q 209 297 210 370 L 211 404 Q 214 581 216 596 Q 217 606 217 614 C 218 629 218 629 203 640 Z",
 "M 304 122 Q 346 53 357 56 Q 370 59 386 96 Q 402 139 396 191 Q 387 299 381 531 Q 380 592 396 623 Q 406 639 398 651 Q 391 661 342 676 Q 318 685 302 675 Q 248 651 203 640 C 174 632 188 607 217 614 Q 218 615 224 616 Q 251 622 283 631 Q 311 640 322 630 Q 338 614 338 553 Q 342 300 331 160 Q 332 150 329 143 C 326 113 288 147 304 122 Z",

@@ -1,12 +1,31 @@
 {
 "char": "瘪",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "shrivelled up, dried up; vexed",
 "pron": "biē, biě"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"瘪",
+2.01,
+"biě",
+"variant of 瘪[biě]"
+],
+[
+"瘪",
+2.01,
+"biě",
+"deflated; shriveled; sunken; empty"
+],
+[
+"瘪三",
+1.04,
+"biē sān",
+"(Wu dialect) bum; wretched-looking tramp who lives by begging or stealing"
+]
+],
 "strokes": [
 "M 462 811 Q 525 745 551 743 Q 566 743 572 764 Q 573 777 561 800 Q 549 816 523 824 Q 483 840 466 841 Q 456 842 455 830 Q 454 820 462 811 Z",
 "M 338 655 Q 377 649 447 657 Q 453 658 462 659 L 501 666 Q 604 685 712 703 Q 782 716 794 726 Q 801 733 798 741 Q 792 751 766 760 Q 745 766 644 738 Q 494 699 334 685 C 304 682 308 658 338 655 Z",

@@ -1,6 +1,6 @@
 {
 "char": "送",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "see off, send off; dispatch, give",
 "pron": "sòng"
@@ -8,29 +8,83 @@
 "words": [
 [
 "送",
-2,
+1,
 "sòng",
 "to deliver; to carry; to give (as a present); to present (with); to see off; to send"
 ],
 [
-"赠送",
-6,
-"zèng sòng",
-"to present as a gift"
-]
+"送到",
+2,
+"???",
+"???"
 ],
-"extraWords": [
 [
 "送给",
-40.17,
+2,
 "sòng gěi",
 "to send; to give as a present"
 ],
 [
 "发送",
-21.25,
+3,
 "fā sòng",
 "to transmit; to dispatch; to issue (an official document or credential)"
+],
+[
+"赠送",
+5,
+"zèng sòng",
+"to present as a gift"
+],
+[
+"送礼",
+6,
+"sòng lǐ",
+"to give a present"
+],
+[
+"送行",
+6,
+"sòng xíng",
+"to see someone off; to throw someone a send-off party"
+],
+[
+"接送",
+7,
+"jiē sòng",
+"picking up and dropping off; greeting and sending off; shuttle (transport service)"
+],
+[
+"配送",
+7,
+"pèi sòng",
+"to put together an order and deliver it (i.e. 配货[pèi huò] and 送货[sòng huò]); to deliver (goods)"
+],
+[
+"输送",
+7,
+"shū sòng",
+"to transport; to convey; to deliver"
+],
+[
+"送别",
+7,
+"sòng bié",
+"to farewell"
+],
+[
+"运送",
+7,
+"yùn sòng",
+"to transport; to carry"
+]
+],
+"extraWords": [
+[
+"送往",
+13.9,
+"???",
+"???"
 ],
 [
 "传送",
@@ -39,28 +93,22 @@
 "to convey; to deliver"
 ],
 [
-"输送",
-9.66,
-"shū sòng",
-"to transport; to convey; to deliver"
+"送来",
+12.7,
+"???",
+"???"
 ],
 [
-"运送",
-8.57,
-"yùn sòng",
-"to transport; to carry"
+"送出",
+9.02,
+"???",
+"???"
 ],
 [
 "护送",
 8.44,
 "hù sòng",
 "to escort; to accompany"
-],
-[
-"配送",
-7.66,
-"pèi sòng",
-"to put together an order and deliver it (i.e. 配貨|配货[pei4 huo4] and 送貨|送货[song4 huo4]); to deliver (goods)"
 ],
 [
 "送达",
@@ -75,22 +123,16 @@
 "to broadcast; to announce over loudspeakers"
 ],
 [
-"送礼",
-6.41,
-"sòng lǐ",
-"to give a present"
+"送回",
+5.81,
+"???",
+"???"
 ],
 [
 "送命",
 5.78,
 "sòng mìng",
 "to lose one's life; to get killed"
-],
-[
-"接送",
-5.47,
-"jiē sòng",
-"picking up and dropping off; greeting and sending off; shuttle (transport service)"
 ],
 [
 "送货",

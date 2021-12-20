@@ -1,26 +1,49 @@
 {
 "char": "墓",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "grave, tomb",
 "pron": "mù"
 },
 "words": [
 [
-"坟墓",
+"墓",
 6,
+"mù",
+"grave; tomb; mausoleum"
+],
+[
+"坟墓",
+7,
 "fén mù",
 "grave; tomb"
-]
 ],
-"extraWords": [
+[
+"公墓",
+7,
+"gōng mù",
+"public cemetery"
+],
+[
+"墓碑",
+7,
+"mù bēi",
+"gravestone; tombstone"
+],
 [
 "墓地",
-9.78,
+7,
 "mù dì",
 "cemetery; graveyard"
+],
+[
+"扫墓",
+7,
+"sǎo mù",
+"to sweep a grave (and pay one's respects to the dead person)"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 634 726 Q 796 726 802 734 Q 806 744 793 756 Q 742 795 674 775 Q 665 775 657 772 L 594 762 Q 549 756 498 749 Q 461 745 421 739 L 370 734 Q 304 728 231 719 Q 213 718 226 702 Q 250 678 285 684 Q 330 696 379 703 L 422 710 Q 473 722 586 726 L 634 726 Z",
 "M 421 739 Q 421 755 421 769 Q 422 788 403 794 Q 361 812 344 806 Q 328 799 341 779 Q 360 760 370 734 L 379 703 Q 395 652 404 643 Q 417 633 421 644 Q 427 663 422 710 L 421 739 Z",

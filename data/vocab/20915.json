@@ -1,16 +1,16 @@
 {
 "char": "决",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "decide, determine, judge",
 "pron": "jué"
 },
 "words": [
 [
-"决定",
+"坚决",
 3,
-"jué dìng",
-"to decide (to do something); to resolve; decision; CL:個|个[ge4],項|项[xiang4]; certainly"
+"jiān jué",
+"firm; resolute; determined"
 ],
 [
 "解决",
@@ -19,34 +19,34 @@
 "to settle (a dispute); to resolve; to solve; to dispose of; to dispatch"
 ],
 [
+"决定",
+3,
+"jué dìng",
+"to decide (to do something); to resolve; decision; CL:个[gè],项[xiàng]; certainly"
+],
+[
 "决赛",
-5,
+3,
 "jué sài",
 "finals (of a competition)"
 ],
 [
 "决心",
-5,
+3,
 "jué xīn",
-"determination; resolution; determined; firm and resolute; to make up one's mind; CL:個|个[ge4]"
+"determination; resolution; determined; firm and resolute; to make up one's mind; CL:个[gè]"
 ],
 [
-"坚决",
+"决不",
 5,
-"jiān jué",
-"firm; resolute; determined"
+"jué bù",
+"not at all; simply (can) not"
 ],
 [
-"判决",
+"半决赛",
 6,
-"pàn jué",
-"judgment (by a court of law); to pass judgment on; to sentence"
-],
-[
-"否决",
-6,
-"fǒu jué",
-"to veto; to overrule"
+"bàn jué sài",
+"semifinals"
 ],
 [
 "决策",
@@ -56,47 +56,65 @@
 ],
 [
 "表决",
-6,
+7,
 "biǎo jué",
 "to decide by vote; to vote"
-]
 ],
-"extraWords": [
+[
+"裁决",
+7,
+"cái jué",
+"ruling; adjudication"
+],
+[
+"否决",
+7,
+"fǒu jué",
+"to veto; to overrule"
+],
 [
 "决议",
-32.82,
+7,
 "jué yì",
 "a resolution; to pass a resolution"
 ],
 [
-"决不",
-20.48,
-"jué bù",
-"not at all; simply (can) not"
+"判决",
+7,
+"pàn jué",
+"judgment (by a court of law); to pass judgment on; to sentence"
 ],
 [
 "取决于",
-17.79,
+7,
 "qǔ jué yú",
 "to hinge on; to be decided by; to depend on"
+],
+[
+"下决心",
+7,
+"xià jué xīn",
+"to determine; to resolve"
+],
+[
+"犹豫不决",
+7,
+"yóu yù bù jué",
+"hesitancy; indecision; to waver"
+]
+],
+"extraWords": [
+[
+"决",
+24.13,
+"jué",
+"to decide; to determine; to execute (sb); (of a dam etc) to breach or burst; definitely; certainly"
 ],
 [
 "总决赛",
 16.89,
 "zǒng jué sài",
 "finals (sports)"
-],
-[
-"半决赛",
-15.48,
-"bàn jué sài",
-"semifinals"
-],
-[
-"裁决",
-9.51,
-"cái jué",
-"ruling; adjudication"
 ],
 [
 "表决权",
@@ -129,10 +147,16 @@
 "decisive; conclusive"
 ],
 [
-"下决心",
-5.0,
-"xià jué xīn",
-"to determine; to resolve"
+"决不能",
+5.68,
+"???",
+"???"
+],
+[
+"决不会",
+5.22,
+"???",
+"???"
 ]
 ],
 "strokes": [

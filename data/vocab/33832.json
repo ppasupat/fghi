@@ -1,12 +1,25 @@
 {
 "char": "萨",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "Buddhist gods or immortals",
 "pron": "sà"
 },
-"words": [],
+"words": [
+[
+"菩萨",
+7,
+"Pú sà",
+"Bodhisattva (Buddhism)"
+]
+],
 "extraWords": [
+[
+"萨",
+40.66,
+"Sà",
+"Bodhisattva; surname Sa"
+],
 [
 "萨达姆",
 19.28,
@@ -20,10 +33,22 @@
 "Texas"
 ],
 [
+"萨拉",
+11.06,
+"???",
+"???"
+],
+[
+"萨姆",
+9.36,
+"???",
+"???"
+],
+[
 "拉萨",
 8.42,
 "Lā sà",
-"Lhasa, capital city of Tibet Autonomous Region 西藏自治區|西藏自治区[Xi1 zang4 Zi4 zhi4 qu1]"
+"Lhasa, capital city of Tibet Autonomous Region 西藏自治区[Xī zàng Zì zhì qū]"
 ],
 [
 "比萨",
@@ -42,12 +67,6 @@
 6.7,
 "Bā sà",
 "Barca (nickname for FC Barcelona); Baza (town in Grenada, Spain)"
-],
-[
-"菩萨",
-5.62,
-"Pú sà",
-"Bodhisattva (Buddhism)"
 ],
 [
 "披萨",

@@ -1,12 +1,32 @@
 {
 "char": "簇",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "swarm, crowd together, cluster",
 "pron": "cù"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"簇拥",
+7,
+"cù yōng",
+"to crowd around; to escort"
+]
+],
+"extraWords": [
+[
+"簇",
+2.97,
+"cù",
+"crowded; framework for silkworms; gather foliage; bunch; classifier for bunched objects"
+],
+[
+"花团锦簇",
+0.62,
+"huā tuán jǐn cù",
+"brightly colored decorations (idiom); splendid"
+]
+],
 "strokes": [
 "M 330 700 Q 354 745 366 757 Q 372 761 370 772 Q 363 796 323 806 Q 302 810 293 807 Q 284 804 288 793 Q 306 748 235 637 Q 232 636 232 633 Q 213 603 160 543 Q 153 537 163 536 Q 235 558 316 677 L 330 700 Z",
 "M 316 677 Q 355 661 394 671 Q 440 680 486 688 Q 508 692 511 696 Q 518 703 515 710 Q 508 720 483 726 Q 471 729 382 708 Q 357 704 330 700 C 300 696 288 688 316 677 Z",

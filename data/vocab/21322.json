@@ -1,6 +1,6 @@
 {
 "char": "半",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "half",
 "pron": "bàn"
@@ -8,36 +8,102 @@
 "words": [
 [
 "半",
-3,
+1,
 "bàn",
 "half; semi-; incomplete; (after a number) and a half"
 ],
 [
-"半途而废",
-6,
-"bàn tú ér fèi",
-"to give up halfway (idiom); leave sth unfinished"
-]
-],
-"extraWords": [
-[
-"一半",
-78.49,
-"yī bàn",
-"half"
-],
-[
 "半年",
-66.24,
+1,
 "bàn nián",
 "half a year"
 ],
 [
+"半天",
+1,
+"bàn tiān",
+"half of the day; a long time; quite a while; midair; CL:个[gè]"
+],
+[
+"一半",
+1,
+"yī bàn",
+"half"
+],
+[
+"半夜",
+2,
+"bàn yè",
+"midnight; in the middle of the night"
+],
+[
+"半决赛",
+6,
+"bàn jué sài",
+"semifinals"
+],
+[
+"多半",
+6,
+"duō bàn",
+"most; mostly; most likely"
+],
+[
+"半边天",
+7,
+"bàn biān tiān",
+"half the sky; women of the new society; womenfolk"
+],
+[
 "半场",
-45.48,
+7,
 "bàn chǎng",
 "half of a game or contest; half-court"
 ],
+[
+"半岛",
+7,
+"bàn dǎo",
+"peninsula"
+],
+[
+"半路",
+7,
+"bàn lù",
+"halfway; midway; on the way"
+],
+[
+"半数",
+7,
+"bàn shù",
+"half the number; half"
+],
+[
+"半途而废",
+7,
+"bàn tú ér fèi",
+"to give up halfway (idiom); leave sth unfinished"
+],
+[
+"半信半疑",
+7,
+"bàn xìn bàn yí",
+"half doubting; dubious; skeptical"
+],
+[
+"半真半假",
+7,
+"bàn zhēn bàn jiǎ",
+"(idiom) half true and half false"
+],
+[
+"过半",
+7,
+"guò bàn",
+"over fifty percent; more than half"
+]
+],
+"extraWords": [
 [
 "半个",
 38.67,
@@ -51,24 +117,6 @@
 "first half (of a year)"
 ],
 [
-"半天",
-26.21,
-"bàn tiān",
-"half of the day; a long time; quite a while; midair; CL:個|个[ge4]"
-],
-[
-"半夜",
-25.17,
-"bàn yè",
-"midnight; in the middle of the night"
-],
-[
-"半决赛",
-15.48,
-"bàn jué sài",
-"semifinals"
-],
-[
 "大半",
 12.01,
 "dà bàn",
@@ -79,18 +127,6 @@
 8.04,
 "bàn yuè",
 "half-moon; fortnight"
-],
-[
-"多半",
-7.07,
-"duō bàn",
-"most; mostly; most likely"
-],
-[
-"半数",
-6.38,
-"bàn shù",
-"half the number; half"
 ],
 [
 "半辈子",
@@ -121,12 +157,6 @@
 5.49,
 "Cháo xiǎn Bàn dǎo",
 "Korean Peninsula"
-],
-[
-"半岛",
-5.29,
-"bàn dǎo",
-"peninsula"
 ]
 ],
 "strokes": [

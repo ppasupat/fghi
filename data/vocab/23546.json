@@ -1,14 +1,32 @@
 {
 "char": "寺",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "court, office; temple, monastery",
 "pron": "sì"
 },
 "words": [
 [
-"寺庙",
+"寺",
 6,
+"sì",
+"Buddhist temple; mosque; government office (old)"
+],
+[
+"清真寺",
+7,
+"qīng zhēn sì",
+"mosque"
+],
+[
+"少林寺",
+7,
+"Shào lín Sì",
+"Shaolin Temple, Buddhist monastery famous for its kung fu monks"
+],
+[
+"寺庙",
+7,
 "sì miào",
 "temple; monastery; shrine"
 ]

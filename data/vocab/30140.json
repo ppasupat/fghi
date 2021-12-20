@@ -1,6 +1,6 @@
 {
 "char": "疼",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "aches, pains; be fond of; love",
 "pron": "téng"
@@ -8,35 +8,35 @@
 "words": [
 [
 "疼",
-3,
+2,
 "téng",
 "(it) hurts; sore; to love dearly"
 ],
 [
-"疼爱",
-5,
-"téng ài",
-"to love dearly"
-],
-[
 "心疼",
-6,
+5,
 "xīn téng",
 "to love dearly; to feel sorry for sb; to regret; to grudge; to be distressed"
-]
 ],
-"extraWords": [
 [
 "疼痛",
-29.12,
+6,
 "téng tòng",
 "pain; ache; sore"
 ],
 [
 "头疼",
-13.04,
+6,
 "tóu téng",
 "headache"
+]
+],
+"extraWords": [
+[
+"疼爱",
+5.71,
+"téng ài",
+"to love dearly"
 ]
 ],
 "strokes": [

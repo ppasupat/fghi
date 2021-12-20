@@ -1,16 +1,22 @@
 {
 "char": "残",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "injure, spoil; oppress; broken",
 "pron": "cán"
 },
 "words": [
 [
-"残忍",
+"残疾",
 6,
-"cán rěn",
-"cruel; mean; merciless; ruthless"
+"cán jí",
+"disabled; handicapped; deformity on a person or animal"
+],
+[
+"残疾人",
+6,
+"cán jí rén",
+"disabled person"
 ],
 [
 "残酷",
@@ -19,31 +25,49 @@
 "cruel; cruelty"
 ],
 [
+"残",
+7,
+"cán",
+"to destroy; to spoil; to ruin; to injure; cruel; oppressive; savage; brutal; incomplete; disabled; to remain; to survive; remnant; surplus"
+],
+[
 "残留",
-6,
+7,
 "cán liú",
 "to remain; left over; surplus; remnant"
 ],
 [
-"残疾",
-6,
-"cán jí",
-"disabled; handicapped; deformity on a person or animal"
+"残缺",
+7,
+"cán quē",
+"badly damaged; shattered"
 ],
 [
-"摧残",
-6,
-"cuī cán",
-"to ravage; to ruin"
+"残忍",
+7,
+"cán rěn",
+"cruel; mean; merciless; ruthless"
+],
+[
+"伤残",
+7,
+"shāng cán",
+"disabled; maimed; crippled; (of objects) damaged"
+],
+[
+"凶残",
+7,
+"xiōng cán",
+"savage; cruel; fierce"
+],
+[
+"凶残",
+7,
+"xiōng cán",
+"savage"
 ]
 ],
 "extraWords": [
-[
-"残疾人",
-16.64,
-"cán jí rén",
-"disabled person"
-],
 [
 "残骸",
 5.37,
@@ -55,18 +79,6 @@
 5.35,
 "cán yú",
 "remnant; relic; residue; vestige; surplus; to remain; to leave surplus"
-],
-[
-"凶残",
-5.2,
-"xiōng cán",
-"savage; cruel; fierce"
-],
-[
-"凶残",
-5.2,
-"xiōng cán",
-"savage"
 ]
 ],
 "strokes": [

@@ -1,30 +1,48 @@
 {
 "char": "瓶",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "jug, pitcher, vase, jar, bottle",
 "pron": "píng"
 },
 "words": [
 [
+"瓶",
+2,
+"píng",
+"bottle; vase; pitcher; CL:个[gè]; classifier for wine and liquids"
+],
+[
+"瓶",
+2,
+"píng",
+"variant of 瓶[píng]"
+],
+[
 "瓶子",
-3,
+2,
 "píng zi",
-"bottle; CL:個|个[ge4]"
+"bottle; CL:个[gè]"
+],
+[
+"花瓶",
+6,
+"huā píng",
+"flower vase; fig. just a pretty face; CL:对[duì]"
+],
+[
+"瓶颈",
+7,
+"píng jǐng",
+"bottleneck"
 ]
 ],
 "extraWords": [
 [
-"瓶颈",
-10.03,
-"píng jǐng",
-"bottleneck"
-],
-[
-"花瓶",
-5.22,
-"huā píng",
-"flower vase; fig. just a pretty face; CL:對|对[dui4]"
+"酒瓶",
+5.28,
+"???",
+"???"
 ]
 ],
 "strokes": [

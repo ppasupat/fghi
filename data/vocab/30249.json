@@ -1,19 +1,31 @@
 {
 "char": "瘩",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "pimples",
 "pron": "dá, da"
 },
-"words": [
+"words": [],
+"extraWords": [
+[
+"鸡皮疙瘩",
+3.58,
+"jī pí gē da",
+"goose pimples; goose bumps"
+],
 [
 "疙瘩",
-6,
+3.03,
 "gē da",
 "swelling or lump on skin; pimple; knot; preoccupation; problem"
+],
+[
+"疙瘩汤",
+0.16,
+"???",
+"???"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 519 802 Q 540 784 561 764 Q 577 751 593 753 Q 603 754 609 768 Q 613 784 601 815 Q 589 839 511 852 Q 495 855 488 851 Q 482 847 485 833 Q 489 823 519 802 Z",
 "M 348 646 Q 396 639 442 644 Q 767 689 789 703 Q 799 710 794 720 Q 788 733 759 742 Q 728 749 623 720 Q 470 690 350 681 C 320 679 318 650 348 646 Z",

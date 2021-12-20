@@ -1,23 +1,42 @@
 {
 "char": "稽",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "examine, investigate; delay",
 "pron": "jī"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "滑稽",
-12.16,
+7,
 "huá jī",
 "comical; funny; amusing; old pr. [gu3 ji1]; huaji, a form of comedy performance popular in Shanghai, Jiangsu and Zhejiang"
+]
 ],
+"extraWords": [
 [
 "稽查",
 6.37,
 "jī chá",
 "inspection"
+],
+[
+"稽",
+5.38,
+"Jī",
+"surname Ji"
+],
+[
+"稽",
+5.38,
+"jī",
+"to inspect; to check"
+],
+[
+"稽",
+5.38,
+"qǐ",
+"to bow to the ground"
 ]
 ],
 "strokes": [

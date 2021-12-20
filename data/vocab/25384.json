@@ -1,11 +1,17 @@
 {
 "char": "挨",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "near, close by, next to, towards, against; to wait; to lean on",
 "pron": "āi, ái"
 },
 "words": [
+[
+"挨着",
+6,
+"āi zhe",
+"near"
+],
 [
 "挨",
 6,
@@ -17,6 +23,24 @@
 6,
 "ái",
 "to suffer; to endure; to pull through (hard times); to delay; to stall; to play for time; to dawdle"
+],
+[
+"挨打",
+6,
+"ái dǎ",
+"to take a beating; to get thrashed; to come under attack"
+],
+[
+"挨家挨户",
+7,
+"āi jiā āi hù",
+"to go from house to house"
+],
+[
+"忍饥挨饿",
+7,
+"rěn jī ái è",
+"starving; famished"
 ]
 ],
 "extraWords": [],

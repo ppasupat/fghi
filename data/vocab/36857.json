@@ -1,46 +1,58 @@
 {
 "char": "迹",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "traces, impressions, footprints",
 "pron": "jì"
 },
 "words": [
 [
-"奇迹",
-5,
-"qí jì",
-"miracle; miraculous; wonder; marvel"
+"古迹",
+7,
+"gǔ jì",
+"places of historic interest; historical sites; CL:个[gè]"
 ],
 [
-"名胜古迹",
-5,
-"míng shèng gǔ jì",
-"historical sites and scenic spots"
+"轨迹",
+7,
+"guǐ jì",
+"locus; orbit; trajectory; track"
 ],
 [
 "痕迹",
-6,
+7,
 "hén jì",
 "vestige; mark; trace"
 ],
 [
 "迹象",
-6,
+7,
 "jì xiàng",
 "mark; indication; sign; indicator"
 ],
 [
-"踪迹",
-6,
-"zōng jì",
-"tracks; trail; footprint; trace; vestige"
+"奇迹",
+7,
+"qí jì",
+"miracle; miraculous; wonder; marvel"
 ],
 [
 "事迹",
-6,
+7,
 "shì jì",
 "deed; past achievement; important event of the past"
+],
+[
+"字迹",
+7,
+"zì jì",
+"handwriting"
+],
+[
+"足迹",
+7,
+"zú jì",
+"footprint; track; spoor"
 ]
 ],
 "extraWords": [
@@ -51,10 +63,22 @@
 "bloodstain"
 ],
 [
-"轨迹",
-8.08,
-"guǐ jì",
-"locus; orbit; trajectory; track"
+"迹",
+8.21,
+"jì",
+"footprint; mark; trace; vestige; sign; indication; Taiwan pr. [ji1]"
+],
+[
+"迹",
+8.21,
+"jì",
+"variant of 迹[jì]"
+],
+[
+"迹",
+8.21,
+"jì",
+"variant of 迹[jì]"
 ],
 [
 "笔迹",
@@ -63,10 +87,10 @@
 "handwriting"
 ],
 [
-"足迹",
-5.23,
-"zú jì",
-"footprint; track; spoor"
+"踪迹",
+5.72,
+"zōng jì",
+"tracks; trail; footprint; trace; vestige"
 ]
 ],
 "strokes": [

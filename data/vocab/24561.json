@@ -1,12 +1,31 @@
 {
 "char": "忱",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "truth, sincerity; sincere",
 "pron": "chén"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"热忱",
+2.24,
+"rè chén",
+"zeal; enthusiasm; ardor; enthusiastic; warmhearted"
+],
+[
+"忱",
+0.85,
+"chén",
+"sincerity; honesty"
+],
+[
+"王亚忱",
+0.24,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 135 511 Q 120 444 93 380 Q 80 341 102 311 Q 112 295 133 311 Q 181 363 171 456 Q 171 490 160 515 Q 153 522 147 523 Q 138 520 135 511 Z",
 "M 298 574 Q 307 570 346 531 Q 356 521 369 522 Q 378 522 381 533 Q 385 543 378 567 Q 374 582 350 592 Q 326 598 299 606 C 270 614 272 589 298 574 Z",

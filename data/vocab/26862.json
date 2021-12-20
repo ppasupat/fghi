@@ -1,6 +1,6 @@
 {
 "char": "森",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "forest; luxuriant vegetation",
 "pron": "sēn"
@@ -10,10 +10,22 @@
 "森林",
 4,
 "sēn lín",
-"forest; CL:片[pian4]"
+"forest; CL:片[piàn]"
 ]
 ],
 "extraWords": [
+[
+"森",
+38.83,
+"Sēn",
+"Mori (Japanese surname)"
+],
+[
+"森",
+38.83,
+"sēn",
+"forest"
+],
 [
 "辛普森",
 7.6,

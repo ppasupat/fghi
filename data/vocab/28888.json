@@ -1,16 +1,28 @@
 {
 "char": "烘",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "bake, roast; dry by fire",
 "pron": "hōng"
 },
 "words": [
 [
-"烘",
-6,
-"hōng",
-"to bake; to heat by fire; to set off by contrast"
+"烘干",
+7,
+"hōng gān",
+"to dry over a stove"
+],
+[
+"烘托",
+7,
+"hōng tuō",
+"background (of a painting); backdrop; a foil (to set off something to advantage); to offset (something to advantage)"
+],
+[
+"暖烘烘",
+7,
+"nuǎn hōng hōng",
+"nice and warm; cozy; heartwarming"
 ]
 ],
 "extraWords": [],

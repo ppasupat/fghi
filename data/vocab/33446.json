@@ -1,17 +1,30 @@
 {
 "char": "芦",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "rushes, reeds",
 "pron": "lú, lǔ"
 },
-"words": [],
+"words": [
+[
+"芦花",
+7,
+"lú huā",
+"reed catkin; reed flower"
+]
+],
 "extraWords": [
 [
 "葫芦",
 6.14,
 "hú lu",
 "calabash or bottle gourd (Lagenaria siceraria); hoist; generic term for block and tackle (or parts thereof); muddled; (poker) full house"
+],
+[
+"芦荟",
+2.84,
+"lú huì",
+"aloe vera"
 ]
 ],
 "strokes": [

@@ -1,11 +1,18 @@
 {
 "char": "腺",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "gland",
 "pron": "xiàn"
 },
-"words": [],
+"words": [
+[
+"腺",
+7,
+"xiàn",
+"gland"
+]
+],
 "extraWords": [
 [
 "甲状腺",

@@ -1,11 +1,17 @@
 {
 "char": "脱",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "take off",
 "pron": "tuō"
 },
 "words": [
+[
+"摆脱",
+4,
+"bǎi tuō",
+"to break away from; to cast off (old ideas etc); to get rid of; to break away (from); to break out (of); to free oneself from; to extricate oneself"
+],
 [
 "脱",
 4,
@@ -13,16 +19,46 @@
 "to shed; to take off; to escape; to get away from"
 ],
 [
-"摆脱",
-6,
-"bǎi tuō",
-"to break away from; to cast off (old ideas etc); to get rid of; to break away (from); to break out (of); to free oneself from; to extricate oneself"
-],
-[
 "脱离",
-6,
+5,
 "tuō lí",
 "to separate oneself from; to break away from; diastasis (medicine); abscission; abjunction (botany)"
+],
+[
+"解脱",
+7,
+"jiě tuō",
+"to untie; to free; to absolve of; to get free of; to extirpate oneself; (Buddhism) to free oneself of worldly worries"
+],
+[
+"脱节",
+7,
+"tuō jié",
+"to come apart"
+],
+[
+"脱口而出",
+7,
+"tuō kǒu ér chū",
+"to blurt out; to let slip (an indiscreet remark)"
+],
+[
+"脱落",
+7,
+"tuō luò",
+"to drop off; to come off; to lose (hair etc); to omit (a character when writing)"
+],
+[
+"脱身",
+7,
+"tuō shēn",
+"to get away; to escape (from obligations); to free oneself; to disengage"
+],
+[
+"脱颖而出",
+7,
+"tuō yǐng ér chū",
+"to reveal one's talent (idiom); to rise above others; to distinguish oneself"
 ]
 ],
 "extraWords": [
@@ -37,30 +73,6 @@
 13.86,
 "tuō yī wǔ",
 "striptease"
-],
-[
-"解脱",
-12.13,
-"jiě tuō",
-"to untie; to free; to absolve of; to get free of; to extirpate oneself; (Buddhism) to free oneself of worldly worries"
-],
-[
-"脱身",
-9.24,
-"tuō shēn",
-"to get away; to escape (from obligations); to free oneself; to disengage"
-],
-[
-"脱落",
-8.73,
-"tuō luò",
-"to drop off; to come off; to lose (hair etc); to omit (a character when writing)"
-],
-[
-"脱颖而出",
-7.06,
-"tuō yǐng ér chū",
-"to reveal one's talent (idiom); to rise above others; to distinguish oneself"
 ],
 [
 "脱光",

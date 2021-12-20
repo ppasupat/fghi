@@ -1,6 +1,6 @@
 {
 "char": "颇",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "lean one side; very, rather",
 "pron": "pō"
@@ -8,18 +8,24 @@
 "words": [
 [
 "颇",
-6,
+7,
 "Pō",
 "surname Po; Taiwan pr. [Po3]"
 ],
 [
 "颇",
-6,
+7,
 "pō",
 "rather; quite; considerably; oblique; inclined; slanting; Taiwan pr. [po3]"
 ]
 ],
 "extraWords": [
+[
+"颇有",
+15.39,
+"???",
+"???"
+],
 [
 "颇为",
 13.3,

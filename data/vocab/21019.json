@@ -1,61 +1,121 @@
 {
 "char": "创",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "establish, create; knife cut",
 "pron": "chuāng, chuàng"
 },
 "words": [
 [
+"创新",
+3,
+"chuàng xīn",
+"innovation; to bring forth new ideas; to blaze new trails"
+],
+[
+"创业",
+3,
+"chuàng yè",
+"to begin an undertaking; to start a major task; to initiate; to venture; venture; entrepreneurship"
+],
+[
 "创造",
-5,
+3,
 "chuàng zào",
 "to create; to bring about; to produce; to set (a record)"
 ],
 [
 "创作",
-6,
+3,
 "chuàng zuò",
-"to create; to produce; to write; creative work; creation; CL:個|个[ge4]"
-],
-[
-"创新",
-6,
-"chuàng xīn",
-"innovation; to bring forth new ideas; to blaze new trails"
+"to create; to produce; to write; creative work; creation; CL:个[gè]"
 ],
 [
 "创立",
-6,
+5,
 "chuàng lì",
 "to establish; to set up; to found"
 ],
 [
-"创业",
+"创办",
 6,
-"chuàng yè",
-"to begin an undertaking; to start a major task; to initiate; to venture; venture; entrepreneurship"
-]
-],
-"extraWords": [
-[
-"创意",
-44.53,
-"chuàng yì",
-"creative; creativity"
+"chuàng bàn",
+"to establish; to found; to launch"
 ],
 [
 "创建",
-29.11,
+6,
 "chuàng jiàn",
 "to found; to establish"
 ],
 [
-"创办",
-15.29,
-"chuàng bàn",
-"to establish; to found; to launch"
+"创意",
+6,
+"chuàng yì",
+"creative; creativity"
 ],
+[
+"开创",
+6,
+"kāi chuàng",
+"to initiate; to start; to found"
+],
+[
+"创伤",
+7,
+"chuāng shāng",
+"wound; injury; trauma"
+],
+[
+"创",
+7,
+"chuàng",
+"variant of 创[chuàng]"
+],
+[
+"创",
+7,
+"chuàng",
+"variant of 创[chuàng]"
+],
+[
+"创",
+7,
+"chuāng",
+"a wound; cut; injury; trauma"
+],
+[
+"创",
+7,
+"chuàng",
+"to begin; to initiate; to inaugurate; to start; to create"
+],
+[
+"创始人",
+7,
+"chuàng shǐ rén",
+"creator; founder; initiator"
+],
+[
+"首创",
+7,
+"shǒu chuàng",
+"to create; original creation; to be the first to do sth"
+],
+[
+"原创",
+7,
+"yuán chuàng",
+"originality; creativity; innovation"
+],
+[
+"重创",
+7,
+"zhòng chuāng",
+"to inflict heavy losses; to inflict serious damage"
+]
+],
+"extraWords": [
 [
 "创下",
 14.58,
@@ -69,34 +129,28 @@
 "creativeness; creativity"
 ],
 [
-"开创",
-13.54,
-"kāi chuàng",
-"to initiate; to start; to found"
+"创出",
+8.08,
+"???",
+"???"
 ],
 [
-"创伤",
-13.44,
-"chuāng shāng",
-"wound; injury; trauma"
-],
-[
-"创始人",
-7.5,
-"chuàng shǐ rén",
-"creator; founder; initiator"
-],
-[
-"首创",
-7.11,
-"shǒu chuàng",
-"to create; original creation; to be the first to do sth"
+"创造出",
+7.3,
+"???",
+"???"
 ],
 [
 "创造力",
 6.21,
 "chuàng zào lì",
 "ingenuity; creativity"
+],
+[
+"创面",
+5.51,
+"???",
+"???"
 ]
 ],
 "strokes": [

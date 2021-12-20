@@ -1,16 +1,28 @@
 {
 "char": "于",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "in, on, at; go to; surname",
 "pron": "yú"
 },
 "words": [
 [
-"关于",
+"等于",
+2,
+"děng yú",
+"to equal; to be tantamount to"
+],
+[
+"属于",
 3,
-"guān yú",
-"pertaining to; concerning; with regard to; about; a matter of"
+"shǔ yú",
+"to be classified as; to belong to; to be part of"
+],
+[
+"由于",
+3,
+"yóu yú",
+"due to; as a result of; thanks to; owing to; since; because"
 ],
 [
 "终于",
@@ -19,10 +31,34 @@
 "at last; in the end; finally; eventually"
 ],
 [
+"处于",
+4,
+"chǔ yú",
+"to be in (some state, position, or condition)"
+],
+[
 "对于",
 4,
 "duì yú",
 "regarding; as far as sth is concerned; with regards to"
+],
+[
+"关于",
+4,
+"guān yú",
+"pertaining to; concerning; with regard to; about; a matter of"
+],
+[
+"善于",
+4,
+"shàn yú",
+"to be good at; to be adept at"
+],
+[
+"位于",
+4,
+"wèi yú",
+"to be located at; to be situated at; to lie"
 ],
 [
 "于是",
@@ -31,192 +67,264 @@
 "thereupon; as a result; consequently; thus; hence"
 ],
 [
-"由于",
-4,
-"yóu yú",
-"due to; as a result of; thanks to; owing to; since; because"
-],
-[
-"属于",
-5,
-"shǔ yú",
-"to be classified as; to belong to; to be part of"
-],
-[
 "在于",
-5,
+4,
 "zài yú",
 "to be in; to lie in; to consist in; to depend on; to rest with"
 ],
 [
-"至于",
-5,
-"zhì yú",
-"as for; as to; to go so far as to"
-],
-[
-"等于",
-5,
-"děng yú",
-"to equal; to be tantamount to"
-],
-[
-"位于",
-5,
-"wèi yú",
-"to be located at; to be situated at; to lie"
-],
-[
-"善于",
-5,
-"shàn yú",
-"to be good at; to be adept at"
-],
-[
-"过于",
-6,
-"guò yú",
-"too much; excessively"
-],
-[
-"鉴于",
-6,
-"jiàn yú",
-"in view of; seeing that; considering; whereas"
-],
-[
-"无动于衷",
-6,
-"wú dòng yú zhōng",
-"aloof; indifferent; unconcerned"
-],
-[
-"勇于",
-6,
-"yǒng yú",
-"to dare to; to be brave enough to"
-],
-[
 "便于",
-6,
+5,
 "biàn yú",
 "easy to; convenient for"
 ],
 [
-"急于求成",
-6,
-"jí yú qiú chéng",
-"anxious for quick results (idiom); to demand instant success; impatient for result; impetuous"
-]
-],
-"extraWords": [
-[
-"处于",
-104.03,
-"chǔ yú",
-"to be in (some state, position, or condition)"
+"出于",
+5,
+"chū yú",
+"due to; to stem from"
 ],
 [
-"用于",
-80.8,
-"yòng yú",
-"use in; use on; use for"
-],
-[
-"有利于",
-61.58,
-"yǒu lì yú",
-"to be advantageous to; to be beneficial for"
+"大于",
+5,
+"dà yú",
+"greater than; bigger than; more than, >"
 ],
 [
 "低于",
-60.34,
+5,
 "dī yú",
 "to be lower than"
 ],
 [
 "高于",
-52.37,
+5,
 "gāo yú",
 "greater than; to exceed"
 ],
 [
-"基于",
-37.29,
-"jī yú",
-"because of; on the basis of; in view of; on account of"
+"过于",
+5,
+"guò yú",
+"too much; excessively"
 ],
 [
-"相当于",
-28.8,
-"xiāng dāng yú",
-"equivalent to"
+"用于",
+5,
+"yòng yú",
+"use in; use on; use for"
 ],
 [
-"有助于",
-26.49,
-"yǒu zhù yú",
-"to contribute to; to promote"
+"有利于",
+5,
+"yǒu lì yú",
+"to be advantageous to; to be beneficial for"
 ],
 [
-"大于",
-25.49,
-"dà yú",
-"greater than; bigger than; more than, >"
-],
-[
-"出于",
-25.04,
-"chū yú",
-"due to; to stem from"
-],
-[
-"取决于",
-17.79,
-"qǔ jué yú",
-"to hinge on; to be decided by; to depend on"
+"不至于",
+6,
+"bù zhì yú",
+"unlikely to go so far as to; not as bad as"
 ],
 [
 "敢于",
-16.05,
+6,
 "gǎn yú",
 "to have the courage to do sth; to dare to; bold in"
 ],
 [
 "小于",
-14.32,
+6,
 "xiǎo yú",
 "less than, <"
 ],
 [
-"源于",
-11.63,
-"yuán yú",
-"has its origins in"
+"于",
+6,
+"Yú",
+"surname Yu"
 ],
 [
-"限于",
-11.34,
-"xiàn yú",
-"to be limited to; to be confined to"
+"于",
+6,
+"yú",
+"to go; to take; sentence-final interrogative particle; variant of 于[yú]"
+],
+[
+"于",
+6,
+"yú",
+"in; at; to; from; by; than; out of"
+],
+[
+"至于",
+6,
+"zhì yú",
+"as for; as to; to go so far as to"
+],
+[
+"不利于",
+7,
+"???",
+"???"
+],
+[
+"不亚于",
+7,
+"bù yà yú",
+"no less than; not inferior to"
+],
+[
+"得益于",
+7,
+"dé yì yú",
+"to benefit from; thanks to"
+],
+[
+"基于",
+7,
+"jī yú",
+"because of; on the basis of; in view of; on account of"
+],
+[
+"急于",
+7,
+"jí yú",
+"eager to; in a hurry to"
+],
+[
+"鉴于",
+7,
+"jiàn yú",
+"in view of; seeing that; considering; whereas"
+],
+[
+"介于",
+7,
+"jiè yú",
+"between; intermediate; to lie between"
+],
+[
+"仅次于",
+7,
+"jǐn cì yú",
+"second only to...; (in second place) preceded only by..."
+],
+[
+"来源于",
+7,
+"lái yuán yú",
+"to originate in"
+],
+[
+"莫过于",
+7,
+"mò guò yú",
+"nothing can surpass"
 ],
 [
 "趋于",
-10.5,
+7,
 "qū yú",
 "to tend towards"
 ],
 [
-"不至于",
-9.66,
-"bù zhì yú",
-"unlikely to go so far as to; not as bad as"
+"取决于",
+7,
+"qǔ jué yú",
+"to hinge on; to be decided by; to depend on"
+],
+[
+"甚至于",
+7,
+"shèn zhì yú",
+"so much (that); even (to the extent that)"
+],
+[
+"无济于事",
+7,
+"wú jì yú shì",
+"to no avail; of no use"
+],
+[
+"限于",
+7,
+"xiàn yú",
+"to be limited to; to be confined to"
+],
+[
+"相当于",
+7,
+"xiāng dāng yú",
+"equivalent to"
 ],
 [
 "以至于",
-9.19,
+7,
 "yǐ zhì yú",
 "down to; up to; to the extent that..."
+],
+[
+"勇于",
+7,
+"yǒng yú",
+"to dare to; to be brave enough to"
+],
+[
+"有助于",
+7,
+"yǒu zhù yú",
+"to contribute to; to promote"
+],
+[
+"源于",
+7,
+"yuán yú",
+"has its origins in"
+],
+[
+"致力于",
+7,
+"???",
+"???"
+],
+[
+"忠于",
+7,
+"zhōng yú",
+"to be loyal to"
+],
+[
+"着眼于",
+7,
+"???",
+"???"
+]
+],
+"extraWords": [
+[
+"适用于",
+13.4,
+"???",
+"???"
+],
+[
+"少于",
+10.86,
+"???",
+"???"
+],
+[
+"死于",
+9.66,
+"???",
+"???"
+],
+[
+"就在于",
+9.31,
+"???",
+"???"
 ],
 [
 "优于",
@@ -225,22 +333,10 @@
 "to surpass"
 ],
 [
-"急于",
-8.73,
-"jí yú",
-"eager to; in a hurry to"
-],
-[
 "定于",
 8.03,
 "dìng yú",
 "set at; scheduled at"
-],
-[
-"莫过于",
-7.78,
-"mò guò yú",
-"nothing can surpass"
 ],
 [
 "利于",
@@ -249,22 +345,16 @@
 "to be beneficial; to be good for"
 ],
 [
-"仅次于",
-7.14,
-"jǐn cì yú",
-"second only to...; (in second place) preceded only by..."
+"类似于",
+6.88,
+"???",
+"???"
 ],
 [
-"得益于",
-6.65,
-"dé yì yú",
-"to benefit from; thanks to"
-],
-[
-"忠于",
-5.96,
-"zhōng yú",
-"to be loyal to"
+"难于",
+6.26,
+"???",
+"???"
 ],
 [
 "多于",
@@ -277,6 +367,18 @@
 5.72,
 "zhì yú",
 "to place; to put (at or in a position); to be located"
+],
+[
+"始于",
+5.69,
+"???",
+"???"
+],
+[
+"于我",
+5.63,
+"???",
+"???"
 ],
 [
 "忙于",

@@ -1,22 +1,46 @@
 {
 "char": "配",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "match, pair; equal; blend",
 "pron": "pèi"
 },
 "words": [
 [
+"分配",
+3,
+"fēn pèi",
+"to distribute; to assign; to allocate; to partition (a hard drive)"
+],
+[
+"配",
+3,
+"pèi",
+"to join; to fit; to mate; to mix; to match; to deserve; to make up (a prescription); to allocate"
+],
+[
 "配合",
-5,
+3,
 "pèi hé",
 "matching; fitting in with; compatible with; to correspond; to fit; to conform to; rapport; to coordinate with; to act in concert with; to cooperate; to become man and wife; to combine parts of machine"
 ],
 [
-"分配",
+"配备",
 5,
-"fēn pèi",
-"to distribute; to assign; to allocate; to partition (a hard drive)"
+"pèi bèi",
+"to allocate; to provide; to outfit with"
+],
+[
+"配套",
+5,
+"pèi tào",
+"to form a complete set; compatible; matching; complementary"
+],
+[
+"支配",
+5,
+"zhī pèi",
+"to control; to dominate; to allocate"
 ],
 [
 "搭配",
@@ -25,49 +49,43 @@
 "to pair up; to match; to arrange in pairs; to add sth into a group"
 ],
 [
-"支配",
-6,
-"zhī pèi",
-"to control; to dominate; to allocate"
-],
-[
-"配偶",
-6,
-"pèi ǒu",
-"consort; mate; spouse"
-],
-[
-"配备",
-6,
-"pèi bèi",
-"to allocate; to provide; to outfit with"
-],
-[
-"配套",
-6,
-"pèi tào",
-"to form a complete set; compatible; matching; complementary"
-]
-],
-"extraWords": [
-[
 "配置",
-57.89,
+6,
 "pèi zhì",
 "to deploy; to allocate; configuration; allocation"
 ],
 [
 "配件",
-13.07,
+7,
 "pèi jiàn",
 "component; part; fitting; accessory; replacement part"
 ],
 [
+"配偶",
+7,
+"pèi ǒu",
+"consort; mate; spouse"
+],
+[
+"配送",
+7,
+"pèi sòng",
+"to put together an order and deliver it (i.e. 配货[pèi huò] and 送货[sòng huò]); to deliver (goods)"
+],
+[
+"配音",
+7,
+"pèi yīn",
+"dubbing (filmmaking)"
+],
+[
 "匹配",
-12.61,
+7,
 "pǐ pèi",
 "to mate or marry; to match; matching; compatible"
+]
 ],
+"extraWords": [
 [
 "配方",
 9.32,
@@ -87,16 +105,10 @@
 "quota; ration"
 ],
 [
-"配送",
-7.66,
-"pèi sòng",
-"to put together an order and deliver it (i.e. 配貨|配货[pei4 huo4] and 送貨|送货[song4 huo4]); to deliver (goods)"
-],
-[
-"配音",
-6.1,
-"pèi yīn",
-"dubbing (filmmaking)"
+"配股",
+5.65,
+"???",
+"???"
 ],
 [
 "装配",

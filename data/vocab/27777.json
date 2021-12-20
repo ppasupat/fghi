@@ -1,12 +1,31 @@
 {
 "char": "沁",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "soak into, seep in, percolate",
 "pron": "qìn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"沁",
+3.65,
+"qìn",
+"to seep; to percolate"
+],
+[
+"沁人心脾",
+0.63,
+"qìn rén xīn pí",
+"to penetrate deeply into the heart (idiom); to gladden the heart; to refresh the mind"
+],
+[
+"科尔沁",
+0.58,
+"Kē ěr qìn",
+"Horqin or Xorchin, famous Mongolian archer; Horqin district or Xorchin raion of Tongliao city 通辽市[Tōng liáo shì], Inner Mongolia"
+]
+],
 "strokes": [
 "M 236 708 Q 267 680 301 647 Q 316 634 332 634 Q 342 635 349 649 Q 353 664 345 695 Q 333 729 231 758 Q 215 762 208 759 Q 202 755 204 742 Q 208 730 236 708 Z",
 "M 127 520 Q 175 466 210 450 Q 226 447 235 461 Q 241 474 238 491 Q 223 536 140 559 Q 124 563 113 560 Q 107 559 110 546 Q 111 534 127 520 Z",

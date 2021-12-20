@@ -1,17 +1,30 @@
 {
 "char": "炬",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "torch",
 "pron": "jù"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "火炬",
-12.19,
+7,
 "huǒ jù",
-"(flaming) torch; CL:把[ba3]"
+"(flaming) torch; CL:把[bǎ]"
+]
+],
+"extraWords": [
+[
+"炬",
+1.03,
+"jù",
+"torch"
+],
+[
+"付之一炬",
+0.51,
+"fù zhī yī jù",
+"to put to the torch (idiom); to commit to the flames; to burn sth down deliberately"
 ]
 ],
 "strokes": [

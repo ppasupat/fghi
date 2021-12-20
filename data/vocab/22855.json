@@ -1,11 +1,17 @@
 {
 "char": "奇",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "strange, unusual, uncanny, occult",
 "pron": "jī, qí"
 },
 "words": [
+[
+"好奇",
+3,
+"hào qí",
+"inquisitive; curious; inquisitiveness; curiosity"
+],
 [
 "奇怪",
 3,
@@ -13,20 +19,8 @@
 "strange; odd; to marvel; to be baffled"
 ],
 [
-"奇迹",
-5,
-"qí jì",
-"miracle; miraculous; wonder; marvel"
-],
-[
-"好奇",
-5,
-"hào qí",
-"inquisitive; curious; inquisitiveness; curiosity"
-],
-[
 "神奇",
-6,
+5,
 "shén qí",
 "magical; mystical; miraculous"
 ],
@@ -37,18 +31,72 @@
 "fantastic; wonderful"
 ],
 [
+"传奇",
+7,
+"chuán qí",
+"legendary; fantasy saga; romance; short stories of the Tang and Song Dynasty"
+],
+[
+"好奇心",
+7,
+"hào qí xīn",
+"interest in sth; curiosity; inquisitive"
+],
+[
 "惊奇",
-6,
+7,
 "jīng qí",
 "to be amazed; to be surprised; to wonder"
+],
+[
+"离奇",
+7,
+"lí qí",
+"odd; bizarre"
+],
+[
+"奇花异草",
+7,
+"qí huā yì cǎo",
+"very rarely seen, unusual (idiom)"
+],
+[
+"奇迹",
+7,
+"qí jì",
+"miracle; miraculous; wonder; marvel"
+],
+[
+"奇特",
+7,
+"qí tè",
+"peculiar; unusual; queer"
+],
+[
+"稀奇",
+7,
+"xī qí",
+"rare; strange"
+],
+[
+"新奇",
+7,
+"xīn qí",
+"novelty; new and odd"
 ]
 ],
 "extraWords": [
 [
-"传奇",
-23.46,
-"chuán qí",
-"legendary; fantasy saga; romance; short stories of the Tang and Song Dynasty"
+"奇",
+70.75,
+"jī",
+"odd (number)"
+],
+[
+"奇",
+70.75,
+"qí",
+"strange; odd; weird; wonderful; surprisingly; unusually"
 ],
 [
 "米奇",
@@ -67,18 +115,6 @@
 7.12,
 "Dào qí",
 "Dodge, US automobile brand, division of Chrysler LLC"
-],
-[
-"奇特",
-6.94,
-"qí tè",
-"peculiar; unusual; queer"
-],
-[
-"新奇",
-5.09,
-"xīn qí",
-"novelty; new and odd"
 ],
 [
 "奇葩",

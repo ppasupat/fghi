@@ -1,6 +1,6 @@
 {
 "char": "现",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "appear, manifest, become visible",
 "pron": "xiàn"
@@ -13,150 +13,168 @@
 "now; at present; at the moment; modern; current; nowadays"
 ],
 [
-"发现",
-3,
-"fā xiàn",
-"to find; to discover"
-],
-[
 "出现",
-4,
+2,
 "chū xiàn",
 "to appear; to arise; to emerge; to show up"
 ],
 [
-"现金",
-4,
-"xiàn jīn",
-"cash"
-],
-[
-"表现",
-5,
-"biǎo xiàn",
-"to show; to show off; to display; to manifest; expression; manifestation; show; display; performance (at work etc); behavior"
-],
-[
-"现实",
-5,
-"xiàn shí",
-"reality; actuality; real; actual; realistic; pragmatic; materialistic; self-interested"
+"发现",
+2,
+"fā xiàn",
+"to find; to discover"
 ],
 [
 "实现",
-5,
+2,
 "shí xiàn",
 "to achieve; to implement; to realize; to bring about"
 ],
 [
-"现象",
-5,
-"xiàn xiàng",
-"phenomenon; CL:個|个[ge4],種|种[zhong3]; appearance"
-],
-[
-"现代",
-5,
-"Xiàn dài",
-"Hyundai, South Korean company"
-],
-[
-"现代",
-5,
-"xiàn dài",
-"modern times; modern age; modern era"
+"表现",
+3,
+"biǎo xiàn",
+"to show; to show off; to display; to manifest; expression; manifestation; show; display; performance (at work etc); behavior"
 ],
 [
 "体现",
-5,
+3,
 "tǐ xiàn",
 "to embody; to reflect; to incarnate"
 ],
 [
 "现场",
-6,
+3,
 "xiàn chǎng",
 "the scene (of a crime, accident etc); (on) the spot; (at) the site"
 ],
 [
+"现代",
+3,
+"Xiàn dài",
+"Hyundai, South Korean company"
+],
+[
+"现代",
+3,
+"xiàn dài",
+"modern times; modern age; modern era"
+],
+[
+"现金",
+3,
+"xiàn jīn",
+"cash"
+],
+[
+"现实",
+3,
+"xiàn shí",
+"reality; actuality; real; actual; realistic; pragmatic; materialistic; self-interested"
+],
+[
+"现象",
+3,
+"xiàn xiàng",
+"phenomenon; CL:个[gè],种[zhǒng]; appearance"
+],
+[
+"现有",
+5,
+"xiàn yǒu",
+"currently existing; currently available"
+],
+[
+"现状",
+5,
+"xiàn zhuàng",
+"current situation"
+],
+[
 "展现",
-6,
+5,
 "zhǎn xiàn",
 "to come out; to emerge; to reveal; to display"
 ],
 [
 "呈现",
-6,
+7,
 "chéng xiàn",
 "to appear; to emerge; to present (a certain appearance); to demonstrate"
 ],
 [
+"重现",
+7,
+"chóng xiàn",
+"to reappear"
+],
+[
 "兑现",
-6,
+7,
 "duì xiàn",
 "(of a check etc) to cash; to honor a commitment"
 ],
 [
-"现状",
-6,
-"xiàn zhuàng",
-"current situation"
+"浮现",
+7,
+"fú xiàn",
+"to appear before one's eyes; to come into view; to float into appearance; to come back (of images from the past); to emerge; it emerges; it occurs (to me that..)"
+],
+[
+"显现",
+7,
+"xiǎn xiàn",
+"appearance; to appear"
 ],
 [
 "现成",
-6,
+7,
 "xiàn chéng",
 "ready-made; readily available"
 ],
 [
+"现任",
+7,
+"xiàn rèn",
+"to occupy a post currently; current (president etc); incumbent; (coll.) current boyfriend (girlfriend, spouse)"
+],
+[
+"现行",
+7,
+"xiàn xíng",
+"to be in effect; in force; current"
+],
+[
 "涌现",
-6,
+7,
 "yǒng xiàn",
 "to emerge in large numbers; to spring up; to emerge prominently"
+],
+[
+"再现",
+7,
+"zài xiàn",
+"to recreate; to reconstruct (a historical relic)"
 ]
 ],
 "extraWords": [
 [
+"现",
+147.83,
+"xiàn",
+"to appear; present; now; existing; current"
+],
+[
 "现代化",
 55.45,
 "xiàn dài huà",
-"modernization; CL:個|个[ge4]"
-],
-[
-"现有",
-53.6,
-"xiàn yǒu",
-"currently existing; currently available"
-],
-[
-"现行",
-22.58,
-"xiàn xíng",
-"to be in effect; in force; current"
+"modernization; CL:个[gè]"
 ],
 [
 "现货",
 19.73,
 "xiàn huò",
 "merchandise or commodities available immediately after sale; merchandise in stock; available item; actuals (investment); actual commodities"
-],
-[
-"现任",
-15.29,
-"xiàn rèn",
-"to occupy a post currently; current (president etc); incumbent; (coll.) current boyfriend (girlfriend, spouse)"
-],
-[
-"显现",
-14.19,
-"xiǎn xiàn",
-"appearance; to appear"
-],
-[
-"再现",
-9.65,
-"zài xiàn",
-"to recreate; to reconstruct (a historical relic)"
 ],
 [
 "现身",
@@ -175,18 +193,6 @@
 8.24,
 "xiàn jiē duàn",
 "at the present stage"
-],
-[
-"浮现",
-6.44,
-"fú xiàn",
-"to appear before one's eyes; to come into view; to float into appearance; to come back (of images from the past); to emerge; it emerges; it occurs (to me that..)"
-],
-[
-"重现",
-5.36,
-"chóng xiàn",
-"to reappear"
 ],
 [
 "现今",

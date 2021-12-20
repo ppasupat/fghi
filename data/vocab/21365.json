@@ -1,17 +1,30 @@
 {
 "char": "卵",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "egg; ovum; roe; spawn",
 "pron": "luǎn"
 },
-"words": [],
+"words": [
+[
+"卵",
+7,
+"luǎn",
+"egg; ovum; spawn; (coll.) testicles; (old) penis; (expletive) fucking"
+]
+],
 "extraWords": [
 [
 "卵巢",
 7.29,
 "luǎn cháo",
 "ovary"
+],
+[
+"输卵管",
+3.37,
+"shū luǎn guǎn",
+"Fallopian tube; oviduct"
 ]
 ],
 "strokes": [

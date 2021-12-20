@@ -1,16 +1,16 @@
 {
 "char": "胞",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "womb, placenta, fetal membrane",
 "pron": "bāo"
 },
 "words": [
 [
-"双胞胎",
+"同胞",
 6,
-"shuāng bāo tāi",
-"twin; CL:對|对[dui4]"
+"tóng bāo",
+"born of the same parents; sibling; fellow citizen; compatriot"
 ],
 [
 "细胞",
@@ -19,13 +19,19 @@
 "cell (biology)"
 ],
 [
-"同胞",
-6,
-"tóng bāo",
-"born of the same parents; sibling; fellow citizen; compatriot"
+"双胞胎",
+7,
+"shuāng bāo tāi",
+"twin; CL:对[duì]"
 ]
 ],
 "extraWords": [
+[
+"胞",
+12.2,
+"bāo",
+"placenta; womb; born of the same parents"
+],
 [
 "淋巴细胞",
 8.26,

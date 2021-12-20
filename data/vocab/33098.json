@@ -1,17 +1,42 @@
 {
 "char": "腊",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "year end sacrifice; dried meat",
 "pron": "là"
 },
-"words": [],
+"words": [
+[
+"腊月",
+7,
+"Là yuè",
+"twelfth lunar month"
+]
+],
 "extraWords": [
 [
 "希腊",
 22.18,
 "Xī là",
 "Greece"
+],
+[
+"腊",
+3.81,
+"xī",
+"dried meat; also pr. [xi2]"
+],
+[
+"腊",
+3.81,
+"là",
+"old variant of 腊[là]; 12th lunar month"
+],
+[
+"腊",
+3.81,
+"là",
+"12th lunar month; preserved (meat, fish etc)"
 ]
 ],
 "strokes": [

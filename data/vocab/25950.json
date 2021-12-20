@@ -1,6 +1,6 @@
 {
 "char": "敞",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "roomy, spacious, open, broad",
 "pron": "chǎng"
@@ -8,18 +8,25 @@
 "words": [
 [
 "敞开",
-6,
+7,
 "chǎng kāi",
 "to open wide; unrestrictedly"
 ],
 [
 "宽敞",
-6,
+7,
 "kuān chang",
 "spacious; wide"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"敞",
+1.85,
+"chǎng",
+"open to the view of all; spacious; to open wide; to disclose"
+]
+],
 "strokes": [
 "M 338 468 Q 356 714 369 759 Q 373 771 353 785 Q 319 804 296 807 Q 280 811 272 802 Q 265 795 273 780 Q 292 752 293 732 Q 300 606 296 459 C 295 429 336 438 338 468 Z",
 "M 153 589 Q 186 538 212 523 Q 225 519 235 529 Q 242 539 242 556 Q 236 601 176 620 Q 173 621 170 623 Q 155 630 146 627 Q 140 627 141 615 Q 141 605 153 589 Z",

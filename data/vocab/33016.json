@@ -1,42 +1,48 @@
 {
 "char": "胸",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "breast, bosom, chest; thorax",
 "pron": "xiōng"
 },
 "words": [
 [
-"胸",
-5,
-"xiōng",
-"variant of 胸[xiong1]"
+"胸部",
+4,
+"xiōng bù",
+"chest; bosom"
 ],
 [
-"胸",
-5,
-"xiōng",
-"chest; bosom; heart; mind; thorax"
+"心胸",
+7,
+"xīn xiōng",
+"heart; mind; ambition; aspiration"
 ],
 [
 "胸膛",
-6,
+7,
 "xiōng táng",
 "chest"
 ],
 [
-"胸怀",
-6,
-"xiōng huái",
-"one's bosom (the seat of emotions); breast; broad-minded and open; to think about; to cherish"
+"胸有成竹",
+7,
+"xiōng yǒu chéng zhú",
+"to plan in advance (idiom); a card up one's sleeve; forewarned is forearmed"
 ]
 ],
 "extraWords": [
 [
-"胸部",
-23.52,
-"xiōng bù",
-"chest; bosom"
+"胸",
+58.22,
+"xiōng",
+"variant of 胸[xiōng]"
+],
+[
+"胸",
+58.22,
+"xiōng",
+"chest; bosom; heart; mind; thorax"
 ],
 [
 "胸口",
@@ -49,6 +55,12 @@
 7.48,
 "xiōng zhào",
 "brassiere (underwear); bra"
+],
+[
+"胸怀",
+6.02,
+"xiōng huái",
+"one's bosom (the seat of emotions); breast; broad-minded and open; to think about; to cherish"
 ]
 ],
 "strokes": [

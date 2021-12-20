@@ -1,22 +1,46 @@
 {
 "char": "钻",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "drill, bore; pierce; diamond",
 "pron": "zuān, zuàn"
 },
 "words": [
 [
-"钻石",
+"钻",
 6,
-"zuàn shí",
-"diamond; CL:顆|颗[ke1]"
+"zuàn",
+"variant of 钻[zuàn]"
+],
+[
+"钻",
+6,
+"zuān",
+"to drill; to bore; to get into; to make one's way into; to enter (a hole); to thread one's way through; to study intensively; to dig into; to curry favor for personal gain"
+],
+[
+"钻",
+6,
+"zuàn",
+"an auger; diamond"
+],
+[
+"钻空子",
+7,
+"zuān kòng zi",
+"lit. to drill a hole; to take advantage of a loophole; to exploit an advantage; to seize the opportunity (esp. to do sth bad)"
 ],
 [
 "钻研",
-6,
+7,
 "zuān yán",
 "to study meticulously; to delve into"
+],
+[
+"钻石",
+7,
+"zuàn shí",
+"diamond; CL:颗[kē]"
 ]
 ],
 "extraWords": [

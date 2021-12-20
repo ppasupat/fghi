@@ -1,6 +1,6 @@
 {
 "char": "贵",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "expensive, costly, valuable",
 "pron": "guì"
@@ -8,39 +8,69 @@
 "words": [
 [
 "贵",
-2,
+1,
 "guì",
 "expensive; noble; precious; (honorific) your"
 ],
 [
 "宝贵",
-5,
+4,
 "bǎo guì",
 "valuable; precious; to value; to treasure; to set store by"
 ],
 [
-"贵族",
-6,
-"guì zú",
-"lord; nobility; nobleman; noblewoman; aristocrat; aristocracy"
-],
-[
 "珍贵",
-6,
+5,
 "zhēn guì",
 "precious"
 ],
 [
 "昂贵",
-6,
+7,
 "áng guì",
 "expensive; costly"
 ],
 [
-"难能可贵",
-6,
-"nán néng kě guì",
-"rare and precious; valuable; remarkable"
+"高贵",
+7,
+"gāo guì",
+"grandeur; noble"
+],
+[
+"贵宾",
+7,
+"guì bīn",
+"honored guest; distinguished guest; VIP"
+],
+[
+"贵重",
+7,
+"guì zhòng",
+"precious"
+],
+[
+"贵族",
+7,
+"guì zú",
+"lord; nobility; nobleman; noblewoman; aristocrat; aristocracy"
+],
+[
+"可贵",
+7,
+"kě guì",
+"to be treasured; praiseworthy"
+],
+[
+"名贵",
+7,
+"míng guì",
+"famous and valuable; rare; precious"
+],
+[
+"尊贵",
+7,
+"zūn guì",
+"respected; respectable; honorable"
 ]
 ],
 "extraWords": [
@@ -48,43 +78,25 @@
 "贵州",
 33.44,
 "Guì zhōu",
-"Guizhou province (Kweichow) in south central China, abbr. to 黔[Qian2] or 貴|贵[Gui4], capital Guiyang 貴陽|贵阳[Gui4 yang2]"
+"Guizhou province (Kweichow) in south central China, abbr. to 黔[Qián] or 贵[Guì], capital Guiyang 贵阳[Guì yáng]"
 ],
 [
 "贵阳",
 14.82,
 "Guì yáng",
-"Guiyang prefecture-level city and capital of Guizhou province 貴州|贵州[Gui4 zhou1], short name 筑[Zhu4]"
-],
-[
-"高贵",
-12.46,
-"gāo guì",
-"grandeur; noble"
+"Guiyang prefecture-level city and capital of Guizhou province 贵州[Guì zhōu], short name 筑[Zhù]"
 ],
 [
 "贵阳市",
 9.26,
 "Guì yáng Shì",
-"Guiyang prefecture-level city and capital of Guizhou province 貴州|贵州[Gui4 zhou1]"
+"Guiyang prefecture-level city and capital of Guizhou province 贵州[Guì zhōu]"
 ],
 [
 "贵州省",
 8.81,
 "Guì zhōu shěng",
-"Guizhou province (Kweichow) in south central China, abbr. to 黔[Qian2] or 貴|贵[Gui4], capital Guiyang 貴陽|贵阳[Gui4 yang2]"
-],
-[
-"贵宾",
-8.59,
-"guì bīn",
-"honored guest; distinguished guest; VIP"
-],
-[
-"可贵",
-6.03,
-"kě guì",
-"to be treasured; praiseworthy"
+"Guizhou province (Kweichow) in south central China, abbr. to 黔[Qián] or 贵[Guì], capital Guiyang 贵阳[Guì yáng]"
 ],
 [
 "富贵",

@@ -1,6 +1,6 @@
 {
 "char": "牲",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "sacrificial animal; animal",
 "pron": "shēng"
@@ -14,12 +14,19 @@
 ],
 [
 "牲畜",
-6,
+7,
 "shēng chù",
 "domesticated animals; livestock"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"牲",
+5.46,
+"shēng",
+"domestic animal; sacrificial animal"
+]
+],
 "strokes": [
 "M 211 500 Q 257 575 258 577 Q 257 580 257 581 Q 253 593 227 611 Q 203 627 187 626 Q 171 625 178 605 Q 193 577 141 478 Q 116 433 81 383 Q 72 374 71 369 Q 68 359 80 361 Q 117 373 195 477 L 211 500 Z",
 "M 356 487 Q 440 511 444 513 Q 453 520 447 529 Q 440 539 412 546 Q 384 550 357 538 L 313 523 Q 300 520 287 516 Q 253 507 211 500 C 181 495 167 487 195 477 Q 234 461 299 475 Q 303 476 311 477 L 356 487 Z",

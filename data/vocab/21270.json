@@ -1,6 +1,6 @@
 {
 "char": "化",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "change, convert, reform; -ize",
 "pron": "huà"
@@ -10,91 +10,205 @@
 "变化",
 3,
 "biàn huà",
-"change; variation; to change; to vary; CL:個|个[ge4]"
+"change; variation; to change; to vary; CL:个[gè]"
+],
+[
+"化",
+3,
+"huā",
+"variant of 花[huā]"
+],
+[
+"化",
+3,
+"huà",
+"to make into; to change into; -ization; to ... -ize; to transform; abbr. for 化学[huà xué]"
 ],
 [
 "文化",
 3,
 "wén huà",
-"culture; civilization; cultural; CL:個|个[ge4],種|种[zhong3]"
-],
-[
-"化学",
-5,
-"huà xué",
-"chemistry; chemical"
+"culture; civilization; cultural; CL:个[gè],种[zhǒng]"
 ],
 [
 "消化",
-5,
+4,
 "xiāo huà",
 "to digest; digestion; digestive"
 ],
 [
-"化妆",
-6,
-"huà zhuāng",
-"to put on makeup"
-],
-[
-"恶化",
-6,
-"è huà",
-"to worsen"
-],
-[
-"进化",
-6,
-"jìn huà",
-"evolution; CL:個|个[ge4]"
-],
-[
-"融化",
-6,
-"róng huà",
-"to melt; to thaw; to dissolve; to blend into; to combine; to fuse"
-],
-[
-"化验",
-6,
-"huà yàn",
-"chemical examination; to do a lab test"
-],
-[
-"二氧化碳",
-6,
-"èr yǎng huà tàn",
-"carbon dioxide CO2"
-],
-[
-"简化",
-6,
-"jiǎn huà",
-"to simplify"
-],
-[
 "化石",
-6,
+5,
 "huà shí",
 "fossil"
 ],
 [
-"多元化",
+"进化",
+5,
+"jìn huà",
+"evolution; CL:个[gè]"
+],
+[
+"转化",
+5,
+"zhuǎn huà",
+"to change; to transform; isomerization (chemistry)"
+],
+[
+"化解",
 6,
-"duō yuán huà",
-"diversification; pluralism; to diversify"
+"huà jiě",
+"to dissolve; to resolve (contradictions); to dispel (doubts); to iron out (difficulties); to defuse (conflicts); to neutralize (fears)"
+],
+[
+"绿化",
+6,
+"lǜ huà",
+"to make green with plants; to reforest; (Internet slang) Islamization"
+],
+[
+"强化",
+6,
+"qiáng huà",
+"to strengthen; to intensify"
+],
+[
+"深化",
+6,
+"shēn huà",
+"to deepen; to intensify"
+],
+[
+"淡化",
+7,
+"dàn huà",
+"to water down; to play down; to trivialize; to weaken; to become dull with time; to desalinate; desalination"
+],
+[
+"恶化",
+7,
+"è huà",
+"to worsen"
+],
+[
+"二氧化碳",
+7,
+"èr yǎng huà tàn",
+"carbon dioxide CO2"
+],
+[
+"分化",
+7,
+"fēn huà",
+"to split apart; differentiation"
+],
+[
+"孵化",
+7,
+"fū huà",
+"breeding; to incubate; innovation (esp. in commerce and marketing)"
+],
+[
+"腐化",
+7,
+"fǔ huà",
+"to rot; to decay; to become corrupt"
 ],
 [
 "化肥",
-6,
+7,
 "huà féi",
 "fertilizer"
 ],
 [
+"化身",
+7,
+"huà shēn",
+"incarnation; reincarnation; embodiment (of abstract idea); personification"
+],
+[
+"化纤",
+7,
+"huà xiān",
+"synthetic fiber"
+],
+[
+"化险为夷",
+7,
+"huà xiǎn wéi yí",
+"to turn peril into safety (idiom); to avert disaster"
+],
+[
+"化验",
+7,
+"huà yàn",
+"chemical examination; to do a lab test"
+],
+[
+"化妆",
+7,
+"huà zhuāng",
+"to put on makeup"
+],
+[
+"激化",
+7,
+"jī huà",
+"to intensify"
+],
+[
+"简化",
+7,
+"jiǎn huà",
+"to simplify"
+],
+[
+"僵化",
+7,
+"jiāng huà",
+"to become rigid"
+],
+[
+"净化",
+7,
+"jìng huà",
+"to purify"
+],
+[
+"老化",
+7,
+"lǎo huà",
+"to age (of person or object); becoming old"
+],
+[
+"美化",
+7,
+"měi huà",
+"to make more beautiful; to decorate; embellishment"
+],
+[
+"千变万化",
+7,
+"qiān biàn wàn huà",
+"countless changes; constant permutation"
+],
+[
 "潜移默化",
-6,
+7,
 "qián yí mò huà",
 "imperceptible influence; to influence secretly"
+],
+[
+"融化",
+7,
+"róng huà",
+"to melt; to thaw; to dissolve; to blend into; to combine; to fuse"
+],
+[
+"优化",
+7,
+"yōu huà",
+"optimization; to optimize; to make superior"
 ]
 ],
 "extraWords": [
@@ -102,43 +216,19 @@
 "现代化",
 55.45,
 "xiàn dài huà",
-"modernization; CL:個|个[ge4]"
+"modernization; CL:个[gè]"
 ],
 [
-"强化",
-49.51,
-"qiáng huà",
-"to strengthen; to intensify"
-],
-[
-"优化",
-37.32,
-"yōu huà",
-"optimization; to optimize; to make superior"
-],
-[
-"转化",
-32.18,
-"zhuǎn huà",
-"to change; to transform; isomerization (chemistry)"
-],
-[
-"深化",
-30.95,
-"shēn huà",
-"to deepen; to intensify"
+"化学",
+40.81,
+"huà xué",
+"chemistry; chemical"
 ],
 [
 "信息化",
 28.67,
 "xìn xī huà",
 "informatization (the Information Age analog of industrialization)"
-],
-[
-"绿化",
-26.55,
-"lǜ huà",
-"to make green with plants; to reforest; (Internet slang) Islamization"
 ],
 [
 "石化",
@@ -150,7 +240,7 @@
 "化工",
 24.21,
 "huà gōng",
-"chemical industry, abbr. of 化學工業|化学工业[hua4 xue2 gong1 ye4]; chemical engineering, abbr. of 化學工程|化学工程[hua4 xue2 gong1 cheng2]"
+"chemical industry, abbr. of 化学工业[huà xué gōng yè]; chemical engineering, abbr. of 化学工程[huà xué gōng chéng]"
 ],
 [
 "国际化",
@@ -189,10 +279,10 @@
 "to oxidize"
 ],
 [
-"分化",
-15.85,
-"fēn huà",
-"to split apart; differentiation"
+"多元化",
+16.61,
+"duō yuán huà",
+"diversification; pluralism; to diversify"
 ],
 [
 "工业化",
@@ -205,12 +295,6 @@
 15.38,
 "huà liáo",
 "chemotherapy"
-],
-[
-"化解",
-13.88,
-"huà jiě",
-"to dissolve; to resolve (contradictions); to dispel (doubts); to iron out (difficulties); to defuse (conflicts); to neutralize (fears)"
 ],
 [
 "文化大革命",
@@ -235,12 +319,6 @@
 11.78,
 "guī fàn huà",
 "to standardize; standardization"
-],
-[
-"净化",
-10.84,
-"jìng huà",
-"to purify"
 ],
 [
 "全球化",
@@ -285,12 +363,6 @@
 "biochemistry"
 ],
 [
-"老化",
-8.93,
-"lǎo huà",
-"to age (of person or object); becoming old"
-],
-[
 "多样化",
 8.51,
 "duō yàng huà",
@@ -301,6 +373,12 @@
 8.18,
 "shè huì huà",
 "socialization; to socialize; to fit into society; to train sb for society"
+],
+[
+"化为",
+7.36,
+"???",
+"???"
 ],
 [
 "数字化",
@@ -315,28 +393,10 @@
 "to maximize"
 ],
 [
-"美化",
-6.69,
-"měi huà",
-"to make more beautiful; to decorate; embellishment"
-],
-[
-"淡化",
-6.61,
-"dàn huà",
-"to water down; to play down; to trivialize; to weaken; to become dull with time; to desalinate; desalination"
-],
-[
 "量化",
 6.41,
 "liàng huà",
 "to quantize; quantization; quantitative"
-],
-[
-"化身",
-6.31,
-"huà shēn",
-"incarnation; reincarnation; embodiment (of abstract idea); personification"
 ],
 [
 "异化",
@@ -363,16 +423,16 @@
 "to give a more granular level of detail; to elaborate; to refine; to become more differentiated"
 ],
 [
+"经济全球化",
+5.28,
+"???",
+"???"
+],
+[
 "硬化",
 5.23,
 "yìng huà",
 "to harden; hardening; sclerosis; fig. to become rigid or inflexible in opinions; to ossify"
-],
-[
-"孵化",
-5.05,
-"fū huà",
-"breeding; to incubate; innovation (esp. in commerce and marketing)"
 ]
 ],
 "strokes": [

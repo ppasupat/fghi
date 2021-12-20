@@ -1,22 +1,52 @@
 {
 "char": "荡",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "pond, pool; wash away, cleanse",
 "pron": "dàng"
 },
 "words": [
 [
-"动荡",
-6,
-"dòng dàng",
-"variant of 動蕩|动荡[dong4 dang4]"
+"荡漾",
+7,
+"dàng yàng",
+"to ripple; to undulate; also written 荡漾[dàng yàng]"
+],
+[
+"荡漾",
+7,
+"dàng yàng",
+"to ripple; to undulate"
 ],
 [
 "动荡",
-6,
+7,
+"dòng dàng",
+"variant of 动荡[dòng dàng]"
+],
+[
+"动荡",
+7,
 "dòng dàng",
 "unrest (social or political); turmoil; upheaval; commotion"
+],
+[
+"晃荡",
+7,
+"huàng dang",
+"to rock; to sway; to shake"
+],
+[
+"空荡荡",
+7,
+"kōng dàng dàng",
+"absolutely empty (space); complete vacuum"
+],
+[
+"倾家荡产",
+7,
+"qīng jiā dàng chǎn",
+"to lose a family fortune (idiom)"
 ]
 ],
 "extraWords": [
@@ -37,6 +67,24 @@
 14.31,
 "dàng fù",
 "slut; floozy; prostitute"
+],
+[
+"荡",
+9.25,
+"dàng",
+"variant of 荡[dàng]"
+],
+[
+"荡",
+9.25,
+"tàng",
+"variant of 烫[tàng]; variant of 趟[tàng]"
+],
+[
+"荡",
+9.25,
+"dàng",
+"to wash; to squander; to sweep away; to move; to shake; dissolute; pond"
 ],
 [
 "振荡",

@@ -1,28 +1,46 @@
 {
 "char": "云",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "say, speak; clouds",
 "pron": "yún"
 },
 "words": [
 [
+"多云",
+2,
+"duō yún",
+"cloudy (meteorology)"
+],
+[
 "云",
-4,
+2,
 "yún",
 "(classical) to say"
 ],
 [
 "云",
-4,
+2,
 "Yún",
-"surname Yun; abbr. for Yunnan Province 雲南省|云南省[Yun2 nan2 Sheng3]"
+"surname Yun; abbr. for Yunnan Province 云南省[Yún nán Shěng]"
 ],
 [
 "云",
-4,
+2,
 "yún",
-"cloud; CL:朵[duo3]"
+"cloud; CL:朵[duǒ]"
+],
+[
+"乌云",
+6,
+"wū yún",
+"black cloud"
+],
+[
+"风云",
+7,
+"fēng yún",
+"weather; unstable situation"
 ]
 ],
 "extraWords": [
@@ -30,19 +48,7 @@
 "云南",
 34.38,
 "Yún nán",
-"Yunnan province in southwest China, bordering on Vietnam, Laos and Myanmar, abbr. 滇[dian1] or 雲|云, capital Kunming 昆明"
-],
-[
-"多云",
-22.63,
-"duō yún",
-"cloudy (meteorology)"
-],
-[
-"风云",
-14.76,
-"fēng yún",
-"weather; unstable situation"
+"Yunnan province in southwest China, bordering on Vietnam, Laos and Myanmar, abbr. 滇[diān] or 雲|云, capital Kunming 昆明"
 ],
 [
 "浮云",
@@ -54,7 +60,7 @@
 "白云",
 9.66,
 "Bái yún",
-"Baiyun District of Guiyang City 貴陽市|贵阳市[Gui4 yang2 Shi4], Guizhou; Baiyun District of Guangzhou City 廣州市|广州市[Guang3 zhou1 Shi4], Guangdong"
+"Baiyun District of Guiyang City 贵阳市[Guì yáng Shì], Guizhou; Baiyun District of Guangzhou City 广州市[Guǎng zhōu Shì], Guangdong"
 ],
 [
 "白云",
@@ -66,7 +72,7 @@
 "云南省",
 9.08,
 "Yún nán Shěng",
-"Yunnan Province in southwest China, bordering on Vietnam, Laos and Myanmar, abbr. 滇[Dian1] or 雲|云[Yun2], capital Kunming 昆明[Kun1 ming2]"
+"Yunnan Province in southwest China, bordering on Vietnam, Laos and Myanmar, abbr. 滇[Diān] or 云[Yún], capital Kunming 昆明[Kūn míng]"
 ],
 [
 "云集",

@@ -1,6 +1,6 @@
 {
 "char": "烂",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "rotten, spoiled, decayed",
 "pron": "làn"
@@ -13,16 +13,16 @@
 "soft; mushy; well-cooked and soft; to rot; to decompose; rotten; worn out; chaotic; messy; utterly; thoroughly; crappy; bad"
 ],
 [
-"腐烂",
-6,
-"fǔ làn",
-"to rot; to putrefy; (fig.) corrupt"
-],
-[
 "灿烂",
-6,
+7,
 "càn làn",
 "to glitter; brilliant; splendid"
+],
+[
+"腐烂",
+7,
+"fǔ làn",
+"to rot; to putrefy; (fig.) corrupt"
 ]
 ],
 "extraWords": [

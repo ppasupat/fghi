@@ -1,17 +1,30 @@
 {
 "char": "鳄",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "alligator",
 "pron": "è"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "鳄鱼",
-8.38,
+7,
 "è yú",
 "alligator; crocodile"
+]
+],
+"extraWords": [
+[
+"鳄",
+2.75,
+"è",
+"variant of 鳄[è]"
+],
+[
+"鳄",
+2.75,
+"è",
+"crocodile; alligator"
 ]
 ],
 "strokes": [

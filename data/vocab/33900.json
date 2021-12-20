@@ -1,24 +1,42 @@
 {
 "char": "葬",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "bury, inter",
 "pron": "zàng"
 },
 "words": [
 [
-"埋葬",
-6,
-"mái zàng",
-"to bury"
+"陪葬",
+7,
+"péi zàng",
+"to be buried with or next to dead person (of deceased's partner, or of funerary objects)"
+],
+[
+"葬",
+7,
+"zàng",
+"old variant of 葬[zàng]"
+],
+[
+"葬",
+7,
+"zàng",
+"to bury (the dead); to inter"
+],
+[
+"葬礼",
+7,
+"zàng lǐ",
+"burial; funeral"
 ]
 ],
 "extraWords": [
 [
-"葬礼",
-34.88,
-"zàng lǐ",
-"burial; funeral"
+"埋葬",
+7.78,
+"mái zàng",
+"to bury"
 ]
 ],
 "strokes": [

@@ -1,120 +1,156 @@
 {
 "char": "程",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "journey, trip; schedule, agenda",
 "pron": "chéng"
 },
 "words": [
 [
+"程度",
+3,
+"chéng dù",
+"degree (level or extent); level; CL:个[gè]"
+],
+[
+"工程师",
+3,
+"gōng chéng shī",
+"engineer; CL:个[gè],位[wèi],名[míng]"
+],
+[
 "过程",
-4,
+3,
 "guò chéng",
-"course of events; process; CL:個|个[ge4]"
+"course of events; process; CL:个[gè]"
+],
+[
+"课程",
+3,
+"kè chéng",
+"course; academic program; CL:堂[táng],节[jié],门[mén]"
 ],
 [
 "程序",
-5,
+4,
 "chéng xù",
 "procedures; sequence; order; computer program"
 ],
 [
-"程度",
-5,
-"chéng dù",
-"degree (level or extent); level; CL:個|个[ge4]"
-],
-[
-"课程",
-5,
-"kè chéng",
-"course; academic program; CL:堂[tang2],節|节[jie2],門|门[men2]"
-],
-[
-"工程师",
-5,
-"gōng chéng shī",
-"engineer; CL:個|个[ge4],位[wei4],名[ming2]"
-],
-[
-"日程",
-5,
-"rì chéng",
-"schedule; itinerary; CL:個|个[ge4]"
-],
-[
-"启程",
-6,
-"qǐ chéng",
-"to set out on a journey"
-],
-[
-"专程",
-6,
-"zhuān chéng",
-"specifically; specially (for that purpose)"
-],
-[
-"里程碑",
-6,
-"lǐ chéng bēi",
-"milestone"
-],
-[
-"章程",
-6,
-"zhāng chéng",
-"rules; regulations; constitution; statute; articles of association (of company); articles of incorporation; charter (of a corporation); by-laws"
-]
-],
-"extraWords": [
-[
 "工程",
-250.73,
+4,
 "gōng chéng",
-"engineering; an engineering project; project; undertaking; CL:個|个[ge4],項|项[xiang4]"
-],
-[
-"进程",
-42.72,
-"jìn chéng",
-"process; course"
-],
-[
-"流程",
-19.79,
-"liú chéng",
-"course; stream; sequence of processes; work flow in manufacturing"
-],
-[
-"全程",
-18.09,
-"quán chéng",
-"the whole distance; from beginning to end"
-],
-[
-"旅程",
-16.93,
-"lǚ chéng",
-"journey; trip"
-],
-[
-"远程",
-14.61,
-"yuǎn chéng",
-"remote; long distance; long range"
+"engineering; an engineering project; project; undertaking; CL:个[gè],项[xiàng]"
 ],
 [
 "行程",
-14.53,
+6,
 "xíng chéng",
 "journey; course of a journey; distance traveled; trajectory; itinerary; route; course (of history); stroke (of a piston); (Tw) (computing) process"
 ],
 [
+"各奔前程",
+7,
+"gè bèn qián chéng",
+"each goes his own way (idiom); each person has his own life to lead"
+],
+[
+"进程",
+7,
+"jìn chéng",
+"process; course"
+],
+[
+"里程碑",
+7,
+"lǐ chéng bēi",
+"milestone"
+],
+[
 "历程",
-14.41,
+7,
 "lì chéng",
 "course; process"
+],
+[
+"流程",
+7,
+"liú chéng",
+"course; stream; sequence of processes; work flow in manufacturing"
+],
+[
+"路程",
+7,
+"lù chéng",
+"route; path traveled; distance traveled; course (of development)"
+],
+[
+"旅程",
+7,
+"lǚ chéng",
+"journey; trip"
+],
+[
+"鹏程万里",
+7,
+"péng chéng wàn lǐ",
+"the fabled roc flies ten thousand miles (idiom); one's future prospects are brilliant"
+],
+[
+"起程",
+7,
+"qǐ chéng",
+"to set out; to leave"
+],
+[
+"全程",
+7,
+"quán chéng",
+"the whole distance; from beginning to end"
+],
+[
+"日程",
+7,
+"rì chéng",
+"schedule; itinerary; CL:个[gè]"
+],
+[
+"议程",
+7,
+"yì chéng",
+"agenda; agenda item"
+],
+[
+"远程",
+7,
+"yuǎn chéng",
+"remote; long distance; long range"
+],
+[
+"专程",
+7,
+"zhuān chéng",
+"specifically; specially (for that purpose)"
+]
+],
+"extraWords": [
+[
+"程",
+22.29,
+"Chéng",
+"surname Cheng"
+],
+[
+"程",
+22.29,
+"chéng",
+"rule; order; regulations; formula; journey; procedure; sequence"
+],
+[
+"章程",
+13.58,
+"zhāng chéng",
+"rules; regulations; constitution; statute; articles of association (of company); articles of incorporation; charter (of a corporation); by-laws"
 ],
 [
 "疗程",
@@ -141,12 +177,6 @@
 "mathematical equation"
 ],
 [
-"路程",
-6.43,
-"lù chéng",
-"route; path traveled; distance traveled; course (of development)"
-],
-[
 "里程",
 6.29,
 "lǐ chéng",
@@ -157,12 +187,6 @@
 5.49,
 "sài chéng",
 "competition schedule; the course of a race"
-],
-[
-"议程",
-5.45,
-"yì chéng",
-"agenda; agenda item"
 ],
 [
 "规程",

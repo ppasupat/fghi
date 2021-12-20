@@ -1,52 +1,76 @@
 {
 "char": "忙",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "busy, pressed for time; hustling",
 "pron": "máng"
 },
 "words": [
 [
-"忙",
-2,
-"máng",
-"busy; hurriedly; to hurry; to rush"
-],
-[
 "帮忙",
-3,
+1,
 "bāng máng",
 "to help; to lend a hand; to do a favor; to do a good turn"
 ],
 [
-"匆忙",
-5,
-"cōng máng",
-"hasty; hurried"
-],
-[
-"急忙",
-5,
-"jí máng",
-"hastily"
+"忙",
+1,
+"máng",
+"busy; hurriedly; to hurry; to rush"
 ],
 [
 "连忙",
-5,
+3,
 "lián máng",
 "promptly; at once"
 ],
 [
-"忙碌",
+"急忙",
+4,
+"jí máng",
+"hastily"
+],
+[
+"慌忙",
+5,
+"huāng máng",
+"in a great rush; in a flurry"
+],
+[
+"赶忙",
 6,
+"gǎn máng",
+"to hurry; to hasten; to make haste"
+],
+[
+"匆忙",
+7,
+"cōng máng",
+"hasty; hurried"
+],
+[
+"繁忙",
+7,
+"fán máng",
+"busy; bustling"
+],
+[
+"忙活",
+7,
+"máng huo",
+"to be really busy; pressing business"
+],
+[
+"忙碌",
+7,
 "máng lù",
 "busy; bustling"
 ],
 [
-"繁忙",
-6,
-"fán máng",
-"busy; bustling"
+"忙乱",
+7,
+"máng luàn",
+"rushed and muddled"
 ]
 ],
 "extraWords": [

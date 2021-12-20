@@ -1,12 +1,31 @@
 {
 "char": "鸿",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "species of wild swan; vast",
 "pron": "hóng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"鸿",
+10.8,
+"hóng",
+"eastern bean goose; great; large"
+],
+[
+"鸿门宴",
+2.31,
+"Hóng mén yàn",
+"Hongmen feast; (fig.) banquet set up with the aim of murdering a guest; refers to a famous episode in 206 BC when future Han emperor Liu Bang 刘邦[Liú Bāng] escaped attempted murder by his rival Xiang Yu 项羽[Xiàng Yǔ]"
+],
+[
+"李鸿章",
+2.29,
+"Lǐ Hóng zhāng",
+"Li Hung-chang or Li Hongzhang (1823-1901), Qing dynasty general, politician and diplomat"
+]
+],
 "strokes": [
 "M 218 722 Q 243 698 269 669 Q 282 656 299 655 Q 311 655 317 669 Q 323 684 314 716 Q 310 735 279 751 Q 210 782 192 775 Q 186 771 187 758 Q 191 745 218 722 Z",
 "M 136 536 Q 181 487 215 473 Q 230 470 239 485 Q 245 498 242 515 Q 230 552 149 576 L 148 576 Q 130 580 121 576 Q 115 575 118 562 Q 119 550 136 536 Z",

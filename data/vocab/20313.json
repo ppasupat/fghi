@@ -1,48 +1,78 @@
 {
 "char": "余",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "I, my, me; surname; surplus",
 "pron": "yú"
 },
 "words": [
 [
-"业余",
-5,
-"yè yú",
-"in one's spare time; outside working hours; amateur (historian etc)"
-],
-[
 "其余",
-5,
+4,
 "qí yú",
 "the rest; the others; remaining; remainder; apart from them"
 ],
 [
+"业余",
+4,
+"yè yú",
+"in one's spare time; outside working hours; amateur (historian etc)"
+],
+[
 "多余",
-5,
+7,
 "duō yú",
 "superfluous; unnecessary; surplus"
-]
 ],
-"extraWords": [
 [
 "剩余",
-15.49,
+7,
 "shèng yú",
 "remainder; surplus"
 ],
 [
-"余额",
-15.18,
-"yú é",
-"balance (of an account, bill etc); surplus; remainder"
+"余",
+7,
+"Yú",
+"surname Yu"
+],
+[
+"余",
+7,
+"yú",
+"(archaic) I; me; variant of 余[yú], surplus"
+],
+[
+"余",
+7,
+"yú",
+"extra; surplus; remaining; remainder after division; (following numerical value) or more; in excess of (some number); residue (math.); after; I; me"
 ],
 [
 "余地",
-7.72,
+7,
 "yú dì",
 "margin; leeway"
+],
+[
+"余额",
+7,
+"yú é",
+"balance (of an account, bill etc); surplus; remainder"
+]
+],
+"extraWords": [
+[
+"余生",
+13.53,
+"???",
+"???"
+],
+[
+"之余",
+10.96,
+"???",
+"???"
 ],
 [
 "有余",

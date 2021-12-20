@@ -1,11 +1,41 @@
 {
 "char": "密",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "dense, thick, close; intimate",
 "pron": "mì"
 },
 "words": [
+[
+"保密",
+4,
+"bǎo mì",
+"to keep sth confidential; to maintain secrecy"
+],
+[
+"紧密",
+4,
+"jǐn mì",
+"inseparably close"
+],
+[
+"秘密",
+4,
+"mì mì",
+"secret; CL:个[gè]"
+],
+[
+"密",
+4,
+"Mì",
+"surname Mi; name of an ancient state"
+],
+[
+"密",
+4,
+"mì",
+"secret; confidential; close; thick; dense"
+],
 [
 "密码",
 4,
@@ -13,70 +43,76 @@
 "secret code; ciphertext; password; PIN"
 ],
 [
-"秘密",
-5,
-"mì mì",
-"secret; CL:個|个[ge4]"
-],
-[
 "密切",
-5,
+4,
 "mì qiè",
 "close; familiar; intimate; closely (related); to foster close ties; to pay close attention"
 ],
 [
-"保密",
-6,
-"bǎo mì",
-"to keep sth confidential; to maintain secrecy"
-],
-[
 "亲密",
-6,
+4,
 "qīn mì",
 "intimate; close"
 ],
 [
+"稠密",
+7,
+"chóu mì",
+"dense"
+],
+[
 "机密",
-6,
+7,
 "jī mì",
 "secret; classified (information)"
 ],
 [
-"密封",
-6,
-"mì fēng",
-"to seal up"
+"茂密",
+7,
+"mào mì",
+"dense (of plant growth); lush"
 ],
 [
-"严密",
-6,
-"yán mì",
-"strict; tight (organization, surveillance etc)"
+"密不可分",
+7,
+"mì bù kě fēn",
+"inextricably linked (idiom); inseparable"
 ],
 [
 "密度",
-6,
+7,
 "mì dù",
 "density; thickness"
 ],
 [
-"精密",
-6,
-"jīng mì",
-"accuracy; exact; precise; refined"
+"密封",
+7,
+"mì fēng",
+"to seal up"
+],
+[
+"密集",
+7,
+"mì jí",
+"concentrated; crowded together; intensive; compressed"
+],
+[
+"泄密",
+7,
+"xiè mì",
+"to leak secrets"
+],
+[
+"严密",
+7,
+"yán mì",
+"strict; tight (organization, surveillance etc)"
 ],
 [
 "周密",
-6,
+7,
 "zhōu mì",
 "careful; thorough; meticulous; dense; impenetrable"
-],
-[
-"稠密",
-6,
-"chóu mì",
-"dense"
 ]
 ],
 "extraWords": [
@@ -85,18 +121,6 @@
 29.87,
 "Mài ā mì",
 "Miami (Florida)"
-],
-[
-"紧密",
-27.18,
-"jǐn mì",
-"inseparably close"
-],
-[
-"密集",
-14.79,
-"mì jí",
-"concentrated; crowded together; intensive; compressed"
 ],
 [
 "史密斯",
@@ -117,6 +141,12 @@
 "to encrypt; encryption; to protect with a password"
 ],
 [
+"精密",
+6.01,
+"jīng mì",
+"accuracy; exact; precise; refined"
+],
+[
 "告密",
 5.54,
 "gào mì",
@@ -133,6 +163,12 @@
 5.28,
 "Luó mì ōu",
 "Romeo (name)"
+],
+[
+"密集型",
+5.12,
+"???",
+"???"
 ]
 ],
 "strokes": [

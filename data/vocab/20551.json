@@ -1,46 +1,58 @@
 {
 "char": "假",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "falsehood, deception; vacation",
 "pron": "jiǎ, jià"
 },
 "words": [
 [
+"放假",
+1,
+"fàng jià",
+"to have a holiday or vacation"
+],
+[
 "请假",
-3,
+1,
 "qǐng jià",
 "to request leave of absence"
 ],
 [
 "假",
-4,
+2,
 "gēi",
-"see 假掰[gei1 bai1]"
+"see 假掰[gēi bāi]"
 ],
 [
 "假",
-4,
+2,
 "jiǎ",
 "fake; false; artificial; to borrow; if; suppose"
 ],
 [
 "假",
-4,
+2,
 "jià",
 "vacation"
 ],
 [
 "假",
-4,
+2,
 "jiǎ",
-"variant of 假[jia3]; to borrow"
+"variant of 假[jiǎ]; to borrow"
 ],
 [
-"放暑假",
-4,
-"fang4 shu3 jia4",
-"to have a summer vacation"
+"假期",
+2,
+"jià qī",
+"vacation"
+],
+[
+"休假",
+2,
+"xiū jià",
+"to take a vacation; to go on holiday"
 ],
 [
 "寒假",
@@ -49,49 +61,109 @@
 "winter vacation"
 ],
 [
-"假装",
-5,
-"jiǎ zhuāng",
-"to feign; to pretend"
-],
-[
-"假设",
-5,
-"jiǎ shè",
-"to suppose; to presume; to assume; supposing that ...; if; hypothesis; conjecture"
-],
-[
 "假如",
-5,
+4,
 "jiǎ rú",
 "if"
 ],
 [
-"虚假",
-6,
-"xū jiǎ",
-"false; phony; pretense"
-]
+"暑假",
+4,
+"shǔ jià",
+"summer vacation; CL:个[gè]"
 ],
-"extraWords": [
 [
-"放假",
-26.15,
-"fàng jià",
-"to have a holiday or vacation"
+"长假",
+6,
+"cháng jià",
+"long vacation"
+],
+[
+"假日",
+6,
+"jià rì",
+"holiday; non-working day"
+],
+[
+"节假日",
+6,
+"jié jià rì",
+"public holiday"
+],
+[
+"半真半假",
+7,
+"bàn zhēn bàn jiǎ",
+"(idiom) half true and half false"
+],
+[
+"不假思索",
+7,
+"bù jiǎ sī suǒ",
+"to act without taking time to think (idiom); to react instantly; to fire from the hip"
 ],
 [
 "度假",
-21.22,
+7,
 "dù jià",
 "to go on holidays; to spend one's vacation"
 ],
 [
-"假期",
-19.27,
-"jià qī",
-"vacation"
+"假定",
+7,
+"jiǎ dìng",
+"to assume; to suppose; supposed; so-called; assumption; hypothesis"
 ],
+[
+"假冒",
+7,
+"jiǎ mào",
+"to impersonate; to pose as (someone else); to counterfeit; to palm off (a fake as a genuine)"
+],
+[
+"假设",
+7,
+"jiǎ shè",
+"to suppose; to presume; to assume; supposing that ...; if; hypothesis; conjecture"
+],
+[
+"假使",
+7,
+"jiǎ shǐ",
+"if; in case; suppose; given ..."
+],
+[
+"假装",
+7,
+"jiǎ zhuāng",
+"to feign; to pretend"
+],
+[
+"弄虚作假",
+7,
+"nòng xū zuò jiǎ",
+"to practice fraud (idiom); by trickery"
+],
+[
+"虚假",
+7,
+"xū jiǎ",
+"false; phony; pretense"
+],
+[
+"造假",
+7,
+"zào jiǎ",
+"to counterfeit; to pass off a fake as genuine"
+],
+[
+"真假",
+7,
+"zhēn jiǎ",
+"genuine or fake; true or false"
+]
+],
+"extraWords": [
 [
 "假释",
 16.01,
@@ -105,64 +177,10 @@
 "wig"
 ],
 [
-"休假",
-11.06,
-"xiū jià",
-"to take a vacation; to go on holiday"
-],
-[
-"假日",
-10.51,
-"jià rì",
-"holiday; non-working day"
-],
-[
-"暑假",
-9.79,
-"shǔ jià",
-"summer vacation; CL:個|个[ge4]"
-],
-[
-"假冒",
-9.05,
-"jiǎ mào",
-"to impersonate; to pose as (someone else); to counterfeit; to palm off (a fake as a genuine)"
-],
-[
-"长假",
-8.94,
-"cháng jià",
-"long vacation"
-],
-[
-"节假日",
-7.68,
-"jié jià rì",
-"public holiday"
-],
-[
 "假冒伪劣",
 6.88,
 "jiǎ mào wěi liè",
 "cheap quality counterfeit (goods); low-quality commodities"
-],
-[
-"造假",
-6.58,
-"zào jiǎ",
-"to counterfeit; to pass off a fake as genuine"
-],
-[
-"真假",
-5.27,
-"zhēn jiǎ",
-"genuine or fake; true or false"
-],
-[
-"假定",
-5.13,
-"jiǎ dìng",
-"to assume; to suppose; supposed; so-called; assumption; hypothesis"
 ]
 ],
 "strokes": [

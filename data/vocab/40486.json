@@ -1,6 +1,6 @@
 {
 "char": "鸦",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "crow; Corvus species (various)",
 "pron": "yā"
@@ -8,7 +8,7 @@
 "words": [
 [
 "鸦雀无声",
-6,
+7,
 "yā què wú shēng",
 "lit. crow and peacock make no sound; absolute silence (idiom); not a single voice can be heard; absolute silence"
 ]
@@ -19,6 +19,12 @@
 5.78,
 "wū yā",
 "crow; raven"
+],
+[
+"涂鸦",
+4.35,
+"tú yā",
+"graffiti; scrawl; poor calligraphy; to write badly; to scribble"
 ]
 ],
 "strokes": [

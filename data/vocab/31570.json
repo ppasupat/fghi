@@ -1,6 +1,6 @@
 {
 "char": "筒",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "thick piece of bamboo; pipe",
 "pron": "tǒng"
@@ -8,9 +8,21 @@
 "words": [
 [
 "话筒",
-6,
+7,
 "huà tǒng",
 "microphone; (telephone) receiver; handset"
+],
+[
+"筒",
+7,
+"tǒng",
+"tube; cylinder; to encase in sth cylindrical (such as hands in sleeves etc)"
+],
+[
+"筒",
+7,
+"tǒng",
+"variant of 筒[tǒng]"
 ]
 ],
 "extraWords": [],

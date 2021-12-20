@@ -1,54 +1,78 @@
 {
 "char": "农",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "agriculture, farming; farmer",
 "pron": "nóng"
 },
 "words": [
 [
+"农村",
+3,
+"nóng cūn",
+"rural area; village; CL:个[gè]"
+],
+[
 "农民",
-5,
+3,
 "nóng mín",
-"peasant; farmer; CL:個|个[ge4]"
+"peasant; farmer; CL:个[gè]"
 ],
 [
 "农业",
-5,
+3,
 "nóng yè",
 "agriculture; farming"
 ],
 [
-"农村",
+"农产品",
 5,
-"nóng cūn",
-"rural area; village; CL:個|个[ge4]"
+"nóng chǎn pǐn",
+"agricultural produce"
 ],
-[
-"农历",
-6,
-"nóng lì",
-"the traditional Chinese calendar; the lunar calendar"
-]
-],
-"extraWords": [
 [
 "农场",
-29.39,
+7,
 "nóng chǎng",
 "farm"
 ],
 [
+"农历",
+7,
+"nóng lì",
+"the traditional Chinese calendar; the lunar calendar"
+],
+[
 "农民工",
-29.24,
+7,
 "nóng mín gōng",
 "migrant worker (who moved from a rural area of China to a city to find work)"
 ],
 [
-"农产品",
-26.45,
-"nóng chǎn pǐn",
-"agricultural produce"
+"农作物",
+7,
+"nóng zuò wù",
+"(farm) crops"
+]
+],
+"extraWords": [
+[
+"农",
+42.12,
+"Nóng",
+"surname Nong"
+],
+[
+"农",
+42.12,
+"nóng",
+"peasant; to farm; agriculture; diligent (old); government field official (old)"
+],
+[
+"农",
+42.12,
+"nóng",
+"variant of 农[nóng]"
 ],
 [
 "农户",
@@ -93,16 +117,28 @@
 "peasant family"
 ],
 [
-"农作物",
-6.44,
-"nóng zuò wù",
-"(farm) crops"
+"农行",
+6.46,
+"???",
+"???"
+],
+[
+"农用",
+5.45,
+"???",
+"???"
 ],
 [
 "农贸市场",
 5.42,
 "nóng mào shì chǎng",
 "farmer's market"
+],
+[
+"农副产品",
+5.41,
+"???",
+"???"
 ],
 [
 "农具",
@@ -120,7 +156,7 @@
 "工农",
 5.06,
 "Gōng nóng",
-"Gongnong district of Hegang city 鶴崗|鹤岗[He4 gang3], Heilongjiang"
+"Gongnong district of Hegang city 鹤岗[Hè gǎng], Heilongjiang"
 ],
 [
 "工农",

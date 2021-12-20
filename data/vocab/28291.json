@@ -1,6 +1,6 @@
 {
 "char": "溃",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "flooding river; militarily defeat",
 "pron": "huì, kuì"
@@ -8,7 +8,7 @@
 "words": [
 [
 "崩溃",
-6,
+7,
 "bēng kuì",
 "to collapse; to crumble; to fall apart"
 ]
@@ -19,6 +19,12 @@
 9.47,
 "kuì yáng",
 "ulcer; to ulcerate"
+],
+[
+"溃",
+4.78,
+"kuì",
+"to be dispersed; to break down; to fester; to ulcerate"
 ]
 ],
 "strokes": [

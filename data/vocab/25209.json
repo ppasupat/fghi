@@ -1,6 +1,6 @@
 {
 "char": "批",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "comment, criticize; wholesale",
 "pron": "pī"
@@ -8,53 +8,65 @@
 "words": [
 [
 "批评",
-4,
+3,
 "pī píng",
-"to criticize; criticism; CL:個|个[ge4]"
-],
-[
-"批",
-5,
-"pī",
-"to ascertain; to act on; to criticize; to pass on; classifier for batches, lots, military flights; tier (for the ranking of universities and colleges)"
+"to criticize; criticism; CL:个[gè]"
 ],
 [
 "批准",
-5,
+3,
 "pī zhǔn",
 "to approve; to ratify"
 ],
 [
-"批判",
-6,
-"pī pàn",
-"to criticize; critique; CL:個|个[ge4]"
-],
-[
-"批发",
-6,
-"pī fā",
-"wholesale; bulk trade; distribution"
-]
-],
-"extraWords": [
-[
-"审批",
-37.26,
-"shěn pī",
-"to examine and approve; to endorse"
+"批",
+4,
+"pī",
+"to ascertain; to act on; to criticize; to pass on; classifier for batches, lots, military flights; tier (for the ranking of universities and colleges)"
 ],
 [
 "大批",
-23.65,
+6,
 "dà pī",
 "large quantities of"
 ],
 [
+"批发",
+7,
+"pī fā",
+"wholesale; bulk trade; distribution"
+],
+[
+"批判",
+7,
+"pī pàn",
+"to criticize; critique; CL:个[gè]"
+],
+[
+"审批",
+7,
+"shěn pī",
+"to examine and approve; to endorse"
+],
+[
 "首批",
-17.74,
+7,
 "shǒu pī",
 "first batch"
+]
+],
+"extraWords": [
+[
+"一批",
+78.8,
+"???",
+"???"
+],
+[
+"一大批",
+11.28,
+"???",
+"???"
 ],
 [
 "批量",
@@ -73,6 +85,12 @@
 6.12,
 "pī shì",
 "to write comments on a report submitted by a subordinate; written comments from a superior"
+],
+[
+"第二批",
+5.8,
+"???",
+"???"
 ]
 ],
 "strokes": [

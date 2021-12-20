@@ -1,6 +1,6 @@
 {
 "char": "届",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "numerary adjunct for time, term",
 "pron": "jiè"
@@ -11,6 +11,18 @@
 5,
 "jiè",
 "to arrive at (place or time); period; to become due; classifier for events, meetings, elections, sporting fixtures, years (of graduation)"
+],
+[
+"届时",
+7,
+"jiè shí",
+"when the time comes; at the scheduled time"
+],
+[
+"历届",
+7,
+"lì jiè",
+"all previous (meetings, sessions etc)"
 ]
 ],
 "extraWords": [
@@ -21,22 +33,70 @@
 "current; this year"
 ],
 [
-"届时",
-27.08,
-"jiè shí",
-"when the time comes; at the scheduled time"
-],
-[
 "首届",
 18.48,
 "shǒu jiè",
 "first session (of a conference etc)"
 ],
 [
+"第二届",
+12.53,
+"???",
+"???"
+],
+[
+"第三届",
+10.36,
+"???",
+"???"
+],
+[
+"第四届",
+7.51,
+"???",
+"???"
+],
+[
+"上届",
+6.24,
+"???",
+"???"
+],
+[
+"第一届",
+6.16,
+"???",
+"???"
+],
+[
+"第五届",
+6.11,
+"???",
+"???"
+],
+[
+"换届",
+5.99,
+"???",
+"???"
+],
+[
+"第十届",
+5.86,
+"???",
+"???"
+],
+[
 "应届",
 5.69,
 "yīng jiè",
 "this year's; the current year's"
+],
+[
+"第六届",
+5.37,
+"???",
+"???"
 ]
 ],
 "strokes": [

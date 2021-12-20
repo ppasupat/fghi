@@ -1,19 +1,24 @@
 {
 "char": "屁",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "break wind; fart; buttocks",
 "pron": "pì"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "屁股",
-6,
+113.39,
 "pì gu",
 "buttocks; bottom; butt; back part"
-]
 ],
-"extraWords": [
+[
+"屁",
+69.52,
+"pì",
+"fart; flatulence; nonsense; (usu. in the negative) what; (not) a damn thing"
+],
 [
 "狗屁",
 20.9,

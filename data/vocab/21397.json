@@ -1,6 +1,6 @@
 {
 "char": "厕",
-"level": 4,
+"level": "6",
 "info": {
 "gloss": "mingle with; toilet, lavatory",
 "pron": "cè"
@@ -8,12 +8,18 @@
 "words": [
 [
 "厕所",
-4,
+6,
 "cè suǒ",
-"toilet; lavatory; CL:間|间[jian1],處|处[chu4]"
+"toilet; lavatory; CL:间[jiān],处[chù]"
 ]
 ],
 "extraWords": [
+[
+"上厕所",
+6.65,
+"???",
+"???"
+],
 [
 "公厕",
 5.05,

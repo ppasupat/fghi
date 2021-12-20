@@ -1,6 +1,6 @@
 {
 "char": "嘴",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "mouth, lips",
 "pron": "zuǐ"
@@ -8,15 +8,45 @@
 "words": [
 [
 "嘴",
-3,
+2,
 "zuǐ",
-"mouth; beak; nozzle; spout (of teapot etc); CL:張|张[zhang1],個|个[ge4]"
+"mouth; beak; nozzle; spout (of teapot etc); CL:张[zhāng],个[gè]"
+],
+[
+"嘴巴",
+4,
+"zuǐ ba",
+"mouth; CL:张[zhāng]; slap in the face; CL:个[gè]"
+],
+[
+"插嘴",
+7,
+"chā zuǐ",
+"to interrupt (sb talking); to butt in; to cut into a conversation"
+],
+[
+"吵嘴",
+7,
+"chǎo zuǐ",
+"to quarrel"
+],
+[
+"咧嘴",
+7,
+"liě zuǐ",
+"to grin"
+],
+[
+"七嘴八舌",
+7,
+"qī zuǐ bā shé",
+"lively discussion with everybody talking at once"
 ],
 [
 "嘴唇",
-6,
+7,
 "zuǐ chún",
-"lip; CL:片[pian4]"
+"lip; CL:片[piàn]"
 ]
 ],
 "extraWords": [
@@ -25,12 +55,6 @@
 26.23,
 "zuǐ lǐ",
 "mouth; in the mouth; on one's lips; speech; words"
-],
-[
-"嘴巴",
-20.54,
-"zuǐ ba",
-"mouth; CL:張|张[zhang1]; slap in the face; CL:個|个[ge4]"
 ],
 [
 "住嘴",

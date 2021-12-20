@@ -1,6 +1,6 @@
 {
 "char": "喝",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "drink; shout, call out",
 "pron": "hē, hè"
@@ -10,13 +10,25 @@
 "喝",
 1,
 "hē",
-"to drink; variant of 嗬[he1]"
+"to drink; variant of 嗬[hē]"
 ],
 [
 "喝",
 1,
 "hè",
 "to shout"
+],
+[
+"吃喝玩乐",
+7,
+"chī hē wán lè",
+"to eat, drink and be merry (idiom); to abandon oneself to a life of pleasure"
+],
+[
+"喝彩",
+7,
+"hè cǎi",
+"to acclaim; to cheer"
 ]
 ],
 "extraWords": [

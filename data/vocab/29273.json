@@ -1,6 +1,6 @@
 {
 "char": "牙",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "tooth, molars, teeth; serrated",
 "pron": "yá"
@@ -8,21 +8,39 @@
 "words": [
 [
 "刷牙",
-3,
+4,
 "shuā yá",
 "to brush one's teeth"
 ],
 [
-"牙膏",
+"牙",
 4,
-"yá gāo",
-"toothpaste; CL:管[guan3]"
+"yá",
+"tooth; ivory; CL:颗[kē]"
+],
+[
+"牙刷",
+4,
+"yá shuā",
+"toothbrush; CL:把[bǎ]"
+],
+[
+"西班牙语",
+6,
+"Xī bān yá yǔ",
+"Spanish language"
 ],
 [
 "牙齿",
-5,
+7,
 "yá chǐ",
-"tooth; dental; CL:顆|颗[ke1]"
+"tooth; dental; CL:颗[kē]"
+],
+[
+"牙膏",
+7,
+"yá gāo",
+"toothpaste; CL:管[guǎn]"
 ]
 ],
 "extraWords": [
@@ -31,12 +49,6 @@
 35.58,
 "Xī bān yá",
 "Spain"
-],
-[
-"西班牙语",
-22.12,
-"Xī bān yá yǔ",
-"Spanish language"
 ],
 [
 "牙医",
@@ -55,12 +67,6 @@
 6.69,
 "Xiōng yá lì",
 "Hungary"
-],
-[
-"牙刷",
-5.01,
-"yá shuā",
-"toothbrush; CL:把[ba3]"
 ]
 ],
 "strokes": [

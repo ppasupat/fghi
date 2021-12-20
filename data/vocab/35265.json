@@ -1,16 +1,40 @@
 {
 "char": "见",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "see, observe, behold; perceive",
 "pron": "jiàn, xiàn"
 },
 "words": [
 [
+"见",
+1,
+"jiàn",
+"to see; to meet; to appear (to be sth); to interview"
+],
+[
+"见",
+1,
+"xiàn",
+"to appear; also written 现[xiàn]"
+],
+[
+"见面",
+1,
+"jiàn miàn",
+"to meet; to see each other; CL:次[cì]"
+],
+[
 "看见",
 1,
 "kàn jiàn",
 "to see; to catch sight of"
+],
+[
+"听见",
+1,
+"tīng jiàn",
+"to hear"
 ],
 [
 "再见",
@@ -19,91 +43,217 @@
 "goodbye; see you again later"
 ],
 [
-"见面",
-3,
-"jiàn miàn",
-"to meet; to see each other; CL:次[ci4]"
+"常见",
+2,
+"cháng jiàn",
+"commonly seen; common; to see sth frequently"
+],
+[
+"见到",
+2,
+"jiàn dào",
+"to see"
+],
+[
+"见过",
+2,
+"???",
+"???"
+],
+[
+"碰见",
+2,
+"pèng jiàn",
+"to run into; to meet (unexpectedly); to bump into"
 ],
 [
 "意见",
-4,
+2,
 "yì jiàn",
-"idea; opinion; suggestion; objection; complaint; CL:點|点[dian3],條|条[tiao2]"
+"idea; opinion; suggestion; objection; complaint; CL:点[diǎn],条[tiáo]"
 ],
 [
 "可见",
-5,
+4,
 "kě jiàn",
 "it can clearly be seen (that this is the case); it is (thus) clear; clear; visible"
 ],
 [
-"不见得",
+"梦见",
+4,
+"mèng jiàn",
+"to dream about (sth or sb); to see in a dream"
+],
+[
+"遇见",
+4,
+"yù jiàn",
+"to meet"
+],
+[
+"只见",
 5,
+"zhǐ jiàn",
+"to see (the same thing) over and over again; to see, to one's surprise, (sth happen suddenly)"
+],
+[
+"不见",
+6,
+"bù jiàn",
+"not to see; not to meet; to have disappeared; to be missing"
+],
+[
+"会见",
+6,
+"huì jiàn",
+"to meet with (sb who is paying a visit); CL:次[cì]"
+],
+[
+"看得见",
+6,
+"kàn dé jiàn",
+"can see; visible"
+],
+[
+"望见",
+6,
+"wàng jiàn",
+"to espy; to spot"
+],
+[
+"拜见",
+7,
+"bài jiàn",
+"to pay a formal visit; to call to pay respects; to meet one's senior or superior"
+],
+[
+"不见得",
+7,
 "bù jiàn de",
 "not necessarily; not likely"
 ],
 [
-"偏见",
-6,
-"piān jiàn",
-"prejudice; bias"
+"参见",
+7,
+"cān jiàn",
+"to refer to; see also; compare (cf.); to pay respect to"
 ],
 [
 "罕见",
-6,
+7,
 "hǎn jiàn",
 "rare; rarely seen"
 ],
 [
 "见解",
-6,
+7,
 "jiàn jiě",
 "opinion; view; understanding"
 ],
 [
+"见钱眼开",
+7,
+"jiàn qián yǎn kāi",
+"to open one's eyes wide at the sight of profit (idiom); thinking of nothing but personal gain; money-grubbing"
+],
+[
+"见仁见智",
+7,
+"jiàn rén jiàn zhì",
+"opinions differ (idiom)"
+],
+[
+"见识",
+7,
+"jiàn shi",
+"to gain first-hand knowledge of sth; to experience for oneself; knowledge; experience; insight"
+],
+[
+"见外",
+7,
+"jiàn wài",
+"to treat sb with the formal courtesy accorded to a host or a guest"
+],
+[
+"见效",
+7,
+"jiàn xiào",
+"to have the desired effect"
+],
+[
 "见义勇为",
-6,
+7,
 "jiàn yì yǒng wéi",
 "to see what is right and act courageously (idiom, from Analects); to stand up bravely for the truth; acting heroically in a just cause"
 ],
 [
-"见多识广",
-6,
-"jiàn duō shí guǎng",
-"experienced and knowledgeable (idiom)"
+"见证",
+7,
+"jiàn zhèng",
+"to be witness to; witness; evidence"
 ],
 [
-"见闻",
-6,
-"jiàn wén",
-"what one has seen and heard; knowledge; one's experience"
+"接见",
+7,
+"jiē jiàn",
+"to receive sb; to grant an interview"
 ],
 [
-"各抒己见",
-6,
-"gè shū jǐ jiàn",
-"everyone gives their own view"
+"难得一见",
+7,
+"nán dé yī jiàn",
+"rarely seen"
 ],
 [
-"喜闻乐见",
-6,
-"xǐ wén lè jiàn",
-"to love to hear and see (idiom); well received; to one's liking"
+"偏见",
+7,
+"piān jiàn",
+"prejudice; bias"
+],
+[
+"少见",
+7,
+"shǎo jiàn",
+"rare; not familiar (to the speaker); sth rarely experience; hard to see"
+],
+[
+"司空见惯",
+7,
+"sī kōng jiàn guàn",
+"a common occurrence (idiom)"
+],
+[
+"随处可见",
+7,
+"suí chù kě jiàn",
+"can be seen everywhere"
+],
+[
+"显而易见",
+7,
+"xiǎn ér yì jiàn",
+"clearly and easy to see (idiom); obviously; clearly; it goes without saying"
+],
+[
+"由此可见",
+7,
+"yóu cǐ kě jiàn",
+"from this, it can be seen that..."
+],
+[
+"预见",
+7,
+"yù jiàn",
+"to foresee; to predict; to forecast; to envision; foresight; intuition; vision"
+],
+[
+"远见",
+7,
+"yuǎn jiàn",
+"vision"
 ]
 ],
 "extraWords": [
-[
-"见到",
-307.54,
-"jiàn dào",
-"to see"
-],
-[
-"听见",
-77.27,
-"tīng jiàn",
-"to hear"
-],
 [
 "见鬼",
 71.42,
@@ -111,46 +261,16 @@
 "absurd; strange; (interj.) curse it!; to hell with it!"
 ],
 [
-"不见",
-44.9,
-"bù jiàn",
-"not to see; not to meet; to have disappeared; to be missing"
-],
-[
-"遇见",
-34.94,
-"yù jiàn",
-"to meet"
-],
-[
-"常见",
-29.55,
-"cháng jiàn",
-"commonly seen; common; to see sth frequently"
-],
-[
-"会见",
-22.68,
-"huì jiàn",
-"to meet with (sb who is paying a visit); CL:次[ci4]"
+"见见",
+32.4,
+"???",
+"???"
 ],
 [
 "想见",
 22.63,
 "xiǎng jiàn",
 "to infer; to gather"
-],
-[
-"见识",
-17.71,
-"jiàn shi",
-"to gain first-hand knowledge of sth; to experience for oneself; knowledge; experience; insight"
-],
-[
-"见证",
-14.96,
-"jiàn zhèng",
-"to be witness to; witness; evidence"
 ],
 [
 "看不见",
@@ -165,40 +285,16 @@
 "See you later!"
 ],
 [
-"少见",
-11.93,
-"shǎo jiàn",
-"rare; not familiar (to the speaker); sth rarely experience; hard to see"
-],
-[
-"梦见",
-9.66,
-"mèng jiàn",
-"to dream about (sth or sb); to see in a dream"
-],
-[
-"预见",
-9.33,
-"yù jiàn",
-"to foresee; to predict; to forecast; to envision; foresight; intuition; vision"
-],
-[
-"由此可见",
-9.18,
-"yóu cǐ kě jiàn",
-"from this, it can be seen that..."
-],
-[
 "相见",
 7.91,
 "xiāng jiàn",
 "to see each other; to meet in person"
 ],
 [
-"显而易见",
-7.18,
-"xiǎn ér yì jiàn",
-"clearly and easy to see (idiom); obviously; clearly; it goes without saying"
+"见习记者",
+7.1,
+"???",
+"???"
 ],
 [
 "起见",
@@ -207,16 +303,10 @@
 "motive; purpose; (sth) being the motive or purpose"
 ],
 [
-"接见",
-5.92,
-"jiē jiàn",
-"to receive sb; to grant an interview"
-],
-[
-"碰见",
-5.37,
-"pèng jiàn",
-"to run into; to meet (unexpectedly); to bump into"
+"见人",
+5.84,
+"???",
+"???"
 ],
 [
 "好久不见",

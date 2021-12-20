@@ -1,6 +1,6 @@
 {
 "char": "钟",
-"level": 1,
+"level": "2",
 "info": {
 "gloss": "clock; bell",
 "pron": "zhōng"
@@ -8,25 +8,48 @@
 "words": [
 [
 "分钟",
-1,
+2,
 "fēn zhōng",
 "minute"
-]
 ],
-"extraWords": [
+[
+"钟",
+3,
+"Zhōng",
+"surname Zhong"
+],
+[
+"钟",
+3,
+"zhōng",
+"handleless cup; goblet; to concentrate; variant of 钟[zhōng]"
+],
+[
+"钟",
+3,
+"zhōng",
+"clock; o'clock; time as measured in hours and minutes; bell; CL:架[jià],座[zuò]"
+],
 [
 "闹钟",
-8.63,
+4,
 "nào zhōng",
 "alarm clock"
 ],
 [
 "钟头",
-7.42,
+6,
 "zhōng tóu",
-"hour; CL:個|个[ge4]"
+"hour; CL:个[gè]"
+],
+[
+"警钟",
+7,
+"jǐng zhōng",
+"alarm bell"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 298 639 Q 355 733 377 752 Q 387 762 382 776 Q 378 789 350 812 Q 325 830 305 830 Q 286 829 294 807 Q 309 773 295 746 Q 229 593 59 394 Q 49 384 47 378 Q 43 368 57 370 Q 106 376 268 594 Q 272 603 279 610 L 298 639 Z",
 "M 279 610 Q 318 600 359 614 Q 401 627 444 641 Q 463 647 466 650 Q 473 659 468 666 Q 461 676 433 679 Q 408 680 337 650 Q 316 646 298 639 C 270 629 250 617 279 610 Z",

@@ -1,12 +1,31 @@
 {
 "char": "庵",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "Buddhist monastery or nunnery",
 "pron": "ān"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"庵",
+4.41,
+"ān",
+"hut; small temple; nunnery"
+],
+[
+"庵",
+4.41,
+"ān",
+"variant of 庵[ān]"
+],
+[
+"施耐庵",
+0.28,
+"Shī Nài ān",
+"Shi Nai'an (1296-1371), author of Water Margin or Outlaws of the Marsh 水浒传[Shuǐ hǔ Zhuàn]"
+]
+],
 "strokes": [
 "M 475 805 Q 496 790 518 772 Q 534 760 550 763 Q 562 766 565 780 Q 566 796 553 826 Q 546 841 518 848 Q 451 860 439 851 Q 435 847 438 833 Q 444 823 475 805 Z",
 "M 325 671 Q 380 662 439 671 Q 737 716 753 727 Q 763 734 758 744 Q 751 757 722 765 Q 698 772 591 744 Q 434 711 316 705 Q 315 705 313 704 C 283 701 295 675 325 671 Z",

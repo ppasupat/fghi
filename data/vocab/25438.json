@@ -1,24 +1,30 @@
 {
 "char": "捞",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "scoop out of water; dredge, fish",
 "pron": "lāo"
 },
 "words": [
 [
+"打捞",
+7,
+"dǎ lāo",
+"to salvage; to dredge; to fish out (person or object from the sea)"
+],
+[
 "捞",
-6,
+7,
 "lāo",
 "to fish up; to dredge up"
 ]
 ],
 "extraWords": [
 [
-"打捞",
-5.78,
-"dǎ lāo",
-"to salvage; to dredge; to fish out (person or object from the sea)"
+"捕捞",
+3.14,
+"bǔ lāo",
+"to fish for (aquatic animals and plants); to catch"
 ]
 ],
 "strokes": [

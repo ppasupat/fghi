@@ -1,6 +1,6 @@
 {
 "char": "背",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "back; back side; behind; betray",
 "pron": "bēi, bèi"
@@ -8,83 +8,89 @@
 "words": [
 [
 "背",
-5,
+2,
 "bēi",
-"variant of 背[bei1]"
+"variant of 背[bēi]"
 ],
 [
 "背",
-5,
+2,
 "bēi",
 "to be burdened; to carry on the back or shoulder"
 ],
 [
 "背",
-5,
+2,
 "bèi",
 "the back of a body or object; to turn one's back; to hide something from; to learn by heart; to recite from memory; unlucky (slang); hard of hearing"
 ],
 [
-"背景",
-5,
-"bèi jǐng",
-"background; backdrop; context; (fig.) powerful backer; CL:種|种[zhong3]"
-],
-[
-"后背",
-5,
-"hòu bèi",
-"the back (human anatomy); the back part of sth"
-],
-[
-"背叛",
-6,
-"bèi pàn",
-"to betray"
-],
-[
-"违背",
-6,
-"wéi bèi",
-"to go against; to be contrary to; to violate"
-],
-[
-"背诵",
-6,
-"bèi sòng",
-"to recite; to repeat from memory"
-]
-],
-"extraWords": [
-[
 "背后",
-50.07,
+3,
 "bèi hòu",
 "behind; at the back; in the rear; behind sb's back"
 ],
 [
-"背影",
-11.28,
-"bèi yǐng",
-"rear view; figure seen from behind; view of the back (of a person or object)"
+"背景",
+4,
+"bèi jǐng",
+"background; backdrop; context; (fig.) powerful backer; CL:种[zhǒng]"
+],
+[
+"背包",
+5,
+"bēi bāo",
+"knapsack; rucksack; infantry pack; field pack; blanket roll; CL:个[gè]"
+],
+[
+"背心",
+6,
+"bèi xīn",
+"sleeveless garment (vest, waistcoat, singlet, tank top etc); CL:件[jiàn]"
 ],
 [
 "背着",
-11.04,
+6,
 "bēi zhe",
 "carrying on one's back"
 ],
 [
 "背着",
-11.04,
+6,
 "bèi zhe",
 "turning one's back to (sth or sb); keeping sth secret from (sb); keeping (one's hands) behind one's back"
 ],
 [
-"背包",
-8.91,
-"bēi bāo",
-"knapsack; rucksack; infantry pack; field pack; blanket roll; CL:個|个[ge4]"
+"背面",
+7,
+"bèi miàn",
+"the back; the reverse side; the wrong side"
+],
+[
+"背叛",
+7,
+"bèi pàn",
+"to betray"
+],
+[
+"背诵",
+7,
+"bèi sòng",
+"to recite; to repeat from memory"
+],
+[
+"违背",
+7,
+"wéi bèi",
+"to go against; to be contrary to; to violate"
+]
+],
+"extraWords": [
+[
+"背影",
+11.28,
+"bèi yǐng",
+"rear view; figure seen from behind; view of the back (of a person or object)"
 ],
 [
 "背部",
@@ -93,16 +99,10 @@
 "back (of a human or other vertebrate, or of an object)"
 ],
 [
-"背心",
-7.56,
-"bèi xīn",
-"sleeveless garment (vest, waistcoat, singlet, tank top etc); CL:件[jian4]"
-],
-[
-"背面",
-6.51,
-"bèi miàn",
-"the back; the reverse side; the wrong side"
+"后背",
+7.84,
+"hòu bèi",
+"the back (human anatomy); the back part of sth"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "宾",
-"level": 2,
+"level": "5",
 "info": {
 "gloss": "guest, visitor; surname; submit",
 "pron": "bīn"
@@ -8,15 +8,33 @@
 "words": [
 [
 "宾馆",
-2,
+5,
 "bīn guǎn",
-"guesthouse; lodge; hotel; CL:個|个[ge4],家[jia1]"
+"guesthouse; lodge; hotel; CL:个[gè],家[jiā]"
 ],
 [
 "嘉宾",
-5,
+6,
 "jiā bīn",
 "esteemed guest; honored guest; guest (on a show)"
+],
+[
+"贵宾",
+7,
+"guì bīn",
+"honored guest; distinguished guest; VIP"
+],
+[
+"来宾",
+7,
+"Lái bīn",
+"Laibin prefecture-level city in Guangxi"
+],
+[
+"来宾",
+7,
+"lái bīn",
+"guest; visitor"
 ]
 ],
 "extraWords": [
@@ -27,22 +45,16 @@
 "the Philippines"
 ],
 [
-"贵宾",
-8.59,
-"guì bīn",
-"honored guest; distinguished guest; VIP"
+"宾",
+10.88,
+"bīn",
+"visitor; guest; object (in grammar)"
 ],
 [
-"来宾",
-5.26,
-"Lái bīn",
-"Laibin prefecture-level city in Guangxi"
-],
-[
-"来宾",
-5.26,
-"lái bīn",
-"guest; visitor"
+"罗宾",
+5.4,
+"???",
+"???"
 ]
 ],
 "strokes": [

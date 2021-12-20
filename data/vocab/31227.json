@@ -1,55 +1,73 @@
 {
 "char": "移",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "change place, shift; move about",
 "pron": "yí"
 },
 "words": [
 [
+"移",
+4,
+"yí",
+"to move; to shift; to change; to alter; to remove"
+],
+[
 "移动",
-5,
+4,
 "yí dòng",
 "to move; movement; migration; mobile; portable"
 ],
 [
 "移民",
-5,
+4,
 "yí mín",
 "to immigrate; to migrate; emigrant; immigrant"
 ],
 [
 "转移",
-6,
+4,
 "zhuǎn yí",
 "to shift; to divert or distract (attention etc); to change; to transform; metastasis (medicine); to evacuate (people)"
 ],
 [
+"迁移",
+7,
+"qiān yí",
+"to migrate; to move"
+],
+[
 "潜移默化",
-6,
+7,
 "qián yí mò huà",
 "imperceptible influence; to influence secretly"
-]
 ],
-"extraWords": [
 [
-"移植",
-26.98,
-"yí zhí",
-"to transplant"
+"推移",
+7,
+"tuī yí",
+"(of time) to elapse or pass; (of a situation) to develop or evolve"
 ],
 [
 "移交",
-8.95,
+7,
 "yí jiāo",
 "to transfer; to hand over"
 ],
 [
-"迁移",
-7.92,
-"qiān yí",
-"to migrate; to move"
+"移植",
+7,
+"yí zhí",
+"to transplant"
 ],
+[
+"愚公移山",
+7,
+"yú gōng yí shān",
+"the old man moves mountains (idiom); fig. where there's a will, there's a way"
+]
+],
+"extraWords": [
 [
 "坚定不移",
 6.79,

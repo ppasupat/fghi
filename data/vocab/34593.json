@@ -1,19 +1,32 @@
 {
 "char": "蜡",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "wax; candle; waxy, glazed; maggot; as a non-simplified form sometimes used as an equivalent to U+410D 䄍, meaning imperial harvest",
 "pron": "là"
 },
 "words": [
 [
+"蜡",
+7,
+"là",
+"candle; wax"
+],
+[
 "蜡烛",
-6,
+7,
 "là zhú",
-"candle; CL:根[gen1],支[zhi1]"
+"candle; CL:根[gēn],支[zhī]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"石蜡",
+2.18,
+"shí là",
+"paraffin wax"
+]
+],
 "strokes": [
 "M 154 531 Q 144 537 118 540 Q 108 543 104 538 Q 100 534 107 518 Q 132 466 148 381 Q 151 356 165 338 Q 181 319 186 333 Q 190 346 189 366 L 185 395 Q 170 477 167 504 C 164 526 164 526 154 531 Z",
 "M 395 436 Q 414 508 442 527 Q 455 545 442 560 Q 379 605 344 589 Q 316 577 293 567 L 246 553 Q 201 541 154 531 C 125 525 138 498 167 504 Q 177 505 190 510 Q 218 517 246 523 L 292 535 Q 310 541 331 545 Q 349 549 356 543 Q 366 533 349 440 C 344 410 387 407 395 436 Z",

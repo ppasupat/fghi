@@ -1,79 +1,97 @@
 {
 "char": "满",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "fill; full, satisfied",
 "pron": "mǎn"
 },
 "words": [
 [
-"满意",
-3,
-"mǎn yì",
-"satisfied; pleased; to one's satisfaction"
+"不满",
+2,
+"bù mǎn",
+"resentful; discontented; dissatisfied"
 ],
 [
 "满",
-4,
+2,
 "Mǎn",
 "Manchu ethnic group"
 ],
 [
 "满",
-4,
+2,
 "mǎn",
 "to fill; full; filled; packed; fully; completely; quite; to reach the limit; to satisfy; satisfied; contented"
 ],
 [
+"满意",
+2,
+"mǎn yì",
+"satisfied; pleased; to one's satisfaction"
+],
+[
 "充满",
-5,
+3,
 "chōng mǎn",
 "full of; brimming with; very full; permeated"
 ],
 [
 "满足",
-5,
+3,
 "mǎn zú",
 "to satisfy; to meet (the needs of); satisfied; content"
 ],
 [
-"丰满",
+"圆满",
+4,
+"yuán mǎn",
+"satisfactory; consummate; perfect"
+],
+[
+"布满",
 6,
+"bù mǎn",
+"to be covered with; to be filled with"
+],
+[
+"饱满",
+7,
+"bǎo mǎn",
+"full; plump"
+],
+[
+"爆满",
+7,
+"bào mǎn",
+"filled to capacity (of theater, stadium, gymnasium etc)"
+],
+[
+"丰满",
+7,
 "Fēng mǎn",
 "Fengman district of Jilin city 吉林市, Jilin province"
 ],
 [
 "丰满",
-6,
+7,
 "fēng mǎn",
 "ample; well developed; fully rounded"
 ],
 [
+"满怀",
+7,
+"mǎn huái",
+"to have one's heart filled with; (to collide) full on; (of farm animals) heavy with young"
+],
+[
 "美满",
-6,
+7,
 "měi mǎn",
 "happy; blissful"
-],
-[
-"圆满",
-6,
-"yuán mǎn",
-"satisfactory; consummate; perfect"
-],
-[
-"自满",
-6,
-"zì mǎn",
-"complacent; self-satisfied"
 ]
 ],
 "extraWords": [
-[
-"不满",
-34.01,
-"bù mǎn",
-"resentful; discontented; dissatisfied"
-],
 [
 "满满",
 11.31,
@@ -93,34 +111,16 @@
 "to fill up"
 ],
 [
-"饱满",
-7.34,
-"bǎo mǎn",
-"full; plump"
-],
-[
 "泪流满面",
 6.27,
 "lèi liú mǎn miàn",
 "cheeks streaming with tears (idiom)"
 ],
 [
-"满怀",
-6.15,
-"mǎn huái",
-"to have one's heart filled with; (to collide) full on; (of farm animals) heavy with young"
-],
-[
 "期满",
 5.58,
 "qī mǎn",
 "to expire; to run out; to come to an end"
-],
-[
-"布满",
-5.2,
-"bù mǎn",
-"to be covered with; to be filled with"
 ],
 [
 "满面",

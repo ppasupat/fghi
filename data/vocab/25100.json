@@ -1,12 +1,31 @@
 {
 "char": "戌",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "11th terrestrial branch",
 "pron": "qu, xū"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"戌",
+1.27,
+"qu",
+"see 屈戌儿[qū qu er]"
+],
+[
+"戌",
+1.27,
+"xū",
+"11th earthly branch: 7-9 p.m., 9th solar month (8th October-6th November), year of the Dog; ancient Chinese compass point: 300°"
+],
+[
+"戊戌",
+0.57,
+"wù xū",
+"thirty-fifth year E11 of the 60 year cycle, e.g. 1958 or 2018"
+]
+],
 "strokes": [
 "M 545 548 Q 692 591 696 595 Q 705 604 700 612 Q 693 624 662 630 Q 632 634 532 595 L 486 579 Q 476 578 468 574 Q 392 552 300 538 Q 296 538 292 536 C 263 530 272 518 301 510 Q 346 495 391 508 Q 443 521 499 536 L 545 548 Z",
 "M 292 536 Q 237 563 222 561 Q 203 558 218 535 Q 242 493 227 302 Q 218 254 194 197 Q 173 146 96 68 Q 81 55 78 48 Q 77 41 88 42 Q 127 42 189 107 Q 225 144 246 187 Q 264 229 274 286 L 278 307 Q 291 377 296 476 Q 299 497 301 510 C 304 530 304 530 292 536 Z",

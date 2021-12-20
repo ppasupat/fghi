@@ -1,17 +1,30 @@
 {
 "char": "饵",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "bait; bait, entice; dumplings",
 "pron": "ěr"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "诱饵",
-7.48,
+7,
 "yòu ěr",
 "bait"
+]
+],
+"extraWords": [
+[
+"饵",
+2.33,
+"ěr",
+"pastry; food; to swallow; to lure; bait; lure"
+],
+[
+"鱼饵",
+1.55,
+"yú ěr",
+"fish bait"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "胃",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "stomach; gizzard of fowl",
 "pron": "wèi"
@@ -10,16 +10,22 @@
 "胃",
 5,
 "wèi",
-"stomach; CL:個|个[ge4]"
+"stomach; CL:个[gè]"
 ],
 [
 "胃口",
-5,
+7,
 "wèi kǒu",
 "appetite; liking"
 ]
 ],
 "extraWords": [
+[
+"胃肠",
+9.36,
+"???",
+"???"
+],
 [
 "胃癌",
 6.91,

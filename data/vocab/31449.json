@@ -1,49 +1,67 @@
 {
 "char": "站",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "stand up; a stand, station",
 "pron": "zhàn"
 },
 "words": [
 [
-"火车站",
-2,
-"huǒ chē zhàn",
-"train station"
+"车站",
+1,
+"chē zhàn",
+"rail station; bus stop; CL:处[chù],个[gè]"
 ],
 [
 "站",
-3,
+1,
 "zhàn",
 "station; to stand; to halt; to stop; branch of a company or organization; website"
 ],
 [
+"地铁站",
+2,
+"dì tiě zhàn",
+"subway station"
+],
+[
 "网站",
-4,
+2,
 "wǎng zhàn",
 "website; network station; node"
+],
+[
+"站住",
+2,
+"zhàn zhù",
+"to stand"
 ],
 [
 "加油站",
 4,
 "jiā yóu zhàn",
 "gas station"
+],
+[
+"站台",
+6,
+"zhàn tái",
+"platform (at a railway station); (Tw) (of an influential person) to publicly lend one's support (e.g. for an election candidate); (Tw) website"
+],
+[
+"核电站",
+7,
+"hé diàn zhàn",
+"nuclear power plant"
+],
+[
+"站立",
+7,
+"zhàn lì",
+"to stand; standing; on one's feet"
 ]
 ],
 "extraWords": [
-[
-"站住",
-24.15,
-"zhàn zhù",
-"to stand"
-],
-[
-"车站",
-21.29,
-"chē zhàn",
-"rail station; bus stop; CL:處|处[chu4],個|个[ge4]"
-],
 [
 "站起来",
 14.47,
@@ -51,16 +69,16 @@
 "to stand up"
 ],
 [
-"站立",
-7.91,
-"zhàn lì",
-"to stand; standing; on one's feet"
+"火车站",
+12.02,
+"huǒ chē zhàn",
+"train station"
 ],
 [
-"站台",
-5.96,
-"zhàn tái",
-"platform (at a railway station); (Tw) (of an influential person) to publicly lend one's support (e.g. for an election candidate); (Tw) website"
+"站出来",
+7.04,
+"???",
+"???"
 ],
 [
 "电站",

@@ -1,22 +1,118 @@
 {
 "char": "晚",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "night, evening; late",
 "pron": "wǎn"
 },
 "words": [
 [
+"晚",
+1,
+"wǎn",
+"evening; night; late"
+],
+[
+"晚饭",
+1,
+"wǎn fàn",
+"evening meal; dinner; supper; CL:份[fèn],顿[dùn],次[cì],餐[cān]"
+],
+[
 "晚上",
-2,
+1,
 "wǎn shang",
-"evening; night; CL:個|个[ge4]; in the evening"
+"evening; night; CL:个[gè]; in the evening"
+],
+[
+"晚安",
+2,
+"wǎn ān",
+"Good night!; Good evening!"
+],
+[
+"晚报",
+2,
+"wǎn bào",
+"evening newspaper; (in a newspaper's name) Evening News"
+],
+[
+"晚餐",
+2,
+"wǎn cān",
+"evening meal; dinner; CL:份[fèn],顿[dùn],次[cì]"
+],
+[
+"晚会",
+2,
+"wǎn huì",
+"evening party; CL:个[gè]"
+],
+[
+"晚点",
+4,
+"wǎn diǎn",
+"(of trains etc) late; delayed; behind schedule; light dinner"
 ],
 [
 "傍晚",
-5,
+6,
 "bàng wǎn",
 "in the evening; when night falls; towards evening; at night fall; at dusk"
+],
+[
+"早晚",
+6,
+"zǎo wǎn",
+"morning and evening; sooner or later"
+],
+[
+"从早到晚",
+7,
+"cóng zǎo dào wǎn",
+"from morning till night; from dawn to dusk; all day long"
+],
+[
+"当晚",
+7,
+"dāng wǎn",
+"on that evening"
+],
+[
+"当晚",
+7,
+"dàng wǎn",
+"the same evening"
+],
+[
+"晚间",
+7,
+"wǎn jiān",
+"evening; night"
+],
+[
+"晚年",
+7,
+"wǎn nián",
+"one's later years"
+],
+[
+"晚期",
+7,
+"wǎn qī",
+"later period; end stage; terminal"
+],
+[
+"夜晚",
+7,
+"yè wǎn",
+"night; CL:个[gè]"
+],
+[
+"一天到晚",
+7,
+"yī tiān dào wǎn",
+"all day long; the whole day"
 ]
 ],
 "extraWords": [
@@ -33,58 +129,16 @@
 "yesterday evening; last night"
 ],
 [
-"晚安",
-113.16,
-"wǎn ān",
-"Good night!; Good evening!"
-],
-[
-"晚餐",
-71.78,
-"wǎn cān",
-"evening meal; dinner; CL:份[fen4],頓|顿[dun4],次[ci4]"
-],
-[
-"晚饭",
-48.08,
-"wǎn fàn",
-"evening meal; dinner; supper; CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
-],
-[
-"夜晚",
-36.28,
-"yè wǎn",
-"night; CL:個|个[ge4]"
-],
-[
-"晚会",
-29.94,
-"wǎn huì",
-"evening party; CL:個|个[ge4]"
-],
-[
-"晚点",
-20.24,
-"wǎn diǎn",
-"(of trains etc) late; delayed; behind schedule; light dinner"
-],
-[
-"当晚",
-20.03,
-"dāng wǎn",
-"on that evening"
-],
-[
-"当晚",
-20.03,
-"dàng wǎn",
-"the same evening"
-],
-[
 "明晚",
 19.76,
 "míng wǎn",
 "tomorrow evening"
+],
+[
+"每晚",
+14.19,
+"???",
+"???"
 ],
 [
 "晚宴",
@@ -93,34 +147,10 @@
 "banquet; dinner party; soiree"
 ],
 [
-"早晚",
-11.37,
-"zǎo wǎn",
-"morning and evening; sooner or later"
-],
-[
-"晚报",
-9.95,
-"wǎn bào",
-"evening newspaper; (in a newspaper's name) Evening News"
-],
-[
-"晚期",
-9.24,
-"wǎn qī",
-"later period; end stage; terminal"
-],
-[
-"晚间",
-8.49,
-"wǎn jiān",
-"evening; night"
-],
-[
-"晚年",
-5.77,
-"wǎn nián",
-"one's later years"
+"金陵晚报",
+5.84,
+"???",
+"???"
 ]
 ],
 "strokes": [

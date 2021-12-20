@@ -1,16 +1,40 @@
 {
 "char": "宫",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "palace",
 "pron": "gōng"
 },
 "words": [
 [
-"宫殿",
+"宫",
 6,
+"Gōng",
+"surname Gong"
+],
+[
+"宫",
+6,
+"gōng",
+"palace; temple; castration (as corporal punishment); first note in pentatonic scale"
+],
+[
+"宫殿",
+7,
 "gōng diàn",
-"palace; CL:座[zuo4]"
+"palace; CL:座[zuò]"
+],
+[
+"宫廷",
+7,
+"gōng tíng",
+"court (of king or emperor)"
+],
+[
+"皇宫",
+7,
+"huáng gōng",
+"imperial palace"
 ]
 ],
 "extraWords": [
@@ -30,13 +54,13 @@
 "南宫",
 6.39,
 "Nán gōng",
-"Nangong county level city in Xingtai 邢台[Xing2 tai2], Hebei"
+"Nangong county level city in Xingtai 邢台[Xíng tái], Hebei"
 ],
 [
 "故宫",
 5.94,
 "Gù gōng",
-"the Forbidden City; abbr. for 故宮博物院|故宫博物院[Gu4 gong1 Bo2 wu4 yuan4]"
+"the Forbidden City; abbr. for 故宫博物院[Gù gōng Bó wù yuàn]"
 ],
 [
 "故宫",
@@ -49,12 +73,6 @@
 5.22,
 "mí gōng",
 "maze; labyrinth"
-],
-[
-"宫廷",
-5.02,
-"gōng tíng",
-"court (of king or emperor)"
 ]
 ],
 "strokes": [

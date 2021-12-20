@@ -1,12 +1,25 @@
 {
 "char": "匪",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "bandits, robbers, gangsters",
 "pron": "fěi"
 },
-"words": [],
+"words": [
+[
+"土匪",
+7,
+"tǔ fěi",
+"bandit"
+]
+],
 "extraWords": [
+[
+"匪",
+11.27,
+"fěi",
+"bandit; (literary) not"
+],
 [
 "劫匪",
 6.83,

@@ -1,6 +1,6 @@
 {
 "char": "坏",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "rotten, spoilt, bad, broken down",
 "pron": "huài"
@@ -8,42 +8,60 @@
 "words": [
 [
 "坏",
-3,
+1,
 "huài",
 "bad; spoiled; broken; to break down; (suffix) to the utmost"
 ],
 [
-"破坏",
-5,
-"pò huài",
-"destruction; damage; to wreck; to break; to destroy"
+"坏处",
+2,
+"huài chu",
+"harm; troubles; CL:个[gè]"
 ],
-[
-"损坏",
-6,
-"sǔn huài",
-"to damage; to injure"
-],
-[
-"败坏",
-6,
-"bài huài",
-"to ruin; to corrupt; to undermine"
-]
-],
-"extraWords": [
 [
 "坏人",
-27.57,
+2,
 "huài rén",
 "bad person; villain"
 ],
 [
+"破坏",
+3,
+"pò huài",
+"destruction; damage; to wreck; to break; to destroy"
+],
+[
+"好坏",
+7,
+"hǎo huài",
+"good or bad; good and bad; standard; quality"
+],
+[
 "坏事",
-26.08,
+7,
 "huài shì",
 "bad thing; misdeed; to ruin things"
 ],
+[
+"毁坏",
+7,
+"huǐ huài",
+"to damage; to devastate; to vandalize; damage; destruction"
+],
+[
+"时好时坏",
+7,
+"shí hǎo shí huài",
+"sometimes good, sometimes bad"
+],
+[
+"损坏",
+7,
+"sǔn huài",
+"to damage; to injure"
+]
+],
+"extraWords": [
 [
 "吓坏",
 25.79,
@@ -67,12 +85,6 @@
 11.04,
 "huài sǐ",
 "necrosis"
-],
-[
-"好坏",
-9.52,
-"hǎo huài",
-"good or bad; good and bad; standard; quality"
 ],
 [
 "坏话",

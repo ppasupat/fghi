@@ -1,60 +1,78 @@
 {
 "char": "监",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "supervise, control, direct",
 "pron": "jiān, jiàn"
 },
 "words": [
 [
-"监狱",
+"监测",
 6,
-"jiān yù",
-"prison"
-],
-[
-"监视",
-6,
-"jiān shì",
-"to monitor; to keep a close watch over; surveillance"
+"jiān cè",
+"to monitor"
 ],
 [
 "监督",
 6,
 "jiān dū",
 "to control; to supervise; to inspect"
-]
-],
-"extraWords": [
-[
-"监管",
-76.82,
-"jiān guǎn",
-"to oversee; to take charge of; to supervise; to administer; supervisory; supervision"
 ],
 [
-"监测",
-43.11,
-"jiān cè",
-"to monitor"
-],
-[
-"监控",
-30.44,
-"jiān kòng",
-"to monitor"
+"总监",
+6,
+"zǒng jiān",
+"head; director (of an organizational unit); (police) commissioner; inspector-general; rank of local governor in Tang dynasty administration"
 ],
 [
 "监察",
-20.82,
+7,
 "jiān chá",
 "to supervise; to control"
 ],
 [
-"总监",
-18.64,
-"zǒng jiān",
-"head; director (of an organizational unit); (police) commissioner; inspector-general; rank of local governor in Tang dynasty administration"
+"监管",
+7,
+"jiān guǎn",
+"to oversee; to take charge of; to supervise; to administer; supervisory; supervision"
+],
+[
+"监护",
+7,
+"jiān hù",
+"to act as a guardian"
+],
+[
+"监控",
+7,
+"jiān kòng",
+"to monitor"
+],
+[
+"监视",
+7,
+"jiān shì",
+"to monitor; to keep a close watch over; surveillance"
+],
+[
+"监狱",
+7,
+"jiān yù",
+"prison"
+]
+],
+"extraWords": [
+[
+"监",
+82.34,
+"jiān",
+"to supervise; to inspect; jail; prison"
+],
+[
+"监",
+82.34,
+"jiàn",
+"supervisor"
 ],
 [
 "监禁",
@@ -63,10 +81,22 @@
 "to imprison; to jail; to take into custody"
 ],
 [
+"监事会",
+9.29,
+"???",
+"???"
+],
+[
 "监视器",
 8.53,
 "jiān shì qì",
 "security camera; surveillance monitor"
+],
+[
+"监事",
+8.38,
+"???",
+"???"
 ],
 [
 "监听",
@@ -75,16 +105,16 @@
 "to monitor; to listen in; to eavesdrop"
 ],
 [
-"监护",
-6.89,
-"jiān hù",
-"to act as a guardian"
-],
-[
 "监护权",
 6.89,
 "jiān hù quán",
 "custody (of a child)"
+],
+[
+"警监",
+6.68,
+"???",
+"???"
 ],
 [
 "监护人",

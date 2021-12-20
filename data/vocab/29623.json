@@ -1,12 +1,31 @@
 {
 "char": "玷",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "flaw in gem; flaw in character",
 "pron": "diàn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"玷污",
+4.68,
+"diàn wū",
+"to stain; to sully; to tarnish"
+],
+[
+"玷",
+0.11,
+"diàn",
+"blemish; disgrace; flaw in jade"
+],
+[
+"玷辱",
+0.04,
+"diàn rǔ",
+"to dishonor; to disgrace"
+]
+],
 "strokes": [
 "M 294 599 Q 339 612 389 624 Q 420 633 425 637 Q 434 647 428 655 Q 419 668 388 674 Q 355 678 323 664 Q 289 651 251 639 Q 209 627 160 621 Q 121 612 150 595 Q 192 574 247 587 L 294 599 Z",
 "M 313 418 Q 343 428 374 436 Q 401 445 405 449 Q 412 456 408 465 Q 401 475 371 480 Q 343 484 315 470 L 260 450 Q 190 434 170 429 Q 136 420 162 406 Q 207 388 260 404 L 313 418 Z",

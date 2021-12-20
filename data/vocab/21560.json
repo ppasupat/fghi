@@ -1,32 +1,62 @@
 {
 "char": "吸",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "inhale, suck in; absorb; attract",
 "pron": "xī"
 },
 "words": [
 [
-"吸引",
-4,
-"xī yǐn",
-"to attract (interest, investment etc); CL:個|个[ge4]"
-],
-[
 "呼吸",
-5,
+4,
 "hū xī",
 "to breathe"
 ],
 [
+"吸",
+4,
+"xī",
+"to breathe; to suck in; to absorb; to inhale"
+],
+[
+"吸管",
+4,
+"xī guǎn",
+"(drinking) straw; pipette; eyedropper; snorkel; CL:支[zhī]"
+],
+[
 "吸收",
-5,
+4,
 "xī shōu",
 "to absorb; to assimilate; to ingest; to recruit"
 ],
 [
+"吸烟",
+4,
+"xī yān",
+"to smoke"
+],
+[
+"吸引",
+4,
+"xī yǐn",
+"to attract (interest, investment etc); CL:个[gè]"
+],
+[
+"吸毒",
+6,
+"xī dú",
+"to take drugs"
+],
+[
+"吸纳",
+7,
+"xī nà",
+"to take in; to absorb; to admit; to accept"
+],
+[
 "吸取",
-5,
+7,
 "xī qǔ",
 "to absorb; to draw (a lesson, insight etc); to assimilate"
 ]
@@ -39,28 +69,16 @@
 "leech; bloodsucking vermin; vampire (translated European notion); fig. cruel exploiter, esp. a capitalist exploiting the workers"
 ],
 [
-"吸毒",
-29.54,
-"xī dú",
-"to take drugs"
+"深呼吸",
+16.99,
+"???",
+"???"
 ],
 [
 "吸引力",
 16.92,
 "xī yǐn lì",
 "attractive force (such as gravitation); sex appeal; attractiveness"
-],
-[
-"吸烟",
-13.71,
-"xī yān",
-"to smoke"
-],
-[
-"吸纳",
-8.19,
-"xī nà",
-"to take in; to absorb; to admit; to accept"
 ],
 [
 "呼吸道",
@@ -73,6 +91,12 @@
 6.64,
 "xī rù",
 "to breathe in; to suck in; to inhale"
+],
+[
+"吸引人",
+5.47,
+"???",
+"???"
 ],
 [
 "吸附",

@@ -1,11 +1,17 @@
 {
 "char": "版",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "printing blocks; edition",
 "pron": "bǎn"
 },
 "words": [
+[
+"版",
+5,
+"bǎn",
+"a register; block of printing; edition; version; page"
+],
 [
 "出版",
 5,
@@ -13,18 +19,42 @@
 "to publish"
 ],
 [
-"版本",
+"电子版",
+5,
+"diàn zǐ bǎn",
+"electronic edition; digital version"
+],
+[
+"正版",
+5,
+"zhèng bǎn",
+"genuine; legal; see also 盗版[dào bǎn]"
+],
+[
+"盗版",
 6,
-"bǎn běn",
-"version; edition; release"
+"dào bǎn",
+"pirated; illegal; see also 正版[zhèng bǎn]"
+],
+[
+"出版社",
+7,
+"chū bǎn shè",
+"publishing house"
+],
+[
+"改版",
+7,
+"gǎi bǎn",
+"to revise the current edition; revised edition"
 ]
 ],
 "extraWords": [
 [
-"出版社",
-26.87,
-"chū bǎn shè",
-"publishing house"
+"版本",
+29.61,
+"bǎn běn",
+"version; edition; release"
 ],
 [
 "版权",
@@ -33,10 +63,10 @@
 "copyright"
 ],
 [
-"盗版",
-11.39,
-"dào bǎn",
-"pirated; illegal; see also 正版[zheng4 ban3]"
+"整版",
+6.14,
+"???",
+"???"
 ]
 ],
 "strokes": [

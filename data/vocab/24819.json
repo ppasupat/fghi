@@ -1,6 +1,6 @@
 {
 "char": "想",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "think, speculate, plan, consider",
 "pron": "xiǎng"
@@ -14,87 +14,183 @@
 ],
 [
 "理想",
-4,
+2,
 "lǐ xiǎng",
 "an ideal; a dream; ideal; perfect"
 ],
 [
-"想象",
-5,
-"xiǎng xiàng",
-"to imagine; to fancy; CL:個|个[ge4]"
+"想到",
+2,
+"xiǎng dào",
+"to think of; to call to mind; to anticipate"
+],
+[
+"想法",
+2,
+"xiǎng fǎ",
+"way of thinking; opinion; notion; to think of a way (to do sth); CL:个[gè]"
+],
+[
+"想起",
+2,
+"xiǎng qǐ",
+"to recall; to think of; to call to mind"
+],
+[
+"思想",
+3,
+"sī xiǎng",
+"thought; thinking; idea; ideology; CL:个[gè]"
+],
+[
+"没想到",
+4,
+"méi xiǎng dào",
+"didn't expect"
 ],
 [
 "梦想",
-5,
+4,
 "mèng xiǎng",
 "(fig.) to dream of; dream"
 ],
 [
 "想念",
-5,
+4,
 "xiǎng niàn",
 "to miss; to remember with longing; to long to see again"
 ],
 [
-"幻想",
-5,
-"huàn xiǎng",
-"delusion; fantasy"
-],
-[
-"思想",
-5,
-"sī xiǎng",
-"thought; thinking; idea; ideology; CL:個|个[ge4]"
+"想象",
+4,
+"xiǎng xiàng",
+"to imagine; to fancy; CL:个[gè]"
 ],
 [
 "感想",
 5,
 "gǎn xiǎng",
-"impressions; reflections; thoughts; CL:通[tong4],個|个[ge4]"
-],
-[
-"妄想",
-6,
-"wàng xiǎng",
-"to attempt vainly; a vain attempt; delusion"
-],
-[
-"着想",
-6,
-"zhuó xiǎng",
-"to give thought (to others); to consider (other people's needs); also pr. [zhao2 xiang3]"
-],
-[
-"设想",
-6,
-"shè xiǎng",
-"to imagine; to assume; to envisage; tentative plan; to have consideration for"
-],
-[
-"想方设法",
-6,
-"xiǎng fāng shè fǎ",
-"to think up every possible method (idiom); to devise ways and means; to try this, that and the other"
+"impressions; reflections; thoughts; CL:通[tòng],个[gè]"
 ],
 [
 "联想",
-6,
+5,
 "Lián xiǎng",
-"abbr. for 聯想集團|联想集团[Lian2 xiang3 Ji2 tuan2]"
+"abbr. for 联想集团[Lián xiǎng Jí tuán]"
 ],
 [
 "联想",
-6,
+5,
 "lián xiǎng",
 "to associate (cognitively); to make an associative connection; mental association; word prediction and auto-complete functions of input method editing programs"
 ],
 [
-"空想",
+"设想",
+5,
+"shè xiǎng",
+"to imagine; to assume; to envisage; tentative plan; to have consideration for"
+],
+[
+"幻想",
 6,
+"huàn xiǎng",
+"delusion; fantasy"
+],
+[
+"想不到",
+6,
+"xiǎng bu dào",
+"unexpected; hard to imagine; it had not occurred to me; who could have thought that"
+],
+[
+"意想不到",
+6,
+"yì xiǎng bù dào",
+"unexpected; previously unimagined"
+],
+[
+"猜想",
+7,
+"cāi xiǎng",
+"to guess; to conjecture; to suppose; to suspect"
+],
+[
+"构想",
+7,
+"gòu xiǎng",
+"to conceive; concept"
+],
+[
+"胡思乱想",
+7,
+"hú sī luàn xiǎng",
+"to indulge in flights of fancy (idiom); to let one's imagination run wild"
+],
+[
+"回想",
+7,
+"huí xiǎng",
+"to recall; to recollect; to think back"
+],
+[
+"可想而知",
+7,
+"kě xiǎng ér zhī",
+"it is obvious that...; as one can well imagine..."
+],
+[
+"空想",
+7,
 "kōng xiǎng",
 "daydream; fantasy; to fantasize"
+],
+[
+"难以想象",
+7,
+"???",
+"???"
+],
+[
+"思前想后",
+7,
+"sī qián xiǎng hòu",
+"to consider past cause and future effect (idiom); to think over the past and future; to ponder over reasons and connection"
+],
+[
+"妄想",
+7,
+"wàng xiǎng",
+"to attempt vainly; a vain attempt; delusion"
+],
+[
+"想方设法",
+7,
+"xiǎng fāng shè fǎ",
+"to think up every possible method (idiom); to devise ways and means; to try this, that and the other"
+],
+[
+"心想事成",
+7,
+"xīn xiǎng shì chéng",
+"to have one's wishes come true; wish you the best!"
+],
+[
+"休想",
+7,
+"xiū xiǎng",
+"don't think (that); don't imagine (that)"
+],
+[
+"异想天开",
+7,
+"yì xiǎng tiān kāi",
+"to imagine the wildest thing; to indulge in fantasy"
+],
+[
+"着想",
+7,
+"zhuó xiǎng",
+"to give thought (to others); to consider (other people's needs); also pr. [zhao2 xiang3]"
 ]
 ],
 "extraWords": [
@@ -105,28 +201,22 @@
 "unexpectedly"
 ],
 [
-"想到",
-154.85,
-"xiǎng dào",
-"to think of; to call to mind; to anticipate"
-],
-[
-"想法",
-136.35,
-"xiǎng fǎ",
-"way of thinking; opinion; notion; to think of a way (to do sth); CL:個|个[ge4]"
-],
-[
 "想要",
 105.79,
 "xiǎng yào",
 "to want to; to feel like; to fancy; to care for sb; desirous of"
 ],
 [
-"想起",
-77.61,
-"xiǎng qǐ",
-"to recall; to think of; to call to mind"
+"想想",
+100.49,
+"???",
+"???"
+],
+[
+"只想",
+25.23,
+"???",
+"???"
 ],
 [
 "毛泽东思想",
@@ -139,12 +229,6 @@
 22.63,
 "xiǎng jiàn",
 "to infer; to gather"
-],
-[
-"想不到",
-18.2,
-"xiǎng bu dào",
-"unexpected; hard to imagine; it had not occurred to me; who could have thought that"
 ],
 [
 "心想",
@@ -165,10 +249,10 @@
 "to imagine; to conceive of; to visualize; imagination"
 ],
 [
-"回想",
-11.3,
-"huí xiǎng",
-"to recall; to recollect; to think back"
+"没想",
+10.89,
+"???",
+"???"
 ],
 [
 "想起来",
@@ -183,10 +267,10 @@
 "it may be assumed that"
 ],
 [
-"猜想",
-8.05,
-"cāi xiǎng",
-"to guess; to conjecture; to suppose; to suspect"
+"想死",
+7.99,
+"???",
+"???"
 ],
 [
 "想必",
@@ -195,34 +279,16 @@
 "presumably; probably; in all likelihood; surely"
 ],
 [
-"休想",
-7.21,
-"xiū xiǎng",
-"don't think (that); don't imagine (that)"
-],
-[
 "想象力",
 6.65,
 "xiǎng xiàng lì",
 "imagination"
 ],
 [
-"意想不到",
-6.48,
-"yì xiǎng bù dào",
-"unexpected; previously unimagined"
-],
-[
-"可想而知",
-5.63,
-"kě xiǎng ér zhī",
-"it is obvious that...; as one can well imagine..."
-],
-[
-"构想",
-5.56,
-"gòu xiǎng",
-"to conceive; concept"
+"一想到",
+5.95,
+"???",
+"???"
 ]
 ],
 "strokes": [

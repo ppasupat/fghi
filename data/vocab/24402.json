@@ -1,56 +1,85 @@
 {
 "char": "归",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "return; return to, revert to",
 "pron": "guī"
 },
 "words": [
 [
-"归纳",
-5,
-"guī nà",
-"to sum up; to summarize; to conclude from facts; induction (method of deduction in logic)"
+"归",
+4,
+"Guī",
+"surname Gui"
+],
+[
+"归",
+4,
+"guī",
+"to return; to go back to; to give back to; (of a responsibility) to be taken care of by; to belong to; to gather together; (used between two identical verbs) despite; to marry (of a woman) (old); division on the abacus with a one-digit divisor"
+],
+[
+"改邪归正",
+7,
+"gǎi xié guī zhèng",
+"to mend one's ways (idiom); to turn over a new leaf"
+],
+[
+"归根到底",
+7,
+"guī gēn dào dǐ",
+"after all; in the final analysis; ultimately"
 ],
 [
 "归还",
-6,
+7,
 "guī huán",
 "to return sth; to revert"
 ],
 [
-"归根到底",
-6,
-"guī gēn dào dǐ",
-"after all; in the final analysis; ultimately"
-]
-],
-"extraWords": [
-[
-"回归",
-34.19,
-"huí guī",
-"to return to; to retreat; regression (statistics)"
+"归结",
+7,
+"guī jié",
+"to sum up; to conclude; in a nutshell; the end (of a story)"
 ],
 [
 "归来",
-11.64,
+7,
 "guī lái",
 "to return; to come back"
 ],
 [
-"无家可归",
-10.7,
-"wú jiā kě guī",
-"homeless"
+"归纳",
+7,
+"guī nà",
+"to sum up; to summarize; to conclude from facts; induction (method of deduction in logic)"
 ],
 [
 "归属",
-9.08,
+7,
 "guī shǔ",
 "to belong to; to be affiliated to; to fall under the jurisdiction of; a place where one feels that one belongs; one's final destination (where one need look no further)"
+],
+[
+"归宿",
+7,
+"guī sù",
+"place to return to; home; final destination; ending"
+],
+[
+"回归",
+7,
+"huí guī",
+"to return to; to retreat; regression (statistics)"
+],
+[
+"无家可归",
+7,
+"wú jiā kě guī",
+"homeless"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 188 557 Q 221 476 191 281 Q 182 241 210 208 L 211 206 Q 221 196 231 206 Q 255 239 252 291 Q 246 436 261 526 Q 268 548 248 560 Q 232 570 215 580 Q 202 584 193 579 Q 184 572 188 557 Z",
 "M 375 742 Q 396 718 403 651 Q 403 450 387 332 Q 380 296 371 261 Q 341 150 257 -11 Q 253 -18 251 -25 Q 250 -37 260 -33 Q 275 -30 315 29 Q 462 219 463 598 Q 463 664 469 702 Q 478 718 468 732 Q 449 750 414 762 Q 392 772 379 765 Q 367 756 375 742 Z",

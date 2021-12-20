@@ -1,60 +1,138 @@
 {
 "char": "温",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "lukewarm",
 "pron": "wēn"
 },
 "words": [
 [
-"温度",
-4,
-"wēn dù",
-"temperature; CL:個|个[ge4]"
+"气温",
+2,
+"qì wēn",
+"air temperature; CL:个[gè]"
 ],
 [
-"温柔",
-5,
-"wēn róu",
-"gentle and soft; tender"
+"温度",
+2,
+"wēn dù",
+"temperature; CL:个[gè]"
 ],
 [
 "温暖",
-5,
+3,
 "wēn nuǎn",
 "warm"
 ],
 [
+"降温",
+4,
+"jiàng wēn",
+"to become cooler; to lower the temperature; cooling; (of interest, activity etc) to decline"
+],
+[
+"高温",
+5,
+"gāo wēn",
+"high temperature"
+],
+[
 "温和",
-6,
+5,
 "wēn hé",
 "mild; gentle; moderate"
 ],
 [
 "温和",
-6,
+5,
 "wēn huo",
 "lukewarm"
 ],
 [
-"温带",
+"低温",
 6,
-"wēn dài",
-"temperate zone"
+"dī wēn",
+"low temperature"
+],
+[
+"常温",
+7,
+"cháng wēn",
+"room temperature; ordinary temperatures"
+],
+[
+"升温",
+7,
+"shēng wēn",
+"to become hot; temperature rise; (fig.) to intensify; to hot up; to escalate; to get a boost"
+],
+[
+"水温",
+7,
+"shuǐ wēn",
+"water temperature"
+],
+[
+"体温",
+7,
+"tǐ wēn",
+"(body) temperature"
+],
+[
+"温度计",
+7,
+"wēn dù jì",
+"thermometer; thermograph"
+],
+[
+"温泉",
+7,
+"Wēn quán",
+"Arishang Nahiyisi or Wenquan county in Börtala Mongol autonomous prefecture 博爾塔拉蒙古自治州|博尔塔拉蒙古自治州, Xinjiang"
+],
+[
+"温泉",
+7,
+"wēn quán",
+"hot spring; spa; onsen"
+],
+[
+"温柔",
+7,
+"wēn róu",
+"gentle and soft; tender"
+],
+[
+"温室",
+7,
+"wēn shì",
+"greenhouse"
+],
+[
+"温习",
+7,
+"wēn xí",
+"to review (a lesson etc)"
+],
+[
+"温馨",
+7,
+"wēn xīn",
+"comfort; soft and fragrant; warm"
 ]
 ],
 "extraWords": [
 [
-"气温",
-39.08,
-"qì wēn",
-"air temperature; CL:個|个[ge4]"
+"温",
+32.4,
+"Wēn",
+"surname Wen"
 ],
 [
-"温馨",
-24.71,
-"wēn xīn",
-"comfort; soft and fragrant; warm"
+"温",
+32.4,
+"wēn",
+"warm; lukewarm; temperature; to warm up; mild; soft; tender; to review (a lesson etc); fever (TCM); old variant of 瘟[wēn]"
 ],
 [
 "温州",
@@ -63,52 +141,10 @@
 "Wenzhou prefecture level city in Zhejiang"
 ],
 [
-"高温",
-21.46,
-"gāo wēn",
-"high temperature"
-],
-[
 "温家宝",
 18.06,
 "Wēn Jiā bǎo",
 "Wen Jiabao (1942-), Premier of PRC from 2003-2013"
-],
-[
-"降温",
-14.09,
-"jiàng wēn",
-"to become cooler; to lower the temperature; cooling; (of interest, activity etc) to decline"
-],
-[
-"温泉",
-13.05,
-"Wēn quán",
-"Arishang Nahiyisi or Wenquan county in Börtala Mongol autonomous prefecture 博爾塔拉蒙古自治州|博尔塔拉蒙古自治州, Xinjiang"
-],
-[
-"温泉",
-13.05,
-"wēn quán",
-"hot spring; spa; onsen"
-],
-[
-"体温",
-10.25,
-"tǐ wēn",
-"(body) temperature"
-],
-[
-"低温",
-10.07,
-"dī wēn",
-"low temperature"
-],
-[
-"升温",
-7.61,
-"shēng wēn",
-"to become hot; temperature rise; (fig.) to intensify; to hot up; to escalate; to get a boost"
 ],
 [
 "保温",
@@ -127,12 +163,6 @@
 5.65,
 "chóng wēn",
 "to learn sth over again; to review; to brush up; to revive (memories, friendship etc)"
-],
-[
-"温室",
-5.41,
-"wēn shì",
-"greenhouse"
 ]
 ],
 "strokes": [

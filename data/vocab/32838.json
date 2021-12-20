@@ -1,6 +1,6 @@
 {
 "char": "聆",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "listen, hear",
 "pron": "líng"
@@ -12,6 +12,18 @@
 7.31,
 "líng tīng",
 "to listen (respectfully)"
+],
+[
+"聆",
+1.24,
+"líng",
+"to hear; to listen; to understand clearly"
+],
+[
+"聆听者",
+0.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

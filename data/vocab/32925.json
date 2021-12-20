@@ -1,18 +1,25 @@
 {
 "char": "肝",
-"level": 7,
+"level": "6",
 "info": {
 "gloss": "liver",
 "pron": "gān"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"肝",
+6,
+"gān",
+"liver; CL:叶[yè],个[gè]; (slang) to put in long hours, typically late into the night, playing (a video game); (of a video game) grindy; repetitive"
+],
 [
 "肝脏",
-11.06,
+7,
 "gān zàng",
 "liver"
+]
 ],
+"extraWords": [
 [
 "肝癌",
 8.3,

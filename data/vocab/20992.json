@@ -1,6 +1,6 @@
 {
 "char": "刀",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "knife; old coin; measure",
 "pron": "dāo"
@@ -8,21 +8,21 @@
 "words": [
 [
 "刀",
-4,
+3,
 "Dāo",
 "surname Dao"
 ],
 [
 "刀",
-4,
+3,
 "dāo",
-"knife; blade; single-edged sword; cutlass; CL:把[ba3]; (slang) dollar (loanword); classifier for sets of one hundred sheets (of paper); classifier for knife cuts or stabs"
+"knife; blade; single-edged sword; cutlass; CL:把[bǎ]; (slang) dollar (loanword); classifier for sets of one hundred sheets (of paper); classifier for knife cuts or stabs"
 ],
 [
 "剪刀",
 5,
 "jiǎn dāo",
-"scissors; CL:把[ba3]"
+"scissors; CL:把[bǎ]"
 ]
 ],
 "extraWords": [
@@ -30,13 +30,13 @@
 "刀子",
 10.46,
 "dāo zi",
-"knife; CL:把[ba3]"
+"knife; CL:把[bǎ]"
 ],
 [
 "菜刀",
 5.63,
 "cài dāo",
-"vegetable knife; kitchen knife; cleaver; CL:把[ba3]"
+"vegetable knife; kitchen knife; cleaver; CL:把[bǎ]"
 ]
 ],
 "strokes": [

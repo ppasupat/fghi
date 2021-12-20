@@ -1,6 +1,6 @@
 {
 "char": "革",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "leather, animal hides; rad. 177",
 "pron": "gé"
@@ -10,34 +10,34 @@
 "改革",
 5,
 "gǎi gé",
-"reform; CL:次[ci4],種|种[zhong3],項|项[xiang4]; to reform"
+"reform; CL:次[cì],种[zhǒng],项[xiàng]; to reform"
 ],
 [
-"革命",
+"革新",
 6,
-"gé mìng",
-"to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning); revolution; revolutionary; to revolt (against sb or sth); to revolutionize (sth); (separable verb sometimes used in the pattern 革noun的命); CL:次[ci4]"
+"gé xīn",
+"to innovate; innovation"
 ],
 [
-"皮革",
-6,
-"pí gé",
-"leather; CL:張|张[zhang1]"
-]
+"变革",
+7,
+"biàn gé",
+"to transform; to change"
 ],
-"extraWords": [
 [
 "改革开放",
-33.41,
+7,
 "gǎi gé kāi fàng",
 "to reform and open to the outside world; refers to Deng Xiaoping's policies from around 1980"
 ],
 [
-"变革",
-17.75,
-"biàn gé",
-"to transform; to change"
+"革命",
+7,
+"gé mìng",
+"to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning); revolution; revolutionary; to revolt (against sb or sth); to revolutionize (sth); (separable verb sometimes used in the pattern 革noun的命); CL:次[cì]"
+]
 ],
+"extraWords": [
 [
 "文化大革命",
 13.61,
@@ -51,16 +51,16 @@
 "counterrevolutionary"
 ],
 [
-"革新",
-10.34,
-"gé xīn",
-"to innovate; innovation"
+"革",
+8.35,
+"gé",
+"animal hide; leather; to reform; to remove; to expel (from office)"
 ],
 [
 "文革",
 8.23,
 "Wén gé",
-"Cultural Revolution (1966-76) (abbr. for 文化大革命[Wen2 hua4 Da4 ge2 ming4])"
+"Cultural Revolution (1966-76) (abbr. for 文化大革命[Wén huà Dà gé mìng])"
 ]
 ],
 "strokes": [

@@ -1,12 +1,31 @@
 {
 "char": "桂",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "cassia or cinnamon",
 "pron": "guì"
 },
-"words": [],
+"words": [
+[
+"桂花",
+7,
+"guì huā",
+"osmanthus flowers; Osmanthus fragrans"
+]
+],
 "extraWords": [
+[
+"桂",
+15.79,
+"Guì",
+"surname Gui; abbr. for Guangxi Autonomous Region 广西壮族自治区[Guǎng xī Zhuàng zú Zì zhì qū]"
+],
+[
+"桂",
+15.79,
+"guì",
+"cassia; laurel"
+],
 [
 "桂林",
 8.25,

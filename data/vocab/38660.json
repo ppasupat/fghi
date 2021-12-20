@@ -1,12 +1,31 @@
 {
 "char": "霄",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "sky; clouds, mist; night",
 "pron": "xiāo"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"云霄",
+2.38,
+"Yún xiāo",
+"Yunxiao county in Zhangzhou 漳州[Zhāng zhōu], Fujian"
+],
+[
+"云霄",
+2.38,
+"yún xiāo",
+"(the) skies"
+],
+[
+"霄",
+2.1,
+"xiāo",
+"firmament; heaven"
+]
+],
 "strokes": [
 "M 513 779 Q 670 809 674 810 Q 681 817 678 825 Q 672 835 646 844 Q 622 850 538 827 Q 457 809 390 805 Q 356 801 379 785 Q 418 760 468 772 Q 469 773 473 772 L 513 779 Z",
 "M 255 677 Q 246 693 238 700 Q 219 713 217 688 Q 221 658 179 601 Q 134 558 163 495 Q 178 468 198 496 Q 217 521 230 562 Q 248 611 260 639 Q 261 643 262 648 C 265 661 265 661 255 677 Z",

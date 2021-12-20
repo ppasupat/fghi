@@ -1,6 +1,6 @@
 {
 "char": "电",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "electricity; electric; lightning",
 "pron": "diàn"
@@ -13,108 +13,252 @@
 "to make a telephone call"
 ],
 [
-"电影",
+"电",
 1,
-"diàn yǐng",
-"movie; film; CL:部[bu4],片[pian4],幕[mu4],場|场[chang3]"
+"diàn",
+"lightning; electricity; electric (bound form); to get (or give) an electric shock; phone call or telegram etc; to send via telephone or telegram etc"
 ],
 [
-"电视",
+"电话",
 1,
-"diàn shì",
-"television; TV; CL:臺|台[tai2],個|个[ge4]"
+"diàn huà",
+"telephone; CL:部[bù]; phone call; CL:通[tōng]; phone number"
 ],
 [
 "电脑",
 1,
 "diàn nǎo",
-"computer; CL:臺|台[tai2]"
+"computer; CL:台[tái]"
+],
+[
+"电视",
+1,
+"diàn shì",
+"television; TV; CL:台[tái],个[gè]"
+],
+[
+"电视机",
+1,
+"diàn shì jī",
+"television set; CL:台[tái]"
+],
+[
+"电影",
+1,
+"diàn yǐng",
+"movie; film; CL:部[bù],片[piàn],幕[mù],场[chǎng]"
+],
+[
+"电影院",
+1,
+"diàn yǐng yuàn",
+"cinema; movie theater; CL:家[jiā],座[zuò]"
+],
+[
+"电视剧",
+3,
+"diàn shì jù",
+"TV series; TV drama; CL:部[bù]"
+],
+[
+"电视台",
+3,
+"diàn shì tái",
+"television station; CL:个[gè]"
+],
+[
+"电台",
+3,
+"diàn tái",
+"transmitter-receiver; broadcasting station; radio station; CL:个[gè],家[jiā]"
 ],
 [
 "电子邮件",
 3,
 "diàn zǐ yóu jiàn",
-"email; CL:封[feng1],份[fen4]"
+"email; CL:封[fēng],份[fèn]"
+],
+[
+"充电",
+4,
+"chōng diàn",
+"to recharge (a battery); (fig.) to recharge one's batteries (through leisure); to update one's skills and knowledge"
+],
+[
+"充电器",
+4,
+"chōng diàn qì",
+"battery charger"
+],
+[
+"电灯",
+4,
+"diàn dēng",
+"electric light; CL:盏[zhǎn]"
+],
+[
+"电动车",
+4,
+"???",
+"???"
 ],
 [
 "电梯",
-3,
+4,
 "diàn tī",
-"elevator; escalator; CL:臺|台[tai2],部[bu4]"
+"elevator; escalator; CL:台[tái],部[bù]"
 ],
 [
-"电台",
-5,
-"diàn tái",
-"transmitter-receiver; broadcasting station; radio station; CL:個|个[ge4],家[jia1]"
+"电源",
+4,
+"diàn yuán",
+"electric power source"
 ],
 [
 "闪电",
-5,
+4,
 "shǎn diàn",
-"lightning; CL:道[dao4]"
+"lightning; CL:道[dào]"
 ],
 [
 "电池",
 5,
 "diàn chí",
-"battery; CL:節|节[jie2],組|组[zu3]"
+"battery; CL:节[jié],组[zǔ]"
 ],
 [
-"充电器",
+"电饭锅",
 5,
-"chōng diàn qì",
-"battery charger"
+"diàn fàn guō",
+"electric rice cooker"
 ],
 [
-"电源",
+"电子版",
+5,
+"diàn zǐ bǎn",
+"electronic edition; digital version"
+],
+[
+"电车",
 6,
-"diàn yuán",
-"electric power source"
+"diàn chē",
+"trolleybus; CL:辆[liàng]"
+],
+[
+"电动",
+6,
+"diàn dòng",
+"electric-powered; (Tw) video game"
+],
+[
+"电力",
+6,
+"diàn lì",
+"electrical power; electricity"
+],
+[
+"电器",
+6,
+"diàn qì",
+"(electrical) appliance; device"
+],
+[
+"发电",
+6,
+"fā diàn",
+"to generate electricity; to send a telegram"
+],
+[
+"家电",
+6,
+"jiā diàn",
+"household electric appliance; abbr. for 家用電器|家用电器"
+],
+[
+"彩电",
+7,
+"cǎi diàn",
+"color TV"
+],
+[
+"电报",
+7,
+"diàn bào",
+"telegram; cable; telegraph; CL:封[fēng],份[fèn]"
+],
+[
+"电铃",
+7,
+"diàn líng",
+"electric bell"
+],
+[
+"电网",
+7,
+"diàn wǎng",
+"electrical network"
+],
+[
+"电线",
+7,
+"diàn xiàn",
+"wire; power cord; CL:根[gēn]"
+],
+[
+"电信",
+7,
+"diàn xìn",
+"telecommunications"
+],
+[
+"电讯",
+7,
+"diàn xùn",
+"telecommunications; telecom"
+],
+[
+"发电机",
+7,
+"fā diàn jī",
+"electricity generator; dynamo"
+],
+[
+"核电站",
+7,
+"hé diàn zhàn",
+"nuclear power plant"
+],
+[
+"贺电",
+7,
+"hè diàn",
+"congratulatory telegram"
+],
+[
+"来电",
+7,
+"lái diàn",
+"incoming telephone call (or telegram); to phone in; to send in a telegram; to have an instant attraction to sb; to come back (of electricity, after an outage)"
+],
+[
+"停电",
+7,
+"tíng diàn",
+"to have a power failure; power cut"
+],
+[
+"无线电",
+7,
+"wú xiàn diàn",
+"wireless"
 ]
 ],
 "extraWords": [
-[
-"电话",
-547.72,
-"diàn huà",
-"telephone; CL:部[bu4]; phone call; CL:通[tong1]; phone number"
-],
 [
 "电子",
 116.68,
 "diàn zǐ",
 "electronic; electron (particle physics)"
-],
-[
-"电力",
-49.83,
-"diàn lì",
-"electrical power; electricity"
-],
-[
-"电信",
-47.85,
-"diàn xìn",
-"telecommunications"
-],
-[
-"电视剧",
-34.2,
-"diàn shì jù",
-"TV series; TV drama; CL:部[bu4]"
-],
-[
-"电器",
-26.4,
-"diàn qì",
-"(electrical) appliance; device"
-],
-[
-"电视台",
-24.7,
-"diàn shì tái",
-"television station; CL:個|个[ge4]"
 ],
 [
 "供电",
@@ -123,28 +267,10 @@
 "to supply electricity"
 ],
 [
-"发电",
-16.18,
-"fā diàn",
-"to generate electricity; to send a telegram"
-],
-[
-"电动",
-15.59,
-"diàn dòng",
-"electric-powered; (Tw) video game"
-],
-[
-"无线电",
-15.47,
-"wú xiàn diàn",
-"wireless"
-],
-[
-"电网",
-14.84,
-"diàn wǎng",
-"electrical network"
+"专电",
+15.07,
+"???",
+"???"
 ],
 [
 "中央电视台",
@@ -153,22 +279,10 @@
 "China Central Television (CCTV), PRC state TV network"
 ],
 [
-"彩电",
-13.88,
-"cǎi diàn",
-"color TV"
-],
-[
-"来电",
-12.97,
-"lái diàn",
-"incoming telephone call (or telegram); to phone in; to send in a telegram; to have an instant attraction to sb; to come back (of electricity, after an outage)"
-],
-[
-"电视机",
-12.13,
-"diàn shì jī",
-"television set; CL:臺|台[tai2]"
+"用电",
+13.86,
+"???",
+"???"
 ],
 [
 "水电",
@@ -180,7 +294,7 @@
 "电影节",
 11.39,
 "diàn yǐng jié",
-"film festival; CL:屆|届[jie4]"
+"film festival; CL:届[jiè]"
 ],
 [
 "广电",
@@ -207,18 +321,6 @@
 "to phone; to telegram"
 ],
 [
-"充电",
-9.79,
-"chōng diàn",
-"to recharge (a battery); (fig.) to recharge one's batteries (through leisure); to update one's skills and knowledge"
-],
-[
-"电影院",
-9.72,
-"diàn yǐng yuàn",
-"cinema; movie theater; CL:家[jia1],座[zuo4]"
-],
-[
 "电压",
 9.64,
 "diàn yā",
@@ -231,12 +333,6 @@
 "machinery and power-generating equipment; electromechanical"
 ],
 [
-"停电",
-9.13,
-"tíng diàn",
-"to have a power failure; power cut"
-],
-[
 "电流",
 9.02,
 "diàn liú",
@@ -247,12 +343,6 @@
 8.99,
 "diàn qì",
 "electricity; electric; electrical"
-],
-[
-"电线",
-8.82,
-"diàn xiàn",
-"wire; power cord; CL:根[gen1]"
 ],
 [
 "电击",
@@ -303,10 +393,10 @@
 "cable television"
 ],
 [
-"电报",
-6.41,
-"diàn bào",
-"telegram; cable; telegraph; CL:封[feng1],份[fen4]"
+"电话号码",
+6.72,
+"???",
+"???"
 ],
 [
 "电站",
@@ -321,22 +411,16 @@
 "to call sb back (on the phone); a return call; to reply to a telegram; to wire back; a reply telegram"
 ],
 [
-"发电机",
-5.57,
-"fā diàn jī",
-"electricity generator; dynamo"
+"接电话",
+5.7,
+"???",
+"???"
 ],
 [
 "电磁",
 5.34,
 "diàn cí",
 "electromagnetic"
-],
-[
-"电讯",
-5.31,
-"diàn xùn",
-"telecommunications; telecom"
 ],
 [
 "电极",

@@ -1,73 +1,115 @@
 {
 "char": "条",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "clause, condition; string, stripe",
 "pron": "tiáo"
 },
 "words": [
 [
-"面条",
-2,
-"miàn tiáo",
-"noodles"
+"面条儿",
+1,
+"miàn tiáo r5",
+"erhua variant of 面条[miàn tiáo]"
 ],
 [
 "条",
-3,
+2,
 "tiáo",
 "strip; item; article; clause (of law or treaty); classifier for long thin things (ribbon, river, road, trousers etc)"
 ],
 [
 "条件",
-4,
+2,
 "tiáo jiàn",
-"condition; circumstances; term; factor; requirement; prerequisite; qualification; CL:個|个[ge4]"
+"condition; circumstances; term; factor; requirement; prerequisite; qualification; CL:个[gè]"
+],
+[
+"便条",
+5,
+"biàn tiáo",
+"(informal) note; CL:张[zhāng],个[gè]"
+],
+[
+"薯条",
+6,
+"shǔ tiáo",
+"french fries; french fried potatoes; chips"
+],
+[
+"教条",
+7,
+"jiào tiáo",
+"doctrine; dogma; creed; dogmatic"
+],
+[
+"借条",
+7,
+"jiè tiáo",
+"receipt for a loan; IOU"
 ],
 [
 "苗条",
-5,
+7,
 "miáo tiao",
 "(of a woman) slim; slender; graceful"
 ],
 [
+"欠条",
+7,
+"qiàn tiáo",
+"IOU; certificate of indebtedness"
+],
+[
 "条款",
-6,
+7,
 "tiáo kuǎn",
-"clause (of contract or law); CL:項|项[xiang4]"
+"clause (of contract or law); CL:项[xiàng]"
 ],
-[
-"条约",
-6,
-"tiáo yuē",
-"treaty; pact; CL:個|个[ge4]"
-],
-[
-"便条",
-6,
-"biàn tiáo",
-"(informal) note; CL:張|张[zhang1],個|个[ge4]"
-],
-[
-"条理",
-6,
-"tiáo lǐ",
-"arrangement; order; tidiness"
-],
-[
-"有条不紊",
-6,
-"yǒu tiáo bù wěn",
-"regular and thorough (idiom); methodically arranged"
-]
-],
-"extraWords": [
 [
 "条例",
-44.08,
+7,
 "tiáo lì",
 "regulations; rules; code of conduct; ordinances; statutes"
 ],
+[
+"条约",
+7,
+"tiáo yuē",
+"treaty; pact; CL:个[gè]"
+],
+[
+"头条",
+7,
+"Tóu tiáo",
+"Toutiao, personalized content recommendation app (abbr. for 今日头条[Jīn rì Tóu tiáo])"
+],
+[
+"头条",
+7,
+"tóu tiáo",
+"lead story (on the news)"
+],
+[
+"无条件",
+7,
+"wú tiáo jiàn",
+"unconditional"
+],
+[
+"线条",
+7,
+"xiàn tiáo",
+"line (in drawing, calligraphy etc); the lines or contours of a three-dimensional object (hairstyle, clothing, car etc)"
+],
+[
+"萧条",
+7,
+"xiāo tiáo",
+"bleak; desolate; (economic) depression or slump"
+]
+],
+"extraWords": [
 [
 "条子",
 12.25,
@@ -81,16 +123,10 @@
 "slip of paper"
 ],
 [
-"线条",
-11.73,
-"xiàn tiáo",
-"line (in drawing, calligraphy etc); the lines or contours of a three-dimensional object (hairstyle, clothing, car etc)"
-],
-[
-"薯条",
-10.82,
-"shǔ tiáo",
-"french fries; french fried potatoes; chips"
+"面条",
+8.79,
+"miàn tiáo",
+"noodles"
 ],
 [
 "条纹",
@@ -99,16 +135,16 @@
 "stripe"
 ],
 [
-"无条件",
-6.15,
-"wú tiáo jiàn",
-"unconditional"
+"第一条",
+6.57,
+"???",
+"???"
 ],
 [
 "链条",
 5.59,
 "liàn tiáo",
-"chain; CL:根[gen1],條|条[tiao2]"
+"chain; CL:根[gēn],条[tiáo]"
 ]
 ],
 "strokes": [

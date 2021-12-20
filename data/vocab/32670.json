@@ -1,6 +1,6 @@
 {
 "char": "羞",
-"level": 4,
+"level": "7",
 "info": {
 "gloss": "disgrace, shame; ashamed; shy",
 "pron": "xiū"
@@ -8,15 +8,21 @@
 "words": [
 [
 "害羞",
-4,
+7,
 "hài xiū",
 "shy; embarrassed; bashful"
 ],
 [
-"羞耻",
-6,
-"xiū chǐ",
-"(a feeling of) shame"
+"恼羞成怒",
+7,
+"nǎo xiū chéng nù",
+"to fly into a rage out of humiliation; to be ashamed into anger (idiom)"
+],
+[
+"羞愧",
+7,
+"xiū kuì",
+"ashamed"
 ]
 ],
 "extraWords": [
@@ -27,10 +33,16 @@
 "to humiliate; to shame; humiliation; indignity"
 ],
 [
-"羞愧",
-10.4,
-"xiū kuì",
-"ashamed"
+"羞耻",
+11.66,
+"xiū chǐ",
+"(a feeling of) shame"
+],
+[
+"羞",
+7.98,
+"xiū",
+"shy; ashamed; shame; bashful; variant of 馐[xiū]; delicacies"
 ],
 [
 "羞涩",

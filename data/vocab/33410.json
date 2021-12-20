@@ -1,70 +1,112 @@
 {
 "char": "节",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "knot, node, joint; section",
 "pron": "jiē, jié"
 },
 "words": [
 [
+"春节",
+2,
+"Chūn jié",
+"Spring Festival (Chinese New Year)"
+],
+[
+"节",
+2,
+"jiē",
+"see 节骨眼[jiē gu yǎn]"
+],
+[
+"节",
+2,
+"jié",
+"festival; holiday; node; joint; section; segment; part; to economize; to save; to abridge; moral integrity; classifier for segments, e.g. lessons, train wagons, biblical verses; CL:个[gè]"
+],
+[
 "节目",
-3,
+2,
 "jié mù",
-"program; item (on a program); CL:臺|台[tai2],個|个[ge4],套[tao4]"
+"program; item (on a program); CL:台[tái],个[gè],套[tào]"
 ],
 [
 "节日",
-3,
+2,
 "jié rì",
-"holiday; festival; CL:個|个[ge4]"
+"holiday; festival; CL:个[gè]"
 ],
 [
-"季节",
-3,
-"jì jié",
-"time; season; period; CL:個|个[ge4]"
-],
-[
-"节",
-4,
-"jiē",
-"see 節骨眼|节骨眼[jie1 gu5 yan3]"
-],
-[
-"节",
-4,
-"jié",
-"festival; holiday; node; joint; section; segment; part; to economize; to save; to abridge; moral integrity; classifier for segments, e.g. lessons, train wagons, biblical verses; CL:個|个[ge4]"
+"音节",
+2,
+"yīn jié",
+"syllable"
 ],
 [
 "节约",
-4,
+3,
 "jié yuē",
 "to economize; to conserve (resources); economy; frugal"
 ],
 [
-"细节",
-5,
-"xì jié",
-"details; particulars"
+"季节",
+4,
+"jì jié",
+"time; season; period; CL:个[gè]"
 ],
 [
 "节省",
-5,
+4,
 "jié shěng",
 "saving; to save; to use sparingly; to cut down on"
 ],
 [
-"国庆节",
-5,
-"Guó qìng jié",
-"PRC National Day (October 1st)"
+"细节",
+4,
+"xì jié",
+"details; particulars"
 ],
 [
 "环节",
-6,
+5,
 "huán jié",
 "(zoology) segment (of the body of a worm, centipede etc); (fig.) a part of an integrated whole: aspect (of a project), element (of a policy), sector (of the economy), stage (of a process) etc"
+],
+[
+"情节",
+5,
+"qíng jié",
+"plot; circumstances"
+],
+[
+"调节",
+5,
+"tiáo jié",
+"to adjust; to regulate; to harmonize; to reconcile (accountancy etc)"
+],
+[
+"中秋节",
+5,
+"Zhōng qiū jié",
+"the Mid-Autumn Festival on 15th of 8th lunar month"
+],
+[
+"端午节",
+6,
+"Duān wǔ jié",
+"Dragon Boat Festival (5th day of the 5th lunar month)"
+],
+[
+"节假日",
+6,
+"jié jià rì",
+"public holiday"
+],
+[
+"节能",
+6,
+"jié néng",
+"to save energy; energy-saving"
 ],
 [
 "节奏",
@@ -73,67 +115,85 @@
 "rhythm; tempo; musical pulse; cadence; beat"
 ],
 [
-"情节",
+"清明节",
 6,
-"qíng jié",
-"plot; circumstances"
-],
-[
-"调节",
-6,
-"tiáo jié",
-"to adjust; to regulate; to harmonize; to reconcile (accountancy etc)"
-],
-[
-"礼节",
-6,
-"lǐ jié",
-"etiquette"
-],
-[
-"元宵节",
-6,
-"Yuán xiāo jié",
-"Lantern Festival, the final event of the Spring Festival 春節|春节, on 15th of first month of the lunar calendar"
-],
-[
-"节制",
-6,
-"jié zhì",
-"to control; to restrict; to moderate; to temper; moderation; sobriety; to administer"
-],
-[
-"端午节",
-6,
-"Duān wǔ jié",
-"Dragon Boat Festival (5th day of the 5th lunar month)"
-]
-],
-"extraWords": [
-[
-"春节",
-71.06,
-"Chūn jié",
-"Spring Festival (Chinese New Year)"
+"Qīng míng jié",
+"Qingming or Pure Brightness Festival or Tomb Sweeping Day, celebration for the dead (in early April)"
 ],
 [
 "圣诞节",
-49.54,
+6,
 "Shèng dàn jié",
 "Christmas time; Christmas season; Christmas"
 ],
 [
-"节能",
-31.6,
-"jié néng",
-"to save energy; energy-saving"
+"时节",
+6,
+"shí jié",
+"season; time"
 ],
 [
 "关节",
-16.96,
+7,
 "guān jié",
 "joint (physiology); key point; critical phase"
 ],
+[
+"过节",
+7,
+"guò jié",
+"to celebrate a festival; after the celebrations (i.e. once the festival is over)"
+],
+[
+"佳节",
+7,
+"jiā jié",
+"festive day; holiday"
+],
+[
+"节俭",
+7,
+"jié jiǎn",
+"frugal; economical"
+],
+[
+"节气",
+7,
+"jié qi",
+"solar term"
+],
+[
+"节水",
+7,
+"jié shuǐ",
+"to save water"
+],
+[
+"节衣缩食",
+7,
+"jié yī suō shí",
+"to save on food and clothing (idiom); to live frugally"
+],
+[
+"狂欢节",
+7,
+"kuáng huān jié",
+"carnival"
+],
+[
+"脱节",
+7,
+"tuō jié",
+"to come apart"
+],
+[
+"元宵节",
+7,
+"Yuán xiāo jié",
+"Lantern Festival, the final event of the Spring Festival 春節|春节, on 15th of first month of the lunar calendar"
+]
+],
+"extraWords": [
 [
 "感恩节",
 16.66,
@@ -150,25 +210,31 @@
 "电影节",
 11.39,
 "diàn yǐng jié",
-"film festival; CL:屆|届[jie4]"
+"film festival; CL:届[jiè]"
 ],
 [
-"过节",
-11.05,
-"guò jié",
-"to celebrate a festival; after the celebrations (i.e. once the festival is over)"
+"第一节",
+11.13,
+"???",
+"???"
 ],
 [
-"节假日",
-7.68,
-"jié jià rì",
-"public holiday"
+"第二节",
+10.89,
+"???",
+"???"
 ],
 [
-"节水",
-7.45,
-"jié shuǐ",
-"to save water"
+"第四节",
+10.76,
+"???",
+"???"
+],
+[
+"第三节",
+10.58,
+"???",
+"???"
 ],
 [
 "电视节目",
@@ -177,16 +243,16 @@
 "television program"
 ],
 [
-"时节",
-6.92,
-"shí jié",
-"season; time"
-],
-[
 "节点",
 6.01,
 "jié diǎn",
 "node"
+],
+[
+"节后",
+5.66,
+"???",
+"???"
 ],
 [
 "复活节",

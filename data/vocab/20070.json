@@ -1,85 +1,163 @@
 {
 "char": "书",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "book, letter, document; writings",
 "pron": "shū"
 },
 "words": [
 [
+"读书",
+1,
+"dú shū",
+"to read a book; to study; to attend school"
+],
+[
 "书",
 1,
 "Shū",
-"abbr. for 書經|书经[Shu1 jing1]"
+"abbr. for 书经[Shū jīng]"
 ],
 [
 "书",
 1,
 "shū",
-"book; letter; document; CL:本[ben3],冊|册[ce4],部[bu4]; to write"
+"book; letter; document; CL:本[běn],册[cè],部[bù]; to write"
+],
+[
+"书包",
+1,
+"shū bāo",
+"schoolbag; satchel; bookbag; CL:个[gè],只[zhī]"
+],
+[
+"书店",
+1,
+"shū diàn",
+"bookstore; CL:家[jiā]"
 ],
 [
 "图书馆",
-3,
+1,
 "tú shū guǎn",
-"library; CL:家[jia1],個|个[ge4]"
+"library; CL:家[jiā],个[gè]"
+],
+[
+"书架",
+3,
+"shū jià",
+"bookshelf; CL:个[gè]"
 ],
 [
 "秘书",
-5,
+4,
 "mì shū",
 "secretary"
 ],
 [
-"书架",
-5,
-"shū jià",
-"bookshelf; CL:個|个[ge4]"
-],
-[
-"书面",
-6,
-"shū miàn",
-"in writing; written"
-],
-[
-"证书",
-6,
-"zhèng shū",
-"credentials; certificate"
-],
-[
-"书籍",
-6,
-"shū jí",
-"books; works"
+"通知书",
+4,
+"tōng zhī shū",
+"written notice"
 ],
 [
 "书法",
-6,
+5,
 "shū fǎ",
 "calligraphy; handwriting; penmanship"
 ],
 [
-"书记",
-6,
-"shū ji",
-"secretary (chief official of a branch of a socialist or communist party); clerk; scribe"
-]
+"书柜",
+5,
+"shū guì",
+"bookcase"
 ],
-"extraWords": [
 [
-"读书",
-39.61,
-"dú shū",
-"to read a book; to study; to attend school"
+"书桌",
+5,
+"shū zhuō",
+"desk; CL:张[zhāng]"
+],
+[
+"协议书",
+5,
+"xié yì shū",
+"contract; protocol"
+],
+[
+"证书",
+5,
+"zhèng shū",
+"credentials; certificate"
+],
+[
+"书房",
+6,
+"shū fáng",
+"study (room); studio; CL:间[jiān]"
+],
+[
+"说明书",
+6,
+"shuō míng shū",
+"(technical) manual; (book of) directions; synopsis (of a play or film); specification (patent); CL:本[běn]"
 ],
 [
 "图书",
-24.39,
+6,
 "tú shū",
-"books (in a library or bookstore); CL:本[ben3],冊|册[ce4],部[bu4]"
+"books (in a library or bookstore); CL:本[běn],册[cè],部[bù]"
 ],
+[
+"百科全书",
+7,
+"bǎi kē quán shū",
+"encyclopedia; CL:本[běn],集[jí]"
+],
+[
+"教科书",
+7,
+"jiào kē shū",
+"textbook; CL:本[běn]"
+],
+[
+"念书",
+7,
+"niàn shū",
+"to read; to study"
+],
+[
+"书橱",
+7,
+"shū chú",
+"bookcase"
+],
+[
+"书籍",
+7,
+"shū jí",
+"books; works"
+],
+[
+"书记",
+7,
+"shū ji",
+"secretary (chief official of a branch of a socialist or communist party); clerk; scribe"
+],
+[
+"书面",
+7,
+"shū miàn",
+"in writing; written"
+],
+[
+"书写",
+7,
+"shū xiě",
+"to write"
+]
+],
+"extraWords": [
 [
 "秘书长",
 23.33,
@@ -105,46 +183,10 @@
 "general secretary (of the Communist Party)"
 ],
 [
-"书店",
-11.48,
-"shū diàn",
-"bookstore; CL:家[jia1]"
-],
-[
-"说明书",
-11.28,
-"shuō míng shū",
-"(technical) manual; (book of) directions; synopsis (of a play or film); specification (patent); CL:本[ben3]"
-],
-[
-"书写",
-9.5,
-"shū xiě",
-"to write"
-],
-[
-"通知书",
-8.63,
-"tōng zhī shū",
-"written notice"
-],
-[
-"教科书",
-7.94,
-"jiào kē shū",
-"textbook; CL:本[ben3]"
-],
-[
 "书画",
 7.62,
 "shū huà",
 "painting and calligraphy"
-],
-[
-"书房",
-7.46,
-"shū fáng",
-"study (room); studio; CL:間|间[jian1]"
 ],
 [
 "副秘书长",
@@ -153,10 +195,10 @@
 "vice-secretary"
 ],
 [
-"书包",
-6.52,
-"shū bāo",
-"schoolbag; satchel; bookbag; CL:個|个[ge4],隻|只[zhi1]"
+"一本书",
+6.63,
+"???",
+"???"
 ],
 [
 "教书",
@@ -180,7 +222,7 @@
 "尚书",
 5.36,
 "Shàng shū",
-"same as 書經|书经[Shu1 jing1] Book of History"
+"same as 书经[Shū jīng] Book of History"
 ],
 [
 "尚书",
@@ -195,10 +237,22 @@
 "bookworm; pedant; bookish fool"
 ],
 [
+"新书",
+5.28,
+"???",
+"???"
+],
+[
 "书本",
 5.19,
 "shū běn",
-"book; CL:本[ben3]"
+"book; CL:本[běn]"
+],
+[
+"本书",
+5.01,
+"???",
+"???"
 ]
 ],
 "strokes": [

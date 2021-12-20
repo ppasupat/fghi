@@ -1,6 +1,6 @@
 {
 "char": "辩",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "dispute, argue, debate, discuss",
 "pron": "biàn"
@@ -8,36 +8,43 @@
 "words": [
 [
 "辩论",
-5,
+4,
 "biàn lùn",
-"debate; argument; to argue over; CL:場|场[chang3],次[ci4]"
+"debate; argument; to argue over; CL:场[chǎng],次[cì]"
+],
+[
+"辩",
+7,
+"biàn",
+"to dispute; to debate; to argue; to discuss"
 ],
 [
 "辩护",
-6,
+7,
 "biàn hù",
 "to speak in defense of; to argue in favor of; to defend; to plead"
 ],
 [
 "辩解",
-6,
+7,
 "biàn jiě",
 "to explain; to justify; to defend (a point of view etc); to provide an explanation; to try to defend oneself"
 ],
 [
 "答辩",
-6,
+7,
 "dá biàn",
 "to reply (to an accusation); to defend one's dissertation"
-],
-[
-"辩证",
-6,
-"biàn zhèng",
-"to investigate; dialectical"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"辩护律师",
+9.57,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 240 777 Q 262 759 286 737 Q 299 725 314 727 Q 324 728 329 740 Q 333 755 323 783 Q 311 810 233 823 Q 218 826 212 823 Q 208 819 209 807 Q 213 797 240 777 Z",
 "M 165 655 Q 137 648 158 636 Q 188 621 269 641 Q 312 653 360 665 Q 388 672 392 677 Q 399 684 395 691 Q 388 700 365 704 Q 340 708 317 697 Q 286 684 250 673 Q 211 661 165 655 Z",

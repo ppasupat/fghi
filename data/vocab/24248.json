@@ -1,22 +1,28 @@
 {
 "char": "庸",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "usual, common, ordinary, mediocre",
 "pron": "yōng"
 },
 "words": [
 [
-"平庸",
-6,
-"píng yōng",
-"mediocre; indifferent; commonplace"
-],
-[
 "庸俗",
-6,
+7,
 "yōng sú",
 "vulgar; tacky; tawdry"
+],
+[
+"中庸",
+7,
+"Zhōng yōng",
+"the Doctrine of the Mean, one of the Four Books 四书[Sì shū]"
+],
+[
+"中庸",
+7,
+"zhōng yōng",
+"golden mean (Confucianism); (literary) (of person) mediocre; ordinary"
 ]
 ],
 "extraWords": [],

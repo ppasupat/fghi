@@ -1,22 +1,22 @@
 {
 "char": "奋",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "strive, exert effort; arouse",
 "pron": "fèn"
 },
 "words": [
 [
+"奋斗",
+4,
+"fèn dòu",
+"to strive; to struggle"
+],
+[
 "兴奋",
 4,
 "xīng fèn",
 "excited; excitement; (physiology) excitation"
-],
-[
-"奋斗",
-5,
-"fèn dòu",
-"to strive; to struggle"
 ],
 [
 "勤奋",
@@ -25,36 +25,42 @@
 "hardworking; diligent"
 ],
 [
+"奋力",
+7,
+"fèn lì",
+"to do everything one can; to spare no effort; to strive"
+],
+[
+"奋勇",
+7,
+"fèn yǒng",
+"dauntless; to summon up courage and determination; using extreme force of will"
+],
+[
+"艰苦奋斗",
+7,
+"jiān kǔ fèn dòu",
+"to struggle arduously"
+],
+[
+"兴奋剂",
+7,
+"xīng fèn jì",
+"stimulant; doping (in athletics)"
+],
+[
 "振奋",
-6,
+7,
 "zhèn fèn",
 "to stir oneself up; to raise one's spirits; to inspire"
 ]
 ],
 "extraWords": [
 [
-"艰苦奋斗",
-7.71,
-"jiān kǔ fèn dòu",
-"to struggle arduously"
-],
-[
-"奋力",
-7.56,
-"fèn lì",
-"to do everything one can; to spare no effort; to strive"
-],
-[
 "奋战",
 6.6,
 "fèn zhàn",
 "to fight bravely; (fig.) to struggle; to work hard"
-],
-[
-"兴奋剂",
-5.05,
-"xīng fèn jì",
-"stimulant; doping (in athletics)"
 ]
 ],
 "strokes": [

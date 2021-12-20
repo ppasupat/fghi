@@ -1,19 +1,31 @@
 {
 "char": "巢",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "nest, living quarter in tree",
 "pron": "cháo"
 },
 "words": [
 [
-"巢穴",
-6,
-"cháo xué",
-"lair; nest; den; hideout"
+"鸟巢",
+7,
+"niǎo cháo",
+"bird's nest; nickname for Beijing 2008 Olympic stadium"
 ]
 ],
 "extraWords": [
+[
+"巢",
+10.92,
+"Cháo",
+"surname Chao"
+],
+[
+"巢",
+10.92,
+"cháo",
+"nest"
+],
 [
 "卵巢",
 7.29,

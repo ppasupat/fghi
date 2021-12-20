@@ -1,6 +1,6 @@
 {
 "char": "哭",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "weep, cry, wail",
 "pron": "kū"
@@ -8,15 +8,21 @@
 "words": [
 [
 "哭",
-3,
+2,
 "kū",
 "to cry; to weep"
 ],
 [
 "哭泣",
-6,
+7,
 "kū qì",
 "to weep"
+],
+[
+"哭笑不得",
+7,
+"kū xiào bù dé",
+"lit. not to know whether to laugh or cry (idiom); both funny and extremely embarrassing; between laughter and tears"
 ]
 ],
 "extraWords": [],

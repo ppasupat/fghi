@@ -1,11 +1,17 @@
 {
 "char": "觉",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "to wake up from sleep; conscious",
 "pron": "jiào, jué"
 },
 "words": [
+[
+"觉得",
+1,
+"jué de",
+"to think; to feel"
+],
 [
 "睡觉",
 1,
@@ -13,52 +19,100 @@
 "to go to bed; to sleep"
 ],
 [
-"觉得",
-2,
-"jué de",
-"to think; to feel"
-],
-[
 "感觉",
-4,
+2,
 "gǎn jué",
-"to feel; to become aware of; feeling; sense; perception; CL:個|个[ge4]"
+"to feel; to become aware of; feeling; sense; perception; CL:个[gè]"
 ],
 [
 "自觉",
-5,
+3,
 "zì jué",
 "conscious; aware; on one's own initiative; conscientious"
 ],
 [
 "发觉",
-6,
+5,
 "fā jué",
 "to become aware; to detect; to realize; to perceive"
 ],
 [
-"知觉",
+"觉",
 6,
-"zhī jué",
-"perception; consciousness"
+"jiào",
+"a nap; a sleep; CL:场[cháng]"
 ],
 [
-"嗅觉",
+"觉",
 6,
-"xiù jué",
-"sense of smell"
-],
-[
-"觉醒",
-6,
-"jué xǐng",
-"to awaken; to come to realize; awakened to the truth; the truth dawns upon one; scales fall from the eyes; to become aware"
+"jué",
+"to feel; to find that; thinking; awake; aware"
 ],
 [
 "觉悟",
 6,
 "jué wù",
 "to come to understand; to realize; consciousness; awareness; Buddhist enlightenment (Sanskrit: cittotpāda)"
+],
+[
+"不知不觉",
+7,
+"bù zhī bù jué",
+"unconsciously; unwittingly"
+],
+[
+"察觉",
+7,
+"chá jué",
+"to sense; to perceive; to become aware of; to detect"
+],
+[
+"触觉",
+7,
+"chù jué",
+"touch; sense of touch; tactile"
+],
+[
+"错觉",
+7,
+"cuò jué",
+"misconception; illusion; misperception"
+],
+[
+"幻觉",
+7,
+"huàn jué",
+"illusion; hallucination; figment of one's imagination"
+],
+[
+"觉醒",
+7,
+"jué xǐng",
+"to awaken; to come to realize; awakened to the truth; the truth dawns upon one; scales fall from the eyes; to become aware"
+],
+[
+"视觉",
+7,
+"shì jué",
+"sight; vision; visual"
+],
+[
+"嗅觉",
+7,
+"xiù jué",
+"sense of smell"
+],
+[
+"知觉",
+7,
+"zhī jué",
+"perception; consciousness"
+],
+[
+"直觉",
+7,
+"zhí jué",
+"intuition"
 ]
 ],
 "extraWords": [
@@ -67,36 +121,6 @@
 30.43,
 "gǎn jué dào",
 "to feel; to sense; to detect; to perceive; to become aware"
-],
-[
-"视觉",
-23.96,
-"shì jué",
-"sight; vision; visual"
-],
-[
-"直觉",
-21.64,
-"zhí jué",
-"intuition"
-],
-[
-"幻觉",
-20.78,
-"huàn jué",
-"illusion; hallucination; figment of one's imagination"
-],
-[
-"察觉",
-10.64,
-"chá jué",
-"to sense; to perceive; to become aware of; to detect"
-],
-[
-"不知不觉",
-9.39,
-"bù zhī bù jué",
-"unconsciously; unwittingly"
 ]
 ],
 "strokes": [

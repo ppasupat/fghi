@@ -1,6 +1,6 @@
 {
 "char": "岸",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "bank, shore; beach, coast",
 "pron": "àn"
@@ -10,28 +10,40 @@
 "岸",
 5,
 "àn",
-"variant of 岸[an4]"
+"variant of 岸[àn]"
 ],
 [
 "岸",
 5,
 "àn",
-"bank; shore; beach; coast; CL:個|个[ge4]"
-]
+"bank; shore; beach; coast; CL:个[gè]"
 ],
-"extraWords": [
+[
+"岸上",
+5,
+"àn shàng",
+"ashore; on the riverbank"
+],
 [
 "两岸",
-48.78,
+5,
 "liǎng àn",
 "bilateral; both shores; both sides; both coasts; Taiwan and mainland"
 ],
 [
 "海岸",
-21.67,
+7,
 "hǎi àn",
 "coastal; seacoast"
 ],
+[
+"沿岸",
+7,
+"yán àn",
+"coastal area; littoral or riparian"
+]
+],
+"extraWords": [
 [
 "口岸",
 11.08,
@@ -39,10 +51,10 @@
 "a port for external trade; a trading or transit post on border between countries"
 ],
 [
-"沿岸",
-5.18,
-"yán àn",
-"coastal area; littoral or riparian"
+"西岸",
+6.41,
+"???",
+"???"
 ],
 [
 "岸边",

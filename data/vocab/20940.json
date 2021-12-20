@@ -1,25 +1,43 @@
 {
 "char": "凌",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "pure; virtuous; insult; maltreat",
 "pron": "líng"
 },
 "words": [
 [
+"凌晨",
+7,
+"líng chén",
+"very early in the morning; in the wee hours"
+],
+[
+"盛气凌人",
+7,
+"shèng qì líng rén",
+"overbearing; arrogant bully"
+]
+],
+"extraWords": [
+[
 "冰激凌",
-5,
+8.7,
 "bīng jī líng",
 "ice cream"
 ],
 [
-"凌晨",
-6,
-"líng chén",
-"very early in the morning; in the wee hours"
-]
+"凌",
+6.98,
+"Líng",
+"surname Ling"
 ],
-"extraWords": [
+[
+"凌",
+6.98,
+"líng",
+"to approach; to rise high; thick ice; to insult or maltreat"
+],
 [
 "凌乱",
 6.57,

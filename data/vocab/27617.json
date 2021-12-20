@@ -1,12 +1,31 @@
 {
 "char": "毡",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "felt; rug, carpet",
 "pron": "zhān"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"毡",
+2.34,
+"zhān",
+"felt (fabric)"
+],
+[
+"毡",
+2.34,
+"zhān",
+"variant of 毡[zhān]"
+],
+[
+"如坐针毡",
+0.63,
+"rú zuò zhēn zhān",
+"lit. as if sitting on pins and needles (idiom); fig. to be in an uncomfortable situation"
+]
+],
 "strokes": [
 "M 291 616 Q 339 640 378 664 Q 421 686 458 698 Q 474 701 478 709 Q 481 719 467 730 Q 445 743 400 755 Q 384 762 371 759 Q 364 755 364 743 Q 365 698 140 568 Q 136 558 142 556 Q 155 556 254 600 L 291 616 Z",
 "M 313 444 Q 349 456 387 465 Q 427 478 433 484 Q 440 491 435 498 Q 428 508 403 512 Q 370 518 322 491 L 266 471 Q 214 455 137 441 Q 106 434 130 420 Q 163 404 234 423 Q 247 427 264 431 L 313 444 Z",

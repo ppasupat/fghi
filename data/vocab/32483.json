@@ -1,20 +1,26 @@
 {
 "char": "绣",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "embroider; embroidery; ornament",
 "pron": "xiù"
 },
 "words": [
 [
-"绣",
-6,
-"xiù",
-"variant of 繡|绣[xiu4]"
+"刺绣",
+7,
+"cì xiù",
+"to embroider; embroidery"
 ],
 [
 "绣",
-6,
+7,
+"xiù",
+"variant of 绣[xiù]"
+],
+[
+"绣",
+7,
 "xiù",
 "to embroider; embroidery"
 ]

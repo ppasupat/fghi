@@ -1,12 +1,32 @@
 {
 "char": "磊",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "pile of rocks or stones; great",
 "pron": "lěi"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"光明磊落",
+7,
+"guāng míng lěi luò",
+"open and candid (idiom); straightforward and upright"
+]
+],
+"extraWords": [
+[
+"磊",
+3.1,
+"lěi",
+"lumpy; rock pile; uneven; fig. sincere; open and honest"
+],
+[
+"王磊",
+2.48,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 457 734 Q 562 753 724 767 Q 734 766 744 778 Q 745 790 723 800 Q 690 824 625 805 Q 442 772 313 760 Q 285 759 306 740 Q 333 713 380 722 Q 393 725 409 726 L 457 734 Z",
 "M 424 629 Q 463 680 476 687 Q 483 691 483 700 Q 480 721 457 734 C 433 751 415 755 409 726 Q 406 693 366 635 L 348 610 Q 347 609 345 606 Q 287 531 130 422 Q 123 418 131 415 Q 194 415 324 522 Q 345 543 367 563 L 424 629 Z",

@@ -1,6 +1,6 @@
 {
 "char": "和",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "harmony, peace; peaceful, calm",
 "pron": "hé, hè, hú, huó, huò, huo"
@@ -10,7 +10,7 @@
 "和",
 1,
 "hé",
-"old variant of 和[he2]"
+"old variant of 和[hé]"
 ],
 [
 "和",
@@ -52,31 +52,37 @@
 "和",
 1,
 "hé",
-"old variant of 和[he2]; harmonious"
-],
-[
-"暖和",
-4,
-"nuǎn huo",
-"warm; nice and warm"
+"old variant of 和[hé]; harmonious"
 ],
 [
 "和平",
-5,
+3,
 "Hé píng",
-"Heping District of Shenyang city 瀋陽市|沈阳市[Shen3 yang2 shi4], Liaoning; Heping or Hoping Township in Taichung County 臺中縣|台中县[Tai2 zhong1 Xian4], Taiwan"
+"Heping District of Shenyang city 沈阳市[Shěn yáng shì], Liaoning; Heping or Hoping Township in Taichung County 台中县[Tái zhōng Xiàn], Taiwan"
 ],
 [
 "和平",
-5,
+3,
 "hé píng",
 "peace; peaceful"
 ],
 [
-"和解",
-6,
-"hé jiě",
-"to settle (a dispute out of court); to reconcile; settlement; conciliation; to become reconciled"
+"暖和",
+3,
+"nuǎn huo",
+"warm; nice and warm"
+],
+[
+"温和",
+5,
+"wēn hé",
+"mild; gentle; moderate"
+],
+[
+"温和",
+5,
+"wēn huo",
+"lukewarm"
 ],
 [
 "和谐",
@@ -85,76 +91,94 @@
 "harmonious; harmony; (euphemism) to censor"
 ],
 [
-"共和国",
-6,
-"gòng hé guó",
-"republic"
-],
-[
-"温和",
-6,
-"wēn hé",
-"mild; gentle; moderate"
-],
-[
-"温和",
-6,
-"wēn huo",
-"lukewarm"
-],
-[
-"和蔼",
-6,
-"hé ǎi",
-"kindly; nice; amiable"
-],
-[
-"柔和",
-6,
-"róu hé",
-"gentle; soft"
-],
-[
-"和睦",
-6,
-"hé mù",
-"peaceful relations; harmonious"
-],
-[
-"缓和",
-6,
-"huǎn hé",
-"to ease (tension); to alleviate; to moderate; to allay; to make more mild"
-],
-[
-"总和",
-6,
-"zǒng hé",
-"sum"
-],
-[
-"和气",
-6,
-"hé qi",
-"friendly; polite; amiable"
-],
-[
-"调和",
-6,
-"tiáo hé",
-"harmonious; to mediate; to reconcile; to compromise; mediation; to mix; to blend; blended; to season; seasoning; to placate"
-],
-[
 "饱和",
-6,
+7,
 "bǎo hé",
 "saturation"
 ],
 [
+"风和日丽",
+7,
+"fēng hé rì lì",
+"moderate wind, beautiful sun (idiom); fine sunny weather, esp. in springtime"
+],
+[
 "附和",
-6,
+7,
 "fù hè",
 "to agree; to go along with; to echo (what sb says)"
+],
+[
+"和蔼",
+7,
+"hé ǎi",
+"kindly; nice; amiable"
+],
+[
+"和解",
+7,
+"hé jiě",
+"to settle (a dispute out of court); to reconcile; settlement; conciliation; to become reconciled"
+],
+[
+"和睦",
+7,
+"hé mù",
+"peaceful relations; harmonious"
+],
+[
+"和平共处",
+7,
+"hé píng gòng chǔ",
+"peaceful coexistence of nations, societies etc"
+],
+[
+"和气",
+7,
+"hé qi",
+"friendly; polite; amiable"
+],
+[
+"和尚",
+7,
+"hé shang",
+"Buddhist monk"
+],
+[
+"缓和",
+7,
+"huǎn hé",
+"to ease (tension); to alleviate; to moderate; to allay; to make more mild"
+],
+[
+"平和",
+7,
+"Píng hé",
+"Pinghe county in Zhangzhou 漳州[Zhāng zhōu], Fujian"
+],
+[
+"平和",
+7,
+"píng hé",
+"gentle; mild; moderate; placid"
+],
+[
+"亲和力",
+7,
+"qīn hé lì",
+"(personal) warmth; approachability; accessibility; (in a product) user friendliness; (chemistry) affinity"
+],
+[
+"柔和",
+7,
+"róu hé",
+"gentle; soft"
+],
+[
+"祥和",
+7,
+"xiáng hé",
+"auspicious and peaceful"
 ]
 ],
 "extraWords": [
@@ -165,10 +189,10 @@
 "People's Republic of China"
 ],
 [
-"和尚",
-17.49,
-"hé shang",
-"Buddhist monk"
+"共和国",
+24.79,
+"gòng hé guó",
+"republic"
 ],
 [
 "共和党",
@@ -177,28 +201,22 @@
 "Republican Party"
 ],
 [
-"平和",
-8.64,
-"Píng hé",
-"Pinghe county in Zhangzhou 漳州[Zhang1 zhou1], Fujian"
-],
-[
-"平和",
-8.64,
-"píng hé",
-"gentle; mild; moderate; placid"
-],
-[
 "中和",
 7.5,
 "Zhōng hé",
-"Zhonghe or Chungho city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+"Zhonghe or Chungho city in New Taipei City 新北市[Xīn běi shì], Taiwan"
 ],
 [
 "中和",
 7.5,
 "zhōng hé",
 "to neutralize; to counteract; neutralization (chemistry)"
+],
+[
+"总和",
+6.12,
+"zǒng hé",
+"sum"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "助",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "help, aid, assist",
 "pron": "zhù"
@@ -13,16 +13,52 @@
 "assistance; aid; to help; to assist"
 ],
 [
+"赞助",
+4,
+"zàn zhù",
+"to support; to assist; to sponsor"
+],
+[
+"辅助",
+5,
+"fǔ zhù",
+"to assist; to aid; supplementary; auxiliary; subsidiary"
+],
+[
+"助理",
+5,
+"zhù lǐ",
+"assistant"
+],
+[
 "助手",
-6,
+5,
 "zhù shǒu",
 "assistant; helper"
 ],
 [
-"助理",
+"资助",
+5,
+"zī zhù",
+"to subsidize; to provide financial aid; subsidy"
+],
+[
+"补助",
 6,
-"zhù lǐ",
-"assistant"
+"bǔ zhù",
+"to subsidize; subsidy; allowance"
+],
+[
+"救助",
+6,
+"jiù zhù",
+"to help sb in trouble; aid; assistance"
+],
+[
+"捐助",
+6,
+"juān zhù",
+"to donate; to offer (aid); contribution; donation"
 ],
 [
 "协助",
@@ -31,60 +67,60 @@
 "to provide assistance; to aid"
 ],
 [
-"赞助",
-6,
-"zàn zhù",
-"to support; to assist; to sponsor"
-],
-[
-"资助",
-6,
-"zī zhù",
-"to subsidize; to provide financial aid; subsidy"
-],
-[
-"辅助",
-6,
-"fǔ zhù",
-"to assist; to aid; supplementary; auxiliary; subsidiary"
-],
-[
-"借助",
-6,
-"jiè zhù",
-"to draw support from; with the help of"
-],
-[
-"拔苗助长",
-6,
-"bá miáo zhù zhǎng",
-"to spoil things through excessive enthusiasm (idiom)"
-]
-],
-"extraWords": [
-[
 "援助",
-41.56,
+6,
 "yuán zhù",
 "to help; to support; to aid; aid; assistance"
 ],
 [
-"救助",
-28.7,
-"jiù zhù",
-"to help sb in trouble; aid; assistance"
+"互助",
+7,
+"Hù zhù",
+"Huzhu Tuzu autonomous county in Haidong prefecture 海东地区[Hǎi dōng dì qū], Qinghai"
+],
+[
+"互助",
+7,
+"hù zhù",
+"to help each other"
+],
+[
+"借助",
+7,
+"jiè zhù",
+"to draw support from; with the help of"
+],
+[
+"求助",
+7,
+"qiú zhù",
+"to request help; to appeal (for help)"
 ],
 [
 "有助于",
-26.49,
+7,
 "yǒu zhù yú",
 "to contribute to; to promote"
 ],
 [
-"补助",
-13.91,
-"bǔ zhù",
-"to subsidize; subsidy; allowance"
+"助威",
+7,
+"zhù wēi",
+"to cheer for; to encourage; to boost the morale of"
+],
+[
+"自助",
+7,
+"zì zhù",
+"self-service"
+]
+],
+"extraWords": [
+[
+"助",
+33.06,
+"zhù",
+"to help; to assist"
 ],
 [
 "助攻",
@@ -93,34 +129,10 @@
 "(military) to mount a secondary attack; (fig.) to assist in tackling a problem; (sports) to participate in a play in which a teammate scores (i.e. perform an assist)"
 ],
 [
-"求助",
-10.98,
-"qiú zhù",
-"to request help; to appeal (for help)"
-],
-[
-"自助",
-9.5,
-"zì zhù",
-"self-service"
-],
-[
-"捐助",
-7.67,
-"juān zhù",
-"to donate; to offer (aid); contribution; donation"
-],
-[
-"互助",
-7.61,
-"Hù zhù",
-"Huzhu Tuzu autonomous county in Haidong prefecture 海東地區|海东地区[Hai3 dong1 di4 qu1], Qinghai"
-],
-[
-"互助",
-7.61,
-"hù zhù",
-"to help each other"
+"助学",
+9.25,
+"???",
+"???"
 ],
 [
 "无助",

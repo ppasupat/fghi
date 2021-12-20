@@ -1,6 +1,6 @@
 {
 "char": "价",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "price, value",
 "pron": "jià, jie"
@@ -8,77 +8,161 @@
 "words": [
 [
 "价格",
-4,
+3,
 "jià gé",
-"price; CL:個|个[ge4]"
+"price; CL:个[gè]"
+],
+[
+"价钱",
+3,
+"jià qian",
+"price"
 ],
 [
 "价值",
-5,
+3,
 "jià zhí",
-"value; worth; fig. values (ethical, cultural etc); CL:個|个[ge4]"
+"value; worth; fig. values (ethical, cultural etc); CL:个[gè]"
+],
+[
+"票价",
+3,
+"piào jià",
+"ticket price; fare; admission fee"
 ],
 [
 "评价",
-5,
+3,
 "píng jià",
 "to evaluate; to assess"
 ],
 [
-"讨价还价",
-5,
-"tǎo jià huán jià",
-"to haggle over price; to bargain"
+"高价",
+4,
+"gāo jià",
+"high price"
+],
+[
+"降价",
+4,
+"jiàng jià",
+"to cut the price; to drive down the price; to get cheaper"
+],
+[
+"特价",
+4,
+"tè jià",
+"special price"
 ],
 [
 "代价",
-6,
+5,
 "dài jià",
 "price; cost; consideration (in share dealing)"
 ],
 [
-"物美价廉",
-6,
-"wù měi jià lián",
-"good quality and cheap; a bargain"
-]
+"价",
+5,
+"jià",
+"price; value; (chemistry) valence"
 ],
-"extraWords": [
+[
+"价",
+5,
+"jie",
+"great; good; middleman; servant"
+],
+[
+"物价",
+5,
+"wù jià",
+"(commodity) prices; CL:个[gè]"
+],
+[
+"涨价",
+5,
+"zhǎng jià",
+"to appreciate (in value); to increase in price"
+],
+[
+"定价",
+6,
+"dìng jià",
+"to set a price; to fix a price"
+],
 [
 "房价",
-63.34,
+6,
 "fáng jià",
 "house price; cost of housing"
 ],
+[
+"低价",
+7,
+"dī jià",
+"low price"
+],
+[
+"价位",
+7,
+"jià wèi",
+"price level"
+],
+[
+"价值观",
+7,
+"jià zhí guān",
+"system of values"
+],
+[
+"廉价",
+7,
+"lián jià",
+"cheaply-priced; low-cost"
+],
+[
+"平价",
+7,
+"píng jià",
+"reasonably priced; inexpensive; to keep prices down; (currency exchange) parity"
+],
+[
+"身价",
+7,
+"shēn jià",
+"social status; price of a slave; price of a person (a sportsman etc); worth; value (of stocks, valuables etc)"
+],
+[
+"售价",
+7,
+"shòu jià",
+"selling price"
+],
+[
+"讨价还价",
+7,
+"tǎo jià huán jià",
+"to haggle over price; to bargain"
+],
+[
+"性价比",
+7,
+"xìng jià bǐ",
+"cost-performance ratio"
+],
+[
+"造价",
+7,
+"zào jià",
+"construction cost"
+]
+],
+"extraWords": [
 [
 "股价",
 41.82,
 "gǔ jià",
 "stock price; share price"
-],
-[
-"售价",
-38.62,
-"shòu jià",
-"selling price"
-],
-[
-"降价",
-30.26,
-"jiàng jià",
-"to cut the price; to drive down the price; to get cheaper"
-],
-[
-"物价",
-25.02,
-"wù jià",
-"(commodity) prices; CL:個|个[ge4]"
-],
-[
-"定价",
-24.68,
-"dìng jià",
-"to set a price; to fix a price"
 ],
 [
 "报价",
@@ -87,52 +171,10 @@
 "to quote a price; quoted price; quote"
 ],
 [
-"低价",
-20.25,
-"dī jià",
-"low price"
-],
-[
-"特价",
-20.1,
-"tè jià",
-"special price"
-],
-[
-"价钱",
-18.54,
-"jià qian",
-"price"
-],
-[
-"涨价",
-17.89,
-"zhǎng jià",
-"to appreciate (in value); to increase in price"
-],
-[
-"价位",
-16.42,
-"jià wèi",
-"price level"
-],
-[
-"票价",
-14.44,
-"piào jià",
-"ticket price; fare; admission fee"
-],
-[
-"价值观",
-14.37,
-"jià zhí guān",
-"system of values"
-],
-[
-"高价",
-13.56,
-"gāo jià",
-"high price"
+"原价",
+21.23,
+"???",
+"???"
 ],
 [
 "出价",
@@ -147,22 +189,28 @@
 "valuable"
 ],
 [
-"身价",
-9.89,
-"shēn jià",
-"social status; price of a slave; price of a person (a sportsman etc); worth; value (of stocks, valuables etc)"
-],
-[
-"廉价",
-9.26,
-"lián jià",
-"cheaply-priced; low-cost"
+"市场价格",
+9.79,
+"???",
+"???"
 ],
 [
 "汇价",
 8.11,
 "huì jià",
 "exchange rate"
+],
+[
+"地价",
+7.84,
+"???",
+"???"
+],
+[
+"最低价",
+7.55,
+"???",
+"???"
 ],
 [
 "电价",
@@ -181,12 +229,6 @@
 7.02,
 "zǒng jià",
 "total price"
-],
-[
-"造价",
-6.64,
-"zào jià",
-"construction cost"
 ],
 [
 "收盘价",

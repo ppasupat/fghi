@@ -1,12 +1,31 @@
 {
 "char": "鸯",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "female mandarin duck (Aix galericulata)",
 "pron": "yāng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"鸳鸯",
+3.74,
+"yuān yāng",
+"(bird species of China) mandarin duck (Aix galericulata); (fig.) affectionate couple; happily married couple"
+],
+[
+"鸯",
+0.25,
+"yāng",
+"mandarin duck"
+],
+[
+"棒打鸳鸯",
+0.14,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 315 734 Q 288 740 285 733 Q 278 727 288 711 Q 309 678 325 622 Q 326 609 334 600 C 352 576 366 574 366 604 Q 366 614 365 626 Q 358 678 356 697 C 353 726 344 728 315 734 Z",
 "M 665 644 Q 687 687 711 701 Q 727 717 715 736 Q 643 796 600 774 Q 558 762 520 752 L 470 743 Q 353 728 315 734 C 285 737 327 690 356 697 Q 372 703 466 714 L 515 721 Q 609 737 621 726 Q 633 711 608 635 C 599 606 651 618 665 644 Z",

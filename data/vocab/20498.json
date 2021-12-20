@@ -1,6 +1,6 @@
 {
 "char": "倒",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "fall over; lie down; take turns",
 "pron": "dǎo, dào"
@@ -8,21 +8,39 @@
 "words": [
 [
 "倒",
-4,
+2,
 "dǎo",
 "to fall; to collapse; to lie horizontally; to overthrow; to fail; to go bankrupt; to change (trains or buses); to move around; to resell at a profit"
 ],
 [
 "倒",
-4,
+2,
 "dào",
 "to place upside down; to invert; to pour; to throw out; to move backwards; however; actually; as a matter of fact; contrary to expectation"
 ],
 [
-"倒霉",
+"倒闭",
+4,
+"dǎo bì",
+"to go bankrupt; to close down"
+],
+[
+"倒车",
+4,
+"dǎo chē",
+"to change buses, trains etc"
+],
+[
+"倒车",
+4,
+"dào chē",
+"to reverse (a vehicle); to drive backwards"
+],
+[
+"倒是",
 5,
-"dǎo méi",
-"to have bad luck; to be out of luck"
+"dào shi",
+"contrary to what one might expect; actually; contrariwise; why don't you"
 ],
 [
 "摔倒",
@@ -31,60 +49,84 @@
 "to fall down; to slip and fall; to throw sb to the ground"
 ],
 [
-"颠倒",
-6,
-"diān dǎo",
-"to turn upside down; to reverse; back to front; confused; deranged; crazy"
+"打倒",
+7,
+"dǎ dǎo",
+"to overthrow; to knock down; Down with ... !"
 ],
 [
-"倒闭",
-6,
-"dǎo bì",
-"to go bankrupt; to close down"
-]
+"倒卖",
+7,
+"dǎo mài",
+"to resell at a profit; to speculate"
 ],
-"extraWords": [
 [
-"倒是",
-34.27,
-"dào shi",
-"contrary to what one might expect; actually; contrariwise; why don't you"
+"倒霉",
+7,
+"dǎo méi",
+"to have bad luck; to be out of luck"
+],
+[
+"倒塌",
+7,
+"dǎo tā",
+"to collapse (of building); to topple over"
+],
+[
+"倒下",
+7,
+"dǎo xià",
+"to collapse; to topple over"
+],
+[
+"倒计时",
+7,
+"dào jì shí",
+"to count down; countdown"
 ],
 [
 "倒数",
-14.1,
+7,
 "dào shǔ",
 "to count backwards (from 10 down to 0); to count down; from the bottom (lines on a page); from the back (rows of seats)"
 ],
 [
 "倒数",
-14.1,
+7,
 "dào shù",
 "inverse number; reciprocal (math.)"
 ],
 [
-"倒下",
-13.83,
-"dǎo xià",
-"to collapse; to topple over"
-],
-[
-"打倒",
-10.28,
-"dǎ dǎo",
-"to overthrow; to knock down; Down with ... !"
-],
-[
-"倒计时",
-8.26,
-"dào jì shí",
-"to count down; countdown"
+"颠倒",
+7,
+"diān dǎo",
+"to turn upside down; to reverse; back to front; confused; deranged; crazy"
 ],
 [
 "反倒",
-7.93,
+7,
 "fǎn dào",
 "but on the contrary; but expectedly"
+],
+[
+"压倒",
+7,
+"yā dǎo",
+"to overwhelm; to overpower; overwhelming"
+],
+[
+"晕倒",
+7,
+"yūn dǎo",
+"to faint; to swoon; to black out; to become unconscious"
+]
+],
+"extraWords": [
+[
+"倒入",
+9.84,
+"???",
+"???"
 ],
 [
 "击倒",
@@ -93,22 +135,10 @@
 "to knock down; knocked down"
 ],
 [
-"倒塌",
-6.4,
-"dǎo tā",
-"to collapse (of building); to topple over"
-],
-[
 "跌倒",
 6.11,
 "diē dǎo",
 "to tumble; to fall; fig. to suffer a reverse (in politics or business)"
-],
-[
-"晕倒",
-5.6,
-"yūn dǎo",
-"to faint; to swoon; to black out; to become unconscious"
 ]
 ],
 "strokes": [

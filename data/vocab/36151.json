@@ -1,6 +1,6 @@
 {
 "char": "贷",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "lend; borrow; pardon",
 "pron": "dài"
@@ -10,15 +10,27 @@
 "贷款",
 5,
 "dài kuǎn",
-"a loan; CL:筆|笔[bi3]; to provide a loan (e.g. bank); to raise a loan (from e.g. a bank)"
+"a loan; CL:笔[bǐ]; to provide a loan (e.g. bank); to raise a loan (from e.g. a bank)"
+],
+[
+"信贷",
+7,
+"xìn dài",
+"credit; borrowed money"
 ]
 ],
 "extraWords": [
 [
-"信贷",
-26.53,
-"xìn dài",
-"credit; borrowed money"
+"贷",
+30.8,
+"dài",
+"to lend on interest; to borrow; a loan; leniency; to make excuses; to pardon; to forgive"
+],
+[
+"银行贷款",
+7.45,
+"???",
+"???"
 ]
 ],
 "strokes": [

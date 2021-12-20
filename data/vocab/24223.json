@@ -1,35 +1,11 @@
 {
 "char": "废",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "abrogate, terminate, discard",
 "pron": "fèi"
 },
 "words": [
-[
-"废话",
-5,
-"fèi huà",
-"nonsense; rubbish; superfluous words; You don't say!; No kidding! (gently sarcastic)"
-],
-[
-"废墟",
-6,
-"fèi xū",
-"ruins"
-],
-[
-"废除",
-6,
-"fèi chú",
-"to abolish; to abrogate; to repeal"
-],
-[
-"半途而废",
-6,
-"bàn tú ér fèi",
-"to give up halfway (idiom); leave sth unfinished"
-],
 [
 "作废",
 6,
@@ -37,19 +13,73 @@
 "to become invalid; to cancel; to delete; to nullify"
 ],
 [
+"半途而废",
+7,
+"bàn tú ér fèi",
+"to give up halfway (idiom); leave sth unfinished"
+],
+[
+"报废",
+7,
+"bào fèi",
+"to scrap; to be written off"
+],
+[
+"废",
+7,
+"fèi",
+"to abolish; to abandon; to abrogate; to discard; to depose; to oust; crippled; abandoned; waste"
+],
+[
+"废",
+7,
+"fèi",
+"variant of 废[fèi]; disabled"
+],
+[
+"废除",
+7,
+"fèi chú",
+"to abolish; to abrogate; to repeal"
+],
+[
+"废话",
+7,
+"fèi huà",
+"nonsense; rubbish; superfluous words; You don't say!; No kidding! (gently sarcastic)"
+],
+[
+"废品",
+7,
+"fèi pǐn",
+"production rejects; seconds; scrap; discarded material"
+],
+[
 "废寝忘食",
-6,
+7,
 "fèi qǐn wàng shí",
 "to neglect sleep and forget about food (idiom); to skip one's sleep and meals; to be completely wrapped up in one's work"
-]
 ],
-"extraWords": [
 [
 "废物",
-21.52,
+7,
 "fèi wù",
 "rubbish; waste material; useless person"
 ],
+[
+"废墟",
+7,
+"fèi xū",
+"ruins"
+],
+[
+"颓废",
+7,
+"tuí fèi",
+"decadent; dispirited; depressed; dejected"
+]
+],
+"extraWords": [
 [
 "废弃",
 6.5,
@@ -61,18 +91,6 @@
 6.05,
 "fèi shuǐ",
 "waste water; drain water; effluent"
-],
-[
-"报废",
-5.78,
-"bào fèi",
-"to scrap; to be written off"
-],
-[
-"废品",
-5.09,
-"fèi pǐn",
-"production rejects; seconds; scrap; discarded material"
 ]
 ],
 "strokes": [

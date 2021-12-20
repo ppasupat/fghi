@@ -1,6 +1,6 @@
 {
 "char": "味",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "taste, smell, odor; delicacy",
 "pron": "wèi"
@@ -8,54 +8,126 @@
 "words": [
 [
 "味道",
-4,
+2,
 "wèi dao",
 "flavor; smell; hint of"
 ],
 [
-"口味",
-5,
-"kǒu wèi",
-"a person's preferences; tastes (in food); flavor"
+"味儿",
+4,
+"wèi r5",
+"taste"
 ],
 [
 "意味着",
-6,
+5,
 "yì wèi zhe",
 "to signify; to mean; to imply"
 ],
 [
-"气味",
-6,
-"qì wèi",
-"odor; scent"
-],
-[
-"滋味",
-6,
-"zī wèi",
-"taste; flavor; feeling"
-],
-[
 "风味",
-6,
+7,
 "fēng wèi",
 "distinctive flavor; distinctive style"
 ],
 [
+"回味",
+7,
+"huí wèi",
+"to reflect on; to ponder over; aftertaste"
+],
+[
+"津津有味",
+7,
+"jīn jīn yǒu wèi",
+"with keen interest (idiom); with great pleasure; with gusto; eagerly"
+],
+[
+"口味",
+7,
+"kǒu wèi",
+"a person's preferences; tastes (in food); flavor"
+],
+[
+"卤味",
+7,
+"lǔ wèi",
+"food prepared by stewing in soy sauce and spices"
+],
+[
+"卤味",
+7,
+"lǔ wèi",
+"variant of 卤味[lǔ wèi]"
+],
+[
+"美味",
+7,
+"měi wèi",
+"delicious; delicious food; delicacy"
+],
+[
+"耐人寻味",
+7,
+"nài rén xún wèi",
+"thought-provoking; worth thinking over; to provide food for thought"
+],
+[
+"气味",
+7,
+"qì wèi",
+"odor; scent"
+],
+[
 "趣味",
-6,
+7,
 "qù wèi",
 "fun; interest; delight; taste; liking; preference"
 ],
 [
-"津津有味",
-6,
-"jīn jīn yǒu wèi",
-"with keen interest (idiom); with great pleasure; with gusto; eagerly"
+"味精",
+7,
+"wèi jīng",
+"monosodium glutamate (MSG)"
+],
+[
+"香味",
+7,
+"xiāng wèi",
+"fragrance; bouquet; sweet smell; CL:股[gǔ]"
+],
+[
+"一味",
+7,
+"yī wèi",
+"blindly; invariably"
+],
+[
+"原汁原味",
+7,
+"yuán zhī yuán wèi",
+"original; authentic"
+],
+[
+"韵味",
+7,
+"yùn wèi",
+"implicit charm in rhyme or sound; hinted appeal; interest"
+],
+[
+"滋味",
+7,
+"zī wèi",
+"taste; flavor; feeling"
 ]
 ],
 "extraWords": [
+[
+"味",
+59.42,
+"wèi",
+"taste; smell; (fig.) (noun suffix) feel; quality; sense; (TCM) classifier for ingredients of a medicine prescription"
+],
 [
 "意味",
 24.38,
@@ -63,40 +135,10 @@
 "meaning; implication; flavor; overtone; to mean; to imply; (Tw) to get a sense of"
 ],
 [
-"美味",
-23.64,
-"měi wèi",
-"delicious; delicious food; delicacy"
-],
-[
-"一味",
-11.64,
-"yī wèi",
-"blindly; invariably"
-],
-[
 "品味",
 11.35,
 "pǐn wèi",
 "to sample; to taste; to appreciate; one's taste (i.e. in music, literature, fashion, food and drink etc); good taste"
-],
-[
-"香味",
-9.38,
-"xiāng wèi",
-"fragrance; bouquet; sweet smell; CL:股[gu3]"
-],
-[
-"回味",
-7.71,
-"huí wèi",
-"to reflect on; to ponder over; aftertaste"
-],
-[
-"味儿",
-7.04,
-"wèi r5",
-"taste"
 ],
 [
 "乏味",

@@ -1,20 +1,26 @@
 {
 "char": "若",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "if, supposing, assuming; similar",
 "pron": "ruò"
 },
 "words": [
 [
-"若干",
+"若",
 6,
+"ruò",
+"to seem; like; as; if"
+],
+[
+"若干",
+7,
 "ruò gān",
 "a certain number or amount; how many?; how much?"
 ],
 [
 "倘若",
-6,
+7,
 "tǎng ruò",
 "provided that; supposing that; if"
 ]

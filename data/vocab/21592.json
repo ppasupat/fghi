@@ -1,79 +1,169 @@
 {
 "char": "员",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "member; personnel, staff member",
 "pron": "yuán, yùn"
 },
 "words": [
 [
-"服务员",
-2,
-"fú wù yuán",
-"waiter; waitress; attendant; customer service personnel; CL:個|个[ge4],位[wei4]"
+"成员",
+3,
+"chéng yuán",
+"member"
+],
+[
+"队员",
+3,
+"duì yuán",
+"team member"
+],
+[
+"公务员",
+3,
+"gōng wù yuán",
+"functionary; office-bearer"
+],
+[
+"会员",
+3,
+"huì yuán",
+"member"
+],
+[
+"人员",
+3,
+"rén yuán",
+"staff; crew; personnel; CL:个[gè]"
 ],
 [
 "演员",
-4,
+3,
 "yǎn yuán",
-"actor or actress; performer; CL:個|个[ge4],位[wei4],名[ming2]"
+"actor or actress; performer; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"员",
+3,
+"yuán",
+"person; employee; member"
+],
+[
+"员工",
+3,
+"yuán gōng",
+"staff; personnel; employee"
 ],
 [
 "售货员",
 4,
 "shòu huò yuán",
-"salesperson; CL:個|个[ge4]"
+"salesperson; CL:个[gè]"
 ],
 [
-"人员",
-5,
-"rén yuán",
-"staff; crew; personnel; CL:個|个[ge4]"
-],
-[
-"员工",
-5,
-"yuán gōng",
-"staff; personnel; employee"
-],
-[
-"成员",
-6,
-"chéng yuán",
-"member"
-],
-[
-"委员",
-6,
-"wěi yuán",
-"committee member; committee; council; CL:個|个[ge4]"
-],
-[
-"裁员",
-6,
-"cái yuán",
-"to cut staff; to lay off employees"
+"运动员",
+4,
+"yùn dòng yuán",
+"athlete; CL:名[míng],个[gè]"
 ],
 [
 "动员",
-6,
+5,
 "dòng yuán",
-"to mobilize; to arouse; mobilization; CL:次[ci4],個|个[ge4]"
-]
+"to mobilize; to arouse; mobilization; CL:次[cì],个[gè]"
 ],
-"extraWords": [
+[
+"船员",
+6,
+"chuán yuán",
+"sailor; crew member"
+],
+[
+"飞行员",
+6,
+"fēi xíng yuán",
+"pilot; aviator"
+],
+[
+"球员",
+6,
+"qiú yuán",
+"sports club member; footballer, golfer etc"
+],
+[
+"伤员",
+6,
+"shāng yuán",
+"wounded person"
+],
+[
+"学员",
+6,
+"xué yuán",
+"student; member of an institution of learning; officer cadet"
+],
+[
+"宇航员",
+6,
+"yǔ háng yuán",
+"astronaut"
+],
+[
+"雇员",
+7,
+"gù yuán",
+"employee"
+],
+[
+"官员",
+7,
+"guān yuán",
+"official (in an organization or government); administrator"
+],
+[
+"航天员",
+7,
+"háng tiān yuán",
+"astronaut"
+],
+[
+"评论员",
+7,
+"píng lùn yuán",
+"commentator"
+],
+[
+"团员",
+7,
+"tuán yuán",
+"member; group member"
+],
+[
+"委员",
+7,
+"wěi yuán",
+"committee member; committee; council; CL:个[gè]"
+],
 [
 "委员会",
-112.56,
+7,
 "wěi yuán huì",
 "committee"
 ],
 [
-"球员",
-108.54,
-"qiú yuán",
-"sports club member; footballer, golfer etc"
+"议员",
+7,
+"yì yuán",
+"member (of a legislative body); representative"
 ],
+[
+"职员",
+7,
+"zhí yuán",
+"office worker; staff member; CL:个[gè],位[wèi]"
+]
+],
+"extraWords": [
 [
 "工作人员",
 100.26,
@@ -81,22 +171,10 @@
 "staff member"
 ],
 [
-"官员",
-89.52,
-"guān yuán",
-"official (in an organization or government); administrator"
-],
-[
-"队员",
-81.15,
-"duì yuán",
-"team member"
-],
-[
 "党员",
 51.48,
 "dǎng yuán",
-"party member; CL:名[ming2],位[wei4],個|个[ge4]"
+"party member; CL:名[míng],位[wèi],个[gè]"
 ],
 [
 "通讯员",
@@ -105,22 +183,10 @@
 "correspondent; reporter; messenger boy"
 ],
 [
-"运动员",
-39.81,
-"yùn dòng yuán",
-"athlete; CL:名[ming2],個|个[ge4]"
-],
-[
-"会员",
-38.81,
-"huì yuán",
-"member"
-],
-[
-"议员",
-34.49,
-"yì yuán",
-"member (of a legislative body); representative"
+"直播员",
+41.43,
+"???",
+"???"
 ],
 [
 "社员",
@@ -129,22 +195,10 @@
 "commune member (PRC, 1958-1985); member of a society (or other organization)"
 ],
 [
-"公务员",
-26.39,
-"gōng wù yuán",
-"functionary; office-bearer"
-],
-[
 "参议员",
 24.53,
 "cān yì yuán",
 "senator"
-],
-[
-"学员",
-20.21,
-"xué yuán",
-"student; member of an institution of learning; officer cadet"
 ],
 [
 "驾驶员",
@@ -153,22 +207,34 @@
 "pilot; driver"
 ],
 [
-"飞行员",
-18.12,
-"fēi xíng yuán",
-"pilot; aviator"
-],
-[
 "技术人员",
 17.8,
 "jì shù rén yuán",
 "technical staff"
 ],
 [
+"服务员",
+15.26,
+"fú wù yuán",
+"waiter; waitress; attendant; customer service personnel; CL:个[gè],位[wèi]"
+],
+[
 "共产党员",
 15.13,
 "Gòng chǎn dǎng yuán",
 "Communist Party member"
+],
+[
+"警员",
+14.46,
+"???",
+"???"
+],
+[
+"队员们",
+13.56,
+"???",
+"???"
 ],
 [
 "成员国",
@@ -183,18 +249,6 @@
 "researcher"
 ],
 [
-"雇员",
-12.79,
-"gù yuán",
-"employee"
-],
-[
-"船员",
-10.55,
-"chuán yuán",
-"sailor; crew member"
-],
-[
 "从业人员",
 10.19,
 "cóng yè rén yuán",
@@ -207,22 +261,10 @@
 "manager; administrator"
 ],
 [
-"职员",
-9.3,
-"zhí yuán",
-"office worker; staff member; CL:個|个[ge4],位[wei4]"
-],
-[
 "陪审员",
 8.23,
 "péi shěn yuán",
 "juror"
-],
-[
-"航天员",
-7.77,
-"háng tiān yuán",
-"astronaut"
 ],
 [
 "业务员",
@@ -231,28 +273,10 @@
 "salesperson"
 ],
 [
-"宇航员",
-6.41,
-"yǔ háng yuán",
-"astronaut"
-],
-[
-"伤员",
-6.37,
-"shāng yuán",
-"wounded person"
-],
-[
-"团员",
-6.3,
-"tuán yuán",
-"member; group member"
-],
-[
 "营业员",
 5.85,
 "yíng yè yuán",
-"clerk; shop assistant; CL:個|个[ge4]"
+"clerk; shop assistant; CL:个[gè]"
 ],
 [
 "店员",

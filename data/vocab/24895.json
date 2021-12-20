@@ -1,6 +1,6 @@
 {
 "char": "愿",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "sincere, honest, virtuous",
 "pron": "yuàn"
@@ -8,15 +8,39 @@
 "words": [
 [
 "愿意",
-3,
+2,
 "yuàn yì",
 "to wish; to want; ready; willing (to do sth)"
 ],
 [
 "愿望",
-5,
+3,
 "yuàn wàng",
 "desire; wish"
+],
+[
+"志愿",
+3,
+"zhì yuàn",
+"aspiration; ambition; to volunteer"
+],
+[
+"志愿者",
+3,
+"zhì yuàn zhě",
+"volunteer"
+],
+[
+"愿",
+5,
+"yuàn",
+"honest; prudent; variant of 愿[yuàn]"
+],
+[
+"愿",
+5,
+"yuàn",
+"to hope; to wish; to desire; hoped-for; ready; willing"
 ],
 [
 "自愿",
@@ -25,22 +49,52 @@
 "voluntary"
 ],
 [
-"志愿者",
-5,
-"zhì yuàn zhě",
-"volunteer"
+"心愿",
+6,
+"xīn yuàn",
+"cherished desire; dream; craving; wish; aspiration"
+],
+[
+"意愿",
+6,
+"yì yuàn",
+"aspiration; wish (for); desire"
+],
+[
+"祝愿",
+6,
+"zhù yuàn",
+"to wish"
+],
+[
+"但愿",
+7,
+"dàn yuàn",
+"if only (sth were possible); I wish (that)"
 ],
 [
 "宁愿",
-6,
+7,
 "nìng yuàn",
 "would rather; better"
 ],
 [
-"心甘情愿",
-6,
-"xīn gān qíng yuàn",
-"delighted to (do sth, idiom); perfectly happy to do; most willing to do"
+"情愿",
+7,
+"qíng yuàn",
+"willingness; would rather (agree to X than Y)"
+],
+[
+"如愿以偿",
+7,
+"rú yuàn yǐ cháng",
+"to have one's wish fulfilled"
+],
+[
+"遗愿",
+7,
+"yí yuàn",
+"final wishes of the departed"
 ]
 ],
 "extraWords": [
@@ -49,42 +103,6 @@
 46.33,
 "bù yuàn",
 "unwilling; unwillingness"
-],
-[
-"但愿",
-26.32,
-"dàn yuàn",
-"if only (sth were possible); I wish (that)"
-],
-[
-"志愿",
-21.15,
-"zhì yuàn",
-"aspiration; ambition; to volunteer"
-],
-[
-"心愿",
-17.22,
-"xīn yuàn",
-"cherished desire; dream; craving; wish; aspiration"
-],
-[
-"意愿",
-14.67,
-"yì yuàn",
-"aspiration; wish (for); desire"
-],
-[
-"祝愿",
-12.06,
-"zhù yuàn",
-"to wish"
-],
-[
-"情愿",
-8.02,
-"qíng yuàn",
-"willingness; would rather (agree to X than Y)"
 ],
 [
 "许愿",

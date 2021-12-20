@@ -1,126 +1,174 @@
 {
 "char": "求",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "seek; demand, request; beseech",
 "pron": "qiú"
 },
 "words": [
 [
-"要求",
-3,
-"yāo qiú",
-"to request; to require; requirement; to stake a claim; to ask; to demand; CL:點|点[dian3]"
-],
-[
 "请求",
-5,
+2,
 "qǐng qiú",
-"to request; to ask; request; CL:個|个[ge4]"
+"to request; to ask; request; CL:个[gè]"
 ],
 [
-"追求",
-5,
-"zhuī qiú",
-"to pursue (a goal etc) stubbornly; to seek after; to woo"
+"求",
+2,
+"qiú",
+"to seek; to look for; to request; to demand; to beseech"
 ],
 [
-"征求",
-5,
-"zhēng qiú",
-"to solicit; to seek; to request (opinions, feedback etc); to petition"
+"要求",
+2,
+"yāo qiú",
+"to request; to require; requirement; to stake a claim; to ask; to demand; CL:点[diǎn]"
 ],
 [
 "需求",
-6,
+3,
 "xū qiú",
 "requirement; to require; (economics) demand"
 ],
 [
-"力求",
+"征求",
+4,
+"zhēng qiú",
+"to solicit; to seek; to request (opinions, feedback etc); to petition"
+],
+[
+"追求",
+4,
+"zhuī qiú",
+"to pursue (a goal etc) stubbornly; to seek after; to woo"
+],
+[
+"寻求",
+5,
+"xún qiú",
+"to seek; to look for"
+],
+[
+"求职",
 6,
+"qiú zhí",
+"to seek employment"
+],
+[
+"哀求",
+7,
+"āi qiú",
+"to entreat; to implore; to plead"
+],
+[
+"供不应求",
+7,
+"gōng bù yìng qiú",
+"supply does not meet demand"
+],
+[
+"供求",
+7,
+"gōng qiú",
+"supply and demand (economics)"
+],
+[
+"精益求精",
+7,
+"jīng yì qiú jīng",
+"to perfect sth that is already outstanding (idiom); constantly improving"
+],
+[
+"刻舟求剑",
+7,
+"kè zhōu qiú jiàn",
+"lit. a notch on the side of a boat to locate a sword dropped overboard (idiom); fig. an action made pointless by changed circumstances"
+],
+[
+"恳求",
+7,
+"kěn qiú",
+"to beg; to beseech; to entreat; entreaty"
+],
+[
+"力求",
+7,
 "lì qiú",
 "to make every effort to; striving to do one's best"
 ],
 [
 "谋求",
-6,
+7,
 "móu qiú",
 "to seek; to strive for"
 ],
 [
-"实事求是",
-6,
-"shí shì qiú shì",
-"to seek truth from facts (idiom); to be practical and realistic"
-],
-[
-"供不应求",
-6,
-"gōng bù yìng qiú",
-"supply does not meet demand"
-],
-[
-"精益求精",
-6,
-"jīng yì qiú jīng",
-"to perfect sth that is already outstanding (idiom); constantly improving"
-],
-[
-"急于求成",
-6,
-"jí yú qiú chéng",
-"anxious for quick results (idiom); to demand instant success; impatient for result; impetuous"
-]
-],
-"extraWords": [
-[
-"寻求",
-27.86,
-"xún qiú",
-"to seek; to look for"
+"乞求",
+7,
+"qǐ qiú",
+"to beg"
 ],
 [
 "求婚",
-22.8,
+7,
 "qiú hūn",
 "to propose marriage"
 ],
 [
-"供求",
-12.49,
-"gōng qiú",
-"supply and demand (economics)"
-],
-[
-"求助",
-10.98,
-"qiú zhù",
-"to request help; to appeal (for help)"
-],
-[
 "求救",
-9.0,
+7,
 "qiú jiù",
 "to seek help (when in distress or having difficulties)"
 ],
 [
-"求职",
-7.78,
-"qiú zhí",
-"to seek employment"
+"求学",
+7,
+"qiú xué",
+"to seek knowledge; to study; to attend college"
+],
+[
+"求医",
+7,
+"qiú yī",
+"to seek medical treatment; to see a doctor"
+],
+[
+"求证",
+7,
+"qiú zhèng",
+"to seek proof; to seek confirmation"
+],
+[
+"求助",
+7,
+"qiú zhù",
+"to request help; to appeal (for help)"
+],
+[
+"实事求是",
+7,
+"shí shì qiú shì",
+"to seek truth from facts (idiom); to be practical and realistic"
+],
+[
+"探求",
+7,
+"tàn qiú",
+"to seek; to pursue; to investigate"
+]
+],
+"extraWords": [
+[
+"需求量",
+8.47,
+"???",
+"???"
 ],
 [
 "祈求",
 7.45,
 "qí qiú",
 "to pray for; to appeal"
-],
-[
-"恳求",
-6.41,
-"kěn qiú",
-"to beg; to beseech; to entreat; entreaty"
 ],
 [
 "诉求",
@@ -135,22 +183,16 @@
 "to insist on; to demand; to impose"
 ],
 [
-"求证",
-5.39,
-"qiú zhèng",
-"to seek proof; to seek confirmation"
+"只求",
+5.18,
+"???",
+"???"
 ],
 [
 "梦寐以求",
 5.16,
 "mèng mèi yǐ qiú",
 "to yearn for sth even in one's dreams (idiom); to long for sth day and night"
-],
-[
-"乞求",
-5.04,
-"qǐ qiú",
-"to beg"
 ]
 ],
 "strokes": [

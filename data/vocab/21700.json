@@ -1,6 +1,6 @@
 {
 "char": "哄",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "coax; beguile, cheat, deceive",
 "pron": "hōng, hǒng, hòng"
@@ -8,33 +8,33 @@
 "words": [
 [
 "哄",
-6,
+7,
 "hōng",
 "roar of laughter (onom.); hubbub; to roar (as a crowd)"
 ],
 [
 "哄",
-6,
+7,
 "hǒng",
 "to deceive; to coax; to amuse (a child)"
 ],
 [
 "哄",
-6,
+7,
 "hòng",
-"variant of 鬨|哄[hong4]"
+"variant of 哄[hòng]"
 ],
 [
 "哄",
-6,
+7,
 "hòng",
 "tumult; uproar; commotion; disturbance"
 ],
 [
-"起哄",
-6,
-"qǐ hòng",
-"to heckle; rowdy jeering; to create a disturbance"
+"哄堂大笑",
+7,
+"hōng táng dà xiào",
+"the whole room roaring with laughter (idiom)"
 ]
 ],
 "extraWords": [],

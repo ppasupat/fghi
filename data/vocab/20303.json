@@ -1,16 +1,52 @@
 {
 "char": "住",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "reside, live at, dwell, lodge; stop",
 "pron": "zhù"
 },
 "words": [
 [
+"记住",
+1,
+"jì zhu",
+"to remember; to bear in mind; to learn by heart"
+],
+[
 "住",
 1,
 "zhù",
 "to live; to dwell; to stay; to reside; to stop; (suffix indicating firmness, steadiness, or coming to a halt)"
+],
+[
+"站住",
+2,
+"zhàn zhù",
+"to stand"
+],
+[
+"住房",
+2,
+"zhù fáng",
+"housing"
+],
+[
+"住院",
+2,
+"zhù yuàn",
+"to be in hospital; to be hospitalized"
+],
+[
+"抓住",
+3,
+"zhuā zhù",
+"to grab; to capture"
+],
+[
+"居住",
+4,
+"jū zhù",
+"to reside; to dwell; to live in a place; resident in"
 ],
 [
 "忍不住",
@@ -19,37 +55,49 @@
 "cannot help; unable to bear"
 ],
 [
-"居住",
-6,
-"jū zhù",
-"to reside; to dwell; to live in a place; resident in"
-],
-[
 "住宅",
 6,
 "zhù zhái",
 "residence; tenement"
+],
+[
+"禁不住",
+7,
+"jīn bu zhù",
+"can't help it; can't bear it"
+],
+[
+"衣食住行",
+7,
+"yī shí zhù xíng",
+"clothing, food, housing and transport (idiom); people's basic needs"
+],
+[
+"住处",
+7,
+"zhù chù",
+"residence; dwelling; dwelling place"
+],
+[
+"住户",
+7,
+"zhù hù",
+"household; inhabitant; householder"
+],
+[
+"住宿",
+7,
+"zhù sù",
+"to stay at; lodging; accommodation"
+],
+[
+"住址",
+7,
+"zhù zhǐ",
+"address"
 ]
 ],
 "extraWords": [
-[
-"抓住",
-133.58,
-"zhuā zhù",
-"to grab; to capture"
-],
-[
-"记住",
-104.75,
-"jì zhu",
-"to remember; to bear in mind; to learn by heart"
-],
-[
-"住房",
-83.37,
-"zhù fáng",
-"housing"
-],
 [
 "住手",
 55.95,
@@ -63,28 +111,10 @@
 "repeatedly; continuously; constantly; unable to (resist, conceal etc)"
 ],
 [
-"住院",
-26.57,
-"zhù yuàn",
-"to be in hospital; to be hospitalized"
-],
-[
-"站住",
-24.15,
-"zhàn zhù",
-"to stand"
-],
-[
 "保住",
 15.47,
 "bǎo zhù",
 "to preserve; to save"
-],
-[
-"住处",
-14.31,
-"zhù chù",
-"residence; dwelling; dwelling place"
 ],
 [
 "住嘴",
@@ -105,18 +135,6 @@
 "to jam; to choke; to clutch; also pr. [qia3 zhu4]"
 ],
 [
-"住户",
-10.9,
-"zhù hù",
-"household; inhabitant; householder"
-],
-[
-"住宿",
-9.61,
-"zhù sù",
-"to stay at; lodging; accommodation"
-],
-[
 "拦住",
 9.42,
 "lán zhù",
@@ -132,19 +150,19 @@
 "住所",
 7.99,
 "zhù suǒ",
-"habitation; dwelling place; residence; CL:處|处[chu4]"
+"habitation; dwelling place; residence; CL:处[chù]"
+],
+[
+"稳住",
+7.78,
+"???",
+"???"
 ],
 [
 "住口",
 6.95,
 "zhù kǒu",
 "shut up; shut your mouth; stop talking"
-],
-[
-"住址",
-6.38,
-"zhù zhǐ",
-"address"
 ],
 [
 "堵住",

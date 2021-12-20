@@ -1,6 +1,6 @@
 {
 "char": "针",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "needle; pin; tack; acupuncture",
 "pron": "zhēn"
@@ -13,22 +13,46 @@
 "to give or have an injection"
 ],
 [
+"方针",
+4,
+"fāng zhēn",
+"policy; guidelines; CL:个[gè]"
+],
+[
+"针",
+4,
+"zhēn",
+"needle; pin; injection; stitch; CL:根[gēn],支[zhī]"
+],
+[
+"针",
+4,
+"zhēn",
+"variant of 针[zhēn], needle"
+],
+[
 "针对",
-5,
+4,
 "zhēn duì",
 "to target; to focus on; to be aimed at or against; in response to"
 ],
 [
-"指南针",
-6,
-"zhǐ nán zhēn",
-"compass"
+"针锋相对",
+7,
+"zhēn fēng xiāng duì",
+"to oppose each other with equal harshness (idiom); tit for tat; measure for measure"
 ],
 [
-"方针",
-6,
-"fāng zhēn",
-"policy; guidelines; CL:個|个[ge4]"
+"针灸",
+7,
+"zhēn jiǔ",
+"acupuncture and moxibustion; to give or have acupuncture and moxibustion"
+],
+[
+"指南针",
+7,
+"zhǐ nán zhēn",
+"compass"
 ]
 ],
 "extraWords": [
@@ -43,12 +67,6 @@
 11.21,
 "zhēn zhī",
 "knitting; knitted garment"
-],
-[
-"针灸",
-6.35,
-"zhēn jiǔ",
-"acupuncture and moxibustion; to give or have acupuncture and moxibustion"
 ],
 [
 "针刺",

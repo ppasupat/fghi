@@ -1,6 +1,6 @@
 {
 "char": "侣",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "companion; associate with",
 "pron": "lǚ"
@@ -8,17 +8,23 @@
 "words": [
 [
 "伴侣",
-6,
+7,
 "bàn lǚ",
 "companion; mate; partner"
+],
+[
+"情侣",
+7,
+"qíng lǚ",
+"sweethearts; lovers"
 ]
 ],
 "extraWords": [
 [
-"情侣",
-23.42,
-"qíng lǚ",
-"sweethearts; lovers"
+"侣",
+2.62,
+"lǚ",
+"companion"
 ]
 ],
 "strokes": [

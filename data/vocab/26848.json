@@ -1,12 +1,31 @@
 {
 "char": "棠",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "crab apple tree; wild plums",
 "pron": "táng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"棠",
+3.86,
+"táng",
+"cherry-apple"
+],
+[
+"海棠",
+2.82,
+"hǎi táng",
+"Chinese flowering crab apple (Malus spectabilis)"
+],
+[
+"左宗棠",
+0.65,
+"Zuǒ Zōng táng",
+"Zuo Zongtang (1812-1885), Chinese administrator and military leader"
+]
+],
 "strokes": [
 "M 525 624 Q 534 708 554 806 Q 558 816 539 830 Q 508 848 486 852 Q 471 856 464 848 Q 457 841 464 827 Q 477 809 478 797 Q 485 715 485 618 C 485 588 522 594 525 624 Z",
 "M 328 716 Q 385 644 412 641 Q 425 640 433 659 Q 434 672 425 694 Q 415 712 389 722 Q 350 741 333 744 Q 323 745 322 734 Q 321 725 328 716 Z",

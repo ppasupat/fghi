@@ -1,19 +1,32 @@
 {
 "char": "窍",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "hole, opening, aperture",
 "pron": "qiào"
 },
 "words": [
 [
+"诀窍",
+7,
+"jué qiào",
+"secret; trick; knack; key"
+],
+[
 "窍门",
-6,
+7,
 "qiào mén",
 "a trick; an ingenious method; know-how; the knack (of doing sth)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"窍",
+4.04,
+"qiào",
+"hole; opening; orifice (of the human body); (fig.) key (to the solution of a problem)"
+]
+],
 "strokes": [
 "M 472 803 Q 497 782 523 757 Q 538 745 553 746 Q 563 747 569 760 Q 573 776 563 805 Q 557 823 528 835 Q 459 859 444 851 Q 440 847 441 834 Q 445 824 472 803 Z",
 "M 289 677 Q 276 702 264 712 Q 245 728 242 699 Q 245 678 228 642 Q 177 588 179 570 Q 179 543 195 511 Q 211 483 233 512 Q 249 537 262 574 Q 277 620 288 646 C 296 665 296 665 289 677 Z",

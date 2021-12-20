@@ -1,6 +1,6 @@
 {
 "char": "借",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "borrow; lend; make pretext of",
 "pron": "jiè"
@@ -8,42 +8,54 @@
 "words": [
 [
 "借",
-3,
+2,
 "jiè",
 "to lend; to borrow; by means of; to take (an opportunity)"
 ],
 [
 "借",
-3,
+2,
 "jiè",
-"variant of 借[jie4]"
-],
-[
-"借口",
-5,
-"jiè kǒu",
-"to use as an excuse; on the pretext; excuse; pretext"
-],
-[
-"借助",
-6,
-"jiè zhù",
-"to draw support from; with the help of"
+"variant of 借[jiè]"
 ],
 [
 "借鉴",
 6,
 "jiè jiàn",
 "to draw on (others' experience); to learn from (how others do things); lesson to be learned (by observing others)"
+],
+[
+"借口",
+7,
+"jiè kǒu",
+"to use as an excuse; on the pretext; excuse; pretext"
+],
+[
+"借条",
+7,
+"jiè tiáo",
+"receipt for a loan; IOU"
+],
+[
+"借用",
+7,
+"jiè yòng",
+"to borrow sth for another use; to borrow an idea for one's own use"
+],
+[
+"借助",
+7,
+"jiè zhù",
+"to draw support from; with the help of"
+],
+[
+"凭借",
+7,
+"píng jiè",
+"to rely on; to depend on; by means of; thanks to; sth that one relies on"
 ]
 ],
 "extraWords": [
-[
-"凭借",
-31.85,
-"píng jiè",
-"to rely on; to depend on; by means of; thanks to; sth that one relies on"
-],
 [
 "借款",
 15.72,
@@ -55,12 +67,6 @@
 7.95,
 "jiè cǐ",
 "using this as a pretext; thereby"
-],
-[
-"借用",
-7.48,
-"jiè yòng",
-"to borrow sth for another use; to borrow an idea for one's own use"
 ],
 [
 "借钱",

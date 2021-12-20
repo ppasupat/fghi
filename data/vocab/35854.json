@@ -1,36 +1,42 @@
 {
 "char": "谎",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "lie",
 "pron": "huǎng"
 },
 "words": [
 [
-"撒谎",
-6,
-"sā huǎng",
-"to tell lies"
-]
-],
-"extraWords": [
-[
-"说谎",
-61.94,
-"shuō huǎng",
-"to lie; to tell an untruth"
+"谎话",
+7,
+"huǎng huà",
+"lie"
 ],
 [
 "谎言",
-34.94,
+7,
 "huǎng yán",
 "lie"
 ],
 [
-"谎话",
-11.18,
-"huǎng huà",
-"lie"
+"撒谎",
+7,
+"sā huǎng",
+"to tell lies"
+],
+[
+"说谎",
+7,
+"shuō huǎng",
+"to lie; to tell an untruth"
+]
+],
+"extraWords": [
+[
+"谎",
+22.89,
+"huǎng",
+"lies; to lie"
 ]
 ],
 "strokes": [

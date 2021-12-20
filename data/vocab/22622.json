@@ -1,22 +1,40 @@
 {
 "char": "塞",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "stop up, block, seal, cork; pass, frontier; fortress",
 "pron": "sāi, sài, sè"
 },
 "words": [
 [
-"堵塞",
+"塞",
 6,
-"dǔ sè",
-"to clog up; blockage"
+"Sāi",
+"Serbia; Serbian; abbr. for 塞尔维亚[Sāi ěr wéi yà]"
 ],
 [
-"闭塞",
+"塞",
 6,
-"bì sè",
-"to stop up; to close up; hard to get to; out of the way; inaccessible; unenlightened; blocking"
+"sāi",
+"to stop up; to squeeze in; to stuff; cork; stopper"
+],
+[
+"塞",
+6,
+"sài",
+"strategic pass; tactical border position"
+],
+[
+"塞",
+6,
+"sè",
+"to stop up; to stuff; to cope with"
+],
+[
+"堵塞",
+7,
+"dǔ sè",
+"to clog up; blockage"
 ]
 ],
 "extraWords": [

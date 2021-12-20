@@ -1,36 +1,48 @@
 {
 "char": "够",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "enough, adequate",
 "pron": "gòu"
 },
 "words": [
 [
-"够",
-4,
-"gòu",
-"enough (sufficient); enough (too much); (coll.) (before adj.) really; (coll.) to reach by stretching out"
-]
-],
-"extraWords": [
-[
-"能够",
-299.24,
-"néng gòu",
-"to be capable of; to be able to; can"
-],
-[
 "不够",
-88.98,
+2,
 "bù gòu",
 "not enough; insufficient; inadequate"
 ],
 [
+"够",
+2,
+"gòu",
+"enough (sufficient); enough (too much); (coll.) (before adj.) really; (coll.) to reach by stretching out"
+],
+[
+"能够",
+2,
+"néng gòu",
+"to be capable of; to be able to; can"
+],
+[
 "足够",
-87.79,
+3,
 "zú gòu",
 "enough; sufficient"
+],
+[
+"够呛",
+7,
+"gòu qiàng",
+"unbearable; terrible; enough; unlikely"
+]
+],
+"extraWords": [
+[
+"够了",
+17.85,
+"???",
+"???"
 ],
 [
 "够用",

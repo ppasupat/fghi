@@ -1,82 +1,178 @@
 {
 "char": "手",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "hand",
 "pron": "shǒu"
 },
 "words": [
 [
+"手",
+1,
+"shǒu",
+"hand; (formal) to hold; person engaged in certain types of work; person skilled in certain types of work; personal(ly); convenient; classifier for skill; CL:双[shuāng],只[zhī]"
+],
+[
 "手机",
-2,
+1,
 "shǒu jī",
-"cell phone; mobile phone; CL:部[bu4],支[zhi1]"
+"cell phone; mobile phone; CL:部[bù],支[zhī]"
+],
+[
+"洗手间",
+1,
+"xǐ shǒu jiān",
+"toilet; lavatory; washroom"
+],
+[
+"举手",
+2,
+"jǔ shǒu",
+"to raise a hand; to put up one's hand (as signal)"
 ],
 [
 "手表",
 2,
 "shǒu biǎo",
-"wristwatch; CL:塊|块[kuai4],隻|只[zhi1],個|个[ge4]"
-],
-[
-"洗手间",
-3,
-"xǐ shǒu jiān",
-"toilet; lavatory; washroom"
-],
-[
-"手术",
-5,
-"shǒu shù",
-"(surgical) operation; surgery; CL:個|个[ge4]"
-],
-[
-"分手",
-5,
-"fēn shǒu",
-"to part company; to split up; to break up"
+"wristwatch; CL:块[kuài],只[zhī],个[gè]"
 ],
 [
 "对手",
-5,
+3,
 "duì shǒu",
 "opponent; rival; competitor; (well-matched) adversary; match"
 ],
 [
-"手指",
-5,
-"shǒu zhǐ",
-"finger; CL:個|个[ge4],隻|只[zhi1]"
+"歌手",
+3,
+"gē shǒu",
+"singer"
 ],
 [
-"手套",
-5,
-"shǒu tào",
-"glove; mitten; CL:雙|双[shuang1],隻|只[zhi1]"
+"手续",
+3,
+"shǒu xù",
+"procedure; CL:道[dào],个[gè]; formalities"
+],
+[
+"手指",
+3,
+"shǒu zhǐ",
+"finger; CL:个[gè],只[zhī]"
 ],
 [
 "握手",
-5,
+3,
 "wò shǒu",
 "to shake hands"
 ],
 [
+"选手",
+3,
+"xuǎn shǒu",
+"athlete; contestant"
+],
+[
+"二手",
+4,
+"èr shǒu",
+"indirectly acquired; second-hand (information, equipment etc); assistant"
+],
+[
+"分手",
+4,
+"fēn shǒu",
+"to part company; to split up; to break up"
+],
+[
 "手工",
-5,
+4,
 "shǒu gōng",
 "handwork; manual"
 ],
 [
-"手续",
-5,
-"shǒu xù",
-"procedure; CL:道[dao4],個|个[ge4]; formalities"
+"手里",
+4,
+"shǒu lǐ",
+"in hand; (a situation is) in sb's hands"
+],
+[
+"手术",
+4,
+"shǒu shù",
+"(surgical) operation; surgery; CL:个[gè]"
+],
+[
+"手套",
+4,
+"shǒu tào",
+"glove; mitten; CL:双[shuāng],只[zhī]"
 ],
 [
 "随手",
-5,
+4,
 "suí shǒu",
 "conveniently; without extra trouble; while doing it; in passing"
+],
+[
+"动手",
+5,
+"dòng shǒu",
+"to set about (a task); to hit; to punch; to touch"
+],
+[
+"手段",
+5,
+"shǒu duàn",
+"method; means (of doing sth); strategy; trick; CL:个[gè]"
+],
+[
+"手法",
+5,
+"shǒu fǎ",
+"technique; trick; skill"
+],
+[
+"双手",
+5,
+"shuāng shǒu",
+"both hands"
+],
+[
+"招手",
+5,
+"zhāo shǒu",
+"to wave; to beckon"
+],
+[
+"助手",
+5,
+"zhù shǒu",
+"assistant; helper"
+],
+[
+"高手",
+6,
+"gāo shǒu",
+"expert; past master; dab hand"
+],
+[
+"联手",
+6,
+"lián shǒu",
+"lit. to join hands; to act together"
+],
+[
+"两手",
+6,
+"liǎng shǒu",
+"one's two hands; two prongs (of a strategy); both aspects, eventualities etc; skills; expertise"
+],
+[
+"手续费",
+6,
+"shǒu xù fèi",
+"service charge; processing fee; commission"
 ],
 [
 "凶手",
@@ -85,91 +181,265 @@
 "murderer; assassin"
 ],
 [
-"选手",
-6,
-"xuǎn shǒu",
-"athlete; contestant"
-],
-[
-"动手",
-6,
-"dòng shǒu",
-"to set about (a task); to hit; to punch; to touch"
-],
-[
-"助手",
-6,
-"zhù shǒu",
-"assistant; helper"
-],
-[
-"手法",
-6,
-"shǒu fǎ",
-"technique; trick; skill"
-],
-[
-"着手",
-6,
-"zhuó shǒu",
-"to put one's hand to it; to start out on a task; to set out"
-],
-[
-"拿手",
-6,
-"ná shǒu",
-"expert in; good at"
-],
-[
-"手势",
-6,
-"shǒu shì",
-"gesture; sign; signal"
-],
-[
-"不择手段",
-6,
-"bù zé shǒu duàn",
-"by fair means or foul; by hook or by crook; unscrupulously"
+"爱不释手",
+7,
+"ài bù shì shǒu",
+"to love sth too much to part with it (idiom); to fondle admiringly"
 ],
 [
 "把手",
-6,
+7,
 "bǎ shǒu",
 "to shake hands"
 ],
 [
 "把手",
-6,
+7,
 "bǎ shou",
 "handle; grip; knob"
 ],
 [
+"帮手",
+7,
+"bāng shǒu",
+"helper; assistant"
+],
+[
+"插手",
+7,
+"chā shǒu",
+"to get involved in; to meddle; interference"
+],
+[
+"出手",
+7,
+"chū shǒu",
+"to dispose of; to spend (money); to undertake a task"
+],
+[
+"措手不及",
+7,
+"cuò shǒu bù jí",
+"no time to deal with it (idiom); caught unprepared"
+],
+[
+"得手",
+7,
+"dé shǒu",
+"to go smoothly; to come off; to succeed"
+],
+[
+"第一手",
+7,
+"dì yī shǒu",
+"first-hand"
+],
+[
+"舵手",
+7,
+"duò shǒu",
+"helmsman"
+],
+[
+"二手车",
+7,
+"èr shǒu chē",
+"second-hand car"
+],
+[
+"黑手",
+7,
+"hēi shǒu",
+"(fig.) malign agent who manipulates from behind the scenes; hidden hand; (Tw) mechanic; blue-collar worker; manual laborer"
+],
+[
+"棘手",
+7,
+"jí shǒu",
+"thorny (problem); intractable"
+],
+[
+"接手",
+7,
+"jiē shǒu",
+"to take over (duties etc); catcher (baseball etc)"
+],
+[
+"拿手",
+7,
+"ná shǒu",
+"expert in; good at"
+],
+[
+"亲手",
+7,
+"qīn shǒu",
+"personally; with one's own hands"
+],
+[
+"人手",
+7,
+"rén shǒu",
+"manpower; staff; human hand"
+],
+[
+"入手",
+7,
+"rù shǒu",
+"to begin; to set one's hand to"
+],
+[
+"杀手",
+7,
+"shā shǒu",
+"killer; murderer; hit man; (sports) formidable player"
+],
+[
+"伸手",
+7,
+"shēn shǒu",
+"to reach out with one's hand; to hold out a hand; (fig.) to beg; to get involved; to meddle"
+],
+[
+"手臂",
+7,
+"shǒu bì",
+"arm; helper"
+],
+[
+"手册",
+7,
+"shǒu cè",
+"manual; handbook"
+],
+[
+"手动",
+7,
+"shǒu dòng",
+"manual; manually operated; manual gear-change"
+],
+[
+"手脚",
+7,
+"shǒu jiǎo",
+"hand and foot; movement of limbs; action; trick; step in a procedure (CL:道[dào])"
+],
+[
+"手帕",
+7,
+"shǒu pà",
+"handkerchief; CL:方[fāng]"
+],
+[
+"手枪",
+7,
+"shǒu qiāng",
+"pistol; CL:把[bǎ]"
+],
+[
+"手势",
+7,
+"shǒu shì",
+"gesture; sign; signal"
+],
+[
+"手术室",
+7,
+"shǒu shù shì",
+"operating room"
+],
+[
+"手头",
+7,
+"shǒu tóu",
+"on hand; at hand; one's financial situation"
+],
+[
+"手腕",
+7,
+"shǒu wàn",
+"wrist; trickery; finesse; ability; skill"
+],
+[
 "手艺",
-6,
+7,
 "shǒu yì",
 "craftmanship; workmanship; handicraft; trade"
 ],
 [
-"爱不释手",
-6,
-"ài bù shì shǒu",
-"to love sth too much to part with it (idiom); to fondle admiringly"
+"手掌",
+7,
+"shǒu zhǎng",
+"palm"
+],
+[
+"水手",
+7,
+"shuǐ shǒu",
+"mariner; sailor; seaman"
+],
+[
+"顺手",
+7,
+"shùn shǒu",
+"easily; without trouble; while one is at it; in passing; handy"
+],
+[
+"下手",
+7,
+"xià shǒu",
+"to start; to put one's hand to; to set about; the seat to the right of the main guest"
+],
+[
+"携手",
+7,
+"xié shǒu",
+"hand in hand; to join hands; to collaborate"
+],
+[
+"心灵手巧",
+7,
+"xīn líng shǒu qiǎo",
+"capable; clever; dexterous"
+],
+[
+"新手",
+7,
+"xīn shǒu",
+"new hand; novice; raw recruit"
+],
+[
+"袖手旁观",
+7,
+"xiù shǒu páng guān",
+"to watch with folded arms (idiom); to look on without lifting a finger"
+],
+[
+"一把手",
+7,
+"yī bǎ shǒu",
+"working hand; member of a work team; participant; (short form of 第一把手[dì yī bǎ shǒu]) the boss"
+],
+[
+"一手",
+7,
+"yī shǒu",
+"a skill; mastery of a trade; by oneself; without outside help"
+],
+[
+"指手画脚",
+7,
+"zhǐ shǒu huà jiǎo",
+"to gesticulate while talking (idiom); to explain by waving one's hands; to criticize or give orders summarily"
+],
+[
+"着手",
+7,
+"zhuó shǒu",
+"to put one's hand to it; to start out on a task; to set out"
 ]
 ],
 "extraWords": [
-[
-"手段",
-99.89,
-"shǒu duàn",
-"method; means (of doing sth); strategy; trick; CL:個|个[ge4]"
-],
-[
-"杀手",
-76.28,
-"shā shǒu",
-"killer; murderer; hit man; (sports) formidable player"
-],
 [
 "住手",
 55.95,
@@ -183,28 +453,10 @@
 "archer; shooter; marksman; (football etc) striker"
 ],
 [
-"手里",
-46.92,
-"shǒu lǐ",
-"in hand; (a situation is) in sb's hands"
-],
-[
-"歌手",
-41.58,
-"gē shǒu",
-"singer"
-],
-[
-"双手",
-36.13,
-"shuāng shǒu",
-"both hands"
-],
-[
-"高手",
-35.81,
-"gāo shǒu",
-"expert; past master; dab hand"
+"手上",
+49.69,
+"???",
+"???"
 ],
 [
 "放手",
@@ -213,22 +465,10 @@
 "to let go one's hold; to give up; to have a free hand"
 ],
 [
-"出手",
-27.61,
-"chū shǒu",
-"to dispose of; to spend (money); to undertake a task"
-],
-[
-"手臂",
-24.86,
-"shǒu bì",
-"arm; helper"
-],
-[
-"一手",
-23.86,
-"yī shǒu",
-"a skill; mastery of a trade; by oneself; without outside help"
+"手中",
+22.66,
+"???",
+"???"
 ],
 [
 "手下",
@@ -237,10 +477,10 @@
 "under one's control or administration; subordinates; (money etc) on hand; sb's financial means; to take action"
 ],
 [
-"下手",
-20.24,
-"xià shǒu",
-"to start; to put one's hand to; to set about; the seat to the right of the main guest"
+"车手",
+20.85,
+"???",
+"???"
 ],
 [
 "二手房",
@@ -255,58 +495,10 @@
 "right hand; right-hand side"
 ],
 [
-"手枪",
-18.39,
-"shǒu qiāng",
-"pistol; CL:把[ba3]"
-],
-[
-"伸手",
-17.66,
-"shēn shǒu",
-"to reach out with one's hand; to hold out a hand; (fig.) to beg; to get involved; to meddle"
-],
-[
-"联手",
-16.78,
-"lián shǒu",
-"lit. to join hands; to act together"
-],
-[
 "左手",
 16.59,
 "zuǒ shǒu",
 "left hand; left-hand side"
-],
-[
-"接手",
-15.74,
-"jiē shǒu",
-"to take over (duties etc); catcher (baseball etc)"
-],
-[
-"入手",
-14.31,
-"rù shǒu",
-"to begin; to set one's hand to"
-],
-[
-"携手",
-14.3,
-"xié shǒu",
-"hand in hand; to join hands; to collaborate"
-],
-[
-"插手",
-14.22,
-"chā shǒu",
-"to get involved in; to meddle; interference"
-],
-[
-"亲手",
-13.77,
-"qīn shǒu",
-"personally; with one's own hands"
 ],
 [
 "手铐",
@@ -315,46 +507,10 @@
 "manacles; handcuffs"
 ],
 [
-"举手",
-12.15,
-"jǔ shǒu",
-"to raise a hand; to put up one's hand (as signal)"
-],
-[
 "到手",
 12.06,
 "dào shǒu",
 "to take possession of; to get hold of"
-],
-[
-"手头",
-11.72,
-"shǒu tóu",
-"on hand; at hand; one's financial situation"
-],
-[
-"手脚",
-11.24,
-"shǒu jiǎo",
-"hand and foot; movement of limbs; action; trick; step in a procedure (CL:道[dao4])"
-],
-[
-"手腕",
-11.03,
-"shǒu wàn",
-"wrist; trickery; finesse; ability; skill"
-],
-[
-"帮手",
-10.73,
-"bāng shǒu",
-"helper; assistant"
-],
-[
-"手术室",
-10.31,
-"shǒu shù shì",
-"operating room"
 ],
 [
 "狙击手",
@@ -363,40 +519,16 @@
 "sniper; marksman"
 ],
 [
-"得手",
-10.08,
-"dé shǒu",
-"to go smoothly; to come off; to succeed"
-],
-[
-"二手",
-9.88,
-"èr shǒu",
-"indirectly acquired; second-hand (information, equipment etc); assistant"
-],
-[
-"人手",
-9.55,
-"rén shǒu",
-"manpower; staff; human hand"
-],
-[
-"棘手",
-9.45,
-"jí shǒu",
-"thorny (problem); intractable"
+"停手",
+9.72,
+"???",
+"???"
 ],
 [
 "棋手",
 9.45,
 "qí shǒu",
 "chess player"
-],
-[
-"手册",
-9.12,
-"shǒu cè",
-"manual; handbook"
 ],
 [
 "拉手",
@@ -417,22 +549,10 @@
 "gunman; sharpshooter; sb who takes an exam for sb else; sb who produces a piece of work for sb else to pass off as their own"
 ],
 [
-"水手",
-8.88,
-"shuǐ shǒu",
-"mariner; sailor; seaman"
-],
-[
 "挥手",
 8.86,
 "huī shǒu",
 "to wave (one's hand)"
-],
-[
-"手掌",
-8.67,
-"shǒu zhǎng",
-"palm"
 ],
 [
 "洗手",
@@ -444,25 +564,13 @@
 "空手",
 7.51,
 "kōng shǒu",
-"empty-handed; unarmed; (painting, embroidery etc) without following a model; (abbr. for 空手道[kong1 shou3 dao4]) karate"
-],
-[
-"新手",
-7.46,
-"xīn shǒu",
-"new hand; novice; raw recruit"
+"empty-handed; unarmed; (painting, embroidery etc) without following a model; (abbr. for 空手道[kōng shǒu dào]) karate"
 ],
 [
 "手感",
 7.12,
 "shǒu gǎn",
 "the feel (of sth touched with the hand); (textiles) handle"
-],
-[
-"手续费",
-7.0,
-"shǒu xù fèi",
-"service charge; processing fee; commission"
 ],
 [
 "交手",
@@ -477,24 +585,6 @@
 "luck (in gambling)"
 ],
 [
-"袖手旁观",
-6.14,
-"xiù shǒu páng guān",
-"to watch with folded arms (idiom); to look on without lifting a finger"
-],
-[
-"顺手",
-6.13,
-"shùn shǒu",
-"easily; without trouble; while one is at it; in passing; handy"
-],
-[
-"两手",
-6.1,
-"liǎng shǒu",
-"one's two hands; two prongs (of a strategy); both aspects, eventualities etc; skills; expertise"
-],
-[
 "投手",
 6.05,
 "tóu shǒu",
@@ -507,16 +597,16 @@
 "bracelet"
 ],
 [
-"一把手",
-5.64,
-"yī bǎ shǒu",
-"working hand; member of a work team; participant; (short form of 第一把手[di4 yi1 ba3 shou3]) the boss"
-],
-[
 "手淫",
 5.6,
 "shǒu yín",
 "to masturbate; masturbation"
+],
+[
+"动手术",
+5.57,
+"???",
+"???"
 ],
 [
 "黑手党",
@@ -529,12 +619,6 @@
 5.54,
 "sōng shǒu",
 "to relinquish one's grip; to let go"
-],
-[
-"二手车",
-5.39,
-"èr shǒu chē",
-"second-hand car"
 ],
 [
 "手榴弹",

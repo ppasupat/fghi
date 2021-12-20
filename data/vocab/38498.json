@@ -1,36 +1,96 @@
 {
 "char": "院",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "courtyard, yard, court; school",
 "pron": "yuàn"
 },
 "words": [
 [
+"电影院",
+1,
+"diàn yǐng yuàn",
+"cinema; movie theater; CL:家[jiā],座[zuò]"
+],
+[
+"学院",
+1,
+"xué yuàn",
+"college; educational institute; school; faculty; CL:所[suǒ]"
+],
+[
 "医院",
 1,
 "yī yuàn",
-"hospital; CL:所[suo3],家[jia1],座[zuo4]"
+"hospital; CL:所[suǒ],家[jiā],座[zuò]"
+],
+[
+"出院",
+2,
+"chū yuàn",
+"to leave hospital; to be discharged from hospital"
+],
+[
+"院",
+2,
+"yuàn",
+"courtyard; institution; CL:个[gè]"
+],
+[
+"院长",
+2,
+"yuàn zhǎng",
+"the head of an institution whose name ends in 院[yuàn]; chair of a board; president of a university; department head; dean; premier of the Republic of China; CL:个[gè]"
+],
+[
+"院子",
+2,
+"yuàn zi",
+"courtyard; garden; yard; patio; CL:个[gè]; (old) servant"
+],
+[
+"住院",
+2,
+"zhù yuàn",
+"to be in hospital; to be hospitalized"
 ],
 [
 "法院",
-5,
+4,
 "fǎ yuàn",
 "court of law; court"
 ],
 [
-"国务院",
-6,
-"Guó wù yuàn",
-"State Council (PRC); State Department (USA)"
+"剧院",
+7,
+"jù yuàn",
+"theater; CL:家[jiā],座[zuò]"
+],
+[
+"四合院",
+7,
+"sì hé yuàn",
+"courtyard house with a fully enclosed courtyard (type of Chinese residence)"
+],
+[
+"养老院",
+7,
+"yǎng lǎo yuàn",
+"nursing home"
+],
+[
+"院士",
+7,
+"yuàn shì",
+"scholar; academician; fellow (of an academy)"
 ]
 ],
 "extraWords": [
 [
-"学院",
-62.29,
-"xué yuàn",
-"college; educational institute; school; faculty; CL:所[suo3]"
+"国务院",
+75.67,
+"Guó wù yuàn",
+"State Council (PRC); State Department (USA)"
 ],
 [
 "院校",
@@ -39,46 +99,10 @@
 "college; academy; educational institution"
 ],
 [
-"住院",
-26.57,
-"zhù yuàn",
-"to be in hospital; to be hospitalized"
-],
-[
-"院长",
-20.69,
-"yuàn zhǎng",
-"the head of an institution whose name ends in 院[yuan4]; chair of a board; president of a university; department head; dean; premier of the Republic of China; CL:個|个[ge4]"
-],
-[
-"剧院",
-17.71,
-"jù yuàn",
-"theater; CL:家[jia1],座[zuo4]"
-],
-[
 "人民法院",
 16.34,
 "rén mín fǎ yuàn",
 "people's court (of law); people's tribunal"
-],
-[
-"出院",
-12.1,
-"chū yuàn",
-"to leave hospital; to be discharged from hospital"
-],
-[
-"院士",
-12.04,
-"yuàn shì",
-"scholar; academician; fellow (of an academy)"
-],
-[
-"院子",
-11.33,
-"yuàn zi",
-"courtyard; garden; yard; patio; CL:個|个[ge4]; (old) servant"
 ],
 [
 "后院",
@@ -93,6 +117,12 @@
 "research institute; academy"
 ],
 [
+"人民医院",
+10.8,
+"???",
+"???"
+],
+[
 "影院",
 10.25,
 "yǐng yuàn",
@@ -105,16 +135,16 @@
 "to enter hospital; to be hospitalized"
 ],
 [
-"电影院",
-9.72,
-"diàn yǐng yuàn",
-"cinema; movie theater; CL:家[jia1],座[zuo4]"
-],
-[
 "医学院",
 8.47,
 "yī xué yuàn",
 "medical school"
+],
+[
+"精神病院",
+8.44,
+"???",
+"???"
 ],
 [
 "检察院",
@@ -132,7 +162,7 @@
 "科学院",
 7.56,
 "kē xué yuàn",
-"academy of sciences; CL:個|个[ge4]"
+"academy of sciences; CL:个[gè]"
 ],
 [
 "中国科学院",
@@ -171,10 +201,22 @@
 "Supreme People's Court (PRC)"
 ],
 [
+"卫生院",
+5.75,
+"???",
+"???"
+],
+[
+"总医院",
+5.65,
+"???",
+"???"
+],
+[
 "中科院",
 5.47,
 "Zhōng kē yuàn",
-"abbr. for 中國社會科學院|中国社会科学院[Zhong1 guo2 She4 hui4 Ke1 xue2 yuan4], Chinese Academy of Sciences (CAS)"
+"abbr. for 中国社会科学院[Zhōng guó Shè huì Kē xué yuàn], Chinese Academy of Sciences (CAS)"
 ],
 [
 "社科院",

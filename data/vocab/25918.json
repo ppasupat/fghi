@@ -1,6 +1,6 @@
 {
 "char": "放",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "put, release, free, liberate",
 "pron": "fàng"
@@ -8,21 +8,51 @@
 "words": [
 [
 "放",
-3,
+1,
 "fàng",
 "to put; to place; to release; to free; to let go; to let out; to set off (fireworks)"
 ],
 [
+"放假",
+1,
+"fàng jià",
+"to have a holiday or vacation"
+],
+[
+"放学",
+1,
+"fàng xué",
+"to dismiss students at the end of the school day"
+],
+[
+"放下",
+2,
+"fàng xià",
+"to lay down; to put down; to let go of; to relinquish; to set aside; to lower (the blinds etc)"
+],
+[
 "放心",
-3,
+2,
 "fàng xīn",
 "to feel relieved; to feel reassured; to be at ease"
 ],
 [
-"放弃",
-4,
-"fàng qì",
-"to renounce; to abandon; to give up"
+"播放",
+3,
+"bō fàng",
+"to broadcast; to transmit"
+],
+[
+"放到",
+3,
+"???",
+"???"
+],
+[
+"开放",
+3,
+"kāi fàng",
+"to bloom; to open; to be open (to the public); to open up (to the outside); to be open-minded; unrestrained by convention; unconstrained in one's sexuality"
 ],
 [
 "放松",
@@ -31,61 +61,121 @@
 "to loosen; to relax"
 ],
 [
-"放暑假",
-4,
-"fang4 shu3 jia4",
-"to have a summer vacation"
-],
-[
-"播放",
-5,
-"bō fàng",
-"to broadcast; to transmit"
-],
-[
-"开放",
-5,
-"kāi fàng",
-"to bloom; to open; to be open (to the public); to open up (to the outside); to be open-minded; unrestrained by convention; unconstrained in one's sexuality"
-],
-[
-"释放",
-6,
-"shì fàng",
-"to release; to set free; to liberate (a prisoner); to discharge"
-],
-[
-"解放",
-6,
-"jiě fàng",
-"to liberate; to emancipate; liberation; refers to the Communists' victory over the Nationalists in 1949; CL:次[ci4]"
-],
-[
 "放大",
-6,
+5,
 "fàng dà",
 "to enlarge; to magnify"
 ],
 [
-"放射",
+"放弃",
+5,
+"fàng qì",
+"to renounce; to abandon; to give up"
+],
+[
+"解放",
+5,
+"jiě fàng",
+"to liberate; to emancipate; liberation; refers to the Communists' victory over the Nationalists in 1949; CL:次[cì]"
+],
+[
+"发放",
 6,
-"fàng shè",
-"to radiate; radioactive"
+"fā fàng",
+"to provide; to give; to grant"
+],
+[
+"摆放",
+7,
+"bǎi fàng",
+"to set up; to arrange; to lay out"
+],
+[
+"存放",
+7,
+"cún fàng",
+"to deposit; to store; to leave in sb's care"
+],
+[
+"放过",
+7,
+"fàng guò",
+"to let off; to let slip by; to let sb get away with sth"
+],
+[
+"放水",
+7,
+"fàng shuǐ",
+"to turn on the water; to let water out; to throw a game (sports)"
+],
+[
+"放肆",
+7,
+"fàng sì",
+"wanton; unbridled; presumptuous; impudent"
+],
+[
+"放映",
+7,
+"fàng yìng",
+"to show (a movie); to screen"
+],
+[
+"放置",
+7,
+"fàng zhì",
+"to put"
+],
+[
+"放纵",
+7,
+"fàng zòng",
+"to indulge; to pamper; to connive at; permissive; indulgent; self-indulgent; unrestrained; undisciplined; uncultured; boorish"
+],
+[
+"改革开放",
+7,
+"gǎi gé kāi fàng",
+"to reform and open to the outside world; refers to Deng Xiaoping's policies from around 1980"
 ],
 [
 "排放",
-6,
+7,
 "pái fàng",
 "emission; discharge; exhaust (gas etc)"
+],
+[
+"燃放",
+7,
+"rán fàng",
+"to light; to set off (firecrackers etc)"
+],
+[
+"释放",
+7,
+"shì fàng",
+"to release; to set free; to liberate (a prisoner); to discharge"
+],
+[
+"停放",
+7,
+"tíng fàng",
+"to park (a car etc); to moor (a boat etc); to leave sth (in a place)"
+],
+[
+"有的放矢",
+7,
+"yǒu dì fàng shǐ",
+"lit. to have a target in mind when shooting one's arrows (idiom); fig. to have a clear objective"
+],
+[
+"绽放",
+7,
+"zhàn fàng",
+"to blossom"
 ]
 ],
 "extraWords": [
-[
-"放下",
-94.08,
-"fàng xià",
-"to lay down; to put down; to let go of; to relinquish; to set aside; to lower (the blinds etc)"
-],
 [
 "放开",
 82.07,
@@ -93,28 +183,16 @@
 "to let go; to release"
 ],
 [
-"发放",
-36.56,
-"fā fàng",
-"to provide; to give; to grant"
-],
-[
-"改革开放",
-33.41,
-"gǎi gé kāi fàng",
-"to reform and open to the outside world; refers to Deng Xiaoping's policies from around 1980"
+"放在",
+36.96,
+"???",
+"???"
 ],
 [
 "放手",
 33.33,
 "fàng shǒu",
 "to let go one's hold; to give up; to have a free hand"
-],
-[
-"放假",
-26.15,
-"fàng jià",
-"to have a holiday or vacation"
 ],
 [
 "解放军",
@@ -129,28 +207,22 @@
 "to fart; to break wind; to talk nonsense; Utter rubbish!"
 ],
 [
-"放过",
-15.23,
-"fàng guò",
-"to let off; to let slip by; to let sb get away with sth"
-],
-[
 "投放",
 14.02,
 "tóu fàng",
 "to input; to throw in; to unload; to put into circulation"
 ],
 [
-"放学",
-12.82,
-"fàng xué",
-"to dismiss students at the end of the school day"
+"放射",
+12.6,
+"fàng shè",
+"to radiate; radioactive"
 ],
 [
-"放置",
-11.53,
-"fàng zhì",
-"to put"
+"开放式",
+11.17,
+"???",
+"???"
 ],
 [
 "流放",
@@ -159,22 +231,10 @@
 "to exile; to banish; to deport; to float (logs) downstream"
 ],
 [
-"摆放",
-10.39,
-"bǎi fàng",
-"to set up; to arrange; to lay out"
-],
-[
 "放出",
 9.86,
 "fàng chū",
 "to let off; to give out"
-],
-[
-"存放",
-9.07,
-"cún fàng",
-"to deposit; to store; to leave in sb's care"
 ],
 [
 "放不下",
@@ -183,22 +243,10 @@
 "not to have room to put sth; to be unable to let go"
 ],
 [
-"放映",
-8.36,
-"fàng yìng",
-"to show (a movie); to screen"
-],
-[
 "放宽",
 7.95,
 "fàng kuān",
 "to relax (a rule); to ease (restrictions); to extend (a time limit); to let out (a garment); to expand; to broaden"
-],
-[
-"绽放",
-7.83,
-"zhàn fàng",
-"to blossom"
 ],
 [
 "中国人民解放军",
@@ -207,10 +255,28 @@
 "Chinese People's Liberation Army (PLA)"
 ],
 [
+"放量",
+7.27,
+"???",
+"???"
+],
+[
+"播放器",
+7.27,
+"???",
+"???"
+],
+[
 "放送",
 6.51,
 "fàng sòng",
 "to broadcast; to announce over loudspeakers"
+],
+[
+"放疗",
+6.31,
+"???",
+"???"
 ],
 [
 "放射性",
@@ -223,18 +289,6 @@
 5.9,
 "fàng zhú",
 "to banish; to deport; to send into exile; to be marooned"
-],
-[
-"停放",
-5.78,
-"tíng fàng",
-"to park (a car etc); to moor (a boat etc); to leave sth (in a place)"
-],
-[
-"放纵",
-5.35,
-"fàng zòng",
-"to indulge; to pamper; to connive at; permissive; indulgent; self-indulgent; unrestrained; undisciplined; uncultured; boorish"
 ],
 [
 "下放",

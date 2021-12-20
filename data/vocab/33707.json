@@ -1,19 +1,55 @@
 {
 "char": "莫",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "do not, is not, can not; negative",
 "pron": "mò"
 },
 "words": [
 [
+"变幻莫测",
+7,
+"biàn huàn mò cè",
+"to change unpredictably; unpredictable; erratic; treacherous"
+],
+[
+"莫非",
+7,
+"mò fēi",
+"can it be possible that; could it be"
+],
+[
+"莫过于",
+7,
+"mò guò yú",
+"nothing can surpass"
+],
+[
 "莫名其妙",
-6,
+7,
 "mò míng qí miào",
 "(idiom) baffling; inexplicable"
+],
+[
+"一筹莫展",
+7,
+"yī chóu mò zhǎn",
+"to be unable to find a solution; to be at wits' end"
 ]
 ],
 "extraWords": [
+[
+"莫",
+58.47,
+"Mò",
+"surname Mo"
+],
+[
+"莫",
+58.47,
+"mò",
+"do not; there is none who"
+],
 [
 "莫斯科",
 19.33,
@@ -21,16 +57,16 @@
 "Moscow, capital of Russia"
 ],
 [
-"莫非",
-8.66,
-"mò fēi",
-"can it be possible that; could it be"
+"莫里斯",
+10.16,
+"???",
+"???"
 ],
 [
-"莫过于",
-7.78,
-"mò guò yú",
-"nothing can surpass"
+"莫莉",
+5.81,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "散",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "scatter, disperse, break up",
 "pron": "sǎn, sàn"
@@ -8,54 +8,72 @@
 "words": [
 [
 "散步",
-4,
+3,
 "sàn bù",
 "to take a walk; to go for a walk"
 ],
 [
 "分散",
-6,
+4,
 "fēn sàn",
 "to scatter; to disperse; to distribute"
 ],
 [
+"散",
+4,
+"sàn",
+"variant of 散[sàn]"
+],
+[
+"散",
+4,
+"sǎn",
+"scattered; loose; to come loose; to fall apart; leisurely; powdered medicine"
+],
+[
+"散",
+4,
+"sàn",
+"to scatter; to break up (a meeting etc); to disperse; to disseminate; to dispel; (coll.) to sack"
+],
+[
+"散文",
+5,
+"sǎn wén",
+"prose; essay"
+],
+[
 "解散",
-6,
+7,
 "jiě sàn",
 "to dissolve; to disband"
 ],
 [
 "扩散",
-6,
+7,
 "kuò sàn",
 "to spread; to proliferate; to diffuse; spread; proliferation; diffusion"
 ],
 [
-"散发",
-6,
-"sàn fā",
-"to distribute; to emit; to issue"
-],
-[
 "散布",
-6,
+7,
 "sàn bù",
 "to disseminate"
 ],
 [
-"散文",
-6,
-"sǎn wén",
-"prose; essay"
+"散发",
+7,
+"sàn fā",
+"to distribute; to emit; to issue"
+],
+[
+"疏散",
+7,
+"shū sàn",
+"to scatter; to disperse; to evacuate; scattered; to relax"
 ]
 ],
 "extraWords": [
-[
-"疏散",
-8.91,
-"shū sàn",
-"to scatter; to disperse; to evacuate; scattered; to relax"
-],
 [
 "散热",
 7.98,

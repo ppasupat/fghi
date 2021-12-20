@@ -1,17 +1,30 @@
 {
 "char": "菩",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "herb, aromatic plant",
 "pron": "pú"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "菩萨",
-5.62,
+7,
 "Pú sà",
 "Bodhisattva (Buddhism)"
+]
+],
+"extraWords": [
+[
+"菩提",
+2.61,
+"pú tí",
+"bodhi (Sanskrit); enlightenment (Buddhism)"
+],
+[
+"菩",
+2.0,
+"pú",
+"Bodhisattva"
 ]
 ],
 "strokes": [

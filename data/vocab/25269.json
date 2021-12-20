@@ -1,17 +1,11 @@
 {
 "char": "抵",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "resist, oppose; deny; off-set",
 "pron": "dǐ"
 },
 "words": [
-[
-"抵抗",
-6,
-"dǐ kàng",
-"to resist; resistance"
-],
 [
 "抵达",
 6,
@@ -19,30 +13,54 @@
 "to arrive; to reach (a destination)"
 ],
 [
-"抵制",
+"抵抗",
 6,
+"dǐ kàng",
+"to resist; resistance"
+],
+[
+"抵触",
+7,
+"dǐ chù",
+"to conflict; to contradict"
+],
+[
+"抵挡",
+7,
+"dǐ dǎng",
+"to resist; to hold back; to stop; to ward off; to withstand"
+],
+[
+"抵消",
+7,
+"dǐ xiāo",
+"to counteract; to cancel out; to offset"
+],
+[
+"抵押",
+7,
+"dǐ yā",
+"to provide (an asset) as security for a loan; to put up collateral"
+],
+[
+"抵御",
+7,
+"dǐ yù",
+"to resist; to withstand"
+],
+[
+"抵制",
+7,
 "dǐ zhì",
 "to resist; to boycott; to refuse (to cooperate); to reject; resistance; refusal"
 ]
 ],
 "extraWords": [
 [
-"抵押",
-17.25,
-"dǐ yā",
-"to provide (an asset) as security for a loan; to put up collateral"
-],
-[
-"抵挡",
-6.95,
-"dǐ dǎng",
-"to resist; to hold back; to stop; to ward off; to withstand"
-],
-[
-"抵御",
-6.89,
-"dǐ yù",
-"to resist; to withstand"
+"抵",
+29.68,
+"dǐ",
+"to press against; to support; to prop up; to resist; to equal; to balance; to make up for; to mortgage; to arrive at; to clap (one's hands) lightly (expressing delight) (Taiwan pr. [zhi3] for this sense)"
 ]
 ],
 "strokes": [

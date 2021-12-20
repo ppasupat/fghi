@@ -1,12 +1,18 @@
 {
 "char": "长",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "long; length; excel in; leader",
 "pron": "cháng, zhǎng"
 },
 "words": [
 [
+"班长",
+2,
+"bān zhǎng",
+"class monitor; squad leader; team leader; CL:个[gè]"
+],
+[
 "长",
 2,
 "cháng",
@@ -19,186 +25,366 @@
 "chief; head; elder; to grow; to develop; to increase; to enhance"
 ],
 [
-"长",
-3,
-"cháng",
-"length; long; forever; always; constantly"
+"队长",
+2,
+"duì zhǎng",
+"captain; team leader; CL:个[gè]"
 ],
 [
-"长",
-3,
-"zhǎng",
-"chief; head; elder; to grow; to develop; to increase; to enhance"
+"家长",
+2,
+"jiā zhǎng",
+"head of a household; family head; patriarch; parent or guardian of a child"
+],
+[
+"市长",
+2,
+"shì zhǎng",
+"mayor"
 ],
 [
 "校长",
-3,
+2,
 "xiào zhǎng",
-"(college, university) president; headmaster; CL:個|个[ge4],位[wei4],名[ming2]"
+"(college, university) president; headmaster; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"院长",
+2,
+"yuàn zhǎng",
+"the head of an institution whose name ends in 院[yuàn]; chair of a board; president of a university; department head; dean; premier of the Republic of China; CL:个[gè]"
+],
+[
+"长大",
+2,
+"zhǎng dà",
+"to grow up"
+],
+[
+"组长",
+2,
+"zǔ zhǎng",
+"group leader"
+],
+[
+"部长",
+3,
+"bù zhǎng",
+"head of a (government etc) department; section chief; section head; secretary; minister; CL:个[gè],位[wèi],名[míng]"
 ],
 [
 "长城",
-4,
+3,
 "Cháng chéng",
 "the Great Wall"
 ],
 [
-"长江",
-4,
-"Cháng Jiāng",
-"Yangtze River, or Chang Jiang"
+"长处",
+3,
+"cháng chù",
+"good aspects; strong points"
+],
+[
+"长期",
+3,
+"cháng qī",
+"long term; long time; long range (of a forecast)"
 ],
 [
 "成长",
-5,
+3,
 "chéng zhǎng",
 "to mature; to grow; growth"
 ],
 [
 "生长",
-5,
+3,
 "shēng zhǎng",
 "to grow"
 ],
 [
-"延长",
-5,
-"Yán cháng",
-"Yanchang county in Yan'an 延安[Yan2 an1], Shaanxi"
+"所长",
+3,
+"suǒ cháng",
+"what one is good at"
 ],
 [
-"延长",
-5,
-"yán cháng",
-"to prolong; to extend; to delay"
+"所长",
+3,
+"suǒ zhǎng",
+"head of an institute etc"
 ],
-[
-"长途",
-5,
-"cháng tú",
-"long distance"
-],
-[
-"长辈",
-5,
-"zhǎng bèi",
-"one's elders; older generation"
-],
-[
-"擅长",
-6,
-"shàn cháng",
-"to be good at; to be expert in"
-],
-[
-"漫长",
-6,
-"màn cháng",
-"very long; endless"
-],
-[
-"专长",
-6,
-"zhuān cháng",
-"specialty; special knowledge or ability"
-],
-[
-"特长",
-6,
-"tè cháng",
-"personal strength; one's special ability or strong points"
-],
-[
-"拔苗助长",
-6,
-"bá miáo zhù zhǎng",
-"to spoil things through excessive enthusiasm (idiom)"
-],
-[
-"董事长",
-6,
-"dǒng shì zhǎng",
-"chairman of the board; chairman"
-]
-],
-"extraWords": [
 [
 "增长",
-327.85,
+3,
 "zēng zhǎng",
 "to grow; to increase"
 ],
 [
-"长官",
-202.11,
-"zhǎng guān",
-"senior official; senior officer; commanding officer; CL:位[wei4]; sir (term of address for senior officer)"
+"长途",
+4,
+"cháng tú",
+"long distance"
 ],
 [
-"长期",
-131.72,
-"cháng qī",
-"long term; long time; long range (of a forecast)"
+"延长",
+4,
+"Yán cháng",
+"Yanchang county in Yan'an 延安[Yán ān], Shaanxi"
 ],
 [
-"家长",
-68.8,
-"jiā zhǎng",
-"head of a household; family head; patriarch; parent or guardian of a child"
+"延长",
+4,
+"yán cháng",
+"to prolong; to extend; to delay"
 ],
 [
-"长大",
-53.57,
-"zhǎng dà",
-"to grow up"
+"长度",
+5,
+"cháng dù",
+"length"
 ],
 [
-"队长",
-51.6,
-"duì zhǎng",
-"captain; team leader; CL:個|个[ge4]"
+"长寿",
+5,
+"Cháng shòu",
+"Changshou suburban district of Chongqing municipality, formerly in Sichuan"
+],
+[
+"长寿",
+5,
+"cháng shòu",
+"longevity; ability to live long; long lived"
+],
+[
+"厂长",
+5,
+"chǎng zhǎng",
+"factory director"
+],
+[
+"局长",
+5,
+"jú zhǎng",
+"bureau chief; CL:位[wèi],个[gè]"
+],
+[
+"漫长",
+5,
+"màn cháng",
+"very long; endless"
+],
+[
+"团长",
+5,
+"tuán zhǎng",
+"regimental command; head of a delegation"
+],
+[
+"长短",
+6,
+"cháng duǎn",
+"length; duration; accident; right and wrong; good and bad; long and short"
+],
+[
+"长假",
+6,
+"cháng jià",
+"long vacation"
+],
+[
+"长久",
+6,
+"cháng jiǔ",
+"(for a) long time"
+],
+[
+"长跑",
+6,
+"cháng pǎo",
+"long-distance running"
+],
+[
+"长远",
+6,
+"cháng yuǎn",
+"long-term; long-range"
+],
+[
+"处长",
+6,
+"chù zhǎng",
+"department head; section chief"
 ],
 [
 "船长",
-41.61,
+6,
 "chuán zhǎng",
 "captain (of a boat); skipper"
 ],
 [
-"部长",
-38.36,
-"bù zhǎng",
-"head of a (government etc) department; section chief; section head; secretary; minister; CL:個|个[ge4],位[wei4],名[ming2]"
+"会长",
+6,
+"huì zhǎng",
+"president of a club, committee etc"
 ],
 [
-"局长",
-37.9,
-"jú zhǎng",
-"bureau chief; CL:位[wei4],個|个[ge4]"
+"司长",
+6,
+"sī zhǎng",
+"bureau chief"
 ],
 [
-"市长",
-31.06,
-"shì zhǎng",
-"mayor"
+"长达",
+7,
+"cháng dá",
+"to extend as long as; to lengthen out to"
+],
+[
+"长期以来",
+7,
+"cháng qī yǐ lái",
+"for a long time"
+],
+[
+"长效",
+7,
+"cháng xiào",
+"to be effective over an extended period"
+],
+[
+"长征",
+7,
+"Cháng zhēng",
+"Long March (retreat of the Red Army 1934-1935)"
+],
+[
+"长征",
+7,
+"cháng zhēng",
+"expedition; long journey"
+],
+[
+"长足",
+7,
+"cháng zú",
+"remarkable (progress, improvement, expansion etc)"
+],
+[
+"董事长",
+7,
+"dǒng shì zhǎng",
+"chairman of the board; chairman"
+],
+[
+"全长",
+7,
+"quán cháng",
+"overall length; span"
+],
+[
+"冗长",
+7,
+"rǒng cháng",
+"long and tedious; redundant; superfluous; supernumerary; verbose (of writing)"
+],
+[
+"擅长",
+7,
+"shàn cháng",
+"to be good at; to be expert in"
+],
+[
+"师长",
+7,
+"shī zhǎng",
+"military division level commander; teacher"
+],
+[
+"特长",
+7,
+"tè cháng",
+"personal strength; one's special ability or strong points"
+],
+[
+"天长地久",
+7,
+"tiān cháng dì jiǔ",
+"enduring while the world lasts (idiom); eternal"
+],
+[
+"土生土长",
+7,
+"tǔ shēng tǔ zhǎng",
+"locally born and bred; indigenous; home-grown"
+],
+[
+"万古长青",
+7,
+"wàn gǔ cháng qīng",
+"remain fresh; last forever; eternal"
+],
+[
+"修长",
+7,
+"xiū cháng",
+"slender; lanky; tall and thin"
+],
+[
+"一技之长",
+7,
+"yī jì zhī cháng",
+"proficiency in a particular field (idiom); skill in a specialized area (idiom)"
+],
+[
+"一长一短",
+7,
+"yī cháng yī duǎn",
+"talking endlessly; long-winded"
+],
+[
+"长辈",
+7,
+"zhǎng bèi",
+"one's elders; older generation"
+],
+[
+"长相",
+7,
+"zhǎng xiàng",
+"appearance; looks; profile; countenance"
+],
+[
+"专长",
+7,
+"zhuān cháng",
+"specialty; special knowledge or ability"
+]
+],
+"extraWords": [
+[
+"长官",
+202.11,
+"zhǎng guān",
+"senior official; senior officer; commanding officer; CL:位[wèi]; sir (term of address for senior officer)"
+],
+[
+"警长",
+39.02,
+"???",
+"???"
+],
+[
+"长江",
+33.33,
+"Cháng Jiāng",
+"Yangtze River, or Chang Jiang"
 ],
 [
 "长沙",
 28.69,
 "Cháng shā",
 "Changsha prefecture-level city and capital of Hunan province in south central China"
-],
-[
-"会长",
-26.44,
-"huì zhǎng",
-"president of a club, committee etc"
-],
-[
-"长达",
-24.04,
-"cháng dá",
-"to extend as long as; to lengthen out to"
 ],
 [
 "秘书长",
@@ -213,18 +399,6 @@
 "(police) detective"
 ],
 [
-"院长",
-20.69,
-"yuàn zhǎng",
-"the head of an institution whose name ends in 院[yuan4]; chair of a board; president of a university; department head; dean; premier of the Republic of China; CL:個|个[ge4]"
-],
-[
-"长远",
-20.37,
-"cháng yuǎn",
-"long-term; long-range"
-],
-[
 "增长率",
 18.6,
 "zēng zhǎng lǜ",
@@ -237,40 +411,16 @@
 "Changchun subprovincial city and capital of Jilin province 吉林省 in northeast China"
 ],
 [
+"副局长",
+17.3,
+"???",
+"???"
+],
+[
 "副部长",
 16.65,
 "fù bù zhǎng",
 "assistant (government) minister"
-],
-[
-"长度",
-16.64,
-"cháng dù",
-"length"
-],
-[
-"所长",
-16.12,
-"suǒ cháng",
-"what one is good at"
-],
-[
-"所长",
-16.12,
-"suǒ zhǎng",
-"head of an institute etc"
-],
-[
-"长征",
-15.48,
-"Cháng zhēng",
-"Long March (retreat of the Red Army 1934-1935)"
-],
-[
-"长征",
-15.48,
-"cháng zhēng",
-"expedition; long journey"
 ],
 [
 "副市长",
@@ -279,28 +429,10 @@
 "deputy mayor"
 ],
 [
-"长久",
-14.8,
-"cháng jiǔ",
-"(for a) long time"
-],
-[
 "长安",
 14.79,
 "Cháng ān",
-"Chang'an (ancient name of Xi'an 西安[Xi1 an1]) capital of China during Tang Dynasty 唐朝[Tang2 chao2]; now 長安區|长安区[Chang2 an1 Qu1], a district of Xi'an"
-],
-[
-"组长",
-14.3,
-"zǔ zhǎng",
-"group leader"
-],
-[
-"团长",
-13.94,
-"tuán zhǎng",
-"regimental command; head of a delegation"
+"Chang'an (ancient name of Xi'an 西安[Xī ān]) capital of China during Tang Dynasty 唐朝[Táng cháo]; now 长安区[Cháng ān Qū], a district of Xi'an"
 ],
 [
 "行长",
@@ -321,10 +453,16 @@
 "long sleeves; long-sleeved shirt"
 ],
 [
-"处长",
-10.75,
-"chù zhǎng",
-"department head; section chief"
+"较长",
+11.13,
+"???",
+"???"
+],
+[
+"长长",
+10.94,
+"???",
+"???"
 ],
 [
 "外长",
@@ -333,22 +471,10 @@
 "foreign minister; secretary of state; minister of foreign affairs"
 ],
 [
-"班长",
-10.09,
-"bān zhǎng",
-"class monitor; squad leader; team leader; CL:個|个[ge4]"
-],
-[
 "说来话长",
 9.72,
 "shuō lái huà cháng",
 "start explaining and it's a long story (idiom); complicated and not easy to express succinctly"
-],
-[
-"厂长",
-9.48,
-"chǎng zhǎng",
-"factory director"
 ],
 [
 "长发",
@@ -357,16 +483,16 @@
 "long hair"
 ],
 [
+"副省长",
+9.39,
+"???",
+"???"
+],
+[
 "长虹",
 9.09,
 "Cháng hóng",
 "Changhong (brand)"
-],
-[
-"长假",
-8.94,
-"cháng jià",
-"long vacation"
 ],
 [
 "省长",
@@ -378,19 +504,7 @@
 "长三角",
 8.43,
 "Cháng Sān jiǎo",
-"Yangtze River Delta (abbr. for 長江三角洲|长江三角洲[Chang2 jiang1 San1 jiao3 zhou1])"
-],
-[
-"全长",
-8.4,
-"quán cháng",
-"overall length; span"
-],
-[
-"长相",
-8.29,
-"zhǎng xiàng",
-"appearance; looks; profile; countenance"
+"Yangtze River Delta (abbr. for 长江三角洲[Cháng jiāng Sān jiǎo zhōu])"
 ],
 [
 "副院长",
@@ -399,22 +513,16 @@
 "deputy chair of board; vice-president (of a university etc)"
 ],
 [
-"长寿",
-7.83,
-"Cháng shòu",
-"Changshou suburban district of Chongqing municipality, formerly in Sichuan"
-],
-[
-"长寿",
-7.83,
-"cháng shòu",
-"longevity; ability to live long; long lived"
-],
-[
 "国防部长",
 7.63,
 "guó fáng bù zhǎng",
 "Defense secretary; Defense Minister"
+],
+[
+"中长期",
+7.59,
+"???",
+"???"
 ],
 [
 "长老",
@@ -435,12 +543,6 @@
 "senior official"
 ],
 [
-"长短",
-6.28,
-"cháng duǎn",
-"length; duration; accident; right and wrong; good and bad; long and short"
-],
-[
 "机长",
 6.26,
 "jī zhǎng",
@@ -450,7 +552,13 @@
 "科长",
 6.06,
 "kē zhǎng",
-"section chief; CL:個|个[ge4]"
+"section chief; CL:个[gè]"
+],
+[
+"长剑",
+5.6,
+"???",
+"???"
 ],
 [
 "长沙市",
@@ -475,6 +583,12 @@
 5.21,
 "wěi yuán zhǎng",
 "head of a committee"
+],
+[
+"家长们",
+5.18,
+"???",
+"???"
 ],
 [
 "县长",

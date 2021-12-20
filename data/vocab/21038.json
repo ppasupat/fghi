@@ -1,14 +1,26 @@
 {
 "char": "刮",
-"level": 3,
+"level": "6",
 "info": {
 "gloss": "shave, pare off, scrape",
 "pron": "guā"
 },
 "words": [
 [
+"刮",
+6,
+"guā",
+"to scrape; to blow; to shave; to plunder; to extort"
+],
+[
+"刮",
+6,
+"guā",
+"to blow (of the wind)"
+],
+[
 "刮风",
-3,
+7,
 "guā fēng",
 "to be windy"
 ]

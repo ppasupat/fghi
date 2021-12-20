@@ -1,32 +1,37 @@
 {
 "char": "塌",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "fall in ruins, collapse",
 "pron": "tā"
 },
 "words": [
 [
-"塌",
-6,
-"tā",
-"to collapse; to droop; to settle down"
-]
-],
-"extraWords": [
-[
-"一塌糊涂",
-6.8,
-"yī tā hú tu",
-"muddled and completely collapsing (idiom); in an awful condition; complete shambles; a total mess"
-],
-[
 "倒塌",
-6.4,
+7,
 "dǎo tā",
 "to collapse (of building); to topple over"
+],
+[
+"死心塌地",
+7,
+"sǐ xīn tā dì",
+"to be hell-bent on; dead set on sth; unswerving"
+],
+[
+"塌",
+7,
+"tā",
+"to collapse; to droop; to settle down"
+],
+[
+"一塌糊涂",
+7,
+"yī tā hú tu",
+"muddled and completely collapsing (idiom); in an awful condition; complete shambles; a total mess"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 281 532 Q 371 565 373 565 Q 380 572 376 581 Q 369 591 339 596 Q 311 599 283 585 L 234 566 Q 162 542 110 533 Q 76 524 102 510 Q 145 491 197 508 Q 215 514 235 519 L 281 532 Z",
 "M 274 367 Q 278 452 281 532 L 283 585 Q 284 667 303 754 Q 307 766 286 780 Q 252 799 226 803 Q 210 806 202 797 Q 195 790 203 775 Q 228 738 229 712 Q 233 642 234 566 L 235 519 Q 234 438 231 349 C 230 319 273 337 274 367 Z",

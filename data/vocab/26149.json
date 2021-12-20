@@ -1,48 +1,60 @@
 {
 "char": "春",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "spring; wanton",
 "pron": "chūn"
 },
 "words": [
 [
-"春",
-3,
-"chūn",
-"old variant of 春[chun1]"
-],
-[
-"春",
-3,
-"Chūn",
-"surname Chun"
-],
-[
-"春",
-3,
-"chūn",
-"spring (season); gay; joyful; youthful; love; lust; life"
-],
-[
-"青春",
-5,
-"qīng chūn",
-"youth; youthfulness"
-]
-],
-"extraWords": [
-[
 "春节",
-71.06,
+2,
 "Chūn jié",
 "Spring Festival (Chinese New Year)"
 ],
 [
 "春天",
-25.82,
+2,
 "chūn tiān",
-"spring (season); CL:個|个[ge4]"
+"spring (season); CL:个[gè]"
+],
+[
+"春季",
+4,
+"chūn jì",
+"springtime"
+],
+[
+"青春",
+4,
+"qīng chūn",
+"youth; youthfulness"
+],
+[
+"青春期",
+7,
+"qīng chūn qī",
+"puberty; adolescence"
+]
+],
+"extraWords": [
+[
+"春",
+91.99,
+"chūn",
+"old variant of 春[chūn]"
+],
+[
+"春",
+91.99,
+"Chūn",
+"surname Chun"
+],
+[
+"春",
+91.99,
+"chūn",
+"spring (season); gay; joyful; youthful; love; lust; life"
 ],
 [
 "春运",
@@ -75,28 +87,22 @@
 "the beginning of Spring; the 10 or 20 days following the lunar New Year's Day"
 ],
 [
-"春季",
-11.53,
-"chūn jì",
-"springtime"
-],
-[
 "李宇春",
 8.26,
 "Lǐ Yǔ chūn",
 "Li Yuchun aka Chris Lee (1984-), Chinese pop singer"
 ],
 [
+"春风",
+7.35,
+"???",
+"???"
+],
+[
 "春耕",
 5.98,
 "chūn gēng",
 "to plow a field in the spring"
-],
-[
-"青春期",
-5.4,
-"qīng chūn qī",
-"puberty; adolescence"
 ],
 [
 "长春市",

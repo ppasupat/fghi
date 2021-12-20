@@ -1,20 +1,26 @@
 {
 "char": "淘",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "wash in a sieve; weed out",
 "pron": "táo"
 },
 "words": [
 [
+"淘",
+7,
+"táo",
+"to wash; to clean out; to cleanse; to eliminate; to dredge"
+],
+[
 "淘气",
-5,
+7,
 "táo qì",
 "naughty; mischievous"
 ],
 [
 "淘汰",
-6,
+7,
 "táo tài",
 "to wash out; (fig.) to cull; to weed out; to eliminate; to die out; to phase out"
 ]

@@ -1,6 +1,6 @@
 {
 "char": "腥",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "raw meat; rank, strong-smelling",
 "pron": "xīng"
@@ -8,7 +8,7 @@
 "words": [
 [
 "腥",
-6,
+7,
 "xīng",
 "fishy (smell)"
 ]
@@ -19,6 +19,12 @@
 8.17,
 "xuè xīng",
 "reeking of blood; bloody (events)"
+],
+[
+"腥味",
+1.68,
+"???",
+"???"
 ]
 ],
 "strokes": [

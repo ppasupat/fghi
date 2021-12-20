@@ -1,19 +1,32 @@
 {
 "char": "拙",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "stupid, clumsy, crude; convention",
 "pron": "zhuō"
 },
 "words": [
 [
-"笨拙",
-6,
-"bèn zhuō",
-"clumsy; awkward; stupid"
+"拙劣",
+7,
+"zhuō liè",
+"clumsy; botched"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"笨拙",
+4.53,
+"bèn zhuō",
+"clumsy; awkward; stupid"
+],
+[
+"拙",
+2.35,
+"zhuō",
+"awkward; clumsy; dull; inelegant; (polite) my; Taiwan pr. [zhuo2]"
+]
+],
 "strokes": [
 "M 345 538 Q 361 544 384 550 Q 420 562 425 567 Q 434 576 428 584 Q 421 596 390 601 Q 366 604 348 596 L 298 576 Q 223 548 135 531 Q 98 521 126 507 Q 165 491 235 507 Q 263 516 297 524 L 345 538 Z",
 "M 292 333 Q 291 237 288 115 Q 287 90 274 81 Q 268 77 201 84 Q 168 94 171 85 Q 172 78 193 63 Q 254 17 270 -10 Q 289 -41 304 -43 Q 317 -43 332 -9 Q 350 37 347 109 Q 340 242 341 374 L 341 405 Q 341 472 345 538 L 348 596 Q 348 690 370 764 Q 386 794 332 817 Q 299 836 279 830 Q 263 823 277 800 Q 298 773 299 739 Q 300 721 298 576 L 297 524 Q 296 460 293 373 L 292 333 Z",

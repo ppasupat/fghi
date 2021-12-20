@@ -1,6 +1,6 @@
 {
 "char": "太",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "very, too, much; big; extreme",
 "pron": "tài"
@@ -13,28 +13,70 @@
 "highest; greatest; too (much); very; extremely"
 ],
 [
-"太阳",
-3,
-"tài yang",
-"sun; CL:個|个[ge4]; abbr. for 太陽穴|太阳穴[tai4 yang2 xue2]"
+"不太",
+2,
+"???",
+"???"
 ],
 [
 "太太",
-5,
+2,
 "tài tai",
-"married woman; Mrs.; Madam; wife; CL:個|个[ge4],位[wei4]"
+"married woman; Mrs.; Madam; wife; CL:个[gè],位[wèi]"
+],
+[
+"太阳",
+2,
+"tài yang",
+"sun; CL:个[gè]; abbr. for 太阳穴[tài yáng xué]"
+],
+[
+"老太太",
+3,
+"lǎo tài tai",
+"elderly lady (respectful); esteemed mother; CL:位[wèi]"
+],
+[
+"太空",
+5,
+"tài kōng",
+"outer space"
+],
+[
+"太阳能",
+6,
+"tài yáng néng",
+"solar energy"
+],
+[
+"晒太阳",
+7,
+"shài tài yáng",
+"to be in the sun (getting warm or sunbathing etc); to put sth in the sun (e.g. to dry it)"
+],
+[
+"太极",
+7,
+"Tài jí",
+"the Absolute or Supreme Ultimate, the source of all things according to some interpretations of Chinese mythology"
 ],
 [
 "太极拳",
-5,
+7,
 "tài jí quán",
 "shadowboxing or Taiji, T'aichi or T'aichichuan; traditional form of physical exercise or relaxation; a martial art"
 ],
 [
-"太空",
-6,
-"tài kōng",
-"outer space"
+"太平",
+7,
+"Tài píng",
+"place name"
+],
+[
+"太平",
+7,
+"tài píng",
+"peace and security"
 ]
 ],
 "extraWords": [
@@ -75,22 +117,10 @@
 "Asia-Pacific"
 ],
 [
-"老太太",
-10.48,
-"lǎo tài tai",
-"elderly lady (respectful); esteemed mother; CL:位[wei4]"
-],
-[
 "太原",
 10.23,
 "Tài yuán",
-"Taiyuan prefecture level city and capital of Shanxi province 山西省[Shan1 xi1 Sheng3] in central north China"
-],
-[
-"太阳能",
-9.9,
-"tài yáng néng",
-"solar energy"
+"Taiyuan prefecture level city and capital of Shanxi province 山西省[Shān xī Shěng] in central north China"
 ],
 [
 "太后",
@@ -99,34 +129,22 @@
 "Empress Dowager"
 ],
 [
-"太平",
-9.09,
-"Tài píng",
-"place name"
-],
-[
-"太平",
-9.09,
-"tài píng",
-"peace and security"
-],
-[
 "太监",
 6.13,
 "tài jiàn",
 "court eunuch; palace eunuch"
 ],
 [
+"亚太地区",
+5.72,
+"???",
+"???"
+],
+[
 "太空船",
 5.48,
 "tài kōng chuán",
 "spaceship"
-],
-[
-"晒太阳",
-5.29,
-"shài tài yáng",
-"to be in the sun (getting warm or sunbathing etc); to put sth in the sun (e.g. to dry it)"
 ]
 ],
 "strokes": [

@@ -1,12 +1,31 @@
 {
 "char": "淳",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "honest, simple, unsophisticated; cyanogen; ethane dinitrile",
 "pron": "chún"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"淳",
+3.72,
+"chún",
+"genuine; pure; honest"
+],
+[
+"淳",
+3.72,
+"chún",
+"old variant of 淳[chún]"
+],
+[
+"淳朴",
+2.13,
+"chún pǔ",
+"simple and honest; unsophisticated; guileless"
+]
+],
 "strokes": [
 "M 226 763 Q 248 741 273 716 Q 288 700 306 701 Q 319 702 324 717 Q 330 733 320 768 Q 314 787 284 800 Q 209 827 196 819 Q 190 815 192 800 Q 196 787 226 763 Z",
 "M 135 585 Q 171 531 204 509 Q 219 505 231 517 Q 238 530 238 548 Q 234 575 217 590 Q 193 611 143 628 Q 134 631 126 628 Q 119 628 121 614 Q 121 601 135 585 Z",

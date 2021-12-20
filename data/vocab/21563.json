@@ -1,6 +1,6 @@
 {
 "char": "吻",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "kiss; the lips; coinciding",
 "pron": "wěn"
@@ -8,15 +8,21 @@
 "words": [
 [
 "吻",
-5,
+7,
 "wěn",
 "kiss; to kiss; mouth"
 ],
 [
 "吻",
-5,
+7,
 "wěn",
-"variant of 吻[wen3]"
+"variant of 吻[wěn]"
+],
+[
+"吻合",
+7,
+"wěn hé",
+"to be a good fit; to be identical with; to adjust oneself to; to fit in"
 ]
 ],
 "extraWords": [
@@ -25,12 +31,6 @@
 18.57,
 "jiē wěn",
 "to kiss"
-],
-[
-"吻合",
-16.99,
-"wěn hé",
-"to be a good fit; to be identical with; to adjust oneself to; to fit in"
 ],
 [
 "亲吻",

@@ -1,12 +1,31 @@
 {
 "char": "摹",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "trace, copy, duplicate; pattern",
 "pron": "mó"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"摹",
+12.67,
+"mó",
+"to imitate; to copy"
+],
+[
+"临摹",
+0.91,
+"lín mó",
+"to copy (a model of calligraphy or painting etc)"
+],
+[
+"描摹",
+0.49,
+"miáo mó",
+"to trace over; to take a copy (of a calligraphy, a painting etc); (fig.) to describe; to portray"
+]
+],
 "strokes": [
 "M 603 732 Q 709 739 802 731 Q 817 730 822 738 Q 826 748 815 763 Q 770 802 678 784 Q 651 781 624 775 L 571 768 Q 499 761 424 751 L 382 746 Q 294 740 199 732 Q 171 729 190 714 Q 229 689 312 703 Q 351 712 391 716 L 427 721 Q 491 728 563 731 L 603 732 Z",
 "M 424 751 Q 423 772 422 788 Q 423 804 406 809 Q 372 824 354 817 Q 338 810 352 794 Q 373 773 382 746 L 391 716 Q 397 689 412 674 Q 424 665 427 675 Q 433 691 428 711 Q 427 717 427 721 L 424 751 Z",

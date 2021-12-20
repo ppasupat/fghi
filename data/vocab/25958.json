@@ -1,11 +1,24 @@
 {
 "char": "敦",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "esteem; honest, candid, sincere",
 "pron": "dūn"
 },
-"words": [],
+"words": [
+[
+"敦促",
+7,
+"dūn cù",
+"to press; to urge; to hasten"
+],
+[
+"敦厚",
+7,
+"dūn hòu",
+"genuine; honest and sincere"
+]
+],
 "extraWords": [
 [
 "伦敦",

@@ -1,6 +1,6 @@
 {
 "char": "搞",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "to clear, clarify",
 "pron": "gǎo"
@@ -11,16 +11,27 @@
 5,
 "gǎo",
 "to do; to make; to go in for; to set up; to get hold of; to take care of"
-]
 ],
-"extraWords": [
 [
 "搞好",
-28.99,
+5,
 "gǎo hǎo",
 "to do well at; to do a good job"
+],
+[
+"搞鬼",
+7,
+"gǎo guǐ",
+"to make mischief; to play tricks"
+],
+[
+"搞笑",
+7,
+"gǎo xiào",
+"to get people to laugh; funny; hilarious"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 308 532 Q 386 556 388 557 Q 397 564 392 573 Q 385 583 356 589 Q 331 593 310 585 L 263 567 Q 172 543 127 536 Q 93 529 118 514 Q 163 493 216 509 Q 235 515 262 520 L 308 532 Z",
 "M 260 324 Q 259 237 259 128 Q 258 104 245 95 Q 239 92 176 100 Q 145 110 147 101 Q 148 94 168 80 Q 228 34 243 8 Q 259 -23 275 -24 Q 288 -25 302 9 Q 318 52 316 123 Q 309 244 307 366 L 307 399 Q 306 466 308 532 L 310 585 Q 310 702 329 763 Q 345 791 292 813 Q 261 831 241 824 Q 225 818 240 796 Q 259 771 262 738 Q 263 720 263 567 L 262 520 Q 261 456 260 368 L 260 324 Z",

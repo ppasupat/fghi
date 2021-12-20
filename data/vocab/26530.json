@@ -1,17 +1,30 @@
 {
 "char": "枢",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "door hinge; pivot; center of power",
 "pron": "shū"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "枢纽",
-8.37,
+7,
 "shū niǔ",
 "hub (e.g. of traffic network); hinge; pivot; fulcrum"
+]
+],
+"extraWords": [
+[
+"中枢",
+3.98,
+"zhōng shū",
+"center; backbone; hub (e.g. of transport network); the central administration"
+],
+[
+"中枢神经",
+3.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

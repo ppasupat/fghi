@@ -1,6 +1,6 @@
 {
 "char": "纸",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "paper",
 "pron": "zhǐ"
@@ -10,7 +10,31 @@
 "报纸",
 2,
 "bào zhǐ",
-"newspaper; newsprint; CL:份[fen4],期[qi1],張|张[zhang1]"
+"newspaper; newsprint; CL:份[fèn],期[qī],张[zhāng]"
+],
+[
+"纸",
+2,
+"zhǐ",
+"variant of 纸[zhǐ]"
+],
+[
+"纸",
+2,
+"zhǐ",
+"paper; CL:张[zhāng],沓[dá]; classifier for documents, letter etc"
+],
+[
+"图纸",
+7,
+"tú zhǐ",
+"blueprint; drawing; design plans; graph paper"
+],
+[
+"造纸术",
+7,
+"zào zhǐ shù",
+"papermaking process"
 ]
 ],
 "extraWords": [
@@ -24,13 +48,7 @@
 "纸巾",
 6.44,
 "zhǐ jīn",
-"paper towel; napkin; facial tissue; CL:張|张[zhang1],包[bao1]"
-],
-[
-"图纸",
-5.33,
-"tú zhǐ",
-"blueprint; drawing; design plans; graph paper"
+"paper towel; napkin; facial tissue; CL:张[zhāng],包[bāo]"
 ],
 [
 "造纸",

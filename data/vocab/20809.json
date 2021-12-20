@@ -1,100 +1,88 @@
 {
 "char": "光",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "light, brilliant, shine; only",
 "pron": "guāng"
 },
 "words": [
 [
+"不光",
+3,
+"bù guāng",
+"not the only one; not only"
+],
+[
 "光",
-4,
+3,
 "guāng",
-"light; ray; CL:道[dao4]; bright; only; merely; to use up"
-],
-[
-"阳光",
-4,
-"yáng guāng",
-"sunshine; CL:線|线[xian4]; transparent (open to public scrutiny)"
-],
-[
-"光临",
-5,
-"guāng lín",
-"(formal) to honor with one's presence; to attend"
+"light; ray; CL:道[dào]; bright; only; merely; to use up"
 ],
 [
 "光明",
-5,
+3,
 "guāng míng",
 "light; radiance; (fig.) bright (prospects etc); openhearted"
 ],
 [
-"光滑",
-5,
-"guāng huá",
-"glossy; sleek; smooth"
+"阳光",
+3,
+"yáng guāng",
+"sunshine; CL:线[xiàn]; transparent (open to public scrutiny)"
+],
+[
+"灯光",
+4,
+"dēng guāng",
+"(stage) lighting; light"
+],
+[
+"光临",
+4,
+"guāng lín",
+"(formal) to honor with one's presence; to attend"
 ],
 [
 "光盘",
-5,
+4,
 "guāng pán",
-"compact disc; CD or DVD; CD ROM; CL:片[pian4],張|张[zhang1]"
+"compact disc; CD or DVD; CD ROM; CL:片[piàn],张[zhāng]"
 ],
 [
-"时光",
-6,
-"shí guāng",
-"time; era; period of time"
+"风光",
+5,
+"fēng guāng",
+"scene; view; sight; landscape; to be well-regarded; to be well-off; grand (dialect); impressive (dialect)"
 ],
 [
 "光荣",
-6,
+5,
 "guāng róng",
 "honor and glory; glorious"
 ],
 [
-"眼光",
-6,
-"yǎn guāng",
-"gaze; insight; foresight; vision; way of looking at things"
-],
-[
-"曝光",
-6,
-"bào guāng",
-"to expose (photography); (fig.) to expose (a scandal); (advertising) exposure; Taiwan pr. [pu4 guang1]"
+"光线",
+5,
+"guāng xiàn",
+"light ray; CL:条[tiáo],道[dào]; light; illumination; lighting (for a photograph)"
 ],
 [
 "目光",
-6,
+5,
 "mù guāng",
 "sight; vision; view; gaze; look"
 ],
 [
-"光芒",
-6,
-"guāng máng",
-"rays of light; brilliant rays; radiance"
+"时光",
+5,
+"shí guāng",
+"time; era; period of time"
 ],
 [
-"光彩",
-6,
-"guāng cǎi",
-"luster; splendor; radiance; brilliance"
-],
-[
-"光辉",
-6,
-"guāng huī",
-"radiance; glory; brilliant; magnificent"
-],
-[
-"风光",
-6,
-"fēng guāng",
-"scene; view; sight; landscape; to be well-regarded; to be well-off; grand (dialect); impressive (dialect)"
+"眼光",
+5,
+"yǎn guāng",
+"gaze; insight; foresight; vision; way of looking at things"
 ],
 [
 "观光",
@@ -103,10 +91,130 @@
 "to tour; sightseeing; tourism"
 ],
 [
-"沾光",
+"光辉",
 6,
+"guāng huī",
+"radiance; glory; brilliant; magnificent"
+],
+[
+"曝光",
+7,
+"bào guāng",
+"to expose (photography); (fig.) to expose (a scandal); (advertising) exposure; Taiwan pr. [pu4 guang1]"
+],
+[
+"耳光",
+7,
+"ěr guāng",
+"a slap on the face; CL:记[jì]"
+],
+[
+"发光",
+7,
+"fā guāng",
+"to shine"
+],
+[
+"发扬光大",
+7,
+"fā yáng guāng dà",
+"to develop and promote; to carry forward; to bring to great height of development"
+],
+[
+"光彩",
+7,
+"guāng cǎi",
+"luster; splendor; radiance; brilliance"
+],
+[
+"光碟",
+7,
+"guāng dié",
+"optical disc; compact disc; CD; CD-ROM; CL:片[piàn],张[zhāng]"
+],
+[
+"光顾",
+7,
+"guāng gù",
+"to visit (as a customer)"
+],
+[
+"光滑",
+7,
+"guāng huá",
+"glossy; sleek; smooth"
+],
+[
+"光环",
+7,
+"guāng huán",
+"halo; ring of light"
+],
+[
+"光缆",
+7,
+"guāng lǎn",
+"optical cable"
+],
+[
+"光芒",
+7,
+"guāng máng",
+"rays of light; brilliant rays; radiance"
+],
+[
+"光明磊落",
+7,
+"guāng míng lěi luò",
+"open and candid (idiom); straightforward and upright"
+],
+[
+"光泽",
+7,
+"Guāng zé",
+"Guangze county in Nanping 南平[Nán píng] Fujian"
+],
+[
+"光泽",
+7,
+"guāng zé",
+"luster; gloss"
+],
+[
+"激光",
+7,
+"jī guāng",
+"laser"
+],
+[
+"容光焕发",
+7,
+"róng guāng huàn fā",
+"face glowing (idiom); looking radiant; all smiles"
+],
+[
+"曙光",
+7,
+"shǔ guāng",
+"dawn; fig. the dawn of a new era"
+],
+[
+"荧光",
+7,
+"yíng guāng",
+"fluorescence; fluorescent"
+],
+[
+"沾光",
+7,
 "zhān guāng",
 "to bask in the light; fig. to benefit from association with sb or sth; reflected glory"
+],
+[
+"争光",
+7,
+"zhēng guāng",
+"to win an honor; to strive to win a prize"
 ]
 ],
 "extraWords": [
@@ -117,40 +225,10 @@
 "gangster; hoodlum; a single person; bachelor"
 ],
 [
-"灯光",
-18.39,
-"dēng guāng",
-"(stage) lighting; light"
-],
-[
-"激光",
-13.81,
-"jī guāng",
-"laser"
-],
-[
 "光学",
 11.73,
 "guāng xué",
 "optics; optical (instrument)"
-],
-[
-"发光",
-10.52,
-"fā guāng",
-"to shine"
-],
-[
-"光线",
-10.49,
-"guāng xiàn",
-"light ray; CL:條|条[tiao2],道[dao4]; light; illumination; lighting (for a photograph)"
-],
-[
-"不光",
-9.68,
-"bù guāng",
-"not the only one; not only"
 ],
 [
 "月光",
@@ -162,31 +240,13 @@
 "光大",
 8.4,
 "guāng dà",
-"splendid; magnificent; abbr. for 中國光大銀行|中国光大银行[Zhong1 guo2 Guang1 da4 Yin2 hang2], China Everbright Bank"
+"splendid; magnificent; abbr. for 中国光大银行[Zhōng guó Guāng dà Yín háng], China Everbright Bank"
 ],
 [
 "星光",
 8.39,
 "xīng guāng",
 "starlight"
-],
-[
-"荧光",
-7.47,
-"yíng guāng",
-"fluorescence; fluorescent"
-],
-[
-"光泽",
-7.2,
-"Guāng zé",
-"Guangze county in Nanping 南平[Nan2 ping2] Fujian"
-],
-[
-"光泽",
-7.2,
-"guāng zé",
-"luster; gloss"
 ],
 [
 "脱光",
@@ -213,28 +273,10 @@
 "optical fiber; fiber optics"
 ],
 [
-"耳光",
-5.59,
-"ěr guāng",
-"a slap on the face; CL:記|记[ji4]"
-],
-[
-"光顾",
-5.41,
-"guāng gù",
-"to visit (as a customer)"
-],
-[
 "光头",
 5.3,
 "guāng tóu",
 "shaven head; bald head; to go bareheaded; hatless"
-],
-[
-"曙光",
-5.11,
-"shǔ guāng",
-"dawn; fig. the dawn of a new era"
 ],
 [
 "光速",

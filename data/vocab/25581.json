@@ -1,31 +1,49 @@
 {
 "char": "揭",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "raise, lift up; surname",
 "pron": "jiē"
 },
 "words": [
 [
-"揭露",
+"揭",
 6,
+"Jiē",
+"surname Jie"
+],
+[
+"揭",
+6,
+"jiē",
+"to take the lid off; to expose; to unmask"
+],
+[
+"揭发",
+7,
+"jiē fā",
+"to expose; to bring to light; to disclose; revelation"
+],
+[
+"揭露",
+7,
 "jiē lù",
 "to expose; to unmask; to ferret out; to disclose; disclosure"
-]
-],
-"extraWords": [
-[
-"揭晓",
-21.82,
-"jiē xiǎo",
-"to announce publicly; to publish; to make known; to disclose"
 ],
 [
 "揭示",
-11.16,
+7,
 "jiē shì",
 "to show; to make known"
 ],
+[
+"揭晓",
+7,
+"jiē xiǎo",
+"to announce publicly; to publish; to make known; to disclose"
+]
+],
+"extraWords": [
 [
 "揭开",
 10.35,
@@ -43,12 +61,6 @@
 6.54,
 "jiē mù",
 "opening; unveiling"
-],
-[
-"揭发",
-5.46,
-"jiē fā",
-"to expose; to bring to light; to disclose; revelation"
 ]
 ],
 "strokes": [

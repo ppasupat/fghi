@@ -1,17 +1,30 @@
 {
 "char": "穆",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "majestic, solemn, reverent; calm",
 "pron": "mù"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "穆斯林",
-9.39,
+7,
 "Mù sī lín",
 "Muslim"
+]
+],
+"extraWords": [
+[
+"穆",
+9.82,
+"Mù",
+"surname Mu"
+],
+[
+"穆",
+9.82,
+"mù",
+"solemn; reverent; calm; burial position in an ancestral tomb (old); old variant of 默"
 ]
 ],
 "strokes": [

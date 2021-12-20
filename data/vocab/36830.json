@@ -1,6 +1,6 @@
 {
 "char": "连",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "join, connect; continuous; even",
 "pron": "lián"
@@ -8,51 +8,105 @@
 "words": [
 [
 "连",
-4,
+3,
 "Lián",
 "surname Lian"
 ],
 [
 "连",
-4,
+3,
 "lián",
-"to link; to join; to connect; continuously; in succession; including; (used with 也[ye3], 都[dou1] etc) even; company (military)"
-],
-[
-"连续",
-5,
-"lián xù",
-"continuous; in a row; serial; consecutive"
+"to link; to join; to connect; continuously; in succession; including; (used with 也[yě], 都[dōu] etc) even; company (military)"
 ],
 [
 "连忙",
-5,
+3,
 "lián máng",
 "promptly; at once"
 ],
 [
-"连锁",
-6,
-"lián suǒ",
-"to interlock; to be linked; chain (store etc)"
+"连续",
+3,
+"lián xù",
+"continuous; in a row; serial; consecutive"
 ],
 [
-"连同",
-6,
-"lián tóng",
-"together with; along with"
+"连续剧",
+3,
+"lián xù jù",
+"serialized drama; dramatic series; show in parts"
 ],
 [
 "接连",
-6,
+5,
 "jiē lián",
 "on end; in a row; in succession"
 ],
 [
-"连年",
-6,
-"lián nián",
-"successive years; over many years"
+"连接",
+5,
+"lián jiē",
+"to link; to join; to attach; connection; a link (on web page)"
+],
+[
+"接二连三",
+7,
+"jiē èr lián sān",
+"one after another (idiom); in quick succession"
+],
+[
+"连滚带爬",
+7,
+"lián gǔn dài pá",
+"rolling and crawling; trying frantically to escape (idiom)"
+],
+[
+"连绵",
+7,
+"lián mián",
+"continuous; unbroken; uninterrupted; extending forever into the distance (of mountain range, river etc)"
+],
+[
+"连任",
+7,
+"lián rèn",
+"to continue in (a political) office; to serve for another term of office"
+],
+[
+"连锁",
+7,
+"lián suǒ",
+"to interlock; to be linked; chain (store etc)"
+],
+[
+"连锁店",
+7,
+"lián suǒ diàn",
+"chain store"
+],
+[
+"连夜",
+7,
+"lián yè",
+"that very night; through the night; for several nights in a row"
+],
+[
+"相连",
+7,
+"xiāng lián",
+"to link; to join; link; connection"
+],
+[
+"一连",
+7,
+"yī lián",
+"in a row; in succession; running"
+],
+[
+"一连串",
+7,
+"yī lián chuàn",
+"a succession of; a series of"
 ]
 ],
 "extraWords": [
@@ -60,13 +114,7 @@
 "大连",
 37.46,
 "Dà lián",
-"Dalian subprovincial city in Liaoning province 遼寧省|辽宁省[Liao2 ning2 Sheng3] in northeast China"
-],
-[
-"连接",
-36.81,
-"lián jiē",
-"to link; to join; to attach; connection; a link (on web page)"
+"Dalian subprovincial city in Liaoning province 辽宁省[Liáo níng Shěng] in northeast China"
 ],
 [
 "连环",
@@ -81,22 +129,10 @@
 "repeatedly; again and again"
 ],
 [
-"相连",
-9.65,
-"xiāng lián",
-"to link; to join; link; connection"
-],
-[
 "连带",
 7.91,
 "lián dài",
 "to be related; to entail; to involve; joint (liability etc)"
-],
-[
-"连夜",
-7.14,
-"lián yè",
-"that very night; through the night; for several nights in a row"
 ],
 [
 "牵连",
@@ -105,22 +141,22 @@
 "to implicate; implicated; to link together"
 ],
 [
-"一连",
-6.18,
-"yī lián",
-"in a row; in succession; running"
-],
-[
-"一连串",
-5.83,
-"yī lián chuàn",
-"a succession of; a series of"
+"连日来",
+6.44,
+"???",
+"???"
 ],
 [
 "连队",
 5.75,
 "lián duì",
 "company (of troops)"
+],
+[
+"连同",
+5.68,
+"lián tóng",
+"together with; along with"
 ],
 [
 "粘连",

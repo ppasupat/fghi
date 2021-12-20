@@ -1,19 +1,25 @@
 {
 "char": "皱",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "wrinkles, creases, folds",
 "pron": "zhòu"
 },
 "words": [
 [
-"皱纹",
-6,
-"zhòu wén",
-"wrinkle; CL:道[dao4]"
+"皱",
+7,
+"zhòu",
+"to wrinkle; wrinkled; to crease"
 ]
 ],
 "extraWords": [
+[
+"皱纹",
+9.05,
+"zhòu wén",
+"wrinkle; CL:道[dào]"
+],
 [
 "皱眉",
 5.16,

@@ -1,41 +1,41 @@
 {
 "char": "夏",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "summer; great, grand, big",
 "pron": "xià"
 },
 "words": [
 [
-"夏",
-3,
-"Xià",
-"the Xia or Hsia dynasty c. 2000 BC; Xia of the Sixteen Kingdoms (407-432); surname Xia"
+"夏天",
+2,
+"xià tiān",
+"summer; CL:个[gè]"
 ],
 [
-"夏",
-3,
-"xià",
+"夏季",
+4,
+"xià jì",
 "summer"
 ],
 [
 "夏令营",
-5,
+7,
 "xià lìng yíng",
 "summer camp"
 ]
 ],
 "extraWords": [
 [
-"夏天",
-34.46,
-"xià tiān",
-"summer; CL:個|个[ge4]"
+"夏",
+49.02,
+"Xià",
+"the Xia or Hsia dynasty c. 2000 BC; Xia of the Sixteen Kingdoms (407-432); surname Xia"
 ],
 [
-"夏季",
-18.65,
-"xià jì",
+"夏",
+49.02,
+"xià",
 "summer"
 ],
 [
@@ -54,7 +54,7 @@
 "宁夏",
 9.07,
 "Níng xià",
-"Ningxia Hui Autonomous Region, abbr. 寧|宁[Ning2], capital Yinchuan 銀川|银川[Yin2 chuan1]"
+"Ningxia Hui Autonomous Region, abbr. 宁[Níng], capital Yinchuan 银川[Yín chuān]"
 ],
 [
 "夏洛特",

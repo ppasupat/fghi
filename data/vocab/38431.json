@@ -1,72 +1,120 @@
 {
 "char": "队",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "team, group; army unit",
 "pron": "duì"
 },
 "words": [
 [
+"队",
+2,
+"duì",
+"squadron; team; group; CL:个[gè]"
+],
+[
+"队长",
+2,
+"duì zhǎng",
+"captain; team leader; CL:个[gè]"
+],
+[
 "排队",
-4,
+2,
 "pái duì",
 "to line up"
 ],
 [
-"队伍",
-6,
-"duì wǔ",
-"ranks; troops; queue; line; procession; CL:個|个[ge4],支[zhi1],條|条[tiao2]"
-],
-[
-"军队",
-6,
-"jūn duì",
-"army; troops; CL:支[zhi1],個|个[ge4]"
-]
-],
-"extraWords": [
-[
 "球队",
-97.31,
+2,
 "qiú duì",
 "sports team (basketball, soccer, football etc)"
 ],
 [
-"部队",
-81.54,
-"bù duì",
-"army; armed forces; troops; force; unit; CL:個|个[ge4]"
-],
-[
 "队员",
-81.15,
+3,
 "duì yuán",
 "team member"
 ],
 [
 "乐队",
-63.37,
+3,
 "yuè duì",
-"band; pop group; CL:支[zhi1]"
+"band; pop group; CL:支[zhī]"
 ],
 [
-"队长",
-51.6,
-"duì zhǎng",
-"captain; team leader; CL:個|个[ge4]"
+"部队",
+6,
+"bù duì",
+"army; armed forces; troops; force; unit; CL:个[gè]"
+],
+[
+"队伍",
+6,
+"duì wǔ",
+"ranks; troops; queue; line; procession; CL:个[gè],支[zhī],条[tiáo]"
+],
+[
+"军队",
+6,
+"jūn duì",
+"army; troops; CL:支[zhī],个[gè]"
+],
+[
+"团队",
+6,
+"tuán duì",
+"team"
+],
+[
+"成群结队",
+7,
+"chéng qún jié duì",
+"making up a group, forming a troupe (idiom); in large numbers; as a large crowd"
 ],
 [
 "大队",
-48.43,
+7,
 "dà duì",
 "group; a large body of; production brigade; military group"
 ],
 [
-"团队",
-41.05,
-"tuán duì",
-"team"
+"带队",
+7,
+"dài duì",
+"to lead a team; to lead a group; group leader; (tourism) tour guide"
+],
+[
+"掉队",
+7,
+"diào duì",
+"to fall behind; to drop out"
+],
+[
+"队形",
+7,
+"duì xíng",
+"formation"
+],
+[
+"啦啦队",
+7,
+"lā lā duì",
+"cheerleading squad"
+],
+[
+"领队",
+7,
+"lǐng duì",
+"to lead a group; leader of a group; captain (of sports squad)"
+]
+],
+"extraWords": [
+[
+"中国队",
+65.21,
+"???",
+"???"
 ],
 [
 "国家队",
@@ -78,7 +126,7 @@
 "车队",
 24.31,
 "chē duì",
-"motorcade; fleet; CL:列[lie4]"
+"motorcade; fleet; CL:列[liè]"
 ],
 [
 "队友",
@@ -87,16 +135,16 @@
 "member of same class, team, work group etc; teammate"
 ],
 [
-"啦啦队",
-16.16,
-"lā lā duì",
-"cheerleading squad"
-],
-[
 "支队",
 15.18,
 "zhī duì",
 "detachment (of troops)"
+],
+[
+"小队",
+14.04,
+"???",
+"???"
 ],
 [
 "生产队",
@@ -105,10 +153,40 @@
 "production team"
 ],
 [
+"队员们",
+13.56,
+"???",
+"???"
+],
+[
 "舰队",
 12.43,
 "jiàn duì",
-"fleet; CL:支[zhi1]"
+"fleet; CL:支[zhī]"
+],
+[
+"国奥队",
+11.58,
+"???",
+"???"
+],
+[
+"全队",
+11.57,
+"???",
+"???"
+],
+[
+"中队",
+10.1,
+"???",
+"???"
+],
+[
+"德国队",
+9.11,
+"???",
+"???"
 ],
 [
 "主队",
@@ -117,16 +195,70 @@
 "host team (at sports event); host side"
 ],
 [
-"领队",
-7.08,
-"lǐng duì",
-"to lead a group; leader of a group; captain (of sports squad)"
+"陆战队",
+8.41,
+"???",
+"???"
 ],
 [
-"带队",
-6.29,
-"dài duì",
-"to lead a team; to lead a group; group leader; (tourism) tour guide"
+"日本队",
+8.23,
+"???",
+"???"
+],
+[
+"辽宁队",
+8.21,
+"???",
+"???"
+],
+[
+"韩国队",
+7.75,
+"???",
+"???"
+],
+[
+"美国队",
+7.5,
+"???",
+"???"
+],
+[
+"巴西队",
+7.36,
+"???",
+"???"
+],
+[
+"总队",
+7.03,
+"???",
+"???"
+],
+[
+"法国队",
+6.71,
+"???",
+"???"
+],
+[
+"警卫队",
+6.26,
+"???",
+"???"
+],
+[
+"天津队",
+6.16,
+"???",
+"???"
+],
+[
+"北京队",
+6.02,
+"???",
+"???"
 ],
 [
 "连队",
@@ -147,10 +279,34 @@
 "(military) special forces"
 ],
 [
+"女队",
+5.41,
+"???",
+"???"
+],
+[
+"广东队",
+5.24,
+"???",
+"???"
+],
+[
 "自卫队",
 5.19,
 "zì wèi duì",
 "self-defense force; the Japanese armed forces"
+],
+[
+"意大利队",
+5.08,
+"???",
+"???"
+],
+[
+"深圳队",
+5.04,
+"???",
+"???"
 ]
 ],
 "strokes": [

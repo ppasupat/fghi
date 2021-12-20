@@ -1,36 +1,54 @@
 {
 "char": "忧",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "sad, grieved; grief, melancholy",
 "pron": "yōu"
 },
 "words": [
 [
-"忧郁",
+"担忧",
 6,
-"yōu yù",
-"sullen; depressed; melancholy; dejected"
+"dān yōu",
+"to worry; to be concerned"
+],
+[
+"后顾之忧",
+7,
+"hòu gù zhī yōu",
+"fears of trouble in the rear (idiom); family worries (obstructing freedom of action); worries about the future consequences; often in negative expressions, meaning \"no worries about anything\""
 ],
 [
 "无忧无虑",
-6,
+7,
 "wú yōu wú lǜ",
 "carefree and without worries (idiom)"
 ],
 [
-"后顾之忧",
-6,
-"hòu gù zhī yōu",
-"fears of trouble in the rear (idiom); family worries (obstructing freedom of action); worries about the future consequences; often in negative expressions, meaning \"no worries about anything\""
+"忧愁",
+7,
+"yōu chóu",
+"to be worried"
+],
+[
+"忧虑",
+7,
+"yōu lǜ",
+"to worry; anxiety (about)"
+],
+[
+"忧郁",
+7,
+"yōu yù",
+"sullen; depressed; melancholy; dejected"
 ]
 ],
 "extraWords": [
 [
-"担忧",
-22.33,
-"dān yōu",
-"to worry; to be concerned"
+"忧",
+12.1,
+"yōu",
+"to worry; to concern oneself with; worried; anxiety; sorrow; (literary) to observe mourning"
 ],
 [
 "忧伤",
@@ -39,10 +57,10 @@
 "distressed; laden with grief"
 ],
 [
-"忧虑",
-9.98,
-"yōu lǜ",
-"to worry; anxiety (about)"
+"无忧",
+5.47,
+"???",
+"???"
 ]
 ],
 "strokes": [

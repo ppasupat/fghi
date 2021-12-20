@@ -1,6 +1,6 @@
 {
 "char": "族",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "a family clan, ethnic group, tribe",
 "pron": "zú"
@@ -8,30 +8,42 @@
 "words": [
 [
 "民族",
-4,
+3,
 "mín zú",
-"nationality; ethnic group; CL:個|个[ge4]"
+"nationality; ethnic group; CL:个[gè]"
 ],
 [
-"种族",
+"中华民族",
+3,
+"Zhōng huá mín zú",
+"the Chinese people"
+],
+[
+"族",
 6,
-"zhǒng zú",
-"race; ethnicity"
+"zú",
+"race; nationality; ethnicity; clan; by extension, social group (e.g. office workers 上班族)"
 ],
 [
 "贵族",
-6,
+7,
 "guì zú",
 "lord; nobility; nobleman; noblewoman; aristocrat; aristocracy"
-]
 ],
-"extraWords": [
 [
 "家族",
-54.31,
+7,
 "jiā zú",
 "family; clan"
 ],
+[
+"种族",
+7,
+"zhǒng zú",
+"race; ethnicity"
+]
+],
+"extraWords": [
 [
 "少数民族",
 21.8,
@@ -39,10 +51,10 @@
 "national minority; ethnic group"
 ],
 [
-"中华民族",
-16.78,
-"Zhōng huá mín zú",
-"the Chinese people"
+"各族",
+10.66,
+"???",
+"???"
 ],
 [
 "族人",

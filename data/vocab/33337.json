@@ -1,6 +1,6 @@
 {
 "char": "船",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "ship, boat, vessel",
 "pron": "chuán"
@@ -8,65 +8,101 @@
 "words": [
 [
 "船",
-3,
+2,
 "chuán",
-"variant of 船[chuan2]"
+"variant of 船[chuán]"
 ],
 [
 "船",
-3,
+2,
 "chuán",
-"boat; vessel; ship; CL:條|条[tiao2],艘[sou1],隻|只[zhi1]"
+"boat; vessel; ship; CL:条[tiáo],艘[sōu],只[zhī]"
+],
+[
+"划船",
+3,
+"huá chuán",
+"to row a boat; rowing boat; rowing (sport)"
 ],
 [
 "轮船",
-6,
+4,
 "lún chuán",
-"steamship; steamer; ocean liner; ship; CL:艘[sou1]"
+"steamship; steamer; ocean liner; ship; CL:艘[sōu]"
 ],
 [
-"船舶",
+"船员",
 6,
-"chuán bó",
-"shipping; boats"
-]
+"chuán yuán",
+"sailor; crew member"
 ],
-"extraWords": [
 [
 "船长",
-41.61,
+6,
 "chuán zhǎng",
 "captain (of a boat); skipper"
 ],
 [
+"船只",
+6,
+"chuán zhī",
+"ship; boat; vessel"
+],
+[
 "飞船",
-22.39,
+6,
 "fēi chuán",
 "airship; spaceship"
+],
+[
+"船舶",
+7,
+"chuán bó",
+"shipping; boats"
+],
+[
+"船桨",
+7,
+"chuán jiǎng",
+"oar"
+],
+[
+"帆船",
+7,
+"fān chuán",
+"sailboat"
+],
+[
+"水涨船高",
+7,
+"shuǐ zhǎng chuán gāo",
+"the tide rises, the boat floats (idiom); fig. to change with the overall trend; to develop according to the situation"
+],
+[
+"游船",
+7,
+"yóu chuán",
+"pleasure boat; cruise ship"
+],
+[
+"渔船",
+7,
+"yú chuán",
+"fishing boat; CL:条[tiáo]"
+]
+],
+"extraWords": [
+[
+"船上",
+30.38,
+"???",
+"???"
 ],
 [
 "船票",
 13.27,
 "chuán piào",
 "ship ticket"
-],
-[
-"船员",
-10.55,
-"chuán yuán",
-"sailor; crew member"
-],
-[
-"船只",
-8.5,
-"chuán zhī",
-"ship; boat; vessel"
-],
-[
-"渔船",
-8.25,
-"yú chuán",
-"fishing boat; CL:條|条[tiao2]"
 ],
 [
 "太空船",

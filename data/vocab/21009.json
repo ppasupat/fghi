@@ -1,24 +1,42 @@
 {
 "char": "刑",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "punishment, penalty; law",
 "pron": "xíng"
 },
 "words": [
 [
-"刑事",
-6,
-"xíng shì",
-"criminal; penal"
+"刑法",
+7,
+"xíng fǎ",
+"criminal law"
 ]
 ],
 "extraWords": [
+[
+"刑事",
+23.42,
+"xíng shì",
+"criminal; penal"
+],
 [
 "死刑",
 22.89,
 "sǐ xíng",
 "death penalty"
+],
+[
+"刑",
+13.26,
+"Xíng",
+"surname Xing"
+],
+[
+"刑",
+13.26,
+"xíng",
+"punishment; penalty; sentence; torture; corporal punishment"
 ],
 [
 "有期徒刑",
@@ -27,16 +45,10 @@
 "limited term of imprisonment (i.e. anything less than life imprisonment)"
 ],
 [
-"刑法",
-10.55,
-"xíng fǎ",
-"criminal law"
-],
-[
 "刑警",
 7.57,
 "xíng jǐng",
-"abbr. for 刑事警察[xing2 shi4 jing3 cha2]; criminal police"
+"abbr. for 刑事警察[xíng shì jǐng chá]; criminal police"
 ],
 [
 "服刑",

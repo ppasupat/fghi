@@ -1,166 +1,358 @@
 {
 "char": "公",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "fair, equitable; public; duke",
 "pron": "gōng"
 },
 "words": [
 [
-"公司",
+"办公室",
 2,
-"gōng sī",
-"(business) company; company; firm; corporation; incorporated; CL:家[jia1]"
+"bàn gōng shì",
+"office; business premises; bureau; CL:间[jiān]"
 ],
 [
 "公共汽车",
 2,
 "gōng gòng qì chē",
-"bus; CL:輛|辆[liang4],班[ban1]"
+"bus; CL:辆[liàng],班[bān]"
 ],
 [
-"办公室",
-3,
-"bàn gōng shì",
-"office; business premises; bureau; CL:間|间[jian1]"
-],
-[
-"公园",
-3,
-"gōng yuán",
-"park (for public recreation); CL:個|个[ge4],座[zuo4]"
+"公交车",
+2,
+"gōng jiāo chē",
+"public transport vehicle; town bus; CL:辆[liàng]"
 ],
 [
 "公斤",
-3,
+2,
 "gōng jīn",
 "kilogram (kg)"
 ],
 [
 "公里",
-4,
+2,
 "gōng lǐ",
 "kilometer"
 ],
 [
-"高速公路",
-4,
-"gāo sù gōng lù",
-"expressway; highway; freeway"
-],
-[
-"公寓",
-5,
-"gōng yù",
-"apartment building; block of flats; CL:套[tao4]"
+"公路",
+2,
+"gōng lù",
+"highway; road; CL:条[tiáo]"
 ],
 [
 "公平",
-5,
+2,
 "gōng píng",
 "fair; impartial"
 ],
 [
-"公主",
-5,
-"gōng zhǔ",
-"princess"
+"公司",
+2,
+"gōng sī",
+"(business) company; company; firm; corporation; incorporated; CL:家[jiā]"
 ],
 [
-"公开",
-5,
-"gōng kāi",
-"public; to publish; to make public"
+"公园",
+2,
+"gōng yuán",
+"park (for public recreation); CL:个[gè],座[zuò]"
+],
+[
+"高速公路",
+3,
+"gāo sù gōng lù",
+"expressway; highway; freeway"
 ],
 [
 "公布",
-5,
+3,
 "gōng bù",
 "to announce; to make public; to publish"
 ],
 [
-"外公",
-5,
-"wài gōng",
-"(coll.) mother's father; maternal grandfather"
+"公共",
+3,
+"gōng gòng",
+"public; common; communal"
 ],
 [
-"公元",
-5,
-"gōng yuán",
-"CE (Common Era); Christian Era; AD (Anno Domini)"
+"公开",
+3,
+"gōng kāi",
+"public; to publish; to make public"
 ],
 [
 "公民",
-6,
+3,
 "gōng mín",
 "citizen"
 ],
 [
+"公务员",
+3,
+"gōng wù yuán",
+"functionary; office-bearer"
+],
+[
+"公元",
+4,
+"gōng yuán",
+"CE (Common Era); Christian Era; AD (Anno Domini)"
+],
+[
+"老公",
+4,
+"lǎo gōng",
+"(coll.) husband"
+],
+[
+"老公",
+4,
+"lǎo gong",
+"(coll.) eunuch; see also 老公[lǎo gōng]"
+],
+[
+"公告",
+5,
+"gōng gào",
+"post; announcement"
+],
+[
+"公认",
+5,
+"gōng rèn",
+"publicly known (to be); accepted (as)"
+],
+[
+"公式",
+5,
+"gōng shì",
+"formula"
+],
+[
 "公正",
-6,
+5,
 "gōng zhèng",
 "just; fair; equitable"
 ],
 [
-"公关",
+"办公",
 6,
-"gōng guān",
-"public relations"
+"bàn gōng",
+"to handle official business; to work (esp. in an office)"
+],
+[
+"公",
+6,
+"gōng",
+"public; collectively owned; common; international (e.g. high seas, metric system, calendar); make public; fair; just; Duke, highest of five orders of nobility 五等爵位[wǔ děng jué wèi]; honorable (gentlemen); father-in-law; male (animal)"
+],
+[
+"公安",
+6,
+"gōng ān",
+"(Ministry of) Public Security; public safety; public security"
+],
+[
+"公鸡",
+6,
+"gōng jī",
+"cock; rooster"
+],
+[
+"公众",
+6,
+"gōng zhòng",
+"public"
+],
+[
+"公主",
+6,
+"gōng zhǔ",
+"princess"
+],
+[
+"大公无私",
+7,
+"dà gōng wú sī",
+"selfless; impartial"
+],
+[
+"公安局",
+7,
+"gōng ān jú",
+"public security bureau (government office similar in function to a police station)"
+],
+[
+"公车",
+7,
+"gōng chē",
+"bus; abbr. for 公共汽车[gōng gòng qì chē]; car belonging to an organization and used by its members (government car, police car, company car etc); abbr. for 公务用车[gōng wù yòng chē]"
 ],
 [
 "公道",
-6,
+7,
 "gōng dào",
 "justice; fairness; public highway"
 ],
 [
 "公道",
-6,
+7,
 "gōng dao",
 "fair; equitable"
 ],
 [
-"公务",
-6,
-"gōng wù",
-"official business"
+"公费",
+7,
+"gōng fèi",
+"at public expense"
 ],
 [
-"公告",
-6,
-"gōng gào",
-"post; announcement"
+"公共场所",
+7,
+"gōng gòng chǎng suǒ",
+"public place"
+],
+[
+"公关",
+7,
+"gōng guān",
+"public relations"
+],
+[
+"公函",
+7,
+"gōng hán",
+"official letter"
+],
+[
+"公积金",
+7,
+"gōng jī jīn",
+"official reserves; accumulated fund"
+],
+[
+"公开信",
+7,
+"gōng kāi xìn",
+"open letter"
+],
+[
+"公款",
+7,
+"gōng kuǎn",
+"public money"
+],
+[
+"公立",
+7,
+"gōng lì",
+"public (e.g. school, hospital)"
+],
+[
+"公墓",
+7,
+"gōng mù",
+"public cemetery"
+],
+[
+"公仆",
+7,
+"gōng pú",
+"public servant; CL:个[gè],位[wèi]"
+],
+[
+"公顷",
+7,
+"gōng qǐng",
+"hectare"
 ],
 [
 "公然",
-6,
+7,
 "gōng rán",
 "openly; publicly; undisguised"
 ],
 [
-"公式",
-6,
+"公示",
+7,
 "gōng shì",
-"formula"
+"to make known to the public (for information or to seek comments); public notification"
 ],
 [
-"公认",
-6,
-"gōng rèn",
-"publicly known (to be); accepted (as)"
+"公事",
+7,
+"gōng shì",
+"work-related matters; documents"
+],
+[
+"公务",
+7,
+"gōng wù",
+"official business"
+],
+[
+"公益",
+7,
+"gōng yì",
+"public good; public welfare"
+],
+[
+"公益性",
+7,
+"???",
+"???"
+],
+[
+"公用",
+7,
+"gōng yòng",
+"public; for public use"
+],
+[
+"公寓",
+7,
+"gōng yù",
+"apartment building; block of flats; CL:套[tào]"
+],
+[
+"公约",
+7,
+"gōng yuē",
+"convention (i.e. international agreement)"
 ],
 [
 "公证",
-6,
+7,
 "gōng zhèng",
 "notarization; notarized; acknowledgement"
 ],
 [
-"公安局",
-6,
-"gōng ān jú",
-"public security bureau (government office similar in function to a police station)"
+"公职",
+7,
+"gōng zhí",
+"civil service; public office; government job"
+],
+[
+"外公",
+7,
+"wài gōng",
+"(coll.) mother's father; maternal grandfather"
+],
+[
+"愚公移山",
+7,
+"yú gōng yí shān",
+"the old man moves mountains (idiom); fig. where there's a will, there's a way"
+],
+[
+"主人公",
+7,
+"zhǔ rén gōng",
+"hero (of a novel or film); main protagonist"
 ]
 ],
 "extraWords": [
@@ -171,64 +363,22 @@
 "limited company; corporation"
 ],
 [
-"公共",
-71.25,
-"gōng gòng",
-"public; common; communal"
+"本公司",
+33.03,
+"???",
+"???"
 ],
 [
-"公路",
-56.91,
-"gōng lù",
-"highway; road; CL:條|条[tiao2]"
-],
-[
-"老公",
-55.52,
-"lǎo gōng",
-"(coll.) husband"
-],
-[
-"老公",
-55.52,
-"lǎo gong",
-"(coll.) eunuch; see also 老公[lao3 gong1]"
-],
-[
-"公众",
-50.53,
-"gōng zhòng",
-"public"
-],
-[
-"公安",
-35.87,
-"gōng ān",
-"(Ministry of) Public Security; public safety; public security"
-],
-[
-"办公",
-31.77,
-"bàn gōng",
-"to handle official business; to work (esp. in an office)"
+"保险公司",
+27.4,
+"???",
+"???"
 ],
 [
 "股份有限公司",
 26.88,
 "gǔ fèn yǒu xiàn gōng sī",
 "joint-stock limited company; corporation"
-],
-[
-"公务员",
-26.39,
-"gōng wù yuán",
-"functionary; office-bearer"
-],
-[
-"公益",
-26.34,
-"gōng yì",
-"public good; public welfare"
 ],
 [
 "公安机关",
@@ -249,12 +399,6 @@
 "(sports) open championship; open (as in \"the US Open\")"
 ],
 [
-"公积金",
-16.88,
-"gōng jī jīn",
-"official reserves; accumulated fund"
-],
-[
 "平方公里",
 16.24,
 "píng fāng gōng lǐ",
@@ -264,7 +408,7 @@
 "航空公司",
 15.85,
 "háng kōng gōng sī",
-"airline; CL:家[jia1]"
+"airline; CL:家[jiā]"
 ],
 [
 "子公司",
@@ -273,28 +417,22 @@
 "subsidiary company; subsidiary corporation"
 ],
 [
+"有限责任公司",
+15.01,
+"???",
+"???"
+],
+[
 "公子",
 13.83,
 "gōng zǐ",
 "son of an official; son of nobility; your son (honorific)"
 ],
 [
-"公车",
-13.32,
-"gōng chē",
-"bus; abbr. for 公共汽車|公共汽车[gong1 gong4 qi4 che1]; car belonging to an organization and used by its members (government car, police car, company car etc); abbr. for 公務用車|公务用车[gong1 wu4 yong4 che1]"
-],
-[
 "公爵",
 13.09,
 "gōng jué",
 "duke; dukedom"
-],
-[
-"公顷",
-12.64,
-"gōng qǐng",
-"hectare"
 ],
 [
 "公安部",
@@ -309,12 +447,6 @@
 "securities company; share company"
 ],
 [
-"公约",
-12.2,
-"gōng yuē",
-"convention (i.e. international agreement)"
-],
-[
 "跨国公司",
 11.85,
 "kuà guó gōng sī",
@@ -327,16 +459,22 @@
 "public ownership"
 ],
 [
+"集团公司",
+11.56,
+"???",
+"???"
+],
+[
 "分公司",
 11.52,
 "fēn gōng sī",
 "subsidiary company; branch office"
 ],
 [
-"公款",
-9.75,
-"gōng kuǎn",
-"public money"
+"不公平",
+11.39,
+"???",
+"???"
 ],
 [
 "总公司",
@@ -345,16 +483,16 @@
 "parent company; head office"
 ],
 [
-"公事",
-8.35,
-"gōng shì",
-"work-related matters; documents"
-],
-[
 "公报",
 8.3,
 "gōng bào",
 "announcement; bulletin; communique"
+],
+[
+"公安厅",
+7.73,
+"???",
+"???"
 ],
 [
 "大公司",
@@ -366,13 +504,13 @@
 "办公楼",
 7.37,
 "bàn gōng lóu",
-"office building; CL:座[zuo4],棟|栋[dong4]"
+"office building; CL:座[zuò],栋[dòng]"
 ],
 [
-"公用",
-7.35,
-"gōng yòng",
-"public; for public use"
+"物业公司",
+7.36,
+"???",
+"???"
 ],
 [
 "公司法",
@@ -402,7 +540,7 @@
 "公交",
 5.93,
 "gōng jiāo",
-"public transportation; mass transit; abbr. for 公共交通[gong1 gong4 jiao1 tong1]"
+"public transportation; mass transit; abbr. for 公共交通[gōng gòng jiāo tōng]"
 ],
 [
 "公牛",
@@ -411,16 +549,16 @@
 "bull"
 ],
 [
-"主人公",
-5.62,
-"zhǔ rén gōng",
-"hero (of a novel or film); main protagonist"
-],
-[
 "人民公社",
 5.28,
 "rén mín gōng shè",
 "people's commune"
+],
+[
+"办公桌",
+5.13,
+"???",
+"???"
 ],
 [
 "公厕",

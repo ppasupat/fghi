@@ -1,64 +1,124 @@
 {
 "char": "教",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "teach, class",
 "pron": "jiāo, jiào"
 },
 "words": [
 [
-"教室",
-2,
-"jiào shì",
-"classroom; CL:間|间[jian1]"
-],
-[
 "教",
-3,
+1,
 "Jiào",
 "surname Jiao"
 ],
 [
 "教",
-3,
+1,
 "jiāo",
 "to teach"
 ],
 [
 "教",
-3,
+1,
 "jiào",
 "religion; teaching; to make; to cause; to tell"
+],
+[
+"教学楼",
+1,
+"jiào xué lóu",
+"teaching block; school building"
+],
+[
+"教师",
+2,
+"jiào shī",
+"teacher; CL:个[gè]"
+],
+[
+"教室",
+2,
+"jiào shì",
+"classroom; CL:间[jiān]"
+],
+[
+"教学",
+2,
+"jiāo xué",
+"to teach (as a professor)"
+],
+[
+"教学",
+2,
+"jiào xué",
+"teaching; instruction; CL:门[mén],个[gè]"
+],
+[
+"教育",
+2,
+"jiào yù",
+"to educate; to teach; education"
+],
+[
+"教材",
+3,
+"jiào cái",
+"teaching material; CL:本[běn]"
+],
+[
+"教练",
+3,
+"jiào liàn",
+"instructor; sports coach; trainer; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"请教",
+3,
+"qǐng jiào",
+"to ask for guidance; to consult"
 ],
 [
 "教授",
 4,
 "jiào shòu",
-"professor; to instruct; to lecture on; CL:個|个[ge4],位[wei4]"
-],
-[
-"教育",
-4,
-"jiào yù",
-"to educate; to teach; education"
-],
-[
-"教练",
-5,
-"jiào liàn",
-"instructor; sports coach; trainer; CL:個|个[ge4],位[wei4],名[ming2]"
+"professor; to instruct; to lecture on; CL:个[gè],位[wèi]"
 ],
 [
 "教训",
-5,
+4,
 "jiào xun",
-"to provide guidance; to lecture sb; to upbraid; a talking-to; a bitter lesson; CL:番[fan1],頓|顿[dun4]"
+"to provide guidance; to lecture sb; to upbraid; a talking-to; a bitter lesson; CL:番[fān],顿[dùn]"
 ],
 [
-"教材",
-5,
-"jiào cái",
-"teaching material; CL:本[ben3]"
+"道教",
+6,
+"Dào jiào",
+"Taoism; Daoism (Chinese system of beliefs)"
+],
+[
+"佛教",
+6,
+"Fó jiào",
+"Buddhism"
+],
+[
+"基督教",
+6,
+"Jī dū jiào",
+"Christianity; Christian"
+],
+[
+"教堂",
+6,
+"jiào táng",
+"church; chapel; CL:间[jiān]"
+],
+[
+"教育部",
+6,
+"Jiào yù bù",
+"Ministry of Education"
 ],
 [
 "宗教",
@@ -67,42 +127,66 @@
 "religion"
 ],
 [
+"赐教",
+7,
+"cì jiào",
+"(honorific) to impart one's wisdom; to enlighten"
+],
+[
+"管教",
+7,
+"guǎn jiào",
+"to discipline; to teach; to guarantee"
+],
+[
+"家教",
+7,
+"jiā jiào",
+"family education; upbringing; to bring sb up; private tutor"
+],
+[
+"教科书",
+7,
+"jiào kē shū",
+"textbook; CL:本[běn]"
+],
+[
+"教条",
+7,
+"jiào tiáo",
+"doctrine; dogma; creed; dogmatic"
+],
+[
 "教养",
-6,
+7,
 "jiào yǎng",
 "to train; to educate; to bring up; to nurture; education; culture; upbringing; early conditioning"
 ],
 [
-"请教",
-6,
-"qǐng jiào",
-"to ask for guidance; to consult"
+"天主教",
+7,
+"Tiān zhǔ jiào",
+"Catholicism"
+],
+[
+"伊斯兰教",
+7,
+"Yī sī lán jiào",
+"Islam"
+],
+[
+"指教",
+7,
+"zhǐ jiào",
+"to give advice or comments"
 ]
 ],
 "extraWords": [
 [
-"教学",
-121.55,
-"jiāo xué",
-"to teach (as a professor)"
-],
-[
-"教学",
-121.55,
-"jiào xué",
-"teaching; instruction; CL:門|门[men2],個|个[ge4]"
-],
-[
-"教师",
-109.48,
-"jiào shī",
-"teacher; CL:個|个[ge4]"
-],
-[
-"教堂",
-64.87,
-"jiào táng",
-"church; chapel; CL:間|间[jian1]"
+"主教练",
+31.51,
+"???",
+"???"
 ],
 [
 "教会",
@@ -117,12 +201,6 @@
 "Christian church"
 ],
 [
-"教育部",
-18.3,
-"Jiào yù bù",
-"Ministry of Education"
-],
-[
 "教导",
 15.43,
 "jiào dǎo",
@@ -135,16 +213,16 @@
 "compulsory education"
 ],
 [
-"佛教",
-10.19,
-"Fó jiào",
-"Buddhism"
-],
-[
 "主教",
 10.05,
 "zhǔ jiào",
 "bishop"
+],
+[
+"教育局",
+9.92,
+"???",
+"???"
 ],
 [
 "执教",
@@ -157,24 +235,6 @@
 8.34,
 "zhí yè jiào yù",
 "vocational training"
-],
-[
-"教科书",
-7.94,
-"jiào kē shū",
-"textbook; CL:本[ben3]"
-],
-[
-"天主教",
-6.89,
-"Tiān zhǔ jiào",
-"Catholicism"
-],
-[
-"基督教",
-6.8,
-"Jī dū jiào",
-"Christianity; Christian"
 ],
 [
 "科教",
@@ -199,6 +259,12 @@
 6.08,
 "jiào tú",
 "disciple; follower of a religion"
+],
+[
+"教委",
+6.05,
+"???",
+"???"
 ],
 [
 "教书",

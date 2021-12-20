@@ -1,6 +1,6 @@
 {
 "char": "健",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "strong, robust, healthy; strength",
 "pron": "jiàn"
@@ -8,41 +8,65 @@
 "words": [
 [
 "健康",
-3,
+2,
 "jiàn kāng",
 "health; healthy"
 ],
 [
 "健身",
-5,
+4,
 "jiàn shēn",
 "to exercise; to keep fit; to work out; physical exercise"
 ],
 [
 "健全",
-6,
+5,
 "jiàn quán",
 "robust; sound"
-]
 ],
-"extraWords": [
 [
 "保健",
-27.32,
+6,
 "bǎo jiàn",
 "health protection; health care; to maintain in good health"
 ],
 [
+"健美",
+7,
+"jiàn měi",
+"healthy and beautiful; to do fitness exercises; abbr. for 健美运动[jiàn měi yùn dòng]"
+],
+[
+"健壮",
+7,
+"jiàn zhuàng",
+"robust; healthy; sturdy"
+],
+[
 "稳健",
-10.69,
+7,
 "wěn jiàn",
 "firm; stable and steady"
+]
+],
+"extraWords": [
+[
+"健",
+34.38,
+"jiàn",
+"healthy; to invigorate; to strengthen; to be good at; to be strong in"
 ],
 [
 "健身房",
 8.08,
 "jiàn shēn fáng",
 "gym; gymnasium"
+],
+[
+"保健品",
+5.5,
+"???",
+"???"
 ]
 ],
 "strokes": [

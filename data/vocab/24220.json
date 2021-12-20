@@ -1,6 +1,6 @@
 {
 "char": "府",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "prefecture; prefect; government",
 "pron": "fǔ"
@@ -8,9 +8,15 @@
 "words": [
 [
 "政府",
-5,
+4,
 "zhèng fǔ",
-"government; CL:個|个[ge4]"
+"government; CL:个[gè]"
+],
+[
+"首府",
+7,
+"shǒu fǔ",
+"capital city of an autonomous region"
 ]
 ],
 "extraWords": [
@@ -19,6 +25,24 @@
 48.97,
 "shì zhèng fǔ",
 "city hall; city government"
+],
+[
+"府",
+35.92,
+"fǔ",
+"seat of government; government repository (archive); official residence; mansion; presidential palace; (honorific) Your home; prefecture (from Tang to Qing times)"
+],
+[
+"省政府",
+25.33,
+"???",
+"???"
+],
+[
+"地方政府",
+22.1,
+"???",
+"???"
 ],
 [
 "县政府",

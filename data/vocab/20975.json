@@ -1,12 +1,31 @@
 {
 "char": "凯",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "triumphant; triumph, victory",
 "pron": "kǎi"
 },
-"words": [],
+"words": [
+[
+"凯歌",
+7,
+"kǎi gē",
+"triumphal hymn; victory song; paean"
+]
+],
 "extraWords": [
+[
+"凯",
+27.68,
+"Kǎi",
+"surname Kai"
+],
+[
+"凯",
+27.68,
+"kǎi",
+"triumphant; victorious; chi (Greek letter Χχ)"
+],
 [
 "凯文",
 20.15,
@@ -26,10 +45,22 @@
 "(name) Kitty, Cathy, Katy, Caddy etc"
 ],
 [
+"凯尔",
+14.25,
+"???",
+"???"
+],
+[
 "凯瑟琳",
 12.88,
 "Kǎi sè lín",
 "Catherine (name); Katherine"
+],
+[
+"凯伦",
+9.84,
+"???",
+"???"
 ],
 [
 "凯利",
@@ -42,6 +73,18 @@
 7.27,
 "Kǎi sā",
 "Caesar or Kaiser (name)"
+],
+[
+"凯西",
+7.04,
+"???",
+"???"
+],
+[
+"凯莉",
+6.2,
+"???",
+"???"
 ]
 ],
 "strokes": [

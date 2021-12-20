@@ -1,6 +1,6 @@
 {
 "char": "庭",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "courtyard; spacious hall or yard",
 "pron": "tíng"
@@ -8,17 +8,29 @@
 "words": [
 [
 "家庭",
-5,
+2,
 "jiā tíng",
-"family; household; CL:戶|户[hu4],個|个[ge4]"
+"family; household; CL:户[hù],个[gè]"
+],
+[
+"法庭",
+6,
+"fǎ tíng",
+"court of law"
+],
+[
+"大家庭",
+7,
+"dà jiā tíng",
+"extended family; big family; harmonious group"
 ]
 ],
 "extraWords": [
 [
-"法庭",
-69.22,
-"fǎ tíng",
-"court of law"
+"庭",
+21.13,
+"tíng",
+"main hall; front courtyard; law court"
 ],
 [
 "出庭",
@@ -43,12 +55,6 @@
 6.05,
 "xiū tíng",
 "to adjourn (law)"
-],
-[
-"大家庭",
-5.28,
-"dà jiā tíng",
-"extended family; big family; harmonious group"
 ]
 ],
 "strokes": [

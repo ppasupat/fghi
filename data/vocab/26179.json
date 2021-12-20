@@ -1,6 +1,6 @@
 {
 "char": "晃",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "bright, dazzling; to sway, shake",
 "pron": "huǎng, huàng"
@@ -8,21 +8,39 @@
 "words": [
 [
 "晃",
-6,
+7,
 "huǎng",
-"variant of 晃[huang3]"
+"variant of 晃[huǎng]"
 ],
 [
 "晃",
-6,
+7,
 "huǎng",
 "to dazzle; to flash past"
 ],
 [
 "晃",
-6,
+7,
 "huàng",
 "to sway; to shake; to wander about"
+],
+[
+"晃荡",
+7,
+"huàng dang",
+"to rock; to sway; to shake"
+],
+[
+"摇晃",
+7,
+"yáo huàng",
+"to rock; to shake; to sway"
+],
+[
+"一晃",
+7,
+"yī huǎng",
+"(of passing time) in an instant; (of a sight) in a flash"
 ]
 ],
 "extraWords": [],

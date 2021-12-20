@@ -1,6 +1,6 @@
 {
 "char": "狗",
-"level": 1,
+"level": "2",
 "info": {
 "gloss": "dog, canis familiaris",
 "pron": "gǒu"
@@ -8,9 +8,9 @@
 "words": [
 [
 "狗",
-1,
+2,
 "gǒu",
-"dog; CL:隻|只[zhi1],條|条[tiao2]"
+"dog; CL:只[zhī],条[tiáo]"
 ]
 ],
 "extraWords": [

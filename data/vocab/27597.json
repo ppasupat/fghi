@@ -1,55 +1,79 @@
 {
 "char": "母",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "mother; female elders; female",
 "pron": "mǔ"
 },
 "words": [
 [
-"母亲",
-4,
-"mǔ qīn",
-"mother; also pr. [mu3 qin5]; CL:個|个[ge4]"
-],
-[
-"字母",
-5,
-"zì mǔ",
-"letter (of the alphabet); CL:個|个[ge4]"
-],
-[
-"岳母",
-6,
-"yuè mǔ",
-"wife's mother, mother-in-law"
-],
-[
-"伯母",
-6,
-"bó mǔ",
-"wife of father's elder brother; aunt; (polite form of address for a woman who is about the age of one's mother); CL:個|个[ge4]"
-],
-[
-"母语",
-6,
-"mǔ yǔ",
-"native language; mother tongue; (linguistics) parent language"
-]
-],
-"extraWords": [
-[
 "父母",
-151.46,
+3,
 "fù mǔ",
 "father and mother; parents"
 ],
 [
+"母亲",
+3,
+"mǔ qīn",
+"mother; also pr. [mu3 qin5]; CL:个[gè]"
+],
+[
+"字母",
+4,
+"zì mǔ",
+"letter (of the alphabet); CL:个[gè]"
+],
+[
+"母",
+6,
+"mǔ",
+"mother; elderly female relative; origin; source; (of animals) female"
+],
+[
+"母鸡",
+6,
+"mǔ jī",
+"hen; don't know (humorous slang mimicking Cantonese 唔知, Jyutping: m4 zi1)"
+],
+[
+"母女",
+6,
+"mǔ nǚ",
+"mother-daughter"
+],
+[
+"母子",
+6,
+"mǔ zǐ",
+"mother and child; parent and subsidiary (companies); principal and interest"
+],
+[
 "祖母",
-17.2,
+6,
 "zǔ mǔ",
 "father's mother; paternal grandmother"
 ],
+[
+"伯母",
+7,
+"bó mǔ",
+"wife of father's elder brother; aunt; (polite form of address for a woman who is about the age of one's mother); CL:个[gè]"
+],
+[
+"继母",
+7,
+"jì mǔ",
+"stepmother"
+],
+[
+"岳母",
+7,
+"yuè mǔ",
+"wife's mother, mother-in-law"
+]
+],
+"extraWords": [
 [
 "圣母",
 7.33,
@@ -63,16 +87,10 @@
 "goddess"
 ],
 [
-"母子",
-6.14,
-"mǔ zǐ",
-"mother and child; parent and subsidiary (companies); principal and interest"
-],
-[
-"母女",
-5.27,
-"mǔ nǚ",
-"mother-daughter"
+"母猪",
+5.28,
+"???",
+"???"
 ]
 ],
 "strokes": [

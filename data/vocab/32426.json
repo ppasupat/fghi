@@ -1,46 +1,70 @@
 {
 "char": "纪",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "record, annal, historical account",
 "pron": "jǐ, jì"
 },
 "words": [
 [
-"世纪",
-4,
-"shì jì",
-"century; CL:個|个[ge4]"
-],
-[
-"年纪",
-5,
-"nián jì",
-"age; CL:把[ba3],個|个[ge4]"
+"纪录",
+3,
+"jì lù",
+"variant of 记录[jì lù] (but in Taiwan, not for the verb sense \"to record\")"
 ],
 [
 "纪念",
-5,
+3,
 "jì niàn",
-"to commemorate; to remember; CL:個|个[ge4]"
+"to commemorate; to remember; CL:个[gè]"
 ],
 [
-"纪录",
-5,
-"jì lù",
-"variant of 記錄|记录[ji4 lu4] (but in Taiwan, not for the verb sense \"to record\")"
+"年纪",
+3,
+"nián jì",
+"age; CL:把[bǎ],个[gè]"
+],
+[
+"世纪",
+3,
+"shì jì",
+"century; CL:个[gè]"
 ],
 [
 "纪律",
-5,
+4,
 "jì lǜ",
 "discipline"
 ],
 [
-"纪要",
-6,
-"jì yào",
-"minutes; written summary of a meeting"
+"纪录片",
+7,
+"jì lù piàn",
+"newsreel; documentary (film or TV program); CL:部[bù]"
+],
+[
+"纪念碑",
+7,
+"jì niàn bēi",
+"monument"
+],
+[
+"纪念馆",
+7,
+"jì niàn guǎn",
+"memorial hall; commemorative museum"
+],
+[
+"纪念日",
+7,
+"jì niàn rì",
+"day of commemoration; memorial day"
+],
+[
+"纪实",
+7,
+"jì shí",
+"record of actual events; documentary (factual rather than fictional)"
 ]
 ],
 "extraWords": [
@@ -57,10 +81,16 @@
 "to manage (a business); manager; broker"
 ],
 [
-"纪念日",
-9.06,
-"jì niàn rì",
-"day of commemoration; memorial day"
+"纪",
+12.09,
+"Jǐ",
+"surname Ji; also pr. [Ji4]"
+],
+[
+"纪",
+12.09,
+"jì",
+"order; discipline; age; era; period; to chronicle"
 ],
 [
 "纪委",
@@ -87,22 +117,16 @@
 "lack of discipline; to break a rule; to violate discipline; to breach a principle"
 ],
 [
-"纪录片",
-7.2,
-"jì lù piàn",
-"newsreel; documentary (film or TV program); CL:部[bu4]"
-],
-[
 "纪念品",
 7.18,
 "jì niàn pǐn",
 "souvenir"
 ],
 [
-"纪念馆",
+"本世纪",
 5.23,
-"jì niàn guǎn",
-"memorial hall; commemorative museum"
+"???",
+"???"
 ]
 ],
 "strokes": [

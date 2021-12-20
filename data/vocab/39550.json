@@ -1,6 +1,6 @@
 {
 "char": "驾",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "to drive, sail, fly; a cart, carriage",
 "pron": "jià"
@@ -13,10 +13,34 @@
 "to pilot (ship, airplane etc); to drive"
 ],
 [
-"劳驾",
+"驾照",
 5,
-"láo jià",
-"excuse me"
+"jià zhào",
+"driver's license"
+],
+[
+"驾",
+7,
+"Jià",
+"surname Jia"
+],
+[
+"驾",
+7,
+"jià",
+"to harness; to draw (a cart etc); to drive; to pilot; to sail; to ride; your good self; prefixed word denoting respect (polite 敬辞[jìng cí])"
+],
+[
+"驾车",
+7,
+"jià chē",
+"to drive a vehicle"
+],
+[
+"驾驭",
+7,
+"jià yù",
+"to urge on (of horse); to drive; to steer; to handle; to manage; to master; to dominate"
 ]
 ],
 "extraWords": [
@@ -27,22 +51,10 @@
 "pilot; driver"
 ],
 [
-"驾车",
-14.49,
-"jià chē",
-"to drive a vehicle"
-],
-[
-"驾照",
-13.24,
-"jià zhào",
-"driver's license"
-],
-[
-"驾驭",
-6.53,
-"jià yù",
-"to urge on (of horse); to drive; to steer; to handle; to manage; to master; to dominate"
+"劳驾",
+8.14,
+"láo jià",
+"excuse me"
 ]
 ],
 "strokes": [

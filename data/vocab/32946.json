@@ -1,54 +1,78 @@
 {
 "char": "育",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "produce, give birth to; educate",
 "pron": "yù"
 },
 "words": [
 [
-"体育",
-3,
-"tǐ yù",
-"sports; physical education"
-],
-[
 "教育",
-4,
+2,
 "jiào yù",
 "to educate; to teach; education"
 ],
 [
-"生育",
+"体育",
+2,
+"tǐ yù",
+"sports; physical education"
+],
+[
+"体育场",
+2,
+"tǐ yù chǎng",
+"stadium; CL:个[gè],座[zuò]"
+],
+[
+"体育馆",
+2,
+"tǐ yù guǎn",
+"gym; gymnasium; stadium; CL:个[gè]"
+],
+[
+"培育",
+4,
+"péi yù",
+"to train; to breed"
+],
+[
+"教育部",
 6,
-"shēng yù",
-"to bear; to give birth; to grow; to rear; to bring up (children); fertility"
+"Jiào yù bù",
+"Ministry of Education"
+],
+[
+"哺育",
+7,
+"bǔ yù",
+"to feed; to nurture; to foster"
 ],
 [
 "发育",
-6,
+7,
 "fā yù",
 "to develop; to mature; growth; development; (sexually) mature"
 ],
 [
-"孕育",
-6,
-"yùn yù",
-"to be pregnant; to produce offspring; to nurture (a development, school of thought, artwork etc); fig. replete with (culture etc)"
+"生育",
+7,
+"shēng yù",
+"to bear; to give birth; to grow; to rear; to bring up (children); fertility"
 ],
 [
-"培育",
-6,
-"péi yù",
-"to train; to breed"
+"孕育",
+7,
+"yùn yù",
+"to be pregnant; to produce offspring; to nurture (a development, school of thought, artwork etc); fig. replete with (culture etc)"
 ]
 ],
 "extraWords": [
 [
-"教育部",
-18.3,
-"Jiào yù bù",
-"Ministry of Education"
+"育",
+20.14,
+"yù",
+"to have children; to raise or bring up; to educate"
 ],
 [
 "义务教育",
@@ -57,28 +81,22 @@
 "compulsory education"
 ],
 [
-"体育馆",
-11.03,
-"tǐ yù guǎn",
-"gym; gymnasium; stadium; CL:個|个[ge4]"
-],
-[
 "计划生育",
 10.41,
 "jì huà shēng yù",
 "family planning"
 ],
 [
+"教育局",
+9.92,
+"???",
+"???"
+],
+[
 "职业教育",
 8.34,
 "zhí yè jiào yù",
 "vocational training"
-],
-[
-"体育场",
-7.46,
-"tǐ yù chǎng",
-"stadium; CL:個|个[ge4],座[zuo4]"
 ],
 [
 "德育",

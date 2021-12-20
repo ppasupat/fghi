@@ -1,6 +1,6 @@
 {
 "char": "两",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "two, both, pair, couple; ounce",
 "pron": "liǎng"
@@ -8,15 +8,51 @@
 "words": [
 [
 "两",
-2,
+1,
 "liǎng",
-"two; both; some; a few; tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jin1] (old)"
+"two; both; some; a few; tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jīn] (old)"
 ],
 [
-"一举两得",
+"两边",
+4,
+"liǎng bian",
+"either side; both sides"
+],
+[
+"两岸",
+5,
+"liǎng àn",
+"bilateral; both shores; both sides; both coasts; Taiwan and mainland"
+],
+[
+"两侧",
 6,
-"yī jǔ liǎng dé",
-"one move, two gains (idiom); two birds with one stone"
+"liǎng cè",
+"two sides; both sides"
+],
+[
+"两手",
+6,
+"liǎng shǒu",
+"one's two hands; two prongs (of a strategy); both aspects, eventualities etc; skills; expertise"
+],
+[
+"两口子",
+7,
+"liǎng kǒu zi",
+"husband and wife"
+],
+[
+"两栖",
+7,
+"liǎng qī",
+"amphibious; dual-talented; able to work in two different lines"
+],
+[
+"有两下子",
+7,
+"yǒu liǎng xià zi",
+"to have real skill; to know one's stuff"
 ]
 ],
 "extraWords": [
@@ -27,28 +63,22 @@
 "both countries; two countries"
 ],
 [
-"两岸",
-48.78,
-"liǎng àn",
-"bilateral; both shores; both sides; both coasts; Taiwan and mainland"
-],
-[
 "两者",
 26.19,
 "liǎng zhě",
 "both sides"
 ],
 [
-"两边",
-11.51,
-"liǎng bian",
-"either side; both sides"
+"一两",
+18.27,
+"???",
+"???"
 ],
 [
-"两手",
-6.1,
-"liǎng shǒu",
-"one's two hands; two prongs (of a strategy); both aspects, eventualities etc; skills; expertise"
+"两地",
+13.29,
+"???",
+"???"
 ],
 [
 "两头",
@@ -69,10 +99,22 @@
 "both sides; either side"
 ],
 [
+"两百万",
+5.31,
+"???",
+"???"
+],
+[
 "两样",
 5.24,
 "liǎng yàng",
 "two kinds; difference"
+],
+[
+"两三",
+5.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

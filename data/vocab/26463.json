@@ -1,6 +1,6 @@
 {
 "char": "束",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "bind, control, restrain; bale",
 "pron": "shù"
@@ -14,33 +14,33 @@
 ],
 [
 "束",
-6,
+3,
 "Shù",
 "surname Shu"
 ],
 [
 "束",
-6,
+3,
 "shù",
 "to bind; bunch; bundle; classifier for bunches, bundles, beams of light etc; to control"
 ],
 [
-"束缚",
-6,
-"shù fù",
-"to bind; to restrict; to tie; to commit; fetters"
-],
-[
 "约束",
-6,
+5,
 "yuē shù",
 "to restrict; to limit to; to constrain; restriction; constraint"
 ],
 [
 "拘束",
-6,
+7,
 "jū shù",
 "to restrict; to restrain; constrained; awkward; ill at ease; uncomfortable; reticent"
+],
+[
+"束缚",
+7,
+"shù fù",
+"to bind; to restrict; to tie; to commit; fetters"
 ]
 ],
 "extraWords": [],

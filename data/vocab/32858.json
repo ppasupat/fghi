@@ -1,11 +1,17 @@
 {
 "char": "聚",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "assemble, meet together, collect",
 "pron": "jù"
 },
 "words": [
+[
+"聚",
+4,
+"jù",
+"to congregate; to assemble; to mass; to gather together; to amass; to polymerize"
+],
 [
 "聚会",
 4,
@@ -13,37 +19,43 @@
 "party; gathering; to meet; to get together"
 ],
 [
-"凝聚",
-6,
-"níng jù",
-"to condense; to coagulate; coacervation (i.e. form tiny droplets); aggregation; coherent"
-],
-[
-"聚精会神",
-6,
-"jù jīng huì shén",
-"to concentrate one's attention (idiom)"
-]
-],
-"extraWords": [
-[
-"聚集",
-25.26,
-"jù jí",
-"to assemble; to gather"
+"欢聚",
+7,
+"huān jù",
+"to get together socially; to celebrate; party; celebration"
 ],
 [
 "汇聚",
-8.03,
+7,
 "huì jù",
 "convergence; to come together"
 ],
 [
+"聚集",
+7,
+"jù jí",
+"to assemble; to gather"
+],
+[
+"聚精会神",
+7,
+"jù jīng huì shén",
+"to concentrate one's attention (idiom)"
+],
+[
+"凝聚",
+7,
+"níng jù",
+"to condense; to coagulate; coacervation (i.e. form tiny droplets); aggregation; coherent"
+],
+[
 "团聚",
-6.62,
+7,
 "tuán jù",
 "to reunite; to have a reunion"
+]
 ],
+"extraWords": [
 [
 "聚焦",
 6.5,

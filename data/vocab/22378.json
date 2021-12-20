@@ -1,17 +1,30 @@
 {
 "char": "坪",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "level ground; Japanese measure",
 "pron": "píng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "草坪",
-8.79,
+7,
 "cǎo píng",
 "lawn"
+]
+],
+"extraWords": [
+[
+"坪",
+9.25,
+"píng",
+"a plain; ping, unit of area equal to approx. 3.3058 square meters (used in Japan and Taiwan)"
+],
+[
+"停机坪",
+1.58,
+"tíng jī píng",
+"aircraft parking ground; apron; tarmac (at airport)"
 ]
 ],
 "strokes": [

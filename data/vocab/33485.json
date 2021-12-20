@@ -1,24 +1,36 @@
 {
 "char": "苍",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "blue; green",
 "pron": "cāng"
 },
 "words": [
 [
-"苍白",
-6,
-"cāng bái",
-"pale; wan"
+"苍蝇",
+7,
+"cāng ying",
+"housefly; CL:只[zhī]"
 ]
 ],
 "extraWords": [
 [
-"苍蝇",
-8.67,
-"cāng ying",
-"housefly; CL:隻|只[zhi1]"
+"苍白",
+9.37,
+"cāng bái",
+"pale; wan"
+],
+[
+"苍",
+7.5,
+"Cāng",
+"surname Cang"
+],
+[
+"苍",
+7.5,
+"cāng",
+"dark blue; deep green; ash-gray"
 ]
 ],
 "strokes": [

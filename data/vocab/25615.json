@@ -1,31 +1,38 @@
 {
 "char": "搏",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "seize; spring upon; strike",
 "pron": "bó"
 },
 "words": [
 [
-"脉搏",
-6,
-"mài bó",
-"pulse (both medical and figurative)"
-],
-[
 "搏斗",
-6,
+7,
 "bó dòu",
 "to wrestle; to fight; to struggle"
 ],
 [
+"脉搏",
+7,
+"mài bó",
+"pulse (both medical and figurative)"
+],
+[
 "拼搏",
-6,
+7,
 "pīn bó",
 "to struggle; to wrestle"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"搏",
+13.2,
+"bó",
+"to fight; to combat; to seize; (of heart) to beat"
+]
+],
 "strokes": [
 "M 317 540 Q 333 546 351 550 Q 381 559 385 563 Q 394 572 388 580 Q 381 592 350 597 Q 334 598 319 596 L 268 578 Q 169 551 131 543 Q 94 534 122 519 Q 164 498 226 516 Q 245 522 267 526 L 317 540 Z",
 "M 264 351 Q 263 263 261 153 Q 260 131 248 122 Q 247 122 189 126 Q 156 139 159 129 Q 160 122 179 106 Q 234 57 246 30 Q 261 -1 275 -3 Q 290 -4 305 31 Q 324 76 323 150 Q 316 271 315 393 L 314 422 Q 314 482 317 540 L 319 596 Q 319 675 338 741 Q 356 771 300 793 Q 266 812 247 805 Q 229 799 245 776 Q 267 748 268 715 Q 269 699 268 578 L 267 526 Q 266 468 264 392 L 264 351 Z",

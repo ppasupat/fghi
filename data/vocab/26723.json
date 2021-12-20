@@ -1,22 +1,28 @@
 {
 "char": "档",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "shelf; frame, crosspiece",
 "pron": "dàng"
 },
 "words": [
 [
-"高档",
-5,
-"gāo dàng",
-"superior quality; high grade; top grade"
-],
-[
 "搭档",
 6,
 "dā dàng",
 "to cooperate; partner"
+],
+[
+"档",
+6,
+"dǎng",
+"(Tw) variant of 挡[dǎng], gear"
+],
+[
+"档",
+6,
+"dàng",
+"official records; grade (of goods); file; records; shelves; slot; gap; crosspiece; classifier for crosspieces; classifier for events, affairs etc; Taiwan pr. [dang3]"
 ],
 [
 "档案",
@@ -25,8 +31,14 @@
 "file; record; archive"
 ],
 [
-"档次",
+"高档",
 6,
+"gāo dàng",
+"superior quality; high grade; top grade"
+],
+[
+"档次",
+7,
 "dàng cì",
 "grade; class; quality; level"
 ]

@@ -1,6 +1,6 @@
 {
 "char": "协",
-"level": 6,
+"level": "5",
 "info": {
 "gloss": "be united; cooperate",
 "pron": "xié"
@@ -8,33 +8,21 @@
 "words": [
 [
 "协议",
-6,
+5,
 "xié yì",
-"agreement; pact; protocol; CL:項|项[xiang4]"
+"agreement; pact; protocol; CL:项[xiàng]"
 ],
 [
-"协助",
-6,
-"xié zhù",
-"to provide assistance; to aid"
+"协议书",
+5,
+"xié yì shū",
+"contract; protocol"
 ],
 [
 "协会",
 6,
 "xié huì",
-"an association; a society; CL:個|个[ge4],家[jia1]"
-],
-[
-"妥协",
-6,
-"tuǒ xié",
-"to compromise; to reach terms; a compromise"
-],
-[
-"协调",
-6,
-"xié tiáo",
-"to coordinate; to harmonize; to fit together; to match (colors etc); harmonious; concerted"
+"an association; a society; CL:个[gè],家[jiā]"
 ],
 [
 "协商",
@@ -43,10 +31,46 @@
 "to consult with; to talk things over; agreement"
 ],
 [
-"齐心协力",
+"协调",
 6,
+"xié tiáo",
+"to coordinate; to harmonize; to fit together; to match (colors etc); harmonious; concerted"
+],
+[
+"协助",
+6,
+"xié zhù",
+"to provide assistance; to aid"
+],
+[
+"齐心协力",
+7,
 "qí xīn xié lì",
 "to work with a common purpose (idiom); to make concerted efforts; to pull together; to work as one"
+],
+[
+"妥协",
+7,
+"tuǒ xié",
+"to compromise; to reach terms; a compromise"
+],
+[
+"协定",
+7,
+"xié dìng",
+"agreement; accord; to reach an agreement"
+],
+[
+"协同",
+7,
+"xié tóng",
+"to cooperate; in coordination with; coordinated; collaborate; collaboration; collaborative"
+],
+[
+"协作",
+7,
+"xié zuò",
+"cooperation; coordination"
 ]
 ],
 "extraWords": [
@@ -54,13 +78,7 @@
 "政协",
 31.27,
 "Zhèng Xié",
-"CPPCC (Chinese People's Political Consultative Conference); abbr. of 中國人民政治協商會議|中国人民政治协商会议[Zhong1 guo2 Ren2 min2 Zheng4 zhi4 Xie2 shang1 Hui4 yi4]"
-],
-[
-"协作",
-17.57,
-"xié zuò",
-"cooperation; coordination"
+"CPPCC (Chinese People's Political Consultative Conference); abbr. of 中国人民政治协商会议[Zhōng guó Rén mín Zhèng zhì Xié shāng Huì yì]"
 ],
 [
 "足协",
@@ -72,19 +90,31 @@
 "足协",
 15.24,
 "zú xié",
-"soccer association; soccer federation; abbr. for 足球協會|足球协会[zu2 qiu2 xie2 hui4]"
+"soccer association; soccer federation; abbr. for 足球协会[zú qiú xié huì]"
 ],
 [
-"协定",
-12.83,
-"xié dìng",
-"agreement; accord; to reach an agreement"
+"协",
+15.21,
+"xié",
+"to cooperate; to harmonize; to help; to assist; to join"
 ],
 [
-"协同",
-10.57,
-"xié tóng",
-"to cooperate; in coordination with; coordinated; collaborate; collaboration; collaborative"
+"中国足协",
+15.0,
+"???",
+"???"
+],
+[
+"全国政协",
+10.14,
+"???",
+"???"
+],
+[
+"消协",
+5.78,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "撞",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "knock against, bump into, collide",
 "pron": "zhuàng"
@@ -11,26 +11,44 @@
 5,
 "zhuàng",
 "to knock against; to bump into; to run into; to meet by accident"
-]
 ],
-"extraWords": [
+[
+"冲撞",
+7,
+"chōng zhuàng",
+"to collide; jerking motion; to impinge; to offend; to provoke"
+],
 [
 "碰撞",
-13.38,
+7,
 "pèng zhuàng",
 "to collide; collision"
 ],
 [
 "撞击",
-9.24,
+7,
 "zhuàng jī",
 "to strike; to hit; to ram"
+]
 ],
+"extraWords": [
 [
 "相撞",
 6.67,
 "xiāng zhuàng",
 "collision; crash; to crash together; to collide with; to bump into"
+],
+[
+"撞上",
+6.62,
+"???",
+"???"
+],
+[
+"撞到",
+5.67,
+"???",
+"???"
 ]
 ],
 "strokes": [

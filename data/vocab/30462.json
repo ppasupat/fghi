@@ -1,6 +1,6 @@
 {
 "char": "盾",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "shield, shield-shaped object; currency sign for Dutch guilder",
 "pron": "dùn"
@@ -10,10 +10,29 @@
 "矛盾",
 5,
 "máo dùn",
-"contradiction; CL:個|个[ge4]; conflicting views; contradictory"
+"contradiction; CL:个[gè]; conflicting views; contradictory"
+],
+[
+"后盾",
+7,
+"hòu dùn",
+"support; backing"
+],
+[
+"自相矛盾",
+7,
+"zì xiāng máo dùn",
+"to contradict oneself; self-contradictory; inconsistent"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"盾",
+8.5,
+"dùn",
+"shield; (currency) Vietnamese dong; currency unit of several countries (Indonesian rupiah, Dutch gulden etc)"
+]
+],
 "strokes": [
 "M 353 675 Q 494 702 597 746 Q 646 762 689 767 Q 707 767 712 775 Q 716 785 704 799 Q 683 817 638 839 Q 622 848 608 848 Q 599 844 598 833 Q 592 788 344 694 C 316 683 324 669 353 675 Z",
 "M 344 694 Q 328 710 298 723 Q 277 735 263 729 Q 250 722 258 706 Q 280 675 276 618 Q 258 417 246 352 Q 236 309 222 269 Q 183 160 99 29 Q 93 22 92 15 Q 89 3 100 6 Q 136 12 221 146 Q 234 171 248 199 Q 317 353 333 550 Q 339 607 353 675 C 355 685 355 685 344 694 Z",

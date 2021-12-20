@@ -1,17 +1,30 @@
 {
 "char": "柄",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "handle, lever, knob; authority",
 "pron": "bǐng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "把柄",
-5.6,
+7,
 "bǎ bǐng",
 "handle; (fig.) information that can be used against sb"
+]
+],
+"extraWords": [
+[
+"柄",
+10.45,
+"bǐng",
+"handle or shaft (of an axe etc); (of a flower, leaf or fruit) stem; sth that affords an advantage to an opponent; classifier for knives or blades"
+],
+[
+"笑柄",
+2.92,
+"xiào bǐng",
+"a matter for ridicule; an object of ridicule; laughingstock"
 ]
 ],
 "strokes": [

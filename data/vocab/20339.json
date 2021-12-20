@@ -1,30 +1,48 @@
 {
 "char": "佳",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "good, auspicious; beautiful; delightful",
 "pron": "jiā"
 },
 "words": [
 [
-"佳肴",
+"最佳",
 6,
-"jiā yáo",
-"fine food; delicacies; delicious food"
+"zuì jiā",
+"optimum; optimal; peak; best (athlete, movie etc)"
+],
+[
+"佳节",
+7,
+"jiā jié",
+"festive day; holiday"
 ]
 ],
 "extraWords": [
 [
-"最佳",
-78.77,
-"zuì jiā",
-"optimum; optimal; peak; best (athlete, movie etc)"
+"佳",
+49.65,
+"Jiā",
+"surname Jia"
+],
+[
+"佳",
+49.65,
+"jiā",
+"beautiful; fine; good"
 ],
 [
 "佳能",
 8.16,
 "Jiā néng",
 "Canon (Japanese company)"
+],
+[
+"十佳",
+6.0,
+"???",
+"???"
 ]
 ],
 "strokes": [

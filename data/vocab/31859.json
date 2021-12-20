@@ -1,6 +1,6 @@
 {
 "char": "米",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "hulled or husked uncooked rice",
 "pron": "mǐ"
@@ -14,42 +14,54 @@
 ],
 [
 "米",
-3,
+2,
 "Mǐ",
 "surname Mi"
 ],
 [
 "米",
-3,
+2,
 "mǐ",
-"rice; CL:粒[li4]; meter (classifier)"
+"rice; CL:粒[lì]; meter (classifier)"
 ],
 [
-"玉米",
-5,
-"yù mǐ",
-"corn; maize; CL:粒[li4]"
+"毫米",
+4,
+"háo mǐ",
+"millimeter"
 ],
 [
 "厘米",
-5,
+4,
 "lí mǐ",
 "centimeter"
 ],
 [
-"毫米",
-6,
-"háo mǐ",
-"millimeter"
-]
+"玉米",
+4,
+"yù mǐ",
+"corn; maize; CL:粒[lì]"
 ],
-"extraWords": [
+[
+"大米",
+6,
+"dà mǐ",
+"(husked) rice"
+],
 [
 "平方米",
-119.24,
+6,
 "píng fāng mǐ",
 "square meter"
 ],
+[
+"立方米",
+7,
+"lì fāng mǐ",
+"cubic meter (unit of volume)"
+]
+],
+"extraWords": [
 [
 "米兰",
 27.86,
@@ -57,10 +69,10 @@
 "Milano; Milan (Italy)"
 ],
 [
-"立方米",
-16.57,
-"lì fāng mǐ",
-"cubic meter (unit of volume)"
+"汤米",
+21.73,
+"???",
+"???"
 ],
 [
 "平米",
@@ -69,10 +81,10 @@
 "square meter; short for 平方米"
 ],
 [
-"大米",
-10.93,
-"dà mǐ",
-"(husked) rice"
+"艾米",
+11.18,
+"???",
+"???"
 ],
 [
 "小米",
@@ -117,10 +129,22 @@
 "puffed rice; popcorn"
 ],
 [
+"米勒",
+6.92,
+"???",
+"???"
+],
+[
 "糯米",
 5.87,
 "nuò mǐ",
 "glutinous rice; Oryza sativa var. glutinosa"
+],
+[
+"艾米莉",
+5.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

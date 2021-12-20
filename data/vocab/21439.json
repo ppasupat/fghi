@@ -1,6 +1,6 @@
 {
 "char": "县",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "county, district, subdivision",
 "pron": "xiàn"
@@ -8,12 +8,18 @@
 "words": [
 [
 "县",
-5,
+4,
 "xiàn",
 "county"
 ]
 ],
 "extraWords": [
+[
+"全县",
+21.87,
+"???",
+"???"
+],
 [
 "县城",
 13.88,
@@ -31,6 +37,12 @@
 11.71,
 "xiàn jí",
 "county level"
+],
+[
+"区县",
+7.16,
+"???",
+"???"
 ],
 [
 "县政府",

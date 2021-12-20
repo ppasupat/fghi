@@ -1,12 +1,31 @@
 {
 "char": "闽",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "fujian province; a river; a tribe",
 "pron": "mǐn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"闽",
+8.41,
+"Mǐn",
+"short name for Fujian province 福建[Fú jiàn]; also pr. [Min2]"
+],
+[
+"闽南",
+3.59,
+"Mǐn nán",
+"Minnan (southern Fujian)"
+],
+[
+"闽台",
+1.45,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 304 745 Q 361 669 390 665 Q 406 664 414 684 Q 415 699 406 723 Q 396 742 369 752 Q 329 773 311 776 Q 301 777 298 765 Q 297 755 304 745 Z",
 "M 176 688 Q 231 541 186 227 Q 156 104 157 94 Q 157 63 179 37 Q 192 22 202 37 Q 239 76 240 242 Q 240 569 257 653 Q 258 672 242 683 Q 217 704 189 712 Q 179 715 172 706 Q 168 699 176 688 Z",

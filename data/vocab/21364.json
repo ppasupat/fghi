@@ -1,6 +1,6 @@
 {
 "char": "却",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "still, but; decline; retreat",
 "pron": "què"
@@ -10,7 +10,7 @@
 "却",
 4,
 "què",
-"old variant of 卻|却[que4]"
+"old variant of 却[què]"
 ],
 [
 "却",
@@ -19,13 +19,44 @@
 "but; yet; however; while; to go back; to decline; to retreat; nevertheless; even though"
 ],
 [
-"冷却",
+"却是",
 6,
-"lěng què",
-"to cool off; cooling"
+"què shì",
+"nevertheless; actually; the fact is ..."
+],
+[
+"了却",
+7,
+"liǎo què",
+"to resolve; to settle"
+],
+[
+"退却",
+7,
+"tuì què",
+"to retreat; to shrink back"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"却又",
+22.73,
+"???",
+"???"
+],
+[
+"冷却",
+8.69,
+"lěng què",
+"to cool off; cooling"
+],
+[
+"却说",
+7.39,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 406 577 Q 520 607 523 609 Q 532 616 527 625 Q 520 635 492 642 Q 465 648 410 627 L 357 611 Q 258 593 232 588 Q 198 581 223 566 Q 257 547 330 560 Q 342 563 358 566 L 406 577 Z",
 "M 398 472 Q 402 527 406 577 L 410 627 Q 413 714 431 786 Q 434 796 414 812 Q 378 831 354 835 Q 338 839 330 830 Q 323 823 331 807 Q 352 777 353 756 Q 357 687 357 611 L 358 566 Q 357 517 355 461 C 354 431 396 442 398 472 Z",

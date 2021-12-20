@@ -1,12 +1,32 @@
 {
 "char": "沽",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "buy and sell; inferior in quality",
 "pron": "gū"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"沽名钓誉",
+7,
+"gū míng diào yù",
+"to angle for fame (idiom); to fish for compliments"
+]
+],
+"extraWords": [
+[
+"沽",
+9.54,
+"Gū",
+"abbr. for Tianjin 天津 (also 津沽)"
+],
+[
+"沽",
+9.54,
+"gū",
+"to buy; to sell"
+]
+],
 "strokes": [
 "M 261 690 Q 292 662 325 626 Q 338 611 355 611 Q 367 611 373 625 Q 379 640 371 672 Q 362 708 259 741 Q 243 745 236 743 Q 230 739 231 726 Q 235 714 261 690 Z",
 "M 151 482 Q 196 425 228 411 Q 244 407 255 421 Q 262 434 259 452 Q 253 477 235 492 Q 184 526 146 527 Q 142 527 138 525 Q 131 524 133 510 Q 134 497 151 482 Z",

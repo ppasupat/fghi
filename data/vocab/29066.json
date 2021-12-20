@@ -1,24 +1,42 @@
 {
 "char": "熊",
-"level": 3,
+"level": "5",
 "info": {
 "gloss": "a bear; brilliant; bright; surname",
 "pron": "xióng"
 },
 "words": [
 [
-"熊猫",
-3,
-"xióng māo",
-"panda; CL:隻|只[zhi1]"
+"大熊猫",
+5,
+"dà xióng māo",
+"giant panda (Ailuropoda melanoleuca)"
+],
+[
+"熊",
+5,
+"Xióng",
+"surname Xiong"
+],
+[
+"熊",
+5,
+"xióng",
+"bear; (coll.) to scold; to rebuke; (coll.) weak; incapable"
 ]
 ],
 "extraWords": [
 [
-"大熊猫",
-9.45,
-"dà xióng māo",
-"giant panda (Ailuropoda melanoleuca)"
+"熊猫",
+14.56,
+"xióng māo",
+"panda; CL:只[zhī]"
+],
+[
+"小熊",
+5.35,
+"???",
+"???"
 ]
 ],
 "strokes": [

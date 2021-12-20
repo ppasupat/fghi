@@ -1,6 +1,6 @@
 {
 "char": "悔",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "repent, show remorse, regret",
 "pron": "huǐ"
@@ -8,13 +8,13 @@
 "words": [
 [
 "后悔",
-4,
+5,
 "hòu huǐ",
 "to regret; to repent"
 ],
 [
 "悔恨",
-6,
+7,
 "huǐ hèn",
 "remorse; repentance"
 ]
@@ -25,6 +25,12 @@
 20.99,
 "chàn huǐ",
 "to confess; to repent; remorse; repentance; penitent; confession (Buddhism)"
+],
+[
+"悔",
+12.57,
+"huǐ",
+"to regret"
 ]
 ],
 "strokes": [

@@ -1,11 +1,18 @@
 {
 "char": "巫",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "wizard, sorcerer, witch, shaman",
 "pron": "wū"
 },
-"words": [],
+"words": [
+[
+"巫婆",
+7,
+"wū pó",
+"witch; sorceress; female shaman"
+]
+],
 "extraWords": [
 [
 "巫师",
@@ -20,10 +27,16 @@
 "witch"
 ],
 [
-"巫婆",
+"巫",
 7.21,
-"wū pó",
-"witch; sorceress; female shaman"
+"Wū",
+"surname Wu; also pr. [Wu2]"
+],
+[
+"巫",
+7.21,
+"wū",
+"witch; wizard; shaman; also pr. [wu2]"
 ],
 [
 "巫术",

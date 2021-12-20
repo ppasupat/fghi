@@ -1,12 +1,31 @@
 {
 "char": "坯",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "dam, embankment; weir",
 "pron": "pī"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"坯",
+2.96,
+"pī",
+"blank (e.g. for a coin); unburnt earthenware; semifinished product; Taiwan pr. [pei1]"
+],
+[
+"毛坯",
+1.85,
+"máo pī",
+"semifinished products"
+],
+[
+"钢坯",
+0.58,
+"gāng pī",
+"billet (steel industry)"
+]
+],
 "strokes": [
 "M 292 497 Q 379 528 381 529 Q 388 536 384 545 Q 377 555 347 560 Q 320 563 294 551 L 245 531 Q 125 500 118 497 Q 84 488 110 474 Q 153 455 205 472 Q 224 478 245 484 L 292 497 Z",
 "M 283 292 Q 287 398 292 497 L 294 551 Q 295 608 316 729 Q 320 739 299 755 Q 262 774 237 779 Q 221 783 212 773 Q 205 766 213 750 Q 241 708 241 680 Q 244 608 245 531 L 245 484 Q 244 384 239 273 C 238 243 282 262 283 292 Z",

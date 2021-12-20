@@ -1,12 +1,31 @@
 {
 "char": "迂",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "doctrinaire, abstruse, unrealistic",
 "pron": "yū"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"迂回",
+2.16,
+"yū huí",
+"roundabout route; circuitous; tortuous; to outflank; indirect; roundabout"
+],
+[
+"迂腐",
+0.76,
+"yū fǔ",
+"pedantic; trite; inflexible; adherence to old ideas"
+],
+[
+"迂",
+0.43,
+"yū",
+"literal-minded; pedantic; doctrinaire; longwinded; circuitous"
+]
+],
 "strokes": [
 "M 666 657 Q 813 687 818 691 Q 828 698 823 708 Q 816 720 786 728 Q 759 734 657 703 Q 585 688 514 682 Q 477 676 503 658 Q 548 634 605 646 Q 611 647 618 648 L 666 657 Z",
 "M 685 459 Q 760 468 900 467 Q 919 467 923 475 Q 927 485 913 499 Q 865 535 805 521 Q 756 512 685 498 L 633 489 Q 537 476 427 461 Q 408 458 422 443 Q 435 430 452 425 Q 471 421 487 425 Q 556 444 634 452 L 685 459 Z",

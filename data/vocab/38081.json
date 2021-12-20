@@ -1,6 +1,6 @@
 {
 "char": "铁",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "iron; strong, solid, firm",
 "pron": "tiě"
@@ -8,35 +8,53 @@
 "words": [
 [
 "地铁",
-3,
+2,
 "dì tiě",
 "subway; metro"
 ],
 [
-"钢铁",
-5,
-"gāng tiě",
-"steel"
+"地铁站",
+2,
+"dì tiě zhàn",
+"subway station"
 ],
 [
-"斩钉截铁",
-6,
-"zhǎn dīng jié tiě",
-"lit. to chop the nail and slice the iron (idiom); fig. resolute and decisive; unhesitating; categorical"
+"铁",
+3,
+"Tiě",
+"surname Tie"
+],
+[
+"铁",
+3,
+"tiě",
+"iron (metal); arms; weapons; hard; strong; violent; unshakeable; determined; close; tight (slang)"
+],
+[
+"铁路",
+3,
+"tiě lù",
+"railroad; railway; CL:条[tiáo]"
+],
+[
+"高铁",
+4,
+"gāo tiě",
+"high speed rail"
 ]
 ],
 "extraWords": [
 [
-"铁路",
-66.91,
-"tiě lù",
-"railroad; railway; CL:條|条[tiao2]"
+"钢铁",
+32.18,
+"gāng tiě",
+"steel"
 ],
 [
 "铁道部",
 8.85,
 "Tiě dào bù",
-"Ministry of Railways (MOR), disbanded in 2013 with its regulatory functions taken over by the Ministry of Transport 交通運輸部|交通运输部[Jiao1 tong1 Yun4 shu1 bu4]"
+"Ministry of Railways (MOR), disbanded in 2013 with its regulatory functions taken over by the Ministry of Transport 交通运输部[Jiāo tōng Yùn shū bù]"
 ],
 [
 "铁矿石",

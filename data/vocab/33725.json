@@ -1,17 +1,30 @@
 {
 "char": "莽",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "thicket, underbrush; poisonous",
 "pron": "mǎng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "鲁莽",
-5.43,
+7,
 "lǔ mǎng",
 "hot-headed; impulsive; reckless"
+]
+],
+"extraWords": [
+[
+"莽",
+1.77,
+"mǎng",
+"thick weeds; luxuriant growth; Illicium anisatum, a shrub with poisonous leaves; impertinent"
+],
+[
+"莽撞",
+1.73,
+"mǎng zhuàng",
+"rude and impetuous"
 ]
 ],
 "strokes": [

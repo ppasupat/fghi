@@ -1,6 +1,6 @@
 {
 "char": "例",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "precedent, example; regulation",
 "pron": "lì"
@@ -8,47 +8,77 @@
 "words": [
 [
 "例如",
-4,
+2,
 "lì rú",
 "for example; for instance; such as"
 ],
 [
+"例子",
+2,
+"lì zi",
+"case; (for) instance; example; CL:个[gè]"
+],
+[
 "比例",
-5,
+3,
 "bǐ lì",
 "proportion; scale"
 ],
 [
 "例外",
-6,
+5,
 "lì wài",
 "exception; to be an exception"
 ],
 [
-"案例",
-6,
-"àn lì",
-"case (law); CL:個|个[ge4]"
-],
-[
 "惯例",
-6,
+7,
 "guàn lì",
 "convention; usual practice"
 ],
 [
-"破例",
-6,
-"pò lì",
-"to make an exception"
+"举例",
+7,
+"jǔ lì",
+"to give an example"
+],
+[
+"史无前例",
+7,
+"shǐ wú qián lì",
+"unprecedented in history"
+],
+[
+"特例",
+7,
+"tè lì",
+"special case; isolated example"
+],
+[
+"条例",
+7,
+"tiáo lì",
+"regulations; rules; code of conduct; ordinances; statutes"
+],
+[
+"先例",
+7,
+"xiān lì",
+"antecedent; precedent"
+],
+[
+"照例",
+7,
+"zhào lì",
+"as a rule; as usual; usually"
 ]
 ],
 "extraWords": [
 [
-"条例",
-44.08,
-"tiáo lì",
-"regulations; rules; code of conduct; ordinances; statutes"
+"例",
+324.05,
+"lì",
+"example; precedent; rule; case; instance"
 ],
 [
 "病例",
@@ -57,22 +87,16 @@
 "(medical) case; occurrence of illness"
 ],
 [
-"例子",
-19.9,
-"lì zi",
-"case; (for) instance; example; CL:個|个[ge4]"
+"案例",
+20.46,
+"àn lì",
+"case (law); CL:个[gè]"
 ],
 [
 "例行",
 5.46,
 "lì xíng",
 "routine (task, procedure etc); as usual"
-],
-[
-"举例",
-5.41,
-"jǔ lì",
-"to give an example"
 ],
 [
 "事例",

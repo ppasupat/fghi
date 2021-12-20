@@ -1,20 +1,32 @@
 {
 "char": "闪",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "flash; avoid, dodge, evade",
 "pron": "shǎn"
 },
 "words": [
 [
+"闪",
+4,
+"Shǎn",
+"surname Shan"
+],
+[
+"闪",
+4,
+"shǎn",
+"to dodge; to duck out of the way; to beat it; shaken (by a fall); to sprain; to pull a muscle; lightning; spark; a flash; to flash (across one's mind); to leave behind; (Internet slang) (of a display of affection) \"dazzlingly\" saccharine"
+],
+[
 "闪电",
-5,
+4,
 "shǎn diàn",
-"lightning; CL:道[dao4]"
+"lightning; CL:道[dào]"
 ],
 [
 "闪烁",
-6,
+7,
 "shǎn shuò",
 "flickering; twinkling; evasive; vague (of speech)"
 ]

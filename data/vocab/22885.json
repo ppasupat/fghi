@@ -1,6 +1,6 @@
 {
 "char": "奥",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "mysterious, obscure, profound",
 "pron": "ào"
@@ -8,18 +8,36 @@
 "words": [
 [
 "奥秘",
-6,
+7,
 "ào mì",
 "secret; mystery"
 ],
 [
+"奥运会",
+7,
+"Ào yùn huì",
+"abbr. for 奧林匹克運動會|奥林匹克运动会; Olympic Games; the Olympics"
+],
+[
 "深奥",
-6,
+7,
 "shēn ào",
 "profound; abstruse; recondite; profoundly"
 ]
 ],
 "extraWords": [
+[
+"奥",
+83.39,
+"Ào",
+"Austria; Austrian; abbr. for 奥地利[Ào dì lì]; Olympic; Olympics; abbr. for 奥林匹克[Ào lín pǐ kè]"
+],
+[
+"奥",
+83.39,
+"ào",
+"obscure; mysterious"
+],
 [
 "奥运",
 46.65,
@@ -27,22 +45,28 @@
 "abbr. for 奧林匹克運動會|奥林匹克运动会; Olympic Games; the Olympics"
 ],
 [
-"奥运会",
-40.08,
-"Ào yùn huì",
-"abbr. for 奧林匹克運動會|奥林匹克运动会; Olympic Games; the Olympics"
+"北京奥运会",
+13.43,
+"???",
+"???"
 ],
 [
 "奥斯卡",
 12.67,
 "Ào sī kǎ",
-"(film industry) Oscar (Academy Award); CL:屆|届[jie4]; (name) Oscar"
+"(film industry) Oscar (Academy Award); CL:届[jiè]; (name) Oscar"
 ],
 [
 "奥迪",
 12.07,
 "Ào dí",
 "Audi"
+],
+[
+"国奥队",
+11.58,
+"???",
+"???"
 ],
 [
 "奥地利",
@@ -55,6 +79,12 @@
 7.67,
 "Ào lín pǐ kè",
 "Olympic"
+],
+[
+"雅典奥运会",
+6.28,
+"???",
+"???"
 ],
 [
 "新奥尔良",
@@ -73,6 +103,12 @@
 5.57,
 "Ào sī tīng",
 "Austin or Austen (name); Austin, Texas"
+],
+[
+"奥德莉",
+5.46,
+"???",
+"???"
 ]
 ],
 "strokes": [

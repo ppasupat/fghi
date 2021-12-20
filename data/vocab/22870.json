@@ -1,11 +1,29 @@
 {
 "char": "奖",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "prize, reward; give award to",
 "pron": "jiǎng"
 },
 "words": [
+[
+"抽奖",
+4,
+"chōu jiǎng",
+"to draw a prize; a lottery; a raffle"
+],
+[
+"获奖",
+4,
+"huò jiǎng",
+"to win an award"
+],
+[
+"奖",
+4,
+"jiǎng",
+"prize; award; encouragement; CL:个[gè]"
+],
 [
 "奖金",
 4,
@@ -13,60 +31,84 @@
 "premium; award money; bonus"
 ],
 [
+"奖学金",
+4,
+"jiǎng xué jīn",
+"scholarship; CL:笔[bǐ]"
+],
+[
+"中奖",
+4,
+"zhòng jiǎng",
+"to win a prize; a successful gamble"
+],
+[
+"大奖赛",
+5,
+"dà jiǎng sài",
+"grand prix"
+],
+[
 "奖励",
-6,
+5,
 "jiǎng lì",
 "to reward; reward (as encouragement)"
 ],
 [
-"奖赏",
-6,
-"jiǎng shǎng",
-"reward; prize; award"
+"颁奖",
+7,
+"bān jiǎng",
+"to confer an award"
 ],
 [
 "过奖",
-6,
+7,
 "guò jiǎng",
 "to overpraise; to flatter"
+],
+[
+"奖杯",
+7,
+"jiǎng bēi",
+"trophy cup"
+],
+[
+"奖牌",
+7,
+"jiǎng pái",
+"medal (awarded as a prize)"
+],
+[
+"奖品",
+7,
+"jiǎng pǐn",
+"award; prize"
+],
+[
+"奖项",
+7,
+"jiǎng xiàng",
+"award; prize; CL:项[xiàng]"
+],
+[
+"夸奖",
+7,
+"kuā jiǎng",
+"to praise; to applaud; to compliment"
 ]
 ],
 "extraWords": [
+[
+"有奖",
+53.1,
+"???",
+"???"
+],
 [
 "大奖",
 39.8,
 "dà jiǎng",
 "prize; award"
-],
-[
-"奖品",
-30.24,
-"jiǎng pǐn",
-"award; prize"
-],
-[
-"颁奖",
-26.2,
-"bān jiǎng",
-"to confer an award"
-],
-[
-"中奖",
-23.56,
-"zhòng jiǎng",
-"to win a prize; a successful gamble"
-],
-[
-"获奖",
-20.36,
-"huò jiǎng",
-"to win an award"
-],
-[
-"抽奖",
-19.46,
-"chōu jiǎng",
-"to draw a prize; a lottery; a raffle"
 ],
 [
 "一等奖",
@@ -75,28 +117,10 @@
 "first prize"
 ],
 [
-"大奖赛",
-12.51,
-"dà jiǎng sài",
-"grand prix"
-],
-[
-"奖学金",
-11.98,
-"jiǎng xué jīn",
-"scholarship; CL:筆|笔[bi3]"
-],
-[
-"奖杯",
-7.51,
-"jiǎng bēi",
-"trophy cup"
-],
-[
-"夸奖",
-7.27,
-"kuā jiǎng",
-"to praise; to applaud; to compliment"
+"二等奖",
+8.22,
+"???",
+"???"
 ],
 [
 "开奖",
@@ -105,10 +129,16 @@
 "to announce the winners in a lottery"
 ],
 [
-"奖牌",
-5.91,
-"jiǎng pái",
-"medal (awarded as a prize)"
+"奖赏",
+6.2,
+"jiǎng shǎng",
+"reward; prize; award"
+],
+[
+"三等奖",
+6.17,
+"???",
+"???"
 ],
 [
 "年终奖",

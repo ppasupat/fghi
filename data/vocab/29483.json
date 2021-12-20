@@ -1,6 +1,6 @@
 {
 "char": "猫",
-"level": 1,
+"level": "2",
 "info": {
 "gloss": "cat",
 "pron": "māo"
@@ -8,23 +8,23 @@
 "words": [
 [
 "猫",
-1,
+2,
 "māo",
-"cat; CL:隻|只[zhi1]; (dialect) to hide oneself; (coll.) modem"
+"cat; CL:只[zhī]; (dialect) to hide oneself; (coll.) modem"
 ],
 [
-"熊猫",
-3,
-"xióng māo",
-"panda; CL:隻|只[zhi1]"
+"大熊猫",
+5,
+"dà xióng māo",
+"giant panda (Ailuropoda melanoleuca)"
 ]
 ],
 "extraWords": [
 [
-"大熊猫",
-9.45,
-"dà xióng māo",
-"giant panda (Ailuropoda melanoleuca)"
+"熊猫",
+14.56,
+"xióng māo",
+"panda; CL:只[zhī]"
 ],
 [
 "小猫",

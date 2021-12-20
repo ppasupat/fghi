@@ -1,42 +1,54 @@
 {
 "char": "载",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "load; carry; transport, convey",
 "pron": "zǎi, zài"
 },
 "words": [
 [
+"记载",
+4,
+"jì zǎi",
+"to write down; to record; written account"
+],
+[
 "下载",
-5,
+4,
 "xià zǎi",
 "to download; also pr. [xia4 zai4]"
 ],
 [
-"记载",
-6,
-"jì zǎi",
-"to write down; to record; written account"
-]
-],
-"extraWords": [
-[
-"转载",
-30.65,
-"zhuǎn zǎi",
-"to forward (a shipment); to reprint sth published elsewhere; Taiwan pr. [zhuan3 zai4]"
+"承载",
+7,
+"chéng zài",
+"to bear the weight; to sustain"
 ],
 [
 "载体",
-13.79,
+7,
 "zài tǐ",
 "carrier (chemistry); vector (epidemiology); vehicle or medium"
 ],
 [
-"承载",
-8.14,
-"chéng zài",
-"to bear the weight; to sustain"
+"转载",
+7,
+"zhuǎn zǎi",
+"to forward (a shipment); to reprint sth published elsewhere; Taiwan pr. [zhuan3 zai4]"
+]
+],
+"extraWords": [
+[
+"载",
+104.47,
+"zǎi",
+"to record in writing; to carry (i.e. publish in a newspaper etc); Taiwan pr. [zai4]; year"
+],
+[
+"载",
+104.47,
+"zài",
+"to carry; to convey; to load; to hold; to fill up; and; also; as well as; simultaneously"
 ],
 [
 "搭载",

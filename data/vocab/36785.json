@@ -1,14 +1,20 @@
 {
 "char": "辱",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "humiliate, insult, abuse",
 "pron": "rǔ"
 },
 "words": [
 [
+"耻辱",
+7,
+"chǐ rǔ",
+"disgrace; shame; humiliation"
+],
+[
 "侮辱",
-6,
+7,
 "wǔ rǔ",
 "to insult; to humiliate; dishonor"
 ]
@@ -19,12 +25,6 @@
 14.61,
 "xiū rǔ",
 "to humiliate; to shame; humiliation; indignity"
-],
-[
-"耻辱",
-8.85,
-"chǐ rǔ",
-"disgrace; shame; humiliation"
 ],
 [
 "荣辱",

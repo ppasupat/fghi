@@ -1,14 +1,26 @@
 {
 "char": "筋",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "muscles; tendons",
 "pron": "jīn"
 },
 "words": [
 [
+"筋",
+7,
+"jīn",
+"muscle; tendon; veins visible under the skin; sth resembling tendons or veins (e.g. fiber in a vegetable)"
+],
+[
+"脑筋",
+7,
+"nǎo jīn",
+"brains; mind; head; way of thinking"
+],
+[
 "伤脑筋",
-6,
+7,
 "shāng nǎo jīn",
 "to be a real headache; to find sth a real headache; to beat one's brains"
 ]

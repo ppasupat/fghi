@@ -1,36 +1,48 @@
 {
 "char": "寿",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "old age, long life; lifespan",
 "pron": "shòu"
 },
 "words": [
 [
-"寿命",
+"长寿",
 5,
+"Cháng shòu",
+"Changshou suburban district of Chongqing municipality, formerly in Sichuan"
+],
+[
+"长寿",
+5,
+"cháng shòu",
+"longevity; ability to live long; long lived"
+],
+[
+"寿司",
+5,
+"shòu sī",
+"sushi"
+],
+[
+"寿命",
+7,
 "shòu mìng",
 "life span; life expectancy; lifetime (of a machine)"
 ]
 ],
 "extraWords": [
 [
-"长寿",
-7.83,
-"Cháng shòu",
-"Changshou suburban district of Chongqing municipality, formerly in Sichuan"
+"寿",
+18.62,
+"Shòu",
+"surname Shou"
 ],
 [
-"长寿",
-7.83,
-"cháng shòu",
-"longevity; ability to live long; long lived"
-],
-[
-"寿司",
-6.03,
-"shòu sī",
-"sushi"
+"寿",
+18.62,
+"shòu",
+"long life; old age; age; life; birthday; funerary"
 ],
 [
 "寿险",

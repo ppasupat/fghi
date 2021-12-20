@@ -1,6 +1,6 @@
 {
 "char": "十",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "ten, tenth; complete; perfect",
 "pron": "shí"
@@ -14,15 +14,21 @@
 ],
 [
 "十分",
-4,
+2,
 "shí fēn",
 "very; completely; utterly; extremely; absolutely; hundred percent; to divide into ten equal parts"
 ],
 [
 "十足",
-6,
+5,
 "shí zú",
 "ample; complete; hundred percent; a pure shade (of some color)"
+],
+[
+"十字路口",
+7,
+"shí zì lù kǒu",
+"crossroads; intersection"
 ]
 ],
 "extraWords": [
@@ -31,6 +37,24 @@
 45.25,
 "shí jǐ",
 "more than ten; a dozen or more"
+],
+[
+"几十",
+44.82,
+"???",
+"???"
+],
+[
+"十大",
+28.67,
+"???",
+"???"
+],
+[
+"数十",
+20.21,
+"???",
+"???"
 ],
 [
 "二十",
@@ -97,6 +121,60 @@
 7.01,
 "sì shí",
 "forty; 40"
+],
+[
+"第十",
+6.65,
+"???",
+"???"
+],
+[
+"第十名",
+6.48,
+"???",
+"???"
+],
+[
+"十佳",
+6.0,
+"???",
+"???"
+],
+[
+"十点",
+5.93,
+"???",
+"???"
+],
+[
+"第十届",
+5.86,
+"???",
+"???"
+],
+[
+"第十一名",
+5.85,
+"???",
+"???"
+],
+[
+"第十二名",
+5.75,
+"???",
+"???"
+],
+[
+"几十万",
+5.61,
+"???",
+"???"
+],
+[
+"近十",
+5.17,
+"???",
+"???"
 ]
 ],
 "strokes": [

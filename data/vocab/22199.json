@@ -1,6 +1,6 @@
 {
 "char": "嚷",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "shout, brawl, make uproar, cry",
 "pron": "rāng, rǎng"
@@ -8,7 +8,7 @@
 "words": [
 [
 "嚷",
-6,
+7,
 "rǎng",
 "to shout; to bellow; to make a big deal of sth; to make a fuss about sth"
 ]
@@ -19,6 +19,12 @@
 7.12,
 "rāng rang",
 "to argue noisily; to shout; to make widely known; to reproach"
+],
+[
+"叫嚷",
+2.05,
+"jiào rǎng",
+"to shout; to bellow one's grievances"
 ]
 ],
 "strokes": [

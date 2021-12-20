@@ -1,6 +1,6 @@
 {
 "char": "识",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "recognize, understand, know",
 "pron": "shí, zhì"
@@ -14,33 +14,93 @@
 ],
 [
 "知识",
-4,
+1,
 "zhī shi",
-"knowledge; CL:門|门[men2]; intellectual"
+"knowledge; CL:门[mén]; intellectual"
 ],
 [
 "常识",
-5,
+4,
 "cháng shí",
-"common sense; general knowledge; CL:門|门[men2]"
+"common sense; general knowledge; CL:门[mén]"
 ],
 [
 "意识",
-6,
+5,
 "yì shí",
 "consciousness; awareness; to be aware; to realize"
 ],
 [
-"识别",
+"识",
 6,
+"shí",
+"to know; knowledge; Taiwan pr. [shi4]"
+],
+[
+"识",
+6,
+"zhì",
+"to record; to write a footnote"
+],
+[
+"识字",
+6,
+"shí zì",
+"to learn to read"
+],
+[
+"共识",
+7,
+"gòng shí",
+"common understanding; consensus"
+],
+[
+"见识",
+7,
+"jiàn shi",
+"to gain first-hand knowledge of sth; to experience for oneself; knowledge; experience; insight"
+],
+[
+"结识",
+7,
+"jié shí",
+"to get to know sb; to meet sb for the first time"
+],
+[
+"识别",
+7,
 "shí bié",
 "to distinguish; to discern; to identify; to recognize"
 ],
 [
-"见多识广",
-6,
-"jiàn duō shí guǎng",
-"experienced and knowledgeable (idiom)"
+"似曾相识",
+7,
+"sì céng xiāng shí",
+"déjà vu (the experience of seeing exactly the same situation a second time); seemingly familiar; apparently already acquainted"
+],
+[
+"素不相识",
+7,
+"sù bù xiāng shí",
+"to be total strangers (idiom)"
+],
+[
+"下意识",
+7,
+"xià yì shí",
+"subconscious mind"
+],
+[
+"相识",
+7,
+"xiāng shí",
+"to get to know each other; acquaintance"
+],
+[
+"知识分子",
+7,
+"zhī shi fèn zǐ",
+"intellectual; intelligentsia; learned person"
 ]
 ],
 "extraWords": [
@@ -51,34 +111,16 @@
 "intellectual property rights (law)"
 ],
 [
-"共识",
-19.46,
-"gòng shí",
-"common understanding; consensus"
-],
-[
-"见识",
-17.71,
-"jiàn shi",
-"to gain first-hand knowledge of sth; to experience for oneself; knowledge; experience; insight"
-],
-[
-"知识分子",
-14.84,
-"zhī shi fèn zǐ",
-"intellectual; intelligentsia; learned person"
+"意识到",
+22.07,
+"???",
+"???"
 ],
 [
 "标识",
 14.83,
 "biāo zhì",
-"variant of 標誌|标志[biao1 zhi4]"
-],
-[
-"相识",
-10.07,
-"xiāng shí",
-"to get to know each other; acquaintance"
+"variant of 标志[biāo zhì]"
 ],
 [
 "意识形态",

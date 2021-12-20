@@ -1,22 +1,28 @@
 {
 "char": "瘾",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "rash; addiction, craving, habit",
 "pron": "yǐn"
 },
 "words": [
 [
+"过瘾",
+7,
+"guò yǐn",
+"to satisfy a craving; to get a kick out of sth; gratifying; immensely enjoyable; satisfying; fulfilling"
+],
+[
 "上瘾",
-6,
+7,
 "shàng yǐn",
 "to get into a habit; to become addicted"
 ],
 [
-"过瘾",
-6,
-"guò yǐn",
-"to satisfy a craving; to get a kick out of sth; gratifying; immensely enjoyable; satisfying; fulfilling"
+"瘾",
+7,
+"yǐn",
+"addiction; craving"
 ]
 ],
 "extraWords": [

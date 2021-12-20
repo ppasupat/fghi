@@ -1,24 +1,30 @@
 {
 "char": "桶",
-"level": 4,
+"level": "7",
 "info": {
 "gloss": "pail, bucket, tub; cask, keg",
 "pron": "tǒng"
 },
 "words": [
 [
-"垃圾桶",
-4,
-"lā jī tǒng",
-"rubbish bin; trash can; garbage can; Taiwan pr. [le4 se4 tong3]"
+"马桶",
+7,
+"mǎ tǒng",
+"chamber pot; wooden pan used as toilet; toilet bowl"
+],
+[
+"桶",
+7,
+"tǒng",
+"bucket; (trash) can; barrel (of oil etc); CL:个[gè],只[zhī]"
 ]
 ],
 "extraWords": [
 [
-"马桶",
-11.77,
-"mǎ tǒng",
-"chamber pot; wooden pan used as toilet; toilet bowl"
+"垃圾桶",
+7.45,
+"lā jī tǒng",
+"rubbish bin; trash can; garbage can; Taiwan pr. [le4 se4 tong3]"
 ]
 ],
 "strokes": [

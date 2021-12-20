@@ -1,6 +1,6 @@
 {
 "char": "低",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "low; to lower, hang, bend, bow",
 "pron": "dī"
@@ -8,7 +8,7 @@
 "words": [
 [
 "低",
-4,
+2,
 "dī",
 "low; beneath; to lower (one's head); to let droop; to hang down; to incline"
 ],
@@ -19,54 +19,84 @@
 "to reduce; to lower; to bring down"
 ],
 [
-"贬低",
-6,
-"biǎn dī",
-"to belittle; to disparage; to play down; to demean; to degrade; to devalue"
-]
-],
-"extraWords": [
-[
 "低于",
-60.34,
+5,
 "dī yú",
 "to be lower than"
 ],
 [
+"低头",
+6,
+"dī tóu",
+"to bow the head; to yield; to give in"
+],
+[
+"低温",
+6,
+"dī wēn",
+"low temperature"
+],
+[
 "低调",
-23.78,
+7,
 "dī diào",
 "low pitch; quiet (voice); subdued; low-key; low-profile"
 ],
 [
+"低估",
+7,
+"dī gū",
+"to underestimate; to underrate"
+],
+[
+"低谷",
+7,
+"dī gǔ",
+"valley; trough (as opposed to peaks); fig. low point; lowest ebb; nadir of one's fortunes"
+],
+[
 "低价",
-20.25,
+7,
 "dī jià",
 "low price"
 ],
 [
+"低迷",
+7,
+"dī mí",
+"blurred (landscape etc); low (spirits); in a slump (economy)"
+],
+[
+"低碳",
+7,
+"dī tàn",
+"(attributive) low-carbon; low-carb (diet)"
+],
+[
 "低下",
-14.6,
+7,
 "dī xià",
 "low status; lowly; to lower (one's head)"
 ],
 [
 "高低",
-14.25,
+7,
 "gāo dī",
 "height; altitude (aviation); pitch (music); ups and downs (success or failure); whether sth is right or wrong; comparative strength, weight, depth, stature; (spoken interjection) anyway, whatever; eventually, in the end"
 ],
 [
-"低头",
-13.92,
-"dī tóu",
-"to bow the head; to yield; to give in"
+"忽高忽低",
+7,
+"hū gāo hū dī",
+"alternately soaring and plunging"
+]
 ],
+"extraWords": [
 [
-"低迷",
-10.95,
-"dī mí",
-"blurred (landscape etc); low (spirits); in a slump (economy)"
+"最低",
+66.11,
+"???",
+"???"
 ],
 [
 "低声",
@@ -75,22 +105,22 @@
 "in a low voice; softly"
 ],
 [
-"低温",
-10.07,
-"dī wēn",
-"low temperature"
-],
-[
-"低估",
-9.09,
-"dī gū",
-"to underestimate; to underrate"
-],
-[
 "低收入",
 9.07,
 "dī shōu rù",
 "low income"
+],
+[
+"低点",
+7.93,
+"???",
+"???"
+],
+[
+"最低价",
+7.55,
+"???",
+"???"
 ],
 [
 "低落",
@@ -103,12 +133,6 @@
 5.82,
 "dī chéng běn",
 "low cost; inexpensive"
-],
-[
-"低谷",
-5.52,
-"dī gǔ",
-"valley; trough (as opposed to peaks); fig. low point; lowest ebb; nadir of one's fortunes"
 ],
 [
 "低级",

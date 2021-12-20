@@ -1,17 +1,30 @@
 {
 "char": "蛙",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "frog",
 "pron": "wā"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "青蛙",
-10.11,
+7,
 "qīng wā",
-"frog; CL:隻|只[zhi1]; (slang) ugly guy"
+"frog; CL:只[zhī]; (slang) ugly guy"
+]
+],
+"extraWords": [
+[
+"蛙",
+3.9,
+"wā",
+"frog; CL:只[zhī]"
+],
+[
+"蛙",
+3.9,
+"wā",
+"old variant of 蛙[wā]"
 ]
 ],
 "strokes": [

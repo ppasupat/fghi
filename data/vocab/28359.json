@@ -1,12 +1,31 @@
 {
 "char": "滇",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "Yunnan province",
 "pron": "diān"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"滇",
+3.46,
+"Diān",
+"abbr. for Yunnan Province 云南[Yún nán] in southwest China"
+],
+[
+"滇池",
+1.3,
+"Diān chí",
+"lake Dianchi in Yunnan"
+],
+[
+"滇西",
+0.42,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 228 673 Q 256 648 287 616 Q 302 601 319 602 Q 331 602 337 617 Q 341 633 333 666 Q 324 699 224 726 Q 208 730 200 727 Q 194 723 196 709 Q 200 696 228 673 Z",
 "M 126 532 Q 178 471 214 455 Q 229 451 239 465 Q 246 478 243 495 Q 233 535 140 570 Q 124 576 113 572 Q 107 571 109 558 Q 110 546 126 532 Z",

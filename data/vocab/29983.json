@@ -1,22 +1,58 @@
 {
 "char": "生",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "life, living, lifetime; birth",
 "pron": "shēng"
 },
 "words": [
 [
+"大学生",
+1,
+"dà xué shēng",
+"university student; college student"
+],
+[
+"男生",
+1,
+"nán shēng",
+"schoolboy; male student; boy; guy (young adult male)"
+],
+[
+"女生",
+1,
+"nǚ shēng",
+"schoolgirl; female student; girl"
+],
+[
+"生病",
+1,
+"shēng bìng",
+"to fall ill"
+],
+[
+"生气",
+1,
+"shēng qì",
+"to get angry; to take offense; angry; vitality; liveliness"
+],
+[
+"生日",
+1,
+"shēng rì",
+"birthday; CL:个[gè]"
+],
+[
 "先生",
 1,
 "xiān sheng",
-"teacher; husband; doctor (dialect); CL:位[wei4]; Mister (Mr.)"
+"teacher; husband; doctor (dialect); CL:位[wèi]; Mister (Mr.)"
 ],
 [
-"医生",
+"小学生",
 1,
-"yī shēng",
-"doctor; CL:個|个[ge4],位[wei4],名[ming2]"
+"xiǎo xué shēng",
+"primary school student; schoolchild; CL:个[gè],名[míng]; (fig.) beginner"
 ],
 [
 "学生",
@@ -25,124 +61,154 @@
 "student; schoolchild"
 ],
 [
-"生日",
+"医生",
+1,
+"yī shēng",
+"doctor; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"中学生",
+1,
+"zhōng xué shēng",
+"middle-school student; high school student"
+],
+[
+"出生",
 2,
-"shēng rì",
-"birthday; CL:個|个[ge4]"
+"chū shēng",
+"to be born"
 ],
 [
-"生病",
+"考生",
 2,
-"shēng bìng",
-"to fall ill"
+"kǎo shēng",
+"exam candidate; student whose name has been put forward for an exam"
 ],
 [
-"生气",
-3,
-"shēng qì",
-"to get angry; to take offense; angry; vitality; liveliness"
+"留学生",
+2,
+"liú xué shēng",
+"student studying abroad; (foreign) exchange student; CL:个[gè],位[wèi]"
 ],
 [
-"发生",
-4,
-"fā shēng",
-"to happen; to occur; to take place; to break out"
+"生",
+2,
+"shēng",
+"to be born; to give birth; life; to grow; raw; uncooked; student"
+],
+[
+"生词",
+2,
+"shēng cí",
+"new word (in textbook); word that is unfamiliar or not yet studied; CL:组[zǔ],个[gè]"
 ],
 [
 "生活",
-4,
+2,
 "shēng huó",
 "life; activity; to live; livelihood"
 ],
 [
+"一生",
+2,
+"yī shēng",
+"all one's life; throughout one's life"
+],
+[
+"产生",
+3,
+"chǎn shēng",
+"to arise; to come into being; to come about; to give rise to; to bring into being; to bring about; to produce; to engender; to generate; to appear; appearance; emergence; generation; production; yield"
+],
+[
+"发生",
+3,
+"fā shēng",
+"to happen; to occur; to take place; to break out"
+],
+[
+"人生",
+3,
+"rén shēng",
+"life (one's time on earth)"
+],
+[
+"生产",
+3,
+"shēng chǎn",
+"to produce; to manufacture; to give birth to a child"
+],
+[
+"生存",
+3,
+"shēng cún",
+"to exist; to survive"
+],
+[
+"生动",
+3,
+"shēng dòng",
+"vivid; lively"
+],
+[
 "生命",
-4,
+3,
 "shēng mìng",
-"life (as the characteristic of living beings); living being; creature; CL:個|个[ge4],條|条[tiao2]"
+"life (as the characteristic of living beings); living being; creature; CL:个[gè],条[tiáo]"
 ],
 [
 "生意",
-4,
+3,
 "shēng yì",
 "life force; vitality"
 ],
 [
 "生意",
-4,
+3,
 "shēng yi",
-"business; CL:筆|笔[bi3]"
-],
-[
-"出生",
-4,
-"chū shēng",
-"to be born"
-],
-[
-"卫生间",
-4,
-"wèi shēng jiān",
-"bathroom; toilet; WC; CL:間|间[jian1]"
-],
-[
-"人生",
-5,
-"rén shēng",
-"life (one's time on earth)"
-],
-[
-"产生",
-5,
-"chǎn shēng",
-"to arise; to come into being; to come about; to give rise to; to bring into being; to bring about; to produce; to engender; to generate; to appear; appearance; emergence; generation; production; yield"
-],
-[
-"生产",
-5,
-"shēng chǎn",
-"to produce; to manufacture; to give birth to a child"
-],
-[
-"陌生",
-5,
-"mò shēng",
-"strange; unfamiliar"
-],
-[
-"花生",
-5,
-"huā shēng",
-"peanut; groundnut; CL:粒[li4]"
+"business; CL:笔[bǐ]"
 ],
 [
 "生长",
-5,
+3,
 "shēng zhǎng",
 "to grow"
 ],
 [
-"生动",
+"卫生",
+3,
+"wèi shēng",
+"health; hygiene; sanitation"
+],
+[
+"卫生间",
+3,
+"wèi shēng jiān",
+"bathroom; toilet; WC; CL:间[jiān]"
+],
+[
+"毕业生",
+4,
+"bì yè shēng",
+"graduate"
+],
+[
+"研究生",
+4,
+"yán jiū shēng",
+"graduate student; postgraduate student; research student"
+],
+[
+"生成",
 5,
-"shēng dòng",
-"vivid; lively"
+"shēng chéng",
+"to generate; to produce; generated; produced"
 ],
 [
-"生物",
-6,
-"shēng wù",
-"organism; living creature; life form; biological; CL:個|个[ge4]"
-],
-[
-"生存",
-6,
-"shēng cún",
-"to exist; to survive"
-],
-[
-"天生",
-6,
-"tiān shēng",
-"nature; disposition; innate; natural"
+"招生",
+5,
+"zhāo shēng",
+"to enroll new students; to get students"
 ],
 [
 "诞生",
@@ -151,22 +217,22 @@
 "to be born"
 ],
 [
-"生理",
+"花生",
 6,
-"shēng lǐ",
-"physiology"
+"huā shēng",
+"peanut; groundnut; CL:粒[lì]"
 ],
 [
-"生效",
+"生活费",
 6,
-"shēng xiào",
-"to take effect; to go into effect"
+"shēng huó fèi",
+"cost of living; living expenses; alimony"
 ],
 [
-"生育",
+"师生",
 6,
-"shēng yù",
-"to bear; to give birth; to grow; to rear; to bring up (children); fertility"
+"shī shēng",
+"teachers and students"
 ],
 [
 "维生素",
@@ -175,73 +241,187 @@
 "vitamin"
 ],
 [
-"生锈",
+"野生",
 6,
-"shēng xiù",
-"to rust; to grow rusty; to corrode; oxidization"
+"yě shēng",
+"wild; undomesticated"
 ],
 [
-"生态",
+"再生",
 6,
-"shēng tài",
-"ecology"
+"zài shēng",
+"to be reborn; to regenerate; to be a second so-and-so (famous dead person); recycling; regeneration"
+],
+[
+"抗生素",
+7,
+"kàng shēng sù",
+"antibiotic"
+],
+[
+"孪生",
+7,
+"luán shēng",
+"twin"
+],
+[
+"陌生",
+7,
+"mò shēng",
+"strange; unfamiliar"
+],
+[
+"谋生",
+7,
+"móu shēng",
+"to seek one's livelihood; to work to support oneself; to earn a living"
+],
+[
+"亲生",
+7,
+"qīn shēng",
+"one's own (child) (i.e. one's child by birth); biological (parents); birth (parents)"
+],
+[
+"丧生",
+7,
+"sàng shēng",
+"to die; to lose one's life"
 ],
 [
 "生机",
-6,
+7,
 "shēng jī",
 "opportunity to live; to reprieve from death; life force; vitality"
 ],
 [
-"生疏",
-6,
-"shēng shū",
-"unfamiliar; strange; out of practice; not accustomed"
+"生理",
+7,
+"shēng lǐ",
+"physiology"
+],
+[
+"生命线",
+7,
+"shēng mìng xiàn",
+"lifeline"
+],
+[
+"生怕",
+7,
+"shēng pà",
+"to fear; afraid; extremely nervous; for fear that; to avoid; so as not to"
+],
+[
+"生平",
+7,
+"shēng píng",
+"life (a person's whole life); in one's entire life"
+],
+[
+"生前",
+7,
+"shēng qián",
+"(of a deceased) during one's life; while living"
+],
+[
+"生死",
+7,
+"shēng sǐ",
+"life or death"
+],
+[
+"生态",
+7,
+"shēng tài",
+"ecology"
+],
+[
+"生物",
+7,
+"shēng wù",
+"organism; living creature; life form; biological; CL:个[gè]"
+],
+[
+"生效",
+7,
+"shēng xiào",
+"to take effect; to go into effect"
+],
+[
+"生涯",
+7,
+"shēng yá",
+"career; life (way in which sb lives); period of one's life"
+],
+[
+"生硬",
+7,
+"shēng yìng",
+"stiff; harsh"
+],
+[
+"生育",
+7,
+"shēng yù",
+"to bear; to give birth; to grow; to rear; to bring up (children); fertility"
+],
+[
+"逃生",
+7,
+"táo shēng",
+"to flee for one's life"
+],
+[
+"天生",
+7,
+"tiān shēng",
+"nature; disposition; innate; natural"
+],
+[
+"土生土长",
+7,
+"tǔ shēng tǔ zhǎng",
+"locally born and bred; indigenous; home-grown"
+],
+[
+"新生",
+7,
+"xīn shēng",
+"new; newborn; emerging; nascent; rebirth; regeneration; new life; new student"
+],
+[
+"衍生",
+7,
+"yǎn shēng",
+"to give rise to; to derive; derivative; derivation"
+],
+[
+"养生",
+7,
+"yǎng shēng",
+"to maintain good health; to raise a child or animal; curing (of concrete etc)"
+],
+[
+"终生",
+7,
+"zhōng shēng",
+"throughout one's life; lifetime; lifelong"
 ],
 [
 "自力更生",
-6,
+7,
 "zì lì gēng shēng",
 "regeneration through one's own effort (idiom); self-reliance"
 ],
 [
-"生肖",
-6,
-"shēng xiào",
-"one of the twelve animals symbolic of the earthly branches 地支[di4 zhi1]; animal from the Chinese zodiac"
+"做生意",
+7,
+"zuò shēng yì",
+"to do business"
 ]
 ],
 "extraWords": [
-[
-"卫生",
-92.82,
-"wèi shēng",
-"health; hygiene; sanitation"
-],
-[
-"一生",
-72.65,
-"yī shēng",
-"all one's life; throughout one's life"
-],
-[
-"女生",
-59.68,
-"nǚ shēng",
-"schoolgirl; female student; girl"
-],
-[
-"考生",
-58.55,
-"kǎo shēng",
-"exam candidate; student whose name has been put forward for an exam"
-],
-[
-"大学生",
-58.06,
-"dà xué shēng",
-"university student; college student"
-],
 [
 "生日快乐",
 48.94,
@@ -249,34 +429,10 @@
 "Happy birthday"
 ],
 [
-"招生",
-43.17,
-"zhāo shēng",
-"to enroll new students; to get students"
-],
-[
-"男生",
-38.51,
-"nán shēng",
-"schoolboy; male student; boy; guy (young adult male)"
-],
-[
-"毕业生",
-36.72,
-"bì yè shēng",
-"graduate"
-],
-[
 "实习生",
 31.27,
 "shí xí sheng",
 "intern (student)"
-],
-[
-"研究生",
-26.71,
-"yán jiū shēng",
-"graduate student; postgraduate student; research student"
 ],
 [
 "陌生人",
@@ -291,34 +447,22 @@
 "production capability; productive force; productivity"
 ],
 [
-"生涯",
-21.37,
-"shēng yá",
-"career; life (way in which sb lives); period of one's life"
-],
-[
-"新生",
-18.08,
-"xīn shēng",
-"new; newborn; emerging; nascent; rebirth; regeneration; new life; new student"
-],
-[
-"生成",
-16.62,
-"shēng chéng",
-"to generate; to produce; generated; produced"
-],
-[
-"师生",
-16.15,
-"shī shēng",
-"teachers and students"
+"安全生产",
+18.44,
+"???",
+"???"
 ],
 [
 "卫生部",
 15.98,
 "Wèi shēng bù",
 "Ministry of Health"
+],
+[
+"华生",
+15.95,
+"???",
+"???"
 ],
 [
 "生产线",
@@ -333,46 +477,28 @@
 "way of life; lifestyle"
 ],
 [
-"生死",
-14.13,
-"shēng sǐ",
-"life or death"
-],
-[
 "生产队",
 13.99,
 "shēng chǎn duì",
 "production team"
 ],
 [
-"再生",
-13.4,
-"zài shēng",
-"to be reborn; to regenerate; to be a second so-and-so (famous dead person); recycling; regeneration"
+"余生",
+13.53,
+"???",
+"???"
 ],
 [
-"小学生",
-12.92,
-"xiǎo xué shēng",
-"primary school student; schoolchild; CL:個|个[ge4],名[ming2]; (fig.) beginner"
+"王先生",
+13.38,
+"???",
+"???"
 ],
 [
 "民生",
 12.68,
 "mín shēng",
 "people's livelihood; people's welfare"
-],
-[
-"亲生",
-12.16,
-"qīn shēng",
-"one's own (child) (i.e. one's child by birth); biological (parents); birth (parents)"
-],
-[
-"抗生素",
-12.13,
-"kàng shēng sù",
-"antibiotic"
 ],
 [
 "增生",
@@ -387,10 +513,22 @@
 "server (at a restaurant)"
 ],
 [
-"中学生",
+"日常生活",
+11.35,
+"???",
+"???"
+],
+[
+"张先生",
+11.34,
+"???",
+"???"
+],
+[
+"学生们",
 11.24,
-"zhōng xué shēng",
-"middle-school student; high school student"
+"???",
+"???"
 ],
 [
 "发生率",
@@ -399,16 +537,16 @@
 "rate of occurrence"
 ],
 [
+"李先生",
+10.62,
+"???",
+"???"
+],
+[
 "计划生育",
 10.41,
 "jì huà shēng yù",
 "family planning"
-],
-[
-"留学生",
-9.89,
-"liú xué shēng",
-"student studying abroad; (foreign) exchange student; CL:個|个[ge4],位[wei4]"
 ],
 [
 "畜生",
@@ -423,28 +561,10 @@
 "biochemistry"
 ],
 [
-"野生",
-9.48,
-"yě shēng",
-"wild; undomesticated"
-],
-[
-"养生",
-9.4,
-"yǎng shēng",
-"to maintain good health; to raise a child or animal; curing (of concrete etc)"
-],
-[
 "新生儿",
 9.26,
 "xīn shēng ér",
 "newborn baby; neonate"
-],
-[
-"生前",
-9.11,
-"shēng qián",
-"(of a deceased) during one's life; while living"
 ],
 [
 "性生活",
@@ -459,16 +579,16 @@
 "health office; bureau of hygiene"
 ],
 [
-"做生意",
-8.66,
-"zuò shēng yì",
-"to do business"
-],
-[
 "生命力",
 8.4,
 "shēng mìng lì",
 "vitality"
+],
+[
+"陈先生",
+8.36,
+"???",
+"???"
 ],
 [
 "生来",
@@ -483,6 +603,12 @@
 "wild animal"
 ],
 [
+"中小学生",
+8.03,
+"???",
+"???"
+],
+[
 "微生物",
 8.0,
 "wēi shēng wù",
@@ -493,6 +619,12 @@
 7.63,
 "shēng wù xué",
 "biology"
+],
+[
+"刘先生",
+7.43,
+"???",
+"???"
 ],
 [
 "生下",
@@ -525,28 +657,28 @@
 "means of production"
 ],
 [
-"生活费",
-6.82,
-"shēng huó fèi",
-"cost of living; living expenses; alimony"
+"医疗卫生",
+6.97,
+"???",
+"???"
+],
+[
+"生产商",
+6.94,
+"???",
+"???"
+],
+[
+"生猪",
+6.89,
+"???",
+"???"
 ],
 [
 "生产者",
 6.79,
 "shēng chǎn zhě",
 "producer (of goods, commodities or farm produce etc); manufacturer; (biology) autotroph"
-],
-[
-"终生",
-6.72,
-"zhōng shēng",
-"throughout one's life; lifetime; lifelong"
-],
-[
-"衍生",
-6.62,
-"yǎn shēng",
-"to give rise to; to derive; derivative; derivation"
 ],
 [
 "生出",
@@ -561,10 +693,10 @@
 "to return alive; to survive"
 ],
 [
-"丧生",
-6.28,
-"sàng shēng",
-"to die; to lose one's life"
+"博士生",
+6.26,
+"???",
+"???"
 ],
 [
 "国内生产总值",
@@ -579,12 +711,6 @@
 "to live forever; eternal life; all one's life"
 ],
 [
-"生怕",
-6.04,
-"shēng pà",
-"to fear; afraid; extremely nervous; for fear that; to avoid; so as not to"
-],
-[
 "公共卫生",
 6.02,
 "gōng gòng wèi shēng",
@@ -597,10 +723,22 @@
 "productivity; efficiency of production"
 ],
 [
+"过生日",
+5.79,
+"???",
+"???"
+],
+[
 "高中生",
 5.78,
 "gāo zhōng shēng",
 "senior high school student"
+],
+[
+"卫生院",
+5.75,
+"???",
+"???"
 ],
 [
 "花生酱",

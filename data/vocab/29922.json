@@ -1,12 +1,31 @@
 {
 "char": "瓢",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "ladle made from dried gourd",
 "pron": "piáo"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"瓢",
+2.38,
+"piáo",
+"dipper; ladle"
+],
+[
+"瓢虫",
+0.92,
+"piáo chóng",
+"ladybug; ladybird"
+],
+[
+"锅碗瓢盆",
+0.45,
+"guō wǎn piáo pén",
+"kitchen utensils (literary)"
+]
+],
 "strokes": [
 "M 356 755 Q 455 779 458 780 Q 465 787 462 794 Q 456 804 432 811 Q 411 817 310 787 Q 226 769 164 764 Q 133 760 155 744 Q 188 726 270 739 Q 292 743 319 748 L 356 755 Z",
 "M 146 624 Q 136 628 111 631 Q 101 632 98 629 Q 94 623 101 610 Q 126 565 144 490 Q 148 468 162 453 Q 178 435 181 449 Q 182 455 183 462 L 182 483 Q 163 582 160 595 C 154 621 154 621 146 624 Z",

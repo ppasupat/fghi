@@ -1,6 +1,6 @@
 {
 "char": "潇",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "sound of beating wind and rain",
 "pron": "xiāo"
@@ -8,12 +8,25 @@
 "words": [
 [
 "潇洒",
-6,
+7,
 "xiāo sǎ",
 "confident and at ease; free and easy"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"潇湘",
+2.65,
+"Xiāo xiāng",
+"other name of the Xiangjiang river 湘江[Xiāng jiāng] in Hunan province"
+],
+[
+"冯潇霆",
+1.17,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 209 702 Q 239 674 269 642 Q 282 627 299 627 Q 311 627 317 641 Q 323 656 315 688 Q 305 725 207 753 Q 191 757 184 755 Q 178 751 179 738 Q 183 726 209 702 Z",
 "M 108 513 Q 153 447 188 429 Q 204 425 215 437 Q 222 450 222 468 Q 213 519 126 552 Q 108 559 98 556 Q 91 556 93 542 Q 93 529 108 513 Z",

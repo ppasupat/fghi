@@ -1,6 +1,6 @@
 {
 "char": "躬",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "body; personally, in person",
 "pron": "gōng"
@@ -8,12 +8,31 @@
 "words": [
 [
 "鞠躬",
-6,
+7,
 "jū gōng",
 "to bow; (literary) to bend down"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"躬身",
+2.62,
+"gōng shēn",
+"to bow; personally"
+],
+[
+"躬",
+2.18,
+"gōng",
+"body; oneself; personally; to bow"
+],
+[
+"躬",
+2.18,
+"gōng",
+"old variant of 躬[gōng]"
+]
+],
 "strokes": [
 "M 311 662 Q 398 773 426 793 Q 442 806 429 820 Q 413 833 385 840 Q 360 847 350 841 Q 338 837 345 825 Q 355 800 294 673 Q 290 667 287 658 C 276 630 292 638 311 662 Z",
 "M 271 656 Q 252 672 234 681 Q 224 684 215 680 Q 208 676 210 666 Q 223 642 228 564 Q 228 501 231 344 C 232 314 273 324 273 354 Q 273 396 274 433 L 275 459 Q 275 496 277 529 L 278 556 Q 278 625 282 629 C 285 645 285 645 271 656 Z",

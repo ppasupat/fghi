@@ -1,61 +1,91 @@
 {
 "char": "初",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "beginning, initial, primary",
 "pron": "chū"
 },
 "words": [
 [
-"最初",
-5,
-"zuì chū",
-"first; primary; initial; original; at first; initially; originally"
+"初",
+3,
+"chū",
+"at first; (at the) beginning; first; junior; basic"
+],
+[
+"初步",
+3,
+"chū bù",
+"initial; preliminary; tentative"
 ],
 [
 "初级",
-5,
+3,
 "chū jí",
 "junior; primary"
 ],
 [
+"初中",
+3,
+"chū zhōng",
+"junior high school; abbr. for 初级中学[chū jí zhōng xué]"
+],
+[
 "当初",
-6,
+3,
 "dāng chū",
 "at that time; originally"
 ],
 [
-"起初",
-6,
-"qǐ chū",
-"originally; at first; at the outset"
-],
-[
-"初步",
-6,
-"chū bù",
-"initial; preliminary; tentative"
-]
-],
-"extraWords": [
-[
-"初中",
-31.15,
-"chū zhōng",
-"junior high school; abbr. for 初級中學|初级中学[chu1 ji2 zhong1 xue2]"
-],
-[
 "年初",
-24.06,
+3,
 "nián chū",
 "beginning of the year"
 ],
 [
+"最初",
+4,
+"zuì chū",
+"first; primary; initial; original; at first; initially; originally"
+],
+[
 "初期",
-22.11,
+5,
 "chū qī",
 "initial stage; beginning period"
 ],
+[
+"初等",
+6,
+"chū děng",
+"elementary (i.e. easy)"
+],
+[
+"初次",
+7,
+"chū cì",
+"for the first time; first (meeting, attempt etc)"
+],
+[
+"初衷",
+7,
+"chū zhōng",
+"original intention"
+],
+[
+"起初",
+7,
+"qǐ chū",
+"originally; at first; at the outset"
+],
+[
+"月初",
+7,
+"yuè chū",
+"start of month; early in the month"
+]
+],
+"extraWords": [
 [
 "初一",
 9.41,
@@ -75,28 +105,22 @@
 "third year in junior middle school"
 ],
 [
-"初衷",
-7.11,
-"chū zhōng",
-"original intention"
-],
-[
 "初始",
 6.75,
 "chū shǐ",
 "initial; starting (point)"
 ],
 [
-"初次",
-6.66,
-"chū cì",
-"for the first time; first (meeting, attempt etc)"
-],
-[
 "初二",
 6.39,
 "chū èr",
 "2nd year in junior middle school; 2nd day of a lunar month; 2nd day of lunar New Year"
+],
+[
+"今年初",
+5.55,
+"???",
+"???"
 ]
 ],
 "strokes": [

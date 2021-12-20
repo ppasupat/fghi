@@ -1,12 +1,31 @@
 {
 "char": "莺",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "oriole, green finch; Sylvia species (various)",
 "pron": "yīng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"莺",
+3.82,
+"yīng",
+"oriole or various birds of the Sylvidae family including warblers"
+],
+[
+"莺",
+3.82,
+"yīng",
+"variant of 莺[yīng]"
+],
+[
+"夜莺",
+1.55,
+"yè yīng",
+"nightingale"
+]
+],
 "strokes": [
 "M 606 702 Q 696 709 778 701 Q 793 700 798 709 Q 802 719 791 734 Q 740 779 633 753 Q 630 753 628 752 L 573 743 Q 506 736 431 726 L 383 721 Q 316 717 243 709 Q 215 706 234 691 Q 280 663 355 678 Q 373 682 392 684 L 433 690 Q 457 697 562 700 L 606 702 Z",
 "M 431 726 Q 430 751 429 773 Q 430 792 411 798 Q 369 816 352 810 Q 336 803 349 783 Q 373 755 383 721 L 392 684 Q 399 638 416 619 Q 429 609 433 620 Q 439 635 433 690 L 431 726 Z",

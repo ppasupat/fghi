@@ -1,22 +1,28 @@
 {
 "char": "里",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "unit of distance; village; lane",
 "pron": "lǐ"
 },
 "words": [
 [
-"里",
+"家里",
 1,
-"lǐ",
-"variant of 裡|里[li3]"
+"jiā lǐ",
+"home"
 ],
 [
 "里",
 1,
 "lǐ",
-"lining; interior; inside; internal; also written 裏|里[li3]"
+"variant of 里[lǐ]"
+],
+[
+"里",
+1,
+"lǐ",
+"lining; interior; inside; internal; also written 里[lǐ]"
 ],
 [
 "里",
@@ -28,76 +34,130 @@
 "里",
 1,
 "lǐ",
-"li, ancient measure of length, approx. 500 m; neighborhood; ancient administrative unit of 25 families; (Tw) borough, administrative unit between the township 鎮|镇[zhen4] and neighborhood 鄰|邻[lin2] levels"
+"li, ancient measure of length, approx. 500 m; neighborhood; ancient administrative unit of 25 families; (Tw) borough, administrative unit between the township 镇[zhèn] and neighborhood 邻[lín] levels"
 ],
 [
-"公里",
-4,
-"gōng lǐ",
-"kilometer"
-],
-[
-"里程碑",
-6,
-"lǐ chéng bēi",
-"milestone"
-]
-],
-"extraWords": [
-[
-"这里",
-1606.72,
-"zhè lǐ",
-"variant of 這裡|这里[zhe4 li3]"
-],
-[
-"这里",
-1606.72,
-"zhè lǐ",
-"here"
-],
-[
-"那里",
-500.29,
-"nà li",
-"there; that place; also written 那裡|那里"
-],
-[
-"那里",
-500.29,
-"nà li",
-"there; that place"
+"里边",
+1,
+"lǐ bian",
+"inside"
 ],
 [
 "哪里",
-401.56,
+1,
 "nǎ lǐ",
 "where?; somewhere; anywhere; wherever; nowhere (negative answer to question); humble expression denying compliment; also written 哪裡|哪里"
 ],
 [
 "哪里",
-401.56,
+1,
 "nǎ lǐ",
 "where?; somewhere; anywhere; wherever; nowhere (negative answer to question); humble expression denying compliment"
 ],
 [
-"里面",
-303.55,
-"lǐ miàn",
-"inside; interior; also pr. [li3 mian5]"
+"那里",
+1,
+"nà li",
+"there; that place; also written 那裡|那里"
+],
+[
+"那里",
+1,
+"nà li",
+"there; that place"
+],
+[
+"这里",
+1,
+"zhè lǐ",
+"variant of 这里[zhè lǐ]"
+],
+[
+"这里",
+1,
+"zhè lǐ",
+"here"
+],
+[
+"公里",
+2,
+"gōng lǐ",
+"kilometer"
+],
+[
+"里头",
+2,
+"lǐ tou",
+"inside; interior"
 ],
 [
 "心里",
-144.13,
+2,
 "xīn li",
 "chest; heart; mind"
 ],
 [
-"家里",
-136.02,
-"jiā lǐ",
-"home"
+"夜里",
+2,
+"yè li",
+"during the night; at night; nighttime"
 ],
+[
+"里面",
+3,
+"lǐ miàn",
+"inside; interior; also pr. [li3 mian5]"
+],
+[
+"手里",
+4,
+"shǒu lǐ",
+"in hand; (a situation is) in sb's hands"
+],
+[
+"眼里",
+4,
+"???",
+"???"
+],
+[
+"城里",
+5,
+"???",
+"???"
+],
+[
+"暗地里",
+7,
+"àn dì li",
+"secretly; inwardly; on the sly"
+],
+[
+"怀里",
+7,
+"huái lǐ",
+"embrace; bosom"
+],
+[
+"里程碑",
+7,
+"lǐ chéng bēi",
+"milestone"
+],
+[
+"鹏程万里",
+7,
+"péng chéng wàn lǐ",
+"the fabled roc flies ten thousand miles (idiom); one's future prospects are brilliant"
+],
+[
+"心里话",
+7,
+"xīn li huà",
+"(to express one's) true feelings; what is on one's mind; secret mind"
+]
+],
+"extraWords": [
 [
 "英里",
 58.99,
@@ -105,16 +165,16 @@
 "mile (unit of length equal to 1.609 km)"
 ],
 [
-"手里",
-46.92,
-"shǒu lǐ",
-"in hand; (a situation is) in sb's hands"
-],
-[
 "嘴里",
 26.23,
 "zuǐ lǐ",
 "mouth; in the mouth; on one's lips; speech; words"
+],
+[
+"屋里",
+24.06,
+"???",
+"???"
 ],
 [
 "哈里",
@@ -129,6 +189,18 @@
 "village; hamlet"
 ],
 [
+"克里斯",
+18.87,
+"???",
+"???"
+],
+[
+"局里",
+17.62,
+"???",
+"???"
+],
+[
 "平方公里",
 16.24,
 "píng fāng gōng lǐ",
@@ -141,16 +213,16 @@
 "Florida"
 ],
 [
-"夜里",
-12.93,
-"yè li",
-"during the night; at night; nighttime"
+"里斯",
+10.28,
+"???",
+"???"
 ],
 [
-"怀里",
-9.87,
-"huái lǐ",
-"embrace; bosom"
+"莫里斯",
+10.16,
+"???",
+"???"
 ],
 [
 "帕特里克",
@@ -171,6 +243,12 @@
 "potassium (loanword)"
 ],
 [
+"包里克",
+7.39,
+"???",
+"???"
+],
+[
 "阿里",
 7.29,
 "Ā lǐ",
@@ -183,16 +261,10 @@
 "lari (currency of Georgia) (loanword)"
 ],
 [
-"里头",
-7.15,
-"lǐ tou",
-"inside; interior"
-],
-[
 "马德里",
 7.06,
 "Mǎ dé lǐ",
-"variant of 馬德里|马德里[Ma3 de2 li3], Madrid"
+"variant of 马德里[Mǎ dé lǐ], Madrid"
 ],
 [
 "马德里",
@@ -207,10 +279,16 @@
 "nautical mile"
 ],
 [
-"里边",
+"哈里斯",
+6.74,
+"???",
+"???"
+],
+[
+"河里",
 6.5,
-"lǐ bian",
-"inside"
+"???",
+"???"
 ],
 [
 "里程",
@@ -225,10 +303,22 @@
 "li (Chinese unit of length equal to 500 meters)"
 ],
 [
+"家里人",
+5.54,
+"???",
+"???"
+],
+[
 "巴里",
 5.4,
 "Bā lǐ",
 "Bari (Puglia, Italy)"
+],
+[
+"特里",
+5.19,
+"???",
+"???"
 ]
 ],
 "strokes": [

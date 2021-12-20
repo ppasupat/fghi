@@ -1,12 +1,32 @@
 {
 "char": "砌",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "to build, pile up; stone steps, brick walk",
 "pron": "qì"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"堆砌",
+7,
+"duī qì",
+"lit. to pile up (bricks); to pack; fig. to pad out (writing with fancy phrases); ornate rhetoric"
+]
+],
+"extraWords": [
+[
+"砌",
+4.9,
+"qì",
+"to build by laying bricks or stones"
+],
+[
+"砌块",
+0.87,
+"qì kuài",
+"building block"
+]
+],
 "strokes": [
 "M 278 616 Q 405 652 409 655 Q 418 664 412 672 Q 405 684 374 689 Q 352 692 270 663 Q 186 644 163 639 Q 126 630 154 615 Q 181 600 224 603 L 278 616 Z",
 "M 220 399 Q 250 457 290 559 Q 303 595 304 595 Q 297 610 278 616 C 251 629 217 632 224 603 Q 245 537 176 402 L 158 369 Q 119 305 43 207 Q 37 201 46 200 Q 97 218 172 319 L 220 399 Z",

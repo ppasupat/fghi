@@ -1,12 +1,32 @@
 {
 "char": "赡",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "support, aid; rich, elegant",
 "pron": "shàn"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"赡养",
+7,
+"shàn yǎng",
+"to support; to provide support for; to maintain"
+]
+],
+"extraWords": [
+[
+"赡",
+4.76,
+"shàn",
+"to support; to provide for"
+],
+[
+"赡养费",
+3.07,
+"shàn yǎng fèi",
+"alimony; child support; maintenance allowance"
+]
+],
 "strokes": [
 "M 185 685 Q 172 698 152 706 Q 143 710 133 706 Q 126 702 132 691 Q 133 682 137 674 Q 158 635 142 415 Q 124 309 136 287 Q 140 278 147 269 Q 156 257 166 268 Q 181 289 182 367 Q 189 632 192 651 Q 193 657 193 661 C 195 677 195 677 185 685 Z",
 "M 310 354 Q 303 335 315 315 Q 325 290 334 291 Q 347 291 361 319 Q 374 341 373 359 Q 346 602 391 667 Q 400 680 393 689 Q 369 708 329 726 Q 317 730 258 705 Q 195 687 185 685 C 156 678 163 658 193 661 Q 200 661 208 662 Q 298 690 312 684 Q 322 659 325 593 Q 324 392 310 354 Z",

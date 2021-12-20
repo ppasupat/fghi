@@ -1,37 +1,37 @@
 {
 "char": "添",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "append, add to; increase",
 "pron": "tiān"
 },
 "words": [
 [
-"增添",
+"添",
 6,
-"zēng tiān",
-"to add; to increase"
-],
-[
-"锦上添花",
-6,
-"jǐn shàng tiān huā",
-"lit. add flowers to brocade (idiom); fig. to give sth additional splendor; to provide the crowning touch; (derog.) to benefit sb who is already well off"
+"tiān",
+"to add; to increase; to replenish"
 ],
 [
 "画蛇添足",
-6,
+7,
 "huà shé tiān zú",
 "lit. draw legs on a snake (idiom); fig. to ruin the effect by adding sth superfluous; to overdo it"
-]
 ],
-"extraWords": [
 [
 "添加",
-17.34,
+7,
 "tiān jiā",
 "to add; to increase"
 ],
+[
+"增添",
+7,
+"zēng tiān",
+"to add; to increase"
+]
+],
+"extraWords": [
 [
 "添加剂",
 6.6,

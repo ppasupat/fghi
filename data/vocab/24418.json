@@ -1,85 +1,139 @@
 {
 "char": "形",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "form, shape, appearance",
 "pron": "xíng"
 },
 "words": [
 [
-"形象",
-5,
-"xíng xiàng",
-"image; form; figure; CL:個|个[ge4]; visualization; vivid"
-],
-[
-"形容",
-5,
-"xíng róng",
-"to describe; description; appearance; look"
-],
-[
-"形式",
-5,
-"xíng shì",
-"outer appearance; form; shape; formality; CL:個|个[ge4]"
-],
-[
 "形成",
-5,
+3,
 "xíng chéng",
 "to form; to take shape"
 ],
 [
+"形式",
+3,
+"xíng shì",
+"outer appearance; form; shape; formality; CL:个[gè]"
+],
+[
+"形象",
+3,
+"xíng xiàng",
+"image; form; figure; CL:个[gè]; visualization; vivid"
+],
+[
 "形状",
-5,
+3,
 "xíng zhuàng",
-"form; shape; CL:個|个[ge4]"
+"form; shape; CL:个[gè]"
+],
+[
+"形容",
+4,
+"xíng róng",
+"to describe; description; appearance; look"
 ],
 [
 "形势",
-5,
+4,
 "xíng shì",
-"circumstances; situation; terrain; CL:個|个[ge4]"
+"circumstances; situation; terrain; CL:个[gè]"
+],
+[
+"地形",
+5,
+"dì xíng",
+"topography; terrain; landform"
 ],
 [
 "情形",
-6,
+5,
 "qíng xing",
-"circumstances; situation; CL:個|个[ge4]"
+"circumstances; situation; CL:个[gè]"
 ],
 [
 "形态",
-6,
+5,
 "xíng tài",
 "shape; form; pattern; morphology"
-]
 ],
-"extraWords": [
 [
 "变形",
-20.27,
+6,
 "biàn xíng",
 "deformation; to become deformed; to change shape; to morph"
 ],
 [
+"形",
+6,
+"xíng",
+"to appear; to look; form; shape"
+],
+[
+"队形",
+7,
+"duì xíng",
+"formation"
+],
+[
+"畸形",
+7,
+"jī xíng",
+"deformity; abnormality"
+],
+[
+"图形",
+7,
+"tú xíng",
+"picture; figure; diagram; graph; depiction; graphical"
+],
+[
 "外形",
-16.45,
+7,
 "wài xíng",
 "figure; shape; external form; contour"
 ],
 [
 "无形",
-12.43,
+7,
 "wú xíng",
 "incorporeal; virtual; formless; invisible (assets); intangible"
 ],
 [
-"图形",
-11.43,
-"tú xíng",
-"picture; figure; diagram; graph; depiction; graphical"
+"无形中",
+7,
+"wú xíng zhōng",
+"imperceptibly; virtually"
 ],
+[
+"形形色色",
+7,
+"xíng xíng sè sè",
+"all kinds of; all sorts of; every (different) kind of"
+],
+[
+"形影不离",
+7,
+"xíng yǐng bù lí",
+"inseparable (as form and shadow)"
+],
+[
+"隐形",
+7,
+"yǐn xíng",
+"invisible"
+],
+[
+"圆形",
+7,
+"yuán xíng",
+"round; circular"
+]
+],
+"extraWords": [
 [
 "身形",
 11.35,
@@ -87,34 +141,10 @@
 "figure (esp. a woman's)"
 ],
 [
-"畸形",
-11.22,
-"jī xíng",
-"deformity; abnormality"
-],
-[
-"隐形",
-9.3,
-"yǐn xíng",
-"invisible"
-],
-[
-"圆形",
-8.75,
-"yuán xíng",
-"round; circular"
-],
-[
-"地形",
-8.23,
-"dì xíng",
-"topography; terrain; landform"
-],
-[
 "整形",
 7.96,
 "zhěng xíng",
-"shaping; reshaping; plastic surgery or orthopedics (abbr. of 整形外科[zheng3 xing2 wai4 ke1])"
+"shaping; reshaping; plastic surgery or orthopedics (abbr. of 整形外科[zhěng xíng wài kē])"
 ],
 [
 "意识形态",

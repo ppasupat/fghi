@@ -1,6 +1,6 @@
 {
 "char": "申",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "to state to a superior, report; extend; 9th terrestrial branch",
 "pron": "shēn"
@@ -10,27 +10,51 @@
 "申请",
 4,
 "shēn qǐng",
-"to apply for sth; application (form etc); CL:份[fen4]"
+"to apply for sth; application (form etc); CL:份[fèn]"
 ],
-[
-"申报",
-6,
-"shēn bào",
-"to report (to the authorities); to declare (to customs)"
-]
-],
-"extraWords": [
 [
 "重申",
-9.77,
+7,
 "chóng shēn",
 "to reaffirm; to reiterate"
 ],
 [
+"申办",
+7,
+"shēn bàn",
+"to apply for; to bid for"
+],
+[
+"申报",
+7,
+"shēn bào",
+"to report (to the authorities); to declare (to customs)"
+],
+[
 "申领",
-6.89,
+7,
 "shēn lǐng",
 "to apply (for license, visa etc)"
+]
+],
+"extraWords": [
+[
+"申",
+39.53,
+"Shēn",
+"old name for Shanghai 上海[Shàng hǎi]; surname Shen"
+],
+[
+"申",
+39.53,
+"shēn",
+"to extend; to state; to explain; 9th earthly branch: 3-5 p.m., 7th solar month (7th August-7th September), year of the Monkey; ancient Chinese compass point: 240°"
+],
+[
+"申花",
+18.08,
+"???",
+"???"
 ],
 [
 "申诉",
@@ -43,12 +67,6 @@
 6.05,
 "shēn qǐng rén",
 "applicant"
-],
-[
-"申办",
-5.68,
-"shēn bàn",
-"to apply for; to bid for"
 ]
 ],
 "strokes": [

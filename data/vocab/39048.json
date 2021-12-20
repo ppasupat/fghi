@@ -1,29 +1,29 @@
 {
 "char": "颈",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "neck, throat",
 "pron": "gěng, jǐng"
 },
 "words": [
 [
-"颈椎",
-6,
-"jǐng zhuī",
-"cervical vertebra; the seven cervical vertebrae in the neck of humans and most mammals"
+"颈部",
+7,
+"jǐng bù",
+"neck"
+],
+[
+"瓶颈",
+7,
+"píng jǐng",
+"bottleneck"
 ]
 ],
 "extraWords": [
 [
-"瓶颈",
-10.03,
-"píng jǐng",
-"bottleneck"
-],
-[
-"颈部",
-8.08,
-"jǐng bù",
+"颈",
+18.87,
+"jǐng",
 "neck"
 ]
 ],

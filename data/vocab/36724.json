@@ -1,12 +1,31 @@
 {
 "char": "轴",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "axle, axletree; pivot; axis",
 "pron": "zhóu, zhòu"
 },
-"words": [],
+"words": [
+[
+"车轴",
+7,
+"chē zhóu",
+"axle; CL:根[gēn]"
+]
+],
 "extraWords": [
+[
+"轴",
+17.27,
+"zhóu",
+"axis; axle; spool (for thread); roller (for scrolls); classifier for calligraphy rolls etc"
+],
+[
+"轴",
+17.27,
+"zhòu",
+"see 压轴戏[yā zhòu xì]; Taiwan pr. [zhou2]"
+],
 [
 "轴承",
 6.52,

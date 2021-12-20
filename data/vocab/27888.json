@@ -1,6 +1,6 @@
 {
 "char": "泰",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "great, exalted, superior; big",
 "pron": "tài"
@@ -8,12 +8,24 @@
 "words": [
 [
 "泰斗",
-6,
+7,
 "tài dǒu",
-"(abbr. for 泰山北斗[Tai4 Shan1 Bei3 dou3]) distinguished figure; doyen; revered authority"
+"(abbr. for 泰山北斗[Tài Shān Běi dǒu]) distinguished figure; doyen; revered authority"
 ]
 ],
 "extraWords": [
+[
+"泰",
+39.47,
+"Tài",
+"Mt Tai 泰山[Tài Shān] in Shandong; abbr. for Thailand"
+],
+[
+"泰",
+39.47,
+"tài",
+"safe; peaceful; most; grand"
+],
 [
 "泰国",
 35.89,
@@ -27,16 +39,28 @@
 "Taylor (name)"
 ],
 [
+"泰德",
+11.18,
+"???",
+"???"
+],
+[
 "泰山",
 7.35,
 "Tài Shān",
-"Mt Tai in Shandong, eastern mountain of the Five Sacred Mountains 五嶽|五岳[Wu3 yue4]"
+"Mt Tai in Shandong, eastern mountain of the Five Sacred Mountains 五岳[Wǔ yuè]"
 ],
 [
 "泰山",
 7.35,
 "Tài shān",
-"Tarzan (fictional character reared by apes in the jungle); Taishan township in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+"Tarzan (fictional character reared by apes in the jungle); Taishan township in New Taipei City 新北市[Xīn běi shì], Taiwan"
+],
+[
+"泰迪",
+5.57,
+"???",
+"???"
 ]
 ],
 "strokes": [

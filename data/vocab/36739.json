@@ -1,6 +1,6 @@
 {
 "char": "较",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "compare; comparatively, more",
 "pron": "jiào"
@@ -13,16 +13,28 @@
 "to compare; to contrast; comparatively; relatively; quite; comparison"
 ],
 [
-"较量",
-6,
-"jiào liàng",
-"to pit oneself against sb; to compete with sb; contest; battle; to haggle; to quibble"
+"较",
+3,
+"jiào",
+"to compare; to dispute; compared to; (before adj.) relatively; comparatively; rather; also pr. [jiao3]"
 ],
 [
 "计较",
-6,
+7,
 "jì jiào",
 "to bother about; to haggle; to bicker; to argue; plan; stratagem"
+],
+[
+"较劲",
+7,
+"jiào jìn",
+"to match one's strength with; to compete; more competitive; to set oneself against sb; disobliging; to make a special effort"
+],
+[
+"较量",
+7,
+"jiào liàng",
+"to pit oneself against sb; to compete with sb; contest; battle; to haggle; to quibble"
 ]
 ],
 "extraWords": [
@@ -31,6 +43,12 @@
 91.78,
 "jiào dà",
 "comparatively large"
+],
+[
+"较高",
+55.08,
+"???",
+"???"
 ],
 [
 "较为",
@@ -45,6 +63,36 @@
 "better"
 ],
 [
+"较多",
+30.95,
+"???",
+"???"
+],
+[
+"较强",
+21.12,
+"???",
+"???"
+],
+[
+"较少",
+15.53,
+"???",
+"???"
+],
+[
+"较小",
+15.13,
+"???",
+"???"
+],
+[
+"较长",
+11.13,
+"???",
+"???"
+],
+[
 "较差",
 10.44,
 "jiào chā",
@@ -55,6 +103,18 @@
 10.44,
 "jiào chà",
 "mediocre; rather poor; not specially good"
+],
+[
+"较弱",
+5.22,
+"???",
+"???"
+],
+[
+"相比较",
+5.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

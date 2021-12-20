@@ -1,6 +1,6 @@
 {
 "char": "二",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "two; twice",
 "pron": "èr"
@@ -13,10 +13,46 @@
 "two; 2; (Beijing dialect) stupid"
 ],
 [
+"二手",
+4,
+"èr shǒu",
+"indirectly acquired; second-hand (information, equipment etc); assistant"
+],
+[
+"二维码",
+5,
+"èr wéi mǎ",
+"two-dimensional barcode; QR code"
+],
+[
+"独一无二",
+7,
+"dú yī wú èr",
+"unique and unmatched (idiom); unrivalled; nothing compares with it"
+],
+[
+"二手车",
+7,
+"èr shǒu chē",
+"second-hand car"
+],
+[
 "二氧化碳",
-6,
+7,
 "èr yǎng huà tàn",
 "carbon dioxide CO2"
+],
+[
+"接二连三",
+7,
+"jiē èr lián sān",
+"one after another (idiom); in quick succession"
+],
+[
+"一干二净",
+7,
+"yī gān èr jìng",
+"thoroughly (idiom); completely; one and all; very clean"
 ]
 ],
 "extraWords": [
@@ -37,6 +73,12 @@
 37.45,
 "dì èr cì",
 "the second time; second; number two"
+],
+[
+"第二个",
+31.23,
+"???",
+"???"
 ],
 [
 "二手房",
@@ -69,6 +111,18 @@
 "both; both of them; neither"
 ],
 [
+"第二届",
+12.53,
+"???",
+"???"
+],
+[
+"第二名",
+12.31,
+"???",
+"???"
+],
+[
 "十二月",
 11.92,
 "Shí èr yuè",
@@ -87,16 +141,10 @@
 "February; second month (of the lunar year)"
 ],
 [
-"独一无二",
-10.43,
-"dú yī wú èr",
-"unique and unmatched (idiom); unrivalled; nothing compares with it"
-],
-[
-"二手",
-9.88,
-"èr shǒu",
-"indirectly acquired; second-hand (information, equipment etc); assistant"
+"第二节",
+10.89,
+"???",
+"???"
 ],
 [
 "老二",
@@ -111,6 +159,12 @@
 "World War II"
 ],
 [
+"二级市场",
+8.99,
+"???",
+"???"
+],
+[
 "星期二",
 8.88,
 "Xīng qī èr",
@@ -123,10 +177,28 @@
 "secondly; the other (usu. of two); the second"
 ],
 [
+"二等奖",
+8.22,
+"???",
+"???"
+],
+[
 "第二位",
 6.93,
 "dì èr wèi",
 "second place"
+],
+[
+"第二阶",
+6.59,
+"???",
+"???"
+],
+[
+"三分之二",
+6.49,
+"???",
+"???"
 ],
 [
 "初二",
@@ -141,16 +213,34 @@
 "second quarter (of financial year)"
 ],
 [
+"第二批",
+5.8,
+"???",
+"???"
+],
+[
+"第二年",
+5.8,
+"???",
+"???"
+],
+[
+"第十二名",
+5.75,
+"???",
+"???"
+],
+[
 "二级",
 5.72,
 "èr jí",
 "grade 2; second class; category B"
 ],
 [
-"二手车",
-5.39,
-"èr shǒu chē",
-"second-hand car"
+"第二场",
+5.03,
+"???",
+"???"
 ]
 ],
 "strokes": [

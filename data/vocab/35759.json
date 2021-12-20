@@ -1,6 +1,6 @@
 {
 "char": "讯",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "inquire; ask; examine; reproach",
 "pron": "xùn"
@@ -10,21 +10,39 @@
 "通讯",
 6,
 "tōng xùn",
-"communications; news story; dispatch; CL:個|个[ge4]"
+"communications; news story; dispatch; CL:个[gè]"
+],
+[
+"电讯",
+7,
+"diàn xùn",
+"telecommunications; telecom"
+],
+[
+"资讯",
+7,
+"zī xùn",
+"information"
 ]
 ],
 "extraWords": [
+[
+"本报讯",
+195.38,
+"???",
+"???"
+],
+[
+"讯",
+161.61,
+"xùn",
+"to question; to ask; to interrogate; rapid; speedy; fast; news; information"
+],
 [
 "通讯员",
 50.76,
 "tōng xùn yuán",
 "correspondent; reporter; messenger boy"
-],
-[
-"资讯",
-18.98,
-"zī xùn",
-"information"
 ],
 [
 "审讯",
@@ -43,12 +61,6 @@
 5.82,
 "wén xùn",
 "to receive news (of)"
-],
-[
-"电讯",
-5.31,
-"diàn xùn",
-"telecommunications; telecom"
 ]
 ],
 "strokes": [

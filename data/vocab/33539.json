@@ -1,6 +1,6 @@
 {
 "char": "范",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "surname; bee-like insect",
 "pron": "fàn"
@@ -8,47 +8,71 @@
 "words": [
 [
 "范围",
-5,
+3,
 "fàn wéi",
-"range; scope; limit; extent; CL:個|个[ge4]"
-],
-[
-"师范",
-6,
-"shī fàn",
-"teacher-training; pedagogical; normal (school, e.g. Beijing Normal University)"
-],
-[
-"示范",
-6,
-"shì fàn",
-"to demonstrate; to show how to do sth; demonstration; a model example"
-],
-[
-"模范",
-6,
-"mó fàn",
-"model; fine example"
+"range; scope; limit; extent; CL:个[gè]"
 ],
 [
 "规范",
-6,
+3,
 "guī fàn",
 "norm; standard; specification; regulation; rule; within the rules; to fix rules; to regulate; to specify"
 ],
 [
-"范畴",
+"模范",
+5,
+"mó fàn",
+"model; fine example"
+],
+[
+"示范",
+5,
+"shì fàn",
+"to demonstrate; to show how to do sth; demonstration; a model example"
+],
+[
+"防范",
 6,
+"fáng fàn",
+"to be on guard; wariness; to guard against; preventive"
+],
+[
+"典范",
+7,
+"diǎn fàn",
+"model; example; paragon"
+],
+[
+"范畴",
+7,
 "fàn chóu",
 "category"
+],
+[
+"风范",
+7,
+"fēng fàn",
+"air; manner; model; paragon; demeanor"
+],
+[
+"师范",
+7,
+"shī fàn",
+"teacher-training; pedagogical; normal (school, e.g. Beijing Normal University)"
 ]
 ],
 "extraWords": [
 [
-"防范",
-23.97,
-"fáng fàn",
-"to be on guard; wariness; to guard against; preventive"
+"范",
+29.53,
+"fàn",
+"pattern; model; example"
+],
+[
+"范",
+29.53,
+"Fàn",
+"surname Fan"
 ],
 [
 "规范化",
@@ -57,16 +81,10 @@
 "to standardize; standardization"
 ],
 [
-"典范",
-6.58,
-"diǎn fàn",
-"model; example; paragon"
-],
-[
-"风范",
-5.93,
-"fēng fàn",
-"air; manner; model; paragon; demeanor"
+"范冰冰",
+5.37,
+"???",
+"???"
 ]
 ],
 "strokes": [

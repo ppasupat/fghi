@@ -1,25 +1,38 @@
 {
 "char": "勃",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "suddenly, sudden, quick",
 "pron": "bó"
 },
 "words": [
 [
-"兴致勃勃",
-6,
-"xìng zhì bó bó",
-"to become exhilarated (idiom); in high spirits; full of zest"
+"蓬勃",
+7,
+"péng bó",
+"vigorous; flourishing; full of vitality"
 ],
 [
 "朝气蓬勃",
-6,
+7,
 "zhāo qì péng bó",
 "full of youthful energy (idiom); vigorous; energetic; a bright spark"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"鲍勃",
+23.73,
+"???",
+"???"
+],
+[
+"勃",
+9.81,
+"bó",
+"flourishing; prosperous; suddenly; abruptly"
+]
+],
 "strokes": [
 "M 398 646 Q 527 680 532 685 Q 541 692 536 701 Q 529 711 500 718 Q 470 722 405 695 L 352 679 Q 300 666 239 656 Q 205 649 230 634 Q 272 616 336 631 Q 342 632 350 634 L 398 646 Z",
 "M 382 545 Q 389 597 398 646 L 405 695 Q 417 779 433 815 Q 437 825 419 840 Q 388 861 365 866 Q 350 870 342 863 Q 335 856 341 842 Q 357 814 356 797 Q 356 740 352 679 L 350 634 Q 346 588 341 536 C 338 506 378 515 382 545 Z",

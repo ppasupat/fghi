@@ -1,54 +1,72 @@
 {
 "char": "售",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "sell",
 "pron": "shòu"
 },
 "words": [
 [
-"售货员",
-4,
-"shòu huò yuán",
-"salesperson; CL:個|个[ge4]"
-],
-[
-"销售",
-5,
-"xiāo shòu",
-"to sell; to market; sales (representative, agreement etc)"
-]
-],
-"extraWords": [
-[
 "出售",
-42.66,
+4,
 "chū shòu",
 "to sell; to offer for sale; to put on the market"
 ],
 [
+"售货员",
+4,
+"shòu huò yuán",
+"salesperson; CL:个[gè]"
+],
+[
+"销售",
+4,
+"xiāo shòu",
+"to sell; to market; sales (representative, agreement etc)"
+],
+[
+"兜售",
+7,
+"dōu shòu",
+"to hawk; to peddle"
+],
+[
+"零售",
+7,
+"líng shòu",
+"to retail; to sell individually or in small quantities"
+],
+[
 "售价",
-38.62,
+7,
 "shòu jià",
 "selling price"
 ],
 [
-"零售",
-35.2,
-"líng shòu",
-"to retail; to sell individually or in small quantities"
+"售票",
+7,
+"shòu piào",
+"to sell tickets"
+],
+[
+"预售",
+7,
+"yù shòu",
+"advance sale; to sell in advance; to book"
+]
+],
+"extraWords": [
+[
+"售",
+57.29,
+"shòu",
+"to sell; to make or carry out (a plan or intrigue etc)"
 ],
 [
 "销售额",
 17.2,
 "xiāo shòu é",
 "sales figure; total income from sales; turnover"
-],
-[
-"预售",
-11.64,
-"yù shòu",
-"advance sale; to sell in advance; to book"
 ],
 [
 "发售",
@@ -63,16 +81,22 @@
 "after-sales service"
 ],
 [
-"售票",
-9.02,
-"shòu piào",
-"to sell tickets"
+"售出",
+9.07,
+"???",
+"???"
 ],
 [
 "配售",
 8.69,
 "pèi shòu",
 "to ration merchandise (esp. food in times of shortages)"
+],
+[
+"销售量",
+6.91,
+"???",
+"???"
 ],
 [
 "零售商",
@@ -85,6 +109,12 @@
 5.37,
 "pāo shòu",
 "to dump (selling abroad more cheaply than cost price at home)"
+],
+[
+"零售业",
+5.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

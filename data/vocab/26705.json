@@ -1,24 +1,42 @@
 {
 "char": "桑",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "mulberry tree; surname",
 "pron": "sāng"
 },
 "words": [
 [
-"饱经沧桑",
-6,
-"bǎo jīng cāng sāng",
-"having lived through many changes"
+"沧桑",
+7,
+"cāng sāng",
+"great changes; ups and downs; vicissitudes; abbr. of 沧海桑田[cāng hǎi sāng tián]"
+],
+[
+"桑拿",
+7,
+"sāng ná",
+"sauna (loanword)"
 ]
 ],
 "extraWords": [
 [
-"沧桑",
-6.78,
-"cāng sāng",
-"great changes; ups and downs; vicissitudes; abbr. of 滄海桑田|沧海桑田[cang1 hai3 sang1 tian2]"
+"桑",
+26.98,
+"Sāng",
+"surname Sang"
+],
+[
+"桑",
+26.98,
+"sāng",
+"mulberry tree"
+],
+[
+"桑",
+26.98,
+"sāng",
+"old variant of 桑[sāng]"
 ]
 ],
 "strokes": [

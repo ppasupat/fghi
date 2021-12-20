@@ -1,6 +1,6 @@
 {
 "char": "敢",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "to dare, venture; bold, brave",
 "pron": "gǎn"
@@ -8,7 +8,7 @@
 "words": [
 [
 "敢",
-4,
+3,
 "gǎn",
 "to dare; daring; (polite) may I venture"
 ],
@@ -20,23 +20,35 @@
 ],
 [
 "不敢当",
-6,
+5,
 "bù gǎn dāng",
 "lit. I dare not (accept the honor); fig. I don't deserve your praise; you flatter me"
-]
 ],
-"extraWords": [
 [
 "敢于",
-16.05,
+6,
 "gǎn yú",
 "to have the courage to do sth; to dare to; bold in"
 ],
 [
+"敢情",
+7,
+"gǎn qing",
+"actually; as it turns out; indeed; of course"
+],
+[
 "竟敢",
-5.34,
+7,
 "jìng gǎn",
 "to have the impertinence; to have the cheek to"
+]
+],
+"extraWords": [
+[
+"不敢",
+108.47,
+"???",
+"???"
 ]
 ],
 "strokes": [

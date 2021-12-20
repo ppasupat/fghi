@@ -1,6 +1,6 @@
 {
 "char": "铅",
-"level": 2,
+"level": "6",
 "info": {
 "gloss": "lead",
 "pron": "qiān, yán"
@@ -8,9 +8,21 @@
 "words": [
 [
 "铅笔",
-2,
+6,
 "qiān bǐ",
-"(lead) pencil; CL:支[zhi1],枝[zhi1],桿|杆[gan3]"
+"(lead) pencil; CL:支[zhī],枝[zhī],杆[gǎn]"
+],
+[
+"铅",
+7,
+"qiān",
+"old variant of 铅[qiān]"
+],
+[
+"铅",
+7,
+"qiān",
+"lead (chemistry)"
 ]
 ],
 "extraWords": [],

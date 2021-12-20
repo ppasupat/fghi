@@ -1,6 +1,6 @@
 {
 "char": "更",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "more, still further, much more; to change, alter",
 "pron": "gēng, gèng"
@@ -8,47 +8,77 @@
 "words": [
 [
 "更",
-3,
+2,
 "gēng",
 "to change or replace; to experience; one of the five two-hour periods into which the night was formerly divided; watch (e.g. of a sentry or guard)"
 ],
 [
 "更",
-3,
+2,
 "gèng",
 "more; even more; further; still; still more"
 ],
 [
+"更加",
+3,
+"gèng jiā",
+"more (than sth else); even more"
+],
+[
+"更换",
+5,
+"gēng huàn",
+"to replace (a worn-out tire etc); to change (one's address etc)"
+],
+[
 "更新",
-6,
+5,
 "gēng xīn",
 "to replace the old with new; to renew; to renovate; to upgrade; to update; to regenerate"
 ],
 [
-"更正",
+"变更",
 6,
-"gēng zhèng",
-"to correct; to make a correction"
+"biàn gēng",
+"to change; to alter; to modify"
+],
+[
+"更是",
+6,
+"gèng shì",
+"even more (so)"
+],
+[
+"更改",
+7,
+"gēng gǎi",
+"to alter"
+],
+[
+"更衣室",
+7,
+"gēng yī shì",
+"change room; dressing room; locker room; toilet"
 ],
 [
 "自力更生",
-6,
+7,
 "zì lì gēng shēng",
 "regeneration through one's own effort (idiom); self-reliance"
 ]
 ],
 "extraWords": [
 [
-"更加",
-162.42,
-"gèng jiā",
-"more (than sth else); even more"
+"更多",
+241.08,
+"???",
+"???"
 ],
 [
-"更是",
-103.55,
-"gèng shì",
-"even more (so)"
+"更好",
+93.26,
+"???",
+"???"
 ],
 [
 "更为",
@@ -57,28 +87,10 @@
 "even more"
 ],
 [
-"更换",
-23.65,
-"gēng huàn",
-"to replace (a worn-out tire etc); to change (one's address etc)"
-],
-[
-"变更",
-18.66,
-"biàn gēng",
-"to change; to alter; to modify"
-],
-[
-"更改",
-7.98,
-"gēng gǎi",
-"to alter"
-],
-[
-"更衣室",
-7.01,
-"gēng yī shì",
-"change room; dressing room; locker room; toilet"
+"更何况",
+8.23,
+"???",
+"???"
 ],
 [
 "更深",

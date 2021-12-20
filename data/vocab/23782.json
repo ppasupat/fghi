@@ -1,12 +1,31 @@
 {
 "char": "峦",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "mountain range; pointed mountain",
 "pron": "luán"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"峦",
+1.23,
+"luán",
+"mountain ranges"
+],
+[
+"山峦",
+1.02,
+"shān luán",
+"mountain range; unbroken chain of peaks"
+],
+[
+"峰峦",
+0.45,
+"fēng luán",
+"high mountain range; ridges and peaks"
+]
+],
 "strokes": [
 "M 484 779 Q 511 758 539 732 Q 555 719 572 720 Q 584 721 588 736 Q 592 752 581 785 Q 569 815 476 832 Q 458 835 452 831 Q 446 827 449 813 Q 453 800 484 779 Z",
 "M 591 641 Q 633 647 852 666 Q 864 665 875 678 Q 876 691 852 705 Q 816 726 784 721 Q 532 666 349 652 Q 273 648 187 640 Q 154 639 178 617 Q 214 584 247 591 Q 317 604 400 615 L 430 619 Q 487 629 552 636 L 591 641 Z",

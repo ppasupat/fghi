@@ -1,24 +1,30 @@
 {
 "char": "掘",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "dig, excavate; excavate cave",
 "pron": "jué"
 },
 "words": [
 [
+"发掘",
+7,
+"fā jué",
+"to excavate; to explore; (fig.) to unearth; to tap into"
+],
+[
 "挖掘",
-6,
+7,
 "wā jué",
 "to excavate; to dig; to unearth"
 ]
 ],
 "extraWords": [
 [
-"发掘",
-12.47,
-"fā jué",
-"to excavate; to explore; (fig.) to unearth; to tap into"
+"掘",
+7.66,
+"jué",
+"to dig"
 ]
 ],
 "strokes": [

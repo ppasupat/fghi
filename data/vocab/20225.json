@@ -1,6 +1,6 @@
 {
 "char": "企",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "plan a project; stand on tiptoe",
 "pron": "qǐ"
@@ -8,18 +8,30 @@
 "words": [
 [
 "企业",
-5,
+4,
 "qǐ yè",
-"company; firm; enterprise; corporation; CL:家[jia1]"
+"company; firm; enterprise; corporation; CL:家[jiā]"
 ],
 [
 "企图",
 6,
 "qǐ tú",
-"to attempt; to try; attempt; CL:種|种[zhong3]"
+"to attempt; to try; attempt; CL:种[zhǒng]"
+],
+[
+"外企",
+7,
+"wài qǐ",
+"foreign enterprise; company established in mainland China with direct investment from foreign entities or from investors in Taiwan, Macao or Hong Kong; abbr. for 外資企業|外资企业"
 ]
 ],
 "extraWords": [
+[
+"企",
+40.68,
+"qǐ",
+"to plan a project; to stand on tiptoe; Taiwan pr. [qi4]; abbr. for 企业[qǐ yè]"
+],
 [
 "国有企业",
 30.77,
@@ -45,22 +57,40 @@
 "state enterprise; (Tw) abbr. for 國際企業管理|国际企业管理, international business management (as a subject of study)"
 ],
 [
+"乡镇企业",
+12.74,
+"???",
+"???"
+],
+[
 "企鹅",
 7.33,
 "qǐ é",
 "penguin"
 ],
 [
+"企事业单位",
+6.58,
+"???",
+"???"
+],
+[
 "外资企业",
 6.55,
 "wài zī qǐ yè",
-"abbr. for 外商獨資企業|外商独资企业[wai4 shang1 du2 zi1 qi3 ye4]"
+"abbr. for 外商独资企业[wài shāng dú zī qǐ yè]"
 ],
 [
 "企业集团",
 6.17,
 "qǐ yè jí tuán",
 "business conglomerate"
+],
+[
+"大型企业",
+6.11,
+"???",
+"???"
 ]
 ],
 "strokes": [

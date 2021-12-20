@@ -1,30 +1,48 @@
 {
 "char": "欲",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "desire, want, long for; intend",
 "pron": "yù"
 },
 "words": [
 [
-"欲望",
+"食欲",
 6,
+"shí yù",
+"appetite"
+],
+[
+"随心所欲",
+7,
+"suí xīn suǒ yù",
+"to follow one's heart's desires; to do as one pleases (idiom)"
+],
+[
+"摇摇欲坠",
+7,
+"yáo yáo yù zhuì",
+"tottering; on the verge of collapse"
+],
+[
+"欲望",
+7,
 "yù wàng",
 "desire; longing; appetite; craving"
 ]
 ],
 "extraWords": [
 [
-"食欲",
-8.53,
-"shí yù",
-"appetite"
+"欲",
+55.07,
+"yù",
+"desire; appetite; passion; lust; greed"
 ],
 [
-"随心所欲",
-5.99,
-"suí xīn suǒ yù",
-"to follow one's heart's desires; to do as one pleases (idiom)"
+"欲",
+55.07,
+"yù",
+"to wish for; to desire; variant of 欲[yù]"
 ],
 [
 "性欲",

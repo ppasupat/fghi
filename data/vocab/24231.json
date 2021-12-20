@@ -1,6 +1,6 @@
 {
 "char": "座",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "seat; stand, base",
 "pron": "zuò"
@@ -8,42 +8,60 @@
 "words": [
 [
 "座",
-4,
+2,
 "zuò",
-"seat; base; stand; (archaic) suffix used in a respectful form of address, e.g. 师座|师座[shi1 zuo4]; CL:個|个[ge4]; classifier for buildings, mountains and similar immovable objects"
+"seat; base; stand; (archaic) suffix used in a respectful form of address, e.g. 师座[shī zuò]; CL:个[gè]; classifier for buildings, mountains and similar immovable objects"
 ],
 [
 "座位",
-4,
+2,
 "zuò wèi",
-"seat; CL:個|个[ge4]"
+"seat; CL:个[gè]"
 ],
 [
 "讲座",
-5,
+4,
 "jiǎng zuò",
-"a course of lectures; CL:個|个[ge4]"
+"a course of lectures; CL:个[gè]"
+],
+[
+"让座",
+6,
+"ràng zuò",
+"to give up one's seat for sb"
+],
+[
+"座谈会",
+6,
+"zuò tán huì",
+"conference; symposium; rap session"
+],
+[
+"就座",
+7,
+"jiù zuò",
+"to take a seat"
+],
+[
+"星座",
+7,
+"xīng zuò",
+"constellation; astrological sign; CL:张[zhāng]"
+],
+[
+"座谈",
+7,
+"zuò tán",
+"to have an informal discussion; CL:次[cì],个[gè]"
 ],
 [
 "座右铭",
-6,
+7,
 "zuò yòu míng",
 "motto; maxim"
-],
-[
-"插座",
-6,
-"chā zuò",
-"socket; outlet"
 ]
 ],
 "extraWords": [
-[
-"星座",
-41.68,
-"xīng zuò",
-"constellation; astrological sign; CL:張|张[zhang1]"
-],
 [
 "狮子座",
 29.7,
@@ -93,12 +111,6 @@
 "Libra (constellation and sign of the zodiac)"
 ],
 [
-"座谈会",
-20.39,
-"zuò tán huì",
-"conference; symposium; rap session"
-],
-[
 "摩羯座",
 18.71,
 "Mó jié zuò",
@@ -121,12 +133,6 @@
 7.24,
 "hòu zuò",
 "back seat; pillion"
-],
-[
-"座谈",
-6.83,
-"zuò tán",
-"to have an informal discussion; CL:次[ci4],個|个[ge4]"
 ],
 [
 "在座",

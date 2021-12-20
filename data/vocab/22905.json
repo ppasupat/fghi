@@ -1,6 +1,6 @@
 {
 "char": "她",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "she, her",
 "pron": "tā"
@@ -11,14 +11,20 @@
 1,
 "tā",
 "she"
+],
+[
+"她们",
+1,
+"tā men",
+"they; them (for females)"
 ]
 ],
 "extraWords": [
 [
-"她们",
-265.66,
-"tā men",
-"they; them (for females)"
+"她家",
+4.05,
+"???",
+"???"
 ]
 ],
 "strokes": [

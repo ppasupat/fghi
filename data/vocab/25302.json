@@ -1,25 +1,49 @@
 {
 "char": "拖",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "drag, tow, haul; delay, prolong",
 "pron": "tuō"
 },
 "words": [
 [
-"拖延",
+"拖",
 6,
+"tuō",
+"variant of 拖[tuō]"
+],
+[
+"拖",
+6,
+"tuō",
+"to drag; to tow; to trail; to hang down; to mop (the floor); to delay; to drag on"
+],
+[
+"拖鞋",
+6,
+"tuō xié",
+"slippers; sandals; flip-flops; CL:双[shuāng],只[zhī]"
+],
+[
+"拖累",
+7,
+"tuō lěi",
+"to encumber; to be a burden on; to implicate"
+],
+[
+"拖欠",
+7,
+"tuō qiàn",
+"in arrears; behind in payments; to default on one's debts"
+],
+[
+"拖延",
+7,
 "tuō yán",
 "to delay; to put off; to procrastinate"
 ]
 ],
 "extraWords": [
-[
-"拖欠",
-13.11,
-"tuō qiàn",
-"in arrears; behind in payments; to default on one's debts"
-],
 [
 "拖车",
 11.89,
@@ -27,16 +51,10 @@
 "to tow; towed vehicle; towing vehicle"
 ],
 [
-"拖鞋",
-6.35,
-"tuō xié",
-"slippers; sandals; flip-flops; CL:雙|双[shuang1],隻|只[zhi1]"
-],
-[
 "拖拉机",
 5.83,
 "tuō lā jī",
-"tractor; CL:臺|台[tai2]"
+"tractor; CL:台[tái]"
 ]
 ],
 "strokes": [

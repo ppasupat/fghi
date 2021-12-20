@@ -1,24 +1,29 @@
 {
 "char": "蝴",
-"level": 5,
+"level": "C",
 "info": {
 "gloss": "butterfly",
 "pron": "hú"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "蝴蝶",
-5,
+11.72,
 "hú dié",
-"butterfly; CL:隻|只[zhi1]"
-]
+"butterfly; CL:只[zhī]"
 ],
-"extraWords": [
 [
 "蝴蝶结",
 5.08,
 "hú dié jié",
 "bow; bowknot"
+],
+[
+"蝴蝶兰",
+0.45,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "帖",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "invitation card; notice",
 "pron": "tiē, tiě, tiè"
@@ -8,17 +8,35 @@
 "words": [
 [
 "请帖",
-6,
+7,
 "qǐng tiě",
 "invitation card; written invitation"
+],
+[
+"帖子",
+7,
+"tiě zi",
+"card; invitation; message; (forum) post"
 ]
 ],
 "extraWords": [
 [
-"帖子",
-10.8,
-"tiě zi",
-"card; invitation; message; (forum) post"
+"帖",
+18.14,
+"tiē",
+"fitting snugly; appropriate; suitable; variant of 贴[tiē]; to paste; to obey"
+],
+[
+"帖",
+18.14,
+"tiě",
+"invitation card; notice"
+],
+[
+"帖",
+18.14,
+"tiè",
+"rubbing from incised inscription"
 ]
 ],
 "strokes": [

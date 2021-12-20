@@ -1,6 +1,6 @@
 {
 "char": "逝",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "pass away; die",
 "pron": "shì"
@@ -8,12 +8,18 @@
 "words": [
 [
 "逝世",
-6,
+7,
 "shì shì",
 "to pass away; to die"
 ]
 ],
 "extraWords": [
+[
+"逝",
+11.1,
+"shì",
+"(of time) to pass; to die"
+],
 [
 "流逝",
 5.9,

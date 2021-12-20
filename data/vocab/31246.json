@@ -1,6 +1,6 @@
 {
 "char": "税",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "taxes",
 "pron": "shuì"
@@ -8,47 +8,59 @@
 "words": [
 [
 "税",
-5,
+6,
 "shuì",
 "taxes; duties"
-]
-],
-"extraWords": [
-[
-"税收",
-39.98,
-"shuì shōu",
-"taxation"
-],
-[
-"纳税",
-15.24,
-"nà shuì",
-"to pay taxes"
-],
-[
-"税务",
-13.62,
-"shuì wù",
-"taxation services; state revenue service"
 ],
 [
 "关税",
-13.18,
+7,
 "guān shuì",
 "customs duty; tariff"
 ],
 [
+"纳税",
+7,
+"nà shuì",
+"to pay taxes"
+],
+[
 "纳税人",
-11.64,
+7,
 "nà shuì rén",
 "taxpayer"
+],
+[
+"税收",
+7,
+"shuì shōu",
+"taxation"
+],
+[
+"税务",
+7,
+"shuì wù",
+"taxation services; state revenue service"
+]
+],
+"extraWords": [
+[
+"税率",
+11.84,
+"???",
+"???"
 ],
 [
 "所得税",
 10.08,
 "suǒ dé shuì",
 "income tax"
+],
+[
+"税费",
+7.55,
+"???",
+"???"
 ],
 [
 "增值税",
@@ -73,6 +85,12 @@
 5.7,
 "tuì shuì",
 "tax rebate or refund"
+],
+[
+"利税",
+5.06,
+"???",
+"???"
 ]
 ],
 "strokes": [

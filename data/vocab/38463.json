@@ -1,6 +1,6 @@
 {
 "char": "阿",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "prefix for people's names; used in transliteration",
 "pron": "ā, ē"
@@ -8,12 +8,36 @@
 "words": [
 [
 "阿姨",
-3,
+4,
 "ā yí",
-"maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child); CL:個|个[ge4]"
+"maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child); CL:个[gè]"
+],
+[
+"阿拉伯语",
+7,
+"Ā lā bó yǔ",
+"Arabic (language)"
 ]
 ],
 "extraWords": [
+[
+"阿",
+241.52,
+"Ā",
+"abbr. for Afghanistan 阿富汗[Ā fù hàn]"
+],
+[
+"阿",
+241.52,
+"ā",
+"prefix used before monosyllabic names, kinship terms etc to indicate familiarity; used in transliteration; also pr. [a4]"
+],
+[
+"阿",
+241.52,
+"ē",
+"flatter"
+],
 [
 "迈阿密",
 29.87,
@@ -79,6 +103,12 @@
 6.76,
 "Ā sēn nà",
 "Arsenal Football Club"
+],
+[
+"阿隆索",
+6.68,
+"???",
+"???"
 ],
 [
 "阿弥陀佛",

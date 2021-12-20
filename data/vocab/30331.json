@@ -1,46 +1,52 @@
 {
 "char": "登",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "rise, mount, board, climb",
 "pron": "dēng"
 },
 "words": [
 [
-"登机牌",
+"登",
 4,
-"dēng jī pái",
-"boarding pass"
+"dēng",
+"to scale (a height); to ascend; to mount; to publish or record; to enter (e.g. in a register); to press down with the foot; to step or tread on; to put on (shoes or trousers) (dialect); to be gathered and taken to the threshing ground (old)"
 ],
 [
 "登记",
-5,
+4,
 "dēng jì",
 "to register (one's name)"
 ],
 [
-"登陆",
-6,
-"dēng lù",
-"to land; to come ashore; to make landfall (of typhoon etc); to log in (frequently used erroneous variant of 登錄|登录[deng1 lu4])"
-],
-[
 "登录",
-6,
+4,
 "dēng lù",
 "to register; to log in"
 ],
 [
-"刊登",
-6,
-"kān dēng",
-"to carry a story; to publish (in a newspaper or magazine)"
+"登山",
+4,
+"dēng shān",
+"to climb a mountain; climbing; mountaineering"
 ],
 [
-"攀登",
-6,
-"pān dēng",
-"to climb; to pull oneself up; to clamber; to scale; fig. to forge ahead in the face of hardships and danger"
+"登机",
+7,
+"dēng jī",
+"to board a plane"
+],
+[
+"登陆",
+7,
+"dēng lù",
+"to land; to come ashore; to make landfall (of typhoon etc); to log in (frequently used erroneous variant of 登录[dēng lù])"
+],
+[
+"刊登",
+7,
+"kān dēng",
+"to carry a story; to publish (in a newspaper or magazine)"
 ]
 ],
 "extraWords": [
@@ -57,16 +63,22 @@
 "to go on stage; fig. to appear on the scene; used in advertising to mean new product"
 ],
 [
-"登机",
-7.45,
-"dēng jī",
-"to board a plane"
+"登台",
+8.17,
+"???",
+"???"
 ],
 [
-"登山",
-6.61,
-"dēng shān",
-"to climb a mountain; climbing; mountaineering"
+"戈登",
+6.02,
+"???",
+"???"
+],
+[
+"格列登科",
+5.37,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,14 +1,26 @@
 {
 "char": "冤",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "grievance, injustice, wrong",
 "pron": "yuān"
 },
 "words": [
 [
+"冤",
+7,
+"yuān",
+"injustice; grievance; wrong"
+],
+[
+"冤",
+7,
+"yuān",
+"old variant of 冤[yuān]"
+],
+[
 "冤枉",
-6,
+7,
 "yuān wang",
 "to accuse wrongly; to treat unjustly; injustice; wronged; not worthwhile"
 ]

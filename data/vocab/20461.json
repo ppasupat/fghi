@@ -1,19 +1,32 @@
 {
 "char": "俭",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "temperate, frugal, economical",
 "pron": "jiǎn"
 },
 "words": [
 [
+"节俭",
+7,
+"jié jiǎn",
+"frugal; economical"
+],
+[
+"勤工俭学",
+7,
+"qín gōng jiǎn xué",
+"to work part time while studying; work-study program"
+]
+],
+"extraWords": [
+[
 "勤俭",
-6,
+3.43,
 "qín jiǎn",
 "hardworking and frugal"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 250 512 Q 295 572 343 650 Q 371 701 395 725 Q 405 735 400 750 Q 396 763 366 787 Q 338 806 318 806 Q 299 805 307 781 Q 322 748 309 720 Q 272 626 213 538 Q 156 453 79 360 Q 69 350 66 343 Q 62 331 77 334 Q 116 337 220 474 L 250 512 Z",
 "M 220 474 Q 241 429 242 346 Q 241 337 241 326 Q 241 215 213 103 Q 198 54 235 6 Q 236 3 240 0 Q 259 -16 271 12 Q 286 54 286 102 Q 285 369 294 429 Q 301 457 291 468 Q 273 490 259 504 Q 255 508 250 512 C 228 532 209 502 220 474 Z",

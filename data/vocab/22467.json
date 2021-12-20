@@ -1,12 +1,24 @@
 {
 "char": "埃",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "fine dust, dirt",
 "pron": "āi"
 },
 "words": [],
 "extraWords": [
+[
+"埃",
+43.96,
+"Āi",
+"abbr. for Egypt 埃及[Āi jí]"
+],
+[
+"埃",
+43.96,
+"āi",
+"dust; dirt; angstrom; phonetic ai or e"
+],
 [
 "埃及",
 17.84,
@@ -18,6 +30,12 @@
 9.12,
 "Āi wén",
 "Evan; Avon; Ivan"
+],
+[
+"埃迪",
+8.82,
+"???",
+"???"
 ]
 ],
 "strokes": [

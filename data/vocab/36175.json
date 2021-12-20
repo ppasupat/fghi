@@ -1,11 +1,23 @@
 {
 "char": "赏",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "reward, grant, bestow; appreciate",
 "pron": "shǎng"
 },
 "words": [
+[
+"赏",
+4,
+"shǎng",
+"to bestow (a reward); to give (to an inferior); to hand down; a reward (bestowed by a superior); to appreciate (beauty)"
+],
+[
+"赞赏",
+4,
+"zàn shǎng",
+"to admire; to praise; to appreciate"
+],
 [
 "欣赏",
 5,
@@ -13,24 +25,30 @@
 "to appreciate; to enjoy; to admire"
 ],
 [
-"奖赏",
-6,
-"jiǎng shǎng",
-"reward; prize; award"
-]
-],
-"extraWords": [
-[
 "观赏",
-9.93,
+7,
 "guān shǎng",
 "to look at sth with pleasure; to watch (sth marvelous); ornamental"
 ],
 [
-"赞赏",
-9.15,
-"zàn shǎng",
-"to admire; to praise; to appreciate"
+"鉴赏",
+7,
+"jiàn shǎng",
+"to appreciate (as a connoisseur)"
+]
+],
+"extraWords": [
+[
+"赏金",
+6.74,
+"???",
+"???"
+],
+[
+"奖赏",
+6.2,
+"jiǎng shǎng",
+"reward; prize; award"
 ]
 ],
 "strokes": [

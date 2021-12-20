@@ -1,17 +1,30 @@
 {
 "char": "缤",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "flourishing, thriving, abundant",
 "pron": "bīn"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "缤纷",
-5.46,
+7,
 "bīn fēn",
 "vast and various; rich and diverse"
+]
+],
+"extraWords": [
+[
+"五彩缤纷",
+1.63,
+"wǔ cǎi bīn fēn",
+"all the colors in profusion (idiom); a garish display"
+],
+[
+"缤",
+1.06,
+"bīn",
+"helter-skelter; mixed colors; in confusion"
 ]
 ],
 "strokes": [

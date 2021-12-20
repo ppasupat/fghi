@@ -1,11 +1,17 @@
 {
 "char": "免",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "spare; excuse from; evade",
 "pron": "miǎn"
 },
 "words": [
+[
+"避免",
+4,
+"bì miǎn",
+"to avert; to prevent; to avoid; to refrain from"
+],
 [
 "免费",
 4,
@@ -13,16 +19,16 @@
 "free (of charge)"
 ],
 [
-"避免",
-5,
-"bì miǎn",
-"to avert; to prevent; to avoid; to refrain from"
-],
-[
 "难免",
-5,
+4,
 "nán miǎn",
 "hard to avoid; difficult to escape from; will inevitably"
+],
+[
+"不免",
+5,
+"bù miǎn",
+"inevitably"
 ],
 [
 "免得",
@@ -31,28 +37,76 @@
 "so as not to; so as to avoid"
 ],
 [
+"罢免",
+7,
+"bà miǎn",
+"to remove sb from their post; to dismiss"
+],
+[
+"不可避免",
+7,
+"bù kě bì miǎn",
+"unavoidably"
+],
+[
+"减免",
+7,
+"jiǎn miǎn",
+"to reduce or waive (taxes, punishment, rent, tuition etc)"
+],
+[
+"免",
+7,
+"miǎn",
+"to excuse sb; to exempt; to remove or dismiss from office; to avoid; to avert; to escape; to be prohibited"
+],
+[
+"免",
+7,
+"wèn",
+"old variant of 絻[wèn]"
+],
+[
+"免不了",
+7,
+"miǎn bù liǎo",
+"unavoidable; can't be avoided"
+],
+[
+"免除",
+7,
+"miǎn chú",
+"to prevent; to avoid; to excuse; to exempt; to relieve; (of a debt) to remit"
+],
+[
 "免疫",
-6,
+7,
 "miǎn yì",
 "immunity (to disease)"
 ],
 [
-"以免",
-6,
-"yǐ miǎn",
-"in order to avoid; so as not to"
+"免职",
+7,
+"miǎn zhí",
+"to relieve sb of his post; to sack; to demote; dismissal; sacking"
 ],
 [
 "未免",
-6,
+7,
 "wèi miǎn",
 "unavoidably; can't help; really; rather"
 ],
 [
-"不免",
-6,
-"bù miǎn",
-"inevitably"
+"幸免",
+7,
+"xìng miǎn",
+"to avoid (an unpleasant fate)"
+],
+[
+"以免",
+7,
+"yǐ miǎn",
+"in order to avoid; so as not to"
 ]
 ],
 "extraWords": [
@@ -69,18 +123,6 @@
 "immunity from prosecution"
 ],
 [
-"不可避免",
-10.9,
-"bù kě bì miǎn",
-"unavoidably"
-],
-[
-"减免",
-8.18,
-"jiǎn miǎn",
-"to reduce or waive (taxes, punishment, rent, tuition etc)"
-],
-[
 "赦免",
 7.63,
 "shè miǎn",
@@ -91,12 +133,6 @@
 6.3,
 "miǎn yì lì",
 "immunity"
-],
-[
-"免除",
-5.51,
-"miǎn chú",
-"to prevent; to avoid; to excuse; to exempt; to relieve; (of a debt) to remit"
 ]
 ],
 "strokes": [

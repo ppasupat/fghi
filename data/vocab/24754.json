@@ -1,16 +1,22 @@
 {
 "char": "悲",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "sorrow, grief; sorry, sad",
 "pron": "bēi"
 },
 "words": [
 [
-"悲观",
+"悲剧",
 5,
-"bēi guān",
-"pessimistic"
+"bēi jù",
+"tragedy; CL:出[chū]"
+],
+[
+"悲伤",
+5,
+"bēi shāng",
+"sad; sorrowful"
 ],
 [
 "悲惨",
@@ -20,35 +26,41 @@
 ],
 [
 "悲哀",
-6,
+7,
 "bēi āi",
 "grieved; sorrowful"
+],
+[
+"悲观",
+7,
+"bēi guān",
+"pessimistic"
+],
+[
+"悲欢离合",
+7,
+"bēi huān lí hé",
+"joys and sorrows; partings and reunions; the vicissitudes of life"
+],
+[
+"悲痛",
+7,
+"bēi tòng",
+"grieved; sorrowful"
+],
+[
+"可悲",
+7,
+"kě bēi",
+"lamentable"
 ]
 ],
 "extraWords": [
 [
-"悲伤",
-29.0,
-"bēi shāng",
-"sad; sorrowful"
-],
-[
-"悲剧",
-28.12,
-"bēi jù",
-"tragedy; CL:齣|出[chu1]"
-],
-[
-"可悲",
-19.44,
-"kě bēi",
-"lamentable"
-],
-[
-"悲痛",
-6.71,
-"bēi tòng",
-"grieved; sorrowful"
+"悲",
+30.52,
+"bēi",
+"sad; sadness; sorrow; grief"
 ]
 ],
 "strokes": [

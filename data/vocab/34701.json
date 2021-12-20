@@ -1,17 +1,11 @@
 {
 "char": "融",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "melt, fuse; blend, harmonize",
 "pron": "róng"
 },
 "words": [
-[
-"融化",
-6,
-"róng huà",
-"to melt; to thaw; to dissolve; to blend into; to combine; to fuse"
-],
 [
 "金融",
 6,
@@ -19,8 +13,38 @@
 "banking; finance; financial"
 ],
 [
-"融洽",
+"融合",
 6,
+"róng hé",
+"a mixture; an amalgam; fusion; welding together; to be in harmony with (nature); to harmonize with; to fit in"
+],
+[
+"融入",
+6,
+"róng rù",
+"to blend into; to integrate; to assimilate; to merge"
+],
+[
+"融",
+7,
+"róng",
+"to melt; to thaw; to blend; to merge; to be in harmony"
+],
+[
+"融",
+7,
+"róng",
+"old variant of 融[róng]"
+],
+[
+"融化",
+7,
+"róng huà",
+"to melt; to thaw; to dissolve; to blend into; to combine; to fuse"
+],
+[
+"融洽",
+7,
 "róng qià",
 "harmonious; friendly relations; on good terms with one another"
 ]
@@ -31,18 +55,6 @@
 47.15,
 "róng zī",
 "financing"
-],
-[
-"融合",
-27.9,
-"róng hé",
-"a mixture; an amalgam; fusion; welding together; to be in harmony with (nature); to harmonize with; to fit in"
-],
-[
-"融入",
-11.8,
-"róng rù",
-"to blend into; to integrate; to assimilate; to merge"
 ],
 [
 "金融市场",

@@ -1,23 +1,30 @@
 {
 "char": "祷",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "pray; entreat, beg, plead; prayer",
 "pron": "dǎo"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "祈祷",
-57.98,
+7,
 "qí dǎo",
 "to pray; to say one's prayers; prayer"
+]
 ],
+"extraWords": [
 [
 "祷告",
 12.85,
 "dǎo gào",
 "to pray; prayer"
+],
+[
+"祷",
+2.37,
+"dǎo",
+"prayer; pray; supplication"
 ]
 ],
 "strokes": [

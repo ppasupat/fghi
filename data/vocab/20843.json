@@ -1,6 +1,6 @@
 {
 "char": "八",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "eight; all around, all sides",
 "pron": "bā"
@@ -11,6 +11,42 @@
 1,
 "bā",
 "eight; 8"
+],
+[
+"八卦",
+7,
+"bā guà",
+"the eight divinatory trigrams of the Book of Changes 易经[Yì jīng]; gossip; gossipy"
+],
+[
+"横七竖八",
+7,
+"héng qī shù bā",
+"in disorder; at sixes and sevens (idiom)"
+],
+[
+"乱七八糟",
+7,
+"luàn qī bā zāo",
+"everything in disorder (idiom); in a hideous mess; at sixes and sevens"
+],
+[
+"七嘴八舌",
+7,
+"qī zuǐ bā shé",
+"lively discussion with everybody talking at once"
+],
+[
+"四面八方",
+7,
+"sì miàn bā fāng",
+"in all directions; all around; far and near"
+],
+[
+"五花八门",
+7,
+"wǔ huā bā mén",
+"myriad; all kinds of; all sorts of"
 ]
 ],
 "extraWords": [
@@ -27,10 +63,10 @@
 "to talk rubbish"
 ],
 [
-"八卦",
-13.95,
-"bā guà",
-"the eight divinatory trigrams of the Book of Changes 易經|易经[Yi4 jing1]; gossip; gossipy"
+"第八",
+12.73,
+"???",
+"???"
 ],
 [
 "八月",
@@ -39,10 +75,16 @@
 "August; eighth month (of the lunar year)"
 ],
 [
-"乱七八糟",
-11.27,
-"luàn qī bā zāo",
-"everything in disorder (idiom); in a hideous mess; at sixes and sevens"
+"八点",
+9.57,
+"???",
+"???"
+],
+[
+"第八名",
+6.81,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,126 +1,198 @@
 {
 "char": "如",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "if, supposing; as if; like, as",
 "pron": "rú"
 },
 "words": [
 [
-"如果",
-3,
-"rú guǒ",
-"if; in case; in the event that"
-],
-[
 "比如",
-4,
+2,
 "bǐ rú",
 "for example; for instance; such as"
 ],
 [
+"比如说",
+2,
+"bǐ rú shuō",
+"for example"
+],
+[
+"不如",
+2,
+"bù rú",
+"not equal to; not as good as; inferior to; it would be better to"
+],
+[
 "例如",
-4,
+2,
 "lì rú",
 "for example; for instance; such as"
 ],
 [
+"如果",
+2,
+"rú guǒ",
+"if; in case; in the event that"
+],
+[
 "如何",
-5,
+3,
 "rú hé",
 "how; what way; what"
 ],
 [
 "假如",
-5,
+4,
 "jiǎ rú",
 "if"
 ],
 [
 "如今",
-5,
+4,
 "rú jīn",
 "nowadays; now"
 ],
 [
-"不如",
+"如此",
 5,
-"bù rú",
-"not equal to; not as good as; inferior to; it would be better to"
+"rú cǐ",
+"in this way; so"
+],
+[
+"如同",
+5,
+"rú tóng",
+"like; as"
+],
+[
+"如下",
+5,
+"rú xià",
+"as follows"
+],
+[
+"正如",
+5,
+"zhèng rú",
+"just as; precisely as"
+],
+[
+"如",
+6,
+"rú",
+"as; as if; such as"
+],
+[
+"如一",
+6,
+"rú yī",
+"consistent; the same; unvarying"
+],
+[
+"不如说",
+7,
+"???",
+"???"
+],
+[
+"譬如",
+7,
+"pì rú",
+"for example; for instance; such as"
+],
+[
+"譬如说",
+7,
+"pì rú shuō",
+"for example"
+],
+[
+"恰如其分",
+7,
+"qià rú qí fèn",
+"(idiom) appropriate; apt; just right"
+],
+[
+"如果说",
+7,
+"rú guǒ shuō",
+"if; if one were to say"
+],
+[
+"如实",
+7,
+"rú shí",
+"as things really are; realistic"
+],
+[
+"如意",
+7,
+"rú yì",
+"as one wants; according to one's wishes; ruyi scepter, a symbol of power and good fortune"
+],
+[
+"如愿以偿",
+7,
+"rú yuàn yǐ cháng",
+"to have one's wish fulfilled"
+],
+[
+"如醉如痴",
+7,
+"rú zuì rú chī",
+"lit. as if drunk and stupefied (idiom); intoxicated by sth; obsessed with; mad about sth; also written 如痴如醉[rú chī rú zuì]"
+],
+[
+"突如其来",
+7,
+"tū rú qí lái",
+"to arise abruptly; to arrive suddenly; happening suddenly"
+],
+[
+"无论如何",
+7,
+"wú lùn rú hé",
+"whatever the case; in any event; no matter what; by all possible means"
+],
+[
+"心急如焚",
+7,
+"xīn jí rú fén",
+"to burn with impatience; torn with anxiety"
 ],
 [
 "一如既往",
-6,
+7,
 "yī rú jì wǎng",
 "just as in the past (idiom); as before; continuing as always"
 ],
 [
 "犹如",
-6,
+7,
 "yóu rú",
 "similar to; appearing to be"
 ],
 [
-"譬如",
-6,
-"pì rú",
-"for example; for instance; such as"
+"诸如此类",
+7,
+"zhū rú cǐ lèi",
+"things like this (idiom); and so on; and the rest; etc"
 ],
 [
-"称心如意",
-6,
-"chèn xīn rú yì",
-"after one's heart (idiom); gratifying and satisfactory; everything one could wish"
+"自如",
+7,
+"zì rú",
+"unobstructed; unconstrained; smoothly; with ease; freely"
 ]
 ],
 "extraWords": [
-[
-"如此",
-247.57,
-"rú cǐ",
-"in this way; so"
-],
-[
-"如下",
-55.71,
-"rú xià",
-"as follows"
-],
-[
-"无论如何",
-35.18,
-"wú lùn rú hé",
-"whatever the case; in any event; no matter what; by all possible means"
-],
-[
-"如同",
-30.67,
-"rú tóng",
-"like; as"
-],
-[
-"比如说",
-24.68,
-"bǐ rú shuō",
-"for example"
-],
-[
-"正如",
-22.17,
-"zhèng rú",
-"just as; precisely as"
-],
 [
 "诸如",
 12.84,
 "zhū rú",
 "(various things) such as; such as (the following)"
-],
-[
-"如意",
-7.32,
-"rú yì",
-"as one wants; according to one's wishes; ruyi scepter, a symbol of power and good fortune"
 ],
 [
 "如期",
@@ -129,34 +201,22 @@
 "as scheduled; on time; punctual"
 ],
 [
-"如一",
-6.71,
-"rú yī",
-"consistent; the same; unvarying"
-],
-[
 "有如",
 6.47,
 "yǒu rú",
 "to be like sth; similar to; alike"
 ],
 [
-"自如",
-6.07,
-"zì rú",
-"unobstructed; unconstrained; smoothly; with ease; freely"
+"并非如此",
+5.96,
+"???",
+"???"
 ],
 [
 "如是",
 5.64,
 "rú shì",
 "thus"
-],
-[
-"如实",
-5.12,
-"rú shí",
-"as things really are; realistic"
 ],
 [
 "如愿",

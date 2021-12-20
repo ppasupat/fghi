@@ -1,6 +1,6 @@
 {
 "char": "脚",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "leg, foot; base, leg, foundation",
 "pron": "jiǎo"
@@ -8,30 +8,42 @@
 "words": [
 [
 "脚",
-3,
+2,
 "jiǎo",
-"foot; leg (of an animal or an object); base (of an object); CL:雙|双[shuang1],隻|只[zhi1]; classifier for kicks"
+"foot; leg (of an animal or an object); base (of an object); CL:双[shuāng],只[zhī]; classifier for kicks"
 ],
 [
 "脚",
-3,
+2,
 "jué",
-"variant of 角[jue2]; role"
-]
+"variant of 角[jué]; role"
 ],
-"extraWords": [
 [
 "脚步",
-23.05,
+5,
 "jiǎo bù",
 "footstep; step"
 ],
 [
-"手脚",
-11.24,
-"shǒu jiǎo",
-"hand and foot; movement of limbs; action; trick; step in a procedure (CL:道[dao4])"
+"脚印",
+6,
+"jiǎo yìn",
+"footprint"
 ],
+[
+"手脚",
+7,
+"shǒu jiǎo",
+"hand and foot; movement of limbs; action; trick; step in a procedure (CL:道[dào])"
+],
+[
+"指手画脚",
+7,
+"zhǐ shǒu huà jiǎo",
+"to gesticulate while talking (idiom); to explain by waving one's hands; to criticize or give orders summarily"
+]
+],
+"extraWords": [
 [
 "脚趾",
 9.48,
@@ -51,16 +63,28 @@
 "under the foot"
 ],
 [
-"脚印",
-7.18,
-"jiǎo yìn",
-"footprint"
-],
-[
 "双脚",
 6.31,
 "shuāng jiǎo",
 "two legs; both feet"
+],
+[
+"国脚",
+6.05,
+"???",
+"???"
+],
+[
+"左脚",
+6.0,
+"???",
+"???"
+],
+[
+"右脚",
+5.75,
+"???",
+"???"
 ],
 [
 "蹩脚",

@@ -1,6 +1,6 @@
 {
 "char": "惕",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "be cautious, careful, alert",
 "pron": "tì"
@@ -8,12 +8,25 @@
 "words": [
 [
 "警惕",
-6,
+7,
 "jǐng tì",
 "to be on the alert; vigilant; alert; on guard; to warn"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"警惕性",
+1.38,
+"jǐng tì xìng",
+"vigilance; alertness"
+],
+[
+"保持警惕",
+0.84,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 139 539 Q 123 472 95 409 Q 79 372 102 340 Q 112 322 133 338 Q 184 393 174 484 Q 175 518 163 543 Q 157 550 151 551 Q 142 548 139 539 Z",
 "M 297 581 Q 304 574 321 562 Q 346 541 374 517 Q 387 507 400 508 Q 409 509 413 520 Q 417 533 408 559 Q 395 587 315 603 Q 302 604 297 603 C 276 601 276 601 297 581 Z",

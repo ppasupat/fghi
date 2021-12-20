@@ -1,20 +1,14 @@
 {
 "char": "茫",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "vast, boundless, widespread",
 "pron": "máng"
 },
 "words": [
 [
-"茫茫",
-6,
-"máng máng",
-"boundless; vast and obscure"
-],
-[
 "茫然",
-6,
+7,
 "máng rán",
 "blankly; vacantly; at a loss"
 ]
@@ -25,6 +19,12 @@
 9.14,
 "mí máng",
 "vast and indistinct; perplexed; bewildered; at a loss"
+],
+[
+"茫茫",
+7.15,
+"máng máng",
+"boundless; vast and obscure"
 ]
 ],
 "strokes": [

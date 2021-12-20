@@ -1,118 +1,178 @@
 {
 "char": "文",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "literature, culture, writing",
 "pron": "wén"
 },
 "words": [
 [
-"文化",
-3,
-"wén huà",
-"culture; civilization; cultural; CL:個|个[ge4],種|种[zhong3]"
+"课文",
+1,
+"kè wén",
+"text; CL:篇[piān]"
 ],
 [
 "中文",
-3,
+1,
 "Zhōng wén",
 "Chinese language"
 ],
 [
-"文章",
-4,
-"wén zhāng",
-"article; essay; literary works; writings; hidden meaning; CL:篇[pian1],段[duan4],頁|页[ye4]"
-],
-[
-"文件",
-5,
-"wén jiàn",
-"document; file; CL:份[fen4]"
-],
-[
-"论文",
-5,
-"lùn wén",
-"paper; treatise; thesis; CL:篇[pian1]; to discuss a paper or thesis (old)"
-],
-[
-"文明",
-5,
-"wén míng",
-"civilized; civilization; culture; CL:個|个[ge4]"
-],
-[
-"文字",
-5,
-"wén zì",
-"character; script; writing; written language; writing style; phraseology; CL:個|个[ge4]"
-],
-[
-"文学",
-5,
-"wén xué",
-"literature; CL:種|种[zhong3]"
+"英文",
+2,
+"Yīng wén",
+"English (language)"
 ],
 [
 "作文",
-5,
+2,
 "zuò wén",
-"to write an essay; composition (student essay); CL:篇[pian1]"
+"to write an essay; composition (student essay); CL:篇[piān]"
 ],
 [
-"文具",
-5,
-"wén jù",
-"stationery; item of stationery (pen, pencil, eraser, pencil sharpener etc)"
+"外文",
+3,
+"wài wén",
+"foreign language (written)"
 ],
 [
-"文物",
-6,
-"wén wù",
-"cultural relic; historical relic; CL:件[jian4],個|个[ge4]"
+"文化",
+3,
+"wén huà",
+"culture; civilization; cultural; CL:个[gè],种[zhǒng]"
 ],
 [
-"文凭",
-6,
-"wén píng",
-"diploma"
+"文件",
+3,
+"wén jiàn",
+"document; file; CL:份[fèn]"
 ],
 [
-"文雅",
-6,
-"wén yǎ",
-"elegant; refined"
+"文明",
+3,
+"wén míng",
+"civilized; civilization; culture; CL:个[gè]"
 ],
 [
-"斯文",
-6,
-"sī wén",
-"refined; educate; cultured; intellectual; polite; gentle"
+"文学",
+3,
+"wén xué",
+"literature; CL:种[zhǒng]"
 ],
 [
-"文献",
-6,
-"wén xiàn",
-"document"
+"文章",
+3,
+"wén zhāng",
+"article; essay; literary works; writings; hidden meaning; CL:篇[piān],段[duàn],页[yè]"
+],
+[
+"文字",
+3,
+"wén zì",
+"character; script; writing; written language; writing style; phraseology; CL:个[gè]"
+],
+[
+"论文",
+4,
+"lùn wén",
+"paper; treatise; thesis; CL:篇[piān]; to discuss a paper or thesis (old)"
 ],
 [
 "散文",
-6,
+5,
 "sǎn wén",
 "prose; essay"
 ],
 [
 "天文",
-6,
+5,
 "tiān wén",
 "astronomy"
 ],
 [
 "文艺",
-6,
+5,
 "wén yì",
 "literature and art"
+],
+[
+"文娱",
+6,
+"wén yú",
+"cultural recreation; entertainment"
+],
+[
+"全文",
+7,
+"quán wén",
+"entire text; full text"
+],
+[
+"人文",
+7,
+"rén wén",
+"humanities; human affairs; culture"
+],
+[
+"文",
+7,
+"Wén",
+"surname Wen"
+],
+[
+"文",
+7,
+"wén",
+"language; culture; writing; formal; literary; gentle; (old) classifier for coins; Kangxi radical 67"
+],
+[
+"文具",
+7,
+"wén jù",
+"stationery; item of stationery (pen, pencil, eraser, pencil sharpener etc)"
+],
+[
+"文科",
+7,
+"wén kē",
+"liberal arts; humanities"
+],
+[
+"文盲",
+7,
+"wén máng",
+"illiterate"
+],
+[
+"文凭",
+7,
+"wén píng",
+"diploma"
+],
+[
+"文人",
+7,
+"wén rén",
+"scholar; literati"
+],
+[
+"文物",
+7,
+"wén wù",
+"cultural relic; historical relic; CL:件[jiàn],个[gè]"
+],
+[
+"文献",
+7,
+"wén xiàn",
+"document"
+],
+[
+"文雅",
+7,
+"wén yǎ",
+"elegant; refined"
 ]
 ],
 "extraWords": [
@@ -141,12 +201,6 @@
 "literature and language; (PRC) Chinese (as a school subject)"
 ],
 [
-"人文",
-23.43,
-"rén wén",
-"humanities; human affairs; culture"
-],
-[
 "凯文",
 20.15,
 "Kǎi wén",
@@ -165,18 +219,6 @@
 "Cultural Revolution (1966-1976)"
 ],
 [
-"英文",
-10.58,
-"Yīng wén",
-"English (language)"
-],
-[
-"全文",
-9.93,
-"quán wén",
-"entire text; full text"
-],
-[
 "埃文",
 9.12,
 "Āi wén",
@@ -192,7 +234,7 @@
 "文革",
 8.23,
 "Wén gé",
-"Cultural Revolution (1966-76) (abbr. for 文化大革命[Wen2 hua4 Da4 ge2 ming4])"
+"Cultural Revolution (1966-76) (abbr. for 文化大革命[Wén huà Dà gé mìng])"
 ],
 [
 "欧文",
@@ -219,10 +261,10 @@
 "to write an article"
 ],
 [
-"文科",
-5.83,
-"wén kē",
-"liberal arts; humanities"
+"文华",
+5.85,
+"???",
+"???"
 ],
 [
 "文档",
@@ -235,18 +277,6 @@
 5.39,
 "Yóu wén tú sī",
 "Juventus, Italian football team"
-],
-[
-"文人",
-5.22,
-"wén rén",
-"scholar; literati"
-],
-[
-"课文",
-5.21,
-"kè wén",
-"text; CL:篇[pian1]"
 ]
 ],
 "strokes": [

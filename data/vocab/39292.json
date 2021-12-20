@@ -1,16 +1,28 @@
 {
 "char": "饼",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "rice-cakes, biscuits",
 "pron": "bǐng"
 },
 "words": [
 [
+"饼",
+5,
+"bǐng",
+"round flat cake; cookie; cake; pastry; CL:张[zhāng]"
+],
+[
 "饼干",
-4,
+5,
 "bǐng gān",
-"biscuit; cracker; cookie; CL:片[pian4],塊|块[kuai4]"
+"biscuit; cracker; cookie; CL:片[piàn],块[kuài]"
+],
+[
+"月饼",
+5,
+"yuè bǐng",
+"mooncake (esp. for the Mid-Autumn Festival)"
 ]
 ],
 "extraWords": [
@@ -21,16 +33,10 @@
 "meat pie; pie; pasty"
 ],
 [
-"月饼",
-10.39,
-"yuè bǐng",
-"mooncake (esp. for the Mid-Autumn Festival)"
-],
-[
 "煎饼",
 8.88,
 "jiān bǐng",
-"jianbing, a savory Chinese crêpe; pancake; CL:張|张[zhang1]"
+"jianbing, a savory Chinese crêpe; pancake; CL:张[zhāng]"
 ],
 [
 "薄饼",

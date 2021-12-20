@@ -1,6 +1,6 @@
 {
 "char": "私",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "private, personal; secret",
 "pron": "sī"
@@ -11,12 +11,6 @@
 5,
 "sī rén",
 "private; personal; interpersonal; sb with whom one has a close personal relationship; a member of one's clique"
-],
-[
-"自私",
-5,
-"zì sī",
-"selfish; selfishness"
 ],
 [
 "隐私",
@@ -31,42 +25,90 @@
 "to smuggle; to have an illicit affair"
 ],
 [
-"私自",
-6,
-"sī zì",
-"private; personal; secretly; without explicit approval"
-]
+"大公无私",
+7,
+"dà gōng wú sī",
+"selfless; impartial"
 ],
-"extraWords": [
+[
+"私房钱",
+7,
+"sī fáng qián",
+"secret purse; secret stash of money"
+],
+[
+"私家车",
+7,
+"sī jiā chē",
+"private car"
+],
+[
+"私立",
+7,
+"sī lì",
+"private (company, school etc)"
+],
+[
+"私事",
+7,
+"sī shì",
+"personal matters"
+],
+[
+"私下",
+7,
+"sī xià",
+"in private"
+],
 [
 "私营",
-17.19,
+7,
 "sī yíng",
 "privately-owned; private"
 ],
 [
-"私下",
-16.25,
-"sī xià",
-"in private"
+"私有",
+7,
+"sī yǒu",
+"private; privately-owned"
+],
+[
+"私自",
+7,
+"sī zì",
+"private; personal; secretly; without explicit approval"
+],
+[
+"无私",
+7,
+"wú sī",
+"selfless; unselfish; disinterested; altruistic"
+],
+[
+"自私",
+7,
+"zì sī",
+"selfish; selfishness"
+],
+[
+"自私自利",
+7,
+"zì sī zì lì",
+"everything for self and selfish profit (idiom); with no regard for others; selfish; mercenary"
+]
+],
+"extraWords": [
+[
+"私",
+46.5,
+"sī",
+"personal; private; selfish"
 ],
 [
 "私家",
 10.25,
 "sī jiā",
 "private; privately owned or managed"
-],
-[
-"无私",
-7.85,
-"wú sī",
-"selfless; unselfish; disinterested; altruistic"
-],
-[
-"私事",
-7.69,
-"sī shì",
-"personal matters"
 ],
 [
 "私生活",

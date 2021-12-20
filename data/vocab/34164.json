@@ -1,16 +1,28 @@
 {
 "char": "蕴",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "to collect, gather, store; profound",
 "pron": "yùn"
 },
 "words": [
 [
+"底蕴",
+7,
+"dǐ yùn",
+"inside information; concrete details"
+],
+[
 "蕴藏",
-6,
+7,
 "yùn cáng",
 "to hold in store; to contain (untapped reserves etc)"
+],
+[
+"蕴涵",
+7,
+"yùn hán",
+"to contain; to accumulate; to embrace; implicit condition; implication; entailment"
 ]
 ],
 "extraWords": [

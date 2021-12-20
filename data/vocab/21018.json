@@ -1,43 +1,49 @@
 {
 "char": "刚",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "hard, tough, rigid, strong",
 "pron": "gāng"
 },
 "words": [
 [
+"刚",
+2,
+"gāng",
+"hard; firm; strong; just; barely; exactly"
+],
+[
 "刚才",
-3,
+2,
 "gāng cái",
 "just now; a moment ago"
 ],
 [
 "刚才",
-3,
+2,
 "gāng cái",
-"just now (variant of 剛才|刚才[gang1 cai2])"
+"just now (variant of 刚才[gāng cái])"
 ],
-[
-"刚",
-4,
-"gāng",
-"hard; firm; strong; just; barely; exactly"
-]
-],
-"extraWords": [
 [
 "刚刚",
-191.44,
+2,
 "gāng gang",
 "just recently; just a moment ago"
 ],
 [
 "刚好",
-21.02,
+6,
 "gāng hǎo",
 "just; exactly; to happen to be"
 ],
+[
+"刚毅",
+7,
+"gāng yì",
+"resolute; steadfast; stalwart"
+]
+],
+"extraWords": [
 [
 "金刚",
 10.07,

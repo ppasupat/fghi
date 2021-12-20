@@ -1,6 +1,6 @@
 {
 "char": "黑",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "black; dark; evil, sinister",
 "pron": "hēi"
@@ -10,7 +10,7 @@
 "黑",
 2,
 "Hēi",
-"abbr. for Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1]"
+"abbr. for Heilongjiang province 黑龙江[Hēi lóng jiāng]"
 ],
 [
 "黑",
@@ -20,15 +20,57 @@
 ],
 [
 "黑板",
-3,
+2,
 "hēi bǎn",
-"blackboard; CL:塊|块[kuai4],個|个[ge4]"
+"blackboard; CL:块[kuài],个[gè]"
 ],
 [
-"乌黑",
+"黑色",
+2,
+"hēi sè",
+"black"
+],
+[
+"黑暗",
+4,
+"hēi àn",
+"dark; darkly; darkness"
+],
+[
+"黑夜",
 6,
-"wū hēi",
-"jet-black; dark"
+"hēi yè",
+"night"
+],
+[
+"黑白",
+7,
+"hēi bái",
+"black and white; right and wrong; monochrome"
+],
+[
+"黑客",
+7,
+"hēi kè",
+"hacker (computing) (loanword)"
+],
+[
+"黑马",
+7,
+"hēi mǎ",
+"dark horse; fig. unexpected winner"
+],
+[
+"黑手",
+7,
+"hēi shǒu",
+"(fig.) malign agent who manipulates from behind the scenes; hidden hand; (Tw) mechanic; blue-collar worker; manual laborer"
+],
+[
+"黑心",
+7,
+"hēi xīn",
+"ruthless and lacking in conscience; vicious mind full of hatred and jealousy; black core (flaw in pottery)"
 ]
 ],
 "extraWords": [
@@ -37,18 +79,6 @@
 61.79,
 "hēi rén",
 "black person; an illegal"
-],
-[
-"黑色",
-54.6,
-"hēi sè",
-"black"
-],
-[
-"黑暗",
-48.74,
-"hēi àn",
-"dark; darkly; darkness"
 ],
 [
 "黑帮",
@@ -60,25 +90,13 @@
 "黑龙江",
 12.56,
 "Hēi lóng jiāng",
-"Heilongjiang province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈爾濱|哈尔滨[Ha1 er3 bin1]; Heilongjiang river forming the border between northeast China and Russia; Amur river"
-],
-[
-"黑白",
-12.0,
-"hēi bái",
-"black and white; right and wrong; monochrome"
-],
-[
-"黑夜",
-9.4,
-"hēi yè",
-"night"
+"Heilongjiang province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈尔滨[Hā ěr bīn]; Heilongjiang river forming the border between northeast China and Russia; Amur river"
 ],
 [
 "黑龙江省",
 9.07,
 "Hēi lóng jiāng Shěng",
-"Heilongjiang Province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈爾濱|哈尔滨[Ha1 er3 bin1]"
+"Heilongjiang Province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈尔滨[Hā ěr bīn]"
 ],
 [
 "黑社会",
@@ -93,12 +111,6 @@
 "(astronomy) black hole"
 ],
 [
-"黑马",
-5.76,
-"hēi mǎ",
-"dark horse; fig. unexpected winner"
-],
-[
 "黑手党",
 5.57,
 "hēi shǒu dǎng",
@@ -111,10 +123,10 @@
 "pitch-black"
 ],
 [
-"黑客",
-5.13,
-"hēi kè",
-"hacker (computing) (loanword)"
+"小黑",
+5.09,
+"???",
+"???"
 ]
 ],
 "strokes": [

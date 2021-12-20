@@ -1,12 +1,32 @@
 {
 "char": "酣",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "enjoy intoxicants",
 "pron": "hān"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"酣畅",
+7,
+"hān chàng",
+"unrestrained; cheerful lack of inhibition, esp. for drinking or sleeping; to drink with abandon"
+],
+[
+"酣睡",
+7,
+"hān shuì",
+"to sleep soundly; to fall into a deep sleep"
+]
+],
+"extraWords": [
+[
+"酣",
+1.54,
+"hān",
+"intoxicated"
+]
+],
 "strokes": [
 "M 337 681 Q 368 690 403 696 Q 445 706 451 713 Q 460 720 455 729 Q 448 739 420 747 Q 392 751 283 715 Q 205 697 137 688 Q 101 682 127 666 Q 155 650 194 652 L 231 658 Q 261 665 293 672 L 337 681 Z",
 "M 154 527 Q 139 542 107 553 Q 98 554 93 547 Q 90 541 97 532 Q 139 433 110 234 Q 94 149 94 146 L 95 144 Q 104 114 114 103 Q 124 91 133 104 Q 143 116 149 143 Q 149 147 150 150 L 153 169 Q 153 419 162 498 C 164 519 164 519 154 527 Z",

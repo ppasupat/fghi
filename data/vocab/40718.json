@@ -1,12 +1,25 @@
 {
 "char": "鼎",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "large, three-legged bronze caldron",
 "pron": "dǐng"
 },
-"words": [],
+"words": [
+[
+"大名鼎鼎",
+7,
+"dà míng dǐng dǐng",
+"grand reputation; renowned; famous"
+]
+],
 "extraWords": [
+[
+"鼎",
+10.98,
+"dǐng",
+"ancient cooking cauldron with two looped handles and three or four legs; pot (dialect); to enter upon a period of (classical); Kangxi radical 206; one of the 64 hexagrams of the Book of Changes"
+],
 [
 "问鼎",
 5.79,

@@ -1,6 +1,6 @@
 {
 "char": "桥",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "bridge; beam, crosspiece",
 "pron": "qiáo"
@@ -8,9 +8,9 @@
 "words": [
 [
 "桥",
-4,
+3,
 "qiáo",
-"bridge; CL:座[zuo4]"
+"bridge; CL:座[zuò]"
 ],
 [
 "桥梁",
@@ -20,9 +20,21 @@
 ],
 [
 "立交桥",
-6,
+7,
 "lì jiāo qiáo",
 "overpass; flyover"
+],
+[
+"天桥",
+7,
+"Tiān qiáo",
+"Tianqiao district of Jinan city 济南市[Jǐ nán shì], Shandong; Tianqiao district in Beijing, formerly a center of folk culture"
+],
+[
+"天桥",
+7,
+"tiān qiáo",
+"overhead walkway; pedestrian bridge"
 ]
 ],
 "extraWords": [
@@ -30,19 +42,7 @@
 "大桥",
 21.85,
 "Dà Qiáo",
-"Da Qiao, one of the Two Qiaos, according to Romance of the Three Kingdoms 三國演義|三国演义[San1 guo2 Yan3 yi4], the two great beauties of ancient China"
-],
-[
-"天桥",
-7.84,
-"Tiān qiáo",
-"Tianqiao district of Jinan city 濟南市|济南市[Ji3 nan2 shi4], Shandong; Tianqiao district in Beijing, formerly a center of folk culture"
-],
-[
-"天桥",
-7.84,
-"tiān qiáo",
-"overhead walkway; pedestrian bridge"
+"Da Qiao, one of the Two Qiaos, according to Romance of the Three Kingdoms 三国演义[Sān guó Yǎn yì], the two great beauties of ancient China"
 ]
 ],
 "strokes": [

@@ -1,12 +1,31 @@
 {
 "char": "拂",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "shake off, brush away; dust",
 "pron": "fú"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"拂",
+4.95,
+"bì",
+"old variant of 弼[bì]"
+],
+[
+"拂",
+4.95,
+"fú",
+"to flick; to brush off; (of a breeze) to brush lightly over; (literary) to run counter to"
+],
+[
+"吹拂",
+0.81,
+"chuī fú",
+"to brush; to caress (of breeze); to praise"
+]
+],
 "strokes": [
 "M 309 565 Q 330 572 352 578 Q 380 587 385 591 Q 394 600 388 608 Q 381 620 350 625 Q 328 628 310 622 L 260 602 Q 185 581 135 571 Q 98 562 126 547 Q 174 526 228 544 Q 243 548 259 552 L 309 565 Z",
 "M 256 357 Q 255 278 254 177 Q 253 155 240 145 Q 237 144 177 147 Q 144 159 147 149 Q 148 142 168 127 Q 225 81 239 54 Q 255 23 270 21 Q 285 20 299 55 Q 317 101 315 174 Q 308 285 307 395 L 307 423 Q 306 495 309 565 L 310 622 Q 325 767 330 781 Q 348 811 292 833 Q 258 852 239 845 Q 221 839 237 816 Q 259 788 260 755 Q 261 739 260 602 L 259 552 Q 258 486 257 397 L 256 357 Z",

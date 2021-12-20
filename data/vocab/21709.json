@@ -1,40 +1,64 @@
 {
 "char": "响",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "make sound, make noise; sound",
 "pron": "xiǎng"
 },
 "words": [
 [
-"影响",
-3,
-"yǐng xiǎng",
-"influence; effect; to influence; to affect (usually adversely); to disturb; CL:股[gu3]"
-],
-[
 "响",
-4,
+2,
 "xiǎng",
 "echo; sound; noise; to make a sound; to sound; to ring; loud; classifier for noises"
 ],
 [
-"音响",
-6,
-"yīn xiǎng",
-"sound; acoustics; audio; hi-fi system; stereo sound system; abbr. for 組合音響|组合音响[zu3 he2 yin1 xiang3]"
+"影响",
+2,
+"yǐng xiǎng",
+"influence; effect; to influence; to affect (usually adversely); to disturb; CL:股[gǔ]"
 ],
 [
-"响应",
+"反响",
 6,
-"xiǎng yìng",
-"to respond to; answer; CL:個|个[ge4]"
+"fǎn xiǎng",
+"repercussions; reaction; echo"
+],
+[
+"响声",
+6,
+"xiǎng shēng",
+"noise"
+],
+[
+"交响乐",
+7,
+"jiāo xiǎng yuè",
+"symphony"
 ],
 [
 "响亮",
-6,
+7,
 "xiǎng liàng",
 "loud and clear; resounding"
+],
+[
+"响起",
+7,
+"xiǎng qǐ",
+"(of a sound) to come forth; (of a sound source) to ring out; to sound; to go off"
+],
+[
+"响应",
+7,
+"xiǎng yìng",
+"to respond to; answer; CL:个[gè]"
+],
+[
+"音响",
+7,
+"yīn xiǎng",
+"sound; acoustics; audio; hi-fi system; stereo sound system; abbr. for 组合音响[zǔ hé yīn xiǎng]"
 ]
 ],
 "extraWords": [
@@ -43,18 +67,6 @@
 34.8,
 "yǐng xiǎng lì",
 "influence; impact"
-],
-[
-"响起",
-19.62,
-"xiǎng qǐ",
-"(of a sound) to come forth; (of a sound source) to ring out; to sound; to go off"
-],
-[
-"反响",
-10.79,
-"fǎn xiǎng",
-"repercussions; reaction; echo"
 ],
 [
 "打响",

@@ -1,14 +1,26 @@
 {
 "char": "寸",
-"level": 6,
+"level": "4",
 "info": {
 "gloss": "inch; small, tiny; KangXi radical 41",
 "pron": "cùn"
 },
 "words": [
 [
+"尺寸",
+4,
+"chǐ cun",
+"size; dimension; measurement"
+],
+[
+"寸",
+5,
+"cùn",
+"a unit of length; inch; thumb"
+],
+[
 "分寸",
-6,
+7,
 "fēn cun",
 "propriety; appropriate behavior; proper speech or action; within the norms"
 ]
@@ -19,12 +31,6 @@
 29.89,
 "yīng cùn",
 "inch (unit of length equal to 2.54 cm.)"
-],
-[
-"尺寸",
-20.44,
-"chǐ cun",
-"size; dimension; measurement"
 ]
 ],
 "strokes": [

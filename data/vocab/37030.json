@@ -1,17 +1,24 @@
 {
 "char": "邦",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "nation, country, state",
 "pron": "bāng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "联邦",
-67.4,
+7,
 "lián bāng",
 "federal; federation; commonwealth; federal union; federal state; union"
+]
+],
+"extraWords": [
+[
+"邦",
+17.54,
+"bāng",
+"country; nation; state"
 ],
 [
 "邦德",

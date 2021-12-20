@@ -1,55 +1,73 @@
 {
 "char": "劳",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "labor, toil, do manual work",
 "pron": "láo"
 },
 "words": [
 [
-"劳驾",
-5,
-"láo jià",
-"excuse me"
-],
-[
 "劳动",
 5,
 "láo dòng",
-"work; toil; physical labor; CL:次[ci4]"
+"work; toil; physical labor; CL:次[cì]"
 ],
 [
-"疲劳",
-5,
-"pí láo",
-"fatigue; wearily; weariness; weary"
+"操劳",
+7,
+"cāo láo",
+"to work hard; to look after"
+],
+[
+"多劳多得",
+7,
+"duō láo duō dé",
+"work more and get more"
 ],
 [
 "功劳",
-6,
+7,
 "gōng láo",
 "contribution; meritorious service; credit"
 ],
 [
+"劳动力",
+7,
+"láo dòng lì",
+"labor force; manpower"
+],
+[
+"劳累",
+7,
+"láo lèi",
+"tired; exhausted; worn out; to toil"
+],
+[
+"劳务",
+7,
+"láo wù",
+"service (work done for money); services (as in \"goods and services\")"
+],
+[
+"疲劳",
+7,
+"pí láo",
+"fatigue; wearily; weariness; weary"
+],
+[
 "勤劳",
-6,
+7,
 "qín láo",
 "hardworking; industrious; diligent"
 ],
 [
-"操劳",
-6,
-"cāo láo",
-"to work hard; to look after"
+"慰劳",
+7,
+"wèi láo",
+"to show appreciation (by kind words, small gifts etc); to comfort"
 ]
 ],
 "extraWords": [
-[
-"劳动力",
-29.56,
-"láo dòng lì",
-"labor force; manpower"
-],
 [
 "效劳",
 17.47,
@@ -63,16 +81,28 @@
 "worker; laborer"
 ],
 [
-"劳务",
-11.17,
-"láo wù",
-"service (work done for money); services (as in \"goods and services\")"
+"劳",
+16.03,
+"láo",
+"to toil; labor; laborer; to put sb to trouble (of doing sth); meritorious deed; to console (Taiwan pr. [lao4] for this sense)"
 ],
 [
 "麦当劳",
 10.84,
 "Mài dāng láo",
 "MacDonald or McDonald (name); McDonald's (fast food company)"
+],
+[
+"劳驾",
+8.14,
+"láo jià",
+"excuse me"
+],
+[
+"劳拉",
+8.08,
+"???",
+"???"
 ],
 [
 "劳力",
@@ -91,12 +121,6 @@
 6.19,
 "láo zī",
 "labor and capital; labor and management"
-],
-[
-"劳累",
-5.4,
-"láo lèi",
-"tired; exhausted; worn out; to toil"
 ],
 [
 "劳伦斯",

@@ -1,19 +1,32 @@
 {
 "char": "酌",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "serve wine; feast; deliberate",
 "pron": "zhuó"
 },
 "words": [
 [
-"斟酌",
-6,
-"zhēn zhuó",
-"to consider; to deliberate; to fill up a cup to the brim"
+"酌情",
+7,
+"zhuó qíng",
+"to use discretion; to take circumstances into account; to make allowances pertinent to a situation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"斟酌",
+1.81,
+"zhēn zhuó",
+"to consider; to deliberate; to fill up a cup to the brim"
+],
+[
+"酌",
+1.59,
+"zhuó",
+"to pour wine; to drink wine; to deliberate; to consider"
+]
+],
 "strokes": [
 "M 362 665 Q 503 698 507 701 Q 514 708 511 717 Q 504 727 476 735 Q 454 741 326 704 Q 187 682 177 680 Q 143 674 167 658 Q 182 649 216 642 L 257 645 Q 258 646 316 656 L 362 665 Z",
 "M 167 492 Q 148 507 127 513 Q 118 514 113 507 Q 110 501 117 492 Q 156 375 127 198 Q 111 141 115 124 Q 124 94 134 83 Q 144 71 153 84 Q 163 96 169 123 Q 169 127 170 130 L 175 164 Q 176 191 177 307 Q 178 434 183 466 C 185 480 185 480 167 492 Z",

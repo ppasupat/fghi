@@ -1,6 +1,6 @@
 {
 "char": "各",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "each, individually, every, all",
 "pron": "gè"
@@ -8,42 +8,54 @@
 "words": [
 [
 "各",
-4,
+3,
 "gè",
 "each; every"
 ],
 [
-"各自",
-5,
-"gè zì",
-"each; respective; apiece"
-],
-[
-"各抒己见",
-6,
-"gè shū jǐ jiàn",
-"everyone gives their own view"
-]
-],
-"extraWords": [
-[
-"各种",
-277.99,
-"gè zhǒng",
-"every kind of; all kinds of; various kinds"
+"各地",
+3,
+"gè dì",
+"in all parts of (a country); various regions"
 ],
 [
 "各位",
-118.7,
+3,
 "gè wèi",
 "everybody; all (guests, colleagues etc); all of you"
 ],
 [
-"各地",
-102.49,
-"gè dì",
-"in all parts of (a country); various regions"
+"各种",
+3,
+"gè zhǒng",
+"every kind of; all kinds of; various kinds"
 ],
+[
+"各自",
+3,
+"gè zì",
+"each; respective; apiece"
+],
+[
+"各个",
+4,
+"gè gè",
+"every; various; separately, one by one"
+],
+[
+"各奔前程",
+7,
+"gè bèn qián chéng",
+"each goes his own way (idiom); each person has his own life to lead"
+],
+[
+"各式各样",
+7,
+"gè shì gè yàng",
+"(of) all kinds and sorts; various"
+]
+],
+"extraWords": [
 [
 "各级",
 76.59,
@@ -51,10 +63,10 @@
 "all levels"
 ],
 [
-"各个",
-67.5,
-"gè gè",
-"every; various; separately, one by one"
+"各项",
+70.65,
+"???",
+"???"
 ],
 [
 "各国",
@@ -69,6 +81,18 @@
 "all categories"
 ],
 [
+"各部门",
+17.94,
+"???",
+"???"
+],
+[
+"社会各界",
+14.79,
+"???",
+"???"
+],
+[
 "各界",
 13.07,
 "gè jiè",
@@ -81,16 +105,40 @@
 "various kinds; all sorts"
 ],
 [
+"各族",
+10.66,
+"???",
+"???"
+],
+[
 "各就各位",
 7.24,
 "gè jiù gè wèi",
 "(of the people in a group) to get into position (idiom); (athletics) On your mark!"
 ],
 [
+"各地区",
+6.72,
+"???",
+"???"
+],
+[
+"各路",
+5.97,
+"???",
+"???"
+],
+[
 "各异",
 5.92,
 "gè yì",
 "all different; each unto his own"
+],
+[
+"雅各布",
+5.69,
+"???",
+"???"
 ]
 ],
 "strokes": [

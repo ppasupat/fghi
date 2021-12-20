@@ -1,6 +1,6 @@
 {
 "char": "豪",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "brave, heroic, chivalrous",
 "pron": "háo"
@@ -13,24 +13,24 @@
 "proud (of one's achievements etc)"
 ],
 [
-"豪华",
-5,
-"háo huá",
-"luxurious"
+"富豪",
+7,
+"fù háo",
+"rich and powerful person"
 ],
 [
-"豪迈",
-6,
-"háo mài",
-"bold; open-minded; heroic"
+"豪华",
+7,
+"háo huá",
+"luxurious"
 ]
 ],
 "extraWords": [
 [
-"富豪",
-9.26,
-"fù háo",
-"rich and powerful person"
+"豪",
+25.8,
+"háo",
+"grand; heroic"
 ],
 [
 "豪门",

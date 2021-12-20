@@ -1,6 +1,6 @@
 {
 "char": "穿",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "penetrate, pierce, drill; wear",
 "pron": "chuān"
@@ -8,42 +8,48 @@
 "words": [
 [
 "穿",
-2,
+1,
 "chuān",
 "to wear; to put on; to dress; to bore through; to pierce; to perforate; to penetrate; to pass through; to thread"
 ],
 [
-"穿越",
-6,
-"chuān yuè",
-"to pass through; to traverse; to cross"
-]
-],
-"extraWords": [
-[
-"穿过",
-30.35,
-"chuān guò",
-"to pass through"
-],
-[
-"穿着",
-21.97,
-"chuān zhuó",
-"attire; clothes; dress"
-],
-[
 "穿上",
-17.7,
+4,
 "chuān shang",
 "to put on (clothes etc)"
 ],
 [
+"穿过",
+7,
+"chuān guò",
+"to pass through"
+],
+[
+"穿小鞋",
+7,
+"chuān xiǎo xié",
+"lit. to make sb wear tight shoes (idiom); to make life difficult for sb"
+],
+[
+"穿越",
+7,
+"chuān yuè",
+"to pass through; to traverse; to cross"
+],
+[
+"穿着",
+7,
+"chuān zhuó",
+"attire; clothes; dress"
+],
+[
 "贯穿",
-10.01,
+7,
 "guàn chuān",
 "to run through; a connecting thread from beginning to end; to link"
+]
 ],
+"extraWords": [
 [
 "穿衣",
 9.64,

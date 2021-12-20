@@ -1,6 +1,6 @@
 {
 "char": "怪",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "strange, unusual, peculiar",
 "pron": "guài"
@@ -13,43 +13,67 @@
 "strange; odd; to marvel; to be baffled"
 ],
 [
-"难怪",
-5,
-"nán guài",
-"(it's) no wonder (that...); (it's) not surprising (that)"
+"怪",
+4,
+"guài",
+"bewildering; odd; strange; uncanny; devil; monster; to wonder at; to blame; quite; rather"
 ],
 [
-"怪不得",
-5,
-"guài bu de",
-"no wonder!; so that's why!"
+"怪",
+4,
+"guài",
+"variant of 怪[guài]"
+],
+[
+"大惊小怪",
+7,
+"dà jīng xiǎo guài",
+"to make a fuss about nothing (idiom)"
 ],
 [
 "古怪",
-6,
+7,
 "gǔ guài",
 "strange; weird; eccentric; bizarre"
 ],
 [
-"责怪",
-6,
-"zé guài",
-"to blame; to rebuke"
-]
+"怪不得",
+7,
+"guài bu de",
+"no wonder!; so that's why!"
 ],
-"extraWords": [
 [
 "怪物",
-43.1,
+7,
 "guài wu",
 "monster; freak; eccentric person"
 ],
 [
 "怪异",
-18.66,
+7,
 "guài yì",
 "monstrous; strange; strange phenomenon"
 ],
+[
+"难怪",
+7,
+"nán guài",
+"(it's) no wonder (that...); (it's) not surprising (that)"
+],
+[
+"妖怪",
+7,
+"yāo guài",
+"monster; devil"
+],
+[
+"责怪",
+7,
+"zé guài",
+"to blame; to rebuke"
+]
+],
+"extraWords": [
 [
 "怪兽",
 16.16,
@@ -67,12 +91,6 @@
 9.69,
 "guài tāi",
 "freak; abnormal embryo; fetus with deformity"
-],
-[
-"大惊小怪",
-6.41,
-"dà jīng xiǎo guài",
-"to make a fuss about nothing (idiom)"
 ],
 [
 "怪事",

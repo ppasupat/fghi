@@ -1,6 +1,6 @@
 {
 "char": "予",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "I, me; to give",
 "pron": "yú, yǔ"
@@ -13,36 +13,48 @@
 "to accord; to give; to show (respect)"
 ],
 [
+"不予",
+7,
+"bù yú",
+"to withhold; to refuse"
+],
+[
 "赋予",
-6,
+7,
 "fù yǔ",
 "to assign; to entrust (a task); to give; to bestow"
 ],
 [
 "授予",
-6,
+7,
 "shòu yǔ",
 "to award; to confer"
+],
+[
+"予以",
+7,
+"yǔ yǐ",
+"to give; to impose; to apply"
 ]
 ],
 "extraWords": [
 [
-"予以",
-45.96,
-"yǔ yǐ",
-"to give; to impose; to apply"
+"予",
+17.03,
+"yú",
+"(archaic) I; me"
+],
+[
+"予",
+17.03,
+"yǔ",
+"to give"
 ],
 [
 "赐予",
 10.88,
 "cì yǔ",
 "to grant; to bestow"
-],
-[
-"不予",
-10.87,
-"bù yú",
-"to withhold; to refuse"
 ]
 ],
 "strokes": [

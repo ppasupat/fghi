@@ -1,6 +1,6 @@
 {
 "char": "褐",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "coarse woolen cloth; dull, dark",
 "pron": "hè"
@@ -12,6 +12,18 @@
 5.4,
 "hè sè",
 "brown"
+],
+[
+"褐",
+3.82,
+"hè",
+"brown; gray or dark color; coarse hemp cloth; Taiwan pr. [he2]"
+],
+[
+"黄褐斑",
+0.63,
+"huáng hè bān",
+"chloasma; melasma"
 ]
 ],
 "strokes": [

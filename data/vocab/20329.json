@@ -1,25 +1,44 @@
 {
 "char": "佩",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "belt ornament, pendant; wear at waist, tie to the belt; respect",
 "pron": "pèi"
 },
 "words": [
 [
+"敬佩",
+7,
+"jìng pèi",
+"to esteem; to admire"
+],
+[
 "佩服",
-5,
+7,
 "pèi fú",
 "to admire"
 ],
 [
 "钦佩",
-6,
+7,
 "qīn pèi",
 "to admire; to look up to; to respect sb greatly"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"佩",
+13.03,
+"pèi",
+"to respect; to wear (belt etc)"
+],
+[
+"佩",
+13.03,
+"pèi",
+"girdle ornaments"
+]
+],
 "strokes": [
 "M 191 529 Q 243 595 299 690 Q 324 739 348 763 Q 357 773 352 788 Q 348 801 318 823 Q 290 842 271 841 Q 252 838 261 816 Q 276 785 264 757 Q 207 609 50 407 Q 40 397 38 390 Q 35 380 49 382 Q 82 391 165 495 L 191 529 Z",
 "M 165 495 Q 199 422 181 236 Q 174 184 160 127 Q 148 76 182 37 Q 183 34 186 32 Q 202 16 214 42 Q 229 82 228 127 Q 228 389 236 447 Q 243 474 234 484 Q 195 526 191 529 C 170 550 154 523 165 495 Z",

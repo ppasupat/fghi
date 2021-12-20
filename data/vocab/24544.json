@@ -1,36 +1,54 @@
 {
 "char": "忠",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "loyalty, devotion, fidelity",
 "pron": "zhōng"
 },
 "words": [
 [
-"忠诚",
+"忠心",
 6,
+"zhōng xīn",
+"good faith; devotion; loyalty; dedication"
+],
+[
+"忠诚",
+7,
 "zhōng chéng",
 "devoted; loyal; fidelity; loyalty"
 ],
 [
 "忠实",
-6,
+7,
 "zhōng shí",
 "faithful"
+],
+[
+"忠于",
+7,
+"zhōng yú",
+"to be loyal to"
+],
+[
+"忠贞",
+7,
+"zhōng zhēn",
+"loyal and dependable"
 ]
 ],
 "extraWords": [
+[
+"忠",
+17.8,
+"zhōng",
+"loyal; devoted; honest"
+],
 [
 "忠告",
 6.35,
 "zhōng gào",
 "to give sb a word of advice; advice; counsel; a wise word"
-],
-[
-"忠于",
-5.96,
-"zhōng yú",
-"to be loyal to"
 ],
 [
 "效忠",

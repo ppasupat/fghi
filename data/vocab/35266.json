@@ -1,58 +1,58 @@
 {
 "char": "观",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "see, observe, view; appearance",
 "pron": "guān, guàn"
 },
 "words": [
 [
-"观众",
-4,
-"guān zhòng",
-"spectators; audience; visitors (to an exhibition etc)"
-],
-[
 "参观",
-4,
+2,
 "cān guān",
 "to look around; to tour; to visit"
 ],
 [
-"观察",
-5,
-"guān chá",
-"to observe; to watch; to survey; to examine; observation; view; perspective; CL:個|个[ge4]"
-],
-[
 "观点",
-5,
+2,
 "guān diǎn",
-"point of view; viewpoint; standpoint; CL:個|个[ge4]"
+"point of view; viewpoint; standpoint; CL:个[gè]"
 ],
 [
-"乐观",
-5,
-"lè guān",
-"optimistic; hopeful"
+"观察",
+3,
+"guān chá",
+"to observe; to watch; to survey; to examine; observation; view; perspective; CL:个[gè]"
+],
+[
+"观看",
+3,
+"guān kàn",
+"to watch; to view"
 ],
 [
 "观念",
-5,
+3,
 "guān niàn",
 "notion; thought; concept; sense; views; ideology; general impressions"
 ],
 [
+"观众",
+3,
+"guān zhòng",
+"spectators; audience; visitors (to an exhibition etc)"
+],
+[
 "客观",
-5,
+3,
 "kè guān",
 "objective; impartial"
 ],
 [
-"悲观",
-5,
-"bēi guān",
-"pessimistic"
+"乐观",
+3,
+"lè guān",
+"optimistic; hopeful"
 ],
 [
 "主观",
@@ -61,60 +61,138 @@
 "subjective"
 ],
 [
-"壮观",
-6,
-"zhuàng guān",
-"spectacular; magnificent sight"
-],
-[
 "观光",
 6,
 "guān guāng",
 "to tour; sightseeing; tourism"
 ],
 [
-"可观",
+"外观",
 6,
+"wài guān",
+"exterior appearance; to view sth from the outside; exterior condition"
+],
+[
+"壮观",
+6,
+"zhuàng guān",
+"spectacular; magnificent sight"
+],
+[
+"悲观",
+7,
+"bēi guān",
+"pessimistic"
+],
+[
+"观测",
+7,
+"guān cè",
+"to observe; to survey; observation (scientific etc)"
+],
+[
+"观感",
+7,
+"guān gǎn",
+"one's impressions; observations"
+],
+[
+"观摩",
+7,
+"guān mó",
+"to observe and emulate; to study (esp. following sb's example)"
+],
+[
+"观赏",
+7,
+"guān shǎng",
+"to look at sth with pleasure; to watch (sth marvelous); ornamental"
+],
+[
+"观望",
+7,
+"guān wàng",
+"to wait and see; to watch from the sidelines; to look around; to survey"
+],
+[
+"宏观",
+7,
+"hóng guān",
+"macro-; macroscopic; holistic"
+],
+[
+"价值观",
+7,
+"jià zhí guān",
+"system of values"
+],
+[
+"景观",
+7,
+"jǐng guān",
+"landscape"
+],
+[
+"可观",
+7,
 "kě guān",
 "considerable; impressive; significant"
 ],
 [
 "美观",
-6,
+7,
 "měi guān",
 "pleasing to the eye; beautiful; artistic"
 ],
 [
+"旁观",
+7,
+"páng guān",
+"spectator; non-participant"
+],
+[
 "微观",
-6,
+7,
 "wēi guān",
 "micro-; subatomic"
 ],
 [
-"宏观",
-6,
-"hóng guān",
-"macro-; macroscopic; holistic"
+"袖手旁观",
+7,
+"xiù shǒu páng guān",
+"to watch with folded arms (idiom); to look on without lifting a finger"
+],
+[
+"直观",
+7,
+"zhí guān",
+"direct observation; directly perceived through the senses; intuitive; audiovisual"
+],
+[
+"纵观",
+7,
+"zòng guān",
+"to survey comprehensively; an overall survey"
 ]
 ],
 "extraWords": [
 [
-"观看",
-33.47,
-"guān kàn",
-"to watch; to view"
+"观",
+76.82,
+"Guàn",
+"surname Guan"
 ],
 [
-"外观",
-28.2,
-"wài guān",
-"exterior appearance; to view sth from the outside; exterior condition"
+"观",
+76.82,
+"guān",
+"to look at; to watch; to observe; to behold; to advise; concept; point of view; outlook"
 ],
 [
-"景观",
-25.89,
-"jǐng guān",
-"landscape"
+"观",
+76.82,
+"guàn",
+"Taoist monastery; palace gate watchtower; platform"
 ],
 [
 "宏观调控",
@@ -129,40 +207,10 @@
 "to stand in a circle and watch"
 ],
 [
-"观望",
-16.82,
-"guān wàng",
-"to wait and see; to watch from the sidelines; to look around; to survey"
-],
-[
-"价值观",
-14.37,
-"jià zhí guān",
-"system of values"
-],
-[
-"观测",
-9.96,
-"guān cè",
-"to observe; to survey; observation (scientific etc)"
-],
-[
-"观赏",
-9.93,
-"guān shǎng",
-"to look at sth with pleasure; to watch (sth marvelous); ornamental"
-],
-[
 "世界观",
 8.11,
 "shì jiè guān",
 "worldview; world outlook; Weltanschauung"
-],
-[
-"直观",
-7.24,
-"zhí guān",
-"direct observation; directly perceived through the senses; intuitive; audiovisual"
 ],
 [
 "观音",
@@ -171,22 +219,10 @@
 "Guanyin, the Bodhisattva of Compassion or Goddess of Mercy (Sanskrit Avalokiteśvara)"
 ],
 [
-"袖手旁观",
-6.14,
-"xiù shǒu páng guān",
-"to watch with folded arms (idiom); to look on without lifting a finger"
-],
-[
 "改观",
 5.38,
 "gǎi guān",
 "change of appearance; to revise one's point of view"
-],
-[
-"观摩",
-5.05,
-"guān mó",
-"to observe and emulate; to study (esp. following sb's example)"
 ]
 ],
 "strokes": [

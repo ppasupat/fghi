@@ -1,46 +1,88 @@
 {
 "char": "原",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "source, origin, beginning",
 "pron": "yuán"
 },
 "words": [
 [
-"原因",
-4,
-"yuán yīn",
-"cause; origin; root cause; reason; CL:個|个[ge4]"
-],
-[
-"原谅",
-4,
-"yuán liàng",
-"to excuse; to forgive; to pardon"
-],
-[
 "原来",
-4,
+2,
 "yuán lái",
 "original; former; originally; formerly; at first; so, actually, as it turns out"
 ],
 [
-"原则",
-5,
-"yuán zé",
-"principle; doctrine; CL:個|个[ge4]"
+"原因",
+2,
+"yuán yīn",
+"cause; origin; root cause; reason; CL:个[gè]"
 ],
 [
 "原料",
-5,
+4,
 "yuán liào",
-"raw material; CL:個|个[ge4]"
+"raw material; CL:个[gè]"
+],
+[
+"原则",
+4,
+"yuán zé",
+"principle; doctrine; CL:个[gè]"
+],
+[
+"草原",
+5,
+"cǎo yuán",
+"grassland; prairie; CL:片[piàn]"
+],
+[
+"高原",
+5,
+"gāo yuán",
+"plateau; CL:片[piàn]"
+],
+[
+"平原",
+5,
+"píng yuán",
+"field; plain; CL:个[gè]"
+],
+[
+"原理",
+5,
+"yuán lǐ",
+"principle; theory"
 ],
 [
 "原始",
-6,
+5,
 "yuán shǐ",
 "first; original; primitive; original (document etc)"
+],
+[
+"原先",
+5,
+"yuán xiān",
+"originally; original; former"
+],
+[
+"原有",
+5,
+"yuán yǒu",
+"original; former"
+],
+[
+"原",
+6,
+"Yuán",
+"surname Yuan; (Japanese surname) Hara"
+],
+[
+"原",
+6,
+"yuán",
+"former; original; primary; raw; level; cause; source"
 ],
 [
 "原告",
@@ -49,37 +91,67 @@
 "complainant; plaintiff"
 ],
 [
-"原先",
+"原谅",
 6,
-"yuán xiān",
-"originally; original; former"
+"yuán liàng",
+"to excuse; to forgive; to pardon"
 ],
 [
-"原理",
-6,
-"yuán lǐ",
-"principle; theory"
-],
-[
-"平原",
-6,
-"píng yuán",
-"field; plain; CL:個|个[ge4]"
+"复原",
+7,
+"fù yuán",
+"to restore (sth) to (its) former condition; to recover from illness; recovery"
 ],
 [
 "还原",
-6,
+7,
 "huán yuán",
 "to restore to the original state; to reconstruct (an event); reduction (chemistry)"
-]
 ],
-"extraWords": [
 [
 "原本",
-46.24,
+7,
 "yuán běn",
 "originally; original"
 ],
+[
+"原材料",
+7,
+"yuán cái liào",
+"raw materials; unprocessed materials"
+],
+[
+"原创",
+7,
+"yuán chuàng",
+"originality; creativity; innovation"
+],
+[
+"原地",
+7,
+"yuán dì",
+"(in) the original place; the place where one currently is; place of origin; local (product)"
+],
+[
+"原型",
+7,
+"yuán xíng",
+"model; prototype; archetype"
+],
+[
+"原汁原味",
+7,
+"yuán zhī yuán wèi",
+"original; authentic"
+],
+[
+"原装",
+7,
+"yuán zhuāng",
+"genuine; intact in original packaging (not locally assembled and packaged)"
+]
+],
+"extraWords": [
 [
 "原油",
 35.16,
@@ -93,40 +165,16 @@
 "original text"
 ],
 [
-"原有",
-28.41,
-"yuán yǒu",
-"original; former"
-],
-[
-"原材料",
-16.97,
-"yuán cái liào",
-"raw materials; unprocessed materials"
+"原价",
+21.23,
+"???",
+"???"
 ],
 [
 "中原",
 15.99,
 "Zhōng yuán",
 "Central Plain, the middle and lower regions of the Yellow river, including Henan, western Shandong, southern Shanxi and Hebei"
-],
-[
-"草原",
-14.34,
-"cǎo yuán",
-"grassland; prairie; CL:片[pian4]"
-],
-[
-"原地",
-11.39,
-"yuán dì",
-"(in) the original place; the place where one currently is; place of origin; local (product)"
-],
-[
-"高原",
-10.9,
-"gāo yuán",
-"plateau; CL:片[pian4]"
 ],
 [
 "抗原",
@@ -138,7 +186,7 @@
 "太原",
 10.23,
 "Tài yuán",
-"Taiyuan prefecture level city and capital of Shanxi province 山西省[Shan1 xi1 Sheng3] in central north China"
+"Taiyuan prefecture level city and capital of Shanxi province 山西省[Shān xī Shěng] in central north China"
 ],
 [
 "原定",
@@ -171,22 +219,16 @@
 "collagen (protein)"
 ],
 [
-"复原",
-5.96,
-"fù yuán",
-"to restore (sth) to (its) former condition; to recover from illness; recovery"
+"原发",
+5.92,
+"???",
+"???"
 ],
 [
 "原子弹",
 5.43,
 "yuán zǐ dàn",
 "atom bomb; atomic bomb; A-bomb"
-],
-[
-"原型",
-5.37,
-"yuán xíng",
-"model; prototype; archetype"
 ]
 ],
 "strokes": [

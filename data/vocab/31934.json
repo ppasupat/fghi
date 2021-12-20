@@ -1,6 +1,6 @@
 {
 "char": "精",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "essence; semen; spirit",
 "pron": "jīng"
@@ -8,137 +8,173 @@
 "words": [
 [
 "精彩",
-4,
+3,
 "jīng cǎi",
 "wonderful; marvelous; brilliant"
 ],
 [
 "精神",
-5,
+3,
 "jīng shén",
-"spirit; mind; consciousness; thought; mental; psychological; essence; gist; CL:個|个[ge4]"
+"spirit; mind; consciousness; thought; mental; psychological; essence; gist; CL:个[gè]"
 ],
 [
 "精神",
-5,
+3,
 "jīng shen",
 "vigor; vitality; drive; spiritual"
 ],
 [
 "精力",
-5,
+4,
 "jīng lì",
 "energy"
 ],
 [
-"酒精",
+"精",
 6,
-"jiǔ jīng",
-"alcohol; ethanol CH3CH2OH; ethyl alcohol; also written 乙醇; grain alcohol"
+"jīng",
+"essence; extract; vitality; energy; semen; sperm; mythical goblin spirit; highly perfected; elite; the pick of sth; proficient (refined ability); extremely (fine); selected rice (archaic)"
 ],
 [
-"精确",
+"精美",
 6,
-"jīng què",
-"accurate; precise"
+"jīng měi",
+"delicate; fine; refinement"
 ],
 [
-"精心",
+"精品",
 6,
-"jīng xīn",
-"with utmost care; fine; meticulous; detailed"
-],
-[
-"精致",
-6,
-"jīng zhì",
-"delicate; fine; exquisite; refined"
-],
-[
-"精通",
-6,
-"jīng tōng",
-"to be proficient in; to master (a subject)"
-],
-[
-"精华",
-6,
-"jīng huá",
-"best feature; most important part of an object; quintessence; essence; soul"
-],
-[
-"精密",
-6,
-"jīng mì",
-"accuracy; exact; precise; refined"
-],
-[
-"无精打采",
-6,
-"wú jīng dǎ cǎi",
-"dispirited and downcast (idiom); listless; in low spirits; washed out"
-],
-[
-"精简",
-6,
-"jīng jiǎn",
-"to simplify; to reduce"
-],
-[
-"聚精会神",
-6,
-"jù jīng huì shén",
-"to concentrate one's attention (idiom)"
+"jīng pǐn",
+"quality goods; premium product; fine work (of art)"
 ],
 [
 "精打细算",
-6,
+7,
 "jīng dǎ xì suàn",
 "meticulous planning and careful accounting (idiom)"
 ],
 [
+"精华",
+7,
+"jīng huá",
+"best feature; most important part of an object; quintessence; essence; soul"
+],
+[
+"精简",
+7,
+"jīng jiǎn",
+"to simplify; to reduce"
+],
+[
+"精练",
+7,
+"jīng liàn",
+"(textiles) to scour; to degum (silk); variant of 精炼[jīng liàn]"
+],
+[
+"精妙",
+7,
+"jīng miào",
+"exquisite; fine and delicate (usu. of works of art)"
+],
+[
+"精明",
+7,
+"jīng míng",
+"astute; shrewd"
+],
+[
+"精疲力竭",
+7,
+"jīng pí lì jié",
+"spirit weary, strength exhausted (idiom); spent; drained; washed out"
+],
+[
+"精确",
+7,
+"jīng què",
+"accurate; precise"
+],
+[
+"精神病",
+7,
+"jīng shén bìng",
+"mental disorder; psychosis"
+],
+[
+"精髓",
+7,
+"jīng suǐ",
+"marrow; pith; quintessence; essence"
+],
+[
+"精通",
+7,
+"jīng tōng",
+"to be proficient in; to master (a subject)"
+],
+[
+"精细",
+7,
+"jīng xì",
+"fine; meticulous; careful"
+],
+[
+"精心",
+7,
+"jīng xīn",
+"with utmost care; fine; meticulous; detailed"
+],
+[
 "精益求精",
-6,
+7,
 "jīng yì qiú jīng",
 "to perfect sth that is already outstanding (idiom); constantly improving"
 ],
 [
-"博大精深",
-6,
-"bó dà jīng shēn",
-"wide-ranging and profound; broad and deep"
+"精英",
+7,
+"jīng yīng",
+"cream; elite; essence; quintessence"
+],
+[
+"精致",
+7,
+"jīng zhì",
+"delicate; fine; exquisite; refined"
+],
+[
+"酒精",
+7,
+"jiǔ jīng",
+"alcohol; ethanol CH3CH2OH; ethyl alcohol; also written 乙醇; grain alcohol"
+],
+[
+"聚精会神",
+7,
+"jù jīng huì shén",
+"to concentrate one's attention (idiom)"
+],
+[
+"味精",
+7,
+"wèi jīng",
+"monosodium glutamate (MSG)"
+],
+[
+"无精打采",
+7,
+"wú jīng dǎ cǎi",
+"dispirited and downcast (idiom); listless; in low spirits; washed out"
 ]
 ],
 "extraWords": [
-[
-"精品",
-28.27,
-"jīng pǐn",
-"quality goods; premium product; fine work (of art)"
-],
 [
 "精灵",
 17.32,
 "jīng líng",
 "spirit; fairy; elf; sprite; genie"
-],
-[
-"精英",
-17.3,
-"jīng yīng",
-"cream; elite; essence; quintessence"
-],
-[
-"精美",
-16.46,
-"jīng měi",
-"delicate; fine; refinement"
-],
-[
-"精神病",
-15.26,
-"jīng shén bìng",
-"mental disorder; psychosis"
 ],
 [
 "精神文明",
@@ -165,10 +201,10 @@
 "sperm; spermatozoon"
 ],
 [
-"精细",
-8.27,
-"jīng xì",
-"fine; meticulous; careful"
+"精神病院",
+8.44,
+"???",
+"???"
 ],
 [
 "精液",
@@ -177,16 +213,10 @@
 "semen"
 ],
 [
-"精明",
-6.2,
-"jīng míng",
-"astute; shrewd"
-],
-[
-"精髓",
-5.43,
-"jīng suǐ",
-"marrow; pith; quintessence; essence"
+"精密",
+6.01,
+"jīng mì",
+"accuracy; exact; precise; refined"
 ],
 [
 "妖精",

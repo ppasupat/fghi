@@ -1,17 +1,30 @@
 {
 "char": "窥",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "peep, watch, spy on, pry",
 "pron": "kuī"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "偷窥",
-5.66,
+7,
 "tōu kuī",
 "to peep; to peek; to act as voyeur"
+]
+],
+"extraWords": [
+[
+"窥",
+2.62,
+"kuī",
+"to peep; to pry into"
+],
+[
+"窥",
+2.62,
+"kuī",
+"variant of 窥[kuī]"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "扎",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "pull up; pierce; struggle free",
 "pron": "zā, zhā, zhá"
@@ -22,31 +22,19 @@
 "扎",
 6,
 "zā",
-"variant of 紮|扎[za1]"
+"variant of 扎[zā]"
 ],
 [
 "扎",
 6,
 "zhā",
-"variant of 紮|扎[zha1]"
+"variant of 扎[zhā]"
 ],
 [
 "扎",
 6,
 "zā",
 "to tie; to bind; classifier for flowers, banknotes etc: bundle; Taiwan pr. [zha2]"
-],
-[
-"挣扎",
-6,
-"zhēng zhá",
-"to struggle"
-],
-[
-"驻扎",
-6,
-"zhù zhā",
-"to station; to garrison (troops)"
 ],
 [
 "扎实",
@@ -58,10 +46,41 @@
 "扎实",
 6,
 "zhá shi",
-"see 扎實|扎实[zha1 shi5]"
+"see 扎实[zhā shi]"
+],
+[
+"包扎",
+7,
+"bāo zā",
+"variant of 包扎[bāo zā]"
+],
+[
+"包扎",
+7,
+"bāo zā",
+"to wrap up; to pack; to bind up (a wound)"
+],
+[
+"扎根",
+7,
+"zhā gēn",
+"to take root"
+],
+[
+"挣扎",
+7,
+"zhēng zhá",
+"to struggle"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"扎克",
+10.61,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 380 534 Q 462 559 469 565 Q 476 572 472 581 Q 465 591 435 597 Q 408 601 382 589 L 331 569 Q 208 533 159 525 Q 125 516 150 502 Q 196 481 245 498 Q 285 508 330 520 L 380 534 Z",
 "M 325 323 Q 324 235 322 122 Q 321 98 309 89 Q 302 85 221 103 Q 188 115 191 105 Q 192 98 212 83 Q 282 31 300 1 Q 321 -33 338 -35 Q 353 -36 367 -1 Q 385 44 383 118 Q 376 238 376 358 L 376 392 Q 376 462 380 534 L 382 589 Q 382 670 402 736 Q 418 767 364 789 Q 330 808 311 801 Q 293 795 309 772 Q 331 745 331 711 Q 332 695 331 569 L 330 520 Q 329 456 326 366 L 325 323 Z",

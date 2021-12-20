@@ -1,6 +1,6 @@
 {
 "char": "择",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "select, choose, pick out",
 "pron": "zé, zhái"
@@ -8,15 +8,9 @@
 "words": [
 [
 "选择",
-3,
+4,
 "xuǎn zé",
 "to select; to pick; choice; option; alternative"
-],
-[
-"不择手段",
-6,
-"bù zé shǒu duàn",
-"by fair means or foul; by hook or by crook; unscrupulously"
 ]
 ],
 "extraWords": [
@@ -25,6 +19,12 @@
 23.67,
 "bié wú xuǎn zé",
 "to have no other choice"
+],
+[
+"择",
+12.99,
+"zé",
+"to select; to choose; to pick over; to pick out; to differentiate; to eliminate; also pr. [zhai2]"
 ],
 [
 "抉择",

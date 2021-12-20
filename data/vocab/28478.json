@@ -1,12 +1,32 @@
 {
 "char": "漾",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "overflow; swirl, ripple; to be tossed by waves",
 "pron": "yàng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"荡漾",
+7,
+"dàng yàng",
+"to ripple; to undulate; also written 荡漾[dàng yàng]"
+],
+[
+"荡漾",
+7,
+"dàng yàng",
+"to ripple; to undulate"
+]
+],
+"extraWords": [
+[
+"漾",
+3.24,
+"yàng",
+"to overflow; to ripple; used in place names; see 漾濞[Yàng bì]"
+]
+],
 "strokes": [
 "M 206 717 Q 234 693 265 665 Q 280 652 297 653 Q 307 654 313 668 Q 317 684 307 715 Q 295 746 199 767 Q 183 770 176 767 Q 170 763 173 749 Q 177 739 206 717 Z",
 "M 120 497 Q 165 455 207 441 Q 223 440 231 456 Q 235 471 230 488 Q 220 512 199 523 Q 136 550 101 538 Q 100 538 100 537 Q 94 534 98 522 Q 102 509 120 497 Z",

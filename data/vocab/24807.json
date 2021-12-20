@@ -1,6 +1,6 @@
 {
 "char": "惧",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "fear, be afraid of, dread",
 "pron": "jù"
@@ -8,18 +8,25 @@
 "words": [
 [
 "恐惧",
-6,
+7,
 "kǒng jù",
 "to be frightened; fear; dread"
 ],
 [
 "畏惧",
-6,
+7,
 "wèi jù",
 "to fear; to dread; foreboding"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"惧",
+6.06,
+"jù",
+"to fear"
+]
+],
 "strokes": [
 "M 112 515 Q 97 457 72 401 Q 54 368 79 335 Q 89 319 108 334 Q 153 379 146 462 Q 146 496 135 519 Q 129 526 123 527 Q 116 524 112 515 Z",
 "M 301 556 Q 319 544 366 502 Q 378 492 389 493 Q 398 494 401 504 Q 405 516 397 539 Q 388 566 305 586 Q 304 587 302 586 C 272 588 276 573 301 556 Z",

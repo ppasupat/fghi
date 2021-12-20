@@ -1,61 +1,127 @@
 {
 "char": "变",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "change, transform, alter; rebel",
 "pron": "biàn"
 },
 "words": [
 [
-"变化",
-3,
-"biàn huà",
-"change; variation; to change; to vary; CL:個|个[ge4]"
+"变",
+2,
+"biàn",
+"to change; to become different; to transform; to vary; rebellion"
+],
+[
+"变成",
+2,
+"biàn chéng",
+"to change into; to turn into; to become"
 ],
 [
 "改变",
-4,
+2,
 "gǎi biàn",
 "to change; to alter; to transform"
 ],
 [
-"转变",
-5,
-"zhuǎn biàn",
-"to change; to transform; shift; transformation; CL:個|个[ge4]"
+"变化",
+3,
+"biàn huà",
+"change; variation; to change; to vary; CL:个[gè]"
 ],
 [
-"演变",
+"变为",
+3,
+"biàn wéi",
+"to change into"
+],
+[
+"转变",
+3,
+"zhuǎn biàn",
+"to change; to transform; shift; transformation; CL:个[gè]"
+],
+[
+"变动",
+5,
+"biàn dòng",
+"to change; to fluctuate; change; fluctuation"
+],
+[
+"变更",
 6,
-"yǎn biàn",
-"to develop; to evolve; development; evolution"
+"biàn gēng",
+"to change; to alter; to modify"
+],
+[
+"变换",
+6,
+"biàn huàn",
+"to transform; to convert; to vary; to alternate; a transformation"
+],
+[
+"变形",
+6,
+"biàn xíng",
+"deformation; to become deformed; to change shape; to morph"
+],
+[
+"变革",
+7,
+"biàn gé",
+"to transform; to change"
+],
+[
+"变幻莫测",
+7,
+"biàn huàn mò cè",
+"to change unpredictably; unpredictable; erratic; treacherous"
+],
+[
+"变迁",
+7,
+"biàn qiān",
+"changes; vicissitudes"
+],
+[
+"变异",
+7,
+"biàn yì",
+"variation"
 ],
 [
 "变质",
-6,
+7,
 "biàn zhì",
 "to degenerate; to deteriorate; (of food) to go bad; to go off; (geology) metamorphism"
 ],
 [
-"变故",
-6,
-"biàn gù",
-"an unforeseen event; accident; misfortune"
+"哗变",
+7,
+"huá biàn",
+"mutiny; rebellion"
 ],
 [
-"变迁",
-6,
-"biàn qiān",
-"changes; vicissitudes"
+"千变万化",
+7,
+"qiān biàn wàn huà",
+"countless changes; constant permutation"
+],
+[
+"演变",
+7,
+"yǎn biàn",
+"to develop; to evolve; development; evolution"
+],
+[
+"一成不变",
+7,
+"yī chéng bù biàn",
+"nothing much changes (idiom); always the same; stuck in a rut"
 ]
 ],
 "extraWords": [
-[
-"变成",
-181.93,
-"biàn chéng",
-"to change into; to turn into; to become"
-],
 [
 "变得",
 85.61,
@@ -81,52 +147,16 @@
 "pathological changes; lesion; diseased (kidney, cornea etc)"
 ],
 [
-"变动",
-23.48,
-"biàn dòng",
-"to change; to fluctuate; change; fluctuation"
-],
-[
-"变形",
-20.27,
-"biàn xíng",
-"deformation; to become deformed; to change shape; to morph"
-],
-[
-"变更",
-18.66,
-"biàn gēng",
-"to change; to alter; to modify"
-],
-[
-"变革",
-17.75,
-"biàn gé",
-"to transform; to change"
-],
-[
-"变为",
-15.12,
-"biàn wéi",
-"to change into"
-],
-[
-"变异",
-8.78,
-"biàn yì",
-"variation"
-],
-[
-"变换",
-8.51,
-"biàn huàn",
-"to transform; to convert; to vary; to alternate; a transformation"
-],
-[
 "突变",
 7.91,
 "tū biàn",
 "sudden change; mutation"
+],
+[
+"变身",
+7.43,
+"???",
+"???"
 ],
 [
 "变性",

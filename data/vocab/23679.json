@@ -1,6 +1,6 @@
 {
 "char": "屿",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "island",
 "pron": "yǔ"
@@ -8,7 +8,7 @@
 "words": [
 [
 "岛屿",
-5,
+7,
 "dǎo yǔ",
 "island"
 ]
@@ -18,7 +18,13 @@
 "鼓浪屿",
 5.57,
 "Gǔ làng yǔ",
-"Gulangyu, scenic island off Xiamen 廈門|厦门[Xia4 men2]"
+"Gulangyu, scenic island off Xiamen 厦门[Xià mén]"
+],
+[
+"屿",
+2.84,
+"yǔ",
+"islet"
 ]
 ],
 "strokes": [

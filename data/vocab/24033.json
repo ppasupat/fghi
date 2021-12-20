@@ -1,6 +1,6 @@
 {
 "char": "巡",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "patrol, go on circuit, cruise",
 "pron": "xún"
@@ -8,12 +8,24 @@
 "words": [
 [
 "巡逻",
-6,
+7,
 "xún luó",
 "to patrol (police, army or navy)"
 ]
 ],
 "extraWords": [
+[
+"巡",
+22.9,
+"xún",
+"to patrol; to make one's rounds; classifier for rounds of drinks"
+],
+[
+"巡",
+22.9,
+"xún",
+"variant of 巡[xún]"
+],
 [
 "巡回",
 6.82,
@@ -30,7 +42,7 @@
 "巡演",
 6.23,
 "xún yǎn",
-"(theater etc) to tour; to be on tour; to give itinerant performances; abbr. for 巡迴演出|巡回演出[xun2 hui2 yan3 chu1]"
+"(theater etc) to tour; to be on tour; to give itinerant performances; abbr. for 巡回演出[xún huí yǎn chū]"
 ]
 ],
 "strokes": [

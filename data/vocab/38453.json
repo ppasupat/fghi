@@ -1,6 +1,6 @@
 {
 "char": "阵",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "column, row or file of troops",
 "pron": "zhèn"
@@ -8,35 +8,41 @@
 "words": [
 [
 "阵",
-5,
+4,
 "zhèn",
 "disposition of troops; wave; spate; burst; spell; short period of time; classifier for events or states of short duration"
 ],
 [
-"阵地",
-6,
-"zhèn dì",
-"(military) position; front"
-],
-[
-"阵容",
-6,
-"zhèn róng",
-"troop arrangement; battle formation; lineup (of a sports team etc)"
-]
-],
-"extraWords": [
-[
 "一阵",
-49.76,
+7,
 "yī zhèn",
 "a burst; a fit; a peal; a spell (period of time)"
 ],
+[
+"阵容",
+7,
+"zhèn róng",
+"troop arrangement; battle formation; lineup (of a sports team etc)"
+],
+[
+"阵营",
+7,
+"zhèn yíng",
+"group of people; camp; faction; sides in a dispute"
+]
+],
+"extraWords": [
 [
 "一阵子",
 15.38,
 "yī zhèn zi",
 "a while; a spell; a short time; a burst"
+],
+[
+"阵地",
+14.74,
+"zhèn dì",
+"(military) position; front"
 ],
 [
 "对阵",
@@ -45,10 +51,10 @@
 "poised for battle; to square up for a fight"
 ],
 [
-"阵营",
-10.89,
-"zhèn yíng",
-"group of people; camp; faction; sides in a dispute"
+"阵阵",
+8.51,
+"???",
+"???"
 ],
 [
 "阵雨",

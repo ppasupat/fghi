@@ -1,6 +1,6 @@
 {
 "char": "尘",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "dust, dirt, ashes, cinders",
 "pron": "chén"
@@ -8,12 +8,18 @@
 "words": [
 [
 "灰尘",
-5,
+7,
 "huī chén",
 "dust"
 ]
 ],
 "extraWords": [
+[
+"尘",
+22.72,
+"chén",
+"dust; dirt; earth"
+],
 [
 "沙尘",
 5.75,

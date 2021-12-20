@@ -1,6 +1,6 @@
 {
 "char": "取",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "take, receive, obtain; select",
 "pron": "qǔ"
@@ -8,90 +8,156 @@
 "words": [
 [
 "取",
-4,
+2,
 "qǔ",
 "to take; to get; to choose; to fetch"
 ],
 [
+"取得",
+2,
+"qǔ dé",
+"to acquire; to get; to obtain"
+],
+[
+"采取",
+3,
+"cǎi qǔ",
+"to adopt or carry out (measures, policies, course of action); to take"
+],
+[
 "取消",
-5,
+3,
 "qǔ xiāo",
 "to cancel; cancellation"
 ],
 [
 "争取",
-5,
+3,
 "zhēng qǔ",
 "to fight for; to strive for; to win over"
 ],
 [
-"采取",
-5,
-"cǎi qǔ",
-"to adopt or carry out (measures, policies, course of action); to take"
-],
-[
-"录取",
-5,
-"lù qǔ",
-"to accept an applicant (prospective student, employee etc) who passes an entrance exam; to admit (a student); to hire (a job candidate)"
-],
-[
-"吸取",
-5,
-"xī qǔ",
-"to absorb; to draw (a lesson, insight etc); to assimilate"
-],
-[
-"无理取闹",
-6,
-"wú lǐ qǔ nào",
-"to make trouble without reason (idiom); to be deliberately provocative"
-],
-[
-"索取",
-6,
-"suǒ qǔ",
-"to ask; to demand"
-],
-[
-"取缔",
-6,
-"qǔ dì",
-"to suppress; to crack down on; to prohibit"
-]
-],
-"extraWords": [
-[
-"取得",
-201.82,
-"qǔ dé",
-"to acquire; to get; to obtain"
-],
-[
-"领取",
-32.65,
-"lǐng qǔ",
-"to receive; to draw; to get"
-],
-[
-"收取",
-28.32,
-"shōu qǔ",
-"to receive; to collect"
-],
-[
 "获取",
-27.92,
+4,
 "huò qǔ",
 "to gain; to get; to acquire"
 ],
 [
+"录取",
+4,
+"lù qǔ",
+"to accept an applicant (prospective student, employee etc) who passes an entrance exam; to admit (a student); to hire (a job candidate)"
+],
+[
+"夺取",
+6,
+"duó qǔ",
+"to seize; to capture; to wrest control of"
+],
+[
+"领取",
+6,
+"lǐng qǔ",
+"to receive; to draw; to get"
+],
+[
+"取款",
+6,
+"qǔ kuǎn",
+"to withdraw money from a bank"
+],
+[
+"取款机",
+6,
+"qǔ kuǎn jī",
+"ATM"
+],
+[
+"收取",
+6,
+"shōu qǔ",
+"to receive; to collect"
+],
+[
 "听取",
-21.26,
+6,
 "tīng qǔ",
 "to hear (news); to listen to"
 ],
+[
+"换取",
+7,
+"huàn qǔ",
+"to obtain (sth) in exchange; to exchange (sth) for (sth else)"
+],
+[
+"窃取",
+7,
+"qiè qǔ",
+"to steal; to seize"
+],
+[
+"取代",
+7,
+"qǔ dài",
+"to replace; to supersede; to supplant; (chemistry) substitution"
+],
+[
+"取缔",
+7,
+"qǔ dì",
+"to suppress; to crack down on; to prohibit"
+],
+[
+"取而代之",
+7,
+"qǔ ér dài zhī",
+"to substitute for sb; to remove and replace"
+],
+[
+"取经",
+7,
+"qǔ jīng",
+"to journey to India on a quest for the Buddhist scriptures; to learn by studying another's experience"
+],
+[
+"取决于",
+7,
+"qǔ jué yú",
+"to hinge on; to be decided by; to depend on"
+],
+[
+"取暖",
+7,
+"qǔ nuǎn",
+"to warm oneself (by a fire etc)"
+],
+[
+"取胜",
+7,
+"qǔ shèng",
+"to score a victory; to prevail over one's opponents"
+],
+[
+"取笑",
+7,
+"qǔ xiào",
+"to tease; to make fun of"
+],
+[
+"索取",
+7,
+"suǒ qǔ",
+"to ask; to demand"
+],
+[
+"吸取",
+7,
+"xī qǔ",
+"to absorb; to draw (a lesson, insight etc); to assimilate"
+]
+],
+"extraWords": [
 [
 "提取",
 20.63,
@@ -99,40 +165,10 @@
 "to withdraw (money); to collect (left luggage); to extract; to refine"
 ],
 [
-"取代",
-20.25,
-"qǔ dài",
-"to replace; to supersede; to supplant; (chemistry) substitution"
-],
-[
 "取出",
 18.01,
 "qǔ chū",
 "to take out; to extract; to draw out"
-],
-[
-"取决于",
-17.79,
-"qǔ jué yú",
-"to hinge on; to be decided by; to depend on"
-],
-[
-"夺取",
-13.61,
-"duó qǔ",
-"to seize; to capture; to wrest control of"
-],
-[
-"取胜",
-13.28,
-"qǔ shèng",
-"to score a victory; to prevail over one's opponents"
-],
-[
-"取笑",
-10.76,
-"qǔ xiào",
-"to tease; to make fun of"
 ],
 [
 "进取",
@@ -157,18 +193,6 @@
 7.44,
 "xuǎn qǔ",
 "to choose"
-],
-[
-"取暖",
-7.19,
-"qǔ nuǎn",
-"to warm oneself (by a fire etc)"
-],
-[
-"换取",
-6.69,
-"huàn qǔ",
-"to obtain (sth) in exchange; to exchange (sth) for (sth else)"
 ],
 [
 "取证",

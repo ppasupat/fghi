@@ -1,6 +1,6 @@
 {
 "char": "阅",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "examine, inspect, review, read",
 "pron": "yuè"
@@ -11,6 +11,18 @@
 4,
 "yuè dú",
 "to read; reading"
+],
+[
+"阅览室",
+5,
+"yuè lǎn shì",
+"reading room; CL:间[jiān]"
+],
+[
+"阅历",
+7,
+"yuè lì",
+"to experience; experience"
 ]
 ],
 "extraWords": [
@@ -25,6 +37,12 @@
 6.12,
 "dìng yuè",
 "subscription; to subscribe to"
+],
+[
+"阅",
+6.0,
+"yuè",
+"to inspect; to review; to read; to peruse; to go through; to experience"
 ]
 ],
 "strokes": [

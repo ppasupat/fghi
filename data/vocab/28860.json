@@ -1,6 +1,6 @@
 {
 "char": "炼",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "smelt, refine; distill, condense",
 "pron": "liàn"
@@ -8,13 +8,25 @@
 "words": [
 [
 "锻炼",
-3,
+4,
 "duàn liàn",
 "to toughen; to temper; to engage in physical exercise; to work out; (fig.) to develop one's skills; to train oneself"
 ],
 [
+"炼",
+7,
+"liàn",
+"to refine; to smelt"
+],
+[
+"炼",
+7,
+"liàn",
+"variant of 链[liàn], chain; variant of 炼[liàn]"
+],
+[
 "提炼",
-6,
+7,
 "tí liàn",
 "to extract (ore, minerals etc); to refine; to purify; to process"
 ]

@@ -1,6 +1,6 @@
 {
 "char": "梦",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "dream; visionary; wishful",
 "pron": "mèng"
@@ -10,22 +10,34 @@
 "梦",
 4,
 "mèng",
-"dream; CL:場|场[chang2],個|个[ge4]; (bound form) to dream"
+"dream; CL:场[cháng],个[gè]; (bound form) to dream"
+],
+[
+"梦见",
+4,
+"mèng jiàn",
+"to dream about (sth or sb); to see in a dream"
 ],
 [
 "梦想",
-5,
+4,
 "mèng xiǎng",
 "(fig.) to dream of; dream"
-]
 ],
-"extraWords": [
 [
 "做梦",
-25.52,
+4,
 "zuò mèng",
 "to dream; to have a dream; fig. illusion; fantasy; pipe dream"
 ],
+[
+"梦幻",
+7,
+"mèng huàn",
+"dream; illusion; reverie"
+]
+],
+"extraWords": [
 [
 "噩梦",
 23.16,
@@ -39,22 +51,16 @@
 "nightmare"
 ],
 [
-"梦幻",
-12.04,
-"mèng huàn",
-"dream; illusion; reverie"
-],
-[
-"梦见",
-9.66,
-"mèng jiàn",
-"to dream about (sth or sb); to see in a dream"
-],
-[
 "红楼梦",
 7.65,
 "Hóng lóu Mèng",
-"A Dream of Red Mansions (first completed edition 1791) by Cao Xueqin 曹雪芹[Cao2 Xue3 qin2], one of the four great novels"
+"A Dream of Red Mansions (first completed edition 1791) by Cao Xueqin 曹雪芹[Cáo Xuě qín], one of the four great novels"
+],
+[
+"美梦",
+7.51,
+"???",
+"???"
 ],
 [
 "梦寐以求",

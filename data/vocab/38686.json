@@ -1,19 +1,32 @@
 {
 "char": "霞",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "rosy clouds",
 "pron": "xiá"
 },
 "words": [
 [
-"霞",
-6,
-"xiá",
-"rose-tinted sky or clouds at sunrise or sunset"
+"彩霞",
+7,
+"cǎi xiá",
+"clouds tinged with sunset hues"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"霞",
+14.04,
+"xiá",
+"rose-tinted sky or clouds at sunrise or sunset"
+],
+[
+"晚霞",
+1.34,
+"wǎn xiá",
+"sunset glow; sunset clouds; afterglow"
+]
+],
 "strokes": [
 "M 519 766 Q 679 800 687 805 Q 694 812 691 821 Q 684 831 656 839 Q 635 845 526 813 Q 415 792 373 788 Q 339 782 363 766 Q 405 742 477 758 L 479 758 L 519 766 Z",
 "M 280 667 Q 271 689 259 700 Q 241 715 239 690 Q 239 648 179 587 Q 158 566 183 511 Q 196 486 216 510 L 276 637 C 285 656 285 656 280 667 Z",

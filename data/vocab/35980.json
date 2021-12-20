@@ -1,6 +1,6 @@
 {
 "char": "貌",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "countenance, appearance",
 "pron": "mào"
@@ -8,21 +8,27 @@
 "words": [
 [
 "礼貌",
-4,
+5,
 "lǐ mào",
 "courtesy; manners"
 ],
 [
-"容貌",
-6,
-"róng mào",
-"one's appearance; one's aspect; looks; features"
+"面貌",
+5,
+"miàn mào",
+"appearance; face; features; CL:个[gè]"
 ],
 [
-"面貌",
-6,
-"miàn mào",
-"appearance; face; features; CL:個|个[ge4]"
+"风貌",
+7,
+"fēng mào",
+"style; manner; ethos"
+],
+[
+"外貌",
+7,
+"wài mào",
+"profile; appearance"
 ]
 ],
 "extraWords": [
@@ -33,10 +39,10 @@
 "to appear to be; to seem as if"
 ],
 [
-"风貌",
-7.19,
-"fēng mào",
-"style; manner; ethos"
+"貌",
+8.5,
+"mào",
+"appearance"
 ],
 [
 "美貌",

@@ -1,6 +1,6 @@
 {
 "char": "硫",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "sulfur",
 "pron": "liú"
@@ -8,10 +8,22 @@
 "words": [],
 "extraWords": [
 [
+"硫",
+7.42,
+"liú",
+"sulfur (chemistry)"
+],
+[
 "硫酸",
 6.4,
 "liú suān",
 "sulfuric acid H2SO4; sulfate"
+],
+[
+"硫磺",
+3.67,
+"liú huáng",
+"sulfur"
 ]
 ],
 "strokes": [

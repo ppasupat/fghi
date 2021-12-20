@@ -1,6 +1,6 @@
 {
 "char": "答",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "answer, reply; return; assent to",
 "pron": "dā, dá"
@@ -8,55 +8,66 @@
 "words": [
 [
 "回答",
-3,
+1,
 "huí dá",
-"to reply; to answer; the answer; CL:個|个[ge4]"
+"to reply; to answer; the answer; CL:个[gè]"
+],
+[
+"答应",
+2,
+"dā ying",
+"to answer; to respond; to answer positively; to agree; to accept; to promise"
 ],
 [
 "答案",
 4,
 "dá àn",
-"answer; solution; CL:個|个[ge4]"
-],
-[
-"答应",
-5,
-"dā ying",
-"to answer; to respond; to answer positively; to agree; to accept; to promise"
+"answer; solution; CL:个[gè]"
 ],
 [
 "报答",
-6,
+5,
 "bào dá",
 "to repay; to requite"
 ],
 [
-"答复",
-6,
-"dá fù",
-"variant of 答覆|答复[da2 fu4]"
+"答",
+5,
+"dā",
+"bound form having the same meaning as the free word 答[dá], used in 答应[dā ying], 答理[dā li] etc"
+],
+[
+"答",
+5,
+"dá",
+"to answer; to reply; to respond"
 ],
 [
 "答复",
-6,
+5,
+"dá fù",
+"variant of 答复[dá fù]"
+],
+[
+"答复",
+5,
 "dá fù",
 "to answer; to reply; Reply to: (in email header)"
 ],
 [
 "答辩",
-6,
+7,
 "dá biàn",
 "to reply (to an accusation); to defend one's dissertation"
-]
 ],
-"extraWords": [
 [
 "解答",
-10.48,
+7,
 "jiě dá",
 "answer; explanation; solution (to a math equation)"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 338 714 Q 354 742 370 767 Q 380 780 364 794 Q 316 827 293 822 Q 281 819 285 804 Q 303 708 199 580 Q 189 576 157 528 Q 150 512 164 518 Q 218 530 298 642 Q 322 684 325 690 L 338 714 Z",
 "M 325 690 Q 353 675 424 685 Q 455 691 492 696 Q 511 700 515 702 Q 522 709 519 717 Q 512 727 486 735 Q 470 738 388 721 Q 364 717 338 714 C 308 710 298 703 325 690 Z",

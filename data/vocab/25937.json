@@ -1,6 +1,6 @@
 {
 "char": "救",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "save, rescue, relieve; help, aid",
 "pron": "jiù"
@@ -8,101 +8,125 @@
 "words": [
 [
 "救",
-5,
+3,
 "jiù",
-"variant of 救[jiu4]"
+"variant of 救[jiù]"
 ],
 [
 "救",
-5,
+3,
 "jiù",
 "to save; to assist; to rescue"
 ],
 [
-"救护车",
-5,
-"jiù hù chē",
-"ambulance; CL:輛|辆[liang4]"
-],
-[
-"挽救",
-6,
-"wǎn jiù",
-"to save; to remedy; to rescue"
-],
-[
-"补救",
-6,
-"bǔ jiù",
-"to remedy"
-],
-[
-"救济",
-6,
-"jiù jì",
-"emergency relief; to help the needy with cash or goods"
-],
-[
-"抢救",
-6,
-"qiǎng jiù",
-"to rescue"
-]
-],
-"extraWords": [
-[
-"拯救",
-68.98,
-"zhěng jiù",
-"to save; to rescue"
-],
-[
-"救命",
-64.06,
-"jiù mìng",
-"to save sb's life; (interj.) Help!; Save me!"
-],
-[
-"救助",
-28.7,
-"jiù zhù",
-"to help sb in trouble; aid; assistance"
-],
-[
-"救援",
-24.88,
-"jiù yuán",
-"to save; to support; to help; to assist"
-],
-[
 "救灾",
-11.62,
+5,
 "jiù zāi",
 "to relieve disaster; to help disaster victims"
 ],
 [
+"抢救",
+5,
+"qiǎng jiù",
+"to rescue"
+],
+[
 "急救",
-11.54,
+6,
 "jí jiù",
 "first aid; emergency treatment"
 ],
 [
+"救命",
+6,
+"jiù mìng",
+"to save sb's life; (interj.) Help!; Save me!"
+],
+[
+"救援",
+6,
+"jiù yuán",
+"to save; to support; to help; to assist"
+],
+[
+"救助",
+6,
+"jiù zhù",
+"to help sb in trouble; aid; assistance"
+],
+[
+"补救",
+7,
+"bǔ jiù",
+"to remedy"
+],
+[
+"呼救",
+7,
+"hū jiù",
+"to call for help"
+],
+[
+"解救",
+7,
+"jiě jiù",
+"to rescue; to help out of difficulties; to save the situation"
+],
+[
+"救护车",
+7,
+"jiù hù chē",
+"ambulance; CL:辆[liàng]"
+],
+[
+"救济",
+7,
+"jiù jì",
+"emergency relief; to help the needy with cash or goods"
+],
+[
 "救治",
-11.01,
+7,
 "jiù zhì",
 "to provide critical care (to a patient or a diseased plant)"
 ],
 [
 "求救",
-9.0,
+7,
 "qiú jiù",
 "to seek help (when in distress or having difficulties)"
 ],
 [
-"解救",
-8.4,
-"jiě jiù",
-"to rescue; to help out of difficulties; to save the situation"
+"搜救",
+7,
+"sōu jiù",
+"search and rescue"
+],
+[
+"挽救",
+7,
+"wǎn jiù",
+"to save; to remedy; to rescue"
+],
+[
+"营救",
+7,
+"yíng jiù",
+"to rescue"
+],
+[
+"拯救",
+7,
+"zhěng jiù",
+"to save; to rescue"
+]
+],
+"extraWords": [
+[
+"救救",
+29.6,
+"???",
+"???"
 ],
 [
 "救世主",
@@ -111,10 +135,10 @@
 "the Savior (in Christianity)"
 ],
 [
-"营救",
-6.89,
-"yíng jiù",
-"to rescue"
+"救人",
+5.01,
+"???",
+"???"
 ]
 ],
 "strokes": [

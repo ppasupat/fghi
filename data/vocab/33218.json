@@ -1,24 +1,30 @@
 {
 "char": "臂",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "arm",
 "pron": "bei, bì"
 },
 "words": [
 [
-"臂",
-6,
-"bì",
-"arm"
+"手臂",
+7,
+"shǒu bì",
+"arm; helper"
 ]
 ],
 "extraWords": [
 [
-"手臂",
-24.86,
-"shǒu bì",
-"arm; helper"
+"臂",
+17.87,
+"bì",
+"arm"
+],
+[
+"双臂",
+2.77,
+"shuāng bì",
+"arms; both arms; two arms"
 ]
 ],
 "strokes": [

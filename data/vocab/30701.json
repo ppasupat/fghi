@@ -1,6 +1,6 @@
 {
 "char": "短",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "short; brief; deficient, lacking",
 "pron": "duǎn"
@@ -8,36 +8,78 @@
 "words": [
 [
 "短",
-3,
+2,
 "duǎn",
 "short; brief; to lack; weak point; fault"
 ],
 [
 "短信",
-4,
+2,
 "duǎn xìn",
 "text message; SMS"
 ],
 [
+"短处",
+3,
+"duǎn chù",
+"shortcoming; defect; fault; one's weak points"
+],
+[
+"短裤",
+3,
+"duǎn kù",
+"short pants; shorts"
+],
+[
+"短期",
+3,
+"duǎn qī",
+"short term; short-term"
+],
+[
 "缩短",
-5,
+4,
 "suō duǎn",
 "to curtail; to cut down"
 ],
 [
-"短促",
+"长短",
 6,
-"duǎn cù",
-"short in time; fleeting; brief; gasping (breath); curt (tone of voice)"
+"cháng duǎn",
+"length; duration; accident; right and wrong; good and bad; long and short"
+],
+[
+"短片",
+6,
+"duǎn piàn",
+"short film; video clip"
+],
+[
+"短缺",
+7,
+"duǎn quē",
+"shortage"
+],
+[
+"短暂",
+7,
+"duǎn zàn",
+"of short duration; brief; momentary"
+],
+[
+"简短",
+7,
+"jiǎn duǎn",
+"brief (statement, summary etc); briefly; brevity"
+],
+[
+"一长一短",
+7,
+"yī cháng yī duǎn",
+"talking endlessly; long-winded"
 ]
 ],
 "extraWords": [
-[
-"短期",
-55.44,
-"duǎn qī",
-"short term; short-term"
-],
 [
 "短线",
 25.27,
@@ -45,34 +87,16 @@
 "short term"
 ],
 [
-"短暂",
-19.04,
-"duǎn zàn",
-"of short duration; brief; momentary"
+"短短",
+24.06,
+"???",
+"???"
 ],
 [
-"短缺",
-10.9,
-"duǎn quē",
-"shortage"
-],
-[
-"短裤",
-10.25,
-"duǎn kù",
-"short pants; shorts"
-],
-[
-"长短",
-6.28,
-"cháng duǎn",
-"length; duration; accident; right and wrong; good and bad; long and short"
-],
-[
-"简短",
-6.0,
-"jiǎn duǎn",
-"brief (statement, summary etc); briefly; brevity"
+"短发",
+5.71,
+"???",
+"???"
 ],
 [
 "长话短说",

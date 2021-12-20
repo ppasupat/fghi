@@ -1,6 +1,6 @@
 {
 "char": "堆",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "heap, pile, crowd; pile up",
 "pron": "duī"
@@ -13,10 +13,10 @@
 "to pile up; to heap up; a mass; pile; heap; stack; large amount"
 ],
 [
-"堆积",
-6,
-"duī jī",
-"to pile up; to heap; accumulation"
+"堆砌",
+7,
+"duī qì",
+"lit. to pile up (bricks); to pack; fig. to pad out (writing with fancy phrases); ornate rhetoric"
 ]
 ],
 "extraWords": [
@@ -25,6 +25,18 @@
 18.31,
 "yī duī",
 "pile"
+],
+[
+"一大堆",
+8.52,
+"???",
+"???"
+],
+[
+"堆积",
+6.39,
+"duī jī",
+"to pile up; to heap; accumulation"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "涌",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "surge up, bubble up, gush forth",
 "pron": "chōng, yǒng"
@@ -8,23 +8,47 @@
 "words": [
 [
 "汹涌",
-6,
+7,
 "xiōng yǒng",
 "to surge up violently (of ocean, river, lake etc); turbulent"
 ],
 [
+"涌",
+7,
+"chōng",
+"(used in place names)"
+],
+[
+"涌",
+7,
+"yǒng",
+"variant of 涌[yǒng]"
+],
+[
+"涌",
+7,
+"yǒng",
+"to bubble up; to rush forth"
+],
+[
+"涌入",
+7,
+"yǒng rù",
+"to come pouring in; influx"
+],
+[
 "涌现",
-6,
+7,
 "yǒng xiàn",
 "to emerge in large numbers; to spring up; to emerge prominently"
 ]
 ],
 "extraWords": [
 [
-"涌入",
-5.49,
-"yǒng rù",
-"to come pouring in; influx"
+"涌动",
+7.93,
+"???",
+"???"
 ]
 ],
 "strokes": [

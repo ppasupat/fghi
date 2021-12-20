@@ -1,6 +1,6 @@
 {
 "char": "阂",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "blocked or separated; to prevent",
 "pron": "hé"
@@ -8,12 +8,19 @@
 "words": [
 [
 "隔阂",
-6,
+7,
 "gé hé",
 "misunderstanding; estrangement; (language etc) barrier"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"阂",
+0.77,
+"hé",
+"obstruct"
+]
+],
 "strokes": [
 "M 301 757 Q 368 679 394 677 Q 410 676 417 696 Q 418 712 408 735 Q 396 754 368 765 Q 325 784 307 788 Q 295 791 295 777 Q 294 767 301 757 Z",
 "M 176 680 Q 203 614 201 546 Q 207 279 162 138 Q 144 81 177 39 L 179 37 Q 192 22 202 37 Q 238 74 239 240 Q 239 544 256 637 Q 256 643 257 645 Q 258 664 242 675 Q 217 696 189 704 Q 179 707 172 698 Q 168 691 176 680 Z",

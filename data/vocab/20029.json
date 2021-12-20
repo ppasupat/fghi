@@ -1,6 +1,6 @@
 {
 "char": "丽",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "beautiful, magnificent, elegant",
 "pron": "lí, lì"
@@ -8,24 +8,60 @@
 "words": [
 [
 "美丽",
-4,
+3,
 "měi lì",
 "beautiful"
 ],
 [
+"风和日丽",
+7,
+"fēng hé rì lì",
+"moderate wind, beautiful sun (idiom); fine sunny weather, esp. in springtime"
+],
+[
 "华丽",
-6,
+7,
 "huá lì",
 "gorgeous"
 ],
 [
+"亮丽",
+7,
+"liàng lì",
+"bright and beautiful"
+],
+[
+"秀丽",
+7,
+"xiù lì",
+"pretty; beautiful"
+],
+[
+"艳丽",
+7,
+"yàn lì",
+"gorgeous; garish and beautiful"
+],
+[
 "壮丽",
-6,
+7,
 "zhuàng lì",
 "magnificence; magnificent; majestic; glorious"
 ]
 ],
 "extraWords": [
+[
+"丽",
+43.16,
+"Lí",
+"Korea"
+],
+[
+"丽",
+43.16,
+"lì",
+"beautiful"
+],
 [
 "玛丽",
 29.12,
@@ -43,12 +79,6 @@
 7.86,
 "Lì jiāng",
 "Lijiang prefecture-level city in northwest Yunnan"
-],
-[
-"亮丽",
-5.97,
-"liàng lì",
-"bright and beautiful"
 ],
 [
 "绚丽",

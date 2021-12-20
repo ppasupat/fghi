@@ -1,6 +1,6 @@
 {
 "char": "晌",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "noon, midday; moment; unit land measurement equal to seven mou (U+755D 畝), or the area that can be sown in one day",
 "pron": "shǎng"
@@ -12,6 +12,18 @@
 5.56,
 "bàn shǎng",
 "half of the day; a long time; quite a while"
+],
+[
+"晌",
+3.51,
+"shǎng",
+"part of the day; midday"
+],
+[
+"晌午",
+0.36,
+"shǎng wu",
+"noon"
 ]
 ],
 "strokes": [

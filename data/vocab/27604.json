@@ -1,6 +1,6 @@
 {
 "char": "比",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "to compare, liken; comparison; than",
 "pron": "bǐ"
@@ -8,27 +8,33 @@
 "words": [
 [
 "比",
-2,
+1,
 "Bǐ",
-"Belgium; Belgian; abbr. for 比利時|比利时[Bi3 li4 shi2]"
+"Belgium; Belgian; abbr. for 比利时[Bǐ lì shí]"
 ],
 [
 "比",
-2,
+1,
 "bī",
-"euphemistic variant of 屄[bi1]"
+"euphemistic variant of 屄[bī]"
 ],
 [
 "比",
-2,
+1,
 "bǐ",
 "to compare; (followed by a noun and adjective) more {adj.} than {noun}; ratio; to gesture; (Taiwan pr. [bi4] in some compounds derived from Classical Chinese)"
 ],
 [
-"比赛",
-3,
-"bǐ sài",
-"competition (sports etc); match; CL:場|场[chang3],次[ci4]; to compete"
+"比如",
+2,
+"bǐ rú",
+"for example; for instance; such as"
+],
+[
+"比如说",
+2,
+"bǐ rú shuō",
+"for example"
 ],
 [
 "比较",
@@ -37,61 +43,109 @@
 "to compare; to contrast; comparatively; relatively; quite; comparison"
 ],
 [
-"比如",
-4,
-"bǐ rú",
-"for example; for instance; such as"
-],
-[
-"对比",
-5,
-"duì bǐ",
-"to contrast; contrast; ratio; CL:個|个[ge4]"
-],
-[
 "比例",
-5,
+3,
 "bǐ lì",
 "proportion; scale"
 ],
 [
-"无比",
-6,
-"wú bǐ",
-"incomparable; matchless"
+"比赛",
+3,
+"bǐ sài",
+"competition (sports etc); match; CL:场[chǎng],次[cì]; to compete"
 ],
-[
-"比方",
-6,
-"bǐ fang",
-"analogy; instance; for instance"
-],
-[
-"比喻",
-6,
-"bǐ yù",
-"to compare; to liken to; metaphor; analogy; figure of speech; figuratively"
-],
-[
-"比重",
-6,
-"bǐ zhòng",
-"proportion; specific gravity"
-]
-],
-"extraWords": [
 [
 "相比",
-101.38,
+3,
 "xiāng bǐ",
 "to compare"
 ],
 [
 "比分",
-58.01,
+4,
 "bǐ fēn",
 "score"
 ],
+[
+"对比",
+4,
+"duì bǐ",
+"to contrast; contrast; ratio; CL:个[gè]"
+],
+[
+"比方",
+5,
+"bǐ fang",
+"analogy; instance; for instance"
+],
+[
+"比重",
+5,
+"bǐ zhòng",
+"proportion; specific gravity"
+],
+[
+"百分比",
+7,
+"bǎi fēn bǐ",
+"percentage"
+],
+[
+"比比皆是",
+7,
+"bǐ bǐ jiē shì",
+"can be found everywhere"
+],
+[
+"比不上",
+7,
+"bǐ bù shàng",
+"can't compare with"
+],
+[
+"比起",
+7,
+"bǐ qǐ",
+"compared with"
+],
+[
+"比试",
+7,
+"bǐ shì",
+"to have a competition; to measure with one's hand or arm; to make a gesture of measuring"
+],
+[
+"比喻",
+7,
+"bǐ yù",
+"to compare; to liken to; metaphor; analogy; figure of speech; figuratively"
+],
+[
+"好比",
+7,
+"hǎo bǐ",
+"to be just like; can be compared to"
+],
+[
+"无比",
+7,
+"wú bǐ",
+"incomparable; matchless"
+],
+[
+"相比之下",
+7,
+"xiāng bǐ zhī xià",
+"by comparison"
+],
+[
+"性价比",
+7,
+"xìng jià bǐ",
+"cost-performance ratio"
+]
+],
+"extraWords": [
 [
 "比尔",
 35.71,
@@ -99,16 +153,16 @@
 "Bill (name)"
 ],
 [
-"比如说",
-24.68,
-"bǐ rú shuō",
-"for example"
-],
-[
 "比利",
 19.94,
 "Bǐ lì",
 "Pelé (1940-), Edson Arantes Do Nascimento, Brazilian football star"
+],
+[
+"鲍比",
+13.47,
+"???",
+"???"
 ],
 [
 "比特",
@@ -133,12 +187,6 @@
 8.21,
 "bǐ lǜ",
 "ratio; rate; percentage"
-],
-[
-"好比",
-8.2,
-"hǎo bǐ",
-"to be just like; can be compared to"
 ],
 [
 "不比",
@@ -171,6 +219,12 @@
 "to evaluate (by comparison)"
 ],
 [
+"艾比",
+6.65,
+"???",
+"???"
+],
+[
 "科比",
 5.87,
 "Kē bǐ",
@@ -189,10 +243,10 @@
 "specific value; ratio"
 ],
 [
-"比不上",
-5.19,
-"bǐ bù shàng",
-"can't compare with"
+"相比较",
+5.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

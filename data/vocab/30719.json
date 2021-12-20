@@ -1,6 +1,6 @@
 {
 "char": "矿",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "mine; mineral, ore",
 "pron": "kuàng"
@@ -10,21 +10,45 @@
 "矿泉水",
 4,
 "kuàng quán shuǐ",
-"mineral spring water; CL:瓶[ping2],杯[bei1]"
+"mineral spring water; CL:瓶[píng],杯[bēi]"
 ],
 [
-"矿产",
+"矿",
 6,
-"kuàng chǎn",
-"minerals"
+"kuàng",
+"ore; mine"
+],
+[
+"矿",
+6,
+"kuàng",
+"variant of 矿[kuàng]"
+],
+[
+"采矿",
+7,
+"cǎi kuàng",
+"mining"
+],
+[
+"矿藏",
+7,
+"kuàng cáng",
+"mineral resources"
+],
+[
+"煤矿",
+7,
+"méi kuàng",
+"coal mine; coal seam"
 ]
 ],
 "extraWords": [
 [
-"煤矿",
-32.6,
-"méi kuàng",
-"coal mine; coal seam"
+"矿产",
+9.63,
+"kuàng chǎn",
+"minerals"
 ],
 [
 "矿工",

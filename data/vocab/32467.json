@@ -1,11 +1,47 @@
 {
 "char": "结",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "knot, tie; join, connect",
 "pron": "jiē, jié"
 },
 "words": [
+[
+"结果",
+2,
+"jiē guǒ",
+"to bear fruit; CL:个[gè]"
+],
+[
+"结果",
+2,
+"jié guǒ",
+"outcome; result; conclusion; in the end; as a result; to kill; to dispatch"
+],
+[
+"结实",
+3,
+"jiē shí",
+"to bear fruit"
+],
+[
+"结实",
+3,
+"jiē shi",
+"rugged; sturdy; strong; durable; buff (physique)"
+],
+[
+"结合",
+3,
+"jié hé",
+"to combine; to link; to integrate; binding; CL:次[cì]"
+],
+[
+"结婚",
+3,
+"jié hūn",
+"to marry; to get married; CL:次[cì]"
+],
 [
 "结束",
 3,
@@ -13,106 +49,130 @@
 "termination; to finish; to end; to conclude; to close"
 ],
 [
-"结婚",
-3,
-"jié hūn",
-"to marry; to get married; CL:次[ci4]"
-],
-[
-"结果",
-4,
-"jiē guǒ",
-"to bear fruit; CL:個|个[ge4]"
-],
-[
-"结果",
-4,
-"jié guǒ",
-"outcome; result; conclusion; in the end; as a result; to kill; to dispatch"
-],
-[
-"总结",
-4,
-"zǒng jié",
-"to sum up; to conclude; summary; résumé; CL:個|个[ge4]"
-],
-[
-"结论",
-5,
-"jié lùn",
-"conclusion; verdict; CL:個|个[ge4]; to conclude; to reach a verdict"
-],
-[
-"结合",
-5,
-"jié hé",
-"to combine; to link; to integrate; binding; CL:次[ci4]"
-],
-[
-"结构",
-5,
-"jié gòu",
-"structure; composition; makeup; architecture; CL:座[zuo4],個|个[ge4]"
-],
-[
-"结实",
-5,
-"jiē shí",
-"to bear fruit"
-],
-[
-"结实",
-5,
-"jiē shi",
-"rugged; sturdy; strong; durable; buff (physique)"
-],
-[
-"结账",
-5,
-"jié zhàng",
-"to pay the bill; to settle accounts; also written 結帳|结帐"
-],
-[
-"结局",
-6,
-"jié jú",
-"conclusion; ending"
-],
-[
 "团结",
-6,
+3,
 "tuán jié",
 "to unite; unity; solidarity; united"
 ],
 [
+"总结",
+3,
+"zǒng jié",
+"to sum up; to conclude; summary; résumé; CL:个[gè]"
+],
+[
+"结",
+4,
+"jiē",
+"(of a plant) to produce (fruit or seeds); Taiwan pr. [jie2]"
+],
+[
+"结",
+4,
+"jié",
+"knot; sturdy; bond; to tie; to bind; to check out (of a hotel)"
+],
+[
+"结构",
+4,
+"jié gòu",
+"structure; composition; makeup; architecture; CL:座[zuò],个[gè]"
+],
+[
+"结论",
+4,
+"jié lùn",
+"conclusion; verdict; CL:个[gè]; to conclude; to reach a verdict"
+],
+[
+"成群结队",
+7,
+"chéng qún jié duì",
+"making up a group, forming a troupe (idiom); in large numbers; as a large crowd"
+],
+[
 "冻结",
-6,
+7,
 "dòng jié",
 "to freeze (water etc); (fig.) to freeze (assets, prices etc)"
 ],
 [
-"结晶",
-6,
-"jié jīng",
-"to crystallize; crystallization; crystal; crystalline; (fig.) the fruit (of labor etc)"
-],
-[
-"结算",
-6,
-"jié suàn",
-"to settle a bill; to close an account"
-],
-[
 "勾结",
-6,
+7,
 "gōu jié",
 "to collude with; to collaborate with; to gang up with"
 ],
 [
-"巴结",
-6,
-"bā jie",
-"to fawn on; to curry favor with; to make up to"
+"归结",
+7,
+"guī jié",
+"to sum up; to conclude; in a nutshell; the end (of a story)"
+],
+[
+"集结",
+7,
+"jí jié",
+"to assemble; to concentrate; to mass; to build up; to marshal"
+],
+[
+"结冰",
+7,
+"jié bīng",
+"to freeze"
+],
+[
+"结晶",
+7,
+"jié jīng",
+"to crystallize; crystallization; crystal; crystalline; (fig.) the fruit (of labor etc)"
+],
+[
+"结局",
+7,
+"jié jú",
+"conclusion; ending"
+],
+[
+"结识",
+7,
+"jié shí",
+"to get to know sb; to meet sb for the first time"
+],
+[
+"结尾",
+7,
+"jié wěi",
+"ending; coda; to wind up"
+],
+[
+"了结",
+7,
+"liǎo jié",
+"to settle; to finish; to conclude; to wind up"
+],
+[
+"情结",
+7,
+"qíng jié",
+"complex (psychology)"
+],
+[
+"张灯结彩",
+7,
+"zhāng dēng jié cǎi",
+"to be decorated with lanterns and colored banners (idiom)"
+],
+[
+"症结",
+7,
+"zhēng jié",
+"hard lump in the abdomen (in Chinese medicine); crux of an issue; main point in an argument; sticking point; deadlock in negotiations"
+],
+[
+"终结",
+7,
+"zhōng jié",
+"end; conclusion; to come to an end; to terminate (sth)"
 ]
 ],
 "extraWords": [
@@ -123,22 +183,10 @@
 "to intertwine; to band together (with); to link up (with); twisted; tangled; confused; to be at a loss"
 ],
 [
-"了结",
-14.16,
-"liǎo jié",
-"to settle; to finish; to conclude; to wind up"
-],
-[
-"终结",
-12.13,
-"zhōng jié",
-"end; conclusion; to come to an end; to terminate (sth)"
-],
-[
-"结尾",
-12.04,
-"jié wěi",
-"ending; coda; to wind up"
+"结算",
+25.49,
+"jié suàn",
+"to settle a bill; to close an account"
 ],
 [
 "结案",
@@ -169,18 +217,6 @@
 6.44,
 "jié chéng",
 "to form; to forge (alliances etc)"
-],
-[
-"集结",
-5.99,
-"jí jié",
-"to assemble; to concentrate; to mass; to build up; to marshal"
-],
-[
-"情结",
-5.57,
-"qíng jié",
-"complex (psychology)"
 ],
 [
 "结核",

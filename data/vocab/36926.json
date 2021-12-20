@@ -1,17 +1,30 @@
 {
 "char": "逾",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "go over, pass over, exceed",
 "pron": "yú"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "逾期",
-7.17,
+7,
 "yú qī",
 "to be overdue; to fail to meet a deadline; to be behind in doing sth"
+]
+],
+"extraWords": [
+[
+"逾",
+10.96,
+"yú",
+"variant of 逾[yú]"
+],
+[
+"逾",
+10.96,
+"yú",
+"to exceed; to go beyond; to transcend; to cross over; to jump over"
 ]
 ],
 "strokes": [

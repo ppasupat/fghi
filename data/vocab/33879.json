@@ -1,11 +1,17 @@
 {
 "char": "著",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "manifest; (Cant.) to wear",
 "pron": "zhù, zhuó"
 },
 "words": [
+[
+"显著",
+4,
+"xiǎn zhù",
+"outstanding; notable; remarkable; statistically significant"
+],
 [
 "著名",
 4,
@@ -14,23 +20,47 @@
 ],
 [
 "著作",
-6,
+4,
 "zhù zuò",
-"to write; literary work; book; article; writings; CL:部[bu4]"
+"to write; literary work; book; article; writings; CL:部[bù]"
 ],
 [
-"显著",
-6,
-"xiǎn zhù",
-"outstanding; notable; remarkable; statistically significant"
+"名著",
+7,
+"míng zhù",
+"masterpiece"
+],
+[
+"专著",
+7,
+"zhuān zhù",
+"monograph; specialized text"
 ]
 ],
 "extraWords": [
+[
+"著",
+47.31,
+"zhù",
+"to make known; to show; to prove; to write; book; outstanding"
+],
+[
+"显著性",
+14.58,
+"???",
+"???"
+],
 [
 "著称",
 6.16,
 "zhù chēng",
 "to be widely known as"
+],
+[
+"执著",
+5.82,
+"???",
+"???"
 ]
 ],
 "strokes": [

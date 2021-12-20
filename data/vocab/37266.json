@@ -1,16 +1,16 @@
 {
 "char": "醒",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "wake up; sober up; startle",
 "pron": "xǐng"
 },
 "words": [
 [
-"醒",
+"清醒",
 4,
-"xǐng",
-"to wake up; to be awake; to become aware; to sober up; to come to"
+"qīng xǐng",
+"clear-headed; sober; awake"
 ],
 [
 "提醒",
@@ -19,31 +19,49 @@
 "to remind; to call attention to; to warn of"
 ],
 [
-"清醒",
-6,
-"qīng xǐng",
-"clear-headed; sober; awake"
+"醒",
+4,
+"xǐng",
+"to wake up; to be awake; to become aware; to sober up; to come to"
+],
+[
+"惊醒",
+7,
+"jīng xǐng",
+"to rouse; to be woken by sth; to wake with a start; to sleep lightly"
+],
+[
+"觉醒",
+7,
+"jué xǐng",
+"to awaken; to come to realize; awakened to the truth; the truth dawns upon one; scales fall from the eyes; to become aware"
 ],
 [
 "苏醒",
-6,
+7,
 "sū xǐng",
 "to come to; to awaken; to regain consciousness"
 ],
 [
-"觉醒",
-6,
-"jué xǐng",
-"to awaken; to come to realize; awakened to the truth; the truth dawns upon one; scales fall from the eyes; to become aware"
-]
-],
-"extraWords": [
-[
 "醒来",
-31.06,
+7,
 "xǐng lái",
 "to waken"
 ],
+[
+"醒目",
+7,
+"xǐng mù",
+"eye-grabbing (headline); striking (illustration)"
+],
+[
+"醒悟",
+7,
+"xǐng wù",
+"to come to oneself; to come to realize; to come to see the truth; to wake up to reality"
+]
+],
+"extraWords": [
 [
 "叫醒",
 11.09,
@@ -61,18 +79,6 @@
 8.76,
 "huàn xǐng",
 "to wake sb; to rouse"
-],
-[
-"醒目",
-7.39,
-"xǐng mù",
-"eye-grabbing (headline); striking (illustration)"
-],
-[
-"惊醒",
-7.19,
-"jīng xǐng",
-"to rouse; to be woken by sth; to wake with a start; to sleep lightly"
 ]
 ],
 "strokes": [

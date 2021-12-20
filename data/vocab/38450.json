@@ -1,22 +1,46 @@
 {
 "char": "防",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "defend; prevent; embankment",
 "pron": "fáng"
 },
 "words": [
 [
+"防",
+3,
+"fáng",
+"to protect; to defend; to guard against; to prevent"
+],
+[
+"防止",
+3,
+"fáng zhǐ",
+"to prevent; to guard against; to take precautions"
+],
+[
 "预防",
-5,
+3,
 "yù fáng",
 "to prevent; to take precautions against; to protect; to guard against; precautionary; prophylactic"
 ],
 [
+"防治",
+5,
+"fáng zhì",
+"to prevent and cure; prevention and cure"
+],
+[
 "消防",
-6,
+5,
 "xiāo fáng",
 "firefighting; fire control"
+],
+[
+"防范",
+6,
+"fáng fàn",
+"to be on guard; wariness; to guard against; preventive"
 ],
 [
 "防守",
@@ -25,43 +49,67 @@
 "to defend; to protect (against)"
 ],
 [
-"防止",
-6,
-"fáng zhǐ",
-"to prevent; to guard against; to take precautions"
+"提防",
+7,
+"dī fang",
+"to guard against; to be vigilant; watch you don't (slip); Taiwan pr. [ti2 fang2]"
+],
+[
+"防盗",
+7,
+"fáng dào",
+"to guard against theft; anti-theft"
+],
+[
+"防盗门",
+7,
+"fáng dào mén",
+"security door"
+],
+[
+"防护",
+7,
+"fáng hù",
+"to defend; to protect"
+],
+[
+"防火墙",
+7,
+"fáng huǒ qiáng",
+"firewall; CL:堵[dǔ]"
+],
+[
+"防卫",
+7,
+"fáng wèi",
+"to defend; defensive; defense"
+],
+[
+"防汛",
+7,
+"fáng xùn",
+"flood control; anti-flood (precautions)"
+],
+[
+"防疫",
+7,
+"fáng yì",
+"disease prevention; protection against epidemic"
 ],
 [
 "防御",
-6,
+7,
 "fáng yù",
 "defense; to defend"
 ],
 [
 "国防",
-6,
+7,
 "guó fáng",
 "national defense"
-],
-[
-"防治",
-6,
-"fáng zhì",
-"to prevent and cure; prevention and cure"
 ]
 ],
 "extraWords": [
-[
-"防范",
-23.97,
-"fáng fàn",
-"to be on guard; wariness; to guard against; preventive"
-],
-[
-"防护",
-13.83,
-"fáng hù",
-"to defend; to protect"
-],
 [
 "以防万一",
 12.37,
@@ -79,12 +127,6 @@
 7.63,
 "guó fáng bù zhǎng",
 "Defense secretary; Defense Minister"
-],
-[
-"防疫",
-6.9,
-"fáng yì",
-"disease prevention; protection against epidemic"
 ],
 [
 "防火",
@@ -105,16 +147,16 @@
 "(so as) to avoid; to prevent; (just) in case"
 ],
 [
-"防卫",
-6.17,
-"fáng wèi",
-"to defend; defensive; defense"
-],
-[
 "防洪",
 5.96,
 "fáng hóng",
 "flood control; flood prevention"
+],
+[
+"后防",
+5.9,
+"???",
+"???"
 ]
 ],
 "strokes": [

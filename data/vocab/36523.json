@@ -1,40 +1,88 @@
 {
 "char": "身",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "body; trunk, hull; rad. no. 158",
 "pron": "shēn"
 },
 "words": [
 [
+"身上",
+1,
+"shēn shang",
+"on the body; at hand; among"
+],
+[
 "身体",
-2,
+1,
 "shēn tǐ",
-"the body; one's health; CL:具[ju4],個|个[ge4]; in person"
+"the body; one's health; CL:具[jù],个[gè]; in person"
 ],
 [
-"身份",
-5,
-"shēn fèn",
-"identity; aspect of one's identity (i.e. sth that one is – mayor, father, permanent resident etc); role; capacity (as in \"in his capacity as a ...\" 以…的身份[yi3 xx5 de5 shen1 fen4]); status (social, legal etc); position; rank"
+"全身",
+2,
+"quán shēn",
+"whole body; em (typography)"
 ],
 [
-"身材",
-5,
-"shēn cái",
-"stature; build (height and weight); figure"
+"身边",
+2,
+"shēn biān",
+"at one's side; on hand"
+],
+[
+"身份证",
+3,
+"shēn fèn zhèng",
+"identity card; ID"
+],
+[
+"自身",
+3,
+"zì shēn",
+"itself; oneself; one's own"
 ],
 [
 "健身",
-5,
+4,
 "jiàn shēn",
 "to exercise; to keep fit; to work out; physical exercise"
 ],
 [
-"随身",
+"身材",
+4,
+"shēn cái",
+"stature; build (height and weight); figure"
+],
+[
+"身份",
+4,
+"shēn fèn",
+"identity; aspect of one's identity (i.e. sth that one is – mayor, father, permanent resident etc); role; capacity (as in \"in his capacity as a ...\" 以…的身份[yǐ xx5 de shēn fèn]); status (social, legal etc); position; rank"
+],
+[
+"身高",
+4,
+"shēn gāo",
+"(a person's) height"
+],
+[
+"转身",
+4,
+"zhuǎn shēn",
+"(of a person) to turn round; to face about; (of a widow) to remarry (archaic)"
+],
+[
+"一身",
 5,
-"suí shēn",
-"to (carry) on one's person; to (take) with one"
+"yī shēn",
+"whole body; from head to toe; single person; a suit of clothes"
+],
+[
+"终身",
+5,
+"zhōng shēn",
+"lifelong; all one's life; marriage"
 ],
 [
 "本身",
@@ -43,90 +91,150 @@
 "itself; in itself; per se"
 ],
 [
-"浑身",
-6,
-"hún shēn",
-"all over; from head to foot"
-],
-[
-"终身",
-6,
-"zhōng shēn",
-"lifelong; all one's life; marriage"
+"藏身",
+7,
+"cáng shēn",
+"to hide; to go into hiding; to take refuge"
 ],
 [
 "出身",
-6,
+7,
 "chū shēn",
 "to be born of; to come from; family background; class origin"
 ],
 [
-"动身",
-6,
-"dòng shēn",
-"to go on a journey; to leave"
-]
-],
-"extraWords": [
-[
-"身上",
-215.46,
-"shēn shang",
-"on the body; at hand; among"
-],
-[
-"身边",
-118.04,
-"shēn biān",
-"at one's side; on hand"
-],
-[
-"自身",
-89.32,
-"zì shēn",
-"itself; oneself; one's own"
-],
-[
-"全身",
-40.07,
-"quán shēn",
-"whole body; em (typography)"
-],
-[
 "单身",
-36.88,
+7,
 "dān shēn",
 "unmarried; single"
 ],
 [
-"一身",
-31.87,
-"yī shēn",
-"whole body; from head to toe; single person; a suit of clothes"
+"动身",
+7,
+"dòng shēn",
+"to go on a journey; to leave"
+],
+[
+"独身",
+7,
+"dú shēn",
+"unmarried; single"
+],
+[
+"化身",
+7,
+"huà shēn",
+"incarnation; reincarnation; embodiment (of abstract idea); personification"
+],
+[
+"浑身",
+7,
+"hún shēn",
+"all over; from head to foot"
+],
+[
+"切身",
+7,
+"qiè shēn",
+"direct; concerning oneself; personal"
+],
+[
+"亲身",
+7,
+"qīn shēn",
+"personal; oneself"
+],
+[
+"人身",
+7,
+"rén shēn",
+"person; personal; human body"
+],
+[
+"身不由己",
+7,
+"shēn bù yóu jǐ",
+"without the freedom to act independently (idiom); involuntary; not of one's own volition; in spite of oneself"
+],
+[
+"身价",
+7,
+"shēn jià",
+"social status; price of a slave; price of a person (a sportsman etc); worth; value (of stocks, valuables etc)"
+],
+[
+"身躯",
+7,
+"shēn qū",
+"body"
+],
+[
+"身心",
+7,
+"shēn xīn",
+"body and mind; mental and physical"
+],
+[
+"身影",
+7,
+"shēn yǐng",
+"silhouette; figure"
+],
+[
+"身子",
+7,
+"shēn zi",
+"body; pregnancy; health"
+],
+[
+"随身",
+7,
+"suí shēn",
+"to (carry) on one's person; to (take) with one"
+],
+[
+"替身",
+7,
+"tì shēn",
+"stand-in; substitute; body double; stuntman; scapegoat; fall guy; to stand in for sb else"
+],
+[
+"投身",
+7,
+"tóu shēn",
+"to throw oneself into sth"
+],
+[
+"脱身",
+7,
+"tuō shēn",
+"to get away; to escape (from obligations); to free oneself; to disengage"
+],
+[
+"以身作则",
+7,
+"yǐ shēn zuò zé",
+"to set an example (idiom); to serve as a model"
+],
+[
+"隐身",
+7,
+"yǐn shēn",
+"to hide oneself; invisible (person or online status)"
+]
+],
+"extraWords": [
+[
+"身",
+316.41,
+"shēn",
+"body; life; oneself; personally; one's morality and conduct; the main part of a structure or body; pregnant; classifier for sets of clothes: suit, twinset; Kangxi radical 158"
 ],
 [
 "身后",
 31.73,
 "shēn hòu",
 "posthumous; one's social background; behind the body"
-],
-[
-"转身",
-30.37,
-"zhuǎn shēn",
-"(of a person) to turn round; to face about; (of a widow) to remarry (archaic)"
-],
-[
-"身高",
-27.77,
-"shēn gāo",
-"(a person's) height"
-],
-[
-"身份证",
-27.7,
-"shēn fèn zhèng",
-"identity card; ID"
 ],
 [
 "机身",
@@ -139,18 +247,6 @@
 21.87,
 "qǐ shēn",
 "to get up; to leave; to set forth"
-],
-[
-"身影",
-19.01,
-"shēn yǐng",
-"silhouette; figure"
-],
-[
-"身心",
-16.74,
-"shēn xīn",
-"body and mind; mental and physical"
 ],
 [
 "修身",
@@ -171,16 +267,16 @@
 "to die"
 ],
 [
+"身旁",
+11.44,
+"???",
+"???"
+],
+[
 "身形",
 11.35,
 "shēn xíng",
 "figure (esp. a woman's)"
-],
-[
-"人身",
-11.29,
-"rén shēn",
-"person; personal; human body"
 ],
 [
 "身着",
@@ -189,28 +285,10 @@
 "to wear"
 ],
 [
-"身价",
-9.89,
-"shēn jià",
-"social status; price of a slave; price of a person (a sportsman etc); worth; value (of stocks, valuables etc)"
-],
-[
 "现身",
 9.58,
 "xiàn shēn",
 "to show oneself; to appear; (of a deity) to appear in the flesh"
-],
-[
-"脱身",
-9.24,
-"tuō shēn",
-"to get away; to escape (from obligations); to free oneself; to disengage"
-],
-[
-"身子",
-8.53,
-"shēn zi",
-"body; pregnancy; health"
 ],
 [
 "健身房",
@@ -231,40 +309,22 @@
 "exhibition game"
 ],
 [
+"变身",
+7.43,
+"???",
+"???"
+],
+[
 "上身",
 7.23,
 "shàng shēn",
 "upper part of the body"
 ],
 [
-"藏身",
-6.98,
-"cáng shēn",
-"to hide; to go into hiding; to take refuge"
-],
-[
-"身躯",
-6.63,
-"shēn qū",
-"body"
-],
-[
 "热身",
 6.44,
 "rè shēn",
 "to warm up (sports); (fig.) to prepare; to get in condition"
-],
-[
-"投身",
-6.35,
-"tóu shēn",
-"to throw oneself into sth"
-],
-[
-"化身",
-6.31,
-"huà shēn",
-"incarnation; reincarnation; embodiment (of abstract idea); personification"
 ],
 [
 "身处",

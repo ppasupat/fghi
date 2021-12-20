@@ -1,22 +1,16 @@
 {
 "char": "麦",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "wheat, barley, oats; simplified form of KangXi radical number 199",
 "pron": "mài"
 },
 "words": [
 [
-"麦克风",
-5,
-"mài kè fēng",
-"microphone (loanword)"
-],
-[
 "小麦",
-5,
+6,
 "xiǎo mài",
-"wheat; CL:粒[li4]"
+"wheat; CL:粒[lì]"
 ]
 ],
 "extraWords": [
@@ -33,6 +27,24 @@
 "microphone (loanword)"
 ],
 [
+"麦",
+31.6,
+"Mài",
+"surname Mai"
+],
+[
+"麦",
+31.6,
+"mài",
+"wheat; barley; oats"
+],
+[
+"麦克斯",
+15.05,
+"???",
+"???"
+],
+[
 "麦当劳",
 10.84,
 "Mài dāng láo",
@@ -43,6 +55,18 @@
 9.39,
 "Dān mài",
 "Denmark"
+],
+[
+"麦克风",
+9.21,
+"mài kè fēng",
+"microphone (loanword)"
+],
+[
+"麦蒂",
+8.54,
+"???",
+"???"
 ],
 [
 "麦片",

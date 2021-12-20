@@ -1,145 +1,337 @@
 {
 "char": "后",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "queen, empress, sovereign; (simp. for 後) behind, rear, after",
 "pron": "hòu"
 },
 "words": [
 [
-"后面",
+"后",
 1,
-"hòu miàn",
-"rear; back; behind; later; afterwards; also pr. [hou4 mian5]"
+"Hòu",
+"surname Hou"
 ],
 [
-"然后",
-3,
-"rán hòu",
-"after; then (afterwards); after that; afterwards"
+"后",
+1,
+"hòu",
+"empress; queen; (archaic) monarch; ruler"
+],
+[
+"后",
+1,
+"hòu",
+"back; behind; rear; afterwards; after; later; post-"
+],
+[
+"后边",
+1,
+"hòu bian",
+"back; rear; behind"
+],
+[
+"后天",
+1,
+"hòu tiān",
+"the day after tomorrow; acquired (not innate); a posteriori"
 ],
 [
 "最后",
-3,
+1,
 "zuì hòu",
 "final; last; finally; ultimate"
 ],
 [
 "后来",
-3,
+2,
 "hòu lái",
 "afterwards; later"
 ],
 [
-"后悔",
-4,
-"hòu huǐ",
-"to regret; to repent"
-],
-[
-"后果",
-5,
-"hòu guǒ",
-"consequences; aftermath"
-],
-[
-"落后",
-5,
-"luò hòu",
-"to fall behind; to lag (in technology etc); backward; to retrogress"
-],
-[
-"后背",
-5,
-"hòu bèi",
-"the back (human anatomy); the back part of sth"
-],
-[
-"皇后",
-6,
-"huáng hòu",
-"empress; imperial consort"
-],
-[
-"后代",
-6,
-"hòu dài",
-"descendant; progeny; posterity; later ages; later generations"
-],
-[
-"后勤",
-6,
-"hòu qín",
-"logistics"
-],
-[
-"空前绝后",
-6,
-"kōng qián jué hòu",
-"unprecedented and never to be duplicated; the first and the last; unmatched; unique"
-],
-[
-"争先恐后",
-6,
-"zhēng xiān kǒng hòu",
-"striving to be first and fearing to be last (idiom); outdoing one another"
-],
-[
-"后顾之忧",
-6,
-"hòu gù zhī yōu",
-"fears of trouble in the rear (idiom); family worries (obstructing freedom of action); worries about the future consequences; often in negative expressions, meaning \"no worries about anything\""
-]
-],
-"extraWords": [
-[
-"之后",
-367.8,
-"zhī hòu",
-"afterwards; following; later; after"
-],
-[
-"以后",
-275.04,
-"yǐ hòu",
-"after; later; afterwards; following; later on; in the future"
-],
-[
-"随后",
-95.77,
-"suí hòu",
-"soon after"
-],
-[
 "今后",
-90.34,
+2,
 "jīn hòu",
 "hereafter; henceforth; in the future; from now on"
 ],
 [
-"先后",
-75.47,
-"xiān hòu",
-"early or late; priority; in succession; one after another"
+"然后",
+2,
+"rán hòu",
+"after; then (afterwards); after that; afterwards"
+],
+[
+"以后",
+2,
+"yǐ hòu",
+"after; later; afterwards; following; later on; in the future"
 ],
 [
 "背后",
-50.07,
+3,
 "bèi hòu",
 "behind; at the back; in the rear; behind sb's back"
 ],
 [
+"后果",
+3,
+"hòu guǒ",
+"consequences; aftermath"
+],
+[
+"后面",
+3,
+"hòu miàn",
+"rear; back; behind; later; afterwards; also pr. [hou4 mian5]"
+],
+[
+"后年",
+3,
+"hòu nián",
+"the year after next"
+],
+[
+"落后",
+3,
+"luò hòu",
+"to fall behind; to lag (in technology etc); backward; to retrogress"
+],
+[
 "前后",
-41.29,
+3,
 "qián hòu",
 "around; from beginning to end; all around; front and rear"
 ],
 [
+"后头",
+4,
+"hòu tou",
+"behind; the back; the rear; later; afterwards; (in) the future"
+],
+[
+"之后",
+4,
+"zhī hòu",
+"afterwards; following; later; after"
+],
+[
 "此后",
-32.65,
+5,
 "cǐ hòu",
 "after this; afterwards; hereafter"
 ],
+[
+"后悔",
+5,
+"hòu huǐ",
+"to regret; to repent"
+],
+[
+"随后",
+5,
+"suí hòu",
+"soon after"
+],
+[
+"先后",
+5,
+"xiān hòu",
+"early or late; priority; in succession; one after another"
+],
+[
+"过后",
+6,
+"guò hòu",
+"after the event"
+],
+[
+"事后",
+6,
+"shì hòu",
+"after the event; in hindsight; in retrospect"
+],
+[
+"王后",
+6,
+"wáng hòu",
+"queen; CL:个[gè],位[wèi]"
+],
+[
+"往后",
+6,
+"wǎng hòu",
+"from now on; in the future; time to come"
+],
+[
+"从今以后",
+7,
+"cóng jīn yǐ hòu",
+"from now on; henceforward"
+],
+[
+"后备",
+7,
+"hòu bèi",
+"reserve; backup"
+],
+[
+"后备箱",
+7,
+"hòu bèi xiāng",
+"trunk; boot (of a car)"
+],
+[
+"后代",
+7,
+"hòu dài",
+"descendant; progeny; posterity; later ages; later generations"
+],
+[
+"后盾",
+7,
+"hòu dùn",
+"support; backing"
+],
+[
+"后顾之忧",
+7,
+"hòu gù zhī yōu",
+"fears of trouble in the rear (idiom); family worries (obstructing freedom of action); worries about the future consequences; often in negative expressions, meaning \"no worries about anything\""
+],
+[
+"后期",
+7,
+"hòu qī",
+"late stage; later period"
+],
+[
+"后勤",
+7,
+"hòu qín",
+"logistics"
+],
+[
+"后人",
+7,
+"hòu rén",
+"later generation"
+],
+[
+"后台",
+7,
+"hòu tái",
+"backstage area; behind-the-scenes supporter; (computing) back-end; background"
+],
+[
+"后退",
+7,
+"hòu tuì",
+"to recoil; to draw back; to fall back; to retreat"
+],
+[
+"后续",
+7,
+"hòu xù",
+"follow-up; (dialect) to remarry"
+],
+[
+"后遗症",
+7,
+"hòu yí zhèng",
+"(medicine) sequelae; residual effects; (fig.) repercussions; aftermath"
+],
+[
+"后裔",
+7,
+"hòu yì",
+"descendant"
+],
+[
+"后者",
+7,
+"hòu zhě",
+"the latter"
+],
+[
+"皇后",
+7,
+"huáng hòu",
+"empress; imperial consort"
+],
+[
+"马后炮",
+7,
+"mǎ hòu pào",
+"lit. firing after the horse; fig. belated action; giving advice in hindsight"
+],
+[
+"马后炮",
+7,
+"mǎ hòu pào",
+"lit. firing after the horse; fig. belated action; giving advice in hindsight"
+],
+[
+"幕后",
+7,
+"mù hòu",
+"behind the scenes"
+],
+[
+"其后",
+7,
+"qí hòu",
+"next; later; after that"
+],
+[
+"前赴后继",
+7,
+"qián fù hòu jì",
+"to advance dauntlessly in wave upon wave (idiom)"
+],
+[
+"前仰后合",
+7,
+"qián yǎng hòu hé",
+"to sway to and fro; to rock back and forth"
+],
+[
+"日后",
+7,
+"rì hòu",
+"sometime; someday (in the future)"
+],
+[
+"稍后",
+7,
+"shāo hòu",
+"in a little while; in a moment; later on"
+],
+[
+"思前想后",
+7,
+"sī qián xiǎng hòu",
+"to consider past cause and future effect (idiom); to think over the past and future; to ponder over reasons and connection"
+],
+[
+"争先恐后",
+7,
+"zhēng xiān kǒng hòu",
+"striving to be first and fearing to be last (idiom); outdoing one another"
+],
+[
+"滞后",
+7,
+"zhì hòu",
+"to lag behind"
+],
+[
+"走后门",
+7,
+"zǒu hòu mén",
+"lit. to enter by the back door; fig. to gain influence by pull or unofficial channels; back door or under the counter connections"
+]
+],
+"extraWords": [
 [
 "退后",
 31.87,
@@ -153,58 +345,10 @@
 "posthumous; one's social background; behind the body"
 ],
 [
-"后者",
-31.63,
-"hòu zhě",
-"the latter"
-],
-[
-"过后",
-27.35,
-"guò hòu",
-"after the event"
-],
-[
 "后卫",
 24.44,
 "hòu wèi",
 "rear guard; backfield; fullback"
-],
-[
-"后期",
-23.03,
-"hòu qī",
-"late stage; later period"
-],
-[
-"稍后",
-17.47,
-"shāo hòu",
-"in a little while; in a moment; later on"
-],
-[
-"后退",
-16.69,
-"hòu tuì",
-"to recoil; to draw back; to fall back; to retreat"
-],
-[
-"后备",
-15.38,
-"hòu bèi",
-"reserve; backup"
-],
-[
-"后天",
-14.84,
-"hòu tiān",
-"the day after tomorrow; acquired (not innate); a posteriori"
-],
-[
-"幕后",
-14.82,
-"mù hòu",
-"behind the scenes"
 ],
 [
 "后门",
@@ -213,46 +357,16 @@
 "the back door; fig. under the counter (indirect way for influence or pressure); anus"
 ],
 [
-"日后",
-13.66,
-"rì hòu",
-"sometime; someday (in the future)"
-],
-[
-"其后",
-13.33,
-"qí hòu",
-"next; later; after that"
-],
-[
-"后台",
-12.67,
-"hòu tái",
-"backstage area; behind-the-scenes supporter; (computing) back-end; background"
-],
-[
 "而后",
 11.7,
 "ér hòu",
 "after that; then"
 ],
 [
-"后续",
-11.43,
-"hòu xù",
-"follow-up; (dialect) to remarry"
-],
-[
 "后院",
 11.21,
 "hòu yuàn",
 "rear court; back garden; backyard (also fig.)"
-],
-[
-"滞后",
-10.43,
-"zhì hòu",
-"to lag behind"
 ],
 [
 "后方",
@@ -273,10 +387,10 @@
 "after-sales service"
 ],
 [
-"往后",
-8.88,
-"wǎng hòu",
-"from now on; in the future; time to come"
+"饭后",
+8.74,
+"???",
+"???"
 ],
 [
 "预后",
@@ -303,6 +417,12 @@
 "after drinking; under the influence of alcohol"
 ],
 [
+"后背",
+7.84,
+"hòu bèi",
+"the back (human anatomy); the back part of sth"
+],
+[
 "后座",
 7.24,
 "hòu zuò",
@@ -313,12 +433,6 @@
 7.24,
 "hòu zuò",
 "back seat; pillion"
-],
-[
-"后人",
-7.17,
-"hòu rén",
-"later generation"
 ],
 [
 "后援",
@@ -333,16 +447,28 @@
 "postnatal"
 ],
 [
-"王后",
-6.74,
-"wáng hòu",
-"queen; CL:個|个[ge4],位[wei4]"
-],
-[
 "战后",
 6.7,
 "zhàn hòu",
 "after the war; postwar"
+],
+[
+"后会",
+6.06,
+"???",
+"???"
+],
+[
+"后防",
+5.9,
+"???",
+"???"
+],
+[
+"节后",
+5.66,
+"???",
+"???"
 ]
 ],
 "strokes": [

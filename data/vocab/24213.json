@@ -1,11 +1,35 @@
 {
 "char": "底",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "bottom, underneath, underside",
 "pron": "dǐ"
 },
 "words": [
+[
+"到底",
+3,
+"dào dǐ",
+"finally; in the end; when all is said and done; after all; to the end; to the last"
+],
+[
+"底下",
+3,
+"dǐ xia",
+"the location below sth; afterwards"
+],
+[
+"年底",
+3,
+"nián dǐ",
+"the end of the year; year-end"
+],
+[
+"彻底",
+4,
+"chè dǐ",
+"thorough; thoroughly; complete"
+],
 [
 "底",
 4,
@@ -19,37 +43,73 @@
 "background; bottom; base; end (of the month, year etc); remnants; (math.) radix; base"
 ],
 [
-"到底",
+"月底",
 4,
-"dào dǐ",
-"finally; in the end; when all is said and done; after all; to the end; to the last"
+"yuè dǐ",
+"end of the month"
 ],
 [
-"彻底",
-5,
-"chè dǐ",
-"thorough; thoroughly; complete"
+"海底",
+6,
+"hǎi dǐ",
+"seabed; seafloor; bottom of the ocean"
+],
+[
+"底层",
+7,
+"dǐ céng",
+"ground or first floor; bottom (of a pile); lowest rung (of society)"
+],
+[
+"底线",
+7,
+"dǐ xiàn",
+"to underline; bottom line; base line (in sports); baseline; minimum; spy; plant"
+],
+[
+"底蕴",
+7,
+"dǐ yùn",
+"inside information; concrete details"
+],
+[
+"底子",
+7,
+"dǐ zi",
+"base; foundation; bottom"
+],
+[
+"垫底",
+7,
+"diàn dǐ",
+"to put sth on the bottom; to eat sth to tide oneself over until mealtime; to lay the foundation; to come last in the rankings"
+],
+[
+"功底",
+7,
+"gōng dǐ",
+"training in the basic skills; knowledge of the fundamentals"
 ],
 [
 "归根到底",
-6,
+7,
 "guī gēn dào dǐ",
 "after all; in the final analysis; ultimately"
+],
+[
+"谜底",
+7,
+"mí dǐ",
+"answer to a riddle"
+],
+[
+"说到底",
+7,
+"shuō dào dǐ",
+"in the final analysis; in the end"
 ]
 ],
 "extraWords": [
-[
-"年底",
-42.41,
-"nián dǐ",
-"the end of the year; year-end"
-],
-[
-"底下",
-25.64,
-"dǐ xia",
-"the location below sth; afterwards"
-],
 [
 "卧底",
 17.26,
@@ -57,22 +117,10 @@
 "to hide (as an undercover agent); an insider (in a gang of thieves); a mole"
 ],
 [
-"底线",
-16.93,
-"dǐ xiàn",
-"to underline; bottom line; base line (in sports); baseline; minimum; spy; plant"
-],
-[
 "心底",
 15.3,
 "xīn dǐ",
 "bottom of one's heart"
-],
-[
-"海底",
-10.7,
-"hǎi dǐ",
-"seabed; seafloor; bottom of the ocean"
 ],
 [
 "打底",
@@ -85,24 +133,6 @@
 7.36,
 "Dǐ tè lǜ",
 "Detroit, Michigan"
-],
-[
-"垫底",
-7.04,
-"diàn dǐ",
-"to put sth on the bottom; to eat sth to tide oneself over until mealtime; to lay the foundation; to come last in the rankings"
-],
-[
-"底层",
-6.18,
-"dǐ céng",
-"ground or first floor; bottom (of a pile); lowest rung (of society)"
-],
-[
-"月底",
-5.77,
-"yuè dǐ",
-"end of the month"
 ],
 [
 "底盘",

@@ -1,6 +1,6 @@
 {
 "char": "拆",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "to break up, split apart, rip open; to destroy",
 "pron": "chāi"
@@ -11,22 +11,21 @@
 5,
 "chāi",
 "to tear open; to tear down; to tear apart; to open"
-]
-],
-"extraWords": [
-[
-"拆迁",
-22.95,
-"chāi qiān",
-"to demolish a building and relocate the inhabitants"
 ],
 [
 "拆除",
-14.96,
+5,
 "chāi chú",
 "to tear down; to demolish; to dismantle; to remove"
+],
+[
+"拆迁",
+6,
+"chāi qiān",
+"to demolish a building and relocate the inhabitants"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 330 568 Q 349 575 371 580 Q 404 590 409 595 Q 418 604 412 612 Q 405 624 374 629 Q 352 632 333 626 L 284 606 Q 200 578 135 567 Q 98 558 126 543 Q 174 522 226 539 Q 254 546 283 554 L 330 568 Z",
 "M 278 364 Q 277 285 275 186 Q 274 164 261 156 Q 254 150 196 163 Q 165 175 167 165 Q 168 158 187 143 Q 244 95 258 69 Q 274 38 288 36 Q 301 35 316 68 Q 334 111 333 182 Q 327 291 327 399 L 327 435 Q 326 502 330 568 L 333 626 Q 333 708 352 770 Q 368 798 316 821 Q 285 840 265 833 Q 249 827 263 805 Q 284 778 285 746 Q 286 730 284 606 L 283 554 Q 282 493 279 410 L 278 364 Z",

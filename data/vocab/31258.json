@@ -1,6 +1,6 @@
 {
 "char": "稚",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "young, immature; childhood",
 "pron": "zhì"
@@ -8,12 +8,37 @@
 "words": [
 [
 "幼稚",
-6,
+7,
 "yòu zhì",
 "young; childish; puerile"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"稚嫩",
+2.8,
+"zhì nèn",
+"young and tender; puerile; soft and immature"
+],
+[
+"稚",
+1.94,
+"zhì",
+"infantile; young"
+],
+[
+"稚",
+1.94,
+"zhì",
+"old variant of 稚[zhì]"
+],
+[
+"稚",
+1.94,
+"zhì",
+"variant of 稚[zhì]"
+]
+],
 "strokes": [
 "M 316 681 Q 404 726 441 736 Q 457 737 460 746 Q 463 756 451 766 Q 390 802 358 796 Q 351 792 352 782 Q 353 743 168 639 Q 164 630 170 628 Q 183 628 284 668 L 316 681 Z",
 "M 339 505 Q 376 515 422 523 Q 438 526 439 533 Q 439 546 421 554 Q 391 566 341 549 L 298 537 Q 150 501 87 491 Q 74 490 72 481 Q 69 471 85 460 Q 124 435 165 450 Q 229 475 274 487 L 339 505 Z",

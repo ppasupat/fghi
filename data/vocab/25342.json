@@ -1,28 +1,28 @@
 {
 "char": "拾",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "pick up, collect, tidy up; accounting form of the numeral ten",
 "pron": "shè, shí"
 },
 "words": [
 [
-"收拾",
-4,
-"shōu shi",
-"to put in order; to tidy up; to pack; to repair; (coll.) to sort sb out; to fix sb"
-],
-[
 "拾",
-6,
+5,
 "shè",
 "to ascend in light steps"
 ],
 [
 "拾",
-6,
+5,
 "shí",
 "to pick up; to collate or arrange; ten (banker's anti-fraud numeral)"
+],
+[
+"收拾",
+5,
+"shōu shi",
+"to put in order; to tidy up; to pack; to repair; (coll.) to sort sb out; to fix sb"
 ]
 ],
 "extraWords": [],

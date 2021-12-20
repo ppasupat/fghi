@@ -1,79 +1,139 @@
 {
 "char": "造",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "construct, build, make, begin; prepare",
 "pron": "zào"
 },
 "words": [
 [
+"创造",
+3,
+"chuàng zào",
+"to create; to bring about; to produce; to set (a record)"
+],
+[
+"改造",
+3,
+"gǎi zào",
+"to transform; to reform; to remodel; to remold"
+],
+[
+"造",
+3,
+"zào",
+"to make; to build; to manufacture; to invent; to fabricate; to go to; party (in a lawsuit or legal agreement); crop; classifier for crops"
+],
+[
 "造成",
-5,
+3,
 "zào chéng",
 "to bring about; to create; to cause"
 ],
 [
 "制造",
-5,
+3,
 "zhì zào",
 "to manufacture; to make"
 ],
 [
-"创造",
-5,
-"chuàng zào",
-"to create; to bring about; to produce; to set (a record)"
+"构造",
+4,
+"gòu zào",
+"structure; composition; tectonic (geology); CL:个[gè]"
 ],
 [
 "造型",
-6,
+4,
 "zào xíng",
 "to model; to shape; appearance; style; design; form; pose"
 ],
 [
-"伪造",
+"建造",
+5,
+"jiàn zào",
+"to construct; to build"
+],
+[
+"打造",
 6,
-"wěi zào",
-"to forge; to fake; to counterfeit"
+"dǎ zào",
+"to create; to build; to develop; to forge (of metal)"
+],
+[
+"编造",
+7,
+"biān zào",
+"to compile; to draw up; to fabricate; to invent; to concoct; to make up; to cook up"
+],
+[
+"酿造",
+7,
+"niàng zào",
+"to brew; to make (wine, vinegar, soybean paste etc) by fermentation"
+],
+[
+"人造",
+7,
+"rén zào",
+"man-made; artificial; synthetic"
 ],
 [
 "塑造",
-6,
+7,
 "sù zào",
 "to model; to mold; (fig.) to create (a character, a market, an image etc); (literature) to portray (in words)"
 ],
 [
+"伪造",
+7,
+"wěi zào",
+"to forge; to fake; to counterfeit"
+],
+[
+"营造",
+7,
+"yíng zào",
+"to build (housing); to construct; to make"
+],
+[
+"造福",
+7,
+"zào fú",
+"to benefit (e.g. the people)"
+],
+[
+"造假",
+7,
+"zào jiǎ",
+"to counterfeit; to pass off a fake as genuine"
+],
+[
+"造价",
+7,
+"zào jià",
+"construction cost"
+],
+[
+"造就",
+7,
+"zào jiù",
+"to bring up; to train; to contribute to; achievements (usually of young people)"
+],
+[
+"造纸术",
+7,
+"zào zhǐ shù",
+"papermaking process"
+],
+[
 "铸造",
-6,
+7,
 "zhù zào",
 "to cast (pour metal into a mold)"
 ]
 ],
 "extraWords": [
-[
-"改造",
-90.75,
-"gǎi zào",
-"to transform; to reform; to remodel; to remold"
-],
-[
-"打造",
-52.42,
-"dǎ zào",
-"to create; to build; to develop; to forge (of metal)"
-],
-[
-"建造",
-30.19,
-"jiàn zào",
-"to construct; to build"
-],
-[
-"营造",
-26.7,
-"yíng zào",
-"to build (housing); to construct; to make"
-],
 [
 "制造业",
 23.08,
@@ -87,52 +147,28 @@
 "creativeness; creativity"
 ],
 [
-"构造",
-12.22,
-"gòu zào",
-"structure; composition; tectonic (geology); CL:個|个[ge4]"
-],
-[
 "制造商",
 11.27,
 "zhì zào shāng",
 "manufacturing company"
 ],
 [
-"造就",
-11.27,
-"zào jiù",
-"to bring up; to train; to contribute to; achievements (usually of young people)"
+"造影",
+9.53,
+"???",
+"???"
+],
+[
+"创造出",
+7.3,
+"???",
+"???"
 ],
 [
 "造林",
 7.06,
 "zào lín",
 "forestation"
-],
-[
-"编造",
-7.06,
-"biān zào",
-"to compile; to draw up; to fabricate; to invent; to concoct; to make up; to cook up"
-],
-[
-"造价",
-6.64,
-"zào jià",
-"construction cost"
-],
-[
-"造假",
-6.58,
-"zào jiǎ",
-"to counterfeit; to pass off a fake as genuine"
-],
-[
-"人造",
-6.26,
-"rén zào",
-"man-made; artificial; synthetic"
 ],
 [
 "创造力",

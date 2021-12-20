@@ -1,6 +1,6 @@
 {
 "char": "完",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "complete, finish, settle; whole",
 "pron": "wán"
@@ -14,59 +14,89 @@
 ],
 [
 "完成",
-3,
+2,
 "wán chéng",
 "to complete; to accomplish"
 ],
 [
 "完全",
-4,
+2,
 "wán quán",
 "complete; whole; totally; entirely"
 ],
 [
 "完美",
-5,
+3,
 "wán měi",
 "perfect; perfection; perfectly"
 ],
 [
-"完整",
-5,
-"wán zhěng",
-"complete; intact"
-],
-[
 "完善",
-5,
+3,
 "wán shàn",
 "(of systems, facilities etc) comprehensive; well-developed; excellent; to refine; to improve"
 ],
 [
-"完毕",
-6,
-"wán bì",
-"to finish; to end; to complete"
+"完整",
+3,
+"wán zhěng",
+"complete; intact"
 ],
-[
-"完备",
-6,
-"wán bèi",
-"faultless; complete; perfect; to leave nothing to be desired"
-]
-],
-"extraWords": [
 [
 "完了",
-50.03,
+5,
 "wán le",
 "to be finished; to be done for; ruined; gone to the dogs; oh no"
 ],
 [
+"没完没了",
+7,
+"méi wán méi liǎo",
+"without end; incessantly; on and on"
+],
+[
+"完备",
+7,
+"wán bèi",
+"faultless; complete; perfect; to leave nothing to be desired"
+],
+[
+"完毕",
+7,
+"wán bì",
+"to finish; to end; to complete"
+],
+[
 "完蛋",
-26.26,
+7,
 "wán dàn",
 "(coll.) to be done for"
+],
+[
+"完好",
+7,
+"wán hǎo",
+"intact; in good condition"
+]
+],
+"extraWords": [
+[
+"看完",
+40.53,
+"???",
+"???"
+],
+[
+"不完全",
+12.44,
+"???",
+"???"
+],
+[
+"完事",
+12.16,
+"???",
+"???"
 ],
 [
 "完工",
@@ -75,22 +105,22 @@
 "to finish work; to complete a project"
 ],
 [
+"打完",
+7.32,
+"???",
+"???"
+],
+[
+"没完",
+5.72,
+"???",
+"???"
+],
+[
 "用完",
 5.49,
 "yòng wán",
 "used up; finished"
-],
-[
-"没完没了",
-5.07,
-"méi wán méi liǎo",
-"without end; incessantly; on and on"
-],
-[
-"完好",
-5.07,
-"wán hǎo",
-"intact; in good condition"
 ]
 ],
 "strokes": [

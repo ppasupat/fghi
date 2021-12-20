@@ -1,19 +1,32 @@
 {
 "char": "株",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "numerary adjunct for trees; root",
 "pron": "zhū"
 },
 "words": [
 [
+"守株待兔",
+7,
+"shǒu zhū dài tù",
+"lit. to guard a tree-stump, waiting for rabbits (idiom); to wait idly for opportunities; to trust to chance rather than show initiative"
+],
+[
 "株",
-6,
+7,
 "zhū",
 "tree trunk; stump (tree root); a plant; classifier for trees or plants; strain (biology); to involve others (in shady business)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"植株",
+3.89,
+"zhí zhū",
+"plant (horticulture)"
+]
+],
 "strokes": [
 "M 306 522 Q 328 529 355 536 Q 398 548 404 554 Q 411 561 407 569 Q 400 579 373 585 Q 336 591 307 572 L 268 557 Q 157 526 91 514 Q 57 507 82 493 Q 121 474 172 488 Q 203 497 241 505 L 306 522 Z",
 "M 303 399 Q 304 456 306 522 L 307 572 Q 307 689 328 761 Q 337 774 334 788 Q 327 797 275 830 Q 253 846 234 831 Q 228 827 235 812 Q 266 763 267 714 Q 268 642 269 560 Q 268 559 268 557 L 263 433 Q 259 351 259 262 Q 253 184 232 113 Q 222 77 245 17 Q 252 1 259 -3 Q 265 -9 272 -1 Q 279 3 289 22 Q 299 46 298 75 Q 297 114 302 377 L 303 399 Z",

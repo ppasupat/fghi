@@ -1,22 +1,58 @@
 {
 "char": "查",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "investigate, examine, seek into",
 "pron": "chá, zhā"
 },
 "words": [
 [
+"查",
+2,
+"Zhā",
+"surname Zha"
+],
+[
+"查",
+2,
+"chá",
+"to research; to check; to investigate; to examine; to refer to; to look up (e.g. a word in a dictionary)"
+],
+[
+"查",
+2,
+"zhā",
+"see 山查[shān zhā]"
+],
+[
 "检查",
-3,
+2,
 "jiǎn chá",
-"inspection; to examine; to inspect; CL:次[ci4]"
+"inspection; to examine; to inspect; CL:次[cì]"
 ],
 [
 "调查",
-4,
+3,
 "diào chá",
-"investigation; inquiry; to investigate; to survey; survey; (opinion) poll; CL:項|项[xiang4],個|个[ge4]"
+"investigation; inquiry; to investigate; to survey; survey; (opinion) poll; CL:项[xiàng],个[gè]"
+],
+[
+"查询",
+5,
+"chá xún",
+"to check; to inquire; to consult (a document etc); inquiry; query"
+],
+[
+"查出",
+6,
+"chá chū",
+"to find out; to discover"
+],
+[
+"查看",
+6,
+"chá kàn",
+"to look over; to examine; to check up; to ferret out"
 ],
 [
 "审查",
@@ -25,42 +61,54 @@
 "to examine; to investigate; to censor out; censorship"
 ],
 [
-"查获",
-6,
-"chá huò",
-"to track down and seize (a criminal suspect, contraband etc)"
-]
-],
-"extraWords": [
-[
-"搜查",
-46.17,
-"sōu chá",
-"to search"
-],
-[
 "查处",
-30.65,
+7,
 "chá chǔ",
 "to investigate and handle (a criminal case)"
 ],
 [
-"查看",
-29.74,
-"chá kàn",
-"to look over; to examine; to check up; to ferret out"
+"查明",
+7,
+"chá míng",
+"to investigate and find out; to ascertain"
 ],
 [
-"查询",
-28.77,
-"chá xún",
-"to check; to inquire; to consult (a document etc); inquiry; query"
+"查找",
+7,
+"chá zhǎo",
+"to search for; to look up"
 ],
 [
-"查出",
-26.05,
-"chá chū",
-"to find out; to discover"
+"复查",
+7,
+"fù chá",
+"rechecking; re-inspection; reexamination"
+],
+[
+"搜查",
+7,
+"sōu chá",
+"to search"
+]
+],
+"extraWords": [
+[
+"查理",
+39.74,
+"???",
+"???"
+],
+[
+"查查",
+29.48,
+"???",
+"???"
+],
+[
+"调查局",
+24.92,
+"???",
+"???"
 ],
 [
 "追查",
@@ -87,22 +135,28 @@
 "random inspection; to do a spot check"
 ],
 [
-"查明",
-9.75,
-"chá míng",
-"to investigate and find out; to ascertain"
+"调查研究",
+10.88,
+"???",
+"???"
+],
+[
+"查获",
+9.94,
+"chá huò",
+"to track down and seize (a criminal suspect, contraband etc)"
+],
+[
+"查克",
+9.27,
+"???",
+"???"
 ],
 [
 "普查",
 8.54,
 "pǔ chá",
 "census; general survey; general investigation; reconnaissance survey"
-],
-[
-"复查",
-8.35,
-"fù chá",
-"rechecking; re-inspection; reexamination"
 ],
 [
 "理查德",
@@ -115,12 +169,6 @@
 7.65,
 "hé chá",
 "to examine; to inspect"
-],
-[
-"查找",
-7.48,
-"chá zhǎo",
-"to search for; to look up"
 ],
 [
 "查阅",

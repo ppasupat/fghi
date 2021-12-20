@@ -1,6 +1,6 @@
 {
 "char": "接",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "receive; continue; catch; connect",
 "pron": "jiē"
@@ -8,33 +8,63 @@
 "words": [
 [
 "接",
-3,
+2,
 "jiē",
 "to receive; to answer (the phone); to meet or welcome sb; to connect; to catch; to join; to extend; to take one's turn on duty; to take over for sb"
 ],
 [
+"接到",
+2,
+"jiē dào",
+"to receive (letter etc)"
+],
+[
 "接受",
-4,
+2,
 "jiē shòu",
 "to accept; to receive"
 ],
 [
-"直接",
-4,
-"zhí jiē",
-"direct (opposite: indirect 間接|间接[jian4 jie1]); immediate; straightforward"
+"接下来",
+2,
+"jiē xià lái",
+"to accept; to take; next; following"
 ],
 [
 "接着",
-4,
+2,
 "jiē zhe",
 "to catch and hold on; to continue; to go on to do sth; to follow; to carry on; then; after that; subsequently; to proceed; to ensue; in turn; in one's turn"
 ],
 [
+"直接",
+2,
+"zhí jiē",
+"direct (opposite: indirect 间接[jiàn jiē]); immediate; straightforward"
+],
+[
+"接待",
+3,
+"jiē dài",
+"to receive (a visitor); to admit (allow sb to enter)"
+],
+[
 "接近",
-5,
+3,
 "jiē jìn",
 "to approach; to get close to"
+],
+[
+"迎接",
+3,
+"yíng jiē",
+"to meet; to welcome; to greet"
+],
+[
+"间接",
+5,
+"jiàn jiē",
+"indirect"
 ],
 [
 "接触",
@@ -43,49 +73,127 @@
 "to touch; to contact; access; in touch with"
 ],
 [
-"迎接",
-5,
-"yíng jiē",
-"to meet; to welcome; to greet"
-],
-[
-"接待",
-5,
-"jiē dài",
-"to receive (a visitor); to admit (allow sb to enter)"
-],
-[
-"间接",
-6,
-"jiàn jiē",
-"indirect"
-],
-[
 "接连",
-6,
+5,
 "jiē lián",
 "on end; in a row; in succession"
 ],
 [
-"再接再厉",
+"连接",
+5,
+"lián jiē",
+"to link; to join; to attach; connection; a link (on web page)"
+],
+[
+"接收",
 6,
-"zài jiē zài lì",
-"to continue the struggle (idiom); to persist; unremitting efforts"
+"jiē shōu",
+"reception (of transmitted signal); to receive; to accept; to admit; to take over (e.g. a factory); to expropriate"
+],
+[
+"交接",
+7,
+"jiāo jiē",
+"(of two things) to come into contact; to meet; to hand over to; to take over from; to associate with; to have friendly relations with; to have sexual intercourse"
+],
+[
+"交头接耳",
+7,
+"jiāo tóu jiē ěr",
+"to whisper to one another's ear"
+],
+[
+"接班",
+7,
+"jiē bān",
+"to take over (from those working the previous shift); to take over (in a leadership role etc); to succeed sb"
+],
+[
+"接班人",
+7,
+"jiē bān rén",
+"successor"
+],
+[
+"接二连三",
+7,
+"jiē èr lián sān",
+"one after another (idiom); in quick succession"
+],
+[
+"接轨",
+7,
+"jiē guǐ",
+"railtrack connection; to integrate into sth; to dock; to connect; to be in step with; to bring into line with; to align"
+],
+[
+"接济",
+7,
+"jiē jì",
+"to give material assistance to"
+],
+[
+"接见",
+7,
+"jiē jiàn",
+"to receive sb; to grant an interview"
+],
+[
+"接力",
+7,
+"jiē lì",
+"relay"
+],
+[
+"接纳",
+7,
+"jiē nà",
+"to admit (to membership)"
+],
+[
+"接手",
+7,
+"jiē shǒu",
+"to take over (duties etc); catcher (baseball etc)"
+],
+[
+"接送",
+7,
+"jiē sòng",
+"picking up and dropping off; greeting and sending off; shuttle (transport service)"
+],
+[
+"接替",
+7,
+"jiē tì",
+"to replace; to take over (a position or post)"
+],
+[
+"接听",
+7,
+"jiē tīng",
+"to answer the phone"
+],
+[
+"接通",
+7,
+"jiē tōng",
+"to connect; to put through"
+],
+[
+"紧接着",
+7,
+"jǐn jiē zhe",
+"immediately afterwards; shortly after that"
 ],
 [
 "衔接",
-6,
+7,
 "xián jiē",
 "to join together; to combine"
 ]
 ],
 "extraWords": [
-[
-"接到",
-46.44,
-"jiē dào",
-"to receive (letter etc)"
-],
 [
 "链接",
 44.73,
@@ -99,34 +207,10 @@
 "interface; port; connector"
 ],
 [
-"连接",
-36.81,
-"lián jiē",
-"to link; to join; to attach; connection; a link (on web page)"
-],
-[
-"接下来",
-35.1,
-"jiē xià lái",
-"to accept; to take; next; following"
-],
-[
-"接收",
-19.22,
-"jiē shōu",
-"reception (of transmitted signal); to receive; to accept; to admit; to take over (e.g. a factory); to expropriate"
-],
-[
 "接吻",
 18.57,
 "jiē wěn",
 "to kiss"
-],
-[
-"接手",
-15.74,
-"jiē shǒu",
-"to take over (duties etc); catcher (baseball etc)"
 ],
 [
 "接过",
@@ -141,28 +225,10 @@
 "to be vaccinated; to be inoculated"
 ],
 [
-"接通",
-12.7,
-"jiē tōng",
-"to connect; to put through"
-],
-[
 "接管",
 11.27,
 "jiē guǎn",
 "to take over; to assume control"
-],
-[
-"接轨",
-10.6,
-"jiē guǐ",
-"railtrack connection; to integrate into sth; to dock; to connect; to be in step with; to bring into line with; to align"
-],
-[
-"紧接着",
-9.52,
-"jǐn jiē zhe",
-"immediately afterwards; shortly after that"
 ],
 [
 "接入",
@@ -183,46 +249,16 @@
 "to receive; to accept; to carry on"
 ],
 [
-"接纳",
-6.19,
-"jiē nà",
-"to admit (to membership)"
+"来接",
+6.31,
+"???",
+"???"
 ],
 [
-"接见",
-5.92,
-"jiē jiàn",
-"to receive sb; to grant an interview"
-],
-[
-"接力",
-5.76,
-"jiē lì",
-"relay"
-],
-[
-"交接",
-5.71,
-"jiāo jiē",
-"(of two things) to come into contact; to meet; to hand over to; to take over from; to associate with; to have friendly relations with; to have sexual intercourse"
-],
-[
-"接送",
-5.47,
-"jiē sòng",
-"picking up and dropping off; greeting and sending off; shuttle (transport service)"
-],
-[
-"接班人",
-5.18,
-"jiē bān rén",
-"successor"
-],
-[
-"接替",
-5.0,
-"jiē tì",
-"to replace; to take over (a position or post)"
+"接电话",
+5.7,
+"???",
+"???"
 ]
 ],
 "strokes": [

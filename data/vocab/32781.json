@@ -1,6 +1,6 @@
 {
 "char": "耍",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "frolic, play, amuse, play with",
 "pron": "shuǎ"
@@ -8,25 +8,30 @@
 "words": [
 [
 "耍",
-6,
+7,
 "Shuǎ",
 "surname Shua"
 ],
 [
 "耍",
-6,
+7,
 "shuǎ",
 "to play with; to wield; to act (cool etc); to display (a skill, one's temper etc)"
-]
 ],
-"extraWords": [
+[
+"耍赖",
+7,
+"shuǎ lài",
+"to act shamelessly; to refuse to acknowledge that one has lost the game, or made a promise etc; to act dumb; to act as if sth never happened"
+],
 [
 "玩耍",
-6.46,
+7,
 "wán shuǎ",
 "to play (as children do); to amuse oneself"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 464 744 Q 542 757 625 767 Q 677 776 685 782 Q 694 789 690 797 Q 684 809 658 817 Q 631 824 603 815 Q 543 799 480 787 Q 410 775 327 773 Q 293 770 316 753 Q 346 729 421 739 L 464 744 Z",
 "M 416 633 Q 455 682 489 707 Q 504 719 493 730 Q 481 739 464 744 C 435 753 418 759 421 739 Q 427 720 386 627 C 374 600 397 610 416 633 Z",

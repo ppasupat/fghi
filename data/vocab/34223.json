@@ -1,23 +1,42 @@
 {
 "char": "薯",
-"level": 7,
+"level": "6",
 "info": {
 "gloss": "yam, tuber, potato",
 "pron": "shǔ"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"薯片",
+6,
+"shǔ piàn",
+"fried potato chips"
+],
 [
 "薯条",
-10.82,
+6,
 "shǔ tiáo",
 "french fries; french fried potatoes; chips"
 ],
 [
 "红薯",
-5.47,
+7,
 "hóng shǔ",
 "sweet potato"
+]
+],
+"extraWords": [
+[
+"薯",
+10.39,
+"shǔ",
+"potato; yam"
+],
+[
+"薯",
+10.39,
+"shǔ",
+"variant of 薯[shǔ]"
 ]
 ],
 "strokes": [

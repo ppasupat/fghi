@@ -1,11 +1,24 @@
 {
 "char": "勒",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "strangle, tighten",
 "pron": "lè, lēi"
 },
-"words": [],
+"words": [
+[
+"勒",
+7,
+"lè",
+"to rein in; to compel; to force; to carve; to engrave; (literary) to command; to lead; bridle; (physics) abbr. for 勒克斯[lè kè sī], lux"
+],
+[
+"勒",
+7,
+"lēi",
+"to strap tightly; to bind"
+]
+],
 "extraWords": [
 [
 "巴勒斯坦",
@@ -36,6 +49,12 @@
 9.37,
 "Fèi dé lè",
 "Roger Federer (1981-), Swiss tennis star"
+],
+[
+"米勒",
+6.92,
+"???",
+"???"
 ]
 ],
 "strokes": [

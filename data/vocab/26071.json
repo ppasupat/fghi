@@ -1,48 +1,66 @@
 {
 "char": "旗",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "banner, flag, streamer",
 "pron": "qí"
 },
 "words": [
 [
-"旗帜",
+"国旗",
 6,
-"qí zhì",
-"ensign; flag"
+"guó qí",
+"flag (of a country); CL:面[miàn]"
+],
+[
+"锦旗",
+7,
+"jǐn qí",
+"silk banner (as an award or gift)"
 ],
 [
 "旗袍",
-6,
+7,
 "qí páo",
 "Chinese-style dress; cheongsam"
+],
+[
+"旗帜",
+7,
+"qí zhì",
+"ensign; flag"
 ]
 ],
 "extraWords": [
 [
+"旗",
+44.28,
+"qí",
+"flag; variant of 旗[qí]"
+],
+[
+"旗",
+44.28,
+"qí",
+"banner; flag; (in Qing times) Manchu (cf. 八旗[Bā qí]); administrative subdivision in inner Mongolia equivalent to 县[xiàn] county; CL:面[miàn]"
+],
+[
 "红旗",
 14.33,
 "Hóng qí",
-"Hongqi district of Xinxiang city 新鄉市|新乡市[Xin1 xiang1 shi4], Henan"
+"Hongqi district of Xinxiang city 新乡市[Xīn xiāng shì], Henan"
 ],
 [
 "红旗",
 14.33,
 "hóng qí",
-"red flag; CL:面[mian4]"
+"red flag; CL:面[miàn]"
 ],
 [
 "旗舰",
 10.37,
 "qí jiàn",
 "flagship"
-],
-[
-"国旗",
-8.21,
-"guó qí",
-"flag (of a country); CL:面[mian4]"
 ],
 [
 "花旗",

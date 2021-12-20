@@ -1,22 +1,16 @@
 {
 "char": "吞",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "swallow; absorb, annex, engulf",
 "pron": "tūn"
 },
 "words": [
 [
-"狼吞虎咽",
+"吞",
 6,
-"láng tūn hǔ yàn",
-"to wolf down one's food (idiom); to devour ravenously; to gorge oneself"
-],
-[
-"吞吞吐吐",
-6,
-"tūn tūn tǔ tǔ",
-"to hum and haw (idiom); to mumble as if hiding sth; to speak and break off, then start again; to hold sth back"
+"tūn",
+"to swallow; to take"
 ]
 ],
 "extraWords": [
@@ -25,6 +19,12 @@
 6.01,
 "tūn shì",
 "to swallow; to engulf; to gobble up"
+],
+[
+"吞吐量",
+3.92,
+"???",
+"???"
 ]
 ],
 "strokes": [

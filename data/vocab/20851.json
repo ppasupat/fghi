@@ -1,11 +1,29 @@
 {
 "char": "关",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "frontier pass; close; relation",
 "pron": "guān"
 },
 "words": [
+[
+"关",
+1,
+"Guān",
+"surname Guan"
+],
+[
+"关",
+1,
+"guān",
+"mountain pass; to close; to shut; to turn off; to concern; to involve"
+],
+[
+"关上",
+1,
+"guān shàng",
+"to close (a door); to turn off (light, electrical equipment etc)"
+],
 [
 "没关系",
 1,
@@ -13,127 +31,187 @@
 "it doesn't matter"
 ],
 [
-"关",
-3,
-"Guān",
-"surname Guan"
-],
-[
-"关",
-3,
-"guān",
-"mountain pass; to close; to shut; to turn off; to concern; to involve"
-],
-[
-"关系",
-3,
-"guān xi",
-"relation; relationship; to concern; to affect; to have to do with; guanxi; CL:個|个[ge4]"
-],
-[
-"关系",
-3,
-"guān xi",
-"variant of 關係|关系[guan1 xi5]"
-],
-[
-"关于",
-3,
-"guān yú",
-"pertaining to; concerning; with regard to; about; a matter of"
+"关机",
+2,
+"guān jī",
+"to turn off (a machine or device); to finish shooting a film"
 ],
 [
 "关心",
-3,
+2,
 "guān xīn",
 "to be concerned about; to care about"
 ],
 [
-"关键",
-4,
-"guān jiàn",
-"crucial point; crux; CL:個|个[ge4]; key; crucial; pivotal"
+"关系",
+3,
+"guān xi",
+"relation; relationship; to concern; to affect; to have to do with; guanxi; CL:个[gè]"
 ],
 [
-"关闭",
-5,
-"guān bì",
-"to close; to shut"
-],
-[
-"相关",
-5,
-"xiāng guān",
-"related; relevant; pertinent; to be interrelated; (statistics) correlation"
-],
-[
-"海关",
-5,
-"hǎi guān",
-"customs (i.e. border crossing inspection); CL:個|个[ge4]"
-],
-[
-"关照",
-6,
-"guān zhào",
-"to take care; to keep an eye on; to look after; to tell; to remind"
-],
-[
-"公关",
-6,
-"gōng guān",
-"public relations"
-],
-[
-"关怀",
-6,
-"guān huái",
-"care; solicitude; to show care for; concerned about; attentive to"
-],
-[
-"把关",
-6,
-"bǎ guān",
-"to guard a pass; to check on sth"
-]
-],
-"extraWords": [
-[
-"有关",
-403.84,
-"yǒu guān",
-"to have sth to do with; to relate to; related to; to concern; concerning"
+"关系",
+3,
+"guān xi",
+"variant of 关系[guān xi]"
 ],
 [
 "关注",
-304.24,
+3,
 "guān zhù",
 "to pay attention to; to follow sth closely; to follow (on social media); concern; interest; attention"
 ],
 [
+"海关",
+3,
+"hǎi guān",
+"customs (i.e. border crossing inspection); CL:个[gè]"
+],
+[
+"相关",
+3,
+"xiāng guān",
+"related; relevant; pertinent; to be interrelated; (statistics) correlation"
+],
+[
+"关闭",
+4,
+"guān bì",
+"to close; to shut"
+],
+[
+"关于",
+4,
+"guān yú",
+"pertaining to; concerning; with regard to; about; a matter of"
+],
+[
+"关怀",
+5,
+"guān huái",
+"care; solicitude; to show care for; concerned about; attentive to"
+],
+[
+"关键",
+5,
+"guān jiàn",
+"crucial point; crux; CL:个[gè]; key; crucial; pivotal"
+],
+[
+"关爱",
+6,
+"guān ài",
+"to show concern and care for"
+],
+[
+"关联",
+6,
+"guān lián",
+"related; linked; affiliated"
+],
+[
 "机关",
-111.6,
+6,
 "jī guān",
-"mechanism; gear; machine-operated; office; agency; organ; organization; establishment; institution; body; stratagem; scheme; intrigue; plot; trick; CL:個|个[ge4]"
+"mechanism; gear; machine-operated; office; agency; organ; organization; establishment; institution; body; stratagem; scheme; intrigue; plot; trick; CL:个[gè]"
+],
+[
+"开关",
+6,
+"kāi guān",
+"power switch; gas valve; to open the city (or frontier) gate; to open and close; to switch on and off"
 ],
 [
 "无关",
-50.71,
+6,
 "wú guān",
 "unrelated; having nothing to do (with sth else)"
 ],
 [
+"有关",
+6,
+"yǒu guān",
+"to have sth to do with; to relate to; related to; to concern; concerning"
+],
+[
+"把关",
+7,
+"bǎ guān",
+"to guard a pass; to check on sth"
+],
+[
+"公关",
+7,
+"gōng guān",
+"public relations"
+],
+[
+"攻关",
+7,
+"gōng guān",
+"to storm a strategic pass; fig. to tackle a key problem"
+],
+[
 "关掉",
-36.58,
+7,
 "guān diào",
 "to switch off; to shut off"
 ],
 [
-"关联",
-27.6,
-"guān lián",
-"related; linked; affiliated"
+"关节",
+7,
+"guān jié",
+"joint (physiology); key point; critical phase"
 ],
+[
+"关税",
+7,
+"guān shuì",
+"customs duty; tariff"
+],
+[
+"关头",
+7,
+"guān tóu",
+"juncture; moment"
+],
+[
+"关照",
+7,
+"guān zhào",
+"to take care; to keep an eye on; to look after; to tell; to remind"
+],
+[
+"过关",
+7,
+"guò guān",
+"to cross a barrier; to get through (an ordeal); to pass (a test); to reach (a standard)"
+],
+[
+"难关",
+7,
+"nán guān",
+"difficulty; crisis"
+],
+[
+"无关紧要",
+7,
+"wú guān jǐn yào",
+"indifferent; insignificant"
+],
+[
+"息息相关",
+7,
+"xī xī xiāng guān",
+"closely bound up (idiom); intimately related"
+],
+[
+"至关重要",
+7,
+"zhì guān zhòng yào",
+"extremely important; vital; crucial; essential"
+]
+],
+"extraWords": [
 [
 "关门",
 25.61,
@@ -147,34 +225,10 @@
 "public security bureau"
 ],
 [
-"关上",
-21.37,
-"guān shàng",
-"to close (a door); to turn off (light, electrical equipment etc)"
-],
-[
-"关节",
-16.96,
-"guān jié",
-"joint (physiology); key point; critical phase"
-],
-[
-"关爱",
-14.08,
-"guān ài",
-"to show concern and care for"
-],
-[
-"关税",
-13.18,
-"guān shuì",
-"customs duty; tariff"
-],
-[
-"无关紧要",
-12.97,
-"wú guān jǐn yào",
-"indifferent; insignificant"
+"有关方面",
+12.66,
+"???",
+"???"
 ],
 [
 "关系到",
@@ -189,18 +243,6 @@
 "keyword"
 ],
 [
-"开关",
-11.51,
-"kāi guān",
-"power switch; gas valve; to open the city (or frontier) gate; to open and close; to switch on and off"
-],
-[
-"至关重要",
-10.22,
-"zhì guān zhòng yào",
-"extremely important; vital; crucial; essential"
-],
-[
 "中关村",
 9.33,
 "Zhōng guān cūn",
@@ -213,22 +255,10 @@
 "closely related"
 ],
 [
-"过关",
-8.47,
-"guò guān",
-"to cross a barrier; to get through (an ordeal); to pass (a test); to reach (a standard)"
-],
-[
 "大关",
 8.16,
 "dà guān",
 "strategic pass; barrier or mark (i.e. a level considered impressive, usually a round figure such as 10,000); instrument of torture used to break limbs"
-],
-[
-"关机",
-7.96,
-"guān jī",
-"to turn off (a machine or device); to finish shooting a film"
 ],
 [
 "性关系",
@@ -237,22 +267,16 @@
 "sexual relations; sexual contact; intercourse"
 ],
 [
-"难关",
-7.63,
-"nán guān",
-"difficulty; crisis"
-],
-[
-"攻关",
-7.49,
-"gōng guān",
-"to storm a strategic pass; fig. to tackle a key problem"
-],
-[
 "人际关系",
 7.23,
 "rén jì guān xì",
 "interpersonal relationship"
+],
+[
+"有关系",
+6.91,
+"???",
+"???"
 ],
 [
 "关切",
@@ -277,6 +301,12 @@
 5.84,
 "xiāng guān xìng",
 "correlation"
+],
+[
+"有关单位",
+5.43,
+"???",
+"???"
 ],
 [
 "事关",

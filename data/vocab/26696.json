@@ -1,6 +1,6 @@
 {
 "char": "案",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "table, bench; legal case",
 "pron": "àn"
@@ -10,19 +10,19 @@
 "答案",
 4,
 "dá àn",
-"answer; solution; CL:個|个[ge4]"
+"answer; solution; CL:个[gè]"
 ],
 [
 "方案",
-5,
+4,
 "fāng àn",
-"plan; program (for action etc); proposal; proposed bill; CL:個|个[ge4],套[tao4]"
+"plan; program (for action etc); proposal; proposed bill; CL:个[gè],套[tào]"
 ],
 [
-"案件",
-6,
-"àn jiàn",
-"case; instance; CL:宗[zong1],樁|桩[zhuang1],起[qi3]"
+"图案",
+4,
+"tú àn",
+"design; pattern"
 ],
 [
 "档案",
@@ -31,22 +31,28 @@
 "file; record; archive"
 ],
 [
-"图案",
-6,
-"tú àn",
-"design; pattern"
-],
-[
-"案例",
-6,
-"àn lì",
-"case (law); CL:個|个[ge4]"
+"案件",
+7,
+"àn jiàn",
+"case; instance; CL:宗[zōng],桩[zhuāng],起[qǐ]"
 ],
 [
 "草案",
-6,
+7,
 "cǎo àn",
 "draft (legislation, proposal etc)"
+],
+[
+"个案",
+7,
+"gè àn",
+"a case; an individual case; case-by-case"
+],
+[
+"破案",
+7,
+"pò àn",
+"to solve a case; shabby old table"
 ]
 ],
 "extraWords": [
@@ -57,16 +63,34 @@
 "long table; counter; case; law case; legal case; judicial case"
 ],
 [
+"案",
+162.4,
+"àn",
+"(legal) case; incident; record; file; table"
+],
+[
 "谋杀案",
 31.39,
 "móu shā àn",
 "murder case"
 ],
 [
+"案例",
+20.46,
+"àn lì",
+"case (law); CL:个[gè]"
+],
+[
 "提案",
 20.38,
 "tí àn",
 "proposal; draft resolution; motion (to be debated); to propose a bill; to make a proposal"
+],
+[
+"此案",
+18.79,
+"???",
+"???"
 ],
 [
 "作案",
@@ -117,16 +141,16 @@
 "(of a crime) to occur; (old) (of a crime) to be discovered; to investigate a crime on the spot"
 ],
 [
-"破案",
-8.53,
-"pò àn",
-"to solve a case; shabby old table"
-],
-[
 "凶杀案",
 7.75,
 "xiōng shā àn",
 "murder case"
+],
+[
+"本案",
+7.72,
+"???",
+"???"
 ],
 [
 "罪案",

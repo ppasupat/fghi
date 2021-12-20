@@ -1,6 +1,6 @@
 {
 "char": "萄",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "grapes",
 "pron": "táo"
@@ -8,18 +8,18 @@
 "words": [
 [
 "葡萄",
-4,
+5,
 "pú tao",
 "grape"
+],
+[
+"葡萄酒",
+5,
+"pú tao jiǔ",
+"(grape) wine"
 ]
 ],
 "extraWords": [
-[
-"葡萄酒",
-11.07,
-"pú tao jiǔ",
-"(grape) wine"
-],
 [
 "葡萄牙",
 11.03,

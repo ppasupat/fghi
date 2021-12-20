@@ -1,96 +1,114 @@
 {
 "char": "升",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "arise, go up; hoist; advance",
 "pron": "shēng"
 },
 "words": [
 [
-"升",
-5,
-"shēng",
-"to ascend; to rise to the rank of; to promote; to hoist; liter; measure for dry grain equal to one-tenth dou 斗[dou3]"
-],
-[
-"升",
-5,
-"shēng",
-"variant of 升[sheng1]; to ascend; to rise in rank"
-],
-[
-"升",
-5,
-"shēng",
-"variant of 升[sheng1]"
-],
-[
-"晋升",
-6,
-"jìn shēng",
-"to promote to a higher position"
-]
-],
-"extraWords": [
-[
 "上升",
-106.76,
+3,
 "shàng shēng",
 "to rise; to go up; to ascend"
 ],
 [
-"提升",
-86.71,
-"tí shēng",
-"to promote; to upgrade"
+"升",
+3,
+"shēng",
+"to ascend; to rise to the rank of; to promote; to hoist; liter; measure for dry grain equal to one-tenth dou 斗[dǒu]"
 ],
 [
-"升级",
-75.69,
-"shēng jí",
-"to escalate (in intensity); to go up by one grade; to be promoted; to upgrade (computing)"
+"升",
+3,
+"shēng",
+"variant of 升[shēng]; to ascend; to rise in rank"
 ],
 [
-"直升机",
-27.84,
-"zhí shēng jī",
-"helicopter; CL:架[jia4]"
+"升",
+3,
+"shēng",
+"variant of 升[shēng]"
 ],
 [
-"升值",
-26.99,
-"shēng zhí",
-"to rise in value; to appreciate"
+"毫升",
+4,
+"háo shēng",
+"milliliter"
 ],
 [
 "升高",
-22.62,
+5,
 "shēng gāo",
 "to raise; to ascend"
 ],
 [
+"升级",
+6,
+"shēng jí",
+"to escalate (in intensity); to go up by one grade; to be promoted; to upgrade (computing)"
+],
+[
+"升学",
+6,
+"shēng xué",
+"to enter the next grade school"
+],
+[
+"升值",
+6,
+"shēng zhí",
+"to rise in value; to appreciate"
+],
+[
+"提升",
+6,
+"tí shēng",
+"to promote; to upgrade"
+],
+[
+"直升机",
+6,
+"zhí shēng jī",
+"helicopter; CL:架[jià]"
+],
+[
+"飙升",
+7,
+"biāo shēng",
+"to rise rapidly; to soar"
+],
+[
 "回升",
-15.36,
+7,
 "huí shēng",
 "to rise again after a fall; to pick up; rally (stock market etc)"
 ],
 [
+"晋升",
+7,
+"jìn shēng",
+"to promote to a higher position"
+],
+[
 "攀升",
-12.21,
+7,
 "pān shēng",
 "to clamber up; (of prices etc) to rise"
 ],
+[
+"升温",
+7,
+"shēng wēn",
+"to become hot; temperature rise; (fig.) to intensify; to hot up; to escalate; to get a boost"
+]
+],
+"extraWords": [
 [
 "升起",
 8.5,
 "shēng qǐ",
 "to raise; to hoist; to rise"
-],
-[
-"升温",
-7.61,
-"shēng wēn",
-"to become hot; temperature rise; (fig.) to intensify; to hot up; to escalate; to get a boost"
 ],
 [
 "升华",
@@ -102,7 +120,7 @@
 "直升飞机",
 5.16,
 "zhí shēng fēi jī",
-"see 直升機|直升机[zhi2 sheng1 ji1]"
+"see 直升机[zhí shēng jī]"
 ]
 ],
 "strokes": [

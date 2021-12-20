@@ -1,60 +1,90 @@
 {
 "char": "播",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "sow, spread; broadcast; cast away, reject",
 "pron": "bō"
 },
 "words": [
 [
-"广播",
-4,
-"guǎng bō",
-"broadcast; CL:個|个[ge4]; broadcasting; to broadcast; (formal) to propagate; to publicize"
+"播出",
+3,
+"bō chū",
+"to broadcast; to air (a TV program etc)"
 ],
 [
 "播放",
-5,
+3,
 "bō fàng",
 "to broadcast; to transmit"
 ],
 [
 "传播",
-5,
+3,
 "chuán bō",
 "to disseminate; to propagate; to spread"
 ],
 [
+"广播",
+3,
+"guǎng bō",
+"broadcast; CL:个[gè]; broadcasting; to broadcast; (formal) to propagate; to publicize"
+],
+[
 "直播",
-6,
+3,
 "zhí bō",
 "(TV, radio) to broadcast live; live broadcast; (Internet) to livestream; (agriculture) direct seeding"
 ],
 [
-"播种",
+"播",
 6,
-"bō zhǒng",
-"to sow seeds; sowing; seed"
+"bō",
+"to sow; to scatter; to spread; to broadcast; Taiwan pr. [bo4]"
+],
+[
+"重播",
+7,
+"chóng bō",
+"to replay; to rerun; (agriculture) to reseed; to oversow"
+],
+[
+"演播室",
+7,
+"yǎn bō shì",
+"broadcasting studio"
+],
+[
+"转播",
+7,
+"zhuǎn bō",
+"relay; broadcast (on radio or TV)"
 ]
 ],
 "extraWords": [
 [
-"播出",
-29.05,
-"bō chū",
-"to broadcast; to air (a TV program etc)"
+"直播员",
+41.43,
+"???",
+"???"
 ],
 [
-"转播",
-7.72,
-"zhuǎn bō",
-"relay; broadcast (on radio or TV)"
+"播种",
+11.37,
+"bō zhǒng",
+"to sow seeds; sowing; seed"
 ],
 [
-"演播室",
-6.71,
-"yǎn bō shì",
-"broadcasting studio"
+"播放器",
+7.27,
+"???",
+"???"
+],
+[
+"首播",
+5.71,
+"???",
+"???"
 ]
 ],
 "strokes": [

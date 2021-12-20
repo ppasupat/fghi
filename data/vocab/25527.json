@@ -1,19 +1,31 @@
 {
 "char": "掷",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "throw, hurl, cast, fling",
 "pron": "zhì"
 },
-"words": [
+"words": [],
+"extraWords": [
+[
+"掷",
+4.56,
+"zhì",
+"to toss; to throw dice; Taiwan pr. [zhi2]"
+],
 [
 "投掷",
-6,
+2.85,
 "tóu zhì",
 "to throw sth a long distance; to hurl; to throw at; to throw (dice etc); to flip (a coin)"
+],
+[
+"孤注一掷",
+1.67,
+"gū zhù yī zhì",
+"to stake all on one throw"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 300 544 Q 316 551 333 555 Q 361 564 366 569 Q 373 576 368 585 Q 361 595 331 600 Q 315 601 302 598 L 253 579 Q 156 548 121 541 Q 87 531 114 518 Q 156 500 225 523 Q 237 527 252 530 L 300 544 Z",
 "M 304 150 Q 297 271 297 392 L 297 422 Q 297 483 300 544 L 302 598 Q 302 682 321 743 Q 337 771 284 793 Q 253 811 233 805 Q 217 798 231 777 Q 252 750 253 718 Q 254 702 253 579 L 252 530 Q 251 470 249 390 L 249 351 Q 248 263 246 151 Q 245 129 233 120 Q 226 114 205 120 Q 183 126 160 131 Q 129 143 131 133 Q 132 126 151 111 Q 212 62 227 34 Q 245 1 260 0 Q 273 -1 288 32 Q 304 75 305 141 L 304 150 Z",

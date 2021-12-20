@@ -1,12 +1,31 @@
 {
 "char": "赘",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "unnecessary, superfluous",
 "pron": "zhuì"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"赘",
+3.22,
+"zhuì",
+"superfluous; redundant; cumbersome; refers to a son-in-law living with wife's family"
+],
+[
+"累赘",
+1.88,
+"léi zhuì",
+"superfluous; cumbersome; a burden on sb; a nuisance to sb; to inconvenience; to tie sb down; long-winded (of writing); also pr. [lei2 zhui5]"
+],
+[
+"赘述",
+0.81,
+"zhuì shù",
+"to say more than is necessary; to give unnecessary details"
+]
+],
 "strokes": [
 "M 386 718 Q 498 742 502 745 Q 509 752 506 759 Q 500 768 477 775 Q 449 781 388 757 L 344 747 Q 340 747 336 745 Q 282 735 219 730 Q 191 726 211 711 Q 244 692 315 706 Q 330 709 346 711 L 386 718 Z",
 "M 380 635 Q 393 639 408 641 Q 438 645 463 649 Q 472 648 478 659 Q 479 668 460 676 Q 438 692 383 674 L 346 664 Q 294 657 250 647 Q 228 643 246 630 Q 273 612 299 618 Q 318 624 346 628 L 380 635 Z",

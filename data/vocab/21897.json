@@ -1,6 +1,6 @@
 {
 "char": "喉",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "throat, gullet, larynx; guttural",
 "pron": "hóu"
@@ -8,17 +8,23 @@
 "words": [
 [
 "喉咙",
-6,
+7,
 "hóu lóng",
 "throat; larynx"
+],
+[
+"咽喉",
+7,
+"yān hóu",
+"throat"
 ]
 ],
 "extraWords": [
 [
-"咽喉",
-5.75,
-"yān hóu",
-"throat"
+"喉",
+8.71,
+"hóu",
+"throat; larynx"
 ]
 ],
 "strokes": [

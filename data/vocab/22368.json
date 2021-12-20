@@ -1,14 +1,26 @@
 {
 "char": "坠",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "fall down, drop, sink, go to ruin",
 "pron": "zhuì"
 },
 "words": [
 [
+"下坠",
+7,
+"xià zhuì",
+"(of objects) to fall; to drop; to droop; (medicine) to experience tenesmus"
+],
+[
+"摇摇欲坠",
+7,
+"yáo yáo yù zhuì",
+"tottering; on the verge of collapse"
+],
+[
 "坠",
-6,
+7,
 "zhuì",
 "to fall; to drop; to weigh down"
 ]

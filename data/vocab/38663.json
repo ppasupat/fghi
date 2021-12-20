@@ -1,6 +1,6 @@
 {
 "char": "震",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "shake, quake, tremor; excite",
 "pron": "zhèn"
@@ -14,13 +14,25 @@
 ],
 [
 "震惊",
-6,
+5,
 "zhèn jīng",
 "to shock; to astonish"
 ],
 [
+"震",
+7,
+"zhèn",
+"to shake; to vibrate; to jolt; to quake; excited; shocked; one of the Eight Trigrams 八卦[bā guà], symbolizing thunder; ☳"
+],
+[
+"震动",
+7,
+"zhèn dòng",
+"to shake; to vibrate; to strongly affect; shock; vibration"
+],
+[
 "震撼",
-6,
+7,
 "zhèn hàn",
 "to shake; to shock; to stun; shocking; stunning; shock"
 ]
@@ -37,12 +49,6 @@
 28.96,
 "zhèn dàng",
 "to vibrate; to shake; to shudder"
-],
-[
-"震动",
-10.17,
-"zhèn dòng",
-"to shake; to vibrate; to strongly affect; shock; vibration"
 ]
 ],
 "strokes": [

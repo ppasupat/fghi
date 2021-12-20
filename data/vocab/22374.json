@@ -1,28 +1,46 @@
 {
 "char": "坦",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "flat, smooth; self-possessed",
 "pron": "tǎn"
 },
 "words": [
 [
-"坦率",
+"平坦",
 5,
-"tǎn shuài",
-"frank (discussion); blunt; open"
+"píng tǎn",
+"level; even; smooth; flat"
 ],
 [
 "坦白",
-6,
+7,
 "tǎn bái",
 "honest; forthcoming; to confess"
 ],
 [
-"平坦",
-6,
-"píng tǎn",
-"level; even; smooth; flat"
+"坦诚",
+7,
+"tǎn chéng",
+"candid; frank; plain dealing"
+],
+[
+"坦克",
+7,
+"tǎn kè",
+"tank (military vehicle) (loanword)"
+],
+[
+"坦然",
+7,
+"tǎn rán",
+"calm; undisturbed"
+],
+[
+"坦率",
+7,
+"tǎn shuài",
+"frank (discussion); blunt; open"
 ]
 ],
 "extraWords": [
@@ -39,10 +57,10 @@
 "Pakistan"
 ],
 [
-"坦克",
-13.69,
-"tǎn kè",
-"tank (military vehicle) (loanword)"
+"斯坦",
+12.94,
+"???",
+"???"
 ],
 [
 "坦言",
@@ -51,16 +69,10 @@
 "to say candidly; to acknowledge frankly"
 ],
 [
-"坦诚",
-9.21,
-"tǎn chéng",
-"candid; frank; plain dealing"
-],
-[
-"坦然",
-8.58,
-"tǎn rán",
-"calm; undisturbed"
+"坦",
+8.84,
+"tǎn",
+"flat; open-hearted; level; smooth"
 ]
 ],
 "strokes": [

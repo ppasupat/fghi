@@ -1,19 +1,32 @@
 {
 "char": "斩",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cut, chop, sever; behead",
 "pron": "zhǎn"
 },
 "words": [
 [
-"斩钉截铁",
-6,
-"zhǎn dīng jié tiě",
-"lit. to chop the nail and slice the iron (idiom); fig. resolute and decisive; unhesitating; categorical"
+"斩",
+7,
+"zhǎn",
+"to behead (as form of capital punishment); to chop"
+],
+[
+"斩草除根",
+7,
+"zhǎn cǎo chú gēn",
+"to cut weeds and eliminate the roots (idiom); to destroy root and branch; to eliminate completely"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"斩首",
+1.64,
+"zhǎn shǒu",
+"to behead"
+]
+],
 "strokes": [
 "M 316 617 Q 493 662 496 665 Q 503 672 499 681 Q 492 691 464 698 Q 434 704 406 691 Q 372 679 339 668 L 285 654 Q 236 644 180 636 Q 146 629 171 614 Q 211 590 265 606 Q 266 607 269 606 L 316 617 Z",
 "M 397 393 Q 437 402 474 403 Q 505 404 496 419 Q 487 432 470 440 Q 454 446 399 429 L 353 419 Q 304 410 248 399 Q 232 398 230 400 Q 224 412 316 617 L 339 668 Q 381 753 391 762 Q 404 774 388 795 Q 361 823 341 836 Q 328 843 317 841 Q 308 837 314 815 Q 321 779 285 654 L 269 606 Q 203 444 161 400 Q 145 384 150 368 Q 157 347 168 336 Q 177 327 188 332 Q 260 371 352 384 L 397 393 Z",

@@ -1,6 +1,6 @@
 {
 "char": "蔽",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cover, hide, conceal; shelter",
 "pron": "bì"
@@ -8,7 +8,7 @@
 "words": [
 [
 "隐蔽",
-6,
+7,
 "yǐn bì",
 "to conceal; to hide; covert; under cover"
 ]
@@ -19,6 +19,12 @@
 5.39,
 "píng bì",
 "to screen; to block (sth or sb); to shield; (protective) shield"
+],
+[
+"蒙蔽",
+2.92,
+"méng bì",
+"to deceive; to hoodwink"
 ]
 ],
 "strokes": [

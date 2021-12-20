@@ -1,6 +1,6 @@
 {
 "char": "舒",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "open up, unfold, stretch out; comfortable, easy",
 "pron": "shū"
@@ -8,19 +8,19 @@
 "words": [
 [
 "舒服",
-3,
+2,
 "shū fu",
 "comfortable; feeling well"
 ],
 [
 "舒适",
-5,
+4,
 "shū shì",
 "cozy; snug"
 ],
 [
 "舒畅",
-6,
+7,
 "shū chàng",
 "happy; entirely free from worry"
 ]
@@ -31,6 +31,18 @@
 16.58,
 "bù shū fu",
 "unwell; feeling ill; to feel uncomfortable; uneasy"
+],
+[
+"舒",
+12.46,
+"Shū",
+"surname Shu"
+],
+[
+"舒",
+12.46,
+"shū",
+"to stretch; to unfold; to relax; leisurely"
 ],
 [
 "舒马赫",

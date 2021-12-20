@@ -1,6 +1,6 @@
 {
 "char": "加",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "add to, increase, augment",
 "pron": "jiā"
@@ -8,21 +8,57 @@
 "words": [
 [
 "参加",
-3,
+2,
 "cān jiā",
 "to participate; to take part; to join"
 ],
 [
-"增加",
-4,
-"zēng jiā",
-"to raise; to increase"
+"加",
+2,
+"Jiā",
+"abbr. for Canada 加拿大[Jiā ná dà]; surname Jia"
 ],
 [
-"加油站",
-4,
-"jiā yóu zhàn",
-"gas station"
+"加",
+2,
+"jiā",
+"to add; plus; (used after an adverb such as 不, 大, 稍 etc, and before a disyllabic verb, to indicate that the action of the verb is applied to sth or sb previously mentioned); to apply (restrictions etc) to (sb); to give (support, consideration etc) to (sth)"
+],
+[
+"加油",
+2,
+"jiā yóu",
+"to add oil; to top up with gas; to refuel; to accelerate; to step on the gas; (fig.) to make an extra effort; to cheer sb on"
+],
+[
+"更加",
+3,
+"gèng jiā",
+"more (than sth else); even more"
+],
+[
+"加工",
+3,
+"jiā gōng",
+"to process; processing; working (of machinery)"
+],
+[
+"加快",
+3,
+"jiā kuài",
+"to accelerate; to speed up"
+],
+[
+"加强",
+3,
+"jiā qiáng",
+"to reinforce; to strengthen; to increase"
+],
+[
+"增加",
+3,
+"zēng jiā",
+"to raise; to increase"
 ],
 [
 "加班",
@@ -31,84 +67,108 @@
 "to work overtime"
 ],
 [
-"施加",
-6,
-"shī jiā",
-"to exert (effort or pressure)"
-],
-[
-"加工",
-6,
-"jiā gōng",
-"to process; processing; working (of machinery)"
-],
-[
-"雪上加霜",
-6,
-"xuě shàng jiā shuāng",
-"(idiom) to make matters even worse; to add insult to injury"
-],
-[
-"加剧",
-6,
-"jiā jù",
-"to intensify; to sharpen; to accelerate; to aggravate; to exacerbate; to embitter"
-]
-],
-"extraWords": [
-[
-"加强",
-251.87,
-"jiā qiáng",
-"to reinforce; to strengthen; to increase"
-],
-[
-"更加",
-162.42,
-"gèng jiā",
-"more (than sth else); even more"
-],
-[
-"加油",
-131.49,
-"jiā yóu",
-"to add oil; to top up with gas; to refuel; to accelerate; to step on the gas; (fig.) to make an extra effort; to cheer sb on"
-],
-[
 "加入",
-110.31,
+4,
 "jiā rù",
 "to become a member; to join; to mix into; to participate in; to add in"
 ],
 [
-"加快",
-96.7,
-"jiā kuài",
-"to accelerate; to speed up"
+"加油站",
+4,
+"jiā yóu zhàn",
+"gas station"
+],
+[
+"加热",
+5,
+"jiā rè",
+"to heat"
 ],
 [
 "加上",
-93.66,
+5,
 "jiā shàng",
 "plus; to put in; to add; to add on; to add into; in addition; on top of that"
 ],
 [
-"加大",
-82.94,
-"jiā dà",
-"to increase (e.g. one's effort)"
-],
-[
 "加速",
-41.38,
+5,
 "jiā sù",
 "to speed up; to expedite"
 ],
 [
 "加以",
-36.82,
+5,
 "jiā yǐ",
 "in addition; moreover; (used before a disyllabic verb to indicate that the action of the verb is applied to sth or sb previously mentioned); to apply (restrictions etc) to (sb); to give (support, consideration etc) to (sth)"
+],
+[
+"加盟",
+6,
+"jiā méng",
+"to become a member of an alliance or union; to align; to join; participate"
+],
+[
+"附加",
+7,
+"fù jiā",
+"additional; annex"
+],
+[
+"加紧",
+7,
+"jiā jǐn",
+"to intensify; to speed up; to step up"
+],
+[
+"加剧",
+7,
+"jiā jù",
+"to intensify; to sharpen; to accelerate; to aggravate; to exacerbate; to embitter"
+],
+[
+"加深",
+7,
+"jiā shēn",
+"to deepen"
+],
+[
+"加重",
+7,
+"jiā zhòng",
+"to make heavier; to emphasize; (of an illness etc) to become more serious; to aggravate (a bad situation); to increase (a burden, punishment etc)"
+],
+[
+"强加",
+7,
+"qiáng jiā",
+"to impose; to force upon"
+],
+[
+"施加",
+7,
+"shī jiā",
+"to exert (effort or pressure)"
+],
+[
+"添加",
+7,
+"tiān jiā",
+"to add; to increase"
+],
+[
+"雪上加霜",
+7,
+"xuě shàng jiā shuāng",
+"(idiom) to make matters even worse; to add insult to injury"
+]
+],
+"extraWords": [
+[
+"加大",
+82.94,
+"jiā dà",
+"to increase (e.g. one's effort)"
 ],
 [
 "新加坡",
@@ -135,22 +195,10 @@
 "Chicago, USA"
 ],
 [
-"加盟",
-24.78,
-"jiā méng",
-"to become a member of an alliance or union; to align; to join; participate"
-],
-[
-"加重",
-19.76,
-"jiā zhòng",
-"to make heavier; to emphasize; (of an illness etc) to become more serious; to aggravate (a bad situation); to increase (a burden, punishment etc)"
-],
-[
-"添加",
-17.34,
-"tiān jiā",
-"to add; to increase"
+"维加斯",
+18.36,
+"???",
+"???"
 ],
 [
 "拉斯维加斯",
@@ -159,28 +207,10 @@
 "Las Vegas, Nevada"
 ],
 [
-"加热",
-11.35,
-"jiā rè",
-"to heat"
-],
-[
-"加紧",
-11.32,
-"jiā jǐn",
-"to intensify; to speed up; to step up"
-],
-[
-"加深",
-11.07,
-"jiā shēn",
-"to deepen"
-],
-[
-"附加",
-10.6,
-"fù jiā",
-"additional; annex"
+"加厚",
+10.8,
+"???",
+"???"
 ],
 [
 "加利福尼亚",
@@ -210,7 +240,7 @@
 "加沙",
 7.42,
 "Jiā shā",
-"Gaza; same as 加沙地帶|加沙地带[Jia1 sha1 di4 dai4], the Gaza strip"
+"Gaza; same as 加沙地带[Jiā shā dì dài], the Gaza strip"
 ],
 [
 "加倍",
@@ -249,10 +279,22 @@
 "to add something extra; an additional increment; addendum; to append; an additional posthumous title"
 ],
 [
+"加把劲",
+5.99,
+"???",
+"???"
+],
+[
 "加固",
 5.53,
 "jiā gù",
 "to reinforce (a structure); to strengthen"
+],
+[
+"加起来",
+5.51,
+"???",
+"???"
 ]
 ],
 "strokes": [

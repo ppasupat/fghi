@@ -1,12 +1,31 @@
 {
 "char": "鸥",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "seagull, tern; Larus species (various)",
 "pron": "ōu"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"海鸥",
+2.8,
+"hǎi ōu",
+"(bird species of China) mew gull (Larus canus)"
+],
+[
+"鸥",
+2.17,
+"ōu",
+"common gull"
+],
+[
+"红嘴鸥",
+0.25,
+"hóng zuǐ ōu",
+"(bird species of China) black-headed gull (Chroicocephalus ridibundus)"
+]
+],
 "strokes": [
 "M 197 661 Q 242 646 280 658 Q 353 674 428 692 Q 462 701 468 706 Q 475 713 471 721 Q 464 731 437 738 Q 410 742 383 731 Q 302 701 199 686 Q 195 686 192 684 C 163 677 168 670 197 661 Z",
 "M 388 413 Q 410 459 427 527 Q 434 551 444 574 Q 450 584 444 592 Q 437 599 409 611 Q 390 618 381 616 Q 371 612 373 599 Q 388 533 353 443 L 336 405 Q 303 338 210 239 Q 204 232 210 230 Q 238 226 317 307 Q 345 335 366 369 L 388 413 Z",

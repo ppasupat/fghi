@@ -1,60 +1,72 @@
 {
 "char": "述",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "narrate, state, express",
 "pron": "shù"
 },
 "words": [
 [
-"叙述",
-5,
-"xù shù",
-"to relate (a story or information); to tell or talk about; to recount; narration; telling; narrative; account"
-],
-[
-"陈述",
-6,
-"chén shù",
-"an assertion; to declare; to state"
-],
-[
-"阐述",
-6,
-"chǎn shù",
-"to expound (a position); to elaborate (on a topic); to treat (a subject)"
-]
-],
-"extraWords": [
-[
-"上述",
-91.98,
-"shàng shù",
-"aforementioned; above-mentioned"
-],
-[
 "描述",
-32.88,
+4,
 "miáo shù",
 "to describe; description"
 ],
 [
+"表述",
+7,
+"biǎo shù",
+"to formulate; enunciation; to explain sth precisely"
+],
+[
+"阐述",
+7,
+"chǎn shù",
+"to expound (a position); to elaborate (on a topic); to treat (a subject)"
+],
+[
+"陈述",
+7,
+"chén shù",
+"an assertion; to declare; to state"
+],
+[
 "讲述",
-25.2,
+7,
 "jiǎng shù",
 "to talk about; to narrate; to give an account"
 ],
 [
 "论述",
-11.21,
+7,
 "lùn shù",
 "treatise; discourse; exposition"
 ],
 [
-"表述",
-8.68,
-"biǎo shù",
-"to formulate; enunciation; to explain sth precisely"
+"上述",
+7,
+"shàng shù",
+"aforementioned; above-mentioned"
+],
+[
+"叙述",
+7,
+"xù shù",
+"to relate (a story or information); to tell or talk about; to recount; narration; telling; narrative; account"
+],
+[
+"综上所述",
+7,
+"zōng shàng suǒ shù",
+"to summarize; to sum up"
+]
+],
+"extraWords": [
+[
+"述",
+15.76,
+"shù",
+"to state; to tell; to narrate; to relate"
 ]
 ],
 "strokes": [

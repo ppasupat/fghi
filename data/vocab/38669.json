@@ -1,16 +1,16 @@
 {
 "char": "霍",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "quickly, suddenly; surname",
 "pron": "huò"
 },
 "words": [
 [
-"挥霍",
-6,
-"huī huò",
-"to squander money; extravagant; prodigal; free and easy; agile"
+"霍乱",
+7,
+"huò luàn",
+"cholera"
 ]
 ],
 "extraWords": [
@@ -19,6 +19,24 @@
 13.47,
 "Huò huá dé",
 "Howard (name)"
+],
+[
+"霍",
+10.24,
+"Huò",
+"surname Huo"
+],
+[
+"霍",
+10.24,
+"huò",
+"suddenly"
+],
+[
+"挥霍",
+5.7,
+"huī huò",
+"to squander money; extravagant; prodigal; free and easy; agile"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "矩",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "carpenter's square, ruler, rule",
 "pron": "jǔ"
@@ -8,12 +8,31 @@
 "words": [
 [
 "规矩",
-5,
+7,
 "guī ju",
 "lit. compass and set square; fig. established standard; rule; customs; practices; fig. upright and honest; well-behaved"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"矩阵",
+3.92,
+"jǔ zhèn",
+"array; matrix (math.)"
+],
+[
+"矩",
+3.71,
+"jǔ",
+"variant of 矩[jǔ]"
+],
+[
+"矩",
+3.71,
+"jǔ",
+"carpenter's square; rule; regulation; pattern; to carve"
+]
+],
 "strokes": [
 "M 251 555 Q 279 594 301 634 Q 328 685 353 727 Q 363 742 347 757 Q 293 793 268 786 Q 255 782 259 766 Q 281 661 170 519 Q 161 515 124 462 Q 117 444 133 450 Q 166 457 234 533 L 251 555 Z",
 "M 330 526 Q 333 527 338 529 Q 468 566 474 571 Q 481 580 476 588 Q 469 600 438 604 Q 407 608 377 593 Q 349 581 319 571 Q 288 562 251 555 C 222 549 207 545 234 533 Q 235 533 238 531 Q 253 525 281 520 L 330 526 Z",

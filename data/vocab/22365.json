@@ -1,14 +1,20 @@
 {
 "char": "坝",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "embankment; dam",
 "pron": "bà"
 },
 "words": [
 [
+"坝",
+7,
+"bà",
+"dam; dike; embankment; CL:条[tiáo]"
+],
+[
 "堤坝",
-6,
+7,
 "dī bà",
 "dam; dike"
 ]

@@ -1,6 +1,6 @@
 {
 "char": "体",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "body; group, class, body, unit; inferior",
 "pron": "tī, tǐ"
@@ -8,209 +8,317 @@
 "words": [
 [
 "身体",
-2,
+1,
 "shēn tǐ",
-"the body; one's health; CL:具[ju4],個|个[ge4]; in person"
+"the body; one's health; CL:具[jù],个[gè]; in person"
+],
+[
+"全体",
+2,
+"quán tǐ",
+"all; entire"
 ],
 [
 "体育",
-3,
+2,
 "tǐ yù",
 "sports; physical education"
 ],
 [
-"媒体",
-5,
-"méi tǐ",
-"media, esp. news media"
+"体育场",
+2,
+"tǐ yù chǎng",
+"stadium; CL:个[gè],座[zuò]"
 ],
 [
-"具体",
-5,
-"jù tǐ",
-"concrete; definite; specific"
-],
-[
-"体验",
-5,
-"tǐ yàn",
-"to experience for oneself"
-],
-[
-"体会",
-5,
-"tǐ huì",
-"to know from experience; to learn through experience; to realize; understanding; experience"
-],
-[
-"体贴",
-5,
-"tǐ tiē",
-"considerate (of other people's needs)"
+"体育馆",
+2,
+"tǐ yù guǎn",
+"gym; gymnasium; stadium; CL:个[gè]"
 ],
 [
 "集体",
-5,
+3,
 "jí tǐ",
 "collective (decision); joint (effort); a group; a team; en masse; as a group"
 ],
 [
+"具体",
+3,
+"jù tǐ",
+"concrete; definite; specific"
+],
+[
+"媒体",
+3,
+"méi tǐ",
+"media, esp. news media"
+],
+[
+"体会",
+3,
+"tǐ huì",
+"to know from experience; to learn through experience; to realize; understanding; experience"
+],
+[
 "体现",
-5,
+3,
 "tǐ xiàn",
 "to embody; to reflect; to incarnate"
 ],
 [
+"体验",
+3,
+"tǐ yàn",
+"to experience for oneself"
+],
+[
+"团体",
+3,
+"tuán tǐ",
+"group; organization; team; CL:个[gè]"
+],
+[
 "整体",
-5,
+3,
 "zhěng tǐ",
 "whole entity; entire body; synthesis; as a whole (situation, construction, team etc); global; macrocosm; integral; holistic; whole"
 ],
 [
-"尸体",
-6,
-"shī tǐ",
-"dead body; corpse; carcass; CL:具[ju4]"
-],
-[
-"团体",
-6,
-"tuán tǐ",
-"group; organization; team; CL:個|个[ge4]"
-],
-[
-"简体字",
-6,
-"jiǎn tǐ zì",
-"simplified Chinese character, as opposed to traditional Chinese character 繁體字|繁体字[fan2 ti3 zi4]"
-],
-[
-"液体",
-6,
-"yè tǐ",
-"liquid"
-],
-[
-"体面",
-6,
-"tǐ miàn",
-"dignity; face (as in \"losing face\"); honorable; creditable; (of sb's appearance) presentable; respectable"
-],
-[
-"体系",
-6,
-"tǐ xì",
-"system; setup; CL:個|个[ge4]"
-],
-[
-"体谅",
-6,
-"tǐ liàng",
-"to empathize; to allow (for sth); to show understanding; to appreciate"
-],
-[
 "个体",
-6,
+4,
 "gè tǐ",
 "individual"
 ],
 [
-"立体",
-6,
-"lì tǐ",
-"three-dimensional; solid; stereoscopic"
+"体操",
+4,
+"tǐ cāo",
+"gymnastic; gymnastics"
+],
+[
+"体检",
+4,
+"tǐ jiǎn",
+"abbr. for 体格检查[tǐ gé jiǎn chá]"
+],
+[
+"体重",
+4,
+"tǐ zhòng",
+"body weight"
+],
+[
+"气体",
+5,
+"qì tǐ",
+"gas (i.e. gaseous substance)"
+],
+[
+"群体",
+5,
+"qún tǐ",
+"community; colony"
 ],
 [
 "体积",
-6,
+5,
 "tǐ jī",
-"volume; bulk; CL:個|个[ge4]"
+"volume; bulk; CL:个[gè]"
 ],
 [
-"固体",
-6,
-"gù tǐ",
-"solid"
-],
-[
-"解体",
-6,
-"jiě tǐ",
-"to break up into components; to disintegrate; to collapse; to crumble"
-],
-[
-"大体",
-6,
-"dà tǐ",
-"in general; more or less; in rough terms; basically; on the whole; overall situation; the big picture; (Tw) remains (of a dead person)"
-],
-[
-"繁体字",
-6,
-"fán tǐ zì",
-"traditional Chinese character"
-],
-[
-"体裁",
-6,
-"tǐ cái",
-"genre; style; form of writing"
-]
-],
-"extraWords": [
-[
-"体制",
-87.89,
-"tǐ zhì",
-"system; organization"
+"体力",
+5,
+"tǐ lì",
+"physical strength; physical power"
 ],
 [
 "主体",
-61.49,
+5,
 "zhǔ tǐ",
 "main part; bulk; body; subject; agent"
 ],
 [
 "总体",
-60.68,
+5,
 "zǒng tǐ",
 "completely; totally; total; entire; overall; population (statistics)"
 ],
 [
-"全体",
-56.61,
-"quán tǐ",
-"all; entire"
+"多媒体",
+6,
+"duō méi tǐ",
+"multimedia"
 ],
 [
-"群体",
-43.24,
-"qún tǐ",
-"community; colony"
+"大体",
+7,
+"dà tǐ",
+"in general; more or less; in rough terms; basically; on the whole; overall situation; the big picture; (Tw) remains (of a dead person)"
+],
+[
+"大体上",
+7,
+"dà tǐ shàng",
+"overall; in general terms"
+],
+[
+"得体",
+7,
+"dé tǐ",
+"appropriate to the occasion; fitting"
+],
+[
+"繁体字",
+7,
+"fán tǐ zì",
+"traditional Chinese character"
+],
+[
+"共同体",
+7,
+"gòng tóng tǐ",
+"community"
+],
+[
+"简体字",
+7,
+"jiǎn tǐ zì",
+"simplified Chinese character, as opposed to traditional Chinese character 繁体字[fán tǐ zì]"
+],
+[
+"解体",
+7,
+"jiě tǐ",
+"to break up into components; to disintegrate; to collapse; to crumble"
+],
+[
+"立体",
+7,
+"lì tǐ",
+"three-dimensional; solid; stereoscopic"
 ],
 [
 "人体",
-41.39,
+7,
 "rén tǐ",
 "human body"
+],
+[
+"尸体",
+7,
+"shī tǐ",
+"dead body; corpse; carcass; CL:具[jù]"
+],
+[
+"实体",
+7,
+"shí tǐ",
+"entity; substance; thing that has a material existence (as opposed to a conceptual, virtual or online existence); the real thing (as opposed to an image or model of it)"
+],
+[
+"体谅",
+7,
+"tǐ liàng",
+"to empathize; to allow (for sth); to show understanding; to appreciate"
+],
+[
+"体面",
+7,
+"tǐ miàn",
+"dignity; face (as in \"losing face\"); honorable; creditable; (of sb's appearance) presentable; respectable"
+],
+[
+"体能",
+7,
+"tǐ néng",
+"physical capability; stamina"
+],
+[
+"体贴",
+7,
+"tǐ tiē",
+"considerate (of other people's needs)"
+],
+[
+"体温",
+7,
+"tǐ wēn",
+"(body) temperature"
+],
+[
+"体系",
+7,
+"tǐ xì",
+"system; setup; CL:个[gè]"
+],
+[
+"体制",
+7,
+"tǐ zhì",
+"system; organization"
+],
+[
+"体质",
+7,
+"tǐ zhì",
+"constitution"
+],
+[
+"物体",
+7,
+"wù tǐ",
+"object; body; substance"
+],
+[
+"液体",
+7,
+"yè tǐ",
+"liquid"
+],
+[
+"遗体",
+7,
+"yí tǐ",
+"remains (of a dead person)"
+],
+[
+"一体",
+7,
+"yī tǐ",
+"an integral whole; all concerned; everybody"
+],
+[
+"载体",
+7,
+"zài tǐ",
+"carrier (chemistry); vector (epidemiology); vehicle or medium"
+],
+[
+"肢体",
+7,
+"zhī tǐ",
+"limb; limbs and trunk; body"
+],
+[
+"字体",
+7,
+"zì tǐ",
+"calligraphic style; typeface; font"
+]
+],
+"extraWords": [
+[
+"体",
+140.79,
+"tǐ",
+"body; form; style; system; substance; to experience; aspect (linguistics)"
 ],
 [
 "体内",
 33.0,
 "tǐ nèi",
 "within the body; in vivo (vs in vitro); internal to"
-],
-[
-"体重",
-32.27,
-"tǐ zhòng",
-"body weight"
-],
-[
-"一体",
-25.69,
-"yī tǐ",
-"an integral whole; all concerned; everybody"
 ],
 [
 "一体化",
@@ -231,40 +339,10 @@
 "antibody"
 ],
 [
-"体检",
-17.3,
-"tǐ jiǎn",
-"abbr. for 體格檢查|体格检查[ti3 ge2 jian3 cha2]"
-],
-[
-"气体",
-15.66,
-"qì tǐ",
-"gas (i.e. gaseous substance)"
-],
-[
-"体力",
-15.64,
-"tǐ lì",
-"physical strength; physical power"
-],
-[
-"多媒体",
-15.38,
-"duō méi tǐ",
-"multimedia"
-],
-[
 "机体",
 14.45,
 "jī tǐ",
 "organism (biology); airframe (aeronautics)"
-],
-[
-"实体",
-14.1,
-"shí tǐ",
-"entity; substance; thing that has a material existence (as opposed to a conceptual, virtual or online existence); the real thing (as opposed to an image or model of it)"
 ],
 [
 "受体",
@@ -273,58 +351,10 @@
 "receptor (biochemistry); acceptor (semiconductors)"
 ],
 [
-"载体",
-13.79,
-"zài tǐ",
-"carrier (chemistry); vector (epidemiology); vehicle or medium"
-],
-[
-"体育馆",
-11.03,
-"tǐ yù guǎn",
-"gym; gymnasium; stadium; CL:個|个[ge4]"
-],
-[
-"体能",
-10.91,
-"tǐ néng",
-"physical capability; stamina"
-],
-[
-"体质",
-10.51,
-"tǐ zhì",
-"constitution"
-],
-[
-"体温",
-10.25,
-"tǐ wēn",
-"(body) temperature"
-],
-[
 "肉体",
 9.66,
 "ròu tǐ",
 "physical body"
-],
-[
-"物体",
-9.53,
-"wù tǐ",
-"object; body; substance"
-],
-[
-"体操",
-9.34,
-"tǐ cāo",
-"gymnastic; gymnastics"
-],
-[
-"遗体",
-9.09,
-"yí tǐ",
-"remains (of a dead person)"
 ],
 [
 "经济体制",
@@ -337,18 +367,6 @@
 7.46,
 "rǎn sè tǐ",
 "chromosome"
-],
-[
-"体育场",
-7.46,
-"tǐ yù chǎng",
-"stadium; CL:個|个[ge4],座[zuo4]"
-],
-[
-"肢体",
-7.03,
-"zhī tǐ",
-"limb; limbs and trunk; body"
 ],
 [
 "晶体",
@@ -373,6 +391,12 @@
 6.05,
 "wén tǐ",
 "genre of writing; literary form; style; literary recreation and sporting activities"
+],
+[
+"固体",
+5.86,
+"gù tǐ",
+"solid"
 ],
 [
 "体型",

@@ -1,85 +1,109 @@
 {
 "char": "伤",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "wound, injury; fall ill from",
 "pron": "shāng"
 },
 "words": [
 [
+"伤",
+3,
+"shāng",
+"to injure; injury; wound"
+],
+[
 "伤心",
-4,
+3,
 "shāng xīn",
 "to grieve; to be broken-hearted; to feel deeply hurt"
 ],
 [
-"伤害",
-5,
-"shāng hài",
-"to injure; to harm"
-],
-[
 "受伤",
-5,
+3,
 "shòu shāng",
 "to sustain injuries; wounded (in an accident etc); harmed"
 ],
 [
-"伤脑筋",
-6,
-"shāng nǎo jīn",
-"to be a real headache; to find sth a real headache; to beat one's brains"
-]
-],
-"extraWords": [
-[
-"损伤",
-40.01,
-"sǔn shāng",
-"to harm; to damage; to injure; impairment; loss; disability"
-],
-[
-"伤口",
-38.72,
-"shāng kǒu",
-"wound; cut"
+"伤害",
+4,
+"shāng hài",
+"to injure; to harm"
 ],
 [
 "悲伤",
-29.0,
+5,
 "bēi shāng",
 "sad; sorrowful"
 ],
 [
+"伤口",
+6,
+"shāng kǒu",
+"wound; cut"
+],
+[
 "伤亡",
-18.79,
+6,
 "shāng wáng",
 "casualties; injuries and deaths"
 ],
 [
+"伤员",
+6,
+"shāng yuán",
+"wounded person"
+],
+[
 "创伤",
-13.44,
+7,
 "chuāng shāng",
 "wound; injury; trauma"
 ],
 [
-"重伤",
-11.73,
-"zhòng shāng",
-"seriously hurt; serious injury"
+"伤残",
+7,
+"shāng cán",
+"disabled; maimed; crippled; (of objects) damaged"
 ],
 [
 "伤感",
-11.12,
+7,
 "shāng gǎn",
 "sad; emotional; sentimental; pathos"
 ],
 [
+"伤痕",
+7,
+"shāng hén",
+"scar; bruise"
+],
+[
+"伤脑筋",
+7,
+"shāng nǎo jīn",
+"to be a real headache; to find sth a real headache; to beat one's brains"
+],
+[
 "伤势",
-10.82,
+7,
 "shāng shì",
 "condition of an injury"
 ],
+[
+"损伤",
+7,
+"sǔn shāng",
+"to harm; to damage; to injure; impairment; loss; disability"
+],
+[
+"重伤",
+7,
+"zhòng shāng",
+"seriously hurt; serious injury"
+]
+],
+"extraWords": [
 [
 "忧伤",
 10.77,
@@ -93,16 +117,10 @@
 "burn (injury)"
 ],
 [
-"伤痕",
-9.24,
-"shāng hén",
-"scar; bruise"
-],
-[
 "伤疤",
 8.38,
 "shāng bā",
-"scar; CL:道[dao4]"
+"scar; CL:道[dào]"
 ],
 [
 "伤痛",
@@ -133,12 +151,6 @@
 6.77,
 "wài shāng",
 "injury; wound; trauma"
-],
-[
-"伤员",
-6.37,
-"shāng yuán",
-"wounded person"
 ],
 [
 "打伤",

@@ -1,6 +1,6 @@
 {
 "char": "沛",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "abundant, full, copious; sudden",
 "pron": "pèi"
@@ -8,12 +8,25 @@
 "words": [
 [
 "充沛",
-6,
+7,
 "chōng pèi",
 "abundant; plentiful; vigorous"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"精力充沛",
+2.65,
+"jīng lì chōng pèi",
+"vigorous; energetic"
+],
+[
+"沛",
+1.71,
+"pèi",
+"copious; abundant"
+]
+],
 "strokes": [
 "M 259 743 Q 287 718 319 689 Q 335 676 352 677 Q 364 678 369 692 Q 373 708 363 741 Q 351 775 252 795 Q 236 799 228 795 Q 222 791 225 777 Q 229 764 259 743 Z",
 "M 148 556 Q 196 505 230 489 Q 246 488 255 501 Q 261 514 258 531 Q 246 571 160 596 Q 142 600 133 596 Q 127 595 130 582 Q 131 570 148 556 Z",

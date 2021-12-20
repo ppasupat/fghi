@@ -1,61 +1,139 @@
 {
 "char": "集",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "assemble, collect together",
 "pron": "jí"
 },
 "words": [
 [
+"集体",
+3,
+"jí tǐ",
+"collective (decision); joint (effort); a group; a team; en masse; as a group"
+],
+[
 "集中",
-5,
+3,
 "jí zhōng",
 "to concentrate; to centralize; to focus; centralized; concentrated; to put together"
 ],
 [
 "集合",
-5,
+4,
 "jí hé",
 "to gather; to assemble; set (math.)"
 ],
 [
-"集体",
-5,
-"jí tǐ",
-"collective (decision); joint (effort); a group; a team; en masse; as a group"
-],
-[
 "集团",
-6,
+5,
 "jí tuán",
 "group; bloc; corporation; conglomerate"
 ],
 [
-"采集",
-6,
-"cǎi jí",
-"to gather; to collect; to harvest"
-]
-],
-"extraWords": [
-[
 "收集",
-38.11,
+5,
 "shōu jí",
 "to gather; to collect"
 ],
 [
+"集",
+6,
+"jí",
+"to gather; to collect; collected works; classifier for sections of a TV series etc: episode"
+],
+[
+"采集",
+7,
+"cǎi jí",
+"to gather; to collect; to harvest"
+],
+[
+"筹集",
+7,
+"chóu jí",
+"to collect money; to raise funds"
+],
+[
+"汇集",
+7,
+"huì jí",
+"to collect; to compile; to converge; also written 汇集[huì jí]"
+],
+[
+"汇集",
+7,
+"huì jí",
+"to collect; to compile; to converge"
+],
+[
+"集会",
+7,
+"jí huì",
+"to gather; assembly; meeting; CL:个[gè],次[cì]"
+],
+[
+"集结",
+7,
+"jí jié",
+"to assemble; to concentrate; to mass; to build up; to marshal"
+],
+[
+"集邮",
+7,
+"jí yóu",
+"stamp collecting; philately"
+],
+[
+"集装箱",
+7,
+"jí zhuāng xiāng",
+"container (for shipping)"
+],
+[
+"集资",
+7,
+"jí zī",
+"to raise money; to accumulate funds"
+],
+[
+"交集",
+7,
+"jiāo jí",
+"intersection (symbol ∩) (set theory)"
+],
+[
 "聚集",
-25.26,
+7,
 "jù jí",
 "to assemble; to gather"
 ],
 [
+"密集",
+7,
+"mì jí",
+"concentrated; crowded together; intensive; compressed"
+],
+[
+"搜集",
+7,
+"sōu jí",
+"to gather; to collect"
+],
+[
+"召集",
+7,
+"zhào jí",
+"to convene; to gather"
+],
+[
 "征集",
-21.2,
+7,
 "zhēng jí",
 "to collect; to recruit"
+]
 ],
+"extraWords": [
 [
 "募集",
 16.12,
@@ -69,64 +147,16 @@
 "integrated (as in integrated circuit)"
 ],
 [
-"密集",
-14.79,
-"mì jí",
-"concentrated; crowded together; intensive; compressed"
-],
-[
 "集训",
 13.92,
 "jí xùn",
 "to train together; to practice as a group"
 ],
 [
-"召集",
-12.24,
-"zhào jí",
-"to convene; to gather"
-],
-[
-"集资",
-10.71,
-"jí zī",
-"to raise money; to accumulate funds"
-],
-[
-"集装箱",
-10.09,
-"jí zhuāng xiāng",
-"container (for shipping)"
-],
-[
-"筹集",
-9.67,
-"chóu jí",
-"to collect money; to raise funds"
-],
-[
-"集会",
-9.27,
-"jí huì",
-"to gather; assembly; meeting; CL:個|个[ge4],次[ci4]"
-],
-[
-"搜集",
-9.14,
-"sōu jí",
-"to gather; to collect"
-],
-[
-"汇集",
-7.23,
-"huì jí",
-"to collect; to compile; to converge; also written 彙集|汇集[hui4 ji2]"
-],
-[
-"汇集",
-7.23,
-"huì jí",
-"to collect; to compile; to converge"
+"集团公司",
+11.56,
+"???",
+"???"
 ],
 [
 "云集",
@@ -141,12 +171,6 @@
 "business conglomerate"
 ],
 [
-"集结",
-5.99,
-"jí jié",
-"to assemble; to concentrate; to mass; to build up; to marshal"
-],
-[
 "集群",
 5.85,
 "jí qún",
@@ -157,6 +181,12 @@
 5.41,
 "jí jù",
 "to assemble; to gather"
+],
+[
+"密集型",
+5.12,
+"???",
+"???"
 ],
 [
 "集中营",

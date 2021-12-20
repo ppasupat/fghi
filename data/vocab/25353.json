@@ -1,14 +1,20 @@
 {
 "char": "按",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "put hand on, press down with hand",
 "pron": "àn"
 },
 "words": [
 [
+"按",
+3,
+"àn",
+"to press; to push; to leave aside or shelve; to control; to restrain; to keep one's hand on; to check or refer to; according to; in the light of; (of an editor or author) to make a comment"
+],
+[
 "按照",
-4,
+3,
 "àn zhào",
 "according to; in accordance with; in the light of; on the basis of"
 ],
@@ -20,9 +26,27 @@
 ],
 [
 "按摩",
-6,
+5,
 "àn mó",
 "massage; to massage"
+],
+[
+"按键",
+7,
+"àn jiàn",
+"button or key (on a device); keystroke; CL:个[gè]; to press a button"
+],
+[
+"按理说",
+7,
+"àn lǐ shuō",
+"it is reasonable to say that..."
+],
+[
+"按说",
+7,
+"àn shuō",
+"in the ordinary course of events; ordinarily; normally"
 ]
 ],
 "extraWords": [
@@ -31,12 +55,6 @@
 13.12,
 "àn niǔ",
 "push button"
-],
-[
-"按键",
-9.87,
-"àn jiàn",
-"button or key (on a device); keystroke; CL:個|个[ge4]; to press a button"
 ],
 [
 "按揭",

@@ -1,6 +1,6 @@
 {
 "char": "籍",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "record, register, list; census",
 "pron": "jí"
@@ -8,35 +8,47 @@
 "words": [
 [
 "国籍",
-4,
+5,
 "guó jí",
 "nationality"
 ],
 [
 "书籍",
-6,
+7,
 "shū jí",
 "books; works"
 ],
 [
-"籍贯",
-6,
-"jí guàn",
-"one's native place; place of ancestry; registered birthplace"
+"外籍",
+7,
+"wài jí",
+"foreign (i.e. of foreign nationality)"
+],
+[
+"祖籍",
+7,
+"zǔ jí",
+"ancestral hometown; original domicile (and civil registration)"
 ]
 ],
 "extraWords": [
+[
+"籍",
+20.97,
+"Jí",
+"surname Ji"
+],
+[
+"籍",
+20.97,
+"jí",
+"book or record; registry; roll; place of one's family or ancestral records; membership"
+],
 [
 "户籍",
 8.9,
 "hù jí",
 "census register; household register"
-],
-[
-"外籍",
-7.01,
-"wài jí",
-"foreign (i.e. of foreign nationality)"
 ]
 ],
 "strokes": [

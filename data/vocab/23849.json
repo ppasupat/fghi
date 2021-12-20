@@ -1,6 +1,6 @@
 {
 "char": "崩",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "rupture, split apart, collapse",
 "pron": "bēng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "崩溃",
-6,
+7,
 "bēng kuì",
 "to collapse; to crumble; to fall apart"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"崩",
+9.54,
+"bēng",
+"to collapse; to fall into ruins; death of king or emperor; demise"
+],
+[
+"崩塌",
+1.64,
+"bēng tā",
+"talus slide; to crumble (of scree slope); to collapse; landslide"
+]
+],
 "strokes": [
 "M 532 662 Q 542 717 552 768 Q 558 786 564 803 Q 567 813 550 826 Q 520 845 499 849 Q 486 853 478 846 Q 471 839 477 826 Q 487 811 489 801 Q 493 734 494 656 C 494 626 527 632 532 662 Z",
 "M 688 680 Q 634 680 532 662 L 494 656 Q 394 643 366 630 Q 359 627 357 630 Q 357 631 363 684 Q 367 721 318 747 Q 312 750 306 751 Q 293 754 287 750 Q 283 744 294 723 Q 324 657 278 600 Q 266 590 267 582 Q 270 575 285 560 Q 300 547 308 547 Q 315 547 321 553 Q 339 587 563 629 Q 573 633 688 646 C 718 649 718 681 688 680 Z",

@@ -1,6 +1,6 @@
 {
 "char": "痹",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "paralysis, numbness",
 "pron": "bì"
@@ -8,12 +8,25 @@
 "words": [
 [
 "麻痹",
-6,
+7,
 "má bì",
 "paralysis; palsy; numbness; to benumb; (fig.) to lull; negligent; apathetic"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"痹",
+3.11,
+"bì",
+"paralysis; numbness"
+],
+[
+"麻痹大意",
+0.52,
+"má bì dà yì",
+"unwary; negligent"
+]
+],
 "strokes": [
 "M 497 803 Q 528 781 562 754 Q 577 742 594 744 Q 604 745 609 760 Q 612 776 600 806 Q 585 840 487 852 Q 471 855 464 851 Q 460 847 462 833 Q 466 823 497 803 Z",
 "M 348 637 Q 381 625 448 634 Q 569 655 698 675 Q 759 687 769 695 Q 779 702 775 712 Q 768 725 738 733 Q 707 740 609 710 Q 455 677 343 669 C 313 667 319 645 348 637 Z",

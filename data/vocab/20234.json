@@ -1,11 +1,18 @@
 {
 "char": "伊",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "third person pronoun; he, she, this, that",
 "pron": "yī"
 },
-"words": [],
+"words": [
+[
+"伊斯兰教",
+7,
+"Yī sī lán jiào",
+"Islam"
+]
+],
 "extraWords": [
 [
 "伊拉克",
@@ -20,10 +27,52 @@
 "Iran"
 ],
 [
+"伊",
+46.87,
+"Yī",
+"surname Yi; abbr. for 伊拉克[Yī lā kè], Iraq; abbr. for 伊朗[Yī lǎng], Iran"
+],
+[
+"伊",
+46.87,
+"yī",
+"(old) third person singular pronoun (\"he\" or \"she\"); second person singular pronoun (\"you\"); (May 4th period) third person singular feminine pronoun (\"she\"); (Classical Chinese) introductory particle with no specific meaning; that (preceding a noun)"
+],
+[
+"乔伊",
+30.73,
+"???",
+"???"
+],
+[
 "伊丽莎白",
 11.98,
 "Yī lì shā bái",
 "Elizabeth (person name)"
+],
+[
+"克罗伊",
+11.54,
+"???",
+"???"
+],
+[
+"伊恩",
+8.85,
+"???",
+"???"
+],
+[
+"罗伊",
+7.99,
+"???",
+"???"
+],
+[
+"伊迪",
+6.8,
+"???",
+"???"
 ],
 [
 "木乃伊",
@@ -36,6 +85,12 @@
 6.39,
 "Yī sī lán",
 "Islam"
+],
+[
+"杜伊",
+6.33,
+"???",
+"???"
 ],
 [
 "伊始",

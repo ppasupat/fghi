@@ -1,42 +1,66 @@
 {
 "char": "委",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "appoint, send, commission",
 "pron": "wěi"
 },
 "words": [
 [
-"委屈",
-5,
-"wěi qu",
-"to feel wronged; to cause sb to feel wronged; grievance"
-],
-[
 "委托",
-6,
+5,
 "wěi tuō",
 "to entrust; to trust; to commission"
 ],
 [
+"评委",
+7,
+"píng wěi",
+"evaluation committee; judging panel; judging panel member; adjudicator; abbr. for 评选委员会委员[píng xuǎn wěi yuán huì wěi yuán]"
+],
+[
+"委屈",
+7,
+"wěi qu",
+"to feel wronged; to cause sb to feel wronged; grievance"
+],
+[
+"委婉",
+7,
+"wěi wǎn",
+"tactful; euphemistic; (of voice etc) suave; soft"
+],
+[
 "委员",
-6,
+7,
 "wěi yuán",
-"committee member; committee; council; CL:個|个[ge4]"
+"committee member; committee; council; CL:个[gè]"
+],
+[
+"委员会",
+7,
+"wěi yuán huì",
+"committee"
 ]
 ],
 "extraWords": [
 [
-"委员会",
-112.56,
-"wěi yuán huì",
-"committee"
+"委",
+108.75,
+"Wěi",
+"surname Wei"
 ],
 [
-"评委",
-67.16,
-"píng wěi",
-"evaluation committee; judging panel; judging panel member; adjudicator; abbr. for 評選委員會委員|评选委员会委员[ping2 xuan3 wei3 yuan2 hui4 wei3 yuan2]"
+"委",
+108.75,
+"wēi",
+"same as 逶 in 逶迤 winding, curved"
+],
+[
+"委",
+108.75,
+"wěi",
+"to entrust; to cast aside; to shift (blame etc); to accumulate; roundabout; winding; dejected; listless; committee member; council; end; actually; certainly"
 ],
 [
 "党委",
@@ -63,6 +87,18 @@
 "member of standing committee"
 ],
 [
+"组委会",
+20.61,
+"???",
+"???"
+],
+[
+"人大常委会",
+16.51,
+"???",
+"???"
+],
+[
 "委托人",
 16.31,
 "wěi tuō rén",
@@ -72,7 +108,7 @@
 "国资委",
 13.41,
 "Guó Zī Wěi",
-"see 國務院國有資產監督管理委員會|国务院国有资产监督管理委员会[Guo2 wu4 yuan4 Guo2 you3 Zi1 chan3 Jian1 du1 Guan3 li3 Wei3 yuan2 hui4]"
+"see 国务院国有资产监督管理委员会[Guó wù yuàn Guó yǒu Zī chǎn Jiān dū Guǎn lǐ Wěi yuán huì]"
 ],
 [
 "县委",
@@ -105,6 +141,12 @@
 "standing committee"
 ],
 [
+"建委",
+6.78,
+"???",
+"???"
+],
+[
 "村委会",
 6.7,
 "cūn wěi huì",
@@ -120,7 +162,13 @@
 "立委",
 6.28,
 "lì wěi",
-"abbr. for 立法委員會|立法委员会[li4 fa3 wei3 yuan2 hui4]; abbr. for 立法委員|立法委员[li4 fa3 wei3 yuan2]"
+"abbr. for 立法委员会[lì fǎ wěi yuán huì]; abbr. for 立法委员[lì fǎ wěi yuán]"
+],
+[
+"教委",
+6.05,
+"???",
+"???"
 ],
 [
 "部委",

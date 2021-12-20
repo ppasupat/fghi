@@ -1,32 +1,43 @@
 {
 "char": "赴",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "go to; attend, be present",
 "pron": "fù"
 },
 "words": [
 [
-"全力以赴",
-6,
-"quán lì yǐ fù",
-"to do at all costs; to make an all-out effort"
-]
+"奔赴",
+7,
+"bēn fù",
+"to rush to; to hurry to"
 ],
-"extraWords": [
+[
+"赴",
+7,
+"fù",
+"to go; to visit (e.g. another country); to attend (a banquet etc)"
+],
 [
 "赶赴",
-8.72,
+7,
 "gǎn fù",
 "to hurry; to rush"
 ],
 [
-"奔赴",
-5.16,
-"bēn fù",
-"to rush to; to hurry to"
+"前赴后继",
+7,
+"qián fù hòu jì",
+"to advance dauntlessly in wave upon wave (idiom)"
+],
+[
+"全力以赴",
+7,
+"quán lì yǐ fù",
+"to do at all costs; to make an all-out effort"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 406 575 Q 500 599 504 603 Q 513 612 508 620 Q 499 632 470 638 Q 439 644 409 630 L 354 612 Q 311 599 225 586 Q 188 579 215 562 Q 266 541 318 556 Q 334 560 355 564 L 406 575 Z",
 "M 399 470 Q 402 524 406 575 L 409 630 Q 410 696 429 765 Q 432 775 411 791 Q 374 810 349 815 Q 333 818 324 809 Q 317 802 325 786 Q 346 756 347 736 Q 351 678 354 612 L 355 564 Q 355 513 354 458 C 353 428 397 440 399 470 Z",

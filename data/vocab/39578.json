@@ -1,36 +1,36 @@
 {
 "char": "骚",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "harass, bother, annoy, disturb",
 "pron": "sāo"
 },
 "words": [
 [
-"骚扰",
-6,
-"sāo rǎo",
-"to disturb; to cause a commotion; to harass"
+"骚乱",
+7,
+"sāo luàn",
+"disturbance; riot; to create a disturbance"
 ],
 [
-"牢骚",
-6,
-"láo sāo",
-"discontent; complaint; to complain"
+"骚扰",
+7,
+"sāo rǎo",
+"to disturb; to cause a commotion; to harass"
 ]
 ],
 "extraWords": [
+[
+"骚",
+13.19,
+"sāo",
+"trouble; disturbance; rumpus; flirty; coquettish; abbr. for 离骚[Lí Sāo]; literary writings; smell of urine; foul smell; male (animal) (dialect)"
+],
 [
 "性骚扰",
 9.72,
 "xìng sāo rǎo",
 "sexual harassment"
-],
-[
-"骚乱",
-5.54,
-"sāo luàn",
-"disturbance; riot; to create a disturbance"
 ]
 ],
 "strokes": [

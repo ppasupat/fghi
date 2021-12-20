@@ -1,17 +1,30 @@
 {
 "char": "朦",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "condition or appearance of moon",
 "pron": "méng"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "朦胧",
-6.04,
+7,
 "méng lóng",
 "hazy"
+]
+],
+"extraWords": [
+[
+"朦",
+1.24,
+"méng",
+"indistinct; unclear; to deceive"
+],
+[
+"朦朦胧胧",
+0.55,
+"???",
+"???"
 ]
 ],
 "strokes": [

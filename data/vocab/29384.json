@@ -1,6 +1,6 @@
 {
 "char": "狈",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "a legendary animal with short forelegs which rode a wolf",
 "pron": "bèi"
@@ -8,12 +8,25 @@
 "words": [
 [
 "狼狈",
-6,
+7,
 "láng bèi",
 "in a difficult situation; to cut a sorry figure; scoundrel! (derog.)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"狈",
+1.35,
+"bèi",
+"a legendary wolf; distressed; wretched"
+],
+[
+"狼狈不堪",
+0.8,
+"láng bèi bù kān",
+"battered and exhausted; stuck in a dilemma"
+]
+],
 "strokes": [
 "M 333 603 Q 348 619 362 636 Q 405 690 445 732 Q 458 744 445 762 Q 402 805 379 805 Q 367 804 367 789 Q 364 719 304 644 L 268 603 Q 228 558 180 524 Q 137 496 115 476 Q 105 463 121 464 Q 182 467 293 564 L 333 603 Z",
 "M 335 421 Q 348 232 312 121 Q 306 106 298 105 Q 282 101 236 107 Q 202 116 197 109 Q 194 102 206 89 Q 251 53 279 20 Q 298 -5 307 -5 Q 314 -6 331 10 Q 413 119 384 438 Q 377 487 365 528 Q 352 571 333 603 L 304 644 Q 259 701 179 735 Q 163 744 159 731 Q 155 716 163 695 Q 173 674 192 670 Q 231 654 268 603 L 293 564 Q 306 540 315 516 L 335 421 Z",

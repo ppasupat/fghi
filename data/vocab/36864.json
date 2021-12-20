@@ -1,6 +1,6 @@
 {
 "char": "退",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "step back, retreat, withdraw",
 "pron": "tuì"
@@ -8,42 +8,90 @@
 "words": [
 [
 "退",
-5,
+3,
 "tuì",
 "to retreat; to decline; to move back; to withdraw"
 ],
 [
+"退出",
+3,
+"tuì chū",
+"to withdraw; to abort; to quit; to log out (computing)"
+],
+[
 "退休",
-5,
+3,
 "tuì xiū",
 "to retire; retirement (from work)"
 ],
 [
-"退步",
-5,
-"tuì bù",
-"to do less well than before; to make a concession; setback; backward step; leeway; room to maneuver; fallback"
+"退票",
+6,
+"tuì piào",
+"to bounce (a check); to return a ticket; ticket refund"
 ],
 [
-"撤退",
-6,
-"chè tuì",
-"to retreat"
+"辞退",
+7,
+"cí tuì",
+"to dismiss; to discharge; to fire"
+],
+[
+"后退",
+7,
+"hòu tuì",
+"to recoil; to draw back; to fall back; to retreat"
 ],
 [
 "衰退",
-6,
+7,
 "shuāi tuì",
 "to decline; to fall; to drop; to falter; a decline; recession (in economics)"
+],
+[
+"退回",
+7,
+"tuì huí",
+"to return (an item); to send back; to go back"
+],
+[
+"退却",
+7,
+"tuì què",
+"to retreat; to shrink back"
+],
+[
+"退让",
+7,
+"tuì ràng",
+"to move aside; to get out of the way; to back down; to concede"
+],
+[
+"退缩",
+7,
+"tuì suō",
+"to shrink back; to cower"
+],
+[
+"退休金",
+7,
+"tuì xiū jīn",
+"retirement pay; pension"
+],
+[
+"退学",
+7,
+"tuì xué",
+"to quit school"
+],
+[
+"退役",
+7,
+"tuì yì",
+"to retire from the military, sport etc; to demobilize; to decommission; retired from use"
 ]
 ],
 "extraWords": [
-[
-"退出",
-39.41,
-"tuì chū",
-"to withdraw; to abort; to quit; to log out (computing)"
-],
 [
 "退后",
 31.87,
@@ -51,34 +99,16 @@
 "to stand back; to go back (in time); to yield; to make concessions"
 ],
 [
-"后退",
-16.69,
-"hòu tuì",
-"to recoil; to draw back; to fall back; to retreat"
-],
-[
-"退役",
-12.96,
-"tuì yì",
-"to retire from the military, sport etc; to demobilize; to decommission; retired from use"
-],
-[
-"退缩",
-6.92,
-"tuì suō",
-"to shrink back; to cower"
+"撤退",
+14.99,
+"chè tuì",
+"to retreat"
 ],
 [
 "退还",
 6.64,
 "tuì huán",
 "to return (sth borrowed etc); to send back; to refund; to rebate"
-],
-[
-"退回",
-6.29,
-"tuì huí",
-"to return (an item); to send back; to go back"
 ],
 [
 "退税",
@@ -97,12 +127,6 @@
 5.05,
 "tuì huò",
 "to return merchandise; to withdraw a product"
-],
-[
-"退学",
-5.04,
-"tuì xué",
-"to quit school"
 ]
 ],
 "strokes": [

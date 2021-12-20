@@ -1,6 +1,6 @@
 {
 "char": "摆",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "put, place; display; swing, sway",
 "pron": "bǎi"
@@ -8,37 +8,48 @@
 "words": [
 [
 "摆",
-5,
+4,
 "bǎi",
 "to arrange; to exhibit; to move to and fro; a pendulum"
 ],
 [
+"摆动",
+4,
+"bǎi dòng",
+"to sway; to swing; to move back and forth; to oscillate"
+],
+[
 "摆脱",
-6,
+4,
 "bǎi tuō",
 "to break away from; to cast off (old ideas etc); to get rid of; to break away (from); to break out (of); to free oneself from; to extricate oneself"
 ],
 [
-"摇摆",
-6,
-"yáo bǎi",
-"to sway; to wobble; to waver"
-]
-],
-"extraWords": [
-[
 "摆放",
-10.39,
+7,
 "bǎi fàng",
 "to set up; to arrange; to lay out"
 ],
 [
 "摆平",
-9.42,
+7,
 "bǎi píng",
 "to be fair; to be impartial; to settle (a matter etc)"
+],
+[
+"摆设",
+7,
+"bǎi shè",
+"to arrange; to set out; to decorate; to display; decorative items"
+],
+[
+"摇摆",
+7,
+"yáo bǎi",
+"to sway; to wobble; to waver"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 323 536 Q 408 561 413 565 Q 420 572 416 581 Q 409 591 379 597 Q 351 601 325 588 L 277 570 Q 258 566 241 559 Q 195 546 139 537 Q 105 528 130 514 Q 175 493 228 511 Q 250 518 277 523 L 323 536 Z",
 "M 273 326 Q 272 241 271 136 Q 270 112 257 103 Q 248 97 228 104 Q 203 110 180 115 Q 149 127 151 117 Q 152 110 171 96 Q 235 47 251 18 Q 270 -15 285 -16 Q 298 -17 313 16 Q 331 59 329 130 Q 322 245 321 359 L 321 393 Q 320 465 323 536 L 325 588 Q 337 721 345 747 Q 361 775 308 797 Q 277 815 257 809 Q 241 802 256 780 Q 275 755 277 722 Q 278 706 277 570 L 277 523 Q 276 457 274 368 L 273 326 Z",

@@ -1,12 +1,31 @@
 {
 "char": "梧",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "Chinese parasol tree, Sterculia platanifolia",
 "pron": "wú"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"梧桐",
+2.03,
+"wú tóng",
+"wutong (Firmiana platanifolia); Chinese parasol tree"
+],
+[
+"魁梧",
+1.61,
+"kuí wú",
+"tall and sturdy"
+],
+[
+"梧",
+1.38,
+"wú",
+"Sterculia platanifolia"
+]
+],
 "strokes": [
 "M 313 527 Q 397 554 400 555 Q 409 564 404 572 Q 397 584 366 590 Q 338 594 314 583 L 274 568 Q 172 535 92 523 Q 55 514 82 499 Q 127 475 183 493 Q 214 502 248 509 L 313 527 Z",
 "M 311 457 Q 311 491 313 527 L 314 583 Q 314 686 337 766 Q 352 791 322 811 Q 307 823 282 837 Q 260 855 239 839 Q 235 835 240 819 Q 274 768 274 717 Q 274 647 274 568 L 269 436 Q 257 195 254 174 Q 247 134 235 93 Q 223 50 249 -6 Q 255 -24 263 -27 Q 269 -33 276 -25 Q 283 -21 294 -1 Q 304 24 303 54 Q 302 97 310 424 L 311 457 Z",

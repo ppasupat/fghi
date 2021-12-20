@@ -1,6 +1,6 @@
 {
 "char": "粤",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "Guangdong and Guangxi provinces; initial particle",
 "pron": "yuè"
@@ -8,10 +8,22 @@
 "words": [],
 "extraWords": [
 [
+"粤",
+10.43,
+"Yuè",
+"Cantonese; short name for Guangdong 广东[Guǎng dōng]"
+],
+[
 "粤语",
 7.59,
 "Yuè yǔ",
 "Cantonese language"
+],
+[
+"粤剧",
+0.9,
+"Yuè jù",
+"Cantonese opera"
 ]
 ],
 "strokes": [

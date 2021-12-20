@@ -1,112 +1,190 @@
 {
 "char": "立",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "stand; let stand; establish, set",
 "pron": "lì"
 },
 "words": [
 [
-"立刻",
-5,
-"lì kè",
-"forthwith; immediate; prompt; promptly; straightway; thereupon; at once"
+"成立",
+3,
+"chéng lì",
+"to establish; to set up; to be tenable; to hold water"
 ],
 [
 "建立",
-5,
+3,
 "jiàn lì",
 "to establish; to set up; to found"
 ],
 [
+"立刻",
+3,
+"lì kè",
+"forthwith; immediate; prompt; promptly; straightway; thereupon; at once"
+],
+[
+"设立",
+3,
+"shè lì",
+"to set up; to establish"
+],
+[
 "独立",
-5,
+4,
 "dú lì",
 "independent; independence; to stand alone"
 ],
 [
 "立即",
-5,
+4,
 "lì jí",
 "immediately"
 ],
 [
-"成立",
-5,
-"chéng lì",
-"to establish; to set up; to be tenable; to hold water"
-],
-[
-"立场",
-6,
-"lì chǎng",
-"position; standpoint; CL:個|个[ge4]"
-],
-[
-"设立",
-6,
-"shè lì",
-"to set up; to establish"
-],
-[
-"孤立",
-6,
-"gū lì",
-"isolate; isolated"
-],
-[
-"树立",
-6,
-"shù lì",
-"to set up; to establish"
-],
-[
-"中立",
-6,
-"zhōng lì",
-"neutral; neutrality"
-],
-[
 "创立",
-6,
+5,
 "chuàng lì",
 "to establish; to set up; to found"
 ],
 [
-"立体",
-6,
-"lì tǐ",
-"three-dimensional; solid; stereoscopic"
-],
-[
 "对立",
-6,
+5,
 "duì lì",
 "to oppose; to set sth against; to be antagonistic to; antithetical; relative opposite; opposing; diametrical"
 ],
 [
-"立足",
-6,
-"lì zú",
-"to stand; to have a footing; to be established; to base oneself on"
+"立",
+5,
+"Lì",
+"surname Li"
+],
+[
+"立",
+5,
+"lì",
+"to stand; to set up; to establish; to lay down; to draw up; at once; immediately"
+],
+[
+"立场",
+5,
+"lì chǎng",
+"position; standpoint; CL:个[gè]"
 ],
 [
 "确立",
-6,
+5,
 "què lì",
 "to establish; to institute"
 ],
 [
+"订立",
+7,
+"dìng lì",
+"to conclude (treaty, contract, agreement etc); to set up (a rule etc)"
+],
+[
+"独立自主",
+7,
+"dú lì zì zhǔ",
+"independent and autonomous (idiom); self-determination; to act independently; to maintain control over one's own affairs"
+],
+[
+"公立",
+7,
+"gōng lì",
+"public (e.g. school, hospital)"
+],
+[
+"孤立",
+7,
+"gū lì",
+"isolate; isolated"
+],
+[
+"鹤立鸡群",
+7,
+"hè lì jī qún",
+"a crane in a flock of chicken (idiom); way above the common; manifestly superior"
+],
+[
 "立方",
-6,
+7,
 "lì fāng",
-"cube (math.); abbr. for 立方體|立方体[li4 fang1 ti3]; abbr. for 立方米[li4 fang1 mi3]"
+"cube (math.); abbr. for 立方体[lì fāng tǐ]; abbr. for 立方米[lì fāng mǐ]"
+],
+[
+"立方米",
+7,
+"lì fāng mǐ",
+"cubic meter (unit of volume)"
+],
+[
+"立功",
+7,
+"lì gōng",
+"to render meritorious service (one the three imperishables 三不朽[sān bù xiǔ]); to make worthy contributions; to distinguish oneself"
 ],
 [
 "立交桥",
-6,
+7,
 "lì jiāo qiáo",
 "overpass; flyover"
+],
+[
+"立体",
+7,
+"lì tǐ",
+"three-dimensional; solid; stereoscopic"
+],
+[
+"立足",
+7,
+"lì zú",
+"to stand; to have a footing; to be established; to base oneself on"
+],
+[
+"树立",
+7,
+"shù lì",
+"to set up; to establish"
+],
+[
+"私立",
+7,
+"sī lì",
+"private (company, school etc)"
+],
+[
+"耸立",
+7,
+"sǒng lì",
+"to stand tall; to tower aloft"
+],
+[
+"屹立",
+7,
+"yì lì",
+"to tower; to stand straight (of person's bearing)"
+],
+[
+"站立",
+7,
+"zhàn lì",
+"to stand; standing; on one's feet"
+],
+[
+"中立",
+7,
+"zhōng lì",
+"neutral; neutrality"
+],
+[
+"自立",
+7,
+"zì lì",
+"independent; self-reliant; self-sustaining; to stand on one's own feet; to support oneself"
 ]
 ],
 "extraWords": [
@@ -115,12 +193,6 @@
 32.08,
 "lì fǎ",
 "to enact laws; to legislate; legislation"
-],
-[
-"立方米",
-16.57,
-"lì fāng mǐ",
-"cubic meter (unit of volume)"
 ],
 [
 "立案",
@@ -141,16 +213,10 @@
 "at once; immediately; promptly; swiftly"
 ],
 [
-"站立",
-7.91,
-"zhàn lì",
-"to stand; standing; on one's feet"
-],
-[
 "立委",
 6.28,
 "lì wěi",
-"abbr. for 立法委員會|立法委员会[li4 fa3 wei3 yuan2 hui4]; abbr. for 立法委員|立法委员[li4 fa3 wei3 yuan2]"
+"abbr. for 立法委员会[lì fǎ wěi yuán huì]; abbr. for 立法委员[lì fǎ wěi yuán]"
 ],
 [
 "立项",
@@ -163,6 +229,12 @@
 5.69,
 "lì shí",
 "right away; quickly; immediately"
+],
+[
+"独立性",
+5.24,
+"???",
+"???"
 ]
 ],
 "strokes": [

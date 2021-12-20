@@ -1,72 +1,84 @@
 {
 "char": "飞",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "fly; go quickly; dart; high",
 "pron": "fēi"
 },
 "words": [
 [
+"飞",
+1,
+"fēi",
+"to fly"
+],
+[
 "飞机",
 1,
 "fēi jī",
-"airplane; CL:架[jia4]"
+"airplane; CL:架[jià]"
 ],
 [
 "起飞",
-3,
+2,
 "qǐ fēi",
 "(of an aircraft) to take off"
 ],
 [
-"飞翔",
-6,
-"fēi xiáng",
-"to circle in the air; to soar"
-],
-[
-"飞跃",
-6,
-"fēi yuè",
-"to leap"
-],
-[
-"飞禽走兽",
-6,
-"fēi qín zǒu shòu",
-"birds and animals; the beasts of the field and the birds of the air"
-]
-],
-"extraWords": [
-[
 "飞行",
-36.92,
+3,
 "fēi xíng",
 "(of planes etc) to fly; flying; flight; aviation"
 ],
 [
 "飞船",
-22.39,
+6,
 "fēi chuán",
 "airship; spaceship"
 ],
 [
 "飞行员",
-18.12,
+6,
 "fēi xíng yuán",
 "pilot; aviator"
 ],
+[
+"不翼而飞",
+7,
+"bù yì ér fēi",
+"to disappear without trace; to vanish all of a sudden; to spread fast; to spread like wildfire"
+],
+[
+"飞速",
+7,
+"fēi sù",
+"swift; rapidly"
+],
+[
+"飞往",
+7,
+"???",
+"???"
+],
+[
+"飞翔",
+7,
+"fēi xiáng",
+"to circle in the air; to soar"
+],
+[
+"飞跃",
+7,
+"fēi yuè",
+"to leap"
+]
+],
+"extraWords": [
 [
 "飞龙",
 7.48,
 "fēi lóng",
 "wyvern (type of dragon)"
-],
-[
-"飞速",
-6.95,
-"fēi sù",
-"swift; rapidly"
 ],
 [
 "飞扬",
@@ -99,10 +111,16 @@
 "to fly over; to fly past"
 ],
 [
+"飞来",
+5.25,
+"???",
+"???"
+],
+[
 "直升飞机",
 5.16,
 "zhí shēng fēi jī",
-"see 直升機|直升机[zhi2 sheng1 ji1]"
+"see 直升机[zhí shēng jī]"
 ]
 ],
 "strokes": [

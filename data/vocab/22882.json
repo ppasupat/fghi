@@ -1,6 +1,6 @@
 {
 "char": "奢",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "extravagant, wasteful; exaggerate",
 "pron": "shē"
@@ -8,9 +8,15 @@
 "words": [
 [
 "奢侈",
-6,
+7,
 "shē chǐ",
 "luxurious; extravagant"
+],
+[
+"奢望",
+7,
+"shē wàng",
+"an extravagant hope; to have excessive expectations"
 ]
 ],
 "extraWords": [
@@ -25,12 +31,6 @@
 8.01,
 "shē chǐ pǐn",
 "luxury good"
-],
-[
-"奢望",
-6.25,
-"shē wàng",
-"an extravagant hope; to have excessive expectations"
 ]
 ],
 "strokes": [

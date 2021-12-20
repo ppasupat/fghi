@@ -1,55 +1,133 @@
 {
 "char": "夜",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "night, dark; in night; by night",
 "pron": "yè"
 },
 "words": [
 [
-"夜",
-5,
-"yè",
-"variant of 夜[ye4]"
+"半夜",
+2,
+"bàn yè",
+"midnight; in the middle of the night"
 ],
 [
 "夜",
-5,
+2,
+"yè",
+"variant of 夜[yè]"
+],
+[
+"夜",
+2,
 "yè",
 "night"
 ],
 [
-"熬夜",
+"夜里",
+2,
+"yè li",
+"during the night; at night; nighttime"
+],
+[
+"夜间",
 5,
+"yè jiān",
+"nighttime; evening or night (e.g. classes)"
+],
+[
+"黑夜",
+6,
+"hēi yè",
+"night"
+],
+[
+"开夜车",
+6,
+"kāi yè chē",
+"to burn the midnight oil; to work late into the night"
+],
+[
+"日夜",
+6,
+"rì yè",
+"day and night; around the clock"
+],
+[
+"熬夜",
+7,
 "áo yè",
 "to stay up late or all night"
 ],
 [
+"彻夜",
+7,
+"chè yè",
+"the whole night"
+],
+[
+"连夜",
+7,
+"lián yè",
+"that very night; through the night; for several nights in a row"
+],
+[
+"年夜饭",
+7,
+"nián yè fàn",
+"New Year's Eve family dinner"
+],
+[
+"深夜",
+7,
+"shēn yè",
+"very late at night"
+],
+[
+"夜班",
+7,
+"yè bān",
+"night shift"
+],
+[
+"夜市",
+7,
+"yè shì",
+"night market"
+],
+[
+"夜晚",
+7,
+"yè wǎn",
+"night; CL:个[gè]"
+],
+[
+"夜校",
+7,
+"yè xiào",
+"evening school; night school"
+],
+[
+"夜以继日",
+7,
+"yè yǐ jì rì",
+"night and day (idiom); continuous strenuous effort"
+],
+[
+"夜总会",
+7,
+"yè zǒng huì",
+"nightclub; nightspot"
+],
+[
 "昼夜",
-6,
+7,
 "zhòu yè",
 "day and night; period of 24 hours; continuously, without stop"
 ]
 ],
 "extraWords": [
-[
-"夜晚",
-36.28,
-"yè wǎn",
-"night; CL:個|个[ge4]"
-],
-[
-"夜间",
-27.93,
-"yè jiān",
-"nighttime; evening or night (e.g. classes)"
-],
-[
-"半夜",
-25.17,
-"bàn yè",
-"midnight; in the middle of the night"
-],
 [
 "午夜",
 21.76,
@@ -57,34 +135,10 @@
 "midnight"
 ],
 [
-"深夜",
-17.04,
-"shēn yè",
-"very late at night"
-],
-[
 "过夜",
 15.86,
 "guò yè",
 "to spend the night; overnight"
-],
-[
-"夜里",
-12.93,
-"yè li",
-"during the night; at night; nighttime"
-],
-[
-"夜总会",
-12.46,
-"yè zǒng huì",
-"nightclub; nightspot"
-],
-[
-"黑夜",
-9.4,
-"hēi yè",
-"night"
 ],
 [
 "宵夜",
@@ -105,22 +159,10 @@
 "the whole night; all through the night"
 ],
 [
-"连夜",
-7.14,
-"lián yè",
-"that very night; through the night; for several nights in a row"
-],
-[
 "夜空",
 6.6,
 "yè kōng",
 "night sky"
-],
-[
-"日夜",
-6.39,
-"rì yè",
-"day and night; around the clock"
 ],
 [
 "夜宵",
@@ -139,12 +181,6 @@
 5.45,
 "zuó yè",
 "last night"
-],
-[
-"年夜饭",
-5.2,
-"nián yè fàn",
-"New Year's Eve family dinner"
 ]
 ],
 "strokes": [

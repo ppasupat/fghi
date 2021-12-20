@@ -1,40 +1,88 @@
 {
 "char": "闻",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "hear; smell; make known; news",
 "pron": "wén"
 },
 "words": [
 [
-"新闻",
-3,
-"xīn wén",
-"news; CL:條|条[tiao2],個|个[ge4]"
-],
-[
 "闻",
-5,
+2,
 "Wén",
 "surname Wen"
 ],
 [
 "闻",
-5,
+2,
 "wén",
 "to hear; news; well-known; famous; reputation; fame; to smell; to sniff at"
 ],
 [
-"见闻",
-6,
-"jiàn wén",
-"what one has seen and heard; knowledge; one's experience"
+"新闻",
+2,
+"xīn wén",
+"news; CL:条[tiáo],个[gè]"
 ],
 [
-"喜闻乐见",
-6,
-"xǐ wén lè jiàn",
-"to love to hear and see (idiom); well received; to one's liking"
+"丑闻",
+7,
+"chǒu wén",
+"scandal"
+],
+[
+"传闻",
+7,
+"chuán wén",
+"rumor"
+],
+[
+"耳闻目睹",
+7,
+"ěr wén mù dǔ",
+"to witness personally"
+],
+[
+"绯闻",
+7,
+"fēi wén",
+"sex scandal"
+],
+[
+"孤陋寡闻",
+7,
+"gū lòu guǎ wén",
+"ignorant and inexperienced; ill-informed and narrow-minded"
+],
+[
+"骇人听闻",
+7,
+"hài rén tīng wén",
+"shocking; horrifying; atrocious; terrible"
+],
+[
+"举世闻名",
+7,
+"jǔ shì wén míng",
+"world-famous (idiom)"
+],
+[
+"默默无闻",
+7,
+"mò mò wú wén",
+"obscure and unknown (idiom); an outsider without any reputation; a nobody; an unknown quantity"
+],
+[
+"闻名",
+7,
+"wén míng",
+"well-known; famous; renowned; eminent"
+],
+[
+"远近闻名",
+7,
+"yuǎn jìn wén míng",
+"to be known far and wide; to be well-known"
 ]
 ],
 "extraWords": [
@@ -45,34 +93,10 @@
 "news conference"
 ],
 [
-"传闻",
-12.84,
-"chuán wén",
-"rumor"
-],
-[
-"丑闻",
-8.56,
-"chǒu wén",
-"scandal"
-],
-[
 "闻言",
 7.0,
 "wén yán",
 "to have heard what was said"
-],
-[
-"闻名",
-6.92,
-"wén míng",
-"well-known; famous; renowned; eminent"
-],
-[
-"绯闻",
-6.35,
-"fēi wén",
-"sex scandal"
 ],
 [
 "闻到",

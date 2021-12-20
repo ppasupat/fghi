@@ -1,6 +1,6 @@
 {
 "char": "件",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "numerary adjunct for article; matter",
 "pron": "jiàn"
@@ -13,28 +13,46 @@
 "item; component; classifier for events, things, clothes etc"
 ],
 [
+"条件",
+2,
+"tiáo jiàn",
+"condition; circumstances; term; factor; requirement; prerequisite; qualification; CL:个[gè]"
+],
+[
 "电子邮件",
 3,
 "diàn zǐ yóu jiàn",
-"email; CL:封[feng1],份[fen4]"
+"email; CL:封[fēng],份[fèn]"
 ],
 [
-"条件",
-4,
-"tiáo jiàn",
-"condition; circumstances; term; factor; requirement; prerequisite; qualification; CL:個|个[ge4]"
+"事件",
+3,
+"shì jiàn",
+"event; happening; incident; CL:个[gè]"
 ],
 [
 "文件",
-5,
+3,
 "wén jiàn",
-"document; file; CL:份[fen4]"
+"document; file; CL:份[fèn]"
+],
+[
+"邮件",
+3,
+"yóu jiàn",
+"mail; post; email"
 ],
 [
 "证件",
-5,
+3,
 "zhèng jiàn",
 "certificate; papers; credentials; document; ID"
+],
+[
+"附件",
+5,
+"fù jiàn",
+"enclosure; attachment (email); appendix"
 ],
 [
 "软件",
@@ -43,72 +61,54 @@
 "(computer) software"
 ],
 [
-"零件",
-5,
-"líng jiàn",
-"part; component"
-],
-[
 "硬件",
 5,
 "yìng jiàn",
 "hardware"
 ],
 [
-"事件",
-6,
-"shì jiàn",
-"event; happening; incident; CL:個|个[ge4]"
-],
-[
 "案件",
-6,
+7,
 "àn jiàn",
-"case; instance; CL:宗[zong1],樁|桩[zhuang1],起[qi3]"
+"case; instance; CL:宗[zōng],桩[zhuāng],起[qǐ]"
 ],
 [
-"附件",
-6,
-"fù jiàn",
-"enclosure; attachment (email); appendix"
+"部件",
+7,
+"bù jiàn",
+"part; component"
 ],
 [
-"稿件",
-6,
-"gǎo jiàn",
-"piece of writing submitted for publication; manuscript; article"
-]
-],
-"extraWords": [
-[
-"邮件",
-35.62,
-"yóu jiàn",
-"mail; post; email"
+"零件",
+7,
+"líng jiàn",
+"part; component"
 ],
 [
 "配件",
-13.07,
+7,
 "pèi jiàn",
 "component; part; fitting; accessory; replacement part"
 ],
+[
+"无条件",
+7,
+"wú tiáo jiàn",
+"unconditional"
+],
+[
+"信件",
+7,
+"xìn jiàn",
+"letter (sent by mail)"
+]
+],
+"extraWords": [
 [
 "零部件",
 11.13,
 "líng bù jiàn",
 "spare part; component"
-],
-[
-"部件",
-9.08,
-"bù jiàn",
-"part; component"
-],
-[
-"信件",
-8.82,
-"xìn jiàn",
-"letter (sent by mail)"
 ],
 [
 "复印件",
@@ -117,10 +117,16 @@
 "photocopy; duplicate"
 ],
 [
-"无条件",
-6.15,
-"wú tiáo jiàn",
-"unconditional"
+"稿件",
+6.1,
+"gǎo jiàn",
+"piece of writing submitted for publication; manuscript; article"
+],
+[
+"第一件",
+5.61,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "髦",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "flowing hair of young child",
 "pron": "máo"
@@ -8,12 +8,25 @@
 "words": [
 [
 "时髦",
-5,
+7,
 "shí máo",
 "in vogue; fashionable"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"髦",
+2.08,
+"máo",
+"bang (hair); fashionable; mane"
+],
+[
+"赶时髦",
+0.54,
+"gǎn shí máo",
+"to keep up with the latest fashion"
+]
+],
 "strokes": [
 "M 320 760 Q 369 760 514 796 Q 514 797 516 797 Q 523 804 519 811 Q 512 820 489 825 Q 464 829 441 818 Q 413 808 383 800 Q 349 791 311 786 C 281 782 290 759 320 760 Z",
 "M 328 564 Q 327 586 325 604 L 323 630 Q 320 657 320 677 L 319 698 Q 319 746 320 760 C 321 778 321 778 311 786 Q 310 787 309 788 Q 288 803 264 810 Q 252 814 244 809 Q 238 803 244 790 Q 263 759 272 724 Q 279 690 293 556 C 296 526 330 534 328 564 Z",

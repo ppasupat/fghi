@@ -1,16 +1,46 @@
 {
 "char": "谜",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "riddle, conundrum; puzzle",
 "pron": "mí"
 },
 "words": [
 [
+"猜谜",
+7,
+"cāi mí",
+"to answer a riddle; to guess (i.e. form an opinion without much evidence)"
+],
+[
+"谜",
+7,
+"mèi",
+"see 谜儿[mèi r5], riddle"
+],
+[
+"谜",
+7,
+"mí",
+"riddle"
+],
+[
+"谜底",
+7,
+"mí dǐ",
+"answer to a riddle"
+],
+[
+"谜团",
+7,
+"mí tuán",
+"riddle; enigma; unpredictable situation; elusive matters"
+],
+[
 "谜语",
-6,
+7,
 "mí yǔ",
-"riddle; conundrum; CL:條|条[tiao2]"
+"riddle; conundrum; CL:条[tiáo]"
 ]
 ],
 "extraWords": [],

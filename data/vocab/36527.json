@@ -1,17 +1,30 @@
 {
 "char": "躯",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "body",
 "pron": "qū"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "身躯",
-6.63,
+7,
 "shēn qū",
 "body"
+]
+],
+"extraWords": [
+[
+"躯体",
+4.35,
+"qū tǐ",
+"body; carcass"
+],
+[
+"躯",
+2.95,
+"qū",
+"human body"
 ]
 ],
 "strokes": [

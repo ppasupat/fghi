@@ -1,22 +1,40 @@
 {
 "char": "牢",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "prison; stable, pen; secure",
 "pron": "láo"
 },
 "words": [
 [
-"牢固",
+"牢",
 6,
+"láo",
+"firm; sturdy; fold (for animals); sacrifice; prison"
+],
+[
+"牢固",
+7,
 "láo gù",
 "firm; secure"
 ],
 [
-"牢骚",
-6,
-"láo sāo",
-"discontent; complaint; to complain"
+"牢记",
+7,
+"láo jì",
+"to keep in mind; to remember"
+],
+[
+"牢牢",
+7,
+"láo láo",
+"firmly; safely"
+],
+[
+"亡羊补牢",
+7,
+"wáng yáng bǔ láo",
+"lit. to mend the pen after sheep are lost (idiom); fig. to act belatedly; better late than never; to lock the stable door after the horse has bolted"
 ]
 ],
 "extraWords": [
@@ -31,18 +49,6 @@
 13.06,
 "láo fáng",
 "jail cell; prison cell"
-],
-[
-"牢牢",
-9.9,
-"láo láo",
-"firmly; safely"
-],
-[
-"牢记",
-5.34,
-"láo jì",
-"to keep in mind; to remember"
 ]
 ],
 "strokes": [

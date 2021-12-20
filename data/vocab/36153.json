@@ -1,16 +1,58 @@
 {
 "char": "费",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "expenses, expenditures, fee",
 "pron": "fèi"
 },
 "words": [
 [
+"费",
+3,
+"Fèi",
+"surname Fei"
+],
+[
+"费",
+3,
+"fèi",
+"to cost; to spend; fee; wasteful; expenses"
+],
+[
+"费用",
+3,
+"fèi yòng",
+"cost; expenditure; expense; CL:笔[bǐ],个[gè]"
+],
+[
+"交费",
+3,
+"jiāo fèi",
+"to pay a fee"
+],
+[
 "浪费",
-4,
+3,
 "làng fèi",
 "to waste; to squander"
+],
+[
+"收费",
+3,
+"shōu fèi",
+"to charge a fee"
+],
+[
+"消费",
+3,
+"xiāo fèi",
+"to consume; to spend"
+],
+[
+"学费",
+3,
+"xué fèi",
+"tuition fee; tuition; CL:个[gè]"
 ],
 [
 "免费",
@@ -19,66 +61,102 @@
 "free (of charge)"
 ],
 [
-"消费",
-5,
-"xiāo fèi",
-"to consume; to spend"
-],
-[
 "经费",
-6,
+5,
 "jīng fèi",
-"funds; expenditure; CL:筆|笔[bi3]"
+"funds; expenditure; CL:笔[bǐ]"
 ],
-[
-"耗费",
-6,
-"hào fèi",
-"to waste; to spend; to consume; to squander"
-]
-],
-"extraWords": [
 [
 "消费者",
-157.45,
+5,
 "xiāo fèi zhě",
 "consumer"
 ],
 [
-"费用",
-107.93,
-"fèi yòng",
-"cost; expenditure; expense; CL:筆|笔[bi3],個|个[ge4]"
-],
-[
-"收费",
-68.75,
-"shōu fèi",
-"to charge a fee"
-],
-[
 "花费",
-19.07,
+6,
 "huā fèi",
 "expense; cost; to spend (time or money); expenditure"
 ],
 [
-"学费",
-15.38,
-"xué fèi",
-"tuition fee; tuition; CL:個|个[ge4]"
+"生活费",
+6,
+"shēng huó fèi",
+"cost of living; living expenses; alimony"
 ],
+[
+"手续费",
+6,
+"shǒu xù fèi",
+"service charge; processing fee; commission"
+],
+[
+"小费",
+6,
+"xiǎo fèi",
+"tip; gratuity"
+],
+[
+"费劲",
+7,
+"fèi jìn",
+"to require effort; strenuous"
+],
+[
+"抚养费",
+7,
+"fǔ yǎng fèi",
+"child support payment (after a divorce)"
+],
+[
+"付费",
+7,
+"fù fèi",
+"to pay; to cover the costs"
+],
+[
+"公费",
+7,
+"gōng fèi",
+"at public expense"
+],
+[
+"管理费",
+7,
+"guǎn lǐ fèi",
+"management fee"
+],
+[
+"耗费",
+7,
+"hào fèi",
+"to waste; to spend; to consume; to squander"
+],
+[
+"话费",
+7,
+"huà fèi",
+"call charge"
+],
+[
+"缴费",
+7,
+"jiǎo fèi",
+"to pay a fee"
+],
+[
+"自费",
+7,
+"zì fèi",
+"at one's own expense; self-funded"
+]
+],
+"extraWords": [
 [
 "费城",
 14.1,
 "Fèi chéng",
-"Philadelphia, Pennsylvania; abbr. for 費拉德爾菲亞|费拉德尔菲亚[Fei4 la1 de2 er3 fei1 ya4]"
-],
-[
-"小费",
-11.95,
-"xiǎo fèi",
-"tip; gratuity"
+"Philadelphia, Pennsylvania; abbr. for 费拉德尔菲亚[Fèi lā dé ěr fēi yà]"
 ],
 [
 "消费品",
@@ -93,34 +171,28 @@
 "Roger Federer (1981-), Swiss tennis star"
 ],
 [
-"缴费",
-8.93,
-"jiǎo fèi",
-"to pay a fee"
+"费耶德",
+8.61,
+"???",
+"???"
 ],
 [
-"手续费",
-7.0,
-"shǒu xù fèi",
-"service charge; processing fee; commission"
+"税费",
+7.55,
+"???",
+"???"
 ],
 [
-"生活费",
-6.82,
-"shēng huó fèi",
-"cost of living; living expenses; alimony"
+"乱收费",
+7.14,
+"???",
+"???"
 ],
 [
 "资费",
 5.92,
 "zī fèi",
 "(postal, telecom etc) service charge"
-],
-[
-"管理费",
-5.64,
-"guǎn lǐ fèi",
-"management fee"
 ],
 [
 "白费",
@@ -133,12 +205,6 @@
 5.2,
 "bǎo xiǎn fèi",
 "insurance fee"
-],
-[
-"付费",
-5.1,
-"fù fèi",
-"to pay; to cover the costs"
 ]
 ],
 "strokes": [

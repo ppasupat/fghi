@@ -1,17 +1,30 @@
 {
 "char": "婿",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "son-in-law; husband",
 "pron": "xù"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "女婿",
-5.66,
+7,
 "nǚ xu",
 "daughter's husband; son-in-law"
+]
+],
+"extraWords": [
+[
+"婿",
+1.18,
+"xù",
+"variant of 婿[xù]"
+],
+[
+"婿",
+1.18,
+"xù",
+"son-in-law; husband"
 ]
 ],
 "strokes": [

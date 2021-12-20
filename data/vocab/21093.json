@@ -1,25 +1,37 @@
 {
 "char": "剥",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "peel",
 "pron": "bāo, bō"
 },
 "words": [
 [
+"剥",
+7,
+"bāo",
+"to peel; to skin; to shell; to shuck"
+],
+[
+"剥",
+7,
+"bō",
+"to peel; to skin; to flay; to shuck"
+],
+[
+"剥夺",
+7,
+"bō duó",
+"to deprive; to expropriate; to strip (sb of his property)"
+],
+[
 "剥削",
-6,
+7,
 "bō xuē",
 "to exploit; exploitation"
 ]
 ],
 "extraWords": [
-[
-"剥夺",
-10.19,
-"bō duó",
-"to deprive; to expropriate; to strip (sb of his property)"
-],
 [
 "剥离",
 6.06,

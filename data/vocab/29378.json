@@ -1,6 +1,6 @@
 {
 "char": "狂",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "insane, mad; violent; wild",
 "pron": "kuáng"
@@ -11,21 +11,39 @@
 5,
 "fēng kuáng",
 "crazy; frantic; extreme popularity"
-]
 ],
-"extraWords": [
+[
+"狂",
+5,
+"kuáng",
+"mad; wild; violent"
+],
+[
+"猖狂",
+7,
+"chāng kuáng",
+"savage; furious"
+],
 [
 "狂欢",
-13.77,
+7,
 "kuáng huān",
 "party; carousal; hilarity; merriment; whoopee; to carouse"
 ],
 [
+"狂欢节",
+7,
+"kuáng huān jié",
+"carnival"
+],
+[
 "狂热",
-12.1,
+7,
 "kuáng rè",
 "zealotry; fanatical; feverish"
+]
 ],
+"extraWords": [
 [
 "发狂",
 7.54,

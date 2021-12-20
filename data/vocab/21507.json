@@ -1,6 +1,6 @@
 {
 "char": "吃",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "eat; drink; suffer, endure, bear",
 "pron": "chī"
@@ -16,17 +16,23 @@
 "吃",
 1,
 "chī",
-"variant of 吃[chi1]"
+"variant of 吃[chī]"
+],
+[
+"吃饭",
+1,
+"chī fàn",
+"to have a meal; to eat; to make a living"
 ],
 [
 "好吃",
-2,
+1,
 "hǎo chī",
 "tasty; delicious"
 ],
 [
 "好吃",
-2,
+1,
 "hào chī",
 "to be fond of eating; to be gluttonous"
 ],
@@ -40,34 +46,52 @@
 "小吃",
 4,
 "xiǎo chī",
-"snack; refreshments; CL:家[jia1]"
-],
-[
-"吃亏",
-5,
-"chī kuī",
-"to suffer losses; to come to grief; to lose out; to get the worst of it; to be at a disadvantage; unfortunately"
+"snack; refreshments; CL:家[jiā]"
 ],
 [
 "吃力",
-6,
+5,
 "chī lì",
 "to entail strenuous effort; to toil at a task; strenuous; laborious; strain"
 ],
 [
+"吃不上",
+7,
+"chī bu shàng",
+"unable to get anything to eat; to miss a meal"
+],
+[
+"吃喝玩乐",
+7,
+"chī hē wán lè",
+"to eat, drink and be merry (idiom); to abandon oneself to a life of pleasure"
+],
+[
 "吃苦",
-6,
+7,
 "chī kǔ",
 "to bear hardships"
+],
+[
+"吃亏",
+7,
+"chī kuī",
+"to suffer losses; to come to grief; to lose out; to get the worst of it; to be at a disadvantage; unfortunately"
+],
+[
+"大吃一惊",
+7,
+"dà chī yī jīng",
+"to have a surprise (idiom); shocked or startled; gobsmacked"
+],
+[
+"口吃",
+7,
+"kǒu chī",
+"to stammer; to stutter; also pr. [kou3 ji2]"
 ]
 ],
 "extraWords": [
-[
-"吃饭",
-89.87,
-"chī fàn",
-"to have a meal; to eat; to make a living"
-],
 [
 "吃饱",
 10.51,
@@ -75,10 +99,10 @@
 "to eat one's fill"
 ],
 [
-"大吃一惊",
-8.29,
-"dà chī yī jīng",
-"to have a surprise (idiom); shocked or startled; gobsmacked"
+"吃东西",
+10.0,
+"???",
+"???"
 ],
 [
 "吃掉",

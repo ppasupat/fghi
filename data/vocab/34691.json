@@ -1,6 +1,6 @@
 {
 "char": "螃",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "crab",
 "pron": "páng"
@@ -11,7 +11,19 @@
 "螃蟹",
 6.71,
 "páng xiè",
-"crab; CL:隻|只[zhi1]"
+"crab; CL:只[zhī]"
+],
+[
+"螃",
+0.15,
+"páng",
+"crab"
+],
+[
+"吃螃蟹者",
+0.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

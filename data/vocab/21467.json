@@ -1,6 +1,6 @@
 {
 "char": "叛",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "rebel; rebellion; rebellious",
 "pron": "pàn"
@@ -8,9 +8,15 @@
 "words": [
 [
 "背叛",
-6,
+7,
 "bèi pàn",
 "to betray"
+],
+[
+"叛逆",
+7,
+"pàn nì",
+"to rebel; to revolt; a rebel"
 ]
 ],
 "extraWords": [

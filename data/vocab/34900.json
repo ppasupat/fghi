@@ -1,24 +1,42 @@
 {
 "char": "衔",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "bit; hold in mouth, bite; gag",
 "pron": "xián"
 },
 "words": [
 [
+"头衔",
+7,
+"tóu xián",
+"title; rank; appellation"
+],
+[
 "衔接",
-6,
+7,
 "xián jiē",
 "to join together; to combine"
 ]
 ],
 "extraWords": [
 [
-"头衔",
-8.59,
-"tóu xián",
-"title; rank; appellation"
+"衔",
+4.12,
+"xián",
+"variant of 衔[xián]"
+],
+[
+"衔",
+4.12,
+"xián",
+"variant of 衔[xián]"
+],
+[
+"衔",
+4.12,
+"xián",
+"bit (of a bridle); to hold in the mouth; to harbor (feelings); to link; to accept; rank; title"
 ]
 ],
 "strokes": [

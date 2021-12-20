@@ -1,25 +1,24 @@
 {
 "char": "孔",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "opening, hole, orifice; great",
 "pron": "kǒng"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "孔",
-6,
+30.3,
 "Kǒng",
 "surname Kong"
 ],
 [
 "孔",
-6,
+30.3,
 "kǒng",
-"hole; CL:個|个[ge4]; classifier for cave dwellings"
-]
+"hole; CL:个[gè]; classifier for cave dwellings"
 ],
-"extraWords": [
 [
 "面孔",
 11.06,
@@ -30,7 +29,7 @@
 "孔子",
 10.9,
 "Kǒng zǐ",
-"Confucius (551-479 BC), Chinese thinker and social philosopher, also known as 孔夫子[Kong3 fu1 zi3]"
+"Confucius (551-479 BC), Chinese thinker and social philosopher, also known as 孔夫子[Kǒng fū zǐ]"
 ],
 [
 "毛孔",

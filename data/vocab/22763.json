@@ -1,66 +1,120 @@
 {
 "char": "士",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "scholar, gentleman; soldier",
 "pron": "shì"
 },
 "words": [
 [
-"博士",
+"巴士",
 4,
-"bó shì",
-"doctor; court academician (in feudal China); Ph.D."
+"bā shì",
+"bus (loanword); motor coach"
 ],
 [
 "护士",
 4,
 "hù shi",
-"nurse; CL:個|个[ge4]"
+"nurse; CL:个[gè]"
+],
+[
+"男士",
+4,
+"nán shì",
+"man; gentleman"
+],
+[
+"女士",
+4,
+"nǚ shì",
+"lady; madam; CL:个[gè],位[wèi]; Miss; Ms"
+],
+[
+"士兵",
+4,
+"shì bīng",
+"soldier; CL:个[gè]"
+],
+[
+"战士",
+4,
+"zhàn shì",
+"fighter; soldier; warrior; CL:个[gè]"
+],
+[
+"博士",
+5,
+"bó shì",
+"doctor; court academician (in feudal China); Ph.D."
+],
+[
+"人士",
+5,
+"rén shì",
+"person; figure; public figure"
 ],
 [
 "硕士",
-4,
+5,
 "shuò shì",
 "master's degree; person who has a master's degree; learned person"
 ],
 [
-"女士",
-5,
-"nǚ shì",
-"lady; madam; CL:個|个[ge4],位[wei4]; Miss; Ms"
+"爵士",
+7,
+"jué shì",
+"knight; Sir; (loanword) jazz"
 ],
 [
-"士兵",
-5,
-"shì bīng",
-"soldier; CL:個|个[ge4]"
+"烈士",
+7,
+"liè shì",
+"martyr"
 ],
 [
 "绅士",
-6,
+7,
 "shēn shì",
 "gentleman"
 ],
 [
-"人士",
-6,
-"rén shì",
-"person; figure; public figure"
+"士气",
+7,
+"shì qì",
+"morale"
+],
+[
+"学士",
+7,
+"xué shì",
+"bachelor's degree; person holding a university degree"
+],
+[
+"院士",
+7,
+"yuàn shì",
+"scholar; academician; fellow (of an academy)"
+],
+[
+"芝士",
+7,
+"zhī shì",
+"cheese (loanword)"
 ]
 ],
 "extraWords": [
 [
-"战士",
-39.12,
-"zhàn shì",
-"fighter; soldier; warrior; CL:個|个[ge4]"
+"士",
+37.14,
+"Shì",
+"surname Shi"
 ],
 [
-"爵士",
-31.3,
-"jué shì",
-"knight; Sir; (loanword) jazz"
+"士",
+37.14,
+"shì",
+"member of the senior ministerial class (old); scholar (old); bachelor; honorific; soldier; noncommissioned officer; specialist worker"
 ],
 [
 "骑士",
@@ -87,10 +141,10 @@
 "Switzerland"
 ],
 [
-"男士",
-17.73,
-"nán shì",
-"man; gentleman"
+"中士",
+14.87,
+"???",
+"???"
 ],
 [
 "武士",
@@ -99,22 +153,10 @@
 "warrior; samurai"
 ],
 [
-"巴士",
-13.21,
-"bā shì",
-"bus (loanword); motor coach"
-],
-[
 "勇士",
 12.46,
 "yǒng shì",
 "a warrior; a brave person"
-],
-[
-"院士",
-12.04,
-"yuàn shì",
-"scholar; academician; fellow (of an academy)"
 ],
 [
 "军士",
@@ -123,28 +165,28 @@
 "soldier; noncommssioned officer (NCO)"
 ],
 [
-"烈士",
-9.03,
-"liè shì",
-"martyr"
-],
-[
 "莎士比亚",
 7.6,
 "Shā shì bǐ yà",
 "Shakespeare (name); William Shakespeare (1564-1616), poet and playwright"
 ],
 [
-"士气",
-6.81,
-"shì qì",
-"morale"
+"上士",
+6.95,
+"???",
+"???"
 ],
 [
 "将士",
 6.4,
 "jiàng shì",
 "officers and soldiers"
+],
+[
+"博士生",
+6.26,
+"???",
+"???"
 ],
 [
 "的士",
@@ -159,10 +201,16 @@
 "lowest-ranked noncommissioned officer (e.g. corporal in the army or petty officer, third class in the navy)"
 ],
 [
-"芝士",
-5.87,
-"zhī shì",
-"cheese (loanword)"
+"战士们",
+5.88,
+"???",
+"???"
+],
+[
+"王女士",
+5.84,
+"???",
+"???"
 ],
 [
 "斗士",
@@ -175,6 +223,18 @@
 5.37,
 "jué shì wǔ",
 "jazz (loanword)"
+],
+[
+"李女士",
+5.25,
+"???",
+"???"
+],
+[
+"张女士",
+5.06,
+"???",
+"???"
 ]
 ],
 "strokes": [

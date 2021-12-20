@@ -1,16 +1,58 @@
 {
 "char": "剧",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "theatrical plays, opera, drama",
 "pron": "jù"
 },
 "words": [
 [
+"电视剧",
+3,
+"diàn shì jù",
+"TV series; TV drama; CL:部[bù]"
+],
+[
+"话剧",
+3,
+"huà jù",
+"stage play; modern drama; CL:台[tái],部[bù]"
+],
+[
 "京剧",
-4,
+3,
 "Jīng jù",
-"Beijing opera; CL:場|场[chang3],齣|出[chu1]"
+"Beijing opera; CL:场[chǎng],出[chū]"
+],
+[
+"剧场",
+3,
+"jù chǎng",
+"theater; CL:个[gè]"
+],
+[
+"连续剧",
+3,
+"lián xù jù",
+"serialized drama; dramatic series; show in parts"
+],
+[
+"悲剧",
+5,
+"bēi jù",
+"tragedy; CL:出[chū]"
+],
+[
+"剧本",
+5,
+"jù běn",
+"script for play, opera, movie etc; screenplay; scenario"
+],
+[
+"喜剧",
+5,
+"xǐ jù",
+"comedy; CL:部[bù],出[chū]"
 ],
 [
 "戏剧",
@@ -19,67 +61,73 @@
 "drama; play; theater"
 ],
 [
-"剧本",
+"剧",
 6,
-"jù běn",
-"script for play, opera, movie etc; screenplay; scenario"
+"jù",
+"theatrical work (play, opera, TV series etc); dramatic (change, increase etc); acute; severe"
 ],
 [
-"剧烈",
-6,
-"jù liè",
-"violent; acute; severe; fierce"
+"编剧",
+7,
+"biān jù",
+"to write a play; scenario; dramatist; screenwriter"
+],
+[
+"歌剧",
+7,
+"gē jù",
+"Western opera; CL:场[chǎng],出[chū]"
 ],
 [
 "急剧",
-6,
+7,
 "jí jù",
 "rapid; sudden"
 ],
 [
 "加剧",
-6,
+7,
 "jiā jù",
 "to intensify; to sharpen; to accelerate; to aggravate; to exacerbate; to embitter"
-]
-],
-"extraWords": [
-[
-"电视剧",
-34.2,
-"diàn shì jù",
-"TV series; TV drama; CL:部[bu4]"
 ],
 [
-"悲剧",
-28.12,
-"bēi jù",
-"tragedy; CL:齣|出[chu1]"
+"剧烈",
+7,
+"jù liè",
+"violent; acute; severe; fierce"
 ],
 [
-"喜剧",
-24.35,
-"xǐ jù",
-"comedy; CL:部[bu4],齣|出[chu1]"
-],
-[
-"剧院",
-17.71,
-"jù yuàn",
-"theater; CL:家[jia1],座[zuo4]"
+"剧目",
+7,
+"jù mù",
+"theatrical piece (play or opera); repertoire; list of plays or operas"
 ],
 [
 "剧情",
-17.06,
+7,
 "jù qíng",
 "story line; plot; drama (genre)"
 ],
 [
+"剧团",
+7,
+"jù tuán",
+"theatrical troupe"
+],
+[
+"剧院",
+7,
+"jù yuàn",
+"theater; CL:家[jiā],座[zuò]"
+],
+[
 "剧组",
-15.03,
+7,
 "jù zǔ",
 "cast and crew; performers and production team"
+]
 ],
+"extraWords": [
 [
 "恶作剧",
 12.79,
@@ -87,28 +135,10 @@
 "practical joke; prank; to play a practical joke"
 ],
 [
-"话剧",
-10.23,
-"huà jù",
-"stage play; modern drama; CL:臺|台[tai2],部[bu4]"
-],
-[
-"编剧",
-9.56,
-"biān jù",
-"to write a play; scenario; dramatist; screenwriter"
-],
-[
-"剧场",
-9.12,
-"jù chǎng",
-"theater; CL:個|个[ge4]"
-],
-[
-"歌剧",
-7.39,
-"gē jù",
-"Western opera; CL:場|场[chang3],齣|出[chu1]"
+"音乐剧",
+8.41,
+"???",
+"???"
 ],
 [
 "戏剧性",

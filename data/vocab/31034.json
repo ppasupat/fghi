@@ -1,6 +1,6 @@
 {
 "char": "示",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "show, manifest; demonstrate",
 "pron": "shì"
@@ -8,89 +8,119 @@
 "words": [
 [
 "表示",
-4,
+2,
 "biǎo shì",
 "to express; to show; to say; to state; to indicate; to mean"
 ],
 [
 "显示",
-5,
+3,
 "xiǎn shì",
 "to show; to illustrate; to display; to demonstrate"
 ],
 [
-"出示",
-5,
-"chū shì",
-"to show; to take out and show to others; to display"
-],
-[
-"展示",
-6,
-"zhǎn shì",
-"to reveal; to display; to show; to exhibit sth"
-],
-[
 "暗示",
-6,
+4,
 "àn shì",
 "to hint; to suggest; suggestion; hint"
 ],
 [
-"指示",
-6,
-"zhǐ shì",
-"to point out; to indicate; to instruct; directives; instructions; CL:個|个[ge4]"
-],
-[
-"提示",
-6,
-"tí shì",
-"to point out; to remind (sb of sth); to suggest; suggestion; tip; reminder; notice"
-],
-[
 "示范",
-6,
+5,
 "shì fàn",
 "to demonstrate; to show how to do sth; demonstration; a model example"
 ],
 [
+"提示",
+5,
+"tí shì",
+"to point out; to remind (sb of sth); to suggest; suggestion; tip; reminder; notice"
+],
+[
+"展示",
+5,
+"zhǎn shì",
+"to reveal; to display; to show; to exhibit sth"
+],
+[
+"指示",
+5,
+"zhǐ shì",
+"to point out; to indicate; to instruct; directives; instructions; CL:个[gè]"
+],
+[
+"标示",
+7,
+"biāo shì",
+"to indicate"
+],
+[
+"出示",
+7,
+"chū shì",
+"to show; to take out and show to others; to display"
+],
+[
+"告示",
+7,
+"gào shi",
+"announcement"
+],
+[
+"公示",
+7,
+"gōng shì",
+"to make known to the public (for information or to seek comments); public notification"
+],
+[
+"揭示",
+7,
+"jiē shì",
+"to show; to make known"
+],
+[
 "启示",
-6,
+7,
 "qǐ shì",
 "to reveal; to enlighten; enlightenment; revelation; illumination; moral (of a story etc); lesson"
 ],
 [
 "示威",
-6,
+7,
 "shì wēi",
 "to demonstrate (as a protest); a demonstration; a military show of force"
 ],
 [
 "示意",
-6,
+7,
 "shì yì",
 "to hint; to indicate (an idea to sb)"
 ],
 [
-"请示",
-6,
-"qǐng shì",
-"to ask for instructions"
-]
-],
-"extraWords": [
-[
 "显示器",
-14.35,
+7,
 "xiǎn shì qì",
 "monitor (computer)"
 ],
 [
-"揭示",
-11.16,
-"jiē shì",
-"to show; to make known"
+"演示",
+7,
+"yǎn shì",
+"to demonstrate; to show; presentation; demonstration"
+],
+[
+"预示",
+7,
+"yù shì",
+"to indicate; to foretell; to forebode; to betoken"
+]
+],
+"extraWords": [
+[
+"示",
+41.26,
+"shì",
+"to show; to reveal"
 ],
 [
 "警示",
@@ -103,18 +133,6 @@
 9.0,
 "xiǎn shì píng",
 "display screen"
-],
-[
-"演示",
-8.47,
-"yǎn shì",
-"to demonstrate; to show; presentation; demonstration"
-],
-[
-"预示",
-8.05,
-"yù shì",
-"to indicate; to foretell; to forebode; to betoken"
 ],
 [
 "批示",

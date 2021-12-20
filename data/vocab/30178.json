@@ -1,12 +1,31 @@
 {
 "char": "痢",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "dysentery",
 "pron": "lì"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"痢",
+6.22,
+"lì",
+"dysentery"
+],
+[
+"痢疾",
+1.48,
+"lì ji",
+"dysentery"
+],
+[
+"白痢",
+0.47,
+"bái lì",
+"dysentery characterized by white mucous stool; white diarrhea"
+]
+],
 "strokes": [
 "M 525 808 Q 550 787 579 763 Q 595 750 612 752 Q 624 753 628 768 Q 632 784 620 817 Q 613 836 581 847 Q 502 865 492 859 Q 486 855 489 841 Q 493 828 525 808 Z",
 "M 350 654 Q 384 639 471 653 Q 766 701 786 715 Q 795 722 791 732 Q 784 744 754 753 Q 729 759 612 726 Q 452 693 347 685 Q 338 684 335 682 C 306 675 321 663 350 654 Z",

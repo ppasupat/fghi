@@ -1,25 +1,32 @@
 {
 "char": "寂",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "still, silent, quiet, desolate",
 "pron": "jì"
 },
 "words": [
 [
-"寂寞",
-5,
-"jì mò",
-"lonely; lonesome; (of a place) quiet; silent"
-],
-[
 "寂静",
-6,
+7,
 "jì jìng",
 "quiet"
+],
+[
+"寂寞",
+7,
+"jì mò",
+"lonely; lonesome; (of a place) quiet; silent"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"寂",
+6.0,
+"jì",
+"silent; solitary; Taiwan pr. [ji2]"
+]
+],
 "strokes": [
 "M 479 791 Q 506 769 533 740 Q 548 727 564 726 Q 574 727 581 741 Q 585 756 577 787 Q 571 808 540 822 Q 467 850 452 843 Q 446 839 448 826 Q 452 814 479 791 Z",
 "M 273 648 L 273 649 Q 260 674 248 684 Q 229 700 226 672 Q 230 645 214 618 Q 196 599 172 577 Q 162 564 165 542 Q 169 509 179 491 Q 195 463 217 492 Q 233 514 245 550 Q 258 587 268 611 L 273 648 Z",

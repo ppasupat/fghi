@@ -1,40 +1,52 @@
 {
 "char": "选",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "choose, select; elect; election",
 "pron": "xuǎn"
 },
 "words": [
 [
-"选择",
-3,
-"xuǎn zé",
-"to select; to pick; choice; option; alternative"
+"选",
+2,
+"xuǎn",
+"to choose; to pick; to select; to elect"
 ],
 [
 "选手",
-6,
+3,
 "xuǎn shǒu",
 "athlete; contestant"
 ],
 [
-"竞选",
-6,
-"jìng xuǎn",
-"to take part in an election; to run for office"
+"挑选",
+4,
+"tiāo xuǎn",
+"to choose; to select"
 ],
 [
-"选举",
-6,
-"xuǎn jǔ",
-"to elect; election; CL:次[ci4],個|个[ge4]"
+"选择",
+4,
+"xuǎn zé",
+"to select; to pick; choice; option; alternative"
 ],
 [
 "当选",
-6,
+5,
 "dāng xuǎn",
 "to be elected; to be selected"
+],
+[
+"选修",
+5,
+"xuǎn xiū",
+"(at a school) to take as an elective; an elective; elective (subject)"
+],
+[
+"评选",
+6,
+"píng xuǎn",
+"to select on the basis of a vote or consensus"
 ],
 [
 "选拔",
@@ -43,66 +55,78 @@
 "to select the best"
 ],
 [
-"筛选",
+"选举",
 6,
-"shāi xuǎn",
-"to filter"
+"xuǎn jǔ",
+"to elect; election; CL:次[cì],个[gè]"
 ],
 [
-"候选",
-6,
-"hòu xuǎn",
-"candidate (attributive)"
-]
-],
-"extraWords": [
-[
-"评选",
-37.19,
-"píng xuǎn",
-"to select on the basis of a vote or consensus"
-],
-[
-"别无选择",
-23.67,
-"bié wú xuǎn zé",
-"to have no other choice"
-],
-[
-"选用",
-20.85,
-"xuǎn yòng",
-"to choose for some purpose; to select and use"
+"大选",
+7,
+"dà xuǎn",
+"general election"
 ],
 [
 "候选人",
-20.06,
+7,
 "hòu xuǎn rén",
-"candidate; CL:名[ming2]"
+"candidate; CL:名[míng]"
 ],
 [
-"挑选",
-19.47,
-"tiāo xuǎn",
-"to choose; to select"
+"竞选",
+7,
+"jìng xuǎn",
+"to take part in an election; to run for office"
 ],
 [
 "人选",
-18.15,
+7,
 "rén xuǎn",
 "choice of person; candidate"
 ],
 [
 "入选",
-14.32,
+7,
 "rù xuǎn",
 "to be chosen; to be elected as"
 ],
 [
-"大选",
-12.37,
-"dà xuǎn",
-"general election"
+"筛选",
+7,
+"shāi xuǎn",
+"to filter"
+],
+[
+"推选",
+7,
+"tuī xuǎn",
+"to elect; to choose; to nominate"
+],
+[
+"选民",
+7,
+"xuǎn mín",
+"voter; constituency; electorate"
+],
+[
+"选项",
+7,
+"xuǎn xiàng",
+"to make a choice (between several alternatives); a choice; an option; an alternative"
+],
+[
+"选用",
+7,
+"xuǎn yòng",
+"to choose for some purpose; to select and use"
+]
+],
+"extraWords": [
+[
+"别无选择",
+23.67,
+"bié wú xuǎn zé",
+"to have no other choice"
 ],
 [
 "选出",
@@ -126,7 +150,7 @@
 "选票",
 10.58,
 "xuǎn piào",
-"a vote; ballot; CL:張|张[zhang1]"
+"a vote; ballot; CL:张[zhāng]"
 ],
 [
 "精选",
@@ -141,12 +165,6 @@
 "to choose; to pick; to settle upon; to decide upon a candidate; to be selected for some role"
 ],
 [
-"选民",
-8.96,
-"xuǎn mín",
-"voter; constituency; electorate"
-],
-[
 "海选",
 8.41,
 "hǎi xuǎn",
@@ -157,6 +175,12 @@
 7.74,
 "xuǎn dìng",
 "to select; to choose; to settle on"
+],
+[
+"预选赛",
+7.72,
+"???",
+"???"
 ],
 [
 "选取",
@@ -175,6 +199,12 @@
 5.93,
 "xuǎn měi",
 "beauty contest"
+],
+[
+"候选",
+5.03,
+"hòu xuǎn",
+"candidate (attributive)"
 ]
 ],
 "strokes": [

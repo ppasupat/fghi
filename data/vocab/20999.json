@@ -1,58 +1,46 @@
 {
 "char": "切",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "cut, mince, slice, carve",
 "pron": "qiē, qiè"
 },
 "words": [
 [
+"亲切",
+3,
+"qīn qiè",
+"amiable; cordial; close and dear; familiar"
+],
+[
 "一切",
-4,
+3,
 "yī qiè",
 "everything; every; all"
 ],
 [
+"密切",
+4,
+"mì qiè",
+"close; familiar; intimate; closely (related); to foster close ties; to pay close attention"
+],
+[
+"迫切",
+4,
+"pò qiè",
+"urgent; pressing"
+],
+[
 "切",
-5,
+4,
 "qiē",
 "to cut; to slice; tangent (math)"
 ],
 [
 "切",
-5,
+4,
 "qiè",
-"definitely; absolutely (not); (scoffing or dismissive interjection) Yeah, right.; Tut!; to grind; close to; eager; to correspond to; see also 反切[fan3 qie4]"
-],
-[
-"密切",
-5,
-"mì qiè",
-"close; familiar; intimate; closely (related); to foster close ties; to pay close attention"
-],
-[
-"亲切",
-5,
-"qīn qiè",
-"amiable; cordial; close and dear; familiar"
-],
-[
-"迫切",
-5,
-"pò qiè",
-"urgent; pressing"
-],
-[
-"确切",
-6,
-"què qiè",
-"definite; exact; precise"
-],
-[
-"急切",
-6,
-"jí qiè",
-"eager; impatient"
+"definitely; absolutely (not); (scoffing or dismissive interjection) Yeah, right.; Tut!; to grind; close to; eager; to correspond to; see also 反切[fǎn qiè]"
 ],
 [
 "切实",
@@ -61,25 +49,49 @@
 "feasible; realistic; practical; earnestly; conscientiously"
 ],
 [
-"恳切",
-6,
-"kěn qiè",
-"earnest; sincere"
-]
-],
-"extraWords": [
-[
 "切除",
-26.85,
+7,
 "qiē chú",
 "to excise; to cut out (a tumor)"
 ],
 [
 "切断",
-17.53,
+7,
 "qiē duàn",
 "to cut off; to sever"
 ],
+[
+"切割",
+7,
+"qiē gē",
+"to cut"
+],
+[
+"切身",
+7,
+"qiè shēn",
+"direct; concerning oneself; personal"
+],
+[
+"确切",
+7,
+"què qiè",
+"definite; exact; precise"
+],
+[
+"深切",
+7,
+"shēn qiè",
+"deeply felt; heartfelt; sincere; honest"
+],
+[
+"贴切",
+7,
+"tiē qiè",
+"close-fitting; closest (translation)"
+]
+],
+"extraWords": [
 [
 "切尔西",
 10.89,
@@ -111,6 +123,12 @@
 "closely related"
 ],
 [
+"切开",
+7.81,
+"???",
+"???"
+],
+[
 "切换",
 6.75,
 "qiē huàn",
@@ -121,18 +139,6 @@
 6.66,
 "guān qiè",
 "to be deeply concerned; to be troubled (by)"
-],
-[
-"深切",
-6.43,
-"shēn qiè",
-"deeply felt; heartfelt; sincere; honest"
-],
-[
-"切割",
-5.85,
-"qiē gē",
-"to cut"
 ],
 [
 "切入",

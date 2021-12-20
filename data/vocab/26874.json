@@ -1,17 +1,30 @@
 {
 "char": "棺",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "coffin",
 "pron": "guān"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "棺材",
-15.26,
+7,
 "guān cai",
-"coffin; CL:具[ju4],口[kou3]"
+"coffin; CL:具[jù],口[kǒu]"
+]
+],
+"extraWords": [
+[
+"棺",
+3.89,
+"guān",
+"coffin"
+],
+[
+"石棺",
+1.34,
+"shí guān",
+"sarcophagus"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "儒",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "Confucian scholar",
 "pron": "rú"
@@ -8,9 +8,15 @@
 "words": [
 [
 "儒家",
-6,
+7,
 "Rú jiā",
-"Confucian school, founded by Confucius 孔子[Kong3 zi3] (551-479 BC) and Mencius 孟子[Meng4 zi3] (c. 372-c. 289 BC)"
+"Confucian school, founded by Confucius 孔子[Kǒng zǐ] (551-479 BC) and Mencius 孟子[Mèng zǐ] (c. 372-c. 289 BC)"
+],
+[
+"儒学",
+7,
+"Rú xué",
+"Confucianism"
 ]
 ],
 "extraWords": [
@@ -19,6 +25,12 @@
 7.15,
 "zhū rú",
 "dwarf; pygmy; small person; midget"
+],
+[
+"儒",
+6.83,
+"rú",
+"scholar; Confucian"
 ]
 ],
 "strokes": [

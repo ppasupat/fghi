@@ -1,6 +1,6 @@
 {
 "char": "旋",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "revolve, move in orbit; return",
 "pron": "xuán, xuàn"
@@ -14,18 +14,37 @@
 ],
 [
 "旋律",
-6,
+7,
 "xuán lǜ",
 "melody"
 ],
 [
-"盘旋",
-6,
-"pán xuán",
-"to spiral; to circle; to go around; to hover; to orbit"
+"旋涡",
+7,
+"xuán wō",
+"spiral; whirlpool; eddy; vortex"
+],
+[
+"周旋",
+7,
+"zhōu xuán",
+"to mix with others; to socialize; to deal with; to contend"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"旋",
+10.52,
+"xuán",
+"to revolve; a loop; a circle"
+],
+[
+"旋",
+10.52,
+"xuàn",
+"to whirl; immediately; variant of 镟[xuàn]"
+]
+],
 "strokes": [
 "M 297 703 Q 325 676 357 644 Q 372 629 390 629 Q 402 630 408 645 Q 414 661 405 696 Q 396 729 293 758 Q 275 762 268 759 Q 262 755 264 740 Q 268 727 297 703 Z",
 "M 287 493 Q 435 533 440 537 Q 447 544 443 553 Q 436 563 408 570 Q 378 574 350 562 Q 248 522 124 504 Q 88 497 114 482 Q 148 464 221 478 Q 233 481 246 483 L 287 493 Z",

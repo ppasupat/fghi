@@ -1,79 +1,157 @@
 {
 "char": "任",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "trust to, rely on, appoint; to bear, duty, office; allow",
 "pron": "rén, rèn"
 },
 "words": [
 [
+"任",
+3,
+"Rén",
+"surname Ren; Ren County 任县[Rén Xiàn] in Hebei"
+],
+[
+"任",
+3,
+"rèn",
+"to assign; to appoint; to take up a post; office; responsibility; to let; to allow; to give free rein to; no matter (how, what etc); classifier for terms served in office, or for spouses, girlfriends etc (as in 前任男友)"
+],
+[
 "任何",
-4,
+3,
 "rèn hé",
 "any; whatever; whichever; whatsoever"
 ],
 [
 "任务",
-4,
+3,
 "rèn wu",
-"mission; assignment; task; duty; role; CL:項|项[xiang4],個|个[ge4]"
-],
-[
-"责任",
-4,
-"zé rèn",
-"responsibility; blame; duty; CL:個|个[ge4]"
+"mission; assignment; task; duty; role; CL:项[xiàng],个[gè]"
 ],
 [
 "信任",
-5,
+3,
 "xìn rèn",
 "to trust; to have confidence in"
 ],
 [
+"责任",
+3,
+"zé rèn",
+"responsibility; blame; duty; CL:个[gè]"
+],
+[
 "主任",
-5,
+3,
 "zhǔ rèn",
-"director; head; CL:個|个[ge4]"
+"director; head; CL:个[gè]"
 ],
 [
 "担任",
-5,
+4,
 "dān rèn",
 "to hold a governmental office or post; to assume office of; to take charge of; to serve as"
 ],
 [
+"出任",
+7,
+"chū rèn",
+"to take up a post; to start in a new job"
+],
+[
+"兼任",
+7,
+"jiān rèn",
+"to hold several jobs at once; concurrent post; working part-time"
+],
+[
+"就任",
+7,
+"jiù rèn",
+"to take office; to assume a post"
+],
+[
+"连任",
+7,
+"lián rèn",
+"to continue in (a political) office; to serve for another term of office"
+],
+[
+"聘任",
+7,
+"pìn rèn",
+"to appoint (to a position); appointed"
+],
+[
+"前任",
+7,
+"qián rèn",
+"predecessor; ex-; former; ex (spouse etc)"
+],
+[
 "任命",
-6,
+7,
 "rèn mìng",
-"to appoint; (job) appointment; CL:紙|纸[zhi3]"
+"to appoint; (job) appointment; CL:纸[zhǐ]"
+],
+[
+"任期",
+7,
+"rèn qī",
+"term of office; CL:届[jiè]; tenure (entire period in office)"
+],
+[
+"任人宰割",
+7,
+"rèn rén zǎi gē",
+"to get trampled on (idiom); to be taken advantage of"
 ],
 [
 "任意",
-6,
+7,
 "rèn yì",
 "any; arbitrary; at will; at random"
 ],
 [
-"任性",
-6,
-"rèn xìng",
-"willful; headstrong; unruly"
+"任职",
+7,
+"rèn zhí",
+"to hold an office or post"
 ],
 [
 "上任",
-6,
+7,
 "shàng rèn",
 "to take office; previous (incumbent); predecessor"
 ],
 [
-"任重道远",
-6,
-"rèn zhòng dào yuǎn",
-"a heavy load and a long road; fig. to bear heavy responsibilities through a long struggle (cf Confucian Analects, 8.7)"
+"胜任",
+7,
+"shèng rèn",
+"qualified; competent (professionally); to be up to a task"
+],
+[
+"现任",
+7,
+"xiàn rèn",
+"to occupy a post currently; current (president etc); incumbent; (coll.) current boyfriend (girlfriend, spouse)"
+],
+[
+"重任",
+7,
+"zhòng rèn",
+"heavy responsibility"
 ]
 ],
 "extraWords": [
+[
+"任何人",
+109.46,
+"???",
+"???"
+],
 [
 "副主任",
 30.93,
@@ -81,10 +159,10 @@
 "deputy director; assistant head"
 ],
 [
-"现任",
-15.29,
-"xiàn rèn",
-"to occupy a post currently; current (president etc); incumbent; (coll.) current boyfriend (girlfriend, spouse)"
+"有限责任公司",
+15.01,
+"???",
+"???"
 ],
 [
 "责任感",
@@ -99,12 +177,6 @@
 "system of job responsibility"
 ],
 [
-"任职",
-12.03,
-"rèn zhí",
-"to hold an office or post"
-],
-[
 "负责任",
 11.34,
 "fù zé rèn",
@@ -117,28 +189,10 @@
 "teacher in charge of a class"
 ],
 [
-"前任",
-10.97,
-"qián rèn",
-"predecessor; ex-; former; ex (spouse etc)"
-],
-[
-"任期",
-8.43,
-"rèn qī",
-"term of office; CL:屆|届[jie4]; tenure (entire period in office)"
-],
-[
-"重任",
-8.21,
-"zhòng rèn",
-"heavy responsibility"
-],
-[
-"胜任",
-7.81,
-"shèng rèn",
-"qualified; competent (professionally); to be up to a task"
+"任性",
+9.68,
+"rèn xìng",
+"willful; headstrong; unruly"
 ],
 [
 "责任人",
@@ -157,12 +211,6 @@
 5.91,
 "zé rèn xīn",
 "sense of responsibility"
-],
-[
-"兼任",
-5.26,
-"jiān rèn",
-"to hold several jobs at once; concurrent post; working part-time"
 ]
 ],
 "strokes": [

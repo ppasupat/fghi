@@ -1,40 +1,58 @@
 {
 "char": "象",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "elephant; ivory; figure, image",
 "pron": "xiàng"
 },
 "words": [
 [
+"对象",
+3,
+"duì xiàng",
+"target; object; partner; boyfriend; girlfriend; CL:个[gè]"
+],
+[
+"现象",
+3,
+"xiàn xiàng",
+"phenomenon; CL:个[gè],种[zhǒng]; appearance"
+],
+[
+"形象",
+3,
+"xíng xiàng",
+"image; form; figure; CL:个[gè]; visualization; vivid"
+],
+[
 "印象",
-4,
+3,
 "yìn xiàng",
 "impression"
 ],
 [
 "想象",
-5,
+4,
 "xiǎng xiàng",
-"to imagine; to fancy; CL:個|个[ge4]"
+"to imagine; to fancy; CL:个[gè]"
 ],
 [
-"对象",
+"大象",
 5,
-"duì xiàng",
-"target; object; partner; boyfriend; girlfriend; CL:個|个[ge4]"
+"dà xiàng",
+"elephant; CL:只[zhī]"
 ],
 [
-"形象",
+"景象",
 5,
-"xíng xiàng",
-"image; form; figure; CL:個|个[ge4]; visualization; vivid"
+"jǐng xiàng",
+"scene; sight (to behold)"
 ],
 [
-"现象",
+"气象",
 5,
-"xiàn xiàng",
-"phenomenon; CL:個|个[ge4],種|种[zhong3]; appearance"
+"qì xiàng",
+"meteorological feature; CL:个[gè]; meteorology; atmosphere; ambience; scene"
 ],
 [
 "象征",
@@ -43,42 +61,36 @@
 "emblem; symbol; token; badge; to symbolize; to signify; to stand for"
 ],
 [
-"大象",
-5,
-"dà xiàng",
-"elephant; CL:隻|只[zhi1]"
-],
-[
-"象棋",
-5,
-"xiàng qí",
-"Chinese chess; CL:副[fu4]"
-],
-[
 "抽象",
-5,
+7,
 "chōu xiàng",
-"abstract; abstraction; CL:種|种[zhong3]"
+"abstract; abstraction; CL:种[zhǒng]"
 ],
 [
 "迹象",
-6,
+7,
 "jì xiàng",
 "mark; indication; sign; indicator"
 ],
 [
-"气象",
-6,
-"qì xiàng",
-"meteorological feature; CL:個|个[ge4]; meteorology; atmosphere; ambience; scene"
+"难以想象",
+7,
+"???",
+"???"
 ]
 ],
 "extraWords": [
 [
-"景象",
-12.9,
-"jǐng xiàng",
-"scene; sight (to behold)"
+"象",
+149.37,
+"xiàng",
+"elephant; CL:只[zhī]; shape; form; appearance; to imitate"
+],
+[
+"象是",
+16.31,
+"???",
+"???"
 ],
 [
 "气象台",

@@ -1,12 +1,37 @@
 {
 "char": "朱",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "cinnabar, vermilion; surname",
 "pron": "zhū"
 },
-"words": [],
+"words": [
+[
+"朱红",
+7,
+"zhū hóng",
+"vermilion"
+]
+],
 "extraWords": [
+[
+"朱",
+20.22,
+"Zhū",
+"surname Zhu"
+],
+[
+"朱",
+20.22,
+"zhū",
+"vermilion"
+],
+[
+"朱",
+20.22,
+"zhū",
+"cinnabar; see 朱砂[zhū shā]"
+],
 [
 "朱广沪",
 12.9,

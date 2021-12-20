@@ -1,6 +1,6 @@
 {
 "char": "艺",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "art; talent, ability; craft",
 "pron": "yì"
@@ -8,53 +8,71 @@
 "words": [
 [
 "艺术",
-4,
+3,
 "yì shù",
 "art"
 ],
 [
-"手艺",
+"工艺",
+5,
+"gōng yì",
+"arts and crafts; industrial arts"
+],
+[
+"文艺",
+5,
+"wén yì",
+"literature and art"
+],
+[
+"艺人",
 6,
+"yì rén",
+"performing artist; actor"
+],
+[
+"技艺",
+7,
+"jì yì",
+"skill; art"
+],
+[
+"手艺",
+7,
 "shǒu yì",
 "craftmanship; workmanship; handicraft; trade"
 ],
 [
-"工艺品",
-6,
-"gōng yì pǐn",
-"handicraft article; handiwork; CL:個|个[ge4]"
+"学艺",
+7,
+"xué yì",
+"to learn a skill or art"
 ],
 [
-"文艺",
-6,
-"wén yì",
-"literature and art"
+"演艺圈",
+7,
+"yǎn yì quān",
+"show business"
 ]
 ],
 "extraWords": [
 [
-"工艺",
-48.27,
-"gōng yì",
-"arts and crafts; industrial arts"
+"艺",
+25.71,
+"yì",
+"skill; art"
 ],
 [
 "艺术家",
 24.09,
 "yì shù jiā",
-"artist; CL:個|个[ge4],位[wei4],名[ming2]"
-],
-[
-"艺人",
-16.87,
-"yì rén",
-"performing artist; actor"
+"artist; CL:个[gè],位[wèi],名[míng]"
 ],
 [
 "艺术品",
 9.03,
 "yì shù pǐn",
-"art piece; work of art; CL:件[jian4]"
+"art piece; work of art; CL:件[jiàn]"
 ],
 [
 "演艺",
@@ -67,12 +85,6 @@
 7.42,
 "Zhāng Yì móu",
 "Zhang Yimou (1950-), PRC film director"
-],
-[
-"技艺",
-5.31,
-"jì yì",
-"skill; art"
 ],
 [
 "武艺",

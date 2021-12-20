@@ -1,6 +1,6 @@
 {
 "char": "称",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "call; name, brand; address; say",
 "pron": "chèn, chēng"
@@ -8,84 +8,102 @@
 "words": [
 [
 "称",
-5,
+2,
 "chèn",
 "to fit; balanced; suitable"
 ],
 [
 "称",
-5,
+2,
 "chēng",
 "to weigh; to state; to name; name; appellation; to praise"
 ],
 [
 "称",
-5,
+2,
 "chèng",
-"variant of 秤[cheng4]; steelyard"
+"variant of 秤[chèng]; steelyard"
 ],
 [
-"称呼",
-5,
-"chēng hu",
-"to call; to address as; appellation"
+"名称",
+2,
+"míng chēng",
+"name (of a thing); name (of an organization)"
+],
+[
+"称为",
+3,
+"chēng wéi",
+"called; to call sth (by a name); to name"
 ],
 [
 "称赞",
-5,
+4,
 "chēng zàn",
 "to praise; to acclaim; to commend; to compliment"
 ],
 [
 "称号",
-6,
+5,
 "chēng hào",
 "name; term of address; title"
 ],
 [
+"称呼",
+7,
+"chēng hu",
+"to call; to address as; appellation"
+],
+[
+"称作",
+7,
+"chēng zuò",
+"to be called; to be known as"
+],
+[
 "对称",
-6,
+7,
 "duì chèn",
 "symmetry; symmetrical"
 ],
 [
-"称心如意",
-6,
-"chèn xīn rú yì",
-"after one's heart (idiom); gratifying and satisfactory; everything one could wish"
-]
-],
-"extraWords": [
-[
-"称为",
-48.32,
-"chēng wéi",
-"called; to call sth (by a name); to name"
+"号称",
+7,
+"hào chēng",
+"to be known as; to be nicknamed; to be purportedly; to claim (often exaggeratedly or falsely)"
 ],
 [
 "简称",
-36.36,
+7,
 "jiǎn chēng",
 "to be abbreviated to; abbreviation; short form"
 ],
 [
-"名称",
-33.79,
-"míng chēng",
-"name (of a thing); name (of an organization)"
+"堪称",
+7,
+"kān chēng",
+"can be rated as; can be said to be"
 ],
 [
 "声称",
-16.87,
+7,
 "shēng chēng",
 "to claim; to state; to proclaim; to assert"
 ],
 [
+"宣称",
+7,
+"xuān chēng",
+"to assert; to claim"
+],
+[
 "自称",
-16.59,
+7,
 "zì chēng",
 "to call oneself; to claim to be; to profess; to claim a title"
+]
 ],
+"extraWords": [
 [
 "称之为",
 13.38,
@@ -93,34 +111,10 @@
 "to call it...; known as..."
 ],
 [
-"宣称",
-12.42,
-"xuān chēng",
-"to assert; to claim"
-],
-[
-"堪称",
-11.76,
-"kān chēng",
-"can be rated as; can be said to be"
-],
-[
-"号称",
-10.39,
-"hào chēng",
-"to be known as; to be nicknamed; to be purportedly; to claim (often exaggeratedly or falsely)"
-],
-[
 "据称",
 8.96,
 "jù chēng",
 "it is said; allegedly; according to reports; or so they say"
-],
-[
-"称作",
-8.91,
-"chēng zuò",
-"to be called; to be known as"
 ],
 [
 "职称",

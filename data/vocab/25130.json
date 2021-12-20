@@ -1,6 +1,6 @@
 {
 "char": "截",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "cut off, stop, obstruct, intersect",
 "pron": "jié"
@@ -19,13 +19,25 @@
 "up to (a time); by (a time)"
 ],
 [
-"斩钉截铁",
-6,
-"zhǎn dīng jié tiě",
-"lit. to chop the nail and slice the iron (idiom); fig. resolute and decisive; unhesitating; categorical"
+"截",
+7,
+"jié",
+"to cut off (a length); to stop; to intercept; section; chunk; length"
+],
+[
+"截然不同",
+7,
+"jié rán bù tóng",
+"entirely different; different as black and white"
 ]
 ],
 "extraWords": [
+[
+"截至目前",
+8.31,
+"???",
+"???"
+],
 [
 "拦截",
 7.19,

@@ -1,6 +1,6 @@
 {
 "char": "负",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "load, burden; carry, bear",
 "pron": "fù"
@@ -8,15 +8,33 @@
 "words": [
 [
 "负责",
-4,
+3,
 "fù zé",
 "to be in charge of; to take responsibility for; to be to blame; conscientious"
 ],
 [
 "负担",
-6,
+4,
 "fù dān",
 "burden; to bear a burden"
+],
+[
+"负责人",
+5,
+"fù zé rén",
+"person in charge"
+],
+[
+"胜负",
+5,
+"shèng fù",
+"victory or defeat; the outcome of a battle"
+],
+[
+"负",
+6,
+"fù",
+"to bear; to carry (on one's back); to turn one's back on; to be defeated; negative (math. etc)"
 ],
 [
 "欺负",
@@ -25,43 +43,49 @@
 "to bully"
 ],
 [
-"辜负",
-6,
-"gū fù",
-"to fail to live up (to expectations); unworthy (of trust); to let down; to betray (hopes); to disappoint"
-],
-[
-"胜负",
-6,
-"shèng fù",
-"victory or defeat; the outcome of a battle"
-],
-[
 "抱负",
-6,
+7,
 "bào fù",
 "aspiration; ambition"
 ],
 [
-"正负",
-6,
-"zhèng fù",
-"positive and negative"
-]
-],
-"extraWords": [
-[
-"负责人",
-127.39,
-"fù zé rén",
-"person in charge"
+"担负",
+7,
+"dān fù",
+"to shoulder; to bear; to undertake"
 ],
 [
 "负面",
-17.43,
+7,
 "fù miàn",
 "negative; the negative side"
 ],
+[
+"负有",
+7,
+"fù yǒu",
+"to be responsible for"
+],
+[
+"辜负",
+7,
+"gū fù",
+"to fail to live up (to expectations); unworthy (of trust); to let down; to betray (hopes); to disappoint"
+],
+[
+"肩负",
+7,
+"jiān fù",
+"to shoulder (a burden); to bear; to suffer (a disadvantage)"
+],
+[
+"自负",
+7,
+"zì fù",
+"conceited; to take responsibility"
+]
+],
+"extraWords": [
 [
 "负责任",
 11.34,
@@ -79,24 +103,6 @@
 10.88,
 "fù hè",
 "load; burden; charge"
-],
-[
-"担负",
-8.93,
-"dān fù",
-"to shoulder; to bear; to undertake"
-],
-[
-"自负",
-6.41,
-"zì fù",
-"conceited; to take responsibility"
-],
-[
-"肩负",
-5.87,
-"jiān fù",
-"to shoulder (a burden); to bear; to suffer (a disadvantage)"
 ]
 ],
 "strokes": [

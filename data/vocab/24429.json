@@ -1,12 +1,31 @@
 {
 "char": "彭",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "name of ancient country; surname",
 "pron": "péng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"彭",
+5.76,
+"Péng",
+"surname Peng"
+],
+[
+"彭帅",
+3.56,
+"???",
+"???"
+],
+[
+"彭德怀",
+1.93,
+"Péng Dé huái",
+"Peng Dehuai (1898-1974), top communist general, subsequently politician and politburo member, disgraced after attacking Mao's failed policies in 1959, and died after extensive persecution during the Cultural Revolution"
+]
+],
 "strokes": [
 "M 413 660 Q 576 690 585 697 Q 595 704 590 712 Q 584 724 556 733 Q 528 740 498 730 Q 458 718 417 707 L 362 694 Q 302 681 171 671 Q 135 667 160 649 Q 199 622 253 635 Q 308 644 364 652 L 413 660 Z",
 "M 405 578 Q 409 621 413 660 L 417 707 Q 417 713 432 801 Q 436 811 417 826 Q 383 844 361 847 Q 345 851 338 842 Q 331 835 339 821 Q 355 799 356 782 Q 360 740 362 694 L 364 652 Q 364 612 364 568 C 364 538 402 548 405 578 Z",

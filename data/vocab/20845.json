@@ -1,6 +1,6 @@
 {
 "char": "六",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "number six",
 "pron": "liù"
@@ -11,9 +11,21 @@
 1,
 "liù",
 "six; 6"
+],
+[
+"五颜六色",
+4,
+"wǔ yán liù sè",
+"multi-colored; every color under the sun"
 ]
 ],
 "extraWords": [
+[
+"第六",
+20.99,
+"???",
+"???"
+],
 [
 "周六",
 20.75,
@@ -31,6 +43,24 @@
 13.43,
 "Liù yuè",
 "June; sixth month (of the lunar year)"
+],
+[
+"六点",
+8.35,
+"???",
+"???"
+],
+[
+"第六名",
+8.15,
+"???",
+"???"
+],
+[
+"第六届",
+5.37,
+"???",
+"???"
 ]
 ],
 "strokes": [

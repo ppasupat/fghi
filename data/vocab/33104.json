@@ -1,6 +1,6 @@
 {
 "char": "腐",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "rot, decay, spoil; rotten",
 "pron": "fǔ"
@@ -8,36 +8,48 @@
 "words": [
 [
 "豆腐",
-5,
+4,
 "dòu fu",
 "tofu; bean curd"
 ],
 [
-"腐烂",
-6,
-"fǔ làn",
-"to rot; to putrefy; (fig.) corrupt"
-],
-[
 "腐败",
-6,
+7,
 "fǔ bài",
 "corruption; to corrupt; to rot; rotten"
 ],
 [
+"腐化",
+7,
+"fǔ huà",
+"to rot; to decay; to become corrupt"
+],
+[
+"腐烂",
+7,
+"fǔ làn",
+"to rot; to putrefy; (fig.) corrupt"
+],
+[
 "腐蚀",
-6,
+7,
 "fǔ shí",
 "corrosion; to corrode (degrade chemically); to rot; corruption"
 ],
 [
 "腐朽",
-6,
+7,
 "fǔ xiǔ",
 "rotten; decayed; decadent; degenerate"
 ]
 ],
 "extraWords": [
+[
+"腐",
+11.82,
+"fǔ",
+"decay; rotten"
+],
 [
 "反腐败",
 7.81,

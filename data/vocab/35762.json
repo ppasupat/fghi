@@ -1,6 +1,6 @@
 {
 "char": "讲",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "explain; discuss; talk",
 "pron": "jiǎng"
@@ -8,36 +8,66 @@
 "words": [
 [
 "讲",
-3,
+2,
 "jiǎng",
 "to speak; to explain; to negotiate; to emphasise; to be particular about; as far as sth is concerned; speech; lecture"
 ],
 [
+"讲话",
+2,
+"jiǎng huà",
+"a speech; to speak; to talk; to address; CL:个[gè]"
+],
+[
+"听讲",
+2,
+"tīng jiǎng",
+"to attend a lecture; to listen to a talk"
+],
+[
+"讲究",
+4,
+"jiǎng jiu",
+"to pay particular attention to; carefully selected for quality; tastefully chosen"
+],
+[
+"讲座",
+4,
+"jiǎng zuò",
+"a course of lectures; CL:个[gè]"
+],
+[
 "演讲",
-5,
+4,
 "yǎn jiǎng",
 "lecture; to make a speech"
 ],
 [
-"讲座",
-5,
-"jiǎng zuò",
-"a course of lectures; CL:個|个[ge4]"
+"讲课",
+6,
+"jiǎng kè",
+"teach; lecture"
 ],
 [
-"讲究",
-5,
-"jiǎng jiu",
-"to pay particular attention to; carefully selected for quality; tastefully chosen"
+"讲解",
+7,
+"jiǎng jiě",
+"to explain"
+],
+[
+"讲述",
+7,
+"jiǎng shù",
+"to talk about; to narrate; to give an account"
+],
+[
+"讲学",
+7,
+"jiǎng xué",
+"to lecture (on branch of learning)"
 ]
 ],
 "extraWords": [
-[
-"讲话",
-57.37,
-"jiǎng huà",
-"a speech; to speak; to talk; to address; CL:個|个[ge4]"
-],
 [
 "来讲",
 30.25,
@@ -45,22 +75,10 @@
 "as to; considering; for"
 ],
 [
-"讲述",
-25.2,
-"jiǎng shù",
-"to talk about; to narrate; to give an account"
-],
-[
-"讲解",
-10.83,
-"jiǎng jiě",
-"to explain"
-],
-[
-"讲课",
-5.28,
-"jiǎng kè",
-"teach; lecture"
+"讲讲",
+12.07,
+"???",
+"???"
 ],
 [
 "对讲机",

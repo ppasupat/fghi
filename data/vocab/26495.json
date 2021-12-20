@@ -1,6 +1,6 @@
 {
 "char": "板",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "plank, board; iron or tin plate",
 "pron": "bǎn"
@@ -8,42 +8,78 @@
 "words": [
 [
 "黑板",
-3,
+2,
 "hēi bǎn",
-"blackboard; CL:塊|块[kuai4],個|个[ge4]"
+"blackboard; CL:块[kuài],个[gè]"
+],
+[
+"板",
+3,
+"bǎn",
+"board; plank; plate; shutter; table tennis bat; clappers (music); CL:块[kuài]; accented beat in Chinese music; hard; stiff; to stop smiling or look serious"
+],
+[
+"板",
+3,
+"bǎn",
+"see 老闆|老板, boss"
+],
+[
+"板",
+3,
+"pàn",
+"to catch sight of in a doorway (old)"
 ],
 [
 "老板",
-5,
+3,
 "lǎo bǎn",
-"variant of 老闆|老板[lao3 ban3]"
+"variant of 老板[lǎo bǎn]"
 ],
 [
 "老板",
-5,
+3,
 "Lǎo bǎn",
 "Robam (brand)"
 ],
 [
 "老板",
-5,
+3,
 "lǎo bǎn",
-"boss; business proprietor; CL:個|个[ge4]"
-]
+"boss; business proprietor; CL:个[gè]"
 ],
-"extraWords": [
+[
+"地板",
+6,
+"dì bǎn",
+"floor"
+],
 [
 "板块",
-40.9,
+7,
 "bǎn kuài",
 "slab; (geology) tectonic plate; (fig.) sector (of the stock market or of industry); (economic) bloc"
 ],
 [
-"地板",
-29.03,
-"dì bǎn",
-"floor"
+"叫板",
+7,
+"jiào bǎn",
+"to signal the musicians (in Chinese opera, by prolonging a spoken word before attacking a song); (coll.) to challenge"
 ],
+[
+"木板",
+7,
+"mù bǎn",
+"slab; board; plank; CL:张[zhāng],块[kuài]"
+],
+[
+"拍板",
+7,
+"pāi bǎn",
+"clapper-board; auctioneer's hammer; to beat time with clappers"
+]
+],
+"extraWords": [
 [
 "篮板",
 18.78,
@@ -109,12 +145,6 @@
 5.69,
 "mú bǎn",
 "template; (architecture) formwork"
-],
-[
-"木板",
-5.05,
-"mù bǎn",
-"slab; board; plank; CL:張|张[zhang1],塊|块[kuai4]"
 ]
 ],
 "strokes": [

@@ -1,42 +1,48 @@
 {
 "char": "培",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "bank up with dirt; cultivate",
 "pron": "péi"
 },
 "words": [
 [
-"培养",
-5,
-"péi yǎng",
-"to cultivate; to breed; to foster; to nurture; to educate; to groom (for a position); education; fostering; culture (biology)"
-],
-[
 "培训",
-5,
+4,
 "péi xùn",
 "to cultivate; to train; to groom; training"
 ],
 [
+"培训班",
+4,
+"péi xùn bān",
+"training class"
+],
+[
+"培养",
+4,
+"péi yǎng",
+"to cultivate; to breed; to foster; to nurture; to educate; to groom (for a position); education; fostering; culture (biology)"
+],
+[
 "培育",
-6,
+4,
 "péi yù",
 "to train; to breed"
 ],
 [
 "栽培",
-6,
+7,
 "zāi péi",
 "to grow; to cultivate; to train; to educate; to patronize"
 ]
 ],
 "extraWords": [
 [
-"培训班",
-10.6,
-"péi xùn bān",
-"training class"
+"培",
+8.05,
+"péi",
+"to bank up with earth; to cultivate (lit. or fig.); to train (people)"
 ]
 ],
 "strokes": [

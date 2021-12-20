@@ -1,6 +1,6 @@
 {
 "char": "焦",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "burned, scorched; anxious, vexed",
 "pron": "jiāo"
@@ -13,19 +13,43 @@
 "focus; focal point"
 ],
 [
+"焦",
+7,
+"Jiāo",
+"surname Jiao"
+],
+[
+"焦",
+7,
+"jiāo",
+"burnt; scorched; charred; worried; anxious; coke; joule (abbr. for 焦耳[jiāo ěr])"
+],
+[
 "焦急",
-6,
+7,
 "jiāo jí",
 "anxiety; anxious"
-]
 ],
-"extraWords": [
+[
+"焦距",
+7,
+"jiāo jù",
+"focal length; focal distance"
+],
 [
 "焦虑",
-13.42,
+7,
 "jiāo lǜ",
 "anxious; worried; apprehensive"
 ],
+[
+"焦躁",
+7,
+"jiāo zào",
+"fretful; impatient"
+]
+],
+"extraWords": [
 [
 "聚焦",
 6.5,

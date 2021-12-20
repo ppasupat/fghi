@@ -1,6 +1,6 @@
 {
 "char": "履",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "footwear, shoes; walk on, tread",
 "pron": "lǚ"
@@ -8,12 +8,25 @@
 "words": [
 [
 "履行",
-6,
+7,
 "lǚ xíng",
 "to fulfill (one's obligations); to carry out (a task); to implement (an agreement); to perform"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"履",
+4.06,
+"lǚ",
+"shoe; to tread on"
+],
+[
+"履约",
+2.13,
+"lǚ yuē",
+"to keep a promise; to honor an agreement"
+]
+],
 "strokes": [
 "M 705 713 Q 726 750 751 761 Q 769 779 755 798 Q 739 813 686 840 Q 668 849 646 842 Q 528 796 335 771 C 305 767 324 734 354 738 Q 367 739 380 743 Q 501 767 615 790 Q 645 797 657 785 Q 663 779 661 767 Q 655 742 648 718 C 640 689 689 687 705 713 Z",
 "M 329 625 Q 344 616 363 621 Q 475 651 716 681 Q 726 682 728 691 Q 728 698 705 713 C 684 727 677 726 648 718 Q 473 672 333 651 C 303 646 301 636 329 625 Z",

@@ -1,6 +1,6 @@
 {
 "char": "啊",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "exclamatory particle",
 "pron": "ā, á, ǎ, à, a"
@@ -8,36 +8,61 @@
 "words": [
 [
 "啊",
-3,
+2,
 "ā",
 "interjection of surprise; Ah!; Oh!"
 ],
 [
 "啊",
-3,
+2,
 "á",
 "interjection expressing doubt or requiring answer; Eh?; what?"
 ],
 [
 "啊",
-3,
+2,
 "ǎ",
 "interjection of surprise or doubt; Eh?; My!; what's up?"
 ],
 [
 "啊",
-3,
+2,
 "à",
 "interjection or grunt of agreement; uhm; Ah, OK; expression of recognition; Oh, it's you!"
 ],
 [
 "啊",
-3,
+2,
 "a",
 "modal particle ending sentence, showing affirmation, approval, or consent"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"啊啊",
+26.2,
+"???",
+"???"
+],
+[
+"好啊",
+25.28,
+"???",
+"???"
+],
+[
+"天啊",
+10.6,
+"???",
+"???"
+],
+[
+"啊哈",
+8.08,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 122 596 Q 112 603 83 609 Q 73 613 69 608 Q 63 604 70 588 Q 95 527 105 429 Q 106 399 122 379 Q 137 358 142 372 Q 148 387 147 410 L 144 443 Q 131 543 130 571 C 129 592 129 592 122 596 Z",
 "M 260 467 Q 275 555 298 581 Q 317 605 296 616 Q 278 626 254 640 Q 241 647 194 622 Q 173 613 122 596 C 94 586 101 563 130 571 L 206 592 Q 225 596 230 590 Q 237 584 231 550 Q 224 510 214 465 C 208 436 255 437 260 467 Z",

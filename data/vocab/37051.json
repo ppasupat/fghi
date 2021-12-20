@@ -1,6 +1,6 @@
 {
 "char": "邻",
-"level": 3,
+"level": "5",
 "info": {
 "gloss": "neighbor; neighborhood",
 "pron": "lín"
@@ -8,12 +8,30 @@
 "words": [
 [
 "邻居",
-3,
+5,
 "lín jū",
-"neighbor; next door; CL:個|个[ge4]"
+"neighbor; next door; CL:个[gè]"
+],
+[
+"邻国",
+7,
+"lín guó",
+"bordering country; neighbor country; neighboring countries; surrounding countries"
 ]
 ],
 "extraWords": [
+[
+"邻",
+6.3,
+"lín",
+"neighbor; adjacent; close to"
+],
+[
+"邻",
+6.3,
+"lín",
+"variant of 邻[lín]"
+],
 [
 "相邻",
 6.07,

@@ -1,54 +1,78 @@
 {
 "char": "未",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "not yet; 8th terrestrial branch",
 "pron": "wèi"
 },
 "words": [
 [
-"未来",
-5,
-"wèi lái",
-"future; tomorrow; CL:個|个[ge4]; approaching; coming; pending"
-],
-[
 "未必",
-5,
+4,
 "wèi bì",
 "not necessarily; maybe not"
 ],
 [
-"未免",
-6,
-"wèi miǎn",
-"unavoidably; can't help; really; rather"
-]
+"未来",
+4,
+"wèi lái",
+"future; tomorrow; CL:个[gè]; approaching; coming; pending"
 ],
-"extraWords": [
 [
 "从未",
-60.45,
+7,
 "cóng wèi",
 "never"
 ],
 [
+"前所未有",
+7,
+"qián suǒ wèi yǒu",
+"unprecedented"
+],
+[
 "尚未",
-49.94,
+7,
 "shàng wèi",
 "not yet; still not"
 ],
+[
+"未",
+7,
+"wèi",
+"not yet; did not; have not; not; 8th earthly branch: 1-3 p.m., 6th solar month (7th July-6th August), year of the Sheep; ancient Chinese compass point: 210°"
+],
+[
+"未成年人",
+7,
+"wèi chéng nián rén",
+"minor (i.e. person under 18)"
+],
+[
+"未经",
+7,
+"wèi jīng",
+"not having undergone; without (having gone though a certain process)"
+],
+[
+"未免",
+7,
+"wèi miǎn",
+"unavoidably; can't help; really; rather"
+],
+[
+"未知数",
+7,
+"wèi zhī shù",
+"unknown quantity"
+]
+],
+"extraWords": [
 [
 "未能",
 40.81,
 "wèi néng",
 "cannot; to fail to; unable to"
-],
-[
-"未经",
-18.05,
-"wèi jīng",
-"not having undergone; without (having gone though a certain process)"
 ],
 [
 "未婚妻",
@@ -61,18 +85,6 @@
 13.77,
 "wèi hūn fū",
 "fiancé"
-],
-[
-"前所未有",
-12.08,
-"qián suǒ wèi yǒu",
-"unprecedented"
-],
-[
-"未成年人",
-11.37,
-"wèi chéng nián rén",
-"minor (i.e. person under 18)"
 ],
 [
 "未曾",

@@ -1,6 +1,6 @@
 {
 "char": "待",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "treat, entertain, receive; wait",
 "pron": "dāi, dài"
@@ -8,84 +8,96 @@
 "words": [
 [
 "等待",
-5,
+3,
 "děng dài",
 "to wait; to wait for"
 ],
 [
-"期待",
-5,
-"qī dài",
-"to look forward to; to await; expectation"
-],
-[
 "对待",
-5,
+3,
 "duì dài",
 "to treat; treatment"
 ],
 [
-"招待",
-5,
-"zhāo dài",
-"to receive (guests); to entertain; reception"
-],
-[
-"待遇",
-5,
-"dài yù",
-"treatment; pay; salary; status; rank"
-],
-[
 "接待",
-5,
+3,
 "jiē dài",
 "to receive (a visitor); to admit (allow sb to enter)"
 ],
 [
-"虐待",
+"待遇",
+4,
+"dài yù",
+"treatment; pay; salary; status; rank"
+],
+[
+"期待",
+4,
+"qī dài",
+"to look forward to; to await; expectation"
+],
+[
+"待",
+5,
+"dāi",
+"to stay"
+],
+[
+"待",
+5,
+"dài",
+"to wait; to treat; to deal with; to need; going to (do sth); about to; intending to"
+],
+[
+"看待",
+5,
+"kàn dài",
+"to look upon; to regard"
+],
+[
+"待会儿",
 6,
+"dāi huì r5",
+"in a moment; later; also pr. [dai1 hui3 r5] or [dai1 hui5 r5]"
+],
+[
+"虐待",
+7,
 "nüè dài",
 "to mistreat; to maltreat; to abuse; mistreatment; maltreatment"
 ],
 [
 "迫不及待",
-6,
+7,
 "pò bù jí dài",
 "impatient (idiom); in a hurry; itching to get on with it"
 ],
 [
-"看待",
-6,
-"kàn dài",
-"to look upon; to regard"
+"守株待兔",
+7,
+"shǒu zhū dài tù",
+"lit. to guard a tree-stump, waiting for rabbits (idiom); to wait idly for opportunities; to trust to chance rather than show initiative"
 ],
-[
-"款待",
-6,
-"kuǎn dài",
-"to entertain; to be hospitable to"
-],
-[
-"亏待",
-6,
-"kuī dài",
-"to treat sb unfairly"
-]
-],
-"extraWords": [
 [
 "有待",
-17.38,
+7,
 "yǒu dài",
 "not yet (done); pending"
 ],
 [
-"待会儿",
-16.87,
-"dāi huì r5",
-"in a moment; later; also pr. [dai1 hui3 r5] or [dai1 hui5 r5]"
+"招待",
+7,
+"zhāo dài",
+"to receive (guests); to entertain; reception"
 ],
+[
+"招待会",
+7,
+"zhāo dài huì",
+"reception; CL:个[gè],次[cì]"
+]
+],
+"extraWords": [
 [
 "待命",
 15.5,
@@ -96,7 +108,7 @@
 "交待",
 6.87,
 "jiāo dài",
-"variant of 交代[jiao1 dai4]"
+"variant of 交代[jiāo dài]"
 ],
 [
 "善待",

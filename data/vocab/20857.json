@@ -1,17 +1,30 @@
 {
 "char": "兹",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "now, here; this; time, year",
 "pron": "cí, zī"
 },
-"words": [],
+"words": [
+[
+"兹",
+7,
+"zī",
+"now; here; this; time; year"
+]
+],
 "extraWords": [
 [
 "华尔兹",
 6.89,
 "huá ěr zī",
 "waltz (dance) (loanword)"
+],
+[
+"伍兹",
+5.6,
+"???",
+"???"
 ]
 ],
 "strokes": [

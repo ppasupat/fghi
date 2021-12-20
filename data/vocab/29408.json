@@ -1,16 +1,28 @@
 {
 "char": "狠",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "vicious, cruel; severely, extreme",
 "pron": "hěn"
 },
 "words": [
 [
-"狠心",
+"狠",
 6,
-"hěn xīn",
-"callous; heartless"
+"hěn",
+"ruthless; fierce; ferocious; determined; to harden (one's heart); old variant of 很[hěn]"
+],
+[
+"凶狠",
+7,
+"xiōng hěn",
+"variant of 凶狠[xiōng hěn]"
+],
+[
+"凶狠",
+7,
+"xiōng hěn",
+"cruel; vicious; fierce and malicious; vengeful"
 ]
 ],
 "extraWords": [
@@ -19,6 +31,12 @@
 17.1,
 "hěn hěn",
 "resolutely; firmly; ferociously; ruthlessly"
+],
+[
+"狠抓",
+8.06,
+"???",
+"???"
 ]
 ],
 "strokes": [

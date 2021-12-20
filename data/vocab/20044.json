@@ -1,19 +1,31 @@
 {
 "char": "乌",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "crow, rook, raven; black, dark",
 "pron": "wū"
 },
 "words": [
 [
-"乌黑",
+"乌云",
 6,
-"wū hēi",
-"jet-black; dark"
+"wū yún",
+"black cloud"
 ]
 ],
 "extraWords": [
+[
+"乌",
+21.83,
+"Wū",
+"abbr. for Ukraine 乌克兰[Wū kè lán]; surname Wu"
+],
+[
+"乌",
+21.83,
+"wū",
+"crow; black"
+],
 [
 "乌克兰",
 12.98,
@@ -24,7 +36,7 @@
 "乌鲁木齐",
 7.49,
 "Wū lǔ mù qí",
-"Ürümqi or Urumqi prefecture level city and capital of Xinjiang Uighur Autonomous Region 新疆維吾爾自治區|新疆维吾尔自治区[Xin1 jiang1 Wei2 wu2 er3 Zi4 zhi4 qu1] in west China"
+"Ürümqi or Urumqi prefecture level city and capital of Xinjiang Uighur Autonomous Region 新疆维吾尔自治区[Xīn jiāng Wéi wú ěr Zì zhì qū] in west China"
 ],
 [
 "乌龟",

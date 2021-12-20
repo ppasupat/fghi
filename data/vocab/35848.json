@@ -1,6 +1,6 @@
 {
 "char": "谈",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "talk; conversation; surname",
 "pron": "tán"
@@ -8,33 +8,99 @@
 "words": [
 [
 "谈",
-4,
+3,
 "Tán",
 "surname Tan"
 ],
 [
 "谈",
-4,
+3,
 "tán",
 "to speak; to talk; to converse; to chat; to discuss"
 ],
 [
+"谈话",
+3,
+"tán huà",
+"to talk (with sb); to have a conversation; talk; conversation; CL:次[cì]"
+],
+[
 "谈判",
-5,
+3,
 "tán pàn",
-"to negotiate; negotiation; talks; conference; CL:個|个[ge4]"
+"to negotiate; negotiation; talks; conference; CL:个[gè]"
+],
+[
+"会谈",
+5,
+"huì tán",
+"talks; discussions; CL:次[cì]"
+],
+[
+"座谈会",
+6,
+"zuò tán huì",
+"conference; symposium; rap session"
+],
+[
+"畅谈",
+7,
+"chàng tán",
+"to talk freely; to discuss without inhibition"
+],
+[
+"访谈",
+7,
+"fǎng tán",
+"to visit and discuss; to interview"
+],
+[
+"交谈",
+7,
+"jiāo tán",
+"to discuss; to converse; chat; discussion"
+],
+[
+"夸夸其谈",
+7,
+"kuā kuā qí tán",
+"to talk big; to sound off; bombastic; grandiloquent"
 ],
 [
 "洽谈",
-6,
+7,
 "qià tán",
 "to discuss"
 ],
 [
-"侃侃而谈",
-6,
-"kǎn kǎn ér tán",
-"to speak frankly with assurance"
+"谈不上",
+7,
+"tán bu shàng",
+"to be out of the question"
+],
+[
+"谈到",
+7,
+"tán dào",
+"to refer to; to speak about; to talk about"
+],
+[
+"谈论",
+7,
+"tán lùn",
+"to discuss; to talk about"
+],
+[
+"谈起",
+7,
+"tán qǐ",
+"to mention; to speak of; to talk about"
+],
+[
+"座谈",
+7,
+"zuò tán",
+"to have an informal discussion; CL:次[cì],个[gè]"
 ]
 ],
 "extraWords": [
@@ -45,64 +111,16 @@
 "to discuss; to have a chat"
 ],
 [
-"谈话",
-60.3,
-"tán huà",
-"to talk (with sb); to have a conversation; talk; conversation; CL:次[ci4]"
-],
-[
-"谈论",
-49.36,
-"tán lùn",
-"to discuss; to talk about"
-],
-[
-"会谈",
-37.47,
-"huì tán",
-"talks; discussions; CL:次[ci4]"
-],
-[
-"谈到",
-33.93,
-"tán dào",
-"to refer to; to speak about; to talk about"
-],
-[
-"交谈",
-20.42,
-"jiāo tán",
-"to discuss; to converse; chat; discussion"
-],
-[
-"座谈会",
-20.39,
-"zuò tán huì",
-"conference; symposium; rap session"
-],
-[
-"访谈",
-10.16,
-"fǎng tán",
-"to visit and discuss; to interview"
-],
-[
-"谈起",
-10.08,
-"tán qǐ",
-"to mention; to speak of; to talk about"
-],
-[
-"座谈",
-6.83,
-"zuò tán",
-"to have an informal discussion; CL:次[ci4],個|个[ge4]"
-],
-[
 "谈及",
 5.87,
 "tán jí",
 "to talk about; to mention"
+],
+[
+"洽谈会",
+5.29,
+"???",
+"???"
 ]
 ],
 "strokes": [

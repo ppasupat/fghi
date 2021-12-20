@@ -1,12 +1,32 @@
 {
 "char": "迭",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "repeatedly, frequently",
 "pron": "dié"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"迭起",
+7,
+"dié qǐ",
+"continuously arising; to arise repeatedly"
+]
+],
+"extraWords": [
+[
+"迭",
+5.31,
+"dié",
+"alternately; repeatedly"
+],
+[
+"更迭",
+1.2,
+"gēng dié",
+"to alternate; to change"
+]
+],
 "strokes": [
 "M 489 553 Q 504 587 519 614 Q 526 627 511 638 Q 468 663 445 656 Q 435 652 439 639 Q 460 573 403 479 Q 400 476 379 439 Q 375 424 387 431 Q 400 434 415 449 Q 457 489 481 536 L 489 553 Z",
 "M 643 546 Q 686 559 731 570 Q 767 580 772 586 Q 779 593 775 601 Q 768 611 741 617 Q 720 620 646 592 L 601 577 Q 550 564 494 555 Q 490 555 489 553 C 464 546 464 546 481 536 Q 488 529 521 523 Q 539 520 599 535 L 643 546 Z",

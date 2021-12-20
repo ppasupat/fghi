@@ -1,19 +1,32 @@
 {
 "char": "瘫",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "paralysis, palsy, numbness",
 "pron": "tān"
 },
 "words": [
 [
+"瘫",
+7,
+"tān",
+"paralyzed"
+],
+[
 "瘫痪",
-6,
+7,
 "tān huàn",
 "paralysis; be paralyzed (body, transportation, etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"面瘫",
+1.6,
+"miàn tān",
+"facial nerve paralysis"
+]
+],
 "strokes": [
 "M 531 826 Q 556 807 581 783 Q 597 771 613 773 Q 625 774 629 788 Q 633 804 621 835 Q 609 863 523 876 Q 507 879 500 875 Q 494 871 497 857 Q 501 847 531 826 Z",
 "M 353 667 Q 395 660 463 669 Q 776 718 794 733 Q 803 740 798 748 Q 792 760 764 768 Q 736 775 706 765 Q 535 714 347 699 C 317 696 323 671 353 667 Z",

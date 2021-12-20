@@ -1,6 +1,6 @@
 {
 "char": "叭",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "trumpet",
 "pron": "bā"
@@ -8,12 +8,25 @@
 "words": [
 [
 "喇叭",
-6,
+7,
 "lǎ ba",
-"horn (automobile etc); loudspeaker; brass wind instrument; trumpet; suona 鎖吶|锁呐[suo3 na4]"
+"horn (automobile etc); loudspeaker; brass wind instrument; trumpet; suona 锁呐[suǒ nà]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"叭",
+3.5,
+"bā",
+"denote a sound or sharp noise (gunfire etc)"
+],
+[
+"喇叭声",
+0.42,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 139 540 Q 126 547 96 554 Q 83 558 79 553 Q 72 547 80 530 Q 110 451 120 325 Q 121 288 140 261 Q 156 237 164 253 Q 174 278 169 329 L 165 363 Q 152 480 151 511 C 150 535 150 535 139 540 Z",
 "M 312 394 Q 328 488 356 518 Q 378 546 354 560 Q 288 593 287 593 Q 277 593 266 587 Q 230 563 139 540 C 110 533 123 501 151 511 Q 184 523 243 534 Q 268 541 274 530 Q 284 523 276 481 Q 269 438 258 389 C 252 360 307 364 312 394 Z",

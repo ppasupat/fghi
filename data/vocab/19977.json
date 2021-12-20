@@ -1,6 +1,6 @@
 {
 "char": "三",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "three",
 "pron": "sān"
@@ -20,41 +20,77 @@
 ],
 [
 "再三",
-5,
+4,
 "zài sān",
 "over and over again; again and again"
 ],
 [
-"丢三落四",
+"三明治",
 6,
-"diū sān là sì",
-"forgetful; empty-headed"
+"sān míng zhì",
+"sandwich (loanword); CL:个[gè]"
+],
+[
+"接二连三",
+7,
+"jiē èr lián sān",
+"one after another (idiom); in quick succession"
+],
+[
+"举一反三",
+7,
+"jǔ yī fǎn sān",
+"to raise one and infer three; to deduce many things from one case (idiom)"
+],
+[
+"三番五次",
+7,
+"sān fān wǔ cì",
+"over and over again (idiom)"
+],
+[
+"三角",
+7,
+"sān jiǎo",
+"triangle"
+],
+[
+"三维",
+7,
+"sān wéi",
+"three-dimensional; 3D"
+],
+[
+"朝三暮四",
+7,
+"zhāo sān mù sì",
+"lit. say three in the morning but four in the evening (idiom); to change sth that is already settled upon; indecisive; to blow hot and cold"
 ]
 ],
 "extraWords": [
 [
+"第三",
+86.36,
+"???",
+"???"
+],
+[
 "三国",
 45.52,
 "Sān guó",
-"Three Kingdoms period (220-280) in Chinese history; several Three Kingdoms periods in Korean history, esp. from 1st century AD to unification under Silla 新羅|新罗[Xin1 luo2] in 658"
-],
-[
-"三明治",
-34.22,
-"sān míng zhì",
-"sandwich (loanword); CL:個|个[ge4]"
+"Three Kingdoms period (220-280) in Chinese history; several Three Kingdoms periods in Korean history, esp. from 1st century AD to unification under Silla 新罗[Xīn luó] in 658"
 ],
 [
 "三星",
 31.8,
 "Sān xīng",
-"Sanxing or Sanhsing Township in Yilan County 宜蘭縣|宜兰县[Yi2 lan2 Xian4], Taiwan; Samsung (South Korean electronics company)"
+"Sanxing or Sanhsing Township in Yilan County 宜兰县[Yí lán Xiàn], Taiwan; Samsung (South Korean electronics company)"
 ],
 [
 "三星",
 31.8,
 "sān xīng",
-"three major stars of the Three Stars 參宿|参宿[Shen1 xiu4] Chinese constellation; the belt of Orion; three spirits 福[fu2], 祿|禄[lu4], and 壽|寿[shou4] associated with the Three Stars 參宿|参宿[Shen1 xiu4] Chinese constellation"
+"three major stars of the Three Stars 参宿[Shēn xiù] Chinese constellation; the belt of Orion; three spirits 福[fú], 禄[lù], and 寿[shòu] associated with the Three Stars 参宿[Shēn xiù] Chinese constellation"
 ],
 [
 "周三",
@@ -63,22 +99,34 @@
 "Wednesday"
 ],
 [
-"三角",
-18.46,
-"sān jiǎo",
-"triangle"
-],
-[
 "三峡",
 17.88,
 "Sān xiá",
-"Three Gorges on the Chang Jiang or Yangtze, namely: Qutang Gorge 瞿塘峽|瞿塘峡[Qu2 tang2 Xia2], Wuxia Gorge 巫峽|巫峡[Wu1 Xia2] and Xiling Gorge 西陵峽|西陵峡[Xi1 ling2 Xia2]; Sanxia or Sanhsia town in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+"Three Gorges on the Chang Jiang or Yangtze, namely: Qutang Gorge 瞿塘峡[Qú táng Xiá], Wuxia Gorge 巫峡[Wū Xiá] and Xiling Gorge 西陵峡[Xī líng Xiá]; Sanxia or Sanhsia town in New Taipei City 新北市[Xīn běi shì], Taiwan"
+],
+[
+"第三次",
+16.65,
+"???",
+"???"
 ],
 [
 "三月",
 16.52,
 "Sān yuè",
 "March; third month (of the lunar year)"
+],
+[
+"第三个",
+14.18,
+"???",
+"???"
+],
+[
+"第三名",
+12.55,
+"???",
+"???"
 ],
 [
 "三十",
@@ -93,10 +141,34 @@
 "one third"
 ],
 [
+"三点",
+10.67,
+"???",
+"???"
+],
+[
+"第三节",
+10.58,
+"???",
+"???"
+],
+[
 "三亚",
 10.37,
 "Sān yà",
 "Sanya prefecture level city, Hainan"
+],
+[
+"第三届",
+10.36,
+"???",
+"???"
+],
+[
+"高三",
+10.32,
+"???",
+"???"
 ],
 [
 "星期三",
@@ -114,7 +186,7 @@
 "长三角",
 8.43,
 "Cháng Sān jiǎo",
-"Yangtze River Delta (abbr. for 長江三角洲|长江三角洲[Chang2 jiang1 San1 jiao3 zhou1])"
+"Yangtze River Delta (abbr. for 长江三角洲[Cháng jiāng Sān jiǎo zhōu])"
 ],
 [
 "第三方",
@@ -129,12 +201,6 @@
 "third quarter (of financial year)"
 ],
 [
-"三维",
-6.88,
-"sān wéi",
-"three-dimensional; 3D"
-],
-[
 "第三产业",
 6.82,
 "dì sān chǎn yè",
@@ -147,16 +213,46 @@
 "pedicab; tricycle"
 ],
 [
+"三分之二",
+6.49,
+"???",
+"???"
+],
+[
 "三中全会",
 6.42,
 "Sān Zhōng Quán huì",
 "third plenum of a national congress of the Chinese Communist Party"
 ],
 [
+"三等奖",
+6.17,
+"???",
+"???"
+],
+[
+"第三天",
+5.71,
+"???",
+"???"
+],
+[
+"第三轮",
+5.65,
+"???",
+"???"
+],
+[
 "第三者",
 5.22,
 "dì sān zhě",
 "sb who is romantically involved with sb already in a committed relationship; the other woman; the other man; third person; third party (in dispute); disinterested party; number three in a list"
+],
+[
+"两三",
+5.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,12 +1,31 @@
 {
 "char": "豺",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "wolf; cruel, wicked, mean",
 "pron": "chái"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"豺狼",
+1.46,
+"chái láng",
+"jackal and wolf; ravenous wolf; fig. evil person; vicious tyrant"
+],
+[
+"豺",
+0.39,
+"chái",
+"dog-like animal; ravenous beast; dhole (Cuon Alpinus); jackal"
+],
+[
+"豺狼虎豹",
+0.07,
+"chái láng hǔ bào",
+"jackals, wolves, tigers and panthers (idiom); animals who are dangerous to man and cattle; fierce and cruel people"
+]
+],
 "strokes": [
 "M 251 673 Q 255 676 263 678 Q 309 696 343 715 Q 385 737 423 750 Q 439 753 442 761 Q 445 771 432 782 Q 410 795 364 807 Q 348 813 335 810 Q 328 806 329 794 Q 330 758 176 660 Q 172 650 178 648 Q 182 648 192 653 Q 205 657 226 663 L 251 673 Z",
 "M 141 573 Q 157 554 174 529 Q 184 516 198 515 Q 207 514 213 525 Q 219 537 215 564 Q 214 579 191 593 Q 137 623 124 619 Q 120 616 119 605 Q 120 595 141 573 Z",

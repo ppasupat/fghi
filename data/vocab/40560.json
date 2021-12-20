@@ -1,17 +1,30 @@
 {
 "char": "鹰",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "falcon; Accipiter species (various)",
 "pron": "yīng"
 },
-"words": [],
+"words": [
+[
+"鹰",
+7,
+"yīng",
+"eagle; falcon; hawk"
+]
+],
 "extraWords": [
 [
 "老鹰",
 7.48,
 "lǎo yīng",
 "(coll.) eagle; hawk; any similar bird of prey"
+],
+[
+"猫头鹰",
+4.26,
+"māo tóu yīng",
+"owl"
 ]
 ],
 "strokes": [

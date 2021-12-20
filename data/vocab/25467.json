@@ -1,12 +1,31 @@
 {
 "char": "捻",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "to twist or nip with the fingers",
 "pron": "niǎn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"捻",
+3.12,
+"niǎn",
+"to twirl (in the fingers)"
+],
+[
+"捻军",
+0.16,
+"Niǎn jūn",
+"Nian Army, leading a peasant rebellion against the Qing dynasty in Shandong, Henan, Jiangsu and Anhui 1851-1868, at the same time as the Taiping Rebellion further south"
+],
+[
+"捻子",
+0.1,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 308 521 Q 377 542 385 549 Q 394 556 388 565 Q 381 575 351 580 Q 329 583 310 575 L 262 555 Q 175 527 126 517 Q 92 508 118 494 Q 152 479 222 496 Q 240 502 261 507 L 308 521 Z",
 "M 256 338 Q 253 247 251 129 Q 250 105 237 97 Q 231 94 180 102 Q 149 115 151 105 Q 152 98 170 83 Q 222 34 234 9 Q 249 -22 262 -24 Q 275 -25 291 8 Q 310 51 310 122 Q 304 252 305 380 L 305 410 Q 305 465 308 521 L 310 575 Q 317 702 332 746 Q 348 774 296 797 Q 265 816 245 809 Q 229 803 243 781 Q 264 756 264 722 Q 265 704 262 555 L 261 507 Q 260 452 257 379 L 256 338 Z",

@@ -1,14 +1,26 @@
 {
 "char": "销",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "melt, fuse; market, sell",
 "pron": "xiāo"
 },
 "words": [
 [
+"促销",
+4,
+"cù xiāo",
+"to promote sales"
+],
+[
+"推销",
+4,
+"tuī xiāo",
+"to market; to sell"
+],
+[
 "销售",
-5,
+4,
 "xiāo shòu",
 "to sell; to market; sales (representative, agreement etc)"
 ],
@@ -19,28 +31,52 @@
 "to repeal; to revoke; (computing) to undo"
 ],
 [
-"推销",
-6,
-"tuī xiāo",
-"to market; to sell"
-],
-[
-"销毁",
-6,
-"xiāo huǐ",
-"to destroy (by melting or burning); to obliterate"
+"报销",
+7,
+"bào xiāo",
+"to submit an expense account; to apply for reimbursement; to write off; to wipe out"
 ],
 [
 "畅销",
-6,
+7,
 "chàng xiāo",
 "to sell well; best seller; chart-topping"
 ],
 [
-"报销",
-6,
-"bào xiāo",
-"to submit an expense account; to apply for reimbursement; to write off; to wipe out"
+"吊销",
+7,
+"diào xiāo",
+"to suspend (an agreement); to revoke"
+],
+[
+"开销",
+7,
+"kāi xiāo",
+"to pay (expenses); expenses; (old) to dismiss (an employee)"
+],
+[
+"倾销",
+7,
+"qīng xiāo",
+"to dump (goods, products)"
+],
+[
+"销",
+7,
+"xiāo",
+"to melt (metal); to cancel or annul; to sell; to spend; to fasten with a bolt; bolt or pin"
+],
+[
+"销毁",
+7,
+"xiāo huǐ",
+"to destroy (by melting or burning); to obliterate"
+],
+[
+"销量",
+7,
+"xiāo liàng",
+"sales volume"
 ]
 ],
 "extraWords": [
@@ -49,18 +85,6 @@
 55.58,
 "yíng xiāo",
 "marketing"
-],
-[
-"销量",
-30.22,
-"xiāo liàng",
-"sales volume"
-],
-[
-"促销",
-29.78,
-"cù xiāo",
-"to promote sales"
 ],
 [
 "经销商",
@@ -81,12 +105,6 @@
 "sales figure; total income from sales; turnover"
 ],
 [
-"倾销",
-10.36,
-"qīng xiāo",
-"to dump (goods, products)"
-],
-[
 "直销",
 10.27,
 "zhí xiāo",
@@ -103,6 +121,12 @@
 7.13,
 "chuán xiāo",
 "multi-level marketing"
+],
+[
+"销售量",
+6.91,
+"???",
+"???"
 ],
 [
 "经销",
@@ -133,6 +157,12 @@
 5.47,
 "chǎn xiāo",
 "production and sales; production and marketing"
+],
+[
+"购销",
+5.14,
+"???",
+"???"
 ]
 ],
 "strokes": [

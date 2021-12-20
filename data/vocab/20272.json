@@ -1,6 +1,6 @@
 {
 "char": "估",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "merchant; estimate, guess, presume",
 "pron": "gū, gù"
@@ -8,29 +8,41 @@
 "words": [
 [
 "估计",
-4,
+5,
 "gū jì",
-"to estimate; to reckon; CL:個|个[ge4]; (coll.) to suppose"
+"to estimate; to reckon; CL:个[gè]; (coll.) to suppose"
 ],
 [
 "评估",
-6,
+5,
 "píng gū",
 "to evaluate; to assess; assessment; evaluation"
-]
 ],
-"extraWords": [
 [
 "低估",
-9.09,
+7,
 "dī gū",
 "to underestimate; to underrate"
 ],
 [
 "估算",
-7.66,
+7,
 "gū suàn",
 "assessment; evaluation"
+]
+],
+"extraWords": [
+[
+"估",
+20.98,
+"gū",
+"estimate"
+],
+[
+"估",
+20.98,
+"gù",
+"old; second-hand (clothes)"
 ]
 ],
 "strokes": [

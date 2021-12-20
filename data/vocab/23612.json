@@ -1,23 +1,36 @@
 {
 "char": "尼",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "Buddhist nun; transliteration",
 "pron": "ní"
 },
-"words": [],
+"words": [
+[
+"尼龙",
+7,
+"ní lóng",
+"nylon (loanword)"
+]
+],
 "extraWords": [
+[
+"尼",
+83.53,
+"ní",
+"Buddhist nun; (often used in phonetic spellings)"
+],
 [
 "尼玛",
 43.57,
 "Ní mǎ",
-"Nyima county, Tibetan: Nyi ma rdzong in Nagchu prefecture 那曲地區|那曲地区[Na4 qu3 di4 qu1], central Tibet"
+"Nyima county, Tibetan: Nyi ma rdzong in Nagchu prefecture 那曲地区[Nà qǔ dì qū], central Tibet"
 ],
 [
 "尼玛",
 43.57,
 "ní mǎ",
-"(Internet slang) alternative for 你媽|你妈[ni3 ma1]; (transcription from Tibetan) the sun"
+"(Internet slang) alternative for 你妈[nǐ mā]; (transcription from Tibetan) the sun"
 ],
 [
 "丹尼",
@@ -42,6 +55,12 @@
 18.92,
 "Yìn ní",
 "Indonesia (abbr. for 印度尼西亞|印度尼西亚)"
+],
+[
+"托尼",
+18.48,
+"???",
+"???"
 ],
 [
 "丹尼斯",
@@ -72,6 +91,12 @@
 8.76,
 "Jiā lì fú ní yà",
 "California"
+],
+[
+"尼尔",
+8.64,
+"???",
+"???"
 ],
 [
 "安东尼",
@@ -116,10 +141,28 @@
 "Albania"
 ],
 [
+"约翰尼",
+5.51,
+"???",
+"???"
+],
+[
 "悉尼",
 5.43,
 "Xī ní",
 "Sydney, capital of New South Wales, Australia"
+],
+[
+"罗尼",
+5.4,
+"???",
+"???"
+],
+[
+"汤尼",
+5.22,
+"???",
+"???"
 ],
 [
 "尼泊尔",
@@ -128,10 +171,16 @@
 "Nepal"
 ],
 [
+"曼尼",
+5.07,
+"???",
+"???"
+],
+[
 "迪斯尼",
 5.03,
 "Dí sī ní",
-"Disney (company name, surname); also written 迪士尼[Di2 shi4 ni2]"
+"Disney (company name, surname); also written 迪士尼[Dí shì ní]"
 ]
 ],
 "strokes": [

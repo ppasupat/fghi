@@ -1,38 +1,43 @@
 {
 "char": "描",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "copy, trace, sketch; depict",
 "pron": "miáo"
 },
 "words": [
 [
+"描述",
+4,
+"miáo shù",
+"to describe; description"
+],
+[
 "描写",
-5,
+4,
 "miáo xiě",
 "to describe; to depict; to portray; description"
 ],
 [
 "描绘",
-6,
+7,
 "miáo huì",
 "to describe; to portray"
-]
-],
-"extraWords": [
-[
-"描述",
-32.88,
-"miáo shù",
-"to describe; description"
 ],
 [
 "扫描",
-17.41,
+7,
 "sǎo miáo",
 "to scan"
+],
+[
+"素描",
+7,
+"sù miáo",
+"sketch"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 319 524 Q 335 530 352 534 Q 385 544 389 549 Q 396 556 392 565 Q 385 575 355 581 Q 336 582 321 578 L 273 559 Q 147 525 126 521 Q 92 512 118 498 Q 163 479 213 495 Q 241 502 272 511 L 319 524 Z",
 "M 269 332 Q 268 245 266 137 Q 265 113 253 104 Q 247 101 192 110 Q 161 123 163 113 Q 164 106 183 91 Q 237 43 250 17 Q 265 -14 279 -16 Q 292 -17 308 16 Q 326 59 325 130 Q 318 250 317 369 L 317 400 Q 317 463 319 524 L 321 578 Q 321 686 341 751 Q 357 779 304 801 Q 273 819 253 813 Q 237 806 252 784 Q 271 759 273 726 Q 274 708 273 559 L 272 511 Q 271 451 269 372 L 269 332 Z",

@@ -1,6 +1,6 @@
 {
 "char": "慧",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "bright, intelligent; intelligence",
 "pron": "huì"
@@ -8,12 +8,25 @@
 "words": [
 [
 "智慧",
-5,
+6,
 "zhì huì",
 "wisdom; knowledge; intelligent; intelligence"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"慧",
+13.58,
+"huì",
+"intelligent"
+],
+[
+"聪慧",
+1.87,
+"cōng huì",
+"bright; witty; intelligent"
+]
+],
 "strokes": [
 "M 395 695 Q 420 702 446 706 Q 477 713 483 717 Q 490 724 486 731 Q 480 740 457 746 Q 442 749 396 737 L 347 723 Q 251 708 239 706 Q 209 702 230 687 Q 260 671 322 682 Q 335 685 351 687 L 395 695 Z",
 "M 395 600 Q 455 616 460 619 Q 466 625 462 631 Q 458 640 435 645 Q 414 649 395 641 L 355 627 Q 295 612 261 608 Q 234 604 254 591 Q 281 576 336 588 Q 345 591 357 591 L 395 600 Z",

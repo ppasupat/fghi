@@ -1,6 +1,6 @@
 {
 "char": "酬",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "toast; reward, recompense",
 "pron": "chóu"
@@ -8,18 +8,43 @@
 "words": [
 [
 "报酬",
-6,
+7,
 "bào chou",
 "reward; remuneration"
 ],
 [
 "应酬",
-6,
+7,
 "yìng chou",
 "social niceties; social interaction; a dinner party"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"酬",
+11.08,
+"chóu",
+"old variant of 酬[chóu]"
+],
+[
+"酬",
+11.08,
+"chóu",
+"variant of 酬[chóu]"
+],
+[
+"酬",
+11.08,
+"chóu",
+"to entertain; to repay; to return; to reward; to compensate; to reply; to answer"
+],
+[
+"酬",
+11.08,
+"chóu",
+"variant of 酬[chóu]"
+]
+],
 "strokes": [
 "M 343 694 Q 481 722 486 726 Q 495 733 490 741 Q 484 751 458 760 Q 430 766 403 756 Q 351 740 294 727 Q 231 714 157 709 Q 124 705 147 689 Q 169 674 204 673 L 236 676 Q 267 682 299 687 L 343 694 Z",
 "M 162 527 Q 150 539 131 545 Q 122 549 112 545 Q 105 541 110 529 Q 143 442 123 250 Q 99 160 135 121 Q 144 109 154 120 Q 164 135 165 154 L 168 190 Q 168 203 168 218 Q 171 491 175 498 C 177 515 177 515 162 527 Z",

@@ -1,19 +1,37 @@
 {
 "char": "娱",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "pleasure, enjoyment, amusement",
 "pron": "yú"
 },
 "words": [
 [
+"文娱",
+6,
+"wén yú",
+"cultural recreation; entertainment"
+],
+[
 "娱乐",
-5,
+6,
 "yú lè",
 "to entertain; to amuse; entertainment; recreation; amusement; hobby; fun; joy"
 ]
 ],
 "extraWords": [
+[
+"娱乐圈",
+7.97,
+"???",
+"???"
+],
+[
+"娱",
+6.98,
+"yú",
+"to amuse"
+],
 [
 "娱乐场所",
 5.78,

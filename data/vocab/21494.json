@@ -1,36 +1,54 @@
 {
 "char": "叶",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "to harmonize, to rhyme; to unite; (borrowed for) leaf",
 "pron": "xié, yè"
 },
 "words": [
 [
+"茶叶",
+4,
+"chá yè",
+"tea; tea leaves; CL:盒[hé],罐[guàn],包[bāo],片[piàn]"
+],
+[
+"树叶",
+4,
+"shù yè",
+"tree leaves"
+],
+[
 "叶子",
 4,
 "yè zi",
-"foliage; leaf; CL:片[pian4]; (slang) marijuana; weed"
+"foliage; leaf; CL:片[piàn]; (slang) marijuana; weed"
 ]
 ],
 "extraWords": [
 [
-"茶叶",
-14.98,
-"chá yè",
-"tea; tea leaves; CL:盒[he2],罐[guan4],包[bao1],片[pian4]"
+"叶",
+57.64,
+"xié",
+"to be in harmony"
+],
+[
+"叶",
+57.64,
+"Yè",
+"surname Ye"
+],
+[
+"叶",
+57.64,
+"yè",
+"leaf; page; lobe; (historical) period; classifier for small boats"
 ],
 [
 "叶片",
 5.59,
 "yè piàn",
 "blade (of propellor); vane; leaf"
-],
-[
-"树叶",
-5.08,
-"shù yè",
-"tree leaves"
 ]
 ],
 "strokes": [

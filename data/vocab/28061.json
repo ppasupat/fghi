@@ -1,12 +1,32 @@
 {
 "char": "涝",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "inundate, flood; torrent",
 "pron": "lào"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"涝",
+7,
+"lào",
+"flooded"
+]
+],
+"extraWords": [
+[
+"洪涝",
+2.56,
+"hóng lào",
+"flood; inundation; flooding"
+],
+[
+"排涝",
+0.89,
+"pái lào",
+"to drain flooded fields"
+]
+],
 "strokes": [
 "M 249 716 Q 280 691 313 658 Q 328 645 344 646 Q 356 647 361 661 Q 365 676 356 707 Q 349 729 315 745 Q 237 775 220 767 Q 214 763 216 749 Q 220 739 249 716 Z",
 "M 137 513 Q 194 459 235 444 Q 251 443 259 456 Q 263 469 260 487 Q 245 532 147 553 Q 131 557 121 552 Q 114 551 118 538 Q 121 526 137 513 Z",

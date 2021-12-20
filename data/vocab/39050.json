@@ -1,16 +1,29 @@
 {
 "char": "颊",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "cheeks, jaw",
 "pron": "jiá"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "脸颊",
-5.17,
+7,
 "liǎn jiá",
+"cheek"
+]
+],
+"extraWords": [
+[
+"颊",
+4.06,
+"jiá",
+"cheeks"
+],
+[
+"面颊",
+1.59,
+"miàn jiá",
 "cheek"
 ]
 ],

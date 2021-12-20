@@ -1,11 +1,18 @@
 {
 "char": "廷",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "court",
 "pron": "tíng"
 },
-"words": [],
+"words": [
+[
+"宫廷",
+7,
+"gōng tíng",
+"court (of king or emperor)"
+]
+],
 "extraWords": [
 [
 "阿根廷",
@@ -18,12 +25,6 @@
 14.64,
 "cháo tíng",
 "court; imperial household; dynasty"
-],
-[
-"宫廷",
-5.02,
-"gōng tíng",
-"court (of king or emperor)"
 ]
 ],
 "strokes": [

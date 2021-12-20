@@ -1,11 +1,29 @@
 {
 "char": "油",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "oil, fat, grease, lard; paints",
 "pron": "yóu"
 },
 "words": [
+[
+"加油",
+2,
+"jiā yóu",
+"to add oil; to top up with gas; to refuel; to accelerate; to step on the gas; (fig.) to make an extra effort; to cheer sb on"
+],
+[
+"油",
+2,
+"yóu",
+"oil; fat; grease; petroleum; to apply tung oil, paint or varnish; oily; greasy; glib; cunning"
+],
+[
+"石油",
+3,
+"shí yóu",
+"oil; petroleum"
+],
 [
 "加油站",
 4,
@@ -13,55 +31,37 @@
 "gas station"
 ],
 [
-"油炸",
-5,
-"yóu zhá",
-"to deep fry"
-],
-[
 "汽油",
-5,
+4,
 "qì yóu",
 "gasoline"
 ],
 [
 "酱油",
-5,
+6,
 "jiàng yóu",
 "soy sauce"
 ],
 [
-"石油",
-6,
-"shí yóu",
-"oil; petroleum"
+"燃油",
+7,
+"rán yóu",
+"fuel oil"
 ],
 [
-"油漆",
-6,
-"yóu qī",
-"oil paints; lacquer; to paint; CL:層|层[ceng2]"
+"香油",
+7,
+"xiāng yóu",
+"sesame oil; perfumed oil"
 ],
 [
-"柴油",
-6,
-"chái yóu",
-"diesel fuel"
-],
-[
-"油腻",
-6,
-"yóu nì",
-"grease; greasy food; oily; rich (of food); fatty; greasy and dirty; a slippery character"
+"油画",
+7,
+"yóu huà",
+"oil painting"
 ]
 ],
 "extraWords": [
-[
-"加油",
-131.49,
-"jiā yóu",
-"to add oil; to top up with gas; to refuel; to accelerate; to step on the gas; (fig.) to make an extra effort; to cheer sb on"
-],
 [
 "原油",
 35.16,
@@ -75,10 +75,10 @@
 "cream; butter; (coll.) effeminate"
 ],
 [
-"燃油",
-13.2,
-"rán yóu",
-"fuel oil"
+"柴油",
+11.69,
+"chái yóu",
+"diesel fuel"
 ],
 [
 "油田",
@@ -96,7 +96,7 @@
 "黄油",
 8.64,
 "huáng yóu",
-"butter; CL:盒[he2]"
+"butter; CL:盒[hé]"
 ],
 [
 "油脂",
@@ -105,10 +105,10 @@
 "grease; oil; fat"
 ],
 [
-"油画",
-7.38,
-"yóu huà",
-"oil painting"
+"油漆",
+7.18,
+"yóu qī",
+"oil paints; lacquer; to paint; CL:层[céng]"
 ],
 [
 "油耗",

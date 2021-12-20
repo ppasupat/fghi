@@ -1,40 +1,100 @@
 {
 "char": "补",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "mend, patch, fix, repair, restore",
 "pron": "bǔ"
 },
 "words": [
 [
+"补",
+3,
+"bǔ",
+"to repair; to patch; to mend; to make up for; to fill (a vacancy); to supplement"
+],
+[
 "补充",
-5,
+3,
 "bǔ chōng",
-"to replenish; to supplement; to complement; additional; supplementary; CL:個|个[ge4]"
+"to replenish; to supplement; to complement; additional; supplementary; CL:个[gè]"
 ],
 [
 "补偿",
-6,
+5,
 "bǔ cháng",
 "to compensate; to make up"
 ],
 [
-"弥补",
+"补贴",
+5,
+"bǔ tiē",
+"to subsidize; subsidy; allowance; to supplement (one's salary etc); benefit"
+],
+[
+"补考",
 6,
-"mí bǔ",
-"to complement; to make up for a deficiency"
+"bǔ kǎo",
+"to sit for a makeup exam; to resit an exam; makeup exam; resit"
+],
+[
+"补课",
+6,
+"bǔ kè",
+"to make up missed lesson; to reschedule a class"
+],
+[
+"补习",
+6,
+"bǔ xí",
+"to take extra lessons in a cram school or with a private tutor"
+],
+[
+"补助",
+6,
+"bǔ zhù",
+"to subsidize; subsidy; allowance"
+],
+[
+"补给",
+7,
+"bǔ jǐ",
+"supply; replenishment; to replenish"
 ],
 [
 "补救",
-6,
+7,
 "bǔ jiù",
 "to remedy"
 ],
 [
-"补贴",
-6,
-"bǔ tiē",
-"to subsidize; subsidy; allowance; to supplement (one's salary etc); benefit"
+"互补",
+7,
+"hù bǔ",
+"complementary; to complement each other"
+],
+[
+"弥补",
+7,
+"mí bǔ",
+"to complement; to make up for a deficiency"
+],
+[
+"填补",
+7,
+"tián bǔ",
+"to fill a gap; to fill in a blank (on a form); to overcome a deficiency"
+],
+[
+"亡羊补牢",
+7,
+"wáng yáng bǔ láo",
+"lit. to mend the pen after sheep are lost (idiom); fig. to act belatedly; better late than never; to lock the stable door after the horse has bolted"
+],
+[
+"修补",
+7,
+"xiū bǔ",
+"to mend"
 ]
 ],
 "extraWords": [
@@ -43,36 +103,6 @@
 15.19,
 "tì bǔ",
 "to replace (a damaged component with a new one, an injured player with a substitute player, full-time workers with casual workers etc); a substitute; a replacement"
-],
-[
-"补助",
-13.91,
-"bǔ zhù",
-"to subsidize; subsidy; allowance"
-],
-[
-"互补",
-8.53,
-"hù bǔ",
-"complementary; to complement each other"
-],
-[
-"填补",
-8.11,
-"tián bǔ",
-"to fill a gap; to fill in a blank (on a form); to overcome a deficiency"
-],
-[
-"修补",
-6.66,
-"xiū bǔ",
-"to mend"
-],
-[
-"补给",
-5.87,
-"bǔ jǐ",
-"supply; replenishment; to replenish"
 ]
 ],
 "strokes": [

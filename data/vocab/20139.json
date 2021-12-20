@@ -1,37 +1,49 @@
 {
 "char": "享",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "enjoy",
 "pron": "xiǎng"
 },
 "words": [
 [
-"享受",
-5,
-"xiǎng shòu",
-"to enjoy; to live it up; pleasure; CL:種|种[zhong3]"
-]
-],
-"extraWords": [
-[
 "分享",
-152.88,
+5,
 "fēn xiǎng",
 "to share (let others have some of sth good)"
 ],
 [
 "共享",
-23.3,
+5,
 "gòng xiǎng",
 "to share; to enjoy together"
 ],
 [
+"享受",
+5,
+"xiǎng shòu",
+"to enjoy; to live it up; pleasure; CL:种[zhǒng]"
+],
+[
+"享",
+7,
+"xiǎng",
+"to enjoy; to benefit; to have the use of"
+],
+[
+"享",
+7,
+"xiǎng",
+"old variant of 享[xiǎng]"
+],
+[
 "享有",
-19.98,
+7,
 "xiǎng yǒu",
 "to enjoy (rights, privileges etc)"
+]
 ],
+"extraWords": [
 [
 "享用",
 9.93,

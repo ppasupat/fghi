@@ -1,6 +1,6 @@
 {
 "char": "邮",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "postal, mail; post office",
 "pron": "yóu"
@@ -10,39 +10,57 @@
 "电子邮件",
 3,
 "diàn zǐ yóu jiàn",
-"email; CL:封[feng1],份[fen4]"
+"email; CL:封[fēng],份[fèn]"
+],
+[
+"邮件",
+3,
+"yóu jiàn",
+"mail; post; email"
+],
+[
+"邮票",
+3,
+"yóu piào",
+"(postage) stamp; CL:枚[méi],张[zhāng]"
+],
+[
+"邮箱",
+3,
+"yóu xiāng",
+"mailbox; post office box; email; email inbox"
 ],
 [
 "邮局",
 4,
 "yóu jú",
-"post office; CL:家[jia1],個|个[ge4]"
+"post office; CL:家[jiā],个[gè]"
+],
+[
+"集邮",
+7,
+"jí yóu",
+"stamp collecting; philately"
+],
+[
+"邮编",
+7,
+"yóu biān",
+"postal code; zip code"
+],
+[
+"邮政",
+7,
+"yóu zhèng",
+"postal service; postal"
 ]
 ],
 "extraWords": [
 [
-"邮件",
-35.62,
-"yóu jiàn",
-"mail; post; email"
-],
-[
-"邮政",
-18.01,
-"yóu zhèng",
-"postal service; postal"
-],
-[
-"邮票",
-9.06,
-"yóu piào",
-"(postage) stamp; CL:枚[mei2],張|张[zhang1]"
-],
-[
-"邮箱",
-8.96,
-"yóu xiāng",
-"mailbox; post office box; email; email inbox"
+"邮",
+45.51,
+"yóu",
+"post (office); mail"
 ],
 [
 "邮轮",

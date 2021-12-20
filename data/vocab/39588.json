@@ -1,16 +1,28 @@
 {
 "char": "骤",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "procedure; gallop; sudden(ly)",
 "pron": "zhòu"
 },
 "words": [
 [
+"暴风骤雨",
+7,
+"bào fēng zhòu yǔ",
+"violent wind and rainstorm; hurricane; tempest"
+],
+[
 "步骤",
-5,
+7,
 "bù zhòu",
 "procedure; step"
+],
+[
+"骤然",
+7,
+"zhòu rán",
+"suddenly; abruptly"
 ]
 ],
 "extraWords": [],

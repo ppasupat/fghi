@@ -1,6 +1,6 @@
 {
 "char": "走",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "walk, go on foot; run; leave",
 "pron": "zǒu"
@@ -8,15 +8,45 @@
 "words": [
 [
 "走",
-2,
+1,
 "zǒu",
-"to walk; to go; to run; to move (of vehicle); to visit; to leave; to go away; to die (euph.); from; through; away (in compound verbs, such as 撤走[che4 zou3]); to change (shape, form, meaning)"
+"to walk; to go; to run; to move (of vehicle); to visit; to leave; to go away; to die (euph.); from; through; away (in compound verbs, such as 撤走[chè zǒu]); to change (shape, form, meaning)"
 ],
 [
-"走廊",
+"走路",
+1,
+"zǒu lù",
+"to walk; to go on foot"
+],
+[
+"走过",
+2,
+"zǒu guò",
+"to walk past; to pass by"
+],
+[
+"走进",
+2,
+"zǒu jìn",
+"to enter"
+],
+[
+"走开",
+2,
+"zǒu kāi",
+"to leave; to walk away; to beat it; to move aside"
+],
+[
+"逃走",
+5,
+"táo zǒu",
+"to escape; to flee; to run away"
+],
+[
+"拿走",
 6,
-"zǒu láng",
-"corridor; aisle; hallway; passageway; veranda"
+"ná zǒu",
+"to take away"
 ],
 [
 "走私",
@@ -25,16 +55,58 @@
 "to smuggle; to have an illicit affair"
 ],
 [
-"走漏",
-6,
-"zǒu lòu",
-"to leak (of information, liquid etc); to divulge"
+"出走",
+7,
+"chū zǒu",
+"to leave home; to go off; to run away"
 ],
 [
-"飞禽走兽",
-6,
-"fēi qín zǒu shòu",
-"birds and animals; the beasts of the field and the birds of the air"
+"东奔西走",
+7,
+"dōng bēn xī zǒu",
+"to run this way and that (idiom); to rush about busily; to bustle about; to hopscotch; also 东跑西颠[dōng pǎo xī diān]"
+],
+[
+"行走",
+7,
+"xíng zǒu",
+"to walk"
+],
+[
+"走过场",
+7,
+"zǒu guò chǎng",
+"to go through the motions"
+],
+[
+"走后门",
+7,
+"zǒu hòu mén",
+"lit. to enter by the back door; fig. to gain influence by pull or unofficial channels; back door or under the counter connections"
+],
+[
+"走近",
+7,
+"zǒu jìn",
+"to approach; to draw near to"
+],
+[
+"走廊",
+7,
+"zǒu láng",
+"corridor; aisle; hallway; passageway; veranda"
+],
+[
+"走投无路",
+7,
+"zǒu tóu wú lù",
+"to be at an impasse (idiom); in a tight spot; at the end of one's rope; desperate"
+],
+[
+"走弯路",
+7,
+"zǒu wān lù",
+"to take an indirect route; to waste one's time by using an inappropriate method"
 ]
 ],
 "extraWords": [
@@ -43,12 +115,6 @@
 71.9,
 "dài zǒu",
 "to carry; to take away"
-],
-[
-"拿走",
-62.87,
-"ná zǒu",
-"to take away"
 ],
 [
 "走势",
@@ -63,22 +129,16 @@
 "direction; strike (i.e. angle of inclination in geology); inclination; trend; to move towards; to head for"
 ],
 [
+"走到",
+48.56,
+"???",
+"???"
+],
+[
 "走出",
 44.4,
 "zǒu chū",
 "to leave (a room etc); to go out through (a door etc)"
-],
-[
-"走开",
-42.87,
-"zǒu kāi",
-"to leave; to walk away; to beat it; to move aside"
-],
-[
-"走进",
-41.54,
-"zǒu jìn",
-"to enter"
 ],
 [
 "走运",
@@ -87,16 +147,10 @@
 "to have good luck; lucky; in luck"
 ],
 [
-"逃走",
-26.47,
-"táo zǒu",
-"to escape; to flee; to run away"
-],
-[
-"走路",
-22.66,
-"zǒu lù",
-"to walk; to go on foot"
+"偷走",
+24.09,
+"???",
+"???"
 ],
 [
 "赶走",
@@ -105,10 +159,10 @@
 "to drive out; to turn back"
 ],
 [
-"行走",
-18.04,
-"xíng zǒu",
-"to walk"
+"走走",
+16.69,
+"???",
+"???"
 ],
 [
 "抢走",
@@ -129,22 +183,16 @@
 "to visit; to travel to"
 ],
 [
-"走过",
-10.11,
-"zǒu guò",
-"to walk past; to pass by"
-],
-[
-"出走",
-9.63,
-"chū zǒu",
-"to leave home; to go off; to run away"
-],
-[
 "走人",
 8.82,
 "zǒu rén",
 "(coll.) to leave; to beat it"
+],
+[
+"走出去",
+8.6,
+"???",
+"???"
 ],
 [
 "走着瞧",
@@ -153,16 +201,22 @@
 "wait and see (who is right)"
 ],
 [
-"走近",
-7.71,
-"zǒu jìn",
-"to approach; to draw near to"
-],
-[
 "溜走",
 6.86,
 "liū zǒu",
 "to slip away; to leave secretly"
+],
+[
+"走出来",
+6.74,
+"???",
+"???"
+],
+[
+"走过来",
+6.04,
+"???",
+"???"
 ],
 [
 "走动",

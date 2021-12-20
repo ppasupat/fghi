@@ -1,31 +1,55 @@
 {
 "char": "痛",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "pain, ache; sorry, sad; bitter",
 "pron": "tòng"
 },
 "words": [
 [
+"痛",
+3,
+"tòng",
+"ache; pain; sorrow; deeply; thoroughly"
+],
+[
 "痛苦",
-5,
+3,
 "tòng kǔ",
-"pain; suffering; painful; CL:個|个[ge4]"
+"pain; suffering; painful; CL:个[gè]"
 ],
 [
 "痛快",
-5,
+4,
 "tòng kuài",
 "delighted; to one's heart's content; straightforward; also pr. [tong4 kuai5]"
-]
 ],
-"extraWords": [
 [
 "疼痛",
-29.12,
+6,
 "téng tòng",
 "pain; ache; sore"
 ],
+[
+"悲痛",
+7,
+"bēi tòng",
+"grieved; sorrowful"
+],
+[
+"惨痛",
+7,
+"cǎn tòng",
+"bitter; painful; deeply distressed"
+],
+[
+"痛心",
+7,
+"tòng xīn",
+"grieved; pained"
+]
+],
+"extraWords": [
 [
 "头痛",
 18.71,
@@ -43,12 +67,6 @@
 7.7,
 "shāng tòng",
 "pain (from wound); sorrow"
-],
-[
-"悲痛",
-6.71,
-"bēi tòng",
-"grieved; sorrowful"
 ],
 [
 "痛恨",

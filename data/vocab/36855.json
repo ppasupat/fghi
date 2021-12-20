@@ -1,73 +1,115 @@
 {
 "char": "迷",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "bewitch, charm, infatuate",
 "pron": "mí"
 },
 "words": [
 [
-"迷路",
-4,
-"mí lù",
-"to lose the way; lost; labyrinth; labyrinthus vestibularis (of the inner ear)"
-],
-[
-"球迷",
-5,
-"qiú mí",
-"fan (ball sports); CL:個|个[ge4]"
-],
-[
-"迷人",
-6,
-"mí rén",
-"fascinating; enchanting; charming; tempting"
-],
-[
-"昏迷",
-6,
-"hūn mí",
-"to lose consciousness; to be in a coma; stupor; coma; stunned; disoriented"
-],
-[
-"着迷",
-6,
-"zháo mí",
-"to be fascinated; to be captivated"
-],
-[
-"迷惑",
-6,
-"mí huo",
-"to puzzle; to confuse; to baffle"
-],
-[
-"迷信",
-6,
-"mí xìn",
-"superstition; to have a superstitious belief (in sth)"
-]
-],
-"extraWords": [
-[
 "歌迷",
-17.18,
+3,
 "gē mí",
 "fan of a singer"
 ],
 [
+"迷",
+3,
+"mí",
+"to bewilder; crazy about; fan; enthusiast; lost; confused"
+],
+[
+"球迷",
+3,
+"qiú mí",
+"fan (ball sports); CL:个[gè]"
+],
+[
+"迷人",
+5,
+"mí rén",
+"fascinating; enchanting; charming; tempting"
+],
+[
+"迷信",
+5,
+"mí xìn",
+"superstition; to have a superstitious belief (in sth)"
+],
+[
+"影迷",
+6,
+"yǐng mí",
+"film enthusiast; movie fan; CL:个[gè]"
+],
+[
+"沉迷",
+7,
+"chén mí",
+"to be engrossed; to be absorbed with; to lose oneself in; to be addicted to"
+],
+[
+"痴迷",
+7,
+"chī mí",
+"infatuated; obsessed"
+],
+[
+"低迷",
+7,
+"dī mí",
+"blurred (landscape etc); low (spirits); in a slump (economy)"
+],
+[
+"昏迷",
+7,
+"hūn mí",
+"to lose consciousness; to be in a coma; stupor; coma; stunned; disoriented"
+],
+[
+"迷惑",
+7,
+"mí huo",
+"to puzzle; to confuse; to baffle"
+],
+[
+"迷惑不解",
+7,
+"mí huò bù jiě",
+"to feel puzzled"
+],
+[
+"迷恋",
+7,
+"mí liàn",
+"to be infatuated with; to be enchanted by; to be passionate about"
+],
+[
+"迷路",
+7,
+"mí lù",
+"to lose the way; lost; labyrinth; labyrinthus vestibularis (of the inner ear)"
+],
+[
 "迷失",
-14.19,
+7,
 "mí shī",
 "to lose (one's bearings); to get lost"
 ],
 [
-"低迷",
-10.95,
-"dī mí",
-"blurred (landscape etc); low (spirits); in a slump (economy)"
+"着迷",
+7,
+"zháo mí",
+"to be fascinated; to be captivated"
 ],
+[
+"捉迷藏",
+7,
+"zhuō mí cáng",
+"to play hide-and-seek"
+]
+],
+"extraWords": [
 [
 "迷茫",
 9.14,
@@ -75,34 +117,10 @@
 "vast and indistinct; perplexed; bewildered; at a loss"
 ],
 [
-"迷恋",
-7.75,
-"mí liàn",
-"to be infatuated with; to be enchanted by; to be passionate about"
-],
-[
 "迷你",
 7.57,
 "mí nǐ",
 "mini (as in mini-skirt or Mini Cooper) (loanword)"
-],
-[
-"痴迷",
-5.57,
-"chī mí",
-"infatuated; obsessed"
-],
-[
-"沉迷",
-5.51,
-"chén mí",
-"to be engrossed; to be absorbed with; to lose oneself in; to be addicted to"
-],
-[
-"影迷",
-5.41,
-"yǐng mí",
-"film enthusiast; movie fan; CL:個|个[ge4]"
 ],
 [
 "迷宫",

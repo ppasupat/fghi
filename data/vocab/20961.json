@@ -1,11 +1,17 @@
 {
 "char": "凡",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "all, any, every; ordinary, common",
 "pron": "fán"
 },
 "words": [
+[
+"凡是",
+6,
+"fán shì",
+"each and every; every; all; any"
+],
 [
 "平凡",
 6,
@@ -13,10 +19,22 @@
 "commonplace; ordinary; mediocre"
 ],
 [
-"凡是",
-6,
-"fán shì",
-"each and every; every; all; any"
+"凡",
+7,
+"fán",
+"ordinary; commonplace; mundane; temporal; of the material world (as opposed to supernatural or immortal levels); every; all; whatever; altogether; gist; outline; note of Chinese musical scale"
+],
+[
+"凡",
+7,
+"fán",
+"variant of 凡[fán]"
+],
+[
+"非凡",
+7,
+"fēi fán",
+"out of the ordinary; unusually (good, talented etc)"
 ]
 ],
 "extraWords": [
@@ -25,12 +43,6 @@
 9.74,
 "fán shì",
 "everything"
-],
-[
-"非凡",
-9.36,
-"fēi fán",
-"out of the ordinary; unusually (good, talented etc)"
 ]
 ],
 "strokes": [

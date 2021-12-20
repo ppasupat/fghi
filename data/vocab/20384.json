@@ -1,19 +1,25 @@
 {
 "char": "侠",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "chivalrous person; knight-errant",
 "pron": "xiá"
 },
 "words": [
 [
-"武侠",
-6,
-"wǔ xiá",
-"martial arts chivalry (Chinese literary, theatrical and cinema genre); knight-errant"
+"侠义",
+7,
+"xiá yì",
+"chivalrous; chivalry; knight-errantry"
 ]
 ],
 "extraWords": [
+[
+"侠",
+24.65,
+"xiá",
+"knight-errant; brave and chivalrous; hero; heroic"
+],
 [
 "大侠",
 7.48,

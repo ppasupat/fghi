@@ -1,6 +1,6 @@
 {
 "char": "颜",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "face, facial appearance",
 "pron": "yán"
@@ -11,9 +11,40 @@
 2,
 "yán sè",
 "color; countenance; appearance; facial expression; pigment; dyestuff"
+],
+[
+"五颜六色",
+4,
+"wǔ yán liù sè",
+"multi-colored; every color under the sun"
+],
+[
+"容颜",
+7,
+"róng yán",
+"mien; complexion"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"颜",
+25.15,
+"Yán",
+"surname Yan"
+],
+[
+"颜",
+25.15,
+"yán",
+"color; face; countenance"
+],
+[
+"颜",
+25.15,
+"yán",
+"Japanese variant of 颜[yán]"
+]
+],
 "strokes": [
 "M 356 793 Q 383 774 412 751 Q 425 741 440 742 Q 450 743 453 756 Q 456 771 445 796 Q 433 823 348 836 Q 333 837 328 835 Q 324 831 326 819 Q 330 809 356 793 Z",
 "M 199 650 Q 174 646 194 631 Q 227 607 249 615 Q 375 640 476 654 Q 486 653 493 664 Q 494 674 474 684 Q 447 703 370 680 Q 262 659 199 650 Z",

@@ -1,22 +1,22 @@
 {
 "char": "妙",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "mysterious, subtle; exquisite",
 "pron": "miào"
 },
 "words": [
 [
-"巧妙",
-5,
-"qiǎo miào",
-"ingenious; clever; ingenuity; artifice"
+"妙",
+6,
+"miào",
+"clever; wonderful"
 ],
 [
-"美妙",
+"妙",
 6,
-"měi miào",
-"beautiful; wonderful; splendid"
+"miào",
+"variant of 妙[miào]"
 ],
 [
 "奇妙",
@@ -25,10 +25,34 @@
 "fantastic; wonderful"
 ],
 [
-"莫名其妙",
+"巧妙",
 6,
+"qiǎo miào",
+"ingenious; clever; ingenuity; artifice"
+],
+[
+"精妙",
+7,
+"jīng miào",
+"exquisite; fine and delicate (usu. of works of art)"
+],
+[
+"美妙",
+7,
+"měi miào",
+"beautiful; wonderful; splendid"
+],
+[
+"莫名其妙",
+7,
 "mò míng qí miào",
 "(idiom) baffling; inexplicable"
+],
+[
+"微妙",
+7,
+"wēi miào",
+"subtle"
 ]
 ],
 "extraWords": [
@@ -37,12 +61,6 @@
 17.83,
 "bù miào",
 "(of a turn of events) not too encouraging; far from good; anything but reassuring"
-],
-[
-"微妙",
-7.24,
-"wēi miào",
-"subtle"
 ],
 [
 "绝妙",

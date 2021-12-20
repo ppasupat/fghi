@@ -1,6 +1,6 @@
 {
 "char": "腔",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "chest cavity; hollow in body",
 "pron": "qiāng"
@@ -8,9 +8,15 @@
 "words": [
 [
 "口腔",
-6,
+7,
 "kǒu qiāng",
 "oral cavity"
+],
+[
+"腔",
+7,
+"qiāng",
+"cavity of body; barrel (e.g. engine cylinder); compartment; tune; accent of speech"
 ]
 ],
 "extraWords": [

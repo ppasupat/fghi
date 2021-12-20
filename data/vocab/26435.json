@@ -1,6 +1,6 @@
 {
 "char": "权",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "power, right, authority",
 "pron": "quán"
@@ -8,21 +8,33 @@
 "words": [
 [
 "权利",
-5,
+4,
 "quán lì",
 "right (i.e. an entitlement to sth); (classical) power and wealth"
 ],
 [
+"权",
+6,
+"Quán",
+"surname Quan"
+],
+[
+"权",
+6,
+"quán",
+"authority; power; right; (literary) to weigh; expedient; temporary"
+],
+[
 "权力",
-5,
+6,
 "quán lì",
 "power; authority"
 ],
 [
-"权威",
+"人权",
 6,
-"quán wēi",
-"authority; authoritative; power and prestige"
+"rén quán",
+"human rights"
 ],
 [
 "政权",
@@ -31,14 +43,50 @@
 "regime; political power"
 ],
 [
+"侵权",
+7,
+"qīn quán",
+"to infringe the rights of; to violate; infringement"
+],
+[
 "权衡",
-6,
+7,
 "quán héng",
 "to consider; to weigh (a matter); to balance (pros and cons)"
 ],
 [
+"权威",
+7,
+"quán wēi",
+"authority; authoritative; power and prestige"
+],
+[
+"权益",
+7,
+"quán yì",
+"rights; interests; rights and benefits"
+],
+[
+"授权",
+7,
+"shòu quán",
+"to authorize"
+],
+[
+"特权",
+7,
+"tè quán",
+"prerogative; privilege; privileged"
+],
+[
+"职权",
+7,
+"zhí quán",
+"authority; power over others"
+],
+[
 "主权",
-6,
+7,
 "zhǔ quán",
 "sovereignty"
 ]
@@ -51,22 +99,10 @@
 "equity shares; stock right"
 ],
 [
-"权益",
-45.04,
-"quán yì",
-"rights; interests; rights and benefits"
-],
-[
 "产权",
 35.77,
 "chǎn quán",
 "property right"
-],
-[
-"授权",
-30.67,
-"shòu quán",
-"to authorize"
 ],
 [
 "知识产权",
@@ -87,22 +123,10 @@
 "immunity from prosecution"
 ],
 [
-"侵权",
-14.36,
-"qīn quán",
-"to infringe the rights of; to violate; infringement"
-],
-[
 "版权",
 13.26,
 "bǎn quán",
 "copyright"
-],
-[
-"人权",
-13.17,
-"rén quán",
-"human rights"
 ],
 [
 "使用权",
@@ -141,18 +165,6 @@
 "scope of authority; extent of power; (access etc) privileges"
 ],
 [
-"职权",
-8.21,
-"zhí quán",
-"authority; power over others"
-],
-[
-"特权",
-8.02,
-"tè quán",
-"prerogative; privilege; privileged"
-],
-[
 "无权",
 7.04,
 "wú quán",
@@ -169,6 +181,12 @@
 6.89,
 "jiān hù quán",
 "custody (of a child)"
+],
+[
+"经营权",
+6.0,
+"???",
+"???"
 ],
 [
 "债权人",

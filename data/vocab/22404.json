@@ -1,6 +1,6 @@
 {
 "char": "垄",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "grave, mound; ridge in field",
 "pron": "lǒng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "垄断",
-6,
+7,
 "lǒng duàn",
 "to enjoy market dominance; to monopolize"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"垄",
+1.91,
+"lǒng",
+"ridge between fields; row of crops; grave mound"
+],
+[
+"反垄断法",
+1.75,
+"fǎn lǒng duàn fǎ",
+"anti-trust law; legislation again monopolies"
+]
+],
 "strokes": [
 "M 551 638 Q 593 647 639 653 Q 700 665 709 673 Q 719 680 714 688 Q 708 700 680 709 Q 652 716 622 706 Q 564 688 504 674 L 443 661 Q 373 652 295 647 Q 259 643 284 625 Q 323 598 380 612 Q 402 616 429 619 L 488 628 Q 503 631 520 633 L 551 638 Z",
 "M 504 674 Q 511 701 535 755 Q 545 773 528 788 Q 488 822 473 824 Q 454 825 463 801 Q 473 765 443 661 L 429 619 Q 404 511 298 424 Q 270 403 227 380 Q 211 371 205 366 Q 202 360 213 357 Q 229 353 252 362 Q 297 377 326 395 Q 425 462 488 628 L 504 674 Z",

@@ -1,6 +1,6 @@
 {
 "char": "澄",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "purify water by allowing sediment to settle; clear, pure",
 "pron": "chéng, dèng"
@@ -8,18 +8,43 @@
 "words": [
 [
 "澄清",
-6,
+7,
 "chéng qīng",
 "clear (of liquid); limpid; to clarify; to make sth clear; to be clear (about the facts)"
 ],
 [
 "澄清",
-6,
+7,
 "dèng qīng",
 "to settle (of liquid); to become clear (by precipitation of impurities); precipitate (chemistry); to put in order; to quell disturbances"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"澄",
+4.76,
+"chéng",
+"variant of 澄[chéng]"
+],
+[
+"澄",
+4.76,
+"Chéng",
+"surname Cheng"
+],
+[
+"澄",
+4.76,
+"chéng",
+"clear; limpid; to clarify; to purify"
+],
+[
+"澄",
+4.76,
+"dèng",
+"(of liquid) to settle; to become clear"
+]
+],
 "strokes": [
 "M 206 711 Q 227 686 249 655 Q 262 639 280 636 Q 293 635 300 649 Q 309 665 303 700 Q 299 730 209 767 Q 193 773 184 771 Q 178 768 178 753 Q 179 740 206 711 Z",
 "M 125 505 Q 167 448 196 432 Q 212 428 223 441 Q 230 454 229 472 Q 225 499 207 514 Q 183 532 131 549 Q 121 552 114 548 Q 107 547 109 534 Q 110 521 125 505 Z",

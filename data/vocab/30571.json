@@ -1,6 +1,6 @@
 {
 "char": "睫",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "eyelashes",
 "pron": "jié"
@@ -11,6 +11,18 @@
 "睫毛",
 11.17,
 "jié máo",
+"eyelashes"
+],
+[
+"迫在眉睫",
+2.56,
+"pò zài méi jié",
+"pressing in on one's eyelashes (idiom); imminent"
+],
+[
+"睫",
+0.98,
+"jié",
 "eyelashes"
 ]
 ],

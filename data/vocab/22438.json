@@ -1,12 +1,32 @@
 {
 "char": "垦",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "cultivate, reclaim, to farm land",
 "pron": "kěn"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"开垦",
+7,
+"kāi kěn",
+"to clear a wild area for cultivation; to put under the plow"
+]
+],
+"extraWords": [
+[
+"垦",
+2.69,
+"kěn",
+"to reclaim (land); to cultivate"
+],
+[
+"农垦",
+2.23,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 545 558 Q 561 536 577 529 Q 587 522 602 544 Q 614 566 636 692 Q 643 723 666 748 Q 678 761 666 774 Q 650 790 607 814 Q 591 821 530 805 Q 521 805 342 761 C 313 754 338 722 367 731 Q 428 750 538 769 Q 563 773 571 765 Q 584 752 582 737 Q 567 601 550 587 C 538 566 538 566 545 558 Z",
 "M 360 632 Q 367 631 378 633 Q 457 649 516 658 Q 537 662 529 673 Q 519 686 497 689 Q 475 692 360 654 C 332 645 330 634 360 632 Z",

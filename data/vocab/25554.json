@@ -1,6 +1,6 @@
 {
 "char": "插",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "insert, stick into; plant",
 "pron": "chā"
@@ -16,22 +16,28 @@
 "插",
 5,
 "chā",
-"old variant of 插[cha1]"
+"old variant of 插[chā]"
 ],
-[
-"插座",
-6,
-"chā zuò",
-"socket; outlet"
-]
-],
-"extraWords": [
 [
 "插手",
-14.22,
+7,
 "chā shǒu",
 "to get involved in; to meddle; interference"
 ],
+[
+"插图",
+7,
+"chā tú",
+"illustration"
+],
+[
+"插嘴",
+7,
+"chā zuǐ",
+"to interrupt (sb talking); to butt in; to cut into a conversation"
+]
+],
+"extraWords": [
 [
 "插入",
 8.37,

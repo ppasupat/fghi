@@ -1,42 +1,54 @@
 {
 "char": "雇",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "employ, to hire",
 "pron": "gù"
 },
 "words": [
 [
-"解雇",
-6,
-"jiě gù",
-"to fire; to sack; to dismiss; to terminate employment"
+"雇",
+7,
+"gù",
+"variant of 雇[gù]"
+],
+[
+"雇",
+7,
+"gù",
+"to employ; to hire; to rent"
 ],
 [
 "雇佣",
-6,
+7,
 "gù yōng",
 "to employ; to hire"
-]
 ],
-"extraWords": [
 [
 "雇员",
-12.79,
+7,
 "gù yuán",
 "employee"
 ],
+[
+"雇主",
+7,
+"gù zhǔ",
+"employer"
+],
+[
+"解雇",
+7,
+"jiě gù",
+"to fire; to sack; to dismiss; to terminate employment"
+]
+],
+"extraWords": [
 [
 "雇用",
 11.8,
 "gù yòng",
 "to employ; to hire"
-],
-[
-"雇主",
-5.37,
-"gù zhǔ",
-"employer"
 ]
 ],
 "strokes": [

@@ -1,12 +1,31 @@
 {
 "char": "禹",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "legendary hsia dynasty founder",
 "pron": "yǔ"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"黄禹锡",
+1.99,
+"???",
+"???"
+],
+[
+"禹",
+1.95,
+"Yǔ",
+"Yu the Great (c. 21st century BC), mythical leader who tamed the floods; surname Yu"
+],
+[
+"大禹",
+1.14,
+"Dà Yǔ",
+"Yu the Great (c. 21st century BC) mythical leader who tamed the floods"
+]
+],
 "strokes": [
 "M 484 728 Q 560 761 615 769 Q 633 769 636 777 Q 640 787 629 800 Q 565 848 534 844 Q 527 840 525 829 Q 519 783 293 692 Q 287 683 294 680 Q 297 680 446 716 L 484 728 Z",
 "M 306 586 Q 293 590 272 591 Q 259 592 257 587 Q 251 580 261 565 Q 289 522 314 446 Q 320 424 335 410 Q 354 391 358 406 Q 359 416 359 429 L 354 458 Q 336 531 331 555 C 325 581 325 581 306 586 Z",

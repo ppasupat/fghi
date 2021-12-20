@@ -1,23 +1,30 @@
 {
 "char": "祈",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "pray; entreat, beseech",
 "pron": "qí"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "祈祷",
-57.98,
+7,
 "qí dǎo",
 "to pray; to say one's prayers; prayer"
+]
 ],
+"extraWords": [
 [
 "祈求",
 7.45,
 "qí qiú",
 "to pray for; to appeal"
+],
+[
+"祈",
+6.85,
+"qí",
+"to implore; to pray; to request"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "往",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "go, depart; past, formerly",
 "pron": "wǎng"
@@ -16,81 +16,129 @@
 "往",
 2,
 "wǎng",
-"old variant of 往[wang3]"
-],
-[
-"往往",
-4,
-"wǎng wǎng",
-"usually; in many cases; more often than not"
+"old variant of 往[wǎng]"
 ],
 [
 "交往",
-5,
+3,
 "jiāo wǎng",
 "to associate (with); to have contact (with); to hang out (with); to date; (interpersonal) relationship; association; contact"
 ],
 [
-"往返",
-5,
-"wǎng fǎn",
-"to go back and forth; to go to and fro; round trip"
-],
-[
-"往常",
-6,
-"wǎng cháng",
-"usual; customary"
-],
-[
-"以往",
-6,
-"yǐ wǎng",
-"in the past; formerly"
-],
-[
-"往事",
-6,
-"wǎng shì",
-"past events; former happenings"
-],
-[
-"一如既往",
-6,
-"yī rú jì wǎng",
-"just as in the past (idiom); as before; continuing as always"
-],
-[
-"向往",
-6,
-"xiàng wǎng",
-"to yearn for; to look forward to"
-],
-[
-"礼尚往来",
-6,
-"lǐ shàng wǎng lái",
-"lit. proper behavior is based on reciprocity (idiom); fig. to return politeness for politeness"
-]
-],
-"extraWords": [
-[
 "前往",
-58.4,
+3,
 "qián wǎng",
 "to leave for; to proceed towards; to go"
 ],
 [
+"往往",
+3,
+"wǎng wǎng",
+"usually; in many cases; more often than not"
+],
+[
+"以往",
+5,
+"yǐ wǎng",
+"in the past; formerly"
+],
+[
+"来往",
+6,
+"lái wǎng",
+"to come and go; to have dealings with; to be in relation with"
+],
+[
+"往后",
+6,
+"wǎng hòu",
+"from now on; in the future; time to come"
+],
+[
 "往来",
-13.94,
+6,
 "wǎng lái",
 "dealings; contacts; to go back and forth"
 ],
 [
 "往年",
-13.31,
+6,
 "wǎng nián",
 "in former years; in previous years"
+],
+[
+"飞往",
+7,
+"???",
+"???"
+],
+[
+"赶往",
+7,
+"gǎn wǎng",
+"to hurry to (somewhere)"
+],
+[
+"过往",
+7,
+"guò wǎng",
+"to come and go; to have friendly relations with; in the past; previous"
+],
+[
+"通往",
+7,
+"tōng wǎng",
+"to lead to"
+],
+[
+"往常",
+7,
+"wǎng cháng",
+"usual; customary"
+],
+[
+"往返",
+7,
+"wǎng fǎn",
+"to go back and forth; to go to and fro; round trip"
+],
+[
+"往日",
+7,
+"wǎng rì",
+"former days; the past"
+],
+[
+"往事",
+7,
+"wǎng shì",
+"past events; former happenings"
+],
+[
+"向往",
+7,
+"xiàng wǎng",
+"to yearn for; to look forward to"
+],
+[
+"一如既往",
+7,
+"yī rú jì wǎng",
+"just as in the past (idiom); as before; continuing as always"
+],
+[
+"勇往直前",
+7,
+"yǒng wǎng zhí qián",
+"to advance bravely"
+]
+],
+"extraWords": [
+[
+"送往",
+13.9,
+"???",
+"???"
 ],
 [
 "往前",
@@ -99,46 +147,10 @@
 "to move forwards"
 ],
 [
-"过往",
-11.27,
-"guò wǎng",
-"to come and go; to have friendly relations with; in the past; previous"
-],
-[
-"通往",
-10.85,
-"tōng wǎng",
-"to lead to"
-],
-[
-"往后",
-8.88,
-"wǎng hòu",
-"from now on; in the future; time to come"
-],
-[
-"赶往",
-8.74,
-"gǎn wǎng",
-"to hurry to (somewhere)"
-],
-[
-"来往",
-8.11,
-"lái wǎng",
-"to come and go; to have dealings with; to be in relation with"
-],
-[
 "开往",
 6.27,
 "kāi wǎng",
 "(of a bus, train etc) to leave for; heading for"
-],
-[
-"往日",
-6.14,
-"wǎng rì",
-"former days; the past"
 ]
 ],
 "strokes": [

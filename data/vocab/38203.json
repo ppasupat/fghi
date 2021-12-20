@@ -1,6 +1,6 @@
 {
 "char": "锻",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "forge metal; temper, refine",
 "pron": "duàn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "锻炼",
-3,
+4,
 "duàn liàn",
 "to toughen; to temper; to engage in physical exercise; to work out; (fig.) to develop one's skills; to train oneself"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"锻",
+2.17,
+"duàn",
+"to forge; to discipline; wrought"
+],
+[
+"锻造",
+1.94,
+"duàn zào",
+"to forge (metal); forging"
+]
+],
 "strokes": [
 "M 170 481 Q 176 493 186 503 Q 216 542 247 590 L 267 623 Q 321 725 341 745 Q 350 757 344 770 Q 340 782 310 803 Q 283 819 264 819 Q 245 816 255 795 Q 270 764 260 738 Q 206 585 61 395 Q 51 385 50 378 Q 47 368 61 370 Q 88 377 160 468 L 170 481 Z",
 "M 247 590 Q 271 587 353 609 Q 365 613 380 616 Q 396 622 398 624 Q 405 631 400 638 Q 393 648 367 651 Q 355 651 283 628 Q 274 627 267 623 C 240 610 217 592 247 590 Z",

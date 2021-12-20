@@ -1,6 +1,6 @@
 {
 "char": "傍",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "by side of, beside, near, close",
 "pron": "bàng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "傍晚",
-5,
+6,
 "bàng wǎn",
 "in the evening; when night falls; towards evening; at night fall; at dusk"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"傍",
+3.11,
+"bàng",
+"near; approaching; to depend on; (slang) to have an intimate relationship with sb; Taiwan pr. [pang2], [bang1], [bang4]"
+],
+[
+"依山傍水",
+0.49,
+"yī shān bàng shuǐ",
+"mountains on one side and water on the other"
+]
+],
 "strokes": [
 "M 253 550 Q 293 604 338 672 Q 366 721 390 745 Q 400 755 395 770 Q 391 783 361 808 Q 333 827 314 827 Q 295 826 303 802 Q 316 769 304 742 Q 231 577 71 392 Q 61 382 58 375 Q 54 363 69 366 Q 102 369 226 517 L 253 550 Z",
 "M 226 517 Q 229 508 234 500 Q 250 466 251 434 Q 250 392 249 352 Q 246 240 214 123 Q 210 104 218 70 Q 230 36 241 24 Q 259 8 271 35 Q 286 75 285 122 Q 291 402 301 464 Q 308 491 299 502 Q 257 548 253 550 C 231 571 214 544 226 517 Z",

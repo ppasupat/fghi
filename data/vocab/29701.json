@@ -1,12 +1,37 @@
 {
 "char": "琅",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "a variety of white carnelian; pure",
 "pron": "láng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"琳琅满目",
+2.13,
+"lín láng mǎn mù",
+"glittering jewels to delight the eye (idiom); fig. a dazzling lineup"
+],
+[
+"琅",
+1.76,
+"láng",
+"jade-like stone; clean and white; tinkling of pendants"
+],
+[
+"琅",
+1.76,
+"Láng",
+"see 琅玡山[Láng yá Shān]"
+],
+[
+"琅",
+1.76,
+"láng",
+"(gem); tinkling of pendants"
+]
+],
 "strokes": [
 "M 270 626 Q 384 665 386 667 Q 395 677 389 684 Q 380 696 349 699 Q 318 702 289 685 Q 264 675 236 664 Q 205 654 169 647 Q 132 637 161 623 Q 182 614 229 614 L 270 626 Z",
 "M 296 429 Q 323 439 352 447 Q 379 457 382 461 Q 389 470 384 477 Q 377 487 347 491 Q 322 494 298 483 L 246 460 Q 156 436 149 433 Q 115 423 141 410 Q 184 391 236 411 Q 240 412 247 414 L 296 429 Z",

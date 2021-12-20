@@ -1,85 +1,103 @@
 {
 "char": "测",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "measure, estimate, conjecture",
 "pron": "cè"
 },
 "words": [
 [
-"测验",
-5,
-"cè yàn",
-"test; to test; CL:次[ci4],個|个[ge4]"
-],
-[
-"推测",
-6,
-"tuī cè",
-"speculation; to conjecture; to surmise; to speculate"
+"测",
+4,
+"cè",
+"to survey; to measure; to conjecture"
 ],
 [
 "测量",
-6,
+4,
 "cè liáng",
 "survey; to measure; to gauge; to determine"
 ],
 [
-"探测",
-6,
-"tàn cè",
-"to probe; to take readings; to explore; exploration"
-]
-],
-"extraWords": [
-[
 "测试",
-80.04,
+4,
 "cè shì",
 "to test (machinery etc); to test (students); test; quiz; exam; beta (software)"
 ],
 [
 "检测",
-77.52,
+4,
 "jiǎn cè",
 "to detect; to test; detection; sensing"
 ],
 [
 "预测",
-61.28,
+4,
 "yù cè",
 "to forecast; to predict"
 ],
 [
-"监测",
-43.11,
-"jiān cè",
-"to monitor"
-],
-[
-"测定",
-39.21,
-"cè dìng",
-"to determine (by measuring or surveying)"
-],
-[
 "猜测",
-15.96,
+5,
 "cāi cè",
 "to guess; to conjecture; to surmise"
 ],
 [
+"测定",
+6,
+"cè dìng",
+"to determine (by measuring or surveying)"
+],
+[
+"监测",
+6,
+"jiān cè",
+"to monitor"
+],
+[
+"变幻莫测",
+7,
+"biàn huàn mò cè",
+"to change unpredictably; unpredictable; erratic; treacherous"
+],
+[
 "测算",
-10.05,
+7,
 "cè suàn",
 "to take measurements and calculate"
 ],
 [
+"测验",
+7,
+"cè yàn",
+"test; to test; CL:次[cì],个[gè]"
+],
+[
+"揣测",
+7,
+"chuǎi cè",
+"to guess; to conjecture"
+],
+[
 "观测",
-9.96,
+7,
 "guān cè",
 "to observe; to survey; observation (scientific etc)"
 ],
+[
+"探测",
+7,
+"tàn cè",
+"to probe; to take readings; to explore; exploration"
+],
+[
+"推测",
+7,
+"tuī cè",
+"speculation; to conjecture; to surmise; to speculate"
+]
+],
+"extraWords": [
 [
 "测评",
 7.3,

@@ -1,12 +1,37 @@
 {
 "char": "唧",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "chirping of insects; pump; (Cant.) a final particle",
 "pron": "jī"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"唧唧",
+2.03,
+"jī jī",
+"(onom.) chirping of insects, sighing noise etc"
+],
+[
+"唧",
+1.04,
+"jī",
+"(onom.) to pump (water)"
+],
+[
+"吧唧",
+0.78,
+"bā jī",
+"(onom.) squishing sound"
+],
+[
+"吧唧",
+0.78,
+"bā ji",
+"to smack one's lips"
+]
+],
 "strokes": [
 "M 128 577 Q 115 583 84 589 Q 72 592 69 587 Q 62 581 71 565 Q 102 498 118 387 Q 122 354 140 332 Q 158 310 163 325 Q 170 346 165 385 L 159 417 Q 143 517 139 549 C 136 574 136 574 128 577 Z",
 "M 288 436 Q 304 530 330 561 Q 351 586 328 600 Q 309 610 281 626 Q 262 636 244 624 Q 210 600 128 577 C 99 569 111 538 139 549 Q 142 552 224 574 Q 248 580 254 571 Q 263 564 255 523 Q 248 486 240 441 C 235 411 283 406 288 436 Z",

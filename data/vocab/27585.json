@@ -1,37 +1,61 @@
 {
 "char": "毁",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "destroy",
 "pron": "huǐ"
 },
 "words": [
 [
-"毁灭",
+"毁",
 6,
+"huǐ",
+"to destroy; to damage; to ruin; to defame; to slander"
+],
+[
+"毁",
+6,
+"huǐ",
+"variant of 毁[huǐ]; to destroy by fire; a blaze"
+],
+[
+"毁",
+6,
+"huǐ",
+"variant of 毁[huǐ]; to defame; to slander"
+],
+[
+"摧毁",
+7,
+"cuī huǐ",
+"to destroy; to wreck"
+],
+[
+"毁坏",
+7,
+"huǐ huài",
+"to damage; to devastate; to vandalize; damage; destruction"
+],
+[
+"毁灭",
+7,
 "huǐ miè",
 "to perish; to ruin; to destroy"
 ],
 [
+"烧毁",
+7,
+"shāo huǐ",
+"to burn; to burn down"
+],
+[
 "销毁",
-6,
+7,
 "xiāo huǐ",
 "to destroy (by melting or burning); to obliterate"
 ]
 ],
 "extraWords": [
-[
-"摧毁",
-25.25,
-"cuī huǐ",
-"to destroy; to wreck"
-],
-[
-"烧毁",
-6.95,
-"shāo huǐ",
-"to burn; to burn down"
-],
 [
 "坠毁",
 6.35,

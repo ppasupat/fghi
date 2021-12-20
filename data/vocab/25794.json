@@ -1,12 +1,31 @@
 {
 "char": "擂",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "rub, grind; grind with a mortar and pestle; triturate",
 "pron": "léi, lèi"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"擂台",
+2.1,
+"lèi tái",
+"elevated stage on which martial competitions or duels were held; arena; ring"
+],
+[
+"擂",
+1.72,
+"léi",
+"to pound (with a mortar and pestle); to hit (a person); to beat (a drum); to bang on (a door); (dialect) to scold"
+],
+[
+"擂",
+1.72,
+"lèi",
+"(bound form) platform for a martial art contest; Taiwan pr. [lei2]"
+]
+],
 "strokes": [
 "M 322 539 Q 331 543 344 546 Q 374 556 378 561 Q 385 570 380 577 Q 373 587 343 592 Q 333 593 324 591 L 276 574 Q 194 543 129 529 Q 95 519 122 506 Q 161 490 224 509 Q 248 518 275 524 L 322 539 Z",
 "M 271 342 Q 268 245 267 122 Q 266 98 252 89 Q 246 86 191 98 Q 161 111 163 101 Q 164 94 182 79 Q 236 30 249 2 Q 262 -29 277 -32 Q 290 -33 306 0 Q 325 43 325 114 Q 318 250 319 384 L 319 416 Q 319 477 322 539 L 324 591 Q 324 694 344 759 Q 360 787 308 809 Q 277 828 257 821 Q 241 815 255 793 Q 276 766 277 734 Q 278 716 276 574 L 275 524 Q 274 464 272 386 L 271 342 Z",

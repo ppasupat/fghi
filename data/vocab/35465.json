@@ -1,17 +1,11 @@
 {
 "char": "誉",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "fame, reputation; praise",
 "pron": "yù"
 },
 "words": [
-[
-"荣誉",
-6,
-"róng yù",
-"honor; credit; glory; (honorable) reputation; honorary"
-],
 [
 "名誉",
 6,
@@ -19,19 +13,44 @@
 "fame; reputation; honor; honorary; emeritus (of retired professor)"
 ],
 [
+"沽名钓誉",
+7,
+"gū míng diào yù",
+"to angle for fame (idiom); to fish for compliments"
+],
+[
+"荣誉",
+7,
+"róng yù",
+"honor; credit; glory; (honorable) reputation; honorary"
+],
+[
 "声誉",
-6,
+7,
 "shēng yù",
 "reputation; fame"
 ],
 [
 "信誉",
-6,
+7,
 "xìn yù",
 "prestige; distinction; reputation; trust"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"誉为",
+11.76,
+"???",
+"???"
+],
+[
+"誉",
+5.18,
+"yù",
+"to praise; to acclaim; reputation"
+]
+],
 "strokes": [
 "M 315 713 Q 339 691 364 665 Q 376 652 390 653 Q 400 653 405 665 Q 409 678 403 705 Q 399 724 370 738 Q 307 762 292 759 Q 288 755 288 744 Q 291 734 315 713 Z",
 "M 435 790 Q 481 711 502 705 Q 514 701 523 717 Q 527 727 522 748 Q 515 767 493 781 Q 459 806 444 813 Q 437 817 433 806 Q 430 799 435 790 Z",

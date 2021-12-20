@@ -1,11 +1,23 @@
 {
 "char": "至",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "reach, arrive; extremely, very",
 "pron": "zhì"
 },
 "words": [
+[
+"至今",
+3,
+"zhì jīn",
+"so far; to this day; until now"
+],
+[
+"至少",
+3,
+"zhì shǎo",
+"at least; (to say the) least"
+],
 [
 "甚至",
 4,
@@ -13,28 +25,16 @@
 "even; so much so that"
 ],
 [
-"至少",
-4,
-"zhì shǎo",
-"at least; (to say the) least"
-],
-[
-"至于",
+"至",
 5,
-"zhì yú",
-"as for; as to; to go so far as to"
+"zhì",
+"to arrive; most; to; until"
 ],
 [
-"至今",
-5,
-"zhì jīn",
-"so far; to this day; until now"
-],
-[
-"以至",
+"不至于",
 6,
-"yǐ zhì",
-"down to; up to; to such an extent as to ...; also written 以至於|以至于[yi3 zhi4 yu2]"
+"bù zhì yú",
+"unlikely to go so far as to; not as bad as"
 ],
 [
 "截至",
@@ -43,30 +43,66 @@
 "up to (a time); by (a time)"
 ],
 [
-"无微不至",
+"至于",
 6,
-"wú wēi bù zhì",
-"in every possible way (idiom); meticulous"
-]
+"zhì yú",
+"as for; as to; to go so far as to"
 ],
-"extraWords": [
 [
 "乃至",
-25.18,
+7,
 "nǎi zhì",
 "and even; to go so far as to"
 ],
 [
+"甚至于",
+7,
+"shèn zhì yú",
+"so much (that); even (to the extent that)"
+],
+[
+"无微不至",
+7,
+"wú wēi bù zhì",
+"in every possible way (idiom); meticulous"
+],
+[
+"以至于",
+7,
+"yǐ zhì yú",
+"down to; up to; to the extent that..."
+],
+[
 "直至",
-18.35,
+7,
 "zhí zhì",
 "lasting until; up till (the present)"
 ],
 [
 "至此",
-15.66,
+7,
 "zhì cǐ",
 "up until now; so far"
+],
+[
+"至关重要",
+7,
+"zhì guān zhòng yào",
+"extremely important; vital; crucial; essential"
+],
+[
+"自始至终",
+7,
+"zì shǐ zhì zhōng",
+"from start to finish (idiom)"
+]
+],
+"extraWords": [
+[
+"降至",
+12.85,
+"???",
+"???"
 ],
 [
 "冬至",
@@ -75,22 +111,22 @@
 "Winter Solstice, 22nd of the 24 solar terms 二十四節氣|二十四节气 22nd December-5th January"
 ],
 [
-"至关重要",
-10.22,
-"zhì guān zhòng yào",
-"extremely important; vital; crucial; essential"
+"截至目前",
+8.31,
+"???",
+"???"
 ],
 [
-"不至于",
-9.66,
-"bù zhì yú",
-"unlikely to go so far as to; not as bad as"
+"增至",
+7.84,
+"???",
+"???"
 ],
 [
-"以至于",
-9.19,
-"yǐ zhì yú",
-"down to; up to; to the extent that..."
+"以至",
+7.58,
+"yǐ zhì",
+"down to; up to; to such an extent as to ...; also written 以至于[yǐ zhì yú]"
 ],
 [
 "至极",

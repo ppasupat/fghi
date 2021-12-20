@@ -1,6 +1,6 @@
 {
 "char": "渠",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "ditch, canal, channel, gutter",
 "pron": "qú"
@@ -13,7 +13,26 @@
 "irrigation ditch; (fig.) channel; means"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"渠",
+4.74,
+"Qú",
+"surname Qu"
+],
+[
+"渠",
+4.74,
+"jù",
+"how can it be that?"
+],
+[
+"渠",
+4.74,
+"qú",
+"big; stream or canal; drain; ditch; CL:条[tiáo]; him (dialect); outer rim of a carriage wheel (old)"
+]
+],
 "strokes": [
 "M 306 771 Q 330 752 356 729 Q 369 719 383 719 Q 393 720 397 732 Q 401 745 391 773 Q 382 798 300 815 Q 285 818 280 815 Q 276 811 277 799 Q 281 789 306 771 Z",
 "M 227 654 Q 273 608 303 598 Q 316 597 324 608 Q 328 620 325 634 Q 313 671 241 686 Q 237 687 235 688 Q 220 691 213 687 Q 207 686 210 675 Q 211 665 227 654 Z",

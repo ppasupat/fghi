@@ -1,6 +1,6 @@
 {
 "char": "让",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "allow, permit, yield, concede",
 "pron": "ràng"
@@ -10,22 +10,40 @@
 "让",
 2,
 "ràng",
-"to yield; to permit; to let sb do sth; to have sb do sth; to make sb (feel sad etc); by (indicates the agent in a passive clause, like 被[bei4])"
+"to yield; to permit; to let sb do sth; to have sb do sth; to make sb (feel sad etc); by (indicates the agent in a passive clause, like 被[bèi])"
+],
+[
+"转让",
+5,
+"zhuǎn ràng",
+"to transfer (ownership, rights etc)"
+],
+[
+"让座",
+6,
+"ràng zuò",
+"to give up one's seat for sb"
 ],
 [
 "让步",
-6,
+7,
 "ràng bù",
 "to concede; to give in; to yield; a concession; (linguistics) concessive"
 ],
 [
-"转让",
-6,
-"zhuǎn ràng",
-"to transfer (ownership, rights etc)"
+"退让",
+7,
+"tuì ràng",
+"to move aside; to get out of the way; to back down; to concede"
 ]
 ],
 "extraWords": [
+[
+"让人",
+144.46,
+"???",
+"???"
+],
 [
 "出让",
 14.79,

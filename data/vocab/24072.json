@@ -1,6 +1,6 @@
 {
 "char": "师",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "teacher, master, specialist",
 "pron": "shī"
@@ -10,7 +10,19 @@
 "老师",
 1,
 "lǎo shī",
-"teacher; CL:個|个[ge4],位[wei4]"
+"teacher; CL:个[gè],位[wèi]"
+],
+[
+"教师",
+2,
+"jiào shī",
+"teacher; CL:个[gè]"
+],
+[
+"工程师",
+3,
+"gōng chéng shī",
+"engineer; CL:个[gè],位[wèi],名[míng]"
 ],
 [
 "律师",
@@ -19,54 +31,96 @@
 "lawyer"
 ],
 [
-"师傅",
-4,
-"shī fu",
-"master; qualified worker; respectful form of address for older men; CL:個|个[ge4],位[wei4],名[ming2]"
+"摄影师",
+5,
+"shè yǐng shī",
+"photographer; cameraman"
 ],
 [
-"工程师",
+"师傅",
 5,
-"gōng chéng shī",
-"engineer; CL:個|个[ge4],位[wei4],名[ming2]"
+"shī fu",
+"master; qualified worker; respectful form of address for older men; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"厨师",
+6,
+"chú shī",
+"cook; chef"
+],
+[
+"大师",
+6,
+"dà shī",
+"great master; master"
+],
+[
+"设计师",
+6,
+"shè jì shī",
+"designer; architect"
+],
+[
+"师父",
+6,
+"shī fu",
+"used for 師傅|师傅 (in Taiwan); master; qualified worker"
+],
+[
+"师生",
+6,
+"shī shēng",
+"teachers and students"
+],
+[
+"导师",
+7,
+"dǎo shī",
+"tutor; teacher; academic advisor"
+],
+[
+"建筑师",
+7,
+"jiàn zhù shī",
+"architect"
 ],
 [
 "师范",
-6,
+7,
 "shī fàn",
 "teacher-training; pedagogical; normal (school, e.g. Beijing Normal University)"
+],
+[
+"师长",
+7,
+"shī zhǎng",
+"military division level commander; teacher"
+],
+[
+"师资",
+7,
+"shī zī",
+"qualified teacher"
 ]
 ],
 "extraWords": [
 [
-"教师",
-109.48,
-"jiào shī",
-"teacher; CL:個|个[ge4]"
+"师",
+90.32,
+"Shī",
+"surname Shi"
 ],
 [
-"大师",
-40.42,
-"dà shī",
-"great master; master"
+"师",
+90.32,
+"shī",
+"teacher; master; expert; model; army division; (old) troops; to dispatch troops"
 ],
 [
 "牧师",
 39.29,
 "mù shī",
 "chaplain; churchman; clergyman; parson; pastor; priest; rector"
-],
-[
-"设计师",
-24.79,
-"shè jì shī",
-"designer; architect"
-],
-[
-"摄影师",
-22.27,
-"shè yǐng shī",
-"photographer; cameraman"
 ],
 [
 "分析师",
@@ -81,12 +135,6 @@
 "accountant"
 ],
 [
-"师生",
-16.15,
-"shī shēng",
-"teachers and students"
-],
-[
 "巫师",
 15.08,
 "wū shī",
@@ -99,28 +147,16 @@
 "doctor"
 ],
 [
-"师父",
-13.67,
-"shī fu",
-"used for 師傅|师傅 (in Taiwan); master; qualified worker"
-],
-[
 "师兄",
 13.2,
 "shī xiōng",
 "senior male fellow student or apprentice; son (older than oneself) of one's teacher"
 ],
 [
-"厨师",
-13.06,
-"chú shī",
-"cook; chef"
-],
-[
-"导师",
-11.68,
-"dǎo shī",
-"tutor; teacher; academic advisor"
+"辩护律师",
+9.57,
+"???",
+"???"
 ],
 [
 "法师",
@@ -135,22 +171,10 @@
 "magician"
 ],
 [
-"师资",
-7.57,
-"shī zī",
-"qualified teacher"
-],
-[
-"建筑师",
-5.93,
-"jiàn zhù shī",
-"architect"
-],
-[
 "师大",
 5.18,
 "shī dà",
-"abbr. for 師範大學|师范大学[shi1 fan4 da4 xue2], normal university; teacher training college"
+"abbr. for 师范大学[shī fàn dà xué], normal university; teacher training college"
 ],
 [
 "师弟",

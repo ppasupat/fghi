@@ -1,6 +1,6 @@
 {
 "char": "以",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "by means of; thereby, therefore; consider as; in order to",
 "pron": "yǐ"
@@ -19,52 +19,88 @@
 "therefore; as a result; so; the reason why"
 ],
 [
+"以后",
+2,
+"yǐ hòu",
+"after; later; afterwards; following; later on; in the future"
+],
+[
 "以前",
-3,
+2,
 "yǐ qián",
 "before; formerly; previous; ago"
 ],
 [
-"以",
-4,
-"yǐ",
-"old variant of 以[yi3]"
+"以上",
+2,
+"yǐ shàng",
+"that level or higher; that amount or more; the above-mentioned; (used to indicate that one has completed one's remarks) That is all."
 ],
 [
-"以",
-4,
-"yǐ",
-"old variant of 以[yi3]"
-],
-[
-"以",
-4,
-"Yǐ",
-"abbr. for Israel 以色列[Yi3 se4 lie4]"
-],
-[
-"以",
-4,
-"yǐ",
-"to use; by means of; according to; in order to; because of; at (a certain date or place)"
+"以外",
+2,
+"yǐ wài",
+"apart from; other than; except for; external; outside of; on the other side of; beyond"
 ],
 [
 "以为",
-4,
+2,
 "yǐ wéi",
 "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)"
 ],
 [
+"以下",
+2,
+"yǐ xià",
+"that level or lower; that amount or less; the following"
+],
+[
+"以来",
+3,
+"yǐ lái",
+"since (a previous event)"
+],
+[
 "以及",
-5,
+4,
 "yǐ jí",
 "as well as; too; and"
 ],
 [
-"以来",
+"以内",
+4,
+"yǐ nèi",
+"within; less than"
+],
+[
+"得以",
 5,
-"yǐ lái",
-"since (a previous event)"
+"dé yǐ",
+"able to; so that sb can; enabling; in order to; finally in a position to; with sth in view"
+],
+[
+"加以",
+5,
+"jiā yǐ",
+"in addition; moreover; (used before a disyllabic verb to indicate that the action of the verb is applied to sth or sb previously mentioned); to apply (restrictions etc) to (sb); to give (support, consideration etc) to (sth)"
+],
+[
+"难以",
+5,
+"nán yǐ",
+"hard to (predict, imagine etc)"
+],
+[
+"以便",
+5,
+"yǐ biàn",
+"so that; so as to; in order to"
+],
+[
+"以往",
+5,
+"yǐ wǎng",
+"in the past; formerly"
 ],
 [
 "足以",
@@ -73,108 +109,132 @@
 "sufficient to...; so much so that; so that"
 ],
 [
-"以便",
-6,
-"yǐ biàn",
-"so that; so as to; in order to"
+"不以为然",
+7,
+"bù yǐ wéi rán",
+"not to accept as correct (idiom); to object; to disapprove; to take exception to"
 ],
 [
-"以往",
-6,
-"yǐ wǎng",
-"in the past; formerly"
+"长期以来",
+7,
+"cháng qī yǐ lái",
+"for a long time"
 ],
 [
-"全力以赴",
-6,
-"quán lì yǐ fù",
-"to do at all costs; to make an all-out effort"
+"持之以恒",
+7,
+"chí zhī yǐ héng",
+"to pursue unremittingly (idiom); to persevere"
 ],
 [
-"以免",
-6,
-"yǐ miǎn",
-"in order to avoid; so as not to"
+"从今以后",
+7,
+"cóng jīn yǐ hòu",
+"from now on; henceforward"
 ],
 [
-"以致",
-6,
-"yǐ zhì",
-"to such an extent as to; down to; up to"
-],
-[
-"以至",
-6,
-"yǐ zhì",
-"down to; up to; to such an extent as to ...; also written 以至於|以至于[yi3 zhi4 yu2]"
-]
-],
-"extraWords": [
-[
-"以上",
-297.61,
-"yǐ shàng",
-"that level or higher; that amount or more; the above-mentioned; (used to indicate that one has completed one's remarks) That is all."
-],
-[
-"以后",
-275.04,
-"yǐ hòu",
-"after; later; afterwards; following; later on; in the future"
-],
-[
-"以下",
-140.76,
-"yǐ xià",
-"that level or lower; that amount or less; the following"
-],
-[
-"难以",
-94.49,
-"nán yǐ",
-"hard to (predict, imagine etc)"
+"难以想象",
+7,
+"???",
+"???"
 ],
 [
 "难以置信",
-51.63,
+7,
 "nán yǐ zhì xìn",
 "hard to believe; incredible"
 ],
 [
-"以色列",
-48.31,
-"Yǐ sè liè",
-"Israel"
+"全力以赴",
+7,
+"quán lì yǐ fù",
+"to do at all costs; to make an all-out effort"
+],
+[
+"如愿以偿",
+7,
+"rú yuàn yǐ cháng",
+"to have one's wish fulfilled"
+],
+[
+"夜以继日",
+7,
+"yè yǐ jì rì",
+"night and day (idiom); continuous strenuous effort"
+],
+[
+"以",
+7,
+"yǐ",
+"old variant of 以[yǐ]"
+],
+[
+"以",
+7,
+"yǐ",
+"old variant of 以[yǐ]"
+],
+[
+"以",
+7,
+"Yǐ",
+"abbr. for Israel 以色列[Yǐ sè liè]"
+],
+[
+"以",
+7,
+"yǐ",
+"to use; by means of; according to; in order to; because of; at (a certain date or place)"
+],
+[
+"以免",
+7,
+"yǐ miǎn",
+"in order to avoid; so as not to"
+],
+[
+"以身作则",
+7,
+"yǐ shēn zuò zé",
+"to set an example (idiom); to serve as a model"
+],
+[
+"以至于",
+7,
+"yǐ zhì yú",
+"down to; up to; to the extent that..."
+],
+[
+"以致",
+7,
+"yǐ zhì",
+"to such an extent as to; down to; up to"
 ],
 [
 "予以",
-45.96,
+7,
 "yǔ yǐ",
 "to give; to impose; to apply"
 ],
 [
 "之所以",
-43.97,
+7,
 "zhī suǒ yǐ",
-"(after a noun N and before a predicate P) the reason why N P; Example: 我之所以討厭他|我之所以讨厌他[wo3 zhi1 suo3 yi3 tao3 yan4 ta1] \"the reason why I dislike him (is ...)\""
+"(after a noun N and before a predicate P) the reason why N P; Example: 我之所以讨厌他[wǒ zhī suǒ yǐ tǎo yàn tā] \"the reason why I dislike him (is ...)\""
 ],
 [
-"以外",
-39.84,
-"yǐ wài",
-"apart from; other than; except for; external; outside of; on the other side of; beyond"
+"自以为是",
+7,
+"zì yǐ wéi shì",
+"to believe oneself infallible (idiom); to be opinionated"
+]
 ],
+"extraWords": [
 [
-"加以",
-36.82,
-"jiā yǐ",
-"in addition; moreover; (used before a disyllabic verb to indicate that the action of the verb is applied to sth or sb previously mentioned); to apply (restrictions etc) to (sb); to give (support, consideration etc) to (sth)"
-],
-[
-"得以",
-31.8,
-"dé yǐ",
-"able to; so that sb can; enabling; in order to; finally in a position to; with sth in view"
+"以色列",
+48.31,
+"Yǐ sè liè",
+"Israel"
 ],
 [
 "以此",
@@ -183,10 +243,10 @@
 "with this; thereby; thus; because of this"
 ],
 [
-"以内",
-18.67,
-"yǐ nèi",
-"within; less than"
+"可以说是",
+18.02,
+"???",
+"???"
 ],
 [
 "何以",
@@ -207,28 +267,34 @@
 "to guard against the unexpected (idiom); just in case; prepared for any eventualities"
 ],
 [
-"以至于",
-9.19,
-"yǐ zhì yú",
-"down to; up to; to the extent that..."
-],
-[
 "以人为本",
 8.77,
 "yǐ rén wéi běn",
 "people-oriented"
 ],
 [
+"可不可以",
+8.47,
+"???",
+"???"
+],
+[
+"处以",
+8.22,
+"???",
+"???"
+],
+[
+"以至",
+7.58,
+"yǐ zhì",
+"down to; up to; to such an extent as to ...; also written 以至于[yǐ zhì yú]"
+],
+[
 "用以",
 7.17,
 "yòng yǐ",
 "in order to; so as to"
-],
-[
-"自以为是",
-6.95,
-"zì yǐ wéi shì",
-"to believe oneself infallible (idiom); to be opinionated"
 ],
 [
 "以防",

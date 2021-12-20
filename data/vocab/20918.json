@@ -1,11 +1,18 @@
 {
 "char": "冶",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "smelt, fuse metals; cast, found",
 "pron": "yě"
 },
-"words": [],
+"words": [
+[
+"陶冶",
+7,
+"táo yě",
+"lit. to fire pots and smelt metal; fig. to educate"
+]
+],
 "extraWords": [
 [
 "冶金",

@@ -1,6 +1,6 @@
 {
 "char": "史",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "history, chronicle, annals",
 "pron": "shǐ"
@@ -8,12 +8,30 @@
 "words": [
 [
 "历史",
-3,
+4,
 "lì shǐ",
-"history; CL:門|门[men2],段[duan4]"
+"history; CL:门[mén],段[duàn]"
+],
+[
+"史无前例",
+7,
+"shǐ wú qián lì",
+"unprecedented in history"
 ]
 ],
 "extraWords": [
+[
+"史",
+70.71,
+"Shǐ",
+"surname Shi"
+],
+[
+"史",
+70.71,
+"shǐ",
+"history; annals; title of an official historian in ancient China"
+],
 [
 "历史上",
 36.48,

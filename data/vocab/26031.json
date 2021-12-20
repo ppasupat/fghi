@@ -1,19 +1,37 @@
 {
 "char": "斯",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "this, thus, such; to lop off; emphatic particle",
 "pron": "sī"
 },
 "words": [
 [
-"斯文",
-6,
-"sī wén",
-"refined; educate; cultured; intellectual; polite; gentle"
+"穆斯林",
+7,
+"Mù sī lín",
+"Muslim"
+],
+[
+"伊斯兰教",
+7,
+"Yī sī lán jiào",
+"Islam"
 ]
 ],
 "extraWords": [
+[
+"斯",
+162.6,
+"Sī",
+"Slovakia; Slovak; abbr. for 斯洛伐克[Sī luò fá kè]"
+],
+[
+"斯",
+162.6,
+"sī",
+"(phonetic); this"
+],
 [
 "俄罗斯",
 91.81,
@@ -45,6 +63,18 @@
 "Moscow, capital of Russia"
 ],
 [
+"克里斯",
+18.87,
+"???",
+"???"
+],
+[
+"维加斯",
+18.36,
+"???",
+"???"
+],
+[
 "拉斯维加斯",
 17.32,
 "Lā sī Wéi jiā sī",
@@ -69,6 +99,12 @@
 "Charles"
 ],
 [
+"麦克斯",
+15.05,
+"???",
+"???"
+],
+[
 "琼斯",
 14.31,
 "Qióng sī",
@@ -81,10 +117,22 @@
 "Dennis (name)"
 ],
 [
+"斯坦",
+12.94,
+"???",
+"???"
+],
+[
 "奥斯卡",
 12.67,
 "Ào sī kǎ",
-"(film industry) Oscar (Academy Award); CL:屆|届[jie4]; (name) Oscar"
+"(film industry) Oscar (Academy Award); CL:届[jiè]; (name) Oscar"
+],
+[
+"亚历克斯",
+12.22,
+"???",
+"???"
 ],
 [
 "德克萨斯",
@@ -93,22 +141,46 @@
 "Texas"
 ],
 [
+"雷斯",
+10.88,
+"???",
+"???"
+],
+[
 "布鲁斯",
 10.76,
 "bù lǔ sī",
 "blues (music) (loanword)"
 ],
 [
+"斯科特",
+10.37,
+"???",
+"???"
+],
+[
+"迈尔斯",
+10.37,
+"???",
+"???"
+],
+[
+"里斯",
+10.28,
+"???",
+"???"
+],
+[
+"莫里斯",
+10.16,
+"???",
+"???"
+],
+[
 "史密斯",
 9.78,
 "Shǐ mì sī",
 "Smith (name)"
-],
-[
-"穆斯林",
-9.39,
-"Mù sī lín",
-"Muslim"
 ],
 [
 "哈马斯",
@@ -132,7 +204,7 @@
 "罗斯",
 7.84,
 "Luó sī",
-"Roth, Ross, Rose or Rossi (name); Kenneth Roth (1955-), executive director of Human Rights Watch 人權觀察|人权观察[Ren2 quan2 Guan1 cha2]; Rus' (as in Kievan Rus' 基輔羅斯|基辅罗斯[Ji1 fu3 Luo2 si1])"
+"Roth, Ross, Rose or Rossi (name); Kenneth Roth (1955-), executive director of Human Rights Watch 人权观察[Rén quán Guān chá]; Rus' (as in Kievan Rus' 基辅罗斯[Jī fǔ Luó sī])"
 ],
 [
 "达拉斯",
@@ -153,6 +225,18 @@
 "Rice (name); Condoleezza Rice (1954-) US Secretary of State 2005-2009"
 ],
 [
+"哈里斯",
+6.74,
+"???",
+"???"
+],
+[
+"贾斯汀",
+6.53,
+"???",
+"???"
+],
+[
 "尼斯",
 6.5,
 "Ní sī",
@@ -165,6 +249,12 @@
 "Joseph Stalin (1879-1953), Soviet dictator"
 ],
 [
+"休斯",
+6.44,
+"???",
+"???"
+],
+[
 "阿拉斯加",
 6.41,
 "Ā lā sī jiā",
@@ -175,6 +265,12 @@
 6.39,
 "Yī sī lán",
 "Islam"
+],
+[
+"刘易斯",
+6.02,
+"???",
+"???"
 ],
 [
 "波斯",
@@ -213,6 +309,12 @@
 "Juventus, Italian football team"
 ],
 [
+"弗朗西斯",
+5.37,
+"???",
+"???"
+],
+[
 "柯林斯",
 5.37,
 "Kē lín sī",
@@ -243,10 +345,16 @@
 "Jobs (name); see also 史蒂夫·喬布斯|史蒂夫·乔布斯[Shi3 di4 fu1 · Qiao2 bu4 si1], Steve Jobs"
 ],
 [
+"柯蒂斯",
+5.04,
+"???",
+"???"
+],
+[
 "迪斯尼",
 5.03,
 "Dí sī ní",
-"Disney (company name, surname); also written 迪士尼[Di2 shi4 ni2]"
+"Disney (company name, surname); also written 迪士尼[Dí shì ní]"
 ]
 ],
 "strokes": [

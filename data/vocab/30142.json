@@ -1,30 +1,36 @@
 {
 "char": "疾",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "illness, disease, sickness; to hate",
 "pron": "jí"
 },
 "words": [
 [
-"疾病",
-6,
-"jí bìng",
-"disease; sickness; ailment"
-],
-[
 "残疾",
 6,
 "cán jí",
 "disabled; handicapped; deformity on a person or animal"
+],
+[
+"残疾人",
+6,
+"cán jí rén",
+"disabled person"
+],
+[
+"疾病",
+6,
+"jí bìng",
+"disease; sickness; ailment"
 ]
 ],
 "extraWords": [
 [
-"残疾人",
-16.64,
-"cán jí rén",
-"disabled person"
+"疾",
+20.83,
+"jí",
+"sickness; disease; hate; envy; swift"
 ]
 ],
 "strokes": [

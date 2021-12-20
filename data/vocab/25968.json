@@ -1,114 +1,192 @@
 {
 "char": "数",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "number; several, count; fate",
 "pron": "shǔ, shù, shuò"
 },
 "words": [
 [
-"数学",
-3,
-"shù xué",
-"mathematics; mathematical"
-],
-[
-"数字",
-4,
-"shù zì",
-"numeral; digit; number; figure; amount; digital (electronics etc); CL:個|个[ge4]"
-],
-[
-"数量",
-4,
-"shù liàng",
-"amount; quantity; CL:個|个[ge4]; quantitative"
-],
-[
-"数",
-5,
-"shǔ",
-"to count; to count as; to regard as; to enumerate (sb's shortcomings)"
-],
-[
-"数",
-5,
-"shù",
-"number; figure; several; CL:個|个[ge4]"
-],
-[
-"数",
-5,
-"shuò",
-"frequently; repeatedly"
-],
-[
-"数据",
-5,
-"shù jù",
-"data; numbers; digital"
-],
-[
-"无数",
-5,
-"wú shù",
-"countless; numberless; innumerable"
-],
-[
-"数码",
-5,
-"shù mǎ",
-"number; numerals; figures; digital; amount; numerical code"
-],
-[
-"算数",
-6,
-"suàn shù",
-"to count numbers; to keep to one's word; to hold (i.e. to remain valid); to count (i.e. to be important)"
-],
-[
-"数额",
-6,
-"shù é",
-"amount; sum of money; fixed number"
-]
-],
-"extraWords": [
-[
-"指数",
-93.54,
-"zhǐ shù",
-"(numerical, statistical) index; (math.) exponent; index; exponential (function, growth)"
-],
-[
-"人数",
-68.88,
-"rén shù",
-"number of people"
-],
-[
 "大多数",
-55.6,
+2,
 "dà duō shù",
 "(great) majority"
 ],
 [
 "多数",
-41.77,
+2,
 "duō shù",
 "majority; most"
 ],
 [
+"分数",
+2,
+"fēn shù",
+"(exam) grade; mark; score; fraction"
+],
+[
+"人数",
+2,
+"rén shù",
+"number of people"
+],
+[
+"少数",
+2,
+"shǎo shù",
+"small number; few; minority"
+],
+[
+"数",
+2,
+"shǔ",
+"to count; to count as; to regard as; to enumerate (sb's shortcomings)"
+],
+[
+"数",
+2,
+"shù",
+"number; figure; several; CL:个[gè]"
+],
+[
+"数",
+2,
+"shuò",
+"frequently; repeatedly"
+],
+[
+"数字",
+2,
+"shù zì",
+"numeral; digit; number; figure; amount; digital (electronics etc); CL:个[gè]"
+],
+[
+"数量",
+3,
+"shù liàng",
+"amount; quantity; CL:个[gè]; quantitative"
+],
+[
+"数据",
+4,
+"shù jù",
+"data; numbers; digital"
+],
+[
+"数码",
+4,
+"shù mǎ",
+"number; numerals; figures; digital; amount; numerical code"
+],
+[
+"无数",
+4,
+"wú shù",
+"countless; numberless; innumerable"
+],
+[
+"数目",
+5,
+"shù mù",
+"amount; number"
+],
+[
 "总数",
-32.37,
+5,
 "zǒng shù",
 "total; sum; aggregate"
 ],
 [
-"少数",
-31.54,
-"shǎo shù",
-"small number; few; minority"
+"次数",
+6,
+"cì shù",
+"number of times; frequency; order number (in a series); power (math.); degree of a polynomial (math.)"
+],
+[
+"绝大多数",
+6,
+"jué dà duō shù",
+"absolute majority; overwhelming majority"
+],
+[
+"岁数",
+6,
+"suì shu",
+"age (number of years old)"
+],
+[
+"指数",
+6,
+"zhǐ shù",
+"(numerical, statistical) index; (math.) exponent; index; exponential (function, growth)"
+],
+[
+"半数",
+7,
+"bàn shù",
+"half the number; half"
+],
+[
+"大数据",
+7,
+"dà shù jù",
+"big data (computing)"
+],
+[
+"倒数",
+7,
+"dào shǔ",
+"to count backwards (from 10 down to 0); to count down; from the bottom (lines on a page); from the back (rows of seats)"
+],
+[
+"倒数",
+7,
+"dào shù",
+"inverse number; reciprocal (math.)"
+],
+[
+"极少数",
+7,
+"jí shǎo shù",
+"extremely few; a small minority"
+],
+[
+"数额",
+7,
+"shù é",
+"amount; sum of money; fixed number"
+],
+[
+"数据库",
+7,
+"shù jù kù",
+"database"
+],
+[
+"未知数",
+7,
+"wèi zhī shù",
+"unknown quantity"
+],
+[
+"招数",
+7,
+"zhāo shù",
+"move (in chess, on stage, in martial arts); gambit; trick; scheme; movement; same as 着数[zhāo shù]"
+],
+[
+"整数",
+7,
+"zhěng shù",
+"whole number; integer (math.); round figure"
+]
+],
+"extraWords": [
+[
+"数学",
+41.92,
+"shù xué",
+"mathematics; mathematical"
 ],
 [
 "参数",
@@ -123,16 +201,10 @@
 "national minority; ethnic group"
 ],
 [
-"绝大多数",
-21.65,
-"jué dà duō shù",
-"absolute majority; overwhelming majority"
-],
-[
-"次数",
-18.65,
-"cì shù",
-"number of times; frequency; order number (in a series); power (math.); degree of a polynomial (math.)"
+"数十",
+20.21,
+"???",
+"???"
 ],
 [
 "系数",
@@ -147,40 +219,22 @@
 "several hundred"
 ],
 [
-"数据库",
-14.99,
-"shù jù kù",
-"database"
-],
-[
-"分数",
-14.71,
-"fēn shù",
-"(exam) grade; mark; score; fraction"
-],
-[
-"倒数",
-14.1,
-"dào shǔ",
-"to count backwards (from 10 down to 0); to count down; from the bottom (lines on a page); from the back (rows of seats)"
-],
-[
-"倒数",
-14.1,
-"dào shù",
-"inverse number; reciprocal (math.)"
-],
-[
-"数目",
-11.91,
-"shù mù",
-"amount; number"
+"数千",
+10.59,
+"???",
+"???"
 ],
 [
 "函数",
 9.74,
 "hán shù",
 "function (math.)"
+],
+[
+"有数",
+8.97,
+"???",
+"???"
 ],
 [
 "数值",
@@ -192,7 +246,7 @@
 "为数",
 6.87,
 "wéi shù",
-"in numerical terms (typically followed by 不少[bu4 shao3] or 不多[bu4 duo1] or a number)"
+"in numerical terms (typically followed by 不少[bù shǎo] or 不多[bù duō] or a number)"
 ],
 [
 "数字化",
@@ -207,16 +261,22 @@
 "cardinal number; (math.) radix; base"
 ],
 [
-"半数",
-6.38,
-"bàn shù",
-"half the number; half"
-],
-[
 "数万",
 6.17,
 "shù wàn",
 "several tens of thousands; many thousand"
+],
+[
+"算数",
+5.99,
+"suàn shù",
+"to count numbers; to keep to one's word; to hold (i.e. to remain valid); to count (i.e. to be important)"
+],
+[
+"少数人",
+5.85,
+"???",
+"???"
 ],
 [
 "计数",

@@ -1,6 +1,6 @@
 {
 "char": "逗",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "tempt, allure, arouse, stir",
 "pron": "dòu"
@@ -8,9 +8,9 @@
 "words": [
 [
 "逗",
-5,
+7,
 "dòu",
-"to stay; to stop; to tease (play with); amusing; short pause in reading aloud, equivalent to comma (also written 讀|读[dou4])"
+"to stay; to stop; to tease (play with); amusing; short pause in reading aloud, equivalent to comma (also written 读[dòu])"
 ]
 ],
 "extraWords": [
@@ -19,6 +19,12 @@
 5.63,
 "tiǎo dòu",
 "to provoke; to entice; to lure; to tantalize; to tease; to titillate"
+],
+[
+"逗留",
+3.79,
+"dòu liú",
+"to stay at; to stop over"
 ]
 ],
 "strokes": [

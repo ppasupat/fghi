@@ -1,6 +1,6 @@
 {
 "char": "址",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "site, location, land for house",
 "pron": "zhǐ"
@@ -10,21 +10,39 @@
 "地址",
 4,
 "dì zhǐ",
-"address; CL:個|个[ge4]"
-]
+"address; CL:个[gè]"
 ],
-"extraWords": [
+[
+"网址",
+4,
+"wǎng zhǐ",
+"website; web address; URL"
+],
 [
 "遗址",
-12.7,
+7,
 "yí zhǐ",
 "ruins; historic relics"
 ],
 [
 "住址",
-6.38,
+7,
 "zhù zhǐ",
 "address"
+]
+],
+"extraWords": [
+[
+"址",
+14.34,
+"zhǐ",
+"location; site; foundation of a building"
+],
+[
+"址",
+14.34,
+"zhǐ",
+"foundation of a building (variant of 址[zhǐ]); islet (variant of 沚[zhǐ])"
 ]
 ],
 "strokes": [

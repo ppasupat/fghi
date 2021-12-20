@@ -1,6 +1,6 @@
 {
 "char": "党",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "political party, gang, faction",
 "pron": "dǎng"
@@ -16,7 +16,13 @@
 "党",
 6,
 "dǎng",
-"party; association; club; society; CL:個|个[ge4]"
+"party; association; club; society; CL:个[gè]"
+],
+[
+"政党",
+6,
+"zhèng dǎng",
+"political party; CL:个[gè]"
 ]
 ],
 "extraWords": [
@@ -24,7 +30,7 @@
 "党员",
 51.48,
 "dǎng yuán",
-"party member; CL:名[ming2],位[wei4],個|个[ge4]"
+"party member; CL:名[míng],位[wèi],个[gè]"
 ],
 [
 "党委",
@@ -75,10 +81,22 @@
 "Communist Party member"
 ],
 [
-"政党",
-11.54,
-"zhèng dǎng",
-"political party; CL:個|个[ge4]"
+"党支部",
+14.97,
+"???",
+"???"
+],
+[
+"党组织",
+14.41,
+"???",
+"???"
+],
+[
+"全党",
+9.14,
+"???",
+"???"
 ],
 [
 "民主党",
@@ -93,6 +111,12 @@
 "Republican Party"
 ],
 [
+"党风",
+8.68,
+"???",
+"???"
+],
+[
 "党组",
 6.97,
 "dǎng zǔ",
@@ -103,6 +127,12 @@
 6.82,
 "Zhēn zhǔ dǎng",
 "Hezbollah (Lebanon Islamic group)"
+],
+[
+"民主党派",
+6.16,
+"???",
+"???"
 ],
 [
 "黑手党",

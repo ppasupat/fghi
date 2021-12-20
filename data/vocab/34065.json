@@ -1,31 +1,38 @@
 {
 "char": "蔑",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "disdain, disregard; slight",
 "pron": "miè"
 },
 "words": [
 [
+"轻蔑",
+7,
+"qīng miè",
+"to contempt; to disdain; pejorative"
+]
+],
+"extraWords": [
+[
 "蔑视",
-6,
+2.62,
 "miè shì",
 "to loathe; to despise; contempt"
 ],
 [
-"污蔑",
-6,
+"诬蔑",
+2.1,
 "wū miè",
-"variant of 污衊|污蔑[wu1 mie4]"
+"variant of 诬蔑[wū miè]"
 ],
 [
-"污蔑",
-6,
+"诬蔑",
+2.1,
 "wū miè",
-"to slander; to smear; to tarnish"
+"to slander; to smear; to vilify"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 625 716 Q 728 725 827 719 Q 842 718 847 726 Q 851 736 839 751 Q 791 791 701 769 Q 674 766 646 759 L 589 751 Q 516 741 431 729 L 383 724 Q 289 715 186 704 Q 158 701 178 687 Q 217 660 270 670 Q 331 686 392 695 L 434 700 Q 501 710 578 714 L 625 716 Z",
 "M 431 729 Q 428 754 427 775 Q 428 794 408 799 Q 369 817 349 808 Q 331 798 347 781 Q 372 756 383 724 L 392 695 Q 408 650 419 639 Q 432 629 436 641 Q 440 657 434 700 L 431 729 Z",

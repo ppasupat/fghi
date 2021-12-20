@@ -1,20 +1,26 @@
 {
 "char": "该",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "should, ought to, need to",
 "pron": "gāi"
 },
 "words": [
 [
+"该",
+2,
+"gāi",
+"should; ought to; probably; must be; to deserve; to owe; to be sb's turn to do sth; that; the above-mentioned"
+],
+[
 "应该",
-3,
+2,
 "yīng gāi",
 "ought to; should; must"
 ],
 [
 "活该",
-6,
+7,
 "huó gāi",
 "(coll.) serve sb right; deservedly; ought; should"
 ]
@@ -31,6 +37,12 @@
 27.55,
 "bù gāi",
 "should not; to owe nothing"
+],
+[
+"本该",
+10.46,
+"???",
+"???"
 ]
 ],
 "strokes": [

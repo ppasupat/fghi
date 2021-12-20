@@ -1,12 +1,37 @@
 {
 "char": "眷",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "take interest in, care for",
 "pron": "juàn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"眷顾",
+3.01,
+"juàn gù",
+"to care for; to show concern for; to think longingly (of one's country)"
+],
+[
+"眷恋",
+2.86,
+"juàn liàn",
+"to miss; to long for; to remember with longing; yearning"
+],
+[
+"眷",
+1.43,
+"juàn",
+"concern; wife and children"
+],
+[
+"眷",
+1.43,
+"juàn",
+"variant of 眷[juàn]; to care about; to look fondly on"
+]
+],
 "strokes": [
 "M 309 671 Q 330 655 351 633 Q 366 620 382 622 Q 392 623 397 636 Q 401 652 390 681 Q 384 697 358 707 Q 292 725 280 719 Q 276 715 277 702 Q 281 692 309 671 Z",
 "M 616 756 Q 594 723 548 674 Q 541 667 547 659 Q 554 658 563 661 Q 648 712 690 729 Q 709 733 705 745 Q 701 761 682 782 Q 663 801 640 805 Q 625 806 625 786 Q 626 771 616 756 Z",

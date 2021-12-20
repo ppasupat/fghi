@@ -1,68 +1,85 @@
 {
 "char": "担",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "carry, bear, undertake",
 "pron": "dān, dàn"
 },
 "words": [
 [
-"担心",
-3,
-"dān xīn",
-"anxious; worried; uneasy; to worry; to be anxious"
-],
-[
 "承担",
-5,
+4,
 "chéng dān",
 "to undertake; to assume (responsibility etc)"
 ],
 [
+"担保",
+4,
+"dān bǎo",
+"to guarantee; to vouch for"
+],
+[
 "担任",
-5,
+4,
 "dān rèn",
 "to hold a governmental office or post; to assume office of; to take charge of; to serve as"
 ],
 [
+"担心",
+4,
+"dān xīn",
+"anxious; worried; uneasy; to worry; to be anxious"
+],
+[
 "负担",
-6,
+4,
 "fù dān",
 "burden; to bear a burden"
 ],
 [
-"担保",
-6,
-"dān bǎo",
-"to guarantee; to vouch for"
-]
-],
-"extraWords": [
-[
 "担忧",
-22.33,
+6,
 "dān yōu",
 "to worry; to be concerned"
 ],
 [
+"担",
+7,
+"dān",
+"to undertake; to carry; to shoulder; to take responsibility"
+],
+[
+"担",
+7,
+"dàn",
+"picul (100 catties, 50 kg); two buckets full; carrying pole and its load; classifier for loads carried on a shoulder pole"
+],
+[
 "担当",
-9.2,
+7,
 "dān dāng",
 "to take upon oneself; to assume"
 ],
 [
 "担负",
-8.93,
+7,
 "dān fù",
 "to shoulder; to bear; to undertake"
 ],
 [
+"担子",
+7,
+"dàn zi",
+"carrying pole and the loads on it; burden; task; responsibility; CL:副[fù]"
+],
+[
 "分担",
-7.23,
+7,
 "fēn dān",
 "to share (a burden, a cost, a responsibility)"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 340 534 Q 409 559 410 561 Q 417 568 412 577 Q 405 587 375 592 Q 356 593 341 589 L 290 569 Q 200 535 130 521 Q 96 512 122 498 Q 164 480 217 497 Q 251 509 290 519 L 340 534 Z",
 "M 289 329 Q 289 239 289 125 Q 288 103 276 93 Q 267 86 244 93 Q 219 99 193 104 Q 160 114 163 104 Q 164 97 185 83 Q 252 34 270 4 Q 291 -30 307 -31 Q 320 -31 335 3 Q 353 49 350 122 Q 341 246 339 369 L 339 397 Q 338 466 340 534 L 341 589 Q 341 677 359 737 Q 375 768 320 789 Q 286 808 267 801 Q 249 794 266 771 Q 287 744 289 710 Q 290 694 290 569 L 290 519 Q 290 455 289 368 L 289 329 Z",

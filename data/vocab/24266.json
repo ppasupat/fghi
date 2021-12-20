@@ -1,6 +1,6 @@
 {
 "char": "廊",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "corridor, porch, veranda",
 "pron": "láng"
@@ -8,7 +8,7 @@
 "words": [
 [
 "走廊",
-6,
+7,
 "zǒu láng",
 "corridor; aisle; hallway; passageway; veranda"
 ]
@@ -19,6 +19,12 @@
 8.53,
 "huà láng",
 "gallery"
+],
+[
+"廊",
+6.45,
+"láng",
+"corridor; veranda; porch"
 ]
 ],
 "strokes": [

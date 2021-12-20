@@ -1,6 +1,6 @@
 {
 "char": "宿",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "stop, rest, lodge, stay overnight; constellation",
 "pron": "sù, xiǔ, xiù"
@@ -10,15 +10,63 @@
 "宿舍",
 5,
 "sù shè",
-"dormitory; dorm room; living quarters; hostel; CL:間|间[jian1]"
+"dormitory; dorm room; living quarters; hostel; CL:间[jiān]"
+],
+[
+"风餐露宿",
+7,
+"fēng cān lù sù",
+"lit. to eat in the open air and sleep outdoors (idiom); fig. to rough it"
+],
+[
+"归宿",
+7,
+"guī sù",
+"place to return to; home; final destination; ending"
+],
+[
+"食宿",
+7,
+"shí sù",
+"board and lodging; room and board"
+],
+[
+"住宿",
+7,
+"zhù sù",
+"to stay at; lodging; accommodation"
 ]
 ],
 "extraWords": [
 [
-"住宿",
-9.61,
-"zhù sù",
-"to stay at; lodging; accommodation"
+"宿",
+11.98,
+"sù",
+"old variant of 宿[sù]"
+],
+[
+"宿",
+11.98,
+"Sù",
+"surname Su"
+],
+[
+"宿",
+11.98,
+"sù",
+"lodge for the night; old; former"
+],
+[
+"宿",
+11.98,
+"xiǔ",
+"night; classifier for nights"
+],
+[
+"宿",
+11.98,
+"xiù",
+"constellation"
 ]
 ],
 "strokes": [

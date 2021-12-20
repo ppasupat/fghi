@@ -1,17 +1,30 @@
 {
 "char": "茅",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "reeds, rushes, grass; surname",
 "pron": "máo"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "茅台",
-5.68,
+7,
 "Máo tái",
 "Maotai town in Renhuai county, Guizhou; Maotai liquor 茅臺酒|茅台酒"
+]
+],
+"extraWords": [
+[
+"茅",
+3.26,
+"Máo",
+"surname Mao"
+],
+[
+"茅",
+3.26,
+"máo",
+"reeds; rushes"
 ]
 ],
 "strokes": [

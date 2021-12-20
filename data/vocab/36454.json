@@ -1,6 +1,6 @@
 {
 "char": "蹦",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "hop, leap, jump; bright",
 "pron": "bèng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "蹦",
-6,
+7,
 "bèng",
 "to jump; to bounce; to hop"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"活蹦乱跳",
+1.37,
+"huó bèng luàn tiào",
+"to leap and frisk about (idiom); lively; healthy and active"
+],
+[
+"蹦蹦跳跳",
+0.88,
+"bèng bèng tiào tiào",
+"bouncing and vivacious"
+]
+],
 "strokes": [
 "M 188 668 Q 178 672 153 676 Q 143 679 139 674 Q 133 668 141 653 Q 166 602 183 517 Q 186 492 201 475 Q 217 454 222 469 Q 226 479 226 495 L 223 524 Q 208 620 205 643 C 202 663 202 663 188 668 Z",
 "M 358 544 Q 374 623 396 647 Q 417 671 395 684 Q 335 717 332 716 Q 323 716 315 710 Q 275 686 188 668 C 159 662 177 633 205 643 Q 208 646 291 663 Q 316 669 322 659 Q 329 653 323 621 Q 319 590 311 552 C 305 523 352 515 358 544 Z",

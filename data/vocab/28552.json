@@ -1,19 +1,31 @@
 {
 "char": "澈",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "thoroughly, completely",
 "pron": "chè"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "清澈",
-6,
+6.68,
 "qīng chè",
 "clear; limpid"
+],
+[
+"澈",
+4.62,
+"chè",
+"clear (water); thorough"
+],
+[
+"清澈见底",
+0.49,
+"qīng chè jiàn dǐ",
+"water so clear you can see the bottom"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 187 711 Q 209 690 233 664 Q 246 651 264 651 Q 274 651 281 665 Q 285 680 277 711 Q 273 730 243 743 Q 173 770 160 763 Q 154 759 156 746 Q 160 733 187 711 Z",
 "M 112 515 Q 148 461 177 449 Q 193 445 203 457 Q 210 470 209 487 Q 205 512 187 526 Q 148 556 109 557 Q 105 558 102 556 Q 95 555 97 543 Q 98 530 112 515 Z",

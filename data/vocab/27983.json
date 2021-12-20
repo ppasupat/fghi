@@ -1,6 +1,6 @@
 {
 "char": "浏",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "clear; bright; whistling",
 "pron": "liú"
@@ -8,12 +8,25 @@
 "words": [
 [
 "浏览",
-5,
+7,
 "liú lǎn",
 "to skim over; to browse"
+],
+[
+"浏览器",
+7,
+"liú lǎn qì",
+"browser (software)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"浏阳",
+1.02,
+"Liú yáng",
+"Liuyang county level city in Changsha 长沙[Cháng shā], Hunan"
+]
+],
 "strokes": [
 "M 203 687 Q 230 665 257 636 Q 272 623 288 622 Q 298 623 305 637 Q 309 652 301 683 Q 295 704 264 718 Q 191 746 176 739 Q 170 735 172 722 Q 176 710 203 687 Z",
 "M 119 508 Q 167 454 202 438 Q 218 435 227 449 Q 233 462 230 479 Q 215 524 132 547 Q 116 551 105 548 Q 99 547 102 534 Q 103 522 119 508 Z",

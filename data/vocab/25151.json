@@ -1,6 +1,6 @@
 {
 "char": "房",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "house, building; room",
 "pron": "fáng"
@@ -8,53 +8,113 @@
 "words": [
 [
 "房间",
-2,
+1,
 "fáng jiān",
-"room; CL:間|间[jian1],個|个[ge4]"
+"room; CL:间[jiān],个[gè]"
 ],
-[
-"厨房",
-4,
-"chú fáng",
-"kitchen; CL:間|间[jian1]"
-],
-[
-"房东",
-4,
-"fáng dōng",
-"landlord"
-]
-],
-"extraWords": [
 [
 "房子",
-245.12,
+1,
 "fáng zi",
-"house; building (single- or two-story); apartment; room; CL:棟|栋[dong4],幢[zhuang4],座[zuo4],套[tao4],間|间[jian1]"
-],
-[
-"房地产",
-125.52,
-"fáng dì chǎn",
-"real estate"
+"house; building (single- or two-story); apartment; room; CL:栋[dòng],幢[zhuàng],座[zuò],套[tào],间[jiān]"
 ],
 [
 "住房",
-83.37,
+2,
 "zhù fáng",
 "housing"
 ],
 [
+"房东",
+3,
+"fáng dōng",
+"landlord"
+],
+[
+"房屋",
+3,
+"fáng wū",
+"house; building; CL:所[suǒ],套[tào]"
+],
+[
+"房租",
+3,
+"fáng zū",
+"rent for a room or house"
+],
+[
+"厨房",
+5,
+"chú fáng",
+"kitchen; CL:间[jiān]"
+],
+[
+"病房",
+6,
+"bìng fáng",
+"ward (of a hospital); sickroom; CL:间[jiān]"
+],
+[
 "房价",
-63.34,
+6,
 "fáng jià",
 "house price; cost of housing"
 ],
 [
-"房屋",
-62.01,
-"fáng wū",
-"house; building; CL:所[suo3],套[tao4]"
+"楼房",
+6,
+"lóu fáng",
+"a building of two or more stories; CL:栋[dòng],幢[zhuàng],座[zuò]"
+],
+[
+"书房",
+6,
+"shū fáng",
+"study (room); studio; CL:间[jiān]"
+],
+[
+"房地产",
+7,
+"fáng dì chǎn",
+"real estate"
+],
+[
+"客房",
+7,
+"kè fáng",
+"guest room"
+],
+[
+"票房",
+7,
+"piào fáng",
+"box office"
+],
+[
+"私房钱",
+7,
+"sī fáng qián",
+"secret purse; secret stash of money"
+],
+[
+"新房",
+7,
+"xīn fáng",
+"brand new house; bridal chamber"
+]
+],
+"extraWords": [
+[
+"房",
+233.4,
+"Fáng",
+"surname Fang"
+],
+[
+"房",
+233.4,
+"fáng",
+"house; room; CL:间[jiān]; branch of an extended family; classifier for family members (or concubines)"
 ],
 [
 "房产",
@@ -63,16 +123,22 @@
 "real estate; the property market (e.g. houses)"
 ],
 [
+"商品房",
+26.28,
+"???",
+"???"
+],
+[
 "二手房",
 19.84,
 "èr shǒu fáng",
 "second-hand house; house acquired indirectly through a middle-man"
 ],
 [
-"房租",
-14.76,
-"fáng zū",
-"rent for a room or house"
+"房源",
+15.59,
+"???",
+"???"
 ],
 [
 "牢房",
@@ -81,46 +147,28 @@
 "jail cell; prison cell"
 ],
 [
-"票房",
-13.05,
-"piào fáng",
-"box office"
-],
-[
-"病房",
-12.79,
-"bìng fáng",
-"ward (of a hospital); sickroom; CL:間|间[jian1]"
-],
-[
 "厂房",
 12.04,
 "chǎng fáng",
-"a building used as a factory; factory (building); CL:座[zuo4],棟|栋[dong4]"
+"a building used as a factory; factory (building); CL:座[zuò],栋[dòng]"
 ],
 [
-"客房",
-10.02,
-"kè fáng",
-"guest room"
+"房地产业",
+11.66,
+"???",
+"???"
 ],
 [
-"新房",
-9.74,
-"xīn fáng",
-"brand new house; bridal chamber"
+"建房",
+9.28,
+"???",
+"???"
 ],
 [
 "乳房",
 9.24,
 "rǔ fáng",
 "breast; udder"
-],
-[
-"楼房",
-8.53,
-"lóu fáng",
-"a building of two or more stories; CL:棟|栋[dong4],幢[zhuang4],座[zuo4]"
 ],
 [
 "健身房",
@@ -139,12 +187,6 @@
 7.67,
 "fáng mén",
 "door of a room"
-],
-[
-"书房",
-7.46,
-"shū fáng",
-"study (room); studio; CL:間|间[jian1]"
 ],
 [
 "房顶",

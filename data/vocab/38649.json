@@ -1,19 +1,31 @@
 {
 "char": "雹",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "hail",
 "pron": "báo"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "冰雹",
-6,
+2.91,
 "bīng báo",
-"hail; hailstone; CL:場|场[chang2],粒[li4]"
+"hail; hailstone; CL:场[cháng],粒[lì]"
+],
+[
+"雹",
+1.73,
+"báo",
+"hail"
+],
+[
+"雹灾",
+0.26,
+"báo zāi",
+"disaster caused by hail"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 499 751 Q 659 781 670 787 Q 680 794 675 804 Q 668 816 638 824 Q 608 831 509 801 Q 377 780 347 777 Q 310 773 336 754 Q 369 732 456 743 L 499 751 Z",
 "M 238 642 Q 228 664 218 672 Q 199 687 197 661 Q 201 631 159 578 Q 114 536 142 477 L 143 475 Q 156 448 178 475 Q 178 478 239 612 C 246 626 246 626 238 642 Z",

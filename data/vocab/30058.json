@@ -1,6 +1,6 @@
 {
 "char": "番",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "to take turns; a turn, a time; to repeat",
 "pron": "fān, pān"
@@ -17,14 +17,38 @@
 6,
 "fān",
 "foreign (non-Chinese); barbarian; classifier for occurrences (of an event, action or speech utterance); classifier for iterations: times, -fold (as in twofold etc); classifier for situations: kind, sort"
+],
+[
+"番茄",
+6,
+"fān qié",
+"tomato"
+],
+[
+"一番",
+6,
+"???",
+"???"
+],
+[
+"翻番",
+7,
+"fān fān",
+"to double; to increase by a certain number of times"
+],
+[
+"三番五次",
+7,
+"sān fān wǔ cì",
+"over and over again (idiom)"
 ]
 ],
 "extraWords": [
 [
-"番茄",
-10.38,
-"fān qié",
-"tomato"
+"此番",
+6.13,
+"???",
+"???"
 ],
 [
 "番茄酱",

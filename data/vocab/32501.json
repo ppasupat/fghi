@@ -1,17 +1,30 @@
 {
 "char": "绵",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "cotton wad; wool; soft, downy",
 "pron": "mián"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "海绵",
-5.78,
+7,
 "hǎi mián",
 "sponge (zoology); sponge (piece of absorbent material, either natural or made from plastic etc); foam rubber"
+],
+[
+"连绵",
+7,
+"lián mián",
+"continuous; unbroken; uninterrupted; extending forever into the distance (of mountain range, river etc)"
+]
+],
+"extraWords": [
+[
+"缠绵",
+4.12,
+"chán mián",
+"touching (emotions); lingering (illness)"
 ]
 ],
 "strokes": [

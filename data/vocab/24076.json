@@ -1,6 +1,6 @@
 {
 "char": "希",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "rare; hope, expect, strive for",
 "pron": "xī"
@@ -8,12 +8,18 @@
 "words": [
 [
 "希望",
-2,
+3,
 "xī wàng",
-"to wish for; to desire; hope; CL:個|个[ge4]"
+"to wish for; to desire; hope; CL:个[gè]"
 ]
 ],
 "extraWords": [
+[
+"希",
+28.81,
+"xī",
+"to hope; to admire; variant of 稀[xī]"
+],
 [
 "希腊",
 22.18,

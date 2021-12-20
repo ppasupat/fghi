@@ -1,6 +1,6 @@
 {
 "char": "肯",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "willing; consent to, permit",
 "pron": "kěn"
@@ -8,15 +8,27 @@
 "words": [
 [
 "肯定",
-4,
+5,
 "kěn dìng",
 "to be certain; to be positive; assuredly; definitely; to give recognition; to affirm; affirmative (answer)"
 ],
 [
-"宁肯",
+"肯",
 6,
-"nìng kěn",
-"would rather...; it would be better...; would prefer"
+"kěn",
+"old variant of 肯[kěn]"
+],
+[
+"肯",
+6,
+"kěn",
+"to agree; to consent; to be ready (to do sth); willing"
+],
+[
+"不肯",
+7,
+"???",
+"???"
 ]
 ],
 "extraWords": [

@@ -1,6 +1,6 @@
 {
 "char": "仅",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "only, merely, solely, just",
 "pron": "jǐn"
@@ -8,29 +8,41 @@
 "words": [
 [
 "不仅",
-4,
+3,
 "bù jǐn",
 "not only (this one); not just (...) but also"
-]
 ],
-"extraWords": [
+[
+"仅",
+3,
+"jǐn",
+"barely; only; merely"
+],
 [
 "仅仅",
-55.02,
+3,
 "jǐn jǐn",
 "barely; only; merely; only (this and nothing more)"
 ],
 [
 "不仅仅",
-35.8,
+6,
 "bù jǐn jǐn",
 "not only; not just"
 ],
 [
 "仅次于",
-7.14,
+7,
 "jǐn cì yú",
 "second only to...; (in second place) preceded only by..."
+]
+],
+"extraWords": [
+[
+"不仅仅是",
+20.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

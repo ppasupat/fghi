@@ -1,6 +1,6 @@
 {
 "char": "塔",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "tower, spire, tall building",
 "pron": "tǎ"
@@ -10,27 +10,27 @@
 "塔",
 6,
 "tǎ",
-"pagoda; tower; minaret; stupa (abbr. loanword from Sanskrit tapo); CL:座[zuo4]"
+"pagoda; tower; minaret; stupa (abbr. loanword from Sanskrit tapo); CL:座[zuò]"
 ],
 [
 "塔",
 6,
 "tǎ",
-"old variant of 塔[ta3]"
+"old variant of 塔[tǎ]"
+],
+[
+"金字塔",
+7,
+"jīn zì tǎ",
+"pyramid (building or structure)"
 ]
 ],
 "extraWords": [
 [
-"金字塔",
-7.2,
-"jīn zì tǎ",
-"pyramid (building or structure)"
-],
-[
 "灯塔",
 5.4,
 "dēng tǎ",
-"lighthouse; CL:座[zuo4]"
+"lighthouse; CL:座[zuò]"
 ],
 [
 "塔利班",

@@ -1,6 +1,6 @@
 {
 "char": "狮",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "lion",
 "pron": "shī"
@@ -8,15 +8,15 @@
 "words": [
 [
 "狮子",
-5,
+7,
 "Shī zǐ",
-"Leo (star sign); Shihtzu township in Pingtung County 屏東縣|屏东县[Ping2 dong1 Xian4], Taiwan"
+"Leo (star sign); Shihtzu township in Pingtung County 屏东县[Píng dōng Xiàn], Taiwan"
 ],
 [
 "狮子",
-5,
+7,
 "shī zi",
-"lion; CL:隻|只[zhi1],頭|头[tou2]"
+"lion; CL:只[zhī],头[tóu]"
 ]
 ],
 "extraWords": [
@@ -25,6 +25,12 @@
 29.7,
 "Shī zi zuò",
 "Leo (constellation and sign of the zodiac)"
+],
+[
+"狮",
+14.36,
+"shī",
+"lion"
 ]
 ],
 "strokes": [

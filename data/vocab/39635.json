@@ -1,11 +1,18 @@
 {
 "char": "髓",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "bone marrow; essences, substances",
 "pron": "suǐ"
 },
-"words": [],
+"words": [
+[
+"精髓",
+7,
+"jīng suǐ",
+"marrow; pith; quintessence; essence"
+]
+],
 "extraWords": [
 [
 "骨髓",
@@ -14,16 +21,16 @@
 "bone marrow (medulla ossea)"
 ],
 [
-"精髓",
-5.43,
-"jīng suǐ",
-"marrow; pith; quintessence; essence"
-],
-[
 "脊髓",
 5.36,
 "jǐ suǐ",
 "spinal cord; medulla spinalis"
+],
+[
+"髓",
+5.24,
+"suǐ",
+"marrow; essence; quintessence; pith (soft interior of plant stem)"
 ]
 ],
 "strokes": [

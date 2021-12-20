@@ -1,6 +1,6 @@
 {
 "char": "墟",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "high mound; hilly countryside; wasteland",
 "pron": "xū"
@@ -8,12 +8,25 @@
 "words": [
 [
 "废墟",
-6,
+7,
 "fèi xū",
 "ruins"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"墟",
+1.12,
+"xū",
+"ruins; (literary) village; variant of 圩[xū]; country fair"
+],
+[
+"殷墟",
+0.65,
+"Yīn xū",
+"Yinxu, ruins of Yinshang 殷商 city at Anyang 安陽|安阳 in Henan province, a World Heritage site"
+]
+],
 "strokes": [
 "M 283 483 Q 302 490 327 496 Q 357 506 361 510 Q 368 517 364 526 Q 357 536 329 540 Q 305 543 285 534 L 236 514 Q 149 490 117 483 Q 84 474 110 461 Q 144 445 216 464 Q 223 467 236 469 L 283 483 Z",
 "M 274 318 Q 278 403 283 483 L 285 534 Q 286 609 307 706 Q 311 718 290 732 Q 254 751 230 755 Q 214 759 206 750 Q 199 743 207 727 Q 232 690 232 665 Q 236 592 236 514 L 236 469 Q 235 390 231 301 C 230 271 273 288 274 318 Z",

@@ -1,6 +1,6 @@
 {
 "char": "冒",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "risk, brave, dare",
 "pron": "mào"
@@ -10,45 +10,63 @@
 "感冒",
 3,
 "gǎn mào",
-"to catch cold; (common) cold; CL:場|场[chang2],次[ci4]; (coll.) to be interested in (often used in the negative); (Tw) to detest; can't stand"
+"to catch cold; (common) cold; CL:场[cháng],次[cì]; (coll.) to be interested in (often used in the negative); (Tw) to detest; can't stand"
 ],
 [
-"冒险",
+"冒",
 5,
-"mào xiǎn",
-"to take risks; to take chances; foray; adventure"
+"mào",
+"old variant of 冒[mào]"
+],
+[
+"冒",
+5,
+"Mào",
+"surname Mao"
+],
+[
+"冒",
+5,
+"mào",
+"to emit; to give off; to send out (or up, forth); to brave; to face; reckless; to falsely adopt (sb's identity etc); to feign; (literary) to cover"
+],
+[
+"假冒",
+7,
+"jiǎ mào",
+"to impersonate; to pose as (someone else); to counterfeit; to palm off (a fake as a genuine)"
+],
+[
+"冒充",
+7,
+"mào chōng",
+"to feign; to pretend to be; to pass oneself off as"
 ],
 [
 "冒犯",
-6,
+7,
 "mào fàn",
 "to offend"
 ],
 [
-"冒充",
-6,
-"mào chōng",
-"to feign; to pretend to be; to pass oneself off as"
+"冒昧",
+7,
+"mào mèi",
+"bold; presumptuous; to take the liberty of"
+],
+[
+"冒险",
+7,
+"mào xiǎn",
+"to take risks; to take chances; foray; adventure"
 ]
 ],
 "extraWords": [
-[
-"假冒",
-9.05,
-"jiǎ mào",
-"to impersonate; to pose as (someone else); to counterfeit; to palm off (a fake as a genuine)"
-],
 [
 "假冒伪劣",
 6.88,
 "jiǎ mào wěi liè",
 "cheap quality counterfeit (goods); low-quality commodities"
-],
-[
-"冒昧",
-6.08,
-"mào mèi",
-"bold; presumptuous; to take the liberty of"
 ]
 ],
 "strokes": [

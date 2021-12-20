@@ -1,14 +1,26 @@
 {
 "char": "滨",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "beach, sea coast; river bank",
 "pron": "bīn"
 },
 "words": [
 [
+"滨海",
+7,
+"Bīn hǎi",
+"Binhai (place name); Binhai New District, subprovincial district of Tianjin; Binhai county in Yancheng 盐城[Yán chéng], Jiangsu; fictitious city Binhai in political satire; Primorsky, a territory in the far east of Russia"
+],
+[
+"滨海",
+7,
+"bīn hǎi",
+"coastal; bordering the sea"
+],
+[
 "海滨",
-6,
+7,
 "hǎi bīn",
 "shore; seaside"
 ]
@@ -18,25 +30,19 @@
 "哈尔滨",
 19.41,
 "Hā ěr bīn",
-"Harbin, subprovincial city and capital of Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1] in northeast China"
+"Harbin, subprovincial city and capital of Heilongjiang province 黑龙江[Hēi lóng jiāng] in northeast China"
 ],
 [
-"滨海",
-9.13,
-"Bīn hǎi",
-"Binhai (place name); Binhai New District, subprovincial district of Tianjin; Binhai county in Yancheng 鹽城|盐城[Yan2 cheng2], Jiangsu; fictitious city Binhai in political satire; Primorsky, a territory in the far east of Russia"
-],
-[
-"滨海",
-9.13,
-"bīn hǎi",
-"coastal; bordering the sea"
+"滨",
+7.54,
+"bīn",
+"shore; beach; coast; bank; to border on"
 ],
 [
 "哈尔滨市",
 6.8,
 "Hā ěr bīn shì",
-"Harbin, subprovincial city and capital of Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1] in northeast China"
+"Harbin, subprovincial city and capital of Heilongjiang province 黑龙江[Hēi lóng jiāng] in northeast China"
 ]
 ],
 "strokes": [

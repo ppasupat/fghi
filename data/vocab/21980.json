@@ -1,12 +1,32 @@
 {
 "char": "嗜",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "be fond of, have weakness for",
 "pron": "shì"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"嗜好",
+7,
+"shì hào",
+"hobby; indulgence; habit; addiction"
+]
+],
+"extraWords": [
+[
+"嗜",
+6.45,
+"shì",
+"addicted to; fond of; stem corresponding to -phil or -phile"
+],
+[
+"嗜血",
+1.27,
+"shì xuè",
+"bloodthirsty; bloodsucking; hemophile"
+]
+],
 "strokes": [
 "M 138 597 Q 128 603 98 609 Q 86 613 83 608 Q 76 602 84 587 Q 111 526 123 426 Q 124 396 141 375 Q 157 354 163 369 Q 169 385 167 414 L 163 444 Q 150 543 148 571 C 146 593 146 593 138 597 Z",
 "M 290 468 Q 302 553 325 580 Q 344 605 323 617 Q 304 627 278 642 Q 259 651 242 639 Q 217 621 138 597 C 109 588 119 564 148 571 Q 155 572 165 576 Q 199 585 227 592 Q 246 596 251 589 Q 258 583 254 548 Q 250 511 242 469 C 237 440 286 438 290 468 Z",

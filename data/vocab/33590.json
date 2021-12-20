@@ -1,6 +1,6 @@
 {
 "char": "茶",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "tea",
 "pron": "chá"
@@ -10,33 +10,51 @@
 "茶",
 1,
 "chá",
-"tea; tea plant; CL:杯[bei1],壺|壶[hu2]"
-]
+"tea; tea plant; CL:杯[bēi],壶[hú]"
 ],
-"extraWords": [
 [
-"茶叶",
-14.98,
-"chá yè",
-"tea; tea leaves; CL:盒[he2],罐[guan4],包[bao1],片[pian4]"
+"红茶",
+3,
+"hóng chá",
+"black tea; CL:杯[bēi],壶[hú]"
+],
+[
+"绿茶",
+3,
+"lǜ chá",
+"green tea; (slang) (of a girl) seemingly innocent and charming but actually calculating and manipulative; a girl who has these qualities"
 ],
 [
 "奶茶",
-9.6,
+3,
 "nǎi chá",
 "milk tea"
 ],
+[
+"茶叶",
+4,
+"chá yè",
+"tea; tea leaves; CL:盒[hé],罐[guàn],包[bāo],片[piàn]"
+],
+[
+"茶道",
+7,
+"chá dào",
+"Japanese tea ceremony; sado"
+],
+[
+"茶馆儿",
+7,
+"chá guǎn r5",
+"a teashop"
+]
+],
+"extraWords": [
 [
 "喝茶",
 7.77,
 "hē chá",
 "to drink tea; to get engaged; to have a serious conversation; (fig.) to have a meeting with state security agents (to be warned to behave \"responsibly\")"
-],
-[
-"绿茶",
-7.43,
-"lǜ chá",
-"green tea; (slang) (of a girl) seemingly innocent and charming but actually calculating and manipulative; a girl who has these qualities"
 ],
 [
 "下午茶",

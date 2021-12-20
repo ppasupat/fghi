@@ -1,6 +1,6 @@
 {
 "char": "抢",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "plunder, rob, take by force",
 "pron": "qiāng, qiǎng"
@@ -10,7 +10,7 @@
 "抢",
 5,
 "qiāng",
-"see 搶風|抢风[qiang1 feng1]"
+"see 抢风[qiāng fēng]"
 ],
 [
 "抢",
@@ -19,16 +19,28 @@
 "to fight over; to rush; to scramble; to grab; to rob; to snatch"
 ],
 [
+"抢救",
+5,
+"qiǎng jiù",
+"to rescue"
+],
+[
+"抢夺",
+7,
+"qiǎng duó",
+"to plunder; to pillage; to forcibly take"
+],
+[
 "抢劫",
-6,
+7,
 "qiǎng jié",
 "to rob; looting"
 ],
 [
-"抢救",
-6,
-"qiǎng jiù",
-"to rescue"
+"抢眼",
+7,
+"qiǎng yǎn",
+"eye-catching"
 ]
 ],
 "extraWords": [
@@ -67,12 +79,6 @@
 5.79,
 "qiǎng zhàn",
 "to seize (the strategic high ground)"
-],
-[
-"抢夺",
-5.07,
-"qiǎng duó",
-"to plunder; to pillage; to forcibly take"
 ]
 ],
 "strokes": [

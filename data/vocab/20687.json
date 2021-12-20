@@ -1,54 +1,96 @@
 {
 "char": "像",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "a picture, image, figure; to resemble",
 "pron": "xiàng"
 },
 "words": [
 [
-"像",
-3,
-"xiàng",
-"to resemble; to be like; to look as if; such as; appearance; image; portrait; image under a mapping (math.)"
-],
-[
 "好像",
-4,
+2,
 "hǎo xiàng",
 "as if; to seem like"
 ],
 [
+"像",
+2,
+"xiàng",
+"to resemble; to be like; to look as if; such as; appearance; image; portrait; image under a mapping (math.)"
+],
+[
 "偶像",
-6,
+5,
 "ǒu xiàng",
 "idol"
 ],
 [
-"肖像",
+"摄像",
+5,
+"shè xiàng",
+"to videotape"
+],
+[
+"摄像机",
+5,
+"shè xiàng jī",
+"video camera; CL:部[bù]"
+],
+[
+"录像",
 6,
+"lù xiàng",
+"to videotape; to videorecord; video recording; CL:盘[pán]"
+],
+[
+"音像",
+6,
+"yīn xiàng",
+"audio and video; audiovisual"
+],
+[
+"不像话",
+7,
+"bù xiàng huà",
+"unreasonable; shocking; outrageous"
+],
+[
+"图像",
+7,
+"tú xiàng",
+"image; picture; graphic"
+],
+[
+"像样",
+7,
+"xiàng yàng",
+"presentable; decent; up to par"
+],
+[
+"肖像",
+7,
 "xiào xiàng",
 "portrait (painting, photo etc); (in a general sense) representation of a person; likeness"
 ],
 [
-"不像话",
-6,
-"bù xiàng huà",
-"unreasonable; shocking; outrageous"
+"影像",
+7,
+"yǐng xiàng",
+"image"
 ]
 ],
 "extraWords": [
-[
-"录像",
-43.22,
-"lù xiàng",
-"to videotape; to videorecord; video recording; CL:盤|盘[pan2]"
-],
 [
 "神像",
 32.85,
 "shén xiàng",
 "image of a God"
+],
+[
+"不像",
+29.3,
+"???",
+"???"
 ],
 [
 "像素",
@@ -57,40 +99,16 @@
 "pixel"
 ],
 [
-"摄像机",
-22.48,
-"shè xiàng jī",
-"video camera; CL:部[bu4]"
-],
-[
 "摄像头",
 21.37,
 "shè xiàng tóu",
 "webcam; surveillance camera"
 ],
 [
-"图像",
-19.67,
-"tú xiàng",
-"image; picture; graphic"
-],
-[
-"影像",
-18.96,
-"yǐng xiàng",
-"image"
-],
-[
 "录像带",
 16.66,
 "lù xiàng dài",
-"video cassette; CL:盤|盘[pan2]"
-],
-[
-"摄像",
-16.53,
-"shè xiàng",
-"to videotape"
+"video cassette; CL:盘[pán]"
 ],
 [
 "头像",
@@ -108,25 +126,13 @@
 "雕像",
 9.72,
 "diāo xiàng",
-"sculpture; (carved) statue; CL:尊[zun1]"
-],
-[
-"音像",
-6.6,
-"yīn xiàng",
-"audio and video; audiovisual"
+"sculpture; (carved) statue; CL:尊[zūn]"
 ],
 [
 "成像",
 6.21,
 "chéng xiàng",
 "to form an image; imaging"
-],
-[
-"像样",
-6.2,
-"xiàng yàng",
-"presentable; decent; up to par"
 ],
 [
 "画像",

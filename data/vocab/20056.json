@@ -1,56 +1,73 @@
 {
 "char": "乘",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "ride, ascend; avail oneself of; numerary adjunct for vehicles",
 "pron": "chéng"
 },
 "words": [
 [
-"乘坐",
-4,
-"chéng zuò",
-"to ride (in a vehicle)"
-],
-[
 "乘",
-6,
+5,
 "Chéng",
 "surname Cheng"
 ],
 [
 "乘",
-6,
+5,
 "chéng",
 "to ride; to mount; to make use of; to avail oneself of; to take advantage of; to multiply (math.); Buddhist sect or creed"
 ],
 [
 "乘",
-6,
+5,
 "shèng",
 "four horse military chariot (archaic); four (archaic); generic term for history books"
 ],
 [
 "乘",
-6,
+5,
 "chéng",
-"old variant of 乘[cheng2]"
-]
+"old variant of 乘[chéng]"
 ],
-"extraWords": [
+[
+"乘车",
+5,
+"chéng chē",
+"to ride (in a car or carriage); to drive; to motor"
+],
 [
 "乘客",
-40.13,
+5,
 "chéng kè",
 "passenger"
 ],
 [
-"乘车",
-9.76,
-"chéng chē",
-"to ride (in a car or carriage); to drive; to motor"
+"乘坐",
+5,
+"chéng zuò",
+"to ride (in a vehicle)"
+],
+[
+"乘人之危",
+7,
+"chéng rén zhī wēi",
+"to take advantage of sb's precarious position"
+],
+[
+"搭乘",
+7,
+"dā chéng",
+"to ride as a passenger; to travel by (car, plane etc)"
+],
+[
+"可乘之机",
+7,
+"kě chéng zhī jī",
+"an opportunity that someone (usually a villain or adversary) can exploit"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 510 747 Q 609 778 648 783 Q 666 783 670 790 Q 674 800 664 812 Q 613 860 574 860 Q 552 827 527 808 Q 415 753 318 720 Q 312 711 318 708 Q 333 704 440 730 Q 444 731 454 732 L 510 747 Z",
 "M 538 621 Q 634 633 769 634 Q 838 634 844 644 Q 848 656 832 670 Q 778 706 742 698 Q 666 682 544 659 L 483 649 Q 347 630 188 606 Q 167 605 183 587 Q 214 559 253 568 Q 367 602 484 615 L 538 621 Z",

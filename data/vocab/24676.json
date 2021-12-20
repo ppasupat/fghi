@@ -1,12 +1,44 @@
 {
 "char": "恤",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "show pity; relieve, help",
 "pron": "xù"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"抚恤",
+7,
+"fǔ xù",
+"(of an organization that has a duty of care) to give financial support to relatives of sb who has died or suffered serious injury"
+]
+],
+"extraWords": [
+[
+"恤",
+13.86,
+"xù",
+"variant of 恤[xù]"
+],
+[
+"恤",
+13.86,
+"xù",
+"anxiety; sympathy; to sympathize; to give relief; to compensate"
+],
+[
+"恤",
+13.86,
+"xù",
+"anxiety; sympathy; to sympathize; to give relief; to compensate"
+],
+[
+"恤",
+13.86,
+"xù",
+"variant of 恤[xù]"
+]
+],
 "strokes": [
 "M 119 502 Q 106 432 80 368 Q 67 329 90 299 Q 102 283 120 299 Q 166 350 157 448 Q 156 482 144 507 Q 137 514 131 514 Q 122 511 119 502 Z",
 "M 286 579 Q 301 575 359 533 Q 372 523 386 526 Q 395 527 397 540 Q 398 553 387 578 Q 380 594 349 604 Q 319 610 286 612 C 256 614 258 589 286 579 Z",

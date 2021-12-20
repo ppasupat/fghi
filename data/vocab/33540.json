@@ -1,29 +1,30 @@
 {
 "char": "茄",
-"level": 7,
+"level": "6",
 "info": {
 "gloss": "eggplant",
 "pron": "jiā, qié"
 },
-"words": [],
+"words": [
+[
+"番茄",
+6,
+"fān qié",
+"tomato"
+],
+[
+"茄子",
+6,
+"qié zi",
+"eggplant (Solanum melongena L.); aubergine; brinjal; Guinea squash; phonetic \"cheese\" (when being photographed); equivalent of \"say cheese\""
+]
+],
 "extraWords": [
 [
 "雪茄",
 11.12,
 "xuě jiā",
 "cigar (loanword)"
-],
-[
-"番茄",
-10.38,
-"fān qié",
-"tomato"
-],
-[
-"茄子",
-5.67,
-"qié zi",
-"eggplant (Solanum melongena L.); aubergine; brinjal; Guinea squash; phonetic \"cheese\" (when being photographed); equivalent of \"say cheese\""
 ],
 [
 "番茄酱",

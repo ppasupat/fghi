@@ -1,11 +1,17 @@
 {
 "char": "亡",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "death, destroyed; lose, perish",
 "pron": "wáng"
 },
 "words": [
+[
+"伤亡",
+6,
+"shāng wáng",
+"casualties; injuries and deaths"
+],
 [
 "死亡",
 6,
@@ -14,17 +20,35 @@
 ],
 [
 "灭亡",
-6,
+7,
 "miè wáng",
 "to be destroyed; to become extinct; to perish; to die out; to destroy; to exterminate"
+],
+[
+"逃亡",
+7,
+"táo wáng",
+"to flee; flight (from danger); fugitive"
+],
+[
+"亡羊补牢",
+7,
+"wáng yáng bǔ láo",
+"lit. to mend the pen after sheep are lost (idiom); fig. to act belatedly; better late than never; to lock the stable door after the horse has bolted"
 ]
 ],
 "extraWords": [
 [
-"伤亡",
-18.79,
-"shāng wáng",
-"casualties; injuries and deaths"
+"亡",
+20.15,
+"wáng",
+"to die; to lose; to be gone; to flee; deceased"
+],
+[
+"亡",
+20.15,
+"wáng",
+"old variant of 亡[wáng]"
 ],
 [
 "身亡",
@@ -37,12 +61,6 @@
 9.41,
 "sǐ wáng lǜ",
 "mortality rate"
-],
-[
-"逃亡",
-6.83,
-"táo wáng",
-"to flee; flight (from danger); fugitive"
 ]
 ],
 "strokes": [

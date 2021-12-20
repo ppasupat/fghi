@@ -1,16 +1,40 @@
 {
 "char": "尺",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "Chinese measure approx. 'foot'",
 "pron": "chě, chǐ"
 },
 "words": [
 [
+"尺",
+4,
+"chě",
+"one of the characters used to represent a musical note in gongche notation, 工尺谱[gōng chě pǔ]"
+],
+[
+"尺",
+4,
+"chǐ",
+"a Chinese foot; one-third of a meter; a ruler; a tape-measure; one of the three acupoints for measuring pulse in Chinese medicine; CL:支[zhī],把[bǎ]"
+],
+[
+"尺寸",
+4,
+"chǐ cun",
+"size; dimension; measurement"
+],
+[
 "尺子",
-5,
+4,
 "chǐ zi",
-"rule; ruler (measuring instrument); CL:把[ba3]"
+"rule; ruler (measuring instrument); CL:把[bǎ]"
+],
+[
+"尺度",
+7,
+"chǐ dù",
+"scale; yardstick"
 ]
 ],
 "extraWords": [
@@ -19,18 +43,6 @@
 41.82,
 "yīng chǐ",
 "foot (unit of length equal to 0.3048 m)"
-],
-[
-"尺寸",
-20.44,
-"chǐ cun",
-"size; dimension; measurement"
-],
-[
-"尺度",
-8.48,
-"chǐ dù",
-"scale; yardstick"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "他",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "other, another; he, she, it",
 "pron": "tā"
@@ -13,19 +13,31 @@
 "he or him; (used for either sex when the sex is unknown or unimportant); (used before sb's name for emphasis); (used as a meaningless mock object); other; another"
 ],
 [
-"其他",
-3,
-"qí tā",
-"other; (sth or sb) else; the rest"
-]
-],
-"extraWords": [
-[
 "他们",
-4187.02,
+1,
 "tā men",
 "they"
 ],
+[
+"其他",
+2,
+"qí tā",
+"other; (sth or sb) else; the rest"
+],
+[
+"吉他",
+7,
+"jí tā",
+"guitar (loanword); CL:把[bǎ]"
+],
+[
+"他人",
+7,
+"tā rén",
+"another; sb else; other people"
+]
+],
+"extraWords": [
 [
 "他妈的",
 268.46,
@@ -33,16 +45,16 @@
 "(taboo curse) damn it!; fucking"
 ],
 [
-"他人",
-51.01,
-"tā rén",
-"another; sb else; other people"
+"其他人",
+20.18,
+"???",
+"???"
 ],
 [
-"吉他",
-21.16,
-"jí tā",
-"guitar (loanword); CL:把[ba3]"
+"他家",
+8.47,
+"???",
+"???"
 ]
 ],
 "strokes": [

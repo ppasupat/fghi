@@ -1,6 +1,6 @@
 {
 "char": "态",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "manner, bearing, attitude",
 "pron": "tài"
@@ -8,63 +8,69 @@
 "words": [
 [
 "态度",
-4,
+2,
 "tài du",
-"manner; bearing; attitude; approach; CL:個|个[ge4]"
+"manner; bearing; attitude; approach; CL:个[gè]"
 ],
 [
 "状态",
-5,
+3,
 "zhuàng tài",
-"state of affairs; state; mode; situation; CL:個|个[ge4]"
+"state of affairs; state; mode; situation; CL:个[gè]"
+],
+[
+"动态",
+5,
+"dòng tài",
+"movement; motion; development; trend; dynamic (science)"
+],
+[
+"心态",
+5,
+"xīn tài",
+"attitude (of the heart); state of one's psyche; way of thinking; mentality"
+],
+[
+"形态",
+5,
+"xíng tài",
+"shape; form; pattern; morphology"
+],
+[
+"表态",
+7,
+"biǎo tài",
+"to declare one's position; to say where one stands"
+],
+[
+"常态",
+7,
+"cháng tài",
+"normal state"
+],
+[
+"神态",
+7,
+"shén tài",
+"appearance; manner; bearing; deportment; look; expression; mien"
+],
+[
+"生态",
+7,
+"shēng tài",
+"ecology"
 ],
 [
 "事态",
-6,
+7,
 "shì tài",
 "situation; existing state of affairs"
 ],
 [
 "姿态",
-6,
+7,
 "zī tài",
 "attitude; posture; stance"
-],
-[
-"动态",
-6,
-"dòng tài",
-"movement; motion; development; trend; dynamic (science)"
-],
-[
-"表态",
-6,
-"biǎo tài",
-"to declare one's position; to say where one stands"
-],
-[
-"心态",
-6,
-"xīn tài",
-"attitude (of the heart); state of one's psyche; way of thinking; mentality"
-],
-[
-"生态",
-6,
-"shēng tài",
-"ecology"
-],
-[
-"形态",
-6,
-"xíng tài",
-"shape; form; pattern; morphology"
-],
-[
-"神态",
-6,
-"shén tài",
-"appearance; manner; bearing; deportment; look; expression; mien"
 ]
 ],
 "extraWords": [
@@ -79,6 +85,12 @@
 23.05,
 "tài shì",
 "posture; situation"
+],
+[
+"态",
+16.7,
+"tài",
+"(bound form); appearance; shape; form; state; attitude; (grammar) voice"
 ],
 [
 "意识形态",

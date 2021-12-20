@@ -1,16 +1,22 @@
 {
 "char": "湾",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "bay, cove, inlet, bend of stream",
 "pron": "wān"
 },
 "words": [
 [
-"港湾",
+"海湾",
 6,
-"gǎng wān",
-"natural harbor; bay serving as harbor"
+"Hǎi wān",
+"(Persian) Gulf"
+],
+[
+"海湾",
+6,
+"hǎi wān",
+"bay; gulf"
 ]
 ],
 "extraWords": [
@@ -18,7 +24,7 @@
 "台湾",
 151.51,
 "Tái wān",
-"variant of 臺灣|台湾[Tai2 wan1]"
+"variant of 台湾[Tái wān]"
 ],
 [
 "台湾",
@@ -27,16 +33,16 @@
 "Taiwan"
 ],
 [
-"海湾",
-7.45,
-"Hǎi wān",
-"(Persian) Gulf"
+"湾",
+16.35,
+"wān",
+"bay; gulf; to cast anchor; to moor (a boat)"
 ],
 [
-"海湾",
-7.45,
-"hǎi wān",
-"bay; gulf"
+"台湾地区",
+5.56,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "桃",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "peach; marriage; surname",
 "pron": "táo"
@@ -11,21 +11,27 @@
 5,
 "táo",
 "peach"
-]
 ],
-"extraWords": [
 [
 "桃花",
-14.31,
+5,
 "táo huā",
 "peach blossom; (fig.) love affair"
 ],
 [
-"核桃",
-7.66,
-"hé tao",
-"walnut; CL:個|个[ge4],棵[ke1]"
+"桃树",
+5,
+"táo shù",
+"peach tree; CL:株[zhū]"
 ],
+[
+"核桃",
+7,
+"hé tao",
+"walnut; CL:个[gè],棵[kē]"
+]
+],
+"extraWords": [
 [
 "樱桃",
 7.36,

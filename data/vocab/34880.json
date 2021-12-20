@@ -1,6 +1,6 @@
 {
 "char": "血",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "blood; radical number 143",
 "pron": "xiě, xuè"
@@ -8,21 +8,93 @@
 "words": [
 [
 "血",
-5,
+3,
 "xuè",
-"blood; colloquial pr. [xie3]; CL:滴[di1],片[pian4]"
+"blood; colloquial pr. [xie3]; CL:滴[dī],片[piàn]"
+],
+[
+"血管",
+6,
+"xuè guǎn",
+"vein; artery; CL:根[gēn]"
+],
+[
+"血液",
+6,
+"xuè yè",
+"blood"
+],
+[
+"出血",
+7,
+"chū xuè",
+"to bleed; bleeding; (fig.) to spend money in large amounts"
+],
+[
+"高血压",
+7,
+"gāo xuè yā",
+"high blood pressure; hypertension"
+],
+[
+"流血",
+7,
+"liú xuè",
+"to bleed; to shed blood"
+],
+[
+"输血",
+7,
+"shū xuè",
+"to transfuse blood; to give aid and support"
+],
+[
+"鲜血",
+7,
+"xiān xuè",
+"blood"
+],
+[
+"献血",
+7,
+"xiàn xuè",
+"to donate blood"
+],
+[
+"心血",
+7,
+"xīn xuè",
+"heart's blood; expenditure (for some project); meticulous care"
+],
+[
+"血脉",
+7,
+"xuè mài",
+"blood vessels"
+],
+[
+"血栓",
+7,
+"xuè shuān",
+"blood clot; thrombus"
 ],
 [
 "血压",
-6,
+7,
 "xuè yā",
 "blood pressure"
 ],
 [
-"心血",
-6,
-"xīn xuè",
-"heart's blood; expenditure (for some project); meticulous care"
+"血缘",
+7,
+"xuè yuán",
+"bloodline"
+],
+[
+"止血",
+7,
+"zhǐ xuè",
+"to staunch (bleeding); hemostatic (drug)"
 ]
 ],
 "extraWords": [
@@ -31,30 +103,6 @@
 52.76,
 "xī xuè guǐ",
 "leech; bloodsucking vermin; vampire (translated European notion); fig. cruel exploiter, esp. a capitalist exploiting the workers"
-],
-[
-"血管",
-48.93,
-"xuè guǎn",
-"vein; artery; CL:根[gen1]"
-],
-[
-"血液",
-36.89,
-"xuè yè",
-"blood"
-],
-[
-"出血",
-26.29,
-"chū xuè",
-"to bleed; bleeding; (fig.) to spend money in large amounts"
-],
-[
-"流血",
-25.31,
-"liú xuè",
-"to bleed; to shed blood"
 ],
 [
 "血迹",
@@ -67,18 +115,6 @@
 21.52,
 "xuè qīng",
 "serum; blood serum"
-],
-[
-"高血压",
-17.99,
-"gāo xuè yā",
-"high blood pressure; hypertension"
-],
-[
-"鲜血",
-12.55,
-"xiān xuè",
-"blood"
 ],
 [
 "血浆",
@@ -135,18 +171,6 @@
 "hot blood; warm-blooded (animal); endothermic (physiology)"
 ],
 [
-"献血",
-6.85,
-"xiàn xuè",
-"to donate blood"
-],
-[
-"止血",
-6.8,
-"zhǐ xuè",
-"to staunch (bleeding); hemostatic (drug)"
-],
-[
 "血性",
 6.33,
 "xuè xìng",
@@ -157,12 +181,6 @@
 6.19,
 "xuè xíng",
 "blood group; blood type"
-],
-[
-"血栓",
-6.07,
-"xuè shuān",
-"blood clot; thrombus"
 ],
 [
 "造血",

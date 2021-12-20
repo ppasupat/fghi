@@ -1,14 +1,20 @@
 {
 "char": "职",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "duty, profession; office, post",
 "pron": "zhí"
 },
 "words": [
 [
+"职工",
+3,
+"zhí gōng",
+"workers; staff; CL:个[gè]"
+],
+[
 "职业",
-4,
+3,
 "zhí yè",
 "occupation; profession; vocation; professional"
 ],
@@ -19,54 +25,108 @@
 "to resign"
 ],
 [
-"兼职",
+"职能",
 5,
-"jiān zhí",
-"to hold concurrent posts; concurrent job; moonlighting"
+"zhí néng",
+"function; role"
 ],
 [
 "职位",
-6,
+5,
 "zhí wèi",
 "post; office; position"
 ],
 [
 "职务",
-6,
+5,
 "zhí wù",
 "post; position; job; duties"
 ],
 [
-"就职",
+"求职",
 6,
-"jiù zhí",
-"to take office; to assume a post"
-],
-[
-"职能",
-6,
-"zhí néng",
-"function; role"
-]
-],
-"extraWords": [
-[
-"职工",
-119.28,
-"zhí gōng",
-"workers; staff; CL:個|个[ge4]"
+"qiú zhí",
+"to seek employment"
 ],
 [
 "职责",
-30.52,
+6,
 "zhí zé",
 "duty; responsibility; obligation"
 ],
 [
+"公职",
+7,
+"gōng zhí",
+"civil service; public office; government job"
+],
+[
+"兼职",
+7,
+"jiān zhí",
+"to hold concurrent posts; concurrent job; moonlighting"
+],
+[
+"就职",
+7,
+"jiù zhí",
+"to take office; to assume a post"
+],
+[
+"离职",
+7,
+"lí zhí",
+"to retire; to leave office; to quit a job"
+],
+[
+"免职",
+7,
+"miǎn zhí",
+"to relieve sb of his post; to sack; to demote; dismissal; sacking"
+],
+[
 "任职",
-12.03,
+7,
 "rèn zhí",
 "to hold an office or post"
+],
+[
+"在职",
+7,
+"zài zhí",
+"to be employed; to be in post; on-the-job"
+],
+[
+"职权",
+7,
+"zhí quán",
+"authority; power over others"
+],
+[
+"职业病",
+7,
+"zhí yè bìng",
+"occupational disease"
+],
+[
+"职员",
+7,
+"zhí yuán",
+"office worker; staff member; CL:个[gè],位[wèi]"
+],
+[
+"专职",
+7,
+"zhuān zhí",
+"special duty; assigned full time to a task"
+]
+],
+"extraWords": [
+[
+"职",
+40.76,
+"zhí",
+"office; duty"
 ],
 [
 "职场",
@@ -75,34 +135,10 @@
 "workplace; workforce (of a nation or industry etc); job market"
 ],
 [
-"职员",
-9.3,
-"zhí yuán",
-"office worker; staff member; CL:個|个[ge4],位[wei4]"
-],
-[
 "职业教育",
 8.34,
 "zhí yè jiào yù",
 "vocational training"
-],
-[
-"职权",
-8.21,
-"zhí quán",
-"authority; power over others"
-],
-[
-"求职",
-7.78,
-"qiú zhí",
-"to seek employment"
-],
-[
-"专职",
-7.63,
-"zhuān zhí",
-"special duty; assigned full time to a task"
 ],
 [
 "职称",
@@ -111,22 +147,10 @@
 "one's professional position; title; job title"
 ],
 [
-"在职",
-6.48,
-"zài zhí",
-"to be employed; to be in post; on-the-job"
-],
-[
 "称职",
 6.08,
 "chèn zhí",
 "well qualified; competent; to be equal to the task; able to do sth very well"
-],
-[
-"离职",
-5.25,
-"lí zhí",
-"to retire; to leave office; to quit a job"
 ],
 [
 "停职",

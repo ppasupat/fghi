@@ -1,90 +1,132 @@
 {
 "char": "思",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "think, consider, ponder; final particle",
 "pron": "sī"
 },
 "words": [
 [
-"意思",
-2,
-"yì si",
-"idea; opinion; meaning; wish; desire; interest; fun; token of appreciation, affection etc; CL:個|个[ge4]; to give as a small token; to do sth as a gesture of goodwill etc"
-],
-[
-"思考",
-5,
-"sī kǎo",
-"to reflect on; to ponder over"
-],
-[
-"思想",
-5,
-"sī xiǎng",
-"thought; thinking; idea; ideology; CL:個|个[ge4]"
-],
-[
-"不可思议",
-6,
-"bù kě sī yì",
-"inconceivable (idiom); unimaginable; unfathomable"
-],
-[
-"思维",
-6,
-"sī wéi",
-"(line of) thought; thinking"
-],
-[
-"思念",
-6,
-"sī niàn",
-"to think of; to long for; to miss"
-],
-[
-"构思",
-6,
-"gòu sī",
-"to design; to plot; to plan out; to compose; to draw a mental sketch; conception; plan; idea; composition"
-],
-[
-"沉思",
-6,
-"chén sī",
-"to contemplate; to ponder; contemplation; meditation"
-],
-[
-"思索",
-6,
-"sī suǒ",
-"to think deeply; to ponder"
-],
-[
-"反思",
-6,
-"fǎn sī",
-"to think back over sth; to review; to revisit; to rethink; reflection; reassessment"
-]
-],
-"extraWords": [
-[
 "不好意思",
-143.23,
+2,
 "bù hǎo yì si",
 "to feel embarrassed; to find it embarrassing; to be sorry (for inconveniencing sb)"
 ],
 [
+"意思",
+2,
+"yì si",
+"idea; opinion; meaning; wish; desire; interest; fun; token of appreciation, affection etc; CL:个[gè]; to give as a small token; to do sth as a gesture of goodwill etc"
+],
+[
 "有意思",
-90.29,
+2,
 "yǒu yì si",
 "interesting; meaningful; enjoyable; fun"
 ],
 [
+"思想",
+3,
+"sī xiǎng",
+"thought; thinking; idea; ideology; CL:个[gè]"
+],
+[
+"思考",
+4,
+"sī kǎo",
+"to reflect on; to ponder over"
+],
+[
+"思维",
+5,
+"sī wéi",
+"(line of) thought; thinking"
+],
+[
+"不假思索",
+7,
+"bù jiǎ sī suǒ",
+"to act without taking time to think (idiom); to react instantly; to fire from the hip"
+],
+[
+"不可思议",
+7,
+"bù kě sī yì",
+"inconceivable (idiom); unimaginable; unfathomable"
+],
+[
+"沉思",
+7,
+"chén sī",
+"to contemplate; to ponder; contemplation; meditation"
+],
+[
+"反思",
+7,
+"fǎn sī",
+"to think back over sth; to review; to revisit; to rethink; reflection; reassessment"
+],
+[
+"构思",
+7,
+"gòu sī",
+"to design; to plot; to plan out; to compose; to draw a mental sketch; conception; plan; idea; composition"
+],
+[
+"胡思乱想",
+7,
+"hú sī luàn xiǎng",
+"to indulge in flights of fancy (idiom); to let one's imagination run wild"
+],
+[
+"没意思",
+7,
+"méi yì si",
+"boring; of no interest"
+],
+[
+"深思",
+7,
+"shēn sī",
+"to ponder; to consider"
+],
+[
 "思路",
-41.42,
+7,
 "sī lù",
 "train of thought; thinking; reason; reasoning"
+],
+[
+"思念",
+7,
+"sī niàn",
+"to think of; to long for; to miss"
+],
+[
+"思前想后",
+7,
+"sī qián xiǎng hòu",
+"to consider past cause and future effect (idiom); to think over the past and future; to ponder over reasons and connection"
+],
+[
+"思索",
+7,
+"sī suǒ",
+"to think deeply; to ponder"
+],
+[
+"心思",
+7,
+"xīn si",
+"mind; thoughts; inclination; mood"
+]
+],
+"extraWords": [
+[
+"思",
+46.79,
+"sī",
+"to think; to consider"
 ],
 [
 "毛泽东思想",
@@ -97,12 +139,6 @@
 20.7,
 "Mǎ kè sī zhǔ yì",
 "Marxism"
-],
-[
-"心思",
-18.21,
-"xīn si",
-"mind; thoughts; inclination; mood"
 ],
 [
 "马克思",
@@ -127,18 +163,6 @@
 5.55,
 "sī xù",
 "train of thought; emotional state; mood; feeling"
-],
-[
-"没意思",
-5.37,
-"méi yì si",
-"boring; of no interest"
-],
-[
-"深思",
-5.04,
-"shēn sī",
-"to ponder; to consider"
 ]
 ],
 "strokes": [

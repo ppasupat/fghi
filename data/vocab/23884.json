@@ -1,6 +1,6 @@
 {
 "char": "嵌",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "inlay, set in; fall into; rugged",
 "pron": "qiàn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "镶嵌",
-6,
+7,
 "xiāng qiàn",
 "to inlay; to embed; to set (e.g. a jewel in a ring); tiling; tesselation"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"嵌",
+6.8,
+"kǎn",
+"see 赤嵌楼[Chì kǎn lóu]"
+],
+[
+"嵌",
+6.8,
+"qiàn",
+"to inlay; to embed; Taiwan pr. [qian1]"
+]
+],
 "strokes": [
 "M 544 660 Q 553 712 561 760 Q 574 803 569 813 Q 565 817 559 822 Q 528 840 506 845 Q 491 849 484 841 Q 477 834 484 821 Q 502 794 502 653 C 502 623 539 630 544 660 Z",
 "M 707 682 Q 619 675 544 660 L 502 653 Q 429 641 368 623 Q 349 619 354 642 Q 366 711 357 727 Q 344 743 322 756 Q 312 760 302 759 Q 292 755 299 738 Q 315 699 309 661 Q 305 624 289 609 Q 271 593 278 580 Q 288 567 303 556 Q 316 549 325 556 Q 358 595 582 635 Q 675 653 699 647 C 729 645 737 685 707 682 Z",

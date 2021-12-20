@@ -1,37 +1,85 @@
 {
 "char": "似",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "resemble, similar to; as if, seem",
 "pron": "shì, sì"
 },
 "words": [
 [
-"似乎",
-5,
-"sì hū",
-"apparently; to seem; to appear; as if; seemingly"
-],
-[
-"似的",
-5,
-"shì de",
-"seems as if; rather like; Taiwan pr. [si4 de5]"
+"类似",
+3,
+"lèi sì",
+"similar; analogous"
 ],
 [
 "相似",
-5,
+3,
 "xiāng sì",
 "to resemble; similar; like; resemblance; similarity"
 ],
 [
-"类似",
+"似的",
+4,
+"shì de",
+"seems as if; rather like; Taiwan pr. [si4 de5]"
+],
+[
+"似乎",
+4,
+"sì hū",
+"apparently; to seem; to appear; as if; seemingly"
+],
+[
+"好似",
 6,
-"lèi sì",
-"similar; analogous"
+"hǎo sì",
+"to seem; to be like"
+],
+[
+"看似",
+7,
+"kàn sì",
+"to look as if; to seem"
+],
+[
+"酷似",
+7,
+"kù sì",
+"to strikingly resemble"
+],
+[
+"似曾相识",
+7,
+"sì céng xiāng shí",
+"déjà vu (the experience of seeing exactly the same situation a second time); seemingly familiar; apparently already acquainted"
+],
+[
+"似是而非",
+7,
+"sì shì ér fēi",
+"apparently right but actually wrong; specious (idiom)"
 ]
 ],
 "extraWords": [
+[
+"似",
+63.15,
+"shì",
+"see 似的[shì de]"
+],
+[
+"似",
+63.15,
+"sì",
+"to seem; to appear; to resemble; similar; -like; pseudo-; (more) than"
+],
+[
+"似",
+63.15,
+"sì",
+"old variant of 似[sì]"
+],
 [
 "貌似",
 30.73,
@@ -39,10 +87,10 @@
 "to appear to be; to seem as if"
 ],
 [
-"好似",
-14.4,
-"hǎo sì",
-"to seem; to be like"
+"类似于",
+6.88,
+"???",
+"???"
 ]
 ],
 "strokes": [

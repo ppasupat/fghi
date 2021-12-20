@@ -1,6 +1,6 @@
 {
 "char": "陵",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "hill, mound; mausoleum",
 "pron": "líng"
@@ -8,17 +8,29 @@
 "words": [
 [
 "丘陵",
-6,
+7,
 "qiū líng",
 "hills"
 ]
 ],
 "extraWords": [
 [
+"陵",
+11.37,
+"líng",
+"mound; tomb; hill; mountain"
+],
+[
 "金陵",
 9.9,
 "Jīn líng",
 "pre-Han name for Nanjing; common place name"
+],
+[
+"金陵晚报",
+5.84,
+"???",
+"???"
 ]
 ],
 "strokes": [

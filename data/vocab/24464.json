@@ -1,12 +1,31 @@
 {
 "char": "徐",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "slowly, quietly, calmly; composed, dignified",
 "pron": "xú"
 },
-"words": [],
+"words": [
+[
+"徐徐",
+7,
+"xú xú",
+"slowly; gently"
+]
+],
 "extraWords": [
+[
+"徐",
+21.36,
+"Xú",
+"surname Xu"
+],
+[
+"徐",
+21.36,
+"xú",
+"slowly; gently"
+],
 [
 "徐州",
 6.34,

@@ -1,6 +1,6 @@
 {
 "char": "耕",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "plow, cultivate",
 "pron": "gēng"
@@ -8,7 +8,7 @@
 "words": [
 [
 "耕地",
-6,
+7,
 "gēng dì",
 "arable land; to plow land"
 ]
@@ -19,6 +19,18 @@
 5.98,
 "chūn gēng",
 "to plow a field in the spring"
+],
+[
+"耕",
+5.32,
+"gēng",
+"variant of 耕[gēng]"
+],
+[
+"耕",
+5.32,
+"gēng",
+"to plow; to till"
 ],
 [
 "耕耘",

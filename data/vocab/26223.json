@@ -1,6 +1,6 @@
 {
 "char": "景",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "scenery, view; conditions",
 "pron": "jǐng"
@@ -8,72 +8,90 @@
 "words": [
 [
 "景色",
-4,
+3,
 "jǐng sè",
 "scenery; scene; landscape; view"
 ],
 [
 "背景",
-5,
+4,
 "bèi jǐng",
-"background; backdrop; context; (fig.) powerful backer; CL:種|种[zhong3]"
+"background; backdrop; context; (fig.) powerful backer; CL:种[zhǒng]"
 ],
 [
 "风景",
-5,
+4,
 "fēng jǐng",
-"scenery; landscape; CL:個|个[ge4]"
+"scenery; landscape; CL:个[gè]"
 ],
 [
 "情景",
-5,
+4,
 "qíng jǐng",
 "scene; spectacle; circumstances; situation"
 ],
 [
+"景象",
+5,
+"jǐng xiàng",
+"scene; sight (to behold)"
+],
+[
 "前景",
-6,
+5,
 "qián jǐng",
 "foreground; vista; (future) prospects; perspective"
-]
 ],
-"extraWords": [
+[
+"场景",
+6,
+"chǎng jǐng",
+"scene; scenario; setting"
+],
+[
+"景",
+6,
+"Jǐng",
+"surname Jing"
+],
+[
+"景",
+6,
+"jǐng",
+"(bound form) scenery; circumstance; situation; scene (of a play); (literary) sunlight"
+],
+[
+"景点",
+6,
+"jǐng diǎn",
+"scenic spot; place of interest (tourism)"
+],
+[
+"不景气",
+7,
+"bù jǐng qì",
+"slack; in a slump"
+],
 [
 "景观",
-25.89,
+7,
 "jǐng guān",
 "landscape"
 ],
 [
 "景区",
-22.78,
+7,
 "jǐng qū",
 "scenic area"
 ],
 [
-"场景",
-22.44,
-"chǎng jǐng",
-"scene; scenario; setting"
-],
-[
-"景点",
-17.36,
-"jǐng diǎn",
-"scenic spot; place of interest (tourism)"
-],
-[
-"景象",
-12.9,
-"jǐng xiàng",
-"scene; sight (to behold)"
-],
-[
 "美景",
-7.82,
+7,
 "měi jǐng",
 "beautiful scenery"
+]
 ],
+"extraWords": [
 [
 "景气",
 6.32,

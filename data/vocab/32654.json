@@ -1,70 +1,196 @@
 {
 "char": "美",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "beautiful, pretty; pleasing",
 "pron": "měi"
 },
 "words": [
 [
+"美",
+3,
+"Měi",
+"the Americas; abbr. for 美洲[Měi zhōu]; USA; abbr. for 美国[Měi guó]"
+],
+[
+"美",
+3,
+"měi",
+"beautiful; very satisfactory; good; to beautify; to be pleased with oneself"
+],
+[
+"美好",
+3,
+"měi hǎo",
+"beautiful; fine"
+],
+[
 "美丽",
-4,
+3,
 "měi lì",
 "beautiful"
 ],
 [
+"美食",
+3,
+"měi shí",
+"culinary delicacy; fine food; gourmet food"
+],
+[
+"美术",
+3,
+"měi shù",
+"art; fine arts; painting; CL:种[zhǒng]"
+],
+[
+"美元",
+3,
+"Měi yuán",
+"American dollar; US dollar"
+],
+[
 "完美",
-5,
+3,
 "wán měi",
 "perfect; perfection; perfectly"
 ],
 [
-"赞美",
-5,
-"zàn měi",
-"to admire; to praise; to eulogize"
+"美金",
+4,
+"Měi jīn",
+"US dollar; USD"
+],
+[
+"美女",
+4,
+"měi nǚ",
+"beautiful woman"
 ],
 [
 "优美",
-5,
+4,
 "yōu měi",
 "graceful; fine; elegant"
 ],
 [
-"美术",
-5,
-"měi shù",
-"art; fine arts; painting; CL:種|种[zhong3]"
+"精美",
+6,
+"jīng měi",
+"delicate; fine; refinement"
 ],
 [
-"美妙",
+"美容",
 6,
-"měi miào",
-"beautiful; wonderful; splendid"
+"měi róng",
+"to improve one's appearance (using cosmetics or cosmetic surgery); to make oneself more attractive; to beautify"
 ],
 [
-"美满",
-6,
-"měi mǎn",
-"happy; blissful"
+"健美",
+7,
+"jiàn měi",
+"healthy and beautiful; to do fitness exercises; abbr. for 健美运动[jiàn měi yùn dòng]"
+],
+[
+"美德",
+7,
+"Měi Dé",
+"USA and Germany"
+],
+[
+"美德",
+7,
+"měi dé",
+"virtue"
 ],
 [
 "美观",
-6,
+7,
 "měi guān",
 "pleasing to the eye; beautiful; artistic"
 ],
 [
-"物美价廉",
-6,
-"wù měi jià lián",
-"good quality and cheap; a bargain"
+"美化",
+7,
+"měi huà",
+"to make more beautiful; to decorate; embellishment"
+],
+[
+"美景",
+7,
+"měi jǐng",
+"beautiful scenery"
+],
+[
+"美满",
+7,
+"měi mǎn",
+"happy; blissful"
+],
+[
+"美妙",
+7,
+"měi miào",
+"beautiful; wonderful; splendid"
+],
+[
+"美人",
+7,
+"měi rén",
+"beauty; belle"
+],
+[
+"美味",
+7,
+"měi wèi",
+"delicious; delicious food; delicacy"
+],
+[
+"美中不足",
+7,
+"měi zhōng bù zú",
+"everything is fine except for one small defect (idiom); the fly in the ointment"
+],
+[
+"美滋滋",
+7,
+"měi zī zī",
+"very happy; elated"
+],
+[
+"媲美",
+7,
+"pì měi",
+"to match; is comparable with"
 ],
 [
 "审美",
-6,
+7,
 "shěn měi",
 "esthetics; appreciating the arts; taste"
+],
+[
+"甜美",
+7,
+"tián měi",
+"sweet; pleasant; happy"
+],
+[
+"鲜美",
+7,
+"xiān měi",
+"delicious; tasty"
+],
+[
+"秀美",
+7,
+"xiù měi",
+"elegant; graceful"
+],
+[
+"赞美",
+7,
+"zàn měi",
+"to admire; to praise; to eulogize"
 ]
 ],
 "extraWords": [
@@ -75,58 +201,16 @@
 "United States; USA; US"
 ],
 [
-"美元",
-307.45,
-"Měi yuán",
-"American dollar; US dollar"
-],
-[
-"美好",
-78.09,
-"měi hǎo",
-"beautiful; fine"
-],
-[
-"美女",
-62.55,
-"měi nǚ",
-"beautiful woman"
-],
-[
-"美金",
-36.34,
-"Měi jīn",
-"US dollar; USD"
-],
-[
-"美容",
-27.72,
-"měi róng",
-"to improve one's appearance (using cosmetics or cosmetic surgery); to make oneself more attractive; to beautify"
-],
-[
 "欧美",
 25.83,
 "Ōu Měi",
 "Europe and America; the West"
 ],
 [
-"美食",
-25.19,
-"měi shí",
-"culinary delicacy; fine food; gourmet food"
-],
-[
-"美味",
-23.64,
-"měi wèi",
-"delicious; delicious food; delicacy"
-],
-[
 "美国人",
 21.9,
 "Měi guó rén",
-"American; American person; American people; CL:個|个[ge4]"
+"American; American person; American people; CL:个[gè]"
 ],
 [
 "中美",
@@ -135,34 +219,34 @@
 "China-USA"
 ],
 [
-"美人",
-21.59,
-"měi rén",
-"beauty; belle"
-],
-[
 "美分",
 17.67,
 "Měi fēn",
 "one cent (United States coin)"
 ],
 [
-"精美",
-16.46,
-"jīng měi",
-"delicate; fine; refinement"
+"美帝国主义",
+14.94,
+"???",
+"???"
 ],
 [
-"甜美",
-14.03,
-"tián měi",
-"sweet; pleasant; happy"
+"全美超",
+12.85,
+"???",
+"???"
+],
+[
+"美美",
+11.29,
+"???",
+"???"
 ],
 [
 "美联社",
 10.14,
 "Měi Lián shè",
-"Associated Press (AP); abbr. for 美國聯合通訊社|美国联合通讯社[Mei3 guo2 Lian2 he2 Tong1 xun4 she4]"
+"Associated Press (AP); abbr. for 美国联合通讯社[Měi guó Lián hé Tōng xùn shè]"
 ],
 [
 "北美",
@@ -171,16 +255,28 @@
 "North America"
 ],
 [
+"艾美",
+8.53,
+"???",
+"???"
+],
+[
 "美学",
 7.83,
 "měi xué",
 "aesthetics"
 ],
 [
-"美景",
-7.82,
-"měi jǐng",
-"beautiful scenery"
+"美梦",
+7.51,
+"???",
+"???"
+],
+[
+"美国队",
+7.5,
+"???",
+"???"
 ],
 [
 "国美",
@@ -195,12 +291,6 @@
 "love of beauty; wishing to appear beautiful; to set store by one's appearance"
 ],
 [
-"美化",
-6.69,
-"měi huà",
-"to make more beautiful; to decorate; embellishment"
-],
-[
 "美军",
 6.35,
 "Měi jūn",
@@ -210,19 +300,7 @@
 "美洲",
 6.15,
 "Měi zhōu",
-"America (including North, Central and South America); the Americas; abbr. for 亞美利加洲|亚美利加洲[Ya4 mei3 li4 jia1 Zhou1]"
-],
-[
-"美德",
-6.03,
-"Měi Dé",
-"USA and Germany"
-],
-[
-"美德",
-6.03,
-"měi dé",
-"virtue"
+"America (including North, Central and South America); the Americas; abbr. for 亚美利加洲[Yà měi lì jiā Zhōu]"
 ],
 [
 "美貌",

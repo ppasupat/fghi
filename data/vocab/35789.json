@@ -1,34 +1,58 @@
 {
 "char": "词",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "words; phrase, expression",
 "pron": "cí"
 },
 "words": [
 [
+"词",
+2,
+"cí",
+"old variant of 词[cí]"
+],
+[
+"词",
+2,
+"cí",
+"word; statement; speech; lyrics; CL:组[zǔ],个[gè]; a form of lyric poetry, flourishing in the Song dynasty 宋朝[Sòng cháo]; CL:首[shǒu]"
+],
+[
 "词典",
-3,
+2,
 "cí diǎn",
-"dictionary; also written 辭典|辞典[ci2 dian3]; CL:部[bu4],本[ben3]"
+"dictionary; also written 辞典[cí diǎn]; CL:部[bù],本[běn]"
 ],
 [
 "词语",
-4,
+2,
 "cí yǔ",
 "word (general term including monosyllables through to short phrases); term (e.g. technical term); expression"
 ],
 [
-"词汇",
-5,
-"cí huì",
-"variant of 詞彙|词汇[ci2 hui4]"
+"生词",
+2,
+"shēng cí",
+"new word (in textbook); word that is unfamiliar or not yet studied; CL:组[zǔ],个[gè]"
 ],
 [
 "词汇",
-5,
+4,
+"cí huì",
+"variant of 词汇[cí huì]"
+],
+[
+"词汇",
+4,
 "cí huì",
 "vocabulary; list of words (e.g. for language teaching purposes); word"
+],
+[
+"歌词",
+6,
+"gē cí",
+"song lyric; lyrics"
 ]
 ],
 "extraWords": [
@@ -45,12 +69,6 @@
 "an actor's lines; dialogue; Taiwanese word"
 ],
 [
-"歌词",
-14.52,
-"gē cí",
-"song lyric; lyrics"
-],
-[
 "关键词",
 11.89,
 "guān jiàn cí",
@@ -60,7 +78,7 @@
 "单词",
 8.61,
 "dān cí",
-"word; CL:個|个[ge4]"
+"word; CL:个[gè]"
 ],
 [
 "名词",

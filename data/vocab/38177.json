@@ -1,17 +1,30 @@
 {
 "char": "锡",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "tin, stannum; bestow, confer",
 "pron": "xī"
 },
-"words": [],
+"words": [
+[
+"锡",
+7,
+"xī",
+"tin (chemistry); to bestow; to confer; to grant; Taiwan pr. [xi2]"
+]
+],
 "extraWords": [
 [
 "无锡",
 12.88,
 "Wú xī",
 "Wuxi prefecture level city in Jiangsu"
+],
+[
+"麦卡锡",
+3.88,
+"???",
+"???"
 ]
 ],
 "strokes": [

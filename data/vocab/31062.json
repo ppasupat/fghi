@@ -1,6 +1,6 @@
 {
 "char": "祖",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "ancestor, forefather; grandfather",
 "pron": "zǔ"
@@ -19,18 +19,48 @@
 "motherland"
 ],
 [
-"祖先",
+"祖母",
 6,
+"zǔ mǔ",
+"father's mother; paternal grandmother"
+],
+[
+"祖传",
+7,
+"zǔ chuán",
+"passed on from ancestors; handed down from generation to generation"
+],
+[
+"祖籍",
+7,
+"zǔ jí",
+"ancestral hometown; original domicile (and civil registration)"
+],
+[
+"祖先",
+7,
 "zǔ xiān",
 "ancestor; forebears"
+],
+[
+"祖宗",
+7,
+"zǔ zōng",
+"ancestor; forebear"
 ]
 ],
 "extraWords": [
 [
-"祖母",
-17.2,
-"zǔ mǔ",
-"father's mother; paternal grandmother"
+"祖",
+16.72,
+"Zǔ",
+"surname Zu"
+],
+[
+"祖",
+16.72,
+"zǔ",
+"ancestor; forefather; grandparents"
 ]
 ],
 "strokes": [

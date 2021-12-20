@@ -1,26 +1,38 @@
 {
 "char": "环",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "jade ring or bracelet; ring",
 "pron": "huán"
 },
 "words": [
 [
+"环",
+3,
+"Huán",
+"surname Huan"
+],
+[
+"环",
+3,
+"huán",
+"ring; hoop; loop; (chain) link; classifier for scores in archery etc; to surround; to encircle; to hem in"
+],
+[
+"环保",
+3,
+"huán bǎo",
+"environmental protection; environmentally friendly; abbr. for 环境保护[huán jìng bǎo hù]"
+],
+[
 "环境",
 3,
 "huán jìng",
-"environment; circumstances; surroundings; CL:個|个[ge4]; ambient"
-],
-[
-"耳环",
-5,
-"ěr huán",
-"earring; CL:隻|只[zhi1],對|对[dui4]"
+"environment; circumstances; surroundings; CL:个[gè]; ambient"
 ],
 [
 "环节",
-6,
+5,
 "huán jié",
 "(zoology) segment (of the body of a worm, centipede etc); (fig.) a part of an integrated whole: aspect (of a project), element (of a policy), sector (of the economy), stage (of a process) etc"
 ],
@@ -29,15 +41,27 @@
 6,
 "xún huán",
 "to cycle; to circulate; circle; loop"
+],
+[
+"光环",
+7,
+"guāng huán",
+"halo; ring of light"
+],
+[
+"环球",
+7,
+"huán qiú",
+"around the world; worldwide"
+],
+[
+"环绕",
+7,
+"huán rào",
+"to surround; to circle; to revolve around"
 ]
 ],
 "extraWords": [
-[
-"环保",
-74.26,
-"huán bǎo",
-"environmental protection; environmentally friendly; abbr. for 環境保護|环境保护[huan2 jing4 bao3 hu4]"
-],
 [
 "连环",
 17.35,
@@ -51,28 +75,22 @@
 "environmental protection"
 ],
 [
-"环球",
-15.19,
-"huán qiú",
-"around the world; worldwide"
+"耳环",
+8.85,
+"ěr huán",
+"earring; CL:只[zhī],对[duì]"
 ],
 [
 "环卫",
 8.13,
 "huán wèi",
-"public cleanliness; (urban) sanitation; environmental sanitation; abbr. for 環境衛生|环境卫生[huan2 jing4 wei4 sheng1]"
+"public cleanliness; (urban) sanitation; environmental sanitation; abbr. for 环境卫生[huán jìng wèi shēng]"
 ],
 [
 "环境污染",
 7.14,
 "huán jìng wū rǎn",
 "environmental pollution"
-],
-[
-"环绕",
-6.35,
-"huán rào",
-"to surround; to circle; to revolve around"
 ]
 ],
 "strokes": [

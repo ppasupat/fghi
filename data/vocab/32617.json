@@ -1,16 +1,28 @@
 {
 "char": "罩",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "basket for catching fish; cover",
 "pron": "zhào"
 },
 "words": [
 [
+"口罩",
+7,
+"kǒu zhào",
+"mask (surgical etc)"
+],
+[
 "笼罩",
-6,
+7,
 "lǒng zhào",
 "to envelop; to shroud"
+],
+[
+"罩",
+7,
+"zhào",
+"cover; fish trap (basket); shade"
 ]
 ],
 "extraWords": [
@@ -19,12 +31,6 @@
 7.48,
 "xiōng zhào",
 "brassiere (underwear); bra"
-],
-[
-"口罩",
-5.52,
-"kǒu zhào",
-"mask (surgical etc)"
 ]
 ],
 "strokes": [

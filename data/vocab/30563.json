@@ -1,11 +1,17 @@
 {
 "char": "督",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "supervise, oversee, direct",
 "pron": "dū"
 },
 "words": [
+[
+"基督教",
+6,
+"Jī dū jiào",
+"Christianity; Christian"
+],
 [
 "监督",
 6,
@@ -14,7 +20,7 @@
 ],
 [
 "督促",
-6,
+7,
 "dū cù",
 "to supervise and urge completion of a task; to urge on"
 ]
@@ -24,7 +30,7 @@
 "基督",
 16.66,
 "Jī dū",
-"Christ (abbr. for 基利斯督[Ji1 li4 si1 du1] or 基利士督[Ji1 li4 shi4 du1])"
+"Christ (abbr. for 基利斯督[Jī lì sī dū] or 基利士督[Jī lì shì dū])"
 ],
 [
 "督察",
@@ -33,16 +39,16 @@
 "to supervise; to superintend; inspector; censorship"
 ],
 [
+"督",
+10.05,
+"dū",
+"to supervise and direct; army title (archaic)"
+],
+[
 "基督徒",
 7.33,
 "Jī dū tú",
 "Christian"
-],
-[
-"基督教",
-6.8,
-"Jī dū jiào",
-"Christianity; Christian"
 ]
 ],
 "strokes": [

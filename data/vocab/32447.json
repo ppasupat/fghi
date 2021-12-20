@@ -1,90 +1,162 @@
 {
 "char": "线",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "line, thread, wire; clue",
 "pron": "xiàn"
 },
 "words": [
 [
-"占线",
-4,
-"zhàn xiàn",
-"busy (telephone line)"
+"路线",
+3,
+"lù xiàn",
+"itinerary; route; political line (e.g. right revisionist road); CL:条[tiáo]"
+],
+[
+"线",
+3,
+"xiàn",
+"variant of 线[xiàn]"
+],
+[
+"线",
+3,
+"xiàn",
+"thread; string; wire; line; CL:条[tiáo],股[gǔ],根[gēn]; (after a number) tier (unofficial ranking of a Chinese city)"
+],
+[
+"光线",
+5,
+"guāng xiàn",
+"light ray; CL:条[tiáo],道[dào]; light; illumination; lighting (for a photograph)"
 ],
 [
 "线索",
-6,
+5,
 "xiàn suǒ",
 "trail; clues; thread (of a story)"
 ],
 [
-"视线",
-6,
-"shì xiàn",
-"line of sight"
-]
-],
-"extraWords": [
-[
-"路线",
-60.81,
-"lù xiàn",
-"itinerary; route; political line (e.g. right revisionist road); CL:條|条[tiao2]"
-],
-[
-"在线",
-48.45,
-"zài xiàn",
-"online"
-],
-[
-"线路",
-36.28,
-"xiàn lù",
-"line; circuit; wire; road; railway track; bus route"
+"直线",
+5,
+"zhí xiàn",
+"straight line; sharply (rise or fall)"
 ],
 [
 "热线",
-30.1,
+6,
 "rè xiàn",
 "hotline (communications link)"
 ],
 [
+"线路",
+6,
+"xiàn lù",
+"line; circuit; wire; road; railway track; bus route"
+],
+[
+"底线",
+7,
+"dǐ xiàn",
+"to underline; bottom line; base line (in sports); baseline; minimum; spy; plant"
+],
+[
+"第一线",
+7,
+"dì yī xiàn",
+"front line; forefront"
+],
+[
+"电线",
+7,
+"diàn xiàn",
+"wire; power cord; CL:根[gēn]"
+],
+[
+"界线",
+7,
+"jiè xiàn",
+"limits; bounds; dividing line"
+],
+[
+"起跑线",
+7,
+"qǐ pǎo xiàn",
+"the starting line (of a race); scratch line (in a relay race)"
+],
+[
+"前线",
+7,
+"qián xiàn",
+"front line; military front; workface; cutting edge"
+],
+[
+"曲线",
+7,
+"qū xiàn",
+"curve; curved line; indirect; in a roundabout way"
+],
+[
+"生命线",
+7,
+"shēng mìng xiàn",
+"lifeline"
+],
+[
+"视线",
+7,
+"shì xiàn",
+"line of sight"
+],
+[
+"天线",
+7,
+"tiān xiàn",
+"antenna; mast; connection with high-ranking officials"
+],
+[
 "无线",
-28.49,
+7,
 "wú xiàn",
 "wireless"
 ],
 [
+"无线电",
+7,
+"wú xiàn diàn",
+"wireless"
+],
+[
+"线条",
+7,
+"xiàn tiáo",
+"line (in drawing, calligraphy etc); the lines or contours of a three-dimensional object (hairstyle, clothing, car etc)"
+],
+[
+"沿线",
+7,
+"yán xiàn",
+"along the line (e.g. railway); the region near the line"
+],
+[
 "一线",
-26.57,
+7,
 "yī xiàn",
 "front line"
 ],
+[
+"在线",
+7,
+"zài xiàn",
+"online"
+]
+],
+"extraWords": [
 [
 "短线",
 25.27,
 "duǎn xiàn",
 "short term"
-],
-[
-"曲线",
-22.79,
-"qū xiàn",
-"curve; curved line; indirect; in a roundabout way"
-],
-[
-"底线",
-16.93,
-"dǐ xiàn",
-"to underline; bottom line; base line (in sports); baseline; minimum; spy; plant"
-],
-[
-"无线电",
-15.47,
-"wú xiàn diàn",
-"wireless"
 ],
 [
 "航线",
@@ -105,28 +177,10 @@
 "battle line; battlefront; front"
 ],
 [
-"前线",
-13.37,
-"qián xiàn",
-"front line; military front; workface; cutting edge"
-],
-[
 "全线",
 12.53,
 "quán xiàn",
 "the whole front (in a war); the whole length (of a road or railway line)"
-],
-[
-"线条",
-11.73,
-"xiàn tiáo",
-"line (in drawing, calligraphy etc); the lines or contours of a three-dimensional object (hairstyle, clothing, car etc)"
-],
-[
-"直线",
-11.09,
-"zhí xiàn",
-"straight line; sharply (rise or fall)"
 ],
 [
 "上线",
@@ -141,28 +195,22 @@
 "ultraviolet ray"
 ],
 [
-"光线",
-10.49,
-"guāng xiàn",
-"light ray; CL:條|条[tiao2],道[dao4]; light; illumination; lighting (for a photograph)"
-],
-[
 "出线",
 9.93,
 "chū xiàn",
 "(sports) to go out of bounds; to go over the line; to qualify for the next round of competition; (Tw) (fig.) to make the grade; to achieve success"
 ],
 [
-"电线",
-8.82,
-"diàn xiàn",
-"wire; power cord; CL:根[gen1]"
-],
-[
 "中线",
 8.28,
 "zhōng xiàn",
 "half-way line; median line"
+],
+[
+"内线",
+7.11,
+"???",
+"???"
 ],
 [
 "有线电视",
@@ -189,16 +237,10 @@
 "informer; snitch; spy; scout; (cosmetics) eye line"
 ],
 [
-"第一线",
-6.2,
-"dì yī xiàn",
-"front line; forefront"
-],
-[
 "专线",
 6.08,
 "zhuān xiàn",
-"special-purpose phone line or communications link; hotline; special rail line (e.g. between airport and city); CL:條|条[tiao2]"
+"special-purpose phone line or communications link; hotline; special rail line (e.g. between airport and city); CL:条[tiáo]"
 ],
 [
 "干线",

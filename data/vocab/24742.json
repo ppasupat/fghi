@@ -1,6 +1,6 @@
 {
 "char": "悦",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "pleased, contented, gratified",
 "pron": "yuè"
@@ -8,12 +8,24 @@
 "words": [
 [
 "喜悦",
-6,
+7,
 "xǐ yuè",
 "happy; joyous"
+],
+[
+"悦耳",
+7,
+"yuè ěr",
+"sweet-sounding; beautiful (of sound)"
 ]
 ],
 "extraWords": [
+[
+"悦",
+15.45,
+"yuè",
+"pleased"
+],
 [
 "愉悦",
 8.1,

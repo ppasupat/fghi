@@ -1,19 +1,32 @@
 {
 "char": "炊",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cook; meal",
 "pron": "chuī"
 },
 "words": [
 [
+"野炊",
+7,
+"yě chuī",
+"to cook a meal over a campfire (usu. for a group of people on an outing); cookout"
+]
+],
+"extraWords": [
+[
+"炊",
+1.73,
+"chuī",
+"to cook food"
+],
+[
 "炊烟",
-6,
+1.13,
 "chuī yān",
 "smoke from kitchen chimneys"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 156 545 Q 146 487 127 430 Q 115 393 141 362 Q 154 346 172 364 Q 190 386 196 422 Q 203 462 197 493 Q 194 527 180 551 Q 173 558 167 558 Q 158 554 156 545 Z",
 "M 315 494 Q 366 515 419 540 Q 438 552 462 557 Q 481 563 475 580 Q 466 598 445 614 Q 426 630 414 630 Q 402 630 404 618 Q 404 597 329 530 Q 323 526 317 519 C 297 497 287 483 315 494 Z",

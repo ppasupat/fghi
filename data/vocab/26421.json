@@ -1,17 +1,11 @@
 {
 "char": "朵",
-"level": 3,
+"level": "5",
 "info": {
 "gloss": "cluster of flowers; earlobe",
 "pron": "duǒ"
 },
 "words": [
-[
-"耳朵",
-3,
-"ěr duo",
-"ear; CL:隻|只[zhi1],個|个[ge4],對|对[dui4]; handle (on a cup)"
-],
 [
 "朵",
 5,
@@ -22,7 +16,13 @@
 "朵",
 5,
 "duǒ",
-"variant of 朵[duo3]"
+"variant of 朵[duǒ]"
+],
+[
+"耳朵",
+5,
+"ěr duo",
+"ear; CL:只[zhī],个[gè],对[duì]; handle (on a cup)"
 ]
 ],
 "extraWords": [

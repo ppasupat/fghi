@@ -1,11 +1,23 @@
 {
 "char": "对",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "correct, right; facing, opposed",
 "pron": "duì"
 },
 "words": [
+[
+"不对",
+1,
+"bù duì",
+"incorrect; wrong; amiss; abnormal; queer"
+],
+[
+"对",
+1,
+"duì",
+"right; correct; couple; pair; towards; at; for; to face; opposite; to treat (sb a certain way); to match together; to adjust; to fit; to suit; to answer; to reply; classifier: couple"
+],
 [
 "对不起",
 1,
@@ -13,10 +25,70 @@
 "unworthy; to let down; I'm sorry; excuse me; pardon me; if you please; sorry? (please repeat)"
 ],
 [
-"对",
+"对话",
 2,
-"duì",
-"right; correct; couple; pair; towards; at; for; to face; opposite; to treat (sb a certain way); to match together; to adjust; to fit; to suit; to answer; to reply; classifier: couple"
+"duì huà",
+"dialogue; CL:个[gè]"
+],
+[
+"对面",
+2,
+"duì miàn",
+"(sitting) opposite; across (the street); directly in front; to be face to face"
+],
+[
+"对待",
+3,
+"duì dài",
+"to treat; treatment"
+],
+[
+"对方",
+3,
+"duì fāng",
+"counterpart; other person involved; opposite side; other side; receiving party"
+],
+[
+"对手",
+3,
+"duì shǒu",
+"opponent; rival; competitor; (well-matched) adversary; match"
+],
+[
+"对象",
+3,
+"duì xiàng",
+"target; object; partner; boyfriend; girlfriend; CL:个[gè]"
+],
+[
+"反对",
+3,
+"fǎn duì",
+"to fight against; to oppose; to be opposed to; opposition"
+],
+[
+"绝对",
+3,
+"jué duì",
+"absolute; unconditional"
+],
+[
+"面对",
+3,
+"miàn duì",
+"to confront; to face"
+],
+[
+"对比",
+4,
+"duì bǐ",
+"to contrast; contrast; ratio; CL:个[gè]"
+],
+[
+"对付",
+4,
+"duì fu",
+"to handle; to deal with; to cope; to get by with"
 ],
 [
 "对于",
@@ -25,82 +97,22 @@
 "regarding; as far as sth is concerned; with regards to"
 ],
 [
-"反对",
-4,
-"fǎn duì",
-"to fight against; to oppose; to be opposed to; opposition"
-],
-[
-"对话",
-4,
-"duì huà",
-"dialogue; CL:個|个[ge4]"
-],
-[
-"对面",
-4,
-"duì miàn",
-"(sitting) opposite; across (the street); directly in front; to be face to face"
-],
-[
-"绝对",
-5,
-"jué duì",
-"absolute; unconditional"
-],
-[
-"面对",
-5,
-"miàn duì",
-"to confront; to face"
-],
-[
-"对方",
-5,
-"duì fāng",
-"counterpart; other person involved; opposite side; other side; receiving party"
-],
-[
-"对待",
-5,
-"duì dài",
-"to treat; treatment"
-],
-[
-"对手",
-5,
-"duì shǒu",
-"opponent; rival; competitor; (well-matched) adversary; match"
-],
-[
-"对象",
-5,
-"duì xiàng",
-"target; object; partner; boyfriend; girlfriend; CL:個|个[ge4]"
-],
-[
 "针对",
-5,
+4,
 "zhēn duì",
 "to target; to focus on; to be aimed at or against; in response to"
 ],
 [
-"相对",
+"对立",
 5,
-"xiāng duì",
-"relatively; opposite; to resist; to oppose; relative; vis-a-vis; counterpart"
+"duì lì",
+"to oppose; to set sth against; to be antagonistic to; antithetical; relative opposite; opposing; diametrical"
 ],
 [
-"对比",
+"对应",
 5,
-"duì bǐ",
-"to contrast; contrast; ratio; CL:個|个[ge4]"
-],
-[
-"对付",
-6,
-"duì fu",
-"to handle; to deal with; to cope; to get by with"
+"duì yìng",
+"to correspond; a correspondence; corresponding; homologous; matching with sth; counterpart"
 ],
 [
 "对抗",
@@ -109,40 +121,112 @@
 "to withstand; to resist; to stand off; antagonism; confrontation"
 ],
 [
-"对策",
+"对外",
 6,
+"duì wài",
+"external; foreign; pertaining to external or foreign (affairs)"
+],
+[
+"面对面",
+6,
+"miàn duì miàn",
+"face to face"
+],
+[
+"应对",
+6,
+"yìng duì",
+"to answer; to reply; to handle; to deal with; response"
+],
+[
+"对白",
+7,
+"duì bái",
+"dialogue (in a movie or a play)"
+],
+[
+"对策",
+7,
 "duì cè",
 "countermeasure for dealing with a situation"
 ],
 [
-"对应",
-6,
-"duì yìng",
-"to correspond; a correspondence; corresponding; homologous; matching with sth; counterpart"
-],
-[
 "对称",
-6,
+7,
 "duì chèn",
 "symmetry; symmetrical"
 ],
 [
-"对立",
-6,
-"duì lì",
-"to oppose; to set sth against; to be antagonistic to; antithetical; relative opposite; opposing; diametrical"
+"对得起",
+7,
+"duì de qǐ",
+"not to let sb down; to treat sb fairly; be worthy of"
+],
+[
+"对联",
+7,
+"duì lián",
+"rhyming couplet; pair of lines of verse written vertically down the sides of a doorway; CL:副[fù],幅[fú]"
+],
+[
+"对弈",
+7,
+"duì yì",
+"to play go, chess etc"
 ],
 [
 "对照",
-6,
+7,
 "duì zhào",
 "to contrast; to compare; to place side by side for comparison (as parallel texts); to check"
 ],
 [
-"对联",
-6,
-"duì lián",
-"rhyming couplet; pair of lines of verse written vertically down the sides of a doorway; CL:副[fu4],幅[fu2]"
+"对峙",
+7,
+"duì zhì",
+"to stand opposite; to confront; confrontation"
+],
+[
+"对准",
+7,
+"duì zhǔn",
+"to aim at; to target; to point at; to be directed at; registration; alignment (mechanical engineering)"
+],
+[
+"核对",
+7,
+"hé duì",
+"to check; to verify; to audit; to examine"
+],
+[
+"门当户对",
+7,
+"mén dāng hù duì",
+"the families are well-matched in terms of social status (idiom); (of a prospective marriage partner) an appropriate match"
+],
+[
+"相对",
+7,
+"xiāng duì",
+"relatively; opposite; to resist; to oppose; relative; vis-a-vis; counterpart"
+],
+[
+"相对而言",
+7,
+"xiāng duì ér yán",
+"relatively speaking; comparatively speaking"
+],
+[
+"针锋相对",
+7,
+"zhēn fēng xiāng duì",
+"to oppose each other with equal harshness (idiom); tit for tat; measure for measure"
+],
+[
+"作对",
+7,
+"zuò duì",
+"to set oneself against; to oppose; to make a pair"
 ]
 ],
 "extraWords": [
@@ -153,22 +237,10 @@
 "party (loanword)"
 ],
 [
-"对外",
-60.4,
-"duì wài",
-"external; foreign; pertaining to external or foreign (affairs)"
-],
-[
-"不对",
-44.54,
-"bù duì",
-"incorrect; wrong; amiss; abnormal; queer"
-],
-[
-"应对",
-36.55,
-"yìng duì",
-"to answer; to reply; to handle; to deal with; response"
+"对此",
+97.21,
+"???",
+"???"
 ],
 [
 "对劲",
@@ -201,22 +273,10 @@
 "to join up; to dock; a joint (between components)"
 ],
 [
-"面对面",
-8.67,
-"miàn duì miàn",
-"face to face"
-],
-[
 "一对",
 6.77,
 "yī duì",
 "couple; pair"
-],
-[
-"对准",
-6.68,
-"duì zhǔn",
-"to aim at; to target; to point at; to be directed at; registration; alignment (mechanical engineering)"
 ],
 [
 "对头",

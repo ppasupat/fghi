@@ -1,6 +1,6 @@
 {
 "char": "找",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "search, seek, look for; find",
 "pron": "zhǎo"
@@ -8,24 +8,36 @@
 "words": [
 [
 "找",
-2,
+1,
 "zhǎo",
 "to try to find; to look for; to call on sb; to find; to seek; to return; to give change"
 ],
 [
-"寻找",
-5,
-"xún zhǎo",
-"to seek; to look for"
-]
-],
-"extraWords": [
-[
 "找到",
-659.62,
+1,
 "zhǎo dào",
 "to find"
 ],
+[
+"找出",
+2,
+"zhǎo chū",
+"to find; to search out"
+],
+[
+"寻找",
+4,
+"xún zhǎo",
+"to seek; to look for"
+],
+[
+"查找",
+7,
+"chá zhǎo",
+"to search for; to look up"
+]
+],
+"extraWords": [
 [
 "找不到",
 34.75,
@@ -39,16 +51,10 @@
 "to retrieve"
 ],
 [
-"找出",
-15.51,
-"zhǎo chū",
-"to find; to search out"
-],
-[
-"查找",
-7.48,
-"chá zhǎo",
-"to search for; to look up"
+"找人",
+7.83,
+"???",
+"???"
 ],
 [
 "找寻",
@@ -61,6 +67,12 @@
 6.71,
 "zì zhǎo",
 "to suffer as a consequence of one's own actions; you asked for it; to bring it on oneself (sth unpleasant)"
+],
+[
+"找乐",
+6.56,
+"???",
+"???"
 ],
 [
 "找麻烦",

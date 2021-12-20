@@ -1,6 +1,6 @@
 {
 "char": "畜",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "livestock, domestic animals",
 "pron": "chù, xù"
@@ -8,18 +8,24 @@
 "words": [
 [
 "牲畜",
-6,
+7,
 "shēng chù",
 "domesticated animals; livestock"
-],
-[
-"畜牧",
-6,
-"xù mù",
-"to raise animals"
 ]
 ],
 "extraWords": [
+[
+"畜",
+12.77,
+"chù",
+"livestock; domesticated animal; domestic animal"
+],
+[
+"畜",
+12.77,
+"xù",
+"to raise (animals)"
+],
 [
 "畜生",
 9.75,
@@ -31,6 +37,12 @@
 5.92,
 "xù mù yè",
 "animal husbandry; stock raising; livestock raising"
+],
+[
+"畜牧",
+5.67,
+"xù mù",
+"to raise animals"
 ]
 ],
 "strokes": [

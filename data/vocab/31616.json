@@ -1,6 +1,6 @@
 {
 "char": "简",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "simple, terse, succinct, a letter",
 "pron": "jiǎn"
@@ -14,59 +14,83 @@
 ],
 [
 "简直",
-5,
+3,
 "jiǎn zhí",
 "simply; at all; practically"
 ],
 [
 "简历",
-5,
+4,
 "jiǎn lì",
 "curriculum vitae (CV); résumé; biographical notes"
 ],
 [
-"简体字",
+"简介",
 6,
-"jiǎn tǐ zì",
-"simplified Chinese character, as opposed to traditional Chinese character 繁體字|繁体字[fan2 ti3 zi4]"
+"jiǎn jiè",
+"summary; brief introduction"
 ],
 [
-"简陋",
-6,
-"jiǎn lòu",
-"simple and crude"
+"简称",
+7,
+"jiǎn chēng",
+"to be abbreviated to; abbreviation; short form"
+],
+[
+"简短",
+7,
+"jiǎn duǎn",
+"brief (statement, summary etc); briefly; brevity"
 ],
 [
 "简化",
-6,
+7,
 "jiǎn huà",
 "to simplify"
 ],
 [
+"简洁",
+7,
+"jiǎn jié",
+"concise; succinct; pithy"
+],
+[
+"简陋",
+7,
+"jiǎn lòu",
+"simple and crude"
+],
+[
+"简体字",
+7,
+"jiǎn tǐ zì",
+"simplified Chinese character, as opposed to traditional Chinese character 繁体字[fán tǐ zì]"
+],
+[
 "简要",
-6,
+7,
 "jiǎn yào",
 "concise; brief"
 ],
 [
+"简易",
+7,
+"jiǎn yì",
+"simple and easy; simplistic; simplicity"
+],
+[
 "精简",
-6,
+7,
 "jīng jiǎn",
 "to simplify; to reduce"
 ]
 ],
 "extraWords": [
 [
-"简称",
-36.36,
-"jiǎn chēng",
-"to be abbreviated to; abbreviation; short form"
-],
-[
-"简洁",
-12.28,
-"jiǎn jié",
-"concise; succinct; pithy"
+"简",
+15.03,
+"jiǎn",
+"simple; uncomplicated; letter; to choose; to select; bamboo strips used for writing (old)"
 ],
 [
 "简约",
@@ -75,28 +99,10 @@
 "sketchy; concise; abbreviated"
 ],
 [
-"简介",
-10.13,
-"jiǎn jiè",
-"summary; brief introduction"
-],
-[
 "简便",
 7.38,
 "jiǎn biàn",
 "simple and convenient; handy"
-],
-[
-"简易",
-7.0,
-"jiǎn yì",
-"simple and easy; simplistic; simplicity"
-],
-[
-"简短",
-6.0,
-"jiǎn duǎn",
-"brief (statement, summary etc); briefly; brevity"
 ],
 [
 "简报",

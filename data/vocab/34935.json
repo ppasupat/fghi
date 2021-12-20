@@ -1,32 +1,37 @@
 {
 "char": "衷",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "heart, from bottom of one's heart",
 "pron": "zhōng"
 },
 "words": [
 [
-"衷心",
-6,
-"zhōng xīn",
-"heartfelt; wholehearted; cordial"
-],
-[
-"无动于衷",
-6,
-"wú dòng yú zhōng",
-"aloof; indifferent; unconcerned"
-]
-],
-"extraWords": [
-[
 "初衷",
-7.11,
+7,
 "chū zhōng",
 "original intention"
+],
+[
+"热衷",
+7,
+"rè zhōng",
+"to feel strongly about; to be fond of; obsession; deep commitment"
+],
+[
+"由衷",
+7,
+"yóu zhōng",
+"heartfelt; sincere; unfeigned"
+],
+[
+"衷心",
+7,
+"zhōng xīn",
+"heartfelt; wholehearted; cordial"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 466 810 Q 517 764 559 747 Q 575 746 583 760 Q 587 773 583 791 Q 567 831 500 845 Q 460 854 448 848 Q 442 847 446 834 Q 449 822 466 810 Z",
 "M 524 672 Q 620 687 783 701 Q 793 700 803 712 Q 804 725 782 736 Q 742 760 668 739 Q 485 705 289 685 Q 271 685 254 682 Q 223 679 246 660 Q 279 632 309 638 Q 387 653 481 666 L 524 672 Z",

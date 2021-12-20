@@ -1,12 +1,32 @@
 {
 "char": "钧",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "unit of measure equivalent to thirty catties",
 "pron": "jūn"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"千钧一发",
+7,
+"qiān jūn yī fà",
+"a thousand pounds hangs by a thread (idiom); imminent peril; a matter of life or death"
+]
+],
+"extraWords": [
+[
+"钧",
+2.67,
+"jūn",
+"30 catties; great; your (honorific)"
+],
+[
+"郑钧",
+0.64,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 310 632 Q 352 710 387 743 Q 397 755 392 769 Q 388 782 357 808 Q 329 827 308 827 Q 289 826 297 802 Q 312 768 299 740 Q 259 646 200 558 Q 142 473 63 381 Q 53 371 50 363 Q 46 351 62 354 Q 113 360 275 581 Q 284 594 293 607 L 310 632 Z",
 "M 293 607 Q 345 589 394 608 Q 475 629 482 635 Q 491 645 485 652 Q 476 664 445 668 Q 426 668 351 642 Q 330 638 310 632 C 281 624 264 616 293 607 Z",

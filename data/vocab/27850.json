@@ -1,22 +1,22 @@
 {
 "char": "泊",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "anchor vessel; lie at anchor",
 "pron": "bó, pō"
 },
 "words": [
 [
-"停泊",
-6,
-"tíng bó",
-"to anchor; anchorage; mooring (of a ship)"
-],
-[
 "湖泊",
-6,
+7,
 "hú pō",
 "lake"
+],
+[
+"停泊",
+7,
+"tíng bó",
+"to anchor; anchorage; mooring (of a ship)"
 ]
 ],
 "extraWords": [

@@ -1,6 +1,6 @@
 {
 "char": "甩",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "throw away, discard",
 "pron": "shuǎi"
@@ -8,7 +8,7 @@
 "words": [
 [
 "甩",
-5,
+7,
 "shuǎi",
 "to throw; to fling; to swing; to leave behind; to throw off; to dump (sb)"
 ]
@@ -19,6 +19,12 @@
 10.91,
 "shuǎi diào",
 "to throw off; to abandon; to cast off; to get rid of; to dump"
+],
+[
+"甩开",
+2.09,
+"shuǎi kāi",
+"to shake off; to get rid of"
 ]
 ],
 "strokes": [

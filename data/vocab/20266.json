@@ -1,6 +1,6 @@
 {
 "char": "伪",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "false, counterfeit, bogus",
 "pron": "wěi"
@@ -8,23 +8,35 @@
 "words": [
 [
 "伪造",
-6,
+7,
 "wěi zào",
 "to forge; to fake; to counterfeit"
 ],
 [
+"伪装",
+7,
+"wěi zhuāng",
+"to pretend to be (asleep etc); to disguise oneself as; pretense; disguise; (military) to camouflage; camouflage"
+],
+[
 "虚伪",
-6,
+7,
 "xū wěi",
 "false; hypocritical; artificial; sham"
 ]
 ],
 "extraWords": [
 [
-"伪装",
-17.83,
-"wěi zhuāng",
-"to pretend to be (asleep etc); to disguise oneself as; pretense; disguise; (military) to camouflage; camouflage"
+"伪",
+13.05,
+"wěi",
+"false; fake; forged; bogus; (prefix) pseudo-; Taiwan pr. [wei4]"
+],
+[
+"伪",
+13.05,
+"wěi",
+"variant of 伪[wěi]"
 ],
 [
 "假冒伪劣",

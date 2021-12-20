@@ -1,42 +1,54 @@
 {
 "char": "齐",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "even, uniform, of equal length",
 "pron": "qí"
 },
 "words": [
 [
+"齐",
+3,
+"Qí",
+"(name of states and dynasties at several different periods); surname Qi"
+],
+[
+"齐",
+3,
+"qí",
+"neat; even; level with; identical; simultaneous; all together; to even sth out"
+],
+[
 "整齐",
-5,
+3,
 "zhěng qí",
 "orderly; neat; even; tidy"
 ],
 [
-"齐心协力",
-6,
-"qí xīn xié lì",
-"to work with a common purpose (idiom); to make concerted efforts; to pull together; to work as one"
-],
-[
 "齐全",
-6,
+5,
 "qí quán",
 "complete; comprehensive"
-]
 ],
-"extraWords": [
 [
 "一齐",
-9.88,
+6,
 "yī qí",
 "at the same time; simultaneously"
 ],
 [
+"齐心协力",
+7,
+"qí xīn xié lì",
+"to work with a common purpose (idiom); to make concerted efforts; to pull together; to work as one"
+]
+],
+"extraWords": [
+[
 "乌鲁木齐",
 7.49,
 "Wū lǔ mù qí",
-"Ürümqi or Urumqi prefecture level city and capital of Xinjiang Uighur Autonomous Region 新疆維吾爾自治區|新疆维吾尔自治区[Xin1 jiang1 Wei2 wu2 er3 Zi4 zhi4 qu1] in west China"
+"Ürümqi or Urumqi prefecture level city and capital of Xinjiang Uighur Autonomous Region 新疆维吾尔自治区[Xīn jiāng Wéi wú ěr Zì zhì qū] in west China"
 ]
 ],
 "strokes": [

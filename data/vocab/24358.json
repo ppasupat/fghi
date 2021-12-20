@@ -1,19 +1,32 @@
 {
 "char": "弦",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "string; hypotenuse, crescent",
 "pron": "xián"
 },
 "words": [
 [
+"扣人心弦",
+7,
+"kòu rén xīn xián",
+"to excite; to thrill; exciting; thrilling; cliff-hanging"
+],
+[
 "弦",
-6,
+7,
 "xián",
-"bow string; string of musical instrument; watchspring; chord (segment of curve); hypotenuse; CL:根[gen1]"
+"bow string; string of musical instrument; watchspring; chord (segment of curve); hypotenuse; CL:根[gēn]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"和弦",
+3.0,
+"hé xián",
+"chord (music)"
+]
+],
 "strokes": [
 "M 364 565 Q 388 656 416 683 Q 440 710 416 724 Q 395 736 368 754 Q 347 766 298 734 Q 225 707 179 698 Q 167 698 169 691 Q 170 685 184 679 Q 203 669 238 680 Q 331 708 340 697 Q 347 690 336 651 Q 326 614 312 570 C 303 541 356 536 364 565 Z",
 "M 227 510 Q 234 511 241 512 Q 281 525 371 539 Q 381 540 381 549 Q 381 556 364 565 L 312 570 Q 309 570 308 569 Q 254 550 215 540 C 186 532 197 506 227 510 Z",

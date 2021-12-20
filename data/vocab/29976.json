@@ -1,30 +1,36 @@
 {
 "char": "甘",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "sweetness; sweet, tasty",
 "pron": "gān"
 },
 "words": [
 [
-"心甘情愿",
-6,
-"xīn gān qíng yuàn",
-"delighted to (do sth, idiom); perfectly happy to do; most willing to do"
-],
-[
-"苦尽甘来",
-6,
-"kǔ jìn gān lái",
-"bitterness finishes, sweetness begins (idiom); the hard times are over, the good times just beginning"
+"甘心",
+7,
+"gān xīn",
+"to be willing to; to resign oneself to"
 ]
 ],
 "extraWords": [
 [
+"甘",
+59.21,
+"Gān",
+"surname Gan; abbr. for Gansu Province 甘肃省[Gān sù Shěng]"
+],
+[
+"甘",
+59.21,
+"gān",
+"sweet; willing"
+],
+[
 "甘肃",
 11.69,
 "Gān sù",
-"Gansu province, abbr. 甘[Gan1], short name 隴|陇[Long3], capital Lanzhou 蘭州|兰州[Lan2 zhou1]"
+"Gansu province, abbr. 甘[Gān], short name 陇[Lǒng], capital Lanzhou 兰州[Lán zhōu]"
 ],
 [
 "不甘心",
@@ -36,7 +42,7 @@
 "甘肃省",
 5.69,
 "Gān sù Shěng",
-"Gansu Province, abbr. 甘[Gan1], short name 隴|陇[Long3], capital Lanzhou 蘭州|兰州[Lan2 zhou1]"
+"Gansu Province, abbr. 甘[Gān], short name 陇[Lǒng], capital Lanzhou 兰州[Lán zhōu]"
 ],
 [
 "甘草",

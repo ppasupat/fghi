@@ -1,11 +1,17 @@
 {
 "char": "辞",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "words, speech, expression, phrase",
 "pron": "cí"
 },
 "words": [
+[
+"辞典",
+5,
+"cí diǎn",
+"dictionary; also written 词典[cí diǎn]; CL:本[běn],部[bù]"
+],
 [
 "辞职",
 5,
@@ -13,20 +19,62 @@
 "to resign"
 ],
 [
-"推辞",
-5,
-"tuī cí",
-"to decline (an appointment, invitation etc)"
+"不辞而别",
+7,
+"bù cí ér bié",
+"to leave without saying good-bye"
+],
+[
+"辞",
+7,
+"cí",
+"old variant of 辞[cí]"
+],
+[
+"辞",
+7,
+"cí",
+"to resign; to dismiss; to decline; to take leave; ballad (archaic poetic genre); variant of 词[cí]"
+],
+[
+"辞呈",
+7,
+"cí chéng",
+"(written) resignation"
+],
+[
+"辞去",
+7,
+"cí qù",
+"to resign; to quit"
+],
+[
+"辞退",
+7,
+"cí tuì",
+"to dismiss; to discharge; to fire"
 ],
 [
 "告辞",
-6,
+7,
 "gào cí",
 "to say goodbye; to take one's leave"
 ],
 [
+"推辞",
+7,
+"tuī cí",
+"to decline (an appointment, invitation etc)"
+],
+[
+"言辞",
+7,
+"yán cí",
+"words; expression; what one says"
+],
+[
 "致辞",
-6,
+7,
 "zhì cí",
 "to express in words or writing; to make a speech (esp. short introduction, vote of thanks, afterword, funeral homily etc); to address (an audience); same as 致詞|致词"
 ]

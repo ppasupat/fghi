@@ -1,6 +1,6 @@
 {
 "char": "鲸",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "whale",
 "pron": "jīng"
@@ -11,7 +11,19 @@
 "鲸鱼",
 5.93,
 "jīng yú",
-"whale; CL:條|条[tiao2]"
+"whale; CL:条[tiáo]"
+],
+[
+"鲸",
+3.72,
+"jīng",
+"whale"
+],
+[
+"白鲸",
+1.25,
+"bái jīng",
+"white whale; beluga; Moby Dick, novel by Herman Melville 赫曼·麥爾維爾|赫曼·麦尔维尔[He4 man4 · Mai4 er3 wei2 er3]"
 ]
 ],
 "strokes": [

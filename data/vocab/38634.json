@@ -1,11 +1,17 @@
 {
 "char": "雪",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "snow; wipe away shame, avenge",
 "pron": "xuě"
 },
 "words": [
+[
+"下雪",
+2,
+"xià xuě",
+"to snow"
+],
 [
 "雪",
 2,
@@ -16,22 +22,40 @@
 "雪",
 2,
 "xuě",
-"snow; CL:場|场[chang2]; (literary) to wipe away (a humiliation etc)"
+"snow; CL:场[cháng]; (literary) to wipe away (a humiliation etc)"
+],
+[
+"冰雪",
+4,
+"bīng xuě",
+"ice and snow"
+],
+[
+"滑雪",
+7,
+"huá xuě",
+"to ski; skiing"
+],
+[
+"瑞雪",
+7,
+"ruì xuě",
+"timely snow"
+],
+[
+"雪山",
+7,
+"xuě shān",
+"snow-capped mountain"
 ],
 [
 "雪上加霜",
-6,
+7,
 "xuě shàng jiā shuāng",
 "(idiom) to make matters even worse; to add insult to injury"
 ]
 ],
 "extraWords": [
-[
-"下雪",
-16.85,
-"xià xuě",
-"to snow"
-],
 [
 "雪茄",
 11.12,
@@ -39,10 +63,10 @@
 "cigar (loanword)"
 ],
 [
-"滑雪",
-9.88,
-"huá xuě",
-"to ski; skiing"
+"雪地",
+11.1,
+"???",
+"???"
 ],
 [
 "雪花",
@@ -61,18 +85,6 @@
 6.71,
 "Xiǎo xuě",
 "Xiaoxue or Lesser Snow, 20th of the 24 solar terms 二十四節氣|二十四节气 22nd November-6th December"
-],
-[
-"冰雪",
-6.66,
-"bīng xuě",
-"ice and snow"
-],
-[
-"雪山",
-6.22,
-"xuě shān",
-"snow-capped mountain"
 ],
 [
 "雪橇",

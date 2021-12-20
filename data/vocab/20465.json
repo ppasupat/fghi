@@ -1,6 +1,6 @@
 {
 "char": "俱",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "all, together; accompany",
 "pron": "jū, jù"
@@ -10,16 +10,41 @@
 "俱乐部",
 5,
 "jù lè bù",
-"club (the organisation or its premises) (loanword); CL:個|个[ge4]"
+"club (the organisation or its premises) (loanword); CL:个[gè]"
+],
+[
+"面面俱到",
+7,
+"miàn miàn jù dào",
+"(idiom) take care of everything; handle everything"
+],
+[
+"一应俱全",
+7,
+"yī yīng jù quán",
+"with everything needed available"
 ],
 [
 "与日俱增",
-6,
+7,
 "yǔ rì jù zēng",
 "to increase steadily; to grow with each passing day"
+],
+[
+"与时俱进",
+7,
+"yǔ shí jù jìn",
+"abreast of modern developments; to keep up with the times; progressive; timely"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"俱",
+18.85,
+"jù",
+"entirely; without exception; (literary) to be together; to be alike"
+]
+],
 "strokes": [
 "M 237 498 Q 286 561 342 647 Q 370 696 394 721 Q 404 731 399 746 Q 395 759 365 784 Q 337 803 318 803 Q 299 802 307 778 Q 320 745 308 718 Q 244 562 75 364 Q 65 354 62 347 Q 58 335 73 338 Q 109 342 208 463 L 237 498 Z",
 "M 208 463 Q 226 427 227 359 Q 226 340 226 320 Q 225 217 194 111 Q 184 66 218 15 Q 219 15 221 12 Q 239 -4 251 23 Q 266 63 265 110 Q 271 360 281 416 Q 288 443 279 454 Q 254 481 237 498 C 216 519 196 491 208 463 Z",

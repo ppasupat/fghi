@@ -1,6 +1,6 @@
 {
 "char": "魔",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "demon, evil spirits; magic power",
 "pron": "mó"
@@ -8,18 +8,24 @@
 "words": [
 [
 "魔鬼",
-6,
+7,
 "mó guǐ",
 "devil"
 ],
 [
 "魔术",
-6,
+7,
 "mó shù",
 "magic"
 ]
 ],
 "extraWords": [
+[
+"魔",
+82.19,
+"mó",
+"devil; magic"
+],
 [
 "恶魔",
 54.67,

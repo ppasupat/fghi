@@ -1,6 +1,6 @@
 {
 "char": "赦",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "forgive, remit, pardon",
 "pron": "shè"
@@ -12,6 +12,18 @@
 7.63,
 "shè miǎn",
 "to pardon; to absolve; to exempt from punishment"
+],
+[
+"特赦",
+2.38,
+"tè shè",
+"to grant a special pardon"
+],
+[
+"赦",
+2.18,
+"shè",
+"to pardon (a convict)"
 ]
 ],
 "strokes": [

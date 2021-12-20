@@ -1,12 +1,32 @@
 {
 "char": "冗",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "excessive; superfluous",
 "pron": "rǒng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"冗长",
+7,
+"rǒng cháng",
+"long and tedious; redundant; superfluous; supernumerary; verbose (of writing)"
+]
+],
+"extraWords": [
+[
+"冗余",
+0.82,
+"rǒng yú",
+"redundancy; redundant"
+],
+[
+"冗员",
+0.48,
+"rǒng yuán",
+"excess personnel; superfluous staff"
+]
+],
 "strokes": [
 "M 269 680 Q 268 681 268 684 Q 252 709 238 718 Q 216 733 217 703 Q 223 670 195 623 Q 156 578 162 553 Q 171 517 183 499 Q 202 471 221 504 Q 233 528 266 646 C 273 671 273 671 269 680 Z",
 "M 266 646 Q 290 634 323 644 Q 443 683 656 709 Q 702 715 718 712 Q 739 697 735 688 Q 735 684 712 608 Q 706 592 713 589 Q 720 585 737 600 Q 789 645 835 662 Q 872 678 871 687 Q 868 697 791 747 Q 764 765 634 738 Q 627 738 269 680 C 239 675 237 654 266 646 Z",

@@ -1,6 +1,6 @@
 {
 "char": "捐",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "contribute; give up, renounce",
 "pron": "juān"
@@ -8,37 +8,42 @@
 "words": [
 [
 "捐",
-5,
+6,
 "juān",
 "to contribute; to donate; contribution; tax; to abandon"
-]
 ],
-"extraWords": [
 [
 "捐款",
-19.67,
+6,
 "juān kuǎn",
 "to donate money; to contribute funds; donation; contribution (of money)"
 ],
 [
 "捐赠",
-17.28,
+6,
 "juān zèng",
 "to contribute (as a gift); to donate; benefaction"
 ],
 [
+"捐助",
+6,
+"juān zhù",
+"to donate; to offer (aid); contribution; donation"
+],
+[
 "捐献",
-8.22,
+7,
 "juān xiàn",
 "to donate; to contribute; donation; contribution"
 ],
 [
-"捐助",
-7.67,
-"juān zhù",
-"to donate; to offer (aid); contribution; donation"
+"募捐",
+7,
+"mù juān",
+"to solicit contributions; to collect donations"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 347 573 Q 431 595 436 601 Q 445 608 440 617 Q 433 627 404 634 Q 376 638 349 626 L 299 608 Q 190 580 143 572 Q 109 565 134 550 Q 182 529 229 544 Q 263 553 299 560 L 347 573 Z",
 "M 295 380 Q 292 283 291 158 Q 290 134 277 125 Q 271 119 201 132 Q 168 142 171 133 Q 172 126 193 111 Q 256 63 272 35 Q 291 2 307 1 Q 320 0 336 35 Q 354 81 351 154 Q 344 284 344 413 L 344 444 Q 344 510 347 573 L 349 626 Q 350 636 351 647 Q 355 735 370 780 Q 386 811 332 833 Q 298 852 279 845 Q 261 839 277 816 Q 299 789 299 755 Q 300 739 299 608 L 299 560 Q 298 500 296 420 L 295 380 Z",

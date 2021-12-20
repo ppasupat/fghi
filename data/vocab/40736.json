@@ -1,16 +1,16 @@
 {
 "char": "鼠",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "rat, mouse; KangXi radical 208",
 "pron": "shǔ"
 },
 "words": [
 [
-"老鼠",
+"鼠",
 5,
-"lǎo shǔ",
-"rat; mouse; CL:隻|只[zhi1]"
+"shǔ",
+"rat; mouse; CL:只[zhī]"
 ],
 [
 "鼠标",
@@ -20,6 +20,12 @@
 ]
 ],
 "extraWords": [
+[
+"老鼠",
+36.78,
+"lǎo shǔ",
+"rat; mouse; CL:只[zhī]"
+],
 [
 "松鼠",
 7.18,

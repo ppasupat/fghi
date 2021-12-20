@@ -1,11 +1,59 @@
 {
 "char": "格",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "pattern, standard, form; style",
 "pron": "gé"
 },
 "words": [
+[
+"表格",
+3,
+"biǎo gé",
+"form; table; CL:张[zhāng],份[fèn]"
+],
+[
+"合格",
+3,
+"hé gé",
+"to meet the standard required; qualified; eligible (voter etc)"
+],
+[
+"价格",
+3,
+"jià gé",
+"price; CL:个[gè]"
+],
+[
+"性格",
+3,
+"xìng gé",
+"nature; disposition; temperament; character; CL:个[gè]"
+],
+[
+"资格",
+3,
+"zī gé",
+"qualifications; seniority"
+],
+[
+"风格",
+4,
+"fēng gé",
+"style"
+],
+[
+"格外",
+4,
+"gé wài",
+"especially; particularly"
+],
+[
+"及格",
+4,
+"jí gé",
+"to pass an exam or a test; to meet a minimum standard"
+],
 [
 "严格",
 4,
@@ -13,76 +61,40 @@
 "strict; stringent; tight; rigorous"
 ],
 [
-"价格",
-4,
-"jià gé",
-"price; CL:個|个[ge4]"
+"格",
+7,
+"gé",
+"square; frame; rule; (legal) case; style; character; standard; pattern; (grammar) case; (classical) to obstruct; to hinder; (classical) to arrive; to come; (classical) to investigate; to study exhaustively"
 ],
 [
-"性格",
-4,
-"xìng gé",
-"nature; disposition; temperament; character; CL:個|个[ge4]"
+"格格不入",
+7,
+"gé gé bù rù",
+"(idiom) inharmonious; incompatible"
 ],
 [
-"表格",
-4,
-"biǎo gé",
-"form; table; CL:張|张[zhang1],份[fen4]"
-],
-[
-"合格",
-4,
-"hé gé",
-"to meet the standard required; qualified; eligible (voter etc)"
-],
-[
-"风格",
-5,
-"fēng gé",
-"style"
-],
-[
-"资格",
-5,
-"zī gé",
-"qualifications; seniority"
-],
-[
-"及格",
-5,
-"jí gé",
-"to pass an exam or a test; to meet a minimum standard"
-],
-[
-"格外",
-5,
-"gé wài",
-"especially; particularly"
-],
-[
-"人格",
-6,
-"rén gé",
-"personality; integrity; dignity"
-],
-[
-"规格",
-6,
-"guī gé",
-"standard; norm; specification"
+"格局",
+7,
+"gé jú",
+"structure; pattern; layout"
 ],
 [
 "格式",
-6,
+7,
 "gé shì",
 "form; specification; format"
 ],
 [
-"格局",
-6,
-"gé jú",
-"structure; pattern; layout"
+"规格",
+7,
+"guī gé",
+"standard; norm; specification"
+],
+[
+"人格",
+7,
+"rén gé",
+"personality; integrity; dignity"
 ]
 ],
 "extraWords": [
@@ -103,6 +115,18 @@
 10.68,
 "Bā gé dá",
 "Baghdad, capital of Iraq"
+],
+[
+"市场价格",
+9.79,
+"???",
+"???"
+],
+[
+"合格率",
+8.43,
+"???",
+"???"
 ],
 [
 "格林",
@@ -145,6 +169,12 @@
 5.57,
 "Gé lán tè",
 "Grant (name)"
+],
+[
+"格列登科",
+5.37,
+"???",
+"???"
 ],
 [
 "玛格丽特",

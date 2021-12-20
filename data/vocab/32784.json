@@ -1,17 +1,11 @@
 {
 "char": "耐",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "endure, bear; resist; patient",
 "pron": "nài"
 },
 "words": [
-[
-"耐心",
-4,
-"nài xīn",
-"to be patient; patience"
-],
 [
 "不耐烦",
 5,
@@ -19,26 +13,43 @@
 "impatient; to lose patience"
 ],
 [
-"忍耐",
-6,
-"rěn nài",
-"to endure; to bear with; to exercise patience; to restrain oneself; patience; endurance"
+"耐心",
+5,
+"nài xīn",
+"to be patient; patience"
 ],
 [
-"耐用",
-6,
-"nài yòng",
-"durable"
-]
+"耐",
+7,
+"nài",
+"(bound form) to bear; to endure; to withstand"
 ],
-"extraWords": [
+[
+"耐人寻味",
+7,
+"nài rén xún wèi",
+"thought-provoking; worth thinking over; to provide food for thought"
+],
+[
+"耐性",
+7,
+"nài xìng",
+"patience; endurance"
+],
 [
 "能耐",
-6.08,
+7,
 "néng nài",
 "ability; capability"
+],
+[
+"忍耐",
+7,
+"rěn nài",
+"to endure; to bear with; to exercise patience; to restrain oneself; patience; endurance"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 311 648 Q 503 696 507 699 Q 517 708 511 716 Q 504 728 474 735 Q 446 739 334 702 Q 265 684 189 674 Q 152 667 179 650 Q 218 629 272 639 L 311 648 Z",
 "M 269 478 Q 284 505 310 566 Q 317 584 332 608 Q 344 618 336 628 Q 329 638 311 648 C 285 663 266 668 272 639 Q 281 606 244 490 Q 241 480 240 472 C 235 442 255 452 269 478 Z",

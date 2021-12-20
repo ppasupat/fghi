@@ -1,6 +1,6 @@
 {
 "char": "累",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "tired; implicate, involve; bother",
 "pron": "léi, lěi, lèi"
@@ -8,25 +8,25 @@
 "words": [
 [
 "累",
-2,
+1,
 "lěi",
 "to accumulate; to involve or implicate (Taiwan pr. [lei4]); continuous; repeated"
 ],
 [
 "累",
-2,
+1,
 "lèi",
 "tired; weary; to strain; to wear out; to work hard"
 ],
 [
 "累",
-2,
+1,
 "Léi",
 "surname Lei"
 ],
 [
 "累",
-2,
+1,
 "léi",
 "rope; to bind together; to twist around"
 ],
@@ -35,26 +35,38 @@
 4,
 "jī lěi",
 "to accumulate; accumulation; cumulative; cumulatively"
-]
 ],
-"extraWords": [
 [
-"累计",
-40.7,
-"lěi jì",
-"to calculate the running total; cumulative; total; in total"
+"劳累",
+7,
+"láo lèi",
+"tired; exhausted; worn out; to toil"
 ],
 [
 "累积",
-8.28,
+7,
 "lěi jī",
 "to accumulate"
 ],
 [
-"劳累",
-5.4,
-"láo lèi",
-"tired; exhausted; worn out; to toil"
+"累计",
+7,
+"lěi jì",
+"to calculate the running total; cumulative; total; in total"
+],
+[
+"拖累",
+7,
+"tuō lěi",
+"to encumber; to be a burden on; to implicate"
+]
+],
+"extraWords": [
+[
+"累死",
+8.21,
+"???",
+"???"
 ]
 ],
 "strokes": [

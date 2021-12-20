@@ -1,17 +1,54 @@
 {
 "char": "柏",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "cypress, cedar",
 "pron": "bǎi, bó"
 },
-"words": [],
+"words": [
+[
+"柏树",
+7,
+"bǎi shù",
+"cypress tree; Taiwan pr. [bo2 shu4]"
+]
+],
 "extraWords": [
 [
 "柏林",
 14.55,
 "Bó lín",
 "Berlin, capital of Germany"
+],
+[
+"柏",
+7.06,
+"Bǎi",
+"surname Bai; Taiwan pr. [Bo2]"
+],
+[
+"柏",
+7.06,
+"bǎi",
+"cedar; cypress; Taiwan pr. [bo2]"
+],
+[
+"柏",
+7.06,
+"bó",
+"(used for transcribing names)"
+],
+[
+"柏",
+7.06,
+"bò",
+"variant of 檗[bò]"
+],
+[
+"柏",
+7.06,
+"bǎi",
+"variant of 柏[bǎi]"
 ]
 ],
 "strokes": [

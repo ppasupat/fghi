@@ -1,22 +1,64 @@
 {
 "char": "奶",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "milk; woman's breasts; nurse",
 "pron": "nǎi"
 },
 "words": [
 [
-"牛奶",
-2,
-"niú nǎi",
-"cow's milk; CL:瓶[ping2],杯[bei1]"
+"奶",
+1,
+"nǎi",
+"breast; milk; to breastfeed"
+],
+[
+"奶",
+1,
+"nǎi",
+"variant of 奶[nǎi]"
+],
+[
+"奶",
+1,
+"nǎi",
+"mother; variant of 奶[nǎi]"
 ],
 [
 "奶奶",
-3,
+1,
 "nǎi nai",
-"(informal) grandma (paternal grandmother); (respectful) mistress of the house; CL:位[wei4]; (coll.) boobies; breasts"
+"(informal) grandma (paternal grandmother); (respectful) mistress of the house; CL:位[wèi]; (coll.) boobies; breasts"
+],
+[
+"牛奶",
+1,
+"niú nǎi",
+"cow's milk; CL:瓶[píng],杯[bēi]"
+],
+[
+"奶茶",
+3,
+"nǎi chá",
+"milk tea"
+],
+[
+"酸奶",
+4,
+"suān nǎi",
+"yogurt"
+],
+[
+"奶粉",
+6,
+"nǎi fěn",
+"powdered milk"
+],
+[
+"奶牛",
+6,
+"nǎi niú",
+"milk cow; dairy cow"
 ]
 ],
 "extraWords": [
@@ -24,37 +66,13 @@
 "奶酪",
 25.46,
 "nǎi lào",
-"cheese; CL:塊|块[kuai4],盒[he2],片[pian4]"
+"cheese; CL:块[kuài],盒[hé],片[piàn]"
 ],
 [
 "奶油",
 14.99,
 "nǎi yóu",
 "cream; butter; (coll.) effeminate"
-],
-[
-"酸奶",
-13.64,
-"suān nǎi",
-"yogurt"
-],
-[
-"奶粉",
-11.57,
-"nǎi fěn",
-"powdered milk"
-],
-[
-"奶茶",
-9.6,
-"nǎi chá",
-"milk tea"
-],
-[
-"奶牛",
-7.58,
-"nǎi niú",
-"milk cow; dairy cow"
 ]
 ],
 "strokes": [

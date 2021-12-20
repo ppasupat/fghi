@@ -1,6 +1,6 @@
 {
 "char": "厌",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "dislike, detest, reject; satiate",
 "pron": "yàn"
@@ -8,29 +8,35 @@
 "words": [
 [
 "讨厌",
-4,
+5,
 "tǎo yàn",
 "to dislike; to loathe; disagreeable; troublesome; annoying"
 ],
 [
-"厌恶",
-6,
-"yàn wù",
-"to loathe; to hate; disgusted with sth"
+"厌烦",
+7,
+"yàn fán",
+"bored; fed up with sth; sick of sth"
+],
+[
+"厌倦",
+7,
+"yàn juàn",
+"to be weary of; to be fed up with; tedious"
 ]
 ],
 "extraWords": [
 [
-"厌倦",
-22.12,
-"yàn juàn",
-"to be weary of; to be fed up with; tedious"
+"厌恶",
+12.19,
+"yàn wù",
+"to loathe; to hate; disgusted with sth"
 ],
 [
-"厌烦",
-9.12,
-"yàn fán",
-"bored; fed up with sth; sick of sth"
+"厌",
+6.65,
+"yàn",
+"to loathe"
 ]
 ],
 "strokes": [

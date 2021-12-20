@@ -1,14 +1,26 @@
 {
 "char": "庙",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "temple, shrine; imperial court",
 "pron": "miào"
 },
 "words": [
 [
+"庙",
+7,
+"miào",
+"temple; ancestral shrine; CL:座[zuò]; temple fair; great imperial hall; imperial"
+],
+[
+"庙会",
+7,
+"miào huì",
+"temple fair"
+],
+[
 "寺庙",
-6,
+7,
 "sì miào",
 "temple; monastery; shrine"
 ]

@@ -1,25 +1,32 @@
 {
 "char": "窄",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "narrow, tight; narrow-minded",
 "pron": "zhǎi"
 },
 "words": [
 [
-"窄",
-5,
-"zhǎi",
-"narrow; narrow-minded; badly off"
-],
-[
 "狭窄",
-6,
+7,
 "xiá zhǎi",
 "narrow"
+],
+[
+"窄",
+7,
+"zhǎi",
+"narrow; narrow-minded; badly off"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"宽窄",
+0.73,
+"kuān zhǎi",
+"width; breadth"
+]
+],
 "strokes": [
 "M 481 811 Q 509 792 538 767 Q 551 757 567 758 Q 577 759 581 772 Q 584 787 573 814 Q 566 833 536 843 Q 461 861 452 855 Q 448 851 450 839 Q 454 829 481 811 Z",
 "M 269 683 Q 268 684 268 687 Q 258 711 246 720 Q 228 736 225 710 Q 231 674 163 602 Q 142 578 167 523 Q 180 496 202 523 Q 221 548 235 585 Q 251 628 263 654 C 272 674 272 674 269 683 Z",

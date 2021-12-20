@@ -1,6 +1,6 @@
 {
 "char": "港",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "port, harbor; small stream; bay",
 "pron": "gǎng"
@@ -13,10 +13,16 @@
 "port; harbor"
 ],
 [
-"港湾",
-6,
-"gǎng wān",
-"natural harbor; bay serving as harbor"
+"港",
+7,
+"Gǎng",
+"Hong Kong, abbr. for 香港[Xiāng gǎng]; surname Gang"
+],
+[
+"港",
+7,
+"gǎng",
+"harbor; port; CL:个[gè]"
 ]
 ],
 "extraWords": [
@@ -42,7 +48,7 @@
 "港澳",
 8.03,
 "Gǎng Ào",
-"Hong Kong 香港[Xiang1 gang3] and Macao 澳門|澳门[Ao4 men2]"
+"Hong Kong 香港[Xiāng gǎng] and Macao 澳门[Ào mén]"
 ]
 ],
 "strokes": [

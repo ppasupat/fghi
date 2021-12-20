@@ -1,16 +1,16 @@
 {
 "char": "额",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "forehead; tablet, plaque; fixed",
 "pron": "é"
 },
 "words": [
 [
-"额外",
+"金额",
 6,
-"é wài",
-"extra; added; additional"
+"jīn é",
+"sum of money; monetary value"
 ],
 [
 "名额",
@@ -19,48 +19,72 @@
 "quota; number of places; place (in an institution, a group etc)"
 ],
 [
-"数额",
-6,
-"shù é",
-"amount; sum of money; fixed number"
-]
+"差额",
+7,
+"chā é",
+"balance (financial); discrepancy (in a sum or quota); difference"
 ],
-"extraWords": [
 [
-"金额",
-56.62,
-"jīn é",
-"sum of money; monetary value"
+"额外",
+7,
+"é wài",
+"extra; added; additional"
 ],
 [
 "份额",
-43.92,
+7,
 "fèn é",
 "share; portion"
 ],
 [
+"高额",
+7,
+"gāo é",
+"high quota; large amount"
+],
+[
+"巨额",
+7,
+"jù é",
+"large sum (of money); a huge amount"
+],
+[
+"数额",
+7,
+"shù é",
+"amount; sum of money; fixed number"
+],
+[
+"余额",
+7,
+"yú é",
+"balance (of an account, bill etc); surplus; remainder"
+],
+[
 "总额",
-40.52,
+7,
 "zǒng é",
 "total (amount or value)"
+]
+],
+"extraWords": [
+[
+"额",
+76.27,
+"é",
+"variant of 额[é]"
+],
+[
+"额",
+76.27,
+"é",
+"forehead; horizontal tablet or inscribed board; specified number or amount"
 ],
 [
 "销售额",
 17.2,
 "xiāo shòu é",
 "sales figure; total income from sales; turnover"
-],
-[
-"巨额",
-15.73,
-"jù é",
-"large sum (of money); a huge amount"
-],
-[
-"余额",
-15.18,
-"yú é",
-"balance (of an account, bill etc); surplus; remainder"
 ],
 [
 "额度",
@@ -81,12 +105,6 @@
 "forehead"
 ],
 [
-"高额",
-8.05,
-"gāo é",
-"high quota; large amount"
-],
-[
 "配额",
 7.94,
 "pèi é",
@@ -99,10 +117,28 @@
 "fixed amount; quota"
 ],
 [
+"限额",
+6.87,
+"???",
+"???"
+],
+[
+"全额",
+6.51,
+"???",
+"???"
+],
+[
 "营业额",
 6.33,
 "yíng yè é",
 "sum or volume of business; turnover"
+],
+[
+"投资额",
+5.5,
+"???",
+"???"
 ]
 ],
 "strokes": [

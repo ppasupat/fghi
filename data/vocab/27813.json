@@ -1,12 +1,31 @@
 {
 "char": "沥",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "trickle, drip; strain; dregs",
 "pron": "lì"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"沥青",
+4.83,
+"lì qīng",
+"asphalt; bitumen; pitch"
+],
+[
+"沥",
+4.03,
+"lì",
+"to drip; to strain or filter; a trickle"
+],
+[
+"呕心沥血",
+0.92,
+"ǒu xīn lì xuè",
+"lit. to spit out one's heart and spill blood (idiom); to work one's heart out; blood, sweat and tears"
+]
+],
 "strokes": [
 "M 231 700 Q 265 672 301 638 Q 317 623 334 624 Q 347 625 352 640 Q 358 658 347 691 Q 335 727 225 755 Q 207 759 200 755 Q 194 751 196 736 Q 200 723 231 700 Z",
 "M 137 505 Q 194 445 228 432 Q 244 429 255 445 Q 261 458 257 478 Q 245 521 152 548 Q 151 549 150 549 Q 131 553 121 549 Q 114 548 118 534 Q 119 521 137 505 Z",

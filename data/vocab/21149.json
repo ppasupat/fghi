@@ -1,6 +1,6 @@
 {
 "char": "劝",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "recommend, advise, urge",
 "pron": "quàn"
@@ -11,16 +11,27 @@
 5,
 "quàn",
 "to advise; to urge; to try to persuade; to exhort; to console; to soothe"
-]
 ],
-"extraWords": [
+[
+"劝告",
+7,
+"quàn gào",
+"to advise; to urge; to exhort; exhortation; advice; CL:席[xí]"
+],
 [
 "劝说",
-7.29,
+7,
 "quàn shuō",
 "to persuade; persuasion; to advise"
+],
+[
+"劝阻",
+7,
+"quàn zǔ",
+"to advise against; to dissuade"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 350 370 Q 381 437 411 533 Q 421 563 440 582 Q 458 600 444 612 Q 429 624 397 632 Q 373 638 347 622 Q 275 592 186 577 Q 173 576 168 569 Q 165 562 183 555 Q 219 542 267 558 Q 319 580 330 580 Q 357 579 351 550 Q 335 465 308 402 L 285 357 Q 225 264 99 216 Q 86 210 98 204 Q 104 197 144 201 Q 240 213 320 319 L 350 370 Z",
 "M 320 319 Q 392 238 399 235 Q 406 234 413 242 Q 423 252 415 290 Q 408 323 350 370 L 308 402 Q 305 403 303 406 Q 227 461 184 487 Q 177 491 174 481 Q 173 471 182 461 Q 231 415 285 357 L 320 319 Z",

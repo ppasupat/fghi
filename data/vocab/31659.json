@@ -1,12 +1,31 @@
 {
 "char": "箫",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "bamboo flute",
 "pron": "xiāo"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"箫",
+3.02,
+"xiāo",
+"xiao, a Chinese musical instrument of ancient times, similar to panpipes"
+],
+[
+"排箫",
+1.79,
+"pái xiāo",
+"see 箫[xiāo]"
+],
+[
+"吹箫",
+0.29,
+"chuī xiāo",
+"to play the xiao 箫[xiāo] (mouth organ); to beg while playing pipes; cf politician Wu Zixu 伍子胥[Wǔ Zǐ xū], c. 520 BC destitute refugee in Wu town, 吴市吹箫[Wú shì chuī xiāo]; to busk; virtuoso piper wins a beauty, cf 玉人吹箫[yù rén chuī xiāo]; (slang) fellatio; blowjob"
+]
+],
 "strokes": [
 "M 333 748 Q 346 769 360 787 Q 370 799 357 811 Q 321 841 296 838 Q 286 837 288 823 Q 300 745 221 660 Q 202 639 193 627 Q 186 614 199 617 Q 212 618 231 633 Q 289 675 321 729 L 333 748 Z",
 "M 321 729 Q 334 722 355 718 Q 377 715 503 745 Q 506 746 508 748 Q 515 755 511 762 Q 504 772 479 777 Q 467 780 384 757 Q 360 753 333 748 C 303 743 296 741 321 729 Z",

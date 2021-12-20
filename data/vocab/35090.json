@@ -1,12 +1,31 @@
 {
 "char": "褒",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "praise, commend, honor, cite",
 "pron": "bāo"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"褒",
+1.74,
+"bāo",
+"to praise; to commend; to honor; (of clothes) large or loose"
+],
+[
+"褒",
+1.74,
+"bāo",
+"variant of 褒[bāo]"
+],
+[
+"褒贬",
+1.16,
+"bāo biǎn",
+"to appraise; to pass judgment on; to speak ill of; praise and censure; appraisal"
+]
+],
 "strokes": [
 "M 448 848 Q 438 849 435 843 Q 432 836 441 827 Q 511 757 544 752 Q 551 751 556 755 Q 560 759 562 775 Q 563 790 557 803 Q 545 831 479 843 Q 458 847 448 848 Z",
 "M 368 660 Q 506 687 775 717 Q 785 716 796 728 Q 797 741 774 752 Q 737 776 671 756 Q 479 717 288 698 Q 270 697 253 694 Q 223 691 246 672 Q 276 645 321 653 Q 327 654 336 655 L 368 660 Z",

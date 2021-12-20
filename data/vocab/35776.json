@@ -1,19 +1,31 @@
 {
 "char": "诀",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "take leave of, bid farewell",
 "pron": "jué"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"诀别",
+7,
+"jué bié",
+"to bid farewell; to part (usually with little hope of meeting again)"
+],
+[
+"诀窍",
+7,
+"jué qiào",
+"secret; trick; knack; key"
+],
 [
 "秘诀",
-6.88,
+7,
 "mì jué",
 "secret know-how; key (to longevity); secret (of happiness); recipe (for success)"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 279 726 Q 313 701 349 671 Q 365 658 384 659 Q 396 660 400 676 Q 404 694 392 727 Q 377 763 269 780 Q 250 783 244 779 Q 238 775 241 760 Q 247 747 279 726 Z",
 "M 132 451 Q 83 435 57 431 Q 42 431 40 424 Q 37 415 48 408 Q 70 395 86 393 Q 99 390 114 397 Q 171 422 223 450 Q 248 463 257 457 Q 263 453 261 345 Q 260 231 231 127 Q 213 94 259 48 Q 271 36 280 43 Q 287 50 297 74 Q 331 126 402 215 Q 412 227 410 234 Q 407 241 398 232 Q 362 204 327 174 Q 291 141 295 187 Q 294 254 315 419 Q 318 441 340 465 Q 352 475 342 488 Q 330 504 293 520 Q 281 526 264 514 Q 180 468 132 451 Z",

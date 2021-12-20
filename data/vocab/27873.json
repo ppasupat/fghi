@@ -1,22 +1,46 @@
 {
 "char": "泡",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "bubbles, suds; blister; soak",
 "pron": "pāo, pào"
 },
 "words": [
 [
-"泡沫",
+"泡",
 6,
+"pāo",
+"puffed; swollen; spongy; small lake (esp. in place names); classifier for urine or feces"
+],
+[
+"泡",
+6,
+"pào",
+"bubble; foam; blister (i.e. skin bubble); to soak; to steep; to infuse; to dawdle; to shilly-shally; to hang about; to pick up (a girl); to get off with (a sexual partner); classifier for occurrences of an action; classifier for number of infusions"
+],
+[
+"灯泡",
+7,
+"dēng pào",
+"light bulb; see also 电灯泡[diàn dēng pào]; third-wheel or unwanted third party spoiling a couple's date (slang); CL:个[gè]"
+],
+[
+"浸泡",
+7,
+"jìn pào",
+"to steep; to soak; to immerse"
+],
+[
+"泡沫",
+7,
 "pào mò",
 "foam; (soap) bubble; (economic) bubble"
 ],
 [
-"浸泡",
-6,
-"jìn pào",
-"to steep; to soak; to immerse"
+"气泡",
+7,
+"qì pào",
+"bubble; blister (in metal); (of beverages) sparkling; carbonated"
 ]
 ],
 "extraWords": [

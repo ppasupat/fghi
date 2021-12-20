@@ -1,6 +1,6 @@
 {
 "char": "喧",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "lively, noisy; clamor, talk loudly",
 "pron": "xuān"
@@ -8,9 +8,15 @@
 "words": [
 [
 "喧哗",
-6,
+7,
 "xuān huá",
 "hubbub; clamor; to make a racket"
+],
+[
+"喧闹",
+7,
+"xuān nào",
+"to make a noise; noisy"
 ]
 ],
 "extraWords": [

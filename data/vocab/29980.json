@@ -1,6 +1,6 @@
 {
 "char": "甜",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "sweet, sweetness",
 "pron": "tián"
@@ -11,26 +11,44 @@
 3,
 "tián",
 "sweet"
-]
 ],
-"extraWords": [
+[
+"酸甜苦辣",
+5,
+"suān tián kǔ là",
+"sour, sweet, bitter and spicy hot; fig. the joys and sorrows of life"
+],
+[
+"甜美",
+7,
+"tián měi",
+"sweet; pleasant; happy"
+],
 [
 "甜蜜",
-20.32,
+7,
 "tián mì",
 "sweet; happy"
 ],
 [
-"甜美",
-14.03,
-"tián měi",
-"sweet; pleasant; happy"
+"甜头",
+7,
+"tián tou",
+"sweet taste (of power, success etc); benefit"
+]
 ],
+"extraWords": [
 [
 "甜品",
 5.62,
 "tián pǐn",
 "dessert"
+],
+[
+"甜甜",
+5.42,
+"???",
+"???"
 ]
 ],
 "strokes": [

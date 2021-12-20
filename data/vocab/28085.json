@@ -1,24 +1,42 @@
 {
 "char": "涵",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "soak, wet; tolerate, be lenient",
 "pron": "hán"
 },
 "words": [
 [
+"涵盖",
+7,
+"hán gài",
+"to cover; to comprise; to include"
+],
+[
+"涵义",
+7,
+"hán yì",
+"content; meaning; connotation; implication"
+],
+[
 "内涵",
-6,
+7,
 "nèi hán",
 "meaningful content; implication; connotation (semantics); inner qualities (of a person)"
+],
+[
+"蕴涵",
+7,
+"yùn hán",
+"to contain; to accumulate; to embrace; implicit condition; implication; entailment"
 ]
 ],
 "extraWords": [
 [
-"涵盖",
-8.59,
-"hán gài",
-"to cover; to comprise; to include"
+"涵",
+9.3,
+"hán",
+"to contain; to include; culvert"
 ]
 ],
 "strokes": [

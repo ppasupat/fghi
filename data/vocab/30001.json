@@ -1,66 +1,96 @@
 {
 "char": "由",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "cause, reason; from",
 "pron": "yóu"
 },
 "words": [
 [
+"自由",
+2,
+"zì yóu",
+"freedom; free; liberty; CL:个[gè]"
+],
+[
+"理由",
+3,
+"lǐ yóu",
+"reason; grounds; justification; CL:个[gè]"
+],
+[
 "由",
-4,
+3,
 "yóu",
 "to follow; from; because of; due to; by; via; through; (before a noun and a verb) it is for ... to ..."
 ],
 [
 "由于",
-4,
+3,
 "yóu yú",
 "due to; as a result of; thanks to; owing to; since; because"
 ],
 [
-"自由",
-5,
-"zì yóu",
-"freedom; free; liberty; CL:個|个[ge4]"
-],
-[
-"理由",
-5,
-"lǐ yóu",
-"reason; grounds; justification; CL:個|个[ge4]"
-],
-[
-"不由得",
-6,
-"bù yóu de",
-"can't help; cannot but"
-]
-],
-"extraWords": [
-[
 "由此",
-40.81,
+5,
 "yóu cǐ",
 "hereby; from this"
 ],
+[
+"不由得",
+7,
+"bù yóu de",
+"can't help; cannot but"
+],
+[
+"不由自主",
+7,
+"bù yóu zì zhǔ",
+"can't help; involuntarily (idiom)"
+],
+[
+"身不由己",
+7,
+"shēn bù yóu jǐ",
+"without the freedom to act independently (idiom); involuntary; not of one's own volition; in spite of oneself"
+],
+[
+"由此看来",
+7,
+"yóu cǐ kàn lái",
+"thereby; judging from this"
+],
+[
+"由此可见",
+7,
+"yóu cǐ kě jiàn",
+"from this, it can be seen that..."
+],
+[
+"由来",
+7,
+"yóu lái",
+"origin"
+],
+[
+"由衷",
+7,
+"yóu zhōng",
+"heartfelt; sincere; unfeigned"
+],
+[
+"自由自在",
+7,
+"zì yóu zì zài",
+"free and easy (idiom); carefree; leisurely"
+]
+],
+"extraWords": [
 [
 "不由",
 19.9,
 "bù yóu",
 "can't help (doing sth)"
-],
-[
-"由此可见",
-9.18,
-"yóu cǐ kě jiàn",
-"from this, it can be seen that..."
-],
-[
-"不由自主",
-5.56,
-"bù yóu zì zhǔ",
-"can't help; involuntarily (idiom)"
 ],
 [
 "自由基",

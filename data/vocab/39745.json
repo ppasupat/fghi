@@ -1,12 +1,32 @@
 {
 "char": "魁",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "chief; leader; best; monstrous",
 "pron": "kuí"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"夺魁",
+7,
+"duó kuí",
+"to seize; to win"
+],
+[
+"罪魁祸首",
+7,
+"zuì kuí huò shǒu",
+"criminal ringleader, main offender (idiom); main culprit; fig. main cause of a disaster"
+]
+],
+"extraWords": [
+[
+"魁",
+2.32,
+"kuí",
+"chief; head; outstanding; exceptional; stalwart"
+]
+],
 "strokes": [
 "M 263 624 Q 308 681 353 745 Q 366 767 387 785 Q 406 801 389 816 Q 370 829 339 835 Q 311 841 299 834 Q 286 828 295 816 Q 310 792 252 659 Q 243 640 234 616 C 223 588 244 600 263 624 Z",
 "M 194 608 Q 181 612 157 616 Q 147 619 143 614 Q 137 608 145 593 Q 176 526 195 417 Q 198 384 217 363 Q 233 342 238 357 Q 239 364 241 375 L 241 398 Q 240 413 237 429 Q 215 540 210 575 C 205 605 205 605 194 608 Z",

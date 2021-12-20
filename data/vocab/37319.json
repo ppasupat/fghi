@@ -1,6 +1,6 @@
 {
 "char": "采",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "collect, gather; pick, pluck",
 "pron": "cǎi, cài"
@@ -8,25 +8,25 @@
 "words": [
 [
 "采取",
-5,
+3,
 "cǎi qǔ",
 "to adopt or carry out (measures, policies, course of action); to take"
 ],
 [
+"采用",
+3,
+"cǎi yòng",
+"to adopt; to employ; to use"
+],
+[
 "采访",
-5,
+4,
 "cǎi fǎng",
 "to interview; to gather news; to hunt for and collect; to cover"
 ],
 [
-"采集",
-6,
-"cǎi jí",
-"to gather; to collect; to harvest"
-],
-[
 "采购",
-6,
+5,
 "cǎi gòu",
 "to procure (for an enterprise etc); to purchase"
 ],
@@ -37,38 +37,61 @@
 "to accept; to adopt"
 ],
 [
+"采",
+7,
+"cǎi",
+"to pick; to pluck; to collect; to select; to choose; to gather"
+],
+[
+"采",
+7,
+"cǎi",
+"color; complexion; looks; variant of 彩[cǎi]; variant of 采[cǎi]"
+],
+[
+"采",
+7,
+"cài",
+"allotment to a feudal noble"
+],
+[
+"采集",
+7,
+"cǎi jí",
+"to gather; to collect; to harvest"
+],
+[
+"采矿",
+7,
+"cǎi kuàng",
+"mining"
+],
+[
+"风采",
+7,
+"fēng cǎi",
+"svelte; elegant manner; graceful bearing"
+],
+[
 "开采",
-6,
+7,
 "kāi cǎi",
 "to extract (ore or other resource from a mine); to exploit; to mine"
 ],
 [
 "无精打采",
-6,
+7,
 "wú jīng dǎ cǎi",
 "dispirited and downcast (idiom); listless; in low spirits; washed out"
 ],
 [
 "兴高采烈",
-6,
+7,
 "xìng gāo cǎi liè",
 "happy and excited (idiom); in high spirits; in great delight"
 ]
 ],
-"extraWords": [
-[
-"采用",
-229.69,
-"cǎi yòng",
-"to adopt; to employ; to use"
-],
-[
-"风采",
-12.26,
-"fēng cǎi",
-"svelte; elegant manner; graceful bearing"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 546 812 Q 489 764 321 696 Q 315 687 322 684 Q 355 675 535 744 Q 595 771 647 779 Q 665 779 668 787 Q 672 797 661 809 Q 604 854 569 850 Q 562 847 561 836 Q 560 821 546 812 Z",
 "M 289 591 Q 320 560 352 521 Q 364 506 379 505 Q 389 504 397 517 Q 403 530 398 562 Q 391 602 290 639 Q 275 645 268 643 Q 262 640 263 627 Q 264 615 289 591 Z",

@@ -1,12 +1,32 @@
 {
 "char": "僚",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "companion, colleague; officials; bureaucracy; a pretty face",
 "pron": "liáo"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"官僚",
+7,
+"guān liáo",
+"bureaucrat; bureaucracy; bureaucratic"
+],
+[
+"官僚主义",
+7,
+"guān liáo zhǔ yì",
+"bureaucracy"
+]
+],
+"extraWords": [
+[
+"同僚",
+2.5,
+"tóng liáo",
+"colleague; fellow-worker"
+]
+],
 "strokes": [
 "M 197 498 Q 251 561 310 654 Q 335 700 358 721 Q 368 731 363 746 Q 359 759 329 784 Q 301 803 282 803 Q 263 802 271 778 Q 284 748 273 722 Q 239 637 185 557 Q 133 481 63 396 Q 53 386 50 379 Q 46 367 61 370 Q 85 373 171 467 L 197 498 Z",
 "M 171 467 Q 192 431 194 344 Q 194 230 168 127 Q 156 76 190 37 Q 191 34 194 32 Q 210 16 222 42 Q 237 82 236 127 Q 236 362 244 415 Q 251 442 242 452 Q 203 494 197 498 C 175 518 158 494 171 467 Z",

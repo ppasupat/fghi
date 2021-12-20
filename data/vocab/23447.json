@@ -1,6 +1,6 @@
 {
 "char": "宗",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "lineage, ancestry; ancestor, clan",
 "pron": "zōng"
@@ -13,26 +13,43 @@
 "religion"
 ],
 [
+"大宗",
+7,
+"dà zōng",
+"large amount; staple; influential family of long standing"
+],
+[
 "正宗",
-6,
+7,
 "zhèng zōng",
 "orthodox school; fig. traditional; old school; authentic; genuine"
 ],
 [
+"宗",
+7,
+"Zōng",
+"surname Zong"
+],
+[
+"宗",
+7,
+"zōng",
+"school; sect; purpose; model; ancestor; clan; to take as one's model (in academic or artistic work); classifier for batches, items, cases (medical or legal), reservoirs"
+],
+[
 "宗旨",
-6,
+7,
 "zōng zhǐ",
 "objective; aim; goal"
-]
 ],
-"extraWords": [
 [
-"大宗",
-5.14,
-"dà zōng",
-"large amount; staple; influential family of long standing"
+"祖宗",
+7,
+"zǔ zōng",
+"ancestor; forebear"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 460 793 Q 520 736 559 722 Q 577 721 586 736 Q 592 752 587 771 Q 569 817 471 839 Q 452 843 441 837 Q 434 836 438 821 Q 441 808 460 793 Z",
 "M 286 633 Q 286 660 260 680 Q 241 696 238 668 Q 242 637 201 584 Q 153 533 183 471 Q 199 443 221 472 Q 236 493 275 597 L 286 633 Z",

@@ -1,6 +1,6 @@
 {
 "char": "贝",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "sea shell; money, currency",
 "pron": "bèi"
@@ -8,18 +8,48 @@
 "words": [
 [
 "宝贝",
-5,
+4,
 "bǎo bèi",
 "treasured object; treasure; darling; baby; cowry; good-for-nothing or queer character"
 ],
 [
 "贝壳",
-6,
+7,
 "bèi ké",
 "shell; conch; cowry; mother of pearl; hard outer skin; also pr. [bei4 qiao4]"
 ]
 ],
 "extraWords": [
+[
+"贝",
+24.61,
+"Bèi",
+"surname Bei"
+],
+[
+"贝",
+24.61,
+"bèi",
+"cowrie; shellfish; currency (archaic)"
+],
+[
+"贝丝",
+8.11,
+"???",
+"???"
+],
+[
+"贝蒂",
+7.81,
+"???",
+"???"
+],
+[
+"贝卡",
+6.92,
+"???",
+"???"
+],
 [
 "贝尔",
 5.67,
@@ -36,7 +66,7 @@
 "贝克",
 5.54,
 "bèi kè",
-"becquerel (unit of radioactivity, symbol Bq); abbr. for 貝克勒爾|贝克勒尔[bei4 ke4 le4 er3]"
+"becquerel (unit of radioactivity, symbol Bq); abbr. for 贝克勒尔[bèi kè lè ěr]"
 ]
 ],
 "strokes": [

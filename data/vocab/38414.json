@@ -1,12 +1,32 @@
 {
 "char": "阎",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "village gate; surname",
 "pron": "yán"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"阎王",
+7,
+"Yán wáng",
+"same as 閻羅王|阎罗王; Yama, King of Hell; translation of Sanskrit: Yama Raja"
+]
+],
+"extraWords": [
+[
+"阎",
+2.47,
+"Yán",
+"Yama; gate of village; surname Yan"
+],
+[
+"阎世铎",
+1.64,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 313 750 Q 368 680 398 676 Q 414 675 421 696 Q 422 712 412 735 Q 400 751 375 761 Q 335 777 318 780 Q 308 783 307 769 Q 306 759 313 750 Z",
 "M 176 680 Q 203 614 201 544 Q 205 271 158 130 Q 140 76 173 31 L 175 29 Q 188 14 198 29 Q 235 69 237 234 Q 237 513 253 628 Q 254 638 256 645 Q 259 664 242 675 Q 217 696 189 705 Q 179 706 172 698 Q 168 691 176 680 Z",

@@ -1,6 +1,6 @@
 {
 "char": "拍",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "clap, tap, beat; beat or rhythm",
 "pron": "pāi"
@@ -8,30 +8,48 @@
 "words": [
 [
 "拍",
-5,
+3,
 "pāi",
 "to pat; to clap; to slap; to swat; to take (a photo); to shoot (a film); racket (sports); beat (music)"
-]
 ],
-"extraWords": [
+[
+"拍照",
+4,
+"pāi zhào",
+"to take a picture"
+],
 [
 "拍摄",
-82.19,
+5,
 "pāi shè",
 "to film; to shoot (a picture)"
 ],
 [
+"球拍",
+6,
+"qiú pāi",
+"racket"
+],
+[
+"拍板",
+7,
+"pāi bǎn",
+"clapper-board; auctioneer's hammer; to beat time with clappers"
+],
+[
 "拍卖",
-33.5,
+7,
 "pāi mài",
 "to auction; auction sale; to sell at a reduced price"
 ],
 [
-"拍照",
-30.41,
-"pāi zhào",
-"to take a picture"
+"拍戏",
+7,
+"pāi xì",
+"to shoot a movie"
+]
 ],
+"extraWords": [
 [
 "开拍",
 9.78,
@@ -39,10 +57,10 @@
 "to begin shooting (a movie, a scene of a movie etc); to start the bidding (auction); to start a trading session (stock market)"
 ],
 [
-"拍戏",
-7.61,
-"pāi xì",
-"to shoot a movie"
+"拍拍",
+6.17,
+"???",
+"???"
 ],
 [
 "偷拍",
@@ -54,7 +72,7 @@
 "拍卖会",
 5.34,
 "pāi mài huì",
-"auction; CL:場|场[chang3]"
+"auction; CL:场[chǎng]"
 ]
 ],
 "strokes": [

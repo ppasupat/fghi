@@ -1,66 +1,132 @@
 {
 "char": "专",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "monopolize, take sole possession",
 "pron": "zhuān"
 },
 "words": [
 [
-"专业",
-4,
-"zhuān yè",
-"specialty; specialized field; main field of study (at university); major; CL:門|门[men2],個|个[ge4]; professional"
+"专家",
+3,
+"zhuān jiā",
+"expert; specialist; CL:个[gè]"
 ],
 [
 "专门",
-4,
+3,
 "zhuān mén",
 "specialist; specialized; customized"
 ],
 [
-"专家",
-5,
-"zhuān jiā",
-"expert; specialist; CL:個|个[ge4]"
+"专题",
+3,
+"zhuān tí",
+"specific topic (addressed by a book, lecture, TV program etc); article, report or program etc on a specific topic"
+],
+[
+"专业",
+3,
+"zhuān yè",
+"specialty; specialized field; main field of study (at university); major; CL:门[mén],个[gè]; professional"
 ],
 [
 "专心",
-5,
+4,
 "zhuān xīn",
 "to concentrate; absorption; concentration; engrossed"
 ],
 [
-"专长",
-6,
-"zhuān cháng",
-"specialty; special knowledge or ability"
+"专辑",
+5,
+"zhuān jí",
+"album; record (music); special collection of printed or broadcast material"
 ],
 [
 "专利",
-6,
+5,
 "zhuān lì",
 "patent; sth uniquely enjoyed (or possessed etc) by a certain group of people; monopoly"
 ],
 [
-"专程",
+"专用",
 6,
+"zhuān yòng",
+"special; dedicated"
+],
+[
+"专长",
+7,
+"zhuān cháng",
+"specialty; special knowledge or ability"
+],
+[
+"专程",
+7,
 "zhuān chéng",
 "specifically; specially (for that purpose)"
 ],
 [
-"专题",
-6,
-"zhuān tí",
-"specific topic (addressed by a book, lecture, TV program etc); article, report or program etc on a specific topic"
+"专柜",
+7,
+"zhuān guì",
+"sales counter dedicated to a certain kind of product (e.g. alcohol)"
+],
+[
+"专栏",
+7,
+"zhuān lán",
+"special column"
+],
+[
+"专卖店",
+7,
+"zhuān mài diàn",
+"specialty store"
+],
+[
+"专人",
+7,
+"zhuān rén",
+"specialist; person appointed for specific task"
+],
+[
+"专职",
+7,
+"zhuān zhí",
+"special duty; assigned full time to a task"
+],
+[
+"专制",
+7,
+"zhuān zhì",
+"autocracy; dictatorship"
+],
+[
+"专注",
+7,
+"zhuān zhù",
+"to focus; to concentrate; to give one's full attention"
+],
+[
+"专著",
+7,
+"zhuān zhù",
+"monograph; specialized text"
 ]
 ],
 "extraWords": [
 [
-"专辑",
-42.72,
-"zhuān jí",
-"album; record (music); special collection of printed or broadcast material"
+"专",
+40.04,
+"zhuān",
+"for a particular person, occasion, purpose; focused on one thing; special; expert; particular (to sth); concentrated; specialized"
+],
+[
+"专",
+40.04,
+"zhuān",
+"variant of 专[zhuān]"
 ],
 [
 "专项",
@@ -69,22 +135,16 @@
 "special; dedicated"
 ],
 [
-"专用",
-27.53,
-"zhuān yòng",
-"special; dedicated"
+"专电",
+15.07,
+"???",
+"???"
 ],
 [
 "专政",
 12.18,
 "zhuān zhèng",
 "dictatorship"
-],
-[
-"专柜",
-11.77,
-"zhuān guì",
-"sales counter dedicated to a certain kind of product (e.g. alcohol)"
 ],
 [
 "专科",
@@ -105,34 +165,16 @@
 "specialization"
 ],
 [
-"专注",
-10.01,
-"zhuān zhù",
-"to focus; to concentrate; to give one's full attention"
-],
-[
-"专人",
-8.26,
-"zhuān rén",
-"specialist; person appointed for specific task"
+"专家们",
+8.95,
+"???",
+"???"
 ],
 [
 "大专",
 7.79,
 "dà zhuān",
 "three-year college; junior college; professional training college"
-],
-[
-"专职",
-7.63,
-"zhuān zhí",
-"special duty; assigned full time to a task"
-],
-[
-"专卖店",
-7.54,
-"zhuān mài diàn",
-"specialty store"
 ],
 [
 "专场",
@@ -147,12 +189,6 @@
 "vocational secondary school; technical secondary school; trade school; abbr. for 中等專科學校|中等专科学校"
 ],
 [
-"专栏",
-7.11,
-"zhuān lán",
-"special column"
-],
-[
 "专案组",
 7.06,
 "zhuān àn zǔ",
@@ -162,7 +198,13 @@
 "专线",
 6.08,
 "zhuān xiàn",
-"special-purpose phone line or communications link; hotline; special rail line (e.g. between airport and city); CL:條|条[tiao2]"
+"special-purpose phone line or communications link; hotline; special rail line (e.g. between airport and city); CL:条[tiáo]"
+],
+[
+"专为",
+5.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

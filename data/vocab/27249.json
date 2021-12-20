@@ -1,11 +1,18 @@
 {
 "char": "橱",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "cabinet, wardrobe, cupboard",
 "pron": "chú"
 },
-"words": [],
+"words": [
+[
+"书橱",
+7,
+"shū chú",
+"bookcase"
+]
+],
 "extraWords": [
 [
 "衣橱",

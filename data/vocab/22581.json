@@ -1,11 +1,17 @@
 {
 "char": "堵",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "wall; stop, prevent; stop up",
 "pron": "dǔ"
 },
 "words": [
+[
+"堵",
+4,
+"dǔ",
+"to block up (a road, pipe etc); to stop up (a hole); (fig.) (of a person) choked up with anxiety or stress; wall (literary); (classifier for walls)"
+],
 [
 "堵车",
 4,
@@ -14,7 +20,7 @@
 ],
 [
 "堵塞",
-6,
+7,
 "dǔ sè",
 "to clog up; blockage"
 ]

@@ -1,76 +1,70 @@
 {
 "char": "流",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "flow, circulate, drift; class",
 "pron": "liú"
 },
 "words": [
 [
-"交流",
-4,
-"jiāo liú",
-"to exchange; exchange; communication; interaction; to have social contact (with sb)"
-],
-[
-"流行",
-4,
-"liú xíng",
-"(of a contagious disease etc) to spread; to propagate; (of a style of clothing, song etc) popular; fashionable"
+"流",
+2,
+"liú",
+"to flow; to disseminate; to circulate or spread; to move or drift; to degenerate; to banish or send into exile; stream of water or sth resembling one; class, rate or grade"
 ],
 [
 "流利",
-4,
+2,
 "liú lì",
 "fluent"
 ],
 [
-"流泪",
-5,
-"liú lèi",
-"to shed tears"
+"流行",
+2,
+"liú xíng",
+"(of a contagious disease etc) to spread; to propagate; (of a style of clothing, song etc) popular; fashionable"
 ],
 [
-"流传",
-5,
-"liú chuán",
-"to spread; to circulate; to hand down"
-],
-[
-"轮流",
-5,
-"lún liú",
-"to alternate; to take turns"
-],
-[
-"流氓",
-6,
-"liú máng",
-"rogue; hoodlum; gangster; immoral behavior"
-],
-[
-"一流",
-6,
-"yī liú",
-"top quality; front ranking"
-],
-[
-"流浪",
-6,
-"liú làng",
-"to drift about; to wander; to roam; nomadic; homeless; unsettled (e.g. population); vagrant"
+"交流",
+3,
+"jiāo liú",
+"to exchange; exchange; communication; interaction; to have social contact (with sb)"
 ],
 [
 "潮流",
-6,
+4,
 "cháo liú",
 "tide; current; trend"
 ],
 [
-"流露",
+"流传",
+4,
+"liú chuán",
+"to spread; to circulate; to hand down"
+],
+[
+"流动",
+5,
+"liú dòng",
+"to flow; to circulate; to go from place to place; to be mobile; (of assets) liquid"
+],
+[
+"流通",
+5,
+"liú tōng",
+"to circulate; to distribute; circulation; distribution"
+],
+[
+"一流",
+5,
+"yī liú",
+"top quality; front ranking"
+],
+[
+"流感",
 6,
-"liú lù",
-"to reveal (indirectly, implicitly); to show (interest, contempt etc) by means of one's actions, tone of voice etc"
+"liú gǎn",
+"flu; influenza"
 ],
 [
 "主流",
@@ -79,78 +73,144 @@
 "main stream (of a river); fig. the essential point; main viewpoint of a matter; mainstream (culture etc)"
 ],
 [
-"流通",
-6,
-"liú tōng",
-"to circulate; to distribute; circulation; distribution"
-],
-[
-"支流",
-6,
-"zhī liú",
-"tributary (river)"
-],
-[
 "川流不息",
-6,
+7,
 "chuān liú bù xī",
 "the stream flows without stopping (idiom); unending flow"
-]
-],
-"extraWords": [
-[
-"流感",
-31.76,
-"liú gǎn",
-"flu; influenza"
 ],
 [
-"流动",
-31.63,
-"liú dòng",
-"to flow; to circulate; to go from place to place; to be mobile; (of assets) liquid"
+"风流",
+7,
+"fēng liú",
+"distinguished and accomplished; outstanding; talented in letters and unconventional in lifestyle; romantic; dissolute; loose"
+],
+[
+"河流",
+7,
+"hé liú",
+"river; CL:条[tiáo]"
+],
+[
+"客流",
+7,
+"kè liú",
+"passenger flow; customer flow"
+],
+[
+"流畅",
+7,
+"liú chàng",
+"flowing (of speech, writing); fluent; smooth and easy"
+],
+[
+"流程",
+7,
+"liú chéng",
+"course; stream; sequence of processes; work flow in manufacturing"
+],
+[
+"流浪",
+7,
+"liú làng",
+"to drift about; to wander; to roam; nomadic; homeless; unsettled (e.g. population); vagrant"
+],
+[
+"流泪",
+7,
+"liú lèi",
+"to shed tears"
 ],
 [
 "流量",
-26.07,
+7,
 "liú liàng",
 "flow rate; rate; throughput; site traffic (Internet)"
 ],
 [
+"流露",
+7,
+"liú lù",
+"to reveal (indirectly, implicitly); to show (interest, contempt etc) by means of one's actions, tone of voice etc"
+],
+[
+"流氓",
+7,
+"liú máng",
+"rogue; hoodlum; gangster; immoral behavior"
+],
+[
+"流入",
+7,
+"liú rù",
+"to flow into; to drift into; influx; inflow"
+],
+[
+"流失",
+7,
+"liú shī",
+"(of soil etc) to wash away; to be eroded; (fig.) (of talented staff, followers of a religious faith, investment funds etc) to go elsewhere; to fail to be retained"
+],
+[
+"流水",
+7,
+"liú shuǐ",
+"running water; (business) turnover"
+],
+[
+"流淌",
+7,
+"liú tǎng",
+"to flow"
+],
+[
+"流向",
+7,
+"liú xiàng",
+"direction of a current; direction of flow; to flow toward"
+],
+[
 "流血",
-25.31,
+7,
 "liú xuè",
 "to bleed; to shed blood"
 ],
 [
-"流程",
-19.79,
-"liú chéng",
-"course; stream; sequence of processes; work flow in manufacturing"
+"流域",
+7,
+"liú yù",
+"river basin; valley; drainage area"
 ],
+[
+"流转",
+7,
+"liú zhuǎn",
+"to be on the move; to roam or wander; to circulate (of goods or capital)"
+],
+[
+"轮流",
+7,
+"lún liú",
+"to alternate; to take turns"
+],
+[
+"上流",
+7,
+"shàng liú",
+"upper class"
+],
+[
+"物流",
+7,
+"wù liú",
+"distribution (business); logistics"
+]
+],
+"extraWords": [
 [
 "流动性",
 17.3,
 "liú dòng xìng",
 "flowing; shifting; fluidity; mobility; liquidity (of funds)"
-],
-[
-"流域",
-15.75,
-"liú yù",
-"river basin; valley; drainage area"
-],
-[
-"流失",
-14.51,
-"liú shī",
-"(of soil etc) to wash away; to be eroded; (fig.) (of talented staff, followers of a religious faith, investment funds etc) to go elsewhere; to fail to be retained"
-],
-[
-"流入",
-13.09,
-"liú rù",
-"to flow into; to drift into; influx; inflow"
 ],
 [
 "流放",
@@ -163,12 +223,6 @@
 10.66,
 "liú chū",
 "to flow out; to disgorge; to effuse"
-],
-[
-"流畅",
-9.99,
-"liú chàng",
-"flowing (of speech, writing); fluent; smooth and easy"
 ],
 [
 "流星",
@@ -189,46 +243,22 @@
 "tramp; wanderer"
 ],
 [
-"河流",
-9.36,
-"hé liú",
-"river; CL:條|条[tiao2]"
-],
-[
 "电流",
 9.02,
 "diàn liú",
 "electric current"
 ],
 [
-"客流",
-8.77,
-"kè liú",
-"passenger flow; customer flow"
-],
-[
-"流向",
-8.35,
-"liú xiàng",
-"direction of a current; direction of flow; to flow toward"
-],
-[
 "人流",
 7.91,
 "rén liú",
-"stream of people; abortion; abbr. for 人工流產|人工流产[ren2 gong1 liu2 chan3]"
+"stream of people; abortion; abbr. for 人工流产[rén gōng liú chǎn]"
 ],
 [
 "流星雨",
 7.49,
 "liú xīng yǔ",
 "meteor shower"
-],
-[
-"流水",
-7.24,
-"liú shuǐ",
-"running water; (business) turnover"
 ],
 [
 "引流",
@@ -249,28 +279,22 @@
 "cheeks streaming with tears (idiom)"
 ],
 [
+"流下",
+6.1,
+"???",
+"???"
+],
+[
 "流逝",
 5.9,
 "liú shì",
 "(of time) to pass; to elapse"
 ],
 [
-"流转",
-5.47,
-"liú zhuǎn",
-"to be on the move; to roam or wander; to circulate (of goods or capital)"
-],
-[
 "水流",
 5.16,
 "shuǐ liú",
 "river; stream"
-],
-[
-"流淌",
-5.07,
-"liú tǎng",
-"to flow"
 ]
 ],
 "strokes": [

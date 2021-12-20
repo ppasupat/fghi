@@ -1,34 +1,70 @@
 {
 "char": "令",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "command, order; 'commandant', magistrate; allow, cause",
 "pron": "líng, lǐng, lìng"
 },
 "words": [
 [
+"令",
+5,
+"Líng",
+"see 令狐[Líng hú]"
+],
+[
+"令",
+5,
+"líng",
+"see 脊令[jí líng]"
+],
+[
+"令",
+5,
+"lǐng",
+"classifier for a ream of paper"
+],
+[
+"令",
+5,
+"lìng",
+"to order; to command; an order; warrant; writ; to cause; to make sth happen; virtuous; honorific title; season; government position (old); type of short song or poem"
+],
+[
 "命令",
 5,
 "mìng lìng",
-"order; command; CL:道[dao4],個|个[ge4]"
+"order; command; CL:道[dào],个[gè]"
+],
+[
+"口令",
+7,
+"kǒu lìng",
+"oral command; a word of command (used in drilling troops or gymnasts); password (used by sentry)"
+],
+[
+"司令",
+7,
+"sī lìng",
+"commanding officer"
+],
+[
+"下令",
+7,
+"xià lìng",
+"to give an order; to command"
 ],
 [
 "夏令营",
-5,
+7,
 "xià lìng yíng",
 "summer camp"
 ],
 [
 "指令",
-6,
+7,
 "zhǐ lìng",
 "order; command; instruction"
-],
-[
-"司令",
-6,
-"sī lìng",
-"commanding officer"
 ]
 ],
 "extraWords": [
@@ -43,12 +79,6 @@
 11.14,
 "zé lìng",
 "to order; to enjoin; to charge; to instruct sb to finish sth"
-],
-[
-"下令",
-10.2,
-"xià lìng",
-"to give an order; to command"
 ],
 [
 "司令部",

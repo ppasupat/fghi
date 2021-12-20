@@ -1,11 +1,17 @@
 {
 "char": "波",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "waves, breakers; undulations",
 "pron": "bō"
 },
 "words": [
+[
+"波动",
+6,
+"bō dòng",
+"to undulate; to fluctuate; wave motion; rise and fall"
+],
 [
 "波浪",
 6,
@@ -13,24 +19,60 @@
 "wave"
 ],
 [
-"奔波",
+"微波炉",
 6,
+"wēi bō lú",
+"microwave oven; CL:台[tái]"
+],
+[
+"奔波",
+7,
 "bēn bō",
 "to rush about; to be constantly on the move"
 ],
 [
+"波及",
+7,
+"bō jí",
+"to spread to; to involve; to affect"
+],
+[
+"波澜",
+7,
+"bō lán",
+"billows; great waves (fig. of a story with great momentum)"
+],
+[
 "波涛",
-6,
+7,
 "bō tāo",
 "great waves; billows"
+],
+[
+"波折",
+7,
+"bō zhé",
+"twists and turns"
+],
+[
+"风波",
+7,
+"fēng bō",
+"disturbance; crisis; disputes; restlessness; CL:场[cháng]"
 ]
 ],
 "extraWords": [
 [
-"波动",
-32.37,
-"bō dòng",
-"to undulate; to fluctuate; wave motion; rise and fall"
+"波",
+77.23,
+"Bō",
+"Poland; Polish; abbr. for 波兰[Bō lán]"
+],
+[
+"波",
+77.23,
+"bō",
+"wave; ripple; storm; surge"
 ],
 [
 "波士顿",
@@ -49,12 +91,6 @@
 12.14,
 "Bō lán",
 "Poland"
-],
-[
-"风波",
-8.71,
-"fēng bō",
-"disturbance; crisis; disputes; restlessness; CL:場|场[chang2]"
 ],
 [
 "波特",
@@ -87,22 +123,10 @@
 "mordent (music)"
 ],
 [
-"微波炉",
-5.34,
-"wēi bō lú",
-"microwave oven; CL:臺|台[tai2]"
-],
-[
 "微波",
 5.1,
 "wēi bō",
 "ripple; microwave"
-],
-[
-"波澜",
-5.09,
-"bō lán",
-"billows; great waves (fig. of a story with great momentum)"
 ]
 ],
 "strokes": [

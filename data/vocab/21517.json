@@ -1,6 +1,6 @@
 {
 "char": "名",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "name, rank, title, position",
 "pron": "míng"
@@ -10,13 +10,73 @@
 "名字",
 1,
 "míng zi",
-"name (of a person or thing); CL:個|个[ge4]"
+"name (of a person or thing); CL:个[gè]"
 ],
 [
 "有名",
-3,
+1,
 "yǒu míng",
 "famous; well-known"
+],
+[
+"报名",
+2,
+"bào míng",
+"to sign up; to enter one's name; to apply; to register; to enroll; to enlist"
+],
+[
+"名",
+2,
+"míng",
+"name; noun (part of speech); place (e.g. among winners); famous; classifier for people"
+],
+[
+"名称",
+2,
+"míng chēng",
+"name (of a thing); name (of an organization)"
+],
+[
+"名单",
+2,
+"míng dān",
+"list of names"
+],
+[
+"姓名",
+2,
+"xìng míng",
+"surname and given name; full name"
+],
+[
+"排名",
+3,
+"pái míng",
+"to rank (1st, 2nd etc); ranking"
+],
+[
+"点名",
+4,
+"diǎn míng",
+"roll call; to mention sb by name; (to call or praise or criticize sb) by name"
+],
+[
+"名牌儿",
+4,
+"míng pái",
+"famous brand; nameplate; name tag"
+],
+[
+"名片",
+4,
+"míng piàn",
+"(business) card"
+],
+[
+"名人",
+4,
+"míng rén",
+"personage; celebrity"
 ],
 [
 "著名",
@@ -25,46 +85,22 @@
 "famous; noted; well-known; celebrated"
 ],
 [
-"报名",
-4,
-"bào míng",
-"to sign up; to enter one's name; to apply; to register; to enroll; to enlist"
-],
-[
-"名片",
+"签名",
 5,
-"míng piàn",
-"(business) card"
+"qiān míng",
+"to sign (one's name with a pen etc); to autograph; signature"
 ],
 [
-"名牌",
-5,
-"míng pái",
-"famous brand; nameplate; name tag"
-],
-[
-"名胜古迹",
-5,
-"míng shèng gǔ jì",
-"historical sites and scenic spots"
-],
-[
-"命名",
+"出名",
 6,
-"mìng míng",
-"to give a name to; to dub; to christen; to designate; named after; naming"
+"chū míng",
+"well-known for sth; to become well known; to make one's mark"
 ],
 [
-"名誉",
+"地名",
 6,
-"míng yù",
-"fame; reputation; honor; honorary; emeritus (of retired professor)"
-],
-[
-"莫名其妙",
-6,
-"mò míng qí miào",
-"(idiom) baffling; inexplicable"
+"dì míng",
+"place name; toponym"
 ],
 [
 "名额",
@@ -73,54 +109,144 @@
 "quota; number of places; place (in an institution, a group etc)"
 ],
 [
-"名副其实",
+"名胜",
 6,
-"míng fù qí shí",
-"not just in name only, but also in reality (idiom); aptly named; worthy of the name"
+"míng shèng",
+"a place famous for its scenery or historical relics; scenic spot; CL:处[chù]"
 ],
 [
-"名次",
+"名义",
 6,
-"míng cì",
-"position in a ranking of names; place; rank"
-]
-],
-"extraWords": [
-[
-"名单",
-65.94,
-"míng dān",
-"list of names"
+"míng yì",
+"name; titular; nominal; in name; ostensible purpose"
 ],
 [
-"排名",
-55.16,
-"pái míng",
-"to rank (1st, 2nd etc); ranking"
+"名誉",
+6,
+"míng yù",
+"fame; reputation; honor; honorary; emeritus (of retired professor)"
 ],
 [
 "知名",
-38.24,
+6,
 "zhī míng",
 "well-known; famous"
 ],
 [
-"名称",
-33.79,
-"míng chēng",
-"name (of a thing); name (of an organization)"
+"驰名",
+7,
+"chí míng",
+"famous"
 ],
 [
-"签名",
-33.18,
-"qiān míng",
-"to sign (one's name with a pen etc); to autograph; signature"
+"大名鼎鼎",
+7,
+"dà míng dǐng dǐng",
+"grand reputation; renowned; famous"
 ],
 [
-"名人",
-30.97,
-"míng rén",
-"personage; celebrity"
+"改名",
+7,
+"gǎi míng",
+"to change one's name"
+],
+[
+"沽名钓誉",
+7,
+"gū míng diào yù",
+"to angle for fame (idiom); to fish for compliments"
+],
+[
+"举世闻名",
+7,
+"jǔ shì wén míng",
+"world-famous (idiom)"
+],
+[
+"名副其实",
+7,
+"míng fù qí shí",
+"not just in name only, but also in reality (idiom); aptly named; worthy of the name"
+],
+[
+"名贵",
+7,
+"míng guì",
+"famous and valuable; rare; precious"
+],
+[
+"名利",
+7,
+"míng lì",
+"fame and profit"
+],
+[
+"名气",
+7,
+"míng qì",
+"reputation; fame"
+],
+[
+"名声",
+7,
+"míng shēng",
+"reputation"
+],
+[
+"名言",
+7,
+"míng yán",
+"saying; famous remark"
+],
+[
+"名著",
+7,
+"míng zhù",
+"masterpiece"
+],
+[
+"命名",
+7,
+"mìng míng",
+"to give a name to; to dub; to christen; to designate; named after; naming"
+],
+[
+"莫名其妙",
+7,
+"mò míng qí miào",
+"(idiom) baffling; inexplicable"
+],
+[
+"匿名",
+7,
+"nì míng",
+"anonymous"
+],
+[
+"提名",
+7,
+"tí míng",
+"to nominate"
+],
+[
+"闻名",
+7,
+"wén míng",
+"well-known; famous; renowned; eminent"
+],
+[
+"远近闻名",
+7,
+"yuǎn jìn wén míng",
+"to be known far and wide; to be well-known"
+]
+],
+"extraWords": [
+[
+"着名",
+51.54,
+"???",
+"???"
 ],
 [
 "名叫",
@@ -129,10 +255,10 @@
 "called; named"
 ],
 [
-"姓名",
-25.32,
-"xìng míng",
-"surname and given name; full name"
+"名牌",
+26.14,
+"míng pái",
+"famous brand; nameplate; name tag"
 ],
 [
 "罪名",
@@ -141,28 +267,22 @@
 "criminal charge; accusation"
 ],
 [
-"名义",
-22.13,
-"míng yì",
-"name; titular; nominal; in name; ostensible purpose"
+"第一名",
+19.23,
+"???",
+"???"
 ],
 [
-"提名",
-18.41,
-"tí míng",
-"to nominate"
+"第四名",
+15.44,
+"???",
+"???"
 ],
 [
-"出名",
-16.54,
-"chū míng",
-"well-known for sth; to become well known; to make one's mark"
-],
-[
-"名声",
-13.56,
-"míng shēng",
-"reputation"
+"第五名",
+13.96,
+"???",
+"???"
 ],
 [
 "化名",
@@ -177,16 +297,28 @@
 "famous general"
 ],
 [
+"第三名",
+12.55,
+"???",
+"???"
+],
+[
+"第二名",
+12.31,
+"???",
+"???"
+],
+[
 "知名度",
 11.8,
 "zhī míng dù",
 "reputation; profile; familiarity in the public consciousness"
 ],
 [
-"匿名",
-10.61,
-"nì míng",
-"anonymous"
+"真名",
+11.0,
+"???",
+"???"
 ],
 [
 "域名",
@@ -195,10 +327,10 @@
 "domain name (computing)"
 ],
 [
-"改名",
-8.07,
-"gǎi míng",
-"to change one's name"
+"第六名",
+8.15,
+"???",
+"???"
 ],
 [
 "成名",
@@ -219,16 +351,16 @@
 "noun"
 ],
 [
-"点名",
-7.33,
-"diǎn míng",
-"roll call; to mention sb by name; (to call or praise or criticize sb) by name"
+"第七名",
+6.97,
+"???",
+"???"
 ],
 [
-"闻名",
-6.92,
-"wén míng",
-"well-known; famous; renowned; eminent"
+"第八名",
+6.81,
+"???",
+"???"
 ],
 [
 "实名制",
@@ -237,10 +369,28 @@
 "system for identifying users (on a rail network, the Internet etc)"
 ],
 [
-"名气",
-6.52,
-"míng qì",
-"reputation; fame"
+"第九名",
+6.5,
+"???",
+"???"
+],
+[
+"第十名",
+6.48,
+"???",
+"???"
+],
+[
+"名次",
+6.04,
+"míng cì",
+"position in a ranking of names; place; rank"
+],
+[
+"第十一名",
+5.85,
+"???",
+"???"
 ],
 [
 "名家",
@@ -259,6 +409,18 @@
 5.8,
 "gēng míng",
 "to change name"
+],
+[
+"第十二名",
+5.75,
+"???",
+"???"
+],
+[
+"为名",
+5.69,
+"???",
+"???"
 ],
 [
 "名下",

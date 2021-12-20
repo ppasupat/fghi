@@ -1,6 +1,6 @@
 {
 "char": "息",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "rest, put stop to, end, cease",
 "pron": "xī"
@@ -8,54 +8,96 @@
 "words": [
 [
 "休息",
-2,
+1,
 "xiū xi",
 "rest; to rest"
 ],
 [
-"消息",
-4,
-"xiāo xi",
-"news; information; CL:條|条[tiao2]"
-],
-[
 "信息",
-4,
+2,
 "xìn xī",
 "information; news; message"
 ],
 [
+"消息",
+3,
+"xiāo xi",
+"news; information; CL:条[tiáo]"
+],
+[
 "利息",
-5,
+4,
 "lì xī",
-"interest (on a loan); CL:筆|笔[bi3]"
+"interest (on a loan); CL:笔[bǐ]"
 ],
 [
 "出息",
-6,
+7,
 "chū xī",
 "to yield interest, profit etc; to exhale (Buddhism)"
 ],
 [
 "出息",
-6,
+7,
 "chū xi",
 "future prospects; profit; to mature; to grow up"
 ],
 [
-"作息",
-6,
-"zuò xī",
-"to work and rest"
-],
-[
 "川流不息",
-6,
+7,
 "chuān liú bù xī",
 "the stream flows without stopping (idiom); unending flow"
+],
+[
+"喘息",
+7,
+"chuǎn xī",
+"to gasp for breath; to take a breather"
+],
+[
+"经久不息",
+7,
+"jīng jiǔ bù xī",
+"prolonged (applause, cheering etc)"
+],
+[
+"平息",
+7,
+"píng xī",
+"to settle (a dispute); to quieten down; to suppress"
+],
+[
+"气息",
+7,
+"qì xī",
+"breath; smell; odor; flavor"
+],
+[
+"息息相关",
+7,
+"xī xī xiāng guān",
+"closely bound up (idiom); intimately related"
+],
+[
+"窒息",
+7,
+"zhì xī",
+"to choke; to stifle; to suffocate"
+],
+[
+"自强不息",
+7,
+"zì qiáng bù xī",
+"to strive unremittingly; self-improvement"
 ]
 ],
 "extraWords": [
+[
+"息",
+45.75,
+"xī",
+"breath; news; interest (on an investment or loan); to cease; to stop; to rest; Taiwan pr. [xi2]"
+],
 [
 "信息化",
 28.67,
@@ -63,22 +105,10 @@
 "informatization (the Information Age analog of industrialization)"
 ],
 [
-"气息",
-24.28,
-"qì xī",
-"breath; smell; odor; flavor"
-],
-[
 "安息",
 13.21,
 "ān xī",
 "to rest; to go to sleep; to rest in peace; (history) Parthia"
-],
-[
-"窒息",
-12.61,
-"zhì xī",
-"to choke; to stifle; to suffocate"
 ],
 [
 "信息技术",
@@ -111,10 +141,10 @@
 "information; news; message; text message or SMS"
 ],
 [
-"平息",
-6.18,
-"píng xī",
-"to settle (a dispute); to quieten down; to suppress"
+"信息产业部",
+5.43,
+"???",
+"???"
 ]
 ],
 "strokes": [

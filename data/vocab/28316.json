@@ -1,6 +1,6 @@
 {
 "char": "溜",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "slide, glide, slip; slippery",
 "pron": "liū, liù"
@@ -8,9 +8,21 @@
 "words": [
 [
 "溜",
-6,
+7,
 "liū",
 "to slip away; to escape in stealth; to skate"
+],
+[
+"溜达",
+7,
+"liū da",
+"to stroll; to go for a walk"
+],
+[
+"随大溜",
+7,
+"suí dà liù",
+"to follow the crowd; going with the tide"
 ]
 ],
 "extraWords": [

@@ -1,12 +1,32 @@
 {
 "char": "窿",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "mine shaft; cavity, hole",
 "pron": "lóng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"窟窿",
+7,
+"kū long",
+"hole; pocket; cavity; loophole; debt"
+]
+],
+"extraWords": [
+[
+"窿",
+1.11,
+"lóng",
+"cavity; hole"
+],
+[
+"窟窿眼",
+0.02,
+"kū long yǎn",
+"small hole"
+]
+],
 "strokes": [
 "M 482 817 Q 501 801 521 781 Q 537 768 553 769 Q 563 770 569 784 Q 573 800 562 831 Q 556 847 530 856 Q 463 874 452 867 Q 446 863 449 849 Q 453 839 482 817 Z",
 "M 292 713 Q 283 740 270 748 Q 252 764 249 738 Q 255 702 192 642 Q 170 621 195 563 Q 208 536 230 562 Q 246 584 261 620 Q 277 660 289 685 C 296 701 296 701 292 713 Z",

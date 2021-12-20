@@ -1,52 +1,148 @@
 {
 "char": "笑",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "smile, laugh, giggle; snicker",
 "pron": "xiào"
 },
 "words": [
 [
-"笑",
-2,
-"xiào",
-"old variant of 笑[xiao4]"
-],
-[
-"笑",
-2,
-"xiào",
-"laugh; smile; CL:個|个[ge4]"
-],
-[
 "开玩笑",
-4,
+1,
 "kāi wán xiào",
 "to play a joke; to make fun of; to joke"
 ],
 [
+"笑",
+1,
+"xiào",
+"old variant of 笑[xiào]"
+],
+[
+"笑",
+1,
+"xiào",
+"laugh; smile; CL:个[gè]"
+],
+[
 "笑话",
-4,
+2,
 "xiào hua",
-"joke; jest; CL:個|个[ge4]; to laugh at; to mock"
+"joke; jest; CL:个[gè]; to laugh at; to mock"
+],
+[
+"笑话儿",
+2,
+"xiào hua",
+"joke; jest; CL:个[gè]; to laugh at; to mock"
 ],
 [
 "微笑",
-5,
+4,
 "wēi xiào",
-"smile; CL:個|个[ge4],絲|丝[si1]; to smile"
+"smile; CL:个[gè],丝[sī]; to smile"
+],
+[
+"笑脸",
+6,
+"xiào liǎn",
+"smiling face; smiley :) ☺; CL:副[fù]"
+],
+[
+"笑容",
+6,
+"xiào róng",
+"smile; smiling expression; CL:副[fù]"
+],
+[
+"笑声",
+6,
+"xiào shēng",
+"laughter"
 ],
 [
 "嘲笑",
-6,
+7,
 "cháo xiào",
 "to jeer at; to deride; to ridicule; mockery; derision"
 ],
 [
+"耻笑",
+7,
+"chǐ xiào",
+"to sneer at sb; to ridicule"
+],
+[
+"搞笑",
+7,
+"gǎo xiào",
+"to get people to laugh; funny; hilarious"
+],
+[
+"好笑",
+7,
+"hǎo xiào",
+"laughable; funny; ridiculous"
+],
+[
+"哄堂大笑",
+7,
+"hōng táng dà xiào",
+"the whole room roaring with laughter (idiom)"
+],
+[
+"欢声笑语",
+7,
+"huān shēng xiào yǔ",
+"cheers and laughter"
+],
+[
 "讥笑",
-6,
+7,
 "jī xiào",
 "to sneer"
+],
+[
+"可笑",
+7,
+"kě xiào",
+"funny; ridiculous"
+],
+[
+"哭笑不得",
+7,
+"kū xiào bù dé",
+"lit. not to know whether to laugh or cry (idiom); both funny and extremely embarrassing; between laughter and tears"
+],
+[
+"苦笑",
+7,
+"kǔ xiào",
+"to force a smile; a bitter laugh"
+],
+[
+"冷笑",
+7,
+"lěng xiào",
+"to sneer; to laugh grimly; grin of dissatisfaction (bitterness, helplessness, indignation etc); bitter, grim, sarcastic or angry smile"
+],
+[
+"眉开眼笑",
+7,
+"méi kāi yǎn xiào",
+"brows raised in delight, eyes laughing (idiom); beaming with joy; all smiles"
+],
+[
+"取笑",
+7,
+"qǔ xiào",
+"to tease; to make fun of"
+],
+[
+"嬉笑",
+7,
+"xī xiào",
+"to be laughing and playing; to giggle"
 ]
 ],
 "extraWords": [
@@ -57,58 +153,16 @@
 "to joke; joke; jest"
 ],
 [
-"笑容",
-34.21,
-"xiào róng",
-"smile; smiling expression; CL:副[fu4]"
-],
-[
-"可笑",
-31.6,
-"kě xiào",
-"funny; ridiculous"
-],
-[
-"好笑",
-31.54,
-"hǎo xiào",
-"laughable; funny; ridiculous"
-],
-[
-"冷笑",
-15.82,
-"lěng xiào",
-"to sneer; to laugh grimly; grin of dissatisfaction (bitterness, helplessness, indignation etc); bitter, grim, sarcastic or angry smile"
-],
-[
 "大笑",
 14.55,
 "dà xiào",
 "to laugh heartily; a belly laugh"
 ],
 [
-"苦笑",
-12.72,
-"kǔ xiào",
-"to force a smile; a bitter laugh"
-],
-[
-"笑声",
-11.45,
-"xiào shēng",
-"laughter"
-],
-[
-"取笑",
-10.76,
-"qǔ xiào",
-"to tease; to make fun of"
-],
-[
-"笑脸",
-8.4,
-"xiào liǎn",
-"smiling face; smiley :) ☺; CL:副[fu4]"
+"笑笑",
+9.35,
+"???",
+"???"
 ],
 [
 "说笑",

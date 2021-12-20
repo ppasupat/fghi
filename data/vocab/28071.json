@@ -1,12 +1,31 @@
 {
 "char": "涧",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "brook, mountain stream",
 "pron": "jiàn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"涧",
+2.01,
+"jiàn",
+"variant of 涧[jiàn]"
+],
+[
+"涧",
+2.01,
+"jiàn",
+"mountain stream"
+],
+[
+"山涧",
+0.73,
+"shān jiàn",
+"mountain stream"
+]
+],
 "strokes": [
 "M 202 710 Q 227 686 253 657 Q 266 644 283 643 Q 295 643 301 657 Q 307 672 298 704 Q 294 723 263 739 Q 194 770 176 763 Q 170 759 171 746 Q 175 733 202 710 Z",
 "M 126 519 Q 181 456 218 439 Q 233 435 243 449 Q 250 462 247 479 Q 237 525 140 558 Q 124 564 113 560 Q 107 559 109 546 Q 110 534 126 519 Z",

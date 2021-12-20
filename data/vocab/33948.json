@@ -1,17 +1,30 @@
 {
 "char": "蒜",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "garlic",
 "pron": "suàn"
 },
-"words": [],
+"words": [
+[
+"蒜",
+7,
+"suàn",
+"garlic; CL:头[tóu],瓣[bàn]"
+]
+],
 "extraWords": [
 [
 "大蒜",
 5.74,
 "dà suàn",
-"garlic; CL:瓣[ban4],頭|头[tou2]"
+"garlic; CL:瓣[bàn],头[tóu]"
+],
+[
+"装蒜",
+1.91,
+"zhuāng suàn",
+"to act stupid; to play dumb; to pretend to not know"
 ]
 ],
 "strokes": [

@@ -1,34 +1,130 @@
 {
 "char": "动",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "move, happen; movement, action",
 "pron": "dòng"
 },
 "words": [
 [
-"运动",
-2,
-"yùn dòng",
-"to move; to exercise; sports; exercise; motion; movement; campaign; CL:場|场[chang3]"
-],
-[
-"动物",
-3,
-"dòng wù",
-"animal; CL:隻|只[zhi1],群[qun2],個|个[ge4]"
+"动",
+1,
+"dòng",
+"(of sth) to move; to set in movement; to displace; to touch; to make use of; to stir (emotions); to alter; abbr. for 动词[dòng cí], verb"
 ],
 [
 "动作",
-4,
+1,
 "dòng zuò",
-"movement; motion; action; CL:個|个[ge4]"
+"movement; motion; action; CL:个[gè]"
+],
+[
+"动物",
+2,
+"dòng wù",
+"animal; CL:只[zhī],群[qún],个[gè]"
+],
+[
+"动物园",
+2,
+"dòng wù yuán",
+"zoo; CL:个[gè]"
+],
+[
+"感动",
+2,
+"gǎn dòng",
+"to move (sb); to touch (sb emotionally); moving"
 ],
 [
 "活动",
-4,
+2,
 "huó dòng",
-"to exercise; to move about; to operate; to use connections (personal influence); loose; shaky; active; movable; activity; campaign; maneuver; behavior; CL:項|项[xiang4],個|个[ge4]"
+"to exercise; to move about; to operate; to use connections (personal influence); loose; shaky; active; movable; activity; campaign; maneuver; behavior; CL:项[xiàng],个[gè]"
+],
+[
+"行动",
+2,
+"xíng dòng",
+"operation; action; CL:个[gè]; to move about; mobile"
+],
+[
+"运动",
+2,
+"yùn dòng",
+"to move; to exercise; sports; exercise; motion; movement; campaign; CL:场[chǎng]"
+],
+[
+"带动",
+3,
+"dài dòng",
+"to spur; to provide impetus; to drive"
+],
+[
+"动力",
+3,
+"dòng lì",
+"motive power; force; (fig.) motivation; impetus"
+],
+[
+"动人",
+3,
+"dòng rén",
+"touching; moving"
+],
+[
+"发动",
+3,
+"fā dòng",
+"to start; to launch; to unleash; to mobilize; to arouse"
+],
+[
+"生动",
+3,
+"shēng dòng",
+"vivid; lively"
+],
+[
+"推动",
+3,
+"tuī dòng",
+"to push (for acceptance of a plan); to push forward; to promote; to actuate; CL:个[gè]"
+],
+[
+"主动",
+3,
+"zhǔ dòng",
+"to take the initiative; to do sth of one's own accord; spontaneous; active; opposite: passive 被动[bèi dòng]; drive (of gears and shafts etc)"
+],
+[
+"自动",
+3,
+"zì dòng",
+"automatic; voluntarily"
+],
+[
+"摆动",
+4,
+"bǎi dòng",
+"to sway; to swing; to move back and forth; to oscillate"
+],
+[
+"电动车",
+4,
+"???",
+"???"
+],
+[
+"动画片",
+4,
+"dòng huà piàn",
+"animated film"
+],
+[
+"动摇",
+4,
+"dòng yáo",
+"to sway; to waver; to rock; to rattle; to destabilize; to pose a challenge to"
 ],
 [
 "激动",
@@ -37,52 +133,106 @@
 "to move emotionally; to stir up (emotions); to excite"
 ],
 [
-"感动",
-4,
-"gǎn dòng",
-"to move (sb); to touch (sb emotionally); moving"
-],
-[
-"行动",
-5,
-"xíng dòng",
-"operation; action; CL:個|个[ge4]; to move about; mobile"
-],
-[
 "移动",
-5,
+4,
 "yí dòng",
 "to move; movement; migration; mobile; portable"
 ],
 [
-"自动",
-5,
-"zì dòng",
-"automatic; voluntarily"
+"运动会",
+4,
+"yùn dòng huì",
+"sports competition; CL:个[gè]"
 ],
 [
-"主动",
+"运动员",
+4,
+"yùn dòng yuán",
+"athlete; CL:名[míng],个[gè]"
+],
+[
+"转动",
+4,
+"zhuǎn dòng",
+"to turn sth around; to swivel"
+],
+[
+"转动",
+4,
+"zhuàn dòng",
+"to rotate (about an axis); to revolve; to turn; to move in a circle; to gyrate"
+],
+[
+"被动",
 5,
-"zhǔ dòng",
-"to take the initiative; to do sth of one's own accord; spontaneous; active; opposite: passive 被動|被动[bei4 dong4]; drive (of gears and shafts etc)"
+"bèi dòng",
+"passive"
+],
+[
+"变动",
+5,
+"biàn dòng",
+"to change; to fluctuate; change; fluctuation"
+],
+[
+"冲动",
+5,
+"chōng dòng",
+"to have an urge; to be impetuous; impulse; urge"
+],
+[
+"调动",
+5,
+"diào dòng",
+"to transfer; to maneuver (troops etc); movement of personnel; to mobilize; to bring into play"
+],
+[
+"动机",
+5,
+"dòng jī",
+"motor; locomotive; motive; motivation; intention"
+],
+[
+"动手",
+5,
+"dòng shǒu",
+"to set about (a task); to hit; to punch; to touch"
+],
+[
+"动态",
+5,
+"dòng tài",
+"movement; motion; development; trend; dynamic (science)"
+],
+[
+"动员",
+5,
+"dòng yuán",
+"to mobilize; to arouse; mobilization; CL:次[cì],个[gè]"
+],
+[
+"举动",
+5,
+"jǔ dòng",
+"act; action; activity; move; movement"
 ],
 [
 "劳动",
 5,
 "láo dòng",
-"work; toil; physical labor; CL:次[ci4]"
+"work; toil; physical labor; CL:次[cì]"
 ],
 [
-"动画片",
+"流动",
 5,
-"dòng huà piàn",
-"animated film"
+"liú dòng",
+"to flow; to circulate; to go from place to place; to be mobile; (of assets) liquid"
 ],
 [
-"生动",
+"启动",
 5,
-"shēng dòng",
-"vivid; lively"
+"qǐ dòng",
+"to start (a machine); (fig.) to set in motion; to launch (an operation); to activate (a plan)"
 ],
 [
 "振动",
@@ -91,192 +241,240 @@
 "to vibrate; to shake; vibration"
 ],
 [
-"动手",
+"波动",
 6,
-"dòng shǒu",
-"to set about (a task); to hit; to punch; to touch"
+"bō dòng",
+"to undulate; to fluctuate; wave motion; rise and fall"
 ],
 [
-"动机",
+"出动",
 6,
-"dòng jī",
-"motor; locomotive; motive; motivation; intention"
+"chū dòng",
+"to start out on a trip; to dispatch troops"
 ],
 [
-"冲动",
+"打动",
 6,
-"chōng dòng",
-"to have an urge; to be impetuous; impulse; urge"
+"dǎ dòng",
+"to move (to pity); arousing (sympathy); touching"
 ],
 [
-"发动",
+"电动",
 6,
-"fā dòng",
-"to start; to launch; to unleash; to mobilize; to arouse"
+"diàn dòng",
+"electric-powered; (Tw) video game"
 ],
 [
-"动力",
+"动画",
 6,
-"dòng lì",
-"motive power; force; (fig.) motivation; impetus"
+"dòng huà",
+"animation; cartoon"
 ],
 [
-"举动",
+"互动",
 6,
-"jǔ dòng",
-"act; action; activity; move; movement"
+"hù dòng",
+"to interact; interactive"
+],
+[
+"机动车",
+6,
+"jī dòng chē",
+"motor vehicle"
+],
+[
+"触动",
+7,
+"chù dòng",
+"to touch; to stir up (trouble or emotions); to move (sb's emotions or worry)"
+],
+[
+"动不动",
+7,
+"dòng bu dòng",
+"(typically followed by 就[jiù]) apt to (lose one's temper, catch a cold etc); at the drop of a hat"
+],
+[
+"动荡",
+7,
+"dòng dàng",
+"variant of 动荡[dòng dàng]"
+],
+[
+"动荡",
+7,
+"dòng dàng",
+"unrest (social or political); turmoil; upheaval; commotion"
+],
+[
+"动感",
+7,
+"dòng gǎn",
+"sense of movement (often in a static work of art); dynamic; vivid; lifelike"
+],
+[
+"动工",
+7,
+"dòng gōng",
+"to start (a building project)"
 ],
 [
 "动静",
-6,
+7,
 "dòng jìng",
 "(detectable) movement; (sign of) activity; movement and stillness"
 ],
 [
 "动脉",
-6,
+7,
 "dòng mài",
 "artery"
 ],
 [
 "动身",
-6,
+7,
 "dòng shēn",
 "to go on a journey; to leave"
 ],
 [
-"轰动",
-6,
-"hōng dòng",
-"to cause a sensation; to create a stir in (a place); commotion; controversy"
+"动弹",
+7,
+"dòng tan",
+"to budge"
 ],
 [
-"动态",
-6,
-"dòng tài",
-"movement; motion; development; trend; dynamic (science)"
+"动听",
+7,
+"dòng tīng",
+"pleasant to listen to"
 ],
 [
-"调动",
-6,
-"diào dòng",
-"to transfer; to maneuver (troops etc); movement of personnel; to mobilize; to bring into play"
+"动向",
+7,
+"dòng xiàng",
+"trend; tendency"
 ],
 [
-"机动",
-6,
-"jī dòng",
-"locomotive; motorized; power-driven; adaptable; flexible (use, treatment, timing etc)"
+"动用",
+7,
+"dòng yòng",
+"to utilize; to put sth to use"
 ],
 [
-"无动于衷",
-6,
-"wú dòng yú zhōng",
-"aloof; indifferent; unconcerned"
-],
-[
-"被动",
-6,
-"bèi dòng",
-"passive"
-],
-[
-"动员",
-6,
-"dòng yuán",
-"to mobilize; to arouse; mobilization; CL:次[ci4],個|个[ge4]"
-],
-[
-"惊动",
-6,
-"jīng dòng",
-"to alarm; to startle; to disturb"
+"改动",
+7,
+"gǎi dòng",
+"to alter; to modify; to revise"
 ],
 [
 "鼓动",
-6,
+7,
 "gǔ dòng",
 "to agitate; to arouse; to instigate; to encite"
 ],
 [
-"动荡",
-6,
-"dòng dàng",
-"variant of 動蕩|动荡[dong4 dang4]"
+"滚动",
+7,
+"gǔn dòng",
+"to roll; (to do sth) in a loop; to scroll (computing); to progressively expand (economics); to rumble (of thunder)"
 ],
 [
-"动荡",
-6,
-"dòng dàng",
-"unrest (social or political); turmoil; upheaval; commotion"
-]
-],
-"extraWords": [
-[
-"推动",
-106.75,
-"tuī dòng",
-"to push (for acceptance of a plan); to push forward; to promote; to actuate; CL:個|个[ge4]"
+"轰动",
+7,
+"hōng dòng",
+"to cause a sensation; to create a stir in (a place); commotion; controversy"
 ],
 [
-"启动",
-76.52,
-"qǐ dòng",
-"to start (a machine); (fig.) to set in motion; to launch (an operation); to activate (a plan)"
+"机动",
+7,
+"jī dòng",
+"locomotive; motorized; power-driven; adaptable; flexible (use, treatment, timing etc)"
 ],
 [
-"带动",
-41.37,
-"dài dòng",
-"to spur; to provide impetus; to drive"
+"惊天动地",
+7,
+"jīng tiān dòng dì",
+"world-shaking (idiom)"
 ],
 [
-"运动员",
-39.81,
-"yùn dòng yuán",
-"athlete; CL:名[ming2],個|个[ge4]"
+"惊心动魄",
+7,
+"jīng xīn dòng pò",
+"shaking one to the core; extremely disturbing; hair-raising (idiom)"
 ],
 [
-"波动",
-32.37,
-"bō dòng",
-"to undulate; to fluctuate; wave motion; rise and fall"
+"开动",
+7,
+"kāi dòng",
+"to start; to set in motion; to move; to march; to dig in (eating); to tuck in (eating)"
 ],
 [
-"流动",
-31.63,
-"liú dòng",
-"to flow; to circulate; to go from place to place; to be mobile; (of assets) liquid"
-],
-[
-"发动机",
-30.84,
-"fā dòng jī",
-"engine; motor; CL:臺|台[tai2]"
+"拉动",
+7,
+"lā dòng",
+"to pull; (fig.) to stimulate (economic activity); to motivate (people to do sth)"
 ],
 [
 "劳动力",
-29.56,
+7,
 "láo dòng lì",
 "labor force; manpower"
 ],
 [
-"互动",
-28.39,
-"hù dòng",
-"to interact; interactive"
+"灵机一动",
+7,
+"líng jī yī dòng",
+"a bright idea suddenly occurs (idiom); to hit upon an inspiration; to be struck by a brainwave"
 ],
 [
-"变动",
-23.48,
-"biàn dòng",
-"to change; to fluctuate; change; fluctuation"
+"驱动",
+7,
+"qū dòng",
+"to drive; to propel; drive (vehicle wheel); drive mechanism (tape or disk); device driver (computing software)"
 ],
 [
-"机动车",
-20.65,
-"jī dòng chē",
-"motor vehicle"
+"煽动",
+7,
+"shān dòng",
+"to incite; to instigate"
+],
+[
+"手动",
+7,
+"shǒu dòng",
+"manual; manually operated; manual gear-change"
+],
+[
+"跳动",
+7,
+"tiào dòng",
+"to throb; to pulse; to bounce; to jiggle; to jump about"
+],
+[
+"一动不动",
+7,
+"yī dòng bù dòng",
+"motionless"
+],
+[
+"一举一动",
+7,
+"yī jǔ yī dòng",
+"every movement; each and every move"
+],
+[
+"震动",
+7,
+"zhèn dòng",
+"to shake; to vibrate; to strongly affect; shock; vibration"
+]
+],
+"extraWords": [
+[
+"发动机",
+30.84,
+"fā dòng jī",
+"engine; motor; CL:台[tái]"
 ],
 [
 "流动性",
@@ -285,22 +483,10 @@
 "flowing; shifting; fluidity; mobility; liquidity (of funds)"
 ],
 [
-"动画",
-17.18,
-"dòng huà",
-"animation; cartoon"
-],
-[
 "劳动者",
 17.16,
 "láo dòng zhě",
 "worker; laborer"
-],
-[
-"电动",
-15.59,
-"diàn dòng",
-"electric-powered; (Tw) video game"
 ],
 [
 "心动",
@@ -315,82 +501,10 @@
 "reaction; reactionary"
 ],
 [
-"驱动",
-13.78,
-"qū dòng",
-"to drive; to propel; drive (vehicle wheel); drive mechanism (tape or disk); device driver (computing software)"
-],
-[
-"出动",
-13.65,
-"chū dòng",
-"to start out on a trip; to dispatch troops"
-],
-[
-"运动会",
-13.38,
-"yùn dòng huì",
-"sports competition; CL:個|个[ge4]"
-],
-[
-"动人",
-12.65,
-"dòng rén",
-"touching; moving"
-],
-[
-"打动",
-11.42,
-"dǎ dòng",
-"to move (to pity); arousing (sympathy); touching"
-],
-[
 "自动化",
 10.23,
 "zì dòng huà",
 "automation"
-],
-[
-"动用",
-10.2,
-"dòng yòng",
-"to utilize; to put sth to use"
-],
-[
-"震动",
-10.17,
-"zhèn dòng",
-"to shake; to vibrate; to strongly affect; shock; vibration"
-],
-[
-"动感",
-9.75,
-"dòng gǎn",
-"sense of movement (often in a static work of art); dynamic; vivid; lifelike"
-],
-[
-"动摇",
-9.66,
-"dòng yáo",
-"to sway; to waver; to rock; to rattle; to destabilize; to pose a challenge to"
-],
-[
-"动物园",
-9.57,
-"dòng wù yuán",
-"zoo; CL:個|个[ge4]"
-],
-[
-"转动",
-8.44,
-"zhuǎn dòng",
-"to turn sth around; to swivel"
-],
-[
-"转动",
-8.44,
-"zhuàn dòng",
-"to rotate (about an axis); to revolve; to turn; to move in a circle; to gyrate"
 ],
 [
 "乱动",
@@ -399,10 +513,22 @@
 "to fiddle with; to tamper with; to meddle with; to move randomly; to flail about"
 ],
 [
+"一动",
+8.1,
+"???",
+"???"
+],
+[
 "野生动物",
 8.04,
 "yě shēng dòng wù",
 "wild animal"
+],
+[
+"涌动",
+7.93,
+"???",
+"???"
 ],
 [
 "浮动",
@@ -411,34 +537,10 @@
 "to float and drift; unstable"
 ],
 [
-"触动",
-6.59,
-"chù dòng",
-"to touch; to stir up (trouble or emotions); to move (sb's emotions or worry)"
-],
-[
-"开动",
-6.53,
-"kāi dòng",
-"to start; to set in motion; to move; to march; to dig in (eating); to tuck in (eating)"
-],
-[
-"动工",
-6.4,
-"dòng gōng",
-"to start (a building project)"
-],
-[
 "舞动",
 6.35,
 "wǔ dòng",
 "to move as in a dance; to wave (some implement); to flourish; (of eyes, hands etc) to dance; to flutter"
-],
-[
-"滚动",
-6.21,
-"gǔn dòng",
-"to roll; (to do sth) in a loop; to scroll (computing); to progressively expand (economics); to rumble (of thunder)"
 ],
 [
 "反动派",
@@ -447,28 +549,28 @@
 "reactionaries"
 ],
 [
-"动向",
-6.12,
-"dòng xiàng",
-"trend; tendency"
-],
-[
 "制动",
 6.1,
 "zhì dòng",
 "to brake"
 ],
 [
-"跳动",
-5.9,
-"tiào dòng",
-"to throb; to pulse; to bounce; to jiggle; to jump about"
-],
-[
 "不动产",
 5.69,
 "bù dòng chǎn",
 "real estate; immovable property; immovables"
+],
+[
+"动手术",
+5.57,
+"???",
+"???"
+],
+[
+"动脉瘤",
+5.57,
+"???",
+"???"
 ],
 [
 "动词",

@@ -1,23 +1,30 @@
 {
 "char": "垒",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "rampart, military wall",
 "pron": "lěi"
 },
-"words": [],
+"words": [
+[
+"堡垒",
+7,
+"bǎo lěi",
+"fort"
+]
+],
 "extraWords": [
+[
+"垒",
+24.38,
+"lěi",
+"rampart; base (in baseball); to build with stones, bricks etc"
+],
 [
 "壁垒",
 6.09,
 "bì lěi",
 "rampart; barrier"
-],
-[
-"堡垒",
-5.66,
-"bǎo lěi",
-"fort"
 ]
 ],
 "strokes": [

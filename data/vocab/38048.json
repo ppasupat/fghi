@@ -1,12 +1,31 @@
 {
 "char": "钠",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "sodium, natrium; sharpen wood",
 "pron": "nà"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"钠",
+14.91,
+"nà",
+"sodium (chemistry)"
+],
+[
+"氯化钠",
+1.03,
+"lǜ huà nà",
+"sodium chloride NaCl; common salt"
+],
+[
+"氢氧化钠",
+0.89,
+"qīng yǎng huà nà",
+"caustic soda; sodium hydroxide NaOH"
+]
+],
 "strokes": [
 "M 307 627 Q 400 774 400 780 Q 399 783 399 785 Q 395 798 366 820 Q 339 838 321 837 Q 302 836 310 813 Q 326 779 312 749 Q 272 649 209 557 Q 148 469 66 370 Q 56 360 54 354 Q 51 344 65 346 Q 122 355 285 593 Q 288 599 291 602 L 307 627 Z",
 "M 291 602 Q 327 592 388 603 Q 427 612 468 621 Q 489 627 492 630 Q 499 637 495 645 Q 488 655 461 661 Q 433 665 407 653 Q 383 644 357 637 Q 333 633 307 627 C 278 620 262 609 291 602 Z",

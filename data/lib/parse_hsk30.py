@@ -29,3 +29,10 @@ def get_hsk_chars():
 
 def get_hsk_words():
     return _parse_hsk30('wordlist.txt', '.*级词汇表')
+
+
+def gen_processed_words(words):
+    for word in words:
+        word = re.sub('（[^）]*）|[¹²…]', '', word)
+        for variant in word.split('｜'):
+            yield variant

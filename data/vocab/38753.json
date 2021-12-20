@@ -1,12 +1,31 @@
 {
 "char": "靡",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "divide, disperse, scatter",
 "pron": "mí, mǐ"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"风靡",
+4.72,
+"fēng mǐ",
+"fashionable; popular"
+],
+[
+"靡",
+2.88,
+"mí",
+"to waste (money)"
+],
+[
+"靡",
+2.88,
+"mǐ",
+"extravagant; go with fashion; not"
+]
+],
 "strokes": [
 "M 506 837 Q 533 821 563 800 Q 576 791 590 794 Q 599 795 601 808 Q 602 821 591 845 Q 584 861 554 870 Q 485 882 475 875 Q 472 871 475 860 Q 479 851 506 837 Z",
 "M 334 711 Q 337 711 339 710 Q 363 703 390 708 Q 778 760 793 772 Q 800 778 798 786 Q 792 796 768 805 Q 743 812 716 804 Q 527 753 321 743 C 291 741 305 718 334 711 Z",

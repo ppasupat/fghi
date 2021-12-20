@@ -1,6 +1,6 @@
 {
 "char": "我",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "our, us, i, me, my, we",
 "pron": "wǒ"
@@ -17,6 +17,12 @@
 1,
 "wǒ men",
 "we; us; ourselves; our"
+],
+[
+"自我",
+6,
+"zì wǒ",
+"self-; ego (psychology)"
 ]
 ],
 "extraWords": [
@@ -27,10 +33,28 @@
 "our country; China"
 ],
 [
-"自我",
-72.35,
-"zì wǒ",
-"self-; ego (psychology)"
+"我会",
+39.17,
+"???",
+"???"
+],
+[
+"我家",
+21.28,
+"???",
+"???"
+],
+[
+"于我",
+5.63,
+"???",
+"???"
+],
+[
+"我俩",
+5.6,
+"???",
+"???"
 ]
 ],
 "strokes": [

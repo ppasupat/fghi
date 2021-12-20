@@ -1,42 +1,54 @@
 {
 "char": "谷",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "valley, gorge, ravine",
 "pron": "gǔ"
 },
 "words": [
 [
-"峡谷",
+"山谷",
 6,
-"xiá gǔ",
-"canyon; gill; ravine"
+"shān gǔ",
+"valley; ravine"
 ],
 [
-"稻谷",
-6,
-"dào gǔ",
-"unhusked rice; paddy"
+"低谷",
+7,
+"dī gǔ",
+"valley; trough (as opposed to peaks); fig. low point; lowest ebb; nadir of one's fortunes"
+],
+[
+"峡谷",
+7,
+"xiá gǔ",
+"canyon; gill; ravine"
 ]
 ],
 "extraWords": [
 [
-"山谷",
-6.86,
-"shān gǔ",
-"valley; ravine"
+"谷",
+41.37,
+"gǔ",
+"grain; corn"
+],
+[
+"谷",
+41.37,
+"Gǔ",
+"surname Gu"
+],
+[
+"谷",
+41.37,
+"gǔ",
+"valley"
 ],
 [
 "曼谷",
 5.69,
 "Màn gǔ",
 "Bangkok, capital of Thailand"
-],
-[
-"低谷",
-5.52,
-"dī gǔ",
-"valley; trough (as opposed to peaks); fig. low point; lowest ebb; nadir of one's fortunes"
 ]
 ],
 "strokes": [

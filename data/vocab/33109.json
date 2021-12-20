@@ -1,17 +1,30 @@
 {
 "char": "腕",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "wrist",
 "pron": "wàn"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"大腕儿",
+7,
+"dà wàn r5",
+"erhua variant of 大腕[dà wàn]"
+],
 [
 "手腕",
-11.03,
+7,
 "shǒu wàn",
 "wrist; trickery; finesse; ability; skill"
+]
+],
+"extraWords": [
+[
+"腕",
+7.9,
+"wàn",
+"wrist; (squid, starfish etc) arm"
 ]
 ],
 "strokes": [

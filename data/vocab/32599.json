@@ -1,11 +1,24 @@
 {
 "char": "罗",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "net for catching birds; gauze",
 "pron": "luó"
 },
-"words": [],
+"words": [
+[
+"罗",
+7,
+"Luó",
+"surname Luo"
+],
+[
+"罗",
+7,
+"luó",
+"gauze; to collect; to gather; to catch; to sift"
+]
+],
 "extraWords": [
 [
 "俄罗斯",
@@ -50,10 +63,22 @@
 "Robert (name)"
 ],
 [
+"克罗伊",
+11.54,
+"???",
+"???"
+],
+[
 "摩托罗拉",
 8.32,
 "Mó tuō luó lā",
 "Motorola"
+],
+[
+"罗伊",
+7.99,
+"???",
+"???"
 ],
 [
 "哈罗德",
@@ -65,7 +90,7 @@
 "罗斯",
 7.84,
 "Luó sī",
-"Roth, Ross, Rose or Rossi (name); Kenneth Roth (1955-), executive director of Human Rights Watch 人權觀察|人权观察[Ren2 quan2 Guan1 cha2]; Rus' (as in Kievan Rus' 基輔羅斯|基辅罗斯[Ji1 fu3 Luo2 si1])"
+"Roth, Ross, Rose or Rossi (name); Kenneth Roth (1955-), executive director of Human Rights Watch 人权观察[Rén quán Guān chá]; Rus' (as in Kievan Rus' 基辅罗斯[Jī fǔ Luó sī])"
 ],
 [
 "罗马尼亚",
@@ -74,16 +99,40 @@
 "Romania"
 ],
 [
+"罗伯",
+6.53,
+"???",
+"???"
+],
+[
 "巴塞罗那",
 5.96,
 "Bā sài luó nà",
 "Barcelona"
 ],
 [
+"罗宾",
+5.4,
+"???",
+"???"
+],
+[
+"罗尼",
+5.4,
+"???",
+"???"
+],
+[
 "罗密欧",
 5.28,
 "Luó mì ōu",
 "Romeo (name)"
+],
+[
+"小罗",
+5.15,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,28 +1,22 @@
 {
 "char": "签",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "sign, endorse; slip of paper",
 "pron": "qiān"
 },
 "words": [
 [
-"签证",
-4,
-"qiān zhèng",
-"visa; certificate; to certify; CL:個|个[ge4]"
+"签",
+5,
+"qiān",
+"to sign one's name; visa; variant of 签[qiān]"
 ],
 [
 "签",
 5,
 "qiān",
-"to sign one's name; visa; variant of 籤|签[qian1]"
-],
-[
-"签",
-5,
-"qiān",
-"Japanese variant of 籤|签[qian1]"
+"Japanese variant of 签[qiān]"
 ],
 [
 "签",
@@ -31,54 +25,60 @@
 "inscribed bamboo stick (used in divination, gambling, drawing lots etc); small wood sliver; label; tag"
 ],
 [
+"签订",
+5,
+"qiān dìng",
+"to agree to and sign (a treaty etc)"
+],
+[
+"签名",
+5,
+"qiān míng",
+"to sign (one's name with a pen etc); to autograph; signature"
+],
+[
+"签约",
+5,
+"qiān yuē",
+"to sign a contract or agreement"
+],
+[
+"签证",
+5,
+"qiān zhèng",
+"visa; certificate; to certify; CL:个[gè]"
+],
+[
+"签字",
+5,
+"qiān zì",
+"to sign (one's name); signature"
+],
+[
+"标签",
+7,
+"biāo qiān",
+"label; tag; (computing) tab (GUI element)"
+],
+[
+"抽签",
+7,
+"chōu qiān",
+"to perform divination with sticks; to draw lots; a ballot (in share dealing)"
+],
+[
 "签署",
-6,
+7,
 "qiān shǔ",
 "to sign (an agreement)"
 ]
 ],
 "extraWords": [
 [
-"签订",
-44.91,
-"qiān dìng",
-"to agree to and sign (a treaty etc)"
-],
-[
-"签名",
-33.18,
-"qiān míng",
-"to sign (one's name with a pen etc); to autograph; signature"
-],
-[
 "签到",
 25.32,
 "qiān dào",
 "to register; to sign in"
-],
-[
-"签约",
-24.25,
-"qiān yuē",
-"to sign a contract or agreement"
-],
-[
-"签字",
-18.81,
-"qiān zì",
-"to sign (one's name); signature"
-],
-[
-"标签",
-13.33,
-"biāo qiān",
-"label; tag; (computing) tab (GUI element)"
-],
-[
-"抽签",
-5.91,
-"chōu qiān",
-"to perform divination with sticks; to draw lots; a ballot (in share dealing)"
 ]
 ],
 "strokes": [

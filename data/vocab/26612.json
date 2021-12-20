@@ -1,6 +1,6 @@
 {
 "char": "柴",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "firewood, faggots, fuel",
 "pron": "chái"
@@ -10,16 +10,29 @@
 "火柴",
 5,
 "huǒ chái",
-"match (for lighting fire); CL:根[gen1],盒[he2]"
-],
-[
-"柴油",
-6,
-"chái yóu",
-"diesel fuel"
+"match (for lighting fire); CL:根[gēn],盒[hé]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"柴油",
+11.69,
+"chái yóu",
+"diesel fuel"
+],
+[
+"柴",
+10.97,
+"Chái",
+"surname Chai"
+],
+[
+"柴",
+10.97,
+"chái",
+"firewood; lean (of meat); thin (of a person)"
+]
+],
 "strokes": [
 "M 407 502 Q 408 566 409 626 L 410 659 Q 410 695 421 773 Q 424 783 405 796 Q 372 811 350 814 Q 335 815 329 808 Q 322 801 330 787 Q 349 762 351 744 Q 366 627 369 490 C 370 460 407 472 407 502 Z",
 "M 409 626 Q 461 638 505 644 Q 527 650 517 661 Q 507 674 482 677 Q 442 680 410 659 C 385 643 380 619 409 626 Z",

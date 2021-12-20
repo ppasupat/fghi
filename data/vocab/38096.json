@@ -1,6 +1,6 @@
 {
 "char": "铐",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "shackles, manacles",
 "pron": "kào"
@@ -12,6 +12,18 @@
 13.71,
 "shǒu kào",
 "manacles; handcuffs"
+],
+[
+"铐",
+8.56,
+"kào",
+"shackles; fetters; manacle"
+],
+[
+"镣铐",
+0.63,
+"liào kào",
+"manacles and leg-irons; fetters and handcuffs"
 ]
 ],
 "strokes": [

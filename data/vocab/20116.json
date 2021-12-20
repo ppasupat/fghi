@@ -1,6 +1,6 @@
 {
 "char": "五",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "five; surname",
 "pron": "wǔ"
@@ -11,6 +11,30 @@
 1,
 "wǔ",
 "five; 5"
+],
+[
+"五颜六色",
+4,
+"wǔ yán liù sè",
+"multi-colored; every color under the sun"
+],
+[
+"三番五次",
+7,
+"sān fān wǔ cì",
+"over and over again (idiom)"
+],
+[
+"五花八门",
+7,
+"wǔ huā bā mén",
+"myriad; all kinds of; all sorts of"
+],
+[
+"五星级",
+7,
+"wǔ xīng jí",
+"five-star (hotel)"
 ]
 ],
 "extraWords": [
@@ -39,6 +63,12 @@
 "Friday"
 ],
 [
+"第五名",
+13.96,
+"???",
+"???"
+],
+[
 "五十",
 8.56,
 "wǔ shí",
@@ -51,16 +81,28 @@
 "fifteen; 15"
 ],
 [
+"五点",
+7.04,
+"???",
+"???"
+],
+[
+"第五届",
+6.11,
+"???",
+"???"
+],
+[
 "五角大楼",
 5.46,
 "Wǔ jiǎo Dà lóu",
 "the Pentagon"
 ],
 [
-"五星级",
-5.1,
-"wǔ xīng jí",
-"five-star (hotel)"
+"五千",
+5.28,
+"???",
+"???"
 ],
 [
 "五行",

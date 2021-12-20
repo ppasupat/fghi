@@ -1,88 +1,220 @@
 {
 "char": "性",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "nature, character, sex",
 "pron": "xìng"
 },
 "words": [
 [
-"性格",
-4,
-"xìng gé",
-"nature; disposition; temperament; character; CL:個|个[ge4]"
-],
-[
-"性别",
-4,
-"xìng bié",
-"gender; sex"
-],
-[
 "个性",
-5,
+3,
 "gè xìng",
 "individuality; personality"
 ],
 [
+"性",
+3,
+"xìng",
+"nature; character; property; quality; attribute; sexuality; sex; gender; suffix forming adjective from verb; suffix forming noun from adjective, corresponding to -ness or -ity; essence; CL:个[gè]"
+],
+[
+"性别",
+3,
+"xìng bié",
+"gender; sex"
+],
+[
+"性格",
+3,
+"xìng gé",
+"nature; disposition; temperament; character; CL:个[gè]"
+],
+[
 "性质",
-5,
+4,
 "xìng zhì",
-"nature; characteristic; CL:個|个[ge4]"
+"nature; characteristic; CL:个[gè]"
 ],
 [
-"性感",
-6,
-"xìng gǎn",
-"sex appeal; eroticism; sexuality; sexy"
+"男性",
+5,
+"nán xìng",
+"the male sex; a male"
 ],
 [
-"性命",
-6,
-"xìng mìng",
-"life"
+"女性",
+5,
+"nǚ xìng",
+"woman; the female sex"
 ],
 [
-"人性",
-6,
-"rén xìng",
-"human nature; humanity; human; the totality of human attributes"
-],
-[
-"记性",
-6,
-"jì xing",
-"memory (ability to retain information)"
-],
-[
-"弹性",
-6,
-"tán xìng",
-"flexibility; elasticity"
-],
-[
-"任性",
-6,
-"rèn xìng",
-"willful; headstrong; unruly"
-],
-[
-"慢性",
-6,
-"màn xìng",
-"slow and patient; chronic (disease); slow to take effect (e.g. a slow poison)"
+"特性",
+5,
+"tè xìng",
+"property; characteristic"
 ],
 [
 "性能",
-6,
+5,
 "xìng néng",
 "function; performance"
 ],
 [
-"索性",
+"一次性",
 6,
+"yī cì xìng",
+"one-off (offer); one-time; single-use; disposable (goods)"
+],
+[
+"本性",
+7,
+"běn xìng",
+"natural instincts; nature; inherent quality"
+],
+[
+"恶性",
+7,
+"è xìng",
+"malignant; wicked; vicious (circle); producing evil; rapid (decline); runaway (inflation)"
+],
+[
+"感性",
+7,
+"gǎn xìng",
+"perception; perceptual; sensibility; sensitive; emotional; sentimental"
+],
+[
+"公益性",
+7,
+"???",
+"???"
+],
+[
+"共性",
+7,
+"gòng xìng",
+"overall character"
+],
+[
+"惯性",
+7,
+"guàn xìng",
+"(physics) inertia; (fig.) force of habit; tendency to do things in the accustomed way; habitual"
+],
+[
+"急性",
+7,
+"jí xìng",
+"acute"
+],
+[
+"理性",
+7,
+"lǐ xìng",
+"reason; rationality; rational"
+],
+[
+"良性",
+7,
+"liáng xìng",
+"positive (in its effect); leading to good consequences; virtuous; (medicine) benign (tumor etc)"
+],
+[
+"慢性",
+7,
+"màn xìng",
+"slow and patient; chronic (disease); slow to take effect (e.g. a slow poison)"
+],
+[
+"耐性",
+7,
+"nài xìng",
+"patience; endurance"
+],
+[
+"人性",
+7,
+"rén xìng",
+"human nature; humanity; human; the totality of human attributes"
+],
+[
+"韧性",
+7,
+"rèn xìng",
+"toughness"
+],
+[
+"属性",
+7,
+"shǔ xìng",
+"attribute; property"
+],
+[
+"索性",
+7,
 "suǒ xìng",
 "you might as well (do it); simply; just"
+],
+[
+"弹性",
+7,
+"tán xìng",
+"flexibility; elasticity"
+],
+[
+"天性",
+7,
+"tiān xìng",
+"nature; innate tendency"
+],
+[
+"性价比",
+7,
+"xìng jià bǐ",
+"cost-performance ratio"
+],
+[
+"性命",
+7,
+"xìng mìng",
+"life"
+],
+[
+"性情",
+7,
+"xìng qíng",
+"nature; temperament"
+],
+[
+"阳性",
+7,
+"yáng xìng",
+"positive; masculine"
+],
+[
+"异性",
+7,
+"yì xìng",
+"the opposite sex; of the opposite sex; heterosexual; different in nature"
+],
+[
+"阴性",
+7,
+"yīn xìng",
+"negative; feminine"
+],
+[
+"隐性",
+7,
+"yǐn xìng",
+"hidden; crypto-; recessive (gene)"
+],
+[
+"中性",
+7,
+"zhōng xìng",
+"neutral"
 ]
 ],
 "extraWords": [
@@ -93,28 +225,16 @@
 "homosexuality; gay person; gay love"
 ],
 [
-"女性",
-95.59,
-"nǚ xìng",
-"woman; the female sex"
-],
-[
-"男性",
-38.38,
-"nán xìng",
-"the male sex; a male"
+"性感",
+88.62,
+"xìng gǎn",
+"sex appeal; eroticism; sexuality; sexy"
 ],
 [
 "可能性",
 38.11,
 "kě néng xìng",
 "possibility; probability"
-],
-[
-"理性",
-38.0,
-"lǐ xìng",
-"reason; rationality; rational"
 ],
 [
 "积极性",
@@ -129,30 +249,6 @@
 "(chemistry) activity; active; activated"
 ],
 [
-"特性",
-26.71,
-"tè xìng",
-"property; characteristic"
-],
-[
-"阳性",
-26.41,
-"yáng xìng",
-"positive; masculine"
-],
-[
-"急性",
-25.28,
-"jí xìng",
-"acute"
-],
-[
-"一次性",
-20.95,
-"yī cì xìng",
-"one-off (offer); one-time; single-use; disposable (goods)"
-],
-[
 "重要性",
 20.48,
 "zhòng yào xìng",
@@ -165,28 +261,28 @@
 "sex; lovemaking"
 ],
 [
+"先进性",
+17.37,
+"???",
+"???"
+],
+[
 "流动性",
 17.3,
 "liú dòng xìng",
 "flowing; shifting; fluidity; mobility; liquidity (of funds)"
 ],
 [
-"属性",
-16.51,
-"shǔ xìng",
-"attribute; property"
-],
-[
-"异性",
-16.31,
-"yì xìng",
-"the opposite sex; of the opposite sex; heterosexual; different in nature"
-],
-[
 "稳定性",
 15.93,
 "wěn dìng xìng",
 "stability"
+],
+[
+"显著性",
+14.58,
+"???",
+"???"
 ],
 [
 "针对性",
@@ -207,28 +303,10 @@
 "security; safety"
 ],
 [
-"良性",
-12.87,
-"liáng xìng",
-"positive (in its effect); leading to good consequences; virtuous; (medicine) benign (tumor etc)"
-],
-[
-"恶性",
-12.08,
-"è xìng",
-"malignant; wicked; vicious (circle); producing evil; rapid (decline); runaway (inflation)"
-],
-[
 "实质性",
 11.89,
 "shí zhì xìng",
 "substantive; substantial; material; considerable"
-],
-[
-"阴性",
-11.21,
-"yīn xìng",
-"negative; feminine"
 ],
 [
 "个性化",
@@ -241,12 +319,6 @@
 10.78,
 "zōng hé xìng",
 "synthesis"
-],
-[
-"感性",
-10.41,
-"gǎn xìng",
-"perception; perceptual; sensibility; sensitive; emotional; sentimental"
 ],
 [
 "代表性",
@@ -267,10 +339,10 @@
 "toxicity"
 ],
 [
-"中性",
-9.64,
-"zhōng xìng",
-"neutral"
+"任性",
+9.68,
+"rèn xìng",
+"willful; headstrong; unruly"
 ],
 [
 "人性化",
@@ -283,12 +355,6 @@
 9.06,
 "lì shǐ xìng",
 "historic"
-],
-[
-"本性",
-8.82,
-"běn xìng",
-"natural instincts; nature; inherent quality"
 ],
 [
 "性生活",
@@ -345,6 +411,12 @@
 "to denature; denaturation; to have a sex change; transsexual"
 ],
 [
+"政策性",
+6.86,
+"???",
+"???"
+],
+[
 "恶性肿瘤",
 6.85,
 "è xìng zhǒng liú",
@@ -369,12 +441,6 @@
 "variegation; diversity"
 ],
 [
-"性情",
-6.62,
-"xìng qíng",
-"nature; temperament"
-],
-[
 "结构性",
 6.52,
 "jié gòu xìng",
@@ -387,10 +453,22 @@
 "sensitive; sensitivity"
 ],
 [
+"不确定性",
+6.5,
+"???",
+"???"
+],
+[
 "战略性",
 6.45,
 "zhàn lüè xìng",
 "strategic"
+],
+[
+"强制性",
+6.43,
+"???",
+"???"
 ],
 [
 "血性",
@@ -459,10 +537,16 @@
 "nature (i.e. properties of sth); character"
 ],
 [
-"惯性",
-5.55,
-"guàn xìng",
-"(physics) inertia; (fig.) force of habit; tendency to do things in the accustomed way; habitual"
+"误导性",
+5.56,
+"???",
+"???"
+],
+[
+"经营性",
+5.54,
+"???",
+"???"
 ],
 [
 "灵活性",
@@ -489,10 +573,16 @@
 "validity"
 ],
 [
-"天性",
-5.4,
-"tiān xìng",
-"nature; innate tendency"
+"经常性",
+5.43,
+"???",
+"???"
+],
+[
+"危险性",
+5.34,
+"???",
+"???"
 ],
 [
 "合理性",
@@ -507,10 +597,28 @@
 "technical; technological"
 ],
 [
+"持续性",
+5.26,
+"???",
+"???"
+],
+[
 "戏剧性",
 5.25,
 "xì jù xìng",
 "dramatic"
+],
+[
+"独立性",
+5.24,
+"???",
+"???"
+],
+[
+"特殊性",
+5.23,
+"???",
+"???"
 ],
 [
 "适应性",
@@ -535,6 +643,12 @@
 5.06,
 "bì yào xìng",
 "necessity"
+],
+[
+"根本性",
+5.03,
+"???",
+"???"
 ],
 [
 "群众性",

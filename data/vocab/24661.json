@@ -1,24 +1,30 @@
 {
 "char": "恕",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "forgive, excuse, show mercy",
 "pron": "shù"
 },
 "words": [
 [
+"宽恕",
+7,
+"kuān shù",
+"to forgive; forgiveness"
+],
+[
 "饶恕",
-6,
+7,
 "ráo shù",
 "to forgive; to pardon; to spare"
 ]
 ],
 "extraWords": [
 [
-"宽恕",
-17.71,
-"kuān shù",
-"to forgive; forgiveness"
+"恕",
+16.31,
+"shù",
+"to forgive"
 ]
 ],
 "strokes": [

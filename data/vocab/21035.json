@@ -1,6 +1,6 @@
 {
 "char": "别",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "separate, other; do not",
 "pron": "bié, biè"
@@ -8,125 +8,191 @@
 "words": [
 [
 "别",
-2,
+1,
 "Bié",
 "surname Bie"
 ],
 [
 "别",
-2,
+1,
 "bié",
 "to leave; to depart; to separate; to distinguish; to classify; other; another; don't ...!; to pin; to stick (sth) in"
 ],
 [
 "别",
-2,
+1,
 "biè",
 "to make sb change their ways, opinions etc"
 ],
 [
+"别的",
+1,
+"bié de",
+"else; other"
+],
+[
 "别人",
-3,
+1,
 "bié ren",
 "other people; others; other person"
 ],
 [
 "特别",
-3,
+2,
 "tè bié",
 "especially; special; particular; unusual"
 ],
 [
-"区别",
-4,
-"qū bié",
-"difference; to distinguish; to discriminate; to make a distinction; CL:個|个[ge4]"
-],
-[
-"性别",
-4,
-"xìng bié",
-"gender; sex"
-],
-[
-"告别",
-5,
-"gào bié",
-"to leave; to bid farewell to; to say good-bye to"
-],
-[
 "分别",
-5,
+3,
 "fēn bié",
 "to part or leave each other; to distinguish; difference; in different ways; differently; separately or individually"
 ],
 [
+"告别",
+3,
+"gào bié",
+"to leave; to bid farewell to; to say good-bye to"
+],
+[
+"区别",
+3,
+"qū bié",
+"difference; to distinguish; to discriminate; to make a distinction; CL:个[gè]"
+],
+[
+"性别",
+3,
+"xìng bié",
+"gender; sex"
+],
+[
 "个别",
-5,
+4,
 "gè bié",
 "individual; specific; respective; just one or two"
 ],
 [
-"级别",
-6,
-"jí bié",
-"(military) rank; level; grade"
-],
-[
-"别墅",
-6,
-"bié shù",
-"villa; CL:幢[zhuang4],座[zuo4]"
-],
-[
-"识别",
-6,
-"shí bié",
-"to distinguish; to discern; to identify; to recognize"
-],
-[
 "差别",
-6,
+5,
 "chā bié",
 "difference; distinction; disparity"
 ],
 [
-"别扭",
-6,
-"biè niu",
-"awkward; difficult; uncomfortable; not agreeing; at loggerheads; gauche"
+"辨别",
+7,
+"biàn bié",
+"to differentiate; to distinguish; to discriminate"
 ],
 [
-"鉴别",
-6,
-"jiàn bié",
-"to differentiate; to distinguish"
+"别具匠心",
+7,
+"bié jù jiàng xīn",
+"to show ingenuity; (of a design) clever; brilliantly conceived"
 ],
 [
-"派别",
-6,
-"pài bié",
-"denomination; group; school; faction; school of thought"
+"别看",
+7,
+"bié kàn",
+"don't be fooled by the fact that"
+],
+[
+"别墅",
+7,
+"bié shù",
+"villa; CL:幢[zhuàng],座[zuò]"
+],
+[
+"别说",
+7,
+"bié shuō",
+"to say nothing of; not to mention; let alone"
+],
+[
+"别提了",
+7,
+"bié tí le",
+"say no more; don't bring it up; drop the subject"
 ],
 [
 "别致",
-6,
+7,
 "bié zhì",
 "unusual; unique"
 ],
 [
 "别致",
-6,
+7,
 "bié zhì",
-"variant of 別緻|别致[bie2 zhi4]"
+"variant of 别致[bié zhì]"
+],
+[
+"别扭",
+7,
+"biè niu",
+"awkward; difficult; uncomfortable; not agreeing; at loggerheads; gauche"
+],
+[
+"不辞而别",
+7,
+"bù cí ér bié",
+"to leave without saying good-bye"
+],
+[
+"错别字",
+7,
+"cuò bié zì",
+"incorrectly written or mispronounced characters"
+],
+[
+"级别",
+7,
+"jí bié",
+"(military) rank; level; grade"
+],
+[
+"鉴别",
+7,
+"jiàn bié",
+"to differentiate; to distinguish"
+],
+[
+"诀别",
+7,
+"jué bié",
+"to bid farewell; to part (usually with little hope of meeting again)"
+],
+[
+"类别",
+7,
+"lèi bié",
+"classification; category"
+],
+[
+"派别",
+7,
+"pài bié",
+"denomination; group; school; faction; school of thought"
+],
+[
+"识别",
+7,
+"shí bié",
+"to distinguish; to discern; to identify; to recognize"
+],
+[
+"送别",
+7,
+"sòng bié",
+"to farewell"
 ]
 ],
 "extraWords": [
 [
-"别的",
-185.12,
-"bié de",
-"else; other"
+"特别是",
+124.38,
+"???",
+"???"
 ],
 [
 "别无选择",
@@ -135,10 +201,10 @@
 "to have no other choice"
 ],
 [
-"别说",
-13.99,
-"bié shuō",
-"to say nothing of; not to mention; let alone"
+"别提",
+17.74,
+"???",
+"???"
 ],
 [
 "道别",
@@ -153,28 +219,10 @@
 "elsewhere"
 ],
 [
-"类别",
-8.33,
-"lèi bié",
-"classification; category"
-],
-[
-"别看",
-6.1,
-"bié kàn",
-"don't be fooled by the fact that"
-],
-[
 "离别",
 5.34,
 "lí bié",
 "to leave (on a long journey); to part from sb"
-],
-[
-"辨别",
-5.0,
-"biàn bié",
-"to differentiate; to distinguish; to discriminate"
 ]
 ],
 "strokes": [

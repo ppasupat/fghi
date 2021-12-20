@@ -1,17 +1,30 @@
 {
 "char": "缅",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "distant, remote; think of",
 "pron": "miǎn"
 },
-"words": [],
+"words": [
+[
+"缅怀",
+7,
+"miǎn huái",
+"to commemorate; to recall fondly; to think of the past"
+]
+],
 "extraWords": [
 [
 "缅甸",
 8.8,
 "Miǎn diàn",
 "Myanmar (or Burma)"
+],
+[
+"缅因州",
+2.33,
+"Miǎn yīn zhōu",
+"Maine, US state"
 ]
 ],
 "strokes": [

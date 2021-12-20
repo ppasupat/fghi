@@ -1,6 +1,6 @@
 {
 "char": "唉",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "alas, exclamation of surprise or pain",
 "pron": "āi, ài"
@@ -8,18 +8,25 @@
 "words": [
 [
 "唉",
-5,
+7,
 "āi",
 "interjection or grunt of agreement or recognition (e.g. yes, it's me!); to sigh"
 ],
 [
 "唉",
-5,
+7,
 "ài",
 "alas; oh dear"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"唉唉",
+2.24,
+"āi āi",
+"(onom.) sighing voice; crying sound"
+]
+],
 "strokes": [
 "M 137 594 Q 125 600 100 606 Q 87 610 83 606 Q 76 599 84 582 Q 112 506 121 384 Q 122 347 140 321 Q 156 297 164 313 Q 174 335 170 379 L 166 414 Q 154 538 154 566 C 153 587 153 587 137 594 Z",
 "M 306 442 Q 324 539 351 570 Q 373 597 350 611 Q 329 623 301 640 Q 280 650 239 625 Q 193 607 137 594 C 108 587 124 561 154 566 Q 161 567 174 570 Q 211 580 244 586 Q 266 590 270 582 Q 280 575 271 535 Q 264 492 252 441 C 245 412 300 413 306 442 Z",

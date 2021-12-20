@@ -1,12 +1,32 @@
 {
 "char": "寥",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "few, scarce; empty, deserted",
 "pron": "liáo"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"寥寥无几",
+7,
+"liáo liáo wú jǐ",
+"just a very few (idiom); tiny number; not many at all; You count them on your fingers."
+]
+],
+"extraWords": [
+[
+"寥寥",
+2.45,
+"liáo liáo",
+"very few"
+],
+[
+"寂寥",
+1.0,
+"jì liáo",
+"(literary) quiet and desolate; lonely; vast and empty"
+]
+],
 "strokes": [
 "M 463 832 Q 491 813 522 789 Q 537 779 551 781 Q 561 782 565 796 Q 568 811 556 838 Q 543 865 452 877 Q 437 878 432 875 Q 428 871 430 859 Q 434 849 463 832 Z",
 "M 269 725 Q 269 726 269 728 Q 257 750 247 759 Q 229 774 227 749 Q 233 716 177 659 Q 159 638 183 583 Q 196 558 216 583 Q 232 605 243 638 Q 253 672 263 693 L 269 725 Z",

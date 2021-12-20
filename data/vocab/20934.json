@@ -1,6 +1,6 @@
 {
 "char": "准",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "approve, allow, permit; in accord",
 "pron": "zhǔn"
@@ -8,21 +8,39 @@
 "words": [
 [
 "准备",
-2,
+1,
 "zhǔn bèi",
 "preparation; to prepare; to intend; to be about to; reserve (fund)"
 ],
 [
-"标准",
-4,
-"biāo zhǔn",
-"(an official) standard; norm; criterion; CL:個|个[ge4]"
-],
-[
 "准确",
-4,
+2,
 "zhǔn què",
 "accurate; exact; precise"
+],
+[
+"标准",
+3,
+"biāo zhǔn",
+"(an official) standard; norm; criterion; CL:个[gè]"
+],
+[
+"批准",
+3,
+"pī zhǔn",
+"to approve; to ratify"
+],
+[
+"准",
+3,
+"zhǔn",
+"to allow; to grant; in accordance with; in the light of"
+],
+[
+"准",
+3,
+"zhǔn",
+"accurate; standard; definitely; certainly; about to become (bride, son-in-law etc); quasi-; para-"
 ],
 [
 "准时",
@@ -31,42 +49,60 @@
 "on time; punctual; on schedule"
 ],
 [
-"批准",
-5,
-"pī zhǔn",
-"to approve; to ratify"
+"不准",
+7,
+"bù zhǔn",
+"not to allow; to forbid; to prohibit"
+],
+[
+"对准",
+7,
+"duì zhǔn",
+"to aim at; to target; to point at; to be directed at; registration; alignment (mechanical engineering)"
+],
+[
+"基准",
+7,
+"jī zhǔn",
+"norm; standard; standard of reference; base; base point; base line; benchmark; reference point; reference frame; criterion; data"
+],
+[
+"没准儿",
+7,
+"méi zhǔn r5",
+"erhua variant of 没准[méi zhǔn]"
 ],
 [
 "瞄准",
-6,
+7,
 "miáo zhǔn",
 "to take aim at; to target"
 ],
 [
+"水准",
+7,
+"shuǐ zhǔn",
+"level (of achievement etc); standard; level (surveying)"
+],
+[
+"准许",
+7,
+"zhǔn xǔ",
+"to allow; to grant; to permit"
+],
+[
 "准则",
-6,
+7,
 "zhǔn zé",
 "norm; standard; criterion"
 ]
 ],
 "extraWords": [
 [
-"不准",
-25.26,
-"bù zhǔn",
-"not to allow; to forbid; to prohibit"
-],
-[
-"基准",
-14.27,
-"jī zhǔn",
-"norm; standard; standard of reference; base; base point; base line; benchmark; reference point; reference frame; criterion; data"
-],
-[
-"水准",
-13.96,
-"shuǐ zhǔn",
-"level (of achievement etc); standard; level (surveying)"
+"准备好",
+18.85,
+"???",
+"???"
 ],
 [
 "没准",
@@ -87,16 +123,22 @@
 "to authorize; to investigate then ratify"
 ],
 [
-"对准",
-6.68,
-"duì zhǔn",
-"to aim at; to target; to point at; to be directed at; registration; alignment (mechanical engineering)"
-],
-[
 "准确性",
 5.7,
 "zhǔn què xìng",
 "accuracy"
+],
+[
+"准备金率",
+5.58,
+"???",
+"???"
+],
+[
+"做准备",
+5.39,
+"???",
+"???"
 ]
 ],
 "strokes": [

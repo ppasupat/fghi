@@ -1,6 +1,6 @@
 {
 "char": "屏",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "folding screen, shield",
 "pron": "bǐng, píng"
@@ -11,20 +11,38 @@
 6,
 "píng mù",
 "screen (TV, computer or movie)"
-],
-[
-"屏障",
-6,
-"píng zhàng",
-"barrier"
 ]
 ],
 "extraWords": [
+[
+"屏",
+46.92,
+"bīng",
+"see 屏营[bīng yíng]"
+],
+[
+"屏",
+46.92,
+"bǐng",
+"to get rid of; to put aside; to reject; to keep control; to hold (one's breath)"
+],
+[
+"屏",
+46.92,
+"píng",
+"(standing) screen"
+],
 [
 "显示屏",
 9.0,
 "xiǎn shì píng",
 "display screen"
+],
+[
+"屏障",
+5.63,
+"píng zhàng",
+"barrier"
 ],
 [
 "屏蔽",

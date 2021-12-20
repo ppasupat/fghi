@@ -1,16 +1,58 @@
 {
 "char": "鞋",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "shoes, footwear in general",
 "pron": "xié"
 },
 "words": [
 [
+"球鞋",
+2,
+"qiú xié",
+"athletic shoes"
+],
+[
+"鞋",
+2,
+"xié",
+"shoe; CL:双[shuāng],只[zhī]"
+],
+[
+"鞋",
+2,
+"xié",
+"variant of 鞋[xié]"
+],
+[
+"高跟鞋",
+5,
+"gāo gēn xié",
+"high-heeled shoes"
+],
+[
 "皮鞋",
-3,
+5,
 "pí xié",
 "leather shoes"
+],
+[
+"凉鞋",
+6,
+"liáng xié",
+"sandal"
+],
+[
+"拖鞋",
+6,
+"tuō xié",
+"slippers; sandals; flip-flops; CL:双[shuāng],只[zhī]"
+],
+[
+"穿小鞋",
+7,
+"chuān xiǎo xié",
+"lit. to make sb wear tight shoes (idiom); to make life difficult for sb"
 ]
 ],
 "extraWords": [
@@ -19,18 +61,6 @@
 35.26,
 "xié zi",
 "shoe"
-],
-[
-"高跟鞋",
-8.56,
-"gāo gēn xié",
-"high-heeled shoes"
-],
-[
-"拖鞋",
-6.35,
-"tuō xié",
-"slippers; sandals; flip-flops; CL:雙|双[shuang1],隻|只[zhi1]"
 ]
 ],
 "strokes": [

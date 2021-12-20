@@ -1,20 +1,26 @@
 {
 "char": "毅",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "resolute, decisive, firm, persist",
 "pron": "yì"
 },
 "words": [
 [
+"刚毅",
+7,
+"gāng yì",
+"resolute; steadfast; stalwart"
+],
+[
 "毅力",
-6,
+7,
 "yì lì",
 "perseverance; willpower"
 ],
 [
 "毅然",
-6,
+7,
 "yì rán",
 "firmly; resolutely; without hesitation"
 ]

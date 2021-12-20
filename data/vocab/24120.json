@@ -1,58 +1,100 @@
 {
 "char": "常",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "common, normal, frequent, regular",
 "pron": "cháng"
 },
 "words": [
 [
+"常",
+1,
+"Cháng",
+"surname Chang"
+],
+[
+"常",
+1,
+"cháng",
+"always; ever; often; frequently; common; general; constant"
+],
+[
+"常常",
+1,
+"cháng cháng",
+"frequently; often"
+],
+[
 "非常",
-2,
+1,
 "fēi cháng",
 "very; very much; unusual; extraordinary"
 ],
 [
+"常见",
+2,
+"cháng jiàn",
+"commonly seen; common; to see sth frequently"
+],
+[
+"常用",
+2,
+"cháng yòng",
+"in common usage"
+],
+[
 "经常",
-3,
+2,
 "jīng cháng",
 "frequently; constantly; regularly; often; day-to-day; everyday; daily"
 ],
 [
-"正常",
-4,
-"zhèng cháng",
-"regular; normal; ordinary"
-],
-[
-"通常",
-5,
-"tōng cháng",
-"regular; usual; normal; usually; normally"
-],
-[
 "平常",
-5,
+2,
 "píng cháng",
 "ordinary; common; usually; ordinarily"
 ],
 [
+"正常",
+2,
+"zhèng cháng",
+"regular; normal; ordinary"
+],
+[
 "日常",
-5,
+3,
 "rì cháng",
 "daily; everyday"
 ],
 [
-"常识",
-5,
-"cháng shí",
-"common sense; general knowledge; CL:門|门[men2]"
+"通常",
+3,
+"tōng cháng",
+"regular; usual; normal; usually; normally"
 ],
 [
-"照常",
+"常识",
+4,
+"cháng shí",
+"common sense; general knowledge; CL:门[mén]"
+],
+[
+"时常",
 5,
-"zhào cháng",
-"as usual"
+"shí cháng",
+"often; frequently"
+],
+[
+"常规",
+6,
+"cháng guī",
+"code of conduct; conventions; common practice; routine (medical procedure etc)"
+],
+[
+"常年",
+6,
+"cháng nián",
+"all year round; for years on end; average year"
 ],
 [
 "异常",
@@ -61,55 +103,67 @@
 "exceptional; abnormal; an anomaly"
 ],
 [
-"往常",
-6,
-"wǎng cháng",
-"usual; customary"
+"不同寻常",
+7,
+"bù tóng xún cháng",
+"out of the ordinary; unusual"
+],
+[
+"常理",
+7,
+"cháng lǐ",
+"common sense; conventional reasoning and morals"
+],
+[
+"常人",
+7,
+"cháng rén",
+"ordinary person"
+],
+[
+"常态",
+7,
+"cháng tài",
+"normal state"
+],
+[
+"常温",
+7,
+"cháng wēn",
+"room temperature; ordinary temperatures"
 ],
 [
 "反常",
-6,
+7,
 "fǎn cháng",
 "unusual; abnormal"
 ],
 [
-"时常",
-6,
-"shí cháng",
-"often; frequently"
+"平常心",
+7,
+"píng cháng xīn",
+"levelheadedness; calmness; equanimity"
 ],
 [
-"家常",
-6,
-"jiā cháng",
-"the daily life of a family"
+"往常",
+7,
+"wǎng cháng",
+"usual; customary"
 ],
 [
-"知足常乐",
-6,
-"zhī zú cháng lè",
-"satisfied with what one has (idiom)"
+"寻常",
+7,
+"xún cháng",
+"usual; common; ordinary"
+],
+[
+"照常",
+7,
+"zhào cháng",
+"as usual"
 ]
 ],
 "extraWords": [
-[
-"常常",
-49.38,
-"cháng cháng",
-"frequently; often"
-],
-[
-"常规",
-33.46,
-"cháng guī",
-"code of conduct; conventions; common practice; routine (medical procedure etc)"
-],
-[
-"常见",
-29.55,
-"cháng jiàn",
-"commonly seen; common; to see sth frequently"
-],
 [
 "常委",
 25.72,
@@ -117,10 +171,10 @@
 "member of standing committee"
 ],
 [
-"常用",
-18.47,
-"cháng yòng",
-"in common usage"
+"人大常委会",
+16.51,
+"???",
+"???"
 ],
 [
 "常务",
@@ -129,22 +183,16 @@
 "routine; everyday business; daily operation (of a company)"
 ],
 [
-"寻常",
-14.58,
-"xún cháng",
-"usual; common; ordinary"
-],
-[
 "全国人大常委会",
 11.81,
 "Quán guó Rén Dà Cháng Wěi huì",
 "Standing Committee of the National People's Congress (abbr. of 全國人民代表大會常務委員會|全国人民代表大会常务委员会)"
 ],
 [
-"常年",
-9.71,
-"cháng nián",
-"all year round; for years on end; average year"
+"日常生活",
+11.35,
+"???",
+"???"
 ],
 [
 "失常",
@@ -159,16 +207,34 @@
 "standing committee"
 ],
 [
-"常人",
-6.09,
-"cháng rén",
-"ordinary person"
+"常有",
+6.99,
+"???",
+"???"
+],
+[
+"正常人",
+6.41,
+"???",
+"???"
+],
+[
+"常规赛",
+5.97,
+"???",
+"???"
 ],
 [
 "常州",
 5.5,
 "Cháng zhōu",
 "Changzhou prefecture-level city in Jiangsu"
+],
+[
+"经常性",
+5.43,
+"???",
+"???"
 ]
 ],
 "strokes": [

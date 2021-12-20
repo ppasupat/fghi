@@ -1,17 +1,24 @@
 {
 "char": "栓",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "wooden peg, post or stick",
 "pron": "shuān"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "血栓",
-6.07,
+7,
 "xuè shuān",
 "blood clot; thrombus"
+]
+],
+"extraWords": [
+[
+"栓",
+6.88,
+"shuān",
+"bottle stopper; plug; (gun) bolt; (grenade) pin"
 ],
 [
 "栓塞",

@@ -1,12 +1,25 @@
 {
 "char": "莲",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "lotus, water lily; paradise",
 "pron": "lián"
 },
-"words": [],
+"words": [
+[
+"莲子",
+7,
+"lián zǐ",
+"lotus seed"
+]
+],
 "extraWords": [
+[
+"莲",
+18.22,
+"lián",
+"lotus"
+],
 [
 "莲花",
 7.06,

@@ -1,17 +1,30 @@
 {
 "char": "枣",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "date tree; dates, jujubes; surname",
 "pron": "zǎo"
 },
-"words": [],
+"words": [
+[
+"枣",
+7,
+"zǎo",
+"jujube; dates"
+]
+],
 "extraWords": [
 [
 "红枣",
 6.6,
 "hóng zǎo",
 "jujube; red date"
+],
+[
+"大枣",
+2.62,
+"dà zǎo",
+"see 红枣[hóng zǎo]"
 ]
 ],
 "strokes": [

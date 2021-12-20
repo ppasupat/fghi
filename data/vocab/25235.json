@@ -1,6 +1,6 @@
 {
 "char": "抓",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "scratch; clutch, seize, grab",
 "pron": "zhuā"
@@ -8,29 +8,47 @@
 "words": [
 [
 "抓",
-5,
+3,
 "zhuā",
 "to grab; to catch; to arrest; to snatch; to scratch"
 ],
 [
+"抓住",
+3,
+"zhuā zhù",
+"to grab; to capture"
+],
+[
 "抓紧",
-5,
+4,
 "zhuā jǐn",
 "to grasp firmly; to pay special attention to; to rush in; to make the most of"
 ]
 ],
 "extraWords": [
 [
-"抓住",
-133.58,
-"zhuā zhù",
-"to grab; to capture"
+"抓好",
+27.3,
+"???",
+"???"
 ],
 [
 "抓获",
 25.46,
 "zhuā huò",
 "to arrest"
+],
+[
+"狠抓",
+8.06,
+"???",
+"???"
+],
+[
+"抓起",
+7.17,
+"???",
+"???"
 ],
 [
 "抓捕",

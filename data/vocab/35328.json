@@ -1,6 +1,6 @@
 {
 "char": "言",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "words, speech; speak, say",
 "pron": "yán"
@@ -8,113 +8,179 @@
 "words": [
 [
 "语言",
-4,
+2,
 "yǔ yán",
-"language; CL:門|门[men2],種|种[zhong3]"
+"language; CL:门[mén],种[zhǒng]"
 ],
 [
 "发言",
-5,
+3,
 "fā yán",
-"to make a speech; statement; utterance; CL:個|个[ge4]"
+"to make a speech; statement; utterance; CL:个[gè]"
 ],
 [
-"预言",
-6,
-"yù yán",
-"to predict; prophecy"
+"言语",
+5,
+"yán yǔ",
+"words; speech; (spoken) language"
 ],
 [
-"谣言",
-6,
-"yáo yán",
-"rumor"
+"言语",
+5,
+"yán yu",
+"to speak; to tell"
 ],
 [
-"言论",
+"传言",
 6,
-"yán lùn",
-"expression of opinion; views; remarks; arguments"
+"chuán yán",
+"rumor; hearsay"
 ],
 [
-"总而言之",
+"发言人",
 6,
-"zǒng ér yán zhī",
-"in short; in a word; in brief"
+"fā yán rén",
+"spokesperson"
+],
+[
+"留言",
+6,
+"liú yán",
+"to leave a message; to leave one's comments; message"
+],
+[
+"自言自语",
+6,
+"zì yán zì yǔ",
+"to talk to oneself; to think aloud; to soliloquize"
+],
+[
+"代言人",
+7,
+"dài yán rén",
+"spokesperson"
 ],
 [
 "方言",
-6,
+7,
 "Fāng yán",
-"the first Chinese dialect dictionary, edited by Yang Xiong 揚雄|扬雄[Yang2 Xiong2] in 1st century, containing over 9000 characters"
+"the first Chinese dialect dictionary, edited by Yang Xiong 扬雄[Yáng Xióng] in 1st century, containing over 9000 characters"
 ],
 [
 "方言",
-6,
+7,
 "fāng yán",
 "topolect; dialect"
 ],
 [
-"不言而喻",
-6,
-"bù yán ér yù",
-"it goes without saying; it is self-evident"
+"换言之",
+7,
+"huàn yán zhī",
+"in other words"
+],
+[
+"谎言",
+7,
+"huǎng yán",
+"lie"
+],
+[
+"名言",
+7,
+"míng yán",
+"saying; famous remark"
+],
+[
+"诺言",
+7,
+"nuò yán",
+"promise"
+],
+[
+"相对而言",
+7,
+"xiāng duì ér yán",
+"relatively speaking; comparatively speaking"
+],
+[
+"宣言",
+7,
+"xuān yán",
+"declaration; manifesto"
+],
+[
+"言辞",
+7,
+"yán cí",
+"words; expression; what one says"
+],
+[
+"言论",
+7,
+"yán lùn",
+"expression of opinion; views; remarks; arguments"
+],
+[
+"言行",
+7,
+"yán xíng",
+"words and actions; what one says and what one does"
+],
+[
+"谣言",
+7,
+"yáo yán",
+"rumor"
+],
+[
+"一言不发",
+7,
+"yī yán bù fā",
+"to not say a word (idiom)"
+],
+[
+"一言一行",
+7,
+"yī yán yī xíng",
+"every word and action (idiom)"
+],
+[
+"预言",
+7,
+"yù yán",
+"to predict; prophecy"
 ],
 [
 "寓言",
-6,
+7,
 "yù yán",
-"fable; CL:則|则[ze2]"
+"fable; CL:则[zé]"
 ],
 [
-"序言",
-6,
-"xù yán",
-"preface; introductory remarks; preamble; prelude"
+"怨言",
+7,
+"yuàn yán",
+"complaint"
+],
+[
+"总而言之",
+7,
+"zǒng ér yán zhī",
+"in short; in a word; in brief"
 ]
 ],
 "extraWords": [
 [
-"留言",
-43.88,
-"liú yán",
-"to leave a message; to leave one's comments; message"
+"言",
+160.65,
+"yán",
+"words; speech; to say; to talk"
 ],
 [
 "而言",
 43.79,
 "ér yán",
 "with regard to (preceding phrase)"
-],
-[
-"发言人",
-39.49,
-"fā yán rén",
-"spokesperson"
-],
-[
-"谎言",
-34.94,
-"huǎng yán",
-"lie"
-],
-[
-"言语",
-14.7,
-"yán yǔ",
-"words; speech; (spoken) language"
-],
-[
-"言语",
-14.7,
-"yán yu",
-"to speak; to tell"
-],
-[
-"宣言",
-13.42,
-"xuān yán",
-"declaration; manifesto"
 ],
 [
 "坦言",
@@ -127,24 +193,6 @@
 10.4,
 "shì yán",
 "to pledge; to promise; oath; vow"
-],
-[
-"传言",
-10.32,
-"chuán yán",
-"rumor; hearsay"
-],
-[
-"诺言",
-10.14,
-"nuò yán",
-"promise"
-],
-[
-"代言人",
-9.78,
-"dài yán rén",
-"spokesperson"
 ],
 [
 "闻言",
@@ -163,12 +211,6 @@
 6.05,
 "kě yán",
 "it may be said"
-],
-[
-"言行",
-5.73,
-"yán xíng",
-"words and actions; what one says and what one does"
 ]
 ],
 "strokes": [

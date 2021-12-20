@@ -1,6 +1,6 @@
 {
 "char": "趾",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "toe; tracks, footprints",
 "pron": "zhǐ"
@@ -11,6 +11,18 @@
 "脚趾",
 9.48,
 "jiǎo zhǐ",
+"toe"
+],
+[
+"趾",
+4.2,
+"zhǐ",
+"toe"
+],
+[
+"脚趾头",
+2.68,
+"jiǎo zhǐ tou",
 "toe"
 ]
 ],

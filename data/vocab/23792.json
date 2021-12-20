@@ -1,36 +1,60 @@
 {
 "char": "峰",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "peak, summit; hump of camel",
 "pron": "fēng"
 },
 "words": [
 [
-"高峰",
-6,
-"gāo fēng",
-"peak; summit; height"
-]
-],
-"extraWords": [
-[
 "峰会",
-13.66,
+6,
 "fēng huì",
 "summit meeting"
 ],
 [
-"高峰期",
-6.89,
-"gāo fēng qī",
-"peak period; rush hour"
+"高峰",
+6,
+"gāo fēng",
+"peak; summit; height"
+],
+[
+"山峰",
+6,
+"shān fēng",
+"(mountain) peak"
 ],
 [
 "巅峰",
-5.44,
+7,
 "diān fēng",
 "summit; apex; pinnacle (of one's career etc); peak (of a civilization etc)"
+],
+[
+"峰回路转",
+7,
+"fēng huí lù zhuǎn",
+"the mountain road twists around each new peak (idiom); (of a mountain road) twisting and turning; fig. an opportunity has come unexpectedly; things have taken a new turn"
+],
+[
+"高峰期",
+7,
+"gāo fēng qī",
+"peak period; rush hour"
+]
+],
+"extraWords": [
+[
+"峰",
+51.42,
+"fēng",
+"old variant of 峰[fēng]"
+],
+[
+"峰",
+51.42,
+"fēng",
+"(of a mountain) high and tapered peak or summit; mountain-like in appearance; highest level; classifier for camels"
 ]
 ],
 "strokes": [

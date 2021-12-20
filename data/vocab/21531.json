@@ -1,6 +1,6 @@
 {
 "char": "君",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "sovereign, monarch, ruler, chief, prince",
 "pron": "jūn"
@@ -8,12 +8,18 @@
 "words": [
 [
 "君子",
-6,
+7,
 "jūn zǐ",
 "nobleman; person of noble character"
 ]
 ],
 "extraWords": [
+[
+"君",
+65.45,
+"jūn",
+"monarch; lord; gentleman; ruler"
+],
 [
 "瘾君子",
 13.09,

@@ -1,55 +1,103 @@
 {
 "char": "招",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "beckon, summon; recruit, levy",
 "pron": "zhāo"
 },
 "words": [
 [
-"打招呼",
+"招呼",
 4,
-"dǎ zhāo hu",
-"to greet sb by word or action; to give prior notice"
+"zhāo hu",
+"to call out to; to greet; to say hello to; to inform; to take care of; to take care that one does not"
 ],
-[
-"招聘",
-4,
-"zhāo pìn",
-"to invite applications for a job; to recruit"
-],
-[
-"招待",
-5,
-"zhāo dài",
-"to receive (guests); to entertain; reception"
-],
-[
-"招收",
-6,
-"zhāo shōu",
-"to hire; to recruit"
-],
-[
-"招标",
-6,
-"zhāo biāo",
-"to invite bids"
-]
-],
-"extraWords": [
 [
 "招生",
-43.17,
+5,
 "zhāo shēng",
 "to enroll new students; to get students"
 ],
 [
-"招呼",
-25.96,
-"zhāo hu",
-"to call out to; to greet; to say hello to; to inform; to take care of; to take care that one does not"
+"招手",
+5,
+"zhāo shǒu",
+"to wave; to beckon"
 ],
+[
+"招",
+6,
+"zhāo",
+"to recruit; to provoke; to beckon; to incur; to infect; contagious; a move (chess); a maneuver; device; trick; to confess"
+],
+[
+"招聘",
+6,
+"zhāo pìn",
+"to invite applications for a job; to recruit"
+],
+[
+"打招呼",
+7,
+"dǎ zhāo hu",
+"to greet sb by word or action; to give prior notice"
+],
+[
+"绝招",
+7,
+"jué zhāo",
+"unique skill; unexpected tricky move (as a last resort); masterstroke; finishing blow"
+],
+[
+"招标",
+7,
+"zhāo biāo",
+"to invite bids"
+],
+[
+"招待",
+7,
+"zhāo dài",
+"to receive (guests); to entertain; reception"
+],
+[
+"招待会",
+7,
+"zhāo dài huì",
+"reception; CL:个[gè],次[cì]"
+],
+[
+"招揽",
+7,
+"zhāo lǎn",
+"to attract (customers); to drum up (trade)"
+],
+[
+"招募",
+7,
+"zhāo mù",
+"to recruit; to enlist"
+],
+[
+"招牌",
+7,
+"zhāo pai",
+"signboard; shop sign; reputation of a business"
+],
+[
+"招收",
+7,
+"zhāo shōu",
+"to hire; to recruit"
+],
+[
+"招数",
+7,
+"zhāo shù",
+"move (in chess, on stage, in martial arts); gambit; trick; scheme; movement; same as 着数[zhāo shù]"
+]
+],
+"extraWords": [
 [
 "招商",
 25.56,
@@ -61,18 +109,6 @@
 10.02,
 "zhāo shāng yǐn zī",
 "investment promotion"
-],
-[
-"招牌",
-9.57,
-"zhāo pai",
-"signboard; shop sign; reputation of a business"
-],
-[
-"招募",
-9.41,
-"zhāo mù",
-"to recruit; to enlist"
 ],
 [
 "招供",

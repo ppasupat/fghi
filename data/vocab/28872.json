@@ -1,6 +1,6 @@
 {
 "char": "烈",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "fiery, violent, vehement, ardent",
 "pron": "liè"
@@ -8,53 +8,59 @@
 "words": [
 [
 "强烈",
-5,
+3,
 "qiáng liè",
 "intense; (violently) strong"
 ],
 [
-"激烈",
-5,
-"jī liè",
-"(of competition or fighting) intense; fierce; (of pain) acute; (of an expression of opinion) impassioned; vehement; (of a course of action) drastic; extreme"
-],
-[
 "热烈",
-5,
+3,
 "rè liè",
 "enthusiastic; ardent; warm"
 ],
 [
-"猛烈",
-6,
-"měng liè",
-"fierce; violent (criticism etc)"
+"激烈",
+4,
+"jī liè",
+"(of competition or fighting) intense; fierce; (of pain) acute; (of an expression of opinion) impassioned; vehement; (of a course of action) drastic; extreme"
 ],
 [
 "剧烈",
-6,
+7,
 "jù liè",
 "violent; acute; severe; fierce"
 ],
 [
+"烈士",
+7,
+"liè shì",
+"martyr"
+],
+[
+"猛烈",
+7,
+"měng liè",
+"fierce; violent (criticism etc)"
+],
+[
 "兴高采烈",
-6,
+7,
 "xìng gāo cǎi liè",
 "happy and excited (idiom); in high spirits; in great delight"
 ],
 [
-"壮烈",
-6,
-"zhuàng liè",
-"brave; heroic"
+"愈演愈烈",
+7,
+"yù yǎn yù liè",
+"ever more critical; problems get more and more intense"
 ]
 ],
 "extraWords": [
 [
-"烈士",
-9.03,
-"liè shì",
-"martyr"
+"烈",
+8.79,
+"liè",
+"ardent; intense; fierce; stern; upright; to give one's life for a noble cause; exploits; achievements"
 ],
 [
 "轰轰烈烈",

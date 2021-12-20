@@ -1,6 +1,6 @@
 {
 "char": "章",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "composition; chapter, section",
 "pron": "zhāng"
@@ -8,47 +8,77 @@
 "words": [
 [
 "文章",
-4,
+3,
 "wén zhāng",
-"article; essay; literary works; writings; hidden meaning; CL:篇[pian1],段[duan4],頁|页[ye4]"
+"article; essay; literary works; writings; hidden meaning; CL:篇[piān],段[duàn],页[yè]"
 ],
 [
-"规章",
+"章",
 6,
-"guī zhāng",
-"rule; regulation"
+"Zhāng",
+"surname Zhang"
 ],
 [
-"盖章",
+"章",
 6,
-"gài zhāng",
-"to affix a seal; to stamp (a document); to sign off on sth"
+"zhāng",
+"chapter; section; clause; movement (of symphony); seal; badge; regulation; order"
 ],
 [
-"章程",
-6,
-"zhāng chéng",
-"rules; regulations; constitution; statute; articles of association (of company); articles of incorporation; charter (of a corporation); by-laws"
+"出口成章",
+7,
+"chū kǒu chéng zhāng",
+"(idiom) (of one's speech) eloquent; articulate"
+],
+[
+"顺理成章",
+7,
+"shùn lǐ chéng zhāng",
+"logical; only to be expected; rational and clearly structured (of text)"
+],
+[
+"违章",
+7,
+"wéi zhāng",
+"to break the rules; to violate regulations"
+],
+[
+"勋章",
+7,
+"xūn zhāng",
+"medal; decoration"
+],
+[
+"印章",
+7,
+"yìn zhāng",
+"seal; signet; chop; stamp; CL:方[fāng]"
+],
+[
+"杂乱无章",
+7,
+"zá luàn wú zhāng",
+"disordered and in a mess (idiom); all mixed up and chaotic"
 ]
 ],
 "extraWords": [
 [
-"勋章",
-59.68,
-"xūn zhāng",
-"medal; decoration"
+"规章",
+13.92,
+"guī zhāng",
+"rule; regulation"
+],
+[
+"章程",
+13.58,
+"zhāng chéng",
+"rules; regulations; constitution; statute; articles of association (of company); articles of incorporation; charter (of a corporation); by-laws"
 ],
 [
 "徽章",
 12.23,
 "huī zhāng",
 "badge; emblem; insignia; crest; logo; coat of arms"
-],
-[
-"违章",
-9.64,
-"wéi zhāng",
-"to break the rules; to violate regulations"
 ],
 [
 "章子怡",

@@ -1,6 +1,6 @@
 {
 "char": "始",
-"level": 2,
+"level": "3",
 "info": {
 "gloss": "begin, start; then, only then",
 "pron": "shǐ"
@@ -8,35 +8,53 @@
 "words": [
 [
 "开始",
-2,
+3,
 "kāi shǐ",
-"to begin; beginning; to start; initial; CL:個|个[ge4]"
+"to begin; beginning; to start; initial; CL:个[gè]"
 ],
 [
 "始终",
-5,
+3,
 "shǐ zhōng",
 "from beginning to end; all along"
 ],
 [
 "原始",
-6,
+5,
 "yuán shǐ",
 "first; original; primitive; original (document etc)"
+],
+[
+"创始人",
+7,
+"chuàng shǐ rén",
+"creator; founder; initiator"
+],
+[
+"自始至终",
+7,
+"zì shǐ zhì zhōng",
+"from start to finish (idiom)"
 ]
 ],
 "extraWords": [
 [
-"创始人",
-7.5,
-"chuàng shǐ rén",
-"creator; founder; initiator"
+"始",
+60.03,
+"shǐ",
+"to begin; to start; then; only then"
 ],
 [
 "初始",
 6.75,
 "chū shǐ",
 "initial; starting (point)"
+],
+[
+"始于",
+5.69,
+"???",
+"???"
 ],
 [
 "伊始",

@@ -1,6 +1,6 @@
 {
 "char": "星",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "a star, planet; any point of light",
 "pron": "xīng"
@@ -10,28 +10,88 @@
 "星期",
 1,
 "xīng qī",
-"week; CL:個|个[ge4]; day of the week; Sunday"
+"week; CL:个[gè]; day of the week; Sunday"
+],
+[
+"星期日",
+1,
+"Xīng qī rì",
+"Sunday; CL:个[gè]"
+],
+[
+"星期天",
+1,
+"Xīng qī tiān",
+"Sunday; CL:个[gè]"
 ],
 [
 "明星",
-5,
+2,
 "míng xīng",
 "star; celebrity"
 ],
 [
-"卫星",
-6,
-"wèi xīng",
-"satellite; moon; CL:顆|颗[ke1]"
+"星星",
+2,
+"xīng xing",
+"star in the sky"
 ],
 [
-"零星",
+"卫星",
+5,
+"wèi xīng",
+"satellite; moon; CL:颗[kē]"
+],
+[
+"歌星",
 6,
-"líng xīng",
-"fragmentary; random; bits and pieces; sporadic"
+"gē xīng",
+"singing star; famous singer"
+],
+[
+"球星",
+6,
+"qiú xīng",
+"sports star (ball sport)"
+],
+[
+"影星",
+6,
+"yǐng xīng",
+"film star"
+],
+[
+"巨星",
+7,
+"jù xīng",
+"(astronomy) giant star; (fig.) superstar (of opera, basketball etc)"
+],
+[
+"外星人",
+7,
+"wài xīng rén",
+"space alien; extraterrestrial"
+],
+[
+"五星级",
+7,
+"wǔ xīng jí",
+"five-star (hotel)"
+],
+[
+"星座",
+7,
+"xīng zuò",
+"constellation; astrological sign; CL:张[zhāng]"
 ]
 ],
 "extraWords": [
+[
+"星",
+117.18,
+"xīng",
+"star; heavenly body; satellite; small amount"
+],
 [
 "星球",
 43.34,
@@ -39,34 +99,16 @@
 "celestial body (e.g. planet, satellite etc); heavenly body"
 ],
 [
-"星座",
-41.68,
-"xīng zuò",
-"constellation; astrological sign; CL:張|张[zhang1]"
-],
-[
 "三星",
 31.8,
 "Sān xīng",
-"Sanxing or Sanhsing Township in Yilan County 宜蘭縣|宜兰县[Yi2 lan2 Xian4], Taiwan; Samsung (South Korean electronics company)"
+"Sanxing or Sanhsing Township in Yilan County 宜兰县[Yí lán Xiàn], Taiwan; Samsung (South Korean electronics company)"
 ],
 [
 "三星",
 31.8,
 "sān xīng",
-"three major stars of the Three Stars 參宿|参宿[Shen1 xiu4] Chinese constellation; the belt of Orion; three spirits 福[fu2], 祿|禄[lu4], and 壽|寿[shou4] associated with the Three Stars 參宿|参宿[Shen1 xiu4] Chinese constellation"
-],
-[
-"外星人",
-23.43,
-"wài xīng rén",
-"space alien; extraterrestrial"
-],
-[
-"星星",
-19.58,
-"xīng xing",
-"star in the sky"
+"three major stars of the Three Stars 参宿[Shēn xiù] Chinese constellation; the belt of Orion; three spirits 福[fú], 禄[lù], and 寿[shòu] associated with the Three Stars 参宿[Shēn xiù] Chinese constellation"
 ],
 [
 "星期五",
@@ -79,12 +121,6 @@
 15.29,
 "Xīng qī liù",
 "Saturday"
-],
-[
-"星期天",
-13.95,
-"Xīng qī tiān",
-"Sunday; CL:個|个[ge4]"
 ],
 [
 "火星",
@@ -102,7 +138,7 @@
 "红星",
 12.15,
 "Hóng xīng",
-"Hongxing district of Yichun city 伊春市[Yi1 chun1 shi4], Heilongjiang"
+"Hongxing district of Yichun city 伊春市[Yī chūn shì], Heilongjiang"
 ],
 [
 "红星",
@@ -117,12 +153,6 @@
 "Monday"
 ],
 [
-"球星",
-11.23,
-"qiú xīng",
-"sports star (ball sport)"
-],
-[
 "星空",
 11.06,
 "xīng kōng",
@@ -132,13 +162,13 @@
 "星系",
 10.52,
 "xīng xì",
-"see 恆星系|恒星系[heng2 xing1 xi4]"
+"see 恒星系[héng xīng xì]"
 ],
 [
 "行星",
 10.31,
 "xíng xīng",
-"planet; CL:顆|颗[ke1]"
+"planet; CL:颗[kē]"
 ],
 [
 "星际",
@@ -163,12 +193,6 @@
 8.59,
 "Xīng qī sān",
 "Wednesday"
-],
-[
-"巨星",
-8.41,
-"jù xīng",
-"(astronomy) giant star; (fig.) superstar (of opera, basketball etc)"
 ],
 [
 "星光",
@@ -201,12 +225,6 @@
 "star rating; top-class; highly rated"
 ],
 [
-"星期日",
-5.45,
-"Xīng qī rì",
-"Sunday; CL:個|个[ge4]"
-],
-[
 "金星",
 5.22,
 "Jīn xīng",
@@ -217,18 +235,6 @@
 5.22,
 "jīn xīng",
 "gold star; stars (that one sees from blow to the head etc)"
-],
-[
-"影星",
-5.16,
-"yǐng xīng",
-"film star"
-],
-[
-"五星级",
-5.1,
-"wǔ xīng jí",
-"five-star (hotel)"
 ],
 [
 "下星期",

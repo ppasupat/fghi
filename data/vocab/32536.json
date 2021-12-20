@@ -1,6 +1,6 @@
 {
 "char": "缘",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "hem, margin; reason, cause; fate",
 "pron": "yuán"
@@ -17,20 +17,44 @@
 6,
 "yuán gù",
 "reason; cause"
+],
+[
+"绝缘",
+7,
+"jué yuán",
+"to have no contact with; to be cut off from; (electricity) to insulate"
+],
+[
+"人缘儿",
+7,
+"rén yuán r5",
+"erhua variant of 人缘[rén yuán]"
+],
+[
+"无缘",
+7,
+"wú yuán",
+"to have no opportunity; no way (of doing sth); no chance; no connection; not placed (in a competition); (in pop lyrics) no chance of love, no place to be together etc"
+],
+[
+"血缘",
+7,
+"xuè yuán",
+"bloodline"
+],
+[
+"缘分",
+7,
+"yuán fèn",
+"fate or chance that brings people together; predestined affinity or relationship; (Budd.) destiny"
 ]
 ],
 "extraWords": [
 [
-"缘分",
-11.13,
-"yuán fèn",
-"fate or chance that brings people together; predestined affinity or relationship; (Budd.) destiny"
-],
-[
-"无缘",
-10.0,
-"wú yuán",
-"to have no opportunity; no way (of doing sth); no chance; no connection; not placed (in a competition); (in pop lyrics) no chance of love, no place to be together etc"
+"缘",
+31.86,
+"yuán",
+"cause; reason; karma; fate; predestined affinity; margin; hem; edge; along"
 ],
 [
 "有缘",

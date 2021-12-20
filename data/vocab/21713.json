@@ -1,19 +1,32 @@
 {
 "char": "哑",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "dumb, mute; become hoarse",
 "pron": "yā, yǎ"
 },
 "words": [
 [
-"聋哑",
-6,
-"lóng yǎ",
-"deaf and dumb"
+"哑",
+7,
+"yā",
+"(onom.) sound of cawing; sound of infant learning to talk; variant of 呀[yā]"
+],
+[
+"哑",
+7,
+"yǎ",
+"dumb; mute; hoarse; husky; unexploded (of artillery shell etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"哑巴",
+3.19,
+"yǎ ba",
+"mute; muted; a dumb person; to be dumb"
+]
+],
 "strokes": [
 "M 124 575 Q 112 581 88 586 Q 75 590 71 585 Q 64 578 72 561 Q 103 486 115 366 Q 116 330 136 305 Q 152 281 159 297 Q 169 321 164 366 L 159 403 Q 144 523 143 550 C 142 568 142 568 124 575 Z",
 "M 290 425 Q 302 530 328 563 Q 349 590 325 602 Q 304 612 277 627 Q 258 636 240 624 Q 206 597 124 575 C 95 567 114 542 143 550 Q 144 550 222 573 Q 244 579 250 570 Q 260 563 254 522 Q 250 480 242 431 C 237 401 286 395 290 425 Z",

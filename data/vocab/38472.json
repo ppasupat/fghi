@@ -1,42 +1,72 @@
 {
 "char": "陈",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "exhibit, display; plead; a surname",
 "pron": "chén"
 },
 "words": [
 [
-"陈述",
-6,
-"chén shù",
-"an assertion; to declare; to state"
-],
-[
 "陈旧",
-6,
+7,
 "chén jiù",
 "old-fashioned"
 ],
 [
-"新陈代谢",
-6,
-"xīn chén dài xiè",
-"metabolism (biology); the new replaces the old (idiom)"
-],
-[
 "陈列",
-6,
+7,
 "chén liè",
 "to display; to exhibit"
+],
+[
+"陈述",
+7,
+"chén shù",
+"an assertion; to declare; to state"
+],
+[
+"新陈代谢",
+7,
+"xīn chén dài xiè",
+"metabolism (biology); the new replaces the old (idiom)"
 ]
 ],
 "extraWords": [
+[
+"陈",
+65.2,
+"Chén",
+"surname Chen; Chen (c. 1045 - 479 BC), a Zhou dynasty state; Chen (557-589), one of the Southern Dynasties 南朝[Nán Cháo]"
+],
+[
+"陈",
+65.2,
+"chén",
+"to lay out; to exhibit; to display; to narrate; to state; to explain; to tell; old; stale"
+],
 [
 "陈水扁",
 20.76,
 "Chén Shuǐ biǎn",
 "Chen Shui-Bian (1950-), Taiwanese DPP 民進黨|民进党 politician, president of the Republic of China 2000-2008"
+],
+[
+"陈某",
+9.1,
+"???",
+"???"
+],
+[
+"陈先生",
+8.36,
+"???",
+"???"
+],
+[
+"陈翔",
+7.61,
+"???",
+"???"
 ],
 [
 "陈奕迅",

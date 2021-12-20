@@ -1,6 +1,6 @@
 {
 "char": "法",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "law, rule, regulation, statute; France, French",
 "pron": "fǎ"
@@ -8,27 +8,93 @@
 "words": [
 [
 "办法",
-3,
+2,
 "bàn fǎ",
-"means; method; way (of doing sth); CL:條|条[tiao2],個|个[ge4]"
+"means; method; way (of doing sth); CL:条[tiáo],个[gè]"
 ],
 [
 "方法",
-4,
+2,
 "fāng fǎ",
-"method; way; means; CL:個|个[ge4]"
+"method; way; means; CL:个[gè]"
+],
+[
+"看法",
+2,
+"kàn fǎ",
+"way of looking at a thing; view; opinion; CL:个[gè]"
+],
+[
+"想法",
+2,
+"xiǎng fǎ",
+"way of thinking; opinion; notion; to think of a way (to do sth); CL:个[gè]"
+],
+[
+"做法",
+2,
+"zuò fǎ",
+"way of handling sth; method for making; work method; recipe; practice; CL:个[gè]"
+],
+[
+"合法",
+3,
+"hé fǎ",
+"lawful; legitimate; legal"
+],
+[
+"法",
+4,
+"fǎ",
+"variant of 法[fǎ]"
+],
+[
+"法",
+4,
+"Fǎ",
+"France; French; abbr. for 法国[Fǎ guó]; Taiwan pr. [Fa4]"
+],
+[
+"法",
+4,
+"fǎ",
+"law; method; way; to emulate; (Buddhism) dharma; (abbr. for 法家[Fǎ jiā]) the Legalists; (physics) farad (abbr. for 法拉[fǎ lā])"
+],
+[
+"法",
+4,
+"fǎ",
+"old variant of 法[fǎ]; law"
+],
+[
+"法官",
+4,
+"fǎ guān",
+"judge (in court)"
 ],
 [
 "法律",
 4,
 "fǎ lǜ",
-"law; CL:條|条[tiao2], 套[tao4], 個|个[ge4]"
+"law; CL:条[tiáo], 套[tào], 个[gè]"
 ],
 [
-"看法",
+"法院",
 4,
-"kàn fǎ",
-"way of looking at a thing; view; opinion; CL:個|个[ge4]"
+"fǎ yuàn",
+"court of law; court"
+],
+[
+"没法儿",
+4,
+"méi fǎ",
+"at a loss; unable to do anything about it; to have no choice"
+],
+[
+"无法",
+4,
+"wú fǎ",
+"unable; incapable"
 ],
 [
 "语法",
@@ -37,132 +103,132 @@
 "grammar"
 ],
 [
-"合法",
-5,
-"hé fǎ",
-"lawful; legitimate; legal"
-],
-[
-"法院",
-5,
-"fǎ yuàn",
-"court of law; court"
-],
-[
-"非法",
-6,
-"fēi fǎ",
-"illegal"
-],
-[
-"手法",
-6,
-"shǒu fǎ",
-"technique; trick; skill"
-],
-[
-"司法",
-6,
-"sī fǎ",
-"judicial; (administration of) justice"
-],
-[
-"宪法",
-6,
-"xiàn fǎ",
-"constitution (of a country); CL:部[bu4]"
-],
-[
-"想方设法",
-6,
-"xiǎng fāng shè fǎ",
-"to think up every possible method (idiom); to devise ways and means; to try this, that and the other"
-],
-[
-"书法",
-6,
-"shū fǎ",
-"calligraphy; handwriting; penmanship"
-],
-[
-"法人",
-6,
-"fǎ rén",
-"legal person; corporation; see also 自然人[zi4 ran2 ren2]"
-]
-],
-"extraWords": [
-[
-"无法",
-245.21,
-"wú fǎ",
-"unable; incapable"
-],
-[
-"想法",
-136.35,
-"xiǎng fǎ",
-"way of thinking; opinion; notion; to think of a way (to do sth); CL:個|个[ge4]"
-],
-[
-"法官",
-111.76,
-"fǎ guān",
-"judge (in court)"
-],
-[
-"法国",
-93.18,
-"Fǎ guó",
-"France; French"
-],
-[
-"执法",
-74.93,
-"zhí fǎ",
-"to enforce a law; law enforcement"
-],
-[
-"违法",
-69.46,
-"wéi fǎ",
-"illegal; to break the law"
-],
-[
-"法庭",
-69.22,
-"fǎ tíng",
-"court of law"
-],
-[
-"依法",
-66.55,
-"yī fǎ",
-"legal (proceedings); according to law"
-],
-[
 "法规",
-61.87,
+5,
 "fǎ guī",
 "legislation; statute"
 ],
 [
-"做法",
-61.03,
-"zuò fǎ",
-"way of handling sth; method for making; work method; recipe; practice; CL:個|个[ge4]"
+"法制",
+5,
+"fǎ zhì",
+"legal system and institutions"
+],
+[
+"法制",
+5,
+"Fǎ zhì",
+"made in France"
+],
+[
+"手法",
+5,
+"shǒu fǎ",
+"technique; trick; skill"
+],
+[
+"书法",
+5,
+"shū fǎ",
+"calligraphy; handwriting; penmanship"
 ],
 [
 "说法",
-53.18,
+5,
 "shuō fǎ",
 "to expound Buddhist teachings"
 ],
 [
 "说法",
-53.18,
+5,
 "shuō fa",
 "way of speaking; wording; formulation; one's version (of events); statement; theory; hypothesis; interpretation"
+],
+[
+"违法",
+5,
+"wéi fǎ",
+"illegal; to break the law"
+],
+[
+"依法",
+5,
+"yī fǎ",
+"legal (proceedings); according to law"
+],
+[
+"法庭",
+6,
+"fǎ tíng",
+"court of law"
+],
+[
+"法语",
+6,
+"Fǎ yǔ",
+"French (language)"
+],
+[
+"用法",
+6,
+"yòng fǎ",
+"usage"
+],
+[
+"非法",
+7,
+"fēi fǎ",
+"illegal"
+],
+[
+"疗法",
+7,
+"liáo fǎ",
+"therapy; treatment"
+],
+[
+"设法",
+7,
+"shè fǎ",
+"to try; to make an attempt; to think of a way (to accomplish sth)"
+],
+[
+"司法",
+7,
+"sī fǎ",
+"judicial; (administration of) justice"
+],
+[
+"宪法",
+7,
+"xiàn fǎ",
+"constitution (of a country); CL:部[bù]"
+],
+[
+"想方设法",
+7,
+"xiǎng fāng shè fǎ",
+"to think up every possible method (idiom); to devise ways and means; to try this, that and the other"
+],
+[
+"刑法",
+7,
+"xíng fǎ",
+"criminal law"
+],
+[
+"执法",
+7,
+"zhí fǎ",
+"to enforce a law; law enforcement"
+]
+],
+"extraWords": [
+[
+"法国",
+93.18,
+"Fǎ guó",
+"France; French"
 ],
 [
 "魔法",
@@ -177,18 +243,6 @@
 "to enact laws; to legislate; legislation"
 ],
 [
-"法制",
-30.43,
-"fǎ zhì",
-"legal system and institutions"
-],
-[
-"法制",
-30.43,
-"Fǎ zhì",
-"made in France"
-],
-[
 "没法",
 26.59,
 "méi fǎ",
@@ -201,10 +255,10 @@
 "legal; statutory; rightful"
 ],
 [
-"法语",
-24.68,
-"Fǎ yǔ",
-"French (language)"
+"法人",
+19.56,
+"fǎ rén",
+"legal person; corporation; see also 自然人[zì rán rén]"
 ],
 [
 "人民法院",
@@ -219,28 +273,10 @@
 "forensic investigator; forensic detective"
 ],
 [
-"设法",
-14.19,
-"shè fǎ",
-"to try; to make an attempt; to think of a way (to accomplish sth)"
-],
-[
-"疗法",
-12.78,
-"liáo fǎ",
-"therapy; treatment"
-],
-[
 "法治",
 12.69,
 "fǎ zhì",
 "rule of law; to rule by law"
-],
-[
-"刑法",
-10.55,
-"xíng fǎ",
-"criminal law"
 ],
 [
 "法案",
@@ -321,6 +357,12 @@
 "corporations law"
 ],
 [
+"法国队",
+6.71,
+"???",
+"???"
+],
+[
 "法学院",
 6.59,
 "fǎ xué yuàn",
@@ -337,6 +379,12 @@
 6.12,
 "Zuì gāo Rén mín Fǎ yuàn",
 "Supreme People's Court (PRC)"
+],
+[
+"法人股",
+5.96,
+"???",
+"???"
 ],
 [
 "阿拉法特",

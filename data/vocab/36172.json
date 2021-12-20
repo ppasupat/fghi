@@ -1,11 +1,17 @@
 {
 "char": "赌",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "bet, gamble, wager; compete",
 "pron": "dǔ"
 },
 "words": [
+[
+"赌",
+6,
+"dǔ",
+"to bet; to gamble"
+],
 [
 "赌博",
 6,

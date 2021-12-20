@@ -1,6 +1,6 @@
 {
 "char": "计",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "plan, plot; stratagem; scheme",
 "pron": "jì"
@@ -8,57 +8,135 @@
 "words": [
 [
 "计划",
-4,
+2,
 "jì huà",
-"plan; project; program; to plan; to map out; CL:個|个[ge4],項|项[xiang4]"
+"plan; project; program; to plan; to map out; CL:个[gè],项[xiàng]"
 ],
 [
-"估计",
-4,
-"gū jì",
-"to estimate; to reckon; CL:個|个[ge4]; (coll.) to suppose"
-],
-[
-"设计",
-5,
-"shè jì",
-"plan; design; to design; to plan; CL:個|个[ge4]"
+"计算机",
+2,
+"jì suàn jī",
+"computer; (Tw) calculator; CL:台[tái]"
 ],
 [
 "计算",
-5,
+3,
 "jì suàn",
-"to count; to calculate; to compute; CL:個|个[ge4]"
+"to count; to calculate; to compute; CL:个[gè]"
+],
+[
+"设计",
+3,
+"shè jì",
+"plan; design; to design; to plan; CL:个[gè]"
+],
+[
+"预计",
+3,
+"yù jì",
+"to forecast; to predict; to estimate"
 ],
 [
 "会计",
-5,
+4,
 "kuài jì",
 "accountant; accountancy; accounting"
 ],
 [
 "统计",
-6,
+4,
 "tǒng jì",
 "statistics; to count; to add up"
 ],
 [
-"计较",
+"共计",
+5,
+"gòng jì",
+"to sum up to; to total"
+],
+[
+"估计",
+5,
+"gū jì",
+"to estimate; to reckon; CL:个[gè]; (coll.) to suppose"
+],
+[
+"设计师",
 6,
+"shè jì shī",
+"designer; architect"
+],
+[
+"倒计时",
+7,
+"dào jì shí",
+"to count down; countdown"
+],
+[
+"合计",
+7,
+"hé jì",
+"to add up the total; to figure what sth amounts to; to consider"
+],
+[
+"计",
+7,
+"Jì",
+"surname Ji"
+],
+[
+"计",
+7,
+"jì",
+"to calculate; to compute; to count; to regard as important; to plan; ruse; meter; gauge"
+],
+[
+"计策",
+7,
+"jì cè",
+"stratagem"
+],
+[
+"计较",
+7,
 "jì jiào",
 "to bother about; to haggle; to bicker; to argue; plan; stratagem"
 ],
 [
+"计时",
+7,
+"jì shí",
+"to measure time; to time; to reckon by time"
+],
+[
+"累计",
+7,
+"lěi jì",
+"to calculate the running total; cumulative; total; in total"
+],
+[
 "千方百计",
-6,
+7,
 "qiān fāng bǎi jì",
 "lit. thousand ways, a hundred plans (idiom); by every possible means"
 ],
 [
-"共计",
-6,
-"gòng jì",
-"to sum up to; to total"
+"算计",
+7,
+"suàn ji",
+"to reckon; to calculate; to plan; to expect; to scheme"
+],
+[
+"温度计",
+7,
+"wēn dù jì",
+"thermometer; thermograph"
+],
+[
+"总计",
+7,
+"zǒng jì",
+"(grand) total"
 ]
 ],
 "extraWords": [
@@ -69,46 +147,16 @@
 "partner; fellow; mate; waiter; servant; shop assistant"
 ],
 [
-"预计",
-107.63,
-"yù jì",
-"to forecast; to predict; to estimate"
-],
-[
 "审计",
 77.72,
 "shěn jì",
 "to audit; to examine finances"
 ],
 [
-"计算机",
-45.99,
-"jì suàn jī",
-"computer; (Tw) calculator; CL:臺|台[tai2]"
-],
-[
-"累计",
-40.7,
-"lěi jì",
-"to calculate the running total; cumulative; total; in total"
-],
-[
-"设计师",
-24.79,
-"shè jì shī",
-"designer; architect"
-],
-[
 "会计师",
 16.26,
 "kuài jì shī",
 "accountant"
-],
-[
-"合计",
-12.97,
-"hé jì",
-"to add up the total; to figure what sth amounts to; to consider"
 ],
 [
 "计量",
@@ -129,28 +177,16 @@
 "family planning"
 ],
 [
-"计时",
-10.4,
-"jì shí",
-"to measure time; to time; to reckon by time"
+"有计划",
+9.25,
+"???",
+"???"
 ],
 [
 "计划经济",
 8.56,
 "jì huà jīng jì",
 "planned economy"
-],
-[
-"总计",
-8.44,
-"zǒng jì",
-"(grand) total"
-],
-[
-"倒计时",
-8.26,
-"dào jì shí",
-"to count down; countdown"
 ],
 [
 "诡计",

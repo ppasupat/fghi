@@ -1,6 +1,6 @@
 {
 "char": "崇",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "esteem, honor, revere, venerate",
 "pron": "chóng"
@@ -14,24 +14,18 @@
 ],
 [
 "崇高",
-6,
+7,
 "chóng gāo",
 "majestic; sublime"
 ],
 [
-"崇敬",
-6,
-"chóng jìng",
-"to revere; to venerate; high esteem"
+"崇尚",
+7,
+"chóng shàng",
+"to hold up (as an model); to hold in esteem; to revere; to advocate"
 ]
 ],
 "extraWords": [
-[
-"崇尚",
-5.41,
-"chóng shàng",
-"to hold up (as an model); to hold in esteem; to revere; to advocate"
-],
 [
 "推崇",
 5.2,

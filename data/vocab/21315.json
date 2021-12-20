@@ -1,6 +1,6 @@
 {
 "char": "千",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "thousand; many, numerous; very; (Cant.) a cheater, swindler",
 "pron": "qiān"
@@ -16,22 +16,64 @@
 "千",
 2,
 "qiān",
-"see 鞦韆|秋千[qiu1 qian1]"
+"see 秋千[qiū qiān]"
+],
+[
+"千克",
+2,
+"qiān kè",
+"kilogram"
 ],
 [
 "千万",
-4,
+3,
 "qiān wàn",
 "ten million; countless; many; one must by all means"
 ],
 [
+"成千上万",
+7,
+"chéng qiān shàng wàn",
+"lit. by the thousands and tens of thousands (idiom); untold numbers; innumerable; thousands upon thousands"
+],
+[
+"千变万化",
+7,
+"qiān biàn wàn huà",
+"countless changes; constant permutation"
+],
+[
 "千方百计",
-6,
+7,
 "qiān fāng bǎi jì",
 "lit. thousand ways, a hundred plans (idiom); by every possible means"
+],
+[
+"千家万户",
+7,
+"qiān jiā wàn hù",
+"every family (idiom)"
+],
+[
+"千军万马",
+7,
+"qiān jūn wàn mǎ",
+"magnificent army with thousands of men and horses (idiom); impressive display of manpower; all the King's horses and all the King's men"
+],
+[
+"千钧一发",
+7,
+"qiān jūn yī fà",
+"a thousand pounds hangs by a thread (idiom); imminent peril; a matter of life or death"
 ]
 ],
 "extraWords": [
+[
+"一千",
+17.29,
+"???",
+"???"
+],
 [
 "几千",
 12.97,
@@ -45,10 +87,16 @@
 "kilowatt (unit of electric power)"
 ],
 [
-"成千上万",
-10.4,
-"chéng qiān shàng wàn",
-"lit. by the thousands and tens of thousands (idiom); untold numbers; innumerable; thousands upon thousands"
+"数千",
+10.59,
+"???",
+"???"
+],
+[
+"上千",
+7.33,
+"???",
+"???"
 ],
 [
 "千年",
@@ -57,10 +105,16 @@
 "millennium"
 ],
 [
-"千克",
-5.2,
-"qiān kè",
-"kilogram"
+"近千",
+5.33,
+"???",
+"???"
+],
+[
+"五千",
+5.28,
+"???",
+"???"
 ]
 ],
 "strokes": [

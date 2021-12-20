@@ -1,24 +1,30 @@
 {
 "char": "衍",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "overflow, spill over, spread out",
 "pron": "yǎn"
 },
 "words": [
 [
-"敷衍",
-6,
-"fū yǎn",
-"to elaborate (on a theme); to expound (the classics); perfunctory; to skimp; to botch; to do sth half-heartedly or just for show; barely enough to get by"
+"衍生",
+7,
+"yǎn shēng",
+"to give rise to; to derive; derivative; derivation"
 ]
 ],
 "extraWords": [
 [
-"衍生",
-6.62,
-"yǎn shēng",
-"to give rise to; to derive; derivative; derivation"
+"敷衍",
+3.59,
+"fū yǎn",
+"to elaborate (on a theme); to expound (the classics); perfunctory; to skimp; to botch; to do sth half-heartedly or just for show; barely enough to get by"
+],
+[
+"繁衍",
+2.8,
+"fán yǎn",
+"to multiply; to reproduce; to increase gradually in number or quantity"
 ]
 ],
 "strokes": [

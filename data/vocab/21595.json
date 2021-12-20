@@ -1,11 +1,30 @@
 {
 "char": "呛",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "choke by smoke; irritates nose",
 "pron": "qiāng, qiàng"
 },
-"words": [],
+"words": [
+[
+"够呛",
+7,
+"gòu qiàng",
+"unbearable; terrible; enough; unlikely"
+],
+[
+"呛",
+7,
+"qiāng",
+"to choke (because of swallowing the wrong way)"
+],
+[
+"呛",
+7,
+"qiàng",
+"to irritate the nose; to choke (of smoke, smell etc); pungent; (coll.) (Tw) to shout at sb; to scold; to speak out against sb"
+]
+],
 "extraWords": [],
 "strokes": [
 "M 134 541 Q 122 548 93 554 Q 80 558 77 552 Q 70 546 78 530 Q 106 464 118 358 Q 119 327 136 304 Q 152 282 159 297 Q 166 313 165 342 L 161 377 Q 146 485 146 514 C 145 536 145 536 134 541 Z",

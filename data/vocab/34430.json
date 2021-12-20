@@ -1,11 +1,24 @@
 {
 "char": "虾",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "shrimp, prawn",
 "pron": "xiā"
 },
-"words": [],
+"words": [
+[
+"虾",
+7,
+"há",
+"see 虾蟆[há ma]"
+],
+[
+"虾",
+7,
+"xiā",
+"shrimp; prawn"
+]
+],
 "extraWords": [
 [
 "龙虾",

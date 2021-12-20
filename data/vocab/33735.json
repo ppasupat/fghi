@@ -1,17 +1,24 @@
 {
 "char": "菇",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "mushrooms",
 "pron": "gū"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "蘑菇",
-8.28,
+7,
 "mó gu",
 "mushroom; to pester; to dawdle"
+]
+],
+"extraWords": [
+[
+"菇",
+7.53,
+"gū",
+"mushroom"
 ],
 [
 "香菇",

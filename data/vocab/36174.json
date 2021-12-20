@@ -1,11 +1,18 @@
 {
 "char": "赎",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "buy, redeem; ransom; atone for",
 "pron": "shú"
 },
-"words": [],
+"words": [
+[
+"赎",
+7,
+"shú",
+"to redeem; to ransom"
+]
+],
 "extraWords": [
 [
 "赎回",

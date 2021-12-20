@@ -1,19 +1,31 @@
 {
 "char": "伶",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "lonely, solitary; actor",
 "pron": "líng"
 },
-"words": [
+"words": [],
+"extraWords": [
+[
+"伶",
+2.15,
+"líng",
+"clever; (old) actor; actress"
+],
 [
 "伶俐",
-6,
+0.89,
 "líng lì",
 "clever; witty; intelligent"
+],
+[
+"聪明伶俐",
+0.62,
+"cōng ming líng lì",
+"clever and quick-witted"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 249 568 Q 372 755 374 759 Q 373 762 372 766 Q 368 779 337 803 Q 309 822 290 822 Q 271 821 279 797 Q 292 766 281 739 Q 244 648 188 563 Q 133 481 59 392 Q 49 382 46 375 Q 42 363 57 366 Q 91 370 218 527 L 249 568 Z",
 "M 218 527 Q 233 491 235 424 Q 226 267 224 257 Q 215 199 199 139 Q 186 93 221 41 Q 222 37 227 33 Q 246 15 259 45 Q 275 88 274 138 Q 281 421 291 485 Q 300 515 288 526 Q 254 565 249 568 C 228 589 208 555 218 527 Z",

@@ -1,132 +1,180 @@
 {
 "char": "传",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "summon; propagate, transmit",
 "pron": "chuán, zhuàn"
 },
 "words": [
 [
-"传真",
-4,
-"chuán zhēn",
-"fax; facsimile"
+"传",
+3,
+"chuán",
+"to pass on; to spread; to transmit; to infect; to transfer; to circulate; to conduct (electricity)"
 ],
 [
-"传统",
-5,
-"chuán tǒng",
-"tradition; traditional; convention; conventional; CL:個|个[ge4]"
+"传",
+3,
+"zhuàn",
+"biography; historical narrative; commentaries; relay station"
+],
+[
+"传播",
+3,
+"chuán bō",
+"to disseminate; to propagate; to spread"
+],
+[
+"传来",
+3,
+"chuán lái",
+"(of a sound) to come through; to be heard; (of news) to arrive"
 ],
 [
 "传说",
-5,
+3,
 "chuán shuō",
 "legend; folklore; to repeat from mouth to mouth; they say that..."
 ],
 [
 "宣传",
-5,
+3,
 "xuān chuán",
-"to disseminate; to give publicity to; propaganda; CL:個|个[ge4]"
+"to disseminate; to give publicity to; propaganda; CL:个[gè]"
 ],
 [
-"传播",
-5,
-"chuán bō",
-"to disseminate; to propagate; to spread"
-],
-[
-"传染",
-5,
-"chuán rǎn",
-"to infect; contagious"
+"传统",
+4,
+"chuán tǒng",
+"tradition; traditional; convention; conventional; CL:个[gè]"
 ],
 [
 "流传",
-5,
+4,
 "liú chuán",
 "to spread; to circulate; to hand down"
 ],
 [
 "遗传",
-6,
+4,
 "yí chuán",
 "heredity; to inherit (a trait); to pass on (to one's offspring)"
 ],
 [
 "传达",
-6,
+5,
 "chuán dá",
 "to pass on; to convey; to relay; to transmit; transmission"
 ],
 [
-"传单",
-6,
-"chuán dān",
-"leaflet; flier; pamphlet"
-],
-[
-"传授",
-6,
-"chuán shòu",
-"to impart; to pass on; to teach"
-],
-[
-"传记",
-6,
-"zhuàn jì",
-"biography; CL:篇[pian1],部[bu4]"
-]
-],
-"extraWords": [
-[
-"传来",
-29.7,
-"chuán lái",
-"(of a sound) to come through; to be heard; (of news) to arrive"
-],
-[
 "传递",
-26.18,
+5,
 "chuán dì",
 "to transmit; to pass on to sb else; (math.) transitive"
 ],
 [
-"传媒",
-24.03,
-"chuán méi",
-"media"
-],
-[
-"传奇",
-23.46,
-"chuán qí",
-"legendary; fantasy saga; romance; short stories of the Tang and Song Dynasty"
+"传真",
+5,
+"chuán zhēn",
+"fax; facsimile"
 ],
 [
 "传出",
-20.93,
+6,
 "chuán chū",
 "to transmit outwards; to disseminate; efferent (nerve)"
 ],
 [
+"传媒",
+6,
+"chuán méi",
+"media"
+],
+[
 "传输",
-17.26,
+6,
 "chuán shū",
 "to transmit; transmission"
 ],
+[
+"传言",
+6,
+"chuán yán",
+"rumor; hearsay"
+],
+[
+"传承",
+7,
+"chuán chéng",
+"to pass on (to future generations); passed on (from former times); a continued tradition; an inheritance"
+],
+[
+"传奇",
+7,
+"chuán qí",
+"legendary; fantasy saga; romance; short stories of the Tang and Song Dynasty"
+],
+[
+"传染",
+7,
+"chuán rǎn",
+"to infect; contagious"
+],
+[
+"传染病",
+7,
+"chuán rǎn bìng",
+"infectious disease; contagious disease; pestilence"
+],
+[
+"传人",
+7,
+"chuán rén",
+"to teach; to impart; a disciple; descendant"
+],
+[
+"传授",
+7,
+"chuán shòu",
+"to impart; to pass on; to teach"
+],
+[
+"传闻",
+7,
+"chuán wén",
+"rumor"
+],
+[
+"失传",
+7,
+"shī chuán",
+"(of skills etc) to die out; lost; extinct"
+],
+[
+"相传",
+7,
+"xiāng chuán",
+"to pass on; to hand down; tradition has it that ...; according to legend"
+],
+[
+"传记",
+7,
+"zhuàn jì",
+"biography; CL:篇[piān],部[bù]"
+],
+[
+"祖传",
+7,
+"zǔ chuán",
+"passed on from ancestors; handed down from generation to generation"
+]
+],
+"extraWords": [
 [
 "传送",
 13.21,
 "chuán sòng",
 "to convey; to deliver"
-],
-[
-"传闻",
-12.84,
-"chuán wén",
-"rumor"
 ],
 [
 "传球",
@@ -135,34 +183,22 @@
 "pass (in soccer); to feed (ball)"
 ],
 [
-"传染病",
-10.54,
-"chuán rǎn bìng",
-"infectious disease; contagious disease; pestilence"
-],
-[
 "宣传部",
 10.36,
 "Xuān chuán bù",
 "Propaganda Department"
 ],
 [
-"传言",
-10.32,
-"chuán yán",
-"rumor; hearsay"
-],
-[
-"传承",
-8.52,
-"chuán chéng",
-"to pass on (to future generations); passed on (from former times); a continued tradition; an inheritance"
-],
-[
 "传感器",
 8.02,
 "chuán gǎn qì",
 "sensor; transducer"
+],
+[
+"传单",
+7.33,
+"chuán dān",
+"leaflet; flier; pamphlet"
 ],
 [
 "传销",

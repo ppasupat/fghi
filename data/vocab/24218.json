@@ -1,12 +1,31 @@
 {
 "char": "庚",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "7th heavenly stem",
 "pron": "gēng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"韩庚",
+4.14,
+"???",
+"???"
+],
+[
+"庚",
+3.74,
+"gēng",
+"age; seventh of the ten Heavenly Stems 十天干[shí tiān gān]; seventh in order; letter \"G\" or Roman \"VII\" in list \"A, B, C\", or \"I, II, III\" etc; ancient Chinese compass point: 255°; hepta"
+],
+[
+"陈嘉庚",
+0.9,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 487 804 Q 511 782 537 755 Q 553 740 570 741 Q 583 741 588 757 Q 594 773 584 807 Q 572 838 481 858 Q 463 862 456 859 Q 450 855 452 840 Q 456 827 487 804 Z",
 "M 346 620 Q 392 611 423 619 Q 741 682 759 695 Q 768 702 763 712 Q 756 724 726 732 Q 695 738 664 726 Q 520 675 338 654 C 308 650 316 625 346 620 Z",

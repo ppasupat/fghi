@@ -1,17 +1,30 @@
 {
 "char": "懈",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "idle, relaxed, remiss",
 "pron": "xiè"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "不懈",
-7.53,
+7,
 "bù xiè",
 "untiring; unremitting; indefatigable"
+],
+[
+"坚持不懈",
+7,
+"jiān chí bù xiè",
+"to persevere unremittingly (idiom); to keep going until the end"
+]
+],
+"extraWords": [
+[
+"松懈",
+3.59,
+"sōng xiè",
+"to relax; to relax efforts; to slack off; to take it easy; complacent; undisciplined"
 ]
 ],
 "strokes": [

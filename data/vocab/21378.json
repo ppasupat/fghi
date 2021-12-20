@@ -1,54 +1,66 @@
 {
 "char": "厂",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "factory, workshop; radical 27",
 "pron": "chǎng"
 },
 "words": [
 [
-"工厂",
-5,
-"gōng chǎng",
-"factory; CL:家[jia1],座[zuo4]"
-]
+"厂",
+3,
+"hǎn",
+"\"cliff\" radical in Chinese characters (Kangxi radical 27), occurring in 原, 历, 压 etc"
 ],
-"extraWords": [
+[
+"厂",
+3,
+"chǎng",
+"factory; yard; depot; workhouse; works; (industrial) plant"
+],
+[
+"工厂",
+3,
+"gōng chǎng",
+"factory; CL:家[jiā],座[zuò]"
+],
+[
+"厂长",
+5,
+"chǎng zhǎng",
+"factory director"
+],
 [
 "厂商",
-42.67,
+6,
 "chǎng shāng",
 "manufacturer; producer"
 ],
 [
 "厂家",
-36.31,
+7,
 "chǎng jiā",
 "factory; factory owners"
 ],
 [
+"出厂",
+7,
+"chū chǎng",
+"to leave the factory (of finished goods)"
+]
+],
+"extraWords": [
+[
 "厂房",
 12.04,
 "chǎng fáng",
-"a building used as a factory; factory (building); CL:座[zuo4],棟|栋[dong4]"
-],
-[
-"厂长",
-9.48,
-"chǎng zhǎng",
-"factory director"
+"a building used as a factory; factory (building); CL:座[zuò],栋[dòng]"
 ],
 [
 "电厂",
 7.06,
 "diàn chǎng",
 "electric power plant"
-],
-[
-"出厂",
-6.39,
-"chū chǎng",
-"to leave the factory (of finished goods)"
 ]
 ],
 "strokes": [

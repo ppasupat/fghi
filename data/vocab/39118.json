@@ -1,46 +1,76 @@
 {
 "char": "风",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "wind; air; manners, atmosphere",
 "pron": "fēng"
 },
 "words": [
 [
-"刮风",
-3,
-"guā fēng",
-"to be windy"
+"风",
+1,
+"fēng",
+"wind; news; style; custom; manner; CL:阵[zhèn],丝[sī]"
 ],
 [
-"风格",
-5,
-"fēng gé",
-"style"
+"一路顺风",
+2,
+"yī lù shùn fēng",
+"to have a pleasant journey (idiom)"
 ],
 [
 "风险",
-5,
+3,
 "fēng xiǎn",
 "risk; hazard"
 ],
 [
-"风景",
-5,
-"fēng jǐng",
-"scenery; landscape; CL:個|个[ge4]"
+"风格",
+4,
+"fēng gé",
+"style"
 ],
 [
-"麦克风",
-5,
-"mài kè fēng",
-"microphone (loanword)"
+"风景",
+4,
+"fēng jǐng",
+"scenery; landscape; CL:个[gè]"
 ],
 [
 "风俗",
-5,
+4,
 "fēng sú",
-"social custom; CL:個|个[ge4]"
+"social custom; CL:个[gè]"
+],
+[
+"风度",
+5,
+"fēng dù",
+"elegance (for men); elegant demeanor; grace; poise"
+],
+[
+"风光",
+5,
+"fēng guāng",
+"scene; view; sight; landscape; to be well-regarded; to be well-off; grand (dialect); impressive (dialect)"
+],
+[
+"台风",
+5,
+"tái fēng",
+"stage presence, poise"
+],
+[
+"台风",
+5,
+"tái fēng",
+"hurricane; typhoon"
+],
+[
+"暴风雨",
+6,
+"bào fēng yǔ",
+"rainstorm; storm; tempest"
 ],
 [
 "风暴",
@@ -49,78 +79,186 @@
 "storm; violent commotion; fig. crisis (e.g. revolution, uprising, financial crisis etc)"
 ],
 [
-"风趣",
-6,
-"fēng qù",
-"charm; humor; wit; humorous; witty"
+"暴风骤雨",
+7,
+"bào fēng zhòu yǔ",
+"violent wind and rainstorm; hurricane; tempest"
 ],
 [
-"作风",
-6,
-"zuò fēng",
-"style; style of work; way"
+"不正之风",
+7,
+"bù zhèng zhī fēng",
+"unhealthy tendency"
 ],
 [
-"风度",
-6,
-"fēng dù",
-"elegance (for men); elegant demeanor; grace; poise"
+"出风头",
+7,
+"chū fēng tou",
+"to push oneself forward; to seek fame; to be in the limelight; same as 出锋头[chū fēng tou]"
 ],
 [
-"风光",
-6,
-"fēng guāng",
-"scene; view; sight; landscape; to be well-regarded; to be well-off; grand (dialect); impressive (dialect)"
+"风波",
+7,
+"fēng bō",
+"disturbance; crisis; disputes; restlessness; CL:场[cháng]"
 ],
 [
-"风味",
-6,
-"fēng wèi",
-"distinctive flavor; distinctive style"
+"风采",
+7,
+"fēng cǎi",
+"svelte; elegant manner; graceful bearing"
 ],
 [
-"台风",
-6,
-"tái fēng",
-"stage presence, poise"
+"风餐露宿",
+7,
+"fēng cān lù sù",
+"lit. to eat in the open air and sleep outdoors (idiom); fig. to rough it"
 ],
 [
-"台风",
-6,
-"tái fēng",
-"hurricane; typhoon"
+"风范",
+7,
+"fēng fàn",
+"air; manner; model; paragon; demeanor"
 ],
 [
-"一帆风顺",
-6,
-"yī fān fēng shùn",
-"propitious wind throughout the journey (idiom); plain sailing; to go smoothly; have a nice trip!"
+"风风雨雨",
+7,
+"fēng fēng yǔ yǔ",
+"trials and tribulations; ups and downs"
 ],
 [
-"威风",
-6,
-"wēi fēng",
-"might; awe-inspiring authority; impressive"
+"风和日丽",
+7,
+"fēng hé rì lì",
+"moderate wind, beautiful sun (idiom); fine sunny weather, esp. in springtime"
+],
+[
+"风浪",
+7,
+"fēng làng",
+"wind and waves; stormy sea"
+],
+[
+"风力",
+7,
+"fēng lì",
+"wind force; wind power"
+],
+[
+"风流",
+7,
+"fēng liú",
+"distinguished and accomplished; outstanding; talented in letters and unconventional in lifestyle; romantic; dissolute; loose"
+],
+[
+"风貌",
+7,
+"fēng mào",
+"style; manner; ethos"
 ],
 [
 "风气",
-6,
+7,
 "fēng qì",
 "general mood; atmosphere; common practice"
 ],
 [
-"风土人情",
-6,
-"fēng tǔ rén qíng",
-"local conditions and customs (idiom)"
+"风情",
+7,
+"fēng qíng",
+"mien; bearing; grace; amorous feelings; flirtatious expressions; local conditions and customs; wind force, direction etc"
+],
+[
+"风趣",
+7,
+"fēng qù",
+"charm; humor; wit; humorous; witty"
+],
+[
+"风沙",
+7,
+"fēng shā",
+"sand blown by wind; sandstorm"
+],
+[
+"风尚",
+7,
+"fēng shàng",
+"current custom; current way of doing things"
+],
+[
+"风水",
+7,
+"fēng shuǐ",
+"feng shui; geomancy"
+],
+[
+"风味",
+7,
+"fēng wèi",
+"distinctive flavor; distinctive style"
+],
+[
+"风雨",
+7,
+"fēng yǔ",
+"wind and rain; the elements; (fig.) trials and hardships"
+],
+[
+"风云",
+7,
+"fēng yún",
+"weather; unstable situation"
+],
+[
+"风筝",
+7,
+"fēng zhēng",
+"kite"
+],
+[
+"刮风",
+7,
+"guā fēng",
+"to be windy"
+],
+[
+"呼风唤雨",
+7,
+"hū fēng huàn yǔ",
+"to call the wind and summon the rain (idiom); to exercise magical powers; fig. to stir up troubles"
+],
+[
+"通风",
+7,
+"tōng fēng",
+"airy; ventilation; to ventilate; to disclose information"
+],
+[
+"威风",
+7,
+"wēi fēng",
+"might; awe-inspiring authority; impressive"
+],
+[
+"一帆风顺",
+7,
+"yī fān fēng shùn",
+"propitious wind throughout the journey (idiom); plain sailing; to go smoothly; have a nice trip!"
+],
+[
+"作风",
+7,
+"zuò fēng",
+"style; style of work; way"
 ]
 ],
 "extraWords": [
 [
-"风情",
-20.28,
-"fēng qíng",
-"mien; bearing; grace; amorous feelings; flirtatious expressions; local conditions and customs; wind force, direction etc"
+"东风",
+18.34,
+"???",
+"???"
 ],
 [
 "微风",
@@ -129,40 +267,28 @@
 "breeze; light wind"
 ],
 [
-"风云",
-14.76,
-"fēng yún",
-"weather; unstable situation"
-],
-[
-"风雨",
-12.62,
-"fēng yǔ",
-"wind and rain; the elements; (fig.) trials and hardships"
-],
-[
-"风采",
-12.26,
-"fēng cǎi",
-"svelte; elegant manner; graceful bearing"
-],
-[
 "大风",
 11.49,
 "dà fēng",
-"gale; CL:場|场[chang2]"
+"gale; CL:场[cháng]"
 ],
 [
-"通风",
-9.04,
-"tōng fēng",
-"airy; ventilation; to ventilate; to disclose information"
+"麦克风",
+9.21,
+"mài kè fēng",
+"microphone (loanword)"
 ],
 [
-"风波",
-8.71,
-"fēng bō",
-"disturbance; crisis; disputes; restlessness; CL:場|场[chang2]"
+"党风",
+8.68,
+"???",
+"???"
+],
+[
+"北风",
+8.51,
+"???",
+"???"
 ],
 [
 "飓风",
@@ -171,10 +297,16 @@
 "hurricane"
 ],
 [
-"风貌",
-7.19,
-"fēng mào",
-"style; manner; ethos"
+"寒风",
+7.73,
+"???",
+"???"
+],
+[
+"春风",
+7.35,
+"???",
+"???"
 ],
 [
 "龙卷风",
@@ -189,18 +321,6 @@
 "to suffer a paralyzing stroke"
 ],
 [
-"暴风雨",
-6.35,
-"bào fēng yǔ",
-"rainstorm; storm; tempest"
-],
-[
-"风尚",
-6.21,
-"fēng shàng",
-"current custom; current way of doing things"
-],
-[
 "兜风",
 6.2,
 "dōu fēng",
@@ -213,40 +333,16 @@
 "sound of the wind; rumor; talk; news; reputation"
 ],
 [
-"风筝",
-6.01,
-"fēng zhēng",
-"kite"
-],
-[
-"风水",
-5.95,
-"fēng shuǐ",
-"feng shui; geomancy"
-],
-[
-"风范",
-5.93,
-"fēng fàn",
-"air; manner; model; paragon; demeanor"
-],
-[
 "风衣",
 5.81,
 "fēng yī",
-"windbreaker; wind cheater; wind jacket; CL:件[jian4]"
+"windbreaker; wind cheater; wind jacket; CL:件[jiàn]"
 ],
 [
 "随风",
 5.66,
 "suí fēng",
 "wind-borne; tossed about by the wind"
-],
-[
-"风力",
-5.32,
-"fēng lì",
-"wind force; wind power"
 ]
 ],
 "strokes": [

@@ -1,94 +1,112 @@
 {
 "char": "平",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "flat, level, even; peaceful",
 "pron": "píng"
 },
 "words": [
 [
-"水平",
-3,
-"shuǐ píng",
-"level (of achievement etc); standard; horizontal"
-],
-[
-"平时",
-4,
-"píng shí",
-"ordinarily; in normal times; in peacetime"
+"公平",
+2,
+"gōng píng",
+"fair; impartial"
 ],
 [
 "平",
-5,
+2,
 "Píng",
 "surname Ping"
 ],
 [
 "平",
-5,
+2,
 "píng",
-"flat; level; equal; to tie (make the same score); to draw (score); calm; peaceful; see also 平聲|平声[ping2 sheng1]"
-],
-[
-"公平",
-5,
-"gōng píng",
-"fair; impartial"
-],
-[
-"和平",
-5,
-"Hé píng",
-"Heping District of Shenyang city 瀋陽市|沈阳市[Shen3 yang2 shi4], Liaoning; Heping or Hoping Township in Taichung County 臺中縣|台中县[Tai2 zhong1 Xian4], Taiwan"
-],
-[
-"和平",
-5,
-"hé píng",
-"peace; peaceful"
-],
-[
-"平静",
-5,
-"píng jìng",
-"tranquil; undisturbed; serene"
-],
-[
-"平常",
-5,
-"píng cháng",
-"ordinary; common; usually; ordinarily"
-],
-[
-"平衡",
-5,
-"píng héng",
-"balance; equilibrium"
+"flat; level; equal; to tie (make the same score); to draw (score); calm; peaceful; see also 平声[píng shēng]"
 ],
 [
 "平安",
-5,
+2,
 "píng ān",
 "safe and sound; well; without mishap; quiet and safe; at peace"
 ],
 [
+"平常",
+2,
+"píng cháng",
+"ordinary; common; usually; ordinarily"
+],
+[
 "平等",
-5,
+2,
 "píng děng",
 "equal; equality"
 ],
 [
+"平时",
+2,
+"píng shí",
+"ordinarily; in normal times; in peacetime"
+],
+[
+"水平",
+2,
+"shuǐ píng",
+"level (of achievement etc); standard; horizontal"
+],
+[
+"一路平安",
+2,
+"yī lù píng ān",
+"to have a pleasant journey; Bon voyage!"
+],
+[
+"和平",
+3,
+"Hé píng",
+"Heping District of Shenyang city 沈阳市[Shěn yáng shì], Liaoning; Heping or Hoping Township in Taichung County 台中县[Tái zhōng Xiàn], Taiwan"
+],
+[
+"和平",
+3,
+"hé píng",
+"peace; peaceful"
+],
+[
+"平方",
+4,
+"píng fāng",
+"square (as in square foot, square mile, square root)"
+],
+[
+"平静",
+4,
+"píng jìng",
+"tranquil; undisturbed; serene"
+],
+[
 "平均",
-5,
+4,
 "píng jūn",
 "average; on average; evenly; in equal proportions"
 ],
 [
-"平方",
+"平稳",
+4,
+"píng wěn",
+"smooth; steady"
+],
+[
+"平坦",
 5,
-"píng fāng",
-"square (as in square foot, square mile, square root)"
+"píng tǎn",
+"level; even; smooth; flat"
+],
+[
+"平原",
+5,
+"píng yuán",
+"field; plain; CL:个[gè]"
 ],
 [
 "平凡",
@@ -97,60 +115,126 @@
 "commonplace; ordinary; mediocre"
 ],
 [
-"平行",
-6,
-"píng xíng",
-"parallel; of equal rank; simultaneous"
-],
-[
-"平原",
-6,
-"píng yuán",
-"field; plain; CL:個|个[ge4]"
-],
-[
-"平面",
-6,
-"píng miàn",
-"plane (flat surface); print media"
-],
-[
-"平庸",
-6,
-"píng yōng",
-"mediocre; indifferent; commonplace"
-],
-[
-"平坦",
-6,
-"píng tǎn",
-"level; even; smooth; flat"
-]
-],
-"extraWords": [
-[
 "平方米",
-119.24,
+6,
 "píng fāng mǐ",
 "square meter"
 ],
 [
+"平衡",
+6,
+"píng héng",
+"balance; equilibrium"
+],
+[
 "平台",
-80.53,
+6,
 "píng tái",
 "platform; terrace; flat-roofed building"
 ],
+[
+"摆平",
+7,
+"bǎi píng",
+"to be fair; to be impartial; to settle (a matter etc)"
+],
+[
+"不平",
+7,
+"bù píng",
+"uneven; injustice; unfairness; wrong; grievance; indignant; dissatisfied"
+],
+[
+"和平共处",
+7,
+"hé píng gòng chǔ",
+"peaceful coexistence of nations, societies etc"
+],
+[
+"平常心",
+7,
+"píng cháng xīn",
+"levelheadedness; calmness; equanimity"
+],
+[
+"平淡",
+7,
+"píng dàn",
+"flat; dull; ordinary; nothing special"
+],
+[
+"平和",
+7,
+"Píng hé",
+"Pinghe county in Zhangzhou 漳州[Zhāng zhōu], Fujian"
+],
+[
+"平和",
+7,
+"píng hé",
+"gentle; mild; moderate; placid"
+],
+[
+"平价",
+7,
+"píng jià",
+"reasonably priced; inexpensive; to keep prices down; (currency exchange) parity"
+],
+[
+"平面",
+7,
+"píng miàn",
+"plane (flat surface); print media"
+],
+[
+"平民",
+7,
+"píng mín",
+"ordinary people; commoner; civilian"
+],
+[
+"平日",
+7,
+"píng rì",
+"ordinary day; everyday; ordinarily; usually"
+],
+[
+"平息",
+7,
+"píng xī",
+"to settle (a dispute); to quieten down; to suppress"
+],
+[
+"生平",
+7,
+"shēng píng",
+"life (a person's whole life); in one's entire life"
+],
+[
+"太平",
+7,
+"Tài píng",
+"place name"
+],
+[
+"太平",
+7,
+"tài píng",
+"peace and security"
+],
+[
+"天平",
+7,
+"tiān píng",
+"scales (to weigh things)"
+]
+],
+"extraWords": [
 [
 "邓小平",
 29.84,
 "Dèng Xiǎo píng",
 "Deng Xiaoping (1904-1997), Chinese communist leader, de facto leader of PRC 1978-1990 and creator of \"socialism with Chinese characteristics\""
-],
-[
-"平稳",
-22.77,
-"píng wěn",
-"smooth; steady"
 ],
 [
 "平板",
@@ -171,22 +255,16 @@
 "square meter; short for 平方米"
 ],
 [
-"平淡",
-14.51,
-"píng dàn",
-"flat; dull; ordinary; nothing special"
-],
-[
 "太平洋",
 14.27,
 "Tài píng Yáng",
 "Pacific Ocean"
 ],
 [
-"平民",
-13.68,
-"píng mín",
-"ordinary people; commoner; civilian"
+"不公平",
+11.39,
+"???",
+"???"
 ],
 [
 "持平",
@@ -201,58 +279,22 @@
 "disequilibrium"
 ],
 [
-"摆平",
-9.42,
-"bǎi píng",
-"to be fair; to be impartial; to settle (a matter etc)"
+"高水平",
+9.99,
+"???",
+"???"
 ],
 [
-"太平",
-9.09,
-"Tài píng",
-"place name"
-],
-[
-"太平",
-9.09,
-"tài píng",
-"peace and security"
-],
-[
-"平日",
-8.74,
-"píng rì",
-"ordinary day; everyday; ordinarily; usually"
-],
-[
-"平和",
-8.64,
-"Píng hé",
-"Pinghe county in Zhangzhou 漳州[Zhang1 zhou1], Fujian"
-],
-[
-"平和",
-8.64,
-"píng hé",
-"gentle; mild; moderate; placid"
-],
-[
-"平息",
-6.18,
-"píng xī",
-"to settle (a dispute); to quieten down; to suppress"
+"平行",
+7.61,
+"píng xíng",
+"parallel; of equal rank; simultaneous"
 ],
 [
 "平局",
 5.41,
 "píng jú",
 "a draw (in competition); a tie"
-],
-[
-"天平",
-5.09,
-"tiān píng",
-"scales (to weigh things)"
 ],
 [
 "平均值",

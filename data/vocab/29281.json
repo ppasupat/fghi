@@ -1,23 +1,30 @@
 {
 "char": "牡",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "male of animals; bolt of door",
 "pron": "mǔ"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "牡丹",
-6.86,
+7,
 "Mǔ dan",
-"Mudan District of Heze City 菏澤市|菏泽市[He2 ze2 Shi4], Shandong; Mutan township in Pingtung County 屏東縣|屏东县[Ping2 dong1 Xian4], Taiwan"
+"Mudan District of Heze City 菏泽市[Hé zé Shì], Shandong; Mutan township in Pingtung County 屏东县[Píng dōng Xiàn], Taiwan"
 ],
 [
 "牡丹",
-6.86,
+7,
 "mǔ dan",
 "tree peony (Paeonia suffruticosa)"
+]
+],
+"extraWords": [
+[
+"牡",
+7.04,
+"mǔ",
+"(of a bird, animal or plant) male; key; hills"
 ]
 ],
 "strokes": [

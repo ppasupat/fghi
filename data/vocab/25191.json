@@ -1,48 +1,66 @@
 {
 "char": "执",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "hold in hand; keep; carry out",
 "pron": "zhí"
 },
 "words": [
 [
-"执照",
-5,
-"zhí zhào",
-"license; permit"
-],
-[
 "执行",
-6,
+5,
 "zhí xíng",
 "to implement; to carry out; to execute; to run"
 ],
 [
 "固执",
-6,
+7,
 "gù zhí",
 "obstinate; stubborn; to fixate on; to cling to"
 ],
 [
+"争执",
+7,
+"zhēng zhí",
+"to dispute; to disagree; to argue opinionatedly; to wrangle"
+],
+[
+"执法",
+7,
+"zhí fǎ",
+"to enforce a law; law enforcement"
+],
+[
+"执意",
+7,
+"zhí yì",
+"to be determined to; to insist on"
+],
+[
+"执照",
+7,
+"zhí zhào",
+"license; permit"
+],
+[
 "执着",
-6,
+7,
 "zhí zhuó",
 "to be strongly attached to; to be dedicated; to cling to"
 ]
 ],
 "extraWords": [
 [
-"执法",
-74.93,
-"zhí fǎ",
-"to enforce a law; law enforcement"
-],
-[
 "执政",
 19.37,
 "zhí zhèng",
 "to hold power; in office"
+],
+[
+"执",
+16.49,
+"zhí",
+"to execute (a plan); to grasp"
 ],
 [
 "执教",
@@ -51,16 +69,28 @@
 "to teach; to be a teacher; to train; to coach"
 ],
 [
-"争执",
-9.72,
-"zhēng zhí",
-"to dispute; to disagree; to argue opinionatedly; to wrangle"
+"执行官",
+7.62,
+"???",
+"???"
 ],
 [
 "执业",
 7.39,
 "zhí yè",
 "to work in a profession (e.g. doctor, lawyer); practitioner; professional"
+],
+[
+"营业执照",
+6.78,
+"???",
+"???"
+],
+[
+"执著",
+5.82,
+"???",
+"???"
 ],
 [
 "执勤",

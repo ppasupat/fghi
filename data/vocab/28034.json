@@ -1,6 +1,6 @@
 {
 "char": "涂",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "surname; name of certain rivers",
 "pron": "tú"
@@ -8,15 +8,33 @@
 "words": [
 [
 "糊涂",
-5,
+7,
 "hú tu",
 "muddled; silly; confused"
 ],
 [
-"涂抹",
-6,
-"tú mǒ",
-"to paint; to smear; to apply (makeup etc); to doodle; to erase; to obliterate"
+"涂",
+7,
+"tú",
+"to apply (paint etc); to smear; to daub; to blot out; to scribble; to scrawl; (literary) mud; street"
+],
+[
+"涂",
+7,
+"Tú",
+"surname Tu"
+],
+[
+"涂",
+7,
+"tú",
+"variant of 途[tú]"
+],
+[
+"一塌糊涂",
+7,
+"yī tā hú tu",
+"muddled and completely collapsing (idiom); in an awful condition; complete shambles; a total mess"
 ]
 ],
 "extraWords": [
@@ -27,10 +45,10 @@
 "paint"
 ],
 [
-"一塌糊涂",
-6.8,
-"yī tā hú tu",
-"muddled and completely collapsing (idiom); in an awful condition; complete shambles; a total mess"
+"涂抹",
+6.33,
+"tú mǒ",
+"to paint; to smear; to apply (makeup etc); to doodle; to erase; to obliterate"
 ]
 ],
 "strokes": [

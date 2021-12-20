@@ -1,32 +1,43 @@
 {
 "char": "诈",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cheat, defraud, swindle; trick",
 "pron": "zhà"
 },
 "words": [
 [
-"诈骗",
-6,
-"zhà piàn",
-"to defraud; to swindle; to blackmail"
-]
+"讹诈",
+7,
+"é zhà",
+"to extort under false pretenses; to blackmail; to bluff; to defraud"
 ],
-"extraWords": [
+[
+"奸诈",
+7,
+"jiān zhà",
+"treachery; devious; a rogue"
+],
 [
 "欺诈",
-8.34,
+7,
 "qī zhà",
 "to cheat"
 ],
 [
 "敲诈",
-6.86,
+7,
 "qiāo zhà",
 "to rip off; to extort (money); extortion; blackmail"
+],
+[
+"诈骗",
+7,
+"zhà piàn",
+"to defraud; to swindle; to blackmail"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 290 745 Q 324 720 361 688 Q 377 673 395 676 Q 408 677 412 692 Q 416 710 405 743 Q 390 779 281 800 Q 263 803 256 799 Q 250 795 253 780 Q 257 767 290 745 Z",
 "M 157 499 Q 103 484 74 482 Q 58 483 56 475 Q 52 466 63 458 Q 106 431 156 450 Q 267 498 274 496 Q 275 496 278 493 Q 290 486 283 456 Q 283 275 248 158 Q 230 127 276 70 Q 286 57 298 64 Q 305 71 318 98 Q 364 153 459 250 Q 472 263 470 270 Q 469 279 456 269 Q 408 238 361 203 Q 309 161 319 224 Q 318 288 340 448 Q 344 473 369 499 Q 382 509 372 524 Q 360 540 319 560 Q 306 567 287 555 Q 205 513 157 499 Z",

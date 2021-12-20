@@ -1,60 +1,84 @@
 {
 "char": "材",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "material, stuff; timber; talent",
 "pron": "cái"
 },
 "words": [
 [
+"教材",
+3,
+"jiào cái",
+"teaching material; CL:本[běn]"
+],
+[
 "材料",
 4,
 "cái liào",
-"material; data; makings; stuff; CL:個|个[ge4],種|种[zhong3]"
+"material; data; makings; stuff; CL:个[gè],种[zhǒng]"
 ],
 [
 "身材",
-5,
+4,
 "shēn cái",
 "stature; build (height and weight); figure"
 ],
 [
-"教材",
+"题材",
 5,
-"jiào cái",
-"teaching material; CL:本[ben3]"
+"tí cái",
+"subject matter"
+],
+[
+"棺材",
+7,
+"guān cai",
+"coffin; CL:具[jù],口[kǒu]"
+],
+[
+"木材",
+7,
+"mù cái",
+"wood"
 ],
 [
 "器材",
-6,
+7,
 "qì cái",
 "equipment; material"
 ],
 [
-"题材",
-6,
-"tí cái",
-"subject matter"
+"素材",
+7,
+"sù cái",
+"source material (in literature and art)"
+],
+[
+"药材",
+7,
+"yào cái",
+"medicinal ingredient"
+],
+[
+"原材料",
+7,
+"yuán cái liào",
+"raw materials; unprocessed materials"
 ]
 ],
 "extraWords": [
+[
+"材",
+32.49,
+"cái",
+"material; timber; ability; aptitude; a capable individual; coffin (old)"
+],
 [
 "建材",
 17.64,
 "jiàn cái",
 "building materials"
-],
-[
-"原材料",
-16.97,
-"yuán cái liào",
-"raw materials; unprocessed materials"
-],
-[
-"棺材",
-15.26,
-"guān cai",
-"coffin; CL:具[ju4],口[kou3]"
 ],
 [
 "钢材",
@@ -63,22 +87,10 @@
 "steel (as raw material); steel sheets, bars, tubes, ingots, wire etc"
 ],
 [
-"木材",
-10.25,
-"mù cái",
-"wood"
-],
-[
-"药材",
-6.57,
-"yào cái",
-"medicinal ingredient"
-],
-[
-"素材",
-6.12,
-"sù cái",
-"source material (in literature and art)"
+"新材料",
+5.08,
+"???",
+"???"
 ]
 ],
 "strokes": [

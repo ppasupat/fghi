@@ -1,34 +1,76 @@
 {
 "char": "相",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "mutual, reciprocal, each other",
 "pron": "xiāng, xiàng"
 },
 "words": [
 [
+"相同",
+2,
+"xiāng tóng",
+"identical; same"
+],
+[
 "相信",
-3,
+2,
 "xiāng xìn",
 "to be convinced (that sth is true); to believe; to accept sth as true"
 ],
 [
-"照相机",
-3,
-"zhào xiàng jī",
-"camera; CL:個|个[ge4],架[jia4],部[bu4],台[tai2],隻|只[zhi1]"
+"相机",
+2,
+"xiàng jī",
+"camera (abbr. for 照相机[zhào xiàng jī]); at the opportune moment; as the circumstances allow"
+],
+[
+"照相",
+2,
+"zhào xiàng",
+"to take a photograph"
 ],
 [
 "互相",
-4,
+3,
 "hù xiāng",
 "each other; mutually; mutual"
 ],
 [
-"相同",
+"相比",
+3,
+"xiāng bǐ",
+"to compare"
+],
+[
+"相当",
+3,
+"xiāng dāng",
+"equivalent to; appropriate; considerably; to a certain extent; fairly; quite"
+],
+[
+"相关",
+3,
+"xiāng guān",
+"related; relevant; pertinent; to be interrelated; (statistics) correlation"
+],
+[
+"相互",
+3,
+"xiāng hù",
+"each other; mutual"
+],
+[
+"相似",
+3,
+"xiāng sì",
+"to resemble; similar; like; resemblance; similarity"
+],
+[
+"相处",
 4,
-"xiāng tóng",
-"identical; same"
+"xiāng chǔ",
+"to be in contact (with sb); to associate; to interact; to get along (well, poorly)"
 ],
 [
 "相反",
@@ -37,120 +79,234 @@
 "opposite; contrary"
 ],
 [
-"相当",
-5,
-"xiāng dāng",
-"equivalent to; appropriate; considerably; to a certain extent; fairly; quite"
-],
-[
-"相处",
-5,
-"xiāng chǔ",
-"to be in contact (with sb); to associate; to interact; to get along (well, poorly)"
-],
-[
-"相关",
-5,
-"xiāng guān",
-"related; relevant; pertinent; to be interrelated; (statistics) correlation"
-],
-[
-"相似",
-5,
-"xiāng sì",
-"to resemble; similar; like; resemblance; similarity"
-],
-[
-"相对",
-5,
-"xiāng duì",
-"relatively; opposite; to resist; to oppose; relative; vis-a-vis; counterpart"
-],
-[
-"真相",
-6,
-"zhēn xiàng",
-"the truth about sth; the actual facts"
-],
-[
-"相应",
-6,
-"xiāng yìng",
-"to correspond; answering (one another); to agree (among the part); corresponding; relevant; appropriate; (modify) accordingly"
-],
-[
-"相差",
-6,
-"xiāng chà",
-"to differ; discrepancy between"
-],
-[
-"不相上下",
-6,
-"bù xiāng shàng xià",
-"equally matched; about the same"
-],
-[
-"相声",
-6,
-"xiàng sheng",
-"comic dialogue; sketch; crosstalk"
+"相片",
+4,
+"xiàng piàn",
+"image; photograph; CL:张[zhāng]"
 ],
 [
 "相等",
-6,
+5,
 "xiāng děng",
 "equal; equally; equivalent"
 ],
 [
-"相辅相成",
+"相应",
+5,
+"xiāng yìng",
+"to correspond; answering (one another); to agree (among the part); corresponding; relevant; appropriate; (modify) accordingly"
+],
+[
+"相声",
+5,
+"xiàng sheng",
+"comic dialogue; sketch; crosstalk"
+],
+[
+"真相",
+5,
+"zhēn xiàng",
+"the truth about sth; the actual facts"
+],
+[
+"首相",
 6,
-"xiāng fǔ xiāng chéng",
-"to complement one another (idiom)"
-]
-],
-"extraWords": [
-[
-"相比",
-101.38,
-"xiāng bǐ",
-"to compare"
+"shǒu xiàng",
+"prime minister (of Japan or UK etc)"
 ],
 [
-"相互",
-73.67,
-"xiāng hù",
-"each other; mutual"
+"不相上下",
+7,
+"bù xiāng shàng xià",
+"equally matched; about the same"
 ],
 [
-"相机",
-41.88,
-"xiàng jī",
-"camera (abbr. for 照相機|照相机[zhao4 xiang4 ji1]); at the opportune moment; as the circumstances allow"
+"出洋相",
+7,
+"chū yáng xiàng",
+"to make a fool of oneself"
 ],
 [
-"相当于",
-28.8,
-"xiāng dāng yú",
-"equivalent to"
+"竞相",
+7,
+"jìng xiāng",
+"competitive; eagerly; to vie"
 ],
 [
 "亮相",
-26.59,
+7,
 "liàng xiàng",
 "to strike a pose (Chinese opera); (fig.) to make a public appearance; to come out in public (revealing one's true personality, opinions etc); (of a product) to appear on the market or at a trade show etc"
 ],
 [
+"萍水相逢",
+7,
+"píng shuǐ xiāng féng",
+"strangers coming together by chance (idiom)"
+],
+[
+"恰恰相反",
+7,
+"qià qià xiāng fǎn",
+"just the opposite"
+],
+[
+"似曾相识",
+7,
+"sì céng xiāng shí",
+"déjà vu (the experience of seeing exactly the same situation a second time); seemingly familiar; apparently already acquainted"
+],
+[
+"素不相识",
+7,
+"sù bù xiāng shí",
+"to be total strangers (idiom)"
+],
+[
+"息息相关",
+7,
+"xī xī xiāng guān",
+"closely bound up (idiom); intimately related"
+],
+[
+"相伴",
+7,
+"xiāng bàn",
+"to accompany sb; to accompany each other"
+],
+[
+"相比之下",
+7,
+"xiāng bǐ zhī xià",
+"by comparison"
+],
+[
+"相差",
+7,
+"xiāng chà",
+"to differ; discrepancy between"
+],
+[
+"相传",
+7,
+"xiāng chuán",
+"to pass on; to hand down; tradition has it that ...; according to legend"
+],
+[
+"相当于",
+7,
+"xiāng dāng yú",
+"equivalent to"
+],
+[
+"相对",
+7,
+"xiāng duì",
+"relatively; opposite; to resist; to oppose; relative; vis-a-vis; counterpart"
+],
+[
+"相对而言",
+7,
+"xiāng duì ér yán",
+"relatively speaking; comparatively speaking"
+],
+[
+"相辅相成",
+7,
+"xiāng fǔ xiāng chéng",
+"to complement one another (idiom)"
+],
+[
 "相继",
-24.47,
+7,
 "xiāng jì",
 "in succession; following closely"
 ],
 [
-"首相",
-19.37,
-"shǒu xiàng",
-"prime minister (of Japan or UK etc)"
+"相连",
+7,
+"xiāng lián",
+"to link; to join; link; connection"
+],
+[
+"相识",
+7,
+"xiāng shí",
+"to get to know each other; acquaintance"
+],
+[
+"相提并论",
+7,
+"xiāng tí bìng lùn",
+"to discuss two disparate things together (idiom); to mention on equal terms; to place on a par with; (often with negatives: impossible to mention X in the same breath as Y)"
+],
+[
+"相通",
+7,
+"xiāng tōng",
+"interlinked; connected; communicating; in communication; accommodating"
+],
+[
+"相依为命",
+7,
+"xiāng yī wéi mìng",
+"mutually dependent for life (idiom); to rely upon one another for survival; interdependent"
+],
+[
+"相遇",
+7,
+"xiāng yù",
+"to meet; to encounter; to come across"
+],
+[
+"相约",
+7,
+"xiāng yuē",
+"to agree (on a meeting place, date etc); to reach agreement; to make an appointment"
+],
+[
+"长相",
+7,
+"zhǎng xiàng",
+"appearance; looks; profile; countenance"
+],
+[
+"朝夕相处",
+7,
+"zhāo xī xiāng chǔ",
+"to spend all one's time together (idiom)"
+],
+[
+"针锋相对",
+7,
+"zhēn fēng xiāng duì",
+"to oppose each other with equal harshness (idiom); tit for tat; measure for measure"
+],
+[
+"自相矛盾",
+7,
+"zì xiāng máo dùn",
+"to contradict oneself; self-contradictory; inconsistent"
+]
+],
+"extraWords": [
+[
+"相",
+156.81,
+"Xiāng",
+"surname Xiang"
+],
+[
+"相",
+156.81,
+"xiāng",
+"each other; one another; mutually; fret on the neck of a pipa 琵琶[pí pa] (a fret on the soundboard is called a 品[pǐn])"
+],
+[
+"相",
+156.81,
+"xiàng",
+"appearance; portrait; picture; government minister; (physics) phase; (literary) to appraise (esp. by scrutinizing physical features); to read sb's fortune (by physiognomy, palmistry etc)"
 ],
 [
 "相爱",
@@ -159,58 +315,22 @@
 "to love each other"
 ],
 [
-"相遇",
-15.99,
-"xiāng yù",
-"to meet; to encounter; to come across"
-],
-[
 "相符",
 10.55,
 "xiāng fú",
 "to match; to tally"
 ],
 [
-"相识",
-10.07,
-"xiāng shí",
-"to get to know each other; acquaintance"
-],
-[
-"相连",
-9.65,
-"xiāng lián",
-"to link; to join; link; connection"
-],
-[
-"相伴",
-8.94,
-"xiāng bàn",
-"to accompany sb; to accompany each other"
-],
-[
-"相片",
-8.94,
-"xiàng piàn",
-"image; photograph; CL:張|张[zhang1]"
+"相适应",
+8.73,
+"???",
+"???"
 ],
 [
 "密切相关",
 8.67,
 "mì qiè xiāng guān",
 "closely related"
-],
-[
-"照相",
-8.56,
-"zhào xiàng",
-"to take a photograph"
-],
-[
-"长相",
-8.29,
-"zhǎng xiàng",
-"appearance; looks; profile; countenance"
 ],
 [
 "相见",
@@ -223,6 +343,12 @@
 7.51,
 "xiāng qīn",
 "blind date; arranged interview to evaluate a proposed marriage partner (Taiwan pr. [xiang4 qin1]); to be deeply attached to each other"
+],
+[
+"照相机",
+7.45,
+"zhào xiàng jī",
+"camera; CL:个[gè],架[jià],部[bù],台[tái],只[zhī]"
 ],
 [
 "相近",
@@ -267,12 +393,6 @@
 "correlation"
 ],
 [
-"相约",
-5.84,
-"xiāng yuē",
-"to agree (on a meeting place, date etc); to reach agreement; to make an appointment"
-],
-[
 "相册",
 5.54,
 "xiàng cè",
@@ -289,6 +409,12 @@
 5.16,
 "xiàng mào",
 "appearance"
+],
+[
+"相比较",
+5.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

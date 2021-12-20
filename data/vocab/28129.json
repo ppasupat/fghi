@@ -1,6 +1,6 @@
 {
 "char": "淡",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "weak, watery; insipid, tasteless",
 "pron": "dàn"
@@ -8,39 +8,39 @@
 "words": [
 [
 "淡",
-5,
+4,
 "dàn",
-"insipid; diluted; weak; mild; light in color; tasteless; indifferent; (variant of 氮[dan4]) nitrogen"
+"insipid; diluted; weak; mild; light in color; tasteless; indifferent; (variant of 氮[dàn]) nitrogen"
+],
+[
+"淡化",
+7,
+"dàn huà",
+"to water down; to play down; to trivialize; to weaken; to become dull with time; to desalinate; desalination"
+],
+[
+"淡季",
+7,
+"dàn jì",
+"off season; slow business season; see also 旺季[wàng jì]"
 ],
 [
 "冷淡",
-5,
+7,
 "lěng dàn",
 "cold; indifferent"
 ],
 [
+"平淡",
+7,
+"píng dàn",
+"flat; dull; ordinary; nothing special"
+],
+[
 "清淡",
-5,
+7,
 "qīng dàn",
 "light (of food, not greasy or strongly flavored); insipid; slack (sales)"
-],
-[
-"淡水",
-6,
-"Dàn shuǐ",
-"Tamsui or Danshui, district of New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
-],
-[
-"淡水",
-6,
-"dàn shuǐ",
-"potable water (water with low salt content); fresh water"
-],
-[
-"淡季",
-6,
-"dàn jì",
-"off season; slow business season; see also 旺季[wang4 ji4]"
 ]
 ],
 "extraWords": [
@@ -49,12 +49,6 @@
 24.57,
 "dàn dàn",
 "faint; dim; dull; insipid; unenthusiastic; indifferent"
-],
-[
-"平淡",
-14.51,
-"píng dàn",
-"flat; dull; ordinary; nothing special"
 ],
 [
 "淡然",
@@ -67,12 +61,6 @@
 6.8,
 "chě dàn",
 "to talk nonsense"
-],
-[
-"淡化",
-6.61,
-"dàn huà",
-"to water down; to play down; to trivialize; to weaken; to become dull with time; to desalinate; desalination"
 ]
 ],
 "strokes": [

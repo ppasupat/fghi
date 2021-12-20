@@ -1,6 +1,6 @@
 {
 "char": "触",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "butt, ram, gore; touch",
 "pron": "chù"
@@ -13,30 +13,60 @@
 "to touch; to contact; access; in touch with"
 ],
 [
+"触动",
+7,
+"chù dòng",
+"to touch; to stir up (trouble or emotions); to move (sb's emotions or worry)"
+],
+[
 "触犯",
-6,
+7,
 "chù fàn",
 "to violate; to offend"
+],
+[
+"触觉",
+7,
+"chù jué",
+"touch; sense of touch; tactile"
+],
+[
+"触摸",
+7,
+"chù mō",
+"to touch"
+],
+[
+"触目惊心",
+7,
+"chù mù jīng xīn",
+"lit. shocks the eye, astonishes the heart (idiom); shocking; horrible to see; a ghastly sight"
+],
+[
+"抵触",
+7,
+"dǐ chù",
+"to conflict; to contradict"
+],
+[
+"感触",
+7,
+"gǎn chù",
+"one's thoughts and feelings; emotional stirring; moved; touched"
 ]
 ],
 "extraWords": [
+[
+"触",
+23.3,
+"chù",
+"to touch; to make contact with sth; to stir up sb's emotions"
+],
 [
 "触及",
 9.09,
 "chù jí",
 "to touch (physically, one's feelings etc); to touch on (a topic)"
-],
-[
-"触摸",
-8.43,
-"chù mō",
-"to touch"
-],
-[
-"触动",
-6.59,
-"chù dòng",
-"to touch; to stir up (trouble or emotions); to move (sb's emotions or worry)"
 ]
 ],
 "strokes": [

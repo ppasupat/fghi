@@ -1,12 +1,32 @@
 {
 "char": "禅",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "meditation, contemplation (DKW: 24787')",
 "pron": "chán, shàn"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"禅杖",
+7,
+"chán zhàng",
+"the staff of a Buddhist monk"
+]
+],
+"extraWords": [
+[
+"禅",
+7.75,
+"chán",
+"dhyana (Sanskrit); Zen; meditation (Buddhism)"
+],
+[
+"禅",
+7.75,
+"shàn",
+"to abdicate"
+]
+],
 "strokes": [
 "M 264 766 Q 304 718 345 697 Q 361 694 371 709 Q 377 722 374 740 Q 362 783 277 808 Q 259 812 249 809 Q 242 808 245 794 Q 246 781 264 766 Z",
 "M 256 376 Q 281 413 311 458 Q 345 513 392 549 Q 408 561 396 576 Q 377 592 347 602 Q 325 611 307 599 Q 226 545 83 538 Q 70 541 67 532 Q 64 522 79 512 Q 116 484 134 487 Q 159 493 269 535 Q 285 541 288 534 Q 294 524 281 502 Q 202 346 36 187 Q 21 177 24 173 Q 27 170 40 175 Q 130 221 232 344 L 256 376 Z",

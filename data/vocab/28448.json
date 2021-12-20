@@ -1,6 +1,6 @@
 {
 "char": "漠",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "desert; aloof, indifferent, cool",
 "pron": "mò"
@@ -10,17 +10,22 @@
 "沙漠",
 5,
 "shā mò",
-"desert; CL:個|个[ge4]"
-]
+"desert; CL:个[gè]"
 ],
-"extraWords": [
 [
 "冷漠",
-13.4,
+7,
 "lěng mò",
 "cold and detached towards sb; lack of regard; indifference; neglect"
+],
+[
+"漠然",
+7,
+"mò rán",
+"indifferent; apathetic; cold"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 206 696 Q 234 674 264 648 Q 277 636 294 638 Q 304 639 309 652 Q 313 668 302 697 Q 295 716 264 728 Q 194 752 176 743 Q 172 739 173 726 Q 177 716 206 696 Z",
 "M 115 510 Q 158 456 193 442 Q 209 438 219 453 Q 226 466 223 484 Q 211 527 129 551 Q 111 557 101 553 Q 95 552 97 538 Q 98 525 115 510 Z",

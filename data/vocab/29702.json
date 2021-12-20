@@ -1,40 +1,88 @@
 {
 "char": "理",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "reason, logic; manage",
 "pron": "lǐ"
 },
 "words": [
 [
+"道理",
+2,
+"dào li",
+"reason; argument; sense; principle; basis; justification; CL:个[gè]"
+],
+[
 "经理",
-3,
+2,
 "jīng lǐ",
-"manager; director; CL:個|个[ge4],位[wei4],名[ming2]"
+"manager; director; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"理想",
+2,
+"lǐ xiǎng",
+"an ideal; a dream; ideal; perfect"
+],
+[
+"办理",
+3,
+"bàn lǐ",
+"to handle; to transact; to conduct"
+],
+[
+"处理",
+3,
+"chǔ lǐ",
+"to handle; to treat; to deal with; to process; to deal with a criminal case; to mete out punishment; to offer for sale at a reduced price; to punish"
+],
+[
+"管理",
+3,
+"guǎn lǐ",
+"to supervise; to manage; to administer; management; administration; CL:个[gè]"
+],
+[
+"合理",
+3,
+"hé lǐ",
+"rational; reasonable; fair"
+],
+[
+"理发",
+3,
+"lǐ fà",
+"a barber; hairdressing"
 ],
 [
 "理解",
-4,
+3,
 "lǐ jiě",
 "to comprehend; to understand; comprehension; understanding"
 ],
 [
-"管理",
-4,
-"guǎn lǐ",
-"to supervise; to manage; to administer; management; administration; CL:個|个[ge4]"
+"理论",
+3,
+"lǐ lùn",
+"theory; CL:个[gè]; to argue; to take notice of"
+],
+[
+"理由",
+3,
+"lǐ yóu",
+"reason; grounds; justification; CL:个[gè]"
 ],
 [
 "整理",
-4,
+3,
 "zhěng lǐ",
 "to arrange; to tidy up; to sort out; to straighten out; to list systematically; to collate (data, files); to pack (luggage)"
 ],
 [
-"理想",
+"心理",
 4,
-"lǐ xiǎng",
-"an ideal; a dream; ideal; perfect"
+"xīn lǐ",
+"psychology; mentality"
 ],
 [
 "修理",
@@ -43,82 +91,58 @@
 "to repair; to fix; to prune; to trim; (coll.) to sort sb out; to fix sb"
 ],
 [
-"理发",
-4,
-"lǐ fà",
-"a barber; hairdressing"
-],
-[
-"处理",
-5,
-"chǔ lǐ",
-"to handle; to treat; to deal with; to process; to deal with a criminal case; to mete out punishment; to offer for sale at a reduced price; to punish"
-],
-[
-"理由",
-5,
-"lǐ yóu",
-"reason; grounds; justification; CL:個|个[ge4]"
-],
-[
-"心理",
-5,
-"xīn lǐ",
-"psychology; mentality"
-],
-[
-"道理",
-5,
-"dào li",
-"reason; argument; sense; principle; basis; justification; CL:個|个[ge4]"
-],
-[
-"理论",
-5,
-"lǐ lùn",
-"theory; CL:個|个[ge4]; to argue; to take notice of"
-],
-[
-"合理",
-5,
-"hé lǐ",
-"rational; reasonable; fair"
-],
-[
-"物理",
-5,
-"wù lǐ",
-"physics; physical"
-],
-[
 "总理",
-5,
+4,
 "zǒng lǐ",
-"premier; prime minister; CL:個|个[ge4],位[wei4],名[ming2]"
+"premier; prime minister; CL:个[gè],位[wèi],名[míng]"
 ],
 [
-"地理",
+"代理",
 5,
-"dì lǐ",
-"geography"
-],
-[
-"办理",
-5,
-"bàn lǐ",
-"to handle; to transact; to conduct"
+"dài lǐ",
+"to act on behalf of sb in a responsible position; to act as an agent or proxy; surrogate; (computing) proxy"
 ],
 [
 "清理",
-6,
+5,
 "qīng lǐ",
 "to clear up; to tidy up; to dispose of"
 ],
 [
+"原理",
+5,
+"yuán lǐ",
+"principle; theory"
+],
+[
+"真理",
+5,
+"zhēn lǐ",
+"truth; CL:个[gè]"
+],
+[
+"治理",
+5,
+"zhì lǐ",
+"to govern; to administer; to manage; to control; governance"
+],
+[
 "助理",
-6,
+5,
 "zhù lǐ",
 "assistant"
+],
+[
+"理",
+6,
+"lǐ",
+"texture; grain (of wood); inner essence; intrinsic order; reason; logic; truth; science; natural science (esp. physics); to manage; to pay attention to; to run (affairs); to handle; to put in order; to tidy up"
+],
+[
+"理财",
+6,
+"lǐ cái",
+"financial management; finance"
 ],
 [
 "理智",
@@ -127,120 +151,198 @@
 "reason; intellect; rationality; rational"
 ],
 [
-"代理",
-6,
-"dài lǐ",
-"to act on behalf of sb in a responsible position; to act as an agent or proxy; surrogate; (computing) proxy"
-],
-[
-"真理",
-6,
-"zhēn lǐ",
-"truth; CL:個|个[ge4]"
-],
-[
-"生理",
-6,
-"shēng lǐ",
-"physiology"
-],
-[
-"理所当然",
-6,
-"lǐ suǒ dāng rán",
-"as it should be by rights (idiom); proper and to be expected as a matter of course; inevitable and right"
-],
-[
-"审理",
-6,
-"shěn lǐ",
-"to hear (a case)"
-],
-[
-"推理",
-6,
-"tuī lǐ",
-"reasoning; inference; to infer; to deduce"
-],
-[
-"原理",
-6,
-"yuán lǐ",
-"principle; theory"
-],
-[
-"岂有此理",
-6,
-"qǐ yǒu cǐ lǐ",
-"how can this be so? (idiom); preposterous; ridiculous; absurd"
-],
-[
-"情理",
-6,
-"qíng lǐ",
-"reason; sense"
-],
-[
-"理睬",
-6,
-"lǐ cǎi",
-"to heed; to pay attention to"
-],
-[
-"无理取闹",
-6,
-"wú lǐ qǔ nào",
-"to make trouble without reason (idiom); to be deliberately provocative"
-],
-[
-"条理",
-6,
-"tiáo lǐ",
-"arrangement; order; tidiness"
-],
-[
-"治理",
-6,
-"zhì lǐ",
-"to govern; to administer; to manage; to control; governance"
-],
-[
-"理直气壮",
-6,
-"lǐ zhí qì zhuàng",
-"in the right and self-confident (idiom); bold and confident with justice on one's side; to have the courage of one's convictions; just and forceful"
-]
-],
-"extraWords": [
-[
-"理念",
-55.02,
-"lǐ niàn",
-"idea; concept; philosophy; theory"
-],
-[
 "总经理",
-50.66,
+6,
 "zǒng jīng lǐ",
 "general manager; CEO"
 ],
 [
+"爱理不理",
+7,
+"ài lǐ bù lǐ",
+"to look cold and indifferent; standoffish"
+],
+[
+"按理说",
+7,
+"àn lǐ shuō",
+"it is reasonable to say that..."
+],
+[
+"不理",
+7,
+"bù lǐ",
+"to refuse to acknowledge; to pay no attention to; to take no notice of; to ignore"
+],
+[
+"常理",
+7,
+"cháng lǐ",
+"common sense; conventional reasoning and morals"
+],
+[
+"代理人",
+7,
+"dài lǐ rén",
+"agent"
+],
+[
+"地理",
+7,
+"dì lǐ",
+"geography"
+],
+[
+"管理费",
+7,
+"guǎn lǐ fèi",
+"management fee"
+],
+[
+"合情合理",
+7,
+"hé qíng hé lǐ",
+"reasonable and fair (idiom)"
+],
+[
+"护理",
+7,
+"hù lǐ",
+"to nurse; to tend and protect"
+],
+[
+"理睬",
+7,
+"lǐ cǎi",
+"to heed; to pay attention to"
+],
+[
+"理会",
+7,
+"lǐ huì",
+"to understand; to pay attention to; to take notice of"
+],
+[
+"理科",
+7,
+"lǐ kē",
+"the sciences (as opposed to the humanities 文科[wén kē])"
+],
+[
+"理念",
+7,
+"lǐ niàn",
+"idea; concept; philosophy; theory"
+],
+[
+"理事",
+7,
+"lǐ shì",
+"member of council"
+],
+[
+"理所当然",
+7,
+"lǐ suǒ dāng rán",
+"as it should be by rights (idiom); proper and to be expected as a matter of course; inevitable and right"
+],
+[
 "理性",
-38.0,
+7,
 "lǐ xìng",
 "reason; rationality; rational"
 ],
 [
-"理财",
-36.66,
-"lǐ cái",
-"financial management; finance"
+"理直气壮",
+7,
+"lǐ zhí qì zhuàng",
+"in the right and self-confident (idiom); bold and confident with justice on one's side; to have the courage of one's convictions; just and forceful"
 ],
 [
-"护理",
-26.28,
-"hù lǐ",
-"to nurse; to tend and protect"
+"料理",
+7,
+"liào lǐ",
+"to arrange; to handle; to cook; cuisine; art of cooking"
+],
+[
+"伦理",
+7,
+"lún lǐ",
+"ethics"
+],
+[
+"岂有此理",
+7,
+"qǐ yǒu cǐ lǐ",
+"how can this be so? (idiom); preposterous; ridiculous; absurd"
+],
+[
+"生理",
+7,
+"shēng lǐ",
+"physiology"
+],
+[
+"受理",
+7,
+"shòu lǐ",
+"to accept to hear a case; to handle (a service)"
+],
+[
+"梳理",
+7,
+"shū lǐ",
+"to comb; fig. to sort out"
+],
+[
+"顺理成章",
+7,
+"shùn lǐ chéng zhāng",
+"logical; only to be expected; rational and clearly structured (of text)"
+],
+[
+"推理",
+7,
+"tuī lǐ",
+"reasoning; inference; to infer; to deduce"
+],
+[
+"无理",
+7,
+"wú lǐ",
+"irrational; unreasonable"
+],
+[
+"心安理得",
+7,
+"xīn ān lǐ dé",
+"to have a clear conscience; to have no qualms about sth"
+],
+[
+"自理",
+7,
+"zì lǐ",
+"to take care of oneself; to provide for oneself"
+]
+],
+"extraWords": [
+[
+"查理",
+39.74,
+"???",
+"???"
+],
+[
+"审理",
+25.24,
+"shěn lǐ",
+"to hear (a case)"
+],
+[
+"物理",
+24.58,
+"wù lǐ",
+"physics; physical"
 ],
 [
 "病理",
@@ -255,10 +357,10 @@
 "processor"
 ],
 [
-"受理",
-19.54,
-"shòu lǐ",
-"to accept to hear a case; to handle (a service)"
+"管理局",
+19.95,
+"???",
+"???"
 ],
 [
 "安理会",
@@ -267,16 +369,22 @@
 "(United Nations) Security Council"
 ],
 [
+"副总经理",
+13.96,
+"???",
+"???"
+],
+[
 "物业管理",
 12.48,
 "wù yè guǎn lǐ",
 "property management"
 ],
 [
-"不理",
-12.35,
-"bù lǐ",
-"to refuse to acknowledge; to pay no attention to; to take no notice of; to ignore"
+"管理者",
+12.08,
+"???",
+"???"
 ],
 [
 "副总理",
@@ -291,22 +399,10 @@
 "to make sense; reasonable"
 ],
 [
-"代理人",
-11.23,
-"dài lǐ rén",
-"agent"
-],
-[
 "心理学",
 10.7,
 "xīn lǐ xué",
 "psychology"
-],
-[
-"伦理",
-10.69,
-"lún lǐ",
-"ethics"
 ],
 [
 "管理员",
@@ -333,16 +429,10 @@
 "Richard (name)"
 ],
 [
-"理会",
-8.08,
-"lǐ huì",
-"to understand; to pay attention to; to take notice of"
-],
-[
-"料理",
-7.9,
-"liào lǐ",
-"to arrange; to handle; to cook; cuisine; art of cooking"
+"综合治理",
+7.49,
+"???",
+"???"
 ],
 [
 "质量管理",
@@ -351,34 +441,22 @@
 "quality management"
 ],
 [
+"管理处",
+6.75,
+"???",
+"???"
+],
+[
 "有理",
 6.49,
 "yǒu lǐ",
 "reasonable; justified; right; (math.) rational"
 ],
 [
-"理科",
-6.29,
-"lǐ kē",
-"the sciences (as opposed to the humanities 文科[wen2 ke1])"
-],
-[
 "代理商",
 6.24,
 "dài lǐ shāng",
 "agent"
-],
-[
-"理事",
-6.22,
-"lǐ shì",
-"member of council"
-],
-[
-"管理费",
-5.64,
-"guǎn lǐ fèi",
-"management fee"
 ],
 [
 "理顺",
@@ -397,12 +475,6 @@
 5.23,
 "lǐ yīng",
 "should; ought to"
-],
-[
-"梳理",
-5.18,
-"shū lǐ",
-"to comb; fig. to sort out"
 ]
 ],
 "strokes": [

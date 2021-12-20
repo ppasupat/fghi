@@ -1,37 +1,79 @@
 {
 "char": "险",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "narrow pass, strategic point",
 "pron": "xiǎn"
 },
 "words": [
 [
+"保险",
+3,
+"bǎo xiǎn",
+"insurance; to insure; safe; secure; be sure; be bound to; CL:份[fèn]"
+],
+[
+"风险",
+3,
+"fēng xiǎn",
+"risk; hazard"
+],
+[
 "危险",
-4,
+3,
 "wēi xiǎn",
 "danger; dangerous"
 ],
 [
+"险",
+6,
+"xiǎn",
+"danger; dangerous; rugged"
+],
+[
+"化险为夷",
+7,
+"huà xiǎn wéi yí",
+"to turn peril into safety (idiom); to avert disaster"
+],
+[
+"艰险",
+7,
+"jiān xiǎn",
+"difficult and dangerous; hardships and perils"
+],
+[
+"惊险",
+7,
+"jīng xiǎn",
+"thrilling; a thriller"
+],
+[
 "冒险",
-5,
+7,
 "mào xiǎn",
 "to take risks; to take chances; foray; adventure"
 ],
 [
-"保险",
-5,
-"bǎo xiǎn",
-"insurance; to insure; safe; secure; be sure; be bound to; CL:份[fen4]"
+"探险",
+7,
+"tàn xiǎn",
+"to explore; to go on an expedition; adventure"
 ],
 [
-"风险",
-5,
-"fēng xiǎn",
-"risk; hazard"
+"遇险",
+7,
+"yù xiǎn",
+"to get into difficulties; to meet with danger"
 ]
 ],
 "extraWords": [
+[
+"保险公司",
+27.4,
+"???",
+"???"
+],
 [
 "保险箱",
 17.17,
@@ -39,16 +81,16 @@
 "safe deposit box; a safe"
 ],
 [
-"探险",
-9.57,
-"tàn xiǎn",
-"to explore; to go on an expedition; adventure"
-],
-[
 "抢险",
 8.37,
 "qiǎng xiǎn",
 "emergency (measures); to react to an emergency"
+],
+[
+"保险业",
+6.42,
+"???",
+"???"
 ],
 [
 "寿险",
@@ -63,16 +105,16 @@
 "a safe; strongbox"
 ],
 [
+"危险性",
+5.34,
+"???",
+"???"
+],
+[
 "保险费",
 5.2,
 "bǎo xiǎn fèi",
 "insurance fee"
-],
-[
-"惊险",
-5.13,
-"jīng xiǎn",
-"thrilling; a thriller"
 ],
 [
 "险些",

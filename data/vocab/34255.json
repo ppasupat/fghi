@@ -1,16 +1,28 @@
 {
 "char": "藏",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "hide, conceal; hoard, store up",
 "pron": "cáng, zàng"
 },
 "words": [
 [
-"躲藏",
-5,
-"duǒ cáng",
-"to conceal oneself; to go into hiding; to take cover"
+"藏",
+6,
+"Zàng",
+"Tibet; abbr. for Xizang or Tibet Autonomous Region 西藏[Xī zàng]"
+],
+[
+"藏",
+6,
+"cáng",
+"to conceal; to hide away; to harbor; to store; to collect"
+],
+[
+"藏",
+6,
+"zàng",
+"storehouse; depository; Buddhist or Taoist scripture"
 ],
 [
 "收藏",
@@ -19,30 +31,84 @@
 "to hoard; to collect; collection; to bookmark (Internet)"
 ],
 [
-"蕴藏",
-6,
-"yùn cáng",
-"to hold in store; to contain (untapped reserves etc)"
-]
-],
-"extraWords": [
-[
 "隐藏",
-32.79,
+6,
 "yǐn cáng",
 "to hide; to conceal; to mask; to shelter; to harbor (i.e. keep sth hidden); to hide oneself; to lie low; to nestle; hidden; implicit; private; covert; recessed (lighting)"
 ],
 [
+"宝藏",
+7,
+"bǎo zàng",
+"precious mineral deposits; hidden treasure; (fig.) treasure; (Buddhism) the treasure of Buddha's law"
+],
+[
+"藏匿",
+7,
+"cáng nì",
+"to cover up; to conceal; to go into hiding"
+],
+[
+"藏品",
+7,
+"cáng pǐn",
+"museum piece; collector's item; precious object"
+],
+[
+"藏身",
+7,
+"cáng shēn",
+"to hide; to go into hiding; to take refuge"
+],
+[
+"躲藏",
+7,
+"duǒ cáng",
+"to conceal oneself; to go into hiding; to take cover"
+],
+[
+"矿藏",
+7,
+"kuàng cáng",
+"mineral resources"
+],
+[
+"埋藏",
+7,
+"mái cáng",
+"to bury; to hide by burying; hidden"
+],
+[
+"蕴藏",
+7,
+"yùn cáng",
+"to hold in store; to contain (untapped reserves etc)"
+],
+[
+"珍藏",
+7,
+"zhēn cáng",
+"collection; to collect (valuables)"
+],
+[
+"贮藏",
+7,
+"zhù cáng",
+"to store up; to hoard; deposits"
+],
+[
+"捉迷藏",
+7,
+"zhuō mí cáng",
+"to play hide-and-seek"
+]
+],
+"extraWords": [
+[
 "西藏",
 29.23,
 "Xī zàng",
-"Tibet; Xizang or Tibet Autonomous Region 西藏自治區|西藏自治区[Xi1 zang4 Zi4 zhi4 qu1]"
-],
-[
-"宝藏",
-9.75,
-"bǎo zàng",
-"precious mineral deposits; hidden treasure; (fig.) treasure; (Buddhism) the treasure of Buddha's law"
+"Tibet; Xizang or Tibet Autonomous Region 西藏自治区[Xī zàng Zì zhì qū]"
 ],
 [
 "青藏",
@@ -51,22 +117,10 @@
 "Qinghai and Tibet"
 ],
 [
-"珍藏",
-7.33,
-"zhēn cáng",
-"collection; to collect (valuables)"
-],
-[
-"藏身",
-6.98,
-"cáng shēn",
-"to hide; to go into hiding; to take refuge"
-],
-[
 "储藏室",
 6.44,
 "chǔ cáng shì",
-"storeroom; CL:間|间[jian1]"
+"storeroom; CL:间[jiān]"
 ],
 [
 "藏族",

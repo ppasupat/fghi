@@ -1,12 +1,31 @@
 {
 "char": "笋",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "bamboo shoots",
 "pron": "sǔn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"笋",
+4.61,
+"sǔn",
+"bamboo shoot"
+],
+[
+"雨后春笋",
+1.62,
+"yǔ hòu chūn sǔn",
+"lit. after rain, the spring bamboo (idiom); fig. rapid new growth; many new things emerge in rapid succession"
+],
+[
+"竹笋",
+1.43,
+"zhú sǔn",
+"bamboo shoot"
+]
+],
 "strokes": [
 "M 352 708 Q 373 739 392 765 Q 402 777 389 791 Q 352 821 327 819 Q 317 818 318 804 Q 327 723 236 620 Q 224 616 197 579 Q 190 566 203 569 Q 219 570 240 587 Q 303 632 340 689 L 352 708 Z",
 "M 340 689 Q 382 668 426 683 Q 537 710 540 712 Q 547 719 543 726 Q 536 736 511 741 Q 486 745 460 734 Q 436 725 411 719 Q 383 712 352 708 C 322 704 313 702 340 689 Z",

@@ -1,48 +1,96 @@
 {
 "char": "速",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "quick, prompt, speedy",
 "pron": "sù"
 },
 "words": [
 [
-"速度",
-4,
-"sù dù",
-"speed; rate; velocity; (music) tempo; CL:個|个[ge4]"
-],
-[
-"高速公路",
-4,
-"gāo sù gōng lù",
-"expressway; highway; freeway"
-],
-[
-"迅速",
-5,
-"xùn sù",
-"rapid; speedy; fast"
-]
-],
-"extraWords": [
-[
-"快速",
-97.17,
-"kuài sù",
-"fast; high-speed; rapid"
-],
-[
 "高速",
-49.4,
+3,
 "gāo sù",
 "high speed"
 ],
 [
+"高速公路",
+3,
+"gāo sù gōng lù",
+"expressway; highway; freeway"
+],
+[
+"快速",
+3,
+"kuài sù",
+"fast; high-speed; rapid"
+],
+[
+"速度",
+3,
+"sù dù",
+"speed; rate; velocity; (music) tempo; CL:个[gè]"
+],
+[
+"迅速",
+4,
+"xùn sù",
+"rapid; speedy; fast"
+],
+[
 "加速",
-41.38,
+5,
 "jiā sù",
 "to speed up; to expedite"
+],
+[
+"超速",
+7,
+"chāo sù",
+"to exceed the speed limit; to speed; high-speed"
+],
+[
+"车速",
+7,
+"chē sù",
+"vehicle speed"
+],
+[
+"飞速",
+7,
+"fēi sù",
+"swift; rapidly"
+],
+[
+"火速",
+7,
+"huǒ sù",
+"at top speed; at a tremendous lick"
+],
+[
+"减速",
+7,
+"jiǎn sù",
+"to reduce speed; to slow down; to take it easy"
+],
+[
+"时速",
+7,
+"shí sù",
+"speed per hour"
+],
+[
+"提速",
+7,
+"tí sù",
+"to increase the specified cruising speed; to pick up speed; to speed up"
+]
+],
+"extraWords": [
+[
+"速",
+69.44,
+"sù",
+"fast; rapid; quick; velocity"
 ],
 [
 "速率",
@@ -51,34 +99,10 @@
 "speed; rate"
 ],
 [
-"减速",
-7.33,
-"jiǎn sù",
-"to reduce speed; to slow down; to take it easy"
-],
-[
-"飞速",
-6.95,
-"fēi sù",
-"swift; rapidly"
-],
-[
-"时速",
-6.81,
-"shí sù",
-"speed per hour"
-],
-[
 "急速",
 6.04,
 "jí sù",
 "hurried; at a great speed; rapid (development)"
-],
-[
-"车速",
-5.77,
-"chē sù",
-"vehicle speed"
 ],
 [
 "光速",

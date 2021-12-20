@@ -1,17 +1,30 @@
 {
 "char": "轿",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "sedan-chair, palanquin",
 "pron": "jiào"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "轿车",
-42.43,
+7,
 "jiào chē",
-"enclosed carriage for carrying passengers; motor carriage; car or bus; limousine; CL:部[bu4],輛|辆[liang4]"
+"enclosed carriage for carrying passengers; motor carriage; car or bus; limousine; CL:部[bù],辆[liàng]"
+]
+],
+"extraWords": [
+[
+"轿",
+5.41,
+"jiào",
+"sedan chair; palanquin; litter"
+],
+[
+"小轿车",
+3.29,
+"xiǎo jiào chē",
+"(automobile) sedan; car"
 ]
 ],
 "strokes": [

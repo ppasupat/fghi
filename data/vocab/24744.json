@@ -1,6 +1,6 @@
 {
 "char": "您",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "honorific for 'you'",
 "pron": "nín"
@@ -8,9 +8,9 @@
 "words": [
 [
 "您",
-2,
+1,
 "nín",
-"you (courteous, as opposed to informal 你[ni3])"
+"you (courteous, as opposed to informal 你[nǐ])"
 ]
 ],
 "extraWords": [
@@ -19,6 +19,12 @@
 7.99,
 "nín hǎo",
 "hello (polite)"
+],
+[
+"您老",
+0.42,
+"???",
+"???"
 ]
 ],
 "strokes": [

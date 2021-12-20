@@ -1,19 +1,32 @@
 {
 "char": "栽",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "to cultivate, plant; to care for plants",
 "pron": "zāi"
 },
 "words": [
 [
+"栽",
+7,
+"zāi",
+"to grow; to plant; to insert; to force on sb; to fall head first"
+],
+[
 "栽培",
-6,
+7,
 "zāi péi",
 "to grow; to cultivate; to train; to educate; to patronize"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"栽赃",
+2.92,
+"zāi zāng",
+"to frame sb (by planting sth on them)"
+]
+],
 "strokes": [
 "M 397 591 Q 499 615 503 618 Q 510 625 507 633 Q 500 643 474 651 Q 444 655 401 639 L 350 624 Q 280 611 232 606 Q 199 600 223 585 Q 256 567 329 579 Q 338 580 350 582 L 397 591 Z",
 "M 388 499 Q 392 547 397 591 L 401 639 Q 401 690 419 747 Q 422 757 404 770 Q 373 788 350 792 Q 335 795 328 787 Q 321 780 328 767 Q 346 742 346 726 Q 349 677 350 624 L 350 582 Q 350 539 349 492 C 348 462 385 469 388 499 Z",

@@ -1,102 +1,132 @@
 {
 "char": "办",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "manage, do, handle; deal with",
 "pron": "bàn"
 },
 "words": [
 [
+"办",
+2,
+"bàn",
+"to do; to manage; to handle; to go about; to run; to set up; to deal with"
+],
+[
 "办法",
-3,
+2,
 "bàn fǎ",
-"means; method; way (of doing sth); CL:條|条[tiao2],個|个[ge4]"
+"means; method; way (of doing sth); CL:条[tiáo],个[gè]"
 ],
 [
 "办公室",
-3,
+2,
 "bàn gōng shì",
-"office; business premises; bureau; CL:間|间[jian1]"
+"office; business premises; bureau; CL:间[jiān]"
 ],
 [
-"举办",
-4,
-"jǔ bàn",
-"to conduct; to hold"
+"怎么办",
+2,
+"zěn me bàn",
+"what's to be done"
 ],
 [
 "办理",
-5,
+3,
 "bàn lǐ",
 "to handle; to transact; to conduct"
 ],
 [
+"举办",
+3,
+"jǔ bàn",
+"to conduct; to hold"
+],
+[
+"办事",
+4,
+"bàn shì",
+"to handle (affairs); to work"
+],
+[
 "承办",
-6,
+5,
 "chéng bàn",
 "to undertake; to accept a contract"
 ],
 [
 "主办",
-6,
+5,
 "zhǔ bàn",
 "to organize; to host (a conference or sports event)"
-]
-],
-"extraWords": [
-[
-"怎么办",
-204.82,
-"zěn me bàn",
-"what's to be done"
 ],
 [
 "办公",
-31.77,
+6,
 "bàn gōng",
 "to handle official business; to work (esp. in an office)"
 ],
 [
-"办事",
-24.74,
-"bàn shì",
-"to handle (affairs); to work"
+"办事处",
+6,
+"bàn shì chù",
+"office; agency"
 ],
 [
 "办学",
-18.79,
+6,
 "bàn xué",
 "to run a school"
 ],
 [
 "创办",
-15.29,
+6,
 "chuàng bàn",
 "to establish; to found; to launch"
 ],
 [
+"办不到",
+7,
+"bàn bu dào",
+"impossible; can't be done; no can do; unable to accomplish"
+],
+[
+"筹办",
+7,
+"chóu bàn",
+"to arrange; to make preparations"
+],
+[
 "开办",
-13.47,
+7,
 "kāi bàn",
 "to open; to start (a business etc); to set up"
 ],
+[
+"民办",
+7,
+"mín bàn",
+"run by the local people; privately operated"
+],
+[
+"申办",
+7,
+"shēn bàn",
+"to apply for; to bid for"
+],
+[
+"照办",
+7,
+"zhào bàn",
+"to follow the rules; to do as instructed; to play by the book; to comply with a request"
+]
+],
+"extraWords": [
 [
 "办案",
 12.91,
 "bàn àn",
 "to handle a case"
-],
-[
-"民办",
-12.91,
-"mín bàn",
-"run by the local people; privately operated"
-],
-[
-"办事处",
-8.13,
-"bàn shì chù",
-"office; agency"
 ],
 [
 "办到",
@@ -108,13 +138,13 @@
 "办公楼",
 7.37,
 "bàn gōng lóu",
-"office building; CL:座[zuo4],棟|栋[dong4]"
+"office building; CL:座[zuò],栋[dòng]"
 ],
 [
-"申办",
-5.68,
-"shēn bàn",
-"to apply for; to bid for"
+"办公桌",
+5.13,
+"???",
+"???"
 ]
 ],
 "strokes": [

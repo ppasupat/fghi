@@ -1,11 +1,17 @@
 {
 "char": "坐",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "sit; seat; ride, travel by",
 "pron": "zuò"
 },
 "words": [
+[
+"请坐",
+1,
+"???",
+"???"
+],
 [
 "坐",
 1,
@@ -16,22 +22,28 @@
 "坐",
 1,
 "zuò",
-"to sit; to take a seat; to take (a bus, airplane etc); to bear fruit; variant of 座[zuo4]"
+"to sit; to take a seat; to take (a bus, airplane etc); to bear fruit; variant of 座[zuò]"
 ],
-[
-"乘坐",
-4,
-"chéng zuò",
-"to ride (in a vehicle)"
-]
-],
-"extraWords": [
 [
 "坐下",
-82.78,
+1,
 "zuò xia",
 "to sit down"
 ],
+[
+"乘坐",
+5,
+"chéng zuò",
+"to ride (in a vehicle)"
+],
+[
+"坐落",
+7,
+"zuò luò",
+"to be situated; to be located (of a building)"
+]
+],
+"extraWords": [
 [
 "坐牢",
 25.96,
@@ -51,10 +63,16 @@
 "to take the car, bus, train etc"
 ],
 [
-"坐落",
-5.25,
-"zuò luò",
-"to be situated; to be located (of a building)"
+"坐等",
+6.65,
+"???",
+"???"
+],
+[
+"坐坐",
+5.69,
+"???",
+"???"
 ]
 ],
 "strokes": [

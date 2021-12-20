@@ -1,6 +1,6 @@
 {
 "char": "栏",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "railing, balustrade; animal pan",
 "pron": "lán"
@@ -11,15 +11,27 @@
 6,
 "lán mù",
 "regular column or segment (in a publication or broadcast program); program (TV or radio)"
+],
+[
+"栏",
+7,
+"lán",
+"fence; railing; hurdle; column or box (of text or other data)"
+],
+[
+"栏杆",
+7,
+"lán gān",
+"railing; banister"
+],
+[
+"专栏",
+7,
+"zhuān lán",
+"special column"
 ]
 ],
 "extraWords": [
-[
-"专栏",
-7.11,
-"zhuān lán",
-"special column"
-],
 [
 "栅栏",
 5.6,

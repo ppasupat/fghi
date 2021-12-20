@@ -1,6 +1,6 @@
 {
 "char": "横",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "across",
 "pron": "héng, hèng"
@@ -19,18 +19,30 @@
 "harsh and unreasonable; unexpected"
 ],
 [
-"纵横",
-6,
-"zòng héng",
-"lit. warp and weft in weaving; vertically and horizontal; length and breadth; criss-crossed; able to move unhindered; abbr. for 合縱連橫|合纵连横[He2 zong4 Lian2 heng2], School of Diplomacy during the Warring States Period (475-221 BC)"
+"横七竖八",
+7,
+"héng qī shù bā",
+"in disorder; at sixes and sevens (idiom)"
+],
+[
+"横向",
+7,
+"héng xiàng",
+"horizontal; orthogonal; perpendicular; lateral; crosswise"
+],
+[
+"纵横交错",
+7,
+"zòng héng jiāo cuò",
+"criss-crossed (idiom)"
 ]
 ],
 "extraWords": [
 [
-"横向",
-8.27,
-"héng xiàng",
-"horizontal; orthogonal; perpendicular; lateral; crosswise"
+"纵横",
+6.04,
+"zòng héng",
+"lit. warp and weft in weaving; vertically and horizontal; length and breadth; criss-crossed; able to move unhindered; abbr. for 合纵连横[Hé zòng Lián héng], School of Diplomacy during the Warring States Period (475-221 BC)"
 ]
 ],
 "strokes": [

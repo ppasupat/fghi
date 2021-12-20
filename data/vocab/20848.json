@@ -1,12 +1,31 @@
 {
 "char": "兰",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "orchid; elegant, graceful",
 "pron": "lán"
 },
-"words": [],
+"words": [
+[
+"伊斯兰教",
+7,
+"Yī sī lán jiào",
+"Islam"
+]
+],
 "extraWords": [
+[
+"兰",
+48.05,
+"Lán",
+"surname Lan; abbr. for Lanzhou 兰州[Lán zhōu], Gansu"
+],
+[
+"兰",
+48.05,
+"lán",
+"orchid (蘭花|兰花 Cymbidium goeringii); fragrant thoroughwort (蘭草|兰草 Eupatorium fortunei); lily magnolia (木蘭|木兰)"
+],
 [
 "弗兰克",
 36.84,
@@ -47,7 +66,7 @@
 "兰州",
 13.19,
 "Lán zhōu",
-"Lanzhou prefecture-level city and capital of Gansu province 甘肅|甘肃[Gan1 su4]"
+"Lanzhou prefecture-level city and capital of Gansu province 甘肃[Gān sù]"
 ],
 [
 "乌克兰",
@@ -84,6 +103,12 @@
 6.39,
 "Yī sī lán",
 "Islam"
+],
+[
+"弗兰基",
+6.29,
+"???",
+"???"
 ],
 [
 "兰花",

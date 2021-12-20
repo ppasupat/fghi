@@ -1,6 +1,6 @@
 {
 "char": "被",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "passive indicator 'by'; bedding",
 "pron": "bèi"
@@ -10,13 +10,25 @@
 "被",
 3,
 "bèi",
-"quilt; by; (indicates passive-voice clauses); (literary) to cover; to meet with; (coll.) (since c. 2009) used before a verb that does not accurately represent what actually happened, to describe with black humor how sb or sth was dealt with by the authorities (as in 被自殺|被自杀[bei4 zi4 sha1])"
+"quilt; by; (indicates passive-voice clauses); (literary) to cover; to meet with; (coll.) (since c. 2009) used before a verb that does not accurately represent what actually happened, to describe with black humor how sb or sth was dealt with by the authorities (as in 被自杀[bèi zì shā])"
 ],
 [
 "被子",
-5,
+3,
 "bèi zi",
-"quilt; CL:床[chuang2]"
+"quilt; CL:床[chuáng]"
+],
+[
+"被迫",
+4,
+"bèi pò",
+"to be compelled; to be forced"
+],
+[
+"被动",
+5,
+"bèi dòng",
+"passive"
 ],
 [
 "被告",
@@ -25,25 +37,13 @@
 "defendant"
 ],
 [
-"被动",
-6,
-"bèi dòng",
-"passive"
+"被捕",
+7,
+"bèi bǔ",
+"to be arrested; under arrest"
 ]
 ],
 "extraWords": [
-[
-"被捕",
-40.6,
-"bèi bǔ",
-"to be arrested; under arrest"
-],
-[
-"被迫",
-19.78,
-"bèi pò",
-"to be compelled; to be forced"
-],
 [
 "被窝",
 13.5,
@@ -57,10 +57,28 @@
 "defendant (in legal case)"
 ],
 [
+"被评为",
+11.45,
+"???",
+"???"
+],
+[
 "被害人",
 11.27,
 "bèi hài rén",
 "victim"
+],
+[
+"被盗",
+9.67,
+"???",
+"???"
+],
+[
+"被害",
+7.72,
+"???",
+"???"
 ],
 [
 "植被",

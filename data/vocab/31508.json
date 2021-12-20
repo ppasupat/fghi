@@ -1,22 +1,64 @@
 {
 "char": "笔",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "writing brush; write; stroke",
 "pron": "bǐ"
 },
 "words": [
 [
-"铅笔",
+"笔",
 2,
-"qiān bǐ",
-"(lead) pencil; CL:支[zhi1],枝[zhi1],桿|杆[gan3]"
+"bǐ",
+"pen; pencil; writing brush; to write or compose; the strokes of Chinese characters; classifier for sums of money, deals; CL:支[zhī],枝[zhī]"
+],
+[
+"笔记",
+2,
+"bǐ jì",
+"to take down (in writing); notes; a type of literature consisting mainly of short sketches; CL:本[běn]"
 ],
 [
 "笔记本",
-3,
+2,
 "bǐ jì běn",
-"notebook (stationery); CL:本[ben3]; notebook (computing)"
+"notebook (stationery); CL:本[běn]; notebook (computing)"
+],
+[
+"钢笔",
+5,
+"gāng bǐ",
+"fountain pen; CL:支[zhī]"
+],
+[
+"毛笔",
+5,
+"máo bǐ",
+"writing brush; CL:枝[zhī],管[guǎn]"
+],
+[
+"笔试",
+6,
+"bǐ shì",
+"written examination; paper test (for an applicant)"
+],
+[
+"铅笔",
+6,
+"qiān bǐ",
+"(lead) pencil; CL:支[zhī],枝[zhī],杆[gǎn]"
+],
+[
+"圆珠笔",
+6,
+"yuán zhū bǐ",
+"ballpoint pen; CL:支[zhī],枝[zhī]"
+],
+[
+"大笔",
+7,
+"???",
+"???"
 ]
 ],
 "extraWords": [
@@ -27,10 +69,10 @@
 "the author; the writer"
 ],
 [
-"笔记",
-8.54,
-"bǐ jì",
-"to take down (in writing); notes; a type of literature consisting mainly of short sketches; CL:本[ben3]"
+"这笔",
+6.71,
+"???",
+"???"
 ],
 [
 "笔迹",

@@ -1,6 +1,6 @@
 {
 "char": "膜",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "membrane; to kneel and worship",
 "pron": "mó"
@@ -21,6 +21,12 @@
 "cornea"
 ],
 [
+"粘膜",
+9.12,
+"???",
+"???"
+],
+[
 "视网膜",
 7.92,
 "shì wǎng mó",
@@ -30,7 +36,7 @@
 "薄膜",
 5.47,
 "bó mó",
-"membrane; film; CL:層|层[ceng2]"
+"membrane; film; CL:层[céng]"
 ]
 ],
 "strokes": [

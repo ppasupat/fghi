@@ -1,6 +1,6 @@
 {
 "char": "诺",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "promise; assent, approve",
 "pron": "nuò"
@@ -11,20 +11,26 @@
 6,
 "chéng nuò",
 "to promise; to undertake to do something; commitment"
+],
+[
+"诺言",
+7,
+"nuò yán",
+"promise"
 ]
 ],
 "extraWords": [
+[
+"诺",
+43.95,
+"nuò",
+"to consent; to promise; (literary) yes!"
+],
 [
 "诺基亚",
 11.33,
 "Nuò jī yà",
 "Nokia (company name)"
-],
-[
-"诺言",
-10.14,
-"nuò yán",
-"promise"
 ],
 [
 "诺亚",

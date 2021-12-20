@@ -1,24 +1,66 @@
 {
 "char": "苏",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "revive, resurrect; a species of thyme; transliteration of 'Soviet'",
 "pron": "sū"
 },
 "words": [
 [
-"苏醒",
+"复苏",
 6,
+"fù sū",
+"to recover (health, economic); to resuscitate; anabiosis"
+],
+[
+"复苏",
+6,
+"fù sū",
+"variant of 复苏[fù sū]; to recover (health, economic); to resuscitate; anabiosis"
+],
+[
+"苏醒",
+7,
 "sū xǐng",
 "to come to; to awaken; to regain consciousness"
 ]
 ],
 "extraWords": [
 [
+"苏",
+52.82,
+"sū",
+"see 啰苏[luō sū]"
+],
+[
+"苏",
+52.82,
+"sū",
+"variant of 苏[sū]; to revive"
+],
+[
+"苏",
+52.82,
+"Sū",
+"surname Su; abbr. for Soviet Union 蘇維埃|苏维埃 or 蘇聯|苏联; abbr. for Jiangsu province 江蘇|江苏; abbr. for Suzhou city 蘇州|苏州"
+],
+[
+"苏",
+52.82,
+"sū",
+"Perilla frutescens (Chinese basil or wild red basil); place name; to revive; used as phonetic in transliteration"
+],
+[
+"苏",
+52.82,
+"sū",
+"old variant of 苏[sū]"
+],
+[
 "苏联",
 51.79,
 "Sū lián",
-"Soviet Union, 1922-1991; abbr. for Union of Soviet Socialist Republics (USSR) 蘇維埃社會主義共和國聯盟|苏维埃社会主义共和国联盟[Su1 wei2 ai1 She4 hui4 zhu3 yi4 Gong4 he2 guo2 Lian2 meng2]"
+"Soviet Union, 1922-1991; abbr. for Union of Soviet Socialist Republics (USSR) 苏维埃社会主义共和国联盟[Sū wéi āi Shè huì zhǔ yì Gòng hé guó Lián méng]"
 ],
 [
 "江苏",
@@ -42,7 +84,13 @@
 "江苏省",
 16.48,
 "Jiāng sū Shěng",
-"Jiangsu Province (Kiangsu) in southeast China, abbr. 蘇|苏[Su1], capital Nanjing 南京[Nan2 jing1]"
+"Jiangsu Province (Kiangsu) in southeast China, abbr. 苏[Sū], capital Nanjing 南京[Nán jīng]"
+],
+[
+"苏宁",
+9.13,
+"???",
+"???"
 ],
 [
 "苏丹",
@@ -61,18 +109,6 @@
 7.81,
 "Sū shān",
 "Susan (name)"
-],
-[
-"复苏",
-7.68,
-"fù sū",
-"to recover (health, economic); to resuscitate; anabiosis"
-],
-[
-"复苏",
-7.68,
-"fù sū",
-"variant of 復甦|复苏[fu4 su1]; to recover (health, economic); to resuscitate; anabiosis"
 ],
 [
 "苏菲",

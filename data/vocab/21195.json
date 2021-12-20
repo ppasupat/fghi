@@ -1,17 +1,30 @@
 {
 "char": "勋",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "meritorious deed; merits; rank",
 "pron": "xūn"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "勋章",
-59.68,
+7,
 "xūn zhāng",
 "medal; decoration"
+]
+],
+"extraWords": [
+[
+"勋爵",
+4.77,
+"xūn jué",
+"Lord (UK hereditary nobility); UK life peer"
+],
+[
+"功勋",
+2.51,
+"gōng xūn",
+"achievement; meritorious deed; contributions (for the good of society)"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "非",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "not, negative, non-; oppose",
 "pron": "fēi"
@@ -8,19 +8,19 @@
 "words": [
 [
 "非常",
-2,
+1,
 "fēi cháng",
 "very; very much; unusual; extraordinary"
 ],
 [
 "非",
-5,
+4,
 "Fēi",
-"abbr. for 非洲[Fei1 zhou1], Africa"
+"abbr. for 非洲[Fēi zhōu], Africa"
 ],
 [
 "非",
-5,
+4,
 "fēi",
 "to not be; not; wrong; incorrect; non-; un-; in-; to reproach or blame; (colloquial) to insist on; simply must"
 ],
@@ -31,28 +31,64 @@
 "only if (..., or otherwise, ...); only when; only in the case that; unless"
 ],
 [
-"非法",
-6,
-"fēi fǎ",
-"illegal"
-],
-[
 "并非",
-6,
+7,
 "bìng fēi",
 "really isn't"
 ],
 [
+"非得",
+7,
+"fēi děi",
+"(followed by a verb phrase, then – optionally – 不可, or 不行 etc) must"
+],
+[
+"非法",
+7,
+"fēi fǎ",
+"illegal"
+],
+[
+"非凡",
+7,
+"fēi fán",
+"out of the ordinary; unusually (good, talented etc)"
+],
+[
+"面目全非",
+7,
+"miàn mù quán fēi",
+"nothing remains the same (idiom); change beyond recognition"
+],
+[
+"莫非",
+7,
+"mò fēi",
+"can it be possible that; could it be"
+],
+[
 "是非",
-6,
+7,
 "shì fēi",
 "right and wrong; quarrel"
 ],
 [
+"似是而非",
+7,
+"sì shì ér fēi",
+"apparently right but actually wrong; specious (idiom)"
+],
+[
 "无非",
-6,
+7,
 "wú fēi",
 "only; nothing else"
+],
+[
+"无可厚非",
+7,
+"wú kě hòu fēi",
+"see 未可厚非[wèi kě hòu fēi]"
 ]
 ],
 "extraWords": [
@@ -60,13 +96,7 @@
 "非洲",
 34.63,
 "Fēi zhōu",
-"Africa; abbr. for 阿非利加洲[A1 fei1 li4 jia1 Zhou1]"
-],
-[
-"非得",
-16.22,
-"fēi děi",
-"(followed by a verb phrase, then – optionally – 不可, or 不行 etc) must"
+"Africa; abbr. for 阿非利加洲[Ā fēi lì jiā Zhōu]"
 ],
 [
 "南非",
@@ -81,16 +111,10 @@
 "atypical pneumonia; Severe Acute Respiratory Syndrome; SARS"
 ],
 [
-"非凡",
-9.36,
-"fēi fán",
-"out of the ordinary; unusually (good, talented etc)"
-],
-[
-"莫非",
-8.66,
-"mò fēi",
-"can it be possible that; could it be"
+"并非如此",
+5.96,
+"???",
+"???"
 ],
 [
 "中非",

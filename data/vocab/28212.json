@@ -1,6 +1,6 @@
 {
 "char": "渴",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "thirsty, parched; yearn, pine",
 "pron": "kě"
@@ -8,13 +8,13 @@
 "words": [
 [
 "渴",
-3,
+1,
 "kě",
 "thirsty"
 ],
 [
 "渴望",
-6,
+5,
 "kě wàng",
 "to thirst for; to long for"
 ]

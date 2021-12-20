@@ -1,72 +1,90 @@
 {
 "char": "彩",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "hue, color; variegated colors",
 "pron": "cǎi"
 },
 "words": [
 [
+"彩色",
+3,
+"cǎi sè",
+"color; multi-colored; CL:种[zhǒng]"
+],
+[
 "精彩",
-4,
+3,
 "jīng cǎi",
 "wonderful; marvelous; brilliant"
 ],
 [
-"彩虹",
-5,
-"cǎi hóng",
-"rainbow; CL:道[dao4]"
-],
-[
 "色彩",
-5,
+4,
 "sè cǎi",
 "tint; coloring; coloration; (fig.) flavor; character"
 ],
 [
 "彩票",
-6,
+5,
 "cǎi piào",
 "lottery ticket"
 ],
 [
+"彩电",
+7,
+"cǎi diàn",
+"color TV"
+],
+[
+"彩虹",
+7,
+"cǎi hóng",
+"rainbow; CL:道[dào]"
+],
+[
+"彩霞",
+7,
+"cǎi xiá",
+"clouds tinged with sunset hues"
+],
+[
+"丰富多彩",
+7,
+"fēng fù duō cǎi",
+"richly colorful"
+],
+[
 "光彩",
-6,
+7,
 "guāng cǎi",
 "luster; splendor; radiance; brilliance"
 ],
 [
-"剪彩",
-6,
-"jiǎn cǎi",
-"to cut the ribbon (at a launching or opening ceremony)"
+"喝彩",
+7,
+"hè cǎi",
+"to acclaim; to cheer"
+],
+[
+"张灯结彩",
+7,
+"zhāng dēng jié cǎi",
+"to be decorated with lanterns and colored banners (idiom)"
 ]
 ],
 "extraWords": [
 [
-"彩色",
-20.49,
-"cǎi sè",
-"color; multi-colored; CL:種|种[zhong3]"
-],
-[
-"彩电",
-13.88,
-"cǎi diàn",
-"color TV"
+"彩",
+59.71,
+"cǎi",
+"(bright) color; variety; applause; applaud; lottery prize"
 ],
 [
 "彩排",
 8.61,
 "cǎi pái",
 "dress rehearsal"
-],
-[
-"丰富多彩",
-7.45,
-"fēng fù duō cǎi",
-"richly colorful"
 ],
 [
 "彩民",

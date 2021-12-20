@@ -1,18 +1,19 @@
 {
 "char": "爵",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "feudal title or rank",
 "pron": "jué"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "爵士",
-31.3,
+7,
 "jué shì",
 "knight; Sir; (loanword) jazz"
+]
 ],
+"extraWords": [
 [
 "公爵",
 13.09,
@@ -24,6 +25,12 @@
 12.67,
 "bó jué",
 "earl; count; earldom or countship (old)"
+],
+[
+"爵",
+6.52,
+"jué",
+"ancient bronze wine holder with 3 legs and loop handle; nobility"
 ],
 [
 "爵士舞",

@@ -1,31 +1,55 @@
 {
 "char": "巴",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "greatly desire, anxiously hope",
 "pron": "bā"
 },
 "words": [
 [
+"巴士",
+4,
+"bā shì",
+"bus (loanword); motor coach"
+],
+[
+"大巴",
+4,
+"dà bā",
+"(coll.) large bus; coach; (abbr. for 大型巴士)"
+],
+[
 "尾巴",
-5,
+4,
 "wěi ba",
 "tail; colloquial pr. [yi3 ba5]"
 ],
 [
-"巴不得",
-6,
-"bā bu de",
-"(coll.) to be eager for; to long for; to look forward to"
+"嘴巴",
+4,
+"zuǐ ba",
+"mouth; CL:张[zhāng]; slap in the face; CL:个[gè]"
 ],
 [
-"巴结",
-6,
-"bā jie",
-"to fawn on; to curry favor with; to make up to"
+"巴不得",
+7,
+"bā bu de",
+"(coll.) to be eager for; to long for; to look forward to"
 ]
 ],
 "extraWords": [
+[
+"巴",
+97.85,
+"Bā",
+"Ba state during Zhou dynasty (in east of modern Sichuan); abbr. for east Sichuan or Chongqing; surname Ba; abbr. for Palestine or Palestinian; abbr. for Pakistan"
+],
+[
+"巴",
+97.85,
+"bā",
+"to long for; to wish; to cling to; to stick to; sth that sticks; close to; next to; spread open; informal abbr. for bus 巴士[bā shì]; bar (unit of pressure); nominalizing suffix on certain nouns, such as 尾巴[wěi ba], tail"
+],
 [
 "巴黎",
 37.65,
@@ -43,12 +67,6 @@
 23.87,
 "Bā lè sī tǎn",
 "Palestine"
-],
-[
-"嘴巴",
-20.54,
-"zuǐ ba",
-"mouth; CL:張|张[zhang1]; slap in the face; CL:個|个[ge4]"
 ],
 [
 "古巴",
@@ -75,16 +93,10 @@
 "Bath city in southwest England"
 ],
 [
-"巴士",
-13.21,
-"bā shì",
-"bus (loanword); motor coach"
-],
-[
 "下巴",
 11.69,
 "xià ba",
-"chin; CL:個|个[ge4]"
+"chin; CL:个[gè]"
 ],
 [
 "巴格达",
@@ -105,6 +117,18 @@
 "lymphocyte"
 ],
 [
+"巴西队",
+7.36,
+"???",
+"???"
+],
+[
+"巴迪",
+7.33,
+"???",
+"???"
+],
+[
 "巴库",
 7.15,
 "Bā kù",
@@ -117,12 +141,6 @@
 "palm of the hand; classifier: slap"
 ],
 [
-"大巴",
-6.85,
-"dà bā",
-"(coll.) large bus; coach; (abbr. for 大型巴士)"
-],
-[
 "淋巴",
 6.79,
 "lín bā",
@@ -133,6 +151,18 @@
 6.7,
 "Bā sà",
 "Barca (nickname for FC Barcelona); Baza (town in Grenada, Spain)"
+],
+[
+"巴马",
+6.53,
+"???",
+"???"
+],
+[
+"巴克",
+5.99,
+"???",
+"???"
 ],
 [
 "巴塞罗那",

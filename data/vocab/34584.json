@@ -1,6 +1,6 @@
 {
 "char": "蜘",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "spider",
 "pron": "zhī"
@@ -12,6 +12,18 @@
 20.9,
 "zhī zhū",
 "spider"
+],
+[
+"蜘蛛网",
+1.64,
+"zhī zhū wǎng",
+"cobweb; spider web"
+],
+[
+"红蜘蛛",
+0.33,
+"???",
+"???"
 ]
 ],
 "strokes": [

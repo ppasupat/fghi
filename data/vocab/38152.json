@@ -1,16 +1,16 @@
 {
 "char": "锈",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "rust, corrode",
 "pron": "xiù"
 },
 "words": [
 [
-"生锈",
-6,
-"shēng xiù",
-"to rust; to grow rusty; to corrode; oxidization"
+"锈",
+7,
+"xiù",
+"to corrode; to rust"
 ]
 ],
 "extraWords": [

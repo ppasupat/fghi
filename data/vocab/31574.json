@@ -1,17 +1,11 @@
 {
 "char": "策",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "scheme, plan; to whip; urge",
 "pron": "cè"
 },
 "words": [
-[
-"策略",
-6,
-"cè lüè",
-"strategy; tactics; crafty; adroit"
-],
 [
 "策划",
 6,
@@ -19,10 +13,10 @@
 "to plot; to scheme; to bring about; to engineer; planning; producer; planner"
 ],
 [
-"政策",
+"策略",
 6,
-"zhèng cè",
-"policy; CL:個|个[ge4]"
+"cè lüè",
+"strategy; tactics; crafty; adroit"
 ],
 [
 "决策",
@@ -31,19 +25,62 @@
 "strategic decision; decision-making; policy decision; to determine policy"
 ],
 [
-"对策",
+"政策",
 6,
+"zhèng cè",
+"policy; CL:个[gè]"
+],
+[
+"鞭策",
+7,
+"biān cè",
+"to spur on; to urge on; to encourage sb (e.g. to make progress)"
+],
+[
+"对策",
+7,
 "duì cè",
 "countermeasure for dealing with a situation"
 ],
 [
-"鞭策",
-6,
-"biān cè",
-"to spur on; to urge on; to encourage sb (e.g. to make progress)"
+"计策",
+7,
+"jì cè",
+"stratagem"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"策",
+10.59,
+"Cè",
+"surname Ce"
+],
+[
+"策",
+10.59,
+"cè",
+"policy; plan; scheme; bamboo slip for writing (old); to whip (a horse); to encourage; riding crop with sharp spines (old); essay written for the imperial examinations (old); upward horizontal stroke in calligraphy"
+],
+[
+"策",
+10.59,
+"cè",
+"variant of 策[cè]"
+],
+[
+"策",
+10.59,
+"cè",
+"variant of 策[cè]"
+],
+[
+"政策性",
+6.86,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 333 717 Q 346 742 360 764 Q 369 776 354 788 Q 315 816 290 811 Q 280 808 283 795 Q 301 720 208 594 Q 196 579 188 567 Q 181 552 195 558 Q 210 561 229 578 Q 289 630 320 693 L 333 717 Z",
 "M 320 693 Q 353 683 409 695 Q 443 704 482 712 Q 501 716 504 720 Q 511 727 507 734 Q 500 744 475 749 Q 453 753 382 728 Q 358 724 333 717 C 304 709 291 701 320 693 Z",

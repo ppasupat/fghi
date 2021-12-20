@@ -1,6 +1,6 @@
 {
 "char": "众",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "multitude, crowd; masses, public",
 "pron": "zhòng"
@@ -8,83 +8,113 @@
 "words": [
 [
 "观众",
-4,
+3,
 "guān zhòng",
 "spectators; audience; visitors (to an exhibition etc)"
 ],
 [
-"群众",
-6,
-"qún zhòng",
-"mass; multitude; the masses"
-],
-[
-"众所周知",
-6,
-"zhòng suǒ zhōu zhī",
-"as everyone knows (idiom)"
-],
-[
-"众所周知",
-6,
-"zhòng suǒ zhōu zhī",
-"see 眾所周知|众所周知[zhong4 suo3 zhou1 zhi1]"
-]
-],
-"extraWords": [
-[
-"众多",
-71.65,
-"zhòng duō",
-"numerous"
-],
-[
-"公众",
-50.53,
-"gōng zhòng",
-"public"
+"听众",
+3,
+"tīng zhòng",
+"audience; listeners"
 ],
 [
 "大众",
-41.27,
+4,
 "Dà zhòng",
 "Volkswagen (automobile manufacturer)"
 ],
 [
 "大众",
-41.27,
+4,
 "dà zhòng",
 "the masses; the great bulk of the population; popular (of music, science etc)"
 ],
 [
-"众人",
-40.55,
-"zhòng rén",
-"everyone"
+"群众",
+5,
+"qún zhòng",
+"mass; multitude; the masses"
+],
+[
+"众多",
+5,
+"zhòng duō",
+"numerous"
+],
+[
+"公众",
+6,
+"gōng zhòng",
+"public"
+],
+[
+"出众",
+7,
+"chū zhòng",
+"to stand out; outstanding"
+],
+[
+"当众",
+7,
+"dāng zhòng",
+"in public; in front of everybody"
 ],
 [
 "民众",
-37.82,
+7,
 "mín zhòng",
 "populace; masses; the people"
 ],
 [
 "与众不同",
-19.47,
+7,
 "yǔ zhòng bù tóng",
 "to stand out from the masses (idiom)"
 ],
 [
-"听众",
-7.81,
-"tīng zhòng",
-"audience; listeners"
+"众人",
+7,
+"zhòng rén",
+"everyone"
 ],
 [
-"出众",
-6.83,
-"chū zhòng",
-"to stand out; outstanding"
+"众所周知",
+7,
+"zhòng suǒ zhōu zhī",
+"as everyone knows (idiom)"
+],
+[
+"众所周知",
+7,
+"zhòng suǒ zhōu zhī",
+"see 众所周知[zhòng suǒ zhōu zhī]"
+],
+[
+"众志成城",
+7,
+"zhòng zhì chéng chéng",
+"unity of will is an impregnable stronghold (idiom)"
+]
+],
+"extraWords": [
+[
+"众",
+54.32,
+"Zhòng",
+"abbr. for 众议院[Zhòng yì yuàn], House of Representatives"
+],
+[
+"众",
+54.32,
+"zhòng",
+"many; numerous; crowd; multitude"
+],
+[
+"众",
+54.32,
+"zhòng",
+"variant of 众[zhòng]"
 ],
 [
 "群众性",

@@ -1,31 +1,25 @@
 {
 "char": "殖",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "breed, spawn; increase; prosper",
 "pron": "shi, zhí"
 },
 "words": [
 [
-"殖民地",
-6,
-"zhí mín dì",
-"colony"
-],
-[
 "繁殖",
 6,
 "fán zhí",
 "to breed; to reproduce; to propagate"
+],
+[
+"养殖",
+7,
+"yǎng zhí",
+"to cultivate; cultivation; to further; to encourage"
 ]
 ],
 "extraWords": [
-[
-"养殖",
-22.96,
-"yǎng zhí",
-"to cultivate; cultivation; to further; to encourage"
-],
 [
 "增殖",
 9.56,

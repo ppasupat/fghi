@@ -1,6 +1,6 @@
 {
 "char": "坛",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "altar; arena, examination hall",
 "pron": "tán"
@@ -8,9 +8,21 @@
 "words": [
 [
 "论坛",
-6,
+7,
 "lùn tán",
 "forum (for discussion)"
+],
+[
+"坛",
+7,
+"tán",
+"platform; rostrum; altar"
+],
+[
+"坛",
+7,
+"tán",
+"earthen jar"
 ]
 ],
 "extraWords": [

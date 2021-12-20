@@ -1,34 +1,40 @@
 {
 "char": "武",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "military; martial, warlike",
 "pron": "wǔ"
 },
 "words": [
 [
-"武术",
-5,
-"wǔ shù",
-"military skill or technique (in former times); all kinds of martial art sports (some claiming spiritual development); self-defense; tradition of choreographed fights from opera and film (recent usage); also called kungfu 功夫; CL:種|种[zhong3]"
+"武器",
+3,
+"wǔ qì",
+"weapon; arms; CL:种[zhǒng]"
 ],
 [
-"武器",
-6,
-"wǔ qì",
-"weapon; arms; CL:種|种[zhong3]"
+"武术",
+3,
+"wǔ shù",
+"military skill or technique (in former times); all kinds of martial art sports (some claiming spiritual development); self-defense; tradition of choreographed fights from opera and film (recent usage); also called kungfu 功夫; CL:种[zhǒng]"
+],
+[
+"核武器",
+7,
+"hé wǔ qì",
+"nuclear weapon"
+],
+[
+"武力",
+7,
+"wǔ lì",
+"military force"
 ],
 [
 "武装",
-6,
+7,
 "wǔ zhuāng",
 "arms; equipment; to arm; military; armed (forces)"
-],
-[
-"武侠",
-6,
-"wǔ xiá",
-"martial arts chivalry (Chinese literary, theatrical and cinema genre); knight-errant"
 ]
 ],
 "extraWords": [
@@ -39,10 +45,22 @@
 "Wuhan city on Changjiang, subprovincial city and capital of Hubei province"
 ],
 [
+"武",
+37.01,
+"Wǔ",
+"surname Wu"
+],
+[
+"武",
+37.01,
+"wǔ",
+"martial; military"
+],
+[
 "武功",
 16.71,
 "Wǔ gōng",
-"Wugong County in Xianyang 咸陽|咸阳[Xian2 yang2], Shaanxi"
+"Wugong County in Xianyang 咸阳[Xián yáng], Shaanxi"
 ],
 [
 "武功",
@@ -69,12 +87,6 @@
 "armed police"
 ],
 [
-"核武器",
-11.31,
-"hé wǔ qì",
-"nuclear weapon"
-],
-[
 "威武",
 8.99,
 "wēi wǔ",
@@ -85,12 +97,6 @@
 8.38,
 "Wǔ hàn shì",
 "Wuhan city on Changjiang, subprovincial city and capital of Hubei province"
-],
-[
-"武力",
-6.35,
-"wǔ lì",
-"military force"
 ],
 [
 "武艺",

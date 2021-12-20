@@ -1,12 +1,32 @@
 {
 "char": "戳",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "prick, stab; stamp, seal, chop",
 "pron": "chuō"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"戳",
+7,
+"chuō",
+"to jab; to poke; to stab; (coll.) to sprain; to blunt; to fuck (vulgar); to stand; to stand (sth) upright; stamp; seal"
+]
+],
+"extraWords": [
+[
+"邮戳",
+1.4,
+"yóu chuō",
+"postmark"
+],
+[
+"戳穿",
+1.01,
+"chuō chuān",
+"to puncture; to lay bear or expose (lies etc)"
+]
+],
 "strokes": [
 "M 173 745 Q 160 744 158 738 Q 157 734 170 727 Q 194 718 225 730 Q 274 751 285 746 Q 298 740 295 703 Q 283 564 273 534 Q 269 519 275 507 Q 281 495 291 497 Q 301 500 306 512 Q 321 539 331 661 Q 338 704 365 731 Q 378 746 364 756 Q 348 768 306 784 Q 291 790 175 746 Q 174 746 173 745 Z",
 "M 181 656 Q 199 643 217 625 Q 227 616 239 618 Q 246 619 249 628 Q 252 640 245 661 Q 239 679 176 691 Q 164 692 160 690 Q 156 687 158 678 Q 161 671 181 656 Z",

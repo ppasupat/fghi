@@ -1,30 +1,30 @@
 {
 "char": "贬",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "decrease, lower; censure, criticize",
 "pron": "biǎn"
 },
 "words": [
 [
-"贬低",
-6,
-"biǎn dī",
-"to belittle; to disparage; to play down; to demean; to degrade; to devalue"
-],
-[
-"贬义",
-6,
-"biǎn yì",
-"derogatory sense; negative connotation"
+"贬值",
+7,
+"biǎn zhí",
+"to become devaluated; to devaluate; to depreciate"
 ]
 ],
 "extraWords": [
 [
-"贬值",
-6.4,
-"biǎn zhí",
-"to become devaluated; to devaluate; to depreciate"
+"贬低",
+3.13,
+"biǎn dī",
+"to belittle; to disparage; to play down; to demean; to degrade; to devalue"
+],
+[
+"贬",
+3.1,
+"biǎn",
+"to diminish; to demote; to reduce or devaluate; to disparage; to censure; to depreciate"
 ]
 ],
 "strokes": [

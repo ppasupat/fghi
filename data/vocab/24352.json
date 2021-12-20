@@ -1,11 +1,17 @@
 {
 "char": "张",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "stretch, extend, expand; sheet",
 "pron": "zhāng"
 },
 "words": [
+[
+"紧张",
+3,
+"jǐn zhāng",
+"nervous; keyed up; intense; tense; strained; in short supply; scarce; CL:阵[zhèn]"
+],
 [
 "张",
 3,
@@ -19,66 +25,90 @@
 "to open up; to spread; sheet of paper; classifier for flat objects, sheet; classifier for votes"
 ],
 [
-"紧张",
-4,
-"jǐn zhāng",
-"nervous; keyed up; intense; tense; strained; in short supply; scarce; CL:陣|阵[zhen4]"
-],
-[
-"夸张",
-5,
-"kuā zhāng",
-"to exaggerate; overstated; exaggerated; hyperbole; (coll.) excessive; ridiculous; outrageous"
-],
-[
 "主张",
-5,
+3,
 "zhǔ zhāng",
-"to advocate; to stand for; view; position; stand; proposition; viewpoint; assertion; CL:個|个[ge4]"
+"to advocate; to stand for; view; position; stand; proposition; viewpoint; assertion; CL:个[gè]"
+],
+[
+"东张西望",
+7,
+"dōng zhāng xī wàng",
+"to look in all directions (idiom); to glance around"
 ],
 [
 "慌张",
-5,
+7,
 "huāng zhāng",
 "flustered; agitated"
 ],
 [
+"开张",
+7,
+"kāi zhāng",
+"to open a business; first transaction of a business day"
+],
+[
+"夸张",
+7,
+"kuā zhāng",
+"to exaggerate; overstated; exaggerated; hyperbole; (coll.) excessive; ridiculous; outrageous"
+],
+[
 "扩张",
-6,
+7,
 "kuò zhāng",
 "expansion; dilation; to expand (e.g. one's power or influence); to broaden"
 ],
 [
-"东张西望",
-6,
-"dōng zhāng xī wàng",
-"to look in all directions (idiom); to glance around"
-]
+"伸张",
+7,
+"shēn zhāng",
+"to uphold (e.g. justice or virtue); to promote"
 ],
-"extraWords": [
+[
+"张灯结彩",
+7,
+"zhāng dēng jié cǎi",
+"to be decorated with lanterns and colored banners (idiom)"
+],
+[
+"张贴",
+7,
+"zhāng tiē",
+"to post (a notice); to advertise"
+],
 [
 "张扬",
-9.71,
+7,
 "Zhāng Yáng",
 "Zhang Yang (1967-), PRC film director and screenwriter"
 ],
 [
 "张扬",
-9.71,
+7,
 "zhāng yáng",
 "to display ostentatiously; to bring out into the open; to make public; to spread around; flamboyant; brash"
+]
+],
+"extraWords": [
+[
+"张某",
+12.85,
+"???",
+"???"
+],
+[
+"张先生",
+11.34,
+"???",
+"???"
 ],
 [
 "张开",
 9.45,
 "zhāng kāi",
 "to open up; to spread; to extend"
-],
-[
-"开张",
-7.68,
-"kāi zhāng",
-"to open a business; first transaction of a business day"
 ],
 [
 "张艺谋",
@@ -93,16 +123,28 @@
 "tension"
 ],
 [
+"张杰",
+6.42,
+"???",
+"???"
+],
+[
 "嚣张",
 6.3,
 "xiāo zhāng",
 "rampant; unbridled; arrogant; aggressive"
 ],
 [
-"张贴",
-5.18,
-"zhāng tiē",
-"to post (a notice); to advertise"
+"第一张",
+5.64,
+"???",
+"???"
+],
+[
+"张女士",
+5.06,
+"???",
+"???"
 ]
 ],
 "strokes": [

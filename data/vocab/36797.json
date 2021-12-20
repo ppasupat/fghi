@@ -1,6 +1,6 @@
 {
 "char": "辽",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "distant, far",
 "pron": "liáo"
@@ -8,7 +8,7 @@
 "words": [
 [
 "辽阔",
-6,
+7,
 "liáo kuò",
 "vast; extensive"
 ]
@@ -18,13 +18,31 @@
 "辽宁",
 23.08,
 "Liáo níng",
-"Liaoning province in northeast China, short name 遼|辽[Liao2], capital Shenyang 瀋陽|沈阳[Shen3 yang2]"
+"Liaoning province in northeast China, short name 辽[Liáo], capital Shenyang 沈阳[Shěn yáng]"
+],
+[
+"辽",
+10.62,
+"Liáo",
+"short name for Liaoning 辽宁[Liáo níng] province; Liao or Khitan dynasty (907-1125)"
 ],
 [
 "辽宁省",
 8.44,
 "Liáo níng Shěng",
-"Liaoning province in northeast China, short name 遼|辽[Liao2], capital Shenyang 瀋陽|沈阳[Shen3 yang2]"
+"Liaoning province in northeast China, short name 辽[Liáo], capital Shenyang 沈阳[Shěn yáng]"
+],
+[
+"辽宁队",
+8.21,
+"???",
+"???"
+],
+[
+"辽足",
+7.08,
+"???",
+"???"
 ]
 ],
 "strokes": [

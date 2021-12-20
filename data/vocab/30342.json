@@ -1,19 +1,38 @@
 {
 "char": "皆",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "all, every, everybody",
 "pron": "jiē"
 },
 "words": [
 [
+"比比皆是",
+7,
+"bǐ bǐ jiē shì",
+"can be found everywhere"
+],
+[
 "皆",
-6,
+7,
 "jiē",
 "all; each and every; in all cases"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"皆大欢喜",
+1.64,
+"Jiē dà huān xǐ",
+"As You Like It, comedy by Shakespeare"
+],
+[
+"皆大欢喜",
+1.64,
+"jiē dà huān xǐ",
+"to everyone's delight and satisfaction"
+]
+],
 "strokes": [
 "M 299 608 Q 306 607 319 610 Q 407 632 472 645 Q 496 651 486 664 Q 473 679 446 681 Q 413 682 300 636 C 272 625 269 609 299 608 Z",
 "M 300 636 Q 303 727 306 740 Q 310 758 299 767 Q 287 779 244 791 Q 228 794 221 789 Q 214 783 225 764 Q 264 710 246 550 Q 242 529 237 512 Q 227 478 189 439 Q 176 429 183 406 Q 190 378 203 364 Q 213 354 228 367 Q 289 422 464 528 Q 480 537 484 546 Q 487 552 480 552 Q 467 553 317 490 Q 304 486 301 490 Q 295 493 299 608 L 300 636 Z",

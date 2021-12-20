@@ -1,34 +1,64 @@
 {
 "char": "轮",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "wheel; revolve, turn; recur",
 "pron": "lún"
 },
 "words": [
 [
+"轮",
+4,
+"lún",
+"wheel; disk; ring; steamship; to take turns; to rotate; by turn; classifier for big round objects: disk, or recurring events: round, turn"
+],
+[
+"轮船",
+4,
+"lún chuán",
+"steamship; steamer; ocean liner; ship; CL:艘[sōu]"
+],
+[
+"轮椅",
+4,
+"lún yǐ",
+"wheelchair"
+],
+[
+"轮子",
+4,
+"lún zi",
+"wheel; CL:个[gè]"
+],
+[
+"车轮",
+7,
+"chē lún",
+"wheel"
+],
+[
+"轮换",
+7,
+"lún huàn",
+"to rotate; to take turns; to switch"
+],
+[
+"轮廓",
+7,
+"lún kuò",
+"an outline; silhouette"
+],
+[
 "轮流",
-5,
+7,
 "lún liú",
 "to alternate; to take turns"
 ],
 [
 "轮胎",
-6,
+7,
 "lún tāi",
 "tire; pneumatic tire"
-],
-[
-"轮廓",
-6,
-"lún kuò",
-"an outline; silhouette"
-],
-[
-"轮船",
-6,
-"lún chuán",
-"steamship; steamer; ocean liner; ship; CL:艘[sou1]"
 ]
 ],
 "extraWords": [
@@ -43,12 +73,6 @@
 11.57,
 "dì èr lún",
 "second round (of match, or election)"
-],
-[
-"轮椅",
-11.3,
-"lún yǐ",
-"wheelchair"
 ],
 [
 "邮轮",
@@ -72,25 +96,19 @@
 "轮回",
 6.61,
 "lún huí",
-"variant of 輪迴|轮回[lun2 hui2]"
+"variant of 轮回[lún huí]"
 ],
 [
 "轮回",
 6.61,
 "lún huí",
-"to reincarnate; reincarnation (Buddhism); (of the seasons etc) to follow each other cyclically; cycle; CL:個|个[ge4]"
+"to reincarnate; reincarnation (Buddhism); (of the seasons etc) to follow each other cyclically; cycle; CL:个[gè]"
 ],
 [
-"轮子",
-6.05,
-"lún zi",
-"wheel; CL:個|个[ge4]"
-],
-[
-"车轮",
-5.69,
-"chē lún",
-"wheel"
+"第三轮",
+5.65,
+"???",
+"???"
 ]
 ],
 "strokes": [

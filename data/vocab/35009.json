@@ -1,11 +1,17 @@
 {
 "char": "裁",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "cut out; decrease",
 "pron": "cái"
 },
 "words": [
+[
+"裁判",
+5,
+"cái pàn",
+"judgment; to referee; umpire; judge; referee; CL:个[gè],位[wèi],名[míng]"
+],
 [
 "总裁",
 5,
@@ -13,40 +19,34 @@
 "chairman; director-general (of a company etc)"
 ],
 [
-"裁判",
-6,
-"cái pàn",
-"judgment; to referee; umpire; judge; referee; CL:個|个[ge4],位[wei4],名[ming2]"
+"裁",
+7,
+"cái",
+"to cut out (as a dress); to cut; to trim; to reduce; to diminish; to cut back (e.g. on staff); decision; judgment"
 ],
 [
-"裁缝",
-6,
-"cái féng",
-"tailor; dressmaker"
+"裁定",
+7,
+"cái dìng",
+"ruling"
+],
+[
+"裁决",
+7,
+"cái jué",
+"ruling; adjudication"
 ],
 [
 "制裁",
-6,
+7,
 "zhì cái",
 "to punish; punishment; sanctions (incl. economic)"
 ],
 [
-"裁员",
-6,
-"cái yuán",
-"to cut staff; to lay off employees"
-],
-[
-"独裁",
-6,
-"dú cái",
-"dictatorship"
-],
-[
-"体裁",
-6,
-"tǐ cái",
-"genre; style; form of writing"
+"仲裁",
+7,
+"zhòng cái",
+"arbitration"
 ]
 ],
 "extraWords": [
@@ -55,24 +55,6 @@
 14.39,
 "fù zǒng cái",
 "vice-chairman (of an organization); vice president (of a company); deputy governor (of a bank)"
-],
-[
-"仲裁",
-10.23,
-"zhòng cái",
-"arbitration"
-],
-[
-"裁决",
-9.51,
-"cái jué",
-"ruling; adjudication"
-],
-[
-"裁定",
-7.38,
-"cái dìng",
-"ruling"
 ]
 ],
 "strokes": [

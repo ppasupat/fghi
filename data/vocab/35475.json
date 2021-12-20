@@ -1,6 +1,6 @@
 {
 "char": "誓",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "swear, pledge; oath",
 "pron": "shì"
@@ -8,18 +8,24 @@
 "words": [
 [
 "发誓",
-6,
+7,
 "fā shì",
 "to vow; to pledge; to swear"
 ],
 [
 "宣誓",
-6,
+7,
 "xuān shì",
 "to swear an oath (of office); to make a vow"
 ]
 ],
 "extraWords": [
+[
+"誓",
+10.61,
+"shì",
+"oath; vow; to swear; to pledge"
+],
 [
 "誓言",
 10.4,

@@ -1,24 +1,30 @@
 {
 "char": "崖",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cliff, precipice; precipitous",
 "pron": "yá"
 },
 "words": [
 [
-"悬崖峭壁",
-6,
-"xuán yá qiào bì",
-"sheer cliffs and precipitous rock faces (idiom)"
+"悬崖",
+7,
+"xuán yá",
+"precipice; overhanging cliff"
 ]
 ],
 "extraWords": [
 [
-"悬崖",
-6.65,
-"xuán yá",
-"precipice; overhanging cliff"
+"崖",
+7.57,
+"yá",
+"precipice; cliff; Taiwan pr. [yai2]"
+],
+[
+"山崖",
+1.35,
+"shān yá",
+"cliff"
 ]
 ],
 "strokes": [

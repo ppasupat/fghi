@@ -1,6 +1,6 @@
 {
 "char": "粹",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "pure; unadulterated; select",
 "pron": "cuì"
@@ -8,7 +8,7 @@
 "words": [
 [
 "纯粹",
-6,
+7,
 "chún cuì",
 "pure; unadulterated; purely; completely"
 ]
@@ -19,6 +19,12 @@
 12.25,
 "Nà cuì",
 "Nazi (loanword)"
+],
+[
+"粹",
+2.71,
+"cuì",
+"pure; unmixed; essence"
 ]
 ],
 "strokes": [

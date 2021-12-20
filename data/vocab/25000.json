@@ -1,12 +1,31 @@
 {
 "char": "憨",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "foolish, silly, coquettish",
 "pron": "hān"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"憨",
+4.43,
+"hān",
+"silly; simple-minded; foolish; naive; sturdy; tough; heavy (of rope)"
+],
+[
+"憨厚",
+2.08,
+"hān hou",
+"simple and honest; straightforward"
+],
+[
+"憨态可掬",
+0.47,
+"hān tài kě jū",
+"(of pandas, ducklings etc) adorable; cute"
+]
+],
 "strokes": [
 "M 411 673 Q 429 719 454 736 Q 467 749 456 763 Q 398 809 357 785 Q 305 767 261 758 Q 248 757 250 749 Q 251 743 266 739 Q 281 733 373 752 Q 380 753 384 750 Q 391 743 388 730 Q 378 691 366 660 C 355 632 400 645 411 673 Z",
 "M 433 632 Q 464 638 492 641 Q 502 640 510 652 Q 511 662 490 672 Q 457 690 411 673 L 366 660 Q 350 657 338 653 Q 280 638 226 630 Q 189 626 147 618 Q 122 614 142 599 Q 172 578 209 586 Q 219 589 234 591 L 274 600 Q 385 627 403 625 L 433 632 Z",

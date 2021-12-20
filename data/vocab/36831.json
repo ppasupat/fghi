@@ -1,6 +1,6 @@
 {
 "char": "迟",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "late, tardy; slow; delay",
 "pron": "chí"
@@ -8,7 +8,7 @@
 "words": [
 [
 "迟到",
-3,
+4,
 "chí dào",
 "to arrive late"
 ],
@@ -19,42 +19,48 @@
 "to postpone; to put off; to defer"
 ],
 [
-"迟早",
+"迟",
 5,
-"chí zǎo",
-"sooner or later"
+"Chí",
+"surname Chi"
 ],
 [
-"迟钝",
-6,
-"chí dùn",
-"slow in one's reactions; sluggish (in movement or thought)"
+"迟",
+5,
+"chí",
+"late; delayed; slow"
+],
+[
+"迟迟",
+7,
+"chí chí",
+"late (with a task etc); slow"
 ],
 [
 "迟疑",
-6,
+7,
 "chí yí",
 "to hesitate"
 ],
 [
-"迟缓",
-6,
-"chí huǎn",
-"slow; sluggish"
+"迟早",
+7,
+"chí zǎo",
+"sooner or later"
 ]
 ],
 "extraWords": [
-[
-"迟迟",
-9.52,
-"chí chí",
-"late (with a task etc); slow"
-],
 [
 "延迟",
 7.29,
 "yán chí",
 "to delay; to postpone; to keep putting sth off; to procrastinate; (computing) to lag"
+],
+[
+"迟钝",
+6.53,
+"chí dùn",
+"slow in one's reactions; sluggish (in movement or thought)"
 ]
 ],
 "strokes": [

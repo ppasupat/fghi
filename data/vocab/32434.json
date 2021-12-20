@@ -1,36 +1,42 @@
 {
 "char": "纲",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "heavy rope, hawser; main points",
 "pron": "gāng"
 },
 "words": [
 [
-"提纲",
+"大纲",
 5,
-"tí gāng",
-"outline; synopsis; notes"
+"dà gāng",
+"synopsis; outline; program; leading principles"
 ],
 [
 "纲领",
-6,
+7,
 "gāng lǐng",
 "program (i.e. plan of action); guiding principle"
+],
+[
+"纲要",
+7,
+"gāng yào",
+"outline; essential points"
 ]
 ],
 "extraWords": [
 [
-"纲要",
-11.34,
-"gāng yào",
-"outline; essential points"
+"纲",
+6.76,
+"gāng",
+"head rope of a fishing net; guiding principle; key link; class (taxonomy); outline; program"
 ],
 [
-"大纲",
-5.15,
-"dà gāng",
-"synopsis; outline; program; leading principles"
+"郭德纲",
+5.44,
+"???",
+"???"
 ]
 ],
 "strokes": [

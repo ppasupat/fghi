@@ -1,12 +1,31 @@
 {
 "char": "庐",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "hut, cottage; name of a mountain",
 "pron": "lú"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"庐山",
+3.59,
+"Lú shān",
+"Lushan district of Jiujiang city 九江市, Jiangxi; Mt Lushan in Jiujiang, famous as summer holiday spot"
+],
+[
+"庐",
+1.92,
+"lú",
+"hut"
+],
+[
+"桐庐",
+1.08,
+"Tóng lú",
+"Tonglu county in Hangzhou 杭州[Háng zhōu], Zhejiang"
+]
+],
 "strokes": [
 "M 494 793 Q 522 771 553 744 Q 569 729 587 732 Q 600 733 604 748 Q 608 766 597 799 Q 590 820 555 832 Q 477 856 460 847 Q 454 843 457 828 Q 461 815 494 793 Z",
 "M 331 626 Q 376 619 446 627 Q 755 675 777 685 Q 778 686 781 687 Q 791 694 786 704 Q 779 717 751 725 Q 720 734 689 723 Q 610 701 525 683 Q 431 667 323 661 C 293 659 301 630 331 626 Z",

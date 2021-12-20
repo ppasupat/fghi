@@ -1,24 +1,36 @@
 {
 "char": "驳",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "varicolored, variegated; mixed",
 "pron": "bó"
 },
 "words": [
 [
+"驳回",
+7,
+"bó huí",
+"to reject; to turn down; to overrule"
+],
+[
 "反驳",
-6,
+7,
 "fǎn bó",
 "to retort; to refute"
 ]
 ],
 "extraWords": [
 [
-"驳回",
-5.96,
-"bó huí",
-"to reject; to turn down; to overrule"
+"驳",
+4.04,
+"bó",
+"variegated; heterogeneous; to refute; to contradict; to ship by barge; a barge; a lighter (ship)"
+],
+[
+"驳",
+4.04,
+"bó",
+"variant of 驳[bó]"
 ]
 ],
 "strokes": [

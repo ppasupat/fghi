@@ -1,12 +1,32 @@
 {
 "char": "倚",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "rely on, depend on; lean heavily",
 "pron": "yǐ"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"倚",
+7,
+"yǐ",
+"to lean on; to rely upon"
+]
+],
+"extraWords": [
+[
+"倚重",
+0.89,
+"yǐ zhòng",
+"to rely heavily upon"
+],
+[
+"倚靠",
+0.83,
+"yǐ kào",
+"to lean on; to rest against; to rely on; support; backing; back of a chair"
+]
+],
 "strokes": [
 "M 247 542 Q 289 599 335 671 Q 363 722 389 746 Q 399 756 395 771 Q 391 784 362 808 Q 334 827 316 827 Q 297 826 304 803 Q 319 769 305 740 Q 265 646 203 557 Q 145 472 63 379 Q 53 369 50 363 Q 47 351 61 354 Q 100 358 205 490 Q 212 500 222 510 L 247 542 Z",
 "M 222 510 Q 246 437 247 433 Q 246 432 247 429 Q 253 267 218 127 Q 208 82 242 31 Q 243 31 245 28 Q 263 12 275 39 Q 290 79 289 126 Q 288 396 297 456 Q 304 483 295 494 Q 255 537 247 542 C 225 562 213 539 222 510 Z",

@@ -1,73 +1,145 @@
 {
 "char": "字",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "letter, character, word",
 "pron": "zì"
 },
 "words": [
 [
-"字",
+"汉字",
 1,
-"zì",
-"letter; symbol; character; word; CL:個|个[ge4]; courtesy or style name traditionally given to males aged 20 in dynastic China"
+"hàn zì",
+"Chinese character; CL:个[gè]; Japanese: kanji; Korean: hanja; Vietnamese: hán tự"
 ],
 [
 "名字",
 1,
 "míng zi",
-"name (of a person or thing); CL:個|个[ge4]"
+"name (of a person or thing); CL:个[gè]"
+],
+[
+"字",
+1,
+"zì",
+"letter; symbol; character; word; CL:个[gè]; courtesy or style name traditionally given to males aged 20 in dynastic China"
 ],
 [
 "数字",
-4,
+2,
 "shù zì",
-"numeral; digit; number; figure; amount; digital (electronics etc); CL:個|个[ge4]"
+"numeral; digit; number; figure; amount; digital (electronics etc); CL:个[gè]"
 ],
 [
-"字母",
-5,
-"zì mǔ",
-"letter (of the alphabet); CL:個|个[ge4]"
+"字典",
+2,
+"zì diǎn",
+"Chinese character dictionary (containing entries for single characters, contrasted with a 词典[cí diǎn], which has entries for words of one or more characters); (coll.) dictionary; CL:本[běn]"
 ],
 [
 "文字",
-5,
+3,
 "wén zì",
-"character; script; writing; written language; writing style; phraseology; CL:個|个[ge4]"
+"character; script; writing; written language; writing style; phraseology; CL:个[gè]"
 ],
 [
-"字幕",
+"字母",
+4,
+"zì mǔ",
+"letter (of the alphabet); CL:个[gè]"
+],
+[
+"签字",
 5,
-"zì mù",
-"caption; subtitle"
+"qiān zì",
+"to sign (one's name); signature"
 ],
 [
-"简体字",
+"识字",
 6,
-"jiǎn tǐ zì",
-"simplified Chinese character, as opposed to traditional Chinese character 繁體字|繁体字[fan2 ti3 zi4]"
+"shí zì",
+"to learn to read"
+],
+[
+"写字楼",
+6,
+"xiě zì lóu",
+"office building"
+],
+[
+"写字台",
+6,
+"xiě zì tái",
+"writing desk"
 ],
 [
 "赤字",
-6,
+7,
 "chì zì",
 "(financial) deficit; red letter"
 ],
 [
+"错别字",
+7,
+"cuò bié zì",
+"incorrectly written or mispronounced characters"
+],
+[
 "繁体字",
-6,
+7,
 "fán tǐ zì",
 "traditional Chinese character"
+],
+[
+"简体字",
+7,
+"jiǎn tǐ zì",
+"simplified Chinese character, as opposed to traditional Chinese character 繁体字[fán tǐ zì]"
+],
+[
+"金字塔",
+7,
+"jīn zì tǎ",
+"pyramid (building or structure)"
+],
+[
+"老字号",
+7,
+"lǎo zì hào",
+"shop, firm, or brand of merchandise with a long-established reputation"
+],
+[
+"十字路口",
+7,
+"shí zì lù kǒu",
+"crossroads; intersection"
+],
+[
+"字迹",
+7,
+"zì jì",
+"handwriting"
+],
+[
+"字幕",
+7,
+"zì mù",
+"caption; subtitle"
+],
+[
+"字体",
+7,
+"zì tǐ",
+"calligraphic style; typeface; font"
+],
+[
+"字眼",
+7,
+"zì yǎn",
+"wording"
 ]
 ],
 "extraWords": [
-[
-"签字",
-18.81,
-"qiān zì",
-"to sign (one's name); signature"
-],
 [
 "十字架",
 11.27,
@@ -75,28 +147,10 @@
 "cross; crucifix; yoke one has to endure"
 ],
 [
-"写字楼",
-10.1,
-"xiě zì lóu",
-"office building"
-],
-[
 "字样",
 9.91,
 "zì yàng",
 "model or template character; written slogan or phrase; mention (e.g. \"air mail\" 航空 on a letter, \"first draft\" 初稿 on a document etc)"
-],
-[
-"汉字",
-8.58,
-"hàn zì",
-"Chinese character; CL:個|个[ge4]; Japanese: kanji; Korean: hanja; Vietnamese: hán tự"
-],
-[
-"金字塔",
-7.2,
-"jīn zì tǎ",
-"pyramid (building or structure)"
 ],
 [
 "数字化",

@@ -1,6 +1,6 @@
 {
 "char": "哎",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "interjection of surprise",
 "pron": "āi"
@@ -8,18 +8,18 @@
 "words": [
 [
 "哎",
-5,
+7,
 "āi",
 "hey!; (interjection used to attract attention or to express surprise or disapprobation)"
+],
+[
+"哎呀",
+7,
+"āi yā",
+"interjection of wonder, shock or admiration"
 ]
 ],
 "extraWords": [
-[
-"哎呀",
-20.28,
-"āi yā",
-"interjection of wonder, shock or admiration"
-],
 [
 "哎哟",
 16.37,

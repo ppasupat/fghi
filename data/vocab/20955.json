@@ -1,12 +1,31 @@
 {
 "char": "凛",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "to shiver with cold or fear",
 "pron": "lǐn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"凛",
+2.51,
+"lǐn",
+"cold; to shiver with cold; to tremble with fear; afraid; apprehensive; strict; stern; severe; austere; awe-inspiring; imposing; majestic"
+],
+[
+"凛冽",
+1.7,
+"lǐn liè",
+"biting cold"
+],
+[
+"凛然",
+1.19,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 212 666 Q 243 636 277 601 Q 292 586 310 586 Q 322 586 328 601 Q 335 617 326 652 Q 320 676 285 694 Q 204 731 184 723 Q 178 719 179 704 Q 183 691 212 666 Z",
 "M 124 178 Q 112 174 114 156 Q 132 78 164 59 Q 171 52 182 55 Q 191 56 191 83 Q 200 138 297 387 Q 304 403 303 410 Q 302 420 293 413 Q 278 404 165 220 Q 152 199 124 178 Z",

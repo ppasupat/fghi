@@ -1,14 +1,26 @@
 {
 "char": "蠢",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "wriggle; stupid; silly; fat",
 "pron": "chǔn"
 },
 "words": [
 [
+"蠢",
+7,
+"chǔn",
+"variant of 蠢[chǔn]; stupid"
+],
+[
+"蠢",
+7,
+"chǔn",
+"stupid; sluggish; clumsy; to wiggle (of worms); to move in a disorderly fashion"
+],
+[
 "愚蠢",
-6,
+7,
 "yú chǔn",
 "silly; stupid"
 ]

@@ -1,28 +1,16 @@
 {
 "char": "素",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "white (silk); plain; vegetarian; formerly; normally",
 "pron": "sù"
 },
 "words": [
 [
-"因素",
-5,
-"yīn sù",
-"element; factor; CL:個|个[ge4]"
-],
-[
-"元素",
+"素质",
 6,
-"yuán sù",
-"element; element of a set; chemical element"
-],
-[
-"素食",
-6,
-"sù shí",
-"vegetables; vegetarian food"
+"sù zhì",
+"inner quality; basic essence"
 ],
 [
 "维生素",
@@ -31,22 +19,76 @@
 "vitamin"
 ],
 [
-"素质",
-6,
-"sù zhì",
-"inner quality; basic essence"
-],
-[
 "要素",
 6,
 "yào sù",
 "essential factor; key constituent"
 ],
 [
-"朴素",
+"因素",
 6,
+"yīn sù",
+"element; factor; CL:个[gè]"
+],
+[
+"元素",
+6,
+"yuán sù",
+"element; element of a set; chemical element"
+],
+[
+"激素",
+7,
+"jī sù",
+"hormone"
+],
+[
+"抗生素",
+7,
+"kàng shēng sù",
+"antibiotic"
+],
+[
+"朴素",
+7,
 "pǔ sù",
 "plain and simple; unadorned; simple living; not frivolous"
+],
+[
+"素",
+7,
+"sù",
+"raw silk; white; plain, unadorned; vegetarian (food); essence; nature; element; constituent; usually; always; ever"
+],
+[
+"素不相识",
+7,
+"sù bù xiāng shí",
+"to be total strangers (idiom)"
+],
+[
+"素材",
+7,
+"sù cái",
+"source material (in literature and art)"
+],
+[
+"素描",
+7,
+"sù miáo",
+"sketch"
+],
+[
+"素食",
+7,
+"sù shí",
+"vegetables; vegetarian food"
+],
+[
+"素养",
+7,
+"sù yǎng",
+"(personal) accomplishment; attainment in self-cultivation"
 ]
 ],
 "extraWords": [
@@ -55,18 +97,6 @@
 27.17,
 "xiàng sù",
 "pixel"
-],
-[
-"激素",
-16.55,
-"jī sù",
-"hormone"
-],
-[
-"抗生素",
-12.13,
-"kàng shēng sù",
-"antibiotic"
 ],
 [
 "毒素",
@@ -85,18 +115,6 @@
 7.0,
 "yí dǎo sù",
 "insulin"
-],
-[
-"素材",
-6.12,
-"sù cái",
-"source material (in literature and art)"
-],
-[
-"素养",
-6.09,
-"sù yǎng",
-"(personal) accomplishment; attainment in self-cultivation"
 ]
 ],
 "strokes": [

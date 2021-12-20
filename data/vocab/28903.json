@@ -1,6 +1,6 @@
 {
 "char": "烧",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "burn; bake; heat; roast",
 "pron": "shāo"
@@ -8,35 +8,47 @@
 "words": [
 [
 "发烧",
-3,
+4,
 "fā shāo",
 "to have a high temperature (from illness); to have a fever"
 ],
 [
 "燃烧",
-5,
+4,
 "rán shāo",
 "to ignite; to combust; to burn; combustion; flaming"
+],
+[
+"烧",
+4,
+"shāo",
+"to burn; to cook; to stew; to bake; to roast; to heat; to boil (tea, water etc); fever; to run a temperature; (coll.) to let things go to one's head"
+],
+[
+"焚烧",
+7,
+"fén shāo",
+"to burn; to set on fire"
+],
+[
+"烧毁",
+7,
+"shāo huǐ",
+"to burn; to burn down"
+],
+[
+"烧烤",
+7,
+"shāo kǎo",
+"barbecue; to roast"
 ]
 ],
 "extraWords": [
-[
-"烧烤",
-10.75,
-"shāo kǎo",
-"barbecue; to roast"
-],
 [
 "烧伤",
 9.26,
 "shāo shāng",
 "burn (injury)"
-],
-[
-"烧毁",
-6.95,
-"shāo huǐ",
-"to burn; to burn down"
 ]
 ],
 "strokes": [

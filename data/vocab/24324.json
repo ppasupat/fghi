@@ -1,6 +1,6 @@
 {
 "char": "弄",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "do, play or fiddle with; alley",
 "pron": "lòng, nòng"
@@ -8,36 +8,54 @@
 "words": [
 [
 "弄",
-4,
+2,
 "lòng",
 "lane; alley"
 ],
 [
 "弄",
-4,
+2,
 "nòng",
 "to do; to manage; to handle; to play with; to fool with; to mess with; to fix; to toy with"
 ],
 [
 "弄",
-4,
+2,
 "nòng",
-"old variant of 弄[nong4]"
+"old variant of 弄[nòng]"
 ],
 [
 "弄",
-4,
+2,
 "lòng",
-"variant of 弄[long4]"
+"variant of 弄[lòng]"
 ],
 [
-"玩弄",
-6,
-"wán nòng",
-"to play with; to toy with; to dally with; to engage in; to resort to"
+"嘲弄",
+7,
+"cháo nòng",
+"to tease; to poke fun at; to make fun of"
+],
+[
+"卖弄",
+7,
+"mài nong",
+"to show off; to make a display of"
+],
+[
+"弄虚作假",
+7,
+"nòng xū zuò jiǎ",
+"to practice fraud (idiom); by trickery"
 ]
 ],
 "extraWords": [
+[
+"玩弄",
+9.33,
+"wán nòng",
+"to play with; to toy with; to dally with; to engage in; to resort to"
+],
 [
 "弄清",
 5.78,

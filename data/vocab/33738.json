@@ -1,17 +1,36 @@
 {
 "char": "菊",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "chrysanthemum",
 "pron": "jú"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "菊花",
-12.1,
+7,
 "jú huā",
 "chrysanthemum; (slang) anus"
+]
+],
+"extraWords": [
+[
+"菊",
+12.42,
+"jú",
+"chrysanthemum"
+],
+[
+"黄菊",
+1.73,
+"Huáng Jú",
+"Huang Ju (1938-2007), Chinese politician"
+],
+[
+"黄菊",
+1.73,
+"huáng jú",
+"yellow chrysanthemum; wine"
 ]
 ],
 "strokes": [

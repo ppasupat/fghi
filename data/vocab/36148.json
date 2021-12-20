@@ -1,37 +1,55 @@
 {
 "char": "贴",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "paste to, stick on; attached to",
 "pron": "tiē"
 },
 "words": [
 [
-"体贴",
+"贴",
+4,
+"tiē",
+"to stick; to paste; to post (e.g. on a blog); to keep close to; to fit snugly; to subsidize; allowance (e.g. money for food or housing); sticker; classifier for sticking plaster: strip"
+],
+[
+"补贴",
 5,
+"bǔ tiē",
+"to subsidize; subsidy; allowance; to supplement (one's salary etc); benefit"
+],
+[
+"津贴",
+7,
+"jīn tiē",
+"allowance"
+],
+[
+"体贴",
+7,
 "tǐ tiē",
 "considerate (of other people's needs)"
 ],
 [
-"粘贴",
-5,
-"zhān tiē",
-"to stick; to affix; to adhere; to paste (as in \"copy and paste\"); Taiwan pr. [nian2 tie1]; also written 黏貼|黏贴[nian2 tie1]"
-],
-[
-"补贴",
-6,
-"bǔ tiē",
-"to subsidize; subsidy; allowance; to supplement (one's salary etc); benefit"
-]
-],
-"extraWords": [
-[
 "贴近",
-9.57,
+7,
 "tiē jìn",
 "to press close to; to snuggle close; intimate"
 ],
+[
+"贴切",
+7,
+"tiē qiè",
+"close-fitting; closest (translation)"
+],
+[
+"张贴",
+7,
+"zhāng tiē",
+"to post (a notice); to advertise"
+]
+],
+"extraWords": [
 [
 "贴心",
 8.73,
@@ -43,12 +61,6 @@
 5.4,
 "tiē shēn",
 "worn next to the skin; close-fitting; personal (servant etc)"
-],
-[
-"张贴",
-5.18,
-"zhāng tiē",
-"to post (a notice); to advertise"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "诚",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "sincere, honest; true, real",
 "pron": "chéng"
@@ -13,48 +13,66 @@
 "honest; honesty; honorable; truthful"
 ],
 [
-"诚恳",
-5,
-"chéng kěn",
-"sincere; honest; cordial"
+"诚信",
+4,
+"chéng xìn",
+"genuine; honest; in good faith; honesty; integrity"
 ],
-[
-"忠诚",
-6,
-"zhōng chéng",
-"devoted; loyal; fidelity; loyalty"
-],
-[
-"诚挚",
-6,
-"chéng zhì",
-"sincere; cordial"
-]
-],
-"extraWords": [
 [
 "真诚",
-25.32,
+5,
 "zhēn chéng",
 "true; sincere; genuine"
 ],
 [
-"坦诚",
-9.21,
-"tǎn chéng",
-"candid; frank; plain dealing"
+"诚恳",
+7,
+"chéng kěn",
+"sincere; honest; cordial"
+],
+[
+"诚心诚意",
+7,
+"chéng xīn chéng yì",
+"earnestly and sincerely (idiom); with all sincerity"
 ],
 [
 "诚意",
-8.96,
+7,
 "chéng yì",
 "sincerity; good faith"
 ],
 [
+"诚挚",
+7,
+"chéng zhì",
+"sincere; cordial"
+],
+[
 "虔诚",
-7.75,
+7,
 "qián chéng",
 "pious; devout; sincere"
+],
+[
+"坦诚",
+7,
+"tǎn chéng",
+"candid; frank; plain dealing"
+],
+[
+"忠诚",
+7,
+"zhōng chéng",
+"devoted; loyal; fidelity; loyalty"
+]
+],
+"extraWords": [
+[
+"诚",
+45.2,
+"chéng",
+"sincere; authentic; really; truly"
 ]
 ],
 "strokes": [

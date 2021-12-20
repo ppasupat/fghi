@@ -1,31 +1,37 @@
 {
 "char": "烤",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "bake, roast, toast, cook",
 "pron": "kǎo"
 },
 "words": [
 [
-"烤鸭",
-4,
-"kǎo yā",
-"roast duck"
-]
-],
-"extraWords": [
-[
-"烧烤",
-10.75,
-"shāo kǎo",
-"barbecue; to roast"
-],
-[
 "烤肉",
-8.64,
+5,
 "kǎo ròu",
 "barbecue (lit. roast meat)"
 ],
+[
+"烤鸭",
+5,
+"kǎo yā",
+"roast duck"
+],
+[
+"烤",
+7,
+"kǎo",
+"to roast; to bake; to broil"
+],
+[
+"烧烤",
+7,
+"shāo kǎo",
+"barbecue; to roast"
+]
+],
+"extraWords": [
 [
 "烤箱",
 5.84,

@@ -1,12 +1,31 @@
 {
 "char": "涣",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "scatter; scattered",
 "pron": "huàn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"涣",
+3.77,
+"huàn",
+"to dissipate; to dissolve"
+],
+[
+"涣散",
+1.41,
+"huàn sàn",
+"to slacken; lax; slack; disorganized"
+],
+[
+"人心涣散",
+0.2,
+"rén xīn huàn sàn",
+"(of a nation, government etc) demoralized; disunited"
+]
+],
 "strokes": [
 "M 245 706 Q 276 678 309 642 Q 322 627 339 627 Q 351 627 357 641 Q 363 656 355 688 Q 346 724 243 757 Q 227 761 220 759 Q 214 755 215 742 Q 219 730 245 706 Z",
 "M 142 504 Q 194 443 230 427 Q 245 423 255 437 Q 262 450 259 467 Q 249 507 156 542 Q 140 548 129 544 Q 123 543 125 530 Q 126 518 142 504 Z",

@@ -1,6 +1,6 @@
 {
 "char": "说",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "speak, say, talk; scold, upbraid",
 "pron": "shuì, shuō"
@@ -22,105 +22,333 @@
 "说",
 1,
 "shuō",
-"variant of 說|说[shuo1]"
+"variant of 说[shuō]"
 ],
 [
 "说话",
-2,
+1,
 "shuō huà",
 "to speak; to say; to talk; to gossip; to tell stories; talk; word"
 ],
 [
+"比如说",
+2,
+"bǐ rú shuō",
+"for example"
+],
+[
 "说明",
-4,
+2,
 "shuō míng",
-"to explain; to illustrate; to indicate; to show; to prove; explanation; directions; caption; CL:個|个[ge4]"
+"to explain; to illustrate; to indicate; to show; to prove; explanation; directions; caption; CL:个[gè]"
+],
+[
+"听说",
+2,
+"tīng shuō",
+"to hear (sth said); one hears (that); hearsay; listening and speaking"
 ],
 [
 "小说",
-4,
+2,
 "xiǎo shuō",
-"novel; fiction; CL:本[ben3],部[bu4]"
-],
-[
-"说服",
-5,
-"shuō fú",
-"to persuade; to convince; to talk sb over; Taiwan pr. [shui4 fu2]"
-],
-[
-"说不定",
-5,
-"shuō bu dìng",
-"can't say for sure; maybe"
-],
-[
-"胡说",
-5,
-"hú shuō",
-"to talk nonsense; drivel"
+"novel; fiction; CL:本[běn],部[bù]"
 ],
 [
 "传说",
-5,
+3,
 "chuán shuō",
 "legend; folklore; to repeat from mouth to mouth; they say that..."
 ],
 [
 "据说",
-5,
+3,
 "jù shuō",
 "it is said that; reportedly"
 ],
 [
-"学说",
-6,
-"xué shuō",
-"theory; doctrine"
-]
-],
-"extraWords": [
-[
-"听说",
-241.4,
-"tīng shuō",
-"to hear (sth said); one hears (that); hearsay; listening and speaking"
+"说不定",
+4,
+"shuō bu dìng",
+"can't say for sure; maybe"
 ],
 [
-"说道",
-120.29,
-"shuō dào",
-"to state; to say (the quoted words)"
+"说服",
+4,
+"shuō fú",
+"to persuade; to convince; to talk sb over; Taiwan pr. [shui4 fu2]"
 ],
 [
-"说道",
-120.29,
-"shuō dao",
-"to discuss; reason (behind sth)"
-],
-[
-"再说",
-66.83,
-"zài shuō",
-"to say again; to put off a discussion until later; moreover; what's more; besides"
-],
-[
-"说谎",
-61.94,
-"shuō huǎng",
-"to lie; to tell an untruth"
+"一般来说",
+4,
+"yī bān lái shuō",
+"generally speaking"
 ],
 [
 "说法",
-53.18,
+5,
 "shuō fǎ",
 "to expound Buddhist teachings"
 ],
 [
 "说法",
-53.18,
+5,
 "shuō fa",
 "way of speaking; wording; formulation; one's version (of events); statement; theory; hypothesis; interpretation"
+],
+[
+"很难说",
+6,
+"???",
+"???"
+],
+[
+"解说",
+6,
+"jiě shuō",
+"to explain; to comment"
+],
+[
+"就是说",
+6,
+"jiù shì shuō",
+"in other words; that is"
+],
+[
+"说明书",
+6,
+"shuō míng shū",
+"(technical) manual; (book of) directions; synopsis (of a play or film); specification (patent); CL:本[běn]"
+],
+[
+"说实话",
+6,
+"shuō shí huà",
+"to speak the truth; truth to tell; frankly"
+],
+[
+"再说",
+6,
+"zài shuō",
+"to say again; to put off a discussion until later; moreover; what's more; besides"
+],
+[
+"这就是说",
+6,
+"zhè jiù shì shuō",
+"in other words; that is to say"
+],
+[
+"按理说",
+7,
+"àn lǐ shuō",
+"it is reasonable to say that..."
+],
+[
+"按说",
+7,
+"àn shuō",
+"in the ordinary course of events; ordinarily; normally"
+],
+[
+"别说",
+7,
+"bié shuō",
+"to say nothing of; not to mention; let alone"
+],
+[
+"不用说",
+7,
+"bù yòng shuō",
+"needless to say; it goes without saying"
+],
+[
+"不如说",
+7,
+"???",
+"???"
+],
+[
+"好说",
+7,
+"hǎo shuō",
+"easy to deal with; not a problem; (polite answer) you flatter me"
+],
+[
+"胡说",
+7,
+"hú shuō",
+"to talk nonsense; drivel"
+],
+[
+"老实说",
+7,
+"lǎo shí shuō",
+"honestly speaking; to be frank, ..."
+],
+[
+"没说的",
+7,
+"méi shuō de",
+"nothing to pick on; really good; nothing to discuss; settled matter; no problem"
+],
+[
+"难说",
+7,
+"nán shuō",
+"hard to tell (i.e. hard to judge or hard to predict); cannot bring oneself to say it"
+],
+[
+"譬如说",
+7,
+"pì rú shuō",
+"for example"
+],
+[
+"劝说",
+7,
+"quàn shuō",
+"to persuade; persuasion; to advise"
+],
+[
+"如果说",
+7,
+"rú guǒ shuō",
+"if; if one were to say"
+],
+[
+"实话实说",
+7,
+"shí huà shí shuō",
+"to tell the truth; to tell it as it is"
+],
+[
+"说白了",
+7,
+"shuō bái le",
+"to speak frankly"
+],
+[
+"说不上",
+7,
+"shuō bu shàng",
+"to be unable to say or tell; to not be worth mentioning"
+],
+[
+"说到底",
+7,
+"shuō dào dǐ",
+"in the final analysis; in the end"
+],
+[
+"说道",
+7,
+"shuō dào",
+"to state; to say (the quoted words)"
+],
+[
+"说道",
+7,
+"shuō dao",
+"to discuss; reason (behind sth)"
+],
+[
+"说干就干",
+7,
+"shuō gàn jiù gàn",
+"to do what needs to be done, without delay"
+],
+[
+"说谎",
+7,
+"shuō huǎng",
+"to lie; to tell an untruth"
+],
+[
+"说老实话",
+7,
+"shuō lǎo shi huà",
+"to be honest; to tell the truth; to be frank"
+],
+[
+"说起来",
+7,
+"???",
+"???"
+],
+[
+"说情",
+7,
+"shuō qíng",
+"to intercede; to plead for sb else"
+],
+[
+"说闲话",
+7,
+"shuō xián huà",
+"to chat; to gossip"
+],
+[
+"说真的",
+7,
+"shuō zhēn de",
+"to tell the truth; honestly; in fact"
+],
+[
+"俗话说",
+7,
+"sú huà shuō",
+"as the proverb says; as they say..."
+],
+[
+"诉说",
+7,
+"sù shuō",
+"to recount; to tell of; to relate; (fig.) (of a thing) to stand as testament to (some past history)"
+],
+[
+"虽说",
+7,
+"suī shuō",
+"though; although"
+],
+[
+"无话可说",
+7,
+"wú huà kě shuō",
+"to have nothing to say (idiom)"
+],
+[
+"学说",
+7,
+"xué shuō",
+"theory; doctrine"
+],
+[
+"演说",
+7,
+"yǎn shuō",
+"speech; to deliver a speech"
+],
+[
+"也就是说",
+7,
+"yě jiù shì shuō",
+"in other words; that is to say; so; thus"
+],
+[
+"总的来说",
+7,
+"zǒng de lái shuō",
+"generally speaking; to sum up; in summary; in short"
+]
+],
+"extraWords": [
+[
+"来说",
+298.87,
+"???",
+"???"
 ],
 [
 "话说",
@@ -129,28 +357,10 @@
 "It is said that ... (at the start of a narrative); to discuss; to recount"
 ],
 [
-"说实话",
-45.67,
-"shuō shí huà",
-"to speak the truth; truth to tell; frankly"
-],
-[
-"也就是说",
-36.25,
-"yě jiù shì shuō",
-"in other words; that is to say; so; thus"
-],
-[
 "说出",
 28.4,
 "shuō chū",
 "to speak out; to declare (one's view)"
-],
-[
-"比如说",
-24.68,
-"bǐ rú shuō",
-"for example"
 ],
 [
 "说说",
@@ -159,10 +369,22 @@
 "to say sth"
 ],
 [
+"可以说是",
+18.02,
+"???",
+"???"
+],
+[
 "说了算",
 16.22,
 "shuō le suàn",
 "to have the final say; to be the one in charge"
+],
+[
+"直说",
+16.07,
+"???",
+"???"
 ],
 [
 "胡说八道",
@@ -171,16 +393,10 @@
 "to talk rubbish"
 ],
 [
-"别说",
-13.99,
-"bié shuō",
-"to say nothing of; not to mention; let alone"
-],
-[
-"就是说",
-13.01,
-"jiù shì shuō",
-"in other words; that is"
+"说是",
+13.18,
+"???",
+"???"
 ],
 [
 "说好",
@@ -189,28 +405,10 @@
 "to come to an agreement; to complete negotiations"
 ],
 [
-"虽说",
-12.06,
-"suī shuō",
-"though; although"
-],
-[
-"解说",
-11.94,
-"jiě shuō",
-"to explain; to comment"
-],
-[
-"说明书",
-11.28,
-"shuō míng shū",
-"(technical) manual; (book of) directions; synopsis (of a play or film); specification (patent); CL:本[ben3]"
-],
-[
-"实话实说",
-10.02,
-"shí huà shí shuō",
-"to tell the truth; to tell it as it is"
+"说来",
+11.36,
+"???",
+"???"
 ],
 [
 "说来话长",
@@ -219,52 +417,22 @@
 "start explaining and it's a long story (idiom); complicated and not easy to express succinctly"
 ],
 [
-"一般来说",
-7.98,
-"yī bān lái shuō",
-"generally speaking"
-],
-[
 "说笑",
 7.69,
 "shuō xiào",
 "to chat and laugh; to crack jokes; to banter"
 ],
 [
-"演说",
-7.66,
-"yǎn shuō",
-"speech; to deliver a speech"
-],
-[
 "说唱",
 7.57,
 "shuō chàng",
-"speaking and singing, as in various forms of storytelling such as 彈詞|弹词[tan2 ci2] and 相聲|相声[xiang4 sheng5]; (music) rapping"
+"speaking and singing, as in various forms of storytelling such as 弹词[tán cí] and 相声[xiàng sheng]; (music) rapping"
 ],
 [
-"好说",
-7.36,
-"hǎo shuō",
-"easy to deal with; not a problem; (polite answer) you flatter me"
-],
-[
-"劝说",
-7.29,
-"quàn shuō",
-"to persuade; persuasion; to advise"
-],
-[
-"不用说",
-6.88,
-"bù yòng shuō",
-"needless to say; it goes without saying"
-],
-[
-"诉说",
-6.67,
-"sù shuō",
-"to recount; to tell of; to relate; (fig.) (of a thing) to stand as testament to (some past history)"
+"却说",
+7.39,
+"???",
+"???"
 ],
 [
 "瞎说",

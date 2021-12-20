@@ -1,6 +1,6 @@
 {
 "char": "尤",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "especially, particularly",
 "pron": "yóu"
@@ -8,9 +8,15 @@
 "words": [
 [
 "尤其",
-4,
+5,
 "yóu qí",
 "especially; particularly"
+],
+[
+"尤为",
+7,
+"yóu wéi",
+"especially"
 ]
 ],
 "extraWords": [
@@ -21,10 +27,16 @@
 "especially; most of all; above all; in particular"
 ],
 [
-"尤为",
-10.88,
-"yóu wéi",
-"especially"
+"尤",
+17.94,
+"Yóu",
+"surname You"
+],
+[
+"尤",
+17.94,
+"yóu",
+"outstanding; particularly, especially; a fault; to express discontentment against"
 ],
 [
 "尤文图斯",

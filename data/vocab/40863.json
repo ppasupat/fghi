@@ -1,17 +1,30 @@
 {
 "char": "龟",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "turtle or tortoise; cuckold",
 "pron": "guī, jūn, qiū"
 },
-"words": [],
+"words": [
+[
+"龟",
+7,
+"guī",
+"tortoise; turtle"
+]
+],
 "extraWords": [
 [
 "乌龟",
 6.95,
 "wū guī",
 "tortoise; cuckold"
+],
+[
+"海龟",
+4.5,
+"hǎi guī",
+"turtle; Internet slang for 海归[hǎi guī]"
 ]
 ],
 "strokes": [

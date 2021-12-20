@@ -1,12 +1,32 @@
 {
 "char": "窘",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "embarrassed; hard-pressed",
 "pron": "jiǒng"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"窘迫",
+7,
+"jiǒng pò",
+"poverty-stricken; very poor; hard-pressed; in a predicament; embarrassed"
+]
+],
+"extraWords": [
+[
+"窘境",
+2.46,
+"jiǒng jìng",
+"awkward situation; predicament"
+],
+[
+"窘",
+2.25,
+"jiǒng",
+"distressed; embarrassed"
+]
+],
 "strokes": [
 "M 471 812 Q 498 794 526 773 Q 541 763 556 765 Q 566 766 569 780 Q 572 795 559 822 Q 552 838 522 848 Q 447 863 440 855 Q 436 851 438 839 Q 444 829 471 812 Z",
 "M 285 692 Q 276 713 267 720 Q 251 735 247 711 Q 247 674 208 637 Q 169 607 195 547 Q 208 522 228 546 Q 235 556 285 661 Q 286 662 287 665 C 292 676 292 676 285 692 Z",

@@ -1,11 +1,24 @@
 {
 "char": "缆",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "hawser, heavy-duty rope, cable",
 "pron": "lǎn"
 },
-"words": [],
+"words": [
+[
+"光缆",
+7,
+"guāng lǎn",
+"optical cable"
+],
+[
+"缆车",
+7,
+"lǎn chē",
+"cable car"
+]
+],
 "extraWords": [
 [
 "电缆",

@@ -1,6 +1,6 @@
 {
 "char": "磁",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "magnetic; magnetism; porcelain",
 "pron": "cí"
@@ -8,12 +8,30 @@
 "words": [
 [
 "磁带",
-6,
+7,
 "cí dài",
-"magnetic tape; CL:盤|盘[pan2],盒[he2]"
+"magnetic tape; CL:盘[pán],盒[hé]"
+],
+[
+"磁卡",
+7,
+"cí kǎ",
+"magnetic card; IC Card (telephone)"
+],
+[
+"磁盘",
+7,
+"cí pán",
+"(computer) disk"
 ]
 ],
 "extraWords": [
+[
+"磁",
+8.37,
+"cí",
+"magnetic; magnetism; porcelain"
+],
 [
 "核磁共振",
 5.43,

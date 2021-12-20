@@ -1,6 +1,6 @@
 {
 "char": "扫",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "sweep, clear away; exterminate",
 "pron": "sǎo, sào"
@@ -8,18 +8,48 @@
 "words": [
 [
 "打扫",
-3,
+4,
 "dǎ sǎo",
 "to clean; to sweep"
-]
 ],
-"extraWords": [
+[
+"扫",
+4,
+"sǎo",
+"to sweep"
+],
+[
+"扫",
+4,
+"sào",
+"broom"
+],
+[
+"扫除",
+7,
+"sǎo chú",
+"to sweep; to clean with a brush; to sweep away (often fig.)"
+],
 [
 "扫描",
-17.41,
+7,
 "sǎo miáo",
 "to scan"
 ],
+[
+"扫墓",
+7,
+"sǎo mù",
+"to sweep a grave (and pay one's respects to the dead person)"
+],
+[
+"扫兴",
+7,
+"sǎo xìng",
+"to have one's spirits dampened; to feel disappointed"
+]
+],
+"extraWords": [
 [
 "扫地",
 5.1,

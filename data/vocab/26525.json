@@ -1,6 +1,6 @@
 {
 "char": "枝",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "branches, limbs; branch off",
 "pron": "zhī"
@@ -11,14 +11,20 @@
 6,
 "zhī",
 "branch; classifier for sticks, rods, pencils etc"
+],
+[
+"树枝",
+7,
+"shù zhī",
+"branch; twig"
 ]
 ],
 "extraWords": [
 [
-"树枝",
-5.29,
-"shù zhī",
-"branch; twig"
+"荔枝",
+4.55,
+"lì zhī",
+"litchi or lychee fruit (Litchi chinensis Sonn.)"
 ]
 ],
 "strokes": [

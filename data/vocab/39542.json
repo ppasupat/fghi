@@ -1,6 +1,6 @@
 {
 "char": "驶",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "sail, drive, pilot; fast, quick",
 "pron": "shǐ"
@@ -11,20 +11,26 @@
 5,
 "jià shǐ",
 "to pilot (ship, airplane etc); to drive"
+],
+[
+"行驶",
+5,
+"xíng shǐ",
+"to travel along a route (of vehicles etc)"
 ]
 ],
 "extraWords": [
-[
-"行驶",
-28.26,
-"xíng shǐ",
-"to travel along a route (of vehicles etc)"
-],
 [
 "驾驶员",
 18.24,
 "jià shǐ yuán",
 "pilot; driver"
+],
+[
+"驶",
+10.91,
+"shǐ",
+"to gallop; speedily; to proceed to; to pilot (ship, plane etc); to sail"
 ]
 ],
 "strokes": [

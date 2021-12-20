@@ -1,6 +1,6 @@
 {
 "char": "蚀",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "nibble away; erode; eclipse",
 "pron": "shí"
@@ -8,7 +8,7 @@
 "words": [
 [
 "腐蚀",
-6,
+7,
 "fǔ shí",
 "corrosion; to corrode (degrade chemically); to rot; corruption"
 ]
@@ -19,6 +19,12 @@
 5.7,
 "qīn shí",
 "to erode; to corrode"
+],
+[
+"蚀",
+4.39,
+"shí",
+"to nibble away at sth; to eat into; to erode"
 ]
 ],
 "strokes": [

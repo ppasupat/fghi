@@ -1,22 +1,40 @@
 {
 "char": "兼",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "unite, combine; connect; and",
 "pron": "jiān"
 },
 "words": [
 [
-"兼职",
-5,
-"jiān zhí",
-"to hold concurrent posts; concurrent job; moonlighting"
+"兼",
+7,
+"jiān",
+"double; twice; simultaneous; holding two or more (official) posts at the same time"
 ],
 [
-"统筹兼顾",
-6,
-"tǒng chóu jiān gù",
-"an overall plan taking into account all factors"
+"兼顾",
+7,
+"jiān gù",
+"to attend simultaneously to two or more things; to balance (career and family, family and education etc)"
+],
+[
+"兼任",
+7,
+"jiān rèn",
+"to hold several jobs at once; concurrent post; working part-time"
+],
+[
+"兼容",
+7,
+"jiān róng",
+"compatible"
+],
+[
+"兼职",
+7,
+"jiān zhí",
+"to hold concurrent posts; concurrent job; moonlighting"
 ]
 ],
 "extraWords": [
@@ -25,24 +43,6 @@
 9.33,
 "jiān bìng",
 "to annex; to take over; to acquire"
-],
-[
-"兼顾",
-8.81,
-"jiān gù",
-"to attend simultaneously to two or more things; to balance (career and family, family and education etc)"
-],
-[
-"兼容",
-6.23,
-"jiān róng",
-"compatible"
-],
-[
-"兼任",
-5.26,
-"jiān rèn",
-"to hold several jobs at once; concurrent post; working part-time"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "追",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "pursue, chase after; expel",
 "pron": "zhuī"
@@ -8,19 +8,19 @@
 "words": [
 [
 "追",
-5,
+3,
 "duī",
 "to sculpt; to carve; musical instrument (old)"
 ],
 [
 "追",
-5,
+3,
 "zhuī",
 "to chase; to pursue; to look into; to investigate; to reminisce; to recall; to court (one's beloved); to binge-watch (a TV drama); retroactively; posthumously"
 ],
 [
 "追求",
-5,
+4,
 "zhuī qiú",
 "to pursue (a goal etc) stubbornly; to seek after; to woo"
 ],
@@ -31,19 +31,55 @@
 "to investigate; to look into"
 ],
 [
-"追悼",
-6,
-"zhuī dào",
-"to mourn; to pay last respects; mourning; memorial (service etc)"
+"追悼会",
+7,
+"zhuī dào huì",
+"memorial service; funeral service"
+],
+[
+"追赶",
+7,
+"zhuī gǎn",
+"to pursue; to chase after; to accelerate; to catch up with; to overtake"
+],
+[
+"追溯",
+7,
+"zhuī sù",
+"lit. to go upstream; to trace sth back to; to date from"
+],
+[
+"追随",
+7,
+"zhuī suí",
+"to follow; to accompany"
+],
+[
+"追尾",
+7,
+"zhuī wěi",
+"to tailgate; to hit the car in front as a result of tailgating"
+],
+[
+"追问",
+7,
+"zhuī wèn",
+"to question closely; to investigate in detail; to examine minutely; to get to the heart of the matter"
+],
+[
+"追逐",
+7,
+"zhuī zhú",
+"to chase; to pursue vigorously"
+],
+[
+"追踪",
+7,
+"zhuī zōng",
+"to follow a trail; to trace; to pursue"
 ]
 ],
 "extraWords": [
-[
-"追踪",
-51.0,
-"zhuī zōng",
-"to follow a trail; to trace; to pursue"
-],
 [
 "追查",
 16.6,
@@ -57,24 +93,6 @@
 "to pursue; to be after; to hunt down"
 ],
 [
-"追逐",
-11.01,
-"zhuī zhú",
-"to chase; to pursue vigorously"
-],
-[
-"追问",
-9.19,
-"zhuī wèn",
-"to question closely; to investigate in detail; to examine minutely; to get to the heart of the matter"
-],
-[
-"追赶",
-7.58,
-"zhuī gǎn",
-"to pursue; to chase after; to accelerate; to catch up with; to overtake"
-],
-[
 "追加",
 6.38,
 "zhuī jiā",
@@ -85,12 +103,6 @@
 6.2,
 "zhuī shàng",
 "to overtake"
-],
-[
-"追随",
-6.0,
-"zhuī suí",
-"to follow; to accompany"
 ],
 [
 "追寻",

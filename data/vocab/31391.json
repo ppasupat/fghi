@@ -1,12 +1,32 @@
 {
 "char": "窟",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "hole, cave; cellar; underground",
 "pron": "kū"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"窟窿",
+7,
+"kū long",
+"hole; pocket; cavity; loophole; debt"
+]
+],
+"extraWords": [
+[
+"贫民窟",
+3.61,
+"pín mín kū",
+"slum housing"
+],
+[
+"窟",
+2.12,
+"kū",
+"cave; hole"
+]
+],
 "strokes": [
 "M 490 811 Q 518 792 550 766 Q 565 756 579 758 Q 589 759 593 772 Q 596 787 584 814 Q 577 833 546 844 Q 471 862 460 855 Q 456 851 458 839 Q 462 829 490 811 Z",
 "M 287 701 Q 278 717 271 724 Q 253 737 251 713 Q 257 680 198 619 Q 179 598 203 543 Q 216 518 236 543 Q 293 657 293 673 C 295 686 295 686 287 701 Z",

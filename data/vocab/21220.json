@@ -1,6 +1,6 @@
 {
 "char": "勤",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "industrious, diligent, attentive",
 "pron": "qín"
@@ -13,31 +13,55 @@
 "hardworking; diligent"
 ],
 [
-"辛勤",
-6,
-"xīn qín",
-"hardworking; industrious"
-],
-[
 "后勤",
-6,
+7,
 "hòu qín",
 "logistics"
 ],
 [
+"勤工俭学",
+7,
+"qín gōng jiǎn xué",
+"to work part time while studying; work-study program"
+],
+[
+"勤快",
+7,
+"qín kuài",
+"diligent; hardworking"
+],
+[
 "勤劳",
-6,
+7,
 "qín láo",
 "hardworking; industrious; diligent"
 ],
 [
-"勤俭",
-6,
-"qín jiǎn",
-"hardworking and frugal"
+"辛勤",
+7,
+"xīn qín",
+"hardworking; industrious"
+],
+[
+"殷勤",
+7,
+"yīn qín",
+"politely; solicitously; eagerly attentive"
 ]
 ],
 "extraWords": [
+[
+"勤",
+18.42,
+"qín",
+"diligent; industrious; hardworking; frequent; regular; constant"
+],
+[
+"勤",
+18.42,
+"qín",
+"variant of 勤[qín]; industrious; solicitous"
+],
 [
 "执勤",
 5.5,

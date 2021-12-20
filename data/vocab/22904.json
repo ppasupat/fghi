@@ -1,11 +1,18 @@
 {
 "char": "奸",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "crafty, villainous, false",
 "pron": "jiān"
 },
-"words": [],
+"words": [
+[
+"奸诈",
+7,
+"jiān zhà",
+"treachery; devious; a rogue"
+]
+],
 "extraWords": [
 [
 "强奸",
@@ -18,6 +25,18 @@
 5.28,
 "qiáng jiān fàn",
 "rapist"
+],
+[
+"奸",
+5.19,
+"jiān",
+"wicked; crafty; traitor; variant of 奸[jiān]"
+],
+[
+"奸",
+5.19,
+"jiān",
+"to fornicate; to defile; adultery; rape"
 ]
 ],
 "strokes": [

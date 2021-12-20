@@ -1,64 +1,94 @@
 {
 "char": "历",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "history; calendar",
 "pron": "lì"
 },
 "words": [
 [
-"历史",
-3,
-"lì shǐ",
-"history; CL:門|门[men2],段[duan4]"
-],
-[
 "经历",
-4,
+3,
 "jīng lì",
-"experience; CL:個|个[ge4],次[ci4]; to experience; to go through"
+"experience; CL:个[gè],次[cì]; to experience; to go through"
 ],
 [
 "简历",
-5,
+4,
 "jiǎn lì",
 "curriculum vitae (CV); résumé; biographical notes"
 ],
 [
-"日历",
-5,
-"rì lì",
-"calendar; CL:張|张[zhang1],本[ben3]"
+"历史",
+4,
+"lì shǐ",
+"history; CL:门[mén],段[duàn]"
 ],
 [
-"学历",
-5,
-"xué lì",
-"educational background; academic qualifications"
+"日历",
+4,
+"rì lì",
+"calendar; CL:张[zhāng],本[běn]"
 ],
 [
 "来历",
-6,
+7,
 "lái lì",
 "history; antecedents; origin"
 ],
 [
+"历程",
+7,
+"lì chéng",
+"course; process"
+],
+[
+"历届",
+7,
+"lì jiè",
+"all previous (meetings, sessions etc)"
+],
+[
+"历经",
+7,
+"lì jīng",
+"to experience; to go through"
+],
+[
 "历来",
-6,
+7,
 "lì lái",
 "always; throughout (a period of time); (of) all-time"
 ],
 [
-"历代",
-6,
-"lì dài",
-"successive generations; successive dynasties; past dynasties"
+"历时",
+7,
+"lì shí",
+"to last; to take (time); period; diachronic"
 ],
 [
 "农历",
-6,
+7,
 "nóng lì",
 "the traditional Chinese calendar; the lunar calendar"
+],
+[
+"学历",
+7,
+"xué lì",
+"educational background; academic qualifications"
+],
+[
+"阅历",
+7,
+"yuè lì",
+"to experience; experience"
+],
+[
+"资历",
+7,
+"zī lì",
+"qualifications; experience; seniority"
 ]
 ],
 "extraWords": [
@@ -69,22 +99,34 @@
 "historical; in history"
 ],
 [
-"历程",
-14.41,
-"lì chéng",
-"course; process"
+"亚历克斯",
+12.22,
+"???",
+"???"
 ],
 [
-"历时",
-12.26,
-"lì shí",
-"to last; to take (time); period; diachronic"
+"历",
+10.52,
+"lì",
+"old variant of 历[lì]; old variant of 历[lì]"
 ],
 [
-"历经",
-9.55,
-"lì jīng",
-"to experience; to go through"
+"历",
+10.52,
+"lì",
+"calendar"
+],
+[
+"历",
+10.52,
+"lì",
+"old variant of 历[lì]"
+],
+[
+"历",
+10.52,
+"lì",
+"to experience; to undergo; to pass through; all; each; every; history"
 ],
 [
 "历史性",
@@ -103,6 +145,12 @@
 6.14,
 "bìng lì",
 "medical record; case history"
+],
+[
+"历代",
+5.58,
+"lì dài",
+"successive generations; successive dynasties; past dynasties"
 ],
 [
 "历年",

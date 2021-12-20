@@ -1,70 +1,70 @@
 {
 "char": "照",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "shine, illumine, reflect",
 "pron": "zhào"
 },
 "words": [
 [
-"照片",
-3,
-"zhào piàn",
-"photograph; picture; CL:張|张[zhang1],套[tao4],幅[fu2]"
+"护照",
+2,
+"hù zhào",
+"passport; CL:本[běn],个[gè]"
 ],
 [
 "照顾",
-3,
+2,
 "zhào gu",
 "to take care of; to show consideration; to attend to; to look after"
 ],
 [
-"护照",
-3,
-"hù zhào",
-"passport; CL:本[ben3],個|个[ge4]"
+"照片",
+2,
+"zhào piàn",
+"photograph; picture; CL:张[zhāng],套[tào],幅[fú]"
 ],
 [
-"照相机",
-3,
-"zhào xiàng jī",
-"camera; CL:個|个[ge4],架[jia4],部[bu4],台[tai2],隻|只[zhi1]"
-],
-[
-"照",
-4,
-"zhào",
-"variant of 照[zhao4]; to shine; to illuminate"
-],
-[
-"照",
-4,
-"zhào",
-"according to; in accordance with; to shine; to illuminate; to reflect; to look at (one's reflection); to take (a photo); photo; as requested; as before"
+"照相",
+2,
+"zhào xiàng",
+"to take a photograph"
 ],
 [
 "按照",
-4,
+3,
 "àn zhào",
 "according to; in accordance with; in the light of; on the basis of"
 ],
 [
-"执照",
-5,
-"zhí zhào",
-"license; permit"
+"照",
+3,
+"zhào",
+"variant of 照[zhào]; to shine; to illuminate"
 ],
 [
-"照常",
-5,
-"zhào cháng",
-"as usual"
+"照",
+3,
+"zhào",
+"according to; in accordance with; to shine; to illuminate; to reflect; to look at (one's reflection); to take (a photo); photo; as requested; as before"
 ],
 [
-"关照",
-6,
-"guān zhào",
-"to take care; to keep an eye on; to look after; to tell; to remind"
+"拍照",
+4,
+"pāi zhào",
+"to take a picture"
+],
+[
+"驾照",
+5,
+"jià zhào",
+"driver's license"
+],
+[
+"依照",
+5,
+"yī zhào",
+"according to; in light of"
 ],
 [
 "照样",
@@ -80,53 +80,83 @@
 ],
 [
 "参照",
-6,
+7,
 "cān zhào",
 "to consult a reference; to refer to (another document)"
 ],
 [
 "对照",
-6,
+7,
 "duì zhào",
 "to contrast; to compare; to place side by side for comparison (as parallel texts); to check"
+],
+[
+"关照",
+7,
+"guān zhào",
+"to take care; to keep an eye on; to look after; to tell; to remind"
+],
+[
+"牌照",
+7,
+"pái zhào",
+"(business) license; vehicle license; car registration; license plate"
+],
+[
+"写照",
+7,
+"xiě zhào",
+"portrayal"
+],
+[
+"照办",
+7,
+"zhào bàn",
+"to follow the rules; to do as instructed; to play by the book; to comply with a request"
+],
+[
+"照常",
+7,
+"zhào cháng",
+"as usual"
+],
+[
+"照例",
+7,
+"zhào lì",
+"as a rule; as usual; usually"
+],
+[
+"照料",
+7,
+"zhào liào",
+"to tend; to take care of sb"
+],
+[
+"照明",
+7,
+"zhào míng",
+"lighting; illumination; to light up; to illuminate"
+],
+[
+"执照",
+7,
+"zhí zhào",
+"license; permit"
+],
+[
+"遵照",
+7,
+"zūn zhào",
+"in accordance with; to follow (the rules)"
 ]
 ],
 "extraWords": [
-[
-"拍照",
-30.41,
-"pāi zhào",
-"to take a picture"
-],
 [
 "照看",
 18.99,
 "zhào kàn",
 "to look after; to attend to; to have in care"
-],
-[
-"依照",
-15.84,
-"yī zhào",
-"according to; in light of"
-],
-[
-"驾照",
-13.24,
-"jià zhào",
-"driver's license"
-],
-[
-"照明",
-11.33,
-"zhào míng",
-"lighting; illumination; to light up; to illuminate"
-],
-[
-"牌照",
-11.06,
-"pái zhào",
-"(business) license; vehicle license; car registration; license plate"
 ],
 [
 "照射",
@@ -135,28 +165,28 @@
 "to shine on; to light up; to irradiate"
 ],
 [
-"照相",
-8.56,
-"zhào xiàng",
-"to take a photograph"
+"照相机",
+7.45,
+"zhào xiàng jī",
+"camera; CL:个[gè],架[jià],部[bù],台[tái],只[zhī]"
+],
+[
+"照着",
+7.18,
+"???",
+"???"
+],
+[
+"营业执照",
+6.78,
+"???",
+"???"
 ],
 [
 "照亮",
 6.11,
 "zhào liàng",
 "to illuminate; to light up; lighting"
-],
-[
-"照料",
-5.75,
-"zhào liào",
-"to tend; to take care of sb"
-],
-[
-"遵照",
-5.58,
-"zūn zhào",
-"in accordance with; to follow (the rules)"
 ]
 ],
 "strokes": [

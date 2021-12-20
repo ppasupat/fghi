@@ -1,6 +1,6 @@
 {
 "char": "凄",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "bitter cold, miserable, dreary",
 "pron": "qī"
@@ -8,18 +8,37 @@
 "words": [
 [
 "凄凉",
-6,
+7,
 "qī liáng",
 "mournful; miserable"
 ],
 [
 "凄凉",
-6,
+7,
 "qī liáng",
 "desolate (place)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"凄",
+2.68,
+"qī",
+"intense cold; frigid; dismal; grim; bleak; sad; mournful; also written 凄[qī]"
+],
+[
+"凄",
+2.68,
+"qī",
+"variant of 凄[qī]; sad; mournful"
+],
+[
+"凄",
+2.68,
+"qī",
+"intense cold; frigid; dismal; grim; bleak; sad; mournful"
+]
+],
 "strokes": [
 "M 172 627 Q 206 603 242 574 Q 257 562 273 564 Q 285 565 289 580 Q 292 596 280 626 Q 267 659 163 676 Q 147 679 140 675 Q 136 671 138 657 Q 142 647 172 627 Z",
 "M 273 416 Q 176 262 111 178 Q 98 163 85 166 Q 69 169 64 150 Q 61 123 76 103 Q 92 75 108 65 Q 121 56 132 59 Q 142 63 145 74 Q 157 123 175 163 Q 230 278 280 388 Q 289 407 288 416 Q 287 434 273 416 Z",

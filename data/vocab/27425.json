@@ -1,6 +1,6 @@
 {
 "char": "次",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "order, sequence; next",
 "pron": "cì"
@@ -8,65 +8,125 @@
 "words": [
 [
 "次",
-2,
+1,
 "cì",
 "next in sequence; second; the second (day, time etc); secondary; vice-; sub-; infra-; inferior quality; substandard; order; sequence; hypo- (chemistry); classifier for enumerated events: time"
 ],
 [
+"上次",
+1,
+"shàng cì",
+"last time"
+],
+[
+"下次",
+1,
+"xià cì",
+"next time"
+],
+[
 "其次",
-4,
+3,
 "qí cì",
 "next; secondly"
 ],
 [
-"次要",
-5,
-"cì yào",
-"secondary"
+"多次",
+4,
+"duō cì",
+"many times; repeatedly"
 ],
 [
 "层次",
-6,
+5,
 "céng cì",
 "layer; level; gradation; arrangement of ideas; (a person's) standing"
 ],
 [
-"档次",
+"再次",
+5,
+"zài cì",
+"one more time; again; one more; once again"
+],
+[
+"此次",
 6,
+"cǐ cì",
+"this time"
+],
+[
+"次数",
+6,
+"cì shù",
+"number of times; frequency; order number (in a series); power (math.); degree of a polynomial (math.)"
+],
+[
+"首次",
+6,
+"shǒu cì",
+"first; first time; for the first time"
+],
+[
+"依次",
+6,
+"yī cì",
+"in order; in succession"
+],
+[
+"一次性",
+6,
+"yī cì xìng",
+"one-off (offer); one-time; single-use; disposable (goods)"
+],
+[
+"初次",
+7,
+"chū cì",
+"for the first time; first (meeting, attempt etc)"
+],
+[
+"次日",
+7,
+"cì rì",
+"next day; the morrow"
+],
+[
+"档次",
+7,
 "dàng cì",
 "grade; class; quality; level"
 ],
 [
-"次序",
-6,
-"cì xù",
-"sequence; order"
-],
-[
-"名次",
-6,
-"míng cì",
-"position in a ranking of names; place; rank"
-],
-[
-"次品",
-6,
-"cì pǐn",
-"substandard products; defective; seconds"
+"仅次于",
+7,
+"jǐn cì yú",
+"second only to...; (in second place) preceded only by..."
 ],
 [
 "屡次",
-6,
+7,
 "lǚ cì",
 "repeatedly; time and again"
+],
+[
+"人次",
+7,
+"rén cì",
+"person-times; visits; classifier for number of people participating"
+],
+[
+"三番五次",
+7,
+"sān fān wǔ cì",
+"over and over again (idiom)"
 ]
 ],
 "extraWords": [
 [
-"再次",
-146.85,
-"zài cì",
-"one more time; again; one more; once again"
+"这次",
+228.56,
+"???",
+"???"
 ],
 [
 "第一次",
@@ -75,40 +135,10 @@
 "the first time; first; number one"
 ],
 [
-"此次",
-134.31,
-"cǐ cì",
-"this time"
-],
-[
 "每次",
 100.77,
 "měi cì",
 "every time"
-],
-[
-"首次",
-99.48,
-"shǒu cì",
-"first; first time; for the first time"
-],
-[
-"多次",
-72.15,
-"duō cì",
-"many times; repeatedly"
-],
-[
-"下次",
-67.01,
-"xià cì",
-"next time"
-],
-[
-"上次",
-49.84,
-"shàng cì",
-"last time"
 ],
 [
 "第二次",
@@ -117,40 +147,52 @@
 "the second time; second; number two"
 ],
 [
-"一次性",
-20.95,
-"yī cì xìng",
-"one-off (offer); one-time; single-use; disposable (goods)"
+"第三次",
+16.65,
+"???",
+"???"
 ],
 [
-"次数",
-18.65,
-"cì shù",
-"number of times; frequency; order number (in a series); power (math.); degree of a polynomial (math.)"
+"那次",
+10.77,
+"???",
+"???"
 ],
 [
-"依次",
-12.81,
-"yī cì",
-"in order; in succession"
+"一次次",
+8.72,
+"???",
+"???"
 ],
 [
-"次日",
-11.69,
-"cì rì",
-"next day; the morrow"
+"多层次",
+7.04,
+"???",
+"???"
 ],
 [
-"仅次于",
-7.14,
-"jǐn cì yú",
-"second only to...; (in second place) preceded only by..."
+"第四次",
+6.73,
+"???",
+"???"
 ],
 [
-"初次",
-6.66,
-"chū cì",
-"for the first time; first (meeting, attempt etc)"
+"高层次",
+6.45,
+"???",
+"???"
+],
+[
+"名次",
+6.04,
+"míng cì",
+"position in a ranking of names; place; rank"
+],
+[
+"本次",
+5.22,
+"???",
+"???"
 ],
 [
 "深层次",

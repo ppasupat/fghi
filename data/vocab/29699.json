@@ -1,79 +1,163 @@
 {
 "char": "球",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "ball, sphere, globe; round",
 "pron": "qiú"
 },
 "words": [
 [
-"打篮球",
-2,
-"da3 lan2 qiu2",
-"to play basketball"
+"打球",
+1,
+"dǎ qiú",
+"to play ball; to play with a ball"
 ],
 [
-"踢足球",
-2,
-"ti1 zu2 qiu2",
-"to play soccer"
+"球",
+1,
+"qiú",
+"ball; sphere; globe; CL:个[gè]; ball game; match; CL:场[chǎng]"
 ],
 [
 "地球",
-4,
+2,
 "dì qiú",
-"the earth; CL:個|个[ge4]"
+"the earth; CL:个[gè]"
 ],
 [
-"网球",
-4,
-"wǎng qiú",
-"tennis; tennis ball; CL:個|个[ge4]"
+"篮球",
+2,
+"lán qiú",
+"basketball; CL:个[gè],只[zhī]"
 ],
 [
-"乒乓球",
-4,
-"pīng pāng qiú",
-"table tennis; ping-pong; table tennis ball; CL:個|个[ge4]"
+"排球",
+2,
+"pái qiú",
+"volleyball; CL:个[gè]"
 ],
 [
-"羽毛球",
-4,
-"yǔ máo qiú",
-"shuttlecock; badminton; CL:個|个[ge4]"
-],
-[
-"球迷",
-5,
-"qiú mí",
-"fan (ball sports); CL:個|个[ge4]"
-]
-],
-"extraWords": [
-[
-"全球",
-155.02,
-"quán qiú",
-"entire; total; global; the (whole) world; worldwide"
-],
-[
-"球员",
-108.54,
-"qiú yuán",
-"sports club member; footballer, golfer etc"
+"球场",
+2,
+"qiú chǎng",
+"stadium; sports ground; court; pitch; field; golf course; CL:个[gè],处[chù]"
 ],
 [
 "球队",
-97.31,
+2,
 "qiú duì",
 "sports team (basketball, soccer, football etc)"
 ],
 [
-"足球",
-82.79,
-"zú qiú",
-"soccer ball; a football; CL:個|个[ge4]; soccer; football"
+"球鞋",
+2,
+"qiú xié",
+"athletic shoes"
 ],
+[
+"网球",
+2,
+"wǎng qiú",
+"tennis; tennis ball; CL:个[gè]"
+],
+[
+"球迷",
+3,
+"qiú mí",
+"fan (ball sports); CL:个[gè]"
+],
+[
+"全球",
+3,
+"quán qiú",
+"entire; total; global; the (whole) world; worldwide"
+],
+[
+"足球",
+3,
+"zú qiú",
+"soccer ball; a football; CL:个[gè]; soccer; football"
+],
+[
+"气球",
+4,
+"qì qiú",
+"balloon"
+],
+[
+"羽毛球",
+5,
+"yǔ máo qiú",
+"shuttlecock; badminton; CL:个[gè]"
+],
+[
+"月球",
+5,
+"yuè qiú",
+"the moon"
+],
+[
+"皮球",
+6,
+"pí qiú",
+"ball (made of rubber, leather etc)"
+],
+[
+"球拍",
+6,
+"qiú pāi",
+"racket"
+],
+[
+"球星",
+6,
+"qiú xīng",
+"sports star (ball sport)"
+],
+[
+"球员",
+6,
+"qiú yuán",
+"sports club member; footballer, golfer etc"
+],
+[
+"棒球",
+7,
+"bàng qiú",
+"baseball; CL:个[gè],只[zhī]"
+],
+[
+"高尔夫球",
+7,
+"gāo ěr fū qiú",
+"golf; golf ball"
+],
+[
+"环球",
+7,
+"huán qiú",
+"around the world; worldwide"
+],
+[
+"乒乓球",
+7,
+"pīng pāng qiú",
+"table tennis; ping-pong; table tennis ball; CL:个[gè]"
+],
+[
+"热气球",
+7,
+"rè qì qiú",
+"hot air balloon"
+],
+[
+"台球",
+7,
+"tái qiú",
+"billiards"
+]
+],
+"extraWords": [
 [
 "星球",
 43.34,
@@ -87,46 +171,16 @@
 "to score a goal; goal (sport)"
 ],
 [
-"棒球",
-34.19,
-"bàng qiú",
-"baseball; CL:個|个[ge4],隻|只[zhi1]"
-],
-[
-"篮球",
-28.23,
-"lán qiú",
-"basketball; CL:個|个[ge4],隻|只[zhi1]"
-],
-[
-"球场",
-26.88,
-"qiú chǎng",
-"stadium; sports ground; court; pitch; field; golf course; CL:個|个[ge4],處|处[chu4]"
-],
-[
 "橄榄球",
 23.46,
 "gǎn lǎn qiú",
 "football played with oval-shaped ball (rugby, American football, Australian rules etc)"
 ],
 [
-"打球",
-17.2,
-"dǎ qiú",
-"to play ball; to play with a ball"
-],
-[
 "眼球",
 15.44,
 "yǎn qiú",
 "eyeball; (fig.) attention"
-],
-[
-"环球",
-15.19,
-"huán qiú",
-"around the world; worldwide"
 ],
 [
 "点球",
@@ -141,12 +195,6 @@
 "pass (in soccer); to feed (ball)"
 ],
 [
-"球星",
-11.23,
-"qiú xīng",
-"sports star (ball sport)"
-],
-[
 "全球化",
 10.81,
 "quán qiú huà",
@@ -159,10 +207,10 @@
 "to serve the ball; to tee off"
 ],
 [
-"月球",
-9.47,
-"yuè qiú",
-"the moon"
+"头球",
+9.31,
+"???",
+"???"
 ],
 [
 "保龄球",
@@ -171,22 +219,16 @@
 "ten-pin bowling (loanword); bowling ball"
 ],
 [
+"踢球",
+8.97,
+"???",
+"???"
+],
+[
 "击球",
 8.88,
 "jī qiú",
 "to bat; to hit a ball (sport)"
-],
-[
-"气球",
-8.88,
-"qì qiú",
-"balloon"
-],
-[
-"高尔夫球",
-8.25,
-"gāo ěr fū qiú",
-"golf; golf ball"
 ],
 [
 "曲棍球",
@@ -195,16 +237,10 @@
 "field hockey"
 ],
 [
-"皮球",
-7.05,
-"pí qiú",
-"ball (made of rubber, leather etc)"
-],
-[
-"排球",
-6.5,
-"pái qiú",
-"volleyball; CL:個|个[ge4]"
+"投球",
+6.53,
+"???",
+"???"
 ],
 [
 "角球",
@@ -219,22 +255,34 @@
 "ice hockey; puck"
 ],
 [
+"输球",
+5.67,
+"???",
+"???"
+],
+[
 "球赛",
 5.54,
 "qiú sài",
-"sports match; ballgame; CL:場|场[chang3]"
-],
-[
-"台球",
-5.48,
-"tái qiú",
-"billiards"
+"sports match; ballgame; CL:场[chǎng]"
 ],
 [
 "球门",
 5.46,
 "qiú mén",
 "goalmouth (in soccer)"
+],
+[
+"经济全球化",
+5.28,
+"???",
+"???"
+],
+[
+"球衣",
+5.11,
+"???",
+"???"
 ]
 ],
 "strokes": [

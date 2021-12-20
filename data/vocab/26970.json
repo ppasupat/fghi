@@ -1,6 +1,6 @@
 {
 "char": "楚",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "name of feudal state; clear",
 "pron": "chǔ"
@@ -8,12 +8,30 @@
 "words": [
 [
 "清楚",
-3,
+2,
 "qīng chu",
 "clear; distinct; to understand thoroughly; to be clear about"
 ]
 ],
 "extraWords": [
+[
+"楚",
+20.63,
+"Chǔ",
+"surname Chu; abbr. for Hubei 湖北省[Hú běi Shěng] and Hunan 湖南省[Hú nán Shěng] provinces together; Chinese kingdom during the Spring and Autumn and Warring States Periods (722-221 BC)"
+],
+[
+"楚",
+20.63,
+"chǔ",
+"distinct; clear; orderly; pain; suffering; deciduous bush used in Chinese medicine (genus Vitex); punishment cane (old)"
+],
+[
+"荆楚",
+7.65,
+"???",
+"???"
+],
 [
 "宋楚瑜",
 5.45,

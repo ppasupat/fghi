@@ -1,6 +1,6 @@
 {
 "char": "林",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "forest, grove; surname",
 "pron": "lín"
@@ -10,27 +10,57 @@
 "森林",
 4,
 "sēn lín",
-"forest; CL:片[pian4]"
+"forest; CL:片[piàn]"
+],
+[
+"树林",
+4,
+"Shù lín",
+"Shulin city in New Taipei City 新北市[Xīn běi shì], Taiwan"
+],
+[
+"树林",
+4,
+"shù lín",
+"woods; grove; forest"
 ],
 [
 "园林",
-6,
+5,
 "yuán lín",
 "gardens; park; landscape garden"
+],
+[
+"丛林",
+7,
+"cóng lín",
+"jungle; thicket; forest; Buddhist monastery"
+],
+[
+"穆斯林",
+7,
+"Mù sī lín",
+"Muslim"
+],
+[
+"少林寺",
+7,
+"Shào lín Sì",
+"Shaolin Temple, Buddhist monastery famous for its kung fu monks"
 ]
 ],
 "extraWords": [
 [
-"树林",
-18.72,
-"Shù lín",
-"Shulin city in New Taipei City 新北市[Xin1 bei3 shi4], Taiwan"
+"林",
+90.68,
+"Lín",
+"surname Lin; Japanese surname Hayashi"
 ],
 [
-"树林",
-18.72,
-"shù lín",
-"woods; grove; forest"
+"林",
+90.68,
+"lín",
+"woods; forest; CL:片[piàn]; circle(s) (i.e. specific group of people); a collection (of similar things)"
 ],
 [
 "武林",
@@ -57,12 +87,6 @@
 "Jilin province (Kirin) in northeast China, abbr. 吉, capital 長春|长春; also Jilin prefecture-level city, Jilin province"
 ],
 [
-"丛林",
-11.95,
-"cóng lín",
-"jungle; thicket; forest; Buddhist monastery"
-],
-[
 "布鲁克林",
 11.15,
 "Bù lǔ kè lín",
@@ -79,12 +103,6 @@
 9.39,
 "Lín kěn",
 "Lincoln (name); Abraham Lincoln (1809-1865), US president 1861-1865; Lincoln, US car make"
-],
-[
-"穆斯林",
-9.39,
-"Mù sī lín",
-"Muslim"
 ],
 [
 "林彪",
@@ -120,7 +138,7 @@
 "吉林省",
 7.24,
 "Jí lín Shěng",
-"Jilin Province (Kirin) in northeast China, abbr. 吉, capital Changchun 長春|长春[Chang2 chun1]"
+"Jilin Province (Kirin) in northeast China, abbr. 吉, capital Changchun 长春[Cháng chūn]"
 ],
 [
 "少林",
@@ -139,6 +157,12 @@
 6.49,
 "Sī dà lín",
 "Joseph Stalin (1879-1953), Soviet dictator"
+],
+[
+"林业局",
+5.55,
+"???",
+"???"
 ],
 [
 "柯林斯",

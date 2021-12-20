@@ -1,11 +1,36 @@
 {
 "char": "亩",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "Chinese land measure; fields",
 "pron": "mǔ"
 },
-"words": [],
+"words": [
+[
+"亩",
+7,
+"mǔ",
+"old variant of 亩[mǔ]"
+],
+[
+"亩",
+7,
+"mǔ",
+"old variant of 亩[mǔ]"
+],
+[
+"亩",
+7,
+"mǔ",
+"classifier for fields; unit of area equal to one fifteenth of a hectare"
+],
+[
+"亩",
+7,
+"mǔ",
+"old variant of 亩[mǔ]"
+]
+],
 "extraWords": [],
 "strokes": [
 "M 448 780 Q 488 749 529 711 Q 544 698 560 698 Q 572 699 577 713 Q 581 728 572 759 Q 565 784 526 804 Q 435 838 420 831 Q 414 827 416 813 Q 420 803 448 780 Z",

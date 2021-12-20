@@ -1,28 +1,28 @@
 {
 "char": "迫",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "coerce, force, compel; urgent",
 "pron": "pǎi, pò"
 },
 "words": [
 [
+"被迫",
+4,
+"bèi pò",
+"to be compelled; to be forced"
+],
+[
 "迫切",
-5,
+4,
 "pò qiè",
 "urgent; pressing"
 ],
 [
 "强迫",
-6,
+5,
 "qiǎng pò",
 "to compel; to force"
-],
-[
-"迫不及待",
-6,
-"pò bù jí dài",
-"impatient (idiom); in a hurry; itching to get on with it"
 ],
 [
 "压迫",
@@ -31,36 +31,66 @@
 "to oppress; to repress; to constrict; oppression; stress (physics)"
 ],
 [
-"迫害",
-6,
-"pò hài",
-"to persecute; persecution"
+"逼迫",
+7,
+"bī pò",
+"to force; to compel; to coerce"
+],
+[
+"从容不迫",
+7,
+"cóng róng bù pò",
+"calm; unruffled"
+],
+[
+"急迫",
+7,
+"jí pò",
+"urgent; pressing; imperative"
 ],
 [
 "紧迫",
-6,
+7,
 "jǐn pò",
 "pressing; urgent"
 ],
 [
-"逼迫",
-6,
-"bī pò",
-"to force; to compel; to coerce"
+"窘迫",
+7,
+"jiǒng pò",
+"poverty-stricken; very poor; hard-pressed; in a predicament; embarrassed"
+],
+[
+"迫不及待",
+7,
+"pò bù jí dài",
+"impatient (idiom); in a hurry; itching to get on with it"
+],
+[
+"迫害",
+7,
+"pò hài",
+"to persecute; persecution"
+],
+[
+"迫使",
+7,
+"pò shǐ",
+"to force; to compel"
 ]
 ],
 "extraWords": [
 [
-"被迫",
-19.78,
-"bèi pò",
-"to be compelled; to be forced"
+"迫",
+8.67,
+"pò",
+"variant of 迫[pò]; to persecute; to oppress; embarrassed"
 ],
 [
-"迫使",
-10.42,
-"pò shǐ",
-"to force; to compel"
+"迫",
+8.67,
+"pò",
+"to force; to compel; to approach or go towards; urgent; pressing"
 ]
 ],
 "strokes": [

@@ -1,11 +1,17 @@
 {
 "char": "异",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "different, unusual, strange",
 "pron": "yì"
 },
 "words": [
+[
+"差异",
+6,
+"chā yì",
+"difference; discrepancy"
+],
 [
 "异常",
 6,
@@ -13,42 +19,84 @@
 "exceptional; abnormal; an anomaly"
 ],
 [
-"优异",
-6,
-"yōu yì",
-"exceptional; outstandingly good"
+"变异",
+7,
+"biàn yì",
+"variation"
 ],
 [
 "诧异",
-6,
+7,
 "chà yì",
 "flabbergasted; astonished"
 ],
 [
-"日新月异",
-6,
-"rì xīn yuè yì",
-"daily renewal, monthly change (idiom); every day sees new developments; rapid progress"
-]
-],
-"extraWords": [
-[
-"差异",
-65.61,
-"chā yì",
-"difference; discrepancy"
+"大同小异",
+7,
+"dà tóng xiǎo yì",
+"virtually the same; differing only on small points"
 ],
 [
 "怪异",
-18.66,
+7,
 "guài yì",
 "monstrous; strange; strange phenomenon"
 ],
 [
+"奇花异草",
+7,
+"qí huā yì cǎo",
+"very rarely seen, unusual (idiom)"
+],
+[
+"日新月异",
+7,
+"rì xīn yuè yì",
+"daily renewal, monthly change (idiom); every day sees new developments; rapid progress"
+],
+[
+"异口同声",
+7,
+"yì kǒu tóng shēng",
+"different mouths, same voice; to speak in unison (idiom)"
+],
+[
+"异想天开",
+7,
+"yì xiǎng tiān kāi",
+"to imagine the wildest thing; to indulge in fantasy"
+],
+[
 "异性",
-16.31,
+7,
 "yì xìng",
 "the opposite sex; of the opposite sex; heterosexual; different in nature"
+],
+[
+"异议",
+7,
+"yì yì",
+"objection; dissent"
+],
+[
+"因人而异",
+7,
+"yīn rén ér yì",
+"varying from person to person (idiom); different for each individual"
+],
+[
+"优异",
+7,
+"yōu yì",
+"exceptional; outstandingly good"
+]
+],
+"extraWords": [
+[
+"异",
+29.54,
+"yì",
+"different; other; hetero-; unusual; strange; surprising; to distinguish; to separate; to discriminate"
 ],
 [
 "诡异",
@@ -63,22 +111,10 @@
 "different place; abroad"
 ],
 [
-"变异",
-8.78,
-"biàn yì",
-"variation"
-],
-[
 "特异性",
 8.4,
 "tè yì xìng",
 "specific; specificity; idiosyncrasy"
-],
-[
-"异议",
-7.07,
-"yì yì",
-"objection; dissent"
 ],
 [
 "异化",

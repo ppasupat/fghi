@@ -1,6 +1,6 @@
 {
 "char": "筑",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "ancient lute; build",
 "pron": "zhù"
@@ -10,27 +10,45 @@
 "建筑",
 5,
 "jiàn zhù",
-"to construct; building; CL:個|个[ge4]"
-]
+"to construct; building; CL:个[gè]"
 ],
-"extraWords": [
+[
+"建筑师",
+7,
+"jiàn zhù shī",
+"architect"
+],
 [
 "建筑物",
-12.88,
+7,
 "jiàn zhù wù",
 "building; structure; edifice"
 ],
+[
+"筑",
+7,
+"Zhù",
+"short name for Guiyang 贵阳[Guì yáng]"
+],
+[
+"筑",
+7,
+"zhù",
+"five-string lute; Taiwan pr. [zhu2]"
+],
+[
+"筑",
+7,
+"zhù",
+"to build; to construct; to ram; to hit; Taiwan pr. [zhu2]"
+]
+],
+"extraWords": [
 [
 "构筑",
 9.0,
 "gòu zhù",
 "to build; to construct"
-],
-[
-"建筑师",
-5.93,
-"jiàn zhù shī",
-"architect"
 ]
 ],
 "strokes": [

@@ -1,44 +1,55 @@
 {
 "char": "沿",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "follow a course, go along",
 "pron": "yán"
 },
 "words": [
 [
+"沿",
+6,
+"yán",
+"along; to follow (a line, tradition etc); to carry on; to trim (a border with braid, tape etc); border; edge"
+],
+[
 "沿海",
 6,
 "yán hǎi",
 "coastal"
-]
 ],
-"extraWords": [
 [
 "沿着",
-14.99,
+6,
 "yán zhe",
 "to go along; to follow"
 ],
 [
 "前沿",
-10.5,
+7,
 "qián yán",
 "front-line; forward position; outpost; extending ahead; frontier (of science, technology etc)"
 ],
 [
+"沿岸",
+7,
+"yán àn",
+"coastal area; littoral or riparian"
+],
+[
 "沿途",
-7.89,
+7,
 "yán tú",
 "along the sides of the road; by the wayside"
 ],
 [
-"沿岸",
-5.18,
-"yán àn",
-"coastal area; littoral or riparian"
+"沿线",
+7,
+"yán xiàn",
+"along the line (e.g. railway); the region near the line"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 232 693 Q 257 671 285 645 Q 301 630 319 632 Q 331 633 336 648 Q 340 666 330 699 Q 318 730 225 747 Q 207 751 200 747 Q 194 743 197 728 Q 201 715 232 693 Z",
 "M 134 489 Q 182 435 216 424 Q 232 421 242 436 Q 249 451 245 470 Q 230 513 169 528 Q 129 538 117 533 Q 110 532 114 518 Q 115 505 134 489 Z",

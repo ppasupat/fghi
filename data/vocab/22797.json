@@ -1,34 +1,82 @@
 {
 "char": "复",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "return; repeat; repeatedly",
 "pron": "fù"
 },
 "words": [
 [
-"复习",
-3,
-"fù xí",
-"to review; revision; CL:次[ci4]"
+"重复",
+2,
+"chóng fù",
+"to repeat; to duplicate; CL:个[gè]"
+],
+[
+"重复",
+2,
+"chóng fù",
+"variant of 重复[chóng fù]"
 ],
 [
 "复习",
-3,
+2,
 "fù xí",
-"variant of 復習|复习[fu4 xi2]"
+"to review; revision; CL:次[cì]"
+],
+[
+"复习",
+2,
+"fù xí",
+"variant of 复习[fù xí]"
+],
+[
+"反复",
+3,
+"fǎn fù",
+"variant of 反复[fǎn fù]"
+],
+[
+"反复",
+3,
+"fǎn fù",
+"repeatedly; over and over; to upend; unstable; to come and go; (of an illness) to return"
+],
+[
+"复印",
+3,
+"fù yìn",
+"to photocopy; to duplicate a document"
 ],
 [
 "复杂",
-4,
+3,
 "fù zá",
 "complicated; complex"
 ],
 [
-"复印",
+"复制",
 4,
-"fù yìn",
-"to photocopy; to duplicate a document"
+"fù zhì",
+"to duplicate; to make a copy of; to copy; to reproduce; to clone"
+],
+[
+"回复",
+4,
+"huí fù",
+"to reply; to recover; to return (to a previous condition); Re: in reply to (email)"
+],
+[
+"答复",
+5,
+"dá fù",
+"variant of 答复[dá fù]"
+],
+[
+"答复",
+5,
+"dá fù",
+"to answer; to reply; Reply to: (in email header)"
 ],
 [
 "恢复",
@@ -37,84 +85,120 @@
 "to reinstate; to resume; to restore; to recover; to regain; to rehabilitate"
 ],
 [
-"重复",
-5,
-"chóng fù",
-"to repeat; to duplicate; CL:個|个[ge4]"
-],
-[
-"重复",
-5,
-"chóng fù",
-"variant of 重複|重复[chong2 fu4]"
-],
-[
-"复制",
-5,
-"fù zhì",
-"to duplicate; to make a copy of; to copy; to reproduce; to clone"
-],
-[
-"反复",
-5,
-"fǎn fù",
-"variant of 反覆|反复[fan3 fu4]"
-],
-[
-"反复",
-5,
-"fǎn fù",
-"repeatedly; over and over; to upend; unstable; to come and go; (of an illness) to return"
-],
-[
-"报复",
-6,
-"bào fù",
-"to make reprisals; to retaliate; revenge; retaliation"
-],
-[
-"复活",
-6,
-"fù huó",
-"to revive; (lit. and fig.) to come back to life; (religion) resurrection"
-],
-[
 "修复",
-6,
+5,
 "xiū fù",
 "to restore; to renovate; restoration; (computing) to fix (a bug)"
 ],
 [
-"答复",
+"复苏",
 6,
-"dá fù",
-"variant of 答覆|答复[da2 fu4]"
+"fù sū",
+"to recover (health, economic); to resuscitate; anabiosis"
 ],
 [
-"答复",
+"复苏",
 6,
-"dá fù",
-"to answer; to reply; Reply to: (in email header)"
+"fù sū",
+"variant of 复苏[fù sū]; to recover (health, economic); to resuscitate; anabiosis"
+],
+[
+"康复",
+6,
+"kāng fù",
+"to recuperate; to recover (health); to convalesce"
+],
+[
+"报复",
+7,
+"bào fù",
+"to make reprisals; to retaliate; revenge; retaliation"
+],
+[
+"错综复杂",
+7,
+"cuò zōng fù zá",
+"tangled and complicated (idiom)"
+],
+[
+"复查",
+7,
+"fù chá",
+"rechecking; re-inspection; reexamination"
+],
+[
+"复发",
+7,
+"fù fā",
+"to recur (of a disease); to reappear; to relapse (into a former bad state)"
+],
+[
+"复合",
+7,
+"fù hé",
+"(of people who were estranged) to be reconciled; (of a couple) to get back together"
+],
+[
+"复合",
+7,
+"fù hé",
+"complex; compound; composite; hybrid; to compound; to combine"
+],
+[
+"复活",
+7,
+"fù huó",
+"to revive; (lit. and fig.) to come back to life; (religion) resurrection"
 ],
 [
 "复兴",
-6,
+7,
 "Fù xīng",
-"Fuxing district of Handan city 邯鄲市|邯郸市[Han2 dan1 shi4], Hebei; Fuxing or Fuhsing township in Taoyuan county 桃園縣|桃园县[Tao2 yuan2 xian4], north Taiwan"
+"Fuxing district of Handan city 邯郸市[Hán dān shì], Hebei; Fuxing or Fuhsing township in Taoyuan county 桃园县[Táo yuán xiàn], north Taiwan"
 ],
 [
 "复兴",
-6,
+7,
 "fù xīng",
 "to revive; to rejuvenate"
+],
+[
+"复原",
+7,
+"fù yuán",
+"to restore (sth) to (its) former condition; to recover from illness; recovery"
+],
+[
+"日复一日",
+7,
+"rì fù yī rì",
+"day after day"
+],
+[
+"收复",
+7,
+"shōu fù",
+"to recover (lost territory etc); to recapture"
 ]
 ],
 "extraWords": [
 [
-"回复",
-220.72,
-"huí fù",
-"to reply; to recover; to return (to a previous condition); Re: in reply to (email)"
+"复",
+51.88,
+"fù",
+"to go and return; to return; to resume; to return to a normal or original state; to repeat; again; to recover; to restore; to turn over; to reply; to answer; to reply to a letter; to retaliate; to carry out"
+],
+[
+"复",
+51.88,
+"fù",
+"to repeat; to double; to overlap; complex (not simple); compound; composite; double; diplo-; duplicate; overlapping; to duplicate"
+],
+[
+"复",
+51.88,
+"fù",
+"variant of 复[fù]; to reply to a letter"
 ],
 [
 "复仇",
@@ -123,52 +207,10 @@
 "to avenge; vengeance"
 ],
 [
-"康复",
-19.63,
-"kāng fù",
-"to recuperate; to recover (health); to convalesce"
-],
-[
-"复合",
-15.68,
-"fù hé",
-"(of people who were estranged) to be reconciled; (of a couple) to get back together"
-],
-[
-"复合",
-15.68,
-"fù hé",
-"complex; compound; composite; hybrid; to compound; to combine"
-],
-[
-"复发",
-14.28,
-"fù fā",
-"to recur (of a disease); to reappear; to relapse (into a former bad state)"
-],
-[
 "复古",
 13.17,
 "fù gǔ",
 "to return to old ways (a Confucian aspiration); to turn back the clock; neoclassical school during Tang and Song associated with classical writing 古文; retro (fashion style based on nostalgia, esp. for 1960s)"
-],
-[
-"复查",
-8.35,
-"fù chá",
-"rechecking; re-inspection; reexamination"
-],
-[
-"复苏",
-7.68,
-"fù sū",
-"to recover (health, economic); to resuscitate; anabiosis"
-],
-[
-"复苏",
-7.68,
-"fù sū",
-"variant of 復甦|复苏[fu4 su1]; to recover (health, economic); to resuscitate; anabiosis"
 ],
 [
 "复印件",
@@ -181,12 +223,6 @@
 6.26,
 "pī fù",
 "to reply officially to a subordinate"
-],
-[
-"复原",
-5.96,
-"fù yuán",
-"to restore (sth) to (its) former condition; to recover from illness; recovery"
 ],
 [
 "复旦大学",

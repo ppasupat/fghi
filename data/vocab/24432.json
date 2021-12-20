@@ -1,6 +1,6 @@
 {
 "char": "彰",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "clear, manifest, obvious",
 "pron": "zhāng"
@@ -8,7 +8,7 @@
 "words": [
 [
 "表彰",
-6,
+7,
 "biǎo zhāng",
 "to honor; to commend; to cite (in dispatches)"
 ]
@@ -19,6 +19,12 @@
 6.5,
 "zhāng xiǎn",
 "to put on display (sth abstract); to draw attention to; conspicuous"
+],
+[
+"相得益彰",
+2.15,
+"xiāng dé yì zhāng",
+"to bring out the best in each other (idiom); to complement one another well"
 ]
 ],
 "strokes": [

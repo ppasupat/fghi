@@ -1,6 +1,6 @@
 {
 "char": "奈",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "but, how; bear, stand, endure",
 "pron": "nài"
@@ -11,14 +11,20 @@
 5,
 "wú nài",
 "to have no alternative; frustrated; exasperated; helpless; (conjunction) but unfortunately"
+],
+[
+"无可奈何",
+7,
+"wú kě nài hé",
+"have no way out; have no alternative; abbr. to 无奈[wú nài]"
 ]
 ],
 "extraWords": [
 [
-"无可奈何",
-5.74,
-"wú kě nài hé",
-"have no way out; have no alternative; abbr. to 無奈|无奈[wu2 nai4]"
+"奈",
+14.94,
+"nài",
+"used in expressions that convey frustration and futility, such as 无奈[wú nài] and 莫可奈何[mò kě nài hé] (literary); used for its phonetic value in writing foreign words"
 ]
 ],
 "strokes": [

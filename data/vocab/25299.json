@@ -1,6 +1,6 @@
 {
 "char": "拓",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "expand; open up; support or push",
 "pron": "tà, tuò"
@@ -8,23 +8,41 @@
 "words": [
 [
 "开拓",
-6,
+7,
 "kāi tuò",
 "to break new ground (for agriculture); to open up (a new seam); to develop (border regions); fig. to open up (new horizons)"
+],
+[
+"拓宽",
+7,
+"tuò kuān",
+"to broaden"
+],
+[
+"拓展",
+7,
+"tuò zhǎn",
+"to expand (one's client base, outlook etc)"
 ]
 ],
 "extraWords": [
 [
-"拓展",
-25.08,
-"tuò zhǎn",
-"to expand (one's client base, outlook etc)"
+"拓",
+8.56,
+"Tuò",
+"surname Tuo"
 ],
 [
-"拓宽",
-11.65,
-"tuò kuān",
-"to broaden"
+"拓",
+8.56,
+"tà",
+"to make a rubbing (e.g. of an inscription)"
+],
+[
+"拓",
+8.56,
+"tuò",
+"to expand; to push sth with the hand; to develop; to open up"
 ]
 ],
 "strokes": [

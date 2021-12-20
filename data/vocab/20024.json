@@ -1,14 +1,20 @@
 {
 "char": "丸",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "small round object; pellet, pill",
 "pron": "wán"
 },
 "words": [
 [
+"定心丸",
+7,
+"dìng xīn wán",
+"tranquilizer; sth that sets one's mind at ease"
+],
+[
 "丸",
-6,
+7,
 "wán",
 "ball; pellet; pill"
 ]

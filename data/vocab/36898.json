@@ -1,6 +1,6 @@
 {
 "char": "逢",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "come upon, happen meet; flatter",
 "pron": "féng"
@@ -8,19 +8,24 @@
 "words": [
 [
 "逢",
-6,
+7,
 "féng",
 "to meet by chance; to come across; (of a calendar event) to come along; (of an event) to fall on (a particular day); to fawn upon"
-]
 ],
-"extraWords": [
 [
 "每逢",
-5.19,
+7,
 "měi féng",
 "every time; on each occasion; whenever"
+],
+[
+"萍水相逢",
+7,
+"píng shuǐ xiāng féng",
+"strangers coming together by chance (idiom)"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 537 746 Q 553 770 570 790 Q 580 800 568 815 Q 532 846 509 844 Q 499 843 500 830 Q 509 752 419 660 Q 406 651 377 619 Q 370 606 383 609 Q 398 610 419 625 Q 483 668 523 726 L 537 746 Z",
 "M 629 601 Q 659 640 693 691 Q 709 713 731 728 Q 744 735 745 743 Q 745 753 721 769 Q 691 790 679 791 Q 669 791 659 784 Q 587 753 546 747 Q 542 747 537 746 C 507 742 494 733 523 726 Q 560 710 626 740 Q 642 744 648 739 Q 652 735 636 698 Q 620 662 592 627 L 572 602 Q 481 497 334 443 Q 327 440 326 436 Q 327 432 333 432 Q 454 428 581 548 Q 582 551 607 575 L 629 601 Z",

@@ -1,11 +1,17 @@
 {
 "char": "需",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "need, require, must",
 "pron": "xū"
 },
 "words": [
+[
+"需求",
+3,
+"xū qiú",
+"requirement; to require; (economics) demand"
+],
 [
 "需要",
 3,
@@ -13,24 +19,42 @@
 "to need; to want; to demand; to require; requirement; need"
 ],
 [
-"需求",
-6,
-"xū qiú",
-"requirement; to require; (economics) demand"
+"必需",
+5,
+"bì xū",
+"to need; to require; essential; indispensable"
+],
+[
+"急需",
+7,
+"jí xū",
+"to urgently need; urgent need"
+],
+[
+"内需",
+7,
+"nèi xū",
+"domestic demand"
+],
+[
+"需",
+7,
+"xū",
+"to require; to need; to want; necessity; need"
 ]
 ],
 "extraWords": [
+[
+"只需",
+22.32,
+"???",
+"???"
+],
 [
 "无需",
 15.05,
 "wú xū",
 "needless"
-],
-[
-"急需",
-12.69,
-"jí xū",
-"to urgently need; urgent need"
 ],
 [
 "供需",
@@ -39,10 +63,10 @@
 "supply and demand"
 ],
 [
-"必需",
-9.87,
-"bì xū",
-"to need; to require; essential; indispensable"
+"需求量",
+8.47,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,14 +1,26 @@
 {
 "char": "沾",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "moisten, wet, soak; touch",
 "pron": "zhān"
 },
 "words": [
 [
+"沾",
+7,
+"zhān",
+"to moisten; to be infected by; to receive benefit or advantage through a contact; to touch"
+],
+[
+"沾",
+7,
+"zhān",
+"variant of 沾[zhān]; to moisten"
+],
+[
 "沾光",
-6,
+7,
 "zhān guāng",
 "to bask in the light; fig. to benefit from association with sb or sth; reflected glory"
 ]

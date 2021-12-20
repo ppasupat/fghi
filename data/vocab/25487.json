@@ -1,6 +1,6 @@
 {
 "char": "掏",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "take out; pull out; clean out",
 "pron": "tāo"
@@ -16,7 +16,13 @@
 "掏",
 6,
 "tāo",
-"variant of 掏[tao1]"
+"variant of 掏[tāo]"
+],
+[
+"掏钱",
+7,
+"tāo qián",
+"to pay; to spend money; to fork out"
 ]
 ],
 "extraWords": [],

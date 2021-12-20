@@ -1,12 +1,31 @@
 {
 "char": "蚌",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "oysters, mussels; mother-of-pearl",
 "pron": "bàng, bèng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"蚌埠",
+1.17,
+"Bèng bù",
+"Bengbu prefecture-level city in Anhui"
+],
+[
+"蚌",
+1.17,
+"Bèng",
+"abbr. for Bengbu prefecture-level city 蚌埠市[Bèng bù shì], Anhui"
+],
+[
+"蚌",
+1.17,
+"bàng",
+"mussel; clam"
+]
+],
 "strokes": [
 "M 142 529 Q 129 533 109 536 Q 97 539 95 534 Q 89 527 97 513 Q 124 462 142 380 Q 145 355 160 338 Q 178 319 182 333 Q 186 345 185 365 L 181 394 Q 165 475 162 500 C 159 524 159 524 142 529 Z",
 "M 415 437 Q 439 509 468 529 Q 483 547 468 563 Q 452 575 403 597 Q 387 604 366 595 Q 333 582 302 569 L 252 553 Q 197 540 142 529 C 113 523 132 496 162 500 Q 175 501 191 506 Q 222 515 253 521 L 301 534 Q 367 553 380 544 Q 387 537 385 521 Q 378 478 368 441 C 360 412 405 409 415 437 Z",

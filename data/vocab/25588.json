@@ -1,36 +1,42 @@
 {
 "char": "援",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "aid, assist; lead; cite",
 "pron": "yuán"
 },
 "words": [
 [
-"支援",
-6,
-"zhī yuán",
-"to provide assistance; to support; to back"
-]
-],
-"extraWords": [
-[
-"援助",
-41.56,
-"yuán zhù",
-"to help; to support; to aid; aid; assistance"
-],
-[
 "救援",
-24.88,
+6,
 "jiù yuán",
 "to save; to support; to help; to assist"
 ],
 [
+"援助",
+6,
+"yuán zhù",
+"to help; to support; to aid; aid; assistance"
+],
+[
+"支援",
+6,
+"zhī yuán",
+"to provide assistance; to support; to back"
+],
+[
 "外援",
-15.79,
+7,
 "wài yuán",
 "foreign aid; external aid; (sports) foreign player; player recruited from overseas"
+]
+],
+"extraWords": [
+[
+"援",
+10.98,
+"yuán",
+"to help; to assist; to aid"
 ],
 [
 "援引",

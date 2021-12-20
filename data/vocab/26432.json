@@ -1,6 +1,6 @@
 {
 "char": "杀",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "kill, slaughter, murder; hurt",
 "pron": "shā"
@@ -13,10 +13,40 @@
 "to kill; to murder; to attack; to weaken or reduce; to smart (dialect); (used after a verb) extremely"
 ],
 [
-"抹杀",
-6,
-"mǒ shā",
-"to erase; to cover traces; to obliterate evidence; to expunge; to blot out; to suppress"
+"杀毒",
+5,
+"shā dú",
+"to disinfect; (computing) to destroy a computer virus"
+],
+[
+"自杀",
+5,
+"zì shā",
+"to kill oneself; to commit suicide; to attempt suicide"
+],
+[
+"暗杀",
+7,
+"àn shā",
+"to assassinate"
+],
+[
+"杀害",
+7,
+"shā hài",
+"to murder"
+],
+[
+"杀手",
+7,
+"shā shǒu",
+"killer; murderer; hit man; (sports) formidable player"
+],
+[
+"屠杀",
+7,
+"tú shā",
+"to massacre; massacre; bloodbath; carnage"
 ]
 ],
 "extraWords": [
@@ -39,24 +69,6 @@
 "homicide; to murder; to kill (a person)"
 ],
 [
-"自杀",
-88.5,
-"zì shā",
-"to kill oneself; to commit suicide; to attempt suicide"
-],
-[
-"杀手",
-76.28,
-"shā shǒu",
-"killer; murderer; hit man; (sports) formidable player"
-],
-[
-"杀害",
-43.07,
-"shā hài",
-"to murder"
-],
-[
 "谋杀案",
 31.39,
 "móu shā àn",
@@ -73,18 +85,6 @@
 14.37,
 "qiāng shā",
 "to shoot dead"
-],
-[
-"屠杀",
-12.22,
-"tú shā",
-"to massacre; massacre; bloodbath; carnage"
-],
-[
-"暗杀",
-10.91,
-"àn shā",
-"to assassinate"
 ],
 [
 "凶杀",

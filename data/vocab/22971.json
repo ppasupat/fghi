@@ -1,36 +1,48 @@
 {
 "char": "妻",
-"level": 2,
+"level": "4",
 "info": {
 "gloss": "wife",
 "pron": "qī"
 },
 "words": [
 [
+"夫妻",
+4,
+"fū qī",
+"husband and wife; married couple"
+],
+[
 "妻子",
-2,
+4,
 "qī zǐ",
 "wife and children"
 ],
 [
 "妻子",
-2,
+4,
 "qī zi",
-"wife; CL:個|个[ge4]"
+"wife; CL:个[gè]"
 ]
 ],
 "extraWords": [
-[
-"夫妻",
-35.39,
-"fū qī",
-"husband and wife; married couple"
-],
 [
 "前妻",
 17.5,
 "qián qī",
 "ex-wife; late wife"
+],
+[
+"妻",
+16.56,
+"qī",
+"wife"
+],
+[
+"妻",
+16.56,
+"qì",
+"to marry off (a daughter)"
 ],
 [
 "未婚妻",

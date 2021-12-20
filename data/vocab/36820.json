@@ -1,36 +1,42 @@
 {
 "char": "返",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "return, revert to, restore",
 "pron": "fǎn"
 },
 "words": [
 [
-"往返",
+"返回",
 5,
+"fǎn huí",
+"to return to; to come (or go) back"
+],
+[
+"重返",
+7,
+"chóng fǎn",
+"to return to"
+],
+[
+"返还",
+7,
+"fǎn huán",
+"restitution; return of something to its original owner; remittance"
+],
+[
+"往返",
+7,
 "wǎng fǎn",
 "to go back and forth; to go to and fro; round trip"
 ]
 ],
 "extraWords": [
 [
-"返回",
-28.83,
-"fǎn huí",
-"to return to; to come (or go) back"
-],
-[
-"重返",
-9.94,
-"chóng fǎn",
-"to return to"
-],
-[
-"返还",
-7.44,
-"fǎn huán",
-"restitution; return of something to its original owner; remittance"
+"返",
+29.37,
+"fǎn",
+"to return (to)"
 ]
 ],
 "strokes": [

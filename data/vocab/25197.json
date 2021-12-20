@@ -1,32 +1,43 @@
 {
 "char": "扭",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "turn, twist, wrench; seize, grasp",
 "pron": "niǔ"
 },
 "words": [
 [
-"扭转",
+"扭",
 6,
-"niǔ zhuǎn",
-"to reverse; to turn around (an undesirable situation); (mechanics) torsion"
+"niǔ",
+"to turn; to twist; to wring; to sprain; to swing one's hips"
 ],
 [
 "别扭",
-6,
+7,
 "biè niu",
 "awkward; difficult; uncomfortable; not agreeing; at loggerheads; gauche"
-]
 ],
-"extraWords": [
 [
 "扭曲",
-10.04,
+7,
 "niǔ qū",
 "to twist; to warp; to distort"
+],
+[
+"扭头",
+7,
+"niǔ tóu",
+"to turn one's head; to turn around"
+],
+[
+"扭转",
+7,
+"niǔ zhuǎn",
+"to reverse; to turn around (an undesirable situation); (mechanics) torsion"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 333 538 Q 400 556 408 563 Q 417 572 412 580 Q 405 592 374 598 Q 355 601 336 595 L 286 577 Q 193 549 128 539 Q 91 530 118 515 Q 163 491 219 509 Q 250 518 285 526 L 333 538 Z",
 "M 280 331 Q 277 240 276 122 Q 275 98 261 89 Q 252 82 229 89 Q 202 95 177 100 Q 144 110 147 100 Q 148 93 169 79 Q 236 30 254 0 Q 275 -34 291 -35 Q 304 -36 320 -1 Q 338 44 335 117 Q 329 243 329 368 L 329 400 Q 329 470 333 538 L 336 595 Q 348 727 358 756 Q 374 786 320 809 Q 287 828 267 822 Q 251 815 265 792 Q 286 765 287 731 Q 288 715 286 577 L 285 526 Q 284 462 281 373 L 280 331 Z",

@@ -1,36 +1,54 @@
 {
 "char": "亚",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "Asia; second",
 "pron": "yà"
 },
 "words": [
 [
-"亚洲",
+"亚运会",
 4,
-"Yà zhōu",
-"Asia; abbr. for 亞細亞洲|亚细亚洲[Ya4 xi4 ya4 Zhou1]"
+"Yà yùn huì",
+"Asian Games"
 ],
 [
 "亚军",
-6,
+5,
 "yà jūn",
 "second place (in a sports contest); runner-up"
+],
+[
+"不亚于",
+7,
+"bù yà yú",
+"no less than; not inferior to"
 ]
 ],
 "extraWords": [
+[
+"亚",
+91.97,
+"Yà",
+"Asia; Asian; Taiwan pr. [Ya3]"
+],
+[
+"亚",
+91.97,
+"yà",
+"second; next to; inferior; sub-; Taiwan pr. [ya3]"
+],
+[
+"亚洲",
+79.43,
+"Yà zhōu",
+"Asia; abbr. for 亚细亚洲[Yà xì yà Zhōu]"
+],
 [
 "澳大利亚",
 38.56,
 "Ào dà lì yà",
 "Australia"
-],
-[
-"亚运会",
-19.19,
-"Yà yùn huì",
-"Asian Games"
 ],
 [
 "亚瑟",
@@ -61,6 +79,12 @@
 12.65,
 "Dōng yà",
 "East Asia"
+],
+[
+"亚历克斯",
+12.22,
+"???",
+"???"
 ],
 [
 "亚太",
@@ -181,6 +205,12 @@
 5.74,
 "Xī Yà",
 "Southwest Asia"
+],
+[
+"亚太地区",
+5.72,
+"???",
+"???"
 ],
 [
 "阿尔巴尼亚",

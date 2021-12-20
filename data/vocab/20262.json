@@ -1,16 +1,16 @@
 {
 "char": "伦",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "normal human relationships",
 "pron": "lún"
 },
 "words": [
 [
-"天伦之乐",
-6,
-"tiān lún zhī lè",
-"family love and joy; domestic bliss"
+"伦理",
+7,
+"lún lǐ",
+"ethics"
 ]
 ],
 "extraWords": [
@@ -21,22 +21,34 @@
 "London, capital of United Kingdom"
 ],
 [
+"伦",
+24.62,
+"lún",
+"human relationship; order; coherence"
+],
+[
 "海伦",
 11.51,
 "Hǎi lún",
 "Hailun county level city in Suihua 綏化|绥化, Heilongjiang; Helen or Hélène (name)"
 ],
 [
-"伦理",
-10.69,
-"lún lǐ",
-"ethics"
+"艾伦",
+10.43,
+"???",
+"???"
 ],
 [
 "周杰伦",
 10.35,
 "Zhōu Jié lún",
 "Jay Chou (1979-), Taiwanese pop star"
+],
+[
+"凯伦",
+9.84,
+"???",
+"???"
 ],
 [
 "亚伦",

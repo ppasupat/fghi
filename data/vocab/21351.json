@@ -1,6 +1,6 @@
 {
 "char": "卧",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "lie down; crouch",
 "pron": "wò"
@@ -10,7 +10,19 @@
 "卧室",
 5,
 "wò shì",
-"bedroom; CL:間|间[jian1]"
+"bedroom; CL:间[jiān]"
+],
+[
+"卧铺",
+6,
+"wò pù",
+"a bed (on a train); a couchette"
+],
+[
+"卧",
+7,
+"wò",
+"to lie; to crouch"
 ]
 ],
 "extraWords": [

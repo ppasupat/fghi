@@ -1,6 +1,6 @@
 {
 "char": "乒",
-"level": 4,
+"level": "7",
 "info": {
 "gloss": "used with “pong” (U+4E53 乓) for “ping pong”",
 "pron": "pīng"
@@ -8,12 +8,25 @@
 "words": [
 [
 "乒乓球",
-4,
+7,
 "pīng pāng qiú",
-"table tennis; ping-pong; table tennis ball; CL:個|个[ge4]"
+"table tennis; ping-pong; table tennis ball; CL:个[gè]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"乒",
+6.44,
+"pīng",
+"(onom.) ping; bing"
+],
+[
+"世乒赛",
+5.17,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 377 652 Q 491 679 575 722 Q 624 741 665 751 Q 683 752 687 760 Q 691 772 678 783 Q 656 799 608 818 Q 592 825 578 824 Q 571 820 569 809 Q 569 770 362 668 C 335 655 348 645 377 652 Z",
 "M 381 549 Q 378 610 380 629 Q 381 642 377 652 L 362 668 Q 338 684 311 692 Q 295 696 286 690 Q 279 683 286 667 Q 313 619 326 569 Q 336 517 359 309 C 362 279 405 285 402 315 Q 389 436 383 516 L 381 549 Z",

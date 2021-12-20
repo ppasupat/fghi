@@ -1,6 +1,6 @@
 {
 "char": "榴",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "pomegranate",
 "pron": "liú"
@@ -12,6 +12,18 @@
 5.34,
 "shǒu liú dàn",
 "hand grenade"
+],
+[
+"石榴",
+3.78,
+"shí liu",
+"pomegranate"
+],
+[
+"榴莲",
+3.29,
+"liú lián",
+"durian fruit; Durio zibethinus"
 ]
 ],
 "strokes": [

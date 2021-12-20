@@ -1,11 +1,17 @@
 {
 "char": "糟",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "sediment, dregs; pickle",
 "pron": "zāo"
 },
 "words": [
+[
+"糟",
+5,
+"zāo",
+"dregs; draff; pickled in wine; rotten; messy; ruined"
+],
 [
 "糟糕",
 5,
@@ -13,10 +19,10 @@
 "too bad; how terrible; what bad luck; terrible; bad"
 ],
 [
-"糟蹋",
-6,
-"zāo tà",
-"to waste; to defile; to abuse; to insult; to defile; to trample on; to wreck; also pr. [zao1 ta5]"
+"乱七八糟",
+7,
+"luàn qī bā zāo",
+"everything in disorder (idiom); in a hideous mess; at sixes and sevens"
 ]
 ],
 "extraWords": [
@@ -25,12 +31,6 @@
 27.72,
 "yī tuán zāo",
 "chaos; bungle; complete mess; shambles"
-],
-[
-"乱七八糟",
-11.27,
-"luàn qī bā zāo",
-"everything in disorder (idiom); in a hideous mess; at sixes and sevens"
 ]
 ],
 "strokes": [

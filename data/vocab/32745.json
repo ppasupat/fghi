@@ -1,12 +1,31 @@
 {
 "char": "翩",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "fly, flutter",
 "pron": "piān"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"翩翩",
+1.84,
+"piān piān",
+"elegant; graceful; smart; to dance lightly"
+],
+[
+"翩翩起舞",
+1.37,
+"piān piān qǐ wǔ",
+"(to start) dancing lightly and gracefully"
+],
+[
+"浮想联翩",
+0.84,
+"fú xiǎng lián piān",
+"to let one's imagination roam"
+]
+],
 "strokes": [
 "M 359 773 Q 384 754 410 729 Q 423 717 438 719 Q 448 720 453 732 Q 457 747 447 775 Q 441 793 413 804 Q 344 825 332 819 Q 328 815 329 803 Q 333 793 359 773 Z",
 "M 448 514 Q 472 580 499 596 Q 514 614 500 629 Q 428 680 384 650 Q 341 632 265 610 C 236 602 240 574 269 580 Q 279 581 293 587 Q 347 600 398 615 Q 411 619 417 614 Q 424 607 421 591 Q 411 548 399 512 C 390 483 437 486 448 514 Z",

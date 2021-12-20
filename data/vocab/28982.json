@@ -1,11 +1,29 @@
 {
 "char": "然",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "yes, certainly; pledge, promise",
 "pron": "rán"
 },
 "words": [
+[
+"大自然",
+2,
+"dà zì rán",
+"nature (the natural world)"
+],
+[
+"忽然",
+2,
+"hū rán",
+"suddenly; all of a sudden"
+],
+[
+"然后",
+2,
+"rán hòu",
+"after; then (afterwards); after that; afterwards"
+],
 [
 "虽然",
 2,
@@ -13,10 +31,10 @@
 "although; even though; even if"
 ],
 [
-"然后",
+"必然",
 3,
-"rán hòu",
-"after; then (afterwards); after that; afterwards"
+"bì rán",
+"inevitable; certain; necessity"
 ],
 [
 "当然",
@@ -25,28 +43,46 @@
 "only natural; as it should be; certainly; of course; without doubt"
 ],
 [
+"果然",
+3,
+"guǒ rán",
+"really; sure enough; as expected; if indeed"
+],
+[
+"仍然",
+3,
+"réng rán",
+"still; yet"
+],
+[
 "突然",
 3,
 "tū rán",
 "sudden; abrupt; unexpected"
 ],
 [
-"仍然",
+"显然",
+3,
+"xiǎn rán",
+"clear; evident; obvious(ly)"
+],
+[
+"自然",
+3,
+"zì rán",
+"nature; natural; naturally"
+],
+[
+"不然",
 4,
-"réng rán",
-"still; yet"
+"bù rán",
+"not so; no; or else; otherwise; if not; How about ...?"
 ],
 [
 "既然",
 4,
 "jì rán",
 "since; as; this being the case"
-],
-[
-"自然",
-4,
-"zì rán",
-"nature; natural; naturally"
 ],
 [
 "竟然",
@@ -61,10 +97,10 @@
 "however; yet; but"
 ],
 [
-"显然",
-5,
-"xiǎn rán",
-"clear; evident; obvious(ly)"
+"依然",
+4,
+"yī rán",
+"still; as before"
 ],
 [
 "居然",
@@ -73,114 +109,168 @@
 "unexpectedly; to one's surprise; go so far as to"
 ],
 [
-"不然",
-5,
-"bù rán",
-"not so; no; or else; otherwise; if not; How about ...?"
-],
-[
-"依然",
-5,
-"yī rán",
-"still; as before"
-],
-[
-"果然",
-5,
-"guǒ rán",
-"really; sure enough; as expected; if indeed"
-],
-[
 "偶然",
 5,
 "ǒu rán",
 "incidentally; occasional; occasionally; by chance; randomly"
 ],
 [
-"忽然",
-5,
-"hū rán",
-"suddenly; all of a sudden"
-],
-[
-"必然",
-5,
-"bì rán",
-"inevitable; certain; necessity"
-],
-[
-"理所当然",
-6,
-"lǐ suǒ dāng rán",
-"as it should be by rights (idiom); proper and to be expected as a matter of course; inevitable and right"
-],
-[
-"公然",
-6,
-"gōng rán",
-"openly; publicly; undisguised"
-],
-[
 "天然气",
-6,
+5,
 "tiān rán qì",
 "natural gas"
 ],
 [
-"茫然",
-6,
-"máng rán",
-"blankly; vacantly; at a loss"
-],
-[
-"一目了然",
-6,
-"yī mù liǎo rán",
-"obvious at a glance (idiom)"
-],
-[
-"一目了然",
-6,
-"yī mù liǎo rán",
-"obvious at a glance (idiom)"
-],
-[
-"固然",
-6,
-"gù rán",
-"admittedly (it's true that...)"
-],
-[
-"恍然大悟",
-6,
-"huǎng rán dà wù",
-"to suddenly realize; to suddenly see the light"
-],
-[
-"毅然",
-6,
-"yì rán",
-"firmly; resolutely; without hesitation"
-]
-],
-"extraWords": [
-[
 "天然",
-30.93,
+6,
 "tiān rán",
 "natural"
 ],
 [
 "要不然",
-13.06,
+6,
 "yào bù rán",
 "otherwise; or else; or"
 ],
 [
-"大自然",
-11.27,
-"dà zì rán",
-"nature (the natural world)"
+"不以为然",
+7,
+"bù yǐ wéi rán",
+"not to accept as correct (idiom); to object; to disapprove; to take exception to"
+],
+[
+"公然",
+7,
+"gōng rán",
+"openly; publicly; undisguised"
+],
+[
+"固然",
+7,
+"gù rán",
+"admittedly (it's true that...)"
+],
+[
+"赫然",
+7,
+"hè rán",
+"with astonishment; with a shock; awe-inspiringly; impressively; furiously (angry)"
+],
+[
+"哗然",
+7,
+"huá rán",
+"in uproar; commotion; causing a storm of protest; tumultuous"
+],
+[
+"哗然",
+7,
+"huá rán",
+"variant of 哗然[huá rán]"
+],
+[
+"恍然大悟",
+7,
+"huǎng rán dà wù",
+"to suddenly realize; to suddenly see the light"
+],
+[
+"截然不同",
+7,
+"jié rán bù tóng",
+"entirely different; different as black and white"
+],
+[
+"理所当然",
+7,
+"lǐ suǒ dāng rán",
+"as it should be by rights (idiom); proper and to be expected as a matter of course; inevitable and right"
+],
+[
+"茫然",
+7,
+"máng rán",
+"blankly; vacantly; at a loss"
+],
+[
+"猛然",
+7,
+"měng rán",
+"suddenly; abruptly"
+],
+[
+"漠然",
+7,
+"mò rán",
+"indifferent; apathetic; cold"
+],
+[
+"顺其自然",
+7,
+"shùn qí zì rán",
+"to let nature take its course (idiom)"
+],
+[
+"坦然",
+7,
+"tǎn rán",
+"calm; undisturbed"
+],
+[
+"一目了然",
+7,
+"yī mù liǎo rán",
+"obvious at a glance (idiom)"
+],
+[
+"一目了然",
+7,
+"yī mù liǎo rán",
+"obvious at a glance (idiom)"
+],
+[
+"怡然自得",
+7,
+"yí rán zì dé",
+"happy and content (idiom)"
+],
+[
+"毅然",
+7,
+"yì rán",
+"firmly; resolutely; without hesitation"
+],
+[
+"骤然",
+7,
+"zhòu rán",
+"suddenly; abruptly"
+],
+[
+"自然而然",
+7,
+"zì rán ér rán",
+"involuntary; automatically"
+],
+[
+"自然界",
+7,
+"zì rán jiè",
+"nature; the natural world"
+],
+[
+"纵然",
+7,
+"zòng rán",
+"even if; even though"
+]
+],
+"extraWords": [
+[
+"然",
+44.63,
+"rán",
+"correct; right; so; thus; like this; -ly"
 ],
 [
 "淡然",
@@ -201,18 +291,6 @@
 "quietly; sorrowfully"
 ],
 [
-"坦然",
-8.58,
-"tǎn rán",
-"calm; undisturbed"
-],
-[
-"猛然",
-8.24,
-"měng rán",
-"suddenly; abruptly"
-],
-[
 "自然科学",
 6.2,
 "zì rán kē xué",
@@ -229,18 +307,6 @@
 6.04,
 "tū rán jiān",
 "suddenly"
-],
-[
-"赫然",
-5.47,
-"hè rán",
-"with astonishment; with a shock; awe-inspiringly; impressively; furiously (angry)"
-],
-[
-"顺其自然",
-5.37,
-"shùn qí zì rán",
-"to let nature take its course (idiom)"
 ]
 ],
 "strokes": [

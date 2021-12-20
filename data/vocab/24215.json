@@ -1,48 +1,78 @@
 {
 "char": "店",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "shop, store; inn, hotel",
 "pron": "diàn"
 },
 "words": [
 [
-"商店",
-1,
-"shāng diàn",
-"store; shop; CL:家[jia1],個|个[ge4]"
-],
-[
 "饭店",
 1,
 "fàn diàn",
-"restaurant; hotel; CL:家[jia1],個|个[ge4]"
-]
+"restaurant; hotel; CL:家[jiā],个[gè]"
 ],
-"extraWords": [
+[
+"商店",
+1,
+"shāng diàn",
+"store; shop; CL:家[jiā],个[gè]"
+],
+[
+"书店",
+1,
+"shū diàn",
+"bookstore; CL:家[jiā]"
+],
+[
+"店",
+2,
+"diàn",
+"inn; shop; store; CL:家[jiā]"
+],
 [
 "酒店",
-66.28,
+2,
 "jiǔ diàn",
 "wine shop; pub (public house); hotel; restaurant; (Tw) hostess club"
 ],
+[
+"药店",
+2,
+"yào diàn",
+"pharmacy"
+],
+[
+"旅店",
+6,
+"lǚ diàn",
+"inn; small hotel"
+],
+[
+"便利店",
+7,
+"biàn lì diàn",
+"convenience store"
+],
+[
+"连锁店",
+7,
+"lián suǒ diàn",
+"chain store"
+],
+[
+"专卖店",
+7,
+"zhuān mài diàn",
+"specialty store"
+]
+],
+"extraWords": [
 [
 "店铺",
 16.83,
 "diàn pù",
 "store; shop"
-],
-[
-"书店",
-11.48,
-"shū diàn",
-"bookstore; CL:家[jia1]"
-],
-[
-"药店",
-10.45,
-"yào diàn",
-"pharmacy"
 ],
 [
 "咖啡店",
@@ -57,12 +87,6 @@
 "shop owner"
 ],
 [
-"专卖店",
-7.54,
-"zhuān mài diàn",
-"specialty store"
-],
-[
 "小店",
 7.52,
 "xiǎo diàn",
@@ -75,16 +99,16 @@
 "shop front"
 ],
 [
-"旅店",
-6.44,
-"lǚ diàn",
-"inn; small hotel"
-],
-[
 "店员",
 5.55,
 "diàn yuán",
 "shop assistant; salesclerk; salesperson"
+],
+[
+"大酒店",
+5.35,
+"???",
+"???"
 ],
 [
 "杂货店",

@@ -1,17 +1,30 @@
 {
 "char": "瑰",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "extraordinary, fabulous; rose",
 "pron": "guī"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"瑰宝",
+7,
+"guī bǎo",
+"gem; (fig.) rare and valuable item; gem; treasure"
+],
 [
 "玫瑰",
-26.62,
+7,
 "méi guī",
-"rugosa rose (shrub) (Rosa rugosa); rose flower; CL:朵[duo3],棵[ke1]"
+"rugosa rose (shrub) (Rosa rugosa); rose flower; CL:朵[duǒ],棵[kē]"
+]
+],
+"extraWords": [
+[
+"玫瑰花",
+1.97,
+"méi guī huā",
+"rose"
 ]
 ],
 "strokes": [

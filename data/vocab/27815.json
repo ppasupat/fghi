@@ -1,24 +1,30 @@
 {
 "char": "沧",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "blue, dark green; cold",
 "pron": "cāng"
 },
 "words": [
 [
-"饱经沧桑",
-6,
-"bǎo jīng cāng sāng",
-"having lived through many changes"
+"沧桑",
+7,
+"cāng sāng",
+"great changes; ups and downs; vicissitudes; abbr. of 沧海桑田[cāng hǎi sāng tián]"
 ]
 ],
 "extraWords": [
 [
-"沧桑",
-6.78,
-"cāng sāng",
-"great changes; ups and downs; vicissitudes; abbr. of 滄海桑田|沧海桑田[cang1 hai3 sang1 tian2]"
+"沧",
+5.98,
+"cāng",
+"blue-green or azure (of water); vast (of water); cold"
+],
+[
+"沧海",
+2.46,
+"???",
+"???"
 ]
 ],
 "strokes": [

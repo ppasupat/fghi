@@ -1,54 +1,90 @@
 {
 "char": "呼",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "breathe sigh, exhale; call, shout",
 "pron": "hū"
 },
 "words": [
 [
-"打招呼",
-4,
-"dǎ zhāo hu",
-"to greet sb by word or action; to give prior notice"
-],
-[
 "呼吸",
-5,
+4,
 "hū xī",
 "to breathe"
 ],
 [
+"招呼",
+4,
+"zhāo hu",
+"to call out to; to greet; to say hello to; to inform; to take care of; to take care that one does not"
+],
+[
 "称呼",
-5,
+7,
 "chēng hu",
 "to call; to address as; appellation"
 ],
 [
+"打招呼",
+7,
+"dǎ zhāo hu",
+"to greet sb by word or action; to give prior notice"
+],
+[
+"呼风唤雨",
+7,
+"hū fēng huàn yǔ",
+"to call the wind and summon the rain (idiom); to exercise magical powers; fig. to stir up troubles"
+],
+[
 "呼唤",
-6,
+7,
 "hū huàn",
 "to call out (a name etc); to shout"
 ],
 [
+"呼救",
+7,
+"hū jiù",
+"to call for help"
+],
+[
+"呼声",
+7,
+"hū shēng",
+"a shout; fig. opinion or demand, esp. expressed by a group"
+],
+[
+"呼应",
+7,
+"hū yìng",
+"to conform (with); to echo; to correlate well; (linguistics) agreement"
+],
+[
 "呼吁",
-6,
+7,
 "hū yù",
 "to call on (sb to do sth); to appeal (to); an appeal"
 ],
 [
-"呼啸",
-6,
-"hū xiào",
-"to whistle; to scream; to whiz"
+"欢呼",
+7,
+"huān hū",
+"to cheer for; to acclaim"
 ]
 ],
 "extraWords": [
 [
-"招呼",
-25.96,
-"zhāo hu",
-"to call out to; to greet; to say hello to; to inform; to take care of; to take care that one does not"
+"呼",
+24.83,
+"hū",
+"to call; to cry; to shout; to breath out; to exhale"
+],
+[
+"呼",
+24.83,
+"hū",
+"variant of 呼[hū]; to shout; to call out"
 ],
 [
 "呼叫",
@@ -57,22 +93,16 @@
 "to shout; to yell; (telecommunications) to call"
 ],
 [
-"欢呼",
-19.29,
-"huān hū",
-"to cheer for; to acclaim"
+"深呼吸",
+16.99,
+"???",
+"???"
 ],
 [
 "呼呼",
 9.27,
 "hū hū",
 "(onom.) sound of the wind or the breathing of sb who is sound asleep"
-],
-[
-"呼声",
-9.1,
-"hū shēng",
-"a shout; fig. opinion or demand, esp. expressed by a group"
 ],
 [
 "呼吸道",
@@ -85,6 +115,12 @@
 5.91,
 "jīng hū",
 "to cry out in alarm or surprise"
+],
+[
+"呼啸",
+5.08,
+"hū xiào",
+"to whistle; to scream; to whiz"
 ]
 ],
 "strokes": [

@@ -1,12 +1,31 @@
 {
 "char": "溺",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "drown; submerge in water; indulge",
 "pron": "nì"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"溺水",
+3.52,
+"nì shuǐ",
+"to drown"
+],
+[
+"溺死",
+3.1,
+"nì sǐ",
+"to drown"
+],
+[
+"沉溺",
+2.61,
+"chén nì",
+"to indulge in; to wallow; absorbed in; deeply engrossed; addicted"
+]
+],
 "strokes": [
 "M 225 733 Q 247 711 271 685 Q 284 672 300 671 Q 310 672 317 685 Q 321 700 314 729 Q 310 748 281 762 Q 211 789 200 783 Q 196 779 196 766 Q 199 756 225 733 Z",
 "M 134 563 Q 182 512 213 499 Q 226 496 235 509 Q 241 521 238 536 Q 228 575 145 599 Q 129 603 121 599 Q 115 598 118 587 Q 119 577 134 563 Z",

@@ -1,6 +1,6 @@
 {
 "char": "诞",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "bear children, give birth; birth",
 "pron": "dàn"
@@ -13,10 +13,22 @@
 "to be born"
 ],
 [
-"诞辰",
+"圣诞节",
 6,
+"Shèng dàn jié",
+"Christmas time; Christmas season; Christmas"
+],
+[
+"诞辰",
+7,
 "dàn chén",
 "birthday"
+],
+[
+"荒诞",
+7,
+"huāng dàn",
+"beyond belief; incredible; preposterous; fantastic"
 ]
 ],
 "extraWords": [
@@ -25,12 +37,6 @@
 61.79,
 "Shèng dàn",
 "Christmas; birthday of reigning Emperor; Confucius' birthday"
-],
-[
-"圣诞节",
-49.54,
-"Shèng dàn jié",
-"Christmas time; Christmas season; Christmas"
 ],
 [
 "圣诞老人",
@@ -43,6 +49,12 @@
 5.96,
 "Shèng dàn shù",
 "Christmas tree"
+],
+[
+"圣诞礼物",
+5.89,
+"???",
+"???"
 ]
 ],
 "strokes": [

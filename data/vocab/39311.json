@@ -1,12 +1,31 @@
 {
 "char": "馏",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "distill, distillation",
 "pron": "liú, liù"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"蒸馏水",
+1.78,
+"zhēng liú shuǐ",
+"distilled water"
+],
+[
+"蒸馏",
+1.15,
+"zhēng liú",
+"to distill; distillation"
+],
+[
+"馏分",
+0.83,
+"liú fèn",
+"fraction (of a distillate); key (one component part of a distillate)"
+]
+],
 "strokes": [
 "M 270 613 Q 351 751 351 756 Q 351 760 349 765 Q 345 778 314 799 Q 286 815 266 815 Q 247 812 257 790 Q 272 762 253 709 Q 195 558 65 384 Q 55 372 54 366 Q 51 354 65 358 Q 116 371 253 584 L 270 613 Z",
 "M 253 584 Q 269 585 332 599 Q 341 602 344 599 Q 347 596 343 588 Q 321 527 305 497 Q 299 485 298 480 Q 297 470 308 476 Q 318 480 367 540 Q 398 577 428 598 Q 443 608 432 619 Q 420 629 387 647 Q 380 650 296 622 Q 272 615 270 613 C 242 601 223 581 253 584 Z",

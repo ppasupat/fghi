@@ -1,17 +1,11 @@
 {
 "char": "糊",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "paste, stick on with paste",
 "pron": "hū, hú, hù"
 },
 "words": [
-[
-"糊涂",
-5,
-"hú tu",
-"muddled; silly; confused"
-],
 [
 "模糊",
 5,
@@ -20,19 +14,48 @@
 ],
 [
 "含糊",
-6,
+7,
 "hán hu",
 "ambiguous; vague; careless; perfunctory"
-]
 ],
-"extraWords": [
+[
+"糊",
+7,
+"hú",
+"variant of 糊[hú]"
+],
+[
+"糊",
+7,
+"hú",
+"muddled; paste; scorched"
+],
+[
+"糊",
+7,
+"hù",
+"paste; cream"
+],
+[
+"糊",
+7,
+"hú",
+"congee; making a living"
+],
+[
+"糊涂",
+7,
+"hú tu",
+"muddled; silly; confused"
+],
 [
 "一塌糊涂",
-6.8,
+7,
 "yī tā hú tu",
 "muddled and completely collapsing (idiom); in an awful condition; complete shambles; a total mess"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 147 586 Q 163 561 181 530 Q 188 517 202 514 Q 211 513 217 521 Q 224 531 224 557 Q 224 584 153 625 Q 143 631 136 630 Q 132 629 130 618 Q 130 608 147 586 Z",
 "M 360 627 Q 348 602 322 559 Q 318 552 323 547 Q 330 546 336 551 Q 394 597 424 616 Q 439 622 434 630 Q 428 643 410 657 Q 392 670 373 671 Q 361 670 363 653 Q 367 641 360 627 Z",

@@ -1,90 +1,114 @@
 {
 "char": "富",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "abundant, ample; rich, wealthy",
 "pron": "fù"
 },
 "words": [
 [
+"丰富",
+3,
+"fēng fù",
+"to enrich; rich; plentiful; abundant"
+],
+[
 "富",
-4,
+3,
 "Fù",
 "surname Fu"
 ],
 [
 "富",
-4,
+3,
 "fù",
 "rich; abundant; wealthy"
 ],
 [
-"丰富",
-4,
-"fēng fù",
-"to enrich; rich; plentiful; abundant"
-],
-[
 "财富",
-6,
+4,
 "cái fù",
 "wealth; riches"
 ],
 [
-"富裕",
+"富人",
 6,
-"Fù yù",
-"Fuyu county in Qiqihar 齊齊哈爾|齐齐哈尔[Qi2 qi2 ha1 er3], Heilongjiang"
+"fù rén",
+"rich person; the rich"
 ],
-[
-"富裕",
-6,
-"fù yù",
-"prosperous; well-to-do; well-off"
-]
-],
-"extraWords": [
 [
 "富有",
-23.29,
+6,
 "fù yǒu",
 "rich; full of"
 ],
+[
+"丰富多彩",
+7,
+"fēng fù duō cǎi",
+"richly colorful"
+],
+[
+"富含",
+7,
+"fù hán",
+"to contain in great quantities; rich in"
+],
+[
+"富豪",
+7,
+"fù háo",
+"rich and powerful person"
+],
+[
+"富强",
+7,
+"fù qiáng",
+"rich and powerful"
+],
+[
+"富翁",
+7,
+"fù wēng",
+"rich person; millionaire; billionaire"
+],
+[
+"富裕",
+7,
+"Fù yù",
+"Fuyu county in Qiqihar 齐齐哈尔[Qí qí hā ěr], Heilongjiang"
+],
+[
+"富裕",
+7,
+"fù yù",
+"prosperous; well-to-do; well-off"
+],
+[
+"富足",
+7,
+"fù zú",
+"rich; plentiful"
+],
+[
+"贫富",
+7,
+"pín fù",
+"poor and rich"
+],
+[
+"致富",
+7,
+"zhì fù",
+"to become rich"
+]
+],
+"extraWords": [
 [
 "阿富汗",
 16.69,
 "Ā fù hàn",
 "Afghanistan; Afghan"
-],
-[
-"致富",
-10.5,
-"zhì fù",
-"to become rich"
-],
-[
-"富人",
-9.84,
-"fù rén",
-"rich person; the rich"
-],
-[
-"富豪",
-9.26,
-"fù háo",
-"rich and powerful person"
-],
-[
-"富翁",
-7.93,
-"fù wēng",
-"rich person; millionaire; billionaire"
-],
-[
-"丰富多彩",
-7.45,
-"fēng fù duō cǎi",
-"richly colorful"
 ],
 [
 "富贵",

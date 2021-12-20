@@ -1,17 +1,30 @@
 {
 "char": "孵",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "sit on eggs, hatch",
 "pron": "fū"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "孵化",
-5.05,
+7,
 "fū huà",
 "breeding; to incubate; innovation (esp. in commerce and marketing)"
+]
+],
+"extraWords": [
+[
+"孵化器",
+1.65,
+"fū huà qì",
+"incubator; apparatus for incubating eggs"
+],
+[
+"孵",
+1.44,
+"fū",
+"breeding; to incubate; to hatch"
 ]
 ],
 "strokes": [

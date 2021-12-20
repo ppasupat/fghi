@@ -1,6 +1,6 @@
 {
 "char": "药",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "leaf of Dahurian angelica plant; medicine",
 "pron": "yào"
@@ -10,57 +10,99 @@
 "药",
 2,
 "yào",
-"leaf of the iris; variant of 藥|药[yao4]"
+"leaf of the iris; variant of 药[yào]"
 ],
 [
 "药",
 2,
 "yào",
-"medicine; drug; substance used for a specific purpose (e.g. poisoning, explosion, fermenting); CL:種|种[zhong3],服[fu4],味[wei4]; to poison"
+"medicine; drug; substance used for a specific purpose (e.g. poisoning, explosion, fermenting); CL:种[zhǒng],服[fù],味[wèi]; to poison"
 ],
 [
-"火药",
-6,
-"huǒ yào",
-"gunpowder"
-]
+"药店",
+2,
+"yào diàn",
+"pharmacy"
 ],
-"extraWords": [
 [
-"药品",
-72.33,
-"yào pǐn",
-"medicaments; medicine; drug"
+"药片",
+2,
+"yào piàn",
+"a (medicine) pill or tablet; CL:片[piàn]"
+],
+[
+"药水",
+2,
+"Yào shuǐ",
+"Yaksu in North Korea, near the border with Liaoning and Jiling province"
+],
+[
+"药水",
+2,
+"yào shuǐ",
+"medicine in liquid form; bottled medicine; lotion"
 ],
 [
 "药物",
-70.21,
+4,
 "yào wù",
 "medicaments; pharmaceuticals; medication; medicine; drug"
 ],
 [
 "中药",
-31.66,
+5,
 "Zhōng yào",
-"(traditional) Chinese medicine; CL:服[fu4],種|种[zhong3]"
+"(traditional) Chinese medicine; CL:服[fù],种[zhǒng]"
+],
+[
+"药品",
+6,
+"yào pǐn",
+"medicaments; medicine; drug"
 ],
 [
 "医药",
-31.15,
+6,
 "yī yào",
 "medical care and medicines; medicine (drug); medical; pharmaceutical"
 ],
+[
+"炸药",
+6,
+"zhà yào",
+"explosive (material)"
+],
+[
+"安眠药",
+7,
+"ān mián yào",
+"sleeping pill; CL:粒[lì]"
+],
+[
+"火药",
+7,
+"huǒ yào",
+"gunpowder"
+],
+[
+"药材",
+7,
+"yào cái",
+"medicinal ingredient"
+],
+[
+"药方",
+7,
+"yào fāng",
+"prescription"
+]
+],
+"extraWords": [
 [
 "农药",
 14.38,
 "nóng yào",
 "agricultural chemical; farm chemical; pesticide"
-],
-[
-"炸药",
-13.24,
-"zhà yào",
-"explosive (material)"
 ],
 [
 "毒药",
@@ -69,10 +111,10 @@
 "poison"
 ],
 [
-"药店",
-10.45,
-"yào diàn",
-"pharmacy"
+"中医药",
+10.34,
+"???",
+"???"
 ],
 [
 "制药",
@@ -93,10 +135,10 @@
 "to take medicine"
 ],
 [
-"药材",
-6.57,
-"yào cái",
-"medicinal ingredient"
+"新药",
+6.78,
+"???",
+"???"
 ],
 [
 "服药",
@@ -105,22 +147,10 @@
 "to take medicine"
 ],
 [
-"药片",
-6.29,
-"yào piàn",
-"a (medicine) pill or tablet; CL:片[pian4]"
-],
-[
 "止痛药",
 5.51,
 "zhǐ tòng yào",
 "painkiller; analgesic; anodyne"
-],
-[
-"安眠药",
-5.37,
-"ān mián yào",
-"sleeping pill; CL:粒[li4]"
 ]
 ],
 "strokes": [

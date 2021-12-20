@@ -1,6 +1,6 @@
 {
 "char": "娜",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "elegant, graceful, delicate",
 "pron": "nà, nuó"
@@ -8,16 +8,40 @@
 "words": [],
 "extraWords": [
 [
+"娜",
+28.45,
+"nà",
+"(phonetic na); used esp. in female names such as Anna 安娜[Ān nà] or Diana 黛安娜[Dài ān nà]"
+],
+[
+"娜",
+28.45,
+"nuó",
+"elegant; graceful"
+],
+[
 "安娜",
 23.55,
 "Ān nà",
 "Anna (name)"
 ],
 [
+"吉娜",
+8.56,
+"???",
+"???"
+],
+[
 "李娜",
 6.46,
 "Lǐ Nà",
 "Li Na (1982-), Chinese tennis player, first Asian player to win a Grand Slam singles title (2011 French Open women's singles)"
+],
+[
+"唐娜",
+5.63,
+"???",
+"???"
 ]
 ],
 "strokes": [

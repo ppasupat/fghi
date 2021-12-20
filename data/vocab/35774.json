@@ -1,96 +1,120 @@
 {
 "char": "设",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "build; establish; display",
 "pron": "shè"
 },
 "words": [
 [
-"设计",
-5,
-"shè jì",
-"plan; design; to design; to plan; CL:個|个[ge4]"
-],
-[
-"假设",
-5,
-"jiǎ shè",
-"to suppose; to presume; to assume; supposing that ...; if; hypothesis; conjecture"
-],
-[
-"设备",
-5,
-"shè bèi",
-"equipment; facilities; installations; CL:個|个[ge4]"
-],
-[
-"设施",
-5,
-"shè shī",
-"facilities; installation"
-],
-[
 "建设",
-5,
+3,
 "jiàn shè",
 "to build; to construct; construction; constructive"
 ],
 [
+"设备",
+3,
+"shè bèi",
+"equipment; facilities; installations; CL:个[gè]"
+],
+[
+"设计",
+3,
+"shè jì",
+"plan; design; to design; to plan; CL:个[gè]"
+],
+[
+"设立",
+3,
+"shè lì",
+"to set up; to establish"
+],
+[
+"设施",
+4,
+"shè shī",
+"facilities; installation"
+],
+[
 "设置",
-6,
+4,
 "shè zhì",
 "to set up; to install"
 ],
 [
 "设想",
-6,
+5,
 "shè xiǎng",
 "to imagine; to assume; to envisage; tentative plan; to have consideration for"
 ],
 [
-"设立",
+"开设",
 6,
-"shè lì",
-"to set up; to establish"
+"kāi shè",
+"to offer (goods or services); to open (for business etc)"
+],
+[
+"设计师",
+6,
+"shè jì shī",
+"designer; architect"
+],
+[
+"摆设",
+7,
+"bǎi shè",
+"to arrange; to set out; to decorate; to display; decorative items"
+],
+[
+"假设",
+7,
+"jiǎ shè",
+"to suppose; to presume; to assume; supposing that ...; if; hypothesis; conjecture"
+],
+[
+"设",
+7,
+"shè",
+"to set up; to arrange; to establish; to found; to display"
+],
+[
+"设定",
+7,
+"shè dìng",
+"to set; to set up; to install; setting; preferences"
+],
+[
+"设法",
+7,
+"shè fǎ",
+"to try; to make an attempt; to think of a way (to accomplish sth)"
 ],
 [
 "想方设法",
-6,
+7,
 "xiǎng fāng shè fǎ",
 "to think up every possible method (idiom); to devise ways and means; to try this, that and the other"
 ]
 ],
 "extraWords": [
 [
-"设计师",
-24.79,
-"shè jì shī",
-"designer; architect"
-],
-[
-"开设",
-20.99,
-"kāi shè",
-"to offer (goods or services); to open (for business etc)"
-],
-[
-"设定",
-18.79,
-"shè dìng",
-"to set; to set up; to install; setting; preferences"
-],
-[
-"设法",
-14.19,
-"shè fǎ",
-"to try; to make an attempt; to think of a way (to accomplish sth)"
+"建设部",
+11.78,
+"???",
+"???"
 ],
 [
 "增设",
 6.89,
 "zēng shè",
 "to add to existing facilities or services"
+],
+[
+"建设银行",
+6.0,
+"???",
+"???"
 ],
 [
 "铺设",

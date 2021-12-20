@@ -1,6 +1,6 @@
 {
 "char": "璃",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "glass",
 "pron": "lí"
@@ -10,10 +10,23 @@
 "玻璃",
 5,
 "bō li",
-"glass; CL:張|张[zhang1],塊|块[kuai4]; (slang) male homosexual"
+"glass; CL:张[zhāng],块[kuài]; (slang) male homosexual"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"玻璃体",
+2.76,
+"bō lí tǐ",
+"vitreous humor"
+],
+[
+"琉璃",
+2.57,
+"liú li",
+"colored glass; ceramic glaze"
+]
+],
 "strokes": [
 "M 264 638 Q 402 683 405 685 Q 412 692 408 701 Q 401 711 371 716 Q 343 719 314 705 Q 280 690 243 678 Q 203 665 154 657 Q 120 648 146 634 Q 176 621 223 626 L 264 638 Z",
 "M 287 446 Q 317 458 350 469 Q 372 476 375 481 Q 382 490 377 497 Q 368 507 339 510 Q 314 511 289 499 L 240 475 Q 195 462 167 454 Q 133 442 161 430 Q 191 420 240 428 L 287 446 Z",

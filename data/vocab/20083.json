@@ -1,19 +1,25 @@
 {
 "char": "乳",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "breast, nipples; milk, suckle",
 "pron": "rǔ"
 },
 "words": [
 [
-"哺乳",
+"乳制品",
 6,
-"bǔ rǔ",
-"breastfeeding; to suckle; to nurse"
+"rǔ zhì pǐn",
+"dairy products"
 ]
 ],
 "extraWords": [
+[
+"乳",
+26.73,
+"rǔ",
+"breast; milk"
+],
 [
 "乳房",
 9.24,

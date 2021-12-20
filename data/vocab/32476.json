@@ -1,6 +1,6 @@
 {
 "char": "络",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "enmesh, wrap around; web, net",
 "pron": "lào, luò"
@@ -8,30 +8,49 @@
 "words": [
 [
 "网络",
-5,
+4,
 "Wǎng luò",
 "Internet"
 ],
 [
 "网络",
-5,
+4,
 "wǎng luò",
 "network (computing, telecommunications, transport etc)"
 ],
 [
 "联络",
-6,
+5,
 "lián luò",
 "to get in touch with; to contact; to stay in contact (with); liaison; (math.) connection"
 ],
 [
 "络绎不绝",
-6,
+7,
 "luò yì bù jué",
 "continuously; in an endless stream (idiom)"
+],
+[
+"脉络",
+7,
+"mài luò",
+"arteries and veins; network of blood vessels; vascular system (of a plant or animal); (fig.) fabric (i.e. underlying structure, as in \"social fabric\"); overall context"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"络",
+7.71,
+"lào",
+"small net"
+],
+[
+"络",
+7.71,
+"luò",
+"net-like object; to hold sth in place with a net; to wind; to twist; (TCM) channels in the human body"
+]
+],
 "strokes": [
 "M 315 505 Q 314 506 306 505 Q 261 506 225 507 Q 188 506 208 529 Q 272 644 334 729 Q 347 747 345 754 Q 342 769 302 798 Q 286 811 267 807 Q 257 804 263 789 Q 281 750 199 587 Q 181 550 143 515 Q 125 500 127 488 Q 131 470 145 452 Q 155 442 168 449 Q 190 461 263 477 Q 285 480 301 484 C 330 490 345 505 315 505 Z",
 "M 301 484 Q 195 337 172 325 Q 159 316 162 302 Q 163 289 189 271 Q 199 259 215 271 Q 272 314 375 355 Q 393 361 395 369 Q 398 379 378 375 Q 323 363 257 342 Q 232 332 247 353 Q 287 408 378 519 Q 406 556 430 577 Q 442 587 436 597 Q 426 616 392 634 Q 376 643 367 640 Q 357 637 360 622 Q 363 586 315 505 L 301 484 Z",

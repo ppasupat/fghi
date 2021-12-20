@@ -1,49 +1,61 @@
 {
 "char": "弹",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "pellet, bullet, shot, shell",
 "pron": "dàn, tán"
 },
 "words": [
 [
-"弹钢琴",
-4,
-"tan2 gang1 qin2",
-"to play the piano"
+"弹",
+5,
+"dàn",
+"crossball; bullet; shot; shell; ball"
+],
+[
+"弹",
+5,
+"tán",
+"to pluck (a string); to play (a string instrument); to spring or leap; to shoot (e.g. with a catapult); (of cotton) to fluff or tease; to flick; to flip; to accuse; to impeach; elastic (of materials)"
 ],
 [
 "子弹",
-6,
+5,
 "zǐ dàn",
-"bullet; CL:粒[li4],顆|颗[ke1],發|发[fa1]"
+"bullet; CL:粒[lì],颗[kē],发[fā]"
+],
+[
+"炸弹",
+6,
+"zhà dàn",
+"bomb; CL:枚[méi],颗[kē]"
 ],
 [
 "导弹",
-6,
+7,
 "dǎo dàn",
-"guided missile; cruise missile; missile; CL:枚[mei2]"
+"guided missile; cruise missile; missile; CL:枚[méi]"
+],
+[
+"动弹",
+7,
+"dòng tan",
+"to budge"
+],
+[
+"反弹",
+7,
+"fǎn tán",
+"to bounce; to bounce back; to boomerang; to ricochet; rebound (of stock market etc); bounce; backlash; negative repercussions"
 ],
 [
 "弹性",
-6,
+7,
 "tán xìng",
 "flexibility; elasticity"
 ]
 ],
 "extraWords": [
-[
-"炸弹",
-67.61,
-"zhà dàn",
-"bomb; CL:枚[mei2],顆|颗[ke1]"
-],
-[
-"反弹",
-40.89,
-"fǎn tán",
-"to bounce; to bounce back; to boomerang; to ricochet; rebound (of stock market etc); bounce; backlash; negative repercussions"
-],
 [
 "核弹",
 13.74,
@@ -66,7 +78,7 @@
 "炮弹",
 6.36,
 "pào dàn",
-"artillery shell; CL:枚[mei2]"
+"artillery shell; CL:枚[méi]"
 ],
 [
 "弹壳",

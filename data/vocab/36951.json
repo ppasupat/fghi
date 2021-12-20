@@ -1,67 +1,85 @@
 {
 "char": "遗",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "lose; articles lost; omit",
 "pron": "yí"
 },
 "words": [
 [
-"遗憾",
-5,
-"yí hàn",
-"regret; to regret; to be sorry that"
+"遗产",
+4,
+"yí chǎn",
+"heritage; legacy; inheritance; bequest; CL:笔[bǐ]"
 ],
 [
 "遗传",
-6,
+4,
 "yí chuán",
 "heredity; to inherit (a trait); to pass on (to one's offspring)"
 ],
 [
-"遗产",
+"遗憾",
 6,
-"yí chǎn",
-"heritage; legacy; inheritance; bequest; CL:筆|笔[bi3]"
+"yí hàn",
+"regret; to regret; to be sorry that"
 ],
 [
-"遗失",
-6,
-"yí shī",
-"to lose; lost"
+"后遗症",
+7,
+"hòu yí zhèng",
+"(medicine) sequelae; residual effects; (fig.) repercussions; aftermath"
 ],
 [
 "遗留",
-6,
+7,
 "yí liú",
 "to leave behind; to hand down"
-]
-],
-"extraWords": [
-[
-"遗嘱",
-13.68,
-"yí zhǔ",
-"testament; will"
 ],
 [
-"遗址",
-12.7,
-"yí zhǐ",
-"ruins; historic relics"
+"遗弃",
+7,
+"yí qì",
+"to leave; to abandon"
+],
+[
+"遗体",
+7,
+"yí tǐ",
+"remains (of a dead person)"
 ],
 [
 "遗忘",
-12.68,
+7,
 "yí wàng",
 "to become forgotten; to forget"
 ],
 [
-"遗体",
-9.09,
-"yí tǐ",
-"remains (of a dead person)"
+"遗物",
+7,
+"yí wù",
+"remnant"
 ],
+[
+"遗愿",
+7,
+"yí yuàn",
+"final wishes of the departed"
+],
+[
+"遗址",
+7,
+"yí zhǐ",
+"ruins; historic relics"
+],
+[
+"遗嘱",
+7,
+"yí zhǔ",
+"testament; will"
+]
+],
+"extraWords": [
 [
 "遗漏",
 8.47,
@@ -69,10 +87,16 @@
 "to overlook; to miss; to omit"
 ],
 [
-"遗弃",
-7.87,
-"yí qì",
-"to leave; to abandon"
+"遗失",
+8.29,
+"yí shī",
+"to lose; lost"
+],
+[
+"遗",
+7.85,
+"yí",
+"to lose; to leave behind; to omit; to bequeath; sth lost; involuntary discharge (of urine etc)"
 ]
 ],
 "strokes": [

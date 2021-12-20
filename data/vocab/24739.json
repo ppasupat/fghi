@@ -1,6 +1,6 @@
 {
 "char": "患",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "suffer, worry about; suffering",
 "pron": "huàn"
@@ -13,20 +13,31 @@
 "patient; sufferer"
 ],
 [
+"患",
+7,
+"huàn",
+"to suffer (from illness); to contract (a disease); misfortune; trouble; danger; worry"
+],
+[
+"患病",
+7,
+"huàn bìng",
+"to fall ill"
+],
+[
+"患有",
+7,
+"huàn yǒu",
+"to contract (an illness); to be afflicted with; to suffer from"
+],
+[
 "隐患",
-6,
+7,
 "yǐn huàn",
 "a danger concealed within sth; hidden damage; misfortune not visible from the surface"
 ]
 ],
-"extraWords": [
-[
-"患病",
-6.35,
-"huàn bìng",
-"to fall ill"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 345 719 Q 333 725 300 727 Q 287 728 285 723 Q 279 716 289 701 Q 317 659 339 588 Q 343 567 359 554 Q 378 535 382 550 Q 383 559 383 571 L 379 601 Q 363 664 360 688 C 356 715 356 715 345 719 Z",
 "M 706 640 Q 733 694 756 708 Q 775 729 751 746 Q 729 765 704 780 Q 689 789 617 768 Q 586 765 548 756 L 485 745 Q 454 741 426 734 Q 381 725 345 719 C 315 714 331 680 360 688 Q 462 715 485 716 L 545 725 Q 593 732 656 740 Q 671 741 675 734 Q 681 721 658 654 C 649 626 692 613 706 640 Z",

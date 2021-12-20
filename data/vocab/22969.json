@@ -1,6 +1,6 @@
 {
 "char": "妹",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "younger sister",
 "pron": "mèi"
@@ -8,23 +8,35 @@
 "words": [
 [
 "妹妹",
-2,
+1,
 "mèi mei",
-"younger sister; young woman; CL:個|个[ge4]"
+"younger sister; young woman; CL:个[gè]"
+],
+[
+"妹",
+1,
+"mèi",
+"younger sister"
+],
+[
+"姐妹",
+4,
+"jiě mèi",
+"sisters; siblings; sister (school, city etc)"
 ]
 ],
 "extraWords": [
-[
-"姐妹",
-39.94,
-"jiě mèi",
-"sisters; siblings; sister (school, city etc)"
-],
 [
 "妹子",
 18.17,
 "mèi zi",
 "(dialect) younger sister; girl"
+],
+[
+"姐妹们",
+7.35,
+"???",
+"???"
 ],
 [
 "兄妹",

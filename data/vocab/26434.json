@@ -1,46 +1,58 @@
 {
 "char": "杂",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "mixed, blended; mix, mingle",
 "pron": "zá"
 },
 "words": [
 [
-"杂志",
-4,
-"zá zhì",
-"magazine; CL:本[ben3],份[fen4],期[qi1]"
-],
-[
 "复杂",
-4,
+3,
 "fù zá",
 "complicated; complex"
 ],
 [
-"杂技",
-6,
-"zá jì",
-"acrobatics; CL:場|场[chang3]"
+"杂志",
+3,
+"zá zhì",
+"magazine; CL:本[běn],份[fèn],期[qī]"
 ],
 [
-"嘈杂",
+"杂",
 6,
-"cáo zá",
-"noisy; clamorous"
+"zá",
+"variant of 杂[zá]"
+],
+[
+"杂",
+6,
+"zá",
+"mixed; miscellaneous; various; to mix"
+],
+[
+"错综复杂",
+7,
+"cuò zōng fù zá",
+"tangled and complicated (idiom)"
+],
+[
+"杂技",
+7,
+"zá jì",
+"acrobatics; CL:场[chǎng]"
 ],
 [
 "杂交",
-6,
+7,
 "zá jiāo",
 "to hybridize; to crossbreed; promiscuity"
 ],
 [
-"夹杂",
-6,
-"jiā zá",
-"to mix together (disparate substances); to mingle; a mix; to be tangled up with"
+"杂乱无章",
+7,
+"zá luàn wú zhāng",
+"disordered and in a mess (idiom); all mixed up and chaotic"
 ]
 ],
 "extraWords": [

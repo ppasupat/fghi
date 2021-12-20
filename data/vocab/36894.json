@@ -1,11 +1,24 @@
 {
 "char": "逞",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "indulge oneself; brag, show off",
 "pron": "chěng"
 },
-"words": [],
+"words": [
+[
+"逞能",
+7,
+"chěng néng",
+"to show off one's ability; to boast one's merits"
+],
+[
+"逞强",
+7,
+"chěng qiáng",
+"to show off; to try to be brave"
+]
+],
 "extraWords": [
 [
 "得逞",

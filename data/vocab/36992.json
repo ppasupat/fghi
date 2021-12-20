@@ -1,6 +1,6 @@
 {
 "char": "邀",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "invite, welcome; meet, intercept",
 "pron": "yāo"
@@ -8,13 +8,25 @@
 "words": [
 [
 "邀请",
-4,
+5,
 "yāo qǐng",
-"to invite; invitation; CL:個|个[ge4]"
+"to invite; invitation; CL:个[gè]"
+],
+[
+"特邀",
+7,
+"tè yāo",
+"special invitation"
+],
+[
+"邀",
+7,
+"yāo",
+"to invite; to request; to intercept; to solicit; to seek"
 ],
 [
 "应邀",
-6,
+7,
 "yìng yāo",
 "at sb's invitation; on invitation"
 ]

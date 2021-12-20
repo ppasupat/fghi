@@ -1,16 +1,28 @@
 {
 "char": "碳",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "carbon",
 "pron": "tàn"
 },
 "words": [
 [
+"低碳",
+7,
+"dī tàn",
+"(attributive) low-carbon; low-carb (diet)"
+],
+[
 "二氧化碳",
-6,
+7,
 "èr yǎng huà tàn",
 "carbon dioxide CO2"
+],
+[
+"碳",
+7,
+"tàn",
+"carbon (chemistry)"
 ]
 ],
 "extraWords": [],

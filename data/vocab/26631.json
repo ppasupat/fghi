@@ -1,28 +1,40 @@
 {
 "char": "标",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "mark, symbol, label, sign; stand the bole of a tree",
 "pron": "biāo"
 },
 "words": [
 [
+"标题",
+3,
+"biāo tí",
+"title; heading; headline; caption; subject"
+],
+[
 "标准",
-4,
+3,
 "biāo zhǔn",
-"(an official) standard; norm; criterion; CL:個|个[ge4]"
+"(an official) standard; norm; criterion; CL:个[gè]"
 ],
 [
 "目标",
-5,
+3,
 "mù biāo",
-"target; goal; objective; CL:個|个[ge4]"
+"target; goal; objective; CL:个[gè]"
 ],
 [
 "标志",
-5,
+4,
 "biāo zhì",
 "sign; mark; symbol; logo; to symbolize; to indicate; to mark"
+],
+[
+"商标",
+5,
+"shāng biāo",
+"trademark; logo"
 ],
 [
 "鼠标",
@@ -31,44 +43,74 @@
 "mouse (computing)"
 ],
 [
-"标点",
-5,
-"biāo diǎn",
-"punctuation; a punctuation mark; to punctuate; CL:個|个[ge4]"
-],
-[
-"标记",
-6,
-"biāo jì",
-"sign; mark; symbol; to mark up; (computing) token"
-],
-[
-"标题",
-6,
-"biāo tí",
-"title; heading; headline; caption; subject"
-],
-[
-"商标",
-6,
-"shāng biāo",
-"trademark; logo"
-],
-[
-"标本",
-6,
-"biāo běn",
-"specimen; sample; the root cause and symptoms of a disease"
-],
-[
 "指标",
-6,
+5,
 "zhǐ biāo",
 "(production) target; quota; index; indicator; sign; signpost; (computing) pointer"
 ],
 [
+"标",
+7,
+"biāo",
+"mark; sign; label; to mark with a symbol, label, lettering etc; to bear (a brand name, registration number etc); prize; award; bid; target; quota; (old) the topmost branches of a tree; visible symptom; classifier for military units"
+],
+[
+"标榜",
+7,
+"biāo bǎng",
+"to flaunt; to advertise; to parade; boost; excessive praise"
+],
+[
+"标本",
+7,
+"biāo běn",
+"specimen; sample; the root cause and symptoms of a disease"
+],
+[
+"标签",
+7,
+"biāo qiān",
+"label; tag; (computing) tab (GUI element)"
+],
+[
+"标示",
+7,
+"biāo shì",
+"to indicate"
+],
+[
+"标语",
+7,
+"biāo yǔ",
+"written slogan; placard; CL:幅[fú],张[zhāng],条[tiáo]"
+],
+[
+"标致",
+7,
+"Biāo zhì",
+"Peugeot"
+],
+[
+"标致",
+7,
+"biāo zhi",
+"beautiful (of woman); pretty"
+],
+[
+"超标",
+7,
+"chāo biāo",
+"to cross the limit; to be over the accepted norm; excessive"
+],
+[
+"达标",
+7,
+"dá biāo",
+"to reach a set standard"
+],
+[
 "招标",
-6,
+7,
 "zhāo biāo",
 "to invite bids"
 ]
@@ -81,10 +123,16 @@
 "championship contest; championships"
 ],
 [
+"标记",
+21.97,
+"biāo jì",
+"sign; mark; symbol; to mark up; (computing) token"
+],
+[
 "标识",
 14.83,
 "biāo zhì",
-"variant of 標誌|标志[biao1 zhi4]"
+"variant of 标志[biāo zhì]"
 ],
 [
 "标准化",
@@ -93,40 +141,16 @@
 "standardization"
 ],
 [
-"标签",
-13.33,
-"biāo qiān",
-"label; tag; (computing) tab (GUI element)"
-],
-[
-"超标",
-13.27,
-"chāo biāo",
-"to cross the limit; to be over the accepted norm; excessive"
-],
-[
 "投标",
 12.12,
 "tóu biāo",
 "to bid; to make a tender"
 ],
 [
-"达标",
-10.68,
-"dá biāo",
-"to reach a set standard"
-],
-[
 "坐标",
 8.14,
 "zuò biāo",
 "coordinate (geometry)"
-],
-[
-"标语",
-7.67,
-"biāo yǔ",
-"written slogan; placard; CL:幅[fu2],張|张[zhang1],條|条[tiao2]"
 ],
 [
 "中标",

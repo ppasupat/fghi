@@ -1,19 +1,31 @@
 {
 "char": "濒",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "approach, be on verge of; near",
 "pron": "bīn"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "濒临",
-6,
+3.64,
 "bīn lín",
 "on the edge of; (fig.) on the verge of; close to"
+],
+[
+"濒危",
+2.25,
+"bīn wēi",
+"endangered (species); in imminent danger; critically ill"
+],
+[
+"濒死",
+1.19,
+"bīn sǐ",
+"nearing death; on the point of demise; approaching extinction"
 ]
 ],
-"extraWords": [],
 "strokes": [
 "M 181 700 Q 203 681 226 656 Q 239 643 254 644 Q 264 644 269 657 Q 273 670 265 699 Q 261 717 234 729 Q 170 753 156 747 Q 152 743 152 731 Q 156 721 181 700 Z",
 "M 121 507 Q 166 455 197 440 Q 210 436 219 449 Q 225 461 223 476 Q 213 518 134 541 L 133 542 Q 118 546 109 543 Q 103 542 106 531 Q 107 521 121 507 Z",

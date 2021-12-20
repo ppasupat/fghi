@@ -1,6 +1,6 @@
 {
 "char": "窜",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "run away; revise, edit; expel",
 "pron": "cuàn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "窜",
-6,
+7,
 "cuàn",
 "to flee; to scuttle; to exile or banish; to amend or edit"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"逃窜",
+2.83,
+"táo cuàn",
+"to run away; to flee in disarray"
+],
+[
+"流窜",
+1.57,
+"liú cuàn",
+"to roam all over the place; to go into every nook and corner; to infiltrate; (of criminals, enemies etc) to be on the run; to flee and try to hide"
+]
+],
 "strokes": [
 "M 457 791 Q 487 770 518 745 Q 534 733 550 736 Q 560 737 565 752 Q 568 768 555 798 Q 548 817 515 829 Q 434 847 424 839 Q 420 835 422 821 Q 426 811 457 791 Z",
 "M 282 677 Q 281 678 281 681 Q 271 703 259 711 Q 243 724 241 701 Q 241 665 199 611 Q 165 578 191 523 Q 204 498 223 523 Q 229 532 278 651 C 285 668 285 668 282 677 Z",

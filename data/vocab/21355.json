@@ -1,42 +1,72 @@
 {
 "char": "卫",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "guard, protect, defend",
 "pron": "wèi"
 },
 "words": [
 [
-"卫生间",
-4,
-"wèi shēng jiān",
-"bathroom; toilet; WC; CL:間|间[jian1]"
+"卫生",
+3,
+"wèi shēng",
+"health; hygiene; sanitation"
 ],
 [
-"卫星",
-6,
-"wèi xīng",
-"satellite; moon; CL:顆|颗[ke1]"
+"卫生间",
+3,
+"wèi shēng jiān",
+"bathroom; toilet; WC; CL:间[jiān]"
 ],
 [
 "保卫",
-6,
+5,
 "bǎo wèi",
 "to defend; to safeguard"
 ],
 [
+"卫星",
+5,
+"wèi xīng",
+"satellite; moon; CL:颗[kē]"
+],
+[
+"防卫",
+7,
+"fáng wèi",
+"to defend; defensive; defense"
+],
+[
 "捍卫",
-6,
+7,
 "hàn wèi",
 "to defend; to uphold; to safeguard"
+],
+[
+"卫视",
+7,
+"wèi shì",
+"satellite TV (abbr. for 卫星电视[wèi xīng diàn shì])"
+],
+[
+"自卫",
+7,
+"zì wèi",
+"self-defense"
 ]
 ],
 "extraWords": [
 [
-"卫生",
-92.82,
-"wèi shēng",
-"health; hygiene; sanitation"
+"卫",
+38.11,
+"Wèi",
+"surname Wei; vassal state during the Zhou Dynasty (1066-221 BC), located in present day Henan and Hebei Provinces"
+],
+[
+"卫",
+38.11,
+"wèi",
+"to guard; to protect; to defend; abbr. for 衛生|卫生, hygiene; health; abbr. for 衛生間|卫生间, toilet"
 ],
 [
 "大卫",
@@ -87,34 +117,40 @@
 "health office; bureau of hygiene"
 ],
 [
-"自卫",
-8.32,
-"zì wèi",
-"self-defense"
-],
-[
 "环卫",
 8.13,
 "huán wèi",
-"public cleanliness; (urban) sanitation; environmental sanitation; abbr. for 環境衛生|环境卫生[huan2 jing4 wei4 sheng1]"
+"public cleanliness; (urban) sanitation; environmental sanitation; abbr. for 环境卫生[huán jìng wèi shēng]"
 ],
 [
-"卫视",
-7.57,
-"wèi shì",
-"satellite TV (abbr. for 衛星電視|卫星电视[wei4 xing1 dian4 shi4])"
+"医疗卫生",
+6.97,
+"???",
+"???"
 ],
 [
-"防卫",
-6.17,
-"fáng wèi",
-"to defend; defensive; defense"
+"湖南卫视",
+6.53,
+"???",
+"???"
+],
+[
+"警卫队",
+6.26,
+"???",
+"???"
 ],
 [
 "公共卫生",
 6.02,
 "gōng gòng wèi shēng",
 "public health"
+],
+[
+"卫生院",
+5.75,
+"???",
+"???"
 ],
 [
 "护卫",

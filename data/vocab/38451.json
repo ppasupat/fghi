@@ -1,6 +1,6 @@
 {
 "char": "阳",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "'male' principle; light; sun",
 "pron": "yáng"
@@ -8,53 +8,65 @@
 "words": [
 [
 "太阳",
-3,
+2,
 "tài yang",
-"sun; CL:個|个[ge4]; abbr. for 太陽穴|太阳穴[tai4 yang2 xue2]"
+"sun; CL:个[gè]; abbr. for 太阳穴[tài yáng xué]"
 ],
 [
 "阳光",
-4,
+3,
 "yáng guāng",
-"sunshine; CL:線|线[xian4]; transparent (open to public scrutiny)"
+"sunshine; CL:线[xiàn]; transparent (open to public scrutiny)"
 ],
 [
 "阳台",
-5,
+4,
 "yáng tái",
-"variant of 陽臺|阳台[yang2 tai2]"
+"variant of 阳台[yáng tái]"
 ],
 [
 "阳台",
-5,
+4,
 "yáng tái",
 "balcony; porch"
 ],
 [
-"夕阳",
+"太阳能",
 6,
-"xī yáng",
-"sunset; the setting sun"
+"tài yáng néng",
+"solar energy"
+],
+[
+"晒太阳",
+7,
+"shài tài yáng",
+"to be in the sun (getting warm or sunbathing etc); to put sth in the sun (e.g. to dry it)"
+],
+[
+"阳性",
+7,
+"yáng xìng",
+"positive; masculine"
 ]
 ],
 "extraWords": [
 [
+"阳",
+43.03,
+"yáng",
+"positive (electric.); sun; male principle (Taoism); Yang, opposite: 阴[yīn]"
+],
+[
 "沈阳",
 38.48,
 "Shěn yáng",
-"Shenyang subprovincial city and capital of Liaoning province 遼寧省|辽宁省[Liao2 ning2 Sheng3] in northeast China; old names include Fengtian 奉天[Feng4 tian1], Shengjing 盛京[Sheng4 jing1] and Mukden"
-],
-[
-"阳性",
-26.41,
-"yáng xìng",
-"positive; masculine"
+"Shenyang subprovincial city and capital of Liaoning province 辽宁省[Liáo níng Shěng] in northeast China; old names include Fengtian 奉天[Fèng tiān], Shengjing 盛京[Shèng jīng] and Mukden"
 ],
 [
 "贵阳",
 14.82,
 "Guì yáng",
-"Guiyang prefecture-level city and capital of Guizhou province 貴州|贵州[Gui4 zhou1], short name 筑[Zhu4]"
+"Guiyang prefecture-level city and capital of Guizhou province 贵州[Guì zhōu], short name 筑[Zhù]"
 ],
 [
 "洛阳",
@@ -63,22 +75,16 @@
 "Luoyang prefecture-level city in Henan, an old capital from pre-Han times"
 ],
 [
-"太阳能",
-9.9,
-"tài yáng néng",
-"solar energy"
-],
-[
 "贵阳市",
 9.26,
 "Guì yáng Shì",
-"Guiyang prefecture-level city and capital of Guizhou province 貴州|贵州[Gui4 zhou1]"
+"Guiyang prefecture-level city and capital of Guizhou province 贵州[Guì zhōu]"
 ],
 [
 "沈阳市",
 9.2,
 "Shěn yáng shì",
-"Shenyang subprovincial city and capital of Liaoning province 遼寧省|辽宁省[Liao2 ning2 Sheng3] in northeast China; old names include Fengtian 奉天[Feng4 tian1], Shengjing 盛京[Sheng4 jing1] and Mukden"
+"Shenyang subprovincial city and capital of Liaoning province 辽宁省[Liáo níng Shěng] in northeast China; old names include Fengtian 奉天[Fèng tiān], Shengjing 盛京[Shèng jīng] and Mukden"
 ],
 [
 "阴阳",
@@ -87,10 +93,16 @@
 "yin and yang"
 ],
 [
+"夕阳",
+6.8,
+"xī yáng",
+"sunset; the setting sun"
+],
+[
 "朝阳",
 6.78,
 "Cháo yáng",
-"Chaoyang district in east and northeast Beijing, a county level district of Beijing municipality; Chaoyang prefecture-level city in Liaoning province 遼寧省|辽宁省[Liao2 ning2 Sheng3] in northeast China; Chaoyang district of Changchun city 長春市|长春市[Chang2 chun1 shi4], Jilin; Chaoyang county in Chaoyang 朝陽|朝阳[Chao2 yang2], Liaoning"
+"Chaoyang district in east and northeast Beijing, a county level district of Beijing municipality; Chaoyang prefecture-level city in Liaoning province 辽宁省[Liáo níng Shěng] in northeast China; Chaoyang district of Changchun city 长春市[Cháng chūn shì], Jilin; Chaoyang county in Chaoyang 朝阳[Cháo yáng], Liaoning"
 ],
 [
 "朝阳",
@@ -109,12 +121,6 @@
 5.96,
 "Cháo yáng qū",
 "Chaoyang inner district of Beijing; Chaoyang district, Changchun city, Jilin"
-],
-[
-"晒太阳",
-5.29,
-"shài tài yáng",
-"to be in the sun (getting warm or sunbathing etc); to put sth in the sun (e.g. to dry it)"
 ]
 ],
 "strokes": [

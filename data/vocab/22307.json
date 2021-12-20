@@ -1,30 +1,42 @@
 {
 "char": "圣",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "holy, sacred",
 "pron": "shèng"
 },
 "words": [
 [
-"神圣",
+"圣诞节",
 6,
+"Shèng dàn jié",
+"Christmas time; Christmas season; Christmas"
+],
+[
+"神圣",
+7,
 "shén shèng",
 "divine; hallow; holy; sacred"
+],
+[
+"圣贤",
+7,
+"shèng xián",
+"a sage; wise and holy man; virtuous ruler; Buddhist lama; wine"
 ]
 ],
 "extraWords": [
+[
+"圣",
+66.59,
+"shèng",
+"holy; sacred; saint; sage"
+],
 [
 "圣诞",
 61.79,
 "Shèng dàn",
 "Christmas; birthday of reigning Emperor; Confucius' birthday"
-],
-[
-"圣诞节",
-49.54,
-"Shèng dàn jié",
-"Christmas time; Christmas season; Christmas"
 ],
 [
 "圣诞老人",
@@ -36,7 +48,7 @@
 "圣经",
 23.67,
 "Shèng jīng",
-"Holy Bible; the Confucian classics; CL:本[ben3],部[bu4]"
+"Holy Bible; the Confucian classics; CL:本[běn],部[bù]"
 ],
 [
 "圣地亚哥",
@@ -60,13 +72,19 @@
 "圣人",
 6.83,
 "shèng rén",
-"saint; sage; refers to Confucius 孔子[Kong3 zi3]; the current reigning Emperor"
+"saint; sage; refers to Confucius 孔子[Kǒng zǐ]; the current reigning Emperor"
 ],
 [
 "圣诞树",
 5.96,
 "Shèng dàn shù",
 "Christmas tree"
+],
+[
+"圣诞礼物",
+5.89,
+"???",
+"???"
 ],
 [
 "圣地",

@@ -1,19 +1,38 @@
 {
 "char": "盲",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "blind; unperceptive, shortsighted",
 "pron": "máng"
 },
 "words": [
 [
-"盲目",
+"盲人",
 6,
+"máng rén",
+"blind person"
+],
+[
+"盲目",
+7,
 "máng mù",
 "blind; blindly; ignorant; lacking understanding"
+],
+[
+"文盲",
+7,
+"wén máng",
+"illiterate"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"盲",
+8.66,
+"máng",
+"blind"
+]
+],
 "strokes": [
 "M 475 820 Q 536 772 574 763 Q 590 763 598 780 Q 602 795 596 813 Q 584 838 562 848 Q 543 857 481 865 Q 462 868 452 861 Q 445 858 451 845 Q 455 833 475 820 Z",
 "M 357 635 Q 531 669 892 670 Q 914 670 920 680 Q 926 693 907 708 Q 850 750 791 739 Q 560 694 110 641 Q 86 638 104 619 Q 138 588 181 597 Q 244 615 313 627 L 357 635 Z",

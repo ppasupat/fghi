@@ -1,6 +1,6 @@
 {
 "char": "均",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "equal, even, fair; all, also",
 "pron": "jūn"
@@ -8,29 +8,41 @@
 "words": [
 [
 "平均",
-5,
+4,
 "píng jūn",
 "average; on average; evenly; in equal proportions"
 ],
 [
+"均衡",
+7,
+"jūn héng",
+"equal; balanced; harmony; equilibrium"
+],
+[
 "均匀",
-5,
+7,
 "jūn yún",
 "even; well-distributed; homogeneous; well-proportioned (figure, body etc)"
+],
+[
+"人均",
+7,
+"rén jūn",
+"per capita"
 ]
 ],
 "extraWords": [
 [
-"人均",
-36.21,
-"rén jūn",
-"per capita"
+"均",
+286.76,
+"jūn",
+"equal; even; all; uniform"
 ],
 [
-"均衡",
-14.93,
-"jūn héng",
-"equal; balanced; harmony; equilibrium"
+"均有",
+21.01,
+"???",
+"???"
 ],
 [
 "年均",

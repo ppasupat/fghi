@@ -1,11 +1,18 @@
 {
 "char": "爹",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "father, daddy",
 "pron": "diē"
 },
-"words": [],
+"words": [
+[
+"爹",
+7,
+"diē",
+"dad"
+]
+],
 "extraWords": [
 [
 "老爹",

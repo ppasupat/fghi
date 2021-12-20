@@ -1,40 +1,82 @@
 {
 "char": "并",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "combine, annex; also, what's more",
 "pron": "bīng, bìng"
 },
 "words": [
 [
+"并",
+3,
+"bìng",
+"and; furthermore; also; together with; (not) at all; simultaneously; to combine; to join; to merge"
+],
+[
+"并",
+3,
+"bìng",
+"to combine; to amalgamate"
+],
+[
+"并",
+3,
+"Bīng",
+"short name for Taiyuan 太原[Tài yuán]"
+],
+[
+"并",
+3,
+"bìng",
+"variant of 并[bìng]"
+],
+[
 "并且",
-4,
+3,
 "bìng qiě",
 "and; besides; moreover; furthermore; in addition"
 ],
 [
-"并非",
-6,
-"bìng fēi",
-"really isn't"
-],
-[
 "合并",
-6,
+5,
 "hé bìng",
-"variant of 合併|合并[he2 bing4]"
+"variant of 合并[hé bìng]"
 ],
 [
 "合并",
-6,
+5,
 "hé bìng",
 "to merge; to annex"
 ],
 [
+"并非",
+7,
+"bìng fēi",
+"really isn't"
+],
+[
+"并购",
+7,
+"bìng gòu",
+"merger and acquisition (M and A); acquisition; to take over"
+],
+[
 "并列",
-6,
+7,
 "bìng liè",
 "to stand side by side; to be juxtaposed"
+],
+[
+"并行",
+7,
+"bìng xíng",
+"to proceed in parallel; side by side (of two processes, developments, thoughts etc)"
+],
+[
+"相提并论",
+7,
+"xiāng tí bìng lùn",
+"to discuss two disparate things together (idiom); to mention on equal terms; to place on a par with; (often with negatives: impossible to mention X in the same breath as Y)"
 ]
 ],
 "extraWords": [
@@ -43,6 +85,18 @@
 175.76,
 "bìng bù",
 "not at all; emphatically not"
+],
+[
+"并没有",
+105.5,
+"???",
+"???"
+],
+[
+"并不是",
+79.1,
+"???",
+"???"
 ],
 [
 "并发症",
@@ -57,10 +111,22 @@
 "to annex; to take over; to acquire"
 ],
 [
+"并用",
+8.43,
+"???",
+"???"
+],
+[
 "并存",
 6.84,
 "bìng cún",
 "to exist at the same time; to coexist"
+],
+[
+"并不会",
+6.59,
+"???",
+"???"
 ],
 [
 "一并",
@@ -73,6 +139,12 @@
 6.43,
 "yī bìng",
 "to lump together; to treat along with all the others"
+],
+[
+"并非如此",
+5.96,
+"???",
+"???"
 ],
 [
 "并发",

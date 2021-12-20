@@ -1,30 +1,48 @@
 {
 "char": "填",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "fill in, fill up; make good",
 "pron": "tián"
 },
 "words": [
 [
+"填",
+4,
+"tián",
+"to fill or stuff; (of a form etc) to fill in"
+],
+[
 "填空",
 4,
 "tián kòng",
 "to fill a job vacancy; to fill in a blank (e.g. on questionnaire or exam paper)"
+],
+[
+"填补",
+7,
+"tián bǔ",
+"to fill a gap; to fill in a blank (on a form); to overcome a deficiency"
+],
+[
+"填充",
+7,
+"tián chōng",
+"pad; padding"
+],
+[
+"填写",
+7,
+"tián xiě",
+"to fill in a form; to write data in a box (on a questionnaire or web form)"
 ]
 ],
 "extraWords": [
 [
-"填写",
-12.73,
-"tián xiě",
-"to fill in a form; to write data in a box (on a questionnaire or web form)"
-],
-[
-"填补",
-8.11,
-"tián bǔ",
-"to fill a gap; to fill in a blank (on a form); to overcome a deficiency"
+"填报",
+7.36,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,18 +1,37 @@
 {
 "char": "鹅",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "goose",
 "pron": "é"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"鹅",
+7,
+"é",
+"variant of 鹅[é]"
+],
+[
+"鹅",
+7,
+"é",
+"goose; CL:只[zhī]"
+],
+[
+"鹅",
+7,
+"é",
+"variant of 鹅[é]"
+],
 [
 "天鹅",
-9.6,
+7,
 "tiān é",
 "swan"
+]
 ],
+"extraWords": [
 [
 "企鹅",
 7.33,

@@ -1,12 +1,31 @@
 {
 "char": "芜",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "luxurious growth of weeds",
 "pron": "wú"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"荒芜",
+2.44,
+"huāng wú",
+"left to return to unchecked growth; overgrown; grown wild"
+],
+[
+"芜湖",
+2.31,
+"Wú hú",
+"Wuhu prefecture level city in Anhui"
+],
+[
+"芜",
+1.17,
+"wú",
+"overgrown with weeds"
+]
+],
 "strokes": [
 "M 627 667 Q 699 680 815 672 Q 831 671 835 681 Q 839 691 827 706 Q 779 746 687 722 Q 668 721 648 715 L 593 705 Q 514 693 424 679 L 380 673 Q 301 666 214 654 Q 186 650 206 635 Q 249 608 326 626 Q 356 635 388 640 L 428 647 Q 482 657 583 664 L 627 667 Z",
 "M 424 679 Q 420 718 418 747 Q 419 766 400 771 Q 361 789 341 781 Q 323 772 338 754 Q 368 721 380 673 L 388 640 Q 391 609 411 587 Q 424 577 428 589 Q 435 608 430 629 Q 429 639 428 647 L 424 679 Z",

@@ -1,6 +1,6 @@
 {
 "char": "寻",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "seek, search, look for; ancient",
 "pron": "xún"
@@ -8,36 +8,54 @@
 "words": [
 [
 "寻找",
-5,
+4,
 "xún zhǎo",
 "to seek; to look for"
 ],
 [
+"寻求",
+5,
+"xún qiú",
+"to seek; to look for"
+],
+[
+"不同寻常",
+7,
+"bù tóng xún cháng",
+"out of the ordinary; unusual"
+],
+[
+"耐人寻味",
+7,
+"nài rén xún wèi",
+"thought-provoking; worth thinking over; to provide food for thought"
+],
+[
+"搜寻",
+7,
+"sōu xún",
+"to search; to look for"
+],
+[
+"寻",
+7,
+"xún",
+"to search; to look for; to seek"
+],
+[
+"寻常",
+7,
+"xún cháng",
+"usual; common; ordinary"
+],
+[
 "寻觅",
-6,
+7,
 "xún mì",
 "to look for"
 ]
 ],
 "extraWords": [
-[
-"寻求",
-27.86,
-"xún qiú",
-"to seek; to look for"
-],
-[
-"寻常",
-14.58,
-"xún cháng",
-"usual; common; ordinary"
-],
-[
-"搜寻",
-12.52,
-"sōu xún",
-"to search; to look for"
-],
 [
 "找寻",
 6.77,

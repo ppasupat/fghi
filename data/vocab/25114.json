@@ -1,6 +1,6 @@
 {
 "char": "戚",
-"level": 4,
+"level": "7",
 "info": {
 "gloss": "relative; be related to; sad",
 "pron": "qī"
@@ -8,12 +8,37 @@
 "words": [
 [
 "亲戚",
-4,
+7,
 "qīn qi",
-"a relative (i.e. family relation); CL:門|门[men2],個|个[ge4],位[wei4]"
+"a relative (i.e. family relation); CL:门[mén],个[gè],位[wèi]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"戚",
+1.95,
+"qī",
+"variant of 戚[qī]; grief; sorrow"
+],
+[
+"戚",
+1.95,
+"qī",
+"variant of 戚[qī]"
+],
+[
+"戚",
+1.95,
+"Qī",
+"surname Qi"
+],
+[
+"戚",
+1.95,
+"qī",
+"relative; parent; grief; sorrow; battle-axe"
+]
+],
 "strokes": [
 "M 599 599 Q 729 632 734 635 Q 744 642 739 652 Q 732 664 702 672 Q 678 678 591 651 L 549 638 Q 518 631 489 622 Q 401 603 298 594 Q 295 594 293 593 C 263 589 274 573 302 563 Q 338 548 387 558 Q 472 576 559 592 L 599 599 Z",
 "M 293 593 Q 292 594 290 595 Q 244 620 228 618 Q 209 615 223 593 Q 251 541 227 338 Q 217 272 181 195 Q 148 120 60 47 Q 47 34 42 28 Q 41 21 52 21 Q 68 21 88 35 Q 136 65 165 95 Q 261 191 287 415 Q 293 470 297 534 Q 301 553 302 563 C 306 586 306 586 293 593 Z",

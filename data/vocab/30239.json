@@ -1,17 +1,30 @@
 {
 "char": "瘟",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "epidemic, plague, pestilence",
 "pron": "wēn"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "瘟疫",
-7.06,
+7,
 "wēn yì",
 "epidemic; plague; pestilence; diseased"
+]
+],
+"extraWords": [
+[
+"瘟",
+2.32,
+"wēn",
+"epidemic; pestilence; plague; (fig.) stupid; dull; (of a performance) lackluster"
+],
+[
+"猪瘟",
+0.85,
+"zhū wēn",
+"swine fever"
 ]
 ],
 "strokes": [

@@ -1,132 +1,210 @@
 {
 "char": "量",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "measure, quantity, capacity",
 "pron": "liáng, liàng"
 },
 "words": [
 [
+"大量",
+2,
+"dà liàng",
+"great amount; large quantity; bulk; numerous; generous; magnanimous"
+],
+[
 "商量",
-4,
+2,
 "shāng liang",
 "to consult; to talk over; to discuss"
 ],
 [
-"数量",
-4,
-"shù liàng",
-"amount; quantity; CL:個|个[ge4]; quantitative"
-],
-[
-"质量",
-4,
-"zhì liàng",
-"quality; (physics) mass; CL:個|个[ge4]"
-],
-[
-"力量",
-5,
-"lì liang",
-"power; force; strength"
-],
-[
 "尽量",
-5,
+3,
 "jǐn liàng",
 "as much as possible; to the greatest extent"
 ],
 [
 "尽量",
-5,
+3,
 "jìn liàng",
 "as much as possible; to the greatest extent"
 ],
 [
-"重量",
-5,
-"zhòng liàng",
-"weight; CL:個|个[ge4]"
+"力量",
+3,
+"lì liang",
+"power; force; strength"
 ],
 [
-"能量",
-6,
-"néng liàng",
-"energy; capabilities"
+"数量",
+3,
+"shù liàng",
+"amount; quantity; CL:个[gè]; quantitative"
 ],
 [
 "测量",
-6,
+4,
 "cè liáng",
 "survey; to measure; to gauge; to determine"
 ],
 [
-"较量",
+"含量",
+4,
+"hán liàng",
+"content; quantity contained"
+],
+[
+"量",
+4,
+"liáng",
+"to measure"
+],
+[
+"量",
+4,
+"liàng",
+"capacity; quantity; amount; to estimate; abbr. for 量词[liàng cí], classifier (in Chinese grammar); measure word"
+],
+[
+"质量",
+4,
+"zhì liàng",
+"quality; (physics) mass; CL:个[gè]"
+],
+[
+"重量",
+4,
+"zhòng liàng",
+"weight; CL:个[gè]"
+],
+[
+"能量",
+5,
+"néng liàng",
+"energy; capabilities"
+],
+[
+"热量",
+5,
+"rè liàng",
+"heat; quantity of heat; calorific value"
+],
+[
+"产量",
 6,
-"jiào liàng",
-"to pit oneself against sb; to compete with sb; contest; battle; to haggle; to quibble"
+"chǎn liàng",
+"output"
+],
+[
+"衡量",
+6,
+"héng liáng",
+"to weigh; to examine; to consider"
+],
+[
+"音量",
+6,
+"yīn liàng",
+"loudness; volume"
+],
+[
+"总量",
+6,
+"zǒng liàng",
+"total; overall amount"
+],
+[
+"打量",
+7,
+"dǎ liang",
+"to size sb up; to look sb up and down; to take the measure of; to suppose; to reckon"
 ],
 [
 "分量",
-6,
+7,
 "fēn liàng",
 "(vector) component"
 ],
 [
 "分量",
-6,
+7,
 "fèn liang",
 "quantity; weight; measure"
 ],
 [
-"打量",
-6,
-"dǎ liang",
-"to size sb up; to look sb up and down; to take the measure of; to suppose; to reckon"
-]
-],
-"extraWords": [
-[
-"大量",
-150.65,
-"dà liàng",
-"great amount; large quantity; bulk; numerous; generous; magnanimous"
+"工作量",
+7,
+"gōng zuò liàng",
+"workload; volume of work"
 ],
 [
-"含量",
-60.11,
-"hán liàng",
-"content; quantity contained"
+"海量",
+7,
+"hǎi liàng",
+"huge volume"
 ],
 [
-"产量",
-59.76,
-"chǎn liàng",
-"output"
+"较量",
+7,
+"jiào liàng",
+"to pit oneself against sb; to compete with sb; contest; battle; to haggle; to quibble"
 ],
 [
-"总量",
-35.17,
-"zǒng liàng",
-"total; overall amount"
+"考量",
+7,
+"kǎo liáng",
+"to consider; to give serious consideration to sth; consideration"
 ],
 [
-"销量",
-30.22,
-"xiāo liàng",
-"sales volume"
+"流量",
+7,
+"liú liàng",
+"flow rate; rate; throughput; site traffic (Internet)"
 ],
 [
 "容量",
-26.65,
+7,
 "róng liàng",
 "capacity; volume; quantitative (science)"
 ],
 [
-"流量",
-26.07,
-"liú liàng",
-"flow rate; rate; throughput; site traffic (Internet)"
+"少量",
+7,
+"shǎo liàng",
+"a smidgen; a little bit; a few"
+],
+[
+"适量",
+7,
+"shì liàng",
+"appropriate amount"
+],
+[
+"销量",
+7,
+"xiāo liàng",
+"sales volume"
+],
+[
+"正能量",
+7,
+"zhèng néng liàng",
+"positive energy; positivity"
+],
+[
+"重量级",
+7,
+"zhòng liàng jí",
+"heavyweight (boxing etc)"
+]
+],
+"extraWords": [
+[
+"成交量",
+30.23,
+"???",
+"???"
 ],
 [
 "剂量",
@@ -135,28 +213,10 @@
 "dosage; prescribed dose of medicine"
 ],
 [
-"少量",
-17.43,
-"shǎo liàng",
-"a smidgen; a little bit; a few"
-],
-[
-"衡量",
-16.79,
-"héng liáng",
-"to weigh; to examine; to consider"
-],
-[
-"适量",
-14.52,
-"shì liàng",
-"appropriate amount"
-],
-[
-"热量",
-13.09,
-"rè liàng",
-"heat; quantity of heat; calorific value"
+"限量",
+19.51,
+"???",
+"???"
 ],
 [
 "计量",
@@ -189,16 +249,40 @@
 "quantity used; usage; consumption; dose"
 ],
 [
+"需求量",
+8.47,
+"???",
+"???"
+],
+[
 "批量",
 8.09,
 "pī liàng",
 "batch; lot"
 ],
 [
+"供应量",
+7.88,
+"???",
+"???"
+],
+[
 "储量",
 7.68,
 "chǔ liàng",
 "remaining quantity; reserves (of natural resources, oil etc)"
+],
+[
+"放量",
+7.27,
+"???",
+"???"
+],
+[
+"销售量",
+6.91,
+"???",
+"???"
 ],
 [
 "增量",
@@ -231,22 +315,16 @@
 "to quantize; quantization; quantitative"
 ],
 [
-"工作量",
-5.62,
-"gōng zuò liàng",
-"workload; volume of work"
-],
-[
-"重量级",
-5.48,
-"zhòng liàng jí",
-"heavyweight (boxing etc)"
-],
-[
 "总产量",
 5.42,
 "zǒng chǎn liàng",
 "total output"
+],
+[
+"交易量",
+5.16,
+"???",
+"???"
 ]
 ],
 "strokes": [

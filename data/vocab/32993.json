@@ -1,54 +1,78 @@
 {
 "char": "胡",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "recklessly, foolishly; wildly",
 "pron": "hú"
 },
 "words": [
 [
-"胡说",
+"胡同儿",
 5,
+"hú tòng",
+"lane; alley; CL:条[tiáo]"
+],
+[
+"胡同儿",
+5,
+"hú tòng",
+"variant of 胡同[hú tòng]"
+],
+[
+"胡子",
+5,
+"hú zi",
+"beard; mustache or whiskers; facial hair; CL:撮[zuǒ],根[gēn]; (coll.) bandit"
+],
+[
+"胡闹",
+7,
+"hú nào",
+"to act willfully and make a scene; to make trouble"
+],
+[
+"胡说",
+7,
 "hú shuō",
 "to talk nonsense; drivel"
 ],
 [
-"胡同",
-5,
-"hú tòng",
-"lane; alley; CL:條|条[tiao2]"
-],
-[
-"胡同",
-5,
-"hú tòng",
-"variant of 胡同[hu2 tong4]"
-],
-[
-"胡乱",
-6,
-"hú luàn",
-"careless; reckless; casually; absent-mindedly; at will; at random; any old how"
-],
-[
-"胡须",
-6,
-"hú xū",
-"beard; CL:根[gen1],綹|绺[liu3]"
+"胡思乱想",
+7,
+"hú sī luàn xiǎng",
+"to indulge in flights of fancy (idiom); to let one's imagination run wild"
 ]
 ],
 "extraWords": [
+[
+"胡",
+44.89,
+"Hú",
+"surname Hu"
+],
+[
+"胡",
+44.89,
+"hú",
+"non-Han people, esp. from central Asia; reckless; outrageous; what?; why?; to complete a winning hand at mahjong (also written 和[hú])"
+],
+[
+"胡",
+44.89,
+"hú",
+"see 胡同[hú tòng]"
+],
+[
+"胡",
+44.89,
+"hú",
+"beard; mustache; whiskers"
+],
 [
 "胡锦涛",
 29.53,
 "Hú Jǐn tāo",
 "Hu Jintao (1942-), General Secretary of the CCP 2002-2012, president of the PRC 2003-2013"
-],
-[
-"胡子",
-23.49,
-"hú zi",
-"beard; mustache or whiskers; facial hair; CL:撮[zuo3],根[gen1]; (coll.) bandit"
 ],
 [
 "胡扯",
@@ -67,12 +91,6 @@
 9.88,
 "hú luó bo",
 "carrot"
-],
-[
-"胡闹",
-6.56,
-"hú nào",
-"to act willfully and make a scene; to make trouble"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "缩",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "contract, draw in, reduce",
 "pron": "sù, suō"
@@ -8,60 +8,90 @@
 "words": [
 [
 "缩短",
-5,
+4,
 "suō duǎn",
 "to curtail; to cut down"
 ],
 [
+"缩小",
+4,
+"suō xiǎo",
+"to reduce; to decrease; to shrink"
+],
+[
+"节衣缩食",
+7,
+"jié yī suō shí",
+"to save on food and clothing (idiom); to live frugally"
+],
+[
+"紧缩",
+7,
+"jǐn suō",
+"(economics) to reduce; to curtail; to cut back; to tighten; austerity; tightening; crunch"
+],
+[
+"浓缩",
+7,
+"nóng suō",
+"to concentrate (a liquid); concentration; espresso coffee; abbr. for 意式濃縮咖啡|意式浓缩咖啡"
+],
+[
+"伸缩",
+7,
+"shēn suō",
+"to lengthen and shorten; flexible; adjustable; retractable; extensible; telescoping (collapsible)"
+],
+[
 "收缩",
-6,
+7,
 "shōu suō",
 "to pull back; to shrink; to contract; (physiology) systole"
 ],
 [
+"缩",
+7,
+"suō",
+"to withdraw; to pull back; to contract; to shrink; to reduce; abbreviation; also pr. [su4]"
+],
+[
+"缩水",
+7,
+"suō shuǐ",
+"to shrink (in the wash); fig. to shrink (of profits etc)"
+],
+[
+"缩影",
+7,
+"suō yǐng",
+"miniature version of sth; microcosm; epitome; (Tw) to microfilm"
+],
+[
+"退缩",
+7,
+"tuì suō",
+"to shrink back; to cower"
+],
+[
+"萎缩",
+7,
+"wěi suō",
+"to wither; to dry up (of a plant); to atrophy (of muscle, social custom etc)"
+],
+[
+"畏缩",
+7,
+"wèi suō",
+"to cower; to flinch; to quail; to recoil"
+],
+[
 "压缩",
-6,
+7,
 "yā suō",
 "to compress; compression"
 ]
 ],
 "extraWords": [
-[
-"缩小",
-20.3,
-"suō xiǎo",
-"to reduce; to decrease; to shrink"
-],
-[
-"萎缩",
-13.49,
-"wěi suō",
-"to wither; to dry up (of a plant); to atrophy (of muscle, social custom etc)"
-],
-[
-"浓缩",
-10.65,
-"nóng suō",
-"to concentrate (a liquid); concentration; espresso coffee; abbr. for 意式濃縮咖啡|意式浓缩咖啡"
-],
-[
-"退缩",
-6.92,
-"tuì suō",
-"to shrink back; to cower"
-],
-[
-"紧缩",
-6.25,
-"jǐn suō",
-"(economics) to reduce; to curtail; to cut back; to tighten; austerity; tightening; crunch"
-],
-[
-"缩水",
-5.47,
-"suō shuǐ",
-"to shrink (in the wash); fig. to shrink (of profits etc)"
-],
 [
 "缩写",
 5.1,

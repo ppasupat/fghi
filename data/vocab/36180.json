@@ -1,26 +1,37 @@
 {
 "char": "赔",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "indemnify, suffer loss",
 "pron": "péi"
 },
 "words": [
 [
+"赔",
+5,
+"péi",
+"to compensate for loss; to indemnify; to suffer a financial loss"
+],
+[
 "赔偿",
 5,
 "péi cháng",
 "to compensate"
-]
 ],
-"extraWords": [
+[
+"赔钱",
+7,
+"péi qián",
+"to lose money; to pay for damages"
+],
 [
 "索赔",
-7.85,
+7,
 "suǒ péi",
 "to ask for compensation; to claim damages; claim for damages"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 185 658 Q 166 674 143 681 Q 134 682 129 675 Q 126 669 133 660 Q 179 537 137 357 Q 128 318 131 304 Q 140 274 150 263 Q 160 251 169 264 Q 193 292 193 461 Q 193 602 199 633 C 201 646 201 646 185 658 Z",
 "M 401 372 Q 394 456 395 570 Q 395 610 418 646 Q 427 661 419 669 Q 394 690 351 707 Q 338 711 317 703 Q 286 687 248 673 Q 214 663 185 658 C 156 652 170 626 199 633 Q 328 666 330 665 Q 331 665 334 663 Q 346 638 350 570 Q 351 368 340 329 Q 333 308 345 288 Q 358 261 366 262 Q 379 263 394 293 Q 407 317 406 336 Q 405 346 403 355 L 401 372 Z",

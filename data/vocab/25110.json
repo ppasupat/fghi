@@ -1,32 +1,43 @@
 {
 "char": "或",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "or, either, else; perhaps, maybe",
 "pron": "huò"
 },
 "words": [
 [
+"或",
+2,
+"huò",
+"maybe; perhaps; might; possibly; or"
+],
+[
 "或者",
-3,
+2,
 "huò zhě",
 "or; possibly; maybe; perhaps"
 ],
 [
 "或许",
-5,
+4,
 "huò xǔ",
 "perhaps; maybe"
-]
 ],
-"extraWords": [
 [
 "或是",
-54.91,
+5,
 "huò shì",
 "or; either one or the other"
+],
+[
+"或多或少",
+7,
+"huò duō huò shǎo",
+"more or less"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 556 602 Q 676 635 678 635 Q 688 642 683 652 Q 676 664 646 672 Q 610 681 547 654 L 495 638 Q 333 602 234 594 Q 197 588 223 570 Q 268 546 323 558 Q 413 576 505 593 L 556 602 Z",
 "M 241 454 Q 229 460 196 464 Q 184 465 181 461 Q 175 454 184 439 Q 212 390 232 310 Q 236 286 251 271 Q 270 249 275 266 Q 276 273 277 285 L 273 317 Q 258 401 253 427 C 248 451 248 451 241 454 Z",

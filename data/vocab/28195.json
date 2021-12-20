@@ -1,19 +1,32 @@
 {
 "char": "渣",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "refuse, dregs, lees, sediment",
 "pron": "zhā"
 },
 "words": [
 [
-"渣",
-6,
-"zhā",
-"slag (in mining or smelting); dregs"
+"渣子",
+7,
+"zhā zi",
+"dregs; bits; dregs (of society)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"渣",
+21.22,
+"zhā",
+"slag (in mining or smelting); dregs"
+],
+[
+"渣滓",
+1.91,
+"zhā zǐ",
+"residue; dregs; disreputable people"
+]
+],
 "strokes": [
 "M 231 660 Q 256 638 285 610 Q 301 595 319 596 Q 331 597 336 613 Q 342 629 331 663 Q 319 694 225 715 Q 207 719 200 715 Q 194 711 196 696 Q 200 683 231 660 Z",
 "M 139 470 Q 182 416 217 402 Q 233 398 243 413 Q 250 426 247 444 Q 235 487 153 511 Q 135 517 125 513 Q 119 512 121 498 Q 122 485 139 470 Z",

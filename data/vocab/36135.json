@@ -1,28 +1,58 @@
 {
 "char": "货",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "goods, commodities, products",
 "pron": "huò"
 },
 "words": [
 [
+"百货",
+4,
+"bǎi huò",
+"general merchandise"
+],
+[
+"货",
+4,
+"huò",
+"goods; money; commodity; CL:个[gè]"
+],
+[
 "售货员",
 4,
 "shòu huò yuán",
-"salesperson; CL:個|个[ge4]"
+"salesperson; CL:个[gè]"
 ],
 [
 "货币",
-6,
+7,
 "huò bì",
 "currency; monetary; money"
 ],
 [
-"通货膨胀",
-6,
-"tōng huò péng zhàng",
-"inflation"
+"货车",
+7,
+"huò chē",
+"truck; van; freight wagon"
+],
+[
+"货物",
+7,
+"huò wù",
+"goods; commodity; merchandise; CL:宗[zōng]"
+],
+[
+"货运",
+7,
+"huò yùn",
+"freight transport; cargo; transported goods"
+],
+[
+"水货",
+7,
+"shuǐ huò",
+"smuggled goods; unauthorized goods"
 ]
 ],
 "extraWords": [
@@ -30,7 +60,7 @@
 "期货",
 57.29,
 "qī huò",
-"abbr. for 期貨合約|期货合约[qi1 huo4 he2 yue1], futures contract (finance)"
+"abbr. for 期货合约[qī huò hé yuē], futures contract (finance)"
 ],
 [
 "蠢货",
@@ -39,34 +69,16 @@
 "blockhead; idiot; dunce; moron; fool"
 ],
 [
-"货物",
-24.06,
-"huò wù",
-"goods; commodity; merchandise; CL:宗[zong1]"
-],
-[
 "现货",
 19.73,
 "xiàn huò",
 "merchandise or commodities available immediately after sale; merchandise in stock; available item; actuals (investment); actual commodities"
 ],
 [
-"货车",
-19.71,
-"huò chē",
-"truck; van; freight wagon"
-],
-[
-"百货",
-13.16,
-"bǎi huò",
-"general merchandise"
-],
-[
-"货运",
-9.03,
-"huò yùn",
-"freight transport; cargo; transported goods"
+"通货膨胀",
+8.47,
+"tōng huò péng zhàng",
+"inflation"
 ],
 [
 "贱货",
@@ -79,6 +91,12 @@
 7.63,
 "gōng huò",
 "to supply goods"
+],
+[
+"期货市场",
+6.92,
+"???",
+"???"
 ],
 [
 "货币市场",

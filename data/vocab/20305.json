@@ -1,17 +1,30 @@
 {
 "char": "佑",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "help, protect, bless",
 "pron": "yòu"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "保佑",
-35.12,
+7,
 "bǎo yòu",
 "to bless and protect; blessing"
+]
+],
+"extraWords": [
+[
+"佑",
+5.33,
+"yòu",
+"to assist; to protect"
+],
+[
+"天佑",
+0.88,
+"???",
+"???"
 ]
 ],
 "strokes": [

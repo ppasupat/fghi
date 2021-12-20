@@ -1,68 +1,110 @@
 {
 "char": "恶",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "evil, wicked, bad, foul",
 "pron": "ě, è, wù"
 },
 "words": [
 [
-"恶劣",
-5,
-"è liè",
-"vile; nasty; of very poor quality"
-],
-[
 "恶心",
-6,
+4,
 "ě xīn",
-"variant of 惡心|恶心[e3 xin1]"
+"variant of 恶心[ě xīn]"
 ],
 [
 "恶心",
-6,
+4,
 "ě xīn",
 "nausea; to feel sick; disgust; nauseating; to embarrass (deliberately)"
 ],
 [
 "恶心",
-6,
+4,
 "è xīn",
 "bad habit; vicious habit; vice"
 ],
 [
-"可恶",
+"罪恶",
 6,
-"kě wù",
-"repulsive; vile; hateful; abominable"
-],
-[
-"厌恶",
-6,
-"yàn wù",
-"to loathe; to hate; disgusted with sth"
-],
-[
-"恶化",
-6,
-"è huà",
-"to worsen"
+"zuì è",
+"crime; evil; sin"
 ],
 [
 "丑恶",
-6,
+7,
 "chǒu è",
 "ugly; repulsive"
 ],
 [
+"恶",
+7,
+"ě",
+"see 恶心[ě xīn]"
+],
+[
+"恶",
+7,
+"è",
+"evil; fierce; vicious; ugly; coarse; to harm"
+],
+[
+"恶",
+7,
+"wù",
+"to hate; to loathe; ashamed; to fear; to slander"
+],
+[
+"恶化",
+7,
+"è huà",
+"to worsen"
+],
+[
+"恶劣",
+7,
+"è liè",
+"vile; nasty; of very poor quality"
+],
+[
+"恶性",
+7,
+"è xìng",
+"malignant; wicked; vicious (circle); producing evil; rapid (decline); runaway (inflation)"
+],
+[
+"恶意",
+7,
+"è yì",
+"malice; evil intention"
+],
+[
+"可恶",
+7,
+"kě wù",
+"repulsive; vile; hateful; abominable"
+],
+[
+"无恶不作",
+7,
+"wú è bù zuò",
+"not to shrink from any crime (idiom); to commit any imaginable misdeed"
+],
+[
+"邪恶",
+7,
+"xié è",
+"sinister; vicious; wicked; evil"
+],
+[
 "凶恶",
-6,
+7,
 "xiōng è",
 "fierce; ferocious; fiendish; frightening"
 ],
 [
 "凶恶",
-6,
+7,
 "xiōng è",
 "variant of 兇惡|凶恶, fierce; ferocious; fiendish; frightening"
 ]
@@ -73,18 +115,6 @@
 54.67,
 "è mó",
 "demon; fiend"
-],
-[
-"邪恶",
-51.27,
-"xié è",
-"sinister; vicious; wicked; evil"
-],
-[
-"罪恶",
-17.47,
-"zuì è",
-"crime; evil; sin"
 ],
 [
 "恶梦",
@@ -99,16 +129,10 @@
 "practical joke; prank; to play a practical joke"
 ],
 [
-"恶性",
-12.08,
-"è xìng",
-"malignant; wicked; vicious (circle); producing evil; rapid (decline); runaway (inflation)"
-],
-[
-"恶意",
-11.74,
-"è yì",
-"malice; evil intention"
+"厌恶",
+12.19,
+"yàn wù",
+"to loathe; to hate; disgusted with sth"
 ],
 [
 "恶棍",

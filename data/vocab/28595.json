@@ -1,6 +1,6 @@
 {
 "char": "澳",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "inlet, bay; dock, bank",
 "pron": "ào"
@@ -20,16 +20,28 @@
 "Macao; Aomen; Macau"
 ],
 [
+"澳",
+20.88,
+"Ào",
+"abbr. for Macao 澳門|澳门; abbr. for Australia 澳大利亞|澳大利亚"
+],
+[
+"澳",
+20.88,
+"ào",
+"deep bay; cove; harbor"
+],
+[
 "澳洲",
 10.67,
 "Ào zhōu",
-"Australia; abbr. for 澳大利亞洲|澳大利亚洲[Ao4 da4 li4 ya4 Zhou1]"
+"Australia; abbr. for 澳大利亚洲[Ào dà lì yà Zhōu]"
 ],
 [
 "港澳",
 8.03,
 "Gǎng Ào",
-"Hong Kong 香港[Xiang1 gang3] and Macao 澳門|澳门[Ao4 men2]"
+"Hong Kong 香港[Xiāng gǎng] and Macao 澳门[Ào mén]"
 ],
 [
 "澳元",

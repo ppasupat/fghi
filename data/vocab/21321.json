@@ -1,17 +1,30 @@
 {
 "char": "卉",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "general term for plants; myriads",
 "pron": "huì"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "花卉",
-8.63,
+7,
 "huā huì",
 "flowers and plants"
+]
+],
+"extraWords": [
+[
+"卉",
+1.38,
+"huì",
+"plants"
+],
+[
+"李卉",
+0.16,
+"???",
+"???"
 ]
 ],
 "strokes": [

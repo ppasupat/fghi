@@ -1,16 +1,22 @@
 {
 "char": "智",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "wisdom, knowledge, intelligence",
 "pron": "zhì"
 },
 "words": [
 [
-"智慧",
-5,
-"zhì huì",
-"wisdom; knowledge; intelligent; intelligence"
+"智力",
+4,
+"zhì lì",
+"intelligence; intellect"
+],
+[
+"智能",
+4,
+"zhì néng",
+"intelligent; able; smart (phone, system, bomb etc)"
 ],
 [
 "理智",
@@ -19,37 +25,61 @@
 "reason; intellect; rationality; rational"
 ],
 [
-"明智",
+"智慧",
 6,
+"zhì huì",
+"wisdom; knowledge; intelligent; intelligence"
+],
+[
+"机智",
+7,
+"jī zhì",
+"quick-witted; resourceful"
+],
+[
+"见仁见智",
+7,
+"jiàn rén jiàn zhì",
+"opinions differ (idiom)"
+],
+[
+"明智",
+7,
 "míng zhì",
 "sensible; wise; judicious; sagacious"
 ],
 [
+"人工智能",
+7,
+"rén gōng zhì néng",
+"artificial intelligence (AI)"
+],
+[
 "智商",
-6,
+7,
 "zhì shāng",
 "IQ (intelligence quotient)"
 ],
 [
-"智力",
-6,
-"zhì lì",
-"intelligence; intellect"
-],
-[
-"智能",
-6,
-"zhì néng",
-"intelligent; able; smart (phone, system, bomb etc)"
-],
-[
-"机智",
-6,
-"jī zhì",
-"quick-witted; resourceful"
+"足智多谋",
+7,
+"zú zhì duō móu",
+"resourceful; full of stratagems"
 ]
 ],
 "extraWords": [
+[
+"智",
+19.26,
+"zhì",
+"wisdom; knowledge"
+],
+[
+"郑智",
+10.01,
+"???",
+"???"
+],
 [
 "弱智",
 7.12,

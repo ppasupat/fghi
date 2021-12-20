@@ -1,31 +1,37 @@
 {
 "char": "锅",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "cooking-pot, saucepan",
 "pron": "guō"
 },
 "words": [
 [
+"电饭锅",
+5,
+"diàn fàn guō",
+"electric rice cooker"
+],
+[
 "锅",
 5,
 "guō",
-"pot; pan; boiler; CL:口[kou3],隻|只[zhi1]"
+"pot; pan; boiler; CL:口[kǒu],只[zhī]"
 ],
-[
-"涮火锅",
-6,
-"shuàn huǒ guō",
-"see 涮鍋子|涮锅子[shuan4 guo1 zi5]"
-]
-],
-"extraWords": [
 [
 "火锅",
-26.58,
+7,
 "huǒ guō",
 "hotpot"
 ],
+[
+"一锅粥",
+7,
+"yī guō zhōu",
+"(lit.) a pot of porridge; (fig.) a complete mess"
+]
+],
+"extraWords": [
 [
 "锅炉",
 8.28,

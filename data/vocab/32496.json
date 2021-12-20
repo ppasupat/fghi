@@ -1,17 +1,36 @@
 {
 "char": "绰",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "graceful, delicate; spacious",
 "pron": "chāo, chuò"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "绰号",
-7.12,
+7,
 "chuò hào",
 "nickname"
+],
+[
+"阔绰",
+7,
+"kuò chuò",
+"ostentatious; extravagant; liberal with money"
+]
+],
+"extraWords": [
+[
+"绰",
+1.16,
+"chāo",
+"to grab; to snatch up; variant of 焯[chāo]"
+],
+[
+"绰",
+1.16,
+"chuò",
+"generous; ample; wide; spacious; well-off; to grip"
 ]
 ],
 "strokes": [

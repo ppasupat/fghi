@@ -1,6 +1,6 @@
 {
 "char": "画",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "a painting, picture, drawing; to draw",
 "pron": "huà"
@@ -8,54 +8,126 @@
 "words": [
 [
 "画",
-3,
+2,
 "huà",
-"to draw; picture; painting; CL:幅[fu2],張|张[zhang1]; classifier for paintings etc; variant of 劃|划[hua4]"
+"to draw; picture; painting; CL:幅[fú],张[zhāng]; classifier for paintings etc; variant of 划[huà]"
+],
+[
+"画家",
+2,
+"huà jiā",
+"painter; CL:个[gè]"
+],
+[
+"画儿",
+2,
+"huà r5",
+"picture; drawing; painting"
+],
+[
+"图画",
+3,
+"tú huà",
+"drawing; picture"
 ],
 [
 "动画片",
-5,
+4,
 "dòng huà piàn",
 "animated film"
 ],
 [
-"漫画",
-6,
-"màn huà",
-"caricature; cartoon; Japanese manga"
-],
-[
-"画蛇添足",
-6,
-"huà shé tiān zú",
-"lit. draw legs on a snake (idiom); fig. to ruin the effect by adding sth superfluous; to overdo it"
-]
-],
-"extraWords": [
-[
 "画面",
-40.98,
+5,
 "huà miàn",
 "scene; tableau; picture; image; screen (displayed by a computer); (motion picture) frame; field of view"
 ],
 [
+"漫画",
+5,
+"màn huà",
+"caricature; cartoon; Japanese manga"
+],
+[
 "动画",
-17.18,
+6,
 "dòng huà",
 "animation; cartoon"
 ],
 [
-"画家",
-10.35,
-"huà jiā",
-"painter; CL:個|个[ge4]"
-],
-[
 "绘画",
-10.04,
+6,
 "huì huà",
 "drawing; painting"
 ],
+[
+"壁画",
+7,
+"bì huà",
+"mural (painting); fresco"
+],
+[
+"勾画",
+7,
+"gōu huà",
+"to sketch out; to delineate"
+],
+[
+"国画",
+7,
+"guó huà",
+"traditional Chinese painting"
+],
+[
+"画册",
+7,
+"huà cè",
+"picture album"
+],
+[
+"画龙点睛",
+7,
+"huà lóng diǎn jīng",
+"to paint a dragon and dot in the eyes (idiom); fig. to add the vital finishing touch; the crucial point that brings the subject to life; a few words to clinch the point"
+],
+[
+"画蛇添足",
+7,
+"huà shé tiān zú",
+"lit. draw legs on a snake (idiom); fig. to ruin the effect by adding sth superfluous; to overdo it"
+],
+[
+"画展",
+7,
+"huà zhǎn",
+"art exhibition"
+],
+[
+"年画",
+7,
+"nián huà",
+"New Year (Spring Festival) picture"
+],
+[
+"油画",
+7,
+"yóu huà",
+"oil painting"
+],
+[
+"指手画脚",
+7,
+"zhǐ shǒu huà jiǎo",
+"to gesticulate while talking (idiom); to explain by waving one's hands; to criticize or give orders summarily"
+],
+[
+"中国画",
+7,
+"Zhōng guó huà",
+"Chinese painting"
+]
+],
+"extraWords": [
 [
 "画廊",
 8.53,
@@ -63,16 +135,16 @@
 "gallery"
 ],
 [
+"画画",
+7.9,
+"???",
+"???"
+],
+[
 "书画",
 7.62,
 "shū huà",
 "painting and calligraphy"
-],
-[
-"油画",
-7.38,
-"yóu huà",
-"oil painting"
 ],
 [
 "画像",

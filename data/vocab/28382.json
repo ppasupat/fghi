@@ -1,30 +1,30 @@
 {
 "char": "滞",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "block up, obstruct; stagnant",
 "pron": "zhì"
 },
 "words": [
 [
-"停滞",
-6,
-"tíng zhì",
-"stagnation; at a standstill; bogged down"
+"滞后",
+7,
+"zhì hòu",
+"to lag behind"
 ],
 [
 "滞留",
-6,
+7,
 "zhì liú",
 "to detain; retention"
 ]
 ],
 "extraWords": [
 [
-"滞后",
-10.43,
-"zhì hòu",
-"to lag behind"
+"滞",
+8.91,
+"zhì",
+"sluggish"
 ]
 ],
 "strokes": [

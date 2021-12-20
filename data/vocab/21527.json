@@ -1,6 +1,6 @@
 {
 "char": "吗",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "final interrogative particle",
 "pron": "má, mǎ, ma"
@@ -17,15 +17,15 @@
 1,
 "ma",
 "(question particle for \"yes-no\" questions)"
+],
+[
+"干吗",
+3,
+"gàn má",
+"see 干嘛[gàn má]"
 ]
 ],
 "extraWords": [
-[
-"干吗",
-116.97,
-"gàn má",
-"see 幹嘛|干嘛[gan4 ma2]"
-],
 [
 "吗啡",
 6.77,

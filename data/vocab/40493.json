@@ -1,6 +1,6 @@
 {
 "char": "鸭",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "duck; Anas species (various)",
 "pron": "yā"
@@ -8,17 +8,23 @@
 "words": [
 [
 "烤鸭",
-4,
+5,
 "kǎo yā",
 "roast duck"
+],
+[
+"鸭子",
+5,
+"yā zi",
+"duck; male prostitute (slang)"
 ]
 ],
 "extraWords": [
 [
-"鸭子",
-13.24,
-"yā zi",
-"duck; male prostitute (slang)"
+"鸭",
+22.54,
+"yā",
+"duck; CL:只[zhī]; (slang) male prostitute"
 ]
 ],
 "strokes": [

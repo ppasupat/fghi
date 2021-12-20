@@ -1,6 +1,6 @@
 {
 "char": "害",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "injure, harm; destroy, kill",
 "pron": "hài"
@@ -13,58 +13,130 @@
 "to be afraid; to be scared"
 ],
 [
-"厉害",
-4,
-"lì hai",
-"(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding; (of a person) stern; strict; harsh; shrewd; tough; (of an animal) fierce; (of a resemblance) striking; (of liquor or chili pepper) strong; (of bacteria) virulent"
-],
-[
-"害羞",
-4,
-"hài xiū",
-"shy; embarrassed; bashful"
+"危害",
+3,
+"wēi hài",
+"to jeopardize; to harm; to endanger; harmful effect; damage; CL:个[gè]"
 ],
 [
 "伤害",
-5,
+4,
 "shāng hài",
 "to injure; to harm"
 ],
 [
-"危害",
+"害",
 5,
-"wēi hài",
-"to jeopardize; to harm; to endanger; harmful effect; damage; CL:個|个[ge4]"
+"hài",
+"to do harm to; to cause trouble to; harm; evil; calamity"
+],
+[
+"厉害",
+5,
+"lì hai",
+"(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding; (of a person) stern; strict; harsh; shrewd; tough; (of an animal) fierce; (of a resemblance) striking; (of liquor or chili pepper) strong; (of bacteria) virulent"
+],
+[
+"损害",
+5,
+"sǔn hài",
+"harm; to damage; to impair"
+],
+[
+"有害",
+5,
+"yǒu hài",
+"destructive; harmful; damaging"
 ],
 [
 "灾害",
 5,
 "zāi hài",
-"calamity; disaster; CL:個|个[ge4]"
+"calamity; disaster; CL:个[gè]"
 ],
 [
-"陷害",
-6,
-"xiàn hài",
-"to entrap; to set up; to frame (up); to make false charges against"
+"妨害",
+7,
+"fáng hài",
+"to jeopardize; to be harmful to; to undermine"
 ],
 [
-"迫害",
-6,
-"pò hài",
-"to persecute; persecution"
+"害虫",
+7,
+"hài chóng",
+"injurious insect; pest"
+],
+[
+"害臊",
+7,
+"hài sào",
+"to be bashful; to feel ashamed"
+],
+[
+"害羞",
+7,
+"hài xiū",
+"shy; embarrassed; bashful"
+],
+[
+"祸害",
+7,
+"huò hài",
+"disaster; harm; scourge; bad person; to damage; to harm; to wreck"
 ],
 [
 "利害",
-6,
+7,
 "lì hài",
 "pros and cons; advantages and disadvantages; gains and losses"
 ],
 [
 "利害",
-6,
+7,
 "lì hai",
 "terrible; formidable; serious; devastating; tough; capable; sharp; severe; fierce"
+],
+[
+"谋害",
+7,
+"móu hài",
+"to conspire to murder; to plot against sb's life"
+],
+[
+"迫害",
+7,
+"pò hài",
+"to persecute; persecution"
+],
+[
+"侵害",
+7,
+"qīn hài",
+"to encroach on; to infringe on"
+],
+[
+"杀害",
+7,
+"shā hài",
+"to murder"
+],
+[
+"受害",
+7,
+"shòu hài",
+"to suffer damage, injury etc; damaged; injured; killed; robbed"
+],
+[
+"受害人",
+7,
+"shòu hài rén",
+"victim"
+],
+[
+"要害",
+7,
+"yào hài",
+"vital part; (fig.) key point; crucial"
 ]
 ],
 "extraWords": [
@@ -75,34 +147,10 @@
 "casualty; victim; those injured and wounded"
 ],
 [
-"杀害",
-43.07,
-"shā hài",
-"to murder"
-],
-[
-"损害",
-40.35,
-"sǔn hài",
-"harm; to damage; to impair"
-],
-[
-"受害人",
-38.9,
-"shòu hài rén",
-"victim"
-],
-[
-"有害",
-15.32,
-"yǒu hài",
-"destructive; harmful; damaging"
-],
-[
-"侵害",
-11.71,
-"qīn hài",
-"to encroach on; to infringe on"
+"陷害",
+18.21,
+"xiàn hài",
+"to entrap; to set up; to frame (up); to make false charges against"
 ],
 [
 "被害人",
@@ -117,16 +165,16 @@
 "to be murdered"
 ],
 [
+"被害",
+7.72,
+"???",
+"???"
+],
+[
 "自然灾害",
 6.18,
 "zì rán zāi hài",
 "natural disaster"
-],
-[
-"受害",
-5.46,
-"shòu hài",
-"to suffer damage, injury etc; damaged; injured; killed; robbed"
 ]
 ],
 "strokes": [

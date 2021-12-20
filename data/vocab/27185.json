@@ -1,6 +1,6 @@
 {
 "char": "樱",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "cherry, cherry blossom",
 "pron": "yīng"
@@ -8,10 +8,22 @@
 "words": [],
 "extraWords": [
 [
+"樱",
+9.5,
+"yīng",
+"cherry"
+],
+[
 "樱桃",
 7.36,
 "yīng táo",
 "cherry"
+],
+[
+"樱花",
+4.49,
+"yīng huā",
+"oriental cherry (Prunus serrulata or Prunus yedoensis), prized for its blossom; also known as sakura (Japanese) or Yoshino cherry"
 ]
 ],
 "strokes": [

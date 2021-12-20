@@ -1,6 +1,6 @@
 {
 "char": "抱",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "embrace, hold in arms, enfold",
 "pron": "bào"
@@ -11,12 +11,6 @@
 4,
 "bào",
 "to hold; to carry (in one's arms); to hug; to embrace; to surround; to cherish; (coll.) (of clothes) to fit nicely"
-],
-[
-"抱歉",
-4,
-"bào qiàn",
-"to be sorry; to feel apologetic; sorry!"
 ],
 [
 "抱怨",
@@ -31,10 +25,22 @@
 "to embrace; to hug"
 ],
 [
-"抱负",
+"抱歉",
 6,
+"bào qiàn",
+"to be sorry; to feel apologetic; sorry!"
+],
+[
+"抱负",
+7,
 "bào fù",
 "aspiration; ambition"
+],
+[
+"怀抱",
+7,
+"huái bào",
+"to hug; to cherish; within the bosom (of the family); to embrace (also fig. an ideal, aspiration etc)"
 ]
 ],
 "extraWords": [
@@ -43,12 +49,6 @@
 9.18,
 "bào bào",
 "to hug; to embrace"
-],
-[
-"怀抱",
-7.97,
-"huái bào",
-"to hug; to cherish; within the bosom (of the family); to embrace (also fig. an ideal, aspiration etc)"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "延",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "delay, postpone, defer",
 "pron": "yán"
@@ -8,45 +8,69 @@
 "words": [
 [
 "延长",
-5,
+4,
 "Yán cháng",
-"Yanchang county in Yan'an 延安[Yan2 an1], Shaanxi"
+"Yanchang county in Yan'an 延安[Yán ān], Shaanxi"
 ],
 [
 "延长",
-5,
+4,
 "yán cháng",
 "to prolong; to extend; to delay"
 ],
 [
-"拖延",
-6,
-"tuō yán",
-"to delay; to put off; to procrastinate"
-],
-[
-"延续",
-6,
-"yán xù",
-"to continue; to go on; to last"
-],
-[
-"蔓延",
-6,
-"màn yán",
-"to extend; to spread"
-],
-[
 "延期",
-6,
+4,
 "yán qī",
 "to delay; to extend; to postpone; to defer"
 ],
 [
+"延续",
+4,
+"yán xù",
+"to continue; to go on; to last"
+],
+[
 "延伸",
-6,
+5,
 "yán shēn",
 "to extend; to spread"
+],
+[
+"蔓延",
+7,
+"màn yán",
+"to extend; to spread"
+],
+[
+"拖延",
+7,
+"tuō yán",
+"to delay; to put off; to procrastinate"
+],
+[
+"延",
+7,
+"Yán",
+"surname Yan"
+],
+[
+"延",
+7,
+"yán",
+"to prolong; to extend; to delay"
+],
+[
+"延缓",
+7,
+"yán huǎn",
+"to defer; to postpone; to put off; to retard; to slow sth down"
+],
+[
+"延误",
+7,
+"yán wu",
+"to delay; to be held up; to miss (an opportunity); delay; holdup"
 ]
 ],
 "extraWords": [
@@ -61,18 +85,6 @@
 7.29,
 "yán chí",
 "to delay; to postpone; to keep putting sth off; to procrastinate; (computing) to lag"
-],
-[
-"延误",
-6.74,
-"yán wu",
-"to delay; to be held up; to miss (an opportunity); delay; holdup"
-],
-[
-"延缓",
-5.58,
-"yán huǎn",
-"to defer; to postpone; to put off; to retard; to slow sth down"
 ]
 ],
 "strokes": [

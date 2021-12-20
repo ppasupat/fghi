@@ -1,14 +1,20 @@
 {
 "char": "肿",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "swell; swollen; swelling",
 "pron": "zhǒng"
 },
 "words": [
 [
-"肿瘤",
+"肿",
 6,
+"zhǒng",
+"to swell; swelling; swollen"
+],
+[
+"肿瘤",
+7,
 "zhǒng liú",
 "tumor"
 ]

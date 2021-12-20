@@ -1,6 +1,6 @@
 {
 "char": "套",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "case, cover, wrapper, envelope",
 "pron": "tào"
@@ -8,36 +8,48 @@
 "words": [
 [
 "套",
-5,
+2,
 "tào",
 "to cover; to encase; cover; sheath; to overlap; to interleave; to model after; to copy; formula; harness; loop of rope; (fig.) to fish for; to obtain slyly; classifier for sets, collections; bend (of a river or mountain range, in place names); tau (Greek letter Ττ)"
 ],
 [
 "手套",
-5,
+4,
 "shǒu tào",
-"glove; mitten; CL:雙|双[shuang1],隻|只[zhi1]"
+"glove; mitten; CL:双[shuāng],只[zhī]"
 ],
 [
-"圈套",
-6,
-"quān tào",
-"trap; snare; trick"
+"套餐",
+4,
+"tào cān",
+"set meal; product or service package (e.g. for a cell phone subscription)"
+],
+[
+"外套",
+4,
+"wài tào",
+"coat; jacket; CL:件[jiàn]"
 ],
 [
 "配套",
-6,
+5,
 "pèi tào",
 "to form a complete set; compatible; matching; complementary"
+],
+[
+"跑龙套",
+7,
+"pǎo lóng tào",
+"to play a small role"
+],
+[
+"圈套",
+7,
+"quān tào",
+"trap; snare; trick"
 ]
 ],
 "extraWords": [
-[
-"外套",
-32.76,
-"wài tào",
-"coat; jacket; CL:件[jian4]"
-],
 [
 "套装",
 15.58,
@@ -54,7 +66,7 @@
 "避孕套",
 6.5,
 "bì yùn tào",
-"condom; CL:隻|只[zhi1]"
+"condom; CL:只[zhī]"
 ],
 [
 "整套",

@@ -1,6 +1,6 @@
 {
 "char": "储",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "save money, store, reserve; heir",
 "pron": "chǔ"
@@ -14,18 +14,30 @@
 ],
 [
 "储备",
-6,
+7,
 "chǔ bèi",
 "reserves; to store up"
 ],
 [
 "储蓄",
-6,
+7,
 "chǔ xù",
 "to deposit money; to save; savings"
 ]
 ],
 "extraWords": [
+[
+"储",
+27.63,
+"Chǔ",
+"surname Chu; Taiwan pr. [Chu2]"
+],
+[
+"储",
+27.63,
+"chǔ",
+"to store; to save; to have in reserve; heir; Taiwan pr. [chu2]"
+],
 [
 "存储",
 20.36,
@@ -42,7 +54,7 @@
 "储藏室",
 6.44,
 "chǔ cáng shì",
-"storeroom; CL:間|间[jian1]"
+"storeroom; CL:间[jiān]"
 ]
 ],
 "strokes": [

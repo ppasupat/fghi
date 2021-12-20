@@ -1,6 +1,6 @@
 {
 "char": "匹",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "bolt of cloth; counter for horses",
 "pron": "pǐ"
@@ -22,16 +22,16 @@
 "匹",
 5,
 "pǐ",
-"variant of 匹[pi3]; classifier for cloth: bolt"
+"variant of 匹[pǐ]; classifier for cloth: bolt"
+],
+[
+"匹配",
+7,
+"pǐ pèi",
+"to mate or marry; to match; matching; compatible"
 ]
 ],
 "extraWords": [
-[
-"匹配",
-12.61,
-"pǐ pèi",
-"to mate or marry; to match; matching; compatible"
-],
 [
 "奥林匹克",
 7.67,

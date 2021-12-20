@@ -1,132 +1,246 @@
 {
 "char": "度",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "degree, system; manner; to consider",
 "pron": "dù, duó"
 },
 "words": [
 [
-"速度",
-4,
-"sù dù",
-"speed; rate; velocity; (music) tempo; CL:個|个[ge4]"
+"度",
+2,
+"dù",
+"to pass; to spend (time); measure; limit; extent; degree of intensity; degree (angles, temperature etc); kilowatt-hour; classifier for events and occurrences"
 ],
 [
-"态度",
-4,
-"tài du",
-"manner; bearing; attitude; approach; CL:個|个[ge4]"
-],
-[
-"温度",
-4,
-"wēn dù",
-"temperature; CL:個|个[ge4]"
-],
-[
-"度过",
-5,
-"dù guò",
-"to pass; to spend (time); to survive; to get through"
+"度",
+2,
+"duó",
+"to estimate; Taiwan pr. [duo4]"
 ],
 [
 "角度",
-5,
+2,
 "jiǎo dù",
 "angle; point of view"
 ],
 [
+"态度",
+2,
+"tài du",
+"manner; bearing; attitude; approach; CL:个[gè]"
+],
+[
+"温度",
+2,
+"wēn dù",
+"temperature; CL:个[gè]"
+],
+[
 "程度",
-5,
+3,
 "chéng dù",
-"degree (level or extent); level; CL:個|个[ge4]"
+"degree (level or extent); level; CL:个[gè]"
+],
+[
+"难度",
+3,
+"nán dù",
+"degree of difficulty"
+],
+[
+"速度",
+3,
+"sù dù",
+"speed; rate; velocity; (music) tempo; CL:个[gè]"
 ],
 [
 "制度",
-5,
+3,
 "zhì dù",
-"system (e.g. political, adminstrative etc); institution; CL:個|个[ge4]"
+"system (e.g. political, adminstrative etc); institution; CL:个[gè]"
 ],
 [
-"过度",
-6,
-"guò dù",
-"excessive; over-; excess; going too far; extravagant; intemperate; overdue"
-],
-[
-"年度",
-6,
-"nián dù",
-"year (e.g. school year, fiscal year); annual"
+"度过",
+4,
+"dù guò",
+"to pass; to spend (time); to survive; to get through"
 ],
 [
 "季度",
-6,
+4,
 "jì dù",
 "quarter of a year; season (sports)"
 ],
 [
+"长度",
+5,
+"cháng dù",
+"length"
+],
+[
 "风度",
-6,
+5,
 "fēng dù",
 "elegance (for men); elegant demeanor; grace; poise"
 ],
 [
-"密度",
-6,
-"mì dù",
-"density; thickness"
-],
-[
-"一度",
-6,
-"yī dù",
-"for a time; at one time; one time; once"
-],
-[
 "幅度",
-6,
+5,
 "fú dù",
 "width; extent; range; scope"
 ],
 [
+"高度",
+5,
+"gāo dù",
+"height; altitude; elevation; high degree; highly; CL:个[gè]"
+],
+[
+"过度",
+5,
+"guò dù",
+"excessive; over-; excess; going too far; extravagant; intemperate; overdue"
+],
+[
+"宽度",
+5,
+"kuān dù",
+"width"
+],
+[
+"年度",
+5,
+"nián dù",
+"year (e.g. school year, fiscal year); annual"
+],
+[
+"强度",
+5,
+"qiáng dù",
+"strength; intensity; CL:个[gè]"
+],
+[
+"深度",
+5,
+"shēn dù",
+"depth; (of a speech etc) profundity; advanced stage of development"
+],
+[
+"尺度",
+7,
+"chǐ dù",
+"scale; yardstick"
+],
+[
+"大幅度",
+7,
+"dà fú dù",
+"by a wide margin; substantial"
+],
+[
+"调度",
+7,
+"diào dù",
+"to dispatch (vehicles, staff etc); to schedule; to manage; dispatcher; scheduler"
+],
+[
+"度假",
+7,
+"dù jià",
+"to go on holidays; to spend one's vacation"
+],
+[
+"厚度",
+7,
+"hòu dù",
+"thickness"
+],
+[
+"极度",
+7,
+"jí dù",
+"extremely"
+],
+[
+"进度",
+7,
+"jìn dù",
+"pace; tempo; degree of progress (on project); work schedule"
+],
+[
+"经度",
+7,
+"jīng dù",
+"longitude"
+],
+[
+"力度",
+7,
+"lì dù",
+"strength; vigor; efforts; (music) dynamics"
+],
+[
+"密度",
+7,
+"mì dù",
+"density; thickness"
+],
+[
 "摄氏度",
-6,
+7,
 "Shè shì dù",
 "°C (degrees Celsius)"
+],
+[
+"湿度",
+7,
+"shī dù",
+"humidity level"
+],
+[
+"适度",
+7,
+"shì dù",
+"moderately; appropriate"
+],
+[
+"纬度",
+7,
+"wěi dù",
+"latitude"
+],
+[
+"温度计",
+7,
+"wēn dù jì",
+"thermometer; thermograph"
+],
+[
+"限度",
+7,
+"xiàn dù",
+"limitation; limit"
+],
+[
+"一度",
+7,
+"yī dù",
+"for a time; at one time; one time; once"
+],
+[
+"再度",
+7,
+"zài dù",
+"once more; once again; one more time"
 ]
 ],
 "extraWords": [
-[
-"高度",
-99.69,
-"gāo dù",
-"height; altitude; elevation; high degree; highly; CL:個|个[ge4]"
-],
 [
 "印度",
 69.63,
 "Yìn dù",
 "India"
-],
-[
-"力度",
-68.43,
-"lì dù",
-"strength; vigor; efforts; (music) dynamics"
-],
-[
-"难度",
-36.49,
-"nán dù",
-"degree of difficulty"
-],
-[
-"再度",
-34.55,
-"zài dù",
-"once more; once again; one more time"
 ],
 [
 "浓度",
@@ -135,70 +249,28 @@
 "concentration (percentage of dissolved material in a solution); consistency; thickness; density; viscosity"
 ],
 [
-"强度",
-29.98,
-"qiáng dù",
-"strength; intensity; CL:個|个[ge4]"
-],
-[
-"深度",
-23.75,
-"shēn dù",
-"depth; (of a speech etc) profundity; advanced stage of development"
-],
-[
-"度假",
-21.22,
-"dù jià",
-"to go on holidays; to spend one's vacation"
-],
-[
-"大幅度",
-19.24,
-"dà fú dù",
-"by a wide margin; substantial"
-],
-[
-"长度",
-16.64,
-"cháng dù",
-"length"
-],
-[
-"进度",
-14.89,
-"jìn dù",
-"pace; tempo; degree of progress (on project); work schedule"
-],
-[
-"极度",
-13.53,
-"jí dù",
-"extremely"
-],
-[
 "额度",
 13.3,
 "é dù",
 "quota; (credit) limit"
 ],
 [
-"厚度",
-12.77,
-"hòu dù",
-"thickness"
+"最大限度",
+12.03,
+"???",
+"???"
+],
+[
+"共度",
+11.86,
+"???",
+"???"
 ],
 [
 "知名度",
 11.8,
 "zhī míng dù",
 "reputation; profile; familiarity in the public consciousness"
-],
-[
-"适度",
-11.67,
-"shì dù",
-"moderately; appropriate"
 ],
 [
 "第一季度",
@@ -225,40 +297,16 @@
 "precision"
 ],
 [
-"调度",
-8.62,
-"diào dù",
-"to dispatch (vehicles, staff etc); to schedule; to manage; dispatcher; scheduler"
-],
-[
 "亮度",
 8.57,
 "liàng dù",
 "brightness"
 ],
 [
-"尺度",
-8.48,
-"chǐ dù",
-"scale; yardstick"
-],
-[
 "第三季度",
 7.83,
 "dì sān jì dù",
 "third quarter (of financial year)"
-],
-[
-"宽度",
-6.89,
-"kuān dù",
-"width"
-],
-[
-"湿度",
-6.73,
-"shī dù",
-"humidity level"
 ],
 [
 "透明度",
@@ -279,16 +327,16 @@
 "this year; the current year"
 ],
 [
-"限度",
-6.03,
-"xiàn dù",
-"limitation; limit"
-],
-[
 "第二季度",
 5.86,
 "dì èr jì dù",
 "second quarter (of financial year)"
+],
+[
+"一年一度",
+5.82,
+"???",
+"???"
 ],
 [
 "国度",

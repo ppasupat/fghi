@@ -1,30 +1,54 @@
 {
 "char": "衰",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "decline, falter, decrease; weaken",
 "pron": "shuāi"
 },
 "words": [
 [
+"衰减",
+7,
+"shuāi jiǎn",
+"to weaken; to attenuate"
+],
+[
+"衰竭",
+7,
+"shuāi jié",
+"organ failure; exhaustion; prostration (medicine)"
+],
+[
 "衰老",
-6,
+7,
 "shuāi lǎo",
 "to age; to deteriorate with age; old and weak"
 ],
 [
+"衰弱",
+7,
+"shuāi ruò",
+"weak; feeble"
+],
+[
 "衰退",
-6,
+7,
 "shuāi tuì",
 "to decline; to fall; to drop; to falter; a decline; recession (in economics)"
 ]
 ],
 "extraWords": [
 [
-"衰竭",
-7.51,
-"shuāi jié",
-"organ failure; exhaustion; prostration (medicine)"
+"衰",
+16.97,
+"cuī",
+"mourning garments"
+],
+[
+"衰",
+16.97,
+"shuāi",
+"to decline; to wane; to become weak or feeble"
 ]
 ],
 "strokes": [

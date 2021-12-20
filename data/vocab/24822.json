@@ -1,12 +1,31 @@
 {
 "char": "惶",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "fearful, afraid, anxious, nervous",
 "pron": "huáng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"惶",
+2.96,
+"huáng",
+"frightened"
+],
+[
+"惶恐",
+2.63,
+"huáng kǒng",
+"terrified"
+],
+[
+"惊惶",
+0.85,
+"jīng huáng",
+"panic-stricken"
+]
+],
 "strokes": [
 "M 136 532 Q 118 465 89 402 Q 74 363 95 335 Q 105 319 124 334 Q 172 382 169 478 Q 170 511 159 535 Q 153 542 147 543 Q 140 540 136 532 Z",
 "M 301 583 Q 305 579 315 574 Q 343 556 373 534 Q 385 525 398 527 Q 407 528 409 540 Q 412 553 401 576 Q 394 592 365 602 Q 307 617 301 612 C 274 605 278 602 301 583 Z",

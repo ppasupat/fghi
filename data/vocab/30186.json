@@ -1,6 +1,6 @@
 {
 "char": "痪",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "paralysis, numbness of limbs",
 "pron": "huàn"
@@ -8,12 +8,25 @@
 "words": [
 [
 "瘫痪",
-6,
+7,
 "tān huàn",
 "paralysis; be paralyzed (body, transportation, etc)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"痪",
+1.73,
+"huàn",
+"illness; numbness of the limbs"
+],
+[
+"半瘫痪",
+0.11,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 480 797 Q 511 776 544 750 Q 559 738 574 741 Q 584 742 589 756 Q 592 772 580 800 Q 565 833 470 845 Q 454 846 448 843 Q 444 839 446 826 Q 450 816 480 797 Z",
 "M 547 672 Q 625 687 707 699 Q 768 711 778 719 Q 787 726 783 736 Q 776 749 746 757 Q 718 764 628 736 Q 475 702 355 693 Q 351 693 349 691 C 320 685 331 671 359 662 Q 395 647 457 658 Q 484 664 515 666 L 547 672 Z",

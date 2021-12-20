@@ -1,96 +1,126 @@
 {
 "char": "局",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "bureau, office; circumstance",
 "pron": "jú"
 },
 "words": [
 [
+"局",
+4,
+"jú",
+"narrow"
+],
+[
+"局",
+4,
+"jú",
+"office; situation; classifier for games: match, set, round etc"
+],
+[
 "邮局",
 4,
 "yóu jú",
-"post office; CL:家[jia1],個|个[ge4]"
-],
-[
-"结局",
-6,
-"jié jú",
-"conclusion; ending"
+"post office; CL:家[jiā],个[gè]"
 ],
 [
 "局面",
-6,
+5,
 "jú miàn",
 "aspect; phase; situation"
 ],
 [
-"局势",
-6,
-"jú shì",
-"situation; state (of affairs)"
-],
-[
-"全局",
-6,
-"quán jú",
-"overall situation"
-],
-[
-"局部",
-6,
-"jú bù",
-"part; local"
-],
-[
-"局限",
-6,
-"jú xiàn",
-"variant of 局限[ju2 xian4]"
-],
-[
-"局限",
-6,
-"jú xiàn",
-"to limit; to confine; to restrict sth within set boundaries"
+"局长",
+5,
+"jú zhǎng",
+"bureau chief; CL:位[wèi],个[gè]"
 ],
 [
 "布局",
-6,
+7,
 "bù jú",
 "arrangement; composition; layout; opening (chess jargon)"
 ],
 [
+"出局",
+7,
+"chū jú",
+"to send off (player for a foul); to knock out (i.e. to beat in a knock-out tournament); to eliminate; to call out; to kill off; to pull out of (a competition); to retire (a runner in baseball); out (i.e. man out in baseball)"
+],
+[
+"大局",
+7,
+"dà jú",
+"overall situation; the big picture"
+],
+[
 "格局",
-6,
+7,
 "gé jú",
 "structure; pattern; layout"
 ],
 [
 "公安局",
-6,
+7,
 "gōng ān jú",
 "public security bureau (government office similar in function to a police station)"
+],
+[
+"顾全大局",
+7,
+"gù quán dà jú",
+"to take the big picture into consideration (idiom); to work for the benefits of all"
+],
+[
+"僵局",
+7,
+"jiāng jú",
+"impasse; deadlock"
+],
+[
+"结局",
+7,
+"jié jú",
+"conclusion; ending"
+],
+[
+"局部",
+7,
+"jú bù",
+"part; local"
+],
+[
+"局势",
+7,
+"jú shì",
+"situation; state (of affairs)"
+],
+[
+"局限",
+7,
+"jú xiàn",
+"variant of 局限[jú xiàn]"
+],
+[
+"局限",
+7,
+"jú xiàn",
+"to limit; to confine; to restrict sth within set boundaries"
+],
+[
+"全局",
+7,
+"quán jú",
+"overall situation"
 ]
 ],
 "extraWords": [
-[
-"局长",
-37.9,
-"jú zhǎng",
-"bureau chief; CL:位[wei4],個|个[ge4]"
-],
 [
 "总局",
 35.41,
 "zǒng jú",
 "head office; general office; central office"
-],
-[
-"出局",
-30.26,
-"chū jú",
-"to send off (player for a foul); to knock out (i.e. to beat in a knock-out tournament); to eliminate; to call out; to kill off; to pull out of (a competition); to retire (a runner in baseball); out (i.e. man out in baseball)"
 ],
 [
 "当局",
@@ -99,16 +129,34 @@
 "authorities"
 ],
 [
+"调查局",
+24.92,
+"???",
+"???"
+],
+[
 "警察局",
 23.55,
 "jǐng chá jú",
 "police station; police department; police headquarters"
 ],
 [
-"大局",
-12.98,
-"dà jú",
-"overall situation; the big picture"
+"管理局",
+19.95,
+"???",
+"???"
+],
+[
+"局里",
+17.62,
+"???",
+"???"
+],
+[
+"副局长",
+17.3,
+"???",
+"???"
 ],
 [
 "分局",
@@ -117,10 +165,22 @@
 "sub-bureau"
 ],
 [
+"教育局",
+9.92,
+"???",
+"???"
+],
+[
 "骗局",
 9.57,
 "piàn jú",
-"a swindle; a trap; a racket; a scam; CL:場|场[chang3]"
+"a swindle; a trap; a racket; a scam; CL:场[chǎng]"
+],
+[
+"中共中央政治局",
+9.2,
+"???",
+"???"
 ],
 [
 "开局",
@@ -135,16 +195,40 @@
 "health office; bureau of hygiene"
 ],
 [
+"旅游局",
+8.55,
+"???",
+"???"
+],
+[
+"情报局",
+8.14,
+"???",
+"???"
+],
+[
+"工商局",
+6.83,
+"???",
+"???"
+],
+[
+"新局面",
+5.58,
+"???",
+"???"
+],
+[
+"林业局",
+5.55,
+"???",
+"???"
+],
+[
 "平局",
 5.41,
 "píng jú",
 "a draw (in competition); a tie"
-],
-[
-"僵局",
-5.05,
-"jiāng jú",
-"impasse; deadlock"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "辟",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "law, rule; open up, develop",
 "pron": "bì, pì"
@@ -8,12 +8,36 @@
 "words": [
 [
 "开辟",
-6,
+7,
 "kāi pì",
 "to open up; to set up; to establish"
+],
+[
+"开天辟地",
+7,
+"kāi tiān pì dì",
+"to split heaven and earth apart (idiom); refers to the Pangu 盘古[Pán gǔ] creation myth"
 ]
 ],
 "extraWords": [
+[
+"辟",
+6.25,
+"bì",
+"king; monarch; to enlist; to repel; to avoid"
+],
+[
+"辟",
+6.25,
+"pì",
+"law; variant of 辟[pì]"
+],
+[
+"辟",
+6.25,
+"pì",
+"to open (a door); to open up (for development); to dispel; to refute; to repudiate"
+],
 [
 "复辟",
 5.06,

@@ -1,6 +1,6 @@
 {
 "char": "页",
-"level": 4,
+"level": "1",
 "info": {
 "gloss": "page, sheet, leaf; rad. no. 181",
 "pron": "yè"
@@ -8,15 +8,27 @@
 "words": [
 [
 "页",
-4,
+1,
 "xié",
 "head"
 ],
 [
 "页",
-4,
+1,
 "yè",
 "page; leaf"
+],
+[
+"网页",
+6,
+"wǎng yè",
+"web page"
+],
+[
+"主页",
+7,
+"zhǔ yè",
+"home page"
 ]
 ],
 "extraWords": [

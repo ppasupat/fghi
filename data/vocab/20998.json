@@ -1,100 +1,214 @@
 {
 "char": "分",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "divide; small unit of time etc.",
 "pron": "fēn, fèn"
 },
 "words": [
 [
-"分钟",
-1,
-"fēn zhōng",
-"minute"
-],
-[
 "分",
-3,
+1,
 "fēn",
 "to divide; to separate; to distribute; to allocate; to distinguish (good and bad); part or subdivision; fraction; one tenth (of certain units); unit of length equivalent to 0.33 cm; minute (unit of time); minute (angular measurement unit); a point (in sports or games); 0.01 yuan (unit of money)"
 ],
 [
 "分",
-3,
+1,
 "fèn",
 "part; share; ingredient; component"
 ],
 [
 "部分",
-4,
+2,
 "bù fen",
-"part; share; section; piece; CL:個|个[ge4]"
+"part; share; section; piece; CL:个[gè]"
+],
+[
+"大部分",
+2,
+"dà bù fen",
+"in large part; the greater part; the majority"
+],
+[
+"分开",
+2,
+"fēn kāi",
+"to separate; to part"
+],
+[
+"分数",
+2,
+"fēn shù",
+"(exam) grade; mark; score; fraction"
+],
+[
+"分钟",
+2,
+"fēn zhōng",
+"minute"
 ],
 [
 "十分",
-4,
+2,
 "shí fēn",
 "very; completely; utterly; extremely; absolutely; hundred percent; to divide into ten equal parts"
 ],
 [
-"百分之",
-4,
-"bǎi fēn zhī",
-"percent"
+"一部分",
+2,
+"yī bù fen",
+"portion; part of; subset"
 ],
 [
-"分手",
-5,
-"fēn shǒu",
-"to part company; to split up; to break up"
-],
-[
-"分析",
-5,
-"fēn xī",
-"to analyze; analysis; CL:個|个[ge4]"
-],
-[
-"过分",
-5,
-"guò fèn",
-"excessive; undue; overly"
-],
-[
-"充分",
-5,
-"chōng fèn",
-"ample; sufficient; adequate; full; fully; to the full"
+"得分",
+3,
+"dé fēn",
+"to score"
 ],
 [
 "分别",
-5,
+3,
 "fēn bié",
 "to part or leave each other; to distinguish; difference; in different ways; differently; separately or individually"
 ],
 [
-"成分",
-5,
-"chéng fèn",
-"composition; make-up; ingredient; element; component; one's social status; CL:個|个[ge4]"
-],
-[
 "分配",
-5,
+3,
 "fēn pèi",
 "to distribute; to assign; to allocate; to partition (a hard drive)"
 ],
 [
+"分组",
+3,
+"fēn zǔ",
+"to divide into groups; group (formed from a larger group); subgroup; (computer networking) packet"
+],
+[
+"比分",
+4,
+"bǐ fēn",
+"score"
+],
+[
+"充分",
+4,
+"chōng fèn",
+"ample; sufficient; adequate; full; fully; to the full"
+],
+[
 "分布",
-5,
+4,
 "fēn bù",
 "to scatter; to distribute; to be distributed (over an area etc); (statistical, geographic) distribution"
 ],
 [
 "分散",
-6,
+4,
 "fēn sàn",
 "to scatter; to disperse; to distribute"
+],
+[
+"分手",
+4,
+"fēn shǒu",
+"to part company; to split up; to break up"
+],
+[
+"分为",
+4,
+"fēn wéi",
+"to divide sth into (parts); to subdivide"
+],
+[
+"分之",
+4,
+"fēn zhī",
+"(indicating a fraction)"
+],
+[
+"过分",
+4,
+"guò fèn",
+"excessive; undue; overly"
+],
+[
+"学分",
+4,
+"xué fēn",
+"course credit"
+],
+[
+"处分",
+5,
+"chǔ fèn",
+"to discipline sb; to punish; disciplinary action; to deal with (a matter); CL:个[gè]"
+],
+[
+"分成",
+5,
+"fēn chéng",
+"to divide (into); to split a bonus; to break into; tenths; percentage allotment"
+],
+[
+"分解",
+5,
+"fēn jiě",
+"to resolve; to decompose; to break down"
+],
+[
+"分类",
+5,
+"fēn lèi",
+"classification"
+],
+[
+"分离",
+5,
+"fēn lí",
+"to separate"
+],
+[
+"分析",
+5,
+"fēn xī",
+"to analyze; analysis; CL:个[gè]"
+],
+[
+"分享",
+5,
+"fēn xiǎng",
+"to share (let others have some of sth good)"
+],
+[
+"划分",
+5,
+"huà fēn",
+"to divide up; to partition; to differentiate"
+],
+[
+"水分",
+5,
+"shuǐ fèn",
+"moisture content; (fig.) overstatement; padding"
+],
+[
+"百分点",
+6,
+"bǎi fēn diǎn",
+"percentage point"
+],
+[
+"成分",
+6,
+"chéng fèn",
+"composition; make-up; ingredient; element; component; one's social status; CL:个[gè]"
+],
+[
+"分工",
+6,
+"fēn gōng",
+"to divide up the work; division of labor"
 ],
 [
 "分裂",
@@ -103,103 +217,157 @@
 "to split up; to divide; to break up; fission; schism"
 ],
 [
-"万分",
-6,
-"wàn fēn",
-"very much; extremely; one ten thousandth part"
-],
-[
-"分辨",
-6,
-"fēn biàn",
-"to distinguish; to differentiate; to resolve"
-],
-[
-"分歧",
-6,
-"fēn qí",
-"divergent; difference (of opinion, position); disagreement; bifurcation (math.)"
-],
-[
 "区分",
 6,
 "qū fēn",
 "to differentiate; to draw a distinction; to divide into categories"
 ],
 [
-"分解",
-6,
-"fēn jiě",
-"to resolve; to decompose; to break down"
+"百分比",
+7,
+"bǎi fēn bǐ",
+"percentage"
+],
+[
+"本分",
+7,
+"běn fèn",
+"(to play) one's part; one's role; one's duty; (to stay within) one's bounds; dutiful; keeping to one's role"
+],
+[
+"分辨",
+7,
+"fēn biàn",
+"to distinguish; to differentiate; to resolve"
+],
+[
+"分寸",
+7,
+"fēn cun",
+"propriety; appropriate behavior; proper speech or action; within the norms"
+],
+[
+"分担",
+7,
+"fēn dān",
+"to share (a burden, a cost, a responsibility)"
+],
+[
+"分割",
+7,
+"fēn gē",
+"to cut up; to break up"
+],
+[
+"分红",
+7,
+"fēn hóng",
+"dividend; to award a bonus"
+],
+[
+"分化",
+7,
+"fēn huà",
+"to split apart; differentiation"
 ],
 [
 "分泌",
-6,
+7,
 "fēn mì",
 "to secrete; secretion"
 ],
 [
 "分明",
-6,
+7,
 "fēn míng",
 "clear; distinct; evidently; clearly"
 ],
 [
+"分歧",
+7,
+"fēn qí",
+"divergent; difference (of opinion, position); disagreement; bifurcation (math.)"
+],
+[
+"分赃",
+7,
+"fēn zāng",
+"to share the booty; to divide ill-gotten gains"
+],
+[
+"分支",
+7,
+"fēn zhī",
+"branch (of company, river etc); to branch; to diverge; to ramify; to subdivide"
+],
+[
 "分量",
-6,
+7,
 "fēn liàng",
 "(vector) component"
 ],
 [
 "分量",
-6,
+7,
 "fèn liang",
 "quantity; weight; measure"
 ],
 [
-"划分",
-6,
-"huà fēn",
-"to divide up; to partition; to differentiate"
+"分外",
+7,
+"fèn wài",
+"exceptionally; not one's responsibility or job"
 ],
 [
-"分红",
-6,
-"fēn hóng",
-"dividend; to award a bonus"
+"瓜分",
+7,
+"guā fēn",
+"to partition; to divide up"
 ],
 [
-"处分",
-6,
-"chǔ fèn",
-"to discipline sb; to punish; disciplinary action; to deal with (a matter); CL:個|个[ge4]"
+"密不可分",
+7,
+"mì bù kě fēn",
+"inextricably linked (idiom); inseparable"
 ],
 [
-"分寸",
-6,
-"fēn cun",
-"propriety; appropriate behavior; proper speech or action; within the norms"
+"恰如其分",
+7,
+"qià rú qí fèn",
+"(idiom) appropriate; apt; just right"
+],
+[
+"天分",
+7,
+"tiān fèn",
+"natural gift; talent"
+],
+[
+"万分",
+7,
+"wàn fēn",
+"very much; extremely; one ten thousandth part"
+],
+[
+"缘分",
+7,
+"yuán fèn",
+"fate or chance that brings people together; predestined affinity or relationship; (Budd.) destiny"
+],
+[
+"争分夺秒",
+7,
+"zhēng fēn duó miǎo",
+"lit. fight minutes, snatch seconds (idiom); a race against time; making every second count"
+],
+[
+"知识分子",
+7,
+"zhī shi fèn zǐ",
+"intellectual; intelligentsia; learned person"
 ]
 ],
 "extraWords": [
-[
-"分享",
-152.88,
-"fēn xiǎng",
-"to share (let others have some of sth good)"
-],
-[
-"大部分",
-73.82,
-"dà bù fen",
-"in large part; the greater part; the majority"
-],
-[
-"一部分",
-67.75,
-"yī bù fen",
-"portion; part of; subset"
-],
 [
 "分子",
 58.55,
@@ -213,52 +381,16 @@
 "members of a class or group; political elements (such as intellectuals or extremists); part"
 ],
 [
-"比分",
-58.01,
-"bǐ fēn",
-"score"
-],
-[
-"分为",
-44.2,
-"fēn wéi",
-"to divide sth into (parts); to subdivide"
-],
-[
-"分开",
-38.25,
-"fēn kāi",
-"to separate; to part"
-],
-[
-"分离",
-37.75,
-"fēn lí",
-"to separate"
-],
-[
-"百分点",
-30.42,
-"bǎi fēn diǎn",
-"percentage point"
-],
-[
-"得分",
-29.46,
-"dé fēn",
-"to score"
-],
-[
 "积分",
 29.14,
 "jī fēn",
 "integral (calculus); accumulated points (in sports, at school etc); total credits earned by student; bonus points in a benefit scheme"
 ],
 [
-"分类",
-29.03,
-"fēn lèi",
-"classification"
+"一分",
+28.38,
+"???",
+"???"
 ],
 [
 "分析师",
@@ -273,58 +405,16 @@
 "one cent (United States coin)"
 ],
 [
-"水分",
-16.77,
-"shuǐ fèn",
-"moisture content; (fig.) overstatement; padding"
-],
-[
-"分成",
-16.13,
-"fēn chéng",
-"to divide (into); to split a bonus; to break into; tenths; percentage allotment"
-],
-[
-"分化",
-15.85,
-"fēn huà",
-"to split apart; differentiation"
-],
-[
 "分辨率",
 15.22,
 "fēn biàn lǜ",
 "resolution (of images, monitors, scanners etc)"
 ],
 [
-"分工",
-14.92,
-"fēn gōng",
-"to divide up the work; division of labor"
-],
-[
 "几分",
 14.85,
 "jǐ fēn",
 "somewhat; a bit"
-],
-[
-"知识分子",
-14.84,
-"zhī shi fèn zǐ",
-"intellectual; intelligentsia; learned person"
-],
-[
-"分数",
-14.71,
-"fēn shù",
-"(exam) grade; mark; score; fraction"
-],
-[
-"分支",
-12.4,
-"fēn zhī",
-"branch (of company, river etc); to branch; to diverge; to ramify; to subdivide"
 ],
 [
 "分局",
@@ -351,18 +441,6 @@
 "subsidiary company; branch office"
 ],
 [
-"缘分",
-11.13,
-"yuán fèn",
-"fate or chance that brings people together; predestined affinity or relationship; (Budd.) destiny"
-],
-[
-"分组",
-10.73,
-"fēn zǔ",
-"to divide into groups; group (formed from a larger group); subgroup; (computer networking) packet"
-],
-[
 "不分",
 10.43,
 "bù fēn",
@@ -373,12 +451,6 @@
 9.85,
 "fēn liú",
 "bypass"
-],
-[
-"分割",
-9.22,
-"fēn gē",
-"to cut up; to break up"
 ],
 [
 "评分",
@@ -397,6 +469,12 @@
 8.14,
 "shí fēn",
 "time; period during the day; one of the 12 two-hour periods enumerated by the earthly branches 地支"
+],
+[
+"四分",
+7.99,
+"???",
+"???"
 ],
 [
 "分行",
@@ -423,18 +501,6 @@
 "by stages; staggered; step by step; in installments"
 ],
 [
-"分担",
-7.23,
-"fēn dān",
-"to share (a burden, a cost, a responsibility)"
-],
-[
-"天分",
-6.95,
-"tiān fèn",
-"natural gift; talent"
-],
-[
 "分管",
 6.75,
 "fēn guǎn",
@@ -457,6 +523,12 @@
 6.55,
 "sì fēn zhī yī",
 "one-quarter"
+],
+[
+"三分之二",
+6.49,
+"???",
+"???"
 ],
 [
 "总分",

@@ -1,30 +1,30 @@
 {
 "char": "侦",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "spy, reconnoiter; detective",
 "pron": "zhēn"
 },
 "words": [
 [
-"侦探",
-6,
-"zhēn tàn",
-"detective; to do detective work"
+"侦察",
+7,
+"zhēn chá",
+"to investigate a crime; to scout; to reconnoiter; reconnaissance; detection; a scout"
 ]
 ],
 "extraWords": [
+[
+"侦探",
+55.71,
+"zhēn tàn",
+"detective; to do detective work"
+],
 [
 "侦查",
 13.81,
 "zhēn chá",
 "to detect; to investigate"
-],
-[
-"侦察",
-7.61,
-"zhēn chá",
-"to investigate a crime; to scout; to reconnoiter; reconnaissance; detection; a scout"
 ],
 [
 "侦破",

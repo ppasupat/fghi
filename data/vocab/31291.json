@@ -1,24 +1,30 @@
 {
 "char": "稻",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "rice growing in field, rice plant",
 "pron": "dào"
 },
 "words": [
 [
-"稻谷",
-6,
-"dào gǔ",
-"unhusked rice; paddy"
+"稻草",
+7,
+"dào cǎo",
+"rice straw"
+],
+[
+"水稻",
+7,
+"shuǐ dào",
+"rice; paddy; CL:株[zhū]"
 ]
 ],
 "extraWords": [
 [
-"水稻",
-11.67,
-"shuǐ dào",
-"rice; paddy; CL:株[zhu1]"
+"稻",
+8.22,
+"dào",
+"paddy; rice (Oryza sativa)"
 ]
 ],
 "strokes": [

@@ -1,14 +1,20 @@
 {
 "char": "癌",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cancer; marmoset",
 "pron": "ái"
 },
 "words": [
 [
+"癌",
+7,
+"ái",
+"cancer; carcinoma; also pr. [yan2]"
+],
+[
 "癌症",
-6,
+7,
 "ái zhèng",
 "cancer"
 ]

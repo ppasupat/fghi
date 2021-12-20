@@ -1,11 +1,29 @@
 {
 "char": "怕",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "to fear, be afraid of; apprehensive",
 "pron": "pà"
 },
 "words": [
+[
+"可怕",
+2,
+"kě pà",
+"awful; dreadful; fearful; formidable; frightful; scary; hideous; horrible; terrible; terribly"
+],
+[
+"怕",
+2,
+"Pà",
+"surname Pa"
+],
+[
+"怕",
+2,
+"pà",
+"to be afraid; to fear; to dread; to be unable to endure; perhaps"
+],
 [
 "害怕",
 3,
@@ -14,21 +32,21 @@
 ],
 [
 "恐怕",
-4,
+3,
 "kǒng pà",
 "fear; to dread; I'm afraid that...; perhaps; maybe"
 ],
 [
-"可怕",
-5,
-"kě pà",
-"awful; dreadful; fearful; formidable; frightful; scary; hideous; horrible; terrible; terribly"
-],
-[
 "哪怕",
-5,
+4,
 "nǎ pà",
 "even; even if; even though; no matter how"
+],
+[
+"生怕",
+7,
+"shēng pà",
+"to fear; afraid; extremely nervous; for fear that; to avoid; so as not to"
 ]
 ],
 "extraWords": [
@@ -43,12 +61,6 @@
 11.41,
 "zhǐ pà",
 "I'm afraid that...; perhaps; maybe; very likely"
-],
-[
-"生怕",
-6.04,
-"shēng pà",
-"to fear; afraid; extremely nervous; for fear that; to avoid; so as not to"
 ]
 ],
 "strokes": [

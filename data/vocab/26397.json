@@ -1,6 +1,6 @@
 {
 "char": "朝",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "dynasty; morning",
 "pron": "cháo, zhāo"
@@ -8,33 +8,57 @@
 "words": [
 [
 "朝",
-5,
+3,
 "Cháo",
-"abbr. for 朝鮮|朝鲜[Chao2 xian3] Korea"
+"abbr. for 朝鲜[Cháo xiǎn] Korea"
 ],
 [
 "朝",
-5,
+3,
 "cháo",
 "imperial or royal court; government; dynasty; reign of a sovereign or emperor; court or assembly held by a sovereign or emperor; to make a pilgrimage to; facing; towards"
 ],
 [
 "朝",
-5,
+3,
 "zhāo",
 "morning"
 ],
 [
 "朝代",
-6,
+7,
 "cháo dài",
 "dynasty; reign (of a king)"
 ],
 [
+"朝着",
+7,
+"cháo zhe",
+"facing; advancing (towards)"
+],
+[
+"有朝一日",
+7,
+"yǒu zhāo yī rì",
+"one day; sometime in the future"
+],
+[
 "朝气蓬勃",
-6,
+7,
 "zhāo qì péng bó",
 "full of youthful energy (idiom); vigorous; energetic; a bright spark"
+],
+[
+"朝三暮四",
+7,
+"zhāo sān mù sì",
+"lit. say three in the morning but four in the evening (idiom); to change sth that is already settled upon; indecisive; to blow hot and cold"
+],
+[
+"朝夕相处",
+7,
+"zhāo xī xiāng chǔ",
+"to spend all one's time together (idiom)"
 ]
 ],
 "extraWords": [
@@ -63,16 +87,10 @@
 "dynasty"
 ],
 [
-"朝着",
-6.86,
-"cháo zhe",
-"facing; advancing (towards)"
-],
-[
 "朝阳",
 6.78,
 "Cháo yáng",
-"Chaoyang district in east and northeast Beijing, a county level district of Beijing municipality; Chaoyang prefecture-level city in Liaoning province 遼寧省|辽宁省[Liao2 ning2 Sheng3] in northeast China; Chaoyang district of Changchun city 長春市|长春市[Chang2 chun1 shi4], Jilin; Chaoyang county in Chaoyang 朝陽|朝阳[Chao2 yang2], Liaoning"
+"Chaoyang district in east and northeast Beijing, a county level district of Beijing municipality; Chaoyang prefecture-level city in Liaoning province 辽宁省[Liáo níng Shěng] in northeast China; Chaoyang district of Changchun city 长春市[Cháng chūn shì], Jilin; Chaoyang county in Chaoyang 朝阳[Cháo yáng], Liaoning"
 ],
 [
 "朝阳",

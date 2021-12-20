@@ -1,12 +1,31 @@
 {
 "char": "丹",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "cinnabar (native HgS); vermilion (artificial HgS used as pigment)",
 "pron": "dān"
 },
-"words": [],
+"words": [
+[
+"牡丹",
+7,
+"Mǔ dan",
+"Mudan District of Heze City 菏泽市[Hé zé Shì], Shandong; Mutan township in Pingtung County 屏东县[Píng dōng Xiàn], Taiwan"
+],
+[
+"牡丹",
+7,
+"mǔ dan",
+"tree peony (Paeonia suffruticosa)"
+]
+],
 "extraWords": [
+[
+"丹",
+31.87,
+"dān",
+"red; pellet; powder; cinnabar"
+],
 [
 "丹尼",
 25.55,
@@ -42,18 +61,6 @@
 7.33,
 "Ā mǔ sī tè dān",
 "Amsterdam, capital of Netherlands"
-],
-[
-"牡丹",
-6.86,
-"Mǔ dan",
-"Mudan District of Heze City 菏澤市|菏泽市[He2 ze2 Shi4], Shandong; Mutan township in Pingtung County 屏東縣|屏东县[Ping2 dong1 Xian4], Taiwan"
-],
-[
-"牡丹",
-6.86,
-"mǔ dan",
-"tree peony (Paeonia suffruticosa)"
 ],
 [
 "丹佛",

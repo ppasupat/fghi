@@ -1,12 +1,32 @@
 {
 "char": "竿",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "bamboo pole; penis",
 "pron": "gān"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"竹竿",
+7,
+"zhú gān",
+"bamboo; bamboo pole"
+]
+],
+"extraWords": [
+[
+"竿",
+2.41,
+"gān",
+"pole"
+],
+[
+"立竿见影",
+1.7,
+"lì gān jiàn yǐng",
+"lit. set up a pole and see the shadow (idiom); fig. instant effect; quick results"
+]
+],
 "strokes": [
 "M 357 750 Q 366 766 375 780 Q 385 793 369 807 Q 321 840 297 832 Q 285 829 289 814 Q 307 718 215 597 Q 191 569 180 552 Q 173 536 188 542 Q 204 546 227 566 Q 296 627 331 700 Q 337 713 343 724 L 357 750 Z",
 "M 343 724 Q 380 711 482 730 Q 533 742 535 742 Q 542 749 539 757 Q 532 767 506 775 Q 482 778 410 758 Q 400 758 357 750 C 327 745 314 733 343 724 Z",

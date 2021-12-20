@@ -1,6 +1,6 @@
 {
 "char": "宠",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "favorite, concubine; favor",
 "pron": "chǒng"
@@ -8,9 +8,21 @@
 "words": [
 [
 "宠物",
-5,
+6,
 "chǒng wù",
 "house pet"
+],
+[
+"宠",
+7,
+"chǒng",
+"to love; to pamper; to spoil; to favor"
+],
+[
+"宠爱",
+7,
+"chǒng ài",
+"to dote on sb"
 ]
 ],
 "extraWords": [],

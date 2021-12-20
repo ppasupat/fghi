@@ -1,6 +1,6 @@
 {
 "char": "远",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "distant, remote, far; profound",
 "pron": "yuǎn"
@@ -8,107 +8,149 @@
 "words": [
 [
 "远",
-2,
+1,
 "yuǎn",
 "far; distant; remote; (intensifier in a comparison) by far; much (lower etc)"
 ],
 [
 "远",
-2,
+1,
 "yuàn",
 "to distance oneself from (classical)"
 ],
 [
 "永远",
-4,
+2,
 "yǒng yuǎn",
 "forever; eternal"
 ],
 [
-"遥远",
-6,
-"yáo yuǎn",
-"distant; remote"
-],
-[
-"疏远",
-6,
-"shū yuǎn",
-"to drift apart; to become estranged; to alienate; estrangement"
-],
-[
-"任重道远",
-6,
-"rèn zhòng dào yuǎn",
-"a heavy load and a long road; fig. to bear heavy responsibilities through a long struggle (cf Confucian Analects, 8.7)"
-]
-],
-"extraWords": [
-[
-"远远",
-41.27,
-"yuǎn yuǎn",
-"distant; by far"
-],
-[
-"远离",
-29.99,
-"yuǎn lí",
-"to be far from; to keep away from"
-],
-[
-"长远",
-20.37,
-"cháng yuǎn",
-"long-term; long-range"
+"跳远",
+3,
+"tiào yuǎn",
+"long jump (athletics)"
 ],
 [
 "远处",
-18.71,
+5,
 "yuǎn chù",
 "distant place"
 ],
 [
-"远程",
-14.61,
-"yuǎn chéng",
-"remote; long distance; long range"
-],
-[
-"深远",
-9.7,
-"shēn yuǎn",
-"far-reaching; profound and long-lasting"
-],
-[
-"老远",
-9.6,
-"lǎo yuǎn",
-"very far away"
+"长远",
+6,
+"cháng yuǎn",
+"long-term; long-range"
 ],
 [
 "远方",
-9.45,
+6,
 "yuǎn fāng",
 "far away; a distant location"
 ],
 [
+"远离",
+6,
+"yuǎn lí",
+"to be far from; to keep away from"
+],
+[
+"远远",
+6,
+"yuǎn yuǎn",
+"distant; by far"
+],
+[
+"边远",
+7,
+"biān yuǎn",
+"far from the center; remote; outlying"
+],
+[
+"敬而远之",
+7,
+"jìng ér yuǎn zhī",
+"to show respect from a distance (idiom); to remain at a respectful distance"
+],
+[
+"老远",
+7,
+"lǎo yuǎn",
+"very far away"
+],
+[
+"偏远",
+7,
+"piān yuǎn",
+"remote; far from civilization"
+],
+[
+"深远",
+7,
+"shēn yuǎn",
+"far-reaching; profound and long-lasting"
+],
+[
 "望远镜",
-6.08,
+7,
 "wàng yuǎn jìng",
-"binoculars; telescope; CL:付[fu4],副[fu4],部[bu4]"
+"binoculars; telescope; CL:付[fù],副[fù],部[bù]"
+],
+[
+"遥远",
+7,
+"yáo yuǎn",
+"distant; remote"
+],
+[
+"远程",
+7,
+"yuǎn chéng",
+"remote; long distance; long range"
+],
+[
+"远见",
+7,
+"yuǎn jiàn",
+"vision"
+],
+[
+"远近闻名",
+7,
+"yuǎn jìn wén míng",
+"to be known far and wide; to be well-known"
+]
+],
+"extraWords": [
+[
+"多远",
+8.26,
+"???",
+"???"
+],
+[
+"远在",
+6.28,
+"???",
+"???"
 ],
 [
 "远期",
 6.07,
 "yuǎn qī",
-"long-term; at a fixed date in the future (e.g. for repayment); abbr. for 遠期合約|远期合约[yuan3 qi1 he2 yue1]"
+"long-term; at a fixed date in the future (e.g. for repayment); abbr. for 远期合约[yuǎn qī hé yuē]"
 ],
 [
 "远东",
 5.78,
 "Yuǎn dōng",
 "Far East (loanword)"
+],
+[
+"疏远",
+5.19,
+"shū yuǎn",
+"to drift apart; to become estranged; to alienate; estrangement"
 ]
 ],
 "strokes": [

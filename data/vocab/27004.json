@@ -1,55 +1,97 @@
 {
 "char": "楼",
-"level": 3,
+"level": "1",
 "info": {
 "gloss": "building of two or more stories",
 "pron": "lóu"
 },
 "words": [
 [
+"教学楼",
+1,
+"jiào xué lóu",
+"teaching block; school building"
+],
+[
 "楼",
-3,
+1,
 "Lóu",
 "surname Lou"
 ],
 [
 "楼",
-3,
+1,
 "lóu",
-"house with more than 1 story; storied building; floor; CL:層|层[ceng2],座[zuo4],棟|栋[dong4]"
-]
-],
-"extraWords": [
-[
-"大楼",
-36.55,
-"dà lóu",
-"building (a relatively large, multi-storey one); CL:幢[zhuang4],座[zuo4]"
+"house with more than 1 story; storied building; floor; CL:层[céng],座[zuò],栋[dòng]"
 ],
 [
 "楼上",
-28.44,
+1,
 "lóu shàng",
 "upstairs; (Internet slang) previous poster in a forum thread"
 ],
 [
 "楼下",
-25.07,
+1,
 "lóu xià",
 "downstairs"
 ],
 [
+"大楼",
+4,
+"dà lóu",
+"building (a relatively large, multi-storey one); CL:幢[zhuàng],座[zuò]"
+],
+[
 "楼梯",
-24.8,
+4,
 "lóu tī",
-"stair; staircase; CL:個|个[ge4]"
+"stair; staircase; CL:个[gè]"
+],
+[
+"上楼",
+4,
+"shàng lóu",
+"to go upstairs"
+],
+[
+"下楼",
+4,
+"xià lóu",
+"to go downstairs"
+],
+[
+"楼道",
+6,
+"lóu dào",
+"corridor; passageway (in storied building)"
+],
+[
+"楼房",
+6,
+"lóu fáng",
+"a building of two or more stories; CL:栋[dòng],幢[zhuàng],座[zuò]"
 ],
 [
 "写字楼",
-10.1,
+6,
 "xiě zì lóu",
 "office building"
 ],
+[
+"酒楼",
+7,
+"jiǔ lóu",
+"restaurant"
+],
+[
+"居民楼",
+7,
+"jū mín lóu",
+"apartment building; residential tower"
+]
+],
+"extraWords": [
 [
 "阁楼",
 10.05,
@@ -57,40 +99,16 @@
 "garret; loft; attic"
 ],
 [
-"楼房",
-8.53,
-"lóu fáng",
-"a building of two or more stories; CL:棟|栋[dong4],幢[zhuang4],座[zuo4]"
-],
-[
 "红楼梦",
 7.65,
 "Hóng lóu Mèng",
-"A Dream of Red Mansions (first completed edition 1791) by Cao Xueqin 曹雪芹[Cao2 Xue3 qin2], one of the four great novels"
+"A Dream of Red Mansions (first completed edition 1791) by Cao Xueqin 曹雪芹[Cáo Xuě qín], one of the four great novels"
 ],
 [
 "办公楼",
 7.37,
 "bàn gōng lóu",
-"office building; CL:座[zuo4],棟|栋[dong4]"
-],
-[
-"下楼",
-7.2,
-"xià lóu",
-"to go downstairs"
-],
-[
-"上楼",
-7.06,
-"shàng lóu",
-"to go upstairs"
-],
-[
-"酒楼",
-6.44,
-"jiǔ lóu",
-"restaurant"
+"office building; CL:座[zuò],栋[dòng]"
 ],
 [
 "跳楼",
@@ -114,7 +132,7 @@
 "高楼",
 5.13,
 "gāo lóu",
-"high building; multistory building; skyscraper; CL:座[zuo4]"
+"high building; multistory building; skyscraper; CL:座[zuò]"
 ]
 ],
 "strokes": [

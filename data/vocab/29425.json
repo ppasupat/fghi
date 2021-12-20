@@ -1,24 +1,30 @@
 {
 "char": "狱",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "prison, jail; case; lawsuit",
 "pron": "yù"
 },
 "words": [
 [
+"地狱",
+7,
+"dì yù",
+"hell; infernal; underworld; (Buddhism) Naraka"
+],
+[
 "监狱",
-6,
+7,
 "jiān yù",
 "prison"
 ]
 ],
 "extraWords": [
 [
-"地狱",
-58.16,
-"dì yù",
-"hell; infernal; underworld; (Buddhism) Naraka"
+"狱",
+11.98,
+"yù",
+"prison"
 ],
 [
 "出狱",
@@ -37,6 +43,12 @@
 7.33,
 "rù yù",
 "to go to jail; to be sent to prison"
+],
+[
+"狱警",
+5.07,
+"???",
+"???"
 ]
 ],
 "strokes": [

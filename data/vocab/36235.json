@@ -1,6 +1,6 @@
 {
 "char": "趋",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "hasten, hurry; be attracted to",
 "pron": "qū"
@@ -8,23 +8,29 @@
 "words": [
 [
 "趋势",
-5,
+4,
 "qū shì",
 "trend; tendency"
+],
+[
+"趋于",
+7,
+"qū yú",
+"to tend towards"
+],
+[
+"日趋",
+7,
+"rì qū",
+"(increasing) day by day; (more critical) with every passing day; gradually"
 ]
 ],
 "extraWords": [
 [
-"日趋",
-12.4,
-"rì qū",
-"(increasing) day by day; (more critical) with every passing day; gradually"
-],
-[
-"趋于",
-10.5,
-"qū yú",
-"to tend towards"
+"趋",
+14.6,
+"qū",
+"to hasten; to hurry; to walk fast; to approach; to tend towards; to converge"
 ],
 [
 "趋向",

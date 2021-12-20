@@ -1,17 +1,30 @@
 {
 "char": "呐",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "raise voice, yell out loud, shout; stammer",
 "pron": "nà"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "呐喊",
-5.22,
+7,
 "nà hǎn",
 "shout; rallying cry; cheering; to shout"
+]
+],
+"extraWords": [
+[
+"呐",
+47.78,
+"nà",
+"battle cry"
+],
+[
+"呐",
+47.78,
+"na",
+"sentence-final particle (abbr. for 呢啊[ne a] or variant of 哪[na])"
 ]
 ],
 "strokes": [

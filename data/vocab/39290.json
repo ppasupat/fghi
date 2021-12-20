@@ -1,6 +1,6 @@
 {
 "char": "饺",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "stuffed dumplings",
 "pron": "jiǎo"
@@ -8,12 +8,25 @@
 "words": [
 [
 "饺子",
-4,
+2,
 "jiǎo zi",
-"dumpling; pot-sticker; CL:個|个[ge4],隻|只[zhi1]"
+"dumpling; pot-sticker; CL:个[gè],只[zhī]"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"饺",
+3.72,
+"jiǎo",
+"dumplings with meat filling"
+],
+[
+"水饺",
+3.26,
+"shuǐ jiǎo",
+"boiled dumpling (made by wrapping a pasta skin around a filling, like ravioli)"
+]
+],
 "strokes": [
 "M 277 581 Q 305 641 343 731 Q 358 768 358 772 Q 355 782 341 791 Q 302 815 273 803 Q 264 799 269 787 Q 300 708 190 513 Q 186 507 181 499 Q 147 445 59 336 Q 52 329 63 329 Q 117 344 221 482 Q 260 549 266 560 L 277 581 Z",
 "M 266 560 Q 284 554 380 577 Q 390 580 393 577 Q 397 574 393 565 Q 365 498 346 467 Q 339 454 338 448 Q 337 438 348 444 Q 360 450 415 513 Q 449 553 482 577 Q 498 587 487 599 Q 474 611 438 628 Q 422 634 409 623 Q 399 619 320 591 Q 301 585 277 581 C 247 576 236 563 266 560 Z",

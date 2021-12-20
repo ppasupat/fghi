@@ -1,48 +1,72 @@
 {
 "char": "柜",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "cabinet, cupboard; shop counter",
 "pron": "guì, jǔ"
 },
 "words": [
 [
-"柜台",
+"柜子",
 5,
-"guì tái",
-"variant of 櫃檯|柜台[gui4 tai2]"
+"guì zi",
+"cupboard; cabinet"
+],
+[
+"书柜",
+5,
+"shū guì",
+"bookcase"
 ],
 [
 "柜台",
-5,
+7,
+"guì tái",
+"variant of 柜台[guì tái]"
+],
+[
+"柜台",
+7,
 "guì tái",
 "sales counter; front desk; bar; (of markets, medicines etc) OTC (over-the-counter)"
 ],
 [
 "柜台",
-5,
+7,
 "guì tái",
-"variant of 櫃檯|柜台[gui4 tai2]"
+"variant of 柜台[guì tái]"
+],
+[
+"专柜",
+7,
+"zhuān guì",
+"sales counter dedicated to a certain kind of product (e.g. alcohol)"
 ]
 ],
 "extraWords": [
 [
-"专柜",
-11.77,
-"zhuān guì",
-"sales counter dedicated to a certain kind of product (e.g. alcohol)"
+"柜",
+18.88,
+"guì",
+"variant of 柜[guì]"
 ],
 [
-"柜子",
-9.81,
-"guì zi",
-"cupboard; cabinet"
+"柜",
+18.88,
+"jǔ",
+"Salix multinervis"
+],
+[
+"柜",
+18.88,
+"guì",
+"cupboard; cabinet; wardrobe"
 ],
 [
 "衣柜",
 7.15,
 "yī guì",
-"wardrobe; armoire; CL:個|个[ge4]"
+"wardrobe; armoire; CL:个[gè]"
 ],
 [
 "保险柜",

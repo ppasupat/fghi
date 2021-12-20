@@ -1,16 +1,28 @@
 {
 "char": "棍",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "stick, cudgel; scoundrel",
 "pron": "gùn"
 },
 "words": [
 [
-"棍棒",
-6,
-"gùn bàng",
-"club; staff; stick"
+"冰棍儿",
+7,
+"bīng gùn r5",
+"ice lolly; popsicle"
+],
+[
+"棍",
+7,
+"gùn",
+"stick; rod; truncheon"
+],
+[
+"棍子",
+7,
+"gùn zi",
+"stick; rod"
 ]
 ],
 "extraWords": [
@@ -25,12 +37,6 @@
 8.26,
 "è gùn",
 "scoundrel; rogue; bully; villain"
-],
-[
-"棍子",
-8.02,
-"gùn zi",
-"stick; rod"
 ],
 [
 "曲棍球",

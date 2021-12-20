@@ -1,12 +1,31 @@
 {
 "char": "匾",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "flat, round split-bamboo contain",
 "pron": "biǎn"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"匾",
+5.04,
+"biǎn",
+"horizontal rectangular inscribed tablet hung over a door or on a wall; shallow round woven bamboo basket"
+],
+[
+"匾",
+5.04,
+"pián",
+"basket-couch in coffin"
+],
+[
+"牌匾",
+1.77,
+"pái biǎn",
+"board (attached to a wall)"
+]
+],
 "strokes": [
 "M 289 735 Q 328 716 373 721 Q 529 737 690 754 Q 765 764 776 773 Q 786 780 782 788 Q 776 801 749 810 Q 719 820 621 795 Q 452 762 293 762 Q 290 762 288 761 C 258 759 261 747 289 735 Z",
 "M 505 677 Q 566 632 577 632 Q 586 633 589 644 Q 592 657 583 680 Q 571 707 498 715 Q 485 716 480 715 Q 476 711 478 701 Q 482 692 505 677 Z",

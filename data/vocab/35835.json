@@ -1,6 +1,6 @@
 {
 "char": "读",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "read, study; pronounce",
 "pron": "dòu, dú"
@@ -16,7 +16,25 @@
 "读",
 1,
 "dú",
-"to read; to study; reading of word (i.e. pronunciation), similar to 拼音[pin1 yin1]"
+"to read; to study; reading of word (i.e. pronunciation), similar to 拼音[pīn yīn]"
+],
+[
+"读书",
+1,
+"dú shū",
+"to read a book; to study; to attend school"
+],
+[
+"读音",
+2,
+"dú yīn",
+"pronunciation; literary (rather than colloquial) pronunciation of a Chinese character"
+],
+[
+"读者",
+3,
+"dú zhě",
+"reader; CL:个[gè]"
 ],
 [
 "阅读",
@@ -29,40 +47,39 @@
 5,
 "lǎng dú",
 "to read aloud"
-]
-],
-"extraWords": [
-[
-"读者",
-58.74,
-"dú zhě",
-"reader; CL:個|个[ge4]"
 ],
 [
-"读书",
-39.61,
-"dú shū",
-"to read a book; to study; to attend school"
+"攻读",
+7,
+"gōng dú",
+"to major (in a field); to study a specialty to obtain a higher degree"
 ],
 [
 "解读",
-11.47,
+7,
 "jiě dú",
 "to decipher; to decode; to interpret"
 ],
 [
 "就读",
-8.33,
+7,
 "jiù dú",
 "to go to school"
 ],
 [
+"默读",
+7,
+"mò dú",
+"to read in silence"
+],
+[
 "宣读",
-5.44,
+7,
 "xuān dú",
 "to read out loud to an audience; a prepared speech (e.g. to a party conference)"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 282 735 Q 313 708 345 676 Q 360 660 378 661 Q 391 662 396 677 Q 402 693 392 728 Q 386 750 351 767 Q 267 800 252 791 Q 246 787 248 772 Q 252 759 282 735 Z",
 "M 153 493 Q 104 477 78 475 Q 63 476 61 468 Q 57 461 68 452 Q 107 428 139 442 Q 229 491 241 482 Q 248 476 242 371 Q 239 259 207 155 Q 192 124 234 76 Q 244 64 254 71 Q 261 78 273 101 Q 307 152 381 239 Q 393 251 390 258 Q 389 265 378 256 Q 341 231 305 200 Q 268 167 273 215 Q 273 281 298 442 Q 302 466 323 489 Q 336 499 326 511 Q 316 527 278 544 Q 266 550 249 539 Q 188 505 153 493 Z",

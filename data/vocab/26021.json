@@ -1,6 +1,6 @@
 {
 "char": "斥",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "to scold, upbraid, accuse, reproach",
 "pron": "chì"
@@ -8,7 +8,7 @@
 "words": [
 [
 "排斥",
-6,
+7,
 "pái chì",
 "to reject; to exclude; to eliminate; to remove; to repel"
 ]
@@ -19,6 +19,12 @@
 6.1,
 "chōng chì",
 "to be full of; to flood; to congest"
+],
+[
+"斥",
+3.85,
+"chì",
+"to blame; to reprove; to reprimand; to expel; to oust; to reconnoiter; (of territory) to expand; saline marsh"
 ]
 ],
 "strokes": [

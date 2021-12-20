@@ -1,6 +1,6 @@
 {
 "char": "吹",
-"level": 5,
+"level": "2",
 "info": {
 "gloss": "blow; puff; brag, boast",
 "pron": "chuī"
@@ -8,19 +8,25 @@
 "words": [
 [
 "吹",
-5,
+2,
 "chuī",
 "to blow; to play a wind instrument; to blast; to puff; to boast; to brag; to end in failure; to fall through"
 ],
 [
+"吹了",
+7,
+"chuī le",
+"failed; busted; to have not succeeded; to have died; to have parted company; to have chilled (of a relationship)"
+],
+[
 "吹牛",
-6,
+7,
 "chuī niú",
 "to talk big; to shoot off one's mouth; to chat (dialect)"
 ],
 [
 "吹捧",
-6,
+7,
 "chuī pěng",
 "to flatter; to laud sb's accomplishments; adulation"
 ]

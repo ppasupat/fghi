@@ -1,6 +1,6 @@
 {
 "char": "绳",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "rope, string, cord; control",
 "pron": "shéng"
@@ -8,12 +8,18 @@
 "words": [
 [
 "绳子",
-5,
+7,
 "shéng zi",
-"cord; string; rope; CL:條|条[tiao2]"
+"cord; string; rope; CL:条[tiáo]"
 ]
 ],
 "extraWords": [
+[
+"绳",
+10.79,
+"shéng",
+"rope; CL:根[gēn]"
+],
 [
 "绳索",
 5.16,

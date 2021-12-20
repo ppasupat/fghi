@@ -26,8 +26,8 @@ def yield_common_words():
     - SUBTLEX-CH (movie subtitles)
     - BCC (BLCU Chinese Corpus)
     """
-    s1 = iter(yield_subtlex_freq_words())
-    s2 = iter(yield_bcc_freq_words())
+    s1 = iter(parse_subtlex.yield_subtlex_freq_words())
+    s2 = iter(parse_bcc.yield_bcc_freq_words())
     f1, w1 = next(s1)
     f2, w2 = next(s2)
     while f1 > 0 or f2 > 0:
@@ -50,6 +50,8 @@ def main():
     parser.add_argument('-v', '--verbose', action='store_true')
     parser.add_argument('-m', '--min-common-word-freq', type=float, default=5.,
             help='Common word filter: minimum number of occurrences per 1 million words')
+    parser.add_argument('-M', '--max-total-words', type=int, default=3,
+            help='Keep adding less common words up to this number of total words')
     parser.add_argument('-t', '--top-char-limit', type=int, default=1000,
             help='Number of characters for the lists of top characters')
     args = parser.parse_args()
@@ -74,13 +76,11 @@ def main():
             break
     # Common use characters
     char_cats['C'] = parse_commonuse.get_commonuse()['1']    
-
+    # Write to cats.json
     char_cats = {key: ''.join(value) for (key, value) in char_cats.items()}
     with open('cats.json', 'w') as fout:
         json.dump(char_cats, fout, indent=0, ensure_ascii=False)
         fout.write('\n')
-
-    return
 
     # Read Unihan
     print('Reading Unihan')
@@ -92,43 +92,52 @@ def main():
     cedict = parse_cedict.get_word_to_pron_gloss()
     print('Read {} words from CEDict.'.format(len(cedict)))
 
-    # Add pronunciations and glosses to the HSK words
-    for char, words in char_to_words.items():
-        words_copy = words[:]
-        words.clear()
-        for word, level in words_copy:
-            pron_gloss_list = (cedict[word] if word in cedict
-                    else HSK_WORDS_NOT_IN_CEDICT.get(word))
-            if not pron_gloss_list:
-                print('Warning: HSK word {} not in CEDICT'.format(word))
-                words.append([word, level, '???', '???'])
-            else:
-                for pron, gloss in pron_gloss_list:
-                    words.append([word, level, pron, gloss])
+    # Read HSK words
+    # For simplicity, ignore the annotated POS and senses
+    char_to_words = defaultdict(list)
+    used_words = set()
+    for level, words in parse_hsk30.get_hsk_words().items():
+        for word in parse_hsk30.gen_processed_words(words):
+            if word in used_words:
+                continue
+            pron_glosses = parse_cedict.lookup_cedict(cedict, word, verbose=args.verbose)
+            for char in set(word):
+                if not is_legal_char(char):
+                    continue
+                for pron, gloss in pron_glosses:
+                    line = [word, int(level), pron, gloss]
+                    char_to_words[char].append(line)
+            used_words.add(word)
+    print('Added {} HSK words.'.format(len(used_words)))
 
     # Read common words
     char_to_extra_words = defaultdict(list)
     num_extra_words = 0
     for freq, word in yield_common_words():
-        if freq < args.min_common_word_freq:
-            break
-        if word in used_words or word not in cedict or len(word) == 1:
+        if word in used_words:
             continue
-        for pron, gloss in cedict[word]:
-            line = [word, round(freq, 2), pron, gloss]
-            for char in set(word):
-                if is_legal_char(char):
-                    char_to_extra_words[char].append(line)
+        pron_glosses = parse_cedict.lookup_cedict(cedict, word, verbose=args.verbose)
+        for char in set(word):
+            if not is_legal_char(char):
+                continue
+            if freq < args.min_common_word_freq and (
+                    len(char_to_words[char]) + len(char_to_extra_words[char])
+                    >= args.max_total_words):
+                continue
+            for pron, gloss in pron_glosses:
+                line = [word, round(freq, 2), pron, gloss]
+                char_to_extra_words[char].append(line)
         used_words.add(word)
         num_extra_words += 1
     print('Added {} extra words.'.format(num_extra_words))
 
     print('Writing information to vocab/ ...')
-    for level, chars in enumerate(hsk):
-        if chars is None:
-            continue
-        print('HSK level {} ({} chars)'.format(level, len(chars)))
-        for char in chars:
+    written_chars = set()
+    for level in '1234567C':
+        num_chars_in_level = 0
+        for char in char_cats[level]:
+            if char in written_chars:
+                continue
             paths = parse_makemeahanzi.get_svg_paths(char)
             info = {
                     'char': char,
@@ -140,6 +149,10 @@ def main():
                     }
             with open('vocab/{}.json'.format(ord(char)), 'w') as fout:
                 json.dump(info, fout, ensure_ascii=False, indent=0)
+            written_chars.add(char)
+            num_chars_in_level += 1
+        print('Written {} characters for Level {}'.format(
+            num_chars_in_level, level))
 
 
 if __name__ == '__main__':

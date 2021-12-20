@@ -1,6 +1,6 @@
 {
 "char": "距",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "distance; bird's spur",
 "pron": "jù"
@@ -10,13 +10,25 @@
 "距离",
 4,
 "jù lí",
-"distance; CL:個|个[ge4]; to be apart from"
+"distance; CL:个[gè]; to be apart from"
 ],
 [
 "差距",
 5,
 "chā jù",
 "disparity; gap"
+],
+[
+"焦距",
+7,
+"jiāo jù",
+"focal length; focal distance"
+],
+[
+"距",
+7,
+"jù",
+"at a distance of; distance; to be apart"
 ]
 ],
 "extraWords": [

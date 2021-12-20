@@ -1,6 +1,6 @@
 {
 "char": "折",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "break off, snap; bend",
 "pron": "shé, zhē, zhé"
@@ -14,103 +14,108 @@
 ],
 [
 "折",
-6,
+4,
 "shé",
 "to snap; to break (a stick, a bone etc); (bound form) to sustain a loss (in business)"
 ],
 [
 "折",
-6,
+4,
 "zhē",
 "to turn sth over; to turn upside down; to tip sth out (of a container)"
 ],
 [
 "折",
-6,
+4,
 "zhé",
 "to break; to fracture; to snap; to suffer loss; to bend; to twist; to turn; to change direction; convinced; to convert into (currency); discount; rebate; tenth (in price); classifier for theatrical scenes; to fold; accounts book"
 ],
 [
 "折",
-6,
+4,
 "zhé",
-"variant of 折[zhe2]; to fold"
+"variant of 折[zhé]; to fold"
 ],
 [
-"折磨",
-6,
-"zhé mó",
-"to torment; to torture"
+"波折",
+7,
+"bō zhé",
+"twists and turns"
 ],
 [
-"折腾",
-6,
-"zhē teng",
-"to toss from side to side (e.g. sleeplessly); to repeat sth over and over again; to torment sb; to play crazy; to squander (time, money)"
+"存折",
+7,
+"cún zhé",
+"passbook; bankbook"
 ],
 [
 "挫折",
-6,
+7,
 "cuò zhé",
 "setback; reverse; check; defeat; frustration; disappointment; to frustrate; to discourage; to set sb back; to blunt; to subdue"
 ],
 [
-"曲折",
-6,
-"qū zhé",
-"winding; (fig.) complicated"
-],
-[
-"转折",
-6,
-"zhuǎn zhé",
-"shift in the trend of events; turnaround; plot shift in a book; turn in the conversation"
-],
-[
-"周折",
-6,
-"zhōu zhé",
-"twists and turns; vicissitude; complication; difficulty; effort; CL:番[fan1]"
-]
-],
-"extraWords": [
-[
 "骨折",
-21.86,
+7,
 "gǔ zhé",
 "to suffer a fracture; (of a bone) to break; fracture"
 ],
 [
-"折扣",
-11.27,
-"zhé kòu",
-"discount"
+"曲折",
+7,
+"qū zhé",
+"winding; (fig.) complicated"
 ],
 [
-"折合",
-5.47,
-"zhé hé",
-"to convert into; to amount to; to be equivalent to"
-],
-[
-"折射",
-5.32,
-"zhé shè",
-"to refract; refraction; to reflect (in the figurative sense: to show the nature of)"
+"折腾",
+7,
+"zhē teng",
+"to toss from side to side (e.g. sleeplessly); to repeat sth over and over again; to torment sb; to play crazy; to squander (time, money)"
 ],
 [
 "折叠",
-5.2,
+7,
 "zhé dié",
 "to fold; collapsible; folding (bicycle, antenna, bed etc)"
 ],
 [
-"存折",
-5.12,
-"cún zhé",
-"passbook; bankbook"
+"折合",
+7,
+"zhé hé",
+"to convert into; to amount to; to be equivalent to"
+],
+[
+"折扣",
+7,
+"zhé kòu",
+"discount"
+],
+[
+"折磨",
+7,
+"zhé mó",
+"to torment; to torture"
+],
+[
+"折射",
+7,
+"zhé shè",
+"to refract; refraction; to reflect (in the figurative sense: to show the nature of)"
+],
+[
+"转折",
+7,
+"zhuǎn zhé",
+"shift in the trend of events; turnaround; plot shift in a book; turn in the conversation"
+],
+[
+"转折点",
+7,
+"zhuǎn zhé diǎn",
+"turning point; breaking point"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 338 554 Q 362 563 389 570 Q 420 580 426 585 Q 435 595 429 604 Q 419 616 388 620 Q 363 623 340 614 L 293 594 Q 200 564 150 553 Q 113 543 142 527 Q 193 506 248 527 Q 269 534 292 540 L 338 554 Z",
 "M 288 352 Q 287 273 285 177 Q 284 155 271 146 Q 267 142 204 145 Q 173 155 175 145 Q 176 138 197 125 Q 255 82 270 58 Q 288 30 302 28 Q 315 28 329 61 Q 345 104 341 174 Q 335 280 335 387 L 335 422 Q 335 489 338 554 L 340 614 Q 340 713 360 778 Q 376 806 324 829 Q 293 848 273 841 Q 257 835 271 813 Q 292 786 293 754 Q 294 738 293 594 L 292 540 Q 291 479 289 398 L 288 352 Z",

@@ -1,6 +1,6 @@
 {
 "char": "试",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "test, try, experiment",
 "pron": "shì"
@@ -8,95 +8,125 @@
 "words": [
 [
 "考试",
-2,
+1,
 "kǎo shì",
-"to take an exam; exam; CL:次[ci4]"
+"to take an exam; exam; CL:次[cì]"
 ],
 [
 "试",
-3,
+1,
 "shì",
 "to test; to try; experiment; examination; test"
 ],
 [
-"试卷",
-5,
-"shì juàn",
-"examination paper; test paper; CL:份[fen4],張|张[zhang1]"
-],
-[
-"试图",
-6,
-"shì tú",
-"to attempt; to try"
-],
-[
-"尝试",
-6,
-"cháng shì",
-"to try; to attempt; CL:次[ci4]"
+"试题",
+3,
+"shì tí",
+"exam question; test topic"
 ],
 [
 "试验",
-6,
+3,
 "shì yàn",
-"experiment; test; CL:次[ci4],個|个[ge4]; to experiment; experimental"
-]
+"experiment; test; CL:次[cì],个[gè]; to experiment; experimental"
 ],
-"extraWords": [
 [
 "测试",
-80.04,
+4,
 "cè shì",
 "to test (machinery etc); to test (students); test; quiz; exam; beta (software)"
 ],
 [
-"试点",
-43.93,
-"shì diǎn",
-"test point; to carry out trial; pilot scheme"
-],
-[
 "面试",
-30.02,
+4,
 "miàn shì",
 "to be interviewed (as a candidate); interview"
 ],
 [
+"试卷",
+4,
+"shì juàn",
+"examination paper; test paper; CL:份[fèn],张[zhāng]"
+],
+[
+"尝试",
+5,
+"cháng shì",
+"to try; to attempt; CL:次[cì]"
+],
+[
+"试图",
+5,
+"shì tú",
+"to attempt; to try"
+],
+[
+"笔试",
+6,
+"bǐ shì",
+"written examination; paper test (for an applicant)"
+],
+[
+"口试",
+6,
+"kǒu shì",
+"oral examination; oral test"
+],
+[
+"试点",
+6,
+"shì diǎn",
+"test point; to carry out trial; pilot scheme"
+],
+[
+"比试",
+7,
+"bǐ shì",
+"to have a competition; to measure with one's hand or arm; to make a gesture of measuring"
+],
+[
+"试探",
+7,
+"shì tàn",
+"to sound out; to probe; to feel out; to try out"
+],
+[
+"试行",
+7,
+"shì xíng",
+"to try out; to test"
+],
+[
 "试用",
-12.22,
+7,
 "shì yòng",
 "to try sth out; to be on probation"
 ],
 [
-"试行",
-9.76,
-"shì xíng",
-"to try out; to test"
+"试用期",
+7,
+"shì yòng qī",
+"trial period; probationary period"
+],
+[
+"调试",
+7,
+"tiáo shì",
+"to debug; to adjust components during testing; debugging"
+]
+],
+"extraWords": [
+[
+"试试",
+120.79,
+"???",
+"???"
 ],
 [
 "试剂",
 8.77,
 "shì jì",
 "reagent"
-],
-[
-"试题",
-7.52,
-"shì tí",
-"exam question; test topic"
-],
-[
-"调试",
-5.71,
-"tiáo shì",
-"to debug; to adjust components during testing; debugging"
-],
-[
-"试探",
-5.41,
-"shì tàn",
-"to sound out; to probe; to feel out; to try out"
 ],
 [
 "试演",

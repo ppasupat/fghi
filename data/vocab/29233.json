@@ -1,6 +1,6 @@
 {
 "char": "爱",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "love, be fond of, like",
 "pron": "ài"
@@ -13,76 +13,118 @@
 "to love; to be fond of; to like; affection; to be inclined (to do sth); to tend to (happen)"
 ],
 [
+"爱好",
+1,
+"ài hào",
+"to like; to take pleasure in; keen on; fond of; interest; hobby; appetite for; CL:个[gè]"
+],
+[
+"爱情",
+2,
+"ài qíng",
+"romance; love (romantic); CL:个[gè],份[fèn]"
+],
+[
+"爱人",
+2,
+"ài ren",
+"spouse (PRC); lover (non-PRC); CL:个[gè]"
+],
+[
 "可爱",
-3,
+2,
 "kě ài",
 "adorable; cute; lovely"
 ],
 [
-"爱好",
+"爱心",
 3,
-"ài hào",
-"to like; to take pleasure in; keen on; fond of; interest; hobby; appetite for; CL:個|个[ge4]"
+"ài xīn",
+"compassion; kindness; care for others; love; CL:片[piàn]; charity (bazaar, golf day etc); heart (the symbol ♥)"
 ],
 [
-"爱情",
+"热爱",
+3,
+"rè ài",
+"to love ardently; to adore"
+],
+[
+"爱国",
 4,
-"ài qíng",
-"romance; love (romantic); CL:個|个[ge4],份[fen4]"
+"ài guó",
+"to love one's country; patriotic"
+],
+[
+"爱护",
+4,
+"ài hù",
+"to cherish; to treasure; to take care of; to love and protect"
 ],
 [
 "亲爱",
-5,
+4,
 "qīn ài",
 "dear; beloved; darling"
+],
+[
+"喜爱",
+4,
+"xǐ ài",
+"to like; to love; to be fond of; favorite"
 ],
 [
 "恋爱",
 5,
 "liàn ài",
-"(romantic) love; CL:個|个[ge4],場|场[chang3]; in love; to have an affair"
+"(romantic) love; CL:个[gè],场[chǎng]; in love; to have an affair"
 ],
 [
-"热爱",
-5,
-"rè ài",
-"to love ardently; to adore"
+"关爱",
+6,
+"guān ài",
+"to show concern and care for"
 ],
 [
-"爱心",
-5,
-"ài xīn",
-"compassion; kindness; care for others; love; CL:片[pian4]; charity (bazaar, golf day etc); heart (the symbol ♥)"
+"爱不释手",
+7,
+"ài bù shì shǒu",
+"to love sth too much to part with it (idiom); to fondle admiringly"
 ],
 [
-"爱护",
-5,
-"ài hù",
-"to cherish; to treasure; to take care of; to love and protect"
+"爱理不理",
+7,
+"ài lǐ bù lǐ",
+"to look cold and indifferent; standoffish"
 ],
 [
-"疼爱",
-5,
-"téng ài",
-"to love dearly"
+"爱面子",
+7,
+"ài miàn zi",
+"to like to look good in the eyes of others; sensitive about how one is regarded by others; proud"
 ],
 [
 "爱惜",
-5,
+7,
 "ài xī",
 "to cherish; to treasure; to use sparingly"
 ],
 [
-"爱戴",
-6,
-"ài dài",
-"to love and respect; love and respect"
+"宠爱",
+7,
+"chǒng ài",
+"to dote on sb"
 ],
 [
-"爱不释手",
-6,
-"ài bù shì shǒu",
-"to love sth too much to part with it (idiom); to fondle admiringly"
+"敬爱",
+7,
+"jìng ài",
+"respect and love"
+],
+[
+"心爱",
+7,
+"xīn ài",
+"beloved"
 ]
 ],
 "extraWords": [
@@ -93,22 +135,16 @@
 "to fall in love with; to be in love with"
 ],
 [
+"最爱",
+45.46,
+"???",
+"???"
+],
+[
 "做爱",
 30.35,
 "zuò ài",
 "to make love"
-],
-[
-"喜爱",
-26.59,
-"xǐ ài",
-"to like; to love; to be fond of; favorite"
-],
-[
-"爱人",
-24.16,
-"ài ren",
-"spouse (PRC); lover (non-PRC); CL:個|个[ge4]"
 ],
 [
 "爱尔兰",
@@ -123,10 +159,10 @@
 "sex; lovemaking"
 ],
 [
-"爱国",
-18.18,
-"ài guó",
-"to love one's country; patriotic"
+"亲爱的",
+19.02,
+"???",
+"???"
 ],
 [
 "相爱",
@@ -135,22 +171,10 @@
 "to love each other"
 ],
 [
-"关爱",
-14.08,
-"guān ài",
-"to show concern and care for"
-],
-[
 "爱好者",
 13.99,
 "ài hào zhě",
 "lover (of art, sports etc); amateur; enthusiast; fan"
-],
-[
-"心爱",
-11.31,
-"xīn ài",
-"beloved"
 ],
 [
 "爱德华",
@@ -175,6 +199,12 @@
 6.7,
 "ài měi",
 "love of beauty; wishing to appear beautiful; to set store by one's appearance"
+],
+[
+"疼爱",
+5.71,
+"téng ài",
+"to love dearly"
 ]
 ],
 "strokes": [

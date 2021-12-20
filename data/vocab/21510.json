@@ -1,12 +1,31 @@
 {
 "char": "吆",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "bawl, yell, shout, cry out",
 "pron": "yāo"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"吆喝",
+3.29,
+"yāo he",
+"to shout; to bawl; to yell (to urge on an animal); to hawk (one's wares); to denounce loudly; to shout slogans"
+],
+[
+"吆",
+1.26,
+"yāo",
+"to shout; to bawl; to yell (to urge on an animal); to hawk (one's wares)"
+],
+[
+"吆喝声",
+0.36,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 141 562 Q 129 568 101 573 Q 88 577 85 571 Q 78 565 87 549 Q 118 477 134 362 Q 137 328 156 304 Q 174 282 179 297 Q 186 315 183 345 L 179 378 Q 158 496 155 531 C 152 557 152 557 141 562 Z",
 "M 325 397 Q 344 508 373 540 Q 398 568 372 583 Q 350 595 321 613 Q 300 625 256 598 Q 211 577 141 562 C 112 556 126 522 155 531 Q 191 543 254 557 Q 282 564 288 553 Q 298 546 290 504 Q 283 458 271 405 C 264 376 320 367 325 397 Z",

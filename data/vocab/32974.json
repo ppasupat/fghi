@@ -1,6 +1,6 @@
 {
 "char": "胎",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "unborn child, embryo, fetus",
 "pron": "tāi"
@@ -8,35 +8,41 @@
 "words": [
 [
 "轮胎",
-6,
+7,
 "lún tāi",
 "tire; pneumatic tire"
 ],
 [
+"胚胎",
+7,
+"pēi tāi",
+"embryo"
+],
+[
 "双胞胎",
-6,
+7,
 "shuāng bāo tāi",
-"twin; CL:對|对[dui4]"
+"twin; CL:对[duì]"
+],
+[
+"胎",
+7,
+"tāi",
+"fetus; classifier for litters (of puppies etc); padding (in clothing or bedding); womb carrying a fetus; (fig.) origin; source; (loanword) tire"
+],
+[
+"胎儿",
+7,
+"tāi ér",
+"unborn child; fetus; embryo"
 ]
 ],
 "extraWords": [
-[
-"胎儿",
-12.48,
-"tāi ér",
-"unborn child; fetus; embryo"
-],
 [
 "怪胎",
 9.69,
 "guài tāi",
 "freak; abnormal embryo; fetus with deformity"
-],
-[
-"胚胎",
-7.62,
-"pēi tāi",
-"embryo"
 ],
 [
 "堕胎",

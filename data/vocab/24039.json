@@ -1,49 +1,79 @@
 {
 "char": "巧",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "skillful, ingenious, clever",
 "pron": "qiǎo"
 },
 "words": [
 [
-"巧克力",
-4,
-"qiǎo kè lì",
-"chocolate (loanword); CL:塊|块[kuai4]"
-],
-[
-"巧妙",
-5,
-"qiǎo miào",
-"ingenious; clever; ingenuity; artifice"
+"巧",
+3,
+"qiǎo",
+"opportunely; coincidentally; as it happens; skillful; timely"
 ],
 [
 "技巧",
-6,
+4,
 "jì qiǎo",
 "skill; technique"
 ],
 [
-"恰巧",
+"巧克力",
+4,
+"qiǎo kè lì",
+"chocolate (loanword); CL:块[kuài]"
+],
+[
+"巧妙",
 6,
+"qiǎo miào",
+"ingenious; clever; ingenuity; artifice"
+],
+[
+"凑巧",
+7,
+"còu qiǎo",
+"fortuitously; luckily; as chance has it"
+],
+[
+"乖巧",
+7,
+"guāi qiǎo",
+"clever (child); smart; lovable; cute"
+],
+[
+"灵巧",
+7,
+"líng qiǎo",
+"deft; nimble; ingenious"
+],
+[
+"碰巧",
+7,
+"pèng qiǎo",
+"by chance; by coincidence; to happen to"
+],
+[
+"恰巧",
+7,
 "qià qiǎo",
 "fortunately; unexpectedly; by coincidence"
-]
 ],
-"extraWords": [
 [
 "巧合",
-21.11,
+7,
 "qiǎo hé",
 "coincidence; coincidental; to coincide"
 ],
 [
-"碰巧",
-15.08,
-"pèng qiǎo",
-"by chance; by coincidence; to happen to"
+"心灵手巧",
+7,
+"xīn líng shǒu qiǎo",
+"capable; clever; dexterous"
+]
 ],
+"extraWords": [
 [
 "小巧",
 6.56,

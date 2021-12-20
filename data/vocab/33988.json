@@ -1,6 +1,6 @@
 {
 "char": "蓄",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "store, save, hoard, gather",
 "pron": "xù"
@@ -8,17 +8,29 @@
 "words": [
 [
 "储蓄",
-6,
+7,
 "chǔ xù",
 "to deposit money; to save; savings"
+],
+[
+"含蓄",
+7,
+"hán xù",
+"to contain; to hold; (of a person or style etc) reserved; restrained; (of words, writings) full of hidden meaning; implicit; veiled (criticism)"
+],
+[
+"积蓄",
+7,
+"jī xù",
+"to save; to put aside; savings"
 ]
 ],
 "extraWords": [
 [
-"积蓄",
-6.91,
-"jī xù",
-"to save; to put aside; savings"
+"蓄",
+7.56,
+"xù",
+"to store up; to grow (e.g. a beard); to entertain (ideas)"
 ]
 ],
 "strokes": [

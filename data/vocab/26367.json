@@ -1,6 +1,6 @@
 {
 "char": "替",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "change, replace, substitute for",
 "pron": "tì"
@@ -8,41 +8,53 @@
 "words": [
 [
 "代替",
-5,
+4,
 "dài tì",
 "to replace; to take the place of"
-]
 ],
-"extraWords": [
+[
+"替",
+4,
+"tì",
+"to substitute for; to take the place of; to replace; for; on behalf of; to stand in for"
+],
 [
 "替代",
-22.78,
+4,
 "tì dài",
 "to substitute for; to replace; to supersede"
 ],
+[
+"交替",
+7,
+"jiāo tì",
+"to replace; alternately; in turn"
+],
+[
+"接替",
+7,
+"jiē tì",
+"to replace; to take over (a position or post)"
+],
+[
+"替换",
+7,
+"tì huàn",
+"to exchange; to replace; to substitute for; to switch"
+],
+[
+"替身",
+7,
+"tì shēn",
+"stand-in; substitute; body double; stuntman; scapegoat; fall guy; to stand in for sb else"
+]
+],
+"extraWords": [
 [
 "替补",
 15.19,
 "tì bǔ",
 "to replace (a damaged component with a new one, an injured player with a substitute player, full-time workers with casual workers etc); a substitute; a replacement"
-],
-[
-"交替",
-7.98,
-"jiāo tì",
-"to replace; alternately; in turn"
-],
-[
-"替换",
-5.92,
-"tì huàn",
-"to exchange; to replace; to substitute for; to switch"
-],
-[
-"接替",
-5.0,
-"jiē tì",
-"to replace; to take over (a position or post)"
 ]
 ],
 "strokes": [

@@ -1,28 +1,40 @@
 {
 "char": "承",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "inherit, receive; succeed",
 "pron": "chéng"
 },
 "words": [
 [
+"承担",
+4,
+"chéng dān",
+"to undertake; to assume (responsibility etc)"
+],
+[
 "承认",
-5,
+4,
 "chéng rèn",
 "to admit; to concede; to recognize; recognition (diplomatic, artistic etc); to acknowledge"
 ],
 [
 "承受",
-5,
+4,
 "chéng shòu",
 "to bear; to support; to inherit"
 ],
 [
-"承担",
+"承办",
 5,
-"chéng dān",
-"to undertake; to assume (responsibility etc)"
+"chéng bàn",
+"to undertake; to accept a contract"
+],
+[
+"继承",
+5,
+"jì chéng",
+"to inherit; to succeed to (the throne etc); to carry on (a tradition etc)"
 ],
 [
 "承诺",
@@ -31,36 +43,42 @@
 "to promise; to undertake to do something; commitment"
 ],
 [
-"继承",
-6,
-"jì chéng",
-"to inherit; to succeed to (the throne etc); to carry on (a tradition etc)"
-],
-[
-"承办",
-6,
-"chéng bàn",
-"to undertake; to accept a contract"
+"秉承",
+7,
+"bǐng chéng",
+"to take orders; to receive commands; to carry on (a tradition)"
 ],
 [
 "承包",
-6,
+7,
 "chéng bāo",
 "to contract; to undertake (a job)"
+],
+[
+"承载",
+7,
+"chéng zài",
+"to bear the weight; to sustain"
+],
+[
+"传承",
+7,
+"chuán chéng",
+"to pass on (to future generations); passed on (from former times); a continued tradition; an inheritance"
 ]
 ],
 "extraWords": [
 [
-"传承",
-8.52,
-"chuán chéng",
-"to pass on (to future generations); passed on (from former times); a continued tradition; an inheritance"
+"承",
+16.31,
+"Chéng",
+"surname Cheng; Cheng (c. 2000 BC), third of the legendary Flame Emperors 炎帝[Yán dì] descended from Shennong 神农[Shén nóng] Farmer God"
 ],
 [
-"承载",
-8.14,
-"chéng zài",
-"to bear the weight; to sustain"
+"承",
+16.31,
+"chéng",
+"to bear; to carry; to hold; to continue; to undertake; to take charge; owing to; due to; to receive"
 ],
 [
 "轴承",

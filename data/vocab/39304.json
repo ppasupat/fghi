@@ -1,6 +1,6 @@
 {
 "char": "馈",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "offer food superior; send gift",
 "pron": "kuì"
@@ -8,17 +8,29 @@
 "words": [
 [
 "反馈",
-6,
+7,
 "fǎn kuì",
 "to send back information; feedback"
+],
+[
+"回馈",
+7,
+"huí kuì",
+"to repay a favor; to give back; feedback"
 ]
 ],
 "extraWords": [
 [
-"回馈",
-7.71,
-"huí kuì",
-"to repay a favor; to give back; feedback"
+"馈",
+5.87,
+"kuì",
+"to make an offering to the gods; variant of 馈[kuì]"
+],
+[
+"馈",
+5.87,
+"kuì",
+"food; to make a present"
 ]
 ],
 "strokes": [

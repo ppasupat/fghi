@@ -1,6 +1,6 @@
 {
 "char": "泌",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "to seep out, excrete",
 "pron": "bì, mì"
@@ -8,7 +8,7 @@
 "words": [
 [
 "分泌",
-6,
+7,
 "fēn mì",
 "to secrete; secretion"
 ]
@@ -19,6 +19,12 @@
 6.58,
 "nèi fēn mì",
 "endocrine (internal secretion, e.g. hormone)"
+],
+[
+"分泌物",
+3.84,
+"fēn mì wù",
+"secretion"
 ]
 ],
 "strokes": [

@@ -1,126 +1,252 @@
 {
 "char": "交",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "mix; intersect; exchange, communicate; deliver",
 "pron": "jiāo"
 },
 "words": [
 [
+"公交车",
+2,
+"gōng jiāo chē",
+"public transport vehicle; town bus; CL:辆[liàng]"
+],
+[
 "交",
-4,
+2,
 "jiāo",
-"to hand over; to deliver; to pay (money); to turn over; to make friends; to intersect (lines); variant of 跤[jiao1]"
+"to hand over; to deliver; to pay (money); to turn over; to make friends; to intersect (lines); variant of 跤[jiāo]"
 ],
-[
-"交流",
-4,
-"jiāo liú",
-"to exchange; exchange; communication; interaction; to have social contact (with sb)"
-],
-[
-"交通",
-4,
-"jiāo tōng",
-"to be connected; traffic; transportation; communications; liaison"
-],
-[
-"交换",
-5,
-"jiāo huàn",
-"to exchange; to swap; to switch (telecom); commutative (math); to commute"
-],
-[
-"交往",
-5,
-"jiāo wǎng",
-"to associate (with); to have contact (with); to hang out (with); to date; (interpersonal) relationship; association; contact"
-],
-[
-"打交道",
-5,
-"dǎ jiāo dào",
-"to come into contact with; to have dealings"
-],
-[
-"外交",
-5,
-"wài jiāo",
-"diplomacy; diplomatic; foreign affairs; CL:個|个[ge4]"
-],
-[
-"交际",
-5,
-"jiāo jì",
-"communication; social intercourse"
-],
-[
-"交易",
-6,
-"jiāo yì",
-"(business) transaction; business deal; CL:筆|笔[bi3]"
-],
-[
-"成交",
-6,
-"chéng jiāo",
-"to complete a contract; to reach a deal"
-],
-[
-"交叉",
-6,
-"jiāo chā",
-"to cross; to intersect; to overlap"
-],
-[
-"交代",
-6,
-"jiāo dài",
-"to hand over; to explain; to make clear; to brief (sb); to account for; to justify oneself; to confess; (coll.) to finish"
-],
-[
-"交涉",
-6,
-"jiāo shè",
-"to negotiate (with); to have dealings (with)"
-],
-[
-"杂交",
-6,
-"zá jiāo",
-"to hybridize; to crossbreed; promiscuity"
-],
-[
-"立交桥",
-6,
-"lì jiāo qiáo",
-"overpass; flyover"
-]
-],
-"extraWords": [
 [
 "交给",
-53.36,
+2,
 "jiāo gěi",
 "to give; to deliver; to hand over"
 ],
 [
+"交朋友",
+2,
+"jiāo péng you",
+"to make friends; (dialect) to start an affair with sb"
+],
+[
+"交通",
+2,
+"jiāo tōng",
+"to be connected; traffic; transportation; communications; liaison"
+],
+[
+"交费",
+3,
+"jiāo fèi",
+"to pay a fee"
+],
+[
 "交警",
-36.23,
+3,
 "jiāo jǐng",
 "traffic police; abbr. for 交通警察"
 ],
 [
+"交流",
+3,
+"jiāo liú",
+"to exchange; exchange; communication; interaction; to have social contact (with sb)"
+],
+[
+"交往",
+3,
+"jiāo wǎng",
+"to associate (with); to have contact (with); to hang out (with); to date; (interpersonal) relationship; association; contact"
+],
+[
+"交易",
+3,
+"jiāo yì",
+"(business) transaction; business deal; CL:笔[bǐ]"
+],
+[
+"外交",
+3,
+"wài jiāo",
+"diplomacy; diplomatic; foreign affairs; CL:个[gè]"
+],
+[
+"交换",
+4,
+"jiāo huàn",
+"to exchange; to swap; to switch (telecom); commutative (math); to commute"
+],
+[
+"交际",
+4,
+"jiāo jì",
+"communication; social intercourse"
+],
+[
+"外交官",
+4,
+"wài jiāo guān",
+"diplomat"
+],
+[
+"成交",
+5,
+"chéng jiāo",
+"to complete a contract; to reach a deal"
+],
+[
+"交代",
+5,
+"jiāo dài",
+"to hand over; to explain; to make clear; to brief (sb); to account for; to justify oneself; to confess; (coll.) to finish"
+],
+[
 "提交",
-31.86,
+6,
 "tí jiāo",
 "to submit (a report etc); to refer (a problem) to sb"
 ],
 [
+"打交道",
+7,
+"dǎ jiāo dào",
+"to come into contact with; to have dealings"
+],
+[
+"递交",
+7,
+"dì jiāo",
+"to present; to give; to hand over; to hand in; to lay before"
+],
+[
+"建交",
+7,
+"jiàn jiāo",
+"to establish diplomatic relations"
+],
+[
+"交叉",
+7,
+"jiāo chā",
+"to cross; to intersect; to overlap"
+],
+[
+"交锋",
+7,
+"jiāo fēng",
+"to cross swords; to have a confrontation (with sb)"
+],
+[
+"交付",
+7,
+"jiāo fù",
+"to hand over; to deliver"
+],
+[
+"交集",
+7,
+"jiāo jí",
+"intersection (symbol ∩) (set theory)"
+],
+[
+"交接",
+7,
+"jiāo jiē",
+"(of two things) to come into contact; to meet; to hand over to; to take over from; to associate with; to have friendly relations with; to have sexual intercourse"
+],
+[
+"交界",
+7,
+"jiāo jiè",
+"common boundary; common border"
+],
+[
+"交纳",
+7,
+"jiāo nà",
+"to pay (taxes or dues)"
+],
+[
+"交情",
+7,
+"jiāo qing",
+"friendship; friendly relations"
+],
+[
+"交涉",
+7,
+"jiāo shè",
+"to negotiate (with); to have dealings (with)"
+],
+[
 "交谈",
-20.42,
+7,
 "jiāo tán",
 "to discuss; to converse; chat; discussion"
+],
+[
+"交替",
+7,
+"jiāo tì",
+"to replace; alternately; in turn"
+],
+[
+"交头接耳",
+7,
+"jiāo tóu jiē ěr",
+"to whisper to one another's ear"
+],
+[
+"交响乐",
+7,
+"jiāo xiǎng yuè",
+"symphony"
+],
+[
+"立交桥",
+7,
+"lì jiāo qiáo",
+"overpass; flyover"
+],
+[
+"社交",
+7,
+"shè jiāo",
+"interaction; social contact"
+],
+[
+"移交",
+7,
+"yí jiāo",
+"to transfer; to hand over"
+],
+[
+"杂交",
+7,
+"zá jiāo",
+"to hybridize; to crossbreed; promiscuity"
+],
+[
+"转交",
+7,
+"zhuǎn jiāo",
+"to pass on to sb; to carry and give to sb else"
+],
+[
+"纵横交错",
+7,
+"zòng héng jiāo cuò",
+"criss-crossed (idiom)"
+]
+],
+"extraWords": [
+[
+"成交量",
+30.23,
+"???",
+"???"
 ],
 [
 "外交部",
@@ -141,58 +267,22 @@
 "working day (in banking, share trading)"
 ],
 [
-"社交",
-15.59,
-"shè jiāo",
-"interaction; social contact"
-],
-[
-"交付",
-10.97,
-"jiāo fù",
-"to hand over; to deliver"
-],
-[
-"交纳",
-9.94,
-"jiāo nà",
-"to pay (taxes or dues)"
-],
-[
-"移交",
-8.95,
-"yí jiāo",
-"to transfer; to hand over"
-],
-[
 "交会",
 8.88,
 "jiāo huì",
 "to encounter; to rendezvous; to converge; to meet (a payment)"
 ],
 [
-"递交",
-8.71,
-"dì jiāo",
-"to present; to give; to hand over; to hand in; to lay before"
-],
-[
-"交锋",
-8.11,
-"jiāo fēng",
-"to cross swords; to have a confrontation (with sb)"
-],
-[
-"交替",
-7.98,
-"jiāo tì",
-"to replace; alternately; in turn"
-],
-[
 "交出",
 7.96,
 "jiāo chū",
 "to hand over"
+],
+[
+"交通安全",
+6.95,
+"???",
+"???"
 ],
 [
 "交手",
@@ -204,7 +294,7 @@
 "交待",
 6.87,
 "jiāo dài",
-"variant of 交代[jiao1 dai4]"
+"variant of 交代[jiāo dài]"
 ],
 [
 "性交",
@@ -234,13 +324,7 @@
 "公交",
 5.93,
 "gōng jiāo",
-"public transportation; mass transit; abbr. for 公共交通[gong1 gong4 jiao1 tong1]"
-],
-[
-"交接",
-5.71,
-"jiāo jiē",
-"(of two things) to come into contact; to meet; to hand over to; to take over from; to associate with; to have friendly relations with; to have sexual intercourse"
+"public transportation; mass transit; abbr. for 公共交通[gōng gòng jiāo tōng]"
 ],
 [
 "外交部长",
@@ -267,10 +351,22 @@
 "Ministry of Transport; Transport Department"
 ],
 [
+"交易量",
+5.16,
+"???",
+"???"
+],
+[
 "交织",
 5.07,
 "jiāo zhī",
 "to interweave"
+],
+[
+"深交",
+5.07,
+"???",
+"???"
 ],
 [
 "交通工具",

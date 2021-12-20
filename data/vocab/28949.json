@@ -1,12 +1,32 @@
 {
 "char": "焕",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "shining",
 "pron": "huàn"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"焕发",
+7,
+"huàn fā",
+"to shine; to glow; to irradiate; to flash"
+],
+[
+"容光焕发",
+7,
+"róng guāng huàn fā",
+"face glowing (idiom); looking radiant; all smiles"
+]
+],
+"extraWords": [
+[
+"焕",
+3.16,
+"huàn",
+"brilliant; lustrous"
+]
+],
 "strokes": [
 "M 106 564 Q 116 498 114 433 Q 114 399 145 377 Q 160 367 171 387 Q 195 450 155 529 Q 143 559 126 576 Q 117 580 112 578 Q 105 574 106 564 Z",
 "M 297 508 Q 318 520 386 572 Q 402 585 421 594 Q 439 603 430 617 Q 418 630 397 643 Q 376 653 366 651 Q 356 650 359 639 Q 360 620 298 537 C 280 513 271 493 297 508 Z",

@@ -1,6 +1,6 @@
 {
 "char": "龄",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "age; years",
 "pron": "líng"
@@ -8,12 +8,24 @@
 "words": [
 [
 "年龄",
-4,
+5,
 "nián líng",
-"(a person's) age; CL:把[ba3],個|个[ge4]"
+"(a person's) age; CL:把[bǎ],个[gè]"
+],
+[
+"高龄",
+7,
+"gāo líng",
+"elderly"
 ]
 ],
 "extraWords": [
+[
+"龄",
+18.91,
+"líng",
+"age; length of experience, membership etc"
+],
 [
 "保龄球",
 9.3,
@@ -21,10 +33,10 @@
 "ten-pin bowling (loanword); bowling ball"
 ],
 [
-"高龄",
-6.32,
-"gāo líng",
-"elderly"
+"年龄段",
+6.39,
+"???",
+"???"
 ]
 ],
 "strokes": [

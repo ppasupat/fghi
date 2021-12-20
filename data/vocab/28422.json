@@ -1,19 +1,25 @@
 {
 "char": "漆",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "varnish, lacquer, paint",
 "pron": "qī"
 },
 "words": [
 [
-"油漆",
-6,
-"yóu qī",
-"oil paints; lacquer; to paint; CL:層|层[ceng2]"
+"漆",
+7,
+"qī",
+"paint; lacquer; CL:道[dào]; to paint (furniture, walls etc)"
 ]
 ],
 "extraWords": [
+[
+"油漆",
+7.18,
+"yóu qī",
+"oil paints; lacquer; to paint; CL:层[céng]"
+],
 [
 "漆黑",
 5.39,

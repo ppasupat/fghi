@@ -1,43 +1,61 @@
 {
 "char": "罪",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "crime, sin, vice; evil; hardship",
 "pron": "zuì"
 },
 "words": [
 [
-"罪犯",
+"犯罪",
 6,
+"fàn zuì",
+"to commit a crime; crime; offense"
+],
+[
+"罪",
+6,
+"zuì",
+"guilt; crime; fault; blame; sin"
+],
+[
+"罪",
+6,
+"zuì",
+"variant of 罪[zuì], crime"
+],
+[
+"罪恶",
+6,
+"zuì è",
+"crime; evil; sin"
+],
+[
+"得罪",
+7,
+"dé zuì",
+"to commit an offense; to violate the law; excuse me! (formal); see also 得罪[dé zui]"
+],
+[
+"得罪",
+7,
+"dé zui",
+"to offend sb; to make a faux pas; a faux pas; see also 得罪[dé zuì]"
+],
+[
+"罪犯",
+7,
 "zuì fàn",
 "criminal"
 ],
 [
-"得罪",
-6,
-"dé zuì",
-"to commit an offense; to violate the law; excuse me! (formal); see also 得罪[de2 zui5]"
-],
-[
-"得罪",
-6,
-"dé zui",
-"to offend sb; to make a faux pas; a faux pas; see also 得罪[de2 zui4]"
-],
-[
-"受罪",
-6,
-"shòu zuì",
-"to endure; to suffer; hardships; torments; a hard time; a nuisance"
+"罪魁祸首",
+7,
+"zuì kuí huò shǒu",
+"criminal ringleader, main offender (idiom); main culprit; fig. main cause of a disaster"
 ]
 ],
 "extraWords": [
-[
-"犯罪",
-103.41,
-"fàn zuì",
-"to commit a crime; crime; offense"
-],
 [
 "罪名",
 23.91,
@@ -55,12 +73,6 @@
 17.5,
 "zuì xíng",
 "crime; offense"
-],
-[
-"罪恶",
-17.47,
-"zuì è",
-"crime; evil; sin"
 ],
 [
 "认罪",

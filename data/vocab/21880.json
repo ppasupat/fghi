@@ -1,24 +1,30 @@
 {
 "char": "啸",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "roar, howl, scream; whistle",
 "pron": "xiào"
 },
 "words": [
 [
-"呼啸",
-6,
-"hū xiào",
-"to whistle; to scream; to whiz"
+"海啸",
+7,
+"hǎi xiào",
+"tsunami"
 ]
 ],
 "extraWords": [
 [
-"海啸",
-10.28,
-"hǎi xiào",
-"tsunami"
+"呼啸",
+5.08,
+"hū xiào",
+"to whistle; to scream; to whiz"
+],
+[
+"啸",
+5.05,
+"xiào",
+"to hiss; to whistle"
 ]
 ],
 "strokes": [

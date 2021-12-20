@@ -1,11 +1,17 @@
 {
 "char": "偿",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "repay, recompense; restitution",
 "pron": "cháng"
 },
 "words": [
+[
+"补偿",
+5,
+"bǔ cháng",
+"to compensate; to make up"
+],
 [
 "赔偿",
 5,
@@ -13,31 +19,37 @@
 "to compensate"
 ],
 [
-"补偿",
-6,
-"bǔ cháng",
-"to compensate; to make up"
-],
-[
 "偿还",
-6,
+7,
 "cháng huán",
 "to repay; to reimburse"
 ],
 [
-"无偿",
-6,
-"wú cháng",
-"free; no charge; at no cost"
-],
-[
 "得不偿失",
-6,
+7,
 "dé bù cháng shī",
 "the gains do not make up for the losses (idiom)"
+],
+[
+"如愿以偿",
+7,
+"rú yuàn yǐ cháng",
+"to have one's wish fulfilled"
+],
+[
+"无偿",
+7,
+"wú cháng",
+"free; no charge; at no cost"
 ]
 ],
 "extraWords": [
+[
+"偿",
+6.24,
+"cháng",
+"to repay; to compensate for; to recompense; to fulfill (hopes etc)"
+],
 [
 "有偿",
 5.59,

@@ -1,6 +1,6 @@
 {
 "char": "毒",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "poison, venom; poisonous",
 "pron": "dú"
@@ -13,31 +13,49 @@
 "virus"
 ],
 [
+"毒",
+5,
+"dú",
+"poison; to poison; poisonous; malicious; cruel; fierce; narcotics"
+],
+[
+"杀毒",
+5,
+"shā dú",
+"to disinfect; (computing) to destroy a computer virus"
+],
+[
+"消毒",
+5,
+"xiāo dú",
+"to disinfect; to sterilize"
+],
+[
+"有毒",
+5,
+"yǒu dú",
+"poisonous"
+],
+[
+"中毒",
+5,
+"zhòng dú",
+"to be poisoned; poisoning"
+],
+[
 "毒品",
 6,
 "dú pǐn",
 "drugs; narcotics; poison"
 ],
 [
-"消毒",
+"吸毒",
 6,
-"xiāo dú",
-"to disinfect; to sterilize"
+"xī dú",
+"to take drugs"
 ]
 ],
 "extraWords": [
-[
-"吸毒",
-29.54,
-"xī dú",
-"to take drugs"
-],
-[
-"中毒",
-22.38,
-"zhòng dú",
-"to be poisoned; poisoning"
-],
 [
 "毒气",
 16.78,
@@ -67,12 +85,6 @@
 9.7,
 "dú xìng",
 "toxicity"
-],
-[
-"有毒",
-9.1,
-"yǒu dú",
-"poisonous"
 ],
 [
 "戒毒",
@@ -121,6 +133,12 @@
 5.51,
 "jī dú",
 "to counter narcotics trafficking; drug enforcement"
+],
+[
+"毒死",
+5.16,
+"???",
+"???"
 ]
 ],
 "strokes": [

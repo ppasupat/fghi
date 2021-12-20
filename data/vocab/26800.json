@@ -1,6 +1,6 @@
 {
 "char": "械",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "weapons; implements, instruments",
 "pron": "xiè"
@@ -11,14 +11,20 @@
 6,
 "jī xiè",
 "machine; machinery; mechanical; (old) cunning; scheming"
+],
+[
+"器械",
+7,
+"qì xiè",
+"apparatus; instrument; equipment; weapon"
 ]
 ],
 "extraWords": [
 [
-"器械",
-10.76,
-"qì xiè",
-"apparatus; instrument; equipment; weapon"
+"械",
+9.57,
+"xiè",
+"appliance; tool; weapon; shackles; also pr. [jie4]"
 ],
 [
 "机械化",

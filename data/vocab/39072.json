@@ -1,6 +1,6 @@
 {
 "char": "颠",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "top, peak, summit; upset",
 "pron": "diān"
@@ -8,23 +8,23 @@
 "words": [
 [
 "颠倒",
-6,
+7,
 "diān dǎo",
 "to turn upside down; to reverse; back to front; confused; deranged; crazy"
 ],
 [
-"颠簸",
-6,
-"diān bǒ",
-"to shake; to jolt; to bump"
+"颠覆",
+7,
+"diān fù",
+"to topple (i.e. knock over); to capsize; fig. to overturn (a regime, by plotting or subversion); to undermine; to subvert"
 ]
 ],
 "extraWords": [
 [
-"颠覆",
-7.84,
-"diān fù",
-"to topple (i.e. knock over); to capsize; fig. to overturn (a regime, by plotting or subversion); to undermine; to subvert"
+"颠",
+8.5,
+"diān",
+"top (of the head); apex; to fall forwards; inverted; to jolt"
 ]
 ],
 "strokes": [

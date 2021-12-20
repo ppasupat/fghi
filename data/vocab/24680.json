@@ -1,6 +1,6 @@
 {
 "char": "恨",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "hatred, dislike; resent, hate",
 "pron": "hèn"
@@ -13,25 +13,31 @@
 "to hate; to regret"
 ],
 [
+"仇恨",
+7,
+"chóu hèn",
+"to hate; hatred; enmity; hostility"
+],
+[
 "恨不得",
-6,
+7,
 "hèn bu de",
 "wishing one could do sth; to hate to be unable; itching to do sth"
 ],
 [
 "悔恨",
-6,
+7,
 "huǐ hèn",
 "remorse; repentance"
+],
+[
+"怨恨",
+7,
+"yuàn hèn",
+"to resent; to harbor a grudge against; to loathe; resentment; rancor"
 ]
 ],
 "extraWords": [
-[
-"仇恨",
-11.18,
-"chóu hèn",
-"to hate; hatred; enmity; hostility"
-],
 [
 "憎恨",
 10.14,
@@ -39,16 +45,16 @@
 "to detest; hatred"
 ],
 [
-"怨恨",
-6.41,
-"yuàn hèn",
-"to resent; to harbor a grudge against; to loathe; resentment; rancor"
-],
-[
 "痛恨",
 6.29,
 "tòng hèn",
 "to detest; to loathe; to abhor"
+],
+[
+"恨死",
+5.72,
+"???",
+"???"
 ]
 ],
 "strokes": [

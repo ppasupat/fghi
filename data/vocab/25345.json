@@ -1,73 +1,103 @@
 {
 "char": "持",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "sustain, support; hold, grasp",
 "pron": "chí"
 },
 "words": [
 [
-"支持",
-4,
-"zhī chí",
-"to be in favor of; to support; to back; support; backing; to stand by; CL:個|个[ge4]"
-],
-[
-"坚持",
-4,
-"jiān chí",
-"to persevere with; to persist in; to insist on"
-],
-[
 "保持",
-5,
+3,
 "bǎo chí",
 "to keep; to maintain; to hold; to preserve"
 ],
 [
 "持续",
-5,
+3,
 "chí xù",
 "to continue; to persist; to last; sustainable; preservation"
 ],
 [
+"坚持",
+3,
+"jiān chí",
+"to persevere with; to persist in; to insist on"
+],
+[
+"支持",
+3,
+"zhī chí",
+"to be in favor of; to support; to back; support; backing; to stand by; CL:个[gè]"
+],
+[
 "主持",
-5,
+3,
 "zhǔ chí",
 "to take charge of; to manage or direct; to preside over; to uphold; to stand for (justice etc); to host (a TV or radio program etc); (TV) anchor"
 ],
 [
 "维持",
-6,
+4,
 "wéi chí",
 "to keep; to maintain; to preserve"
 ],
 [
-"持久",
-6,
-"chí jiǔ",
-"lasting; enduring; persistent; permanent; protracted; endurance; persistence; to last long"
-]
-],
-"extraWords": [
-[
-"主持人",
-69.06,
-"zhǔ chí rén",
-"TV or radio presenter; host; anchor"
-],
-[
 "持有",
-54.71,
+6,
 "chí yǒu",
 "to hold (passport, views etc)"
 ],
 [
+"主持人",
+6,
+"zhǔ chí rén",
+"TV or radio presenter; host; anchor"
+],
+[
+"持",
+7,
+"chí",
+"to hold; to grasp; to support; to maintain; to persevere; to manage; to run (i.e. administer); to control"
+],
+[
+"持久",
+7,
+"chí jiǔ",
+"lasting; enduring; persistent; permanent; protracted; endurance; persistence; to last long"
+],
+[
+"持之以恒",
+7,
+"chí zhī yǐ héng",
+"to pursue unremittingly (idiom); to persevere"
+],
+[
 "扶持",
-23.16,
+7,
 "fú chí",
 "to help; to assist"
 ],
+[
+"坚持不懈",
+7,
+"jiān chí bù xiè",
+"to persevere unremittingly (idiom); to keep going until the end"
+],
+[
+"劫持",
+7,
+"jié chí",
+"to kidnap; to hijack; to abduct; to hold under duress"
+],
+[
+"挟持",
+7,
+"xié chí",
+"to seize"
+]
+],
+"extraWords": [
 [
 "持股",
 19.02,
@@ -81,22 +111,46 @@
 "to stay level (of exchange rate, market share etc); fair; unbiased"
 ],
 [
+"大力支持",
+10.05,
+"???",
+"???"
+],
+[
 "持有人",
 9.84,
 "chí yǒu rén",
 "holder"
 ],
 [
-"劫持",
-8.35,
-"jié chí",
-"to kidnap; to hijack; to abduct; to hold under duress"
+"持枪",
+8.05,
+"???",
+"???"
+],
+[
+"减持",
+7.63,
+"???",
+"???"
+],
+[
+"增持",
+7.02,
+"???",
+"???"
 ],
 [
 "支持者",
 6.68,
 "zhī chí zhě",
 "supporter"
+],
+[
+"持续性",
+5.26,
+"???",
+"???"
 ]
 ],
 "strokes": [

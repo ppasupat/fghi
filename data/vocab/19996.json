@@ -1,11 +1,29 @@
 {
 "char": "东",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "east, eastern, eastward",
 "pron": "dōng"
 },
 "words": [
+[
+"东",
+1,
+"Dōng",
+"surname Dong"
+],
+[
+"东",
+1,
+"dōng",
+"east; host (i.e. sitting on east side of guest); landlord"
+],
+[
+"东边",
+1,
+"dōng bian",
+"east; east side; eastern part; to the east of"
+],
 [
 "东西",
 1,
@@ -16,23 +34,47 @@
 "东西",
 1,
 "dōng xi",
-"thing; stuff; person; CL:個|个[ge4],件[jian4]"
+"thing; stuff; person; CL:个[gè],件[jiàn]"
 ],
 [
-"东",
-3,
-"Dōng",
-"surname Dong"
+"东北",
+2,
+"Dōng běi",
+"Northeast China; Manchuria"
 ],
 [
-"东",
+"东北",
+2,
+"dōng běi",
+"northeast"
+],
+[
+"东方",
+2,
+"Dōng fāng",
+"the East; the Orient; two-character surname Dongfang"
+],
+[
+"东方",
+2,
+"dōng fāng",
+"east"
+],
+[
+"东南",
+2,
+"dōng nán",
+"southeast"
+],
+[
+"东部",
 3,
-"dōng",
-"east; host (i.e. sitting on east side of guest); landlord"
+"dōng bù",
+"the east; eastern part"
 ],
 [
 "房东",
-4,
+3,
 "fáng dōng",
 "landlord"
 ],
@@ -43,16 +85,22 @@
 "shareholder; stockholder"
 ],
 [
-"东张西望",
-6,
-"dōng zhāng xī wàng",
-"to look in all directions (idiom); to glance around"
+"东奔西走",
+7,
+"dōng bēn xī zǒu",
+"to run this way and that (idiom); to rush about busily; to bustle about; to hopscotch; also 东跑西颠[dōng pǎo xī diān]"
 ],
 [
 "东道主",
-6,
+7,
 "dōng dào zhǔ",
 "host; official host (e.g. venue for games or a conference)"
+],
+[
+"东张西望",
+7,
+"dōng zhāng xī wàng",
+"to look in all directions (idiom); to glance around"
 ]
 ],
 "extraWords": [
@@ -60,37 +108,13 @@
 "广东",
 78.66,
 "Guǎng dōng",
-"Guangdong province (Kwangtung) in south China, short name 粵|粤[Yue4], capital Guangzhou 廣州|广州"
+"Guangdong province (Kwangtung) in south China, short name 粤[Yuè], capital Guangzhou 廣州|广州"
 ],
 [
 "山东",
 54.95,
 "Shān dōng",
-"Shandong, province in northeast China, short name 魯|鲁[Lu3], capital Jinan 濟南|济南[Ji3 nan2]"
-],
-[
-"东方",
-48.51,
-"Dōng fāng",
-"the East; the Orient; two-character surname Dongfang"
-],
-[
-"东方",
-48.51,
-"dōng fāng",
-"east"
-],
-[
-"东北",
-37.36,
-"Dōng běi",
-"Northeast China; Manchuria"
-],
-[
-"东北",
-37.36,
-"dōng běi",
-"northeast"
+"Shandong, province in northeast China, short name 鲁[Lǔ], capital Jinan 济南[Jǐ nán]"
 ],
 [
 "毛泽东",
@@ -99,16 +123,10 @@
 "Mao Zedong (1893-1976), Chinese communist leader"
 ],
 [
-"东部",
-30.37,
-"dōng bù",
-"the east; eastern part"
-],
-[
 "广东省",
 26.69,
 "Guǎng dōng Shěng",
-"Guangdong Province (Kwangtung) in south China, short name 粵|粤[Yue4], capital Guangzhou 廣州|广州[Guang3 zhou1]"
+"Guangdong Province (Kwangtung) in south China, short name 粤[Yuè], capital Guangzhou 广州[Guǎng zhōu]"
 ],
 [
 "股东大会",
@@ -129,6 +147,12 @@
 "Mao Zedong Thought; Maoism"
 ],
 [
+"东风",
+18.34,
+"???",
+"???"
+],
+[
 "中东",
 16.28,
 "Zhōng dōng",
@@ -138,25 +162,19 @@
 "山东省",
 14.94,
 "Shān dōng Shěng",
-"Shandong, province in northeast China, short name 魯|鲁[Lu3], capital Jinan 濟南|济南[Ji3 nan2]"
+"Shandong, province in northeast China, short name 鲁[Lǔ], capital Jinan 济南[Jǐ nán]"
 ],
 [
 "东莞",
 14.63,
 "Dōng guǎn",
-"Dongguan prefecture-level city in Guangdong 廣東省|广东省[Guang3 dong1 Sheng3]"
+"Dongguan prefecture-level city in Guangdong 广东省[Guǎng dōng Shěng]"
 ],
 [
 "东南亚",
 12.88,
 "Dōng nán yà",
 "Southeast Asia"
-],
-[
-"东南",
-12.83,
-"dōng nán",
-"southeast"
 ],
 [
 "东亚",
@@ -168,13 +186,19 @@
 "东盟",
 10.52,
 "Dōng Méng",
-"ASEAN; abbr. for 東南亞國家聯盟|东南亚国家联盟[Dong1 nan2 ya4 Guo2 jia1 Lian2 meng2]"
+"ASEAN; abbr. for 东南亚国家联盟[Dōng nán yà Guó jiā Lián méng]"
 ],
 [
 "东海",
 10.12,
 "Dōng Hǎi",
 "East China Sea; East Sea (Chinese mythology and ancient geography)"
+],
+[
+"吃东西",
+10.0,
+"???",
+"???"
 ],
 [
 "浦东",
@@ -199,6 +223,12 @@
 5.78,
 "Yuǎn dōng",
 "Far East (loanword)"
+],
+[
+"广东队",
+5.24,
+"???",
+"???"
 ]
 ],
 "strokes": [

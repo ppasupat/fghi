@@ -1,30 +1,42 @@
 {
 "char": "扮",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "dress up; dress up as",
 "pron": "bàn"
 },
 "words": [
 [
+"扮演",
+5,
+"bàn yǎn",
+"to play the role of; to act"
+],
+[
 "打扮",
-4,
+5,
 "dǎ ban",
 "to decorate; to dress; to make up; to adorn; manner of dressing; style of dress"
 ],
 [
-"扮演",
-6,
-"bàn yǎn",
-"to play the role of; to act"
+"扮",
+7,
+"bàn",
+"to disguise oneself as; to dress up; to play (a role); to put on (an expression)"
+],
+[
+"装扮",
+7,
+"zhuāng bàn",
+"to decorate; to adorn; to dress up; to disguise oneself"
 ]
 ],
 "extraWords": [
 [
-"装扮",
-9.42,
-"zhuāng bàn",
-"to decorate; to adorn; to dress up; to disguise oneself"
+"扮成",
+5.57,
+"???",
+"???"
 ]
 ],
 "strokes": [

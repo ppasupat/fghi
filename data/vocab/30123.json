@@ -1,25 +1,37 @@
 {
 "char": "疫",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "epidemic, plague, pestilence",
 "pron": "yì"
 },
 "words": [
 [
+"防疫",
+7,
+"fáng yì",
+"disease prevention; protection against epidemic"
+],
+[
 "免疫",
-6,
+7,
 "miǎn yì",
 "immunity (to disease)"
+],
+[
+"瘟疫",
+7,
+"wēn yì",
+"epidemic; plague; pestilence; diseased"
+],
+[
+"疫苗",
+7,
+"yì miáo",
+"vaccine"
 ]
 ],
 "extraWords": [
-[
-"疫苗",
-23.56,
-"yì miáo",
-"vaccine"
-],
 [
 "疫情",
 17.11,
@@ -31,18 +43,6 @@
 12.4,
 "jiǎn yì",
 "quarantine"
-],
-[
-"瘟疫",
-7.06,
-"wēn yì",
-"epidemic; plague; pestilence; diseased"
-],
-[
-"防疫",
-6.9,
-"fáng yì",
-"disease prevention; protection against epidemic"
 ],
 [
 "免疫力",

@@ -1,12 +1,31 @@
 {
 "char": "笙",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "small gourd-shaped musical instrument",
 "pron": "shēng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"笙",
+3.58,
+"shēng",
+"sheng, a free reed wind instrument with vertical bamboo pipes"
+],
+[
+"芦笙",
+0.69,
+"lú shēng",
+"reed-pipe wind instrument"
+],
+[
+"杜月笙",
+0.65,
+"Dù Yuè shēng",
+"Du Yuesheng (1888-1951), Shanghai secret-society leader, banker, industrialist"
+]
+],
 "strokes": [
 "M 342 690 Q 358 718 375 739 Q 385 752 371 766 Q 326 800 303 795 Q 293 794 294 778 Q 306 696 220 589 Q 198 567 173 536 Q 166 521 180 526 Q 196 527 219 545 Q 289 599 328 666 Q 328 667 329 669 L 342 690 Z",
 "M 329 669 L 330 669 Q 364 653 434 665 Q 461 671 492 676 Q 508 680 512 682 Q 519 689 515 697 Q 508 707 481 714 Q 466 717 391 698 Q 367 694 342 690 C 312 685 301 679 329 669 Z",

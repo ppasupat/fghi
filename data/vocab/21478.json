@@ -1,6 +1,6 @@
 {
 "char": "另",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "another, separate, other",
 "pron": "lìng"
@@ -8,17 +8,29 @@
 "words": [
 [
 "另外",
-4,
+3,
 "lìng wài",
 "additional; in addition; besides; separate; other; moreover; furthermore"
+],
+[
+"另一方面",
+3,
+"lìng yī fāng miàn",
+"on the other hand; another aspect"
+],
+[
+"另",
+6,
+"lìng",
+"other; another; separate; separately"
 ]
 ],
 "extraWords": [
 [
-"另一方面",
-47.91,
-"lìng yī fāng miàn",
-"on the other hand; another aspect"
+"另一个",
+51.3,
+"???",
+"???"
 ],
 [
 "另类",

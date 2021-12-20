@@ -1,6 +1,6 @@
 {
 "char": "航",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "sail; navigate; ship, boat",
 "pron": "háng"
@@ -14,35 +14,65 @@
 ],
 [
 "航空",
-6,
+4,
 "háng kōng",
 "aviation"
 ],
 [
-"航行",
+"宇航员",
 6,
-"háng xíng",
-"to sail; to fly; to navigate"
+"yǔ háng yuán",
+"astronaut"
 ],
 [
 "导航",
-6,
+7,
 "dǎo háng",
 "navigation"
 ],
 [
+"航海",
+7,
+"háng hǎi",
+"to sail the seas; maritime navigation; voyage"
+],
+[
 "航天",
-6,
+7,
 "háng tiān",
 "space flight"
+],
+[
+"航天员",
+7,
+"háng tiān yuán",
+"astronaut"
+],
+[
+"航行",
+7,
+"háng xíng",
+"to sail; to fly; to navigate"
+],
+[
+"航运",
+7,
+"háng yùn",
+"shipping; transport"
 ]
 ],
 "extraWords": [
 [
+"航",
+41.25,
+"háng",
+"boat; ship; craft; to navigate; to sail; to fly"
+],
+[
 "航空公司",
 15.85,
 "háng kōng gōng sī",
-"airline; CL:家[jia1]"
+"airline; CL:家[jiā]"
 ],
 [
 "航线",
@@ -57,34 +87,10 @@
 "civil aviation"
 ],
 [
-"航天员",
-7.77,
-"háng tiān yuán",
-"astronaut"
-],
-[
-"宇航员",
-6.41,
-"yǔ háng yuán",
-"astronaut"
-],
-[
 "航天飞机",
 6.37,
 "háng tiān fēi jī",
 "space shuttle"
-],
-[
-"航运",
-5.94,
-"háng yùn",
-"shipping; transport"
-],
-[
-"航海",
-5.32,
-"háng hǎi",
-"to sail the seas; maritime navigation; voyage"
 ]
 ],
 "strokes": [

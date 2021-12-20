@@ -1,6 +1,6 @@
 {
 "char": "功",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "achievement, merit, good result",
 "pron": "gōng"
@@ -8,57 +8,105 @@
 "words": [
 [
 "成功",
-4,
+3,
 "Chéng gōng",
-"Chenggong or Chengkung town in Taitung County 臺東縣|台东县[Tai2 dong1 Xian4], southeast Taiwan"
+"Chenggong or Chengkung town in Taitung County 台东县[Tái dōng Xiàn], southeast Taiwan"
 ],
 [
 "成功",
-4,
+3,
 "chéng gōng",
-"success; to succeed; CL:次[ci4],個|个[ge4]"
+"success; to succeed; CL:次[cì],个[gè]"
 ],
 [
 "功夫",
-4,
+3,
 "gōng fu",
 "skill; art; kung fu; labor; effort"
 ],
 [
+"功课",
+3,
+"gōng kè",
+"homework; assignment; task; classwork; lesson; study; CL:门[mén]"
+],
+[
 "功能",
-5,
+3,
 "gōng néng",
 "function; capability"
 ],
 [
-"用功",
-5,
-"yòng gōng",
-"diligent; industrious (in one's studies); to study hard; to make great effort"
+"多功能",
+7,
+"duō gōng néng",
+"multi-functional; multi-function"
+],
+[
+"功",
+7,
+"gōng",
+"meritorious deed or service; achievement; result; service; accomplishment; work (physics)"
+],
+[
+"功臣",
+7,
+"gōng chén",
+"minister who has given outstanding service"
+],
+[
+"功底",
+7,
+"gōng dǐ",
+"training in the basic skills; knowledge of the fundamentals"
 ],
 [
 "功劳",
-6,
+7,
 "gōng láo",
 "contribution; meritorious service; credit"
 ],
 [
+"功力",
+7,
+"gōng lì",
+"merit; efficacy; competence; skill; power"
+],
+[
+"功率",
+7,
+"gōng lǜ",
+"rate of work; power (output)"
+],
+[
 "功效",
-6,
+7,
 "gōng xiào",
 "efficacy"
 ],
 [
-"急功近利",
-6,
-"jí gōng jìn lì",
-"seeking instant benefit (idiom); shortsighted vision, looking only for fast return"
+"基本功",
+7,
+"jī běn gōng",
+"basic skills; fundamentals"
 ],
 [
-"气功",
-6,
-"qì gōng",
-"qigong, a system of deep breathing exercises"
+"立功",
+7,
+"lì gōng",
+"to render meritorious service (one the three imperishables 三不朽[sān bù xiǔ]); to make worthy contributions; to distinguish oneself"
+],
+[
+"下功夫",
+7,
+"xià gōng fu",
+"see 下工夫[xià gōng fu]"
+],
+[
+"用功",
+7,
+"yòng gōng",
+"diligent; industrious (in one's studies); to study hard; to make great effort"
 ]
 ],
 "extraWords": [
@@ -66,7 +114,7 @@
 "武功",
 16.71,
 "Wǔ gōng",
-"Wugong County in Xianyang 咸陽|咸阳[Xian2 yang2], Shaanxi"
+"Wugong County in Xianyang 咸阳[Xián yáng], Shaanxi"
 ],
 [
 "武功",
@@ -75,34 +123,10 @@
 "martial art; military accomplishments; (Peking opera) martial arts feats"
 ],
 [
-"功率",
-12.14,
-"gōng lǜ",
-"rate of work; power (output)"
-],
-[
-"功力",
-11.62,
-"gōng lì",
-"merit; efficacy; competence; skill; power"
-],
-[
-"多功能",
-10.07,
-"duō gōng néng",
-"multi-functional; multi-function"
-],
-[
-"功课",
-8.14,
-"gōng kè",
-"homework; assignment; task; classwork; lesson; study; CL:門|门[men2]"
-],
-[
-"下功夫",
-6.37,
-"xià gōng fu",
-"see 下工夫[xia4 gong1 fu5]"
+"成功率",
+6.86,
+"???",
+"???"
 ]
 ],
 "strokes": [

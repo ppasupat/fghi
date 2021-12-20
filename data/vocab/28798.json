@@ -1,49 +1,79 @@
 {
 "char": "灾",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "calamity, disaster, catastrophe",
 "pron": "zāi"
 },
 "words": [
 [
-"灾害",
-5,
-"zāi hài",
-"calamity; disaster; CL:個|个[ge4]"
-],
-[
-"灾难",
-6,
-"zāi nàn",
-"disaster; catastrophe"
-]
-],
-"extraWords": [
-[
 "火灾",
-21.92,
+5,
 "huǒ zāi",
 "serious fire (in a city or a forest etc)"
 ],
 [
 "救灾",
-11.62,
+5,
 "jiù zāi",
 "to relieve disaster; to help disaster victims"
 ],
 [
+"受灾",
+5,
+"shòu zāi",
+"disaster-stricken; to be hit by a natural calamity"
+],
+[
+"水灾",
+5,
+"shuǐ zāi",
+"flood; flood damage"
+],
+[
+"灾",
+5,
+"zāi",
+"disaster; calamity"
+],
+[
+"灾",
+5,
+"zāi",
+"variant of 灾[zāi]"
+],
+[
+"灾",
+5,
+"zāi",
+"old variant of 灾[zāi]"
+],
+[
+"灾害",
+5,
+"zāi hài",
+"calamity; disaster; CL:个[gè]"
+],
+[
+"灾难",
+5,
+"zāi nàn",
+"disaster; catastrophe"
+],
+[
 "灾区",
-10.63,
+5,
 "zāi qū",
 "disaster area; stricken region"
 ],
 [
-"受灾",
-10.61,
-"shòu zāi",
-"disaster-stricken; to be hit by a natural calamity"
+"旱灾",
+7,
+"hàn zāi",
+"drought"
+]
 ],
+"extraWords": [
 [
 "自然灾害",
 6.18,

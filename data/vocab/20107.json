@@ -1,216 +1,384 @@
 {
 "char": "事",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "affair, matter, business; to serve; accident, incident",
 "pron": "shì"
 },
 "words": [
 [
-"事情",
+"没事儿",
+1,
+"méi shì r5",
+"to have spare time; free from work; it's not important; it's nothing; never mind"
+],
+[
+"事",
+1,
+"shì",
+"matter; thing; item; work; affair; CL:件[jiàn],桩[zhuāng],回[huí]"
+],
+[
+"故事",
 2,
-"shì qing",
-"affair; matter; thing; business; CL:件[jian4],樁|桩[zhuang1]"
-],
-[
-"故事",
-3,
 "gù shì",
-"old practice; CL:個|个[ge4]"
+"old practice; CL:个[gè]"
 ],
 [
 "故事",
-3,
+2,
 "gù shi",
 "narrative; story; tale"
 ],
 [
-"同事",
-3,
-"tóng shì",
-"colleague; co-worker; CL:個|个[ge4],位[wei4]"
-],
-[
-"事实",
-5,
-"shì shí",
-"fact; CL:個|个[ge4]"
-],
-[
-"事物",
-5,
-"shì wù",
-"thing; object; CL:個|个[ge4]"
-],
-[
-"军事",
-5,
-"jūn shì",
-"military affairs; military matters; military"
-],
-[
-"事先",
-5,
-"shì xiān",
-"in advance; before the event; beforehand; prior"
-],
-[
-"从事",
-5,
-"cóng shì",
-"to go for; to engage in; to undertake; to deal with; to handle; to do"
-],
-[
-"人事",
-5,
-"rén shì",
-"personnel; human resources; human affairs; ways of the world; (euphemism) sexuality; the facts of life"
-],
-[
-"事件",
-6,
-"shì jiàn",
-"event; happening; incident; CL:個|个[ge4]"
-],
-[
-"事业",
-6,
-"shì yè",
-"undertaking; project; activity; (charitable, political or revolutionary) cause; publicly funded institution, enterprise or foundation; career; occupation; CL:個|个[ge4]"
-],
-[
-"事故",
-6,
-"shì gù",
-"accident; CL:樁|桩[zhuang1],起[qi3],次[ci4]"
-],
-[
-"当事人",
-6,
-"dāng shì rén",
-"persons involved or implicated; party (to an affair)"
-],
-[
-"本事",
-6,
-"běn shì",
-"source material; original story"
-],
-[
-"本事",
-6,
-"běn shi",
-"ability; skill"
-],
-[
-"事务",
-6,
-"shì wù",
-"(political, economic etc) affairs; work; transaction (as in a computer database)"
-],
-[
-"刑事",
-6,
-"xíng shì",
-"criminal; penal"
-],
-[
-"往事",
-6,
-"wǎng shì",
-"past events; former happenings"
-],
-[
-"事态",
-6,
-"shì tài",
-"situation; existing state of affairs"
-],
-[
-"失事",
-6,
-"shī shì",
-"(of a plane, ship etc) to have an accident (plane crash, shipwreck, vehicle collision etc); to mess things up"
-],
-[
-"领事馆",
-6,
-"lǐng shì guǎn",
-"consulate"
-],
-[
-"事迹",
-6,
-"shì jì",
-"deed; past achievement; important event of the past"
-],
-[
-"事项",
-6,
-"shì xiàng",
-"matter; item"
-],
-[
-"启事",
-6,
-"qǐ shì",
-"announcement (written, on billboard, letter, newspaper or website); to post information; a notice"
-],
-[
-"董事长",
-6,
-"dǒng shì zhǎng",
-"chairman of the board; chairman"
-],
-[
-"时事",
-6,
-"shí shì",
-"current trends; the present situation; how things are going"
-],
-[
-"实事求是",
-6,
-"shí shì qiú shì",
-"to seek truth from facts (idiom); to be practical and realistic"
-]
-],
-"extraWords": [
-[
-"事实上",
-162.79,
-"shì shí shàng",
-"in fact; in reality; actually; as a matter of fact; de facto; ipso facto"
-],
-[
-"事儿",
-104.0,
-"shì r5",
-"one's employment; business; matter that needs to be settled; (northern dialect) (of a person) demanding; trying; troublesome; erhua variant of 事[shi4]; CL:件[jian4],樁|桩[zhuang1]"
-],
-[
 "好事",
-58.04,
+2,
 "hǎo shì",
 "good action, deed, thing or work (also sarcastic, \"a fine thing indeed\"); charity; happy occasion; Daoist or Buddhist ceremony for the souls of the dead"
 ],
 [
 "好事",
-58.04,
+2,
 "hào shì",
 "to be meddlesome"
 ],
 [
+"事情",
+2,
+"shì qing",
+"affair; matter; thing; business; CL:件[jiàn],桩[zhuāng]"
+],
+[
+"同事",
+2,
+"tóng shì",
+"colleague; co-worker; CL:个[gè],位[wèi]"
+],
+[
+"本事",
+3,
+"běn shì",
+"source material; original story"
+],
+[
+"本事",
+3,
+"běn shi",
+"ability; skill"
+],
+[
+"从事",
+3,
+"cóng shì",
+"to go for; to engage in; to undertake; to deal with; to handle; to do"
+],
+[
+"事故",
+3,
+"shì gù",
+"accident; CL:桩[zhuāng],起[qǐ],次[cì]"
+],
+[
+"事件",
+3,
+"shì jiàn",
+"event; happening; incident; CL:个[gè]"
+],
+[
+"事实",
+3,
+"shì shí",
+"fact; CL:个[gè]"
+],
+[
+"事实上",
+3,
+"shì shí shàng",
+"in fact; in reality; actually; as a matter of fact; de facto; ipso facto"
+],
+[
+"事业",
+3,
+"shì yè",
+"undertaking; project; activity; (charitable, political or revolutionary) cause; publicly funded institution, enterprise or foundation; career; occupation; CL:个[gè]"
+],
+[
+"办事",
+4,
+"bàn shì",
+"to handle (affairs); to work"
+],
+[
+"事物",
+4,
+"shì wù",
+"thing; object; CL:个[gè]"
+],
+[
+"事先",
+4,
+"shì xiān",
+"in advance; before the event; beforehand; prior"
+],
+[
+"大事",
+5,
+"dà shì",
+"major event; major political event (war or change of regime); major social event (wedding or funeral); (do sth) in a big way; CL:件[jiàn],桩[zhuāng]"
+],
+[
+"启事",
+5,
+"qǐ shì",
+"announcement (written, on billboard, letter, newspaper or website); to post information; a notice"
+],
+[
+"时事",
+5,
+"shí shì",
+"current trends; the present situation; how things are going"
+],
+[
+"办事处",
+6,
+"bàn shì chù",
+"office; agency"
+],
+[
+"出事",
+6,
+"chū shì",
+"to have an accident; to meet with a mishap"
+],
+[
+"此事",
+6,
+"cǐ shì",
+"this matter"
+],
+[
+"军事",
+6,
+"jūn shì",
+"military affairs; military matters; military"
+],
+[
+"事后",
+6,
+"shì hòu",
+"after the event; in hindsight; in retrospect"
+],
+[
+"有事",
+6,
+"yǒu shì",
+"to be occupied with sth; to have sth on one's mind; there is something the matter"
+],
+[
+"碍事",
+7,
+"ài shì",
+"(usu used in the negative) to be of importance or to matter; to be in the way; to be a hindrance"
+],
+[
+"当事人",
+7,
+"dāng shì rén",
+"persons involved or implicated; party (to an affair)"
+],
+[
+"董事",
+7,
+"dǒng shì",
+"board member"
+],
+[
 "董事会",
-50.54,
+7,
 "dǒng shì huì",
 "board of directors"
 ],
 [
-"董事",
-38.84,
+"董事长",
+7,
+"dǒng shì zhǎng",
+"chairman of the board; chairman"
+],
+[
+"懂事",
+7,
 "dǒng shì",
-"board member"
+"sensible; thoughtful; intelligent"
+],
+[
+"干事",
+7,
+"gàn shi",
+"administrator; executive secretary"
+],
+[
+"公事",
+7,
+"gōng shì",
+"work-related matters; documents"
+],
+[
+"坏事",
+7,
+"huài shì",
+"bad thing; misdeed; to ruin things"
+],
+[
+"理事",
+7,
+"lǐ shì",
+"member of council"
+],
+[
+"领事",
+7,
+"lǐng shì",
+"consul"
+],
+[
+"领事馆",
+7,
+"lǐng shì guǎn",
+"consulate"
+],
+[
+"闹事",
+7,
+"nào shì",
+"to cause trouble; to create a disturbance"
+],
+[
+"人事",
+7,
+"rén shì",
+"personnel; human resources; human affairs; ways of the world; (euphemism) sexuality; the facts of life"
+],
+[
+"省事",
+7,
+"shěng shì",
+"to simplify matters; to save trouble"
+],
+[
+"省事",
+7,
+"xǐng shì",
+"to handle administrative work"
+],
+[
+"实事求是",
+7,
+"shí shì qiú shì",
+"to seek truth from facts (idiom); to be practical and realistic"
+],
+[
+"事迹",
+7,
+"shì jì",
+"deed; past achievement; important event of the past"
+],
+[
+"事态",
+7,
+"shì tài",
+"situation; existing state of affairs"
+],
+[
+"事务",
+7,
+"shì wù",
+"(political, economic etc) affairs; work; transaction (as in a computer database)"
+],
+[
+"事务所",
+7,
+"shì wù suǒ",
+"office; firm"
+],
+[
+"事项",
+7,
+"shì xiàng",
+"matter; item"
+],
+[
+"事宜",
+7,
+"shì yí",
+"matters; arrangements"
+],
+[
+"私事",
+7,
+"sī shì",
+"personal matters"
+],
+[
+"往事",
+7,
+"wǎng shì",
+"past events; former happenings"
+],
+[
+"无济于事",
+7,
+"wú jì yú shì",
+"to no avail; of no use"
+],
+[
+"无所事事",
+7,
+"wú suǒ shì shì",
+"to have nothing to do; to idle one's time away (idiom)"
+],
+[
+"喜事",
+7,
+"xǐ shì",
+"happy occasion; wedding"
+],
+[
+"心事",
+7,
+"xīn shì",
+"a load on one's mind; worry; CL:宗[zōng],桩[zhuāng]"
+],
+[
+"心想事成",
+7,
+"xīn xiǎng shì chéng",
+"to have one's wishes come true; wish you the best!"
+],
+[
+"一事无成",
+7,
+"yī shì wú chéng",
+"to have achieved nothing; to be a total failure; to get nowhere"
+],
+[
+"一回事",
+7,
+"yī huí shì",
+"one thing; the same as"
+],
+[
+"肇事",
+7,
+"zhào shì",
+"to cause an accident; to be responsible for an incident; to provoke a disturbance"
+]
+],
+"extraWords": [
+[
+"事儿",
+104.0,
+"shì r5",
+"one's employment; business; matter that needs to be settled; (northern dialect) (of a person) demanding; trying; troublesome; erhua variant of 事[shì]; CL:件[jiàn],桩[zhuāng]"
 ],
 [
 "没事",
@@ -225,40 +393,10 @@
 "competition (e.g. sporting)"
 ],
 [
-"没事儿",
-30.79,
-"méi shì r5",
-"to have spare time; free from work; it's not important; it's nothing; never mind"
-],
-[
-"大事",
-26.92,
-"dà shì",
-"major event; major political event (war or change of regime); major social event (wedding or funeral); (do sth) in a big way; CL:件[jian4],樁|桩[zhuang1]"
-],
-[
-"坏事",
-26.08,
-"huài shì",
-"bad thing; misdeed; to ruin things"
-],
-[
-"办事",
-24.74,
-"bàn shì",
-"to handle (affairs); to work"
-],
-[
-"事务所",
-24.59,
-"shì wù suǒ",
-"office; firm"
-],
-[
-"出事",
-22.18,
-"chū shì",
-"to have an accident; to meet with a mishap"
+"刑事",
+23.42,
+"xíng shì",
+"criminal; penal"
 ],
 [
 "做事",
@@ -267,28 +405,28 @@
 "to work; to handle matters; to have a job"
 ],
 [
+"事发",
+19.21,
+"???",
+"???"
+],
+[
 "行事",
 18.93,
 "xíng shì",
 "to execute; to handle; behavior; action; conduct"
 ],
 [
-"有事",
-18.04,
-"yǒu shì",
-"to be occupied with sth; to have sth on one's mind; there is something the matter"
-],
-[
-"事宜",
-17.79,
-"shì yí",
-"matters; arrangements"
+"一事",
+18.6,
+"???",
+"???"
 ],
 [
 "小事",
 15.79,
 "xiǎo shì",
-"trifle; trivial matter; CL:點|点[dian3]"
+"trifle; trivial matter; CL:点[diǎn]"
 ],
 [
 "民事",
@@ -297,22 +435,28 @@
 "civil case; agricultural affairs; civil"
 ],
 [
+"事业单位",
+13.32,
+"???",
+"???"
+],
+[
+"完事",
+12.16,
+"???",
+"???"
+],
+[
 "共事",
 12.13,
 "gòng shì",
 "to work together"
 ],
 [
-"此事",
-11.54,
-"cǐ shì",
-"this matter"
-],
-[
-"肇事",
-9.89,
-"zhào shì",
-"to cause an accident; to be responsible for an incident; to provoke a disturbance"
+"傻事",
+10.25,
+"???",
+"???"
 ],
 [
 "凡事",
@@ -327,10 +471,16 @@
 "fact; actual thing; practical matter"
 ],
 [
-"心事",
-8.75,
-"xīn shì",
-"a load on one's mind; worry; CL:宗[zong1],樁|桩[zhuang1]"
+"监事会",
+9.29,
+"???",
+"???"
+],
+[
+"急事",
+8.5,
+"???",
+"???"
 ],
 [
 "理事会",
@@ -339,16 +489,10 @@
 "council"
 ],
 [
-"公事",
-8.35,
-"gōng shì",
-"work-related matters; documents"
-],
-[
-"懂事",
-8.34,
-"dǒng shì",
-"sensible; thoughtful; intelligent"
+"监事",
+8.38,
+"???",
+"???"
 ],
 [
 "蠢事",
@@ -357,22 +501,10 @@
 "folly"
 ],
 [
-"办事处",
-8.13,
-"bàn shì chù",
-"office; agency"
-],
-[
 "正事",
 7.75,
 "zhèng shì",
 "one's proper business"
-],
-[
-"私事",
-7.69,
-"sī shì",
-"personal matters"
 ],
 [
 "事事",
@@ -381,16 +513,10 @@
 "everything"
 ],
 [
-"理事",
-6.22,
-"lǐ shì",
-"member of council"
-],
-[
-"一回事",
-6.17,
-"yī huí shì",
-"one thing; the same as"
+"企事业单位",
+6.58,
+"???",
+"???"
 ],
 [
 "管闲事",

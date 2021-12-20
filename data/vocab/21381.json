@@ -1,6 +1,6 @@
 {
 "char": "厅",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "hall, central room",
 "pron": "tīng"
@@ -8,23 +8,41 @@
 "words": [
 [
 "餐厅",
-4,
+5,
 "cān tīng",
-"dining hall; dining room; restaurant; CL:間|间[jian1],家[jia1]"
+"dining hall; dining room; restaurant; CL:间[jiān],家[jiā]"
+],
+[
+"大厅",
+5,
+"dà tīng",
+"hall; lounge"
 ],
 [
 "客厅",
-4,
+5,
 "kè tīng",
-"drawing room (room for arriving guests); living room; CL:間|间[jian1]"
+"drawing room (room for arriving guests); living room; CL:间[jiān]"
+],
+[
+"厅",
+5,
+"tīng",
+"(reception) hall; living room; office; provincial government department"
+],
+[
+"舞厅",
+7,
+"wǔ tīng",
+"dance hall; ballroom; CL:间[jiān]"
 ]
 ],
 "extraWords": [
 [
-"大厅",
-24.32,
-"dà tīng",
-"hall; lounge"
+"公安厅",
+7.73,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "虐",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "cruel, harsh, oppressive",
 "pron": "nüè"
@@ -8,12 +8,25 @@
 "words": [
 [
 "虐待",
-6,
+7,
 "nüè dài",
 "to mistreat; to maltreat; to abuse; mistreatment; maltreatment"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"虐",
+15.95,
+"nüè",
+"oppressive; tyrannical"
+],
+[
+"肆虐",
+3.11,
+"sì nüè",
+"to wreak havoc; to devastate"
+]
+],
 "strokes": [
 "M 531 645 Q 538 691 543 735 L 546 762 Q 547 766 548 771 Q 552 790 559 811 Q 562 821 544 834 Q 513 852 490 856 Q 475 859 468 851 Q 461 844 468 830 Q 481 814 482 803 Q 491 728 492 640 C 492 610 527 615 531 645 Z",
 "M 543 735 Q 576 726 671 747 Q 687 751 705 754 Q 724 758 728 762 Q 735 769 731 777 Q 724 787 697 793 Q 669 797 600 773 Q 573 767 546 762 C 517 756 514 741 543 735 Z",

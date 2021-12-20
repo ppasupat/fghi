@@ -1,26 +1,31 @@
 {
 "char": "渡",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "cross, ferry over; ferry",
 "pron": "dù"
 },
 "words": [
 [
+"渡",
+6,
+"dù",
+"to cross; to pass through; to ferry"
+],
+[
 "过渡",
 6,
 "guò dù",
 "to cross over (by ferry); transition; interim; caretaker (administration)"
-]
 ],
-"extraWords": [
 [
 "渡过",
-8.41,
+7,
 "dù guò",
 "to cross over; to pass through"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 224 702 Q 249 675 277 643 Q 290 628 307 628 Q 317 627 325 641 Q 331 656 324 688 Q 320 709 289 726 Q 216 762 200 755 Q 194 751 195 738 Q 198 726 224 702 Z",
 "M 131 530 Q 179 464 213 445 Q 228 441 239 453 Q 246 466 246 483 Q 239 526 173 556 Q 140 577 122 572 Q 115 571 117 559 Q 117 546 131 530 Z",

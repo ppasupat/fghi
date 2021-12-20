@@ -1,6 +1,6 @@
 {
 "char": "暂",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "temporary",
 "pron": "zàn"
@@ -8,30 +8,36 @@
 "words": [
 [
 "暂时",
-4,
+5,
 "zàn shí",
 "temporary; provisional; for the time being"
 ],
 [
-"暂且",
-6,
-"zàn qiě",
-"for now; for the time being; temporarily"
-]
-],
-"extraWords": [
-[
 "暂停",
-21.19,
+5,
 "zàn tíng",
 "to suspend; time-out (e.g. in sports); stoppage; pause (media player)"
 ],
 [
 "短暂",
-19.04,
+7,
 "duǎn zàn",
 "of short duration; brief; momentary"
 ],
+[
+"暂",
+7,
+"zàn",
+"temporary; Taiwan pr. [zhan4]"
+],
+[
+"暂",
+7,
+"zàn",
+"to scurry; variant of 暂[zàn]"
+]
+],
+"extraWords": [
 [
 "暂行",
 11.0,

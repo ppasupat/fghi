@@ -1,14 +1,32 @@
 {
 "char": "郁",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "sweet smelling, rich in aroma; (Cant.) to move, hit",
 "pron": "yù"
 },
 "words": [
 [
+"浓郁",
+7,
+"nóng yù",
+"rich; strong; heavy (fragrance); dense; full-bodied; intense"
+],
+[
+"抑郁",
+7,
+"yì yù",
+"depressed; despondent; gloomy; depression"
+],
+[
+"抑郁症",
+7,
+"yì yù zhèng",
+"clinical depression"
+],
+[
 "忧郁",
-6,
+7,
 "yōu yù",
 "sullen; depressed; melancholy; dejected"
 ]
@@ -19,18 +37,6 @@
 26.22,
 "yù mèn",
 "gloomy; depressed"
-],
-[
-"浓郁",
-9.1,
-"nóng yù",
-"rich; strong; heavy (fragrance); dense; full-bodied; intense"
-],
-[
-"抑郁",
-8.08,
-"yì yù",
-"depressed; despondent; gloomy; depression"
 ]
 ],
 "strokes": [

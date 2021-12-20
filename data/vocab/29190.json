@@ -1,16 +1,16 @@
 {
 "char": "爆",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "crackle, pop, burst, explode",
 "pron": "bào"
 },
 "words": [
 [
-"爆炸",
+"爆",
 6,
-"bào zhà",
-"explosion; to explode; to blow up; to detonate"
+"bào",
+"to explode or burst; to quick fry or quick boil"
 ],
 [
 "爆发",
@@ -19,10 +19,28 @@
 "to break out; to erupt; to explode; to burst out"
 ],
 [
-"烟花爆竹",
+"爆炸",
 6,
-"yān huā bào zhú",
-"fireworks (i.e. pyrotechnic devices, not the display they produce)"
+"bào zhà",
+"explosion; to explode; to blow up; to detonate"
+],
+[
+"爆冷门",
+7,
+"bào lěng mén",
+"an upset (esp. in sports); unexpected turn of events; to pull off a coup; a breakthrough"
+],
+[
+"爆满",
+7,
+"bào mǎn",
+"filled to capacity (of theater, stadium, gymnasium etc)"
+],
+[
+"爆竹",
+7,
+"bào zhú",
+"firecracker"
 ]
 ],
 "extraWords": [
@@ -37,12 +55,6 @@
 16.99,
 "yǐn bào",
 "to cause to burn; to ignite; to detonate; a fuse"
-],
-[
-"爆竹",
-8.26,
-"bào zhú",
-"firecracker"
 ],
 [
 "爆米花",

@@ -1,6 +1,6 @@
 {
 "char": "骗",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "swindle, cheat out of, defraud",
 "pron": "piàn"
@@ -8,53 +8,53 @@
 "words": [
 [
 "骗",
-4,
+5,
 "piàn",
 "to cheat; to swindle; to deceive; to get on (a horse etc) by swinging one leg over"
 ],
 [
+"骗子",
+5,
+"piàn zi",
+"swindler; a cheat"
+],
+[
+"骗人",
+7,
+"piàn rén",
+"to cheat sb; a scam"
+],
+[
 "欺骗",
-6,
+7,
 "qī piàn",
 "to deceive; to cheat"
 ],
 [
+"受骗",
+7,
+"shòu piàn",
+"to be cheated; to be taken in; to be hoodwinked"
+],
+[
 "诈骗",
-6,
+7,
 "zhà piàn",
 "to defraud; to swindle; to blackmail"
 ]
 ],
 "extraWords": [
 [
-"骗子",
-44.39,
-"piàn zi",
-"swindler; a cheat"
-],
-[
-"骗人",
-19.14,
-"piàn rén",
-"to cheat sb; a scam"
-],
-[
 "骗局",
 9.57,
 "piàn jú",
-"a swindle; a trap; a racket; a scam; CL:場|场[chang3]"
+"a swindle; a trap; a racket; a scam; CL:场[chǎng]"
 ],
 [
 "骗取",
 5.75,
 "piàn qǔ",
 "to gain by cheating"
-],
-[
-"受骗",
-5.04,
-"shòu piàn",
-"to be cheated; to be taken in; to be hoodwinked"
 ]
 ],
 "strokes": [

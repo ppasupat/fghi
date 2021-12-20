@@ -1,6 +1,6 @@
 {
 "char": "脏",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "internal organs, viscera; dirty",
 "pron": "zāng, zàng"
@@ -8,41 +8,41 @@
 "words": [
 [
 "脏",
-4,
+2,
 "zàng",
 "viscera; (anatomy) organ"
 ],
 [
 "脏",
-4,
+2,
 "zāng",
 "dirty; filthy; to get (sth) dirty"
 ],
 [
 "心脏",
-5,
+6,
 "xīn zàng",
-"heart; CL:顆|颗[ke1],個|个[ge4]"
-]
+"heart; CL:颗[kē],个[gè]"
 ],
-"extraWords": [
 [
 "心脏病",
-25.1,
+6,
 "xīn zàng bìng",
 "heart disease"
 ],
+[
+"肝脏",
+7,
+"gān zàng",
+"liver"
+]
+],
+"extraWords": [
 [
 "肮脏",
 19.53,
 "āng zāng",
 "dirty; filthy"
-],
-[
-"肝脏",
-11.06,
-"gān zàng",
-"liver"
 ],
 [
 "肾脏",

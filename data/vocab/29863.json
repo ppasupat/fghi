@@ -1,12 +1,31 @@
 {
 "char": "璧",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "piece of jade with hole in it",
 "pron": "bì"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"璧",
+2.28,
+"bì",
+"jade annulus"
+],
+[
+"中西合璧",
+0.69,
+"Zhōng Xī hé bì",
+"harmonious combination of Chinese and Western elements (idiom)"
+],
+[
+"合璧",
+0.56,
+"hé bì",
+"to match harmoniously"
+]
+],
 "strokes": [
 "M 458 645 Q 477 699 505 719 Q 518 735 506 749 Q 493 761 448 781 Q 433 787 415 780 Q 384 764 354 755 Q 326 748 295 739 C 266 731 281 706 310 713 Q 317 714 327 718 Q 421 740 427 736 Q 436 724 414 651 C 405 622 448 617 458 645 Z",
 "M 282 600 Q 294 588 316 593 Q 365 605 469 615 Q 479 616 480 625 Q 480 632 458 645 L 414 651 Q 410 651 408 650 Q 341 631 286 622 C 260 618 260 618 282 600 Z",

@@ -1,34 +1,16 @@
 {
 "char": "探",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "find, locate; search, grope for",
 "pron": "tàn"
 },
 "words": [
 [
-"侦探",
-6,
-"zhēn tàn",
-"detective; to do detective work"
-],
-[
 "探索",
 6,
 "tàn suǒ",
 "to explore; to probe"
-],
-[
-"探望",
-6,
-"tàn wàng",
-"to visit; to call on sb; to look around"
-],
-[
-"探测",
-6,
-"tàn cè",
-"to probe; to take readings; to explore; exploration"
 ],
 [
 "探讨",
@@ -38,12 +20,60 @@
 ],
 [
 "勘探",
-6,
+7,
 "kān tàn",
 "to explore; to survey; to prospect (for oil etc); prospecting"
+],
+[
+"试探",
+7,
+"shì tàn",
+"to sound out; to probe; to feel out; to try out"
+],
+[
+"探",
+7,
+"tàn",
+"to explore; to search out; to scout; to visit; to stretch forward"
+],
+[
+"探测",
+7,
+"tàn cè",
+"to probe; to take readings; to explore; exploration"
+],
+[
+"探亲",
+7,
+"tàn qīn",
+"to go home to visit one's family"
+],
+[
+"探求",
+7,
+"tàn qiú",
+"to seek; to pursue; to investigate"
+],
+[
+"探望",
+7,
+"tàn wàng",
+"to visit; to call on sb; to look around"
+],
+[
+"探险",
+7,
+"tàn xiǎn",
+"to explore; to go on an expedition; adventure"
 ]
 ],
 "extraWords": [
+[
+"侦探",
+55.71,
+"zhēn tàn",
+"detective; to do detective work"
+],
 [
 "探长",
 21.22,
@@ -51,10 +81,10 @@
 "(police) detective"
 ],
 [
-"探险",
-9.57,
-"tàn xiǎn",
-"to explore; to go on an expedition; adventure"
+"探索者",
+13.09,
+"???",
+"???"
 ],
 [
 "探戈",
@@ -67,12 +97,6 @@
 5.99,
 "tàn cè qì",
 "detector; probe; craft"
-],
-[
-"试探",
-5.41,
-"shì tàn",
-"to sound out; to probe; to feel out; to try out"
 ]
 ],
 "strokes": [

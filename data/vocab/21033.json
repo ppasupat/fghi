@@ -1,52 +1,76 @@
 {
 "char": "利",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "gains, advantage, profit, merit",
 "pron": "lì"
 },
 "words": [
 [
-"顺利",
-4,
-"shùn lì",
-"smoothly; without a hitch"
-],
-[
 "流利",
-4,
+2,
 "liú lì",
 "fluent"
 ],
 [
+"顺利",
+2,
+"shùn lì",
+"smoothly; without a hitch"
+],
+[
 "利用",
-5,
+3,
 "lì yòng",
 "to exploit; to make use of; to use; to take advantage of; to utilize"
 ],
 [
+"胜利",
+3,
+"shèng lì",
+"victory; CL:个[gè]"
+],
+[
+"有利",
+3,
+"yǒu lì",
+"advantageous; to have advantages; favorable"
+],
+[
+"利息",
+4,
+"lì xī",
+"interest (on a loan); CL:笔[bǐ]"
+],
+[
+"利益",
+4,
+"lì yì",
+"benefit; (in sb's) interest; CL:个[gè]"
+],
+[
 "权利",
-5,
+4,
 "quán lì",
 "right (i.e. an entitlement to sth); (classical) power and wealth"
 ],
 [
-"胜利",
+"便利",
 5,
-"shèng lì",
-"victory; CL:個|个[ge4]"
+"biàn lì",
+"convenient; easy; to facilitate"
 ],
 [
-"利益",
+"不利",
 5,
-"lì yì",
-"benefit; (in sb's) interest; CL:個|个[ge4]"
+"bù lì",
+"unfavorable; disadvantageous; harmful; detrimental"
 ],
 [
-"有利",
+"福利",
 5,
-"yǒu lì",
-"advantageous; to have advantages; favorable"
+"fú lì",
+"material benefit; benefit in kind; (social) welfare"
 ],
 [
 "利润",
@@ -55,79 +79,121 @@
 "profits"
 ],
 [
-"利息",
+"有利于",
 5,
-"lì xī",
-"interest (on a loan); CL:筆|笔[bi3]"
-],
-[
-"福利",
-6,
-"fú lì",
-"material benefit; benefit in kind; (social) welfare"
-],
-[
-"便利",
-6,
-"biàn lì",
-"convenient; easy; to facilitate"
-],
-[
-"锋利",
-6,
-"fēng lì",
-"sharp (e.g. knife blade); incisive; to the point"
+"yǒu lì yú",
+"to be advantageous to; to be beneficial for"
 ],
 [
 "专利",
-6,
+5,
 "zhuān lì",
 "patent; sth uniquely enjoyed (or possessed etc) by a certain group of people; monopoly"
 ],
 [
-"盈利",
+"吉利",
 6,
-"yíng lì",
-"profit; gain; to make profits"
+"Jí lì",
+"Geely, Chinese car make"
+],
+[
+"吉利",
+6,
+"jí lì",
+"auspicious; lucky; propitious"
+],
+[
+"利",
+6,
+"Lì",
+"surname Li"
+],
+[
+"利",
+6,
+"lì",
+"sharp; favorable; advantage; benefit; profit; interest; to do good to; to benefit"
+],
+[
+"暴利",
+7,
+"bào lì",
+"sudden huge profits"
+],
+[
+"便利店",
+7,
+"biàn lì diàn",
+"convenience store"
+],
+[
+"不利于",
+7,
+"???",
+"???"
 ],
 [
 "利害",
-6,
+7,
 "lì hài",
 "pros and cons; advantages and disadvantages; gains and losses"
 ],
 [
 "利害",
-6,
+7,
 "lì hai",
 "terrible; formidable; serious; devastating; tough; capable; sharp; severe; fierce"
 ],
 [
+"利率",
+7,
+"lì lǜ",
+"interest rates"
+],
+[
+"利索",
+7,
+"lì suo",
+"nimble"
+],
+[
+"名利",
+7,
+"míng lì",
+"fame and profit"
+],
+[
+"失利",
+7,
+"shī lì",
+"to lose; to suffer defeat"
+],
+[
 "水利",
-6,
+7,
 "shuǐ lì",
 "water conservancy; irrigation works"
 ],
 [
-"急功近利",
-6,
-"jí gōng jìn lì",
-"seeking instant benefit (idiom); shortsighted vision, looking only for fast return"
+"损人利己",
+7,
+"sǔn rén lì jǐ",
+"harming others for one's personal benefit (idiom); personal gain to the detriment of others"
+],
+[
+"盈利",
+7,
+"yíng lì",
+"profit; gain; to make profits"
+],
+[
+"自私自利",
+7,
+"zì sī zì lì",
+"everything for self and selfish profit (idiom); with no regard for others; selfish; mercenary"
 ]
 ],
 "extraWords": [
-[
-"有利于",
-61.58,
-"yǒu lì yú",
-"to be advantageous to; to be beneficial for"
-],
-[
-"利率",
-60.42,
-"lì lǜ",
-"interest rates"
-],
 [
 "意大利",
 57.55,
@@ -139,12 +205,6 @@
 38.56,
 "Ào dà lì yà",
 "Australia"
-],
-[
-"不利",
-26.11,
-"bù lì",
-"unfavorable; disadvantageous; harmful; detrimental"
 ],
 [
 "亨利",
@@ -181,12 +241,6 @@
 10.79,
 "Xù lì yà",
 "Syria"
-],
-[
-"失利",
-10.12,
-"shī lì",
-"to lose; to suffer defeat"
 ],
 [
 "利物浦",
@@ -243,16 +297,10 @@
 "Kelly (person name)"
 ],
 [
-"吉利",
-7.44,
-"Jí lì",
-"Geely, Chinese car make"
-],
-[
-"吉利",
-7.44,
-"jí lì",
-"auspicious; lucky; propitious"
+"利用率",
+7.4,
+"???",
+"???"
 ],
 [
 "利于",
@@ -315,16 +363,16 @@
 "profit margin"
 ],
 [
-"暴利",
-6.06,
-"bào lì",
-"sudden huge profits"
-],
-[
 "胜利者",
 5.84,
 "shèng lì zhě",
 "victor; winner"
+],
+[
+"利空",
+5.29,
+"???",
+"???"
 ],
 [
 "套利",
@@ -337,6 +385,24 @@
 5.15,
 "Tǎ lì bān",
 "the Taliban, Islamist organization that emerged in the mid-1990s in Afghanistan"
+],
+[
+"菲利普",
+5.1,
+"???",
+"???"
+],
+[
+"意大利队",
+5.08,
+"???",
+"???"
+],
+[
+"利税",
+5.06,
+"???",
+"???"
 ]
 ],
 "strokes": [

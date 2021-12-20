@@ -1,12 +1,31 @@
 {
 "char": "萤",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "glow-worm, luminous insect",
 "pron": "yíng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"萤火虫",
+2.15,
+"yíng huǒ chóng",
+"firefly; glowworm; lightning bug"
+],
+[
+"萤",
+1.53,
+"yíng",
+"firefly; glow-worm"
+],
+[
+"萤火",
+0.41,
+"yíng huǒ",
+"light of firefly; fairy light"
+]
+],
 "strokes": [
 "M 647 665 Q 716 674 829 667 Q 845 666 851 675 Q 855 687 842 702 Q 794 747 682 719 Q 675 719 667 716 L 606 706 Q 518 694 417 680 L 368 674 Q 292 667 208 658 Q 177 655 198 639 Q 240 614 314 625 Q 344 632 376 638 L 420 646 Q 456 655 596 663 L 647 665 Z",
 "M 417 680 Q 414 717 412 747 Q 413 766 393 773 Q 351 792 329 785 Q 310 775 326 756 Q 357 720 367 678 Q 367 677 368 674 L 376 638 Q 391 584 403 572 Q 416 562 421 573 Q 425 588 420 646 L 417 680 Z",

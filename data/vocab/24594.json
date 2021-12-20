@@ -1,19 +1,43 @@
 {
 "char": "怒",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "anger, rage, passion; angry",
 "pron": "nù"
 },
 "words": [
 [
+"发怒",
+6,
+"fā nù",
+"to get angry"
+],
+[
 "愤怒",
 6,
 "fèn nù",
 "angry; indignant; wrath; ire"
+],
+[
+"恼羞成怒",
+7,
+"nǎo xiū chéng nù",
+"to fly into a rage out of humiliation; to be ashamed into anger (idiom)"
+],
+[
+"喜怒哀乐",
+7,
+"xǐ nù āi lè",
+"four types of human emotions, namely: happiness 欢喜[huān xǐ], anger 愤怒[fèn nù], sorrow 悲哀[bēi āi] and joy 快乐[kuài lè]"
 ]
 ],
 "extraWords": [
+[
+"怒",
+29.58,
+"nù",
+"anger; fury; flourishing; vigorous"
+],
 [
 "激怒",
 8.26,

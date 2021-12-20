@@ -1,24 +1,36 @@
 {
 "char": "雅",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "elegant, graceful, refined",
 "pron": "yǎ"
 },
 "words": [
 [
+"高雅",
+7,
+"gāo yǎ",
+"dainty; elegance; elegant"
+],
+[
 "文雅",
-6,
+7,
 "wén yǎ",
 "elegant; refined"
+],
+[
+"优雅",
+7,
+"yōu yǎ",
+"grace; graceful"
 ]
 ],
 "extraWords": [
 [
-"优雅",
-25.85,
-"yōu yǎ",
-"grace; graceful"
+"雅",
+37.7,
+"yǎ",
+"elegant"
 ],
 [
 "西雅图",
@@ -33,22 +45,28 @@
 "Yahoo, Internet portal"
 ],
 [
-"高雅",
-6.88,
-"gāo yǎ",
-"dainty; elegance; elegant"
-],
-[
 "典雅",
 6.29,
 "diǎn yǎ",
 "refined; elegant"
 ],
 [
+"雅典奥运会",
+6.28,
+"???",
+"???"
+],
+[
 "雅典",
 5.76,
 "Yǎ diǎn",
 "Athens, capital of Greece"
+],
+[
+"雅各布",
+5.69,
+"???",
+"???"
 ]
 ],
 "strokes": [

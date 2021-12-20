@@ -1,6 +1,6 @@
 {
 "char": "锁",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "lock, padlock; shackles, chains",
 "pron": "suǒ"
@@ -10,34 +10,46 @@
 "锁",
 5,
 "suǒ",
-"to lock up; to lock; lock; CL:把[ba3]"
+"to lock up; to lock; lock; CL:把[bǎ]"
 ],
 [
 "锁",
 5,
 "suǒ",
-"old variant of 鎖|锁[suo3]"
+"old variant of 锁[suǒ]"
 ],
 [
 "封锁",
-6,
+7,
 "fēng suǒ",
 "to blockade; to seal off; to lock down"
 ],
 [
+"拉锁",
+7,
+"lā suǒ",
+"zipper"
+],
+[
 "连锁",
-6,
+7,
 "lián suǒ",
 "to interlock; to be linked; chain (store etc)"
+],
+[
+"连锁店",
+7,
+"lián suǒ diàn",
+"chain store"
+],
+[
+"锁定",
+7,
+"suǒ dìng",
+"to lock (a door); to close with a latch; to lock into place; a lock; a latch; to lock a computer file (to prevent it being overwritten); to lock (denying access to a computer system or device or files, e.g. by password-protection); to focus attention on; to target"
 ]
 ],
 "extraWords": [
-[
-"锁定",
-15.51,
-"suǒ dìng",
-"to lock (a door); to close with a latch; to lock into place; a lock; a latch; to lock a computer file (to prevent it being overwritten); to lock (denying access to a computer system or device or files, e.g. by password-protection); to focus attention on; to target"
-],
 [
 "门锁",
 7.84,

@@ -1,6 +1,6 @@
 {
 "char": "懂",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "understand, comprehend",
 "pron": "dǒng"
@@ -11,21 +11,21 @@
 2,
 "dǒng",
 "to understand; to comprehend"
-]
 ],
-"extraWords": [
 [
 "懂得",
-52.62,
+2,
 "dǒng de",
 "to understand; to know; to comprehend"
 ],
 [
 "懂事",
-8.34,
+7,
 "dǒng shì",
 "sensible; thoughtful; intelligent"
+]
 ],
+"extraWords": [
 [
 "看懂",
 8.13,

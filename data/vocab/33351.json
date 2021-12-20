@@ -1,16 +1,16 @@
 {
 "char": "艇",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "small boat, dugout, punt",
 "pron": "tǐng"
 },
 "words": [
 [
-"舰艇",
-6,
-"jiàn tǐng",
-"warship; naval vessel"
+"潜艇",
+7,
+"qián tǐng",
+"submarine"
 ]
 ],
 "extraWords": [
@@ -18,13 +18,13 @@
 "游艇",
 10.91,
 "yóu tǐng",
-"barge; yacht; CL:隻|只[zhi1]"
+"barge; yacht; CL:只[zhī]"
 ],
 [
-"潜艇",
-9.98,
-"qián tǐng",
-"submarine"
+"艇",
+6.08,
+"tǐng",
+"vessel; small ship"
 ]
 ],
 "strokes": [

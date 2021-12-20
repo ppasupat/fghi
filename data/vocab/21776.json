@@ -1,24 +1,41 @@
 {
 "char": "唐",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "Tang dynasty; Chinese",
 "pron": "táng"
 },
-"words": [
+"words": [],
+"extraWords": [
+[
+"唐",
+30.94,
+"Táng",
+"Tang dynasty (618-907); surname Tang"
+],
+[
+"唐",
+30.94,
+"táng",
+"to exaggerate; empty; in vain; old variant of 螗[táng]"
+],
 [
 "荒唐",
-6,
+18.15,
 "huāng táng",
 "beyond belief; preposterous; absurd; intemperate; dissipated"
-]
 ],
-"extraWords": [
 [
 "唐山",
 6.73,
 "Táng shān",
 "Tangshan prefecture-level city in Hebei; China (a name for China used by some overseas Chinese)"
+],
+[
+"唐娜",
+5.63,
+"???",
+"???"
 ]
 ],
 "strokes": [

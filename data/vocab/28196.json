@@ -1,12 +1,31 @@
 {
 "char": "渤",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "swelling; the Gulf of Hopei (Hebei)",
 "pron": "bó"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"渤海",
+3.46,
+"Bó Hǎi",
+"Bohai Sea, or Bo Hai, between Liaoning and Shandong; Parhae, Korean kingdom in Manchuria and Siberia 698-926"
+],
+[
+"环渤海",
+1.71,
+"???",
+"???"
+],
+[
+"环渤海地区",
+0.84,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 201 681 Q 226 657 251 629 Q 264 616 280 616 Q 290 616 297 629 Q 301 644 294 674 Q 290 693 260 708 Q 190 738 176 731 Q 172 727 172 714 Q 175 704 201 681 Z",
 "M 117 489 Q 160 435 187 424 Q 202 420 211 433 Q 218 445 216 461 Q 206 501 131 526 Q 115 530 105 528 Q 99 527 101 515 Q 102 503 117 489 Z",

@@ -1,25 +1,37 @@
 {
 "char": "绑",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "bind, tie, fasten",
 "pron": "bǎng"
 },
 "words": [
 [
+"绑",
+7,
+"bǎng",
+"to tie; bind or fasten together; to kidnap"
+],
+[
 "绑架",
-6,
+7,
 "bǎng jià",
 "to kidnap; to abduct; to hijack; a kidnapping; abduction; staking"
 ],
 [
-"捆绑",
-6,
-"kǔn bǎng",
-"to bind"
+"松绑",
+7,
+"sōng bǎng",
+"to untie; (fig.) to ease restrictions"
 ]
 ],
 "extraWords": [
+[
+"捆绑",
+6.2,
+"kǔn bǎng",
+"to bind"
+],
 [
 "绑匪",
 5.93,

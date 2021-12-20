@@ -1,6 +1,6 @@
 {
 "char": "侵",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "invade, encroach upon, raid",
 "pron": "qīn"
@@ -13,25 +13,37 @@
 "to infringe on; to encroach on; to violate; to assault"
 ],
 [
+"侵害",
+7,
+"qīn hài",
+"to encroach on; to infringe on"
+],
+[
 "侵略",
-6,
+7,
 "qīn lüè",
 "to invade; invasion"
-]
-],
-"extraWords": [
-[
-"入侵",
-20.09,
-"rù qīn",
-"to invade"
 ],
 [
 "侵权",
-14.36,
+7,
 "qīn quán",
 "to infringe the rights of; to violate; infringement"
 ],
+[
+"侵占",
+7,
+"qīn zhàn",
+"to invade and occupy (territory)"
+],
+[
+"入侵",
+7,
+"rù qīn",
+"to invade"
+]
+],
+"extraWords": [
 [
 "侵入",
 11.77,
@@ -39,22 +51,16 @@
 "to make (military) incursions; to invade; to intrude into; to trespass; to gain unauthorized access (computing)"
 ],
 [
-"侵害",
-11.71,
-"qīn hài",
-"to encroach on; to infringe on"
+"侵",
+8.94,
+"qīn",
+"to invade; to encroach; to infringe; to approach"
 ],
 [
 "侵略者",
 6.7,
 "qīn lüè zhě",
 "aggressors; invaders"
-],
-[
-"侵占",
-5.96,
-"qīn zhàn",
-"to invade and occupy (territory)"
 ],
 [
 "侵蚀",

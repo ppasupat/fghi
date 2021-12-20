@@ -1,6 +1,6 @@
 {
 "char": "谢",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "thank; decline",
 "pron": "xiè"
@@ -14,24 +14,30 @@
 ],
 [
 "感谢",
-4,
+2,
 "gǎn xiè",
 "(express) thanks; gratitude; grateful; thankful; thanks"
 ],
 [
 "新陈代谢",
-6,
+7,
 "xīn chén dài xiè",
 "metabolism (biology); the new replaces the old (idiom)"
-],
-[
-"谢绝",
-6,
-"xiè jué",
-"to refuse politely"
 ]
 ],
 "extraWords": [
+[
+"谢",
+86.89,
+"Xiè",
+"surname Xie"
+],
+[
+"谢",
+86.89,
+"xiè",
+"to thank; to apologize; to wither (of flowers, leaves etc); to decline"
+],
 [
 "多谢",
 78.73,

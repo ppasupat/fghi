@@ -1,6 +1,6 @@
 {
 "char": "恳",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "sincere, earnest, cordial",
 "pron": "kěn"
@@ -8,23 +8,23 @@
 "words": [
 [
 "诚恳",
-5,
+7,
 "chéng kěn",
 "sincere; honest; cordial"
 ],
 [
-"恳切",
-6,
-"kěn qiè",
-"earnest; sincere"
+"恳求",
+7,
+"kěn qiú",
+"to beg; to beseech; to entreat; entreaty"
 ]
 ],
 "extraWords": [
 [
-"恳求",
-6.41,
-"kěn qiú",
-"to beg; to beseech; to entreat; entreaty"
+"恳",
+1.82,
+"kěn",
+"earnest"
 ]
 ],
 "strokes": [

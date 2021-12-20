@@ -1,23 +1,36 @@
 {
 "char": "涯",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "shore, bank, water's edge",
 "pron": "yá"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "生涯",
-21.37,
+7,
 "shēng yá",
 "career; life (way in which sb lives); period of one's life"
+]
 ],
+"extraWords": [
 [
 "天涯",
 11.5,
 "tiān yá",
 "the other end of the world; a faraway place"
+],
+[
+"天涯海角",
+1.98,
+"Tiān yá Hǎi jiǎo",
+"Cape Haijiao in Sanya 三亚[Sān yà], Hainan"
+],
+[
+"天涯海角",
+1.98,
+"tiān yá hǎi jiǎo",
+"the ends of the earth; separated worlds apart"
 ]
 ],
 "strokes": [

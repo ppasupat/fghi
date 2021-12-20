@@ -1,6 +1,6 @@
 {
 "char": "胰",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "pancreas; soap",
 "pron": "yí"
@@ -12,6 +12,18 @@
 7.0,
 "yí dǎo sù",
 "insulin"
+],
+[
+"胰",
+5.77,
+"yí",
+"soap; pancreas"
+],
+[
+"胰腺",
+3.35,
+"yí xiàn",
+"pancreas"
 ]
 ],
 "strokes": [

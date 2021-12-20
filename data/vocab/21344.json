@@ -1,66 +1,84 @@
 {
 "char": "占",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "divine; observe; versify",
 "pron": "zhān, zhàn"
 },
 "words": [
 [
-"占线",
-4,
-"zhàn xiàn",
-"busy (telephone line)"
-],
-[
 "占",
-5,
+2,
 "zhàn",
-"variant of 占[zhan4]"
+"variant of 占[zhàn]"
 ],
 [
 "占",
-5,
+2,
 "zhān",
 "to observe; to divine"
 ],
 [
 "占",
-5,
+2,
 "zhàn",
 "to take possession of; to occupy; to take up"
 ],
 [
 "占领",
-6,
+5,
 "zhàn lǐng",
 "to occupy (a territory); to hold"
+],
+[
+"占有",
+5,
+"zhàn yǒu",
+"to have; to own; to hold; to occupy; to possess; to account for (a high proportion etc)"
 ],
 [
 "占据",
 6,
 "zhàn jù",
 "to occupy; to hold"
+],
+[
+"霸占",
+7,
+"bà zhàn",
+"to occupy by force; to seize; to dominate"
+],
+[
+"强占",
+7,
+"qiáng zhàn",
+"to occupy by force"
+],
+[
+"侵占",
+7,
+"qīn zhàn",
+"to invade and occupy (territory)"
+],
+[
+"占卜",
+7,
+"zhān bǔ",
+"to divine"
+],
+[
+"占用",
+7,
+"zhàn yòng",
+"to occupy"
 ]
 ],
 "extraWords": [
 [
-"占用",
-15.8,
-"zhàn yòng",
-"to occupy"
-],
-[
-"占有",
-6.65,
-"zhàn yǒu",
-"to have; to own; to hold; to occupy; to possess; to account for (a high proportion etc)"
-],
-[
-"侵占",
-5.96,
-"qīn zhàn",
-"to invade and occupy (territory)"
+"占有率",
+9.19,
+"???",
+"???"
 ],
 [
 "抢占",

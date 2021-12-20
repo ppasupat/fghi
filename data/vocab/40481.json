@@ -1,6 +1,6 @@
 {
 "char": "鸡",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "chicken",
 "pron": "jī"
@@ -8,9 +8,33 @@
 "words": [
 [
 "鸡蛋",
-2,
+1,
 "jī dàn",
-"(chicken) egg; hen's egg; CL:個|个[ge4],打[da2]"
+"(chicken) egg; hen's egg; CL:个[gè],打[dá]"
+],
+[
+"鸡",
+2,
+"jī",
+"fowl; chicken; CL:只[zhī]; (slang) prostitute"
+],
+[
+"公鸡",
+6,
+"gōng jī",
+"cock; rooster"
+],
+[
+"母鸡",
+6,
+"mǔ jī",
+"hen; don't know (humorous slang mimicking Cantonese 唔知, Jyutping: m4 zi1)"
+],
+[
+"鹤立鸡群",
+7,
+"hè lì jī qún",
+"a crane in a flock of chicken (idiom); way above the common; manifestly superior"
 ]
 ],
 "extraWords": [

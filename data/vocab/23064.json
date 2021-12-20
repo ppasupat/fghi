@@ -1,6 +1,6 @@
 {
 "char": "娘",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "mother; young girl; woman; wife",
 "pron": "niáng"
@@ -8,18 +8,36 @@
 "words": [
 [
 "姑娘",
-5,
+3,
 "gū niang",
-"girl; young woman; young lady; daughter; paternal aunt (old); CL:個|个[ge4]"
+"girl; young woman; young lady; daughter; paternal aunt (old); CL:个[gè]"
 ],
 [
 "新娘",
-6,
+4,
 "xīn niáng",
 "bride"
+],
+[
+"娘",
+7,
+"niáng",
+"mother; young lady; (coll.) effeminate"
+],
+[
+"娘",
+7,
+"niáng",
+"variant of 娘[niáng]"
 ]
 ],
 "extraWords": [
+[
+"小姑娘",
+21.28,
+"???",
+"???"
+],
 [
 "娘娘腔",
 10.43,
@@ -43,6 +61,12 @@
 5.51,
 "niáng niang",
 "queen; empress; imperial concubine; Goddess, esp. Xi Wangmu 王母娘娘 or 西王母, Queen Mother of the West; mother; aunt"
+],
+[
+"姑娘们",
+5.45,
+"???",
+"???"
 ]
 ],
 "strokes": [

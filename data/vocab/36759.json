@@ -1,6 +1,6 @@
 {
 "char": "辗",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "turn over, roll",
 "pron": "zhǎn"
@@ -12,6 +12,18 @@
 5.31,
 "zhǎn zhuǎn",
 "to toss about in bed; from person to person; indirectly; to wander"
+],
+[
+"辗",
+1.66,
+"zhǎn",
+"roll over on side; turn half over"
+],
+[
+"辗转反侧",
+1.07,
+"zhǎn zhuǎn fǎn cè",
+"to toss and turn restlessly (in the bed)"
 ]
 ],
 "strokes": [

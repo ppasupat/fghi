@@ -1,6 +1,6 @@
 {
 "char": "谓",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "say, tell; call, name; be called",
 "pron": "wèi"
@@ -8,23 +8,35 @@
 "words": [
 [
 "无所谓",
-5,
+4,
 "wú suǒ wèi",
 "to be indifferent; not to matter; cannot be said to be"
+],
+[
+"可谓",
+7,
+"kě wèi",
+"it could even be said"
+],
+[
+"所谓",
+7,
+"suǒ wèi",
+"so-called; what is called"
 ]
 ],
 "extraWords": [
 [
-"所谓",
-101.54,
-"suǒ wèi",
-"so-called; what is called"
+"谓",
+12.91,
+"Wèi",
+"surname Wei"
 ],
 [
-"可谓",
-26.88,
-"kě wèi",
-"it could even be said"
+"谓",
+12.91,
+"wèi",
+"to speak; to say; to name; to designate; meaning; sense"
 ]
 ],
 "strokes": [

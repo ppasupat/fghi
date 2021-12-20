@@ -1,6 +1,6 @@
 {
 "char": "愉",
-"level": 4,
+"level": "6",
 "info": {
 "gloss": "pleasant, delightful; please",
 "pron": "yú"
@@ -8,7 +8,7 @@
 "words": [
 [
 "愉快",
-4,
+6,
 "yú kuài",
 "cheerful; cheerily; delightful; pleasant; pleasantly; pleasing; happy; delighted"
 ]
@@ -19,6 +19,12 @@
 8.1,
 "yú yuè",
 "joyful; cheerful; delighted; joy; delight"
+],
+[
+"欢愉",
+1.25,
+"huān yú",
+"happy; joyous; delighted"
 ]
 ],
 "strokes": [

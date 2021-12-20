@@ -1,91 +1,151 @@
 {
 "char": "样",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "shape, form, pattern, style",
 "pron": "yàng"
 },
 "words": [
 [
-"怎么样",
-1,
-"zěn me yàng",
-"how?; how about?; how was it?; how are things?"
-],
-[
 "一样",
-3,
+1,
 "yī yàng",
 "same; like; equal to; the same as; just like"
 ],
 [
+"那样",
+2,
+"nà yàng",
+"that kind; that sort"
+],
+[
+"什么样",
+2,
+"shén me yàng",
+"what kind?; what sort?; what appearance?"
+],
+[
+"同样",
+2,
+"tóng yàng",
+"same; equal; equivalent"
+],
+[
 "样子",
-4,
+2,
 "yàng zi",
 "appearance; manner; pattern; model"
 ],
 [
-"样式",
-5,
-"yàng shì",
-"type; style"
+"怎么样",
+2,
+"zěn me yàng",
+"how?; how about?; how was it?; how are things?"
+],
+[
+"怎样",
+2,
+"zěn yàng",
+"how; what kind"
+],
+[
+"这样",
+2,
+"zhè yàng",
+"this kind of; so; this way; like this; such"
+],
+[
+"多样",
+4,
+"duō yàng",
+"diverse; diversity; manifold"
 ],
 [
 "模样",
-6,
+5,
 "mú yàng",
-"look; style; appearance; approximation; about; CL:個|个[ge4]; also pr. [mo2 yang4]"
+"look; style; appearance; approximation; about; CL:个[gè]; also pr. [mo2 yang4]"
 ],
 [
-"榜样",
+"不怎么样",
 6,
-"bǎng yàng",
-"example; model; CL:個|个[ge4]"
+"bù zěn me yàng",
+"not up to much; very indifferent; nothing great about it; nothing good to be said about it"
 ],
 [
-"样品",
+"样",
 6,
-"yàng pǐn",
-"sample; specimen"
+"yàng",
+"manner; pattern; way; appearance; shape; classifier: kind, type"
+],
+[
+"一模一样",
+6,
+"yī mú yī yàng",
+"exactly the same (idiom); carbon copy; also pr. [yi1 mo2 yi1 yang4]"
 ],
 [
 "照样",
 6,
 "zhào yàng",
 "as before; (same) as usual; in the same manner; still; nevertheless"
+],
+[
+"榜样",
+7,
+"bǎng yàng",
+"example; model; CL:个[gè]"
+],
+[
+"大模大样",
+7,
+"dà mú dà yàng",
+"boldly; ostentatiously; poised; self-assured; Taiwan pr. [da4 mo2 da4 yang4]"
+],
+[
+"各式各样",
+7,
+"gè shì gè yàng",
+"(of) all kinds and sorts; various"
+],
+[
+"花样",
+7,
+"huā yàng",
+"pattern; way of doing sth; trick; ruse; fancy-style (as in 花样滑冰[huā yàng huá bīng] figure skating)"
+],
+[
+"看样子",
+7,
+"kàn yàng zi",
+"it seems; it looks as if"
+],
+[
+"像样",
+7,
+"xiàng yàng",
+"presentable; decent; up to par"
+],
+[
+"样本",
+7,
+"yàng běn",
+"sample; specimen"
+],
+[
+"样品",
+7,
+"yàng pǐn",
+"sample; specimen"
+],
+[
+"这样一来",
+7,
+"zhè yàng yī lái",
+"thus; if this happens then"
 ]
 ],
 "extraWords": [
-[
-"这样",
-1916.59,
-"zhè yàng",
-"this kind of; so; this way; like this; such"
-],
-[
-"那样",
-521.51,
-"nà yàng",
-"that kind; that sort"
-],
-[
-"怎样",
-284.05,
-"zěn yàng",
-"how; what kind"
-],
-[
-"同样",
-139.19,
-"tóng yàng",
-"same; equal; equivalent"
-],
-[
-"什么样",
-88.03,
-"shén me yàng",
-"what kind?; what sort?; what appearance?"
-],
 [
 "不一样",
 50.47,
@@ -99,22 +159,10 @@
 "in any case; no matter what"
 ],
 [
-"样本",
-20.48,
-"yàng běn",
-"sample; specimen"
-],
-[
-"一模一样",
-15.74,
-"yī mú yī yàng",
-"exactly the same (idiom); carbon copy; also pr. [yi1 mo2 yi1 yang4]"
-],
-[
-"花样",
-12.19,
-"huā yàng",
-"pattern; way of doing sth; trick; ruse; fancy-style (as in 花樣滑冰|花样滑冰[hua1 yang4 hua2 bing1] figure skating)"
+"好样",
+21.02,
+"???",
+"???"
 ],
 [
 "各种各样",
@@ -135,28 +183,10 @@
 "diversification; to diversify"
 ],
 [
-"多样",
-7.28,
-"duō yàng",
-"diverse; diversity; manifold"
-],
-[
 "多样性",
 6.64,
 "duō yàng xìng",
 "variegation; diversity"
-],
-[
-"看样子",
-6.56,
-"kàn yàng zi",
-"it seems; it looks as if"
-],
-[
-"像样",
-6.2,
-"xiàng yàng",
-"presentable; decent; up to par"
 ],
 [
 "样板",
@@ -169,6 +199,12 @@
 5.88,
 "chōu yàng",
 "sample; sampling"
+],
+[
+"样式",
+5.4,
+"yàng shì",
+"type; style"
 ],
 [
 "两样",

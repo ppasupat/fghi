@@ -1,22 +1,28 @@
 {
 "char": "料",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "consider, conjecture; materials, ingredients",
 "pron": "liào"
 },
 "words": [
 [
-"饮料",
-3,
-"yǐn liào",
-"drink; beverage"
-],
-[
 "材料",
 4,
 "cái liào",
-"material; data; makings; stuff; CL:個|个[ge4],種|种[zhong3]"
+"material; data; makings; stuff; CL:个[gè],种[zhǒng]"
+],
+[
+"燃料",
+4,
+"rán liào",
+"fuel"
+],
+[
+"塑料",
+4,
+"sù liào",
+"plastics; CL:种[zhǒng]"
 ],
 [
 "塑料袋",
@@ -25,84 +31,120 @@
 "plastic bag"
 ],
 [
-"资料",
-5,
-"zī liào",
-"material; resources; data; information; profile (Internet); CL:份[fen4],個|个[ge4]"
-],
-[
 "原料",
-5,
+4,
 "yuán liào",
-"raw material; CL:個|个[ge4]"
+"raw material; CL:个[gè]"
 ],
 [
-"预料",
-6,
-"yù liào",
-"to forecast; to anticipate; expectation"
+"资料",
+4,
+"zī liào",
+"material; resources; data; information; profile (Internet); CL:份[fèn],个[gè]"
 ],
 [
-"意料",
-6,
-"yì liào",
-"to anticipate; to expect"
-],
-[
-"调料",
-6,
-"tiáo liào",
-"condiment; seasoning; flavoring"
+"饮料",
+5,
+"yǐn liào",
+"drink; beverage"
 ],
 [
 "不料",
 6,
 "bù liào",
 "unexpectedly; to one's surprise"
-]
-],
-"extraWords": [
-[
-"饲料",
-21.99,
-"sì liào",
-"feed; fodder"
 ],
 [
-"塑料",
-21.29,
-"sù liào",
-"plastics; CL:種|种[zhong3]"
+"料",
+6,
+"liào",
+"material; stuff; grain; feed; to expect; to anticipate; to guess"
 ],
 [
-"原材料",
-16.97,
-"yuán cái liào",
-"raw materials; unprocessed materials"
+"出人意料",
+7,
+"chū rén yì liào",
+"unexpected (idiom); surprising"
 ],
 [
-"燃料",
-16.77,
-"rán liào",
-"fuel"
+"肥料",
+7,
+"féi liào",
+"fertilizer; manure"
 ],
 [
 "料到",
-9.48,
+7,
 "liào dào",
 "to foresee; to anticipate"
 ],
 [
+"料理",
+7,
+"liào lǐ",
+"to arrange; to handle; to cook; cuisine; art of cooking"
+],
+[
+"饲料",
+7,
+"sì liào",
+"feed; fodder"
+],
+[
+"调料",
+7,
+"tiáo liào",
+"condiment; seasoning; flavoring"
+],
+[
+"香料",
+7,
+"xiāng liào",
+"spice; flavoring; condiment; perfume"
+],
+[
+"意料",
+7,
+"yì liào",
+"to anticipate; to expect"
+],
+[
+"意料之外",
+7,
+"yì liào zhī wài",
+"contrary to expectation; unexpected"
+],
+[
+"预料",
+7,
+"yù liào",
+"to forecast; to anticipate; expectation"
+],
+[
+"原材料",
+7,
+"yuán cái liào",
+"raw materials; unprocessed materials"
+],
+[
+"照料",
+7,
+"zhào liào",
+"to tend; to take care of sb"
+],
+[
+"佐料",
+7,
+"zuǒ liào",
+"condiments; seasoning"
+]
+],
+"extraWords": [
+[
 "面料",
 9.16,
 "miàn liào",
-"material for making clothes; CL:塊|块[kuai4]"
-],
-[
-"料理",
-7.9,
-"liào lǐ",
-"to arrange; to handle; to cook; cuisine; art of cooking"
+"material for making clothes; CL:块[kuài]"
 ],
 [
 "涂料",
@@ -111,22 +153,10 @@
 "paint"
 ],
 [
-"肥料",
-7.59,
-"féi liào",
-"fertilizer; manure"
-],
-[
 "生产资料",
 7.06,
 "shēng chǎn zī liào",
 "means of production"
-],
-[
-"照料",
-5.75,
-"zhào liào",
-"to tend; to take care of sb"
 ],
 [
 "燃料油",
@@ -141,10 +171,10 @@
 "historical material or data"
 ],
 [
-"出人意料",
-5.25,
-"chū rén yì liào",
-"unexpected (idiom); surprising"
+"新材料",
+5.08,
+"???",
+"???"
 ]
 ],
 "strokes": [

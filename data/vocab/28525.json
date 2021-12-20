@@ -1,12 +1,32 @@
 {
 "char": "潭",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "deep pool, lake; deep, profound",
 "pron": "tán"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"泥潭",
+7,
+"ní tán",
+"quagmire"
+]
+],
+"extraWords": [
+[
+"潭",
+9.47,
+"Tán",
+"surname Tan"
+],
+[
+"潭",
+9.47,
+"tán",
+"deep pool; pond; pit (dialect); depression"
+]
+],
 "strokes": [
 "M 242 752 Q 266 727 291 698 Q 304 683 322 683 Q 334 683 341 697 Q 347 713 339 746 Q 335 765 304 782 Q 234 813 216 807 Q 210 803 211 789 Q 214 776 242 752 Z",
 "M 141 579 Q 186 521 218 504 Q 233 500 243 513 Q 250 526 248 543 Q 239 592 157 616 L 156 617 Q 140 624 130 620 Q 123 619 125 606 Q 126 594 141 579 Z",

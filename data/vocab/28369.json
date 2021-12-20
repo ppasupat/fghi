@@ -1,6 +1,6 @@
 {
 "char": "滑",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "slip, slide; slippery, polished",
 "pron": "huá"
@@ -20,9 +20,33 @@
 ],
 [
 "光滑",
-5,
+7,
 "guāng huá",
 "glossy; sleek; smooth"
+],
+[
+"滑冰",
+7,
+"huá bīng",
+"to skate; skating"
+],
+[
+"滑稽",
+7,
+"huá jī",
+"comical; funny; amusing; old pr. [gu3 ji1]; huaji, a form of comedy performance popular in Shanghai, Jiangsu and Zhejiang"
+],
+[
+"滑梯",
+7,
+"huá tī",
+"(children's) sliding board; a slide"
+],
+[
+"滑雪",
+7,
+"huá xuě",
+"to ski; skiing"
 ]
 ],
 "extraWords": [
@@ -33,28 +57,10 @@
 "to slide down (a slope etc); (fig.) to decline"
 ],
 [
-"滑稽",
-12.16,
-"huá jī",
-"comical; funny; amusing; old pr. [gu3 ji1]; huaji, a form of comedy performance popular in Shanghai, Jiangsu and Zhejiang"
-],
-[
-"滑雪",
-9.88,
-"huá xuě",
-"to ski; skiing"
-],
-[
 "滑板",
 7.72,
 "huá bǎn",
 "skateboard"
-],
-[
-"滑冰",
-7.04,
-"huá bīng",
-"to skate; skating"
 ],
 [
 "滑坡",

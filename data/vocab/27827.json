@@ -1,16 +1,34 @@
 {
 "char": "河",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "river; stream; yellow river",
 "pron": "hé"
 },
 "words": [
 [
-"黄河",
-3,
-"Huáng Hé",
-"Yellow River or Huang He"
+"河",
+2,
+"hé",
+"river; CL:条[tiáo],道[dào]"
+],
+[
+"河流",
+7,
+"hé liú",
+"river; CL:条[tiáo]"
+],
+[
+"河畔",
+7,
+"hé pàn",
+"riverside; river plain"
+],
+[
+"运河",
+7,
+"yùn hé",
+"canal"
 ]
 ],
 "extraWords": [
@@ -18,31 +36,31 @@
 "河南",
 39.73,
 "Hé nán",
-"Henan province (Honan) in central China, abbr. 豫, capital Zhengzhou 鄭州|郑州[Zheng4 zhou1]"
+"Henan province (Honan) in central China, abbr. 豫, capital Zhengzhou 郑州[Zhèng zhōu]"
 ],
 [
 "河北",
 22.69,
 "Hé běi",
-"Hebei province (Hopeh) in north China surrounding Beijing, short name 冀, capital Shijiazhuang 石家莊|石家庄[Shi2 jia1 zhuang1]"
+"Hebei province (Hopeh) in north China surrounding Beijing, short name 冀, capital Shijiazhuang 石家庄[Shí jiā zhuāng]"
+],
+[
+"黄河",
+18.6,
+"Huáng Hé",
+"Yellow River or Huang He"
 ],
 [
 "河南省",
 13.47,
 "Hé nán shěng",
-"Henan province (Honan) in central China, abbr. 豫[Yu4], capital Zhengzhou 鄭州|郑州[Zheng4 zhou1]"
+"Henan province (Honan) in central China, abbr. 豫[Yù], capital Zhengzhou 郑州[Zhèng zhōu]"
 ],
 [
 "河北省",
 10.65,
 "Hé běi Shěng",
-"Hebei Province (Hopeh) in north China surrounding Beijing, short name 冀[Ji4], capital Shijiazhuang 石家莊|石家庄[Shi2 jia1 zhuang1]"
-],
-[
-"河流",
-9.36,
-"hé liú",
-"river; CL:條|条[tiao2]"
+"Hebei Province (Hopeh) in north China surrounding Beijing, short name 冀[Jì], capital Shijiazhuang 石家庄[Shí jiā zhuāng]"
 ],
 [
 "爱河",
@@ -63,10 +81,16 @@
 "river course; river channel"
 ],
 [
+"河里",
+6.5,
+"???",
+"???"
+],
+[
 "天河",
 6.3,
 "Tiān hé",
-"Milky Way; Tianhe District of Guangzhou City 廣州市|广州市[Guang3 zhou1 Shi4], Guangdong"
+"Milky Way; Tianhe District of Guangzhou City 广州市[Guǎng zhōu Shì], Guangdong"
 ],
 [
 "河水",

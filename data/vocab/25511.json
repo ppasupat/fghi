@@ -1,6 +1,6 @@
 {
 "char": "控",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "accuse, charge; control",
 "pron": "kòng"
@@ -13,13 +13,49 @@
 "control; to exercise control over; to contain"
 ],
 [
+"操控",
+7,
+"cāo kòng",
+"to control; to manipulate"
+],
+[
+"监控",
+7,
+"jiān kòng",
+"to monitor"
+],
+[
+"控告",
+7,
+"kòng gào",
+"to accuse; to charge; to indict"
+],
+[
+"失控",
+7,
+"shī kòng",
+"to go out of control"
+],
+[
+"调控",
+7,
+"tiáo kòng",
+"to regulate; to control"
+],
+[
 "遥控",
-6,
+7,
 "yáo kòng",
 "remote control"
 ]
 ],
 "extraWords": [
+[
+"控",
+82.12,
+"kòng",
+"to control; to accuse; to charge; to sue; to invert a container to empty it; (suffix) (slang) buff; enthusiast; devotee; -phile or -philia"
+],
 [
 "控股",
 43.82,
@@ -33,34 +69,10 @@
 "accusation; a (criminal) charge; to accuse"
 ],
 [
-"调控",
-34.89,
-"tiáo kòng",
-"to regulate; to control"
-],
-[
-"监控",
-30.44,
-"jiān kòng",
-"to monitor"
-],
-[
 "宏观调控",
 24.23,
 "hóng guān tiáo kòng",
 "macro-control"
-],
-[
-"失控",
-17.29,
-"shī kòng",
-"to go out of control"
-],
-[
-"控告",
-12.97,
-"kòng gào",
-"to accuse; to charge; to indict"
 ],
 [
 "掌控",

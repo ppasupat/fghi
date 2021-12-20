@@ -1,6 +1,6 @@
 {
 "char": "歌",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "song, lyrics; sing, chant; praise",
 "pron": "gē"
@@ -8,72 +8,132 @@
 "words": [
 [
 "唱歌",
-2,
+1,
 "chàng gē",
 "to sing a song"
 ],
 [
-"歌颂",
-6,
-"gē sòng",
-"to sing the praises of; to extol; to eulogize"
-]
-],
-"extraWords": [
-[
-"歌曲",
-42.06,
-"gē qǔ",
-"song"
+"歌",
+1,
+"gē",
+"song; CL:支[zhī],首[shǒu]; to sing"
 ],
 [
-"歌手",
-41.58,
-"gē shǒu",
-"singer"
+"歌",
+1,
+"gē",
+"variant of 歌[gē]"
 ],
 [
 "歌迷",
-17.18,
+3,
 "gē mí",
 "fan of a singer"
 ],
 [
-"歌词",
-14.52,
-"gē cí",
-"song lyric; lyrics"
-],
-[
 "歌声",
-12.0,
+3,
 "gē shēng",
 "singing voice; fig. original voice of a poet"
 ],
 [
+"歌手",
+3,
+"gē shǒu",
+"singer"
+],
+[
+"歌曲",
+5,
+"gē qǔ",
+"song"
+],
+[
+"诗歌",
+5,
+"shī gē",
+"poem; CL:本[běn],首[shǒu],段[duàn]"
+],
+[
 "歌唱",
-11.8,
+6,
 "gē chàng",
 "to sing"
 ],
 [
-"诗歌",
-11.52,
-"shī gē",
-"poem; CL:本[ben3],首[shou3],段[duan4]"
+"歌词",
+6,
+"gē cí",
+"song lyric; lyrics"
+],
+[
+"歌星",
+6,
+"gē xīng",
+"singing star; famous singer"
+],
+[
+"国歌",
+6,
+"guó gē",
+"national anthem"
+],
+[
+"民歌",
+6,
+"mín gē",
+"folk song; CL:支[zhī],首[shǒu]"
+],
+[
+"歌剧",
+7,
+"gē jù",
+"Western opera; CL:场[chǎng],出[chū]"
+],
+[
+"歌颂",
+7,
+"gē sòng",
+"to sing the praises of; to extol; to eulogize"
 ],
 [
 "歌舞",
-8.17,
+7,
 "gē wǔ",
 "singing and dancing"
 ],
 [
-"歌剧",
-7.39,
-"gē jù",
-"Western opera; CL:場|场[chang3],齣|出[chu1]"
+"歌咏",
+7,
+"gē yǒng",
+"singing"
 ],
+[
+"凯歌",
+7,
+"kǎi gē",
+"triumphal hymn; victory song; paean"
+],
+[
+"可歌可泣",
+7,
+"kě gē kě qì",
+"lit. you can sing or you can cry (idiom); fig. deeply moving; happy and sad; inspiring and tragic"
+],
+[
+"秧歌",
+7,
+"yāng ge",
+"Yangge, a popular rural folk dance"
+],
+[
+"主题歌",
+7,
+"zhǔ tí gē",
+"theme song"
+]
+],
+"extraWords": [
 [
 "情歌",
 7.0,

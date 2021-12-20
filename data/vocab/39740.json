@@ -1,20 +1,32 @@
 {
 "char": "鬼",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "ghost; spirit of dead; devil",
 "pron": "guǐ"
 },
 "words": [
 [
-"胆小鬼",
+"鬼",
 5,
-"dǎn xiǎo guǐ",
-"coward"
+"guǐ",
+"ghost; demon; terrible; damnable; clever; sly; crafty; (suffix for sb with a certain vice or addiction etc); one of the 28 constellations"
+],
+[
+"酒鬼",
+5,
+"jiǔ guǐ",
+"drunkard"
+],
+[
+"搞鬼",
+7,
+"gǎo guǐ",
+"to make mischief; to play tricks"
 ],
 [
 "魔鬼",
-6,
+7,
 "mó guǐ",
 "devil"
 ]
@@ -39,16 +51,16 @@
 "ghost"
 ],
 [
+"胆小鬼",
+14.55,
+"dǎn xiǎo guǐ",
+"coward"
+],
+[
 "小鬼",
 10.88,
 "xiǎo guǐ",
 "little demon (term of endearment for a child); mischievous child; imp"
-],
-[
-"酒鬼",
-10.85,
-"jiǔ guǐ",
-"drunkard"
 ],
 [
 "鬼混",
@@ -66,7 +78,7 @@
 "鬼话",
 6.47,
 "guǐ huà",
-"lie; false words; nonsense; CL:篇[pian1]"
+"lie; false words; nonsense; CL:篇[piān]"
 ]
 ],
 "strokes": [

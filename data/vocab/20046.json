@@ -1,36 +1,54 @@
 {
 "char": "乎",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "interrogative or exclamatory final particle",
 "pron": "hū"
 },
 "words": [
 [
+"不在乎",
+4,
+"bù zài hu",
+"not to care"
+],
+[
 "几乎",
-3,
+4,
 "jī hū",
 "almost; nearly; practically"
 ],
 [
 "似乎",
-5,
+4,
 "sì hū",
 "apparently; to seem; to appear; as if; seemingly"
 ],
 [
 "在乎",
-5,
+4,
 "zài hu",
-"to care about; equivalent of 在於|在于[zai4 yu2]"
+"to care about; equivalent of 在于[zài yú]"
+],
+[
+"不亦乐乎",
+7,
+"bù yì lè hū",
+"lit. isn't that a joy? (quote from Confucius); fig. (jocularly) extremely; awfully"
+],
+[
+"合乎",
+7,
+"hé hū",
+"to accord with; conforming to"
 ]
 ],
 "extraWords": [
 [
-"不在乎",
-72.62,
-"bù zài hu",
-"not to care"
+"乎",
+19.98,
+"hū",
+"(classical particle similar to 于[yú]) in; at; from; because; than; (classical final particle similar to 吗[ma], 吧[ba], 呢[ne], expressing question, doubt or astonishment)"
 ],
 [
 "出乎",

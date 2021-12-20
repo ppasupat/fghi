@@ -1,6 +1,6 @@
 {
 "char": "幻",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "illusion, fantasy, mirage",
 "pron": "huàn"
@@ -8,23 +8,53 @@
 "words": [
 [
 "幻想",
-5,
+6,
 "huàn xiǎng",
 "delusion; fantasy"
-]
 ],
-"extraWords": [
+[
+"变幻莫测",
+7,
+"biàn huàn mò cè",
+"to change unpredictably; unpredictable; erratic; treacherous"
+],
 [
 "幻觉",
-20.78,
+7,
 "huàn jué",
 "illusion; hallucination; figment of one's imagination"
 ],
 [
+"幻影",
+7,
+"huàn yǐng",
+"phantom; mirage"
+],
+[
+"科幻",
+7,
+"kē huàn",
+"science fiction; abbr. for 科学幻想[kē xué huàn xiǎng]"
+],
+[
 "梦幻",
-12.04,
+7,
 "mèng huàn",
 "dream; illusion; reverie"
+],
+[
+"虚幻",
+7,
+"xū huàn",
+"imaginary; illusory"
+]
+],
+"extraWords": [
+[
+"幻",
+13.3,
+"huàn",
+"fantasy"
 ]
 ],
 "strokes": [

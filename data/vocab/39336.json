@@ -1,17 +1,30 @@
 {
 "char": "馨",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "fragrant, aromatic; distant fragrance",
 "pron": "xīn"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "温馨",
-24.71,
+7,
 "wēn xīn",
 "comfort; soft and fragrant; warm"
+]
+],
+"extraWords": [
+[
+"馨",
+5.06,
+"xīn",
+"fragrant"
+],
+[
+"康乃馨",
+0.95,
+"kāng nǎi xīn",
+"carnation (Dianthus caryophyllus) (loanword)"
 ]
 ],
 "strokes": [

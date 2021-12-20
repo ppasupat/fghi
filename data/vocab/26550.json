@@ -1,6 +1,6 @@
 {
 "char": "架",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "rack, stand, prop; prop up",
 "pron": "jià"
@@ -8,31 +8,55 @@
 "words": [
 [
 "吵架",
-5,
+3,
 "chǎo jià",
-"to quarrel; to have a row; quarrel; CL:頓|顿[dun4]"
+"to quarrel; to have a row; quarrel; CL:顿[dùn]"
+],
+[
+"架",
+3,
+"jià",
+"to support; frame; rack; framework; classifier for planes, large vehicles, radios etc"
 ],
 [
 "书架",
-5,
+3,
 "shū jià",
-"bookshelf; CL:個|个[ge4]"
+"bookshelf; CL:个[gè]"
+],
+[
+"衣架",
+3,
+"yī jià",
+"clothes hanger; clothes rack"
+],
+[
+"打架",
+5,
+"dǎ jià",
+"to fight; to scuffle; to come to blows; CL:场[cháng]"
 ],
 [
 "绑架",
-6,
+7,
 "bǎng jià",
 "to kidnap; to abduct; to hijack; a kidnapping; abduction; staking"
 ],
 [
-"打架",
-6,
-"dǎ jià",
-"to fight; to scuffle; to come to blows; CL:場|场[chang2]"
+"架势",
+7,
+"jià shi",
+"attitude; position (on an issue etc)"
+],
+[
+"架子",
+7,
+"jià zi",
+"shelf; frame; stand; framework; airs; arrogance"
 ],
 [
 "框架",
-6,
+7,
 "kuàng jià",
 "frame; framework; fig. pattern; outline; organizing plan"
 ]
@@ -49,12 +73,6 @@
 10.35,
 "jià gòu",
 "to construct; to build; infrastructure; architecture; framework"
-],
-[
-"架子",
-8.5,
-"jià zi",
-"shelf; frame; stand; framework; airs; arrogance"
 ],
 [
 "支架",

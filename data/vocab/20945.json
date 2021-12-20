@@ -1,16 +1,34 @@
 {
 "char": "凑",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "piece together, assemble",
 "pron": "còu"
 },
 "words": [
 [
+"凑",
+7,
+"còu",
+"to gather together, pool or collect; to happen by chance; to move close to; to exploit an opportunity"
+],
+[
 "凑合",
-6,
+7,
 "còu he",
 "to bring together; to make do in a bad situation; to just get by; to improvise; passable; not too bad"
+],
+[
+"凑巧",
+7,
+"còu qiǎo",
+"fortuitously; luckily; as chance has it"
+],
+[
+"紧凑",
+7,
+"jǐn còu",
+"compact; terse; tight (schedule)"
 ]
 ],
 "extraWords": [],

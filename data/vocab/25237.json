@@ -1,22 +1,34 @@
 {
 "char": "投",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "throw, cast, fling, pitch; jump",
 "pron": "tóu"
 },
 "words": [
 [
-"投资",
-5,
-"tóu zī",
-"investment; to invest"
+"投",
+4,
+"tóu",
+"to cast; to send; to throw oneself (into the river etc); to seek refuge; to place oneself into the hands of"
 ],
 [
 "投入",
-5,
+4,
 "tóu rù",
 "to throw into; to put into; to throw oneself into; to participate in; to invest in; absorbed; engrossed"
+],
+[
+"投诉",
+4,
+"tóu sù",
+"complaint; to complain; to register a complaint (esp. as a customer)"
+],
+[
+"投资",
+4,
+"tóu zī",
+"investment; to invest"
 ],
 [
 "投票",
@@ -25,28 +37,46 @@
 "to vote; vote"
 ],
 [
+"投奔",
+7,
+"tóu bèn",
+"to seek shelter; to seek asylum"
+],
+[
+"投稿",
+7,
+"tóu gǎo",
+"to submit articles for publication; to contribute (writing)"
+],
+[
+"投机",
+7,
+"tóu jī",
+"to speculate (on financial markets); opportunistic; congenial; agreeable"
+],
+[
+"投射",
+7,
+"tóu shè",
+"to throw (a projectile); to cast (light)"
+],
+[
+"投身",
+7,
+"tóu shēn",
+"to throw oneself into sth"
+],
+[
 "投降",
-6,
+7,
 "tóu xiáng",
 "to surrender; surrender"
 ],
 [
-"投诉",
-6,
-"tóu sù",
-"complaint; to complain; to register a complaint (esp. as a customer)"
-],
-[
-"投掷",
-6,
-"tóu zhì",
-"to throw sth a long distance; to hurl; to throw at; to throw (dice etc); to flip (a coin)"
-],
-[
-"投机",
-6,
-"tóu jī",
-"to speculate (on financial markets); opportunistic; congenial; agreeable"
+"走投无路",
+7,
+"zǒu tóu wú lù",
+"to be at an impasse (idiom); in a tight spot; at the end of one's rope; desperate"
 ]
 ],
 "extraWords": [
@@ -75,10 +105,22 @@
 "to bid; to make a tender"
 ],
 [
+"证券投资",
+12.09,
+"???",
+"???"
+],
+[
 "投资人",
 10.84,
 "tóu zī rén",
 "investor"
+],
+[
+"投向",
+8.44,
+"???",
+"???"
 ],
 [
 "投篮",
@@ -99,10 +141,10 @@
 "to take out insurance; to insure"
 ],
 [
-"投身",
-6.35,
-"tóu shēn",
-"to throw oneself into sth"
+"投球",
+6.53,
+"???",
+"???"
 ],
 [
 "投注",
@@ -115,6 +157,12 @@
 6.05,
 "tóu shǒu",
 "thrower; pitcher; bowler"
+],
+[
+"投资额",
+5.5,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "趣",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "what attracts one's attention",
 "pron": "qù"
@@ -8,9 +8,21 @@
 "words": [
 [
 "感兴趣",
-3,
+4,
 "gǎn xìng qù",
 "to be interested"
+],
+[
+"乐趣",
+4,
+"lè qù",
+"delight; pleasure; joy"
+],
+[
+"兴趣",
+4,
+"xìng qù",
+"interest (desire to know about sth); interest (thing in which one is interested); hobby; CL:个[gè]"
 ],
 [
 "有趣",
@@ -19,30 +31,24 @@
 "interesting; fascinating; amusing"
 ],
 [
-"乐趣",
-6,
-"lè qù",
-"delight; pleasure; joy"
-],
-[
 "风趣",
-6,
+7,
 "fēng qù",
 "charm; humor; wit; humorous; witty"
 ],
 [
 "趣味",
-6,
+7,
 "qù wèi",
 "fun; interest; delight; taste; liking; preference"
 ]
 ],
 "extraWords": [
 [
-"兴趣",
-116.91,
-"xìng qù",
-"interest (desire to know about sth); interest (thing in which one is interested); hobby; CL:個|个[ge4]"
+"趣",
+23.25,
+"qù",
+"interesting; to interest"
 ],
 [
 "有兴趣",

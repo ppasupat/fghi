@@ -1,38 +1,61 @@
 {
 "char": "刷",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "brush; clean with brush, scrub",
 "pron": "shuā, shuà"
 },
 "words": [
 [
+"刷",
+4,
+"shuā",
+"to brush; to paint; to daub; to paste up; to skip class (of students); to fire from a job"
+],
+[
+"刷",
+4,
+"shuà",
+"to select"
+],
+[
 "刷牙",
-3,
+4,
 "shuā yá",
 "to brush one's teeth"
+],
+[
+"刷子",
+4,
+"shuā zi",
+"brush; scrub; CL:把[bǎ]"
+],
+[
+"牙刷",
+4,
+"yá shuā",
+"toothbrush; CL:把[bǎ]"
 ],
 [
 "印刷",
 5,
 "yìn shuā",
 "to print; printing"
-]
 ],
-"extraWords": [
 [
 "刷新",
-9.96,
+7,
 "shuā xīn",
 "to renovate; to refurbish; to refresh (computer window); to write a new page (in history); to break (a record)"
 ],
 [
-"牙刷",
-5.01,
-"yá shuā",
-"toothbrush; CL:把[ba3]"
+"印刷术",
+7,
+"yìn shuā shù",
+"printing; printing technology"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 523 633 Q 545 697 574 715 Q 589 733 575 749 Q 559 762 511 784 Q 493 791 473 784 Q 404 754 304 735 C 275 729 289 698 318 705 Q 477 742 485 735 Q 495 725 474 637 C 467 608 513 605 523 633 Z",
 "M 290 562 Q 291 562 294 561 Q 304 560 316 562 Q 385 581 534 603 Q 544 604 545 613 Q 545 620 523 633 L 474 637 Q 473 637 472 637 Q 375 609 295 592 C 266 586 260 567 290 562 Z",

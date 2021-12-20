@@ -1,42 +1,66 @@
 {
 "char": "廉",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "upright, honorable, honest",
 "pron": "lián"
 },
 "words": [
 [
-"物美价廉",
-6,
-"wù měi jià lián",
-"good quality and cheap; a bargain"
+"廉价",
+7,
+"lián jià",
+"cheaply-priced; low-cost"
 ],
 [
 "廉洁",
-6,
+7,
 "lián jié",
 "honest; not coercive; honesty; integrity; incorruptible"
+],
+[
+"廉正",
+7,
+"lián zhèng",
+"upright and honest; integrity"
+],
+[
+"廉政",
+7,
+"lián zhèng",
+"honest or clean politics"
 ]
 ],
 "extraWords": [
+[
+"廉",
+25.61,
+"lián",
+"old variant of 廉[lián]"
+],
+[
+"廉",
+25.61,
+"lián",
+"old variant of 廉[lián]"
+],
+[
+"廉",
+25.61,
+"Lián",
+"surname Lian"
+],
+[
+"廉",
+25.61,
+"lián",
+"incorruptible; honest; inexpensive; to investigate (old); side wall of a traditional Chinese house (old)"
+],
 [
 "威廉",
 16.63,
 "Wēi lián",
 "William or Wilhelm (name)"
-],
-[
-"廉政",
-13.68,
-"lián zhèng",
-"honest or clean politics"
-],
-[
-"廉价",
-9.26,
-"lián jià",
-"cheaply-priced; low-cost"
 ]
 ],
 "strokes": [

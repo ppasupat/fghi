@@ -1,6 +1,6 @@
 {
 "char": "狸",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "fox",
 "pron": "lí"
@@ -18,6 +18,18 @@
 5.01,
 "hǎi lí",
 "beaver"
+],
+[
+"狸",
+2.99,
+"lí",
+"raccoon dog; fox-like animal"
+],
+[
+"狸",
+2.99,
+"lí",
+"variant of 狸[lí]"
 ]
 ],
 "strokes": [

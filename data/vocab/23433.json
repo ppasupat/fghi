@@ -1,6 +1,6 @@
 {
 "char": "安",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "peaceful, tranquil, quiet",
 "pron": "ān"
@@ -8,107 +8,173 @@
 "words": [
 [
 "安静",
-3,
+2,
 "ān jìng",
 "quiet; peaceful; calm"
 ],
 [
 "安全",
-4,
+2,
 "ān quán",
 "safe; secure; safety; security"
 ],
 [
+"平安",
+2,
+"píng ān",
+"safe and sound; well; without mishap; quiet and safe; at peace"
+],
+[
+"晚安",
+2,
+"wǎn ān",
+"Good night!; Good evening!"
+],
+[
+"一路平安",
+2,
+"yī lù píng ān",
+"to have a pleasant journey; Bon voyage!"
+],
+[
 "安排",
-4,
+3,
 "ān pái",
 "to arrange; to plan; to set up; arrangements; plans"
+],
+[
+"安装",
+3,
+"ān zhuāng",
+"to install; to erect; to fix; to mount; installation"
+],
+[
+"保安",
+3,
+"bǎo ān",
+"to ensure public security; to ensure safety (for workers engaged in production); public security; security guard"
+],
+[
+"不安",
+3,
+"bù ān",
+"unpeaceful; unstable; uneasy; disturbed; restless; worried"
+],
+[
+"安",
+4,
+"Ān",
+"surname An"
+],
+[
+"安",
+4,
+"ān",
+"content; calm; still; quiet; safe; secure; in good health; to find a place for; to install; to fix; to fit; to bring (a charge against sb); to pacify; to harbor (good intentions); security; safety; peace; ampere"
+],
+[
+"安置",
+4,
+"ān zhì",
+"to find a place for; to help settle down; to arrange for; to get into bed; placement"
 ],
 [
 "安慰",
 5,
 "ān wèi",
-"to comfort; to console; CL:個|个[ge4]"
-],
-[
-"不安",
-5,
-"bù ān",
-"unpeaceful; unstable; uneasy; disturbed; restless; worried"
-],
-[
-"平安",
-5,
-"píng ān",
-"safe and sound; well; without mishap; quiet and safe; at peace"
-],
-[
-"安装",
-5,
-"ān zhuāng",
-"to install; to erect; to fix; to mount; installation"
+"to comfort; to console; CL:个[gè]"
 ],
 [
 "治安",
-6,
+5,
 "zhì ān",
 "law and order; public security"
 ],
 [
-"安宁",
+"安检",
 6,
-"Ān níng",
-"Anning District of Lanzhou City 蘭州市|兰州市[Lan2 zhou1 Shi4], Gansu; Anning City, to the west of Kunming 昆明[Kun1 ming2], Yunnan"
+"ān jiǎn",
+"security check; to undergo a security check; abbr. for 安全检查[ān quán jiǎn chá]"
+],
+[
+"公安",
+6,
+"gōng ān",
+"(Ministry of) Public Security; public safety; public security"
+],
+[
+"安定",
+7,
+"Ān dìng",
+"Anting township in Tainan county 台南县[Tái nán xiàn], Taiwan"
+],
+[
+"安定",
+7,
+"ān dìng",
+"stable; quiet; settled; stabilize; maintain; stabilized; calm and orderly"
+],
+[
+"安抚",
+7,
+"ān fǔ",
+"to placate; to pacify; to appease"
+],
+[
+"安眠药",
+7,
+"ān mián yào",
+"sleeping pill; CL:粒[lì]"
 ],
 [
 "安宁",
-6,
+7,
+"Ān níng",
+"Anning District of Lanzhou City 兰州市[Lán zhōu Shì], Gansu; Anning City, to the west of Kunming 昆明[Kūn míng], Yunnan"
+],
+[
+"安宁",
+7,
 "ān níng",
 "peaceful; tranquil; calm; composed; free from worry"
 ],
 [
-"安置",
-6,
-"ān zhì",
-"to find a place for; to help settle down; to arrange for; to get into bed; placement"
+"安稳",
+7,
+"ān wěn",
+"smooth and steady"
 ],
 [
-"安详",
-6,
-"ān xiáng",
-"serene"
+"安心",
+7,
+"ān xīn",
+"at ease; to feel relieved; to set one's mind at rest; to keep one's mind on sth"
+],
+[
+"安逸",
+7,
+"ān yì",
+"easy and comfortable; easy"
 ],
 [
 "公安局",
-6,
+7,
 "gōng ān jú",
 "public security bureau (government office similar in function to a police station)"
+],
+[
+"心安理得",
+7,
+"xīn ān lǐ dé",
+"to have a clear conscience; to have no qualms about sth"
 ]
 ],
 "extraWords": [
 [
-"晚安",
-113.16,
-"wǎn ān",
-"Good night!; Good evening!"
-],
-[
-"保安",
-40.45,
-"bǎo ān",
-"to ensure public security; to ensure safety (for workers engaged in production); public security; security guard"
-],
-[
 "西安",
 36.79,
 "Xī ān",
-"Xi'an, sub-provincial city and capital of Shaanxi 陝西省|陕西省[Shan3 xi1 Sheng3] in northwest China; see 西安區|西安区[Xi1 an1 Qu1]"
-],
-[
-"公安",
-35.87,
-"gōng ān",
-"(Ministry of) Public Security; public safety; public security"
+"Xi'an, sub-provincial city and capital of Shaanxi 陕西省[Shǎn xī Shěng] in northwest China; see 西安区[Xī ān Qū]"
 ],
 [
 "早安",
@@ -120,7 +186,7 @@
 "安徽",
 24.0,
 "Ān huī",
-"Anhui Province (Anhwei) in south central China, abbr. 皖[Wan3], capital Hefei 合肥[He2 fei2]"
+"Anhui Province (Anhwei) in south central China, abbr. 皖[Wǎn], capital Hefei 合肥[Hé féi]"
 ],
 [
 "安娜",
@@ -141,22 +207,28 @@
 "(American) Indian; native American; indigenous peoples of the Americas"
 ],
 [
+"安全生产",
+18.44,
+"???",
+"???"
+],
+[
 "安理会",
 16.73,
 "Ān Lǐ huì",
 "(United Nations) Security Council"
 ],
 [
-"安心",
-15.28,
-"ān xīn",
-"at ease; to feel relieved; to set one's mind at rest; to keep one's mind on sth"
+"安迪",
+15.65,
+"???",
+"???"
 ],
 [
 "长安",
 14.79,
 "Cháng ān",
-"Chang'an (ancient name of Xi'an 西安[Xi1 an1]) capital of China during Tang Dynasty 唐朝[Tang2 chao2]; now 長安區|长安区[Chang2 an1 Qu1], a district of Xi'an"
+"Chang'an (ancient name of Xi'an 西安[Xī ān]) capital of China during Tang Dynasty 唐朝[Táng cháo]; now 长安区[Cháng ān Qū], a district of Xi'an"
 ],
 [
 "安妮",
@@ -195,28 +267,16 @@
 "Ministry of Public Security"
 ],
 [
-"安定",
-10.57,
-"Ān dìng",
-"Anting township in Tainan county 台南縣|台南县[Tai2 nan2 xian4], Taiwan"
-],
-[
-"安定",
-10.57,
-"ān dìng",
-"stable; quiet; settled; stabilize; maintain; stabilized; calm and orderly"
-],
-[
 "国安",
 9.77,
 "guó ān",
-"national security (abbr. for 國家安全|国家安全[guo2 jia1 an1 quan2]); national security act; state security agency"
+"national security (abbr. for 国家安全[guó jiā ān quán]); national security act; state security agency"
 ],
 [
 "安徽省",
 9.56,
 "Ān huī Shěng",
-"Anhui Province (Anhwei) in south central China, abbr. 皖[Wan3], capital Hefei 合肥[He2 fei2]"
+"Anhui Province (Anhwei) in south central China, abbr. 皖[Wǎn], capital Hefei 合肥[Hé féi]"
 ],
 [
 "安东尼",
@@ -225,22 +285,34 @@
 "Anthony (name)"
 ],
 [
+"公安厅",
+7.73,
+"???",
+"???"
+],
+[
 "延安",
 7.48,
 "Yán ān",
 "Yan'an prefecture level city in Shaanxi, communist headquarters during the war"
 ],
 [
+"交通安全",
+6.95,
+"???",
+"???"
+],
+[
 "安南",
 6.85,
 "Ān nán",
-"Annam (Tang Dynasty protectorate located in what is now northern Vietnam); Annam (autonomous kingdom located in what is now northern Vietnam, 10th-15th century); Annam (central part of Vietnam during the French colonial period); old name for Vietnam; Annan District in Tainan 臺南|台南[Tai2 nan2], Taiwan; Kofi Annan (1938-2018), UN secretary-general 1997-2006"
+"Annam (Tang Dynasty protectorate located in what is now northern Vietnam); Annam (autonomous kingdom located in what is now northern Vietnam, 10th-15th century); Annam (central part of Vietnam during the French colonial period); old name for Vietnam; Annan District in Tainan 台南[Tái nán], Taiwan; Kofi Annan (1938-2018), UN secretary-general 1997-2006"
 ],
 [
 "西安市",
 6.73,
 "Xī ān Shì",
-"Xi’an, sub-provincial city and capital of Shaanxi 陝西省|陕西省[Shan3 xi1 Sheng3] in northwest China"
+"Xi’an, sub-provincial city and capital of Shaanxi 陕西省[Shǎn xī Shěng] in northwest China"
 ],
 [
 "安保",
@@ -258,7 +330,7 @@
 "安居",
 5.63,
 "Ān jū",
-"Anju district of Suining city 遂寧市|遂宁市[Sui4 ning2 shi4], Sichuan"
+"Anju district of Suining city 遂宁市[Suì níng shì], Sichuan"
 ],
 [
 "安居",
@@ -267,28 +339,16 @@
 "to settle down; to live peacefully"
 ],
 [
-"安眠药",
-5.37,
-"ān mián yào",
-"sleeping pill; CL:粒[li4]"
-],
-[
-"安稳",
-5.24,
-"ān wěn",
-"smooth and steady"
-],
-[
 "安顿",
 5.13,
 "ān dùn",
 "to find a place for; to help settle down; to arrange for; undisturbed; peaceful"
 ],
 [
-"安抚",
-5.0,
-"ān fǔ",
-"to placate; to pacify; to appease"
+"安全部",
+5.01,
+"???",
+"???"
 ]
 ],
 "strokes": [

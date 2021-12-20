@@ -1,6 +1,6 @@
 {
 "char": "气",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "steam, vapor; KangXi radical 84",
 "pron": "qì"
@@ -13,154 +13,124 @@
 "you're welcome; don't mention it; impolite; rude; blunt"
 ],
 [
+"生气",
+1,
+"shēng qì",
+"to get angry; to take offense; angry; vitality; liveliness"
+],
+[
 "天气",
 1,
 "tiān qì",
 "weather"
 ],
 [
-"生气",
-3,
-"shēng qì",
-"to get angry; to take offense; angry; vitality; liveliness"
-],
-[
 "空气",
-4,
+2,
 "kōng qì",
 "air; atmosphere"
 ],
 [
-"脾气",
-4,
-"pí qi",
-"character; temperament; disposition; bad temper; CL:個|个[ge4]"
+"气",
+2,
+"qì",
+"gas; air; smell; weather; to make angry; to annoy; to get angry; vital energy; qi"
+],
+[
+"气温",
+2,
+"qì wēn",
+"air temperature; CL:个[gè]"
+],
+[
+"气候",
+3,
+"qì hòu",
+"climate; atmosphere; situation; CL:种[zhǒng]"
 ],
 [
 "力气",
 4,
 "lì qi",
-"strength; CL:把[ba3]"
+"strength; CL:把[bǎ]"
 ],
 [
-"气候",
+"暖气",
 4,
-"qì hòu",
-"climate; atmosphere; situation; CL:種|种[zhong3]"
+"nuǎn qì",
+"central heating; heater; warm air"
 ],
 [
-"运气",
-5,
-"yùn qi",
-"luck (good or bad)"
+"气球",
+4,
+"qì qiú",
+"balloon"
 ],
 [
 "勇气",
-5,
+4,
 "yǒng qì",
 "courage; valor"
 ],
 [
-"气氛",
+"运气",
+4,
+"yùn qi",
+"luck (good or bad)"
+],
+[
+"客气",
 5,
-"qì fēn",
-"atmosphere; mood"
+"kè qi",
+"polite; courteous; formal; modest"
 ],
 [
-"语气",
+"煤气",
 5,
-"yǔ qì",
-"tone; manner of speaking; mood; CL:個|个[ge4]"
+"méi qì",
+"coal gas; gas (fuel)"
 ],
 [
-"淘气",
+"脾气",
 5,
-"táo qì",
-"naughty; mischievous"
+"pí qi",
+"character; temperament; disposition; bad temper; CL:个[gè]"
 ],
 [
-"小气",
+"气体",
 5,
-"xiǎo qì",
-"stingy; miserly; narrow-minded; petty"
-],
-[
-"气味",
-6,
-"qì wèi",
-"odor; scent"
-],
-[
-"氧气",
-6,
-"yǎng qì",
-"oxygen"
-],
-[
-"气色",
-6,
-"qì sè",
-"complexion"
-],
-[
-"口气",
-6,
-"kǒu qì",
-"tone of voice; the way one speaks; manner of expression; tone"
-],
-[
-"气质",
-6,
-"qì zhì",
-"temperament; personality traits; manners"
+"qì tǐ",
+"gas (i.e. gaseous substance)"
 ],
 [
 "气象",
-6,
+5,
 "qì xiàng",
-"meteorological feature; CL:個|个[ge4]; meteorology; atmosphere; ambience; scene"
-],
-[
-"喘气",
-6,
-"chuǎn qì",
-"to breathe deeply; to pant"
-],
-[
-"气概",
-6,
-"qì gài",
-"lofty quality; mettle; spirit"
-],
-[
-"气压",
-6,
-"qì yā",
-"atmospheric pressure; barometric pressure"
-],
-[
-"气势",
-6,
-"qì shì",
-"imposing manner; loftiness; grandeur; energetic looks; vigor"
-],
-[
-"泄气",
-6,
-"xiè qì",
-"to leak (gas); to be discouraged; to despair; (disparaging) pathetic; to vent one's anger; (of a tire) to be flat"
+"meteorological feature; CL:个[gè]; meteorology; atmosphere; ambience; scene"
 ],
 [
 "天然气",
-6,
+5,
 "tiān rán qì",
 "natural gas"
 ],
 [
-"福气",
+"一口气",
+5,
+"yī kǒu qì",
+"one breath; in one breath; at a stretch"
+],
+[
+"冷气",
 6,
-"fú qi",
-"good fortune; a blessing"
+"lěng qì",
+"air conditioning (Tw)"
+],
+[
+"气氛",
+6,
+"qì fēn",
+"atmosphere; mood"
 ],
 [
 "叹气",
@@ -169,114 +139,270 @@
 "to sigh; to heave a sigh"
 ],
 [
-"和气",
+"氧气",
 6,
-"hé qi",
-"friendly; polite; amiable"
+"yǎng qì",
+"oxygen"
 ],
 [
-"争气",
-6,
-"zhēng qì",
-"to work hard for sth; to resolve on improvement; determined not to fall short"
+"不服气",
+7,
+"bù fú qì",
+"unwilling to concede; defiant; indignant; to find it galling"
 ],
 [
-"神气",
-6,
-"shén qì",
-"expression; manner; vigorous; impressive; lofty; pretentious"
+"不景气",
+7,
+"bù jǐng qì",
+"slack; in a slump"
+],
+[
+"垂头丧气",
+7,
+"chuí tóu sàng qì",
+"hanging one's head dispiritedly (idiom); dejected; crestfallen"
+],
+[
+"大气",
+7,
+"dà qì",
+"atmosphere (surrounding the earth); imposing; impressive; stylish"
+],
+[
+"发脾气",
+7,
+"fā pí qì",
+"to get angry"
 ],
 [
 "风气",
-6,
+7,
 "fēng qì",
 "general mood; atmosphere; common practice"
 ],
 [
-"志气",
-6,
-"zhì qì",
-"ambition; resolve; backbone; drive; spirit"
+"福气",
+7,
+"fú qi",
+"good fortune; a blessing"
 ],
 [
-"气魄",
-6,
-"qì pò",
-"spirit; boldness; positive outlook; imposing attitude"
+"骨气",
+7,
+"gǔ qì",
+"unyielding character; courageous spirit; integrity; moral backbone"
 ],
 [
-"服气",
-6,
-"fú qì",
-"to be convinced; to accept"
+"和气",
+7,
+"hé qi",
+"friendly; polite; amiable"
 ],
 [
 "娇气",
-6,
+7,
 "jiāo qì",
 "delicate; squeamish; finicky"
 ],
 [
-"气功",
-6,
-"qì gōng",
-"qigong, a system of deep breathing exercises"
+"节气",
+7,
+"jié qi",
+"solar term"
 ],
 [
-"正气",
-6,
-"zhèng qì",
-"healthy environment; healthy atmosphere; righteousness; vital energy (in Chinese medicine)"
-],
-[
-"朝气蓬勃",
-6,
-"zhāo qì péng bó",
-"full of youthful energy (idiom); vigorous; energetic; a bright spark"
+"口气",
+7,
+"kǒu qì",
+"tone of voice; the way one speaks; manner of expression; tone"
 ],
 [
 "理直气壮",
-6,
+7,
 "lǐ zhí qì zhuàng",
 "in the right and self-confident (idiom); bold and confident with justice on one's side; to have the courage of one's convictions; just and forceful"
-]
-],
-"extraWords": [
-[
-"客气",
-67.1,
-"kè qi",
-"polite; courteous; formal; modest"
 ],
 [
-"气温",
-39.08,
-"qì wēn",
-"air temperature; CL:個|个[ge4]"
+"名气",
+7,
+"míng qì",
+"reputation; fame"
+],
+[
+"气愤",
+7,
+"qì fèn",
+"indignant; furious"
+],
+[
+"气管",
+7,
+"qì guǎn",
+"windpipe; trachea; respiratory tract; air duct; gas pipe"
+],
+[
+"气馁",
+7,
+"qì něi",
+"to be discouraged"
+],
+[
+"气派",
+7,
+"qì pài",
+"impressive; stylish; magnificent; imposing manner; dignified air"
+],
+[
+"气泡",
+7,
+"qì pào",
+"bubble; blister (in metal); (of beverages) sparkling; carbonated"
+],
+[
+"气魄",
+7,
+"qì pò",
+"spirit; boldness; positive outlook; imposing attitude"
+],
+[
+"气势",
+7,
+"qì shì",
+"imposing manner; loftiness; grandeur; energetic looks; vigor"
+],
+[
+"气味",
+7,
+"qì wèi",
+"odor; scent"
 ],
 [
 "气息",
-24.28,
+7,
 "qì xī",
 "breath; smell; odor; flavor"
 ],
 [
-"一口气",
-22.89,
-"yī kǒu qì",
-"one breath; in one breath; at a stretch"
+"气质",
+7,
+"qì zhì",
+"temperament; personality traits; manners"
 ],
+[
+"燃气",
+7,
+"rán qì",
+"fuel gas (coal gas, natural gas, methane etc)"
+],
+[
+"热气",
+7,
+"rè qì",
+"steam; heat; CL:股[gǔ]"
+],
+[
+"热气球",
+7,
+"rè qì qiú",
+"hot air balloon"
+],
+[
+"人气",
+7,
+"rén qì",
+"popularity; personality; character"
+],
+[
+"神气",
+7,
+"shén qì",
+"expression; manner; vigorous; impressive; lofty; pretentious"
+],
+[
+"盛气凌人",
+7,
+"shèng qì líng rén",
+"overbearing; arrogant bully"
+],
+[
+"士气",
+7,
+"shì qì",
+"morale"
+],
+[
+"淘气",
+7,
+"táo qì",
+"naughty; mischievous"
+],
+[
+"透气",
+7,
+"tòu qì",
+"to flow freely (of air); to ventilate; to breathe (of fabric etc); to take a breath of fresh air; to divulge"
+],
+[
+"尾气",
+7,
+"wěi qì",
+"exhaust (i.e. waste gas from engine); emissions"
+],
+[
+"小气",
+7,
+"xiǎo qì",
+"stingy; miserly; narrow-minded; petty"
+],
+[
+"泄气",
+7,
+"xiè qì",
+"to leak (gas); to be discouraged; to despair; (disparaging) pathetic; to vent one's anger; (of a tire) to be flat"
+],
+[
+"一鼓作气",
+7,
+"yī gǔ zuò qì",
+"in a spurt of energy"
+],
+[
+"语气",
+7,
+"yǔ qì",
+"tone; manner of speaking; mood; CL:个[gè]"
+],
+[
+"怨气",
+7,
+"yuàn qì",
+"grievance; resentment; complaint"
+],
+[
+"朝气蓬勃",
+7,
+"zhāo qì péng bó",
+"full of youthful energy (idiom); vigorous; energetic; a bright spark"
+],
+[
+"争气",
+7,
+"zhēng qì",
+"to work hard for sth; to resolve on improvement; determined not to fall short"
+],
+[
+"志气",
+7,
+"zhì qì",
+"ambition; resolve; backbone; drive; spirit"
+]
+],
+"extraWords": [
 [
 "霸气",
 20.27,
 "bà qì",
-"imperious; aggressive; assertive; dictatorial manner; boldness; CL:股[gu3]"
-],
-[
-"大气",
-18.88,
-"dà qì",
-"atmosphere (surrounding the earth); imposing; impressive; stylish"
+"imperious; aggressive; assertive; dictatorial manner; boldness; CL:股[gǔ]"
 ],
 [
 "毒气",
@@ -291,22 +417,16 @@
 "handsome; smart; dashing; elegant"
 ],
 [
-"气体",
-15.66,
-"qì tǐ",
-"gas (i.e. gaseous substance)"
+"气色",
+9.36,
+"qì sè",
+"complexion"
 ],
 [
-"燃气",
-10.2,
-"rán qì",
-"fuel gas (coal gas, natural gas, methane etc)"
-],
-[
-"气愤",
-9.3,
-"qì fèn",
-"indignant; furious"
+"冷空气",
+9.07,
+"???",
+"???"
 ],
 [
 "电气",
@@ -315,40 +435,10 @@
 "electricity; electric; electrical"
 ],
 [
-"气球",
-8.88,
-"qì qiú",
-"balloon"
-],
-[
-"煤气",
-8.87,
-"méi qì",
-"coal gas; gas (fuel)"
-],
-[
-"发脾气",
-8.64,
-"fā pí qì",
-"to get angry"
-],
-[
 "气象台",
 7.93,
 "qì xiàng tái",
 "meteorological office; weather forecasting office"
-],
-[
-"气管",
-7.1,
-"qì guǎn",
-"windpipe; trachea; respiratory tract; air duct; gas pipe"
-],
-[
-"士气",
-6.81,
-"shì qì",
-"morale"
 ],
 [
 "手气",
@@ -367,18 +457,6 @@
 6.59,
 "qì sǐ",
 "to infuriate; to be furious; to die from an excess of anger"
-],
-[
-"暖气",
-6.56,
-"nuǎn qì",
-"central heating; heater; warm air"
-],
-[
-"名气",
-6.52,
-"míng qì",
-"reputation; fame"
 ],
 [
 "景气",
@@ -409,6 +487,12 @@
 5.27,
 "tōng qì",
 "ventilation; aeration; to keep each other informed; to release information"
+],
+[
+"正气",
+5.06,
+"zhèng qì",
+"healthy environment; healthy atmosphere; righteousness; vital energy (in Chinese medicine)"
 ],
 [
 "香气",

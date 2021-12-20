@@ -1,16 +1,22 @@
 {
 "char": "降",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "descend, fall, drop; lower, down",
 "pron": "jiàng, xiáng"
 },
 "words": [
 [
-"降落",
+"降",
 4,
-"jiàng luò",
-"to descend; to land"
+"jiàng",
+"to drop; to fall; to come down; to descend"
+],
+[
+"降",
+4,
+"xiáng",
+"to surrender; to capitulate; to subdue; to tame"
 ],
 [
 "降低",
@@ -19,36 +25,54 @@
 "to reduce; to lower; to bring down"
 ],
 [
-"投降",
-6,
-"tóu xiáng",
-"to surrender; surrender"
-],
-[
-"降临",
-6,
-"jiàng lín",
-"to descend; to arrive; to come"
-]
-],
-"extraWords": [
-[
-"下降",
-140.26,
-"xià jiàng",
-"to decline; to drop; to fall; to go down; to decrease"
-],
-[
 "降价",
-30.26,
+4,
 "jiàng jià",
 "to cut the price; to drive down the price; to get cheaper"
 ],
 [
+"降落",
+4,
+"jiàng luò",
+"to descend; to land"
+],
+[
 "降温",
-14.09,
+4,
 "jiàng wēn",
 "to become cooler; to lower the temperature; cooling; (of interest, activity etc) to decline"
+],
+[
+"下降",
+4,
+"xià jiàng",
+"to decline; to drop; to fall; to go down; to decrease"
+],
+[
+"降临",
+7,
+"jiàng lín",
+"to descend; to arrive; to come"
+],
+[
+"投降",
+7,
+"tóu xiáng",
+"to surrender; surrender"
+]
+],
+"extraWords": [
+[
+"降到",
+13.54,
+"???",
+"???"
+],
+[
+"降至",
+12.85,
+"???",
+"???"
 ],
 [
 "降雨",

@@ -1,32 +1,31 @@
 {
 "char": "暑",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "hot",
 "pron": "shǔ"
 },
 "words": [
 [
-"放暑假",
-4,
-"fang4 shu3 jia4",
-"to have a summer vacation"
-]
-],
-"extraWords": [
-[
 "暑假",
-9.79,
+4,
 "shǔ jià",
-"summer vacation; CL:個|个[ge4]"
+"summer vacation; CL:个[gè]"
+],
+[
+"避暑",
+7,
+"bì shǔ",
+"to be away for the summer holidays; to spend a holiday at a summer resort; to prevent sunstroke"
 ],
 [
 "暑期",
-5.53,
+7,
 "shǔ qī",
 "summer vacation time"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 370 779 Q 358 783 332 789 Q 320 792 317 787 Q 310 780 319 765 Q 347 705 364 608 Q 367 580 384 560 Q 402 538 407 553 Q 410 560 410 572 L 410 599 Q 407 623 400 662 L 396 687 Q 389 730 387 748 C 384 775 384 775 370 779 Z",
 "M 587 590 Q 602 566 617 558 Q 626 551 641 570 Q 654 589 684 703 Q 693 731 715 754 Q 728 764 717 779 Q 704 795 664 820 Q 652 826 570 812 Q 567 812 453 793 Q 408 786 370 779 C 340 774 358 741 387 748 Q 606 802 628 776 Q 638 763 636 750 Q 612 633 597 616 C 585 593 585 593 587 590 Z",

@@ -1,6 +1,6 @@
 {
 "char": "欣",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "happy, joyous, delighted",
 "pron": "xīn"
@@ -14,22 +14,28 @@
 ],
 [
 "欣慰",
-6,
+7,
 "xīn wèi",
 "to be gratified"
 ],
 [
+"欣喜",
+7,
+"xīn xǐ",
+"happy"
+],
+[
 "欣欣向荣",
-6,
+7,
 "xīn xīn xiàng róng",
 "(idiom) flourishing; thriving"
 ]
 ],
 "extraWords": [
 [
-"欣喜",
-7.94,
-"xīn xǐ",
+"欣",
+13.24,
+"xīn",
 "happy"
 ]
 ],

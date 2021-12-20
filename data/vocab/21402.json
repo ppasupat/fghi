@@ -1,6 +1,6 @@
 {
 "char": "厚",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "thick; substantial; greatly",
 "pron": "hòu"
@@ -13,48 +13,84 @@
 "thick; deep or profound; kind; generous; rich or strong in flavor; to favor; to stress"
 ],
 [
-"浓厚",
-6,
-"nóng hòu",
-"dense; thick (fog, clouds etc); to have a strong interest in; deep; fully saturated (color)"
-],
-[
-"雄厚",
-6,
-"xióng hòu",
-"robust; strong and solid"
-],
-[
-"得天独厚",
-6,
-"dé tiān dú hòu",
-"blessed by heaven (idiom); enjoying exceptional advantages; favored by nature"
-],
-[
-"深情厚谊",
-6,
-"shēn qíng hòu yì",
-"deep friendship"
-]
-],
-"extraWords": [
-[
 "深厚",
-13.67,
+4,
 "shēn hòu",
 "deep; profound"
 ],
 [
+"醇厚",
+7,
+"chún hòu",
+"mellow and rich; simple and kind"
+],
+[
+"得天独厚",
+7,
+"dé tiān dú hòu",
+"blessed by heaven (idiom); enjoying exceptional advantages; favored by nature"
+],
+[
+"敦厚",
+7,
+"dūn hòu",
+"genuine; honest and sincere"
+],
+[
+"丰厚",
+7,
+"fēng hòu",
+"generous; ample"
+],
+[
+"厚道",
+7,
+"hòu dao",
+"kind and honest; generous; sincere"
+],
+[
 "厚度",
-12.77,
+7,
 "hòu dù",
 "thickness"
 ],
 [
-"丰厚",
-11.22,
-"fēng hòu",
-"generous; ample"
+"宽厚",
+7,
+"kuān hòu",
+"tolerant; generous; magnanimous; thick and broad (build); thick and deep (voice)"
+],
+[
+"浓厚",
+7,
+"nóng hòu",
+"dense; thick (fog, clouds etc); to have a strong interest in; deep; fully saturated (color)"
+],
+[
+"无可厚非",
+7,
+"wú kě hòu fēi",
+"see 未可厚非[wèi kě hòu fēi]"
+],
+[
+"雄厚",
+7,
+"xióng hòu",
+"robust; strong and solid"
+]
+],
+"extraWords": [
+[
+"加厚",
+10.8,
+"???",
+"???"
+],
+[
+"厚厚",
+8.15,
+"???",
+"???"
 ],
 [
 "厚重",

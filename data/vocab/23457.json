@@ -1,17 +1,11 @@
 {
 "char": "审",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "examine, investigate; judge",
 "pron": "shěn"
 },
 "words": [
-[
-"审判",
-6,
-"shěn pàn",
-"a trial; to try sb"
-],
 [
 "审查",
 6,
@@ -19,16 +13,52 @@
 "to examine; to investigate; to censor out; censorship"
 ],
 [
-"审理",
-6,
-"shěn lǐ",
-"to hear (a case)"
+"评审",
+7,
+"píng shěn",
+"to appraise; to evaluate; to judge"
+],
+[
+"审",
+7,
+"shěn",
+"to examine; to investigate; carefully; to try (in court)"
+],
+[
+"审定",
+7,
+"shěn dìng",
+"to examine sth and make a decision; to screen; to evaluate; to approve"
+],
+[
+"审核",
+7,
+"shěn hé",
+"to audit; to investigate thoroughly"
 ],
 [
 "审美",
-6,
+7,
 "shěn měi",
 "esthetics; appreciating the arts; taste"
+],
+[
+"审判",
+7,
+"shěn pàn",
+"a trial; to try sb"
+],
+[
+"审批",
+7,
+"shěn pī",
+"to examine and approve; to endorse"
+],
+[
+"审视",
+7,
+"shěn shì",
+"to look closely at; to examine"
 ]
 ],
 "extraWords": [
@@ -51,28 +81,16 @@
 "deliberation; pondering; due consideration"
 ],
 [
-"审批",
-37.26,
-"shěn pī",
-"to examine and approve; to endorse"
-],
-[
-"审核",
-21.3,
-"shěn hé",
-"to audit; to investigate thoroughly"
+"审理",
+25.24,
+"shěn lǐ",
+"to hear (a case)"
 ],
 [
 "审讯",
 18.15,
 "shěn xùn",
 "inquest; trial; interrogation; to try; to interrogate"
-],
-[
-"评审",
-15.14,
-"píng shěn",
-"to appraise; to evaluate; to judge"
 ],
 [
 "一审",
@@ -97,12 +115,6 @@
 8.23,
 "péi shěn yuán",
 "juror"
-],
-[
-"审视",
-6.51,
-"shěn shì",
-"to look closely at; to examine"
 ]
 ],
 "strokes": [

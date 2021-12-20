@@ -1,46 +1,82 @@
 {
 "char": "华",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "flowery; illustrious; Chinese",
 "pron": "huá, huà"
 },
 "words": [
 [
-"豪华",
+"华人",
+3,
+"Huá rén",
+"ethnic Chinese person or people"
+],
+[
+"中华民族",
+3,
+"Zhōng huá mín zú",
+"the Chinese people"
+],
+[
+"华语",
 5,
-"háo huá",
-"luxurious"
+"Huá yǔ",
+"Chinese language"
 ],
 [
-"华裔",
-5,
-"Huá yì",
-"ethnic Chinese; non-Chinese citizen of Chinese ancestry"
-],
-[
-"华丽",
+"中华",
 6,
-"huá lì",
-"gorgeous"
+"Zhōng huá",
+"China (alternate formal name)"
 ],
 [
-"精华",
-6,
-"jīng huá",
-"best feature; most important part of an object; quintessence; essence; soul"
+"才华",
+7,
+"cái huá",
+"talent; CL:份[fèn]"
 ],
 [
 "繁华",
-6,
+7,
 "fán huá",
 "flourishing; bustling"
 ],
 [
+"豪华",
+7,
+"háo huá",
+"luxurious"
+],
+[
+"华丽",
+7,
+"huá lì",
+"gorgeous"
+],
+[
 "华侨",
-6,
+7,
 "Huá qiáo",
-"overseas Chinese; (in a restricted sense) Chinese emigrant who still retains Chinese nationality; CL:個|个[ge4],位[wei4],名[ming2]"
+"overseas Chinese; (in a restricted sense) Chinese emigrant who still retains Chinese nationality; CL:个[gè],位[wèi],名[míng]"
+],
+[
+"华裔",
+7,
+"Huá yì",
+"ethnic Chinese; non-Chinese citizen of Chinese ancestry"
+],
+[
+"嘉年华",
+7,
+"jiā nián huá",
+"carnival (loanword)"
+],
+[
+"精华",
+7,
+"jīng huá",
+"best feature; most important part of an object; quintessence; essence; soul"
 ]
 ],
 "extraWords": [
@@ -51,10 +87,28 @@
 "Xinhua News Agency"
 ],
 [
-"中华",
-46.18,
-"Zhōng huá",
-"China (alternate formal name)"
+"华",
+113.12,
+"Huá",
+"abbr. for China"
+],
+[
+"华",
+113.12,
+"Huà",
+"Mt Hua 華山|华山 in Shaanxi; surname Hua"
+],
+[
+"华",
+113.12,
+"huā",
+"old variant of 花[huā]; flower"
+],
+[
+"华",
+113.12,
+"huá",
+"magnificent; splendid; flowery"
 ],
 [
 "华盛顿",
@@ -75,22 +129,10 @@
 "People's Republic of China"
 ],
 [
-"华人",
-23.73,
-"Huá rén",
-"ethnic Chinese person or people"
-],
-[
-"中华民族",
-16.78,
-"Zhōng huá mín zú",
-"the Chinese people"
-],
-[
-"才华",
-14.49,
-"cái huá",
-"talent; CL:份[fen4]"
+"华生",
+15.95,
+"???",
+"???"
 ],
 [
 "霍华德",
@@ -102,7 +144,7 @@
 "清华",
 12.94,
 "Qīng huá",
-"abbr. for 清華大學|清华大学[Qing1 hua2 Da4 xue2]"
+"abbr. for 清华大学[Qīng huá Dà xué]"
 ],
 [
 "新华",
@@ -189,16 +231,10 @@
 "years; time; age"
 ],
 [
-"华语",
-5.42,
-"Huá yǔ",
-"Chinese language"
-],
-[
-"嘉年华",
-5.34,
-"jiā nián huá",
-"carnival (loanword)"
+"文华",
+5.85,
+"???",
+"???"
 ]
 ],
 "strokes": [

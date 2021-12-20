@@ -1,32 +1,32 @@
 {
 "char": "火",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "fire, flame; burn; anger, rage",
 "pron": "huǒ"
 },
 "words": [
 [
-"火车站",
-2,
-"huǒ chē zhàn",
-"train station"
+"火车",
+1,
+"huǒ chē",
+"train; CL:列[liè],节[jié],班[bān],趟[tàng]"
 ],
 [
 "火",
-4,
+3,
 "Huǒ",
 "surname Huo"
 ],
 [
 "火",
-4,
+3,
 "huǒ",
 "fire; urgent; ammunition; fiery or flaming; internal heat (Chinese medicine); hot (popular); classifier for military units (old); Kangxi radical 86"
 ],
 [
 "着火",
-5,
+4,
 "zháo huǒ",
 "to ignite; to burn"
 ],
@@ -34,58 +34,148 @@
 "火柴",
 5,
 "huǒ chái",
-"match (for lighting fire); CL:根[gen1],盒[he2]"
+"match (for lighting fire); CL:根[gēn],盒[hé]"
+],
+[
+"火腿",
+5,
+"huǒ tuǐ",
+"ham; CL:个[gè]"
+],
+[
+"火灾",
+5,
+"huǒ zāi",
+"serious fire (in a city or a forest etc)"
 ],
 [
 "火箭",
 6,
 "huǒ jiàn",
-"rocket; CL:枚[mei2]"
+"rocket; CL:枚[méi]"
 ],
 [
-"火焰",
-6,
-"huǒ yàn",
-"blaze; flame"
+"导火索",
+7,
+"dǎo huǒ suǒ",
+"fuse (for explosive)"
 ],
 [
-"恼火",
-6,
-"nǎo huǒ",
-"to get angry; irritated; to annoy; to aggravate; annoying"
+"点火",
+7,
+"diǎn huǒ",
+"to ignite; to light a fire; to agitate; to start an engine; ignition; fig. to stir up trouble"
 ],
 [
-"火药",
-6,
-"huǒ yào",
-"gunpowder"
+"发火",
+7,
+"fā huǒ",
+"to catch fire; to ignite; to detonate; to get angry"
 ],
 [
-"涮火锅",
-6,
-"shuàn huǒ guō",
-"see 涮鍋子|涮锅子[shuan4 guo1 zi5]"
-]
+"防火墙",
+7,
+"fáng huǒ qiáng",
+"firewall; CL:堵[dǔ]"
 ],
-"extraWords": [
 [
-"火车",
-45.7,
-"huǒ chē",
-"train; CL:列[lie4],節|节[jie2],班[ban1],趟[tang4]"
+"红火",
+7,
+"hóng huǒ",
+"prosperous"
+],
+[
+"火暴",
+7,
+"huǒ bào",
+"variant of 火爆[huǒ bào]"
 ],
 [
 "火锅",
-26.58,
+7,
 "huǒ guō",
 "hotpot"
 ],
 [
-"火灾",
-21.92,
-"huǒ zāi",
-"serious fire (in a city or a forest etc)"
+"火候",
+7,
+"huǒ hòu",
+"heat control; maturity; crucial moment"
 ],
+[
+"火花",
+7,
+"huǒ huā",
+"spark; sparkle"
+],
+[
+"火炬",
+7,
+"huǒ jù",
+"(flaming) torch; CL:把[bǎ]"
+],
+[
+"火辣辣",
+7,
+"huǒ là là",
+"painful heat; scorching; painful heat; rude and forthright; provocative; hot; sexy"
+],
+[
+"火热",
+7,
+"huǒ rè",
+"fiery; burning; fervent; ardent; passionate"
+],
+[
+"火山",
+7,
+"huǒ shān",
+"volcano"
+],
+[
+"火速",
+7,
+"huǒ sù",
+"at top speed; at a tremendous lick"
+],
+[
+"火焰",
+7,
+"huǒ yàn",
+"blaze; flame"
+],
+[
+"火药",
+7,
+"huǒ yào",
+"gunpowder"
+],
+[
+"上火",
+7,
+"shàng huǒ",
+"to get angry; to suffer from excessive internal heat (TCM)"
+],
+[
+"熄火",
+7,
+"xī huǒ",
+"(of fire, lamp etc) to go out; to put out (fire); (fig.) to die down; (of a vehicle) to stall"
+],
+[
+"烟火",
+7,
+"yān huǒ",
+"smoke and fire; fireworks"
+],
+[
+"焰火",
+7,
+"yàn huǒ",
+"fireworks"
+]
+],
+"extraWords": [
 [
 "开火",
 21.19,
@@ -102,19 +192,13 @@
 "大火",
 15.27,
 "dà huǒ",
-"conflagration; large fire; CL:場|场[chang2]"
+"conflagration; large fire; CL:场[cháng]"
 ],
 [
 "火鸡",
 14.28,
 "huǒ jī",
 "turkey"
-],
-[
-"发火",
-12.85,
-"fā huǒ",
-"to catch fire; to ignite; to detonate; to get angry"
 ],
 [
 "火星",
@@ -129,22 +213,10 @@
 "spark"
 ],
 [
-"火炬",
-12.19,
-"huǒ jù",
-"(flaming) torch; CL:把[ba3]"
-],
-[
-"火热",
-8.56,
-"huǒ rè",
-"fiery; burning; fervent; ardent; passionate"
-],
-[
-"火花",
-8.17,
-"huǒ huā",
-"spark; sparkle"
+"火车站",
+12.02,
+"huǒ chē zhàn",
+"train station"
 ],
 [
 "纵火",
@@ -159,22 +231,16 @@
 "fire; firepower"
 ],
 [
+"热火",
+8.0,
+"???",
+"???"
+],
+[
 "火车票",
 7.92,
 "huǒ chē piào",
 "train ticket"
-],
-[
-"火山",
-7.9,
-"huǒ shān",
-"volcano"
-],
-[
-"火腿",
-7.87,
-"huǒ tuǐ",
-"ham; CL:個|个[ge4]"
 ],
 [
 "起火",
@@ -183,28 +249,22 @@
 "to catch fire; to cook; to get angry"
 ],
 [
-"点火",
-7.04,
-"diǎn huǒ",
-"to ignite; to light a fire; to agitate; to start an engine; ignition; fig. to stir up trouble"
-],
-[
 "防火",
 6.71,
 "fáng huǒ",
 "to protect against fire"
 ],
 [
+"恼火",
+6.59,
+"nǎo huǒ",
+"to get angry; irritated; to annoy; to aggravate; annoying"
+],
+[
 "惹火",
 6.59,
 "rě huǒ",
 "to stir up the fire; fig. to provoke and offend people; to ruffle feathers"
-],
-[
-"红火",
-6.17,
-"hóng huǒ",
-"prosperous"
 ],
 [
 "怒火",
@@ -219,10 +279,10 @@
 "to extinguish a fire; firefighting"
 ],
 [
-"上火",
-5.73,
-"shàng huǒ",
-"to get angry; to suffer from excessive internal heat (TCM)"
+"小火",
+5.59,
+"???",
+"???"
 ],
 [
 "军火",

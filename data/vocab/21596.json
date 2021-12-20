@@ -1,17 +1,30 @@
 {
 "char": "呜",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "sound of crying, sobbing",
 "pron": "wū"
 },
-"words": [],
+"words": [
+[
+"呜咽",
+7,
+"wū yè",
+"to sob; to whimper"
+]
+],
 "extraWords": [
 [
 "呜呜",
 18.85,
 "wū wū",
 "(interj) boo hoo"
+],
+[
+"呜",
+12.4,
+"wū",
+"(onom.) for humming or whimpering"
 ]
 ],
 "strokes": [

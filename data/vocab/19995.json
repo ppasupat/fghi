@@ -1,24 +1,30 @@
 {
 "char": "丛",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "bush, shrub; thicket; collection",
 "pron": "cóng"
 },
 "words": [
 [
-"丛",
-6,
-"cóng",
-"cluster; collection; collection of books; thicket"
+"丛林",
+7,
+"cóng lín",
+"jungle; thicket; forest; Buddhist monastery"
 ]
 ],
 "extraWords": [
 [
-"丛林",
-11.95,
-"cóng lín",
-"jungle; thicket; forest; Buddhist monastery"
+"丛",
+8.15,
+"cóng",
+"cluster; collection; collection of books; thicket"
+],
+[
+"丛书",
+3.85,
+"cóng shū",
+"a series of books; a collection of books"
 ]
 ],
 "strokes": [

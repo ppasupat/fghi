@@ -1,22 +1,28 @@
 {
 "char": "捧",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "hold up in two hands",
 "pron": "pěng"
 },
 "words": [
 [
+"吹捧",
+7,
+"chuī pěng",
+"to flatter; to laud sb's accomplishments; adulation"
+],
+[
 "捧",
-6,
+7,
 "pěng",
 "to clasp; to cup the hands; to hold up with both hands; to offer (esp. in cupped hands); to praise; to flatter"
 ],
 [
-"吹捧",
-6,
-"chuī pěng",
-"to flatter; to laud sb's accomplishments; adulation"
+"捧场",
+7,
+"pěng chǎng",
+"to cheer on (originally esp. as paid stooge); to root for sb; to sing sb's praises; to flatter"
 ]
 ],
 "extraWords": [],

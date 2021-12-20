@@ -1,19 +1,32 @@
 {
 "char": "凹",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "concave, hollow, depressed; a pass, valley",
 "pron": "āo"
 },
 "words": [
 [
-"凹凸",
-6,
-"āo tū",
-"concave or convex; bumps and holes; uneven (surface); rugged"
+"凹",
+7,
+"āo",
+"depressed; sunken; indented; concave; female (connector etc)"
+],
+[
+"凹",
+7,
+"wā",
+"variant of 洼[wā]; (used in names)"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"凹陷",
+2.77,
+"āo xiàn",
+"to cave in; hollow; sunken; depressed"
+]
+],
 "strokes": [
 "M 212 620 Q 185 639 157 647 Q 148 650 143 644 Q 133 637 144 624 Q 211 501 209 203 Q 210 128 253 96 L 255 95 Q 274 89 277 122 L 276 164 Q 275 185 269 207 Q 239 477 238 584 C 238 604 237 604 212 620 Z",
 "M 554 414 Q 517 410 479 401 Q 457 395 452 404 Q 439 420 446 568 Q 445 610 457 633 Q 472 655 451 665 Q 429 678 407 686 Q 385 696 371 682 Q 331 648 212 620 C 183 613 208 580 238 584 Q 251 583 264 589 Q 357 637 382 622 Q 391 618 391 590 Q 395 425 387 387 Q 386 369 402 346 Q 412 328 423 326 Q 433 325 446 339 Q 489 384 601 379 Q 622 378 622 382 Q 626 394 604 411 Q 601 414 599 415 C 594 419 584 418 554 414 Z",

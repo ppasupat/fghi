@@ -1,6 +1,6 @@
 {
 "char": "银",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "silver; cash, money, wealth",
 "pron": "yín"
@@ -8,15 +8,33 @@
 "words": [
 [
 "银行",
-3,
+2,
 "yín háng",
-"bank; CL:家[jia1],個|个[ge4]"
+"bank; CL:家[jiā],个[gè]"
+],
+[
+"银行卡",
+2,
+"yín háng kǎ",
+"bank card; ATM card"
 ],
 [
 "银",
-5,
+3,
 "yín",
 "silver; silver-colored; relating to money or currency"
+],
+[
+"银牌",
+3,
+"yín pái",
+"silver medal; CL:枚[méi]"
+],
+[
+"银幕",
+7,
+"yín mù",
+"movie screen"
 ]
 ],
 "extraWords": [
@@ -51,6 +69,12 @@
 "People's Bank of China"
 ],
 [
+"外资银行",
+8.61,
+"???",
+"???"
+],
+[
 "银河",
 8.51,
 "Yín hé",
@@ -61,6 +85,12 @@
 7.84,
 "yín sè",
 "silver (color)"
+],
+[
+"银行贷款",
+7.45,
+"???",
+"???"
 ],
 [
 "白银",
@@ -79,6 +109,12 @@
 6.53,
 "Rén mín Yín háng",
 "People's Bank of China"
+],
+[
+"建设银行",
+6.0,
+"???",
+"???"
 ],
 [
 "金银",

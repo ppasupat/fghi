@@ -1,22 +1,52 @@
 {
 "char": "依",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "rely on, be set in; consent, obey a wish",
 "pron": "yī"
 },
 "words": [
 [
+"依靠",
+4,
+"yī kào",
+"to rely on sth (for support etc); to depend on"
+],
+[
 "依然",
-5,
+4,
 "yī rán",
 "still; as before"
 ],
 [
-"依靠",
+"依法",
+5,
+"yī fǎ",
+"legal (proceedings); according to law"
+],
+[
+"依旧",
+5,
+"yī jiù",
+"as before; still"
+],
+[
+"依据",
+5,
+"yī jù",
+"according to; basis; foundation"
+],
+[
+"依照",
+5,
+"yī zhào",
+"according to; in light of"
+],
+[
+"依次",
 6,
-"yī kào",
-"to rely on sth (for support etc); to depend on"
+"yī cì",
+"in order; in succession"
 ],
 [
 "依赖",
@@ -25,44 +55,31 @@
 "to depend on; to be dependent on"
 ],
 [
-"依旧",
-6,
-"yī jiù",
-"as before; still"
+"相依为命",
+7,
+"xiāng yī wéi mìng",
+"mutually dependent for life (idiom); to rely upon one another for survival; interdependent"
 ],
 [
-"依据",
-6,
-"yī jù",
-"according to; basis; foundation"
+"依",
+7,
+"yī",
+"to depend on; to comply with or listen to sb; according to; in the light of"
 ],
 [
 "依托",
-6,
+7,
 "yī tuō",
 "to rely on; to depend on; support"
+],
+[
+"依依不舍",
+7,
+"yī yī bù shě",
+"reluctant to part (idiom); broken-hearted at having to leave"
 ]
 ],
-"extraWords": [
-[
-"依法",
-66.55,
-"yī fǎ",
-"legal (proceedings); according to law"
-],
-[
-"依照",
-15.84,
-"yī zhào",
-"according to; in light of"
-],
-[
-"依次",
-12.81,
-"yī cì",
-"in order; in succession"
-]
-],
+"extraWords": [],
 "strokes": [
 "M 226 502 Q 275 563 326 650 Q 351 696 373 720 Q 383 732 377 746 Q 373 759 341 783 Q 313 802 292 802 Q 271 799 281 776 Q 296 745 285 719 Q 230 572 82 381 Q 72 371 70 363 Q 66 351 81 354 Q 111 360 203 472 L 226 502 Z",
 "M 203 472 Q 227 405 228 359 Q 219 224 217 209 Q 210 157 194 103 Q 184 58 218 7 Q 219 7 221 4 Q 239 -12 251 15 Q 266 55 265 102 Q 271 355 281 412 Q 288 439 279 450 Q 237 496 226 502 C 203 521 193 500 203 472 Z",

@@ -1,12 +1,25 @@
 {
 "char": "瑞",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "felicitous omen; auspicious",
 "pron": "ruì"
 },
-"words": [],
+"words": [
+[
+"瑞雪",
+7,
+"ruì xuě",
+"timely snow"
+]
+],
 "extraWords": [
+[
+"瑞",
+53.33,
+"ruì",
+"lucky; auspicious; propitious; rayl (acoustical unit)"
+],
 [
 "瑞士",
 19.24,
@@ -24,6 +37,12 @@
 12.04,
 "Jié ruì",
 "Jerry or Gerry (name)"
+],
+[
+"瑞秋",
+9.66,
+"???",
+"???"
 ],
 [
 "委内瑞拉",

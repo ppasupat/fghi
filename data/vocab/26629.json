@@ -1,6 +1,6 @@
 {
 "char": "栅",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "fence; palisade; grid",
 "pron": "shān, zhà"
@@ -12,6 +12,18 @@
 5.6,
 "zhà lán",
 "fence"
+],
+[
+"栅",
+4.02,
+"zhà",
+"fence; also pr. [shan1]"
+],
+[
+"铁栅栏",
+0.74,
+"???",
+"???"
 ]
 ],
 "strokes": [

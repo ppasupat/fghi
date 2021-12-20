@@ -1,24 +1,35 @@
 {
 "char": "棕",
-"level": 6,
+"level": "C",
 "info": {
 "gloss": "hemp palm; palm tree",
 "pron": "zōng"
 },
-"words": [
+"words": [],
+"extraWords": [
 [
 "棕色",
-6,
+12.46,
 "zōng sè",
 "brown"
-]
 ],
-"extraWords": [
 [
 "棕榈",
 9.99,
 "zōng lǘ",
 "palm tree"
+],
+[
+"棕",
+3.46,
+"zōng",
+"palm; palm fiber; coir (coconut fiber); brown"
+],
+[
+"棕",
+3.46,
+"zōng",
+"variant of 棕[zōng]"
 ]
 ],
 "strokes": [

@@ -1,54 +1,60 @@
 {
 "char": "箱",
-"level": 3,
+"level": "3",
 "info": {
 "gloss": "case, box, chest, trunk",
 "pron": "xiāng"
 },
 "words": [
 [
-"冰箱",
+"邮箱",
 3,
-"bīng xiāng",
-"icebox; freezer cabinet; refrigerator; CL:臺|台[tai2],個|个[ge4]"
+"yóu xiāng",
+"mailbox; post office box; email; email inbox"
 ],
 [
-"行李箱",
-3,
-"xíng li xiāng",
-"suitcase; baggage compartment; overhead bin; (car) trunk; boot"
+"冰箱",
+4,
+"bīng xiāng",
+"icebox; freezer cabinet; refrigerator; CL:台[tái],个[gè]"
+],
+[
+"箱",
+4,
+"xiāng",
+"box; trunk; chest"
+],
+[
+"箱子",
+4,
+"xiāng zi",
+"suitcase; chest; box; case; trunk; CL:只[zhī],个[gè]"
+],
+[
+"信箱",
+5,
+"xìn xiāng",
+"mailbox; post office box"
+],
+[
+"后备箱",
+7,
+"hòu bèi xiāng",
+"trunk; boot (of a car)"
+],
+[
+"集装箱",
+7,
+"jí zhuāng xiāng",
+"container (for shipping)"
 ]
 ],
 "extraWords": [
-[
-"箱子",
-44.86,
-"xiāng zi",
-"suitcase; chest; box; case; trunk; CL:隻|只[zhi1],個|个[ge4]"
-],
 [
 "保险箱",
 17.17,
 "bǎo xiǎn xiāng",
 "safe deposit box; a safe"
-],
-[
-"集装箱",
-10.09,
-"jí zhuāng xiāng",
-"container (for shipping)"
-],
-[
-"邮箱",
-8.96,
-"yóu xiāng",
-"mailbox; post office box; email; email inbox"
-],
-[
-"信箱",
-8.67,
-"xìn xiāng",
-"mailbox; post office box"
 ],
 [
 "音箱",

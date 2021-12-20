@@ -1,25 +1,32 @@
 {
 "char": "辉",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "brightness, luster, brilliance",
 "pron": "huī"
 },
 "words": [
 [
-"辉煌",
-6,
-"huī huáng",
-"splendid; glorious"
-],
-[
 "光辉",
 6,
 "guāng huī",
 "radiance; glory; brilliant; magnificent"
+],
+[
+"辉煌",
+7,
+"huī huáng",
+"splendid; glorious"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"辉",
+14.19,
+"huī",
+"splendor; to shine upon"
+]
+],
 "strokes": [
 "M 345 504 Q 361 721 376 769 Q 379 779 360 793 Q 327 812 305 816 Q 289 819 282 811 Q 275 804 282 790 Q 301 763 301 745 Q 308 628 305 492 C 304 462 343 474 345 504 Z",
 "M 186 604 Q 204 580 223 552 Q 232 539 245 536 Q 255 535 261 545 Q 268 557 266 583 Q 263 610 191 646 Q 178 652 172 651 Q 168 648 166 637 Q 167 627 186 604 Z",

@@ -1,52 +1,88 @@
 {
 "char": "沉",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "sink, submerge; addicted to",
 "pron": "chén"
 },
 "words": [
 [
+"沉",
+4,
+"chēn",
+"see 黑沉沉[hēi chēn chēn]"
+],
+[
+"沉",
+4,
+"chén",
+"to submerge; to immerse; to sink; to keep down; to lower; to drop; deep; profound; heavy"
+],
+[
 "沉默",
-5,
+4,
 "chén mò",
 "taciturn; uncommunicative; silent"
 ],
 [
 "沉重",
-6,
+4,
 "chén zhòng",
 "heavy; hard; serious; critical"
 ],
 [
+"沉甸甸",
+7,
+"chén diàn diàn",
+"heavy"
+],
+[
+"沉淀",
+7,
+"chén diàn",
+"to settle; to precipitate (solid sediment out of a solution)"
+],
+[
+"沉浸",
+7,
+"chén jìn",
+"to soak; to permeate; to immerse"
+],
+[
 "沉闷",
-6,
+7,
 "chén mèn",
 "oppressive (of weather); heavy; depressed; not happy; (of sound) dull; muffled"
 ],
 [
+"沉迷",
+7,
+"chén mí",
+"to be engrossed; to be absorbed with; to lose oneself in; to be addicted to"
+],
+[
 "沉思",
-6,
+7,
 "chén sī",
 "to contemplate; to ponder; contemplation; meditation"
 ],
 [
+"沉稳",
+7,
+"chén wěn",
+"steady; calm; unflustered"
+],
+[
 "沉着",
-6,
+7,
 "chén zhuó",
 "steady; calm and collected; not nervous"
 ],
 [
-"深沉",
-6,
-"shēn chén",
-"deep; profound; (of a person) reserved; undemonstrative; (of a voice, sound etc) deep; low-pitched"
-],
-[
-"沉淀",
-6,
-"chén diàn",
-"to settle; to precipitate (solid sediment out of a solution)"
+"消沉",
+7,
+"xiāo chén",
+"depressed; bad mood; low spirit"
 ]
 ],
 "extraWords": [
@@ -57,16 +93,10 @@
 "sediment; deposit; sedimentation (geology)"
 ],
 [
-"沉浸",
-7.42,
-"chén jìn",
-"to soak; to permeate; to immerse"
-],
-[
-"沉迷",
-5.51,
-"chén mí",
-"to be engrossed; to be absorbed with; to lose oneself in; to be addicted to"
+"深沉",
+6.31,
+"shēn chén",
+"deep; profound; (of a person) reserved; undemonstrative; (of a voice, sound etc) deep; low-pitched"
 ]
 ],
 "strokes": [

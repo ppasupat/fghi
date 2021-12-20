@@ -1,11 +1,23 @@
 {
 "char": "隔",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "separate, partition",
 "pron": "gé"
 },
 "words": [
+[
+"隔",
+4,
+"gé",
+"to separate; to partition; to stand or lie between; at a distance from; after or at an interval of"
+],
+[
+"隔开",
+4,
+"gé kāi",
+"to separate"
+],
 [
 "隔壁",
 5,
@@ -13,31 +25,31 @@
 "next door; neighbor"
 ],
 [
+"隔阂",
+7,
+"gé hé",
+"misunderstanding; estrangement; (language etc) barrier"
+],
+[
 "隔离",
-6,
+7,
 "gé lí",
 "to separate; to isolate"
 ],
 [
 "间隔",
-6,
+7,
 "jiàn gé",
 "gap; interval; compartment; to divide; to separate; to leave a gap of (two weeks, three meters etc)"
 ],
 [
-"隔阂",
-6,
-"gé hé",
-"misunderstanding; estrangement; (language etc) barrier"
+"时隔",
+7,
+"shí gé",
+"separated in time (usu. followed by a quantity of time)"
 ]
 ],
 "extraWords": [
-[
-"时隔",
-5.66,
-"shí gé",
-"separated in time (usu. followed by a quantity of time)"
-],
 [
 "相隔",
 5.24,

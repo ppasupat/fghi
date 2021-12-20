@@ -1,40 +1,130 @@
 {
 "char": "成",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "completed, finished, fixed",
 "pron": "chéng"
 },
 "words": [
 [
-"完成",
-3,
-"wán chéng",
-"to complete; to accomplish"
+"变成",
+2,
+"biàn chéng",
+"to change into; to turn into; to become"
+],
+[
+"成",
+2,
+"Chéng",
+"surname Cheng"
+],
+[
+"成",
+2,
+"chéng",
+"to succeed; to finish; to complete; to accomplish; to become; to turn into; to be all right; OK!; one tenth"
 ],
 [
 "成绩",
-3,
+2,
 "chéng jì",
-"achievement; performance records; grades; CL:項|项[xiang4],個|个[ge4]"
+"achievement; performance records; grades; CL:项[xiàng],个[gè]"
 ],
 [
 "成为",
-4,
+2,
 "chéng wéi",
 "to become; to turn into"
 ],
 [
-"成功",
-4,
-"Chéng gōng",
-"Chenggong or Chengkung town in Taitung County 臺東縣|台东县[Tai2 dong1 Xian4], southeast Taiwan"
+"完成",
+2,
+"wán chéng",
+"to complete; to accomplish"
+],
+[
+"组成",
+2,
+"zǔ chéng",
+"to form; to make up; to constitute"
 ],
 [
 "成功",
-4,
+3,
+"Chéng gōng",
+"Chenggong or Chengkung town in Taitung County 台东县[Tái dōng Xiàn], southeast Taiwan"
+],
+[
+"成功",
+3,
 "chéng gōng",
-"success; to succeed; CL:次[ci4],個|个[ge4]"
+"success; to succeed; CL:次[cì],个[gè]"
+],
+[
+"成果",
+3,
+"chéng guǒ",
+"result; achievement; gain; profit; CL:个[gè]"
+],
+[
+"成就",
+3,
+"chéng jiù",
+"accomplishment; success; achievement; CL:个[gè]; to achieve (a result); to create; to bring about"
+],
+[
+"成立",
+3,
+"chéng lì",
+"to establish; to set up; to be tenable; to hold water"
+],
+[
+"成熟",
+3,
+"chéng shú",
+"mature; ripe; to mature; to ripen; Taiwan pr. [cheng2 shou2]"
+],
+[
+"成员",
+3,
+"chéng yuán",
+"member"
+],
+[
+"成长",
+3,
+"chéng zhǎng",
+"to mature; to grow; growth"
+],
+[
+"建成",
+3,
+"jiàn chéng",
+"to establish; to build"
+],
+[
+"形成",
+3,
+"xíng chéng",
+"to form; to take shape"
+],
+[
+"造成",
+3,
+"zào chéng",
+"to bring about; to create; to cause"
+],
+[
+"成人",
+4,
+"chéng rén",
+"adult"
+],
+[
+"构成",
+4,
+"gòu chéng",
+"to constitute; to form; to compose; to make up; to configure (computing)"
 ],
 [
 "养成",
@@ -43,163 +133,229 @@
 "to cultivate; to raise; to form (a habit); to acquire"
 ],
 [
-"造成",
-5,
-"zào chéng",
-"to bring about; to create; to cause"
-],
-[
-"成熟",
-5,
-"chéng shú",
-"mature; ripe; to mature; to ripen; Taiwan pr. [cheng2 shou2]"
-],
-[
-"成长",
-5,
-"chéng zhǎng",
-"to mature; to grow; growth"
-],
-[
-"成就",
-5,
-"chéng jiù",
-"accomplishment; success; achievement; CL:個|个[ge4]; to achieve (a result); to create; to bring about"
-],
-[
 "赞成",
-5,
+4,
 "zàn chéng",
 "to approve; to endorse; (literary) to assist"
 ],
 [
-"成立",
+"成本",
 5,
-"chéng lì",
-"to establish; to set up; to be tenable; to hold water"
+"chéng běn",
+"(manufacturing, production etc) costs"
 ],
 [
-"成人",
+"成交",
 5,
-"chéng rén",
-"adult"
+"chéng jiāo",
+"to complete a contract; to reach a deal"
 ],
 [
-"组成",
+"成效",
 5,
-"zǔ chéng",
-"to form; to make up; to constitute"
-],
-[
-"形成",
-5,
-"xíng chéng",
-"to form; to take shape"
-],
-[
-"成果",
-5,
-"chéng guǒ",
-"result; achievement; gain; profit; CL:個|个[ge4]"
-],
-[
-"成分",
-5,
-"chéng fèn",
-"composition; make-up; ingredient; element; component; one's social status; CL:個|个[ge4]"
-],
-[
-"构成",
-5,
-"gòu chéng",
-"to constitute; to form; to compose; to make up; to configure (computing)"
+"chéng xiào",
+"effect; result"
 ],
 [
 "成语",
 5,
 "chéng yǔ",
-"Chinese set expression, typically of 4 characters, often alluding to a story or historical quotation; idiom; proverb; saying; adage; CL:條|条[tiao2],本[ben3],句[ju4]"
-],
-[
-"成员",
-6,
-"chéng yuán",
-"member"
+"Chinese set expression, typically of 4 characters, often alluding to a story or historical quotation; idiom; proverb; saying; adage; CL:条[tiáo],本[běn],句[jù]"
 ],
 [
 "达成",
-6,
+5,
 "dá chéng",
 "to reach (an agreement); to accomplish"
 ],
 [
-"成交",
-6,
-"chéng jiāo",
-"to complete a contract; to reach a deal"
-],
-[
-"成天",
-6,
-"chéng tiān",
-"(coll.) all day long; all the time"
+"分成",
+5,
+"fēn chéng",
+"to divide (into); to split a bonus; to break into; tenths; percentage allotment"
 ],
 [
 "合成",
-6,
+5,
 "hé chéng",
 "to compose; to constitute; compound; synthesis; mixture; synthetic"
 ],
 [
-"成本",
-6,
-"chéng běn",
-"(manufacturing, production etc) costs"
+"看成",
+5,
+"kàn chéng",
+"to regard as"
 ],
 [
-"成效",
+"生成",
+5,
+"shēng chéng",
+"to generate; to produce; generated; produced"
+],
+[
+"制成",
+5,
+"zhì chéng",
+"to manufacture; to turn out (a product)"
+],
+[
+"不成",
 6,
-"chéng xiào",
-"effect; result"
+"bù chéng",
+"won't do; unable to; (at the end of a rhetorical question) can that be?"
+],
+[
+"成分",
+6,
+"chéng fèn",
+"composition; make-up; ingredient; element; component; one's social status; CL:个[gè]"
+],
+[
+"成品",
+6,
+"chéng pǐn",
+"finished goods; a finished product"
+],
+[
+"当成",
+6,
+"dàng chéng",
+"to consider as; to take to be"
+],
+[
+"成才",
+7,
+"chéng cái",
+"to make sth of oneself; to become a person who is worthy of respect"
+],
+[
+"成家",
+7,
+"chéng jiā",
+"to settle down and get married (of a man); to become a recognized expert"
+],
+[
+"成年",
+7,
+"chéng nián",
+"to grow to adulthood; fully grown; the whole year"
+],
+[
+"成千上万",
+7,
+"chéng qiān shàng wàn",
+"lit. by the thousands and tens of thousands (idiom); untold numbers; innumerable; thousands upon thousands"
+],
+[
+"成群结队",
+7,
+"chéng qún jié duì",
+"making up a group, forming a troupe (idiom); in large numbers; as a large crowd"
+],
+[
+"成天",
+7,
+"chéng tiān",
+"(coll.) all day long; all the time"
+],
+[
+"成问题",
+7,
+"chéng wèn tí",
+"to be a problem; problematic; questionable"
+],
+[
+"成型",
+7,
+"chéng xíng",
+"to become shaped; to become formed"
+],
+[
+"出口成章",
+7,
+"chū kǒu chéng zhāng",
+"(idiom) (of one's speech) eloquent; articulate"
+],
+[
+"促成",
+7,
+"cù chéng",
+"to facilitate; to effect"
+],
+[
+"换成",
+7,
+"huàn chéng",
+"to exchange (sth) for (sth else); to replace with; to convert into"
+],
+[
+"恼羞成怒",
+7,
+"nǎo xiū chéng nù",
+"to fly into a rage out of humiliation; to be ashamed into anger (idiom)"
+],
+[
+"顺理成章",
+7,
+"shùn lǐ chéng zhāng",
+"logical; only to be expected; rational and clearly structured (of text)"
+],
+[
+"未成年人",
+7,
+"wèi chéng nián rén",
+"minor (i.e. person under 18)"
 ],
 [
 "现成",
-6,
+7,
 "xiàn chéng",
 "ready-made; readily available"
 ],
 [
-"成心",
-6,
-"chéng xīn",
-"intentional; deliberate; on purpose"
-],
-[
-"落成",
-6,
-"luò chéng",
-"to complete a construction project"
-],
-[
-"急于求成",
-6,
-"jí yú qiú chéng",
-"anxious for quick results (idiom); to demand instant success; impatient for result; impetuous"
-],
-[
 "相辅相成",
-6,
+7,
 "xiāng fǔ xiāng chéng",
 "to complement one another (idiom)"
+],
+[
+"心想事成",
+7,
+"xīn xiǎng shì chéng",
+"to have one's wishes come true; wish you the best!"
+],
+[
+"胸有成竹",
+7,
+"xiōng yǒu chéng zhú",
+"to plan in advance (idiom); a card up one's sleeve; forewarned is forearmed"
+],
+[
+"一事无成",
+7,
+"yī shì wú chéng",
+"to have achieved nothing; to be a total failure; to get nowhere"
+],
+[
+"一成不变",
+7,
+"yī chéng bù biàn",
+"nothing much changes (idiom); always the same; stuck in a rut"
+],
+[
+"约定俗成",
+7,
+"yuē dìng sú chéng",
+"established by popular usage (idiom); common usage agreement; customary convention"
+],
+[
+"众志成城",
+7,
+"zhòng zhì chéng chéng",
+"unity of will is an impregnable stronghold (idiom)"
 ]
 ],
 "extraWords": [
-[
-"变成",
-181.93,
-"biàn chéng",
-"to change into; to turn into; to become"
-],
 [
 "成都",
 66.13,
@@ -207,28 +363,10 @@
 "Chengdu subprovincial city and capital of Sichuan province 四川 in southwest China"
 ],
 [
-"建成",
-55.15,
-"jiàn chéng",
-"to establish; to build"
-],
-[
-"当成",
-31.39,
-"dàng chéng",
-"to consider as; to take to be"
-],
-[
-"不成",
-23.81,
-"bù chéng",
-"won't do; unable to; (at the end of a rhetorical question) can that be?"
-],
-[
-"成品",
-17.91,
-"chéng pǐn",
-"finished goods; a finished product"
+"成交量",
+30.23,
+"???",
+"???"
 ],
 [
 "成年人",
@@ -237,58 +375,22 @@
 "adult person"
 ],
 [
-"生成",
-16.62,
-"shēng chéng",
-"to generate; to produce; generated; produced"
-],
-[
-"分成",
-16.13,
-"fēn chéng",
-"to divide (into); to split a bonus; to break into; tenths; percentage allotment"
-],
-[
 "集成",
 15.61,
 "jí chéng",
 "integrated (as in integrated circuit)"
 ],
 [
-"制成",
-15.21,
-"zhì chéng",
-"to manufacture; to turn out (a product)"
+"做成",
+13.01,
+"???",
+"???"
 ],
 [
 "成员国",
 12.96,
 "chéng yuán guó",
 "member country"
-],
-[
-"未成年人",
-11.37,
-"wèi chéng nián rén",
-"minor (i.e. person under 18)"
-],
-[
-"看成",
-10.8,
-"kàn chéng",
-"to regard as"
-],
-[
-"成千上万",
-10.4,
-"chéng qiān shàng wàn",
-"lit. by the thousands and tens of thousands (idiom); untold numbers; innumerable; thousands upon thousands"
-],
-[
-"成年",
-8.83,
-"chéng nián",
-"to grow to adulthood; fully grown; the whole year"
 ],
 [
 "成都市",
@@ -303,10 +405,16 @@
 "to make one's name; to become famous"
 ],
 [
-"促成",
-7.48,
-"cù chéng",
-"to facilitate; to effect"
+"成功率",
+6.86,
+"???",
+"???"
+],
+[
+"好成绩",
+6.79,
+"???",
+"???"
 ],
 [
 "成龙",
@@ -319,6 +427,12 @@
 6.58,
 "chéng lóng",
 "to succeed in life; to become somebody"
+],
+[
+"总成绩",
+6.47,
+"???",
+"???"
 ],
 [
 "结成",
@@ -351,10 +465,10 @@
 "low cost; inexpensive"
 ],
 [
-"成型",
-5.48,
-"chéng xíng",
-"to become shaped; to become formed"
+"扮成",
+5.57,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,49 +1,85 @@
 {
 "char": "玩",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "play with, joke, enjoy",
 "pron": "wán"
 },
 "words": [
 [
+"好玩儿",
+1,
+"hǎo wán r5",
+"erhua variant of 好玩[hǎo wán]"
+],
+[
+"开玩笑",
+1,
+"kāi wán xiào",
+"to play a joke; to make fun of; to joke"
+],
+[
+"玩儿",
+1,
+"wán r5",
+"to play; to have fun; to hang out"
+],
+[
+"玩具",
+3,
+"wán jù",
+"plaything; toy"
+],
+[
+"游玩",
+6,
+"yóu wán",
+"to amuse oneself; to have fun; to go sightseeing; to take a stroll"
+],
+[
+"吃喝玩乐",
+7,
+"chī hē wán lè",
+"to eat, drink and be merry (idiom); to abandon oneself to a life of pleasure"
+],
+[
+"闹着玩儿",
+7,
+"nào zhe wán r5",
+"to play games; to joke around; to play a joke on sb"
+],
+[
+"贪玩儿",
+7,
+"tān wán",
+"to only want to have a good time; to just want to have fun, and to shy away from self-discipline"
+],
+[
+"玩耍",
+7,
+"wán shuǎ",
+"to play (as children do); to amuse oneself"
+],
+[
+"玩意儿",
+7,
+"wán yì r5",
+"erhua variant of 玩意[wán yì]"
+]
+],
+"extraWords": [
+[
 "玩",
-2,
+388.51,
 "wán",
 "to play; to have fun; to trifle with; toy; sth used for amusement; curio or antique (Taiwan pr. [wan4]); to keep sth for entertainment"
 ],
 [
 "玩",
-2,
+388.51,
 "wán",
-"variant of 玩[wan2]; Taiwan pr. [wan4]"
+"variant of 玩[wán]; Taiwan pr. [wan4]"
 ],
-[
-"开玩笑",
-4,
-"kāi wán xiào",
-"to play a joke; to make fun of; to joke"
-],
-[
-"玩具",
-5,
-"wán jù",
-"plaything; toy"
-],
-[
-"玩意儿",
-6,
-"wán yì r5",
-"erhua variant of 玩意[wan2 yi4]"
-],
-[
-"玩弄",
-6,
-"wán nòng",
-"to play with; to toy with; to dally with; to engage in; to resort to"
-]
-],
-"extraWords": [
 [
 "玩笑",
 147.05,
@@ -75,28 +111,34 @@
 "to be playful; to be fond of one's fun"
 ],
 [
+"玩玩",
+17.59,
+"???",
+"???"
+],
+[
 "玩偶",
 15.38,
 "wán ǒu",
 "toy figurine; action figure; stuffed animal; doll; (fig.) sb's plaything"
 ],
 [
-"玩儿",
-14.46,
-"wán r5",
-"to play; to have fun; to hang out"
+"玩弄",
+9.33,
+"wán nòng",
+"to play with; to toy with; to dally with; to engage in; to resort to"
 ],
 [
-"玩耍",
-6.46,
-"wán shuǎ",
-"to play (as children do); to amuse oneself"
+"玩游戏",
+7.69,
+"???",
+"???"
 ],
 [
-"游玩",
-6.19,
-"yóu wán",
-"to amuse oneself; to have fun; to go sightseeing; to take a stroll"
+"闹着玩",
+5.57,
+"???",
+"???"
 ]
 ],
 "strokes": [

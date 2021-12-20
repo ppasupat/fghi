@@ -1,48 +1,60 @@
 {
 "char": "黄",
-"level": 3,
+"level": "2",
 "info": {
 "gloss": "yellow; surname",
 "pron": "huáng"
 },
 "words": [
 [
-"黄河",
-3,
-"Huáng Hé",
-"Yellow River or Huang He"
+"黄",
+2,
+"Huáng",
+"surname Huang or Hwang"
+],
+[
+"黄",
+2,
+"huáng",
+"yellow; pornographic; to fall through"
+],
+[
+"黄色",
+2,
+"huáng sè",
+"yellow (color); pornographic"
+],
+[
+"黄瓜",
+4,
+"huáng guā",
+"cucumber; CL:条[tiáo]"
 ],
 [
 "黄金",
-5,
+4,
 "huáng jīn",
 "gold; golden (opportunity); prime (time)"
 ],
 [
 "黄昏",
-6,
+7,
 "huáng hūn",
 "dusk; evening; nightfall"
 ]
 ],
 "extraWords": [
 [
-"黄色",
-21.06,
-"huáng sè",
-"yellow (color); pornographic"
-],
-[
-"黄瓜",
-9.9,
-"huáng guā",
-"cucumber; CL:條|条[tiao2]"
+"黄河",
+18.6,
+"Huáng Hé",
+"Yellow River or Huang He"
 ],
 [
 "黄油",
 8.64,
 "huáng yóu",
-"butter; CL:盒[he2]"
+"butter; CL:盒[hé]"
 ],
 [
 "黄牌",

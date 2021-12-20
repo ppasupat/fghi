@@ -1,22 +1,28 @@
 {
 "char": "肉",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "flesh; meat; KangXi radical 130",
 "pron": "ròu"
 },
 "words": [
 [
-"羊肉",
-2,
-"yáng ròu",
-"mutton; goat meat"
+"肉",
+1,
+"ròu",
+"meat; flesh; pulp (of a fruit); (coll.) (of a fruit) squashy; (of a person) flabby; irresolute; Kangxi radical 130"
 ],
 [
 "肌肉",
 5,
 "jī ròu",
 "muscle; flesh"
+],
+[
+"烤肉",
+5,
+"kǎo ròu",
+"barbecue (lit. roast meat)"
 ]
 ],
 "extraWords": [
@@ -39,16 +45,16 @@
 "chicken meat"
 ],
 [
+"羊肉",
+10.48,
+"yáng ròu",
+"mutton; goat meat"
+],
+[
 "肉体",
 9.66,
 "ròu tǐ",
 "physical body"
-],
-[
-"烤肉",
-8.64,
-"kǎo ròu",
-"barbecue (lit. roast meat)"
 ],
 [
 "肉类",

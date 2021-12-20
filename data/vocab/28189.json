@@ -1,12 +1,31 @@
 {
 "char": "渝",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "change; chongqing",
 "pron": "yú"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"渝",
+8.5,
+"Yú",
+"short name for Chongqing 重庆[Chóng qìng]; old name of Jialing River 嘉陵江[Jiā líng Jiāng] in Sichuan"
+],
+[
+"渝中区",
+1.63,
+"Yú zhōng qū",
+"Yuzhong (or central Chongqing) district of central Chongqing municipality, formerly in Sichuan"
+],
+[
+"成渝",
+1.24,
+"Chéng Yú",
+"Chengdu 成都 and Chongqing 重慶|重庆"
+]
+],
 "strokes": [
 "M 212 714 Q 242 693 273 667 Q 289 654 305 656 Q 317 657 321 672 Q 324 688 312 719 Q 305 738 271 750 Q 193 772 180 763 Q 176 759 178 745 Q 182 735 212 714 Z",
 "M 119 522 Q 173 473 208 463 Q 223 462 231 476 Q 235 489 231 507 Q 212 549 127 562 Q 109 566 100 560 Q 94 559 98 546 Q 101 534 119 522 Z",

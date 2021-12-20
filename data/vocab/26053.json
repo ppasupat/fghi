@@ -1,11 +1,23 @@
 {
 "char": "旅",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "trip, journey; travel; traveler",
 "pron": "lǚ"
 },
 "words": [
+[
+"旅客",
+2,
+"lǚ kè",
+"traveler; tourist"
+],
+[
+"旅行",
+2,
+"lǚ xíng",
+"to travel; journey; trip; CL:趟[tàng],次[cì],个[gè]"
+],
 [
 "旅游",
 2,
@@ -13,42 +25,42 @@
 "trip; journey; tourism; travel; tour; to travel"
 ],
 [
-"旅行",
-4,
-"lǚ xíng",
-"to travel; journey; trip; CL:趟[tang4],次[ci4],個|个[ge4]"
-]
-],
-"extraWords": [
-[
 "旅馆",
-51.33,
+3,
 "lǚ guǎn",
-"hotel; CL:家[jia1]"
-],
-[
-"旅客",
-40.18,
-"lǚ kè",
-"traveler; tourist"
+"hotel; CL:家[jiā]"
 ],
 [
 "旅行社",
-17.09,
+3,
 "lǚ xíng shè",
 "travel agency"
 ],
 [
+"旅店",
+6,
+"lǚ diàn",
+"inn; small hotel"
+],
+[
 "旅程",
-16.93,
+7,
 "lǚ chéng",
 "journey; trip"
 ],
 [
 "旅途",
-12.76,
+7,
 "lǚ tú",
 "journey; trip"
+]
+],
+"extraWords": [
+[
+"旅",
+36.14,
+"lǚ",
+"trip; travel; to travel; brigade (army)"
 ],
 [
 "旅游业",
@@ -57,10 +69,10 @@
 "tourism industry"
 ],
 [
-"旅店",
-6.44,
-"lǚ diàn",
-"inn; small hotel"
+"旅游局",
+8.55,
+"???",
+"???"
 ]
 ],
 "strokes": [

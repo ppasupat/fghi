@@ -1,30 +1,36 @@
 {
 "char": "钢",
-"level": 4,
+"level": "5",
 "info": {
 "gloss": "steel; hard, strong, tough",
 "pron": "gāng, gàng"
 },
 "words": [
 [
-"弹钢琴",
-4,
-"tan2 gang1 qin2",
-"to play the piano"
+"钢笔",
+5,
+"gāng bǐ",
+"fountain pen; CL:支[zhī]"
 ],
 [
-"钢铁",
+"钢琴",
 5,
-"gāng tiě",
+"gāng qín",
+"piano; CL:架[jià],台[tái]"
+],
+[
+"钢",
+7,
+"gāng",
 "steel"
 ]
 ],
 "extraWords": [
 [
-"钢琴",
-21.94,
-"gāng qín",
-"piano; CL:架[jia4],臺|台[tai2]"
+"钢铁",
+32.18,
+"gāng tiě",
+"steel"
 ],
 [
 "钢材",
@@ -36,7 +42,7 @@
 "宝钢",
 8.78,
 "Bǎo gāng",
-"Baosteel, Chinese steel maker formed in a 1998 merger, then merged to form Baowu 寶武鋼鐵|宝武钢铁[Bao3 wu3 Gang1 tie3] in 2016"
+"Baosteel, Chinese steel maker formed in a 1998 merger, then merged to form Baowu 宝武钢铁[Bǎo wǔ Gāng tiě] in 2016"
 ],
 [
 "钢筋",

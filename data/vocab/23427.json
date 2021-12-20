@@ -1,6 +1,6 @@
 {
 "char": "它",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "it; other",
 "pron": "tā"
@@ -11,15 +11,15 @@
 2,
 "tā",
 "it"
+],
+[
+"它们",
+2,
+"tā men",
+"they (for inanimate objects)"
 ]
 ],
 "extraWords": [
-[
-"它们",
-296.1,
-"tā men",
-"they (for inanimate objects)"
-],
 [
 "其它",
 78.06,

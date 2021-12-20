@@ -1,17 +1,42 @@
 {
 "char": "蚊",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "mosquito; gnat",
 "pron": "wén"
 },
-"words": [],
-"extraWords": [
+"words": [
+[
+"蚊帐",
+7,
+"wén zhàng",
+"mosquito net; CL:顶[dǐng]"
+],
 [
 "蚊子",
-8.29,
+7,
 "wén zi",
 "mosquito"
+]
+],
+"extraWords": [
+[
+"蚊",
+10.11,
+"wén",
+"mosquito"
+],
+[
+"蚊",
+10.11,
+"wén",
+"old variant of 蚊[wén]"
+],
+[
+"蚊",
+10.11,
+"wén",
+"old variant of 蚊[wén]"
 ]
 ],
 "strokes": [

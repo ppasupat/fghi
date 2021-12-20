@@ -1,6 +1,6 @@
 {
 "char": "昂",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "rise, raise; proud, bold; upright",
 "pron": "áng"
@@ -8,17 +8,23 @@
 "words": [
 [
 "昂贵",
-6,
+7,
 "áng guì",
 "expensive; costly"
+],
+[
+"高昂",
+7,
+"gāo áng",
+"to hold (one's head) high; expensive; high (spirits etc)"
 ]
 ],
 "extraWords": [
 [
-"高昂",
-5.62,
-"gāo áng",
-"to hold (one's head) high; expensive; high (spirits etc)"
+"昂",
+13.82,
+"áng",
+"to lift; to raise; to raise one's head; high; high spirits; soaring; expensive"
 ]
 ],
 "strokes": [

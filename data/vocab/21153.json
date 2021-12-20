@@ -1,120 +1,144 @@
 {
 "char": "务",
-"level": 2,
+"level": "2",
 "info": {
 "gloss": "affairs, business; must, should",
 "pron": "wù"
 },
 "words": [
 [
-"服务员",
+"服务",
 2,
-"fú wù yuán",
-"waiter; waitress; attendant; customer service personnel; CL:個|个[ge4],位[wei4]"
+"fú wù",
+"to serve; service; CL:项[xiàng]"
+],
+[
+"公务员",
+3,
+"gōng wù yuán",
+"functionary; office-bearer"
 ],
 [
 "任务",
-4,
+3,
 "rèn wu",
-"mission; assignment; task; duty; role; CL:項|项[xiang4],個|个[ge4]"
-],
-[
-"义务",
-5,
-"yì wù",
-"duty; obligation; CL:項|项[xiang4]; volunteer (work etc)"
-],
-[
-"业务",
-5,
-"yè wù",
-"business; professional work; service; CL:項|项[xiang4]"
+"mission; assignment; task; duty; role; CL:项[xiàng],个[gè]"
 ],
 [
 "家务",
-5,
+4,
 "jiā wù",
 "household duties; housework"
 ],
 [
 "商务",
-5,
+4,
 "shāng wù",
 "commercial affairs; commercial; commerce; business"
 ],
 [
-"事务",
-6,
-"shì wù",
-"(political, economic etc) affairs; work; transaction (as in a computer database)"
+"义务",
+4,
+"yì wù",
+"duty; obligation; CL:项[xiàng]; volunteer (work etc)"
 ],
 [
-"财务",
-6,
-"cái wù",
-"financial affairs"
+"业务",
+5,
+"yè wù",
+"business; professional work; service; CL:项[xiàng]"
 ],
 [
 "职务",
-6,
+5,
 "zhí wù",
 "post; position; job; duties"
 ],
 [
+"财务",
+7,
+"cái wù",
+"financial affairs"
+],
+[
+"当务之急",
+7,
+"dāng wù zhī jí",
+"top priority job; matter of vital importance"
+],
+[
+"服务器",
+7,
+"fú wù qì",
+"server (computer); CL:台[tái]"
+],
+[
 "公务",
-6,
+7,
 "gōng wù",
 "official business"
 ],
 [
-"务必",
-6,
-"wù bì",
-"must; to need to; to be sure to"
+"劳务",
+7,
+"láo wù",
+"service (work done for money); services (as in \"goods and services\")"
 ],
 [
-"国务院",
-6,
-"Guó wù yuàn",
-"State Council (PRC); State Department (USA)"
-],
-[
-"当务之急",
-6,
-"dāng wù zhī jí",
-"top priority job; matter of vital importance"
-]
-],
-"extraWords": [
-[
-"服务",
-410.41,
-"fú wù",
-"to serve; service; CL:項|项[xiang4]"
-],
-[
-"公务员",
-26.39,
-"gōng wù yuán",
-"functionary; office-bearer"
-],
-[
-"债务",
-24.69,
-"zhài wù",
-"debt; liability; amount due; indebtedness"
+"事务",
+7,
+"shì wù",
+"(political, economic etc) affairs; work; transaction (as in a computer database)"
 ],
 [
 "事务所",
-24.59,
+7,
 "shì wù suǒ",
 "office; firm"
 ],
 [
-"服务器",
-24.19,
-"fú wù qì",
-"server (computer); CL:臺|台[tai2]"
+"税务",
+7,
+"shuì wù",
+"taxation services; state revenue service"
+],
+[
+"务必",
+7,
+"wù bì",
+"must; to need to; to be sure to"
+],
+[
+"务实",
+7,
+"wù shí",
+"pragmatic; dealing with concrete issues"
+],
+[
+"医务",
+7,
+"yī wù",
+"medical affairs"
+],
+[
+"债务",
+7,
+"zhài wù",
+"debt; liability; amount due; indebtedness"
+]
+],
+"extraWords": [
+[
+"国务院",
+75.67,
+"Guó wù yuàn",
+"State Council (PRC); State Department (USA)"
+],
+[
+"务",
+24.83,
+"wù",
+"affair; business; matter; to be engaged in; to attend to; by all means"
 ],
 [
 "服务业",
@@ -135,10 +159,10 @@
 "routine; everyday business; daily operation (of a company)"
 ],
 [
-"税务",
-13.62,
-"shuì wù",
-"taxation services; state revenue service"
+"服务员",
+15.26,
+"fú wù yuán",
+"waiter; waitress; attendant; customer service personnel; CL:个[gè],位[wèi]"
 ],
 [
 "义务教育",
@@ -147,10 +171,10 @@
 "compulsory education"
 ],
 [
-"务实",
-11.67,
-"wù shí",
-"pragmatic; dealing with concrete issues"
+"服务中心",
+12.09,
+"???",
+"???"
 ],
 [
 "政务",
@@ -165,22 +189,10 @@
 "server (at a restaurant)"
 ],
 [
-"劳务",
-11.17,
-"láo wù",
-"service (work done for money); services (as in \"goods and services\")"
-],
-[
 "务工",
 10.23,
 "wù gōng",
 "to work as a laborer"
-],
-[
-"医务",
-10.2,
-"yī wù",
-"medical affairs"
 ],
 [
 "售后服务",

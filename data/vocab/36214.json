@@ -1,6 +1,6 @@
 {
 "char": "赶",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "pursue, follow; expel, drive away",
 "pron": "gǎn"
@@ -8,36 +8,66 @@
 "words": [
 [
 "赶",
-4,
+3,
 "gǎn",
 "to overtake; to catch up with; to hurry; to rush; to try to catch (the bus etc); to drive (cattle etc) forward; to drive (sb) away; to avail oneself of (an opportunity); until"
 ],
 [
-"赶快",
-5,
-"gǎn kuài",
-"at once; immediately"
-],
-[
-"赶紧",
-5,
-"gǎn jǐn",
-"hurriedly; without delay"
-]
-],
-"extraWords": [
-[
 "赶到",
-51.03,
+3,
 "gǎn dào",
 "to hurry (to some place)"
 ],
 [
+"赶紧",
+3,
+"gǎn jǐn",
+"hurriedly; without delay"
+],
+[
+"赶快",
+3,
+"gǎn kuài",
+"at once; immediately"
+],
+[
+"赶不上",
+6,
+"gǎn bù shàng",
+"can't keep up with; can't catch up with; cannot overtake"
+],
+[
+"赶忙",
+6,
+"gǎn máng",
+"to hurry; to hasten; to make haste"
+],
+[
 "赶上",
-20.63,
+6,
 "gǎn shàng",
 "to keep up with; to catch up with; to overtake; to chance upon; in time for"
 ],
+[
+"赶赴",
+7,
+"gǎn fù",
+"to hurry; to rush"
+],
+[
+"赶往",
+7,
+"gǎn wǎng",
+"to hurry to (somewhere)"
+],
+[
+"追赶",
+7,
+"zhuī gǎn",
+"to pursue; to chase after; to accelerate; to catch up with; to overtake"
+]
+],
+"extraWords": [
 [
 "赶走",
 18.42,
@@ -51,22 +81,10 @@
 "to rush over"
 ],
 [
-"赶往",
-8.74,
-"gǎn wǎng",
-"to hurry to (somewhere)"
-],
-[
-"赶赴",
-8.72,
-"gǎn fù",
-"to hurry; to rush"
-],
-[
-"追赶",
-7.58,
-"zhuī gǎn",
-"to pursue; to chase after; to accelerate; to catch up with; to overtake"
+"赶回",
+9.03,
+"???",
+"???"
 ]
 ],
 "strokes": [

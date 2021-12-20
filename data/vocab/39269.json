@@ -1,6 +1,6 @@
 {
 "char": "饥",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "hunger, starving; hungry; a famine",
 "pron": "jī"
@@ -8,9 +8,15 @@
 "words": [
 [
 "饥饿",
-6,
+7,
 "jī è",
 "hunger; starvation; famine"
+],
+[
+"忍饥挨饿",
+7,
+"rěn jī ái è",
+"starving; famished"
 ]
 ],
 "extraWords": [

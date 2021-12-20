@@ -1,16 +1,40 @@
 {
 "char": "病",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "illness, sickness, disease",
 "pron": "bìng"
 },
 "words": [
 [
+"病",
+1,
+"bìng",
+"illness; CL:场[cháng]; disease; to fall ill; defect"
+],
+[
+"病人",
+1,
+"bìng rén",
+"sick person; patient; invalid; CL:个[gè]"
+],
+[
+"看病",
+1,
+"kàn bìng",
+"to visit a doctor; to see a patient"
+],
+[
 "生病",
-2,
+1,
 "shēng bìng",
 "to fall ill"
+],
+[
+"毛病",
+3,
+"máo bìng",
+"fault; defect; shortcomings; ailment; CL:个[gè]"
 ],
 [
 "病毒",
@@ -19,10 +43,22 @@
 "virus"
 ],
 [
-"毛病",
-5,
-"máo bìng",
-"fault; defect; shortcomings; ailment; CL:個|个[ge4]"
+"病房",
+6,
+"bìng fáng",
+"ward (of a hospital); sickroom; CL:间[jiān]"
+],
+[
+"病情",
+6,
+"bìng qíng",
+"state of an illness; patient's condition"
+],
+[
+"发病",
+6,
+"fā bìng",
+"onset; outbreak (of a disease)"
 ],
 [
 "疾病",
@@ -31,36 +67,90 @@
 "disease; sickness; ailment"
 ],
 [
-"弊病",
+"心脏病",
 6,
+"xīn zàng bìng",
+"heart disease"
+],
+[
+"治病",
+6,
+"zhì bìng",
+"to treat an illness"
+],
+[
+"艾滋病",
+7,
+"ài zī bìng",
+"AIDS (loanword)"
+],
+[
+"弊病",
+7,
 "bì bìng",
 "malady; evil; malpractice; drawback; disadvantage"
+],
+[
+"病床",
+7,
+"bìng chuáng",
+"hospital bed; sickbed"
+],
+[
+"病症",
+7,
+"bìng zhèng",
+"disease; illness"
+],
+[
+"出毛病",
+7,
+"chū máo bìng",
+"a problem appears; to break down"
+],
+[
+"传染病",
+7,
+"chuán rǎn bìng",
+"infectious disease; contagious disease; pestilence"
+],
+[
+"患病",
+7,
+"huàn bìng",
+"to fall ill"
+],
+[
+"精神病",
+7,
+"jīng shén bìng",
+"mental disorder; psychosis"
+],
+[
+"糖尿病",
+7,
+"táng niào bìng",
+"diabetes; diabetes mellitus"
+],
+[
+"心病",
+7,
+"xīn bìng",
+"anxiety; sore point; secret worry; mental disorder; heart disease (medicine)"
+],
+[
+"职业病",
+7,
+"zhí yè bìng",
+"occupational disease"
 ]
 ],
 "extraWords": [
-[
-"病人",
-101.77,
-"bìng rén",
-"sick person; patient; invalid; CL:個|个[ge4]"
-],
 [
 "病例",
 36.72,
 "bìng lì",
 "(medical) case; occurrence of illness"
-],
-[
-"病情",
-27.61,
-"bìng qíng",
-"state of an illness; patient's condition"
-],
-[
-"发病",
-26.44,
-"fā bìng",
-"onset; outbreak (of a disease)"
 ],
 [
 "病变",
@@ -69,40 +159,10 @@
 "pathological changes; lesion; diseased (kidney, cornea etc)"
 ],
 [
-"心脏病",
-25.1,
-"xīn zàng bìng",
-"heart disease"
-],
-[
 "病理",
 23.53,
 "bìng lǐ",
 "pathology"
-],
-[
-"艾滋病",
-23.1,
-"ài zī bìng",
-"AIDS (loanword)"
-],
-[
-"糖尿病",
-18.73,
-"táng niào bìng",
-"diabetes; diabetes mellitus"
-],
-[
-"看病",
-15.75,
-"kàn bìng",
-"to visit a doctor; to see a patient"
-],
-[
-"精神病",
-15.26,
-"jīng shén bìng",
-"mental disorder; psychosis"
 ],
 [
 "神经病",
@@ -111,28 +171,22 @@
 "mental disorder; neuropathy; (derog.) mental case"
 ],
 [
-"病房",
-12.79,
-"bìng fáng",
-"ward (of a hospital); sickroom; CL:間|间[jian1]"
-],
-[
-"传染病",
-10.54,
-"chuán rǎn bìng",
-"infectious disease; contagious disease; pestilence"
-],
-[
 "发病率",
 9.61,
 "fā bìng lǜ",
 "incidence of a disease; disease rate"
 ],
 [
-"治病",
-8.97,
-"zhì bìng",
-"to treat an illness"
+"有病",
+9.31,
+"???",
+"???"
+],
+[
+"精神病院",
+8.44,
+"???",
+"???"
 ],
 [
 "病灶",
@@ -165,22 +219,10 @@
 "course of disease"
 ],
 [
-"病床",
-6.53,
-"bìng chuáng",
-"hospital bed; sickbed"
-],
-[
 "病史",
 6.37,
 "bìng shǐ",
 "medical history"
-],
-[
-"患病",
-6.35,
-"huàn bìng",
-"to fall ill"
 ],
 [
 "病历",

@@ -1,6 +1,6 @@
 {
 "char": "百",
-"level": 2,
+"level": "1",
 "info": {
 "gloss": "one hundred; numerous, many",
 "pron": "bǎi"
@@ -8,31 +8,55 @@
 "words": [
 [
 "百",
-2,
+1,
 "Bǎi",
 "surname Bai"
 ],
 [
 "百",
-2,
+1,
 "bǎi",
 "hundred; numerous; all kinds of"
 ],
 [
-"百分之",
-4,
-"bǎi fēn zhī",
-"percent"
+"老百姓",
+3,
+"lǎo bǎi xìng",
+"ordinary people; the \"person in the street\"; CL:个[gè]"
 ],
 [
-"老百姓",
-5,
-"lǎo bǎi xìng",
-"ordinary people; the \"person in the street\"; CL:個|个[ge4]"
+"百货",
+4,
+"bǎi huò",
+"general merchandise"
+],
+[
+"百分点",
+6,
+"bǎi fēn diǎn",
+"percentage point"
+],
+[
+"百分比",
+7,
+"bǎi fēn bǐ",
+"percentage"
+],
+[
+"百合",
+7,
+"bǎi hé",
+"lily"
+],
+[
+"百科全书",
+7,
+"bǎi kē quán shū",
+"encyclopedia; CL:本[běn],集[jí]"
 ],
 [
 "千方百计",
-6,
+7,
 "qiān fāng bǎi jì",
 "lit. thousand ways, a hundred plans (idiom); by every possible means"
 ]
@@ -43,12 +67,6 @@
 37.87,
 "bǎi xìng",
 "common people"
-],
-[
-"百分点",
-30.42,
-"bǎi fēn diǎn",
-"percentage point"
 ],
 [
 "百万",
@@ -63,6 +81,24 @@
 "hundred years; century; lifetime"
 ],
 [
+"一百",
+19.58,
+"???",
+"???"
+],
+[
+"几百",
+18.61,
+"???",
+"???"
+],
+[
+"一百万",
+17.59,
+"???",
+"???"
+],
+[
 "数百",
 15.01,
 "shù bǎi",
@@ -75,16 +111,16 @@
 "Broadway (New York City)"
 ],
 [
-"百货",
-13.16,
-"bǎi huò",
-"general merchandise"
+"近百",
+10.32,
+"???",
+"???"
 ],
 [
-"百合",
-7.38,
-"bǎi hé",
-"lily"
+"几百万",
+6.71,
+"???",
+"???"
 ],
 [
 "百分",
@@ -93,10 +129,22 @@
 "percent; percentage"
 ],
 [
+"上百",
+5.87,
+"???",
+"???"
+],
+[
 "百分之百",
 5.87,
 "bǎi fēn zhī bǎi",
 "a hundred percent; out and out; absolutely"
+],
+[
+"两百万",
+5.31,
+"???",
+"???"
 ]
 ],
 "strokes": [

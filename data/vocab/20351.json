@@ -1,108 +1,120 @@
 {
 "char": "使",
-"level": 4,
+"level": "2",
 "info": {
 "gloss": "cause, send on a mission, order; envoy, messenger, ambassador",
 "pron": "shǐ"
 },
 "words": [
 [
-"使",
-4,
-"shǐ",
-"to make; to cause; to enable; to use; to employ; to send; to instruct sb to do sth; envoy; messenger"
-],
-[
-"即使",
-4,
-"jí shǐ",
-"even if; even though"
-],
-[
 "使用",
-4,
+2,
 "shǐ yòng",
 "to use; to employ; to apply; to make use of"
 ],
 [
 "大使馆",
-4,
+3,
 "dà shǐ guǎn",
-"embassy; CL:座[zuo4],個|个[ge4]"
+"embassy; CL:座[zuò],个[gè]"
 ],
 [
-"使劲儿",
-5,
-"shǐ jìn r5",
-"erhua variant of 使勁|使劲[shi3 jin4]"
+"使",
+3,
+"shǐ",
+"to make; to cause; to enable; to use; to employ; to send; to instruct sb to do sth; envoy; messenger"
 ],
 [
 "促使",
-5,
+4,
 "cù shǐ",
 "to induce; to promote; to urge; to impel; to bring about; to provoke; to drive (sb to do sth); to catalyze; to actuate; to contribute to (some development)"
 ],
 [
-"使命",
+"使劲",
+4,
+"shǐ jìn",
+"to exert all one's strength"
+],
+[
+"即使",
+5,
+"jí shǐ",
+"even if; even though"
+],
+[
+"使得",
+5,
+"shǐ de",
+"usable; workable; feasible; doable; to make; to cause"
+],
+[
+"大使",
 6,
+"dà shǐ",
+"ambassador; envoy; CL:名[míng],位[wèi]"
+],
+[
+"假使",
+7,
+"jiǎ shǐ",
+"if; in case; suppose; given ..."
+],
+[
+"迫使",
+7,
+"pò shǐ",
+"to force; to compel"
+],
+[
+"使唤",
+7,
+"shǐ huan",
+"to order sb around; (coll.) to handle (a draught animal, tool, machine etc); Taiwan pr. [shi3 huan4]"
+],
+[
+"使命",
+7,
 "shǐ mìng",
 "mission; long-term task to which one devotes oneself; a calling"
 ],
 [
+"使者",
+7,
+"shǐ zhě",
+"emissary; envoy"
+],
+[
+"天使",
+7,
+"tiān shǐ",
+"angel"
+],
+[
+"行使",
+7,
+"xíng shǐ",
+"to exercise (a right etc)"
+],
+[
 "致使",
-6,
+7,
 "zhì shǐ",
 "to cause; to result in"
 ]
 ],
 "extraWords": [
 [
-"使得",
-80.27,
-"shǐ de",
-"usable; workable; feasible; doable; to make; to cause"
-],
-[
-"天使",
-51.66,
-"tiān shǐ",
-"angel"
-],
-[
-"行使",
-18.37,
-"xíng shǐ",
-"to exercise (a right etc)"
-],
-[
-"大使",
-18.12,
-"dà shǐ",
-"ambassador; envoy; CL:名[ming2],位[wei4]"
+"使之",
+14.63,
+"???",
+"???"
 ],
 [
 "使用权",
 12.25,
 "shǐ yòng quán",
 "usage rights"
-],
-[
-"迫使",
-10.42,
-"pò shǐ",
-"to force; to compel"
-],
-[
-"使劲",
-8.85,
-"shǐ jìn",
-"to exert all one's strength"
-],
-[
-"使者",
-8.05,
-"shǐ zhě",
-"emissary; envoy"
 ],
 [
 "使馆",

@@ -1,6 +1,6 @@
 {
 "char": "婆",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "old woman; grandmother",
 "pron": "pó"
@@ -8,9 +8,21 @@
 "words": [
 [
 "老婆",
-5,
+4,
 "lǎo pó",
 "(coll.) wife"
+],
+[
+"外婆",
+7,
+"wài pó",
+"(coll.) mother's mother; maternal grandmother"
+],
+[
+"巫婆",
+7,
+"wū pó",
+"witch; sorceress; female shaman"
 ]
 ],
 "extraWords": [
@@ -21,16 +33,10 @@
 "husband's mother; mother-in-law; grandma"
 ],
 [
-"外婆",
-14.49,
-"wài pó",
-"(coll.) mother's mother; maternal grandmother"
-],
-[
-"巫婆",
-7.21,
-"wū pó",
-"witch; sorceress; female shaman"
+"婆",
+14.38,
+"pó",
+"grandmother; matron; mother-in-law; (slang) femme (in a lesbian relationship)"
 ]
 ],
 "strokes": [

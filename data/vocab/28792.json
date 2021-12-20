@@ -1,17 +1,30 @@
 {
 "char": "灸",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "cauterize with moxa; moxibustion",
 "pron": "jiǔ"
 },
-"words": [],
-"extraWords": [
+"words": [
 [
 "针灸",
-6.35,
+7,
 "zhēn jiǔ",
 "acupuncture and moxibustion; to give or have acupuncture and moxibustion"
+]
+],
+"extraWords": [
+[
+"灸",
+3.19,
+"jiǔ",
+"moxibustion (TCM)"
+],
+[
+"针灸师",
+0.42,
+"???",
+"???"
 ]
 ],
 "strokes": [

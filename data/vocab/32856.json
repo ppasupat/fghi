@@ -1,42 +1,54 @@
 {
 "char": "聘",
-"level": 4,
+"level": "6",
 "info": {
 "gloss": "engage, employ; betroth",
 "pron": "pìn"
 },
 "words": [
 [
+"聘请",
+6,
+"pìn qǐng",
+"to engage; to hire (a lawyer etc)"
+],
+[
 "招聘",
-4,
+6,
 "zhāo pìn",
 "to invite applications for a job; to recruit"
 ],
 [
+"聘",
+7,
+"pìn",
+"to engage (a teacher etc); to hire; to betroth; betrothal gift; to get married (of woman)"
+],
+[
+"聘任",
+7,
+"pìn rèn",
+"to appoint (to a position); appointed"
+],
+[
+"聘用",
+7,
+"pìn yòng",
+"to employ; to hire"
+],
+[
 "应聘",
-4,
+7,
 "yìng pìn",
 "to accept a job offer; to apply for an advertised position"
 ]
 ],
 "extraWords": [
 [
-"聘请",
-14.32,
-"pìn qǐng",
-"to engage; to hire (a lawyer etc)"
-],
-[
 "招聘会",
 6.13,
 "zhāo pìn huì",
 "recruitment meeting; job fair"
-],
-[
-"聘用",
-5.69,
-"pìn yòng",
-"to employ; to hire"
 ]
 ],
 "strokes": [

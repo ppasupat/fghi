@@ -1,11 +1,23 @@
 {
 "char": "获",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "obtain, get, receive; seize",
 "pron": "huò"
 },
 "words": [
+[
+"获",
+4,
+"huò",
+"to catch; to obtain; to capture"
+],
+[
+"获",
+4,
+"huò",
+"to reap; to harvest"
+],
 [
 "获得",
 4,
@@ -13,54 +25,60 @@
 "to obtain; to receive; to get"
 ],
 [
-"收获",
-5,
-"shōu huò",
-"variant of 收穫|收获[shou1 huo4]"
-],
-[
-"收获",
-5,
-"shōu huò",
-"to harvest; to reap; to gain; crop; harvest; profit; gain; bonus; reward"
-],
-[
-"查获",
-6,
-"chá huò",
-"to track down and seize (a criminal suspect, contraband etc)"
-]
-],
-"extraWords": [
-[
-"获悉",
-56.53,
-"huò xī",
-"to learn of sth; to find out; to get news"
+"获奖",
+4,
+"huò jiǎng",
+"to win an award"
 ],
 [
 "获取",
-27.92,
+4,
 "huò qǔ",
 "to gain; to get; to acquire"
 ],
 [
+"收获",
+4,
+"shōu huò",
+"variant of 收获[shōu huò]"
+],
+[
+"收获",
+4,
+"shōu huò",
+"to harvest; to reap; to gain; crop; harvest; profit; gain; bonus; reward"
+],
+[
+"俘获",
+7,
+"fú huò",
+"to capture (enemy property or personnel); capture (physics: absorption of subatomic particle by an atom or nucleus)"
+],
+[
 "获胜",
-26.44,
+7,
 "huò shèng",
 "victorious; to win; to triumph"
 ],
+[
+"获悉",
+7,
+"huò xī",
+"to learn of sth; to find out; to get news"
+],
+[
+"荣获",
+7,
+"róng huò",
+"be honored with"
+]
+],
+"extraWords": [
 [
 "抓获",
 25.46,
 "zhuā huò",
 "to arrest"
-],
-[
-"获奖",
-20.36,
-"huò jiǎng",
-"to win an award"
 ],
 [
 "获利",
@@ -69,10 +87,10 @@
 "profit; to obtain benefits; benefits obtained"
 ],
 [
-"荣获",
-12.23,
-"róng huò",
-"be honored with"
+"查获",
+9.94,
+"chá huò",
+"to track down and seize (a criminal suspect, contraband etc)"
 ],
 [
 "一无所获",

@@ -1,16 +1,28 @@
 {
 "char": "捉",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "grasp, clutch; catch, seize",
 "pron": "zhuō"
 },
 "words": [
 [
-"捕捉",
+"捉",
 6,
+"zhuō",
+"to clutch; to grab; to capture"
+],
+[
+"捕捉",
+7,
 "bǔ zhuō",
 "to catch; to seize; to capture"
+],
+[
+"捉迷藏",
+7,
+"zhuō mí cáng",
+"to play hide-and-seek"
 ]
 ],
 "extraWords": [],

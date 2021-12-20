@@ -1,6 +1,6 @@
 {
 "char": "懒",
-"level": 4,
+"level": "6",
 "info": {
 "gloss": "lazy, languid, listless",
 "pron": "lǎn"
@@ -8,31 +8,36 @@
 "words": [
 [
 "懒",
-4,
+6,
 "lǎn",
-"variant of 懶|懒[lan3]"
+"variant of 懒[lǎn]"
 ],
 [
 "懒",
-4,
+6,
 "lǎn",
 "lazy"
 ],
 [
-"懒惰",
-6,
-"lǎn duò",
-"idle; lazy"
-]
-],
-"extraWords": [
-[
 "懒得",
-11.67,
+7,
 "lǎn dé",
 "not to feel like (doing sth); disinclined to"
+],
+[
+"懒惰",
+7,
+"lǎn duò",
+"idle; lazy"
+],
+[
+"偷懒",
+7,
+"tōu lǎn",
+"to goof off; to be lazy"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 121 567 Q 106 497 79 430 Q 66 394 87 366 Q 97 351 115 366 Q 134 385 142 417 Q 158 472 155 517 Q 154 548 144 571 Q 137 578 132 578 Q 125 577 121 567 Z",
 "M 258 625 Q 315 574 333 576 Q 343 576 347 591 Q 347 601 337 616 Q 319 638 261 645 Q 258 645 259 644 C 243 638 243 638 258 625 Z",

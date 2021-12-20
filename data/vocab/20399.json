@@ -1,12 +1,31 @@
 {
 "char": "侯",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "marquis, lord; target in archery",
 "pron": "hóu, hòu"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"侯",
+14.83,
+"Hóu",
+"surname Hou"
+],
+[
+"侯",
+14.83,
+"hóu",
+"marquis, second of the five orders of ancient Chinese nobility 五等爵位[wǔ děng jué wèi]; nobleman or high official"
+],
+[
+"诸侯",
+3.69,
+"zhū hóu",
+"feudal vassal; feudal princes, esp. the monarchs (dukes or princes) of the several vassal states 諸侯國|诸侯国 of Zhou during Western Zhou and Spring and Autumn periods 11th-5th century BC; subordinate warlord; local official"
+]
+],
 "strokes": [
 "M 252 537 Q 286 591 325 656 Q 350 707 374 732 Q 384 744 378 758 Q 374 771 341 795 Q 311 814 291 813 Q 272 809 281 786 Q 297 755 286 725 Q 228 565 70 357 Q 60 347 57 339 Q 54 327 69 330 Q 106 339 206 473 Q 216 486 226 500 L 252 537 Z",
 "M 226 500 Q 250 449 251 372 Q 250 357 250 340 Q 250 228 221 111 Q 206 62 243 14 Q 244 11 248 8 Q 267 -8 279 20 Q 294 62 294 110 Q 293 387 302 449 Q 309 477 299 488 Q 281 510 267 524 Q 260 531 252 537 C 229 556 214 528 226 500 Z",

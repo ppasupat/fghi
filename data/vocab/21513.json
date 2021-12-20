@@ -1,24 +1,66 @@
 {
 "char": "吉",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "lucky, propitious, good",
 "pron": "jí"
 },
 "words": [
 [
+"吉利",
+6,
+"Jí lì",
+"Geely, Chinese car make"
+],
+[
+"吉利",
+6,
+"jí lì",
+"auspicious; lucky; propitious"
+],
+[
 "吉祥",
 6,
 "jí xiáng",
 "lucky; auspicious; propitious"
+],
+[
+"吉普",
+7,
+"Jí pǔ",
+"Jeep (car brand)"
+],
+[
+"吉他",
+7,
+"jí tā",
+"guitar (loanword); CL:把[bǎ]"
+],
+[
+"吉祥物",
+7,
+"jí xiáng wù",
+"mascot"
 ]
 ],
 "extraWords": [
 [
-"吉他",
-21.16,
-"jí tā",
-"guitar (loanword); CL:把[ba3]"
+"吉",
+61.47,
+"Jí",
+"surname Ji; abbr. for Jilin Province 吉林省[Jí lín Shěng]"
+],
+[
+"吉",
+61.47,
+"jí",
+"lucky; giga- (meaning billion or 10^9)"
+],
+[
+"吉姆",
+17.92,
+"???",
+"???"
 ],
 [
 "吉林",
@@ -27,34 +69,28 @@
 "Jilin province (Kirin) in northeast China, abbr. 吉, capital 長春|长春; also Jilin prefecture-level city, Jilin province"
 ],
 [
+"吉尔",
+10.14,
+"???",
+"???"
+],
+[
+"吉娜",
+8.56,
+"???",
+"???"
+],
+[
 "吉米",
 8.35,
 "Jí mǐ",
 "Jimmy, Jimmie or Jimi (name)"
 ],
 [
-"吉利",
-7.44,
-"Jí lì",
-"Geely, Chinese car make"
-],
-[
-"吉利",
-7.44,
-"jí lì",
-"auspicious; lucky; propitious"
-],
-[
 "吉林省",
 7.24,
 "Jí lín Shěng",
-"Jilin Province (Kirin) in northeast China, abbr. 吉, capital Changchun 長春|长春[Chang2 chun1]"
-],
-[
-"吉普",
-6.38,
-"Jí pǔ",
-"Jeep (car brand)"
+"Jilin Province (Kirin) in northeast China, abbr. 吉, capital Changchun 长春[Cháng chūn]"
 ],
 [
 "大吉",

@@ -1,12 +1,32 @@
 {
 "char": "溯",
-"level": 7,
+"level": "7",
 "info": {
 "gloss": "go upstream, go against current; formerly",
 "pron": "sù"
 },
-"words": [],
-"extraWords": [],
+"words": [
+[
+"追溯",
+7,
+"zhuī sù",
+"lit. to go upstream; to trace sth back to; to date from"
+]
+],
+"extraWords": [
+[
+"溯",
+1.32,
+"sù",
+"to go upstream; to trace the source"
+],
+[
+"溯",
+1.32,
+"sù",
+"variant of 溯[sù]"
+]
+],
 "strokes": [
 "M 205 717 Q 227 695 251 669 Q 264 656 280 655 Q 290 656 297 669 Q 301 684 294 713 Q 290 732 261 746 Q 191 773 180 767 Q 176 763 176 750 Q 179 740 205 717 Z",
 "M 122 525 Q 158 480 188 467 Q 201 464 211 477 Q 217 489 215 505 Q 209 529 192 541 Q 153 565 116 566 Q 112 566 109 564 Q 103 563 106 551 Q 107 539 122 525 Z",

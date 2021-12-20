@@ -1,6 +1,6 @@
 {
 "char": "会",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "assemble, meet together; meeting",
 "pron": "huì, kuài"
@@ -19,28 +19,82 @@
 "to balance an account; accountancy; accounting"
 ],
 [
-"机会",
-3,
-"jī huì",
-"opportunity; chance; occasion; CL:個|个[ge4]"
+"开会",
+1,
+"kāi huì",
+"to hold a meeting; to attend a meeting"
 ],
 [
 "一会儿",
-3,
+1,
 "yī huì r5",
 "a moment; a while; in a moment; now...now...; also pr. [yi1 hui3 r5]"
+],
+[
+"不一会儿",
+2,
+"bù yī huì",
+"soon"
+],
+[
+"机会",
+2,
+"jī huì",
+"opportunity; chance; occasion; CL:个[gè]"
+],
+[
+"那会儿",
+2,
+"nà huì r5",
+"at that time (in the past or the future); also pr. [nei4 hui4 r5]"
+],
+[
+"晚会",
+2,
+"wǎn huì",
+"evening party; CL:个[gè]"
+],
+[
+"音乐会",
+2,
+"yīn yuè huì",
+"concert; CL:场[chǎng]"
 ],
 [
 "会议",
 3,
 "huì yì",
-"meeting; conference; CL:場|场[chang3],屆|届[jie4]"
+"meeting; conference; CL:场[chǎng],届[jiè]"
 ],
 [
-"约会",
+"会员",
+3,
+"huì yuán",
+"member"
+],
+[
+"社会",
+3,
+"shè huì",
+"society; CL:个[gè]"
+],
+[
+"体会",
+3,
+"tǐ huì",
+"to know from experience; to learn through experience; to realize; understanding; experience"
+],
+[
+"演唱会",
+3,
+"yǎn chàng huì",
+"vocal recital or concert"
+],
+[
+"大会",
 4,
-"yuē huì",
-"appointment; engagement; date; CL:次[ci4],個|个[ge4]; to arrange to meet"
+"dà huì",
+"general assembly; general meeting; convention; CL:个[gè],届[jiè]"
 ],
 [
 "聚会",
@@ -49,70 +103,256 @@
 "party; gathering; to meet; to get together"
 ],
 [
-"社会",
+"会计",
 4,
-"shè huì",
-"society; CL:個|个[ge4]"
+"kuài jì",
+"accountant; accountancy; accounting"
 ],
 [
 "误会",
 4,
 "wù huì",
-"to misunderstand; to mistake; misunderstanding; CL:個|个[ge4]"
+"to misunderstand; to mistake; misunderstanding; CL:个[gè]"
 ],
 [
-"宴会",
-5,
-"yàn huì",
-"banquet; feast; dinner party; CL:席[xi2],個|个[ge4]"
+"亚运会",
+4,
+"Yà yùn huì",
+"Asian Games"
 ],
 [
-"体会",
-5,
-"tǐ huì",
-"to know from experience; to learn through experience; to realize; understanding; experience"
+"约会",
+4,
+"yuē huì",
+"appointment; engagement; date; CL:次[cì],个[gè]; to arrange to meet"
 ],
 [
-"会计",
+"运动会",
+4,
+"yùn dòng huì",
+"sports competition; CL:个[gè]"
+],
+[
+"博览会",
 5,
-"kuài jì",
-"accountant; accountancy; accounting"
+"bó lǎn huì",
+"exposition; international fair"
+],
+[
+"会谈",
+5,
+"huì tán",
+"talks; discussions; CL:次[cì]"
+],
+[
+"待会儿",
+6,
+"dāi huì r5",
+"in a moment; later; also pr. [dai1 hui3 r5] or [dai1 hui5 r5]"
+],
+[
+"峰会",
+6,
+"fēng huì",
+"summit meeting"
+],
+[
+"国会",
+6,
+"Guó huì",
+"Parliament (UK); Congress (US); Diet (Japan); Legislative Yuan (Taiwan)"
+],
+[
+"会见",
+6,
+"huì jiàn",
+"to meet with (sb who is paying a visit); CL:次[cì]"
+],
+[
+"会长",
+6,
+"huì zhǎng",
+"president of a club, committee etc"
 ],
 [
 "协会",
 6,
 "xié huì",
-"an association; a society; CL:個|个[ge4],家[jia1]"
+"an association; a society; CL:个[gè],家[jiā]"
 ],
 [
-"领会",
+"学会",
 6,
-"lǐng huì",
-"to understand; to comprehend; to grasp"
+"xué huì",
+"to learn; to master; institute; learned society; (scholarly) association"
 ],
 [
-"博览会",
+"宴会",
 6,
-"bó lǎn huì",
-"exposition; international fair"
+"yàn huì",
+"banquet; feast; dinner party; CL:席[xí],个[gè]"
+],
+[
+"座谈会",
+6,
+"zuò tán huì",
+"conference; symposium; rap session"
+],
+[
+"奥运会",
+7,
+"Ào yùn huì",
+"abbr. for 奧林匹克運動會|奥林匹克运动会; Olympic Games; the Olympics"
+],
+[
+"拜会",
+7,
+"bài huì",
+"pay an official call; call on; visit in an official capacity"
+],
+[
+"董事会",
+7,
+"dǒng shì huì",
+"board of directors"
+],
+[
+"都会",
+7,
+"dū huì",
+"city; metropolis"
+],
+[
+"发布会",
+7,
+"fā bù huì",
+"news conference; briefing"
+],
+[
+"发布会",
+7,
+"fā bù huì",
+"news conference; briefing"
+],
+[
+"工会",
+7,
+"gōng huì",
+"labor union; trade union; CL:个[gè]"
+],
+[
+"会场",
+7,
+"huì chǎng",
+"meeting place; place where people gather; CL:个[gè]"
+],
+[
+"会面",
+7,
+"huì miàn",
+"to meet with; meeting"
 ],
 [
 "会晤",
-6,
+7,
 "huì wù",
 "to meet; meeting; conference"
 ],
 [
+"会意",
+7,
+"huì yì",
+"combined ideogram (one of the Six Methods 六书[liù shū] of forming Chinese characters); Chinese character that combines the meanings of existing elements; also known as joint ideogram or associative compound; to comprehend without being told explicitly; to cotton on; knowing (smile, glance etc)"
+],
+[
+"会诊",
+7,
+"huì zhěn",
+"consultation (medical); to meet for diagnosis; (by extension) consultation of different specialists"
+],
+[
+"集会",
+7,
+"jí huì",
+"to gather; assembly; meeting; CL:个[gè],次[cì]"
+],
+[
 "聚精会神",
-6,
+7,
 "jù jīng huì shén",
 "to concentrate one's attention (idiom)"
 ],
 [
-"省会",
-6,
-"shěng huì",
-"provincial capital"
+"理会",
+7,
+"lǐ huì",
+"to understand; to pay attention to; to take notice of"
+],
+[
+"领会",
+7,
+"lǐng huì",
+"to understand; to comprehend; to grasp"
+],
+[
+"庙会",
+7,
+"miào huì",
+"temple fair"
+],
+[
+"社会主义",
+7,
+"shè huì zhǔ yì",
+"socialism"
+],
+[
+"盛会",
+7,
+"shèng huì",
+"pageant; distinguished meeting"
+],
+[
+"委员会",
+7,
+"wěi yuán huì",
+"committee"
+],
+[
+"夜总会",
+7,
+"yè zǒng huì",
+"nightclub; nightspot"
+],
+[
+"议会",
+7,
+"yì huì",
+"parliament; legislative assembly"
+],
+[
+"展览会",
+7,
+"zhǎn lǎn huì",
+"exhibition; show; CL:个[gè]"
+],
+[
+"招待会",
+7,
+"zhāo dài huì",
+"reception; CL:个[gè],次[cì]"
+],
+[
+"这会儿",
+7,
+"zhè huì r5",
+"(coll.) now; this moment; also pr. [zhe4 hui3 r5]"
+],
+[
+"追悼会",
+7,
+"zhuī dào huì",
+"memorial service; funeral service"
 ]
 ],
 "extraWords": [
@@ -123,46 +363,22 @@
 "improbable; unlikely; will not (act, happen etc); not able; not having learned to do sth; (coll.) (Tw) don't mention it; not at all"
 ],
 [
-"社会主义",
-151.3,
-"shè huì zhǔ yì",
-"socialism"
-],
-[
-"都会",
-132.24,
-"dū huì",
-"city; metropolis"
-],
-[
-"委员会",
-112.56,
-"wěi yuán huì",
-"committee"
-],
-[
-"大会",
-86.59,
-"dà huì",
-"general assembly; general meeting; convention; CL:個|个[ge4],屆|届[jie4]"
-],
-[
-"学会",
-83.63,
-"xué huì",
-"to learn; to master; institute; learned society; (scholarly) association"
-],
-[
 "舞会",
 54.43,
 "wǔ huì",
-"dance; ball; party; CL:場|场[chang3]"
+"dance; ball; party; CL:场[chǎng]"
 ],
 [
-"董事会",
-50.54,
-"dǒng shì huì",
-"board of directors"
+"会儿",
+48.44,
+"huì",
+"can (i.e. have the skill, know how to); likely to; sure to; to meet; to get together; meeting; gathering; union; group; association; a moment (Taiwan pr. for this sense is [hui3])"
+],
+[
+"会儿",
+48.44,
+"kuài",
+"to balance an account; accountancy; accounting"
 ],
 [
 "会不会",
@@ -171,28 +387,10 @@
 "(posing a question: whether sb, something) can or cannot?; is able to or not"
 ],
 [
-"奥运会",
-40.08,
-"Ào yùn huì",
-"abbr. for 奧林匹克運動會|奥林匹克运动会; Olympic Games; the Olympics"
-],
-[
-"会员",
-38.81,
-"huì yuán",
-"member"
-],
-[
-"会谈",
-37.47,
-"huì tán",
-"talks; discussions; CL:次[ci4]"
-],
-[
-"演唱会",
-34.13,
-"yǎn chàng huì",
-"vocal recital or concert"
+"我会",
+39.17,
+"???",
+"???"
 ],
 [
 "一会",
@@ -201,10 +399,10 @@
 "a moment; a while; in a moment; also pr. [yi1 hui3]"
 ],
 [
-"晚会",
-29.94,
-"wǎn huì",
-"evening party; CL:個|个[ge4]"
+"总会",
+29.17,
+"???",
+"???"
 ],
 [
 "新闻发布会",
@@ -213,64 +411,16 @@
 "news conference"
 ],
 [
-"工会",
-27.6,
-"gōng huì",
-"labor union; trade union; CL:個|个[ge4]"
-],
-[
-"会长",
-26.44,
-"huì zhǎng",
-"president of a club, committee etc"
-],
-[
 "股东大会",
 25.98,
 "gǔ dōng dà huì",
 "general shareholders' meeting"
 ],
 [
-"会见",
-22.68,
-"huì jiàn",
-"to meet with (sb who is paying a visit); CL:次[ci4]"
-],
-[
-"国会",
-22.34,
-"Guó huì",
-"Parliament (UK); Congress (US); Diet (Japan); Legislative Yuan (Taiwan)"
-],
-[
-"会面",
-21.94,
-"huì miàn",
-"to meet with; meeting"
-],
-[
-"开会",
-21.41,
-"kāi huì",
-"to hold a meeting; to attend a meeting"
-],
-[
-"座谈会",
-20.39,
-"zuò tán huì",
-"conference; symposium; rap session"
-],
-[
-"议会",
-19.61,
-"yì huì",
-"parliament; legislative assembly"
-],
-[
-"亚运会",
-19.19,
-"Yà yùn huì",
-"Asian Games"
+"组委会",
+20.61,
+"???",
+"???"
 ],
 [
 "教会",
@@ -291,10 +441,10 @@
 "discussion forum; seminar"
 ],
 [
-"待会儿",
-16.87,
-"dāi huì r5",
-"in a moment; later; also pr. [dai1 hui3 r5] or [dai1 hui5 r5]"
+"全社会",
+17.28,
+"???",
+"???"
 ],
 [
 "安理会",
@@ -306,19 +456,13 @@
 "全会",
 16.57,
 "quán huì",
-"plenary session (at a conference); CL:屆|届[jie4]"
+"plenary session (at a conference); CL:届[jiè]"
 ],
 [
-"发布会",
-16.48,
-"fā bù huì",
-"news conference; briefing"
-],
-[
-"发布会",
-16.48,
-"fā bù huì",
-"news conference; briefing"
+"人大常委会",
+16.51,
+"???",
+"???"
 ],
 [
 "会计师",
@@ -333,10 +477,10 @@
 "annual meeting"
 ],
 [
-"峰会",
-13.66,
-"fēng huì",
-"summit meeting"
+"社会各界",
+14.79,
+"???",
+"???"
 ],
 [
 "转会",
@@ -345,16 +489,10 @@
 "to transfer to another club (professional sports)"
 ],
 [
-"运动会",
-13.38,
-"yùn dòng huì",
-"sports competition; CL:個|个[ge4]"
-],
-[
-"音乐会",
-12.73,
-"yīn yuè huì",
-"concert; CL:場|场[chang3]"
+"北京奥运会",
+13.43,
+"???",
+"???"
 ],
 [
 "基金会",
@@ -363,22 +501,10 @@
 "foundation (institution supported by an endowment)"
 ],
 [
-"夜总会",
-12.46,
-"yè zǒng huì",
-"nightclub; nightspot"
-],
-[
 "会议室",
 12.22,
 "huì yì shì",
 "meeting room; conference room"
-],
-[
-"会场",
-12.01,
-"huì chǎng",
-"meeting place; place where people gather; CL:個|个[ge4]"
 ],
 [
 "听证会",
@@ -405,16 +531,22 @@
 "to participate in a meeting"
 ],
 [
+"代表大会",
+10.31,
+"???",
+"???"
+],
+[
 "居委会",
 9.32,
 "jū wěi huì",
 "neighbourhood committee"
 ],
 [
-"集会",
-9.27,
-"jí huì",
-"to gather; assembly; meeting; CL:個|个[ge4],次[ci4]"
+"监事会",
+9.29,
+"???",
+"???"
 ],
 [
 "人民大会堂",
@@ -423,10 +555,16 @@
 "the Great Hall of the People in Beijing"
 ],
 [
+"人民代表大会",
+8.97,
+"???",
+"???"
+],
+[
 "会同",
 8.91,
 "Huì tóng",
-"Huitong county in Huaihua 懷化|怀化[Huai2 hua4], Hunan"
+"Huitong county in Huaihua 怀化[Huái huà], Hunan"
 ],
 [
 "会同",
@@ -441,28 +579,22 @@
 "to encounter; to rendezvous; to converge; to meet (a payment)"
 ],
 [
+"会上",
+8.85,
+"???",
+"???"
+],
+[
 "理事会",
 8.49,
 "lǐ shì huì",
 "council"
 ],
 [
-"盛会",
-8.35,
-"shèng huì",
-"pageant; distinguished meeting"
-],
-[
 "社会化",
 8.18,
 "shè huì huà",
 "socialization; to socialize; to fit into society; to train sb for society"
-],
-[
-"理会",
-8.08,
-"lǐ huì",
-"to understand; to pay attention to; to take notice of"
 ],
 [
 "社会科学",
@@ -489,16 +621,28 @@
 "chamber of commerce"
 ],
 [
+"到会",
+7.04,
+"???",
+"???"
+],
+[
 "会所",
 7.0,
 "huì suǒ",
 "office of an association; meeting place; clubhouse; club"
 ],
 [
-"展览会",
-6.8,
-"zhǎn lǎn huì",
-"exhibition; show; CL:個|个[ge4]"
+"总工会",
+6.92,
+"???",
+"???"
+],
+[
+"省会",
+6.88,
+"shěng huì",
+"provincial capital"
 ],
 [
 "村委会",
@@ -507,10 +651,10 @@
 "village committee"
 ],
 [
-"那会儿",
-6.44,
-"nà huì r5",
-"at that time (in the past or the future); also pr. [nei4 hui4 r5]"
+"并不会",
+6.59,
+"???",
+"???"
 ],
 [
 "三中全会",
@@ -519,10 +663,22 @@
 "third plenum of a national congress of the Chinese Communist Party"
 ],
 [
+"雅典奥运会",
+6.28,
+"???",
+"???"
+],
+[
 "招聘会",
 6.13,
 "zhāo pìn huì",
 "recruitment meeting; job fair"
+],
+[
+"时会",
+6.08,
+"???",
+"???"
 ],
 [
 "黑社会",
@@ -531,10 +687,22 @@
 "criminal underworld; organized crime syndicate"
 ],
 [
+"后会",
+6.06,
+"???",
+"???"
+],
+[
 "记者招待会",
 5.82,
 "jì zhě zhāo dài huì",
 "press conference"
+],
+[
+"研究会",
+5.8,
+"???",
+"???"
 ],
 [
 "奥委会",
@@ -546,7 +714,13 @@
 "拍卖会",
 5.34,
 "pāi mài huì",
-"auction; CL:場|场[chang3]"
+"auction; CL:场[chǎng]"
+],
+[
+"洽谈会",
+5.29,
+"???",
+"???"
 ],
 [
 "报告会",
@@ -559,6 +733,12 @@
 5.27,
 "shè huì xué",
 "sociology"
+],
+[
+"决不会",
+5.22,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,6 +1,6 @@
 {
 "char": "芒",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "Miscanthus sinensis",
 "pron": "máng"
@@ -8,7 +8,7 @@
 "words": [
 [
 "光芒",
-6,
+7,
 "guāng máng",
 "rays of light; brilliant rays; radiance"
 ]
@@ -19,6 +19,12 @@
 10.21,
 "máng guǒ",
 "mango (loanword)"
+],
+[
+"芒",
+7.3,
+"máng",
+"awn (of cereals); arista (of grain); tip (of a blade); Miscanthus sinensis (type of grass); variant of 邙, Mt Mang at Luoyang in Henan"
 ]
 ],
 "strokes": [

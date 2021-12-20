@@ -1,60 +1,90 @@
 {
 "char": "基",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "foundation, base",
 "pron": "jī"
 },
 "words": [
 [
-"基础",
-4,
-"jī chǔ",
-"base; foundation; basis; underlying; CL:個|个[ge4]"
-],
-[
 "基本",
-5,
+3,
 "jī běn",
 "basic; fundamental; main; elementary"
 ],
 [
-"基地",
-6,
-"jī dì",
-"base (of operations); industrial or military base; al-Qaeda"
-],
-[
-"基因",
-6,
-"jī yīn",
-"gene (loanword)"
-],
-[
-"基金",
-6,
-"jī jīn",
-"fund"
-]
-],
-"extraWords": [
-[
-"基层",
-45.03,
-"jī céng",
-"basic level; grassroots unit; basement layer"
-],
-[
 "基本上",
-44.37,
+3,
 "jī běn shang",
 "basically; on the whole"
 ],
 [
+"基础",
+3,
+"jī chǔ",
+"base; foundation; basis; underlying; CL:个[gè]"
+],
+[
+"基地",
+5,
+"jī dì",
+"base (of operations); industrial or military base; al-Qaeda"
+],
+[
+"基金",
+5,
+"jī jīn",
+"fund"
+],
+[
+"基督教",
+6,
+"Jī dū jiào",
+"Christianity; Christian"
+],
+[
+"根基",
+7,
+"gēn jī",
+"foundation"
+],
+[
+"基本功",
+7,
+"jī běn gōng",
+"basic skills; fundamentals"
+],
+[
+"基层",
+7,
+"jī céng",
+"basic level; grassroots unit; basement layer"
+],
+[
+"基因",
+7,
+"jī yīn",
+"gene (loanword)"
+],
+[
 "基于",
-37.29,
+7,
 "jī yú",
 "because of; on the basis of; in view of; on account of"
+],
+[
+"基准",
+7,
+"jī zhǔn",
+"norm; standard; standard of reference; base; base point; base line; benchmark; reference point; reference frame; criterion; data"
+]
+],
+"extraWords": [
+[
+"基",
+106.15,
+"jī",
+"base; foundation; basic; radical (chemistry); (slang) gay"
 ],
 [
 "巴基斯坦",
@@ -66,19 +96,19 @@
 "基督",
 16.66,
 "Jī dū",
-"Christ (abbr. for 基利斯督[Ji1 li4 si1 du1] or 基利士督[Ji1 li4 shi4 du1])"
-],
-[
-"基准",
-14.27,
-"jī zhǔn",
-"norm; standard; standard of reference; base; base point; base line; benchmark; reference point; reference frame; criterion; data"
+"Christ (abbr. for 基利斯督[Jī lì sī dū] or 基利士督[Jī lì shì dū])"
 ],
 [
 "基金会",
 12.49,
 "jī jīn huì",
 "foundation (institution supported by an endowment)"
+],
+[
+"本基金",
+11.66,
+"???",
+"???"
 ],
 [
 "诺基亚",
@@ -111,10 +141,10 @@
 "cardinal number; (math.) radix; base"
 ],
 [
-"基督教",
-6.8,
-"Jī dū jiào",
-"Christianity; Christian"
+"杰基",
+6.38,
+"???",
+"???"
 ],
 [
 "基点",
@@ -127,6 +157,12 @@
 6.32,
 "zhuǎn jī yīn",
 "genetic modification"
+],
+[
+"弗兰基",
+6.29,
+"???",
+"???"
 ],
 [
 "比基尼",
@@ -145,6 +181,12 @@
 5.23,
 "zì yóu jī",
 "free radical"
+],
+[
+"明基",
+5.19,
+"???",
+"???"
 ]
 ],
 "strokes": [

@@ -1,12 +1,31 @@
 {
 "char": "寅",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "to respect, reverence; respectfully; 3rd terrestrial branch",
 "pron": "yín"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"寅",
+0.99,
+"yín",
+"3rd earthly branch: 3-5 a.m., 1st solar month (4th February-5th March), year of the Tiger; ancient Chinese compass point: 60°"
+],
+[
+"陈寅恪",
+0.55,
+"???",
+"???"
+],
+[
+"甲寅",
+0.39,
+"jiǎ yín",
+"51st year A3 of the 60 year cycle, e.g. 1974 or 2034"
+]
+],
 "strokes": [
 "M 472 807 Q 499 786 527 760 Q 543 747 560 748 Q 572 749 576 764 Q 580 780 569 813 Q 557 843 464 860 Q 446 863 440 859 Q 434 855 437 841 Q 441 828 472 807 Z",
 "M 265 663 L 265 664 Q 252 691 239 700 Q 218 716 216 688 Q 222 655 184 610 Q 136 564 165 500 Q 165 499 167 495 Q 183 465 206 496 Q 224 521 236 559 Q 251 604 264 633 L 265 663 Z",

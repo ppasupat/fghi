@@ -1,6 +1,6 @@
 {
 "char": "军",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "army, military; soldiers, troops",
 "pron": "jūn"
@@ -10,13 +10,25 @@
 "冠军",
 5,
 "guàn jūn",
-"champion; CL:個|个[ge4]"
+"champion; CL:个[gè]"
 ],
 [
-"军事",
+"军人",
 5,
-"jūn shì",
-"military affairs; military matters; military"
+"jūn rén",
+"serviceman; soldier; military personnel"
+],
+[
+"亚军",
+5,
+"yà jūn",
+"second place (in a sports contest); runner-up"
+],
+[
+"海军",
+6,
+"hǎi jūn",
+"navy"
 ],
 [
 "将军",
@@ -34,27 +46,63 @@
 "军队",
 6,
 "jūn duì",
-"army; troops; CL:支[zhi1],個|个[ge4]"
+"army; troops; CL:支[zhī],个[gè]"
 ],
 [
-"亚军",
+"军舰",
 6,
-"yà jūn",
-"second place (in a sports contest); runner-up"
+"jūn jiàn",
+"warship; military naval vessel; CL:艘[sōu]"
 ],
 [
-"季军",
+"军事",
 6,
-"jì jūn",
-"third in a race; bronze medalist"
+"jūn shì",
+"military affairs; military matters; military"
+],
+[
+"空军",
+6,
+"kōng jūn",
+"air force"
+],
+[
+"陆军",
+6,
+"lù jūn",
+"army; ground forces"
+],
+[
+"参军",
+7,
+"cān jūn",
+"to join the army"
+],
+[
+"军官",
+7,
+"jūn guān",
+"officer (military)"
+],
+[
+"领军",
+7,
+"lǐng jūn",
+"to lead troups; (fig.) to lead; leading"
+],
+[
+"千军万马",
+7,
+"qiān jūn wàn mǎ",
+"magnificent army with thousands of men and horses (idiom); impressive display of manpower; all the King's horses and all the King's men"
 ]
 ],
 "extraWords": [
 [
-"海军",
-30.97,
-"hǎi jūn",
-"navy"
+"军",
+203.68,
+"jūn",
+"(bound form) army; military"
 ],
 [
 "解放军",
@@ -69,16 +117,10 @@
 "Red Army (1928-1937), predecessor of the PLA; (Soviet) Red Army (1917-1946)"
 ],
 [
-"军人",
-20.05,
-"jūn rén",
-"serviceman; soldier; military personnel"
-],
-[
-"空军",
-19.62,
-"kōng jūn",
-"air force"
+"季军",
+15.69,
+"jì jūn",
+"third in a race; bronze medalist"
 ],
 [
 "进军",
@@ -99,12 +141,6 @@
 "army; main forces"
 ],
 [
-"军官",
-13.58,
-"jūn guān",
-"officer (military)"
-],
-[
 "军区",
 11.86,
 "jūn qū",
@@ -121,12 +157,6 @@
 11.06,
 "tóng zǐ jūn",
 "child soldiers; juvenile militia"
-],
-[
-"陆军",
-10.69,
-"lù jūn",
-"army; ground forces"
 ],
 [
 "军士",
@@ -174,19 +204,13 @@
 "敌军",
 6.04,
 "dí jūn",
-"enemy troops; hostile forces; CL:股[gu3]"
+"enemy troops; hostile forces; CL:股[gǔ]"
 ],
 [
 "军火",
 5.54,
 "jūn huǒ",
 "weapons and ammunition; munitions; arms"
-],
-[
-"参军",
-5.51,
-"cān jūn",
-"to join the army"
 ],
 [
 "中央军委",
@@ -199,12 +223,6 @@
 5.39,
 "jūn yíng",
 "barracks; army camp"
-],
-[
-"军舰",
-5.11,
-"jūn jiàn",
-"warship; military naval vessel; CL:艘[sou1]"
 ]
 ],
 "strokes": [

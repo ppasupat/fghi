@@ -1,37 +1,43 @@
 {
 "char": "衡",
-"level": 5,
+"level": "6",
 "info": {
 "gloss": "measure, weigh, judge, consider",
 "pron": "héng"
 },
 "words": [
 [
+"衡量",
+6,
+"héng liáng",
+"to weigh; to examine; to consider"
+],
+[
 "平衡",
-5,
+6,
 "píng héng",
 "balance; equilibrium"
 ],
 [
+"均衡",
+7,
+"jūn héng",
+"equal; balanced; harmony; equilibrium"
+],
+[
+"抗衡",
+7,
+"kàng héng",
+"to compete with; to vie with; to counter"
+],
+[
 "权衡",
-6,
+7,
 "quán héng",
 "to consider; to weigh (a matter); to balance (pros and cons)"
 ]
 ],
 "extraWords": [
-[
-"衡量",
-16.79,
-"héng liáng",
-"to weigh; to examine; to consider"
-],
-[
-"均衡",
-14.93,
-"jūn héng",
-"equal; balanced; harmony; equilibrium"
-],
 [
 "不平衡",
 10.12,

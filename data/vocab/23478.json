@@ -1,22 +1,52 @@
 {
 "char": "家",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "house, home, residence; family",
 "pron": "jiā, jia"
 },
 "words": [
 [
-"家",
+"国家",
 1,
-"jiā",
-"see 傢伙|家伙[jia1 huo5]"
+"guó jiā",
+"country; nation; state; CL:个[gè]"
+],
+[
+"回家",
+1,
+"huí jiā",
+"to return home"
 ],
 [
 "家",
 1,
 "jiā",
-"home; family; (polite) my (sister, uncle etc); classifier for families or businesses; refers to the philosophical schools of pre-Han China; noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian; CL:個|个[ge4]"
+"see 家伙[jiā huo]"
+],
+[
+"家",
+1,
+"jiā",
+"home; family; (polite) my (sister, uncle etc); classifier for families or businesses; refers to the philosophical schools of pre-Han China; noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian; CL:个[gè]"
+],
+[
+"家里",
+1,
+"jiā lǐ",
+"home"
+],
+[
+"家人",
+1,
+"jiā rén",
+"household; (one's) family"
+],
+[
+"在家",
+1,
+"zài jiā",
+"to be at home; (at a workplace) to be in (as opposed to being away on official business 出差[chū chāi]); (Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 出家[chū jiā])"
 ],
 [
 "大家",
@@ -25,133 +55,265 @@
 "everyone; influential family; great expert"
 ],
 [
-"国家",
-3,
-"guó jiā",
-"country; nation; state; CL:個|个[ge4]"
-],
-[
-"作家",
-4,
-"zuò jiā",
-"author; CL:個|个[ge4],位[wei4]"
-],
-[
-"家具",
-4,
-"jiā jù",
-"furniture; CL:件[jian4],套[tao4]"
+"画家",
+2,
+"huà jiā",
+"painter; CL:个[gè]"
 ],
 [
 "家庭",
-5,
+2,
 "jiā tíng",
-"family; household; CL:戶|户[hu4],個|个[ge4]"
-],
-[
-"专家",
-5,
-"zhuān jiā",
-"expert; specialist; CL:個|个[ge4]"
-],
-[
-"家乡",
-5,
-"jiā xiāng",
-"hometown; native place; CL:個|个[ge4]"
-],
-[
-"家务",
-5,
-"jiā wù",
-"household duties; housework"
-],
-[
-"家伙",
-6,
-"jiā huo",
-"variant of 家伙[jia1 huo5]"
-],
-[
-"家伙",
-6,
-"jiā huo",
-"household dish, implement or furniture; domestic animal; (coll.) guy; chap; weapon"
-],
-[
-"人家",
-6,
-"rén jiā",
-"household; dwelling; family; sb else's house; household business; house of woman's husband-to-be; CL:戶|户[hu4],家[jia1]"
-],
-[
-"人家",
-6,
-"rén jia",
-"other people; sb else; he, she or they; I, me (referring to oneself as \"one\" or \"people\")"
-],
-[
-"家属",
-6,
-"jiā shǔ",
-"family member; (family) dependent"
-],
-[
-"家喻户晓",
-6,
-"jiā yù hù xiǎo",
-"understood by everyone (idiom); well known; a household name"
-],
-[
-"家常",
-6,
-"jiā cháng",
-"the daily life of a family"
-],
-[
-"儒家",
-6,
-"Rú jiā",
-"Confucian school, founded by Confucius 孔子[Kong3 zi3] (551-479 BC) and Mencius 孟子[Meng4 zi3] (c. 372-c. 289 BC)"
-]
-],
-"extraWords": [
-[
-"回家",
-279.02,
-"huí jiā",
-"to return home"
-],
-[
-"家里",
-136.02,
-"jiā lǐ",
-"home"
-],
-[
-"家人",
-85.85,
-"jiā rén",
-"household; (one's) family"
+"family; household; CL:户[hù],个[gè]"
 ],
 [
 "家长",
-68.8,
+2,
 "jiā zhǎng",
 "head of a household; family head; patriarch; parent or guardian of a child"
 ],
 [
-"在家",
-56.44,
-"zài jiā",
-"to be at home; (at a workplace) to be in (as opposed to being away on official business 出差[chu1 chai1]); (Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 出家[chu1 jia1])"
+"全家",
+2,
+"quán jiā",
+"whole family"
+],
+[
+"作家",
+2,
+"zuò jiā",
+"author; CL:个[gè],位[wèi]"
+],
+[
+"搬家",
+3,
+"bān jiā",
+"to move house; removal"
+],
+[
+"家具",
+3,
+"jiā jù",
+"furniture; CL:件[jiàn],套[tào]"
+],
+[
+"家属",
+3,
+"jiā shǔ",
+"family member; (family) dependent"
+],
+[
+"家乡",
+3,
+"jiā xiāng",
+"hometown; native place; CL:个[gè]"
+],
+[
+"专家",
+3,
+"zhuān jiā",
+"expert; specialist; CL:个[gè]"
+],
+[
+"家务",
+4,
+"jiā wù",
+"household duties; housework"
+],
+[
+"老家",
+4,
+"lǎo jiā",
+"native place; place of origin; home state or region"
+],
+[
+"人家",
+4,
+"rén jiā",
+"household; dwelling; family; sb else's house; household business; house of woman's husband-to-be; CL:户[hù],家[jiā]"
+],
+[
+"人家",
+4,
+"rén jia",
+"other people; sb else; he, she or they; I, me (referring to oneself as \"one\" or \"people\")"
+],
+[
+"家电",
+6,
+"jiā diàn",
+"household electric appliance; abbr. for 家用電器|家用电器"
+],
+[
+"家园",
+6,
+"jiā yuán",
+"home; homeland"
+],
+[
+"挨家挨户",
+7,
+"āi jiā āi hù",
+"to go from house to house"
+],
+[
+"厂家",
+7,
+"chǎng jiā",
+"factory; factory owners"
+],
+[
+"成家",
+7,
+"chéng jiā",
+"to settle down and get married (of a man); to become a recognized expert"
+],
+[
+"大家庭",
+7,
+"dà jiā tíng",
+"extended family; big family; harmonious group"
+],
+[
+"独家",
+7,
+"dú jiā",
+"exclusive"
+],
+[
+"管家",
+7,
+"guǎn jiā",
+"housekeeper; butler; manage one's household"
+],
+[
+"行家",
+7,
+"háng jiā",
+"connoisseur; expert; veteran"
+],
+[
+"好家伙",
+7,
+"hǎo jiā huo",
+"my God!; oh boy!; man!"
+],
+[
+"家伙",
+7,
+"jiā huo",
+"variant of 家伙[jiā huo]"
+],
+[
+"家伙",
+7,
+"jiā huo",
+"household dish, implement or furniture; domestic animal; (coll.) guy; chap; weapon"
+],
+[
+"家家户户",
+7,
+"jiā jiā hù hù",
+"each and every family (idiom); every household"
+],
+[
+"家教",
+7,
+"jiā jiào",
+"family education; upbringing; to bring sb up; private tutor"
+],
+[
+"家境",
+7,
+"jiā jìng",
+"family financial situation; family circumstances"
+],
+[
+"家禽",
+7,
+"jiā qín",
+"poultry; domestic fowl"
+],
+[
+"家用",
+7,
+"jiā yòng",
+"home-use; domestic; family expenses; housekeeping money"
+],
+[
+"家喻户晓",
+7,
+"jiā yù hù xiǎo",
+"understood by everyone (idiom); well known; a household name"
+],
+[
+"家政",
+7,
+"jiā zhèng",
+"housekeeping"
 ],
 [
 "家族",
-54.31,
+7,
 "jiā zú",
 "family; clan"
 ],
+[
+"老人家",
+7,
+"lǎo rén jiā",
+"polite term for old woman or man"
+],
+[
+"千家万户",
+7,
+"qiān jiā wàn hù",
+"every family (idiom)"
+],
+[
+"倾家荡产",
+7,
+"qīng jiā dàng chǎn",
+"to lose a family fortune (idiom)"
+],
+[
+"儒家",
+7,
+"Rú jiā",
+"Confucian school, founded by Confucius 孔子[Kǒng zǐ] (551-479 BC) and Mencius 孟子[Mèng zǐ] (c. 372-c. 289 BC)"
+],
+[
+"输家",
+7,
+"shū jiā",
+"loser (as opposed to winner 赢家[yíng jiā])"
+],
+[
+"私家车",
+7,
+"sī jiā chē",
+"private car"
+],
+[
+"无家可归",
+7,
+"wú jiā kě guī",
+"homeless"
+],
+[
+"一家人",
+7,
+"yī jiā rén",
+"household; the whole family"
+],
+[
+"赢家",
+7,
+"yíng jiā",
+"winner"
+]
+],
+"extraWords": [
 [
 "玩家",
 49.86,
@@ -165,10 +327,10 @@
 "the national team"
 ],
 [
-"厂家",
-36.31,
-"chǎng jiā",
-"factory; factory owners"
+"小家伙",
+30.82,
+"???",
+"???"
 ],
 [
 "商家",
@@ -186,19 +348,25 @@
 "科学家",
 27.96,
 "kē xué jiā",
-"scientist; CL:個|个[ge4]"
+"scientist; CL:个[gè]"
+],
+[
+"你家",
+24.53,
+"???",
+"???"
 ],
 [
 "艺术家",
 24.09,
 "yì shù jiā",
-"artist; CL:個|个[ge4],位[wei4],名[ming2]"
+"artist; CL:个[gè],位[wèi],名[míng]"
 ],
 [
-"全家",
-22.87,
-"quán jiā",
-"whole family"
+"我家",
+21.28,
+"???",
+"???"
 ],
 [
 "到家",
@@ -219,16 +387,10 @@
 "Wen Jiabao (1942-), Premier of PRC from 2003-2013"
 ],
 [
-"独家",
-17.5,
-"dú jiā",
-"exclusive"
-],
-[
-"搬家",
-17.47,
-"bān jiā",
-"to move house; removal"
+"这家",
+17.62,
+"???",
+"???"
 ],
 [
 "家门",
@@ -249,18 +411,6 @@
 "economist"
 ],
 [
-"老家",
-15.14,
-"lǎo jiā",
-"native place; place of origin; home state or region"
-],
-[
-"家园",
-15.1,
-"jiā yuán",
-"home; homeland"
-],
-[
 "自家",
 14.72,
 "zì jiā",
@@ -273,22 +423,10 @@
 "(administrative) national-level"
 ],
 [
-"一家人",
-13.88,
-"yī jiā rén",
-"household; the whole family"
-],
-[
-"老人家",
-13.49,
-"lǎo rén jiā",
-"polite term for old woman or man"
-],
-[
 "老家伙",
 12.73,
 "lǎo jiā huo",
-"variant of 老家伙[lao3 jia1 huo5]"
+"variant of 老家伙[lǎo jiā huo]"
 ],
 [
 "老家伙",
@@ -303,16 +441,10 @@
 "royal; imperial household"
 ],
 [
-"无家可归",
-10.7,
-"wú jiā kě guī",
-"homeless"
-],
-[
-"画家",
-10.35,
-"huà jiā",
-"painter; CL:個|个[ge4]"
+"离家",
+11.09,
+"???",
+"???"
 ],
 [
 "私家",
@@ -327,16 +459,28 @@
 "buyer; client"
 ],
 [
+"第一家",
+9.53,
+"???",
+"???"
+],
+[
 "首家",
 9.14,
 "shǒu jiā",
 "first (hotel of its type, store of its type etc)"
 ],
 [
-"管家",
-9.12,
-"guǎn jiā",
-"housekeeper; butler; manage one's household"
+"专家们",
+8.95,
+"???",
+"???"
+],
+[
+"他家",
+8.47,
+"???",
+"???"
 ],
 [
 "农家",
@@ -354,19 +498,19 @@
 "石家庄",
 8.17,
 "Shí jiā zhuāng",
-"Shijiazhuang prefecture level city and capital of Hebei Province 河北省[He2 bei3 Sheng3] in north China"
+"Shijiazhuang prefecture level city and capital of Hebei Province 河北省[Hé běi Shěng] in north China"
 ],
 [
-"家禽",
-7.32,
-"jiā qín",
-"poultry; domestic fowl"
+"家中",
+7.54,
+"???",
+"???"
 ],
 [
-"赢家",
-6.98,
-"yíng jiā",
-"winner"
+"之家",
+7.27,
+"???",
+"???"
 ],
 [
 "国家主席",
@@ -405,28 +549,28 @@
 "family influential for generations; aristocratic family"
 ],
 [
-"好家伙",
-5.37,
-"hǎo jiā huo",
-"my God!; oh boy!; man!"
-],
-[
-"大家庭",
-5.28,
-"dà jiā tíng",
-"extended family; big family; harmonious group"
+"家里人",
+5.54,
+"???",
+"???"
 ],
 [
 "政治家",
 5.23,
 "zhèng zhì jiā",
-"statesman; politician; CL:個|个[ge4],位[wei4],名[ming2]"
+"statesman; politician; CL:个[gè],位[wèi],名[míng]"
 ],
 [
 "家乐福",
 5.23,
 "Jiā lè fú",
 "Carrefour, French supermarket chain"
+],
+[
+"家长们",
+5.18,
+"???",
+"???"
 ],
 [
 "资本家",

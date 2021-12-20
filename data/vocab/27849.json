@@ -1,6 +1,6 @@
 {
 "char": "泉",
-"level": 4,
+"level": "4",
 "info": {
 "gloss": "spring, fountain; wealth, money",
 "pron": "quán"
@@ -10,28 +10,40 @@
 "矿泉水",
 4,
 "kuàng quán shuǐ",
-"mineral spring water; CL:瓶[ping2],杯[bei1]"
+"mineral spring water; CL:瓶[píng],杯[bēi]"
 ],
 [
-"源泉",
-6,
-"yuán quán",
-"fountainhead; well-spring; water source; fig. origin"
-]
+"泉",
+5,
+"quán",
+"spring (small stream); mouth of a spring; coin (archaic)"
 ],
-"extraWords": [
+[
+"喷泉",
+7,
+"pēn quán",
+"fountain"
+],
 [
 "温泉",
-13.05,
+7,
 "Wēn quán",
 "Arishang Nahiyisi or Wenquan county in Börtala Mongol autonomous prefecture 博爾塔拉蒙古自治州|博尔塔拉蒙古自治州, Xinjiang"
 ],
 [
 "温泉",
-13.05,
+7,
 "wēn quán",
 "hot spring; spa; onsen"
 ],
+[
+"源泉",
+7,
+"yuán quán",
+"fountainhead; well-spring; water source; fig. origin"
+]
+],
+"extraWords": [
 [
 "小泉",
 10.78,
@@ -43,12 +55,6 @@
 10.56,
 "Quán zhōu",
 "Quanzhou prefecture level city in Fujian"
-],
-[
-"喷泉",
-5.6,
-"pēn quán",
-"fountain"
 ]
 ],
 "strokes": [

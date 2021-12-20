@@ -1,16 +1,34 @@
 {
 "char": "僵",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "stiff and motionless, stock still",
 "pron": "jiāng"
 },
 "words": [
 [
-"僵硬",
-6,
-"jiāng yìng",
-"stiff; rigid"
+"僵",
+7,
+"jiāng",
+"rigid; deadlock; stiff (corpse)"
+],
+[
+"僵",
+7,
+"jiāng",
+"variant of 僵[jiāng]"
+],
+[
+"僵化",
+7,
+"jiāng huà",
+"to become rigid"
+],
+[
+"僵局",
+7,
+"jiāng jú",
+"impasse; deadlock"
 ]
 ],
 "extraWords": [
@@ -21,10 +39,10 @@
 "gyonshi; jiang shi; Chinese vampire; zombie"
 ],
 [
-"僵局",
-5.05,
-"jiāng jú",
-"impasse; deadlock"
+"僵硬",
+7.39,
+"jiāng yìng",
+"stiff; rigid"
 ]
 ],
 "strokes": [

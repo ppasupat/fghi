@@ -1,6 +1,6 @@
 {
 "char": "乱",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "confusion, state of chaos, revolt",
 "pron": "luàn"
@@ -8,7 +8,7 @@
 "words": [
 [
 "乱",
-4,
+3,
 "luàn",
 "in confusion or disorder; in a confused state of mind; disorder; upheaval; riot; illicit sexual relations; to throw into disorder; to mix up; indiscriminate; random; arbitrary"
 ],
@@ -20,30 +20,66 @@
 ],
 [
 "捣乱",
-6,
+7,
 "dǎo luàn",
 "to disturb; to look for trouble; to stir up a row; to bother sb intentionally"
 ],
 [
+"胡思乱想",
+7,
+"hú sī luàn xiǎng",
+"to indulge in flights of fancy (idiom); to let one's imagination run wild"
+],
+[
+"慌乱",
+7,
+"huāng luàn",
+"frenetic; hurried"
+],
+[
+"霍乱",
+7,
+"huò luàn",
+"cholera"
+],
+[
+"乱七八糟",
+7,
+"luàn qī bā zāo",
+"everything in disorder (idiom); in a hideous mess; at sixes and sevens"
+],
+[
+"忙乱",
+7,
+"máng luàn",
+"rushed and muddled"
+],
+[
 "扰乱",
-6,
+7,
 "rǎo luàn",
 "to disturb; to perturb; to harass"
 ],
 [
-"胡乱",
-6,
-"hú luàn",
-"careless; reckless; casually; absent-mindedly; at will; at random; any old how"
+"骚乱",
+7,
+"sāo luàn",
+"disturbance; riot; to create a disturbance"
+],
+[
+"紊乱",
+7,
+"wěn luàn",
+"disorder; chaos"
+],
+[
+"杂乱无章",
+7,
+"zá luàn wú zhāng",
+"disordered and in a mess (idiom); all mixed up and chaotic"
 ]
 ],
 "extraWords": [
-[
-"乱七八糟",
-11.27,
-"luàn qī bā zāo",
-"everything in disorder (idiom); in a hideous mess; at sixes and sevens"
-],
 [
 "乱动",
 8.11,
@@ -51,10 +87,10 @@
 "to fiddle with; to tamper with; to meddle with; to move randomly; to flail about"
 ],
 [
-"紊乱",
-8.07,
-"wěn luàn",
-"disorder; chaos"
+"乱收费",
+7.14,
+"???",
+"???"
 ],
 [
 "乱世",
@@ -79,12 +115,6 @@
 5.96,
 "luàn pǎo",
 "to run around all over the place"
-],
-[
-"骚乱",
-5.54,
-"sāo luàn",
-"disturbance; riot; to create a disturbance"
 ],
 [
 "乱来",

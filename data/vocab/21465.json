@@ -1,6 +1,6 @@
 {
 "char": "叙",
-"level": 5,
+"level": "7",
 "info": {
 "gloss": "express, state, relate, narrate",
 "pron": "xù"
@@ -8,7 +8,7 @@
 "words": [
 [
 "叙述",
-5,
+7,
 "xù shù",
 "to relate (a story or information); to tell or talk about; to recount; narration; telling; narrative; account"
 ]
@@ -19,6 +19,24 @@
 10.79,
 "Xù lì yà",
 "Syria"
+],
+[
+"叙",
+5.4,
+"xù",
+"variant of 叙[xù]"
+],
+[
+"叙",
+5.4,
+"Xù",
+"abbr. for Syria 叙利亚[Xù lì yà]"
+],
+[
+"叙",
+5.4,
+"xù",
+"to narrate; to chat"
 ]
 ],
 "strokes": [

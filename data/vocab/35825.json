@@ -1,16 +1,40 @@
 {
 "char": "诱",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "persuade, entice, induce; guide",
 "pron": "yòu"
 },
 "words": [
 [
+"引诱",
+7,
+"yǐn yòu",
+"to coerce (sb into doing sth bad); to lure (into a trap); to seduce"
+],
+[
+"诱饵",
+7,
+"yòu ěr",
+"bait"
+],
+[
+"诱发",
+7,
+"yòu fā",
+"to induce; to cause; to elicit; to trigger"
+],
+[
 "诱惑",
-6,
+7,
 "yòu huò",
 "to entice; to lure; to induce; to attract"
+],
+[
+"诱人",
+7,
+"yòu rén",
+"attractive; alluring; captivating; to attract; to captivate"
 ]
 ],
 "extraWords": [
@@ -19,30 +43,6 @@
 12.49,
 "yòu dǎo",
 "to induce; to encourage; to provide guidance; (medicine, chemistry) induction"
-],
-[
-"诱发",
-10.18,
-"yòu fā",
-"to induce; to cause; to elicit; to trigger"
-],
-[
-"诱人",
-10.01,
-"yòu rén",
-"attractive; alluring; captivating; to attract; to captivate"
-],
-[
-"引诱",
-9.0,
-"yǐn yòu",
-"to coerce (sb into doing sth bad); to lure (into a trap); to seduce"
-],
-[
-"诱饵",
-7.48,
-"yòu ěr",
-"bait"
 ]
 ],
 "strokes": [

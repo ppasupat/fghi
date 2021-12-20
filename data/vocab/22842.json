@@ -1,11 +1,23 @@
 {
 "char": "夺",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "take by force, rob, snatch",
 "pron": "duó"
 },
 "words": [
+[
+"夺",
+6,
+"duó",
+"to seize; to take away forcibly; to wrest control of; to compete or strive for; to force one's way through; to leave out; to lose"
+],
+[
+"夺取",
+6,
+"duó qǔ",
+"to seize; to capture; to wrest control of"
+],
 [
 "争夺",
 6,
@@ -13,10 +25,40 @@
 "to fight over; to contest; to vie over"
 ],
 [
+"剥夺",
+7,
+"bō duó",
+"to deprive; to expropriate; to strip (sb of his property)"
+],
+[
+"夺冠",
+7,
+"duó guàn",
+"to seize the crown; fig. to win a championship; to win gold medal"
+],
+[
+"夺魁",
+7,
+"duó kuí",
+"to seize; to win"
+],
+[
 "掠夺",
-6,
+7,
 "lüè duó",
 "to plunder; to rob"
+],
+[
+"抢夺",
+7,
+"qiǎng duó",
+"to plunder; to pillage; to forcibly take"
+],
+[
+"争分夺秒",
+7,
+"zhēng fēn duó miǎo",
+"lit. fight minutes, snatch seconds (idiom); a race against time; making every second count"
 ]
 ],
 "extraWords": [
@@ -25,30 +67,6 @@
 25.72,
 "duó dé",
 "to take (after a struggle); to wrest; to seize; to capture; to win (a trophy)"
-],
-[
-"夺冠",
-20.64,
-"duó guàn",
-"to seize the crown; fig. to win a championship; to win gold medal"
-],
-[
-"夺取",
-13.61,
-"duó qǔ",
-"to seize; to capture; to wrest control of"
-],
-[
-"剥夺",
-10.19,
-"bō duó",
-"to deprive; to expropriate; to strip (sb of his property)"
-],
-[
-"抢夺",
-5.07,
-"qiǎng duó",
-"to plunder; to pillage; to forcibly take"
 ]
 ],
 "strokes": [

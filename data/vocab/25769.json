@@ -1,12 +1,31 @@
 {
 "char": "撩",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "lift up, raise; leave, depart",
 "pron": "liāo, liáo"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"撩",
+2.62,
+"liāo",
+"to lift up (sth hanging down); to raise (hem of skirt); to pull up (sleeve); to sprinkle (water with cupped hands)"
+],
+[
+"撩",
+2.62,
+"liáo",
+"to tease; to provoke; to stir up (emotions)"
+],
+[
+"撩人",
+1.31,
+"liáo rén",
+"to attract; to titillate"
+]
+],
 "strokes": [
 "M 293 541 Q 308 547 325 551 Q 353 560 358 565 Q 365 572 360 581 Q 353 591 323 596 Q 310 597 296 594 L 247 576 Q 166 546 113 537 Q 79 527 106 514 Q 140 499 210 516 Q 226 522 246 526 L 293 541 Z",
 "M 240 340 Q 237 247 235 128 Q 234 106 221 96 Q 217 93 160 102 Q 129 115 131 105 Q 132 98 151 83 Q 205 35 218 9 Q 233 -22 247 -24 Q 260 -25 276 8 Q 294 51 294 122 Q 288 252 289 382 L 289 412 Q 289 476 293 541 L 296 594 Q 296 669 316 734 Q 332 762 280 785 Q 249 804 229 797 Q 213 791 227 769 Q 248 744 248 710 Q 249 694 247 576 L 246 526 Q 245 465 241 381 L 240 340 Z",

@@ -1,6 +1,6 @@
 {
 "char": "窃",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "secretly, stealthily; steal; thief",
 "pron": "qiè"
@@ -8,9 +8,15 @@
 "words": [
 [
 "盗窃",
-6,
+7,
 "dào qiè",
 "to steal"
+],
+[
+"窃取",
+7,
+"qiè qǔ",
+"to steal; to seize"
 ]
 ],
 "extraWords": [
@@ -25,6 +31,12 @@
 8.41,
 "qiè tīng qì",
 "tapping device; bug"
+],
+[
+"窃",
+7.3,
+"qiè",
+"to steal; secretly; (humble) I"
 ],
 [
 "窃听",

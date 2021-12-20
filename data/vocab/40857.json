@@ -1,6 +1,6 @@
 {
 "char": "龙",
-"level": 5,
+"level": "3",
 "info": {
 "gloss": "dragon; symbolic of emperor",
 "pron": "lóng"
@@ -8,19 +8,61 @@
 "words": [
 [
 "龙",
-5,
+3,
 "Lóng",
 "surname Long"
 ],
 [
 "龙",
-5,
+3,
 "lóng",
-"dragon; CL:條|条[tiao2]; imperial"
+"dragon; CL:条[tiáo]; imperial"
+],
+[
+"画龙点睛",
+7,
+"huà lóng diǎn jīng",
+"to paint a dragon and dot in the eyes (idiom); fig. to add the vital finishing touch; the crucial point that brings the subject to life; a few words to clinch the point"
+],
+[
+"恐龙",
+7,
+"kǒng lóng",
+"dinosaur; CL:头[tóu]; (slang) ugly person"
+],
+[
+"来龙去脉",
+7,
+"lái lóng qù mài",
+"the rise and fall of the terrain (idiom); (fig.) the whole sequence of events; causes and effects"
+],
+[
+"龙舟",
+7,
+"lóng zhōu",
+"dragon boat; imperial boat"
+],
+[
+"尼龙",
+7,
+"ní lóng",
+"nylon (loanword)"
+],
+[
+"跑龙套",
+7,
+"pǎo lóng tào",
+"to play a small role"
+],
+[
+"沙龙",
+7,
+"shā lóng",
+"salon (loanword)"
 ],
 [
 "水龙头",
-6,
+7,
 "shuǐ lóng tóu",
 "faucet; tap"
 ]
@@ -42,19 +84,19 @@
 "黑龙江",
 12.56,
 "Hēi lóng jiāng",
-"Heilongjiang province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈爾濱|哈尔滨[Ha1 er3 bin1]; Heilongjiang river forming the border between northeast China and Russia; Amur river"
+"Heilongjiang province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈尔滨[Hā ěr bīn]; Heilongjiang river forming the border between northeast China and Russia; Amur river"
 ],
 [
-"沙龙",
-10.97,
-"shā lóng",
-"salon (loanword)"
+"神龙",
+12.23,
+"???",
+"???"
 ],
 [
 "黑龙江省",
 9.07,
 "Hēi lóng jiāng Shěng",
-"Heilongjiang Province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈爾濱|哈尔滨[Ha1 er3 bin1]"
+"Heilongjiang Province (Heilungkiang) in northeast China, abbr. 黑, capital Harbin 哈尔滨[Hā ěr bīn]"
 ],
 [
 "龙虾",
@@ -63,16 +105,16 @@
 "lobster"
 ],
 [
-"恐龙",
-8.02,
-"kǒng lóng",
-"dinosaur; CL:頭|头[tou2]; (slang) ugly person"
-],
-[
 "飞龙",
 7.48,
 "fēi lóng",
 "wyvern (type of dragon)"
+],
+[
+"科龙",
+7.44,
+"???",
+"???"
 ],
 [
 "龙卷风",
@@ -102,7 +144,7 @@
 "龙门",
 6.36,
 "Lóng mén",
-"Longmen county in Huizhou 惠州[Hui4 zhou1], Guangdong; mythical Dragon gate where a carp can transform into a dragon"
+"Longmen county in Huizhou 惠州[Huì zhōu], Guangdong; mythical Dragon gate where a carp can transform into a dragon"
 ]
 ],
 "strokes": [

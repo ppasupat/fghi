@@ -1,22 +1,28 @@
 {
 "char": "缺",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "be short of, lack; gap, deficit",
 "pron": "quē"
 },
 "words": [
 [
-"缺少",
-4,
-"quē shǎo",
-"lack; shortage of; shortfall; to be short (of); to lack"
+"缺",
+3,
+"quē",
+"deficiency; lack; scarce; vacant post; to run short of"
 ],
 [
 "缺点",
-4,
+3,
 "quē diǎn",
-"weak point; fault; shortcoming; disadvantage; CL:個|个[ge4]"
+"weak point; fault; shortcoming; disadvantage; CL:个[gè]"
+],
+[
+"缺少",
+3,
+"quē shǎo",
+"lack; shortage of; shortfall; to be short (of); to lack"
 ],
 [
 "缺乏",
@@ -31,31 +37,49 @@
 "defect; flaw; physical defect"
 ],
 [
-"缺席",
-6,
-"quē xí",
-"absence; absent"
+"残缺",
+7,
+"cán quē",
+"badly damaged; shattered"
 ],
-[
-"缺口",
-6,
-"quē kǒu",
-"nick; jag; gap; shortfall"
-]
-],
-"extraWords": [
 [
 "短缺",
-10.9,
+7,
 "duǎn quē",
 "shortage"
 ],
 [
+"紧缺",
+7,
+"jǐn quē",
+"in short supply; scarce"
+],
+[
+"欠缺",
+7,
+"qiàn quē",
+"to be deficient in; lapse; deficiency"
+],
+[
+"缺口",
+7,
+"quē kǒu",
+"nick; jag; gap; shortfall"
+],
+[
 "缺失",
-9.67,
+7,
 "quē shī",
 "deficiency; shortcoming; hiatus"
 ],
+[
+"缺席",
+7,
+"quē xí",
+"absence; absent"
+]
+],
+"extraWords": [
 [
 "缺氧",
 7.56,
@@ -69,22 +93,10 @@
 "defective; defect"
 ],
 [
-"欠缺",
-6.6,
-"qiàn quē",
-"to be deficient in; lapse; deficiency"
-],
-[
 "稀缺",
 5.84,
 "xī quē",
 "scarce; scarcity"
-],
-[
-"紧缺",
-5.54,
-"jǐn quē",
-"in short supply; scarce"
 ]
 ],
 "strokes": [

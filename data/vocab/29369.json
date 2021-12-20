@@ -1,6 +1,6 @@
 {
 "char": "犹",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "like, similar to, just like, as",
 "pron": "yóu"
@@ -13,10 +13,28 @@
 "to hesitate"
 ],
 [
+"毫不犹豫",
+7,
+"háo bù yóu yù",
+"without the slightest hesitation"
+],
+[
+"记忆犹新",
+7,
+"jì yì yóu xīn",
+"to remain fresh in one's memory (idiom)"
+],
+[
 "犹如",
-6,
+7,
 "yóu rú",
 "similar to; appearing to be"
+],
+[
+"犹豫不决",
+7,
+"yóu yù bù jué",
+"hesitancy; indecision; to waver"
 ]
 ],
 "extraWords": [
@@ -33,10 +51,10 @@
 "Jew; Jewish; Judea (in Biblical Palestine)"
 ],
 [
-"毫不犹豫",
-6.94,
-"háo bù yóu yù",
-"without the slightest hesitation"
+"犹",
+10.91,
+"yóu",
+"as if; (just) like; just as; still; yet"
 ]
 ],
 "strokes": [

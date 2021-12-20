@@ -1,24 +1,36 @@
 {
 "char": "妒",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "jealous, envious",
 "pron": "dù"
 },
 "words": [
 [
+"妒忌",
+7,
+"dù jì",
+"to be jealous of (sb's achievements etc); to be envious; envy"
+],
+[
 "嫉妒",
-6,
+7,
 "jí dù",
 "to be jealous; to envy; to hate"
 ]
 ],
 "extraWords": [
 [
-"妒忌",
-5.07,
-"dù jì",
-"to be jealous of (sb's achievements etc); to be envious; envy"
+"妒",
+1.97,
+"dù",
+"to envy (success, talent); jealous"
+],
+[
+"妒",
+1.97,
+"dù",
+"variant of 妒[dù]"
 ]
 ],
 "strokes": [

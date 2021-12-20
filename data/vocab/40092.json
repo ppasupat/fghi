@@ -1,22 +1,70 @@
 {
 "char": "鲜",
-"level": 3,
+"level": "4",
 "info": {
 "gloss": "fresh; delicious; attractive",
 "pron": "xiān, xiǎn"
 },
 "words": [
 [
-"新鲜",
-3,
-"xīn xiān",
-"fresh (experience, food etc); freshness; novel; uncommon"
-],
-[
 "海鲜",
-5,
+4,
 "hǎi xiān",
 "seafood"
+],
+[
+"鲜",
+4,
+"xiǎn",
+"variant of 鲜[xiǎn]"
+],
+[
+"鲜",
+4,
+"xiǎn",
+"variant of 鲜[xiǎn]"
+],
+[
+"鲜",
+4,
+"xiān",
+"fresh; bright (in color); delicious; tasty; delicacy; aquatic foods"
+],
+[
+"鲜",
+4,
+"xiǎn",
+"few; rare"
+],
+[
+"鲜",
+4,
+"xiān",
+"fish; old variant of 鲜[xiān]"
+],
+[
+"鲜",
+4,
+"xiǎn",
+"old variant of 鲜[xiǎn]"
+],
+[
+"鲜花",
+4,
+"xiān huā",
+"flower; fresh flowers; CL:朵[duǒ]"
+],
+[
+"鲜明",
+4,
+"xiān míng",
+"bright; clear-cut; distinct"
+],
+[
+"新鲜",
+4,
+"xīn xiān",
+"fresh (experience, food etc); freshness; novel; uncommon"
 ],
 [
 "鲜艳",
@@ -25,10 +73,28 @@
 "bright-colored; gaily-colored"
 ],
 [
-"鲜明",
-6,
-"xiān míng",
-"bright; clear-cut; distinct"
+"保鲜",
+7,
+"bǎo xiān",
+"to keep fresh"
+],
+[
+"鲜活",
+7,
+"xiān huó",
+"vivid; lively; (of food ingredients) live or fresh"
+],
+[
+"鲜美",
+7,
+"xiān měi",
+"delicious; tasty"
+],
+[
+"鲜血",
+7,
+"xiān xuè",
+"blood"
 ]
 ],
 "extraWords": [
@@ -37,30 +103,6 @@
 68.85,
 "Cháo xiǎn",
 "North Korea; Korea as geographic term; Taiwan pr. [Chao2 xian1]"
-],
-[
-"鲜花",
-14.3,
-"xiān huā",
-"flower; fresh flowers; CL:朵[duo3]"
-],
-[
-"鲜血",
-12.55,
-"xiān xuè",
-"blood"
-],
-[
-"保鲜",
-6.83,
-"bǎo xiān",
-"to keep fresh"
-],
-[
-"鲜活",
-6.29,
-"xiān huó",
-"vivid; lively; (of food ingredients) live or fresh"
 ],
 [
 "朝鲜半岛",

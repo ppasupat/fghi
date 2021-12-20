@@ -1,16 +1,22 @@
 {
 "char": "田",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "field, arable land, cultivated",
 "pron": "tián"
 },
 "words": [
 [
-"田野",
+"田",
 6,
-"tián yě",
-"field; open land; CL:片[pian4]"
+"Tián",
+"surname Tian"
+],
+[
+"田",
+6,
+"tián",
+"field; farm; CL:片[piàn]"
 ],
 [
 "田径",

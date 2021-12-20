@@ -1,6 +1,6 @@
 {
 "char": "酷",
-"level": 6,
+"level": "6",
 "info": {
 "gloss": "strong, stimulating; very",
 "pron": "kù"
@@ -13,10 +13,28 @@
 "cruel; cruelty"
 ],
 [
-"冷酷",
+"酷",
 6,
+"kù",
+"ruthless; strong (e.g. of wine); (loanword) cool; hip"
+],
+[
+"酷似",
+7,
+"kù sì",
+"to strikingly resemble"
+],
+[
+"冷酷",
+7,
 "lěng kù",
 "grim; unfeeling; callous"
+],
+[
+"冷酷无情",
+7,
+"lěng kù wú qíng",
+"cold-hearted; unfeeling; callous"
 ]
 ],
 "extraWords": [],

@@ -1,32 +1,43 @@
 {
 "char": "拟",
-"level": 6,
+"level": "7",
 "info": {
 "gloss": "draft; intend, plan, propose",
 "pron": "nǐ"
 },
 "words": [
 [
-"拟定",
-6,
-"nǐ dìng",
-"to draw up; to draft; to formulate"
-]
-],
-"extraWords": [
-[
 "模拟",
-22.51,
+7,
 "mó nǐ",
 "imitation; to simulate; to imitate; analog (device, as opposed to digital)"
 ],
 [
+"拟",
+7,
+"nǐ",
+"doubtful; suspicious; variant of 拟[nǐ]; to emulate; to imitate"
+],
+[
+"拟",
+7,
+"nǐ",
+"to plan to; to draft (a plan); to imitate; to assess; to compare; pseudo-"
+],
+[
+"拟定",
+7,
+"nǐ dìng",
+"to draw up; to draft; to formulate"
+],
+[
 "虚拟",
-16.46,
+7,
 "xū nǐ",
 "to imagine; to make up; fictitious; theoretical; hypothetical; (computing) to emulate; virtual"
 ]
 ],
+"extraWords": [],
 "strokes": [
 "M 332 543 Q 398 565 401 567 Q 410 576 404 584 Q 397 596 366 601 Q 350 604 335 600 L 287 582 Q 182 548 127 539 Q 90 530 118 515 Q 166 494 218 511 Q 251 521 286 530 L 332 543 Z",
 "M 281 331 Q 278 235 276 114 Q 275 89 261 80 Q 254 77 184 94 Q 153 107 155 97 Q 156 90 175 75 Q 238 24 253 -5 Q 272 -39 287 -40 Q 302 -41 316 -8 Q 334 35 334 106 Q 327 239 328 370 L 328 401 Q 328 473 332 543 L 335 600 Q 335 690 356 758 Q 372 786 320 809 Q 289 828 269 821 Q 253 815 267 793 Q 288 766 288 734 Q 289 716 287 582 L 286 530 Q 285 463 282 372 L 281 331 Z",

@@ -1,6 +1,6 @@
 {
 "char": "同",
-"level": 1,
+"level": "1",
 "info": {
 "gloss": "same, similar; together with",
 "pron": "tóng, tòng"
@@ -10,7 +10,43 @@
 "同学",
 1,
 "tóng xué",
-"to study at the same school; fellow student; classmate; CL:位[wei4],個|个[ge4]"
+"to study at the same school; fellow student; classmate; CL:位[wèi],个[gè]"
+],
+[
+"不同",
+2,
+"bù tóng",
+"different; distinct; not the same; not alike"
+],
+[
+"同时",
+2,
+"tóng shí",
+"at the same time; simultaneously"
+],
+[
+"同事",
+2,
+"tóng shì",
+"colleague; co-worker; CL:个[gè],位[wèi]"
+],
+[
+"同样",
+2,
+"tóng yàng",
+"same; equal; equivalent"
+],
+[
+"相同",
+2,
+"xiāng tóng",
+"identical; same"
+],
+[
+"共同",
+3,
+"gòng tóng",
+"common; joint; jointly; together; collaborative"
 ],
 [
 "同意",
@@ -19,28 +55,10 @@
 "to agree; to consent; to approve"
 ],
 [
-"同事",
-3,
-"tóng shì",
-"colleague; co-worker; CL:個|个[ge4],位[wei4]"
-],
-[
-"同时",
+"合同",
 4,
-"tóng shí",
-"at the same time; simultaneously"
-],
-[
-"相同",
-4,
-"xiāng tóng",
-"identical; same"
-],
-[
-"共同",
-4,
-"gòng tóng",
-"common; joint; jointly; together; collaborative"
+"hé tong",
+"(business) contract; CL:个[gè]"
 ],
 [
 "同情",
@@ -49,28 +67,52 @@
 "to sympathize with; sympathy"
 ],
 [
-"合同",
-5,
-"hé tong",
-"(business) contract; CL:個|个[ge4]"
-],
-[
-"胡同",
+"胡同儿",
 5,
 "hú tòng",
-"lane; alley; CL:條|条[tiao2]"
+"lane; alley; CL:条[tiáo]"
 ],
 [
-"胡同",
+"胡同儿",
 5,
 "hú tòng",
-"variant of 胡同[hu2 tong4]"
+"variant of 胡同[hú tòng]"
 ],
 [
-"同志",
+"如同",
+5,
+"rú tóng",
+"like; as"
+],
+[
+"陪同",
 6,
-"tóng zhì",
-"comrade; (slang) homosexual; CL:個|个[ge4]"
+"péi tóng",
+"to accompany"
+],
+[
+"认同",
+6,
+"rèn tóng",
+"to approve of; to endorse; to acknowledge; to recognize; to identify oneself with"
+],
+[
+"同",
+6,
+"tóng",
+"(used in given names); variant of 同[tóng]"
+],
+[
+"同",
+6,
+"tóng",
+"like; same; similar; together; alike; with"
+],
+[
+"同",
+6,
+"tòng",
+"see 胡同[hú tòng]"
 ],
 [
 "同胞",
@@ -79,25 +121,181 @@
 "born of the same parents; sibling; fellow citizen; compatriot"
 ],
 [
-"连同",
+"同行",
 6,
-"lián tóng",
-"together with; along with"
+"tóng háng",
+"person of the same profession; of the same trade, occupation or industry"
+],
+[
+"同行",
+6,
+"tóng xíng",
+"to journey together"
+],
+[
+"同期",
+6,
+"tóng qī",
+"the corresponding time period (in a different year etc); concurrent; synchronous"
+],
+[
+"同一",
+6,
+"tóng yī",
+"identical; the same"
+],
+[
+"一同",
+6,
+"yī tóng",
+"along; together"
+],
+[
+"不同寻常",
+7,
+"bù tóng xún cháng",
+"out of the ordinary; unusual"
+],
+[
+"不约而同",
+7,
+"bù yuē ér tóng",
+"to agree by chance (idiom); taking the same action without prior consultation"
+],
+[
+"大同小异",
+7,
+"dà tóng xiǎo yì",
+"virtually the same; differing only on small points"
+],
+[
+"共同体",
+7,
+"gòng tóng tǐ",
+"community"
+],
+[
+"截然不同",
+7,
+"jié rán bù tóng",
+"entirely different; different as black and white"
+],
+[
+"雷同",
+7,
+"léi tóng",
+"mirroring others; identical"
+],
+[
+"同伴",
+7,
+"tóng bàn",
+"companion; comrade; fellow"
+],
+[
+"同步",
+7,
+"tóng bù",
+"synchronous; to synchronize; to keep step with"
+],
+[
+"同等",
+7,
+"tóng děng",
+"equal to; having the same social class or status"
+],
+[
+"同感",
+7,
+"tóng gǎn",
+"(have the) same feeling; similar impression; common feeling"
+],
+[
+"同伙",
+7,
+"tóng huǒ",
+"colleague; co-conspirator; accomplice"
+],
+[
+"同类",
+7,
+"tóng lèi",
+"similar; same type; alike"
+],
+[
+"同盟",
+7,
+"tóng méng",
+"alliance"
+],
+[
+"同年",
+7,
+"tóng nián",
+"the same year"
+],
+[
+"同人",
+7,
+"tóng rén",
+"people from the same workplace or profession; co-worker; colleague; pop culture enthusiasts who create fan fiction etc"
+],
+[
+"同志",
+7,
+"tóng zhì",
+"comrade; (slang) homosexual; CL:个[gè]"
+],
+[
+"同舟共济",
+7,
+"tóng zhōu gòng jì",
+"cross a river in the same boat (idiom); fig. having common interests; obliged to collaborate towards common goals"
+],
+[
+"协同",
+7,
+"xié tóng",
+"to cooperate; in coordination with; coordinated; collaborate; collaboration; collaborative"
+],
+[
+"异口同声",
+7,
+"yì kǒu tóng shēng",
+"different mouths, same voice; to speak in unison (idiom)"
+],
+[
+"有所不同",
+7,
+"yǒu suǒ bù tóng",
+"to differ to some extent (idiom)"
+],
+[
+"与此同时",
+7,
+"yǔ cǐ tóng shí",
+"at the same time; meanwhile"
+],
+[
+"与众不同",
+7,
+"yǔ zhòng bù tóng",
+"to stand out from the masses (idiom)"
+],
+[
+"赞同",
+7,
+"zàn tóng",
+"to approve of; to endorse; (vote) in favor"
+],
+[
+"赞同",
+7,
+"zàn tóng",
+"to approve of; to endorse; (vote) in favor"
 ]
 ],
 "extraWords": [
-[
-"不同",
-374.99,
-"bù tóng",
-"different; distinct; not the same; not alike"
-],
-[
-"同样",
-139.19,
-"tóng yàng",
-"same; equal; equivalent"
-],
 [
 "同性恋",
 98.31,
@@ -105,100 +303,22 @@
 "homosexuality; gay person; gay love"
 ],
 [
-"同期",
-62.28,
-"tóng qī",
-"the corresponding time period (in a different year etc); concurrent; synchronous"
+"同学们",
+20.88,
+"???",
+"???"
 ],
 [
-"同一",
-53.05,
-"tóng yī",
-"identical; the same"
+"同一个",
+14.79,
+"???",
+"???"
 ],
 [
-"与此同时",
-33.46,
-"yǔ cǐ tóng shí",
-"at the same time; meanwhile"
-],
-[
-"如同",
-30.67,
-"rú tóng",
-"like; as"
-],
-[
-"同步",
-25.71,
-"tóng bù",
-"synchronous; to synchronize; to keep step with"
-],
-[
-"同行",
-21.55,
-"tóng háng",
-"person of the same profession; of the same trade, occupation or industry"
-],
-[
-"同行",
-21.55,
-"tóng xíng",
-"to journey together"
-],
-[
-"认同",
-21.41,
-"rèn tóng",
-"to approve of; to endorse; to acknowledge; to recognize; to identify oneself with"
-],
-[
-"一同",
-19.89,
-"yī tóng",
-"along; together"
-],
-[
-"与众不同",
-19.47,
-"yǔ zhòng bù tóng",
-"to stand out from the masses (idiom)"
-],
-[
-"陪同",
-17.71,
-"péi tóng",
-"to accompany"
-],
-[
-"同伴",
-16.25,
-"tóng bàn",
-"companion; comrade; fellow"
-],
-[
-"同类",
-14.73,
-"tóng lèi",
-"similar; same type; alike"
-],
-[
-"同伙",
-14.25,
-"tóng huǒ",
-"colleague; co-conspirator; accomplice"
-],
-[
-"赞同",
-13.25,
-"zàn tóng",
-"to approve of; to endorse; (vote) in favor"
-],
-[
-"赞同",
-13.25,
-"zàn tóng",
-"to approve of; to endorse; (vote) in favor"
+"同志们",
+13.86,
+"???",
+"???"
 ],
 [
 "共同点",
@@ -207,34 +327,10 @@
 "common ground"
 ],
 [
-"同年",
-10.93,
-"tóng nián",
-"the same year"
-],
-[
-"协同",
-10.57,
-"xié tóng",
-"to cooperate; in coordination with; coordinated; collaborate; collaboration; collaborative"
-],
-[
-"同等",
-9.18,
-"tóng děng",
-"equal to; having the same social class or status"
-],
-[
-"同感",
-9.12,
-"tóng gǎn",
-"(have the) same feeling; similar impression; common feeling"
-],
-[
 "会同",
 8.91,
 "Huì tóng",
-"Huitong county in Huaihua 懷化|怀化[Huai2 hua4], Hunan"
+"Huitong county in Huaihua 怀化[Huái huà], Hunan"
 ],
 [
 "会同",
@@ -243,22 +339,16 @@
 "to handle sth jointly"
 ],
 [
+"同情心",
+7.81,
+"???",
+"???"
+],
+[
 "同居",
 6.28,
 "tóng jū",
 "to live together"
-],
-[
-"同盟",
-6.25,
-"tóng méng",
-"alliance"
-],
-[
-"有所不同",
-6.09,
-"yǒu suǒ bù tóng",
-"to differ to some extent (idiom)"
 ],
 [
 "等同",
@@ -267,10 +357,10 @@
 "to equate; equal to"
 ],
 [
-"不约而同",
-5.43,
-"bù yuē ér tóng",
-"to agree by chance (idiom); taking the same action without prior consultation"
+"连同",
+5.68,
+"lián tóng",
+"together with; along with"
 ],
 [
 "大同",

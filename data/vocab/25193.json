@@ -1,6 +1,6 @@
 {
 "char": "扩",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "expand, enlarge, stretch",
 "pron": "kuò"
@@ -8,41 +8,47 @@
 "words": [
 [
 "扩大",
-5,
+4,
 "kuò dà",
 "to expand; to enlarge; to broaden one's scope"
 ],
 [
+"扩展",
+4,
+"kuò zhǎn",
+"to extend; to expand; extension; expansion"
+],
+[
+"扩",
+7,
+"kuò",
+"to enlarge"
+],
+[
+"扩建",
+7,
+"kuò jiàn",
+"to extend (a building, an airport runway etc)"
+],
+[
 "扩散",
-6,
+7,
 "kuò sàn",
 "to spread; to proliferate; to diffuse; spread; proliferation; diffusion"
 ],
 [
 "扩张",
-6,
+7,
 "kuò zhāng",
 "expansion; dilation; to expand (e.g. one's power or influence); to broaden"
-],
-[
-"扩充",
-6,
-"kuò chōng",
-"to expand"
 ]
 ],
 "extraWords": [
 [
-"扩展",
-21.41,
-"kuò zhǎn",
-"to extend; to expand; extension; expansion"
-],
-[
-"扩建",
-12.23,
-"kuò jiàn",
-"to extend (a building, an airport runway etc)"
+"扩充",
+5.49,
+"kuò chōng",
+"to expand"
 ]
 ],
 "strokes": [

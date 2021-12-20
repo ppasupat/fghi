@@ -1,6 +1,6 @@
 {
 "char": "硬",
-"level": 5,
+"level": "5",
 "info": {
 "gloss": "hard, firm, strong; obstinate",
 "pron": "yìng"
@@ -19,36 +19,54 @@
 "hardware"
 ],
 [
-"僵硬",
-6,
-"jiāng yìng",
-"stiff; rigid"
+"过硬",
+7,
+"guò yìng",
+"to have perfect mastery of sth; to be up to the mark"
 ],
 [
 "坚硬",
-6,
+7,
 "jiān yìng",
 "hard; solid"
+],
+[
+"强硬",
+7,
+"qiáng yìng",
+"tough; unyielding; hard-line"
+],
+[
+"生硬",
+7,
+"shēng yìng",
+"stiff; harsh"
+],
+[
+"硬币",
+7,
+"yìng bì",
+"coin; CL:枚[méi]"
+],
+[
+"硬朗",
+7,
+"yìng lǎng",
+"robust; healthy"
+],
+[
+"硬盘",
+7,
+"yìng pán",
+"hard disk"
 ]
 ],
 "extraWords": [
 [
-"硬盘",
-20.7,
-"yìng pán",
-"hard disk"
-],
-[
-"硬币",
-16.99,
-"yìng bì",
-"coin; CL:枚[mei2]"
-],
-[
-"强硬",
-9.14,
-"qiáng yìng",
-"tough; unyielding; hard-line"
+"僵硬",
+7.39,
+"jiāng yìng",
+"stiff; rigid"
 ],
 [
 "硬是",

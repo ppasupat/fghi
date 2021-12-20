@@ -1,12 +1,31 @@
 {
 "char": "邑",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "area, district, city, state",
 "pron": "yì"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"邑",
+3.59,
+"yì",
+"city; village"
+],
+[
+"大邑",
+0.24,
+"Dà yì",
+"Dayi county in Chengdu 成都[Chéng dū], Sichuan"
+],
+[
+"干邑",
+0.23,
+"Gān yì",
+"Cognac; brandy 白兰地[bái lán dì] from the Cognac region of southwest France"
+]
+],
 "strokes": [
 "M 353 759 Q 338 766 311 768 Q 298 771 295 765 Q 288 758 298 742 Q 326 691 346 606 Q 350 581 367 563 Q 386 541 391 558 Q 395 568 394 586 L 389 621 Q 374 700 371 726 C 368 753 368 753 353 759 Z",
 "M 623 654 Q 650 715 680 734 Q 698 752 684 771 Q 608 834 554 803 Q 467 773 353 759 C 323 755 341 721 371 726 Q 381 727 394 731 Q 478 747 558 762 Q 579 766 588 758 Q 595 751 592 735 Q 582 692 570 657 C 561 629 610 627 623 654 Z",

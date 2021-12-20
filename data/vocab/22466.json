@@ -1,12 +1,31 @@
 {
 "char": "埂",
-"level": 7,
+"level": "C",
 "info": {
 "gloss": "ditches for irrigation; hole",
 "pron": "gěng"
 },
 "words": [],
-"extraWords": [],
+"extraWords": [
+[
+"埂",
+9.9,
+"gěng",
+"strip of high ground; low earth dyke separating fields"
+],
+[
+"田埂",
+0.63,
+"tián gěng",
+"embankment or foothpath between paddy fields"
+],
+[
+"海埂",
+0.57,
+"???",
+"???"
+]
+],
 "strokes": [
 "M 274 442 Q 355 466 357 467 Q 364 476 360 484 Q 353 496 322 501 Q 297 505 274 496 L 228 479 Q 153 460 119 455 Q 82 446 110 431 Q 153 409 219 429 Q 223 430 229 431 L 274 442 Z",
 "M 269 258 Q 272 352 274 442 L 274 496 Q 277 644 294 705 Q 297 717 276 732 Q 239 751 213 754 Q 197 757 188 748 Q 181 739 190 724 Q 220 682 220 654 Q 226 570 228 479 L 229 431 Q 229 340 226 239 C 225 209 268 228 269 258 Z",

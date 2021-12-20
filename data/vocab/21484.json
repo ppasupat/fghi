@@ -1,6 +1,6 @@
 {
 "char": "召",
-"level": 5,
+"level": "4",
 "info": {
 "gloss": "imperial decree; summon",
 "pron": "shào, zhào"
@@ -8,15 +8,21 @@
 "words": [
 [
 "召开",
-5,
+4,
 "zhào kāi",
 "to convene (a conference or meeting); to convoke; to call together"
 ],
 [
 "号召",
-6,
+5,
 "hào zhào",
 "to call; to appeal"
+],
+[
+"召集",
+7,
+"zhào jí",
+"to convene; to gather"
 ]
 ],
 "extraWords": [
@@ -27,10 +33,16 @@
 "to summon; to beckon; to call"
 ],
 [
-"召集",
-12.24,
-"zhào jí",
-"to convene; to gather"
+"召",
+8.7,
+"Shào",
+"surname Shao; name of an ancient state that existed in what is now Shaanxi Province"
+],
+[
+"召",
+8.7,
+"zhào",
+"to call together; to summon; to convene; temple or monastery (used in place names in Inner Mongolia)"
 ],
 [
 "召回",

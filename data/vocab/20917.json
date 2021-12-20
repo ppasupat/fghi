@@ -1,6 +1,6 @@
 {
 "char": "况",
-"level": 4,
+"level": "3",
 "info": {
 "gloss": "condition, situation; furthermore",
 "pron": "kuàng"
@@ -8,35 +8,59 @@
 "words": [
 [
 "情况",
-4,
+3,
 "qíng kuàng",
-"circumstances; state of affairs; situation; CL:個|个[ge4],種|种[zhong3]"
+"circumstances; state of affairs; situation; CL:个[gè],种[zhǒng]"
 ],
 [
 "状况",
-5,
+3,
 "zhuàng kuàng",
-"condition; state; situation; CL:個|个[ge4]"
+"condition; state; situation; CL:个[gè]"
+],
+[
+"概况",
+7,
+"gài kuàng",
+"general situation; summary"
 ],
 [
 "何况",
-5,
+7,
 "hé kuàng",
 "let alone; to say nothing of; besides; what's more"
 ],
 [
 "况且",
-6,
+7,
 "kuàng qiě",
 "moreover; besides; in addition; furthermore"
+],
+[
+"路况",
+7,
+"lù kuàng",
+"road condition(s) (e.g. surface, traffic flow etc)"
+],
+[
+"实况",
+7,
+"shí kuàng",
+"live (e.g. broadcast or recording); what is actually happening; scene; the real situation"
 ]
 ],
 "extraWords": [
 [
-"路况",
-5.9,
-"lù kuàng",
-"road condition(s) (e.g. surface, traffic flow etc)"
+"况",
+8.29,
+"kuàng",
+"moreover; situation"
+],
+[
+"更何况",
+8.23,
+"???",
+"???"
 ]
 ],
 "strokes": [
