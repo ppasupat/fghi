@@ -4,6 +4,12 @@ $(function () {
   // ################################################
   // Utilities
 
+  function gup(name) {
+    let regex = new RegExp("[\\?&]" + name + "=([^&#]*)");
+    let results = regex.exec(window.location.href);
+    return results === null ? "" : decodeURIComponent(results[1]);
+  }
+
   function scrollOffset(cell) {
     return cell.position().top - $('#chars-pane-inner').position().top - $('body').height() * .4;
   }
@@ -192,6 +198,7 @@ $(function () {
   // ################################################
   // Start!
 
+  $('#grid-select').val(gup('grid') || 'hsk');
   $.get('data/cats.json', function (catsRaw) {
     readCats(catsRaw);
     changeGrid();
