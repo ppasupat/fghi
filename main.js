@@ -113,11 +113,11 @@ $(function () {
         if (row_raw.length > 1) {
           $('<p class=grid-section-title>').text(row_raw[1]).appendTo(currentSection);
         }
-      } else {
+      } else if (row_raw[0] === "") {
         // A line of characters
         if (currentSection === null) currentSection = genSection();
         let row = $('<p>').appendTo(currentSection);
-        for (let x of row_raw[0]) {
+        for (let x of row_raw[1]) {
           charToCell[x] = $('<i>').text(x).appendTo(row);
           let isCommon = false;
           (charToCats[x] || []).forEach(function (cat) {
