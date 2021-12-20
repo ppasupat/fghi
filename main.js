@@ -18,6 +18,9 @@ $(function () {
   // ################################################
   // Character information
 
+  // Minimum word frequency (per million) to be counted as "common"
+  const MIN_FREQ = 5.0;
+
   let currentChar = null;
 
   function clearData(unknownChar) {
@@ -42,7 +45,7 @@ $(function () {
         .appendTo(parentDiv)
     );
     if (level !== '') {
-      wordDiv.addClass('h' + level);
+      wordDiv.addClass('v' + level);
     }
   }
 
@@ -72,8 +75,9 @@ $(function () {
       createWordEntry(wordsList, entry[0], entry[1], entry[2], entry[3]);
     });
     charData.extraWords.forEach(function (entry) {
-      // Simp, Freq (ignored), Pron, Gloss
-      createWordEntry(wordsList, entry[0], 'x', entry[2], entry[3]);
+      // Simp, Freq, Pron, Gloss
+      let level = entry[1] >= MIN_FREQ ? 'c' : 'x';
+      createWordEntry(wordsList, entry[0], level, entry[2], entry[3]);
     });
   }
 
