@@ -81,13 +81,12 @@ def main():
         for word in parse_hsk30.gen_processed_words(words):
             if word in used_words:
                 continue
-            pron_glosses = parse_cedict.lookup_cedict(cedict, word, verbose=args.verbose)
+            lines = [[word, int(level), pron, gloss] for pron, gloss in
+                    parse_cedict.lookup_cedict(cedict, word, verbose=args.verbose)]
             for char in set(word):
                 if not is_legal_char(char):
                     continue
-                for pron, gloss in pron_glosses:
-                    line = [word, int(level), pron, gloss]
-                    char_to_words[char].append(line)
+                char_to_words[char].extend(lines)
             used_words.add(word)
     print('Added {} HSK words.'.format(len(used_words)))
 
@@ -97,7 +96,8 @@ def main():
     for freq, word in yield_common_words():
         if word in used_words:
             continue
-        pron_glosses = parse_cedict.lookup_cedict(cedict, word, verbose=args.verbose)
+        lines = [[word, round(freq, 2), pron, gloss] for pron, gloss in
+                parse_cedict.lookup_cedict(cedict, word, verbose=args.verbose)]
         for char in set(word):
             if not is_legal_char(char):
                 continue
@@ -105,9 +105,7 @@ def main():
                     len(char_to_words[char]) + len(char_to_extra_words[char])
                     >= args.max_total_words):
                 continue
-            for pron, gloss in pron_glosses:
-                line = [word, round(freq, 2), pron, gloss]
-                char_to_extra_words[char].append(line)
+            char_to_extra_words[char].extend(lines)
         used_words.add(word)
         num_extra_words += 1
     print('Added {} extra words.'.format(num_extra_words))
