@@ -34,6 +34,7 @@ $(function () {
     $('#words-pane').empty();
     $('<div class=char-info>').appendTo('#words-pane')
       .append('Character ' + unknownChar + ' not found!');
+    $('#words-pane').scrollTop(0);
   }
 
   function createWordEntry(parentDiv, word, level, pron, gloss) {
@@ -85,6 +86,7 @@ $(function () {
       let level = entry[1] >= MIN_FREQ ? 'c' : 'x';
       createWordEntry(wordsList, entry[0], level, entry[2], entry[3]);
     });
+    $('#words-pane').scrollTop(0);
   }
 
   // ################################################
