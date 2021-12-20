@@ -136,15 +136,22 @@ body {
   text-align: center;
   margin: 10px 0;
 }
-#chars-pane i {
+#chars-pane b, #chars-pane i {
   display: inline-block;
   margin: 1px;
-  cursor: pointer;
   border: 2px solid transparent;
   width: 40px;
   height: 40px;
   line-height: 40px;
   text-align: center;
+  vertical-align: bottom;
+}
+#chars-pane b {
+  font-size: 12px;
+  font-weight: bold;
+}
+#chars-pane i {
+  cursor: pointer;
 }
 #chars-pane i.flash {
   background-color: yellow;
@@ -199,12 +206,14 @@ body {
 #chars-pane.f-either2k i.hB2,
 #chars-pane.f-either2k i.hM,
 #chars-pane.f-either2k i.hM2,
-#chars-pane.f-common i,
+#chars-pane.f-frequent i.hF,
+#chars-pane.f-common i.hF,
+#chars-pane.f-common i.hC,
+#chars-pane.f-standard i.hF,
+#chars-pane.f-standard i.hC,
+#chars-pane.f-standard i.hS,
 #chars-pane.f-all i {
   color: #2a2a2a;
-}
-#chars-pane.f-common i.hUC {
-  color: #cccccf;
 }
 
 /*################################

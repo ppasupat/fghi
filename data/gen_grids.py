@@ -12,7 +12,6 @@ def _group(stuff, chars_per_line):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-v', '--verbose', action='store_true')
-    parser.add_argument('-c', '--chars-per-line', type=int, default=10)
     args = parser.parse_args()
 
     # Read character categories
@@ -27,7 +26,7 @@ def main():
         print('[', file=fout)
         for level in '1234567':
             print('["#","HSK {}"],'.format('7-9' if level == '7' else level), file=fout)
-            for line in _group(char_cats[level], args.chars_per_line):
+            for line in _group(char_cats[level], 15):
                 print('["","{}"],'.format(line), file=fout)
         print('[]]', file=fout)
 
@@ -35,13 +34,13 @@ def main():
     print('Writing grid-book.json')
     with open('grids/grid-book.json', 'w') as fout:
         print('[', file=fout)
-        for i, line in enumerate(_group(char_cats['B'], args.chars_per_line)):
+        for i, line in enumerate(_group(char_cats['B'], 10)):
             print('["{}","{}"],'.format(i, line), file=fout)
         print('[]]', file=fout)
     print('Writing grid-movie.json')
     with open('grids/grid-movie.json', 'w') as fout:
         print('[', file=fout)
-        for i, line in enumerate(_group(char_cats['M'], args.chars_per_line)):
+        for i, line in enumerate(_group(char_cats['M'], 10)):
             print('["{}","{}"],'.format(i, line), file=fout)
         print('[]]', file=fout)
     

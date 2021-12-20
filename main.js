@@ -1,5 +1,5 @@
 $(function () {
-  "use strict";
+  'use strict';
 
   // ################################################
   // Utilities
@@ -11,7 +11,7 @@ $(function () {
   // Generate a tag in SVG namespace
   function S(tag, attr) {
     return $(document.createElementNS(
-      "http://www.w3.org/2000/svg", tag.replace(/[<>]/g, '')))
+      'http://www.w3.org/2000/svg', tag.replace(/[<>]/g, '')))
       .attr(attr || {});
   }
 
@@ -118,27 +118,33 @@ $(function () {
     let currentSection = null;
     gridRaw.forEach(function (row_raw) {
       if (row_raw.length === 0) return;
-      if (row_raw[0] === "#") {
+      if (row_raw[0] === '#') {
         // Start a new section
         currentSection = genSection();
         if (row_raw.length > 1) {
           $('<p class=grid-section-title>').text(row_raw[1]).appendTo(currentSection);
         }
       } else {
-        // A line of characters
+        // A line of characters = alternate between annotations and characters
         if (currentSection === null) currentSection = genSection();
         let row = $('<p>').appendTo(currentSection);
-        for (let x of row_raw[1]) {
-          charToCell[x] = $('<i>').text(x).appendTo(row);
-          let isCommon = false;
-          (charToCats[x] || []).forEach(function (cat) {
-            if (cat === 'C') {
-              isCommon = true;
-            } else {
-              charToCell[x].addClass('h' + cat);
+        for (let i = 0; i < row_raw.length; i++) {
+          if (i % 2 == 0) {
+            if (Array.isArray(row_raw[i])) {
+              row_raw[i].forEach(function (x) {
+                $('<b>').text(x).appendTo(row);
+              });
+            } else if (row_raw[i] !== '') {
+              $('<b>').text(row_raw[i]).appendTo(row);
             }
-          });
-          if (!isCommon) charToCell[x].addClass('hUC');
+          } else {
+            for (let x of row_raw[i]) {
+              charToCell[x] = $('<i>').text(x).appendTo(row);
+              (charToCats[x] || []).forEach(function (cat) {
+                charToCell[x].addClass('h' + cat);
+              });
+            }
+          }
         }
       }
     });
