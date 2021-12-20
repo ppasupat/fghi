@@ -114,7 +114,7 @@ def main():
 
     print('Writing information to vocab/ ...')
     written_chars = set()
-    for level in ('1', '2', '3', '4', '5', '6', '7', 'C', 'C2', 'C3'):
+    for level in '1234567FCS':
         num_chars_in_level = 0
         for char in char_cats[level]:
             if char in written_chars:

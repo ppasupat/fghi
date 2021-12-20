@@ -11,21 +11,21 @@ LEVELS = {
 }
 
 
-def get_commonuse():
-    with open('raw/commonuse/commonuse.json') as fin:
+def get_standard():
+    with open('raw/standard/standard.json') as fin:
         data = json.load(fin)
     content = data['query']['pages']['195151']['revisions'][0]['slots']['main']['*']
-    commonuse = {}
+    standard = {}
     current_level = None
     for line in content.split('\n'):
         if line.startswith('=='):
             current_level = LEVELS.get(line)
             if current_level:
-                commonuse[current_level] = []
+                standard[current_level] = []
         elif current_level and re.match(':\d+ .', line):
             char = line.split(maxsplit=1)[1]
             match = re.match(r'{{!\|(.)', char)
             if match:
                 char = match.group(1)
-            commonuse[current_level].append(char[0])
-    return commonuse
+            standard[current_level].append(char[0])
+    return standard

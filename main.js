@@ -84,17 +84,27 @@ $(function () {
   // ################################################
   // Character grid
 
+  // Maximum character frequency for the filters
+  const CHAR_FREQ1 = 1000, CHAR_FREQ2 = 2000;
+
   let charToCats = null, charToCell = {};
 
   function readCats(catsRaw) {
     if (charToCats !== null) throw 'readCats already called.';
     charToCats = {};
     for (let cat of Object.keys(catsRaw)) {
-      for (let char of catsRaw[cat]) {
+      for (let i = 0; i < catsRaw[cat].length; i++) {
+        let char = catsRaw[cat][i], catName = cat;
+        if (cat === 'B' || cat === 'M') {
+          if (i >= CHAR_FREQ1) {
+            if (i >= CHAR_FREQ2) continue;
+            catName += '2';
+          }
+        }
         if (charToCats[char] === undefined) {
           charToCats[char] = [];
         }
-        charToCats[char].push(cat);
+        charToCats[char].push(catName);
       }
     }
   }
@@ -107,13 +117,14 @@ $(function () {
     $('#chars-pane-inner').empty();
     let currentSection = null;
     gridRaw.forEach(function (row_raw) {
+      if (row_raw.length === 0) return;
       if (row_raw[0] === "#") {
         // Start a new section
         currentSection = genSection();
         if (row_raw.length > 1) {
           $('<p class=grid-section-title>').text(row_raw[1]).appendTo(currentSection);
         }
-      } else if (row_raw[0] === "") {
+      } else {
         // A line of characters
         if (currentSection === null) currentSection = genSection();
         let row = $('<p>').appendTo(currentSection);

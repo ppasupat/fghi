@@ -35,11 +35,11 @@ update_unihan() {
   unzip -d "${dir}" "${dir}/unihan.zip"
 }
 
-update_commonuse() {
-  echo Updating the list of common use character ...
-  local dir=raw/commonuse
+update_standard() {
+  echo Updating the Table of General Standard Chinese Characters ...
+  local dir=raw/standard
   mkdir -p "${dir}"
-  wget -O "${dir}/commonuse.json" 'https://zh.wikisource.org/w/api.php?action=query&titles=通用规范汉字表&prop=revisions&rvslots=main&rvprop=content&format=json'
+  wget -O "${dir}/standard.json" 'https://zh.wikisource.org/w/api.php?action=query&titles=通用规范汉字表&prop=revisions&rvslots=main&rvprop=content&format=json'
 }
 
 update_subtlexch() {
@@ -92,8 +92,8 @@ case "$1" in
   unihan)
     update_unihan
     ;;
-  common)
-    update_commonuse
+  standard)
+    update_standard
     ;;
   sub)
     update_subtlexch
@@ -109,6 +109,6 @@ case "$1" in
     ;;
   *)
     echo "Unknown resource '$1'"
-    echo "Available resources: make, dong, cc, unihan, common, sub, bcc, junda, hsk30"
+    echo "Available resources: make, dong, cc, unihan, standard, sub, bcc, junda, hsk30"
     ;;
 esac

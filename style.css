@@ -189,6 +189,16 @@ body {
 #chars-pane.f-hsk7 i.h7,
 #chars-pane.f-book1k i.hB,
 #chars-pane.f-movie1k i.hM,
+#chars-pane.f-either1k i.hB,
+#chars-pane.f-either1k i.hM,
+#chars-pane.f-book2k i.hB,
+#chars-pane.f-book2k i.hB2,
+#chars-pane.f-movie2k i.hM,
+#chars-pane.f-movie2k i.hM2,
+#chars-pane.f-either2k i.hB,
+#chars-pane.f-either2k i.hB2,
+#chars-pane.f-either2k i.hM,
+#chars-pane.f-either2k i.hM2,
 #chars-pane.f-common i,
 #chars-pane.f-all i {
   color: #2a2a2a;
