@@ -1,34 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
 import sys, os, shutil, re, argparse, json, gzip
 from collections import defaultdict, Counter
-import xml.etree.ElementTree as ET
-from pinyin_utils import decode_pinyin
 
-
-BCC_TOTAL = 18577726082
-
-
-HSK_WORDS_NOT_IN_CEDICT = {
-    '纽扣儿': [['niu3 kou4 r5', 'button']],
-    '打篮球': [['da3 lan2 qiu2', 'to play basketball']],
-    '系领带': [['xi4 ling3 dai4', 'to tie a necktie']],
-    '踢足球': [['ti1 zu2 qiu2', 'to play soccer']],
-    '放暑假': [['fang4 shu3 jia4', 'to have a summer vacation']],
-    '弹钢琴': [['tan2 gang1 qin2', 'to play the piano']],
-}
-
-
-def parse_svg(char):
-    filename = 'raw/makemeahanzi/svgs-still/{}-still.svg'.format(ord(char))
-    tree = ET.parse(filename)
-    root = tree.getroot()
-    paths = []
-    for x in root[1]:
-        if x.tag.endswith('}path'):
-            paths.append(x.attrib['d'])
-    return paths
+from lib import parse_bcc
+from lib import parse_cedict
+from lib import parse_commonuse
+from lib import parse_hsk30
+from lib import parse_junda
+from lib import parse_makemeahanzi
+from lib import parse_subtlex
+from lib import parse_unihan
+from lib import pinyin_utils
 
 
 def is_legal_char(char):
@@ -36,29 +19,15 @@ def is_legal_char(char):
     return 0x4e00 <= x <= 0x9fff
 
 
-def yield_from_subtlex():
-    with open('raw/subtlex-ch/SUBTLEX_CH_131210_CE.utf8', encoding='utf-8-sig') as fin:
-        header = fin.readline().rstrip('\n').split('\t')
-        for line in fin:
-            line = dict(zip(header, line.rstrip('\n').split('\t')))
-            word = line['Word']
-            freq = float(line['W.million'])
-            yield (freq, word)
-
-
-def yield_from_bcc():
-    with open('raw/bcc/bcc.txt') as fin:
-        for line in fin:
-            line = line.rstrip().split('\t')
-            word = line[1]
-            freq = float(line[2]) * 1e6 / BCC_TOTAL
-            yield (freq, word)
-
-
 def yield_common_words():
-    """Yields (freq-per-million, word) in decreasing order."""
-    s1 = iter(yield_from_subtlex())
-    s2 = iter(yield_from_bcc())
+    """Yields (freq-per-million, word) in decreasing order.
+
+    The words are unified from:
+    - SUBTLEX-CH (movie subtitles)
+    - BCC (BLCU Chinese Corpus)
+    """
+    s1 = iter(yield_subtlex_freq_words())
+    s2 = iter(yield_bcc_freq_words())
     f1, w1 = next(s1)
     f2, w2 = next(s2)
     while f1 > 0 or f2 > 0:
@@ -81,83 +50,47 @@ def main():
     parser.add_argument('-v', '--verbose', action='store_true')
     parser.add_argument('-m', '--min-common-word-freq', type=float, default=5.,
             help='Common word filter: minimum number of occurrences per 1 million words')
+    parser.add_argument('-t', '--top-char-limit', type=int, default=1000,
+            help='Number of characters for the lists of top characters')
     args = parser.parse_args()
 
     if not os.path.exists('vocab'):
         os.makedirs('vocab')
 
-    # Read HSK words and characters
-    print('Reading words and chars')
-    hsk = [None] * 9
-    hsk_so_far = set()
-    char_to_words = defaultdict(list)
-    used_words = set()
-    with open('raw/chinese-lexicon/statistics/hsk.json') as fin:
-        hsk_raw = json.load(fin)
-    for level in (1,2,3,4,5,6):
-        print('HSK level', level)
-        hsk[level] = set()
-        for word in hsk_raw[level - 1]:
-            line = [word, level]
-            used_words.add(word)
-            for char in set(word):
-                if not is_legal_char(char):
-                    print('Skipping "{}" (U+{})'.format(char, hex(ord(char))))
-                    continue
-                char_to_words[char].append(line)
-                if char not in hsk_so_far:
-                    hsk[level].add(char)
-        hsk_so_far.update(hsk[level])
-    print('Added {} chars + {} words.'.format(len(hsk_so_far), len(used_words)))
+    # Read characters (grouped into categories)
+    print('Reading characters')
+    # HSK 1-6 and unified advanced (7-9; indexed as "7")
+    char_cats = parse_hsk30.get_hsk_chars()
+    # Top characters from books and movies
+    char_cats['B'] = []
+    for _, char in parse_junda.yield_junda_freq_chars():
+        char_cats['B'].append(char)
+        if len(char_cats['B']) == args.top_char_limit:
+            break
+    char_cats['M'] = []
+    for _, char in parse_subtlex.yield_subtlex_freq_chars():
+        char_cats['M'].append(char)
+        if len(char_cats['M']) == args.top_char_limit:
+            break
+    # Common use characters
+    char_cats['C'] = parse_commonuse.get_commonuse()['1']    
 
-    # Read the extra characters
-    with open('cats.json') as fin:
-        # The keys beyond 1, ..., 6 are extra characters
-        all_chars = set(''.join(json.load(fin).values()))
-    for level in (1,2,3,4,5,6):
-        all_chars -= set(hsk[level])
-    hsk[7] = sorted(all_chars)
-    print('Added {} extra chars.'.format(len(hsk[7])))
+    char_cats = {key: ''.join(value) for (key, value) in char_cats.items()}
+    with open('cats.json', 'w') as fout:
+        json.dump(char_cats, fout, indent=0, ensure_ascii=False)
+        fout.write('\n')
 
-    # At least cover all characters from grid-fghi
-    with open('grid-fghi.json') as fin:
-        grid_chars = set(''.join(x[1] for x in json.load(fin)))
-    for level in (1,2,3,4,5,6,7):
-        grid_chars -= set(hsk[level])
-    hsk[8] = sorted(grid_chars)
-    print('Added {} extra extra chars.'.format(len(hsk[8])))
-    print('    ({})'.format(', '.join(hsk[8])))
+    return
 
     # Read Unihan
-    char_to_infos = defaultdict(dict)
-    with open('raw/unihan/Unihan_Readings.txt') as fin:
-        for line in fin:
-            if line[0] == '#' or not line.strip():
-                continue
-            tokens = line.rstrip().split('\t')
-            assert len(tokens) == 3, '||'.join(tokens)
-            code, key, value = tokens
-            char = chr(int(code[2:], 16))
-            if key == 'kDefinition':
-                char_to_infos[char]['gloss'] = value
-            elif key == 'kTGHZ2013':
-                char_to_infos[char]['pron'] = ', '.join(x.split(':')[-1] for x in value.split())
+    print('Reading Unihan')
+    char_to_infos = parse_unihan.get_char_to_infos() 
+    print('Read {} characters from Unihan'.format(len(char_to_infos)))
 
     # Read CEDict
     print('Reading CEDict')
-    cedict = defaultdict(list)
-    with open('raw/cc-cedict/cedict_ts.u8') as fin:
-        fin.readline()        # Avoid the BOM
-        for line in fin:
-            if line[0] == '#':
-                continue
-            m = re.match(r'^(\S+) (\S+) \[([^]]+)\] /(.*)/$', line.rstrip('\n'))
-            assert m is not None, line
-            _, word, pron, gloss = m.groups()
-            pron = decode_pinyin(pron)
-            gloss = gloss.replace('/', '; ')
-            cedict[word].append([pron, gloss])
-    print('Read {} words.'.format(len(cedict)))
+    cedict = parse_cedict.get_word_to_pron_gloss()
+    print('Read {} words from CEDict.'.format(len(cedict)))
 
     # Add pronunciations and glosses to the HSK words
     for char, words in char_to_words.items():
@@ -196,7 +129,7 @@ def main():
             continue
         print('HSK level {} ({} chars)'.format(level, len(chars)))
         for char in chars:
-            paths = parse_svg(char)
+            paths = parse_makemeahanzi.get_svg_paths(char)
             info = {
                     'char': char,
                     'level': level,

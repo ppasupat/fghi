@@ -17,16 +17,6 @@ update_dongchineselexicon() {
     cd raw && git clone https://github.com/peterolson/chinese-lexicon.git && cd ..
   fi
   cd "${dir}" && git pull && cd ../..
-  echo "Please manually copy the 'hsk' array from 'statistics/hsk.js' to 'statistics/hsk.json'"
-}
-
-update_hskhsk() {
-  echo Updating hskhsk ...
-  local dir=raw/hskhsk
-  mkdir -p "${dir}"
-  for i in {1..6}; do
-    wget -O "${dir}/${i}.tsv" "https://raw.githubusercontent.com/glxxyz/hskhsk.com/main/data/lists/HSK%20Official%20With%20Definitions%202012%20L${i}.txt"
-  done
 }
 
 update_cc_cedict() {
@@ -43,6 +33,13 @@ update_unihan() {
   mkdir -p "${dir}"
   wget -O "${dir}/unihan.zip" 'https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip'
   unzip -d "${dir}" "${dir}/unihan.zip"
+}
+
+update_commonuse() {
+  echo Updating the list of common use character ...
+  local dir=raw/commonuse
+  mkdir -p "${dir}"
+  wget -O "${dir}/commonuse.json" 'https://zh.wikisource.org/w/api.php?action=query&titles=通用规范汉字表&prop=revisions&rvslots=main&rvprop=content&format=json'
 }
 
 update_subtlexch() {
@@ -73,15 +70,13 @@ update_junda() {
   iconv -f GB18030 -t UTF-8 "${dir}/CharFreq.tsv" | grep -v '^/' > "${dir}/CharFreq-utf8.tsv"
 }
 
-update_ic() {
-  echo "Updating Integrated Chinese vocab list ..."
-  local dir=raw/integrated-chinese
-  mkdir -p "${dir}"
-  wget -O "${dir}/l1p1.zip" 'http://www.denisowski.org/Chinese/ICL1P1/icl1p1_all.zip'
-  wget -O "${dir}/l1p2.zip" 'http://www.denisowski.org/Chinese/ICL1P2/icl1p2_all.zip'
-  wget -O "${dir}/l2p1.zip" 'http://www.denisowski.org/Chinese/ICL2P1/icl2p1_all.zip'
-  wget -O "${dir}/l2p2.zip" 'http://www.denisowski.org/Chinese/ICL2P2/icl2p2_all.zip'
-  for x in "${dir}/*.zip"; do unzip "${x}" -d "${dir}"; done
+update_hsk30() {
+  echo Updating hsk30 ...
+  local dir=raw/hsk30
+  if [[ ! -d "${dir}" ]]; then
+    cd raw && git clone --depth 1 https://github.com/elkmovie/hsk30.git && cd ..
+  fi
+  cd "${dir}" && git pull && cd ../..
 }
 
 case "$1" in
@@ -91,14 +86,14 @@ case "$1" in
   dong)
     update_dongchineselexicon
     ;;
-  hsk)
-    update_hskhsk
-    ;;
   cc)
     update_cc_cedict
     ;;
   unihan)
     update_unihan
+    ;;
+  common)
+    update_commonuse
     ;;
   sub)
     update_subtlexch
@@ -109,11 +104,11 @@ case "$1" in
   junda)
     update_junda
     ;;
-  ic)
-    update_ic
+  hsk30)
+    update_hsk30
     ;;
   *)
     echo "Unknown resource '$1'"
-    echo "Available resources: make, dong, hsk, cc, unihan, sub, bcc, junda, ic"
+    echo "Available resources: make, dong, cc, unihan, common, sub, bcc, junda, hsk30"
     ;;
 esac
