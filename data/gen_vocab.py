@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import sys, os, shutil, re, argparse, json, gzip
-from collections import defaultdict, Counter
+import argparse
+import json
+import os
+from collections import defaultdict
 
 from lib import parse_bcc
 from lib import parse_cedict
-from lib import parse_commonuse
 from lib import parse_hsk30
-from lib import parse_junda
 from lib import parse_makemeahanzi
 from lib import parse_subtlex
 from lib import parse_unihan
@@ -52,38 +52,16 @@ def main():
             help='Common word filter: minimum number of occurrences per 1 million words')
     parser.add_argument('-M', '--max-total-words', type=int, default=3,
             help='Keep adding less common words up to this number of total words')
-    parser.add_argument('-t', '--top-char-limit', type=int, default=1000,
-            help='Number of characters for the lists of top characters')
     args = parser.parse_args()
 
     if not os.path.exists('vocab'):
         os.makedirs('vocab')
 
-    # Read characters (grouped into categories)
+    # Read character categories
     print('Reading characters')
-    # HSK 1-6 and unified advanced (7-9; indexed as "7")
-    char_cats = parse_hsk30.get_hsk_chars()
-    # Top characters from books and movies
-    char_cats['B'] = []
-    for _, char in parse_junda.yield_junda_freq_chars():
-        char_cats['B'].append(char)
-        if len(char_cats['B']) == args.top_char_limit:
-            break
-    char_cats['M'] = []
-    for _, char in parse_subtlex.yield_subtlex_freq_chars():
-        char_cats['M'].append(char)
-        if len(char_cats['M']) == args.top_char_limit:
-            break
-    # Common use characters
-    commonuse = parse_commonuse.get_commonuse()
-    char_cats['C'] = commonuse['1']
-    char_cats['C2'] = commonuse['2']
-    char_cats['C3'] = commonuse['3']
-    # Write to cats.json
-    char_cats = {key: ''.join(value) for (key, value) in char_cats.items()}
-    with open('cats.json', 'w') as fout:
-        json.dump(char_cats, fout, indent=0, ensure_ascii=False)
-        fout.write('\n')
+    with open('cats.json') as fin:
+        char_cats = json.load(fin)
+    print('Available cats: {}'.format(list(char_cats.keys())))
 
     # Read Unihan
     print('Reading Unihan')
