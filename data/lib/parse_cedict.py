@@ -8,12 +8,21 @@ from lib import pinyin_utils
 
 def _clean_gloss(gloss):
     gloss = gloss.replace('/', '; ')
-    gloss = re.sub(r'([|\u4e00-\u9fff]+)\[([A-Za-z0-9: ]+)\]',
+    gloss = re.sub(r'\[([A-Za-z0-9: ]+)\]',
+            lambda m: '[{}]'.format(pinyin_utils.decode_pinyin(m.group(1))),
+            gloss)
+    gloss = re.sub(r'([|\u4e00-\u9fff]+)\[([^\]]+)\]',
             lambda m: '{}[{}]'.format(
-                m.group(1).split('|')[-1],
-                pinyin_utils.decode_pinyin(m.group(2))),
+                m.group(1).split('|')[-1], m.group(2)),
             gloss)
     return gloss
+
+
+def _verify_gloss(word, gloss):
+    if (gloss.startswith('variant of ' + word) and
+            re.match('variant of ' + word + '\[[^\]]+\]$', gloss)):
+        return False
+    return True
 
 
 def get_word_to_pron_gloss():
@@ -42,4 +51,5 @@ def lookup_cedict(cedict, word, verbose=False):
         if verbose:
             print('WARNING: "{}" not in CEDICT'.format(word))
         return [['???', '???']]
-    return cedict[word]
+    return [(pron, gloss) for (pron, gloss) in cedict[word]
+            if _verify_gloss(word, gloss)]

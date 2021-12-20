@@ -27,4 +27,4 @@ def _convert_pinyin_callback(m):
 def decode_pinyin(s):
     s = s.replace('u:', 'ü').replace('U:', 'Ü').replace('v', 'ü').replace('V', 'Ü')
     return re.sub(r'([aeiouüÜ]{1,3})(n?g?r?)([012345])',
-            _convert_pinyin_callback, s, flags=re.IGNORECASE)
+            _convert_pinyin_callback, s, flags=re.IGNORECASE).replace('r5', 'r')
