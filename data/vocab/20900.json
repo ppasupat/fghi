@@ -13,19 +13,20 @@
 "injustice; grievance; wrong"
 ],
 [
-"冤",
-7,
-"yuān",
-"old variant of 冤[yuān]"
-],
-[
 "冤枉",
 7,
 "yuān wang",
 "to accuse wrongly; to treat unjustly; injustice; wronged; not worthwhile"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"冤家",
+2.27,
+"yuān jia",
+"enemy; foe; (in opera) sweetheart or destined love"
+]
+],
 "strokes": [
 "M 291 738 Q 290 741 290 744 Q 278 766 266 775 Q 248 788 247 763 Q 254 730 190 646 Q 169 627 198 573 L 199 571 Q 214 546 232 573 Q 241 589 284 706 C 293 730 293 730 291 738 Z",
 "M 456 730 Q 519 743 617 755 Q 681 762 698 760 Q 711 747 708 739 Q 709 735 704 721 Q 674 651 681 645 Q 688 641 705 654 Q 759 694 803 709 Q 840 722 839 731 Q 838 741 765 790 Q 744 805 659 790 Q 569 781 376 749 Q 333 742 291 738 C 261 735 255 715 284 706 Q 306 696 330 701 Q 373 714 422 724 L 456 730 Z",

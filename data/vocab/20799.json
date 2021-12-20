@@ -16,7 +16,13 @@
 "好玩儿",
 1,
 "hǎo wán r",
-"erhua variant of 好玩[hǎo wán]"
+"amusing; fun; interesting"
+],
+[
+"好玩儿",
+1,
+"hào wán r",
+"to be playful; to be fond of one's fun"
 ],
 [
 "没事儿",
@@ -28,7 +34,7 @@
 "面条儿",
 1,
 "miàn tiáo r",
-"erhua variant of 面条[miàn tiáo]"
+"noodles"
 ],
 [
 "哪儿",
@@ -46,7 +52,7 @@
 "男孩儿",
 1,
 "nán hái r",
-"erhua variant of 男孩[nán hái]"
+"boy; CL:个[gè]"
 ],
 [
 "女儿",
@@ -58,7 +64,7 @@
 "女孩儿",
 1,
 "nǚ hái r",
-"erhua variant of 女孩[nǚ hái]"
+"girl; lass"
 ],
 [
 "玩儿",
@@ -70,7 +76,7 @@
 "小孩儿",
 1,
 "xiǎo hái r",
-"erhua variant of 小孩[xiǎo hái]"
+"child; CL:个[gè]"
 ],
 [
 "一会儿",
@@ -82,19 +88,19 @@
 "一块儿",
 1,
 "yī kuài r",
-"erhua variant of 一块[yī kuài]"
+"one block; one piece; one (unit of money); together; in the same place; in company"
 ],
 [
 "一下儿",
 1,
 "yī xià r",
-"erhua variant of 一下[yī xià]"
+"(used after a verb) give it a go; to do (sth for a bit to give it a try); one time; once; in a while; all of a sudden; all at once"
 ],
 [
 "一点儿",
 1,
 "yī diǎn r",
-"erhua variant of 一点[yī diǎn]"
+"a bit; a little; one dot; one point"
 ],
 [
 "这儿",
@@ -105,14 +111,14 @@
 [
 "不一会儿",
 2,
-"bù yī huì",
+"bù yī huì r",
 "soon"
 ],
 [
 "干活儿",
 2,
 "gàn huó r",
-"erhua variant of 干活[gàn huó]"
+"to work; to be employed"
 ],
 [
 "画儿",
@@ -124,7 +130,7 @@
 "快点儿",
 2,
 "kuài diǎn r",
-"erhua variant of 快点[kuài diǎn]"
+"to do sth more quickly; Hurry up!; Get a move on!"
 ],
 [
 "那会儿",
@@ -135,13 +141,13 @@
 [
 "笑话儿",
 2,
-"xiào hua",
+"xiào hua r",
 "joke; jest; CL:个[gè]; to laugh at; to mock"
 ],
 [
 "有空儿",
 2,
-"yǒu kòng",
+"yǒu kòng r",
 "to have time (to do sth)"
 ],
 [
@@ -171,13 +177,13 @@
 [
 "没法儿",
 4,
-"méi fǎ",
+"méi fǎ r",
 "at a loss; unable to do anything about it; to have no choice"
 ],
 [
 "名牌儿",
 4,
-"míng pái",
+"míng pái r",
 "famous brand; nameplate; name tag"
 ],
 [
@@ -195,7 +201,7 @@
 [
 "有劲儿",
 4,
-"yǒu jìn",
+"yǒu jìn r",
 "vigorous; energetic; interesting; amusing"
 ],
 [
@@ -208,13 +214,13 @@
 "差点儿",
 5,
 "chà diǎn r",
-"erhua variant of 差点[chà diǎn]"
+"almost; nearly"
 ],
 [
 "大伙儿",
 5,
 "dà huǒ r",
-"erhua variant of 大伙[dà huǒ]"
+"everybody; everyone; we all"
 ],
 [
 "儿女",
@@ -231,13 +237,13 @@
 [
 "胡同儿",
 5,
-"hú tòng",
+"hú tòng r",
 "lane; alley; CL:条[tiáo]"
 ],
 [
 "小偷儿",
 5,
-"xiǎo tōu",
+"xiǎo tōu r",
 "thief"
 ],
 [
@@ -262,7 +268,7 @@
 "聊天儿",
 6,
 "liáo tiān r",
-"erhua variant of 聊天[liáo tiān]"
+"to chat; to gossip"
 ],
 [
 "少儿",
@@ -286,19 +292,19 @@
 "打盹儿",
 7,
 "dǎ dǔn r",
-"erhua variant of 打盹[dǎ dǔn]"
+"to doze off"
 ],
 [
 "大腕儿",
 7,
 "dà wàn r",
-"erhua variant of 大腕[dà wàn]"
+"star; big shot; celebrity; leading actor; authority (slang)"
 ],
 [
 "兜儿",
 7,
 "dōu r",
-"erhua variant of 兜[dōu]"
+"pocket; bag; to wrap up or hold in a bag; to move in a circle; to canvas or solicit; to take responsibility for; to disclose in detail; combat armor (old)"
 ],
 [
 "个头儿",
@@ -316,25 +322,25 @@
 "老伴儿",
 7,
 "lǎo bàn r",
-"erhua variant of 老伴[lǎo bàn]"
+"(of an elderly couple) husband or wife"
 ],
 [
 "离谱儿",
 7,
-"lí pǔ",
+"lí pǔ r",
 "excessive; beyond reasonable limits; irregular"
 ],
 [
 "没准儿",
 7,
 "méi zhǔn r",
-"erhua variant of 没准[méi zhǔn]"
+"not sure; maybe"
 ],
 [
 "纳闷儿",
 7,
 "nà mèn r",
-"erhua variant of 纳闷[nà mèn]"
+"puzzled; bewildered"
 ],
 [
 "闹着玩儿",
@@ -346,7 +352,7 @@
 "人缘儿",
 7,
 "rén yuán r",
-"erhua variant of 人缘[rén yuán]"
+"relations with other people"
 ],
 [
 "胎儿",
@@ -357,20 +363,20 @@
 [
 "贪玩儿",
 7,
-"tān wán",
+"tān wán r",
 "to only want to have a good time; to just want to have fun, and to shy away from self-discipline"
 ],
 [
 "玩意儿",
 7,
 "wán yì r",
-"erhua variant of 玩意[wán yì]"
+"toy; plaything; thing; act; trick (in a performance, stage show, acrobatics etc)"
 ],
 [
 "馅儿",
 7,
 "xiàn r",
-"erhua variant of 馅[xiàn]"
+"stuffing; forcemeat; filling"
 ],
 [
 "心眼儿",
@@ -382,7 +388,7 @@
 "一个劲儿",
 7,
 "yī gè jìn r",
-"erhua variant of 一个劲[yī gè jìn]"
+"continuously; persistently; incessantly"
 ],
 [
 "婴儿",
@@ -420,7 +426,7 @@
 "点儿",
 133.31,
 "diǎn r",
-"erhua variant of 点[diǎn]"
+"point; dot; drop; speck; o'clock; point (in space or time); to draw a dot; to check on a list; to choose; to order (food in a restaurant); to touch briefly; to hint; to light; to ignite; to pour a liquid drop by drop; (old) one fifth of a two-hour watch 更[gēng]; dot stroke in Chinese characters; classifier for items"
 ],
 [
 "事儿",
@@ -437,20 +443,20 @@
 [
 "会儿",
 48.44,
-"huì",
+"huì r",
 "can (i.e. have the skill, know how to); likely to; sure to; to meet; to get together; meeting; gathering; union; group; association; a moment (Taiwan pr. for this sense is [huǐ])"
 ],
 [
 "会儿",
 48.44,
-"kuài",
+"kuài r",
 "to balance an account; accountancy; accounting"
 ],
 [
 "哥们儿",
 25.19,
 "gē men r",
-"erhua variant of 哥们[gē men]"
+"Brothers!; brethren; dude (colloquial); brother (diminutive form of address between males)"
 ],
 [
 "孩儿",
@@ -498,7 +504,13 @@
 "劲儿",
 6.71,
 "jìn r",
-"erhua variant of 劲[jìn]"
+"strength; energy; enthusiasm; spirit; mood; expression; interest; CL:把[bǎ]; Taiwan pr. [jìng]"
+],
+[
+"劲儿",
+6.71,
+"jìng r",
+"stalwart; sturdy; strong; powerful"
 ],
 [
 "孤儿院",

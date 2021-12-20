@@ -10,12 +10,6 @@
 "趟",
 6,
 "tāng",
-"old variant of 趟[tāng]"
-],
-[
-"趟",
-6,
-"tāng",
 "to wade; to trample; to turn the soil"
 ],
 [
@@ -25,7 +19,14 @@
 "classifier for times, round trips or rows; a time; a trip"
 ]
 ],
-"extraWords": [],
+"extraWords": [
+[
+"白跑一趟",
+0.27,
+"bái pǎo yī tàng",
+"to go on an errand for nothing; to go on a wild-goose chase"
+]
+],
 "strokes": [
 "M 354 580 Q 447 604 452 609 Q 461 616 456 625 Q 449 635 420 642 Q 375 648 357 631 L 305 613 Q 248 598 187 588 Q 153 581 178 566 Q 223 547 306 568 L 354 580 Z",
 "M 346 477 Q 350 529 354 580 L 357 631 Q 360 700 370 740 Q 379 777 366 789 Q 363 792 361 793 Q 327 812 304 815 Q 288 819 280 810 Q 273 803 281 788 Q 300 760 301 741 Q 305 680 305 613 L 306 568 Q 306 519 304 464 C 303 434 344 447 346 477 Z",

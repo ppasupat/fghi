@@ -144,7 +144,8 @@ def main():
             try:
                 paths = parse_makemeahanzi.get_svg_paths(char)
             except FileNotFoundError:
-                print('WARNING: SVG for {} not found'.format(char))
+                if args.verbose:
+                    print('WARNING: SVG for {} not found'.format(char))
                 paths = []
             info = {
                     'char': char,

@@ -22,6 +22,9 @@ def _verify_gloss(word, gloss):
     if (gloss.startswith('variant of ' + word) and
             re.match('variant of ' + word + '\[[^\]]+\]$', gloss)):
         return False
+    if (gloss.startswith('old variant of ' + word) and
+            re.match('old variant of ' + word + '\[[^\]]+\]$', gloss)):
+        return False
     return True
 
 
@@ -44,10 +47,15 @@ def get_word_to_pron_gloss():
 
 def lookup_cedict(cedict, word, verbose=False):
     """Returns a list of (pron, gloss)."""
-    if word not in cedict and word[-1] == '儿':
-        if verbose:
-            print('Try looking up {} --> {}'.format(word, word[:-1]))
-        return lookup_cedict(cedict, word[:-1], verbose=verbose)
+    if word[-1] == '儿':
+        if word not in cedict or (
+                len(cedict[word]) == 1 and cedict[word][0][1].startswith('erhua variant')):
+            if verbose:
+                print('Try looking up {} --> {}'.format(word, word[:-1]))
+            result = lookup_cedict(cedict, word[:-1], verbose=verbose)
+            if result != [['???', '???']]:
+                result = [(pron + ' r', gloss) for (pron, gloss) in result]
+            return result
     if word not in cedict:
         if verbose:
             print('WARNING: "{}" not in CEDICT'.format(word))
