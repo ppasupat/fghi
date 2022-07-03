@@ -102,17 +102,17 @@ $(function () {
     charToCats = {};
     for (let cat of Object.keys(catsRaw)) {
       for (let i = 0; i < catsRaw[cat].length; i++) {
-        let char = catsRaw[cat][i], catName = cat;
+        let chr = catsRaw[cat][i], catName = cat;
         if (cat === 'B' || cat === 'M') {
           if (i >= CHAR_FREQ1) {
             if (i >= CHAR_FREQ2) continue;
             catName += '2';
           }
         }
-        if (charToCats[char] === undefined) {
-          charToCats[char] = [];
+        if (charToCats[chr] === undefined) {
+          charToCats[chr] = [];
         }
-        charToCats[char].push(catName);
+        charToCats[chr].push(catName);
       }
     }
   }
@@ -161,22 +161,36 @@ $(function () {
 
   // Click on a character in the grid
   $('#chars-pane').on('click', 'i', function (event) {
-    let cell = $(this), char = cell.text(), code = char.charCodeAt(0);
+    let cell = $(this), chr = cell.text(), code = chr.charCodeAt(0);
     $('#chars-pane .selected').removeClass('selected');
     cell.addClass('selected');
-    currentChar = char;
+    if (currentChar === chr) return;
+    currentChar = chr;
     $.get('data/vocab/' + code + '.json', populateCharData).fail(function () {
-      clearData(char);
+      clearData(chr);
     });
   });
 
-  // Click on a character in a vocab entry
-  $('#words-pane').on('click', '.wc', function () {
-    let cell = charToCell[$(this).text()];
-    if (!cell) return;
+  // Search for character
+  function searchChar(chr, alsoClick) {
+    let cell = charToCell[chr];
+    if (!cell) {
+      $('#toolbar').addClass('notfound');
+      setTimeout(function () { $('#toolbar').removeClass('notfound'); }, 300);
+      return false;
+    }
     $('#chars-pane').animate({ scrollTop: scrollOffset(cell) });
     cell.addClass('flash');
     setTimeout(function () { cell.removeClass('flash'); }, 1000);
+    if (alsoClick) cell.click();
+    return true;
+  }
+
+  $('#char-search').change(function () {
+    searchChar($('#char-search').val(), true);
+  });
+  $('#words-pane').on('click', '.wc', function () {
+    searchChar($(this).text());
   });
 
   // The "Grid:" dropdown

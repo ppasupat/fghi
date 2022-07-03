@@ -2,6 +2,9 @@
 v2.0 | 20110126
 License: none (public domain)
  */
+* {
+  box-sizing: border-box;
+}
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -19,7 +22,6 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  box-sizing: border-box;
   font: inherit;
   vertical-align: baseline;
 }
@@ -65,39 +67,50 @@ body {
 }
 
 #toolbar {
-  height: 2.5em;
+  height: 2.5rem;
   background-color: #eee;
   box-shadow: 0 1px 5px #ccc;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+#toolbar #char-search {
+  margin: .2rem;
+  height: 2rem;
+  line-height: 2rem;
+  width: 3rem;
+  text-align: center;
+}
 #toolbar select {
-  margin: .3em;
-  height: 2em;
+  margin: .2rem;
+  height: 1.8rem;
 }
 #toolbar #about-link {
   display: block;
-  margin: .3em;
+  margin: .2rem;
   text-decoration: none;
   background-color: #777;
   color: #eee;
-  border-radius: 2em;
   font-weight: bold;
-  width: 1.3em;
-  height: 1.3em;
-  line-height: 1.3em;
+  width: 1.2rem;
+  height: 1.2rem;
+  line-height: 1.2rem;
+  border-radius: 1.2rem;
   text-align: center;
 }
 #toolbar #about-link:hover {
   background-color: #aaa;
 }
 
+#toolbar.notfound {
+  background-color: #faa;
+}
+
 #wrapper {
   height: 0;
   flex: 1 1 auto;
   width: 100%;
-  font-size: 28px;
+  font-size: 180%;
   display: flex;
   flex-direction: row;
 }
@@ -117,10 +130,10 @@ body {
   Grid */
 
 #chars-pane .grid-section {
-  margin: 30px 0;
+  margin: 2rem 0;
 }
 #chars-pane p {
-  margin: 5px 0;
+  margin: .2em 0;
 }
 #chars-pane p.grid-section-title {
   font-weight: bold;
@@ -131,14 +144,14 @@ body {
   display: inline-block;
   margin: 1px;
   border: 2px solid transparent;
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
+  width: calc(2rem + 6px);
+  height: calc(2rem + 6px);
+  line-height: calc(2rem + 2px);
   text-align: center;
   vertical-align: bottom;
 }
 #chars-pane b {
-  font-size: 12px;
+  font-size: 50%;
   font-weight: bold;
 }
 #chars-pane i {
@@ -146,6 +159,7 @@ body {
 }
 #chars-pane i.flash {
   background-color: yellow;
+  border: 2px solid orange;
 }
 #chars-pane i:hover{
   border: 2px solid pink;
