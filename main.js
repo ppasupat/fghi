@@ -123,6 +123,7 @@ $(function () {
 
   function populateGrid(gridRaw) {
     $('#chars-pane-inner').empty();
+    charToCell = {};
     let currentSection = null;
     gridRaw.forEach(function (row_raw) {
       if (row_raw.length === 0) return;
@@ -159,16 +160,21 @@ $(function () {
     $('#chars-pane').scrollTop(0);
   }
 
-  // Click on a character in the grid
-  $('#chars-pane').on('click', 'i', function (event) {
-    let cell = $(this), chr = cell.text(), code = chr.charCodeAt(0);
-    $('#chars-pane .selected').removeClass('selected');
-    cell.addClass('selected');
+  function getCharData(chr) {
     if (currentChar === chr) return;
     currentChar = chr;
+    let code = chr.charCodeAt(0);
     $.get('data/vocab/' + code + '.json', populateCharData).fail(function () {
       clearData(chr);
     });
+  }
+
+  // Click on a character in the grid
+  $('#chars-pane').on('click', 'i', function (event) {
+    let cell = $(this), chr = cell.text();
+    $('#chars-pane .selected').removeClass('selected');
+    cell.addClass('selected');
+    getCharData(chr);
   });
 
   // Search for character
@@ -177,15 +183,24 @@ $(function () {
     if (!cell) {
       $('#toolbar').addClass('notfound');
       setTimeout(function () { $('#toolbar').removeClass('notfound'); }, 300);
-      return false;
+      if (alsoClick) {
+        $('#chars-pane .selected').removeClass('selected');
+        getCharData(chr);
+      }
+    } else {
+      $('#chars-pane').animate({ scrollTop: scrollOffset(cell) });
+      cell.addClass('flash');
+      setTimeout(function () { cell.removeClass('flash'); }, 1000);
+      if (alsoClick) cell.click();
     }
-    $('#chars-pane').animate({ scrollTop: scrollOffset(cell) });
-    cell.addClass('flash');
-    setTimeout(function () { cell.removeClass('flash'); }, 1000);
-    if (alsoClick) cell.click();
     return true;
   }
 
+  $('#char-search').keyup(function (event) {
+    if (event.key === 'Enter') {
+      searchChar($('#char-search').val(), true);
+    }
+  });
   $('#char-search').change(function () {
     searchChar($('#char-search').val(), true);
   });
