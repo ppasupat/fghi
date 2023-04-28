@@ -29,6 +29,14 @@ def main():
             for line in _group(char_cats[level], 15):
                 print('["","{}"],'.format(line), file=fout)
         print('[]]', file=fout)
+    print('Writing grid-hsk-sorted.json')
+    with open('grids/grid-hsk-sorted.json', 'w') as fout:
+        print('[', file=fout)
+        for level in '1234567':
+            print('["#","HSK {}"],'.format('7-9' if level == '7' else level), file=fout)
+            for line in _group(''.join(sorted(char_cats[level])), 15):
+                print('["","{}"],'.format(line), file=fout)
+        print('[]]', file=fout)
 
     # Character frequency
     print('Writing grid-book.json')
