@@ -2,10 +2,6 @@
 
 ## Grids
 
-- **HSK Level (2021):** The list of characters from the [Chinese Proficiency Test version 3.0](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202103/t20210329_523304.html).
-  - The data comes from [Pleco's OCR'ed lists](https://github.com/elkmovie/hsk30) ([Forum post](https://plecoforums.com/threads/hsk-3-0-flashcards.6706/)).
-- **Frequency (book):** [Jun Da](https://lingua.mtsu.edu/chinese-computing/statistics/)'s character frequency in modern Chinese text, up to rank 3000.
-- **Frequency (movie):** Character frequency in movie subtitles from [SUBTLEX-CH](http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-ch), up to rank 3000.
 - **Hanzigong:** [汉字宫](https://baike.baidu.com/item/汉字宫) is a series of 720 short videos teaching ~3000 Chinese characters. These were once popular in Thailand.
   - The first 47 episodes cover basic character components, as well as how complex characters are formed.
   - Afterwards, the more complex characters are grouped based on their "cores" (usually the phonetic parts but not always; e.g., 日: 旦昌旭时间晶旧...), and then the groups are arranged into themes (e.g., 日 is grouped with 月夕气云雨...).
@@ -17,6 +13,10 @@
 - **Gold Book:** [汉字图解字典](https://baike.baidu.com/item/汉字图解字典/5068750) is a character dictionary that shows illustrations of character origins and (re-)analyzes them.
   - The characters are grouped by semantics. Related characters are further grouped together.
   - The grid was manually transcribed by me.
+- **HSK Level (2021):** The list of characters from the [Chinese Proficiency Test version 3.0](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202103/t20210329_523304.html).
+  - The data comes from [Pleco's OCR'ed lists](https://github.com/elkmovie/hsk30) ([Forum post](https://plecoforums.com/threads/hsk-3-0-flashcards.6706/)).
+- **Frequency (book):** [Jun Da](https://lingua.mtsu.edu/chinese-computing/statistics/)'s character frequency in modern Chinese text, up to rank 3000.
+- **Frequency (movie):** Character frequency in movie subtitles from [SUBTLEX-CH](http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-ch), up to rank 3000.
 
 ## Filters
 
