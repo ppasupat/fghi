@@ -61,11 +61,9 @@ $(function () {
     $('#words-pane').empty();
     // character
     let charInfoBox = $('<div class=char-info>').appendTo('#words-pane');
-    let svg = $('<svg class=char-img>').attr({
-      'width': 256, 'height': 256,
-    }).appendTo(charInfoBox);
+    let svg = $('<svg class=char-img>').appendTo(charInfoBox);
     let svgOuterGroup = S('g', {
-      'transform': 'scale(.25)',
+      'class': 'outer-group',
     }).appendTo(svg);
     let svgGroup = S('g', {
       'transform': 'scale(1, -1) translate(0, -900)',

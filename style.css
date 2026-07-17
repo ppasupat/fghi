@@ -230,10 +230,15 @@ body {
 }
 #words-pane .char-img {
   border: 1px solid #bbb;
+  width: 256px;
+  height: 256px;
+}
+#words-pane .char-img g.outer-group {
+  transform: scale(0.25);
 }
 
 #words-pane .words-list {
-  margin: 15px 0;
+  margin: 15px 15px;
 }
 #words-pane .entry {
   margin-bottom: .6em;
@@ -286,7 +291,7 @@ body {
     font-size: 150%;
   }
   #chars-pane {
-    flex: 1 1 55%;
+    flex: 1 1 50%;
     width: 100%;
     min-height: 0;
     border-bottom: 2px solid #ccc;
@@ -301,8 +306,11 @@ body {
     padding-left: 30px;
   }
   #words-pane .char-img {
-    width: 140px;
-    height: 140px;
+    width: 128px;
+    height: 128px;
+  }
+  #words-pane .char-img g.outer-group {
+    transform: scale(0.125);
   }
 }
 
