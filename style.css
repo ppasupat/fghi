@@ -263,3 +263,51 @@ body {
 #words-pane .vx {
   color: #cccccf;
 }
+
+/*################################
+  Mobile */
+
+@media (max-width: 700px) {
+  #toolbar {
+    height: auto;
+    min-height: 2.5rem;
+    flex-wrap: wrap;
+    padding: .2rem 0;
+  }
+  #toolbar #char-search {
+    width: 2.5rem;
+  }
+  #toolbar select {
+    font-size: 90%;
+  }
+
+  #wrapper {
+    flex-direction: column;
+    font-size: 150%;
+  }
+  #chars-pane {
+    flex: 1 1 55%;
+    width: 100%;
+    min-height: 0;
+    border-bottom: 2px solid #ccc;
+  }
+  #words-pane {
+    flex: 1 1 45%;
+    width: 100%;
+    min-height: 0;
+  }
+
+  #words-pane .gloss {
+    padding-left: 30px;
+  }
+  #words-pane .char-img {
+    width: 140px;
+    height: 140px;
+  }
+}
+
+@media (max-width: 420px) {
+  #wrapper {
+    font-size: 130%;
+  }
+}
